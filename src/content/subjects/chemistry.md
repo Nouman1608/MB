@@ -8,8 +8,12 @@ shortDescription: "Chemistry at IGCSE · O · A Level, with study material organ
 description: "Chemistry teaching and study resources, organised by level and topic."
 featured: true
 faqs:
-  - question: "Does Marlbridge teach Chemistry for IGCSE, O Level and A Level?"
-    answer: "Yes. Marlbridge teaches Cambridge IGCSE, O Level and A Level Chemistry, and publishes free study material for all three."
+  - question: "Does Marlbridge teach O Level Chemistry?"
+    answer: "Yes. Marlbridge teaches Cambridge O Level Chemistry (syllabus 5070) and publishes free study material for it."
+  - question: "Does Marlbridge teach IGCSE Chemistry?"
+    answer: "Yes. Marlbridge teaches Cambridge IGCSE Chemistry (syllabus 0620) and publishes free study material for it."
+  - question: "Does Marlbridge teach A Level Chemistry?"
+    answer: "Yes. Marlbridge teaches Cambridge International AS & A Level Chemistry (syllabus 9701) and publishes free study material for it."
   - question: "Are Marlbridge's Chemistry study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "How do I start Chemistry tuition with Marlbridge?"

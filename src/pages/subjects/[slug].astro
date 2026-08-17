@@ -9,7 +9,8 @@ import ResourceCard from '../../components/cards/ResourceCard.astro';
 import ArticleCard from '../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
 import FAQ from '../../components/ui/FAQ.astro';
-import { getSubjects } from '../../utils/content/collections';
+import Badge from '../../components/ui/Badge.astro';
+import { getSubjects, availabilityLabel, availabilityTone } from '../../utils/content/collections';
 import { resourcesForSubject, relatedArticles } from '../../utils/content/related';
 import { faqNode } from '../../utils/schema/faq';
 import { offeringsForSubject, academicHubPath } from '../../utils/academic';
@@ -51,7 +52,10 @@ const offerings = offeringsForSubject(subject.id);
   jsonLd={faq ? [faq] : []}
   noindex={d.noindex}
 >
-  <p slot="hero-extra" class="mt-6 text-[14px] text-ink-mute">Levels: {d.levelsLabel}</p>
+  <div slot="hero-extra" class="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3">
+    {offerings.length > 0 && <Badge label={availabilityLabel[d.status]} tone={availabilityTone[d.status]} />}
+    <span class="text-[14px] text-ink-mute">Levels: {d.levelsLabel}</span>
+  </div>
 
   <Section surface="white">
     <Container>
@@ -66,7 +70,7 @@ const offerings = offeringsForSubject(subject.id);
             Choose your board and qualification
           </h2>
           <p class="m-0 mb-6 max-w-[68ch] text-[16.5px] leading-[1.65] text-ink-mute">
-            These are distinct qualifications with different syllabuses and assessments. Pick the one your school enters you for.
+            <strong class="text-navy-800">{d.title} is taught by Marlbridge today</strong>, for each qualification below — these are distinct qualifications with different syllabuses and assessments. Pick the one your school enters you for.
           </p>
           <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
             {offerings.map((o) => {
