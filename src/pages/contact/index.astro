@@ -3,11 +3,41 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import EnquiryForm from '../../components/forms/EnquiryForm.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import { faqNode } from '../../utils/schema/faq';
 import { getPrograms, getSubjects } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
 
 const programs = (await getPrograms()).map((p) => p.data.title);
 const subjects = (await getSubjects()).map((s) => s.data.title);
+
+/**
+ * Small, high-value set — enrollment/pricing/format/coverage questions a
+ * visitor genuinely asks before enquiring. Every answer is drawn from
+ * verified copy already published elsewhere on the site (About, Programs,
+ * Tutoring); none is invented. Pricing is stated honestly as unpublished
+ * rather than left silent, since "how much does it cost" is the single
+ * most likely question this page needs to answer. Phase 7 (Aug 2026).
+ */
+const faqs = [
+  {
+    question: 'How much does Marlbridge tuition cost?',
+    answer: 'Marlbridge does not publish tuition fees on this website. Send your enquiry with the subject and level, and we will confirm current pricing by email.',
+  },
+  {
+    question: 'How does enrollment work at Marlbridge?',
+    answer: 'Fill in the enquiry form with the subject, the level, and where the learner needs help. Marlbridge replies by email to confirm whether — and how — it can help.',
+  },
+  {
+    question: 'Is Marlbridge tuition online or in person?',
+    answer: 'Both. Marlbridge teaches one-to-one and in small groups in Pakistan, and online for learners outside its teaching locations.',
+  },
+  {
+    question: 'Which qualifications does Marlbridge teach?',
+    answer: 'Marlbridge currently teaches IGCSE, O Level and A Level, plus general academic support. GCSE and IB study resources are published, with teaching in development. IELTS and SAT are not yet offered.',
+  },
+];
+const faq = faqNode(faqs);
 ---
 <PageLayout
   title="Contact"
@@ -17,8 +47,16 @@ const subjects = (await getSubjects()).map((s) => s.data.title);
   heading="Tell us what the learner needs."
   lead="Send the subject, the level and where the difficulty is. We will reply honestly about whether we can help."
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Contact', href: routes.contact }]}
+  jsonLd={faq ? [faq] : []}
 >
   <Section surface="white">
     <Container><EnquiryForm kind="student" programs={programs} subjects={subjects} /></Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions</h2>
+      <FAQ items={faqs} id="contact-faqs" />
+    </Container>
   </Section>
 </PageLayout>
