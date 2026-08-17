@@ -1,3 +1,7 @@
 node_modules/
 dist/
 .astro/
+
+# Generated review artefacts from the academic matrix (not published)
+academic-matrix.json
+academic-matrix.csv

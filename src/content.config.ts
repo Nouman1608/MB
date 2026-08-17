@@ -10,6 +10,9 @@ const seoFields = {
 
 /** available = taught now, resources-only = published but not taught, coming-soon = neither yet. */
 const status = z.enum(['available', 'coming-soon', 'resources-only']);
+/** Kept in step with src/data/academic/. Validated against the matrix at build time. */
+const boardSlug = z.enum(['cambridge', 'edexcel', 'aqa', 'ocr']);
+const qualificationSlug = z.enum(['igcse', 'o-level', 'gcse', 'as-level', 'a-level']);
 const level = z.enum(['igcse', 'o-levels', 'a-levels', 'gcse', 'ib', 'sat', 'ielts', 'foundation']);
 const country = z.enum(['PK', 'AE', 'SA', 'IN', 'GB', 'EU', 'WW']);
 
@@ -62,6 +65,13 @@ const resources = defineCollection({
     subject: reference('subjects'),
     level: z.array(level),
     curriculum: z.string().optional(),
+    /**
+     * Academic taxonomy. Slugs are validated against the master matrix by
+     * scripts/validate-academic-content.mjs — a resource may not claim a
+     * board/qualification combination that is not ACTIVE.
+     */
+    boards: z.array(boardSlug).default([]),
+    qualifications: z.array(qualificationSlug).default([]),
     topic: z.string().optional(),
     description: z.string(),
     author: reference('authors').optional(),
@@ -90,6 +100,13 @@ const articles = defineCollection({
     tags: z.array(z.string()).max(6).default([]),
     subjects: z.array(reference('subjects')).default([]),
     levels: z.array(level).default([]),
+    /**
+     * Optional academic taxonomy. Deliberately NOT required: general study-skills
+     * content should stay general rather than be forced into a board/qualification.
+     */
+    boards: z.array(boardSlug).default([]),
+    qualifications: z.array(qualificationSlug).default([]),
+    topics: z.array(z.string()).default([]),
     featuredImage: z.string().optional(),
     featuredImageAlt: z.string().optional(),
     featured: z.boolean().default(false),
