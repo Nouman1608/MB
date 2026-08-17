@@ -25,6 +25,7 @@ import EmptyState from '../../../../components/ui/EmptyState.astro';
 import CTA from '../../../../components/ui/CTA.astro';
 import { activeOnly, offeringsForSubject, academicHubPath, type Combination } from '../../../../utils/academic';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
+import { topicsFor } from '../../../../data/academic/syllabus-topics';
 import { getResources } from '../../../../utils/content/collections';
 import { relatedArticles } from '../../../../utils/content/related';
 import { courseNode } from '../../../../utils/schema/course';
@@ -58,8 +59,19 @@ const revision = resources.filter((r) => r.data.resourceType === 'revision-notes
 const examPrep = resources.filter((r) => ['past-papers', 'practice-questions', 'exam-preparation'].includes(r.data.resourceType));
 const articles = await relatedArticles({ subject: c.subjectSlug, limit: 3 });
 
-/** Topics are derived from published resources only — never an invented syllabus list. */
-const topics = [...new Set(resources.map((r) => r.data.topic).filter(Boolean))] as string[];
+/**
+ * Official syllabus topics, straight from the awarding body's document.
+ * Marlbridge resource coverage is computed per topic so the page can state
+ * plainly which topics we have material for — and which we do not.
+ */
+const syllabusTopics = topicsFor(c.qualificationSlug);
+const coverage = (syllabusTopics?.topics ?? []).map((t) => ({
+  topic: t,
+  resources: resources.filter((r) =>
+    r.data.syllabusTopics.some((m) => m.qualification === c.qualificationSlug && m.topic === t.slug),
+  ),
+}));
+const covered = coverage.filter((x) => x.resources.length > 0).length;
 
 /** The other approved qualifications for this subject — the sibling hubs. */
 const siblings = offeringsForSubject(c.subjectSlug).filter((o) => o.qualificationSlug !== c.qualificationSlug);
@@ -140,20 +152,69 @@ const jsonLd = [courseNode({
 
   <Section surface="ivory" labelledby="topics-heading" border>
     <Container>
-      <h2 id="topics-heading" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Topics</h2>
-      <p class="m-0 mb-[clamp(24px,3vw,40px)] max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
-        Topics appear here as Marlbridge publishes material for them. This is not the full syllabus — the awarding body's specification is the authority on what is examinable.
-      </p>
-      {topics.length > 0 ? (
-        <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-3">
-          {topics.map((topic) => (
-            <li class="m-0 bg-white p-[clamp(18px,2vw,26px)] text-[16.5px] text-ink">{topic}</li>
-          ))}
-        </ul>
+      <h2 id="topics-heading" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Syllabus topics</h2>
+      {syllabusTopics ? (
+        <>
+          <p class="m-0 mb-2 max-w-[70ch] text-[16.5px] leading-[1.65] text-ink-mute">
+            The {syllabusTopics.topics.length} topics below are the official subject content of
+            <strong class="font-semibold text-navy-800"> {syllabusTopics.officialTitle}</strong>,
+            for the {syllabusTopics.series} examination series, reproduced from the
+            <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> Cambridge syllabus document</a>.
+          </p>
+          <p class="m-0 mb-[clamp(24px,3vw,40px)] max-w-[70ch] text-[15.5px] leading-[1.6] text-ink-mute">
+            A topic listed here is part of the syllabus. It does <strong class="font-semibold text-navy-800">not</strong> mean
+            Marlbridge has published material for it — topics with resources are marked.
+            Marlbridge currently has resources for {covered} of {syllabusTopics.topics.length} topics.
+          </p>
+
+          <ol class="m-0 list-none border-t border-rule p-0">
+            {coverage.map(({ topic, resources: got }) => (
+              <li class="m-0 border-b border-rule py-4">
+                <div class="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2">
+                  <p class="m-0 flex items-baseline gap-3 text-[17px] text-ink">
+                    <span class="font-mono text-[12px] text-gold-600">
+                      {topic.stage ? `${topic.stage} ` : ''}{topic.number}
+                    </span>
+                    <span>{topic.name}</span>
+                  </p>
+                  {got.length > 0 ? (
+                    <span class="shrink-0 rounded-sm border border-[#B7D8C6] bg-[#EEF7F1] px-2 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-success">
+                      {got.length} Marlbridge {got.length === 1 ? 'resource' : 'resources'}
+                    </span>
+                  ) : (
+                    <span class="shrink-0 font-mono text-[10.5px] uppercase tracking-[0.08em] text-ink-mute">
+                      Syllabus topic · no resource yet
+                    </span>
+                  )}
+                </div>
+
+                {got.length > 0 && (
+                  <ul class="m-0 mt-2.5 list-none p-0 ps-[calc(1.5rem+12px)]">
+                    {got.map((r) => (
+                      <li class="m-0">
+                        <a href={`/resources/${r.id}/`} class="text-[15.5px] underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{r.data.title}</a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+
+                {topic.subtopics.length > 0 && (
+                  <p class="m-0 mt-2 ps-[calc(1.5rem+12px)] text-[14px] leading-relaxed text-ink-mute">
+                    {topic.subtopics.map((st) => st.name).join(' · ')}
+                  </p>
+                )}
+              </li>
+            ))}
+          </ol>
+
+          <p class="m-0 mt-6 text-[14px] text-ink-mute">
+            Source: {syllabusTopics.source}. Verified {syllabusTopics.verifiedOn}. Always check the current syllabus for your examination year.
+          </p>
+        </>
       ) : (
         <EmptyState
-          heading="No topics published yet"
-          body="Material for this qualification is being written topic by topic."
+          heading="Syllabus topics are being verified"
+          body="Topics are published here once confirmed against the awarding body's syllabus document."
           primary={{ label: 'Browse all resources', href: routes.resources }}
         />
       )}

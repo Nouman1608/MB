@@ -17,10 +17,10 @@ const load = (file) => JSON.parse(execSync(
 
 const { MATRIX } = load('src/data/academic/matrix.ts');
 const active = new Set(
-  MATRIX.filter((c) => c.status === 'ACTIVE').map((c) => `${c.boardSlug}|${c.qualificationSlug}`),
+  MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE').map((c) => `${c.boardSlug}|${c.qualificationSlug}`),
 );
-const activeBoards = new Set(MATRIX.filter((c) => c.status === 'ACTIVE').map((c) => c.boardSlug));
-const activeQuals = new Set(MATRIX.filter((c) => c.status === 'ACTIVE').map((c) => c.qualificationSlug));
+const activeBoards = new Set(MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE').map((c) => c.boardSlug));
+const activeQuals = new Set(MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE').map((c) => c.qualificationSlug));
 
 const listField = (fm, name) => {
   const m = fm.match(new RegExp(`^${name}:\\s*\\[(.*?)\\]`, 'm'));
@@ -54,3 +54,47 @@ if (errors.length) {
   process.exit(1);
 }
 console.log('Academic content tagging OK.');
+
+// ---------------------------------------------------------------------------
+// SYLLABUS TOPIC REFERENCES
+// A resource may only cite a topic/subtopic that exists in the official
+// syllabus taxonomy for that qualification — no invented topic slugs.
+// ---------------------------------------------------------------------------
+const { SYLLABUS_TOPICS } = load('src/data/academic/syllabus-topics.ts');
+const topicIndex = new Map();
+for (const s of SYLLABUS_TOPICS) {
+  topicIndex.set(s.qualificationSlug, {
+    topics: new Set(s.topics.map((t) => t.slug)),
+    subtopics: new Set(s.topics.flatMap((t) => t.subtopics.map((st) => st.slug))),
+  });
+}
+
+const topicErrors = [];
+for (const dir of ['src/content/resources', 'src/content/articles']) {
+  let files = [];
+  try { files = (await readdir(dir)).filter((f) => f.endsWith('.md')); } catch { continue; }
+  for (const file of files) {
+    const raw = await readFile(join(dir, file), 'utf8');
+    const fm = raw.split('---')[1] ?? '';
+    const at = `${dir}/${file}`;
+    const block = fm.match(/^syllabusTopics:\s*\n([\s\S]*?)(?=^\S|\Z)/m);
+    if (!block) continue;
+    const entries = block[1].split(/^\s*-\s+/m).slice(1);
+    for (const e of entries) {
+      const q = (e.match(/qualification:\s*"?([a-z-]+)"?/) || [])[1];
+      const t = (e.match(/topic:\s*"?([a-z0-9-]+)"?/) || [])[1];
+      const st = (e.match(/subtopic:\s*"?([a-z0-9-]+)"?/) || [])[1];
+      const idx = topicIndex.get(q);
+      if (!idx) { topicErrors.push(`${at}: no official topic taxonomy for qualification "${q}"`); continue; }
+      if (t && !idx.topics.has(t)) topicErrors.push(`${at}: topic "${t}" is not in the official ${q} syllabus`);
+      if (st && !idx.subtopics.has(st)) topicErrors.push(`${at}: subtopic "${st}" is not in the official ${q} syllabus`);
+    }
+  }
+}
+if (topicErrors.length) {
+  console.error(`\nSyllabus topic validation FAILED — ${topicErrors.length} problem(s):\n`);
+  for (const e of topicErrors) console.error(`  • ${e}`);
+  console.error('');
+  process.exit(1);
+}
+console.log('Syllabus topic references OK.');

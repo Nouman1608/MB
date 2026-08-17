@@ -73,6 +73,20 @@ const resources = defineCollection({
     boards: z.array(boardSlug).default([]),
     qualifications: z.array(qualificationSlug).default([]),
     topic: z.string().optional(),
+    /**
+     * Mapping to the OFFICIAL syllabus taxonomy. Each entry ties this resource
+     * to a specific qualification's topic (and optionally subtopic), because
+     * the same concept sits at a different place in each syllabus.
+     * Validated against src/data/academic/syllabus-topics.ts at build time.
+     */
+    syllabusTopics: z.array(z.object({
+      qualification: qualificationSlug,
+      topic: z.string(),
+      subtopic: z.string().optional(),
+    })).default([]),
+    /** Set when applicability to a qualification is uncertain and needs a human check. */
+    reviewNeeded: z.boolean().default(false),
+    reviewNote: z.string().optional(),
     description: z.string(),
     author: reference('authors').optional(),
     publishedDate: z.coerce.date(),
@@ -107,6 +121,12 @@ const articles = defineCollection({
     boards: z.array(boardSlug).default([]),
     qualifications: z.array(qualificationSlug).default([]),
     topics: z.array(z.string()).default([]),
+    /** Optional syllabus mapping. General articles legitimately have none. */
+    syllabusTopics: z.array(z.object({
+      qualification: qualificationSlug,
+      topic: z.string(),
+      subtopic: z.string().optional(),
+    })).default([]),
     featuredImage: z.string().optional(),
     featuredImageAlt: z.string().optional(),
     featured: z.boolean().default(false),

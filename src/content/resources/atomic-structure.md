@@ -4,6 +4,15 @@ resourceType: "revision-notes"
 subject: "chemistry"
 level: ["igcse","o-levels"]
 topic: "Atomic structure"
+boards: ["cambridge"]
+qualifications: ["igcse", "o-level"]
+syllabusTopics:
+  - qualification: "igcse"
+    topic: "atoms-elements-and-compounds"
+    subtopic: "atomic-structure-and-the-periodic-table"
+  - qualification: "o-level"
+    topic: "atoms-elements-and-compounds"
+    subtopic: "atomic-structure-and-the-periodic-table"
 description: "Protons, neutrons, electrons and electron arrangement — the model you need before bonding makes sense."
 author: "marlbridge-academic-team"
 publishedDate: 2026-07-01
