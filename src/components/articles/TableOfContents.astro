@@ -1,0 +1,19 @@
+---
+import type { MarkdownHeading } from 'astro';
+
+interface Props { headings: readonly MarkdownHeading[] }
+const { headings } = Astro.props;
+const items = headings.filter((h) => h.depth === 2 || h.depth === 3);
+---
+{items.length >= 3 && (
+  <nav aria-labelledby="toc-heading" class="mb-10 border-y border-rule py-6">
+    <h2 id="toc-heading" class="m-0 mb-4 font-mono text-[11px] uppercase tracking-[0.14em] text-gold-600">On this page</h2>
+    <ol class="m-0 flex list-none flex-col gap-2 p-0">
+      {items.map((h) => (
+        <li class={`m-0 ${h.depth === 3 ? 'ps-5' : ''}`}>
+          <a href={`#${h.slug}`} class="text-[15.5px] text-ink-mute hover:text-gold-600">{h.text}</a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}

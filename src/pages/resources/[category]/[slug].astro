@@ -1,0 +1,121 @@
+---
+import { getEntry, render, type CollectionEntry } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Section from '../../../components/layout/Section.astro';
+import Container from '../../../components/layout/Container.astro';
+import Button from '../../../components/ui/Button.astro';
+import ResourceCard from '../../../components/cards/ResourceCard.astro';
+import ArticleCard from '../../../components/cards/ArticleCard.astro';
+import RelatedGrid from '../../../components/layout/RelatedGrid.astro';
+import { getResources, resourceCategoryMeta, formatDate } from '../../../utils/content/collections';
+import { relatedResources, relatedArticles, topicSiblings } from '../../../utils/content/related';
+import { articleNode } from '../../../utils/schema/article';
+import { routes, resourceUrl } from '../../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  const resources = await getResources();
+  return resources.map((resource) => ({
+    params: { category: resource.data.category, slug: resource.id },
+    props: { resource },
+  }));
+}
+
+interface Props { resource: CollectionEntry<'resources'> }
+const { resource } = Astro.props;
+const d = resource.data;
+const { Content } = await render(resource);
+const path = resourceUrl(resource);
+
+const subject = await getEntry(d.subject);
+const author = d.author ? await getEntry(d.author) : undefined;
+const meta = resourceCategoryMeta[d.category];
+const levels = d.level.map((l) => l.replace(/-/g, ' ').toUpperCase()).join(', ');
+
+const siblings = await topicSiblings(resource);
+const alsoResources = await relatedResources({ subject: d.subject.id, topic: d.topic, excludeId: resource.id, picked: d.relatedResources, limit: 3 });
+const alsoArticles = await relatedArticles({ subject: d.subject.id, picked: d.relatedArticles, limit: 2 });
+
+const jsonLd = [articleNode({
+  path,
+  headline: d.title,
+  description: d.description,
+  published: d.publishedDate,
+  updated: d.updatedDate,
+  authorName: author?.data.name ?? 'Marlbridge Academic Team',
+})];
+---
+<PageLayout
+  title={d.seoTitle ?? d.title}
+  description={d.seoDescription ?? d.description}
+  path={path}
+  eyebrow={meta.title}
+  heading={d.title}
+  lead={d.description}
+  headingFont="display"
+  type="article"
+  publishedDate={d.publishedDate}
+  updatedDate={d.updatedDate}
+  author={author?.data.name}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Resources', href: routes.resources },
+    { label: meta.title, href: routes.resourceCategory(d.category) },
+    { label: d.title, href: path },
+  ]}
+  jsonLd={jsonLd}
+  noindex={d.noindex}
+>
+  <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
+    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Subject </dt><dd class="m-0 inline"><a href={routes.subject(d.subject.id)} class="underline decoration-rule underline-offset-2">{subject?.data.title}</a></dd></div>
+    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Level </dt><dd class="m-0 inline text-ink-mute">{levels}</dd></div>
+    {d.topic && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Topic </dt><dd class="m-0 inline text-ink-mute">{d.topic}</dd></div>}
+    {author && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Author </dt><dd class="m-0 inline text-ink-mute">{author.data.name}</dd></div>}
+    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Updated </dt><dd class="m-0 inline text-ink-mute"><time datetime={(d.updatedDate ?? d.publishedDate).toISOString()}>{formatDate(d.updatedDate ?? d.publishedDate)}</time></dd></div>
+  </dl>
+
+  <Section surface="white">
+    <Container>
+      <div class="max-w-[68ch] text-[17.5px] leading-[1.75] [&>h2]:mt-10 [&>h2]:text-[24px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>h3]:mt-8 [&>h3]:text-[19px] [&>h3]:font-semibold [&>p]:mt-5 [&>ul]:mt-5 [&>ul]:ps-5 [&>ol]:mt-5 [&>ol]:ps-5">
+        <Content />
+      </div>
+
+      {(siblings.prev || siblings.next) && (
+        <nav aria-label="Topic sequence" class="mt-12 grid gap-4 border-t border-rule pt-6 sm:grid-cols-2">
+          {siblings.prev && (
+            <a href={resourceUrl(siblings.prev)} class="rounded-sm border border-rule p-5 hover:border-gold-500">
+              <span class="block font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">Previous</span>
+              <span class="mt-1 block text-[17px] font-semibold text-navy-800">{siblings.prev.data.title}</span>
+            </a>
+          )}
+          {siblings.next && (
+            <a href={resourceUrl(siblings.next)} class="rounded-sm border border-rule p-5 text-end hover:border-gold-500 sm:col-start-2">
+              <span class="block font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">Next</span>
+              <span class="mt-1 block text-[17px] font-semibold text-navy-800">{siblings.next.data.title}</span>
+            </a>
+          )}
+        </nav>
+      )}
+
+      {alsoResources.length > 0 && (
+        <RelatedGrid id="also-resources" title="Related resources">
+          {alsoResources.map((r) => <li class="m-0"><ResourceCard entry={r} subjectTitle={subject?.data.title} /></li>)}
+        </RelatedGrid>
+      )}
+
+      {alsoArticles.length > 0 && (
+        <RelatedGrid id="also-articles" title="Related articles" columns={2}>
+          {alsoArticles.map((a) => <li class="m-0"><ArticleCard entry={a} /></li>)}
+        </RelatedGrid>
+      )}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" spacing="md" border>
+    <Container class="flex flex-wrap items-baseline justify-between gap-x-10 gap-y-4">
+      <p class="m-0 max-w-[62ch] text-[17px] leading-[1.6] text-ink-mute">
+        Working through {subject?.data.title}? Tutoring covers the same material with a teacher.
+      </p>
+      <Button href={routes.tutoring} variant="secondary">Find Learning Support</Button>
+    </Container>
+  </Section>
+</PageLayout>

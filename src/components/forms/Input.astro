@@ -1,0 +1,10 @@
+---
+interface Props { name: string; type?: string; required?: boolean; autocomplete?: string; inputmode?: string; placeholder?: string }
+const { name, type = 'text', required = false, autocomplete, inputmode, placeholder } = Astro.props;
+---
+<input
+  id={name} name={name} type={type} required={required}
+  autocomplete={autocomplete} inputmode={inputmode} placeholder={placeholder}
+  aria-describedby={`${name}-hint ${name}-error`}
+  class="min-h-11 w-full rounded-sm border border-rule bg-white px-3.5 py-2.5 text-[16px] text-ink focus:border-navy-800"
+/>

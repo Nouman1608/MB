@@ -1,0 +1,37 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import Card from '../../components/cards/Card.astro';
+import Badge from '../../components/ui/Badge.astro';
+import { getPrograms, availabilityLabel, availabilityTone } from '../../utils/content/collections';
+import { routes } from '../../utils/urls/routes';
+
+const programs = await getPrograms();
+---
+<PageLayout
+  title="Programs"
+  description="IGCSE, O Level, A Level, GCSE, IB, SAT, IELTS and academic support at Marlbridge — with study resources for every subject we cover."
+  path={routes.programs}
+  eyebrow="Programs"
+  heading="Programs at Marlbridge"
+  lead="Qualification-focused teaching and academic support. Each program page sets out what it covers, who it suits, and what we currently offer."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Programs', href: routes.programs }]}
+>
+  <Section surface="white">
+    <Container>
+      <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {programs.map((program) => (
+          <li class="m-0 bg-white">
+            <Card href={routes.program(program.id)} title={program.data.title} description={program.data.shortDescription} variant="grid">
+              <Badge slot="badge" label={availabilityLabel[program.data.availability]} tone={availabilityTone[program.data.availability]} />
+            </Card>
+          </li>
+        ))}
+      </ul>
+      <p class="mt-5 text-sm text-ink-mute">
+        Only programs marked <em>Teaching now</em> are currently taught by Marlbridge. Study resources are available where indicated.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>

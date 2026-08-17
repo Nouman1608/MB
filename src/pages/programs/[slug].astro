@@ -1,0 +1,115 @@
+---
+import { getEntry, render, type CollectionEntry } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import Badge from '../../components/ui/Badge.astro';
+import Button from '../../components/ui/Button.astro';
+import Card from '../../components/cards/Card.astro';
+import ResourceCard from '../../components/cards/ResourceCard.astro';
+import RelatedGrid from '../../components/layout/RelatedGrid.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import { getPrograms, availabilityLabel, availabilityTone } from '../../utils/content/collections';
+import { relatedResources } from '../../utils/content/related';
+import { courseNode } from '../../utils/schema/course';
+import { faqNode } from '../../utils/schema/faq';
+import { routes } from '../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  const programs = await getPrograms();
+  return programs.map((program) => ({ params: { slug: program.id }, props: { program } }));
+}
+
+interface Props { program: CollectionEntry<'programs'> }
+const { program } = Astro.props;
+const d = program.data;
+const { Content } = await render(program);
+const path = routes.program(program.id);
+
+const subjects = (await Promise.all(d.subjects.map((ref) => getEntry(ref)))).filter(Boolean);
+const resources = await relatedResources({ level: d.level, limit: 3 });
+
+const availabilityCopy = {
+  'available': 'This program is taught by Marlbridge today.',
+  'resources-only': 'Study resources for this qualification are published here. Teaching is not yet offered.',
+  'coming-soon': 'This program is not yet offered. Tell us you are interested and we will let you know when teaching begins.',
+}[d.availability];
+
+const cta = {
+  'available': { label: 'Enquire about this program', href: routes.contact },
+  'resources-only': { label: 'Explore learning resources', href: routes.resources },
+  'coming-soon': { label: 'Register interest', href: routes.contact },
+}[d.availability];
+
+const jsonLd = [
+  ...(d.availability === 'available' ? [courseNode({ path, name: `${d.title} — Marlbridge`, description: d.description })] : []),
+  ...(faqNode(d.faqs) ? [faqNode(d.faqs)!] : []),
+];
+---
+<PageLayout
+  title={d.seoTitle ?? d.title}
+  description={d.seoDescription ?? d.description}
+  path={path}
+  eyebrow="Program"
+  heading={d.title}
+  lead={d.description}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Programs', href: routes.programs },
+    { label: d.title, href: path },
+  ]}
+  jsonLd={jsonLd}
+  noindex={d.noindex}
+>
+  <div slot="hero-extra" class="mt-7 flex flex-wrap items-center gap-x-6 gap-y-3">
+    <Badge label={availabilityLabel[d.availability]} tone={availabilityTone[d.availability]} />
+    {d.curriculum && <span class="text-[14px] text-ink-mute">Curriculum: {d.curriculum}</span>}
+    {d.ageRange && <span class="text-[14px] text-ink-mute">Typical ages: {d.ageRange}</span>}
+  </div>
+
+  <Section surface="white">
+    <Container>
+      <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+        <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Program overview</h2>
+        <div class="max-w-[68ch] text-[17.5px] leading-[1.7] [&>h2]:mt-8 [&>h2]:text-[22px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>p]:mt-5">
+          <p class="m-0 mb-5 border-s-2 border-gold-500 ps-4 text-[17px] text-ink-mute">{availabilityCopy}</p>
+          <Content />
+        </div>
+      </div>
+
+      {subjects.length > 0 && (
+        <RelatedGrid id="program-subjects" title="Subjects in this program" columns={4}>
+          {subjects.map((subject) => (
+            <li class="m-0">
+              <Card href={routes.subject(subject!.id)} title={subject!.data.title} description={subject!.data.shortDescription} />
+            </li>
+          ))}
+        </RelatedGrid>
+      )}
+
+      {resources.length > 0 && (
+        <RelatedGrid id="program-resources" title="Related resources">
+          {resources.map((resource) => (
+            <li class="m-0"><ResourceCard entry={resource} /></li>
+          ))}
+        </RelatedGrid>
+      )}
+
+      {d.faqs.length > 0 && (
+        <section aria-labelledby="program-faqs" class="mt-[clamp(48px,6vw,80px)] max-w-[80ch]">
+          <h2 id="program-faqs" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions</h2>
+          <FAQ items={d.faqs} />
+        </section>
+      )}
+    </Container>
+  </Section>
+
+  <Section surface="navy" spacing="md">
+    <Container class="flex flex-col items-start gap-6">
+      <h2 class="m-0 max-w-[26ch] font-display text-[length:var(--text-serif-h2)] font-normal leading-[1.14] tracking-[-0.02em] text-white">
+        Tell us what the learner needs.
+      </h2>
+      <Button href={cta.href} variant="onDark" size="lg">{cta.label}</Button>
+    </Container>
+  </Section>
+</PageLayout>

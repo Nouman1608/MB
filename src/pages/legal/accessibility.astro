@@ -1,0 +1,32 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { FALLBACK_EMAIL } from '../../utils/forms/submit';
+const mailto = 'mailto:' + FALLBACK_EMAIL;
+---
+<PageLayout
+  title="Accessibility"
+  description="Marlbridge targets WCAG 2.2 AA. How to report an accessibility problem."
+  path="/legal/accessibility/"
+  eyebrow="Legal"
+  heading="Accessibility"
+  headingFont="sans"
+  noindex
+  breadcrumbs={[{ label: 'Home', href: '/' }, { label: 'Accessibility', href: '/legal/accessibility/' }]}
+>
+  <Section surface="white">
+    <Container width="prose">
+      <div class="text-[17.5px] leading-[1.7]">
+        <p class="m-0 border-s-2 border-gold-500 ps-4 text-[16.5px] text-ink-mute">
+          This page is being prepared with legal review and is not yet published. It is excluded from search indexing until it is complete.
+        </p>
+        <p class="m-0 mt-6">
+          In the meantime, for any question about accessibility at Marlbridge, write to
+          <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>
+          and we will answer directly.
+        </p>
+      </div>
+    </Container>
+  </Section>
+</PageLayout>

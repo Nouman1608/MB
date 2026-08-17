@@ -1,0 +1,9 @@
+---
+interface Props { name: string; required?: boolean; rows?: number }
+const { name, required = false, rows = 5 } = Astro.props;
+---
+<textarea
+  id={name} name={name} required={required} rows={rows}
+  aria-describedby={`${name}-hint ${name}-error`}
+  class="w-full rounded-sm border border-rule bg-white px-3.5 py-2.5 text-[16px] leading-relaxed text-ink focus:border-navy-800"
+></textarea>

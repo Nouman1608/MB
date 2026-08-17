@@ -2,10 +2,10 @@
  *  article data comes from content collections — never from this file. */
 
 export const pillars = [
-  { title: 'Academic Excellence', description: 'Teaching built around the curriculum, examined skills and the depth of understanding that lasts beyond the exam hall.' },
-  { title: 'Expert Teaching', description: 'Subject specialists who explain clearly, diagnose where a learner is stuck, and teach to the individual.' },
-  { title: 'Global Perspective', description: 'International curricula and university pathways understood in the context of the places our learners come from.' },
-  { title: 'Future-Ready Skills', description: 'Reasoning, writing, problem solving and independent study — the habits that carry a student through and beyond school.' },
+  { title: 'Academic Excellence', description: 'Teaching built around the curriculum and the examined skills — with understanding that outlasts the exam hall.' },
+  { title: 'Expert Teaching', description: 'Subject specialists who diagnose where a learner is stuck, then teach to the individual.' },
+  { title: 'Global Perspective', description: 'International curricula and university pathways, read in the context learners actually live in.' },
+  { title: 'Future-Ready Skills', description: 'Reasoning, writing, problem solving and independent study.' },
 ] as const;
 
 export const tutoringModes = [

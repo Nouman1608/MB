@@ -5,10 +5,11 @@ import SectionHeading from '../ui/SectionHeading.astro';
 import Button from '../ui/Button.astro';
 import ArticleCard from '../cards/ArticleCard.astro';
 import { getArticles } from '../../utils/content/collections';
+import { routes } from '../../utils/urls/routes';
 
 const articles = (await getArticles()).slice(0, 3);
 ---
-{articles.length >= 3 && (
+{articles.length > 0 && (
   <Section surface="ivory" labelledby="journal-heading" border>
     <Container>
       <div class="mb-[clamp(32px,4vw,48px)] flex flex-wrap items-end justify-between gap-6">
@@ -18,12 +19,10 @@ const articles = (await getArticles()).slice(0, 3);
             Guidance on examinations, study method, curriculum choices and higher education — written by the people who teach it.
           </p>
         </div>
-        <Button href="/learning/" variant="quiet">All articles</Button>
+        <Button href={routes.learning} variant="quiet">All articles</Button>
       </div>
       <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-        {articles.map((article) => (
-          <li class="m-0"><ArticleCard entry={article} /></li>
-        ))}
+        {articles.map((article) => <li class="m-0"><ArticleCard entry={article} /></li>)}
       </ul>
     </Container>
   </Section>

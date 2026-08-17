@@ -1,0 +1,98 @@
+---
+import FormField from './FormField.astro';
+import Input from './Input.astro';
+import Select from './Select.astro';
+import Textarea from './Textarea.astro';
+import { FALLBACK_EMAIL, type EnquiryKind } from '../../utils/forms/submit';
+
+interface Props { kind: EnquiryKind; programs?: readonly string[]; subjects?: readonly string[] }
+const { kind, programs = [], subjects = [] } = Astro.props;
+
+const levels = ['IGCSE', 'O Level', 'A Level', 'GCSE', 'IB', 'SAT', 'IELTS', 'Other'];
+const formats = ['One-to-one', 'Small group', 'Online', 'Not sure yet'];
+const roles = ['Head of school', 'Head of department', 'Teacher', 'Coordinator', 'Other'];
+const mailto = 'mailto:' + FALLBACK_EMAIL;
+---
+<form data-enquiry-form data-kind={kind} method="post" action={mailto} novalidate class="grid max-w-[68ch] gap-5 sm:grid-cols-2">
+  <FormField name="name" label="Full name" required><Input name="name" autocomplete="name" required /></FormField>
+
+  {kind === 'school' && <FormField name="school" label="School" required><Input name="school" autocomplete="organization" required /></FormField>}
+  {kind === 'school' && <FormField name="role" label="Your role" required><Select name="role" options={roles} required /></FormField>}
+
+  <FormField name="email" label="Email" required><Input name="email" type="email" autocomplete="email" inputmode="email" required /></FormField>
+  <FormField name="phone" label="Phone"><Input name="phone" type="tel" autocomplete="tel" inputmode="tel" /></FormField>
+  <FormField name="country" label="Country" required><Input name="country" autocomplete="country-name" required /></FormField>
+
+  {kind === 'student' && programs.length > 0 && <FormField name="program" label="Program"><Select name="program" options={programs} /></FormField>}
+  {kind !== 'school' && subjects.length > 0 && <FormField name="subject" label="Subject"><Select name="subject" options={subjects} /></FormField>}
+  {kind === 'tutoring' && <FormField name="level" label="Level"><Select name="level" options={levels} /></FormField>}
+  {kind === 'tutoring' && <FormField name="format" label="Preferred format"><Select name="format" options={formats} /></FormField>}
+
+  <FormField name="message" label="Message" required hint="What does the learner need help with?" class="sm:col-span-2">
+    <Textarea name="message" required />
+  </FormField>
+
+  <div class="sm:col-span-2">
+    <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">Send enquiry</button>
+    <p class="m-0 mt-3 text-[13.5px] text-ink-mute">
+      Prefer email? Write to <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>.
+    </p>
+  </div>
+
+  <div data-form-status role="status" aria-live="polite" class="sm:col-span-2"></div>
+</form>
+
+<script>
+  import { submitEnquiry, type EnquiryKind } from '../../utils/forms/submit';
+
+  document.querySelectorAll<HTMLFormElement>('[data-enquiry-form]').forEach((form) => {
+    const status = form.querySelector<HTMLElement>('[data-form-status]');
+    const button = form.querySelector<HTMLButtonElement>('button[type="submit"]');
+
+    const setError = (field: HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement, message: string | null) => {
+      const el = form.querySelector<HTMLElement>('[data-error-for="' + field.name + '"]');
+      if (!el) return;
+      el.textContent = message ?? '';
+      el.hidden = !message;
+      field.setAttribute('aria-invalid', message ? 'true' : 'false');
+    };
+
+    const validate = () => {
+      let firstInvalid: HTMLElement | null = null;
+      form.querySelectorAll<HTMLInputElement>('input, select, textarea').forEach((field) => {
+        if (!field.name) return;
+        const message = field.validity.valid
+          ? null
+          : field.validity.valueMissing
+            ? 'This field is required.'
+            : field.type === 'email'
+              ? 'Please enter a valid email address.'
+              : 'Please check this field.';
+        setError(field, message);
+        if (message && !firstInvalid) firstInvalid = field;
+      });
+      if (firstInvalid) (firstInvalid as HTMLElement).focus();
+      return !firstInvalid;
+    };
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      if (!validate() || !status) return;
+      button?.setAttribute('disabled', 'true');
+      status.textContent = 'Sending…';
+      status.className = 'sm:col-span-2 mt-2 text-[15px] text-ink-mute';
+
+      const result = await submitEnquiry((form.dataset.kind as EnquiryKind) ?? 'student', new FormData(form));
+      button?.removeAttribute('disabled');
+
+      if (result.ok) {
+        status.textContent = 'Thank you — your enquiry has been sent. We will reply by email.';
+        status.className = 'sm:col-span-2 mt-2 rounded-sm border border-[#B9D3C6] bg-[#F1F7F4] p-4 text-[15px] text-success';
+        form.reset();
+      } else {
+        status.textContent = result.message ?? 'Your enquiry could not be sent.';
+        status.className = 'sm:col-span-2 mt-2 rounded-sm border border-[#E3BDBD] bg-[#FBF2F2] p-4 text-[15px] text-error';
+      }
+    });
+  });
+</script>

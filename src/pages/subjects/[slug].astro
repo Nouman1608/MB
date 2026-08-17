@@ -1,0 +1,113 @@
+---
+import { getEntry, render, type CollectionEntry } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import Button from '../../components/ui/Button.astro';
+import Card from '../../components/cards/Card.astro';
+import ResourceCard from '../../components/cards/ResourceCard.astro';
+import ArticleCard from '../../components/cards/ArticleCard.astro';
+import RelatedGrid from '../../components/layout/RelatedGrid.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import { getSubjects } from '../../utils/content/collections';
+import { resourcesForSubject, relatedArticles } from '../../utils/content/related';
+import { faqNode } from '../../utils/schema/faq';
+import { routes } from '../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  const subjects = await getSubjects();
+  return subjects.map((subject) => ({ params: { slug: subject.id }, props: { subject } }));
+}
+
+interface Props { subject: CollectionEntry<'subjects'> }
+const { subject } = Astro.props;
+const d = subject.data;
+const { Content } = await render(subject);
+const path = routes.subject(subject.id);
+
+const programs = (await Promise.all(d.programs.map((ref) => getEntry(ref)))).filter(Boolean);
+const all = await resourcesForSubject(subject.id);
+const study = all.filter((r) => ['study-guides', 'revision-notes', 'subject-guides'].includes(r.data.category));
+const practice = all.filter((r) => ['practice-questions', 'past-papers', 'exam-preparation'].includes(r.data.category));
+const articles = await relatedArticles({ subject: subject.id, limit: 3 });
+const faq = faqNode(d.faqs);
+---
+<PageLayout
+  title={d.seoTitle ?? d.title}
+  description={d.seoDescription ?? d.description}
+  path={path}
+  eyebrow="Subject"
+  heading={d.title}
+  lead={d.description}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Subjects', href: routes.subjects },
+    { label: d.title, href: path },
+  ]}
+  jsonLd={faq ? [faq] : []}
+  noindex={d.noindex}
+>
+  <p slot="hero-extra" class="mt-6 text-[14px] text-ink-mute">Levels: {d.levelsLabel}</p>
+
+  <Section surface="white">
+    <Container>
+      <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+        <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Subject overview</h2>
+        <div class="max-w-[68ch] text-[17.5px] leading-[1.7] [&>p]:mt-5"><Content /></div>
+      </div>
+
+      {programs.length > 0 && (
+        <RelatedGrid id="subject-programs" title="Programs offering this subject" columns={4}>
+          {programs.map((program) => (
+            <li class="m-0"><Card href={routes.program(program!.id)} title={program!.data.title} description={program!.data.shortDescription} /></li>
+          ))}
+        </RelatedGrid>
+      )}
+
+      {d.topics.length > 0 && (
+        <section aria-labelledby="subject-topics" class="mt-[clamp(48px,6vw,80px)]">
+          <h2 id="subject-topics" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Key topics</h2>
+          <ul class="m-0 grid list-none p-0 sm:grid-cols-2 sm:gap-x-[clamp(24px,4vw,64px)]">
+            {d.topics.map((topic) => (
+              <li class="m-0 border-b border-rule py-4 text-[16.5px]">{topic.title}</li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {study.length > 0 && (
+        <RelatedGrid id="subject-study" title="Study resources">
+          {study.map((resource) => <li class="m-0"><ResourceCard entry={resource} subjectTitle={d.title} /></li>)}
+        </RelatedGrid>
+      )}
+
+      {practice.length > 0 && (
+        <RelatedGrid id="subject-practice" title="Practice resources">
+          {practice.map((resource) => <li class="m-0"><ResourceCard entry={resource} subjectTitle={d.title} /></li>)}
+        </RelatedGrid>
+      )}
+
+      {articles.length > 0 && (
+        <RelatedGrid id="subject-articles" title="Related articles">
+          {articles.map((article) => <li class="m-0"><ArticleCard entry={article} /></li>)}
+        </RelatedGrid>
+      )}
+
+      {d.faqs.length > 0 && (
+        <section aria-labelledby="subject-faqs" class="mt-[clamp(48px,6vw,80px)] max-w-[80ch]">
+          <h2 id="subject-faqs" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions</h2>
+          <FAQ items={d.faqs} />
+        </section>
+      )}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" spacing="md" border>
+    <Container class="flex flex-wrap items-baseline justify-between gap-x-10 gap-y-4">
+      <p class="m-0 max-w-[62ch] text-[17px] leading-[1.6] text-ink-mute">
+        Need teaching in {d.title}? Tell us the level and where the difficulty is.
+      </p>
+      <Button href={routes.tutoring} variant="secondary">Find Learning Support</Button>
+    </Container>
+  </Section>
+</PageLayout>

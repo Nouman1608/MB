@@ -1,0 +1,42 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { getSubjects } from '../../utils/content/collections';
+import { resourcesForSubject } from '../../utils/content/related';
+import { routes } from '../../utils/urls/routes';
+
+const subjects = await getSubjects();
+const counts = await Promise.all(subjects.map(async (s) => (await resourcesForSubject(s.id)).length));
+---
+<PageLayout
+  title="Subjects"
+  description="Mathematics, sciences, computer science, economics, accounting, business, English and languages — each subject hub gathers topics, study guides and practice material."
+  path={routes.subjects}
+  eyebrow="Subjects"
+  heading="Subjects we teach and publish"
+  lead="Each subject hub gathers the topics, study guides and practice material for that subject in one place."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Subjects', href: routes.subjects }]}
+>
+  <Section surface="white">
+    <Container>
+      <ul class="m-0 grid list-none p-0 sm:grid-cols-2 sm:gap-x-[clamp(24px,4vw,64px)]">
+        {subjects.map((subject, i) => (
+          <li class="m-0 border-b border-rule">
+            <a href={routes.subject(subject.id)} class="flex items-baseline justify-between gap-4 py-[17px]">
+              <span class="flex min-w-0 items-baseline gap-2.5">
+                <span class="font-display text-2xl tracking-[-0.01em]">{subject.data.title}</span>
+                {counts[i] > 0 && (
+                  <span class="shrink-0 whitespace-nowrap rounded-sm border border-[#E4D7A8] bg-[#FBF7EA] px-1.5 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-gold-600">
+                    {counts[i]} {counts[i] === 1 ? 'resource' : 'resources'}
+                  </span>
+                )}
+              </span>
+              <span class="whitespace-nowrap text-[13px] text-ink-mute">{subject.data.levelsLabel}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+</PageLayout>

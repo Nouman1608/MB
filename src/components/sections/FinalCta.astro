@@ -2,6 +2,7 @@
 import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
 import Button from '../ui/Button.astro';
+import { routes } from '../../utils/urls/routes';
 ---
 <Section surface="navy" labelledby="cta-heading">
   <Container class="flex flex-col items-center gap-6 text-center">
@@ -12,8 +13,8 @@ import Button from '../ui/Button.astro';
       Explore the programs we teach, or read the resources — both are the same work, published two ways.
     </p>
     <div class="mt-1.5 flex flex-wrap justify-center gap-3.5">
-      <Button href="/programs/" variant="onDark" size="lg">Explore Programs</Button>
-      <Button href="/contact/" variant="onDarkGhost" size="lg">Contact</Button>
+      <Button href={routes.programs} variant="onDark" size="lg">Explore Programs</Button>
+      <Button href={routes.contact} variant="onDarkGhost" size="lg">Contact</Button>
     </div>
   </Container>
 </Section>

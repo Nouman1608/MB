@@ -1,0 +1,12 @@
+---
+interface Props { name: string; required?: boolean; options: readonly string[]; placeholder?: string }
+const { name, required = false, options, placeholder = 'Please choose' } = Astro.props;
+---
+<select
+  id={name} name={name} required={required}
+  aria-describedby={`${name}-hint ${name}-error`}
+  class="min-h-11 w-full rounded-sm border border-rule bg-white px-3.5 py-2.5 text-[16px] text-ink focus:border-navy-800"
+>
+  <option value="">{placeholder}</option>
+  {options.map((option) => <option value={option}>{option}</option>)}
+</select>

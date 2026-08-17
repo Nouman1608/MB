@@ -1,0 +1,24 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import EnquiryForm from '../../components/forms/EnquiryForm.astro';
+import { getPrograms, getSubjects } from '../../utils/content/collections';
+import { routes } from '../../utils/urls/routes';
+
+const programs = (await getPrograms()).map((p) => p.data.title);
+const subjects = (await getSubjects()).map((s) => s.data.title);
+---
+<PageLayout
+  title="Contact"
+  description="Contact Marlbridge about programs, tutoring or academic resources. Tell us the subject and level, and we will reply honestly about what we can offer."
+  path={routes.contact}
+  eyebrow="Contact"
+  heading="Tell us what the learner needs."
+  lead="Send the subject, the level and where the difficulty is. We will reply honestly about whether we can help."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Contact', href: routes.contact }]}
+>
+  <Section surface="white">
+    <Container><EnquiryForm kind="student" programs={programs} subjects={subjects} /></Container>
+  </Section>
+</PageLayout>

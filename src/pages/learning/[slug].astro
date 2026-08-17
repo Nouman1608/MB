@@ -1,0 +1,101 @@
+---
+import { getEntry, render, type CollectionEntry } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import ArticleMeta from '../../components/articles/ArticleMeta.astro';
+import TableOfContents from '../../components/articles/TableOfContents.astro';
+import ShareLinks from '../../components/articles/ShareLinks.astro';
+import ResourceCard from '../../components/cards/ResourceCard.astro';
+import ArticleCard from '../../components/cards/ArticleCard.astro';
+import RelatedGrid from '../../components/layout/RelatedGrid.astro';
+import { getArticles, readingTime } from '../../utils/content/collections';
+import { relatedArticles, relatedResources } from '../../utils/content/related';
+import { articleNode } from '../../utils/schema/article';
+import { routes } from '../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  const articles = await getArticles();
+  return articles.map((article) => ({ params: { slug: article.id }, props: { article } }));
+}
+
+interface Props { article: CollectionEntry<'articles'> }
+const { article } = Astro.props;
+const d = article.data;
+const { Content, headings } = await render(article);
+const path = routes.article(article.id);
+
+const author = await getEntry(d.author);
+const subject = d.subject ? await getEntry(d.subject) : undefined;
+const minutes = readingTime(article.body ?? '');
+const alsoArticles = await relatedArticles({ subject: d.subject?.id, category: d.category, picked: d.relatedArticles, excludeId: article.id, limit: 3 });
+const alsoResources = await relatedResources({ subject: d.subject?.id, picked: d.relatedResources, limit: 3 });
+
+const jsonLd = [articleNode({
+  path,
+  headline: d.title,
+  description: d.description,
+  published: d.publishedDate,
+  updated: d.updatedDate,
+  authorName: author?.data.name ?? 'Marlbridge Academic Team',
+})];
+---
+<PageLayout
+  title={d.seoTitle ?? d.title}
+  description={d.seoDescription ?? d.description}
+  path={path}
+  eyebrow={d.category.replace(/-/g, ' ')}
+  heading={d.title}
+  lead={d.description}
+  headingFont="display"
+  type="article"
+  publishedDate={d.publishedDate}
+  updatedDate={d.updatedDate}
+  author={author?.data.name}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Learning Journal', href: routes.learning },
+    { label: d.title, href: path },
+  ]}
+  jsonLd={jsonLd}
+  noindex={d.noindex}
+>
+  <Section surface="white">
+    <Container width="prose">
+      <ArticleMeta authorName={author?.data.name ?? 'Marlbridge Academic Team'} published={d.publishedDate} updated={d.updatedDate} minutes={minutes} />
+      <div class="mt-8"><TableOfContents headings={headings} /></div>
+      <div class="text-[17.5px] leading-[1.75] [&>h2]:mt-10 [&>h2]:text-[26px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>h3]:mt-8 [&>h3]:text-[20px] [&>h3]:font-semibold [&>p]:mt-5 [&>ul]:mt-5 [&>ul]:ps-5 [&>ol]:mt-5 [&>ol]:ps-5 [&>ol>li]:mt-2 [&>ul>li]:mt-2">
+        <Content />
+      </div>
+      <ShareLinks path={path} title={d.title} />
+
+      {author && (
+        <aside aria-label="About the author" class="mt-10 rounded-sm border border-rule bg-ivory p-6">
+          <p class="m-0 font-mono text-[11px] uppercase tracking-[0.14em] text-gold-600">Written by</p>
+          <p class="m-0 mt-2 text-[18px] font-semibold text-navy-800">{author.data.name}</p>
+          <p class="m-0 mt-1 text-[14px] text-ink-mute">{author.data.role}</p>
+          <p class="m-0 mt-3 text-[16px] leading-[1.65] text-ink-mute">{author.data.bio}</p>
+        </aside>
+      )}
+
+      {subject && (
+        <p class="mt-8 text-[15.5px] text-ink-mute">
+          More on this subject: <a href={routes.subject(subject.id)} class="underline decoration-gold-500 underline-offset-2">{subject.data.title}</a>
+        </p>
+      )}
+    </Container>
+
+    <Container>
+      {alsoArticles.length > 0 && (
+        <RelatedGrid id="also-articles" title="Related articles">
+          {alsoArticles.map((a) => <li class="m-0"><ArticleCard entry={a} /></li>)}
+        </RelatedGrid>
+      )}
+      {alsoResources.length > 0 && (
+        <RelatedGrid id="also-resources" title="Related resources">
+          {alsoResources.map((r) => <li class="m-0"><ResourceCard entry={r} /></li>)}
+        </RelatedGrid>
+      )}
+    </Container>
+  </Section>
+</PageLayout>

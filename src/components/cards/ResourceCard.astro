@@ -1,0 +1,16 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { resourceCategoryMeta } from '../../utils/content/collections';
+import { resourceUrl } from '../../utils/urls/routes';
+
+interface Props { entry: CollectionEntry<'resources'>; subjectTitle?: string }
+const { entry, subjectTitle } = Astro.props;
+const meta = resourceCategoryMeta[entry.data.category];
+const levels = entry.data.level.map((l) => l.replace(/-/g, ' ').toUpperCase()).join(', ');
+---
+<a href={resourceUrl(entry)} class="flex h-full flex-col gap-2.5 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
+  <p class="m-0 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{meta.title}</p>
+  <h3 class="m-0 text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{entry.data.title}</h3>
+  <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{entry.data.description}</p>
+  <p class="m-0 mt-auto pt-2 text-[13px] text-ink-mute">{[subjectTitle, levels].filter(Boolean).join(' · ')}</p>
+</a>

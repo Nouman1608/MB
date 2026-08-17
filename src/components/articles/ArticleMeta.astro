@@ -1,0 +1,17 @@
+---
+import { formatDate } from '../../utils/content/collections';
+
+interface Props {
+  authorName: string;
+  published: Date;
+  updated?: Date;
+  minutes: number;
+}
+const { authorName, published, updated, minutes } = Astro.props;
+---
+<div class="flex flex-wrap items-baseline gap-x-6 gap-y-2 border-y border-rule py-4 text-[14px] text-ink-mute">
+  <span>By <span class="font-medium text-navy-800">{authorName}</span></span>
+  <span>Published <time datetime={published.toISOString()}>{formatDate(published)}</time></span>
+  {updated && <span>Updated <time datetime={updated.toISOString()}>{formatDate(updated)}</time></span>}
+  <span>{minutes} min read</span>
+</div>

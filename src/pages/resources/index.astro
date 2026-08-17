@@ -1,0 +1,67 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import Card from '../../components/cards/Card.astro';
+import ResourceCard from '../../components/cards/ResourceCard.astro';
+import RelatedGrid from '../../components/layout/RelatedGrid.astro';
+import { getResources, resourceCategoryMeta } from '../../utils/content/collections';
+import { routes } from '../../utils/urls/routes';
+import { getEntry } from 'astro:content';
+
+const categories = Object.entries(resourceCategoryMeta);
+const resources = await getResources();
+const counts = Object.fromEntries(
+  categories.map(([slug]) => [slug, resources.filter((r) => r.data.category === slug).length]),
+);
+const recent = resources.slice(0, 6);
+const subjectTitles = Object.fromEntries(
+  await Promise.all(recent.map(async (r) => [r.id, (await getEntry(r.data.subject))?.data.title ?? ''])),
+);
+---
+<PageLayout
+  title="Learning resources"
+  description="Study guides, revision notes, past papers, practice questions and exam preparation written by subject specialists. Free to read, organised by subject, level and topic."
+  path={routes.resources}
+  eyebrow="Resources"
+  heading="Learning resources, openly available"
+  lead="Study material written by subject specialists, organised by subject, level and topic. Free to read, and added topic by topic rather than published as empty pages."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Resources', href: routes.resources }]}
+>
+  <Section surface="white">
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Browse by type</h2>
+      <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-4">
+        {categories.map(([slug, meta]) => (
+          <li class="m-0">
+            <Card href={routes.resourceCategory(slug)} title={meta.title} description={meta.description}>
+              <p class="m-0 mt-auto pt-2 font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">
+                {counts[slug]} published
+              </p>
+            </Card>
+          </li>
+        ))}
+      </ul>
+
+      {recent.length > 0 && (
+        <RelatedGrid id="recent-resources" title="Recently published">
+          {recent.map((resource) => (
+            <li class="m-0"><ResourceCard entry={resource} subjectTitle={subjectTitles[resource.id]} /></li>
+          ))}
+        </RelatedGrid>
+      )}
+
+      <section aria-labelledby="library-shape" class="mt-[clamp(48px,6vw,80px)] max-w-[68ch] border-t border-rule pt-8">
+        <h2 id="library-shape" class="m-0 mb-4 text-[22px] font-semibold text-navy-800">How the library is organised</h2>
+        <p class="m-0 mb-5 text-[17px] leading-[1.7] text-ink-mute">
+          Every piece of material has one home, so it can be found the same way twice: by subject, then by level within a program, then by topic.
+        </p>
+        <ol class="m-0 flex list-none flex-col gap-2.5 p-0 text-[15.5px]">
+          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">01</span><span>Subject hub — <code class="font-mono text-[13.5px] text-ink-mute">/subjects/chemistry/</code></span></li>
+          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">02</span><span>Level within a program — <code class="font-mono text-[13.5px] text-ink-mute">/programs/igcse/</code></span></li>
+          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">03</span><span>Topic material — <code class="font-mono text-[13.5px] text-ink-mute">/resources/revision-notes/atomic-structure/</code></span></li>
+        </ol>
+      </section>
+    </Container>
+  </Section>
+</PageLayout>

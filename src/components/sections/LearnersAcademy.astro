@@ -2,8 +2,12 @@
 import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
 import Button from '../ui/Button.astro';
-import ImagePlaceholder from '../ui/ImagePlaceholder.astro';
+import PhotoFrame from '../ui/PhotoFrame.astro';
 import Logo from '../brand/Logo.astro';
+import { site } from '../../data/site';
+import { routes } from '../../utils/urls/routes';
+
+const photo = site.academyPhoto;
 ---
 <Section surface="white" labelledby="academy-heading">
   <Container>
@@ -23,17 +27,25 @@ import Logo from '../brand/Logo.astro';
             A Marlbridge education institution
           </p>
         </div>
-        <Button href="/about/" variant="quiet">Our story</Button>
+        <Button href={routes.about} variant="quiet">Our story</Button>
       </div>
+
       <figure class="m-0">
-        <ImagePlaceholder
+        <PhotoFrame
+          image={photo.image}
+          alt={photo.alt}
           ratio="4 / 5"
           label="Photograph · 4:5 portrait"
-          describedAs="a photograph of teaching at Learners Academy"
+          describedAs={photo.alt}
+          sizes="(min-width: 1024px) 40vw, 100vw"
+          widths={[420, 640, 900, 1200, 1600]}
+          loading="lazy"
         />
-        <figcaption class="mt-3 text-[13px] leading-normal text-ink-mute">
-          Reserved for a real photograph of teaching at Learners Academy. The frame is fixed at 4:5, so the image drops in without changing the layout.
-        </figcaption>
+        {!photo.image && (
+          <figcaption class="mt-3 text-[13px] leading-normal text-ink-mute">
+            Reserved for a real photograph of teaching at Learners Academy. The frame is fixed at 4:5, so the image drops in without changing the layout.
+          </figcaption>
+        )}
       </figure>
     </div>
   </Container>

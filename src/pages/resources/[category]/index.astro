@@ -1,0 +1,54 @@
+---
+import { getEntry } from 'astro:content';
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Section from '../../../components/layout/Section.astro';
+import Container from '../../../components/layout/Container.astro';
+import ResourceCard from '../../../components/cards/ResourceCard.astro';
+import EmptyState from '../../../components/ui/EmptyState.astro';
+import { getResources, resourceCategoryMeta, type ResourceCategory } from '../../../utils/content/collections';
+import { routes } from '../../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  return Object.keys(resourceCategoryMeta).map((category) => ({ params: { category } }));
+}
+
+const category = Astro.params.category as ResourceCategory;
+const meta = resourceCategoryMeta[category];
+const entries = (await getResources()).filter((r) => r.data.category === category);
+const subjectTitles = Object.fromEntries(
+  await Promise.all(entries.map(async (r) => [r.id, (await getEntry(r.data.subject))?.data.title ?? ''])),
+);
+const path = routes.resourceCategory(category);
+---
+<PageLayout
+  title={meta.title}
+  description={`${meta.description} Marlbridge ${meta.title.toLowerCase()} for IGCSE, O Level and A Level, organised by subject and topic.`}
+  path={path}
+  eyebrow="Resources"
+  heading={meta.title}
+  lead={meta.description}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Resources', href: routes.resources },
+    { label: meta.title, href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      {entries.length > 0 ? (
+        <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+          {entries.map((entry) => (
+            <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitles[entry.id]} /></li>
+          ))}
+        </ul>
+      ) : (
+        <EmptyState
+          heading={`No ${meta.title.toLowerCase()} published yet`}
+          body="This section is being written subject by subject. In the meantime, the subject hubs list everything published so far."
+          primary={{ label: 'Browse subjects', href: routes.subjects }}
+          secondary={{ label: 'All resources', href: routes.resources }}
+        />
+      )}
+    </Container>
+  </Section>
+</PageLayout>

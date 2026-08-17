@@ -3,6 +3,7 @@ import Container from '../layout/Container.astro';
 import Button from '../ui/Button.astro';
 import PathwayFigure from '../hero/PathwayFigure.astro';
 import { site } from '../../data/site';
+import { routes } from '../../utils/urls/routes';
 ---
 <section aria-labelledby="hero-heading" class="relative overflow-hidden bg-navy-800 text-ivory">
   <PathwayFigure />
@@ -13,8 +14,8 @@ import { site } from '../../data/site';
     </h1>
     <p class="mt-[clamp(28px,4vh,40px)] max-w-[46ch] text-[length:var(--text-lead)] leading-[1.55] text-on-navy">{site.defaultDescription}</p>
     <div class="mt-[clamp(36px,5vh,52px)] flex flex-wrap gap-3.5">
-      <Button href="/programs/" variant="onDark" size="lg">Explore Programs</Button>
-      <Button href="/resources/" variant="onDarkGhost" size="lg">Explore Resources</Button>
+      <Button href={routes.programs} variant="onDark" size="lg">Explore Programs</Button>
+      <Button href={routes.resources} variant="onDarkGhost" size="lg">Explore Resources</Button>
     </div>
   </Container>
 </section>

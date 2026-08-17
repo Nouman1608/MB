@@ -1,0 +1,9 @@
+---
+interface Props { title: string; id: string; columns?: 2 | 3 | 4 }
+const { title, id, columns = 3 } = Astro.props;
+const cols = { 2: 'sm:grid-cols-2', 3: 'sm:grid-cols-2 lg:grid-cols-3', 4: 'sm:grid-cols-2 lg:grid-cols-4' }[columns];
+---
+<section aria-labelledby={id} class="mt-[clamp(48px,6vw,80px)]">
+  <h2 id={id} class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{title}</h2>
+  <ul class={`m-0 grid list-none gap-4 p-0 ${cols}`}><slot /></ul>
+</section>

@@ -1,11 +1,25 @@
 ---
+import { getEntry } from 'astro:content';
 import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
 import Button from '../ui/Button.astro';
 import Card from '../cards/Card.astro';
-import { resourceCategoryMeta } from '../../utils/content/collections';
+import { getResources, resourceCategoryMeta } from '../../utils/content/collections';
+import { routes, resourceUrl } from '../../utils/urls/routes';
 
 const categories = Object.entries(resourceCategoryMeta);
+const resources = await getResources();
+const counts = Object.fromEntries(categories.map(([slug]) => [slug, resources.filter((r) => r.data.category === slug).length]));
+const recent = resources.slice(0, 4);
+const rows = await Promise.all(recent.map(async (entry) => {
+  const subject = await getEntry(entry.data.subject);
+  const levels = entry.data.level.map((l) => l.replace(/-/g, ' ').toUpperCase()).join(', ');
+  return {
+    href: resourceUrl(entry),
+    title: entry.data.title,
+    meta: [subject?.data.title, resourceCategoryMeta[entry.data.category].title, levels].filter(Boolean).join(' · '),
+  };
+}));
 ---
 <Section surface="ivory" labelledby="resources-heading" border>
   <Container>
@@ -18,13 +32,47 @@ const categories = Object.entries(resourceCategoryMeta);
         A growing library of study material written by subject specialists — free to read, organised by subject, level and topic. Over time this becomes the largest part of Marlbridge.
       </p>
     </div>
-    <ul class="m-0 mb-7 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-4">
+
+    <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-4">
       {categories.map(([slug, meta]) => (
         <li class="m-0">
-          <Card href={`/resources/${slug}/`} title={meta.title} description={meta.description} />
+          <Card href={routes.resourceCategory(slug)} title={meta.title} description={meta.description}>
+            <p class="m-0 mt-auto pt-2 font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">{counts[slug]} published</p>
+          </Card>
         </li>
       ))}
     </ul>
-    <Button href="/resources/" variant="quiet">Browse the resource library</Button>
+
+    <div class="mt-[clamp(40px,5vw,64px)] grid gap-[clamp(32px,4vw,72px)] border-t border-rule pt-[clamp(32px,4vw,48px)] lg:grid-cols-[1.25fr_1fr]">
+      <div>
+        <h3 class="m-0 mb-5 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Recently published</h3>
+        <ul class="m-0 list-none p-0">
+          {rows.map((row) => (
+            <li class="m-0 border-b border-rule">
+              <a href={row.href} class="grid items-baseline gap-x-6 gap-y-1 py-4 hover:text-gold-600 sm:grid-cols-[1fr_auto]">
+                <span class="text-[17px] leading-snug text-ink">{row.title}</span>
+                <span class="whitespace-nowrap font-mono text-[11.5px] uppercase tracking-[0.08em] text-ink-mute">{row.meta}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p class="m-0 mt-5 text-sm text-ink-mute">
+          {resources.length} {resources.length === 1 ? 'resource' : 'resources'} published so far. New material is added topic by topic.
+        </p>
+      </div>
+
+      <div>
+        <h3 class="m-0 mb-5 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">How the library is organised</h3>
+        <p class="m-0 mb-5 text-[16px] leading-[1.65] text-ink-mute">
+          Every piece of material has one home, so it can be found the same way twice: by subject, then by level, then by topic.
+        </p>
+        <ol class="m-0 mb-6 flex list-none flex-col gap-2.5 p-0 text-[15.5px]">
+          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">01</span><span>Subject hub — <code class="font-mono text-[13.5px] text-ink-mute">/subjects/chemistry/</code></span></li>
+          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">02</span><span>Program level — <code class="font-mono text-[13.5px] text-ink-mute">/programs/igcse/</code></span></li>
+          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">03</span><span>Topic material — <code class="font-mono text-[13.5px] text-ink-mute">/resources/revision-notes/atomic-structure/</code></span></li>
+        </ol>
+        <Button href={routes.resources} variant="quiet">Browse the resource library</Button>
+      </div>
+    </div>
   </Container>
 </Section>

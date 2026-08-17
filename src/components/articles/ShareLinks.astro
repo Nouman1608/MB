@@ -1,0 +1,16 @@
+---
+import { site } from '../../data/site';
+
+interface Props { path: string; title: string }
+const { path, title } = Astro.props;
+const url = new URL(path, site.url).toString();
+const encoded = encodeURIComponent(url);
+const text = encodeURIComponent(title);
+---
+<div class="mt-10 flex flex-wrap items-baseline gap-x-5 gap-y-2 border-t border-rule pt-5 text-[14px]">
+  <span class="font-mono text-[11px] uppercase tracking-[0.14em] text-gold-600">Share</span>
+  <a href={`https://www.linkedin.com/sharing/share-offsite/?url=${encoded}`} rel="noopener noreferrer" target="_blank" class="text-ink-mute hover:text-gold-600">LinkedIn</a>
+  <a href={`https://x.com/intent/tweet?url=${encoded}&text=${text}`} rel="noopener noreferrer" target="_blank" class="text-ink-mute hover:text-gold-600">X</a>
+  <a href={`https://wa.me/?text=${text}%20${encoded}`} rel="noopener noreferrer" target="_blank" class="text-ink-mute hover:text-gold-600">WhatsApp</a>
+  <a href={`mailto:?subject=${text}&body=${encoded}`} class="text-ink-mute hover:text-gold-600">Email</a>
+</div>

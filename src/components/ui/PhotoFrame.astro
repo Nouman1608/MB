@@ -1,0 +1,50 @@
+---
+import { Picture } from 'astro:assets';
+
+/**
+ * One frame for editorial photography, at a FIXED aspect ratio so a real
+ * photograph drops in without changing the layout.
+ * - image supplied  → responsive AVIF/WebP <picture>, lazy by default
+ * - image absent    → a clearly marked reserved frame (never stock, never AI)
+ */
+interface Props {
+  image?: ImageMetadata;
+  alt?: string;                 // required whenever image is set
+  ratio?: string;               // '4 / 5', '21 / 9'
+  label?: string;               // shown on the reserved frame
+  describedAs?: string;         // accessible description of the intended photo
+  sizes?: string;
+  widths?: number[];
+  loading?: 'lazy' | 'eager';
+  class?: string;
+}
+const {
+  image, alt, ratio = '4 / 5', label = 'Photograph', describedAs = 'editorial photography',
+  sizes = '(min-width: 1024px) 40vw, 100vw',
+  widths = [420, 640, 900, 1200, 1600],
+  loading = 'lazy',
+  class: className = '',
+} = Astro.props;
+---
+{image && alt ? (
+  <Picture
+    src={image}
+    alt={alt}
+    formats={['avif', 'webp']}
+    widths={widths}
+    sizes={sizes}
+    loading={loading}
+    decoding="async"
+    style={`aspect-ratio:${ratio}`}
+    class={`block h-auto w-full border border-rule object-cover ${className}`}
+  />
+) : (
+  <div
+    role="img"
+    aria-label={`Placeholder: ${describedAs}`}
+    style={`aspect-ratio:${ratio}`}
+    class={`flex items-end overflow-hidden border border-rule bg-ivory bg-[repeating-linear-gradient(135deg,#EFEADC_0px,#EFEADC_7px,#F7F4EC_7px,#F7F4EC_16px)] ${className}`}
+  >
+    <span class="m-[18px] border border-rule bg-white px-3.5 py-2.5 font-mono text-[11.5px] uppercase tracking-[0.1em] text-[#6F6552]">{label}</span>
+  </div>
+)}

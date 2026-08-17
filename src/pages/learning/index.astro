@@ -1,0 +1,36 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import ArticleCard from '../../components/cards/ArticleCard.astro';
+import EmptyState from '../../components/ui/EmptyState.astro';
+import { getArticles } from '../../utils/content/collections';
+import { routes } from '../../utils/urls/routes';
+
+const articles = await getArticles();
+---
+<PageLayout
+  title="Learning Journal"
+  description="Guidance on examinations, study method, curriculum choices and higher education, written by the people who teach it."
+  path={routes.learning}
+  eyebrow="Learning Journal"
+  heading="Writing for learners, parents and teachers"
+  lead="Guidance on examinations, study method, curriculum choices and higher education — written by the people who teach it."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Learning Journal', href: routes.learning }]}
+>
+  <Section surface="white">
+    <Container>
+      {articles.length > 0 ? (
+        <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+          {articles.map((article) => <li class="m-0"><ArticleCard entry={article} /></li>)}
+        </ul>
+      ) : (
+        <EmptyState
+          heading="No articles published yet"
+          body="The first articles are being written."
+          primary={{ label: 'Browse resources', href: routes.resources }}
+        />
+      )}
+    </Container>
+  </Section>
+</PageLayout>

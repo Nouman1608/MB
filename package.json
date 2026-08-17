@@ -4,8 +4,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
+    "setup:routes": "node scripts/setup-routes.mjs",
+    "dev": "npm run setup:routes && astro dev",
+    "build": "npm run setup:routes && astro build",
     "preview": "astro preview",
     "check": "astro check"
   },
