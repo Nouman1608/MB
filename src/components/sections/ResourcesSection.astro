@@ -9,7 +9,7 @@ import { routes, resourceUrl } from '../../utils/urls/routes';
 
 const categories = Object.entries(resourceCategoryMeta);
 const resources = await getResources();
-const counts = Object.fromEntries(categories.map(([slug]) => [slug, resources.filter((r) => r.data.category === slug).length]));
+const counts = Object.fromEntries(categories.map(([slug]) => [slug, resources.filter((r) => r.data.resourceType === slug).length]));
 const recent = resources.slice(0, 4);
 const rows = await Promise.all(recent.map(async (entry) => {
   const subject = await getEntry(entry.data.subject);
@@ -17,7 +17,7 @@ const rows = await Promise.all(recent.map(async (entry) => {
   return {
     href: resourceUrl(entry),
     title: entry.data.title,
-    meta: [subject?.data.title, resourceCategoryMeta[entry.data.category].title, levels].filter(Boolean).join(' · '),
+    meta: [subject?.data.title, resourceCategoryMeta[entry.data.resourceType].title, levels].filter(Boolean).join(' · '),
   };
 }));
 ---
@@ -36,7 +36,7 @@ const rows = await Promise.all(recent.map(async (entry) => {
     <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-4">
       {categories.map(([slug, meta]) => (
         <li class="m-0">
-          <Card href={routes.resourceCategory(slug)} title={meta.title} description={meta.description}>
+          <Card href={routes.resourceTypeAnchor(slug)} title={meta.title} description={meta.description}>
             <p class="m-0 mt-auto pt-2 font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">{counts[slug]} published</p>
           </Card>
         </li>
@@ -69,7 +69,7 @@ const rows = await Promise.all(recent.map(async (entry) => {
         <ol class="m-0 mb-6 flex list-none flex-col gap-2.5 p-0 text-[15.5px]">
           <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">01</span><span>Subject hub — <code class="font-mono text-[13.5px] text-ink-mute">/subjects/chemistry/</code></span></li>
           <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">02</span><span>Program level — <code class="font-mono text-[13.5px] text-ink-mute">/programs/igcse/</code></span></li>
-          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">03</span><span>Topic material — <code class="font-mono text-[13.5px] text-ink-mute">/resources/revision-notes/atomic-structure/</code></span></li>
+          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">03</span><span>Topic material — <code class="font-mono text-[13.5px] text-ink-mute">/resources/atomic-structure/</code></span></li>
         </ol>
         <Button href={routes.resources} variant="quiet">Browse the resource library</Button>
       </div>

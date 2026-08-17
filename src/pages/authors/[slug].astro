@@ -1,0 +1,76 @@
+---
+import { render, type CollectionEntry } from 'astro:content';
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import ArticleCard from '../../components/cards/ArticleCard.astro';
+import ResourceCard from '../../components/cards/ResourceCard.astro';
+import RelatedGrid from '../../components/layout/RelatedGrid.astro';
+import { getAuthors } from '../../utils/content/collections';
+import { articlesByAuthor, resourcesByAuthor } from '../../utils/content/related';
+import { personNode } from '../../utils/schema/person';
+import { routes } from '../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  const authors = await getAuthors();
+  return authors.map((author) => ({ params: { slug: author.id }, props: { author } }));
+}
+
+interface Props { author: CollectionEntry<'authors'> }
+const { author } = Astro.props;
+const d = author.data;
+const { Content } = await render(author);
+const path = routes.author(author.id);
+
+const articles = await articlesByAuthor(author.id);
+const resources = await resourcesByAuthor(author.id);
+
+const jsonLd = [personNode({ path, name: d.name, jobTitle: d.role, bio: d.bio })];
+---
+<PageLayout
+  title={d.name}
+  description={`${d.name} — ${d.role} at Marlbridge. ${d.bio}`.slice(0, 160)}
+  path={path}
+  eyebrow="Author"
+  heading={d.name}
+  lead={d.role}
+  headingFont="sans"
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Learning Journal', href: routes.articles },
+    { label: d.name, href: path },
+  ]}
+  jsonLd={jsonLd}
+>
+  <Section surface="white">
+    <Container width="prose">
+      <div class="text-[17.5px] leading-[1.75] [&>p]:mt-5">
+        <p class="m-0">{d.bio}</p>
+        <Content />
+      </div>
+      {d.credentials.length > 0 && (
+        <p class="mt-6 font-mono text-[12px] uppercase tracking-[0.1em] text-ink-mute">{d.credentials.join(' · ')}</p>
+      )}
+      {(d.links.linkedin || d.links.website) && (
+        <p class="mt-4 text-[15px]">
+          {d.links.website && <a href={d.links.website} class="underline decoration-gold-500 underline-offset-2">Website</a>}
+          {d.links.website && d.links.linkedin && ' · '}
+          {d.links.linkedin && <a href={d.links.linkedin} class="underline decoration-gold-500 underline-offset-2">LinkedIn</a>}
+        </p>
+      )}
+    </Container>
+
+    <Container>
+      {articles.length > 0 && (
+        <RelatedGrid id="author-articles" title="Articles">
+          {articles.map((a) => <li class="m-0"><ArticleCard entry={a} /></li>)}
+        </RelatedGrid>
+      )}
+      {resources.length > 0 && (
+        <RelatedGrid id="author-resources" title="Resources">
+          {resources.map((r) => <li class="m-0"><ResourceCard entry={r} /></li>)}
+        </RelatedGrid>
+      )}
+    </Container>
+  </Section>
+</PageLayout>

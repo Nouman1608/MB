@@ -2,7 +2,7 @@
 title: "IELTS"
 order: 7
 level: "ielts"
-availability: "coming-soon"
+status: "coming-soon"
 shortDescription: "Academic IELTS preparation across all four papers."
 description: "Academic IELTS preparation across all four papers."
 curriculum: "British Council / IDP"

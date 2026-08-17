@@ -1,23 +1,20 @@
 ---
 import { getEntry, render, type CollectionEntry } from 'astro:content';
-import PageLayout from '../../../layouts/PageLayout.astro';
-import Section from '../../../components/layout/Section.astro';
-import Container from '../../../components/layout/Container.astro';
-import Button from '../../../components/ui/Button.astro';
-import ResourceCard from '../../../components/cards/ResourceCard.astro';
-import ArticleCard from '../../../components/cards/ArticleCard.astro';
-import RelatedGrid from '../../../components/layout/RelatedGrid.astro';
-import { getResources, resourceCategoryMeta, formatDate } from '../../../utils/content/collections';
-import { relatedResources, relatedArticles, topicSiblings } from '../../../utils/content/related';
-import { articleNode } from '../../../utils/schema/article';
-import { routes, resourceUrl } from '../../../utils/urls/routes';
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import CTA from '../../components/ui/CTA.astro';
+import ResourceCard from '../../components/cards/ResourceCard.astro';
+import ArticleCard from '../../components/cards/ArticleCard.astro';
+import RelatedGrid from '../../components/layout/RelatedGrid.astro';
+import { getResources, resourceCategoryMeta, formatDate } from '../../utils/content/collections';
+import { relatedResources, relatedArticles, topicSiblings } from '../../utils/content/related';
+import { articleNode } from '../../utils/schema/article';
+import { routes, resourceUrl } from '../../utils/urls/routes';
 
 export async function getStaticPaths() {
   const resources = await getResources();
-  return resources.map((resource) => ({
-    params: { category: resource.data.category, slug: resource.id },
-    props: { resource },
-  }));
+  return resources.map((resource) => ({ params: { slug: resource.id }, props: { resource } }));
 }
 
 interface Props { resource: CollectionEntry<'resources'> }
@@ -28,7 +25,7 @@ const path = resourceUrl(resource);
 
 const subject = await getEntry(d.subject);
 const author = d.author ? await getEntry(d.author) : undefined;
-const meta = resourceCategoryMeta[d.category];
+const meta = resourceCategoryMeta[d.resourceType];
 const levels = d.level.map((l) => l.replace(/-/g, ' ').toUpperCase()).join(', ');
 
 const siblings = await topicSiblings(resource);
@@ -59,7 +56,7 @@ const jsonLd = [articleNode({
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Resources', href: routes.resources },
-    { label: meta.title, href: routes.resourceCategory(d.category) },
+    { label: meta.title, href: routes.resourceTypeAnchor(d.resourceType) },
     { label: d.title, href: path },
   ]}
   jsonLd={jsonLd}
@@ -68,8 +65,9 @@ const jsonLd = [articleNode({
   <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Subject </dt><dd class="m-0 inline"><a href={routes.subject(d.subject.id)} class="underline decoration-rule underline-offset-2">{subject?.data.title}</a></dd></div>
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Level </dt><dd class="m-0 inline text-ink-mute">{levels}</dd></div>
+    {d.curriculum && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Curriculum </dt><dd class="m-0 inline text-ink-mute">{d.curriculum}</dd></div>}
     {d.topic && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Topic </dt><dd class="m-0 inline text-ink-mute">{d.topic}</dd></div>}
-    {author && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Author </dt><dd class="m-0 inline text-ink-mute">{author.data.name}</dd></div>}
+    {author && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Author </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(author.id)} class="underline decoration-rule underline-offset-2">{author.data.name}</a></dd></div>}
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Updated </dt><dd class="m-0 inline text-ink-mute"><time datetime={(d.updatedDate ?? d.publishedDate).toISOString()}>{formatDate(d.updatedDate ?? d.publishedDate)}</time></dd></div>
   </dl>
 
@@ -110,12 +108,10 @@ const jsonLd = [articleNode({
     </Container>
   </Section>
 
-  <Section surface="ivory" spacing="md" border>
-    <Container class="flex flex-wrap items-baseline justify-between gap-x-10 gap-y-4">
-      <p class="m-0 max-w-[62ch] text-[17px] leading-[1.6] text-ink-mute">
-        Working through {subject?.data.title}? Tutoring covers the same material with a teacher.
-      </p>
-      <Button href={routes.tutoring} variant="secondary">Find Learning Support</Button>
-    </Container>
-  </Section>
+  <CTA
+    surface="ivory"
+    heading={`Working through ${subject?.data.title}? Tutoring covers the same material with a teacher.`}
+    buttonLabel="Find Learning Support"
+    buttonHref={routes.tutoring}
+  />
 </PageLayout>

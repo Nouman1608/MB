@@ -2,7 +2,8 @@
 title: "Languages"
 order: 10
 levelsLabel: "Selected levels"
-availability: "available"
+levels: []
+status: "available"
 shortDescription: "Languages at Selected levels, with study material organised by topic."
 description: "Languages teaching and study resources, organised by level and topic."
 featured: false

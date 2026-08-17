@@ -19,6 +19,9 @@ export const getArticles = async (
     .filter((a) => includeDrafts || !a.data.draft)
     .sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf());
 
+export const getAuthors = async (): Promise<CollectionEntry<'authors'>[]> =>
+  getCollection('authors');
+
 export const readingTime = (body: string): number =>
   Math.max(1, Math.round(body.trim().split(/\s+/).length / 200));
 

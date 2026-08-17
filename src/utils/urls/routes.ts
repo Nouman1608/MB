@@ -8,10 +8,13 @@ export const routes = {
   subjects: '/subjects/',
   subject: (id: string) => `/subjects/${id}/`,
   resources: '/resources/',
-  resourceCategory: (category: string) => `/resources/${category}/`,
-  resource: (category: string, id: string) => `/resources/${category}/${id}/`,
-  learning: '/learning/',
-  article: (id: string) => `/learning/${id}/`,
+  resource: (id: string) => `/resources/${id}/`,
+  /** Anchor into the resource-type section on the flat /resources/ index — not a separate URL. */
+  resourceTypeAnchor: (resourceType: string) => `/resources/#${resourceType}`,
+  articles: '/articles/',
+  article: (id: string) => `/articles/${id}/`,
+  authors: '/authors/',
+  author: (id: string) => `/authors/${id}/`,
   tutoring: '/tutoring/',
   schools: '/schools/',
   about: '/about/',
@@ -19,4 +22,4 @@ export const routes = {
 } as const;
 
 export const resourceUrl = (entry: CollectionEntry<'resources'>) =>
-  routes.resource(entry.data.category, entry.id);
+  routes.resource(entry.id);

@@ -1,0 +1,24 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { routes } from '../../utils/urls/routes';
+
+interface Props { entry: CollectionEntry<'authors'>; variant?: 'card' | 'inline' }
+const { entry, variant = 'card' } = Astro.props;
+const { name, role, bio, credentials } = entry.data;
+---
+{variant === 'card' ? (
+  <a href={routes.author(entry.id)} class="flex h-full flex-col gap-2.5 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
+    <h3 class="m-0 text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{name}</h3>
+    <p class="m-0 text-[14px] text-ink-mute">{role}</p>
+    <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{bio}</p>
+    {credentials.length > 0 && (
+      <p class="m-0 mt-auto pt-2 font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">{credentials.join(' · ')}</p>
+    )}
+  </a>
+) : (
+  <div class="rounded-sm border border-rule bg-ivory p-6">
+    <a href={routes.author(entry.id)} class="block text-[18px] font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2">{name}</a>
+    <p class="m-0 mt-1 text-[14px] text-ink-mute">{role}</p>
+    <p class="m-0 mt-3 text-[16px] leading-[1.65] text-ink-mute">{bio}</p>
+  </div>
+)}

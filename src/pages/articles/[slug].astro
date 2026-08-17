@@ -26,15 +26,16 @@ const { Content, headings } = await render(article);
 const path = routes.article(article.id);
 
 const author = await getEntry(d.author);
-const subject = d.subject ? await getEntry(d.subject) : undefined;
+const subjects = (await Promise.all(d.subjects.map((ref) => getEntry(ref)))).filter(Boolean);
+const primarySubjectId = d.subjects[0]?.id;
 const minutes = readingTime(article.body ?? '');
-const alsoArticles = await relatedArticles({ subject: d.subject?.id, category: d.category, picked: d.relatedArticles, excludeId: article.id, limit: 3 });
-const alsoResources = await relatedResources({ subject: d.subject?.id, picked: d.relatedResources, limit: 3 });
+const alsoArticles = await relatedArticles({ subject: primarySubjectId, category: d.category, picked: d.relatedArticles, excludeId: article.id, limit: 3 });
+const alsoResources = await relatedResources({ subject: primarySubjectId, picked: d.relatedResources, limit: 3 });
 
 const jsonLd = [articleNode({
   path,
   headline: d.title,
-  description: d.description,
+  description: d.excerpt,
   published: d.publishedDate,
   updated: d.updatedDate,
   authorName: author?.data.name ?? 'Marlbridge Academic Team',
@@ -42,11 +43,11 @@ const jsonLd = [articleNode({
 ---
 <PageLayout
   title={d.seoTitle ?? d.title}
-  description={d.seoDescription ?? d.description}
+  description={d.seoDescription ?? d.excerpt}
   path={path}
   eyebrow={d.category.replace(/-/g, ' ')}
   heading={d.title}
-  lead={d.description}
+  lead={d.excerpt}
   headingFont="display"
   type="article"
   publishedDate={d.publishedDate}
@@ -54,7 +55,7 @@ const jsonLd = [articleNode({
   author={author?.data.name}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
-    { label: 'Learning Journal', href: routes.learning },
+    { label: 'Learning Journal', href: routes.articles },
     { label: d.title, href: path },
   ]}
   jsonLd={jsonLd}
@@ -72,15 +73,21 @@ const jsonLd = [articleNode({
       {author && (
         <aside aria-label="About the author" class="mt-10 rounded-sm border border-rule bg-ivory p-6">
           <p class="m-0 font-mono text-[11px] uppercase tracking-[0.14em] text-gold-600">Written by</p>
-          <p class="m-0 mt-2 text-[18px] font-semibold text-navy-800">{author.data.name}</p>
+          <a href={routes.author(author.id)} class="mt-2 block text-[18px] font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2">{author.data.name}</a>
           <p class="m-0 mt-1 text-[14px] text-ink-mute">{author.data.role}</p>
           <p class="m-0 mt-3 text-[16px] leading-[1.65] text-ink-mute">{author.data.bio}</p>
         </aside>
       )}
 
-      {subject && (
+      {subjects.length > 0 && (
         <p class="mt-8 text-[15.5px] text-ink-mute">
-          More on this subject: <a href={routes.subject(subject.id)} class="underline decoration-gold-500 underline-offset-2">{subject.data.title}</a>
+          More on {subjects.length === 1 ? 'this subject' : 'these subjects'}:{' '}
+          {subjects.map((subject, i) => (
+            <>
+              <a href={routes.subject(subject!.id)} class="underline decoration-gold-500 underline-offset-2">{subject!.data.title}</a>
+              {i < subjects.length - 1 ? ', ' : ''}
+            </>
+          ))}
         </p>
       )}
     </Container>

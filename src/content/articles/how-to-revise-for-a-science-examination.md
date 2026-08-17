@@ -1,9 +1,12 @@
 ---
 title: "How to revise for a science examination"
-description: "Most science revision fails because it rereads notes instead of retrieving them. A practical method for revising physics, chemistry and biology in the weeks before a paper."
+excerpt: "Most science revision fails because it rereads notes instead of retrieving them. A practical method for revising physics, chemistry and biology in the weeks before a paper."
 author: "marlbridge-academic-team"
 publishedDate: 2026-07-14
 category: "study-skills"
+subjects: ["physics", "chemistry", "biology"]
+levels: []
+featured: false
 tags: ["revision", "science", "exam technique"]
 featuredImageAlt: "Reserved for a photograph of a student working through past papers"
 ---

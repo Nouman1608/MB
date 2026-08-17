@@ -1,0 +1,30 @@
+---
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import Button from './Button.astro';
+
+interface Props {
+  heading: string;
+  buttonLabel: string;
+  buttonHref: string;
+  surface?: 'navy' | 'ivory';
+}
+const { heading, buttonLabel, buttonHref, surface = 'navy' } = Astro.props;
+---
+{surface === 'navy' ? (
+  <Section surface="navy" spacing="md">
+    <Container class="flex flex-col items-start gap-6">
+      <h2 class="m-0 max-w-[26ch] font-display text-[length:var(--text-serif-h2)] font-normal leading-[1.14] tracking-[-0.02em] text-white">
+        {heading}
+      </h2>
+      <Button href={buttonHref} variant="onDark" size="lg">{buttonLabel}</Button>
+    </Container>
+  </Section>
+) : (
+  <Section surface="ivory" spacing="md" border>
+    <Container class="flex flex-wrap items-baseline justify-between gap-x-10 gap-y-4">
+      <p class="m-0 max-w-[62ch] text-[17px] leading-[1.6] text-ink-mute">{heading}</p>
+      <Button href={buttonHref} variant="secondary">{buttonLabel}</Button>
+    </Container>
+  </Section>
+)}

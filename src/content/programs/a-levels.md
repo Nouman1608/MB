@@ -2,7 +2,7 @@
 title: "A Levels"
 order: 3
 level: "a-levels"
-availability: "available"
+status: "available"
 shortDescription: "AS and A2 teaching for students moving towards university entry."
 description: "AS and A2 teaching for students moving towards university entry."
 curriculum: "Cambridge / Edexcel"

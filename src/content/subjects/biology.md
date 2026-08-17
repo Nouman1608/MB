@@ -2,7 +2,8 @@
 title: "Biology"
 order: 4
 levelsLabel: "IGCSE · O · A Level"
-availability: "available"
+levels: ["igcse", "o-levels", "a-levels"]
+status: "available"
 shortDescription: "Biology at IGCSE · O · A Level, with study material organised by topic."
 description: "Biology teaching and study resources, organised by level and topic."
 featured: true

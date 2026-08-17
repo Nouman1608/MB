@@ -1,22 +1,20 @@
 ---
+import { getEntry } from 'astro:content';
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import Card from '../../components/cards/Card.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
-import RelatedGrid from '../../components/layout/RelatedGrid.astro';
 import { getResources, resourceCategoryMeta } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
-import { getEntry } from 'astro:content';
 
-const categories = Object.entries(resourceCategoryMeta);
+const types = Object.entries(resourceCategoryMeta);
 const resources = await getResources();
-const counts = Object.fromEntries(
-  categories.map(([slug]) => [slug, resources.filter((r) => r.data.category === slug).length]),
+const byType = Object.fromEntries(
+  types.map(([slug]) => [slug, resources.filter((r) => r.data.resourceType === slug)]),
 );
 const recent = resources.slice(0, 6);
 const subjectTitles = Object.fromEntries(
-  await Promise.all(recent.map(async (r) => [r.id, (await getEntry(r.data.subject))?.data.title ?? ''])),
+  await Promise.all(resources.map(async (r) => [r.id, (await getEntry(r.data.subject))?.data.title ?? ''])),
 );
 ---
 <PageLayout
@@ -31,25 +29,40 @@ const subjectTitles = Object.fromEntries(
   <Section surface="white">
     <Container>
       <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Browse by type</h2>
-      <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-4">
-        {categories.map(([slug, meta]) => (
+      <ul class="m-0 mb-4 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-4">
+        {types.map(([slug, meta]) => (
           <li class="m-0">
-            <Card href={routes.resourceCategory(slug)} title={meta.title} description={meta.description}>
-              <p class="m-0 mt-auto pt-2 font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">
-                {counts[slug]} published
-              </p>
-            </Card>
+            <a href={`#${slug}`} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)] transition-colors duration-150 hover:border-gold-500">
+              <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{meta.title}</span>
+              <span class="text-[14.5px] leading-relaxed text-ink-mute">{meta.description}</span>
+              <span class="mt-auto pt-2 font-mono text-[11px] uppercase tracking-[0.1em] text-ink-mute">{byType[slug].length} published</span>
+            </a>
           </li>
         ))}
       </ul>
 
       {recent.length > 0 && (
-        <RelatedGrid id="recent-resources" title="Recently published">
-          {recent.map((resource) => (
-            <li class="m-0"><ResourceCard entry={resource} subjectTitle={subjectTitles[resource.id]} /></li>
-          ))}
-        </RelatedGrid>
+        <section aria-labelledby="recent-resources" class="mt-[clamp(48px,6vw,80px)]">
+          <h2 id="recent-resources" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Recently published</h2>
+          <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+            {recent.map((resource) => (
+              <li class="m-0"><ResourceCard entry={resource} subjectTitle={subjectTitles[resource.id]} /></li>
+            ))}
+          </ul>
+        </section>
       )}
+
+      {types.map(([slug, meta]) => byType[slug].length > 0 && (
+        <section id={slug} aria-labelledby={`${slug}-heading`} class="mt-[clamp(48px,6vw,80px)] scroll-mt-24 border-t border-rule pt-8">
+          <h2 id={`${slug}-heading`} class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{meta.title}</h2>
+          <p class="m-0 mb-6 max-w-[60ch] text-[16px] leading-[1.6] text-ink-mute">{meta.description}</p>
+          <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+            {byType[slug].map((entry) => (
+              <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitles[entry.id]} /></li>
+            ))}
+          </ul>
+        </section>
+      ))}
 
       <section aria-labelledby="library-shape" class="mt-[clamp(48px,6vw,80px)] max-w-[68ch] border-t border-rule pt-8">
         <h2 id="library-shape" class="m-0 mb-4 text-[22px] font-semibold text-navy-800">How the library is organised</h2>
@@ -59,7 +72,7 @@ const subjectTitles = Object.fromEntries(
         <ol class="m-0 flex list-none flex-col gap-2.5 p-0 text-[15.5px]">
           <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">01</span><span>Subject hub — <code class="font-mono text-[13.5px] text-ink-mute">/subjects/chemistry/</code></span></li>
           <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">02</span><span>Level within a program — <code class="font-mono text-[13.5px] text-ink-mute">/programs/igcse/</code></span></li>
-          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">03</span><span>Topic material — <code class="font-mono text-[13.5px] text-ink-mute">/resources/revision-notes/atomic-structure/</code></span></li>
+          <li class="flex items-baseline gap-3"><span class="font-mono text-[11px] text-gold-500">03</span><span>Topic material — <code class="font-mono text-[13.5px] text-ink-mute">/resources/atomic-structure/</code></span></li>
         </ol>
       </section>
     </Container>

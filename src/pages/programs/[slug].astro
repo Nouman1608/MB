@@ -4,7 +4,7 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import Badge from '../../components/ui/Badge.astro';
-import Button from '../../components/ui/Button.astro';
+import CTA from '../../components/ui/CTA.astro';
 import Card from '../../components/cards/Card.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
@@ -33,16 +33,16 @@ const availabilityCopy = {
   'available': 'This program is taught by Marlbridge today.',
   'resources-only': 'Study resources for this qualification are published here. Teaching is not yet offered.',
   'coming-soon': 'This program is not yet offered. Tell us you are interested and we will let you know when teaching begins.',
-}[d.availability];
+}[d.status];
 
 const cta = {
   'available': { label: 'Enquire about this program', href: routes.contact },
   'resources-only': { label: 'Explore learning resources', href: routes.resources },
   'coming-soon': { label: 'Register interest', href: routes.contact },
-}[d.availability];
+}[d.status];
 
 const jsonLd = [
-  ...(d.availability === 'available' ? [courseNode({ path, name: `${d.title} — Marlbridge`, description: d.description })] : []),
+  ...(d.status === 'available' ? [courseNode({ path, name: `${d.title} — Marlbridge`, description: d.description })] : []),
   ...(faqNode(d.faqs) ? [faqNode(d.faqs)!] : []),
 ];
 ---
@@ -62,7 +62,7 @@ const jsonLd = [
   noindex={d.noindex}
 >
   <div slot="hero-extra" class="mt-7 flex flex-wrap items-center gap-x-6 gap-y-3">
-    <Badge label={availabilityLabel[d.availability]} tone={availabilityTone[d.availability]} />
+    <Badge label={availabilityLabel[d.status]} tone={availabilityTone[d.status]} />
     {d.curriculum && <span class="text-[14px] text-ink-mute">Curriculum: {d.curriculum}</span>}
     {d.ageRange && <span class="text-[14px] text-ink-mute">Typical ages: {d.ageRange}</span>}
   </div>
@@ -104,12 +104,5 @@ const jsonLd = [
     </Container>
   </Section>
 
-  <Section surface="navy" spacing="md">
-    <Container class="flex flex-col items-start gap-6">
-      <h2 class="m-0 max-w-[26ch] font-display text-[length:var(--text-serif-h2)] font-normal leading-[1.14] tracking-[-0.02em] text-white">
-        Tell us what the learner needs.
-      </h2>
-      <Button href={cta.href} variant="onDark" size="lg">{cta.label}</Button>
-    </Container>
-  </Section>
+  <CTA heading="Tell us what the learner needs." buttonLabel={cta.label} buttonHref={cta.href} />
 </PageLayout>

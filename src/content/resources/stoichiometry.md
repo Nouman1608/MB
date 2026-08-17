@@ -1,12 +1,13 @@
 ---
 title: "Stoichiometry and the Mole"
-category: "study-guides"
+resourceType: "study-guides"
 subject: "chemistry"
 level: ["igcse","o-levels","a-levels"]
 topic: "Stoichiometry"
 description: "Moles, molar mass and reacting masses, worked through in the order examiners ask for them."
 author: "marlbridge-academic-team"
 publishedDate: 2026-07-01
+featured: false
 ---
 
 This resource is published as part of the Marlbridge stoichiometry sequence.

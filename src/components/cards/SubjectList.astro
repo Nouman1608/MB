@@ -1,0 +1,28 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { routes } from '../../utils/urls/routes';
+
+interface Props {
+  subjects: CollectionEntry<'subjects'>[];
+  /** Resource count per subject id, keyed by subject.id — omit to hide the count badge. */
+  counts?: Record<string, number>;
+}
+const { subjects, counts } = Astro.props;
+---
+<ul class="m-0 grid list-none p-0 sm:grid-cols-2 sm:gap-x-[clamp(24px,4vw,64px)]">
+  {subjects.map((subject) => (
+    <li class="m-0 border-b border-rule">
+      <a href={routes.subject(subject.id)} class="flex items-baseline justify-between gap-4 py-[17px]">
+        <span class="flex min-w-0 items-baseline gap-2.5">
+          <span class="font-display text-2xl tracking-[-0.01em]">{subject.data.title}</span>
+          {counts && counts[subject.id] > 0 && (
+            <span class="shrink-0 whitespace-nowrap rounded-sm border border-[#E4D7A8] bg-[#FBF7EA] px-1.5 py-0.5 font-mono text-[10.5px] uppercase tracking-[0.08em] text-gold-600">
+              {counts[subject.id]} {counts[subject.id] === 1 ? 'resource' : 'resources'}
+            </span>
+          )}
+        </span>
+        <span class="whitespace-nowrap text-[13px] text-ink-mute">{subject.data.levelsLabel}</span>
+      </a>
+    </li>
+  ))}
+</ul>

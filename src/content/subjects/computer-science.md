@@ -2,7 +2,8 @@
 title: "Computer Science"
 order: 5
 levelsLabel: "IGCSE · O · A Level"
-availability: "available"
+levels: ["igcse", "o-levels", "a-levels"]
+status: "available"
 shortDescription: "Computer Science at IGCSE · O · A Level, with study material organised by topic."
 description: "Computer Science teaching and study resources, organised by level and topic."
 featured: true

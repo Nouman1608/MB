@@ -1,15 +1,16 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { formatDate } from '../../utils/content/collections';
+import { routes } from '../../utils/urls/routes';
 
 interface Props { entry: CollectionEntry<'articles'> }
 const { entry } = Astro.props;
-const { title, description, publishedDate, category } = entry.data;
+const { title, excerpt, publishedDate, category } = entry.data;
 const categoryLabel = category.replace(/-/g, ' ');
 ---
-<a href={`/learning/${entry.id}/`} class="flex h-full flex-col gap-3 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
+<a href={routes.article(entry.id)} class="flex h-full flex-col gap-3 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
   <p class="m-0 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{categoryLabel}</p>
   <h3 class="m-0 font-display text-[22px] font-normal leading-[1.2] tracking-[-0.01em] text-navy-800">{title}</h3>
-  <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{description}</p>
+  <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{excerpt}</p>
   <p class="m-0 mt-auto pt-2 text-[13px] text-ink-mute">{formatDate(publishedDate)}</p>
 </a>

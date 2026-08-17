@@ -38,17 +38,17 @@ export async function relatedArticles(
   };
 
   for (const p of picked) push(byId.get(p.id));
-  if (subject) for (const a of all) if (a.data.subject?.id === subject) push(a);
+  if (subject) for (const a of all) if (a.data.subjects.some((s) => s.id === subject)) push(a);
   if (category) for (const a of all) if (a.data.category === category) push(a);
   for (const a of all) push(a);
   return out;
 }
 
 /** Resources belonging to one subject, optionally filtered by category. */
-export async function resourcesForSubject(subjectId: string, category?: string) {
+export async function resourcesForSubject(subjectId: string, resourceType?: string) {
   const all = await getCollection('resources');
   return all
-    .filter((r) => r.data.subject.id === subjectId && (!category || r.data.category === category))
+    .filter((r) => r.data.subject.id === subjectId && (!resourceType || r.data.resourceType === resourceType))
     .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999));
 }
 
@@ -63,4 +63,20 @@ export async function topicSiblings(entry: CollectionEntry<'resources'>) {
     prev: i > 0 ? siblings[i - 1] : null,
     next: i >= 0 && i < siblings.length - 1 ? siblings[i + 1] : null,
   };
+}
+
+/** Published articles by one author, most recent first. */
+export async function articlesByAuthor(authorId: string) {
+  const all = (await getCollection('articles')).filter((a) => !a.data.draft);
+  return all
+    .filter((a) => a.data.author.id === authorId)
+    .sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf());
+}
+
+/** Published resources authored by one author, most recent first. */
+export async function resourcesByAuthor(authorId: string) {
+  const all = await getCollection('resources');
+  return all
+    .filter((r) => r.data.author?.id === authorId)
+    .sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf());
 }

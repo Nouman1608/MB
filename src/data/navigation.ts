@@ -21,11 +21,11 @@ export const footerNav = {
     { label: 'For Schools', href: '/schools/' },
   ],
   resources: [
-    { label: 'Study Guides', href: '/resources/study-guides/' },
-    { label: 'Revision Notes', href: '/resources/revision-notes/' },
-    { label: 'Past Papers', href: '/resources/past-papers/' },
-    { label: 'Exam Preparation', href: '/resources/exam-preparation/' },
-    { label: 'Learning Journal', href: '/learning/' },
+    { label: 'Study Guides', href: '/resources/#study-guides' },
+    { label: 'Revision Notes', href: '/resources/#revision-notes' },
+    { label: 'Past Papers', href: '/resources/#past-papers' },
+    { label: 'Exam Preparation', href: '/resources/#exam-preparation' },
+    { label: 'Learning Journal', href: '/articles/' },
   ],
   company: [
     { label: 'About', href: '/about/' },

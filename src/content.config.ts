@@ -8,7 +8,8 @@ const seoFields = {
   noindex: z.boolean().default(false),
 };
 
-const availability = z.enum(['available', 'coming-soon', 'resources-only']);
+/** available = taught now, resources-only = published but not taught, coming-soon = neither yet. */
+const status = z.enum(['available', 'coming-soon', 'resources-only']);
 const level = z.enum(['igcse', 'o-levels', 'a-levels', 'gcse', 'ib', 'sat', 'ielts', 'foundation']);
 const country = z.enum(['PK', 'AE', 'SA', 'IN', 'GB', 'EU', 'WW']);
 
@@ -23,7 +24,7 @@ const programs = defineCollection({
     ageRange: z.string().optional(),
     curriculum: z.string().optional(),
     subjects: z.array(reference('subjects')).default([]),
-    availability,
+    status,
     countryAvailability: z.array(country).default(['PK']),
     featured: z.boolean().default(false),
     faqs: z.array(z.object({ question: z.string(), answer: z.string() })).default([]),
@@ -38,11 +39,12 @@ const subjects = defineCollection({
     title: z.string(),
     order: z.number(),
     levelsLabel: z.string(),
+    levels: z.array(level).default([]),
     shortDescription: z.string().max(140),
     description: z.string(),
     topics: z.array(z.object({ title: z.string(), slug: z.string() })).default([]),
-    programs: z.array(reference('programs')).default([]),
-    availability,
+    relatedPrograms: z.array(reference('programs')).default([]),
+    status,
     featured: z.boolean().default(false),
     faqs: z.array(z.object({ question: z.string(), answer: z.string() })).default([]),
     ...seoFields,
@@ -53,18 +55,20 @@ const resources = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/resources' }),
   schema: z.object({
     title: z.string(),
-    category: z.enum([
+    resourceType: z.enum([
       'study-guides', 'revision-notes', 'past-papers', 'practice-questions',
       'exam-preparation', 'subject-guides', 'learning-articles',
     ]),
     subject: reference('subjects'),
     level: z.array(level),
+    curriculum: z.string().optional(),
     topic: z.string().optional(),
     description: z.string(),
     author: reference('authors').optional(),
     publishedDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     order: z.number().optional(),
+    featured: z.boolean().default(false),
     relatedResources: z.array(reference('resources')).default([]),
     relatedArticles: z.array(reference('articles')).default([]),
     ...seoFields,
@@ -75,7 +79,7 @@ const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
   schema: z.object({
     title: z.string(),
-    description: z.string(),
+    excerpt: z.string(),
     author: reference('authors'),
     publishedDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
@@ -84,9 +88,11 @@ const articles = defineCollection({
       'higher-education', 'teaching', 'marlbridge-news',
     ]),
     tags: z.array(z.string()).max(6).default([]),
-    subject: reference('subjects').optional(),
+    subjects: z.array(reference('subjects')).default([]),
+    levels: z.array(level).default([]),
     featuredImage: z.string().optional(),
     featuredImageAlt: z.string().optional(),
+    featured: z.boolean().default(false),
     relatedArticles: z.array(reference('articles')).default([]),
     relatedResources: z.array(reference('resources')).default([]),
     draft: z.boolean().default(false),
@@ -100,9 +106,25 @@ const authors = defineCollection({
     name: z.string(),
     role: z.string(),
     bio: z.string(),
+    image: z.string().optional(),
     credentials: z.array(z.string()).default([]),
     links: z.object({ linkedin: z.string().url().optional(), website: z.string().url().optional() }).default({}),
   }),
 });
 
-export const collections = { programs, subjects, resources, articles, authors };
+/**
+ * Generic flexible pages (infrastructure for future one-off content pages).
+ * The current fixed-nav pages (About, Tutoring, For Schools, Contact) stay
+ * as dedicated .astro files because each has a bespoke layout — this
+ * collection exists so a future page doesn't need a code change to ship.
+ */
+const pages = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/pages' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    ...seoFields,
+  }),
+});
+
+export const collections = { programs, subjects, resources, articles, authors, pages };

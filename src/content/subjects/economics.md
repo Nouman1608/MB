@@ -2,7 +2,8 @@
 title: "Economics"
 order: 6
 levelsLabel: "O · A Level"
-availability: "available"
+levels: ["o-levels", "a-levels"]
+status: "available"
 shortDescription: "Economics at O · A Level, with study material organised by topic."
 description: "Economics teaching and study resources, organised by level and topic."
 featured: false

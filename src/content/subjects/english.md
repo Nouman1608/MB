@@ -2,7 +2,8 @@
 title: "English"
 order: 9
 levelsLabel: "IGCSE · O · A Level"
-availability: "available"
+levels: ["igcse", "o-levels", "a-levels"]
+status: "available"
 shortDescription: "English at IGCSE · O · A Level, with study material organised by topic."
 description: "English teaching and study resources, organised by level and topic."
 featured: false

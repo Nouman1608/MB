@@ -2,7 +2,7 @@
 title: "IB"
 order: 5
 level: "ib"
-availability: "resources-only"
+status: "resources-only"
 shortDescription: "Diploma Programme subject support. Study material is available while teaching is being developed."
 description: "Diploma Programme subject support. Study material is available while teaching is being developed."
 curriculum: "International Baccalaureate"

@@ -19,7 +19,7 @@ const articles = (await getArticles()).slice(0, 3);
             Guidance on examinations, study method, curriculum choices and higher education — written by the people who teach it.
           </p>
         </div>
-        <Button href={routes.learning} variant="quiet">All articles</Button>
+        <Button href={routes.articles} variant="quiet">All articles</Button>
       </div>
       <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
         {articles.map((article) => <li class="m-0"><ArticleCard entry={article} /></li>)}

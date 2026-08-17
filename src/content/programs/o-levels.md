@@ -2,7 +2,7 @@
 title: "O Levels"
 order: 2
 level: "o-levels"
-availability: "available"
+status: "available"
 shortDescription: "Full O Level teaching with structured revision and past-paper practice."
 description: "Full O Level teaching with structured revision and past-paper practice."
 curriculum: "Cambridge"

@@ -2,7 +2,8 @@
 title: "Mathematics"
 order: 1
 levelsLabel: "IGCSE · O · A Level"
-availability: "available"
+levels: ["igcse", "o-levels", "a-levels"]
+status: "available"
 shortDescription: "Mathematics at IGCSE · O · A Level, with study material organised by topic."
 description: "Mathematics teaching and study resources, organised by level and topic."
 featured: true

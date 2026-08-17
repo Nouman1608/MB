@@ -2,7 +2,7 @@
 title: "IGCSE"
 order: 1
 level: "igcse"
-availability: "available"
+status: "available"
 shortDescription: "Cambridge and Edexcel International GCSE preparation across the sciences, mathematics and humanities."
 description: "Cambridge and Edexcel International GCSE preparation across the sciences, mathematics and humanities."
 curriculum: "Cambridge / Edexcel"

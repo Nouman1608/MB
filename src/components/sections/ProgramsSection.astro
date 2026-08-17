@@ -8,7 +8,7 @@ import { getPrograms, availabilityLabel, availabilityTone } from '../../utils/co
 import { routes } from '../../utils/urls/routes';
 
 const programs = await getPrograms();
-const hasUnavailable = programs.some((p) => p.data.availability !== 'available');
+const hasUnavailable = programs.some((p) => p.data.status !== 'available');
 ---
 <Section surface="white" labelledby="programs-heading">
   <Container>
@@ -31,7 +31,7 @@ const hasUnavailable = programs.some((p) => p.data.availability !== 'available')
           >
             <span class="flex items-start justify-between gap-3">
               <h3 class="m-0 text-[clamp(1.25rem,1.1rem+0.5vw,1.5rem)] font-semibold leading-[1.15] tracking-[-0.02em] text-navy-800">{program.data.title}</h3>
-              <Badge label={availabilityLabel[program.data.availability]} tone={availabilityTone[program.data.availability]} />
+              <Badge label={availabilityLabel[program.data.status]} tone={availabilityTone[program.data.status]} />
             </span>
             <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{program.data.shortDescription}</p>
             <span aria-hidden="true" class="mt-auto pt-3 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">View program</span>

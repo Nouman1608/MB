@@ -3,7 +3,7 @@ import { getEntry, render, type CollectionEntry } from 'astro:content';
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import Button from '../../components/ui/Button.astro';
+import CTA from '../../components/ui/CTA.astro';
 import Card from '../../components/cards/Card.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import ArticleCard from '../../components/cards/ArticleCard.astro';
@@ -25,10 +25,10 @@ const d = subject.data;
 const { Content } = await render(subject);
 const path = routes.subject(subject.id);
 
-const programs = (await Promise.all(d.programs.map((ref) => getEntry(ref)))).filter(Boolean);
+const programs = (await Promise.all(d.relatedPrograms.map((ref) => getEntry(ref)))).filter(Boolean);
 const all = await resourcesForSubject(subject.id);
-const study = all.filter((r) => ['study-guides', 'revision-notes', 'subject-guides'].includes(r.data.category));
-const practice = all.filter((r) => ['practice-questions', 'past-papers', 'exam-preparation'].includes(r.data.category));
+const study = all.filter((r) => ['study-guides', 'revision-notes', 'subject-guides'].includes(r.data.resourceType));
+const practice = all.filter((r) => ['practice-questions', 'past-papers', 'exam-preparation'].includes(r.data.resourceType));
 const articles = await relatedArticles({ subject: subject.id, limit: 3 });
 const faq = faqNode(d.faqs);
 ---
@@ -102,12 +102,10 @@ const faq = faqNode(d.faqs);
     </Container>
   </Section>
 
-  <Section surface="ivory" spacing="md" border>
-    <Container class="flex flex-wrap items-baseline justify-between gap-x-10 gap-y-4">
-      <p class="m-0 max-w-[62ch] text-[17px] leading-[1.6] text-ink-mute">
-        Need teaching in {d.title}? Tell us the level and where the difficulty is.
-      </p>
-      <Button href={routes.tutoring} variant="secondary">Find Learning Support</Button>
-    </Container>
-  </Section>
+  <CTA
+    surface="ivory"
+    heading={`Need teaching in ${d.title}? Tell us the level and where the difficulty is.`}
+    buttonLabel="Find Learning Support"
+    buttonHref={routes.tutoring}
+  />
 </PageLayout>

@@ -2,7 +2,7 @@
 title: "GCSE"
 order: 4
 level: "gcse"
-availability: "resources-only"
+status: "resources-only"
 shortDescription: "UK GCSE support built on the same subject material as our international programs."
 description: "UK GCSE support built on the same subject material as our international programs."
 curriculum: "AQA / Edexcel / OCR"

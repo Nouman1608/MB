@@ -2,7 +2,7 @@
 title: "Academic Support"
 order: 8
 level: "foundation"
-availability: "available"
+status: "available"
 shortDescription: "One-to-one help with a specific subject, topic or study method, at any level we teach."
 description: "One-to-one help with a specific subject, topic or study method, at any level we teach."
 countryAvailability: ["PK"]

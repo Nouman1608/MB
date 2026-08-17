@@ -2,7 +2,7 @@
 title: "SAT"
 order: 6
 level: "sat"
-availability: "coming-soon"
+status: "coming-soon"
 shortDescription: "Reading, writing and mathematics preparation for the digital SAT."
 description: "Reading, writing and mathematics preparation for the digital SAT."
 curriculum: "College Board"
