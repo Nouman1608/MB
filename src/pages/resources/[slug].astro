@@ -7,7 +7,7 @@ import CTA from '../../components/ui/CTA.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import ArticleCard from '../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
-import { getResources, resourceCategoryMeta, formatDate } from '../../utils/content/collections';
+import { getResources, resourceCategoryMeta, formatDate, resourceLevelLabel } from '../../utils/content/collections';
 import { relatedResources, relatedArticles, topicSiblings } from '../../utils/content/related';
 import { articleNode } from '../../utils/schema/article';
 import { routes, resourceUrl } from '../../utils/urls/routes';
@@ -26,7 +26,7 @@ const path = resourceUrl(resource);
 const subject = await getEntry(d.subject);
 const author = d.author ? await getEntry(d.author) : undefined;
 const meta = resourceCategoryMeta[d.resourceType];
-const levels = d.level.map((l) => l.replace(/-/g, ' ').toUpperCase()).join(', ');
+const levels = resourceLevelLabel(d.level, d.stage);
 
 const siblings = await topicSiblings(resource);
 const alsoResources = await relatedResources({ subject: d.subject.id, topic: d.topic, excludeId: resource.id, picked: d.relatedResources, limit: 3 });

@@ -4,7 +4,7 @@ import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
 import Button from '../ui/Button.astro';
 import Card from '../cards/Card.astro';
-import { getResources, resourceCategoryMeta } from '../../utils/content/collections';
+import { getResources, resourceCategoryMeta, resourceLevelLabel } from '../../utils/content/collections';
 import { routes, resourceUrl } from '../../utils/urls/routes';
 
 const categories = Object.entries(resourceCategoryMeta);
@@ -13,7 +13,7 @@ const counts = Object.fromEntries(categories.map(([slug]) => [slug, resources.fi
 const recent = resources.slice(0, 4);
 const rows = await Promise.all(recent.map(async (entry) => {
   const subject = await getEntry(entry.data.subject);
-  const levels = entry.data.level.map((l) => l.replace(/-/g, ' ').toUpperCase()).join(', ');
+  const levels = resourceLevelLabel(entry.data.level, entry.data.stage);
   return {
     href: resourceUrl(entry),
     title: entry.data.title,

@@ -25,6 +25,23 @@ export const getAuthors = async (): Promise<CollectionEntry<'authors'>[]> =>
 export const readingTime = (body: string): number =>
   Math.max(1, Math.round(body.trim().split(/\s+/).length / 200));
 
+/**
+ * Display label for a resource's `level` values, honouring `stage` for 9701
+ * so an AS-only resource never reads as "A LEVELS" on the page. Only
+ * 'a-levels' is stage-sensitive; every other level displays as before.
+ */
+export const resourceLevelLabel = (
+  levels: readonly string[],
+  stage?: 'AS' | 'A',
+): string =>
+  levels
+    .map((l) => {
+      if (l === 'a-levels' && stage === 'AS') return 'AS LEVEL';
+      if (l === 'a-levels' && stage === 'A') return 'A LEVEL';
+      return l.replace(/-/g, ' ').toUpperCase();
+    })
+    .join(', ');
+
 export const formatDate = (date: Date): string =>
   new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }).format(date);
 

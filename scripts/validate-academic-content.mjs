@@ -22,6 +22,11 @@ const active = new Set(
 const activeBoards = new Set(MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE').map((c) => c.boardSlug));
 const activeQuals = new Set(MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE').map((c) => c.qualificationSlug));
 
+const scalarField = (fm, name) => {
+  const m = fm.match(new RegExp(`^${name}:\\s*"?([A-Za-z-]+)"?\\s*$`, 'm'));
+  return m ? m[1] : undefined;
+};
+
 const listField = (fm, name) => {
   const m = fm.match(new RegExp(`^${name}:\\s*\\[(.*?)\\]`, 'm'));
   if (!m) return [];
@@ -66,6 +71,8 @@ for (const s of SYLLABUS_TOPICS) {
   topicIndex.set(s.qualificationSlug, {
     topics: new Set(s.topics.map((t) => t.slug)),
     subtopics: new Set(s.topics.flatMap((t) => t.subtopics.map((st) => st.slug))),
+    /** topic slug -> stage ('AS'|'A'|undefined). 9701 only; unset for 0620/5070. */
+    stageByTopic: new Map(s.topics.map((t) => [t.slug, t.stage])),
   });
 }
 
@@ -98,3 +105,55 @@ if (topicErrors.length) {
   process.exit(1);
 }
 console.log('Syllabus topic references OK.');
+
+// ---------------------------------------------------------------------------
+// STAGE CONSISTENCY (9701: AS vs A Level)
+// A resource may declare `stage: AS` or `stage: A`. Where it does, every
+// syllabusTopics entry it references must belong to that same stage in the
+// official taxonomy — this is what stops an AS-only resource from silently
+// picking up an A Level topic (or being displayed as A Level content) and
+// vice versa. A resource referencing a staged topic MUST declare a matching
+// stage; a resource with no staged topics must not declare one at all.
+// ---------------------------------------------------------------------------
+const stageErrors = [];
+for (const dir of ['src/content/resources', 'src/content/articles']) {
+  let files = [];
+  try { files = (await readdir(dir)).filter((f) => f.endsWith('.md')); } catch { continue; }
+  for (const file of files) {
+    const raw = await readFile(join(dir, file), 'utf8');
+    const fm = raw.split('---')[1] ?? '';
+    const at = `${dir}/${file}`;
+    const declaredStage = scalarField(fm, 'stage');
+    const block = fm.match(/^syllabusTopics:\s*\n([\s\S]*?)(?=^\S|\Z)/m);
+    if (!block) {
+      if (declaredStage) stageErrors.push(`${at}: declares stage "${declaredStage}" but has no syllabusTopics to justify it`);
+      continue;
+    }
+    const entries = block[1].split(/^\s*-\s+/m).slice(1);
+    const stagesSeen = new Set();
+    for (const e of entries) {
+      const q = (e.match(/qualification:\s*"?([a-z-]+)"?/) || [])[1];
+      const t = (e.match(/topic:\s*"?([a-z0-9-]+)"?/) || [])[1];
+      const idx = topicIndex.get(q);
+      const topicStage = idx?.stageByTopic.get(t);
+      if (topicStage) stagesSeen.add(topicStage);
+    }
+    if (stagesSeen.size > 1) {
+      stageErrors.push(`${at}: syllabusTopics span multiple stages (${[...stagesSeen].join(', ')}) — split into separate resources or document why one page genuinely covers both`);
+    } else if (stagesSeen.size === 1) {
+      const [onlyStage] = stagesSeen;
+      if (declaredStage !== onlyStage) {
+        stageErrors.push(`${at}: syllabusTopics are ${onlyStage} Level but frontmatter declares stage "${declaredStage ?? '(none)'}"`);
+      }
+    } else if (declaredStage) {
+      stageErrors.push(`${at}: declares stage "${declaredStage}" but none of its syllabusTopics belong to a staged (9701) topic`);
+    }
+  }
+}
+if (stageErrors.length) {
+  console.error(`\nStage consistency validation FAILED — ${stageErrors.length} problem(s):\n`);
+  for (const e of stageErrors) console.error(`  • ${e}`);
+  console.error('');
+  process.exit(1);
+}
+console.log('Stage consistency OK.');

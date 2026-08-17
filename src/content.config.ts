@@ -88,6 +88,17 @@ const resources = defineCollection({
     syllabusCodes: z.array(z.string()).default([]),
     /** Exact examination series, e.g. '2026-2028'. Never mix series silently. */
     syllabusSeries: z.string().optional(),
+    /**
+     * 9701 only: which stage of a combined "AS & A Level" syllabus this
+     * resource actually covers. 9701 is published as one qualification, but
+     * AS (topics 1-22) and A Level (topics 23-37) are materially different
+     * depth, so a resource must be able to say which one it is without a
+     * separate, unapproved 'as-level' qualification combination. Leave unset
+     * for 0620/5070 (not staged) or a resource genuinely spanning both
+     * stages. Validated against the stage of every syllabusTopics entry the
+     * resource declares — see scripts/validate-academic-content.mjs.
+     */
+    stage: z.enum(['AS', 'A']).optional(),
     /** Set when applicability to a qualification is uncertain and needs a human check. */
     reviewNeeded: z.boolean().default(false),
     reviewNote: z.string().optional(),

@@ -8,6 +8,7 @@ boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9701"]
 syllabusSeries: "2025-2027"
+stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "as-an-introduction-to-as-level-organic-chemistry"
