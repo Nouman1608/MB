@@ -182,7 +182,7 @@ and purity
 
 ## Related resources
 
-- [Atoms, Elements and Compounds](/resources/atoms-elements-and-compounds/) — Ar and isotopes first
+- [Atomic Structure](/resources/atomic-structure/) — Ar and isotopes first
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — ionic charges
 - [Redox Reactions](/resources/redox-reactions/) — oxidation numbers build on the formulae covered here
 - [Rates of Reaction and Reversible Reactions](/resources/rates-of-reaction-and-reversible-reactions/) — balancing the Haber and Contact process equations

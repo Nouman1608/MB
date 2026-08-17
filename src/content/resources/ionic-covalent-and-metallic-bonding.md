@@ -170,7 +170,7 @@ another without breaking the bonding.
 
 ## Related resources
 
-- [Atoms, Elements and Compounds](/resources/atoms-elements-and-compounds/) — electronic configuration first
+- [Atomic Structure](/resources/atomic-structure/) — electronic configuration first
 - [States of Matter and Kinetic Particle Theory](/resources/states-of-matter-and-kinetic-particle-theory/)
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/)
 - [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — the ionic charges used in test reagents

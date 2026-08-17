@@ -60,7 +60,7 @@ Add the aqueous alkali a few drops at a time, then in excess, and record both st
 |---|---|---|---|---|
 | Aluminium, Al³⁺ | White precipitate | Dissolves — colourless solution | White precipitate | Insoluble |
 | Ammonium, NH₄⁺ | No precipitate; warming releases ammonia gas | — | No precipitate | — |
-| Calcium, Ca²⁺ | White precipitate | Insoluble | White precipitate | Insoluble |
+| Calcium, Ca²⁺ | White precipitate | Insoluble | No precipitate (or a very faint trace) | No change |
 | Chromium(III), Cr³⁺ | Grey-green precipitate | Dissolves — dark green solution | Grey-green precipitate | Insoluble |
 | Copper(II), Cu²⁺ | Pale blue precipitate | Insoluble | Pale blue precipitate | Dissolves — deep (royal) blue solution |
 | Iron(II), Fe²⁺ | Green precipitate | Insoluble | Green precipitate | Insoluble |
@@ -70,8 +70,13 @@ Add the aqueous alkali a few drops at a time, then in excess, and record both st
 The pattern worth memorising: aluminium and zinc both give a white precipitate with
 NaOH that **redissolves** in excess to a colourless solution — the way to
 distinguish them is that zinc *also* redissolves in excess ammonia, while aluminium
-does not. Calcium and iron(II)/iron(III) precipitates stay insoluble in excess of
-either reagent, and are told apart by colour alone.
+does not. Calcium's precipitate stays insoluble in excess NaOH, but this is also
+the key test that tells calcium apart from aluminium and zinc in the first place:
+aqueous ammonia is too weak a base to precipitate the more soluble calcium
+hydroxide in any useful amount, so calcium gives no clear precipitate with ammonia
+at all — unlike aluminium and zinc, which both do. Iron(II) and iron(III)
+precipitates stay insoluble in excess of either reagent, and are told apart from
+each other by colour alone (green vs red-brown).
 
 ## Testing for gases
 
@@ -122,6 +127,10 @@ yellow, in that order, and they get progressively less white as you go down Grou
 VII.
 - **Confusing aluminium and zinc.** Both redissolve in excess sodium hydroxide; only
 zinc also redissolves in excess ammonia.
+- **Expecting calcium to behave like aluminium or zinc with ammonia.** All three
+give a white precipitate with sodium hydroxide, but calcium is the odd one out
+with aqueous ammonia — it gives no clear precipitate at all, because ammonia is
+too weak a base to precipitate calcium hydroxide in useful amounts.
 - **Assuming a coloured precipitate must be a transition metal you haven't
 memorised.** The eight cations above are the full syllabus list — if it isn't one of
 these, look again at the question.

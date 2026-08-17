@@ -41,6 +41,14 @@ const CONSOLIDATED_RESOURCES = {
   // syllabus-verified content; consolidated into the authoritative
   // "Formulae, Equations and the Mole" resource (Phase 1 QA, Aug 2026).
   stoichiometry: 'formulae-equations-and-the-mole',
+  // /resources/atoms-elements-and-compounds/ -> /resources/atomic-structure/
+  // Reason: both resources independently declared identical syllabusTopics
+  // coverage (0620/5070 subtopics 2.1-2.3) - a genuine duplicate found
+  // during the site-wide audit. "Atomic Structure" is the more complete
+  // resource (worked examples, AS-Level bridge, referenced in site UI
+  // copy); its missing ion-configuration content was merged in from the
+  // retired page before deletion (Site-wide audit, Aug 2026).
+  'atoms-elements-and-compounds': 'atomic-structure',
 };
 
 const slugsIn = async (dir) =>

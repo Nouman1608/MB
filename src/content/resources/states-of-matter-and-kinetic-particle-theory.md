@@ -44,9 +44,11 @@ material marked *Extended* is not required for your papers.
 **Cambridge O Level 5070** has **no Core/Extended split**. Everything in the 5070
 subject content is required. Do not apply IGCSE tier labels to O Level revision.
 
-One difference matters here: **5070 requires you to interpret and explain heating and
-cooling curves**. That outcome does not appear in 0620 subtopic 1.1. If you are an
-O Level candidate, do not skip the section on cooling curves below.
+One outcome is easy to under-scope: **interpreting and explaining heating and cooling
+curves**. It sits inside 0620 subtopic 1.1's Supplement outcome (bundled with
+explaining changes of state generally), and is a stand-alone required outcome for
+5070 — so IGCSE Extended candidates and every O Level candidate need it, and only
+IGCSE Core candidates can skip it.
 
 ## 1.1 Solids, liquids and gases
 
@@ -75,8 +77,9 @@ Melting, boiling, evaporating, freezing and condensing are the changes between s
 of temperature and pressure on the volume of a gas.
 
 **EXTENDED / SUPPLEMENT (0620) · REQUIRED (5070)** — *explain* changes of state in terms
-of kinetic particle theory, and explain the effects of temperature and pressure on gas
-volume in those terms.
+of kinetic particle theory, including the interpretation of heating and cooling
+curves; and explain the effects of temperature and pressure on gas volume in those
+terms.
 
 Note the difference between *describe* and *explain*. Describing a change of state means
 saying what happens. Explaining it means referring to particle energy, particle motion
@@ -88,9 +91,11 @@ melting point the vibrations are strong enough to overcome the forces holding pa
 in fixed positions, and the solid melts. Continued heating increases particle speed until,
 at the boiling point, particles have enough energy to escape the liquid entirely.
 
-### Heating and cooling curves — an O Level requirement
+### Heating and cooling curves
 
-**REQUIRED (5070). Not listed in 0620 subtopic 1.1.**
+**EXTENDED / SUPPLEMENT (0620) · REQUIRED (5070)** — part of the same "explain changes
+of state" outcome above, not a separate one. IGCSE Core candidates are not required
+to interpret these curves.
 
 A heating curve plots temperature against time as a substance is heated steadily. It
 rises, then flattens at the melting point, rises again, then flattens at the boiling
@@ -132,8 +137,8 @@ further in the same time.
 - **Treating "describe" and "explain" as the same command word.** They are marked
   differently.
 - **Claiming diffusion occurs in solids.** It does not, at this level.
-- **O Level candidates skipping cooling curves** because a general IGCSE guide omitted
-  them.
+- **Thinking cooling curves are an O Level-only requirement.** They are also required
+  for IGCSE Extended candidates — only IGCSE Core candidates can skip them.
 
 ## Quick revision checklist
 
@@ -142,7 +147,7 @@ further in the same time.
 - The five changes of state by name
 - Effect of temperature and pressure on gas volume
 - *(0620 Extended, 5070 required)* explaining changes of state using kinetic particle theory
-- *(5070 required)* interpreting heating and cooling curves, and why plateaus are flat
+- *(0620 Extended, 5070 required)* interpreting heating and cooling curves, and why plateaus are flat
 - Diffusion defined in terms of random particle motion
 - *(0620 Extended, 5070 required)* effect of relative molecular mass on rate of diffusion
 
@@ -151,7 +156,7 @@ further in the same time.
 The particle model underpins bonding, and the mole. Once you are confident here, move to
 atomic structure, then to how atoms join together.
 
-- [Atoms, Elements and Compounds](/resources/atoms-elements-and-compounds/)
+- [Atomic Structure](/resources/atomic-structure/)
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/)
 - [States of Matter: Ideal Gases and Structure](/resources/as-states-of-matter-ideal-gases-and-structure/) — the AS Level continuation of this topic (9701), not required for IGCSE or O Level
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/)

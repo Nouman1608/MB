@@ -143,6 +143,13 @@ One outer-shell electron places potassium in **Group I**; four occupied shells
 place it in **Period 4** — both read directly from the configuration, without
 needing to look either fact up separately.
 
+**Ions**, not just atoms, are also required (2.2): remove electrons for a
+positive ion, add electrons for a negative ion, then reapply the same
+2, 8, 8 filling rule. Sodium (proton number 11) is 2,8,1 as a neutral atom;
+the sodium ion Na⁺ has lost one electron, giving 2,8. Chlorine (17) is 2,8,7
+as a neutral atom; the chloride ion Cl⁻ has gained one electron, giving
+2,8,8.
+
 ## Isotopes
 
 **Isotopes** are atoms of the same element — same number of protons — with a
@@ -178,9 +185,16 @@ number.
 - **Confusing proton number and mass number.** Proton number identifies the
 element and never changes for that element; mass number varies between
 isotopes of the same element.
+- **Confusing mass number with relative atomic mass.** Mass number is a
+whole number belonging to one specific atom; relative atomic mass is a
+weighted average across an element's naturally occurring isotopes, so it
+isn't always a whole number.
 - **Forgetting electrons have negligible mass but real (negative) charge.**
 Both facts matter — mass number ignores electrons, but overall charge does
 not.
+- **Forgetting to adjust the electron count when writing an ion's
+configuration.** Positive ions have lost electrons; negative ions have
+gained them — the proton count (and therefore the element) never changes.
 - **Writing an electronic configuration that exceeds shell capacity.** The
 first shell never holds more than 2, and (up to calcium) the second and third
 shells never hold more than 8 each.
@@ -196,7 +210,7 @@ must be factored in.
 - Element, compound, mixture — and how mixtures are separated
 - Proton, neutron, electron: relative charge and mass
 - Proton number and mass number, defined and distinguished
-- Electronic configuration by shell, for proton numbers 1–20
+- Electronic configuration by shell, for proton numbers 1–20, including ions
 - Reading group number and period number from electronic configuration
 - Isotopes: definition, symbol notation, and why chemical properties don't
 change between them
@@ -227,8 +241,8 @@ when you need them.
 
 ## Related resources
 
-- [Atoms, Elements and Compounds](/resources/atoms-elements-and-compounds/) — the full Topic 2 study guide, including bonding
-- [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — electronic configuration applied to bonding
+- [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/) — Ar and isotopes applied to reacting masses and the mole
+- [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — electronic configuration applied to bonding (subtopics 2.4–2.7)
 - [The Periodic Table: Groups and Trends](/resources/periodic-table-groups-and-trends/) — Group I, Group VII and Group VIII in depth
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
