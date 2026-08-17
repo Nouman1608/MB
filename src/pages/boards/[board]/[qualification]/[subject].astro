@@ -1,0 +1,244 @@
+---
+/**
+ * Academic hub — /boards/{board}/{qualification}/{subject}/
+ *
+ * REFERENCE IMPLEMENTATION for the whole Marlbridge academic system.
+ *
+ * Routes come exclusively from activeOnly(), which requires marlbridgeStatus
+ * ACTIVE. A combination that is UNKNOWN, FUTURE or NOT_SUPPORTED cannot
+ * produce a page here, so OCR, AQA IGCSE and every unapproved combination are
+ * structurally excluded rather than merely omitted.
+ *
+ * Nothing on this page is invented. Syllabus facts come from the awarding
+ * body (src/data/academic/syllabuses.ts); resources and articles come from the
+ * content collections. Sections with no genuine content render an honest empty
+ * state instead of filler.
+ */
+import { getEntry } from 'astro:content';
+import PageLayout from '../../../../layouts/PageLayout.astro';
+import Section from '../../../../components/layout/Section.astro';
+import Container from '../../../../components/layout/Container.astro';
+import ResourceCard from '../../../../components/cards/ResourceCard.astro';
+import ArticleCard from '../../../../components/cards/ArticleCard.astro';
+import RelatedGrid from '../../../../components/layout/RelatedGrid.astro';
+import EmptyState from '../../../../components/ui/EmptyState.astro';
+import CTA from '../../../../components/ui/CTA.astro';
+import { activeOnly, offeringsForSubject, academicHubPath, type Combination } from '../../../../utils/academic';
+import { syllabusFor } from '../../../../data/academic/syllabuses';
+import { getResources } from '../../../../utils/content/collections';
+import { relatedArticles } from '../../../../utils/content/related';
+import { courseNode } from '../../../../utils/schema/course';
+import { routes } from '../../../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  return activeOnly().map((c) => ({
+    params: { board: c.boardSlug, qualification: c.qualificationSlug, subject: c.subjectSlug },
+    props: { combination: c },
+  }));
+}
+
+const { combination: c } = Astro.props as { combination: Combination };
+const path = academicHubPath(c);
+const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+
+/** Marlbridge resource `level` values differ from qualification slugs. */
+const LEVEL_FOR_QUALIFICATION: Record<string, string> = {
+  'igcse': 'igcse', 'o-level': 'o-levels', 'a-level': 'a-levels', 'gcse': 'gcse',
+};
+const levelKey = LEVEL_FOR_QUALIFICATION[c.qualificationSlug];
+
+const subjectEntry = await getEntry('subjects', c.subjectSlug);
+const allResources = await getResources();
+const resources = allResources.filter(
+  (r) => r.data.subject.id === c.subjectSlug && r.data.level.includes(levelKey as never),
+);
+
+const study = resources.filter((r) => ['study-guides', 'revision-notes', 'subject-guides'].includes(r.data.resourceType));
+const revision = resources.filter((r) => r.data.resourceType === 'revision-notes');
+const examPrep = resources.filter((r) => ['past-papers', 'practice-questions', 'exam-preparation'].includes(r.data.resourceType));
+const articles = await relatedArticles({ subject: c.subjectSlug, limit: 3 });
+
+/** Topics are derived from published resources only — never an invented syllabus list. */
+const topics = [...new Set(resources.map((r) => r.data.topic).filter(Boolean))] as string[];
+
+/** The other approved qualifications for this subject — the sibling hubs. */
+const siblings = offeringsForSubject(c.subjectSlug).filter((o) => o.qualificationSlug !== c.qualificationSlug);
+
+const heading = `${c.board} ${c.qualification} ${c.subject}`;
+const title = syllabus ? `${heading} (${syllabus.code})` : heading;
+
+const jsonLd = [courseNode({
+  path,
+  name: syllabus?.officialTitle ?? heading,
+  description: `${heading} teaching and study resources from Marlbridge.`,
+})];
+---
+<PageLayout
+  title={title}
+  description={`${heading} — syllabus ${syllabus?.code ?? ''} overview, topics and study resources from Marlbridge. Free to read.`.replace(/\s+/g, ' ')}
+  path={path}
+  eyebrow={`${c.board} · ${c.qualification}`}
+  heading={heading}
+  lead={`${c.subject} for ${c.board} ${c.qualification}${syllabus ? ` (syllabus ${syllabus.code})` : ''} — what the qualification covers, and the study material Marlbridge publishes for it.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Subjects', href: routes.subjects },
+    { label: c.subject, href: routes.subject(c.subjectSlug) },
+    { label: `${c.board} ${c.qualification}`, href: path },
+  ]}
+  jsonLd={jsonLd}
+>
+  {syllabus && (
+    <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
+      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Syllabus </dt><dd class="m-0 inline text-ink-mute">{syllabus.code}</dd></div>
+      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Board </dt><dd class="m-0 inline text-ink-mute">{c.board}</dd></div>
+      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification </dt><dd class="m-0 inline text-ink-mute">{c.qualification}</dd></div>
+    </dl>
+  )}
+
+  <Section surface="white">
+    <Container>
+      <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+        <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">The qualification</h2>
+        <div class="max-w-[68ch] text-[17.5px] leading-[1.7]">
+          {syllabus ? (
+            <>
+              <p class="m-0 text-[16.5px] text-ink-mute">
+                <strong class="font-semibold text-navy-800">{syllabus.officialTitle}</strong>
+              </p>
+              <blockquote class="m-0 mt-4 border-s-2 border-gold-500 ps-4 text-[17px] text-ink-mute">
+                {syllabus.boardSummary}
+                <cite class="mt-2 block text-[14px] not-italic">
+                  — {c.board}, <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-rule underline-offset-2">official syllabus page</a>
+                </cite>
+              </blockquote>
+              {syllabus.notes && <p class="m-0 mt-4 text-[15.5px] text-ink-mute">{syllabus.notes}</p>}
+              <p class="m-0 mt-5 text-[15.5px] text-ink-mute">
+                Specifications change between examination series. Always confirm the current syllabus and assessment structure on
+                <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> the {c.board} syllabus page</a> for your examination year.
+              </p>
+            </>
+          ) : (
+            <p class="m-0 text-ink-mute">Syllabus details for this qualification are being verified against the awarding body and will be published once confirmed.</p>
+          )}
+        </div>
+      </div>
+
+      {subjectEntry && (
+        <div class="mt-[clamp(48px,6vw,80px)] grid items-start gap-8 border-t border-rule pt-[clamp(32px,4vw,56px)] lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+          <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">The subject</h2>
+          <div class="max-w-[68ch] text-[17.5px] leading-[1.7]">
+            <p class="m-0">{subjectEntry.data.description}</p>
+            <p class="m-0 mt-4 text-[15.5px]">
+              <a href={routes.subject(c.subjectSlug)} class="underline decoration-gold-500 underline-offset-2">All {subjectEntry.data.title} at Marlbridge</a>
+            </p>
+          </div>
+        </div>
+      )}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" labelledby="topics-heading" border>
+    <Container>
+      <h2 id="topics-heading" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Topics</h2>
+      <p class="m-0 mb-[clamp(24px,3vw,40px)] max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
+        Topics appear here as Marlbridge publishes material for them. This is not the full syllabus — the awarding body's specification is the authority on what is examinable.
+      </p>
+      {topics.length > 0 ? (
+        <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-3">
+          {topics.map((topic) => (
+            <li class="m-0 bg-white p-[clamp(18px,2vw,26px)] text-[16.5px] text-ink">{topic}</li>
+          ))}
+        </ul>
+      ) : (
+        <EmptyState
+          heading="No topics published yet"
+          body="Material for this qualification is being written topic by topic."
+          primary={{ label: 'Browse all resources', href: routes.resources }}
+        />
+      )}
+    </Container>
+  </Section>
+
+  <Section surface="white">
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Study resources</h2>
+      {study.length > 0 ? (
+        <ul class="m-0 mt-6 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+          {study.map((r) => <li class="m-0"><ResourceCard entry={r} subjectTitle={c.subject} /></li>)}
+        </ul>
+      ) : (
+        <div class="mt-6"><EmptyState heading="No study guides yet for this qualification" body="Study guides are published as they are written." primary={{ label: 'All resources', href: routes.resources }} /></div>
+      )}
+
+      <h2 class="m-0 mb-3 mt-[clamp(48px,6vw,80px)] text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Revision material</h2>
+      {revision.length > 0 ? (
+        <ul class="m-0 mt-6 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+          {revision.map((r) => <li class="m-0"><ResourceCard entry={r} subjectTitle={c.subject} /></li>)}
+        </ul>
+      ) : (
+        <div class="mt-6"><EmptyState heading="No revision notes yet for this qualification" body="Condensed revision notes are added ahead of each examination series." primary={{ label: 'All resources', href: routes.resources }} /></div>
+      )}
+
+      <h2 class="m-0 mb-3 mt-[clamp(48px,6vw,80px)] text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Exam preparation</h2>
+      {examPrep.length > 0 ? (
+        <ul class="m-0 mt-6 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+          {examPrep.map((r) => <li class="m-0"><ResourceCard entry={r} subjectTitle={c.subject} /></li>)}
+        </ul>
+      ) : (
+        <div class="mt-6">
+          <EmptyState
+            heading="Past papers and practice questions are not published yet"
+            body={`Past papers for ${syllabus?.code ?? 'this syllabus'} are available from ${c.board} directly. Marlbridge practice material for this qualification is being written.`}
+            primary={{ label: 'All resources', href: routes.resources }}
+          />
+        </div>
+      )}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" labelledby="other-quals" border>
+    <Container>
+      <h2 id="other-quals" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">
+        {c.subject} at other qualifications
+      </h2>
+      <p class="m-0 mb-[clamp(24px,3vw,40px)] max-w-[68ch] text-[16.5px] leading-[1.65] text-ink-mute">
+        These are separate qualifications with different syllabuses and assessments — not different names for the same course. Check which one your school enters you for.
+      </p>
+      {siblings.length > 0 ? (
+        <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+          {siblings.map((s) => {
+            const sib = syllabusFor(s.boardSlug, s.qualificationSlug, s.subjectSlug);
+            return (
+              <li class="m-0">
+                <a href={academicHubPath(s)} class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
+                  <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{s.board}</span>
+                  <span class="text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{s.qualification} {s.subject}</span>
+                  {sib && <span class="mt-auto pt-2 font-mono text-[12px] text-ink-mute">Syllabus {sib.code}</span>}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      ) : (
+        <p class="m-0 text-ink-mute">No other qualifications are published for this subject yet.</p>
+      )}
+    </Container>
+  </Section>
+
+  {articles.length > 0 && (
+    <Section surface="white">
+      <Container>
+        <RelatedGrid id="hub-articles" title="Related articles">
+          {articles.map((a) => <li class="m-0"><ArticleCard entry={a} /></li>)}
+        </RelatedGrid>
+      </Container>
+    </Section>
+  )}
+
+  <CTA
+    heading={`Studying ${c.board} ${c.qualification} ${c.subject}? Tell us where the difficulty is.`}
+    buttonLabel="Find Learning Support"
+    buttonHref={routes.tutoring}
+  />
+</PageLayout>

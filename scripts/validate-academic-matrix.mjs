@@ -122,3 +122,26 @@ console.log(`Academic matrix OK — ${MATRIX.length} rows`);
 console.log(`  Marlbridge: ${Object.entries(counts).map(([k, v]) => `${k}:${v}`).join(' ')}`);
 console.log(`  Board:      ${Object.entries(boardCounts).map(([k, v]) => `${k}:${v}`).join(' ')}`);
 console.log(`  Publishable now: ${publishable.length}`);
+
+// ---------------------------------------------------------------------------
+// APPROVED SCOPE LOCK
+// The approved Marlbridge scope is exactly three combinations. If this list
+// changes without a corresponding approval, the build fails — so no academic
+// route can go public by accident.
+// ---------------------------------------------------------------------------
+const APPROVED = [
+  'cambridge|igcse|chemistry',
+  'cambridge|o-level|chemistry',
+  'cambridge|a-level|chemistry',
+].sort();
+
+const actual = publishable.map((c) => `${c.boardSlug}|${c.qualificationSlug}|${c.subjectSlug}`).sort();
+const same = actual.length === APPROVED.length && actual.every((v, i) => v === APPROVED[i]);
+if (!same) {
+  console.error('\nAPPROVED SCOPE LOCK FAILED — publishable set does not match the approved scope.');
+  console.error(`  approved:    ${APPROVED.join(', ')}`);
+  console.error(`  publishable: ${actual.join(', ') || '(none)'}`);
+  console.error('  Update APPROVED in this script only alongside a written approval.\n');
+  process.exit(1);
+}
+console.log(`  Approved scope lock: OK (${APPROVED.length} combinations).`);

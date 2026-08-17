@@ -118,7 +118,7 @@ export const MATRIX: readonly Combination[] = [
   // CAMBRIDGE — A Level
   // =========================================================================
   ...rows('cambridge', 'a-level', [
-    'accounting', 'biology', 'business', 'chemistry', 'computer-science', 'economics',
+    'accounting', 'biology', 'business', 'computer-science', 'economics',
     'english-language', 'world-history', 'ict', 'law', 'mathematics', 'physics',
     'psychology', 'sociology',
   ], {
@@ -128,7 +128,7 @@ export const MATRIX: readonly Combination[] = [
 
   // CAMBRIDGE — IGCSE
   ...rows('cambridge', 'igcse', [
-    'accounting', 'biology', 'business', 'chemistry', 'computer-science', 'economics',
+    'accounting', 'biology', 'business', 'computer-science', 'economics',
     'world-history', 'ict', 'mathematics', 'physics', 'sociology',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
@@ -137,7 +137,7 @@ export const MATRIX: readonly Combination[] = [
 
   // CAMBRIDGE — O Level (Cambridge is the only board offering O Level here)
   ...rows('cambridge', 'o-level', [
-    'biology', 'business', 'chemistry', 'commerce', 'computer-science', 'economics',
+    'biology', 'business', 'commerce', 'computer-science', 'economics',
     'english-language', 'world-history', 'mathematics', 'physics', 'sociology', 'statistics',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
@@ -281,6 +281,28 @@ export const MATRIX: readonly Combination[] = [
   ...rows('ocr', 'gcse', ['chemistry'], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'FUTURE', evidence: 'none',
     source: 'No Marlbridge or Learners Academy evidence',
+  }),
+
+  // =========================================================================
+  // APPROVED MARLBRIDGE SCOPE — signed off 2026-08-17.
+  // The ONLY combinations with marlbridgeStatus ACTIVE. Codes, titles and
+  // summaries verified against cambridgeinternational.org (see syllabuses.ts).
+  // =========================================================================
+  ...rows('cambridge', 'igcse', ['chemistry'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'marlbridge',
+    source: 'Marlbridge approved scope 2026-08-17; syllabus verified at cambridgeinternational.org',
+    codes: { chemistry: '0620' },
+  }),
+  ...rows('cambridge', 'o-level', ['chemistry'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'marlbridge',
+    source: 'Marlbridge approved scope 2026-08-17; syllabus verified at cambridgeinternational.org',
+    codes: { chemistry: '5070' },
+  }),
+  ...rows('cambridge', 'a-level', ['chemistry'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'marlbridge',
+    source: 'Marlbridge approved scope 2026-08-17; syllabus verified at cambridgeinternational.org',
+    codes: { chemistry: '9701' },
+    notes: 'Cambridge publishes 9701 as combined AS & A Level. AS remains a distinct, non-approved qualification for Marlbridge.',
   }),
 ] as const;
 
