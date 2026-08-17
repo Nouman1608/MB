@@ -1,0 +1,24 @@
+---
+/** Decorative. Thin geometric pathway: two anchors, one span, verticals. */
+interface Props { class?: string }
+const { class: className = '' } = Astro.props;
+---
+<svg
+  aria-hidden="true"
+  viewBox="0 0 1440 760"
+  preserveAspectRatio="xMidYMid slice"
+  class={`pointer-events-none absolute inset-0 h-full w-full ${className}`}
+>
+  <g stroke="var(--color-gold-500)" stroke-width="1" fill="none" opacity="0.5">
+    <path d="M120 596 C 480 596, 560 300, 900 300 S 1320 300, 1400 300" />
+    <path d="M120 640 C 500 640, 580 372, 900 372 S 1320 372, 1400 372" opacity="0.5" />
+  </g>
+  <g stroke="#5C7BA8" stroke-width="1" fill="none" opacity="0.35">
+    <path d="M180 596 L180 760 M300 610 L300 760 M420 640 L420 760 M540 660 L540 760 M660 620 L660 760 M780 460 L780 760 M900 300 L900 760 M1020 300 L1020 760 M1140 300 L1140 760 M1260 300 L1260 760" />
+    <path d="M0 700 L1440 700" opacity="0.5" />
+  </g>
+  <g fill="var(--color-gold-500)">
+    <circle cx="120" cy="596" r="3.5" />
+    <circle cx="1400" cy="300" r="3.5" />
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+---
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SectionHeading from '../ui/SectionHeading.astro';
+import Button from '../ui/Button.astro';
+import { tutoringModes } from '../../data/homepage';
+---
+<Section surface="white" labelledby="tutoring-heading">
+  <Container>
+    <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.85fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+      <div>
+        <SectionHeading id="tutoring-heading" eyebrow="Tutoring" font="display">Expert Learning Support</SectionHeading>
+        <p class="m-0 mb-7 mt-5 max-w-[46ch] text-[17.5px] leading-[1.65] text-ink-mute">
+          Subject specialists teaching to a defined curriculum, in the format that suits the learner — individually, in a small group, or online across time zones.
+        </p>
+        <Button href="/tutoring/" variant="primary" size="lg">Find Learning Support</Button>
+      </div>
+      <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-2">
+        {tutoringModes.map((mode) => (
+          <li class="m-0 rounded-sm border border-rule p-[clamp(22px,2.2vw,30px)]">
+            <h3 class="m-0 mb-2.5 text-[17.5px] font-semibold tracking-[-0.01em] text-navy-800">{mode.title}</h3>
+            <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{mode.description}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </Container>
+</Section>

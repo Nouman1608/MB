@@ -1,0 +1,50 @@
+---
+import Logo from '../brand/Logo.astro';
+import { footerNav, locales } from '../../data/navigation';
+import { site } from '../../data/site';
+
+const columns = [
+  { heading: 'Explore', items: footerNav.explore },
+  { heading: 'Resources', items: footerNav.resources },
+  { heading: 'Marlbridge', items: footerNav.company },
+];
+---
+<footer class="bg-navy-900 text-on-navy">
+  <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)] pb-8 pt-[clamp(56px,7vw,88px)]">
+    <div class="grid gap-10 border-b border-navy-rule pb-[clamp(40px,5vw,64px)] sm:grid-cols-3 lg:grid-cols-[1.4fr_1fr_1fr_1fr_0.8fr]">
+      <div class="flex max-w-[34ch] flex-col gap-4">
+        <Logo height={28} />
+        <p class="m-0 font-display text-[19px] leading-snug text-ivory">{site.tagline}</p>
+      </div>
+
+      {columns.map((col) => (
+        <div>
+          <h2 class="mb-4 text-[11.5px] font-semibold uppercase tracking-[0.16em] text-gold-500">{col.heading}</h2>
+          <ul class="m-0 flex list-none flex-col gap-0.5 p-0">
+            {col.items.map((item) => (
+              <li><a href={item.href} class="block py-2 text-[15px] text-on-navy hover:text-white">{item.label}</a></li>
+            ))}
+          </ul>
+        </div>
+      ))}
+
+      <div>
+        <h2 class="mb-4 text-[11.5px] font-semibold uppercase tracking-[0.16em] text-gold-500">Language</h2>
+        <ul class="m-0 flex list-none flex-col gap-0.5 p-0">
+          {locales.map((l) => (
+            <li>
+              {l.enabled
+                ? <span aria-current="true" class="block py-2 text-[15px] text-white">{l.label}</span>
+                : <span class="block py-2 text-[15px] text-[#6E7D93]">{l.label} — coming</span>}
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <div class="flex flex-wrap items-center justify-between gap-4 pt-6">
+      <p class="m-0 text-[13.5px] text-[#6E7D93]">© 2026 Marlbridge. All rights reserved.</p>
+      <p class="m-0 text-[13.5px] text-[#6E7D93]">{site.founding}</p>
+    </div>
+  </div>
+</footer>

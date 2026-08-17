@@ -1,0 +1,50 @@
+---
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SectionHeading from '../ui/SectionHeading.astro';
+import Button from '../ui/Button.astro';
+import Badge from '../ui/Badge.astro';
+import Card from '../cards/Card.astro';
+import { getPrograms, availabilityLabel, availabilityTone } from '../../utils/content/collections';
+
+const programs = await getPrograms();
+const hasUnavailable = programs.some((p) => p.data.availability !== 'available');
+---
+<Section surface="white" labelledby="programs-heading">
+  <Container>
+    <div class="mb-[clamp(36px,5vw,56px)] flex flex-wrap items-end justify-between gap-6">
+      <div>
+        <SectionHeading id="programs-heading" eyebrow="Programs">Explore Our Programs</SectionHeading>
+        <p class="m-0 mt-3.5 max-w-[56ch] text-[17px] text-ink-mute">
+          Qualification-focused programs and academic support, with study resources available for every subject we cover.
+        </p>
+      </div>
+      <Button href="/programs/" variant="quiet">All programs</Button>
+    </div>
+
+    <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-4">
+      {programs.map((program) => (
+        <li class="m-0 bg-white">
+          <Card
+            href={`/programs/${program.id}/`}
+            title={program.data.title}
+            description={program.data.shortDescription}
+            variant="grid"
+          >
+            <Badge
+              slot="badge"
+              label={availabilityLabel[program.data.availability]}
+              tone={availabilityTone[program.data.availability]}
+            />
+          </Card>
+        </li>
+      ))}
+    </ul>
+
+    {hasUnavailable && (
+      <p class="mt-5 text-sm text-ink-mute">
+        Only programs marked <em>Teaching now</em> are currently taught by Marlbridge. Study resources are available where indicated.
+      </p>
+    )}
+  </Container>
+</Section>

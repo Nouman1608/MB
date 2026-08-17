@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import HomeHero from '../components/sections/HomeHero.astro';
+import Pillars from '../components/sections/Pillars.astro';
+import EditorialBand from '../components/sections/EditorialBand.astro';
+import ProgramsSection from '../components/sections/ProgramsSection.astro';
+import SubjectsSection from '../components/sections/SubjectsSection.astro';
+import ResourcesSection from '../components/sections/ResourcesSection.astro';
+import WhyMarlbridge from '../components/sections/WhyMarlbridge.astro';
+import GlobalVision from '../components/sections/GlobalVision.astro';
+import TutoringSection from '../components/sections/TutoringSection.astro';
+import SchoolsBand from '../components/sections/SchoolsBand.astro';
+import LearnersAcademy from '../components/sections/LearnersAcademy.astro';
+import JournalSection from '../components/sections/JournalSection.astro';
+import FinalCta from '../components/sections/FinalCta.astro';
+import { site } from '../data/site';
+---
+<BaseLayout isHome title={site.tagline} description={site.defaultDescription} path="/">
+  <HomeHero />
+  <Pillars />
+  <EditorialBand />
+  <ProgramsSection />
+  <SubjectsSection />
+  <ResourcesSection />
+  <WhyMarlbridge />
+  <GlobalVision />
+  <TutoringSection />
+  <SchoolsBand />
+  <LearnersAcademy />
+  <JournalSection />
+  <FinalCta />
+</BaseLayout>

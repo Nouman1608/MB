@@ -1,0 +1,23 @@
+---
+/**
+ * Reserved frame for real photography. Fixed aspect ratio, so dropping in the
+ * final image does not change the layout. Replace the inner div with
+ * <Picture> and keep the same wrapper.
+ */
+interface Props {
+  ratio?: string;
+  label: string;
+  describedAs: string;
+  align?: 'start' | 'end';
+  class?: string;
+}
+const { ratio = '4 / 5', label, describedAs, align = 'end', class: className = '' } = Astro.props;
+---
+<div
+  role="img"
+  aria-label={`Placeholder: ${describedAs}`}
+  style={`aspect-ratio:${ratio}`}
+  class={`flex overflow-hidden border border-rule bg-ivory bg-[repeating-linear-gradient(135deg,#EFEADC_0px,#EFEADC_7px,#F7F4EC_7px,#F7F4EC_16px)] ${align === 'end' ? 'items-end' : 'items-start'} ${className}`}
+>
+  <span class="m-[18px] border border-rule bg-white px-3.5 py-2.5 font-mono text-[11.5px] uppercase tracking-[0.1em] text-[#6F6552]">{label}</span>
+</div>

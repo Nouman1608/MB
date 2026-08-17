@@ -1,0 +1,20 @@
+---
+interface Props {
+  id: string;
+  eyebrow: string;
+  font?: 'sans' | 'display';
+  scale?: 'md' | 'lg';
+  tone?: 'dark' | 'light';
+  class?: string;
+}
+const { id, eyebrow, font = 'sans', scale = 'md', tone = 'dark', class: className = '' } = Astro.props;
+const eyebrowColor = tone === 'light' ? 'text-gold-500' : 'text-gold-600';
+const headingColor = tone === 'light' ? 'text-white' : 'text-navy-800';
+const type = font === 'display'
+  ? `font-display font-normal tracking-[-0.02em] leading-[1.12] ${scale === 'lg' ? 'text-[length:var(--text-h1)]' : 'text-[length:var(--text-serif-h2)]'}`
+  : 'text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em]';
+---
+<div class={className}>
+  <p class={`m-0 mb-5 text-xs font-medium uppercase tracking-[0.2em] ${eyebrowColor}`}>{eyebrow}</p>
+  <h2 id={id} class={`m-0 ${type} ${headingColor}`}><slot /></h2>
+</div>

@@ -1,0 +1,21 @@
+---
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SectionHeading from '../ui/SectionHeading.astro';
+import { pillars } from '../../data/homepage';
+---
+<Section surface="ivory" labelledby="pillars-heading" class="border-b border-rule">
+  <Container>
+    <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.85fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+      <SectionHeading id="pillars-heading" eyebrow="Our Approach">Learning designed for a changing world.</SectionHeading>
+      <div class="grid gap-8 sm:grid-cols-2 sm:gap-x-[clamp(28px,4vw,56px)]">
+        {pillars.map((p) => (
+          <div class="border-t border-gold-500 pt-5">
+            <h3 class="m-0 mb-2.5 text-lg font-semibold tracking-[-0.01em] text-navy-800">{p.title}</h3>
+            <p class="m-0 text-base leading-relaxed text-ink-mute">{p.description}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </Container>
+</Section>

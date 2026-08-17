@@ -1,0 +1,30 @@
+---
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import Button from '../ui/Button.astro';
+import Card from '../cards/Card.astro';
+import { resourceCategoryMeta } from '../../utils/content/collections';
+
+const categories = Object.entries(resourceCategoryMeta);
+---
+<Section surface="ivory" labelledby="resources-heading" border>
+  <Container>
+    <div class="mb-[clamp(36px,5vw,56px)] max-w-[60ch]">
+      <p class="m-0 mb-5 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Resources</p>
+      <h2 id="resources-heading" class="m-0 mb-4 font-display text-[clamp(1.875rem,1.4rem+1.9vw,2.875rem)] font-normal leading-[1.12] tracking-[-0.02em] text-navy-800">
+        Learning resources, openly available
+      </h2>
+      <p class="m-0 text-[17.5px] leading-[1.65] text-ink-mute">
+        A growing library of study material written by subject specialists — free to read, organised by subject, level and topic. Over time this becomes the largest part of Marlbridge.
+      </p>
+    </div>
+    <ul class="m-0 mb-7 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-4">
+      {categories.map(([slug, meta]) => (
+        <li class="m-0">
+          <Card href={`/resources/${slug}/`} title={meta.title} description={meta.description} />
+        </li>
+      ))}
+    </ul>
+    <Button href="/resources/" variant="quiet">Browse the resource library</Button>
+  </Container>
+</Section>

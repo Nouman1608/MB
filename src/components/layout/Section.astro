@@ -1,0 +1,22 @@
+---
+interface Props {
+  surface?: 'white' | 'ivory' | 'navy' | 'navyDeep';
+  spacing?: 'md' | 'lg';
+  border?: boolean;
+  labelledby?: string;
+  id?: string;
+  class?: string;
+}
+const { surface = 'white', spacing = 'lg', border = false, labelledby, id, class: className = '' } = Astro.props;
+const surfaces = {
+  white: 'bg-white text-ink',
+  ivory: 'bg-ivory text-ink',
+  navy: 'bg-navy-800 text-ivory',
+  navyDeep: 'bg-navy-900 text-ivory',
+};
+const pad = spacing === 'lg' ? 'py-[var(--spacing-band)]' : 'py-[clamp(48px,6vw,88px)]';
+const rule = border ? (surface === 'navy' || surface === 'navyDeep' ? 'border-t border-navy-rule' : 'border-t border-rule') : '';
+---
+<section id={id} aria-labelledby={labelledby} class={`relative overflow-hidden ${surfaces[surface]} ${pad} ${rule} ${className}`}>
+  <slot />
+</section>

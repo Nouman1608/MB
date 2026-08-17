@@ -1,0 +1,33 @@
+---
+/**
+ * The single place a logo asset is referenced.
+ * Real vector identity assets live in /public/images/brand/.
+ */
+interface Props {
+  variant?: 'full' | 'mark' | 'stacked' | 'wordmark';
+  tone?: 'light' | 'dark';   // 'light' = light logo, for dark backgrounds
+  height?: number;
+  class?: string;
+}
+const { variant = 'full', tone = 'light', height = 30, class: className = '' } = Astro.props;
+
+const reverse = tone === 'light';
+
+const assets = {
+  full:     { src: reverse ? 'marlbridge-horizontal-reverse.svg' : 'marlbridge-horizontal.svg', ratio: 622 / 152 },
+  mark:     { src: reverse ? 'marlbridge-mark-reverse.svg' : 'marlbridge-mark.svg', ratio: 1 },
+  stacked:  { src: reverse ? 'marlbridge-stacked-reverse.svg' : 'marlbridge-stacked.svg', ratio: 1.6 },
+  wordmark: { src: 'marlbridge-wordmark.svg', ratio: 5.2 },
+} as const;
+
+const { src, ratio } = assets[variant];
+---
+<img
+  src={`/images/brand/${src}`}
+  alt="Marlbridge"
+  width={Math.round(height * ratio)}
+  height={height}
+  style={`height:${height}px;width:auto;display:block`}
+  class={className}
+  decoding="async"
+/>

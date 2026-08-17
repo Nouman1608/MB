@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Container from '../components/layout/Container.astro';
+import Button from '../components/ui/Button.astro';
+---
+<BaseLayout
+  title="Page not found"
+  description="This page could not be found. Return to Marlbridge or continue to our programs, subjects and learning resources."
+  path="/404/"
+  noindex
+>
+  <section class="bg-ivory">
+    <Container class="py-[clamp(80px,14vh,180px)]">
+      <p class="m-0 mb-5 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">404</p>
+      <h1 class="m-0 max-w-[24ch] font-display text-[length:var(--text-h1)] font-normal leading-[1.1] tracking-[-0.02em] text-navy-800">
+        Looks like this page took a different path.
+      </h1>
+      <div class="mt-9 flex flex-wrap gap-3.5">
+        <Button href="/" variant="primary" size="lg">Return to Marlbridge</Button>
+      </div>
+      <ul class="m-0 mt-12 grid max-w-3xl list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-3">
+        <li class="bg-white"><a href="/programs/" class="block p-6 hover:bg-ivory">Programs</a></li>
+        <li class="bg-white"><a href="/subjects/" class="block p-6 hover:bg-ivory">Subjects</a></li>
+        <li class="bg-white"><a href="/resources/" class="block p-6 hover:bg-ivory">Resources</a></li>
+      </ul>
+    </Container>
+  </section>
+</BaseLayout>

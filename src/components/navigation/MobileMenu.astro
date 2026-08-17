@@ -1,0 +1,39 @@
+---
+import { primaryNav } from '../../data/navigation';
+---
+<div id="mobile-menu" hidden class="border-b border-navy-rule bg-navy-800 lg:hidden">
+  <nav aria-label="Mobile" class="flex flex-col px-[var(--spacing-gutter)] pb-8 pt-2">
+    {primaryNav.map((item) => (
+      <a href={item.href} class="border-b border-navy-rule py-3.5 font-display text-2xl text-ivory">{item.label}</a>
+    ))}
+    <div class="mt-7 flex flex-col gap-3">
+      <a href="/programs/" class="rounded-sm bg-ivory py-4 text-center text-[15px] font-medium text-navy-800">Explore Programs</a>
+      <a href="/contact/" class="rounded-sm border border-navy-rule py-4 text-center text-[15px] font-medium text-ivory">Contact</a>
+    </div>
+  </nav>
+</div>
+
+<script>
+  const btn = document.getElementById('menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  if (btn && menu) {
+    const setOpen = (open: boolean) => {
+      menu.hidden = !open;
+      btn.setAttribute('aria-expanded', String(open));
+      btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    };
+    btn.addEventListener('click', () => setOpen(menu.hidden));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && !menu.hidden) { setOpen(false); btn.focus(); }
+    });
+    menu.addEventListener('keydown', (e) => {
+      if (e.key !== 'Tab') return;
+      const items = menu.querySelectorAll<HTMLElement>('a');
+      if (!items.length) return;
+      const first = items[0], last = items[items.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); btn.focus(); }
+    });
+    window.addEventListener('resize', () => { if (window.innerWidth >= 1024) setOpen(false); });
+  }
+</script>

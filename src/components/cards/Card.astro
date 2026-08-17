@@ -1,0 +1,21 @@
+---
+interface Props {
+  href: string;
+  title: string;
+  description?: string;
+  variant?: 'grid' | 'bordered';
+  class?: string;
+}
+const { href, title, description, variant = 'bordered', class: className = '' } = Astro.props;
+const shell = variant === 'grid'
+  ? 'bg-white p-[clamp(24px,2.4vw,34px)] hover:bg-ivory'
+  : 'rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] hover:border-gold-500';
+---
+<a href={href} class={`flex h-full flex-col gap-2.5 transition-colors duration-150 ${shell} ${className}`}>
+  <div class="flex items-center justify-between gap-3">
+    <h3 class="m-0 text-[19px] font-semibold tracking-[-0.01em] text-navy-800">{title}</h3>
+    <slot name="badge" />
+  </div>
+  {description && <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{description}</p>}
+  <slot />
+</a>

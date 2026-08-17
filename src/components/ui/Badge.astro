@@ -1,0 +1,10 @@
+---
+interface Props { label: string; tone?: 'neutral' | 'gold' | 'success' }
+const { label, tone = 'neutral' } = Astro.props;
+const tones = {
+  neutral: 'text-ink-mute border-rule bg-ivory',
+  gold: 'text-gold-600 border-[#E4D7A8] bg-[#FBF7EA]',
+  success: 'text-success border-[#B9D3C6] bg-[#F1F7F4]',
+};
+---
+<span class={`shrink-0 whitespace-nowrap rounded-sm border px-2 py-1 font-mono text-[10.5px] uppercase tracking-[0.1em] ${tones[tone]}`}>{label}</span>
