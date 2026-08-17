@@ -26,6 +26,23 @@ const RESOURCE_TYPES = [
   'exam-preparation', 'subject-guides', 'learning-articles',
 ];
 
+/**
+ * Resources that have been consolidated into another resource and removed
+ * from the content collection. Their old URLs (flat and every nested type
+ * variant) must keep 301-redirecting to the surviving resource so no dead
+ * link or de-indexed URL is left live. Add an entry here whenever a
+ * resource file is deleted in favour of another; do not remove entries
+ * once added, since external links/bookmarks/search results may still
+ * point at the old slug indefinitely.
+ */
+const CONSOLIDATED_RESOURCES = {
+  // /resources/stoichiometry/ -> /resources/formulae-equations-and-the-mole/
+  // Reason: "Stoichiometry and the Mole" was a 28-line stub with no
+  // syllabus-verified content; consolidated into the authoritative
+  // "Formulae, Equations and the Mole" resource (Phase 1 QA, Aug 2026).
+  stoichiometry: 'formulae-equations-and-the-mole',
+};
+
 const slugsIn = async (dir) =>
   (await readdir(dir)).filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, ''));
 
@@ -43,6 +60,14 @@ const lines = [
 for (const slug of resources.sort()) {
   for (const type of RESOURCE_TYPES) {
     lines.push(`${pad(`/resources/${type}/${slug}/`)}/resources/${slug}/  301`);
+  }
+}
+
+lines.push('', '# Consolidated resources: old slug (flat + every nested type) -> surviving resource');
+for (const [oldSlug, newSlug] of Object.entries(CONSOLIDATED_RESOURCES)) {
+  lines.push(`${pad(`/resources/${oldSlug}/`)}/resources/${newSlug}/  301`);
+  for (const type of RESOURCE_TYPES) {
+    lines.push(`${pad(`/resources/${type}/${oldSlug}/`)}/resources/${newSlug}/  301`);
   }
 }
 

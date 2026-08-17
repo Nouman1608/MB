@@ -51,13 +51,16 @@
 /resources/exam-preparation/states-of-matter-and-kinetic-particle-theory/  /resources/states-of-matter-and-kinetic-particle-theory/  301
 /resources/subject-guides/states-of-matter-and-kinetic-particle-theory/  /resources/states-of-matter-and-kinetic-particle-theory/  301
 /resources/learning-articles/states-of-matter-and-kinetic-particle-theory/  /resources/states-of-matter-and-kinetic-particle-theory/  301
-/resources/study-guides/stoichiometry/                    /resources/stoichiometry/  301
-/resources/revision-notes/stoichiometry/                  /resources/stoichiometry/  301
-/resources/past-papers/stoichiometry/                     /resources/stoichiometry/  301
-/resources/practice-questions/stoichiometry/              /resources/stoichiometry/  301
-/resources/exam-preparation/stoichiometry/                /resources/stoichiometry/  301
-/resources/subject-guides/stoichiometry/                  /resources/stoichiometry/  301
-/resources/learning-articles/stoichiometry/               /resources/stoichiometry/  301
+
+# Consolidated resources: old slug (flat + every nested type) -> surviving resource
+/resources/stoichiometry/                                 /resources/formulae-equations-and-the-mole/  301
+/resources/study-guides/stoichiometry/                    /resources/formulae-equations-and-the-mole/  301
+/resources/revision-notes/stoichiometry/                  /resources/formulae-equations-and-the-mole/  301
+/resources/past-papers/stoichiometry/                     /resources/formulae-equations-and-the-mole/  301
+/resources/practice-questions/stoichiometry/              /resources/formulae-equations-and-the-mole/  301
+/resources/exam-preparation/stoichiometry/                /resources/formulae-equations-and-the-mole/  301
+/resources/subject-guides/stoichiometry/                  /resources/formulae-equations-and-the-mole/  301
+/resources/learning-articles/stoichiometry/               /resources/formulae-equations-and-the-mole/  301
 
 # Removed resource-type indexes -> anchored section on the resources page
 /resources/study-guides/                                  /resources/#study-guides  301

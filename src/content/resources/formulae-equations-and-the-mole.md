@@ -183,7 +183,6 @@ and purity
 ## Related resources
 
 - [Atoms, Elements and Compounds](/resources/atoms-elements-and-compounds/) — Ar and isotopes first
-- [Stoichiometry and the Mole](/resources/stoichiometry/) — companion study guide
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — ionic charges
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
