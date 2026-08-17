@@ -63,9 +63,12 @@ numbers of atoms present; and construct word equations and symbol equations.
 **EXTENDED / SUPPLEMENT (0620) · REQUIRED (5070)** — define **empirical formula** as the
 simplest whole number ratio of the different atoms or ions in a compound; deduce the
 formula of an ionic compound from the charges on the ions; construct symbol equations with
-**state symbols**; and deduce symbol equations with state symbols from given information.
+state symbols **including ionic equations**; and deduce symbol equations with state
+symbols from given information.
 
-5070 additionally lists **ionic equations** within its required content for 3.1.
+Note that state symbols appear in **both** tiers of 0620: Core outcome 4 covers word and
+symbol equations including state symbols, and the Supplement extends this to **ionic
+equations**. Ionic equations are required for O Level 5070 as well.
 
 ### Deducing ionic formulae from charges
 
@@ -175,7 +178,7 @@ volume at r.t.p. · stoichiometric reacting masses and limiting reactants · tit
 calculations · empirical and molecular formulae from data · percentage yield, composition
 and purity
 
-**5070 additionally:** ionic equations
+**Ionic equations:** 0620 Extended and all 5070 candidates
 
 ## Related resources
 

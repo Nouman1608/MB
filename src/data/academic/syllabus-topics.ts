@@ -16,7 +16,22 @@
  */
 export type SyllabusStatus = 'current' | 'future' | 'superseded';
 
-export interface Subtopic { number: string; name: string; slug: string }
+export interface Subtopic {
+  number: string;
+  name: string;
+  slug: string;
+  /**
+   * 0620 only. Which tier the subtopic's outcomes sit in, read from the
+   * syllabus table's Core / Supplement columns.
+   *   'core'       all outcomes in the Core column
+   *   'supplement' all outcomes in the Supplement column (Extended only)
+   *   'both'       outcomes split across the two columns
+   * Set ONLY where the printed table has been inspected visually.
+   */
+  tier?: 'core' | 'supplement' | 'both';
+  /** True where `tier` was confirmed against the rendered syllabus page. */
+  tierVerified?: boolean;
+}
 
 export interface SyllabusTopic {
   number: number;
@@ -57,8 +72,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     notes: 'Tiered: Core and Extended. Extended = Core + Supplement. Any resource must state which tier an outcome belongs to.',
     topics: [
       { number: 1, name: 'States of matter', slug: 'states-of-matter', subtopics: [{ number: '1.1', name: 'Solids, liquids and gases', slug: 'solids-liquids-and-gases' }, { number: '1.2', name: 'Diffusion', slug: 'diffusion' }] },
-      { number: 2, name: 'Atoms, elements and compounds', slug: 'atoms-elements-and-compounds', subtopics: [{ number: '2.1', name: 'Elements, compounds and mixtures', slug: 'elements-compounds-and-mixtures' }, { number: '2.2', name: 'Atomic structure and the Periodic Table', slug: 'atomic-structure-and-the-periodic-table' }, { number: '2.3', name: 'Isotopes', slug: 'isotopes' }, { number: '2.4', name: 'Ions and ionic bonds', slug: 'ions-and-ionic-bonds' }, { number: '2.5', name: 'Simple molecules and covalent bonds', slug: 'simple-molecules-and-covalent-bonds' }, { number: '2.6', name: 'Giant covalent structures', slug: 'giant-covalent-structures' }, { number: '2.7', name: 'Metallic bonding', slug: 'metallic-bonding' }] },
-      { number: 3, name: 'Stoichiometry', slug: 'stoichiometry', subtopics: [{ number: '3.1', name: 'Formulae', slug: 'formulae' }, { number: '3.2', name: 'Relative masses of atoms and molecules', slug: 'relative-masses-of-atoms-and-molecules' }, { number: '3.3', name: 'The mole and the Avogadro constant', slug: 'the-mole-and-the-avogadro-constant' }] },
+      { number: 2, name: 'Atoms, elements and compounds', slug: 'atoms-elements-and-compounds', subtopics: [{ number: '2.1', name: 'Elements, compounds and mixtures', slug: 'elements-compounds-and-mixtures' }, { number: '2.2', name: 'Atomic structure and the Periodic Table', slug: 'atomic-structure-and-the-periodic-table' }, { number: '2.3', name: 'Isotopes', slug: 'isotopes' }, { number: '2.4', name: 'Ions and ionic bonds', slug: 'ions-and-ionic-bonds' }, { number: '2.5', name: 'Simple molecules and covalent bonds', slug: 'simple-molecules-and-covalent-bonds' }, { number: '2.6', name: 'Giant covalent structures', slug: 'giant-covalent-structures' }, { number: '2.7', name: 'Metallic bonding', slug: 'metallic-bonding', tier: 'supplement', tierVerified: true }] },
+      { number: 3, name: 'Stoichiometry', slug: 'stoichiometry', subtopics: [{ number: '3.1', name: 'Formulae', slug: 'formulae', tier: 'both', tierVerified: true }, { number: '3.2', name: 'Relative masses of atoms and molecules', slug: 'relative-masses-of-atoms-and-molecules', tier: 'core', tierVerified: true }, { number: '3.3', name: 'The mole and the Avogadro constant', slug: 'the-mole-and-the-avogadro-constant', tier: 'both', tierVerified: true }] },
       { number: 4, name: 'Electrochemistry', slug: 'electrochemistry', subtopics: [{ number: '4.1', name: 'Electrolysis', slug: 'electrolysis' }, { number: '4.2', name: 'Hydrogen', slug: 'hydrogen' }] },
       { number: 5, name: 'Chemical energetics', slug: 'chemical-energetics', subtopics: [{ number: '5.1', name: 'Exothermic and endothermic reactions', slug: 'exothermic-and-endothermic-reactions' }] },
       { number: 6, name: 'Chemical reactions', slug: 'chemical-reactions', subtopics: [{ number: '6.1', name: 'Physical and chemical changes', slug: 'physical-and-chemical-changes' }, { number: '6.2', name: 'Rate of reaction', slug: 'rate-of-reaction' }, { number: '6.3', name: 'Reversible reactions and equilibrium', slug: 'reversible-reactions-and-equilibrium' }, { number: '6.4', name: 'Redox', slug: 'redox' }] },

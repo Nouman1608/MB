@@ -130,16 +130,21 @@ in structure and bonding, which is exactly what examiners want you to say.
 
 ## 2.7 Metallic bonding
 
+**EXTENDED / SUPPLEMENT (0620) — the whole of subtopic 2.7. The Core column for 2.7 is
+empty, so metallic bonding is not required for IGCSE Core candidates at all.**
+
+**REQUIRED (5070) — 5070 has no tiering, so both outcomes are required at O Level.**
+
+This is the sharpest Core/Extended difference in the topic. If you are an IGCSE **Core**
+candidate, you are not required to study metallic bonding. If you are IGCSE **Extended** or
+an **O Level** candidate, you are.
+
 **Metallic bonding** is the electrostatic attraction between the positive ions in a giant
 metallic lattice and a "sea" of delocalised electrons.
 
 This explains why metals **conduct electricity** — the delocalised electrons are free to
 move — and why they are **malleable and ductile**: layers of ions can slide over one
 another without breaking the bonding.
-
-*Tier note: in the 0620 syllabus document subtopic 2.7 appears across the Core and
-Supplement columns. Check the current syllabus for the exact tier of each outcome before
-relying on this for Core-only revision. All of 2.7 is required for 5070.*
 
 ## Common mistakes
 
@@ -161,7 +166,7 @@ relying on this for Core-only revision. All of 2.7 is required for 5070.*
 - *(0620 Extended, 5070 required)* explaining properties of simple molecular compounds
 - Diamond and graphite: structure, bonding, properties, uses
 - *(0620 Extended, 5070 required)* silicon(IV) oxide
-- Metallic bonding, and how it explains conductivity and malleability
+- *(0620 Extended only — not required for Core; 5070 required)* metallic bonding, and how it explains conductivity and malleability
 
 ## Related resources
 
