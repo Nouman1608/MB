@@ -4,6 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
+const lastUpdated = '17 August 2026';
 ---
 <PageLayout
   title="Accessibility"
@@ -12,19 +13,36 @@ const mailto = 'mailto:' + FALLBACK_EMAIL;
   eyebrow="Legal"
   heading="Accessibility"
   headingFont="sans"
-  noindex
+  lead={`Last updated ${lastUpdated}.`}
   breadcrumbs={[{ label: 'Home', href: '/' }, { label: 'Accessibility', href: '/legal/accessibility/' }]}
 >
   <Section surface="white">
     <Container width="prose">
-      <div class="text-[17.5px] leading-[1.7]">
-        <p class="m-0 border-s-2 border-gold-500 ps-4 text-[16.5px] text-ink-mute">
-          This page is being prepared with legal review and is not yet published. It is excluded from search indexing until it is complete.
+      <div class="text-[17.5px] leading-[1.75] [&>h2]:mt-10 [&>h2]:text-[26px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>p]:mt-5 [&>ul]:mt-5 [&>ul]:ps-5 [&>ul>li]:mt-2">
+        <h2>Our commitment</h2>
+        <p>
+          Marlbridge aims to meet WCAG 2.2 Level AA for the pages we control. That includes sufficient colour
+          contrast, keyboard-operable navigation, a visible skip-to-content link, meaningful heading structure,
+          and text alternatives for meaningful images.
         </p>
-        <p class="m-0 mt-6">
-          In the meantime, for any question about accessibility at Marlbridge, write to
-          <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>
-          and we will answer directly.
+
+        <h2>Known limitations</h2>
+        <p>
+          This is a young and actively developed site. We haven't yet run a full third-party accessibility
+          audit, so there may be gaps we haven't found ourselves. Photography placeholders and some decorative
+          graphics are marked so screen readers skip them; if you find one that isn't, please tell us.
+        </p>
+
+        <h2>Reporting a problem</h2>
+        <p>
+          If you use assistive technology and run into a barrier anywhere on marlbridge.com, tell us which page
+          and what happened, and we'll look into it: <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>.
+        </p>
+
+        <h2>Alternative access</h2>
+        <p>
+          If a particular resource or page isn't accessible to you, email us and we'll help you get the
+          content another way while we fix it.
         </p>
       </div>
     </Container>

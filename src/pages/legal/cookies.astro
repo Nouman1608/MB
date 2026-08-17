@@ -4,6 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
+const lastUpdated = '17 August 2026';
 ---
 <PageLayout
   title="Cookie Policy"
@@ -12,19 +13,41 @@ const mailto = 'mailto:' + FALLBACK_EMAIL;
   eyebrow="Legal"
   heading="Cookie Policy"
   headingFont="sans"
-  noindex
+  lead={`Last updated ${lastUpdated}.`}
   breadcrumbs={[{ label: 'Home', href: '/' }, { label: 'Cookie Policy', href: '/legal/cookies/' }]}
 >
   <Section surface="white">
     <Container width="prose">
-      <div class="text-[17.5px] leading-[1.7]">
-        <p class="m-0 border-s-2 border-gold-500 ps-4 text-[16.5px] text-ink-mute">
-          This page is being prepared with legal review and is not yet published. It is excluded from search indexing until it is complete.
+      <div class="text-[17.5px] leading-[1.75] [&>h2]:mt-10 [&>h2]:text-[26px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>p]:mt-5 [&>ul]:mt-5 [&>ul]:ps-5 [&>ul>li]:mt-2">
+        <h2>Short version</h2>
+        <p>
+          marlbridge.com is a static site. We do not set cookies of our own, and we do not run analytics or
+          advertising trackers.
         </p>
-        <p class="m-0 mt-6">
-          In the meantime, for any question about cookie policy at Marlbridge, write to
-          <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>
-          and we will answer directly.
+
+        <h2>Third-party requests</h2>
+        <p>
+          This site loads typefaces from Google Fonts. Loading a font causes your browser to request it directly
+          from Google's servers, which may log your IP address and request details under Google's own privacy
+          policy. We don't control what Google does with that request.
+        </p>
+
+        <h2>If that changes</h2>
+        <p>
+          If we later add analytics, a chat widget, or a marketing tool that sets cookies, we'll update this
+          page to describe what's used and how to opt out, and update the date above.
+        </p>
+
+        <h2>Controlling cookies</h2>
+        <p>
+          Since we don't set cookies today, there's nothing to opt out of. If you'd like to block third-party
+          font requests, most browsers let you block or clear cookies and site data in their privacy settings —
+          the site will still work, though fonts may fall back to your system default.
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+          Questions about this policy: <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>.
         </p>
       </div>
     </Container>

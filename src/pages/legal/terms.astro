@@ -4,27 +4,74 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
+const lastUpdated = '17 August 2026';
 ---
 <PageLayout
   title="Terms"
   description="The terms on which Marlbridge publishes its website and learning resources."
   path="/legal/terms/"
   eyebrow="Legal"
-  heading="Terms"
+  heading="Terms of Use"
   headingFont="sans"
-  noindex
+  lead={`Last updated ${lastUpdated}.`}
   breadcrumbs={[{ label: 'Home', href: '/' }, { label: 'Terms', href: '/legal/terms/' }]}
 >
   <Section surface="white">
     <Container width="prose">
-      <div class="text-[17.5px] leading-[1.7]">
-        <p class="m-0 border-s-2 border-gold-500 ps-4 text-[16.5px] text-ink-mute">
-          This page is being prepared with legal review and is not yet published. It is excluded from search indexing until it is complete.
+      <div class="text-[17.5px] leading-[1.75] [&>h2]:mt-10 [&>h2]:text-[26px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>h3]:mt-8 [&>h3]:text-[20px] [&>h3]:font-semibold [&>p]:mt-5 [&>ul]:mt-5 [&>ul]:ps-5 [&>ul>li]:mt-2">
+        <p class="m-0 border-s-2 border-gold-500 ps-4 text-[15.5px] text-ink-mute">
+          This is a general terms notice covering use of this website. It has not been reviewed by a lawyer.
+          It does not cover tutoring service contracts, which are agreed separately.
         </p>
-        <p class="m-0 mt-6">
-          In the meantime, for any question about terms at Marlbridge, write to
-          <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>
-          and we will answer directly.
+
+        <h2>Acceptance</h2>
+        <p>
+          By using marlbridge.com you agree to these terms. If you don't agree, please don't use the site.
+        </p>
+
+        <h2>What's on this site</h2>
+        <p>
+          Marlbridge publishes information about its teaching programs, and study resources — guides, notes,
+          practice questions and articles — free to read. This content is provided to support independent
+          study. It is not a substitute for your school's or exam board's official syllabus and specimen
+          materials, and we don't guarantee it covers every detail of every exam session.
+        </p>
+
+        <h2>Using our content</h2>
+        <p>
+          You're welcome to read and use our published resources for personal study. Please don't republish,
+          resell, or present our written material as your own. If you'd like to use our content elsewhere —
+          for a school, a publication, or a partnership — write to us first.
+        </p>
+
+        <h2>Accuracy</h2>
+        <p>
+          We try to keep program details, subject information and study resources accurate and current, but
+          curricula and exam board requirements change. Always check the latest guidance from your exam board
+          or school alongside anything you read here.
+        </p>
+
+        <h2>External links</h2>
+        <p>
+          Some pages link to third-party sites — exam boards, universities, or other resources. We don't
+          control those sites and aren't responsible for their content.
+        </p>
+
+        <h2>Liability</h2>
+        <p>
+          The website and its content are provided "as is," without guarantees of any particular outcome. To
+          the extent permitted by law, Marlbridge isn't liable for losses arising from your use of the site.
+        </p>
+
+        <h2>Changes</h2>
+        <p>
+          We may update these terms as the site and our services develop. The date above shows when this page
+          was last changed.
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+          Questions about these terms: <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>.
         </p>
       </div>
     </Container>

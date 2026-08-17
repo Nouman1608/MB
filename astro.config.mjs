@@ -9,8 +9,8 @@ export default defineConfig({
   build: { format: 'directory' },
   integrations: [
     sitemap({
-      // Excluded: private routes and pages that carry noindex.
-      filter: (page) => !page.includes('/styleguide') && !page.includes('/legal/'),
+      // Excluded: private/internal routes only.
+      filter: (page) => !page.includes('/styleguide'),
     }),
   ],
   vite: { plugins: [tailwindcss()] },

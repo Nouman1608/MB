@@ -4,27 +4,77 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
+const lastUpdated = '17 August 2026';
 ---
 <PageLayout
   title="Privacy"
-  description="How Marlbridge handles personal information submitted through enquiry forms."
+  description="How Marlbridge collects, uses and protects personal information."
   path="/legal/privacy/"
   eyebrow="Legal"
-  heading="Privacy"
+  heading="Privacy Policy"
   headingFont="sans"
-  noindex
+  lead={`Last updated ${lastUpdated}.`}
   breadcrumbs={[{ label: 'Home', href: '/' }, { label: 'Privacy', href: '/legal/privacy/' }]}
 >
   <Section surface="white">
     <Container width="prose">
-      <div class="text-[17.5px] leading-[1.7]">
-        <p class="m-0 border-s-2 border-gold-500 ps-4 text-[16.5px] text-ink-mute">
-          This page is being prepared with legal review and is not yet published. It is excluded from search indexing until it is complete.
+      <div class="text-[17.5px] leading-[1.75] [&>h2]:mt-10 [&>h2]:text-[26px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>h3]:mt-8 [&>h3]:text-[20px] [&>h3]:font-semibold [&>p]:mt-5 [&>ul]:mt-5 [&>ul]:ps-5 [&>ul>li]:mt-2">
+        <p class="m-0 border-s-2 border-gold-500 ps-4 text-[15.5px] text-ink-mute">
+          This is a general privacy notice covering how Marlbridge currently handles personal information. It has not been reviewed by a lawyer. If you need a policy for a specific regulatory regime, have it checked before relying on it.
         </p>
-        <p class="m-0 mt-6">
-          In the meantime, for any question about privacy at Marlbridge, write to
-          <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>
-          and we will answer directly.
+
+        <h2>Who we are</h2>
+        <p>
+          Marlbridge is an education platform operated by Learners Academy, based in Pakistan. For any question
+          about this policy or your personal information, write to <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>.
+        </p>
+
+        <h2>What we collect</h2>
+        <p>When you submit an enquiry through our contact form, we collect:</p>
+        <ul>
+          <li>Your name and email address</li>
+          <li>Your phone number, if you provide one</li>
+          <li>Your country</li>
+          <li>The program and subject you're asking about, if selected</li>
+          <li>The message you write</li>
+        </ul>
+        <p>
+          We do not collect payment information, government ID numbers, or other sensitive personal data through
+          the website. Our web pages are static; we do not run analytics or advertising trackers, and we do not
+          set cookies of our own. Loading fonts from Google Fonts causes your browser to make a request to
+          Google's servers, which may log your IP address under Google's own privacy policy.
+        </p>
+
+        <h2>How we use it</h2>
+        <p>
+          We use the information you submit only to respond to your enquiry — to understand what you or your
+          learner needs and to get back to you. We do not sell, rent, or share your information with third
+          parties for marketing purposes.
+        </p>
+
+        <h2>Enquiries involving a minor</h2>
+        <p>
+          Many of our learners are under 18. Where an enquiry concerns a minor, we expect it to be submitted by,
+          or with the knowledge of, a parent or guardian. Please don't include more information about a minor
+          than is needed to respond to your enquiry.
+        </p>
+
+        <h2>How long we keep it</h2>
+        <p>
+          We keep enquiry information for as long as reasonably needed to respond and follow up, and delete or
+          anonymise it once it's no longer needed for that purpose.
+        </p>
+
+        <h2>Your rights</h2>
+        <p>
+          You can ask us what information we hold about you, ask us to correct it, or ask us to delete it, by
+          writing to <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>. We will respond directly.
+        </p>
+
+        <h2>Changes to this policy</h2>
+        <p>
+          If how we handle personal information changes materially — for example, if we start using an
+          analytics or CRM tool — we will update this page and the date above.
         </p>
       </div>
     </Container>
