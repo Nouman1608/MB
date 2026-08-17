@@ -1,4 +1,4 @@
-/learning/                    /articles/                       301
 /learning/:slug/              /articles/:slug/                 301
-/resources/:type/              /resources/                      301
+/learning/                    /articles/                       301
 /resources/:type/:slug/        /resources/:slug/                301
+/resources/:type/              /resources/                      301
