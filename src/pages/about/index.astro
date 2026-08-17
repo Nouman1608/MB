@@ -1,0 +1,207 @@
+---
+/**
+ * About Marlbridge.
+ *
+ * Every claim on this page already appears in approved site copy or is derived
+ * from the content collections. Nothing is invented: no founding year, student
+ * numbers, campuses, accreditation, awards, partnerships or named credentials.
+ * Unverified facts live in `site.about` as optional fields and render only once
+ * they are filled in — see src/data/site.ts.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import PhotoFrame from '../../components/ui/PhotoFrame.astro';
+import Logo from '../../components/brand/Logo.astro';
+import CTA from '../../components/ui/CTA.astro';
+import { pillars } from '../../data/homepage';
+import { site } from '../../data/site';
+import { getPrograms, availabilityLabel } from '../../utils/content/collections';
+import { routes } from '../../utils/urls/routes';
+
+const programs = await getPrograms();
+const taught = programs.filter((p) => p.data.status === 'available');
+const resourcesOnly = programs.filter((p) => p.data.status === 'resources-only');
+const comingSoon = programs.filter((p) => p.data.status === 'coming-soon');
+
+const photo = site.academyPhoto;
+const about = site.about;
+const hasFoundingDetail = Boolean(about.foundingYear || about.city || about.story);
+
+const groups = [
+  { label: availabilityLabel['available'], entries: taught, note: 'Taught by Marlbridge today.' },
+  { label: availabilityLabel['resources-only'], entries: resourcesOnly, note: 'Study material published; teaching not yet offered.' },
+  { label: availabilityLabel['coming-soon'], entries: comingSoon, note: 'Not yet offered. Register interest and we will say when teaching begins.' },
+].filter((g) => g.entries.length > 0);
+---
+<PageLayout
+  title="About"
+  description="Marlbridge builds teaching that adapts to the individual learner and an open library of study material. Learners Academy is the founding academy behind Marlbridge."
+  path={routes.about}
+  eyebrow="About"
+  heading="Education should meet the learner where they are."
+  lead="Marlbridge exists because good teaching and good study material should not depend on where a student happens to live. The curriculum is international; the support around it rarely is."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'About', href: routes.about }]}
+>
+  <Section surface="white">
+    <Container>
+      <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+        <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What we are building</h2>
+        <div class="flex max-w-[68ch] flex-col gap-[22px] text-[17.5px] leading-[1.7]">
+          <p class="m-0">
+            We are building two things in parallel: teaching that adapts to the individual learner, and an open library of study material that anyone preparing for an examination can use. The first is delivered through our academy and tutoring; the second is published here, free to read.
+          </p>
+          <p class="m-0">
+            The work is deliberately unhurried. We would rather publish fifty resources a teacher would recommend than five hundred nobody reads.
+          </p>
+          <p class="m-0">
+            That principle decides what appears on this site. Subjects and topics are added as real material is written for them, rather than published as empty pages waiting to be filled.
+          </p>
+        </div>
+      </div>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" labelledby="academy-heading" border>
+    <Container>
+      <div class="grid items-center gap-8 lg:grid-cols-[1.1fr_1fr] lg:gap-[clamp(32px,5vw,72px)]">
+        <div>
+          <p class="m-0 mb-6 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Where Marlbridge Began</p>
+          <h2 id="academy-heading" class="m-0 mb-6 font-display text-[clamp(1.875rem,1.4rem+1.9vw,2.875rem)] font-normal leading-[1.12] tracking-[-0.02em] text-navy-800">
+            Learners Academy is the founding academy behind Marlbridge.
+          </h2>
+          <p class="m-0 mb-5 max-w-[54ch] text-[18px] leading-[1.7]">
+            Marlbridge grew out of classroom teaching, not a business plan. Learners Academy remains the founding academy, and its teaching continues under the Marlbridge name as the wider platform develops.
+          </p>
+
+          {hasFoundingDetail && (
+            <div class="mb-5 max-w-[54ch] text-[17px] leading-[1.7] text-ink-mute">
+              {about.story && <p class="m-0">{about.story}</p>}
+              {(about.foundingYear || about.city) && (
+                <dl class="m-0 mt-4 flex flex-wrap gap-x-10 gap-y-2 text-[15.5px]">
+                  {about.foundingYear && (
+                    <div class="m-0">
+                      <dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Founded </dt>
+                      <dd class="m-0 inline">{about.foundingYear}</dd>
+                    </div>
+                  )}
+                  {about.city && (
+                    <div class="m-0">
+                      <dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Based in </dt>
+                      <dd class="m-0 inline">{[about.city, about.country].filter(Boolean).join(', ')}</dd>
+                    </div>
+                  )}
+                </dl>
+              )}
+            </div>
+          )}
+
+          <div class="flex max-w-[46ch] items-center gap-4 border-t border-rule pt-5">
+            <Logo variant="mark" tone="dark" height={40} class="shrink-0" />
+            <p class="m-0 text-[15.5px] leading-snug text-ink-mute">
+              <span class="block font-semibold text-navy-800">Learners Academy</span>
+              A Marlbridge education institution
+            </p>
+          </div>
+        </div>
+
+        <figure class="m-0">
+          <PhotoFrame
+            image={photo.image}
+            alt={photo.alt}
+            ratio="4 / 5"
+            label="Photograph · 4:5 portrait"
+            describedAs={photo.alt}
+            sizes="(min-width: 1024px) 40vw, 100vw"
+            widths={[420, 640, 900, 1200, 1600]}
+            loading="lazy"
+          />
+          {!photo.image && (
+            <figcaption class="mt-3 text-[13px] leading-normal text-ink-mute">
+              Reserved for a real photograph of teaching at Learners Academy. The frame is fixed at 4:5, so the image drops in without changing the layout.
+            </figcaption>
+          )}
+        </figure>
+      </div>
+    </Container>
+  </Section>
+
+  <Section surface="white" labelledby="where-heading">
+    <Container>
+      <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+        <h2 id="where-heading" class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Where we operate</h2>
+        <div class="flex max-w-[68ch] flex-col gap-[22px] text-[17.5px] leading-[1.7]">
+          <p class="m-0">
+            Our teaching operates in Pakistan today. The resource library is written for the international curricula studied across the Middle East, South Asia, the United Kingdom and beyond, and is open to anyone, anywhere.
+          </p>
+          <p class="m-0 border-s-2 border-gold-500 ps-4 text-[16.5px] text-ink-mute">
+            We describe our teaching only where it actually operates. Anything we have not yet built is left off this page rather than announced early.
+          </p>
+        </div>
+      </div>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" labelledby="teach-heading" border>
+    <Container>
+      <h2 id="teach-heading" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What we offer today</h2>
+      <p class="m-0 mb-[clamp(28px,3.5vw,44px)] max-w-[62ch] text-[17px] leading-[1.65] text-ink-mute">
+        This list reflects what is currently taught and what is currently published — nothing more.
+      </p>
+
+      <div class="grid gap-[clamp(24px,3vw,48px)] sm:grid-cols-2 lg:grid-cols-3">
+        {groups.map((group) => (
+          <section class="border-t border-rule pt-5">
+            <h3 class="m-0 mb-1.5 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{group.label}</h3>
+            <p class="m-0 mb-4 text-[14.5px] leading-snug text-ink-mute">{group.note}</p>
+            <ul class="m-0 list-none p-0">
+              {group.entries.map((program) => (
+                <li class="m-0 border-b border-rule last:border-b-0">
+                  <a href={routes.program(program.id)} class="block py-3 text-[16.5px] text-ink hover:text-gold-600">{program.data.title}</a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))}
+      </div>
+    </Container>
+  </Section>
+
+  <Section surface="white" labelledby="approach-heading">
+    <Container>
+      <h2 id="approach-heading" class="m-0 mb-[clamp(28px,3.5vw,44px)] text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">How we approach teaching</h2>
+      <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-4">
+        {pillars.map((pillar) => (
+          <li class="m-0 bg-white p-[clamp(24px,2.4vw,34px)]">
+            <h3 class="m-0 mb-2.5 text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{pillar.title}</h3>
+            <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{pillar.description}</p>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" labelledby="people-heading" spacing="md" border>
+    <Container>
+      <div class="grid items-start gap-8 lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+        <h2 id="people-heading" class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">The people who teach and write</h2>
+        <div class="max-w-[68ch] text-[17.5px] leading-[1.7]">
+          <p class="m-0">
+            Study material published on Marlbridge is written and reviewed by subject specialists. Individual profiles — names, subjects and qualifications — are published as the team is introduced, rather than summarised in advance.
+          </p>
+          <p class="m-0 mt-5 text-[16.5px] text-ink-mute">
+            Published work currently carries the
+            <a href={routes.author('marlbridge-academic-team')} class="underline decoration-gold-500 underline-offset-2">Marlbridge Academic Team</a>
+            byline.
+          </p>
+        </div>
+      </div>
+    </Container>
+  </Section>
+
+  <CTA
+    heading="Tell us what the learner needs."
+    buttonLabel="Contact Marlbridge"
+    buttonHref={routes.contact}
+  />
+</PageLayout>

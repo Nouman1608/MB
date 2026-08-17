@@ -20,6 +20,24 @@ export const site = {
    *
    * Never an AI-generated person and never stock photography.
    */
+  /**
+   * Verified facts about the founding academy. Every field is optional and
+   * UNSET until the business supplies something checkable — the /about/ page
+   * renders each block only when its field is filled, so nothing here can be
+   * guessed, and adding a fact later needs no template change.
+   *
+   * Do not populate from memory or inference. Founding year, city, campus
+   * count, student numbers, accreditation, awards and partnerships are all
+   * off-limits until confirmed in writing.
+   */
+  about: {
+    foundingYear: undefined as string | undefined,
+    city: undefined as string | undefined,
+    country: undefined as string | undefined,
+    /** Longer founding narrative, once written and approved. */
+    story: undefined as string | undefined,
+  },
+
   academyPhoto: {
     image: undefined as ImageMetadata | undefined,
     alt: 'Teaching at Learners Academy',
