@@ -170,6 +170,7 @@ favours which
 
 - [Hydrocarbons: Alkanes and Alkenes](/resources/as-hydrocarbons-alkanes-and-alkenes/) — two of the three routes to a halogenoalkane
 - [Alcohols: Reactions and Oxidation](/resources/as-alcohols-reactions-and-oxidation/) — the alcohol you get back from NaOH(aq) substitution
+- [Nitrogen Compounds: Amines and Nitriles](/resources/as-nitrogen-compounds-amines-and-nitriles/) — the amine and nitrile you get from the other two nucleophiles
 - [Organic Mechanisms: An Introduction](/resources/organic-mechanisms-an-introduction/) — nucleophile, electrophile and curly-arrow notation
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 

@@ -144,6 +144,7 @@ examinable for every candidate on both qualifications.
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — ionic charges behind the formulae used above
 - [The Periodic Table: Groups and Trends](/resources/periodic-table-groups-and-trends/) — Group I and Group VII properties referenced in several tests
 - [Redox Reactions](/resources/redox-reactions/) — the manganate(VII) decolourisation test is a redox reaction
+- [Group 17: The Halogens](/resources/as-group-17-the-halogens/) — the AS Level continuation of the halide precipitate/ammonia tests (9701), not required for IGCSE or O Level
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
 *Written against Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,

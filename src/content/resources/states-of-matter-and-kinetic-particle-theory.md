@@ -153,6 +153,7 @@ atomic structure, then to how atoms join together.
 
 - [Atoms, Elements and Compounds](/resources/atoms-elements-and-compounds/)
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/)
+- [States of Matter: Ideal Gases and Structure](/resources/as-states-of-matter-ideal-gases-and-structure/) — the AS Level continuation of this topic (9701), not required for IGCSE or O Level
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/)
 - [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 

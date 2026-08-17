@@ -199,6 +199,7 @@ effects
 - [Organic Mechanisms: An Introduction](/resources/organic-mechanisms-an-introduction/) — the mechanism vocabulary and curly-arrow notation this resource assumes
 - [Halogenoalkanes: Nucleophilic Substitution and Elimination](/resources/as-halogenoalkanes/) — halogenoalkanes made from alkanes and alkenes, and their own reactions
 - [Alcohols: Reactions and Oxidation](/resources/as-alcohols-reactions-and-oxidation/) — alcohols made from alkenes by electrophilic addition
+- [Addition Polymerisation](/resources/as-addition-polymerisation/) — the polymerisation reaction of alkenes, covered in full
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

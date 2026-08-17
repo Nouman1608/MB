@@ -168,6 +168,8 @@ stays orange for tertiary
 
 - [Halogenoalkanes: Nucleophilic Substitution and Elimination](/resources/as-halogenoalkanes/) — the alcohol's own route back to a halogenoalkane
 - [Hydrocarbons: Alkanes and Alkenes](/resources/as-hydrocarbons-alkanes-and-alkenes/) — the alkene route to an alcohol
+- [Carbonyl Compounds: Aldehydes and Ketones](/resources/as-carbonyl-compounds-aldehydes-and-ketones/) — where oxidation of an alcohol leads
+- [Carboxylic Acids and Esters](/resources/as-carboxylic-acids-and-esters/) — full oxidation, and esterification from the acid's side
 - [Organic Mechanisms: An Introduction](/resources/organic-mechanisms-an-introduction/) — naming and functional-group vocabulary
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
