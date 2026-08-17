@@ -173,6 +173,8 @@ another without breaking the bonding.
 - [Atoms, Elements and Compounds](/resources/atoms-elements-and-compounds/) — electronic configuration first
 - [States of Matter and Kinetic Particle Theory](/resources/states-of-matter-and-kinetic-particle-theory/)
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/)
+- [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — the ionic charges used in test reagents
+- [The Periodic Table: Groups and Trends](/resources/periodic-table-groups-and-trends/) — why group number sets ionic charge
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
 *Written against Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,

@@ -159,6 +159,7 @@ configurations. Their physical properties, which depend on mass, can differ.
 - [Atomic Structure](/resources/atomic-structure/) — revision notes on the same material
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/)
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/)
+- [The Periodic Table: Groups and Trends](/resources/periodic-table-groups-and-trends/) — where electronic configuration explains group properties
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
 *Written against Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,

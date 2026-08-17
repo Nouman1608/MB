@@ -184,6 +184,8 @@ and purity
 
 - [Atoms, Elements and Compounds](/resources/atoms-elements-and-compounds/) — Ar and isotopes first
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — ionic charges
+- [Redox Reactions](/resources/redox-reactions/) — oxidation numbers build on the formulae covered here
+- [Rates of Reaction and Reversible Reactions](/resources/rates-of-reaction-and-reversible-reactions/) — balancing the Haber and Contact process equations
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
 *Written against Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,
