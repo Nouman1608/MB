@@ -84,6 +84,10 @@ const resources = defineCollection({
       topic: z.string(),
       subtopic: z.string().optional(),
     })).default([]),
+    /** Official syllabus codes this resource is written against, e.g. ['0620','5070']. */
+    syllabusCodes: z.array(z.string()).default([]),
+    /** Exact examination series, e.g. '2026-2028'. Never mix series silently. */
+    syllabusSeries: z.string().optional(),
     /** Set when applicability to a qualification is uncertain and needs a human check. */
     reviewNeeded: z.boolean().default(false),
     reviewNote: z.string().optional(),
