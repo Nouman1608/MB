@@ -186,6 +186,7 @@ and purity
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — ionic charges
 - [Redox Reactions](/resources/redox-reactions/) — oxidation numbers build on the formulae covered here
 - [Rates of Reaction and Reversible Reactions](/resources/rates-of-reaction-and-reversible-reactions/) — balancing the Haber and Contact process equations
+- [Atoms, Molecules and Stoichiometry at AS](/resources/as-atoms-molecules-and-stoichiometry/) — the AS Level continuation of this topic (9701)
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
 *Written against Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,
