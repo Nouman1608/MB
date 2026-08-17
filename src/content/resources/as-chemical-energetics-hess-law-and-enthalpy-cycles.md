@@ -179,6 +179,7 @@ combustion
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/) — mole calculations used throughout this topic
 - [Atoms, Molecules and Stoichiometry at AS](/resources/as-atoms-molecules-and-stoichiometry/) — the previous AS topic
 - [Chemical Bonding: Shapes and Intermolecular Forces](/resources/as-chemical-bonding-shapes-and-intermolecular-forces/) — bond energy used qualitatively there, quantitatively here
+- [Chemical Energetics: Lattice Energy, Entropy and Gibbs Free Energy](/resources/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy/) — the A Level topic that continues this one
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

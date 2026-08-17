@@ -172,6 +172,7 @@ briefly with dilute H₂SO₄
 
 - [The Periodic Table: Periodicity Across Period 3](/resources/as-periodicity-across-period-3/) — the same polarisation/charge-density reasoning applied across a period
 - [Group 17: The Halogens](/resources/as-group-17-the-halogens/) — a second group studied in the same way
+- [Group 2: Quantitative Trends in Thermal Stability and Solubility](/resources/a-group-2-quantitative-trends/) — the A Level energetics explanation for these trends
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

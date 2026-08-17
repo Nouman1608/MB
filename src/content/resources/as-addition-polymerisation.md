@@ -131,6 +131,7 @@ combustion
 
 - [Hydrocarbons: Alkanes and Alkenes](/resources/as-hydrocarbons-alkanes-and-alkenes/) — where addition polymerisation was first introduced, alongside alkenes' other reactions
 - [Organic Synthesis: Planning Multi-Step Routes](/resources/as-organic-synthesis-planning-multi-step-routes/) — applying every AS organic reaction, including this one, to plan a route
+- [Condensation Polymerisation and Polymer Degradability](/resources/a-condensation-polymerisation-and-polymer-degradability/) — the A Level polymer class, and why some polymers biodegrade
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

@@ -171,6 +171,7 @@ addition with another
 - [Halogenoalkanes: Nucleophilic Substitution and Elimination](/resources/as-halogenoalkanes/) — the substitution reactions amines and nitriles both come from
 - [Carbonyl Compounds: Aldehydes and Ketones](/resources/as-carbonyl-compounds-aldehydes-and-ketones/) — the nucleophilic addition mechanism, in full
 - [Carboxylic Acids and Esters](/resources/as-carboxylic-acids-and-esters/) — where nitrile hydrolysis leads
+- [Amines: Aliphatic and Aromatic, Basicity and Azo Dyes](/resources/a-amines-aliphatic-and-aromatic/) — the A Level continuation, adding secondary amines and phenylamine
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

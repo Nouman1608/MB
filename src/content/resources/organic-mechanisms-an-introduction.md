@@ -191,6 +191,7 @@ enantiomers)
 
 - [Chemical Bonding: Shapes and Intermolecular Forces](/resources/as-chemical-bonding-shapes-and-intermolecular-forces/) — the hybridisation and orbital theory this resource applies to organic molecules
 - [Atomic Structure: Orbitals and Ionisation Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/) — orbitals from first principles
+- [A Level Organic Chemistry: Naming, Mechanisms and Aromatic Shape](/resources/a-organic-chemistry-naming-mechanisms-and-aromatic-shape/) — the A Level sequel, adding new functional groups and benzene's shape
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

@@ -185,6 +185,7 @@ equilibrium position
 - [Rates of Reaction and Reversible Reactions](/resources/rates-of-reaction-and-reversible-reactions/) — the IGCSE/O Level qualitative treatment this resource builds on
 - [Chemical Equilibria: Kc, Kp and Le Chatelier's Principle](/resources/as-chemical-equilibria/) — why a catalyst affects rate but never equilibrium position
 - [Chemical Energetics: Hess's Law and Enthalpy Cycles](/resources/as-chemical-energetics-hess-law-and-enthalpy-cycles/) — the enthalpy levels a reaction-pathway diagram is built from
+- [Reaction Kinetics: Rate Equations and Catalysis](/resources/a-reaction-kinetics-rate-equations-and-catalysis/) — the A Level topic that adds rate equations and orders of reaction
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

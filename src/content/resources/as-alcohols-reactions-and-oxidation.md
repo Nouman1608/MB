@@ -171,6 +171,7 @@ stays orange for tertiary
 - [Carbonyl Compounds: Aldehydes and Ketones](/resources/as-carbonyl-compounds-aldehydes-and-ketones/) — where oxidation of an alcohol leads
 - [Carboxylic Acids and Esters](/resources/as-carboxylic-acids-and-esters/) — full oxidation, and esterification from the acid's side
 - [Organic Mechanisms: An Introduction](/resources/organic-mechanisms-an-introduction/) — naming and functional-group vocabulary
+- [Phenol: Reactions and Acidity](/resources/a-phenol-reactions-and-acidity/) — the A Level hydroxy compound, and the acidity comparison this resource sets up
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

@@ -180,6 +180,7 @@ of the curve
 
 - [Chemical Equilibria: Kc, Kp and Le Chatelier's Principle](/resources/as-chemical-equilibria/) — the other AS Level equilibria topic
 - [Redox Processes: Oxidation Numbers and Electron Transfer](/resources/as-redox-processes/) — another electron/proton-transfer classification system
+- [Acids, Bases, Buffers and Partition Coefficients](/resources/a-acids-bases-buffers-and-partition-coefficients/) — the A Level topic that adds pH, Ka and buffer calculations
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

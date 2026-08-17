@@ -155,6 +155,7 @@ hydrolysis (complete, gives the carboxylate salt)
 - [Carbonyl Compounds: Aldehydes and Ketones](/resources/as-carbonyl-compounds-aldehydes-and-ketones/) — the aldehyde-to-acid oxidation route
 - [Nitrogen Compounds: Amines and Nitriles](/resources/as-nitrogen-compounds-amines-and-nitriles/) — nitrile hydrolysis, the third route to a carboxylic acid
 - [Acids and Bases: The Brønsted-Lowry Theory](/resources/as-acids-and-bases-bronsted-lowry-theory/) — carboxylic acids as weak Brønsted-Lowry acids
+- [Carboxylic Acids and Acyl Chlorides](/resources/a-carboxylic-acids-and-acyl-chlorides/) — the A Level continuation, adding acyl chlorides and benzoic acid
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

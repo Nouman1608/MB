@@ -155,6 +155,7 @@ oxidation-number change, then balancing O and H
 
 - [Redox Reactions](/resources/redox-reactions/) — the IGCSE/O Level oxidation-number rules and Core/Supplement treatment this resource builds on
 - [Chemical Equilibria: Kc, Kp and Le Chatelier's Principle](/resources/as-chemical-equilibria/) — the Contact process, itself a redox reaction run reversibly
+- [Electrochemistry: Electrolysis and Standard Electrode Potentials](/resources/a-electrochemistry-electrolysis-and-electrode-potentials/) — the A Level topic that quantifies redox as a voltage
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

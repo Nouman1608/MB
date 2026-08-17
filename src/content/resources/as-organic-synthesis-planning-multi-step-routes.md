@@ -176,6 +176,7 @@ which product forms
 - [Addition Polymerisation](/resources/as-addition-polymerisation/) — the last individual organic reaction this synthesis toolkit draws on
 - [Halogenoalkanes: Nucleophilic Substitution and Elimination](/resources/as-halogenoalkanes/) — the substitution/elimination conditions used throughout
 - [Nitrogen Compounds: Amines and Nitriles](/resources/as-nitrogen-compounds-amines-and-nitriles/) — a worked multi-step route example
+- [A Level Organic Synthesis: Multi-Step Routes with Aromatic Chemistry](/resources/a-organic-synthesis-multi-step-routes-with-aromatic-chemistry/) — the A Level continuation, adding benzene chemistry to the toolkit
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

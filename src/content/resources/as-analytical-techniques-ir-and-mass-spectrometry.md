@@ -188,6 +188,8 @@ know the instrument's mechanism
 
 - [Atomic Structure: Particles, Radius and Isotopes](/resources/as-atomic-structure-particles-radius-and-isotopes/) — the isotope data mass spectrometry is built on
 - [Organic Synthesis: Planning Multi-Step Routes](/resources/as-organic-synthesis-planning-multi-step-routes/) — using functional-group evidence, including spectra, to identify unknowns
+- [NMR Spectroscopy: Carbon-13 and Proton NMR](/resources/a-nmr-spectroscopy-carbon-13-and-proton-nmr/) — the A Level techniques this resource explicitly excludes
+- [Chromatography: Thin-Layer and Gas/Liquid Chromatography](/resources/a-chromatography-tlc-and-glc/) — the A Level separation techniques that complement IR and MS
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027
