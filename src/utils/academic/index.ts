@@ -19,7 +19,10 @@ export type { Combination };
  * ACTIVE cannot publish an OCR or GCSE URL on its own.
  */
 export function isPublishable(c: Combination): boolean {
-  if (c.status !== 'ACTIVE') return false;
+  // MARLBRIDGE status governs publication. The board offering this
+  // qualification is necessary but never sufficient.
+  if (c.marlbridgeStatus !== 'ACTIVE') return false;
+  if (c.boardOfferingStatus !== 'ACTIVE') return false;
   const board = boardBySlug(c.boardSlug);
   const qualification = qualificationBySlug(c.qualificationSlug);
   if (!board || board.status !== 'offered') return false;
@@ -29,6 +32,10 @@ export function isPublishable(c: Combination): boolean {
 }
 
 export const activeOnly = (): Combination[] => MATRIX.filter(isPublishable);
+
+/** Combinations Marlbridge could adopt: board-verified, awaiting scope sign-off. */
+export const eligibleForMarlbridge = (): Combination[] =>
+  MATRIX.filter((c) => c.boardOfferingStatus === 'ACTIVE' && c.marlbridgeStatus === 'UNKNOWN' && c.evidence === 'la-course');
 
 /** Board x qualification pairs that actually have publishable subjects. */
 export function publishablePairs() {

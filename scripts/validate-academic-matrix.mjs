@@ -34,6 +34,7 @@ const { QUALIFICATIONS } = JSON.parse(tsx('src/data/academic/qualifications.ts')
 const { SUBJECTS } = JSON.parse(tsx('src/data/academic/subjects.ts'));
 
 const STATUSES = new Set(['ACTIVE', 'FUTURE', 'UNKNOWN', 'NOT_SUPPORTED']);
+const EVIDENCE = new Set(['marlbridge', 'la-course', 'board', 'index', 'none']);
 const SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
 const boards = new Map(BOARDS.map((b) => [b.slug, b]));
@@ -46,7 +47,7 @@ const seen = new Set();
 for (const [i, c] of MATRIX.entries()) {
   const at = `row ${i} (${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug})`;
 
-  if (!STATUSES.has(c.status)) errors.push(`${at}: invalid status "${c.status}"`);
+  if (!STATUSES.has(c.marlbridgeStatus)) errors.push(`${at}: invalid marlbridgeStatus "${c.marlbridgeStatus}"`);
   for (const [label, slug] of [['board', c.boardSlug], ['qualification', c.qualificationSlug], ['subject', c.subjectSlug]]) {
     if (!SLUG.test(slug)) errors.push(`${at}: ${label} slug "${slug}" is not URL-safe lowercase-hyphenated`);
   }
@@ -62,12 +63,23 @@ for (const [i, c] of MATRIX.entries()) {
   if (seen.has(key)) errors.push(`${at}: duplicate combination`);
   seen.add(key);
 
-  if (c.status === 'ACTIVE') {
-    if (!c.source || !c.source.trim()) errors.push(`${at}: ACTIVE requires a source`);
-    if (board && board.status !== 'offered') errors.push(`${at}: ACTIVE but board "${c.boardSlug}" is "${board.status}" — would publish a non-offered board`);
-    if (qual && qual.status !== 'offered') errors.push(`${at}: ACTIVE but qualification "${c.qualificationSlug}" is "${qual.status}" — would publish a non-offered qualification`);
+  if (!STATUSES.has(c.boardOfferingStatus)) errors.push(`${at}: invalid boardOfferingStatus`);
+  if (!EVIDENCE.has(c.evidence)) errors.push(`${at}: invalid evidence tier "${c.evidence}"`);
+  if (c.evidence === 'boilerplate') errors.push(`${at}: boilerplate is never valid evidence`);
+
+  // Marlbridge ACTIVE is the only thing that publishes a URL.
+  if (c.marlbridgeStatus === 'ACTIVE') {
+    if (!c.source || !c.source.trim()) errors.push(`${at}: Marlbridge ACTIVE requires a source`);
+    if (c.evidence === 'index' || c.evidence === 'none') {
+      errors.push(`${at}: Marlbridge ACTIVE requires evidence stronger than "${c.evidence}"`);
+    }
+    if (c.boardOfferingStatus !== 'ACTIVE') {
+      errors.push(`${at}: Marlbridge ACTIVE but the board does not offer it (boardOfferingStatus=${c.boardOfferingStatus})`);
+    }
+    if (board && board.status !== 'offered') errors.push(`${at}: Marlbridge ACTIVE but board "${c.boardSlug}" is "${board.status}"`);
+    if (qual && qual.status !== 'offered') errors.push(`${at}: Marlbridge ACTIVE but qualification "${c.qualificationSlug}" is "${qual.status}"`);
     if (qual && board && !qual.offeredByBoards.includes(c.boardSlug)) {
-      errors.push(`${at}: ACTIVE but "${board.name}" is not listed as offering "${qual.name}"`);
+      errors.push(`${at}: Marlbridge ACTIVE but "${board.name}" is not listed as offering "${qual.name}"`);
     }
   }
 }
@@ -79,9 +91,10 @@ if (errors.length) {
   process.exit(1);
 }
 
-const counts = MATRIX.reduce((acc, c) => ({ ...acc, [c.status]: (acc[c.status] ?? 0) + 1 }), {});
+const counts = MATRIX.reduce((acc, c) => ({ ...acc, [c.marlbridgeStatus]: (acc[c.marlbridgeStatus] ?? 0) + 1 }), {});
+const boardCounts = MATRIX.reduce((acc, c) => ({ ...acc, [c.boardOfferingStatus]: (acc[c.boardOfferingStatus] ?? 0) + 1 }), {});
 const publishable = MATRIX.filter(
-  (c) => c.status === 'ACTIVE'
+  (c) => c.marlbridgeStatus === 'ACTIVE' && c.boardOfferingStatus === 'ACTIVE'
     && boards.get(c.boardSlug)?.status === 'offered'
     && quals.get(c.qualificationSlug)?.status === 'offered'
     && quals.get(c.qualificationSlug)?.offeredByBoards.includes(c.boardSlug),
@@ -90,7 +103,8 @@ const publishable = MATRIX.filter(
 await writeFile('academic-matrix.json', JSON.stringify({
   generated: new Date().toISOString(),
   source: 'https://learnersacademy.com.pk/',
-  counts,
+  marlbridgeStatusCounts: counts,
+  boardOfferingStatusCounts: boardCounts,
   publishableCount: publishable.length,
   boards: BOARDS, qualifications: QUALIFICATIONS, subjects: SUBJECTS,
   matrix: MATRIX,
@@ -98,10 +112,13 @@ await writeFile('academic-matrix.json', JSON.stringify({
 
 const esc = (v) => `"${String(v ?? '').replace(/"/g, '""')}"`;
 await writeFile('academic-matrix.csv',
-  ['board,boardSlug,qualification,qualificationSlug,subject,subjectSlug,status,source,notes']
+  ['board,boardSlug,qualification,qualificationSlug,subject,subjectSlug,boardOfferingStatus,marlbridgeStatus,evidence,qualificationCode,source,notes']
     .concat(MATRIX.map((c) => [c.board, c.boardSlug, c.qualification, c.qualificationSlug,
-      c.subject, c.subjectSlug, c.status, c.source, c.notes].map(esc).join(',')))
+      c.subject, c.subjectSlug, c.boardOfferingStatus, c.marlbridgeStatus, c.evidence,
+      c.qualificationCode, c.source, c.notes].map(esc).join(',')))
     .join('\n') + '\n', 'utf8');
 
-console.log(`Academic matrix OK — ${MATRIX.length} rows ` +
-  `(${Object.entries(counts).map(([k, v]) => `${k}:${v}`).join(' ')}), ${publishable.length} publishable.`);
+console.log(`Academic matrix OK — ${MATRIX.length} rows`);
+console.log(`  Marlbridge: ${Object.entries(counts).map(([k, v]) => `${k}:${v}`).join(' ')}`);
+console.log(`  Board:      ${Object.entries(boardCounts).map(([k, v]) => `${k}:${v}`).join(' ')}`);
+console.log(`  Publishable now: ${publishable.length}`);
