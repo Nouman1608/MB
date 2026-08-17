@@ -166,6 +166,7 @@ manganate(VII) and iodide
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/) — ionic charges used throughout oxidation-number rules
 - [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — the manganate(VII) decolourisation test
 - [Rates of Reaction and Reversible Reactions](/resources/rates-of-reaction-and-reversible-reactions/) — the Contact process, a redox reaction run reversibly
+- [Redox Processes: Oxidation Numbers and Electron Transfer](/resources/as-redox-processes/) — the AS Level continuation of this topic (9701)
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
 *Written against Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,

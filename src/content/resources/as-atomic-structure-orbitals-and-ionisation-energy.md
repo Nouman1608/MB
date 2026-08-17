@@ -34,9 +34,13 @@ This resource assumes you already know, from IGCSE or O Level, that atoms are
 made of protons, neutrons and electrons, that isotopes are atoms of the same
 element with different numbers of neutrons, and that electrons occupy shells —
 written as a simple list like 2,8,8,2. If any of that is unfamiliar, start with
-[Atomic Structure](/resources/atomic-structure/) first. Subtopics 1.1 and 1.2 of
-9701 largely confirm and extend that shell-level picture; this page begins where
-9701 moves beyond it.
+[Atomic Structure](/resources/atomic-structure/) first.
+
+It also assumes Topic 1's first two subtopics, covered in [Atomic Structure:
+Particles, Radius and Isotopes](/resources/as-atomic-structure-particles-radius-and-isotopes/)
+— subatomic particle behaviour in an electric field, and atomic/ionic radius
+trends explained by nuclear charge and shielding. This page begins where that
+one ends, moving from the shell-level picture to sub-shells and orbitals.
 
 ## Where this fits in 9701
 
@@ -205,6 +209,7 @@ outer-shell count have been removed, not before.
 ## Related resources
 
 - [Atomic Structure](/resources/atomic-structure/) — the IGCSE/O Level shell model this resource builds on
+- [Atomic Structure: Particles, Radius and Isotopes](/resources/as-atomic-structure-particles-radius-and-isotopes/) — subtopics 1.1–1.2, the rest of Topic 1
 - [Atoms, Molecules and Stoichiometry at AS](/resources/as-atoms-molecules-and-stoichiometry/) — the next AS topic
 - [Chemical Bonding: Shapes and Intermolecular Forces](/resources/as-chemical-bonding-shapes-and-intermolecular-forces/) — electron arrangement applied to bonding
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)

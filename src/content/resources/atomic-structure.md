@@ -215,11 +215,15 @@ ionisation energy data in ways this topic doesn't touch at all.
 ## Continue to AS Chemistry
 
 If you're moving on to Cambridge International AS & A Level Chemistry 9701,
-[Atomic Structure: Orbitals and Ionisation Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/)
-picks up directly from here — replacing the shell-only picture above with
-shells, sub-shells and orbitals, and introducing ionisation energy as
-measurable data you're expected to interpret. It is **not** required for
-IGCSE or O Level; it's there for when you need it.
+[Atomic Structure: Particles, Radius and Isotopes](/resources/as-atomic-structure-particles-radius-and-isotopes/)
+picks up directly from here — the same particles and isotopes, now with
+electric-field behaviour and atomic/ionic radius trends explained rather than
+just described. [Atomic Structure: Orbitals and Ionisation
+Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/)
+follows it, replacing the shell-only picture above with shells, sub-shells and
+orbitals, and introducing ionisation energy as measurable data you're expected
+to interpret. Neither is **required** for IGCSE or O Level; they're there for
+when you need them.
 
 ## Related resources
 
