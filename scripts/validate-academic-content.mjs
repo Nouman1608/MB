@@ -16,11 +16,31 @@ const load = (file) => JSON.parse(execSync(
   { encoding: 'utf8', cwd: process.cwd() }));
 
 const { MATRIX } = load('src/data/academic/matrix.ts');
-const active = new Set(
-  MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE').map((c) => `${c.boardSlug}|${c.qualificationSlug}`),
-);
-const activeBoards = new Set(MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE').map((c) => c.boardSlug));
-const activeQuals = new Set(MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE').map((c) => c.qualificationSlug));
+/**
+ * Phase 11: scoped by SUBJECT, not just board+qualification.
+ *
+ * Through Phase 10, Chemistry was the only subject with any ACTIVE row, so a
+ * subject-blind check of "is cambridge|o-level active anywhere in the
+ * matrix" was accidentally equivalent to "is it active for this resource's
+ * own subject." Phase 11 added Mathematics, Physics and four other subjects
+ * to the matrix at the same board/qualification slugs Chemistry uses (all
+ * still UNKNOWN, not ACTIVE). Without this fix, a Mathematics resource
+ * declaring boards:["cambridge"], qualifications:["o-level"] would silently
+ * PASS this validator purely because CHEMISTRY is ACTIVE at Cambridge O
+ * Level — wrongly implying Marlbridge teaches Cambridge O Level Mathematics.
+ * Every ACTIVE lookup below is keyed by subject first.
+ */
+const activeBySubject = new Map(); // subjectSlug -> { boards:Set, quals:Set, combos:Set }
+for (const c of MATRIX) {
+  if (c.marlbridgeStatus !== 'ACTIVE') continue;
+  if (!activeBySubject.has(c.subjectSlug)) {
+    activeBySubject.set(c.subjectSlug, { boards: new Set(), quals: new Set(), combos: new Set() });
+  }
+  const e = activeBySubject.get(c.subjectSlug);
+  e.boards.add(c.boardSlug);
+  e.quals.add(c.qualificationSlug);
+  e.combos.add(`${c.boardSlug}|${c.qualificationSlug}`);
+}
 
 const scalarField = (fm, name) => {
   const m = fm.match(new RegExp(`^${name}:\\s*"?([A-Za-z-]+)"?\\s*$`, 'm'));
@@ -43,11 +63,33 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
     const boards = listField(fm, 'boards');
     const quals = listField(fm, 'qualifications');
     const at = `${dir}/${file}`;
+    if (boards.length === 0 && quals.length === 0) continue;
 
-    for (const b of boards) if (!activeBoards.has(b)) errors.push(`${at}: board "${b}" has no ACTIVE combination`);
-    for (const q of quals) if (!activeQuals.has(q)) errors.push(`${at}: qualification "${q}" has no ACTIVE combination`);
+    // resources: single scalar `subject`. articles: plural `subjects` array
+    // (an article may legitimately span more than one subject).
+    const subjects = dir.endsWith('/resources')
+      ? [scalarField(fm, 'subject')].filter(Boolean)
+      : listField(fm, 'subjects');
+
+    if (subjects.length === 0) {
+      errors.push(`${at}: declares boards/qualifications but has no subject to validate them against`);
+      continue;
+    }
+
+    for (const b of boards) {
+      if (!subjects.some((s) => activeBySubject.get(s)?.boards.has(b))) {
+        errors.push(`${at}: board "${b}" has no ACTIVE combination for subject(s) ${subjects.join(', ')}`);
+      }
+    }
+    for (const q of quals) {
+      if (!subjects.some((s) => activeBySubject.get(s)?.quals.has(q))) {
+        errors.push(`${at}: qualification "${q}" has no ACTIVE combination for subject(s) ${subjects.join(', ')}`);
+      }
+    }
     for (const b of boards) for (const q of quals) {
-      if (!active.has(`${b}|${q}`)) errors.push(`${at}: "${b} + ${q}" is not an ACTIVE combination`);
+      if (!subjects.some((s) => activeBySubject.get(s)?.combos.has(`${b}|${q}`))) {
+        errors.push(`${at}: "${b} + ${q}" is not an ACTIVE combination for subject(s) ${subjects.join(', ')}`);
+      }
     }
   }
 }
@@ -66,9 +108,18 @@ console.log('Academic content tagging OK.');
 // syllabus taxonomy for that qualification — no invented topic slugs.
 // ---------------------------------------------------------------------------
 const { SYLLABUS_TOPICS } = load('src/data/academic/syllabus-topics.ts');
+// Phase 11: keyed by `${subjectSlug}|${qualificationSlug}`, not qualification
+// alone. Chemistry was the only subject in this file through Phase 10, so a
+// qualification-only key (e.g. "igcse") never collided with anything. Now
+// that a second subject can share a qualification slug (Mathematics IGCSE
+// and Chemistry IGCSE are both "igcse"), a qualification-only key would let
+// the second subject's entry silently overwrite the first in this Map,
+// disabling validation for whichever subject lost the collision — without
+// any error or warning. The composite key removes that failure mode.
+const topicKey = (subjectSlug, qualificationSlug) => `${subjectSlug}|${qualificationSlug}`;
 const topicIndex = new Map();
 for (const s of SYLLABUS_TOPICS) {
-  topicIndex.set(s.qualificationSlug, {
+  topicIndex.set(topicKey(s.subjectSlug, s.qualificationSlug), {
     topics: new Set(s.topics.map((t) => t.slug)),
     subtopics: new Set(s.topics.flatMap((t) => t.subtopics.map((st) => st.slug))),
     /** topic slug -> stage ('AS'|'A'|undefined). 9701 only; unset for 0620/5070. */
@@ -91,6 +142,7 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
     // fixed so a future file with syllabusTopics as the last field is still
     // checked — same fix already applied to validate-commercial-claims.mjs
     // in Phase 9.
+    const subject = scalarField(fm, 'subject');
     const block = fm.match(/^syllabusTopics:\s*\n([\s\S]*?)(?=^\S|(?![\s\S]))/m);
     if (!block) continue;
     const entries = block[1].split(/^\s*-\s+/m).slice(1);
@@ -98,10 +150,10 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
       const q = (e.match(/qualification:\s*"?([a-z-]+)"?/) || [])[1];
       const t = (e.match(/topic:\s*"?([a-z0-9-]+)"?/) || [])[1];
       const st = (e.match(/subtopic:\s*"?([a-z0-9-]+)"?/) || [])[1];
-      const idx = topicIndex.get(q);
-      if (!idx) { topicErrors.push(`${at}: no official topic taxonomy for qualification "${q}"`); continue; }
-      if (t && !idx.topics.has(t)) topicErrors.push(`${at}: topic "${t}" is not in the official ${q} syllabus`);
-      if (st && !idx.subtopics.has(st)) topicErrors.push(`${at}: subtopic "${st}" is not in the official ${q} syllabus`);
+      const idx = topicIndex.get(topicKey(subject, q));
+      if (!idx) { topicErrors.push(`${at}: no official topic taxonomy for subject "${subject}" + qualification "${q}"`); continue; }
+      if (t && !idx.topics.has(t)) topicErrors.push(`${at}: topic "${t}" is not in the official ${subject} ${q} syllabus`);
+      if (st && !idx.subtopics.has(st)) topicErrors.push(`${at}: subtopic "${st}" is not in the official ${subject} ${q} syllabus`);
     }
   }
 }
@@ -137,12 +189,13 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
       if (declaredStage) stageErrors.push(`${at}: declares stage "${declaredStage}" but has no syllabusTopics to justify it`);
       continue;
     }
+    const subject = scalarField(fm, 'subject');
     const entries = block[1].split(/^\s*-\s+/m).slice(1);
     const stagesSeen = new Set();
     for (const e of entries) {
       const q = (e.match(/qualification:\s*"?([a-z-]+)"?/) || [])[1];
       const t = (e.match(/topic:\s*"?([a-z0-9-]+)"?/) || [])[1];
-      const idx = topicIndex.get(q);
+      const idx = topicIndex.get(topicKey(subject, q));
       const topicStage = idx?.stageByTopic.get(t);
       if (topicStage) stagesSeen.add(topicStage);
     }

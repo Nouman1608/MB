@@ -46,7 +46,16 @@ export interface SyllabusTopic {
 export interface SyllabusVersion {
   boardSlug: 'cambridge';
   qualificationSlug: string;
-  subjectSlug: 'chemistry';
+  /**
+   * Phase 11: widened from the literal 'chemistry' to any registered
+   * canonical subject slug (see src/data/academic/subjects.ts), so this file
+   * can hold more than one subject's topic taxonomy. Every reader
+   * (topicsFor(), the coverage dashboard, the hub template) must key off
+   * BOTH qualificationSlug and subjectSlug together — never qualification
+   * alone, since two different subjects legitimately share qualification
+   * slugs like 'igcse'.
+   */
+  subjectSlug: string;
   syllabusCode: string;
   syllabusSeries: string;
   effectiveFrom: string;
@@ -156,6 +165,61 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 37, name: 'Analytical techniques', slug: 'a-analytical-techniques', stage: 'A', subtopics: [{ number: '37.1', name: 'Thin-layer chromatography', slug: 'a-thin-layer-chromatography' }, { number: '37.2', name: 'Gas/liquid chromatography', slug: 'a-gas-liquid-chromatography' }, { number: '37.3', name: 'Carbon-13 NMR spectroscopy', slug: 'a-carbon-13-nmr-spectroscopy' }, { number: '37.4', name: 'Proton (1H) NMR spectroscopy', slug: 'a-proton-1h-nmr-spectroscopy' }] },
     ],
   },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'mathematics',
+    syllabusCode: '4024', syllabusSeries: '2025-2027',
+    effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/662480-2025-2027-syllabus.pdf', verifiedDate: '2026-08-18',
+    notes: 'Official title: Cambridge O Level Mathematics (Syllabus D) 4024. NOT tiered - single set of outcomes for every candidate, unlike IGCSE 0580 which splits Core/Extended. Shares 9 top-level topic NAMES with IGCSE 0580, but subtopic numbering and depth genuinely differ between the two qualifications (verified for Topic 2: 4024 uses one flat Algebra sequence 2.1-2.10; 0580 splits the same territory Core/Extended under a different "C"-prefixed numbering with several Extended-only gaps) - the two are not a like-for-like substitute for each other at subtopic level. Phase 11: Topic 2 subtopics fully verified against the syllabus PDF. Topics 1 and 3-9 are recorded here as name-only (verified from the official content overview) pending subtopic-level research in a later phase.',
+    topics: [
+      { number: 1, name: 'Number', slug: 'number', subtopics: [] },
+      { number: 2, name: 'Algebra and graphs', slug: 'algebra-and-graphs', subtopics: [
+        { number: '2.1', name: 'Introduction to algebra', slug: 'introduction-to-algebra' },
+        { number: '2.2', name: 'Algebraic manipulation', slug: 'algebraic-manipulation' },
+        { number: '2.3', name: 'Algebraic fractions', slug: 'algebraic-fractions' },
+        { number: '2.4', name: 'Indices II', slug: 'indices-ii' },
+        { number: '2.5', name: 'Equations', slug: 'equations' },
+        { number: '2.6', name: 'Inequalities', slug: 'inequalities' },
+        { number: '2.7', name: 'Sequences', slug: 'sequences' },
+        { number: '2.8', name: 'Proportion', slug: 'proportion' },
+        { number: '2.9', name: 'Graphs in practical situations', slug: 'graphs-in-practical-situations' },
+        { number: '2.10', name: 'Graphs of functions', slug: 'graphs-of-functions' },
+      ] },
+      { number: 3, name: 'Coordinate geometry', slug: 'coordinate-geometry', subtopics: [] },
+      { number: 4, name: 'Geometry', slug: 'geometry', subtopics: [] },
+      { number: 5, name: 'Mensuration', slug: 'mensuration', subtopics: [] },
+      { number: 6, name: 'Trigonometry', slug: 'trigonometry', subtopics: [] },
+      { number: 7, name: 'Transformations and vectors', slug: 'transformations-and-vectors', subtopics: [] },
+      { number: 8, name: 'Probability', slug: 'probability', subtopics: [] },
+      { number: 9, name: 'Statistics', slug: 'statistics', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'physics',
+    syllabusCode: '5054', syllabusSeries: '2026-2028',
+    effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697324-2026-2028-syllabus.pdf', verifiedDate: '2026-08-18',
+    notes: 'NOT tiered - single set of outcomes for every candidate (Paper 1 + Paper 2 + a practical paper, all externally assessed, no Core/Extended split). Phase 11: Topic 1 subtopics verified through 1.6 (Momentum) against the syllabus PDF; further Topic 1 subtopics and all of Topics 2-6 are recorded here as name-only (verified from the official content overview) pending subtopic-level research in a later phase.',
+    topics: [
+      { number: 1, name: 'Motion, forces and energy', slug: 'motion-forces-and-energy', subtopics: [
+        { number: '1.1', name: 'Physical quantities and measurement techniques', slug: 'physical-quantities-and-measurement-techniques' },
+        { number: '1.2', name: 'Motion', slug: 'motion' },
+        { number: '1.3', name: 'Mass and weight', slug: 'mass-and-weight' },
+        { number: '1.4', name: 'Density', slug: 'density' },
+        { number: '1.5', name: 'Forces', slug: 'forces' },
+        { number: '1.6', name: 'Momentum', slug: 'momentum' },
+      ] },
+      { number: 2, name: 'Thermal physics', slug: 'thermal-physics', subtopics: [] },
+      { number: 3, name: 'Waves', slug: 'waves', subtopics: [] },
+      { number: 4, name: 'Electricity and magnetism', slug: 'electricity-and-magnetism', subtopics: [] },
+      { number: 5, name: 'Nuclear physics', slug: 'nuclear-physics', subtopics: [] },
+      { number: 6, name: 'Space physics', slug: 'space-physics', subtopics: [] },
+    ],
+  },
 ] as const;
 
 /**
@@ -173,10 +237,15 @@ export const KNOWN_OTHER_SERIES = [
     sourceUrl: 'https://www.cambridgeinternational.org/Images/595448-2023-2025-syllabus.pdf', notes: 'Superseded by 2026-2028.' },
 ];
 
-/** The current syllabus for a qualification — the default public structure. */
-export const topicsFor = (qualificationSlug: string): SyllabusVersion | undefined =>
+/**
+ * The current syllabus for a subject + qualification — the default public
+ * structure. subjectSlug defaults to 'chemistry' only for backward
+ * compatibility with call sites written before Phase 11; every new call
+ * site should pass both arguments explicitly.
+ */
+export const topicsFor = (qualificationSlug: string, subjectSlug: string = 'chemistry'): SyllabusVersion | undefined =>
   SYLLABUS_VERSIONS.find((s) =>
-    s.qualificationSlug === qualificationSlug && s.subjectSlug === 'chemistry' && s.status === 'current');
+    s.qualificationSlug === qualificationSlug && s.subjectSlug === subjectSlug && s.status === 'current');
 
 /** Back-compat alias. */
 export const SYLLABUS_TOPICS = SYLLABUS_VERSIONS;

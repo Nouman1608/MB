@@ -123,7 +123,15 @@ export const MATRIX: readonly Combination[] = [
     'psychology', 'sociology',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
-    source: `${LA}/a-levels/cambridge/`, codes: { chemistry: '9701' }, notes: PENDING_SCOPE,
+    source: `${LA}/a-levels/cambridge/`,
+    // Codes verified at cambridgeinternational.org (Phase 11, 2026-08-18). Each
+    // is the plain AS & A Level qualification for that subject — not a
+    // "Further"/alternate-syllabus sibling (e.g. not 9231 Further Mathematics).
+    codes: {
+      chemistry: '9701', mathematics: '9709', physics: '9702', biology: '9700',
+      business: '9609', economics: '9708', accounting: '9706',
+    },
+    notes: PENDING_SCOPE,
   }),
 
   // CAMBRIDGE — IGCSE
@@ -132,7 +140,15 @@ export const MATRIX: readonly Combination[] = [
     'world-history', 'ict', 'mathematics', 'physics', 'sociology',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
-    source: `${LA}/igcse/cambridge/`, codes: { chemistry: '0620' }, notes: PENDING_SCOPE,
+    source: `${LA}/igcse/cambridge/`,
+    // Codes verified at cambridgeinternational.org (Phase 11, 2026-08-18). Each
+    // is the standard grading-scale (A*-G) qualification, matching how 0620
+    // was chosen over any "(9-1)" numeric-grade sibling syllabus.
+    codes: {
+      chemistry: '0620', mathematics: '0580', physics: '0625', biology: '0610',
+      business: '0450', economics: '0455', accounting: '0452',
+    },
+    notes: PENDING_SCOPE,
   }),
 
   // CAMBRIDGE — O Level (Cambridge is the only board offering O Level here)
@@ -141,7 +157,21 @@ export const MATRIX: readonly Combination[] = [
     'english-language', 'world-history', 'mathematics', 'physics', 'sociology', 'statistics',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
-    source: `${LA}/o-levels/cambridge/`, codes: { chemistry: '5070' }, notes: PENDING_SCOPE,
+    source: `${LA}/o-levels/cambridge/`,
+    // Codes verified at cambridgeinternational.org (Phase 11, 2026-08-18).
+    // NOTE — business: 7115 "Cambridge O Level Business Studies" is current
+    // through its final exam series in 2026; from 2027 it is replaced (same
+    // qualification lineage, new code and shortened name) by 7081 "Cambridge
+    // O Level Business". Recorded as 7115 since 2026 is the current year.
+    // No accounting code here: Learners Academy's own nav does not list
+    // Accounting at O Level (only at IGCSE and A Level; Cambridge does also
+    // offer an O Level Accounting 7707, but that is board-only evidence, not
+    // la-course evidence, so accounting is deliberately absent from this row).
+    codes: {
+      chemistry: '5070', mathematics: '4024', physics: '5054', biology: '5090',
+      business: '7115', economics: '2281',
+    },
+    notes: PENDING_SCOPE,
   }),
 
   // =========================================================================
