@@ -35,15 +35,14 @@ Chemistry 9701, 2025–2027 series. This is AS Level content.
 
 **Scope note.** This resource covers Topic 13 only. Topics 14 to 16 —
 Hydrocarbons, Halogen compounds and Hydroxy compounds — each work through a
-specific class of reactions (free-radical substitution in alkanes,
-electrophilic addition in alkenes, nucleophilic substitution and elimination in
-halogenoalkanes, and the reactions of alcohols) in enough depth that folding them
-into this page would either make it unusably long or reduce each mechanism to a
-shallow summary. They are substantial enough to deserve their own dedicated
-resources, which are natural candidates for a future phase rather than an
-afterthought bolted onto this one. What follows is genuinely self-contained: the
-vocabulary and notation Topic 13 introduces is exactly what those later topics
-assume you already have.
+specific class of reactions in enough depth to deserve their own resource
+rather than a shallow summary here: [Hydrocarbons: Alkanes and
+Alkenes](/resources/as-hydrocarbons-alkanes-and-alkenes/) (free-radical
+substitution and electrophilic addition), [Halogenoalkanes: Nucleophilic
+Substitution and Elimination](/resources/as-halogenoalkanes/) (SN1/SN2), and
+[Alcohols: Reactions and Oxidation](/resources/as-alcohols-reactions-and-oxidation/).
+What follows is genuinely self-contained: the vocabulary and notation Topic 13
+introduces is exactly what those later topics assume you already have.
 
 ## Why this topic exists
 
