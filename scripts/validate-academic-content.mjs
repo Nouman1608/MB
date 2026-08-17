@@ -84,7 +84,14 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
     const raw = await readFile(join(dir, file), 'utf8');
     const fm = raw.split('---')[1] ?? '';
     const at = `${dir}/${file}`;
-    const block = fm.match(/^syllabusTopics:\s*\n([\s\S]*?)(?=^\S|\Z)/m);
+    // (?![\s\S]) is "true end of string" in JS — \Z is not a supported
+    // anchor here (it silently fails to match), which would make this block
+    // invisible whenever syllabusTopics: is the last frontmatter field.
+    // Phase 10 hardening: found dormant (no current file triggers it) but
+    // fixed so a future file with syllabusTopics as the last field is still
+    // checked — same fix already applied to validate-commercial-claims.mjs
+    // in Phase 9.
+    const block = fm.match(/^syllabusTopics:\s*\n([\s\S]*?)(?=^\S|(?![\s\S]))/m);
     if (!block) continue;
     const entries = block[1].split(/^\s*-\s+/m).slice(1);
     for (const e of entries) {
@@ -124,7 +131,8 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
     const fm = raw.split('---')[1] ?? '';
     const at = `${dir}/${file}`;
     const declaredStage = scalarField(fm, 'stage');
-    const block = fm.match(/^syllabusTopics:\s*\n([\s\S]*?)(?=^\S|\Z)/m);
+    // Same (?![\s\S]) end-of-string fix as the topic-reference check above.
+    const block = fm.match(/^syllabusTopics:\s*\n([\s\S]*?)(?=^\S|(?![\s\S]))/m);
     if (!block) {
       if (declaredStage) stageErrors.push(`${at}: declares stage "${declaredStage}" but has no syllabusTopics to justify it`);
       continue;

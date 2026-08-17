@@ -28,6 +28,17 @@
  *      "syllabus 0620") that does not match the qualificationCode on an
  *      ACTIVE matrix row for that subject.
  *
+ * Phase 10 hardening added a fourth, coarser check at qualification level
+ * (not tied to one subject), covering the two other places Marlbridge
+ * states which qualifications it teaches:
+ *
+ *   4. FAIL (fatal) — the Contact page's FAQ (src/pages/contact/index.astro)
+ *      or a program's FAQ (src/content/programs/*.md) claims Marlbridge
+ *      teaches a qualification (e.g. "Marlbridge teaches GCSE") that has no
+ *      ACTIVE matrix row for ANY subject. Programs carry zero FAQ entries
+ *      today, so this is currently a no-op there — it exists so a future
+ *      edit is checked from day one.
+ *
  * Runs as part of `npm run build`.
  */
 import { readdir, readFile } from 'node:fs/promises';
@@ -122,6 +133,64 @@ for (const file of files) {
   }
 }
 
+// -----------------------------------------------------------------------
+// SITE-WIDE QUALIFICATION-TEACHING CLAIMS (Phase 10 hardening)
+//
+// The check above only covers src/content/subjects/*.md, at
+// subject+qualification granularity. Two other places state which
+// qualifications Marlbridge teaches, in coarser, qualification-only terms:
+// the Contact page's hardcoded FAQ (src/pages/contact/index.astro) and each
+// program's own faqs: frontmatter (src/content/programs/*.md — empty on
+// all 8 today, checked anyway so a future edit is covered from day one
+// rather than after the fact).
+//
+// Split into sentences before testing, so a hedge sentence right next to
+// an affirmative one ("GCSE ... teaching in development") is judged on its
+// own words rather than dragged in by a neighbouring sentence's "teaches".
+// Qualification names are matched with \b word boundaries specifically so
+// "GCSE" cannot false-positive-match inside "IGCSE".
+// -----------------------------------------------------------------------
+const activeQualSlugs = new Set(activeRows.map((c) => c.qualificationSlug));
+
+const QUALIFICATION_SLUGS = [
+  ['IGCSE', 'igcse'], ['GCSE', 'gcse'], ['AS Level', 'as-level'],
+  ['A Level', 'a-level'], ['O Level', 'o-level'],
+];
+
+const sentencesOf = (text) => text.split(/(?<=[.!?])\s+/).filter(Boolean);
+
+/** Extracts { question, answer } pairs from a .astro file's inline `question: '...'` / `answer: '...'` literals. */
+const jsFaqEntries = (src) => {
+  const entries = [];
+  const re = /question:\s*'((?:[^'\\]|\\.)*)'\s*,\s*answer:\s*'((?:[^'\\]|\\.)*)'/gs;
+  for (const m of src.matchAll(re)) entries.push({ question: m[1], answer: m[2] });
+  return entries;
+};
+
+const checkQualificationClaims = (at, faqs) => {
+  for (const { question, answer } of faqs) {
+    for (const sentence of sentencesOf(answer)) {
+      if (!/\b(teaches|taught by|is taught)\b/i.test(sentence)) continue;
+      for (const [name, slug] of QUALIFICATION_SLUGS) {
+        if (new RegExp(`\\b${name}\\b`).test(sentence) && !activeQualSlugs.has(slug)) {
+          errors.push(`${at}: FAQ "${question}" claims Marlbridge teaches ${name} ("${sentence.trim()}"), but the matrix has no ACTIVE ${slug} combination for any subject.`);
+        }
+      }
+    }
+  }
+};
+
+const contactSrc = await readFile('src/pages/contact/index.astro', 'utf8');
+checkQualificationClaims('src/pages/contact/index.astro', jsFaqEntries(contactSrc));
+
+let programFiles = [];
+try { programFiles = (await readdir('src/content/programs')).filter((f) => f.endsWith('.md')); } catch { /* no programs dir */ }
+for (const file of programFiles) {
+  const raw = await readFile(join('src/content/programs', file), 'utf8');
+  const fm = raw.split('---')[1] ?? '';
+  checkQualificationClaims(`src/content/programs/${file}`, faqEntries(fm));
+}
+
 if (warnings.length) {
   console.warn(`\nCommercial-claims check — ${warnings.length} warning(s) (non-fatal):\n`);
   for (const w of warnings) console.warn(`  • ${w}`);
@@ -134,4 +203,4 @@ if (errors.length) {
   console.error('');
   process.exit(1);
 }
-console.log('Commercial claims OK (subject FAQs match the approved academic matrix).');
+console.log('Commercial claims OK (subject, Contact-page and program FAQs match the approved academic matrix).');
