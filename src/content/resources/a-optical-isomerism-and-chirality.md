@@ -9,6 +9,7 @@ qualifications: ["a-level"]
 syllabusCodes: ["9701"]
 syllabusSeries: "2025-2027"
 stage: "A"
+order: 29.4
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-an-introduction-to-a-level-organic-chemistry"

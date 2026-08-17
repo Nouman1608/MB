@@ -9,6 +9,7 @@ qualifications: ["a-level"]
 syllabusCodes: ["9701"]
 syllabusSeries: "2025-2027"
 stage: "AS"
+order: 1.3
 syllabusTopics:
   - qualification: "a-level"
     topic: "as-atomic-structure"

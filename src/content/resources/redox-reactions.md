@@ -8,6 +8,7 @@ boards: ["cambridge"]
 qualifications: ["igcse", "o-level"]
 syllabusCodes: ["0620", "5070"]
 syllabusSeries: "2026-2028"
+order: 6.4
 syllabusTopics:
   - qualification: "igcse"
     topic: "chemical-reactions"

@@ -9,6 +9,7 @@ qualifications: ["a-level"]
 syllabusCodes: ["9701"]
 syllabusSeries: "2025-2027"
 stage: "AS"
+order: 2.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "as-atoms-molecules-and-stoichiometry"

@@ -9,6 +9,7 @@ qualifications: ["a-level"]
 syllabusCodes: ["9701"]
 syllabusSeries: "2025-2027"
 stage: "A"
+order: 32.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-hydroxy-compounds"

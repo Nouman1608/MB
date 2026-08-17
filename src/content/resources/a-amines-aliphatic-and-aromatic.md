@@ -9,6 +9,7 @@ qualifications: ["a-level"]
 syllabusCodes: ["9701"]
 syllabusSeries: "2025-2027"
 stage: "A"
+order: 34.1
 syllabusTopics:
   - qualification: "a-level"
     topic: "a-nitrogen-compounds"
