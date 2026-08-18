@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:15:11.649Z",
+  "generatedAt": "2026-08-18T19:30:03.477Z",
   "rowCount": 139,
   "rows": [
     {
@@ -2778,7 +2778,7 @@
       "summaryStatus": "published",
       "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
-      "studyGuideCount": 0,
+      "studyGuideCount": 3,
       "revisionNoteCount": 0,
       "pastPaperCount": 0,
       "practiceQuestionCount": 0,
@@ -2789,18 +2789,18 @@
       "flashcardCount": 0,
       "videoCount": 0,
       "diagnosticCount": 0,
-      "totalResourceCount": 0,
-      "namedAuthor": "NO_DATA",
+      "totalResourceCount": 3,
+      "namedAuthor": "Marlbridge Academic Team (organisation byline — see v1.2 WS7)",
       "namedReviewer": "NO_DATA",
-      "lastReview": "NO_DATA",
+      "lastReview": "2026-08-19",
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
-      "risks": "zero-resources",
-      "nextAction": "Write a first resource for this combination."
+      "risks": "none",
+      "nextAction": "None — combination is resourced and sourced."
     },
     {
       "board": "AQA",
