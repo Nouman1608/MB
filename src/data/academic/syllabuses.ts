@@ -1201,6 +1201,77 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'Two mandatory papers. Paper 1 (Depth Studies, 50%): candidates study at least 2 of 8 named depth studies (The French Revolution; unification of Italy; Germany under dictatorship; colonial rule and nationalism in India; the USSR under dictatorship; superpower relations; US civil rights; South Africa from union to the end of apartheid). Paper 2 (Investigation and Breadth Studies, 50%): candidates study 1 of 5 named historical investigations plus 1 of 8 named breadth studies in change. Available as paper-based or onscreen assessment.',
   },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'pakistan-studies',
+    officialTitle: 'Cambridge IGCSE Pakistan Studies (0448)',
+    code: '0448',
+    boardSummary:
+      'Cambridge IGCSE Pakistan Studies gives learners the opportunity to develop a deeper understanding of the history, culture, environment and society of Pakistan.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/697142-2026-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'Paper 1 The History and Culture of Pakistan is divided into three sections examined through key questions. Paper 2 The Environment of Pakistan is organised around cross-cutting themes rather than a simple numbered topic list.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'pakistan-studies',
+    officialTitle: 'Cambridge O Level Pakistan Studies (2059)',
+    code: '2059',
+    boardSummary:
+      'Cambridge O Level Pakistan Studies gives learners the opportunity to develop a deeper understanding of the history, culture, environment and society of Pakistan.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/743607-2028-2030-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'Independently confirmed against 2059’s own specification PDF: structure genuinely differs from IGCSE 0448. Paper 1 has 4 named topics (candidates answer on 3 of 4); Paper 2 has 3 named topics each with 3 named sub-topics, all studied. For exams 2028-2030.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'islamiyat',
+    officialTitle: 'Cambridge IGCSE Islamiyat (0493)',
+    code: '0493',
+    boardSummary:
+      'Cambridge IGCSE Islamiyat gives learners the opportunity to develop knowledge and understanding of the Qur’an, Hadith, the life of the Prophet Muhammad (pbuh) and the early Islamic community.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/697174-2026-2027-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'Paper 1 (4 named topics on the Qur’an and the Prophet Muhammad) and Paper 2 (4 named topics on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam), each 1.5 hours with 5 questions (Q1-2 compulsory, plus 2 more chosen).',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'islamiyat',
+    officialTitle: 'Cambridge O Level Islamiyat (2058)',
+    code: '2058',
+    boardSummary:
+      'Cambridge O Level Islamiyat gives learners the opportunity to develop knowledge and understanding of the Qur’an, Hadith, the life of the Prophet Muhammad (pbuh) and the early Islamic community.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/635787-2024-2025-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'Independently confirmed against 2058’s own specification PDF: identical Paper 1 / Paper 2 four-topic structure to Cambridge IGCSE Islamiyat (0493).',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'urdu-language',
+    officialTitle: 'Cambridge IGCSE Urdu as a Second Language (0539)',
+    code: '0539',
+    boardSummary:
+      'Cambridge IGCSE Urdu as a Second Language encourages learners to develop practical communication skills in listening, speaking, reading and writing Urdu.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/664633-2025-2027-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'All candidates take Paper 1 (Reading and Writing, 67%, six exercises) and Paper 2 (Listening, 33%, four exercises). Centres can additionally enter candidates for the optional, separately-endorsed Component 5 Speaking, which does not count toward the overall qualification grade.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'urdu-language',
+    officialTitle: 'Cambridge O Level Urdu — First Language (3247) / Second Language (3248)',
+    code: '3247 / 3248',
+    boardSummary:
+      'Cambridge O Level Urdu is offered as two distinct specifications: First Language Urdu for candidates whose mother tongue is Urdu, and Second Language Urdu for candidates learning Urdu as an additional language.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one specification or the other, not both, in the same series.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'urdu-language',
+    officialTitle: 'Pearson Edexcel GCE A Level Urdu (9UR0)',
+    code: '9UR0',
+    boardSummary:
+      'The Pearson Edexcel GCE A Level in Urdu develops students’ ability to understand and use Urdu accurately and effectively for a range of purposes, including translation, comprehension, essay writing and response to set texts.',
+    officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018/specification-and-sample-assessments/a-level-urdu-specification11.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'IMPORTANT: this is the UK GCE A Level Urdu (9UR0), not International A Level (IAL) — Edexcel does not offer Urdu as an IAL subject, unlike the other subjects available in this combination. Three papers: Paper 1 (9UR0/01) Translation into English, reading comprehension and writing (research question) in Urdu; Paper 2 (9UR0/02) Translation into Urdu and written response to works studied; Paper 3 (9UR0/03) Listening, reading and writing in Urdu.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
