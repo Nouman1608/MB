@@ -758,6 +758,68 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 9, name: 'Statistics', slug: 'statistics-cambridge-igcse-maths', subtopics: [] },
     ],
   },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'mathematics',
+    syllabusCode: '9709', syllabusSeries: '2026-2027',
+    effectiveFrom: '2026', effectiveTo: '2027', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education -- official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf', verifiedDate: '2026-08-19',
+    notes: "Cambridge International AS & A Level Mathematics (9709). Modular: 6 papers across 3 content strands -- Pure Mathematics (Papers 1-3), Mechanics (Paper 4), Probability & Statistics (Papers 5-6). Different combinations of papers lead to different awards (e.g. Paper 1+2 for AS Pure Mathematics only; Paper 1,3,4,5 for the full A-level with Mechanics and Probability & Statistics 1). Not tiered in the Core/Extended sense. All 6 content sections and their sub-topic structure verified directly against the official syllabus PDF content overview (cambridgeinternational.org), fetched 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Pure Mathematics 1', slug: 'pure-mathematics-1-cambridge-alevel', subtopics: [
+        { number: '1.1', name: 'Quadratics', slug: 'quadratics-cambridge-alevel-maths' },
+        { number: '1.2', name: 'Functions', slug: 'functions-cambridge-alevel-maths' },
+        { number: '1.3', name: 'Coordinate geometry', slug: 'coordinate-geometry-cambridge-alevel-maths' },
+        { number: '1.4', name: 'Circular measure', slug: 'circular-measure-cambridge-alevel-maths' },
+        { number: '1.5', name: 'Trigonometry', slug: 'trigonometry-cambridge-alevel-maths-1' },
+        { number: '1.6', name: 'Series', slug: 'series-cambridge-alevel-maths' },
+        { number: '1.7', name: 'Differentiation', slug: 'differentiation-cambridge-alevel-maths-1' },
+        { number: '1.8', name: 'Integration', slug: 'integration-cambridge-alevel-maths-1' },
+      ] },
+      { number: 2, name: 'Pure Mathematics 2', slug: 'pure-mathematics-2-cambridge-alevel', subtopics: [
+        { number: '2.1', name: 'Algebra', slug: 'algebra-cambridge-alevel-maths-2' },
+        { number: '2.2', name: 'Logarithmic and exponential functions', slug: 'logarithmic-and-exponential-functions-cambridge-2' },
+        { number: '2.3', name: 'Trigonometry', slug: 'trigonometry-cambridge-alevel-maths-2' },
+        { number: '2.4', name: 'Differentiation', slug: 'differentiation-cambridge-alevel-maths-2' },
+        { number: '2.5', name: 'Integration', slug: 'integration-cambridge-alevel-maths-2' },
+        { number: '2.6', name: 'Numerical solution of equations', slug: 'numerical-solution-of-equations-cambridge-2' },
+      ] },
+      { number: 3, name: 'Pure Mathematics 3', slug: 'pure-mathematics-3-cambridge-alevel', subtopics: [
+        { number: '3.1', name: 'Algebra', slug: 'algebra-cambridge-alevel-maths-3' },
+        { number: '3.2', name: 'Logarithmic and exponential functions', slug: 'logarithmic-and-exponential-functions-cambridge-3' },
+        { number: '3.3', name: 'Trigonometry', slug: 'trigonometry-cambridge-alevel-maths-3' },
+        { number: '3.4', name: 'Differentiation', slug: 'differentiation-cambridge-alevel-maths-3' },
+        { number: '3.5', name: 'Integration', slug: 'integration-cambridge-alevel-maths-3' },
+        { number: '3.6', name: 'Numerical solution of equations', slug: 'numerical-solution-of-equations-cambridge-3' },
+        { number: '3.7', name: 'Vectors', slug: 'vectors-cambridge-alevel-maths' },
+        { number: '3.8', name: 'Differential equations', slug: 'differential-equations-cambridge-alevel-maths' },
+        { number: '3.9', name: 'Complex numbers', slug: 'complex-numbers-cambridge-alevel-maths' },
+      ] },
+      { number: 4, name: 'Mechanics', slug: 'mechanics-cambridge-alevel-maths', subtopics: [
+        { number: '4.1', name: 'Forces and equilibrium', slug: 'forces-and-equilibrium-cambridge-alevel-maths' },
+        { number: '4.2', name: 'Kinematics of motion in a straight line', slug: 'kinematics-of-motion-in-a-straight-line-cambridge' },
+        { number: '4.3', name: 'Momentum', slug: 'momentum-cambridge-alevel-maths' },
+        { number: '4.4', name: "Newton's laws of motion", slug: 'newtons-laws-of-motion-cambridge-alevel-maths' },
+        { number: '4.5', name: 'Energy, work and power', slug: 'energy-work-and-power-cambridge-alevel-maths' },
+      ] },
+      { number: 5, name: 'Probability & Statistics 1', slug: 'probability-and-statistics-1-cambridge-alevel', subtopics: [
+        { number: '5.1', name: 'Representation of data', slug: 'representation-of-data-cambridge-alevel-maths' },
+        { number: '5.2', name: 'Permutations and combinations', slug: 'permutations-and-combinations-cambridge-alevel-maths' },
+        { number: '5.3', name: 'Probability', slug: 'probability-cambridge-alevel-maths' },
+        { number: '5.4', name: 'Discrete random variables', slug: 'discrete-random-variables-cambridge-alevel-maths' },
+        { number: '5.5', name: 'The normal distribution', slug: 'the-normal-distribution-cambridge-alevel-maths' },
+      ] },
+      { number: 6, name: 'Probability & Statistics 2', slug: 'probability-and-statistics-2-cambridge-alevel', subtopics: [
+        { number: '6.1', name: 'The Poisson distribution', slug: 'the-poisson-distribution-cambridge-alevel-maths' },
+        { number: '6.2', name: 'Linear combinations of random variables', slug: 'linear-combinations-of-random-variables-cambridge' },
+        { number: '6.3', name: 'Continuous random variables', slug: 'continuous-random-variables-cambridge-alevel-maths' },
+        { number: '6.4', name: 'Sampling and estimation', slug: 'sampling-and-estimation-cambridge-alevel-maths' },
+        { number: '6.5', name: 'Hypothesis tests', slug: 'hypothesis-tests-cambridge-alevel-maths' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**

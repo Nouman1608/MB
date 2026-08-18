@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:54:34.068Z",
+  "generatedAt": "2026-08-18T19:56:43.157Z",
   "rowCount": 139,
   "rows": [
     {
@@ -370,13 +370,13 @@
       "subject": "Mathematics",
       "subjectSlug": "mathematics",
       "specCode": "9709",
-      "specStatus": "unverified",
-      "specApplicability": "NO_DATA",
-      "officialSource1": "NO_DATA",
-      "officialSource2": "NO_DATA",
-      "verificationDate": "NO_DATA",
-      "summaryStatus": "being-verified",
-      "topicMapStatus": "being-verified",
+      "specStatus": "verified",
+      "specApplicability": "2026-2027",
+      "officialSource1": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-mathematics-9709/",
+      "officialSource2": "https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf",
+      "verificationDate": "2026-08-19",
+      "summaryStatus": "published",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -399,8 +399,8 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
-      "risks": "no-official-source;no-topic-map;zero-resources",
-      "nextAction": "Source the official specification, then write a first resource."
+      "risks": "zero-resources",
+      "nextAction": "Write a first resource for this combination."
     },
     {
       "board": "Cambridge",

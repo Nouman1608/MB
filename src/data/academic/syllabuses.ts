@@ -651,6 +651,17 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'Tiered: Core subject content targets grades C-G, Extended subject content targets grades A*-C (Extended contains all Core content plus additional material). Nine top-level topics: Number, Algebra and graphs, Coordinate geometry, Geometry, Mensuration, Trigonometry, Transformations and vectors, Probability, Statistics -- not presented in a required teaching order. Syllabus for examination series 2025, 2026 and 2027.',
   },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'mathematics',
+    officialTitle: 'Cambridge International AS & A Level Mathematics (9709)',
+    code: '9709',
+    boardSummary:
+      'Cambridge International AS and A Level Mathematics develops a set of transferable skills, including a deep understanding of mathematical principles, the ability to analyse problems logically, and skills in presenting a mathematical argument. It gives learners a strong foundation for progressing to further study.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-mathematics-9709/',
+    verifiedOn: '2026-08-19',
+    notes: 'Modular: 6 papers spanning 3 content strands -- Pure Mathematics (Papers 1-3), Mechanics (Paper 4), Probability & Statistics (Papers 5-6). Different combinations of papers lead to different AS or A-level awards (for example, Paper 1+2 gives AS Pure Mathematics only; Paper 1, 3, 4 and 5 gives the full A-level with Mechanics and Probability & Statistics 1). Syllabus for examination series 2026 and 2027.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
