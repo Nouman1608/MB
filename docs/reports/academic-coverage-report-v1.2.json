@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:00:34.818Z",
+  "generatedAt": "2026-08-18T20:07:16.812Z",
   "rowCount": 139,
   "rows": [
     {
@@ -3891,12 +3891,12 @@
       "subjectSlug": "mathematics",
       "specCode": "J560",
       "specStatus": "verified",
-      "specApplicability": "NO_DATA",
+      "specApplicability": "2015-ongoing",
       "officialSource1": "https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/",
-      "officialSource2": "NO_DATA",
+      "officialSource2": "https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/specification-at-a-glance/",
       "verificationDate": "2026-08-18",
       "summaryStatus": "published",
-      "topicMapStatus": "being-verified",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -3919,7 +3919,7 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
-      "risks": "no-topic-map;zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
+      "risks": "zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Write a first resource for this combination."
     },
     {
@@ -4131,12 +4131,12 @@
       "subjectSlug": "mathematics",
       "specCode": "H240",
       "specStatus": "verified",
-      "specApplicability": "NO_DATA",
+      "specApplicability": "2017-ongoing",
       "officialSource1": "https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/",
-      "officialSource2": "NO_DATA",
+      "officialSource2": "https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/specification-at-a-glance/",
       "verificationDate": "2026-08-18",
       "summaryStatus": "published",
-      "topicMapStatus": "being-verified",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -4159,7 +4159,7 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
-      "risks": "no-topic-map;zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
+      "risks": "zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Write a first resource for this combination."
     },
     {

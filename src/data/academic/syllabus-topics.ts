@@ -838,6 +838,123 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 6, name: 'Statistics', slug: 'statistics-aqa-gcse-maths', subtopics: [] },
     ],
   },
+
+  {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'mathematics',
+    syllabusCode: 'J560', syllabusSeries: 'For first assessment 2017',
+    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    tiered: true,
+    source: 'OCR -- official GCSE (9-1) Mathematics (J560) specification-at-a-glance page',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/specification-at-a-glance/', verifiedDate: '2026-08-19',
+    notes: "OCR GCSE (9-1) Mathematics (J560), qualification number 601/4606/0. Tiered: Foundation (papers 1-3, grades 5-1) and Higher (papers 4-6, grades 9-4); content is arranged by topic area and applies to both tiers, and any topic may be assessed on any paper. Twelve topic headings and their sub-topics reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19. Full specification PDF: https://www.ocr.org.uk/Images/168982-specification-gcse-mathematics.pdf",
+    topics: [
+      { number: 1, name: 'Number operations and integers', slug: 'number-operations-and-integers-ocr-gcse-maths', subtopics: [
+        { number: '1.1', name: 'Calculations with integers', slug: 'calculations-with-integers-ocr-gcse-maths' },
+        { number: '1.2', name: 'Whole number theory', slug: 'whole-number-theory-ocr-gcse-maths' },
+        { number: '1.3', name: 'Combining arithmetic operations', slug: 'combining-arithmetic-operations-ocr-gcse-maths' },
+        { number: '1.4', name: 'Inverse operations', slug: 'inverse-operations-ocr-gcse-maths' },
+      ] },
+      { number: 2, name: 'Fractions, decimals and percentages', slug: 'fractions-decimals-and-percentages-ocr-gcse-maths', subtopics: [
+        { number: '2.1', name: 'Fractions', slug: 'fractions-ocr-gcse-maths' },
+        { number: '2.2', name: 'Decimal fractions', slug: 'decimal-fractions-ocr-gcse-maths' },
+        { number: '2.3', name: 'Percentages', slug: 'percentages-ocr-gcse-maths' },
+        { number: '2.4', name: 'Ordering fractions, decimals and percentages', slug: 'ordering-fractions-decimals-and-percentages-ocr-gcse-maths' },
+      ] },
+      { number: 3, name: 'Indices and surds', slug: 'indices-and-surds-ocr-gcse-maths', subtopics: [
+        { number: '3.1', name: 'Powers and roots', slug: 'powers-and-roots-ocr-gcse-maths' },
+        { number: '3.2', name: 'Standard form', slug: 'standard-form-ocr-gcse-maths' },
+        { number: '3.3', name: 'Exact calculations', slug: 'exact-calculations-ocr-gcse-maths' },
+      ] },
+      { number: 4, name: 'Approximation and estimation', slug: 'approximation-and-estimation-ocr-gcse-maths', subtopics: [
+        { number: '4.1', name: 'Approximation and estimation', slug: 'approximation-and-estimation-detail-ocr-gcse-maths' },
+      ] },
+      { number: 5, name: 'Ratio, proportion and rates of change', slug: 'ratio-proportion-and-rates-of-change-ocr-gcse-maths', subtopics: [
+        { number: '5.1', name: 'Calculations with ratio', slug: 'calculations-with-ratio-ocr-gcse-maths' },
+        { number: '5.2', name: 'Direct and inverse proportion', slug: 'direct-and-inverse-proportion-ocr-gcse-maths' },
+        { number: '5.3', name: 'Discrete growth and decay', slug: 'discrete-growth-and-decay-ocr-gcse-maths' },
+      ] },
+      { number: 6, name: 'Algebra', slug: 'algebra-ocr-gcse-maths', subtopics: [
+        { number: '6.1', name: 'Algebraic expressions', slug: 'algebraic-expressions-ocr-gcse-maths' },
+        { number: '6.2', name: 'Algebraic formulae', slug: 'algebraic-formulae-ocr-gcse-maths' },
+        { number: '6.3', name: 'Algebraic equations', slug: 'algebraic-equations-ocr-gcse-maths' },
+        { number: '6.4', name: 'Algebraic inequalities', slug: 'algebraic-inequalities-ocr-gcse-maths' },
+        { number: '6.5', name: 'Language of functions', slug: 'language-of-functions-ocr-gcse-maths' },
+        { number: '6.6', name: 'Sequences', slug: 'sequences-ocr-gcse-maths' },
+      ] },
+      { number: 7, name: 'Graphs of equations and functions', slug: 'graphs-of-equations-and-functions-ocr-gcse-maths', subtopics: [
+        { number: '7.1', name: 'Graphs of equations and functions', slug: 'graphs-of-equations-and-functions-detail-ocr-gcse-maths' },
+        { number: '7.2', name: 'Straight line graphs', slug: 'straight-line-graphs-ocr-gcse-maths' },
+        { number: '7.3', name: 'Transformations of curves and their equations', slug: 'transformations-of-curves-and-their-equations-ocr-gcse-maths' },
+        { number: '7.4', name: 'Interpreting graphs', slug: 'interpreting-graphs-ocr-gcse-maths' },
+      ] },
+      { number: 8, name: 'Basic geometry', slug: 'basic-geometry-ocr-gcse-maths', subtopics: [
+        { number: '8.1', name: 'Conventions, notation and terms', slug: 'conventions-notation-and-terms-ocr-gcse-maths' },
+        { number: '8.2', name: 'Ruler and compass constructions', slug: 'ruler-and-compass-constructions-ocr-gcse-maths' },
+        { number: '8.3', name: 'Angles', slug: 'angles-ocr-gcse-maths' },
+        { number: '8.4', name: 'Properties of polygons', slug: 'properties-of-polygons-ocr-gcse-maths' },
+        { number: '8.5', name: 'Circles', slug: 'circles-ocr-gcse-maths' },
+        { number: '8.6', name: 'Three-dimensional shapes', slug: 'three-dimensional-shapes-ocr-gcse-maths' },
+      ] },
+      { number: 9, name: 'Congruence and similarity', slug: 'congruence-and-similarity-ocr-gcse-maths', subtopics: [
+        { number: '9.1', name: 'Plane isometric transformations', slug: 'plane-isometric-transformations-ocr-gcse-maths' },
+        { number: '9.2', name: 'Congruence', slug: 'congruence-ocr-gcse-maths' },
+        { number: '9.3', name: 'Plane vector geometry', slug: 'plane-vector-geometry-ocr-gcse-maths' },
+        { number: '9.4', name: 'Similarity', slug: 'similarity-ocr-gcse-maths' },
+      ] },
+      { number: 10, name: 'Mensuration', slug: 'mensuration-ocr-gcse-maths', subtopics: [
+        { number: '10.1', name: 'Units and measurement', slug: 'units-and-measurement-ocr-gcse-maths' },
+        { number: '10.2', name: 'Perimeter calculations', slug: 'perimeter-calculations-ocr-gcse-maths' },
+        { number: '10.3', name: 'Area calculations', slug: 'area-calculations-ocr-gcse-maths' },
+        { number: '10.4', name: 'Volume and surface area calculations', slug: 'volume-and-surface-area-calculations-ocr-gcse-maths' },
+        { number: '10.5', name: 'Triangle mensuration', slug: 'triangle-mensuration-ocr-gcse-maths' },
+      ] },
+      { number: 11, name: 'Probability', slug: 'probability-ocr-gcse-maths', subtopics: [
+        { number: '11.1', name: 'Basic probability and experiments', slug: 'basic-probability-and-experiments-ocr-gcse-maths' },
+        { number: '11.2', name: 'Combined events and probability diagrams', slug: 'combined-events-and-probability-diagrams-ocr-gcse-maths' },
+      ] },
+      { number: 12, name: 'Statistics', slug: 'statistics-ocr-gcse-maths', subtopics: [
+        { number: '12.1', name: 'Sampling', slug: 'sampling-ocr-gcse-maths' },
+        { number: '12.2', name: 'Interpreting and representing data', slug: 'interpreting-and-representing-data-ocr-gcse-maths' },
+        { number: '12.3', name: 'Analysing data', slug: 'analysing-data-ocr-gcse-maths' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'mathematics',
+    syllabusCode: 'H240', syllabusSeries: 'For first assessment 2018',
+    effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OCR -- official A Level Mathematics A (H240) specification-at-a-glance page',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/specification-at-a-glance/', verifiedDate: '2026-08-19',
+    notes: "OCR A Level Mathematics A (H240), qualification number 603/1038/8. Assessed across three two-hour components (Pure mathematics; Pure mathematics and statistics; Pure mathematics and mechanics), each 33 1/3% of the award. Three subject-content areas and their listed sub-areas reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19. The sibling AS Level (H230) shares most but not all sub-topics (e.g. Numerical methods and Moments are A Level only) and is not recorded as a separate matrix row. Full specification PDF: https://www.ocr.org.uk/Images/308723-specification-accredited-a-level-gce-mathematics-a-h240.pdf",
+    topics: [
+      { number: 1, name: 'Pure mathematics', slug: 'pure-mathematics-ocr-alevel-maths', subtopics: [
+        { number: '1.1', name: 'Proof', slug: 'proof-ocr-alevel-maths' },
+        { number: '1.2', name: 'Algebra and functions', slug: 'algebra-and-functions-ocr-alevel-maths' },
+        { number: '1.3', name: 'Coordinate geometry in the x-y plane', slug: 'coordinate-geometry-in-the-xy-plane-ocr-alevel-maths' },
+        { number: '1.4', name: 'Sequences and series', slug: 'sequences-and-series-ocr-alevel-maths' },
+        { number: '1.5', name: 'Trigonometry', slug: 'trigonometry-ocr-alevel-maths' },
+        { number: '1.6', name: 'Exponentials and logarithms', slug: 'exponentials-and-logarithms-ocr-alevel-maths' },
+        { number: '1.7', name: 'Differentiation', slug: 'differentiation-ocr-alevel-maths' },
+        { number: '1.8', name: 'Integration', slug: 'integration-ocr-alevel-maths' },
+        { number: '1.9', name: 'Numerical methods', slug: 'numerical-methods-ocr-alevel-maths' },
+        { number: '1.10', name: 'Vectors', slug: 'vectors-ocr-alevel-maths' },
+      ] },
+      { number: 2, name: 'Statistics', slug: 'statistics-ocr-alevel-maths', subtopics: [
+        { number: '2.1', name: 'Statistical sampling', slug: 'statistical-sampling-ocr-alevel-maths' },
+        { number: '2.2', name: 'Data presentation and interpretation', slug: 'data-presentation-and-interpretation-ocr-alevel-maths' },
+        { number: '2.3', name: 'Probability', slug: 'probability-ocr-alevel-maths' },
+        { number: '2.4', name: 'Statistical distributions', slug: 'statistical-distributions-ocr-alevel-maths' },
+        { number: '2.5', name: 'Statistical hypothesis testing', slug: 'statistical-hypothesis-testing-ocr-alevel-maths' },
+      ] },
+      { number: 3, name: 'Mechanics', slug: 'mechanics-ocr-alevel-maths', subtopics: [
+        { number: '3.1', name: 'Quantities and units in mechanics', slug: 'quantities-and-units-in-mechanics-ocr-alevel-maths' },
+        { number: '3.2', name: 'Kinematics', slug: 'kinematics-ocr-alevel-maths' },
+        { number: '3.3', name: "Forces and Newton's laws", slug: 'forces-and-newtons-laws-ocr-alevel-maths' },
+        { number: '3.4', name: 'Moments', slug: 'moments-ocr-alevel-maths' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**
