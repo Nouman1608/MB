@@ -111,6 +111,10 @@ const AQA_GCSE_CODES: Record<string, string> = {
 const AQA_ALEVEL_CODES: Record<string, string> = {
   biology: '7402', chemistry: '7405', physics: '7408',
   psychology: '7182', sociology: '7192', business: '7132',
+  // Verified 2026-08-18 at aqa.org.uk/subjects/accounting: A-level Accounting
+  // 7127 is live (next exam 17 May 2027, current specification for first
+  // teaching 2017). Not withdrawn — resolves the prior "needs checking" note.
+  accounting: '7127',
 };
 
 export const MATRIX: readonly Combination[] = [
@@ -228,7 +232,7 @@ export const MATRIX: readonly Combination[] = [
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/a-levels/aqa/`, codes: AQA_ALEVEL_CODES,
-    notes: `${PENDING_SCOPE} AQA A-level Accounting needs checking — AQA may have withdrawn it.`,
+    notes: `${PENDING_SCOPE} AQA A-level Accounting (7127) verified live at aqa.org.uk 2026-08-18 — not withdrawn.`,
   }),
 
   // AQA AS Level — AQA runs AS as a separate qualification (Business AS 7131/7137
