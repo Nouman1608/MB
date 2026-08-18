@@ -16,6 +16,28 @@ const load = (file) => JSON.parse(execSync(
   { encoding: 'utf8', cwd: process.cwd() }));
 
 const { MATRIX } = load('src/data/academic/matrix.ts');
+const { SUBJECTS } = load('src/data/academic/subjects.ts');
+
+/**
+ * The matrix's subjectSlug and the src/content/subjects/*.md id (what a
+ * resource's `subject:` field actually references) can differ — e.g. matrix
+ * 'english-language' -> content id 'english', per subjects.ts's hubId, the
+ * same indirection src/pages/boards/.../[subject].astro already resolves
+ * through subjectBySlug().hubId. Workstream 4 found and fixed the identical
+ * gap in validate-commercial-claims.mjs; this map applies the same fix here
+ * — without it, every ACTIVE lookup below would be keyed by the wrong slug
+ * for any subject whose hubId differs from its matrix slug, and a
+ * perfectly valid resource tag would fail the build with a false "no ACTIVE
+ * combination" error.
+ */
+const matrixSlugsForContentId = new Map();
+for (const s of SUBJECTS) {
+  const hub = s.hubId ?? s.slug;
+  if (!matrixSlugsForContentId.has(hub)) matrixSlugsForContentId.set(hub, []);
+  matrixSlugsForContentId.get(hub).push(s.slug);
+}
+const matrixSlugsFor = (contentId) => matrixSlugsForContentId.get(contentId) ?? [contentId];
+
 /**
  * Phase 11: scoped by SUBJECT, not just board+qualification.
  *
@@ -76,18 +98,19 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
       continue;
     }
 
+    const matrixSubjects = subjects.flatMap((s) => matrixSlugsFor(s));
     for (const b of boards) {
-      if (!subjects.some((s) => activeBySubject.get(s)?.boards.has(b))) {
+      if (!matrixSubjects.some((s) => activeBySubject.get(s)?.boards.has(b))) {
         errors.push(`${at}: board "${b}" has no ACTIVE combination for subject(s) ${subjects.join(', ')}`);
       }
     }
     for (const q of quals) {
-      if (!subjects.some((s) => activeBySubject.get(s)?.quals.has(q))) {
+      if (!matrixSubjects.some((s) => activeBySubject.get(s)?.quals.has(q))) {
         errors.push(`${at}: qualification "${q}" has no ACTIVE combination for subject(s) ${subjects.join(', ')}`);
       }
     }
     for (const b of boards) for (const q of quals) {
-      if (!subjects.some((s) => activeBySubject.get(s)?.combos.has(`${b}|${q}`))) {
+      if (!matrixSubjects.some((s) => activeBySubject.get(s)?.combos.has(`${b}|${q}`))) {
         errors.push(`${at}: "${b} + ${q}" is not an ACTIVE combination for subject(s) ${subjects.join(', ')}`);
       }
     }

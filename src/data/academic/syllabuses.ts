@@ -246,6 +246,40 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-18',
     notes: 'Qualification number 601/4799/4.',
   },
+
+  // ===========================================================================
+  // AQA — verified directly at aqa.org.uk specification pages, 2026-08-18.
+  // ===========================================================================
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'english-language',
+    officialTitle: 'AQA GCSE English Language (8700)',
+    code: '8700',
+    boardSummary:
+      "The specification will enable students of all abilities to develop the skills they need to read, understand and analyse a wide range of different texts covering the 19th, 20th and 21st century time periods as well as to write clearly, coherently and accurately using a range of vocabulary and sentence structures.",
+    officialUrl: 'https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification',
+    verifiedOn: '2026-08-18',
+    notes: "Assessed across two equally-weighted papers: Paper 1 'Explorations in Creative Reading and Writing' and Paper 2 'Writers' Viewpoints and Perspectives', plus a separately-reported spoken language endorsement (not counted in the GCSE grade). Fully co-teachable with AQA GCSE English Literature (8702).",
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'world-history',
+    officialTitle: 'AQA GCSE History (8145)',
+    code: '8145',
+    boardSummary:
+      "AQA's GCSE History enables students to study different aspects of the past, so they can engage with key issues such as conflict, understand what drives change and how the past influences the present.",
+    officialUrl: 'https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification',
+    verifiedOn: '2026-08-18',
+    notes: "Subject content is organised into two components: 'Understanding the Modern World' and 'Shaping the Nation', including a historic environment study of specified sites (the specified sites are refreshed periodically — the 2026-2028 series list was current at verification).",
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'sociology',
+    officialTitle: 'AQA A-level Sociology (7192)',
+    code: '7192',
+    boardSummary:
+      "This qualification offers an engaging and effective introduction to Sociology. Students will learn the fundamentals of the subject and develop skills valued by higher education and employers, including critical analysis, independent thinking and research.",
+    officialUrl: 'https://www.aqa.org.uk/subjects/sociology/a-level/sociology-7192/specification',
+    verifiedOn: '2026-08-18',
+    notes: "Subject content spans three components: Education with Theory and Methods, Topics in Sociology (options), and Crime and Deviance with Theory and Methods. Assessment uses short-answer and extended-essay questions, including a 'methods in context' question. AS (7191) and A-level are co-teachable within the first year of study.",
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>

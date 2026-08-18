@@ -56,14 +56,21 @@ const levelKey = LEVEL_FOR_QUALIFICATION[c.qualificationSlug];
 const hubSlug = subjectBySlug(c.subjectSlug)?.hubId ?? c.subjectSlug;
 const subjectEntry = await getEntry('subjects', hubSlug);
 const allResources = await getResources();
+// Resources reference the subjects CONTENT id (hubSlug), not the matrix
+// subjectSlug — those diverge for e.g. matrix 'english-language' -> content
+// id 'english'. Filtering on c.subjectSlug here silently hid every resource
+// for any subject whose hubId differs from its matrix slug (Workstream 9
+// finding: AQA GCSE English Language resources were invisible on this page
+// for exactly this reason, even though they render correctly on the
+// English subject hub, which already used hubSlug).
 const resources = allResources.filter(
-  (r) => r.data.subject.id === c.subjectSlug && r.data.level.includes(levelKey as never),
+  (r) => r.data.subject.id === hubSlug && r.data.level.includes(levelKey as never),
 );
 
 const study = resources.filter((r) => ['study-guides', 'revision-notes', 'subject-guides'].includes(r.data.resourceType));
 const revision = resources.filter((r) => r.data.resourceType === 'revision-notes');
 const examPrep = resources.filter((r) => ['past-papers', 'practice-questions', 'exam-preparation'].includes(r.data.resourceType));
-const articles = await relatedArticles({ subject: c.subjectSlug, limit: 3 });
+const articles = await relatedArticles({ subject: hubSlug, limit: 3 });
 
 /**
  * Official syllabus topics, straight from the awarding body's document.
