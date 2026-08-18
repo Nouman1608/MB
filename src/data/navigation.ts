@@ -32,6 +32,7 @@ export const footerNav = {
     { label: 'Contact', href: '/contact/' },
     { label: 'Privacy', href: '/legal/privacy/' },
     { label: 'Terms', href: '/legal/terms/' },
+    { label: 'Cookie Policy', href: '/legal/cookies/' },
     { label: 'Accessibility', href: '/legal/accessibility/' },
   ],
 } satisfies Record<string, readonly NavItem[]>;
