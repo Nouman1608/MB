@@ -203,7 +203,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697324-2026-2028-syllabus.pdf', verifiedDate: '2026-08-18',
-    notes: 'NOT tiered - single set of outcomes for every candidate (Paper 1 + Paper 2 + a practical paper, all externally assessed, no Core/Extended split). Phase 11: Topic 1 subtopics verified through 1.6 (Momentum) against the syllabus PDF; further Topic 1 subtopics and all of Topics 2-6 are recorded here as name-only (verified from the official content overview) pending subtopic-level research in a later phase.',
+    notes: 'NOT tiered - single set of outcomes for every candidate (Paper 1 + Paper 2 + a practical paper, all externally assessed, no Core/Extended split). Phase 11 verified Topic 1 subtopics through 1.6 (Momentum) against the syllabus PDF. Phase 13 verified and completed the remainder of Topic 1 (1.7 Energy, work and power; 1.8 Pressure) and wrote full resource coverage for all of Topic 1 (1.1-1.8). Topics 2-6 remain name-only (verified from the official content overview) pending subtopic-level research in a later phase.',
     topics: [
       { number: 1, name: 'Motion, forces and energy', slug: 'motion-forces-and-energy', subtopics: [
         { number: '1.1', name: 'Physical quantities and measurement techniques', slug: 'physical-quantities-and-measurement-techniques' },
@@ -212,6 +212,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.4', name: 'Density', slug: 'density' },
         { number: '1.5', name: 'Forces', slug: 'forces' },
         { number: '1.6', name: 'Momentum', slug: 'momentum' },
+        { number: '1.7', name: 'Energy, work and power', slug: 'energy-work-and-power' },
+        { number: '1.8', name: 'Pressure', slug: 'pressure' },
       ] },
       { number: 2, name: 'Thermal physics', slug: 'thermal-physics', subtopics: [] },
       { number: 3, name: 'Waves', slug: 'waves', subtopics: [] },

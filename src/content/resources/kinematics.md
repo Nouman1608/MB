@@ -30,8 +30,12 @@ Physics 5054, 2026–2028 series.
 Kinematics — describing how things move, without yet asking what forces cause
 that motion — is the foundation Topic 1 is built on. The vocabulary here
 (speed, velocity, acceleration) and the graph-reading skills carry straight
-into **1.5 Forces**, where F = ma connects motion to the forces that produce
-it, and into **1.6 Momentum**, which is built directly from velocity.
+into [Forces and Motion](/resources/forces-and-motion/) (1.5), where F = ma
+connects motion to the forces that produce it, and into
+[Momentum](/resources/momentum/) (1.6), which is built directly from
+velocity. The measurement techniques half of subtopic 1.1 — how length,
+volume and time are actually measured — is covered in
+[Measurement, Mass, Weight and Density](/resources/measurement-mass-weight-and-density/).
 
 **A note on scope.** This page is written against Cambridge **O Level**
 Physics 5054, which is not tiered. Cambridge **IGCSE** Physics 0625 covers
@@ -229,14 +233,14 @@ graph
 speed–time gradient, and distance from the area under a speed–time graph
 - g ≈ 9.8 m/s², the acceleration of free fall near the Earth's surface
 
-## Continuing from here
+## Related resources
 
-Motion described here — without reference to what's causing it — connects
-directly to **1.5 Forces**, where Newton's laws and F = ma explain *why*
-objects accelerate, and to **1.6 Momentum**, which combines mass and velocity
-into a single quantity used throughout collisions and explosions questions.
-
-[Cambridge O Level Physics subject hub](/subjects/physics/)
+- [Measurement, Mass, Weight and Density](/resources/measurement-mass-weight-and-density/) — the rest of subtopic 1.1, plus 1.3 and 1.4
+- [Forces and Motion](/resources/forces-and-motion/) — Newton's laws and
+F = ma, explaining *why* objects accelerate
+- [Momentum](/resources/momentum/) — mass and velocity combined into a
+single quantity, used throughout collisions and explosions questions
+- [Cambridge O Level Physics subject hub](/subjects/physics/)
 
 *Written against Cambridge O Level Physics 5054, 2026–2028 series. Always
 check the current syllabus for your examination year.*
