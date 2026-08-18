@@ -1,0 +1,76 @@
+---
+/**
+ * Board hub — /boards/{board}/
+ *
+ * Every publishable qualification x subject combination for one board,
+ * grouped by qualification. Routes come exclusively from
+ * boardsWithCombinations() (itself derived from activeOnly()), so a board
+ * with zero publishable combinations — or OCR, which is architecturally
+ * excluded by board.status — cannot produce a page here.
+ */
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Section from '../../../components/layout/Section.astro';
+import Container from '../../../components/layout/Container.astro';
+import {
+  boardPath, boardsPath, combinationsForBoard,
+  boardsWithCombinations, academicHubPath,
+} from '../../../utils/academic';
+import { boardBySlug } from '../../../data/academic/boards';
+import { routes } from '../../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  return boardsWithCombinations().map((boardSlug) => ({ params: { board: boardSlug } }));
+}
+
+const { board: boardSlug } = Astro.params;
+const board = boardBySlug(boardSlug as string)!;
+const combos = combinationsForBoard(boardSlug as string);
+
+const byQualification = new Map<string, typeof combos>();
+for (const c of combos) {
+  if (!byQualification.has(c.qualificationSlug)) byQualification.set(c.qualificationSlug, []);
+  byQualification.get(c.qualificationSlug)!.push(c);
+}
+const groups = [...byQualification.entries()]
+  .map(([qualificationSlug, items]) => ({
+    qualificationSlug,
+    qualification: items[0].qualification,
+    items: items.slice().sort((a, b) => a.subject.localeCompare(b.subject)),
+  }))
+  .sort((a, b) => a.qualification.localeCompare(b.qualification));
+
+const path = boardPath(boardSlug as string);
+---
+<PageLayout
+  title={board.name}
+  description={`${board.name} qualifications taught by Marlbridge — every subject and qualification combination we publish, in one place.`}
+  path={path}
+  eyebrow="Board"
+  heading={board.name}
+  lead={`Every ${board.name} qualification and subject combination Marlbridge publishes, grouped by qualification.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Boards', href: boardsPath() },
+    { label: board.name, href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      {groups.map((g) => (
+        <div class="mb-[clamp(32px,4vw,56px)] last:mb-0">
+          <h2 class="m-0 mb-4 border-b-2 border-navy-800 pb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{g.qualification}</h2>
+          <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-3">
+            {g.items.map((c) => (
+              <li class="m-0 bg-white">
+                <a href={academicHubPath(c)} class="group flex h-full flex-col justify-between gap-2 p-5">
+                  <span class="font-display text-xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600">{c.subject}</span>
+                  {c.qualificationCode && <span class="font-mono text-[12px] text-ink-mute">Specification {c.qualificationCode}</span>}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </Container>
+  </Section>
+</PageLayout>

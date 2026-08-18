@@ -61,5 +61,23 @@ export const subjectsFor = (boardSlug: string, qualificationSlug: string): Combi
 export const academicHubPath = (c: Combination): string =>
   `/boards/${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}/`;
 
+export const boardsPath = () => `/boards/`;
 export const boardPath = (boardSlug: string) => `/boards/${boardSlug}/`;
+export const levelsPath = () => `/levels/`;
 export const levelPath = (qualificationSlug: string) => `/levels/${qualificationSlug}/`;
+
+/** Derived: every publishable combination for a given board, across all qualifications. */
+export const combinationsForBoard = (boardSlug: string): Combination[] =>
+  activeOnly().filter((c) => c.boardSlug === boardSlug);
+
+/** Derived: every publishable combination for a given qualification, across all boards. */
+export const combinationsForQualification = (qualificationSlug: string): Combination[] =>
+  activeOnly().filter((c) => c.qualificationSlug === qualificationSlug);
+
+/** Boards with at least one publishable combination — the only boards that can have a hub page. */
+export const boardsWithCombinations = (): string[] =>
+  [...new Set(activeOnly().map((c) => c.boardSlug))];
+
+/** Qualifications with at least one publishable combination — the only ones that can have a hub page. */
+export const qualificationsWithCombinations = (): string[] =>
+  [...new Set(activeOnly().map((c) => c.qualificationSlug))];
