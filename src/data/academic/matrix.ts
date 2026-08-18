@@ -459,18 +459,18 @@ export const MATRIX: readonly Combination[] = [
   ...rows('ocr', 'gcse', [
     'chemistry', 'physics', 'biology', 'mathematics', 'business', 'economics',
   ], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'FUTURE', evidence: 'none',
-    source: 'https://www.ocr.org.uk/qualifications/gcse/ — verified 2026-08-18',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.ocr.org.uk/qualifications/gcse/ — verified 2026-08-18, spot-re-verified 2026-08-18 (v1.0 WS3)',
     codes: OCR_GCSE_CODES,
-    notes: 'OCR is a real board offering these GCSE subjects, but Marlbridge does not offer OCR. Kept FUTURE so OCR stays modelled but non-public. See syllabuses.ts for verified board summaries.',
+    notes: `${OWNER_TEACHES_ALL} GCSE Chemistry J248 spot-re-verified current (live June 2024 exam-series papers found on ocr.org.uk). See syllabuses.ts for verified board summaries.`,
   }),
   ...rows('ocr', 'a-level', [
     'chemistry', 'physics', 'biology', 'mathematics', 'business', 'economics',
   ], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'FUTURE', evidence: 'none',
-    source: 'https://www.ocr.org.uk/qualifications/as-and-a-level/ — verified 2026-08-18',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.ocr.org.uk/qualifications/as-and-a-level/ — verified 2026-08-18, spot-re-verified 2026-08-18 (v1.0 WS3)',
     codes: OCR_ALEVEL_CODES,
-    notes: "OCR is a real board offering these A Level subjects, but Marlbridge does not offer OCR. Kept FUTURE so OCR stays modelled but non-public. Business H431 is the current code (final first teach September 2025, final assessment summer 2027); OCR's replacement A Level Business (H436) has first teach September 2026 and is not yet current, so it is not recorded here. See syllabuses.ts for verified board summaries.",
+    notes: `${OWNER_TEACHES_ALL} Business H431 is the current code (final first teach September 2025, final assessment summer 2027); OCR's replacement A Level Business (H436) has first teach September 2026, which has not yet begun, so H431 remains current and H436 is deliberately not recorded here. See syllabuses.ts for verified board summaries.`,
   }),
   ...rows('ocr', 'gcse', ['accounting'], {
     boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',

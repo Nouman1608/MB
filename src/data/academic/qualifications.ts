@@ -47,8 +47,8 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     name: 'A Level',
     aliases: ['A Levels', 'GCE A Level', 'IAL', 'International A Level'],
     status: 'offered',
-    offeredByBoards: ['cambridge', 'edexcel', 'aqa'],
-    source: 'https://learnersacademy.com.pk/ (A Levels nav column)',
+    offeredByBoards: ['cambridge', 'edexcel', 'aqa', 'ocr'],
+    source: 'https://learnersacademy.com.pk/ (A Levels nav column); OCR A Level added 2026-08-18 (v1.0 WS3) per owner authorization and ocr.org.uk verification — not from Learners Academy nav.',
   },
   {
     slug: 'as-level',
@@ -64,9 +64,9 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     name: 'GCSE',
     aliases: ['UK GCSE'],
     status: 'offered',
-    offeredByBoards: ['aqa'],
-    source: 'https://www.aqa.org.uk/subjects (AQA qualification catalogue: GCSE / AS / A-level)',
-    notes: 'RECLASSIFIED from IGCSE — see CONFLICT-01 in matrix.ts: Learners Academy labelled these "IGCSE" but the codes are AQA GCSE codes; AQA offers no IGCSE. Marked offered 2026-08-18 per Marlbridge business decision to teach all represented boards/qualifications.',
+    offeredByBoards: ['aqa', 'ocr'],
+    source: 'https://www.aqa.org.uk/subjects (AQA qualification catalogue: GCSE / AS / A-level); https://www.ocr.org.uk/qualifications/gcse/ (OCR GCSE, added 2026-08-18, v1.0 WS3)',
+    notes: 'RECLASSIFIED from IGCSE — see CONFLICT-01 in matrix.ts: Learners Academy labelled these "IGCSE" but the codes are AQA GCSE codes; AQA offers no IGCSE. Marked offered 2026-08-18 per Marlbridge business decision to teach all represented boards/qualifications. OCR GCSE added 2026-08-18 (v1.0 WS3) per owner authorization and ocr.org.uk verification.',
   },
 ] as const;
 

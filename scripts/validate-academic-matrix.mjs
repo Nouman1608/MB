@@ -145,6 +145,12 @@ console.log(`  Publishable now: ${publishable.length}`);
 // IGCSE/O Level) were confirmed NOT to exist as a distinct qualification and
 // were left NOT_SUPPORTED rather than fabricated. See matrix.ts for full
 // per-row evidence and source URLs.
+//
+// UPDATED 2026-08-18 (v1.0 WS3, OCR revalidation): OCR's 12 GCSE/A-Level
+// rows (already board-verified against ocr.org.uk in a prior session) were
+// spot-re-verified and flipped from marlbridgeStatus FUTURE to ACTIVE under
+// the same owner authorization. boards.ts and qualifications.ts updated to
+// match (OCR board status offered; OCR added to gcse/a-level offeredByBoards).
 // ---------------------------------------------------------------------------
 const APPROVED = [
   'aqa|a-level|accounting',
@@ -244,6 +250,18 @@ const APPROVED = [
   'edexcel|igcse|mathematics',
   'edexcel|igcse|physics',
   'edexcel|igcse|world-history',
+  'ocr|a-level|biology',
+  'ocr|a-level|business',
+  'ocr|a-level|chemistry',
+  'ocr|a-level|economics',
+  'ocr|a-level|mathematics',
+  'ocr|a-level|physics',
+  'ocr|gcse|biology',
+  'ocr|gcse|business',
+  'ocr|gcse|chemistry',
+  'ocr|gcse|economics',
+  'ocr|gcse|mathematics',
+  'ocr|gcse|physics',
 ].sort();
 
 const actual = publishable.map((c) => `${c.boardSlug}|${c.qualificationSlug}|${c.subjectSlug}`).sort();
