@@ -31,15 +31,24 @@ async function readPage(path) {
 // "being verified" placeholder (since no non-Cambridge topic data exists
 // yet in syllabus-topics.ts).
 const CONTAMINATED_PAGES = [
-  'boards/oxfordaqa/a-level/accounting/index.html',
   'boards/oxfordaqa/a-level/chemistry/index.html',
   'boards/oxfordaqa/igcse/chemistry/index.html',
-  'boards/aqa/a-level/accounting/index.html',
   'boards/aqa/a-level/chemistry/index.html',
-  'boards/edexcel/a-level/accounting/index.html',
   'boards/edexcel/a-level/chemistry/index.html',
   'boards/edexcel/igcse/chemistry/index.html',
   'boards/ocr/a-level/chemistry/index.html',
+];
+
+// The 3 Accounting pages above were originally in CONTAMINATED_PAGES too
+// (flagged as suspected Cambridge-leak victims), but since v1.x Accounting
+// taxonomy work they now carry their own real, board-cited topic data (not
+// a Cambridge leak and not the "being verified" placeholder), so they've
+// graduated into their own control group below rather than the binary
+// leak-or-placeholder check that only applies to still-unpublished pages.
+const ACCOUNTING_NOW_PUBLISHED = [
+  { page: 'boards/oxfordaqa/a-level/accounting/index.html', domain: 'oxfordaqa.com', code: '9615' },
+  { page: 'boards/aqa/a-level/accounting/index.html', domain: 'aqa.org.uk', code: '7127' },
+  { page: 'boards/edexcel/a-level/accounting/index.html', domain: 'qualifications.pearson.com', code: 'YAC11' },
 ];
 
 const LEAK_SIGNATURES = ['cambridgeinternational.org', 'Core tier', 'Extended tier', 'Supplement content'];
@@ -73,6 +82,22 @@ const CAMBRIDGE_CONTROLS = [
   { page: 'boards/cambridge/o-level/economics/index.html', code: '2281' },
 ];
 
+console.log('\n[A2] 3 Accounting pages that have since been published with real, board-cited topic data');
+for (const { page, domain, code } of ACCOUNTING_NOW_PUBLISHED) {
+  const html = await readPage(page);
+  if (html === null) continue;
+  const leaks = LEAK_SIGNATURES.filter((sig) => html.includes(sig));
+  if (leaks.length) {
+    fail(`${page} contains Cambridge leak signature(s): ${leaks.join(', ')}`);
+  } else if (!html.includes(domain)) {
+    fail(`${page} does not cite its own board's domain (${domain})`);
+  } else if (!html.includes(code)) {
+    fail(`${page} does not display its own syllabus code '${code}'`);
+  } else {
+    ok(`${page} — real, own-board topic data intact (code ${code} present, ${domain} cited)`);
+  }
+}
+
 console.log('\n[B] Cambridge\'s own pages (correct controls) still show real Cambridge topic data');
 for (const { page, code } of CAMBRIDGE_CONTROLS) {
   const html = await readPage(page);
@@ -91,5 +116,5 @@ if (problems) {
   console.error(`CROSS-BOARD REGRESSION TEST FAILED — ${problems} problem(s).`);
   process.exit(1);
 } else {
-  console.log(`Cross-board regression test OK — ${CONTAMINATED_PAGES.length} previously-flagged pages clean, ${CAMBRIDGE_CONTROLS.length} control pages intact.`);
+  console.log(`Cross-board regression test OK — ${CONTAMINATED_PAGES.length} previously-flagged pages clean, ${ACCOUNTING_NOW_PUBLISHED.length} graduated Accounting pages intact, ${CAMBRIDGE_CONTROLS.length} control pages intact.`);
 }

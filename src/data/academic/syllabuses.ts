@@ -889,6 +889,27 @@ export const SYLLABUSES: readonly Syllabus[] = [
     notes: 'For first teaching from September 2015. Two subject-content sections: individuals, firms, markets and market failure (microeconomics); and the national and international economy (macroeconomics).',
   },
 
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'accounting',
+    officialTitle: 'Cambridge IGCSE Accounting (0452)',
+    code: '0452',
+    boardSummary:
+      'Cambridge IGCSE Accounting is accepted by universities and employers as proof of an understanding of the theory and concepts of accounting, and the ways in which accounting is used in a variety of modern economic and business contexts. Learners focus on the skills of recording, reporting, presenting and interpreting financial information.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-accounting-0452/',
+    verifiedOn: '2026-08-19',
+    notes: 'Version 2 syllabus, valid for exams in 2026 only (June, November, and March in India) — a single-year series that should be re-checked for a successor when next touched.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'accounting',
+    officialTitle: 'Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (YAC11 / XAC11)',
+    code: 'YAC11',
+    boardSummary:
+      'Students develop an understanding of the importance of effective accounting information systems, the purposes, principles, concepts and techniques of accounting, and transferable skills of numeracy, communication, ICT, application, presentation, interpretation, analysis and evaluation in an accounting context.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/accounting-2015.html',
+    verifiedOn: '2026-08-19',
+    notes: 'International Advanced Subsidiary code XAC11 (Unit 1 only); International Advanced Level code YAC11 (Unit 1 + Unit 2). Specification is Issue 2, reissued September 2018, first teaching September 2015, 100% externally assessed with January/June/October series.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>

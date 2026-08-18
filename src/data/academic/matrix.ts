@@ -248,7 +248,7 @@ export const MATRIX: readonly Combination[] = [
     'mathematics', 'physics', 'urdu-language',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
-    source: `${LA}/a-levels/edexcel/`, codes: { chemistry: 'YCH11', physics: 'YPH11', mathematics: 'YMA01', biology: 'YBI11', business: 'YBS11', economics: 'YEC11' },
+    source: `${LA}/a-levels/edexcel/`, codes: { chemistry: 'YCH11', physics: 'YPH11', mathematics: 'YMA01', biology: 'YBI11', business: 'YBS11', economics: 'YEC11', accounting: 'YAC11' },
     notes: `${OWNER_TEACHES_ALL} Edexcel A Level here is International A Level (IAL).`,
   }),
 
