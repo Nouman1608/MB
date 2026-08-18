@@ -224,6 +224,44 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 6, name: 'Space physics', slug: 'space-physics', subtopics: [] },
     ],
   },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'biology',
+    syllabusCode: '5090', syllabusSeries: '2026-2028',
+    effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697330-2026-2028-syllabus.pdf', verifiedDate: '2026-08-18',
+    notes: 'NOT tiered - single set of outcomes for every candidate (Paper 1 + Paper 2 + a practical paper, all externally assessed, no Core/Extended split), matching the pattern already verified for Chemistry 5070, Physics 5054 and Mathematics 4024. Phase 15: first Biology taxonomy entry. Topics 1 (Cells), 4 (Biological molecules) and 5 (Enzymes) verified in full against the syllabus PDF and given full resource coverage. Topics 2-3 and 6-19 are recorded here as name-only (verified from the official content overview) pending subtopic-level research in a later phase.',
+    topics: [
+      { number: 1, name: 'Cells', slug: 'cells', subtopics: [
+        { number: '1.1', name: 'Cell structure and function', slug: 'cell-structure-and-function' },
+        { number: '1.2', name: 'Specialised cells, tissues and organs', slug: 'specialised-cells-tissues-and-organs' },
+      ] },
+      { number: 2, name: 'Classification', slug: 'classification', subtopics: [] },
+      { number: 3, name: 'Movement into and out of cells', slug: 'movement-into-and-out-of-cells', subtopics: [] },
+      { number: 4, name: 'Biological molecules', slug: 'biological-molecules', subtopics: [
+        { number: '4.1', name: 'Biological molecules', slug: 'biological-molecules-content' },
+      ] },
+      { number: 5, name: 'Enzymes', slug: 'enzymes', subtopics: [
+        { number: '5.1', name: 'Enzyme action', slug: 'enzyme-action' },
+        { number: '5.2', name: 'Effects of temperature and pH', slug: 'effects-of-temperature-and-ph' },
+      ] },
+      { number: 6, name: 'Plant nutrition', slug: 'plant-nutrition', subtopics: [] },
+      { number: 7, name: 'Transport in flowering plants', slug: 'transport-in-flowering-plants', subtopics: [] },
+      { number: 8, name: 'Human nutrition', slug: 'human-nutrition', subtopics: [] },
+      { number: 9, name: 'Human gas exchange', slug: 'human-gas-exchange', subtopics: [] },
+      { number: 10, name: 'Respiration', slug: 'respiration', subtopics: [] },
+      { number: 11, name: 'Transport in humans', slug: 'transport-in-humans', subtopics: [] },
+      { number: 12, name: 'Disease and immunity', slug: 'disease-and-immunity', subtopics: [] },
+      { number: 13, name: 'Excretion', slug: 'excretion', subtopics: [] },
+      { number: 14, name: 'Coordination and control', slug: 'coordination-and-control', subtopics: [] },
+      { number: 15, name: 'Coordination and response in plants', slug: 'coordination-and-response-in-plants', subtopics: [] },
+      { number: 16, name: 'Development of organisms and continuity of life', slug: 'development-of-organisms-and-continuity-of-life', subtopics: [] },
+      { number: 17, name: 'Inheritance', slug: 'inheritance', subtopics: [] },
+      { number: 18, name: 'Biotechnology and genetic modification', slug: 'biotechnology-and-genetic-modification', subtopics: [] },
+      { number: 19, name: 'Relationships of organisms with one another and with the environment', slug: 'relationships-of-organisms-with-one-another-and-with-the-environment', subtopics: [] },
+    ],
+  },
 ] as const;
 
 /**
