@@ -51,6 +51,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     notes: 'Cambridge publishes 9701 as a combined AS & A Level syllabus. Marlbridge treats AS Level as a distinct qualification; AS provision is not yet an approved Marlbridge offering.',
   },
   {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'physics',
+    officialTitle: 'Cambridge International AS & A Level Physics (9702)',
+    code: '9702',
+    boardSummary:
+      'Cambridge International AS & A Level Physics develops a set of transferable skills including handling data, practical problem-solving, and applying the scientific method.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/view/cambridge-international-as-and-a-level-physics-9702/',
+    verifiedOn: '2026-08-18',
+    notes: 'Cambridge publishes 9702 as a combined AS & A Level syllabus (AS Level topics 1-11, A Level topics 12-25), the same structure as 9701 Chemistry. Marlbridge treats AS Level as a distinct qualification; AS provision is not yet an approved Marlbridge offering.',
+  },
+  {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'physics',
     officialTitle: 'Cambridge O Level Physics (5054)',
     code: '5054',
