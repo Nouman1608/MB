@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:30:03.477Z",
+  "generatedAt": "2026-08-18T19:42:19.407Z",
   "rowCount": 139,
   "rows": [
     {
@@ -3811,12 +3811,12 @@
       "subjectSlug": "physics",
       "specCode": "J249",
       "specStatus": "verified",
-      "specApplicability": "NO_DATA",
+      "specApplicability": "2016-ongoing",
       "officialSource1": "https://www.ocr.org.uk/qualifications/gcse/physics-a-gateway-science-j249-from-2016/",
-      "officialSource2": "NO_DATA",
+      "officialSource2": "https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf",
       "verificationDate": "2026-08-18",
       "summaryStatus": "published",
-      "topicMapStatus": "being-verified",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -3839,7 +3839,7 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
-      "risks": "no-topic-map;zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
+      "risks": "zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Write a first resource for this combination."
     },
     {

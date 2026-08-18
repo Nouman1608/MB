@@ -504,6 +504,54 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
     ],
   },
+
+  {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'physics',
+    syllabusCode: 'J249', syllabusSeries: 'For first teaching 2016',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: true,
+    source: 'OCR -- official GCSE (9-1) Physics A (Gateway Science) J249 specification (accredited PDF, version 5.0)',
+    sourceUrl: 'https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf', verifiedDate: '2026-08-19',
+    notes: "OCR GCSE (9-1) Physics A (Gateway Science) (J249), first teaching September 2016. Tiered (Foundation and Higher tier papers). Content is divided into eight teaching topics P1-P8 plus a ninth practical-skills topic, P9, which is not separately content-assessed but underpins the 15% practical-skills component woven through the written papers. All 8 content topics and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Matter', slug: 'matter-ocr-gcse', subtopics: [
+        { number: 'P1.1', name: 'The particle model', slug: 'the-particle-model-ocr-gcse' },
+        { number: 'P1.2', name: 'Changes of state', slug: 'changes-of-state-ocr-gcse' },
+        { number: 'P1.3', name: 'Pressure', slug: 'pressure-ocr-gcse' },
+      ] },
+      { number: 2, name: 'Forces', slug: 'forces-ocr-gcse', subtopics: [
+        { number: 'P2.1', name: 'Motion', slug: 'motion-ocr-gcse' },
+        { number: 'P2.2', name: "Newton's laws", slug: 'newtons-laws-ocr-gcse' },
+        { number: 'P2.3', name: 'Forces in action', slug: 'forces-in-action-ocr-gcse' },
+      ] },
+      { number: 3, name: 'Electricity', slug: 'electricity-ocr-gcse', subtopics: [
+        { number: 'P3.1', name: 'Static and charge', slug: 'static-and-charge-ocr-gcse' },
+        { number: 'P3.2', name: 'Simple circuits', slug: 'simple-circuits-ocr-gcse' },
+      ] },
+      { number: 4, name: 'Magnetism and magnetic fields', slug: 'magnetism-and-magnetic-fields-ocr-gcse', subtopics: [
+        { number: 'P4.1', name: 'Magnets and magnetic fields', slug: 'magnets-and-magnetic-fields-ocr-gcse' },
+        { number: 'P4.2', name: 'Uses of magnetism', slug: 'uses-of-magnetism-ocr-gcse' },
+      ] },
+      { number: 5, name: 'Waves in matter', slug: 'waves-in-matter-ocr-gcse', subtopics: [
+        { number: 'P5.1', name: 'Wave behaviour', slug: 'wave-behaviour-ocr-gcse' },
+        { number: 'P5.2', name: 'The electromagnetic spectrum', slug: 'the-electromagnetic-spectrum-ocr-gcse' },
+        { number: 'P5.3', name: 'Wave interaction', slug: 'wave-interaction-ocr-gcse' },
+      ] },
+      { number: 6, name: 'Radioactivity', slug: 'radioactivity-ocr-gcse', subtopics: [
+        { number: 'P6.1', name: 'Radioactive emissions', slug: 'radioactive-emissions-ocr-gcse' },
+        { number: 'P6.2', name: 'Uses and hazards', slug: 'uses-and-hazards-ocr-gcse' },
+      ] },
+      { number: 7, name: 'Energy', slug: 'energy-ocr-gcse', subtopics: [
+        { number: 'P7.1', name: 'Work done', slug: 'work-done-ocr-gcse' },
+        { number: 'P7.2', name: 'Power and efficiency', slug: 'power-and-efficiency-ocr-gcse' },
+      ] },
+      { number: 8, name: 'Global challenges', slug: 'global-challenges-ocr-gcse', subtopics: [
+        { number: 'P8.1', name: 'Physics on the move', slug: 'physics-on-the-move-ocr-gcse' },
+        { number: 'P8.2', name: 'Powering Earth', slug: 'powering-earth-ocr-gcse' },
+        { number: 'P8.3', name: 'Beyond Earth', slug: 'beyond-earth-ocr-gcse' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**
