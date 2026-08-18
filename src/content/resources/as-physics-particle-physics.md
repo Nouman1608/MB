@@ -144,6 +144,7 @@ of β decay
 ## Related resources
 
 - [D.C. Circuits: Kirchhoff's Laws and Potential Dividers](/resources/as-physics-dc-circuits/) — the previous AS topic
+- [Motion in a Circle](/resources/a-physics-motion-in-a-circle/) — the first A Level topic
 - [Cambridge AS & A Level Physics hub](/boards/cambridge/a-level/physics/)
 
 *Written against Cambridge International AS & A Level Physics 9702, 2025–2027
