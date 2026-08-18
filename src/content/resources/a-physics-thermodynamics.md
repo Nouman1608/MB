@@ -130,6 +130,7 @@ approach is needed if pressure changes during the process.
 ## Related resources
 
 - [Ideal Gases](/resources/a-physics-ideal-gases/) — the previous A Level topic
+- [Oscillations](/resources/a-physics-oscillations/) — the next A Level topic
 - [Temperature](/resources/a-physics-temperature/) — specific heat capacity and latent heat, used alongside the first law
 - [Cambridge AS & A Level Physics hub](/boards/cambridge/a-level/physics/)
 
