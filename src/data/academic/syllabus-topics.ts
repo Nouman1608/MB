@@ -172,7 +172,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/662480-2025-2027-syllabus.pdf', verifiedDate: '2026-08-18',
-    notes: 'Official title: Cambridge O Level Mathematics (Syllabus D) 4024. NOT tiered - single set of outcomes for every candidate, unlike IGCSE 0580 which splits Core/Extended. Shares 9 top-level topic NAMES with IGCSE 0580, but subtopic numbering and depth genuinely differ between the two qualifications (verified for Topic 2: 4024 uses one flat Algebra sequence 2.1-2.10; 0580 splits the same territory Core/Extended under a different "C"-prefixed numbering with several Extended-only gaps) - the two are not a like-for-like substitute for each other at subtopic level. Phase 11: Topic 2 subtopics fully verified against the syllabus PDF. Topics 1 and 3-9 are recorded here as name-only (verified from the official content overview) pending subtopic-level research in a later phase.',
+    notes: 'Official title: Cambridge O Level Mathematics (Syllabus D) 4024. NOT tiered - single set of outcomes for every candidate, unlike IGCSE 0580 which splits Core/Extended. Shares 9 top-level topic NAMES with IGCSE 0580, but subtopic numbering and depth genuinely differ between the two qualifications - the two are not a like-for-like substitute for each other at subtopic level. Phase 11 recorded Topic 2 as 2.1-2.10 (an undercount - see Phase 14). Phase 14 re-verified Topic 2 directly against the syllabus PDF and found it actually runs 2.1-2.12 (2.11 Sketching curves and 2.12 Functions were missing); corrected here, and full resource coverage written for 2.4-2.12 (2.1-2.3 were already covered from Phase 11). Topics 1 and 3-9 remain name-only (verified from the official content overview) pending subtopic-level research in a later phase.',
     topics: [
       { number: 1, name: 'Number', slug: 'number', subtopics: [] },
       { number: 2, name: 'Algebra and graphs', slug: 'algebra-and-graphs', subtopics: [
@@ -186,6 +186,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.8', name: 'Proportion', slug: 'proportion' },
         { number: '2.9', name: 'Graphs in practical situations', slug: 'graphs-in-practical-situations' },
         { number: '2.10', name: 'Graphs of functions', slug: 'graphs-of-functions' },
+        { number: '2.11', name: 'Sketching curves', slug: 'sketching-curves' },
+        { number: '2.12', name: 'Functions', slug: 'functions' },
       ] },
       { number: 3, name: 'Coordinate geometry', slug: 'coordinate-geometry', subtopics: [] },
       { number: 4, name: 'Geometry', slug: 'geometry', subtopics: [] },

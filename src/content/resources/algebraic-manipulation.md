@@ -265,14 +265,16 @@ as a perfect square, and as a quadratic trinomial
 - Adding, multiplying, dividing and simplifying algebraic fractions,
 including factorising before cancelling
 
-## Continuing from here
+## Related resources
 
 Once expanding, factorising and completing the square feel automatic, they
-carry straight into **2.5 Equations** — solving quadratic equations by
+carry straight into 2.5 Equations — solving quadratic equations by
 factorisation, by completing the square, and with the quadratic formula all
 build directly on the skills above.
 
-[Cambridge O Level Mathematics subject hub](/subjects/mathematics/)
+- [Indices and Equations](/resources/indices-and-equations/) — subtopics
+2.4-2.5, continuing directly from this page
+- [Cambridge O Level Mathematics subject hub](/subjects/mathematics/)
 
 *Written against Cambridge O Level Mathematics (Syllabus D) 4024, 2025–2027
 series. Always check the current syllabus for your examination year.*
