@@ -13,9 +13,9 @@ faqs:
   - question: "Are Marlbridge's Accounting study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam board does this follow?"
-    answer: "Cambridge Assessment International Education — Cambridge International AS & A Level Accounting, specification 9706."
+    answer: "Cambridge Assessment International Education, Pearson Edexcel, AQA and OxfordAQA."
   - question: "Does Marlbridge teach Accounting?"
-    answer: "Yes. Marlbridge teaches Cambridge International AS & A Level Accounting (syllabus 9706) and publishes free study material for it."
+    answer: "Yes, at IGCSE and A Level. Marlbridge teaches this across Cambridge, Pearson Edexcel, AQA and OxfordAQA — written study material currently focuses on Cambridge International AS & A Level Accounting (syllabus 9706)."
 ---
 
 The Accounting hub gathers the topics, study guides and practice material for

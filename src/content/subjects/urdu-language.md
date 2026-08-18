@@ -13,9 +13,9 @@ faqs:
   - question: "Are Marlbridge's Urdu Language study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam boards does this follow?"
-    answer: "Cambridge Assessment International Education and Pearson Edexcel."
+    answer: "Cambridge Assessment International Education, Pearson Edexcel and OxfordAQA."
   - question: "Does Marlbridge teach Urdu?"
-    answer: "Yes, at IGCSE, O Level and A Level. Marlbridge teaches Cambridge Urdu at IGCSE and O Level, and Pearson Edexcel A Level Urdu."
+    answer: "Yes, at IGCSE, O Level and A Level. Marlbridge teaches Cambridge Urdu at IGCSE and O Level, Pearson Edexcel A Level Urdu, and OxfordAQA International GCSE Urdu (9264) — OxfordAQA offers Urdu at International GCSE only, not at AS or A-level."
 ---
 
 The Urdu Language hub gathers the topics, study guides and practice material for

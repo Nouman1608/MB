@@ -13,9 +13,9 @@ faqs:
   - question: "Are Marlbridge's Biology study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam board does this follow?"
-    answer: "Cambridge Assessment International Education — Cambridge O Level Biology, specification 5090."
+    answer: "Cambridge Assessment International Education, Pearson Edexcel, AQA, OCR and OxfordAQA."
   - question: "Does Marlbridge teach Biology?"
-    answer: "Yes. Marlbridge teaches Cambridge O Level Biology (syllabus 5090) and publishes free study material for it."
+    answer: "Yes, at IGCSE, O Level, GCSE and A Level. Marlbridge teaches this across Cambridge, Pearson Edexcel, AQA, OCR and OxfordAQA — written study material currently focuses on Cambridge O Level Biology (syllabus 5090)."
 ---
 
 The Biology hub gathers the topics, study guides and practice material for

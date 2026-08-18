@@ -13,9 +13,9 @@ faqs:
   - question: "Are Marlbridge's Sociology study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam boards does this follow?"
-    answer: "Cambridge Assessment International Education and AQA."
+    answer: "Cambridge Assessment International Education, AQA and OxfordAQA."
   - question: "Does Marlbridge teach Sociology?"
-    answer: "Yes. Marlbridge teaches Cambridge O Level, IGCSE and A Level Sociology, and AQA GCSE and A Level Sociology."
+    answer: "Yes, at IGCSE, O Level, GCSE and A Level. Marlbridge teaches Cambridge O Level, IGCSE and A Level Sociology, AQA GCSE and A Level Sociology, and OxfordAQA International GCSE (9292) and International A-level (9690) Sociology — both newly launched by OxfordAQA for 2026."
 ---
 
 The Sociology hub gathers the topics, study guides and practice material for

@@ -13,9 +13,9 @@ faqs:
   - question: "Are Marlbridge's Business study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam board does this follow?"
-    answer: "Cambridge Assessment International Education — Cambridge O Level Business Studies, specification 7115."
+    answer: "Cambridge Assessment International Education, Pearson Edexcel, AQA, OCR and OxfordAQA."
   - question: "Does Marlbridge teach Business?"
-    answer: "Yes. Marlbridge teaches Cambridge O Level Business Studies (syllabus 7115) and publishes free study material for it."
+    answer: "Yes, at IGCSE, O Level, GCSE and A Level. Marlbridge teaches this across Cambridge, Pearson Edexcel, AQA, OCR and OxfordAQA — written study material currently focuses on Cambridge O Level Business Studies (syllabus 7115)."
 ---
 
 The Business hub gathers the topics, study guides and practice material for

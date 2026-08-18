@@ -27,8 +27,8 @@
 - [Commerce](https://marlbridge.com/subjects/commerce/): Commerce at IGCSE and O Level, with study material organised by topic.
 - [Computer Science](https://marlbridge.com/subjects/computer-science/): Computer Science at IGCSE · O · A Level, with study material organised by topic.
 - [Economics](https://marlbridge.com/subjects/economics/): Economics at O · A Level, with study material organised by topic.
-- [English Literature](https://marlbridge.com/subjects/english-literature/): English Literature at IGCSE, GCSE and A Level, across Cambridge, Pearson Edexcel and AQA.
-- [English](https://marlbridge.com/subjects/english/): English at IGCSE · O · A Level, with study material organised by topic.
+- [English Literature](https://marlbridge.com/subjects/english-literature/): English Literature at IGCSE, GCSE and A Level, across Cambridge, Pearson Edexcel, AQA and OxfordAQA.
+- [English](https://marlbridge.com/subjects/english/): English Language at IGCSE, O Level, GCSE and A Level, across Cambridge, Pearson Edexcel, AQA and OxfordAQA.
 - [Environmental Management](https://marlbridge.com/subjects/environmental-management/): Environmental Management at IGCSE and O Level, with study material organised by topic.
 - [Geography](https://marlbridge.com/subjects/geography/): Geography at IGCSE, O Level and A Level, with study material organised by topic.
 - [Global Perspectives](https://marlbridge.com/subjects/global-perspectives/): Global Perspectives at IGCSE and A Level, with study material organised by topic.

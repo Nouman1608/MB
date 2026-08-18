@@ -13,9 +13,9 @@ faqs:
   - question: "Are Marlbridge's Physics study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam board does this follow?"
-    answer: "Cambridge Assessment International Education — Cambridge O Level Physics, specification 5054."
+    answer: "Cambridge Assessment International Education, Pearson Edexcel, AQA, OCR and OxfordAQA."
   - question: "Does Marlbridge teach Physics?"
-    answer: "Yes. Marlbridge teaches Cambridge O Level Physics (syllabus 5054) and publishes free study material for it."
+    answer: "Yes, at IGCSE, O Level, GCSE and A Level. Marlbridge teaches this across Cambridge, Pearson Edexcel, AQA, OCR and OxfordAQA — written study material currently focuses on Cambridge O Level Physics (syllabus 5054)."
 ---
 
 The Physics hub gathers the topics, study guides and practice material for

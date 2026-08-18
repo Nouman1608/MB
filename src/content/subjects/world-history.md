@@ -13,9 +13,9 @@ faqs:
   - question: "Are Marlbridge's World History study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
   - question: "Which exam boards does this follow?"
-    answer: "Cambridge Assessment International Education, Pearson Edexcel and AQA."
+    answer: "Cambridge Assessment International Education, Pearson Edexcel, AQA and OxfordAQA."
   - question: "Does Marlbridge teach World History?"
-    answer: "Yes. Marlbridge teaches Cambridge O Level, IGCSE and A Level World History, Pearson Edexcel IGCSE World History, and AQA GCSE World History."
+    answer: "Yes, at IGCSE, O Level, GCSE and A Level. Marlbridge teaches Cambridge O Level, IGCSE and A Level World History, Pearson Edexcel IGCSE World History, AQA GCSE World History, and OxfordAQA International GCSE History (9245) — newly launched by OxfordAQA for 2026."
 ---
 
 The World History hub gathers the topics, study guides and practice material for
