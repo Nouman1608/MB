@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T17:51:39.361Z",
+  "generatedAt": "2026-08-18T17:56:42.636Z",
   "rowCount": 139,
   "rows": [
     {
@@ -418,7 +418,7 @@
       "summaryStatus": "published",
       "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
-      "studyGuideCount": 21,
+      "studyGuideCount": 25,
       "revisionNoteCount": 0,
       "pastPaperCount": 0,
       "practiceQuestionCount": 0,
@@ -429,7 +429,7 @@
       "flashcardCount": 0,
       "videoCount": 0,
       "diagnosticCount": 0,
-      "totalResourceCount": 21,
+      "totalResourceCount": 25,
       "namedAuthor": "Marlbridge Academic Team (organisation byline — see v1.2 WS7)",
       "namedReviewer": "NO_DATA",
       "lastReview": "2026-08-18",
