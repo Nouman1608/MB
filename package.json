@@ -5,11 +5,12 @@
   "private": true,
   "scripts": {
     "setup:routes": "node scripts/setup-routes.mjs",
-    "dev": "npm run setup:routes && npm run generate:redirects && npm run validate:academic && astro dev",
-    "build": "npm run setup:routes && npm run generate:redirects && npm run validate:academic && astro build",
+    "dev": "npm run setup:routes && npm run generate:redirects && npm run generate:llms && npm run validate:academic && astro dev",
+    "build": "npm run setup:routes && npm run generate:redirects && npm run generate:llms && npm run validate:academic && astro build",
     "preview": "astro preview",
     "check": "astro check",
     "generate:redirects": "node scripts/generate-redirects.mjs",
+    "generate:llms": "node scripts/generate-llms-txt.mjs",
     "validate:academic": "node scripts/validate-academic-matrix.mjs && node scripts/validate-academic-content.mjs && node scripts/validate-commercial-claims.mjs",
     "coverage:academic": "node scripts/academic-coverage-dashboard.mjs"
   },
