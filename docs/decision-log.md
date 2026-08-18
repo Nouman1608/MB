@@ -113,20 +113,16 @@ Status values: `answered` (owner has responded, implemented), `open`
   dates bumped to 18 August 2026.
 - **Implementation consequence:** `site.analytics.ga4MeasurementId` in
   `src/data/site.ts` holds the public Measurement ID. Verified present in
-  built HTML (`gtag/js?id=G-TB89R669JL`) after `npm run build`. Search
-  Console and Bing verification were NOT addressed in this pass — the
-  owner said both are "connected" but the verification method (meta tag,
-  DNS record, or XML file upload) was never specified, and no
-  corresponding meta tag or file exists anywhere in this repository. If
-  verification was done at the DNS level or directly in each console
-  without a site-side artifact, no repo change is needed and this can be
-  closed as-is; if a meta tag or file is required, that specific value is
-  still needed from the owner.
-- **Follow-up required:** Confirm whether Search Console/Bing
-  verification needs a repo-side artifact (meta tag/file) or was
-  completed entirely at the DNS/console level with nothing to add here.
-- **Status:** implemented (GA4); open (Search Console/Bing verification
-  method still unconfirmed).
+  built HTML (`gtag/js?id=G-TB89R669JL`) after `npm run build`. Owner
+  confirmed on 2026-08-18 that Search Console is verified via a DNS TXT
+  record and Bing Webmaster Tools via a DNS CNAME record pointing to
+  `verify.bing.com` — both verified entirely at the Cloudflare DNS level,
+  outside this repository. No meta tag or verification file is needed in
+  the codebase, and none was added.
+- **Follow-up required:** None. If either service is ever re-verified
+  using a different method (meta tag or file upload instead of DNS),
+  that would need a small repo change at that time.
+- **Status:** implemented (GA4, Search Console, Bing — all closed).
 
 ---
 
