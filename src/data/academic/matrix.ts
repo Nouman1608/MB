@@ -109,6 +109,10 @@ const OWNER_TEACHES_ALL =
 const AQA_GCSE_CODES: Record<string, string> = {
   biology: '8461', chemistry: '8462', business: '8132',
   'english-language': '8700', 'world-history': '8145', mathematics: '8300',
+  // Verified 2026-08-18 (v1.0 WS5) — previously flagged "NOT yet
+  // individually verified" and left out of this object entirely, meaning
+  // these four ACTIVE rows had no code recorded at all.
+  economics: '8136', physics: '8463', psychology: '8182', sociology: '8192',
 };
 
 const AQA_ALEVEL_CODES: Record<string, string> = {
@@ -268,7 +272,7 @@ export const MATRIX: readonly Combination[] = [
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
     source: `${AQA}/subjects (AQA qualification list: GCSE / AS / A-level only)`,
     codes: AQA_GCSE_CODES,
-    notes: 'RECLASSIFIED from IGCSE to GCSE. AQA offers no IGCSE. Codes verified from AQA where shown; economics, physics, psychology, sociology GCSE codes NOT yet individually verified — confirm before publishing.',
+    notes: 'RECLASSIFIED from IGCSE to GCSE. AQA offers no IGCSE. All ten codes verified directly at aqa.org.uk 2026-08-18 (v1.0 WS5) — economics (8136), physics (8463), psychology (8182) and sociology (8192) were previously unverified and are now confirmed live specification codes, closing a gap flagged in an earlier session.',
   }),
 
   // AQA IGCSE — explicitly not supported, so nobody re-adds it later.
@@ -294,8 +298,8 @@ export const MATRIX: readonly Combination[] = [
   // verified). Whether Marlbridge or LA teaches AS distinctly is unconfirmed.
   ...rows('aqa', 'as-level', ['business'], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
-    source: `${AQA}/subjects/business`, codes: { business: '7131 / 7137' },
-    notes: 'Board offers AS as a distinct qualification. Marlbridge/LA AS provision UNKNOWN. Representative row — AS exists across most AQA subjects.',
+    source: `${AQA}/subjects/business — verified 2026-08-18 (v1.0 WS5)`, codes: { business: '7131 / 7137' },
+    notes: `${OWNER_TEACHES_ALL} Board offers AS as a distinct qualification. Representative row — AS exists across most AQA subjects.`,
   }),
 
   // =========================================================================

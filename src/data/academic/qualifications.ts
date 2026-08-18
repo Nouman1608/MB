@@ -29,9 +29,9 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     name: 'IGCSE',
     aliases: ['International GCSE'],
     status: 'offered',
-    offeredByBoards: ['cambridge', 'edexcel', 'aqa', 'oxfordaqa'],
+    offeredByBoards: ['cambridge', 'edexcel', 'oxfordaqa'],
     source: 'https://learnersacademy.com.pk/ (IGCSE nav column); OxfordAQA International GCSE added 2026-08-18 (v1.0 WS4) per owner authorization and oxfordaqa.com verification.',
-    notes: 'See CONFLICT-01: the AQA IGCSE grouping is contradicted by the syllabus codes quoted on subject pages (this is plain "aqa", distinct from "oxfordaqa" — never merge the two).',
+    notes: 'FIXED 2026-08-18 (v1.0 WS5): removed plain "aqa" from this list — it was a pre-existing data-model bug. AQA (UK) offers no IGCSE at all (see CONFLICT-01 in matrix.ts, and the explicit aqa|igcse NOT_SUPPORTED rows there); the "IGCSE" grouping Learners Academy used for AQA subjects is contradicted by the syllabus codes, which are AQA GCSE codes. Leaving "aqa" in this list meant the build-time rule 7 check (a qualification-offering combination is only ACTIVE-eligible if the board is listed here) could not have caught a future accidental aqa|igcse ACTIVE row. "oxfordaqa" (OxfordAQA International GCSE) is correct and distinct — never conflate the two despite the shared "AQA" name.',
   },
   {
     slug: 'o-level',

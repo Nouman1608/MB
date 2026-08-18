@@ -84,6 +84,63 @@ for (const [i, c] of MATRIX.entries()) {
   }
 }
 
+// ---------------------------------------------------------------------------
+// EXPLICIT NEGATIVE VALIDATORS (v1.0 WS5, 2026-08-18)
+//
+// Defense in depth: rule 7 above already blocks any ACTIVE row whose board
+// isn't listed in that qualification's offeredByBoards (see qualifications.ts).
+// This section hardcodes the specific forbidden board+qualification pairs
+// named in the MARLBRIDGE v1.0 master directive directly, so a future edit
+// to qualifications.ts's offeredByBoards arrays cannot silently reopen one
+// of these — this list must independently agree with that data, not merely
+// depend on it. (This exact category of gap was found and fixed in this
+// same commit: qualifications.ts previously listed "aqa" as offering
+// "igcse", which would have silently defeated rule 7 for that one pair.)
+// ---------------------------------------------------------------------------
+const FORBIDDEN_COMBINATIONS = [
+  ['aqa', 'igcse'], ['aqa', 'o-level'],
+  ['ocr', 'igcse'], ['ocr', 'o-level'],
+  ['oxfordaqa', 'o-level'], ['oxfordaqa', 'gcse'],
+];
+for (const c of MATRIX) {
+  if (c.marlbridgeStatus !== 'ACTIVE') continue;
+  for (const [board, qual] of FORBIDDEN_COMBINATIONS) {
+    if (c.boardSlug === board && c.qualificationSlug === qual) {
+      errors.push(`row (${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}): FORBIDDEN combination — "${board}" does not offer "${qual}" under any circumstance; this can never be ACTIVE.`);
+    }
+  }
+}
+
+// AQA / OxfordAQA are separate boards that happen to share a name — a
+// syllabus code recorded under one must never also appear recorded under
+// the other, since that would be exactly the kind of silent cross-board
+// mislabelling the master directive calls out by name.
+{
+  const aqaCodes = new Set();
+  const oxfordaqaCodes = new Set();
+  for (const c of MATRIX) {
+    if (!c.qualificationCode) continue;
+    const codes = c.qualificationCode.split('/').map((s) => s.trim()).filter(Boolean);
+    if (c.boardSlug === 'aqa') for (const code of codes) aqaCodes.add(code);
+    if (c.boardSlug === 'oxfordaqa') for (const code of codes) oxfordaqaCodes.add(code);
+  }
+  for (const code of aqaCodes) {
+    if (oxfordaqaCodes.has(code)) errors.push(`AQA/OxfordAQA code cross-leakage: "${code}" is recorded under both boards — a code belongs to exactly one board.`);
+  }
+}
+
+// A publicly-published (ACTIVE) combination with board/marlbridge-tier
+// evidence must carry a dated source, not just a bare URL — otherwise
+// there is no way to tell a fact was ever actually re-checked.
+const YEAR = /\b20\d{2}\b/;
+for (const c of MATRIX) {
+  if (c.marlbridgeStatus !== 'ACTIVE') continue;
+  if (c.evidence !== 'board' && c.evidence !== 'marlbridge') continue;
+  if (!YEAR.test(c.source ?? '') && !YEAR.test(c.notes ?? '')) {
+    errors.push(`row (${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}): ACTIVE with ${c.evidence}-tier evidence but no verification date (a 4-digit year) found in source or notes.`);
+  }
+}
+
 if (errors.length) {
   console.error(`\nAcademic matrix validation FAILED — ${errors.length} problem(s):\n`);
   for (const e of errors) console.error(`  • ${e}`);
