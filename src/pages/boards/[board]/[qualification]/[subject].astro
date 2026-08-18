@@ -88,7 +88,7 @@ const articles = await relatedArticles({ subject: hubSlug, limit: 3 });
  * Marlbridge resource coverage is computed per topic so the page can state
  * plainly which topics we have material for — and which we do not.
  */
-const syllabusTopics = topicsFor(c.qualificationSlug, c.subjectSlug);
+const syllabusTopics = topicsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
 const coverage = (syllabusTopics?.topics ?? []).map((t) => ({
   topic: t,
   resources: resources.filter((r) =>
@@ -193,7 +193,7 @@ const jsonLd = [courseNode({
             The {syllabusTopics.topics.length} topics below are the official subject content of
             <strong class="font-semibold text-navy-800"> {syllabus?.officialTitle ?? `${c.board} ${c.qualification} ${c.subject}`}</strong>,
             for the {syllabusTopics.syllabusSeries} examination series, reproduced from the
-            <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> Cambridge syllabus document</a>.
+            <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> {c.board} syllabus document</a>.
           </p>
           <p class="m-0 mb-[clamp(24px,3vw,40px)] max-w-[70ch] text-[15.5px] leading-[1.6] text-ink-mute">
             A topic listed here is part of the syllabus. It does <strong class="font-semibold text-navy-800">not</strong> mean

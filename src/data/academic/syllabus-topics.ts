@@ -352,9 +352,21 @@ export const KNOWN_OTHER_SERIES = [
  * compatibility with call sites written before Phase 11; every new call
  * site should pass both arguments explicitly.
  */
-export const topicsFor = (qualificationSlug: string, subjectSlug: string = 'chemistry'): SyllabusVersion | undefined =>
+/**
+ * v1.2 WS1 fix: this MUST be keyed by board, not just qualification+subject.
+ * Before this fix, topicsFor('a-level', 'chemistry') returned Cambridge's
+ * 9701 topic list for every board sharing that qualification+subject pair
+ * -- so OCR, AQA, Pearson Edexcel and OxfordAQA A-level Chemistry pages all
+ * silently rendered Cambridge's topic list, tiering language and syllabus
+ * PDF citation as if it were their own official content. Every entry in
+ * this file is Cambridge-only today (see file header), so requiring an
+ * exact boardSlug match means a non-Cambridge page now correctly gets no
+ * match -- and the template's existing honest "being verified" fallback
+ * takes over -- instead of silently inheriting Cambridge's data.
+ */
+export const topicsFor = (boardSlug: string, qualificationSlug: string, subjectSlug: string = 'chemistry'): SyllabusVersion | undefined =>
   SYLLABUS_VERSIONS.find((s) =>
-    s.qualificationSlug === qualificationSlug && s.subjectSlug === subjectSlug && s.status === 'current');
+    s.boardSlug === boardSlug && s.qualificationSlug === qualificationSlug && s.subjectSlug === subjectSlug && s.status === 'current');
 
 /** Back-compat alias. */
 export const SYLLABUS_TOPICS = SYLLABUS_VERSIONS;
