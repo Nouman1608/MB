@@ -30,6 +30,7 @@ import { topicsFor, hasStages } from '../../../../data/academic/syllabus-topics'
 import { getResources } from '../../../../utils/content/collections';
 import { relatedArticles } from '../../../../utils/content/related';
 import { courseNode } from '../../../../utils/schema/course';
+import { enrolmentOpenFor } from '../../../../utils/content/status';
 import { routes } from '../../../../utils/urls/routes';
 
 export async function getStaticPaths() {
@@ -141,6 +142,29 @@ const jsonLd = [courseNode({
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Board </dt><dd class="m-0 inline text-ink-mute"><a href={boardPath(c.boardSlug)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.board}</a></dd></div>
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification </dt><dd class="m-0 inline text-ink-mute"><a href={levelPath(c.qualificationSlug)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.qualification}</a></dd></div>
   </dl>
+
+  {/*
+    v1.2 WS10 — a concise, answer-first "at a glance" box near the top of
+    every leaf page, covering exactly the questions a reader (or an AI
+    system extracting an answer) asks first: what qualification is this,
+    what's its spec code, does Marlbridge teach it, are resources
+    available, is enrolment open, and where was this verified. Every value
+    is read from real data already computed above (syllabus, resources,
+    enrolmentOpenFor) -- nothing here is new copy invented for this box.
+  */}
+  <Section surface="ivory" labelledby="at-a-glance-heading" spacing="md" border>
+    <Container>
+      <h2 id="at-a-glance-heading" class="sr-only">At a glance</h2>
+      <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{c.board} {c.qualification} {c.subject}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">Yes</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
+      </dl>
+    </Container>
+  </Section>
 
   <Section surface="white">
     <Container>
