@@ -14,6 +14,8 @@
  * 5070 is not. 9701 is a different structure again, with AS and A Level stages
  * kept distinct by stage-qualified slugs.
  */
+import type { BoardSlug } from './boards';
+
 export type SyllabusStatus = 'current' | 'future' | 'superseded';
 
 export interface Subtopic {
@@ -44,7 +46,7 @@ export interface SyllabusTopic {
 }
 
 export interface SyllabusVersion {
-  boardSlug: 'cambridge';
+  boardSlug: BoardSlug;
   qualificationSlug: string;
   /**
    * Phase 11: widened from the literal 'chemistry' to any registered
@@ -363,6 +365,25 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 23, name: 'Nuclear physics', slug: 'a-nuclear-physics', stage: 'A', subtopics: [{ number: '23.1', name: 'Mass defect and nuclear binding energy', slug: 'a-mass-defect-and-nuclear-binding-energy' }, { number: '23.2', name: 'Radioactive decay', slug: 'a-radioactive-decay' }] },
       { number: 24, name: 'Medical physics', slug: 'a-medical-physics', stage: 'A', subtopics: [{ number: '24.1', name: 'Production and use of ultrasound', slug: 'a-production-and-use-of-ultrasound' }, { number: '24.2', name: 'Production and use of X-rays', slug: 'a-production-and-use-of-x-rays' }, { number: '24.3', name: 'PET scanning', slug: 'a-pet-scanning' }] },
       { number: 25, name: 'Astronomy and cosmology', slug: 'a-astronomy-and-cosmology', stage: 'A', subtopics: [{ number: '25.1', name: 'Standard candles', slug: 'a-standard-candles' }, { number: '25.2', name: 'Stellar radii', slug: 'a-stellar-radii' }, { number: '25.3', name: 'Hubble\'s law and the Big Bang theory', slug: 'a-hubbles-law-and-the-big-bang-theory' }] },
+    ],
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'physics',
+    syllabusCode: '4PH1', syllabusSeries: 'Issue 4',
+    effectiveFrom: '2017', effectiveTo: '2027', status: 'current',
+    tiered: false,
+    source: 'Pearson Edexcel -- official International GCSE Physics specification PDF',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Physics/2017/specification-and-sample-assessments/international-gcse-physics-2017-specification.pdf', verifiedDate: '2026-08-18',
+    notes: 'Pearson Edexcel International GCSE in Physics (4PH1), first teaching September 2017, Issue 4 (September 2024). Untiered -- assessed across two papers (1P core content, 2P all content including bold "P" statements). Subtopics use the specification\'s own lettered sub-headings (a, b, c, d), not numbered x.y like Cambridge, since that is how Pearson itself structures this document.',
+    topics: [
+      { number: 1, name: 'Forces and motion', slug: 'forces-and-motion', subtopics: [{ number: '1a', name: 'Units', slug: 'units-forces-and-motion' }, { number: '1b', name: 'Movement and position', slug: 'movement-and-position' }, { number: '1c', name: 'Forces, movement, shape and momentum', slug: 'forces-movement-shape-and-momentum' }] },
+      { number: 2, name: 'Electricity', slug: 'electricity', subtopics: [{ number: '2a', name: 'Units', slug: 'units-electricity' }, { number: '2b', name: 'Mains electricity', slug: 'mains-electricity' }, { number: '2c', name: 'Energy and voltage in circuits', slug: 'energy-and-voltage-in-circuits' }, { number: '2d', name: 'Electric charge', slug: 'electric-charge' }] },
+      { number: 3, name: 'Waves', slug: 'waves', subtopics: [{ number: '3a', name: 'Units', slug: 'units-waves' }, { number: '3b', name: 'Properties of waves', slug: 'properties-of-waves' }, { number: '3c', name: 'The electromagnetic spectrum', slug: 'the-electromagnetic-spectrum' }, { number: '3d', name: 'Light and sound', slug: 'light-and-sound' }] },
+      { number: 4, name: 'Energy resources and energy transfers', slug: 'energy-resources-and-energy-transfers', subtopics: [{ number: '4a', name: 'Units', slug: 'units-energy-resources' }, { number: '4b', name: 'Energy transfers', slug: 'energy-transfers' }, { number: '4c', name: 'Work and power', slug: 'work-and-power' }, { number: '4d', name: 'Energy resources and electricity generation', slug: 'energy-resources-and-electricity-generation' }] },
+      { number: 5, name: 'Solids, liquids and gases', slug: 'solids-liquids-and-gases-edexcel', subtopics: [{ number: '5a', name: 'Units', slug: 'units-solids-liquids-and-gases' }, { number: '5b', name: 'Density and pressure', slug: 'density-and-pressure' }, { number: '5c', name: 'Change of state', slug: 'change-of-state' }, { number: '5d', name: 'Ideal gas molecules', slug: 'ideal-gas-molecules' }] },
+      { number: 6, name: 'Magnetism and electromagnetism', slug: 'magnetism-and-electromagnetism', subtopics: [{ number: '6a', name: 'Units', slug: 'units-magnetism' }, { number: '6b', name: 'Magnetism', slug: 'magnetism' }, { number: '6c', name: 'Electromagnetism', slug: 'electromagnetism' }, { number: '6d', name: 'Electromagnetic induction', slug: 'electromagnetic-induction' }] },
+      { number: 7, name: 'Radioactivity and particles', slug: 'radioactivity-and-particles', subtopics: [{ number: '7a', name: 'Units', slug: 'units-radioactivity' }, { number: '7b', name: 'Radioactivity', slug: 'radioactivity' }, { number: '7c', name: 'Fission and fusion', slug: 'fission-and-fusion' }] },
+      { number: 8, name: 'Astrophysics', slug: 'astrophysics', subtopics: [{ number: '8a', name: 'Units', slug: 'units-astrophysics' }, { number: '8b', name: 'Motion in the universe', slug: 'motion-in-the-universe' }, { number: '8c', name: 'Stellar evolution', slug: 'stellar-evolution' }, { number: '8d', name: 'Cosmology', slug: 'cosmology' }] },
     ],
   },
 ] as const;

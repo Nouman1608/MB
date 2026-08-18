@@ -599,6 +599,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-18',
     notes: "Built around three themes — identity and culture; local, national, international and global areas of interest; and current and future study and employment — assessed through a Reading, Grammar and Meaning paper (including English-to-Urdu translation) and a Writing paper, equally weighted with no coursework. OxfordAQA's official title for this qualification is simply Urdu, not Urdu Language. First teaching September 2024, first examined June 2026 onwards. OxfordAQA does not offer Urdu at AS or A-level — International GCSE is the only level offered.",
   },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'physics',
+    officialTitle: 'Pearson Edexcel International GCSE in Physics (4PH1)',
+    code: '4PH1',
+    boardSummary:
+      'The Pearson Edexcel International GCSE in Physics gives students the opportunity to experience physics within the context of their general education, building a foundation for progression to Advanced GCE, International AS and A Level physics or equivalent qualifications.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-physics-2017.html',
+    verifiedOn: '2026-08-18',
+    notes: 'Untiered, linear qualification: two written papers taken in the same series (Paper 1, core content; Paper 2, all content including bold statements marked with a "P" reference that are Physics-only, not shared with the Science (Double Award) specification). Eight topics: Forces and motion; Electricity; Waves; Energy resources and energy transfers; Solids, liquids and gases; Magnetism and electromagnetism; Radioactivity and particles; Astrophysics. First teaching September 2017, first examination June 2019, current specification Issue 4 (September 2024).',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
