@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:47:35.054Z",
+  "generatedAt": "2026-08-18T19:54:34.068Z",
   "rowCount": 139,
   "rows": [
     {
@@ -810,13 +810,13 @@
       "subject": "Mathematics",
       "subjectSlug": "mathematics",
       "specCode": "0580",
-      "specStatus": "unverified",
-      "specApplicability": "NO_DATA",
-      "officialSource1": "NO_DATA",
-      "officialSource2": "NO_DATA",
-      "verificationDate": "NO_DATA",
-      "summaryStatus": "being-verified",
-      "topicMapStatus": "being-verified",
+      "specStatus": "verified",
+      "specApplicability": "2025-2027",
+      "officialSource1": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-mathematics-0580/",
+      "officialSource2": "https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf",
+      "verificationDate": "2026-08-19",
+      "summaryStatus": "published",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -839,8 +839,8 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
-      "risks": "no-official-source;no-topic-map;zero-resources",
-      "nextAction": "Source the official specification, then write a first resource."
+      "risks": "zero-resources",
+      "nextAction": "Write a first resource for this combination."
     },
     {
       "board": "Cambridge",

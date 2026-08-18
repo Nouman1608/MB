@@ -737,6 +737,27 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
     ],
   },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'mathematics',
+    syllabusCode: '0580', syllabusSeries: '2025-2027',
+    effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
+    tiered: true,
+    source: 'Cambridge Assessment International Education -- official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf', verifiedDate: '2026-08-19',
+    notes: "Cambridge IGCSE Mathematics (0580). Tiered: Core subject content (grades C-G) and Extended subject content (grades A*-C, containing all Core content plus additional material). Shares the same 9 top-level topic NAMES as Cambridge O Level Mathematics 4024, but the two syllabuses are not a like-for-like substitute for each other at subtopic level -- 0580's content is organised by topic rather than numbered X.Y sub-topics in the official specification. All 9 topic names verified directly against the official syllabus PDF content overview (cambridgeinternational.org), fetched 2026-08-19. Subtopic-level detail not yet researched -- topics recorded name-only pending a later phase, following the same honest partial-taxonomy approach used for 4024's Topics 1 and 3-9.",
+    topics: [
+      { number: 1, name: 'Number', slug: 'number-cambridge-igcse-maths', subtopics: [] },
+      { number: 2, name: 'Algebra and graphs', slug: 'algebra-and-graphs-cambridge-igcse-maths', subtopics: [] },
+      { number: 3, name: 'Coordinate geometry', slug: 'coordinate-geometry-cambridge-igcse-maths', subtopics: [] },
+      { number: 4, name: 'Geometry', slug: 'geometry-cambridge-igcse-maths', subtopics: [] },
+      { number: 5, name: 'Mensuration', slug: 'mensuration-cambridge-igcse-maths', subtopics: [] },
+      { number: 6, name: 'Trigonometry', slug: 'trigonometry-cambridge-igcse-maths', subtopics: [] },
+      { number: 7, name: 'Transformations and vectors', slug: 'transformations-and-vectors-cambridge-igcse-maths', subtopics: [] },
+      { number: 8, name: 'Probability', slug: 'probability-cambridge-igcse-maths', subtopics: [] },
+      { number: 9, name: 'Statistics', slug: 'statistics-cambridge-igcse-maths', subtopics: [] },
+    ],
+  },
 ] as const;
 
 /**

@@ -640,6 +640,17 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'First teaching September 2015. Sections 3.1-3.5 (Measurements and their errors; Particles and radiation; Waves; Mechanics and materials; Electricity) are shared with the co-teachable AS Physics (7407) and are typically taught in year 1. Sections 3.6-3.8 (Further mechanics and thermal physics; Fields and their consequences; Nuclear physics) are A-level only, typically taught in year 2. Students also study one of five optional A-level-only topics chosen by their centre: Astrophysics, Medical physics, Engineering physics, Turning points in physics, or Electronics. Assessed across three written papers plus separately-certificated practical endorsement based on 12 required practical activities.',
   },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'mathematics',
+    officialTitle: 'Cambridge IGCSE Mathematics (0580)',
+    code: '0580',
+    boardSummary:
+      'Cambridge IGCSE Mathematics develops learners\' mathematical knowledge and skills through a syllabus which encourages enjoyment, confidence and further study. It supports learners in applying their mathematical knowledge and skills to their own lives and the world around them, and in communicating mathematics clearly.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-mathematics-0580/',
+    verifiedOn: '2026-08-19',
+    notes: 'Tiered: Core subject content targets grades C-G, Extended subject content targets grades A*-C (Extended contains all Core content plus additional material). Nine top-level topics: Number, Algebra and graphs, Coordinate geometry, Geometry, Mensuration, Trigonometry, Transformations and vectors, Probability, Statistics -- not presented in a required teaching order. Syllabus for examination series 2025, 2026 and 2027.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
