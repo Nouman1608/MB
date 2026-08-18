@@ -458,6 +458,52 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
     ],
   },
+
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'physics',
+    syllabusCode: '7408', syllabusSeries: 'For first teaching 2015',
+    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'AQA -- official A-level Physics (7408) specification, live subject-content pages',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/physics/a-level/physics-7408/specification/subject-content', verifiedDate: '2026-08-19',
+    notes: "AQA A-level Physics (7408), first teaching September 2015 (co-teachable AS Physics is 7407). Sections 3.1-3.5 are the shared AS/A-level content, taught in year 1; sections 3.6-3.8 are A-level only, taught in year 2. Beyond 3.1-3.8, the specification also offers five optional A-level-only topics (3.9 Astrophysics, 3.10 Medical physics, 3.11 Engineering physics, 3.12 Turning points in physics, 3.13 Electronics) of which each centre selects exactly one for its cohort -- these five optional topics are not yet represented in this taxonomy and will be added in a future update once a specific option is prioritised. Practical skills are assessed indirectly through written papers and separately certificated via 12 required practical activities woven through 3.1-3.8. All 8 compulsory topics and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-aqa-alevel', subtopics: [
+        { number: '3.1.1', name: 'Use of SI units and their prefixes', slug: 'use-of-si-units-and-their-prefixes' },
+        { number: '3.1.2', name: 'Limitation of physical measurements', slug: 'limitation-of-physical-measurements' },
+        { number: '3.1.3', name: 'Estimation of physical quantities', slug: 'estimation-of-physical-quantities' },
+      ] },
+      { number: 2, name: 'Particles and radiation', slug: 'particles-and-radiation-aqa-alevel', subtopics: [
+        { number: '3.2.1', name: 'Particles', slug: 'particles-aqa-alevel' },
+        { number: '3.2.2', name: 'Electromagnetic radiation and quantum phenomena', slug: 'electromagnetic-radiation-and-quantum-phenomena' },
+      ] },
+      { number: 3, name: 'Waves', slug: 'waves-aqa-alevel', subtopics: [
+        { number: '3.3.1', name: 'Progressive and stationary waves', slug: 'progressive-and-stationary-waves' },
+        { number: '3.3.2', name: 'Refraction, diffraction and interference', slug: 'refraction-diffraction-and-interference' },
+      ] },
+      { number: 4, name: 'Mechanics and materials', slug: 'mechanics-and-materials-aqa-alevel', subtopics: [
+        { number: '3.4.1', name: 'Force, energy and momentum', slug: 'force-energy-and-momentum' },
+        { number: '3.4.2', name: 'Materials', slug: 'materials-aqa-alevel' },
+      ] },
+      { number: 5, name: 'Electricity', slug: 'electricity-aqa-alevel', subtopics: [
+        { number: '3.5.1', name: 'Current electricity', slug: 'current-electricity-aqa-alevel' },
+      ] },
+      { number: 6, name: 'Further mechanics and thermal physics', slug: 'further-mechanics-and-thermal-physics', subtopics: [
+        { number: '3.6.1', name: 'Periodic motion', slug: 'periodic-motion-aqa-alevel' },
+        { number: '3.6.2', name: 'Thermal physics', slug: 'thermal-physics-aqa-alevel' },
+      ] },
+      { number: 7, name: 'Fields and their consequences', slug: 'fields-and-their-consequences', subtopics: [
+        { number: '3.7.1', name: 'Fields', slug: 'fields-aqa-alevel' },
+        { number: '3.7.2', name: 'Gravitational fields', slug: 'gravitational-fields-aqa-alevel' },
+        { number: '3.7.3', name: 'Electric fields', slug: 'electric-fields-aqa-alevel' },
+        { number: '3.7.4', name: 'Capacitance', slug: 'capacitance-aqa-alevel' },
+        { number: '3.7.5', name: 'Magnetic fields', slug: 'magnetic-fields-aqa-alevel' },
+      ] },
+      { number: 8, name: 'Nuclear physics', slug: 'nuclear-physics-aqa-alevel', subtopics: [
+        { number: '3.8.1', name: 'Radioactivity', slug: 'radioactivity-aqa-alevel' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**

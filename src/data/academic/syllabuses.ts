@@ -629,6 +629,17 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'Untiered as a standalone Physics GCSE (Foundation/Higher content is flagged within each topic via "HT only", not via separate specifications). Eight topics: Energy, Electricity, Particle model of matter, Atomic structure, Forces, Waves, Magnetism and electromagnetism, and Space physics. Most content is co-teachable with GCSE Combined Science: Trilogy (8464); content marked "(physics only)" in the official specification is Physics-only. First teaching September 2016. Assessed across two written papers (Paper 1: Energy, Electricity, Particle model of matter, Atomic structure; Paper 2: Forces, Waves, Magnetism and electromagnetism, Space physics), each 1 hour 45 minutes.',
   },
+
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'physics',
+    officialTitle: 'AQA A-level Physics (7408)',
+    code: '7408',
+    boardSummary:
+      "We've ensured that the AS and A-level are fully co-teachable. The AS exams include similar questions to those in the A-level, with less difficulty. We've provided five optional topics as part of the full A-level course so students can focus on their areas of interest: Astrophysics, Medical physics, Turning points in physics, Engineering physics, Electronics.",
+    officialUrl: 'https://www.aqa.org.uk/subjects/physics/a-level/physics-7408/specification',
+    verifiedOn: '2026-08-19',
+    notes: 'First teaching September 2015. Sections 3.1-3.5 (Measurements and their errors; Particles and radiation; Waves; Mechanics and materials; Electricity) are shared with the co-teachable AS Physics (7407) and are typically taught in year 1. Sections 3.6-3.8 (Further mechanics and thermal physics; Fields and their consequences; Nuclear physics) are A-level only, typically taught in year 2. Students also study one of five optional A-level-only topics chosen by their centre: Astrophysics, Medical physics, Engineering physics, Turning points in physics, or Electronics. Assessed across three written papers plus separately-certificated practical endorsement based on 12 required practical activities.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
