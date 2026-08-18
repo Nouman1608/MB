@@ -117,6 +117,22 @@ const AQA_ALEVEL_CODES: Record<string, string> = {
   accounting: '7127',
 };
 
+/** Verified at ocr.org.uk GCSE qualification pages, 2026-08-18. */
+const OCR_GCSE_CODES: Record<string, string> = {
+  chemistry: 'J248', physics: 'J249', biology: 'J247', mathematics: 'J560',
+  business: 'J204', economics: 'J205',
+};
+
+/**
+ * Verified at ocr.org.uk AS/A-Level qualification pages, 2026-08-18. Each is
+ * the A Level (not AS) specification code, matching how other boards' A
+ * Level rows record the full A Level code rather than the AS sibling.
+ */
+const OCR_ALEVEL_CODES: Record<string, string> = {
+  chemistry: 'H432', physics: 'H556', biology: 'H420', mathematics: 'H240',
+  business: 'H431', economics: 'H460',
+};
+
 export const MATRIX: readonly Combination[] = [
   // =========================================================================
   // CAMBRIDGE — A Level
@@ -306,15 +322,38 @@ export const MATRIX: readonly Combination[] = [
 
   // =========================================================================
   // OCR — first-class in the model, never public until Marlbridge verifies it.
+  // All codes and board summaries verified directly at ocr.org.uk (Cambridge
+  // OCR) qualification pages, 2026-08-18. OCR offers GCSE and AS/A-Level only
+  // — no O-Level, no IGCSE — so only those two qualification tiers appear
+  // below. OCR does NOT offer Accounting at either level (confirmed absent
+  // from ocr.org.uk's full GCSE and AS/A-Level subject catalogues) —
+  // recorded as NOT_SUPPORTED rather than left as a silent gap.
   // =========================================================================
-  ...rows('ocr', 'a-level', ['chemistry'], {
+  ...rows('ocr', 'gcse', [
+    'chemistry', 'physics', 'biology', 'mathematics', 'business', 'economics',
+  ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'FUTURE', evidence: 'none',
-    source: 'No Marlbridge or Learners Academy evidence',
-    notes: 'OCR is a real board offering A Level Chemistry, but Marlbridge does not offer it. Representative row — kept FUTURE so OCR stays modelled but non-public.',
+    source: 'https://www.ocr.org.uk/qualifications/gcse/ — verified 2026-08-18',
+    codes: OCR_GCSE_CODES,
+    notes: 'OCR is a real board offering these GCSE subjects, but Marlbridge does not offer OCR. Kept FUTURE so OCR stays modelled but non-public. See syllabuses.ts for verified board summaries.',
   }),
-  ...rows('ocr', 'gcse', ['chemistry'], {
+  ...rows('ocr', 'a-level', [
+    'chemistry', 'physics', 'biology', 'mathematics', 'business', 'economics',
+  ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'FUTURE', evidence: 'none',
-    source: 'No Marlbridge or Learners Academy evidence',
+    source: 'https://www.ocr.org.uk/qualifications/as-and-a-level/ — verified 2026-08-18',
+    codes: OCR_ALEVEL_CODES,
+    notes: "OCR is a real board offering these A Level subjects, but Marlbridge does not offer OCR. Kept FUTURE so OCR stays modelled but non-public. Business H431 is the current code (final first teach September 2025, final assessment summer 2027); OCR's replacement A Level Business (H436) has first teach September 2026 and is not yet current, so it is not recorded here. See syllabuses.ts for verified board summaries.",
+  }),
+  ...rows('ocr', 'gcse', ['accounting'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.ocr.org.uk/qualifications/gcse/ — full subject catalogue checked 2026-08-18, Accounting absent',
+    notes: 'OCR does not offer GCSE Accounting.',
+  }),
+  ...rows('ocr', 'a-level', ['accounting'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.ocr.org.uk/qualifications/as-and-a-level/ — full subject catalogue checked 2026-08-18, Accounting absent',
+    notes: 'OCR does not offer A Level Accounting.',
   }),
 
   // =========================================================================

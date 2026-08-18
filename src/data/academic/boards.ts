@@ -43,9 +43,10 @@ export const BOARDS: readonly Board[] = [
   {
     slug: 'ocr',
     name: 'OCR',
-    aliases: [],
+    aliases: ['Cambridge OCR'],
     status: 'future',
-    notes: 'NOT offered by Learners Academy. No evidence found on the source site. Architecturally supported only — must never generate public routes until verified.',
+    source: 'https://www.ocr.org.uk/ — verified 2026-08-18. OCR now brands as "Cambridge OCR" (part of Cambridge University Press & Assessment), administratively distinct from Cambridge International (the cambridge board slug in this repo). OCR is UK-domestic only: offers GCSE and AS/A-Level, not O-Level or IGCSE.',
+    notes: 'NOT offered by Learners Academy or Marlbridge — a business decision, not a data gap. Full official-specification research is on file (see matrix.ts OCR rows and syllabuses.ts): verified codes and board summaries for GCSE and A-Level Chemistry, Physics, Biology, Mathematics, Business and Economics, all fetched directly from ocr.org.uk 2026-08-18. OCR does not offer Accounting at either level (confirmed absent from its full subject catalogues). Architecturally supported only — must never generate public routes until Marlbridge decides to offer it.',
   },
 ] as const;
 

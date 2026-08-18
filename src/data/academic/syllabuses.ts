@@ -117,6 +117,135 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-18',
     notes: 'Confirmed live and current (not withdrawn): next exam listed as 17 May 2027, specification first teaching 2017, subject content spans 18 topics from the role of the accountant through ethical considerations.',
   },
+
+  // ===========================================================================
+  // OCR — verified directly at ocr.org.uk (Cambridge OCR), 2026-08-18. OCR is
+  // NOT offered by Marlbridge (see boards.ts, matrix.ts) — these entries exist
+  // as real, verified reference data so OCR is first-class in the model,
+  // ready if Marlbridge ever decides to offer it. GCSE quotes below were
+  // captured directly from ocr.org.uk's individual GCSE qualification pages;
+  // A-Level quotes were re-verified live in this session.
+  // ===========================================================================
+  {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'chemistry',
+    officialTitle: 'OCR GCSE Chemistry A (Gateway Science) (J248)',
+    code: 'J248',
+    boardSummary:
+      "Our GCSE Chemistry A (Gateway Science) qualification develops students' broad scientific knowledge as well as their conceptual understanding of a range of topics within chemistry itself. They develop practical and problem-solving skills and an ability to evaluate claims based on science through critical analysis.",
+    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/chemistry-a-gateway-science-j248-from-2016/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 601/8663/X. A parallel "Twenty First Century Science" suite (Chemistry B, J258) also exists; J248 (Gateway Science) recorded here for consistency with a single-code-per-subject pattern.',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'physics',
+    officialTitle: 'OCR GCSE Physics A (Gateway Science) (J249)',
+    code: 'J249',
+    boardSummary:
+      "Our GCSE in Physics A (Gateway Science) introduces students to the key concepts of physics, integrating theory with practical skills. It helps students develop their knowledge of scientific methodology and their conceptual understanding of physics and how this can be applied to the world around them.",
+    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/physics-a-gateway-science-j249-from-2016/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 601/8651/3.',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'biology',
+    officialTitle: 'OCR GCSE Biology A (Gateway Science) (J247)',
+    code: 'J247',
+    boardSummary:
+      "Our GCSE in Biology A (Gateway Science) helps students develop their biological knowledge and scientific thinking. They discover how key concepts in biology make sense of the observed diversity of natural phenomena. Practical skills are integrated with the theoretical topics.",
+    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/biology-a-gateway-science-j247-from-2016/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 601/8589/2.',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'mathematics',
+    officialTitle: 'OCR GCSE (9-1) Mathematics (J560)',
+    code: 'J560',
+    boardSummary:
+      "Our GCSE (9-1) Mathematics qualification encourages students to develop a positive attitude towards the subject and recognise the importance of mathematics in daily life. Students build on a sound base of conceptual understanding to apply mathematical techniques in a variety of authentic contexts.",
+    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 601/4606/0.',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'business',
+    officialTitle: 'OCR GCSE Business (J204)',
+    code: 'J204',
+    boardSummary:
+      "Our GCSE in Business equips students with the skills and confidence to explore how different business situations affect decision-making. They develop their understanding of concepts, objectives and terminology, and the impact of contemporary issues on business operations.",
+    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/business-j204-from-2017/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 603/0295/1.',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'economics',
+    officialTitle: 'OCR GCSE Economics (J205)',
+    code: 'J205',
+    boardSummary:
+      "Our GCSE in Economics introduces students to basic economic concepts and helps them develop the appropriate range of analytical, critical and reasoning skills to enable them to think as economists. They learn how consumers, producers and governments interact in markets nationally and internationally.",
+    officialUrl: 'https://www.ocr.org.uk/qualifications/gcse/economics-j205-from-2017/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 603/0143/0.',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'chemistry',
+    officialTitle: 'OCR A Level Chemistry A (H432)',
+    code: 'H432',
+    boardSummary:
+      'Our A Level Chemistry A qualification is a content-led course designed to develop theoretical and practical chemistry skills, knowledge and understanding.',
+    officialUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/chemistry-a-h032-h432-from-2015/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 601/5255/2. Sibling AS Level Chemistry A is H032, qualification number 601/5256/4 — not recorded as a separate matrix row (this repo records A Level codes, not AS siblings, for other boards too).',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'physics',
+    officialTitle: 'OCR A Level Physics A (H556)',
+    code: 'H556',
+    boardSummary:
+      'Our A Level in Physics A, enables students to build on their knowledge of the laws of physics, applying their understanding to solve problems on topics ranging from subatomic particles to the entire universe. They also have the opportunity to develop all the relevant practical skills.',
+    officialUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/physics-a-h156-h556-from-2015/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 601/4743/X.',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    officialTitle: 'OCR A Level Biology A (H420)',
+    code: 'H420',
+    boardSummary:
+      'Our A Level in Biology A allows students to develop relevant practical skills alongside essential knowledge and understanding of a range of biological concepts and scientific methods. Biological mathematics and problem-solving skills can be fully integrated into teaching and learning.',
+    officialUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/biology-a-h020-h420-from-2015/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 601/4260/1.',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'mathematics',
+    officialTitle: 'OCR A Level Mathematics A (H240)',
+    code: 'H240',
+    boardSummary:
+      'Our new A Level Mathematics A qualification has been developed to provide students with a coherent course of study to develop mathematical understanding. Students are encouraged to think, act and communicate mathematically, providing them with the skills to analyse situations in mathematics and elsewhere.',
+    officialUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 603/1038/8.',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'business',
+    officialTitle: 'OCR A Level Business (H431)',
+    code: 'H431',
+    boardSummary:
+      "Our A Level Business qualification stimulates and encourages students' interest in how business works. It fosters an understanding of business operations in a variety of contexts and helps students develop a range of relevant generic skills and ways of thinking.",
+    officialUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/business-h031-h431-from-2015/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 601/4675/8. H431 is current: final first teach September 2025, final assessment summer 2027. OCR\'s replacement A Level Business (H436) has first teach September 2026 — recorded here as a future transition, not yet the current code (mirrors how Cambridge O Level Business 7115→7081 is handled above).',
+  },
+  {
+    boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'economics',
+    officialTitle: 'OCR A Level Economics (H460)',
+    code: 'H460',
+    boardSummary:
+      'Our refreshed Economics A Level qualification gives a strong grounding in both micro- and macroeconomics, and applies both to the modern world, making it topical and engaging. It helps students develop the skills, knowledge and understanding that will enable them to think and reason as economists.',
+    officialUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/',
+    verifiedOn: '2026-08-18',
+    notes: 'Qualification number 601/4799/4.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
