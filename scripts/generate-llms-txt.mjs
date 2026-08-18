@@ -92,6 +92,32 @@ for (const file of subjectFiles) {
   subjectLines.push(`- [${title}](${SITE_URL}/subjects/${slug}/)${desc ? `: ${desc}` : ''}`);
 }
 
+// v1.2 WS8 — the "Study resources" line must only name categories that
+// actually have at least one published resource, so this file never
+// claims an empty category exists. Recomputed from the real resource
+// files, never hardcoded.
+const resourceDir = 'src/content/resources';
+const resourceFiles = (await readdir(resourceDir)).filter((f) => f.endsWith('.md'));
+const RESOURCE_TYPE_LABELS = {
+  'study-guides': 'study guides', 'revision-notes': 'revision notes',
+  'past-papers': 'past papers', 'practice-questions': 'practice questions',
+  'exam-preparation': 'exam preparation material', 'subject-guides': 'subject guides',
+  'learning-articles': 'learning articles',
+};
+const presentTypes = new Set();
+for (const file of resourceFiles) {
+  const raw = await readFile(join(resourceDir, file), 'utf8');
+  const fm = raw.split('---')[1] ?? '';
+  const type = (fm.match(/^resourceType:\s*"?([\w-]+)"?/m) || [])[1];
+  if (type) presentTypes.add(type);
+}
+const presentCategoryLabels = Object.entries(RESOURCE_TYPE_LABELS)
+  .filter(([type]) => presentTypes.has(type))
+  .map(([, label]) => label);
+const studyResourcesLine = presentCategoryLabels.length
+  ? `- [Study resources](${SITE_URL}/resources/): ${presentCategoryLabels.join(', ')}.`
+  : `- [Study resources](${SITE_URL}/resources/): study material published as it is written.`;
+
 const lines = [
   `# ${SITE_NAME}`,
   '',
@@ -113,7 +139,7 @@ const lines = [
   '',
   `- [Boards directory](${SITE_URL}/boards/): every examination board Marlbridge publishes material for.`,
   `- [Qualifications directory](${SITE_URL}/levels/): every qualification level Marlbridge publishes material for.`,
-  `- [Study resources](${SITE_URL}/resources/): study guides, revision notes, past papers and exam preparation material.`,
+  studyResourcesLine,
   `- [Programs](${SITE_URL}/programs/): Marlbridge's teaching programs by qualification.`,
   `- [Tutoring](${SITE_URL}/tutoring/)`,
   `- [For Schools](${SITE_URL}/schools/)`,
