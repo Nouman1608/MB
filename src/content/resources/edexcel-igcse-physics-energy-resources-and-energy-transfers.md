@@ -195,6 +195,7 @@ power includes a time component that work done does not.
 ## Related resources
 
 - [Waves](/resources/edexcel-igcse-physics-waves/) — the previous topic
+- [Solids, Liquids and Gases](/resources/edexcel-igcse-physics-solids-liquids-and-gases/) — the next topic
 - [Pearson Edexcel International GCSE Physics hub](/boards/edexcel/igcse/physics/)
 
 *Written against the Pearson Edexcel International GCSE in Physics (4PH1)
