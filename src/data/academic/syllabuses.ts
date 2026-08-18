@@ -703,6 +703,68 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'First teaching 2017. 21 lettered subject-content sections (A-S, plus a cross-cutting requirement on the use of large data sets in statistics) -- content and weighting are prescribed by the DfE and common to all boards offering A-level Mathematics, not set independently by AQA.',
   },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    officialTitle: 'Cambridge International AS & A Level Biology (9700)',
+    code: '9700',
+    boardSummary:
+      "Cambridge International AS & A Level Biology develops a set of transferable skills including handling data, practical problem-solving and applying the scientific method, giving learners a strong foundation for progression to higher education in biology or related courses.",
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-biology-9700/',
+    verifiedOn: '2026-08-19',
+    notes: 'Syllabus for exams in 2025, 2026 and 2027 (Version 1). AS Level covers Topics 1-11; A Level covers all 19 topics. Three routes: AS only, A Level staged over two years, or A Level in one series. Five papers: Paper 1 Multiple Choice, Paper 2 AS Structured Questions, Paper 3 Advanced Practical Skills, Paper 4 A Level Structured Questions, Paper 5 Planning, Analysis and Evaluation.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'biology',
+    officialTitle: 'Cambridge IGCSE Biology (0610)',
+    code: '0610',
+    boardSummary:
+      "Cambridge IGCSE Biology helps learners understand the technological world in which they live, and take an informed interest in science and scientific developments, building an understanding of the scientific skills essential for progression to further study.",
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-biology-0610/',
+    verifiedOn: '2026-08-19',
+    notes: 'Syllabus for exams in 2026, 2027 and 2028. Tiered: Core (Papers 1 and 3, grades C-G) and Extended (Papers 2 and 4, grades A*-G), plus one practical paper (5 or 6).',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    officialTitle: 'Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology (XBI11/YBI11)',
+    code: 'YBI11',
+    boardSummary:
+      "The Pearson Edexcel International Advanced Subsidiary and Advanced Level in Biology cover major topics including biological molecules, diet, transport, health, cells, development, biodiversity, conservation, energy, the environment, microbiology, immunity, respiration, the internal environment, coordination and gene technology.",
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/biology-2018.html',
+    verifiedOn: '2026-08-19',
+    notes: 'Issue 2 (February 2021), first teaching September 2018. Modular: IAS = Units 1-3 (Unit 3 is Practical Skills in Biology I); full IAL = Units 1-6 (Unit 6 is Practical Skills in Biology II). Units 4-5 are IA2-only content.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'biology',
+    officialTitle: 'Pearson Edexcel International GCSE in Biology (4BI1)',
+    code: '4BI1',
+    boardSummary:
+      "The Pearson Edexcel International GCSE in Biology gives students the opportunity to experience biology within the context of their general education, providing a solid basis for progression to Advanced GCE level or equivalent qualifications.",
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/biology-2017.html',
+    verifiedOn: '2026-08-19',
+    notes: 'Issue 3 (September 2024), first teaching September 2017. Untiered, linear qualification: two written papers (Biology Paper 1 and Paper 2) taken in the same series.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'biology',
+    officialTitle: 'AQA GCSE Biology (8461)',
+    code: '8461',
+    boardSummary:
+      "AQA GCSE Biology builds on the skills, knowledge and understanding established in key stage 3, developing scientific knowledge and conceptual understanding through biology's key ideas and the ability to evaluate claims based on science.",
+    officialUrl: 'https://www.aqa.org.uk/subjects/biology/gcse/biology-8461',
+    verifiedOn: '2026-08-19',
+    notes: 'First teaching September 2016. Linear, tiered: Foundation and Higher tier. Two written papers (Paper 1: topics 1-4; Paper 2: topics 5-7), each also drawing on Key ideas and Working scientifically.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    officialTitle: 'AQA AS and A-level Biology (7401/7402)',
+    code: '7402',
+    boardSummary:
+      "AQA A-level Biology develops essential knowledge and understanding of different areas of the subject and how they relate to each other, alongside practical, mathematical and problem-solving skills, providing a foundation for further study or employment.",
+    officialUrl: 'https://www.aqa.org.uk/subjects/biology/a-level/biology-7402',
+    verifiedOn: '2026-08-19',
+    notes: 'First teaching September 2015. Sections 3.1-3.4 form the AS content (also taught in year 1 of the A-level); sections 3.5-3.8 are A-level only.',
+  },
+
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>

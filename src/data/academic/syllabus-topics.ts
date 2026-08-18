@@ -1227,6 +1227,303 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 21, name: 'Use of data in statistics', slug: 'use-of-data-in-statistics-aqa-alevel-maths', subtopics: [] },
     ],
   },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    syllabusCode: '9700', syllabusSeries: 'For examination in 2025, 2026 and 2027',
+    effectiveFrom: '2025', effectiveTo: '2027', status: 'current',
+    tiered: false,
+    source: 'Cambridge International -- official AS & A Level Biology (9700) syllabus PDF, Version 1, published September 2022',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/664560-2025-2027-syllabus.pdf', verifiedDate: '2026-08-19',
+    notes: "Cambridge International AS & A Level Biology (9700), syllabus for exams in 2025, 2026 and 2027 (Version 1, no significant changes affecting teaching). AS Level candidates study Topics 1-11 plus practical skills; A Level candidates study all 19 topics (1-19) plus practical skills. Full topic and sub-topic structure reproduced directly from the official syllabus PDF, fetched 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Cell structure', slug: 'cell-structure-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '1.1', name: 'The microscope in cell studies', slug: 'the-microscope-in-cell-studies-cambridge-alevel-biology' },
+        { number: '1.2', name: 'Cells as the basic units of living organisms', slug: 'cells-as-the-basic-units-of-living-organisms-cambridge' },
+      ] },
+      { number: 2, name: 'Biological molecules', slug: 'biological-molecules-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '2.1', name: 'Testing for biological molecules', slug: 'testing-for-biological-molecules-cambridge-alevel' },
+        { number: '2.2', name: 'Carbohydrates and lipids', slug: 'carbohydrates-and-lipids-cambridge-alevel-biology' },
+        { number: '2.3', name: 'Proteins', slug: 'proteins-cambridge-alevel-biology' },
+        { number: '2.4', name: 'Water', slug: 'water-cambridge-alevel-biology' },
+      ] },
+      { number: 3, name: 'Enzymes', slug: 'enzymes-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '3.1', name: 'Mode of action of enzymes', slug: 'mode-of-action-of-enzymes-cambridge-alevel-biology' },
+        { number: '3.2', name: 'Factors that affect enzyme action', slug: 'factors-that-affect-enzyme-action-cambridge-alevel' },
+      ] },
+      { number: 4, name: 'Cell membranes and transport', slug: 'cell-membranes-and-transport-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '4.1', name: 'Fluid mosaic membranes', slug: 'fluid-mosaic-membranes-cambridge-alevel-biology' },
+        { number: '4.2', name: 'Movement into and out of cells', slug: 'movement-into-and-out-of-cells-cambridge-alevel' },
+      ] },
+      { number: 5, name: 'The mitotic cell cycle', slug: 'the-mitotic-cell-cycle-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '5.1', name: 'Replication and division of nuclei and cells', slug: 'replication-and-division-of-nuclei-and-cells-cambridge' },
+        { number: '5.2', name: 'Chromosome behaviour in mitosis', slug: 'chromosome-behaviour-in-mitosis-cambridge-alevel' },
+      ] },
+      { number: 6, name: 'Nucleic acids and protein synthesis', slug: 'nucleic-acids-and-protein-synthesis-cambridge-alevel', stage: 'AS', subtopics: [
+        { number: '6.1', name: 'Structure of nucleic acids and replication of DNA', slug: 'structure-of-nucleic-acids-and-replication-of-dna-cambridge' },
+        { number: '6.2', name: 'Protein synthesis', slug: 'protein-synthesis-cambridge-alevel-biology' },
+      ] },
+      { number: 7, name: 'Transport in plants', slug: 'transport-in-plants-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '7.1', name: 'Structure of transport tissues', slug: 'structure-of-transport-tissues-cambridge-alevel-biology' },
+        { number: '7.2', name: 'Transport mechanisms', slug: 'transport-mechanisms-cambridge-alevel-biology' },
+      ] },
+      { number: 8, name: 'Transport in mammals', slug: 'transport-in-mammals-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '8.1', name: 'The circulatory system', slug: 'the-circulatory-system-cambridge-alevel-biology' },
+        { number: '8.2', name: 'Transport of oxygen and carbon dioxide', slug: 'transport-of-oxygen-and-carbon-dioxide-cambridge' },
+        { number: '8.3', name: 'The heart', slug: 'the-heart-cambridge-alevel-biology' },
+      ] },
+      { number: 9, name: 'Gas exchange', slug: 'gas-exchange-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '9.1', name: 'The gas exchange system', slug: 'the-gas-exchange-system-cambridge-alevel-biology' },
+      ] },
+      { number: 10, name: 'Infectious diseases', slug: 'infectious-diseases-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '10.1', name: 'Infectious diseases', slug: 'infectious-diseases-detail-cambridge-alevel-biology' },
+        { number: '10.2', name: 'Antibiotics', slug: 'antibiotics-cambridge-alevel-biology' },
+      ] },
+      { number: 11, name: 'Immunity', slug: 'immunity-cambridge-alevel-biology', stage: 'AS', subtopics: [
+        { number: '11.1', name: 'The immune system', slug: 'the-immune-system-cambridge-alevel-biology' },
+        { number: '11.2', name: 'Antibodies and vaccination', slug: 'antibodies-and-vaccination-cambridge-alevel-biology' },
+      ] },
+      { number: 12, name: 'Energy and respiration', slug: 'energy-and-respiration-cambridge-alevel-biology', stage: 'A', subtopics: [
+        { number: '12.1', name: 'Energy', slug: 'energy-cambridge-alevel-biology' },
+        { number: '12.2', name: 'Respiration', slug: 'respiration-cambridge-alevel-biology' },
+      ] },
+      { number: 13, name: 'Photosynthesis', slug: 'photosynthesis-cambridge-alevel-biology', stage: 'A', subtopics: [
+        { number: '13.1', name: 'Photosynthesis as an energy transfer process', slug: 'photosynthesis-as-an-energy-transfer-process-cambridge' },
+        { number: '13.2', name: 'Investigation of limiting factors', slug: 'investigation-of-limiting-factors-cambridge-alevel' },
+      ] },
+      { number: 14, name: 'Homeostasis', slug: 'homeostasis-cambridge-alevel-biology', stage: 'A', subtopics: [
+        { number: '14.1', name: 'Homeostasis in mammals', slug: 'homeostasis-in-mammals-cambridge-alevel-biology' },
+        { number: '14.2', name: 'Homeostasis in plants', slug: 'homeostasis-in-plants-cambridge-alevel-biology' },
+      ] },
+      { number: 15, name: 'Control and coordination', slug: 'control-and-coordination-cambridge-alevel-biology', stage: 'A', subtopics: [
+        { number: '15.1', name: 'Control and coordination in mammals', slug: 'control-and-coordination-in-mammals-cambridge' },
+        { number: '15.2', name: 'Control and coordination in plants', slug: 'control-and-coordination-in-plants-cambridge' },
+      ] },
+      { number: 16, name: 'Inheritance', slug: 'inheritance-cambridge-alevel-biology', stage: 'A', subtopics: [
+        { number: '16.1', name: 'Passage of information from parents to offspring', slug: 'passage-of-information-from-parents-to-offspring-cambridge' },
+        { number: '16.2', name: 'The roles of genes in determining the phenotype', slug: 'the-roles-of-genes-in-determining-the-phenotype-cambridge' },
+        { number: '16.3', name: 'Gene control', slug: 'gene-control-cambridge-alevel-biology' },
+      ] },
+      { number: 17, name: 'Selection and evolution', slug: 'selection-and-evolution-cambridge-alevel-biology', stage: 'A', subtopics: [
+        { number: '17.1', name: 'Variation', slug: 'variation-cambridge-alevel-biology' },
+        { number: '17.2', name: 'Natural and artificial selection', slug: 'natural-and-artificial-selection-cambridge-alevel' },
+        { number: '17.3', name: 'Evolution', slug: 'evolution-cambridge-alevel-biology' },
+      ] },
+      { number: 18, name: 'Classification, biodiversity and conservation', slug: 'classification-biodiversity-and-conservation-cambridge', stage: 'A', subtopics: [
+        { number: '18.1', name: 'Classification', slug: 'classification-cambridge-alevel-biology' },
+        { number: '18.2', name: 'Biodiversity', slug: 'biodiversity-cambridge-alevel-biology' },
+        { number: '18.3', name: 'Conservation', slug: 'conservation-cambridge-alevel-biology' },
+      ] },
+      { number: 19, name: 'Genetic technology', slug: 'genetic-technology-cambridge-alevel-biology', stage: 'A', subtopics: [
+        { number: '19.1', name: 'Principles of genetic technology', slug: 'principles-of-genetic-technology-cambridge-alevel' },
+        { number: '19.2', name: 'Genetic technology applied to medicine', slug: 'genetic-technology-applied-to-medicine-cambridge' },
+        { number: '19.3', name: 'Genetically modified organisms in agriculture', slug: 'genetically-modified-organisms-in-agriculture-cambridge' },
+      ] },
+    ],
+  },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'biology',
+    syllabusCode: '0610', syllabusSeries: 'For examination in 2026, 2027 and 2028',
+    effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
+    tiered: true,
+    source: 'Cambridge International -- official IGCSE Biology (0610) syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697203-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
+    notes: "Cambridge IGCSE Biology (0610), syllabus for exams in 2026, 2027 and 2028. Tiered: Core (Papers 1 and 3, grades C-G) and Extended (Papers 2 and 4, grades A*-G), plus one practical paper (5 or 6). Twenty-one topic names reproduced directly from the official syllabus PDF's content overview, fetched 2026-08-19. Sub-topic-level detail (Core/Supplement split per outcome) not yet researched -- topics recorded name-only pending a later phase.",
+    topics: [
+      { number: 1, name: 'Characteristics and classification of living organisms', slug: 'characteristics-and-classification-of-living-organisms-cambridge-igcse-biology', subtopics: [] },
+      { number: 2, name: 'Organisation of the organism', slug: 'organisation-of-the-organism-cambridge-igcse-biology', subtopics: [] },
+      { number: 3, name: 'Movement into and out of cells', slug: 'movement-into-and-out-of-cells-cambridge-igcse-biology', subtopics: [] },
+      { number: 4, name: 'Biological molecules', slug: 'biological-molecules-cambridge-igcse-biology', subtopics: [] },
+      { number: 5, name: 'Enzymes', slug: 'enzymes-cambridge-igcse-biology', subtopics: [] },
+      { number: 6, name: 'Plant nutrition', slug: 'plant-nutrition-cambridge-igcse-biology', subtopics: [] },
+      { number: 7, name: 'Human nutrition', slug: 'human-nutrition-cambridge-igcse-biology', subtopics: [] },
+      { number: 8, name: 'Transport in plants', slug: 'transport-in-plants-cambridge-igcse-biology', subtopics: [] },
+      { number: 9, name: 'Transport in animals', slug: 'transport-in-animals-cambridge-igcse-biology', subtopics: [] },
+      { number: 10, name: 'Diseases and immunity', slug: 'diseases-and-immunity-cambridge-igcse-biology', subtopics: [] },
+      { number: 11, name: 'Gas exchange in humans', slug: 'gas-exchange-in-humans-cambridge-igcse-biology', subtopics: [] },
+      { number: 12, name: 'Respiration', slug: 'respiration-cambridge-igcse-biology', subtopics: [] },
+      { number: 13, name: 'Excretion in humans', slug: 'excretion-in-humans-cambridge-igcse-biology', subtopics: [] },
+      { number: 14, name: 'Coordination and response', slug: 'coordination-and-response-cambridge-igcse-biology', subtopics: [] },
+      { number: 15, name: 'Drugs', slug: 'drugs-cambridge-igcse-biology', subtopics: [] },
+      { number: 16, name: 'Reproduction', slug: 'reproduction-cambridge-igcse-biology', subtopics: [] },
+      { number: 17, name: 'Inheritance', slug: 'inheritance-cambridge-igcse-biology', subtopics: [] },
+      { number: 18, name: 'Variation and selection', slug: 'variation-and-selection-cambridge-igcse-biology', subtopics: [] },
+      { number: 19, name: 'Organisms and their environment', slug: 'organisms-and-their-environment-cambridge-igcse-biology', subtopics: [] },
+      { number: 20, name: 'Human influences on ecosystems', slug: 'human-influences-on-ecosystems-cambridge-igcse-biology', subtopics: [] },
+      { number: 21, name: 'Biotechnology and genetic modification', slug: 'biotechnology-and-genetic-modification-cambridge-igcse-biology', subtopics: [] },
+    ],
+  },
+
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'biology',
+    syllabusCode: '4BI1', syllabusSeries: 'Issue 3',
+    effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'Pearson Edexcel -- official International GCSE Biology (4BI1) specification PDF, Issue 3, September 2024',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Biology/2017/specification-and-sample-assessments/international-gcse-biology-2017-specification1.pdf', verifiedDate: '2026-08-19',
+    notes: "Pearson Edexcel International GCSE in Biology (4BI1), first teaching September 2017, first examination June 2019. Untiered, linear qualification with two written papers. Five topic names reproduced directly from the official specification's 'Qualification at a glance' content summary, fetched 2026-08-19. The specification's own content within each topic is a flat sequence of individually numbered outcomes without named sub-headings (e.g. Topic 1 alone runs to dozens of numbered points), so sub-topics are recorded as an empty array rather than inventing groupings the specification does not itself provide.",
+    topics: [
+      { number: 1, name: 'The nature and variety of living organisms', slug: 'the-nature-and-variety-of-living-organisms-edexcel-igcse-biology', subtopics: [] },
+      { number: 2, name: 'Structures and functions in living organisms', slug: 'structures-and-functions-in-living-organisms-edexcel-igcse-biology', subtopics: [] },
+      { number: 3, name: 'Reproduction and inheritance', slug: 'reproduction-and-inheritance-edexcel-igcse-biology', subtopics: [] },
+      { number: 4, name: 'Ecology and the environment', slug: 'ecology-and-the-environment-edexcel-igcse-biology', subtopics: [] },
+      { number: 5, name: 'Use of biological resources', slug: 'use-of-biological-resources-edexcel-igcse-biology', subtopics: [] },
+    ],
+  },
+
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    syllabusCode: 'YBI11', syllabusSeries: 'Issue 2',
+    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'Pearson Edexcel -- official International Advanced Subsidiary/Advanced Level Biology (XBI11/YBI11) specification PDF, Issue 2, February 2021',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Biology/2018/Specification-and-Sample-Assessment/International-A-Level-Biology-Spec.pdf', verifiedDate: '2026-08-19',
+    notes: "Pearson Edexcel International Advanced Subsidiary in Biology (XBI11) and International Advanced Level in Biology (YBI11), first teaching September 2018. Modular: Units 1-2 (IAS, examined as Unit 1 Molecules, Diet, Transport and Health; Unit 2 Cells, Development, Biodiversity and Conservation) plus Unit 3 (Practical Skills in Biology I); Units 4-5 (IA2, examined as Unit 4 Energy, Environment, Microbiology and Immunity; Unit 5 Respiration, Internal Environment, Coordination and Gene Technology) plus Unit 6 (Practical Skills in Biology II). The eight topics below are the specification's own numbered Topics 1-8, each mapped to its exam unit; Units 3 and 6 are practical-skills-only papers with no separate numbered topic of their own. Each topic's content is a flat sequence of individually numbered outcomes without named sub-headings, so sub-topics are recorded as an empty array rather than inventing groupings the specification does not itself provide.",
+    topics: [
+      { number: 1, name: 'Molecules, Transport and Health', slug: 'molecules-transport-and-health-edexcel-alevel-biology', subtopics: [] },
+      { number: 2, name: 'Membranes, Proteins, DNA and Gene Expression', slug: 'membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology', subtopics: [] },
+      { number: 3, name: 'Cell Structure, Reproduction and Development', slug: 'cell-structure-reproduction-and-development-edexcel-alevel-biology', subtopics: [] },
+      { number: 4, name: 'Plant Structure and Function, Biodiversity and Conservation', slug: 'plant-structure-and-function-biodiversity-and-conservation-edexcel-alevel-biology', subtopics: [] },
+      { number: 5, name: 'Energy Flow, Ecosystems and the Environment', slug: 'energy-flow-ecosystems-and-the-environment-edexcel-alevel-biology', subtopics: [] },
+      { number: 6, name: 'Microbiology, Immunity and Forensics', slug: 'microbiology-immunity-and-forensics-edexcel-alevel-biology', subtopics: [] },
+      { number: 7, name: 'Respiration, Muscles and the Internal Environment', slug: 'respiration-muscles-and-the-internal-environment-edexcel-alevel-biology', subtopics: [] },
+      { number: 8, name: 'Coordination, Response and Gene Technology', slug: 'coordination-response-and-gene-technology-edexcel-alevel-biology', subtopics: [] },
+    ],
+  },
+
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'biology',
+    syllabusCode: '8461', syllabusSeries: 'For first teaching 2016',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: true,
+    source: 'AQA -- official GCSE Biology (8461) specification, live subject-content pages',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
+    notes: "AQA GCSE Biology (8461), first teaching September 2016. Linear qualification, tiered: Foundation and Higher tier, two written papers (Paper 1: topics 1-4; Paper 2: topics 5-7), each also drawing on Key ideas and Working scientifically. Eight topic/section names reproduced directly from the live AQA specification-at-a-glance page, fetched 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Cell biology', slug: 'cell-biology-aqa-gcse-biology', subtopics: [] },
+      { number: 2, name: 'Organisation', slug: 'organisation-aqa-gcse-biology', subtopics: [] },
+      { number: 3, name: 'Infection and response', slug: 'infection-and-response-aqa-gcse-biology', subtopics: [] },
+      { number: 4, name: 'Bioenergetics', slug: 'bioenergetics-aqa-gcse-biology', subtopics: [] },
+      { number: 5, name: 'Homeostasis and response', slug: 'homeostasis-and-response-aqa-gcse-biology', subtopics: [] },
+      { number: 6, name: 'Inheritance, variation and evolution', slug: 'inheritance-variation-and-evolution-aqa-gcse-biology', subtopics: [] },
+      { number: 7, name: 'Ecology', slug: 'ecology-aqa-gcse-biology', subtopics: [] },
+      { number: 8, name: 'Key ideas', slug: 'key-ideas-aqa-gcse-biology', subtopics: [] },
+    ],
+  },
+
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    syllabusCode: '7402', syllabusSeries: 'For first teaching 2015',
+    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'AQA -- official AS and A-level Biology (7401/7402) specification, live subject-content pages',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/biology/as-level/biology-7401/specification/subject-content', verifiedDate: '2026-08-19',
+    notes: "AQA AS Biology (7401) and A-level Biology (7402), first teaching September 2015. Sections 3.1-3.4 are covered in the first year of the A-level and form the AS subject content; sections 3.5-3.8 are A-level only. Eight section names reproduced directly from the live AQA specification subject-content pages, fetched 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Biological molecules', slug: 'biological-molecules-aqa-alevel-biology', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Cells', slug: 'cells-aqa-alevel-biology', stage: 'AS', subtopics: [] },
+      { number: 3, name: 'Organisms exchange substances with their environment', slug: 'organisms-exchange-substances-with-their-environment-aqa-alevel-biology', stage: 'AS', subtopics: [] },
+      { number: 4, name: 'Genetic information, variation and relationships between organisms', slug: 'genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology', stage: 'AS', subtopics: [] },
+      { number: 5, name: 'Energy transfers in and between organisms', slug: 'energy-transfers-in-and-between-organisms-aqa-alevel-biology', stage: 'A', subtopics: [] },
+      { number: 6, name: 'Organisms respond to changes in their internal and external environments', slug: 'organisms-respond-to-changes-in-their-internal-and-external-environments-aqa-alevel-biology', stage: 'A', subtopics: [] },
+      { number: 7, name: 'Genetics, populations, evolution and ecosystems', slug: 'genetics-populations-evolution-and-ecosystems-aqa-alevel-biology', stage: 'A', subtopics: [] },
+      { number: 8, name: 'The control of gene expression', slug: 'the-control-of-gene-expression-aqa-alevel-biology', stage: 'A', subtopics: [] },
+    ],
+  },
+
+  {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'biology',
+    syllabusCode: 'J247', syllabusSeries: 'For first assessment 2018',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: true,
+    source: 'OCR -- official GCSE (9-1) Gateway Science Suite Biology A (J247) specification-at-a-glance page',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-biology-a-j247-from-2016/specification-at-a-glance/', verifiedDate: '2026-08-19',
+    notes: "OCR GCSE (9-1) Gateway Science Suite Biology A (J247). Tiered: Foundation (papers 1-2, grades 5-1) and Higher (papers 3-4, grades 9-4). Six teaching topics plus a practical-skills topic (B7), reproduced directly from the live OCR specification-at-a-glance page, fetched 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Cell level systems', slug: 'cell-level-systems-ocr-gcse-biology', subtopics: [
+        { number: '1.1', name: 'Cell structures', slug: 'cell-structures-ocr-gcse-biology' },
+        { number: '1.2', name: 'What happens in cells (and what do cells need)?', slug: 'what-happens-in-cells-ocr-gcse-biology' },
+        { number: '1.3', name: 'Respiration', slug: 'respiration-ocr-gcse-biology' },
+        { number: '1.4', name: 'Photosynthesis', slug: 'photosynthesis-ocr-gcse-biology' },
+      ] },
+      { number: 2, name: 'Scaling up', slug: 'scaling-up-ocr-gcse-biology', subtopics: [
+        { number: '2.1', name: 'Supplying the cell', slug: 'supplying-the-cell-ocr-gcse-biology' },
+        { number: '2.2', name: 'The challenges of size', slug: 'the-challenges-of-size-ocr-gcse-biology' },
+      ] },
+      { number: 3, name: 'Organism level systems', slug: 'organism-level-systems-ocr-gcse-biology', subtopics: [
+        { number: '3.1', name: 'Coordination and control -- the nervous system', slug: 'coordination-and-control-the-nervous-system-ocr-gcse-biology' },
+        { number: '3.2', name: 'Coordination and control -- the endocrine system', slug: 'coordination-and-control-the-endocrine-system-ocr-gcse-biology' },
+        { number: '3.3', name: 'Maintaining internal environments', slug: 'maintaining-internal-environments-ocr-gcse-biology' },
+      ] },
+      { number: 4, name: 'Community level systems', slug: 'community-level-systems-ocr-gcse-biology', subtopics: [
+        { number: '4.1', name: 'Ecosystems', slug: 'ecosystems-ocr-gcse-biology' },
+      ] },
+      { number: 5, name: 'Genes, inheritance and selection', slug: 'genes-inheritance-and-selection-ocr-gcse-biology', subtopics: [
+        { number: '5.1', name: 'Inheritance', slug: 'inheritance-ocr-gcse-biology' },
+        { number: '5.2', name: 'Natural selection and evolution', slug: 'natural-selection-and-evolution-ocr-gcse-biology' },
+      ] },
+      { number: 6, name: 'Global challenges', slug: 'global-challenges-ocr-gcse-biology', subtopics: [
+        { number: '6.1', name: 'Monitoring and maintaining the environment', slug: 'monitoring-and-maintaining-the-environment-ocr-gcse-biology' },
+        { number: '6.2', name: 'Feeding the human race', slug: 'feeding-the-human-race-ocr-gcse-biology' },
+        { number: '6.3', name: 'Monitoring and maintaining health', slug: 'monitoring-and-maintaining-health-ocr-gcse-biology' },
+      ] },
+      { number: 7, name: 'Practical skills', slug: 'practical-skills-ocr-gcse-biology', subtopics: [] },
+    ],
+  },
+
+  {
+    boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    syllabusCode: 'H420', syllabusSeries: 'Version 3, for first teaching 2023',
+    effectiveFrom: '2023', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OCR -- official A Level Biology A (H420) specification PDF, Version 3, August 2023',
+    sourceUrl: 'https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf', verifiedDate: '2026-08-19',
+    notes: "OCR A Level Biology A (H420), Version 3, for first teaching September 2023 (first assessment Summer 2025) -- this supersedes the earlier H420 specification (first assessment 2017-2024, now retired). Content is split into six teaching modules; Module 1 (practical skills) is assessed throughout the written papers rather than as standalone content. Module names reproduced directly from the specification's content overview, fetched 2026-08-19 (cross-verified against the official ocr.org.uk qualification page linking to this exact PDF).",
+    topics: [
+      { number: 1, name: 'Development of practical skills in biology', slug: 'development-of-practical-skills-in-biology-ocr-alevel-biology', subtopics: [] },
+      { number: 2, name: 'Foundations in biology', slug: 'foundations-in-biology-ocr-alevel-biology', subtopics: [] },
+      { number: 3, name: 'Exchange and transport', slug: 'exchange-and-transport-ocr-alevel-biology', subtopics: [] },
+      { number: 4, name: 'Biodiversity, evolution and disease', slug: 'biodiversity-evolution-and-disease-ocr-alevel-biology', subtopics: [] },
+      { number: 5, name: 'Communication, homeostasis and energy', slug: 'communication-homeostasis-and-energy-ocr-alevel-biology', subtopics: [] },
+      { number: 6, name: 'Genetics, evolution and ecosystems', slug: 'genetics-evolution-and-ecosystems-ocr-alevel-biology', subtopics: [] },
+    ],
+  },
+
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'biology',
+    syllabusCode: '9201', syllabusSeries: 'Version 4.3, for exams May/June 2018 onwards',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OxfordAQA -- official International GCSE Biology (9201) specification PDF, Version 4.3',
+    sourceUrl: 'https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-biology-specification.pdf', verifiedDate: '2026-08-19',
+    notes: "OxfordAQA International GCSE Biology (9201), for teaching from September 2016, exams May/June 2018 onwards. Linear, untiered qualification, largely co-teachable with OxfordAQA International GCSE Combined Science (9204). Six topic names reproduced directly from the official specification PDF's subject-content contents list, fetched 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Organisation', slug: 'organisation-oxfordaqa-igcse-biology', subtopics: [] },
+      { number: 2, name: 'Bioenergetics', slug: 'bioenergetics-oxfordaqa-igcse-biology', subtopics: [] },
+      { number: 3, name: 'Ecology', slug: 'ecology-oxfordaqa-igcse-biology', subtopics: [] },
+      { number: 4, name: "Organisms' interaction with the environment", slug: 'organisms-interaction-with-the-environment-oxfordaqa-igcse-biology', subtopics: [] },
+      { number: 5, name: 'Inheritance', slug: 'inheritance-oxfordaqa-igcse-biology', subtopics: [] },
+      { number: 6, name: 'Variation and evolution', slug: 'variation-and-evolution-oxfordaqa-igcse-biology', subtopics: [] },
+    ],
+  },
+
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    syllabusCode: '9610', syllabusSeries: 'Version 5.1, for International A-level exams May/June 2018 onwards',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OxfordAQA -- official International AS and A-level Biology (9610) specification PDF, Version 5.1',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-biology-specification.pdf', verifiedDate: '2026-08-19',
+    notes: "OxfordAQA International AS and A-level Biology (9610), for teaching from September 2016; International AS exams from May/June 2017, International A-level exams from May/June 2018. Modular: Units 1-2 form the International AS (50% of the full A-level content, 40% of final marks); Units 3-4 are International A2-only. Four unit names reproduced directly from the official specification PDF's 'Specification at a glance' section, fetched 2026-08-19.",
+    topics: [
+      { number: 1, name: 'The diversity of living organisms', slug: 'the-diversity-of-living-organisms-oxfordaqa-alevel-biology', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Biological systems and disease', slug: 'biological-systems-and-disease-oxfordaqa-alevel-biology', stage: 'AS', subtopics: [] },
+      { number: 3, name: 'Populations and genes', slug: 'populations-and-genes-oxfordaqa-alevel-biology', stage: 'A', subtopics: [] },
+      { number: 4, name: 'Control', slug: 'control-oxfordaqa-alevel-biology', stage: 'A', subtopics: [] },
+    ],
+  },
+
 ] as const;
 
 /**
