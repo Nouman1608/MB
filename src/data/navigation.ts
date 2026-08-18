@@ -16,6 +16,8 @@ export const footerNav = {
   explore: [
     { label: 'Programs', href: '/programs/' },
     { label: 'Subjects', href: '/subjects/' },
+    { label: 'Boards', href: '/boards/' },
+    { label: 'Qualifications', href: '/levels/' },
     { label: 'Resources', href: '/resources/' },
     { label: 'Tutoring', href: '/tutoring/' },
     { label: 'For Schools', href: '/schools/' },

@@ -23,7 +23,7 @@ import ArticleCard from '../../../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../../../components/layout/RelatedGrid.astro';
 import EmptyState from '../../../../components/ui/EmptyState.astro';
 import CTA from '../../../../components/ui/CTA.astro';
-import { activeOnly, offeringsForSubject, academicHubPath, type Combination } from '../../../../utils/academic';
+import { activeOnly, offeringsForSubject, academicHubPath, boardPath, levelPath, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
 import { topicsFor, hasStages } from '../../../../data/academic/syllabus-topics';
@@ -123,13 +123,13 @@ const jsonLd = [courseNode({
   ]}
   jsonLd={jsonLd}
 >
-  {syllabus && (
-    <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
+  <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
+    {syllabus && (
       <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Syllabus </dt><dd class="m-0 inline text-ink-mute">{syllabus.code}</dd></div>
-      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Board </dt><dd class="m-0 inline text-ink-mute">{c.board}</dd></div>
-      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification </dt><dd class="m-0 inline text-ink-mute">{c.qualification}</dd></div>
-    </dl>
-  )}
+    )}
+    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Board </dt><dd class="m-0 inline text-ink-mute"><a href={boardPath(c.boardSlug)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.board}</a></dd></div>
+    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification </dt><dd class="m-0 inline text-ink-mute"><a href={levelPath(c.qualificationSlug)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{c.qualification}</a></dd></div>
+  </dl>
 
   <Section surface="white">
     <Container>
