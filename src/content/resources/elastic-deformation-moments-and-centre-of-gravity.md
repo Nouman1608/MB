@@ -4,6 +4,8 @@ resourceType: "study-guides"
 subject: "physics"
 level: ["o-levels"]
 topic: "Motion, forces and energy"
+boards: ["cambridge"]
+qualifications: ["o-level"]
 syllabusCodes: ["5054"]
 syllabusSeries: "2026-2028"
 order: 1.51

@@ -4,6 +4,8 @@ resourceType: "study-guides"
 subject: "accounting"
 level: ["a-levels"]
 topic: "Financial accounting"
+boards: ["cambridge"]
+qualifications: ["a-level"]
 syllabusCodes: ["9706"]
 syllabusSeries: "2026-2028"
 stage: "AS"

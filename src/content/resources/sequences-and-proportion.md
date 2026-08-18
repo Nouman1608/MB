@@ -4,6 +4,8 @@ resourceType: "study-guides"
 subject: "mathematics"
 level: ["o-levels"]
 topic: "Algebra and graphs"
+boards: ["cambridge"]
+qualifications: ["o-level"]
 syllabusCodes: ["4024"]
 syllabusSeries: "2025-2027"
 order: 2.7

@@ -4,6 +4,8 @@ resourceType: "study-guides"
 subject: "economics"
 level: ["o-levels"]
 topic: "The basic economic problem"
+boards: ["cambridge"]
+qualifications: ["o-level"]
 syllabusCodes: ["2281"]
 syllabusSeries: "2026"
 order: 1.1

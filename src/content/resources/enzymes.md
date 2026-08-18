@@ -4,6 +4,8 @@ resourceType: "study-guides"
 subject: "biology"
 level: ["o-levels"]
 topic: "Enzymes"
+boards: ["cambridge"]
+qualifications: ["o-level"]
 syllabusCodes: ["5090"]
 syllabusSeries: "2026-2028"
 order: 5.1
