@@ -552,6 +552,55 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
     ],
   },
+
+  {
+    boardSlug: 'ocr', qualificationSlug: 'a-level', subjectSlug: 'physics',
+    syllabusCode: 'H556', syllabusSeries: 'For first teaching 2015',
+    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OCR -- official A Level GCE Physics A H556 specification (accredited PDF)',
+    sourceUrl: 'https://www.ocr.org.uk/Images/171726-specification-accredited-a-level-gce-physics-a-h556.pdf', verifiedDate: '2026-08-19',
+    notes: "OCR A Level Physics A (H556), first teaching September 2015, co-teachable with AS Physics A (H156). Content is organised into 6 modules: Module 1 (Development of practical skills in physics) and Module 2 (Foundations of physics) are foundational skills threaded throughout the course; Modules 3-4 (Forces and motion; Electrons, waves and photons) are typically year 12 content; Modules 5-6 (Newtonian world and astrophysics; Particles and medical physics) are typically year 13 content. Assessed across three written components (H556/01, H556/02, H556/03) plus a separately-reported Practical Endorsement. All 6 modules and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Development of practical skills in physics', slug: 'development-of-practical-skills-in-physics-ocr-alevel', subtopics: [
+        { number: '1.1', name: 'Practical skills assessed in a written examination', slug: 'practical-skills-assessed-in-a-written-examination' },
+        { number: '1.2', name: 'Practical skills assessed in the practical endorsement', slug: 'practical-skills-assessed-in-the-practical-endorsement' },
+      ] },
+      { number: 2, name: 'Foundations of physics', slug: 'foundations-of-physics-ocr-alevel', subtopics: [
+        { number: '2.1', name: 'Physical quantities and units', slug: 'physical-quantities-and-units-ocr-alevel' },
+        { number: '2.2', name: 'Making measurements and analysing data', slug: 'making-measurements-and-analysing-data-ocr-alevel' },
+        { number: '2.3', name: 'Nature of quantities', slug: 'nature-of-quantities-ocr-alevel' },
+      ] },
+      { number: 3, name: 'Forces and motion', slug: 'forces-and-motion-ocr-alevel', subtopics: [
+        { number: '3.1', name: 'Motion', slug: 'motion-ocr-alevel' },
+        { number: '3.2', name: 'Forces in action', slug: 'forces-in-action-ocr-alevel' },
+        { number: '3.3', name: 'Work, energy and power', slug: 'work-energy-and-power-ocr-alevel' },
+        { number: '3.4', name: 'Materials', slug: 'materials-ocr-alevel' },
+        { number: '3.5', name: "Newton's laws of motion and momentum", slug: 'newtons-laws-of-motion-and-momentum' },
+      ] },
+      { number: 4, name: 'Electrons, waves and photons', slug: 'electrons-waves-and-photons', subtopics: [
+        { number: '4.1', name: 'Charge and current', slug: 'charge-and-current-ocr-alevel' },
+        { number: '4.2', name: 'Energy, power and resistance', slug: 'energy-power-and-resistance' },
+        { number: '4.3', name: 'Electrical circuits', slug: 'electrical-circuits-ocr-alevel' },
+        { number: '4.4', name: 'Waves', slug: 'waves-ocr-alevel' },
+        { number: '4.5', name: 'Quantum physics', slug: 'quantum-physics-ocr-alevel' },
+      ] },
+      { number: 5, name: 'Newtonian world and astrophysics', slug: 'newtonian-world-and-astrophysics', subtopics: [
+        { number: '5.1', name: 'Thermal physics', slug: 'thermal-physics-ocr-alevel' },
+        { number: '5.2', name: 'Circular motion', slug: 'circular-motion-ocr-alevel' },
+        { number: '5.3', name: 'Oscillations', slug: 'oscillations-ocr-alevel' },
+        { number: '5.4', name: 'Gravitational fields', slug: 'gravitational-fields-ocr-alevel' },
+        { number: '5.5', name: 'Astrophysics and cosmology', slug: 'astrophysics-and-cosmology-ocr-alevel' },
+      ] },
+      { number: 6, name: 'Particles and medical physics', slug: 'particles-and-medical-physics', subtopics: [
+        { number: '6.1', name: 'Capacitors', slug: 'capacitors-ocr-alevel' },
+        { number: '6.2', name: 'Electric fields', slug: 'electric-fields-ocr-alevel' },
+        { number: '6.3', name: 'Electromagnetism', slug: 'electromagnetism-ocr-alevel' },
+        { number: '6.4', name: 'Nuclear and particle physics', slug: 'nuclear-and-particle-physics-ocr-alevel' },
+        { number: '6.5', name: 'Medical imaging', slug: 'medical-imaging-ocr-alevel' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**

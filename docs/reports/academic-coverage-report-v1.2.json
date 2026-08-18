@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:42:19.407Z",
+  "generatedAt": "2026-08-18T19:44:17.295Z",
   "rowCount": 139,
   "rows": [
     {
@@ -4051,12 +4051,12 @@
       "subjectSlug": "physics",
       "specCode": "H556",
       "specStatus": "verified",
-      "specApplicability": "NO_DATA",
+      "specApplicability": "2015-ongoing",
       "officialSource1": "https://www.ocr.org.uk/qualifications/as-and-a-level/physics-a-h156-h556-from-2015/",
-      "officialSource2": "NO_DATA",
+      "officialSource2": "https://www.ocr.org.uk/Images/171726-specification-accredited-a-level-gce-physics-a-h556.pdf",
       "verificationDate": "2026-08-18",
       "summaryStatus": "published",
-      "topicMapStatus": "being-verified",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -4079,7 +4079,7 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
-      "risks": "no-topic-map;zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
+      "risks": "zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Write a first resource for this combination."
     },
     {
