@@ -601,6 +601,67 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
     ],
   },
+
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'physics',
+    syllabusCode: '9203', syllabusSeries: 'For exams May/June 2018 onwards',
+    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OxfordAQA -- official International GCSE Physics (9203) specification PDF',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-physics-specification.pdf', verifiedDate: '2026-08-19',
+    notes: "OxfordAQA International GCSE Physics (9203). Linear qualification (all exams at the end of the course); guided learning hours (GLH) 120. Untiered. Content marked 'P' in the official specification is assessed only in the full Physics (9203) award and is not shared with the smaller International GCSE Core Physics (9223) qualification. All 8 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Forces and their effects', slug: 'forces-and-their-effects-oxfordaqa-igcse', subtopics: [
+        { number: '3.1.1', name: 'Forces and their interactions', slug: 'forces-and-their-interactions-oxfordaqa' },
+        { number: '3.1.2', name: 'Motion', slug: 'motion-oxfordaqa-igcse' },
+        { number: '3.1.3', name: 'Resultant forces', slug: 'resultant-forces-oxfordaqa' },
+        { number: '3.1.4', name: 'Momentum', slug: 'momentum-oxfordaqa-igcse' },
+        { number: '3.1.5', name: 'Safety in public transport', slug: 'safety-in-public-transport' },
+        { number: '3.1.6', name: 'Forces and terminal velocity', slug: 'forces-and-terminal-velocity' },
+        { number: '3.1.7', name: 'Centre of mass', slug: 'centre-of-mass-oxfordaqa' },
+        { number: '3.1.8', name: 'Moments and levers', slug: 'moments-and-levers-oxfordaqa' },
+      ] },
+      { number: 2, name: 'Energy', slug: 'energy-oxfordaqa-igcse', subtopics: [
+        { number: '3.2.1', name: 'Forces and energy', slug: 'forces-and-energy-oxfordaqa' },
+        { number: '3.2.2', name: 'Energy transfers, conservation and dissipation of energy', slug: 'energy-transfers-conservation-and-dissipation' },
+        { number: '3.2.3', name: 'Energy resources', slug: 'energy-resources-oxfordaqa-igcse' },
+      ] },
+      { number: 3, name: 'Waves', slug: 'waves-oxfordaqa-igcse', subtopics: [
+        { number: '3.3.1', name: 'General properties of waves', slug: 'general-properties-of-waves' },
+        { number: '3.3.2', name: 'The electromagnetic spectrum', slug: 'the-electromagnetic-spectrum-oxfordaqa' },
+        { number: '3.3.3', name: 'Sound and ultrasound', slug: 'sound-and-ultrasound-oxfordaqa' },
+        { number: '3.3.4', name: 'Reflection', slug: 'reflection-oxfordaqa-igcse' },
+        { number: '3.3.5', name: 'Refraction and total internal reflection', slug: 'refraction-and-total-internal-reflection-oxfordaqa' },
+        { number: '3.3.6', name: 'Lenses and the eye', slug: 'lenses-and-the-eye-oxfordaqa' },
+      ] },
+      { number: 4, name: 'Particle model of matter', slug: 'particle-model-of-matter-oxfordaqa-igcse', subtopics: [
+        { number: '3.4.1', name: 'Kinetic theory', slug: 'kinetic-theory-oxfordaqa-igcse' },
+        { number: '3.4.2', name: 'Energy transfers and particle motion', slug: 'energy-transfers-and-particle-motion' },
+      ] },
+      { number: 5, name: 'Electricity and magnetism', slug: 'electricity-and-magnetism-oxfordaqa-igcse', subtopics: [
+        { number: '3.5.1', name: 'Electrical circuits', slug: 'electrical-circuits-oxfordaqa-igcse' },
+        { number: '3.5.2', name: 'Magnetism and electromagnetism', slug: 'magnetism-and-electromagnetism-oxfordaqa-igcse' },
+      ] },
+      { number: 6, name: 'Generating and distributing electricity and household use', slug: 'generating-and-distributing-electricity-and-household-use', subtopics: [
+        { number: '3.6.1', name: 'Generating electricity', slug: 'generating-electricity-oxfordaqa' },
+        { number: '3.6.2', name: 'Electricity transmission and distribution', slug: 'electricity-transmission-and-distribution' },
+        { number: '3.6.3', name: 'Using electricity in the home', slug: 'using-electricity-in-the-home-oxfordaqa' },
+        { number: '3.6.4', name: 'The motor effect', slug: 'the-motor-effect-oxfordaqa-igcse' },
+        { number: '3.6.5', name: 'Transferring electrical energy', slug: 'transferring-electrical-energy-oxfordaqa' },
+      ] },
+      { number: 7, name: 'Nuclear physics', slug: 'nuclear-physics-oxfordaqa-igcse', subtopics: [
+        { number: '3.7.1', name: 'Atomic structure', slug: 'atomic-structure-oxfordaqa-igcse' },
+        { number: '3.7.2', name: 'Ionizing radiation from the nucleus', slug: 'ionizing-radiation-from-the-nucleus' },
+        { number: '3.7.3', name: 'Nuclear fission', slug: 'nuclear-fission-oxfordaqa-igcse' },
+        { number: '3.7.4', name: 'Nuclear fusion', slug: 'nuclear-fusion-oxfordaqa-igcse' },
+      ] },
+      { number: 8, name: 'Space physics', slug: 'space-physics-oxfordaqa-igcse', subtopics: [
+        { number: '3.8.1', name: 'Life cycle of a star', slug: 'life-cycle-of-a-star' },
+        { number: '3.8.2', name: 'Solar system and orbital motion', slug: 'solar-system-and-orbital-motion-oxfordaqa' },
+        { number: '3.8.3', name: 'Red shift and the expanding universe', slug: 'red-shift-and-the-expanding-universe' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**
