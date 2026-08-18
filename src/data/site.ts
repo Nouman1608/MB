@@ -38,6 +38,21 @@ export const site = {
     story: undefined as string | undefined,
   },
 
+  /**
+   * v1.x WS2 -- public, non-secret identifiers only. A GA4 Measurement ID
+   * and a Turnstile SITE key are both meant to be visible in client-side
+   * HTML/JS; neither is a credential. The matching secrets
+   * (TURNSTILE_SECRET_KEY, RESEND_API_KEY) live only as Cloudflare Pages
+   * environment variables and are never placed in source. See
+   * docs/decision-log.md D-002 and D-003.
+   */
+  analytics: {
+    ga4MeasurementId: 'G-TB89R669JL' as string | undefined,
+  },
+  turnstile: {
+    siteKey: '0x4AAAAAAEUSRy7-wI4BXSlD' as string | undefined,
+  },
+
   academyPhoto: {
     image: undefined as ImageMetadata | undefined,
     alt: 'Teaching at Learners Academy',

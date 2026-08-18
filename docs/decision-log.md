@@ -60,18 +60,22 @@ Status values: `answered` (owner has responded, implemented), `open`
   (`verifyTurnstile()` in `functions/api/enquiry.ts`) is retained and
   proven correct via 2 new tests (fails closed on a bad token, succeeds
   on a good one), gated on `env.TURNSTILE_SECRET_KEY`.
-- **Implementation consequence:** The SITE key (a public value, safe to
-  paste in chat — not a secret) has not yet been supplied, so
-  `EnquiryForm.astro` does not yet render the Turnstile widget. Until the
-  site key is added, `cf-turnstile-response` will never be present on a
-  real submission, so the server-side check — which only runs when
-  `TURNSTILE_SECRET_KEY` is set — will fail every real submission once
-  that secret is live in production, unless the widget is wired first.
-- **Follow-up required:** Owner to supply the Turnstile SITE key (public
-  value) so it can be added to `EnquiryForm.astro`. **This blocks safely
-  enabling Turnstile in production** until supplied — flagged for the
-  owner rather than guessed.
-- **Status:** open (site key still needed).
+- **Implementation consequence:** Owner supplied the Turnstile SITE key
+  in chat on 2026-08-18: `0x4AAAAAAEUSRy7-wI4BXSlD` (public value, not a
+  secret). `src/data/site.ts` now holds it as `site.turnstile.siteKey`.
+  `EnquiryForm.astro` renders the `cf-turnstile` widget div plus the
+  Cloudflare `turnstile/v0/api.js` script whenever a site key is
+  configured, and the widget writes its token into the
+  `cf-turnstile-response` field that `functions/api/enquiry.ts` already
+  reads and verifies server-side against `TURNSTILE_SECRET_KEY`. Verified
+  present in the built HTML at `/contact/` (and every other page using
+  `EnquiryForm.astro`) after `npm run build`.
+- **Follow-up required:** None outstanding. If the owner ever rotates the
+  Turnstile site key, update `site.turnstile.siteKey` in
+  `src/data/site.ts` to match (the matching secret key rotation happens
+  separately, in the Cloudflare Pages dashboard, and is out of scope for
+  this repo).
+- **Status:** implemented.
 
 ---
 
@@ -90,21 +94,39 @@ Status values: `answered` (owner has responded, implemented), `open`
   first step; Search Console/Bing verification may already be satisfied
   by domain-level DNS verification requiring no code change.
 - **Owner response:** Selected "GA4 Measurement ID" as the item to
-  provide, but the actual `G-XXXXXXX` value was not included in the
-  message.
-- **Final decision:** Pending — cannot wire GA4 without the actual
-  Measurement ID. Search Console/Bing verification method also still
-  needs confirming (DNS-level vs. meta-tag vs. HTML file).
-- **Implementation consequence:** No analytics code added yet. Repo-side
-  work not requiring this value (imagery, faculty template, academic
-  coverage, governance scaffolding) proceeds in parallel.
-- **Follow-up required:** Owner to paste the GA4 Measurement ID (e.g.
-  `G-ABC1234567`) directly in chat — this is a public identifier that
-  appears in every page's HTML source once installed, not a secret, so it
-  is safe to share this way. Also need: how Search Console and Bing were
-  verified (meta tag / DNS / XML file), so the right mechanism is added
-  or confirmed as already sufficient.
-- **Status:** open.
+  provide in the first round; supplied the actual value in chat on
+  2026-08-18: `G-TB89R669JL`.
+- **Final decision:** GA4 is wired in via a new consent-gated component,
+  `src/components/analytics/ConsentAnalytics.astro`, added to
+  `BaseLayout.astro` (so it renders on every page). It uses Google
+  Consent Mode v2 with `analytics_storage` defaulted to `'denied'` and a
+  simple Accept/Reject banner (choice persisted in `localStorage`,
+  `mb_consent` key) — no analytics cookie is set and no analytics request
+  is sent until the visitor clicks Accept. This consent-gate design was
+  Claude's own reasonable default, not something the owner was asked to
+  approve line-by-line, because `src/pages/legal/cookies.astro` and
+  `src/pages/legal/privacy.astro` both previously stated (correctly, at
+  the time) that the site ran no analytics — shipping GA4 without a
+  consent gate would have made those pages false. Both legal pages were
+  updated in the same change to accurately describe GA4, the consent
+  banner, and Cloudflare Turnstile (see D-002), with their "Last updated"
+  dates bumped to 18 August 2026.
+- **Implementation consequence:** `site.analytics.ga4MeasurementId` in
+  `src/data/site.ts` holds the public Measurement ID. Verified present in
+  built HTML (`gtag/js?id=G-TB89R669JL`) after `npm run build`. Search
+  Console and Bing verification were NOT addressed in this pass — the
+  owner said both are "connected" but the verification method (meta tag,
+  DNS record, or XML file upload) was never specified, and no
+  corresponding meta tag or file exists anywhere in this repository. If
+  verification was done at the DNS level or directly in each console
+  without a site-side artifact, no repo change is needed and this can be
+  closed as-is; if a meta tag or file is required, that specific value is
+  still needed from the owner.
+- **Follow-up required:** Confirm whether Search Console/Bing
+  verification needs a repo-side artifact (meta tag/file) or was
+  completed entirely at the DNS/console level with nothing to add here.
+- **Status:** implemented (GA4); open (Search Console/Bing verification
+  method still unconfirmed).
 
 ---
 

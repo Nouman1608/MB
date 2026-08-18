@@ -1,0 +1,118 @@
+---
+/**
+ * v1.x WS2 -- consent-gated GA4 analytics.
+ *
+ * Loads Google's gtag.js with Consent Mode v2, defaulting BOTH
+ * `analytics_storage` and `ad_storage` to 'denied' before the visitor
+ * makes any choice. No analytics network request is sent, and no
+ * measurement cookie is set, until the visitor explicitly clicks
+ * "Accept" on the banner below -- at which point consent is updated to
+ * 'granted' and gtag's queued config call actually fires.
+ *
+ * This exists because src/pages/legal/cookies.astro and
+ * src/pages/legal/privacy.astro previously stated, correctly at the
+ * time, that the site ran no analytics. Adding GA4 without a consent
+ * gate would have made those pages false. Both legal pages were updated
+ * in the same change that added this component -- see docs/decision-log.md
+ * D-003.
+ *
+ * The choice to use a simple accept/reject banner (rather than e.g. a
+ * granular per-category consent centre) was Claude's own reasonable
+ * default given the owner only confirmed which analytics ID to use, not
+ * a specific consent UX -- flagged in the v1.x report as an
+ * implementation detail, not a line-item the owner was asked to approve.
+ */
+import { site } from '../../data/site';
+
+const gaId = site.analytics.ga4MeasurementId;
+---
+
+{gaId && (
+  <>
+    <script is:inline define:vars={{ gaId }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { window.dataLayer.push(arguments); }
+      window.gtag = gtag;
+      // Consent Mode v2 defaults -- nothing is sent until the visitor accepts.
+      gtag('consent', 'default', {
+        analytics_storage: 'denied',
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+      });
+      gtag('js', new Date());
+      gtag('config', gaId, { anonymize_ip: true, send_page_view: false });
+
+      var STORAGE_KEY = 'mb_consent';
+
+      function applyConsent(value) {
+        gtag('consent', 'update', {
+          analytics_storage: value === 'granted' ? 'granted' : 'denied',
+          ad_storage: 'denied',
+          ad_user_data: 'denied',
+          ad_personalization: 'denied',
+        });
+        if (value === 'granted') {
+          gtag('event', 'page_view');
+        }
+      }
+
+      var stored = null;
+      try { stored = window.localStorage.getItem(STORAGE_KEY); } catch (e) {}
+      if (stored === 'granted' || stored === 'denied') {
+        applyConsent(stored);
+      }
+
+      window.__mbSetConsent = function (value) {
+        try { window.localStorage.setItem(STORAGE_KEY, value); } catch (e) {}
+        applyConsent(value);
+        var banner = document.querySelector('[data-consent-banner]');
+        if (banner) banner.remove();
+      };
+    </script>
+    <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}></script>
+
+    <div
+      data-consent-banner
+      role="region"
+      aria-label="Cookie consent"
+      class="fixed inset-x-0 bottom-0 z-[90] hidden border-t border-navy-rule bg-navy-900 px-[var(--spacing-gutter)] py-5 text-on-navy"
+    >
+      <div class="mx-auto flex max-w-[var(--container-site)] flex-wrap items-center justify-between gap-4">
+        <p class="m-0 max-w-[62ch] text-[14.5px] leading-relaxed text-on-navy">
+          We'd like to use Google Analytics to understand how visitors use this site. No analytics cookie is set
+          unless you accept. See our <a href="/legal/cookies/" class="underline decoration-gold-500 underline-offset-2">Cookie Policy</a>.
+        </p>
+        <div class="flex gap-3">
+          <button
+            type="button"
+            data-consent-reject
+            class="inline-flex min-h-11 items-center justify-center rounded-sm border border-[#3A4A63] px-5 py-2.5 text-[14.5px] font-medium text-on-navy hover:bg-navy-800"
+          >Reject</button>
+          <button
+            type="button"
+            data-consent-accept
+            class="inline-flex min-h-11 items-center justify-center rounded-sm bg-gold-500 px-5 py-2.5 text-[14.5px] font-medium text-navy-900 hover:opacity-90"
+          >Accept</button>
+        </div>
+      </div>
+    </div>
+
+    <script is:inline>
+      (function () {
+        var STORAGE_KEY = 'mb_consent';
+        var banner = document.querySelector('[data-consent-banner]');
+        if (!banner) return;
+        var stored = null;
+        try { stored = window.localStorage.getItem(STORAGE_KEY); } catch (e) {}
+        if (stored !== 'granted' && stored !== 'denied') {
+          banner.classList.remove('hidden');
+        }
+        var acceptBtn = banner.querySelector('[data-consent-accept]');
+        var rejectBtn = banner.querySelector('[data-consent-reject]');
+        if (acceptBtn) acceptBtn.addEventListener('click', function () { window.__mbSetConsent('granted'); });
+        if (rejectBtn) rejectBtn.addEventListener('click', function () { window.__mbSetConsent('denied'); });
+      })();
+    </script>
+  </>
+)}

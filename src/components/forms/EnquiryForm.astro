@@ -4,6 +4,7 @@ import Input from './Input.astro';
 import Select from './Select.astro';
 import Textarea from './Textarea.astro';
 import { FALLBACK_EMAIL, type EnquiryKind } from '../../utils/forms/submit';
+import { site } from '../../data/site';
 
 interface Props { kind: EnquiryKind; programs?: readonly string[]; subjects?: readonly string[] }
 const { kind, programs = [], subjects = [] } = Astro.props;
@@ -12,6 +13,7 @@ const levels = ['IGCSE', 'O Level', 'A Level', 'GCSE', 'IB', 'SAT', 'IELTS', 'Ot
 const formats = ['One-to-one', 'Small group', 'Online', 'Not sure yet'];
 const roles = ['Head of school', 'Head of department', 'Teacher', 'Coordinator', 'Other'];
 const mailto = 'mailto:' + FALLBACK_EMAIL;
+const turnstileSiteKey = site.turnstile.siteKey;
 ---
 {/*
   v1.2 WS3 — action now points at the real /api/enquiry Cloudflare Pages
@@ -51,6 +53,18 @@ const mailto = 'mailto:' + FALLBACK_EMAIL;
     <Textarea name="message" required />
   </FormField>
 
+  {/* v1.x WS2 -- Cloudflare Turnstile widget. Renders only when a site
+      key is configured (site.turnstile.siteKey, a public identifier, not
+      a secret -- see docs/decision-log.md D-002). The widget writes its
+      token into a hidden input named cf-turnstile-response, which
+      functions/api/enquiry.ts already reads and verifies server-side
+      against TURNSTILE_SECRET_KEY. */}
+  {turnstileSiteKey && (
+    <div class="sm:col-span-2">
+      <div class="cf-turnstile" data-sitekey={turnstileSiteKey} data-theme="light"></div>
+    </div>
+  )}
+
   <div class="sm:col-span-2">
     <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">Send enquiry</button>
     <p class="m-0 mt-3 text-[13.5px] text-ink-mute">
@@ -60,6 +74,8 @@ const mailto = 'mailto:' + FALLBACK_EMAIL;
 
   <div data-form-status role="status" aria-live="polite" class="sm:col-span-2"></div>
 </form>
+
+{turnstileSiteKey && <script is:inline async src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>}
 
 <script>
   import { submitEnquiry, type EnquiryKind } from '../../utils/forms/submit';

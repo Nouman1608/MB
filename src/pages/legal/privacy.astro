@@ -4,7 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '17 August 2026';
+const lastUpdated = '18 August 2026';
 ---
 <PageLayout
   title="Privacy"
@@ -40,9 +40,19 @@ const lastUpdated = '17 August 2026';
         </ul>
         <p>
           We do not collect payment information, government ID numbers, or other sensitive personal data through
-          the website. Our web pages are static; we do not run analytics or advertising trackers, and we do not
-          set cookies of our own. Loading fonts from Google Fonts causes your browser to make a request to
-          Google's servers, which may log your IP address under Google's own privacy policy.
+          the website.
+        </p>
+
+        <h2>Analytics</h2>
+        <p>
+          Our web pages are static. We use Google Analytics (GA4) to understand how visitors use the site, but
+          only if you accept the cookie banner shown on your first visit — no analytics data is collected before
+          you accept, and none is collected at all if you reject or ignore the banner. When enabled, GA4 records
+          things like which pages are viewed and how visitors arrive at the site, with IP anonymisation turned
+          on. We do not run advertising trackers. The enquiry form also uses Cloudflare Turnstile to filter out
+          automated spam submissions, which runs regardless of your analytics choice. Loading fonts from Google
+          Fonts causes your browser to make a request to Google's servers, which may log your IP address under
+          Google's own privacy policy. See our <a href="/legal/cookies/" class="underline decoration-gold-500 underline-offset-2">Cookie Policy</a> for more detail.
         </p>
 
         <h2>How we use it</h2>
@@ -73,8 +83,8 @@ const lastUpdated = '17 August 2026';
 
         <h2>Changes to this policy</h2>
         <p>
-          If how we handle personal information changes materially — for example, if we start using an
-          analytics or CRM tool — we will update this page and the date above.
+          If how we handle personal information changes materially — for example, if we start using a CRM tool
+          or change our analytics provider — we will update this page and the date above.
         </p>
       </div>
     </Container>
