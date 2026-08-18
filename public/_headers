@@ -1,0 +1,25 @@
+# Cloudflare Pages custom response headers.
+#
+# By default every asset on this deployment is served with
+# `Cache-Control: public, max-age=0, must-revalidate` — correct for HTML
+# (content changes on every deploy and must stay fresh) but wasteful for
+# content-hashed build output and brand assets that almost never change.
+# This file opts those paths into long-lived caching without touching HTML.
+#
+# /_astro/* filenames are content-hashed by Astro's build (e.g.
+# index.BdmlJTjy.css) — a file at a given URL can never change without the
+# hash changing too, so it is safe to cache for a year and mark immutable.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Brand images are not content-hashed, so a shorter, non-immutable window is
+# used instead — long enough to meaningfully reduce repeat-visit requests,
+# short enough that a future asset replacement propagates within a week.
+/images/*
+  Cache-Control: public, max-age=604800
+
+/robots.txt
+  Cache-Control: public, max-age=3600
+
+/llms.txt
+  Cache-Control: public, max-age=3600
