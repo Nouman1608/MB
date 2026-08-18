@@ -202,6 +202,11 @@ export const MATRIX: readonly Combination[] = [
       // Verified at cambridgeinternational.org 2026-08-19 (Psychology/Sociology
       // batch) — previously ACTIVE with no code recorded; gap closed here.
       psychology: '9990', sociology: '9699',
+      // Verified at cambridgeinternational.org 2026-08-19 (Geography/History
+      // batch) — 'History' (9489) is the official title; recorded under the
+      // 'world-history' subject slug used throughout this matrix. Previously
+      // ACTIVE with no code recorded; gap closed here.
+      'world-history': '9489',
     },
     notes: OWNER_TEACHES_ALL,
   }),
@@ -225,6 +230,10 @@ export const MATRIX: readonly Combination[] = [
       // Verified at cambridgeinternational.org 2026-08-19 (Psychology/Sociology
       // batch) — previously ACTIVE with no code recorded; gap closed here.
       sociology: '0495',
+      // Verified at cambridgeinternational.org 2026-08-19 (Geography/History
+      // batch) — official title 'History' (0470). Previously ACTIVE with no
+      // code recorded; gap closed here.
+      'world-history': '0470',
     },
     notes: OWNER_TEACHES_ALL,
   }),
@@ -255,6 +264,10 @@ export const MATRIX: readonly Combination[] = [
       // Verified at cambridgeinternational.org 2026-08-19 (Psychology/Sociology
       // batch) — previously ACTIVE with no code recorded; gap closed here.
       sociology: '2251',
+      // Verified at cambridgeinternational.org 2026-08-19 (Geography/History
+      // batch) — official title 'History' (2147). Previously ACTIVE with no
+      // code recorded; gap closed here.
+      'world-history': '2147',
     },
     notes: OWNER_TEACHES_ALL,
   }),
@@ -276,7 +289,10 @@ export const MATRIX: readonly Combination[] = [
     'mathematics', 'physics',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
-    source: `${LA}/igcse/edexcel/`, codes: { chemistry: '4CH1', physics: '4PH1', mathematics: '4MA1', biology: '4BI1', economics: '4EC1' },
+    // 'world-history': '4HI1' verified at qualifications.pearson.com 2026-08-19
+    // (Geography/History batch) -- Edexcel's official title is plain "History".
+    // Previously ACTIVE with no code recorded; gap closed here.
+    source: `${LA}/igcse/edexcel/`, codes: { chemistry: '4CH1', physics: '4PH1', mathematics: '4MA1', biology: '4BI1', economics: '4EC1', 'world-history': '4HI1' },
     notes: `${OWNER_TEACHES_ALL} Edexcel International GCSE — genuinely IGCSE, unlike AQA.`,
   }),
 

@@ -1131,6 +1131,76 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'AS content: Paper 1 ‘Introductory Topics’ (Social influence, Memory, Attachment) and Paper 2 ‘Psychology in Context’ (Approaches, Clinical Psychology and Mental Health, Research methods). A-level adds Biopsychology and Issues and debates (assessed across Papers 1-2), plus one option from each of 3 groups (Relationships/Gender/Cognition and development; Schizophrenia/Eating behaviour/Stress; Aggression/Forensic Psychology/Addiction) assessed via Paper 3.',
   },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'geography',
+    officialTitle: 'Cambridge IGCSE Geography (0460)',
+    code: '0460',
+    boardSummary:
+      'Cambridge IGCSE Geography enables learners to appreciate the relevance of geography to their own lives and to think about the wider world, developing a range of skills relevant to geographical study.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'Three themes: Population and settlement, The natural environment, Economic development, each split into named sub-topics with required case studies. All candidates take Paper 1 and Paper 2, plus either Component 3 Coursework or Paper 4 Alternative to Coursework. 0460 (A*-G grading) and 0976 (9-1 grading) are content-identical parallel variants; this entry verifies 0460.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'geography',
+    officialTitle: 'Cambridge O Level Geography (2217)',
+    code: '2217',
+    boardSummary:
+      'Cambridge O Level Geography enables learners to appreciate the relevance of geography to their own lives and to think about the wider world, developing a range of skills relevant to geographical study.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/697292-2026-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'Version 3, for exams in 2026 (November series). Independently confirmed against 2217’s own specification PDF: identical three-theme structure to Cambridge IGCSE Geography (0460) — Population and settlement, The natural environment, Economic development — with the same 19 named sub-topics.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'geography',
+    officialTitle: 'Cambridge International AS & A Level Geography (9696)',
+    code: '9696',
+    boardSummary:
+      'Cambridge International AS and A Level Geography helps learners to understand the relevance of geography to their own lives, the lives of others and the world in which we live, promoting well-informed, enthusiastic, engaged learners.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/664556-2025-2026-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'AS Level is assessed via Paper 1 Core Physical Geography and Paper 2 Core Human Geography (each 50% of the AS, 25% of the full A Level). A Level adds Paper 3 Advanced Physical Geography Options and Paper 4 Advanced Human Geography Options, each requiring candidates to answer on 2 of the optional topics offered (25% of the A Level each). The named options within Papers 3 and 4 are not itemised in this entry — only the paper-level structure is verified here.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'world-history',
+    officialTitle: 'Cambridge International AS & A Level History (9489)',
+    code: '9489',
+    boardSummary:
+      'Cambridge International AS and A Level History gives learners the opportunity to explore human progress and achievement across a range of political, social, economic, cultural, religious and technological developments.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/697368-2026-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'AS Level: candidates study one of three options (European, American, or International history) assessed via Paper 1 (Document question) and Paper 2 (Outline study); AS topics rotate between Papers 1 and 2 year-on-year. A Level adds Paper 3 (Interpretations question, 3 named topics) and Paper 4 (Depth study, 3 named depth studies each with 4 themes). Candidates may take AS only, A Level staged over two years, or A Level in one series.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'world-history',
+    officialTitle: 'Cambridge IGCSE History (0470)',
+    code: '0470',
+    boardSummary:
+      'Cambridge IGCSE History looks at some of the major international issues of the nineteenth and twentieth centuries, as well as covering the history of particular regions in more depth.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/649636-2024-2026-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'All candidates study Core content in either Option A (The nineteenth century: development of modern nation states, 1848-1914, six key questions) or Option B (The twentieth century: international relations since 1919, six key questions), plus at least one of five named Depth studies (A: The First World War 1914-18; B: Germany 1918-45; C: Russia 1905-41; D: The United States 1919-41; E: The Second World War in Europe and the Asia-Pacific 1939-c.1945). Assessed via Paper 1 (Structured Questions), Paper 2 (Document Questions), and either Component 3 Coursework or Paper 4.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'world-history',
+    officialTitle: 'Cambridge O Level History (2147)',
+    code: '2147',
+    boardSummary:
+      'Cambridge O Level History looks at some of the major international issues of the nineteenth and twentieth centuries, as well as covering the history of particular regions in more depth.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/649640-2024-2026-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'Independently confirmed against 2147’s own specification PDF: identical Core content options (A: nineteenth-century nation states; B: twentieth-century international relations) and identical five named Depth studies (A-E) to Cambridge IGCSE History (0470). Assessed via Paper 1 (Structured Questions, drawing on Core content and one Depth study) and Paper 2 (Document Questions, based on one Depth study) — no coursework or Paper 4 alternative at this level.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'world-history',
+    officialTitle: 'Pearson Edexcel International GCSE History (4HI1)',
+    code: '4HI1',
+    boardSummary:
+      'The Pearson Edexcel International GCSE in History gives students the opportunity to acquire knowledge and understanding of selected periods and aspects of history, exploring the significance of historical events, people, changes and issues.',
+    officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'Two mandatory papers. Paper 1 (Depth Studies, 50%): candidates study at least 2 of 8 named depth studies (The French Revolution; unification of Italy; Germany under dictatorship; colonial rule and nationalism in India; the USSR under dictatorship; superpower relations; US civil rights; South Africa from union to the end of apartheid). Paper 2 (Investigation and Breadth Studies, 50%): candidates study 1 of 5 named historical investigations plus 1 of 8 named breadth studies in change. Available as paper-based or onscreen assessment.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
