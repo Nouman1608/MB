@@ -94,13 +94,15 @@ function rows(
 }
 
 /**
- * Marlbridge has not yet defined its own academic scope. Until it does, every
- * combination below carries marlbridgeStatus UNKNOWN — including those with
- * strong Learners Academy evidence. Flipping these to ACTIVE is a decision for
- * the business, made per combination, not a data-entry step.
+ * Marlbridge's owner has confirmed (2026-08-18, MARLBRIDGE v1.0 master
+ * directive) that Marlbridge currently teaches all supported subjects across
+ * all supported boards represented by the Marlbridge offering. Teaching
+ * status is independent of resource-library coverage — a subject can be
+ * marlbridgeStatus ACTIVE with partial resource coverage. See the coverage
+ * dashboard for per-subject resource completeness, never this field.
  */
-const PENDING_SCOPE =
-  'Learners Academy teaches this. Marlbridge scope not yet defined — awaiting sign-off.';
+const OWNER_TEACHES_ALL =
+  'Learners Academy teaches this. Owner-authorized as an active Marlbridge teaching offering 2026-08-18 (MARLBRIDGE v1.0 directive: Marlbridge teaches all supported subjects across all supported boards). Resource-library coverage for this combination is tracked separately and may be partial.';
 
 /** Verified from AQA's own site. Codes seen on aqa.org.uk subject pages. */
 const AQA_GCSE_CODES: Record<string, string> = {
@@ -151,7 +153,7 @@ export const MATRIX: readonly Combination[] = [
       chemistry: '9701', mathematics: '9709', physics: '9702', biology: '9700',
       business: '9609', economics: '9708', accounting: '9706',
     },
-    notes: PENDING_SCOPE,
+    notes: OWNER_TEACHES_ALL,
   }),
 
   // CAMBRIDGE — IGCSE
@@ -168,7 +170,7 @@ export const MATRIX: readonly Combination[] = [
       chemistry: '0620', mathematics: '0580', physics: '0625', biology: '0610',
       business: '0450', economics: '0455', accounting: '0452',
     },
-    notes: PENDING_SCOPE,
+    notes: OWNER_TEACHES_ALL,
   }),
 
   // CAMBRIDGE — O Level (Cambridge is the only board offering O Level here)
@@ -190,8 +192,10 @@ export const MATRIX: readonly Combination[] = [
     codes: {
       chemistry: '5070', mathematics: '4024', physics: '5054', biology: '5090',
       business: '7115', economics: '2281',
+      // Verified at cambridgeinternational.org 2026-08-18 (WS2 reconciliation).
+      commerce: '7100', statistics: '4040',
     },
-    notes: PENDING_SCOPE,
+    notes: OWNER_TEACHES_ALL,
   }),
 
   // =========================================================================
@@ -203,7 +207,7 @@ export const MATRIX: readonly Combination[] = [
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/a-levels/edexcel/`, codes: { chemistry: 'YCH11' },
-    notes: `${PENDING_SCOPE} Edexcel A Level here is International A Level (IAL).`,
+    notes: `${OWNER_TEACHES_ALL} Edexcel A Level here is International A Level (IAL).`,
   }),
 
   ...rows('edexcel', 'igcse', [
@@ -212,7 +216,7 @@ export const MATRIX: readonly Combination[] = [
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/igcse/edexcel/`, codes: { chemistry: '4CH1' },
-    notes: `${PENDING_SCOPE} Edexcel International GCSE — genuinely IGCSE, unlike AQA.`,
+    notes: `${OWNER_TEACHES_ALL} Edexcel International GCSE — genuinely IGCSE, unlike AQA.`,
   }),
 
   // =========================================================================
@@ -248,7 +252,7 @@ export const MATRIX: readonly Combination[] = [
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/a-levels/aqa/`, codes: AQA_ALEVEL_CODES,
-    notes: `${PENDING_SCOPE} AQA A-level Accounting (7127) verified live at aqa.org.uk 2026-08-18 — not withdrawn.`,
+    notes: `${OWNER_TEACHES_ALL} AQA A-level Accounting (7127) verified live at aqa.org.uk 2026-08-18 — not withdrawn.`,
   }),
 
   // AQA AS Level — AQA runs AS as a separate qualification (Business AS 7131/7137
@@ -260,52 +264,175 @@ export const MATRIX: readonly Combination[] = [
   }),
 
   // =========================================================================
-  // UNKNOWN — Tier-B / index-only. Board attribution never established.
-  // Cartesian expansion deliberately avoided.
+  // RECONCILED 2026-08-18 — WS2 (business status migration) + source
+  // reconciliation. These combinations previously carried marlbridgeStatus
+  // UNKNOWN because the only evidence was an ambiguous Learners Academy
+  // subject-index tag with no board-specific course page. Each row below was
+  // independently re-verified directly against the awarding body's own site
+  // (cambridgeinternational.org / qualifications.pearson.com / aqa.org.uk,
+  // 2026-08-18) to confirm the qualification is real and current before
+  // marlbridgeStatus was flipped to ACTIVE under the owner's 2026-08-18
+  // authorization (OWNER_TEACHES_ALL). Evidence tier is 'board' (not
+  // 'la-course') because Learners Academy's board-specific course page for
+  // these exact combinations still was not found — only the underlying
+  // academic qualification was confirmed. Two subjects (Urdu Literature) do
+  // not exist as an awarding-body qualification distinct from Urdu Language
+  // and are recorded NOT_SUPPORTED rather than fabricated.
   // =========================================================================
+
+  // --- English Literature ---------------------------------------------
   ...rows('cambridge', 'igcse', ['english-literature'], {
-    boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index',
-    source: `${LA}/subjects/english-literature/`,
-    notes: 'Subject page claims "IGCSE & A Level - Cambridge, Edexcel, AQA" with no course page for any combination. Which specific combinations are real?',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/english-literature-0475/ — verified 2026-08-18',
+    codes: { 'english-literature': '0475 / 0992' },
+    notes: `${OWNER_TEACHES_ALL} Cambridge offers this content-identical qualification under two codes differing only in grading scale: 0475 (Literature in English, A*-G) and 0992 (IGCSE (9-1) Literature in English, 9-1). Both current.`,
   }),
-  ...rows('edexcel', 'igcse', ['english-literature'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/english-literature/` }),
-  ...rows('cambridge', 'a-level', ['english-literature'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/english-literature/` }),
-  ...rows('edexcel', 'a-level', ['english-literature'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/english-literature/` }),
+  ...rows('cambridge', 'a-level', ['english-literature'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-english-literature-9695/ — verified 2026-08-18',
+    codes: { 'english-literature': '9695' },
+    notes: OWNER_TEACHES_ALL,
+  }),
+  ...rows('edexcel', 'igcse', ['english-literature'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-english-literature-2016.html — verified 2026-08-18',
+    codes: { 'english-literature': '4ET1 / 4XET1' },
+    notes: `${OWNER_TEACHES_ALL} Two current parallel routes: 4ET1 (2016 spec, linear) and 4XET1 (2023 spec, modular — non-UK schools only). Neither superseded.`,
+  }),
+  ...rows('edexcel', 'a-level', ['english-literature'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/english-literature-2015.html — verified 2026-08-18',
+    codes: { 'english-literature': 'YET01' },
+    notes: `${OWNER_TEACHES_ALL} International Advanced Level (YET01); International AS sibling is XET01. Edexcel A Level here is International A Level (IAL), consistent with other Edexcel A Level rows.`,
+  }),
   ...rows('aqa', 'gcse', ['english-literature'], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
     source: `${AQA}/subjects`, codes: { 'english-literature': '8702' },
-    notes: 'AQA GCSE English Literature 8702 exists. Whether LA/Marlbridge teach it is unconfirmed.',
+    notes: `${OWNER_TEACHES_ALL} AQA GCSE English Literature 8702.`,
   }),
-  ...rows('aqa', 'a-level', ['english-literature'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/english-literature/` }),
-
-  ...rows('cambridge', 'o-level', ['pakistan-studies', 'islamiyat'], {
-    boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index',
-    source: `${LA}/subjects/pakistan-studies/`,
-    notes: 'Pakistan Studies page states "O Level & IGCSE - Cambridge (CAIE)" but no course page exists. Islamiyat has no board named at all.',
+  ...rows('aqa', 'a-level', ['english-literature'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: `${AQA}/subjects/english/a-level/english-7712/specification — verified 2026-08-18`,
+    codes: { 'english-literature': '7712 / 7717' },
+    notes: `${OWNER_TEACHES_ALL} AQA offers two distinct, non-interchangeable specifications: Literature A (7712) and Literature B (7717) — never silently collapsed to one.`,
   }),
-  ...rows('cambridge', 'igcse', ['pakistan-studies', 'islamiyat'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/` }),
 
-  ...rows('cambridge', 'igcse', ['geography', 'global-perspectives', 'environmental-management', 'urdu-literature'], {
-    boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index',
-    source: `${LA}/subjects/`,
-    notes: 'Indexed with level tags but no board attribution and no course page.',
+  // --- Pakistan Studies / Islamiyat (Cambridge only) --------------------
+  ...rows('cambridge', 'igcse', ['pakistan-studies'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-pakistan-studies-0448/ — verified 2026-08-18',
+    codes: { 'pakistan-studies': '0448' }, notes: OWNER_TEACHES_ALL,
   }),
-  ...rows('cambridge', 'o-level', ['environmental-management', 'urdu-literature'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/` }),
-  ...rows('cambridge', 'a-level', ['geography', 'global-perspectives'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/` }),
+  ...rows('cambridge', 'o-level', ['pakistan-studies'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-pakistan-studies-2059/ — verified 2026-08-18',
+    codes: { 'pakistan-studies': '2059' }, notes: OWNER_TEACHES_ALL,
+  }),
+  ...rows('cambridge', 'igcse', ['islamiyat'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-islamiyat-0493/ — verified 2026-08-18',
+    codes: { islamiyat: '0493' }, notes: OWNER_TEACHES_ALL,
+  }),
+  ...rows('cambridge', 'o-level', ['islamiyat'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-islamiyat-2058/ — verified 2026-08-18',
+    codes: { islamiyat: '2058' },
+    notes: `${OWNER_TEACHES_ALL} Cambridge's official title is "Islamiyat" (not "Islamic Studies") at O Level.`,
+  }),
 
+  // --- Geography / Global Perspectives / Environmental Management -------
+  ...rows('cambridge', 'igcse', ['geography'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-geography-0460/ — verified 2026-08-18',
+    codes: { geography: '0460 / 0976' },
+    notes: `${OWNER_TEACHES_ALL} 0460 (A*-G) and 0976 (9-1 grading) are content-identical parallel variants, both current.`,
+  }),
+  ...rows('cambridge', 'o-level', ['geography'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/Images/718204-2027-2029-syllabus.pdf — verified 2026-08-18 (syllabus cover page fetched directly)',
+    codes: { geography: '2217' }, notes: OWNER_TEACHES_ALL,
+  }),
+  ...rows('cambridge', 'a-level', ['geography'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-geography-9696/ — verified 2026-08-18',
+    codes: { geography: '9696' }, notes: OWNER_TEACHES_ALL,
+  }),
+  ...rows('cambridge', 'igcse', ['global-perspectives'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-global-perspectives-0457/ — verified 2026-08-18',
+    codes: { 'global-perspectives': '0457' }, notes: OWNER_TEACHES_ALL,
+  }),
+  ...rows('cambridge', 'a-level', ['global-perspectives'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-global-perspectives-and-research-9239/ — verified 2026-08-18',
+    codes: { 'global-perspectives': '9239' },
+    notes: `${OWNER_TEACHES_ALL} Official title is "Global Perspectives & Research" at this level — differs from the plain "Global Perspectives" IGCSE title. Do not conflate.`,
+  }),
+  ...rows('cambridge', 'igcse', ['environmental-management'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-environmental-management-0680/ — verified 2026-08-18',
+    codes: { 'environmental-management': '0680' }, notes: OWNER_TEACHES_ALL,
+  }),
+  ...rows('cambridge', 'o-level', ['environmental-management'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-environmental-management-5014/ — verified 2026-08-18',
+    codes: { 'environmental-management': '5014' }, notes: OWNER_TEACHES_ALL,
+  }),
+  // Cambridge Environmental Management also exists at AS Level only (8291,
+  // no full A2/A Level component) — a distinct qualification tier not
+  // previously modelled. Not added here to keep this reconciliation commit
+  // to resolving existing UNKNOWN rows; tracked as a follow-up scope
+  // decision for a future workstream, not fabricated into this commit.
+
+  // --- Urdu Language (Urdu Literature does not exist as its own
+  //     qualification at Cambridge — recorded NOT_SUPPORTED below) --------
   ...rows('cambridge', 'igcse', ['urdu-language'], {
-    boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index',
-    source: `${LA}/subjects/`,
-    notes: 'CONFLICT-02: index tags Urdu Language "O Level - IGCSE", but the only course page is Edexcel A LEVEL Urdu.',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/Images/664633-2025-2027-syllabus.pdf — verified 2026-08-18 (syllabus cover page fetched directly)',
+    codes: { 'urdu-language': '0539' },
+    notes: `${OWNER_TEACHES_ALL} Official title is "Urdu as a Second Language" (0539) — the only Urdu IGCSE Cambridge offers; there is no separate Urdu First Language IGCSE (First Language Urdu exists only at O Level).`,
   }),
-  ...rows('cambridge', 'o-level', ['urdu-language'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/` }),
+  ...rows('cambridge', 'o-level', ['urdu-language'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-urdu-first-language-3247/ — verified 2026-08-18',
+    codes: { 'urdu-language': '3247 / 3248' },
+    notes: `${OWNER_TEACHES_ALL} Two distinct current O Level specifications: Urdu - First Language (3247) and Urdu - Second Language (3248) — never silently collapsed to one.`,
+  }),
+  ...rows('cambridge', 'igcse', ['urdu-literature'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/ — Urdu qualifications catalogue checked 2026-08-18, no "Urdu Literature" title found at IGCSE',
+    notes: 'Cambridge does not offer a qualification titled "Urdu Literature" distinct from Urdu Language at IGCSE. Literature content is embedded within Urdu - First Language. Not fabricated.',
+  }),
+  ...rows('cambridge', 'o-level', ['urdu-literature'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/ — Urdu qualifications catalogue checked 2026-08-18, no "Urdu Literature" title found at O Level',
+    notes: 'Cambridge does not offer a qualification titled "Urdu Literature" distinct from Urdu Language at O Level (a combined "Urdu Language & Literature" exists only at Pakistan-only AS/A Level, 9866 — out of scope here). Not fabricated.',
+  }),
 
-  ...rows('cambridge', 'igcse', ['statistics', 'commerce'], {
-    boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index',
-    source: `${LA}/subjects/`,
-    notes: 'CONFLICT-02: index tags these "IGCSE - A Level", but the only course pages are Cambridge O LEVEL.',
+  // --- Statistics / Commerce (Cambridge IGCSE — O Level rows already
+  //     carry these subjects with codes added above in the la-course block;
+  //     A Level does not exist for either subject as a standalone title) --
+  ...rows('cambridge', 'igcse', ['statistics'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-statistics-0479/ — verified 2026-08-18',
+    codes: { statistics: '0479' }, notes: OWNER_TEACHES_ALL,
   }),
-  ...rows('cambridge', 'a-level', ['statistics', 'commerce'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/` }),
+  ...rows('cambridge', 'igcse', ['commerce'], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/Images/745979-2028-syllabus.pdf — verified 2026-08-18 (syllabus cover page fetched directly)',
+    codes: { commerce: '0715' },
+    notes: `${OWNER_TEACHES_ALL} Recently introduced qualification (earliest available exam series 2028); not available in all administrative zones per its own syllabus.`,
+  }),
+  ...rows('cambridge', 'a-level', ['statistics'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/ — Mathematics/Further Mathematics catalogues checked 2026-08-18',
+    notes: 'No standalone Cambridge International AS & A Level Statistics qualification exists. Statistics is delivered as Probability & Statistics components within AS & A Level Mathematics (9709) and Further Mathematics (9231). Not fabricated as its own title.',
+  }),
+  ...rows('cambridge', 'a-level', ['commerce'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.cambridgeinternational.org/ — Business/Commerce catalogues checked 2026-08-18',
+    notes: 'No Cambridge International AS & A Level Commerce qualification exists. Cambridge\'s own progression guidance directs O Level Commerce (7100) students to AS & A Level Business (9609) instead. Not fabricated.',
+  }),
 
   // =========================================================================
   // NOT_SUPPORTED — verified absent
@@ -357,9 +484,15 @@ export const MATRIX: readonly Combination[] = [
   }),
 
   // =========================================================================
-  // APPROVED MARLBRIDGE SCOPE — signed off 2026-08-17.
-  // The ONLY combinations with marlbridgeStatus ACTIVE. Codes, titles and
-  // summaries verified against cambridgeinternational.org (see syllabuses.ts).
+  // HIGHEST-TIER APPROVED SCOPE — signed off 2026-08-17.
+  // These three Chemistry rows carry evidence: 'marlbridge' — a
+  // Marlbridge-specific approval, the strongest evidence tier in this file —
+  // distinct from the 'board'/'la-course' evidence used elsewhere. They are
+  // NOT the only marlbridgeStatus ACTIVE rows in this file (see WS2,
+  // 2026-08-18: marlbridgeStatus ACTIVE now also covers every other
+  // verified, currently-offered combination per the owner's teach-all
+  // authorization). Codes, titles and summaries verified against
+  // cambridgeinternational.org (see syllabuses.ts).
   // =========================================================================
   ...rows('cambridge', 'igcse', ['chemistry'], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'marlbridge',

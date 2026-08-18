@@ -1,21 +1,21 @@
 ---
 title: "English Literature"
 order: 19
-levelsLabel: "GCSE"
-levels: ["gcse"]
+levelsLabel: "IGCSE · GCSE · A Level"
+levels: ["igcse", "gcse", "a-levels"]
 status: "available"
-shortDescription: "English Literature at GCSE, with study material organised by topic."
-description: "English Literature teaching and study resources, organised by level and topic."
+shortDescription: "English Literature at IGCSE, GCSE and A Level, across Cambridge, Pearson Edexcel and AQA."
+description: "English Literature teaching and study resources, organised by level, board and topic."
 featured: false
 faqs:
   - question: "What does the English Literature hub cover?"
-    answer: "AQA GCSE English Literature (specification 8702), organised by topic. More levels and specifications are added as material is written."
+    answer: "English Literature across four boards: Cambridge IGCSE (0475, also offered as the 9-1 graded 0992) and International AS & A Level (9695); Pearson Edexcel International GCSE (4ET1 / 4XET1) and International A Level (YET01); and AQA GCSE (8702) and A-level (two specifications: Literature A 7712 and Literature B 7717). Study material is added topic by topic as it is written."
   - question: "Are Marlbridge's English Literature study guides free to use?"
     answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
-  - question: "Which exam board does this follow?"
-    answer: "AQA."
+  - question: "Which exam boards does this follow?"
+    answer: "Cambridge Assessment International Education, Pearson Edexcel and AQA."
   - question: "Does Marlbridge teach English Literature?"
-    answer: "Yes, at GCSE. Marlbridge teaches AQA GCSE English Literature."
+    answer: "Yes, at IGCSE, GCSE and A Level, across Cambridge, Pearson Edexcel and AQA."
 ---
 
 The English Literature hub gathers the topics, study guides and practice material for

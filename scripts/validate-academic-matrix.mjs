@@ -134,6 +134,17 @@ console.log(`  Publishable now: ${publishable.length}`);
 // OCR stays excluded until its own dedicated research/approval (see boards.ts).
 // If this list changes without a corresponding written approval, the build
 // fails — so no academic route can go public by accident.
+//
+// UPDATED 2026-08-18 (v1.0 WS2, business status migration + source
+// reconciliation): 20 rows that previously carried marlbridgeStatus UNKNOWN
+// (English Literature across four boards, Pakistan Studies, Islamiyat,
+// Geography, Global Perspectives, Environmental Management, Urdu Language,
+// Statistics, Commerce) were independently re-verified against official
+// awarding-body sources (cambridgeinternational.org, qualifications.pearson.com,
+// aqa.org.uk) and flipped ACTIVE. Two rows (Urdu Literature at Cambridge
+// IGCSE/O Level) were confirmed NOT to exist as a distinct qualification and
+// were left NOT_SUPPORTED rather than fabricated. See matrix.ts for full
+// per-row evidence and source URLs.
 // ---------------------------------------------------------------------------
 const APPROVED = [
   'aqa|a-level|accounting',
@@ -143,6 +154,7 @@ const APPROVED = [
   'aqa|a-level|computer-science',
   'aqa|a-level|economics',
   'aqa|a-level|english-language',
+  'aqa|a-level|english-literature',
   'aqa|a-level|law',
   'aqa|a-level|mathematics',
   'aqa|a-level|physics',
@@ -167,6 +179,9 @@ const APPROVED = [
   'cambridge|a-level|computer-science',
   'cambridge|a-level|economics',
   'cambridge|a-level|english-language',
+  'cambridge|a-level|english-literature',
+  'cambridge|a-level|geography',
+  'cambridge|a-level|global-perspectives',
   'cambridge|a-level|ict',
   'cambridge|a-level|law',
   'cambridge|a-level|mathematics',
@@ -178,12 +193,21 @@ const APPROVED = [
   'cambridge|igcse|biology',
   'cambridge|igcse|business',
   'cambridge|igcse|chemistry',
+  'cambridge|igcse|commerce',
   'cambridge|igcse|computer-science',
   'cambridge|igcse|economics',
+  'cambridge|igcse|english-literature',
+  'cambridge|igcse|environmental-management',
+  'cambridge|igcse|geography',
+  'cambridge|igcse|global-perspectives',
   'cambridge|igcse|ict',
+  'cambridge|igcse|islamiyat',
   'cambridge|igcse|mathematics',
+  'cambridge|igcse|pakistan-studies',
   'cambridge|igcse|physics',
   'cambridge|igcse|sociology',
+  'cambridge|igcse|statistics',
+  'cambridge|igcse|urdu-language',
   'cambridge|igcse|world-history',
   'cambridge|o-level|biology',
   'cambridge|o-level|business',
@@ -192,16 +216,22 @@ const APPROVED = [
   'cambridge|o-level|computer-science',
   'cambridge|o-level|economics',
   'cambridge|o-level|english-language',
+  'cambridge|o-level|environmental-management',
+  'cambridge|o-level|geography',
+  'cambridge|o-level|islamiyat',
   'cambridge|o-level|mathematics',
+  'cambridge|o-level|pakistan-studies',
   'cambridge|o-level|physics',
   'cambridge|o-level|sociology',
   'cambridge|o-level|statistics',
+  'cambridge|o-level|urdu-language',
   'cambridge|o-level|world-history',
   'edexcel|a-level|accounting',
   'edexcel|a-level|biology',
   'edexcel|a-level|business',
   'edexcel|a-level|chemistry',
   'edexcel|a-level|economics',
+  'edexcel|a-level|english-literature',
   'edexcel|a-level|law',
   'edexcel|a-level|mathematics',
   'edexcel|a-level|physics',
@@ -210,6 +240,7 @@ const APPROVED = [
   'edexcel|igcse|chemistry',
   'edexcel|igcse|economics',
   'edexcel|igcse|english-language',
+  'edexcel|igcse|english-literature',
   'edexcel|igcse|mathematics',
   'edexcel|igcse|physics',
   'edexcel|igcse|world-history',

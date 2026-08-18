@@ -4,17 +4,17 @@
 
 ## Boards
 
-- [AQA](https://marlbridge.com/boards/aqa/): 24 subject and qualification combinations across 3 qualifications.
-- [Cambridge](https://marlbridge.com/boards/cambridge/): 37 subject and qualification combinations across 3 qualifications.
-- [Pearson Edexcel](https://marlbridge.com/boards/edexcel/): 16 subject and qualification combinations across 2 qualifications.
+- [AQA](https://marlbridge.com/boards/aqa/): 25 subject and qualification combinations across 3 qualifications.
+- [Cambridge](https://marlbridge.com/boards/cambridge/): 54 subject and qualification combinations across 3 qualifications.
+- [Pearson Edexcel](https://marlbridge.com/boards/edexcel/): 18 subject and qualification combinations across 2 qualifications.
 
 ## Qualifications
 
-- [A Level](https://marlbridge.com/levels/a-level/): 35 subject and board combinations across 3 boards.
+- [A Level](https://marlbridge.com/levels/a-level/): 40 subject and board combinations across 3 boards.
 - [AS Level](https://marlbridge.com/levels/as-level/): 1 subject and board combinations across 1 board.
 - [GCSE](https://marlbridge.com/levels/gcse/): 11 subject and board combinations across 1 board.
-- [IGCSE](https://marlbridge.com/levels/igcse/): 18 subject and board combinations across 2 boards.
-- [O Level](https://marlbridge.com/levels/o-level/): 12 subject and board combinations across 1 board.
+- [IGCSE](https://marlbridge.com/levels/igcse/): 28 subject and board combinations across 2 boards.
+- [O Level](https://marlbridge.com/levels/o-level/): 17 subject and board combinations across 1 board.
 
 ## Subjects
 
@@ -22,20 +22,25 @@
 - [Biology](https://marlbridge.com/subjects/biology/): Biology at IGCSE · O · A Level, with study material organised by topic.
 - [Business](https://marlbridge.com/subjects/business/): Business at O · A Level, with study material organised by topic.
 - [Chemistry](https://marlbridge.com/subjects/chemistry/): Chemistry at IGCSE · O · A Level, with study material organised by topic.
-- [Commerce](https://marlbridge.com/subjects/commerce/): Commerce at O Level, with study material organised by topic.
+- [Commerce](https://marlbridge.com/subjects/commerce/): Commerce at IGCSE and O Level, with study material organised by topic.
 - [Computer Science](https://marlbridge.com/subjects/computer-science/): Computer Science at IGCSE · O · A Level, with study material organised by topic.
 - [Economics](https://marlbridge.com/subjects/economics/): Economics at O · A Level, with study material organised by topic.
-- [English Literature](https://marlbridge.com/subjects/english-literature/): English Literature at GCSE, with study material organised by topic.
+- [English Literature](https://marlbridge.com/subjects/english-literature/): English Literature at IGCSE, GCSE and A Level, across Cambridge, Pearson Edexcel and AQA.
 - [English](https://marlbridge.com/subjects/english/): English at IGCSE · O · A Level, with study material organised by topic.
+- [Environmental Management](https://marlbridge.com/subjects/environmental-management/): Environmental Management at IGCSE and O Level, with study material organised by topic.
+- [Geography](https://marlbridge.com/subjects/geography/): Geography at IGCSE, O Level and A Level, with study material organised by topic.
+- [Global Perspectives](https://marlbridge.com/subjects/global-perspectives/): Global Perspectives at IGCSE and A Level, with study material organised by topic.
 - [ICT](https://marlbridge.com/subjects/ict/): ICT at IGCSE · A Level, with study material organised by topic.
+- [Islamiyat](https://marlbridge.com/subjects/islamiyat/): Islamiyat at IGCSE and O Level, with study material organised by topic.
 - [Languages](https://marlbridge.com/subjects/languages/): Languages at Selected levels, with study material organised by topic.
 - [Law](https://marlbridge.com/subjects/law/): Law at A Level, with study material organised by topic.
 - [Mathematics](https://marlbridge.com/subjects/mathematics/): Mathematics at IGCSE · O · A Level, with study material organised by topic.
+- [Pakistan Studies](https://marlbridge.com/subjects/pakistan-studies/): Pakistan Studies at IGCSE and O Level, with study material organised by topic.
 - [Physics](https://marlbridge.com/subjects/physics/): Physics at IGCSE · O · A Level, with study material organised by topic.
 - [Psychology](https://marlbridge.com/subjects/psychology/): Psychology at GCSE · A Level, with study material organised by topic.
 - [Sociology](https://marlbridge.com/subjects/sociology/): Sociology at GCSE · IGCSE · O · A Level, with study material organised by topic.
-- [Statistics](https://marlbridge.com/subjects/statistics/): Statistics at O Level, with study material organised by topic.
-- [Urdu Language](https://marlbridge.com/subjects/urdu-language/): Urdu Language at A Level, with study material organised by topic.
+- [Statistics](https://marlbridge.com/subjects/statistics/): Statistics at IGCSE and O Level, with study material organised by topic.
+- [Urdu Language](https://marlbridge.com/subjects/urdu-language/): Urdu Language at IGCSE, O Level and A Level, across Cambridge and Pearson Edexcel.
 - [World History](https://marlbridge.com/subjects/world-history/): World History at GCSE · IGCSE · O · A Level, with study material organised by topic.
 
 ## More
