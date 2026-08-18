@@ -15,7 +15,7 @@ faqs:
   - question: "Which exam board does this follow?"
     answer: "Cambridge Assessment International Education — Cambridge O Level Biology, specification 5090."
   - question: "Does Marlbridge teach Biology?"
-    answer: "Marlbridge publishes free Biology study material for anyone preparing for an exam. For current teaching availability, send an enquiry with the level and where the learner needs help — Marlbridge replies by email to confirm whether it can help."
+    answer: "Yes. Marlbridge teaches Cambridge O Level Biology (syllabus 5090) and publishes free study material for it."
 ---
 
 The Biology hub gathers the topics, study guides and practice material for

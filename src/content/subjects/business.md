@@ -15,7 +15,7 @@ faqs:
   - question: "Which exam board does this follow?"
     answer: "Cambridge Assessment International Education — Cambridge O Level Business Studies, specification 7115."
   - question: "Does Marlbridge teach Business?"
-    answer: "Marlbridge publishes free Business study material for anyone preparing for an exam. For current teaching availability, send an enquiry with the level and where the learner needs help — Marlbridge replies by email to confirm whether it can help."
+    answer: "Yes. Marlbridge teaches Cambridge O Level Business Studies (syllabus 7115) and publishes free study material for it."
 ---
 
 The Business hub gathers the topics, study guides and practice material for

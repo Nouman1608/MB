@@ -7,6 +7,15 @@ status: "available"
 shortDescription: "Computer Science at IGCSE · O · A Level, with study material organised by topic."
 description: "Computer Science teaching and study resources, organised by level and topic."
 featured: true
+faqs:
+  - question: "Does Marlbridge teach Computer Science?"
+    answer: "Yes. Marlbridge teaches Cambridge IGCSE, O Level and A Level Computer Science. Specific syllabus codes for this subject are being confirmed and will be published on this page once verified."
+  - question: "Are Marlbridge's Computer Science study guides free to use?"
+    answer: "Yes. Study material on Marlbridge is free to read for anyone preparing for an exam, and free for schools and teachers to use with their classes — no licence, account or attribution required."
+  - question: "Which exam board does this follow?"
+    answer: "Cambridge Assessment International Education. Study material has not yet been published for this subject — resources are added topic by topic as they are written."
+  - question: "How do I start Computer Science tuition with Marlbridge?"
+    answer: "Contact Marlbridge with the qualification (IGCSE, O Level or A Level) and where the learner is finding Computer Science difficult. Marlbridge replies by email."
 ---
 
 The Computer Science hub gathers the topics, study guides and practice material for

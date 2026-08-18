@@ -15,7 +15,7 @@ faqs:
   - question: "Which exam board does this follow?"
     answer: "Cambridge Assessment International Education — Cambridge O Level Mathematics (Syllabus D), specification 4024."
   - question: "Does Marlbridge teach Mathematics?"
-    answer: "Marlbridge publishes free Mathematics study material for anyone preparing for an exam. For current teaching availability, send an enquiry with the level and where the learner needs help — Marlbridge replies by email to confirm whether it can help."
+    answer: "Yes. Marlbridge teaches Cambridge O Level Mathematics (Syllabus D) (syllabus 4024) and publishes free study material for it."
 ---
 
 The Mathematics hub gathers the topics, study guides and practice material for

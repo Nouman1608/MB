@@ -15,7 +15,7 @@ faqs:
   - question: "Which exam board does this follow?"
     answer: "Cambridge Assessment International Education — Cambridge O Level Economics, specification 2281."
   - question: "Does Marlbridge teach Economics?"
-    answer: "Marlbridge publishes free Economics study material for anyone preparing for an exam. For current teaching availability, send an enquiry with the level and where the learner needs help — Marlbridge replies by email to confirm whether it can help."
+    answer: "Yes. Marlbridge teaches Cambridge O Level Economics (syllabus 2281) and publishes free study material for it."
 ---
 
 The Economics hub gathers the topics, study guides and practice material for

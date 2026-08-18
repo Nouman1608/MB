@@ -122,7 +122,7 @@ export const MATRIX: readonly Combination[] = [
     'english-language', 'world-history', 'ict', 'law', 'mathematics', 'physics',
     'psychology', 'sociology',
   ], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/a-levels/cambridge/`,
     // Codes verified at cambridgeinternational.org (Phase 11, 2026-08-18). Each
     // is the plain AS & A Level qualification for that subject — not a
@@ -139,7 +139,7 @@ export const MATRIX: readonly Combination[] = [
     'accounting', 'biology', 'business', 'computer-science', 'economics',
     'world-history', 'ict', 'mathematics', 'physics', 'sociology',
   ], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/igcse/cambridge/`,
     // Codes verified at cambridgeinternational.org (Phase 11, 2026-08-18). Each
     // is the standard grading-scale (A*-G) qualification, matching how 0620
@@ -156,7 +156,7 @@ export const MATRIX: readonly Combination[] = [
     'biology', 'business', 'commerce', 'computer-science', 'economics',
     'english-language', 'world-history', 'mathematics', 'physics', 'sociology', 'statistics',
   ], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/o-levels/cambridge/`,
     // Codes verified at cambridgeinternational.org (Phase 11, 2026-08-18).
     // NOTE — business: 7115 "Cambridge O Level Business Studies" is current
@@ -181,7 +181,7 @@ export const MATRIX: readonly Combination[] = [
     'accounting', 'biology', 'business', 'chemistry', 'economics', 'law',
     'mathematics', 'physics', 'urdu-language',
   ], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/a-levels/edexcel/`, codes: { chemistry: 'YCH11' },
     notes: `${PENDING_SCOPE} Edexcel A Level here is International A Level (IAL).`,
   }),
@@ -190,7 +190,7 @@ export const MATRIX: readonly Combination[] = [
     'biology', 'chemistry', 'economics', 'english-language', 'world-history',
     'mathematics', 'physics',
   ], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/igcse/edexcel/`, codes: { chemistry: '4CH1' },
     notes: `${PENDING_SCOPE} Edexcel International GCSE — genuinely IGCSE, unlike AQA.`,
   }),
@@ -206,7 +206,7 @@ export const MATRIX: readonly Combination[] = [
     'biology', 'business', 'chemistry', 'economics', 'english-language', 'world-history',
     'mathematics', 'physics', 'psychology', 'sociology',
   ], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'board',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
     source: `${AQA}/subjects (AQA qualification list: GCSE / AS / A-level only)`,
     codes: AQA_GCSE_CODES,
     notes: 'RECLASSIFIED from IGCSE to GCSE. AQA offers no IGCSE. Codes verified from AQA where shown; economics, physics, psychology, sociology GCSE codes NOT yet individually verified — confirm before publishing.',
@@ -226,7 +226,7 @@ export const MATRIX: readonly Combination[] = [
     'accounting', 'biology', 'business', 'chemistry', 'computer-science', 'economics',
     'english-language', 'law', 'mathematics', 'physics', 'psychology', 'sociology',
   ], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'la-course',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
     source: `${LA}/a-levels/aqa/`, codes: AQA_ALEVEL_CODES,
     notes: `${PENDING_SCOPE} AQA A-level Accounting needs checking — AQA may have withdrawn it.`,
   }),
@@ -234,7 +234,7 @@ export const MATRIX: readonly Combination[] = [
   // AQA AS Level — AQA runs AS as a separate qualification (Business AS 7131/7137
   // verified). Whether Marlbridge or LA teaches AS distinctly is unconfirmed.
   ...rows('aqa', 'as-level', ['business'], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'board',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
     source: `${AQA}/subjects/business`, codes: { business: '7131 / 7137' },
     notes: 'Board offers AS as a distinct qualification. Marlbridge/LA AS provision UNKNOWN. Representative row — AS exists across most AQA subjects.',
   }),
@@ -252,7 +252,7 @@ export const MATRIX: readonly Combination[] = [
   ...rows('cambridge', 'a-level', ['english-literature'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/english-literature/` }),
   ...rows('edexcel', 'a-level', ['english-literature'], { boardOfferingStatus: 'UNKNOWN', marlbridgeStatus: 'UNKNOWN', evidence: 'index', source: `${LA}/subjects/english-literature/` }),
   ...rows('aqa', 'gcse', ['english-literature'], {
-    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'UNKNOWN', evidence: 'board',
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
     source: `${AQA}/subjects`, codes: { 'english-literature': '8702' },
     notes: 'AQA GCSE English Literature 8702 exists. Whether LA/Marlbridge teach it is unconfirmed.',
   }),
