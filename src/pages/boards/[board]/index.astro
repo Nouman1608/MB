@@ -11,12 +11,14 @@
 import PageLayout from '../../../layouts/PageLayout.astro';
 import Section from '../../../components/layout/Section.astro';
 import Container from '../../../components/layout/Container.astro';
+import FAQ from '../../../components/ui/FAQ.astro';
 import {
   boardPath, boardsPath, combinationsForBoard,
   boardsWithCombinations, academicHubPath,
 } from '../../../utils/academic';
 import { boardBySlug } from '../../../data/academic/boards';
 import { routes } from '../../../utils/urls/routes';
+import { faqNode } from '../../../utils/schema/faq';
 
 export async function getStaticPaths() {
   return boardsWithCombinations().map((boardSlug) => ({ params: { board: boardSlug } }));
@@ -40,6 +42,29 @@ const groups = [...byQualification.entries()]
   .sort((a, b) => a.qualification.localeCompare(b.qualification));
 
 const path = boardPath(boardSlug as string);
+
+/**
+ * FAQ content is generated strictly from the already-computed combos/groups
+ * above — every figure and every board/qualification name is read straight
+ * from the ACTIVE matrix data rendered on this page, never invented.
+ */
+const qualificationNames = groups.map((g) => g.qualification);
+const subjectCount = new Set(combos.map((c) => c.subjectSlug)).size;
+const faqs = [
+  {
+    question: `Which qualifications does Marlbridge teach for ${board.name}?`,
+    answer: `Marlbridge currently publishes ${board.name} material for ${
+      qualificationNames.length === 1
+        ? qualificationNames[0]
+        : `${qualificationNames.slice(0, -1).join(', ')} and ${qualificationNames[qualificationNames.length - 1]}`
+    }.`,
+  },
+  {
+    question: `How many ${board.name} subjects does Marlbridge teach?`,
+    answer: `Marlbridge publishes ${combos.length} ${board.name} subject and qualification combinations, covering ${subjectCount} distinct subject${subjectCount === 1 ? '' : 's'}.`,
+  },
+];
+const faq = faqNode(faqs);
 ---
 <PageLayout
   title={board.name}
@@ -53,6 +78,7 @@ const path = boardPath(boardSlug as string);
     { label: 'Boards', href: boardsPath() },
     { label: board.name, href: path },
   ]}
+  jsonLd={faq ? [faq] : []}
 >
   <Section surface="white">
     <Container>
@@ -71,6 +97,15 @@ const path = boardPath(boardSlug as string);
           </ul>
         </div>
       ))}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" labelledby="board-faqs" border>
+    <Container>
+      <h2 id="board-faqs" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions</h2>
+      <div class="max-w-[80ch]">
+        <FAQ items={faqs} />
+      </div>
     </Container>
   </Section>
 </PageLayout>

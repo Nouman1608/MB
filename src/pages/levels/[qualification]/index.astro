@@ -9,12 +9,14 @@
 import PageLayout from '../../../layouts/PageLayout.astro';
 import Section from '../../../components/layout/Section.astro';
 import Container from '../../../components/layout/Container.astro';
+import FAQ from '../../../components/ui/FAQ.astro';
 import {
   levelPath, levelsPath, combinationsForQualification,
   qualificationsWithCombinations, academicHubPath,
 } from '../../../utils/academic';
 import { qualificationBySlug } from '../../../data/academic/qualifications';
 import { routes } from '../../../utils/urls/routes';
+import { faqNode } from '../../../utils/schema/faq';
 
 export async function getStaticPaths() {
   return qualificationsWithCombinations().map((qualificationSlug) => ({ params: { qualification: qualificationSlug } }));
@@ -38,6 +40,29 @@ const groups = [...byBoard.entries()]
   .sort((a, b) => a.board.localeCompare(b.board));
 
 const path = levelPath(qualificationSlug as string);
+
+/**
+ * FAQ content is generated strictly from the already-computed combos/groups
+ * above — every figure and every board/subject name is read straight from
+ * the ACTIVE matrix data rendered on this page, never invented.
+ */
+const boardNames = groups.map((g) => g.board);
+const subjectCount = new Set(combos.map((c) => c.subjectSlug)).size;
+const faqs = [
+  {
+    question: `Which exam boards does Marlbridge teach ${qualification.name} for?`,
+    answer: `Marlbridge currently publishes ${qualification.name} material for ${
+      boardNames.length === 1
+        ? boardNames[0]
+        : `${boardNames.slice(0, -1).join(', ')} and ${boardNames[boardNames.length - 1]}`
+    }.`,
+  },
+  {
+    question: `How many ${qualification.name} subjects does Marlbridge teach?`,
+    answer: `Marlbridge publishes ${combos.length} ${qualification.name} subject and board combinations, covering ${subjectCount} distinct subject${subjectCount === 1 ? '' : 's'}.`,
+  },
+];
+const faq = faqNode(faqs);
 ---
 <PageLayout
   title={`${qualification.name}: Boards and Subjects`}
@@ -51,6 +76,7 @@ const path = levelPath(qualificationSlug as string);
     { label: 'Qualifications', href: levelsPath() },
     { label: qualification.name, href: path },
   ]}
+  jsonLd={faq ? [faq] : []}
 >
   <Section surface="white">
     <Container>
@@ -69,6 +95,15 @@ const path = levelPath(qualificationSlug as string);
           </ul>
         </div>
       ))}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" labelledby="qualification-faqs" border>
+    <Container>
+      <h2 id="qualification-faqs" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions</h2>
+      <div class="max-w-[80ch]">
+        <FAQ items={faqs} />
+      </div>
     </Container>
   </Section>
 </PageLayout>
