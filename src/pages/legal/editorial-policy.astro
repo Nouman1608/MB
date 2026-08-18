@@ -1,0 +1,119 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { FALLBACK_EMAIL } from '../../utils/forms/submit';
+const mailto = 'mailto:' + FALLBACK_EMAIL;
+const lastUpdated = '18 August 2026';
+---
+<PageLayout
+  title="Editorial &amp; Trust Policy"
+  description="How Marlbridge writes, verifies, versions and corrects the study material it publishes, and how to report an error."
+  path="/legal/editorial-policy/"
+  eyebrow="Legal"
+  heading="Editorial &amp; Trust Policy"
+  headingFont="sans"
+  lead={`Last updated ${lastUpdated}.`}
+  breadcrumbs={[{ label: 'Home', href: '/' }, { label: 'Editorial & Trust Policy', href: '/legal/editorial-policy/' }]}
+>
+  <Section surface="white">
+    <Container width="prose">
+      <div class="text-[17.5px] leading-[1.75] [&>h2]:mt-10 [&>h2]:text-[26px] [&>h2]:font-semibold [&>h2]:text-navy-800 [&>h3]:mt-8 [&>h3]:text-[20px] [&>h3]:font-semibold [&>p]:mt-5 [&>ul]:mt-5 [&>ul]:ps-5 [&>ul>li]:mt-2">
+        <p class="m-0 border-s-2 border-gold-500 ps-4 text-[15.5px] text-ink-mute">
+          This page sets out how Marlbridge's published study material is written, verified, versioned and
+          corrected, and who is currently accountable for it. It describes the site as it actually operates
+          today, including where that falls short of an ideal — it does not describe an aspiration.
+        </p>
+
+        <h2 id="editorial-policy">Editorial policy</h2>
+        <p>
+          Marlbridge publishes study guides, revision notes and practice material written against the specific,
+          named examination-board syllabus each resource declares (see its "Syllabus" and board labels). Content
+          is written by, or under the direction of, the Marlbridge Academic Team — a team, not a named individual,
+          until real individual author profiles are introduced (see "Authorship" below). New content is added
+          topic by topic as it is written; pages are not published as placeholders and then backfilled.
+        </p>
+
+        <h2 id="academic-review-policy">Academic review policy</h2>
+        <p>
+          Every resource is written against the official syllabus document for the board, qualification and
+          syllabus code it declares, and is checked against that document before publication. Marlbridge does
+          not currently operate a separate, named second-reviewer sign-off step distinct from the author — this
+          is a genuine limitation, stated plainly rather than implied away with review-sounding language the
+          site cannot back up. Introducing a distinct named-reviewer step is tracked as future work (see
+          "Corrections" below for how errors are still caught and fixed in the meantime).
+        </p>
+
+        <h2 id="syllabus-verification-policy">Syllabus verification policy</h2>
+        <p>
+          Every syllabus summary and official-source citation on Marlbridge is checked directly against the
+          awarding body's own current published specification and qualification pages — never against a
+          tutoring site, a forum, a search-engine snippet, or general background knowledge. Each syllabus entry
+          records the exact official URL used and the date it was checked (visible as "Verified" text on the
+          relevant qualification page). Where a syllabus has not yet been checked this way, the page says so
+          honestly ("being verified") rather than guessing at content.
+        </p>
+
+        <h3>Legacy and revised specifications</h3>
+        <p>
+          Where a board runs two versions of a specification side by side during a transition (an outgoing
+          "legacy" code and an incoming "revised" code), Marlbridge records both codes, their exact first
+          -teaching and final-exam dates, and which one currently applies to a new starter — this is called out
+          explicitly wherever it applies, not merged into a single ambiguous code.
+        </p>
+
+        <h2 id="corrections-policy">Corrections policy</h2>
+        <p>
+          If you find a factual error, an outdated syllabus reference, or a broken citation anywhere on
+          Marlbridge, please report it — this is the single most useful thing a reader can do for the site.
+          Write to <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>
+          with the page URL and what looks wrong. Reports are read and, where the correction is confirmed against
+          the official source, the page is updated and its "Verified" date is refreshed. Marlbridge does not
+          currently publish a public changelog of individual corrections; the "Last updated"/"Verified" date on
+          each page is the record of when it was last checked.
+        </p>
+
+        <h2 id="responsible-ai-disclosure">Responsible use of AI</h2>
+        <p>
+          Some of the drafting, editing, validation tooling and site engineering behind Marlbridge is produced
+          with the assistance of AI systems, under human direction and review. Academic facts — syllabus codes,
+          specification content, assessment structure — are always checked against the awarding body's own
+          official source before publication, regardless of how a draft was produced; an AI system's own
+          background knowledge is never treated as a citable source for an academic claim on this site. Original
+          practice questions and worked examples are reviewed for correctness before publication in the same way
+          as any other content.
+        </p>
+
+        <h2 id="content-versioning">Content versioning</h2>
+        <p>
+          Each resource and syllabus page carries a verification or "last updated" date rather than a formal
+          version number. When an examination board revises a specification (a new syllabus code, a new
+          examination series, or a legacy-to-revised transition), Marlbridge updates the affected pages to
+          reflect the current specification and records the change in that page's date and, where relevant, in
+          its stated applicability years. Superseded specification content is not silently deleted where a
+          legacy code remains examinable — see "Legacy and revised specifications" above.
+        </p>
+
+        <h2 id="copyright-and-original-content">Copyright and original questions</h2>
+        <p>
+          Marlbridge does not reproduce awarding-body specification text, past-exam questions, or mark schemes.
+          Syllabus summaries on this site are original explanations of what a specification covers, written from
+          the official document rather than copied from it. Practice questions published on Marlbridge are
+          wholly original, written by the Marlbridge Academic Team for the relevant syllabus — they are not
+          drawn from, or a rewording of, any board's past papers. Where a resource discusses or links to a
+          board's own past papers, it directs readers to the board's own official source rather than
+          reproducing the material itself.
+        </p>
+
+        <h2 id="authorship">Authorship and accountability</h2>
+        <p>
+          Published work currently carries the <a href="/authors/marlbridge-academic-team/" class="underline decoration-gold-500 underline-offset-2">Marlbridge Academic Team</a> byline
+          — a team, not an individual — because Marlbridge has not yet published real, named individual author
+          profiles with genuine credentials. Individual profiles will be introduced, with real names and
+          verifiable qualifications, rather than invented ones; nothing on this site attributes content to a
+          named person who does not exist.
+        </p>
+      </div>
+    </Container>
+  </Section>
+</PageLayout>

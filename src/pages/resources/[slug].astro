@@ -39,6 +39,7 @@ const jsonLd = [articleNode({
   published: d.publishedDate,
   updated: d.updatedDate,
   authorName: author?.data.name ?? 'Marlbridge Academic Team',
+  authorEntityType: author?.data.entityType ?? 'organization',
 })];
 ---
 <PageLayout

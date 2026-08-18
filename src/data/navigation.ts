@@ -32,6 +32,7 @@ export const footerNav = {
   company: [
     { label: 'About', href: '/about/' },
     { label: 'Contact', href: '/contact/' },
+    { label: 'Editorial & Trust Policy', href: '/legal/editorial-policy/' },
     { label: 'Privacy', href: '/legal/privacy/' },
     { label: 'Terms', href: '/legal/terms/' },
     { label: 'Cookie Policy', href: '/legal/cookies/' },

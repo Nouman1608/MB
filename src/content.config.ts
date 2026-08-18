@@ -175,6 +175,15 @@ const authors = defineCollection({
     image: z.string().optional(),
     credentials: z.array(z.string()).default([]),
     links: z.object({ linkedin: z.url().optional(), website: z.url().optional() }).default({}),
+    /**
+     * v1.2 WS7 — an author byline is not automatically an individual.
+     * "Marlbridge Academic Team" is a team, not a person, and must never
+     * be emitted as Schema.org Person (see src/pages/authors/[slug].astro
+     * and src/utils/schema/person.ts). Required, no default: every author
+     * entry must make this an explicit, reviewed decision rather than
+     * silently inheriting a guess.
+     */
+    entityType: z.enum(['person', 'organization']),
   }),
 });
 

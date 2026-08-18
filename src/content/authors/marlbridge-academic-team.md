@@ -6,4 +6,5 @@ bio: >-
   Marlbridge. Individual author profiles will be published as the team is
   introduced.
 credentials: []
+entityType: organization
 ---

@@ -8,7 +8,7 @@ import ResourceCard from '../../components/cards/ResourceCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
 import { getAuthors } from '../../utils/content/collections';
 import { articlesByAuthor, resourcesByAuthor } from '../../utils/content/related';
-import { personNode } from '../../utils/schema/person';
+import { personNode, organizationEntityNode } from '../../utils/schema/person';
 import { routes } from '../../utils/urls/routes';
 
 export async function getStaticPaths() {
@@ -25,7 +25,12 @@ const path = routes.author(author.id);
 const articles = await articlesByAuthor(author.id);
 const resources = await resourcesByAuthor(author.id);
 
-const jsonLd = [personNode({ path, name: d.name, jobTitle: d.role, bio: d.bio })];
+// v1.2 WS7 — a team byline must never be emitted as Schema.org Person.
+const jsonLd = [
+  d.entityType === 'organization'
+    ? organizationEntityNode({ path, name: d.name, jobTitle: d.role, bio: d.bio })
+    : personNode({ path, name: d.name, jobTitle: d.role, bio: d.bio }),
+];
 ---
 <PageLayout
   title={d.name}
