@@ -53,6 +53,7 @@ const tsx = (file) =>
   );
 
 const { MATRIX } = JSON.parse(tsx('src/data/academic/matrix.ts'));
+const { SUBJECTS } = JSON.parse(tsx('src/data/academic/subjects.ts'));
 
 // Rows that are actually live/public. (The fuller board/qualification
 // "offered" checks already ran in validate-academic-matrix.mjs earlier in
@@ -60,14 +61,25 @@ const { MATRIX } = JSON.parse(tsx('src/data/academic/matrix.ts'));
 // simpler ACTIVE+ACTIVE filter, that script fails the build first.)
 const activeRows = MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE' && c.boardOfferingStatus === 'ACTIVE');
 
-const qualsBySubject = new Map(); // subjectSlug -> Set(qualificationSlug)
-const codesBySubject = new Map(); // subjectSlug -> Set(qualificationCode)
+// The matrix's subjectSlug and the src/content/subjects/*.md filename can
+// differ (e.g. matrix 'english-language' -> content file 'english.md',
+// per subjects.ts hubId) — same indirection src/pages/boards/.../[subject]
+// .astro already uses via subjectBySlug().hubId. Without this map, this
+// script would key ACTIVE rows by the raw matrix slug, look them up by
+// content filename, miss the match, and wrongly warn that a subject with
+// real ACTIVE evidence (e.g. English) has none — Workstream 4 audit finding.
+const hubIdBySubjectSlug = new Map(SUBJECTS.map((s) => [s.slug, s.hubId ?? s.slug]));
+const keyFor = (subjectSlug) => hubIdBySubjectSlug.get(subjectSlug) ?? subjectSlug;
+
+const qualsBySubject = new Map(); // content-filename slug -> Set(qualificationSlug)
+const codesBySubject = new Map(); // content-filename slug -> Set(qualificationCode)
 for (const c of activeRows) {
-  if (!qualsBySubject.has(c.subjectSlug)) qualsBySubject.set(c.subjectSlug, new Set());
-  qualsBySubject.get(c.subjectSlug).add(c.qualificationSlug);
+  const key = keyFor(c.subjectSlug);
+  if (!qualsBySubject.has(key)) qualsBySubject.set(key, new Set());
+  qualsBySubject.get(key).add(c.qualificationSlug);
   if (c.qualificationCode) {
-    if (!codesBySubject.has(c.subjectSlug)) codesBySubject.set(c.subjectSlug, new Set());
-    codesBySubject.get(c.subjectSlug).add(c.qualificationCode);
+    if (!codesBySubject.has(key)) codesBySubject.set(key, new Set());
+    codesBySubject.get(key).add(c.qualificationCode);
   }
 }
 
