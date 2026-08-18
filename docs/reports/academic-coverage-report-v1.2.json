@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:07:16.812Z",
+  "generatedAt": "2026-08-18T20:10:53.232Z",
   "rowCount": 139,
   "rows": [
     {
@@ -4411,12 +4411,12 @@
       "subjectSlug": "mathematics",
       "specCode": "9260",
       "specStatus": "verified",
-      "specApplicability": "NO_DATA",
+      "specApplicability": "2016-ongoing",
       "officialSource1": "https://www.oxfordaqa.com/qualifications/international-gcse-mathematics/",
-      "officialSource2": "NO_DATA",
+      "officialSource2": "https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-mathematics-specification.pdf",
       "verificationDate": "2026-08-18",
       "summaryStatus": "published",
-      "topicMapStatus": "being-verified",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -4439,7 +4439,7 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
-      "risks": "no-topic-map;zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
+      "risks": "zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Write a first resource for this combination."
     },
     {
@@ -5091,12 +5091,12 @@
       "subjectSlug": "mathematics",
       "specCode": "9660",
       "specStatus": "verified",
-      "specApplicability": "NO_DATA",
+      "specApplicability": "2017-ongoing",
       "officialSource1": "https://www.oxfordaqa.com/qualifications/international-as-a-level-mathematics/",
-      "officialSource2": "NO_DATA",
+      "officialSource2": "https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-mathematics-specification.pdf",
       "verificationDate": "2026-08-18",
       "summaryStatus": "published",
-      "topicMapStatus": "being-verified",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -5119,7 +5119,7 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
-      "risks": "no-topic-map;zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
+      "risks": "zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Write a first resource for this combination."
     },
     {

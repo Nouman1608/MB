@@ -955,6 +955,102 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
     ],
   },
+
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'mathematics',
+    syllabusCode: '9260', syllabusSeries: 'For exams May/June 2018 onwards, Version 5.1',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: true,
+    source: 'OxfordAQA -- official International GCSE Mathematics (9260) specification PDF',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-mathematics-specification.pdf', verifiedDate: '2026-08-19',
+    notes: "OxfordAQA International GCSE Mathematics (9260), 120 guided learning hours. Tiered: Core (grades 1-5) and Extension (grades 4-9); all content can be assessed on the Extension tier. Four subject-content areas (Number; Algebra; Geometry and measures; Statistics and probability), each broken into the named sub-sections used in the specification's own numbering (eg 3.1.1-3.1.3 under Number). Reproduced from the official specification PDF (oxfordaqa.com), fetched 2026-08-19. Overlaps with AQA UK GCSE Mathematics (8300) per the specification's own administration section.",
+    topics: [
+      { number: 1, name: 'Number', slug: 'number-oxfordaqa-igcse-maths', subtopics: [
+        { number: '1.1', name: 'Structure and calculation', slug: 'structure-and-calculation-oxfordaqa-igcse-maths' },
+        { number: '1.2', name: 'Fractions, decimal and percentages', slug: 'fractions-decimal-and-percentages-oxfordaqa-igcse-maths' },
+        { number: '1.3', name: 'Ratio and proportion', slug: 'ratio-and-proportion-oxfordaqa-igcse-maths' },
+      ] },
+      { number: 2, name: 'Algebra', slug: 'algebra-oxfordaqa-igcse-maths', subtopics: [
+        { number: '2.1', name: 'Notation and manipulation', slug: 'notation-and-manipulation-oxfordaqa-igcse-maths' },
+        { number: '2.2', name: 'Functions, graphs and calculus', slug: 'functions-graphs-and-calculus-oxfordaqa-igcse-maths' },
+        { number: '2.3', name: 'Solving equations and inequalities', slug: 'solving-equations-and-inequalities-oxfordaqa-igcse-maths' },
+        { number: '2.4', name: 'Sequences', slug: 'sequences-oxfordaqa-igcse-maths' },
+      ] },
+      { number: 3, name: 'Geometry and measures', slug: 'geometry-and-measures-oxfordaqa-igcse-maths', subtopics: [
+        { number: '3.1', name: 'Properties and constructions', slug: 'properties-and-constructions-oxfordaqa-igcse-maths' },
+        { number: '3.2', name: 'Mensuration and calculation', slug: 'mensuration-and-calculation-oxfordaqa-igcse-maths' },
+        { number: '3.3', name: 'Transformations, matrices and vectors', slug: 'transformations-matrices-and-vectors-oxfordaqa-igcse-maths' },
+      ] },
+      { number: 4, name: 'Statistics and probability', slug: 'statistics-and-probability-oxfordaqa-igcse-maths', subtopics: [
+        { number: '4.1', name: 'Presentation and analysis', slug: 'presentation-and-analysis-oxfordaqa-igcse-maths' },
+        { number: '4.2', name: 'Interpretation', slug: 'interpretation-oxfordaqa-igcse-maths' },
+        { number: '4.3', name: 'Probability', slug: 'probability-oxfordaqa-igcse-maths' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'mathematics',
+    syllabusCode: '9660', syllabusSeries: 'International AS exams from May/June 2018, International A-level exams from May/June 2019, Version 5.2',
+    effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OxfordAQA -- official International AS and A-level Mathematics (9660) specification PDF',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-mathematics-specification.pdf', verifiedDate: '2026-08-19',
+    notes: "OxfordAQA International AS and A-level Mathematics (9660) is modular: the International AS (Unit P1 + Unit PSM1) is 50% of the full International A-level content and 40% of its marks, with the International A-level adding Unit P2 plus a choice of Unit S2 (Statistics) or Unit M2 (Mechanics). Unit PSM1 itself combines Pure Maths (PP1), Statistics (S1) and Mechanics (M1) sub-units. Recorded here as 7 top-level units, each with its own named sub-topics, reproduced from the official specification PDF's own P1.x/PP1.x/S1.x/M1.x/P2.x/S2.x/M2.x numbering (oxfordaqa.com), fetched 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Unit P1: Pure Maths (International AS)', slug: 'unit-p1-pure-maths-oxfordaqa-alevel-maths', subtopics: [
+        { number: 'P1.1', name: 'Algebra', slug: 'p1-algebra-oxfordaqa-alevel-maths' },
+        { number: 'P1.2', name: 'Coordinate geometry', slug: 'p1-coordinate-geometry-oxfordaqa-alevel-maths' },
+        { number: 'P1.3', name: 'Differentiation', slug: 'p1-differentiation-oxfordaqa-alevel-maths' },
+        { number: 'P1.4', name: 'Integration', slug: 'p1-integration-oxfordaqa-alevel-maths' },
+        { number: 'P1.5', name: 'Sequences and series', slug: 'p1-sequences-and-series-oxfordaqa-alevel-maths' },
+      ] },
+      { number: 2, name: 'Unit PSM1 -- PP1: Pure Maths (International AS)', slug: 'unit-psm1-pp1-pure-maths-oxfordaqa-alevel-maths', subtopics: [
+        { number: 'PP1.1', name: 'Circle', slug: 'pp1-circle-oxfordaqa-alevel-maths' },
+        { number: 'PP1.2', name: 'Trigonometry', slug: 'pp1-trigonometry-oxfordaqa-alevel-maths' },
+        { number: 'PP1.3', name: 'Exponential and logarithms', slug: 'pp1-exponential-and-logarithms-oxfordaqa-alevel-maths' },
+      ] },
+      { number: 3, name: 'Unit PSM1 -- S1: Statistics (International AS)', slug: 'unit-psm1-s1-statistics-oxfordaqa-alevel-maths', subtopics: [
+        { number: 'S1.1', name: 'Further probability', slug: 's1-further-probability-oxfordaqa-alevel-maths' },
+        { number: 'S1.2', name: 'Discrete random variables', slug: 's1-discrete-random-variables-oxfordaqa-alevel-maths' },
+        { number: 'S1.3', name: 'Bernoulli and binomial distributions', slug: 's1-bernoulli-and-binomial-distributions-oxfordaqa-alevel-maths' },
+      ] },
+      { number: 4, name: 'Unit PSM1 -- M1: Mechanics (International AS)', slug: 'unit-psm1-m1-mechanics-oxfordaqa-alevel-maths', subtopics: [
+        { number: 'M1.1', name: 'Motion in a straight line with constant acceleration', slug: 'm1-motion-constant-acceleration-oxfordaqa-alevel-maths' },
+        { number: 'M1.2', name: 'Motion in a straight line with variable acceleration', slug: 'm1-motion-variable-acceleration-oxfordaqa-alevel-maths' },
+        { number: 'M1.3', name: "Forces and Newton's Laws", slug: 'm1-forces-and-newtons-laws-oxfordaqa-alevel-maths' },
+        { number: 'M1.4', name: 'Momentum and impulse', slug: 'm1-momentum-and-impulse-oxfordaqa-alevel-maths' },
+      ] },
+      { number: 5, name: 'Unit P2: Pure Maths (International A-level)', slug: 'unit-p2-pure-maths-oxfordaqa-alevel-maths', subtopics: [
+        { number: 'P2.1', name: 'Algebra and functions', slug: 'p2-algebra-and-functions-oxfordaqa-alevel-maths' },
+        { number: 'P2.2', name: 'Sequences and series', slug: 'p2-sequences-and-series-oxfordaqa-alevel-maths' },
+        { number: 'P2.3', name: 'Coordinate geometry in the (x, y) plane', slug: 'p2-coordinate-geometry-oxfordaqa-alevel-maths' },
+        { number: 'P2.4', name: 'Trigonometry', slug: 'p2-trigonometry-oxfordaqa-alevel-maths' },
+        { number: 'P2.5', name: 'Exponentials and logarithms', slug: 'p2-exponentials-and-logarithms-oxfordaqa-alevel-maths' },
+        { number: 'P2.6', name: 'Differentiation', slug: 'p2-differentiation-oxfordaqa-alevel-maths' },
+        { number: 'P2.7', name: 'Integration', slug: 'p2-integration-oxfordaqa-alevel-maths' },
+        { number: 'P2.8', name: 'Differential equations', slug: 'p2-differential-equations-oxfordaqa-alevel-maths' },
+        { number: 'P2.9', name: 'Numerical methods', slug: 'p2-numerical-methods-oxfordaqa-alevel-maths' },
+        { number: 'P2.10', name: 'Vectors', slug: 'p2-vectors-oxfordaqa-alevel-maths' },
+      ] },
+      { number: 6, name: 'Unit S2: Statistics (International A-level)', slug: 'unit-s2-statistics-oxfordaqa-alevel-maths', subtopics: [
+        { number: 'S2.1', name: 'Poisson distribution', slug: 's2-poisson-distribution-oxfordaqa-alevel-maths' },
+        { number: 'S2.2', name: 'Continuous random variables', slug: 's2-continuous-random-variables-oxfordaqa-alevel-maths' },
+        { number: 'S2.3', name: 'Exponential distribution', slug: 's2-exponential-distribution-oxfordaqa-alevel-maths' },
+        { number: 'S2.4', name: 'Normal distribution', slug: 's2-normal-distribution-oxfordaqa-alevel-maths' },
+        { number: 'S2.5', name: 'Estimation', slug: 's2-estimation-oxfordaqa-alevel-maths' },
+        { number: 'S2.6', name: 'Hypothesis testing', slug: 's2-hypothesis-testing-oxfordaqa-alevel-maths' },
+      ] },
+      { number: 7, name: 'Unit M2: Mechanics (International A-level)', slug: 'unit-m2-mechanics-oxfordaqa-alevel-maths', subtopics: [
+        { number: 'M2.1', name: 'Mathematical modelling', slug: 'm2-mathematical-modelling-oxfordaqa-alevel-maths' },
+        { number: 'M2.2', name: 'Kinematics', slug: 'm2-kinematics-oxfordaqa-alevel-maths' },
+        { number: 'M2.3', name: 'Statics and forces', slug: 'm2-statics-and-forces-oxfordaqa-alevel-maths' },
+        { number: 'M2.4', name: "Newton's Law of Motion", slug: 'm2-newtons-law-of-motion-oxfordaqa-alevel-maths' },
+        { number: 'M2.5', name: 'Projectiles', slug: 'm2-projectiles-oxfordaqa-alevel-maths' },
+        { number: 'M2.6', name: 'Work and energy', slug: 'm2-work-and-energy-oxfordaqa-alevel-maths' },
+        { number: 'M2.7', name: 'Uniform circular motion', slug: 'm2-uniform-circular-motion-oxfordaqa-alevel-maths' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**
