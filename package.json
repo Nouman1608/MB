@@ -12,7 +12,8 @@
     "generate:redirects": "node scripts/generate-redirects.mjs",
     "generate:llms": "node scripts/generate-llms-txt.mjs",
     "validate:academic": "node scripts/validate-academic-matrix.mjs && node scripts/validate-academic-content.mjs && node scripts/validate-commercial-claims.mjs && node scripts/validate-cross-board-integrity.mjs",
-    "coverage:academic": "node scripts/academic-coverage-dashboard.mjs"
+    "coverage:academic": "node scripts/academic-coverage-dashboard.mjs",
+    "coverage:academic-v2": "node scripts/academic-coverage-report-v2.mjs"
   },
   "dependencies": {
     "astro": "^7.2.2",
