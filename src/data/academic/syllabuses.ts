@@ -619,6 +619,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-18',
     notes: 'Untiered, linear qualification: two written papers taken in the same series (Paper 1, core content; Paper 2, all content including bold statements marked with a "P" reference that are Physics-only, not shared with the Science (Double Award) specification). Eight topics: Forces and motion; Electricity; Waves; Energy resources and energy transfers; Solids, liquids and gases; Magnetism and electromagnetism; Radioactivity and particles; Astrophysics. First teaching September 2017, first examination June 2019, current specification Issue 4 (September 2024).',
   },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'physics',
+    officialTitle: 'AQA GCSE Physics (8463)',
+    code: '8463',
+    boardSummary:
+      'This specification gives students the opportunity to study the more theoretical aspects of physics, such as astrophysics and particle physics, and covers the essential knowledge and skills for progression to further study.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification',
+    verifiedOn: '2026-08-19',
+    notes: 'Untiered as a standalone Physics GCSE (Foundation/Higher content is flagged within each topic via "HT only", not via separate specifications). Eight topics: Energy, Electricity, Particle model of matter, Atomic structure, Forces, Waves, Magnetism and electromagnetism, and Space physics. Most content is co-teachable with GCSE Combined Science: Trilogy (8464); content marked "(physics only)" in the official specification is Physics-only. First teaching September 2016. Assessed across two written papers (Paper 1: Energy, Electricity, Particle model of matter, Atomic structure; Paper 2: Forces, Waves, Magnetism and electromagnetism, Space physics), each 1 hour 45 minutes.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>

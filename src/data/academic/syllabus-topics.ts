@@ -401,6 +401,63 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 5, name: 'Thermodynamics, Radiation, Oscillations and Cosmology', slug: 'unit-5-thermodynamics-radiation-oscillations-and-cosmology', subtopics: [{ number: '5.3', name: 'Thermodynamics', slug: 'thermodynamics-edexcel' }, { number: '5.4', name: 'Nuclear Decay', slug: 'nuclear-decay' }, { number: '5.5', name: 'Oscillations', slug: 'oscillations-edexcel' }, { number: '5.6', name: 'Astrophysics and Cosmology', slug: 'astrophysics-and-cosmology' }] },
     ],
   },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'physics',
+    syllabusCode: '8463', syllabusSeries: 'For first teaching 2016',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'AQA -- official GCSE Physics (8463) specification, live subject-content pages',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/physics/gcse/physics-8463/specification/subject-content', verifiedDate: '2026-08-19',
+    notes: "AQA GCSE Physics (8463), first teaching September 2016. Untiered as a standalone Physics GCSE (Foundation/Higher tier applies within each paper via 'HT only' content flags, not via separate specifications). Most content is co-teachable with GCSE Combined Science: Trilogy; content marked '(physics only)' in the official specification is Physics-only and not shared with Combined Science -- flagged in resource prose the same way Edexcel's 'P' references are. All 8 topics (4.1-4.8) and their sub-topic structure verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched in full 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Energy', slug: 'energy-aqa-gcse', subtopics: [
+        { number: '4.1.1', name: 'Energy changes in a system', slug: 'energy-changes-in-a-system' },
+        { number: '4.1.2', name: 'Conservation and dissipation of energy', slug: 'conservation-and-dissipation-of-energy' },
+        { number: '4.1.3', name: 'National and global energy resources', slug: 'national-and-global-energy-resources' },
+      ] },
+      { number: 2, name: 'Electricity', slug: 'electricity-aqa-gcse', subtopics: [
+        { number: '4.2.1', name: 'Current, potential difference and resistance', slug: 'current-potential-difference-and-resistance-aqa' },
+        { number: '4.2.2', name: 'Series and parallel circuits', slug: 'series-and-parallel-circuits-aqa' },
+        { number: '4.2.3', name: 'Domestic uses and safety', slug: 'domestic-uses-and-safety' },
+        { number: '4.2.4', name: 'Energy transfers', slug: 'energy-transfers-aqa-electricity' },
+        { number: '4.2.5', name: 'Static electricity', slug: 'static-electricity' },
+      ] },
+      { number: 3, name: 'Particle model of matter', slug: 'particle-model-of-matter-aqa-gcse', subtopics: [
+        { number: '4.3.1', name: 'Changes of state and the particle model', slug: 'changes-of-state-and-the-particle-model' },
+        { number: '4.3.2', name: 'Internal energy and energy transfers', slug: 'internal-energy-and-energy-transfers' },
+        { number: '4.3.3', name: 'Particle model and pressure', slug: 'particle-model-and-pressure' },
+      ] },
+      { number: 4, name: 'Atomic structure', slug: 'atomic-structure-aqa-gcse', subtopics: [
+        { number: '4.4.1', name: 'Atoms and isotopes', slug: 'atoms-and-isotopes-aqa' },
+        { number: '4.4.2', name: 'Atoms and nuclear radiation', slug: 'atoms-and-nuclear-radiation' },
+        { number: '4.4.3', name: 'Hazards and uses of radioactive emissions and background radiation', slug: 'hazards-and-uses-of-radioactive-emissions' },
+        { number: '4.4.4', name: 'Nuclear fission and fusion', slug: 'nuclear-fission-and-fusion-aqa-gcse' },
+      ] },
+      { number: 5, name: 'Forces', slug: 'forces-aqa-gcse', subtopics: [
+        { number: '4.5.1', name: 'Forces and their interactions', slug: 'forces-and-their-interactions' },
+        { number: '4.5.2', name: 'Work done and energy transfer', slug: 'work-done-and-energy-transfer-aqa' },
+        { number: '4.5.3', name: 'Forces and elasticity', slug: 'forces-and-elasticity' },
+        { number: '4.5.4', name: 'Moments, levers and gears', slug: 'moments-levers-and-gears' },
+        { number: '4.5.5', name: 'Pressure and pressure differences in fluids', slug: 'pressure-and-pressure-differences-in-fluids' },
+        { number: '4.5.6', name: 'Forces and motion', slug: 'forces-and-motion-aqa-gcse' },
+        { number: '4.5.7', name: 'Momentum', slug: 'momentum-aqa-gcse' },
+      ] },
+      { number: 6, name: 'Waves', slug: 'waves-aqa-gcse', subtopics: [
+        { number: '4.6.1', name: 'Waves in air, fluids and solids', slug: 'waves-in-air-fluids-and-solids' },
+        { number: '4.6.2', name: 'Electromagnetic waves', slug: 'electromagnetic-waves-aqa-gcse' },
+        { number: '4.6.3', name: 'Black body radiation', slug: 'black-body-radiation-aqa-gcse' },
+      ] },
+      { number: 7, name: 'Magnetism and electromagnetism', slug: 'magnetism-and-electromagnetism-aqa-gcse', subtopics: [
+        { number: '4.7.1', name: 'Permanent and induced magnetism, magnetic forces and fields', slug: 'permanent-and-induced-magnetism' },
+        { number: '4.7.2', name: 'The motor effect', slug: 'the-motor-effect' },
+        { number: '4.7.3', name: 'Induced potential, transformers and the National Grid', slug: 'induced-potential-transformers-and-the-national-grid' },
+      ] },
+      { number: 8, name: 'Space physics', slug: 'space-physics-aqa-gcse', subtopics: [
+        { number: '4.8.1', name: 'Solar system; stability of orbital motions; satellites', slug: 'solar-system-orbital-motions-satellites' },
+        { number: '4.8.2', name: 'Red-shift', slug: 'red-shift' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**
