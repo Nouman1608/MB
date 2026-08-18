@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:17:48.354Z",
+  "generatedAt": "2026-08-18T20:20:01.858Z",
   "rowCount": 139,
   "rows": [
     {
@@ -2729,14 +2729,14 @@
       "qualificationSlug": "a-level",
       "subject": "Mathematics",
       "subjectSlug": "mathematics",
-      "specCode": "NO_DATA",
-      "specStatus": "unverified",
-      "specApplicability": "NO_DATA",
-      "officialSource1": "NO_DATA",
-      "officialSource2": "NO_DATA",
-      "verificationDate": "NO_DATA",
-      "summaryStatus": "being-verified",
-      "topicMapStatus": "being-verified",
+      "specCode": "7357",
+      "specStatus": "verified",
+      "specApplicability": "2017-ongoing",
+      "officialSource1": "https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification",
+      "officialSource2": "https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification/subject-content",
+      "verificationDate": "2026-08-19",
+      "summaryStatus": "published",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -2759,8 +2759,8 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
-      "risks": "no-official-source;no-topic-map;zero-resources",
-      "nextAction": "Source the official specification, then write a first resource."
+      "risks": "zero-resources",
+      "nextAction": "Write a first resource for this combination."
     },
     {
       "board": "AQA",

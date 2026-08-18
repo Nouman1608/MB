@@ -693,6 +693,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: "International Advanced Level (IAL, six units): compulsory P1-P4 (Pure Mathematics 1-4) plus one of the following pairs: M1+S1, M1+D1, M1+M2, S1+D1, or S1+S2. The International Advanced Subsidiary (IAS, code XMA01, three units) requires only P1, P2 plus one of M1/S1/D1, and is not recorded as a separate matrix row. Further Pure Mathematics units (FP1-FP3) and units M3/S3 belong to the separate Further Mathematics (YFM01) and Pure Mathematics (YPM01) awards, not to the plain Mathematics award, and are not represented here. Specification Issue 3 (April 2019).",
   },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'mathematics',
+    officialTitle: 'AQA A-level Mathematics (7357)',
+    code: '7357',
+    boardSummary:
+      'The subject content for A-level Mathematics is set out by the Department for Education (DfE) and is common across all exam boards. The content set out in this specification covers the complete A-level course of study.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification',
+    verifiedOn: '2026-08-19',
+    notes: 'First teaching 2017. 21 lettered subject-content sections (A-S, plus a cross-cutting requirement on the use of large data sets in statistics) -- content and weighting are prescribed by the DfE and common to all boards offering A-level Mathematics, not set independently by AQA.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>

@@ -122,6 +122,9 @@ const AQA_ALEVEL_CODES: Record<string, string> = {
   // 7127 is live (next exam 17 May 2027, current specification for first
   // teaching 2017). Not withdrawn — resolves the prior "needs checking" note.
   accounting: '7127',
+  // Verified 2026-08-19 at aqa.org.uk/subjects/mathematics/a-level/mathematics-7357:
+  // live specification code, first teaching 2017.
+  mathematics: '7357',
 };
 
 /** Verified at ocr.org.uk GCSE qualification pages, 2026-08-18. */
