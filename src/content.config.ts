@@ -1,10 +1,11 @@
-import { defineCollection, reference, z } from 'astro:content';
+import { defineCollection, reference } from 'astro:content';
+import { z } from 'astro/zod';
 import { glob } from 'astro/loaders';
 
 const seoFields = {
   seoTitle: z.string().max(60).optional(),
   seoDescription: z.string().min(70).max(160).optional(),
-  canonical: z.string().url().optional(),
+  canonical: z.url().optional(),
   noindex: z.boolean().default(false),
 };
 
@@ -160,7 +161,7 @@ const authors = defineCollection({
     bio: z.string(),
     image: z.string().optional(),
     credentials: z.array(z.string()).default([]),
-    links: z.object({ linkedin: z.string().url().optional(), website: z.string().url().optional() }).default({}),
+    links: z.object({ linkedin: z.url().optional(), website: z.url().optional() }).default({}),
   }),
 });
 

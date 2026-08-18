@@ -48,6 +48,17 @@ export default defineConfig({
   trailingSlash: 'always',
   output: 'static',
   build: { format: 'directory' },
+  /**
+   * Astro 7 changed the default from `true` (HTML-aware whitespace
+   * compression, preserving a single space between inline elements per the
+   * HTML spec) to `'jsx'` (strips inter-element whitespace the way React
+   * does). This site's templates rely on the old behavior in many places
+   * (e.g. "7 resources" + "IGCSE" rendered as adjacent inline elements) —
+   * the new default silently ran words together sitewide. Pinned to `true`
+   * to keep the pre-upgrade rendering, verified via a full before/after
+   * text-content diff during the Astro 5->7 upgrade.
+   */
+  compressHTML: true,
   integrations: [
     sitemap({
       // Excluded: private/internal routes only.
