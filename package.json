@@ -10,7 +10,8 @@
     "preview": "astro preview",
     "check": "astro check",
     "generate:redirects": "node scripts/generate-redirects.mjs",
-    "validate:academic": "node scripts/validate-academic-matrix.mjs && node scripts/validate-academic-content.mjs && node scripts/validate-commercial-claims.mjs"
+    "validate:academic": "node scripts/validate-academic-matrix.mjs && node scripts/validate-academic-content.mjs && node scripts/validate-commercial-claims.mjs",
+    "coverage:academic": "node scripts/academic-coverage-dashboard.mjs"
   },
   "dependencies": {
     "astro": "^5.13.0",
