@@ -188,6 +188,7 @@ conditions are chosen
 - [Redox Reactions](/resources/redox-reactions/) — the Contact process is itself a redox reaction
 - [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — testing the gas given off in a rate experiment
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/) — balancing the Haber and Contact process equations
+- [Exothermic and Endothermic Reactions](/resources/exothermic-and-endothermic-reactions/) — activation energy and reaction pathway diagrams in full
 - [Chemical Equilibria: Kc, Kp and Le Chatelier's Principle](/resources/as-chemical-equilibria/) — the AS Level continuation of the reversible-reactions half of this topic (9701)
 - [Reaction Kinetics: Collision Theory and Catalysis](/resources/as-reaction-kinetics-collision-theory-and-catalysis/) — the AS Level continuation of the rate-of-reaction half of this topic (9701)
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)

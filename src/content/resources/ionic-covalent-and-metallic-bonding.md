@@ -176,6 +176,7 @@ another without breaking the bonding.
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/)
 - [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — the ionic charges used in test reagents
 - [The Periodic Table: Groups and Trends](/resources/periodic-table-groups-and-trends/) — why group number sets ionic charge
+- [Metal Properties and Reactivity](/resources/metal-properties-and-reactivity/) — metallic bonding's physical consequences, and the reactivity series
 - [Chemical Bonding: Electronegativity, Ionic and Metallic Bonds](/resources/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds/) — the AS Level continuation of ionic and metallic bonding (9701)
 - [Chemical Bonding: Shapes and Intermolecular Forces](/resources/as-chemical-bonding-shapes-and-intermolecular-forces/) — the AS Level continuation of covalent bonding (9701)
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)

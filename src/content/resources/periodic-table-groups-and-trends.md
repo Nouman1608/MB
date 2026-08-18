@@ -190,6 +190,7 @@ numbers (iron(II)/iron(III))
 - [Identification of Ions and Gases](/resources/identification-of-ions-and-gases/) — halide precipitate colours and iron(II)/iron(III) tests
 - [Atomic Structure](/resources/atomic-structure/) — electronic configuration behind every trend on this page
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — how group number sets ionic charge
+- [Metal Properties and Reactivity](/resources/metal-properties-and-reactivity/) — the reactivity series, which Group I's own reactivity trend feeds into
 - [Group 2: The Alkaline Earth Metals](/resources/as-group-2-the-alkaline-earth-metals/) · [Group 17: The Halogens](/resources/as-group-17-the-halogens/) — the AS Level continuation of Group I/VIII and Group VII (9701), not required for IGCSE or O Level
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
