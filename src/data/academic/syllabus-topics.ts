@@ -262,6 +262,73 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 19, name: 'Relationships of organisms with one another and with the environment', slug: 'relationships-of-organisms-with-one-another-and-with-the-environment', subtopics: [] },
     ],
   },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'business',
+    syllabusCode: '7115', syllabusSeries: '2026',
+    effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697338-2026-syllabus.pdf', verifiedDate: '2026-08-18',
+    notes: 'IMPORTANT: this syllabus is valid for 2026 ONLY (single examination year, not a 2026-2028 series like most other subjects on this site) - confirmed directly from the PDF ("Use this syllabus for exams in 2026"). Cambridge replaces 7115 with 7081 ("Cambridge O Level Business", shortened name, same lineage per Phase 11 research) from 2027; whoever next touches this subject should re-verify against 7081 rather than assume continuity. Not tiered. Phase 16: Topic 1 subtopics 1.1 and 1.2 verified in full against the PDF; 1.3 (Enterprise, business growth and size) was reached but only its 1.3.1 sub-point (Enterprise and entrepreneurship) was captured before the extraction ran out of budget for this phase - recorded as a known partial gap rather than guessed. Topics 2-6 (People in business; Marketing; Operations management; Financial information and decisions; External influences on business activity) are name-only from search-result context, NOT yet verified against the primary PDF, and are deliberately not entered into the topics array below until they are.',
+    topics: [
+      { number: 1, name: 'Understanding business activity', slug: 'understanding-business-activity', subtopics: [
+        { number: '1.1', name: 'Business activity', slug: 'business-activity' },
+        { number: '1.2', name: 'Classification of businesses', slug: 'classification-of-businesses' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'economics',
+    syllabusCode: '2281', syllabusSeries: '2026',
+    effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697295-2026-syllabus.pdf', verifiedDate: '2026-08-18',
+    notes: 'IMPORTANT: like Business 7115, this syllabus is valid for 2026 ONLY (confirmed directly from the PDF: "Use this syllabus for exams in 2026"), not a multi-year series. No successor code has been confirmed for Economics (unlike Business, where 7081 is a known, sourced replacement) - this should be checked fresh, not assumed, whenever this subject is next touched. Not tiered. Phase 16: Topic 1 (The basic economic problem) verified in full - all three of its subtopics. Topics 2-6+ (covering markets/resource allocation, firms, income/poverty, and international trade among other areas, per partial section titles seen during research) are not yet verified and are deliberately not entered below.',
+    topics: [
+      { number: 1, name: 'The basic economic problem', slug: 'the-basic-economic-problem', subtopics: [
+        { number: '1.1', name: 'The nature of the economic problem', slug: 'the-nature-of-the-economic-problem' },
+        { number: '1.2', name: 'The factors of production', slug: 'the-factors-of-production' },
+        { number: '1.3', name: 'Opportunity cost', slug: 'opportunity-cost' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'accounting',
+    syllabusCode: '9706', syllabusSeries: '2026-2028',
+    effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697417-2026-2028-syllabus.pdf', verifiedDate: '2026-08-18',
+    notes: 'Not tiered, but staged: AS Level candidates study topics 1.1-2.2 only; A Level candidates study all of 1.1-4.4 (AS Level content is assumed knowledge for A Level Papers 3-4). No Cambridge O Level Accounting exists in the approved scope - Learners Academy\'s own subject list (the matrix\'s evidence source) only shows Accounting at IGCSE and A Level, matching the finding already recorded in Phase 11, so this AS/A Level entry point was chosen deliberately rather than an unverified O Level substitute. Phase 16: AS Level topics 1.1 (Types of business entity) and 1.2 (The accounting system) verified in full against the PDF. Topics 1.3-1.6 and all of Section 2 (AS Level) plus Sections 3-4 (A Level only) are name-only from the content-overview table, not yet subtopic-verified.',
+    topics: [
+      { number: 1, name: 'Financial accounting', slug: 'financial-accounting', stage: 'AS', subtopics: [
+        { number: '1.1', name: 'Types of business entity', slug: 'types-of-business-entity' },
+        { number: '1.2', name: 'The accounting system', slug: 'the-accounting-system' },
+        { number: '1.3', name: 'Accounting for non-current assets', slug: 'accounting-for-non-current-assets' },
+        { number: '1.4', name: 'Reconciliation and verification', slug: 'reconciliation-and-verification' },
+        { number: '1.5', name: 'Preparation of financial statements', slug: 'preparation-of-financial-statements' },
+        { number: '1.6', name: 'Analysis and communication of accounting information', slug: 'as-analysis-and-communication-of-accounting-information' },
+      ] },
+      { number: 2, name: 'Cost and management accounting', slug: 'as-cost-and-management-accounting', stage: 'AS', subtopics: [
+        { number: '2.1', name: 'Costs and cost behaviour', slug: 'costs-and-cost-behaviour' },
+        { number: '2.2', name: 'Traditional costing methods', slug: 'traditional-costing-methods' },
+      ] },
+      { number: 3, name: 'Financial accounting', slug: 'a-financial-accounting', stage: 'A', subtopics: [
+        { number: '3.1', name: 'Preparation of financial statements', slug: 'a-preparation-of-financial-statements' },
+        { number: '3.2', name: 'Regulatory and ethical considerations', slug: 'regulatory-and-ethical-considerations' },
+        { number: '3.3', name: 'Business acquisition and merger', slug: 'business-acquisition-and-merger' },
+        { number: '3.4', name: 'Computerised accounting systems', slug: 'computerised-accounting-systems' },
+        { number: '3.5', name: 'Analysis and communication of accounting information', slug: 'a-analysis-and-communication-of-accounting-information' },
+      ] },
+      { number: 4, name: 'Cost and management accounting', slug: 'a-cost-and-management-accounting', stage: 'A', subtopics: [
+        { number: '4.1', name: 'Activity based costing (ABC)', slug: 'activity-based-costing-abc' },
+        { number: '4.2', name: 'Standard costing', slug: 'standard-costing' },
+        { number: '4.3', name: 'Budgeting and budgetary control', slug: 'budgeting-and-budgetary-control' },
+        { number: '4.4', name: 'Investment appraisal', slug: 'investment-appraisal' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**

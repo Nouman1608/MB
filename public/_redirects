@@ -338,6 +338,20 @@
 /resources/exam-preparation/biological-molecules/         /resources/biological-molecules/  301
 /resources/subject-guides/biological-molecules/           /resources/biological-molecules/  301
 /resources/learning-articles/biological-molecules/        /resources/biological-molecules/  301
+/resources/study-guides/business-activity-and-classification/  /resources/business-activity-and-classification/  301
+/resources/revision-notes/business-activity-and-classification/  /resources/business-activity-and-classification/  301
+/resources/past-papers/business-activity-and-classification/  /resources/business-activity-and-classification/  301
+/resources/practice-questions/business-activity-and-classification/  /resources/business-activity-and-classification/  301
+/resources/exam-preparation/business-activity-and-classification/  /resources/business-activity-and-classification/  301
+/resources/subject-guides/business-activity-and-classification/  /resources/business-activity-and-classification/  301
+/resources/learning-articles/business-activity-and-classification/  /resources/business-activity-and-classification/  301
+/resources/study-guides/business-entities-and-the-accounting-system/  /resources/business-entities-and-the-accounting-system/  301
+/resources/revision-notes/business-entities-and-the-accounting-system/  /resources/business-entities-and-the-accounting-system/  301
+/resources/past-papers/business-entities-and-the-accounting-system/  /resources/business-entities-and-the-accounting-system/  301
+/resources/practice-questions/business-entities-and-the-accounting-system/  /resources/business-entities-and-the-accounting-system/  301
+/resources/exam-preparation/business-entities-and-the-accounting-system/  /resources/business-entities-and-the-accounting-system/  301
+/resources/subject-guides/business-entities-and-the-accounting-system/  /resources/business-entities-and-the-accounting-system/  301
+/resources/learning-articles/business-entities-and-the-accounting-system/  /resources/business-entities-and-the-accounting-system/  301
 /resources/study-guides/cell-structure-and-organisation/  /resources/cell-structure-and-organisation/  301
 /resources/revision-notes/cell-structure-and-organisation/  /resources/cell-structure-and-organisation/  301
 /resources/past-papers/cell-structure-and-organisation/   /resources/cell-structure-and-organisation/  301
@@ -555,6 +569,13 @@
 /resources/exam-preparation/states-of-matter-and-kinetic-particle-theory/  /resources/states-of-matter-and-kinetic-particle-theory/  301
 /resources/subject-guides/states-of-matter-and-kinetic-particle-theory/  /resources/states-of-matter-and-kinetic-particle-theory/  301
 /resources/learning-articles/states-of-matter-and-kinetic-particle-theory/  /resources/states-of-matter-and-kinetic-particle-theory/  301
+/resources/study-guides/the-basic-economic-problem/       /resources/the-basic-economic-problem/  301
+/resources/revision-notes/the-basic-economic-problem/     /resources/the-basic-economic-problem/  301
+/resources/past-papers/the-basic-economic-problem/        /resources/the-basic-economic-problem/  301
+/resources/practice-questions/the-basic-economic-problem/  /resources/the-basic-economic-problem/  301
+/resources/exam-preparation/the-basic-economic-problem/   /resources/the-basic-economic-problem/  301
+/resources/subject-guides/the-basic-economic-problem/     /resources/the-basic-economic-problem/  301
+/resources/learning-articles/the-basic-economic-problem/  /resources/the-basic-economic-problem/  301
 
 # Consolidated resources: old slug (flat + every nested type) -> surviving resource
 /resources/stoichiometry/                                 /resources/formulae-equations-and-the-mole/  301
