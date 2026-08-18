@@ -600,6 +600,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     notes: "Built around three themes — identity and culture; local, national, international and global areas of interest; and current and future study and employment — assessed through a Reading, Grammar and Meaning paper (including English-to-Urdu translation) and a Writing paper, equally weighted with no coursework. OxfordAQA's official title for this qualification is simply Urdu, not Urdu Language. First teaching September 2024, first examined June 2026 onwards. OxfordAQA does not offer Urdu at AS or A-level — International GCSE is the only level offered.",
   },
   {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'physics',
+    officialTitle: 'Pearson Edexcel International Advanced Level in Physics (YPH11)',
+    code: 'YPH11',
+    boardSummary:
+      'The Pearson Edexcel International Advanced Subsidiary and Advanced Level in Physics develop knowledge and understanding of mechanics, materials, waves, electricity, fields, thermodynamics, radiation, particles, oscillations and cosmology, alongside practical, mathematical and problem-solving skills.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/physics-2018.html',
+    verifiedOn: '2026-08-18',
+    notes: 'Modular qualification: the International Advanced Subsidiary (IAS, code XPH11) is claimed on completion of Units 1-3; the full International Advanced Level (IAL, code YPH11) requires all six units (1-6). Units 1, 2, 4 and 5 are content units; Units 3 and 6 are practical-skills-only externally examined papers. First teaching September 2018, first examination January 2019, current specification Issue 3 (July 2021).',
+  },
+  {
     boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'physics',
     officialTitle: 'Pearson Edexcel International GCSE in Physics (4PH1)',
     code: '4PH1',

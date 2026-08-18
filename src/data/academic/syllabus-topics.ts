@@ -386,6 +386,21 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 8, name: 'Astrophysics', slug: 'astrophysics', subtopics: [{ number: '8a', name: 'Units', slug: 'units-astrophysics' }, { number: '8b', name: 'Motion in the universe', slug: 'motion-in-the-universe' }, { number: '8c', name: 'Stellar evolution', slug: 'stellar-evolution' }, { number: '8d', name: 'Cosmology', slug: 'cosmology' }] },
     ],
   },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'physics',
+    syllabusCode: 'YPH11', syllabusSeries: 'Issue 3',
+    effectiveFrom: '2018', effectiveTo: '2027', status: 'current',
+    tiered: false,
+    source: 'Pearson Edexcel -- official International Advanced Level Physics specification PDF',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Physics/2018/Specification%20and%20Sample%20Assessment/9781446957783_IAL_Physics_Iss3.pdf', verifiedDate: '2026-08-18',
+    notes: "Pearson Edexcel International Advanced Subsidiary in Physics (XPH11) and International Advanced Level in Physics (YPH11), first teaching September 2018, Issue 3 (July 2021), current for the 2026 series. Six modular units: Unit 1 Mechanics and Materials, Unit 2 Waves and Electricity, Unit 3 Practical Skills in Physics I (IAS); Unit 4 Further Mechanics, Fields and Particles, Unit 5 Thermodynamics, Radiation, Oscillations and Cosmology, Unit 6 Practical Skills in Physics II (IA2). Units 3 and 6 are practical-skills-only externally examined papers with no separate content sub-topics of their own -- they assess experimental technique developed while studying the other units -- so they are intentionally not represented as taxonomy topics here, matching how this site treats practical endorsements elsewhere. Unit 1 sub-topic names (1.3, 1.4) and Unit 2's first sub-topic (2.3) were verified directly against the official specification PDF; Unit 2's second sub-topic (2.4) and all of Units 4-5 were cross-verified against savemyexams.com's Edexcel IAL Physics revision-notes index, which mirrors the specification's own numbering and sub-topic titles, since the live fetch of the later pages of the official PDF could not be completed in this session -- flagged here for a future re-verification pass directly against the primary PDF.",
+    topics: [
+      { number: 1, name: 'Mechanics and Materials', slug: 'unit-1-mechanics-and-materials', subtopics: [{ number: '1.3', name: 'Mechanics', slug: 'mechanics' }, { number: '1.4', name: 'Materials', slug: 'materials' }] },
+      { number: 2, name: 'Waves and Electricity', slug: 'unit-2-waves-and-electricity', subtopics: [{ number: '2.3', name: 'Waves and Particle Nature of Light', slug: 'waves-and-particle-nature-of-light' }, { number: '2.4', name: 'Electric Circuits', slug: 'electric-circuits' }] },
+      { number: 4, name: 'Further Mechanics, Fields and Particles', slug: 'unit-4-further-mechanics-fields-and-particles', subtopics: [{ number: '4.3', name: 'Further Mechanics', slug: 'further-mechanics' }, { number: '4.4', name: 'Electric and Magnetic Fields', slug: 'electric-and-magnetic-fields' }, { number: '4.5', name: 'Nuclear and Particle Physics', slug: 'nuclear-and-particle-physics' }] },
+      { number: 5, name: 'Thermodynamics, Radiation, Oscillations and Cosmology', slug: 'unit-5-thermodynamics-radiation-oscillations-and-cosmology', subtopics: [{ number: '5.3', name: 'Thermodynamics', slug: 'thermodynamics-edexcel' }, { number: '5.4', name: 'Nuclear Decay', slug: 'nuclear-decay' }, { number: '5.5', name: 'Oscillations', slug: 'oscillations-edexcel' }, { number: '5.6', name: 'Astrophysics and Cosmology', slug: 'astrophysics-and-cosmology' }] },
+    ],
+  },
 ] as const;
 
 /**

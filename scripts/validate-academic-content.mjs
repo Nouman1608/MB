@@ -139,10 +139,20 @@ const { SYLLABUS_TOPICS } = load('src/data/academic/syllabus-topics.ts');
 // the second subject's entry silently overwrite the first in this Map,
 // disabling validation for whichever subject lost the collision — without
 // any error or warning. The composite key removes that failure mode.
-const topicKey = (subjectSlug, qualificationSlug) => `${subjectSlug}|${qualificationSlug}`;
+// Phase (post-v1.x): keyed by boardSlug + subjectSlug + qualificationSlug, not
+// just subject + qualification. Before this fix, adding Pearson Edexcel's
+// A Level Physics (YPH11) taxonomy — same subjectSlug 'physics' and
+// qualificationSlug 'a-level' as Cambridge's existing 9702 entry — silently
+// overwrote Cambridge's entry in this Map (later array entry wins), which
+// broke validation for every existing Cambridge A Level Physics resource
+// with "topic is not in the official syllabus" false positives. The same
+// collision will recur for any future board sharing a subject+qualification
+// pair (which is the normal, expected case — most subjects are offered by
+// multiple boards) unless the key includes the board.
+const topicKey = (boardSlug, subjectSlug, qualificationSlug) => `${boardSlug}|${subjectSlug}|${qualificationSlug}`;
 const topicIndex = new Map();
 for (const s of SYLLABUS_TOPICS) {
-  topicIndex.set(topicKey(s.subjectSlug, s.qualificationSlug), {
+  topicIndex.set(topicKey(s.boardSlug, s.subjectSlug, s.qualificationSlug), {
     topics: new Set(s.topics.map((t) => t.slug)),
     subtopics: new Set(s.topics.flatMap((t) => t.subtopics.map((st) => st.slug))),
     /** topic slug -> stage ('AS'|'A'|undefined). 9701 only; unset for 0620/5070. */
@@ -166,6 +176,7 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
     // checked — same fix already applied to validate-commercial-claims.mjs
     // in Phase 9.
     const subject = scalarField(fm, 'subject');
+    const resourceBoards = listField(fm, 'boards');
     const block = fm.match(/^syllabusTopics:\s*\n([\s\S]*?)(?=^\S|(?![\s\S]))/m);
     if (!block) continue;
     const entries = block[1].split(/^\s*-\s+/m).slice(1);
@@ -173,10 +184,15 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
       const q = (e.match(/qualification:\s*"?([a-z-]+)"?/) || [])[1];
       const t = (e.match(/topic:\s*"?([a-z0-9-]+)"?/) || [])[1];
       const st = (e.match(/subtopic:\s*"?([a-z0-9-]+)"?/) || [])[1];
-      const idx = topicIndex.get(topicKey(subject, q));
-      if (!idx) { topicErrors.push(`${at}: no official topic taxonomy for subject "${subject}" + qualification "${q}"`); continue; }
-      if (t && !idx.topics.has(t)) topicErrors.push(`${at}: topic "${t}" is not in the official ${subject} ${q} syllabus`);
-      if (st && !idx.subtopics.has(st)) topicErrors.push(`${at}: subtopic "${st}" is not in the official ${subject} ${q} syllabus`);
+      // A syllabusTopics entry doesn't carry its own board, so it's resolved
+      // against the resource's own boards[] field — matching against every
+      // board the resource declares, since a resource must belong to at
+      // least one real board+subject+qualification taxonomy to be valid.
+      const candidates = resourceBoards.length ? resourceBoards : [undefined];
+      const idxs = candidates.map((b) => topicIndex.get(topicKey(b, subject, q))).filter(Boolean);
+      if (!idxs.length) { topicErrors.push(`${at}: no official topic taxonomy for board(s) [${resourceBoards.join(', ')}] + subject "${subject}" + qualification "${q}"`); continue; }
+      if (t && !idxs.some((idx) => idx.topics.has(t))) topicErrors.push(`${at}: topic "${t}" is not in the official ${subject} ${q} syllabus for board(s) [${resourceBoards.join(', ')}]`);
+      if (st && !idxs.some((idx) => idx.subtopics.has(st))) topicErrors.push(`${at}: subtopic "${st}" is not in the official ${subject} ${q} syllabus for board(s) [${resourceBoards.join(', ')}]`);
     }
   }
 }
@@ -213,14 +229,18 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
       continue;
     }
     const subject = scalarField(fm, 'subject');
+    const resourceBoards = listField(fm, 'boards');
     const entries = block[1].split(/^\s*-\s+/m).slice(1);
     const stagesSeen = new Set();
     for (const e of entries) {
       const q = (e.match(/qualification:\s*"?([a-z-]+)"?/) || [])[1];
       const t = (e.match(/topic:\s*"?([a-z0-9-]+)"?/) || [])[1];
-      const idx = topicIndex.get(topicKey(subject, q));
-      const topicStage = idx?.stageByTopic.get(t);
-      if (topicStage) stagesSeen.add(topicStage);
+      const candidates = resourceBoards.length ? resourceBoards : [undefined];
+      for (const b of candidates) {
+        const idx = topicIndex.get(topicKey(b, subject, q));
+        const topicStage = idx?.stageByTopic.get(t);
+        if (topicStage) stagesSeen.add(topicStage);
+      }
     }
     if (stagesSeen.size > 1) {
       stageErrors.push(`${at}: syllabusTopics span multiple stages (${[...stagesSeen].join(', ')}) — split into separate resources or document why one page genuinely covers both`);
