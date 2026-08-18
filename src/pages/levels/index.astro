@@ -1,0 +1,52 @@
+---
+/**
+ * Qualification directory — /levels/
+ *
+ * Lists every qualification (IGCSE, O Level, GCSE, AS Level, A Level) in the
+ * model, each linking to a cross-board hub gathering every board that
+ * publishes it. A qualification only appears here if it has at least one
+ * publishable combination (qualificationsWithCombinations(), itself derived
+ * from activeOnly()) — the same hard gate the board directory uses.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { QUALIFICATIONS, levelPath, levelsPath, combinationsForQualification, qualificationsWithCombinations } from '../../utils/academic';
+import { routes } from '../../utils/urls/routes';
+
+const available = qualificationsWithCombinations();
+const rows = QUALIFICATIONS
+  .filter((q) => available.includes(q.slug))
+  .map((q) => {
+    const combos = combinationsForQualification(q.slug);
+    const boards = [...new Set(combos.map((c) => c.board))];
+    return { qualification: q, combos, boards };
+  });
+---
+<PageLayout
+  title="Qualifications"
+  description="IGCSE, O Level, GCSE, AS Level and A Level at Marlbridge — every board and subject we publish for each qualification, in one place."
+  path={levelsPath()}
+  eyebrow="Qualifications"
+  heading="Qualifications"
+  lead="Every qualification Marlbridge teaches, with every board and subject we publish for it."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Qualifications', href: levelsPath() }]}
+>
+  <Section surface="white">
+    <Container>
+      <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2">
+        {rows.map(({ qualification, combos, boards }) => (
+          <li class="m-0 bg-white p-[clamp(20px,3vw,32px)]">
+            <a href={levelPath(qualification.slug)} class="group block">
+              <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600">{qualification.name}</h2>
+              <p class="m-0 mt-2 text-[15px] text-ink-mute">
+                {combos.length} {combos.length === 1 ? 'combination' : 'combinations'} across {boards.length} {boards.length === 1 ? 'board' : 'boards'}: {boards.join(', ')}.
+              </p>
+              <span class="mt-4 inline-block border-b border-gold-500 text-[14px] font-medium text-navy-800 group-hover:text-gold-600">View {qualification.name} →</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+</PageLayout>

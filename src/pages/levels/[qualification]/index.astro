@@ -1,0 +1,74 @@
+---
+/**
+ * Qualification hub — /levels/{qualification}/
+ *
+ * Every publishable board x subject combination for one qualification,
+ * grouped by board. Routes come exclusively from
+ * qualificationsWithCombinations() (itself derived from activeOnly()).
+ */
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Section from '../../../components/layout/Section.astro';
+import Container from '../../../components/layout/Container.astro';
+import {
+  levelPath, levelsPath, combinationsForQualification,
+  qualificationsWithCombinations, academicHubPath,
+} from '../../../utils/academic';
+import { qualificationBySlug } from '../../../data/academic/qualifications';
+import { routes } from '../../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  return qualificationsWithCombinations().map((qualificationSlug) => ({ params: { qualification: qualificationSlug } }));
+}
+
+const { qualification: qualificationSlug } = Astro.params;
+const qualification = qualificationBySlug(qualificationSlug as string)!;
+const combos = combinationsForQualification(qualificationSlug as string);
+
+const byBoard = new Map<string, typeof combos>();
+for (const c of combos) {
+  if (!byBoard.has(c.boardSlug)) byBoard.set(c.boardSlug, []);
+  byBoard.get(c.boardSlug)!.push(c);
+}
+const groups = [...byBoard.entries()]
+  .map(([boardSlug, items]) => ({
+    boardSlug,
+    board: items[0].board,
+    items: items.slice().sort((a, b) => a.subject.localeCompare(b.subject)),
+  }))
+  .sort((a, b) => a.board.localeCompare(b.board));
+
+const path = levelPath(qualificationSlug as string);
+---
+<PageLayout
+  title={qualification.name}
+  description={`${qualification.name} at Marlbridge — every board and subject combination we publish for this qualification, in one place.`}
+  path={path}
+  eyebrow="Qualification"
+  heading={qualification.name}
+  lead={`Every board and subject Marlbridge publishes ${qualification.name} for, grouped by board.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Qualifications', href: levelsPath() },
+    { label: qualification.name, href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      {groups.map((g) => (
+        <div class="mb-[clamp(32px,4vw,56px)] last:mb-0">
+          <h2 class="m-0 mb-4 border-b-2 border-navy-800 pb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{g.board}</h2>
+          <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-3">
+            {g.items.map((c) => (
+              <li class="m-0 bg-white">
+                <a href={academicHubPath(c)} class="group flex h-full flex-col justify-between gap-2 p-5">
+                  <span class="font-display text-xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600">{c.subject}</span>
+                  {c.qualificationCode && <span class="font-mono text-[12px] text-ink-mute">Specification {c.qualificationCode}</span>}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </Container>
+  </Section>
+</PageLayout>
