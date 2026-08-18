@@ -280,6 +280,315 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-18',
     notes: "Subject content spans three components: Education with Theory and Methods, Topics in Sociology (options), and Crime and Deviance with Theory and Methods. Assessment uses short-answer and extended-essay questions, including a 'methods in context' question. AS (7191) and A-level are co-teachable within the first year of study.",
   },
+  // =========================================================================
+  // OXFORDAQA — syllabus prose completed, v1.1 WS2, 2026-08-18. All 30 ACTIVE
+  // combinations. Every officialTitle, code, boardSummary quote and notes fact
+  // was independently re-verified against the current oxfordaqa.com
+  // qualification page and its linked specification PDF on 2026-08-18 — not
+  // carried over from the WS4 matrix source citations, which only referenced
+  // the qualifications index page. boardSummary is a genuine short quote from
+  // the board's own overview text; notes is original Marlbridge prose.
+  // =========================================================================
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'mathematics',
+    officialTitle: 'OxfordAQA International GCSE Mathematics (9260)',
+    code: '9260',
+    boardSummary:
+      'With a focus on Pure Maths, reasoning skills and the real-life application of mathematical concepts, the OxfordAQA International GCSE Mathematics qualification ensures that students have the best possible preparation for A-level, university and beyond.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-mathematics/',
+    verifiedOn: '2026-08-18',
+    notes: 'Content is organised into four areas — number, algebra, geometry and measures, and probability and statistics — assessed across two linear papers with no coursework. Candidates sit either the Core tier (grades 1-5) or the Extension tier (grades 4-9); both papers in a tier are equally weighted and a scientific calculator is permitted throughout. First teaching September 2016, first examined May/June 2018.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'mathematics',
+    officialTitle: 'OxfordAQA International AS and A-level Mathematics (9660)',
+    code: '9660',
+    boardSummary:
+      'This qualification has a strong emphasis on pure mathematics to equip students for undergraduate study.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-mathematics/',
+    verifiedOn: '2026-08-18',
+    notes: 'A modular qualification built from four units: two AS units (Pure Maths, and Pure Maths with Statistics and Mechanics) and two A2 units (further Pure Maths, plus a choice of a Statistics or a Mechanics option). The AS units can be certificated as a stand-alone International AS award or carried forward, each worth 20% of the full A-level; units can be resat any number of times with the best result counted. First teaching September 2017; first AS exams May/June 2018; first A-level exams May/June 2019.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'computer-science',
+    officialTitle: 'OxfordAQA International GCSE Computer Science (9210)',
+    code: '9210',
+    boardSummary:
+      'This International GCSE Computer Science specification is a motivating, hands-on course designed to enable you to teach computing as a real science, one in which practical application of skills is at the heart of your classroom.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-computer-science/',
+    verifiedOn: '2026-08-18',
+    notes: 'Covers algorithms, programming, data representation, computer systems, networks, cyber security, relational databases and SQL, and web page design, across two linear papers: an on-screen programming paper set against a pre-released skeleton program (available in C#, Python or Visual Basic) and a written paper on concepts and principles, each worth 50%. No coursework. First teaching September 2017, first examined May/June 2019.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'computer-science',
+    officialTitle: 'OxfordAQA International AS and A-level Computer Science (9645)',
+    code: '9645',
+    boardSummary:
+      'Through a practical approach that balances traditional and modern computing methodologies with programming and creativity, our International AS/A-level Computer Science course develops the skills needed for the future.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-computer-science/',
+    verifiedOn: '2026-08-18',
+    notes: 'A modular qualification spanning procedural and object-oriented programming, data structures and algorithms, computer organisation and architecture, theory of computation, networking and cyber security, databases and artificial intelligence, across two AS papers (an on-screen programming exam and a written paper, each 50% of AS/20% of A-level) and two further A2 papers. This is a recently revised specification: first teaching September 2024, first International AS exams May/June 2025, first International A-level exams May/June 2026.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'biology',
+    officialTitle: 'OxfordAQA International GCSE Biology (9201)',
+    code: '9201',
+    boardSummary:
+      'Prepare for further study with this thorough grounding in the practical skills needed to be a working scientist.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-biology/',
+    verifiedOn: '2026-08-18',
+    notes: "Covers organisation, bioenergetics, ecology, organisms' interaction with the environment, and inheritance, variation and evolution, across two linear papers of equal weight; either paper may draw on any part of the specification, and practical skills are assessed within the written papers rather than through a separate practical exam. First teaching September 2016, first examined May/June 2018.",
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'biology',
+    officialTitle: 'OxfordAQA International AS and A-level Biology (9610)',
+    code: '9610',
+    boardSummary:
+      'Thanks to relevant, up-to-date and motivating content, this International AS and A-level Biology specification gives students an excellent springboard to higher level study, allowing them to demonstrate the skills required for university study of subjects such as Biology, Medicine or Dentistry.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-biology/',
+    verifiedOn: '2026-08-18',
+    notes: 'Five units carry students from diversity of living organisms and biological systems/disease at AS through to populations and genes, control, and a synoptic paper at A2. Students complete ten required practical activities, assessed through the written papers rather than a separate practical exam; AS units are cashable as a stand-alone AS award or carried forward at 20% each toward the full A-level, with unlimited resits. First teaching September 2016; first AS exams May/June 2017; first A-level exams May/June 2018.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'chemistry',
+    officialTitle: 'OxfordAQA International GCSE Chemistry (9202)',
+    code: '9202',
+    boardSummary:
+      'This International GCSE Chemistry qualification contains a broad range of topics designed to engage students in chemistry whilst providing the knowledge and understanding required for progression to A-level.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-chemistry/',
+    verifiedOn: '2026-08-18',
+    notes: 'Ten topic areas run from atomic structure and bonding through quantitative chemistry, periodicity, rates and energy changes to organic chemistry, assessed across two equally weighted linear papers with practical knowledge examined through the written papers. First teaching September 2016, first examined May/June 2018.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'chemistry',
+    officialTitle: 'OxfordAQA International AS and A-level Chemistry (9620)',
+    code: '9620',
+    boardSummary:
+      'Mirroring the way many universities split their content, each section begins with an overview, which puts the topic into a broader chemical context and ensures understanding of the place of each topic within the subject.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-chemistry/',
+    verifiedOn: '2026-08-18',
+    notes: "Structured around physical, inorganic and organic chemistry across five units, with a dedicated Practical and Synoptic paper at A2 built on ten required practicals (assessed through written questions rather than a hands-on exam). AS units are worth 50% of the AS award or 20% each toward the full A-level. First teaching September 2019; first AS and A-level exams May/June 2020 — a later first-teaching cohort than OxfordAQA's Biology and Physics AS/A-level.",
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'physics',
+    officialTitle: 'OxfordAQA International GCSE Physics (9203)',
+    code: '9203',
+    boardSummary:
+      'This International GCSE Physics qualification is designed to engage students in physics. It brings the science to life for non-native English speakers, while teaching students to reason and work scientifically.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-physics/',
+    verifiedOn: '2026-08-18',
+    notes: 'Covers forces, energy, waves, the particle model of matter, electricity and magnetism, electricity generation and distribution, nuclear physics and space physics, across two equally weighted linear papers with practical knowledge examined through the written papers. First teaching September 2016, first examined May/June 2018.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'physics',
+    officialTitle: 'OxfordAQA International AS and A-level Physics (9630)',
+    code: '9630',
+    boardSummary:
+      'This International AS/A-level specification covers all topics that students are expected to be familiar with in order to study Physics at university. It features carefully balanced depth and breadth of content that includes topics with contemporary and international relevance such as renewable energy.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-physics/',
+    verifiedOn: '2026-08-18',
+    notes: 'Five units run from mechanics, materials and atoms through fields, energy and energy resources to a dedicated Physics in Practice paper built on ten required practicals, assessed through written questions. AS units are worth 50% of the AS award or 20% each toward the full A-level, with unlimited resits. First teaching September 2019; first AS and A-level exams May/June 2020.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'accounting',
+    officialTitle: 'OxfordAQA International GCSE Accounting (9215)',
+    code: '9215',
+    boardSummary:
+      'With a focus on practical skills and application, our International GCSE Accounting course is both professionally relevant and academically engaging for students.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-accounting/',
+    verifiedOn: '2026-08-18',
+    notes: 'Covers sources and recording of data, verification of accounting records, the development of the accounting model, preparing financial statements, and interpreting and communicating financial information, across two equally weighted written papers with no coursework. First teaching September 2024, first examined May/June 2026 — a recently launched specification.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'accounting',
+    officialTitle: 'OxfordAQA International AS and A-level Accounting (9615)',
+    code: '9615',
+    boardSummary:
+      'Our International AS/A-level Accounting course emphasises applying skills to practical contexts, so your students are ready to take on the challenges accountants face in the workplace.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-accounting/',
+    verifiedOn: '2026-08-18',
+    notes: 'Builds from the role of the accountant and the double-entry model through verification, financial statements for different business types, budgeting and costing methods, to capital investment appraisal and ethics. AS content is half of the A-level content, contributing 40% of the final A-level marks (A2 content the remaining 60%); students may sit AS in year one and A2 in year two, or take all units together at the end. A recently launched specification: first teaching September 2024, first AS exams May/June 2025, first A-level exams May/June 2026.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'business',
+    officialTitle: 'OxfordAQA International GCSE Business (9225)',
+    code: '9225',
+    boardSummary:
+      'Designed for students outside of the UK, the OxfordAQA International GCSE Business specification teaches learners real-world business planning and operations skills using international case studies and terminology to ensure it is relevant and motivating.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-business/',
+    verifiedOn: '2026-08-18',
+    notes: 'Covers business in the real world, influences on business, business operations, human resources, marketing and finance, across two equally weighted written papers with no coursework. First teaching September 2020, first examined May/June 2022.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'business',
+    officialTitle: 'OxfordAQA International AS and A-level Business (9625 / 9725)',
+    code: '9625 / 9725',
+    boardSummary:
+      'OxfordAQA International AS and A-level Business is a relevant and engaging specification that supports progression to further education and employment.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-business-revised/',
+    verifiedOn: '2026-08-18',
+    notes: 'OxfordAQA is running two specifications side by side during a transition: the legacy 9625 (first teaching September 2018) is open to its final AS exams in May/June 2026 and final A-level exams in May/June 2027, while the revised 9725 takes over for new starts from September 2026, with first AS exams May/June 2027 and first A-level exams May/June 2028. Both cover what is business, marketing, operations, human resources and finance at AS, with strategy, analysis and decision-making content added at A2; the revised specification restructures A2 assessment around case-study questions. Students beginning the course from September 2026 follow 9725; those already partway through follow 9625 to completion.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'economics',
+    officialTitle: 'OxfordAQA International GCSE Economics (9214)',
+    code: '9214',
+    boardSummary:
+      'With a focus on the real-world applications of economics, this International GCSE Economics course will stimulate and inspire your students.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-economics/',
+    verifiedOn: '2026-08-18',
+    notes: 'Split into how markets work (resource allocation, price determination, costs and profit, market failure) and how economies work (government policy, international trade, money and financial markets), across two equally weighted written papers with no coursework. First teaching September 2023, first examined May/June 2025 — a recently launched specification.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'economics',
+    officialTitle: 'OxfordAQA International AS and A-level Economics (9640)',
+    code: '9640',
+    boardSummary:
+      'Reflecting recent developments in international economics, this International AS/A-level specification places an emphasis on behavioural economics, the importance of financial markets, inequality within and between countries, and environmental issues.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-economics/',
+    verifiedOn: '2026-08-18',
+    notes: 'AS content covers the operation of markets, market failure and the role of government, plus the national economy in a global environment; A2 adds business behaviour and the distribution of income, and economic development and the global environment, with a quantitative skills strand running throughout. AS content is 50% of the A-level content but contributes 40% of the final marks (A2 the remaining 60%); AS and A2 can be taken across two years or together at the end. First teaching September 2020; first AS exams May/June 2021; first A-level exams May/June 2022.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'english-language',
+    officialTitle: 'OxfordAQA International GCSE English Language (9270)',
+    code: '9270',
+    boardSummary:
+      "Thanks to its rigorous summative assessment of students' skills and abilities, this International English GCSE specification offers excellent preparation for International AS and A-level English Language, as well as giving students a grounding in a wide variety of language that will stay with them for life.",
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-english-language/',
+    verifiedOn: '2026-08-18',
+    notes: 'Paper 1 (Literary Non-Fiction and Composition) is sat by all candidates; Paper 2 offers a choice between a Source-Based Reading and Directed Writing exam or a teacher-assessed, board-moderated non-exam assessment, weighted 60/40 with Paper 1. An optional Speaking and Listening endorsement is separately certificated. First teaching September 2016, first examined May/June 2018.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'english-language',
+    officialTitle: 'OxfordAQA International AS and A-level English Language (9670)',
+    code: '9670',
+    boardSummary:
+      'The assessment of this qualification reflects the style of assessment adopted at university level, providing an ideal platform for higher education.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-english-language/',
+    verifiedOn: '2026-08-18',
+    notes: 'Four units move from language and context and language and society at AS to language variation and a final language exploration unit at A2, the last offered as either an exam or a non-exam assessment (a language investigation, teacher-assessed and board-moderated). AS is separately certificated or carried forward at 20% per unit toward the full A-level, with unlimited resits. First teaching September 2017; first AS exams May/June 2018; first A-level exams May/June 2019.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'english-literature',
+    officialTitle: 'OxfordAQA International GCSE English Literature (9275)',
+    code: '9275',
+    boardSummary:
+      "This International GCSE qualification takes a skills-based approach to the study of English literature that is consistent across the genres. So whatever your students' interests, you can be sure that the course will develop skills in independent research and learning and provide invaluable preparation for higher level study.",
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-english-literature/',
+    verifiedOn: '2026-08-18',
+    notes: 'Two routes are offered: Route A (two exam papers on Prose and Drama, then Poetry and Unseen Texts) and Route B (the same Prose and Drama paper, a shorter Poetry paper, plus a teacher-assessed, board-moderated non-exam assessment). This specification is being revised for first teaching September 2026 with a refreshed set-text and poetry list; the current set texts and papers remain live for cohorts already underway, with final exams May/June 2027 and final resits November 2027. Students starting from September 2026 follow the revised set-text list.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
+    officialTitle: 'OxfordAQA International AS and A-level English Literature (9675)',
+    code: '9675',
+    boardSummary:
+      'This International AS and A-level English Literature specification encourages the independent study of a range of texts within a shared context, giving logic and meaning to the way that texts are grouped for study.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-english-literature/',
+    verifiedOn: '2026-08-18',
+    notes: 'Four units run from Elizabethan/Jacobean and later dramatic tragedy, through prose and poetry, to a selection of crime and mystery-themed texts at A2, with the final unit offered as either an unseen-texts exam or two teacher-assessed, board-moderated essays. AS is separately certificated or carried forward at 20% per unit toward the full A-level. First teaching September 2017; first AS exams May/June 2018; first A-level exams May/June 2019.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'geography',
+    officialTitle: 'OxfordAQA International GCSE Geography (9230)',
+    code: '9230',
+    boardSummary:
+      'OxfordAQA International GCSE Geography is a globally relevant course which introduces students to the fundamental theories, concepts and processes of geography at global, regional and local scales, with the opportunity for teachers to use relevant local examples.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-geography/',
+    verifiedOn: '2026-08-18',
+    notes: 'Living with the Physical Environment and Challenges in the Human Environment are assessed through two written papers, with a third paper on geographical and fieldwork skills; no coursework component. First teaching September 2018, first examined May/June 2020.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'geography',
+    officialTitle: 'OxfordAQA International AS and A-level Geography (9635)',
+    code: '9635',
+    boardSummary:
+      'This OxfordAQA International AS and A-level Geography specification blends the best of the AQA specification, which is the most popular specification in England, with ideas, concepts and approaches to learning which make it more appropriate for international schools.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-geography/',
+    verifiedOn: '2026-08-18',
+    notes: 'AS content (hazards plus a choice of hot deserts or coastal systems, and global systems/governance plus resource security) is examined across two papers; A2 adds further physical and human geography units plus a fieldwork and skills paper. AS units are worth 50% of the AS award or 20% each toward the full A-level, with unlimited resits. First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'psychology',
+    officialTitle: 'OxfordAQA International GCSE Psychology (9218)',
+    code: '9218',
+    boardSummary:
+      "This International GCSE Psychology course has been designed to develop your students' knowledge of psychological concepts whilst broadening their independent thinking and research skills.",
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-psychology/',
+    verifiedOn: '2026-08-18',
+    notes: 'Paper 1 (Cognition and Behaviour) covers memory, perception, biopsychology and research methods; Paper 2 (Social Context and Behaviour) covers communication, social influences, mental health and research methods. The two papers are equally weighted with no coursework. First teaching September 2023, first examined May/June 2025 — a recently launched specification.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'psychology',
+    officialTitle: 'OxfordAQA International AS and A-level Psychology (9685)',
+    code: '9685',
+    boardSummary:
+      'These qualifications use an accessible and coherent topic-based approach to offer a stimulating, effective introduction to psychology.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-psychology/',
+    verifiedOn: '2026-08-18',
+    notes: 'AS units cover introductory topics in psychology and biopsychology, development and research methods; A2 adds advanced topics and research methods, and approaches and application. AS content is 50% of the A-level content but contributes 40% of the final marks (A2 the remaining 60%), with units resittable any number of times. First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'sociology',
+    officialTitle: 'OxfordAQA International GCSE Sociology (9292)',
+    code: '9292',
+    boardSummary:
+      "OxfordAQA's International GCSE and A-level Sociology qualifications, available for first teaching from September 2026, offer students a powerful lens for understanding the world around them — from families and education to inequality and globalisation.",
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-sociology/',
+    verifiedOn: '2026-08-18',
+    notes: 'Paper 1 covers families, education and research methods; Paper 2 covers differences and inequalities, socialisation and social control, and research methods, with the two papers equally weighted and no coursework. This is a newly launched specification with no prior OxfordAQA GCSE Sociology to succeed: first teaching September 2026, first examined May/June 2028.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'sociology',
+    officialTitle: 'OxfordAQA International AS and A-level Sociology (9690)',
+    code: '9690',
+    boardSummary:
+      'A relevant, engaging specification with culturally relevant, contemporary topics – designed for international students to develop their critical thinking skills and prepare them for university study.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-sociology/',
+    verifiedOn: '2026-08-18',
+    notes: 'AS units cover families and socialisation/social control alongside research methods; A2 adds people and development, people and the environment, and people and technologies. This is a newly launched specification: first teaching September 2026, first AS exams May/June 2027, first A-level exams May/June 2028.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'world-history',
+    officialTitle: 'OxfordAQA International GCSE History (9245)',
+    code: '9245',
+    boardSummary:
+      'A truly international specification, which engages students with modern international relations, relevant and contemporary themes and perspectives, and long-term global historical developments.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-history/',
+    verifiedOn: '2026-08-18',
+    notes: 'Paper 1 offers a choice of International Relations depth studies and origins/development studies; Paper 2 offers a choice of a societal depth study and a thematic study in either technology or medicine, with some sections using pre-released sources. OxfordAQA publishes this qualification as International GCSE History; Marlbridge groups it under World History alongside the equivalent offering from other boards. A newly launched specification: first teaching 2026, first examined May/June 2028. OxfordAQA does not offer History at AS or A-level.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'islamiyat',
+    officialTitle: 'OxfordAQA International GCSE Islamiat (9237)',
+    code: '9237',
+    boardSummary:
+      'Our International GCSE Islamiat course integrates scripture and contextual knowledge to provide students a cohesive understanding of Islam, its teachings and texts.',
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-islamiat/',
+    verifiedOn: '2026-08-18',
+    notes: "Covers beliefs and teachings, practices, the life and teachings of the Prophet Muhammad, and sources of authority in Islam, with prescribed Qur'an and Hadith passages set out in the specification. Two equally weighted written papers, no coursework. OxfordAQA's own spelling is Islamiat. First examined May/June 2026 onwards. OxfordAQA does not offer Islamiat at AS or A-level — International GCSE is the only level offered.",
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'pakistan-studies',
+    officialTitle: 'OxfordAQA International GCSE Pakistan Studies (9236)',
+    code: '9236',
+    boardSummary:
+      "With a unique and modern syllabus, our International GCSE Pakistan Studies course offers students a thorough understanding of Pakistan's human and physical geography and its people's experiences throughout history and in recent times.",
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-pakistan-studies/',
+    verifiedOn: '2026-08-18',
+    notes: 'Paper 1 covers the Pakistan Movement (1857-1947) and Pakistan into the 21st century, with a choice between Islam in the subcontinent or the Mughal Empire; Paper 2 covers landscape and natural resources and people and economy, with a choice between globalisation and transport or a sustainable future. Two equally weighted written papers, no coursework. First examined May/June 2026 onwards. OxfordAQA does not offer Pakistan Studies at AS or A-level — International GCSE is the only level offered.',
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'urdu-language',
+    officialTitle: 'OxfordAQA International GCSE Urdu (9264)',
+    code: '9264',
+    boardSummary:
+      "Our International GCSE Urdu has been designed to develop your students' multilingualism alongside their communication and analytical skills.",
+    officialUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-urdu/',
+    verifiedOn: '2026-08-18',
+    notes: "Built around three themes — identity and culture; local, national, international and global areas of interest; and current and future study and employment — assessed through a Reading, Grammar and Meaning paper (including English-to-Urdu translation) and a Writing paper, equally weighted with no coursework. OxfordAQA's official title for this qualification is simply Urdu, not Urdu Language. First teaching September 2024, first examined June 2026 onwards. OxfordAQA does not offer Urdu at AS or A-level — International GCSE is the only level offered.",
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
