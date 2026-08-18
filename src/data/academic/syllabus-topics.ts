@@ -662,6 +662,81 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
     ],
   },
+
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'physics',
+    syllabusCode: '9630', syllabusSeries: 'International AS and A-level',
+    effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OxfordAQA -- official International AS and A-level Physics specification PDF',
+    sourceUrl: 'https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-08-19',
+    notes: "OxfordAQA International AS and A-level Physics (9630); International AS (9610) is co-teachable. Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.9 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change) are International A-level only. All 9 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19.",
+    topics: [
+      { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-oxfordaqa-alevel', subtopics: [
+        { number: '3.1.1', name: 'Use of SI units and their prefixes', slug: 'use-of-si-units-and-their-prefixes-oxfordaqa' },
+        { number: '3.1.2', name: 'Limitation of physical measurements', slug: 'limitation-of-physical-measurements-oxfordaqa' },
+        { number: '3.1.3', name: 'Estimation of physical quantities', slug: 'estimation-of-physical-quantities-oxfordaqa' },
+      ] },
+      { number: 2, name: 'Mechanics and materials', slug: 'mechanics-and-materials-oxfordaqa-alevel', subtopics: [
+        { number: '3.2.1', name: 'Scalars and vectors', slug: 'scalars-and-vectors-oxfordaqa' },
+        { number: '3.2.2', name: 'Moments', slug: 'moments-oxfordaqa-alevel' },
+        { number: '3.2.3', name: 'Motion along a straight line', slug: 'motion-along-a-straight-line-oxfordaqa' },
+        { number: '3.2.4', name: 'Projectile motion', slug: 'projectile-motion-oxfordaqa' },
+        { number: '3.2.5', name: "Newton's laws of motion", slug: 'newtons-laws-of-motion-oxfordaqa' },
+        { number: '3.2.6', name: 'Momentum', slug: 'momentum-oxfordaqa-alevel' },
+        { number: '3.2.7', name: 'Work, energy and power', slug: 'work-energy-and-power-oxfordaqa' },
+        { number: '3.2.8', name: 'Conservation of energy', slug: 'conservation-of-energy-oxfordaqa-alevel' },
+        { number: '3.2.9', name: 'Bulk properties of solids', slug: 'bulk-properties-of-solids-oxfordaqa' },
+        { number: '3.2.10', name: 'The Young modulus', slug: 'the-young-modulus-oxfordaqa' },
+      ] },
+      { number: 3, name: 'Particles, radiation and radioactivity', slug: 'particles-radiation-and-radioactivity', subtopics: [
+        { number: '3.3.1', name: 'Constituents of the atom', slug: 'constituents-of-the-atom-oxfordaqa' },
+        { number: '3.3.2', name: 'Elementary particles', slug: 'elementary-particles-oxfordaqa' },
+        { number: '3.3.3', name: 'Radioactivity', slug: 'radioactivity-oxfordaqa-alevel' },
+      ] },
+      { number: 4, name: 'Electricity', slug: 'electricity-oxfordaqa-alevel', subtopics: [
+        { number: '3.4.1', name: 'Basics of electricity', slug: 'basics-of-electricity-oxfordaqa' },
+        { number: '3.4.2', name: 'Current-voltage characteristics', slug: 'current-voltage-characteristics-oxfordaqa' },
+        { number: '3.4.3', name: 'Resistivity', slug: 'resistivity-oxfordaqa-alevel' },
+        { number: '3.4.4', name: 'Circuits', slug: 'circuits-oxfordaqa-alevel' },
+        { number: '3.4.5', name: 'Potential divider', slug: 'potential-divider-oxfordaqa' },
+        { number: '3.4.6', name: 'Electromotive force and internal resistance', slug: 'electromotive-force-and-internal-resistance-oxfordaqa' },
+      ] },
+      { number: 5, name: 'Oscillations and waves', slug: 'oscillations-and-waves-oxfordaqa-alevel', subtopics: [
+        { number: '3.5.1', name: 'Oscillating systems', slug: 'oscillating-systems-oxfordaqa' },
+        { number: '3.5.2', name: 'Forced vibrations and resonance', slug: 'forced-vibrations-and-resonance-oxfordaqa' },
+        { number: '3.5.3', name: 'Progressive waves', slug: 'progressive-waves-oxfordaqa-alevel' },
+        { number: '3.5.4', name: 'Longitudinal and transverse waves', slug: 'longitudinal-and-transverse-waves-oxfordaqa' },
+        { number: '3.5.5', name: 'Principle of superposition of waves and formation of stationary waves', slug: 'principle-of-superposition-and-stationary-waves-oxfordaqa' },
+        { number: '3.5.6', name: 'Interference', slug: 'interference-oxfordaqa-alevel' },
+        { number: '3.5.7', name: 'Diffraction', slug: 'diffraction-oxfordaqa-alevel' },
+        { number: '3.5.8', name: 'Refraction at a plane surface', slug: 'refraction-at-a-plane-surface-oxfordaqa' },
+        { number: '3.5.9', name: 'Collisions of electrons with atoms', slug: 'collisions-of-electrons-with-atoms-oxfordaqa' },
+        { number: '3.5.10', name: 'Photoelectric effect', slug: 'photoelectric-effect-oxfordaqa' },
+        { number: '3.5.11', name: 'Wave-particle duality', slug: 'wave-particle-duality-oxfordaqa' },
+      ] },
+      { number: 6, name: 'Circular and periodic motion', slug: 'circular-and-periodic-motion-oxfordaqa', subtopics: [
+        { number: '3.6.1', name: 'Circular motion', slug: 'circular-motion-oxfordaqa-alevel' },
+        { number: '3.6.2', name: 'Simple harmonic motion', slug: 'simple-harmonic-motion-oxfordaqa' },
+      ] },
+      { number: 7, name: 'Gravitational fields and satellites', slug: 'gravitational-fields-and-satellites', subtopics: [
+        { number: '3.7.1', name: "Newton's gravitational law", slug: 'newtons-gravitational-law' },
+        { number: '3.7.2', name: 'Gravitational field strength', slug: 'gravitational-field-strength-oxfordaqa' },
+        { number: '3.7.3', name: 'Gravitational potential', slug: 'gravitational-potential-oxfordaqa' },
+        { number: '3.7.4', name: 'Orbits of planets and satellites', slug: 'orbits-of-planets-and-satellites-oxfordaqa' },
+      ] },
+      { number: 8, name: 'Electric fields and capacitance', slug: 'electric-fields-and-capacitance', subtopics: [
+        { number: '3.8.1', name: "Coulomb's law", slug: 'coulombs-law-oxfordaqa' },
+        { number: '3.8.2', name: 'Electric field strength', slug: 'electric-field-strength-oxfordaqa' },
+        { number: '3.8.3', name: 'Electric potential', slug: 'electric-potential-oxfordaqa' },
+        { number: '3.8.4', name: 'Capacitors', slug: 'capacitors-oxfordaqa-alevel' },
+      ] },
+      { number: 9, name: 'Exponential change', slug: 'exponential-change-oxfordaqa', subtopics: [
+        { number: '3.9.1', name: 'Capacitor charge and discharge', slug: 'capacitor-charge-and-discharge-oxfordaqa' },
+        { number: '3.9.2', name: 'Exponential changes in radioactivity', slug: 'exponential-changes-in-radioactivity-oxfordaqa' },
+      ] },
+    ],
+  },
 ] as const;
 
 /**

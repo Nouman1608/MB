@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:46:04.207Z",
+  "generatedAt": "2026-08-18T19:47:35.054Z",
   "rowCount": 139,
   "rows": [
     {
@@ -5211,12 +5211,12 @@
       "subjectSlug": "physics",
       "specCode": "9630",
       "specStatus": "verified",
-      "specApplicability": "NO_DATA",
+      "specApplicability": "2017-ongoing",
       "officialSource1": "https://www.oxfordaqa.com/qualifications/international-as-a-level-physics/",
-      "officialSource2": "NO_DATA",
+      "officialSource2": "https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-physics-specification.pdf",
       "verificationDate": "2026-08-18",
       "summaryStatus": "published",
-      "topicMapStatus": "being-verified",
+      "topicMapStatus": "published",
       "assessmentStatus": "NO_DATA",
       "studyGuideCount": 0,
       "revisionNoteCount": 0,
@@ -5239,7 +5239,7 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
-      "risks": "no-topic-map;zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
+      "risks": "zero-resources;evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Write a first resource for this combination."
     },
     {
