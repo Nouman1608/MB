@@ -971,6 +971,106 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'Confirmed live and current: first teaching 2015, 13 named subject-content sections (4.1-4.13) plus a non-exam-assessment computing practical project. Supports C#, Java, Python and VB.Net as programming languages.',
   },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'english-language',
+    officialTitle: 'Cambridge International AS & A Level English Language (9093)',
+    code: '9093',
+    boardSummary:
+      'Cambridge International AS and A Level English Language develops learners’ skills in analysing and producing a wide range of spoken and written texts, and their understanding of how English is used in different contexts and for different purposes.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-english-language-9093/',
+    verifiedOn: '2026-08-19',
+    notes: 'Version 2, published October 2021, valid for the 2024, 2025 and 2026 examination series. AS Level: Paper 1 Reading, Paper 2 Writing. A Level adds Paper 3 Language Analysis and Paper 4 Language Topics.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'english-language',
+    officialTitle: 'Cambridge O Level English Language (1123)',
+    code: '1123',
+    boardSummary:
+      'Cambridge O Level English Language is designed for learners whose first language may not be English, and offers learners the opportunity to become effective communicators in English.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-english-language-1123/',
+    verifiedOn: '2026-08-19',
+    notes: 'Version 2, published December 2022, valid for the 2024, 2025 and 2026 examination series. Content is organised into two skill strands only – Reading and Writing – assessed by Paper 1 (50%) and Paper 2 (50%), with no further named sub-sections.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'english-literature',
+    officialTitle: 'Cambridge IGCSE Literature in English (0475)',
+    code: '0475',
+    boardSummary:
+      'Cambridge IGCSE Literature in English enables learners to read, interpret and evaluate texts through the study of literature in English, developing an understanding of literal meaning, relevant contexts and deeper themes or attitudes.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-literature-in-english-0475/',
+    verifiedOn: '2026-08-19',
+    notes: 'Version 2, published December 2025, valid for the 2026 examination series only – set texts (poetry, prose, drama) rotate by year. Candidates take Paper 1 plus EITHER Paper 2 OR (Paper 3 + Paper 4) OR (Paper 3 + Component 5 Coursework).',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
+    officialTitle: 'Cambridge International AS & A Level Literature in English (9695)',
+    code: '9695',
+    boardSummary:
+      'Cambridge International AS and A Level Literature in English encourages learners to enjoy reading widely and enables them to appreciate the different ways in which writers use language to communicate meaning and effect.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-literature-in-english-9695/',
+    verifiedOn: '2026-08-19',
+    notes: 'AS Level: Paper 1 Drama and Poetry, Paper 2 Prose and Unseen. A Level adds Paper 3 Shakespeare and Drama and Paper 4 Pre- and Post-1900 Poetry and Prose. Set texts rotate by examination year.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'english-language',
+    officialTitle: 'Pearson Edexcel International GCSE English Language A (4EA1)',
+    code: '4EA1',
+    boardSummary:
+      'Pearson Edexcel International GCSE English Language A develops learners’ reading and writing skills across a range of non-fiction, poetry and prose texts, preparing them for further study and everyday communication.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/international-gcse-english-language-a-2016.html',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching 2016 (specification Issue 6, 2023). Students take Component 1 (Non-fiction Texts and Transactional Writing) plus EITHER Component 2 (Poetry and Prose Texts and Imaginative Writing, examined) OR Component 3 (the non-exam-assessment alternative to Component 2). A modular version (4XEA1) is also offered for first teaching September 2025.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'english-literature',
+    officialTitle: 'Pearson Edexcel International GCSE English Literature (4ET1)',
+    code: '4ET1',
+    boardSummary:
+      'Pearson Edexcel International GCSE English Literature develops learners’ understanding and enjoyment of literature through the study of poetry, prose and drama from a range of authors, periods and cultures.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/international-gcse-english-literature-2016.html',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching 2016. Students take Component 1 (Poetry and Modern Prose) plus EITHER Component 2 (Modern Drama and Literary Heritage Texts, examined) OR Component 3 (Coursework, the alternative to Component 2). A modular version (4XET1) also exists.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
+    officialTitle: 'Pearson Edexcel International Advanced Level English Literature (YET01)',
+    code: 'YET01',
+    boardSummary:
+      'Pearson Edexcel International Advanced Level English Literature develops learners’ skills of literary analysis, interpretation and independent judgement across poetry, prose and drama from different periods.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/english-literature-2015.html',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching 2015, assessed across units WET01-WET04. International Advanced Subsidiary = Unit 1 (Post-2000 Poetry and Prose) and Unit 2 (Drama); the full International Advanced Level adds Unit 3 (Poetry and Prose) and Unit 4 (Shakespeare and Pre-1900 Poetry).',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'english-literature',
+    officialTitle: 'AQA GCSE English Literature (8702)',
+    code: '8702',
+    boardSummary:
+      'AQA GCSE English Literature encourages students to develop knowledge and skills in reading, writing and critical thinking through the study of a range of high-quality, intellectually challenging texts.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/english/gcse/english-8702/specification',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching 2015. Assessed across two papers: Paper 1 ‘Shakespeare and the 19th-century Novel’ and Paper 2 ‘Modern Texts and Poetry’ (including an unseen poetry section). All assessments are closed book. Fully co-teachable with AQA GCSE English Language (8700).',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'english-language',
+    officialTitle: 'AQA A-level English Language (7702)',
+    code: '7702',
+    boardSummary:
+      'AQA A-level English Language introduces students to the concepts and methods of language analysis appropriate to the description and interpretation of texts and transcripts of spoken language.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/english/a-level/english-7702/specification',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching 2015, linear qualification. Paper 1 ‘Language, the Individual and Society’ and Paper 2 ‘Language Diversity and Change’, plus a non-exam-assessed ‘Language in Action’ component (investigation and original writing, 20% weighting).',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
+    officialTitle: 'AQA A-level English Literature B (7716/7717)',
+    code: '7712 / 7717',
+    boardSummary:
+      'AQA A-level English Literature B centres on different ways of reading and the connections that exist between texts within a literary genre, encouraging students to arrive at their own interpretations.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification',
+    verifiedOn: '2026-08-19',
+    notes: 'AQA offers two A-level English Literature specifications: Literature A (7711 AS / 7712 A-level) and Literature B (7716 AS / 7717 A-level). This entry’s taxonomy verifies Literature B (7717): Paper 1 ‘Literary Genres’ (tragedy/comedy options), Paper 2 ‘Texts and Genres’ (crime/protest writing options), plus non-exam assessment ‘Theory and Independence’. The ‘7712’ half of the code recorded in Marlbridge’s board matrix refers to Literature A, which has not been separately verified against its own official content pages.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>

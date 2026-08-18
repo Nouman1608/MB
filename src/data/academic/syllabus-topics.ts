@@ -2558,6 +2558,288 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 16, name: 'Artificial intelligence', slug: 'artificial-intelligence-9645', stage: 'A', subtopics: [] },
     ],
   },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'english-language',
+    syllabusCode: '9093', syllabusSeries: '2024-2026',
+    effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/635901-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
+    notes: 'English Language syllabuses are organised around named papers and sections, not a numbered topic taxonomy. AS Level: Paper 1 Reading, Paper 2 Writing. A Level adds Paper 3 Language Analysis and Paper 4 Language Topics, each with two named sections. Version 2, published October 2021.',
+    topics: [
+      { number: 1, name: 'Paper 1 – Reading', slug: 'paper-1-reading-9093', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Paper 2 – Writing', slug: 'paper-2-writing-9093', stage: 'AS', subtopics: [] },
+      { number: 3, name: 'Paper 3 – Language Analysis', slug: 'paper-3-language-analysis-9093', stage: 'A', subtopics: [
+        { number: '3.1', name: 'Section A: Language Change', slug: 'section-a-language-change-9093' },
+        { number: '3.2', name: 'Section B: Child Language Acquisition', slug: 'section-b-child-language-acquisition-9093' },
+      ] },
+      { number: 4, name: 'Paper 4 – Language Topics', slug: 'paper-4-language-topics-9093', stage: 'A', subtopics: [
+        { number: '4.1', name: 'Section A: English in the World', slug: 'section-a-english-in-the-world-9093' },
+        { number: '4.2', name: 'Section B: Language and the Self', slug: 'section-b-language-and-the-self-9093' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'english-language',
+    syllabusCode: '1123', syllabusSeries: '2024-2026',
+    effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/634453-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
+    notes: 'This is the simplest English Language syllabus in the Marlbridge taxonomy: content is organised only into two skill strands (Reading, Writing) assessed by Paper 1 Reading (50%) and Paper 2 Writing (50%), with no further named sub-sections. Version 2, published December 2022.',
+    topics: [
+      { number: 1, name: 'Reading', slug: 'reading-1123', subtopics: [] },
+      { number: 2, name: 'Writing', slug: 'writing-1123', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'english-literature',
+    syllabusCode: '0475', syllabusSeries: '2026',
+    effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf', verifiedDate: '2026-08-19',
+    notes: 'Literature syllabuses are organised around named papers, not a topic taxonomy, and their set texts rotate by examination year, so this entry represents the syllabus’s structural components only — it does not encode the 2026 set-text list (which will differ in future years). Candidates take Paper 1 plus EITHER Paper 2 OR (Paper 3 + Paper 4) OR (Paper 3 + Component 5). Version 2, published December 2025, valid for the 2026 series only.',
+    topics: [
+      { number: 1, name: 'Paper 1 – Poetry and Prose', slug: 'paper-1-poetry-and-prose-0475', subtopics: [
+        { number: '1.1', name: 'Section A: Poetry', slug: 'section-a-poetry-0475' },
+        { number: '1.2', name: 'Section B: Prose', slug: 'section-b-prose-0475' },
+      ] },
+      { number: 2, name: 'Paper 2 – Drama', slug: 'paper-2-drama-0475', subtopics: [] },
+      { number: 3, name: 'Paper 3 – Drama (Open Text)', slug: 'paper-3-drama-open-text-0475', subtopics: [] },
+      { number: 4, name: 'Paper 4 – Unseen', slug: 'paper-4-unseen-0475', subtopics: [] },
+      { number: 5, name: 'Component 5 – Coursework', slug: 'component-5-coursework-0475', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
+    syllabusCode: '9695', syllabusSeries: '2024-2026',
+    effectiveFrom: '2024', effectiveTo: '2026', status: 'current',
+    tiered: false,
+    source: 'Cambridge Assessment International Education — official syllabus PDF',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/636097-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
+    notes: 'AS Level includes Paper 1 and Paper 2; A Level adds Paper 3 and Paper 4. Each paper has two named sections. Set texts rotate by examination year and are not encoded here — this entry represents the syllabus’s structural components only.',
+    topics: [
+      { number: 1, name: 'Paper 1 – Drama and Poetry', slug: 'paper-1-drama-and-poetry-9695', stage: 'AS', subtopics: [
+        { number: '1.1', name: 'Section A: Drama', slug: 'section-a-drama-9695' },
+        { number: '1.2', name: 'Section B: Poetry', slug: 'section-b-poetry-9695' },
+      ] },
+      { number: 2, name: 'Paper 2 – Prose and Unseen', slug: 'paper-2-prose-and-unseen-9695', stage: 'AS', subtopics: [
+        { number: '2.1', name: 'Section A: Prose', slug: 'section-a-prose-9695' },
+        { number: '2.2', name: 'Section B: Unseen', slug: 'section-b-unseen-9695' },
+      ] },
+      { number: 3, name: 'Paper 3 – Shakespeare and Drama', slug: 'paper-3-shakespeare-and-drama-9695', stage: 'A', subtopics: [
+        { number: '3.1', name: 'Section A: Shakespeare', slug: 'section-a-shakespeare-9695' },
+        { number: '3.2', name: 'Section B: Drama', slug: 'section-b-drama-9695' },
+      ] },
+      { number: 4, name: 'Paper 4 – Pre- and Post-1900 Poetry and Prose', slug: 'paper-4-pre-and-post-1900-poetry-and-prose-9695', stage: 'A', subtopics: [
+        { number: '4.1', name: 'Section A: Pre-1900 Poetry and Prose', slug: 'section-a-pre-1900-poetry-and-prose-9695' },
+        { number: '4.2', name: 'Section B: Post-1900 Poetry and Prose', slug: 'section-b-post-1900-poetry-and-prose-9695' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'english-language',
+    syllabusCode: '4EA1', syllabusSeries: 'For first teaching 2016 (Issue 6, 2023)',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'Pearson Edexcel — International GCSE English Language A (9–1) specification and news pages at qualifications.pearson.com',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20A/2016/Specification%20and%20sample%20assessments/9781446954379-int-gcse-englang-a-iss6-02-02-2023.pdf', verifiedDate: '2026-08-19',
+    notes: 'Students take Component 1 plus EITHER Component 2 (examined) OR Component 3 (non-exam assessment alternative to Component 2). This entry represents the mainstream exam route (Components 1 and 2); Component 3 is not separately encoded. A modular version (4XEA1) is also offered by Pearson for first teaching September 2025 and was not separately verified.',
+    topics: [
+      { number: 1, name: 'Component 1 – Non-fiction Texts and Transactional Writing', slug: 'component-1-non-fiction-texts-and-transactional-writing-4ea1', subtopics: [
+        { number: '1.1', name: 'Section A: Non-fiction Texts', slug: 'section-a-non-fiction-texts-4ea1' },
+        { number: '1.2', name: 'Section B: Transactional Writing', slug: 'section-b-transactional-writing-4ea1' },
+      ] },
+      { number: 2, name: 'Component 2 – Poetry and Prose Texts and Imaginative Writing', slug: 'component-2-poetry-and-prose-texts-and-imaginative-writing-4ea1', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'english-literature',
+    syllabusCode: '4ET1', syllabusSeries: 'For first teaching 2016',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'Pearson Edexcel — International GCSE English Literature (9–1) specification at qualifications.pearson.com',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Literature/2016/Specification%20and%20sample%20assessments/international-gcse-english-literature-specification.pdf', verifiedDate: '2026-08-19',
+    notes: 'Students take Component 1 plus EITHER Component 2 (examined) OR Component 3 (coursework alternative to Component 2, 40% weighting). This entry represents the mainstream exam route (Components 1 and 2); set texts rotate and are not encoded here. A modular version (4XET1) also exists and was not separately verified.',
+    topics: [
+      { number: 1, name: 'Component 1 – Poetry and Modern Prose', slug: 'component-1-poetry-and-modern-prose-4et1', subtopics: [] },
+      { number: 2, name: 'Component 2 – Modern Drama and Literary Heritage Texts', slug: 'component-2-modern-drama-and-literary-heritage-texts-4et1', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
+    syllabusCode: 'YET01', syllabusSeries: 'For first teaching 2015 (units WET01–WET04)',
+    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'Pearson Edexcel — International Advanced Level English Literature specification at qualifications.pearson.com',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/english-literature/2015/specification-and-sample-assessments/9781446954058-ial-englit-iss6-9-spec-240521pm.pdf', verifiedDate: '2026-08-19',
+    notes: 'International Advanced Subsidiary (IAS) comprises Units 1–2; the full International Advanced Level (IAL) adds Units 3–4. Set texts are chosen from prescribed lists per unit and are not encoded here — this entry represents the unit structure only.',
+    topics: [
+      { number: 1, name: 'Unit 1 – Post-2000 Poetry and Prose', slug: 'unit-1-post-2000-poetry-and-prose-yet01', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Unit 2 – Drama', slug: 'unit-2-drama-yet01', stage: 'AS', subtopics: [] },
+      { number: 3, name: 'Unit 3 – Poetry and Prose', slug: 'unit-3-poetry-and-prose-yet01', stage: 'A', subtopics: [] },
+      { number: 4, name: 'Unit 4 – Shakespeare and Pre-1900 Poetry', slug: 'unit-4-shakespeare-and-pre-1900-poetry-yet01', stage: 'A', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'english-language',
+    syllabusCode: '8700', syllabusSeries: 'For first teaching 2015',
+    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'AQA — official specification pages at aqa.org.uk/subjects/english/gcse/english-8700/specification',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
+    notes: 'Untiered. A separate non-exam-assessed Spoken Language endorsement (0% weighting of the GCSE) is assessed but does not carry a mark toward the grade, so it is not encoded as a content topic here.',
+    topics: [
+      { number: 1, name: 'Paper 1 – Explorations in Creative Reading and Writing', slug: 'paper-1-explorations-in-creative-reading-and-writing-8700', subtopics: [
+        { number: '1.1', name: 'Section A: Reading', slug: 'section-a-reading-8700-p1' },
+        { number: '1.2', name: 'Section B: Writing', slug: 'section-b-writing-8700-p1' },
+      ] },
+      { number: 2, name: 'Paper 2 – Writers’ Viewpoints and Perspectives', slug: 'paper-2-writers-viewpoints-and-perspectives-8700', subtopics: [
+        { number: '2.1', name: 'Section A: Reading', slug: 'section-a-reading-8700-p2' },
+        { number: '2.2', name: 'Section B: Writing', slug: 'section-b-writing-8700-p2' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'english-literature',
+    syllabusCode: '8702', syllabusSeries: 'For first teaching 2015',
+    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'AQA — official specification pages at aqa.org.uk/subjects/english/gcse/english-8702/specification',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/english/gcse/english-8702/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
+    notes: 'Untiered, closed book. Set texts (Shakespeare play, 19th-century novel, modern prose or drama text, poetry anthology cluster) are chosen from prescribed lists and are not encoded here — this entry represents the paper/section structure only.',
+    topics: [
+      { number: 1, name: 'Paper 1 – Shakespeare and the 19th-century Novel', slug: 'paper-1-shakespeare-and-the-19th-century-novel-8702', subtopics: [
+        { number: '1.1', name: 'Section A: Shakespeare', slug: 'section-a-shakespeare-8702' },
+        { number: '1.2', name: 'Section B: The 19th-century Novel', slug: 'section-b-the-19th-century-novel-8702' },
+      ] },
+      { number: 2, name: 'Paper 2 – Modern Texts and Poetry', slug: 'paper-2-modern-texts-and-poetry-8702', subtopics: [
+        { number: '2.1', name: 'Section A: Modern Texts', slug: 'section-a-modern-texts-8702' },
+        { number: '2.2', name: 'Section B: Poetry', slug: 'section-b-poetry-8702' },
+        { number: '2.3', name: 'Section C: Unseen Poetry', slug: 'section-c-unseen-poetry-8702' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'english-language',
+    syllabusCode: '7702', syllabusSeries: 'For first teaching 2015',
+    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'AQA — official specification pages at aqa.org.uk/subjects/english/a-level/english-7702/specification',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/english/a-level/english-7702/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
+    notes: 'Linear qualification. Methods of language analysis are integrated into each paper rather than assessed as a stand-alone topic.',
+    topics: [
+      { number: 1, name: 'Paper 1 – Language, the Individual and Society', slug: 'paper-1-language-the-individual-and-society-7702', subtopics: [
+        { number: '1.1', name: 'Section A: Textual Variations and Representations', slug: 'section-a-textual-variations-and-representations-7702' },
+        { number: '1.2', name: 'Section B: Children’s Language Development', slug: 'section-b-childrens-language-development-7702' },
+      ] },
+      { number: 2, name: 'Paper 2 – Language Diversity and Change', slug: 'paper-2-language-diversity-and-change-7702', subtopics: [
+        { number: '2.1', name: 'Section A: Diversity and Change', slug: 'section-a-diversity-and-change-7702' },
+        { number: '2.2', name: 'Section B: Language Discourses', slug: 'section-b-language-discourses-7702' },
+      ] },
+      { number: 3, name: 'Non-exam Assessment – Language in Action', slug: 'non-exam-assessment-language-in-action-7702', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
+    syllabusCode: '7712 / 7717', syllabusSeries: 'English Literature B, for first teaching 2025 (AS 7716; code matches syllabuses.ts overview record)',
+    effectiveFrom: '2025', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'AQA — official specification pages at aqa.org.uk/subjects/english/a-level/english-7717/specification',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
+    notes: 'AQA offers two A-level English Literature specifications: Literature A (7711 AS / 7712 A-level, content/context-based) and Literature B (7716 AS / 7717 A-level, genre-based). This entry verifies Literature B (7717), which matches one of the two codes Marlbridge currently records for this combination (‘7712 / 7717’ in the board/subject matrix); Literature A (7712) has not been separately verified against its own official content pages and should be checked before the matrix note is treated as fully confirmed for both specifications.',
+    topics: [
+      { number: 1, name: 'Paper 1 – Literary Genres', slug: 'paper-1-literary-genres-7717', subtopics: [
+        { number: '1.1', name: 'Option 1A: Aspects of Tragedy', slug: 'option-1a-aspects-of-tragedy-7717' },
+        { number: '1.2', name: 'Option 1B: Aspects of Comedy', slug: 'option-1b-aspects-of-comedy-7717' },
+      ] },
+      { number: 2, name: 'Paper 2 – Texts and Genres', slug: 'paper-2-texts-and-genres-7717', subtopics: [
+        { number: '2.1', name: 'Option 2A: Elements of Crime Writing', slug: 'option-2a-elements-of-crime-writing-7717' },
+        { number: '2.2', name: 'Option 2B: Elements of Political and Social Protest Writing', slug: 'option-2b-elements-of-political-and-social-protest-writing-7717' },
+      ] },
+      { number: 3, name: 'Non-exam Assessment – Theory and Independence', slug: 'non-exam-assessment-theory-and-independence-7717', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'english-language',
+    syllabusCode: '9270', syllabusSeries: 'Version 4.2, for exams May/June 2018 onwards',
+    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OxfordAQA — official International GCSE English Language (9270) specification PDF',
+    sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-english-language-specification.pdf', verifiedDate: '2026-08-19',
+    notes: 'Overlaps with AQA UK GCSE English Language (8700). Students take Paper 1 plus EITHER Paper 2 (examined) OR a non-exam assessment project as an alternative to Paper 2; this entry represents the mainstream exam route. An optional Speaking and Listening endorsement is reported separately and does not count toward the qualification grade.',
+    topics: [
+      { number: 1, name: 'Paper 1 – Literary Non-fiction and Composition', slug: 'paper-1-literary-non-fiction-and-composition-9270', subtopics: [
+        { number: '1.1', name: 'Section A: Literary Non-fiction', slug: 'section-a-literary-non-fiction-9270' },
+        { number: '1.2', name: 'Section B: Composition', slug: 'section-b-composition-9270' },
+      ] },
+      { number: 2, name: 'Paper 2 – Source-based Reading and Directed Writing', slug: 'paper-2-source-based-reading-and-directed-writing-9270', subtopics: [
+        { number: '2.1', name: 'Section A: Reading', slug: 'section-a-reading-9270' },
+        { number: '2.2', name: 'Section B: Writing', slug: 'section-b-writing-9270' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'english-language',
+    syllabusCode: '9670', syllabusSeries: 'Version 5.2, for International AS exams from May/June 2018, A-level from May/June 2019',
+    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OxfordAQA — official International AS and A-level English Language (9670) specification PDF',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-english-language-specification.pdf', verifiedDate: '2026-08-19',
+    notes: 'Modular. International AS = Units 1–2; the full International A-level adds Unit 3 and Unit 4 (written) or Unit 4b (non-exam-assessed language investigation, the alternative to written Unit 4a).',
+    topics: [
+      { number: 1, name: 'Unit 1 – Language and Context', slug: 'unit-1-language-and-context-9670', stage: 'AS', subtopics: [
+        { number: '1.1', name: 'Section A: Understanding Texts', slug: 'section-a-understanding-texts-9670' },
+        { number: '1.2', name: 'Section B: Directed Writing', slug: 'section-b-directed-writing-9670' },
+      ] },
+      { number: 2, name: 'Unit 2 – Language and Society', slug: 'unit-2-language-and-society-9670', stage: 'AS', subtopics: [
+        { number: '2.1', name: 'Section A: Language and Social Groups – Texts', slug: 'section-a-language-and-social-groups-texts-9670' },
+        { number: '2.2', name: 'Section B: Language and Social Groups – Writing', slug: 'section-b-language-and-social-groups-writing-9670' },
+      ] },
+      { number: 3, name: 'Unit 3 – Language Variation', slug: 'unit-3-language-variation-9670', stage: 'A', subtopics: [
+        { number: '3.1', name: 'Section A: Learning Language', slug: 'section-a-learning-language-9670' },
+        { number: '3.2', name: 'Section B: International English', slug: 'section-b-international-english-9670' },
+      ] },
+      { number: 4, name: 'Unit 4 – Language Exploration', slug: 'unit-4-language-exploration-9670', stage: 'A', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'english-literature',
+    syllabusCode: '9275', syllabusSeries: 'Version 4.2, for exams May/June 2018 onwards',
+    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OxfordAQA — official International GCSE English Literature (9275) specification PDF',
+    sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-english-literature-specification.pdf', verifiedDate: '2026-08-19',
+    notes: 'Overlaps with AQA UK GCSE English Literature (8702). Two routes exist: Route A (Paper 1 + Paper 2a, with an unseen-prose section) and Route B (Paper 1 + Paper 2b + non-exam assessment). This entry represents the shared Paper 1 content plus Route A’s Paper 2a; set texts (from a prescribed list, plus the OxfordAQA poetry anthology People and Places) are not encoded here.',
+    topics: [
+      { number: 1, name: 'Prose and Drama', slug: 'prose-and-drama-9275', subtopics: [
+        { number: '1.1', name: 'Prose Fiction', slug: 'prose-fiction-9275' },
+        { number: '1.2', name: 'Drama', slug: 'drama-9275' },
+      ] },
+      { number: 2, name: 'Poetry and Unseen Texts', slug: 'poetry-and-unseen-texts-9275', subtopics: [
+        { number: '2.1', name: 'Poetry', slug: 'poetry-9275' },
+        { number: '2.2', name: 'Unseen Poetry', slug: 'unseen-poetry-9275' },
+        { number: '2.3', name: 'Unseen Prose', slug: 'unseen-prose-9275' },
+      ] },
+    ],
+  },
+  {
+    boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
+    syllabusCode: '9675', syllabusSeries: 'Version 4.1, for International AS exams from May/June 2018, A-level from May/June 2019',
+    effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
+    tiered: false,
+    source: 'OxfordAQA — official International AS and A-level English Literature (9675) specification PDF',
+    sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-english-literature-specification.pdf', verifiedDate: '2026-08-19',
+    notes: 'International AS = Unit 1 and Unit 2; the full International A-level adds Unit 3 and Unit 4. Honest-partial: unit titles are verified from the specification’s own contents page; named sub-sections within each unit and set-text lists were not extracted in this pass.',
+    topics: [
+      { number: 1, name: 'Unit 1 – Aspects of Dramatic Tragedy', slug: 'unit-1-aspects-of-dramatic-tragedy-9675', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Unit 2 – Place in Literary Texts', slug: 'unit-2-place-in-literary-texts-9675', stage: 'AS', subtopics: [] },
+      { number: 3, name: 'Unit 3 – Elements of Crime and Mystery', slug: 'unit-3-elements-of-crime-and-mystery-9675', stage: 'A', subtopics: [] },
+      { number: 4, name: 'Unit 4 – Literary Representations', slug: 'unit-4-literary-representations-9675', stage: 'A', subtopics: [] },
+    ],
+  },
 ] as const;
 
 /**
