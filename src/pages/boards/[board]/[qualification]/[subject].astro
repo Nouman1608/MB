@@ -63,8 +63,19 @@ const allResources = await getResources();
 // finding: AQA GCSE English Language resources were invisible on this page
 // for exactly this reason, even though they render correctly on the
 // English subject hub, which already used hubSlug).
+// A resource must also apply to THIS board: either genuinely board-agnostic
+// (boards: [], e.g. general study-skills material) or explicitly tagged
+// with c.boardSlug. Without this, a board-specific resource (most of them
+// carry a boards[] tag — see content.config.ts) would silently surface on
+// every other board's leaf page for the same subject/level, misrepresenting
+// e.g. AQA-specific syllabus content as relevant to OxfordAQA or Cambridge
+// students. Found via v1.0 WS7 audit: an AQA-only Sociology resource
+// (boards: ["aqa"]) was rendering on the OxfordAQA A-level Sociology page.
 const resources = allResources.filter(
-  (r) => r.data.subject.id === hubSlug && r.data.level.includes(levelKey as never),
+  (r) =>
+    r.data.subject.id === hubSlug &&
+    r.data.level.includes(levelKey as never) &&
+    (r.data.boards.length === 0 || r.data.boards.includes(c.boardSlug as never)),
 );
 
 const study = resources.filter((r) => ['study-guides', 'revision-notes', 'subject-guides'].includes(r.data.resourceType));
