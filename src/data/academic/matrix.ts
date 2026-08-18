@@ -118,6 +118,9 @@ const AQA_GCSE_CODES: Record<string, string> = {
 const AQA_ALEVEL_CODES: Record<string, string> = {
   biology: '7402', chemistry: '7405', physics: '7408',
   psychology: '7182', sociology: '7192', business: '7132', economics: '7136',
+  // Verified 2026-08-19 at aqa.org.uk/subjects/computer-science/a-level/computer-science-7517:
+  // live specification code, first teaching 2015.
+  'computer-science': '7517',
   // Verified 2026-08-18 at aqa.org.uk/subjects/accounting: A-level Accounting
   // 7127 is live (next exam 17 May 2027, current specification for first
   // teaching 2017). Not withdrawn — resolves the prior "needs checking" note.
@@ -194,6 +197,8 @@ export const MATRIX: readonly Combination[] = [
     codes: {
       chemistry: '9701', mathematics: '9709', physics: '9702', biology: '9700',
       business: '9609', economics: '9708', accounting: '9706',
+      // Verified at cambridgeinternational.org 2026-08-19.
+      'computer-science': '9618', ict: '9626',
     },
     notes: OWNER_TEACHES_ALL,
   }),
@@ -211,6 +216,9 @@ export const MATRIX: readonly Combination[] = [
     codes: {
       chemistry: '0620', mathematics: '0580', physics: '0625', biology: '0610',
       business: '0450', economics: '0455', accounting: '0452',
+      // Verified at cambridgeinternational.org 2026-08-19. Plain A*-G codes,
+      // not the numeric-grade "(9-1)" sibling syllabuses (0984, 0983).
+      'computer-science': '0478', ict: '0417',
     },
     notes: OWNER_TEACHES_ALL,
   }),
@@ -236,6 +244,8 @@ export const MATRIX: readonly Combination[] = [
       business: '7115', economics: '2281',
       // Verified at cambridgeinternational.org 2026-08-18 (WS2 reconciliation).
       commerce: '7100', statistics: '4040',
+      // Verified at cambridgeinternational.org 2026-08-19.
+      'computer-science': '2210',
     },
     notes: OWNER_TEACHES_ALL,
   }),

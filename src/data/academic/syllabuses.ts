@@ -910,6 +910,67 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'International Advanced Subsidiary code XAC11 (Unit 1 only); International Advanced Level code YAC11 (Unit 1 + Unit 2). Specification is Issue 2, reissued September 2018, first teaching September 2015, 100% externally assessed with January/June/October series.',
   },
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'computer-science',
+    officialTitle: 'Cambridge International AS & A Level Computer Science (9618)',
+    code: '9618',
+    boardSummary:
+      'This syllabus enables learners to understand the main principles of problem-solving using computers and gives them opportunities to develop their skills in a number of programming languages, together with the skills necessary to apply this understanding to develop computer based solutions to problems.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/',
+    verifiedOn: '2026-08-19',
+    notes: 'Valid for exams in 2026 only, a single-year series that should be re-checked for a successor when next touched. Staged: AS (sections 1-12) and A Level (adds 13-20), assessed across four papers (Theory Fundamentals, Fundamental Problem-solving and Programming, Advanced Theory, Practical).',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'computer-science',
+    officialTitle: 'Cambridge IGCSE Computer Science (0478)',
+    code: '0478',
+    boardSummary:
+      'Cambridge IGCSE Computer Science is designed for learners who are already competent users of computer technology and who wish to further develop their computing skills and knowledge.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-computer-science-0478/',
+    verifiedOn: '2026-08-19',
+    notes: 'Version 5, published December 2025, valid for the 2026, 2027 and 2028 series. Not tiered. Two components: Computer Systems (Topics 1-6) and Algorithms, Programming and Logic (Topics 7-10), each 50%.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'computer-science',
+    officialTitle: 'Cambridge O Level Computer Science (2210)',
+    code: '2210',
+    boardSummary:
+      'Cambridge O Level Computer Science shares its content with Cambridge IGCSE Computer Science (0478), giving learners the same grounding in computer systems, algorithms, programming and logic under the O Level grading scale.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/',
+    verifiedOn: '2026-08-19',
+    notes: 'Valid for the 2026, 2027 and 2028 series. Not tiered. Shares its 10-topic content and two-component structure directly with IGCSE 0478 — the syllabus PDF states textbooks endorsed for 0478 are suitable for 2210.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'ict',
+    officialTitle: 'Cambridge International AS & A Level Information Technology (9626)',
+    code: '9626',
+    boardSummary:
+      'Cambridge International AS & A Level Information Technology gives learners the knowledge and skills to select and use a range of applications software to solve problems, and an understanding of how key applications are used in the outside world.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-information-technology-9626/',
+    verifiedOn: '2026-08-19',
+    notes: 'Valid for the 2025, 2026 and 2027 series. Staged: AS (sections 1-11) and A Level (adds 12-21), assessed across four papers (Theory, Practical, Advanced Theory, Advanced Practical).',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'ict',
+    officialTitle: 'Cambridge IGCSE Information and Communication Technology (0417)',
+    code: '0417',
+    boardSummary:
+      'Cambridge IGCSE Information and Communication Technology develops learners\' skills so that they can use a range of software applications confidently and effectively, and requires them to demonstrate their ability to use ICT to solve problems.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-information-and-communication-technology-0417/',
+    verifiedOn: '2026-08-19',
+    notes: 'Valid for the 2026, 2027 and 2028 series. Not tiered. Three components: a theory paper plus two practical papers covering document/data/web-authoring skills. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) ICT 0983 sibling syllabus, whose PDF was briefly and mistakenly fetched before this entry was corrected against the genuine 0417 source.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'computer-science',
+    officialTitle: 'AQA A-level Computer Science (7517)',
+    code: '7517',
+    boardSummary:
+      'AQA A-level Computer Science develops learners\' capacity for computational thinking, and their ability to design, program and evaluate computer systems to solve problems, supporting further study or employment in computing.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/computer-science/a-level/computer-science-7517',
+    verifiedOn: '2026-08-19',
+    notes: 'Confirmed live and current: first teaching 2015, 13 named subject-content sections (4.1-4.13) plus a non-exam-assessment computing practical project. Supports C#, Java, Python and VB.Net as programming languages.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
