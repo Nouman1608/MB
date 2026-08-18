@@ -13,7 +13,26 @@ const formats = ['One-to-one', 'Small group', 'Online', 'Not sure yet'];
 const roles = ['Head of school', 'Head of department', 'Teacher', 'Coordinator', 'Other'];
 const mailto = 'mailto:' + FALLBACK_EMAIL;
 ---
-<form data-enquiry-form data-kind={kind} method="post" action={mailto} novalidate class="grid max-w-[68ch] gap-5 sm:grid-cols-2">
+{/*
+  v1.2 WS3 — action now points at the real /api/enquiry Cloudflare Pages
+  Function (functions/api/enquiry.ts), not a mailto: action. A `mailto:`
+  form action does not reliably deliver form-encoded field data in most
+  browsers, so it was effectively as broken as the "not connected" JS
+  error path it was meant to back up. With JS enabled the submit handler
+  below intercepts and posts via fetch; with JS disabled the browser still
+  natively POSTs to /api/enquiry, which is a real, working endpoint.
+*/}
+<form data-enquiry-form data-kind={kind} method="post" action="/api/enquiry" novalidate class="grid max-w-[68ch] gap-5 sm:grid-cols-2">
+  {/* Honeypot — real users never see or fill this in; a filled value is
+      treated as automated spam by functions/api/enquiry.ts. Hidden from
+      sighted and assistive-tech users alike (aria-hidden + tabindex -1 +
+      visually-hidden position, not display:none, so basic bots that skip
+      display:none fields don't skip this one too). */}
+  <div aria-hidden="true" class="absolute -left-[9999px] top-auto h-px w-px overflow-hidden">
+    <label for="website">Website</label>
+    <input type="text" id="website" name="website" tabindex={-1} autocomplete="off" />
+  </div>
+
   <FormField name="name" label="Full name" required><Input name="name" autocomplete="name" required /></FormField>
 
   {kind === 'school' && <FormField name="school" label="School" required><Input name="school" autocomplete="organization" required /></FormField>}
