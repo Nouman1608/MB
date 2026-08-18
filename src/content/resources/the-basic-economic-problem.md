@@ -20,7 +20,8 @@ syllabusTopics:
     topic: "the-basic-economic-problem"
     subtopic: "opportunity-cost"
 description: "Finite resources and unlimited wants, economic and free goods, the factors of production, and opportunity cost, for Cambridge O Level Economics 2281."
-author: "marlbridge-academic-team"
+author: "salman-ahmad"
+reviewer: "salman-ahmad"
 publishedDate: 2026-08-18
 featured: false
 ---

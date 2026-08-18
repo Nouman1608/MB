@@ -15,7 +15,8 @@ syllabusTopics:
     topic: "as-equilibria"
     subtopic: "as-bronsted-lowry-theory-of-acids-and-bases"
 description: "The Brønsted-Lowry theory, strong vs weak acids and bases, neutralisation, and reading titration curves and indicator choice, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

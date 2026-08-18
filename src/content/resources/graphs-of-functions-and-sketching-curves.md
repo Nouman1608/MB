@@ -17,7 +17,8 @@ syllabusTopics:
     topic: "algebra-and-graphs"
     subtopic: "sketching-curves"
 description: "Plotting graphs from tables of values, solving equations graphically, exponential growth and decay, and sketching linear, quadratic, cubic, reciprocal and exponential curves, for Cambridge O Level Mathematics (Syllabus D) 4024."
-author: "marlbridge-academic-team"
+author: "muhammad-ghazali-siddiqui"
+reviewer: "muhammad-ghazali-siddiqui"
 publishedDate: 2026-08-18
 featured: false
 ---

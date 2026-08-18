@@ -18,7 +18,8 @@ syllabusTopics:
     topic: "as-hydrocarbons"
     subtopic: "as-alkenes"
 description: "Free-radical substitution in alkanes and electrophilic addition in alkenes, with full mechanisms, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

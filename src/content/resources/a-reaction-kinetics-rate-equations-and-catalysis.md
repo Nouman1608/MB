@@ -18,7 +18,8 @@ syllabusTopics:
     topic: "a-reaction-kinetics"
     subtopic: "a-homogeneous-and-heterogeneous-catalysts"
 description: "Rate equations, orders of reaction, rate constants, reaction mechanisms, and homogeneous and heterogeneous catalysis, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

@@ -29,7 +29,8 @@ syllabusTopics:
     topic: "atoms-elements-and-compounds"
     subtopic: "isotopes"
 description: "Protons, neutrons and electrons, atomic and mass number, electronic configuration by shell, and isotopes, for Cambridge IGCSE 0620 and O Level 5070."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-07-01
 updatedDate: 2026-08-17
 featured: false

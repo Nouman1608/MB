@@ -9,7 +9,8 @@ qualifications: ["a-level"]
 syllabusCodes: ["9620"]
 syllabusSeries: "First teaching 2019, first AS and A-level exams 2020 (specification updated November 2022)"
 description: "Dynamic equilibrium, Le Chatelier's principle, and writing and using the equilibrium constant Kc, for OxfordAQA International AS and A-level Chemistry 9620, assessed on AS Paper 2."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-18
 featured: false
 ---

@@ -18,7 +18,8 @@ syllabusTopics:
     topic: "financial-accounting"
     subtopic: "the-accounting-system"
 description: "Sole traders, partnerships and limited companies, sources of finance, double-entry bookkeeping, books of prime entry, and fundamental accounting concepts, for Cambridge International AS & A Level Accounting 9706."
-author: "marlbridge-academic-team"
+author: "javaid-iqbal-sabri"
+reviewer: "javaid-iqbal-sabri"
 publishedDate: 2026-08-18
 featured: false
 ---

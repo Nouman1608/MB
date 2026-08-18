@@ -18,7 +18,8 @@ syllabusTopics:
     topic: "as-chemical-energetics"
     subtopic: "as-hess-s-law"
 description: "Standard enthalpy changes, bond-energy calculations, and using Hess's law to construct enthalpy cycles, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

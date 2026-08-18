@@ -118,6 +118,25 @@ const resources = defineCollection({
     reviewNote: z.string().optional(),
     description: z.string(),
     author: reference('authors').optional(),
+    /**
+     * v1.x WS4 -- the named academic reviewer responsible for verifying
+     * this resource's content, distinct from `author` (who wrote it) and
+     * from the pre-existing `reviewNeeded`/`reviewNote` pair above (a
+     * data-quality flag about qualification applicability, not an
+     * academic sign-off). Optional: many resources have no reviewer
+     * assigned yet, which is honestly reflected by `reviewStatus` staying
+     * 'review-pending' rather than by this field being required.
+     */
+    reviewer: reference('authors').optional(),
+    /**
+     * Real publication/review workflow state. Defaults to
+     * 'review-pending' -- being assigned a reviewer does NOT mean a
+     * review has actually happened; that only becomes 'reviewed' once a
+     * human with subject expertise has actually checked the content and
+     * the site's editorial policy records that. See docs/decision-log.md
+     * D-006 and src/pages/legal/editorial-policy.astro.
+     */
+    reviewStatus: z.enum(['draft', 'review-pending', 'reviewed', 'changes-requested', 'archived']).default('review-pending'),
     publishedDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     order: z.number().optional(),
@@ -134,6 +153,8 @@ const articles = defineCollection({
     title: z.string(),
     excerpt: z.string(),
     author: reference('authors'),
+    reviewer: reference('authors').optional(),
+    reviewStatus: z.enum(['draft', 'review-pending', 'reviewed', 'changes-requested', 'archived']).default('review-pending'),
     publishedDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     category: z.enum([
@@ -184,6 +205,49 @@ const authors = defineCollection({
      * silently inheriting a guess.
      */
     entityType: z.enum(['person', 'organization']),
+    /**
+     * v1.x WS4 -- real faculty support. Subjects/boards/qualifications
+     * taught are canonical-slug arrays (validated informally against
+     * src/data/academic/subjects.ts and boards.ts by convention; not yet
+     * cross-checked by a dedicated validator -- see the v1.x governance
+     * backlog). Left empty for entityType: 'organization' entries.
+     */
+    subjectsTaught: z.array(z.string()).default([]),
+    boardsTaught: z.array(z.string()).default([]),
+    qualificationsTaught: z.array(z.string()).default([]),
+    /** Years of teaching experience, exactly as publicly stated by the
+     * source cited in sourceUrl -- never estimated or rounded up. */
+    yearsExperience: z.number().optional(),
+    /** Schools/institutions previously taught at, exactly as the source
+     * states them. Never a claimed academic qualification/degree -- see
+     * the header comment on this collection for why those are omitted
+     * rather than guessed. */
+    previousSchools: z.array(z.string()).default([]),
+    /**
+     * Where this person's profile information was sourced from, so a
+     * reader (or an AI system) can verify it independently rather than
+     * take Marlbridge's word for it. Required whenever entityType is
+     * 'person' and the profile was populated from an external source
+     * rather than written fresh for Marlbridge -- not enforced by Zod
+     * (a real employee hired directly for Marlbridge may have no
+     * external source), but must be set whenever one exists.
+     */
+    sourceUrl: z.url().optional(),
+    /** Date this profile's facts were last checked against sourceUrl. */
+    verifiedOn: z.coerce.date().optional(),
+    /**
+     * Whether this person is the designated academic reviewer for the
+     * subjects in subjectsTaught -- a real, named responsibility, not a
+     * decorative badge. Being a reviewer does NOT retroactively mark
+     * existing resources as reviewed; see the  field on the
+     * resources/articles collections, which stays 'review-pending' until
+     * an actual review pass happens.
+     */
+    isReviewer: z.boolean().default(false),
+    /** Publication state, separate from whether the profile exists in the
+     * repository at all -- lets a profile be prepared and reviewed before
+     * it goes live. */
+    publicationState: z.enum(['draft', 'published']).default('published'),
   }),
 });
 

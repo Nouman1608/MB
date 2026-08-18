@@ -23,7 +23,8 @@ syllabusTopics:
     topic: "states-of-matter"
     subtopic: "diffusion"
 description: "Particle arrangement, changes of state and diffusion for Cambridge IGCSE 0620 and O Level 5070, with IGCSE Core and Extended outcomes clearly labelled."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

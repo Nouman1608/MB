@@ -29,7 +29,8 @@ syllabusTopics:
     topic: "organic-chemistry"
     subtopic: "alkenes"
 description: "Fractional distillation of petroleum, alkane substitution reactions, and alkene addition reactions and cracking, for Cambridge IGCSE 0620 and O Level 5070."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-18
 featured: false
 ---

@@ -18,7 +18,8 @@ syllabusTopics:
     topic: "a-analytical-techniques"
     subtopic: "a-proton-1h-nmr-spectroscopy"
 description: "Interpreting carbon-13 and proton NMR spectra to deduce molecular structure, chemical shifts, peak areas, splitting patterns and the n+1 rule, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

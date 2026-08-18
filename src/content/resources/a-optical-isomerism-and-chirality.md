@@ -15,7 +15,8 @@ syllabusTopics:
     topic: "a-an-introduction-to-a-level-organic-chemistry"
     subtopic: "a-isomerism"
 description: "Enantiomers, chirality, racemic mixtures, plane-polarised light, and why chirality matters for drug synthesis, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

@@ -18,7 +18,8 @@ syllabusTopics:
     topic: "a-chemistry-of-transition-elements"
     subtopic: "a-general-characteristic-chemical-properties-of-the-first-set-of-transition-elements-titanium-to-copper"
 description: "Why transition elements have variable oxidation states, act as catalysts and form complex ions, ligands, coordination number, and transition-metal redox titrations, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

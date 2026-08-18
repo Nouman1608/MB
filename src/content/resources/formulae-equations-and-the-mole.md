@@ -29,7 +29,8 @@ syllabusTopics:
     topic: "stoichiometry"
     subtopic: "the-mole-and-the-avogadro-constant"
 description: "Formulae, balanced equations, relative masses and mole calculations for Cambridge IGCSE 0620 and O Level 5070 — where the two qualifications differ most."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

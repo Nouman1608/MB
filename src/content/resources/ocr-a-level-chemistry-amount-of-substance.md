@@ -9,7 +9,8 @@ qualifications: ["a-level"]
 syllabusCodes: ["H432"]
 syllabusSeries: "First assessment 2017 (current specification version 3.1, May 2026)"
 description: "The mole and Avogadro constant, empirical and molecular formulae, hydrated salts, mole calculations from mass, gas volume and concentration, the ideal gas equation, and percentage yield and atom economy, for OCR A Level Chemistry A H432, Module 2.1.3."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-18
 featured: false
 ---

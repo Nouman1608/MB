@@ -8,7 +8,8 @@ qualifications: ["gcse"]
 syllabusCodes: ["8700"]
 order: 1
 description: "How AQA GCSE English Language (8700) is structured — its two papers, the spoken language endorsement, and the skills each part assesses."
-author: "marlbridge-academic-team"
+author: "lubna-waseem"
+reviewer: "lubna-waseem"
 publishedDate: 2026-08-18
 featured: false
 ---

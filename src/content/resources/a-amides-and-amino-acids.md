@@ -18,7 +18,8 @@ syllabusTopics:
     topic: "a-nitrogen-compounds"
     subtopic: "a-amino-acids"
 description: "Producing and hydrolysing amides, why amides are weaker bases than amines, and amino acid acid-base properties, zwitterions and electrophoresis, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

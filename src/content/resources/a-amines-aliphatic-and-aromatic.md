@@ -18,7 +18,8 @@ syllabusTopics:
     topic: "a-nitrogen-compounds"
     subtopic: "a-phenylamine-and-azo-compounds"
 description: "Producing primary and secondary amines, comparing the basicity of ammonia, ethylamine and phenylamine, phenylamine's preparation, and azo dye coupling, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

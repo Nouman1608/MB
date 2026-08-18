@@ -18,7 +18,8 @@ syllabusTopics:
     topic: "as-nitrogen-compounds"
     subtopic: "as-nitriles-and-hydroxynitriles"
 description: "Producing primary amines, nitriles and hydroxynitriles, and how they connect to the halogenoalkane and carbonyl chemistry already covered, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

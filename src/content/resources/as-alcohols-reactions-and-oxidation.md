@@ -15,7 +15,8 @@ syllabusTopics:
     topic: "as-hydroxy-compounds"
     subtopic: "as-alcohols"
 description: "Production, oxidation and distinguishing tests for primary, secondary and tertiary alcohols, for Cambridge International AS & A Level Chemistry 9701."
-author: "marlbridge-academic-team"
+author: "nouman-ahmed"
+reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

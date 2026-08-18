@@ -17,7 +17,8 @@ syllabusTopics:
     topic: "algebra-and-graphs"
     subtopic: "proportion"
 description: "Finding the nth term of linear, quadratic, cubic and exponential sequences, and direct and inverse proportion, for Cambridge O Level Mathematics (Syllabus D) 4024."
-author: "marlbridge-academic-team"
+author: "muhammad-ghazali-siddiqui"
+reviewer: "muhammad-ghazali-siddiqui"
 publishedDate: 2026-08-18
 featured: false
 ---

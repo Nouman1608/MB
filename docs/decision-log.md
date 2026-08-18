@@ -152,3 +152,85 @@ Status values: `answered` (owner has responded, implemented), `open`
   profiles.
 - **Status:** open (real source identified; role/subject mapping and
   reuse authorisation to confirm before publishing named profiles).
+
+## D-005: Faculty publishing scope (which of the 19 Learners Academy teachers to publish, and role mapping)
+
+- **Date:** 2026-08-18
+- **Workstream:** v1.x WS4 (Real faculty profiles + reviewer wiring)
+- **Question:** Of the real Learners Academy teachers identified under
+  D-004, which should be published as named Marlbridge faculty, and how
+  should each be mapped to a subject given that some subjects
+  (physics, biology, mathematics, accounting) have multiple matching
+  teachers on the source page?
+- **Options presented:** Publish all 19 with matching subjects; publish
+  only a curated subset; publish none yet pending further confirmation.
+- **Owner response:** "Yes, publish all 19 with matching subjects
+  (Recommended)"
+- **Final decision:** All 19 real teachers from
+  https://learnersacademy.com.pk/teachers/ are published as Marlbridge
+  authors (`src/content/authors/*.md`), each with `subjectsTaught`
+  matching their listed subject on the source page. Where a subject has
+  multiple teachers (physics, biology, mathematics, accounting), all
+  matching teachers are published as authors but only one per subject is
+  additionally marked `isReviewer: true` (see D-006) — this was Claude's
+  own reasonable inference of "most experienced by years taught," not
+  something the owner was asked to confirm name-by-name, since the
+  owner's instruction was a blanket "publish all 19 with matching
+  subjects." No `boardsTaught` value is set for any teacher: the source
+  page does not break down board-by-board coverage, and Marlbridge's own
+  matrix spans five boards, so this is left empty rather than guessed.
+- **Implementation consequence:** 19 author files created; 87 resource
+  files (chemistry ×65, physics ×8, mathematics ×7, biology ×3, english
+  ×1, economics ×1, business ×1, accounting ×1) had their `author` field
+  reassigned from `marlbridge-academic-team` to the matching real
+  teacher. Two resources (world history, sociology) have no matching
+  teacher on the source page and were deliberately left assigned to
+  `marlbridge-academic-team` rather than given a fabricated match.
+- **Follow-up required:** If the owner wants a different subject/teacher
+  mapping (e.g. a different physics or biology teacher as the primary
+  match), or wants per-teacher board coverage recorded, update
+  `src/content/authors/*.md`, the affected resource frontmatter, and
+  `docs/image-source-manifest.md` together.
+- **Status:** implemented.
+
+## D-006: Reviewer role assignment (who academically signs off on resources, and what that status means)
+
+- **Date:** 2026-08-18
+- **Workstream:** v1.x WS4 (Real faculty profiles + reviewer wiring)
+- **Question:** Should a named subject-matter teacher be assigned as the
+  responsible academic reviewer for resources in their subject, and if
+  so, does that assignment retroactively mark those resources as already
+  reviewed?
+- **Options presented:** Yes — subject teacher reviews their own
+  subject's resources; no reviewer assignment yet; assign a single
+  reviewer across all subjects.
+- **Owner response:** "Yes — subject teacher reviews their own subject's
+  resources (Recommended)"
+- **Final decision:** `src/content.config.ts` was extended with a
+  `reviewer: reference('authors').optional()` field (distinct from the
+  pre-existing `author` field and from the pre-existing
+  `reviewNeeded`/`reviewNote` data-quality flag pair) plus a
+  `reviewStatus` enum (`'draft' | 'review-pending' | 'reviewed' |
+  'changes-requested' | 'archived'`, default `'review-pending'`). For
+  each of the 8 subjects with a matched teacher, that teacher is set as
+  both `author` and `reviewer` on the relevant resources. Critically,
+  `reviewStatus` was left at its default `'review-pending'` on every
+  resource — being assigned a reviewer does NOT mean a review has
+  actually happened, and no resource is marked `'reviewed'` without a
+  real review pass. The 8 teachers marked `isReviewer: true` on their
+  author profile are: Nouman Ahmed (chemistry), Iftikhar Azeemi
+  (physics), Muhammad Ghazali Siddiqui (mathematics), Saad Zai (biology),
+  Lubna Waseem (english), Salman Ahmad (economics), Asif Iqbal
+  (business), Javaid Iqbal Sabri (accounting).
+- **Implementation consequence:** `reviewer` field populated on the same
+  87 resource files as D-005. No resource's `reviewStatus` was changed
+  from its default. A future real review pass (subject teacher actually
+  reading and approving the resource) is required before any resource
+  can honestly display `reviewStatus: reviewed`.
+- **Follow-up required:** Decide and document an actual review workflow
+  (who performs it, what evidence of review is recorded) before flipping
+  any `reviewStatus` to `'reviewed'`. Consider whether
+  `src/pages/legal/editorial-policy.astro` should be created or updated
+  to explain this review model publicly.
+- **Status:** implemented (schema + assignment); real review pass itself
+  not yet performed for any resource.

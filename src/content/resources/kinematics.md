@@ -17,7 +17,8 @@ syllabusTopics:
     topic: "motion-forces-and-energy"
     subtopic: "motion"
 description: "Speed, velocity and acceleration, and reading distance-time and speed-time graphs, for Cambridge O Level Physics 5054."
-author: "marlbridge-academic-team"
+author: "iftikhar-azeemi"
+reviewer: "iftikhar-azeemi"
 publishedDate: 2026-07-01
 updatedDate: 2026-08-18
 featured: false
