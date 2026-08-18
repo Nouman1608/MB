@@ -207,6 +207,7 @@ when calculating a moment.
 ## Related resources
 
 - [Unit 1: Materials](/resources/edexcel-ial-physics-materials/) — the next sub-topic, completing Unit 1
+- [Unit 2: Waves and Particle Nature of Light](/resources/edexcel-ial-physics-waves-and-particle-nature-of-light/) — the next unit
 - [Pearson Edexcel International A Level Physics hub](/boards/edexcel/a-level/physics/)
 
 *This guide is intended to support, not replace, engagement with the
