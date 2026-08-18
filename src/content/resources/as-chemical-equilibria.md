@@ -207,6 +207,7 @@ temperature and catalysts
 - [Reaction Kinetics: Collision Theory and Catalysis](/resources/as-reaction-kinetics-collision-theory-and-catalysis/) — why a catalyst speeds up the approach to equilibrium without changing it
 - [Redox Processes: Oxidation Numbers and Electron Transfer](/resources/as-redox-processes/) — the Contact process is itself a redox reaction
 - [Acids, Bases, Buffers and Partition Coefficients](/resources/a-acids-bases-buffers-and-partition-coefficients/) — the A Level topic that extends equilibrium constants to Ka, Ksp and Kpc
+- [Chemical Equilibria: Le Chatelier's Principle and Kc (OxfordAQA A Level)](/resources/oxfordaqa-a-level-chemistry-equilibria-le-chateliers-principle/) — the equivalent AS-level topic from a different awarding body
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027

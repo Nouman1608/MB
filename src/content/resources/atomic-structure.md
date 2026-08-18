@@ -245,6 +245,7 @@ when you need them.
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/) — Ar and isotopes applied to reacting masses and the mole
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — electronic configuration applied to bonding (subtopics 2.4–2.7)
 - [The Periodic Table: Groups and Trends](/resources/periodic-table-groups-and-trends/) — Group I, Group VII and Group VIII in depth
+- [Atomic Structure (OCR GCSE)](/resources/ocr-gcse-chemistry-atomic-structure/) — the equivalent subtopic from a different awarding body
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
 *Written against Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,

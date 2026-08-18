@@ -193,6 +193,7 @@ calculations, worked to the correct number of significant figures
 - [Formulae, Equations and the Mole](/resources/formulae-equations-and-the-mole/) — the IGCSE/O Level foundation this resource builds on, not a substitute for it
 - [Atomic Structure: Orbitals and Ionisation Energy](/resources/as-atomic-structure-orbitals-and-ionisation-energy/) — the previous AS topic
 - [Chemical Bonding: Shapes and Intermolecular Forces](/resources/as-chemical-bonding-shapes-and-intermolecular-forces/) — the next AS topic
+- [Amount of Substance (OCR A Level)](/resources/ocr-a-level-chemistry-amount-of-substance/) — the equivalent AS-level content from a different awarding body
 - [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 *Written against Cambridge International AS & A Level Chemistry 9701, 2025–2027
