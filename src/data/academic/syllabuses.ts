@@ -765,6 +765,68 @@ export const SYLLABUSES: readonly Syllabus[] = [
     notes: 'First teaching September 2015. Sections 3.1-3.4 form the AS content (also taught in year 1 of the A-level); sections 3.5-3.8 are A-level only.',
   },
 
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'business',
+    officialTitle: 'Cambridge International AS & A Level Business (9609)',
+    code: '9609',
+    boardSummary:
+      'Cambridge International AS & A Level Business allows students to experience the diverse and dynamic world within which businesses exist, with a focus on how decisions are made.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-business-9609/',
+    verifiedOn: '2026-08-19',
+    notes: 'Syllabus for exams in 2026, 2027 and 2028 (Version 2). AS Level covers topics 1.1-5.5 (business and its environment, human resource management, marketing, operations management, finance and accounting); A Level adds topics 6.1-10.4 building strategic depth in the same five areas.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'business',
+    officialTitle: 'Cambridge IGCSE Business Studies (0450)',
+    code: '0450',
+    boardSummary:
+      'Learners consider a range of stakeholder perspectives, from the individual to national government, when studying the Cambridge IGCSE Business Studies syllabus.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-business-studies-0450/',
+    verifiedOn: '2026-08-19',
+    notes: 'Syllabus for exams in 2026 (Version 2). Six topics: understanding business activity, people in business, marketing, operations management, financial information and decisions, and external influences on business activity.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'business',
+    officialTitle: 'Pearson Edexcel International Advanced Level Business (YBS11 / XBS11)',
+    code: 'YBS11',
+    boardSummary:
+      'Pearson Edexcel International Advanced Level Business develops learners\' understanding of business concepts, decision-making and strategy through a modular four-unit structure.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2017.html',
+    verifiedOn: '2026-08-19',
+    notes: 'Issue 1, September 2017. Modular qualification: International AS (units 1-2, code XBS11) covering Marketing and people, and Managing business activities; full International A Level (units 1-4, code YBS11) adds Business decisions and strategy, and Global business.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'business',
+    officialTitle: 'AQA GCSE Business (8132)',
+    code: '8132',
+    boardSummary:
+      'AQA GCSE Business asks students to apply their knowledge and understanding to different business contexts ranging from small enterprises to large multinationals.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/business/gcse/business-8132',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching from September 2017, linear qualification. Six subject-content sections: business in the real world, influences on business, business operations, human resources, marketing, and finance.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'business',
+    officialTitle: 'AQA A-level Business (7132)',
+    code: '7132',
+    boardSummary:
+      'AQA A-level Business asks students to study business in a variety of contexts and consider the interrelated nature of business activities and how they affect competitiveness.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/business/a-level/business-7132',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching from September 2023; current for cohorts taking exams through summer 2027. AQA has accredited a replacement specification (7138) for first teaching from September 2026, running alongside 7132 during the transition. Ten subject-content sections spanning functional decision-making (marketing, operations, finance, HR) through to business strategy.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
+    officialTitle: 'AQA AS Business (7131)',
+    code: '7131',
+    boardSummary:
+      'AQA AS Business is a stand-alone qualification sharing its subject content with the first half of AQA A-level Business, covering business decision-making in a functional context.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7131',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching from September 2023; current for cohorts taking exams through summer 2026. Covers the first six of the ten A-level Business (7132) sections: what is business, managers/leadership/decision making, and decision-making to improve marketing, operational, financial and human resource performance. AQA has accredited a replacement specification (7137) for first teaching from September 2026.',
+  },
+
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
