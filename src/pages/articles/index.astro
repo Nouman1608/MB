@@ -21,9 +21,12 @@ const articles = await getArticles();
   <Section surface="white">
     <Container>
       {articles.length > 0 ? (
+        <>
+        <h2 class="sr-only">All articles</h2>
         <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
           {articles.map((article) => <li class="m-0"><ArticleCard entry={article} /></li>)}
         </ul>
+        </>
       ) : (
         <EmptyState
           heading="No articles published yet"

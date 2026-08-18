@@ -19,6 +19,7 @@ const programs = await getPrograms();
 >
   <Section surface="white">
     <Container>
+      <h2 class="sr-only">All programs</h2>
       <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-3">
         {programs.map((program) => (
           <li class="m-0 bg-white"><ProgramCard entry={program} /></li>
