@@ -820,6 +820,24 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
     ],
   },
+
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'mathematics',
+    syllabusCode: '8300', syllabusSeries: 'For first teaching 2015',
+    effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
+    tiered: true,
+    source: 'AQA -- official GCSE Mathematics (8300) specification, live subject-content pages',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/subject-content', verifiedDate: '2026-08-19',
+    notes: "AQA GCSE Mathematics (8300), first teaching September 2015. Tiered: Foundation (grades 1-5) and Higher (grades 4-9); three papers per candidate, same tier throughout. Content matches the Department for Education's Mathematics GCSE subject content document and is common to all exam boards -- the six topic areas and their weighting are prescribed by Ofqual, not set independently by AQA. Six topic names verified directly against the live AQA specification subject-content pages (aqa.org.uk), fetched 2026-08-19. Subtopic-level detail not yet researched -- topics recorded name-only pending a later phase.",
+    topics: [
+      { number: 1, name: 'Number', slug: 'number-aqa-gcse-maths', subtopics: [] },
+      { number: 2, name: 'Algebra', slug: 'algebra-aqa-gcse-maths', subtopics: [] },
+      { number: 3, name: 'Ratio, proportion and rates of change', slug: 'ratio-proportion-and-rates-of-change-aqa-gcse', subtopics: [] },
+      { number: 4, name: 'Geometry and measures', slug: 'geometry-and-measures-aqa-gcse-maths', subtopics: [] },
+      { number: 5, name: 'Probability', slug: 'probability-aqa-gcse-maths', subtopics: [] },
+      { number: 6, name: 'Statistics', slug: 'statistics-aqa-gcse-maths', subtopics: [] },
+    ],
+  },
 ] as const;
 
 /**

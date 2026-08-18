@@ -662,6 +662,17 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'Modular: 6 papers spanning 3 content strands -- Pure Mathematics (Papers 1-3), Mechanics (Paper 4), Probability & Statistics (Papers 5-6). Different combinations of papers lead to different AS or A-level awards (for example, Paper 1+2 gives AS Pure Mathematics only; Paper 1, 3, 4 and 5 gives the full A-level with Mechanics and Probability & Statistics 1). Syllabus for examination series 2026 and 2027.',
   },
+
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'mathematics',
+    officialTitle: 'AQA GCSE Mathematics (8300)',
+    code: '8300',
+    boardSummary:
+      "This specification matches the content set out in the Department for Education's Mathematics GCSE subject content document. This content is common to all exam boards, so students learn the same mathematics whichever awarding body their school uses.",
+    officialUrl: 'https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification',
+    verifiedOn: '2026-08-19',
+    notes: 'Tiered: Foundation tier (grades 1-9, students awarded 1-5) and Higher tier (grades 4-9). Students take three question papers at the same tier. Six topic areas: Number, Algebra, Ratio proportion and rates of change, Geometry and measures, Probability, Statistics -- the weighting of each is prescribed by Ofqual and is common to all exam boards offering GCSE Mathematics.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
