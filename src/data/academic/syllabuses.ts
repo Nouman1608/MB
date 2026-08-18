@@ -107,6 +107,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-18',
     notes: 'Cambridge publishes 9706 as a combined AS & A Level syllabus, structured in stages (AS: Topics 1-2, A Level: Topics 3-4).',
   },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'accounting',
+    officialTitle: 'AQA A-level Accounting (7127)',
+    code: '7127',
+    boardSummary:
+      "AQA Accounting helps develop students' interest in the subject and their analytical and critical thinking skills.",
+    officialUrl: 'https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127',
+    verifiedOn: '2026-08-18',
+    notes: 'Confirmed live and current (not withdrawn): next exam listed as 17 May 2027, specification first teaching 2017, subject content spans 18 topics from the role of the accountant through ethical considerations.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
