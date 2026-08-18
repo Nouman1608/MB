@@ -29,9 +29,9 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     name: 'IGCSE',
     aliases: ['International GCSE'],
     status: 'offered',
-    offeredByBoards: ['cambridge', 'edexcel', 'aqa'],
-    source: 'https://learnersacademy.com.pk/ (IGCSE nav column)',
-    notes: 'See CONFLICT-01: the AQA IGCSE grouping is contradicted by the syllabus codes quoted on subject pages.',
+    offeredByBoards: ['cambridge', 'edexcel', 'aqa', 'oxfordaqa'],
+    source: 'https://learnersacademy.com.pk/ (IGCSE nav column); OxfordAQA International GCSE added 2026-08-18 (v1.0 WS4) per owner authorization and oxfordaqa.com verification.',
+    notes: 'See CONFLICT-01: the AQA IGCSE grouping is contradicted by the syllabus codes quoted on subject pages (this is plain "aqa", distinct from "oxfordaqa" — never merge the two).',
   },
   {
     slug: 'o-level',
@@ -47,8 +47,8 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     name: 'A Level',
     aliases: ['A Levels', 'GCE A Level', 'IAL', 'International A Level'],
     status: 'offered',
-    offeredByBoards: ['cambridge', 'edexcel', 'aqa', 'ocr'],
-    source: 'https://learnersacademy.com.pk/ (A Levels nav column); OCR A Level added 2026-08-18 (v1.0 WS3) per owner authorization and ocr.org.uk verification — not from Learners Academy nav.',
+    offeredByBoards: ['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa'],
+    source: 'https://learnersacademy.com.pk/ (A Levels nav column); OCR A Level added 2026-08-18 (v1.0 WS3) per owner authorization and ocr.org.uk verification; OxfordAQA International A-level added 2026-08-18 (v1.0 WS4) per owner authorization and oxfordaqa.com verification — neither from Learners Academy nav.',
   },
   {
     slug: 'as-level',
@@ -57,7 +57,7 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     status: 'offered',
     offeredByBoards: ['aqa'],
     source: 'https://www.aqa.org.uk/subjects/business (AS Business 7131/7137, verified as a distinct AQA qualification)',
-    notes: 'Marked offered 2026-08-18 per Marlbridge business decision. Only AQA has row-level AS evidence in the matrix today (Business, representative row) — Cambridge markets 9701 etc. as combined AS & A Level rather than a separately taught AS route; that distinction is preserved and NOT changed by this status flip.',
+    notes: 'Marked offered 2026-08-18 per Marlbridge business decision. Only AQA (plain) has row-level AS evidence in the matrix today (Business, representative row) — Cambridge markets 9701 etc. as combined AS & A Level rather than a separately taught AS route, and OxfordAQA (added 2026-08-18, v1.0 WS4) follows the identical "International AS and A-level [Subject]" combined-page convention, so both are recorded under the a-level slug rather than here — that distinction is preserved and NOT changed by this status flip.',
   },
   {
     slug: 'gcse',

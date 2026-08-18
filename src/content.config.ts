@@ -12,7 +12,7 @@ const seoFields = {
 /** available = taught now, resources-only = published but not taught, coming-soon = neither yet. */
 const status = z.enum(['available', 'coming-soon', 'resources-only']);
 /** Kept in step with src/data/academic/. Validated against the matrix at build time. */
-const boardSlug = z.enum(['cambridge', 'edexcel', 'aqa', 'ocr']);
+const boardSlug = z.enum(['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa']);
 const qualificationSlug = z.enum(['igcse', 'o-level', 'gcse', 'as-level', 'a-level']);
 const level = z.enum(['igcse', 'o-levels', 'a-levels', 'gcse', 'ib', 'sat', 'ielts', 'foundation']);
 const country = z.enum(['PK', 'AE', 'SA', 'IN', 'GB', 'EU', 'WW']);

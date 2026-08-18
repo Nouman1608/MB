@@ -7,14 +7,15 @@
 - [AQA](https://marlbridge.com/boards/aqa/): 25 subject and qualification combinations across 3 qualifications.
 - [Cambridge](https://marlbridge.com/boards/cambridge/): 54 subject and qualification combinations across 3 qualifications.
 - [OCR](https://marlbridge.com/boards/ocr/): 12 subject and qualification combinations across 2 qualifications.
+- [OxfordAQA](https://marlbridge.com/boards/oxfordaqa/): 30 subject and qualification combinations across 2 qualifications.
 - [Pearson Edexcel](https://marlbridge.com/boards/edexcel/): 18 subject and qualification combinations across 2 qualifications.
 
 ## Qualifications
 
-- [A Level](https://marlbridge.com/levels/a-level/): 46 subject and board combinations across 4 boards.
+- [A Level](https://marlbridge.com/levels/a-level/): 59 subject and board combinations across 5 boards.
 - [AS Level](https://marlbridge.com/levels/as-level/): 1 subject and board combinations across 1 board.
 - [GCSE](https://marlbridge.com/levels/gcse/): 17 subject and board combinations across 2 boards.
-- [IGCSE](https://marlbridge.com/levels/igcse/): 28 subject and board combinations across 2 boards.
+- [IGCSE](https://marlbridge.com/levels/igcse/): 45 subject and board combinations across 3 boards.
 - [O Level](https://marlbridge.com/levels/o-level/): 17 subject and board combinations across 1 board.
 
 ## Subjects

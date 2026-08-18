@@ -1,5 +1,5 @@
 /** Examination boards. Canonical names and permanent slugs. */
-export type BoardSlug = 'cambridge' | 'edexcel' | 'aqa' | 'ocr';
+export type BoardSlug = 'cambridge' | 'edexcel' | 'aqa' | 'ocr' | 'oxfordaqa';
 
 export interface Board {
   slug: BoardSlug;
@@ -39,6 +39,14 @@ export const BOARDS: readonly Board[] = [
     aliases: ['AQA UK Board'],
     status: 'offered',
     source: 'https://learnersacademy.com.pk/ (nav + "Which exam boards do you teach?" FAQ)',
+  },
+  {
+    slug: 'oxfordaqa',
+    name: 'OxfordAQA',
+    aliases: ['Oxford AQA', 'OxfordAQA International Qualifications', 'Oxford International AQA Examinations'],
+    status: 'offered',
+    source: 'https://www.oxfordaqa.com/ — verified 2026-08-18 (v1.0 WS4).',
+    notes: 'A fully separate awarding body from AQA (the UK board, slug "aqa" above) despite sharing the AQA name — OxfordAQA is AQA\'s international-qualifications arm, administratively and academically distinct, and is NEVER merged with, or treated as a subcategory of, plain "aqa" in this repository. Owner-authorized as an active Marlbridge teaching offering 2026-08-18 (MARLBRIDGE v1.0 directive). Offers exactly three qualification families: International GCSE, International AS and International A-level — no O Level, no UK GCSE, no UK A-level. Every combination below is independently verified against oxfordaqa.com, 2026-08-18; a prior code-snapshot table was explicitly not trusted and every code was re-fetched from the live qualification page. See matrix.ts for full per-row evidence and source URLs.',
   },
   {
     slug: 'ocr',

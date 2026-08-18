@@ -50,6 +50,7 @@ const AQA = 'https://www.aqa.org.uk';
 
 const BOARD_NAMES: Record<BoardSlug, string> = {
   cambridge: 'Cambridge', edexcel: 'Pearson Edexcel', aqa: 'AQA', ocr: 'OCR',
+  oxfordaqa: 'OxfordAQA',
 };
 const QUAL_NAMES: Record<QualificationSlug, string> = {
   'igcse': 'IGCSE', 'o-level': 'O Level', 'gcse': 'GCSE',
@@ -133,6 +134,40 @@ const OCR_GCSE_CODES: Record<string, string> = {
 const OCR_ALEVEL_CODES: Record<string, string> = {
   chemistry: 'H432', physics: 'H556', biology: 'H420', mathematics: 'H240',
   business: 'H431', economics: 'H460',
+};
+
+/**
+ * OxfordAQA — International GCSE codes. Verified directly against live
+ * oxfordaqa.com qualification pages, 2026-08-18 (v1.0 WS4). A prior
+ * unverified snapshot table was explicitly discarded; every code below
+ * traces to a page fetch on this date. World History and Sociology are
+ * newly launched for 2026 (first teaching September 2026).
+ */
+const OXFORDAQA_IGCSE_CODES: Record<string, string> = {
+  accounting: '9215', business: '9225', 'computer-science': '9210', economics: '9214',
+  mathematics: '9260', biology: '9201', chemistry: '9202', physics: '9203',
+  'english-language': '9270', 'english-literature': '9275', geography: '9230',
+  'world-history': '9245', islamiyat: '9237', 'pakistan-studies': '9236',
+  psychology: '9218', sociology: '9292', 'urdu-language': '9264',
+};
+
+/**
+ * OxfordAQA — International AS and A-level codes (OxfordAQA publishes AS
+ * and A-level as one combined qualification family per subject, like
+ * Cambridge — not as a separate AS route like AQA). Verified 2026-08-18
+ * (v1.0 WS4). Business is mid-transition: 9625 is being withdrawn (final
+ * AS exams 2026, final A2 exams 2027) while 9725 is the revised
+ * replacement (first teaching September 2026, first AS exams 2027, first
+ * A2 exams 2028) — both are recorded together rather than silently
+ * picking one, matching the "primary / alt" convention used elsewhere in
+ * this file (e.g. AQA AS Business 7131/7137, Cambridge IGCSE English
+ * Literature 0475/0992).
+ */
+const OXFORDAQA_ALEVEL_CODES: Record<string, string> = {
+  accounting: '9615', business: '9625 / 9725', 'computer-science': '9645', economics: '9640',
+  mathematics: '9660', biology: '9610', chemistry: '9620', physics: '9630',
+  'english-language': '9670', 'english-literature': '9675', geography: '9635',
+  psychology: '9685', sociology: '9690',
 };
 
 export const MATRIX: readonly Combination[] = [
@@ -481,6 +516,69 @@ export const MATRIX: readonly Combination[] = [
     boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
     source: 'https://www.ocr.org.uk/qualifications/as-and-a-level/ — full subject catalogue checked 2026-08-18, Accounting absent',
     notes: 'OCR does not offer A Level Accounting.',
+  }),
+
+  // =========================================================================
+  // OXFORDAQA — new board integration, v1.0 WS4, 2026-08-18. A fully
+  // separate awarding body from AQA (see boards.ts) — never merged. Only
+  // three qualification families exist: International GCSE (mapped to the
+  // 'igcse' slug, consistent with how Edexcel's International GCSE also
+  // uses 'igcse') and International AS and A-level (mapped to 'a-level',
+  // consistent with how Cambridge and Edexcel's International A Level also
+  // use 'a-level' for a combined AS+A2 qualification family). OxfordAQA
+  // does not offer O Level, UK GCSE or UK A-level — those combinations are
+  // deliberately never modelled here. Every code below is independently
+  // re-verified against a live oxfordaqa.com qualification page fetch,
+  // 2026-08-18 — the prior unverified snapshot table supplied for this
+  // integration was explicitly discarded rather than trusted.
+  // =========================================================================
+  ...rows('oxfordaqa', 'igcse', [
+    'accounting', 'business', 'computer-science', 'economics', 'mathematics',
+    'biology', 'chemistry', 'physics', 'english-language', 'english-literature',
+    'geography', 'world-history', 'islamiyat', 'pakistan-studies', 'psychology',
+    'sociology', 'urdu-language',
+  ], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.oxfordaqa.com/qualifications/ — each subject\'s own qualification page fetched and verified 2026-08-18 (v1.0 WS4)',
+    codes: OXFORDAQA_IGCSE_CODES,
+    notes: `${OWNER_TEACHES_ALL} International GCSE History (9245) and Sociology (9292) are newly launched for 2026 (first teaching September 2026, first exams May/June 2028) — recorded as current, not legacy. English Literature (9275) was revised for 2026 (new set texts) but keeps the same code. Islamiyat is OxfordAQA's own exact title (not "Islamic Studies").`,
+  }),
+  ...rows('oxfordaqa', 'a-level', [
+    'accounting', 'business', 'computer-science', 'economics', 'mathematics',
+    'biology', 'chemistry', 'physics', 'english-language', 'english-literature',
+    'geography', 'psychology', 'sociology',
+  ], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'board',
+    source: 'https://www.oxfordaqa.com/qualifications/ — each subject\'s own qualification page fetched and verified 2026-08-18 (v1.0 WS4)',
+    codes: OXFORDAQA_ALEVEL_CODES,
+    notes: `${OWNER_TEACHES_ALL} International AS and A-level Sociology (9690) is newly launched for 2026 (first teaching September 2026). Business is mid-transition between legacy 9625 and revised 9725 — see OXFORDAQA_ALEVEL_CODES comment; both codes recorded rather than one silently chosen.`,
+  }),
+  // Verified absent at International AS/A-level — recorded rather than left
+  // as a silent gap, per the same discipline used for Cambridge/OCR above.
+  ...rows('oxfordaqa', 'a-level', ['islamiyat'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.oxfordaqa.com/subjects/islamiat/ — subject hub checked 2026-08-18, lists International GCSE Islamiat (9237) only',
+    notes: 'OxfordAQA does not offer Islamiat at AS or A-level — International GCSE (9237) is the only level offered.',
+  }),
+  ...rows('oxfordaqa', 'a-level', ['pakistan-studies'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.oxfordaqa.com/subjects/pakistan-studies/ — subject hub checked 2026-08-18, lists International GCSE Pakistan Studies (9236) only',
+    notes: 'OxfordAQA does not offer Pakistan Studies at AS or A-level — International GCSE (9236) is the only level offered.',
+  }),
+  ...rows('oxfordaqa', 'a-level', ['urdu-language'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.oxfordaqa.com/subjects/languages/ — Languages subject hub checked 2026-08-18, lists International GCSE Urdu (9264) only',
+    notes: 'OxfordAQA does not offer Urdu at AS or A-level — International GCSE (9264) is the only level offered.',
+  }),
+  ...rows('oxfordaqa', 'igcse', ['urdu-literature'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.oxfordaqa.com/subjects/languages/ — Languages subject hub checked 2026-08-18, no "Urdu Literature" title found',
+    notes: 'OxfordAQA does not offer a qualification titled "Urdu Literature" distinct from Urdu at any level. Not fabricated.',
+  }),
+  ...rows('oxfordaqa', 'a-level', ['urdu-literature'], {
+    boardOfferingStatus: 'NOT_SUPPORTED', marlbridgeStatus: 'NOT_SUPPORTED', evidence: 'board',
+    source: 'https://www.oxfordaqa.com/subjects/languages/ — Languages subject hub checked 2026-08-18, no "Urdu Literature" title found',
+    notes: 'OxfordAQA does not offer a qualification titled "Urdu Literature" distinct from Urdu at any level. Not fabricated.',
   }),
 
   // =========================================================================

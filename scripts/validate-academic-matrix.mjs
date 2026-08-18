@@ -151,6 +151,13 @@ console.log(`  Publishable now: ${publishable.length}`);
 // spot-re-verified and flipped from marlbridgeStatus FUTURE to ACTIVE under
 // the same owner authorization. boards.ts and qualifications.ts updated to
 // match (OCR board status offered; OCR added to gcse/a-level offeredByBoards).
+//
+// UPDATED 2026-08-18 (v1.0 WS4, OxfordAQA integration): added OxfordAQA as
+// a fifth, fully separate board (never merged with plain AQA). 30 new
+// combinations (17 International GCSE + 13 International AS/A-level)
+// independently verified against live oxfordaqa.com qualification pages —
+// a prior unverified snapshot table was explicitly discarded rather than
+// trusted. See matrix.ts OxfordAQA rows for full evidence and source URLs.
 // ---------------------------------------------------------------------------
 const APPROVED = [
   'aqa|a-level|accounting',
@@ -262,6 +269,36 @@ const APPROVED = [
   'ocr|gcse|economics',
   'ocr|gcse|mathematics',
   'ocr|gcse|physics',
+  'oxfordaqa|a-level|accounting',
+  'oxfordaqa|a-level|biology',
+  'oxfordaqa|a-level|business',
+  'oxfordaqa|a-level|chemistry',
+  'oxfordaqa|a-level|computer-science',
+  'oxfordaqa|a-level|economics',
+  'oxfordaqa|a-level|english-language',
+  'oxfordaqa|a-level|english-literature',
+  'oxfordaqa|a-level|geography',
+  'oxfordaqa|a-level|mathematics',
+  'oxfordaqa|a-level|physics',
+  'oxfordaqa|a-level|psychology',
+  'oxfordaqa|a-level|sociology',
+  'oxfordaqa|igcse|accounting',
+  'oxfordaqa|igcse|biology',
+  'oxfordaqa|igcse|business',
+  'oxfordaqa|igcse|chemistry',
+  'oxfordaqa|igcse|computer-science',
+  'oxfordaqa|igcse|economics',
+  'oxfordaqa|igcse|english-language',
+  'oxfordaqa|igcse|english-literature',
+  'oxfordaqa|igcse|geography',
+  'oxfordaqa|igcse|islamiyat',
+  'oxfordaqa|igcse|mathematics',
+  'oxfordaqa|igcse|pakistan-studies',
+  'oxfordaqa|igcse|physics',
+  'oxfordaqa|igcse|psychology',
+  'oxfordaqa|igcse|sociology',
+  'oxfordaqa|igcse|urdu-language',
+  'oxfordaqa|igcse|world-history',
 ].sort();
 
 const actual = publishable.map((c) => `${c.boardSlug}|${c.qualificationSlug}|${c.subjectSlug}`).sort();
