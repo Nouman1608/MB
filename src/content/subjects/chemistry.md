@@ -3,7 +3,7 @@ title: "Chemistry"
 order: 3
 levelsLabel: "IGCSE · O · A Level"
 levels: ["igcse", "o-levels", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Chemistry at IGCSE · O · A Level, with study material organised by topic."
 description: "Chemistry teaching and study resources, organised by level and topic."
 featured: true

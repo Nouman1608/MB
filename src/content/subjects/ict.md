@@ -3,7 +3,7 @@ title: "ICT"
 order: 15
 levelsLabel: "IGCSE · A Level"
 levels: ["igcse", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "ICT at IGCSE · A Level, with study material organised by topic."
 description: "ICT teaching and study resources, organised by level and topic."
 featured: false

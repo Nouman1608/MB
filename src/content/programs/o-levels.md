@@ -2,7 +2,7 @@
 title: "O Levels"
 order: 2
 level: "o-levels"
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Full O Level teaching with structured revision and past-paper practice."
 description: "Full O Level teaching with structured revision and past-paper practice."
 curriculum: "Cambridge"

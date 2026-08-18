@@ -2,7 +2,7 @@
 title: "IB"
 order: 5
 level: "ib"
-status: "resources-only"
+marlbridgeTeaches: "planned"
 shortDescription: "Diploma Programme subject support. Study material is available while teaching is being developed."
 description: "Diploma Programme subject support. Study material is available while teaching is being developed."
 curriculum: "International Baccalaureate"

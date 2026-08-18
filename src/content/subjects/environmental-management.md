@@ -3,7 +3,7 @@ title: "Environmental Management"
 order: 22
 levelsLabel: "IGCSE · O Level"
 levels: ["igcse", "o-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Environmental Management at IGCSE and O Level, with study material organised by topic."
 description: "Environmental Management teaching and study resources, organised by level and topic."
 featured: false

@@ -20,18 +20,26 @@ import { getPrograms, availabilityLabel } from '../../utils/content/collections'
 import { routes } from '../../utils/urls/routes';
 
 const programs = await getPrograms();
-const taught = programs.filter((p) => p.data.status === 'available');
-const resourcesOnly = programs.filter((p) => p.data.status === 'resources-only');
-const comingSoon = programs.filter((p) => p.data.status === 'coming-soon');
+const taught = programs.filter((p) => p.data.marlbridgeTeaches === 'teaching');
+const planned = programs.filter((p) => p.data.marlbridgeTeaches === 'planned');
+const notConfirmed = programs.filter((p) => ['not-teaching', 'not-confirmed'].includes(p.data.marlbridgeTeaches));
 
 const photo = site.academyPhoto;
 const about = site.about;
 const hasFoundingDetail = Boolean(about.foundingYear || about.city || about.story);
 
+/**
+ * v1.2 WS2: rebucketed from the real marlbridgeTeaches field, not the old
+ * single status claim. 'planned' means study material may be published
+ * while teaching itself is not yet offered — this bucket previously read
+ * as a flat "resources-only" claim even for the GCSE programme, which
+ * genuinely is taught (see gcse.md); GCSE now correctly sorts into the
+ * 'teaching' bucket instead.
+ */
 const groups = [
-  { label: availabilityLabel['available'], entries: taught, note: 'Taught by Marlbridge today.' },
-  { label: availabilityLabel['resources-only'], entries: resourcesOnly, note: 'Study material published; teaching not yet offered.' },
-  { label: availabilityLabel['coming-soon'], entries: comingSoon, note: 'Not yet offered. Register interest and we will say when teaching begins.' },
+  { label: availabilityLabel['teaching'], entries: taught, note: 'Taught by Marlbridge today.' },
+  { label: availabilityLabel['planned'], entries: planned, note: 'Study material published; teaching not yet offered.' },
+  { label: 'Not yet offered', entries: notConfirmed, note: 'Not yet offered. Register interest and we will say when teaching begins.' },
 ].filter((g) => g.entries.length > 0);
 ---
 <PageLayout

@@ -45,16 +45,22 @@ export const resourceLevelLabel = (
 export const formatDate = (date: Date): string =>
   new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }).format(date);
 
+/**
+ * v1.2 WS2: keyed by the real `marlbridgeTeaches` business field (see
+ * src/utils/content/status.ts), not the old single `status` claim.
+ */
 export const availabilityLabel = {
-  'available': 'Teaching now',
-  'coming-soon': 'Coming soon',
-  'resources-only': 'Resources',
+  'teaching': 'Teaching now',
+  'planned': 'Planned',
+  'not-teaching': 'Not taught',
+  'not-confirmed': 'Not confirmed',
 } as const;
 
 export const availabilityTone = {
-  'available': 'success',
-  'coming-soon': 'neutral',
-  'resources-only': 'gold',
+  'teaching': 'success',
+  'planned': 'gold',
+  'not-teaching': 'neutral',
+  'not-confirmed': 'neutral',
 } as const;
 
 export const resourceCategoryMeta = {

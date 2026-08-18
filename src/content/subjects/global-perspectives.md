@@ -3,7 +3,7 @@ title: "Global Perspectives"
 order: 21
 levelsLabel: "IGCSE · A Level"
 levels: ["igcse", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Global Perspectives at IGCSE and A Level, with study material organised by topic."
 description: "Global Perspectives teaching and study resources, organised by level and topic."
 featured: false

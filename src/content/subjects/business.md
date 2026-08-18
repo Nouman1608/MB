@@ -3,7 +3,7 @@ title: "Business"
 order: 8
 levelsLabel: "O · A Level"
 levels: ["o-levels", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Business at O · A Level, with study material organised by topic."
 description: "Business teaching and study resources, organised by level and topic."
 featured: false

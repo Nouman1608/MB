@@ -3,7 +3,7 @@ title: "Urdu Language"
 order: 18
 levelsLabel: "IGCSE · O · A Level"
 levels: ["igcse", "o-levels", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Urdu Language at IGCSE, O Level and A Level, across Cambridge and Pearson Edexcel."
 description: "Urdu Language teaching and study resources, organised by level, board and topic."
 featured: false

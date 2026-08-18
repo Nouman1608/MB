@@ -9,5 +9,5 @@ interface Props { entry: CollectionEntry<'programs'> }
 const { entry } = Astro.props;
 ---
 <Card href={routes.program(entry.id)} title={entry.data.title} description={entry.data.shortDescription} variant="grid">
-  <Badge slot="badge" label={availabilityLabel[entry.data.status]} tone={availabilityTone[entry.data.status]} />
+  <Badge slot="badge" label={availabilityLabel[entry.data.marlbridgeTeaches]} tone={availabilityTone[entry.data.marlbridgeTeaches]} />
 </Card>

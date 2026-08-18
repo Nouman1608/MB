@@ -3,7 +3,7 @@ title: "Pakistan Studies"
 order: 23
 levelsLabel: "IGCSE · O Level"
 levels: ["igcse", "o-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Pakistan Studies at IGCSE and O Level, with study material organised by topic."
 description: "Pakistan Studies teaching and study resources, organised by level and topic."
 featured: false

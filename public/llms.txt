@@ -34,7 +34,7 @@
 - [Global Perspectives](https://marlbridge.com/subjects/global-perspectives/): Global Perspectives at IGCSE and A Level, with study material organised by topic.
 - [ICT](https://marlbridge.com/subjects/ict/): ICT at IGCSE · A Level, with study material organised by topic.
 - [Islamiyat](https://marlbridge.com/subjects/islamiyat/): Islamiyat at IGCSE and O Level, with study material organised by topic.
-- [Languages](https://marlbridge.com/subjects/languages/): Languages at Selected levels, with study material organised by topic.
+- [Languages](https://marlbridge.com/subjects/languages/): An index of language subjects, each confirmed individually on its own page.
 - [Law](https://marlbridge.com/subjects/law/): Law at A Level, with study material organised by topic.
 - [Mathematics](https://marlbridge.com/subjects/mathematics/): Mathematics at IGCSE · O · A Level, with study material organised by topic.
 - [Pakistan Studies](https://marlbridge.com/subjects/pakistan-studies/): Pakistan Studies at IGCSE and O Level, with study material organised by topic.

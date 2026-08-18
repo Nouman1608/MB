@@ -2,7 +2,7 @@
 title: "IELTS"
 order: 7
 level: "ielts"
-status: "coming-soon"
+marlbridgeTeaches: "not-confirmed"
 shortDescription: "Academic IELTS preparation across all four papers."
 description: "Academic IELTS preparation across all four papers."
 curriculum: "British Council / IDP"

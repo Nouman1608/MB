@@ -3,7 +3,7 @@ title: "Sociology"
 order: 13
 levelsLabel: "GCSE · IGCSE · O · A Level"
 levels: ["gcse", "igcse", "o-levels", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Sociology at GCSE · IGCSE · O · A Level, with study material organised by topic."
 description: "Sociology teaching and study resources, organised by level and topic."
 featured: false

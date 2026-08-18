@@ -2,10 +2,10 @@
 title: "IGCSE"
 order: 1
 level: "igcse"
-status: "available"
-shortDescription: "Cambridge and Edexcel International GCSE preparation across the sciences, mathematics and humanities."
-description: "Cambridge and Edexcel International GCSE preparation across the sciences, mathematics and humanities."
-curriculum: "Cambridge / Edexcel"
+marlbridgeTeaches: "teaching"
+shortDescription: "Cambridge, Pearson Edexcel and OxfordAQA International GCSE preparation across the sciences, mathematics and humanities."
+description: "Cambridge, Pearson Edexcel and OxfordAQA International GCSE preparation across the sciences, mathematics and humanities."
+curriculum: "Cambridge / Pearson Edexcel / OxfordAQA"
 ageRange: "14–16"
 countryAvailability: ["PK"]
 featured: true

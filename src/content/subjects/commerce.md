@@ -3,7 +3,7 @@ title: "Commerce"
 order: 16
 levelsLabel: "IGCSE · O Level"
 levels: ["igcse", "o-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Commerce at IGCSE and O Level, with study material organised by topic."
 description: "Commerce teaching and study resources, organised by level and topic."
 featured: false

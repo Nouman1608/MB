@@ -3,7 +3,7 @@ title: "Psychology"
 order: 12
 levelsLabel: "GCSE · A Level"
 levels: ["gcse", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Psychology at GCSE · A Level, with study material organised by topic."
 description: "Psychology teaching and study resources, organised by level and topic."
 featured: false

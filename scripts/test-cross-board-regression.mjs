@@ -10,7 +10,7 @@
  * first) — run explicitly as `node scripts/test-cross-board-regression.mjs`
  * after `npm run build`, and as part of the pre-release QA gate.
  */
-import { readFile, access } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 
 let problems = 0;
 const fail = (msg) => { console.error(`  ✗ ${msg}`); problems++; };

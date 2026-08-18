@@ -3,7 +3,7 @@ title: "Statistics"
 order: 17
 levelsLabel: "IGCSE · O Level"
 levels: ["igcse", "o-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Statistics at IGCSE and O Level, with study material organised by topic."
 description: "Statistics teaching and study resources, organised by level and topic."
 featured: false

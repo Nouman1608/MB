@@ -30,19 +30,23 @@ const subjects = (await Promise.all(d.subjects.map((ref) => getEntry(ref)))).fil
 const resources = await relatedResources({ level: d.level, limit: 3 });
 
 const availabilityCopy = {
-  'available': 'This program is taught by Marlbridge today.',
-  'resources-only': 'Study resources for this qualification are published here. Teaching is not yet offered.',
-  'coming-soon': 'This program is not yet offered. Tell us you are interested and we will let you know when teaching begins.',
-}[d.status];
+  'teaching': 'This program is taught by Marlbridge today.',
+  'planned': 'Study resources for this qualification are published here. Teaching is not yet offered.',
+  'not-teaching': 'This program is not currently taught by Marlbridge.',
+  'not-confirmed': 'Whether Marlbridge teaches this program is not yet confirmed. Tell us you are interested and we will let you know.',
+}[d.marlbridgeTeaches];
 
 const cta = {
-  'available': { label: 'Enquire about this program', href: routes.contact },
-  'resources-only': { label: 'Explore learning resources', href: routes.resources },
-  'coming-soon': { label: 'Register interest', href: routes.contact },
-}[d.status];
+  'teaching': { label: 'Enquire about this program', href: routes.contact },
+  'planned': { label: 'Explore learning resources', href: routes.resources },
+  'not-teaching': { label: 'Contact Marlbridge', href: routes.contact },
+  'not-confirmed': { label: 'Register interest', href: routes.contact },
+}[d.marlbridgeTeaches];
 
 const jsonLd = [
-  ...(d.status === 'available' ? [courseNode({ path, name: `${d.title} — Marlbridge`, description: d.description })] : []),
+  // Course schema only for a program Marlbridge genuinely, currently teaches
+  // — never for planned, not-taught or unconfirmed programs (v1.2 WS8).
+  ...(d.marlbridgeTeaches === 'teaching' ? [courseNode({ path, name: `${d.title} — Marlbridge`, description: d.description })] : []),
   ...(faqNode(d.faqs) ? [faqNode(d.faqs)!] : []),
 ];
 ---
@@ -62,7 +66,7 @@ const jsonLd = [
   noindex={d.noindex}
 >
   <div slot="hero-extra" class="mt-7 flex flex-wrap items-center gap-x-6 gap-y-3">
-    <Badge label={availabilityLabel[d.status]} tone={availabilityTone[d.status]} />
+    <Badge label={availabilityLabel[d.marlbridgeTeaches]} tone={availabilityTone[d.marlbridgeTeaches]} />
     {d.curriculum && <span class="text-[14px] text-ink-mute">Curriculum: {d.curriculum}</span>}
     {d.ageRange && <span class="text-[14px] text-ink-mute">Typical ages: {d.ageRange}</span>}
   </div>

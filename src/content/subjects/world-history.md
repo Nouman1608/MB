@@ -3,7 +3,7 @@ title: "World History"
 order: 14
 levelsLabel: "GCSE · IGCSE · O · A Level"
 levels: ["gcse", "igcse", "o-levels", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "World History at GCSE · IGCSE · O · A Level, with study material organised by topic."
 description: "World History teaching and study resources, organised by level and topic."
 featured: false

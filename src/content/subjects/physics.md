@@ -3,7 +3,7 @@ title: "Physics"
 order: 2
 levelsLabel: "IGCSE · O · A Level"
 levels: ["igcse", "o-levels", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Physics at IGCSE · O · A Level, with study material organised by topic."
 description: "Physics teaching and study resources, organised by level and topic."
 featured: true

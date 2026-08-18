@@ -3,7 +3,7 @@ title: "Islamiyat"
 order: 24
 levelsLabel: "IGCSE · O Level"
 levels: ["igcse", "o-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Islamiyat at IGCSE and O Level, with study material organised by topic."
 description: "Islamiyat teaching and study resources, organised by level and topic."
 featured: false

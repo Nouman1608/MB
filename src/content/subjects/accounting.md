@@ -3,7 +3,7 @@ title: "Accounting"
 order: 7
 levelsLabel: "O · A Level"
 levels: ["o-levels", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "Accounting at O · A Level, with study material organised by topic."
 description: "Accounting teaching and study resources, organised by level and topic."
 featured: false

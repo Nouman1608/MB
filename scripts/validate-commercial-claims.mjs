@@ -3,22 +3,19 @@
  * Validates that commercial/teaching claims in the `subjects` collection are
  * backed by the approved academic matrix — not just a generic status field.
  *
- * Phase 8 found that all 10 subjects carry `status: "available"`, but only
- * Chemistry has an ACTIVE marlbridgeStatus row in the matrix (the other 9
- * have zero approved board+qualification combinations). Phase 9 re-confirmed
- * this. Rather than guess-editing 9 subjects' status without business
- * confirmation, the site instead gates every visible "taught" claim on real
- * matrix evidence (see offeringsForSubject() and its use in
- * src/pages/subjects/[slug].astro). This script is the build-time backstop
- * for that same rule, so a future edit can't quietly reintroduce an
- * unsupported teaching claim:
+ * v1.2 WS2 replaced the old free-floating `status: "available"` field with
+ * `marlbridgeTeaches`, a real business field that is now cross-checked here
+ * as a hard build failure rather than a warning: after the WS2 migration,
+ * every subject whose page claims `marlbridgeTeaches: "teaching"` is
+ * expected to have real ACTIVE matrix evidence (the one prior exception,
+ * languages.md, was corrected to `not-confirmed` in that same migration,
+ * since "Languages" has no matrix subject entry of its own). If a future
+ * edit sets `marlbridgeTeaches: "teaching"` on a subject the matrix does
+ * not support, that is exactly the unsupported-claim class of bug this
+ * release exists to prevent, so it now fails the build rather than warning:
  *
- *   1. WARN (non-fatal) — a subject's status field says "available" but the
- *      matrix has no ACTIVE combination for it. This is the known, current,
- *      not-yet-business-confirmed state for 9 of 10 subjects; it is surfaced
- *      on every build rather than silently forgotten, but does not fail the
- *      build, since fixing it requires a business decision this repo cannot
- *      make on its own.
+ *   1. FAIL (fatal) — a subject's marlbridgeTeaches field is "teaching" but
+ *      the matrix has no ACTIVE combination for it.
  *   2. FAIL (fatal) — a subject's own FAQ text actively claims Marlbridge
  *      teaches a specific qualification (e.g. "Marlbridge teaches O Level
  *      Chemistry") that is not backed by an ACTIVE matrix combination for
@@ -119,12 +116,12 @@ for (const file of files) {
   const raw = await readFile(join(dir, file), 'utf8');
   const fm = raw.split('---')[1] ?? '';
   const at = `${dir}/${file}`;
-  const status = scalarField(fm, 'status');
+  const teaches = scalarField(fm, 'marlbridgeTeaches');
   const activeQuals = qualsBySubject.get(file.replace(/\.md$/, '')) ?? new Set();
   const activeCodes = codesBySubject.get(file.replace(/\.md$/, '')) ?? new Set();
 
-  if (status === 'available' && activeQuals.size === 0) {
-    warnings.push(`${at}: status is "available" but the academic matrix has no ACTIVE combination for this subject — do not surface a public "taught" claim (badge, FAQ, or prose) without further business confirmation.`);
+  if (teaches === 'teaching' && activeQuals.size === 0) {
+    errors.push(`${at}: marlbridgeTeaches is "teaching" but the academic matrix has no ACTIVE combination for this subject — an unsupported "taught" claim (badge, FAQ, or prose) cannot ship without matrix evidence.`);
   }
 
   for (const { question, answer } of faqEntries(fm)) {
@@ -202,6 +199,46 @@ for (const file of programFiles) {
   const fm = raw.split('---')[1] ?? '';
   checkQualificationClaims(`src/content/programs/${file}`, faqEntries(fm));
 }
+
+// -----------------------------------------------------------------------
+// v1.2 WS2 — status/copy contradiction guard.
+//
+// This is the exact bug class the GCSE programme page shipped with: its
+// `marlbridgeTeaches` field (formerly `status`) said one thing while its
+// own prose said the opposite ("Teaching is being developed and is not
+// yet offered" on a page whose status claimed active teaching — or the
+// inverse: upbeat "currently taught" language on a page that is not
+// actually confirmed as taught). Both directions are checked, on every
+// subjects/*.md and programs/*.md body.
+// -----------------------------------------------------------------------
+const NOT_OFFERED_PHRASES = [
+  /not yet offered/i, /being developed/i, /not currently (taught|offered)/i,
+  /no longer offered/i, /not yet available/i,
+];
+const ACTIVELY_TAUGHT_PHRASES = [
+  /currently taught/i, /is taught by marlbridge/i, /marlbridge teaches/i,
+];
+
+const checkCopyContradiction = async (collectionDir) => {
+  let files = [];
+  try { files = (await readdir(collectionDir)).filter((f) => f.endsWith('.md')); } catch { return; }
+  for (const file of files) {
+    const raw = await readFile(join(collectionDir, file), 'utf8');
+    const [, fm, ...bodyParts] = raw.split('---');
+    const body = bodyParts.join('---');
+    const teaches = scalarField(fm, 'marlbridgeTeaches');
+    const at = `${collectionDir}/${file}`;
+    if (teaches === 'teaching' && NOT_OFFERED_PHRASES.some((re) => re.test(body))) {
+      errors.push(`${at}: marlbridgeTeaches is "teaching" but the page body still contains "not yet offered"-style language — update the copy or correct the field, they cannot both be true.`);
+    }
+    if (teaches !== 'teaching' && ACTIVELY_TAUGHT_PHRASES.some((re) => re.test(body))) {
+      errors.push(`${at}: marlbridgeTeaches is "${teaches}" (not "teaching") but the page body claims Marlbridge currently/actively teaches this — update the copy or correct the field, they cannot both be true.`);
+    }
+  }
+};
+
+await checkCopyContradiction('src/content/subjects');
+await checkCopyContradiction('src/content/programs');
 
 if (warnings.length) {
   console.warn(`\nCommercial-claims check — ${warnings.length} warning(s) (non-fatal):\n`);

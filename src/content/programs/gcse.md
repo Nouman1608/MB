@@ -2,16 +2,16 @@
 title: "GCSE"
 order: 4
 level: "gcse"
-status: "resources-only"
+marlbridgeTeaches: "teaching"
 shortDescription: "UK GCSE support built on the same subject material as our international programs."
 description: "UK GCSE support built on the same subject material as our international programs."
-curriculum: "AQA / Edexcel / OCR"
+curriculum: "AQA / OCR"
 ageRange: "14–16"
 countryAvailability: ["PK"]
 featured: false
 ---
 
-Study resources for this qualification are published on Marlbridge. Teaching is being developed and is not yet offered.
+Marlbridge teaches GCSE across AQA and OCR, subject by subject — each subject page lists exactly which boards and syllabus codes apply to it.
 
 Subject pages list the topics covered at this level, together with the study
 guides, revision notes and practice questions published for each topic.

@@ -3,7 +3,7 @@ title: "English Literature"
 order: 19
 levelsLabel: "IGCSE · GCSE · A Level"
 levels: ["igcse", "gcse", "a-levels"]
-status: "available"
+marlbridgeTeaches: "teaching"
 shortDescription: "English Literature at IGCSE, GCSE and A Level, across Cambridge, Pearson Edexcel, AQA and OxfordAQA."
 description: "English Literature teaching and study resources, organised by level, board and topic."
 featured: false

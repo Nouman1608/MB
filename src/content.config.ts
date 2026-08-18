@@ -9,8 +9,21 @@ const seoFields = {
   noindex: z.boolean().default(false),
 };
 
-/** available = taught now, resources-only = published but not taught, coming-soon = neither yet. */
-const status = z.enum(['available', 'coming-soon', 'resources-only']);
+/**
+ * v1.2 WS2: replaces the old single `status` field (available /
+ * coming-soon / resources-only), which conflated whether Marlbridge
+ * teaches a subject/programme with whether resources are published for it
+ * and whether enrolment is open — see src/utils/content/status.ts for the
+ * full rationale and the three other facts (awardingBodyOffers,
+ * resourcesAvailable, enrolmentOpen) that are derived, never hand-claimed,
+ * from that one field plus the academic matrix and the real resource count.
+ *   teaching       Marlbridge currently teaches this, with evidence on file.
+ *   planned        Not taught yet; a start is planned/expected.
+ *   not-teaching   Confirmed not currently taught.
+ *   not-confirmed  No sufficient evidence either way — the truthful neutral
+ *                  state. Never guess between this and 'teaching'.
+ */
+const marlbridgeTeaches = z.enum(['teaching', 'planned', 'not-teaching', 'not-confirmed']);
 /** Kept in step with src/data/academic/. Validated against the matrix at build time. */
 const boardSlug = z.enum(['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa']);
 const qualificationSlug = z.enum(['igcse', 'o-level', 'gcse', 'as-level', 'a-level']);
@@ -28,7 +41,7 @@ const programs = defineCollection({
     ageRange: z.string().optional(),
     curriculum: z.string().optional(),
     subjects: z.array(reference('subjects')).default([]),
-    status,
+    marlbridgeTeaches,
     countryAvailability: z.array(country).default(['PK']),
     featured: z.boolean().default(false),
     faqs: z.array(z.object({ question: z.string(), answer: z.string() })).default([]),
@@ -48,7 +61,7 @@ const subjects = defineCollection({
     description: z.string(),
     topics: z.array(z.object({ title: z.string(), slug: z.string() })).default([]),
     relatedPrograms: z.array(reference('programs')).default([]),
-    status,
+    marlbridgeTeaches,
     featured: z.boolean().default(false),
     faqs: z.array(z.object({ question: z.string(), answer: z.string() })).default([]),
     ...seoFields,
