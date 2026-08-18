@@ -73,4 +73,4 @@ concrete scenario rather than reciting a definition.
 - [Sociology subject hub](/subjects/sociology/)
 
 *Written against AQA A Level Sociology 7192. Always check the current
-specification for your examination year at aqa.org.uk.*
+specification for your examination year at [aqa.org.uk](https://www.aqa.org.uk/subjects/sociology/a-level/sociology-7192/specification).*

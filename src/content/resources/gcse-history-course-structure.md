@@ -67,4 +67,4 @@ depth study AQA offers.
 
 *Written against AQA GCSE History 8145. Always check the current
 specification, including your school's chosen studies and the current
-historic environment sites, for your examination year at aqa.org.uk.*
+historic environment sites, for your examination year at [aqa.org.uk](https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification).*

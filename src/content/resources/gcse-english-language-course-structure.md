@@ -81,4 +81,4 @@ with extended writing under exam conditions.
 - [English subject hub](/subjects/english/)
 
 *Written against AQA GCSE English Language 8700. Always check the current
-specification for your examination year at aqa.org.uk.*
+specification for your examination year at [aqa.org.uk](https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification).*
