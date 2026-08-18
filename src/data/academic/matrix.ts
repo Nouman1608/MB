@@ -117,7 +117,7 @@ const AQA_GCSE_CODES: Record<string, string> = {
 
 const AQA_ALEVEL_CODES: Record<string, string> = {
   biology: '7402', chemistry: '7405', physics: '7408',
-  psychology: '7182', sociology: '7192', business: '7132',
+  psychology: '7182', sociology: '7192', business: '7132', economics: '7136',
   // Verified 2026-08-18 at aqa.org.uk/subjects/accounting: A-level Accounting
   // 7127 is live (next exam 17 May 2027, current specification for first
   // teaching 2017). Not withdrawn — resolves the prior "needs checking" note.
@@ -248,7 +248,7 @@ export const MATRIX: readonly Combination[] = [
     'mathematics', 'physics', 'urdu-language',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
-    source: `${LA}/a-levels/edexcel/`, codes: { chemistry: 'YCH11', physics: 'YPH11', mathematics: 'YMA01', biology: 'YBI11', business: 'YBS11' },
+    source: `${LA}/a-levels/edexcel/`, codes: { chemistry: 'YCH11', physics: 'YPH11', mathematics: 'YMA01', biology: 'YBI11', business: 'YBS11', economics: 'YEC11' },
     notes: `${OWNER_TEACHES_ALL} Edexcel A Level here is International A Level (IAL).`,
   }),
 
@@ -257,7 +257,7 @@ export const MATRIX: readonly Combination[] = [
     'mathematics', 'physics',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
-    source: `${LA}/igcse/edexcel/`, codes: { chemistry: '4CH1', physics: '4PH1', mathematics: '4MA1', biology: '4BI1' },
+    source: `${LA}/igcse/edexcel/`, codes: { chemistry: '4CH1', physics: '4PH1', mathematics: '4MA1', biology: '4BI1', economics: '4EC1' },
     notes: `${OWNER_TEACHES_ALL} Edexcel International GCSE — genuinely IGCSE, unlike AQA.`,
   }),
 

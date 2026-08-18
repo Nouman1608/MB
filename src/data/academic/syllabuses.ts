@@ -827,6 +827,68 @@ export const SYLLABUSES: readonly Syllabus[] = [
     notes: 'For first teaching from September 2023; current for cohorts taking exams through summer 2026. Covers the first six of the ten A-level Business (7132) sections: what is business, managers/leadership/decision making, and decision-making to improve marketing, operational, financial and human resource performance. AQA has accredited a replacement specification (7137) for first teaching from September 2026.',
   },
 
+
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'economics',
+    officialTitle: 'Cambridge International AS & A Level Economics (9708)',
+    code: '9708',
+    boardSummary:
+      'Cambridge International AS & A Level Economics allows students to experience the diverse and dynamic world within which economics exists, developing an understanding of both micro- and macroeconomic theory and how it can be applied.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-economics-9708/',
+    verifiedOn: '2026-08-19',
+    notes: 'Syllabus for exams in 2026, 2027 and 2028 (Version 1, published September 2023). AS Level covers topics 1-6 (basic economic ideas and resource allocation, the price system and the microeconomy, government microeconomic intervention, the macroeconomy, government macroeconomic intervention, international economic issues); A Level adds topics 7-9 building further micro- and macroeconomic depth.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'economics',
+    officialTitle: 'Cambridge IGCSE Economics (0455)',
+    code: '0455',
+    boardSummary:
+      'Cambridge IGCSE Economics gives learners a good foundation for further study, developing an understanding of economic terminology, theory and the tools of economic analysis.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-economics-0455/',
+    verifiedOn: '2026-08-19',
+    notes: 'Syllabus for exams in 2026 (Version 2). Six topics: the basic economic problem, the allocation of resources, microeconomic decision makers, government and the macroeconomy, economic development, and international trade and globalisation.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'economics',
+    officialTitle: 'Pearson Edexcel International Advanced Level Economics (YEC11 / XEC11)',
+    code: 'YEC11',
+    boardSummary:
+      'Pearson Edexcel International Advanced Level Economics develops learners\' understanding of markets, macroeconomic performance, business behaviour and the global economy through a modular four-unit structure.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/economics-2018.html',
+    verifiedOn: '2026-08-19',
+    notes: 'Issue 2, June 2018, first teaching September 2018. Modular qualification: International AS (units WEC11, WEC12, code XEC11) covering Markets in action and Macroeconomic performance and policy; full International A Level (units WEC11-WEC14, code YEC11) adds Business behaviour and Developments in the global economy.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'economics',
+    officialTitle: 'Pearson Edexcel International GCSE Economics (4EC1)',
+    code: '4EC1',
+    boardSummary:
+      'Pearson Edexcel International GCSE Economics introduces learners to economic concepts and their application to real-life situations, across microeconomics, business economics, macroeconomics and the global economy.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/economics-2017.html',
+    verifiedOn: '2026-08-19',
+    notes: 'Issue 3, February 2026, for first teaching September 2017, first examination June 2019. Linear qualification assessed across two equally weighted papers: Paper 1 (Microeconomics and Business Economics) and Paper 2 (Macroeconomics and the Global Economy).',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'economics',
+    officialTitle: 'AQA GCSE Economics (8136)',
+    code: '8136',
+    boardSummary:
+      'AQA GCSE Economics looks at economic activity through the lens of consumers, producers, government and the workings of the global economy.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/economics/gcse/economics-8136',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching from September 2017. Two subject-content sections: how markets work, and how the economy works.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'economics',
+    officialTitle: 'AQA A-level Economics (7136)',
+    code: '7136',
+    boardSummary:
+      'AQA A-level Economics is split into a microeconomics-focused section and a macroeconomics-focused section, while recognising the two are not entirely distinct areas of study.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/economics/a-level/economics-7136',
+    verifiedOn: '2026-08-19',
+    notes: 'For first teaching from September 2015. Two subject-content sections: individuals, firms, markets and market failure (microeconomics); and the national and international economy (macroeconomics).',
+  },
+
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
