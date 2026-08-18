@@ -1071,6 +1071,66 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'AQA offers two A-level English Literature specifications: Literature A (7711 AS / 7712 A-level) and Literature B (7716 AS / 7717 A-level). This entry’s taxonomy verifies Literature B (7717): Paper 1 ‘Literary Genres’ (tragedy/comedy options), Paper 2 ‘Texts and Genres’ (crime/protest writing options), plus non-exam assessment ‘Theory and Independence’. The ‘7712’ half of the code recorded in Marlbridge’s board matrix refers to Literature A, which has not been separately verified against its own official content pages.',
   },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'psychology',
+    officialTitle: 'Cambridge International AS & A Level Psychology (9990)',
+    code: '9990',
+    boardSummary:
+      'Cambridge International AS and A Level Psychology gives learners an insight into the scientific study of the human mind and behaviour, encouraging them to consider how psychology can help us understand the world.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: 'AS content covers four core approaches (Biological, Cognitive, Learning, Social), each built around 12 named core studies, assessed via Paper 1 (Approaches, Issues and Debates) and Paper 2 (Research Methods). A Level adds 2 of 4 specialist options (Clinical, Consumer, Health, Organisational Psychology), assessed via Paper 3 and Paper 4.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'sociology',
+    officialTitle: 'Cambridge International AS & A Level Sociology (9699)',
+    code: '9699',
+    boardSummary:
+      'Cambridge International AS and A Level Sociology encourages learners to develop a lively interest in society, and an ability to question critically what is often taken for granted.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/636099-2024-2026-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: "AS content is assessed via Paper 1 'Socialisation, Identity and Methods of Research' and Paper 2 'The Family'. A Level adds Paper 3 'Education' and Paper 4 'Globalisation, Media and Religion' (3 sections — Globalisation, Media, Religion — candidates answer on 2 of the 3).",
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'sociology',
+    officialTitle: 'Cambridge IGCSE Sociology (0495)',
+    code: '0495',
+    boardSummary:
+      'Cambridge IGCSE Sociology develops learners’ understanding of human societies, and helps them recognise the influence of social structures and social change on individuals and groups.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/662464-2025-2027-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: "Version 3, for exams in 2025, 2026 and 2027. Paper 1 'Research Methods, Identity and Inequality' is compulsory and covers all 3 named topics (Research methods; Identity: self and society; Social stratification and inequality). Paper 2 'Family, Education and Crime' covers 3 further named topics (Family; Education; Crime, deviance and social control), and candidates answer questions on 2 of the 3.",
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'sociology',
+    officialTitle: 'Cambridge O Level Sociology (2251)',
+    code: '2251',
+    boardSummary:
+      'Cambridge O Level Sociology develops learners’ understanding of human societies, and helps them recognise the influence of social structures and social change on individuals and groups.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/662478-2025-2027-syllabus.pdf',
+    verifiedOn: '2026-08-19',
+    notes: "Version 3, for exams in 2025, 2026 and 2027. Mirrors Cambridge IGCSE Sociology (0495) in paper structure: Paper 1 'Research Methods, Identity and Inequality' (compulsory, all 3 topics taught, 2 of 3 questions answered) and Paper 2 'Family, Education and Crime' (candidates answer on 2 of the 3 topics). Independently confirmed against 2251's own specification PDF, not assumed from 0495.",
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'psychology',
+    officialTitle: 'AQA GCSE Psychology (8182)',
+    code: '8182',
+    boardSummary:
+      'AQA GCSE Psychology gives students an insight into the world of psychology, and stimulates their interest in learning more about this fast-growing subject.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification',
+    verifiedOn: '2026-08-19',
+    notes: 'Paper 1 ‘Cognition and Behaviour’ covers Memory, Perception, Development and Research methods. Paper 2 ‘Social Context and Behaviour’ covers Social influence, Language/thought/communication, Brain and neuropsychology, and Psychological problems. The two papers are equally weighted with no coursework.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'psychology',
+    officialTitle: 'AQA A-level Psychology (7182)',
+    code: '7182',
+    boardSummary:
+      'AQA A-level Psychology helps students develop essential knowledge and understanding of different areas of the subject, and how they relate to each other.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification',
+    verifiedOn: '2026-08-19',
+    notes: 'AS content: Paper 1 ‘Introductory Topics’ (Social influence, Memory, Attachment) and Paper 2 ‘Psychology in Context’ (Approaches, Clinical Psychology and Mental Health, Research methods). A-level adds Biopsychology and Issues and debates (assessed across Papers 1-2), plus one option from each of 3 groups (Relationships/Gender/Cognition and development; Schizophrenia/Eating behaviour/Stress; Aggression/Forensic Psychology/Addiction) assessed via Paper 3.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>

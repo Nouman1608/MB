@@ -199,6 +199,9 @@ export const MATRIX: readonly Combination[] = [
       business: '9609', economics: '9708', accounting: '9706',
       // Verified at cambridgeinternational.org 2026-08-19.
       'computer-science': '9618', ict: '9626',
+      // Verified at cambridgeinternational.org 2026-08-19 (Psychology/Sociology
+      // batch) — previously ACTIVE with no code recorded; gap closed here.
+      psychology: '9990', sociology: '9699',
     },
     notes: OWNER_TEACHES_ALL,
   }),
@@ -219,6 +222,9 @@ export const MATRIX: readonly Combination[] = [
       // Verified at cambridgeinternational.org 2026-08-19. Plain A*-G codes,
       // not the numeric-grade "(9-1)" sibling syllabuses (0984, 0983).
       'computer-science': '0478', ict: '0417',
+      // Verified at cambridgeinternational.org 2026-08-19 (Psychology/Sociology
+      // batch) — previously ACTIVE with no code recorded; gap closed here.
+      sociology: '0495',
     },
     notes: OWNER_TEACHES_ALL,
   }),
@@ -246,6 +252,9 @@ export const MATRIX: readonly Combination[] = [
       commerce: '7100', statistics: '4040',
       // Verified at cambridgeinternational.org 2026-08-19.
       'computer-science': '2210',
+      // Verified at cambridgeinternational.org 2026-08-19 (Psychology/Sociology
+      // batch) — previously ACTIVE with no code recorded; gap closed here.
+      sociology: '2251',
     },
     notes: OWNER_TEACHES_ALL,
   }),
