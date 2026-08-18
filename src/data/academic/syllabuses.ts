@@ -673,6 +673,26 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'Tiered: Foundation tier (grades 1-9, students awarded 1-5) and Higher tier (grades 4-9). Students take three question papers at the same tier. Six topic areas: Number, Algebra, Ratio proportion and rates of change, Geometry and measures, Probability, Statistics -- the weighting of each is prescribed by Ofqual and is common to all exam boards offering GCSE Mathematics.',
   },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'mathematics',
+    officialTitle: 'Pearson Edexcel International GCSE in Mathematics (Specification A) (4MA1)',
+    code: '4MA1',
+    boardSummary:
+      'The Pearson Edexcel International GCSE in Mathematics (Specification A) requires students to use numerical skills in a purely mathematical way and in real-life situations, use algebra to set up and solve problems, use properties of angles and understand transformations, and use a range of statistical techniques and basic ideas of probability.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/mathematics-a-2016.html',
+    verifiedOn: '2026-08-19',
+    notes: 'Tiered: Foundation tier (grades 5-1) and Higher tier (grades 9-4, with an allowed grade 3). Two written papers per tier, 2 hours each, 100 marks. Specification Issue 2 (November 2017).',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'mathematics',
+    officialTitle: 'Pearson Edexcel International Advanced Level in Mathematics (YMA01)',
+    code: 'YMA01',
+    boardSummary:
+      'The Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics is a modular qualification built from externally-assessed units: four compulsory Pure Mathematics units plus a pair of applied units chosen from a fixed menu of Mechanics, Statistics and Decision Mathematics combinations.',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/mathematics-2018.html',
+    verifiedOn: '2026-08-19',
+    notes: "International Advanced Level (IAL, six units): compulsory P1-P4 (Pure Mathematics 1-4) plus one of the following pairs: M1+S1, M1+D1, M1+M2, S1+D1, or S1+S2. The International Advanced Subsidiary (IAS, code XMA01, three units) requires only P1, P2 plus one of M1/S1/D1, and is not recorded as a separate matrix row. Further Pure Mathematics units (FP1-FP3) and units M3/S3 belong to the separate Further Mathematics (YFM01) and Pure Mathematics (YPM01) awards, not to the plain Mathematics award, and are not represented here. Specification Issue 3 (April 2019).",
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>

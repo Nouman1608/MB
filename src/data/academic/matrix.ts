@@ -245,7 +245,7 @@ export const MATRIX: readonly Combination[] = [
     'mathematics', 'physics', 'urdu-language',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
-    source: `${LA}/a-levels/edexcel/`, codes: { chemistry: 'YCH11', physics: 'YPH11' },
+    source: `${LA}/a-levels/edexcel/`, codes: { chemistry: 'YCH11', physics: 'YPH11', mathematics: 'YMA01' },
     notes: `${OWNER_TEACHES_ALL} Edexcel A Level here is International A Level (IAL).`,
   }),
 
@@ -254,7 +254,7 @@ export const MATRIX: readonly Combination[] = [
     'mathematics', 'physics',
   ], {
     boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'la-course',
-    source: `${LA}/igcse/edexcel/`, codes: { chemistry: '4CH1', physics: '4PH1' },
+    source: `${LA}/igcse/edexcel/`, codes: { chemistry: '4CH1', physics: '4PH1', mathematics: '4MA1' },
     notes: `${OWNER_TEACHES_ALL} Edexcel International GCSE — genuinely IGCSE, unlike AQA.`,
   }),
 
