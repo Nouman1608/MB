@@ -252,3 +252,31 @@ Status values: `answered` (owner has responded, implemented), `open`
   to explain this review model publicly.
 - **Status:** implemented (schema + assignment); real review pass itself
   not yet performed for any resource.
+
+---
+
+## D-007 — WhatsApp contact number and always-visible button
+
+- **Date:** 2026-08-19
+- **Workstream:** Post-v1.x, in-session request
+- **Fact provided:** Owner gave a WhatsApp contact number directly in
+  chat — +92 323 9149918 — and asked for an always-visible floating
+  WhatsApp button on the site that opens a chat to that number.
+- **Final decision:** Number stored in
+  `src/components/ui/WhatsAppButton.astro` in international click-to-chat
+  format (`923239149918`, no leading zero, no `+` or spaces, per
+  WhatsApp's own `wa.me` link requirements). The component is a fixed
+  bottom-right button wired into `BaseLayout.astro`, so it renders on
+  every page (all pages route through `PageLayout` -> `BaseLayout`).
+  Opens `https://wa.me/923239149918` with a pre-filled greeting message
+  in a new tab.
+- **Implementation consequence:** No commercial-claims validator changes
+  needed — a contact channel is not an academic or pricing claim. No
+  secret is involved (a business WhatsApp number is public-facing contact
+  information, not a credential), so it is committed directly in the
+  component rather than via an environment variable.
+- **Follow-up required:** None. If the number ever changes, update the
+  `phone` constant in `WhatsAppButton.astro` directly.
+- **Status:** answered, implemented.
+
+---
