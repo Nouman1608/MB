@@ -1,0 +1,24 @@
+---
+/**
+ * Fixed, always-visible WhatsApp contact button.
+ *
+ * Number is Marlbridge/Learners Academy's own WhatsApp line, confirmed by
+ * the owner in chat on 2026-08-19: +92 323 9149918. Rendered in
+ * international wa.me format (923239149918, no leading zero, no + or
+ * spaces) per WhatsApp's own click-to-chat link requirements.
+ */
+const phone = '923239149918';
+const message = "Hi, I'd like to ask about Marlbridge tutoring.";
+const href = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
+---
+<a
+  href={href}
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Chat with Marlbridge on WhatsApp"
+  class="fixed bottom-5 right-5 z-[90] flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition-transform duration-150 hover:scale-105 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-[#25D366]"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="30" height="30" fill="currentColor" aria-hidden="true">
+    <path d="M16.001 3.2c-7.06 0-12.8 5.74-12.8 12.8 0 2.258.593 4.375 1.63 6.21L3.2 28.8l6.79-1.782a12.73 12.73 0 0 0 6.011 1.532h.005c7.06 0 12.8-5.74 12.8-12.8s-5.741-12.8-12.805-12.8Zm0 23.36a10.53 10.53 0 0 1-5.371-1.47l-.386-.229-4.03 1.058 1.076-3.928-.251-.403a10.526 10.526 0 0 1-1.616-5.588c0-5.828 4.742-10.57 10.583-10.57 2.827 0 5.484 1.102 7.482 3.102a10.5 10.5 0 0 1 3.098 7.474c0 5.828-4.743 10.554-10.585 10.554Zm5.798-7.912c-.317-.159-1.877-.927-2.168-1.032-.291-.106-.503-.159-.715.159-.211.317-.821 1.032-1.006 1.244-.185.211-.37.238-.687.079-.317-.159-1.338-.493-2.549-1.572-.943-.84-1.579-1.878-1.764-2.195-.185-.317-.02-.489.139-.647.143-.142.317-.37.476-.556.159-.185.211-.317.317-.529.106-.211.053-.397-.026-.556-.079-.159-.715-1.722-.98-2.359-.258-.62-.52-.536-.715-.546l-.609-.011c-.211 0-.556.079-.847.397-.291.317-1.111 1.086-1.111 2.649s1.138 3.072 1.297 3.284c.159.211 2.24 3.42 5.427 4.797.758.327 1.35.523 1.812.669.761.242 1.454.208 2.002.126.611-.091 1.877-.767 2.142-1.508.264-.741.264-1.376.185-1.508-.079-.132-.291-.211-.608-.37Z"/>
+  </svg>
+</a>
