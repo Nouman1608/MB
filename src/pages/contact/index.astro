@@ -5,11 +5,8 @@ import Container from '../../components/layout/Container.astro';
 import EnquiryForm from '../../components/forms/EnquiryForm.astro';
 import FAQ from '../../components/ui/FAQ.astro';
 import { faqNode } from '../../utils/schema/faq';
-import { getPrograms, getSubjects } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
 
-const programs = (await getPrograms()).map((p) => p.data.title);
-const subjects = (await getSubjects()).map((s) => s.data.title);
 
 /**
  * Small, high-value set — enrollment/pricing/format/coverage questions a
@@ -54,7 +51,7 @@ const faq = faqNode(faqs);
   jsonLd={faq ? [faq] : []}
 >
   <Section surface="white">
-    <Container><EnquiryForm kind="student" programs={programs} subjects={subjects} /></Container>
+    <Container><EnquiryForm kind="student" /></Container>
   </Section>
 
   <Section surface="ivory" border>

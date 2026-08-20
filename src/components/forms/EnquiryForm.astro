@@ -6,11 +6,14 @@ import Textarea from './Textarea.astro';
 import { FALLBACK_EMAIL, type EnquiryKind } from '../../utils/forms/submit';
 import { site } from '../../data/site';
 
-interface Props { kind: EnquiryKind; programs?: readonly string[]; subjects?: readonly string[] }
-const { kind, programs = [], subjects = [] } = Astro.props;
+// v1.x CLOSURE WS4 -- student/tutoring enquiries no longer take separate
+// program/subject/level/format fields; visitors are asked to mention
+// those in the message itself (see the Message field's hint below). The
+// school-partnership form keeps its own fields (school, role) since those
+// identify the organisation making the enquiry, not enrolment metadata.
+interface Props { kind: EnquiryKind }
+const { kind } = Astro.props;
 
-const levels = ['IGCSE', 'O Level', 'A Level', 'GCSE', 'IB', 'SAT', 'IELTS', 'Other'];
-const formats = ['One-to-one', 'Small group', 'Online', 'Not sure yet'];
 const roles = ['Head of school', 'Head of department', 'Teacher', 'Coordinator', 'Other'];
 const mailto = 'mailto:' + FALLBACK_EMAIL;
 const turnstileSiteKey = site.turnstile.siteKey;
@@ -44,12 +47,15 @@ const turnstileSiteKey = site.turnstile.siteKey;
   <FormField name="phone" label="Phone"><Input name="phone" type="tel" autocomplete="tel" inputmode="tel" /></FormField>
   <FormField name="country" label="Country" required><Input name="country" autocomplete="country-name" required /></FormField>
 
-  {kind === 'student' && programs.length > 0 && <FormField name="program" label="Program"><Select name="program" options={programs} /></FormField>}
-  {kind !== 'school' && subjects.length > 0 && <FormField name="subject" label="Subject"><Select name="subject" options={subjects} /></FormField>}
-  {kind === 'tutoring' && <FormField name="level" label="Level"><Select name="level" options={levels} /></FormField>}
-  {kind === 'tutoring' && <FormField name="format" label="Preferred format"><Select name="format" options={formats} /></FormField>}
-
-  <FormField name="message" label="Message" required hint="What does the learner need help with?" class="sm:col-span-2">
+  <FormField
+    name="message"
+    label="Message"
+    required
+    hint={kind === 'school'
+      ? 'What does your school need?'
+      : 'What does the learner need help with? Please include the programme (e.g. IGCSE, A Level), the exam board if known, the subject and the level.'}
+    class="sm:col-span-2"
+  >
     <Textarea name="message" required />
   </FormField>
 

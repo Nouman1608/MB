@@ -17,13 +17,21 @@ export type EnquiryKind = 'student' | 'tutoring' | 'school';
  * reaches the email body — a payload cannot smuggle extra fields in.
  */
 const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string[] }> = {
+  // v1.x CLOSURE WS4 -- reduced to the approved five fields (name, email,
+  // phone, country, message). program/subject/level/format were removed
+  // from student and tutoring enquiries; visitors are asked in the
+  // message hint to mention programme, board, subject and level there
+  // instead. The school-partnership form is deliberately NOT reduced --
+  // school/role are organisation-identifying fields a school enquiry
+  // genuinely needs, not enrolment metadata (see the note above
+  // FIELDS_BY_KIND).
   student: {
     required: ['name', 'email', 'country', 'message'],
-    optional: ['phone', 'program', 'subject'],
+    optional: ['phone'],
   },
   tutoring: {
     required: ['name', 'email', 'country', 'message'],
-    optional: ['phone', 'subject', 'level', 'format'],
+    optional: ['phone'],
   },
   school: {
     required: ['name', 'school', 'role', 'email', 'country', 'message'],
@@ -110,8 +118,7 @@ const KIND_LABEL: Record<EnquiryKind, string> = {
 
 const FIELD_LABEL: Record<string, string> = {
   name: 'Name', school: 'School', role: 'Role', email: 'Email', phone: 'Phone',
-  country: 'Country', program: 'Program', subject: 'Subject', level: 'Level',
-  format: 'Preferred format', message: 'Message',
+  country: 'Country', message: 'Message',
 };
 
 /** Plain-text email body. Every value was already sanitized by validateEnquiry. */

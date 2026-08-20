@@ -41,12 +41,42 @@ test('isHoneypotTripped detects a filled hidden field', () => {
 test('validateEnquiry: student — accepts a well-formed submission', () => {
   const result = validateEnquiry('student', {
     name: 'Aisha Khan', email: 'aisha@example.com', country: 'Pakistan',
-    message: 'Looking for IGCSE Chemistry support.', program: 'IGCSE',
+    message: 'Looking for IGCSE Chemistry support.',
   });
   assert.equal(result.ok, true);
   if (result.ok) {
     assert.equal(result.data.name, 'Aisha Khan');
-    assert.equal(result.data.program, 'IGCSE');
+  }
+});
+
+// v1.x CLOSURE WS4 -- program/subject/level/format were removed from the
+// approved five-field set (name, email, phone, country, message). A
+// submission that still sends them (e.g. a stale cached form, or a
+// deliberate probe) must have them silently dropped, not accepted or
+// echoed into the email body.
+test('validateEnquiry: student — removed fields (program/subject) are dropped, not accepted', () => {
+  const result = validateEnquiry('student', {
+    name: 'Aisha Khan', email: 'aisha@example.com', country: 'Pakistan',
+    message: 'Looking for IGCSE Chemistry support.',
+    program: 'IGCSE', subject: 'Chemistry',
+  });
+  assert.equal(result.ok, true);
+  if (result.ok) {
+    assert.equal('program' in result.data, false);
+    assert.equal('subject' in result.data, false);
+  }
+});
+
+test('validateEnquiry: tutoring — removed fields (level/format) are dropped, not accepted', () => {
+  const result = validateEnquiry('tutoring', {
+    name: 'Bilal', email: 'bilal@example.com', country: 'Pakistan',
+    message: 'Need help with A Level Physics.',
+    level: 'A Level', format: 'Online',
+  });
+  assert.equal(result.ok, true);
+  if (result.ok) {
+    assert.equal('level' in result.data, false);
+    assert.equal('format' in result.data, false);
   }
 });
 

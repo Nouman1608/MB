@@ -4,10 +4,8 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import EnquiryForm from '../../components/forms/EnquiryForm.astro';
 import { tutoringModes } from '../../data/homepage';
-import { getSubjects } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
 
-const subjects = (await getSubjects()).map((s) => s.data.title);
 ---
 <PageLayout
   title="Tutoring"
@@ -34,7 +32,7 @@ const subjects = (await getSubjects()).map((s) => s.data.title);
         <p class="m-0 mb-8 max-w-[62ch] text-[17px] text-ink-mute">
           Tutor profiles are published once teaching staff are introduced. In the meantime, tell us what you need and we will match it against what we teach.
         </p>
-        <EnquiryForm kind="tutoring" subjects={subjects} />
+        <EnquiryForm kind="tutoring" />
       </section>
     </Container>
   </Section>
