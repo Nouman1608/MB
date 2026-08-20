@@ -1,0 +1,84 @@
+/**
+ * MARLBRIDGE v1.x CLOSURE — WS2.
+ *
+ * Single typed source of truth for every public fee claim, FAQ answer and
+ * pricing structured-data statement across the site. Every page that shows
+ * a price MUST read from here — nothing hard-codes a number anywhere else.
+ *
+ * Source: current Learners Academy pricing model, owner-approved for
+ * publication under the Marlbridge name (business-scope decision, v1.x
+ * CLOSURE prompt, 20 August 2026). Learners Academy is approved ONLY as
+ * evidence for pricing and faculty information — its academic taxonomy,
+ * results, testimonials or unsupported claims are NOT imported.
+ *
+ * Qualification mapping (owner-approved):
+ *   - GCSE, International GCSE (IGCSE) and Cambridge O Level all use the
+ *     IGCSE fee tier.
+ *   - International AS, AS and A Level all use the A Level fee tier.
+ * All fees are per subject, per month.
+ */
+
+export const PRICING_VERIFIED_DATE = '2026-08-20';
+
+export type FeeTier = 'igcse' | 'a-level';
+
+/** Which Marlbridge qualification labels map to which fee tier. Anything
+ * not listed here (IB, SAT, IELTS, Academic Support) has no fixed
+ * per-subject fee and must route to an enquiry, never a fabricated number. */
+export const QUALIFICATION_TIER: Record<string, FeeTier> = {
+  'gcse': 'igcse',
+  'igcse': 'igcse',
+  'o-level': 'igcse',
+  'international-as': 'a-level',
+  'as-level': 'a-level',
+  'a-level': 'a-level',
+};
+
+export interface RegionPricing {
+  readonly region: string;
+  readonly currency: string;
+  readonly symbol: string;
+  readonly igcse: number;
+  readonly aLevel: number;
+}
+
+/** Countries/regions with a confirmed published rate. Every other country
+ * must be told to enquire — no currency conversion is ever invented. */
+export const REGION_PRICING: readonly RegionPricing[] = [
+  { region: 'Pakistan', currency: 'PKR', symbol: 'Rs', igcse: 19000, aLevel: 24000 },
+  { region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', igcse: 270, aLevel: 330 },
+  { region: 'United Arab Emirates', currency: 'AED', symbol: 'AED', igcse: 270, aLevel: 330 },
+  { region: 'Qatar', currency: 'QAR', symbol: 'QAR', igcse: 270, aLevel: 330 },
+  { region: 'Kuwait', currency: 'KWD', symbol: 'KWD', igcse: 22.5, aLevel: 27.5 },
+  { region: 'Bahrain', currency: 'BHD', symbol: 'BHD', igcse: 27.5, aLevel: 33.5 },
+  { region: 'Oman', currency: 'OMR', symbol: 'OMR', igcse: 28.0, aLevel: 34.0 },
+  { region: 'United Kingdom', currency: 'GBP', symbol: '£', igcse: 60, aLevel: 75 },
+  { region: 'Europe', currency: 'EUR', symbol: '€', igcse: 70, aLevel: 90 },
+] as const;
+
+export const PRICING_TERMS = {
+  unit: 'per subject, per month',
+  multiSubjectDiscount: { minSubjects: 3, percentOff: 20 },
+  siblingDiscount: { maxSiblings: 2, percentOff: 10 },
+  freeTrial: 'The initial trial/demo class is free.',
+  unsupportedRegionNote: 'Countries without a listed rate above are not priced automatically — enquire and Marlbridge will confirm a fee for your region. No currency conversion is applied on your behalf.',
+  notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date below is when they were last confirmed.',
+} as const;
+
+/** Currencies conventionally quoted to 3 decimal places (KWD, BHD, OMR use
+ * fils/baisa subunits at 1/1000, not 1/100 like most currencies) -- the
+ * approved rate sheet itself writes these as e.g. "22.500", so that exact
+ * precision is preserved rather than stripped. */
+const THREE_DECIMAL_CURRENCIES = new Set(['KWD', 'BHD', 'OMR']);
+
+/** Format a fee amount without inventing precision the source data doesn't have. */
+export function formatFee(amount: number, currency?: string): string {
+  if (currency && THREE_DECIMAL_CURRENCIES.has(currency)) {
+    return amount.toFixed(3);
+  }
+  return Number.isInteger(amount) ? amount.toLocaleString('en-US') : amount.toString();
+}
+
+export function feeFor(region: RegionPricing, tier: FeeTier): number {
+  return tier === 'igcse' ? region.igcse : region.aLevel;
+}

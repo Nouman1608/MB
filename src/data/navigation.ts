@@ -8,6 +8,7 @@ export const primaryNav: readonly NavItem[] = [
   { label: 'Subjects', href: '/subjects/' },
   { label: 'Resources', href: '/resources/' },
   { label: 'Tutoring', href: '/tutoring/' },
+  { label: 'Pricing', href: '/pricing/' },
   { label: 'For Schools', href: '/schools/' },
   { label: 'About', href: '/about/' },
 ];
@@ -20,6 +21,7 @@ export const footerNav = {
     { label: 'Qualifications', href: '/levels/' },
     { label: 'Resources', href: '/resources/' },
     { label: 'Tutoring', href: '/tutoring/' },
+    { label: 'Pricing', href: '/pricing/' },
     { label: 'For Schools', href: '/schools/' },
   ],
   resources: [

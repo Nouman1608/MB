@@ -1,0 +1,104 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import { faqNode } from '../../utils/schema/faq';
+import { routes } from '../../utils/urls/routes';
+import {
+  REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee,
+} from '../../data/pricing';
+
+const faqs = [
+  {
+    question: 'How much does Marlbridge tuition cost?',
+    answer: `Marlbridge charges ${PRICING_TERMS.unit}. GCSE, IGCSE and O Level are charged at the IGCSE rate for your region; International AS, AS and A Level are charged at the A Level rate. See the table on this page for your region, or enquire if your country is not listed.`,
+  },
+  {
+    question: 'Are there discounts for multiple subjects or siblings?',
+    answer: `Yes. A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects taken together, and a ${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount applies for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled at the same time.`,
+  },
+  {
+    question: 'Is there a free trial?',
+    answer: PRICING_TERMS.freeTrial,
+  },
+  {
+    question: 'My country is not listed — what do I pay?',
+    answer: PRICING_TERMS.unsupportedRegionNote,
+  },
+  {
+    question: 'Will these prices stay the same?',
+    answer: `${PRICING_TERMS.notPermanentNote} Last confirmed ${PRICING_VERIFIED_DATE}.`,
+  },
+];
+const faq = faqNode(faqs);
+---
+<PageLayout
+  title="Pricing"
+  description="Marlbridge tuition fees by region, per subject per month, for IGCSE/GCSE/O Level and A Level — with multi-subject and sibling discounts, and a free trial class."
+  path={routes.pricing}
+  eyebrow="Pricing"
+  heading="Tuition fees, by region."
+  lead="Every fee below is per subject, per month. GCSE, International GCSE and Cambridge O Level are charged at the IGCSE rate; International AS, AS and A Level are charged at the A Level rate."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Pricing', href: routes.pricing }]}
+  jsonLd={faq ? [faq] : []}
+>
+  <Section surface="white">
+    <Container>
+      <div class="overflow-x-auto">
+        <table class="w-full min-w-[560px] border-collapse text-[15px]">
+          <thead>
+            <tr class="border-b border-rule text-left">
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Region</th>
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">GCSE / IGCSE / O Level</th>
+              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">AS / A Level</th>
+            </tr>
+          </thead>
+          <tbody>
+            {REGION_PRICING.map((r) => (
+              <tr class="border-b border-rule">
+                <td class="py-3 pr-4 text-ink">{r.region}</td>
+                <td class="py-3 pr-4 text-ink-mute">{r.symbol} {formatFee(r.igcse, r.currency)} <span class="text-[13px] text-ink-mute">{r.currency}/subject/month</span></td>
+                <td class="py-3 text-ink-mute">{r.symbol} {formatFee(r.aLevel, r.currency)} <span class="text-[13px] text-ink-mute">{r.currency}/subject/month</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="m-0 mt-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
+        Don't see your country? {PRICING_TERMS.unsupportedRegionNote}
+      </p>
+      <p class="m-0 mt-3 text-[13px] text-ink-mute">Pricing last verified {PRICING_VERIFIED_DATE}. {PRICING_TERMS.notPermanentNote}</p>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Discounts and trial</h2>
+      <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-3">
+        <li class="m-0 rounded-sm border border-rule bg-white p-6">
+          <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Multi-subject</p>
+          <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.multiSubjectDiscount.percentOff}% off for {PRICING_TERMS.multiSubjectDiscount.minSubjects}+ subjects taken together.</p>
+        </li>
+        <li class="m-0 rounded-sm border border-rule bg-white p-6">
+          <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Sibling discount</p>
+          <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.siblingDiscount.percentOff}% off for up to {PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled together.</p>
+        </li>
+        <li class="m-0 rounded-sm border border-rule bg-white p-6">
+          <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Trial class</p>
+          <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.freeTrial}</p>
+        </li>
+      </ul>
+    </Container>
+  </Section>
+
+  <Section surface="white" border>
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions about pricing</h2>
+      <FAQ items={faqs} />
+      <p class="m-0 mt-8 text-[15.5px]">
+        Ready to start? <a href={routes.tutoring} class="underline decoration-gold-500 underline-offset-2">Find learning support</a> or <a href={routes.contact} class="underline decoration-gold-500 underline-offset-2">send an enquiry</a>.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>
