@@ -114,6 +114,27 @@ const siblings = offeringsForSubject(c.subjectSlug).filter((o) => o.qualificatio
 const heading = `${c.board} ${c.qualification} ${c.subject}`;
 const title = syllabus ? `${heading} (${syllabus.code})` : heading;
 
+/**
+ * Thin-page guard (Aug 2026 audit).
+ *
+ * activeOnly() legitimately produces a page for every ACTIVE combination in
+ * the academic matrix, but a combination can be approved long before any
+ * syllabus topics have been transcribed or any resource written. Those pages
+ * render nothing but honest empty states — genuinely useful to a human who
+ * lands on one, genuinely worthless as a search result, and numerous enough
+ * (see below) to drag the whole site's quality signals down if indexed.
+ *
+ * So: keep serving the page, keep it in the internal link graph, but ask
+ * search engines not to index it until it has either real syllabus topics or
+ * at least one resource. `noindex, follow` (see components/seo/Meta.astro)
+ * preserves link equity flow to the pages that do have content.
+ *
+ * This is deliberately NOT based on `marlbridgeTeaches` — whether we teach a
+ * combination is a separate fact from whether this page has anything on it.
+ */
+const hasSyllabusTopics = (syllabusTopics?.topics ?? []).length > 0;
+const isThin = resources.length === 0 && !hasSyllabusTopics;
+
 const jsonLd = [courseNode({
   path,
   name: syllabus?.officialTitle ?? heading,
@@ -121,6 +142,7 @@ const jsonLd = [courseNode({
 })];
 ---
 <PageLayout
+  noindex={isThin}
   title={title}
   description={`${heading} — syllabus ${syllabus?.code ?? ''} overview, topics and study resources from Marlbridge. Free to read.`.replace(/\s+/g, ' ')}
   path={path}

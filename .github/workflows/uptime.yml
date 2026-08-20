@@ -24,3 +24,45 @@ jobs:
               exit 1
             fi
           done
+
+  # Liveness is not freshness. In August 2026 production served a deployment
+  # that was hundreds of pages behind `main` for an extended period while every
+  # check above returned a healthy 200 — the monitor was actively reassuring us
+  # about a site that was two-thirds missing. This job asserts that what is
+  # actually published matches what is in the repository.
+  check-freshness:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compare published resources against the repository
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          expected="$(find src/content/resources -name '*.md' -type f | wc -l | tr -d ' ')"
+          echo "Resources in repo: $expected"
+
+          # Follow the sitemap index so this keeps working if @astrojs/sitemap
+          # ever splits output across more than one file.
+          index="$(curl --location --silent --show-error --max-time 30 https://marlbridge.com/sitemap-index.xml)"
+          sitemaps="$(printf '%s' "$index" | grep -oE '<loc>[^<]+</loc>' | sed -E 's|</?loc>||g')"
+
+          published=0
+          for sm in $sitemaps; do
+            n="$(curl --location --silent --show-error --max-time 30 "$sm" \
+              | grep -oE '<loc>https://marlbridge\.com/resources/[^<]+/</loc>' \
+              | grep -cv '<loc>https://marlbridge\.com/resources/</loc>' || true)"
+            published=$(( published + n ))
+          done
+          echo "Resources live:    $published"
+
+          if [ "$published" -lt "$expected" ]; then
+            echo
+            echo "::error::Production is STALE. $expected resources are committed to main but only $published are live ($(( expected - published )) missing)."
+            echo "Check Cloudflare Pages -> Deployments for a failed or skipped build."
+            exit 1
+          fi
+
+          echo "Production is in step with main."
