@@ -52,15 +52,29 @@ const subjectTitles = Object.fromEntries(
         </section>
       )}
 
-      {types.map(([slug, meta]) => byType[slug].length > 0 && (
+      {/* v1.x CLOSURE WS6 -- every type gets a real section with a real id,
+          even at zero resources, so the "Browse by type" card above never
+          links to a fragment that doesn't exist on the page. A zero-count
+          type gets a truthful "in development" state instead of vanishing,
+          per the approved resource-category rule: visible, but never
+          implying material exists that doesn't. */}
+      {types.map(([slug, meta]) => (
         <section id={slug} aria-labelledby={`${slug}-heading`} class="mt-[clamp(48px,6vw,80px)] scroll-mt-24 border-t border-rule pt-8">
           <h2 id={`${slug}-heading`} class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{meta.title}</h2>
           <p class="m-0 mb-6 max-w-[60ch] text-[16px] leading-[1.6] text-ink-mute">{meta.description}</p>
-          <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-            {byType[slug].map((entry) => (
-              <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitles[entry.id]} /></li>
-            ))}
-          </ul>
+          {byType[slug].length > 0 ? (
+            <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+              {byType[slug].map((entry) => (
+                <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitles[entry.id]} /></li>
+              ))}
+            </ul>
+          ) : (
+            <div class="max-w-[56ch] border border-rule bg-ivory p-[clamp(24px,3vw,40px)]">
+              <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">In development</p>
+              <h3 class="m-0 mt-2 text-[19px] font-semibold text-navy-800">No {meta.title.toLowerCase()} published yet</h3>
+              <p class="m-0 mt-3 text-[15.5px] leading-[1.65] text-ink-mute">Marlbridge is actively writing this category. None are published for this type yet -- nothing here is a placeholder standing in for real material.</p>
+            </div>
+          )}
         </section>
       ))}
 
