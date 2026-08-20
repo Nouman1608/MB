@@ -1,3 +1,6 @@
+import editorialBand from '../assets/editorial-band.jpg';
+import academyPortrait from '../assets/academy-portrait.jpg';
+
 export const site = {
   name: 'Marlbridge',
   tagline: 'Bridging Knowledge and Opportunity.',
@@ -53,13 +56,22 @@ export const site = {
     siteKey: '0x4AAAAAAEUSRy7-wI4BXSlD' as string | undefined,
   },
 
+  /**
+   * v1.x CLOSURE WS7 -- editorial (non-documentary) imagery, replacing the
+   * "photograph not yet available" placeholders until real photography
+   * exists. Code-generated abstract/geometric art in the site's own
+   * palette, not a photo of any real class, campus, teacher or student --
+   * alt text says exactly that, honestly, rather than implying a real
+   * photograph. Swap these for genuine photography (see the comment
+   * above) whenever it becomes available; no template change needed.
+   */
   academyPhoto: {
-    image: undefined as ImageMetadata | undefined,
-    alt: 'Teaching at Learners Academy',
+    image: academyPortrait as ImageMetadata | undefined,
+    alt: 'Abstract editorial graphic in the Marlbridge colour palette -- not a photograph of an actual Learners Academy classroom or person',
   },
   classroomPhoto: {
-    image: undefined as ImageMetadata | undefined,
-    alt: 'A Marlbridge classroom during a lesson',
+    image: editorialBand as ImageMetadata | undefined,
+    alt: 'Abstract editorial graphic in the Marlbridge colour palette -- not a photograph of an actual Marlbridge lesson or classroom',
   },
 } as const;
 

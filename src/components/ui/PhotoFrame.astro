@@ -5,7 +5,13 @@ import { Picture } from 'astro:assets';
  * One frame for editorial photography, at a FIXED aspect ratio so a real
  * photograph drops in without changing the layout.
  * - image supplied  → responsive AVIF/WebP <picture>, lazy by default
- * - image absent    → a clearly marked reserved frame (never stock, never AI)
+ * - image absent    → a clearly marked reserved frame (never stock photography)
+ *
+ * v1.x CLOSURE WS7 -- "image supplied" now also covers code-generated
+ * editorial/abstract graphics (no diffusion model, no photorealism, never
+ * depicting a real person/place) used as an honest stand-in until real
+ * photography exists -- see site.ts's academyPhoto/classroomPhoto comment
+ * and their alt text, which says plainly that it is not a photograph.
  */
 interface Props {
   image?: ImageMetadata;
