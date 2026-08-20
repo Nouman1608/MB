@@ -9,16 +9,23 @@
  * rules are unambiguous, and Cloudflare evaluates static rules first.
  *
  * The legacy URL shapes this covers:
- *   /resources/<any-type>/<slug>/  -> /resources/<slug>/    (flattened URLs)
- *   /resources/<type>/             -> /resources/#<type>    (removed category indexes)
- *   /learning/<slug>/              -> /articles/<slug>/     (section rename)
+ *   /resources/<type>/<slug>/  -> /resources/<slug>/    (flattened URLs, own type only)
+ *   /resources/<type>/         -> /resources/#<type>    (removed category indexes)
+ *   /learning/<slug>/          -> /articles/<slug>/     (section rename)
  *
- * Every resource is emitted against EVERY known type, not just its own, so a
- * stale or wrong type segment still lands on the resource itself.
+ * Each resource is emitted only against its OWN current `resourceType`, not
+ * all seven known types. Enumerating every type for every resource was
+ * generating six redundant, never-linked rules per resource (no resource
+ * has ever been served, or linked externally, under a type it isn't
+ * currently tagged with) and put the file on a path toward Cloudflare's
+ * ~2,100-line ceiling by ~300 resources. If a resource's `resourceType` is
+ * later changed, add its old type -> new-slug pair to
+ * TYPE_CHANGED_RESOURCES below (same pattern as CONSOLIDATED_RESOURCES) so
+ * the stale link keeps redirecting — same discipline as a slug rename.
  *
  * Run: npm run generate:redirects  (build does this automatically)
  */
-import { readdir, writeFile } from 'node:fs/promises';
+import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
 const RESOURCE_TYPES = [
@@ -51,11 +58,34 @@ const CONSOLIDATED_RESOURCES = {
   'atoms-elements-and-compounds': 'atomic-structure',
 };
 
+/**
+ * Resources whose `resourceType` frontmatter has changed since publication.
+ * Add an entry here whenever a resource's type is reclassified, so a link
+ * or bookmark using the old type-prefixed URL keeps 301-redirecting to the
+ * (still-flat) resource URL. Shape: slug -> array of retired type values.
+ * Empty until the first reclassification happens.
+ */
+const TYPE_CHANGED_RESOURCES = {};
+
 const slugsIn = async (dir) =>
   (await readdir(dir)).filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, ''));
 
 const resources = await slugsIn('src/content/resources');
 const articles = await slugsIn('src/content/articles');
+
+/** Read each resource's current `resourceType` straight out of its frontmatter. */
+const resourceTypeOf = async (slug) => {
+  const raw = await readFile(join('src/content/resources', `${slug}.md`), 'utf8');
+  const match = raw.match(/^resourceType:\s*"([^"]+)"/m);
+  if (!match) {
+    throw new Error(`${slug}.md has no resourceType frontmatter field`);
+  }
+  return match[1];
+};
+
+const resourceTypes = new Map(
+  await Promise.all(resources.map(async (slug) => [slug, await resourceTypeOf(slug)]))
+);
 
 const pad = (s) => (s.length >= 57 ? s + '  ' : s.padEnd(58, ' '));
 const lines = [
@@ -66,7 +96,9 @@ const lines = [
 ];
 
 for (const slug of resources.sort()) {
-  for (const type of RESOURCE_TYPES) {
+  const ownType = resourceTypes.get(slug);
+  const retiredTypes = TYPE_CHANGED_RESOURCES[slug] ?? [];
+  for (const type of [ownType, ...retiredTypes]) {
     lines.push(`${pad(`/resources/${type}/${slug}/`)}/resources/${slug}/  301`);
   }
 }
@@ -95,4 +127,5 @@ lines.push(`${pad('/learning/*')}/articles/:splat  301`);
 
 const out = lines.join('\n') + '\n';
 await writeFile(join('public', '_redirects'), out, 'utf8');
-console.log(`_redirects written — ${resources.length * RESOURCE_TYPES.length} resource rules, ${RESOURCE_TYPES.length} type rules, ${articles.length + 1} article rules.`);
+const resourceRuleCount = resources.length + Object.values(TYPE_CHANGED_RESOURCES).reduce((n, arr) => n + arr.length, 0);
+console.log(`_redirects written — ${resourceRuleCount} resource rules, ${RESOURCE_TYPES.length} type rules, ${articles.length + 1} article rules, ${lines.length} lines total.`);
