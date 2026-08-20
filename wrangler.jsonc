@@ -1,0 +1,26 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "mb",
+  "main": "src/worker/index.ts",
+  "compatibility_date": "2026-08-15",
+
+  // Static output from `npm run build` (Astro, output: 'static').
+  //
+  // `not_found_handling: "404-page"` makes Cloudflare serve dist/404.html
+  // with a real 404 status for unknown paths. Before this, an unmatched
+  // URL returned an entirely empty body — no nav, no recovery link.
+  //
+  // The Worker in `main` only runs when no static asset matches the
+  // request, which is exactly the behaviour /api/enquiry needs: every
+  // real page is served straight from the asset store without invoking
+  // the Worker at all.
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page"
+  },
+
+  "observability": {
+    "enabled": true
+  }
+}
