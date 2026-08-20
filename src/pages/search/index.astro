@@ -1,0 +1,35 @@
+---
+/**
+ * v1.x CLOSURE -- site search.
+ *
+ * Uses Pagefind (https://pagefind.app), a static-search index built from
+ * the production HTML after `astro build` via the `postbuild` npm script
+ * (`pagefind --site dist --output-subdir pagefind`). Pagefind's own UI
+ * bundle is emitted to /pagefind/pagefind-ui.js and /pagefind/pagefind-ui.css
+ * at build time -- it does not exist in `astro dev`, only after a real
+ * build/preview, which matches how every other static-search integration
+ * for Astro works. No third-party search service or API key is involved;
+ * everything runs client-side against the generated index.
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+---
+<BaseLayout title="Search" description="Search Marlbridge for boards, qualifications, subjects, resources and articles." path="/search/">
+  <Section>
+    <Container>
+      <h1 class="m-0 mb-6 text-[28px] font-semibold text-navy-900">Search Marlbridge</h1>
+      <div id="pagefind-search"></div>
+      <noscript><p>Search requires JavaScript. Please use the site navigation instead.</p></noscript>
+    </Container>
+  </Section>
+</BaseLayout>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', function () {
+    if (typeof PagefindUI === 'undefined') return;
+    new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false });
+  });
+</script>

@@ -33,9 +33,11 @@ const columns = [
         <ul class="m-0 flex list-none flex-col gap-0.5 p-0">
           {locales.map((l) => (
             <li>
-              {l.enabled
+              {l.code === 'en'
                 ? <span aria-current="true" class="block py-2 text-[15px] text-white">{l.label}</span>
-                : <span class="block py-2 text-[15px] text-[#6E7D93]">{l.label} — not yet available</span>}
+                : l.enabled
+                  ? <a href={l.href} class="block py-2 text-[15px] text-on-navy hover:text-white">{l.label}</a>
+                  : <span class="block py-2 text-[15px] text-[#6E7D93]">{l.label} — not yet available</span>}
             </li>
           ))}
         </ul>

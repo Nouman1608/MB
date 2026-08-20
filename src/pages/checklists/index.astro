@@ -1,0 +1,57 @@
+---
+/**
+ * v1.x CLOSURE -- Printable syllabus checklists index.
+ *
+ * Lists one checklist per board+qualification+subject that has a VERIFIED
+ * topic taxonomy in src/data/academic/syllabus-topics.ts (SYLLABUS_VERSIONS).
+ * Combinations without verified topic-level data are not listed here rather
+ * than being given a fabricated or empty checklist -- same honesty pattern
+ * used across the rest of the academic system.
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { SYLLABUS_VERSIONS } from '../../data/academic/syllabus-topics';
+import { boardBySlug } from '../../data/academic/boards';
+import { qualificationBySlug } from '../../data/academic/qualifications';
+import { subjectBySlug } from '../../data/academic/subjects';
+import { activeOnly } from '../../utils/academic';
+
+// Only list a checklist where the board+qualification+subject combination is
+// itself an active, publishable Marlbridge offering -- a verified syllabus
+// taxonomy alone isn't enough; it must also be a combination Marlbridge
+// actually teaches today.
+const activeKeys = new Set(activeOnly().map((c) => `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`));
+
+const rows = SYLLABUS_VERSIONS
+  .filter((v) => v.status === 'current')
+  .filter((v) => activeKeys.has(`${v.boardSlug}/${v.qualificationSlug}/${v.subjectSlug}`))
+  .map((v) => ({
+    board: boardBySlug(v.boardSlug)?.name ?? v.boardSlug,
+    qualification: qualificationBySlug(v.qualificationSlug)?.name ?? v.qualificationSlug,
+    subject: subjectBySlug(v.subjectSlug)?.name ?? v.subjectSlug,
+    syllabusCode: v.syllabusCode,
+    href: `/checklists/${v.boardSlug}/${v.qualificationSlug}/${v.subjectSlug}/`,
+  }))
+  .sort((a, b) => a.board.localeCompare(b.board) || a.subject.localeCompare(b.subject));
+---
+<BaseLayout title="Printable syllabus checklists" description="Printable, topic-by-topic revision checklists sourced directly from the official awarding-body syllabus for each board, qualification and subject Marlbridge teaches." path="/checklists/">
+  <Section>
+    <Container>
+      <h1 class="m-0 mb-3 text-[32px] font-semibold text-navy-900">Printable syllabus checklists</h1>
+      <p class="m-0 mb-8 max-w-[65ch] text-[16px] leading-relaxed text-ink-mute">
+        Every checklist below is built directly from the topic list published in the official awarding-body
+        syllabus -- nothing is summarised or invented. Open a checklist and use your browser's print function
+        to produce a paper copy for revision.
+      </p>
+      <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {rows.map((r) => (
+          <li class="rounded-sm border border-navy-rule p-4">
+            <a href={r.href} class="text-[15px] font-medium text-navy-900 hover:underline">{r.board} {r.qualification} {r.subject}</a>
+            <p class="m-0 mt-1 text-[13px] text-ink-mute">Syllabus {r.syllabusCode}</p>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+</BaseLayout>

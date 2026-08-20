@@ -1,0 +1,86 @@
+---
+/**
+ * v1.x CLOSURE -- Printable syllabus checklist detail page.
+ *
+ * Renders ONLY the topics/subtopics present in SYLLABUS_VERSIONS for this
+ * exact board+qualification+subject -- the same verified taxonomy used on
+ * the academic hub pages (src/pages/boards/[board]/[qualification]/[subject].astro).
+ * No topic, subtopic or numbering is invented here; anything not itemised
+ * in the source data is shown as an honest "not itemised in the published
+ * syllabus" note rather than papered over.
+ */
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Section from '../../../../components/layout/Section.astro';
+import Container from '../../../../components/layout/Container.astro';
+import { SYLLABUS_VERSIONS, topicsFor } from '../../../../data/academic/syllabus-topics';
+import { boardBySlug } from '../../../../data/academic/boards';
+import { qualificationBySlug } from '../../../../data/academic/qualifications';
+import { subjectBySlug } from '../../../../data/academic/subjects';
+import { activeOnly, academicHubPath } from '../../../../utils/academic';
+
+export async function getStaticPaths() {
+  const activeKeys = new Set(activeOnly().map((c) => `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`));
+  return SYLLABUS_VERSIONS
+    .filter((v) => v.status === 'current')
+    .filter((v) => activeKeys.has(`${v.boardSlug}/${v.qualificationSlug}/${v.subjectSlug}`))
+    .map((v) => ({
+      params: { board: v.boardSlug, qualification: v.qualificationSlug, subject: v.subjectSlug },
+    }));
+}
+
+const { board, qualification, subject } = Astro.params as { board: string; qualification: string; subject: string };
+const version = topicsFor(board, qualification, subject);
+if (!version) throw new Error(`No syllabus version for ${board}/${qualification}/${subject}`);
+
+const boardName = boardBySlug(board)?.name ?? board;
+const qualificationName = qualificationBySlug(qualification)?.name ?? qualification;
+const subjectName = subjectBySlug(subject)?.name ?? subject;
+const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualification, subjectSlug: subject } as any);
+---
+<BaseLayout
+  title={`${boardName} ${qualificationName} ${subjectName} — printable checklist`}
+  description={`Printable topic-by-topic revision checklist for ${boardName} ${qualificationName} ${subjectName}, syllabus ${version.syllabusCode} (${version.syllabusSeries}).`}
+  path={`/checklists/${board}/${qualification}/${subject}/`}
+>
+  <Section>
+    <Container>
+      <div class="mb-6 flex flex-wrap items-center justify-between gap-4 print:hidden">
+        <a href={hubHref} class="text-[14px] text-ink-mute hover:text-navy-900">&larr; Back to {subjectName} hub</a>
+        <button type="button" onclick="window.print()" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[14.5px] font-medium text-ivory hover:bg-navy-700">Print this checklist</button>
+      </div>
+
+      <h1 class="m-0 mb-1 text-[28px] font-semibold text-navy-900">{boardName} {qualificationName} {subjectName}</h1>
+      <p class="m-0 mb-8 text-[14px] text-ink-mute">
+        Syllabus {version.syllabusCode} &middot; {version.syllabusSeries} &middot; sourced from
+        {' '}<a href={version.sourceUrl} class="underline decoration-gold-500 underline-offset-2">{version.source}</a>,
+        verified {version.verifiedDate}.
+      </p>
+
+      <ol class="m-0 list-none space-y-8 p-0">
+        {version.topics.map((topic) => (
+          <li>
+            <h2 class="m-0 mb-3 text-[18px] font-semibold text-navy-900">{topic.number}. {topic.name}{topic.stage ? ` (${topic.stage})` : ''}</h2>
+            {topic.subtopics.length > 0 ? (
+              <ul class="m-0 grid gap-2 p-0 sm:grid-cols-2">
+                {topic.subtopics.map((s) => (
+                  <li class="flex items-start gap-2 text-[14.5px] text-ink-mute">
+                    <span class="mt-0.5 h-4 w-4 shrink-0 rounded-sm border border-navy-rule print:border-black" aria-hidden="true"></span>
+                    <span>{s.number} {s.name}{s.tier ? ` — ${s.tier}` : ''}</span>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p class="m-0 text-[14px] italic text-ink-mute">Subtopic-level detail for this topic is not yet itemised from the published syllabus.</p>
+            )}
+          </li>
+        ))}
+      </ol>
+    </Container>
+  </Section>
+</BaseLayout>
+
+<style>
+  @media print {
+    :global(header), :global(footer), :global([data-consent-banner]) { display: none !important; }
+  }
+</style>

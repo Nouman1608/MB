@@ -3,6 +3,7 @@ import { site } from '../../data/site';
 import { absoluteUrl, pageTitle, type SeoProps } from '../../utils/seo/meta';
 import { siteGraph, webPageNode } from '../../utils/schema/organization';
 import { breadcrumbNode } from '../../utils/schema/breadcrumb';
+import { locales } from '../../data/navigation';
 
 type Props = SeoProps & { isHome?: boolean };
 const {
@@ -25,6 +26,13 @@ const graph = [
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
 {noindex && <meta name="robots" content="noindex, follow" />}
+{/* v1.x CLOSURE WS5 -- the homepage is the only English page with real
+    translated counterparts (see src/pages/{ar,ur,bn}/index.astro), so
+    hreflang alternates are only emitted here rather than on every page. */}
+{isHome && locales.filter((l) => l.enabled && l.code !== 'en').map((l) => (
+  <link rel="alternate" hreflang={l.code} href={absoluteUrl(l.href)} />
+))}
+{isHome && <link rel="alternate" hreflang="x-default" href={absoluteUrl('/')} />}
 
 <meta property="og:type" content={type} />
 <meta property="og:site_name" content={site.name} />

@@ -17,6 +17,7 @@ export const routes = {
   author: (id: string) => `/authors/${id}/`,
   tutoring: '/tutoring/',
   pricing: '/pricing/',
+  checklists: '/checklists/',
   schools: '/schools/',
   about: '/about/',
   contact: '/contact/',

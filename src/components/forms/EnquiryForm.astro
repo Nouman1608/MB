@@ -129,6 +129,12 @@ const turnstileSiteKey = site.turnstile.siteKey;
       if (result.ok) {
         status.textContent = 'Thank you — your enquiry has been sent. We will reply by email.';
         status.className = 'sm:col-span-2 mt-2 rounded-sm border border-[#B9D3C6] bg-[#F1F7F4] p-4 text-[15px] text-success';
+        // GA4 key event -- see docs/decision-log.md D-003 (consent-gated gtag defined in
+        // ConsentAnalytics.astro). Only fires downstream once the visitor has granted
+        // analytics consent; gtag queues safely if window.gtag is undefined.
+        (window as any).gtag?.('event', 'generate_lead', {
+          enquiry_kind: (form.dataset.kind as EnquiryKind) ?? 'student',
+        });
         form.reset();
       } else {
         status.textContent = result.message ?? 'Your enquiry could not be sent.';

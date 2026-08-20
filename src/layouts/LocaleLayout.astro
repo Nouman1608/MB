@@ -1,0 +1,78 @@
+---
+/**
+ * v1.x CLOSURE WS5 -- minimal standalone layout for the /ar/, /ur/, /bn/
+ * translated commercial landing pages.
+ *
+ * Deliberately does NOT reuse BaseLayout: BaseLayout hardcodes
+ * `<html lang="en" dir="ltr">` and its Header/Footer are English
+ * navigation into hundreds of dynamic English pages, which would be
+ * misleading stitched onto a translated page. This layout sets the
+ * correct lang/dir for the locale, keeps the same fonts/consent
+ * analytics/brand mark, and gives a short way back to the English site
+ * plus the switcher between the three translated locales.
+ */
+import '../styles/global.css';
+import '../styles/fonts.css';
+import ConsentAnalytics from '../components/analytics/ConsentAnalytics.astro';
+import { locales } from '../data/navigation';
+import { site } from '../data/site';
+import type { LocaleCopy } from '../i18n/copy';
+
+interface Props {
+  copy: LocaleCopy;
+  path: string;
+}
+const { copy, path } = Astro.props;
+const canonical = new URL(path, site.url).toString();
+---
+<!doctype html>
+<html lang={copy.htmlLang} dir={copy.dir}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/images/brand/marlbridge-emblem-disc.svg" />
+    <title>{copy.title}</title>
+    <meta name="description" content={copy.description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" hreflang="en" href={new URL('/', site.url).toString()} />
+    {locales.filter((l) => l.code !== 'en').map((l) => (
+      <link rel="alternate" hreflang={l.code} href={new URL(l.href, site.url).toString()} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={new URL('/', site.url).toString()} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={site.name} />
+    <meta property="og:locale" content={copy.htmlLang} />
+    <meta property="og:title" content={copy.title} />
+    <meta property="og:description" content={copy.description} />
+    <meta property="og:url" content={canonical} />
+    <link rel="preload" href="/fonts/public-sans-latin-400.woff2" as="font" type="font/woff2" crossorigin />
+  </head>
+  <body class="bg-ivory text-ink">
+    <header class="border-b border-navy-rule px-[var(--spacing-gutter)] py-5">
+      <div class="mx-auto flex max-w-[var(--container-site)] items-center justify-between gap-4">
+        <a href="/" class="text-[17px] font-semibold text-navy-900">Marlbridge</a>
+        <nav aria-label="Language" class="flex gap-4 text-[14px]">
+          {locales.filter((l) => l.enabled).map((l) => (
+            <a href={l.href} class={l.href === path ? 'font-semibold text-navy-900' : 'text-ink-mute hover:text-navy-900'}>{l.label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+
+    <div role="note" class="border-b border-[#E3BDBD] bg-[#FBF2F2] px-[var(--spacing-gutter)] py-3 text-center text-[13.5px] text-[#7A3B3B]">
+      {copy.reviewBanner}
+    </div>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer class="border-t border-navy-rule bg-navy-900 px-[var(--spacing-gutter)] py-8 text-on-navy">
+      <div class="mx-auto flex max-w-[var(--container-site)] flex-wrap items-center justify-between gap-4">
+        <a href="/" class="text-[14.5px] underline decoration-gold-500 underline-offset-2">{copy.englishSiteLink}</a>
+        <p class="m-0 text-[13.5px] text-[#6E7D93]">© 2026 Marlbridge</p>
+      </div>
+    </footer>
+    <ConsentAnalytics />
+  </body>
+</html>
