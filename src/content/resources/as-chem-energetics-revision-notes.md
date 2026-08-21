@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Energetics and Hess\u2019s Law: Revision Notes"
+title: "AS Chemistry: Energetics and Hess\u2019s Law — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Atomic Structure and Ionisation Energy: Revision Notes"
+title: "AS Chemistry: Atomic Structure and Ionisation Energy — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

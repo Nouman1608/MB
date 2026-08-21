@@ -1,5 +1,5 @@
 ---
-title: "A Level Physics: Nuclear Physics: Revision Notes"
+title: "A Level Physics: Nuclear Physics — Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

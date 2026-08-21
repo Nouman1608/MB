@@ -1,5 +1,5 @@
 ---
-title: "A Level Physics: Oscillations: Revision Notes"
+title: "A Level Physics: Oscillations — Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Cambridge A Level English Language 9093: Paper 1: Revision Notes"
+title: "Cambridge A Level English Language 9093: Paper 1 — Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

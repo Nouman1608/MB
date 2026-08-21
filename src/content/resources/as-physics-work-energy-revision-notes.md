@@ -1,5 +1,5 @@
 ---
-title: "AS Physics: Work, Energy and Power: Revision Notes"
+title: "AS Physics: Work, Energy and Power — Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Organic Chemistry: Formulae and Naming: Revision Notes"
+title: "Organic Chemistry: Formulae and Naming — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["igcse","o-levels"]

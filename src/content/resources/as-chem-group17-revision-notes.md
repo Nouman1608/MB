@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Group 17 — The Halogens: Revision Notes"
+title: "AS Chemistry: Group 17 — The Halogens — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "AQA A-Level English Language 7702: Paper 1: Revision Notes"
+title: "AQA A-Level English Language 7702: Paper 1 — Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

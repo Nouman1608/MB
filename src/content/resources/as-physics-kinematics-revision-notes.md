@@ -1,5 +1,5 @@
 ---
-title: "AS Physics: Kinematics and Equations of Motion: Revision Notes"
+title: "AS Physics: Kinematics and Equations of Motion — Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

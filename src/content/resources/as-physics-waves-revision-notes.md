@@ -1,5 +1,5 @@
 ---
-title: "AS Physics: Waves: Revision Notes"
+title: "AS Physics: Waves — Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

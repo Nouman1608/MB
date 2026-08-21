@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Shapes of Molecules and Intermolecular Forces: Revision Notes"
+title: "AS Chemistry: Shapes of Molecules and Intermolecular Forces — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

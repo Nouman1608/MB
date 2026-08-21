@@ -1,5 +1,5 @@
 ---
-title: "Urdu Paper 1: Reading and Writing: Revision Notes"
+title: "Urdu Paper 1: Reading and Writing — Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

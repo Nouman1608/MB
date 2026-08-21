@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Nitrogen and Sulfur: Revision Notes"
+title: "AS Chemistry: Nitrogen and Sulfur — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

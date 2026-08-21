@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Chemical Equilibria: Revision Notes"
+title: "AS Chemistry: Chemical Equilibria — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

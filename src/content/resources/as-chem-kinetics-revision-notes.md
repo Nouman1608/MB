@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Reaction Kinetics: Revision Notes"
+title: "AS Chemistry: Reaction Kinetics — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

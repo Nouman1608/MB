@@ -1,5 +1,5 @@
 ---
-title: "The Periodic Table: Groups and Trends: Revision Notes"
+title: "The Periodic Table: Groups and Trends — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["igcse","o-levels"]
