@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Organic Synthesis Routes: Revision Notes"
+title: "AS Chemistry: Organic Synthesis Routes — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]
