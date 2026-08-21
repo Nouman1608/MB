@@ -78,3 +78,70 @@ distinguishes higher-mark answers.
 
 OCR A Level Business (H431) specification —
 [ocr.org.uk](https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf).
+
+## From mission to tactics
+
+Strategic decisions cascade. **Mission** states purpose; **corporate objectives** set measurable targets; **strategy** is the long-term plan for reaching them; **tactics** are the short-term actions within the strategy.
+
+Objectives should be SMART, and they shift with circumstance: survival dominates in a downturn, growth in an expanding market, profit maximisation in a mature one. **Corporate social responsibility** objectives may reduce short-run profit while protecting long-run reputation and licence to operate.
+
+## Analysing the position
+
+**SWOT** organises internal strengths and weaknesses against external opportunities and threats — the discipline is keeping internal and external factors on the correct side.
+
+**Porter's Five Forces** assesses industry attractiveness: rivalry among existing firms, threat of new entrants, threat of substitutes, bargaining power of buyers, bargaining power of suppliers. High forces mean low profitability, which explains why firms build barriers to entry.
+
+**Ansoff's Matrix** maps growth options by risk:
+
+| | Existing product | New product |
+|---|---|---|
+| **Existing market** | Market penetration (lowest risk) | Product development |
+| **New market** | Market development | Diversification (highest risk) |
+
+## Strategic choice
+
+**Porter's generic strategies** — cost leadership, differentiation, and focus applied to either — with the warning that a firm attempting both cost leadership and differentiation risks being "stuck in the middle", competitive on neither.
+
+**Decision trees** quantify choices under risk:
+
+```
+expected value = sum of (probability x payoff)
+net gain       = expected value - cost of the option
+```
+
+Their limitation is that probabilities are estimates, payoffs are forecasts, and neither captures qualitative factors such as reputation or staff morale.
+
+**Investment appraisal** uses payback period, average rate of return and net present value, the last discounting future cash flows to reflect the time value of money.
+
+## Implementation, change and risk
+
+Strategy fails more often in execution than in design. **Resistance to change** arises from fear of job loss, loss of status, inertia and poor communication. Kotter and Schlesinger's responses — education, participation, facilitation, negotiation, manipulation, coercion — should be matched to the cause of resistance rather than applied indiscriminately.
+
+**Contingency planning** and crisis management prepare for low-probability, high-impact events. **Business continuity** focuses on maintaining critical operations through disruption.
+
+## Worked example
+
+A firm considers launching a new product. Success (60%) yields $800,000; failure (40%) yields $200,000. Development costs $300,000.
+
+```
+Expected value = (0.6 x 800 000) + (0.4 x 200 000)
+               = 480 000 + 80 000
+               = $560 000
+
+Net gain       = 560 000 - 300 000 = $260 000
+```
+
+The positive net gain supports proceeding — but the evaluation marks come from the caveats: the probabilities are estimates, a $200,000 outcome may still threaten liquidity, and the figures ignore the opportunity cost of the $300,000.
+
+## Common mistakes
+
+Placing external factors under strengths or weaknesses in a SWOT. Confusing strategy with tactics. Recommending diversification without acknowledging it is the highest-risk quadrant. Calculating expected value and stopping, with no evaluation of the estimates. Listing Kotter and Schlesinger's approaches without matching them to the specific cause of resistance.
+
+## Quick revision checklist
+
+- Distinguish mission, objectives, strategy and tactics, and explain how objectives shift.
+- Apply SWOT correctly and use Porter's Five Forces to judge industry attractiveness.
+- Use Ansoff's Matrix and rank the four options by risk.
+- Explain Porter's generic strategies and the "stuck in the middle" risk.
+- Calculate expected values and appraise investments, then evaluate the assumptions.
+- Explain causes of resistance to change and match responses to causes.

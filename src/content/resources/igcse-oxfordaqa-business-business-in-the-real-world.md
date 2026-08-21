@@ -59,3 +59,68 @@ practice questions on this topic area.
 
 OxfordAQA International GCSE Business (9225) qualification page —
 [oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-gcse-business/).
+
+## Purpose and activity
+
+Businesses exist to satisfy needs and wants by combining the **factors of production** — land, labour, capital and enterprise — and adding value in the process. **Added value** is the difference between the cost of bought-in inputs and the selling price, raised by branding, quality, convenience, design and service.
+
+Activity is classified by sector: **primary** (extraction and farming), **secondary** (manufacturing and construction), **tertiary** (services). Economies typically shift from primary towards tertiary as they develop.
+
+**Entrepreneurs** organise production and bear risk, motivated by profit, independence, a gap in the market or a social aim. Business failure is common, most often through poor cash flow, inadequate research or over-expansion.
+
+## Ownership
+
+| Form | Liability | Points to know |
+|---|---|---|
+| Sole trader | Unlimited | Easy to set up, keeps all profit, limited capital, no continuity |
+| Partnership | Usually unlimited | More capital and expertise, shared profit, risk of disagreement |
+| Private limited (Ltd) | Limited | Shares sold privately, more capital, must publish accounts |
+| Public limited (plc) | Limited | Shares publicly traded, large capital, takeover risk |
+| Franchise | Depends on form | Proven brand and support, but fees and little independence |
+
+**Limited liability** — the shareholder can lose only the amount invested — is the concept the topic turns on, and it is what makes outside investment possible.
+
+## Objectives, stakeholders and location
+
+Objectives change with circumstances: **survival** for a start-up, then profit, growth, market share, or social and environmental goals. They conflict — growth consumes cash, ethical sourcing raises costs.
+
+Stakeholders (owners, employees, customers, suppliers, government, community) have competing interests, and most extended questions ask you to weigh them.
+
+**Location** depends on proximity to market, to raw materials, to labour, on transport links, on rent and on government incentives. The dominant factor differs by business: a bakery follows its market, a steel plant follows bulky raw materials.
+
+## Growth and the economic context
+
+Growth may be **internal** (organic, from reinvested profit — slower but controlled) or **external** (merger or takeover — faster but risks culture clash and integration failure). External growth is further classified as horizontal, vertical (forward or backward) or conglomerate.
+
+The external environment includes interest rates (borrowing and consumer spending), exchange rates (import costs, export competitiveness), inflation, unemployment, legislation and technology.
+
+## Worked example
+
+A sole trader wants to expand but lacks capital. Evaluate becoming a private limited company.
+
+```
+FOR      limited liability protects personal assets
+         can raise capital by selling shares to family and investors
+         greater credibility with suppliers and lenders
+         continuity -- the business survives the owner
+
+AGAINST  must publish accounts, so less privacy
+         formation costs and legal formalities
+         profits shared with other shareholders
+         some loss of complete control
+```
+
+The judgement should turn on how much capital is needed and how much control the owner is willing to give up.
+
+## Common mistakes
+
+Saying limited liability means the business has limited debts. Treating added value as profit — it ignores overheads. Confusing horizontal with vertical integration. Listing stakeholders without explaining conflicting interests. Giving location factors generically rather than deciding which dominates for the business in the case.
+
+## Quick revision checklist
+
+- Define added value, calculate it, and explain how to increase it.
+- Classify business activity by sector and explain the shift as economies develop.
+- Compare all forms of ownership, focusing on liability, capital and control.
+- Explain how objectives change with circumstances and why they conflict.
+- Decide which location factor dominates for a given business.
+- Distinguish internal from external growth and classify integration types.
