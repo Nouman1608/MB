@@ -63,3 +63,61 @@ accurately.
 
 Cambridge IGCSE Statistics (0479) syllabus for examination in 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718153-2027-syllabus.pdf).
+
+## Types of data
+
+**Qualitative** data describes a quality and cannot be measured numerically — eye colour, brand of car. **Quantitative** data is numerical, and divides further:
+
+- **Discrete** — takes only specific values, usually from counting. Number of children, shoe size.
+- **Continuous** — takes any value within a range, from measuring. Height, mass, time.
+
+Continuous data is always recorded to a degree of accuracy, so a height recorded as 168 cm lies in the interval 167.5 <= h < 168.5. Getting those class boundaries right is what makes later grouped calculations work.
+
+Data is **primary** if collected by the investigator for the purpose at hand, and **secondary** if it already exists. Primary data is relevant and its reliability is known, but it is slow and costly; secondary is quick and cheap but may be outdated, biased or collected for a different purpose.
+
+## Populations and sampling
+
+A **census** surveys every member of the population — completely accurate but expensive, slow, and impossible where testing destroys the item. A **sample** surveys part of it, and the method determines whether conclusions are valid.
+
+| Method | How it works | Weakness |
+|---|---|---|
+| Simple random | Every member equally likely, using random numbers | Needs a full sampling frame |
+| Systematic | Every nth member from a random start | Bias if the list has a pattern |
+| Stratified | Population split into groups, sampled in proportion | Strata must be known |
+| Quota | Interviewer fills set numbers per category | Not random, interviewer bias |
+| Opportunity | Whoever is available | Highly unrepresentative |
+
+Larger samples are more reliable but cost more. **Bias** arises from an incomplete sampling frame, non-response, leading questions, or self-selection.
+
+## Collecting data
+
+A good questionnaire uses clear, unambiguous language, avoids leading questions, provides response options that do not overlap and cover every possibility, and keeps sensitive questions to the end. A **pilot survey** tests it on a small group first, exposing ambiguous wording before the full survey runs.
+
+## Worked example
+
+A school of 900 students has 400 in Key Stage 3, 350 in Key Stage 4 and 150 in Key Stage 5. Take a stratified sample of 60.
+
+```
+Sampling fraction = 60 / 900 = 1/15
+
+KS3: 400 / 15 = 26.7  -> 27
+KS4: 350 / 15 = 23.3  -> 23
+KS5: 150 / 15 = 10    -> 10
+                        ---
+                        60
+```
+
+Round carefully so the parts still total 60 — a frequent source of a lost mark.
+
+## Common mistakes
+
+Classifying shoe size as continuous because sizes include halves — it is discrete, since only specific values occur. Writing overlapping classes such as 0–10 and 10–20. Describing a stratified sample as choosing equal numbers from each group rather than proportional numbers. Saying a larger sample removes bias — it reduces sampling error, but a biased method stays biased at any size. Forgetting to state the random element in systematic sampling.
+
+## Quick revision checklist
+
+- Classify data as qualitative or quantitative, discrete or continuous, primary or secondary.
+- State class boundaries for continuous data recorded to a given accuracy.
+- Compare census and sample, and describe each sampling method with its weakness.
+- Calculate a stratified sample, rounding so the totals agree.
+- Identify sources of bias and write unbiased questionnaire questions.
+- Explain the purpose of a pilot survey.

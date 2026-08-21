@@ -64,3 +64,60 @@ an estimate step by step rather than simply stating a number.
 
 OxfordAQA International AS & A-Level Physics specification PDF —
 [oxfordaqa.com](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-physics-specification.pdf).
+
+## Random and systematic error
+
+**Random errors** scatter readings unpredictably about the true value. They are reduced by repeating measurements and taking a mean.
+
+**Systematic errors** shift every reading in the same direction by the same amount or proportion — a balance not zeroed, a ruler with a worn end, a parallax error made consistently. Repeating does not help; only correcting the instrument or method does. A **zero error** is the most common systematic error and must be subtracted from every reading.
+
+## Precision and accuracy
+
+These are independent. **Precision** describes how closely repeated readings agree with one another; **accuracy** describes how close they are to the true value. A set of readings can be precise but inaccurate — tightly clustered around the wrong value — which is the signature of a systematic error.
+
+**Resolution** is the smallest change an instrument can detect. A metre rule reading to 1 mm has finer resolution than one reading to 1 cm, but resolution alone does not make a measurement accurate.
+
+## Uncertainty
+
+Absolute uncertainty in a single reading is usually taken as half the smallest scale division. For repeated readings, a common estimate is half the range:
+
+```
+uncertainty = (largest - smallest) / 2
+percentage uncertainty = (absolute uncertainty / value) x 100
+```
+
+Combining uncertainties:
+
+- **Adding or subtracting** quantities: add the *absolute* uncertainties.
+- **Multiplying or dividing**: add the *percentage* uncertainties.
+- **Raising to a power n**: multiply the percentage uncertainty by n.
+
+## Uncertainty on a graph
+
+Error bars show the uncertainty in each plotted point. Drawing the steepest and shallowest lines that still pass through all the error bars gives a maximum and minimum gradient, and the uncertainty in the gradient is half their difference.
+
+## Worked example
+
+A wire has length 0.850 m ± 0.001 m and diameter 0.36 mm ± 0.01 mm. Find the percentage uncertainty in the cross-sectional area.
+
+```
+Area A = pi d^2 / 4, so A depends on d squared.
+
+% uncertainty in d = (0.01 / 0.36) x 100 = 2.8%
+% uncertainty in A = 2 x 2.8% = 5.6%
+```
+
+The diameter dominates the uncertainty: the length is known to about 0.1%, so improving the ruler would be pointless while the micrometer reading is this uncertain. Identifying the dominant uncertainty is usually the mark-earning comment in an evaluation question.
+
+## Common mistakes
+
+Using precision and accuracy interchangeably. Adding percentage uncertainties when quantities are being added rather than multiplied — addition requires absolute uncertainties. Forgetting to double the percentage uncertainty for a squared quantity. Quoting a calculated answer to more significant figures than the least precise measurement justifies. Claiming repeats reduce systematic error.
+
+## Quick revision checklist
+
+- Distinguish random from systematic error and state how each is reduced.
+- Explain the difference between precision, accuracy and resolution.
+- Calculate absolute and percentage uncertainty from a set of repeated readings.
+- Combine uncertainties correctly for sums, products and powers.
+- Use error bars to find maximum and minimum gradients and quote an uncertainty in the gradient.
+- Identify which measurement dominates the overall uncertainty and justify the improvement that matters.

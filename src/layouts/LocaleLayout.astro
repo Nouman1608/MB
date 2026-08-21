@@ -17,6 +17,7 @@ import ConsentAnalytics from '../components/analytics/ConsentAnalytics.astro';
 import { locales } from '../data/navigation';
 import { site } from '../data/site';
 import type { LocaleCopy } from '../i18n/copy';
+import { siteGraph, webPageNode } from '../utils/schema/organization';
 
 interface Props {
   copy: LocaleCopy;
@@ -24,6 +25,14 @@ interface Props {
 }
 const { copy, path } = Astro.props;
 const canonical = new URL(path, site.url).toString();
+
+/**
+ * These three landing pages were the only pages on the site without
+ * structured data (481/484 had it). Same organization graph as every
+ * other page, so the locale pages resolve to the same entity rather than
+ * looking like an unrelated site.
+ */
+const jsonLd = [...siteGraph(), webPageNode(path, copy.title, copy.description)];
 ---
 <!doctype html>
 <html lang={copy.htmlLang} dir={copy.dir}>
@@ -46,6 +55,7 @@ const canonical = new URL(path, site.url).toString();
     <meta property="og:description" content={copy.description} />
     <meta property="og:url" content={canonical} />
     <link rel="preload" href="/fonts/public-sans-latin-400.woff2" as="font" type="font/woff2" crossorigin />
+    <script type="application/ld+json" is:inline set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonLd })} />
   </head>
   <body class="bg-ivory text-ink">
     <header class="border-b border-navy-rule px-[var(--spacing-gutter)] py-5">

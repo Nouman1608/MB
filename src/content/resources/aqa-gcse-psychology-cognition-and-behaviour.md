@@ -71,3 +71,69 @@ ask students to explain a change rather than just describe a stage.
 
 AQA GCSE Psychology (8182) specification, first teaching 2017 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification).
+
+## Memory
+
+Memory is processed in three stages — **encoding** (converting information into a usable form), **storage** (holding it), and **retrieval** (recovering it).
+
+The **multi-store model** (Atkinson and Shiffrin) proposes three stores:
+
+| Store | Encoding | Capacity | Duration |
+|---|---|---|---|
+| Sensory | Modality-specific | Very large | Under 2 seconds |
+| Short-term | Mainly acoustic | 5-9 items | About 18-30 seconds |
+| Long-term | Mainly semantic | Unlimited | Potentially a lifetime |
+
+Information passes from sensory to short-term through **attention**, and to long-term through **rehearsal**. The model is supported by studies of primacy and recency effects, but criticised for treating each store as single and unitary.
+
+**Types of long-term memory:** episodic (personal events), semantic (facts and knowledge), and procedural (skills, performed without conscious recall).
+
+Forgetting is explained by **interference** — proactive, where old learning disrupts new, and retroactive, where new disrupts old — and by **retrieval failure**, where cues present at encoding are absent at recall.
+
+## Perception
+
+Sensation is the raw data the senses receive; **perception** is the brain's interpretation of it. The two can differ, which is what visual illusions demonstrate.
+
+**Gibson's direct theory** argues perception is bottom-up: the visual array contains enough information, through motion parallax, texture gradient and optic flow, to perceive accurately without inference.
+
+**Gregory's constructivist theory** argues perception is top-down: the brain makes inferences using prior knowledge and expectation, which is why illusions such as the Ponzo and Müller-Lyer figures deceive us — the brain misapplies depth cues.
+
+Factors affecting perception include culture, motivation, emotion and expectation, illustrated by perceptual set.
+
+## Development and research methods
+
+Piaget proposed development in stages, with **schemas** modified through assimilation and accommodation. Key concepts include object permanence, egocentrism and conservation.
+
+Research methods run through the whole subject. Know experiments (laboratory, field, natural), observations, self-report through questionnaires and interviews, and correlation — and remember that correlation never establishes cause.
+
+Ethical requirements: informed consent, no deception, right to withdraw, protection from harm, confidentiality and debriefing.
+
+## Worked example
+
+A researcher finds a correlation of +0.8 between hours of revision and exam marks. What can and cannot be concluded?
+
+```
+CAN:    a strong positive relationship exists -- more revision is
+        associated with higher marks
+
+CANNOT: that revision CAUSES higher marks
+
+Alternative explanations:
+  - a third variable, such as motivation, may drive both
+  - the direction could reverse: confident students may revise more
+```
+
+"Correlation does not equal causation" alone will not score — naming a plausible third variable is what earns the mark.
+
+## Common mistakes
+
+Confusing sensation with perception. Mixing up proactive and retroactive interference. Describing Gibson's theory as top-down. Saying a correlation "proves" or "shows" an effect. Giving capacity and duration of the short-term store the wrong way round. Listing ethical issues without saying how each would be addressed.
+
+## Quick revision checklist
+
+- Describe the three memory processes and the multi-store model with capacity, duration and encoding for each store.
+- Distinguish episodic, semantic and procedural long-term memory.
+- Explain interference and retrieval failure as explanations of forgetting.
+- Compare Gibson's and Gregory's theories and explain a named illusion.
+- Outline Piaget's key concepts.
+- Identify research methods, evaluate them, and apply ethical guidelines.

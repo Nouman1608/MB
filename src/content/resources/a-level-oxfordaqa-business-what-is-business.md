@@ -64,3 +64,56 @@ across the whole qualification, not just this topic.
 OxfordAQA International AS & A-Level Business (9625) qualification
 page —
 [oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-as-a-level-business/).
+
+## The purpose of business
+
+A business exists to satisfy customer needs profitably, transforming inputs into outputs and **adding value** along the way. Value is added by branding, quality, convenience, speed, design and service — not only by charging more.
+
+Businesses are classified by sector (primary, secondary, tertiary), by ownership (private, public, not-for-profit), and by scale. Each classification changes the objectives that make sense: a charity measures success by impact, a start-up by survival, a mature plc by return to shareholders.
+
+## Mission, objectives and strategy
+
+**Mission** states why the business exists. **Corporate objectives** turn that into measurable targets — profit, growth, market share, diversification, survival. **Strategy** is the long-term plan for achieving them; **tactics** are the short-term actions within it.
+
+Objectives conflict routinely. Rapid growth consumes cash and can damage quality; cost minimisation conflicts with differentiation; ethical sourcing raises input prices. Which objective dominates depends on the business's stage, its market and the balance of stakeholder power.
+
+## Decision-making
+
+**Scientific decision-making** uses data and quantitative techniques — decision trees, investment appraisal, market research. It is evidence-based and defensible, but data may be incomplete, out of date or misleading, and it can be slow.
+
+**Intuitive decision-making** relies on experience and judgement. It is fast and works where data is absent, but is prone to bias and hard to justify to stakeholders.
+
+Most real decisions combine both. Evaluation questions reward recognising that the right balance depends on the risk, the time available and the quality of data.
+
+## Stakeholders and the external environment
+
+**Stakeholder mapping** by power and interest determines who must be managed closely and who merely kept informed. Conflicts between shareholders wanting dividends, employees wanting pay, and communities wanting environmental care are the substance of most essay questions.
+
+The external environment is analysed with **PESTLE**. Economic variables recur most: interest rates affect borrowing and consumer spending, exchange rates affect import costs and export competitiveness, inflation affects costs and wage demands, and the business cycle affects demand for luxury goods most sharply.
+
+## Worked example
+
+A firm must choose between two projects. Project A has a 60% chance of $500,000 profit and 40% of a $100,000 loss. Project B returns $200,000 with certainty.
+
+```
+Expected value of A = (0.6 x 500 000) + (0.4 x -100 000)
+                    = 300 000 - 40 000
+                    = $260 000
+
+Expected value of B = $200 000
+```
+
+A has the higher expected value, but the recommendation depends on **risk appetite**: a business short of cash may prefer B's certainty, since a $100,000 loss could threaten survival. Stating that trade-off is what earns the evaluation marks.
+
+## Common mistakes
+
+Confusing mission with objectives, or strategy with tactics. Treating added value as profit. Calculating an expected value and stopping there, without considering risk and context. Listing PESTLE factors rather than applying them. Assuming every business maximises profit, which ignores not-for-profits and survival-stage firms.
+
+## Quick revision checklist
+
+- Define added value and explain how a business increases it.
+- Distinguish mission, corporate objectives, strategy and tactics.
+- Explain why objectives conflict and what determines which dominates.
+- Compare scientific and intuitive decision-making with advantages and limitations.
+- Calculate expected values and evaluate against risk appetite.
+- Map stakeholders by power and interest and apply PESTLE to a context.

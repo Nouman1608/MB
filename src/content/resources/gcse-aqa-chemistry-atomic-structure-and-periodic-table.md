@@ -68,3 +68,59 @@ you are studying alongside Combined Science students.
 AQA GCSE Chemistry (8462) specification, for teaching from September
 2016 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/science/gcse/chemistry-8462/specification/specification-at-a-glance).
+
+## The structure of the atom
+
+An atom has a small central **nucleus** containing protons and neutrons, surrounded by electrons in shells. The nucleus is about 1/10,000 the diameter of the whole atom, yet holds virtually all of its mass — the radius of an atom is roughly 0.1 nm (1 x 10^-10 m), while the nucleus is around 1 x 10^-14 m.
+
+| Particle | Relative mass | Relative charge | Location |
+|---|---|---|---|
+| Proton | 1 | +1 | Nucleus |
+| Neutron | 1 | 0 | Nucleus |
+| Electron | Very small (1/1836) | -1 | Shells |
+
+The **atomic number** is the number of protons, and it defines the element. The **mass number** is the total number of protons and neutrons. Atoms are neutral overall, so the number of electrons equals the number of protons.
+
+## Isotopes and relative atomic mass
+
+**Isotopes** are atoms of the same element with the same number of protons but different numbers of neutrons. Because chemical behaviour is determined by electrons, isotopes of an element react identically — only their masses differ.
+
+Relative atomic mass is the weighted mean mass of the isotopes present:
+
+```
+Ar = (mass 1 x abundance 1) + (mass 2 x abundance 2) / 100
+```
+
+## Electronic structure
+
+Electrons occupy shells from the innermost outwards, holding a maximum of 2, then 8, then 8. Chlorine (17 electrons) is 2,8,7. The number of outer-shell electrons determines the group, and the number of occupied shells determines the period.
+
+## Development of the model
+
+Ideas about the atom changed as experimental evidence accumulated: Dalton's solid spheres, then Thomson's plum pudding model, then Rutherford's alpha-scattering experiment which showed most of an atom is empty space with a dense positive nucleus, then Bohr's shells, and finally the discovery of the neutron. This sequence is a favourite context for questions about how scientific models respond to new evidence.
+
+## Worked example
+
+Chlorine exists as 75% chlorine-35 and 25% chlorine-37. Calculate its relative atomic mass.
+
+```
+Ar = (35 x 75) + (37 x 25) / 100
+   = (2625 + 925) / 100
+   = 3550 / 100
+   = 35.5
+```
+
+The answer is not a whole number, which is expected for a weighted mean.
+
+## Common mistakes
+
+Confusing atomic number with mass number when writing electronic structures. Stating that isotopes have different chemical properties — they do not, because they have identical electron arrangements. Forgetting that the number of electrons changes in an ion but the number of protons never does. Describing the alpha-scattering result as "most particles bounced back" when in fact the great majority passed straight through, which is the whole point of the evidence.
+
+## Quick revision checklist
+
+- State the relative mass and charge of a proton, neutron and electron.
+- Work out protons, neutrons and electrons from atomic and mass number.
+- Define an isotope and explain why isotopes behave identically in reactions.
+- Calculate relative atomic mass from isotopic abundances.
+- Write the electronic structure of the first 20 elements and link it to position in the Periodic Table.
+- Describe how the model of the atom changed, and what evidence drove each change.

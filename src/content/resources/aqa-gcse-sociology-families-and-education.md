@@ -70,3 +70,64 @@ pattern rather than describe it neutrally.
 
 AQA GCSE Sociology (8192) specification, first teaching 2017 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/subject-content).
+
+## Studying the family
+
+Sociologists disagree fundamentally about what the family is for, and questions reward setting perspectives against each other rather than describing one.
+
+**Functionalists** (Murdock, Parsons) see the family as performing essential functions — primary socialisation, stabilisation of adult personalities, reproduction, economic support. Parsons argued the nuclear family is uniquely suited to industrial society because it is geographically mobile.
+
+**Marxists** see the family as serving capitalism: reproducing labour power, passing on private property through inheritance, and acting as a unit of consumption.
+
+**Feminists** focus on patriarchy. Liberal feminists point to gradual progress towards equality; radical feminists argue the family is the central site of women's oppression; Marxist feminists connect unpaid domestic labour to capitalism's needs.
+
+## Family diversity and change
+
+Family structures have diversified: nuclear, extended, lone-parent, reconstituted, same-sex and single-person households. The **Rapoports** identified five types of diversity — organisational, cultural, class, life-course and cohort.
+
+Explanations for change include secularisation, changes in divorce law, women's increased participation in paid work, greater social acceptance of cohabitation and same-sex relationships, and an ageing population.
+
+**Conjugal roles** are described as segregated (clearly divided) or joint (shared). **Young and Willmott** argued families were becoming symmetrical; **Oakley** disputed this, finding women still performed most domestic labour — the "dual burden", and with emotional work the "triple shift".
+
+## Studying education
+
+**Functionalists** (Durkheim, Parsons) see education as transmitting shared norms, teaching specialist skills, and acting as a bridge between family and wider society, allocating roles by merit.
+
+**Marxists** (Bowles and Gintis) argue the **hidden curriculum** reproduces class inequality through a correspondence between school and workplace — obedience, hierarchy, acceptance of extrinsic reward.
+
+**Interactionists** focus on processes inside school: **labelling**, the **self-fulfilling prophecy**, and **setting and streaming** creating pro- and anti-school subcultures.
+
+## Explaining differential achievement
+
+Distinguish **internal** factors within school — labelling, streaming, subcultures, ethnocentric curriculum, teacher expectations — from **external** factors outside it — material deprivation, cultural capital, parental attitudes, language codes.
+
+Achievement patterns are examined by **class** (persistently the strongest predictor), **gender** (girls outperforming boys at most levels, explained by changing ambitions, coursework and boys' subcultures) and **ethnicity** (varying widely between groups, with institutional racism and material factors both advanced as explanations).
+
+## Worked example
+
+Assess the view that the nuclear family is the ideal family type.
+
+```
+FOR      Murdock: found nuclear families in all societies studied
+         Parsons: geographically and socially mobile, fits industrial society
+         provides stability for socialising children
+
+AGAINST  ignores growing family diversity (Rapoports)
+         feminists: conceals patriarchy and the dual burden
+         Marxists: serves capitalism, not family members
+         "ideal" is a value judgement, not a sociological finding
+```
+
+The final line is what lifts the answer — questioning the premise rather than only listing evidence.
+
+## Common mistakes
+
+Describing one perspective without contrasting others in an "assess" question. Treating family diversity as recent when the Rapoports wrote in the 1980s. Confusing the hidden curriculum with the formal curriculum. Mixing up internal and external factors. Naming no sociologists — studies and names carry the marks in this subject.
+
+## Quick revision checklist
+
+- Outline functionalist, Marxist and feminist views of the family and evaluate each.
+- Describe family diversity and explain the reasons for changing structures.
+- Explain conjugal roles, symmetry, the dual burden and the triple shift, with named studies.
+- Outline functionalist, Marxist and interactionist views of education.
+- Separate internal from external factors and apply them to class, gender and ethnicity.

@@ -66,3 +66,70 @@ more technical answers in the right accounting context.
 AQA A-level Accounting (7127) specification, first teaching September
 2017 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content).
+
+## What accountants actually do
+
+Accounting divides into two branches serving different audiences.
+
+**Financial accounting** records past transactions and produces statements for **external** users — shareholders, lenders, suppliers, tax authorities, employees. It is governed by legal requirements and accounting standards, and is historic by nature.
+
+**Management accounting** produces information for **internal** decision-makers. It is forward-looking, as detailed as managers need, produced as often as required, and subject to no external format rules. Budgets, costing and investment appraisal belong here.
+
+The distinction matters because it explains why the same business produces different figures for different purposes without inconsistency.
+
+## Users and their needs
+
+| User | Wants to know |
+|---|---|
+| Shareholders | Profitability, dividends, growth in value |
+| Lenders | Ability to repay, liquidity, existing debt |
+| Suppliers | Whether the business can pay on time |
+| Employees | Job security, capacity to pay wages |
+| Government | Tax due, compliance |
+| Managers | Everything needed to plan and control |
+
+Conflicts follow directly: shareholders may want dividends now while lenders prefer profit retained to strengthen the balance sheet.
+
+## Accounting concepts
+
+These underpin every adjustment and are examined as reasoning, not recall.
+
+- **Business entity** — the owner and business are separate; drawings are not an expense.
+- **Going concern** — the business will continue, so assets are not valued at break-up prices.
+- **Accruals (matching)** — revenues and expenses are recognised when incurred, not when cash moves. This is why prepayments and accruals exist.
+- **Consistency** — the same policies apply period to period, so comparison is meaningful.
+- **Prudence** — do not overstate assets or profit; recognise foreseeable losses.
+- **Materiality** — trivial items need not be treated strictly.
+- **Realisation** — revenue is recognised when goods or services pass to the customer, not when the order is placed.
+
+Prudence and accruals can pull in opposite directions, and knowing which prevails is a common higher-mark question.
+
+## Ethics and professional judgement
+
+Accountants are expected to show integrity, objectivity, professional competence, confidentiality and professional behaviour. Pressure to overstate profit, delay recognising a bad debt or hide a liability is a recurring scenario, and answers should identify the principle breached, the users harmed, and the appropriate action.
+
+## Worked example
+
+A business pays $12,000 rent on 1 October for the year ahead. The year end is 31 December. How is this treated?
+
+```
+Rent used in the year   = 3 months (Oct, Nov, Dec) = 12 000 x 3/12 = $3 000
+Rent paid in advance    = 9 months                 = 12 000 x 9/12 = $9 000
+
+Income statement: expense of $3 000   (accruals concept)
+Balance sheet:    prepayment of $9 000 as a CURRENT ASSET
+```
+
+Charging the full $12,000 would understate profit and breach the matching concept.
+
+## Common mistakes
+
+Treating drawings as an expense rather than a reduction of capital. Recording transactions on a cash basis when accruals apply. Listing a prepayment as a liability instead of a current asset. Confusing realisation with receipt of cash. Describing management accounting as legally required. Naming a concept without explaining its effect on the figures.
+
+## Quick revision checklist
+
+- Distinguish financial from management accounting by audience, timing and regulation.
+- Identify each user group and the information it needs, and where interests conflict.
+- Define every accounting concept and apply it to an adjustment.
+- Calculate accruals and prepayments and place them correctly in both statements.
+- Apply the ethical principles to a pressure scenario, naming the breach and the action.

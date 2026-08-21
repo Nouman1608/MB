@@ -69,3 +69,67 @@ lower bounds of a measured or rounded quantity.
 AQA GCSE Mathematics (8300) specification, for exams from May/June
 2017 onwards —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/subject-content).
+
+## Types of number and place value
+
+Integers, factors, multiples, primes, squares and cubes underpin the whole topic. A **prime** has exactly two factors, so 1 is not prime and 2 is the only even prime.
+
+Every integer can be written as a **product of prime factors**, which is the fastest route to HCF and LCM:
+
+```
+60 = 2^2 x 3 x 5
+72 = 2^3 x 3^2
+
+HCF = lowest power of each shared prime = 2^2 x 3 = 12
+LCM = highest power of every prime present = 2^3 x 3^2 x 5 = 360
+```
+
+## Fractions, decimals and percentages
+
+Converting fluently between the three forms is assumed throughout the paper. To add or subtract fractions use a common denominator; to divide, multiply by the reciprocal.
+
+Percentage change problems appear constantly:
+
+```
+percentage change = (change / original) x 100
+multiplier for a 15% increase = 1.15
+multiplier for a 15% decrease = 0.85
+```
+
+For **reverse percentage** questions, divide by the multiplier rather than multiplying. Compound interest uses repeated multipliers: value after n years = P x (multiplier)^n.
+
+## Indices, standard form and surds
+
+Index laws: a^m x a^n = a^(m+n), a^m / a^n = a^(m-n), (a^m)^n = a^(mn), a^0 = 1, a^-n = 1/a^n, and a^(1/n) is the nth root.
+
+Standard form is A x 10^n where 1 <= A < 10. Surds are exact and should be simplified and rationalised rather than evaluated as decimals.
+
+## Rounding, bounds and estimation
+
+Estimate by rounding each value to 1 significant figure. **Bounds** matter for accuracy questions: a length given as 8.4 cm to the nearest 0.1 cm has a lower bound of 8.35 and an upper bound of 8.45. When dividing, the largest result comes from the largest numerator with the smallest denominator.
+
+## Worked example
+
+A jacket costs £68 after a 15% reduction. Find the original price.
+
+```
+The sale price is 85% of the original, so the multiplier is 0.85.
+
+original = 68 / 0.85 = £80
+```
+
+Check by working forwards: 80 x 0.85 = 68. This check catches the most common error, which is finding 15% of 68 and adding it on — that gives £78.20 and is wrong, because the percentage applies to the original, not the sale price.
+
+## Common mistakes
+
+Multiplying instead of dividing in reverse percentage questions. Treating 1 as a prime number. Adding fractions by adding numerators and denominators separately. Writing standard form with A outside the range 1 to 10, such as 12 x 10^3. Rounding partway through a calculation instead of at the end. Taking the upper bound of a division as upper/upper rather than upper/lower.
+
+## Quick revision checklist
+
+- Write any integer as a product of primes and use it to find HCF and LCM.
+- Convert confidently between fractions, decimals and percentages.
+- Use multipliers for increase, decrease, reverse percentage and compound interest.
+- Apply all index laws, including negative and fractional powers.
+- Write and calculate with numbers in standard form.
+- Simplify and rationalise surds.
+- Find upper and lower bounds and use them correctly in a calculation.

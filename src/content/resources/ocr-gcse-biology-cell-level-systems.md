@@ -67,3 +67,72 @@ substances it does.
 OCR GCSE (9-1) Gateway Science Suite Biology A (J247) specification,
 for first assessment 2018 —
 [ocr.org.uk](https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-biology-a-j247-from-2016/specification-at-a-glance/).
+
+## Cell structures and their functions
+
+| Structure | Function | Found in |
+|---|---|---|
+| Nucleus | Contains DNA, controls the cell | Animal, plant |
+| Cytoplasm | Site of many reactions | All |
+| Cell membrane | Controls entry and exit | All |
+| Mitochondria | Aerobic respiration | Animal, plant |
+| Ribosomes | Protein synthesis | All, including bacteria |
+| Chloroplasts | Photosynthesis | Plant |
+| Cell wall | Support and rigidity | Plant, bacteria |
+| Permanent vacuole | Stores cell sap, maintains turgor | Plant |
+
+**Prokaryotes** — bacteria — have no nucleus and no membrane-bound organelles. Their DNA is a single circular loop plus plasmids, and their ribosomes are smaller than those of eukaryotes.
+
+## Microscopy
+
+Light microscopes magnify to roughly x2000 and resolve to about 200 nm. Electron microscopes reach far higher magnification and resolution, revealing internal structure. **Resolution** — the ability to distinguish two close points as separate — matters as much as magnification, since magnifying beyond the resolving power produces a bigger but no clearer image.
+
+```
+magnification = image size / actual size
+1 mm = 1000 micrometres = 1 000 000 nanometres
+```
+
+## DNA and protein synthesis
+
+DNA is a double helix of two strands held by complementary base pairing: **A with T, C with G**. A **gene** is a section of DNA coding for one protein, and the sequence of bases determines the sequence of amino acids.
+
+Protein synthesis has two stages: **transcription**, where the DNA of one gene is copied into mRNA in the nucleus, and **translation**, where ribosomes read the mRNA in triplets and assemble the corresponding amino acids into a polypeptide.
+
+Because the folded shape of a protein depends on its amino acid sequence, a change in the DNA base sequence can change the shape and destroy the function — which is how mutations cause disease.
+
+## Enzymes and respiration
+
+Enzymes are proteins with an active site complementary to a specific substrate. Rate rises with temperature until the optimum, then falls sharply as the enzyme **denatures** — the tertiary structure breaks and the active site changes shape irreversibly. pH behaves the same way.
+
+```
+Aerobic:    glucose + oxygen -> carbon dioxide + water    (large ATP yield)
+Anaerobic in muscle: glucose -> lactic acid               (small yield, oxygen debt)
+Anaerobic in yeast:  glucose -> ethanol + carbon dioxide  (fermentation)
+```
+
+Respiration happens in every living cell, continuously, and is not the same as breathing.
+
+## Worked example
+
+A cell measures 60 micrometres. Its image is 12 mm wide. Find the magnification.
+
+```
+Convert to the same unit: 12 mm = 12 000 micrometres
+
+magnification = 12 000 / 60 = x200
+```
+
+Converting before dividing is where the marks are won or lost.
+
+## Common mistakes
+
+Saying bacteria have no DNA rather than no nucleus. Confusing magnification with resolution. Writing that enzymes are "killed" rather than denatured, or that denaturing is reversible. Equating respiration with breathing. Forgetting that anaerobic respiration in humans and in yeast give different products. Omitting unit conversion in magnification calculations.
+
+## Quick revision checklist
+
+- Give the function of each cell structure and say which cell types contain it.
+- Compare prokaryotic and eukaryotic cells.
+- Distinguish magnification from resolution and calculate magnification with unit conversion.
+- State the base-pairing rules and describe transcription and translation.
+- Explain enzyme action and the effects of temperature and pH, using denature correctly.
+- Write word equations for aerobic and both types of anaerobic respiration.

@@ -75,3 +75,61 @@ dimensions rather than focusing on environmental impact alone.
 Cambridge IGCSE Environmental Management (0680) syllabus for
 examination 2027, 2028 and 2029 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718156-2027-2029-syllabus.pdf).
+
+## Classifying resources
+
+A **natural resource** is any material or energy source from the environment that people find useful.
+
+- **Renewable** resources replenish naturally within a human timescale — solar, wind, wave, tidal, geothermal, hydroelectric.
+- **Non-renewable** resources exist in a fixed stock and are consumed faster than they form — coal, oil, natural gas, and mineral ores.
+- **Sustainable** is not a synonym for renewable. A renewable resource can be used unsustainably: a forest is renewable, but if felling outpaces regrowth the stock still collapses. **Sustainable use** means meeting present needs without preventing future generations from meeting theirs.
+
+## Fossil fuels
+
+Coal, oil and gas formed from organic matter buried under heat and pressure over millions of years. They have high energy density, established infrastructure and reliable output, which is why they remain dominant.
+
+Their costs are the reason the topic exists: carbon dioxide driving the enhanced greenhouse effect, sulfur dioxide and nitrogen oxides causing acid rain, particulates harming health, land damage from extraction, and oil spills during transport. Supplies are also finite and unevenly distributed, creating political and economic dependence.
+
+## Renewable energy compared
+
+| Source | Strengths | Limitations |
+|---|---|---|
+| Solar | No fuel cost, no emissions in use, good in low-latitude countries | Intermittent, needs storage, large land area |
+| Wind | No emissions in use, land beneath remains usable | Intermittent, visual and noise objections |
+| HEP | Reliable, long-lived, allows flood control | Dam displaces people and habitat, high capital cost, silting |
+| Geothermal | Continuous output, small footprint | Only viable in tectonically active areas |
+| Biomass | Uses waste, can be carbon-neutral if replanted | Combustion pollutants, competes with food for land |
+
+## Water as a resource
+
+Fresh water is renewable through the water cycle but unevenly distributed. Demand rises with population, irrigation and industry, while supply is reduced by pollution, over-abstraction of aquifers and salinisation of irrigated soils. Management includes reservoirs, desalination, drip irrigation, leak reduction, water recycling and pricing to discourage waste.
+
+## Sustainable management
+
+Practical strategies group into four ideas: **use less** through efficiency and conservation; **use again** through reuse and recycling; **substitute** with renewable alternatives; and **restore** through replanting, land rehabilitation and protected areas. Legislation, international agreements, education and appropriate pricing are the tools that make these happen at scale.
+
+## Worked example
+
+Explain why a country with abundant sunshine might still rely mainly on fossil fuels.
+
+```
+Solar output is intermittent  -> needs storage or back-up generation
+High initial capital cost     -> difficult for a lower-income economy
+Existing infrastructure       -> grid and plant already built for fossil fuels
+Land requirement              -> large arrays compete with agriculture
+Fossil fuels give reliable, continuous, dispatchable output
+```
+
+The question asks why abundance is not enough — cost, intermittency and infrastructure are the marks.
+
+## Common mistakes
+
+Using renewable and sustainable interchangeably. Saying solar and wind produce "no pollution" without the qualifier *in use*, ignoring manufacturing emissions. Describing HEP as having no environmental impact. Listing renewable sources without evaluating limitations when the question says "evaluate". Forgetting that fresh water can be depleted despite being renewable.
+
+## Quick revision checklist
+
+- Classify resources as renewable or non-renewable and explain why sustainable means something different.
+- Explain how fossil fuels form and give balanced advantages and disadvantages.
+- Evaluate at least four renewable sources with strengths and limitations.
+- Explain the causes of water scarcity and describe management strategies.
+- Apply the use less / use again / substitute / restore framework to any resource.

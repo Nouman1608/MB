@@ -68,3 +68,63 @@ revise once early on.
 AQA A-level Business (7132) specification, for first teaching from
 September 2023 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/business/a-level/business-7132/specification/subject-content).
+
+## Why businesses exist
+
+A business converts inputs into outputs that satisfy customer needs and wants, adding value in the process. **Added value** is the difference between the cost of inputs and the price the customer pays, and it is increased by branding, quality, service, convenience and design — not only by raising price.
+
+## Objectives and their hierarchy
+
+Objectives flow downwards: **mission** (the overall purpose) informs **corporate objectives**, which inform **functional objectives** in marketing, operations, finance and human resources.
+
+Common corporate objectives include profit maximisation, growth, market share, survival, cash flow, and increasingly social and ethical goals. They conflict as often as they align — growth frequently consumes cash, and ethical sourcing often raises costs. Which objective dominates depends on the stage of the business, the state of the market and the expectations of stakeholders.
+
+Objectives should be **SMART**: specific, measurable, achievable, realistic and time-bound.
+
+## Forms of ownership
+
+| Form | Liability | Key features |
+|---|---|---|
+| Sole trader | Unlimited | Simple to set up, owner keeps all profit, limited capital |
+| Partnership | Usually unlimited | Shared capital and expertise, shared decisions and disputes |
+| Private limited (Ltd) | Limited | Shares sold privately, more capital, must publish accounts |
+| Public limited (plc) | Limited | Shares traded publicly, large capital, risk of takeover, dilution of control |
+
+**Limited liability** is the pivotal concept: shareholders risk only what they invested, which is what makes external investment attractive.
+
+## Stakeholders versus shareholders
+
+Shareholders own the business; stakeholders are anyone affected by it — employees, customers, suppliers, the local community, government. The **shareholder approach** prioritises returns to owners; the **stakeholder approach** balances competing interests on the argument that long-run profitability depends on it. Most evaluation questions in this topic reduce to weighing those two positions against a specific context.
+
+## The external environment
+
+Businesses operate within conditions they do not control, usually organised as **PESTLE**: political, economic, social, technological, legal and environmental. Economic factors — interest rates, exchange rates, inflation, the business cycle — appear most often, because their effects are calculable.
+
+## Worked example
+
+A private limited company is considering floating on the stock market. Assess the decision.
+
+```
+FOR   raises substantial capital for expansion
+      shares become liquid and easier to sell
+      raises public profile and credibility
+
+AGAINST  dilutes ownership and control
+         vulnerable to hostile takeover
+         costly flotation and reporting requirements
+         short-term pressure from shareholders for dividends
+```
+
+Marks come from a judgement that depends on context — the size of expansion planned, and how much the current owners value control.
+
+## Common mistakes
+
+Confusing added value with profit — added value ignores overheads. Saying limited liability means the business has limited debts, rather than that the shareholder's loss is capped. Treating stakeholders and shareholders as synonyms. Listing PESTLE factors without applying them to the case. Asserting profit maximisation is always the objective, which ignores survival and growth stages.
+
+## Quick revision checklist
+
+- Define added value and explain the ways a business can increase it.
+- Explain the hierarchy from mission to functional objectives and write SMART objectives.
+- Compare the four forms of ownership, focusing on liability and access to capital.
+- Distinguish stakeholder from shareholder approaches and argue both sides.
+- Apply PESTLE to a given business context rather than listing it.

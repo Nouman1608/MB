@@ -74,3 +74,61 @@ sub-topic needs to go.
 Pearson Edexcel International GCSE Chemistry (4CH1) specification,
 Issue 3, September 2024 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/specification-and-sample-assessments/international-gcse-chemistry-2017-specification.pdf).
+
+## States of matter and particle theory
+
+Solids have particles in a regular arrangement, vibrating about fixed positions. Liquids have particles close together but able to move past one another. Gases have particles far apart, moving randomly at speed. Changes of state are physical: energy is supplied to overcome forces of attraction, and no new substance forms.
+
+**Diffusion** is the net movement of particles from high to low concentration. Lighter particles diffuse faster at a given temperature, which is why ammonia and hydrogen chloride meet nearer the hydrochloric acid end of a glass tube.
+
+## Atomic structure and the Periodic Table
+
+Protons and neutrons sit in the nucleus; electrons occupy shells filling 2, 8, 8. Atomic number gives the number of protons and defines the element; mass number is protons plus neutrons. **Isotopes** differ in neutron number only, so their chemistry is identical.
+
+Group number equals the number of outer-shell electrons; period number equals the number of occupied shells. Elements react to achieve a full outer shell, which is the single idea underlying all the bonding that follows.
+
+## Bonding
+
+**Ionic bonding** occurs between metals and non-metals: electrons transfer, ions form, and strong electrostatic attraction holds a giant lattice together. This gives high melting points, and conduction only when molten or dissolved, because ions must be free to move.
+
+**Covalent bonding** occurs between non-metals: electron pairs are shared. Simple molecular substances have weak intermolecular forces between molecules — not within them — so melting points are low and they do not conduct. Giant covalent structures such as diamond and graphite have very high melting points because covalent bonds must be broken. Graphite conducts because each carbon bonds to only three others, leaving one delocalised electron per atom.
+
+**Metallic bonding** is a lattice of positive ions in a sea of delocalised electrons, giving conduction and malleability.
+
+## Calculations
+
+```
+moles = mass / Mr
+moles = concentration x volume (dm3)
+percentage yield = (actual / theoretical) x 100
+```
+
+Empirical formula is found by dividing the mass or percentage of each element by its Ar, then dividing all results by the smallest.
+
+## Worked example
+
+24.0 g of magnesium burns completely in oxygen. Calculate the mass of magnesium oxide formed.
+
+```
+2Mg + O2 -> 2MgO
+
+moles Mg  = 24.0 / 24 = 1.0 mol
+ratio Mg : MgO is 2 : 2, so moles MgO = 1.0 mol
+Mr of MgO = 24 + 16 = 40
+mass MgO  = 1.0 x 40 = 40.0 g
+```
+
+The mass increases because oxygen has been added — conservation of mass applies to the whole system, including the gas.
+
+## Common mistakes
+
+Saying covalent bonds break when a simple molecular substance melts — only the weak forces between molecules are overcome. Stating ionic compounds conduct as solids. Forgetting to balance the equation before using mole ratios, which invalidates every later step. Writing that graphite conducts "because it is a metal". Giving empirical formula answers without dividing through by the smallest ratio.
+
+## Quick revision checklist
+
+- Describe the three states in terms of arrangement, movement and energy.
+- Determine protons, neutrons and electrons, and explain isotopes.
+- Link group and period to electronic structure.
+- Explain ionic, covalent, giant covalent and metallic bonding, and use each to account for melting point and conductivity.
+- Balance equations and carry out mole, mass, concentration and percentage yield calculations.
+- Calculate an empirical formula from masses or percentages.

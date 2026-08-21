@@ -71,3 +71,64 @@ recall.
 
 OxfordAQA International GCSE Economics (9214) qualification page —
 [oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-gcse-economics/).
+
+## The economic problem behind markets
+
+Markets exist because resources are scarce while wants are unlimited, so a mechanism is needed to decide what is produced, how, and for whom. In a market economy that mechanism is price; in a planned economy it is the state; most economies are mixed.
+
+Every choice carries an **opportunity cost** — the next best alternative given up.
+
+## The demand side
+
+Demand slopes downward for two reasons worth naming: the **income effect** (a lower price leaves more real purchasing power) and the **substitution effect** (the good becomes cheaper relative to alternatives).
+
+Conditions of demand that shift the curve are often remembered as **PIRATES** — population, income, related goods, advertising, tastes, expectations, seasons.
+
+**Related goods** matter in two directions. Substitutes are alternatives: a rise in the price of tea raises demand for coffee. Complements are used together: a rise in the price of printers lowers demand for ink cartridges.
+
+## The supply side
+
+Supply slopes upward because higher prices raise profitability and justify the higher marginal cost of additional output.
+
+Conditions of supply are production costs, technology, indirect taxes and subsidies, the number of suppliers, weather for agricultural goods, and the prices of related goods a firm could produce instead.
+
+An **indirect tax** shifts supply left; a **subsidy** shifts it right.
+
+## Equilibrium and elasticity
+
+Price settles where the plans of buyers and sellers coincide. Disequilibrium corrects itself: surpluses drive prices down, shortages drive them up.
+
+```
+PED = % change in quantity demanded / % change in price
+PES = % change in quantity supplied / % change in price
+```
+
+**PES** is often overlooked. Supply is inelastic in the short run where production takes time — agriculture, mining — and more elastic in the long run once capacity can be adjusted. This is why an agricultural supply shock produces a sharp price spike: neither demand nor supply can respond quickly.
+
+## Worked example
+
+A government places a $2 indirect tax on each unit of a good. Explain the effect on price and quantity.
+
+```
+Supply curve shifts LEFT (upward) by $2 at every quantity
+New equilibrium: price HIGHER, quantity LOWER
+
+The price rise is usually LESS than $2, because the burden is shared:
+  - demand inelastic -> most of the tax passed to the CONSUMER
+  - demand elastic   -> most absorbed by the PRODUCER
+```
+
+The incidence of the tax depending on elasticity is the analysis being tested — not simply "price goes up by $2", which is wrong except where demand is perfectly inelastic.
+
+## Common mistakes
+
+Treating a change in the good's own price as a shift. Confusing substitutes with complements. Shifting demand rather than supply when a tax is imposed. Assuming the full tax is passed to the consumer. Forgetting PES entirely, or ignoring the short-run and long-run distinction.
+
+## Quick revision checklist
+
+- Explain the economic problem, opportunity cost, and how each economic system allocates resources.
+- Explain the income and substitution effects behind the demand curve.
+- List the conditions of demand and supply and predict the direction of any shift.
+- Distinguish substitutes from complements with examples.
+- Calculate and interpret PED and PES, including short-run and long-run supply.
+- Explain tax incidence and how elasticity determines who bears the burden.

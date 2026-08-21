@@ -71,3 +71,71 @@ marks are awarded for appropriateness as well as accuracy.
 
 Cambridge IGCSE Urdu (0539) syllabus for 2025, 2026 and 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664633-2025-2027-syllabus.pdf).
+
+## What the paper asks of you
+
+This is a **language** paper, not a literature paper. It assesses your ability to understand written Urdu and to produce accurate, appropriate Urdu of your own. Marks are awarded for comprehension, for range and accuracy of language, and for suitability of register — not for opinions about texts.
+
+That distinction should shape revision: reading widely in Urdu and writing regularly will move your grade far more than memorising model answers.
+
+## Reading comprehension
+
+Questions progress from locating explicit detail to inferring meaning and identifying the writer's attitude.
+
+A reliable method:
+
+1. Read the questions first, so you know what to look for.
+2. Read the passage once for overall sense before answering anything.
+3. Locate the relevant section for each question and read around it — answers are rarely in a single word.
+4. Answer **in your own words** where the question says so; lifting whole phrases from the passage scores poorly on inference questions.
+5. Match the length of your answer to the marks available.
+
+Watch for questions asking *why* rather than *what* — these require inference, and quoting the text back is not an answer.
+
+## Writing
+
+Tasks typically include a directed piece (letter, email, report, article, speech) and a longer composition (narrative, descriptive or discursive).
+
+**Register** is heavily credited. A formal letter requires formal address and vocabulary; an informal message to a friend requires the opposite. Using the wrong level of formality costs marks even when the grammar is perfect.
+
+Structure the longer composition before writing: a brief plan of introduction, three or four developed paragraphs and a conclusion prevents the drift that loses organisation marks.
+
+## Accuracy — where marks are actually lost
+
+Urdu writing marks concentrate on a small number of recurring features:
+
+- **Gender agreement** — nouns carry gender, and adjectives and verbs must agree.
+- **Verb tense and person** — consistency across a narrative, and correct forms for respect levels.
+- **Postpositions** — ne, ko, se, mein, par used correctly, particularly the ergative *ne* with transitive perfective verbs.
+- **Izafat and compound constructions** in more formal registers.
+- **Script accuracy** — correct dots and diacritics; a misplaced dot changes the word.
+
+## Worked example
+
+A question asks: *Why did the writer decide to leave the village?* The passage states he found no work and his children's school had closed.
+
+```
+Weak answer   copies the two sentences verbatim
+              -> shows location, not understanding
+
+Strong answer gives the reason in your own Urdu:
+              economic necessity (no employment available) combined with
+              concern for his children's education
+
+Then check:   does the answer address WHY, not WHAT?
+              is it in your own words?
+              is the length right for the marks?
+```
+
+## Common mistakes
+
+Copying long stretches of the passage instead of answering in your own words. Writing at length for a two-mark question and briefly for a six-mark one. Using informal register in a formal task. Losing gender agreement between noun, adjective and verb. Omitting the ergative *ne*. Leaving no time to check the composition — a five-minute reread catches most agreement errors.
+
+## Quick revision checklist
+
+- Read widely in Urdu — newspapers, essays and stories — to build vocabulary in context.
+- Practise answering comprehension questions in your own words, matching answer length to marks.
+- Distinguish explicit-detail from inference questions and treat them differently.
+- Write in a range of registers and formats, planning before you write.
+- Drill gender agreement, verb forms and postpositions, especially *ne*.
+- Always reserve time to check the script and agreement at the end.

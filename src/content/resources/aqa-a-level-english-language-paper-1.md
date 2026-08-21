@@ -70,3 +70,71 @@ over-preparing for one at the expense of the other.
 AQA A-level English Language (7702) specification, first teaching
 September 2015 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-7702/specification/specification-at-a-glance).
+
+## The toolkit: language levels
+
+Analysis at this level means applying **linguistic frameworks** precisely, not describing effects impressionistically. The levels are the vocabulary of the whole subject:
+
+| Level | What it covers |
+|---|---|
+| Phonology | Sound — alliteration, sibilance, accent features |
+| Graphology | Visual layout, typography, images |
+| Lexis and semantics | Word choice, semantic fields, connotation, formality |
+| Grammar and syntax | Sentence types and lengths, word classes, mood, voice |
+| Pragmatics | Implied meaning, politeness, presupposition, deixis |
+| Discourse | Structure, cohesion, openings and closings |
+
+A strong paragraph names the feature with correct terminology, quotes it, and explains the effect **in relation to audience and purpose**. Identifying a feature without explaining its function scores almost nothing.
+
+## Language and the individual
+
+Texts are analysed for how **mode**, **audience** and **purpose** shape them. Mode runs on a spectrum from spoken to written, with digital forms sitting between — a text message is written in medium but often spoken in character.
+
+**Register** varies with formality and field. **Idiolect** is an individual's distinctive language use; **sociolect** the variety shared by a social group.
+
+**Representation** is the central concept: how language constructs a version of a person, group or event. Analyse the choices — which nouns, which modifiers, which processes — and ask whose perspective the wording serves.
+
+## Language and society
+
+Key areas of variation and their leading positions:
+
+- **Gender** — Lakoff's deficit model, Tannen's difference model, Zimmerman and West on interruption, and later critiques arguing gendered language differences are exaggerated and context-dependent.
+- **Social class and region** — accent and dialect, Labov's department store study, Trudgill on Norwich, overt and covert prestige.
+- **Occupation** — jargon and specialist lexis creating in-groups.
+- **Ethnicity** — varieties such as MLE, and attitudes toward them.
+- **Power** — Fairclough on influential and instrumental power, and the linguistic means by which it is exercised: imperatives, modality, interruption, topic control.
+
+Attitudes to language are examinable in themselves: **prescriptivism** treats change as decline, **descriptivism** treats it as natural variation.
+
+## Worked example
+
+Analyse: *"Local residents were reportedly angered by the council's decision."*
+
+```
+Passive voice        "were angered" -- agency is obscured; the council's
+                     action is grammatically demoted
+Adverb "reportedly"  distances the writer from the claim -- hedging,
+                     reducing commitment to its truth
+Lexis "angered"      stronger connotation than "concerned"; heightens
+                     conflict framing
+Noun phrase          "local residents" -- collective, unnamed, presented
+                     as a unified group with a single reaction
+
+Effect: constructs the council as the cause of unified public anger,
+while the hedge protects the writer from asserting it directly.
+```
+
+Four features, each named, quoted and linked to representation.
+
+## Common mistakes
+
+Feature-spotting — listing devices without explaining effect. Using "the writer uses this to make it more interesting". Applying gender theories as settled fact rather than contested positions. Ignoring mode, audience and purpose. Confusing dialect (grammar and vocabulary) with accent (pronunciation only). Writing about content rather than language.
+
+## Quick revision checklist
+
+- Apply all six language levels with accurate terminology.
+- Analyse mode, audience, purpose, register, idiolect and sociolect.
+- Explain representation through specific lexical and grammatical choices.
+- Cite named theorists on gender, class, region, occupation and power, with critique.
+- Distinguish prescriptivism from descriptivism.
+- Structure analysis as: name the feature, quote it, explain the effect on the reader.

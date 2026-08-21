@@ -76,7 +76,8 @@ for (const file of resourceFiles) {
   const levels = getArray('level');
   const updatedDate = get('updatedDate');
   const publishedDate = get('publishedDate');
-  resources.push({ file, subject, resourceType, boards, levels, date: updatedDate ?? publishedDate });
+  const bodyWords = raw.split('---').slice(2).join('---').trim().split(/\s+/).filter(Boolean).length;
+  resources.push({ file, subject, resourceType, boards, levels, words: bodyWords, date: updatedDate ?? publishedDate });
 }
 
 const activeRows = MATRIX.filter((c) => c.marlbridgeStatus === 'ACTIVE' && c.boardOfferingStatus === 'ACTIVE');
@@ -173,3 +174,32 @@ console.log(`Wrote ${jsonPath} and ${csvPath} — ${rows.length} rows.`);
 console.log(`  Official source verified: ${withSource}/${rows.length}`);
 console.log(`  Topic map published: ${withTopicMap}/${rows.length}`);
 console.log(`  At least one resource: ${withResources}/${rows.length} (zero-resource: ${zeroResource})`);
+
+/**
+ * Depth and quality metrics (Aug 2026 audit).
+ *
+ * "At least one resource" saturated at 139/139 the day the last
+ * zero-resource combination was closed, and will now report success
+ * indefinitely regardless of what happens to the library. These four
+ * numbers are the ones with somewhere left to go: they distinguish a
+ * combination holding one orientation page from one that actually covers
+ * its syllabus.
+ */
+const counts = rows.map((r) => r.totalResourceCount).sort((a, b) => a - b);
+const median = (xs) => (xs.length ? xs[Math.floor(xs.length / 2)] : 0);
+const onlyOne = rows.filter((r) => r.totalResourceCount === 1).length;
+const deep = rows.filter((r) => r.totalResourceCount >= 8).length;
+
+const wordCounts = resources.map((r) => r.words).sort((a, b) => a - b);
+const thin = wordCounts.filter((w) => w < 900).length;
+const noindexed = wordCounts.filter((w) => w < 400).length;
+
+console.log('');
+console.log('  DEPTH');
+console.log(`    Median resources per combination: ${median(counts)}   (target 8+)`);
+console.log(`    Combinations with exactly 1:      ${onlyOne}/${rows.length}`);
+console.log(`    Combinations with 8 or more:      ${deep}/${rows.length}`);
+console.log('  QUALITY');
+console.log(`    Median words per resource:        ${median(wordCounts)}   (target 900+)`);
+console.log(`    Resources under 900 words:        ${thin}/${resources.length}`);
+console.log(`    Resources under 400 words:        ${noindexed}/${resources.length}   (expansion queue)`);

@@ -71,3 +71,65 @@ model's assumptions and limitations.
 OCR A Level Economics (H460) specification, for first teaching from
 2019 —
 [ocr.org.uk](https://www.ocr.org.uk/Images/536455-specification-accredited-a-level-gce-economics-h460.pdf).
+
+## Demand, supply and the price mechanism
+
+Demand slopes downward because of the income and substitution effects; supply slopes upward because higher prices make production more profitable and cover rising marginal costs.
+
+Distinguish carefully between a **movement along** a curve, caused only by a change in the good's own price, and a **shift** of the curve, caused by anything else — income, tastes, substitutes and complements, population for demand; costs, technology, taxes, subsidies, number of firms for supply.
+
+The price mechanism performs three functions: it **signals** where resources are wanted, it **incentivises** producers to respond, and it **rations** scarce goods to those willing to pay.
+
+## Elasticity
+
+```
+PED = % change in quantity demanded / % change in price
+YED = % change in quantity demanded / % change in income
+XED = % change in quantity demanded of A / % change in price of B
+PES = % change in quantity supplied / % change in price
+```
+
+PED is negative; determinants are substitutes, necessity, proportion of income, and time. Its practical value is the link to revenue: where demand is inelastic, raising price raises total revenue; where elastic, it lowers it.
+
+YED distinguishes normal goods (positive), luxuries (greater than 1) and inferior goods (negative). XED is positive for substitutes and negative for complements.
+
+## Market failure
+
+Market failure occurs when the free market misallocates resources.
+
+- **Externalities** — costs or benefits falling on third parties. Where negative externalities in production exist, marginal social cost exceeds marginal private cost and the market over-produces. Where positive externalities in consumption exist, as with education or vaccination, the market under-consumes.
+- **Public goods** — non-rival and non-excludable, so the free-rider problem means they are not provided at all by the market.
+- **Merit and demerit goods** — under- and over-consumed because of imperfect information about long-term effects.
+- **Information gaps** and **monopoly power** complete the standard list.
+
+## Government intervention and its limits
+
+Indirect taxes internalise external costs, subsidies encourage positive externalities, regulation and minimum or maximum prices constrain outcomes directly, and tradable permits create a market in the externality itself.
+
+Every one of these carries the risk of **government failure**: imperfect information, unintended consequences such as black markets under a maximum price, administrative cost, and regulatory capture. A strong evaluation always weighs the intervention against this possibility rather than assuming it works.
+
+## Worked example
+
+A good has PED of -0.4. A firm raises price by 10%. What happens to revenue?
+
+```
+% change in Qd = PED x % change in P = -0.4 x 10 = -4%
+
+Price   +10%
+Quantity -4%
+Revenue changes by roughly +10 - 4 = +6%
+```
+
+Demand is inelastic, so the price rise more than offsets the fall in quantity and revenue increases — which is why firms selling necessities, and governments taxing them, behave as they do.
+
+## Common mistakes
+
+Describing a change in the good's own price as shifting the demand curve. Omitting the minus sign on PED, or misreading it as elastic. Confusing merit goods with public goods — merit goods are both rival and excludable. Saying a negative externality means the market "produces too little". Recommending intervention without evaluating government failure.
+
+## Quick revision checklist
+
+- Explain the shape of demand and supply curves and distinguish movements from shifts.
+- State the three functions of the price mechanism.
+- Calculate and interpret PED, YED, XED and PES, and link PED to total revenue.
+- Explain each type of market failure with a diagram showing the welfare loss.
+- Evaluate interventions, including the risk of government failure.
