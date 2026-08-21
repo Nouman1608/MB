@@ -3482,24 +3482,19 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'pakistan-studies',
-    syllabusCode: '2059', syllabusSeries: '2028-2030',
-    effectiveFrom: '2028', effectiveTo: '2030', status: 'future',
+    syllabusCode: '2059', syllabusSeries: '2026',
+    effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
     tiered: false,
-    source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/743607-2028-2030-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Independently confirmed against 2059’s own specification PDF: structure genuinely differs from IGCSE 0448. Paper 1 has 4 named topics, candidates answer on 3 of 4. Paper 2 has 3 named topics, each with 3 named sub-topics, all studied (not choice-based). Paper 1 and Paper 2 are each worth 50% / 75 marks.',
+    source: 'Cambridge Assessment International Education -- official syllabus PDF, Version 1, published September 2023',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697282-2026-syllabus.pdf', verifiedDate: '2026-08-21',
+    notes: "Cambridge O Level Pakistan Studies (2059), syllabus for exams in 2026 only (Version 1, no significant changes affecting teaching). NOTE: a genuine restructuring is coming -- from June 2028 this becomes a 4-topic Paper 1 (candidates answer on 3 of 4), per the official 2028-2030 syllabus PDF at https://www.cambridgeinternational.org/Images/743607-2028-2030-syllabus.pdf (verified 2026-08-19). This entry intentionally represents only the CURRENT 2026 series -- the topic-index lookup in this codebase is keyed by board+subject+qualification only (not series), so only one entry per combination can be live at a time; update this entry (do not add a second one) when the 2028 series becomes current. Paper 1's syllabus content is divided into three sections, each built from several Key Questions; sections reproduced directly from the official syllabus PDF Section 6 Syllabus content, fetched 2026-08-21. Paper 2 (The Environment of Pakistan) not yet itemised.",
     topics: [
-      { number: 1, name: 'Paper 1 – The History and Culture of Pakistan (answer on 3 of 4 topics)', slug: 'paper-1-history-culture-2059', subtopics: [
-        { number: '1.1', name: 'The Making of Pakistan, 1857–1947', slug: 'making-of-pakistan-2059' },
-        { number: '1.2', name: 'The Shaping of Pakistan Since 1947', slug: 'shaping-of-pakistan-2059' },
-        { number: '1.3', name: 'Pakistan and the Global Community', slug: 'pakistan-global-community-2059' },
-        { number: '1.4', name: 'Society and Culture in Pakistan', slug: 'society-culture-pakistan-2059' },
+      { number: 1, name: 'Paper 1 – The History and Culture of Pakistan', slug: 'paper-1-history-culture-2059', subtopics: [
+        { number: '1.1', name: 'Cultural and Historical Background to the Pakistan Movement', slug: 'cultural-historical-background-2059' },
+        { number: '1.2', name: 'The Emergence of Pakistan, 1906–47', slug: 'emergence-of-pakistan-2059' },
+        { number: '1.3', name: 'Nationhood, 1947–99', slug: 'nationhood-1947-99-2059' },
       ] },
-      { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-2059', subtopics: [
-        { number: '2.1', name: 'The Natural Environment of Pakistan', slug: 'natural-environment-2059' },
-        { number: '2.2', name: 'The People and Places of Pakistan', slug: 'people-places-2059' },
-        { number: '2.3', name: 'Developing the Economy of Pakistan', slug: 'developing-economy-2059' },
-      ] },
+      { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-2059', subtopics: [] },
     ],
   },
   {
