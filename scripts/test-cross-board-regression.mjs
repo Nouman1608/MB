@@ -33,9 +33,6 @@ async function readPage(path) {
 const CONTAMINATED_PAGES = [
   'boards/oxfordaqa/a-level/chemistry/index.html',
   'boards/oxfordaqa/igcse/chemistry/index.html',
-  'boards/aqa/a-level/chemistry/index.html',
-  'boards/edexcel/a-level/chemistry/index.html',
-  'boards/edexcel/igcse/chemistry/index.html',
   'boards/ocr/a-level/chemistry/index.html',
 ];
 
@@ -51,9 +48,24 @@ const ACCOUNTING_NOW_PUBLISHED = [
   { page: 'boards/edexcel/a-level/accounting/index.html', domain: 'qualifications.pearson.com', code: 'YAC11' },
 ];
 
+// 4 of the originally-flagged Chemistry pages (see CONTAMINATED_PAGES above,
+// which retains only the 3 still-unpublished OxfordAQA/OCR Chemistry pages)
+// have since had real, own-board taxonomy data added to syllabus-topics.ts
+// (v1.2 WS -- Batch 16), following the identical graduation pattern set by
+// ACCOUNTING_NOW_PUBLISHED above. AQA GCSE Chemistry (8462) was never in the
+// original CONTAMINATED_PAGES list but is included here too since it now
+// also carries real, own-board topic data and should be checked the same
+// way as its siblings.
+const CHEMISTRY_NOW_PUBLISHED = [
+  { page: 'boards/aqa/gcse/chemistry/index.html', domain: 'aqa.org.uk', code: '8462' },
+  { page: 'boards/aqa/a-level/chemistry/index.html', domain: 'aqa.org.uk', code: '7405' },
+  { page: 'boards/edexcel/igcse/chemistry/index.html', domain: 'qualifications.pearson.com', code: '4CH1' },
+  { page: 'boards/edexcel/a-level/chemistry/index.html', domain: 'qualifications.pearson.com', code: 'YCH11' },
+];
+
 const LEAK_SIGNATURES = ['cambridgeinternational.org', 'Core tier', 'Extended tier', 'Supplement content'];
 
-console.log('\n[A] 9 previously-flagged pages no longer show Cambridge topic-map data');
+console.log('\n[A] 3 previously-flagged pages (still unpublished) no longer show Cambridge topic-map data');
 for (const page of CONTAMINATED_PAGES) {
   const html = await readPage(page);
   if (html === null) continue;
@@ -98,6 +110,22 @@ for (const { page, domain, code } of ACCOUNTING_NOW_PUBLISHED) {
   }
 }
 
+console.log('\n[A3] 4 Chemistry pages that have since been published with real, board-cited topic data');
+for (const { page, domain, code } of CHEMISTRY_NOW_PUBLISHED) {
+  const html = await readPage(page);
+  if (html === null) continue;
+  const leaks = LEAK_SIGNATURES.filter((sig) => html.includes(sig));
+  if (leaks.length) {
+    fail(`${page} contains Cambridge leak signature(s): ${leaks.join(', ')}`);
+  } else if (!html.includes(domain)) {
+    fail(`${page} does not cite its own board's domain (${domain})`);
+  } else if (!html.includes(code)) {
+    fail(`${page} does not display its own syllabus code '${code}'`);
+  } else {
+    ok(`${page} — real, own-board topic data intact (code ${code} present, ${domain} cited)`);
+  }
+}
+
 console.log('\n[B] Cambridge\'s own pages (correct controls) still show real Cambridge topic data');
 for (const { page, code } of CAMBRIDGE_CONTROLS) {
   const html = await readPage(page);
@@ -116,5 +144,5 @@ if (problems) {
   console.error(`CROSS-BOARD REGRESSION TEST FAILED — ${problems} problem(s).`);
   process.exit(1);
 } else {
-  console.log(`Cross-board regression test OK — ${CONTAMINATED_PAGES.length} previously-flagged pages clean, ${ACCOUNTING_NOW_PUBLISHED.length} graduated Accounting pages intact, ${CAMBRIDGE_CONTROLS.length} control pages intact.`);
+  console.log(`Cross-board regression test OK — ${CONTAMINATED_PAGES.length} previously-flagged pages clean, ${ACCOUNTING_NOW_PUBLISHED.length} graduated Accounting pages intact, ${CHEMISTRY_NOW_PUBLISHED.length} graduated Chemistry pages intact, ${CAMBRIDGE_CONTROLS.length} control pages intact.`);
 }

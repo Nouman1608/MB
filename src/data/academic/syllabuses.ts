@@ -1382,6 +1382,46 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-21',
     notes: 'For examination 2026-2028. Six topics, identical structure to sibling IGCSE Commerce 0715.',
   },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'chemistry',
+    officialTitle: 'AQA GCSE Chemistry (8462)',
+    code: '8462',
+    boardSummary:
+      'AQA GCSE Chemistry develops learners\' understanding of chemistry, including how to work scientifically, and is co-teachable with AQA GCSE Combined Science.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/science/gcse/chemistry-8462/specification/specification-at-a-glance',
+    verifiedOn: '2026-08-21',
+    notes: 'For teaching from September 2016. Tiered Foundation/Higher. Eleven topics.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'chemistry',
+    officialTitle: 'AQA A-level Chemistry (7405)',
+    code: '7405',
+    boardSummary:
+      'AQA A-level Chemistry develops learners\' understanding of chemical concepts, principles and skills in physical, inorganic and organic chemistry.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/specification-at-a-glance',
+    verifiedOn: '2026-08-21',
+    notes: 'For teaching from September 2015. Three broad strands (Physical, Inorganic, Organic chemistry) with AS-shared and A-level-only sections.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'chemistry',
+    officialTitle: 'Pearson Edexcel International GCSE Chemistry (4CH1)',
+    code: '4CH1',
+    boardSummary:
+      'The Pearson Edexcel International GCSE in Chemistry enables students to acquire knowledge and understanding of chemical concepts, skills and practices.',
+    officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/specification-and-sample-assessments/international-gcse-chemistry-2017-specification.pdf',
+    verifiedOn: '2026-08-21',
+    notes: 'First teaching September 2017. Untiered. Four topics assessed across two papers.',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'chemistry',
+    officialTitle: 'Pearson Edexcel International Advanced Subsidiary/Advanced Level Chemistry (XCH11/YCH11)',
+    code: 'YCH11',
+    boardSummary:
+      'The Pearson Edexcel International Advanced Level in Chemistry develops students\' knowledge and understanding of chemical concepts, principles and practical skills.',
+    officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Chemistry/2018/Specification-and-Sample-Assessment/International-A-Level-Chemistry-Spec.pdf',
+    verifiedOn: '2026-08-21',
+    notes: 'First teaching September 2018. Six externally-examined units: Units 1-3 form the International AS (XCH11), the full International A Level (YCH11) adds Units 4-6.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
