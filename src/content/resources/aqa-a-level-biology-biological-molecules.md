@@ -74,3 +74,65 @@ later topics on protein synthesis and gene expression.
 AQA AS and A-level Biology (7401/7402) specification, for first
 teaching September 2015 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/biology/as-level/biology-7401/specification/subject-content).
+
+## Monomers, polymers and the two shared reactions
+
+Almost every large biological molecule is a polymer built from monomers by **condensation** (a bond forms, one water molecule is released) and broken by **hydrolysis** (water is added, the bond breaks). Recognising that the same two reactions run through carbohydrates, proteins and nucleic acids removes most of the memorisation from this topic.
+
+| Polymer | Monomer | Bond formed |
+|---|---|---|
+| Starch, glycogen, cellulose | alpha or beta glucose | glycosidic |
+| Protein | amino acid | peptide |
+| DNA, RNA | nucleotide | phosphodiester |
+
+## Carbohydrates
+
+Alpha and beta glucose are isomers differing only in the orientation of the hydroxyl group on carbon 1 — a small difference with large consequences. Alpha glucose forms starch and glycogen, which coil and branch for compact storage. Beta glucose forms cellulose, in which alternate molecules are inverted so straight chains form and hydrogen-bond into microfibrils of great tensile strength.
+
+Starch is helical and insoluble, so it stores glucose without affecting water potential. Glycogen is more highly branched than starch, giving more free ends for rapid hydrolysis — appropriate for animals with higher metabolic rates.
+
+## Proteins
+
+Amino acids share a central carbon bonded to an amine group, a carboxyl group, a hydrogen and a variable R group. Structure is described at four levels: **primary** (the sequence), **secondary** (alpha helices and beta pleated sheets held by hydrogen bonds), **tertiary** (the overall 3D shape held by hydrogen bonds, ionic bonds and disulfide bridges), and **quaternary** (two or more polypeptides, as in haemoglobin).
+
+Because tertiary structure determines the shape of an enzyme's active site, and primary structure determines tertiary structure, a single change in the amino acid sequence can abolish function.
+
+## Lipids
+
+Triglycerides are one glycerol and three fatty acids joined by ester bonds. They are non-polar and insoluble, contain more energy per gram than carbohydrates, and release water when respired. Saturated fatty acids have no C=C double bonds; unsaturated ones do, and the resulting kinks prevent close packing, which is why unsaturated fats are liquid at room temperature. Phospholipids substitute one fatty acid for a phosphate group, producing a hydrophilic head and hydrophobic tails — the basis of the bilayer.
+
+## Food tests
+
+| Test | Reagent | Positive result |
+|---|---|---|
+| Starch | iodine in potassium iodide | orange to blue-black |
+| Reducing sugar | Benedict's, heated | blue to brick-red |
+| Non-reducing sugar | boil with acid, neutralise, then Benedict's | brick-red |
+| Protein | biuret | blue to purple |
+| Lipid | emulsion test with ethanol | white emulsion |
+
+## Worked example
+
+A polypeptide is 120 amino acids long. How many water molecules are released during its synthesis, and how many during complete hydrolysis?
+
+```
+Bonds in a chain of n monomers = n - 1 = 119
+
+Condensation releases one water per bond formed  -> 119 released
+Hydrolysis consumes one water per bond broken    -> 119 used
+```
+
+The number of bonds, not the number of monomers, is what the question turns on.
+
+## Common mistakes
+
+Saying cellulose is made of alpha glucose. Describing glycogen as "the same as starch" without mentioning greater branching and why that matters. Confusing an ester bond with a glycosidic bond in triglycerides. Stating that a non-reducing sugar gives a negative Benedict's result without explaining that hydrolysis first is what makes the second test positive. Writing that disulfide bridges hold secondary structure — they are tertiary.
+
+## Quick revision checklist
+
+- Define condensation and hydrolysis and apply both to all three polymer classes.
+- Explain how alpha/beta glucose isomerism produces the different properties of starch, glycogen and cellulose.
+- Describe all four levels of protein structure with the bonds involved at each.
+- Relate triglyceride and phospholipid structure to their functions.
+- Carry out and interpret each food test, including the non-reducing sugar sequence.
+- Calculate water released or consumed from the number of bonds.

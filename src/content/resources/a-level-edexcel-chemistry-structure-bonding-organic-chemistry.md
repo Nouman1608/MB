@@ -72,3 +72,65 @@ quantities.
 Pearson Edexcel International Advanced Subsidiary/Advanced Level
 Chemistry specification, Issue 1, September 2017 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Chemistry/2018/Specification-and-Sample-Assessment/International-A-Level-Chemistry-Spec.pdf).
+
+## Shapes of molecules
+
+Electron pairs around a central atom repel and arrange themselves as far apart as possible. **Lone pairs repel more strongly than bonding pairs**, so each lone pair reduces the bond angle by roughly 2.5 degrees.
+
+| Electron pairs | Lone pairs | Shape | Angle |
+|---|---|---|---|
+| 2 | 0 | linear | 180 |
+| 3 | 0 | trigonal planar | 120 |
+| 4 | 0 | tetrahedral | 109.5 |
+| 4 | 1 | pyramidal | 107 |
+| 4 | 2 | bent | 104.5 |
+| 6 | 0 | octahedral | 90 |
+
+## Electronegativity and polarity
+
+Electronegativity is the ability of an atom to attract the electron pair in a covalent bond, increasing across a period and decreasing down a group. A difference in electronegativity produces a polar bond.
+
+A molecule with polar bonds is only polar overall if the dipoles do not cancel. Tetrachloromethane has four polar C–Cl bonds but is non-polar because its symmetry cancels them; water is polar because its bent shape does not.
+
+## Intermolecular forces
+
+In increasing strength: London forces (present in all molecules, stronger with more electrons), permanent dipole–dipole, and hydrogen bonding. Hydrogen bonding requires hydrogen bonded directly to N, O or F, plus a lone pair on the electronegative atom of the neighbouring molecule.
+
+Hydrogen bonding explains water's anomalously high boiling point and why ice is less dense than liquid water: the hydrogen bonds hold molecules in an open lattice.
+
+## Organic foundations
+
+Understanding organic chemistry begins with distinguishing formula types: **empirical** (simplest ratio), **molecular** (actual numbers), **structural** (condensed, e.g. CH3CH2OH), **displayed** (every bond shown) and **skeletal**.
+
+A **homologous series** shares a general formula and functional group, with successive members differing by CH2 and showing a gradual trend in physical properties.
+
+Isomerism divides into **structural** (chain, position, functional group) and **stereoisomerism**. E/Z isomerism arises from restricted rotation about a C=C double bond where each carbon carries two different groups, and is assigned by priority of atomic number.
+
+## Mechanism types
+
+Bonds break either **homolytically** (one electron to each atom, forming radicals, shown with single-headed curly arrows) or **heterolytically** (both electrons to one atom, forming ions, shown with double-headed arrows). Alkanes undergo free-radical substitution; alkenes undergo electrophilic addition because the pi bond is a region of high electron density.
+
+## Worked example
+
+Explain why the H–N–H bond angle in ammonia is 107 degrees while the H–C–H angle in methane is 109.5 degrees.
+
+```
+Both have four electron pairs around the central atom.
+Methane has four bonding pairs -> tetrahedral, 109.5 degrees.
+Ammonia has three bonding pairs and one lone pair.
+The lone pair repels more strongly than a bonding pair.
+Bonding pairs are pushed closer -> angle reduced to 107 degrees.
+```
+
+## Common mistakes
+
+Counting only bonding pairs when predicting shape. Claiming a molecule with polar bonds must be polar overall, ignoring symmetry. Saying hydrogen bonding occurs "because hydrogen is present" rather than requiring H bonded to N, O or F. Drawing single-headed curly arrows for an ionic mechanism. Confusing empirical with structural formula in a question that specifies which is wanted.
+
+## Quick revision checklist
+
+- Predict shape and bond angle from the number of bonding and lone pairs.
+- Explain electronegativity trends and decide whether a molecule is polar overall.
+- Rank the three intermolecular forces and use hydrogen bonding to explain water's properties.
+- Convert between empirical, molecular, structural, displayed and skeletal formulae.
+- Identify structural isomers and assign E/Z correctly.
+- Distinguish homolytic from heterolytic fission and draw the correct curly arrows.
