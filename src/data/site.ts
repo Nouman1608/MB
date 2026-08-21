@@ -5,8 +5,19 @@ export const site = {
   name: 'Marlbridge',
   tagline: 'Bridging Knowledge and Opportunity.',
   url: 'https://marlbridge.com',
+  /**
+   * v1.x Global Positioning update -- rewritten to read as a global
+   * institute without claiming anything not yet true. "Online tutoring for
+   * learners anywhere" and "nine countries" are both real today (live
+   * online tutoring is taught to enrolled students outside Pakistan; see
+   * src/data/pricing.ts for the nine priced regions). Deliberately does
+   * NOT claim the free study library itself is multilingual -- the
+   * /ar/, /ur/, /bn/ pages are translated landing pages, not translated
+   * resources, so that claim would overclaim. Revisit this string if/when
+   * the resource library itself is translated.
+   */
   defaultDescription:
-    'Marlbridge helps learners build the knowledge, confidence and skills they need to succeed in school, examinations, higher education and beyond.',
+    'Live teaching from Pakistan. Online tutoring for learners anywhere. A free study library built for the international curricula studied across the Gulf, South Asia, the UK and beyond.',
   locale: 'en',
   founding: 'Learners Academy — a Marlbridge education institution.',
   /** Only add entries for accounts that actually exist (used for sameAs). */
