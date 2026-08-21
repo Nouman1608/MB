@@ -188,8 +188,20 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
       // against the resource's own boards[] field — matching against every
       // board the resource declares, since a resource must belong to at
       // least one real board+subject+qualification taxonomy to be valid.
+      //
+      // Post-v1.2: also expand the subject through the same content-id ->
+      // matrix-slug hubId map used by the ACTIVE-combination check above
+      // (matrixSlugsFor). Without this, a resource is forced to declare
+      // `subject: "english"` (the only valid content-collection id, per
+      // subjects.ts's hubId) while syllabus-topics.ts's English Language
+      // entries are keyed by subjectSlug 'english-language' — an English
+      // Language resource could never pass this check under any subject
+      // value, since the two systems require different, non-overlapping
+      // strings in the same frontmatter field. Found while writing the
+      // first Edexcel IGCSE English Language (4EA1) resource.
       const candidates = resourceBoards.length ? resourceBoards : [undefined];
-      const idxs = candidates.map((b) => topicIndex.get(topicKey(b, subject, q))).filter(Boolean);
+      const subjectCandidates = matrixSlugsFor(subject);
+      const idxs = candidates.flatMap((b) => subjectCandidates.map((s) => topicIndex.get(topicKey(b, s, q)))).filter(Boolean);
       if (!idxs.length) { topicErrors.push(`${at}: no official topic taxonomy for board(s) [${resourceBoards.join(', ')}] + subject "${subject}" + qualification "${q}"`); continue; }
       if (t && !idxs.some((idx) => idx.topics.has(t))) topicErrors.push(`${at}: topic "${t}" is not in the official ${subject} ${q} syllabus for board(s) [${resourceBoards.join(', ')}]`);
       if (st && !idxs.some((idx) => idx.subtopics.has(st))) topicErrors.push(`${at}: subtopic "${st}" is not in the official ${subject} ${q} syllabus for board(s) [${resourceBoards.join(', ')}]`);
