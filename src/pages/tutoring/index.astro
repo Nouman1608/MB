@@ -56,6 +56,23 @@ const teachers = (await getAuthors())
         </section>
       )}
 
+      {/*
+        v1.x audit -- the free trial and the published fee schedule both
+        existed on /pricing/ but were absent from the page a visitor
+        actually converts on. Stating both here, and linking through, so
+        the strongest objection ("what does this cost, and can I try it
+        first?") is answered before the form rather than after it.
+      */}
+      <section aria-labelledby="tutoring-trial" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">
+        <h2 id="tutoring-trial" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Try a class first</h2>
+        <p class="m-0 mb-6 max-w-[62ch] text-[17px] leading-relaxed text-ink-mute">
+          The first trial class is free. Fees are published in full — charged per subject, per month, with a 20% discount for three or more subjects and 10% for siblings enrolled together.
+        </p>
+        <p class="m-0">
+          <a href={routes.pricing} class="inline-flex min-h-11 items-center justify-center rounded-sm border border-navy-800 px-6 py-3 text-[15px] font-medium text-navy-800 transition-colors duration-150 hover:bg-navy-800 hover:text-ivory">See tuition fees</a>
+        </p>
+      </section>
+
       <section aria-labelledby="tutoring-enquiry" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">
         <h2 id="tutoring-enquiry" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Find Learning Support</h2>
         <p class="m-0 mb-8 max-w-[62ch] text-[17px] text-ink-mute">
