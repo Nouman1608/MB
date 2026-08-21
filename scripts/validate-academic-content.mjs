@@ -248,10 +248,21 @@ for (const dir of ['src/content/resources', 'src/content/articles']) {
       const q = (e.match(/qualification:\s*"?([a-z-]+)"?/) || [])[1];
       const t = (e.match(/topic:\s*"?([a-z0-9-]+)"?/) || [])[1];
       const candidates = resourceBoards.length ? resourceBoards : [undefined];
+      // Same matrixSlugsFor expansion as the topic-reference check above --
+      // without it, a resource forced to declare subject: "english" (the
+      // content-collection hubId) could never resolve to syllabus-topics.ts's
+      // "english-language"-keyed entries, so a staged English Language
+      // resource would silently fail this check with "none of its
+      // syllabusTopics belong to a staged topic" even though its topic
+      // reference itself was valid. Found while writing the first OxfordAQA
+      // A-level English Language (9670) resource.
+      const subjectCandidates = matrixSlugsFor(subject);
       for (const b of candidates) {
-        const idx = topicIndex.get(topicKey(b, subject, q));
-        const topicStage = idx?.stageByTopic.get(t);
-        if (topicStage) stagesSeen.add(topicStage);
+        for (const s of subjectCandidates) {
+          const idx = topicIndex.get(topicKey(b, s, q));
+          const topicStage = idx?.stageByTopic.get(t);
+          if (topicStage) stagesSeen.add(topicStage);
+        }
       }
     }
     if (stagesSeen.size > 1) {
