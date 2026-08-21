@@ -1323,15 +1323,46 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
 
   {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'physics',
+    syllabusCode: '0625', syllabusSeries: 'For examination in 2026, 2027 and 2028',
+    effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
+    tiered: true,
+    source: 'Cambridge International -- official IGCSE Physics (0625) syllabus PDF, Version 2, published December 2025',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697209-2026-2028-syllabus.pdf', verifiedDate: '2026-08-21',
+    notes: 'Cambridge IGCSE Physics (0625), syllabus for exams in 2026, 2027 and 2028 (Version 2, no significant changes affecting teaching). Tiered: Core and Extended (Extended = Core + Supplement). Topic 1 (Motion, forces and energy) sub-topic structure (1.1-1.8) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-08-21. Topics 2-6 recorded name-only from the content-overview page pending a later phase.',
+    topics: [
+      { number: 1, name: 'Motion, forces and energy', slug: 'motion-forces-and-energy-cambridge-igcse-physics', subtopics: [
+        { number: '1.1', name: 'Physical quantities and measurement techniques', slug: 'physical-quantities-and-measurement-techniques-cambridge-igcse-physics' },
+        { number: '1.2', name: 'Motion', slug: 'motion-cambridge-igcse-physics' },
+        { number: '1.3', name: 'Mass and weight', slug: 'mass-and-weight-cambridge-igcse-physics' },
+        { number: '1.4', name: 'Density', slug: 'density-cambridge-igcse-physics' },
+        { number: '1.5', name: 'Forces', slug: 'forces-cambridge-igcse-physics' },
+        { number: '1.6', name: 'Momentum', slug: 'momentum-cambridge-igcse-physics' },
+        { number: '1.7', name: 'Energy, work and power', slug: 'energy-work-and-power-cambridge-igcse-physics' },
+        { number: '1.8', name: 'Pressure', slug: 'pressure-cambridge-igcse-physics' },
+      ] },
+      { number: 2, name: 'Thermal physics', slug: 'thermal-physics-cambridge-igcse-physics', subtopics: [] },
+      { number: 3, name: 'Waves', slug: 'waves-cambridge-igcse-physics', subtopics: [] },
+      { number: 4, name: 'Electricity and magnetism', slug: 'electricity-and-magnetism-cambridge-igcse-physics', subtopics: [] },
+      { number: 5, name: 'Nuclear physics', slug: 'nuclear-physics-cambridge-igcse-physics', subtopics: [] },
+      { number: 6, name: 'Space physics', slug: 'space-physics-cambridge-igcse-physics', subtopics: [] },
+    ],
+  },
+
+  {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'biology',
     syllabusCode: '0610', syllabusSeries: 'For examination in 2026, 2027 and 2028',
     effectiveFrom: '2026', effectiveTo: '2028', status: 'current',
     tiered: true,
     source: 'Cambridge International -- official IGCSE Biology (0610) syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697203-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: "Cambridge IGCSE Biology (0610), syllabus for exams in 2026, 2027 and 2028. Tiered: Core (Papers 1 and 3, grades C-G) and Extended (Papers 2 and 4, grades A*-G), plus one practical paper (5 or 6). Twenty-one topic names reproduced directly from the official syllabus PDF's content overview, fetched 2026-08-19. Sub-topic-level detail (Core/Supplement split per outcome) not yet researched -- topics recorded name-only pending a later phase.",
+    notes: "Cambridge IGCSE Biology (0610), syllabus for exams in 2026, 2027 and 2028. Tiered: Core (Papers 1 and 3, grades C-G) and Extended (Papers 2 and 4, grades A*-G), plus one practical paper (5 or 6). Twenty-one topic names reproduced directly from the official syllabus PDF's content overview, fetched 2026-08-19. Topic 1's three sub-topics (1.1-1.3) reproduced directly from the official syllabus PDF's Subject content section, fetched 2026-08-21. Sub-topic-level detail for topics 2-21 (Core/Supplement split per outcome) not yet researched -- those topics remain recorded name-only pending a later phase.",
     topics: [
-      { number: 1, name: 'Characteristics and classification of living organisms', slug: 'characteristics-and-classification-of-living-organisms-cambridge-igcse-biology', subtopics: [] },
+      { number: 1, name: 'Characteristics and classification of living organisms', slug: 'characteristics-and-classification-of-living-organisms-cambridge-igcse-biology', subtopics: [
+        { number: '1.1', name: 'Characteristics of living organisms', slug: 'characteristics-of-living-organisms-cambridge-igcse-biology' },
+        { number: '1.2', name: 'Concept and uses of classification systems', slug: 'concept-and-uses-of-classification-systems-cambridge-igcse-biology' },
+        { number: '1.3', name: 'Features of organisms', slug: 'features-of-organisms-cambridge-igcse-biology' },
+      ] },
       { number: 2, name: 'Organisation of the organism', slug: 'organisation-of-the-organism-cambridge-igcse-biology', subtopics: [] },
       { number: 3, name: 'Movement into and out of cells', slug: 'movement-into-and-out-of-cells-cambridge-igcse-biology', subtopics: [] },
       { number: 4, name: 'Biological molecules', slug: 'biological-molecules-cambridge-igcse-biology', subtopics: [] },
