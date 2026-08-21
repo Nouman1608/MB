@@ -65,3 +65,72 @@ Cambridge O-Level First Language Urdu (3247) syllabus for 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf);
 Cambridge O-Level Second Language Urdu (3248) syllabus for 2024-2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf).
+
+## Two qualifications, two purposes
+
+The **First Language** syllabus is for candidates who use Urdu as their main language. It assumes fluency and tests sophisticated comprehension, composition and, in the second paper, response to literary texts.
+
+The **Second Language** syllabus is for candidates who have learned Urdu in addition to another first language. It tests practical communication — reading for information, functional and creative writing, grammar and translation — at a level appropriate to a learner rather than a native user.
+
+Choosing the wrong route is a real risk: a fluent speaker entered for Second Language is capped, while a learner entered for First Language faces literary demands they have not been taught.
+
+## Reading and comprehension
+
+Both routes test comprehension, at different depths.
+
+A dependable method: read the questions first, then the passage once for overall sense, then locate and read *around* the relevant section. Answers to inference questions are rarely contained in a single sentence.
+
+Distinguish question types. *What* asks for located detail. *Why* asks for inference. Questions on the writer's attitude want evidence from **word choice and tone**, not plot summary. Where the question says "in your own words", lifting phrasing from the passage will not score.
+
+**Summary** tasks are marked on identifying the relevant points and on concision — include every required point, exclude examples and repetition, and respect the word limit.
+
+## Writing
+
+Directed writing covers letters, speeches, reports, articles and dialogues; composition covers narrative, descriptive and discursive pieces.
+
+**Register** is heavily credited and often mishandled. A formal letter needs formal address forms and vocabulary; a message to a friend needs the opposite. Getting this wrong costs marks even where the grammar is faultless.
+
+Plan first. For a discursive piece, decide the line of argument and the two or three supporting points before writing; for a narrative, decide the ending. Unplanned writing drifts, and organisation marks go with it.
+
+## Accuracy — where marks are lost
+
+Urdu writing marks concentrate on a small, predictable set of features:
+
+- **Gender agreement** between noun, adjective and verb.
+- **Verb forms** — tense, person, and the respect levels (tu, tum, aap) used consistently.
+- **Postpositions** — ne, ko, se, mein, par, with the ergative **ne** required for transitive perfective verbs.
+- **Izafat** and compound constructions in formal writing.
+- **Script accuracy** — dots and diacritics, since a misplaced dot changes the word entirely.
+- **Punctuation** appropriate to Urdu conventions.
+
+## Worked example
+
+Deciding register for a directed writing task.
+
+```
+Task: write a letter to the head teacher requesting permission for a trip
+
+Formal register required:
+  - respectful address forms and closing
+  - aap throughout, never tum
+  - formal vocabulary; avoid colloquialisms
+  - clear structured request with reasons
+
+Common error: drifting into informal address partway through,
+which breaks consistency and costs marks even if every
+sentence is grammatically correct on its own.
+```
+
+## Common mistakes
+
+Copying from the passage where own words are required. Writing at length for low-mark questions and briefly for high-mark ones. Including examples and repetition in a summary. Mixing respect levels within one piece. Losing gender agreement in extended writing. Omitting the ergative *ne*. Leaving no time to check the script.
+
+## Quick revision checklist
+
+- Know which route you are entered for and what it demands.
+- Read widely in Urdu to build vocabulary in context.
+- Distinguish detail, inference and attitude questions and answer accordingly.
+- Practise summary writing to a word limit, selecting only relevant points.
+- Write in a range of registers and formats, planning before you start.
+- Drill gender agreement, verb forms, postpositions and script accuracy.
+- Always reserve time to check agreement and script at the end.

@@ -65,3 +65,69 @@ range and grammatical accuracy this paper rewards.
 Pearson Edexcel GCE A-Level Urdu (9UR0) specification, for teaching
 from 2018 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/A%20Level/Urdu/2018/specification-and-sample-assessments/a-level-urdu-specification11.pdf).
+
+## What the paper assesses
+
+This paper tests three distinct skills, and each rewards a different kind of preparation:
+
+- **Translation into English** — accuracy of comprehension and fluent, natural English.
+- **Reading comprehension** — understanding explicit detail, inference and tone in authentic Urdu texts.
+- **Writing in Urdu** — accurate, well-organised Urdu at length, on a researched topic or set theme.
+
+Treating them as one "language paper" is the commonest strategic error. Translation and free writing pull in opposite directions: one demands fidelity to a source, the other demands independent expression.
+
+## Translation into English
+
+The aim is a version that a reader of English would accept as natural, while conveying everything the Urdu says.
+
+- Translate **meaning**, not word order. Urdu's verb-final structure must be reordered for English.
+- Do not omit anything. Every clause carries marks, and omission is penalised more heavily than an awkward rendering.
+- Do not add explanation. A translation is not a commentary.
+- Handle **culturally specific terms** carefully — some are best kept with a brief natural gloss, others have accepted English equivalents.
+- Watch **tense and aspect**: Urdu's perfective, imperfective and continuous forms do not map one-to-one onto English tenses.
+- Render **idiom** by sense, not literally.
+
+Read the whole passage before starting, so that ambiguous words are resolved by context.
+
+## Reading comprehension
+
+Identify what each question actually asks. *What* questions want located detail; *why* questions want inference; questions about the writer's attitude want evidence of tone — word choice, irony, emphasis.
+
+Answer in your own words where required, and match answer length to the marks. Where a question asks for the meaning of a phrase in context, the surrounding sentences almost always contain the clue.
+
+## Writing in Urdu
+
+Marks divide between **content** (relevance, development, organisation) and **language** (range, accuracy, register).
+
+Plan before writing. A clear structure — introduction, three or four developed paragraphs each with one main idea, a conclusion — prevents the drift that costs organisation marks.
+
+Accuracy concentrates on a few recurring features: gender agreement across noun, adjective and verb; consistent tense and person; correct postpositions, especially the ergative **ne** with transitive perfective verbs; **izafat** constructions in formal register; and accurate script, since a misplaced dot changes the word.
+
+Range means varied sentence structures, connectives and precise vocabulary — but an ambitious word used wrongly scores below a simpler word used correctly.
+
+## Worked example
+
+Translating an Urdu sentence whose literal English is *"On him anger came."*
+
+```
+Literal      "On him anger came"        -- unnatural English
+Too free     "He lost his temper"       -- idiomatic but loses register
+Balanced     "He became angry"          -- accurate and natural
+
+Check:  is every element present?
+        does it read as English a native speaker would write?
+        is the register (formal/informal) preserved from the source?
+```
+
+## Common mistakes
+
+Translating word for word and producing unnatural English. Omitting a clause under time pressure. Adding explanatory material not in the source. Copying from the passage in comprehension answers instead of using your own words. Writing the essay without a plan. Losing gender agreement in extended writing. Leaving no time to check the script.
+
+## Quick revision checklist
+
+- Practise translation for natural English while omitting nothing.
+- Handle culturally specific terms and idiom by sense rather than literally.
+- Match Urdu aspect to the correct English tense.
+- Distinguish detail, inference and tone questions and answer in your own words.
+- Plan extended writing before starting and organise one idea per paragraph.
+- Drill gender agreement, postpositions and script accuracy, and reserve checking time.
