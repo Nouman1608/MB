@@ -70,3 +70,67 @@ you can use these rules rather than just define them.
 Pearson Edexcel International Advanced Level Law specification,
 Issue 4, November 2021 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Law/2015/specification-and-sample-assessments/Pearson-Edexcel-IAL-Law-Specification.pdf).
+
+## Underlying principles
+
+Beneath the rules sit principles that questions repeatedly test.
+
+**Rule of law** — Dicey's formulation: no punishment without a breach of law established in the ordinary courts, equality before the law, and rights arising from the ordinary law rather than a written constitution.
+
+**Parliamentary supremacy** — Parliament may make or unmake any law, no Parliament binds its successors, and no body may set aside an Act.
+
+**Separation of powers** — legislature, executive and judiciary should be distinct. The Constitutional Reform Act 2005 strengthened this by creating the Supreme Court, separate from the House of Lords, and reforming the office of Lord Chancellor.
+
+**Judicial independence** is secured by security of tenure, salaries charged on the Consolidated Fund, immunity from suit, and the sub judice rule.
+
+## Law and morality, law and justice
+
+Morality changes over time and varies between groups; law is enforced uniformly by the state. The overlap is substantial in areas such as homicide, and thin in regulatory offences.
+
+Theories of justice worth citing: **distributive** justice concerning allocation of resources, **corrective** justice restoring a wrong, and **procedural** justice concerning fairness of process. Rawls' veil of ignorance and Nozick's entitlement theory are the standard contrasting positions.
+
+## Sources and the courts
+
+The English legal system draws on legislation, delegated legislation, case law and, historically, custom and equity. Equity supplies discretionary remedies — injunction, specific performance, rescission, rectification — where damages are inadequate, and operates on maxims such as "he who comes to equity must come with clean hands".
+
+The court hierarchy determines binding precedent. Appeal routes differ for civil and criminal matters, and knowing which court binds which is the foundation of any precedent answer.
+
+## Access to justice and legal reform
+
+Funding has narrowed since LASPO 2012 restricted civil legal aid, raising concerns about unmet need and litigants in person. Alternatives include conditional fee agreements, insurance, trade unions and law centres.
+
+**Alternative dispute resolution** — negotiation, mediation, conciliation, arbitration — is cheaper, faster, private and less adversarial, but lacks the precedent-setting and enforceability of litigation, and depends on the parties' willingness to engage.
+
+Reform bodies: the **Law Commission** researches and proposes reform, though implementation of its reports is inconsistent, alongside Royal Commissions and public inquiries.
+
+## Worked example
+
+Evaluate whether parliamentary supremacy is absolute.
+
+```
+FOR      Parliament can legislate on any subject
+         courts cannot strike down an Act
+         no Parliament binds its successor
+
+LIMITS   devolution has transferred competences in practice
+         Human Rights Act 1998: courts may issue a declaration of
+           incompatibility, though the Act still stands
+         international obligations create political constraints
+         entrenchment in practice: some Acts are politically
+           impossible to repeal
+```
+
+The conclusion should distinguish **legal** supremacy, which survives, from **practical** constraints, which are real.
+
+## Common mistakes
+
+Confusing the rule of law with the separation of powers. Saying courts can strike down an Act of Parliament — a declaration of incompatibility does not invalidate it. Describing equity as a separate court system today. Listing ADR types without comparing them to litigation. Discussing justice with no named theorist.
+
+## Quick revision checklist
+
+- State Dicey's rule of law, parliamentary supremacy and the separation of powers, with the effect of the Constitutional Reform Act 2005.
+- Explain how judicial independence is protected.
+- Discuss law and morality, and distributive, corrective and procedural justice with named theorists.
+- Explain equitable remedies and when they are granted.
+- Evaluate access to justice after LASPO and compare ADR with litigation.
+- Assess whether parliamentary supremacy is absolute.

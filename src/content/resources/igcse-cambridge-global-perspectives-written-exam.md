@@ -69,3 +69,73 @@ before starting to write.
 Cambridge IGCSE Global Perspectives (0457) syllabus for 2025, 2026
 and 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662457-2025-2027-syllabus.pdf).
+
+## What the written paper actually tests
+
+Global Perspectives is assessed on **skills**, not on remembered content. The paper supplies unseen source material and asks you to work with it. The skills are usually grouped as research, analysis, evaluation, reflection and communication — and the marks follow the skill, not the topic.
+
+That has a practical consequence: revising "facts about climate change" is largely wasted effort. Practising the *moves* — identifying a perspective, testing evidence, weighing a source — is what raises the grade.
+
+## Perspectives, arguments and evidence
+
+A **perspective** is a point of view supported by reasoning and evidence, held for reasons connected to the holder's context — national, cultural, economic, generational, professional. It is not simply an opinion.
+
+Every issue should be considered at three levels: **personal**, **national** and **global**. A strong answer moves between them rather than staying at one.
+
+Distinguish carefully:
+
+- **Argument** — a conclusion supported by reasons.
+- **Evidence** — data, examples or testimony offered in support.
+- **Assertion** — a claim with no support at all.
+- **Assumption** — something taken for granted but unstated.
+
+## Analysing and evaluating sources
+
+Analysis identifies what a source claims, what reasons it offers, and what it assumes. Evaluation judges how good it is, using criteria you should be able to name and apply:
+
+| Criterion | Question to ask |
+|---|---|
+| Credibility | Who wrote it, and what expertise do they have? |
+| Bias | Do they gain from this view? Is the language loaded? |
+| Currency | Is it recent enough for the claim? |
+| Relevance | Does it actually address the question? |
+| Corroboration | Do independent sources agree? |
+| Sample and method | Where data is used, how was it gathered? |
+
+The common weakness is *asserting* bias rather than demonstrating it. "This source is biased because it is from an oil company" is weaker than quoting the loaded phrasing and explaining the interest served.
+
+## Constructing a response
+
+A strong extended answer states a clear line of reasoning, uses source material as evidence rather than summarising it, considers at least one **counter-argument** genuinely, and reaches a justified conclusion that follows from what came before.
+
+**Reflection** — what you now think and why your view changed — carries marks and is routinely skipped.
+
+## Worked example
+
+A source states: "A survey of 200 people in one city found 78% support the new transport policy, so the country clearly backs it."
+
+```
+Claim       -> the country supports the policy
+Evidence    -> a survey, 78% of 200 people
+Assumption  -> one city represents the whole country
+
+Evaluation:
+  Sample size 200 is small for a national claim
+  Sample is geographically narrow -- urban only, one city
+  "Clearly" overstates what the data can support
+  No information on who conducted it or how respondents were selected
+```
+
+Naming the specific weakness beats a general comment about reliability.
+
+## Common mistakes
+
+Revising topic content instead of practising skills. Summarising a source rather than using it as evidence. Asserting bias without demonstrating it from the text. Treating an assertion as evidence. Ignoring the personal, national and global levels. Omitting reflection. Presenting a counter-argument then not responding to it.
+
+## Quick revision checklist
+
+- Define perspective, argument, evidence, assertion and assumption, and tell them apart in a source.
+- Consider any issue at personal, national and global levels.
+- Apply all six evaluation criteria and demonstrate a weakness from the text.
+- Build an argument with a clear line of reasoning and a genuine counter-argument.
+- Write a reflection that explains how and why your view developed.
