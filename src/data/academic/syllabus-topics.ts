@@ -2687,9 +2687,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/635901-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'English Language syllabuses are organised around named papers and sections, not a numbered topic taxonomy. AS Level: Paper 1 Reading, Paper 2 Writing. A Level adds Paper 3 Language Analysis and Paper 4 Language Topics, each with two named sections. Version 2, published October 2021.',
+    notes: 'English Language syllabuses are organised around named papers and sections, not a numbered topic taxonomy. AS Level: Paper 1 Reading, Paper 2 Writing. A Level adds Paper 3 Language Analysis and Paper 4 Language Topics, each with two named sections. Version 2, published October 2021. Paper 1 subtopics (Knowledge and understanding; Skills and techniques) reproduce the specification PDF\'s own subject-content sub-headings for Paper 1, fetched and verified 2026-08-21; Paper 2 shares the same knowledge and understanding content as Paper 1 per the specification\'s own text.',
     topics: [
-      { number: 1, name: 'Paper 1 – Reading', slug: 'paper-1-reading-9093', stage: 'AS', subtopics: [] },
+      { number: 1, name: 'Paper 1 – Reading', slug: 'paper-1-reading-9093', stage: 'AS', subtopics: [
+        { number: '1.1', name: 'Knowledge and understanding', slug: 'knowledge-and-understanding-9093' },
+        { number: '1.2', name: 'Skills and techniques', slug: 'skills-and-techniques-9093' },
+      ] },
       { number: 2, name: 'Paper 2 – Writing', slug: 'paper-2-writing-9093', stage: 'AS', subtopics: [] },
       { number: 3, name: 'Paper 3 – Language Analysis', slug: 'paper-3-language-analysis-9093', stage: 'A', subtopics: [
         { number: '3.1', name: 'Section A: Language Change', slug: 'section-a-language-change-9093' },
@@ -2998,9 +3001,16 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/636099-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'AS Level covers Paper 1 and Paper 2. A Level adds Paper 3 and Paper 4; Paper 4 has three named sections and candidates answer on 2 of the 3. Cross-confirmed against OxfordAQA’s own International A-level Sociology (9690) switching guide, which independently reproduces this same paper structure.',
+    notes: 'AS Level covers Paper 1 and Paper 2. A Level adds Paper 3 and Paper 4; Paper 4 has three named sections and candidates answer on 2 of the 3. Cross-confirmed against OxfordAQA’s own International A-level Sociology (9690) switching guide, which independently reproduces this same paper structure. Paper 1 subtopics (1.1-2.3) reproduce the specification PDF\'s own two-section structure (Socialisation and the creation of social identity; Methods of research), fetched and verified 2026-08-21.',
     topics: [
-      { number: 1, name: 'Paper 1 – Socialisation, Identity and Methods of Research', slug: 'paper-1-socialisation-identity-methods-9699', stage: 'AS', subtopics: [] },
+      { number: 1, name: 'Paper 1 – Socialisation, Identity and Methods of Research', slug: 'paper-1-socialisation-identity-methods-9699', stage: 'AS', subtopics: [
+        { number: '1.1', name: 'The process of learning and socialisation', slug: 'process-of-learning-and-socialisation-9699' },
+        { number: '1.2', name: 'Social control, conformity and resistance', slug: 'social-control-conformity-resistance-9699' },
+        { number: '1.3', name: 'Social identity and change', slug: 'social-identity-and-change-9699' },
+        { number: '2.1', name: 'Types of data, methods and research design', slug: 'types-of-data-methods-research-design-9699' },
+        { number: '2.2', name: 'Approaches to sociological research', slug: 'approaches-to-sociological-research-9699' },
+        { number: '2.3', name: 'Research issues', slug: 'research-issues-9699' },
+      ] },
       { number: 2, name: 'Paper 2 – The Family', slug: 'paper-2-the-family-9699', stage: 'AS', subtopics: [] },
       { number: 3, name: 'Paper 3 – Education', slug: 'paper-3-education-9699', stage: 'A', subtopics: [] },
       { number: 4, name: 'Paper 4 – Globalisation, Media and Religion', slug: 'paper-4-globalisation-media-religion-9699', stage: 'A', subtopics: [
@@ -3317,9 +3327,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/664556-2025-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'AS Level (Paper 1 + Paper 2) is 50% of the AS award / 25% of the full A Level each; A Level adds Paper 3 and Paper 4 (25% each), where candidates answer on 2 of the optional topics offered within each paper. The named options within Papers 3 and 4 are not itemised here — only the confirmed paper-level structure is represented, consistent with the syllabus overview document fetched (not the full subject-content chapter).',
+    notes: 'AS Level (Paper 1 + Paper 2) is 50% of the AS award / 25% of the full A Level each; A Level adds Paper 3 and Paper 4 (25% each), where candidates answer on 2 of the optional topics offered within each paper. The named options within Papers 3 and 4 are not itemised here. Paper 1 subtopics (its three compulsory topics: Hydrology and fluvial geomorphology; Atmosphere and weather; Rocks and weathering) reproduce the full specification PDF\'s own subject-content chapter, fetched and verified 2026-08-21.',
     topics: [
-      { number: 1, name: 'Paper 1 – Core Physical Geography', slug: 'paper-1-core-physical-geography-9696', stage: 'AS', subtopics: [] },
+      { number: 1, name: 'Paper 1 – Core Physical Geography', slug: 'paper-1-core-physical-geography-9696', stage: 'AS', subtopics: [
+        { number: '1', name: 'Hydrology and fluvial geomorphology', slug: 'hydrology-and-fluvial-geomorphology-9696' },
+        { number: '2', name: 'Atmosphere and weather', slug: 'atmosphere-and-weather-9696' },
+        { number: '3', name: 'Rocks and weathering', slug: 'rocks-and-weathering-9696' },
+      ] },
       { number: 2, name: 'Paper 2 – Core Human Geography', slug: 'paper-2-core-human-geography-9696', stage: 'AS', subtopics: [] },
       { number: 3, name: 'Paper 3 – Advanced Physical Geography Options', slug: 'paper-3-advanced-physical-geography-options-9696', stage: 'A', subtopics: [] },
       { number: 4, name: 'Paper 4 – Advanced Human Geography Options', slug: 'paper-4-advanced-human-geography-options-9696', stage: 'A', subtopics: [] },
@@ -3678,9 +3692,16 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/664633-2025-2027-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'All candidates take Paper 1 (Reading and Writing, 67%, 6 exercises) and Paper 2 (Listening, 33%, 4 exercises). Centres can additionally enter candidates for the optional, separately-endorsed Component 5 Speaking (not counted in the overall qualification grade).',
+    notes: 'All candidates take Paper 1 (Reading and Writing, 67%, 6 exercises) and Paper 2 (Listening, 33%, 4 exercises). Centres can additionally enter candidates for the optional, separately-endorsed Component 5 Speaking (not counted in the overall qualification grade). Paper 1\'s six exercises (short answer questions, multiple matching, note-making, summary, writing exercise, extended writing exercise) reproduce the specification PDF\'s own exercise-by-exercise breakdown, fetched and verified 2026-08-21.',
     topics: [
-      { number: 1, name: 'Paper 1 – Reading and Writing', slug: 'paper-1-reading-writing-0539', subtopics: [] },
+      { number: 1, name: 'Paper 1 – Reading and Writing', slug: 'paper-1-reading-writing-0539', subtopics: [
+        { number: '1', name: 'Exercise 1: Short answer questions', slug: 'exercise-1-short-answer-questions-0539' },
+        { number: '2', name: 'Exercise 2: Multiple matching', slug: 'exercise-2-multiple-matching-0539' },
+        { number: '3', name: 'Exercise 3: Note-making', slug: 'exercise-3-note-making-0539' },
+        { number: '4', name: 'Exercise 4: Summary', slug: 'exercise-4-summary-0539' },
+        { number: '5', name: 'Exercise 5: Writing exercise', slug: 'exercise-5-writing-exercise-0539' },
+        { number: '6', name: 'Exercise 6: Extended writing exercise', slug: 'exercise-6-extended-writing-exercise-0539' },
+      ] },
       { number: 2, name: 'Paper 2 – Listening', slug: 'paper-2-listening-0539', subtopics: [] },
       { number: 3, name: 'Component 5 – Speaking (optional, separately endorsed)', slug: 'component-5-speaking-0539', subtopics: [] },
     ],
