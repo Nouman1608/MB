@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Alcohols: Revision Notes"
+title: "AS Chemistry: Alcohols — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

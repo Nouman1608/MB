@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Ideal Gases and Structure: Revision Notes"
+title: "AS Chemistry: Ideal Gases and Structure — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

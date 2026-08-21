@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Group 2: Revision Notes"
+title: "AS Chemistry: Group 2 — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

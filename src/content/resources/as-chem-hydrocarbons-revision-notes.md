@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Alkanes and Alkenes: Revision Notes"
+title: "AS Chemistry: Alkanes and Alkenes — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

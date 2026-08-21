@@ -1,5 +1,5 @@
 ---
-title: "English Language: Analysis and Composition: Revision Notes"
+title: "English Language: Analysis and Composition — Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["igcse"]

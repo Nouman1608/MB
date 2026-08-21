@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Periodicity Across Period 3: Revision Notes"
+title: "AS Chemistry: Periodicity Across Period 3 — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

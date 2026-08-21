@@ -1,5 +1,5 @@
 ---
-title: "Global Perspectives: The Written Exam: Revision Notes"
+title: "Global Perspectives: The Written Exam — Revision Notes"
 resourceType: "revision-notes"
 subject: "global-perspectives"
 level: ["igcse"]

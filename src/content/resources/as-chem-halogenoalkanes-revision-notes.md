@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Halogenoalkanes: Revision Notes"
+title: "AS Chemistry: Halogenoalkanes — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

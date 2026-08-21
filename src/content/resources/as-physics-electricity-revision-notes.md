@@ -1,5 +1,5 @@
 ---
-title: "AS Physics: Electricity: Revision Notes"
+title: "AS Physics: Electricity — Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

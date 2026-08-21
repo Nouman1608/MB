@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Redox Processes: Revision Notes"
+title: "AS Chemistry: Redox Processes — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

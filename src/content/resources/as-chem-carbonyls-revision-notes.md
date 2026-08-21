@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Aldehydes and Ketones: Revision Notes"
+title: "AS Chemistry: Aldehydes and Ketones — Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]
