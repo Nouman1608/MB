@@ -1272,6 +1272,116 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'IMPORTANT: this is the UK GCE A Level Urdu (9UR0), not International A Level (IAL) — Edexcel does not offer Urdu as an IAL subject, unlike the other subjects available in this combination. Three papers: Paper 1 (9UR0/01) Translation into English, reading comprehension and writing (research question) in Urdu; Paper 2 (9UR0/02) Translation into Urdu and written response to works studied; Paper 3 (9UR0/03) Listening, reading and writing in Urdu.',
   },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'law',
+    officialTitle: 'Cambridge International AS & A Level Law (9084)',
+    code: '9084',
+    boardSummary:
+      'Cambridge International AS & A Level Law introduces students to the study of the law of England and Wales, developing transferable skills in legal analysis and argument.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-law-9084/',
+    verifiedOn: '2026-08-21',
+    notes: 'Staged: AS Level (topics 1-2, English legal system and Criminal law) and A Level (adds topics 3-4, Law of contract and Law of tort).',
+  },
+  {
+    boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'law',
+    officialTitle: 'Pearson Edexcel International Advanced Level in Law',
+    code: 'YLA11',
+    boardSummary:
+      'The Edexcel International AS/Advanced Level Law syllabus develops students\' knowledge and understanding of legal rules, institutions and principles across different branches of law, using English law terminology relevant to international customers.',
+    officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Law/2015/specification-and-sample-assessments/Pearson-Edexcel-IAL-Law-Specification.pdf',
+    verifiedOn: '2026-08-21',
+    notes: 'Not split into separate IAS/IAL stages — two compulsory papers (Paper 1 YLA1/01, Paper 2 YLA1/02) both taken in the same series, each 50% of the total qualification. Specification Issue 4, November 2021.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'law',
+    officialTitle: 'AQA A-level Law (7162)',
+    code: '7162',
+    boardSummary:
+      'AQA A-level Law develops knowledge and understanding of legal rules and principles, and the ability to apply this to particular situations, together with skills in the analysis and evaluation of legal rules, principles and concepts.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/law/a-level/law-7162/specification',
+    verifiedOn: '2026-08-21',
+    notes: 'UK domestic GCE A-level (co-teachable with AS-level Law 7161), for teaching from September 2017, A-level exams 2019 onwards.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'global-perspectives',
+    officialTitle: 'Cambridge IGCSE Global Perspectives (0457)',
+    code: '0457',
+    boardSummary:
+      'Cambridge IGCSE Global Perspectives gives learners the opportunity to develop important skills while exploring significant global topics and issues within these topics.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-global-perspectives-0457/',
+    verifiedOn: '2026-08-21',
+    notes: 'Skills-based syllabus; knowledge of content is not assessed. Three components: Written Exam, Individual Report, Team Project.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'global-perspectives',
+    officialTitle: 'Cambridge International AS & A Level Global Perspectives & Research (9239)',
+    code: '9239',
+    boardSummary:
+      'Cambridge International AS & A Level Global Perspectives & Research develops learners\' thinking skills of analysis, evaluation and synthesis through considering a range of global topics, using an approach called the Critical Path.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-global-perspectives-and-research-9239/',
+    verifiedOn: '2026-08-21',
+    notes: 'AS Level: Components 1-3 (Written Exam, Essay, Team Project). Full A Level adds Component 4 (Cambridge Research Report).',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'environmental-management',
+    officialTitle: 'Cambridge IGCSE Environmental Management (0680)',
+    code: '0680',
+    boardSummary:
+      'Cambridge IGCSE Environmental Management helps learners develop an understanding of both the natural and human environment, and of strategies for managing the environment sustainably.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-environmental-management-0680/',
+    verifiedOn: '2026-08-21',
+    notes: '2027-2029 series: seven topics (Natural resources, Land, Water, The atmosphere and human activities, Ecosystems/biodiversity/fieldwork, Natural hazards, Human population).',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'environmental-management',
+    officialTitle: 'Cambridge O Level Environmental Management (5014)',
+    code: '5014',
+    boardSummary:
+      'Cambridge O Level Environmental Management teaches learners about sustainable development in a world where the security of resources and life-sustaining systems is affected by human impact.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-environmental-management-5014/',
+    verifiedOn: '2026-08-21',
+    notes: 'Nine-topic structure, shares content with sibling IGCSE Environmental Management 0680.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'statistics',
+    officialTitle: 'Cambridge IGCSE Statistics (0479)',
+    code: '0479',
+    boardSummary:
+      'Cambridge IGCSE Statistics develops learners\' understanding of statistical concepts and techniques and their ability to apply these to interpret and evaluate data.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-statistics-0479/',
+    verifiedOn: '2026-08-21',
+    notes: 'For examination 2027. Twelve topics across two compulsory papers.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'statistics',
+    officialTitle: 'Cambridge O Level Statistics (4040)',
+    code: '4040',
+    boardSummary:
+      'Cambridge O Level Statistics develops learners\' understanding of statistical concepts and techniques and their ability to apply these to interpret and evaluate data.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-statistics-4040/',
+    verifiedOn: '2026-08-21',
+    notes: 'For examination 2025-2027. Twelve topics, closely mirroring sibling IGCSE Statistics 0479.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'commerce',
+    officialTitle: 'Cambridge IGCSE Commerce (0715)',
+    code: '0715',
+    boardSummary:
+      'Cambridge IGCSE Commerce covers trade and commerce, how enterprises are structured, international trade, logistics, aids to trade, and sustainability and ethics in commercial activity.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-commerce-0715/',
+    verifiedOn: '2026-08-21',
+    notes: 'New syllabus, first exams 2028. Six topics.',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'commerce',
+    officialTitle: 'Cambridge O Level Commerce (7100)',
+    code: '7100',
+    boardSummary:
+      'Cambridge O Level Commerce covers trade and commerce, how enterprises are structured, international trade, logistics, aids to trade, and sustainability and ethics in commercial activity.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-commerce-7100/',
+    verifiedOn: '2026-08-21',
+    notes: 'For examination 2026-2028. Six topics, identical structure to sibling IGCSE Commerce 0715.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
