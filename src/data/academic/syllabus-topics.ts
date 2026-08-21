@@ -2420,9 +2420,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697167-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Version 5, published December 2025. Not tiered. Honest-partial: the 10 named topics (grouped into "Computer systems" 1-6 and "Algorithms, programming and logic" 7-10) are verified in full from the content-overview table; named sub-topics are not shown on that page and are not yet entered. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) Computer Science 0984 sibling syllabus.',
+    notes: 'Version 5, published December 2025. Not tiered. The 10 named topics (grouped into "Computer systems" 1-6 and "Algorithms, programming and logic" 7-10) are verified in full from the content-overview table. Topic 1 (Data representation) sub-topic structure (1.1-1.3) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-08-21. Named sub-topics for topics 2-10 are not yet entered. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) Computer Science 0984 sibling syllabus.',
     topics: [
-      { number: 1, name: 'Data representation', slug: 'data-representation-0478', subtopics: [] },
+      { number: 1, name: 'Data representation', slug: 'data-representation-0478', subtopics: [
+        { number: '1.1', name: 'Number systems', slug: 'number-systems-0478' },
+        { number: '1.2', name: 'Text, sound and images', slug: 'text-sound-and-images-0478' },
+        { number: '1.3', name: 'Data storage and compression', slug: 'data-storage-and-compression-0478' },
+      ] },
       { number: 2, name: 'Data transmission', slug: 'data-transmission', subtopics: [] },
       { number: 3, name: 'Hardware', slug: 'hardware-0478', subtopics: [] },
       { number: 4, name: 'Software', slug: 'software', subtopics: [] },
