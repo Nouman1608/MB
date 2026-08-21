@@ -62,3 +62,69 @@ scenarios rather than treating it as a one-off definition to memorise.
 Cambridge International AS & A Level ICT (9626) syllabus for
 examination 2025, 2026 and 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662482-2025-2027-syllabus.pdf).
+
+## Data, information and knowledge
+
+**Data** consists of raw facts and figures with no context — the number 37 alone means nothing. **Information** is data given context and meaning: 37 degrees Celsius, a patient's temperature. **Knowledge** is the ability to act on information: knowing that 37 degrees is normal and requires no treatment.
+
+Information has quality only if it is accurate, complete, relevant, timely, and presented in a suitable form for its user. Poor decisions usually trace back to a failure in one of these.
+
+**Static** information does not change once produced, such as a printed book. **Dynamic** information updates automatically, such as a live departures board — more useful but dependent on the reliability of its source.
+
+## Encoding and coding data
+
+Coding replaces a value with a shorter representation — M and F for gender, a three-letter airport code. It saves storage, speeds entry, and allows validation against a defined set.
+
+The costs are real: coarse coding loses precision, values may be misinterpreted by users unfamiliar with the scheme, and information can be lost irretrievably. Encoding colour as "R" cannot distinguish scarlet from crimson.
+
+## Data validation and verification
+
+These are frequently confused, and the distinction is the point of the topic.
+
+**Validation** checks that data is *reasonable* — performed by software as it is entered.
+
+| Check | Purpose |
+|---|---|
+| Range | Value falls between limits |
+| Type | Data is of the correct type |
+| Length | Correct number of characters |
+| Presence | A required field is not empty |
+| Format | Matches a pattern, such as a postcode |
+| Check digit | An extra digit calculated from the others |
+
+**Verification** checks that data has been *accurately transferred* — usually by double entry, as with password confirmation, or by visual proofreading against the source.
+
+Neither guarantees correctness: a date of birth may be valid, verified, and still the wrong date.
+
+## Processing methods
+
+- **Batch processing** — transactions collected and processed together, with no user interaction. Suited to payroll and billing, where immediate response is unnecessary.
+- **Online / real-time transaction processing** — each transaction processed immediately, keeping the master file always current. Required for booking systems, where two people must not book the same seat.
+- **Real-time control** — a system responds to sensor input quickly enough to influence the process, as in a chemical plant or aircraft control.
+
+## Worked example
+
+A booking system must not allow double booking. Which processing method, and why?
+
+```
+Real-time transaction processing.
+
+Master file is updated immediately as each booking is confirmed.
+The seat is marked unavailable before the next enquiry is answered.
+
+Batch processing would be unsuitable: bookings queued for later
+processing would allow two customers to reserve the same seat
+in the interval before the file is updated.
+```
+
+## Common mistakes
+
+Treating validation and verification as the same thing, or swapping their definitions. Claiming validation ensures data is correct — it ensures only that it is reasonable. Describing a check digit as a validation of meaning rather than an arithmetic check. Saying batch processing is "old" rather than appropriate where immediacy is not needed. Defining information as "processed data" without mentioning context and meaning.
+
+## Quick revision checklist
+
+- Distinguish data, information and knowledge with a clear example.
+- State the qualities that make information useful.
+- Explain coding with both its benefits and its loss of precision.
+- Name and describe every validation check, and contrast validation with verification.
+- Compare batch, online transaction and real-time control processing, and justify a choice for a scenario.
