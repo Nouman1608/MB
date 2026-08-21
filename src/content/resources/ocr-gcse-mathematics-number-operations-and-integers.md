@@ -72,3 +72,72 @@ here as a standing requirement rather than a box to tick once.
 OCR GCSE (9-1) Mathematics (J560) specification, for first assessment
 2017 —
 [ocr.org.uk](https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/specification-at-a-glance/).
+
+## Order of operations and negative numbers
+
+Calculations follow **BIDMAS**: brackets, indices, division and multiplication (left to right), then addition and subtraction (left to right). Division and multiplication rank equally, as do addition and subtraction — working strictly left to right within each pair is what prevents most errors.
+
+With negative numbers, two signs together combine: subtracting a negative is equivalent to adding, and multiplying or dividing two negatives gives a positive. An odd number of negative factors gives a negative product; an even number gives a positive.
+
+## Factors, multiples and primes
+
+A **factor** divides exactly into a number; a **multiple** is in its times table; a **prime** has exactly two distinct factors, so 1 is not prime and 2 is the only even prime.
+
+Prime factorisation is the reliable route to HCF and LCM:
+
+```
+84  = 2^2 x 3 x 7
+120 = 2^3 x 3 x 5
+
+HCF: lowest power of each shared prime  = 2^2 x 3       = 12
+LCM: highest power of every prime seen  = 2^3 x 3 x 5 x 7 = 840
+```
+
+A useful check: HCF x LCM = product of the two numbers. Here 12 x 840 = 10 080 = 84 x 120.
+
+## Powers, roots and standard form
+
+Index laws: multiplying adds indices, dividing subtracts, a power of a power multiplies, anything to the power zero is 1, a negative index gives the reciprocal, and a fractional index is a root.
+
+Standard form is A x 10^n with 1 <= A < 10. When multiplying, multiply the numbers and add the indices; when dividing, divide and subtract. Always check the result is still in standard form and adjust if A has drifted outside the range.
+
+## Rounding, estimation and bounds
+
+Round to a given number of decimal places or significant figures, remembering that leading zeros are never significant. Estimate by rounding every value to 1 significant figure before calculating.
+
+**Error intervals** describe the range a rounded value could have come from. A length recorded as 6.3 cm to 1 decimal place satisfies:
+
+```
+6.25 <= length < 6.35
+```
+
+The lower bound uses <= and the upper uses <, because 6.35 would round up.
+
+## Worked example
+
+Two bells ring at intervals of 84 seconds and 120 seconds. They ring together at 09:00. When do they next ring together?
+
+```
+This is an LCM problem, not HCF -- the bells coincide on a common multiple.
+
+84  = 2^2 x 3 x 7
+120 = 2^3 x 3 x 5
+LCM = 2^3 x 3 x 5 x 7 = 840 seconds
+
+840 s = 14 minutes  ->  09:14
+```
+
+Choosing between HCF and LCM is the real difficulty. LCM answers "when do things coincide again"; HCF answers "what is the largest equal group I can make".
+
+## Common mistakes
+
+Treating 1 as prime. Applying BIDMAS by doing all multiplication before all division rather than left to right. Using HCF where LCM is needed. Writing standard form with A outside 1 to 10. Rounding partway through a multi-step calculation instead of at the end. Using <= for the upper bound of an error interval.
+
+## Quick revision checklist
+
+- Apply BIDMAS correctly, including left-to-right rules for equal-priority operations.
+- Calculate confidently with negative numbers.
+- Write a number as a product of primes and use it for HCF and LCM.
+- Decide correctly between HCF and LCM from the wording of a problem.
+- Apply all index laws and calculate in standard form.
+- Round to decimal places and significant figures, estimate, and write error intervals with the correct inequality signs.
