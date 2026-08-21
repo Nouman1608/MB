@@ -1206,9 +1206,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official A-level Mathematics (7357) specification, live subject-content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA A-level Mathematics (7357), first teaching September 2017. The subject content is set out by the Department for Education and is common across all exam boards offering A-level Mathematics -- the 21 lettered subject-content sections and their weighting are prescribed by Ofqual/DfE, not set independently by AQA. Section names verified directly against the live AQA specification subject-content index pages (aqa.org.uk), fetched 2026-08-19. Sub-topic-level detail not yet researched -- sections recorded name-only pending a later phase.",
+    notes: "AQA A-level Mathematics (7357), first teaching September 2017. The subject content is set out by the Department for Education and is common across all exam boards offering A-level Mathematics -- the 21 lettered subject-content sections and their weighting are prescribed by Ofqual/DfE, not set independently by AQA. Section names verified directly against the live AQA specification subject-content index pages (aqa.org.uk). Topic 1 (Overarching themes) subtopics reproduce the specification PDF's own OT1-OT3 sub-headings, fetched and verified 2026-08-21; sections 2-21 remain name-only pending the same fetch for their content.",
     topics: [
-      { number: 1, name: 'Overarching themes', slug: 'overarching-themes-aqa-alevel-maths', subtopics: [] },
+      { number: 1, name: 'Overarching themes', slug: 'overarching-themes-aqa-alevel-maths', subtopics: [
+        { number: 'OT1', name: 'Mathematical argument, language and proof', slug: 'ot1-mathematical-argument-language-and-proof-aqa-alevel-maths' },
+        { number: 'OT2', name: 'Mathematical problem solving', slug: 'ot2-mathematical-problem-solving-aqa-alevel-maths' },
+        { number: 'OT3', name: 'Mathematical modelling', slug: 'ot3-mathematical-modelling-aqa-alevel-maths' },
+      ] },
       { number: 2, name: 'A: Proof', slug: 'a-proof-aqa-alevel-maths', subtopics: [] },
       { number: 3, name: 'B: Algebra and functions', slug: 'b-algebra-and-functions-aqa-alevel-maths', subtopics: [] },
       { number: 4, name: 'C: Coordinate geometry in the (x, y) plane', slug: 'c-coordinate-geometry-aqa-alevel-maths', subtopics: [] },
@@ -1458,9 +1462,18 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official AS and A-level Biology (7401/7402) specification, live subject-content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/biology/as-level/biology-7401/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA AS Biology (7401) and A-level Biology (7402), first teaching September 2015. Sections 3.1-3.4 are covered in the first year of the A-level and form the AS subject content; sections 3.5-3.8 are A-level only. Eight section names reproduced directly from the live AQA specification subject-content pages, fetched 2026-08-19.",
+    notes: "AQA AS Biology (7401) and A-level Biology (7402), first teaching September 2015. Sections 3.1-3.4 are covered in the first year of the A-level and form the AS subject content; sections 3.5-3.8 are A-level only. Eight section names reproduced directly from the live AQA specification subject-content pages. Topic 1 (Biological molecules) subtopics reproduce the specification PDF's own 3.1.1-3.1.8 sub-headings, fetched and verified 2026-08-21; topics 2-8 remain name-only pending the same fetch for their content.",
     topics: [
-      { number: 1, name: 'Biological molecules', slug: 'biological-molecules-aqa-alevel-biology', stage: 'AS', subtopics: [] },
+      { number: 1, name: 'Biological molecules', slug: 'biological-molecules-aqa-alevel-biology', stage: 'AS', subtopics: [
+        { number: '3.1.1', name: 'Monomers and polymers', slug: 'monomers-and-polymers-aqa-alevel-biology' },
+        { number: '3.1.2', name: 'Carbohydrates', slug: 'carbohydrates-aqa-alevel-biology' },
+        { number: '3.1.3', name: 'Lipids', slug: 'lipids-aqa-alevel-biology' },
+        { number: '3.1.4', name: 'Proteins', slug: 'proteins-aqa-alevel-biology' },
+        { number: '3.1.5', name: 'Nucleic acids', slug: 'nucleic-acids-aqa-alevel-biology' },
+        { number: '3.1.6', name: 'ATP', slug: 'atp-aqa-alevel-biology' },
+        { number: '3.1.7', name: 'Water', slug: 'water-aqa-alevel-biology' },
+        { number: '3.1.8', name: 'Inorganic ions', slug: 'inorganic-ions-aqa-alevel-biology' },
+      ] },
       { number: 2, name: 'Cells', slug: 'cells-aqa-alevel-biology', stage: 'AS', subtopics: [] },
       { number: 3, name: 'Organisms exchange substances with their environment', slug: 'organisms-exchange-substances-with-their-environment-aqa-alevel-biology', stage: 'AS', subtopics: [] },
       { number: 4, name: 'Genetic information, variation and relationships between organisms', slug: 'genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology', stage: 'AS', subtopics: [] },
@@ -1734,9 +1747,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official A-level Business (7132) specification, subject content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/business/a-level/business-7132/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'AQA A-level Business (7132), for first teaching from September 2023; current for cohorts taking exams through summer 2027. AQA has accredited a replacement specification (7138) for first teaching from September 2026, which will run alongside 7132 during the transition. The ten named subject-content sections are not further broken into numbered sub-headings in the public specification pages, so subtopics are left empty pending fetch of the full specification PDF outcome text.',
+    notes: 'AQA A-level Business (7132), for first teaching from September 2023; current for cohorts taking exams through summer 2027. AQA has accredited a replacement specification (7138) for first teaching from September 2026, which will run alongside 7132 during the transition. Topic 1 (What is business?) subtopics reproduce the specification PDF\'s own 3.1.1-3.1.3 sub-headings, fetched and verified 2026-08-21; topics 2-10 remain name-only pending the same fetch for their content.',
     topics: [
-      { number: 1, name: 'What is business?', slug: 'what-is-business-aqa-alevel-business', subtopics: [] },
+      { number: 1, name: 'What is business?', slug: 'what-is-business-aqa-alevel-business', subtopics: [
+        { number: '3.1.1', name: 'Understanding the nature and purpose of business', slug: 'nature-and-purpose-of-business-aqa-alevel-business' },
+        { number: '3.1.2', name: 'Understanding different business forms', slug: 'different-business-forms-aqa-alevel-business' },
+        { number: '3.1.3', name: 'Understanding that businesses operate within an external environment', slug: 'external-environment-aqa-alevel-business' },
+      ] },
       { number: 2, name: 'Managers, leadership and decision making', slug: 'managers-leadership-and-decision-making-aqa-alevel-business', subtopics: [] },
       { number: 3, name: 'Marketing management', slug: 'marketing-management-aqa-alevel-business', subtopics: [] },
       { number: 4, name: 'Operational management', slug: 'operational-management-aqa-alevel-business', subtopics: [] },
@@ -2090,9 +2107,15 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official A-level Economics (7136) specification, subject content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'AQA A-level Economics (7136), for first teaching from September 2015. The specification\'s two subject-content sections (broadly microeconomics and macroeconomics) are named but not further broken into numbered sub-headings in the public specification pages, so subtopics are left empty pending fetch of the full specification PDF outcome text.',
+    notes: 'AQA A-level Economics (7136), for first teaching from September 2015. The specification\'s two subject-content sections (broadly microeconomics and macroeconomics) map to the PDF\'s own sections 3.1 and 3.2. Topic 1 (Individuals, firms, markets and market failure = PDF section 3.1, The operation of markets and market failure) subtopics reproduce the PDF\'s own 3.1.1-3.1.5 sub-headings, fetched and verified 2026-08-21; topic 2 remains name-only pending the same fetch for its content.',
     topics: [
-      { number: 1, name: 'Individuals, firms, markets and market failure', slug: 'individuals-firms-markets-and-market-failure-aqa-alevel-economics', subtopics: [] },
+      { number: 1, name: 'Individuals, firms, markets and market failure', slug: 'individuals-firms-markets-and-market-failure-aqa-alevel-economics', subtopics: [
+        { number: '3.1.1', name: 'Economic methodology and the economic problem', slug: 'economic-methodology-and-the-economic-problem-aqa-alevel-economics' },
+        { number: '3.1.2', name: 'Price determination in a competitive market', slug: 'price-determination-in-a-competitive-market-aqa-alevel-economics' },
+        { number: '3.1.3', name: 'Production, costs and revenue', slug: 'production-costs-and-revenue-aqa-alevel-economics' },
+        { number: '3.1.4', name: 'Competitive and concentrated markets', slug: 'competitive-and-concentrated-markets-aqa-alevel-economics' },
+        { number: '3.1.5', name: 'The market mechanism, market failure and government intervention in markets', slug: 'market-mechanism-market-failure-and-government-intervention-aqa-alevel-economics' },
+      ] },
       { number: 2, name: 'The national and international economy', slug: 'the-national-and-international-economy-aqa-alevel-economics', subtopics: [] },
     ],
   },
@@ -2283,7 +2306,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official subject content pages at aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content',
     sourceUrl: 'https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'First teaching 2017. Honest-partial: all 18 named subject-content sections (3.1-3.18) verified in full and in order directly from AQA\'s live specification index, but the detailed bulleted content within each section is not yet entered.',
+    notes: 'First teaching 2017. Honest-partial: all 18 named subject-content sections (3.1-3.18) verified in full and in order directly from AQA\'s live specification index. Topic 1 (An introduction to the role of the accountant in business) confirmed via the full specification PDF, fetched 2026-08-21, to be a genuine flat section of 3 content statements with no numbered sub-headings, so its subtopics correctly remain an empty array; topics 2-18 remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'An introduction to the role of the accountant in business', slug: 'an-introduction-to-the-role-of-the-accountant-in-business', subtopics: [] },
       { number: 2, name: 'Types of business organisation', slug: 'types-of-business-organisation', subtopics: [] },
@@ -2565,9 +2588,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official subject content pages at aqa.org.uk/subjects/computer-science/a-level/computer-science-7517/specification/subject-content',
     sourceUrl: 'https://www.aqa.org.uk/subjects/computer-science/a-level/computer-science-7517/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'First teaching 2015. Honest-partial: the 13 named subject-content sections (4.1-4.13) verified in full and in order directly from AQA\'s live specification index; the non-exam-assessment practical project (4.14) is a coursework component, not syllabus content, and is deliberately excluded. Detailed bulleted content within each section is not yet entered.',
+    notes: 'First teaching 2015. Honest-partial: the 13 named subject-content sections (4.1-4.13) verified in full and in order directly from AQA\'s live specification index; the non-exam-assessment practical project (4.14) is a coursework component, not syllabus content, and is deliberately excluded. Topic 1 (Fundamentals of programming = PDF section 3.1) subtopics reproduce the PDF\'s own 3.1.1-3.1.2 sub-headings, fetched and verified 2026-08-21; topics 2-13 remain name-only pending the same fetch for their content.',
     topics: [
-      { number: 1, name: 'Fundamentals of programming', slug: 'fundamentals-of-programming', subtopics: [] },
+      { number: 1, name: 'Fundamentals of programming', slug: 'fundamentals-of-programming', subtopics: [
+        { number: '3.1.1', name: 'Programming', slug: 'programming-aqa-alevel-cs' },
+        { number: '3.1.2', name: 'Procedural-oriented programming', slug: 'procedural-oriented-programming-aqa-alevel-cs' },
+      ] },
       { number: 2, name: 'Fundamentals of data structures', slug: 'fundamentals-of-data-structures', subtopics: [] },
       { number: 3, name: 'Fundamentals of algorithms', slug: 'fundamentals-of-algorithms', subtopics: [] },
       { number: 4, name: 'Theory of computation', slug: 'theory-of-computation-7517', subtopics: [] },
@@ -2799,7 +2825,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages at aqa.org.uk/subjects/english/a-level/english-7702/specification',
     sourceUrl: 'https://www.aqa.org.uk/subjects/english/a-level/english-7702/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
-    notes: 'Linear qualification. Methods of language analysis are integrated into each paper rather than assessed as a stand-alone topic.',
+    notes: 'Linear qualification. Methods of language analysis are integrated into each paper rather than assessed as a stand-alone topic. Paper 1 assessment structure (timing, marks, section weightings) cross-checked against the full specification PDF (Version 1.2, 14 October 2021), fetched and verified 2026-08-21.',
     topics: [
       { number: 1, name: 'Paper 1 – Language, the Individual and Society', slug: 'paper-1-language-the-individual-and-society-7702', subtopics: [
         { number: '1.1', name: 'Section A: Textual Variations and Representations', slug: 'section-a-textual-variations-and-representations-7702' },
@@ -3031,7 +3057,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification', verifiedDate: '2026-08-19',
-    notes: 'AS content is assessed via Paper 1 and Paper 2. A-level content adds Biopsychology and Issues and Debates plus one option from each of three groups, all assessed via Paper 3 alongside the AS content in Papers 1-2. AS (7181) and A-level share the first year of teaching.',
+    notes: 'AS content is assessed via Paper 1 and Paper 2. A-level content adds Biopsychology and Issues and Debates plus one option from each of three groups, all assessed via Paper 3 alongside the AS content in Papers 1-2. AS (7181) and A-level share the first year of teaching. Paper 1 (1.1-1.3) content cross-checked against the full specification PDF (Version 1.4, 1 September 2025), fetched and verified 2026-08-21.',
     topics: [
       { number: 1, name: 'Paper 1 – Introductory Topics in Psychology', slug: 'paper-1-introductory-topics-7182', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Social Influence', slug: 'social-influence-7182' },
