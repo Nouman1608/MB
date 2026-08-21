@@ -74,3 +74,61 @@ skill is what distinguishes top-band answers.
 AQA A-level Economics (7136) specification, for first teaching from
 September 2015 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content).
+
+## Consumer behaviour and rationality
+
+Traditional theory assumes consumers are rational utility maximisers with perfect information, acting in self-interest. The **law of diminishing marginal utility** — each extra unit yields less additional satisfaction — explains why the demand curve slopes downward.
+
+**Behavioural economics** challenges the assumption. Consumers use rules of thumb, are influenced by how choices are framed and by social norms, exhibit inertia and loss aversion, and have bounded rationality. This matters for policy: **nudges** and altered default options, such as auto-enrolment in pensions, can change behaviour more cheaply than taxes or bans.
+
+## Production, costs and returns
+
+Distinguish the short run, in which at least one factor is fixed, from the long run, in which all factors are variable.
+
+The **law of diminishing returns** applies only in the short run: adding a variable factor to a fixed one eventually reduces marginal product, which is why marginal cost eventually rises.
+
+**Economies of scale** apply in the long run and lower long-run average cost: technical, purchasing, managerial, financial, marketing and risk-bearing. Beyond the minimum efficient scale, diseconomies — communication failures, coordination difficulties, weakened motivation — push average cost back up.
+
+## Market structures
+
+| Structure | Firms | Barriers | Product | Long-run profit |
+|---|---|---|---|---|
+| Perfect competition | Very many | None | Homogeneous | Normal only |
+| Monopolistic competition | Many | Low | Differentiated | Normal only |
+| Oligopoly | Few | High | Either | Supernormal possible |
+| Monopoly | One | Very high | Unique | Supernormal |
+
+All firms profit-maximise where **MC = MR**. In perfect competition, supernormal profit attracts entry until only normal profit remains. Monopoly sustains supernormal profit through barriers, producing at lower output and higher price than the competitive outcome — but may deliver dynamic efficiency, since supernormal profit funds research and development.
+
+Oligopoly is defined by **interdependence**: each firm must anticipate rivals' reactions, which explains the kinked demand curve, price rigidity, non-price competition and the incentive to collude.
+
+## Efficiency and market failure
+
+**Allocative efficiency** occurs where price equals marginal cost, **productive efficiency** at the lowest point of average cost, **dynamic efficiency** through innovation over time, and **X-inefficiency** where a lack of competitive pressure lets costs drift above the minimum.
+
+Market failure arises from externalities, public goods, information gaps, and market power itself — monopoly restricting output below the allocatively efficient level.
+
+## Worked example
+
+A monopolist faces MC = 20 and, at output 100, MR = 35. Is it maximising profit?
+
+```
+Profit is maximised where MC = MR.
+
+Here MR (35) > MC (20).
+The next unit adds 35 to revenue and only 20 to cost -> adds 15 to profit.
+
+The firm should INCREASE output until MR falls to equal MC.
+```
+
+## Common mistakes
+
+Applying diminishing returns in the long run, or economies of scale in the short run — the distinction is which factors are fixed. Confusing diseconomies of scale with diminishing returns. Saying monopolies are always bad, ignoring dynamic efficiency and natural monopoly. Stating firms maximise profit where AC is lowest. Describing normal profit as zero profit rather than the minimum needed to keep the firm in the industry.
+
+## Quick revision checklist
+
+- Explain rational choice and diminishing marginal utility, and contrast with behavioural insights.
+- Distinguish short run from long run, and diminishing returns from economies of scale.
+- Compare the four market structures on firms, barriers, product and long-run profit.
+- Apply the MC = MR rule and explain entry and exit in competitive markets.
+- Define all four types of efficiency and evaluate monopoly against them.

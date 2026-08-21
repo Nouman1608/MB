@@ -67,3 +67,66 @@ across the exam paper.
 OCR GCSE (9-1) Business (J204) specification, for first teaching from
 2017 —
 [ocr.org.uk](https://www.ocr.org.uk/Images/304213-specification-accredited-gcse-business-j204.pdf).
+
+## Business activity and enterprise
+
+Businesses exist to satisfy needs and wants by combining the factors of production and **adding value** — the difference between the cost of inputs and the selling price. Value is added through brand, quality, convenience, design and service, not price alone.
+
+An **entrepreneur** organises the other factors and bears risk. Motives include profit, independence, filling a gap in the market, and personal or social goals. Business activity carries risk of failure, loss of capital and long hours, set against reward in profit and control.
+
+Objectives differ by stage: a start-up prioritises **survival** and cash flow, while an established firm pursues profit, growth or market share.
+
+## Ownership and stakeholders
+
+Sole traders and partnerships have **unlimited liability** — personal assets are at risk. Private and public limited companies have **limited liability**, so shareholders can lose only what they invested. That protection is what makes raising external capital feasible, and it is the most examined idea in the topic.
+
+Stakeholders — owners, employees, customers, suppliers, government and the local community — have interests that frequently conflict. Higher wages please employees but reduce profit; expansion pleases owners but may disturb the community.
+
+## Marketing
+
+**Market research** divides into primary (surveys, interviews, observation, focus groups — specific but slow and costly) and secondary (existing reports and data — quick and cheap but not tailored). Quantitative data gives numbers; qualitative gives reasons.
+
+**Segmentation** groups customers by age, income, gender, location or lifestyle so the marketing mix can be targeted.
+
+The **marketing mix** is the four Ps:
+
+- **Product** — features, quality, the product life cycle, and extension strategies when sales decline.
+- **Price** — cost-plus, competitive, penetration for entering a market, skimming for a new technology, and promotional pricing.
+- **Place** — the distribution channel, increasingly direct through e-commerce.
+- **Promotion** — advertising, sales promotion, personal selling and public relations.
+
+The elements must be consistent: premium pricing with poor-quality packaging and discount retailers will fail regardless of how good each decision looks alone.
+
+## People
+
+**Recruitment** may be internal (cheaper, faster, known quantity, but no fresh ideas and leaves another vacancy) or external (wider pool and new perspectives, but slower and costlier).
+
+**Motivation** theory is usually examined through Maslow's hierarchy, Herzberg's hygiene factors and motivators, and Taylor's focus on pay. Financial methods include wages, salaries, commission, bonuses and profit sharing; non-financial methods include job rotation, enrichment, teamworking and delegation.
+
+**Organisational structure** may be tall (many layers, narrow span of control, clear progression, slower communication) or flat (fewer layers, wider span, faster communication, more delegation).
+
+## Worked example
+
+A bakery pays 80p in ingredients and packaging per loaf and sells at £2.20. It sells 500 loaves a day with fixed costs of £400 a day.
+
+```
+Added value per loaf = 2.20 - 0.80 = £1.40
+Total contribution   = 1.40 x 500  = £700
+Profit               = 700 - 400   = £300 per day
+
+Break-even output = fixed costs / contribution per unit
+                  = 400 / 1.40 = 286 loaves (to the nearest whole loaf)
+```
+
+## Common mistakes
+
+Treating added value as profit — added value ignores fixed costs. Saying limited liability means limited debt. Describing primary research as "better" rather than more specific but slower and dearer. Listing the four Ps without explaining how they must work together. Confusing span of control with chain of command.
+
+## Quick revision checklist
+
+- Define added value and calculate it, then use contribution to find break-even.
+- Explain the role of the entrepreneur and how objectives change with business stage.
+- Compare forms of ownership, focusing on liability.
+- Distinguish primary from secondary and quantitative from qualitative research.
+- Explain each element of the marketing mix and why consistency matters.
+- Compare internal and external recruitment, and financial with non-financial motivation.

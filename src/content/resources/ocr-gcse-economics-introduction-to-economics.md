@@ -69,3 +69,66 @@ than describing a single factor in isolation.
 OCR GCSE (9-1) Economics (J205) specification, for first teaching from
 2017 —
 [ocr.org.uk](https://www.ocr.org.uk/Images/306377-specification-accredited-gcse-economics-j205.pdf).
+
+## The basic economic problem
+
+Resources are **scarce** and human wants are **unlimited**. That single mismatch generates every question economics asks. Because we cannot have everything, we must choose — and every choice has an **opportunity cost**, the value of the next best alternative given up.
+
+Opportunity cost applies to all three economic agents: a consumer choosing between two purchases, a firm choosing between investment projects, and a government choosing between health and defence spending.
+
+## Factors of production
+
+| Factor | Meaning | Reward |
+|---|---|---|
+| Land | All natural resources | Rent |
+| Labour | Human effort, physical and mental | Wages |
+| Capital | Man-made aids to production — machinery, tools, factories | Interest |
+| Enterprise | Risk-taking and organising the other three | Profit |
+
+Note that capital in economics means productive equipment, not money. Money is a means of exchange, not a factor of production.
+
+## Production possibility curves
+
+A PPC shows the maximum combinations of two goods an economy can produce with all resources fully and efficiently employed.
+
+- A point **on** the curve is productively efficient.
+- A point **inside** shows unemployed or inefficiently used resources.
+- A point **outside** is unattainable with current resources and technology.
+- Moving along the curve shows opportunity cost — more of one good means less of the other.
+- The whole curve shifts **outward** with economic growth: more resources, better technology, improved education.
+
+## The three fundamental questions
+
+Every economy must answer what to produce, how to produce it, and for whom. The answers define the economic system: a **market economy** leaves them to the price mechanism, a **planned economy** to the state, and a **mixed economy** — which is what nearly every real economy is — combines both.
+
+## Specialisation and exchange
+
+Specialisation raises output through practice, mechanisation and economies of scale. It creates interdependence, which requires exchange, which requires money. Without money, trade depends on a **double coincidence of wants** — each party wanting exactly what the other offers — which barter rarely delivers.
+
+Money works because it acts as a medium of exchange, a measure of value, a store of value and a means of deferred payment.
+
+## Worked example
+
+A country can produce 100 units of food or 50 units of machinery, or combinations between. It currently produces 60 food and 20 machinery. Comment.
+
+```
+Maximum trade-off: giving up 100 food gains 50 machinery
+                   so 2 food = 1 machinery, opportunity cost of 1 machinery = 2 food
+
+At 60 food, the curve allows (100 - 60) / 2 = 20 machinery
+The economy produces exactly 20 -> it is ON the curve, productively efficient
+```
+
+Had it produced 15 machinery, resources would be unemployed and the point would lie inside the curve.
+
+## Common mistakes
+
+Defining capital as money. Saying opportunity cost is "what you lose" rather than the *next best* alternative forgone. Describing a point inside the PPC as impossible rather than inefficient. Claiming an outward shift comes from producing more — it comes from an increase in productive capacity. Forgetting that scarcity, not poverty, is the basic economic problem: rich economies face it too.
+
+## Quick revision checklist
+
+- State the basic economic problem and define opportunity cost precisely.
+- Name the four factors of production and their rewards.
+- Interpret points on, inside and outside a PPC, and explain what shifts it.
+- Set out the three fundamental economic questions and how each system answers them.
+- Explain specialisation, interdependence, and why money solves the double coincidence of wants.
