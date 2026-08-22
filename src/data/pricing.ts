@@ -23,8 +23,11 @@ export const PRICING_VERIFIED_DATE = '2026-08-20';
 export type FeeTier = 'igcse' | 'a-level';
 
 /** Which Marlbridge qualification labels map to which fee tier. Anything
- * not listed here (IB, SAT, IELTS, Academic Support) has no fixed
- * per-subject fee and must route to an enquiry, never a fabricated number. */
+ * not listed here (SAT, IELTS, Academic Support) has no fixed per-subject
+ * fee and must route to an enquiry, never a fabricated number. IB has its
+ * own fixed per-class rate (see IB_PRICING below) but is deliberately not
+ * folded into this per-subject-per-month tier system -- its pricing shape
+ * is genuinely different, not just a missing entry here. */
 export const QUALIFICATION_TIER: Record<string, FeeTier> = {
   'gcse': 'igcse',
   'igcse': 'igcse',
@@ -75,6 +78,45 @@ export const IB_PRICING = {
   deliveryMode: 'One-to-one only -- no group tuition option for IB.',
   unsupportedRegionNote: 'No confirmed IB rate exists yet for regions outside Pakistan -- enquire and Marlbridge will confirm a fee.',
   verifiedDate: '2026-08-22',
+} as const;
+
+/**
+ * One-to-one (1:1) class pricing for IGCSE and A Level tiers -- a separate
+ * per-class, one-to-one-only rate distinct from REGION_PRICING above (which
+ * is per subject, per month, and does not assume 1:1 delivery). Owner
+ * confirmed the Pakistan rate directly in chat, 2026-08-23 (Rs 3,500/class
+ * IGCSE, Rs 4,000/class A Level; see docs/decision-log.md D-012).
+ *
+ * IMPORTANT -- unlike IB_PRICING, the owner explicitly authorized computing
+ * real currency conversions for the other eight regions here (rather than
+ * requiring a separate confirmed rate for each). Only the Pakistan row below
+ * is an owner-set rate; the other eight rows are currency conversions of
+ * that same Pakistan rate, computed from live PKR exchange rates fetched
+ * from open.er-api.com (exchangerate-api.com), rate date 2026-08-22, applied
+ * 2026-08-23. SAR/AED/QAR/GBP/EUR are rounded to the nearest whole unit;
+ * KWD/BHD/OMR keep 3-decimal precision (see THREE_DECIMAL_CURRENCIES below),
+ * consistent with how those three currencies are already handled elsewhere
+ * in this file. These converted rows are NOT independently-set regional
+ * rates the way REGION_PRICING's rows are -- see ONE_TO_ONE_TERMS.conversionNote.
+ */
+export const ONE_TO_ONE_PRICING: readonly RegionPricing[] = [
+  { region: 'Pakistan', currency: 'PKR', symbol: 'Rs', igcse: 3500, aLevel: 4000 },
+  { region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', igcse: 49, aLevel: 56 },
+  { region: 'United Arab Emirates', currency: 'AED', symbol: 'AED', igcse: 48, aLevel: 54 },
+  { region: 'Qatar', currency: 'QAR', symbol: 'QAR', igcse: 47, aLevel: 54 },
+  { region: 'Kuwait', currency: 'KWD', symbol: 'KWD', igcse: 3.773, aLevel: 4.312 },
+  { region: 'Bahrain', currency: 'BHD', symbol: 'BHD', igcse: 4.872, aLevel: 5.568 },
+  { region: 'Oman', currency: 'OMR', symbol: 'OMR', igcse: 4.984, aLevel: 5.696 },
+  { region: 'United Kingdom', currency: 'GBP', symbol: '£', igcse: 9, aLevel: 11 },
+  { region: 'Europe', currency: 'EUR', symbol: '€', igcse: 11, aLevel: 12 },
+] as const;
+
+export const ONE_TO_ONE_TERMS = {
+  unit: 'per class',
+  deliveryMode: 'One-to-one only -- these rates are not available as group tuition.',
+  verifiedDate: '2026-08-23',
+  conversionNote: 'Only the Pakistan rate above was directly set by Marlbridge. The other eight regions are currency conversions of that same Pakistan rate, computed from exchange rates dated 2026-08-22 (source: exchangerate-api.com) and applied 2026-08-23 -- they are not independently published regional rates and will be refreshed periodically as exchange rates move.',
+  notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date above is when they were last confirmed or converted.',
 } as const;
 
 export const PRICING_TERMS = {
