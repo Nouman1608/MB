@@ -1,0 +1,116 @@
+---
+title: "A Level Chemistry: Lattice Energy, Entropy and Gibbs Free Energy — Practice Questions"
+resourceType: "practice-questions"
+subject: "chemistry"
+level: ["a-levels"]
+topic: "Chemical energetics"
+boards: ["cambridge"]
+qualifications: ["a-level"]
+syllabusCodes: ["9701"]
+syllabusSeries: "2025-2027"
+order: 23.1
+stage: "A"
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "a-chemical-energetics"
+    subtopic: "a-lattice-energy-and-born-haber-cycles"
+  - qualification: "a-level"
+    topic: "a-chemical-energetics"
+    subtopic: "a-enthalpies-of-solution-and-hydration"
+  - qualification: "a-level"
+    topic: "a-chemical-energetics"
+    subtopic: "a-entropy-change"
+  - qualification: "a-level"
+    topic: "a-chemical-energetics"
+    subtopic: "a-gibbs-free-energy-change"
+description: "Original exam-style practice questions with full worked answers on Born-Haber cycles, entropy and Gibbs free energy for Cambridge A Level Chemistry 9701."
+author: "nouman-ahmed"
+publishedDate: 2026-08-22
+featured: false
+---
+> **These are original questions written for Marlbridge**, in the style and at the
+> standard of the examination. They are **not** reproduced past-paper questions —
+> examination boards hold copyright in their own papers. Use these alongside the
+> official past papers available free from your board.
+
+Related: [Lattice Energy, Entropy and Gibbs Free Energy revision notes](/resources/a-chemistry-energetics-entropy-revision-notes/)
+
+---
+
+## Section A
+
+**1.** Define lattice energy. **[2]**
+
+**2.** Explain why the second electron affinity of oxygen is endothermic. **[2]**
+
+**3.** Predict, with reasons, whether MgO or NaCl has the more exothermic lattice energy. **[3]**
+
+**4.** Predict the sign of ΔS for each and justify: (a) `CaCO₃(s) → CaO(s) + CO₂(g)`; (b) `N₂(g) + 3H₂(g) → 2NH₃(g)`. **[4]**
+
+---
+
+## Section B
+
+**5.** Use the following data to construct a Born–Haber cycle and calculate the lattice energy of potassium chloride.
+
+```
+enthalpy of formation of KCl(s)      -437 kJ mol-1
+enthalpy of atomisation of K(s)      +89  kJ mol-1
+first ionisation energy of K         +418 kJ mol-1
+enthalpy of atomisation of Cl2(g)    +122 kJ mol-1  (per mole of Cl atoms)
+first electron affinity of Cl        -349 kJ mol-1
+```
+
+**(a)** Calculate the lattice energy. **[3]**
+
+**(b)** The theoretical lattice energy calculated from a purely ionic model is −702 kJ mol⁻¹. Comment on the difference. **[2]**
+
+**6.** For the decomposition of calcium carbonate:
+
+```
+CaCO3(s) -> CaO(s) + CO2(g)     delta-H = +178 kJ mol-1,  delta-S = +161 J K-1 mol-1
+```
+
+**(a)** Calculate ΔG at 298 K and state whether the reaction is feasible. **[3]**
+
+**(b)** Calculate the minimum temperature at which the reaction becomes feasible. **[2]**
+
+**(c)** The reaction is feasible above this temperature but is not observed at room temperature even after several days. Explain. **[2]**
+
+---
+
+## Answers
+
+**1.** The enthalpy change when **one mole** of an ionic compound [1] is formed from its **gaseous ions** [1].
+
+**2.** An electron is being added to an **already negatively charged ion** (O⁻) [1], so energy must be supplied to **overcome the electrostatic repulsion** [1].
+
+**3.** **MgO** [1]. Its ions carry **double the charge** (2+ and 2−, so the charge product is four times greater) [1] and the ionic radii are **smaller** [1].
+*Charge dominates over radius — say so.*
+
+**4. (a)** **Positive** [1] — a gas is produced from a solid, greatly increasing disorder [1].
+**(b)** **Negative** [1] — four moles of gas become two, so the number of gas particles decreases [1].
+
+**5. (a)** ΔH_f = ΔH_at(K) + IE(K) + ΔH_at(Cl) + EA(Cl) + ΔH_latt
+−437 = 89 + 418 + 122 + (−349) + ΔH_latt [1]
+−437 = 280 + ΔH_latt [1]
+ΔH_latt = **−717 kJ mol⁻¹** [1].
+
+**(b)** The experimental value is **more exothermic** than the theoretical [1], indicating a degree of **covalent character** — the cation polarises the anion's electron cloud [1].
+
+**6. (a)** ΔS must be converted: 161 J = 0.161 kJ [1].
+ΔG = 178 − (298 × 0.161) = 178 − 47.98 = **+130 kJ mol⁻¹** [1].
+ΔG is **positive**, so the reaction is **not feasible** at 298 K [1].
+
+**(b)** At the point of feasibility ΔG = 0, so T = ΔH ÷ ΔS [1] = 178 ÷ 0.161 = **1106 K** [1].
+
+**(c)** ΔG being negative indicates only that the reaction is **thermodynamically feasible**, not that it is fast [1]. The **activation energy is high**, so the rate is negligible at room temperature [1].
+
+---
+
+## Where marks are usually lost
+
+- Omitting "one mole" or "gaseous" from the lattice energy definition.
+- Mixing J and kJ in ΔG = ΔH − TΔS — the single most common arithmetic error.
+- Forgetting the ×2 for atomisation of a diatomic molecule, or the second ionisation energy for a 2+ ion.
+- Saying a feasible reaction will definitely be observed.
