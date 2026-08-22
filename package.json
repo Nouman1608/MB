@@ -14,6 +14,7 @@
     "validate:academic": "node scripts/validate-academic-matrix.mjs && node scripts/validate-academic-content.mjs && node scripts/validate-commercial-claims.mjs && node scripts/validate-cross-board-integrity.mjs && node --experimental-strip-types scripts/validate-pricing-consistency.mjs",
     "coverage:academic": "node scripts/academic-coverage-dashboard.mjs",
     "coverage:academic-v2": "node scripts/academic-coverage-report-v2.mjs",
+    "check:duplicate-scope": "node scripts/check-duplicate-resource-scope.mjs",
     "postbuild": "pagefind --site dist --output-subdir pagefind"
   },
   "dependencies": {

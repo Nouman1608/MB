@@ -437,3 +437,64 @@ Status values: `answered` (owner has responded, implemented), `open`
   founder's separate explicit approval, per the established pattern).
 
 ---
+## D-011 — Weekly automation dedup guard
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request ("do it" -- fixing the
+  follow-up flagged in D-010: the weekly automation had no dedup check
+  against existing `syllabusTopics` scope before generating a new
+  resource, so it could produce a 28th duplicate on its next run.)
+- **Fact provided:** The `marlbridge-weekly-study-guides` scheduled task
+  (Mondays 09:00, `cronExpression: "0 9 * * 1"`) is not a script in this
+  repo -- it's an LLM agent run from a prompt file
+  (`marlbridge-weekly-study-guides/SKILL.md`, managed outside this repo).
+  Its existing step 4 dedup check ("if a resource already exists
+  referencing that board+qualification+subject, skip it") is a loose,
+  agent-judgment check against filenames/subject matches -- not a check
+  against the actual declared syllabus scope. That gap is exactly how the
+  27 duplicate pairs fixed in D-010 were produced: e.g.
+  `as-chem-equilibria-practice` and `as-chemistry-equilibria-practice`
+  don't look alike as filenames but declare the identical official
+  board+qualification+subject+subtopic scope.
+- **Final decision:** Two changes, deliberately keeping the check as a
+  warning rather than a hard gate (see the new script's own doc comment
+  for why a fully automatic hard-fail isn't safe here -- 12 of the 39
+  candidate pairs found in D-010 turned out to be genuinely different
+  content sharing one coarse official subtopic label, and a hard gate
+  would have blocked those too):
+  1. Added `scripts/check-duplicate-resource-scope.mjs` -- groups every
+     resource by (subject, boards, qualifications, stage, resourceType,
+     full syllabusTopics topic/subtopic set) and prints a warning listing
+     any group with more than one file. Supports
+     `--only-involving <slug1>,<slug2>,...` to scope the report to files
+     just written in the current run. Deliberately NOT wired into
+     `npm run validate:academic` -- exposed instead as its own
+     `npm run check:duplicate-scope`.
+  2. Updated the `marlbridge-weekly-study-guides` SKILL.md prompt: step 4
+     (the in-run dedup check) now instructs running
+     `node scripts/check-duplicate-resource-scope.mjs --only-involving <new-slug>`
+     for each of the 3 candidate resources *before* writing its body, and
+     treating any warning as a stop-and-reconsider signal (read the
+     existing file, decide whether the new one would be a genuine
+     duplicate or genuinely different content, and pick a different topic
+     within the same subject if it would be a duplicate) rather than
+     something to silently override. Also added an explicit warning that
+     the `academic-coverage-report-v1.2.csv` used to shortlist
+     "zero-resource" combinations can be stale within a single burst of
+     runs, so the live check against `src/content/resources/` (not the
+     CSV) is the actual source of truth for "does this already exist."
+- **Implementation consequence:** New script + package.json entry;
+  SKILL.md prompt updated via
+  `mcp__scheduled-tasks__update_scheduled_task`. No change to the hard
+  validation gate (`npm run validate:academic`) -- this stays a
+  judgment-assisting warning, consistent with the `reviewNeeded`/
+  `reviewNote` pattern already used elsewhere in this repo for
+  human-judgment flags that shouldn't block a build.
+- **Follow-up required:** None expected, but worth revisiting if a future
+  weekly run reports a warning it doesn't know how to resolve -- the
+  prompt instructs stopping and reporting rather than guessing in that
+  case.
+- **Status:** implemented on `fix/weekly-automation-dedup-guard`; not yet
+  merged to `main`.
+
+---
