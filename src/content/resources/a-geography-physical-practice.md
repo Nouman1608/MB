@@ -1,5 +1,5 @@
 ---
-title: "A Level Geography: Core Physical Geography — Practice Questions — Practice Questions"
+title: "A Level Geography: Core Physical Geography — Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["a-levels"]

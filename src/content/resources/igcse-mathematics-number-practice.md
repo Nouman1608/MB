@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Mathematics: Number — Practice Questions — Practice Questions"
+title: "IGCSE Mathematics: Number — Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

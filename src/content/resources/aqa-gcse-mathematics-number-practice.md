@@ -1,5 +1,5 @@
 ---
-title: "AQA GCSE Mathematics: Number — Practice Questions — Practice Questions"
+title: "AQA GCSE Mathematics: Number — Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["gcse"]

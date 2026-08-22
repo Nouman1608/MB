@@ -1,5 +1,5 @@
 ---
-title: "Global Perspectives: The Written Exam — Practice Questions — Practice Questions"
+title: "Global Perspectives: The Written Exam — Practice Questions"
 resourceType: "practice-questions"
 subject: "global-perspectives"
 level: ["igcse"]

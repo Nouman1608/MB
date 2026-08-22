@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Nitrogen Compounds — Practice Questions — Practice Questions"
+title: "AS Chemistry: Nitrogen Compounds — Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

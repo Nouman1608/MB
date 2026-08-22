@@ -1,5 +1,5 @@
 ---
-title: "A Level History: Modern Europe 1750-1921 — Practice Questions — Practice Questions"
+title: "A Level History: Modern Europe 1750-1921 — Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["a-levels"]

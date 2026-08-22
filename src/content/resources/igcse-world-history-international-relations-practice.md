@@ -1,5 +1,5 @@
 ---
-title: "IGCSE History: International Relations Depth Studies — Practice Questions — Practice Questions"
+title: "IGCSE History: International Relations Depth Studies — Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

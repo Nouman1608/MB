@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA IGCSE Computer Science: Algorithms — Practice Questions — Practice Questions"
+title: "OxfordAQA IGCSE Computer Science: Algorithms — Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

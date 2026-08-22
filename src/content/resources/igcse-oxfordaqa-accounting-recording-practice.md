@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Accounting: Sources and Recording of Data — Practice Questions — Practice Questions"
+title: "IGCSE Accounting: Sources and Recording of Data — Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse"]

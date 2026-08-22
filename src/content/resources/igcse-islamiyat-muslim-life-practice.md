@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Islamiyat: Living the Muslim Life — Practice Questions — Practice Questions"
+title: "IGCSE Islamiyat: Living the Muslim Life — Practice Questions"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["igcse"]

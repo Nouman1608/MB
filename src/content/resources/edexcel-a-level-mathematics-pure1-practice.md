@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Mathematics: Pure Mathematics 1 — Practice Questions — Practice Questions"
+title: "Edexcel A Level Mathematics: Pure Mathematics 1 — Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

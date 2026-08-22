@@ -56,6 +56,46 @@ const CONSOLIDATED_RESOURCES = {
   // copy); its missing ion-configuration content was merged in from the
   // retired page before deletion (Site-wide audit, Aug 2026).
   'atoms-elements-and-compounds': 'atomic-structure',
+
+  // --- Duplicate-content sweep, 2026-08-23 ---
+  // The weekly content-automation job generated two separate resource
+  // files for the same official syllabusTopics scope (same board,
+  // qualification, syllabus code and subtopic) under two different slug
+  // conventions on at least 27 occasions, discovered during a full-site
+  // Google Search Console duplicate-content audit. Each pair was verified
+  // by hand (not just by matching taxonomy tags -- several same-tag pairs
+  // turned out to be genuinely different content sharing one coarse
+  // official subtopic label, e.g. "forces-and-motion" vs
+  // "moments-and-stability", and were deliberately left alone). For each
+  // confirmed duplicate, the higher-word-count / more complete file was
+  // kept; the other is retired here. See docs/decision-log.md D-010.
+  'ict-computer-systems-revision-notes': 'igcse-ict-computer-systems-revision-notes',
+  'world-history-nineteenth-century-revision-notes': 'igcse-world-history-nineteenth-century-revision-notes',
+  'english-language-analysis-practice': 'oxfordaqa-english-language-practice',
+  'as-chem-equilibria-practice': 'as-chemistry-equilibria-practice',
+  'igcse-accounting-fundamentals-practice': 'fundamentals-of-accounting-practice',
+  'english-language-analysis-revision-notes': 'oxfordaqa-english-language-revision-notes',
+  'graphs-and-curves-practice': 'mathematics-graphs-curves-practice',
+  'igcse-economics-basic-problem-practice': 'the-basic-economic-problem-practice',
+  'igcse-ict-computer-systems-practice': 'ict-computer-systems-practice',
+  'as-physics-deformation-of-solids-practice': 'as-physics-deformation-practice',
+  'as-chem-bonding-shapes-practice': 'as-chemistry-shapes-imf-practice',
+  'fundamentals-of-accounting-revision-notes': 'igcse-accounting-fundamentals-revision-notes',
+  'commerce-and-production-revision-notes': 'igcse-commerce-production-revision-notes',
+  'as-chem-equilibria-revision-notes': 'as-chemistry-equilibria-revision-notes',
+  'as-chem-bonding-shapes-revision-notes': 'as-chemistry-shapes-imf-revision-notes',
+  'igcse-geography-population-settlement-practice': 'population-and-settlement-practice',
+  'igcse-oxfordaqa-biology-organisation-practice': 'igcse-biology-organisation-practice',
+  'igcse-commerce-production-practice': 'commerce-and-production-practice',
+  'graphs-and-curves-revision-notes': 'mathematics-graphs-curves-revision-notes',
+  'igcse-world-history-nineteenth-century-practice': 'world-history-nineteenth-century-practice',
+  'a-psychology-approaches-practice': 'psychology-approaches-and-debates-practice',
+  'as-chem-energetics-revision-notes': 'as-chemistry-hess-law-revision-notes',
+  'as-chem-energetics-practice': 'as-chemistry-hess-law-practice',
+  'igcse-computer-science-algorithms-practice': 'igcse-oxfordaqa-computer-science-algorithms-practice',
+  'population-and-settlement-revision-notes': 'igcse-geography-population-settlement-revision-notes',
+  'psychology-approaches-and-debates-revision-notes': 'a-psychology-approaches-revision-notes',
+  'the-basic-economic-problem-revision-notes': 'igcse-economics-basic-problem-revision-notes',
 };
 
 /**

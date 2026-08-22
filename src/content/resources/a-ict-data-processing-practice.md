@@ -1,5 +1,5 @@
 ---
-title: "A Level ICT: Data Processing and Information — Practice Questions — Practice Questions"
+title: "A Level ICT: Data Processing and Information — Practice Questions"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["a-levels"]

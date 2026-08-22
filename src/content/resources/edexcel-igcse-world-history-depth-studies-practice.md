@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE History: Depth Studies — Practice Questions — Practice Questions"
+title: "Edexcel IGCSE History: Depth Studies — Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

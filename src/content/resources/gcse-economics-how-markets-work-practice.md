@@ -1,5 +1,5 @@
 ---
-title: "GCSE Economics: How Markets Work — Practice Questions — Practice Questions"
+title: "GCSE Economics: How Markets Work — Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["gcse"]

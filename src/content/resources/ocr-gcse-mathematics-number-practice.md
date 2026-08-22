@@ -1,5 +1,5 @@
 ---
-title: "OCR GCSE Mathematics: Number Operations and Integers — Practice Questions — Practice Questions"
+title: "OCR GCSE Mathematics: Number Operations and Integers — Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["gcse"]

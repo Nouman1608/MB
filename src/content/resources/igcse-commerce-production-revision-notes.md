@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "commerce-and-production-0715"
-description: "Condensed recall notes on the chain of production, direct and indirect services, trade and aids to trade for Cambridge IGCSE Commerce 7100."
+description: "Condensed recall notes on the chain of production, direct and indirect services, trade and aids to trade for Cambridge IGCSE Commerce 0715."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false

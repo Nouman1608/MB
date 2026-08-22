@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Addition Polymerisation — Practice Questions — Practice Questions"
+title: "AS Chemistry: Addition Polymerisation — Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

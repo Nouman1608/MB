@@ -1,5 +1,5 @@
 ---
-title: "AQA A Level Economics: Individuals, Firms, Markets and Market Failure — Practice Questions — Practice Questions"
+title: "AQA A Level Economics: Individuals, Firms, Markets and Market Failure — Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "A Level Business: What is Business — Practice Questions — Practice Questions"
+title: "A Level Business: What is Business — Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

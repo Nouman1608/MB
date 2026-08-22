@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE English Language: Non-fiction Texts and Transactional Writing — Practice Questions — Practice Questions"
+title: "Edexcel IGCSE English Language: Non-fiction Texts and Transactional Writing — Practice Questions"
 resourceType: "practice-questions"
 subject: "english"
 level: ["igcse"]

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Economics: The Market System — Practice Questions — Practice Questions"
+title: "Edexcel IGCSE Economics: The Market System — Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["igcse"]

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Accounting: Principles and Double Entry Bookkeeping — Practice Questions — Practice Questions"
+title: "Edexcel A Level Accounting: Principles and Double Entry Bookkeeping — Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "A Level Computer Science: Fundamentals of Programming — Practice Questions — Practice Questions"
+title: "A Level Computer Science: Fundamentals of Programming — Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

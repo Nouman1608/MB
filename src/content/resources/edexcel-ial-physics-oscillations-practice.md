@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IAL Physics: Oscillations — Practice Questions — Practice Questions"
+title: "Edexcel IAL Physics: Oscillations — Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

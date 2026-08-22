@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Psychology: Cognition and Behaviour — Practice Questions — Practice Questions"
+title: "IGCSE Psychology: Cognition and Behaviour — Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["igcse"]

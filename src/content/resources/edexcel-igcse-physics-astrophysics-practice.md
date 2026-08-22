@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Physics: Astrophysics — Practice Questions — Practice Questions"
+title: "Edexcel IGCSE Physics: Astrophysics — Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

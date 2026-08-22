@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A Level Sociology: Introducing Sociology — Practice Questions — Practice Questions"
+title: "OxfordAQA A Level Sociology: Introducing Sociology — Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["a-levels"]

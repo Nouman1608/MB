@@ -1,5 +1,5 @@
 ---
-title: "OCR A Level Biology: Development of Practical Skills — Practice Questions — Practice Questions"
+title: "OCR A Level Biology: Development of Practical Skills — Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

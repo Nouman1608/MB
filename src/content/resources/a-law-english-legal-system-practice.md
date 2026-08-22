@@ -1,5 +1,5 @@
 ---
-title: "A Level Law: The English Legal System — Practice Questions — Practice Questions"
+title: "A Level Law: The English Legal System — Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

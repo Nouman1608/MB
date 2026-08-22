@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Population and Settlement revision notes](/resources/population-and-settlement-revision-notes/)
+Related: [Population and Settlement revision notes](/resources/igcse-geography-population-settlement-revision-notes/)
 
 ---
 

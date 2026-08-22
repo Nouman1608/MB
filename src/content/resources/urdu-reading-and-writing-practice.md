@@ -1,5 +1,5 @@
 ---
-title: "Urdu Paper 1: Reading and Writing — Practice Questions — Practice Questions"
+title: "Urdu Paper 1: Reading and Writing — Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

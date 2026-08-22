@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Commerce and Production revision notes](/resources/commerce-and-production-revision-notes/)
+Related: [Commerce and Production revision notes](/resources/igcse-commerce-production-revision-notes/)
 
 ---
 

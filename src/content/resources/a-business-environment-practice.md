@@ -1,5 +1,5 @@
 ---
-title: "A Level Business: Business and Its Environment — Practice Questions — Practice Questions"
+title: "A Level Business: Business and Its Environment — Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]
