@@ -498,3 +498,58 @@ Status values: `answered` (owner has responded, implemented), `open`
   merged to `main`.
 
 ---
+## D-012 — One-to-one class pricing (IGCSE/A Level, all regions)
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request ("add one to one classes
+  pricing also for IGCSE Rs 3500 per class for A levels Rs 4000 per class
+  do the conversions for other currencies as well on the pricing page add
+  a separate table for one to one classes")
+- **Fact provided:** Owner directly confirmed a Pakistan one-to-one (1:1)
+  class rate, distinct from both the existing per-subject-per-month
+  `REGION_PRICING` table and the existing IB per-class rate: Rs 3,500 per
+  class for the IGCSE tier (GCSE, IGCSE, O Level), Rs 4,000 per class for
+  the A Level tier (International AS, AS, A Level). Unlike D-009 (IB
+  pricing, Pakistan-only, no other-region conversion authorized), the
+  owner explicitly asked for currency conversions to be computed for the
+  other eight regions already used elsewhere on the site.
+- **Final decision:** Added `ONE_TO_ONE_PRICING` to `src/data/pricing.ts`
+  as a `readonly RegionPricing[]` array (reusing the existing interface
+  shape, not the flat `IB_PRICING` shape, since real conversions were
+  authorized for every region). Only the Pakistan row is an owner-set
+  rate; the other eight are currency conversions of that same Rs 3,500 /
+  Rs 4,000 base, computed from live PKR exchange rates fetched from
+  `open.er-api.com` (provider: exchangerate-api.com), rate date
+  2026-08-22, applied 2026-08-23:
+  - Saudi Arabia (SAR): 49 / 56
+  - United Arab Emirates (AED): 48 / 54
+  - Qatar (QAR): 47 / 54
+  - Kuwait (KWD): 3.773 / 4.312
+  - Bahrain (BHD): 4.872 / 5.568
+  - Oman (OMR): 4.984 / 5.696
+  - United Kingdom (GBP): 9 / 11
+  - Europe (EUR): 11 / 12
+  SAR/AED/QAR/GBP/EUR are rounded to the nearest whole unit; KWD/BHD/OMR
+  keep 3-decimal precision, consistent with the existing
+  `THREE_DECIMAL_CURRENCIES` convention already used for those same three
+  currencies in `REGION_PRICING` (fils/baisa subunits at 1/1000, not
+  1/100). A new `ONE_TO_ONE_TERMS` object records the unit
+  ("per class"), the one-to-one-only delivery note, the verification
+  date, and an explicit conversion-basis caveat so the page never implies
+  these eight converted rates are independently published the way
+  `REGION_PRICING`'s rows are.
+- **Implementation consequence:** `src/pages/pricing/index.astro` gained
+  a new, separate "One-to-one classes" table (region / IGCSE-tier /
+  A-Level-tier, same column layout as the main table) plus a new FAQ
+  entry, both reading from `ONE_TO_ONE_PRICING` / `ONE_TO_ONE_TERMS` --
+  no number is hard-coded on the page itself.
+  `scripts/validate-pricing-consistency.mjs` was not modified: it only
+  guards `REGION_PRICING`'s figures, and no file outside
+  `src/data/pricing.ts` / `src/pages/pricing/index.astro` hard-codes any
+  of the new figures, so no gap is introduced.
+- **Follow-up required:** The eight converted rates are FX-derived, not
+  independently confirmed -- they should be refreshed if PKR exchange
+  rates move meaningfully, the same way any FX-derived figure would need
+  periodic revalidation. No other follow-up expected.
+- **Status:** implemented on `feature/one-to-one-pricing`; not yet merged
+  to `main`.

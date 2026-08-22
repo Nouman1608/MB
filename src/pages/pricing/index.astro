@@ -7,6 +7,7 @@ import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
 import {
   REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING,
+  ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
 } from '../../data/pricing';
 
 const faqs = [
@@ -33,6 +34,10 @@ const faqs = [
   {
     question: 'How much does IB tuition cost?',
     answer: `IB tuition (Middle Years Programme and Diploma Programme) is priced differently from the rest of the site: ${IB_PRICING.symbol} ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}, ${IB_PRICING.deliveryMode} This rate is confirmed for ${IB_PRICING.region} only -- last confirmed ${IB_PRICING.verifiedDate}. ${IB_PRICING.unsupportedRegionNote}`,
+  },
+  {
+    question: 'How much does one-to-one (1:1) tuition cost?',
+    answer: `One-to-one classes are priced per class rather than per subject per month. For IGCSE/GCSE/O Level it is ${ONE_TO_ONE_PRICING[0].symbol} ${formatFee(ONE_TO_ONE_PRICING[0].igcse, ONE_TO_ONE_PRICING[0].currency)} ${ONE_TO_ONE_PRICING[0].currency} ${ONE_TO_ONE_TERMS.unit}, and for A Level it is ${ONE_TO_ONE_PRICING[0].symbol} ${formatFee(ONE_TO_ONE_PRICING[0].aLevel, ONE_TO_ONE_PRICING[0].currency)} ${ONE_TO_ONE_PRICING[0].currency} ${ONE_TO_ONE_TERMS.unit}, confirmed for ${ONE_TO_ONE_PRICING[0].region}. See the one-to-one table on this page for other regions. ${ONE_TO_ONE_TERMS.conversionNote}`,
   },
 ];
 const faq = faqNode(faqs);
@@ -77,6 +82,38 @@ const faq = faqNode(faqs);
   </Section>
 
   <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">One-to-one classes</h2>
+      <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
+        One-to-one tuition is priced per class rather than per subject per month. The multi-subject and sibling discounts above do not apply to one-to-one classes.
+      </p>
+      <div class="overflow-x-auto">
+        <table class="w-full min-w-[560px] border-collapse text-[15px]">
+          <thead>
+            <tr class="border-b border-rule text-left">
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Region</th>
+              <th scope="col" class="py-3 pr-4 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">GCSE / IGCSE / O Level</th>
+              <th scope="col" class="py-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">AS / A Level</th>
+            </tr>
+          </thead>
+          <tbody>
+            {ONE_TO_ONE_PRICING.map((r) => (
+              <tr class="border-b border-rule">
+                <td class="py-3 pr-4 text-ink">{r.region}</td>
+                <td class="py-3 pr-4 text-ink-mute">{r.symbol} {formatFee(r.igcse, r.currency)} <span class="text-[13px] text-ink-mute">{r.currency}/{ONE_TO_ONE_TERMS.unit}</span></td>
+                <td class="py-3 text-ink-mute">{r.symbol} {formatFee(r.aLevel, r.currency)} <span class="text-[13px] text-ink-mute">{r.currency}/{ONE_TO_ONE_TERMS.unit}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="m-0 mt-6 text-[13px] text-ink-mute">{ONE_TO_ONE_TERMS.deliveryMode}</p>
+      <p class="m-0 mt-3 max-w-[62ch] text-[13px] text-ink-mute">{ONE_TO_ONE_TERMS.conversionNote}</p>
+      <p class="m-0 mt-3 text-[13px] text-ink-mute">Last confirmed/converted {ONE_TO_ONE_TERMS.verifiedDate}. {ONE_TO_ONE_TERMS.notPermanentNote}</p>
+    </Container>
+  </Section>
+
+  <Section surface="white" border>
     <Container>
       <h2 class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">IB tuition</h2>
       <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
