@@ -49,7 +49,7 @@
 
 - [Boards directory](https://marlbridge.com/boards/): every examination board Marlbridge publishes material for.
 - [Qualifications directory](https://marlbridge.com/levels/): every qualification level Marlbridge publishes material for.
-- [Study resources](https://marlbridge.com/resources/): study guides, revision notes, subject guides.
+- [Study resources](https://marlbridge.com/resources/): study guides, revision notes, practice questions, subject guides.
 - [Programs](https://marlbridge.com/programs/): Marlbridge's teaching programs by qualification.
 - [Tutoring](https://marlbridge.com/tutoring/)
 - [For Schools](https://marlbridge.com/schools/)
