@@ -6,6 +6,7 @@
 
 - [AQA](https://marlbridge.com/boards/aqa/): 25 subject and qualification combinations across 3 qualifications.
 - [Cambridge](https://marlbridge.com/boards/cambridge/): 54 subject and qualification combinations across 3 qualifications.
+- [International Baccalaureate](https://marlbridge.com/boards/ib/): 21 subject and qualification combinations across 2 qualifications.
 - [OCR](https://marlbridge.com/boards/ocr/): 12 subject and qualification combinations across 2 qualifications.
 - [OxfordAQA](https://marlbridge.com/boards/oxfordaqa/): 30 subject and qualification combinations across 2 qualifications.
 - [Pearson Edexcel](https://marlbridge.com/boards/edexcel/): 18 subject and qualification combinations across 2 qualifications.
@@ -15,6 +16,8 @@
 - [A Level](https://marlbridge.com/levels/a-level/): 59 subject and board combinations across 5 boards.
 - [AS Level](https://marlbridge.com/levels/as-level/): 1 subject and board combinations across 1 board.
 - [GCSE](https://marlbridge.com/levels/gcse/): 17 subject and board combinations across 2 boards.
+- [IB Diploma Programme](https://marlbridge.com/levels/ib-dp/): 16 subject and board combinations across 1 board.
+- [IB Middle Years Programme](https://marlbridge.com/levels/ib-myp/): 5 subject and board combinations across 1 board.
 - [IGCSE](https://marlbridge.com/levels/igcse/): 45 subject and board combinations across 3 boards.
 - [O Level](https://marlbridge.com/levels/o-level/): 17 subject and board combinations across 1 board.
 
@@ -30,13 +33,24 @@
 - [English Literature](https://marlbridge.com/subjects/english-literature/): English Literature at IGCSE, GCSE and A Level, across Cambridge, Pearson Edexcel, AQA and OxfordAQA.
 - [English](https://marlbridge.com/subjects/english/): English Language at IGCSE, O Level, GCSE and A Level, across Cambridge, Pearson Edexcel, AQA and OxfordAQA.
 - [Environmental Management](https://marlbridge.com/subjects/environmental-management/): Environmental Management at IGCSE and O Level, with study material organised by topic.
+- [Environmental Systems and Societies](https://marlbridge.com/subjects/environmental-systems-and-societies/): IB DP Environmental Systems and Societies (ESS), an interdisciplinary sciences / individuals-and-societies course.
 - [Geography](https://marlbridge.com/subjects/geography/): Geography at IGCSE, O Level and A Level, with study material organised by topic.
 - [Global Perspectives](https://marlbridge.com/subjects/global-perspectives/): Global Perspectives at IGCSE and A Level, with study material organised by topic.
+- [Global Politics](https://marlbridge.com/subjects/global-politics/): IB DP Global Politics, exploring power, sovereignty and contemporary political issues.
 - [ICT](https://marlbridge.com/subjects/ict/): ICT at IGCSE · A Level, with study material organised by topic.
 - [Islamiyat](https://marlbridge.com/subjects/islamiyat/): Islamiyat at IGCSE and O Level, with study material organised by topic.
+- [Language A: Language and Literature](https://marlbridge.com/subjects/language-a-language-and-literature/): IB DP Language A: Language and Literature, with study material organised by course component.
+- [Language A: Literature](https://marlbridge.com/subjects/language-a-literature/): IB DP Language A: Literature, with study material organised by course component.
+- [Language B](https://marlbridge.com/subjects/language-b/): IB DP Language B, a language acquisition course for students with prior experience of the target language.
 - [Languages](https://marlbridge.com/subjects/languages/): An index of language subjects, each confirmed individually on its own page.
 - [Law](https://marlbridge.com/subjects/law/): Law at A Level, with study material organised by topic.
+- [Mathematics: Analysis and Approaches](https://marlbridge.com/subjects/mathematics-analysis-and-approaches/): IB DP Mathematics: Analysis and Approaches, emphasising rigorous mathematical argument and abstract problem solving.
+- [Mathematics: Applications and Interpretation](https://marlbridge.com/subjects/mathematics-applications-and-interpretation/): IB DP Mathematics: Applications and Interpretation, emphasising technology-driven, real-world mathematical modelling.
 - [Mathematics](https://marlbridge.com/subjects/mathematics/): Mathematics at IGCSE · O · A Level, with study material organised by topic.
+- [Design (MYP)](https://marlbridge.com/subjects/myp-design/): IB MYP Design, applying the design cycle to solve practical, real-world problems.
+- [Individuals and Societies (MYP)](https://marlbridge.com/subjects/myp-individuals-and-societies/): IB MYP Individuals and Societies, covering history, geography, economics and related humanities disciplines.
+- [Language Acquisition (MYP)](https://marlbridge.com/subjects/myp-language-acquisition/): IB MYP Language Acquisition, developing additional-language proficiency and intercultural understanding.
+- [Sciences (MYP)](https://marlbridge.com/subjects/myp-sciences/): IB MYP Sciences, an integrated science course exploring inquiry, investigation and real-world application.
 - [Pakistan Studies](https://marlbridge.com/subjects/pakistan-studies/): Pakistan Studies at IGCSE and O Level, with study material organised by topic.
 - [Physics](https://marlbridge.com/subjects/physics/): Physics at IGCSE · O · A Level, with study material organised by topic.
 - [Psychology](https://marlbridge.com/subjects/psychology/): Psychology at GCSE · A Level, with study material organised by topic.

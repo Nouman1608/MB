@@ -1,5 +1,5 @@
 /** Examination boards. Canonical names and permanent slugs. */
-export type BoardSlug = 'cambridge' | 'edexcel' | 'aqa' | 'ocr' | 'oxfordaqa';
+export type BoardSlug = 'cambridge' | 'edexcel' | 'aqa' | 'ocr' | 'oxfordaqa' | 'ib';
 
 export interface Board {
   slug: BoardSlug;
@@ -68,6 +68,15 @@ export const BOARDS: readonly Board[] = [
     source: 'https://www.ocr.org.uk/ — verified 2026-08-18, re-verified 2026-08-18 (v1.0 WS3). OCR now brands as "Cambridge OCR" (part of Cambridge University Press & Assessment), administratively distinct from Cambridge International (the cambridge board slug in this repo). OCR is UK-domestic only: offers GCSE and AS/A-Level, not O-Level or IGCSE.',
     notes: 'Owner-authorized as an active Marlbridge teaching offering 2026-08-18 (MARLBRIDGE v1.0 directive: Marlbridge teaches all supported subjects across all supported boards) — supersedes the earlier "not offered, architecturally supported only" status. Full official-specification research is on file (see matrix.ts OCR rows and syllabuses.ts): verified codes and board summaries for GCSE and A-Level Chemistry, Physics, Biology, Mathematics, Business and Economics, all fetched directly from ocr.org.uk 2026-08-18 and spot-re-verified 2026-08-18 (GCSE Chemistry J248 confirmed current via live June 2024 exam-series papers; A-Level Business H431 confirmed current — its H436 successor spec has first teaching September 2026, which has not yet begun, so H431 remains the live code through final assessment summer 2027). OCR does not offer Accounting at either level (confirmed absent from its full subject catalogues). Not offered by Learners Academy directly — evidence tier is board-verified, not la-course.',
     about: 'OCR ("Cambridge OCR") is a UK-domestic awarding body, part of Cambridge University Press & Assessment -- administratively distinct from Cambridge International (the "cambridge" board above), despite sharing a parent organisation. OCR offers UK GCSE and GCE A Level only; it does not offer O Level or IGCSE.',
+  },
+  {
+    slug: 'ib',
+    name: 'International Baccalaureate',
+    aliases: ['IB', 'IBO', 'International Baccalaureate Organization'],
+    status: 'offered',
+    source: 'Owner confirmed directly in chat, 2026-08-22: IB teaching has started at Marlbridge (one-to-one only, Rs 5,000 per class, Pakistan). This is the same evidence tier used elsewhere in this repo for owner-supplied facts given directly in chat (see docs/decision-log.md D-007 for the WhatsApp number, added the same way).',
+    notes: "Unlike Cambridge/Edexcel/AQA/OCR/OxfordAQA, the IB is a single awarding body offering its own distinct family of programmes (Middle Years Programme, Diploma Programme) rather than several boards competing over the same qualifications -- so it sits in this registry as one board with two qualifications (see qualifications.ts: ib-myp, ib-dp) rather than needing sibling boards. Academic content for the Diploma Programme subjects Economics and Physics is grounded in the IB's full internal subject guides (economics-guide.pdf, physics-guide.pdf); owner confirmed 2026-08-22 that Marlbridge has or is pursuing a formal license from the IB for this commercial use, per the guides' own copyright terms (see docs/decision-log.md D-008). All other IB subjects (14 further DP subjects, 5 MYP subjects) are sourced only from the IB's own public subject-brief documents, which carry no such restriction, and are described at overview depth rather than full topic-by-topic syllabus detail.",
+    about: 'The International Baccalaureate (IB) is a Geneva-based non-profit foundation offering four international education programmes; Marlbridge teaches subjects from two of them -- the Middle Years Programme (MYP, ages 11-16) and the Diploma Programme (DP, ages 16-19, the pre-university qualification). Unlike the other five boards on this site, the IB is not a national exam board but a single global awarding body with its own distinct curriculum and assessment model.',
   },
 ] as const;
 

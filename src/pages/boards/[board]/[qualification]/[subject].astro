@@ -47,6 +47,7 @@ const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
 /** Marlbridge resource `level` values differ from qualification slugs. */
 const LEVEL_FOR_QUALIFICATION: Record<string, string> = {
   'igcse': 'igcse', 'o-level': 'o-levels', 'a-level': 'a-levels', 'gcse': 'gcse',
+  'ib-dp': 'ib', 'ib-myp': 'ib',
 };
 const levelKey = LEVEL_FOR_QUALIFICATION[c.qualificationSlug];
 
