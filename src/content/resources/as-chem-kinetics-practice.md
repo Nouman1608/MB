@@ -1,0 +1,88 @@
+---
+title: "AS Chemistry: Reaction Kinetics — Practice Questions"
+resourceType: "practice-questions"
+subject: "chemistry"
+level: ["a-levels"]
+topic: "Reaction kinetics"
+boards: ["cambridge"]
+qualifications: ["a-level"]
+syllabusCodes: ["9701"]
+syllabusSeries: "2025-2027"
+order: 8.1
+stage: "AS"
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "as-reaction-kinetics"
+    subtopic: "as-rate-of-reaction"
+  - qualification: "a-level"
+    topic: "as-reaction-kinetics"
+    subtopic: "as-effect-of-temperature-on-reaction-rates-and-the-concept-of-activation-energy"
+  - qualification: "a-level"
+    topic: "as-reaction-kinetics"
+    subtopic: "as-homogeneous-and-heterogeneous-catalysts"
+description: "Original exam-style practice questions with full worked answers on collision theory, activation energy, catalysts and Boltzmann distributions for AS Chemistry."
+author: "nouman-ahmed"
+publishedDate: 2026-08-22
+featured: false
+---
+> **These are original questions written for Marlbridge**, in the style and at the
+> standard of the examination. They are **not** reproduced past-paper questions —
+> examination boards hold copyright in their own papers. Use these alongside the
+> official past papers available free from your board.
+
+Related: [Reaction Kinetics revision notes](/resources/as-chem-kinetics-revision-notes/)
+
+---
+
+## Questions
+
+**1.** State the two conditions required for a collision between particles to result in a reaction. **[2]**
+
+**2.** Define activation energy. **[2]**
+
+**3.** Explain, in terms of collision theory, the effect on rate of:
+
+**(a)** increasing the concentration of a solution **[2]**
+**(b)** increasing the pressure of a gas **[2]**
+**(c)** increasing the surface area of a solid **[2]**
+**(d)** increasing the temperature **[3]**
+
+**4.** A Boltzmann distribution curve is drawn for a gas at temperature T₁.
+
+**(a)** Describe how the curve changes when the temperature is raised to T₂. **[3]**
+
+**(b)** Explain, using the curve, why a small temperature rise produces a large rate increase. **[3]**
+
+**(c)** Sketch or describe how a catalyst is shown on the same diagram, and explain its effect. **[3]**
+
+**5.** Explain why a catalyst does not change the position of equilibrium in a reversible reaction. **[2]**
+
+---
+
+## Answers
+
+**1.** The particles must collide with **energy greater than or equal to the activation energy** [1] and in the **correct orientation** [1].
+
+**2.** The **minimum energy** that colliding particles must possess [1] for a reaction to occur [1].
+
+**3. (a)** More particles per unit volume [1], so **more frequent collisions** and a greater proportion are successful per second [1].
+**(b)** The particles are **closer together** [1], so collisions are **more frequent** [1].
+**(c)** More particles are **exposed at the surface** [1], so there are **more collisions per second** with the other reactant [1].
+**(d)** Particles have **more kinetic energy** and move faster, so collisions are more frequent [1]. More importantly, a **greater proportion of particles have energy ≥ E_a** [1], so a much larger fraction of collisions are successful [1].
+
+**4. (a)** The **peak moves to the right** (higher energy) and **becomes lower** [1]; the curve **broadens** [1]; the **area under the curve stays the same**, since the total number of particles is unchanged [1].
+
+**(b)** The area under the curve **to the right of E_a** represents the particles able to react [1]. Because the curve's tail rises steeply, a **small shift produces a large increase in that area** [1], so the proportion of successful collisions rises sharply [1].
+
+**(c)** A **vertical line drawn at a lower energy** than the original E_a [1]. The catalyst provides an **alternative route of lower activation energy** [1], so a **greater proportion of particles** have sufficient energy to react [1].
+
+**5.** It increases the rate of the **forward and reverse reactions equally** [1], so equilibrium is reached **sooner but at the same position** [1].
+
+---
+
+## Where marks are usually lost
+
+- Giving only "more collisions" for a temperature increase — the energy effect is the dominant one.
+- Saying a catalyst "lowers the activation energy" of the original reaction; it provides an **alternative route**.
+- Changing the area under a Boltzmann curve when temperature changes.
+- Drawing the Boltzmann curve touching the y-axis (it starts at the origin).
