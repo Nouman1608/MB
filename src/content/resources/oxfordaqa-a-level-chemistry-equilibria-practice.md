@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A Level Chemistry: Equilibria and Le Chatelier — Practice Questions — Practice Questions"
+title: "OxfordAQA A Level Chemistry: Equilibria and Le Chatelier — Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

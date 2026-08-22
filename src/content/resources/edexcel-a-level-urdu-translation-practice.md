@@ -1,5 +1,5 @@
 ---
-title: "A Level Urdu: Translation and Reading — Practice Questions — Practice Questions"
+title: "A Level Urdu: Translation and Reading — Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["a-levels"]

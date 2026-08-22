@@ -1,5 +1,5 @@
 ---
-title: "ICT: Computer Systems — Practice Questions — Practice Questions"
+title: "ICT: Computer Systems — Practice Questions"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["igcse"]
@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Computer Systems revision notes](/resources/ict-computer-systems-revision-notes/)
+Related: [Computer Systems revision notes](/resources/igcse-ict-computer-systems-revision-notes/)
 
 ---
 

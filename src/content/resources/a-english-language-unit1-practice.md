@@ -1,5 +1,5 @@
 ---
-title: "A Level English Language: Language and Analysis — Practice Questions — Practice Questions"
+title: "A Level English Language: Language and Analysis — Practice Questions"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

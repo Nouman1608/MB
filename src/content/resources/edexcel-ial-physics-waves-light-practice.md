@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IAL Physics: Waves and the Particle Nature of Light — Practice Questions — Practice Questions"
+title: "Edexcel IAL Physics: Waves and the Particle Nature of Light — Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

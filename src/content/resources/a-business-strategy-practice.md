@@ -1,5 +1,5 @@
 ---
-title: "A Level Business: Objectives and Strategic Decisions — Practice Questions — Practice Questions"
+title: "A Level Business: Objectives and Strategic Decisions — Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

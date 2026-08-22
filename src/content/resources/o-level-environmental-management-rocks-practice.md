@@ -1,5 +1,5 @@
 ---
-title: "O Level Environmental Management: Rocks and Minerals — Practice Questions — Practice Questions"
+title: "O Level Environmental Management: Rocks and Minerals — Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["o-levels"]

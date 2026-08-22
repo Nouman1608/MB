@@ -1,5 +1,5 @@
 ---
-title: "OCR A Level Economics: Microeconomics — Practice Questions — Practice Questions"
+title: "OCR A Level Economics: Microeconomics — Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

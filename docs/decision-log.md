@@ -355,3 +355,85 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** answered, implementation pending on `feature/ib-programme`.
 
 ---
+## D-010 — Site-wide duplicate-content sweep
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request ("go through the website
+  find duplicate content and make it so that Google Search Console does
+  not flag them and has no issue with indexing")
+- **Fact provided:** GSC itself had no processed data yet for this
+  property (a fresh "Processing data, please check again in a day or so"
+  state) so there was nothing to read off an existing report. The work was
+  therefore proactive: crawl the live site and the source repo directly to
+  find and fix real duplication before Google's own crawl has a chance to
+  flag it.
+- **Findings:**
+  1. **URL-level duplication (www / http / apex):** `https://marlbridge.com/`,
+     `https://www.marlbridge.com/` and `http://marlbridge.com/` all serve
+     byte-identical content, but all three already carry a correct
+     canonical tag pointing at
+     `https://marlbridge.com/`. This is Google's documented safe pattern
+     for this exact situation; no code change made. (A DNS/CDN-level
+     redirect would still be tidier, but is infrastructure configuration
+     outside this repo, not a page-level fix.)
+  2. **i18n hreflang:** already correct on every page checked (reciprocal
+     `hreflang` set including `x-default`, each locale keeping its own
+     self-referencing canonical, correct `lang`/`dir` attributes). No
+     change needed.
+  3. **Whole-page exact duplicates:** a full-site crawl (1,144 indexable
+     URLs, main-content hashed) found zero exact-duplicate pages.
+  4. **Resource-level near-duplicates:** comparing every resource's
+     declared `syllabusTopics` scope (board + qualification + subject +
+     stage + resourceType + exact subtopic set) surfaced 39 file pairs
+     sharing an identical official-topic signature. Each pair was read by
+     hand rather than deleted on tag-match alone: **27 pairs (54 files)**
+     were confirmed genuine duplicates -- same board/qualification/exam
+     code/subtopic, substantially overlapping worked content, produced
+     twice by the weekly automation under two different slug conventions
+     (e.g. `as-chem-equilibria-practice` vs `as-chemistry-equilibria-practice`).
+     **12 pairs (24 files) were false positives** and left untouched --
+     genuinely different content that happens to share one coarse official
+     subtopic label because the syllabus taxonomy doesn't split further
+     (e.g. `forces-and-motion` vs `moments-and-stability`, both tagged only
+     to O Level Physics 5054's single "1.5 Forces" subtopic, but covering
+     Newton's-laws content and moments/stability content respectively;
+     similarly two English Language 9093 Paper 1 pairs and two Sociology
+     0495 Paper 1 pairs that turned out to be a "broad overview" resource
+     paired with a "narrow deep-dive" resource on the same syllabus unit,
+     not a duplicate).
+  5. **Sitewide title bug (found incidentally):** 91 resource files had a
+     doubled resource-type suffix baked into their frontmatter `title`
+     field (e.g. `"... — Practice Questions — Practice Questions"`),
+     unrelated to the duplicate-pair issue but a real title-quality defect
+     across ~8% of the resource collection. Collapsed to a single suffix
+     in all 91 files.
+  6. Two smaller data-accuracy bugs surfaced while resolving the above and
+     were fixed in the surviving files: a wrong syllabus code (`7100`
+     instead of the correct `0715`) in one Commerce resource's prose
+     description, and a duplicated title suffix specific to one Computer
+     Science resource.
+- **Final decision:** For each of the 27 confirmed duplicate pairs, keep
+  the higher-word-count / more complete file and retire the other via the
+  existing `CONSOLIDATED_RESOURCES` mechanism in
+  `scripts/generate-redirects.mjs` (301 redirect, flat URL + every nested
+  resource-type URL variant), consistent with how the two pre-existing
+  entries in that map were handled. Two inline cross-reference links (in
+  files that were kept) pointing at a file being retired were rewritten to
+  point at the surviving file instead.
+- **Implementation consequence:** 27 resource files deleted from
+  `src/content/resources/`; `CONSOLIDATED_RESOURCES` in
+  `scripts/generate-redirects.mjs` extended with 27 new entries;
+  `public/_redirects` regenerated (`node scripts/generate-redirects.mjs`);
+  91 files had a doubled title suffix collapsed; 2 additional small data
+  fixes (syllabus code, title) made in files kept as canonical.
+- **Follow-up required:** The weekly content-automation script itself
+  still has no dedup check against existing `syllabusTopics` scope before
+  generating a new resource -- this sweep fixes the 27 duplicates it has
+  already produced, but does not prevent a 28th. Fixing the automation's
+  generation logic itself was not in scope for this pass and should be
+  tracked separately before the next scheduled run.
+- **Status:** implemented on `fix/duplicate-content-cleanup`; not yet
+  merged to `main` (main auto-deploys to production -- requires the
+  founder's separate explicit approval, per the established pattern).
+
+---

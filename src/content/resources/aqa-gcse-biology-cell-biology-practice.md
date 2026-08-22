@@ -1,5 +1,5 @@
 ---
-title: "AQA GCSE Biology: Cell Biology — Practice Questions — Practice Questions"
+title: "AQA GCSE Biology: Cell Biology — Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["gcse"]

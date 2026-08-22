@@ -1,5 +1,5 @@
 ---
-title: "O Level History: The Nineteenth Century — Practice Questions — Practice Questions"
+title: "O Level History: The Nineteenth Century — Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["o-levels"]

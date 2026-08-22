@@ -1,5 +1,5 @@
 ---
-title: "OCR A Level Chemistry: Amount of Substance — Practice Questions — Practice Questions"
+title: "OCR A Level Chemistry: Amount of Substance — Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Accounting: Business Entities and the Accounting System — Practice Questions — Practice Questions"
+title: "Accounting: Business Entities and the Accounting System — Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]

@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [The Nineteenth Century revision notes](/resources/world-history-nineteenth-century-revision-notes/)
+Related: [The Nineteenth Century revision notes](/resources/igcse-world-history-nineteenth-century-revision-notes/)
 
 ---
 

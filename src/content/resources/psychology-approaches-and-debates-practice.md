@@ -23,7 +23,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Approaches, Issues and Debates revision notes](/resources/psychology-approaches-and-debates-revision-notes/)
+Related: [Approaches, Issues and Debates revision notes](/resources/a-psychology-approaches-revision-notes/)
 
 ---
 

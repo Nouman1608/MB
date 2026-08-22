@@ -1,5 +1,5 @@
 ---
-title: "AS Chemistry: Introduction to Organic Chemistry — Practice Questions — Practice Questions"
+title: "AS Chemistry: Introduction to Organic Chemistry — Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

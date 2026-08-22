@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Sociology: Research Methods and Inequality — Practice Questions — Practice Questions"
+title: "IGCSE Sociology: Research Methods and Inequality — Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["igcse"]

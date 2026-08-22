@@ -1,5 +1,5 @@
 ---
-title: "GCSE Business: Business in the Real World — Practice Questions — Practice Questions"
+title: "GCSE Business: Business in the Real World — Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["gcse"]

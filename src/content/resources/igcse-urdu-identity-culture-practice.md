@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Urdu: Identity and Culture — Practice Questions — Practice Questions"
+title: "IGCSE Urdu: Identity and Culture — Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

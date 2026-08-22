@@ -1,5 +1,5 @@
 ---
-title: "OCR GCSE Biology: Cell Level Systems — Practice Questions — Practice Questions"
+title: "OCR GCSE Biology: Cell Level Systems — Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["gcse"]

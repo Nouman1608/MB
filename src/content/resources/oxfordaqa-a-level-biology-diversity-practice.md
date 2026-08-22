@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A Level Biology: Diversity of Living Organisms — Practice Questions — Practice Questions"
+title: "OxfordAQA A Level Biology: Diversity of Living Organisms — Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

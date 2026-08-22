@@ -1,5 +1,5 @@
 ---
-title: "O Level Geography: Population and Settlement — Practice Questions — Practice Questions"
+title: "O Level Geography: Population and Settlement — Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

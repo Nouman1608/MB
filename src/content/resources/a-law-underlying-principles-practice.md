@@ -1,5 +1,5 @@
 ---
-title: "A Level Law: Underlying Principles and Law Making — Practice Questions — Practice Questions"
+title: "A Level Law: Underlying Principles and Law Making — Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

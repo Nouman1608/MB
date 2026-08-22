@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IAL Physics: Nuclear Decay — Practice Questions — Practice Questions"
+title: "Edexcel IAL Physics: Nuclear Decay — Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

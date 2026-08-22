@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level Biology: Molecules, Transport and Health — Practice Questions — Practice Questions"
+title: "Edexcel A Level Biology: Molecules, Transport and Health — Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

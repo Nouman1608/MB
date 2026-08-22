@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IAL Physics: Nuclear and Particle Physics — Practice Questions — Practice Questions"
+title: "Edexcel IAL Physics: Nuclear and Particle Physics — Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

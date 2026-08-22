@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IAL Physics: Thermodynamics, Radiation and Cosmology — Practice Questions — Practice Questions"
+title: "Edexcel IAL Physics: Thermodynamics, Radiation and Cosmology — Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]
