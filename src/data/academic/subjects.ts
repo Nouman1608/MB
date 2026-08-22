@@ -48,6 +48,23 @@ export const SUBJECTS: readonly CanonicalSubject[] = [
   { slug: 'islamiyat', name: 'Islamiyat', aliases: ['Islamic Studies'], source: '/subjects/ index only — no course pages' },
   { slug: 'environmental-management', name: 'Environmental Management', aliases: [], source: '/subjects/ index only — no course pages' },
   { slug: 'urdu-literature', name: 'Urdu Literature', aliases: [], source: '/subjects/ index only — no course pages' },
+
+  // -- IB (2026-08-22): new canonical subjects with no Cambridge/Edexcel/AQA/OCR/OxfordAQA
+  // equivalent already in this registry, sourced from the IB's own public DP/MYP subject
+  // briefs (see docs/decision-log.md D-008). No hubId — no dedicated /subjects/<slug>/ page
+  // exists yet, so these render on the academic hub page without the "All X at Marlbridge"
+  // description block (see [subject].astro's `{subjectEntry && (...)}` guard).
+  { slug: 'language-a-language-and-literature', name: 'Language A: Language and Literature', aliases: ['Lang A: Lang & Lit'], source: 'ibo.org DP subject brief, curriculum.brief-languagea.language.and.literature-eng.pdf' },
+  { slug: 'language-a-literature', name: 'Language A: Literature', aliases: ['Lang A: Literature'], source: 'ibo.org DP subject brief, curriculum.brief-languagea.literature-eng.pdf' },
+  { slug: 'environmental-systems-and-societies', name: 'Environmental Systems and Societies', aliases: ['ESS'], source: 'ibo.org DP subject brief, environmental-systems-and-societies-subject-brief-en.pdf' },
+  { slug: 'global-politics', name: 'Global Politics', aliases: [], source: 'ibo.org DP subject brief, global-politics-sl-hl-subject-brief-en.pdf' },
+  { slug: 'language-b', name: 'Language B', aliases: [], source: 'ibo.org DP subject brief, lang-b-2018-en.pdf' },
+  { slug: 'mathematics-analysis-and-approaches', name: 'Mathematics: Analysis and Approaches', aliases: ['Math AA', 'Maths AA'], source: 'ibo.org DP subject brief, subject-brief-dp-math-analysis-and-approaches-en.pdf' },
+  { slug: 'mathematics-applications-and-interpretation', name: 'Mathematics: Applications and Interpretation', aliases: ['Math AI', 'Maths AI'], source: 'ibo.org DP subject brief, subject-brief-dp-math-applications-and-interpretations-en.pdf' },
+  { slug: 'myp-language-acquisition', name: 'Language Acquisition (MYP)', aliases: [], source: 'ibo.org MYP subject brief, myp-brief-language-acquisition-2020-en.pdf' },
+  { slug: 'myp-sciences', name: 'Sciences (MYP)', aliases: ['Integrated Sciences'], source: 'ibo.org MYP subject brief, myp-brief-sciences-en.pdf', notes: 'MYP teaches an integrated single Sciences subject rather than separate Biology/Chemistry/Physics, so this is kept distinct from those DP/Cambridge-style canonical subjects rather than reusing one of them.' },
+  { slug: 'myp-design', name: 'Design (MYP)', aliases: [], source: 'ibo.org MYP subject brief, myp-brief_design_2015.pdf' },
+  { slug: 'myp-individuals-and-societies', name: 'Individuals and Societies (MYP)', aliases: [], source: 'ibo.org MYP subject brief, myp-brief_individuals-societies_2015.pdf' },
 ] as const;
 
 export const subjectBySlug = (slug: string): CanonicalSubject | undefined =>

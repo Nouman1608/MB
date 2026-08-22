@@ -50,11 +50,12 @@ const AQA = 'https://www.aqa.org.uk';
 
 const BOARD_NAMES: Record<BoardSlug, string> = {
   cambridge: 'Cambridge', edexcel: 'Pearson Edexcel', aqa: 'AQA', ocr: 'OCR',
-  oxfordaqa: 'OxfordAQA',
+  oxfordaqa: 'OxfordAQA', ib: 'International Baccalaureate',
 };
 const QUAL_NAMES: Record<QualificationSlug, string> = {
   'igcse': 'IGCSE', 'o-level': 'O Level', 'gcse': 'GCSE',
   'as-level': 'AS Level', 'a-level': 'A Level',
+  'ib-myp': 'MYP', 'ib-dp': 'DP',
 };
 const SUBJECT_NAMES: Record<string, string> = {
   accounting: 'Accounting', biology: 'Biology', business: 'Business',
@@ -66,6 +67,14 @@ const SUBJECT_NAMES: Record<string, string> = {
   'pakistan-studies': 'Pakistan Studies', physics: 'Physics', psychology: 'Psychology',
   sociology: 'Sociology', statistics: 'Statistics', 'urdu-language': 'Urdu Language',
   'urdu-literature': 'Urdu Literature', 'world-history': 'World History',
+  'language-a-language-and-literature': 'Language A: Language and Literature',
+  'language-a-literature': 'Language A: Literature',
+  'environmental-systems-and-societies': 'Environmental Systems and Societies',
+  'global-politics': 'Global Politics', 'language-b': 'Language B',
+  'mathematics-analysis-and-approaches': 'Mathematics: Analysis and Approaches',
+  'mathematics-applications-and-interpretation': 'Mathematics: Applications and Interpretation',
+  'myp-language-acquisition': 'Language Acquisition (MYP)', 'myp-sciences': 'Sciences (MYP)',
+  'myp-design': 'Design (MYP)', 'myp-individuals-and-societies': 'Individuals and Societies (MYP)',
 };
 
 interface RowOpts {
@@ -649,6 +658,34 @@ export const MATRIX: readonly Combination[] = [
     source: 'Marlbridge approved scope 2026-08-17; syllabus verified at cambridgeinternational.org',
     codes: { chemistry: '9701' },
     notes: 'Cambridge publishes 9701 as combined AS & A Level. AS remains a distinct, non-approved qualification for Marlbridge.',
+  }),
+
+  // =========================================================================
+  // IB (2026-08-22). Owner confirmed directly in chat that IB teaching has
+  // started (one-to-one only, Rs 5,000/class, Pakistan) -- evidence tier
+  // 'marlbridge', the strongest tier, same basis used for the Cambridge rows
+  // above. Economics and Physics are grounded in the IB's full internal
+  // subject guides (real topic-level syllabus data in syllabus-topics.ts);
+  // the other 14 DP subjects and 5 MYP subjects are grounded only in the
+  // IB's public subject-brief documents (overview depth, no topic map). See
+  // docs/decision-log.md D-008/D-009.
+  // =========================================================================
+  ...rows('ib', 'ib-dp', [
+    'business', 'language-a-language-and-literature', 'language-a-literature',
+    'computer-science', 'psychology', 'biology', 'chemistry', 'economics',
+    'environmental-systems-and-societies', 'geography', 'global-politics',
+    'world-history', 'language-b', 'mathematics-analysis-and-approaches',
+    'mathematics-applications-and-interpretation', 'physics',
+  ], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'marlbridge',
+    source: 'Owner confirmed directly in chat, 2026-08-22: IB DP teaching has started at Marlbridge. Subject briefs/guides sourced from ibo.org (see docs/decision-log.md D-008).',
+  }),
+  ...rows('ib', 'ib-myp', [
+    'myp-language-acquisition', 'mathematics', 'myp-sciences', 'myp-design',
+    'myp-individuals-and-societies',
+  ], {
+    boardOfferingStatus: 'ACTIVE', marlbridgeStatus: 'ACTIVE', evidence: 'marlbridge',
+    source: 'Owner confirmed directly in chat, 2026-08-22: IB MYP teaching has started at Marlbridge. Subject briefs sourced from ibo.org (see docs/decision-log.md D-008).',
   }),
 ] as const;
 

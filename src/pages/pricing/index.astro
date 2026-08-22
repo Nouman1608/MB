@@ -6,7 +6,7 @@ import FAQ from '../../components/ui/FAQ.astro';
 import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
 import {
-  REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee,
+  REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING,
 } from '../../data/pricing';
 
 const faqs = [
@@ -29,6 +29,10 @@ const faqs = [
   {
     question: 'Will these prices stay the same?',
     answer: `${PRICING_TERMS.notPermanentNote} Last confirmed ${PRICING_VERIFIED_DATE}.`,
+  },
+  {
+    question: 'How much does IB tuition cost?',
+    answer: `IB tuition (Middle Years Programme and Diploma Programme) is priced differently from the rest of the site: ${IB_PRICING.symbol} ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}, ${IB_PRICING.deliveryMode} This rate is confirmed for ${IB_PRICING.region} only -- last confirmed ${IB_PRICING.verifiedDate}. ${IB_PRICING.unsupportedRegionNote}`,
   },
 ];
 const faq = faqNode(faqs);
@@ -73,6 +77,21 @@ const faq = faqNode(faqs);
   </Section>
 
   <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">IB tuition</h2>
+      <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
+        IB (Middle Years Programme and Diploma Programme) is priced differently from the rest of the site above -- per class rather than per subject per month, and one-to-one only. The multi-subject and sibling discounts below do not apply to IB tuition.
+      </p>
+      <div class="mb-2 max-w-[420px] rounded-sm border border-rule bg-white p-6">
+        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{IB_PRICING.region}</p>
+        <p class="m-0 text-[17px] text-ink">{IB_PRICING.symbol} {IB_PRICING.perClass.toLocaleString('en-US')} <span class="text-[13px] text-ink-mute">{IB_PRICING.currency}/{IB_PRICING.unit}</span></p>
+        <p class="m-0 mt-2 text-[13px] text-ink-mute">{IB_PRICING.deliveryMode}</p>
+      </div>
+      <p class="m-0 mt-3 text-[13px] text-ink-mute">{IB_PRICING.unsupportedRegionNote} Last confirmed {IB_PRICING.verifiedDate}.</p>
+    </Container>
+  </Section>
+
+  <Section surface="white" border>
     <Container>
       <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Discounts and trial</h2>
       <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-3">

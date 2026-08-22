@@ -4123,7 +4123,130 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       { number: 6, name: 'Unit 6 – Practical Skills in Chemistry II', slug: 'unit-6-practical-skills-in-chemistry-ii-ych11', stage: 'A', subtopics: [] },
     ],
   },
-] as const;
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'economics',
+    syllabusCode: 'DP Economics', syllabusSeries: 'First assessment 2022',
+    effectiveFrom: '2022', effectiveTo: 'current', status: 'current',
+    tiered: false,
+    source: 'International Baccalaureate Organization, Economics guide (Diploma Programme), published February 2020, updated to October 2020',
+    sourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/',
+    verifiedDate: '2026-08-22',
+    notes: 'Owner confirmed 2026-08-22 that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of this guide (see docs/decision-log.md D-008). Four units, real syllabus outline transcribed directly from the guide\'s own "Syllabus outline" table (pages 20-21). HL-only content is marked exactly as the guide marks it -- nothing beyond SL content is presented as compulsory for SL students.',
+    topics: [
+    {
+      number: 1, name: 'Introduction to economics', slug: 'ib-dp-economics-unit-1',
+      subtopics: [
+        { number: '1.1', name: 'What is economics?', slug: 'ib-dp-economics-1-1' },
+        { number: '1.2', name: 'How do economists approach the world?', slug: 'ib-dp-economics-1-2' },
+      ],
+    },
+    {
+      number: 2, name: 'Microeconomics', slug: 'ib-dp-economics-unit-2',
+      subtopics: [
+        { number: '2.1', name: 'Demand (includes HL-only sub-topics)', slug: 'ib-dp-economics-2-1' },
+        { number: '2.2', name: 'Supply (includes HL-only sub-topics)', slug: 'ib-dp-economics-2-2' },
+        { number: '2.3', name: 'Competitive market equilibrium', slug: 'ib-dp-economics-2-3' },
+        { number: '2.4', name: 'Critique of the maximizing behaviour of consumers and producers (HL only)', slug: 'ib-dp-economics-2-4' },
+        { number: '2.5', name: 'Elasticity of demand (includes HL-only sub-topics)', slug: 'ib-dp-economics-2-5' },
+        { number: '2.6', name: 'Elasticity of supply (includes HL-only sub-topics)', slug: 'ib-dp-economics-2-6' },
+        { number: '2.7', name: 'Role of government in microeconomics (includes HL-only calculation)', slug: 'ib-dp-economics-2-7' },
+        { number: '2.8', name: 'Market failure -- externalities and common pool or common access resources (includes HL-only calculation)', slug: 'ib-dp-economics-2-8' },
+        { number: '2.9', name: 'Market failure -- public goods', slug: 'ib-dp-economics-2-9' },
+        { number: '2.10', name: 'Market failure -- asymmetric information (HL only)', slug: 'ib-dp-economics-2-10' },
+        { number: '2.11', name: 'Market failure -- market power (HL only)', slug: 'ib-dp-economics-2-11' },
+        { number: '2.12', name: "The market's inability to achieve equity (HL only)", slug: 'ib-dp-economics-2-12' },
+      ],
+    },
+    {
+      number: 3, name: 'Macroeconomics', slug: 'ib-dp-economics-unit-3',
+      subtopics: [
+        { number: '3.1', name: 'Measuring economic activity and illustrating its variations', slug: 'ib-dp-economics-3-1' },
+        { number: '3.2', name: 'Variations in economic activity -- aggregate demand and aggregate supply', slug: 'ib-dp-economics-3-2' },
+        { number: '3.3', name: 'Macroeconomic objectives (includes HL-only calculation)', slug: 'ib-dp-economics-3-3' },
+        { number: '3.4', name: 'Economics of inequality and poverty (includes HL-only calculation)', slug: 'ib-dp-economics-3-4' },
+        { number: '3.5', name: 'Demand management (demand-side policies) -- monetary policy (includes HL-only sub-topics)', slug: 'ib-dp-economics-3-5' },
+        { number: '3.6', name: 'Demand management -- fiscal policy (includes HL-only sub-topics)', slug: 'ib-dp-economics-3-6' },
+        { number: '3.7', name: 'Supply-side policies', slug: 'ib-dp-economics-3-7' },
+      ],
+    },
+    {
+      number: 4, name: 'The global economy', slug: 'ib-dp-economics-unit-4',
+      subtopics: [
+        { number: '4.1', name: 'Benefits of international trade (includes HL-only sub-topics and calculation)', slug: 'ib-dp-economics-4-1' },
+        { number: '4.2', name: 'Types of trade protection (includes HL-only calculations)', slug: 'ib-dp-economics-4-2' },
+        { number: '4.3', name: 'Arguments for and against trade control/protection', slug: 'ib-dp-economics-4-3' },
+        { number: '4.4', name: 'Economic integration', slug: 'ib-dp-economics-4-4' },
+        { number: '4.5', name: 'Exchange rates (includes HL-only sub-topic)', slug: 'ib-dp-economics-4-5' },
+        { number: '4.6', name: 'Balance of payments (includes HL-only sub-topics)', slug: 'ib-dp-economics-4-6' },
+        { number: '4.7', name: 'Sustainable development (includes HL-only sub-topic)', slug: 'ib-dp-economics-4-7' },
+        { number: '4.8', name: 'Measuring development', slug: 'ib-dp-economics-4-8' },
+        { number: '4.9', name: 'Barriers to economic growth and/or economic development', slug: 'ib-dp-economics-4-9' },
+        { number: '4.10', name: 'Economic growth and/or economic development strategies', slug: 'ib-dp-economics-4-10' },
+      ],
+    },
+    ],
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'physics',
+    syllabusCode: 'DP Physics', syllabusSeries: 'First assessment 2025',
+    effectiveFrom: '2025', effectiveTo: 'current', status: 'current',
+    tiered: false,
+    source: 'International Baccalaureate Organization, Physics guide (Diploma Programme)',
+    sourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
+    verifiedDate: '2026-08-22',
+    notes: 'Owner confirmed 2026-08-22 that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of this guide (see docs/decision-log.md D-008). Five topics (A-E), transcribed directly from the guide\'s own "Syllabus outline" and "Syllabus roadmap" tables (pages 24-25). HL-only sub-topics are marked exactly as the guide marks them.',
+    topics: [
+    {
+      number: 1, name: 'A. Space, time and motion', slug: 'ib-dp-physics-topic-a',
+      subtopics: [
+        { number: 'A.1', name: 'Kinematics', slug: 'ib-dp-physics-a-1' },
+        { number: 'A.2', name: 'Forces and momentum', slug: 'ib-dp-physics-a-2' },
+        { number: 'A.3', name: 'Work, energy and power', slug: 'ib-dp-physics-a-3' },
+        { number: 'A.4', name: 'Rigid body mechanics (HL only)', slug: 'ib-dp-physics-a-4' },
+        { number: 'A.5', name: 'Galilean and special relativity (HL only)', slug: 'ib-dp-physics-a-5' },
+      ],
+    },
+    {
+      number: 2, name: 'B. The particulate nature of matter', slug: 'ib-dp-physics-topic-b',
+      subtopics: [
+        { number: 'B.1', name: 'Thermal energy transfers', slug: 'ib-dp-physics-b-1' },
+        { number: 'B.2', name: 'Greenhouse effect', slug: 'ib-dp-physics-b-2' },
+        { number: 'B.3', name: 'Gas laws', slug: 'ib-dp-physics-b-3' },
+        { number: 'B.4', name: 'Thermodynamics (HL only)', slug: 'ib-dp-physics-b-4' },
+        { number: 'B.5', name: 'Current and circuits', slug: 'ib-dp-physics-b-5' },
+      ],
+    },
+    {
+      number: 3, name: 'C. Wave behaviour', slug: 'ib-dp-physics-topic-c',
+      subtopics: [
+        { number: 'C.1', name: 'Simple harmonic motion', slug: 'ib-dp-physics-c-1' },
+        { number: 'C.2', name: 'Wave model', slug: 'ib-dp-physics-c-2' },
+        { number: 'C.3', name: 'Wave phenomena', slug: 'ib-dp-physics-c-3' },
+        { number: 'C.4', name: 'Standing waves and resonance', slug: 'ib-dp-physics-c-4' },
+        { number: 'C.5', name: 'Doppler effect', slug: 'ib-dp-physics-c-5' },
+      ],
+    },
+    {
+      number: 4, name: 'D. Fields', slug: 'ib-dp-physics-topic-d',
+      subtopics: [
+        { number: 'D.1', name: 'Gravitational fields', slug: 'ib-dp-physics-d-1' },
+        { number: 'D.2', name: 'Electric and magnetic fields', slug: 'ib-dp-physics-d-2' },
+        { number: 'D.3', name: 'Motion in electromagnetic fields', slug: 'ib-dp-physics-d-3' },
+        { number: 'D.4', name: 'Induction (HL only)', slug: 'ib-dp-physics-d-4' },
+      ],
+    },
+    {
+      number: 5, name: 'E. Nuclear and quantum physics', slug: 'ib-dp-physics-topic-e',
+      subtopics: [
+        { number: 'E.1', name: 'Structure of the atom', slug: 'ib-dp-physics-e-1' },
+        { number: 'E.2', name: 'Quantum physics', slug: 'ib-dp-physics-e-2' },
+        { number: 'E.3', name: 'Radioactive decay', slug: 'ib-dp-physics-e-3' },
+        { number: 'E.4', name: 'Fission', slug: 'ib-dp-physics-e-4' },
+        { number: 'E.5', name: 'Fusion and stars', slug: 'ib-dp-physics-e-5' },
+      ],
+    },
+    ],
+  },] as const;
 
 /**
  * Known future/superseded series, recorded so a transition is visible without

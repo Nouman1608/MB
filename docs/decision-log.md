@@ -280,3 +280,78 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** answered, implemented.
 
 ---
+## D-008 — IB commercial licensing status
+
+- **Date:** 2026-08-22
+- **Workstream:** IB programme build, in-session request
+- **Fact provided:** Owner uploaded 22 real IB curriculum PDFs (`study
+  resources/IB/`) and confirmed directly in chat that Marlbridge has, or
+  is in the process of obtaining, a formal license from the IB
+  ("We have/are getting an IB license"). This matters because two of the
+  22 files — `economics-guide.pdf` and `physics-guide.pdf` — are full
+  84-page internal IB subject guides carrying an explicit IB copyright
+  notice restricting commercial use, naming "tutoring organizations" and
+  "operators of curriculum mapping or teacher resource digital
+  platforms" specifically, and requiring "a subsequent written license
+  from the IB" for exactly this kind of use. The other 20 files are
+  shorter public "subject brief" documents with only a plain © notice
+  and no such restriction.
+- **Final decision:** Build full topic-level syllabus data and
+  study-guide resources from the two full guides (Economics, Physics)
+  on the strength of this confirmation. All other 19 subjects (14
+  further DP subjects + 5 MYP subjects) are sourced only from the public
+  subject-brief documents and are deliberately kept at overview depth —
+  a "subject-guides" resource describing course aims and structure, not
+  a topic-by-topic syllabus map — so no unlicensed derivative of a
+  restricted internal guide is ever published.
+- **Implementation consequence:** `syllabus-topics.ts` gets two new
+  `SyllabusVersion` entries (`ib|ib-dp|economics`, `ib|ib-dp|physics`)
+  with real topic/subtopic data transcribed from the guides' own
+  syllabus outline tables. The remaining 19 IB subjects get no
+  `syllabus-topics.ts` entry at all — their hub pages rely on
+  `subject-guides` resources only, consistent with the thin-page guard
+  in `[subject].astro` (noindex only triggers when a page has *both*
+  zero resources and zero syllabus topics; a subject-guides resource
+  alone keeps the page indexable without overstating syllabus depth).
+- **Follow-up required:** If the formal IB license is not finalized,
+  or its terms differ from what "written license" implies here, this
+  decision should be revisited before the two full-guide-derived pages
+  go live. No corroborating documentation of the license itself was
+  reviewed in this session — the decision rests on the owner's direct
+  chat confirmation, the same evidence tier used for D-007.
+- **Status:** answered, implementation in progress on
+  `feature/ib-programme` (not yet merged to `main`).
+
+---
+
+## D-009 — IB tuition pricing (Pakistan, one-to-one)
+
+- **Date:** 2026-08-22
+- **Workstream:** IB programme build, in-session request
+- **Fact provided:** Owner stated directly in chat: "IB tuitions are one
+  to one only and fee is Rs 5000 per class." No figures were given for
+  any region other than Pakistan, and no group-tuition option was
+  described for IB.
+- **Final decision:** IB pricing is documented and displayed as a
+  distinct, Pakistan-only, per-class, one-to-one rate — Rs 5,000 per
+  class — rather than being forced into the existing
+  `REGION_PRICING`/`FeeTier` structure in `src/data/pricing.ts`, which
+  is built for a per-subject-per-month rate quoted across all nine
+  existing regions. Applying that structure to IB would either fabricate
+  IB rates for the other eight regions (not authorized) or misrepresent
+  a per-class rate as a per-month one (inaccurate). Neither is
+  acceptable, so IB pricing gets its own small, separate presentation
+  instead of a new row/column in the regional pricing table.
+- **Implementation consequence:** No change to `REGION_PRICING` or
+  `FeeTier`. A standalone IB pricing note is planned for the IB program
+  page (`src/content/programs/ib.md` and/or its rendering template) and
+  possibly a short callout near `/pricing/`, stating clearly: one-to-one
+  only, Rs 5,000 per class, Pakistan. (Implementation not yet complete
+  at the time this entry was written — tracked as an open task on
+  `feature/ib-programme`.)
+- **Follow-up required:** If IB pricing is later confirmed for other
+  regions, or a group-tuition option is introduced, this entry and the
+  pricing display it describes will need updating.
+- **Status:** answered, implementation pending on `feature/ib-programme`.
+
+---

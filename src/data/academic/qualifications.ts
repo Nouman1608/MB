@@ -5,7 +5,7 @@
  * treated as interchangeable. Which boards offer which qualification is
  * recorded per board below, and enforced by the matrix — not assumed.
  */
-export type QualificationSlug = 'igcse' | 'o-level' | 'gcse' | 'as-level' | 'a-level';
+export type QualificationSlug = 'igcse' | 'o-level' | 'gcse' | 'as-level' | 'a-level' | 'ib-myp' | 'ib-dp';
 
 export interface Qualification {
   slug: QualificationSlug;
@@ -79,6 +79,24 @@ export const QUALIFICATIONS: readonly Qualification[] = [
     source: 'https://www.aqa.org.uk/subjects (AQA qualification catalogue: GCSE / AS / A-level); https://www.ocr.org.uk/qualifications/gcse/ (OCR GCSE, added 2026-08-18, v1.0 WS3)',
     notes: 'RECLASSIFIED from IGCSE — see CONFLICT-01 in matrix.ts: Learners Academy labelled these "IGCSE" but the codes are AQA GCSE codes; AQA offers no IGCSE. Marked offered 2026-08-18 per Marlbridge business decision to teach all represented boards/qualifications. OCR GCSE added 2026-08-18 (v1.0 WS3) per owner authorization and ocr.org.uk verification.',
     about: 'GCSE is the UK-domestic qualification taken by school students in England, distinct from the internationally-aimed IGCSE. Marlbridge publishes GCSE material for AQA and OCR, the two UK-domestic boards it teaches -- Cambridge, Pearson Edexcel and OxfordAQA are recorded under IGCSE instead, since none of them offer a UK GCSE route in this model.',
+  },
+  {
+    slug: 'ib-myp',
+    name: 'IB Middle Years Programme',
+    aliases: ['MYP', 'IB MYP'],
+    status: 'offered',
+    offeredByBoards: ['ib'],
+    source: 'Owner confirmed directly in chat, 2026-08-22: IB teaching (MYP and DP) has started at Marlbridge.',
+    about: 'The Middle Years Programme (MYP) is the IB\'s curriculum framework for ages 11-16, studied before the Diploma Programme. It groups subjects more broadly than Cambridge/Edexcel-style qualifications -- for example a single integrated "Sciences" subject rather than separate Biology/Chemistry/Physics -- and is assessed through internally-graded criteria rather than an external board exam at every subject.',
+  },
+  {
+    slug: 'ib-dp',
+    name: 'IB Diploma Programme',
+    aliases: ['IB Diploma', 'IBDP', 'DP'],
+    status: 'offered',
+    offeredByBoards: ['ib'],
+    source: 'Owner confirmed directly in chat, 2026-08-22: IB teaching (MYP and DP) has started at Marlbridge.',
+    about: 'The Diploma Programme (DP) is the IB\'s two-year pre-university qualification for ages 16-19, roughly comparable in stage to A Level. Each DP subject is studied at either Standard Level (SL) or Higher Level (HL), and every diploma candidate also completes three compulsory core elements (the extended essay, theory of knowledge, and creativity/activity/service) alongside their six chosen subjects.',
   },
 ] as const;
 

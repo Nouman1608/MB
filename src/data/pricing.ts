@@ -56,6 +56,27 @@ export const REGION_PRICING: readonly RegionPricing[] = [
   { region: 'Europe', currency: 'EUR', symbol: '€', igcse: 70, aLevel: 90 },
 ] as const;
 
+/**
+ * IB tuition (Diploma Programme and Middle Years Programme) has a
+ * structurally different pricing shape from REGION_PRICING/FeeTier above:
+ * it is charged per class (not per subject per month), delivered
+ * one-to-one only (no group option), and a confirmed rate exists for
+ * Pakistan only. Owner confirmed directly in chat, 2026-08-22 (see
+ * docs/decision-log.md D-009). Deliberately NOT folded into
+ * REGION_PRICING -- doing so would either fabricate IB rates for the
+ * other eight regions or misrepresent a per-class rate as a per-month one.
+ */
+export const IB_PRICING = {
+  region: 'Pakistan',
+  currency: 'PKR',
+  symbol: 'Rs',
+  perClass: 5000,
+  unit: 'per class',
+  deliveryMode: 'One-to-one only -- no group tuition option for IB.',
+  unsupportedRegionNote: 'No confirmed IB rate exists yet for regions outside Pakistan -- enquire and Marlbridge will confirm a fee.',
+  verifiedDate: '2026-08-22',
+} as const;
+
 export const PRICING_TERMS = {
   unit: 'per subject, per month',
   multiSubjectDiscount: { minSubjects: 3, percentOff: 20 },

@@ -2,7 +2,7 @@
 title: "Biology"
 order: 4
 levelsLabel: "IGCSE · O · A Level"
-levels: ["igcse", "o-levels", "a-levels"]
+levels: ["igcse", "o-levels", "a-levels", "ib"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Biology at IGCSE · O · A Level, with study material organised by topic."
 description: "Biology teaching and study resources, organised by level and topic."
