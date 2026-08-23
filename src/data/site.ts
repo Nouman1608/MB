@@ -22,15 +22,22 @@ export const site = {
   founding: 'Learners Academy — a Marlbridge education institution.',
   /**
    * Only add entries for accounts that actually confirmed exist AND are
-   * currently live (used for sameAs). Owner-confirmed 2026-08-23: LinkedIn
-   * and Facebook exist but the exact profile URL is not yet confirmed here
-   * -- do not guess a slug for either, add them once the real URL is
-   * supplied. Threads (@marlbridge) exists but is currently suspended, so
-   * it is deliberately NOT listed -- a sameAs link to a suspended profile
-   * would point at a dead page rather than a live verification signal.
+   * currently live (used for sameAs). LinkedIn and Facebook URLs
+   * owner-confirmed 2026-08-23 and browser-verified live: the LinkedIn
+   * link uses the public company page (linkedin.com/company/144554905/),
+   * not the /admin/dashboard/ URL the owner pasted (that view only
+   * renders for a logged-in admin -- the public ID-based URL is what a
+   * visitor/crawler actually sees). Facebook uses the canonical
+   * www.facebook.com host rather than the web.facebook.com desktop-app
+   * variant the owner pasted -- same page, standard public form.
+   * Threads (@marlbridge) exists but is currently suspended, so it is
+   * deliberately NOT listed -- a sameAs link to a suspended profile would
+   * point at a dead page rather than a live verification signal.
    */
   social: [
     { label: 'Instagram', href: 'https://www.instagram.com/marlbridgeofficial/' },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/company/144554905/' },
+    { label: 'Facebook', href: 'https://www.facebook.com/marlbridge' },
     { label: 'TikTok', href: 'https://www.tiktok.com/@marlbridge' },
     { label: 'X', href: 'https://x.com/Marlbridgehq' },
   ] as Array<{ label: string; href: string }>,
