@@ -71,6 +71,21 @@ const turnstileSiteKey = site.turnstile.siteKey;
     </div>
   )}
 
+  {/* v1.x CLOSURE follow-up (Register #4 / Risk R10) -- a privacy notice
+      at the point of data collection, matching what src/pages/legal/
+      privacy.astro already discloses ("we use the information you submit
+      only to respond to your enquiry"). A plain-text notice with a link
+      is used rather than a mandatory tick-box: this form collects data
+      under legitimate-interest/contract processing to answer a genuine
+      enquiry, not for marketing, so there is nothing here that needs an
+      opt-in checkbox -- the existing cookie-consent banner already
+      handles the one thing on this site that DOES need an opt-in
+      (GA4 analytics). Adding a checkbox on top would add friction to a
+      lead-generation form without a corresponding legal requirement. */}
+  <p class="m-0 sm:col-span-2 text-[13.5px] text-ink-mute">
+    By submitting this form you agree to Marlbridge's <a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">Privacy Policy</a> — your information is used only to respond to your enquiry.
+  </p>
+
   <div class="sm:col-span-2">
     <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">Send enquiry</button>
     <p class="m-0 mt-3 text-[13.5px] text-ink-mute">
