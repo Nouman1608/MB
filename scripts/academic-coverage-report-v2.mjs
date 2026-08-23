@@ -48,6 +48,7 @@ const hubIdFor = (matrixSlug) => contentIdForMatrixSlug.get(matrixSlug) ?? matri
 
 const LEVEL_FOR_QUALIFICATION = {
   igcse: 'igcse', 'o-level': 'o-levels', gcse: 'gcse', 'as-level': 'a-levels', 'a-level': 'a-levels',
+  'ib-dp': 'ib', 'ib-myp': 'ib',
 };
 
 // -----------------------------------------------------------------------
