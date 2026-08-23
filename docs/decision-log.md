@@ -642,3 +642,43 @@ Status values: `answered` (owner has responded, implemented), `open`
   preload list is slow and can affect subdomains not confirmed HTTPS-ready.
 - **Status:** Done directly against the live Cloudflare zone (not a repo
   change, so no branch/PR applies here).
+
+## D-015 — Organization schema sameAs: 3 of 5 confirmed profiles added
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (August audit item 3 --
+  Organization schema had no `sameAs` links even though the code has
+  supported it since it was written; `src/data/site.ts`'s `social[]` was
+  simply empty)
+- **Fact provided:** Owner supplied handles for Instagram
+  (@marlbridgeofficial), LinkedIn ("Marlbridge"), Facebook ("Marlbridge"),
+  TikTok (@marlbridge), X (@Marlbridgehq) and Threads (@marlbridge --
+  explicitly noted as currently suspended).
+- **Final decision:**
+  1. Added Instagram, TikTok and X to `src/data/site.ts`'s `social[]` --
+     all three were given as exact @handles, so the profile URL is an
+     unambiguous, direct construction from what the owner typed (Instagram
+     was additionally browser-verified live: page title resolved to
+     "MarlBridge (@marlbridgeofficial) -- Instagram photos and videos").
+  2. LinkedIn and Facebook were NOT added -- the owner gave the display
+     name "Marlbridge" for both, not an exact profile URL/vanity slug.
+     Guessing a slug (e.g. facebook.com/marlbridge,
+     linkedin.com/company/marlbridge) risks linking to a wrong or
+     nonexistent page, which this repo's own existing comment on
+     `site.social` already forbids ("Only add entries for accounts that
+     actually exist"). These two are held pending the owner supplying the
+     exact URLs.
+  3. Threads was NOT added, despite being confirmed to exist, because the
+     owner stated it is currently suspended -- a sameAs link to a
+     suspended account would point at a dead page, not a live
+     verification signal, and undermines the same accuracy principle.
+- **Implementation consequence:** `src/utils/schema/organization.ts`
+  required no change -- it already emits `sameAs` conditionally whenever
+  `site.social` is non-empty. Verified in the built homepage's JSON-LD:
+  `"sameAs":["https://www.instagram.com/marlbridgeofficial/",
+  "https://www.tiktok.com/@marlbridge","https://x.com/Marlbridgehq"]`.
+- **Follow-up required:** Add LinkedIn and Facebook once the owner
+  supplies the exact profile URLs. Revisit Threads if/when it is
+  reinstated.
+- **Status:** implemented on `fix/august-audit-findings`; not yet merged
+  to `main`.

@@ -20,8 +20,20 @@ export const site = {
     'Live teaching from Pakistan. Online tutoring for learners anywhere. A free study library built for the international curricula studied across the Gulf, South Asia, the UK and beyond.',
   locale: 'en',
   founding: 'Learners Academy — a Marlbridge education institution.',
-  /** Only add entries for accounts that actually exist (used for sameAs). */
-  social: [] as Array<{ label: string; href: string }>,
+  /**
+   * Only add entries for accounts that actually confirmed exist AND are
+   * currently live (used for sameAs). Owner-confirmed 2026-08-23: LinkedIn
+   * and Facebook exist but the exact profile URL is not yet confirmed here
+   * -- do not guess a slug for either, add them once the real URL is
+   * supplied. Threads (@marlbridge) exists but is currently suspended, so
+   * it is deliberately NOT listed -- a sameAs link to a suspended profile
+   * would point at a dead page rather than a live verification signal.
+   */
+  social: [
+    { label: 'Instagram', href: 'https://www.instagram.com/marlbridgeofficial/' },
+    { label: 'TikTok', href: 'https://www.tiktok.com/@marlbridge' },
+    { label: 'X', href: 'https://x.com/Marlbridgehq' },
+  ] as Array<{ label: string; href: string }>,
   ogImage: '/images/brand/marlbridge-og.png',
 
   /**
