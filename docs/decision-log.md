@@ -603,3 +603,42 @@ Status values: `answered` (owner has responded, implemented), `open`
   (already correctly implemented; not a bug).
 - **Status:** implemented on `fix/august-audit-findings`; not yet merged
   to `main`.
+
+## D-014 — HTTP->HTTPS redirect and HSTS enabled (Cloudflare zone setting)
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (August audit item 2 --
+  `http://marlbridge.com/` returned 200 OK directly instead of a 301, and
+  the HTTPS response carried no `strict-transport-security` header)
+- **Fact provided:** Confirmed via `curl -I` before and after -- prior to
+  this fix, HTTP returned 200 with no redirect and HTTPS had no HSTS
+  header at all.
+- **Final decision:** Not a repo code change -- this is a Cloudflare
+  zone-level setting (SSL/TLS > Edge Certificates), external to this
+  codebase. Owner granted browser access (already logged into the
+  Cloudflare dashboard) and a scoped API token; the API token lacked
+  zone-list/zone-settings permission for this specific zone (confirmed via
+  `/user/tokens/verify` succeeding but `/zones` and the settings endpoints
+  returning "Unauthorized to access requested resource"), so the fix was
+  applied directly in the Cloudflare dashboard via browser automation
+  instead:
+  1. **Always Use HTTPS** -- turned on (was off).
+  2. **HTTP Strict Transport Security (HSTS)** -- enabled, Max-Age set to
+     6 months (Cloudflare's own "Recommended" default). `includeSubDomains`,
+     `preload` and the `X-Content-Type-Options: nosniff` header were left
+     off/disabled -- the audit item only asked for the base HTTP->HTTPS
+     redirect and HSTS presence, and `preload`/`includeSubDomains` are
+     harder to safely reverse (preload in particular requires submission
+     to browser preload lists and can make a site inaccessible if HTTPS
+     ever needs to be disabled), so they were deliberately left for a
+     separate, explicit decision rather than enabled by default.
+- **Implementation consequence:** Verified live post-change:
+  `curl -I http://marlbridge.com/` now returns `301 Moved Permanently`
+  with `Location: https://marlbridge.com/`; `curl -I https://marlbridge.com/`
+  now returns `strict-transport-security: max-age=15552000`.
+- **Follow-up required:** None for the base fix. If `includeSubDomains`
+  or `preload` are wanted later, that needs a separate explicit decision
+  -- preload especially, since undoing it after browsers cache the
+  preload list is slow and can affect subdomains not confirmed HTTPS-ready.
+- **Status:** Done directly against the live Cloudflare zone (not a repo
+  change, so no branch/PR applies here).
