@@ -684,3 +684,36 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Follow-up required:** Revisit Threads if/when it is reinstated.
 - **Status:** implemented on `fix/august-audit-findings`; not yet merged
   to `main`.
+
+## D-016 — Privacy notice added to the enquiry form (Register #4 / Risk R10)
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (external audit register
+  item, confirmed still live: "No privacy/consent notice or checkbox on
+  the /contact/ enquiry form")
+- **Fact provided:** `src/components/forms/EnquiryForm.astro` (shared by
+  both the student/tutoring and school-partnership enquiry forms) had no
+  privacy disclosure of any kind at the point of data collection, despite
+  `src/pages/legal/privacy.astro` already fully describing what the
+  enquiry form collects and how it's used.
+- **Final decision:** Added a plain-text privacy notice with a link to
+  `/legal/privacy/`, positioned directly above the submit button: "By
+  submitting this form you agree to Marlbridge's Privacy Policy — your
+  information is used only to respond to your enquiry." A mandatory
+  tick-box was deliberately NOT added -- this form collects data under
+  legitimate-interest/contract processing to answer a genuine enquiry,
+  not for marketing, so there is no opt-in requirement the way there is
+  for the site's GA4 analytics (which already has its own dedicated
+  cookie-consent banner via `ConsentAnalytics.astro`, D-003). A checkbox
+  would add friction to a lead-generation form without a corresponding
+  legal requirement.
+- **Implementation consequence:** One shared component, so the notice
+  covers both `/contact/` (student/tutoring enquiries) and the schools
+  partnership form automatically. Verified present in the built
+  `/contact/` page.
+- **Follow-up required:** None expected. If the business later adds a
+  marketing opt-in (e.g. a newsletter checkbox) to this form, that would
+  need its own separate, genuinely-optional checkbox -- do not fold it
+  into this required privacy notice.
+- **Status:** implemented on `fix/enquiry-form-privacy-notice`; not yet
+  merged to `main`.
