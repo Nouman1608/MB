@@ -717,3 +717,43 @@ Status values: `answered` (owner has responded, implemented), `open`
   into this required privacy notice.
 - **Status:** implemented on `fix/enquiry-form-privacy-notice`; not yet
   merged to `main`.
+
+## D-017 — Staff photos rendered on author bio pages
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user-reported: /authors/harris-zaman/
+  and other author pages render no photo, despite a staff photo existing).
+- **Fact provided:** The `authors` content collection has always had an
+  optional `image` field (e.g.
+  `image: "/images/faculty/harris-zaman.jpg"`), and the corresponding JPGs
+  already exist in `public/images/faculty/` for 19 of the 20 author
+  entries (the 20th, `marlbridge-academic-team`, is a team byline, not an
+  individual, and correctly has no `image`). Grepping the codebase showed
+  `images/faculty` was never referenced anywhere outside the content
+  files themselves -- the data existed but nothing rendered it. The
+  `personNode()` schema helper (`src/utils/schema/person.ts`) already
+  accepted an `image` parameter too, but the author page never passed one.
+- **Final decision:** Render the photo on `src/pages/authors/[slug].astro`
+  via `PageLayout`'s existing `hero-extra` slot (a circular photo next to
+  the name/role in the page header), and pass `image: d.image` into
+  `personNode()` so the Person JSON-LD also carries it. For a `person`
+  entityType with no `image` set, show a clearly-labelled "Photo" reserved
+  placeholder (matching the site's existing "reserved frame" convention
+  used elsewhere, e.g. `PhotoFrame.astro`) rather than silently omitting
+  it, so a missing photo stays visible as a to-do rather than invisible.
+  For `organization` entityType (the team byline), no photo and no
+  placeholder is shown -- a team does not get a personal photo.
+- **Implementation consequence:** Single-file change,
+  `src/pages/authors/[slug].astro`. Verified in the built output: e.g.
+  `dist/authors/harris-zaman/index.html` now contains
+  `<img src="/images/faculty/harris-zaman.jpg" ...>` and the page's Person
+  JSON-LD now includes
+  `"image":"https://marlbridge.com/images/faculty/harris-zaman.jpg"`;
+  `dist/authors/marlbridge-academic-team/index.html` correctly shows
+  neither a photo nor a placeholder.
+- **Follow-up required:** None expected. If a new individual author is
+  added without a photo yet, the reserved "Photo" placeholder will show
+  on their bio page until one is supplied -- that is the intended,
+  visible-not-silent behaviour.
+- **Status:** implemented on `content/staff-photos-authors`; not yet
+  merged to `main`.

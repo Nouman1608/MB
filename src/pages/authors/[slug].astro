@@ -29,7 +29,7 @@ const resources = await resourcesByAuthor(author.id);
 const jsonLd = [
   d.entityType === 'organization'
     ? organizationEntityNode({ path, name: d.name, jobTitle: d.role, bio: d.bio })
-    : personNode({ path, name: d.name, jobTitle: d.role, bio: d.bio }),
+    : personNode({ path, name: d.name, jobTitle: d.role, bio: d.bio, image: d.image }),
 ];
 ---
 <PageLayout
@@ -47,6 +47,27 @@ const jsonLd = [
   ]}
   jsonLd={jsonLd}
 >
+  <Fragment slot="hero-extra">
+    {d.image ? (
+      <img
+        src={d.image}
+        alt={`Photograph of ${d.name}`}
+        width="112"
+        height="112"
+        loading="eager"
+        decoding="async"
+        class="mt-6 h-28 w-28 rounded-full border border-rule object-cover"
+      />
+    ) : d.entityType === 'person' ? (
+      <div
+        role="img"
+        aria-label={`Photograph not yet available for ${d.name}`}
+        class="mt-6 flex h-28 w-28 items-center justify-center rounded-full border border-rule bg-white font-mono text-[10.5px] uppercase tracking-[0.08em] text-[#6F6552]"
+      >
+        Photo
+      </div>
+    ) : null}
+  </Fragment>
   <Section surface="white">
     <Container width="prose">
       <div class="text-[17.5px] leading-[1.75] [&>p]:mt-5">
