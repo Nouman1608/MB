@@ -553,3 +553,134 @@ Status values: `answered` (owner has responded, implemented), `open`
   periodic revalidation. No other follow-up expected.
 - **Status:** implemented on `feature/one-to-one-pricing`; not yet merged
   to `main`.
+## D-013 — August audit fixes: IELTS status, Contact FAQ drift, homepage title
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (new audit findings, not
+  previously in the register)
+- **Fact provided:** Owner confirmed IELTS is currently offered by
+  Marlbridge (only SAT is genuinely unconfirmed) -- `src/content/programs/
+  ielts.md` incorrectly carried `marlbridgeTeaches: "not-confirmed"` and
+  "not yet offered" body copy identical to the genuinely-unconfirmed
+  `sat.md`, a live public misstatement.
+- **Final decision:**
+  1. `src/content/programs/ielts.md`: `marlbridgeTeaches` changed to
+     `"teaching"`; body copy rewritten from "not yet offered... register
+     your interest" to "Marlbridge teaches Academic IELTS preparation,
+     covering all four papers: Listening, Reading, Writing and Speaking."
+  2. `src/pages/contact/index.astro` FAQ ("Which qualifications does
+     Marlbridge teach?"): found two further pieces of drift while fixing
+     IELTS in the same answer -- (a) it still said "IELTS and SAT are not
+     yet offered" (now corrected: IELTS added to the taught list, only SAT
+     called out as not yet offered) and (b) it still said "IB study
+     resources are published, with teaching in development" even though
+     `src/content/programs/ib.md` was changed to `marlbridgeTeaches:
+     "teaching"` earlier this engagement (IB programme merge) -- this
+     FAQ answer was never updated at that time. Now reads "...AS Level, A
+     Level, IB (Middle Years Programme and Diploma Programme, one-to-one)
+     and IELTS... SAT is not yet offered."
+  3. `src/pages/index.astro`: homepage `<title>` changed from
+     `site.tagline` ("Marlbridge — Bridging Knowledge and Opportunity.")
+     to `"Marlbridge — IGCSE, A Level, IB & GCSE Tutoring"` -- a real
+     category keyword instead of branding-only text, using only
+     currently-taught program categories. `site.tagline` is unaffected
+     everywhere else (footer, Organization schema `slogan`, homepage H1
+     body copy).
+- **Implementation consequence:** No validator or schema change needed --
+  `checkQualificationClaims` in `validate-commercial-claims.mjs` only
+  checks FAQ sentences against IGCSE/GCSE/AS Level/A Level/O Level (IB and
+  IELTS are not matrix-tracked qualifications), and the copy-contradiction
+  guard only scans `src/content/{subjects,programs}` bodies, not
+  `src/pages/contact/index.astro` prose -- so neither edit needed a script
+  change, only the content correction itself. Full validation gate
+  re-run clean after all three edits.
+- **Follow-up required:** None outstanding for these three items. Three
+  further items from the same audit round were investigated and found to
+  need either an external (non-repo) action or no code change at all --
+  see the same-day audit-response report for HTTP→HTTPS/HSTS (Cloudflare
+  dashboard setting), Organization `sameAs` (code already supports it,
+  needs real social profile URLs), and hreflang/thin-content scope
+  (already correctly implemented; not a bug).
+- **Status:** implemented on `fix/august-audit-findings`; not yet merged
+  to `main`.
+
+## D-014 — HTTP->HTTPS redirect and HSTS enabled (Cloudflare zone setting)
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (August audit item 2 --
+  `http://marlbridge.com/` returned 200 OK directly instead of a 301, and
+  the HTTPS response carried no `strict-transport-security` header)
+- **Fact provided:** Confirmed via `curl -I` before and after -- prior to
+  this fix, HTTP returned 200 with no redirect and HTTPS had no HSTS
+  header at all.
+- **Final decision:** Not a repo code change -- this is a Cloudflare
+  zone-level setting (SSL/TLS > Edge Certificates), external to this
+  codebase. Owner granted browser access (already logged into the
+  Cloudflare dashboard) and a scoped API token; the API token lacked
+  zone-list/zone-settings permission for this specific zone (confirmed via
+  `/user/tokens/verify` succeeding but `/zones` and the settings endpoints
+  returning "Unauthorized to access requested resource"), so the fix was
+  applied directly in the Cloudflare dashboard via browser automation
+  instead:
+  1. **Always Use HTTPS** -- turned on (was off).
+  2. **HTTP Strict Transport Security (HSTS)** -- enabled, Max-Age set to
+     6 months (Cloudflare's own "Recommended" default). `includeSubDomains`,
+     `preload` and the `X-Content-Type-Options: nosniff` header were left
+     off/disabled -- the audit item only asked for the base HTTP->HTTPS
+     redirect and HSTS presence, and `preload`/`includeSubDomains` are
+     harder to safely reverse (preload in particular requires submission
+     to browser preload lists and can make a site inaccessible if HTTPS
+     ever needs to be disabled), so they were deliberately left for a
+     separate, explicit decision rather than enabled by default.
+- **Implementation consequence:** Verified live post-change:
+  `curl -I http://marlbridge.com/` now returns `301 Moved Permanently`
+  with `Location: https://marlbridge.com/`; `curl -I https://marlbridge.com/`
+  now returns `strict-transport-security: max-age=15552000`.
+- **Follow-up required:** None for the base fix. If `includeSubDomains`
+  or `preload` are wanted later, that needs a separate explicit decision
+  -- preload especially, since undoing it after browsers cache the
+  preload list is slow and can affect subdomains not confirmed HTTPS-ready.
+- **Status:** Done directly against the live Cloudflare zone (not a repo
+  change, so no branch/PR applies here).
+
+## D-015 — Organization schema sameAs: all 5 confirmed profiles added
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (August audit item 3 --
+  Organization schema had no `sameAs` links even though the code has
+  supported it since it was written; `src/data/site.ts`'s `social[]` was
+  simply empty)
+- **Fact provided:** Owner supplied handles for Instagram
+  (@marlbridgeofficial), LinkedIn ("Marlbridge"), Facebook ("Marlbridge"),
+  TikTok (@marlbridge), X (@Marlbridgehq) and Threads (@marlbridge --
+  explicitly noted as currently suspended).
+- **Final decision:**
+  1. Added Instagram, TikTok and X to `src/data/site.ts`'s `social[]` --
+     all three were given as exact @handles, so the profile URL is an
+     unambiguous, direct construction from what the owner typed (Instagram
+     was additionally browser-verified live: page title resolved to
+     "MarlBridge (@marlbridgeofficial) -- Instagram photos and videos").
+  2. LinkedIn and Facebook URLs were supplied by the owner in a follow-up
+     message and added the same day: `https://www.linkedin.com/company/
+     144554905/` (the owner pasted the `/admin/dashboard/` URL, which only
+     renders for a logged-in admin -- the public ID-based company page URL
+     was used instead, since that's what a visitor/crawler actually sees)
+     and `https://www.facebook.com/marlbridge` (the owner pasted the
+     `web.facebook.com` desktop-app host -- the canonical `www.facebook.com`
+     form was used instead; both are the same page, browser-verified live
+     with the real "Marlbridge" / "Bridging knowledge and opportunity." /
+     "Education website" page details visible).
+  3. Threads was NOT added, despite being confirmed to exist, because the
+     owner stated it is currently suspended -- a sameAs link to a
+     suspended account would point at a dead page, not a live
+     verification signal, and undermines the same accuracy principle.
+- **Implementation consequence:** `src/utils/schema/organization.ts`
+  required no change -- it already emits `sameAs` conditionally whenever
+  `site.social` is non-empty. Verified in the built homepage's JSON-LD:
+  `"sameAs":["https://www.instagram.com/marlbridgeofficial/",
+  "https://www.linkedin.com/company/144554905/",
+  "https://www.facebook.com/marlbridge",
+  "https://www.tiktok.com/@marlbridge","https://x.com/Marlbridgehq"]`.
+- **Follow-up required:** Revisit Threads if/when it is reinstated.
+- **Status:** implemented on `fix/august-audit-findings`; not yet merged
+  to `main`.
