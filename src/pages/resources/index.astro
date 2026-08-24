@@ -4,17 +4,50 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
-import { getResources, resourceCategoryMeta } from '../../utils/content/collections';
+import { getResources, getSubjects, resourceCategoryMeta } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
 
 const types = Object.entries(resourceCategoryMeta);
 const resources = await getResources();
+const subjects = await getSubjects();
 const byType = Object.fromEntries(
   types.map(([slug]) => [slug, resources.filter((r) => r.data.resourceType === slug)]),
 );
 const recent = resources.slice(0, 6);
 const subjectTitles = Object.fromEntries(
   await Promise.all(resources.map(async (r) => [r.id, (await getEntry(r.data.subject))?.data.title ?? ''])),
+);
+
+/**
+ * v1.x CLOSURE follow-up -- a single type section used to be one flat grid
+ * sorted only by publish date (up to 257 study guides in undifferentiated
+ * date order, with the built page reaching ~600KB). Grouping by subject --
+ * in the site's canonical subject order, the same order used on
+ * /subjects/, so the two pages read consistently -- turns each section
+ * into a real, browsable reference index instead of a feed. Within a
+ * subject group, resources sort alphabetically by title rather than by
+ * date: this is a reference library, not a "recently published" list
+ * (that distinct use case is already served by the "Recently published"
+ * section above, which is untouched by this change).
+ */
+type ResourceEntry = (typeof resources)[number];
+const bySubjectByType = Object.fromEntries(
+  types.map(([slug]) => {
+    const bySubject = new Map<string, ResourceEntry[]>();
+    for (const entry of byType[slug]) {
+      const key = entry.data.subject.id;
+      const list = bySubject.get(key) ?? [];
+      list.push(entry);
+      bySubject.set(key, list);
+    }
+    for (const list of bySubject.values()) {
+      list.sort((a, b) => a.data.title.localeCompare(b.data.title));
+    }
+    const ordered = subjects
+      .filter((s) => bySubject.has(s.id))
+      .map((s) => ({ subject: s, entries: bySubject.get(s.id)! }));
+    return [slug, ordered];
+  }),
 );
 ---
 <PageLayout
@@ -63,11 +96,21 @@ const subjectTitles = Object.fromEntries(
           <h2 id={`${slug}-heading`} class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{meta.title}</h2>
           <p class="m-0 mb-6 max-w-[60ch] text-[16px] leading-[1.6] text-ink-mute">{meta.description}</p>
           {byType[slug].length > 0 ? (
-            <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-              {byType[slug].map((entry) => (
-                <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitles[entry.id]} /></li>
+            <div class="flex flex-col gap-10">
+              {bySubjectByType[slug].map(({ subject, entries }) => (
+                <div>
+                  <h3 class="m-0 mb-4 flex items-baseline gap-2.5 border-b border-rule pb-2 text-[15px] font-semibold uppercase tracking-[0.08em] text-navy-800">
+                    {subject.data.title}
+                    <span class="font-mono text-[11px] font-normal normal-case tracking-normal text-ink-mute">{entries.length}</span>
+                  </h3>
+                  <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+                    {entries.map((entry) => (
+                      <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitles[entry.id]} headingLevel="h4" /></li>
+                    ))}
+                  </ul>
+                </div>
               ))}
-            </ul>
+            </div>
           ) : (
             <div class="max-w-[56ch] border border-rule bg-ivory p-[clamp(24px,3vw,40px)]">
               <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">In development</p>

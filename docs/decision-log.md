@@ -828,3 +828,52 @@ Status values: `answered` (owner has responded, implemented), `open`
   fix, which matches the existing pattern of fixing each in place.
 - **Status:** implemented on `fix/homepage-subjects-badge-overlap`; not
   yet merged to `main`.
+
+## D-020 — /resources/ sections grouped by subject instead of one flat date-sorted grid
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user-reported: "the study guides
+  are not well managed and arranged properly in the resources").
+- **Fact provided:** `src/pages/resources/index.astro` rendered each
+  resource-type section (Study Guides, Revision Notes, Practice Questions,
+  Subject Guides) as one flat grid of `ResourceCard`s, sorted only by
+  `publishedDate` descending across ALL subjects at once -- e.g. Study
+  Guides showed 257 items in raw newest-first order with no subject or
+  level grouping, no filter, no pagination. The built page was ~600KB of
+  HTML on a single load. Per-subject browsing already works fine on
+  subject hub pages (`/subjects/[slug]/`), but the resources directory
+  itself had no organisation beyond type.
+- **Options presented to the user:** (1) group by subject with
+  subheadings within each type section, (2) add a client-side subject/
+  level filter control, (3) switch the sort from date to alphabetical
+  without adding grouping UI. User chose (1).
+- **Final decision:** Within each type section, group entries by subject
+  using the site's canonical subject order (the same order used on
+  `/subjects/`, via `getSubjects()`), with an `<h3>` subheading per
+  subject (name + count) and resources sorted alphabetically by title
+  within each group -- a reference index, not a recency feed. Left the
+  "Recently published" section (top of page, 6 most recent across all
+  types) untouched, since date-recency is exactly the right sort for
+  that distinct section.
+- **Implementation consequence:** `src/pages/resources/index.astro`
+  rewritten to build `bySubjectByType` (grouping + sort) alongside the
+  existing `byType`. Because a per-subject `<h3>` now sits between the
+  section's `<h2>` and each card's own heading, `ResourceCard.astro`
+  gained an optional `headingLevel` prop (`'h3' | 'h4'`, default `'h3'`)
+  so the card title becomes `<h4>` only in this newly-nested context --
+  every other call site (subject hub pages, board pages, "Recently
+  published", author/article "also relevant" lists, program pages) is
+  unchanged and keeps `<h3>`, preserving correct heading hierarchy
+  everywhere rather than skipping or doubling a level. Verified in the
+  built output: 23 subject subheadings under Study Guides in the same
+  order as `/subjects/`, entries alphabetical within each subject, 257
+  cards total (unchanged count), all rendered as `<h4>`; the unrelated
+  "Recently published" section's 6 cards still render as `<h3>`.
+- **Follow-up required:** None expected for this change. Noted
+  separately (see D-019) that `SubjectList.astro` and
+  `SubjectsSection.astro` duplicate row markup -- this page's grouping
+  logic is a third, independent implementation and not something to
+  consolidate with those two, since its data shape (grouped-by-subject
+  within a type) is genuinely different from theirs (flat subject list).
+- **Status:** implemented on `feature/resources-group-by-subject`; not
+  yet merged to `main`.
