@@ -794,3 +794,37 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Follow-up required:** None expected.
 - **Status:** implemented on `fix/subject-list-badge-overlap`; not yet
   merged to `main`.
+
+## D-019 — Same badge/level overlap bug, second location: homepage subjects preview
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user-reported, second screenshot
+  -- this time the homepage's "Learn With Purpose" subjects preview, not
+  `/subjects/` which D-018 already fixed).
+- **Fact provided:** `src/components/sections/SubjectsSection.astro` is a
+  separate component from `SubjectList.astro` (D-018), but its row markup
+  is a near-identical copy: same `flex items-baseline justify-between
+  gap-4` row with no wrap fallback. Here the list sits inside a narrower
+  right-hand column (`lg:grid-cols-[minmax(280px,0.85fr)_1.6fr]`) that is
+  itself split into 2 sub-columns, so the effective column width is
+  narrower than on the standalone `/subjects/` page at the same viewport
+  -- narrow enough that even a single-line title like "Mathematics"
+  overlaps its own badge with the level label, without any title-wrapping
+  needed. Reproduced directly against the live homepage the same way as
+  D-018 (isolated the "Mathematics" row's DOM in a resizable test
+  container): overlap starts at ~320px column width even for this
+  single-line title.
+- **Final decision:** Same fix as D-018, applied to this component:
+  `flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1`.
+  Verified with the same isolated-DOM sweep against the live page, widths
+  180px-500px: zero overlaps at any width.
+- **Implementation consequence:** Single-file, single-line class change,
+  `src/components/sections/SubjectsSection.astro`. Used only on the
+  homepage.
+- **Follow-up required:** These two components (`SubjectList.astro` and
+  `SubjectsSection.astro`) duplicate the same row markup. Worth
+  considering a shared sub-component in a future pass so this class of
+  bug can't recur a third time in a third copy -- out of scope for this
+  fix, which matches the existing pattern of fixing each in place.
+- **Status:** implemented on `fix/homepage-subjects-badge-overlap`; not
+  yet merged to `main`.
