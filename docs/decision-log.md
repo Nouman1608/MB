@@ -757,3 +757,40 @@ Status values: `answered` (owner has responded, implemented), `open`
   visible-not-silent behaviour.
 - **Status:** implemented on `content/staff-photos-authors`; not yet
   merged to `main`.
+
+## D-018 — Subject-list resource-count badge overlapping the level label
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user-reported, screenshot of
+  `/subjects/` at a mid-range browser width showing "N RESOURCES" badges
+  overlapping the board/level text next to them, e.g. "Environmental
+  Management" and "English Literature").
+- **Fact provided:** `SubjectList.astro` (used only on `/subjects/`)
+  renders each row as `<a class="flex items-baseline justify-between
+  gap-4">` with two children: a title+badge wrapper (`min-w-0`, so it CAN
+  shrink and wrap) and the level label (`whitespace-nowrap`, so it
+  physically cannot shrink below its own text width). Reproduced directly
+  against the live page (isolated the "English Literature" row's DOM in a
+  fixed-width test container and swept the width down from 500px):
+  overlap starts exactly where the two-column grid's column width gets
+  narrow enough that the title wraps to 2 lines AND the level label no
+  longer has room next to the shrunken title+badge group. Because the
+  outer row has no `flex-wrap`, the browser cannot move the level label
+  to a new line when it doesn't fit -- it gets forced into the same
+  horizontal space as the badge, producing literal overlapping text. This
+  reproduces on the real production page in the `sm:grid-cols-2` window
+  (roughly 640-900px viewport), which is exactly what the user's
+  screenshot showed.
+- **Final decision:** Add `flex-wrap` to the row (`flex flex-wrap
+  items-baseline justify-between gap-x-4 gap-y-1`, replacing the single
+  `gap-4`). When a row's title+badge and level label don't both fit on
+  one line, the level label now wraps to its own line below (left-aligned)
+  instead of overlapping. Verified with the same isolated-DOM sweep,
+  200px-500px, using the exact shipped classes: zero overlaps at any
+  width, with a real gap (7-39px) wherever wrapping occurs.
+- **Implementation consequence:** Single-file, single-line class change,
+  `src/components/cards/SubjectList.astro`. `SubjectList` is used only on
+  `/subjects/`, so no other page is affected.
+- **Follow-up required:** None expected.
+- **Status:** implemented on `fix/subject-list-badge-overlap`; not yet
+  merged to `main`.
