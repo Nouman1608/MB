@@ -877,3 +877,47 @@ Status values: `answered` (owner has responded, implemented), `open`
   within a type) is genuinely different from theirs (flat subject list).
 - **Status:** implemented on `feature/resources-group-by-subject`; not
   yet merged to `main`.
+
+## D-021 — Subject/level filter dropdowns added to /resources/ sections
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up, direct continuation of D-020.
+  D-020 grouped each resource-type section by subject; the user was asked
+  which further arrangement improvement they wanted and chose adding a
+  subject/level filter on top of that grouping (rather than sorting-only,
+  or replacing the grouping with a flat filtered list).
+- **Final decision:** Each type section (Study Guides, Revision Notes,
+  Practice Questions, Subject Guides) gets a "Subject" `<select>` (options
+  built from that section's own `bySubjectByType` groups, so a subject
+  never appears as a filter option with zero results) and, when a section
+  actually spans more than one level, a "Level" `<select>` (options
+  limited to levels that actually occur in that section, in the same
+  order as the `level` enum in content.config.ts). A "Clear filters"
+  button appears only once a filter is active. Filtering is client-side,
+  vanilla JS (no framework), matching the existing inline-`<script>`
+  convention this codebase already uses for the mobile-menu toggle and
+  cookie-consent banner (`BaseLayout.astro`) rather than introducing a new
+  dependency. Selecting a subject hides non-matching subject groups
+  entirely; selecting a level hides non-matching cards and, if that empties
+  a subject group, hides the group too; a genuine zero-result combination
+  shows a "No {type} match these filters" message instead of a blank
+  section.
+- **Implementation consequence:** `src/pages/resources/index.astro` only.
+  Server-rendered: each card's `<li>` carries `data-levels="..."` (space-
+  separated level slugs) and each subject group carries
+  `data-subject-group="{subject-slug}"`; the section carries
+  `data-resource-filter="{type-slug}"` so the script can scope
+  independently per section. Verified the server-rendered markup directly
+  (subject/level `<option>` lists match each section's real data, all 257
+  Study Guides cards carry `data-levels`, all 23 subject groups carry
+  `data-subject-group`), then verified the actual filter *behaviour* --
+  not just that the build succeeded -- by running the shipped script
+  logic verbatim against a live browser DOM (Chrome, via the same session
+  used throughout this engagement) with representative single- and
+  multi-level cards: subject-only filtering, level-only filtering across
+  subjects, combined subject+level filtering (including a card with two
+  levels correctly matching either), the reset button, and a genuine
+  zero-match case correctly showing the empty-state message. All passed.
+- **Follow-up required:** None expected.
+- **Status:** implemented on `feature/resources-subject-level-filter`;
+  not yet merged to `main`.

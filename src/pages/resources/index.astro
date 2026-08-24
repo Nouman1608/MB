@@ -49,6 +49,29 @@ const bySubjectByType = Object.fromEntries(
     return [slug, ordered];
   }),
 );
+
+/**
+ * v1.x CLOSURE follow-up -- subject grouping (above) makes each section
+ * scannable, but a large section (257 study guides) still means a lot of
+ * scrolling to reach one subject/level combination. These filters narrow
+ * the already-grouped list further, client-side, without a framework --
+ * same "small inline <script>" pattern this codebase already uses for the
+ * mobile-menu toggle and cookie-consent banner (see BaseLayout.astro).
+ * Order matches the `level` enum in content.config.ts; only levels that
+ * actually occur in a given section are offered, so an empty option never
+ * appears.
+ */
+const LEVEL_ORDER = ['igcse', 'o-levels', 'a-levels', 'gcse', 'ib', 'sat', 'ielts', 'foundation'] as const;
+const LEVEL_LABELS: Record<string, string> = {
+  igcse: 'IGCSE', 'o-levels': 'O Level', 'a-levels': 'A Level', gcse: 'GCSE',
+  ib: 'IB', sat: 'SAT', ielts: 'IELTS', foundation: 'Foundation',
+};
+const levelsByType = Object.fromEntries(
+  types.map(([slug]) => {
+    const present = new Set(byType[slug].flatMap((r) => r.data.level));
+    return [slug, LEVEL_ORDER.filter((l) => present.has(l))];
+  }),
+);
 ---
 <PageLayout
   title="Learning resources"
@@ -92,25 +115,53 @@ const bySubjectByType = Object.fromEntries(
           per the approved resource-category rule: visible, but never
           implying material exists that doesn't. */}
       {types.map(([slug, meta]) => (
-        <section id={slug} aria-labelledby={`${slug}-heading`} class="mt-[clamp(48px,6vw,80px)] scroll-mt-24 border-t border-rule pt-8">
+        <section id={slug} aria-labelledby={`${slug}-heading`} class="mt-[clamp(48px,6vw,80px)] scroll-mt-24 border-t border-rule pt-8" data-resource-filter={slug}>
           <h2 id={`${slug}-heading`} class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{meta.title}</h2>
           <p class="m-0 mb-6 max-w-[60ch] text-[16px] leading-[1.6] text-ink-mute">{meta.description}</p>
           {byType[slug].length > 0 ? (
-            <div class="flex flex-col gap-10">
-              {bySubjectByType[slug].map(({ subject, entries }) => (
-                <div>
-                  <h3 class="m-0 mb-4 flex items-baseline gap-2.5 border-b border-rule pb-2 text-[15px] font-semibold uppercase tracking-[0.08em] text-navy-800">
-                    {subject.data.title}
-                    <span class="font-mono text-[11px] font-normal normal-case tracking-normal text-ink-mute">{entries.length}</span>
-                  </h3>
-                  <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
-                    {entries.map((entry) => (
-                      <li class="m-0"><ResourceCard entry={entry} subjectTitle={subjectTitles[entry.id]} headingLevel="h4" /></li>
+            <>
+              <div class="mb-8 flex flex-wrap items-center gap-3">
+                <label class="flex items-center gap-2 text-[13.5px] text-ink-mute">
+                  Subject
+                  <select data-filter-subject class="rounded-sm border border-rule bg-white px-3 py-2 text-[14px] text-navy-800">
+                    <option value="">All subjects</option>
+                    {bySubjectByType[slug].map(({ subject, entries }) => (
+                      <option value={subject.id}>{subject.data.title} ({entries.length})</option>
                     ))}
-                  </ul>
-                </div>
-              ))}
-            </div>
+                  </select>
+                </label>
+                {levelsByType[slug].length > 1 && (
+                  <label class="flex items-center gap-2 text-[13.5px] text-ink-mute">
+                    Level
+                    <select data-filter-level class="rounded-sm border border-rule bg-white px-3 py-2 text-[14px] text-navy-800">
+                      <option value="">All levels</option>
+                      {levelsByType[slug].map((l) => (
+                        <option value={l}>{LEVEL_LABELS[l]}</option>
+                      ))}
+                    </select>
+                  </label>
+                )}
+                <button type="button" data-filter-reset hidden class="text-[13.5px] text-ink-mute underline decoration-gold-500 underline-offset-2 hover:text-navy-800">Clear filters</button>
+              </div>
+              <p data-filter-empty hidden class="m-0 mb-8 text-[15px] text-ink-mute">No {meta.title.toLowerCase()} match these filters.</p>
+              <div class="flex flex-col gap-10">
+                {bySubjectByType[slug].map(({ subject, entries }) => (
+                  <div data-subject-group={subject.id}>
+                    <h3 class="m-0 mb-4 flex items-baseline gap-2.5 border-b border-rule pb-2 text-[15px] font-semibold uppercase tracking-[0.08em] text-navy-800">
+                      {subject.data.title}
+                      <span class="font-mono text-[11px] font-normal normal-case tracking-normal text-ink-mute">{entries.length}</span>
+                    </h3>
+                    <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+                      {entries.map((entry) => (
+                        <li class="m-0" data-levels={entry.data.level.join(' ')}>
+                          <ResourceCard entry={entry} subjectTitle={subjectTitles[entry.id]} headingLevel="h4" />
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ))}
+              </div>
+            </>
           ) : (
             <div class="max-w-[56ch] border border-rule bg-ivory p-[clamp(24px,3vw,40px)]">
               <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">In development</p>
@@ -135,3 +186,51 @@ const bySubjectByType = Object.fromEntries(
     </Container>
   </Section>
 </PageLayout>
+
+<script>
+  // v1.x CLOSURE follow-up -- client-side subject/level filtering per
+  // resource-type section. No framework: same inline-script convention
+  // already used for the mobile-menu toggle and cookie-consent banner.
+  document.querySelectorAll<HTMLElement>('[data-resource-filter]').forEach((section) => {
+    const subjectSelect = section.querySelector<HTMLSelectElement>('[data-filter-subject]');
+    const levelSelect = section.querySelector<HTMLSelectElement>('[data-filter-level]');
+    const resetButton = section.querySelector<HTMLButtonElement>('[data-filter-reset]');
+    const emptyMessage = section.querySelector<HTMLElement>('[data-filter-empty]');
+    const groups = section.querySelectorAll<HTMLElement>('[data-subject-group]');
+    if (!subjectSelect && !levelSelect) return;
+
+    function applyFilters() {
+      const subjectValue = subjectSelect?.value ?? '';
+      const levelValue = levelSelect?.value ?? '';
+      let anyVisible = false;
+
+      groups.forEach((group) => {
+        const groupSubject = group.getAttribute('data-subject-group');
+        if (subjectValue && subjectValue !== groupSubject) {
+          group.hidden = true;
+          return;
+        }
+        let groupHasVisible = false;
+        group.querySelectorAll<HTMLElement>('[data-levels]').forEach((card) => {
+          const levels = (card.getAttribute('data-levels') ?? '').split(' ');
+          const show = !levelValue || levels.includes(levelValue);
+          card.hidden = !show;
+          if (show) groupHasVisible = true;
+        });
+        group.hidden = !groupHasVisible;
+        if (groupHasVisible) anyVisible = true;
+      });
+
+      if (emptyMessage) emptyMessage.hidden = anyVisible;
+      if (resetButton) resetButton.hidden = !subjectValue && !levelValue;
+    }
+
+    subjectSelect?.addEventListener('change', applyFilters);
+    levelSelect?.addEventListener('change', applyFilters);
+    resetButton?.addEventListener('click', () => {
+      if (subjectSelect) subjectSelect.value = '';
+      if (levelSelect) levelSelect.value = '';
+      applyFilters();
+    });
+  });
+</script>
