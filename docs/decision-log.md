@@ -1388,3 +1388,47 @@ Status values: `answered` (owner has responded, implemented), `open`
   safeguard, audit:metadata, audit:structured-data, audit:redirects,
   unit tests [13/13], npm audit [0 vulnerabilities], tsc --noEmit,
   wrangler deploy --dry-run).
+
+## D-029 — Phase 9: internal-link graph audit, sitewide
+
+- **Date:** 2026-08-25.
+- **Workstream:** Aug 2026 SEO remediation, Phase 9.
+- **What was built:** `scripts/audit-internal-links.mjs` (new, wired to
+  `npm run audit:internal-links`), which reads the built `dist/` output
+  and checks three things across every one of the 1,122 indexable
+  pages: (1) no broken internal links -- every internal `href` resolves
+  to a real built page or a valid `_redirects` source (a link that
+  targets a redirect *source* rather than its destination is a
+  separate finding, already covered by `audit:redirects` from D-028, so
+  this script doesn't double-report it); (2) no orphan pages -- every
+  sitemap URL except the homepage must have at least one inbound
+  internal link from some other built page; (3) no non-descriptive
+  anchor text ("click here", "read more", "here", "this page", "link",
+  "learn more", "more" used as the full visible link text).
+- **Independent confirmation of the earlier subagent finding:** the
+  Phase 4 subagent (D-027) reported no internal-linking gap for the 3
+  named priority hub pages, reasoning that subject hub pages already
+  auto-list every board/qualification combination via
+  `offeringsForSubject()`. This audit checks the claim exhaustively
+  rather than by spot-check: result is 0 broken links, 0 orphan pages,
+  0 generic-anchor instances across all 1,122 indexable pages and
+  1,122 distinct internal link targets found. The subagent's finding
+  holds sitewide, not just for the 3 pages it looked at directly.
+- **Board-aware cross-linking:** the 4 priority resource pages already
+  got board-appropriate "Related resources" links in D-027 (e.g. the
+  Cambridge O-Level Urdu page links to the Cambridge IGCSE Urdu
+  equivalent and to Edexcel A-Level Urdu, not to an unrelated board's
+  unrelated subject). Extending this pattern sitewide to every resource
+  page is the larger Phase 12 content-cluster effort, not a Phase 9
+  scope item -- Phase 9 was link-graph *health* (broken/orphan/generic-
+  anchor), which is now a permanent, enforced-on-every-build check.
+- **Guardrail check:** no redesign; read-only audit script, no content
+  or template changed this phase; the clean result reflects real
+  measurement, not an assumption -- the full anchor-text and href graph
+  of the built site was parsed, not sampled.
+- **Status:** implemented on `feature/seo-phase9-internal-links`, full
+  validation gate green (astro check, validate:academic, build,
+  cross-board-regression, negative-validation-suite, sitemap-noindex
+  safeguard, audit:metadata, audit:structured-data, audit:redirects,
+  audit:internal-links, unit tests [13/13], npm audit [0
+  vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).

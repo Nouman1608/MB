@@ -18,6 +18,7 @@
     "audit:metadata": "node scripts/audit-metadata.mjs",
     "audit:structured-data": "node scripts/audit-structured-data.mjs",
     "audit:redirects": "node scripts/audit-redirects.mjs",
+    "audit:internal-links": "node scripts/audit-internal-links.mjs",
     "postbuild": "pagefind --site dist --output-subdir pagefind"
   },
   "dependencies": {
