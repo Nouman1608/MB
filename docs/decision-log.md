@@ -1214,3 +1214,28 @@ Status values: `answered` (owner has responded, implemented), `open`
   validate:academic, build, cross-board-regression, negative-validation-
   suite, sitemap-noindex safeguard, unit tests, npm audit, tsc --noEmit,
   wrangler deploy --dry-run).
+
+## D-026 — Phase 8: real Lighthouse/PageSpeed baseline captured
+
+- **Date:** 2026-08-25.
+- **Workstream:** Aug 2026 SEO remediation, Phase 8.
+- **What was done:** Ran a real, on-demand Lighthouse test against
+  production (`https://marlbridge.com/`) via pagespeed.web.dev, through
+  the browser (not the API directly -- the PageSpeed Insights REST
+  endpoint returned empty via the fetch tool, so the interactive site was
+  used instead; this is a legitimate escalation to a JS-rendered page,
+  not a workaround of a content restriction). Confirmed via Cloudflare's
+  own response headers that the deploy from D-025 was live before
+  running the test. Results: Mobile 92/96/100/100 (Performance/
+  Accessibility/Best Practices/SEO), Desktop 98/96/100/100. No CrUX
+  field data exists yet (traffic below the reporting threshold) --
+  reported honestly as lab-only data, not presented as real-user
+  metrics. Full detail in `docs/reports/lighthouse-2026-08-25.md`.
+- **Honest limitation:** No prior Lighthouse baseline exists from before
+  this session's changes, so this is not a true before/after comparison
+  -- it establishes the baseline going forward. The brief asked for real
+  (not invented) measurement; a real single measurement was captured,
+  but claiming a "before" figure would have meant fabricating one, which
+  the guardrails explicitly forbid.
+- **Status:** documentation-only change (`docs/reports/`), no code or
+  content touched, committed directly to `main`.
