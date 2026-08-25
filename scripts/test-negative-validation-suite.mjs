@@ -191,8 +191,11 @@ console.log('  → structurally prevented: content.config.ts\'s `entityType` fie
 console.log('    required with no default, so a missing/invalid value fails Zod parsing at build time.');
 
 console.log('\n[H] Sitemap / noindex / robots consistency');
-console.log('  → verified by direct dist inspection (0 noindex tags, 0 pages missing from sitemap-0.xml,');
-console.log('    robots.txt allows / and points at sitemap-index.xml) -- see the v1.2 final report.');
+console.log('  \u2192 enforced by scripts/test-sitemap-noindex.mjs (Phase 2, Aug 2026 SEO remediation),');
+console.log('    which fails the build if any sitemap URL renders a noindex robots meta tag. As of the');
+console.log('    isIndexableAcademicPage() policy landing, 27 academic hub pages are correctly noindexed');
+console.log('    and correctly absent from the sitemap -- \"0 noindex pages\" is no longer the expected');
+console.log('    state and was never itself the goal; sitemap/robots agreement is.');
 
 console.log(`\n==============================================================================`);
 console.log(`SUMMARY: ${passed} passed, ${failed} failed`);

@@ -56,6 +56,23 @@ spoken or staged is often as significant as what it says -- while the
 novel section rewards tracking how a theme or character develops
 across the whole text, not just in a single extract.
 
+## Assessment at a glance
+
+Paper 1 (Shakespeare and the 19th-century Novel) is a 1 hour 45
+minute closed-book exam worth 64 marks -- 40% of the GCSE. Both
+sections follow the same pattern: write in detail about a set
+extract, then write about the whole text, once for the Shakespeare
+play and once for the novel. Paper 2 (Modern Texts and Poetry) is
+longer and worth more -- 2 hours 15 minutes, 96 marks, 60% of the
+GCSE -- covering a modern prose or drama text, the poetry anthology,
+and two unseen poems.
+
+That 40/60 split is worth factoring into revision time: Paper 2 alone
+is worth half as much again as Paper 1, and adds unseen poetry -- a
+skill that cannot be prepared for with quotation banks the way the
+studied texts can, so timed unseen-poetry practice deserves its own
+place in a revision plan rather than being treated as a late add-on.
+
 ## Official syllabus
 
 AQA GCSE English Literature (8702) specification, for first teaching

@@ -52,6 +52,28 @@ The course aims to enable students to:
 - foster curiosity, creativity and a lifelong enjoyment of language
   learning.
 
+## How it's assessed
+
+Language B is assessed through two written papers and an individually
+assessed oral, with the same weighting applying at both Standard Level
+and Higher Level -- the distinction between the two levels lies in the
+complexity of language expected, not in how the components are
+weighted. Paper 1 (a piece of productive writing responding to a
+choice of tasks) is worth 25% of the final grade. Paper 2, which
+combines a listening comprehension section and a reading comprehension
+section, is worth 50%, split evenly between the two skills. The
+individual oral, worth the remaining 25%, is conducted and recorded by
+the student's own teacher.
+
+At HL, the individual oral is built around an extract from one of the
+two literary works HL students study during the course, requiring them
+to connect the extract to a broader theme; at SL, where the study of
+literary works is not required, the oral is based instead on a
+photograph or short stimulus connected to one of the five prescribed
+themes. This is consistent with the earlier point that HL Language B
+students study two literary works originally written in the target
+language, while SL students are not required to.
+
 ## Source
 
 International Baccalaureate Organization, Language B subject brief

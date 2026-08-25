@@ -46,6 +46,27 @@ The course aims to enable students to:
 - foster a lifelong interest in and enjoyment of language and
   literature.
 
+## How it's assessed
+
+Language A: Language and Literature is assessed through two written
+papers, an individual oral, and -- at Higher Level only -- an
+additional piece of written coursework. At SL, Paper 1 (guided textual
+analysis of unseen texts) is worth 35%, Paper 2 (a comparative essay
+on studied literary texts) is worth 35%, and the individual oral is
+worth 30%. At HL, Paper 1 remains worth 35%, Paper 2 drops to 25%, and
+an HL essay -- a piece of independent written coursework of 1,200 to
+1,500 words on a literary or non-literary body of work studied in
+class -- is worth 20%, with the individual oral worth the remaining
+20%.
+
+The individual oral, common to both levels, is a prepared spoken
+response in which students analyse the connections between a literary
+text and a non-literary text or extract they have studied, exploring
+how a global issue of their choosing is presented across the two.
+Because the HL essay only exists at Higher Level, it is this extra
+piece of independent coursework -- rather than a longer exam -- that
+distinguishes HL assessment from SL.
+
 ## Source
 
 International Baccalaureate Organization, Language A: Language and

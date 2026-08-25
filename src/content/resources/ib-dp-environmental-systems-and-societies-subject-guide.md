@@ -48,6 +48,26 @@ ESS aims to empower and equip students to:
 5. be inspired to engage with environmental issues across local and
    global contexts.
 
+## How it's assessed
+
+Environmental Systems and Societies is assessed through a combination
+of external written examinations and an internally assessed individual
+investigation, with the balance shifting slightly between Standard
+Level and Higher Level. Two written papers make up the external
+assessment -- 75% of the final grade at SL and 80% at HL -- combining
+short-answer, data-based and extended-response questions that draw on
+both the scientific and societal strands of the course.
+
+The internal assessment is worth 25% at SL and 20% at HL. It takes the
+form of an individual investigation, normally built around fieldwork,
+in which students formulate their own research question, collect
+primary data, apply relevant ESS techniques to analyse it, and draw
+evidence-based conclusions in a written report capped at 3,000 words
+and around 10 teaching hours of work. Because ESS is designed to be
+studied as either a sciences or an individuals-and-societies subject,
+this fieldwork-based investigation is deliberately built to draw on
+methods from both disciplines rather than treating them separately.
+
 ## Source
 
 International Baccalaureate Organization, Environmental Systems and

@@ -40,6 +40,38 @@ The course aims to enable students to:
 - explore the connections between individuals, businesses and society
 - engage with decision-making as a process and a skill.
 
+## How it's assessed
+
+Business Management is assessed through a mix of written examinations
+and an internally assessed research task, with the balance of
+components differing between Standard Level and Higher Level. At SL,
+Paper 1 (based on a pre-seen case study issued in advance) is worth
+35%, Paper 2 (structured questions on stimulus material with an
+extended-response question) is worth 35%, and the internal assessment
+-- a written commentary applying course concepts to a real business --
+makes up the remaining 30%. At HL, Paper 1 is worth 25%, Paper 2 is
+worth 30%, a third paper built around a social-enterprise stimulus is
+worth 25%, and the internal assessment falls to 20%.
+
+The HL internal assessment differs in kind, not just weighting:
+rather than the SL written commentary, HL students complete a research
+project, again grounded in a real-world business organization. Both
+the SL and HL internal assessment tasks are marked by the student's
+own teacher and then externally moderated by IB examiners, and both
+require students to apply business tools and theory to a genuine,
+rather than invented, organization.
+
+The pre-seen case study that underpins Paper 1 is released to schools
+in advance of the exam, giving students time to research and analyse
+the organization it describes before sitting the paper itself -- a
+different skill from responding to unfamiliar stimulus material under
+timed conditions, which is what Paper 2 and, at HL, Paper 3 require.
+Across both papers and the internal assessment, students are expected
+to draw on six underpinning concepts that run through the whole
+course -- change, culture, ethics, globalization, innovation and
+strategy -- rather than treating each unit of the syllabus in
+isolation.
+
 ## Source
 
 International Baccalaureate Organization, Business Management subject

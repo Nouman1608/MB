@@ -51,6 +51,23 @@ The course encourages and enables students to:
 - act with integrity and honesty, and take responsibility for their
   own actions.
 
+## How it's assessed
+
+MYP Design is assessed against four equally weighted criteria, each scored
+on an eight-point scale (1-8), rather than through an SL/HL exam model:
+Criterion A, Inquiring and analysing (identifying a design problem and
+researching it); Criterion B, Developing ideas (writing a design
+specification and generating a solution); Criterion C, Creating the
+solution (planning and making a prototype); and Criterion D, Evaluating
+(testing the solution and reflecting on how it could be improved).
+
+Where schools opt into MYP eAssessment for an IB-validated result, Design
+is assessed by ePortfolio rather than an on-screen exam -- students submit
+a complete design folder containing their design brief, specification,
+development work and evaluation, which is marked by their own teacher
+against published year-5 criteria and then externally moderated by the IB
+on a sampled basis.
+
 ## Source
 
 International Baccalaureate Organization, Design subject brief (Middle

@@ -19,7 +19,11 @@ specification for them.
 
 ## Two components
 
-AQA organises GCSE History subject content into two components:
+Paper 1 (Understanding the Modern World) and Paper 2 (Shaping the
+Nation) carry equal weight, and each splits into two equally weighted
+sections, A and B -- so no single component or section dominates
+revision time by default. AQA organises GCSE History subject content
+into two components:
 
 - **Understanding the Modern World** — study of the wider world and how
 change happens over time.

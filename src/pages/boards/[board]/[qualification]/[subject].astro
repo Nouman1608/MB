@@ -23,11 +23,12 @@ import ArticleCard from '../../../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../../../components/layout/RelatedGrid.astro';
 import EmptyState from '../../../../components/ui/EmptyState.astro';
 import CTA from '../../../../components/ui/CTA.astro';
-import { activeOnly, offeringsForSubject, academicHubPath, boardPath, levelPath, type Combination } from '../../../../utils/academic';
+import { activeOnly, offeringsForSubject, academicHubPath, boardPath, levelPath, LEVEL_FOR_QUALIFICATION, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
 import { topicsFor, hasStages } from '../../../../data/academic/syllabus-topics';
 import { getResources } from '../../../../utils/content/collections';
+import { isIndexableAcademicPage } from '../../../../utils/seo/indexability';
 import { relatedArticles } from '../../../../utils/content/related';
 import { courseNode } from '../../../../utils/schema/course';
 import { enrolmentOpenFor } from '../../../../utils/content/status';
@@ -44,11 +45,8 @@ const { combination: c } = Astro.props as { combination: Combination };
 const path = academicHubPath(c);
 const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
 
-/** Marlbridge resource `level` values differ from qualification slugs. */
-const LEVEL_FOR_QUALIFICATION: Record<string, string> = {
-  'igcse': 'igcse', 'o-level': 'o-levels', 'a-level': 'a-levels', 'gcse': 'gcse',
-  'ib-dp': 'ib', 'ib-myp': 'ib',
-};
+// LEVEL_FOR_QUALIFICATION now lives in utils/academic (shared with
+// astro.config.mjs's sitemap indexability step -- see that file).
 const levelKey = LEVEL_FOR_QUALIFICATION[c.qualificationSlug];
 
 // The matrix's subjectSlug and the subjects content collection's id can
@@ -116,25 +114,39 @@ const heading = `${c.board} ${c.qualification} ${c.subject}`;
 const title = syllabus ? `${heading} (${syllabus.code})` : heading;
 
 /**
- * Thin-page guard (Aug 2026 audit).
+ * Indexability (Aug 2026 SEO remediation — Phase 1/2).
  *
  * activeOnly() legitimately produces a page for every ACTIVE combination in
  * the academic matrix, but a combination can be approved long before any
- * syllabus topics have been transcribed or any resource written. Those pages
- * render nothing but honest empty states — genuinely useful to a human who
- * lands on one, genuinely worthless as a search result, and numerous enough
- * (see below) to drag the whole site's quality signals down if indexed.
+ * syllabus topics have been transcribed or any substantial resource
+ * written. Those pages render nothing but honest empty states — or, worse,
+ * a single thin stub — genuinely useful to a human who lands on one,
+ * genuinely worthless as a search result.
  *
- * So: keep serving the page, keep it in the internal link graph, but ask
- * search engines not to index it until it has either real syllabus topics or
- * at least one resource. `noindex, follow` (see components/seo/Meta.astro)
- * preserves link equity flow to the pages that do have content.
+ * The decision itself lives in one place, src/utils/seo/indexability.ts
+ * (isIndexableAcademicPage), so the exact same rule also governs sitemap
+ * inclusion (astro.config.mjs) instead of the two drifting independently.
+ * A single 100-word resource used to be enough to mark a page indexable;
+ * it no longer is — see that file for the substantial-content threshold
+ * and why 400 words was chosen.
+ *
+ * `noindex, follow` (see components/seo/Meta.astro) still keeps the page
+ * served and in the internal link graph, preserving link equity flow to
+ * the pages that do have content — this only withholds it from search
+ * results until it earns a place there.
  *
  * This is deliberately NOT based on `marlbridgeTeaches` — whether we teach a
  * combination is a separate fact from whether this page has anything on it.
  */
 const hasSyllabusTopics = (syllabusTopics?.topics ?? []).length > 0;
-const isThin = resources.length === 0 && !hasSyllabusTopics;
+const indexability = isIndexableAcademicPage({
+  resources: resources.map((r) => ({
+    resourceType: r.data.resourceType,
+    wordCount: r.body?.trim().split(/\s+/).filter(Boolean).length ?? 0,
+  })),
+  hasSyllabusTopics,
+});
+const isThin = !indexability.indexable;
 
 const jsonLd = [courseNode({
   path,

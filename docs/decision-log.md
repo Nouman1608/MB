@@ -965,3 +965,175 @@ Status values: `answered` (owner has responded, implemented), `open`
   would need to change.
 - **Status:** implemented on `feature/header-free-trial-button`; not yet
   merged to `main`.
+
+## D-023 — Canonical academic-page indexability policy (isIndexableAcademicPage)
+
+- **Date:** 2026-08-25.
+- **Workstream:** Aug 2026 technical-SEO remediation brief (external, user-
+  supplied) -- Phase 1 (canonical indexability policy) + Phase 2 (sitemap/
+  robots alignment). First of ~12 phases in that brief; the rest remain
+  pending (see Task list #61-70).
+- **Baseline evidence gathered before any change (see full session for
+  detail):** `npm run validate:academic` reports 160 ACTIVE combinations
+  (not the 139 stated in the brief -- that number is stale, predating
+  substantial resource-content work in earlier sessions).
+  `coverage:academic-v2` reports 160/160 combinations with at least one
+  resource -- i.e. zero true zero-resource combinations currently exist,
+  contradicting the brief's "117 zero-resource combinations" claim.
+  However, the underlying architectural problem the brief describes is
+  real: the existing `isThin` guard in the page template
+  (`resources.length === 0 && !hasSyllabusTopics`) treated ANY resource
+  count >= 1 as sufficient for indexing, with no quality/substance bar.
+  39 of 160 ACTIVE combinations have exactly one resource, and the IB
+  subject-guide overviews written in an earlier session (Task #24) are
+  ~200-300 words each -- exactly the kind of thin single-resource page
+  the old guard let through. Only 1 page (404.html) rendered noindex on
+  the pre-change production build.
+- **Final decision:** Replaced the ad-hoc `isThin` boolean with a single
+  canonical, reusable decision function, `isIndexableAcademicPage()` in
+  `src/utils/seo/indexability.ts`. It sums word counts across a
+  combination's *original Marlbridge-authored* resources only
+  (study-guides, revision-notes, subject-guides, practice-questions,
+  exam-preparation -- explicitly excluding past-papers, since those are
+  official third-party material, not original writing) and requires >=400
+  total words to count as indexable. The 400-word figure is not new --
+  it's the same "expansion queue" threshold already used by
+  `scripts/academic-coverage-report-v2.mjs`, reused here so "indexable"
+  and "not flagged for expansion" describe the same quality bar sitewide.
+  A combination with real syllabus topics but no substantial resource is
+  still NOT indexable -- syllabus-topics-alone was exactly the old
+  loophole.
+- **Why one function, two callers:** astro:content (needed to read
+  resource bodies) isn't available inside `astro.config.mjs` -- Astro's
+  config file runs before the content layer exists. So
+  `isIndexableAcademicPage()` itself is framework-free (plain input/output,
+  no astro:content import), and each caller adapts its own data source to
+  the same shape: the page template
+  (`src/pages/boards/[board]/[qualification]/[subject].astro`) via
+  `getResources()`, and a new `buildIndexabilityExclusions()` in
+  `astro.config.mjs` via direct frontmatter reads off disk (same pattern
+  already used there by `buildLastmodMap()`). Both compute the exact same
+  decision from equivalent inputs, so sitemap inclusion and the page's own
+  robots meta cannot drift apart. `LEVEL_FOR_QUALIFICATION` (previously a
+  private constant inside the page template) was promoted to a shared
+  export in `src/utils/academic/index.ts` for the same reason -- both
+  callers need the qualification-slug -> resource-level mapping, and a
+  second private copy in `astro.config.mjs` would have been exactly the
+  kind of drift this change exists to prevent.
+- **Sitemap change:** `astro.config.mjs`'s `sitemap()` filter now excludes
+  any academic hub path `isIndexableAcademicPage()` marks non-indexable,
+  in addition to the pre-existing `/styleguide` exclusion.
+- **New automated safeguard:** `scripts/test-sitemap-noindex.mjs` --
+  reads the *built* `dist/sitemap-*.xml` and, for every URL listed, reads
+  the corresponding `dist/**/index.html` and fails if it renders a
+  `noindex` robots meta tag. This does not re-derive or duplicate the
+  indexability rule; it cross-checks two independently-generated build
+  outputs (the sitemap filter and each page's own render) for agreement,
+  which also catches future drift even if a later change touches only one
+  side. Verified the test actually catches regressions: temporarily
+  disabled the sitemap exclusion, rebuilt, confirmed the test correctly
+  failed and named all 27 affected URLs, then restored and reconfirmed a
+  clean pass. `scripts/test-negative-validation-suite.mjs`'s section [H]
+  (previously a stale comment claiming "0 noindex tags" as the expected
+  state) was corrected to point at this real test and explain that 27
+  noindexed pages is the new, correct state.
+- **Measured effect on the current build:** 27 academic hub pages moved
+  from indexed to `noindex, follow` (still served, still linked, just
+  withheld from search results): 5 English Literature hubs (aqa a-level +
+  gcse, edexcel a-level + igcse, oxfordaqa a-level + igcse -- 6 total),
+  2 more (aqa as-level Business, aqa gcse World History), and 19 of the 20
+  IB hubs (ib-dp and ib-myp), whose subject-guide resources are ~200-300
+  words each and have not yet been expanded. Total built page count
+  unchanged (1122); sitemap URL count dropped from (previously
+  unmeasured/unfiltered) to 1094, exactly matching 1122 minus the 27
+  newly-noindexed pages minus 404.html (which the sitemap integration
+  already excluded by default) -- confirms sitemap and robots meta are
+  now in exact agreement.
+- **Guardrail check:** does not delete or restructure any board,
+  qualification or subject; does not touch `marlbridgeTeaches`; does not
+  invent content; a noindexed page still renders and is still linked
+  internally (`noindex, follow`), so link equity still flows and a human
+  who lands on one still gets an honest page.
+- **Follow-up required:** The 19 newly-noindexed IB hubs are a direct,
+  visible cost of this change and the clearest concrete target for future
+  content work -- expanding those subject-guide resources past 400 words
+  (or adding a second qualifying resource) is the fastest way to earn
+  those pages back into the index under the new, honest bar. Left for a
+  future phase/session rather than done reflexively here, since writing
+  substantial original IB content for 19 subjects properly belongs to the
+  brief's later content-cluster phases (#70), not this policy-mechanics
+  phase.
+- **Status:** implemented on `feature/seo-indexability-policy`; full
+  validation gate green (astro check, validate:academic, build, cross-
+  board-regression, negative-validation-suite, unit tests, npm audit, tsc
+  --noEmit, wrangler deploy --dry-run); not yet merged to `main`.
+
+## D-024 — 27 pages expanded past the indexability bar instead of staying noindexed
+
+- **Date:** 2026-08-25.
+- **Workstream:** Follow-up to D-023, same feature branch. User reviewed
+  the 27-page noindex impact from D-023, asked why noindexing was
+  necessary rather than adding content, and -- after being told 7 pages
+  needed only small, already-verifiable additions while 19 IB pages
+  needed real per-subject research -- chose to do all 27 now rather than
+  defer the IB ones.
+- **Real bug found and fixed along the way:** `LEVEL_FOR_QUALIFICATION`
+  (utils/academic/index.ts) had no entry for `as-level` qualifications.
+  AQA AS Business (the matrix's only `as-level` row) could therefore
+  never match a resource by `level`, regardless of content -- a
+  structural gap independent of word count. Added `'as-level':
+  'a-levels'`, matching how AS-stage content is already tagged elsewhere
+  (`level: ["a-levels"]` + `stage: "AS"`, e.g. the existing 9701 pattern).
+  This single fix retroactively surfaced 3 pre-existing, substantial
+  resources (2,433 words combined) that were already written and tagged
+  correctly but structurally invisible on this page.
+- **Content added:**
+  - New file `src/content/resources/aqa-as-level-business-course-structure.md`
+    (subject-guides, 503 words) -- written directly from already-verified
+    syllabus/topics data already in `syllabuses.ts`/`syllabus-topics.ts`
+    (verifiedOn 2026-08-19), plus one fact (Paper 1/Paper 2 marks,
+    weighting, AOs) confirmed via aqa.org.uk's scheme-of-assessment page
+    this session.
+  - 7 existing study-guide/subject-guide files (6 English Literature
+    across AQA/Edexcel/OxfordAQA + AQA GCSE History) each got a new,
+    factual "Assessment at a glance" section -- exam duration, marks,
+    weighting, and question structure -- verified against the official
+    board specification page already cited at the bottom of each file
+    (aqa.org.uk, qualifications.pearson.com, oxfordaqa.com). Two of the
+    seven also honestly noted a genuine spec refresh (AQA 7717 for 2027,
+    OxfordAQA 9675/9275 revisions) without inventing any future content.
+  - 19 IB subject-guide files (14 DP, 5 MYP) each got a new "How it's
+    assessed" section, researched against ibo.org subject briefs
+    (cross-checked against secondary sources where the primary brief was
+    thin), covering SL/HL paper structure and IA weighting for DP
+    subjects, and MYP's actual criterion-based model (four criteria per
+    subject group, 1-8 scale) for MYP subjects -- explicitly not
+    described using DP terminology, since the two programmes' assessment
+    models are structurally different.
+  - Caught and fixed one internal inconsistency during review: the IB
+    History file's original intro (2020 brief) named "six key concepts",
+    while the new assessment section (current 2028-examined syllabus)
+    named "four specified historical concepts" -- same underlying ideas,
+    consolidated differently across syllabus versions. Added one bridging
+    sentence explaining this rather than leaving an unreconciled
+    contradiction on the page.
+  - Where a source didn't give a confirmable number (e.g. one Computer
+    Science paper weighting, one ESS paper split), the relevant section
+    describes the component without a fabricated percentage, per the
+    guardrail against inventing facts.
+- **Effect:** All 27 pages now clear the 400-word substantial-content
+  bar under `isIndexableAcademicPage()` (D-023) purely on content
+  volume/quality -- no threshold or logic change. Rebuilt: 1,123 pages
+  (+1 for the new AS Business resource), sitemap 1,122 URLs, exactly
+  1,123 minus 404.html -- the only page still noindexed. Full validation
+  gate green (astro check, validate:academic, build, cross-board-
+  regression, negative-validation-suite, sitemap-noindex safeguard, unit
+  tests, npm audit, tsc --noEmit, wrangler deploy --dry-run).
+- **Guardrail check:** no content states future syllabus years/reforms
+  beyond what a source explicitly confirmed; no fabricated marks or
+  weightings; MYP and DP are not conflated; no new duplicate/near-
+  duplicate resource files were created (all 26 of the 27 were expansions
+  of existing files in place); the one new file (AS Business) fills a
+  genuine gap rather than duplicating existing content.
+- **Status:** implemented on `feature/seo-indexability-policy`, same
+  branch as D-023; not yet merged to `main`.
