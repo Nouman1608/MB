@@ -8,7 +8,13 @@ import { primaryNav } from '../../data/navigation';
     ))}
     <div class="mt-7 flex flex-col gap-3">
       <a href="/programs/" class="rounded-sm bg-ivory py-4 text-center text-[15px] font-medium text-navy-800">Explore Programs</a>
-      <a href="/contact/" class="rounded-sm border border-navy-rule py-4 text-center text-[15px] font-medium text-ivory">Contact</a>
+      {/* v1.x CLOSURE follow-up -- relabelled/restyled from the plain
+          "Contact" ghost button to match the new gold "Free Trial Class"
+          header CTA (same /contact/ destination -- "Contact" is not in
+          primaryNav, so this was the only mobile-menu link to that page;
+          relabelling it keeps that reachable rather than adding a third,
+          duplicate-destination button). */}
+      <a href="/contact/" class="rounded-sm bg-gold-500 py-4 text-center text-[15px] font-semibold text-navy-800">Free Trial Class</a>
     </div>
   </nav>
 </div>

@@ -20,6 +20,15 @@ import MobileMenu from './MobileMenu.astro';
 
     <div class="flex shrink-0 items-center gap-3.5">
       <a href="/programs/" class="hidden rounded-sm bg-ivory px-5 py-3 text-sm font-medium text-navy-800 hover:bg-white lg:inline-flex">Explore Programs</a>
+      {/* v1.x CLOSURE follow-up -- second header CTA, requested to match
+          the trial-class button on learnersacademy.com.pk. Colour and
+          shape follow Marlbridge's own conventions rather than copying
+          that site's rounded-pill/navy treatment: rounded-sm (matching
+          every other button on this site) in the gold accent colour
+          (--color-gold-500), which reads as the "highlighted" action
+          against the navy header without competing visually with the
+          existing ivory "Explore Programs" button. */}
+      <a href="/contact/" class="hidden rounded-sm bg-gold-500 px-5 py-3 text-sm font-semibold text-navy-800 hover:bg-gold-600 lg:inline-flex">Free Trial Class</a>
       <button
         type="button"
         id="menu-toggle"
