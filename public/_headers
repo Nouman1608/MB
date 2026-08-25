@@ -23,3 +23,12 @@
 
 /llms.txt
   Cache-Control: public, max-age=3600
+
+# Font binaries in /fonts/* are not content-hashed, but in practice never
+# change without a deliberate font-family swap (unlike /images/*, which
+# can be replaced more casually) -- these are the same handful of woff2
+# files referenced by every page's @font-face rules. A long, non-immutable
+# cache window meaningfully cuts repeat-visit font requests while still
+# expiring within a reasonable window if a font is ever swapped.
+/fonts/*
+  Cache-Control: public, max-age=2592000
