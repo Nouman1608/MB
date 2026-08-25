@@ -1432,3 +1432,47 @@ Status values: `answered` (owner has responded, implemented), `open`
   safeguard, audit:metadata, audit:structured-data, audit:redirects,
   audit:internal-links, unit tests [13/13], npm audit [0
   vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).
+
+## D-030 — Phase 11: all 14 automated safeguard tests wired and green
+
+- **Date:** 2026-08-25.
+- **Workstream:** Aug 2026 SEO remediation, Phase 11.
+- **What was done:** mapped every one of the 14 required checks from
+  Section 15 of the brief to a real, runnable script and ran the full
+  set against the built site. 10 of the 14 were already enforced by
+  scripts from earlier phases (Phase 2's `test-sitemap-noindex.mjs`;
+  Phase 6's `audit-redirects.mjs`; Phase 9's `audit-internal-links.mjs`;
+  Phase 10's `audit-structured-data.mjs`; the pre-existing
+  `validate:academic` chain for board-aware filtering and syllabus-topic
+  mappings). Two genuine gaps were closed this phase:
+  - `scripts/audit-content-integrity.mjs` (new, `npm run
+    audit:content-integrity`) -- covers items 4/5/6: no indexable
+    zero-resource hub page (cross-checks the sitemap against the
+    literal "no original Marlbridge resource yet" fallback phrase in
+    each hub page's own rendered meta description); no metadata claim
+    of N resources when the page body actually links to zero; no
+    self-canonical that is itself a redirect source. Checked all 160
+    academic hub pages, 0 problems.
+  - `scripts/audit-fonts.mjs` (new, `npm run audit:fonts`) -- covers
+    item 13: hashes every file in `public/fonts/` and fails if two
+    files declaring DIFFERENT weights are byte-identical, which is
+    exactly the bug found and hand-fixed in D-025 (a Google Fonts CSS2
+    API quirk silently returned the 400-weight binary for a 500-weight
+    request). That fix was never previously backed by a regression
+    test; it is now. Checked 14 font files, 14 distinct binaries, 0
+    problems.
+  - Both new scripts wired into `package.json`, plus a new `npm run
+    audit:all` convenience script chaining all six `audit:*` checks and
+    the sitemap-noindex safeguard in one command.
+  - Full mapping table (all 14 items, which script enforces each, and
+    the clean result) written to
+    `docs/reports/phase11-safeguard-tests.md`.
+- **Guardrail check:** no redesign; two new read-only audit scripts, no
+  content or template changed this phase; every "PASS" in the mapping
+  table reflects a real script execution against the real built output
+  this session, not an assumption of correctness.
+- **Status:** implemented on `feature/seo-phase11-safeguard-tests`, full
+  validation gate green (astro check, validate:academic, build,
+  cross-board-regression, negative-validation-suite, `npm run
+  audit:all` [all 6 checks + sitemap-noindex], unit tests [13/13], npm
+  audit [0 vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).
