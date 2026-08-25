@@ -74,3 +74,17 @@ well-chosen evidence from the text itself.
 Cambridge International A Level English Literature 9695 syllabus for
 2024, 2025 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/636097-2024-2026-syllabus.pdf).
+
+## Related resources
+
+- [Paper 1: Drama and Poetry — Practice
+  Questions](/resources/a-level-english-literature-paper-1-drama-and-poetry-practice/) —
+  original exam-style questions on the paper's structure, plus
+  passage-based commentary practice using original drama and poetry
+  extracts
+- [Paper 1: Drama and Poetry — Revision
+  Notes](/resources/a-level-english-literature-paper-1-drama-and-poetry-revision-notes/) —
+  condensed recall notes covering the same content
+- [English Literature subject hub](/subjects/english-literature/) —
+  all Marlbridge English Literature resources across IGCSE, GCSE and A
+  Level

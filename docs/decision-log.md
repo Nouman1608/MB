@@ -1476,3 +1476,80 @@ Status values: `answered` (owner has responded, implemented), `open`
   cross-board-regression, negative-validation-suite, `npm run
   audit:all` [all 6 checks + sitemap-noindex], unit tests [13/13], npm
   audit [0 vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).
+
+## D-031 — Phase 12: resource clusters for Urdu, Islamiyat, English Literature, Computer Science, Economics, Accounting
+
+- **Date:** 2026-08-25/26.
+- **Workstream:** Aug 2026 SEO remediation, Phase 12.
+- **Scope decision:** the coverage report (`npm run coverage:academic`)
+  showed real, uncovered topic gaps in every one of the 6 priority
+  subjects across every board/qualification -- full coverage would have
+  meant many dozens of new syllabus-verified resource files. Asked the
+  user how to scope this; chosen approach was one complete, well-
+  verified cluster (study guide + revision notes + practice questions,
+  cross-linked) per subject, targeting the single highest-value real
+  gap in each -- matching the brief's literal wording and keeping the
+  batch of new content bounded and fully verifiable in one session.
+- **Gap identification method:** rather than trust filename-pattern
+  matching (which produced two false positives -- see below), wrote a
+  one-off Python script grouping every resource by its
+  `(boards, qualifications, syllabusTopics)` triple and flagging any
+  study-guide group with no matching revision-notes/practice-questions
+  in the SAME group. This caught two real false leads before any agent
+  wasted effort on them: `a-level-oxfordaqa-computer-science-procedural-
+  programming.md` already had a matching cluster under the differently-
+  named `a-computer-science-procedural-revision-notes.md` /
+  `-practice.md`; `a-level-oxfordaqa-accounting-role-of-the-accountant.md`
+  already had one under `a-accounting-role-revision-notes.md` /
+  `-practice.md`. Both were confirmed via frontmatter (`boards`,
+  `syllabusCodes`, `syllabusTopics`), not guessed. Result: Computer
+  Science and Accounting already had a complete cluster before this
+  phase started -- no new content was needed for either, and none was
+  fabricated to hit an artificial "6 clusters" quota. Only "Related
+  resources" cross-links were added to those two guides, completing the
+  triad's explicit interlinking without duplicating content.
+- **4 real gaps found and filled**, each verified against the relevant
+  official board syllabus (via WebSearch/web_fetch for 3, and directly
+  from the existing guide's own already-cited, already-verified 2026
+  syllabus PDF for the 4th):
+  - **Urdu** -- Cambridge O-Level 3247/3248, Paper 1 Reading and
+    Writing: `o-level-cambridge-urdu-first-and-second-language-
+    revision-notes.md` and `-practice.md` (new).
+  - **Islamiyat** -- Cambridge O-Level 2058, Paper 1:
+    `o-level-islamiyat-paper-1-revision-notes.md` and `-practice.md`
+    (new).
+  - **English Literature** -- Cambridge A-Level 9695, Paper 1 Drama and
+    Poetry: `a-level-english-literature-paper-1-drama-and-poetry-
+    revision-notes.md` and `-practice.md` (new). English Literature had
+    ZERO complete clusters anywhere in the repo before this phase,
+    across every board -- the largest real gap of the 6 subjects, and
+    directly relevant since Cambridge A-Level English Literature was
+    one of the 8 named GSC priority pages from Phase 4. Practice
+    questions use original, Marlbridge-written extracts rather than any
+    named current set text, since the current examination series' set
+    texts could not be independently confirmed this session -- avoiding
+    the fabrication risk explicitly guarded against in this project's
+    standing rules.
+  - **Economics** -- Cambridge O-Level 2281, Topic 2 The Allocation of
+    Resources: `o-level-economics-the-allocation-of-resources-revision-
+    notes.md` and `-practice.md` (new, written directly from the
+    existing guide's content, which was itself verified against the
+    official 697295-2026-syllabus.pdf on 2026-08-24 -- no new external
+    research needed since the guide already carried full section-by-
+    section coverage of 2.1 through 2.11).
+- **Cross-linking:** all 6 guide files (2 pre-existing complete + 4
+  newly-completed) now carry a "Related resources" section pointing to
+  their revision-notes and practice-questions siblings, and each new
+  revision-notes/practice-questions file links back to its guide and to
+  its sibling.
+- **Guardrail check:** no redesign; no fabricated syllabus facts, mark
+  schemes, or set texts; no duplicate content created (2 planned
+  clusters turned out to already exist and were left alone rather than
+  padded); every practice-questions file opens with the sitewide
+  original-content disclaimer.
+- **Status:** implemented on `feature/seo-phase12-resource-clusters`,
+  full validation gate green on the combined 1,130-page build (astro
+  check, validate:academic, build, cross-board-regression, negative-
+  validation-suite, `npm run audit:all` [all 6 audits + sitemap-
+  noindex safeguard], unit tests [13/13], npm audit [0 vulnerabilities],
+  tsc --noEmit, wrangler deploy --dry-run).

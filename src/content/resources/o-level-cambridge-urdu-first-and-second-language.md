@@ -147,6 +147,12 @@ Copying from the passage where own words are required. Writing at length for low
 
 ## Related resources
 
+- [Paper 1: Revision Notes](/resources/o-level-cambridge-urdu-first-and-second-language-revision-notes/) —
+  condensed recall notes on the 3247 and 3248 Paper 1 formats, marking
+  and technique
+- [Paper 1: Practice Questions](/resources/o-level-cambridge-urdu-first-and-second-language-practice/) —
+  original exam-style practice in both the 3247 and 3248 formats, with
+  full worked answers
 - [Cambridge IGCSE Urdu: Paper 1 Reading and Writing
   (0539)](/resources/igcse-cambridge-urdu-paper-1-reading-writing/) —
   the same Paper 1 skill set at the level below, for candidates
