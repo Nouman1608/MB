@@ -921,3 +921,47 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Follow-up required:** None expected.
 - **Status:** implemented on `feature/resources-subject-level-filter`;
   not yet merged to `main`.
+
+## D-022 — "Free Trial Class" header CTA added
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user request: a header button
+  matching the "Free Trial Class" button on learnersacademy.com.pk).
+- **Options presented to the user, and answers:** (1) replace the
+  existing "Explore Programs" header CTA, or add a second button
+  alongside it -- user chose add. (2) link target: no dedicated trial-
+  booking page exists (the trial offer and the enquiry form live together
+  on `/tutoring/`) -- user chose `/contact/` over the `/tutoring/`
+  enquiry-form anchor.
+- **Final decision:** Added a second header CTA, "Free Trial Class" ->
+  `/contact/`, next to the existing "Explore Programs" -> `/programs/`.
+  Colour and shape deliberately do NOT copy learnersacademy.com.pk's
+  rounded-pill navy button -- this site's button system is `rounded-sm`
+  everywhere (never fully rounded), so the new button keeps that shape.
+  For colour, used the site's existing gold accent
+  (`--color-gold-500` / `--color-gold-600` on hover) with navy-800 text,
+  since gold is Marlbridge's own "highlighted action" colour already used
+  for hover states and eyebrow labels site-wide, giving the new button a
+  distinct, standout treatment against the navy header without competing
+  with the existing ivory "Explore Programs" button or introducing any
+  colour not already in the palette. Verified contrast visually in the
+  browser (gold-500 on navy-800 header background, navy-800 text on
+  gold-500 button face) before shipping.
+- **Implementation consequence:** `src/components/navigation/Header.astro`
+  -- new `<a>` added next to "Explore Programs", desktop-only
+  (`lg:inline-flex`), matching that button's visibility pattern.
+  `src/components/navigation/MobileMenu.astro` -- the existing "Contact"
+  button (already linking to `/contact/`; "Contact" is not in
+  `primaryNav`, so this was the only mobile-menu path to that page) was
+  relabelled to "Free Trial Class" and restyled to match, rather than
+  adding a third button that would duplicate the same destination.
+  Verified in the built output on multiple page types (homepage,
+  /subjects/, /pricing/, /contact/, since Header/MobileMenu are shared
+  layout components) that both the desktop button and the mobile-menu
+  button render with the correct classes and href.
+- **Follow-up required:** None expected. If the business later wants a
+  dedicated trial-booking landing page (distinct from the general
+  `/contact/` enquiry form), this button's href is the only place that
+  would need to change.
+- **Status:** implemented on `feature/header-free-trial-button`; not yet
+  merged to `main`.
