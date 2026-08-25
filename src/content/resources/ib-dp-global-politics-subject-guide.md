@@ -47,6 +47,28 @@ The course aims to enable students to:
 - develop a lifelong commitment to active global citizenship through
   collaboration and agency.
 
+## How it's assessed
+
+Global Politics is assessed through written examinations plus an
+internally assessed engagement activity, with Higher Level students
+sitting an additional paper that Standard Level students do not. At
+SL, Paper 1 (four structured questions drawing on the four core units
+of the syllabus) is worth 30%, Paper 2 (extended-response questions on
+the core units) is worth 45%, and the engagement activity is worth
+25%. At HL, Paper 1 is worth 20%, Paper 2 is worth 40%, a third paper
+examining two contemporary global political challenges through case
+studies is worth 20%, and the engagement activity is worth 20%.
+
+The engagement activity is common to both SL and HL: students
+investigate a political issue of genuine interest to them through
+direct engagement -- rather than through desk research alone -- and
+then complement that experiential learning with theoretical
+perspectives drawn from research, submitting a written report of
+their investigation. The four core units common to every DP Global
+Politics student, regardless of level, are power, sovereignty and
+international relations; human rights; development; and peace and
+conflict.
+
 ## Source
 
 International Baccalaureate Organization, Global Politics subject

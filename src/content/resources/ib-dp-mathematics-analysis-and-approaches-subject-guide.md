@@ -57,6 +57,24 @@ enable students to:
   international and historical perspectives
 - reflect critically upon their own work and the work of others.
 
+## How it's assessed
+
+Mathematics: Analysis and Approaches is assessed through written papers plus
+an internally assessed exploration, with different weightings and paper
+counts at SL and HL. At SL, Paper 1 (1.5 hours, no calculator or other
+technology permitted) and Paper 2 (1.5 hours, technology allowed) are each
+worth 40% of the final grade. At HL, both papers run for 2 hours and are
+each worth 30%, and HL students additionally sit Paper 3 (1 hour, technology
+allowed: two extended-response problem-solving questions), worth 20%. The
+distinguishing feature of Analysis and Approaches, compared with
+Applications and Interpretation, is that Paper 1 is sat without a
+calculator or other technology, directly testing algebraic manipulation and
+proof.
+
+In both SL and HL, the internally assessed mathematical exploration is
+worth the remaining 20% of the final grade: a written piece of independent
+mathematical investigation into a topic of the student's choosing.
+
 ## Source
 
 International Baccalaureate Organization, Mathematics: Analysis and

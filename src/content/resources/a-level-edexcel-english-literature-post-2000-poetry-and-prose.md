@@ -58,6 +58,25 @@ plot summary. Because set texts rotate by series, confirm the current
 prescribed texts for your own examination series before beginning
 detailed revision.
 
+## Assessment at a glance
+
+Unit 1 (WET01/01) is a 2-hour, open-book written exam worth 50 marks
+-- 50% of the International Advanced Subsidiary and 25% of the full
+International Advanced Level (YET01). It splits into two 25-mark
+sections: Section A requires one comparative essay, from a choice of
+two questions, linking a named poem from the prescribed Poems of the
+Decade anthology with a second poem of the candidate's own choosing
+from the same list, marked against AO1, AO2 and AO4; Section B
+requires one essay, from a choice of two, on the candidate's chosen
+post-2000 prose fiction text, marked against AO1, AO2 and AO3.
+
+Unit 1 sits alongside Unit 2 (Drama, also a 2-hour, 50-mark, open-book
+exam worth 25% of the IAL) to form the International Advanced
+Subsidiary, with Units 3 and 4 completing the full International
+Advanced Level. Pearson's YET01 specification is currently Issue 7,
+first taught from September 2015, and this remains the version in
+force for current examination series.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Level English Literature

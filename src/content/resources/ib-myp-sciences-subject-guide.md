@@ -51,6 +51,25 @@ The MYP sciences group aims to encourage and enable students to:
 - develop sensitivity towards the living and non-living environments
 - reflect on learning experiences and make informed choices.
 
+## How it's assessed
+
+MYP Sciences is assessed against four equally weighted criteria, each
+scored on an eight-point scale (1-8), regardless of whether a school
+teaches discrete biology, chemistry and physics or an integrated science
+course: Criterion A, Knowing and understanding; Criterion B, Inquiring and
+designing; Criterion C, Processing and evaluating; and Criterion D,
+Reflecting on the impacts of science.
+
+Schools that opt into MYP eAssessment for an IB-validated result can sit
+an on-screen exam in biology, chemistry, physics or integrated sciences,
+built from three tasks: a knowing-and-understanding task (criterion A, 25
+marks); an investigation-skills task covering inquiry, design, data
+collection and evaluation (criteria B and C, 50 marks); and an
+applying-science task requiring students to reflect on real-life
+implications (criterion D, 25 marks). As with other MYP subjects, most
+schools assess primarily through classroom-based, criterion-referenced
+coursework rather than this optional external exam.
+
 ## Source
 
 International Baccalaureate Organization, Sciences subject brief

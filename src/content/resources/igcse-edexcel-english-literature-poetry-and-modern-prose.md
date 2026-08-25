@@ -55,6 +55,27 @@ material than focusing only on a single memorable scene. Since set
 texts rotate by series, always check which poems and prose text apply
 to your own examination series before beginning detailed revision.
 
+## Assessment at a glance
+
+Component 1 (4ET1/01) is a 2-hour written exam worth 90 marks -- 60%
+of the total International GCSE -- and is closed book throughout. It
+has three sections: Section A is a 20-mark essay exploring meaning
+and effects in an unseen poem printed in the question paper (AO2);
+Section B is a 30-mark essay comparing two poems from the prescribed
+anthology (AO2, AO3); Section C is a 40-mark essay on the candidate's
+chosen modern prose text, testing close textual knowledge and
+understanding of context (AO1, AO4).
+
+Pearson has recently refreshed the modern prose set-text list for
+this component -- Klara and the Sun and Western Lane were added for
+first teaching 2024, with first assessment in May 2026 -- while the
+three-section, 90-mark structure of Component 1 described above is
+unchanged. Component 1 combines with Component 2 (Modern Drama and
+Literary Heritage Texts, a 1 hour 30 minute closed-book exam worth 60
+marks and 40% of the qualification) for candidates on the examined
+route, or with Component 3 (non-exam assessment, also 40%) for
+candidates on the coursework route.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE English Literature (4ET1)

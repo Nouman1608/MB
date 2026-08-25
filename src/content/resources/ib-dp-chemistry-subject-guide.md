@@ -48,6 +48,36 @@ aims to enable students to:
 9. develop awareness of the ethical, environmental, economic, cultural
    and social impact of science.
 
+## How it's assessed
+
+DP Chemistry follows the same overall assessment model as the other DP
+sciences, combining external examination with an individual internal
+assessment, at both Standard Level and Higher Level. Paper 1 is
+weighted at 36% of the final grade and is built from short-answer and
+data-based questions spanning the syllabus; Paper 2 is weighted at
+44% and requires short-answer and extended-response answers that draw
+together structure and reactivity concepts across topics. Between
+them, the two papers account for 80% of the final mark, with SL and
+HL differing in exam length and mark totals rather than in this
+weighting split.
+
+The remaining 20% is the internal assessment -- an independent
+scientific investigation that students design, carry out and report
+on individually, submitted as a written report of up to 3,000 words.
+It is distinct from the interdisciplinary collaborative sciences
+project undertaken with peers across group 4 subjects, which develops
+investigative and teamwork skills but is not itself part of the
+internally assessed component.
+
+The chemistry syllabus itself is organized around two linked
+organizing concepts -- structure and reactivity -- reflecting the idea
+that the structure of matter determines how it reacts, and that those
+reactions in turn transform structure. Both Paper 1 and Paper 2 draw
+questions from across this structure-and-reactivity framework rather
+than testing each syllabus topic as a standalone block, which is one
+reason the two papers are weighted so closely together at 36% and 44%
+of the final grade.
+
 ## Source
 
 International Baccalaureate Organization, Chemistry subject brief

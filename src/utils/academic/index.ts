@@ -71,6 +71,15 @@ export const academicHubPath = (c: Combination): string =>
 export const LEVEL_FOR_QUALIFICATION: Record<string, string> = {
   'igcse': 'igcse', 'o-level': 'o-levels', 'a-level': 'a-levels', 'gcse': 'gcse',
   'ib-dp': 'ib', 'ib-myp': 'ib',
+  // AS Level has no distinct entry in the resources 'level' enum (see
+  // content.config.ts) -- AS-stage content is tagged level: ["a-levels"]
+  // with stage: "AS" (matching the existing 9701-style stage split), not a
+  // separate level value. Without this row, any as-level combination
+  // (e.g. AQA AS Business, matrix row aqa/as-level/business) could never
+  // match a resource regardless of how much content existed for it --
+  // found during the Aug 2026 SEO remediation while auditing why that
+  // page had zero resources despite 6 published syllabus topics.
+  'as-level': 'a-levels',
 };
 
 export const boardsPath = () => `/boards/`;

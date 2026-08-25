@@ -58,6 +58,22 @@ the final weeks. Because contextual and critical interpretations are
 also credited, build a small bank of critical viewpoints on your
 genre and texts that you can draw on and challenge in your response.
 
+## Assessment at a glance
+
+Paper 1 (Literary Genres) is a 2 hour 30 minute closed-book exam worth
+75 marks -- 40% of the A-level -- split across a passage-based
+Shakespeare question, a Shakespeare essay, and an essay linking two
+texts, 25 marks each. It sits alongside Paper 2 (Texts and Genres,
+also 75 marks / 40%, open book) and a teacher-assessed,
+AQA-moderated non-exam component -- two 1,250-1,500 word essays worth
+50 marks / 20% overall, one of which can be a re-creative response
+with an accompanying commentary.
+
+AQA has published an updated 7717 specification for first exams from
+2027, refreshing the set-text options within the same paper structure
+described above -- confirm which version applies to your examination
+year before relying on any specific text list.
+
 ## Official syllabus
 
 AQA A-Level English Literature B (7717) specification, for first

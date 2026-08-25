@@ -1067,3 +1067,73 @@ Status values: `answered` (owner has responded, implemented), `open`
   validation gate green (astro check, validate:academic, build, cross-
   board-regression, negative-validation-suite, unit tests, npm audit, tsc
   --noEmit, wrangler deploy --dry-run); not yet merged to `main`.
+
+## D-024 — 27 pages expanded past the indexability bar instead of staying noindexed
+
+- **Date:** 2026-08-25.
+- **Workstream:** Follow-up to D-023, same feature branch. User reviewed
+  the 27-page noindex impact from D-023, asked why noindexing was
+  necessary rather than adding content, and -- after being told 7 pages
+  needed only small, already-verifiable additions while 19 IB pages
+  needed real per-subject research -- chose to do all 27 now rather than
+  defer the IB ones.
+- **Real bug found and fixed along the way:** `LEVEL_FOR_QUALIFICATION`
+  (utils/academic/index.ts) had no entry for `as-level` qualifications.
+  AQA AS Business (the matrix's only `as-level` row) could therefore
+  never match a resource by `level`, regardless of content -- a
+  structural gap independent of word count. Added `'as-level':
+  'a-levels'`, matching how AS-stage content is already tagged elsewhere
+  (`level: ["a-levels"]` + `stage: "AS"`, e.g. the existing 9701 pattern).
+  This single fix retroactively surfaced 3 pre-existing, substantial
+  resources (2,433 words combined) that were already written and tagged
+  correctly but structurally invisible on this page.
+- **Content added:**
+  - New file `src/content/resources/aqa-as-level-business-course-structure.md`
+    (subject-guides, 503 words) -- written directly from already-verified
+    syllabus/topics data already in `syllabuses.ts`/`syllabus-topics.ts`
+    (verifiedOn 2026-08-19), plus one fact (Paper 1/Paper 2 marks,
+    weighting, AOs) confirmed via aqa.org.uk's scheme-of-assessment page
+    this session.
+  - 7 existing study-guide/subject-guide files (6 English Literature
+    across AQA/Edexcel/OxfordAQA + AQA GCSE History) each got a new,
+    factual "Assessment at a glance" section -- exam duration, marks,
+    weighting, and question structure -- verified against the official
+    board specification page already cited at the bottom of each file
+    (aqa.org.uk, qualifications.pearson.com, oxfordaqa.com). Two of the
+    seven also honestly noted a genuine spec refresh (AQA 7717 for 2027,
+    OxfordAQA 9675/9275 revisions) without inventing any future content.
+  - 19 IB subject-guide files (14 DP, 5 MYP) each got a new "How it's
+    assessed" section, researched against ibo.org subject briefs
+    (cross-checked against secondary sources where the primary brief was
+    thin), covering SL/HL paper structure and IA weighting for DP
+    subjects, and MYP's actual criterion-based model (four criteria per
+    subject group, 1-8 scale) for MYP subjects -- explicitly not
+    described using DP terminology, since the two programmes' assessment
+    models are structurally different.
+  - Caught and fixed one internal inconsistency during review: the IB
+    History file's original intro (2020 brief) named "six key concepts",
+    while the new assessment section (current 2028-examined syllabus)
+    named "four specified historical concepts" -- same underlying ideas,
+    consolidated differently across syllabus versions. Added one bridging
+    sentence explaining this rather than leaving an unreconciled
+    contradiction on the page.
+  - Where a source didn't give a confirmable number (e.g. one Computer
+    Science paper weighting, one ESS paper split), the relevant section
+    describes the component without a fabricated percentage, per the
+    guardrail against inventing facts.
+- **Effect:** All 27 pages now clear the 400-word substantial-content
+  bar under `isIndexableAcademicPage()` (D-023) purely on content
+  volume/quality -- no threshold or logic change. Rebuilt: 1,123 pages
+  (+1 for the new AS Business resource), sitemap 1,122 URLs, exactly
+  1,123 minus 404.html -- the only page still noindexed. Full validation
+  gate green (astro check, validate:academic, build, cross-board-
+  regression, negative-validation-suite, sitemap-noindex safeguard, unit
+  tests, npm audit, tsc --noEmit, wrangler deploy --dry-run).
+- **Guardrail check:** no content states future syllabus years/reforms
+  beyond what a source explicitly confirmed; no fabricated marks or
+  weightings; MYP and DP are not conflated; no new duplicate/near-
+  duplicate resource files were created (all 26 of the 27 were expansions
+  of existing files in place); the one new file (AS Business) fills a
+  genuine gap rather than duplicating existing content.
+- **Status:** implemented on `feature/seo-indexability-policy`, same
+  branch as D-023; not yet merged to `main`.

@@ -57,6 +57,23 @@ Building a small bank of critical perspectives on tragedy as a genre,
 which you can apply to and challenge using your set texts, strengthens
 responses beyond straightforward plot-and-theme analysis.
 
+## Assessment at a glance
+
+Unit 1 (Aspects of Dramatic Tragedy) is a 2-hour, closed-book written
+exam worth 50 marks -- 50% of the International AS and 20% of the
+full International A-level. Section A (25 marks) is a passage-based
+question on the candidate's chosen Elizabethan or Jacobean tragedy;
+Section B (25 marks) is an essay question on the candidate's chosen
+later dramatic tragedy. Candidates answer one question from each
+section, writing on two plays in total.
+
+OxfordAQA has published a revised 9675 specification for first
+teaching from 2027, with a refreshed set-text list -- affecting
+cohorts starting from 2027, with first AS exams in May/June 2028 --
+but the Unit 1 structure described above (two sections, 2 hours, 50
+marks, closed book) is unchanged and remains current for existing
+cohorts through the final AS series in January 2028.
+
 ## Official syllabus
 
 OxfordAQA International AS & A-Level English Literature specification

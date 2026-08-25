@@ -49,6 +49,29 @@ aims to enable students to:
 9. develop awareness of the ethical, environmental, economic, cultural
    and social impact of science.
 
+## How it's assessed
+
+DP Biology is assessed at both Standard Level and Higher Level through a
+mix of external examinations and an internally assessed scientific
+investigation, with SL and HL following the same overall structure
+even though the papers differ in length and demand at each level.
+Paper 1 is weighted at 36% of the final grade and draws on the full
+breadth of the syllabus through short-answer and data-based questions;
+Paper 2 is weighted at 44% and includes short-answer and
+extended-response questions requiring more sustained scientific
+writing. Together, these two papers make up 80% of the final mark,
+with the exams differing in length and mark allocation between SL and
+HL rather than in this weighting split.
+
+The remaining 20% comes from the internal assessment -- an individual
+scientific investigation designed, carried out and written up by the
+student, culminating in a report of no more than 3,000 words. This
+sits alongside, but is separate from, the interdisciplinary
+collaborative sciences project that DP Biology students complete
+together with peers from other group 4 subjects; the collaborative
+project builds investigative skills, but it is the individually
+written scientific investigation that is formally graded.
+
 ## Source
 
 International Baccalaureate Organization, Biology subject brief

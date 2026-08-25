@@ -57,6 +57,24 @@ enable students to:
   international and historical perspectives
 - reflect critically upon their own work and the work of others.
 
+## How it's assessed
+
+Mathematics: Applications and Interpretation follows the same overall
+weighting pattern as Analysis and Approaches, but with a different emphasis
+on technology. At SL, Paper 1 (1.5 hours, compulsory short-response
+questions) and Paper 2 (1.5 hours, compulsory extended-response questions)
+are each worth 40% of the final grade; at HL, both run for 2 hours and are
+each worth 30%, with HL students additionally sitting Paper 3 (1 hour, two
+compulsory extended-response problem-solving questions) worth 20%. Unlike
+Analysis and Approaches, technology is permitted on every paper in
+Applications and Interpretation, including Paper 1, reflecting the course's
+focus on real-world modelling and data-rich problems.
+
+As with Analysis and Approaches, the internally assessed mathematical
+exploration -- an independent investigation into a real-world issue chosen
+by the student -- makes up the remaining 20% of the final grade at both SL
+and HL.
+
 ## Source
 
 International Baccalaureate Organization, Mathematics: Applications

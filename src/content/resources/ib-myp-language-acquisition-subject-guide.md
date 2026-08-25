@@ -39,6 +39,31 @@ The course encourages and enables students to:
 - develop the communication skills necessary for further language
   learning, and for study, work and leisure in a range of contexts.
 
+## How it's assessed
+
+MYP Language Acquisition is assessed against four equally weighted
+criteria, each scored on an eight-point scale (1-8): Criterion A,
+Listening; Criterion B, Reading; Criterion C, Speaking; and Criterion D,
+Writing. Rather than being tied to a fixed year group, teaching and
+learning is organized into six proficiency phases forming a developmental
+continuum -- students can begin at any phase depending on prior experience,
+and progress at their own pace rather than moving up with an age cohort.
+
+Where schools opt into MYP eAssessment, students are assessed at one of
+three overall proficiency levels -- emergent, capable or proficient --
+through an on-screen exam covering listening, reading and writing (each
+worth 24 marks, against criteria A, B and D respectively), plus a separate,
+internally assessed speaking exam against criterion C, which is externally
+moderated by the IB rather than marked solely by the student's own teacher.
+
+The six proficiency phases sit under four key concepts that frame the
+wider MYP language acquisition curriculum -- communication, connections,
+creativity and culture -- explored through related concepts such as word
+choice, convention and idiom. Because phases track a student's actual
+language proficiency rather than their MYP year group, two students in the
+same class can legitimately be working, and being assessed, in different
+phases of the same continuum.
+
 ## Source
 
 International Baccalaureate Organization, Language Acquisition subject

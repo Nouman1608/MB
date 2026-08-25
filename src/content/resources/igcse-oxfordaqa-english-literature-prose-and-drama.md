@@ -59,6 +59,22 @@ for both the prose text and the play -- covering major characters and
 themes -- makes it far easier to write with precise textual evidence
 under timed exam conditions, rather than relying on paraphrase.
 
+## Assessment at a glance
+
+Paper 1 (Prose and Drama) is a 1 hour 30 minute closed-book exam worth
+60 marks -- 40% of the International GCSE -- and is common to both
+Route A and Route B. Section A (Prose Fiction, 30 marks) and Section B
+(Drama, 30 marks) each require one question on the candidate's chosen
+set text, with a choice between an essay-style question and a
+passage-based question in both sections.
+
+OxfordAQA has published a revised 9275 specification for first
+teaching from September 2026, refreshing the set-text and anthology
+lists -- affecting cohorts starting from September 2026, with first
+exams in May/June 2028 -- but the Paper 1 structure described above is
+unchanged, and the current (Version 4.2) specification remains in
+force through the final May/June 2027 series.
+
 ## Official syllabus
 
 OxfordAQA International GCSE English Literature (9275) specification,
