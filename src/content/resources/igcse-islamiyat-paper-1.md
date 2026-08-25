@@ -18,6 +18,15 @@ publishedDate: 2026-08-21
 featured: false
 ---
 
+Cambridge IGCSE Islamiyat Paper 1 (0493) is a 1.5-hour exam covering
+the Qur'an and the life of the Prophet Muhammad (pbuh), split into
+four sub-topics: the major themes of the Qur'an, the Qur'an's history
+and importance, the Prophet's life and importance, and the first
+Islamic community. It is one of two compulsory papers -- Paper 2
+covers the Hadiths, the Rightly Guided Caliphs and the Articles of
+Faith and Pillars of Islam -- and this page sets out Paper 1's full
+content for the current 2026-2027 examination series.
+
 This guide covers **Paper 1**, one of two compulsory papers for
 Cambridge IGCSE Islamiyat 0493, 2026–2027 series. Both papers are 1.5
 hours long with five questions each; Questions 1 and 2 are compulsory,
@@ -70,3 +79,19 @@ are lost even when the underlying knowledge is correct.
 
 Cambridge IGCSE Islamiyat 0493 syllabus for 2026 and 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697174-2026-2027-syllabus.pdf).
+
+## Related resources
+
+- [Islamiyat Paper 1: Practice
+  Questions](/resources/islamiyat-paper-1-practice/) — exam-style
+  practice questions with full worked answers on this paper's four
+  sub-topics
+- [Islamiyat Paper 1: Revision
+  Notes](/resources/islamiyat-paper-1-revision-notes/) — condensed
+  recall notes covering the same content
+- [O Level Islamiyat: Paper 1 (Cambridge
+  2058)](/resources/o-level-islamiyat-paper-1/) — the equivalent paper
+  for Cambridge O Level Islamiyat, identical in structure to this
+  IGCSE syllabus
+- [Islamiyat subject hub](/subjects/islamiyat/) — all Marlbridge
+  Islamiyat resources across IGCSE and O Level

@@ -22,6 +22,15 @@ updatedDate: 2026-08-17
 featured: false
 ---
 
+At A Level, Group 2 nitrate and carbonate thermal stability increases
+down the group because smaller cations polarise the large anion more
+strongly, weakening it and making it decompose more readily -- while
+hydroxide solubility increases and sulfate solubility decreases down
+the group because lattice energy and hydration enthalpy change at
+different relative rates depending on the anion's own size. This page
+explains both trends quantitatively, building on their qualitative
+AS-level versions.
+
 This guide covers subtopic **27.1, Similarities and trends in the
 properties of the Group 2 metals, magnesium to barium, and their
 compounds**, from Topic 27, Group 2, of Cambridge International AS & A

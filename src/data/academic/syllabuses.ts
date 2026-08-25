@@ -38,7 +38,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'The Cambridge O Level Chemistry syllabus helps learners to understand the technological world in which they live, and take an informed interest in science and scientific developments.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/view/cambridge-o-level-chemistry-5070/',
-    verifiedOn: '2026-08-17',
+    verifiedOn: '2026-08-25',
+    notes: 'Current syllabus is Version 1, published September 2023, confirmed directly from the official syllabus PDF as valid for exams in 2026, 2027 and 2028 (June and November series). No significant changes affecting teaching since the prior version; textbooks endorsed for examination from 2023 remain suitable.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'chemistry',
@@ -67,7 +68,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'The Cambridge O Level Physics syllabus helps learners to understand the technological world in which they live, and take an informed interest in science and scientific developments.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-physics-5054/',
-    verifiedOn: '2026-08-18',
+    verifiedOn: '2026-08-25',
+    notes: 'Current syllabus is Version 2, published December 2025, confirmed directly from the official syllabus PDF as valid for exams in 2026, 2027 and 2028 (June and November series). No significant changes affecting teaching since the prior version; textbooks endorsed for examination from 2023 remain suitable. Four components: Paper 1 Multiple Choice and Paper 2 Theory (written), plus practical assessment via Paper 3 Practical Test or Paper 4 Alternative to Practical.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'mathematics',
@@ -114,8 +116,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'The Cambridge International AS and A Level Accounting syllabus enables learners to apply their accounting knowledge and understanding in order to analyse and present information, give reasoned explanations, and make judgements and recommendations.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-accounting-9706/',
-    verifiedOn: '2026-08-18',
-    notes: 'Cambridge publishes 9706 as a combined AS & A Level syllabus, structured in stages (AS: Topics 1-2, A Level: Topics 3-4).',
+    verifiedOn: '2026-08-25',
+    notes: 'Current syllabus is Version 2, published December 2025, confirmed directly from the official syllabus PDF as valid for exams in 2026, 2027 and 2028 (June, November and March-in-India series); only change from Version 1 (September 2023) was an updated weblink reference. Cambridge International AS Level candidates study topics 1.1-2.2; A Level candidates study all topics 1.1-4.4, with AS content assumed knowledge for A Level papers. Four components: Paper 1 Multiple Choice, Paper 2 Fundamentals of Accounting (AS Level), Paper 3 Financial Accounting, Paper 4 Cost and Management Accounting (A Level).',
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'accounting',
@@ -855,8 +857,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'Pearson Edexcel International Advanced Level Economics develops learners\' understanding of markets, macroeconomic performance, business behaviour and the global economy through a modular four-unit structure.',
     officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/economics-2018.html',
-    verifiedOn: '2026-08-19',
-    notes: 'Issue 2, June 2018, first teaching September 2018. Modular qualification: International AS (units WEC11, WEC12, code XEC11) covering Markets in action and Macroeconomic performance and policy; full International A Level (units WEC11-WEC14, code YEC11) adds Business behaviour and Developments in the global economy.',
+    verifiedOn: '2026-08-25',
+    notes: 'Issue 2, June 2018, first teaching September 2018, first external assessment 2019 -- confirmed still the current, unreplaced specification on Pearson\'s own qualification page. This is an evergreen linear specification with no year-versioned re-issue, so it continues to serve every future exam series (including 2027) until Pearson publishes a successor; there is no separate "2027 syllabus" to confirm or deny. Modular qualification: International AS (units WEC11, WEC12, code XEC11) covering Markets in action and Macroeconomic performance and policy; full International A Level (units WEC11-WEC14, code YEC11) adds Business behaviour and Developments in the global economy.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'economics',
@@ -885,8 +887,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'AQA A-level Economics is split into a microeconomics-focused section and a macroeconomics-focused section, while recognising the two are not entirely distinct areas of study.',
     officialUrl: 'https://www.aqa.org.uk/subjects/economics/a-level/economics-7136',
-    verifiedOn: '2026-08-19',
-    notes: 'For first teaching from September 2015. Two subject-content sections: individuals, firms, markets and market failure (microeconomics); and the national and international economy (macroeconomics).',
+    verifiedOn: '2026-08-25',
+    notes: 'For first teaching from September 2015; this is an evergreen specification (no separate yearly syllabus editions), and AQA\'s own key-dates page confirms live exam dates for the June 2027 series (Paper 1: 10 May 2027, Paper 2: 17 May 2027, Paper 3: 7 June 2027), so it remains the current, genuine specification for that series. Two subject-content sections: individuals, firms, markets and market failure (microeconomics); and the national and international economy (macroeconomics).',
   },
 
 
@@ -978,8 +980,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'Cambridge International AS and A Level English Language develops learners’ skills in analysing and producing a wide range of spoken and written texts, and their understanding of how English is used in different contexts and for different purposes.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-english-language-9093/',
-    verifiedOn: '2026-08-19',
-    notes: 'Version 2, published October 2021, valid for the 2024, 2025 and 2026 examination series. AS Level: Paper 1 Reading, Paper 2 Writing. A Level adds Paper 3 Language Analysis and Paper 4 Language Topics.',
+    verifiedOn: '2026-08-25',
+    notes: 'Cambridge has since published a newer syllabus: Version 1, published September 2024, for exams in 2027 and 2028 (confirmed directly from the official syllabus PDF), with no significant content changes from the prior 2024-2026 version -- textbooks endorsed for examination from 2021 remain suitable. AS Level: Paper 1 Reading (50% of AS / 25% of A Level), Paper 2 Writing (50% of AS / 25% of A Level). A Level adds Paper 3 Language Analysis and Paper 4 Language Topics (each 25% of A Level), covering language change, child language acquisition, English in the world, and language and the self.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'english-language',
@@ -1008,8 +1010,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'Cambridge International AS and A Level Literature in English encourages learners to enjoy reading widely and enables them to appreciate the different ways in which writers use language to communicate meaning and effect.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-literature-in-english-9695/',
-    verifiedOn: '2026-08-19',
-    notes: 'AS Level: Paper 1 Drama and Poetry, Paper 2 Prose and Unseen. A Level adds Paper 3 Shakespeare and Drama and Paper 4 Pre- and Post-1900 Poetry and Prose. Set texts rotate by examination year.',
+    verifiedOn: '2026-08-25',
+    notes: 'AS Level: Paper 1 Drama and Poetry, Paper 2 Prose and Unseen. A Level adds Paper 3 Shakespeare and Drama and Paper 4 Pre- and Post-1900 Poetry and Prose. Set texts rotate by examination year. The current syllabus (636097-2024-2026-syllabus.pdf) is valid for the 2024, 2025 and 2026 examination series; Cambridge has already published the successor syllabus for 2027 and 2028 (721410-2027-2028-syllabus.pdf, Version 2), which carries the same four-paper structure unchanged.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'igcse', subjectSlug: 'english-language',
@@ -1249,8 +1251,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'Cambridge IGCSE Urdu as a Second Language encourages learners to develop practical communication skills in listening, speaking, reading and writing Urdu.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/664633-2025-2027-syllabus.pdf',
-    verifiedOn: '2026-08-19',
-    notes: 'All candidates take Paper 1 (Reading and Writing, 67%, six exercises) and Paper 2 (Listening, 33%, four exercises). Centres can additionally enter candidates for the optional, separately-endorsed Component 5 Speaking, which does not count toward the overall qualification grade.',
+    verifiedOn: '2026-08-25',
+    notes: 'All candidates take Paper 1 (Reading and Writing, 67%, six exercises) and Paper 2 (Listening, 33%, four exercises). Centres can additionally enter candidates for the optional, separately-endorsed Component 5 Speaking, which does not count toward the overall qualification grade. Exams are offered in the June series only (no November series for this syllabus). Current syllabus is valid for 2025, 2026 and 2027; the published successor for 2028 and 2029 (745678-2028-2029-syllabus.pdf, Version 1) keeps the identical Paper 1/Paper 2/Component 5 structure and weightings.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'urdu-language',
@@ -1259,8 +1261,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'Cambridge O Level Urdu is offered as two distinct specifications: First Language Urdu for candidates whose mother tongue is Urdu, and Second Language Urdu for candidates learning Urdu as an additional language.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf',
-    verifiedOn: '2026-08-19',
-    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one specification or the other, not both, in the same series.',
+    verifiedOn: '2026-08-25',
+    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one specification or the other, not both, in the same series. Cambridge has already published a successor for 3248 covering the 2027, 2028 and 2029 series (721465-2027-2029-syllabus.pdf, Version 1) — it keeps the identical two-paper split and states there are no significant changes affecting teaching.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'urdu-language',

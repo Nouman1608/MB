@@ -7,7 +7,7 @@ topic: "Paper 1 – Reading and Writing"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["3247 / 3248"]
-syllabusSeries: "3247: 2027; 3248: 2024-2026"
+syllabusSeries: "3247: 2027; 3248: 2027-2029"
 order: 1
 syllabusTopics:
   - qualification: "o-level"
@@ -18,11 +18,21 @@ publishedDate: 2026-08-21
 featured: false
 ---
 
+Cambridge O-Level Urdu Paper 1, Reading and Writing, is a 1 hour 30
+minute exam worth 50% of the qualification, testing comprehension of a
+printed passage and directed or free writing in Urdu -- the same paper
+structure is shared across both 3247 First Language and 3248 Second
+Language Urdu, though the two specifications differ in their second
+paper and in how demanding the passages and expected writing are.
+Candidates sit one specification or the other, never both, and the
+right choice depends on whether Urdu is the candidate's main language
+(3247) or a learned additional language (3248).
+
 This guide covers **Paper 1 Reading and Writing**, the shared
 structural starting point of two distinct, currently examined
 Cambridge O-Level Urdu specifications: 3247 First Language Urdu
 (valid for the 2027 series) and 3248 Second Language Urdu (valid for
-the 2024-2026 series). Candidates take one or the other, not both, in
+the 2027-2029 series). Candidates take one or the other, not both, in
 the same series.
 
 ## Where this fits in 3247/3248
@@ -63,8 +73,8 @@ distinct skills under timed conditions.
 
 Cambridge O-Level First Language Urdu (3247) syllabus for 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf);
-Cambridge O-Level Second Language Urdu (3248) syllabus for 2024-2026 —
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf).
+Cambridge O-Level Second Language Urdu (3248) syllabus for 2027-2029 —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf).
 
 ## Two qualifications, two purposes
 
@@ -134,3 +144,20 @@ Copying from the passage where own words are required. Writing at length for low
 - Write in a range of registers and formats, planning before you start.
 - Drill gender agreement, verb forms, postpositions and script accuracy.
 - Always reserve time to check agreement and script at the end.
+
+## Related resources
+
+- [Cambridge IGCSE Urdu: Paper 1 Reading and Writing
+  (0539)](/resources/igcse-cambridge-urdu-paper-1-reading-writing/) —
+  the same Paper 1 skill set at the level below, for candidates
+  studying towards Cambridge IGCSE Urdu instead
+- [Urdu Paper 1: Reading and Writing — Practice
+  Questions](/resources/urdu-reading-and-writing-practice/) — exam-style
+  practice on the comprehension, summary and writing skills this paper
+  shares with Cambridge IGCSE Urdu
+- [Edexcel A-Level Urdu: Translation, Reading Comprehension and Writing
+  (9UR0)](/resources/a-level-edexcel-urdu-translation-and-reading/) —
+  the natural progression route after O-Level Cambridge Urdu, since
+  Cambridge does not offer an A-Level Urdu qualification
+- [Urdu Language subject hub](/subjects/urdu-language/) — all Marlbridge
+  Urdu resources across IGCSE, O-Level and A-Level

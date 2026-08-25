@@ -25,6 +25,17 @@ updatedDate: 2026-08-17
 featured: false
 ---
 
+A halogenoarene is a benzene ring (arene) with a halogen atom bonded
+directly to the ring, such as chlorobenzene -- distinct from a
+halogenoalkane, where the halogen is bonded to a saturated carbon
+chain instead. Because one of the halogen's lone pairs partially
+delocalises into the aromatic ring, and because attacking that carbon
+would disrupt the ring's stability, halogenoarenes are far less
+reactive towards nucleophilic substitution than halogenoalkanes are.
+This page covers benzene's substitution reactions and mechanism, the
+directing effects of ring substituents, and this comparison of
+halogenoarene versus halogenoalkane reactivity in full.
+
 This guide covers subtopic **30.1, Arenes**, from Topic 30, Hydrocarbons,
 and subtopic **31.1, Halogen compounds**, from Topic 31, Halogen compounds,
 of Cambridge International AS & A Level Chemistry 9701, 2025–2027 series.
