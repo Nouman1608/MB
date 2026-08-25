@@ -17,9 +17,11 @@ description: "Orders of magnitude and estimating approximate values of physical 
 author: "iftikhar-azeemi"
 reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-19
-updatedDate: 2026-08-19
+updatedDate: 2026-08-25
 featured: false
 ---
+
+**Estimation of physical quantities** is the physics skill of judging the order of magnitude of a quantity -- for example the mass of a bacterium, the diameter of an atom, or the number of molecules in a glass of water -- using known formulae, everyday knowledge and reasonable assumptions, rather than a precise measurement. It lets a physicist sanity-check a calculated answer or make a quick approximate prediction when exact data is not available.
 
 This guide covers sub-topic **3.1.3 Estimation of physical quantities**, the third and final sub-topic in **Topic 3.1 Measurements and their errors**, from the AQA A-level Physics (7408) specification (first teaching September 2015).
 

@@ -1239,3 +1239,90 @@ Status values: `answered` (owner has responded, implemented), `open`
   the guardrails explicitly forbid.
 - **Status:** documentation-only change (`docs/reports/`), no code or
   content touched, committed directly to `main`.
+
+## D-027 — Phase 4: the 8 named GSC priority pages, plus remaining query-term mappings
+
+- **Date:** 2026-08-25.
+- **Workstream:** Aug 2026 SEO remediation, Phase 4.
+- **What was done:**
+  1. **Sitewide hub-page description fix** (`src/pages/boards/[board]/[qualification]/[subject].astro`):
+     replaced the single fixed-boilerplate `<meta description>` template
+     (identical wording across all 160 hub pages, the exact problem
+     Section 9 of the brief flagged) with a generator that reflects real
+     per-page differentiators -- syllabus code, the actual resource
+     types present, and resource count, with an honest "no original
+     Marlbridge resource yet" fallback for the zero-resource case. This
+     is the smallest coherent fix: rather than hand-writing 3 one-off
+     descriptions for the named priority pages, the shared template was
+     corrected so all 160 hub pages benefit and the underlying
+     duplicate-description mechanism can't recur. Re-ran
+     `npm run audit:metadata` after the change: 0 missing, 0 duplicate
+     titles, 0 duplicate descriptions.
+  2. **3 priority hub pages verified/refined**
+     (`src/data/academic/syllabuses.ts`): Cambridge A-level English
+     Literature (9695) -- confirmed the successor 2027-2028 syllabus
+     (721410) is already published and noted its unchanged four-paper
+     structure; Cambridge O-Level Urdu (3247/3248) -- confirmed 3248's
+     successor 2027-2029 syllabus (721465) is already published;
+     Cambridge O-Level Computer Science (2210) -- checked against the
+     board's own page and found already current, left unchanged. No
+     internal-linking gap found for these pages: subject hub pages
+     already auto-list every board/qualification combination via
+     `offeringsForSubject()`, so no orphaned or under-linked priority
+     page existed.
+  3. **4 priority resource pages enriched**: added a direct-answer
+     opening paragraph to each (Urdu O-Level Paper 1, Islamiyat IGCSE
+     Paper 1, A-level Chemistry Group 2 trends, A-level Chemistry
+     halogenoarenes), addressing Section 6's "answer the query in the
+     first two sentences" requirement without altering existing content.
+     Added "Related resources" sections (previously absent) to the Urdu
+     and Islamiyat pages, cross-linking to the matching practice-question
+     and revision-note resources plus the adjacent-level equivalent.
+     Corrected one real staleness caught in the process: the Urdu
+     O-Level Second Language (3248) resource page still cited the
+     2024-2026 syllabus PDF; updated to the already-published 2027-2029
+     successor (721465), consistent with the `syllabuses.ts` finding
+     above.
+  4. **6 remaining Section 7 query terms mapped to their correct
+     canonical pages and verified/corrected**, closing the gap between
+     the 8 named pages and the fuller query list:
+     - "a level economics syllabus 2027" / "economics a level syllabus
+       2027" -- Cambridge 9708 already current (2026-2028, unchanged);
+       AQA 7136 confirmed genuinely current for June 2027 via AQA's own
+       published key-dates page; Edexcel YEC11/XEC11 corrected to state
+       honestly that it is an evergreen 2018 spec with no year-versioned
+       reissue, rather than implying a "2027 syllabus" exists.
+     - "cambridge a level english language syllabus" -- 9093 was stale
+       (notes still cited the 2024-2026 version); corrected to the
+       already-published 2027-2028 version (721359) with full paper
+       weightings added.
+     - "5070 syllabus 2028" / "physics o level syllabus 2028" -- brief
+       mislabelled 5070 as Physics; corrected both real pages: O-Level
+       Chemistry (5070, confirmed current, 2026-2028) and O-Level
+       Physics (5054, confirmed current, 2026-2028, previously had no
+       notes field at all -- added paper structure).
+     - "edexcel igcse physics syllabus" -- 4PH1 already current (Issue
+       4, September 2024), no change needed.
+     - "cambridge a level accounting syllabus" -- 9706 updated to
+       Version 2 (Dec 2025), added corrected topic-range and paper
+       structure detail.
+     - "estimation of physical quantities" -- confirmed the existing
+       AQA A-level Physics resource covers this exactly; added a direct
+       two-sentence answer opening (order-of-magnitude estimation,
+       distinct from precise measurement).
+     No future exam series was stated as confirmed unless found on the
+     board's own official page; where a query implied a future syllabus
+     that does not yet exist (Edexcel Economics, Edexcel IGCSE Physics
+     as evergreen specs), this is stated honestly rather than silently
+     dropped.
+- **Guardrail check:** no redesign; no new pages created; no fact
+  asserted without a board-cited source verified this session; existing
+  content only added to, never rewritten or deleted; template change is
+  the minimal shared fix rather than N one-off patches.
+- **Status:** implemented on `feature/seo-phase4-priority-pages`, full
+  validation gate green (astro check, validate:academic, build,
+  cross-board-regression, negative-validation-suite, sitemap-noindex
+  safeguard -- now 0 noindexed pages, confirming the earlier word-count
+  expansion fully cleared the indexability bar -- audit:metadata,
+  audit:structured-data, unit tests [13/13], npm audit [0
+  vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).

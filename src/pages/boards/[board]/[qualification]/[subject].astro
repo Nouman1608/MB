@@ -114,6 +114,37 @@ const heading = `${c.board} ${c.qualification} ${c.subject}`;
 const title = syllabus ? `${heading} (${syllabus.code})` : heading;
 
 /**
+ * Differentiated meta description (Aug 2026 SEO remediation, Phase 4/9).
+ *
+ * The old description was one fixed template string for all 160 hub
+ * pages -- board/qualification/subject/code varied, but the rest was
+ * identical boilerplate ("overview, topics and study resources... Free
+ * to read") regardless of what was actually on the page. That is exactly
+ * the "near-identical descriptions" problem search consoles flag, and it
+ * wastes the description's one real job: telling a searcher what makes
+ * *this* result different from the next one. Real differentiators are
+ * available at this point in the template -- syllabus code and, since
+ * D-023/D-024, real resource type/count data -- so use them instead.
+ */
+const RESOURCE_TYPE_LABEL: Record<string, string> = {
+  'study-guides': 'study guides',
+  'revision-notes': 'revision notes',
+  'past-papers': 'past-paper guidance',
+  'practice-questions': 'practice questions',
+  'exam-preparation': 'exam preparation guides',
+  'subject-guides': 'a subject guide',
+};
+const presentResourceTypes = [...new Set(resources.map((r) => r.data.resourceType))]
+  .map((t) => RESOURCE_TYPE_LABEL[t] ?? t);
+// Never claim resource availability this combination doesn't have --
+// the explicit false branch here is what the "no resources" case reads
+// as, rather than silently reusing generic "study resources" language.
+const resourceSummary = presentResourceTypes.length > 0
+  ? `${resources.length} original resource${resources.length === 1 ? '' : 's'} (${presentResourceTypes.join(', ')})`
+  : 'no original Marlbridge resource yet';
+const pageDescription = `${heading}${syllabus ? ` (${syllabus.code})` : ''}: what the qualification covers, and ${resourceSummary} Marlbridge has published for it.`.replace(/\s+/g, ' ');
+
+/**
  * Indexability (Aug 2026 SEO remediation — Phase 1/2).
  *
  * activeOnly() legitimately produces a page for every ACTIVE combination in
@@ -157,7 +188,7 @@ const jsonLd = [courseNode({
 <PageLayout
   noindex={isThin}
   title={title}
-  description={`${heading} — syllabus ${syllabus?.code ?? ''} overview, topics and study resources from Marlbridge. Free to read.`.replace(/\s+/g, ' ')}
+  description={pageDescription}
   path={path}
   eyebrow={`${c.board} · ${c.qualification}`}
   heading={heading}
