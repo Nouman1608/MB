@@ -2,6 +2,10 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import { readdirSync, readFileSync } from 'node:fs';
+import { activeOnly, academicHubPath, LEVEL_FOR_QUALIFICATION } from './src/utils/academic/index.ts';
+import { subjectBySlug } from './src/data/academic/subjects.ts';
+import { topicsFor } from './src/data/academic/syllabus-topics.ts';
+import { isIndexableAcademicPage } from './src/utils/seo/indexability.ts';
 
 /**
  * lastmod lookup for the sitemap (Phase 6 — technical SEO / crawlability).
@@ -43,6 +47,74 @@ function buildLastmodMap() {
 
 const lastmodBySlug = buildLastmodMap();
 
+/**
+ * Sitemap exclusion for non-indexable academic hub pages (Phase 2 -- Aug
+ * 2026 SEO remediation).
+ *
+ * Before this existed, every ACTIVE board+qualification+subject
+ * combination got a <loc> entry in the sitemap regardless of whether its
+ * page actually carried a noindex tag (see the "indexability" block in
+ * src/pages/boards/[board]/[qualification]/[subject].astro). Search
+ * Console's own guidance is explicit that a sitemap should only list
+ * indexable URLs -- listing a noindexed URL sends Google a contradictory
+ * signal and is a direct, avoidable contributor to "Crawled - currently
+ * not indexed".
+ *
+ * This reads the exact same resource data the page template reads (via
+ * plain fs, since astro.config.mjs runs before the content layer exists)
+ * and calls the exact same isIndexableAcademicPage() decision function --
+ * not a re-implementation of the rule, the same function -- so the
+ * sitemap and the rendered robots meta cannot drift apart. A build-time
+ * test (scripts/test-sitemap-noindex.mjs) verifies this held after every
+ * build by checking the built dist/ directly.
+ */
+function buildIndexabilityExclusions() {
+  const resourceRecords = [];
+  let files;
+  try {
+    files = readdirSync(new URL('src/content/resources/', import.meta.url)).filter((f) => f.endsWith('.md'));
+  } catch {
+    files = [];
+  }
+  for (const file of files) {
+    const raw = readFileSync(new URL(`src/content/resources/${file}`, import.meta.url), 'utf-8');
+    const parts = raw.split('---');
+    const frontmatter = parts[1] ?? '';
+    const body = parts.slice(2).join('---');
+    const resourceType = frontmatter.match(/^resourceType:\s*"?([\w-]+)"?/m)?.[1];
+    const subject = frontmatter.match(/^subject:\s*"?([\w-]+)"?/m)?.[1];
+    const levelLine = frontmatter.match(/^level:\s*\[(.*?)\]/m)?.[1] ?? '';
+    const level = levelLine.split(',').map((s) => s.trim().replace(/['"]/g, '')).filter(Boolean);
+    const boardsLine = frontmatter.match(/^boards:\s*\[(.*?)\]/m)?.[1] ?? '';
+    const boards = boardsLine.split(',').map((s) => s.trim().replace(/['"]/g, '')).filter(Boolean);
+    const wordCount = body.trim().split(/\s+/).filter(Boolean).length;
+    if (!resourceType || !subject) continue;
+    resourceRecords.push({ resourceType, subject, level, boards, wordCount });
+  }
+
+  const excluded = new Set();
+  for (const c of activeOnly()) {
+    const hubSlug = subjectBySlug(c.subjectSlug)?.hubId ?? c.subjectSlug;
+    const levelKey = LEVEL_FOR_QUALIFICATION[c.qualificationSlug];
+    const matching = resourceRecords.filter(
+      (r) =>
+        r.subject === hubSlug &&
+        r.level.includes(levelKey) &&
+        (r.boards.length === 0 || r.boards.includes(c.boardSlug)),
+    );
+    const hasSyllabusTopics = (topicsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug)?.topics ?? []).length > 0;
+    const result = isIndexableAcademicPage({
+      resources: matching.map((r) => ({ resourceType: r.resourceType, wordCount: r.wordCount })),
+      hasSyllabusTopics,
+    });
+    if (!result.indexable) excluded.add(academicHubPath(c));
+  }
+  return excluded;
+}
+
+const noindexAcademicPaths = buildIndexabilityExclusions();
+
+
 export default defineConfig({
   site: 'https://marlbridge.com',
   trailingSlash: 'always',
@@ -61,8 +133,15 @@ export default defineConfig({
   compressHTML: true,
   integrations: [
     sitemap({
-      // Excluded: private/internal routes only.
-      filter: (page) => !page.includes('/styleguide'),
+      // Excluded: private/internal routes, plus every academic hub page
+      // that isIndexableAcademicPage() has marked non-indexable (see
+      // buildIndexabilityExclusions() above) -- keeping the sitemap and
+      // the page's own robots meta in agreement.
+      filter: (page) => {
+        if (page.includes('/styleguide')) return false;
+        const path = new URL(page).pathname;
+        return !noindexAcademicPaths.has(path);
+      },
       serialize(item) {
         const path = new URL(item.url).pathname;
         const lastmod = lastmodBySlug.get(path);

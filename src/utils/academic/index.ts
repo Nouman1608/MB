@@ -61,6 +61,18 @@ export const subjectsFor = (boardSlug: string, qualificationSlug: string): Combi
 export const academicHubPath = (c: Combination): string =>
   `/boards/${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}/`;
 
+/**
+ * Marlbridge resource `level` values differ from qualification slugs (the
+ * resources content collection was designed before the matrix's
+ * qualification taxonomy existed). Shared here so the academic hub page
+ * template and the sitemap/indexability build step (astro.config.mjs)
+ * cannot drift apart on what "this combination's resources" means.
+ */
+export const LEVEL_FOR_QUALIFICATION: Record<string, string> = {
+  'igcse': 'igcse', 'o-level': 'o-levels', 'a-level': 'a-levels', 'gcse': 'gcse',
+  'ib-dp': 'ib', 'ib-myp': 'ib',
+};
+
 export const boardsPath = () => `/boards/`;
 export const boardPath = (boardSlug: string) => `/boards/${boardSlug}/`;
 export const levelsPath = () => `/levels/`;
