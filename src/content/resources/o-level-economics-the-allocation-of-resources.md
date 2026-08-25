@@ -132,3 +132,15 @@ memorisation.
 Cambridge O Level Economics 2281 syllabus for 2026 (Version 2), Topic 2
 verified against the PDF on 24 August 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697295-2026-syllabus.pdf).
+
+## Related resources
+
+- [The Allocation of Resources: Revision
+  Notes](/resources/o-level-economics-the-allocation-of-resources-revision-notes/) —
+  condensed recall notes covering the same eleven sub-sections
+- [The Allocation of Resources: Practice
+  Questions](/resources/o-level-economics-the-allocation-of-resources-practice/) —
+  original exam-style questions with full worked answers
+- [The Basic Economic Problem](/resources/igcse-economics-the-basic-economic-problem/) —
+  the preceding topic that introduces scarcity, opportunity cost and
+  production possibility curves

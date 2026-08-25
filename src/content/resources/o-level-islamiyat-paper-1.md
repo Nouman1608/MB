@@ -70,3 +70,18 @@ school rather than assuming it matches another qualification's.
 
 Cambridge O Level Islamiyat 2058 syllabus for 2024 and 2025 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/635787-2024-2025-syllabus.pdf).
+
+## Related resources
+
+- [Paper 1: Revision Notes](/resources/o-level-islamiyat-paper-1-revision-notes/) —
+  condensed recall notes on the real Q1–Q5 question structure and mark
+  scheme
+- [Paper 1: Practice Questions](/resources/o-level-islamiyat-paper-1-practice/) —
+  original exam-style questions in the real compulsory-plus-choice
+  format, with full worked answers
+- [IGCSE Islamiyat: Paper 1 (Cambridge
+  0493)](/resources/igcse-islamiyat-paper-1/) — the equivalent paper
+  for Cambridge IGCSE Islamiyat, identical in sub-topic structure to
+  this O Level syllabus
+- [Islamiyat subject hub](/subjects/islamiyat/) — all Marlbridge
+  Islamiyat resources across IGCSE and O Level

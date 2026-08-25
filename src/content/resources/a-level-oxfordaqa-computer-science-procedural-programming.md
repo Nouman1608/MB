@@ -131,3 +131,16 @@ Choosing FOR when the repetition count is unknown. Believing WHILE always execut
 - Choose data structures to match the access pattern.
 - Write a test plan with normal, boundary and erroneous data and expected results.
 - Classify syntax, runtime and logic errors and state how each is found.
+
+## Related resources
+
+- [Procedural Programming — Practice
+  Questions](/resources/a-computer-science-procedural-practice/) —
+  original exam-style questions with full worked answers on
+  algorithms, searching, sorting, complexity and modular design
+- [Procedural Programming — Revision
+  Notes](/resources/a-computer-science-procedural-revision-notes/) —
+  condensed recall notes covering constructs, subroutines, recursion,
+  data structures and algorithm complexity
+- [Computer Science subject hub](/subjects/computer-science/) — all
+  Marlbridge Computer Science resources across IGCSE and A Level
