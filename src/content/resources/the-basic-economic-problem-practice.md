@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [The Basic Economic Problem revision notes](/resources/the-basic-economic-problem-revision-notes/)
+Related: [The Basic Economic Problem revision notes](/resources/igcse-economics-basic-problem-revision-notes/)
 
 ---
 
