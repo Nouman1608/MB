@@ -1,5 +1,6 @@
 ---
 title: "Forces and Motion"
+seoTitle: "Cambridge O Level Physics: Forces and Motion"
 resourceType: "study-guides"
 subject: "physics"
 level: ["o-levels"]

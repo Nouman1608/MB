@@ -1137,3 +1137,80 @@ Status values: `answered` (owner has responded, implemented), `open`
   genuine gap rather than duplicating existing content.
 - **Status:** implemented on `feature/seo-indexability-policy`, same
   branch as D-023; not yet merged to `main`.
+
+## D-025 — Phase 3/5/7/10 of the SEO remediation: classification, metadata, fonts, structured data
+
+- **Date:** 2026-08-25.
+- **Workstream:** Continuation of the Aug 2026 SEO remediation brief,
+  after D-023/D-024 (Phases 1+2) merged to `main`. User said "go ahead
+  and do the rest as well" -- proceeding phase by phase, mechanical/
+  scriptable phases first.
+- **Phase 3 (classification):** Built `docs/reports/seo-page-classification.json`
+  and a readable `.md` companion, classifying all 160 ACTIVE
+  board+qualification+subject combinations by indexability, resource
+  depth and syllabus-verification status. Result: 9 strong (8+
+  resources), 110 adequate (2-7), 18 minimal (exactly 1 matching
+  resource -- down from 39 before D-024's expansion work, since most of
+  that work deepened existing files rather than adding new ones), 23
+  syllabus-unverified (all 19 IB DP/MYP combinations plus 4 others), 0
+  not-indexable. The "0 not-indexable" figure directly confirms D-023's
+  policy + D-024's content work are both holding.
+- **Phase 5 (metadata audit):** Scanned all 1,122 built pages'
+  `<title>` and meta description. Result was already very clean: 0
+  missing, 0 duplicate descriptions, exactly 1 duplicate title pair --
+  `src/content/resources/forces-and-motion.md` (Cambridge O Level
+  Physics) and `edexcel-igcse-physics-forces-and-motion.md` (Edexcel
+  IGCSE Physics) both used the bare title "Forces and Motion" with no
+  board/qualification prefix, unlike the sitewide convention. Fixed by
+  setting the existing (previously unused anywhere in the repo)
+  `seoTitle` frontmatter field to a board-specific value on each --
+  `title` (used for the on-page heading, breadcrumbs and internal
+  cross-links) is untouched, only the `<title>` tag changes.
+- **Phase 7 (fonts) -- real bug found, not just a performance nit:**
+  Hash-compared every `public/fonts/*.woff2`. Found the Newsreader and
+  Public Sans 500/600-weight files were byte-identical to their
+  respective 400-weight files (Newsreader 400≡500, Public Sans
+  400≡500≡600, both latin and latin-ext subsets) -- meaning `font-weight:
+  500`/`600` in CSS was silently serving regular-weight glyphs. This is
+  a visual defect, not merely a wasted-download one: any UI element
+  styled with those weights was never actually rendering bolder text.
+  Re-fetched the genuine static-weight files individually from Google
+  Fonts (a combined `wght@400;500` query incorrectly returned the same
+  URL for both weights -- fetching each weight in its own request
+  returned correct, distinct URLs) and verified via `fontTools` that
+  each replacement file now reports the correct `OS/2.usWeightClass`
+  (500/600) and is structurally valid, not just byte-different. Also
+  added a `/fonts/*` rule to `public/_headers` (previously absent, so
+  fonts fell back to the default no-cache HTML policy) at a 30-day
+  `Cache-Control`, matching the reasoning already used for `/images/*`.
+  Checked preload usage (`BaseLayout.astro`, `LocaleLayout.astro`):
+  already minimal and correct -- only the two base-weight fonts actually
+  needed for above-the-fold render are preloaded, so no "unnecessary
+  preload" problem existed despite the brief's concern; the real font
+  problem was the duplicate binaries, not preload count.
+- **Phase 10 (structured data):** Validated JSON-LD across all 1,122
+  pages (5,308 typed nodes once `@graph` wrappers are unpacked
+  correctly -- an early version of the check script wrongly flagged
+  every `@graph`-wrapped page as "missing @type" by checking the
+  wrapper object instead of its graph nodes; corrected before trusting
+  the result). Result: 0 invalid JSON, 0 missing `@type`, sensible type
+  distribution (EducationalOrganization, WebSite, WebPage on every
+  page; BreadcrumbList on 979; Article on 727; Course on 167; Person on
+  19; FAQPage on 49). No fixes needed -- structured data is clean.
+- **Known gap, not addressed this round:** Phase 4 (the 8 named GSC
+  priority pages with their exact stats) and the specific 14-item list
+  for Phase 11 were given as literal text in the original brief, which
+  is no longer available verbatim in this session (only a summary of
+  its structure survived context compaction) -- proceeding on those two
+  phases would mean guessing at page identities/query terms/test
+  specifics rather than working from real GSC evidence, which
+  contradicts the brief's own evidence-first method. Flagged to the
+  user rather than fabricated.
+- **Guardrail check:** no redesign; no invented facts (font weight
+  claims verified via fontTools, not assumed); no page's
+  content/structure changed, only metadata and static asset files.
+- **Status:** implemented directly on `main` via
+  `fix/seo-phase-3-5-7-10`, full validation gate green (astro check,
+  validate:academic, build, cross-board-regression, negative-validation-
+  suite, sitemap-noindex safeguard, unit tests, npm audit, tsc --noEmit,
+  wrangler deploy --dry-run).

@@ -15,6 +15,8 @@
     "coverage:academic": "node scripts/academic-coverage-dashboard.mjs",
     "coverage:academic-v2": "node scripts/academic-coverage-report-v2.mjs",
     "check:duplicate-scope": "node scripts/check-duplicate-resource-scope.mjs",
+    "audit:metadata": "node scripts/audit-metadata.mjs",
+    "audit:structured-data": "node scripts/audit-structured-data.mjs",
     "postbuild": "pagefind --site dist --output-subdir pagefind"
   },
   "dependencies": {
