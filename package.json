@@ -17,6 +17,7 @@
     "check:duplicate-scope": "node scripts/check-duplicate-resource-scope.mjs",
     "audit:metadata": "node scripts/audit-metadata.mjs",
     "audit:structured-data": "node scripts/audit-structured-data.mjs",
+    "audit:redirects": "node scripts/audit-redirects.mjs",
     "postbuild": "pagefind --site dist --output-subdir pagefind"
   },
   "dependencies": {

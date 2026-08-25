@@ -1326,3 +1326,65 @@ Status values: `answered` (owner has responded, implemented), `open`
   expansion fully cleared the indexability bar -- audit:metadata,
   audit:structured-data, unit tests [13/13], npm audit [0
   vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).
+
+## D-028 — Phase 6: canonical/redirect audit and _redirects maintainability guard
+
+- **Date:** 2026-08-25.
+- **Workstream:** Aug 2026 SEO remediation, Phase 6.
+- **Context on scope:** the brief's Section 11 gives GSC category counts
+  (385 alternate-canonical, 1 noindex-excluded, 489 crawled-not-indexed,
+  48 discovered-not-indexed) and refers to "the supplied Google Search
+  Console exports," but no actual URL-level export/file was ever
+  provided in this session (only the summary counts survived the
+  compaction that also lost the original brief, before it was
+  re-pasted). Per the brief's own instruction to classify "the full
+  export... where possible," and consistent with this engagement's
+  standing rule to verify real repository/production state rather than
+  guess, this phase proceeded as a repo-derived canonical/redirect
+  health audit covering everything checkable from the actual built
+  site and `_redirects` source of truth, rather than fabricating a
+  385-row classification with no real data behind it.
+- **What was built:** `scripts/audit-redirects.mjs` (new, wired to
+  `npm run audit:redirects`), which reads the built `dist/` output and
+  `public/_redirects` and checks five things: (1) no sitemap URL is
+  also a redirect source; (2) no redirect chains or loops among the
+  967 static rules; (3) every static redirect target resolves to a
+  real built page; (4) no internal link in any built page points at a
+  URL that is itself a redirect source (should link straight to the
+  final destination); (5) no two different built pages emit the same
+  `<link rel="canonical">` href. Also added a `_redirects`
+  maintainability guard inside the same script: Cloudflare Pages caps
+  `_redirects` at 2,000 static + 100 dynamic rules (confirmed via
+  Cloudflare's own docs, matching the ceiling already noted in a code
+  comment in `scripts/generate-redirects.mjs`); the audit now warns at
+  85% of the static ceiling and fails outright at or over it, so
+  future growth can't silently start dropping rules in production with
+  no build-time signal. Current state: 967 static + 1 wildcard rule,
+  well within headroom (~48% of the static budget).
+- **Real findings, fixed:** the audit caught 2 genuine internal links
+  pointing at redirect sources instead of final destinations --
+  `the-basic-economic-problem-practice.md` and
+  `fundamentals-of-accounting-practice.md` both had a hand-written
+  "Related:" link to a pre-consolidation slug (from the Aug 23
+  duplicate-content sweep, D-010) that 301-redirects rather than
+  linking directly to the surviving resource. Both fixed to link
+  straight at the real target
+  (`igcse-economics-basic-problem-revision-notes`,
+  `igcse-accounting-fundamentals-revision-notes`), verified both files
+  exist as real content. Re-running the audit after the fix: 0
+  problems (0 chains, 0 loops, 0 broken redirect targets, 0 sitemap/
+  redirect overlaps, 0 duplicate canonicals, 0 redirect-pointing
+  internal links).
+- **No fixes needed for:** canonicals (generated identically from each
+  page's own `path` prop via `Meta.astro` -- structurally can't
+  diverge or duplicate, confirmed empirically across all 1,122 pages);
+  redirect chains/loops (none exist); broken redirect targets (none).
+- **Guardrail check:** no redesign; every finding traced to the real
+  built site, not assumed; the two link fixes are single-line edits
+  correcting a stale slug reference, nothing else touched.
+- **Status:** implemented on `feature/seo-phase6-redirect-audit`, full
+  validation gate green (astro check, validate:academic, build,
+  cross-board-regression, negative-validation-suite, sitemap-noindex
+  safeguard, audit:metadata, audit:structured-data, audit:redirects,
+  unit tests [13/13], npm audit [0 vulnerabilities], tsc --noEmit,
+  wrangler deploy --dry-run).

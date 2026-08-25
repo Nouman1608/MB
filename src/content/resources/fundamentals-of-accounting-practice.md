@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [The Fundamentals of Accounting revision notes](/resources/fundamentals-of-accounting-revision-notes/)
+Related: [The Fundamentals of Accounting revision notes](/resources/igcse-accounting-fundamentals-revision-notes/)
 
 ---
 
