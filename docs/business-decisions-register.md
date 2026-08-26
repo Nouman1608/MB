@@ -10,6 +10,11 @@ infrastructure decision that only the owner can make. None of these block
 the remaining technical QIGT work (#82, #83); they are tracked here so
 they are visible and actionable rather than silently left open.
 
+**Update (task #82, final validation pass, 2026-08-26):** item 6 below
+(www.marlbridge.com) was re-checked live and found to have resolved itself
+since it was first flagged — it no longer needs owner action. Items 1-5
+remain genuinely open and require the owner's input.
+
 Per the programme's own ground rules, no answer has been invented or
 guessed for any of these — the current site simply does not state a
 position on them, and none should be assumed.
@@ -76,22 +81,25 @@ registration fee applies.
 payment methods, and are there any fees beyond the published per-subject
 rate?
 
-## 6. www.marlbridge.com does not resolve (DNS/CDN configuration)
+## 6. www.marlbridge.com — minor recommendation only (re-verified fixed since D-033)
 
-**Where it surfaces:** first identified in D-010 (2026-08-23), reconfirmed
-unchanged in D-033 (QIGT indexing workstream, 2026-08-26).
-`https://www.marlbridge.com/` currently times out rather than redirecting
-to the canonical `https://marlbridge.com/`. This is not a code-level
-defect — every page already carries a correct self-referencing canonical
-tag, so Google is not at risk of indexing it as a duplicate — but it is a
-real-world dead end for anyone who types "www." out of habit, and it sits
-entirely outside this repository, in Cloudflare's DNS/dashboard
-configuration.
+**Where it surfaces:** D-010 (2026-08-23) and D-033 (QIGT indexing
+workstream, earlier on 2026-08-26) both found `https://www.marlbridge.com/`
+timing out rather than resolving. Re-checked live during the final QIGT
+validation pass (task #82, later on 2026-08-26): `www.marlbridge.com` now
+resolves correctly, returns HTTP 200, serves byte-identical content to the
+bare domain, and carries a correct self-referencing canonical tag pointing
+at `https://marlbridge.com/` — the same safe dual-hostname pattern already
+verified for the apex/`https`/`http` variants in D-010. Whatever caused the
+earlier timeout (DNS propagation, or a Cloudflare-side change) has since
+resolved itself; this is no longer a broken or dead-end state, and no owner
+action is required to fix anything.
 
-**Action needed from the owner:** add a DNS record (or Cloudflare Page
-Rule / redirect rule) so `www.marlbridge.com` 301-redirects to
-`https://marlbridge.com/`, matching what the canonical tags already
-assume is true.
+**Optional, non-blocking recommendation:** for tidiness (not correctness),
+the owner could add a Cloudflare redirect rule so `www.marlbridge.com`
+301s to `https://marlbridge.com/` instead of serving the same page twice —
+purely cosmetic, since the canonical tag already tells Google which URL is
+authoritative.
 
 ---
 
