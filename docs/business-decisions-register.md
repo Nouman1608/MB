@@ -148,6 +148,8 @@ authoritative.
   board coverage isn't recorded, since the source page doesn't break it
   down) is a data-completeness note, not an open business question.
 - The `/resources/` index page's performance issue (Performance 71, TBT
-  1,370ms, from rendering all 731 cards unfiltered — D-039) is a
-  technical/engineering follow-up, not a business decision, and is
-  tracked as a recommendation in the final QIGT report (#83) instead.
+  1,370ms, from rendering all 731 cards unfiltered — D-039) was a
+  technical/engineering follow-up, not a business decision. It has since
+  been fixed (D-044, 2026-08-26): Performance is now 97 (TBT 50ms),
+  Accessibility remains 100, and a full filter-functionality regression
+  test confirms the existing subject/level filters still work correctly.

@@ -187,6 +187,39 @@ const levelsByType = Object.fromEntries(
   </Section>
 </PageLayout>
 
+<style>
+  /*
+   * Perf follow-up to the QIGT programme's performance/accessibility pass
+   * (docs/decision-log.md D-039, documented as a recommendation rather
+   * than fixed same-session; implemented here as D-044).
+   *
+   * This page renders every published resource card for every subject
+   * up front (up to ~257 cards in one type section), with client-side
+   * filtering toggling `hidden` on cards/groups -- real, measured cost:
+   * ~5,200 DOM nodes and 3.7s of style/layout work on first paint
+   * (Lighthouse `mainthread-work-breakdown`), because the browser lays
+   * out every subject group even though most start off-screen.
+   *
+   * `content-visibility: auto` tells the browser to skip layout, paint
+   * and (where possible) style work for a subject group until it is
+   * near the viewport -- a CSS-only, backward-compatible hint (ignored
+   * harmlessly in browsers that don't support it; supported in all
+   * evergreen browsers as of this fix) recommended by the Chrome/web.dev
+   * team specifically for long card lists like this one. It changes
+   * nothing about the DOM structure, the filter script below, or what
+   * search engines and Pagefind read from the built HTML -- only when
+   * the browser bothers to lay a group out. `contain-intrinsic-size`
+   * gives the browser a placeholder height for an unmeasured group so
+   * the page doesn't jump as groups come into view; browsers remember
+   * each group's real size once it has been laid out once, via the
+   * `auto` keyword.
+   */
+  [data-subject-group] {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 600px;
+  }
+</style>
+
 <script>
   // v1.x CLOSURE follow-up -- client-side subject/level filtering per
   // resource-type section. No framework: same inline-script convention

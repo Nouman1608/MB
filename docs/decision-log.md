@@ -2198,3 +2198,54 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `feature/qigt-business-decisions-answered`, full validation gate
   green (build, astro check, `validate:academic`, `audit:all`, negative-validation-suite [11/11],
   `tsc --noEmit`, `wrangler deploy --dry-run`).
+
+## D-044 — /resources/ index page performance fix + regression testing
+
+- **Date:** 2026-08-26.
+- **Workstream:** post-QIGT follow-up, at the owner's direct request ("after that you can do the
+  regression testing as suggested"), closing out the one performance issue D-039 deliberately
+  left as a documented recommendation rather than a same-session fix.
+- **The problem (recap from D-039):** `/resources/` renders every published resource card for
+  every subject into the DOM up front (up to 257 cards in the largest type section), with
+  client-side filtering toggling the `hidden` attribute rather than removing/adding elements.
+  Measured cost: Performance 71, Total Blocking Time 1,370ms, ~5,200 DOM nodes, 3.7s of
+  style-and-layout work on first paint (`mainthread-work-breakdown`).
+- **Fix chosen:** `content-visibility: auto` (with a `contain-intrinsic-size` placeholder) applied
+  to each `[data-subject-group]` block via a scoped `<style>` block in
+  `src/pages/resources/index.astro`. This tells the browser to skip layout/paint work for a
+  subject group until it is near the viewport -- a CSS-only, additive hint (harmlessly ignored in
+  browsers that don't support it; supported in all evergreen browsers) specifically recommended
+  by the Chrome/web.dev team for exactly this "long list of cards" scenario, and explicitly
+  documented as compatible with search-engine indexing (the built static HTML is unchanged --
+  Pagefind and crawlers read the full markup regardless of this CSS property). Deliberately not
+  the riskier alternatives considered in D-039 (pagination, JS virtualization, lazy DOM
+  insertion) -- those would have meant restructuring the existing, working, tested filter script;
+  this fix changes zero JavaScript, zero DOM structure, and zero filter behaviour.
+- **Regression testing performed (not assumed):**
+  - Full validation gate re-run clean: build, `astro check` (0/0/0), `validate:academic` (all 6
+    validators), `audit:all` (all 6 checks + sitemap-noindex), `npx tsc --noEmit`, `npm audit` (0
+    vulnerabilities), `wrangler deploy --dry-run`, negative-validation-suite (11/11).
+  - A dedicated Playwright functional test (`/tmp/pwtest/test-filters.mjs`, not committed --
+    scratch verification, not a permanent project fixture) drove a real headless browser against
+    the built preview site and confirmed, on the 257-card Mathematics/study-guides section:
+    initial state shows all 23 subject groups and 257 cards; selecting a subject narrows to
+    exactly 1 visible group matching that subject; the "Clear filters" button appears once
+    filtered and correctly restores all groups on click; selecting a level hides non-matching
+    cards and every still-visible card actually has that level; `content-visibility: auto` is
+    confirmed applied via `getComputedStyle`; and the last (previously most implicitly
+    deprioritized) subject group has real, nonzero rendered height once scrolled into view,
+    confirming `content-visibility` does not silently drop or corrupt content -- 12/12 checks
+    passed.
+  - Fresh Lighthouse mobile runs against the local preview build: **Performance 71 -> 97**,
+    **Total Blocking Time 1,370ms -> 50ms**, **mainthread-work-breakdown 3.7s -> 1.1s**, CLS
+    stayed at 0 (confirming the `contain-intrinsic-size` placeholder didn't introduce layout
+    shift), LCP/FCP/Speed Index unchanged or slightly improved. Accessibility re-confirmed at
+    100/100 (unchanged from D-039 -- this fix touched no color, markup semantics, or focus
+    order).
+- **Guardrail check:** no JavaScript changed, no DOM structure changed, no filter behaviour
+  changed (proven by the Playwright test, not assumed), no content removed from the built HTML
+  (Pagefind/crawlers see the same markup as before); the fix is a single, scoped, additive CSS
+  rule.
+- **Status:** implemented on `feature/qigt-resources-performance`, full validation gate green,
+  functional regression test 12/12 passed, before/after Lighthouse confirms the fix. This closes
+  the one outstanding recommendation from the QIGT final report (D-042).
