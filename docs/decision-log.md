@@ -965,3 +965,202 @@ Status values: `answered` (owner has responded, implemented), `open`
   would need to change.
 - **Status:** implemented on `feature/header-free-trial-button`; not yet
   merged to `main`.
+
+## D-023 — Canonical academic-page indexability policy (isIndexableAcademicPage)
+
+- **Date:** 2026-08-25.
+- **Workstream:** Aug 2026 technical-SEO remediation brief (external, user-
+  supplied) -- Phase 1 (canonical indexability policy) + Phase 2 (sitemap/
+  robots alignment). First of ~12 phases in that brief; the rest remain
+  pending (see Task list #61-70).
+- **Baseline evidence gathered before any change (see full session for
+  detail):** `npm run validate:academic` reports 160 ACTIVE combinations
+  (not the 139 stated in the brief -- that number is stale, predating
+  substantial resource-content work in earlier sessions).
+  `coverage:academic-v2` reports 160/160 combinations with at least one
+  resource -- i.e. zero true zero-resource combinations currently exist,
+  contradicting the brief's "117 zero-resource combinations" claim.
+  However, the underlying architectural problem the brief describes is
+  real: the existing `isThin` guard in the page template
+  (`resources.length === 0 && !hasSyllabusTopics`) treated ANY resource
+  count >= 1 as sufficient for indexing, with no quality/substance bar.
+  39 of 160 ACTIVE combinations have exactly one resource, and the IB
+  subject-guide overviews written in an earlier session (Task #24) are
+  ~200-300 words each -- exactly the kind of thin single-resource page
+  the old guard let through. Only 1 page (404.html) rendered noindex on
+  the pre-change production build.
+- **Final decision:** Replaced the ad-hoc `isThin` boolean with a single
+  canonical, reusable decision function, `isIndexableAcademicPage()` in
+  `src/utils/seo/indexability.ts`. It sums word counts across a
+  combination's *original Marlbridge-authored* resources only
+  (study-guides, revision-notes, subject-guides, practice-questions,
+  exam-preparation -- explicitly excluding past-papers, since those are
+  official third-party material, not original writing) and requires >=400
+  total words to count as indexable. The 400-word figure is not new --
+  it's the same "expansion queue" threshold already used by
+  `scripts/academic-coverage-report-v2.mjs`, reused here so "indexable"
+  and "not flagged for expansion" describe the same quality bar sitewide.
+  A combination with real syllabus topics but no substantial resource is
+  still NOT indexable -- syllabus-topics-alone was exactly the old
+  loophole.
+- **Why one function, two callers:** astro:content (needed to read
+  resource bodies) isn't available inside `astro.config.mjs` -- Astro's
+  config file runs before the content layer exists. So
+  `isIndexableAcademicPage()` itself is framework-free (plain input/output,
+  no astro:content import), and each caller adapts its own data source to
+  the same shape: the page template
+  (`src/pages/boards/[board]/[qualification]/[subject].astro`) via
+  `getResources()`, and a new `buildIndexabilityExclusions()` in
+  `astro.config.mjs` via direct frontmatter reads off disk (same pattern
+  already used there by `buildLastmodMap()`). Both compute the exact same
+  decision from equivalent inputs, so sitemap inclusion and the page's own
+  robots meta cannot drift apart. `LEVEL_FOR_QUALIFICATION` (previously a
+  private constant inside the page template) was promoted to a shared
+  export in `src/utils/academic/index.ts` for the same reason -- both
+  callers need the qualification-slug -> resource-level mapping, and a
+  second private copy in `astro.config.mjs` would have been exactly the
+  kind of drift this change exists to prevent.
+- **Sitemap change:** `astro.config.mjs`'s `sitemap()` filter now excludes
+  any academic hub path `isIndexableAcademicPage()` marks non-indexable,
+  in addition to the pre-existing `/styleguide` exclusion.
+- **New automated safeguard:** `scripts/test-sitemap-noindex.mjs` --
+  reads the *built* `dist/sitemap-*.xml` and, for every URL listed, reads
+  the corresponding `dist/**/index.html` and fails if it renders a
+  `noindex` robots meta tag. This does not re-derive or duplicate the
+  indexability rule; it cross-checks two independently-generated build
+  outputs (the sitemap filter and each page's own render) for agreement,
+  which also catches future drift even if a later change touches only one
+  side. Verified the test actually catches regressions: temporarily
+  disabled the sitemap exclusion, rebuilt, confirmed the test correctly
+  failed and named all 27 affected URLs, then restored and reconfirmed a
+  clean pass. `scripts/test-negative-validation-suite.mjs`'s section [H]
+  (previously a stale comment claiming "0 noindex tags" as the expected
+  state) was corrected to point at this real test and explain that 27
+  noindexed pages is the new, correct state.
+- **Measured effect on the current build:** 27 academic hub pages moved
+  from indexed to `noindex, follow` (still served, still linked, just
+  withheld from search results): 5 English Literature hubs (aqa a-level +
+  gcse, edexcel a-level + igcse, oxfordaqa a-level + igcse -- 6 total),
+  2 more (aqa as-level Business, aqa gcse World History), and 19 of the 20
+  IB hubs (ib-dp and ib-myp), whose subject-guide resources are ~200-300
+  words each and have not yet been expanded. Total built page count
+  unchanged (1122); sitemap URL count dropped from (previously
+  unmeasured/unfiltered) to 1094, exactly matching 1122 minus the 27
+  newly-noindexed pages minus 404.html (which the sitemap integration
+  already excluded by default) -- confirms sitemap and robots meta are
+  now in exact agreement.
+- **Guardrail check:** does not delete or restructure any board,
+  qualification or subject; does not touch `marlbridgeTeaches`; does not
+  invent content; a noindexed page still renders and is still linked
+  internally (`noindex, follow`), so link equity still flows and a human
+  who lands on one still gets an honest page.
+- **Follow-up required:** The 19 newly-noindexed IB hubs are a direct,
+  visible cost of this change and the clearest concrete target for future
+  content work -- expanding those subject-guide resources past 400 words
+  (or adding a second qualifying resource) is the fastest way to earn
+  those pages back into the index under the new, honest bar. Left for a
+  future phase/session rather than done reflexively here, since writing
+  substantial original IB content for 19 subjects properly belongs to the
+  brief's later content-cluster phases (#70), not this policy-mechanics
+  phase.
+- **Status:** implemented on `feature/seo-indexability-policy`, full
+  validation gate green (astro check, validate:academic, build, cross-
+  board-regression, negative-validation-suite, unit tests, npm audit, tsc
+  --noEmit, wrangler deploy --dry-run); not yet merged to `main`.
+
+## D-024 — 27 pages expanded past the indexability bar instead of staying noindexed
+
+- **Date:** 2026-08-25.
+- **Workstream:** Follow-up to D-023, same feature branch. User reviewed
+  the 27-page noindex impact from D-023, asked why noindexing was
+  necessary rather than adding content, and -- after being told 7 pages
+  needed only small, already-verifiable additions while 19 IB pages
+  needed real per-subject research -- chose to do all 27 now rather than
+  defer the IB ones.
+- **Real bug found and fixed along the way:** `LEVEL_FOR_QUALIFICATION`
+  (utils/academic/index.ts) had no entry for `as-level` qualifications.
+  AQA AS Business (the matrix's only `as-level` row) could therefore
+  never match a resource by `level`, regardless of content -- a
+  structural gap independent of word count. Added `'as-level':
+  'a-levels'`, matching how AS-stage content is already tagged elsewhere
+  (`level: ["a-levels"]` + `stage: "AS"`, e.g. the existing 9701 pattern).
+  This single fix retroactively surfaced 3 pre-existing, substantial
+  resources (2,433 words combined) that were already written and tagged
+  correctly but structurally invisible on this page.
+
+## D-048 — v1.x Closure WS9: fresh review of the 12 duplicate-scope warnings
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, Workstream 9.
+- **Task:** `npm run check:duplicate-scope` flags resource pairs that declare an identical
+  official syllabus scope (subject/boards/qualifications/stage/resourceType/syllabusTopics),
+  without judging whether the underlying content is actually duplicated -- that judgement
+  requires reading prose, which only a human/agent can do. A prior audit (2026-08-23, D-010)
+  had reviewed these same 12 groups and left all 12 alone as legitimately different content.
+  This release requires a **fresh** review, not inherited from that note -- so every one of the
+  12 was re-read from scratch on 2026-08-26, evidence recorded independently of the prior finding.
+- **Result of the fresh review:**
+  - **10 of 12 groups confirmed genuinely different content**, each with specific evidence now
+    recorded in `REVIEWED_LEGITIMATE` inside `scripts/check-duplicate-resource-scope.mjs` itself
+    (kept next to the code so it can't drift from what the checker actually enforces): 2 English
+    A Level Language groups (Paper 1 Reading -- discourse/register analysis vs language
+    change/child acquisition; and toolkit vs exam-mechanics revision notes), 1 Law A Level
+    practice-questions group (courts/judiciary/juries/personnel vs sources/procedure/ADR/
+    sentencing), 5 Physics O Level groups (elastic deformation/moments vs Newton's laws/motion;
+    energy resources/efficiency vs energy/work/power, ×3 resource types; forces-and-motion vs
+    moments-and-stability, ×2 resource types), 1 Sociology IGCSE practice-questions group
+    (methods+inequality blend vs a pure methods deep-dive). No shared question, answer, or
+    substantial passage was found in any of these 10 pairs.
+  - **2 of 12 groups were real duplicates** -- both are Law and Sociology **revision-notes**
+    pairs. In both cases the two files independently condensed the exact same underlying
+    study-guide resource (both explicitly link to it as "the full explanation" for the
+    condensed notes) on separate content-generation passes, and their core sections read as the
+    same material restated in different formatting -- e.g. the Law pair both explained the same
+    four statutory-interpretation rules with the same three Latin language-rule maxims and the
+    same distinguishing/overruling/reversing precedent trio; the Sociology pair both explained
+    the same methods-comparison table (questionnaire/structured interview/unstructured
+    interview/participant observation/official statistics) with matching strengths/weaknesses
+    and the same reliability/validity/representativeness definitions. This is exactly the
+    failure mode `check-duplicate-resource-scope.mjs` exists to catch, not a false positive.
+- **Fix applied to both real duplicates -- merge, not delete-and-forget:**
+  - `a-law-english-legal-system-revision-notes.md` kept as canonical (matches its own
+    practice-questions sibling's naming convention); its only gap versus the retired file (a
+    "The legislative process" section) merged in; description and self-test updated accordingly.
+    `law-english-legal-system-revision-notes.md` retired.
+  - `igcse-sociology-methods-inequality-revision-notes.md` kept as canonical (same naming-
+    convention reasoning); its only gap versus the retired file (a "Perspectives in one line
+    each" section -- functionalism/Marxism/feminism/interactionism, not covered anywhere in the
+    canonical file) merged in; description, exam traps and self-test updated to match.
+    `sociology-research-methods-revision-notes.md` retired. Frontmatter identity fields
+    (`topic`, `syllabusSeries`, `syllabusTopics`) were preserved exactly as in the pre-existing
+    canonical file in both merges -- only `description` and body content changed.
+  - Both retired files: 301-redirected (flat URL + all 7 type-prefixed URL variants) to their
+    surviving canonical resource via `CONSOLIDATED_RESOURCES` in `scripts/generate-redirects.mjs`.
+  - Both practice-questions siblings whose "Related:" link pointed at a retired file
+    (`law-english-legal-system-practice.md`, `sociology-research-methods-practice.md`) updated
+    to link the surviving canonical resource directly, rather than relying on the redirect.
+- **Checker made a real gate, not advisory:** `check-duplicate-resource-scope.mjs` rewritten so
+  any group NOT present in its own `REVIEWED_LEGITIMATE` list fails the build (exit 1) --
+  previously it always exited 0 and was not wired into `validate:academic` at all. Now wired
+  into `npm run validate:academic` (last step in the chain), so a future weekly-automation run
+  that reintroduces an unreviewed same-scope pair fails CI, not just prints a warning someone
+  has to notice. `--only-involving` mode (used by the weekly automation itself, which cannot
+  edit the allowlist) stays informational (always exits 0) since failing an automation run that
+  has no way to resolve the finding would just block content publication with no path forward.
+- **Regression fixtures added** (`scripts/test-negative-validation-suite.mjs`, categories [J] and
+  [K], 13 cases total, up from 11): [J] mutates `momentum.md`'s `syllabusTopics` to collide with
+  `kinematics.md` (two real O Level Physics study-guides not currently in any group) and asserts
+  the checker fails the build on this brand-new, not-yet-reviewed group; [K] asserts the checker
+  still exits 0 cleanly across all 10 currently allow-listed groups, so a future edit that
+  silently desyncs `REVIEWED_LEGITIMATE` from the actual resource files is itself caught.
+- **Verification:** `npm run check:duplicate-scope` now reports exactly 10 reviewed groups with
+  evidence and exits 0; `npm run validate:academic` (with the checker now included) passes end
+  to end; `npm run build`, `npm run audit:all` (metadata/structured-data/redirects/internal-
+  links/content-integrity/fonts/sitemap-noindex), and `npm run test:negative-validation-suite`
+  equivalent (`node scripts/test-negative-validation-suite.mjs`, 13/13) all pass with zero
+  broken links and zero orphan pages after the merge; `npm audit` reports 0 vulnerabilities.
+- **Status:** all 12 warnings individually classified with recorded evidence; both genuine
+  defects fixed (merged, redirected, links updated); the 10 legitimate groups allow-listed with
+  evidence, not merely re-asserted from the prior note; the checker now fails the build on any
+  future unreviewed group; regression fixtures prove both the fail-path and the allow-listed
+  pass-path.
