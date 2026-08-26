@@ -1652,3 +1652,64 @@ Status values: `answered` (owner has responded, implemented), `open`
   negative-validation-suite [11/11], `npm run audit:all`, unit tests
   [13/13], npm audit [0 vulnerabilities], tsc --noEmit, wrangler deploy
   --dry-run).
+
+## D-033 — QIGT Section 4: indexing-efficiency audit + /search/ noindex fix
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, Section 4 (Indexing efficiency).
+- **Scope note:** the brief's GSC baseline (501/923/385/489/48/1) comes
+  from an export not re-available this session and predates the entire
+  preceding SEO remediation programme (D-023 through D-031). Rather than
+  force a stale reconciliation, verified the CURRENT technical state
+  directly -- full itemised results in
+  `docs/reports/qigt-indexing-workstream-2026-08-26.md`.
+- **Real gap found and fixed:** `/search/` (the Pagefind results page)
+  was indexable despite having no fixed content of its own -- results
+  render entirely client-side into a container no crawler populates.
+  Added `noindex={true}` to `src/pages/search/index.astro` and excluded
+  `/search/` from the sitemap in `astro.config.mjs`. Deliberately made
+  the page-level fix first and ran `test-sitemap-noindex.mjs` before the
+  sitemap-side fix -- it correctly failed ("in the sitemap but its own
+  page renders a noindex robots meta tag"), real proof the safeguard
+  built in the prior programme (D-023/D-024) actually catches drift
+  rather than just existing.
+- **Everything else checked came back clean, not re-implemented:**
+  self-canonicals (structurally guaranteed by `Meta.astro`), HTTP→HTTPS
+  redirect (verified live), trailing-slash consistency
+  (`trailingSlash: 'always'`), no redirected/noindexed/chained/looped
+  URLs in the sitemap (already enforced by `audit-redirects.mjs` and
+  `test-sitemap-noindex.mjs` from the prior programme), robots.txt
+  access, sitemap-index validity, query-parameter indexability (the
+  `/resources/` filters are client-side DOM filtering, no URL params
+  generated), locale hreflang/canonicals (verified against the existing
+  i18n architecture, no change needed).
+- **www/non-www finding, explicitly NOT fixed here:** `www.marlbridge.com`
+  does not resolve at all (times out), rather than redirecting to the
+  bare domain. This is a DNS/Cloudflare-dashboard setting outside this
+  repository -- recorded as an infrastructure recommendation, not
+  silently left unmentioned, and not attempted without dashboard access
+  being explicitly requested.
+- **Redirect-inventory audit:** reviewed every redirect-generation
+  category in `scripts/generate-redirects.mjs` against its own
+  documented rationale; found no synthetic, never-public, speculative
+  redirect -- every rule traces to a genuinely-was-live URL shape
+  (flattened resource type-prefixed paths, the `/learning/` → `/articles/`
+  rename, or a named, dated, decision-logged content consolidation). No
+  redirects removed.
+- **Page-uniqueness / crawled-not-indexed risk:** the templates most
+  likely responsible for that GSC category (thin academic hub pages)
+  were the direct subject of the immediately preceding SEO programme;
+  re-verified 0 remain below the substantial-original-guidance bar
+  (`audit-content-integrity.mjs`, 160/160 checked, 0 problems). No
+  further consolidation identified as necessary without a fresh,
+  URL-level GSC export to confirm which specific pages are still
+  affected.
+- **Guardrail check:** no canonical URL changed; the one fix made
+  (`/search/` noindex) does not remove or hide the page from users, only
+  from search indexing, and is the standard, widely-recommended
+  treatment for a client-rendered internal search page.
+- **Status:** implemented on `feature/qigt-indexing-repairs`, full
+  validation gate green (astro check, validate:academic, build,
+  cross-board-regression, negative-validation-suite [11/11],
+  `npm run audit:all`, unit tests [13/13], npm audit [0 vulnerabilities],
+  tsc --noEmit, wrangler deploy --dry-run).

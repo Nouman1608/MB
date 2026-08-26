@@ -15,7 +15,15 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 ---
-<BaseLayout title="Search" description="Search Marlbridge for boards, qualifications, subjects, resources and articles." path="/search/">
+{/**
+ * QIGT programme -- noindex this page. It has no fixed unique content of
+ * its own (Pagefind renders results entirely client-side into an empty
+ * div a crawler never populates), so indexing it would only ever surface
+ * an empty results shell -- exactly the "search/utility page indexability"
+ * problem Section 4 of the brief calls out. The page itself stays fully
+ * usable for real visitors; it is simply excluded from search results.
+ */}
+<BaseLayout title="Search" description="Search Marlbridge for boards, qualifications, subjects, resources and articles." path="/search/" noindex={true}>
   <Section>
     <Container>
       <h1 class="m-0 mb-6 text-[28px] font-semibold text-navy-900">Search Marlbridge</h1>
