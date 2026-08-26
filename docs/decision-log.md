@@ -2119,3 +2119,37 @@ Status values: `answered` (owner has responded, implemented), `open`
   without re-verification.
 - **Status:** full validation gate green on `main` at commit `e870812`; before/after comparison
   complete; one register item corrected based on fresh live evidence.
+
+## D-042 — Deployment verification + final evidence-based report (programme close-out)
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, task #83 (final task).
+- **Deployment verification:** rather than assume the auto-deploy pipeline (push to `main` ->
+  Cloudflare Pages) succeeded, fetched a representative sample of production URLs live and
+  checked each against the specific fix it is meant to demonstrate: `/pricing/` (no duplicated
+  currency codes), `/about/` (old blanket review claim absent), `/legal/terms/` (schools carve-out
+  live, dated), `/trial/` (new structured form live), `/search/` (serves `noindex, follow` and is
+  absent from the live production sitemap -- 0 of 1,130 `<loc>` entries in `sitemap-0.xml` match
+  "search", 1 matches "trial"), the homepage/`/resources/` footer nav (Past Papers/Exam
+  Preparation absent, Practice Questions present, `data-pagefind-body` present), `/llms.txt` (no
+  false past-papers claim), a resource page (`data-pagefind-filter` attributes and the
+  link-underline fix both live), `/subjects/accounting/` (corrected label live), the compiled CSS
+  bundle (`--color-gold-600:#7a5e10`, `--color-on-navy-mute:#9fadc2`, confirming the accessibility
+  fix values are exactly what shipped), `robots.txt`, and HSTS headers on both `marlbridge.com`
+  and `www.marlbridge.com`. Every check passed against the live site.
+- **Final report:** `docs/reports/qigt-final-report-2026-08-26.docx` -- a 15-section report
+  (executive summary; scope/method/ground rules; baseline; one section per workstream D-032
+  through D-039; business decisions requiring owner input; full validation gate + before/after
+  comparison; deployment verification; guardrails held/deliberately not changed; closing summary
+  and recommendations) written for the owner, covering every real finding and fix from this
+  programme with no invented facts. Rendered to PDF and visually reviewed page-by-page before
+  delivery to confirm correct formatting (headings, tables, page breaks) rather than trusting the
+  generation script alone.
+- **Guardrail check:** the report states only what was directly verified this programme (repeating
+  the specific evidence -- measured contrast ratios, real diff counts, live HTTP checks -- rather
+  than summarising claims from earlier reports without re-confirmation); the one correction found
+  mid-programme (the `www.marlbridge.com` DNS finding resolving itself) is stated plainly as a
+  correction, not silently smoothed over.
+- **Status:** implemented on `feature/qigt-final-report`, deployment independently re-verified
+  live in production, report delivered. This is the final entry of the QIGT programme (D-032
+  through D-042); task #83 and the full QIGT task list are now complete.
