@@ -23,7 +23,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [The English Legal System revision notes](/resources/law-english-legal-system-revision-notes/)
+Related: [The English Legal System revision notes](/resources/a-law-english-legal-system-revision-notes/)
 
 ---
 

@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Research Methods revision notes](/resources/sociology-research-methods-revision-notes/)
+Related: [Research Methods revision notes](/resources/igcse-sociology-methods-inequality-revision-notes/)
 
 ---
 

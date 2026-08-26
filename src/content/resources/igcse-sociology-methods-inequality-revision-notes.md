@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-research-methods-identity-inequality-0495"
-description: "Condensed recall notes on research methods, socialisation, identity, and social class, gender and ethnic inequality for Cambridge IGCSE Sociology 0495."
+description: "Condensed recall notes on research methods, sociological perspectives, socialisation, identity, and social class, gender and ethnic inequality for Cambridge IGCSE Sociology 0495."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -43,11 +43,18 @@ Condensed for the final weeks. For the full explanation, use the
 | **Experiment** | Controlled, identifies cause | Artificial, low ecological validity |
 | **Official statistics** | Cheap, large-scale, comparable over time | Socially constructed, may not measure what the researcher wants |
 
-**Sampling:** random, systematic, stratified, quota, snowball (for hidden populations such as drug users), opportunity. A **sampling frame** is the list from which a sample is drawn — its absence often forces a non-random method.
+**Sampling:** random, systematic (every nth), stratified (proportional by group), quota, snowball (for hidden or hard-to-reach populations, such as drug users or the homeless), opportunity. A **sampling frame** is the list from which a sample is drawn — its absence often forces a non-random method. A larger sample reduces **sampling error** but does **not** remove **bias** — a biased method stays biased at any size.
 
 **Ethics:** informed consent, confidentiality, protection from harm, no deception, right to withdraw. Covert observation breaches consent and involves deception, which is why it is defended only when overt research would be impossible.
 
 **A pilot study** tests the method on a small scale first, so problems with wording, timing or procedure can be fixed before the main study.
+
+## Perspectives in one line each
+
+- **Functionalism** — institutions work together for stability through shared values.
+- **Marxism** — society shaped by class conflict over economic resources.
+- **Feminism** — society is patriarchal, organised in men's interests.
+- **Interactionism** — society built from the meanings people give situations.
 
 ## Culture, identity and socialisation
 
@@ -55,6 +62,7 @@ Condensed for the final weeks. For the full explanation, use the
 - **Norms** — expected rules of behaviour in a situation. **Values** — beliefs about what is important.
 - **Primary socialisation** — the family, in early childhood. **Secondary socialisation** — school, peers, media, religion, workplace.
 - **Sanctions** — positive (reward) or negative (punishment); formal (written rules) or informal (a look, exclusion).
+- **Social control** — **formal** (laws, police, courts) and **informal** (disapproval, ridicule, exclusion).
 
 **Nature versus nurture:** the sociological case rests on cross-cultural variation and on feral children cases, both of which show that behaviour taken to be natural is in fact learnt.
 
@@ -79,19 +87,22 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Exam traps
 
-- Confusing reliability with validity.
+- Reliability and validity are **not** synonyms — the most penalised confusion in this subject.
 - Confusing absolute with relative poverty.
 - Confusing ascribed with achieved status.
+- Functionalism and Marxism are **structural** (macro) perspectives, not micro.
 - Evaluating a method in the abstract instead of for the specific research topic.
+- Don't say a bigger sample removes bias.
 - Confusing intergenerational with intragenerational mobility.
 - Giving only one side — evaluation questions need strengths, weaknesses and a judgement.
 
 ## Self-test
 
 1. Distinguish reliability from validity, and say which methods favour each.
-2. What is a pilot study for?
-3. Distinguish absolute from relative poverty.
-4. Distinguish intergenerational from intragenerational mobility.
-5. Explain the cycle of deprivation.
+2. Which method best suits studying a secretive or hard-to-reach group, and why?
+3. What is a pilot study for?
+4. Distinguish absolute from relative poverty.
+5. Distinguish intergenerational from intragenerational mobility.
+6. Explain the cycle of deprivation.
 
-**Answers:** 1. Reliability means repeating the study would give the same result — favoured by quantitative methods; validity means it gives a true picture — favoured by qualitative methods. 2. To test the method on a small scale so that problems with wording, timing or procedure can be corrected before the main study. 3. Absolute poverty is lacking the basic necessities for survival; relative poverty is falling below the standard of living considered acceptable within that particular society. 4. Intergenerational mobility compares a person's class position with their parents'; intragenerational compares positions within a single person's own working life. 5. Poor housing and diet lead to poor health and educational underachievement, which lead to low-paid or insecure work, which reproduces poverty in the next generation.
+**Answers:** 1. Reliability means repeating the study would give the same result — favoured by quantitative methods; validity means it gives a true picture — favoured by qualitative methods. 2. Participant observation, combined with snowball sampling — access and trust are needed to reach the group, and observation gives valid insight into their meanings, though the results are not reliable or representative. 3. To test the method on a small scale so that problems with wording, timing or procedure can be corrected before the main study. 4. Absolute poverty is lacking the basic necessities for survival; relative poverty is falling below the standard of living considered acceptable within that particular society. 5. Intergenerational mobility compares a person's class position with their parents'; intragenerational compares positions within a single person's own working life. 6. Poor housing and diet lead to poor health and educational underachievement, which lead to low-paid or insecure work, which reproduces poverty in the next generation.

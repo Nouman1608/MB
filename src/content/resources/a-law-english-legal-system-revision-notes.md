@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "english-legal-system-9084"
-description: "Condensed recall notes on sources of law, precedent, statutory interpretation, the courts and legal personnel for Cambridge AS & A Level Law 9084."
+description: "Condensed recall notes on sources of law, the legislative process, precedent, statutory interpretation, the courts and legal personnel for Cambridge AS & A Level Law 9084."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -33,6 +33,22 @@ Condensed for the final weeks. For the full explanation, use the
 | **Custom** | Very rare in modern law |
 
 **Parliamentary sovereignty** means Parliament can make or unmake any law, no Parliament can bind its successors, and no other body can override an Act. Where statute and case law conflict, **statute prevails**.
+
+## The legislative process
+
+```
+First Reading    name and aims read; no debate
+Second Reading   main debate on principles; vote
+Committee Stage  clause-by-clause, 16-50 MPs
+Report Stage     amendments reported back
+Third Reading    final vote
+Other House      whole process repeats
+Royal Assent     becomes an Act
+```
+
+The Lords may **delay** but not permanently block; the Parliament Acts allow a Bill to proceed without them.
+
+**Delegated legislation** is made under authority granted by Parliament, not by Parliament itself, and is subject to two controls: **parliamentary** (affirmative or negative resolution, and scrutiny committees) and **judicial** (judicial review, where a court may strike it down as *ultra vires* or unreasonable).
 
 ## Judicial precedent
 
@@ -71,7 +87,7 @@ Distinguishing is the everyday technique; the other two are comparatively rare.
 - **Intrinsic** — within the Act: long and short title, preamble, definition sections, headings, schedules.
 - **Extrinsic** — outside: dictionaries, previous statutes, Law Commission reports, and *Hansard* (permitted since *Pepper v Hart*, within limits).
 
-**Rules of language:** *ejusdem generis* (general words following a list are limited to that class), *expressio unius est exclusio alterius* (expressing one excludes others), *noscitur a sociis* (a word is known by the company it keeps).
+**Rules of language:** *ejusdem generis* (general words following a list are limited to that class — e.g. a ban on "cars, vans, lorries and other vehicles" arguably excludes a bicycle, since "other vehicles" takes its meaning from the motorised examples listed), *expressio unius est exclusio alterius* (expressing one excludes others), *noscitur a sociis* (a word is known by the company it keeps).
 
 The trade-off: the literal rule respects parliamentary sovereignty but can defeat Parliament's evident intention; the purposive approach achieves justice but risks judges legislating.
 
@@ -105,6 +121,7 @@ The **High Court** has three divisions: King's Bench, Chancery, Family.
 - Saying judges "make law" without acknowledging the constitutional objection.
 - Omitting evaluation when the question asks for it.
 - Not citing case names — in Law, cases are the evidence.
+- Saying delegated legislation is made **by** Parliament rather than **under authority granted by** Parliament.
 
 ## Self-test
 
@@ -113,5 +130,6 @@ The **High Court** has three divisions: King's Bench, Chancery, Family.
 3. Distinguish distinguishing, overruling and reversing.
 4. Give the four rules of statutory interpretation and the current dominant approach.
 5. What secures judicial independence?
+6. Name the two controls on delegated legislation.
 
-**Answers:** 1. The *ratio* is the legal reason for the decision and is binding on lower courts; *obiter dicta* are statements made by the way and are only persuasive. 2. It allows the Supreme Court to depart from its own earlier decisions when it appears right to do so; it is used sparingly to preserve certainty in the law. 3. Distinguishing avoids a precedent because the material facts differ; overruling is a higher court declaring an earlier decision in a *different* case wrong; reversing is a higher court changing the outcome of the *same* case on appeal. 4. Literal, golden, mischief and purposive; the purposive approach is now dominant. 5. Security of tenure, protected salaries, immunity from being sued for judicial acts, and the separation of powers.
+**Answers:** 1. The *ratio* is the legal reason for the decision and is binding on lower courts; *obiter dicta* are statements made by the way and are only persuasive. 2. It allows the Supreme Court to depart from its own earlier decisions when it appears right to do so; it is used sparingly to preserve certainty in the law. 3. Distinguishing avoids a precedent because the material facts differ; overruling is a higher court declaring an earlier decision in a *different* case wrong; reversing is a higher court changing the outcome of the *same* case on appeal. 4. Literal, golden, mischief and purposive; the purposive approach is now dominant. 5. Security of tenure, protected salaries, immunity from being sued for judicial acts, and the separation of powers. 6. Parliamentary control (affirmative/negative resolution, scrutiny committees) and judicial control (judicial review for *ultra vires* or unreasonableness).
