@@ -1785,3 +1785,42 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `feature/qigt-trust-consistency`, full validation gate green (astro build,
   `validate:academic` chain incl. `validate-pricing-consistency.mjs` and `validate-review-integrity.mjs`,
   `audit:all`, `enquiry-validation.test.mjs` [16/16], `test-negative-validation-suite.mjs` [11/11]).
+
+## D-035 — QIGT Section 6: demand-led optimization audit of 10 named GSC priority pages
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, Section 6 (Demand-led search optimization).
+- **Scope:** the 10 pages the brief named as ranking positions 4-20 for real queries --
+  4 board-hub pages (`/boards/cambridge/a-level/english-literature/`,
+  `/boards/cambridge/o-level/urdu-language/`, `/boards/oxfordaqa/igcse/pakistan-studies/`,
+  `/boards/cambridge/igcse/urdu-language/`) and 6 resource pages (`o-level-cambridge-urdu-first-and-second-language`,
+  `igcse-islamiyat-paper-1`, `a-group-2-quantitative-trends`, `organic-chemistry-formulae-and-naming`,
+  `a-physics-medical-physics-revision-notes`, `a-arenes-and-halogenoarenes`), each re-checked fresh against a
+  12-point on-page checklist (direct-answer opening, title/description with spec code, visible syllabus code,
+  topic-mapped headings, tables where useful, real cross-linking, accurate schema, currency of any spec-code/year
+  claims) rather than assumed already-done from the prior SEO programme's Phase 4/Phase 12 work.
+- **7 of 10 already compliant, verified not re-edited:** the board-hub template
+  (`src/pages/boards/[board]/[qualification]/[subject].astro`) already generates the checklist items
+  programmatically for every combination (code-bearing title/lead, direct-answer opening, syllabus-topic
+  headings from real board data, honest resource counts, cross-links, accurate `Course` schema), so all 4 hub
+  pages passed as-is; 3 of the 6 resource pages (Urdu O-Level/1st-2nd-language, Islamiyat Paper 1, organic
+  chemistry naming) were already compliant from the prior programme's work.
+- **3 real, narrow gaps found and fixed:** `a-group-2-quantitative-trends.md` and
+  `a-arenes-and-halogenoarenes.md` each ended their "Related resources" list with a bare, unlinked "Cambridge
+  AS & A Level Chemistry hub" line while every sibling bullet was a real link -- both linked to
+  `/boards/cambridge/a-level/chemistry/`. `a-physics-medical-physics-revision-notes.md` opened with generic
+  sitewide boilerplate ("Condensed for the final weeks...") with its syllabus code (9702) appearing only in
+  frontmatter, never in visible text -- rewrote the opening to name topic/code/series up front and added a
+  "Related resources" section linking to the parent study guide and the Physics board hub. Diff: 3 files,
+  11 insertions, 3 deletions -- no new pages, no amounts/facts invented, no bulk content added.
+- **No syllabus code/year corrections needed:** spot-checked against Cambridge's own published pages for
+  9695 (Literature in English) and 3247 (Urdu First Language) -- both already matched `src/data/academic/
+  syllabuses.ts`.
+- **Explicitly out of scope, flagged not fixed:** ~30 other `*-revision-notes.md` files across the site share
+  the same "Condensed for the final weeks..." generic-opening convention as the one file fixed here -- a
+  sitewide pattern, not one of the 10 named pages, left untouched rather than expanding scope unprompted.
+- **Guardrail check:** no canonical URL, price, credential or syllabus fact changed; every added link points to
+  a real, already-published page.
+- **Status:** implemented on `feature/qigt-demand-optimization` (delegated to a subagent with the full checklist
+  and ground rules, diff verified directly against the report before merge), full validation gate green
+  (`npm run build` 1132 pages, `validate:academic`, `audit:all`, `npm run check` -- 0 errors/warnings/hints).
