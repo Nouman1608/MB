@@ -22,7 +22,9 @@
  *
  * Categories proven here: AQA/OCR IGCSE prohibition (A), spec-code /
  * legacy-revised collision (B), resource-leakage / inactive-board claim
- * (C), status contradiction (D), llms.txt resource-count-claim honesty (E).
+ * (C), status contradiction (D), llms.txt resource-count-claim honesty (E),
+ * FX-policy approved-base-rate protection and conversion-drift rejection
+ * (L, M, v1.x Closure WS8).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -191,7 +193,7 @@ console.log('  → structurally prevented: content.config.ts\'s `entityType` fie
 console.log('    required with no default, so a missing/invalid value fails Zod parsing at build time.');
 
 console.log('\n[H] Sitemap / noindex / robots consistency');
-console.log('  \u2192 enforced by scripts/test-sitemap-noindex.mjs (Phase 2, Aug 2026 SEO remediation),');
+console.log('  → enforced by scripts/test-sitemap-noindex.mjs (Phase 2, Aug 2026 SEO remediation),');
 console.log('    which fails the build if any sitemap URL renders a noindex robots meta tag. As of the');
 console.log('    isIndexableAcademicPage() policy landing, 27 academic hub pages are correctly noindexed');
 console.log('    and correctly absent from the sitemap -- \"0 noindex pages\" is no longer the expected');
@@ -247,6 +249,34 @@ withMutation(
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'in the future',
     label: 'future reviewedDate is rejected',
+  },
+);
+
+console.log('\n[L] FX policy: approved base rate cannot silently change');
+withMutation(
+  'src/data/pricing.ts',
+  (text) => text.replace(
+    "{ region: 'Pakistan', currency: 'PKR', symbol: 'Rs', igcse: 3500, aLevel: 4000 },",
+    "{ region: 'Pakistan', currency: 'PKR', symbol: 'Rs', igcse: 9999, aLevel: 4000 },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-fx-policy.mjs',
+    expectSubstring: 'ONE_TO_ONE_PRICING Pakistan igcse: is 9999, approved value is 3500',
+    label: 'silently changed ONE_TO_ONE_PRICING Pakistan base rate is rejected',
+  },
+);
+
+console.log('\n[M] FX policy: a published conversion drifted beyond tolerance is rejected');
+withMutation(
+  'src/data/pricing.ts',
+  (text) => text.replace(
+    "{ region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', igcse: 49, aLevel: 56 },",
+    "{ region: 'Saudi Arabia', currency: 'SAR', symbol: 'SAR', igcse: 120, aLevel: 56 },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-fx-policy.mjs',
+    expectSubstring: 'Saudi Arabia (SAR) igcse: published 120',
+    label: 'a converted rate drifted far beyond FX_TOLERANCE_PERCENT from FX_RATES is rejected',
   },
 );
 

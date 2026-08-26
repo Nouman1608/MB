@@ -150,7 +150,7 @@ export const PRICING_TERMS = {
  * fils/baisa subunits at 1/1000, not 1/100 like most currencies) -- the
  * approved rate sheet itself writes these as e.g. "22.500", so that exact
  * precision is preserved rather than stripped. */
-const THREE_DECIMAL_CURRENCIES = new Set(['KWD', 'BHD', 'OMR']);
+export const THREE_DECIMAL_CURRENCIES = new Set(['KWD', 'BHD', 'OMR']);
 
 /** Format a fee amount without inventing precision the source data doesn't have. */
 export function formatFee(amount: number, currency?: string): string {
