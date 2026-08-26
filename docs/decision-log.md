@@ -1824,3 +1824,39 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `feature/qigt-demand-optimization` (delegated to a subagent with the full checklist
   and ground rules, diff verified directly against the report before merge), full validation gate green
   (`npm run build` 1132 pages, `validate:academic`, `audit:all`, `npm run check` -- 0 errors/warnings/hints).
+
+## D-036 — QIGT Section 7 (search): Pagefind primary-content scoping + filters
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, Section 7 (Search/Pagefind).
+- **Primary-content region fixed:** the production build log showed "Did not find a
+  data-pagefind-body element on the site -- Indexing all `<body>` elements", meaning every
+  search result on the site carried duplicate header nav, footer and WhatsApp-button text
+  alongside the real content, diluting relevance. Added `data-pagefind-body` to the single
+  `<main id="main">` element in `src/layouts/BaseLayout.astro` and `src/layouts/LocaleLayout.astro`
+  -- together these two `<main>` elements are the sole content wrapper for every page on the
+  site (`PageLayout.astro` wraps `BaseLayout.astro`; only `en`/direct-`BaseLayout` pages and the
+  three locale pages exist). Confirmed via a clean rebuild: "Found a data-pagefind-body element
+  on the site -- Ignoring pages without this tag."
+- **Filters added, all from real existing frontmatter, none invented:** `src/pages/resources/[slug].astro`
+  now tags Subject and Level (already visible fields) plus Board, Qualification and Resource
+  type (not otherwise displayed on this template) via `data-pagefind-filter`; Board/Qualification/
+  Resource-type use a `hidden aria-hidden="true"` block since making them visible for the first
+  time on 731 pages was outside this workstream's scope -- Pagefind's own docs confirm filter
+  capture still applies inside a hidden element. `src/pages/articles/[slug].astro` tags Subject
+  (existing visible links) and a literal "Article" Resource-type value. Verified in the built
+  HTML that captured values are real and correct (e.g. `Board:Cambridge`, `Qualification:A Level`,
+  `Resource type:Study Guides`) -- rebuild log confirms "Indexed 5 filters". `/search/`'s existing
+  Default Pagefind UI (`PagefindUI`, no config change made) auto-renders filter checkboxes for
+  any indexed filter, per Pagefind's own UI documentation -- no separate filters config needed.
+- **Not touched:** the `/resources/` index page's own client-side subject/level dropdown filters
+  (already built, task #56/D-pre-QIGT) -- a separate system from Pagefind search, out of this
+  item's scope. The Default vs. Component Pagefind UI choice -- left on Default UI (still
+  supported per Pagefind's own docs) rather than migrating to Component UI, since that would be
+  a UI rebuild disproportionate to what this workstream asked for.
+- **Guardrail check:** every filter value is read live from the same frontmatter/data files every
+  other page on the site already uses (board/qualification names from `src/data/academic/`,
+  resource-type titles from `resourceCategoryMeta`) -- nothing hand-typed, nothing new claimed.
+- **Status:** implemented directly on `main`-bound branch `feature/qigt-search-filters`, full
+  validation gate green (`npm run build` -- 1132 pages, 5 filters indexed; `validate:academic`;
+  `audit:all`; `npm run check` -- 140 files, 0 errors/warnings/hints).

@@ -35,7 +35,13 @@ const props = Astro.props;
       class="absolute left-4 top-[-60px] z-[100] rounded-sm bg-navy-800 px-5 py-3 text-sm font-medium text-ivory focus:top-4"
     >Skip to content</a>
     <Header />
-    <main id="main"><slot /></main>
+    {/* data-pagefind-body scopes Pagefind's index to real page content only --
+        QIGT search workstream (Aug 2026). Without it, Pagefind indexes the
+        whole <body>, so every result on the site carries duplicate header
+        nav, footer and WhatsApp-button text, diluting relevance for the
+        actual query. See src/pages/search/index.astro for the noindex
+        rationale on the search results page itself. */}
+    <main id="main" data-pagefind-body><slot /></main>
     <Footer />
     <ConsentAnalytics />
     <WhatsAppButton />

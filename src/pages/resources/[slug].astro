@@ -8,6 +8,8 @@ import ResourceCard from '../../components/cards/ResourceCard.astro';
 import ArticleCard from '../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
 import { getResources, resourceCategoryMeta, formatDate, resourceLevelLabel } from '../../utils/content/collections';
+import { boardBySlug } from '../../data/academic/boards';
+import { qualificationBySlug } from '../../data/academic/qualifications';
 import { relatedResources, relatedArticles, topicSiblings } from '../../utils/content/related';
 import { articleNode } from '../../utils/schema/article';
 import { routes, resourceUrl } from '../../utils/urls/routes';
@@ -27,6 +29,21 @@ const subject = await getEntry(d.subject);
 const author = d.author ? await getEntry(d.author) : undefined;
 const meta = resourceCategoryMeta[d.resourceType];
 const levels = resourceLevelLabel(d.level, d.stage);
+
+/**
+ * QIGT search workstream (Aug 2026) -- Pagefind filter values. Board and
+ * qualification are not otherwise displayed as their own labelled fields
+ * on this page (only "Level", a combined display string, is), so these
+ * are captured via a visually hidden block rather than invented as new
+ * visible UI on every one of 731 resource pages. Values are the same
+ * board/qualification names already shown everywhere else on the site
+ * (board hub pages, /boards/, /levels/) -- nothing new is claimed, this
+ * only makes the existing, real tagging searchable. See
+ * src/pages/search/index.astro for the default Pagefind UI, which
+ * auto-renders filter checkboxes for any data-pagefind-filter value found.
+ */
+const boardNames = d.boards.map((slug) => boardBySlug(slug)?.name).filter((n): n is string => Boolean(n));
+const qualificationNames = d.qualifications.map((slug) => qualificationBySlug(slug)?.name).filter((n): n is string => Boolean(n));
 
 /**
  * QIGT programme -- genuine review evidence, computed ONCE and reused for
@@ -83,8 +100,8 @@ const jsonLd = [articleNode({
   noindex={pageNoindex}
 >
   <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
-    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Subject </dt><dd class="m-0 inline"><a href={routes.subject(d.subject.id)} class="underline decoration-rule underline-offset-2">{subject?.data.title}</a></dd></div>
-    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Level </dt><dd class="m-0 inline text-ink-mute">{levels}</dd></div>
+    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Subject </dt><dd class="m-0 inline"><a href={routes.subject(d.subject.id)} data-pagefind-filter="Subject" class="underline decoration-rule underline-offset-2">{subject?.data.title}</a></dd></div>
+    <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Level </dt><dd class="m-0 inline text-ink-mute" data-pagefind-filter="Level">{levels}</dd></div>
     {d.curriculum && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Curriculum </dt><dd class="m-0 inline text-ink-mute">{d.curriculum}</dd></div>}
     {d.topic && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Topic </dt><dd class="m-0 inline text-ink-mute">{d.topic}</dd></div>}
     {author && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Author </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(author.id)} class="underline decoration-rule underline-offset-2">{author.data.name}</a></dd></div>}
@@ -93,6 +110,17 @@ const jsonLd = [articleNode({
       <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Reviewed by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(reviewerEntry!.id)} class="underline decoration-rule underline-offset-2">{reviewerEntry!.data.name}</a>{d.reviewedDate && <> on <time datetime={d.reviewedDate.toISOString()}>{formatDate(d.reviewedDate)}</time></>}</dd></div>
     )}
   </dl>
+
+  {/* Hidden filter tags -- see the comment above boardNames/qualificationNames.
+      hidden (display:none) rather than removed from the DOM, since Pagefind's
+      own docs confirm data-pagefind-filter still applies inside a hidden or
+      data-pagefind-ignore element -- this deliberately adds nothing to what a
+      sighted or screen-reader visitor perceives. */}
+  <div slot="hero-extra" hidden aria-hidden="true">
+    <span data-pagefind-filter={`Resource type:${meta.title}`}></span>
+    {boardNames.map((name) => <span data-pagefind-filter={`Board:${name}`}></span>)}
+    {qualificationNames.map((name) => <span data-pagefind-filter={`Qualification:${name}`}></span>)}
+  </div>
 
   <Section surface="white">
     <Container>
