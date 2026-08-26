@@ -183,6 +183,12 @@ export default defineConfig({
       filter: (page) => {
         if (page.includes('/styleguide')) return false;
         const path = new URL(page).pathname;
+        // QIGT programme -- /search/ is a hand-written utility page (not a
+        // content-collection entry), noindexed directly in
+        // src/pages/search/index.astro because Pagefind results render
+        // entirely client-side and the page has no fixed unique content of
+        // its own. Excluded here to keep it out of the sitemap too.
+        if (path === '/search/') return false;
         if (noindexAcademicPaths.has(path)) return false;
         if (archivedContentPaths.has(path)) return false;
         return true;
