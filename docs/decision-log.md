@@ -1472,8 +1472,8 @@ Status values: `answered` (owner has responded, implemented), `open`
   table reflects a real script execution against the real built output
   this session, not an assumption of correctness.
 - **Status:** implemented on `feature/seo-phase11-safeguard-tests`, full
-  validation gate green (astro check, validate:academic, build,
-  cross-board-regression, negative-validation-suite, `npm run
+  validation gate green (astro check, validate:academic, build, cross-
+  board-regression, negative-validation-suite, `npm run
   audit:all` [all 6 checks + sitemap-noindex], unit tests [13/13], npm
   audit [0 vulnerabilities], tsc --noEmit, wrangler deploy --dry-run).
 
@@ -2249,3 +2249,143 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `feature/qigt-resources-performance`, full validation gate green,
   functional regression test 12/12 passed, before/after Lighthouse confirms the fix. This closes
   the one outstanding recommendation from the QIGT final report (D-042).
+
+## D-053 — v1.x Closure WS6: resource depth (36 single-resource combinations)
+
+**Context.** D-045's WS0 baseline flagged 36 ACTIVE board+qualification+subject combinations
+with exactly one resource against the site's own established norm of a study-guide accompanied
+by revision-notes and practice-questions siblings on the same verified topic. WS6's brief: bring
+all 36 to 3+ resources. Of the 36, 15 are non-IB (Cambridge/Edexcel/AQA/OxfordAQA) and 21 are IB
+(16 DP + 5 MYP total, including the 2 DP combinations -- Economics and Physics -- that already
+had a verified topic map before this workstream began; see breakdown below).
+
+**Research, not guessing.** For every non-IB combination, the added content is grounded strictly
+in facts already verified and sourced in this repo: either `src/data/academic/syllabus-topics.ts`
+(exact topic/component names, syllabus code, official source URL, verification date) for the 12
+combinations whose sole existing resource was already a topic-specific `study-guides` page, or the
+already-cited official specification facts (assessment objectives, paper structure, mark
+allocations, section weightings) stated in the existing resource's own body text for the 3
+combinations whose sole existing resource was a `subject-guides` course-structure overview with no
+`syllabusTopics` entry (AQA GCSE English Language 8700, AQA GCSE History 8145, AQA A Level
+Sociology 7192). No new external research or unverified claims were introduced for the non-IB set.
+
+**IB source-access constraint (identified and disclosed, not silently worked around).** Full IB
+subject guides (granular topic-by-topic syllabus content) sit behind a password-protected
+teacher-only portal (resources.ibo.org) or require purchase; only short public "subject brief"
+PDFs are freely accessible, covering aims and the assessment model (papers, weightings, IA
+structure) but not a granular topic list. This is a genuine, board-specific limitation, already
+reflected honestly in this repo's data as `topicMapStatus: 'being-verified'` for 19 of the 21 IB
+combinations — only `ib-dp economics` and `ib-dp physics` are `'published'`, because
+`syllabus-topics.ts` already carries a real, sourced, unit-by-unit breakdown for those two from
+prior work (v1.2 WS7, D-008/D-009-era). WS6 therefore split the IB set:
+
+- **`ib-dp economics` and `ib-dp physics` (2 combinations) — full 3-resource treatment.** New
+  `revision-notes` + `practice-questions` companions were written on one already-verified,
+  SL-appropriate sub-topic each (Economics: "Demand, Supply and Competitive Market Equilibrium",
+  sub-topics 2.1-2.3; Physics: "Kinematics", sub-topic A.1), using the exact unit/sub-topic names
+  already in `syllabus-topics.ts`. These two combinations now match the non-IB standard.
+- **The remaining 19 IB combinations (16 DP + 5 MYP, wait — DP: Business, Language A: Language and
+  Literature, Language A: Literature, Computer Science, Psychology, Biology, Chemistry,
+  Environmental Systems and Societies, Geography, Global Politics, World History, Language B,
+  Mathematics: Analysis and Approaches, Mathematics: Applications and Interpretation = 14 DP; MYP:
+  Language Acquisition, Mathematics, Sciences, Design, Individuals and Societies = 5 MYP; 19 total)
+  — one additional resource each, not two.** Fabricating topic-specific `study-guides`,
+  `revision-notes` or `practice-questions` content (with invented topic breakdowns, mark schemes,
+  or exam-style questions) for syllabus content this repo cannot verify against a public official
+  source would violate the brief's core research rule. Instead, each of these 19 gained a single
+  `revision-notes` companion condensing the assessment-model facts *already stated and sourced* in
+  its existing `subject-guides` overview (paper weightings, SL/HL differences, IA structure,
+  criteria for MYP subjects) into a quick-recall format — zero new facts, purely a different
+  presentation of already-verified content. This is a disclosed, honest partial result: these 19
+  combinations land at **2 resources**, not the 3+ achieved everywhere else, because a genuine
+  source-access gap makes a third, topic-specific resource unsafe to write honestly right now.
+  Closing this gap requires either purchased/licensed access to the IB's teacher portal or a
+  future decision to accept a lower depth standard for IB — both out of scope for this closure
+  release and explicitly deferred, not silently dropped.
+
+**Total new content:** 53 new resource files (30 for the 15 non-IB combinations, 4 for
+Economics/Physics DP, 19 assessment-recall companions for the remaining IB set). Every
+`revision-notes`/`study-guides` file follows the established condensed-recall format (tables,
+worked examples where applicable, an "exam traps" list, and a 4-question self-test with answers).
+Every `practice-questions` file carries the sitewide originality disclaimer ("these are original
+questions written for Marlbridge... not reproduced past-paper questions"), full worked answers
+with mark allocations where a real official mark scheme structure is known, and a closing "where
+marks are usually lost" section.
+
+**Errors found and fixed during this workstream (self-caught, pre-commit):**
+- Three new O Level (Cambridge 7100/4040) resource titles collided verbatim with pre-existing
+  IGCSE-level (0479) sibling titles covering the same topic name at a different qualification —
+  caught by `npm run audit:metadata`'s duplicate-title check. Fixed by adding an explicit
+  qualification+code qualifier, e.g. "Commerce and Production (O Level 7100): Revision Notes".
+- One new resource (`o-level-statistics-data-collection-revision-notes.md`) linked to a
+  placeholder slug (`/resources/data-and-its-collection-4040-study-guide/`) that does not exist —
+  caught by `npm run audit:internal-links`'s broken-link check. Fixed to link to the real existing
+  resource (`o-level-cambridge-statistics-data-and-its-collection`). A full internal-link sweep of
+  all 53 new files confirmed no other broken links.
+
+**Verification:** `npm run validate:academic` passes (0 duplicate-scope regressions from the new
+content; assessment/FX/matrix/cross-board validators all pass unaffected). `npm run build`
+succeeds cleanly. `npm run audit:all` passes with 0 problems (0 duplicate titles/descriptions, 0
+broken internal links, 0 orphan pages, sitemap/noindex agreement holds across all indexable URLs,
+i18n route check unaffected). `node scripts/test-negative-validation-suite.mjs` 18/18. Fresh
+`academic-coverage-report-v2.mjs` run confirms **0/160 ACTIVE combinations now have exactly 1
+resource** (down from 36 at the WS0 baseline; the two counted separately from the original 34-item
+mid-window snapshot are IB Economics/Physics, already at 3 pre-WS6-completion). The per-combination
+`isIndexableAcademicPage()` 400-word substantial-content threshold is evaluated as a **sum across
+all qualifying resources for a combination**, not per individual file — every touched combination
+already carried an indexable (400+ word) resource before WS6, so even the shorter ~300-400 word IB
+assessment-recall companions only add to an already-passing total; no indexability regression.
+
+## D-054 — v1.x Closure WS4: regenerate and consolidate reports
+
+**Scope.** Deliberately run last in this release, after WS2 (translation) and WS6 (resource
+depth) had both already changed the data several standing reports describe, so this pass reflects
+final state rather than needing a second regeneration.
+
+**Regenerated:**
+- `docs/reports/academic-coverage-report-v1.2.{json,csv,md}` — re-run via
+  `scripts/academic-coverage-report-v2.mjs`. Row count 160 (unchanged since IB landed), but
+  `zero-resource` and `exactly-1-resource` both now read 0/160, reflecting WS6. The `.md` narrative
+  summary (hand-maintained, not auto-generated) was stale since 2026-08-18 — described 139 rows,
+  pre-IB board coverage numbers, and a since-superseded risk-flag count. Rewritten against the
+  current `.json`.
+- `docs/reports/seo-page-classification.{md,json}` — no generator script previously existed for
+  this file; it was a one-off hand-run analysis from Phase 3 of an earlier SEO remediation session
+  (2026-08-25), directly invalidated by WS6 since its core classification depends on
+  per-combination resource count (18 rows were `3-minimal-single-resource`, now correctly 0 after
+  WS6). Regenerated using the same classification logic documented in the original file's own
+  note (indexability -> syllabus-verification -> single-resource -> resource-count tier, checked
+  in that priority order), computed fresh from the current coverage-report JSON.
+
+**Bug fixed in the process (not a new feature — a stale-data fix directly blocking accurate
+report regeneration):** `academic-coverage-report-v2.mjs`'s `indexable` column was a hardcoded
+`true` for every row, with a code comment stating "no per-combination noindex mechanism exists."
+That comment was accurate when written but went stale once Phase 1 of the Aug 2026 SEO
+remediation shipped a real `isIndexableAcademicPage()` policy
+(`src/utils/seo/indexability.ts`) that the live site's sitemap and hub-page templates both
+actually use. Regenerating this report with the old hardcoded value would have reproduced a
+now-false claim in a freshly "regenerated" report — worse than leaving the stale file alone. Fixed
+by loading `QUALIFYING_RESOURCE_TYPES`/`SUBSTANTIAL_WORD_THRESHOLD` live from `indexability.ts`
+(via the script's existing `load()`-via-execSync pattern, since the script itself runs under plain
+`node` and can't statically import a `.ts` file directly) and reimplementing the same sum-and-compare
+logic locally, so the two locations can never silently diverge on the *threshold*, and the report
+now reflects the real policy rather than a pre-Phase-1 assumption. Added a `totalQualifyingWordCount`
+column alongside it. Verified: 0/160 combinations are below the real indexability bar (matches the
+live sitemap, which excludes 0 academic hub pages for this reason).
+
+**Deliberately not touched (out of scope for report *regeneration*):**
+- `docs/reports/review-priority-queue-2026-08-26.md` — its tier assignments are built from
+  judgment-based cross-references (e.g., specific syllabus transition-year lookups), not a
+  mechanical recount from live data the way the two reports above are. Regenerating it accurately
+  would mean re-deriving each tier's membership logic, which is closer to redoing an earlier
+  workstream's analysis than "regenerating a report" — out of WS4's scope per the brief's
+  instruction not to reopen unrelated workstreams. Its resource-count figure (731) is now stale
+  (WS6 added 53 resources) but this is disclosed here rather than silently left to look current.
+- `docs/reports/v1.x-final-report.md`, `qigt-*` reports, `lighthouse-*`, `phase11-*` — dated,
+  point-in-time historical artifacts from earlier, separate sessions/programmes, not living
+  documents this release's changes invalidate. The definitive, current closure report is produced
+  as this release's own Final step (see the task tracker's "Final" item), not by editing these.
+
+**Verification:** `npm run build` clean; `npm run validate:academic` clean; `npm run audit:all`
+clean (0 broken links/duplicate titles, sitemap/noindex agreement holds, i18n route check
+passing).
