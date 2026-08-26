@@ -37,7 +37,7 @@ const columns = [
                 ? <span aria-current="true" class="block py-2 text-[15px] text-white">{l.label}</span>
                 : l.enabled
                   ? <a href={l.href} class="block py-2 text-[15px] text-on-navy hover:text-white">{l.label}</a>
-                  : <span class="block py-2 text-[15px] text-[#6E7D93]">{l.label} — not yet available</span>}
+                  : <span class="block py-2 text-[15px] text-on-navy-mute">{l.label} — not yet available</span>}
             </li>
           ))}
         </ul>
@@ -45,8 +45,8 @@ const columns = [
     </div>
 
     <div class="flex flex-wrap items-center justify-between gap-4 pt-6">
-      <p class="m-0 text-[13.5px] text-[#6E7D93]">© 2026 Marlbridge. All rights reserved.</p>
-      <p class="m-0 text-[13.5px] text-[#6E7D93]">{site.founding}</p>
+      <p class="m-0 text-[13.5px] text-on-navy-mute">© 2026 Marlbridge. All rights reserved.</p>
+      <p class="m-0 text-[13.5px] text-on-navy-mute">{site.founding}</p>
     </div>
   </div>
 </footer>

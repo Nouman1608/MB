@@ -9,7 +9,13 @@
   --color-navy-line: #4A5F80;
   --color-ivory: #F7F4EC;
   --color-ivory-dk: #EFEADC;
-  --color-gold-600: #8A6D12;   /* gold TEXT on light — AA */
+  /* QIGT programme (Aug 2026) -- was #8A6D12 (4.47:1 against --color-ivory,
+     just under the 4.5:1 AA threshold for normal text; axe-core/Lighthouse
+     confirmed real color-contrast failures on every page tested, wherever
+     this token sits on an ivory-surface Section). Darkened to clear AA
+     against BOTH light surfaces this token is actually used on: 5.56:1
+     against ivory, 6.11:1 against white. */
+  --color-gold-600: #7A5E10;   /* gold TEXT on light — AA (ivory 5.56:1, white 6.11:1) */
   --color-gold-500: #C9A227;   /* rules, marks, focus on navy */
   --color-rule: #E2DCCD;
   --color-ink: #172033;

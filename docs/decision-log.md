@@ -1949,3 +1949,56 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented directly on `main`-bound branch `feature/qigt-aeo-truthfulness`, full validation
   gate green (`npm run build`; `validate:academic`; `audit:all`; `npm run check` -- 0 errors/warnings/hints;
   `enquiry-validation.test.mjs` 23/23; `test-negative-validation-suite.mjs` 11/11 incl. `[E]`).
+
+## D-039 — QIGT Section 9: performance + accessibility, fresh multi-page evidence
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, Section 9 (Performance + accessibility).
+- **Method:** real Lighthouse v13.4.1 runs (mobile, simulated throttling) against a local
+  `astro preview` server built from this exact session's code -- not production, since several
+  of today's merges might not have finished deploying at measurement time (production
+  verification belongs to the deployment workstream, #83). Full method note, including how
+  Chrome was made to run in this sandbox (`apt-get download` + `dpkg-deb -x` + `LD_LIBRARY_PATH`,
+  no root required), and the complete before/after metrics table for all 6 required pages
+  (homepage, resource page, board hub, resources index, Free Trial form, search) are in
+  `docs/reports/qigt-performance-accessibility-2026-08-26.md`.
+- **Real accessibility bugs found and fixed (all verified with a second Lighthouse pass, not
+  assumed):**
+  1. `--color-gold-600` (`src/styles/global.css`) measured 4.47:1 against `--color-ivory` --
+     just under the 4.5:1 AA threshold -- flagged on every page tested. Darkened to `#7A5E10`
+     (5.56:1 ivory, 6.11:1 white).
+  2. `text-gold-500` (the on-navy gold token) was misused on light-surface numbered-list markers
+     in `ResourcesSection.astro` and `resources/index.astro` -- switched to `text-gold-600`.
+  3. Resource/article markdown body links relied on color alone to be distinguishable from
+     surrounding text (axe `link-in-text-block`) -- added a scoped underline rule to the
+     `<Content />` wrapper in both templates.
+  4. The cookie-consent banner's Cookie Policy link had no explicit text color, so it fell
+     through to the global light-background `a` color rule -- **1.1:1 contrast** against the
+     banner's navy-900 background (essentially unreadable). Added `text-on-navy`.
+  5. Footer copyright/founding-year text used a hardcoded `#6E7D93` (4.38:1 against navy-900,
+     under threshold) instead of the existing `text-on-navy-mute` token (8.06:1) -- swapped in.
+  - Net result: accessibility went from 93-97 across the 6 pages (color-contrast failing on
+    all 6, link-in-text-block on 1) to **100/100 on all 6**, confirmed by rerunning Lighthouse
+    after each fix.
+- **Real performance issue found, documented, NOT fixed this pass:** `/resources/` scores
+  Performance 71 with a 1,370ms Total Blocking Time. Root cause verified directly via the
+  `mainthread-work-breakdown` audit: the page renders all 731 resource cards into the DOM at
+  once (existing subject/level filters hide non-matching cards via the `hidden` attribute
+  rather than removing them), producing ~5,200 DOM nodes and 3.7s of Style & Layout work on
+  first paint. A structural fix (pagination, virtualization, or lazy per-section rendering)
+  would mean restructuring the existing, working, already-tested client-side filter logic --
+  more risk than this workstream's "smallest safe change" scope justifies without dedicated
+  follow-up testing. Recorded as a recommendation for a future session rather than either
+  silently left unmentioned or rushed under time pressure.
+- **Confirmed already compliant, not touched:** heading order, accessible names/labels, ARIA
+  attributes, `html[lang]`, form-field labeling, tabindex/focus order, target size -- none of
+  these were ever flagged by axe-core across any of the 6 pages, in either the before or after
+  run.
+- **Guardrail check:** every color change is a token-level fix restoring an already-intended
+  design relationship (a token's stated purpose vs. its actual measured contrast) -- no new
+  color was invented, no visual redesign occurred, and each fix was scoped to exactly the
+  elements that were actually failing.
+- **Status:** implemented directly on `main`-bound branch `feature/qigt-perf-a11y`, full
+  validation gate green (`npm run build`; `validate:academic`; `audit:all`; `npm run check` --
+  0 errors/warnings/hints); accessibility verified via real before/after Lighthouse runs, not
+  static audit alone.
