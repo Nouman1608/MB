@@ -37,22 +37,22 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
     required: ['name', 'school', 'role', 'email', 'country', 'message'],
     optional: ['phone'],
   },
-  // QIGT trust workstream (Aug 2026) -- the "Free Trial Class" button
-  // previously routed to the same generic five-field student form with no
-  // way to say what the trial should actually cover. Qualification, board
-  // and subject are collected as structured fields here (rather than left
-  // to the message hint, as student/tutoring do) because a trial request
-  // specifically needs routing to the right teacher before any reply can
-  // be useful. There is deliberately no separate "level" field: in this
-  // site's own data model qualification already IS the level (IGCSE,
-  // O Level, A Level, etc. -- see LEVEL_FOR_QUALIFICATION in
-  // src/utils/academic/index.ts), so a second field would either repeat
-  // qualification or invent a schooling-year concept this site does not
-  // otherwise use. "Availability" is optional free text, not a calendar
-  // picker -- no scheduling system exists to back one.
+  // v1.x CLOSURE Release WS1 (2026-08-26) -- REVERSES the QIGT trust
+  // workstream's earlier change (Aug 2026), which had added qualification/
+  // board/subject as structured required fields plus an optional
+  // availability field, specifically so a trial request could be routed to
+  // the right teacher without relying on free text. This release's
+  // approved business decision is stricter and explicit: "Student enquiry
+  // forms must contain only: Name, Email, Phone, Country, Message,"
+  // with programme/board/subject/level/availability left to the student to
+  // write in the message itself (see the updated message-hint copy in
+  // EnquiryForm.astro). Reverting here rather than layering a second
+  // convention on top of the first -- one allowlist, one behaviour, for
+  // every non-school enquiry kind. Confirmed directly with the owner
+  // before applying (docs/decision-log.md, v1.x Closure WS0/WS1).
   trial: {
-    required: ['name', 'email', 'country', 'qualification', 'board', 'subject', 'message'],
-    optional: ['phone', 'availability'],
+    required: ['name', 'email', 'country', 'message'],
+    optional: ['phone'],
   },
 };
 
