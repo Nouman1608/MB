@@ -2153,3 +2153,48 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented on `feature/qigt-final-report`, deployment independently re-verified
   live in production, report delivered. This is the final entry of the QIGT programme (D-032
   through D-042); task #83 and the full QIGT task list are now complete.
+
+## D-043 — Business-decisions register: all five open items answered and implemented
+
+- **Date:** 2026-08-26.
+- **Workstream:** post-QIGT follow-up, at the owner's direct request ("ask me questions from the
+  document i will give you the answers").
+- **Method:** asked the owner each of the five open items from `docs/business-decisions-register.md`
+  directly, one clarifying round-trip where the first answer needed follow-up (discount stacking:
+  the owner's first answer restated the existing multi-subject-discount rule rather than confirming
+  whether it combines with the sibling discount, so a second, more specific question was asked).
+  Every fact below is the owner's own stated answer, not inferred or assumed.
+- **Answers received and implemented:**
+  1. **Discount stacking:** the 20% multi-subject discount (3+ subjects) and the 10% sibling
+     discount (up to 2 siblings) combine when a family qualifies for both; both apply to group
+     classes only, never one-to-one (already separately stated on the one-to-one FAQ). Added
+     `PRICING_TERMS.discountsStack` to `src/data/pricing.ts`; updated the pricing page's discount
+     FAQ answer and the "Discounts and trial" section intro to state this explicitly.
+  2. **Schools' licence scope:** bulk printing for a whole year group and LMS upload (Google
+     Classroom, Moodle, etc.) are both permitted; modifying, relabelling or rebranding the
+     material is not -- it should be used as published. Updated `/schools/` with a new clarifying
+     paragraph and `/legal/terms/`'s class-use carve-out to name both the permitted uses and the
+     modification boundary explicitly.
+  3. **Class duration/frequency:** group classes run 45-50 minutes, 3 times a week per subject;
+     one-to-one classes run 1 hour, with the number of classes left to the student/family (no
+     fixed frequency). Does not vary by qualification level. Added
+     `PRICING_TERMS.classFormat` and a new pricing-page FAQ entry.
+  4. **Cancellation/refund:** billing is monthly, starting once the free trial class has taken
+     place; a family can cancel or pause at any time, the month already paid for is not refunded,
+     and there is no further billing once cancelled. Added `PRICING_TERMS.billing` and
+     `PRICING_TERMS.cancellationPolicy`, plus two new pricing-page FAQ entries.
+  5. **Payment methods/fees:** bank transfer and international wire transfer are accepted; there
+     is no separate registration/enrolment fee beyond the published per-subject rate. Added
+     `PRICING_TERMS.paymentMethods` and `PRICING_TERMS.enrolmentFee`, surfaced in the same new FAQ
+     entry as item 4's billing cadence.
+- **Guardrail check:** every new fact traces to the owner's own direct answer in this
+  conversation, none inferred; all new pricing-adjacent facts were added to `src/data/pricing.ts`
+  (the single typed source of truth every pricing page already reads from) rather than
+  hard-coded on any page, consistent with the file's own stated rule that "every page that shows
+  a price MUST read from here"; `validate-pricing-consistency.mjs` re-ran clean afterward (0
+  hard-coded fee values outside `pricing.ts` across 879 files, same as before this change).
+  `docs/business-decisions-register.md` updated in place with each answer and exactly where it
+  now appears live, rather than left stating the questions as still open.
+- **Status:** implemented on `feature/qigt-business-decisions-answered`, full validation gate
+  green (build, astro check, `validate:academic`, `audit:all`, negative-validation-suite [11/11],
+  `tsc --noEmit`, `wrangler deploy --dry-run`).
