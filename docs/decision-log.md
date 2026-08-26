@@ -2035,3 +2035,87 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** delivered as `docs/business-decisions-register.md`; all six
   items remain `open` pending direct owner input; none block the
   remaining technical QIGT workstreams (#82, #83).
+
+## D-041 — Full validation gate + before/after comparison (final QIGT gate)
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, task #82. Consolidated validation of the combined effect of
+  D-032 through D-040 (every QIGT workstream this window), run fresh against the merged `main`
+  branch at commit `e870812` (not re-run per-workstream results from earlier in the day).
+- **Full validation gate, all green:**
+  - `npm run build`: succeeds. Pagefind indexed 1,132 HTML files, 4 languages, 5 filters (was
+    "Indexing all `<body>` elements, 0 filters" before D-036).
+  - `npx astro check`: 0 errors / 0 warnings / 0 hints (140 files).
+  - `npm run validate:academic` (6 validators): all OK — matrix 183 rows (160 ACTIVE / 23
+    NOT_SUPPORTED, unchanged from baseline), content tagging OK, commercial claims OK,
+    cross-board integrity OK (5/5 rule categories), pricing consistency OK (0 hard-coded fees
+    outside `pricing.ts` across 879 files), review-integrity OK (731 resources + 4 articles
+    checked, 20 reviewer records, 9 `isReviewer: true`).
+  - `npm run audit:all` (6 checks + sitemap-noindex): 0 problems across all. Structured-data
+    audit: 1,131 pages with JSON-LD, 5,353 typed nodes (EducationalOrganization ×1,131,
+    WebSite ×1,131, WebPage ×1,131, BreadcrumbList ×988, Article ×735, Course ×167,
+    FAQPage ×50, Person ×19, Organization ×1). Redirect audit: 976 rules (975 static + 1
+    wildcard), unchanged from baseline. Internal-link audit: 0 broken links, 0 orphan pages,
+    0 generic anchor text, across 1,132 built pages / 1,130 indexable.
+  - `node scripts/test-cross-board-regression.mjs`: OK, all previously-flagged and control
+    pages intact.
+  - `node scripts/test-negative-validation-suite.mjs`: 11/11 passed, including the 5 new
+    review-integrity negative fixtures added under D-032.
+  - `functions/api/__tests__/enquiry-validation.test.mjs`: 16/16 passed (was 11 before the
+    `trial` kind was added under D-034).
+  - `npx tsc --noEmit`: 0 errors. `npm audit`: 0 vulnerabilities. `npx wrangler deploy
+    --dry-run`: succeeds, 3,622 files read from `dist`.
+- **Before/after comparison (Section 11 requirements):**
+  - **Route/page count:** 1,131 built pages at baseline (2026-08-26 morning, commit
+    `e04fbc3...`) → 1,131-1,132 now (audit scripts count this two different ways, both
+    pre-existing behaviour, not a regression) -- net unchanged; the QIGT programme reshaped and
+    fixed existing pages, added exactly one net-new page (`/trial/`, D-034), and removed exactly
+    one page from the indexable set (`/search/`, noindexed under D-033) -- the counts wash out.
+  - **Sitemap URL set:** 1,130 URLs at baseline → **1,130 URLs now**, re-verified directly
+    against the live production sitemap (`sitemap-0.xml`, 1,130 `<loc>` entries), not just the
+    local build. `/search/` confirmed absent (0 matches); `/trial/` confirmed present (1 match).
+  - **Redirect count:** 976 (975 static + 1 wildcard) at baseline → **976, unchanged** — no
+    redirects added or removed this programme; the redirect-inventory audit (D-033) reviewed
+    every existing rule's rationale and found nothing synthetic to remove.
+  - **Indexable / noindexed pages:** baseline had 0 pages with an explicit code-level noindex
+    that were also correctly excluded from the sitemap (the `isIndexableAcademicPage()` policy's
+    27 pages were already excluded pre-QIGT). This programme added exactly one more:
+    `/search/` (D-033) — verified live in production returning
+    `<meta name="robots" content="noindex, follow">` and absent from the production sitemap.
+  - **Titles/descriptions:** 0 missing, 0 duplicate titles, 0 duplicate descriptions at baseline
+    and now (`audit-metadata.mjs`, 1,131 pages both times).
+  - **Structured-data types:** not separately counted at baseline (D-038 confirmed the schema
+    *builders* were already correct, not a counts-based check); now formally captured for the
+    first time as the after-state (see counts above) for future comparison.
+  - **Resource publication states:** 731 resources / 4 articles at both baseline and now (no
+    resources added, removed, or reclassified this programme); reviewer records grew from
+    implicitly-uncounted at baseline to a formally validated 20 records / 9 `isReviewer: true`
+    once D-032's review-integrity validator landed.
+  - **Internal links:** 0 broken, 0 orphans at baseline and now (`audit-internal-links.mjs`);
+    D-036 added new internal `data-pagefind-filter` metadata (not visible links) rather than
+    changing the link graph itself.
+  - **Academic matrix:** 183 rows, 160 ACTIVE / 23 NOT_SUPPORTED at baseline and now — completely
+    unchanged in row count, but D-037 corrected `levelsLabel` display copy for 11 subjects where
+    it had drifted out of sync with the matrix's real ACTIVE combinations (a display-honesty fix,
+    not a matrix change).
+  - **Pricing data:** `src/data/pricing.ts` amounts unchanged throughout (0 amounts touched by
+    D-034's display-bug fix, confirmed by `validate-pricing-consistency.mjs` passing identically
+    before and after).
+  - **Production headers:** re-verified live (not just locally) during this pass —
+    `strict-transport-security: max-age=15552000` present on both `marlbridge.com` and
+    `www.marlbridge.com`; `/search/` correctly serves `noindex, follow` in production, not just
+    in the local build; `/trial/` confirmed live and rendering the new structured fields.
+- **Unplanned discovery during this pass, register corrected:** re-checking `www.marlbridge.com`
+  live (previously found not resolving at all in D-010/D-033) found it now resolves cleanly,
+  returns HTTP 200, serves byte-identical content to the bare domain, and carries a correct
+  self-referencing canonical to `https://marlbridge.com/` — the same safe pattern already
+  verified for the other apex/protocol variants. Whatever caused the earlier timeout has
+  resolved itself (DNS propagation or a Cloudflare-side change, not something in this
+  repository). `docs/business-decisions-register.md` item 6 updated in place to reflect this —
+  downgraded from "action needed" to an optional, non-blocking tidiness recommendation, with the
+  correction dated and explained rather than silently overwritten.
+- **Guardrail check:** every "after" figure in this entry was measured fresh this pass (local
+  build + live production fetch), not carried over from an earlier workstream's own report
+  without re-verification.
+- **Status:** full validation gate green on `main` at commit `e870812`; before/after comparison
+  complete; one register item corrected based on fresh live evidence.
