@@ -26,6 +26,7 @@ import CTA from '../../../../components/ui/CTA.astro';
 import { activeOnly, offeringsForSubject, academicHubPath, boardPath, levelPath, LEVEL_FOR_QUALIFICATION, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
+import { assessmentsFor } from '../../../../data/academic/assessments';
 import { topicsFor, hasStages } from '../../../../data/academic/syllabus-topics';
 import { getResources } from '../../../../utils/content/collections';
 import { isIndexableAcademicPage } from '../../../../utils/seo/indexability';
@@ -44,6 +45,35 @@ export async function getStaticPaths() {
 const { combination: c } = Astro.props as { combination: Combination };
 const path = academicHubPath(c);
 const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+
+/**
+ * v1.x CLOSURE WS5 -- real, sourced assessment structure (papers,
+ * duration, marks, weighting) for this combination, when it has been
+ * modeled (src/data/academic/assessments.ts). A bounded first batch of 12
+ * combinations is modeled as of this release; every other ACTIVE
+ * combination honestly renders "not yet modeled" below rather than either
+ * inventing figures or silently omitting the section -- see
+ * docs/decision-log.md D-050.
+ */
+const assessments = assessmentsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+const ASSESSMENT_TYPE_LABEL: Record<string, string> = {
+  'written-exam': 'Written exam',
+  coursework: 'Coursework',
+  'non-exam-assessment': 'Non-exam assessment',
+  practical: 'Practical',
+  oral: 'Oral',
+};
+const TIER_LABEL: Record<string, string> = {
+  'not-tiered': '',
+  core: 'Core',
+  extended: 'Extended',
+  foundation: 'Foundation',
+  higher: 'Higher',
+  'first-language': 'First Language',
+  'second-language': 'Second Language',
+  'as-only': 'AS',
+  'a2-only': 'A2',
+};
 
 // LEVEL_FOR_QUALIFICATION now lives in utils/academic (shared with
 // astro.config.mjs's sitemap indexability step -- see that file).
@@ -256,6 +286,67 @@ const jsonLd = [courseNode({
             </>
           ) : (
             <p class="m-0 text-ink-mute">Syllabus details for this qualification are being verified against the awarding body and will be published once confirmed.</p>
+          )}
+        </div>
+      </div>
+
+      <div class="mt-[clamp(48px,6vw,80px)] grid items-start gap-8 border-t border-rule pt-[clamp(32px,4vw,56px)] lg:grid-cols-[minmax(280px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,88px)]">
+        <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Assessment structure</h2>
+        <div class="max-w-[68ch] text-[17.5px] leading-[1.7]">
+          {assessments.length > 0 ? (
+            assessments.map((a) => (
+              <div class="mb-8 last:mb-0">
+                {assessments.length > 1 && (
+                  <p class="m-0 mb-2 text-[13px] font-semibold uppercase tracking-[0.08em] text-gold-600">
+                    {a.code}{a.tiers[0] !== 'not-tiered' ? ` — ${a.tiers.map((t) => TIER_LABEL[t] ?? t).join(' / ')}` : ''}
+                    {a.specStatus === 'legacy-teach-out' && ' (being withdrawn)'}
+                  </p>
+                )}
+                {a.specStatus === 'legacy-teach-out' && (
+                  <p class="m-0 mb-3 text-[15px] text-ink-mute">
+                    {a.code} is being withdrawn{a.relatedCode && <> in favour of {a.relatedCode}</>}.
+                    {a.finalAssessment && <> Final assessment opportunity: {a.finalAssessment}.</>}
+                  </p>
+                )}
+                <table class="w-full border-collapse text-[15px]">
+                  <thead>
+                    <tr class="border-b border-rule text-left">
+                      <th class="py-2 pe-3 font-semibold text-navy-800">Component</th>
+                      <th class="py-2 pe-3 font-semibold text-navy-800">Duration</th>
+                      <th class="py-2 pe-3 font-semibold text-navy-800">Marks</th>
+                      <th class="py-2 pe-3 font-semibold text-navy-800">Weighting</th>
+                      <th class="py-2 font-semibold text-navy-800">Type</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {a.components.map((comp) => (
+                      <tr class="border-b border-rule/60">
+                        <td class="py-2 pe-3 text-ink">
+                          {comp.paperCode}: {comp.title}
+                          {comp.tier && comp.tier !== 'not-tiered' && <span class="text-ink-mute"> ({TIER_LABEL[comp.tier] ?? comp.tier})</span>}
+                        </td>
+                        <td class="py-2 pe-3 text-ink-mute">{comp.durationMinutes ? `${Math.floor(comp.durationMinutes / 60)}h ${comp.durationMinutes % 60 ? `${comp.durationMinutes % 60}m` : ''}`.trim() : '—'}</td>
+                        <td class="py-2 pe-3 text-ink-mute">{comp.marks}</td>
+                        <td class="py-2 pe-3 text-ink-mute">{comp.weightingPercent}%{comp.alternativeGroup && <span title="Sat as an alternative to another component"> *</span>}</td>
+                        <td class="py-2 text-ink-mute">{ASSESSMENT_TYPE_LABEL[comp.assessmentType] ?? comp.assessmentType}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+                {a.components.some((comp) => comp.alternativeGroup) && (
+                  <p class="m-0 mt-2 text-[13px] text-ink-mute">* Candidates sit one of the components marked with an asterisk, not all of them.</p>
+                )}
+                <p class="m-0 mt-3 text-[13px] text-ink-mute">
+                  Source: <a href={a.officialSourceUrl} rel="nofollow noopener" class="underline decoration-rule underline-offset-2">official {c.board} specification</a>, verified {a.verifiedOn}.
+                  {a.notes && <> {a.notes}</>}
+                </p>
+              </div>
+            ))
+          ) : (
+            <p class="m-0 text-ink-mute">
+              Marlbridge has not yet modeled the paper-by-paper assessment structure (marks, weighting, timing) for this
+              specific qualification. {syllabus ? <>Refer to the <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2">official {c.board} specification</a> for the current assessment scheme.</> : 'Refer to the official awarding-body specification for the current assessment scheme.'}
+            </p>
           )}
         </div>
       </div>

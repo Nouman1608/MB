@@ -24,7 +24,8 @@
  * legacy-revised collision (B), resource-leakage / inactive-board claim
  * (C), status contradiction (D), llms.txt resource-count-claim honesty (E),
  * FX-policy approved-base-rate protection and conversion-drift rejection
- * (L, M, v1.x Closure WS8).
+ * (L, M, v1.x Closure WS8), assessment-structure weighting-total and
+ * legacy/current-collision rejection (N, O, v1.x Closure WS5).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -277,6 +278,34 @@ withMutation(
     validatorCmd: 'node --experimental-strip-types scripts/validate-fx-policy.mjs',
     expectSubstring: 'Saudi Arabia (SAR) igcse: published 120',
     label: 'a converted rate drifted far beyond FX_TOLERANCE_PERCENT from FX_RATES is rejected',
+  },
+);
+
+console.log('\n[N] Assessment validator rejects a broken weighting total');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "{ paperCode: 'Paper 1', title: 'Non-calculator (Core)', durationMinutes: 90, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', tier: 'core' },",
+    "{ paperCode: 'Paper 1', title: 'Non-calculator (Core)', durationMinutes: 90, marks: 80, weightingPercent: 60, assessmentType: 'written-exam', tier: 'core' },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'component weightings sum to 110%',
+    label: "Cambridge IGCSE Mathematics 0580's Core tier weightings no longer sum to 100% is rejected",
+  },
+);
+
+console.log('\n[O] Assessment validator rejects a legacy/current collision');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "    code: 'H431',\n    specStatus: 'legacy-teach-out',",
+    "    code: 'H431',\n    specStatus: 'current',",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: "2 overlapping-tier records are marked 'current'",
+    label: 'both H431 and H436 marked current simultaneously (same tier, same combination) is rejected',
   },
 );
 
