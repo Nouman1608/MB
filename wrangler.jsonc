@@ -10,14 +10,32 @@
   // with a real 404 status for unknown paths. Before this, an unmatched
   // URL returned an entirely empty body — no nav, no recovery link.
   //
-  // The Worker in `main` only runs when no static asset matches the
-  // request, which is exactly the behaviour /api/enquiry needs: every
-  // real page is served straight from the asset store without invoking
-  // the Worker at all.
+  // Previously: the Worker in `main` only ran when no static asset matched
+  // the request (Workers Assets' default routing), which was exactly the
+  // behaviour /api/enquiry needed -- every real page served straight from
+  // the asset store without invoking the Worker at all. That default no
+  // longer applies now that `run_worker_first: true` is set below -- see
+  // that comment for why.
+  // v1.x CLOSURE WS3 -- `run_worker_first: true` added so the Worker's own
+  // fetch() runs for EVERY request (not just /api/enquiry and 404 misses)
+  // -- required because Workers Assets' default (`run_worker_first: false`)
+  // serves any path that matches a built file directly, bypassing the
+  // Worker entirely, which is exactly why a host check placed in fetch()
+  // could not otherwise catch a real page request like `/` or `/pricing/`
+  // on www.marlbridge.com (only true 404s would ever reach the Worker).
+  // Tradeoff, stated plainly rather than silently shipped: every request
+  // to the site now round-trips through this Worker's JS before assets are
+  // served, instead of only /api/enquiry and 404s -- a small, well-
+  // understood per-request cost (a couple of string comparisons before
+  // delegating to env.ASSETS.fetch()) in exchange for a real, repository-
+  // only www -> apex redirect with no Cloudflare dashboard dependency.
+  // See docs/decision-log.md, v1.x Closure WS3, for the full reasoning and
+  // the post-deploy verification this was checked against, not assumed.
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",
-    "not_found_handling": "404-page"
+    "not_found_handling": "404-page",
+    "run_worker_first": true
   },
 
   "observability": {
