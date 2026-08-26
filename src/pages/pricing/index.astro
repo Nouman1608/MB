@@ -33,11 +33,11 @@ const faqs = [
   },
   {
     question: 'How much does IB tuition cost?',
-    answer: `IB tuition (Middle Years Programme and Diploma Programme) is priced differently from the rest of the site: ${IB_PRICING.symbol} ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}, ${IB_PRICING.deliveryMode} This rate is confirmed for ${IB_PRICING.region} only -- last confirmed ${IB_PRICING.verifiedDate}. ${IB_PRICING.unsupportedRegionNote}`,
+    answer: `IB tuition (Middle Years Programme and Diploma Programme) is priced differently from the rest of the site: ${IB_PRICING.perClass.toLocaleString('en-US')} ${IB_PRICING.currency} ${IB_PRICING.unit}, ${IB_PRICING.deliveryMode} This rate is confirmed for ${IB_PRICING.region} only -- last confirmed ${IB_PRICING.verifiedDate}. ${IB_PRICING.unsupportedRegionNote}`,
   },
   {
     question: 'How much does one-to-one (1:1) tuition cost?',
-    answer: `One-to-one classes are priced per class rather than per subject per month. For IGCSE/GCSE/O Level it is ${ONE_TO_ONE_PRICING[0].symbol} ${formatFee(ONE_TO_ONE_PRICING[0].igcse, ONE_TO_ONE_PRICING[0].currency)} ${ONE_TO_ONE_PRICING[0].currency} ${ONE_TO_ONE_TERMS.unit}, and for A Level it is ${ONE_TO_ONE_PRICING[0].symbol} ${formatFee(ONE_TO_ONE_PRICING[0].aLevel, ONE_TO_ONE_PRICING[0].currency)} ${ONE_TO_ONE_PRICING[0].currency} ${ONE_TO_ONE_TERMS.unit}, confirmed for ${ONE_TO_ONE_PRICING[0].region}. See the one-to-one table on this page for other regions. ${ONE_TO_ONE_TERMS.conversionNote}`,
+    answer: `One-to-one classes are priced per class rather than per subject per month. For IGCSE/GCSE/O Level it is ${formatFee(ONE_TO_ONE_PRICING[0].igcse, ONE_TO_ONE_PRICING[0].currency)} ${ONE_TO_ONE_PRICING[0].currency} ${ONE_TO_ONE_TERMS.unit}, and for A Level it is ${formatFee(ONE_TO_ONE_PRICING[0].aLevel, ONE_TO_ONE_PRICING[0].currency)} ${ONE_TO_ONE_PRICING[0].currency} ${ONE_TO_ONE_TERMS.unit}, confirmed for ${ONE_TO_ONE_PRICING[0].region}. See the one-to-one table on this page for other regions. ${ONE_TO_ONE_TERMS.conversionNote}`,
   },
 ];
 const faq = faqNode(faqs);
@@ -67,8 +67,8 @@ const faq = faqNode(faqs);
             {REGION_PRICING.map((r) => (
               <tr class="border-b border-rule">
                 <td class="py-3 pr-4 text-ink">{r.region}</td>
-                <td class="py-3 pr-4 text-ink-mute">{r.symbol} {formatFee(r.igcse, r.currency)} <span class="text-[13px] text-ink-mute">{r.currency}/subject/month</span></td>
-                <td class="py-3 text-ink-mute">{r.symbol} {formatFee(r.aLevel, r.currency)} <span class="text-[13px] text-ink-mute">{r.currency}/subject/month</span></td>
+                <td class="py-3 pr-4 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">/subject/month</span></td>
+                <td class="py-3 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">/subject/month</span></td>
               </tr>
             ))}
           </tbody>
@@ -100,8 +100,8 @@ const faq = faqNode(faqs);
             {ONE_TO_ONE_PRICING.map((r) => (
               <tr class="border-b border-rule">
                 <td class="py-3 pr-4 text-ink">{r.region}</td>
-                <td class="py-3 pr-4 text-ink-mute">{r.symbol} {formatFee(r.igcse, r.currency)} <span class="text-[13px] text-ink-mute">{r.currency}/{ONE_TO_ONE_TERMS.unit}</span></td>
-                <td class="py-3 text-ink-mute">{r.symbol} {formatFee(r.aLevel, r.currency)} <span class="text-[13px] text-ink-mute">{r.currency}/{ONE_TO_ONE_TERMS.unit}</span></td>
+                <td class="py-3 pr-4 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">/{ONE_TO_ONE_TERMS.unit}</span></td>
+                <td class="py-3 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px] text-ink-mute">/{ONE_TO_ONE_TERMS.unit}</span></td>
               </tr>
             ))}
           </tbody>
@@ -121,7 +121,7 @@ const faq = faqNode(faqs);
       </p>
       <div class="mb-2 max-w-[420px] rounded-sm border border-rule bg-white p-6">
         <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{IB_PRICING.region}</p>
-        <p class="m-0 text-[17px] text-ink">{IB_PRICING.symbol} {IB_PRICING.perClass.toLocaleString('en-US')} <span class="text-[13px] text-ink-mute">{IB_PRICING.currency}/{IB_PRICING.unit}</span></p>
+        <p class="m-0 text-[17px] text-ink">{IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">/{IB_PRICING.unit}</span></p>
         <p class="m-0 mt-2 text-[13px] text-ink-mute">{IB_PRICING.deliveryMode}</p>
       </div>
       <p class="m-0 mt-3 text-[13px] text-ink-mute">{IB_PRICING.unsupportedRegionNote} Last confirmed {IB_PRICING.verifiedDate}.</p>

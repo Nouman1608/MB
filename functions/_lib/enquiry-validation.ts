@@ -9,7 +9,7 @@
  * dispatch) around it.
  */
 
-export type EnquiryKind = 'student' | 'tutoring' | 'school';
+export type EnquiryKind = 'student' | 'tutoring' | 'school' | 'trial';
 
 /**
  * The exact field set EnquiryForm.astro renders for each kind. Anything
@@ -36,6 +36,23 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
   school: {
     required: ['name', 'school', 'role', 'email', 'country', 'message'],
     optional: ['phone'],
+  },
+  // QIGT trust workstream (Aug 2026) -- the "Free Trial Class" button
+  // previously routed to the same generic five-field student form with no
+  // way to say what the trial should actually cover. Qualification, board
+  // and subject are collected as structured fields here (rather than left
+  // to the message hint, as student/tutoring do) because a trial request
+  // specifically needs routing to the right teacher before any reply can
+  // be useful. There is deliberately no separate "level" field: in this
+  // site's own data model qualification already IS the level (IGCSE,
+  // O Level, A Level, etc. -- see LEVEL_FOR_QUALIFICATION in
+  // src/utils/academic/index.ts), so a second field would either repeat
+  // qualification or invent a schooling-year concept this site does not
+  // otherwise use. "Availability" is optional free text, not a calendar
+  // picker -- no scheduling system exists to back one.
+  trial: {
+    required: ['name', 'email', 'country', 'qualification', 'board', 'subject', 'message'],
+    optional: ['phone', 'availability'],
   },
 };
 
@@ -114,11 +131,14 @@ const KIND_LABEL: Record<EnquiryKind, string> = {
   student: 'Student / parent enquiry',
   tutoring: 'Tutoring enquiry',
   school: 'School enquiry',
+  trial: 'Free trial class request',
 };
 
 const FIELD_LABEL: Record<string, string> = {
   name: 'Name', school: 'School', role: 'Role', email: 'Email', phone: 'Phone',
   country: 'Country', message: 'Message',
+  qualification: 'Qualification', board: 'Exam board', subject: 'Subject',
+  availability: 'Availability',
 };
 
 /** Plain-text email body. Every value was already sanitized by validateEnquiry. */

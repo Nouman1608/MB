@@ -1713,3 +1713,75 @@ Status values: `answered` (owner has responded, implemented), `open`
   cross-board-regression, negative-validation-suite [11/11],
   `npm run audit:all`, unit tests [13/13], npm audit [0 vulnerabilities],
   tsc --noEmit, wrangler deploy --dry-run).
+
+## D-034 — QIGT Section 5: trust-consistency workstream (pricing display, teaching-location, authorship, licensing, trial flow)
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, Section 5 (Trust consistency).
+- **Pricing display bug fixed (duplicated currency):** `src/pages/pricing/index.astro` rendered every fee as
+  `{symbol} {amount} {currency}/unit` -- for regions where the symbol already IS the ISO code (SAR, AED, QAR,
+  KWD, BHD, OMR) this produced literal duplication ("SAR 270 SAR/subject/month"), and even where symbol and
+  code differ (Rs/PKR, £/GBP) it showed both together, exactly the defect class the brief named. Standardised
+  every fee cell, the IB card and both pricing FAQ answers on a single format -- amount + ISO currency code
+  only, unit stated separately (e.g. "270 SAR /subject/month", "19,000 PKR /subject/month") -- across the two
+  region tables, the one-to-one table, the IB card and the two FAQ answers that previously spelled out symbol
+  + code together. No amount, rounding or region was changed; `src/data/pricing.ts` (the canonical source) was
+  not touched. Confirmed the three localised homepages (`/ar/`, `/bn/`, `/ur/`) do NOT have this bug -- they
+  already show currency in its own labelled table column, separate from the symbol+amount cell, and needed no
+  change. Re-ran `validate-pricing-consistency.mjs` after the fix -- still 0 hard-coded fee values outside
+  `pricing.ts` across 879 files.
+- **Teaching-location wording:** checked homepage (`GlobalVision.astro`), About, Tutoring and Contact for
+  consistency. All four already say the same thing in compatible wording -- in-person teaching in Pakistan,
+  online for learners elsewhere, resource library open to anyone -- no contradiction found, no change made.
+- **Authorship-policy contradiction found beyond D-032's editorial-policy fix:** `src/pages/about/index.astro`
+  still claimed "Study material published on Marlbridge is written **and reviewed** by subject specialists"
+  (an unqualified, blanket review claim) and separately implied ALL published work carries the organisational
+  "Marlbridge Academic Team" byline. Both were false against current data: only 1 of 735 published
+  resources+articles has `reviewStatus: reviewed` (`where-igcse-maths-marks-are-lost-early.md`; re-verified
+  directly via grep against `src/content/`, matching the review-integrity validator's own count), and 373/731
+  resources already carry a real named author, not the organisational byline (the same fact D-032 already used
+  to fix `editorial-policy.astro`). Rewrote both paragraphs on About to state the true, current split (most
+  resources named-authored, a minority organisationally credited; review is a separate, accountable,
+  not-yet-universal check) -- bringing About into the same honest framing D-032 already established elsewhere,
+  rather than inventing new wording independently.
+- **Licensing contradiction found and reconciled:** `/schools/` explicitly tells schools "No licence, no
+  account, no attribution required" to use published resources with their classes, while `/legal/terms/`'s
+  "Using our content" section told the same audience to "write to us first" for exactly that use -- a direct
+  page-to-page contradiction for the same audience (not just vague inconsistency). Reconciled by narrowing
+  Terms to carve out an explicit exception matching what Schools already grants (class use, no permission
+  needed) while keeping the "write to us first" requirement for the different, still-real cases Terms actually
+  intends to gate -- republishing under another name, resale, other partnerships. Did not touch the sitewide
+  footer copyright notice ("© 2026 Marlbridge. All rights reserved.") -- a standard ownership assertion, not
+  itself a reuse restriction, so it does not conflict with a specific permission grant elsewhere. The deeper
+  question of exactly how far the schools' class-use permission extends (bulk printing, LMS upload,
+  modification) is a genuine unresolved scope question, not something inferable from existing wording --
+  flagged for the business-decisions register (task #81), not resolved here.
+- **Free Trial Class form flow built:** the header/mobile-menu "Free Trial Class" button previously linked to
+  the generic five-field `/contact/` enquiry form (`kind="student"`), with qualification/board/subject/level
+  left to free-text in the message hint -- exactly the gap the brief named. Added a `trial` `EnquiryKind`
+  (`functions/_lib/enquiry-validation.ts`, `src/utils/forms/submit.ts`) with structured required fields
+  (qualification, exam board, subject) plus optional availability, and a new dedicated page at `/trial/`
+  (`routes.trial`) using `EnquiryForm kind="trial"`; both header buttons now point at `/trial/` instead of
+  `/contact/`. Qualification/board/subject dropdown options are read live from `QUALIFICATIONS`/`BOARDS`/
+  `SUBJECTS` in `src/utils/academic/`/`src/data/academic/` (the same verified academic-matrix data every board
+  hub page already uses), plus IELTS and "General academic support" added on top since both are genuinely
+  taught per the existing Contact FAQ but sit outside the examined-syllabus matrix. Deliberately did NOT add a
+  separate "level" field distinct from qualification -- in this site's own data model qualification already IS
+  the level (see `LEVEL_FOR_QUALIFICATION`), so a second field would either duplicate it or invent a
+  schooling-year concept the site does not otherwise use; documented this consolidation in the code comment
+  rather than silently doing something different from the brief's literal field list. The submission
+  confirmation copy states plainly this is a request, not a confirmed booking, and makes no response-time
+  promise (none exists to promise). Added 5 new unit tests for the `trial` kind (required-field validation,
+  successful submission, email-body rendering) -- `functions/api/__tests__/enquiry-validation.test.mjs` now
+  16/16 passing; updated `test-negative-validation-suite.mjs`'s stale "11 cases" reference to 16.
+- **Explicitly identified as genuinely unresolved, not invented an answer for:** discount stacking (can the
+  multi-subject and sibling discounts combine?), class duration/frequency, cancellation/refund rules, payment
+  schedule/fees, and the precise scope of the schools' content-licence grant. All five are real gaps in
+  publicly stated policy, none inferable from existing evidence -- routed to the business-decisions register
+  (task #81) rather than guessed at here.
+- **Guardrail check:** no business fact, price, or academic claim was invented; `pricing.ts` amounts are
+  unchanged; the only qualification/board/subject options exposed anywhere are ones the site already publicly
+  claims to teach.
+- **Status:** implemented on `feature/qigt-trust-consistency`, full validation gate green (astro build,
+  `validate:academic` chain incl. `validate-pricing-consistency.mjs` and `validate-review-integrity.mjs`,
+  `audit:all`, `enquiry-validation.test.mjs` [16/16], `test-negative-validation-suite.mjs` [11/11]).

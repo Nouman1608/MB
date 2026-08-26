@@ -5,6 +5,7 @@ import Select from './Select.astro';
 import Textarea from './Textarea.astro';
 import { FALLBACK_EMAIL, type EnquiryKind } from '../../utils/forms/submit';
 import { site } from '../../data/site';
+import { QUALIFICATIONS, BOARDS, SUBJECTS } from '../../utils/academic';
 
 // v1.x CLOSURE WS4 -- student/tutoring enquiries no longer take separate
 // program/subject/level/format fields; visitors are asked to mention
@@ -17,6 +18,23 @@ const { kind } = Astro.props;
 const roles = ['Head of school', 'Head of department', 'Teacher', 'Coordinator', 'Other'];
 const mailto = 'mailto:' + FALLBACK_EMAIL;
 const turnstileSiteKey = site.turnstile.siteKey;
+
+// QIGT trust workstream (Aug 2026) -- the trial-request dropdowns read
+// directly from the real academic matrix data (src/data/academic/), never
+// a hand-typed list, so they can't drift from what Marlbridge actually
+// teaches. IELTS and general academic support are added on top because
+// both are genuinely taught (see the Contact FAQ) but sit outside the
+// board/qualification matrix, which only models examined syllabuses.
+const trialQualifications = [
+  ...QUALIFICATIONS.filter((q) => q.status === 'offered').map((q) => q.name),
+  'IELTS',
+  'General academic support',
+];
+const trialBoards = [
+  ...BOARDS.filter((b) => b.status === 'offered').map((b) => b.name),
+  'Not applicable (IELTS / general support)',
+];
+const trialSubjects = [...SUBJECTS.map((s) => s.name), 'Not sure / general support'];
 ---
 {/*
   v1.2 WS3 — action now points at the real /api/enquiry Cloudflare Pages
@@ -45,19 +63,57 @@ const turnstileSiteKey = site.turnstile.siteKey;
 
   <FormField name="email" label="Email" required><Input name="email" type="email" autocomplete="email" inputmode="email" required /></FormField>
   <FormField name="phone" label="Phone"><Input name="phone" type="tel" autocomplete="tel" inputmode="tel" /></FormField>
-  <FormField name="country" label="Country" required><Input name="country" autocomplete="country-name" required /></FormField>
+  <FormField
+    name="country"
+    label="Country"
+    required
+    hint={kind === 'trial' ? 'Also tells us your timezone, so we can suggest a class time.' : undefined}
+  >
+    <Input name="country" autocomplete="country-name" required />
+  </FormField>
+
+  {kind === 'trial' && (
+    <FormField name="qualification" label="Qualification" required>
+      <Select name="qualification" options={trialQualifications} required />
+    </FormField>
+  )}
+  {kind === 'trial' && (
+    <FormField name="board" label="Exam board" required hint="Choose 'Not applicable' for IELTS or general academic support.">
+      <Select name="board" options={trialBoards} required />
+    </FormField>
+  )}
+  {kind === 'trial' && (
+    <FormField name="subject" label="Subject" required>
+      <Select name="subject" options={trialSubjects} required />
+    </FormField>
+  )}
+  {kind === 'trial' && (
+    <FormField name="availability" label="Availability" hint="Days/times that generally suit the learner, and your timezone if not obvious from country.">
+      <Input name="availability" />
+    </FormField>
+  )}
 
   <FormField
     name="message"
     label="Message"
     required
-    hint={kind === 'school'
-      ? 'What does your school need?'
-      : 'What does the learner need help with? Please include the programme (e.g. IGCSE, A Level), the exam board if known, the subject and the level.'}
+    hint={
+      kind === 'school'
+        ? 'What does your school need?'
+        : kind === 'trial'
+          ? 'What would you like the trial class to focus on?'
+          : 'What does the learner need help with? Please include the programme (e.g. IGCSE, A Level), the exam board if known, the subject and the level.'
+    }
     class="sm:col-span-2"
   >
     <Textarea name="message" required />
   </FormField>
+
+  {kind === 'trial' && (
+    <p class="m-0 sm:col-span-2 text-[13.5px] text-ink-mute">
+      This sends a request, not a confirmed booking — Marlbridge will reply by email to arrange the trial class once it can confirm a teacher and time.
+    </p>
+  )}
 
   {/* v1.x WS2 -- Cloudflare Turnstile widget. Renders only when a site
       key is configured (site.turnstile.siteKey, a public identifier, not

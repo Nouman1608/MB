@@ -1,0 +1,63 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import EnquiryForm from '../../components/forms/EnquiryForm.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import { faqNode } from '../../utils/schema/faq';
+import { routes } from '../../utils/urls/routes';
+import { PRICING_TERMS } from '../../data/pricing';
+
+/**
+ * QIGT trust workstream (Aug 2026) -- previously "Free Trial Class" in the
+ * header just linked to the generic /contact/ enquiry form, with no way to
+ * say what the trial should cover; the visitor had to type qualification,
+ * board, subject and level into a free-text message. This page gives the
+ * trial request its own structured form (EnquiryForm kind="trial") and its
+ * own honest FAQ, reusing only facts already published elsewhere (pricing,
+ * teaching locations, qualifications) -- nothing here is a new claim.
+ */
+const faqs = [
+  {
+    question: 'Is the trial class really free?',
+    answer: `${PRICING_TERMS.freeTrial} There is no charge and no obligation to continue.`,
+  },
+  {
+    question: 'Does submitting this form book the class?',
+    answer: 'No -- this sends a request. Marlbridge replies by email to confirm a teacher and a time before anything is scheduled.',
+  },
+  {
+    question: "What if I'm not sure which board or subject applies?",
+    answer: 'Choose "Not sure / general support" for subject and "Not applicable" for exam board -- Marlbridge will confirm the right fit by email.',
+  },
+  {
+    question: 'Where does Marlbridge teach?',
+    answer: 'Marlbridge teaches in Pakistan today. Learners outside our teaching locations are taught online.',
+  },
+];
+const faq = faqNode(faqs);
+---
+<PageLayout
+  title="Free Trial Class"
+  description="Request a free trial class from Marlbridge. Tell us the qualification, board and subject, and we will reply by email to confirm a teacher and a time."
+  path={routes.trial}
+  eyebrow="Free trial"
+  heading="Request a free trial class."
+  lead="Tell us the qualification, board and subject, and where the learner needs help. We will reply by email to confirm a teacher and a time -- this is a request, not a booking."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Free Trial Class', href: routes.trial }]}
+  jsonLd={faq ? [faq] : []}
+>
+  <Section surface="white">
+    <Container><EnquiryForm kind="trial" /></Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions</h2>
+      <FAQ items={faqs} id="trial-faqs" />
+      <p class="m-0 mt-8 text-[15.5px]">
+        Have a different question first? <a href={routes.contact} class="underline decoration-gold-500 underline-offset-2">Send a general enquiry</a> instead.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>
