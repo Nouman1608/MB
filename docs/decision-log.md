@@ -1088,6 +1088,83 @@ Status values: `answered` (owner has responded, implemented), `open`
   resources (2,433 words combined) that were already written and tagged
   correctly but structurally invisible on this page.
 
+## D-048 — v1.x Closure WS9: fresh review of the 12 duplicate-scope warnings
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, Workstream 9.
+- **Task:** `npm run check:duplicate-scope` flags resource pairs that declare an identical
+  official syllabus scope (subject/boards/qualifications/stage/resourceType/syllabusTopics),
+  without judging whether the underlying content is actually duplicated -- that judgement
+  requires reading prose, which only a human/agent can do. A prior audit (2026-08-23, D-010)
+  had reviewed these same 12 groups and left all 12 alone as legitimately different content.
+  This release requires a **fresh** review, not inherited from that note -- so every one of the
+  12 was re-read from scratch on 2026-08-26, evidence recorded independently of the prior finding.
+- **Result of the fresh review:**
+  - **10 of 12 groups confirmed genuinely different content**, each with specific evidence now
+    recorded in `REVIEWED_LEGITIMATE` inside `scripts/check-duplicate-resource-scope.mjs` itself
+    (kept next to the code so it can't drift from what the checker actually enforces): 2 English
+    A Level Language groups (Paper 1 Reading -- discourse/register analysis vs language
+    change/child acquisition; and toolkit vs exam-mechanics revision notes), 1 Law A Level
+    practice-questions group (courts/judiciary/juries/personnel vs sources/procedure/ADR/
+    sentencing), 5 Physics O Level groups (elastic deformation/moments vs Newton's laws/motion;
+    energy resources/efficiency vs energy/work/power, ×3 resource types; forces-and-motion vs
+    moments-and-stability, ×2 resource types), 1 Sociology IGCSE practice-questions group
+    (methods+inequality blend vs a pure methods deep-dive). No shared question, answer, or
+    substantial passage was found in any of these 10 pairs.
+  - **2 of 12 groups were real duplicates** -- both are Law and Sociology **revision-notes**
+    pairs. In both cases the two files independently condensed the exact same underlying
+    study-guide resource (both explicitly link to it as "the full explanation" for the
+    condensed notes) on separate content-generation passes, and their core sections read as the
+    same material restated in different formatting -- e.g. the Law pair both explained the same
+    four statutory-interpretation rules with the same three Latin language-rule maxims and the
+    same distinguishing/overruling/reversing precedent trio; the Sociology pair both explained
+    the same methods-comparison table (questionnaire/structured interview/unstructured
+    interview/participant observation/official statistics) with matching strengths/weaknesses
+    and the same reliability/validity/representativeness definitions. This is exactly the
+    failure mode `check-duplicate-resource-scope.mjs` exists to catch, not a false positive.
+- **Fix applied to both real duplicates -- merge, not delete-and-forget:**
+  - `a-law-english-legal-system-revision-notes.md` kept as canonical (matches its own
+    practice-questions sibling's naming convention); its only gap versus the retired file (a
+    "The legislative process" section) merged in; description and self-test updated accordingly.
+    `law-english-legal-system-revision-notes.md` retired.
+  - `igcse-sociology-methods-inequality-revision-notes.md` kept as canonical (same naming-
+    convention reasoning); its only gap versus the retired file (a "Perspectives in one line
+    each" section -- functionalism/Marxism/feminism/interactionism, not covered anywhere in the
+    canonical file) merged in; description, exam traps and self-test updated to match.
+    `sociology-research-methods-revision-notes.md` retired. Frontmatter identity fields
+    (`topic`, `syllabusSeries`, `syllabusTopics`) were preserved exactly as in the pre-existing
+    canonical file in both merges -- only `description` and body content changed.
+  - Both retired files: 301-redirected (flat URL + all 7 type-prefixed URL variants) to their
+    surviving canonical resource via `CONSOLIDATED_RESOURCES` in `scripts/generate-redirects.mjs`.
+  - Both practice-questions siblings whose "Related:" link pointed at a retired file
+    (`law-english-legal-system-practice.md`, `sociology-research-methods-practice.md`) updated
+    to link the surviving canonical resource directly, rather than relying on the redirect.
+- **Checker made a real gate, not advisory:** `check-duplicate-resource-scope.mjs` rewritten so
+  any group NOT present in its own `REVIEWED_LEGITIMATE` list fails the build (exit 1) --
+  previously it always exited 0 and was not wired into `validate:academic` at all. Now wired
+  into `npm run validate:academic` (last step in the chain), so a future weekly-automation run
+  that reintroduces an unreviewed same-scope pair fails CI, not just prints a warning someone
+  has to notice. `--only-involving` mode (used by the weekly automation itself, which cannot
+  edit the allowlist) stays informational (always exits 0) since failing an automation run that
+  has no way to resolve the finding would just block content publication with no path forward.
+- **Regression fixtures added** (`scripts/test-negative-validation-suite.mjs`, categories [J] and
+  [K], 13 cases total, up from 11): [J] mutates `momentum.md`'s `syllabusTopics` to collide with
+  `kinematics.md` (two real O Level Physics study-guides not currently in any group) and asserts
+  the checker fails the build on this brand-new, not-yet-reviewed group; [K] asserts the checker
+  still exits 0 cleanly across all 10 currently allow-listed groups, so a future edit that
+  silently desyncs `REVIEWED_LEGITIMATE` from the actual resource files is itself caught.
+- **Verification:** `npm run check:duplicate-scope` now reports exactly 10 reviewed groups with
+  evidence and exits 0; `npm run validate:academic` (with the checker now included) passes end
+  to end; `npm run build`, `npm run audit:all` (metadata/structured-data/redirects/internal-
+  links/content-integrity/fonts/sitemap-noindex), and `npm run test:negative-validation-suite`
+  equivalent (`node scripts/test-negative-validation-suite.mjs`, 13/13) all pass with zero
+  broken links and zero orphan pages after the merge; `npm audit` reports 0 vulnerabilities.
+- **Status:** all 12 warnings individually classified with recorded evidence; both genuine
+  defects fixed (merged, redirected, links updated); the 10 legitimate groups allow-listed with
+  evidence, not merely re-asserted from the prior note; the checker now fails the build on any
+  future unreviewed group; regression fixtures prove both the fail-path and the allow-listed
+  pass-path.
+
 ## D-049 — v1.x Closure WS8: FX-rate policy
 
 - **Date:** 2026-08-26.
