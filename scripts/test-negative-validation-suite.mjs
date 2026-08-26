@@ -30,7 +30,7 @@
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
  * runs on every build), form validation/spam/rate-limiting (
- * functions/api/__tests__/enquiry-validation.test.mjs, 16 cases), invalid
+ * functions/api/__tests__/enquiry-validation.test.mjs, 18 cases), invalid
  * Person/Organization schema (enforced structurally by content.config.ts's
  * required, no-default `entityType` field — a missing/invalid value fails
  * Zod parsing at build time, not a separate runtime check), sitemap/noindex
@@ -186,7 +186,7 @@ console.log('\n[E] llms.txt resource-category claims are live-derived, not hardc
 }
 
 console.log('\n[F] Form validation, spam and success/failure paths');
-console.log('  → covered by functions/api/__tests__/enquiry-validation.test.mjs (16 cases; run separately via');
+console.log('  → covered by functions/api/__tests__/enquiry-validation.test.mjs (18 cases; run separately via');
 console.log('    `node --experimental-strip-types --test functions/api/__tests__/enquiry-validation.test.mjs`)');
 
 console.log('\n[G] Invalid Person/Organization schema');
