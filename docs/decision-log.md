@@ -2002,3 +2002,36 @@ Status values: `answered` (owner has responded, implemented), `open`
   validation gate green (`npm run build`; `validate:academic`; `audit:all`; `npm run check` --
   0 errors/warnings/hints); accessibility verified via real before/after Lighthouse runs, not
   static audit alone.
+
+## D-040 — Business-decisions register (owner input required)
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, task #81.
+- **What this is:** a single consolidated document (`docs/business-
+  decisions-register.md`) listing every question surfaced across this
+  window's workstreams (and one earlier finding, D-010/D-033) that
+  genuinely cannot be answered from the codebase, the live site, or
+  public awarding-body sources -- not a new investigation, a
+  consolidation of gaps already identified and explicitly deferred in
+  D-034 and D-033.
+- **Items registered:** (1) exact scope of the schools' content-licence
+  grant (bulk printing / LMS upload / modification -- D-034); (2)
+  whether the multi-subject and sibling pricing discounts stack
+  (D-034); (3) standard class duration and frequency per subject/level
+  (D-034); (4) cancellation/refund policy, currently unstated anywhere
+  on the site (D-034); (5) billing cadence, accepted payment methods,
+  and any fees beyond the published per-subject rate (D-034); (6)
+  `www.marlbridge.com` not resolving at all rather than redirecting to
+  the bare domain -- a DNS/Cloudflare-dashboard fix outside this repo
+  (D-010, reconfirmed D-033).
+- **Deliberately excluded, with reasoning given in the register itself:**
+  faculty/reviewer role mapping (D-004/D-005/D-006) -- already resolved,
+  owner approved publishing all 19 real teachers; and the `/resources/`
+  index performance issue (D-039) -- an engineering follow-up, not a
+  business decision, tracked in the final QIGT report (#83) instead.
+- **Guardrail check:** no answer was invented or guessed for any item;
+  each entry states only what the site currently does NOT say, and asks
+  the specific question the owner would need to answer to close it.
+- **Status:** delivered as `docs/business-decisions-register.md`; all six
+  items remain `open` pending direct owner input; none block the
+  remaining technical QIGT workstreams (#82, #83).
