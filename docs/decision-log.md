@@ -1906,3 +1906,46 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented directly on `main`-bound branch `feature/qigt-ia-honesty`, full validation gate
   green (`npm run build` -- 1132 pages; `validate:academic`; `audit:all` incl. 0 orphan pages after the nav
   change; `npm run check` -- 140 files, 0 errors/warnings/hints).
+
+## D-038 — QIGT Section 8: AEO/GEO/AIO schema and llms.txt truthfulness pass
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, Section 8 (AEO/GEO/AIO / structured data / llms.txt).
+- **Scope:** audited every schema-emitting utility (`src/utils/schema/*.ts`) and every `llms.txt` data path
+  against the brief's specific concerns -- FAQ schema mirroring, Course/offering exaggeration,
+  Organization/EducationalOrganization identity conflicts, and draft/archived content leaking into `llms.txt`.
+  `npm run audit:structured-data` already checks syntactic validity (valid JSON, `@type`/`@context` present)
+  but not semantic truthfulness, so this pass was manual/targeted rather than re-running an existing script.
+- **FAQ schema mirroring -- verified airtight, no fix needed:** checked all 7 call sites of `faqNode()`
+  (`/trial/`, `/contact/`, `/pricing/`, subject hubs, board hubs, qualification hubs, program pages) and
+  confirmed every single one passes the exact same array to `faqNode()` and the visible `<FAQ items={...}>`
+  component -- structurally guaranteed to match, not just currently matching.
+- **Course schema -- verified minimal, no fix needed:** `courseNode()` emits only name/description/provider,
+  no `offers`, `aggregateRating`, `hasCourseInstance` or enrollment claims; both call sites are gated to only
+  ever run for genuinely ACTIVE, Marlbridge-taught combinations (one explicit check, one structurally
+  guaranteed by route generation itself already filtering to `isPublishable()`).
+- **Organization/EducationalOrganization identity -- verified no conflict, no fix needed:** exactly one
+  `EducationalOrganization` node exists site-wide (`organization.ts`'s `siteGraph()`, `@id`
+  `/#organization`); the "Marlbridge Academic Team" org-byline uses a distinct `Organization` type with its
+  own `@id` and an explicit `parentOrganization` link back to the main entity (pre-existing design from an
+  earlier session, `v1.2 WS7`) -- confirmed by grepping the entire codebase for the literal
+  `'EducationalOrganization'` string (exactly one occurrence).
+- **Real gap found and fixed -- llms.txt draft-resource leak:** `scripts/generate-llms-txt.mjs`'s "Study
+  resources" line already only names resourceType categories with at least one real file present (a prior
+  session's `v1.2 WS8` fix, still correct) -- but it counted ANY file with that `resourceType`, including a
+  hypothetical `reviewStatus: draft` one, which never builds a page and is unreachable
+  (`getResources()` excludes drafts -- see D-032/#73). Currently 0 draft resources exist, so this was not yet
+  producing a live false claim, but it is a real, verified latent bug that would silently misstate the file's
+  own stated honesty guarantee ("cannot appear here unless it already has a real, publishable page") the
+  moment the draft state -- now a real, enforced feature -- is actually used. Added a `reviewStatus === 'draft'`
+  skip. Confirmed behavior-preserving for current content (`git diff public/llms.txt` -- no output) and
+  confirmed the existing negative-fixture test `[E]` (adds/removes a past-papers resource, asserts the line
+  appears/disappears) still passes unchanged.
+- **llms.txt never described as a ranking mechanism:** grepped the entire `src/` tree for any public-facing
+  mention of `llms.txt` -- none exists anywhere on the site, so there is no description of it to be wrong
+  about.
+- **Guardrail check:** no schema property, FAQ answer, course description or llms.txt line was added or
+  reworded with new claims -- the only change was closing a latent gap in an existing draft-exclusion rule.
+- **Status:** implemented directly on `main`-bound branch `feature/qigt-aeo-truthfulness`, full validation
+  gate green (`npm run build`; `validate:academic`; `audit:all`; `npm run check` -- 0 errors/warnings/hints;
+  `enquiry-validation.test.mjs` 23/23; `test-negative-validation-suite.mjs` 11/11 incl. `[E]`).
