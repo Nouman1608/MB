@@ -9,7 +9,7 @@ import ShareLinks from '../../components/articles/ShareLinks.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import ArticleCard from '../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
-import { getArticles, readingTime } from '../../utils/content/collections';
+import { getArticles, readingTime, formatDate } from '../../utils/content/collections';
 import { relatedArticles, relatedResources } from '../../utils/content/related';
 import { articleNode } from '../../utils/schema/article';
 import { routes } from '../../utils/urls/routes';
@@ -29,6 +29,11 @@ const author = await getEntry(d.author);
 const subjects = (await Promise.all(d.subjects.map((ref) => getEntry(ref)))).filter(Boolean);
 const primarySubjectId = d.subjects[0]?.id;
 const minutes = readingTime(article.body ?? '');
+
+/** QIGT programme -- see the matching block in resources/[slug].astro for full rationale. */
+const reviewerEntry = d.reviewer ? await getEntry(d.reviewer) : undefined;
+const genuinelyReviewed = d.reviewStatus === 'reviewed' && !!reviewerEntry && reviewerEntry.data.isReviewer === true;
+const pageNoindex = d.noindex || d.reviewStatus === 'archived';
 const alsoArticles = await relatedArticles({ subject: primarySubjectId, category: d.category, picked: d.relatedArticles, excludeId: article.id, limit: 3 });
 const alsoResources = await relatedResources({ subject: primarySubjectId, picked: d.relatedResources, limit: 3 });
 
@@ -40,6 +45,9 @@ const jsonLd = [articleNode({
   updated: d.updatedDate,
   authorName: author?.data.name ?? 'Marlbridge Academic Team',
   authorEntityType: author?.data.entityType ?? 'organization',
+  ...(genuinelyReviewed
+    ? { editorName: reviewerEntry!.data.name, editorEntityType: reviewerEntry!.data.entityType }
+    : {}),
 })];
 ---
 <PageLayout
@@ -60,7 +68,7 @@ const jsonLd = [articleNode({
     { label: d.title, href: path },
   ]}
   jsonLd={jsonLd}
-  noindex={d.noindex}
+  noindex={pageNoindex}
 >
   <Section surface="white">
     <Container width="prose">
@@ -77,6 +85,12 @@ const jsonLd = [articleNode({
           <a href={routes.author(author.id)} class="mt-2 block text-[18px] font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2">{author.data.name}</a>
           <p class="m-0 mt-1 text-[14px] text-ink-mute">{author.data.role}</p>
           <p class="m-0 mt-3 text-[16px] leading-[1.65] text-ink-mute">{author.data.bio}</p>
+          {genuinelyReviewed && (
+            <p class="m-0 mt-4 border-t border-rule pt-4 text-[14px] text-ink-mute">
+              Reviewed by <a href={routes.author(reviewerEntry!.id)} class="font-medium text-navy-800 underline decoration-gold-500 underline-offset-2">{reviewerEntry!.data.name}</a>
+              {d.reviewedDate && <> on <time datetime={d.reviewedDate.toISOString()}>{formatDate(d.reviewedDate)}</time></>}
+            </p>
+          )}
         </aside>
       )}
 

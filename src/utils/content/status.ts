@@ -74,7 +74,10 @@ export function activeCombinationCountForQualification(qualificationSlug: string
  * resources whose `subject` reference resolves to this content id.
  */
 export async function resourcesAvailableFor(subjectContentId: string): Promise<{ count: number; available: boolean }> {
-  const resources = await getCollection('resources');
+  // QIGT programme -- exclude draft resources from the count so a subject's
+  // advertised resource count never includes a page that getStaticPaths
+  // doesn't actually build (see src/utils/content/collections.ts).
+  const resources = (await getCollection('resources')).filter((r) => r.data.reviewStatus !== 'draft');
   const count = resources.filter((r) => r.data.subject.id === subjectContentId).length;
   return { count, available: count > 0 };
 }

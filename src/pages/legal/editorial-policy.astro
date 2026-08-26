@@ -4,7 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '18 August 2026';
+const lastUpdated = '26 August 2026';
 ---
 <PageLayout
   title="Editorial &amp; Trust Policy"
@@ -28,20 +28,28 @@ const lastUpdated = '18 August 2026';
         <h2 id="editorial-policy">Editorial policy</h2>
         <p>
           Marlbridge publishes study guides, revision notes and practice material written against the specific,
-          named examination-board syllabus each resource declares (see its "Syllabus" and board labels). Content
-          is written by, or under the direction of, the Marlbridge Academic Team — a team, not a named individual,
-          until real individual author profiles are introduced (see "Authorship" below). New content is added
-          topic by topic as it is written; pages are not published as placeholders and then backfilled.
+          named examination-board syllabus each resource declares (see its "Syllabus" and board labels). Most
+          resources are written by a named member of the Marlbridge teaching team, credited by name on the
+          resource itself and linked to their own author page (see "Authorship" below); the remainder carry the
+          Marlbridge Academic Team byline, an organisational credit used for collaboratively-produced material
+          rather than any one person's independent work. New content is added topic by topic as it is written;
+          pages are not published as placeholders and then backfilled.
         </p>
 
         <h2 id="academic-review-policy">Academic review policy</h2>
         <p>
           Every resource is written against the official syllabus document for the board, qualification and
-          syllabus code it declares, and is checked against that document before publication. Marlbridge does
-          not currently operate a separate, named second-reviewer sign-off step distinct from the author — this
-          is a genuine limitation, stated plainly rather than implied away with review-sounding language the
-          site cannot back up. Introducing a distinct named-reviewer step is tracked as future work (see
-          "Corrections" below for how errors are still caught and fixed in the meantime).
+          syllabus code it declares, and is checked against that document by its named author before
+          publication. Marlbridge separately supports a distinct, accountable second-reviewer step — a named
+          reviewer, different from the author, who has genuinely checked the content — and this is enforced at
+          build time: a page can only display "Reviewed by [name]" if a real reviewer record exists for a real
+          person the site designates a genuine reviewer, and the underlying data is validated on every release
+          (see `scripts/validate-review-integrity.mjs` in the repository). As of {lastUpdated}, this
+          second-reviewer step has been completed for one published article; the great majority of resources
+          are honestly labelled review-pending, meaning they were written and checked by their named author
+          against the official syllabus but have not yet been through this separate second review. Review work
+          is being worked through in a documented priority order, not all at once (see "Corrections" below for
+          how errors are still caught and fixed in the meantime).
         </p>
 
         <h2 id="syllabus-verification-policy">Syllabus verification policy</h2>
@@ -107,11 +115,16 @@ const lastUpdated = '18 August 2026';
 
         <h2 id="authorship">Authorship and accountability</h2>
         <p>
-          Published work currently carries the <a href="/authors/marlbridge-academic-team/" class="underline decoration-gold-500 underline-offset-2">Marlbridge Academic Team</a> byline
-          — a team, not an individual — because Marlbridge has not yet published real, named individual author
-          profiles with genuine credentials. Individual profiles will be introduced, with real names and
-          verifiable qualifications, rather than invented ones; nothing on this site attributes content to a
-          named person who does not exist.
+          Most published resources carry a real, named author — a member of the Marlbridge teaching team,
+          credited on the resource page and linked to their own author page, which states only verified facts
+          (role, years of teaching experience, previous schools) sourced from a cited public source and dated
+          when it was last checked. A minority of resources and articles instead carry the
+          <a href="/authors/marlbridge-academic-team/" class="underline decoration-gold-500 underline-offset-2">Marlbridge Academic Team</a> byline
+          — an organisational credit, not a person, used where content was produced collaboratively rather than
+          by one individual; this byline is marked in the page's structured data as an Organization, never as a
+          Person. Being credited as an author is a separate role from being a reviewer: a reviewer is a second,
+          distinct, accountable check on already-written content, and Marlbridge only ever displays a review
+          claim where that genuine second check has actually taken place (see "Academic review policy" above).
         </p>
       </div>
     </Container>

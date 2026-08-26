@@ -114,6 +114,49 @@ function buildIndexabilityExclusions() {
 
 const noindexAcademicPaths = buildIndexabilityExclusions();
 
+/**
+ * QIGT programme -- sitemap exclusion for `archived` resources/articles.
+ *
+ * A `draft` resource/article is excluded from getStaticPaths entirely
+ * (see src/utils/content/collections.ts), so it never becomes a route and
+ * therefore can never appear in the sitemap -- no extra handling needed
+ * here. An `archived` one is different: its page DOES still build (so
+ * old links/bookmarks keep resolving instead of 404ing), but it must not
+ * be indexable. The page templates
+ * (resources/[slug].astro, articles/[slug].astro) derive `noindex` from
+ * `reviewStatus === 'archived'`, and this function independently derives
+ * the matching set of paths from the same frontmatter (plain fs, same
+ * reason as buildIndexabilityExclusions() above) so the sitemap agrees --
+ * verified by the same scripts/test-sitemap-noindex.mjs safeguard that
+ * already checks this for academic hub pages.
+ */
+function buildArchivedContentExclusions() {
+  const excluded = new Set();
+  const collections = [
+    { dir: 'src/content/resources', urlPrefix: '/resources/' },
+    { dir: 'src/content/articles', urlPrefix: '/articles/' },
+  ];
+  for (const { dir, urlPrefix } of collections) {
+    let files;
+    try {
+      files = readdirSync(new URL(dir + '/', import.meta.url)).filter((f) => f.endsWith('.md'));
+    } catch {
+      continue;
+    }
+    for (const file of files) {
+      const raw = readFileSync(new URL(`${dir}/${file}`, import.meta.url), 'utf-8');
+      const frontmatter = raw.split('---')[1] ?? '';
+      const reviewStatus = frontmatter.match(/^reviewStatus:\s*"?([\w-]+)"?/m)?.[1];
+      if (reviewStatus !== 'archived') continue;
+      const slug = file.replace(/\.md$/, '');
+      excluded.add(`${urlPrefix}${slug}/`);
+    }
+  }
+  return excluded;
+}
+
+const archivedContentPaths = buildArchivedContentExclusions();
+
 
 export default defineConfig({
   site: 'https://marlbridge.com',
@@ -140,7 +183,9 @@ export default defineConfig({
       filter: (page) => {
         if (page.includes('/styleguide')) return false;
         const path = new URL(page).pathname;
-        return !noindexAcademicPaths.has(path);
+        if (noindexAcademicPaths.has(path)) return false;
+        if (archivedContentPaths.has(path)) return false;
+        return true;
       },
       serialize(item) {
         const path = new URL(item.url).pathname;

@@ -1553,3 +1553,102 @@ Status values: `answered` (owner has responded, implemented), `open`
   validation-suite, `npm run audit:all` [all 6 audits + sitemap-
   noindex safeguard], unit tests [13/13], npm audit [0 vulnerabilities],
   tsc --noEmit, wrangler deploy --dry-run).
+
+## D-032 — QIGT Section 3: real publication-state enforcement + editorial-policy honesty fix
+
+- **Date:** 2026-08-26.
+- **Workstream:** Quality/Indexing/Growth/Trust (QIGT) remediation programme, Section 3 (Quality assurance).
+- **Baseline finding:** the required `reviewStatus` enum
+  (draft/review-pending/reviewed/changes-requested/archived) and `reviewer`
+  reference already existed in `content.config.ts` for resources and
+  articles (from an earlier session, docs/decision-log.md D-006). Current
+  real data is honest -- 0 of 731 resources and only 1 of 4 articles
+  claim `reviewed`, with a real, sourced reviewer on file for that one
+  article. But NONE of this was enforced or displayed anywhere: no page
+  template read `reviewStatus`/`reviewer`/`isReviewer`, no JSON-LD builder
+  emitted a reviewer, and no validator checked the rules the schema
+  implies. A genuine, verified gap existed in draft/archived gating:
+  resources had no filtering mechanism at all (a `draft` or `archived`
+  resource would still build, index and appear in the sitemap); articles
+  had a working boolean `draft` field but a SEPARATE, unchecked
+  `reviewStatus: "draft"` enum value that could silently disagree with it;
+  authors had an equivalent unenforced `publicationState` field.
+- **What was built:**
+  - `reviewedDate` (optional, coerced date) added to both resources and
+    articles schema -- when a genuine review actually happened, distinct
+    from authoring dates.
+  - `getResources()`, `getArticles()`, `getAuthors()`
+    (`src/utils/content/collections.ts`) now all exclude `draft` content
+    from routing by default; `getArticles()` also now checks
+    `reviewStatus !== 'draft'` in addition to the pre-existing boolean
+    field, reconciling the two mechanisms so they cannot disagree.
+    `src/utils/content/related.ts` and `resourcesAvailableFor()`
+    (`src/utils/content/status.ts`) — every place that lists, links to, or
+    counts resources/articles — updated the same way, so a draft item
+    can never appear in a listing, related-content block, or subject
+    resource-count badge whose own page doesn't actually get built.
+  - `astro.config.mjs` gained `buildArchivedContentExclusions()` (mirrors
+    the existing `buildIndexabilityExclusions()` pattern): `archived`
+    resources/articles still build (so old links don't 404) but are
+    excluded from the sitemap, matching the page-level `noindex` the
+    templates now derive from `reviewStatus === 'archived'`.
+  - `src/pages/resources/[slug].astro` and `src/pages/articles/[slug].astro`
+    both now compute a single `genuinelyReviewed` boolean (reviewStatus
+    is exactly `'reviewed'`, AND the `reviewer` reference resolves, AND
+    that author has `isReviewer: true`) and reuse the SAME computed value
+    for both the visible "Reviewed by [name] on [date]" byline and the
+    JSON-LD `editor` property (new optional param on
+    `articleNode()`, `src/utils/schema/article.ts`) -- there is no
+    separate code path where schema could claim a reviewer the page
+    itself doesn't show.
+  - `scripts/validate-review-integrity.mjs` (new, wired into
+    `npm run validate:academic`): reviewStatus "reviewed" or
+    "changes-requested" requires a `reviewer` field; that reviewer must
+    exist in `src/content/authors/`; that author must have
+    `isReviewer: true`; `reviewedDate` must not precede `publishedDate`
+    and must not be in the future. Applies identically to every
+    `resourceType` -- practice-questions and exam-preparation get no
+    weaker rule, addressing the brief's specific concern about those
+    types.
+  - 5 new negative-fixture tests added to
+    `scripts/test-negative-validation-suite.mjs` (section [I]), each
+    mutating a real resource file, asserting the validator fails with
+    the right message, and restoring the original -- all 5 pass (11/11
+    suite total).
+  - `docs/reports/review-priority-queue-2026-08-26.md`: the required
+    review-priority queue. GSC-based criteria (impressions, positions
+    4-20) are explicitly flagged as unavailable this session (no export
+    supplied) rather than fabricated; the remaining criteria are
+    data-driven from the real repository (225 worked-answer/practice
+    resources, 58 on a confirmed spec-transition syllabus, 204 with a
+    named author, 244 remainder).
+- **Real, verified editorial-policy contradiction found and fixed:**
+  `src/pages/legal/editorial-policy.astro` stated "Marlbridge has not yet
+  published real, named individual author profiles" and that content
+  "carries the Marlbridge Academic Team byline... until real individual
+  author profiles are introduced." This is false today: 373 of 731
+  resources (majority) already carry a real named individual author
+  (`nouman-ahmed`, `iftikhar-azeemi`, `muhammad-ghazali-siddiqui`, and 5
+  others), each with a genuine, sourced author page. Rewrote the
+  "Editorial policy" and "Authorship and accountability" sections to
+  describe the real current state (most resources named-authored, a
+  minority organisationally bylined, author pages state only verified
+  facts, author and reviewer are explicitly distinct roles). Also
+  rewrote "Academic review policy" to honestly describe the newly-
+  enforced reviewer model instead of flatly denying any reviewer
+  mechanism exists -- it now states plainly that review is real but
+  incomplete (one article reviewed so far, the rest honestly
+  review-pending), rather than either overclaiming or underclaiming.
+  `lastUpdated` bumped to 26 August 2026.
+- **Guardrail check:** no fact invented -- every authorship/reviewer
+  count cited in the policy rewrite was grepped directly from the
+  content files, not assumed; no resource or article was bulk-marked
+  reviewed; archived/draft handling is additive (no existing content
+  changed state) and only activates once a future editor actually sets
+  one of those values.
+- **Status:** implemented on `feature/qa-review-integrity`, full
+  validation gate green (astro check, validate:academic [now including
+  validate-review-integrity.mjs], build, cross-board-regression,
+  negative-validation-suite [11/11], `npm run audit:all`, unit tests
+  [13/13], npm audit [0 vulnerabilities], tsc --noEmit, wrangler deploy
+  --dry-run).

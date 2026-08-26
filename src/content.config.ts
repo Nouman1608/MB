@@ -137,6 +137,15 @@ const resources = defineCollection({
      * D-006 and src/pages/legal/editorial-policy.astro.
      */
     reviewStatus: z.enum(['draft', 'review-pending', 'reviewed', 'changes-requested', 'archived']).default('review-pending'),
+    /**
+     * QIGT programme -- when a genuine human review actually took place.
+     * Distinct from publishedDate/updatedDate (authoring dates) and from
+     * merely having a `reviewer` assigned (assignment is not completion).
+     * Only meaningful once reviewStatus is 'reviewed' or
+     * 'changes-requested'; validated by scripts/validate-review-integrity.mjs
+     * to never precede publishedDate and never be in the future.
+     */
+    reviewedDate: z.coerce.date().optional(),
     publishedDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     order: z.number().optional(),
@@ -155,6 +164,8 @@ const articles = defineCollection({
     author: reference('authors'),
     reviewer: reference('authors').optional(),
     reviewStatus: z.enum(['draft', 'review-pending', 'reviewed', 'changes-requested', 'archived']).default('review-pending'),
+    /** QIGT programme -- see the matching field on the resources collection above for full rationale. */
+    reviewedDate: z.coerce.date().optional(),
     publishedDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     category: z.enum([
