@@ -108,6 +108,15 @@ const presentTypes = new Set();
 for (const file of resourceFiles) {
   const raw = await readFile(join(resourceDir, file), 'utf8');
   const fm = raw.split('---')[1] ?? '';
+  // QIGT programme (Aug 2026) -- a draft resource never builds a page (see
+  // getResources() in src/utils/content/collections.ts), so it must not
+  // count toward "this category has published material" here either --
+  // otherwise this file could claim a category exists on the strength of
+  // content a crawler could never actually reach. reviewStatus defaults to
+  // 'review-pending' when absent (see content.config.ts), which DOES
+  // build and IS reachable, so only the literal 'draft' value is excluded.
+  const reviewStatus = (fm.match(/^reviewStatus:\s*"?([\w-]+)"?/m) || [])[1];
+  if (reviewStatus === 'draft') continue;
   const type = (fm.match(/^resourceType:\s*"?([\w-]+)"?/m) || [])[1];
   if (type) presentTypes.add(type);
 }
