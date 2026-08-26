@@ -9,13 +9,14 @@ import { routes } from '../../utils/urls/routes';
 import { PRICING_TERMS } from '../../data/pricing';
 
 /**
- * QIGT trust workstream (Aug 2026) -- previously "Free Trial Class" in the
- * header just linked to the generic /contact/ enquiry form, with no way to
- * say what the trial should cover; the visitor had to type qualification,
- * board, subject and level into a free-text message. This page gives the
- * trial request its own structured form (EnquiryForm kind="trial") and its
- * own honest FAQ, reusing only facts already published elsewhere (pricing,
- * teaching locations, qualifications) -- nothing here is a new claim.
+ * v1.x CLOSURE Release WS1 (2026-08-26) -- this page's copy previously
+ * described the trial form's now-removed structured qualification/board/
+ * subject/availability dropdowns (QIGT trust workstream, Aug 2026).
+ * Reverted to match the current 5-field form (Name/Email/Phone/Country/
+ * Message): the FAQ and lead copy now point visitors at the message field
+ * for those details instead of describing dropdown options that no longer
+ * exist. Reuses only facts already published elsewhere (pricing, teaching
+ * locations) -- nothing here is a new claim.
  */
 const faqs = [
   {
@@ -27,8 +28,8 @@ const faqs = [
     answer: 'No -- this sends a request. Marlbridge replies by email to confirm a teacher and a time before anything is scheduled.',
   },
   {
-    question: "What if I'm not sure which board or subject applies?",
-    answer: 'Choose "Not sure / general support" for subject and "Not applicable" for exam board -- Marlbridge will confirm the right fit by email.',
+    question: "What should I write in the message?",
+    answer: 'The programme or qualification (e.g. IGCSE, A Level), the exam board if known, the subject, the level, your preferred days/times and timezone, and what support you need. If anything is not yet decided, say so -- Marlbridge will confirm the right fit by email.',
   },
   {
     question: 'Where does Marlbridge teach?',
@@ -39,11 +40,11 @@ const faq = faqNode(faqs);
 ---
 <PageLayout
   title="Free Trial Class"
-  description="Request a free trial class from Marlbridge. Tell us the qualification, board and subject, and we will reply by email to confirm a teacher and a time."
+  description="Request a free trial class from Marlbridge. Tell us the programme, board and subject in your message, and we will reply by email to confirm a teacher and a time."
   path={routes.trial}
   eyebrow="Free trial"
   heading="Request a free trial class."
-  lead="Tell us the qualification, board and subject, and where the learner needs help. We will reply by email to confirm a teacher and a time -- this is a request, not a booking."
+  lead="Tell us in your message which programme, board and subject the learner needs help with. We will reply by email to confirm a teacher and a time -- this is a request, not a booking."
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Free Trial Class', href: routes.trial }]}
   jsonLd={faq ? [faq] : []}
 >
