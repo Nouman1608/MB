@@ -73,7 +73,9 @@ const jsonLd = [...siteGraph(), webPageNode(path, copy.title, copy.description)]
       {copy.reviewBanner}
     </div>
 
-    <main id="main">
+    {/* data-pagefind-body -- see BaseLayout.astro for the rationale; same
+        fix applied here so the locale pages are scoped identically. */}
+    <main id="main" data-pagefind-body>
       <slot />
     </main>
 

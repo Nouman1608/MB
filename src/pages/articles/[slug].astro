@@ -70,6 +70,15 @@ const jsonLd = [articleNode({
   jsonLd={jsonLd}
   noindex={pageNoindex}
 >
+  {/* QIGT search workstream (Aug 2026) -- Pagefind filter tag, matching the
+      pattern on the resources template. "Article" distinguishes this
+      content type from resources in filtered search results; hidden since
+      it adds no new visible claim beyond what "Learning Journal" in the
+      breadcrumb already conveys. */}
+  <div hidden aria-hidden="true">
+    <span data-pagefind-filter="Resource type:Article"></span>
+  </div>
+
   <Section surface="white">
     <Container width="prose">
       <ArticleMeta authorName={author?.data.name ?? 'Marlbridge Academic Team'} published={d.publishedDate} updated={d.updatedDate} minutes={minutes} />
@@ -99,7 +108,7 @@ const jsonLd = [articleNode({
           More on {subjects.length === 1 ? 'this subject' : 'these subjects'}:{' '}
           {subjects.map((subject, i) => (
             <>
-              <a href={routes.subject(subject!.id)} class="underline decoration-gold-500 underline-offset-2">{subject!.data.title}</a>
+              <a href={routes.subject(subject!.id)} data-pagefind-filter="Subject" class="underline decoration-gold-500 underline-offset-2">{subject!.data.title}</a>
               {i < subjects.length - 1 ? ', ' : ''}
             </>
           ))}
