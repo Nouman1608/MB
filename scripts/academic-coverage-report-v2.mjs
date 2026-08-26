@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
  * v1.2 WS6 — full 30-column machine-readable coverage report, one row per
- * ACTIVE combination (139 rows). Supersedes the v1.1 report's simpler
+ * ACTIVE combination (160 rows as of the v1.x closure release; was 139 rows
+ * before the IB programme was added). Supersedes the v1.1 report's simpler
  * eligible-resource-count-only shape (scripts/academic-coverage-report.mjs,
  * still kept for its own narrower purpose).
  *
@@ -11,11 +12,11 @@
  *   - Demand/interest signals are not modeled anywhere in this repo, so no
  *     "demand" column exists in this report at all (consistent with the
  *     v1.1 report's NO_DATA convention for the same reason).
- *   - namedReviewer is NO_DATA for all 139 rows — no reviewer field exists
+ *   - namedReviewer is NO_DATA for all rows — no reviewer field exists
  *     in the resources schema yet (see v1.2 WS7).
  *   - quiz/flashcard/video/diagnostic resource-type counts are 0 for all
  *     rows — these resource types are not implemented on this site at all
- *     (the resources schema's resourceType enum has 7 real types; see
+ *     (the resources schema's resourceType enum has 7 real values; see
  *     content.config.ts). 0 here means "not built", not "unknown".
  *
  * Usage: node scripts/academic-coverage-report-v2.mjs [--json] [--csv]
@@ -33,6 +34,7 @@ const { MATRIX } = load('src/data/academic/matrix.ts');
 const { SYLLABUSES } = load('src/data/academic/syllabuses.ts');
 const { SYLLABUS_VERSIONS } = load('src/data/academic/syllabus-topics.ts');
 const { SUBJECTS: CANONICAL_SUBJECTS } = load('src/data/academic/subjects.ts');
+const { QUALIFYING_RESOURCE_TYPES, SUBSTANTIAL_WORD_THRESHOLD } = load('src/utils/seo/indexability.ts');
 
 const matrixSlugsForContentId = new Map();
 for (const s of CANONICAL_SUBJECTS) {
@@ -50,6 +52,22 @@ const LEVEL_FOR_QUALIFICATION = {
   igcse: 'igcse', 'o-level': 'o-levels', gcse: 'gcse', 'as-level': 'a-levels', 'a-level': 'a-levels',
   'ib-dp': 'ib', 'ib-myp': 'ib',
 };
+
+/**
+ * Mirrors isIndexableAcademicPage() in src/utils/seo/indexability.ts exactly
+ * (same QUALIFYING_RESOURCE_TYPES set, same SUBSTANTIAL_WORD_THRESHOLD, same
+ * sum-then-compare logic), loaded live from that file above rather than
+ * hardcoded here, so the two can never silently drift out of sync. The
+ * function itself isn't imported directly because this script runs under
+ * plain `node` (no --experimental-strip-types), so a top-level static
+ * import of a .ts file would fail before this comment could explain why.
+ */
+function isIndexable(eligibleResources) {
+  const total = eligibleResources
+    .filter((r) => QUALIFYING_RESOURCE_TYPES.includes(r.resourceType))
+    .reduce((sum, r) => sum + r.words, 0);
+  return { indexable: total >= SUBSTANTIAL_WORD_THRESHOLD, totalQualifyingWordCount: total };
+}
 
 // -----------------------------------------------------------------------
 // Load resource frontmatter directly (same pattern as the v1.1 script) so
@@ -112,6 +130,8 @@ const rows = activeRows.map((c) => {
   else if (eligibleResources.length === 0) nextAction = 'Write a first resource for this combination.';
   else if (!topicVersion) nextAction = 'Build a verified topic map from the official specification.';
 
+  const indexability = isIndexable(eligibleResources);
+
   return {
     board: c.board,
     boardSlug: c.boardSlug,
@@ -142,7 +162,8 @@ const rows = activeRows.map((c) => {
     lastReview,
     teachingStatus: 'teaching', // by definition of activeRows filter above
     enrolmentStatus: 'enquire', // no automated enrolment exists anywhere on the site — see v1.2 WS2/WS3
-    indexable: true, // no per-combination noindex mechanism exists; all 139 leaf pages are indexable
+    indexable: indexability.indexable, // real isIndexableAcademicPage() result (src/utils/seo/indexability.ts) -- same function used at build time
+    totalQualifyingWordCount: indexability.totalQualifyingWordCount,
     tier: 'NO_DATA', // v1.1's tiering covered only the 127 zero-resource rows at that time; not recomputed 1:1 here — see docs/reports/academic-coverage-report-v1.1.md for that analysis
     priorityScore: 'NO_DATA',
     evidence: c.evidence,
@@ -179,7 +200,7 @@ console.log(`  At least one resource: ${withResources}/${rows.length} (zero-reso
 /**
  * Depth and quality metrics (Aug 2026 audit).
  *
- * "At least one resource" saturated at 139/139 the day the last
+ * "At least one resource" saturated at 100% the day the last
  * zero-resource combination was closed, and will now report success
  * indefinitely regardless of what happens to the library. These four
  * numbers are the ones with somewhere left to go: they distinguish a
