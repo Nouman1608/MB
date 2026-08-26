@@ -173,7 +173,7 @@ differs between hydroxides and sulfates is only which one falls faster.
 - [Chemical Energetics: Lattice Energy, Entropy and Gibbs Free
   Energy](/resources/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy/)
   — lattice energy and hydration enthalpy, the tools this topic applies
-- Cambridge AS & A Level Chemistry hub
+- [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 Written against Cambridge International AS & A Level Chemistry 9701,
 2025–2027 series. Always check the current syllabus for your examination
