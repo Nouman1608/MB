@@ -7,20 +7,58 @@ export const getPrograms = async (): Promise<CollectionEntry<'programs'>[]> =>
 export const getSubjects = async (): Promise<CollectionEntry<'subjects'>[]> =>
   (await getCollection('subjects')).sort((a, b) => a.data.order - b.data.order);
 
-export const getResources = async (): Promise<CollectionEntry<'resources'>[]> =>
-  (await getCollection('resources')).sort(
-    (a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf(),
-  );
+/**
+ * QIGT programme -- resources previously had NO publication-state gating
+ * at all: every file in src/content/resources/ was built and indexed
+ * regardless of `reviewStatus`. `draft` resources are excluded from
+ * routing entirely (matching `getArticles()`'s existing `draft` boolean
+ * behaviour below) since draft content is not ready to be public.
+ * `archived` resources are NOT excluded here -- their page must keep
+ * resolving so old links/bookmarks don't 404 -- but the page templates
+ * (resources/[slug].astro, articles/[slug].astro) derive `noindex` from
+ * `reviewStatus === 'archived'` and astro.config.mjs's sitemap filter
+ * excludes them, so an archived resource is reachable but not indexed.
+ */
+export const getResources = async (
+  { includeDrafts = false } = {},
+): Promise<CollectionEntry<'resources'>[]> =>
+  (await getCollection('resources'))
+    .filter((r) => includeDrafts || r.data.reviewStatus !== 'draft')
+    .sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf());
 
+/**
+ * QIGT programme -- articles carry TWO separate draft signals: the
+ * original boolean `draft` field, and `reviewStatus`'s own `'draft'`
+ * enum value (added later for resources/articles alike, for a single
+ * shared publication-state model). They were never reconciled, so an
+ * article with `reviewStatus: "draft"` but the boolean left at its
+ * `false` default would previously have published anyway. Both signals
+ * are now honoured -- either one hides the article -- so the two
+ * mechanisms cannot silently disagree while the older boolean field
+ * still exists for any code that depends on it.
+ */
 export const getArticles = async (
   { includeDrafts = false } = {},
 ): Promise<CollectionEntry<'articles'>[]> =>
   (await getCollection('articles'))
-    .filter((a) => includeDrafts || !a.data.draft)
+    .filter((a) => includeDrafts || (!a.data.draft && a.data.reviewStatus !== 'draft'))
     .sort((a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf());
 
-export const getAuthors = async (): Promise<CollectionEntry<'authors'>[]> =>
-  getCollection('authors');
+/**
+ * QIGT programme -- authors also carry a `publicationState` field
+ * (draft|published) that, like resources' reviewStatus, was declared in
+ * the schema but never actually enforced anywhere: getStaticPaths for
+ * /authors/[slug] and the /tutoring faculty list both read every author
+ * regardless of state. No author is currently draft, so this was latent
+ * rather than actively wrong, but the same "declared state with no
+ * enforcement" gap applies here as it did to resources/articles.
+ */
+export const getAuthors = async (
+  { includeDrafts = false } = {},
+): Promise<CollectionEntry<'authors'>[]> =>
+  (await getCollection('authors')).filter(
+    (a) => includeDrafts || a.data.publicationState !== 'draft',
+  );
 
 export const readingTime = (body: string): number =>
   Math.max(1, Math.round(body.trim().split(/\s+/).length / 200));

@@ -197,6 +197,59 @@ console.log('    isIndexableAcademicPage() policy landing, 27 academic hub pages
 console.log('    and correctly absent from the sitemap -- \"0 noindex pages\" is no longer the expected');
 console.log('    state and was never itself the goal; sitemap/robots agreement is.');
 
+console.log('\n[I] Review-integrity validator (QIGT programme)');
+const reviewFixtureFile = 'src/content/resources/a-acids-bases-buffers-and-partition-coefficients.md';
+
+withMutation(
+  reviewFixtureFile,
+  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'has reviewStatus "reviewed" but no reviewer field set',
+    label: 'reviewStatus "reviewed" with no reviewer field is rejected',
+  },
+);
+
+withMutation(
+  reviewFixtureFile,
+  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"\nreviewer: "nonexistent-person-xyz"'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'does not exist in src/content/authors/',
+    label: 'reviewer referencing a nonexistent author is rejected',
+  },
+);
+
+withMutation(
+  reviewFixtureFile,
+  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"\nreviewer: "aizaz-raoof-ali"'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'who is not marked isReviewer: true',
+    label: 'reviewer who exists but is not isReviewer: true is rejected',
+  },
+);
+
+withMutation(
+  reviewFixtureFile,
+  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2026-01-01'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'before publishedDate',
+    label: 'reviewedDate before publishedDate is rejected',
+  },
+);
+
+withMutation(
+  reviewFixtureFile,
+  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2027-01-01'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'in the future',
+    label: 'future reviewedDate is rejected',
+  },
+);
+
 console.log(`\n==============================================================================`);
 console.log(`SUMMARY: ${passed} passed, ${failed} failed`);
 console.log(`==============================================================================`);

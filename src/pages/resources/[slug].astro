@@ -28,6 +28,22 @@ const author = d.author ? await getEntry(d.author) : undefined;
 const meta = resourceCategoryMeta[d.resourceType];
 const levels = resourceLevelLabel(d.level, d.stage);
 
+/**
+ * QIGT programme -- genuine review evidence, computed ONCE and reused for
+ * both the visible "Reviewed by" byline below and the schema.org `editor`
+ * property, so the two can never disagree. Requires ALL of: reviewStatus
+ * is actually 'reviewed' (not just a reviewer being assigned -- assignment
+ * alone stays review-pending), the reviewer reference resolves to a real
+ * authors-collection entry, and that entry is flagged isReviewer: true.
+ * `changes-requested` and `review-pending` never display or claim review,
+ * on purpose -- see scripts/validate-review-integrity.mjs for the
+ * build-time enforcement of this same rule.
+ */
+const reviewerEntry = d.reviewer ? await getEntry(d.reviewer) : undefined;
+const genuinelyReviewed = d.reviewStatus === 'reviewed' && !!reviewerEntry && reviewerEntry.data.isReviewer === true;
+/** `archived` content stays reachable (no dead links) but must not be indexed. */
+const pageNoindex = d.noindex || d.reviewStatus === 'archived';
+
 const siblings = await topicSiblings(resource);
 const alsoResources = await relatedResources({ subject: d.subject.id, topic: d.topic, excludeId: resource.id, picked: d.relatedResources, limit: 3 });
 const alsoArticles = await relatedArticles({ subject: d.subject.id, picked: d.relatedArticles, limit: 2 });
@@ -40,6 +56,9 @@ const jsonLd = [articleNode({
   updated: d.updatedDate,
   authorName: author?.data.name ?? 'Marlbridge Academic Team',
   authorEntityType: author?.data.entityType ?? 'organization',
+  ...(genuinelyReviewed
+    ? { editorName: reviewerEntry!.data.name, editorEntityType: reviewerEntry!.data.entityType }
+    : {}),
 })];
 ---
 <PageLayout
@@ -61,7 +80,7 @@ const jsonLd = [articleNode({
     { label: d.title, href: path },
   ]}
   jsonLd={jsonLd}
-  noindex={d.noindex}
+  noindex={pageNoindex}
 >
   <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Subject </dt><dd class="m-0 inline"><a href={routes.subject(d.subject.id)} class="underline decoration-rule underline-offset-2">{subject?.data.title}</a></dd></div>
@@ -70,6 +89,9 @@ const jsonLd = [articleNode({
     {d.topic && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Topic </dt><dd class="m-0 inline text-ink-mute">{d.topic}</dd></div>}
     {author && <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Author </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(author.id)} class="underline decoration-rule underline-offset-2">{author.data.name}</a></dd></div>}
     <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Updated </dt><dd class="m-0 inline text-ink-mute"><time datetime={(d.updatedDate ?? d.publishedDate).toISOString()}>{formatDate(d.updatedDate ?? d.publishedDate)}</time></dd></div>
+    {genuinelyReviewed && (
+      <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Reviewed by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(reviewerEntry!.id)} class="underline decoration-rule underline-offset-2">{reviewerEntry!.data.name}</a>{d.reviewedDate && <> on <time datetime={d.reviewedDate.toISOString()}>{formatDate(d.reviewedDate)}</time></>}</dd></div>
+    )}
   </dl>
 
   <Section surface="white">
