@@ -8,6 +8,7 @@ import {
   isHoneypotTripped,
   validateEnquiry,
   renderEmailBody,
+  ALLOWED_FIELDS_BY_KIND,
 } from '../../_lib/enquiry-validation.ts';
 
 test('sanitizeField strips CRLF and control chars (header-injection defence)', () => {
@@ -132,41 +133,74 @@ test('renderEmailBody produces a plain-text body with only present fields', () =
   assert.ok(!body.includes('School:'));
 });
 
-test('validateEnquiry: trial kind requires qualification, board and subject', () => {
+// v1.x CLOSURE Release WS1 (2026-08-26) -- REPLACES the three tests above
+// this comment used to be (they proved the QIGT trust workstream's now-
+// reverted qualification/board/subject/availability fields). These prove
+// the current, approved allowed-field contract instead: trial now takes
+// exactly the same five fields as student/tutoring, and -- the part that
+// actually matters for security, not just UI -- a client that submits the
+// deprecated fields anyway (e.g. a replayed old request, or a scripted
+// attacker who never loads the current HTML) has them silently discarded
+// server-side rather than accepted as trusted data.
+
+test('validateEnquiry: trial kind requires only name, email, country, message', () => {
   const result = validateEnquiry('trial', {
     name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
-    message: 'Would like a trial for the next exam series.',
+    message: 'Would like a trial for the next exam series -- A Level Physics, Cambridge, weekday evenings.',
   });
+  assert.equal(result.ok, true);
+});
+
+test('validateEnquiry: trial kind rejects missing required fields the same as student/tutoring', () => {
+  const result = validateEnquiry('trial', { name: 'Zara Ali', email: 'zara@example.com' });
   assert.equal(result.ok, false);
   if (!result.ok) {
-    assert.ok(result.errors.qualification);
-    assert.ok(result.errors.board);
-    assert.ok(result.errors.subject);
+    assert.ok(result.errors.country);
+    assert.ok(result.errors.message);
   }
 });
 
-test('validateEnquiry: trial kind succeeds with all required fields, availability optional', () => {
+test('validateEnquiry: trial kind silently discards deprecated qualification/board/subject/availability fields, does not accept them as trusted data', () => {
   const result = validateEnquiry('trial', {
     name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
-    qualification: 'A Level', board: 'Cambridge', subject: 'Physics',
     message: 'Would like a trial for the next exam series.',
+    // A client (stale cached page, replayed request, or a scripted
+    // attacker bypassing the current HTML entirely) submitting the
+    // removed fields anyway must not have them accepted.
+    qualification: 'A Level', board: 'Cambridge', subject: 'Physics',
+    availability: 'Weekday evenings, Pakistan time',
   });
   assert.equal(result.ok, true);
   if (result.ok) {
-    assert.equal(result.data.qualification, 'A Level');
+    assert.equal('qualification' in result.data, false);
+    assert.equal('board' in result.data, false);
+    assert.equal('subject' in result.data, false);
     assert.equal('availability' in result.data, false);
   }
 });
 
-test('renderEmailBody: trial kind includes qualification/board/subject/availability when present', () => {
+test('renderEmailBody: trial kind email body never includes the deprecated fields even if present in data', () => {
+  // Defence in depth: even if a caller somehow passed these through
+  // (they shouldn't, since validateEnquiry already strips them), the
+  // renderer only ever emits fields that are in the kind's own
+  // required/optional spec.
   const body = renderEmailBody('trial', {
     name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
+    message: 'Would like a trial for the next exam series.',
     qualification: 'A Level', board: 'Cambridge', subject: 'Physics',
     availability: 'Weekday evenings, Pakistan time',
-    message: 'Would like a trial for the next exam series.',
   });
-  assert.ok(body.includes('Qualification: A Level'));
-  assert.ok(body.includes('Exam board: Cambridge'));
-  assert.ok(body.includes('Subject: Physics'));
-  assert.ok(body.includes('Availability: Weekday evenings, Pakistan time'));
+  assert.ok(body.includes('Name: Zara Ali'));
+  assert.ok(body.includes('Message: Would like a trial for the next exam series.'));
+  assert.ok(!body.includes('Qualification:'));
+  assert.ok(!body.includes('Exam board:'));
+  assert.ok(!body.includes('Subject:'));
+  assert.ok(!body.includes('Availability:'));
+});
+
+test('ALLOWED_FIELDS_BY_KIND: trial has the exact same field set as student and tutoring', () => {
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial, ALLOWED_FIELDS_BY_KIND.student);
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial, ALLOWED_FIELDS_BY_KIND.tutoring);
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.required.sort(), ['country', 'email', 'message', 'name']);
+  assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.optional, ['phone']);
 });
