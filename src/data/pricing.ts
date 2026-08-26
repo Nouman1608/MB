@@ -123,9 +123,27 @@ export const PRICING_TERMS = {
   unit: 'per subject, per month',
   multiSubjectDiscount: { minSubjects: 3, percentOff: 20 },
   siblingDiscount: { maxSiblings: 2, percentOff: 10 },
+  /** Owner confirmed directly in chat, 2026-08-26 (docs/decision-log.md D-043): the
+   * multi-subject and sibling discounts combine (stack) for a family that qualifies
+   * for both -- they are not mutually exclusive. Both discounts apply to group
+   * classes only, never to one-to-one tuition (already stated separately in the
+   * one-to-one FAQ answer below). */
+  discountsStack: true,
   freeTrial: 'The initial trial/demo class is free.',
   unsupportedRegionNote: 'Countries without a listed rate above are not priced automatically — enquire and Marlbridge will confirm a fee for your region. No currency conversion is applied on your behalf.',
   notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date below is when they were last confirmed.',
+  /** Owner confirmed directly in chat, 2026-08-26 (D-043). Group-class length/frequency
+   * is a fixed format; one-to-one length is fixed but the number of classes taken is
+   * left to the student/family, so no fixed frequency is stated for it. */
+  classFormat: {
+    group: '45 to 50 minutes per class, 3 classes a week, per subject.',
+    oneToOne: '1 hour per class. How many classes you take is up to you.',
+  },
+  /** Owner confirmed directly in chat, 2026-08-26 (D-043). */
+  billing: 'Fees are billed monthly, starting once your free trial class has taken place.',
+  paymentMethods: ['bank transfer', 'international wire transfer'] as readonly string[],
+  enrolmentFee: 'There is no separate registration or enrolment fee — the fee shown above is the only cost.',
+  cancellationPolicy: "You can cancel or pause at any time. The month you've already paid for isn't refunded, but you won't be billed again once you cancel.",
 } as const;
 
 /** Currencies conventionally quoted to 3 decimal places (KWD, BHD, OMR use

@@ -17,11 +17,23 @@ const faqs = [
   },
   {
     question: 'Are there discounts for multiple subjects or siblings?',
-    answer: `Yes. A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects taken together, and a ${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount applies for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled at the same time.`,
+    answer: `Yes. A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects taken together, and a ${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount applies for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled at the same time. These two discounts combine if a family qualifies for both. Both apply to group classes only, not to one-to-one tuition.`,
+  },
+  {
+    question: 'How long are classes, and how often?',
+    answer: `Group classes: ${PRICING_TERMS.classFormat.group} One-to-one classes: ${PRICING_TERMS.classFormat.oneToOne}`,
   },
   {
     question: 'Is there a free trial?',
     answer: PRICING_TERMS.freeTrial,
+  },
+  {
+    question: 'How and when do I pay, and is there a registration fee?',
+    answer: `${PRICING_TERMS.billing} We accept ${PRICING_TERMS.paymentMethods.join(' and ')}. ${PRICING_TERMS.enrolmentFee}`,
+  },
+  {
+    question: 'What if I need to cancel or pause?',
+    answer: PRICING_TERMS.cancellationPolicy,
   },
   {
     question: 'My country is not listed — what do I pay?',
@@ -130,7 +142,8 @@ const faq = faqNode(faqs);
 
   <Section surface="white" border>
     <Container>
-      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Discounts and trial</h2>
+      <h2 class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Discounts and trial</h2>
+      <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">The multi-subject and sibling discounts below combine if you qualify for both, and apply to group classes only.</p>
       <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-3">
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
           <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Multi-subject</p>

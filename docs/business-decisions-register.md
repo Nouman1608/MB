@@ -6,14 +6,17 @@ This register consolidates every question the QIGT workstreams (D-034
 through D-039, and one earlier finding from D-010/D-033) surfaced that
 genuinely cannot be answered from the codebase, the live site, or public
 awarding-body sources — each is a real business, operational, or
-infrastructure decision that only the owner can make. None of these block
-the remaining technical QIGT work (#82, #83); they are tracked here so
-they are visible and actionable rather than silently left open.
+infrastructure decision that only the owner can make.
 
 **Update (task #82, final validation pass, 2026-08-26):** item 6 below
 (www.marlbridge.com) was re-checked live and found to have resolved itself
-since it was first flagged — it no longer needs owner action. Items 1-5
-remain genuinely open and require the owner's input.
+since it was first flagged — it no longer needed owner action.
+
+**Update (2026-08-26, D-043): all five open items answered directly by the
+owner and implemented on the site.** See each item below for the answer
+given and exactly where it now appears live. This register is retained as
+a historical record of the questions and answers, not because anything
+remains open.
 
 Per the programme's own ground rules, no answer has been invented or
 guessed for any of these — the current site simply does not state a
@@ -40,6 +43,13 @@ not answered, because nothing on the site currently states a position:
 needed" wording; an unclear boundary is a real legal-exposure and
 brand-control question, not just a copy nicety.
 
+**Answered (2026-08-26):** bulk printing for a whole year group and
+uploading to a school's LMS are both explicitly permitted; modifying,
+relabelling or rebranding the material is not — it should be used as
+published. Implemented in `/schools/` (new clarifying paragraph) and
+`/legal/terms/` (the class-use carve-out now names both permitted uses and
+the modification boundary explicitly).
+
 ## 2. Discount stacking
 
 **Where it surfaces:** the pricing page/FAQ references a multi-subject
@@ -48,6 +58,13 @@ family enrolling multiple children in multiple subjects can combine both.
 
 **Question for the owner:** do the multi-subject and sibling discounts
 stack, or is only the larger of the two applied?
+
+**Answered (2026-08-26):** yes, they stack — a family qualifying for both
+the 20% multi-subject discount (3+ subjects) and the 10% sibling discount
+(up to 2 siblings) gets both together. Both discounts apply to group
+classes only, never one-to-one. Implemented in `src/data/pricing.ts`
+(`PRICING_TERMS.discountsStack`) and surfaced in the pricing page's FAQ and
+the "Discounts and trial" section.
 
 ## 3. Class duration and frequency
 
@@ -58,6 +75,12 @@ that price assumes.
 **Question for the owner:** what is the standard class length and
 weekly/monthly frequency per subject, and does it vary by
 qualification level (e.g., IGCSE vs A Level)?
+
+**Answered (2026-08-26):** group classes run 45-50 minutes, 3 times a week
+per subject. One-to-one classes run 1 hour, with the number of classes
+left to the student/family rather than a fixed frequency. Does not vary by
+qualification level. Implemented in `src/data/pricing.ts`
+(`PRICING_TERMS.classFormat`) and a new pricing-page FAQ entry.
 
 ## 4. Cancellation and refund policy
 
@@ -70,6 +93,13 @@ pause enrolment.
 rather than left as an unstated gap a prospective or enrolled family
 would have to ask about directly?
 
+**Answered (2026-08-26):** fees are billed monthly, starting once the free
+trial class has taken place. A family can cancel or pause at any time; the
+month already paid for is not refunded, but there is no further billing
+once they cancel. Implemented in `src/data/pricing.ts`
+(`PRICING_TERMS.billing`, `PRICING_TERMS.cancellationPolicy`) and two new
+pricing-page FAQ entries.
+
 ## 5. Payment schedule and fees
 
 **Where it surfaces:** pricing is shown as a headline rate per
@@ -80,6 +110,13 @@ registration fee applies.
 **Question for the owner:** what is the actual billing cadence, accepted
 payment methods, and are there any fees beyond the published per-subject
 rate?
+
+**Answered (2026-08-26):** billing is monthly (see item 4). Accepted
+payment methods are bank transfer and international wire transfer. There
+is no separate registration or enrolment fee — the published per-subject
+rate is the only cost. Implemented in `src/data/pricing.ts`
+(`PRICING_TERMS.paymentMethods`, `PRICING_TERMS.enrolmentFee`) and a new
+pricing-page FAQ entry.
 
 ## 6. www.marlbridge.com — minor recommendation only (re-verified fixed since D-033)
 
