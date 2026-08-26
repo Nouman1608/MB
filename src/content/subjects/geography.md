@@ -1,7 +1,7 @@
 ---
 title: "Geography"
 order: 20
-levelsLabel: "IGCSE · O · A Level"
+levelsLabel: "IGCSE · O · A Level · IB Diploma Programme"
 levels: ["igcse", "o-levels", "a-levels", "ib"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Geography at IGCSE, O Level and A Level, with study material organised by topic."

@@ -7,9 +7,21 @@ import Card from '../cards/Card.astro';
 import { getResources, resourceCategoryMeta, resourceLevelLabel } from '../../utils/content/collections';
 import { routes, resourceUrl } from '../../utils/urls/routes';
 
-const categories = Object.entries(resourceCategoryMeta);
+const allCategories = Object.entries(resourceCategoryMeta);
 const resources = await getResources();
-const counts = Object.fromEntries(categories.map(([slug]) => [slug, resources.filter((r) => r.data.resourceType === slug).length]));
+const counts = Object.fromEntries(allCategories.map(([slug]) => [slug, resources.filter((r) => r.data.resourceType === slug).length]));
+/**
+ * QIGT programme (Aug 2026) -- the homepage card grid only shows categories
+ * that have published material. Categories with 0 resources (currently
+ * Past Papers, Exam Preparation, Learning Articles) are NOT deleted or
+ * hidden from the site -- /resources/ still lists every category honestly,
+ * including a "0 published -- in development" state for empty ones (see
+ * src/pages/resources/index.astro, where showing the full taxonomy is the
+ * page's actual purpose). This only stops the homepage -- the single most
+ * prominent page on the site -- from repeatedly advertising empty
+ * categories, per the brief's "no filler" instruction.
+ */
+const categories = allCategories.filter(([slug]) => counts[slug] > 0);
 const recent = resources.slice(0, 4);
 const rows = await Promise.all(recent.map(async (entry) => {
   const subject = await getEntry(entry.data.subject);

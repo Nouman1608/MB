@@ -1,7 +1,7 @@
 ---
 title: "Biology"
 order: 4
-levelsLabel: "IGCSE · O · A Level"
+levelsLabel: "IGCSE · O · GCSE · A Level · IB Diploma Programme"
 levels: ["igcse", "o-levels", "a-levels", "ib"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Biology at IGCSE · O · A Level, with study material organised by topic."

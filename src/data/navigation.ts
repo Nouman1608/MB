@@ -25,11 +25,20 @@ export const footerNav = {
     { label: 'Pricing', href: '/pricing/' },
     { label: 'For Schools', href: '/schools/' },
   ],
+  // QIGT programme (Aug 2026) -- "Past Papers" and "Exam Preparation" removed
+  // from this sitewide footer: both resourceTypes have 0 published resources
+  // (verified against src/content/resources/), so linking to them from every
+  // page on the site repeatedly promoted an empty section. The categories
+  // themselves are NOT deleted or hidden -- /resources/ still lists both
+  // honestly, with a "No ... published yet -- in development" state (see
+  // src/pages/resources/index.astro) -- this only removes them from
+  // prominent, repeated, sitewide navigation until real material exists,
+  // per the brief's own "no filler" instruction. Re-add here once either
+  // category has published resources.
   resources: [
     { label: 'Study Guides', href: '/resources/#study-guides' },
     { label: 'Revision Notes', href: '/resources/#revision-notes' },
-    { label: 'Past Papers', href: '/resources/#past-papers' },
-    { label: 'Exam Preparation', href: '/resources/#exam-preparation' },
+    { label: 'Practice Questions', href: '/resources/#practice-questions' },
     { label: 'Learning Journal', href: '/articles/' },
     { label: 'Printable Checklists', href: '/checklists/' },
   ],

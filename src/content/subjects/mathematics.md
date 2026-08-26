@@ -1,7 +1,7 @@
 ---
 title: "Mathematics"
 order: 1
-levelsLabel: "IGCSE · O · A Level"
+levelsLabel: "IGCSE · O · GCSE · A Level · IB Middle Years Programme"
 levels: ["igcse", "o-levels", "a-levels", "ib"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Mathematics at IGCSE · O · A Level, with study material organised by topic."
