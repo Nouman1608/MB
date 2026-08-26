@@ -1,7 +1,7 @@
 ---
 title: "Business"
 order: 8
-levelsLabel: "O · A Level"
+levelsLabel: "IGCSE · O · GCSE · AS · A Level · IB Diploma Programme"
 levels: ["o-levels", "a-levels", "ib"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Business at O · A Level, with study material organised by topic."

@@ -1,7 +1,7 @@
 ---
 title: "Psychology"
 order: 12
-levelsLabel: "GCSE · A Level"
+levelsLabel: "IGCSE · GCSE · A Level · IB Diploma Programme"
 levels: ["gcse", "a-levels", "ib"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Psychology at GCSE · A Level, with study material organised by topic."

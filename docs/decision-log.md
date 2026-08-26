@@ -1860,3 +1860,49 @@ Status values: `answered` (owner has responded, implemented), `open`
 - **Status:** implemented directly on `main`-bound branch `feature/qigt-search-filters`, full
   validation gate green (`npm run build` -- 1132 pages, 5 filters indexed; `validate:academic`;
   `audit:all`; `npm run check` -- 140 files, 0 errors/warnings/hints).
+
+## D-037 — QIGT Section 7 (IA): empty-category navigation + subject-summary qualification honesty
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, IA/homepage-honesty item (task #78).
+- **Empty categories confirmed:** Past Papers and Exam Preparation (`resourceType` values) genuinely have
+  0 published resources (verified directly against `src/content/resources/`); Learning Articles (a third
+  `resourceType`, distinct from the separate `articles` collection) also has 0. `/resources/` itself already
+  handled this honestly from an earlier session (`v1.x CLOSURE WS6`) -- every type gets a real section with a
+  truthful "No ... published yet -- in development" state, never hidden, never filled with filler. That page
+  was NOT changed. What was fixed: two of the three empty categories (Past Papers, Exam Preparation) were
+  linked from `footerNav.resources` in `src/data/navigation.ts` -- meaning literally every one of 1132 pages
+  on the site repeatedly promoted two empty sections in its footer. Removed both from the footer nav (leaving
+  the sections themselves fully intact and reachable via `/resources/`) and added "Practice Questions" in
+  their place -- a real, 225-resource category that, oddly, was not previously linked from the footer at all.
+  Same fix applied to the homepage's own resource-category card grid (`src/components/sections/
+  ResourcesSection.astro`, the single most prominent page on the site): now filters to categories with
+  `counts[slug] > 0` before rendering, so the homepage shows 4 real categories instead of 7 (including 3 that
+  read "0 published"). Learning Articles was never linked from footer/homepage to begin with, so no change
+  was needed there beyond what `/resources/` already does.
+- **Subject-summary qualification-label honesty -- a real, more serious bug than expected:** while checking
+  the homepage subject cards (`SubjectsSection.astro`, which display each subject's hand-authored
+  `levelsLabel` frontmatter string), cross-referenced all 35 subjects' `levelsLabel` against the real,
+  currently-ACTIVE academic matrix (`activeOnly()` logic re-derived independently) and confirmed against
+  actually-built pages in `dist/boards/`. Found 11 subjects where the label was wrong -- not just on the
+  homepage, but on the subject's own hub page (`/subjects/<slug>/`), which displays the same string directly
+  above a "Choose your board and qualification" section listing the real combinations live -- meaning these
+  pages were self-contradicting. Two kinds of error: **omission** (biology/chemistry/physics/geography/
+  computer-science/world-history each missing "IB Diploma Programme" despite a real, live `/boards/ib/ib-dp/
+  <subject>/` page existing; several also missing GCSE; mathematics missing "IB Middle Years Programme";
+  business missing IGCSE, GCSE, AS Level AND IB DP; economics and psychology each missing 2-3 real
+  qualifications) and **false claim** (Accounting's label said "O · A Level" -- Cambridge O Level Accounting
+  does not exist in the matrix and no such page has ever been built; the real offering is IGCSE + A Level).
+  Corrected all 11 `levelsLabel` values in `src/content/subjects/*.md` to exactly match the live matrix,
+  verified programmatically afterward (33/35 subjects now parse-clean against the matrix; the remaining 2 --
+  English and Languages -- are deliberately not qualification-enumerable this way: English spans multiple
+  canonical subject entities and Languages already uses the honest "Selected levels" label for the same
+  reason, both left untouched). Re-verified the two most-affected labels (`Accounting`, `Economics`) directly
+  in the rebuilt HTML.
+- **Guardrail check:** every corrected qualification claim was verified against a real, live, already-built
+  page (`dist/boards/.../index.html`) before being added -- nothing added on the strength of the matrix data
+  alone. No canonical URL changed; no resource content added; the empty-category sections themselves were not
+  deleted, hidden from search, or altered in wording.
+- **Status:** implemented directly on `main`-bound branch `feature/qigt-ia-honesty`, full validation gate
+  green (`npm run build` -- 1132 pages; `validate:academic`; `audit:all` incl. 0 orphan pages after the nav
+  change; `npm run check` -- 140 files, 0 errors/warnings/hints).

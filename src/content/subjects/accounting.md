@@ -1,7 +1,7 @@
 ---
 title: "Accounting"
 order: 7
-levelsLabel: "O · A Level"
+levelsLabel: "IGCSE · A Level"
 levels: ["o-levels", "a-levels"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Accounting at O · A Level, with study material organised by topic."

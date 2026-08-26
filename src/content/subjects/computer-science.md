@@ -1,7 +1,7 @@
 ---
 title: "Computer Science"
 order: 5
-levelsLabel: "IGCSE · O · A Level"
+levelsLabel: "IGCSE · O · A Level · IB Diploma Programme"
 levels: ["igcse", "o-levels", "a-levels", "ib"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Computer Science at IGCSE · O · A Level, with study material organised by topic."

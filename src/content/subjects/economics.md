@@ -1,7 +1,7 @@
 ---
 title: "Economics"
 order: 6
-levelsLabel: "O · A Level"
+levelsLabel: "IGCSE · O · GCSE · A Level · IB Diploma Programme"
 levels: ["o-levels", "a-levels"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Economics at O · A Level, with study material organised by topic."

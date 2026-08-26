@@ -1,7 +1,7 @@
 ---
 title: "Physics"
 order: 2
-levelsLabel: "IGCSE · O · A Level"
+levelsLabel: "IGCSE · O · GCSE · A Level · IB Diploma Programme"
 levels: ["igcse", "o-levels", "a-levels"]
 marlbridgeTeaches: "teaching"
 shortDescription: "Physics at IGCSE · O · A Level, with study material organised by topic."
