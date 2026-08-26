@@ -241,7 +241,7 @@ requires.
 - [Hydrocarbons: Alkanes and
   Alkenes](/resources/as-hydrocarbons-alkanes-and-alkenes/) — the
   free-radical substitution mechanism reused for side-chain halogenation
-- Cambridge AS & A Level Chemistry hub
+- [Cambridge AS & A Level Chemistry hub](/boards/cambridge/a-level/chemistry/)
 
 Written against Cambridge International AS & A Level Chemistry 9701,
 2025–2027 series. Always check the current syllabus for your examination

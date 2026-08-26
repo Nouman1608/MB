@@ -26,7 +26,10 @@ publishedDate: 2026-08-22
 featured: false
 ---
 
-Condensed for the final weeks. For the full explanation, use the
+Condensed recall notes on ultrasound, X-rays, CT and PET scanning --
+Topic 24, Medical Physics, of Cambridge International AS & A Level
+Physics 9702, 2025-2027 series. Condensed for the final weeks; for the
+full explanation, use the
 [Medical Physics study guide](/resources/a-physics-medical-physics/).
 
 ## Ultrasound
@@ -105,3 +108,8 @@ The 0.511 MeV figure comes from `E = mc²` using the rest mass of an electron. P
 5. Why are two gamma photons produced in PET, and what is the energy of each?
 
 **Answers:** 1. Air and skin have very different acoustic impedances, so almost all the ultrasound would be reflected at the boundary; the gel has an impedance close to skin's, displacing the air and allowing transmission. 2. λ_min = hc/(eV), set by the accelerating p.d. alone; the characteristic lines depend only on the target material. 3. Calcium has a much higher atomic number than the elements in soft tissue, giving a larger attenuation coefficient, so more X-rays are absorbed. 4. I = I₀e^(−μx); x_½ = ln2/μ. 5. Momentum must be conserved in electron–positron annihilation, so two photons are emitted in opposite directions, each of 0.511 MeV from E = mc² for the electron rest mass.
+
+## Related resources
+
+- [Medical Physics study guide](/resources/a-physics-medical-physics/) — the full explanation behind these condensed notes
+- [Cambridge AS & A Level Physics hub](/boards/cambridge/a-level/physics/) — syllabus 9702 topics and all Marlbridge Physics resources
