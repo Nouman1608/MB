@@ -131,3 +131,42 @@ test('renderEmailBody produces a plain-text body with only present fields', () =
   assert.ok(body.includes('Message: Need help with A Level Physics.'));
   assert.ok(!body.includes('School:'));
 });
+
+test('validateEnquiry: trial kind requires qualification, board and subject', () => {
+  const result = validateEnquiry('trial', {
+    name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
+    message: 'Would like a trial for the next exam series.',
+  });
+  assert.equal(result.ok, false);
+  if (!result.ok) {
+    assert.ok(result.errors.qualification);
+    assert.ok(result.errors.board);
+    assert.ok(result.errors.subject);
+  }
+});
+
+test('validateEnquiry: trial kind succeeds with all required fields, availability optional', () => {
+  const result = validateEnquiry('trial', {
+    name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
+    qualification: 'A Level', board: 'Cambridge', subject: 'Physics',
+    message: 'Would like a trial for the next exam series.',
+  });
+  assert.equal(result.ok, true);
+  if (result.ok) {
+    assert.equal(result.data.qualification, 'A Level');
+    assert.equal('availability' in result.data, false);
+  }
+});
+
+test('renderEmailBody: trial kind includes qualification/board/subject/availability when present', () => {
+  const body = renderEmailBody('trial', {
+    name: 'Zara Ali', email: 'zara@example.com', country: 'Pakistan',
+    qualification: 'A Level', board: 'Cambridge', subject: 'Physics',
+    availability: 'Weekday evenings, Pakistan time',
+    message: 'Would like a trial for the next exam series.',
+  });
+  assert.ok(body.includes('Qualification: A Level'));
+  assert.ok(body.includes('Exam board: Cambridge'));
+  assert.ok(body.includes('Subject: Physics'));
+  assert.ok(body.includes('Availability: Weekday evenings, Pakistan time'));
+});

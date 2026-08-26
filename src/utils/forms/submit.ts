@@ -12,7 +12,7 @@
  * never claims success on the client side; it only ever reports what the
  * server actually did.
  */
-export type EnquiryKind = 'student' | 'tutoring' | 'school';
+export type EnquiryKind = 'student' | 'tutoring' | 'school' | 'trial';
 
 export interface SubmitResult { ok: boolean; message?: string; errors?: Record<string, string> }
 
