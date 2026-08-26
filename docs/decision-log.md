@@ -1088,79 +1088,141 @@ Status values: `answered` (owner has responded, implemented), `open`
   resources (2,433 words combined) that were already written and tagged
   correctly but structurally invisible on this page.
 
-## D-048 — v1.x Closure WS9: fresh review of the 12 duplicate-scope warnings
+## D-049 — v1.x Closure WS8: FX-rate policy
 
 - **Date:** 2026-08-26.
-- **Workstream:** v1.x Closure Release, Workstream 9.
-- **Task:** `npm run check:duplicate-scope` flags resource pairs that declare an identical
-  official syllabus scope (subject/boards/qualifications/stage/resourceType/syllabusTopics),
-  without judging whether the underlying content is actually duplicated -- that judgement
-  requires reading prose, which only a human/agent can do. A prior audit (2026-08-23, D-010)
-  had reviewed these same 12 groups and left all 12 alone as legitimately different content.
-  This release requires a **fresh** review, not inherited from that note -- so every one of the
-  12 was re-read from scratch on 2026-08-26, evidence recorded independently of the prior finding.
-- **Result of the fresh review:**
-  - **10 of 12 groups confirmed genuinely different content**, each with specific evidence now
-    recorded in `REVIEWED_LEGITIMATE` inside `scripts/check-duplicate-resource-scope.mjs` itself
-    (kept next to the code so it can't drift from what the checker actually enforces): 2 English
-    A Level Language groups (Paper 1 Reading -- discourse/register analysis vs language
-    change/child acquisition; and toolkit vs exam-mechanics revision notes), 1 Law A Level
-    practice-questions group (courts/judiciary/juries/personnel vs sources/procedure/ADR/
-    sentencing), 5 Physics O Level groups (elastic deformation/moments vs Newton's laws/motion;
-    energy resources/efficiency vs energy/work/power, ×3 resource types; forces-and-motion vs
-    moments-and-stability, ×2 resource types), 1 Sociology IGCSE practice-questions group
-    (methods+inequality blend vs a pure methods deep-dive). No shared question, answer, or
-    substantial passage was found in any of these 10 pairs.
-  - **2 of 12 groups were real duplicates** -- both are Law and Sociology **revision-notes**
-    pairs. In both cases the two files independently condensed the exact same underlying
-    study-guide resource (both explicitly link to it as "the full explanation" for the
-    condensed notes) on separate content-generation passes, and their core sections read as the
-    same material restated in different formatting -- e.g. the Law pair both explained the same
-    four statutory-interpretation rules with the same three Latin language-rule maxims and the
-    same distinguishing/overruling/reversing precedent trio; the Sociology pair both explained
-    the same methods-comparison table (questionnaire/structured interview/unstructured
-    interview/participant observation/official statistics) with matching strengths/weaknesses
-    and the same reliability/validity/representativeness definitions. This is exactly the
-    failure mode `check-duplicate-resource-scope.mjs` exists to catch, not a false positive.
-- **Fix applied to both real duplicates -- merge, not delete-and-forget:**
-  - `a-law-english-legal-system-revision-notes.md` kept as canonical (matches its own
-    practice-questions sibling's naming convention); its only gap versus the retired file (a
-    "The legislative process" section) merged in; description and self-test updated accordingly.
-    `law-english-legal-system-revision-notes.md` retired.
-  - `igcse-sociology-methods-inequality-revision-notes.md` kept as canonical (same naming-
-    convention reasoning); its only gap versus the retired file (a "Perspectives in one line
-    each" section -- functionalism/Marxism/feminism/interactionism, not covered anywhere in the
-    canonical file) merged in; description, exam traps and self-test updated to match.
-    `sociology-research-methods-revision-notes.md` retired. Frontmatter identity fields
-    (`topic`, `syllabusSeries`, `syllabusTopics`) were preserved exactly as in the pre-existing
-    canonical file in both merges -- only `description` and body content changed.
-  - Both retired files: 301-redirected (flat URL + all 7 type-prefixed URL variants) to their
-    surviving canonical resource via `CONSOLIDATED_RESOURCES` in `scripts/generate-redirects.mjs`.
-  - Both practice-questions siblings whose "Related:" link pointed at a retired file
-    (`law-english-legal-system-practice.md`, `sociology-research-methods-practice.md`) updated
-    to link the surviving canonical resource directly, rather than relying on the redirect.
-- **Checker made a real gate, not advisory:** `check-duplicate-resource-scope.mjs` rewritten so
-  any group NOT present in its own `REVIEWED_LEGITIMATE` list fails the build (exit 1) --
-  previously it always exited 0 and was not wired into `validate:academic` at all. Now wired
-  into `npm run validate:academic` (last step in the chain), so a future weekly-automation run
-  that reintroduces an unreviewed same-scope pair fails CI, not just prints a warning someone
-  has to notice. `--only-involving` mode (used by the weekly automation itself, which cannot
-  edit the allowlist) stays informational (always exits 0) since failing an automation run that
-  has no way to resolve the finding would just block content publication with no path forward.
-- **Regression fixtures added** (`scripts/test-negative-validation-suite.mjs`, categories [J] and
-  [K], 13 cases total, up from 11): [J] mutates `momentum.md`'s `syllabusTopics` to collide with
-  `kinematics.md` (two real O Level Physics study-guides not currently in any group) and asserts
-  the checker fails the build on this brand-new, not-yet-reviewed group; [K] asserts the checker
-  still exits 0 cleanly across all 10 currently allow-listed groups, so a future edit that
-  silently desyncs `REVIEWED_LEGITIMATE` from the actual resource files is itself caught.
-- **Verification:** `npm run check:duplicate-scope` now reports exactly 10 reviewed groups with
-  evidence and exits 0; `npm run validate:academic` (with the checker now included) passes end
-  to end; `npm run build`, `npm run audit:all` (metadata/structured-data/redirects/internal-
-  links/content-integrity/fonts/sitemap-noindex), and `npm run test:negative-validation-suite`
-  equivalent (`node scripts/test-negative-validation-suite.mjs`, 13/13) all pass with zero
-  broken links and zero orphan pages after the merge; `npm audit` reports 0 vulnerabilities.
-- **Status:** all 12 warnings individually classified with recorded evidence; both genuine
-  defects fixed (merged, redirected, links updated); the 10 legitimate groups allow-listed with
-  evidence, not merely re-asserted from the prior note; the checker now fails the build on any
-  future unreviewed group; regression fixtures prove both the fail-path and the allow-listed
-  pass-path.
+- **Workstream:** v1.x Closure Release, Workstream 8.
+- **Problem:** `ONE_TO_ONE_PRICING`'s eight non-Pakistan rows are currency conversions of the
+  owner-approved Pakistan PKR rate, applied once (23 August 2026, D-012) and left as fixed
+  published prices. That was a sound decision, but nothing recorded *which* exchange rates
+  produced those numbers, and nothing would ever notice if the conversion basis became old or
+  the published prices drifted far from a fair conversion -- the site could carry a stale or
+  badly-off conversion indefinitely with no signal.
+- **What was built:**
+  - `src/data/fx-policy.ts` -- typed FX_RATES snapshot (PKR-per-unit for all 8 currencies),
+    fetched live from `open.er-api.com` (exchangerate-api.com) on 2026-08-26 and recorded with
+    source URL and date; `FX_STALENESS_LIMIT_DAYS = 120`; `FX_TOLERANCE_PERCENT = 8`, both with
+    reasoning recorded in the file's own comments. `impliedConvertedAmount()` applies the same
+    rounding rule as `pricing.ts`'s `formatFee()` (whole units, except KWD/BHD/OMR at 3 decimals)
+    so drift comparisons are apples-to-apples with what's actually displayed.
+  - `scripts/validate-fx-policy.mjs` -- three checks, all build-failing: (1) the five approved
+    PKR base rates (IB per-class; one-to-one Pakistan igcse/aLevel; group Pakistan igcse/aLevel)
+    match a hardcoded `APPROVED_BASE_RATES` constant exactly, so any change to them fails the
+    build until the constant is updated in the same commit as a decision-log entry recording
+    owner approval; (2) the FX snapshot's age vs `FX_STALENESS_LIMIT_DAYS`; (3) every published
+    one-to-one converted amount vs what `FX_RATES` implies today, within `FX_TOLERANCE_PERCENT`.
+    None of these three checks ever writes a price -- each one only forces a human decision.
+  - Wired into `npm run validate:academic` (also runnable alone as `npm run validate:fx-policy`).
+  - `docs/fx-rate-policy.md` -- plain-language policy statement for a non-technical reader:
+    what Marlbridge sets directly, what the converted prices are, how the two checks work, why
+    120 days / 8% were chosen, and what to do when either check fails.
+  - Regression fixtures (`test-negative-validation-suite.mjs` [L], [M]): [L] mutates the
+    one-to-one Pakistan igcse rate and asserts the base-rate check rejects it; [M] mutates the
+    Saudi Arabia converted rate far beyond tolerance and asserts the drift check rejects it.
+- **Verified today's actual numbers, not asserted:** live-fetched 2026-08-26 PKR cross-rates for
+  all 8 currencies; computed the implied conversion of the current PKR base against each
+  published one-to-one price; every one of the 16 figures (8 currencies × 2 tiers) sits between
+  0.0% and 4.3% drift -- comfortably inside the 8% tolerance, confirming the 23 August 2026
+  conversion is still a fair one four days later and no reprice is currently warranted.
+- **No base price changed.** This workstream is infrastructure only -- it did not alter
+  `REGION_PRICING`, `ONE_TO_ONE_PRICING`, or `IB_PRICING`'s values.
+- **Verification:** `validate-fx-policy.mjs` passes standalone and inside `validate:academic`;
+  `npx tsc --noEmit` clean; `npm run build` clean; negative-validation-suite 15/15 (13 prior +
+  2 new).
+- **Status:** FX-rate policy complete -- typed, transparent (code comments + `docs/fx-rate-
+  policy.md`), with a staleness validator and tests protecting the approved base rates.
+
+## D-050 — v1.x Closure WS5: model assessment information
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, Workstream 5.
+- **Baseline:** confirmed at WS0 that assessment structure (paper count, duration, marks,
+  weighting, tiering) was not modeled ANYWHERE in the repository -- `src/data/academic/
+  syllabuses.ts` explicitly excludes it by its own doc comment, and a prior coverage report
+  found `assessmentStatus` NO_DATA for all 139 rows it scored because no field or file modeled
+  it at all, not because specific rows were merely unverified.
+- **Scope clarification (owner-approved via AskUserQuestion, 2026-08-26):** rigorously sourcing
+  official per-paper assessment structure for all 160 ACTIVE matrix combinations in one pass was
+  judged infeasible. Owner approved: build the complete typed model and every validator now, for
+  ALL future records, and populate real, officially-sourced records now only for a bounded first
+  batch, with every other combination explicitly marked NOT_YET_MODELED rather than silently
+  absent. Remaining combinations are future work, outside this release.
+- **What was built:**
+  - `src/data/academic/assessments.ts` -- typed `Assessment`/`AssessmentComponent` model keyed by
+    the full academic identity (board/qualification/subject/code/tiers/dates/component/marks/
+    weighting/assessment type), with a closed `AssessmentTier` union (compile-time rejection of
+    an invalid tier term) and an `alternativeGroup` mechanism for mutually-exclusive component
+    choices (e.g. Cambridge sciences' "Practical Test" vs "Alternative to Practical").
+  - `scripts/validate-assessments.mjs` -- 7 build-failing checks: [1] official source URL domain
+    matches the declared board; [2] spec code is contained in the matching syllabuses.ts entry's
+    code (catches an invented or mismatched code); [3a]/[3b] component weightings sum to 100% per
+    tier, correctly treating alternativeGroup members as one counted choice, not double-counted;
+    [4] no duplicate (paperCode, tier) pairs within a record; [5] every tier term is valid and
+    declared on its parent record (runtime defence-in-depth for the TS union type); [6] exactly
+    one 'current' record per board+qualification+subject+overlapping-tier group -- deliberately
+    grouped by tier overlap, not just board+qualification+subject, so two genuinely simultaneous,
+    non-competing variants (e.g. Cambridge O Level Urdu First Language 3247 vs Second Language
+    3248) are correctly NOT flagged as a legacy/current collision, while a real collision (e.g.
+    both H431 and H436 marked 'current' for the same untiered A Level Business) IS caught; [7]
+    non-empty source URL and verification date on every record. Also prints (but does not fail
+    the build on) a coverage count: N/160 ACTIVE combinations modeled vs NOT_YET_MODELED, so the
+    gap stays visible every run. Wired into `npm run validate:academic`.
+  - Bounded first batch populated: **12 board+qualification+subject combinations, 14 Assessment
+    records** (H431+H436 legacy/current pair count as one combination; Urdu 3247+3248 count as
+    one combination) -- Cambridge IGCSE Mathematics (0580, tiered Core/Extended), Cambridge IGCSE
+    Chemistry (0620) and Biology (0610, both tiered with an alternative practical/non-practical
+    component), Cambridge A Level Chemistry (9701), Physics (9702), Economics (9708) and English
+    Literature (9695), Cambridge IGCSE Islamiyat (0493), Cambridge IGCSE Urdu Second Language
+    (0539), Cambridge O Level Urdu First Language (3247) and Second Language (3248), OxfordAQA
+    IGCSE Pakistan Studies (9236), and OCR A Level Business's legacy/current transition (H431,
+    being withdrawn, final assessment Summer 2027 -> H436, current, first teach September 2026).
+    Selection: the 7 combinations tied to this site's 10 named GSC-priority pages (D-035), plus 5
+    chosen for structural diversity to exercise every validator rule (a tiered qualification, an
+    alternative-component choice, and a real legacy/current transition).
+  - Research delegated to a subagent with strict sourcing rules (official awarding-body domains
+    only, exact URL + date, no invented numbers, omit rather than guess), then independently
+    spot-checked by directly re-fetching 4 of the resulting PDFs myself (Cambridge IGCSE
+    Mathematics 0580, OCR A Level Business H431, Cambridge IGCSE Islamiyat 0493, OxfordAQA IGCSE
+    Pakistan Studies 9236) and confirming every paper/marks/weighting/duration figure against the
+    source text directly -- all 4 matched exactly. Two minor honest caveats recorded in the data
+    itself: Cambridge IGCSE Urdu Second Language 0539's Paper 2/Speaking durations are sourced as
+    ranges ("approximately 35-45 minutes" etc.) with the documented midpoint used and the range
+    disclosed in `notes`, not silently picked; Cambridge IGCSE Islamiyat 0493's 50/50 weighting is
+    a direct arithmetic consequence of two compulsory 50-mark papers (the syllabus prints no
+    separate % column for this subject), also disclosed in `notes` rather than presented as if
+    quoted from an explicit source table.
+  - `src/data/academic/syllabuses.ts` and `syllabus-topics.ts`'s OCR A Level Business entries
+    updated from a single `code: 'H431'` to the compound `'H431 / H436'`, mirroring the existing
+    OxfordAQA Business 9625/9725 convention, now that H436's own specification is confirmed
+    published and its structure independently verified (previously recorded only as an
+    anticipated future transition, not yet confirmed).
+  - `src/pages/boards/[board]/[qualification]/[subject].astro` (the reference academic-hub
+    template, used by all 160 ACTIVE combinations) -- new "Assessment structure" section between
+    "The qualification" and "The subject": renders a real per-paper table (component, duration,
+    marks, weighting, type) sourced and dated, with legacy/current transition context, when a
+    combination has a modeled record; renders an honest "Marlbridge has not yet modeled the
+    paper-by-paper assessment structure... refer to the official specification" sentence,
+    linking the real official syllabus URL, when it does not. This is the real, user-visible fix
+    for "assessmentStatus must stop being NO_DATA everywhere" -- not just internal data, an
+    actual page section a visitor can read, honestly reflecting exactly which 12 combinations
+    are modeled today and which are not.
+  - Regression fixtures (`test-negative-validation-suite.mjs`, categories [N]/[O], 17 cases total,
+    up from 15): [N] mutates Mathematics 0580's Paper 1 weighting to break its Core-tier 100%
+    total and asserts the validator rejects it; [O] mutates H431's specStatus to 'current'
+    (alongside H436, already 'current') and asserts the legacy/current-collision check rejects
+    the resulting two-current-records-for-one-tier-group state.
+- **Verification:** `npx tsc --noEmit` clean; `npm run validate:academic` (now including
+  `validate-assessments.mjs`) passes end to end, reporting 12/160 modeled with the gap explicitly
+  visible; `npm run build` clean (1129 pages, unchanged from WS9's count); `npm run audit:all`
+  clean (0 broken links, 0 orphans, all 1128 sitemap URLs indexable); direct inspection of the
+  built HTML confirms the new section renders correctly for a modeled tiered qualification
+  (Mathematics 0580), a dual-record simultaneous-variant combination (Urdu 3247/3248), a
+  legacy/current transition (OCR Business H431/H436, "being withdrawn in favour of H436" shown),
+  and the honest not-yet-modeled state (spot-checked on Cambridge IGCSE Accounting); negative
+  suite 17/17; `npm audit` 0 vulnerabilities.
+- **Status:** typed model, 7 build-failing validators, real bounded-batch data (12 combinations,
+  14 records, independently spot-verified), real on-page display replacing universal NO_DATA with
+  either real assessment data or an honest, sourced "not yet modeled" note, and regression
+  fixtures proving both the fail-path and the pass-path. Remaining 148 ACTIVE combinations are a
+  tracked, visible gap (the validator's own coverage line, printed every run), explicitly out of
+  this release's bounded scope per the owner's approved decision above.
