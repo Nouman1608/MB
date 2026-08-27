@@ -1,0 +1,59 @@
+---
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import EnquiryForm from '../../../components/forms/EnquiryForm.astro';
+import FAQ from '../../../components/ui/FAQ.astro';
+import { MARKETING_COPY } from '../../../i18n/pages/marketing';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES, localePath } from '../../../i18n/routes';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = MARKETING_COPY.trial[locale];
+const nav = NAV_COPY[locale];
+
+/**
+ * v1.x CLOSURE WS2 -- same real questions as /trial/'s English FAQ,
+ * translated. The free-trial policy itself ("free, no obligation") is a
+ * boolean commercial fact stated in prose here rather than imported from
+ * PRICING_TERMS.freeTrial, since that constant is an English sentence,
+ * not a number that must byte-match across languages -- unlike the
+ * numeric pricing table on /pricing/, which does read live data (see
+ * that page).
+ */
+const FAQS: Record<LocaleCode, { question: string; answer: string }[]> = {
+  ar: [
+    { question: 'هل الدرس التجريبي مجاني فعلًا؟', answer: 'نعم. الدرس التجريبي الأول مجاني تمامًا، دون أي رسوم أو التزام بالاستمرار.' },
+    { question: 'هل إرسال هذا النموذج يحجز الدرس؟', answer: 'لا — هذا يرسل طلبًا فقط. سيرد مارلبريدج عبر البريد الإلكتروني لتأكيد المعلم والموعد قبل جدولة أي شيء.' },
+    { question: 'ماذا يجب أن أكتب في الرسالة؟', answer: 'البرنامج أو المؤهل (مثل IGCSE أو A Level)، ومجلس الامتحان إن كان معروفًا، والمادة، والمستوى، وأيامك/أوقاتك المفضلة ومنطقتك الزمنية، وما الدعم الذي تحتاجه.' },
+    { question: 'أين يدرّس مارلبريدج؟', answer: 'يدرّس مارلبريدج في باكستان اليوم. يُدرّس المتعلمون خارج مواقع تدريسنا عبر الإنترنت.' },
+  ],
+  ur: [
+    { question: 'کیا ٹرائل کلاس واقعی مفت ہے؟', answer: 'جی ہاں۔ پہلا ٹرائل سبق مکمل طور پر مفت ہے، بغیر کسی چارج یا جاری رکھنے کی پابندی کے۔' },
+    { question: 'کیا یہ فارم جمع کروانے سے کلاس بک ہو جاتی ہے؟', answer: 'نہیں — یہ صرف ایک درخواست بھیجتا ہے۔ کچھ بھی شیڈیول کرنے سے پہلے مارل برج استاد اور وقت کی تصدیق کے لیے ای میل کے ذریعے جواب دے گا۔' },
+    { question: 'مجھے پیغام میں کیا لکھنا चاہیے؟', answer: 'پروگرام یا قابلیت (مثلاً IGCSE، A Level)، امتحانی بورڈ اگر معلوم ہو، مضمون، سطح، آپ کے پسندیدہ دن/اوقات اور ٹائم زون، اور آپ کو کس مدد کی ضرورت ہے۔' },
+    { question: 'مارل برج کہاں پڑھاتا ہے؟', answer: 'مارل برج آج پاکستان میں پڑھاتا ہے۔ ہمارے تدریسی مقامات سے باہر کے طلبہ کو آن لائن پڑھایا جاتا ہے۔' },
+  ],
+  bn: [
+    { question: 'ট্রায়াল ক্লাস কি সত্যিই বিনামূল্যে?', answer: 'হ্যাঁ। প্রথম ট্রায়াল ক্লাসটি সম্পূর্ণ বিনামূল্যে, কোনো চার্জ বা চালিয়ে যাওয়ার বাধ্যবাধকতা ছাড়াই।' },
+    { question: 'এই ফর্ম জমা দিলে কি ক্লাস বুক হয়ে যায়?', answer: 'না — এটি শুধু একটি অনুরোধ পাঠায়। কিছু নির্ধারণের আগে মার্লব্রিজ শিক্ষক ও সময় নিশ্চিত করতে ইমেইলে জবাব দেবে।' },
+    { question: 'বার্তায় আমার কী লেখা উচিত?', answer: 'প্রোগ্রাম বা যোগ্যতা (যেমন IGCSE, A Level), পরীক্ষা বোর্ড জানা থাকলে, বিষয়, স্তর, আপনার পছন্দের দিন/সময় ও সময় অঞ্চল, এবং কী ধরনের সহায়তা প্রয়োজন।' },
+    { question: 'মার্লব্রিজ কোথায় পড়ায়?', answer: 'মার্লব্রিজ আজ পাকিস্তানে পড়ায়। আমাদের শিক্ষাদান স্থানের বাইরের শিক্ষার্থীদের অনলাইনে পড়ানো হয়।' },
+  ],
+};
+const faqs = FAQS[locale];
+---
+<LocaleLayout locale={locale} translationKey="trial" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <div class="mx-auto max-w-[72ch] px-[var(--spacing-gutter)] py-[clamp(32px,4vw,56px)]">
+    <EnquiryForm kind="trial" labels={nav.form} />
+  </div>
+  <div class="mx-auto max-w-[72ch] px-[var(--spacing-gutter)] pb-[clamp(40px,5vw,72px)]">
+    <h2 class="m-0 mb-6 text-[24px] font-semibold text-navy-800">{nav.questionsHeading}</h2>
+    <FAQ items={faqs} id="trial-faqs" />
+    <p class="m-0 mt-8 text-[15.5px]">
+      <a href={localePath(locale, 'contact')} class="underline decoration-gold-500 underline-offset-2">{nav.footerCompany.find((i) => i.key === 'contact')?.label}</a>
+    </p>
+  </div>
+</LocaleLayout>
