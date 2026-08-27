@@ -581,7 +581,7 @@ Status values: `answered` (owner has responded, implemented), `open`
      and IELTS... SAT is not yet offered."
   3. `src/pages/index.astro`: homepage `<title>` changed from
      `site.tagline` ("Marlbridge — Bridging Knowledge and Opportunity.")
-     to `"Marlbridge — IGCSE, A Level, IB & GCSE Tutoring"` -- a real
+     to "Marlbridge — IGCSE, A Level, IB & GCSE Tutoring" -- a real
      category keyword instead of branding-only text, using only
      currently-taught program categories. `site.tagline` is unaffected
      everywhere else (footer, Organization schema `slogan`, homepage H1
@@ -1950,3 +1950,172 @@ Status values: `answered` (owner has responded, implemented), `open`
   gate green (`npm run build`; `validate:academic`; `audit:all`; `npm run check` -- 0 errors/warnings/hints;
   `enquiry-validation.test.mjs` 23/23; `test-negative-validation-suite.mjs` 11/11 incl. `[E]`).
 
+## D-039 — QIGT Section 9: performance + accessibility, fresh multi-page evidence
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, Section 9 (Performance + accessibility).
+- **Method:** real Lighthouse v13.4.1 runs (mobile, simulated throttling) against a local
+  `astro preview` server built from this exact session's code -- not production, since several
+  of today's merges might not have finished deploying at measurement time (production
+  verification belongs to the deployment workstream, #83). Full method note, including how
+  Chrome was made to run in this sandbox (`apt-get download` + `dpkg-deb -x` + `LD_LIBRARY_PATH`,
+  no root required), and the complete before/after metrics table for all 6 required pages
+  (homepage, resource page, board hub, resources index, Free Trial form, search) are in
+  `docs/reports/qigt-performance-accessibility-2026-08-26.md`.
+- **Real accessibility bugs found and fixed (all verified with a second Lighthouse pass, not
+  assumed):**
+  1. `--color-gold-600` (`src/styles/global.css`) measured 4.47:1 against `--color-ivory` --
+     just under the 4.5:1 AA threshold -- flagged on every page tested. Darkened to `#7A5E10`
+     (5.56:1 ivory, 6.11:1 white).
+  2. `text-gold-500` (the on-navy gold token) was misused on light-surface numbered-list markers
+     in `ResourcesSection.astro` and `resources/index.astro` -- switched to `text-gold-600`.
+  3. Resource/article markdown body links relied on color alone to be distinguishable from
+     surrounding text (axe `link-in-text-block`) -- added a scoped underline rule to the
+     `<Content />` wrapper in both templates.
+  4. The cookie-consent banner's Cookie Policy link had no explicit text color, so it fell
+     through to the global light-background `a` color rule -- **1.1:1 contrast** against the
+     banner's navy-900 background (essentially unreadable). Added `text-on-navy`.
+  5. Footer copyright/founding-year text used a hardcoded `#6E7D93` (4.38:1 against navy-900,
+     under threshold) instead of the existing `text-on-navy-mute` token (8.06:1) -- swapped in.
+  - Net result: accessibility went from 93-97 across the 6 pages (color-contrast failing on
+    all 6, link-in-text-block on 1) to **100/100 on all 6**, confirmed by rerunning Lighthouse
+    after each fix.
+- **Real performance issue found, documented, NOT fixed this pass:** `/resources/` scores
+  Performance 71 with a 1,370ms Total Blocking Time. Root cause verified directly via the
+  `mainthread-work-breakdown` audit: the page renders all 731 resource cards into the DOM at
+  once (existing subject/level filters hide non-matching cards via the `hidden` attribute
+  rather than removing them), producing ~5,200 DOM nodes and 3.7s of Style & Layout work on
+  first paint. A structural fix (pagination, virtualization, or lazy per-section rendering)
+  would mean restructuring the existing, working, already-tested client-side filter logic --
+  more risk than this workstream's "smallest safe change" scope justifies without dedicated
+  follow-up testing. Recorded as a recommendation for a future session rather than either
+  silently left unmentioned or rushed under time pressure.
+- **Confirmed already compliant, not touched:** heading order, accessible names/labels, ARIA
+  attributes, `html[lang]`, form-field labeling, tabindex/focus order, target size -- none of
+  these were ever flagged by axe-core across any of the 6 pages, in either the before or after
+  run.
+- **Guardrail check:** every color change is a token-level fix restoring an already-intended
+  design relationship (a token's stated purpose vs. its actual measured contrast) -- no new
+  color was invented, no visual redesign occurred, and each fix was scoped to exactly the
+  elements that were actually failing.
+- **Status:** implemented directly on `main`-bound branch `feature/qigt-perf-a11y`, full
+  validation gate green (`npm run build`; `validate:academic`; `audit:all`; `npm run check` --
+  0 errors/warnings/hints); accessibility verified via real before/after Lighthouse runs, not
+  static audit alone.
+
+## D-040 — Business-decisions register (owner input required)
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, task #81.
+- **What this is:** a single consolidated document (`docs/business-
+  decisions-register.md`) listing every question surfaced across this
+  window's workstreams (and one earlier finding, D-010/D-033) that
+  genuinely cannot be answered from the codebase, the live site, or
+  public awarding-body sources -- not a new investigation, a
+  consolidation of gaps already identified and explicitly deferred in
+  D-034 and D-033.
+- **Items registered:** (1) exact scope of the schools' content-licence
+  grant (bulk printing / LMS upload / modification -- D-034); (2)
+  whether the multi-subject and sibling pricing discounts stack
+  (D-034); (3) standard class duration and frequency per subject/level
+  (D-034); (4) cancellation/refund policy, currently unstated anywhere
+  on the site (D-034); (5) billing cadence, accepted payment methods,
+  and any fees beyond the published per-subject rate (D-034); (6)
+  `www.marlbridge.com` not resolving at all rather than redirecting to
+  the bare domain -- a DNS/Cloudflare-dashboard fix outside this repo
+  (D-010, reconfirmed D-033).
+- **Deliberately excluded, with reasoning given in the register itself:**
+  faculty/reviewer role mapping (D-004/D-005/D-006) -- already resolved,
+  owner approved publishing all 19 real teachers; and the `/resources/`
+  index performance issue (D-039) -- an engineering follow-up, not a
+  business decision, tracked in the final QIGT report (#83) instead.
+- **Guardrail check:** no answer was invented or guessed for any item;
+  each entry states only what the site currently does NOT say, and asks
+  the specific question the owner would need to answer to close it.
+- **Status:** delivered as `docs/business-decisions-register.md`; all six
+  items remain `open` pending direct owner input; none block the
+  remaining technical QIGT workstreams (#82, #83).
+
+## D-041 — Full validation gate + before/after comparison (final QIGT gate)
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, task #82. Consolidated validation of the combined effect of
+  D-032 through D-040 (every QIGT workstream this window), run fresh against the merged `main`
+  branch at commit `e870812` (not re-run per-workstream results from earlier in the day).
+- **Full validation gate, all green:**
+  - `npm run build`: succeeds. Pagefind indexed 1,132 HTML files, 4 languages, 5 filters (was
+    "Indexing all `<body>` elements, 0 filters" before D-036).
+  - `npx astro check`: 0 errors / 0 warnings / 0 hints (140 files).
+  - `npm run validate:academic` (6 validators): all OK — matrix 183 rows (160 ACTIVE / 23
+    NOT_SUPPORTED, unchanged from baseline), content tagging OK, commercial claims OK,
+    cross-board integrity OK (5/5 rule categories), pricing consistency OK (0 hard-coded fees
+    outside `pricing.ts` across 879 files), review-integrity OK (731 resources + 4 articles
+    checked, 20 reviewer records, 9 `isReviewer: true`).
+  - `npm run audit:all` (6 checks + sitemap-noindex): 0 problems across all. Structured-data
+    audit: 1,131 pages with JSON-LD, 5,353 typed nodes (EducationalOrganization ×1,131,
+    WebSite ×1,131, WebPage ×1,131, BreadcrumbList ×988, Article ×735, Course ×167,
+    FAQPage ×50, Person ×19, Organization ×1). Redirect audit: 976 rules (975 static + 1
+    wildcard), unchanged from baseline. Internal-link audit: 0 broken links, 0 orphan pages,
+    0 generic anchor text, across 1,132 built pages / 1,130 indexable.
+  - `node scripts/test-cross-board-regression.mjs`: OK, all previously-flagged and control
+    pages intact.
+  - `node scripts/test-negative-validation-suite.mjs`: 11/11 passed, including the 5 new
+    review-integrity negative fixtures added under D-032.
+  - `functions/api/__tests__/enquiry-validation.test.mjs`: 16/16 passed (was 11 before the
+    `trial` kind was added under D-034).
+  - `npx tsc --noEmit`: 0 errors. `npm audit`: 0 vulnerabilities. `npx wrangler deploy
+    --dry-run`: succeeds, 3,622 files read from `dist`.
+- **Before/after comparison (Section 11 requirements):**
+  - **Route/page count:** 1,131 built pages at baseline (2026-08-26 morning, commit
+    `e04fbc3...`) → 1,131-1,132 now (audit scripts count this two different ways, both
+    pre-existing behaviour, not a regression) -- net unchanged; the QIGT programme reshaped and
+    fixed existing pages, added exactly one net-new page (`/trial/`, D-034), and removed exactly
+    one page from the indexable set (`/search/`, noindexed under D-033) -- the counts wash out.
+  - **Sitemap URL set:** 1,130 URLs at baseline → **1,130 URLs now**, re-verified directly
+    against the live production sitemap (`sitemap-0.xml`, 1,130 `<loc>` entries), not just the
+    local build. `/search/` confirmed absent (0 matches); `/trial/` confirmed present (1 match).
+  - **Redirect count:** 976 (975 static + 1 wildcard) at baseline → **976, unchanged** — no
+    redirects added or removed this programme; the redirect-inventory audit (D-033) reviewed
+    every existing rule's rationale and found nothing synthetic to remove.
+  - **Indexable / noindexed pages:** baseline had 0 pages with an explicit code-level noindex
+    that were also correctly excluded from the sitemap (the `isIndexableAcademicPage()` policy's
+    27 pages were already excluded pre-QIGT). This programme added exactly one more:
+    `/search/` (D-033) — verified live in production returning
+    `<meta name="robots" content="noindex, follow">` and absent from the production sitemap.
+  - **Titles/descriptions:** 0 missing, 0 duplicate titles, 0 duplicate descriptions at baseline
+    and now (`audit-metadata.mjs`, 1,131 pages both times).
+  - **Structured-data types:** not separately counted at baseline (D-038 confirmed the schema
+    *builders* were already correct, not a counts-based check); now formally captured for the
+    first time as the after-state (see counts above) for future comparison.
+  - **Resource publication states:** 731 resources / 4 articles at both baseline and now (no
+    resources added, removed, or reclassified this programme); reviewer records grew from
+    implicitly-uncounted at baseline to a formally validated 20 records / 9 `isReviewer: true`
+    once D-032's review-integrity validator landed.
+  - **Internal links:** 0 broken, 0 orphans at baseline and now (`audit-internal-links.mjs`);
+    D-036 added new internal `data-pagefind-filter` metadata (not visible links) rather than
+    changing the link graph itself.
+  - **Academic matrix:** 183 rows, 160 ACTIVE / 23 NOT_SUPPORTED at baseline and now — completely
+    unchanged in row count, but D-037 corrected `levelsLabel` display copy for 11 subjects where
+    it had drifted out of sync with the matrix's real ACTIVE combinations (a display-honesty fix,
+    not a matrix change).
+  - **Pricing data:** `src/data/pricing.ts` amounts unchanged throughout (0 amounts touched by
+    D-034's display-bug fix, confirmed by `validate-pricing-consistency.mjs` passing identically
+    before and after).
+  - **Production headers:** re-verified live (not just locally) during this pass —
+    `strict-transport-security: max-age=15552000` present on both `marlbridge.com` and
+    `www.marlbridge.com`; `/search/` correctly serves `noindex, follow` in production, not just
+    in the local build; `/trial/` confirmed live and rendering the new structured fields.
+- **Unplanned discovery during this pass, register corrected:** re-checking `www.marlbridge.com`
+  live (previously found not resolving at all in D-010/D-033) found it now resolves cleanly,
+  returns HTTP 200, serves byte-identical content to the bare domain, and carries a correct
+  self-referencing canonical to `https://marlbridge.com/` — the same safe pattern already
+  verified for the other apex/protocol variants. Whatever caused the earlier timeout has
+  resolved itself (DNS propagation or a Cloudflare-side change, not something in this
+  repository). `docs/business-decisions-register.md` item 6 updated in place to reflect this —
+  downgraded from "action needed" to an optional, non-blocking tidiness recommendation, with the
+  correction dated and explained rather than silently overwritten.
+- **Guardrail check:** every "after" figure in this entry was measured fresh this pass (local
+  build + live production fetch), not carried over from an earlier workstream's own report
+  without re-verification.
+- **Status:** full validation gate green on `main` at commit `e870812`; before/after comparison
+  complete; one register item corrected based on fresh live evidence.
