@@ -55,9 +55,20 @@ function run(cmd) {
 
 function withMutation(file, mutate, { validatorCmd, expectSubstring, label }) {
   const original = readFileSync(file, 'utf8');
+  // Each mutate() callback matches against a literal '\n'-joined search
+  // string. On a checkout with core.autocrlf=true (the Windows default),
+  // readFileSync returns real '\r\n' line endings, so those literal
+  // searches silently fail to match even though the content is otherwise
+  // identical -- normalize to LF for the mutate() step, then restore CRLF
+  // on write-back only if the file actually had it, so this never changes
+  // the file's line-ending style on disk (the finally-block restore below
+  // still writes back the untouched `original` bytes either way).
+  const hadCRLF = original.includes('\r\n');
+  const normalized = hadCRLF ? original.replace(/\r\n/g, '\n') : original;
   try {
-    const mutated = mutate(original);
-    if (mutated === original) throw new Error(`${label}: mutation did not change the file — check the search string still matches`);
+    let mutated = mutate(normalized);
+    if (mutated === normalized) throw new Error(`${label}: mutation did not change the file — check the search string still matches`);
+    if (hadCRLF) mutated = mutated.replace(/\n/g, '\r\n');
     writeFileSync(file, mutated);
     const { code, out } = run(validatorCmd);
     if (code === 0) {
