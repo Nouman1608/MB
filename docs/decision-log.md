@@ -2119,3 +2119,267 @@ Status values: `answered` (owner has responded, implemented), `open`
   without re-verification.
 - **Status:** full validation gate green on `main` at commit `e870812`; before/after comparison
   complete; one register item corrected based on fresh live evidence.
+
+## D-042 — Deployment verification + final evidence-based report (programme close-out)
+
+- **Date:** 2026-08-26.
+- **Workstream:** QIGT programme, task #83 (final task).
+- **Deployment verification:** rather than assume the auto-deploy pipeline (push to `main` ->
+  Cloudflare Pages) succeeded, fetched a representative sample of production URLs live and
+  checked each against the specific fix it is meant to demonstrate: `/pricing/` (no duplicated
+  currency codes), `/about/` (old blanket review claim absent), `/legal/terms/` (schools carve-out
+  live, dated), `/trial/` (new structured form live), `/search/` (serves `noindex, follow` and is
+  absent from the live production sitemap -- 0 of 1,130 `<loc>` entries in `sitemap-0.xml` match
+  "search", 1 matches "trial"), the homepage/`/resources/` footer nav (Past Papers/Exam
+  Preparation absent, Practice Questions present, `data-pagefind-body` present), `/llms.txt` (no
+  false past-papers claim), a resource page (`data-pagefind-filter` attributes and the
+  link-underline fix both live), `/subjects/accounting/` (corrected label live), the compiled CSS
+  bundle (`--color-gold-600:#7a5e10`, `--color-on-navy-mute:#9fadc2`, confirming the accessibility
+  fix values are exactly what shipped), `robots.txt`, and HSTS headers on both `marlbridge.com`
+  and `www.marlbridge.com`. Every check passed against the live site.
+- **Final report:** `docs/reports/qigt-final-report-2026-08-26.docx` -- a 15-section report
+  (executive summary; scope/method/ground rules; baseline; one section per workstream D-032
+  through D-039; business decisions requiring owner input; full validation gate + before/after
+  comparison; deployment verification; guardrails held/deliberately not changed; closing summary
+  and recommendations) written for the owner, covering every real finding and fix from this
+  programme with no invented facts. Rendered to PDF and visually reviewed page-by-page before
+  delivery to confirm correct formatting (headings, tables, page breaks) rather than trusting the
+  generation script alone.
+- **Guardrail check:** the report states only what was directly verified this programme (repeating
+  the specific evidence -- measured contrast ratios, real diff counts, live HTTP checks -- rather
+  than summarising claims from earlier reports without re-confirmation); the one correction found
+  mid-programme (the `www.marlbridge.com` DNS finding resolving itself) is stated plainly as a
+  correction, not silently smoothed over.
+- **Status:** implemented on `feature/qigt-final-report`, deployment independently re-verified
+  live in production, report delivered. This is the final entry of the QIGT programme (D-032
+  through D-042); task #83 and the full QIGT task list are now complete.
+
+## D-043 — Business-decisions register: all five open items answered and implemented
+
+- **Date:** 2026-08-26.
+- **Workstream:** post-QIGT follow-up, at the owner's direct request ("ask me questions from the
+  document i will give you the answers").
+- **Method:** asked the owner each of the five open items from `docs/business-decisions-register.md`
+  directly, one clarifying round-trip where the first answer needed follow-up (discount stacking:
+  the owner's first answer restated the existing multi-subject-discount rule rather than confirming
+  whether it combines with the sibling discount, so a second, more specific question was asked).
+  Every fact below is the owner's own stated answer, not inferred or assumed.
+- **Answers received and implemented:**
+  1. **Discount stacking:** the 20% multi-subject discount (3+ subjects) and the 10% sibling
+     discount (up to 2 siblings) combine when a family qualifies for both; both apply to group
+     classes only, never one-to-one (already separately stated on the one-to-one FAQ). Added
+     `PRICING_TERMS.discountsStack` to `src/data/pricing.ts`; updated the pricing page's discount
+     FAQ answer and the "Discounts and trial" section intro to state this explicitly.
+  2. **Schools' licence scope:** bulk printing for a whole year group and LMS upload (Google
+     Classroom, Moodle, etc.) are both permitted; modifying, relabelling or rebranding the
+     material is not -- it should be used as published. Updated `/schools/` with a new clarifying
+     paragraph and `/legal/terms/`'s class-use carve-out to name both the permitted uses and the
+     modification boundary explicitly.
+  3. **Class duration/frequency:** group classes run 45-50 minutes, 3 times a week per subject;
+     one-to-one classes run 1 hour, with the number of classes left to the student/family (no
+     fixed frequency). Does not vary by qualification level. Added
+     `PRICING_TERMS.classFormat` and a new pricing-page FAQ entry.
+  4. **Cancellation/refund:** billing is monthly, starting once the free trial class has taken
+     place; a family can cancel or pause at any time, the month already paid for is not refunded,
+     and there is no further billing once cancelled. Added `PRICING_TERMS.billing` and
+     `PRICING_TERMS.cancellationPolicy`, plus two new pricing-page FAQ entries.
+  5. **Payment methods/fees:** bank transfer and international wire transfer are accepted; there
+     is no separate registration/enrolment fee beyond the published per-subject rate. Added
+     `PRICING_TERMS.paymentMethods` and `PRICING_TERMS.enrolmentFee`, surfaced in the same new FAQ
+     entry as item 4's billing cadence.
+- **Guardrail check:** every new fact traces to the owner's own direct answer in this
+  conversation, none inferred; all new pricing-adjacent facts were added to `src/data/pricing.ts`
+  (the single typed source of truth every pricing page already reads from) rather than
+  hard-coded on any page, consistent with the file's own stated rule that "every page that shows
+  a price MUST read from here"; `validate-pricing-consistency.mjs` re-ran clean afterward (0
+  hard-coded fee values outside `pricing.ts` across 879 files, same as before this change).
+  `docs/business-decisions-register.md` updated in place with each answer and exactly where it
+  now appears live, rather than left stating the questions as still open.
+- **Status:** implemented on `feature/qigt-business-decisions-answered`, full validation gate
+  green (build, astro check, `validate:academic`, `audit:all`, negative-validation-suite [11/11],
+  `tsc --noEmit`, `wrangler deploy --dry-run`).
+
+## D-044 — /resources/ index page performance fix + regression testing
+
+- **Date:** 2026-08-26.
+- **Workstream:** post-QIGT follow-up, at the owner's direct request ("after that you can do the
+  regression testing as suggested"), closing out the one performance issue D-039 deliberately
+  left as a documented recommendation rather than a same-session fix.
+- **The problem (recap from D-039):** `/resources/` renders every published resource card for
+  every subject into the DOM up front (up to 257 cards in the largest type section), with
+  client-side filtering toggling the `hidden` attribute rather than removing/adding elements.
+  Measured cost: Performance 71, Total Blocking Time 1,370ms, ~5,200 DOM nodes, 3.7s of
+  style-and-layout work on first paint (`mainthread-work-breakdown`).
+- **Fix chosen:** `content-visibility: auto` (with a `contain-intrinsic-size` placeholder) applied
+  to each `[data-subject-group]` block via a scoped `<style>` block in
+  `src/pages/resources/index.astro`. This tells the browser to skip layout/paint work for a
+  subject group until it is near the viewport -- a CSS-only, additive hint (harmlessly ignored in
+  browsers that don't support it; supported in all evergreen browsers) specifically recommended
+  by the Chrome/web.dev team for exactly this "long list of cards" scenario, and explicitly
+  documented as compatible with search-engine indexing (the built static HTML is unchanged --
+  Pagefind and crawlers read the full markup regardless of this CSS property). Deliberately not
+  the riskier alternatives considered in D-039 (pagination, JS virtualization, lazy DOM
+  insertion) -- those would have meant restructuring the existing, working, tested filter script;
+  this fix changes zero JavaScript, zero DOM structure, and zero filter behaviour.
+- **Regression testing performed (not assumed):**
+  - Full validation gate re-run clean: build, `astro check` (0/0/0), `validate:academic` (all 6
+    validators), `audit:all` (all 6 checks + sitemap-noindex), `npx tsc --noEmit`, `npm audit` (0
+    vulnerabilities), `wrangler deploy --dry-run`, negative-validation-suite (11/11).
+  - A dedicated Playwright functional test (`/tmp/pwtest/test-filters.mjs`, not committed --
+    scratch verification, not a permanent project fixture) drove a real headless browser against
+    the built preview site and confirmed, on the 257-card Mathematics/study-guides section:
+    initial state shows all 23 subject groups and 257 cards; selecting a subject narrows to
+    exactly 1 visible group matching that subject; the "Clear filters" button appears once
+    filtered and correctly restores all groups on click; selecting a level hides non-matching
+    cards and every still-visible card actually has that level; `content-visibility: auto` is
+    confirmed applied via `getComputedStyle`; and the last (previously most implicitly
+    deprioritized) subject group has real, nonzero rendered height once scrolled into view,
+    confirming `content-visibility` does not silently drop or corrupt content -- 12/12 checks
+    passed.
+  - Fresh Lighthouse mobile runs against the local preview build: **Performance 71 -> 97**,
+    **Total Blocking Time 1,370ms -> 50ms**, **mainthread-work-breakdown 3.7s -> 1.1s**, CLS
+    stayed at 0 (confirming the `contain-intrinsic-size` placeholder didn't introduce layout
+    shift), LCP/FCP/Speed Index unchanged or slightly improved. Accessibility re-confirmed at
+    100/100 (unchanged from D-039 -- this fix touched no color, markup semantics, or focus
+    order).
+- **Guardrail check:** no JavaScript changed, no DOM structure changed, no filter behaviour
+  changed (proven by the Playwright test, not assumed), no content removed from the built HTML
+  (Pagefind/crawlers see the same markup as before); the fix is a single, scoped, additive CSS
+  rule.
+- **Status:** implemented on `feature/qigt-resources-performance`, full validation gate green,
+  functional regression test 12/12 passed, before/after Lighthouse confirms the fix. This closes
+  the one outstanding recommendation from the QIGT final report (D-042).
+
+---
+# MARLBRIDGE v1.x CLOSURE RELEASE
+
+## D-045 — v1.x Closure: Workstream 0 baseline
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, WS0 (Baseline).
+- **Repository state:** fresh clone from `origin/main`. `HEAD` = `origin/main` =
+  `4a1aa183a8420d73e6b72f9880bd6b74ca5bb637`, exactly matching the brief's stated "last
+  independently audited commit" -- no divergence, working tree clean. Node v22.23.2, npm
+  10.9.8, Astro `^7.2.2`. `npm ci` clean, 0 vulnerabilities.
+- **Recalculated counts (not carried over from any historical report):**
+  - Built pages: 1,132 (Pagefind's own count of HTML files). Sitemap URLs: 1,130.
+  - Academic matrix: 183 rows -- 160 ACTIVE, 23 NOT_SUPPORTED. **6 boards** currently in the
+    matrix (aqa, cambridge, edexcel, ib, ocr, oxfordaqa) -- confirms the brief's own hint that
+    historical "five-board" figures are stale.
+  - Resources: 731. Articles: 4.
+  - Resource-depth distribution (`academic-coverage-report-v2.mjs`): median 3 resources per
+    ACTIVE combination; **36/160 combinations have exactly 1 resource**; 9/160 have 8+; median
+    resource length 739 words; 0 resources under the 400-word indexability bar (the prior SEO
+    programme's expansion queue is genuinely clear); 535/731 under 900 words.
+  - Translation routes: exactly 3 -- `/ar/`, `/ur/`, `/bn/`, each a single standalone landing
+    page using `LocaleLayout.astro`, which deliberately does NOT reuse the site's real
+    header/footer navigation (confirmed by reading the layout's own doc comment). No other
+    translated route exists anywhere in the repo.
+  - Assessment records: **0**. Grepped the full `src/` tree for `assessmentStatus`/`NO_DATA` --
+    no matches at all. There is currently no assessment data model of any kind, typed or
+    untyped -- Workstream 5 is net-new, not an extension.
+  - Duplicate-scope warnings: **12**, confirmed by a fresh run of
+    `npm run check:duplicate-scope` -- exactly matches the brief's stated count (English x2,
+    Law x2, Physics x6, Sociology x2 pairs).
+  - Hostname behaviour: `www.marlbridge.com` currently resolves and serves byte-identical
+    content to the bare domain with a correct self-referencing canonical (re-confirmed this
+    session, matching the QIGT programme's D-041 finding) -- but it is NOT an actual redirect;
+    both hostnames return 200 directly. The brief requires a genuine 301/308.
+  - Report drift: **already failing at baseline**. Regenerating
+    `docs/reports/academic-coverage-report-v1.2.{json,csv}` from current data produces a real
+    diff against the committed files (47 changed lines in the JSON alone) -- these committed
+    reports are already stale relative to the current repository, confirming Workstream 4's
+    report-drift check is solving a real, currently-unguarded problem, not a hypothetical one.
+  - README: confirmed severely stale on inspection -- still describes the deployment as
+    "Cloudflare Pages" (the repo has since moved to a Cloudflare Worker with static assets, per
+    `src/worker/index.ts`'s own doc comment), references the retired `/learning/<slug>/` route
+    (renamed to `/articles/` in an earlier programme) and the old nested `/resources/<category>/
+    <slug>/` URL shape (flattened to `/resources/<slug>/`), states program-availability values
+    are "placeholders awaiting business confirmation" (resolved long ago), and has zero mention
+    of search, translation, forms, assessment data, or FX policy. Confirms WS7 is a full rewrite.
+- **Architecture notes relevant to later workstreams:** the site deploys as a Cloudflare Worker
+  with static assets (`wrangler.jsonc` -- `main: src/worker/index.ts`, `assets.binding: ASSETS`),
+  not classic Cloudflare Pages Functions, though `functions/api/enquiry.ts` is still the real
+  handler (adapted into the Worker's fetch handler, which delegates every non-`/api/enquiry`
+  request straight to `env.ASSETS.fetch()`). This matters for WS3: a host-based redirect
+  implemented inside the custom Worker's `fetch()` would not run for most requests, since static
+  assets are matched before the Worker's own routing logic for `/`-style paths under the current
+  `not_found_handling`/assets configuration. `public/_redirects` (Cloudflare's declarative,
+  host-aware redirect file, generated by `scripts/generate-redirects.mjs`) is the safer,
+  standard, repository-only mechanism, evaluated by the platform before the Worker or asset
+  serving -- planned approach for WS3, to be verified empirically after deploy per the brief's
+  own instruction not to claim completion while `www` still returns 200.
+- **Clarification checkpoint (per the brief's mandatory clarification rule), asked together,
+  answers recorded:**
+  1. **Translation scope**, given only 3 landing pages currently exist versus the brief's full
+     site-wide ask (~500+ pages across static + all academic hub pages, in 3 languages).
+     Recommended a phased scope: full site chrome (nav/footer/forms/consent) + every static page
+     translated now; academic hub pages get the i18n architecture built and ready, with content
+     translation explicitly deferred to a labelled follow-up release rather than rushed.
+     **Owner approved the recommended phased scope.**
+  2. **Resource-depth target** for WS6 (no approved target existed in the repo -- the script's own
+     "target 8+" console label is a hardcoded aspirational string, not a decision-logged
+     business target). Recommended bringing all 36 single-resource combinations to 3+ (~70-110
+     new resources). **Owner approved this target.**
+  3. **Trial-form field reversal** -- flagged explicitly that this brief's Workstream 1 reverses
+     this same session's earlier D-034 work (which had added Qualification/Board/Subject/
+     Availability to the trial form under the prior QIGT brief). **Owner confirmed: proceed with
+     the reversal**, back to the 5 approved fields (Name/Email/Phone/Country/Message).
+- **Status:** baseline complete. Proceeding to the approved-scope workstreams in this order:
+  WS3 (hostname), WS1 (trial-form reversal), WS9 (duplicate-scope review), WS8 (FX policy), WS7
+  (README), WS5 (assessment model), WS2 (translation, phased scope), WS6 (resource depth), WS4
+  (report regeneration, run last so figures are final), then the complete validation gate.
+
+## D-046 — v1.x Closure WS3: www.marlbridge.com -> marlbridge.com, 301
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, Workstream 3 (hostname redirect).
+- **Investigation:** confirmed via current Cloudflare documentation (fetched live, not from
+  memory) that `_redirects` explicitly does NOT support domain-level redirects (Cloudflare's own
+  "Advanced redirects" support table lists it as unsupported, recommending Bulk Redirects --
+  dashboard/API only -- instead). Also confirmed the project deploys as a Cloudflare Worker with
+  static assets (not classic Pages), and that Workers Assets' default routing
+  (`run_worker_first: false`, the prior setting) serves any request matching a built file
+  directly, bypassing the Worker's own `fetch()` entirely -- meaning a host check placed in
+  `fetch()` alone would only ever see true 404s, never a real page request like `/` or
+  `/pricing/` on `www.marlbridge.com`.
+- **Fix implemented (repository-only, no Cloudflare dashboard step needed):**
+  1. `wrangler.jsonc`: added `"run_worker_first": true` to the `assets` block, so the Worker's
+     `fetch()` now runs for every request rather than only `/api/enquiry` and 404 misses.
+  2. `src/worker/index.ts`: added a host check at the top of `fetch()` -- if the request's
+     hostname is exactly `www.marlbridge.com`, reassign the URL's hostname to `marlbridge.com`
+     and return a single 301 via `Response.redirect()`. Path and query string are preserved
+     unmodified (only `url.hostname` is changed); cannot loop, since the check only ever matches
+     the literal `www` host, never the apex it redirects to.
+- **Tradeoff stated plainly, not silently shipped:** `run_worker_first: true` means every request
+  to the entire site now round-trips through this Worker's JavaScript before static assets are
+  served, rather than only `/api/enquiry` and 404s as before. This is a small, well-understood
+  per-request cost (Cloudflare's own docs list "authentication checks" and "A/B testing" as
+  common, supported uses of this exact setting) -- accepted here in exchange for a real,
+  repository-only fix that does not depend on Cloudflare dashboard access this session does not
+  have.
+- **Automated test:** `src/worker/__tests__/index.test.mjs` (new), 8 cases against the real
+  `fetch()` export with a stubbed `ASSETS` binding -- covers the 301 + exact Location header, path
+  and query-string preservation, the pricing-page path specifically (one of the brief's named
+  verification paths), no-loop (redirecting the Location header again does not itself redirect),
+  the bare apex domain falling through to assets untouched, a www request never touching the
+  asset binding at all, `/api/enquiry` still routing correctly on the apex domain, and an
+  unrelated third-party host (e.g. a preview domain) being left alone. All 8 pass.
+- **Not yet verified against production** -- this entry documents the repository-side
+  implementation; live verification (does `www.marlbridge.com` actually now return a 301 in
+  production, for `/`, `/pricing/`, `/authors/<slug>/`, `/resources/<slug>/`, and a URL with a
+  query string) happens after this release deploys, per the brief's explicit instruction not to
+  claim completion while `www` still returns 200. Recorded here as implemented-pending-
+  verification; final disposition in the v1.x Closure final report.
+- **Fallback, if production verification finds `www` still returns 200:** the evidence-based
+  assumption underlying this fix is that `www.marlbridge.com` is already routed to this exact
+  Worker deployment (inferred from both hostnames serving byte-identical content pre-fix, which
+  is only possible if they already share the same asset store). If that assumption turns out to
+  be wrong, the correct fallback -- confirmed against current Cloudflare documentation -- is a
+  Cloudflare Bulk Redirect: **Dashboard > Bulk redirects > Create Bulk Redirect List** (one
+  entry: Source `https://www.marlbridge.com/*` with wildcard path matching enabled, Target
+  `https://marlbridge.com/` with the matched path appended, Status 301, Preserve query string =
+  On) **> Continue to Redirect Rules > Save and Deploy**. This is dashboard-only; if needed, it
+  will be asked of the owner explicitly rather than silently left undone.
+- **Status:** implemented on `release/v1.x-closure`; full validation gate to be re-run at the end
+  of this release; production verification pending deploy.
