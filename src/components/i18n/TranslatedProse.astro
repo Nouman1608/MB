@@ -1,0 +1,27 @@
+---
+/**
+ * v1.x CLOSURE WS2 -- shared prose renderer for translated static pages
+ * (about/schools/tutoring body text, all 5 legal pages). Mirrors the
+ * heading/paragraph/list styling already established for the English
+ * legal pages (src/pages/legal/*.astro's `[&>h2]:...` utility block) so a
+ * translated legal page reads with the same visual rhythm as its English
+ * source, just switched to a shared, data-driven component instead of
+ * one-off markup per page.
+ */
+interface Section { heading?: string; paragraphs: readonly string[]; list?: readonly string[] }
+interface Props { sections: readonly Section[]; dir: 'rtl' | 'ltr' }
+const { sections } = Astro.props;
+---
+<div class="mx-auto max-w-[72ch] px-[var(--spacing-gutter)] py-[clamp(32px,4vw,56px)] text-[17px] leading-[1.75] text-ink [&>section>h2]:mt-10 [&>section>h2]:mb-3 [&>section>h2]:text-[24px] [&>section>h2]:font-semibold [&>section>h2]:text-navy-800 [&>section:first-child>h2]:mt-0 [&_p]:mt-4 [&_ul]:mt-4 [&_ul]:ps-5 [&_li]:mt-1.5">
+  {sections.map((section) => (
+    <section>
+      {section.heading && <h2>{section.heading}</h2>}
+      {section.paragraphs.map((para) => <p class="m-0 mt-4 first:mt-0">{para}</p>)}
+      {section.list && (
+        <ul class="m-0 list-disc">
+          {section.list.map((item) => <li>{item}</li>)}
+        </ul>
+      )}
+    </section>
+  ))}
+</div>

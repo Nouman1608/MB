@@ -1,77 +1,133 @@
 ---
 /**
- * v1.x CLOSURE WS5 -- minimal standalone layout for the /ar/, /ur/, /bn/
- * translated commercial landing pages.
+ * v1.x CLOSURE WS2 -- shared layout for every translated (/ar/, /ur/, /bn/)
+ * page. Originally built in WS5 as a single-landing-page layout; extended
+ * here to cover all 19 translated static/informational pages plus home
+ * (see src/i18n/routes.ts for the full list) with a real, page-specific
+ * language switcher, a translated primary nav and footer, and correct
+ * per-page reciprocal hreflang -- not just a link back to each locale's
+ * home page.
  *
- * Deliberately does NOT reuse BaseLayout: BaseLayout hardcodes
- * `<html lang="en" dir="ltr">` and its Header/Footer are English
- * navigation into hundreds of dynamic English pages, which would be
- * misleading stitched onto a translated page. This layout sets the
- * correct lang/dir for the locale, keeps the same fonts/consent
- * analytics/brand mark, and gives a short way back to the English site
- * plus the switcher between the three translated locales.
+ * Deliberately does NOT reuse BaseLayout: BaseLayout's Header/Footer point
+ * into hundreds of untranslated English dynamic pages (the academic hub
+ * matrix, individual resources/articles/programs/subjects), which would be
+ * misleading stitched onto a translated page. This layout sets the correct
+ * lang/dir for the locale, keeps the same fonts/consent analytics/brand
+ * mark, and gives real, correct navigation across the pages that ARE
+ * translated, plus an honest way back to the English site for anything
+ * that isn't (see TranslatedDirectoryList.astro for how directory pages
+ * link out to untranslated hub/resource content).
  */
 import '../styles/global.css';
 import '../styles/fonts.css';
 import ConsentAnalytics from '../components/analytics/ConsentAnalytics.astro';
-import { locales } from '../data/navigation';
 import { site } from '../data/site';
-import type { LocaleCopy } from '../i18n/copy';
+import { NAV_COPY, type LocaleCode } from '../i18n/nav';
+import { EN_PATH, localePath, TRANSLATED_LOCALES, type TranslationKey } from '../i18n/routes';
 import { siteGraph, webPageNode } from '../utils/schema/organization';
 
 interface Props {
-  copy: LocaleCopy;
-  path: string;
+  locale: LocaleCode;
+  translationKey: TranslationKey;
+  title: string;
+  description: string;
+  /** Optional per-page heading/lead, rendered in a consistent hero band above the slot content. */
+  eyebrow?: string;
+  heading?: string;
+  lead?: string;
+  noindex?: boolean;
 }
-const { copy, path } = Astro.props;
+const { locale, translationKey, title, description, eyebrow, heading, lead, noindex = false } = Astro.props;
+
+const nav = NAV_COPY[locale];
+const path = localePath(locale, translationKey);
+const enPath = EN_PATH[translationKey];
+const enUrl = new URL(enPath, site.url).toString();
 const canonical = new URL(path, site.url).toString();
 
 /**
- * These three landing pages were the only pages on the site without
- * structured data (481/484 had it). Same organization graph as every
- * other page, so the locale pages resolve to the same entity rather than
- * looking like an unrelated site.
+ * Switcher: English + the other two enabled locales, all resolved via the
+ * SAME translationKey, so switching language keeps you on the equivalent
+ * page rather than bouncing to that locale's home page (a real defect in
+ * the original single-page-only design once more than one page existed).
  */
-const jsonLd = [...siteGraph(), webPageNode(path, copy.title, copy.description)];
+const localeLabels: Record<LocaleCode, string> = { ar: 'العربية', ur: 'اردو', bn: 'বাংলা' };
+const switcherLinks: { code: string; label: string; href: string }[] = [
+  { code: 'en', label: nav.englishLabel, href: enPath },
+  ...TRANSLATED_LOCALES.map((code) => ({ code, label: localeLabels[code], href: localePath(code, translationKey) })),
+];
+
+const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
 ---
 <!doctype html>
-<html lang={copy.htmlLang} dir={copy.dir}>
+<html lang={nav.htmlLang} dir={nav.dir}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href="/images/brand/marlbridge-emblem-disc.svg" />
-    <title>{copy.title}</title>
-    <meta name="description" content={copy.description} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    <link rel="alternate" hreflang="en" href={new URL('/', site.url).toString()} />
-    {locales.filter((l) => l.code !== 'en').map((l) => (
-      <link rel="alternate" hreflang={l.code} href={new URL(l.href, site.url).toString()} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+    {/* v1.x CLOSURE WS2 -- real, page-specific reciprocal hreflang, mirroring
+        what Meta.astro now emits on the English counterpart (see
+        src/components/seo/Meta.astro + src/i18n/routes.ts). en/ar/ur/bn all
+        resolve through the same translationKey, plus x-default -> English. */}
+    <link rel="alternate" hreflang="en" href={enUrl} />
+    {TRANSLATED_LOCALES.map((code) => (
+      <link rel="alternate" hreflang={code} href={new URL(localePath(code, translationKey), site.url).toString()} />
     ))}
-    <link rel="alternate" hreflang="x-default" href={new URL('/', site.url).toString()} />
+    <link rel="alternate" hreflang="x-default" href={enUrl} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content={site.name} />
-    <meta property="og:locale" content={copy.htmlLang} />
-    <meta property="og:title" content={copy.title} />
-    <meta property="og:description" content={copy.description} />
+    <meta property="og:locale" content={nav.htmlLang} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <link rel="preload" href="/fonts/public-sans-latin-400.woff2" as="font" type="font/woff2" crossorigin />
     <script type="application/ld+json" is:inline set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonLd })} />
   </head>
   <body class="bg-ivory text-ink">
-    <header class="border-b border-navy-rule px-[var(--spacing-gutter)] py-5">
-      <div class="mx-auto flex max-w-[var(--container-site)] items-center justify-between gap-4">
-        <a href="/" class="text-[17px] font-semibold text-navy-900">Marlbridge</a>
-        <nav aria-label="Language" class="flex gap-4 text-[14px]">
-          {locales.filter((l) => l.enabled).map((l) => (
-            <a href={l.href} class={l.href === path ? 'font-semibold text-navy-900' : 'text-ink-mute hover:text-navy-900'}>{l.label}</a>
+    <a href="#main" class="absolute left-4 top-[-60px] z-[100] rounded-sm bg-navy-800 px-5 py-3 text-sm font-medium text-ivory focus:top-4">{nav.skipToContent}</a>
+
+    <header class="sticky top-0 z-50 border-b border-navy-rule bg-navy-800">
+      <div class="mx-auto flex h-16 flex-wrap items-center justify-between gap-4 px-[var(--spacing-gutter)] py-2.5 max-w-[var(--container-site)] lg:h-20">
+        <a href={path} class="shrink-0 text-[17px] font-semibold text-ivory">Marlbridge</a>
+        <nav aria-label="Primary" class="hidden flex-wrap items-center gap-x-5 gap-y-1 text-[14.5px] lg:flex">
+          {nav.primaryNav.map((item) => (
+            <a href={localePath(locale, item.key)} class="border-b border-transparent py-1 text-ivory hover:border-gold-500 hover:text-white">{item.label}</a>
           ))}
         </nav>
+        <div class="flex shrink-0 items-center gap-3">
+          <a href={localePath(locale, 'trial')} class="hidden rounded-sm bg-gold-500 px-4 py-2.5 text-[13.5px] font-semibold text-navy-800 hover:bg-gold-600 sm:inline-flex">{nav.ctaTrial}</a>
+          <nav aria-label={nav.languageLabel} class="flex gap-3 text-[13.5px]">
+            {switcherLinks.map((l) => (
+              <a href={l.href} class={l.href === path ? 'font-semibold text-white' : 'text-ivory/70 hover:text-white'}>{l.label}</a>
+            ))}
+          </nav>
+        </div>
       </div>
+      {/* Mobile-only compact nav row -- the desktop <nav> above is hidden below lg. */}
+      <nav aria-label="Primary" class="flex flex-wrap gap-x-4 gap-y-1 border-t border-navy-rule px-[var(--spacing-gutter)] py-2 text-[13px] lg:hidden">
+        {nav.primaryNav.map((item) => (
+          <a href={localePath(locale, item.key)} class="text-ivory/80 hover:text-white">{item.label}</a>
+        ))}
+      </nav>
     </header>
 
     <div role="note" class="border-b border-[#E3BDBD] bg-[#FBF2F2] px-[var(--spacing-gutter)] py-3 text-center text-[13.5px] text-[#7A3B3B]">
-      {copy.reviewBanner}
+      {nav.reviewBanner}
     </div>
+
+    {(heading || lead) && (
+      <section class="border-b border-navy-rule bg-white px-[var(--spacing-gutter)] py-10">
+        <div class="mx-auto max-w-[var(--container-site)]">
+          {eyebrow && <p class="m-0 mb-3 text-[13px] font-semibold uppercase tracking-[0.16em] text-gold-600">{eyebrow}</p>}
+          {heading && <h1 class="m-0 mb-4 max-w-[26ch] text-[clamp(26px,3.6vw,40px)] font-semibold leading-[1.16] text-navy-900">{heading}</h1>}
+          {lead && <p class="m-0 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">{lead}</p>}
+        </div>
+      </section>
+    )}
 
     {/* data-pagefind-body -- see BaseLayout.astro for the rationale; same
         fix applied here so the locale pages are scoped identically. */}
@@ -79,10 +135,36 @@ const jsonLd = [...siteGraph(), webPageNode(path, copy.title, copy.description)]
       <slot />
     </main>
 
-    <footer class="border-t border-navy-rule bg-navy-900 px-[var(--spacing-gutter)] py-8 text-on-navy">
-      <div class="mx-auto flex max-w-[var(--container-site)] flex-wrap items-center justify-between gap-4">
-        <a href="/" class="text-[14.5px] underline decoration-gold-500 underline-offset-2">{copy.englishSiteLink}</a>
-        <p class="m-0 text-[13.5px] text-[#6E7D93]">© 2026 Marlbridge</p>
+    <footer class="border-t border-navy-rule bg-navy-900 px-[var(--spacing-gutter)] py-12 text-on-navy">
+      <div class="mx-auto grid max-w-[var(--container-site)] gap-8 sm:grid-cols-3">
+        <div>
+          <h2 class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-500">{nav.footerExploreHeading}</h2>
+          <ul class="m-0 flex list-none flex-col gap-1.5 p-0 text-[14px]">
+            {nav.footerExplore.map((item) => (
+              <li><a href={localePath(locale, item.key)} class="text-on-navy-mute hover:text-white">{item.label}</a></li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h2 class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-500">{nav.footerResourcesHeading}</h2>
+          <ul class="m-0 flex list-none flex-col gap-1.5 p-0 text-[14px]">
+            {nav.footerResources.map((item) => (
+              <li><a href={localePath(locale, item.key)} class="text-on-navy-mute hover:text-white">{item.label}</a></li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h2 class="m-0 mb-3 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-500">{nav.footerCompanyHeading}</h2>
+          <ul class="m-0 flex list-none flex-col gap-1.5 p-0 text-[14px]">
+            {nav.footerCompany.map((item) => (
+              <li><a href={localePath(locale, item.key)} class="text-on-navy-mute hover:text-white">{item.label}</a></li>
+            ))}
+          </ul>
+        </div>
+      </div>
+      <div class="mx-auto mt-8 flex max-w-[var(--container-site)] flex-wrap items-center justify-between gap-4 border-t border-[#22314B] pt-6">
+        <a href={enUrl} class="text-[13.5px] underline decoration-gold-500 underline-offset-2 text-on-navy-mute hover:text-white">{nav.backToEnglish}</a>
+        <p class="m-0 text-[13px] text-on-navy-mute">{nav.copyright}</p>
       </div>
     </footer>
     <ConsentAnalytics />

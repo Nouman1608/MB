@@ -5,6 +5,7 @@ import Select from './Select.astro';
 import Textarea from './Textarea.astro';
 import { FALLBACK_EMAIL, type EnquiryKind } from '../../utils/forms/submit';
 import { site } from '../../data/site';
+import type { EnquiryFormLabels } from '../../i18n/nav';
 
 // v1.x CLOSURE Release WS1 (2026-08-26) -- every non-school enquiry kind
 // (student, tutoring, trial) now shares exactly one field set: Name,
@@ -16,19 +17,63 @@ import { site } from '../../data/site';
 // the student to write in the message itself (see the hint below). The
 // school-partnership form keeps its own fields (school, role) since those
 // identify the organisation making the enquiry, not enrolment metadata.
-interface Props { kind: EnquiryKind }
-const { kind } = Astro.props;
+interface Props { kind: EnquiryKind; labels?: EnquiryFormLabels }
+const { kind, labels } = Astro.props;
 
-const roles = ['Head of school', 'Head of department', 'Teacher', 'Coordinator', 'Other'];
+/**
+ * v1.x CLOSURE WS2 -- English defaults, used verbatim by every existing
+ * English caller (contact, trial, tutoring, schools) so this change is
+ * behaviour-preserving for the ~500 English pages that already use this
+ * component without a `labels` prop. Translated locale pages pass a
+ * `labels` object from src/i18n/nav.ts (NAV_COPY[locale].form) instead.
+ */
+const EN_LABELS: EnquiryFormLabels = {
+  name: 'Full name', email: 'Email', phone: 'Phone', country: 'Country', message: 'Message',
+  optional: '(optional)', school: 'School', role: 'Your role',
+  roleOptions: ['Head of school', 'Head of department', 'Teacher', 'Coordinator', 'Other'],
+  rolePlaceholder: 'Please choose',
+  messageHintStudent: 'What does the learner need help with? Please include the programme (e.g. IGCSE, A Level), the exam board if known, the subject and the level.',
+  messageHintTrial: "Tell us what you'd like the trial class to cover: your programme or qualification (e.g. IGCSE, A Level), the exam board if known, the subject, the level, your preferred days/times and timezone, and what support you need.",
+  messageHintTutoring: 'What does the learner need help with? Please include the programme (e.g. IGCSE, A Level), the exam board if known, the subject and the level.',
+  messageHintSchool: 'What does your school need?',
+  trialNote: 'This sends a request, not a confirmed booking — Marlbridge will reply by email to arrange the trial class once it can confirm a teacher and time.',
+  privacyPrefix: "By submitting this form you agree to Marlbridge's ",
+  privacyLinkText: 'Privacy Policy',
+  privacySuffix: ' — your information is used only to respond to your enquiry.',
+  submit: 'Send enquiry',
+  preferEmail: 'Prefer email? Write to',
+  sending: 'Sending…',
+  successMessage: 'Thank you — your enquiry has been sent. We will reply by email.',
+  genericError: 'Your enquiry could not be sent.',
+  networkError: 'We could not reach the server. Please check your connection, or email us.',
+  requiredError: 'This field is required.',
+  emailError: 'Please enter a valid email address.',
+  genericFieldError: 'Please check this field.',
+};
+const t = labels ?? EN_LABELS;
+
 const mailto = 'mailto:' + FALLBACK_EMAIL;
 const turnstileSiteKey = site.turnstile.siteKey;
 
 const MESSAGE_HINT: Record<EnquiryKind, string> = {
-  school: 'What does your school need?',
-  trial: "Tell us what you'd like the trial class to cover: your programme or qualification (e.g. IGCSE, A Level), the exam board if known, the subject, the level, your preferred days/times and timezone, and what support you need.",
-  student: 'What does the learner need help with? Please include the programme (e.g. IGCSE, A Level), the exam board if known, the subject and the level.',
-  tutoring: 'What does the learner need help with? Please include the programme (e.g. IGCSE, A Level), the exam board if known, the subject and the level.',
+  school: t.messageHintSchool,
+  trial: t.messageHintTrial,
+  student: t.messageHintStudent,
+  tutoring: t.messageHintTutoring,
 };
+
+/**
+ * Client-side validation/status strings can't read Astro frontmatter
+ * variables directly (the <script> below is a separate module script), so
+ * they travel via this data attribute instead, read with JSON.parse. An
+ * English page renders no `labels` prop, so `t` is EN_LABELS and this
+ * attribute's content is identical to the previous hardcoded English
+ * strings -- no behaviour change for existing callers.
+ */
+const clientStrings = JSON.stringify({
+  sending: t.sending, success: t.successMessage, genericError: t.genericError, networkError: t.networkError,
+  requiredError: t.requiredError, emailError: t.emailError, genericFieldError: t.genericFieldError,
+});
 ---
 {/*
   v1.2 WS3 — action now points at the real /api/enquiry Cloudflare Pages
@@ -39,7 +84,7 @@ const MESSAGE_HINT: Record<EnquiryKind, string> = {
   below intercepts and posts via fetch; with JS disabled the browser still
   natively POSTs to /api/enquiry, which is a real, working endpoint.
 */}
-<form data-enquiry-form data-kind={kind} method="post" action="/api/enquiry" novalidate class="grid max-w-[68ch] gap-5 sm:grid-cols-2">
+<form data-enquiry-form data-kind={kind} data-i18n={clientStrings} method="post" action="/api/enquiry" novalidate class="grid max-w-[68ch] gap-5 sm:grid-cols-2">
   {/* Honeypot — real users never see or fill this in; a filled value is
       treated as automated spam by functions/api/enquiry.ts. Hidden from
       sighted and assistive-tech users alike (aria-hidden + tabindex -1 +
@@ -50,26 +95,32 @@ const MESSAGE_HINT: Record<EnquiryKind, string> = {
     <input type="text" id="website" name="website" tabindex={-1} autocomplete="off" />
   </div>
 
-  <FormField name="name" label="Full name" required><Input name="name" autocomplete="name" required /></FormField>
+  <FormField name="name" label={t.name} required><Input name="name" autocomplete="name" required /></FormField>
 
-  {kind === 'school' && <FormField name="school" label="School" required><Input name="school" autocomplete="organization" required /></FormField>}
-  {kind === 'school' && <FormField name="role" label="Your role" required><Select name="role" options={roles} required /></FormField>}
+  {kind === 'school' && <FormField name="school" label={t.school} required><Input name="school" autocomplete="organization" required /></FormField>}
+  {kind === 'school' && <FormField name="role" label={t.role} required><Select name="role" options={t.roleOptions} placeholder={t.rolePlaceholder} required /></FormField>}
 
-  <FormField name="email" label="Email" required><Input name="email" type="email" autocomplete="email" inputmode="email" required /></FormField>
-  <FormField name="phone" label="Phone"><Input name="phone" type="tel" autocomplete="tel" inputmode="tel" /></FormField>
-  <FormField name="country" label="Country" required>
+  <FormField name="email" label={t.email} required><Input name="email" type="email" autocomplete="email" inputmode="email" required /></FormField>
+  <FormField name="phone" label={t.phone} optionalLabel={t.optional}><Input name="phone" type="tel" autocomplete="tel" inputmode="tel" /></FormField>
+  <FormField name="country" label={t.country} required>
     <Input name="country" autocomplete="country-name" required />
   </FormField>
 
   <FormField
     name="message"
-    label="Message"
+    label={t.message}
     required
     hint={MESSAGE_HINT[kind]}
     class="sm:col-span-2"
   >
     <Textarea name="message" required />
   </FormField>
+
+  {kind === 'trial' && (
+    <p class="m-0 sm:col-span-2 text-[13.5px] text-ink-mute">
+      {t.trialNote}
+    </p>
+  )}
 
   {/* v1.x WS2 -- Cloudflare Turnstile widget. Renders only when a site
       key is configured (site.turnstile.siteKey, a public identifier, not
@@ -95,13 +146,13 @@ const MESSAGE_HINT: Record<EnquiryKind, string> = {
       (GA4 analytics). Adding a checkbox on top would add friction to a
       lead-generation form without a corresponding legal requirement. */}
   <p class="m-0 sm:col-span-2 text-[13.5px] text-ink-mute">
-    By submitting this form you agree to Marlbridge's <a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">Privacy Policy</a> — your information is used only to respond to your enquiry.
+    {t.privacyPrefix}<a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">{t.privacyLinkText}</a>{t.privacySuffix}
   </p>
 
   <div class="sm:col-span-2">
-    <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">Send enquiry</button>
+    <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">{t.submit}</button>
     <p class="m-0 mt-3 text-[13.5px] text-ink-mute">
-      Prefer email? Write to <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>.
+      {t.preferEmail} <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>.
     </p>
   </div>
 
@@ -113,9 +164,15 @@ const MESSAGE_HINT: Record<EnquiryKind, string> = {
 <script>
   import { submitEnquiry, type EnquiryKind } from '../../utils/forms/submit';
 
+  interface ClientStrings {
+    sending: string; success: string; genericError: string; networkError: string;
+    requiredError: string; emailError: string; genericFieldError: string;
+  }
+
   document.querySelectorAll<HTMLFormElement>('[data-enquiry-form]').forEach((form) => {
     const status = form.querySelector<HTMLElement>('[data-form-status]');
     const button = form.querySelector<HTMLButtonElement>('button[type="submit"]');
+    const strings: ClientStrings = JSON.parse(form.dataset.i18n ?? '{}');
 
     const setError = (field: HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement, message: string | null) => {
       const el = form.querySelector<HTMLElement>('[data-error-for="' + field.name + '"]');
@@ -132,10 +189,10 @@ const MESSAGE_HINT: Record<EnquiryKind, string> = {
         const message = field.validity.valid
           ? null
           : field.validity.valueMissing
-            ? 'This field is required.'
+            ? strings.requiredError
             : field.type === 'email'
-              ? 'Please enter a valid email address.'
-              : 'Please check this field.';
+              ? strings.emailError
+              : strings.genericFieldError;
         setError(field, message);
         if (message && !firstInvalid) firstInvalid = field;
       });
@@ -147,14 +204,14 @@ const MESSAGE_HINT: Record<EnquiryKind, string> = {
       event.preventDefault();
       if (!validate() || !status) return;
       button?.setAttribute('disabled', 'true');
-      status.textContent = 'Sending…';
+      status.textContent = strings.sending;
       status.className = 'sm:col-span-2 mt-2 text-[15px] text-ink-mute';
 
       const result = await submitEnquiry((form.dataset.kind as EnquiryKind) ?? 'student', new FormData(form));
       button?.removeAttribute('disabled');
 
       if (result.ok) {
-        status.textContent = 'Thank you — your enquiry has been sent. We will reply by email.';
+        status.textContent = strings.success;
         status.className = 'sm:col-span-2 mt-2 rounded-sm border border-[#B9D3C6] bg-[#F1F7F4] p-4 text-[15px] text-success';
         // GA4 key event -- see docs/decision-log.md D-003 (consent-gated gtag defined in
         // ConsentAnalytics.astro). Only fires downstream once the visitor has granted
@@ -164,7 +221,7 @@ const MESSAGE_HINT: Record<EnquiryKind, string> = {
         });
         form.reset();
       } else {
-        status.textContent = result.message ?? 'Your enquiry could not be sent.';
+        status.textContent = result.message ?? strings.genericError;
         status.className = 'sm:col-span-2 mt-2 rounded-sm border border-[#E3BDBD] bg-[#FBF2F2] p-4 text-[15px] text-error';
       }
     });
