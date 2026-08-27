@@ -30,6 +30,20 @@
  *       non-empty on every record (TypeScript already requires the
  *       fields to exist; this catches an empty-string escape hatch).
  *
+ * v2.0 MEGA PROGRAMME additions (brief §38):
+ *   [8] Component marks/duration must be positive, plausible values.
+ *   [9] Component types and the new v2.0 vocabulary fields (assessmentModel,
+ *       asALevelRelationship, optionality, specStatus) come from their
+ *       closed vocabularies -- runtime defence-in-depth for the TS types.
+ *   [10] Lifecycle dates (firstTeaching/firstAssessment/finalAssessment/
+ *        withdrawalDate) are in a possible order.
+ *   [11] A 'future' record has a genuinely later firstAssessment than its
+ *        overlapping-tier 'current'/'legacy-teach-out' siblings.
+ *   [12] A 'legacy-teach-out' record carries relatedCode or explanatory
+ *        notes -- never a silent dead end.
+ *   [13] A 'choose-n-of-m' component is grouped (alternativeGroup) or
+ *        explained in notes.
+ *
  * Also reports, but does NOT fail the build on, coverage: how many of
  * matrix.ts's ACTIVE combinations have an Assessment record vs are
  * NOT_YET_MODELED. This is intentionally informational, not a gate --
@@ -62,6 +76,47 @@ const VALID_TIERS = new Set([
   'not-tiered', 'core', 'extended', 'foundation', 'higher',
   'first-language', 'second-language', 'as-only', 'a2-only',
 ]);
+
+/** v2.0 — kept in sync manually with the AssessmentComponentType union in
+ * src/data/academic/assessments.ts, same reasoning as VALID_TIERS above. */
+const VALID_COMPONENT_TYPES = new Set([
+  'written-exam', 'multiple-choice', 'coursework', 'non-exam-assessment',
+  'practical', 'alternative-to-practical', 'practical-endorsement', 'oral',
+  'speaking', 'listening', 'reading', 'writing', 'portfolio', 'project',
+  'unit', 'endorsement',
+]);
+
+/** v2.0 — kept in sync manually with the AssessmentModel union. */
+const VALID_ASSESSMENT_MODELS = new Set([
+  'linear', 'modular', 'staged', 'unit-based', 'component-based', 'mixed',
+]);
+
+/** v2.0 — kept in sync manually with the AsALevelRelationship union. */
+const VALID_AS_A_LEVEL_RELATIONSHIPS = new Set([
+  'standalone-as', 'as-stage-within-a-level', 'full-a-level-independent',
+  'modular-as-contributes', 'staged-cambridge-route',
+]);
+
+/** v2.0 — kept in sync manually with the ComponentOptionality union. */
+const VALID_OPTIONALITY = new Set(['required', 'optional', 'choose-n-of-m']);
+
+/** v2.0 — kept in sync manually with the (extended) SpecStatus union. */
+const VALID_SPEC_STATUSES = new Set(['current', 'legacy-teach-out', 'future', 'withdrawn']);
+
+/** Parses a record's date-like fields (firstTeaching is "YYYY" or
+ * "YYYY-MM"; firstAssessment/finalAssessment/withdrawalDate are "YYYY" or
+ * a full ISO date) into a single comparable number (year, or year+fractional
+ * month) for ordering checks. Returns null if unparseable rather than
+ * throwing, so a malformed date is reported as its own problem instead of
+ * crashing the whole validator. */
+function orderableYear(s) {
+  if (!s) return null;
+  const m = /^(\d{4})(?:-(\d{2}))?/.exec(s);
+  if (!m) return null;
+  const year = Number.parseInt(m[1], 10);
+  const month = m[2] ? Number.parseInt(m[2], 10) : 0;
+  return year + month / 100;
+}
 
 const idOf = (a) => `${a.boardSlug}/${a.qualificationSlug}/${a.subjectSlug} (${a.code})`;
 
@@ -223,6 +278,111 @@ if (ASSESSMENTS.length === 0) {
     if (!a.verifiedOn || !/^\d{4}-\d{2}-\d{2}$/.test(a.verifiedOn)) { fail(`${idOf(a)}: verifiedOn is missing or not a YYYY-MM-DD date ("${a.verifiedOn}")`); p7++; }
   }
   if (!p7) ok('every record has a real source URL and a real verification date');
+
+  // [8] v2.0 — component marks/duration must be positive; malformed values
+  console.log('\n[8] Component marks and duration are positive, plausible values');
+  let p8 = 0;
+  for (const a of ASSESSMENTS) {
+    for (const c of a.components) {
+      if (!(c.marks > 0)) { fail(`${idOf(a)}: component "${c.paperCode}" has marks=${c.marks} (must be > 0)`); p8++; }
+      if (c.durationMinutes !== null && !(c.durationMinutes > 0)) { fail(`${idOf(a)}: component "${c.paperCode}" has durationMinutes=${c.durationMinutes} (must be null or > 0)`); p8++; }
+      if (c.durationMinutes !== null && c.durationMinutes > 600) { fail(`${idOf(a)}: component "${c.paperCode}" has durationMinutes=${c.durationMinutes}, implausibly long (>10h) -- check for a minutes/seconds mixup`); p8++; }
+    }
+  }
+  if (!p8) ok('every component has plausible positive marks and duration');
+
+  // [9] v2.0 — every component's assessmentType, and every record's
+  // assessmentModel/asALevelRelationship (where set), come from their
+  // closed vocabularies (runtime defence-in-depth for the TS union types).
+  console.log('\n[9] Component types and v2.0 vocabulary fields are valid');
+  let p9 = 0;
+  for (const a of ASSESSMENTS) {
+    for (const c of a.components) {
+      if (!VALID_COMPONENT_TYPES.has(c.assessmentType)) { fail(`${idOf(a)}: component "${c.paperCode}" has invalid assessmentType "${c.assessmentType}"`); p9++; }
+      if (c.optionality && !VALID_OPTIONALITY.has(c.optionality)) { fail(`${idOf(a)}: component "${c.paperCode}" has invalid optionality "${c.optionality}"`); p9++; }
+    }
+    if (a.assessmentModel && !VALID_ASSESSMENT_MODELS.has(a.assessmentModel)) { fail(`${idOf(a)}: invalid assessmentModel "${a.assessmentModel}"`); p9++; }
+    if (a.asALevelRelationship && !VALID_AS_A_LEVEL_RELATIONSHIPS.has(a.asALevelRelationship)) { fail(`${idOf(a)}: invalid asALevelRelationship "${a.asALevelRelationship}"`); p9++; }
+    if (!VALID_SPEC_STATUSES.has(a.specStatus)) { fail(`${idOf(a)}: invalid specStatus "${a.specStatus}"`); p9++; }
+  }
+  if (!p9) ok('every component type and every v2.0 vocabulary field used is valid');
+
+  // [10] v2.0 — impossible date ordering. firstTeaching (if set) must not
+  // be after firstAssessment; firstAssessment must not be after
+  // finalAssessment (if set); finalAssessment must not be after
+  // withdrawalDate (if set).
+  console.log('\n[10] Lifecycle dates are in a possible order (teaching -> first assessment -> final assessment -> withdrawal)');
+  let p10 = 0;
+  for (const a of ASSESSMENTS) {
+    const ft = orderableYear(a.firstTeaching);
+    const fa = orderableYear(a.firstAssessment);
+    const la = orderableYear(a.finalAssessment);
+    const wd = orderableYear(a.withdrawalDate);
+    if (a.firstAssessment && fa === null) { fail(`${idOf(a)}: firstAssessment "${a.firstAssessment}" is not a parseable year/date`); p10++; }
+    if (ft !== null && fa !== null && ft > fa) { fail(`${idOf(a)}: firstTeaching (${a.firstTeaching}) is after firstAssessment (${a.firstAssessment}) -- impossible order`); p10++; }
+    if (fa !== null && la !== null && fa > la) { fail(`${idOf(a)}: firstAssessment (${a.firstAssessment}) is after finalAssessment (${a.finalAssessment}) -- impossible order`); p10++; }
+    if (la !== null && wd !== null && la > wd) { fail(`${idOf(a)}: finalAssessment (${a.finalAssessment}) is after withdrawalDate (${a.withdrawalDate}) -- impossible order`); p10++; }
+  }
+  if (!p10) ok('every record\'s lifecycle dates are in a possible order');
+
+  // [11] v2.0 — a 'future' record must actually have a future-looking
+  // signal (firstTeaching or firstAssessment later than any sibling
+  // 'current'/'legacy-teach-out' record's firstAssessment for the same
+  // overlapping-tier group) -- catches a record mislabeled 'future' that
+  // is really just a same-era duplicate.
+  console.log('\n[11] \'future\' records actually have a later first-assessment than their \'current\'/\'legacy-teach-out\' siblings');
+  let p11 = 0;
+  {
+    const byCombo2 = new Map();
+    for (const a of ASSESSMENTS) {
+      const key = `${a.boardSlug}/${a.qualificationSlug}/${a.subjectSlug}`;
+      if (!byCombo2.has(key)) byCombo2.set(key, []);
+      byCombo2.get(key).push(a);
+    }
+    for (const [comboKey, records] of byCombo2) {
+      const futures = records.filter((r) => r.specStatus === 'future');
+      const liveOrLegacy = records.filter((r) => r.specStatus === 'current' || r.specStatus === 'legacy-teach-out');
+      for (const f of futures) {
+        const fFa = orderableYear(f.firstAssessment);
+        for (const sibling of liveOrLegacy) {
+          const overlaps = sibling.tiers.some((t) => f.tiers.includes(t));
+          if (!overlaps) continue;
+          const sFa = orderableYear(sibling.firstAssessment);
+          if (fFa !== null && sFa !== null && fFa <= sFa) {
+            fail(`${comboKey}: "future" record ${f.code} has firstAssessment (${f.firstAssessment}) not later than its ${sibling.specStatus} sibling ${sibling.code}'s (${sibling.firstAssessment})`);
+            p11++;
+          }
+        }
+      }
+    }
+  }
+  if (!p11) ok('every \'future\' record has a genuinely later first-assessment than its current/legacy siblings');
+
+  // [12] v2.0 — a legacy-teach-out record should be traceable to what
+  // replaced it, either via relatedCode or an explicit note, so a legacy
+  // record is never just a silent dead end.
+  console.log('\n[12] \'legacy-teach-out\' records carry transition context (relatedCode or explanatory notes)');
+  let p12 = 0;
+  for (const a of ASSESSMENTS) {
+    if (a.specStatus !== 'legacy-teach-out') continue;
+    if (!a.relatedCode && !(a.notes && a.notes.trim())) { fail(`${idOf(a)}: specStatus is 'legacy-teach-out' but has neither relatedCode nor notes explaining the transition`); p12++; }
+  }
+  if (!p12) ok('every legacy-teach-out record carries relatedCode or explanatory notes');
+
+  // [13] v2.0 — choose-n-of-m components must be grouped (share an
+  // alternativeGroup or be otherwise explained in notes) so "choose-n-of-m"
+  // is never a dangling, unresolvable label.
+  console.log('\n[13] Components marked optionality \'choose-n-of-m\' are grouped or explained');
+  let p13 = 0;
+  for (const a of ASSESSMENTS) {
+    for (const c of a.components) {
+      if (c.optionality === 'choose-n-of-m' && !c.alternativeGroup && !(a.notes && a.notes.trim())) {
+        fail(`${idOf(a)}: component "${c.paperCode}" is optionality 'choose-n-of-m' but has no alternativeGroup and the record has no notes explaining the choice`);
+        p13++;
+      }
+    }
+  }
+  if (!p13) ok('every choose-n-of-m component is grouped or explained');
 }
 
 // --- Coverage report (informational, does not fail the build) -------------

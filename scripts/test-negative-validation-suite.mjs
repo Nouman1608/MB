@@ -321,6 +321,78 @@ withMutation(
   },
 );
 
+console.log('\n[Q] v2.0 — Assessment validator rejects zero/negative component marks');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "{ paperCode: 'Paper 1', title: 'Non-calculator (Core)', durationMinutes: 90, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', tier: 'core' },",
+    "{ paperCode: 'Paper 1', title: 'Non-calculator (Core)', durationMinutes: 90, marks: -5, weightingPercent: 50, assessmentType: 'written-exam', tier: 'core' },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'has marks=-5',
+    label: 'component with negative marks is rejected',
+  },
+);
+
+console.log('\n[R] v2.0 — Assessment validator rejects an invalid component assessmentType');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "{ paperCode: 'Paper 1', title: 'Non-calculator (Core)', durationMinutes: 90, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', tier: 'core' },",
+    "{ paperCode: 'Paper 1', title: 'Non-calculator (Core)', durationMinutes: 90, marks: 80, weightingPercent: 50, assessmentType: 'made-up-type', tier: 'core' },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'invalid assessmentType "made-up-type"',
+    label: 'component with an invalid assessmentType is rejected',
+  },
+);
+
+console.log('\n[S] v2.0 — Assessment validator rejects impossible lifecycle date ordering');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "firstTeaching: '2015-09',\n    firstAssessment: '2017',",
+    "firstTeaching: '2015-09',\n    firstAssessment: '2010',",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'is after firstAssessment',
+    label: 'firstTeaching after firstAssessment is rejected',
+  },
+);
+
+console.log('\n[T] v2.0 — Assessment validator rejects a \'future\' record that is not actually later than its current sibling');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "code: 'H436',\n    specStatus: 'current',\n    relatedCode: 'H431',\n    tiers: ['not-tiered'],\n    firstTeaching: '2026-09',\n    firstAssessment: '2028',",
+    "code: 'H436',\n    specStatus: 'future',\n    relatedCode: 'H431',\n    tiers: ['not-tiered'],\n    firstTeaching: '2016-09',\n    firstAssessment: '2017',",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'not later than its legacy-teach-out sibling',
+    label: "H436 relabelled 'future' with an earlier firstAssessment than legacy H431 is rejected",
+  },
+);
+
+console.log('\n[U] v2.0 — Assessment validator rejects a legacy record with no transition context');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text
+    .replace("relatedCode: 'H436',\n    tiers: ['not-tiered'],\n    firstTeaching: '2015-09',", "tiers: ['not-tiered'],\n    firstTeaching: '2015-09',")
+    .replace(
+      "officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',\n    verifiedOn: '2026-08-26',\n    notes: 'Being withdrawn: OCR confirms H431 has its final first teach in September 2025 and its final assessment opportunity is Summer 2027; resits after that move to H436. Each component: 2h written paper, 80 marks. The spec\\'s own \"at a glance\" table prints each component as \"33.33% of total\" (all three, not summing to exactly 100 on paper); the third component here is recorded as 33.34% so the typed record sums to exactly 100%, consistent with the spec\\'s own detailed weighting-grid page which prints 25%/25%/25%/25% = 100% against the assessment objectives. Papers 01 and 03 carry synoptic assessment.',",
+      "officialSourceUrl: 'https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf',\n    verifiedOn: '2026-08-26',",
+    ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'neither relatedCode nor notes explaining the transition',
+    label: 'legacy-teach-out record stripped of relatedCode and notes is rejected',
+  },
+);
+
 console.log('\n[P] i18n route checker rejects a broken hreflang/canonical on a built translated page');
 import { existsSync } from 'node:fs';
 const i18nFixtureFile = 'dist/ar/about/index.html';
