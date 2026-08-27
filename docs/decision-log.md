@@ -2619,3 +2619,39 @@ reports (dated historical artifacts from earlier, separate sessions).
 
 **Verification:** `npm run build` clean; `npm run validate:academic` clean; `npm run audit:all`
 clean.
+
+
+## D-055 — v2.0 WS4: Cambridge IGCSE Literature in English (0475) skipped -- multi-route optionality not representable in the current schema
+
+- **Date:** 2026-08-28.
+- **Workstream:** v2.0 Mega Programme, Workstream 4 (Cambridge International assessment
+  intelligence), batch 8.
+- **What was found:** Cambridge IGCSE Literature in English (0475) is an ACTIVE
+  board+qualification+subject combination. Its official syllabus PDF (697163-2026-syllabus.pdf,
+  fetched and read in full this session) specifies: all candidates take Paper 1 (Poetry and
+  Prose, 50%), then EITHER Paper 2 (Drama, 50%) alone, OR Paper 3 (Drama, Open Text, 25%) +
+  Paper 4 (Unseen, 25%) together, OR Paper 3 (25%) + Component 5 (Coursework, 25%, internally
+  assessed/externally moderated) together -- a genuine choice of one standalone 50% component vs
+  two different two-component 25%+25% bundles, with Paper 3 shared across two of the three
+  routes.
+- **Why it was not modeled today:** the existing `alternativeGroup` mechanism (and its validator
+  check [3a], "components sharing an alternativeGroup carry identical weighting") assumes
+  mutually-exclusive alternatives are individual components of equal weight (e.g. Practical Test
+  vs Alternative to Practical, both 20%). It has no representation for "choose one of three
+  routes, two of which are themselves multi-component bundles that share a common paper." Forcing
+  this into the current schema (e.g. by inventing a fake alternativeGroup between Paper 2 at 50%
+  and Paper 3 at 25%) would produce a technically-passing but factually wrong record. Per the
+  standing instruction not to leave anything unverified or misrepresented, and to flag skips
+  rather than force a fit, this combination is left NOT_YET_MODELED rather than modeled
+  incorrectly.
+- **What would be needed to close this:** either (a) a schema extension adding a "route" or
+  "bundle" concept above the component level -- a set of components that must be taken together,
+  with several such sets as alternatives to each other -- and a corresponding validator check, or
+  (b) a documented convention for encoding shared-component multi-route choices within the
+  existing model that a human reviewer signs off on before it's reused elsewhere (Cambridge has
+  several other Literature/English syllabuses with similar coursework-or-exam-route choices, so
+  the convention should be decided once, not per-subject).
+- **Status:** genuinely skipped, not silently absent -- tracked here and in the coverage report's
+  NO_ASSESSMENT_RECORD count. All three fetched papers' assessment overview text has already been
+  extracted and independently verified this session, so no re-fetch will be needed once a
+  modeling decision is made; only the schema/convention question blocks completion.
