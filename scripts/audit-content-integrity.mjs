@@ -67,16 +67,21 @@ for (const line of redirectsRaw.split('\n')) {
   if (source && !source.includes('*')) redirectSources.add(source);
 }
 
-const builtHtmlFiles = (await walk(DIST)).filter((f) => f.includes(join(DIST, 'boards') + '/') || f.includes('boards/'));
+// Filter on the normalized URL path (forward-slash, OS-independent) rather
+// than the raw filesystem path -- path.join() uses the OS-native separator
+// (backslash on Windows), so a hardcoded 'boards/' substring check against
+// the raw path silently matched zero files on Windows, making this whole
+// audit a no-op there (hubPagesChecked stayed 0 and it always "passed").
+const builtHtmlFiles = await walk(DIST);
 const problems = [];
 let hubPagesChecked = 0;
 
 for (const file of builtHtmlFiles) {
-  const html = await readFile(file, 'utf8');
   const pageUrlPath = htmlPathToUrlPath(file);
   // Only academic hub pages live under /boards/.../.../.../
   const segments = pageUrlPath.split('/').filter(Boolean);
   if (segments[0] !== 'boards' || segments.length !== 4) continue;
+  const html = await readFile(file, 'utf8');
   hubPagesChecked += 1;
   const isIndexable = sitemapPaths.has(pageUrlPath);
 
