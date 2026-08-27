@@ -1714,7 +1714,6 @@ Status values: `answered` (owner has responded, implemented), `open`
   `npm run audit:all`, unit tests [13/13], npm audit [0 vulnerabilities],
   tsc --noEmit, wrangler deploy --dry-run).
 
-
 ## D-034 — QIGT Section 5: trust-consistency workstream (pricing display, teaching-location, authorship, licensing, trial flow)
 
 - **Date:** 2026-08-26.
@@ -2099,3 +2098,24 @@ Status values: `answered` (owner has responded, implemented), `open`
     unchanged in row count, but D-037 corrected `levelsLabel` display copy for 11 subjects where
     it had drifted out of sync with the matrix's real ACTIVE combinations (a display-honesty fix,
     not a matrix change).
+  - **Pricing data:** `src/data/pricing.ts` amounts unchanged throughout (0 amounts touched by
+    D-034's display-bug fix, confirmed by `validate-pricing-consistency.mjs` passing identically
+    before and after).
+  - **Production headers:** re-verified live (not just locally) during this pass —
+    `strict-transport-security: max-age=15552000` present on both `marlbridge.com` and
+    `www.marlbridge.com`; `/search/` correctly serves `noindex, follow` in production, not just
+    in the local build; `/trial/` confirmed live and rendering the new structured fields.
+- **Unplanned discovery during this pass, register corrected:** re-checking `www.marlbridge.com`
+  live (previously found not resolving at all in D-010/D-033) found it now resolves cleanly,
+  returns HTTP 200, serves byte-identical content to the bare domain, and carries a correct
+  self-referencing canonical to `https://marlbridge.com/` — the same safe pattern already
+  verified for the other apex/protocol variants. Whatever caused the earlier timeout has
+  resolved itself (DNS propagation or a Cloudflare-side change, not something in this
+  repository). `docs/business-decisions-register.md` item 6 updated in place to reflect this —
+  downgraded from "action needed" to an optional, non-blocking tidiness recommendation, with the
+  correction dated and explained rather than silently overwritten.
+- **Guardrail check:** every "after" figure in this entry was measured fresh this pass (local
+  build + live production fetch), not carried over from an earlier workstream's own report
+  without re-verification.
+- **Status:** full validation gate green on `main` at commit `e870812`; before/after comparison
+  complete; one register item corrected based on fresh live evidence.
