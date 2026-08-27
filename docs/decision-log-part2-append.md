@@ -1,245 +1,246 @@
-## D-032 — QIGT Section 3: real publication-state enforcement + editorial-policy honesty fix
+## D-040 — Business-decisions register (owner input required)
 
 - **Date:** 2026-08-26.
-- **Workstream:** Quality/Indexing/Growth/Trust (QIGT) remediation programme, Section 3 (Quality assurance).
-- **Baseline finding:** the required `reviewStatus` enum
-  (draft/review-pending/reviewed/changes-requested/archived) and `reviewer`
-  reference already existed in `content.config.ts` for resources and
-  articles (from an earlier session, docs/decision-log.md D-006). Current
-  real data is honest -- 0 of 731 resources and only 1 of 4 articles
-  claim `reviewed`, with a real, sourced reviewer on file for that one
-  article. But NONE of this was enforced or displayed anywhere: no page
-  template read `reviewStatus`/`reviewer`/`isReviewer`, no JSON-LD builder
-  emitted a reviewer, and no validator checked the rules the schema
-  implies. A genuine, verified gap existed in draft/archived gating:
-  resources had no filtering mechanism at all (a `draft` or `archived`
-  resource would still build, index and appear in the sitemap); articles
-  had a working boolean `draft` field but a SEPARATE, unchecked
-  `reviewStatus: "draft"` enum value that could silently disagree with it;
-  authors had an equivalent unenforced `publicationState` field.
-- **What was built:**
-  - `reviewedDate` (optional, coerced date) added to both resources and
-    articles schema -- when a genuine review actually happened, distinct
-    from authoring dates.
-  - `getResources()`, `getArticles()`, `getAuthors()`
-    (`src/utils/content/collections.ts`) now all exclude `draft` content
-    from routing by default; `getArticles()` also now checks
-    `reviewStatus !== 'draft'` in addition to the pre-existing boolean
-    field, reconciling the two mechanisms so they cannot disagree.
-    `src/utils/content/related.ts` and `resourcesAvailableFor()`
-    (`src/utils/content/status.ts`) — every place that lists, links to, or
-    counts resources/articles — updated the same way, so a draft item
-    can never appear in a listing, related-content block, or subject
-    resource-count badge whose own page doesn't actually get built.
-  - `astro.config.mjs` gained `buildArchivedContentExclusions()` (mirrors
-    the existing `buildIndexabilityExclusions()` pattern): `archived`
-    resources/articles still build (so old links don't 404) but are
-    excluded from the sitemap, matching the page-level `noindex` the
-    templates now derive from `reviewStatus === 'archived'`.
-  - `src/pages/resources/[slug].astro` and `src/pages/articles/[slug].astro`
-    both now compute a single `genuinelyReviewed` boolean (reviewStatus
-    is exactly `'reviewed'`, AND the `reviewer` reference resolves, AND
-    that author has `isReviewer: true`) and reuse the SAME computed value
-    for both the visible "Reviewed by [name] on [date]" byline and the
-    JSON-LD `editor` property (new optional param on
-    `articleNode()`, `src/utils/schema/article.ts`) -- there is no
-    separate code path where schema could claim a reviewer the page
-    itself doesn't show.
-  - `scripts/validate-review-integrity.mjs` (new, wired into
-    `npm run validate:academic`): reviewStatus "reviewed" or
-    "changes-requested" requires a `reviewer` field; that reviewer must
-    exist in `src/content/authors/`; that author must have
-    `isReviewer: true`; `reviewedDate` must not precede `publishedDate`
-    and must not be in the future. Applies identically to every
-    `resourceType` -- practice-questions and exam-preparation get no
-    weaker rule, addressing the brief's specific concern about those
-    types.
-  - 5 new negative-fixture tests added to
-    `scripts/test-negative-validation-suite.mjs` (section [I]), each
-    mutating a real resource file, asserting the validator fails with
-    the right message, and restoring the original -- all 5 pass (11/11
-    suite total).
-  - `docs/reports/review-priority-queue-2026-08-26.md`: the required
-    review-priority queue. GSC-based criteria (impressions, positions
-    4-20) are explicitly flagged as unavailable this session (no export
-    supplied) rather than fabricated; the remaining criteria are
-    data-driven from the real repository (225 worked-answer/practice
-    resources, 58 on a confirmed spec-transition syllabus, 204 with a
-    named author, 244 remainder).
-- **Real, verified editorial-policy contradiction found and fixed:**
-  `src/pages/legal/editorial-policy.astro` stated "Marlbridge has not yet
-  published real, named individual author profiles" and that content
-  "carries the Marlbridge Academic Team byline... until real individual
-  author profiles are introduced." This is false today: 373 of 731
-  resources (majority) already carry a real named individual author
-  (`nouman-ahmed`, `iftikhar-azeemi`, `muhammad-ghazali-siddiqui`, and 5
-  others), each with a genuine, sourced author page. Rewrote the
-  "Editorial policy" and "Authorship and accountability" sections to
-  describe the real current state (most resources named-authored, a
-  minority organisationally bylined, author pages state only verified
-  facts, author and reviewer are explicitly distinct roles). Also
-  rewrote "Academic review policy" to honestly describe the newly-
-  enforced reviewer model instead of flatly denying any reviewer
-  mechanism exists -- it now states plainly that review is real but
-  incomplete (one article reviewed so far, the rest honestly
-  review-pending), rather than either overclaiming or underclaiming.
-  `lastUpdated` bumped to 26 August 2026.
-- **Guardrail check:** no fact invented -- every authorship/reviewer
-  count cited in the policy rewrite was grepped directly from the
-  content files, not assumed; no resource or article was bulk-marked
-  reviewed; archived/draft handling is additive (no existing content
-  changed state) and only activates once a future editor actually sets
-  one of those values.
-- **Status:** implemented on `feature/qa-review-integrity`, full
-  validation gate green (astro check, validate:academic [now including
-  validate-review-integrity.mjs], build, cross-board-regression,
-  negative-validation-suite [11/11], `npm run audit:all`, unit tests
-  [13/13], npm audit [0 vulnerabilities], tsc --noEmit, wrangler deploy
-  --dry-run).
+- **Workstream:** QIGT programme, task #81.
+- **What this is:** a single consolidated document (`docs/business-
+  decisions-register.md`) listing every question surfaced across this
+  window's workstreams (and one earlier finding, D-010/D-033) that
+  genuinely cannot be answered from the codebase, the live site, or
+  public awarding-body sources -- not a new investigation, a
+  consolidation of gaps already identified and explicitly deferred in
+  D-034 and D-033.
+- **Items registered:** (1) exact scope of the schools' content-licence
+  grant (bulk printing / LMS upload / modification -- D-034); (2)
+  whether the multi-subject and sibling pricing discounts stack
+  (D-034); (3) standard class duration and frequency per subject/level
+  (D-034); (4) cancellation/refund policy, currently unstated anywhere
+  on the site (D-034); (5) billing cadence, accepted payment methods,
+  and any fees beyond the published per-subject rate (D-034); (6)
+  `www.marlbridge.com` not resolving at all rather than redirecting to
+  the bare domain -- a DNS/Cloudflare-dashboard fix outside this repo
+  (D-010, reconfirmed D-033).
+- **Deliberately excluded, with reasoning given in the register itself:**
+  faculty/reviewer role mapping (D-004/D-005/D-006) -- already resolved,
+  owner approved publishing all 19 real teachers; and the `/resources/`
+  index performance issue (D-039) -- an engineering follow-up, not a
+  business decision, tracked in the final QIGT report (#83) instead.
+- **Guardrail check:** no answer was invented or guessed for any item;
+  each entry states only what the site currently does NOT say, and asks
+  the specific question the owner would need to answer to close it.
+- **Status:** delivered as `docs/business-decisions-register.md`; all six
+  items remain `open` pending direct owner input; none block the
+  remaining technical QIGT workstreams (#82, #83).
 
-## D-033 — QIGT Section 4: indexing-efficiency audit + /search/ noindex fix
+## D-041 — Full validation gate + before/after comparison (final QIGT gate)
 
 - **Date:** 2026-08-26.
-- **Workstream:** QIGT programme, Section 4 (Indexing efficiency).
-- **Scope note:** the brief's GSC baseline (501/923/385/489/48/1) comes
-  from an export not re-available this session and predates the entire
-  preceding SEO remediation programme (D-023 through D-031). Rather than
-  force a stale reconciliation, verified the CURRENT technical state
-  directly -- full itemised results in
-  `docs/reports/qigt-indexing-workstream-2026-08-26.md`.
-- **Real gap found and fixed:** `/search/` (the Pagefind results page)
-  was indexable despite having no fixed content of its own -- results
-  render entirely client-side into a container no crawler populates.
-  Added `noindex={true}` to `src/pages/search/index.astro` and excluded
-  `/search/` from the sitemap in `astro.config.mjs`. Deliberately made
-  the page-level fix first and ran `test-sitemap-noindex.mjs` before the
-  sitemap-side fix -- it correctly failed ("in the sitemap but its own
-  page renders a noindex robots meta tag"), real proof the safeguard
-  built in the prior programme (D-023/D-024) actually catches drift
-  rather than just existing.
-- **Everything else checked came back clean, not re-implemented:**
-  self-canonicals (structurally guaranteed by `Meta.astro`), HTTP→HTTPS
-  redirect (verified live), trailing-slash consistency
-  (`trailingSlash: 'always'`), no redirected/noindexed/chained/looped
-  URLs in the sitemap (already enforced by `audit-redirects.mjs` and
-  `test-sitemap-noindex.mjs` from the prior programme), robots.txt
-  access, sitemap-index validity, query-parameter indexability (the
-  `/resources/` filters are client-side DOM filtering, no URL params
-  generated), locale hreflang/canonicals (verified against the existing
-  i18n architecture, no change needed).
-- **www/non-www finding, explicitly NOT fixed here:** `www.marlbridge.com`
-  does not resolve at all (times out), rather than redirecting to the
-  bare domain. This is a DNS/Cloudflare-dashboard setting outside this
-  repository -- recorded as an infrastructure recommendation, not
-  silently left unmentioned, and not attempted without dashboard access
-  being explicitly requested.
-- **Redirect-inventory audit:** reviewed every redirect-generation
-  category in `scripts/generate-redirects.mjs` against its own
-  documented rationale; found no synthetic, never-public, speculative
-  redirect -- every rule traces to a genuinely-was-live URL shape
-  (flattened resource type-prefixed paths, the `/learning/` → `/articles/`
-  rename, or a named, dated, decision-logged content consolidation). No
-  redirects removed.
-- **Page-uniqueness / crawled-not-indexed risk:** the templates most
-  likely responsible for that GSC category (thin academic hub pages)
-  were the direct subject of the immediately preceding SEO programme;
-  re-verified 0 remain below the substantial-original-guidance bar
-  (`audit-content-integrity.mjs`, 160/160 checked, 0 problems). No
-  further consolidation identified as necessary without a fresh,
-  URL-level GSC export to confirm which specific pages are still
-  affected.
-- **Guardrail check:** no canonical URL changed; the one fix made
-  (`/search/` noindex) does not remove or hide the page from users, only
-  from search indexing, and is the standard, widely-recommended
-  treatment for a client-rendered internal search page.
-- **Status:** implemented on `feature/qigt-indexing-repairs`, full
-  validation gate green (astro check, validate:academic, build,
-  cross-board-regression, negative-validation-suite [11/11],
-  `npm run audit:all`, unit tests [13/13], npm audit [0 vulnerabilities],
-  tsc --noEmit, wrangler deploy --dry-run).
+- **Workstream:** QIGT programme, task #82. Consolidated validation of the combined effect of
+  D-032 through D-040 (every QIGT workstream this window), run fresh against the merged `main`
+  branch at commit `e870812` (not re-run per-workstream results from earlier in the day).
+- **Full validation gate, all green:**
+  - `npm run build`: succeeds. Pagefind indexed 1,132 HTML files, 4 languages, 5 filters (was
+    "Indexing all `<body>` elements, 0 filters" before D-036).
+  - `npx astro check`: 0 errors / 0 warnings / 0 hints (140 files).
+  - `npm run validate:academic` (6 validators): all OK — matrix 183 rows (160 ACTIVE / 23
+    NOT_SUPPORTED, unchanged from baseline), content tagging OK, commercial claims OK,
+    cross-board integrity OK (5/5 rule categories), pricing consistency OK (0 hard-coded fees
+    outside `pricing.ts` across 879 files), review-integrity OK (731 resources + 4 articles
+    checked, 20 reviewer records, 9 `isReviewer: true`).
+  - `npm run audit:all` (6 checks + sitemap-noindex): 0 problems across all. Structured-data
+    audit: 1,131 pages with JSON-LD, 5,353 typed nodes (EducationalOrganization ×1,131,
+    WebSite ×1,131, WebPage ×1,131, BreadcrumbList ×988, Article ×735, Course ×167,
+    FAQPage ×50, Person ×19, Organization ×1). Redirect audit: 976 rules (975 static + 1
+    wildcard), unchanged from baseline. Internal-link audit: 0 broken links, 0 orphan pages,
+    0 generic anchor text, across 1,132 built pages / 1,130 indexable.
+  - `node scripts/test-cross-board-regression.mjs`: OK, all previously-flagged and control
+    pages intact.
+  - `node scripts/test-negative-validation-suite.mjs`: 11/11 passed, including the 5 new
+    review-integrity negative fixtures added under D-032.
+  - `functions/api/__tests__/enquiry-validation.test.mjs`: 16/16 passed (was 11 before the
+    `trial` kind was added under D-034).
+  - `npx tsc --noEmit`: 0 errors. `npm audit`: 0 vulnerabilities. `npx wrangler deploy
+    --dry-run`: succeeds, 3,622 files read from `dist`.
+- **Before/after comparison (Section 11 requirements):**
+  - **Route/page count:** 1,131 built pages at baseline (2026-08-26 morning, commit
+    `e04fbc3...`) → 1,131-1,132 now (audit scripts count this two different ways, both
+    pre-existing behaviour, not a regression) -- net unchanged; the QIGT programme reshaped and
+    fixed existing pages, added exactly one net-new page (`/trial/`, D-034), and removed exactly
+    one page from the indexable set (`/search/`, noindexed under D-033) -- the counts wash out.
+  - **Sitemap URL set:** 1,130 URLs at baseline → **1,130 URLs now**, re-verified directly
+    against the live production sitemap (`sitemap-0.xml`, 1,130 `<loc>` entries), not just the
+    local build. `/search/` confirmed absent (0 matches); `/trial/` confirmed present (1 match).
+  - **Redirect count:** 976 (975 static + 1 wildcard) at baseline → **976, unchanged** — no
+    redirects added or removed this programme; the redirect-inventory audit (D-033) reviewed
+    every existing rule's rationale and found nothing synthetic to remove.
+  - **Indexable / noindexed pages:** baseline had 0 pages with an explicit code-level noindex
+    that were also correctly excluded from the sitemap (the `isIndexableAcademicPage()` policy's
+    27 pages were already excluded pre-QIGT). This programme added exactly one more:
+    `/search/` (D-033) — verified live in production returning
+    `<meta name="robots" content="noindex, follow">` and absent from the production sitemap.
+  - **Titles/descriptions:** 0 missing, 0 duplicate titles, 0 duplicate descriptions at baseline
+    and now (`audit-metadata.mjs`, 1,131 pages both times).
+  - **Structured-data types:** not separately counted at baseline (D-038 confirmed the schema
+    *builders* were already correct, not a counts-based check); now formally captured for the
+    first time as the after-state (see counts above) for future comparison.
+  - **Resource publication states:** 731 resources / 4 articles at both baseline and now (no
+    resources added, removed, or reclassified this programme); reviewer records grew from
+    implicitly-uncounted at baseline to a formally validated 20 records / 9 `isReviewer: true`
+    once D-032's review-integrity validator landed.
+  - **Internal links:** 0 broken, 0 orphans at baseline and now (`audit-internal-links.mjs`);
+    D-036 added new internal `data-pagefind-filter` metadata (not visible links) rather than
+    changing the link graph itself.
+  - **Academic matrix:** 183 rows, 160 ACTIVE / 23 NOT_SUPPORTED at baseline and now — completely
+    unchanged in row count, but D-037 corrected `levelsLabel` display copy for 11 subjects where
+    it had drifted out of sync with the matrix's real ACTIVE combinations (a display-honesty fix,
+    not a matrix change).
+  - **Pricing data:** `src/data/pricing.ts` amounts unchanged throughout (0 amounts touched by
+    D-034's display-bug fix, confirmed by `validate-pricing-consistency.mjs` passing identically
+    before and after).
+  - **Production headers:** re-verified live (not just locally) during this pass —
+    `strict-transport-security: max-age=15552000` present on both `marlbridge.com` and
+    `www.marlbridge.com`; `/search/` correctly serves `noindex, follow` in production, not just
+    in the local build; `/trial/` confirmed live and rendering the new structured fields.
+- **Unplanned discovery during this pass, register corrected:** re-checking `www.marlbridge.com`
+  live (previously found not resolving at all in D-010/D-033) found it now resolves cleanly,
+  returns HTTP 200, serves byte-identical content to the bare domain, and carries a correct
+  self-referencing canonical to `https://marlbridge.com/` — the same safe pattern already
+  verified for the other apex/protocol variants. Whatever caused the earlier timeout has
+  resolved itself (DNS propagation or a Cloudflare-side change, not something in this
+  repository). `docs/business-decisions-register.md` item 6 updated in place to reflect this —
+  downgraded from "action needed" to an optional, non-blocking tidiness recommendation, with the
+  correction dated and explained rather than silently overwritten.
+- **Guardrail check:** every "after" figure in this entry was measured fresh this pass (local
+  build + live production fetch), not carried over from an earlier workstream's own report
+  without re-verification.
+- **Status:** full validation gate green on `main` at commit `e870812`; before/after comparison
+  complete; one register item corrected based on fresh live evidence.
 
-## D-034 — QIGT Section 5: trust-consistency workstream (pricing display, teaching-location, authorship, licensing, trial flow)
-
-- **Date:** 2026-08-26.
-- **Workstream:** QIGT programme, Section 5 (Trust consistency).
-- **Pricing display bug fixed (duplicated currency):** `src/pages/pricing/index.astro` rendered every fee as
-  `{symbol} {amount} {currency}/unit` -- for regions where the symbol already IS the ISO code (SAR, AED, QAR,
-  KWD, BHD, OMR) this produced literal duplication ("SAR 270 SAR/subject/month"), and even where symbol and
-  code differ (Rs/PKR, £/GBP) it showed both together, exactly the defect class the brief named. Standardised
-  every fee cell, the IB card and both pricing FAQ answers on a single format -- amount + ISO currency code
-  only, unit stated separately (e.g. "270 SAR /subject/month", "19,000 PKR /subject/month") -- across the two
-  region tables, the one-to-one table, the IB card and the two FAQ answers that previously spelled out symbol
-  + code together. No amount, rounding or region was changed; `src/data/pricing.ts` (the canonical source) was
-  not touched. Confirmed the three localised homepages (`/ar/`, `/bn/`, `/ur/`) do NOT have this bug -- they
-  already show currency in its own labelled table column, separate from the symbol+amount cell, and needed no
-  change. Re-ran `validate-pricing-consistency.mjs` after the fix -- still 0 hard-coded fee values outside
-  `pricing.ts` across 879 files.
-- **Teaching-location wording:** checked homepage (`GlobalVision.astro`), About, Tutoring and Contact for
-  consistency. All four already say the same thing in compatible wording -- in-person teaching in Pakistan,
-  online for learners elsewhere, resource library open to anyone -- no contradiction found, no change made.
-- **Authorship-policy contradiction found beyond D-032's editorial-policy fix:** `src/pages/about/index.astro`
-  still claimed "Study material published on Marlbridge is written **and reviewed** by subject specialists"
-  (an unqualified, blanket review claim) and separately implied ALL published work carries the organisational
-  "Marlbridge Academic Team" byline. Both were false against current data: only 1 of 735 published
-  resources+articles has `reviewStatus: reviewed` (`where-igcse-maths-marks-are-lost-early.md`; re-verified
-  directly via grep against `src/content/`, matching the review-integrity validator's own count), and 373/731
-  resources already carry a real named author, not the organisational byline (the same fact D-032 already used
-  to fix `editorial-policy.astro`). Rewrote both paragraphs on About to state the true, current split (most
-  resources named-authored, a minority organisationally credited; review is a separate, accountable,
-  not-yet-universal check) -- bringing About into the same honest framing D-032 already established elsewhere,
-  rather than inventing new wording independently.
-- **Licensing contradiction found and reconciled:** `/schools/` explicitly tells schools "No licence, no
-  account, no attribution required" to use published resources with their classes, while `/legal/terms/`'s
-  "Using our content" section told the same audience to "write to us first" for exactly that use -- a direct
-  page-to-page contradiction for the same audience (not just vague inconsistency). Reconciled by narrowing
-  Terms to carve out an explicit exception matching what Schools already grants (class use, no permission
-  needed) while keeping the "write to us first" requirement for the different, still-real cases Terms actually
-  intends to gate -- republishing under another name, resale, other partnerships. Did not touch the sitewide
-  footer copyright notice ("© 2026 Marlbridge. All rights reserved.") -- a standard ownership assertion, not
-  itself a reuse restriction, so it does not conflict with a specific permission grant elsewhere. The deeper
-  question of exactly how far the schools' class-use permission extends (bulk printing, LMS upload,
-  modification) is a genuine unresolved scope question, not something inferable from existing wording --
-  flagged for the business-decisions register (task #81), not resolved here.
-- **Free Trial Class form flow built:** the header/mobile-menu "Free Trial Class" button previously linked to
-  the generic five-field `/contact/` enquiry form (`kind="student"`), with qualification/board/subject/level
-  left to free-text in the message hint -- exactly the gap the brief named. Added a `trial` `EnquiryKind`
-  (`functions/_lib/enquiry-validation.ts`, `src/utils/forms/submit.ts`) with structured required fields
-  (qualification, exam board, subject) plus optional availability, and a new dedicated page at `/trial/`
-  (`routes.trial`) using `EnquiryForm kind="trial"`; both header buttons now point at `/trial/` instead of
-  `/contact/`. Qualification/board/subject dropdown options are read live from `QUALIFICATIONS`/`BOARDS`/
-  `SUBJECTS` in `src/utils/academic/`/`src/data/academic/` (the same verified academic-matrix data every board
-  hub page already uses), plus IELTS and "General academic support" added on top since both are genuinely
-  taught per the existing Contact FAQ but sit outside the examined-syllabus matrix. Deliberately did NOT add a
-  separate "level" field distinct from qualification -- in this site's own data model qualification already IS
-  the level (see `LEVEL_FOR_QUALIFICATION`), so a second field would either duplicate it or invent a
-  schooling-year concept the site does not otherwise use; documented this consolidation in the code comment
-  rather than silently doing something different from the brief's literal field list. The submission
-  confirmation copy states plainly this is a request, not a confirmed booking, and makes no response-time
-  promise (none exists to promise). Added 5 new unit tests for the `trial` kind (required-field validation,
-  successful submission, email-body rendering) -- `functions/api/__tests__/enquiry-validation.test.mjs` now
-  16/16 passing; updated `test-negative-validation-suite.mjs`'s stale "11 cases" reference to 16.
-- **Explicitly identified as genuinely unresolved, not invented an answer for:** discount stacking (can the
-  multi-subject and sibling discounts combine?), class duration/frequency, cancellation/refund rules, payment
-  schedule/fees, and the precise scope of the schools' content-licence grant. All five are real gaps in
-  publicly stated policy, none inferable from existing evidence -- routed to the business-decisions register
-  (task #81) rather than guessed at here.
-- **Guardrail check:** no business fact, price, or academic claim was invented; `pricing.ts` amounts are
-  unchanged; the only qualification/board/subject options exposed anywhere are ones the site already publicly
-  claims to teach.
-- **Status:** implemented on `feature/qigt-trust-consistency`, full validation gate green (astro build,
-  `validate:academic` chain incl. `validate-pricing-consistency.mjs` and `validate-review-integrity.mjs`,
-  `audit:all`, `enquiry-validation.test.mjs` [16/16], `test-negative-validation-suite.mjs` [11/11]).
-
-## D-035 — QIGT Section 6: demand-led optimization audit of 10 named GSC priority pages
+## D-042 — Deployment verification + final evidence-based report (programme close-out)
 
 - **Date:** 2026-08-26.
-- **Workstream:** QIGT programme, Section 6 (Demand-led search optimization).
-- **Scope:** the 10 pages the brief named as ranking positions 4-20 for real queries --
-  4 board-hub pages (`/boards/cambridge/a-level/english-literature/`,
-  `/boards/cambridge/o-level/urdu-language/`, `/boards/oxfordaqa/igcse/pakistan-studies/`,
-  `/boards/cambridge/igcse/urdu-language/`) and 6 resource pages (`o-level-cambridge-urdu-first-and-second-language`,
-  `igcse-islamiyat-paper-1`, `a-group-2-quantitative-trends`, `organic-chemistry-formulae-and-naming`,
-  `a-physics-medical-physics-revision-notes`, `a-arenes-and-halogenoarenes`), each re-checked fresh against a
-  12-point on-page checklist (direct-answer opening, title/description with spec code, visible syllabus code,
-  topic-mapped headings, tables where useful, real cross-linking, accurate schema, currency of any spec-code/year
-  claims) rather than assumed already-done from the prior SEO programme's Phase 4/Phase 12 work.
+- **Workstream:** QIGT programme, task #83 (final task).
+- **Deployment verification:** rather than assume the auto-deploy pipeline (push to `main` ->
+  Cloudflare Pages) succeeded, fetched a representative sample of production URLs live and
+  checked each against the specific fix it is meant to demonstrate: `/pricing/` (no duplicated
+  currency codes), `/about/` (old blanket review claim absent), `/legal/terms/` (schools carve-out
+  live, dated), `/trial/` (new structured form live), `/search/` (serves `noindex, follow` and is
+  absent from the live production sitemap -- 0 of 1,130 `<loc>` entries in `sitemap-0.xml` match
+  "search", 1 matches "trial"), the homepage/`/resources/` footer nav (Past Papers/Exam
+  Preparation absent, Practice Questions present, `data-pagefind-body` present), `/llms.txt` (no
+  false past-papers claim), a resource page (`data-pagefind-filter` attributes and the
+  link-underline fix both live), `/subjects/accounting/` (corrected label live), the compiled CSS
+  bundle (`--color-gold-600:#7a5e10`, `--color-on-navy-mute:#9fadc2`, confirming the accessibility
+  fix values are exactly what shipped), `robots.txt`, and HSTS headers on both `marlbridge.com`
+  and `www.marlbridge.com`. Every check passed against the live site.
+- **Final report:** `docs/reports/qigt-final-report-2026-08-26.docx` -- a 15-section report
+  (executive summary; scope/method/ground rules; baseline; one section per workstream D-032
+  through D-039; business decisions requiring owner input; full validation gate + before/after
+  comparison; deployment verification; guardrails held/deliberately not changed; closing summary
+  and recommendations) written for the owner, covering every real finding and fix from this
+  programme with no invented facts. Rendered to PDF and visually reviewed page-by-page before
+  delivery to confirm correct formatting (headings, tables, page breaks) rather than trusting the
+  generation script alone.
+- **Guardrail check:** the report states only what was directly verified this programme (repeating
+  the specific evidence -- measured contrast ratios, real diff counts, live HTTP checks -- rather
+  than summarising claims from earlier reports without re-confirmation); the one correction found
+  mid-programme (the `www.marlbridge.com` DNS finding resolving itself) is stated plainly as a
+  correction, not silently smoothed over.
+- **Status:** implemented on `feature/qigt-final-report`, deployment independently re-verified
+  live in production, report delivered. This is the final entry of the QIGT programme (D-032
+  through D-042); task #83 and the full QIGT task list are now complete.
+
+## D-043 — Business-decisions register: all five open items answered and implemented
+
+- **Date:** 2026-08-26.
+- **Workstream:** post-QIGT follow-up, at the owner's direct request ("ask me questions from the
+  document i will give you the answers").
+- **Method:** asked the owner each of the five open items from `docs/business-decisions-register.md`
+  directly, one clarifying round-trip where the first answer needed follow-up (discount stacking:
+  the owner's first answer restated the existing multi-subject-discount rule rather than confirming
+  whether it combines with the sibling discount, so a second, more specific question was asked).
+  Every fact below is the owner's own stated answer, not inferred or assumed.
+- **Answers received and implemented:**
+  1. **Discount stacking:** the 20% multi-subject discount (3+ subjects) and the 10% sibling
+     discount (up to 2 siblings) combine when a family qualifies for both; both apply to group
+     classes only, never one-to-one (already separately stated on the one-to-one FAQ). Added
+     `PRICING_TERMS.discountsStack` to `src/data/pricing.ts`; updated the pricing page's discount
+     FAQ answer and the "Discounts and trial" section intro to state this explicitly.
+  2. **Schools' licence scope:** bulk printing for a whole year group and LMS upload (Google
+     Classroom, Moodle, etc.) are both permitted; modifying, relabelling or rebranding the
+     material is not -- it should be used as published. Updated `/schools/` with a new clarifying
+     paragraph and `/legal/terms/`'s class-use carve-out to name both the permitted uses and the
+     modification boundary explicitly.
+  3. **Class duration/frequency:** group classes run 45-50 minutes, 3 times a week per subject;
+     one-to-one classes run 1 hour, with the number of classes left to the student/family (no
+     fixed frequency). Does not vary by qualification level. Added
+     `PRICING_TERMS.classFormat` and a new pricing-page FAQ entry.
+  4. **Cancellation/refund:** billing is monthly, starting once the free trial class has taken
+     place; a family can cancel or pause at any time, the month already paid for is not refunded,
+     and there is no further billing once cancelled. Added `PRICING_TERMS.billing` and
+     `PRICING_TERMS.cancellationPolicy`, plus two new pricing-page FAQ entries.
+  5. **Payment methods/fees:** bank transfer and international wire transfer are accepted; there
+     is no separate registration/enrolment fee beyond the published per-subject rate. Added
+     `PRICING_TERMS.paymentMethods` and `PRICING_TERMS.enrolmentFee`, surfaced in the same new FAQ
+     entry as item 4's billing cadence.
+- **Guardrail check:** every new fact traces to the owner's own direct answer in this
+  conversation, none inferred; all new pricing-adjacent facts were added to `src/data/pricing.ts`
+  (the single typed source of truth every pricing page already reads from) rather than
+  hard-coded on any page, consistent with the file's own stated rule that "every page that shows
+  a price MUST read from here"; `validate-pricing-consistency.mjs` re-ran clean afterward (0
+  hard-coded fee values outside `pricing.ts` across 879 files, same as before this change).
+  `docs/business-decisions-register.md` updated in place with each answer and exactly where it
+  now appears live, rather than left stating the questions as still open.
+- **Status:** implemented on `feature/qigt-business-decisions-answered`, full validation gate
+  green (build, astro check, `validate:academic`, `audit:all`, negative-validation-suite [11/11],
+  `tsc --noEmit`, `wrangler deploy --dry-run`).
+
+## D-044 — /resources/ index page performance fix + regression testing
+
+- **Date:** 2026-08-26.
+- **Workstream:** post-QIGT follow-up, at the owner's direct request ("after that you can do the
+  regression testing as suggested"), closing out the one performance issue D-039 deliberately
+  left as a documented recommendation rather than a same-session fix.
+- **The problem (recap from D-039):** `/resources/` renders every published resource card for
+  every subject into the DOM up front (up to 257 cards in the largest type section), with
+  client-side filtering toggling the `hidden` attribute rather than removing/adding elements.
+  Measured cost: Performance 71, Total Blocking Time 1,370ms, ~5,200 DOM nodes, 3.7s of
+  style-and-layout work on first paint (`mainthread-work-breakdown`).
+- **Fix chosen:** `content-visibility: auto` (with a `contain-intrinsic-size` placeholder) applied
+  to each `[data-subject-group]` block via a scoped `<style>` block in
+  `src/pages/resources/index.astro`. This tells the browser to skip layout/paint work for a
+  subject group until it is near the viewport -- a CSS-only, additive hint (harmlessly ignored in
+  browsers that don't support it; supported in all evergreen browsers) specifically recommended
+  by the Chrome/web.dev team for exactly this "long list of cards" scenario, and explicitly
+  documented as compatible with search-engine indexing (the built static HTML is unchanged --
+  Pagefind and crawlers read the full markup regardless of this CSS property). Deliberately not
+  the riskier alternatives considered in D-039 (pagination, JS virtualization, lazy DOM
+  insertion) -- those would have meant restructuring the existing, working, tested filter script;
+  this fix changes zero JavaScript, zero DOM structure, and zero filter behaviour.
+- **Regression testing performed (not assumed):**
+  - Full validation gate re-run clean: build, `astro check` (0/0/0), `validate:academic` (all 6
+    validators), `audit:all` (all 6 checks + sitemap-noindex), `npx tsc --noEmit`, `npm audit` (0
+    vulnerabilities), `wrangler deploy --dry-run`, negative-validation-suite (11/11).
+  - A dedicated Playwright functional test (`/tmp/pwtest/test-filters.mjs`, not committed --
+    scratch verification, not a permanent project fixture) drove a real headless browser against
+    the built preview site and confirmed, on the 257-card Mathematics/study-guides section:
+    initial state shows all 23 subject groups and 257 cards; selecting a subject narrows to
+    exactly 1 visible group matching that subject; the "Clear filters" button appears once
+    filtered and correctly restores all groups on click; selecting a level hides non-matching
+    cards and every still-visible card actually has that level; `content-visibility: auto` is
+    confirmed applied via `getComputedStyle`; and the last (previously most implicitly
+    deprioritized) subject group has real, nonzero rendered height once scrolled into view,
+    confirming `content-visibility` does not silently drop or corrupt content -- 12/12 checks
+    passed.
+  - Fresh Lighthouse mobile runs against the local preview build: **Performance 71 -> 97**,
+    **Total Blocking Time 1,370ms -> 50ms**, **mainthread-work-breakdown 3.7s -> 1.1s**, CLS
+    stayed at 0 (confirming the `contain-intrinsic-size` placeholder didn't introduce layout
+    shift), LCP/FCP/Speed Index unchanged or slightly improved. Accessibility re-confirmed at
+    100/100 (unchanged from D-039 -- this fix touched no color, markup semantics, or focus
+    order).
+- **Guardrail check:** no JavaScript changed, no DOM structure changed, no filter behaviour
+  changed (proven by the Playwright test, not assumed), no content removed from the built HTML
+  (Pagefind/crawlers see the same markup as before); the fix is a single, scoped, additive CSS
+  rule.
+- **Status:** implemented on `feature/qigt-resources-performance`, full validation gate green,
+  functional regression test 12/12 passed, before/after Lighthouse confirms the fix. This closes
+  the one outstanding recommendation from the QIGT final report (D-042).
