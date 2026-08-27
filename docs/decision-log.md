@@ -553,3 +553,518 @@ Status values: `answered` (owner has responded, implemented), `open`
   periodic revalidation. No other follow-up expected.
 - **Status:** implemented on `feature/one-to-one-pricing`; not yet merged
   to `main`.
+
+## D-013 — August audit fixes: IELTS status, Contact FAQ drift, homepage title
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (new audit findings, not
+  previously in the register)
+- **Fact provided:** Owner confirmed IELTS is currently offered by
+  Marlbridge (only SAT is genuinely unconfirmed) -- `src/content/programs/
+  ielts.md` incorrectly carried `marlbridgeTeaches: "not-confirmed"` and
+  "not yet offered" body copy identical to the genuinely-unconfirmed
+  `sat.md`, a live public misstatement.
+- **Final decision:**
+  1. `src/content/programs/ielts.md`: `marlbridgeTeaches` changed to
+     `"teaching"`; body copy rewritten from "not yet offered... register
+     your interest" to "Marlbridge teaches Academic IELTS preparation,
+     covering all four papers: Listening, Reading, Writing and Speaking."
+  2. `src/pages/contact/index.astro` FAQ ("Which qualifications does
+     Marlbridge teach?"): found two further pieces of drift while fixing
+     IELTS in the same answer -- (a) it still said "IELTS and SAT are not
+     yet offered" (now corrected: IELTS added to the taught list, only SAT
+     called out as not yet offered) and (b) it still said "IB study
+     resources are published, with teaching in development" even though
+     `src/content/programs/ib.md` was changed to `marlbridgeTeaches:
+     "teaching"` earlier this engagement (IB programme merge) -- this
+     FAQ answer was never updated at that time. Now reads "...AS Level, A
+     Level, IB (Middle Years Programme and Diploma Programme, one-to-one)
+     and IELTS... SAT is not yet offered."
+  3. `src/pages/index.astro`: homepage `<title>` changed from
+     `site.tagline` ("Marlbridge — Bridging Knowledge and Opportunity.")
+     to `"Marlbridge — IGCSE, A Level, IB & GCSE Tutoring"` -- a real
+     category keyword instead of branding-only text, using only
+     currently-taught program categories. `site.tagline` is unaffected
+     everywhere else (footer, Organization schema `slogan`, homepage H1
+     body copy).
+- **Implementation consequence:** No validator or schema change needed --
+  `checkQualificationClaims` in `validate-commercial-claims.mjs` only
+  checks FAQ sentences against IGCSE/GCSE/AS Level/A Level/O Level (IB and
+  IELTS are not matrix-tracked qualifications), and the copy-contradiction
+  guard only scans `src/content/{subjects,programs}` bodies, not
+  `src/pages/contact/index.astro` prose -- so neither edit needed a script
+  change, only the content correction itself. Full validation gate
+  re-run clean after all three edits.
+- **Follow-up required:** None outstanding for these three items. Three
+  further items from the same audit round were investigated and found to
+  need either an external (non-repo) action or no code change at all --
+  see the same-day audit-response report for HTTP→HTTPS/HSTS (Cloudflare
+  dashboard setting), Organization `sameAs` (code already supports it,
+  needs real social profile URLs), and hreflang/thin-content scope
+  (already correctly implemented; not a bug).
+- **Status:** implemented on `fix/august-audit-findings`; not yet merged
+  to `main`.
+
+## D-014 — HTTP->HTTPS redirect and HSTS enabled (Cloudflare zone setting)
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (August audit item 2 --
+  `http://marlbridge.com/` returned 200 OK directly instead of a 301, and
+  the HTTPS response carried no `strict-transport-security` header)
+- **Fact provided:** Confirmed via `curl -I` before and after -- prior to
+  this fix, HTTP returned 200 with no redirect and HTTPS had no HSTS
+  header at all.
+- **Final decision:** Not a repo code change -- this is a Cloudflare
+  zone-level setting (SSL/TLS > Edge Certificates), external to this
+  codebase. Owner granted browser access (already logged into the
+  Cloudflare dashboard) and a scoped API token; the API token lacked
+  zone-list/zone-settings permission for this specific zone (confirmed via
+  `/user/tokens/verify` succeeding but `/zones` and the settings endpoints
+  returning "Unauthorized to access requested resource"), so the fix was
+  applied directly in the Cloudflare dashboard via browser automation
+  instead:
+  1. **Always Use HTTPS** -- turned on (was off).
+  2. **HTTP Strict Transport Security (HSTS)** -- enabled, Max-Age set to
+     6 months (Cloudflare's own "Recommended" default). `includeSubDomains`,
+     `preload` and the `X-Content-Type-Options: nosniff` header were left
+     off/disabled -- the audit item only asked for the base HTTP->HTTPS
+     redirect and HSTS presence, and `preload`/`includeSubDomains` are
+     harder to safely reverse (preload in particular requires submission
+     to browser preload lists and can make a site inaccessible if HTTPS
+     ever needs to be disabled), so they were deliberately left for a
+     separate, explicit decision rather than enabled by default.
+- **Implementation consequence:** Verified live post-change:
+  `curl -I http://marlbridge.com/` now returns `301 Moved Permanently`
+  with `Location: https://marlbridge.com/`; `curl -I https://marlbridge.com/`
+  now returns `strict-transport-security: max-age=15552000`.
+- **Follow-up required:** None for the base fix. If `includeSubDomains`
+  or `preload` are wanted later, that needs a separate explicit decision
+  -- preload especially, since undoing it after browsers cache the
+  preload list is slow and can affect subdomains not confirmed HTTPS-ready.
+- **Status:** Done directly against the live Cloudflare zone (not a repo
+  change, so no branch/PR applies here).
+
+## D-015 — Organization schema sameAs: all 5 confirmed profiles added
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (August audit item 3 --
+  Organization schema had no `sameAs` links even though the code has
+  supported it since it was written; `src/data/site.ts`'s `social[]` was
+  simply empty)
+- **Fact provided:** Owner supplied handles for Instagram
+  (@marlbridgeofficial), LinkedIn ("Marlbridge"), Facebook ("Marlbridge"),
+  TikTok (@marlbridge), X (@Marlbridgehq) and Threads (@marlbridge --
+  explicitly noted as currently suspended).
+- **Final decision:**
+  1. Added Instagram, TikTok and X to `src/data/site.ts`'s `social[]` --
+     all three were given as exact @handles, so the profile URL is an
+     unambiguous, direct construction from what the owner typed (Instagram
+     was additionally browser-verified live: page title resolved to
+     "MarlBridge (@marlbridgeofficial) -- Instagram photos and videos").
+  2. LinkedIn and Facebook URLs were supplied by the owner in a follow-up
+     message and added the same day: `https://www.linkedin.com/company/
+     144554905/` (the owner pasted the `/admin/dashboard/` URL, which only
+     renders for a logged-in admin -- the public ID-based company page URL
+     was used instead, since that's what a visitor/crawler actually sees)
+     and `https://www.facebook.com/marlbridge` (the owner pasted the
+     `web.facebook.com` desktop-app host -- the canonical `www.facebook.com`
+     form was used instead; both are the same page, browser-verified live
+     with the real "Marlbridge" / "Bridging knowledge and opportunity." /
+     "Education website" page details visible).
+  3. Threads was NOT added, despite being confirmed to exist, because the
+     owner stated it is currently suspended -- a sameAs link to a
+     suspended account would point at a dead page, not a live
+     verification signal, and undermines the same accuracy principle.
+- **Implementation consequence:** `src/utils/schema/organization.ts`
+  required no change -- it already emits `sameAs` conditionally whenever
+  `site.social` is non-empty. Verified in the built homepage's JSON-LD:
+  `"sameAs":["https://www.instagram.com/marlbridgeofficial/",
+  "https://www.linkedin.com/company/144554905/",
+  "https://www.facebook.com/marlbridge",
+  "https://www.tiktok.com/@marlbridge","https://x.com/Marlbridgehq"]`.
+- **Follow-up required:** Revisit Threads if/when it is reinstated.
+- **Status:** implemented on `fix/august-audit-findings`; not yet merged
+  to `main`.
+
+## D-016 — Privacy notice added to the enquiry form (Register #4 / Risk R10)
+
+- **Date:** 2026-08-23
+- **Workstream:** Post-v1.x, in-session request (external audit register
+  item, confirmed still live: "No privacy/consent notice or checkbox on
+  the /contact/ enquiry form")
+- **Fact provided:** `src/components/forms/EnquiryForm.astro` (shared by
+  both the student/tutoring and school-partnership enquiry forms) had no
+  privacy disclosure of any kind at the point of data collection, despite
+  `src/pages/legal/privacy.astro` already fully describing what the
+  enquiry form collects and how it's used.
+- **Final decision:** Added a plain-text privacy notice with a link to
+  `/legal/privacy/`, positioned directly above the submit button: "By
+  submitting this form you agree to Marlbridge's Privacy Policy — your
+  information is used only to respond to your enquiry." A mandatory
+  tick-box was deliberately NOT added -- this form collects data under
+  legitimate-interest/contract processing to answer a genuine enquiry,
+  not for marketing, so there is no opt-in requirement the way there is
+  for the site's GA4 analytics (which already has its own dedicated
+  cookie-consent banner via `ConsentAnalytics.astro`, D-003). A checkbox
+  would add friction to a lead-generation form without a corresponding
+  legal requirement.
+- **Implementation consequence:** One shared component, so the notice
+  covers both `/contact/` (student/tutoring enquiries) and the schools
+  partnership form automatically. Verified present in the built
+  `/contact/` page.
+- **Follow-up required:** None expected. If the business later adds a
+  marketing opt-in (e.g. a newsletter checkbox) to this form, that would
+  need its own separate, genuinely-optional checkbox -- do not fold it
+  into this required privacy notice.
+- **Status:** implemented on `fix/enquiry-form-privacy-notice`; not yet
+  merged to `main`.
+
+## D-017 — Staff photos rendered on author bio pages
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user-reported: /authors/harris-zaman/
+  and other author pages render no photo, despite a staff photo existing).
+- **Fact provided:** The `authors` content collection has always had an
+  optional `image` field (e.g.
+  `image: "/images/faculty/harris-zaman.jpg"`), and the corresponding JPGs
+  already exist in `public/images/faculty/` for 19 of the 20 author
+  entries (the 20th, `marlbridge-academic-team`, is a team byline, not an
+  individual, and correctly has no `image`). Grepping the codebase showed
+  `images/faculty` was never referenced anywhere outside the content
+  files themselves -- the data existed but nothing rendered it. The
+  `personNode()` schema helper (`src/utils/schema/person.ts`) already
+  accepted an `image` parameter too, but the author page never passed one.
+- **Final decision:** Render the photo on `src/pages/authors/[slug].astro`
+  via `PageLayout`'s existing `hero-extra` slot (a circular photo next to
+  the name/role in the page header), and pass `image: d.image` into
+  `personNode()` so the Person JSON-LD also carries it. For a `person`
+  entityType with no `image` set, show a clearly-labelled "Photo" reserved
+  placeholder (matching the site's existing "reserved frame" convention
+  used elsewhere, e.g. `PhotoFrame.astro`) rather than silently omitting
+  it, so a missing photo stays visible as a to-do rather than invisible.
+  For `organization` entityType (the team byline), no photo and no
+  placeholder is shown -- a team does not get a personal photo.
+- **Implementation consequence:** Single-file change,
+  `src/pages/authors/[slug].astro`. Verified in the built output: e.g.
+  `dist/authors/harris-zaman/index.html` now contains
+  `<img src="/images/faculty/harris-zaman.jpg" ...>` and the page's Person
+  JSON-LD now includes
+  `"image":"https://marlbridge.com/images/faculty/harris-zaman.jpg"`;
+  `dist/authors/marlbridge-academic-team/index.html` correctly shows
+  neither a photo nor a placeholder.
+- **Follow-up required:** None expected. If a new individual author is
+  added without a photo yet, the reserved "Photo" placeholder will show
+  on their bio page until one is supplied -- that is the intended,
+  visible-not-silent behaviour.
+- **Status:** implemented on `content/staff-photos-authors`; not yet
+  merged to `main`.
+
+## D-018 — Subject-list resource-count badge overlapping the level label
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user-reported, screenshot of
+  `/subjects/` at a mid-range browser width showing "N RESOURCES" badges
+  overlapping the board/level text next to them, e.g. "Environmental
+  Management" and "English Literature").
+- **Fact provided:** `SubjectList.astro` (used only on `/subjects/`)
+  renders each row as `<a class="flex items-baseline justify-between
+  gap-4">` with two children: a title+badge wrapper (`min-w-0`, so it CAN
+  shrink and wrap) and the level label (`whitespace-nowrap`, so it
+  physically cannot shrink below its own text width). Reproduced directly
+  against the live page (isolated the "English Literature" row's DOM in a
+  fixed-width test container and swept the width down from 500px):
+  overlap starts exactly where the two-column grid's column width gets
+  narrow enough that the title wraps to 2 lines AND the level label no
+  longer has room next to the shrunken title+badge group. Because the
+  outer row has no `flex-wrap`, the browser cannot move the level label
+  to a new line when it doesn't fit -- it gets forced into the same
+  horizontal space as the badge, producing literal overlapping text. This
+  reproduces on the real production page in the `sm:grid-cols-2` window
+  (roughly 640-900px viewport), which is exactly what the user's
+  screenshot showed.
+- **Final decision:** Add `flex-wrap` to the row (`flex flex-wrap
+  items-baseline justify-between gap-x-4 gap-y-1`, replacing the single
+  `gap-4`). When a row's title+badge and level label don't both fit on
+  one line, the level label now wraps to its own line below (left-aligned)
+  instead of overlapping. Verified with the same isolated-DOM sweep,
+  200px-500px, using the exact shipped classes: zero overlaps at any
+  width, with a real gap (7-39px) wherever wrapping occurs.
+- **Implementation consequence:** Single-file, single-line class change,
+  `src/components/cards/SubjectList.astro`. `SubjectList` is used only on
+  `/subjects/`, so no other page is affected.
+- **Follow-up required:** None expected.
+- **Status:** implemented on `fix/subject-list-badge-overlap`; not yet
+  merged to `main`.
+
+## D-019 — Same badge/level overlap bug, second location: homepage subjects preview
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user-reported, second screenshot
+  -- this time the homepage's "Learn With Purpose" subjects preview, not
+  `/subjects/` which D-018 already fixed).
+- **Fact provided:** `src/components/sections/SubjectsSection.astro` is a
+  separate component from `SubjectList.astro` (D-018), but its row markup
+  is a near-identical copy: same `flex items-baseline justify-between
+  gap-4` row with no wrap fallback. Here the list sits inside a narrower
+  right-hand column (`lg:grid-cols-[minmax(280px,0.85fr)_1.6fr]`) that is
+  itself split into 2 sub-columns, so the effective column width is
+  narrower than on the standalone `/subjects/` page at the same viewport
+  -- narrow enough that even a single-line title like "Mathematics"
+  overlaps its own badge with the level label, without any title-wrapping
+  needed. Reproduced directly against the live homepage the same way as
+  D-018 (isolated the "Mathematics" row's DOM in a resizable test
+  container): overlap starts at ~320px column width even for this
+  single-line title.
+- **Final decision:** Same fix as D-018, applied to this component:
+  `flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1`.
+  Verified with the same isolated-DOM sweep against the live page, widths
+  180px-500px: zero overlaps at any width.
+- **Implementation consequence:** Single-file, single-line class change,
+  `src/components/sections/SubjectsSection.astro`. Used only on the
+  homepage.
+- **Follow-up required:** These two components (`SubjectList.astro` and
+  `SubjectsSection.astro`) duplicate the same row markup. Worth
+  considering a shared sub-component in a future pass so this class of
+  bug can't recur a third time in a third copy -- out of scope for this
+  fix, which matches the existing pattern of fixing each in place.
+- **Status:** implemented on `fix/homepage-subjects-badge-overlap`; not
+  yet merged to `main`.
+
+## D-020 — /resources/ sections grouped by subject instead of one flat date-sorted grid
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user-reported: "the study guides
+  are not well managed and arranged properly in the resources").
+- **Fact provided:** `src/pages/resources/index.astro` rendered each
+  resource-type section (Study Guides, Revision Notes, Practice Questions,
+  Subject Guides) as one flat grid of `ResourceCard`s, sorted only by
+  `publishedDate` descending across ALL subjects at once -- e.g. Study
+  Guides showed 257 items in raw newest-first order with no subject or
+  level grouping, no filter, no pagination. The built page was ~600KB of
+  HTML on a single load. Per-subject browsing already works fine on
+  subject hub pages (`/subjects/[slug]/`), but the resources directory
+  itself had no organisation beyond type.
+- **Options presented to the user:** (1) group by subject with
+  subheadings within each type section, (2) add a client-side subject/
+  level filter control, (3) switch the sort from date to alphabetical
+  without adding grouping UI. User chose (1).
+- **Final decision:** Within each type section, group entries by subject
+  using the site's canonical subject order (the same order used on
+  `/subjects/`, via `getSubjects()`), with an `<h3>` subheading per
+  subject (name + count) and resources sorted alphabetically by title
+  within each group -- a reference index, not a recency feed. Left the
+  "Recently published" section (top of page, 6 most recent across all
+  types) untouched, since date-recency is exactly the right sort for
+  that distinct section.
+- **Implementation consequence:** `src/pages/resources/index.astro`
+  rewritten to build `bySubjectByType` (grouping + sort) alongside the
+  existing `byType`. Because a per-subject `<h3>` now sits between the
+  section's `<h2>` and each card's own heading, `ResourceCard.astro`
+  gained an optional `headingLevel` prop (`'h3' | 'h4'`, default `'h3'`)
+  so the card title becomes `<h4>` only in this newly-nested context --
+  every other call site (subject hub pages, board pages, "Recently
+  published", author/article "also relevant" lists, program pages) is
+  unchanged and keeps `<h3>`, preserving correct heading hierarchy
+  everywhere rather than skipping or doubling a level. Verified in the
+  built output: 23 subject subheadings under Study Guides in the same
+  order as `/subjects/`, entries alphabetical within each subject, 257
+  cards total (unchanged count), all rendered as `<h4>`; the unrelated
+  "Recently published" section's 6 cards still render as `<h3>`.
+- **Follow-up required:** None expected for this change. Noted
+  separately (see D-019) that `SubjectList.astro` and
+  `SubjectsSection.astro` duplicate row markup -- this page's grouping
+  logic is a third, independent implementation and not something to
+  consolidate with those two, since its data shape (grouped-by-subject
+  within a type) is genuinely different from theirs (flat subject list).
+- **Status:** implemented on `feature/resources-group-by-subject`; not
+  yet merged to `main`.
+
+## D-021 — Subject/level filter dropdowns added to /resources/ sections
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up, direct continuation of D-020.
+  D-020 grouped each resource-type section by subject; the user was asked
+  which further arrangement improvement they wanted and chose adding a
+  subject/level filter on top of that grouping (rather than sorting-only,
+  or replacing the grouping with a flat filtered list).
+- **Final decision:** Each type section (Study Guides, Revision Notes,
+  Practice Questions, Subject Guides) gets a "Subject" `<select>` (options
+  built from that section's own `bySubjectByType` groups, so a subject
+  never appears as a filter option with zero results) and, when a section
+  actually spans more than one level, a "Level" `<select>` (options
+  limited to levels that actually occur in that section, in the same
+  order as the `level` enum in content.config.ts). A "Clear filters"
+  button appears only once a filter is active. Filtering is client-side,
+  vanilla JS (no framework), matching the existing inline-`<script>`
+  convention this codebase already uses for the mobile-menu toggle and
+  cookie-consent banner (`BaseLayout.astro`) rather than introducing a new
+  dependency. Selecting a subject hides non-matching subject groups
+  entirely; selecting a level hides non-matching cards and, if that empties
+  a subject group, hides the group too; a genuine zero-result combination
+  shows a "No {type} match these filters" message instead of a blank
+  section.
+- **Implementation consequence:** `src/pages/resources/index.astro` only.
+  Server-rendered: each card's `<li>` carries `data-levels="..."` (space-
+  separated level slugs) and each subject group carries
+  `data-subject-group="{subject-slug}"`; the section carries
+  `data-resource-filter="{type-slug}"` so the script can scope
+  independently per section. Verified the server-rendered markup directly
+  (subject/level `<option>` lists match each section's real data, all 257
+  Study Guides cards carry `data-levels`, all 23 subject groups carry
+  `data-subject-group`), then verified the actual filter *behaviour* --
+  not just that the build succeeded -- by running the shipped script
+  logic verbatim against a live browser DOM (Chrome, via the same session
+  used throughout this engagement) with representative single- and
+  multi-level cards: subject-only filtering, level-only filtering across
+  subjects, combined subject+level filtering (including a card with two
+  levels correctly matching either), the reset button, and a genuine
+  zero-match case correctly showing the empty-state message. All passed.
+- **Follow-up required:** None expected.
+- **Status:** implemented on `feature/resources-subject-level-filter`;
+  not yet merged to `main`.
+
+## D-022 — "Free Trial Class" header CTA added
+
+- **Date:** 2026-08-24
+- **Workstream:** v1.x CLOSURE follow-up (user request: a header button
+  matching the "Free Trial Class" button on learnersacademy.com.pk).
+- **Options presented to the user, and answers:** (1) replace the
+  existing "Explore Programs" header CTA, or add a second button
+  alongside it -- user chose add. (2) link target: no dedicated trial-
+  booking page exists (the trial offer and the enquiry form live together
+  on `/tutoring/`) -- user chose `/contact/` over the `/tutoring/`
+  enquiry-form anchor.
+- **Final decision:** Added a second header CTA, "Free Trial Class" ->
+  `/contact/`, next to the existing "Explore Programs" -> `/programs/`.
+  Colour and shape deliberately do NOT copy learnersacademy.com.pk's
+  rounded-pill navy button -- this site's button system is `rounded-sm`
+  everywhere (never fully rounded), so the new button keeps that shape.
+  For colour, used the site's existing gold accent
+  (`--color-gold-500` / `--color-gold-600` on hover) with navy-800 text,
+  since gold is Marlbridge's own "highlighted action" colour already used
+  for hover states and eyebrow labels site-wide, giving the new button a
+  distinct, standout treatment against the navy header without competing
+  with the existing ivory "Explore Programs" button or introducing any
+  colour not already in the palette. Verified contrast visually in the
+  browser (gold-500 on navy-800 header background, navy-800 text on
+  gold-500 button face) before shipping.
+- **Implementation consequence:** `src/components/navigation/Header.astro`
+  -- new `<a>` added next to "Explore Programs", desktop-only
+  (`lg:inline-flex`), matching that button's visibility pattern.
+  `src/components/navigation/MobileMenu.astro` -- the existing "Contact"
+  button (already linking to `/contact/`; "Contact" is not in
+  `primaryNav`, so this was the only mobile-menu path to that page) was
+  relabelled to "Free Trial Class" and restyled to match, rather than
+  adding a third button that would duplicate the same destination.
+  Verified in the built output on multiple page types (homepage,
+  /subjects/, /pricing/, /contact/, since Header/MobileMenu are shared
+  layout components) that both the desktop button and the mobile-menu
+  button render with the correct classes and href.
+- **Follow-up required:** None expected. If the business later wants a
+  dedicated trial-booking landing page (distinct from the general
+  `/contact/` enquiry form), this button's href is the only place that
+  would need to change.
+- **Status:** implemented on `feature/header-free-trial-button`; not yet
+  merged to `main`.
+
+## D-023 — Canonical academic-page indexability policy (isIndexableAcademicPage)
+
+- **Date:** 2026-08-25.
+- **Workstream:** Aug 2026 technical-SEO remediation brief (external, user-
+  supplied) -- Phase 1 (canonical indexability policy) + Phase 2 (sitemap/
+  robots alignment). First of ~12 phases in that brief; the rest remain
+  pending (see Task list #61-70).
+- **Baseline evidence gathered before any change (see full session for
+  detail):** `npm run validate:academic` reports 160 ACTIVE combinations
+  (not the 139 stated in the brief -- that number is stale, predating
+  substantial resource-content work in earlier sessions).
+  `coverage:academic-v2` reports 160/160 combinations with at least one
+  resource -- i.e. zero true zero-resource combinations currently exist,
+  contradicting the brief's "117 zero-resource combinations" claim.
+  However, the underlying architectural problem the brief describes is
+  real: the existing `isThin` guard in the page template
+  (`resources.length === 0 && !hasSyllabusTopics`) treated ANY resource
+  count >= 1 as sufficient for indexing, with no quality/substance bar.
+  39 of 160 ACTIVE combinations have exactly one resource, and the IB
+  subject-guide overviews written in an earlier session (Task #24) are
+  ~200-300 words each -- exactly the kind of thin single-resource page
+  the old guard let through. Only 1 page (404.html) rendered noindex on
+  the pre-change production build.
+- **Final decision:** Replaced the ad-hoc `isThin` boolean with a single
+  canonical, reusable decision function, `isIndexableAcademicPage()` in
+  `src/utils/seo/indexability.ts`. It sums word counts across a
+  combination's *original Marlbridge-authored* resources only
+  (study-guides, revision-notes, subject-guides, practice-questions,
+  exam-preparation -- explicitly excluding past-papers, since those are
+  official third-party material, not original writing) and requires >=400
+  total words to count as indexable. The 400-word figure is not new --
+  it's the same "expansion queue" threshold already used by
+  `scripts/academic-coverage-report-v2.mjs`, reused here so "indexable"
+  and "not flagged for expansion" describe the same quality bar sitewide.
+  A combination with real syllabus topics but no substantial resource is
+  still NOT indexable -- syllabus-topics-alone was exactly the old
+  loophole.
+- **Why one function, two callers:** astro:content (needed to read
+  resource bodies) isn't available inside `astro.config.mjs` -- Astro's
+  config file runs before the content layer exists. So
+  `isIndexableAcademicPage()` itself is framework-free (plain input/output,
+  no astro:content import), and each caller adapts its own data source to
+  the same shape: the page template
+  (`src/pages/boards/[board]/[qualification]/[subject].astro`) via
+  `getResources()`, and a new `buildIndexabilityExclusions()` in
+  `astro.config.mjs` via direct frontmatter reads off disk (same pattern
+  already used there by `buildLastmodMap()`). Both compute the exact same
+  decision from equivalent inputs, so sitemap inclusion and the page's own
+  robots meta cannot drift apart. `LEVEL_FOR_QUALIFICATION` (previously a
+  private constant inside the page template) was promoted to a shared
+  export in `src/utils/academic/index.ts` for the same reason -- both
+  callers need the qualification-slug -> resource-level mapping, and a
+  second private copy in `astro.config.mjs` would have been exactly the
+  kind of drift this change exists to prevent.
+- **Sitemap change:** `astro.config.mjs`'s `sitemap()` filter now excludes
+  any academic hub path `isIndexableAcademicPage()` marks non-indexable,
+  in addition to the pre-existing `/styleguide` exclusion.
+- **New automated safeguard:** `scripts/test-sitemap-noindex.mjs` --
+  reads the *built* `dist/sitemap-*.xml` and, for every URL listed, reads
+  the corresponding `dist/**/index.html` and fails if it renders a
+  `noindex` robots meta tag. This does not re-derive or duplicate the
+  indexability rule; it cross-checks two independently-generated build
+  outputs (the sitemap filter and each page's own render) for agreement,
+  which also catches future drift even if a later change touches only one
+  side. Verified the test actually catches regressions: temporarily
+  disabled the sitemap exclusion, rebuilt, confirmed the test correctly
+  failed and named all 27 affected URLs, then restored and reconfirmed a
+  clean pass. `scripts/test-negative-validation-suite.mjs`'s section [H]
+  (previously a stale comment claiming "0 noindex tags" as the expected
+  state) was corrected to point at this real test and explain that 27
+  noindexed pages is the new, correct state.
+- **Measured effect on the current build:** 27 academic hub pages moved
+  from indexed to `noindex, follow` (still served, still linked, just
+  withheld from search results): 5 English Literature hubs (aqa a-level +
+  gcse, edexcel a-level + igcse, oxfordaqa a-level + igcse -- 6 total),
+  2 more (aqa as-level Business, aqa gcse World History), and 19 of the 20
+  IB hubs (ib-dp and ib-myp), whose subject-guide resources are ~200-300
+  words each and have not yet been expanded. Total built page count
+  unchanged (1122); sitemap URL count dropped from (previously
+  unmeasured/unfiltered) to 1094, exactly matching 1122 minus the 27
+  newly-noindexed pages minus 404.html (which the sitemap integration
+  already excluded by default) -- confirms sitemap and robots meta are
+  now in exact agreement.
+- **Guardrail check:** does not delete or restructure any board,
+  qualification or subject; does not touch `marlbridgeTeaches`; does not
+  invent content; a noindexed page still renders and is still linked
+  internally (`noindex, follow`), so link equity still flows and a human
+  who lands on one still gets an honest page.
+- **Follow-up required:** The 19 newly-noindexed IB hubs are a direct,
+  visible cost of this change and the clearest concrete target for future
+  content work -- expanding those subject-guide resources past 400 words
+  (or adding a second qualifying resource) is the fastest way to earn
+  those pages back into the index under the new, honest bar. Left for a
+  future phase/session rather than done reflexively here, since writing
+  substantial original IB content for 19 subjects properly belongs to the
+  brief's later content-cluster phases (#70), not this policy-mechanics
+  phase.
+- **Status:** implemented on `feature/seo-indexability-policy`; full
+  validation gate green (astro check, validate:academic, build, cross-
+  board-regression, negative-validation-suite, unit tests, npm audit, tsc
+  --noEmit, wrangler deploy --dry-run); not yet merged to `main`.
