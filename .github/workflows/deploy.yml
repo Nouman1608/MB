@@ -1,0 +1,41 @@
+name: Deploy to Cloudflare
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+jobs:
+  validate-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build (also runs validate:academic as part of the build chain)
+        run: npm run build
+
+      - name: Run full audit gate (needs the built dist/ above)
+        run: npm run audit:all
+
+      - name: Negative-fixture validation suite
+        run: node scripts/test-negative-validation-suite.mjs
+
+      - name: Cross-board regression check
+        run: node scripts/test-cross-board-regression.mjs
+
+      - name: Enquiry validation unit tests
+        run: node --experimental-strip-types --test functions/api/__tests__/enquiry-validation.test.mjs
+
+      - name: Deploy to Cloudflare
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          command: deploy
