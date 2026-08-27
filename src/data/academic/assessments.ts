@@ -57,18 +57,78 @@ export type AssessmentTier =
 
 export type AssessmentComponentType =
   | 'written-exam'
+  | 'multiple-choice'
   | 'coursework'
   | 'non-exam-assessment'
   | 'practical'
-  | 'oral';
+  | 'alternative-to-practical'
+  | 'practical-endorsement'
+  | 'oral'
+  | 'speaking'
+  | 'listening'
+  | 'reading'
+  | 'writing'
+  | 'portfolio'
+  | 'project'
+  | 'unit'
+  | 'endorsement';
+
+/** v2.0 MEGA PROGRAMME — assessment-model vocabulary (brief §6). Describes
+ * HOW the qualification as a whole aggregates its components, not any one
+ * component's own type. Optional and populated only where an official
+ * source has been explicitly re-checked for this fact -- see each v2.0
+ * record's own `notes`. Deliberately left unset on every pre-v2.0 (WS5)
+ * record rather than retrofitted by inference; those 14 records were
+ * sourced before this field existed and inferring "linear" vs
+ * "component-based" from paper counts alone would not be a verified fact,
+ * it would be a guess -- exactly what this programme's brief prohibits. */
+export type AssessmentModel =
+  | 'linear'
+  | 'modular'
+  | 'staged'
+  | 'unit-based'
+  | 'component-based'
+  | 'mixed';
+
+/** v2.0 — AS/A-level relationship vocabulary (brief §10). Optional;
+ * populated only when the official specification explicitly states the
+ * relationship. Backfilled onto the pre-v2.0 Cambridge as-only/a2-only
+ * records below ONLY because their existing, already-sourced `notes`
+ * already state the relevant fact in prose (e.g. "Papers 1-3 alone can
+ * instead be certificated as a standalone AS Level") -- this is
+ * formalizing an already-verified fact into structured data, not a new
+ * unverified claim. */
+export type AsALevelRelationship =
+  | 'standalone-as'
+  | 'as-stage-within-a-level'
+  | 'full-a-level-independent'
+  | 'modular-as-contributes'
+  | 'staged-cambridge-route';
+
+/** v2.0 — whether a component is compulsory or one of a choice (brief
+ * §23). 'choose-n-of-m' components must share a `optionGroup` tag and the
+ * record's `notes` must state N. Optional; existing `alternativeGroup`
+ * already covers the narrower "sit exactly one of two equally-weighted
+ * alternatives" case (e.g. Practical Test vs Alternative to Practical) and
+ * is unchanged -- this is for the broader option/route case the brief
+ * distinguishes in §23 from the alternative-to-practical case in §19. */
+export type ComponentOptionality = 'required' | 'optional' | 'choose-n-of-m';
 
 /** 'current' — this is the specification a new student should follow today.
  * 'legacy-teach-out' — superseded by a newer code, but still being taught
- * out to students already partway through; see `finalAssessment`. Every
- * (board, qualification, subject) with more than one Assessment record
- * must have EXACTLY one 'current' record -- enforced by
- * scripts/validate-assessments.mjs's legacy/current-collision check. */
-export type SpecStatus = 'current' | 'legacy-teach-out';
+ * out to students already partway through; see `finalAssessment`.
+ * 'future' — v2.0 addition (brief §11): announced/published but not yet
+ * the specification current students follow; distinguished from 'current'
+ * so a not-yet-started replacement is never displayed as though it
+ * applies today. 'withdrawn' — v2.0 addition: no longer assessable at
+ * all (past its finalAssessment series with no further teach-out); kept
+ * as a historical record per brief §43, not deleted.
+ * Every (board, qualification, subject) with more than one Assessment
+ * record whose tiers overlap must have EXACTLY one 'current' record --
+ * enforced by scripts/validate-assessments.mjs's legacy/current-collision
+ * check, which only counts 'current' (not 'future' or 'withdrawn') so a
+ * future or withdrawn record never collides with the live current one. */
+export type SpecStatus = 'current' | 'legacy-teach-out' | 'future' | 'withdrawn';
 
 export interface AssessmentComponent {
   /** The board's own paper/component identifier, exactly as published --
@@ -107,6 +167,23 @@ export interface AssessmentComponent {
    * summing a tier's total, exactly reflecting that only one is actually
    * sat. */
   readonly alternativeGroup?: string;
+  /** v2.0 (brief §23) — required vs optional/choose-N-of-M component.
+   * Omitted means 'required' (the pre-v2.0 default every existing
+   * component already assumes). Only set explicitly when a specification
+   * offers real route/option choice beyond the narrower alternativeGroup
+   * case above. */
+  readonly optionality?: ComponentOptionality;
+  /** v2.0 (brief §7) — externally marked by the board vs internally
+   * assessed by the centre. Optional; only recorded where the official
+   * specification states it explicitly. */
+  readonly externallyAssessed?: boolean;
+  readonly internallyAssessed?: boolean;
+  readonly externallyModerated?: boolean;
+  /** v2.0 (brief §22) — calculator/formula-support facts, only recorded
+   * where the specification explicitly states them. */
+  readonly calculatorAllowed?: boolean;
+  readonly formulaSheetProvided?: boolean;
+  readonly dataBookletProvided?: boolean;
 }
 
 export interface Assessment {
@@ -146,6 +223,27 @@ export interface Assessment {
   readonly officialSourceUrl: string;
   readonly verifiedOn: string;
   readonly notes?: string;
+  /** v2.0 (brief §6) — how the qualification as a whole aggregates its
+   * components. Optional; see the AssessmentModel type doc for why this is
+   * deliberately unset on every pre-v2.0 record. */
+  readonly assessmentModel?: AssessmentModel;
+  /** v2.0 (brief §10). Optional; see the AsALevelRelationship type doc. */
+  readonly asALevelRelationship?: AsALevelRelationship;
+  /** v2.0 (brief §11) — the date this record stops being assessable at
+   * all (distinct from `finalAssessment`, which is the last SERIES it is
+   * assessed in -- withdrawalDate is typically shortly after that series'
+   * results are issued). Optional; only set once officially confirmed. */
+  readonly withdrawalDate?: string;
+  /** v2.0 (brief §6) — free-text summary of resit rules, only recorded
+   * where the specification explicitly states them (e.g. "AS units may be
+   * resat once; the better result counts"). Never invented. */
+  readonly resitPolicySummary?: string;
+  /** v2.0 (brief §6, §10) — free-text notes on how this qualification is
+   * certificated (e.g. "AS is certificated separately from the full A
+   * Level" or "no separate AS certification is offered for this route"),
+   * distinct from the general `notes` field above which may cover other
+   * sourcing/structural detail. Optional. */
+  readonly certificationNotes?: string;
 }
 
 export const ASSESSMENTS: readonly Assessment[] = [
@@ -225,6 +323,8 @@ export const ASSESSMENTS: readonly Assessment[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf',
     verifiedOn: '2026-08-26',
     notes: 'Weightings shown are % of the full A Level (Papers 1-5, sum 100%). Papers 1-3 alone can instead be certificated as a standalone AS Level (weighted 31%/46%/23% of the AS Level in that route, not modeled as a separate record here). A newer 2028-2030 syllabus edition has also been published for future cohorts, not modeled here.',
+    asALevelRelationship: 'staged-cambridge-route',
+    certificationNotes: 'AS Level (Papers 1-3) can be certificated on its own as a standalone Cambridge International AS Level, OR a candidate can continue to Papers 4-5 for the full A Level -- both routes officially recognised, per the syllabus\'s own staged-assessment structure.',
   },
   {
     boardSlug: 'cambridge',
@@ -244,6 +344,8 @@ export const ASSESSMENTS: readonly Assessment[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664565-2025-2027-syllabus.pdf',
     verifiedOn: '2026-08-26',
     notes: 'Structurally identical scheme to Chemistry 9701 -- weightings are % of the full A Level; the AS-only standalone route weights Papers 1-3 at 31%/46%/23% of the AS Level instead (not modeled as a separate record here).',
+    asALevelRelationship: 'staged-cambridge-route',
+    certificationNotes: 'AS Level (Papers 1-3) can be certificated on its own, OR a candidate can continue to Papers 4-5 for the full A Level -- same staged structure as Cambridge 9701 Chemistry.',
   },
   {
     boardSlug: 'cambridge',
@@ -262,6 +364,8 @@ export const ASSESSMENTS: readonly Assessment[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697423-2026-2028-syllabus.pdf',
     verifiedOn: '2026-08-26',
     notes: 'Weightings are % of the full A Level (Papers 1-4, sum 100%). Papers 1-2 alone certificate as a standalone AS Level, weighted 33%/67% of the AS Level instead (not modeled as a separate record here).',
+    asALevelRelationship: 'staged-cambridge-route',
+    certificationNotes: 'AS Level (Papers 1-2) can be certificated on its own, OR a candidate can continue to Papers 3-4 for the full A Level.',
   },
   {
     boardSlug: 'cambridge',
@@ -280,6 +384,8 @@ export const ASSESSMENTS: readonly Assessment[] = [
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/636097-2024-2026-syllabus.pdf',
     verifiedOn: '2026-08-26',
     notes: 'Weightings are % of the full A Level (Papers 1-4, sum 100%). Papers 1-2 alone certificate as a standalone AS Level, each weighted 50% of the AS Level instead (not modeled as a separate record here). A newer 2027-2028 edition has also been published for future cohorts, not modeled here.',
+    asALevelRelationship: 'staged-cambridge-route',
+    certificationNotes: 'AS Level (Papers 1-2) can be certificated on its own, OR a candidate can continue to Papers 3-4 for the full A Level.',
   },
   {
     boardSlug: 'cambridge',
@@ -420,4 +526,54 @@ export function assessmentsFor(
   return ASSESSMENTS.filter(
     (a) => a.boardSlug === boardSlug && a.qualificationSlug === qualificationSlug && a.subjectSlug === subjectSlug,
   );
+}
+
+/** v2.0 MEGA PROGRAMME (brief §12) — "which assessment record applies to a
+ * learner sitting exams in YEAR?" `firstAssessment` and `finalAssessment`
+ * (both already-required/optional fields on every record, not new data)
+ * are parsed as the first exam-series year each record covers and, where
+ * `finalAssessment` is set, the last. A record with no `finalAssessment`
+ * is treated as covering every year from its `firstAssessment` onward
+ * (i.e. still current/future with no announced end) UNLESS a later
+ * record's `firstAssessment` for the same overlapping-tier group implies
+ * this one ended -- see the `ambiguous` case below, which surfaces that
+ * situation for manual review rather than silently picking one.
+ *
+ * Returns:
+ *   { record, ambiguous: false }  — exactly one record covers this year.
+ *   { record: null, ambiguous: true, candidates }
+ *       — zero or 2+ records could apply (a genuine transition-year
+ *         ambiguity, or the combination truly has no record for that
+ *         year); `candidates` lists what was found so a human can resolve
+ *         it. This function never guesses a single answer in that case. */
+export interface ExamYearResolution {
+  readonly record: Assessment | null;
+  readonly ambiguous: boolean;
+  readonly candidates: readonly Assessment[];
+}
+
+export function resolveAssessmentForExamYear(
+  boardSlug: string,
+  qualificationSlug: string,
+  subjectSlug: string,
+  examYear: number,
+): ExamYearResolution {
+  const all = assessmentsFor(boardSlug, qualificationSlug, subjectSlug);
+  const yearOf = (s: string) => {
+    const n = Number.parseInt(s, 10);
+    return Number.isFinite(n) ? n : null;
+  };
+  const covering = all.filter((a) => {
+    const start = yearOf(a.firstAssessment);
+    if (start === null || examYear < start) return false;
+    if (a.finalAssessment) {
+      const end = yearOf(a.finalAssessment);
+      if (end !== null && examYear > end) return false;
+    }
+    return true;
+  });
+  if (covering.length === 1) {
+    return { record: covering[0], ambiguous: false, candidates: covering };
+  }
+  return { record: null, ambiguous: true, candidates: covering };
 }
