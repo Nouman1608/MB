@@ -167,6 +167,21 @@ export interface AssessmentComponent {
    * summing a tier's total, exactly reflecting that only one is actually
    * sat. */
   readonly alternativeGroup?: string;
+  /** v2.0 — the broader "choose one whole route, where a route may be
+   * MORE than one component" case alternativeGroup can't express (e.g.
+   * Cambridge IGCSE Literature in English 0475: after a compulsory
+   * Paper 1, a candidate sits EITHER Paper 2 alone, OR Paper 3 + Paper 4
+   * together, OR Paper 3 + Component 5 together -- three routes of equal
+   * total weighting, one of which (Paper 3) is shared between two of the
+   * routes). Each element names a route this component belongs to; a
+   * shared component like Paper 3 above lists every route it appears in.
+   * All routes named anywhere in a record must sum their members'
+   * weightingPercent to the same total -- enforced by the weighting-
+   * totals validator, which (like alternativeGroup) counts only ONE
+   * route's total once per record+tier when summing to 100%, exactly
+   * reflecting that a candidate completes only one route. A component
+   * should carry either alternativeGroup or routeGroup, not both. */
+  readonly routeGroup?: readonly string[];
   /** v2.0 (brief §23) — required vs optional/choose-N-of-M component.
    * Omitted means 'required' (the pre-v2.0 default every existing
    * component already assumes). Only set explicitly when a specification
@@ -1209,6 +1224,135 @@ export const ASSESSMENTS: readonly Assessment[] = [
     assessmentModel: 'staged',
     asALevelRelationship: 'staged-cambridge-route',
     certificationNotes: 'Cambridge International AS Level Global Perspectives (Components 1-3) can be a standalone qualification, or the first three components of the full A Level, completed by adding Component 4 (Cambridge Research Report) in a later series.',
+  },
+  {
+    boardSlug: 'cambridge',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'english-literature',
+    code: '0475',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2026',
+    finalAssessment: '2026',
+    components: [
+      { paperCode: 'Paper 1', title: 'Poetry and Prose', durationMinutes: 90, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Drama', durationMinutes: 90, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true, optionality: 'choose-n-of-m', routeGroup: ['route-a-drama-exam'] },
+      { paperCode: 'Paper 3', title: 'Drama (Open Text)', durationMinutes: 45, marks: 25, weightingPercent: 25, assessmentType: 'written-exam', externallyAssessed: true, optionality: 'choose-n-of-m', routeGroup: ['route-b-unseen', 'route-c-coursework'] },
+      { paperCode: 'Paper 4', title: 'Unseen', durationMinutes: 75, marks: 25, weightingPercent: 25, assessmentType: 'written-exam', externallyAssessed: true, optionality: 'choose-n-of-m', routeGroup: ['route-b-unseen'] },
+      { paperCode: 'Component 5', title: 'Coursework', durationMinutes: null, marks: 25, weightingPercent: 25, assessmentType: 'coursework', internallyAssessed: true, externallyModerated: true, optionality: 'choose-n-of-m', routeGroup: ['route-c-coursework'] },
+    ],
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf',
+    verifiedOn: '2026-08-28',
+    notes: 'Directly confirmed against the official PDF\'s "Assessment overview" (Syllabus overview): all candidates take Paper 1 Poetry and Prose (1h30/50 marks/50%, two questions on two texts, externally assessed) plus EXACTLY ONE of three routes, each worth the remaining 50%: Route A is Paper 2 Drama alone (1h30/50 marks/50%, two questions on two texts, externally assessed); Route B is Paper 3 Drama (Open Text) (45min/25 marks/25%, one question on one text) together with Paper 4 Unseen (1h15/25 marks/25%, one question requiring critical commentary), both externally assessed; Route C is Paper 3 again together with Component 5 Coursework (25 marks/25%, a portfolio of two assignments each on a different text, internally assessed and externally moderated). Paper 3 is genuinely shared between Route B and Route C -- it is the same physical paper, not two different papers with the same name -- which this v2.0 dataset represents for the first time via the new `routeGroup` mechanism (an array of route tags per component, letting one component belong to more than one alternative route; see the `routeGroup` field\'s own doc comment in this file for the general case). This resolves docs/decision-log.md D-055, which explains why this combination was left unmodeled in an earlier batch of this same workstream. Grades A*-G. This is a single-year syllabus edition (2026 only) that should be re-checked for a successor when next touched.',
+    assessmentModel: 'component-based',
+  },
+  {
+    boardSlug: 'cambridge',
+    qualificationSlug: 'o-level',
+    subjectSlug: 'environmental-management',
+    code: '5014',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2025',
+    finalAssessment: '2026',
+    components: [
+      { paperCode: 'Paper 1', title: 'Theory', durationMinutes: 105, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Management in Context', durationMinutes: 105, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
+    ],
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664483-2025-2026-syllabus.pdf',
+    verifiedOn: '2026-08-28',
+    notes: 'Directly confirmed against the official PDF (Assessment overview, p.9): Paper 1 Theory (1h45/80 marks/50%, Section A short/structured questions [20 marks] plus Section B short-answer/extended-response questions based on source material [60 marks]) and Paper 2 Management in Context (1h45/80 marks/50%, short and extended-response questions based on source material), both externally assessed. Not tiered; grades A*-E. Exams available in the June series (also November in Mauritius only). This is the 2025-2026 syllabus edition; finalAssessment is set to 2026 and this record should be re-checked for a successor edition when next touched, since 2026 is its last examination year.',
+    assessmentModel: 'linear',
+  },
+  {
+    boardSlug: 'cambridge',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'environmental-management',
+    code: '0680',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2027',
+    components: [
+      { paperCode: 'Paper 1', title: 'Principles of Environmental Management', durationMinutes: 105, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Environmental Management in Context', durationMinutes: 105, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
+    ],
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/718156-2027-2029-syllabus.pdf',
+    verifiedOn: '2026-08-28',
+    notes: 'Directly confirmed against the official PDF (Assessment overview, p.9): Paper 1 Principles of Environmental Management (1h45/80 marks/50%, short-answer/structured questions with extended-response questions based on source material) and Paper 2 Environmental Management in Context (1h45/80 marks/50%, short-answer, data processing/analysis, and extended-response questions based on source material), both externally assessed. Not tiered. Examination-series window 2027-2029 (first examination 2027). As of this verification date (2026-08-28) this syllabus has not yet had its first live sitting, but it is the only published edition of 0680 -- there is no separate earlier "current" spec it supersedes -- so specStatus is recorded as \'current\' rather than \'future\' (that status is reserved for a not-yet-live spec that will replace an existing current one; see the field\'s own doc comment). No separate first-teaching date published by Cambridge.',
+    assessmentModel: 'linear',
+  },
+  {
+    boardSlug: 'cambridge',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'statistics',
+    code: '0479',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2027',
+    finalAssessment: '2027',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1', durationMinutes: 135, marks: 100, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true, calculatorAllowed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2', durationMinutes: 135, marks: 100, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true, calculatorAllowed: true },
+    ],
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/718153-2027-syllabus.pdf',
+    verifiedOn: '2026-08-28',
+    notes: 'Directly confirmed against the official PDF (Assessment overview p.9, Details of the assessment p.18): both papers are untitled beyond "Paper 1"/"Paper 2" in the syllabus itself, each 2h15/100 marks/50%, questions of mixed length and style drawn from any part of the subject content, a calculator required (algebraic/graphical calculators not permitted), essential working must be shown. Both externally assessed. Not tiered; grades A*-G. The syllabus states explicitly: "This is a new syllabus for first examination in 2027" -- Version 1, published September 2024, only the June series is available. As of this verification date (2026-08-28) this syllabus has not yet had its first live sitting; it is the ONLY edition of 0479 ever published (there is no separate earlier "current" spec it replaces), so specStatus is recorded as \'current\' rather than \'future\' (see the field\'s own doc comment for why). firstAssessment and finalAssessment are both set to 2027 since only a single exam year is currently published; this record should be re-checked for a successor edition when next touched.',
+    assessmentModel: 'linear',
+  },
+  {
+    boardSlug: 'cambridge',
+    qualificationSlug: 'igcse',
+    subjectSlug: 'commerce',
+    code: '0715',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2028',
+    finalAssessment: '2028',
+    components: [
+      { paperCode: 'Paper 1', title: 'Multiple Choice', durationMinutes: 60, marks: 40, weightingPercent: 30, assessmentType: 'multiple-choice', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Written', durationMinutes: 120, marks: 80, weightingPercent: 70, assessmentType: 'written-exam', externallyAssessed: true },
+    ],
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/745979-2028-syllabus.pdf',
+    verifiedOn: '2026-08-28',
+    notes: 'Directly confirmed against the official PDF: Paper 1 Multiple Choice (1h, 40 marks, 30%, compulsory, may involve simple calculations) and Paper 2 Written (2h, 80 marks, 70%, structured questions of varying length, compulsory, may involve simple calculations), both externally assessed -- an identical paper structure to the already-modeled O Level Commerce 7100, independently re-confirmed from 0715\'s own source PDF, not copied. Not tiered; grades A*-G. This is a single-year 2028-only syllabus edition. As of this verification date (2026-08-28) this syllabus has not yet had its first live sitting and is the ONLY published edition of 0715 (no earlier "current" spec it replaces), so specStatus is recorded as \'current\' rather than \'future\' (see the field\'s own doc comment for why). firstAssessment and finalAssessment are both set to 2028; this record should be re-checked for a successor edition when next touched.',
+    assessmentModel: 'linear',
+  },
+  {
+    boardSlug: 'cambridge',
+    qualificationSlug: 'o-level',
+    subjectSlug: 'english-language',
+    code: '1123',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2024',
+    finalAssessment: '2026',
+    components: [
+      { paperCode: 'Paper 1', title: 'Reading', durationMinutes: 120, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Writing', durationMinutes: 120, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
+    ],
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/634453-2024-2026-syllabus.pdf',
+    verifiedOn: '2026-08-28',
+    notes: 'Directly confirmed against the official PDF (Version 2, published December 2022): Paper 1 Reading (2h, 50 marks, 50%, two compulsory sections -- Comprehension and Use of Language, and Summary and Short response, based on two reading texts) and Paper 2 Writing (2h, 50 marks, 50%, one Directed Writing question and one Composition task chosen from four options), both externally assessed, no coursework or speaking component. Not tiered; grades A*-E. Available June and November series. Window 2024-2026, version 2.',
+    assessmentModel: 'linear',
+  },
+  {
+    boardSlug: 'cambridge',
+    qualificationSlug: 'o-level',
+    subjectSlug: 'statistics',
+    code: '4040',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2025',
+    finalAssessment: '2027',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1', durationMinutes: 135, marks: 100, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true, calculatorAllowed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2', durationMinutes: 135, marks: 100, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true, calculatorAllowed: true },
+    ],
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664481-2025-2027-syllabus.pdf',
+    verifiedOn: '2026-08-28',
+    notes: 'Directly confirmed against the official PDF (Version 1, published September 2022, "no significant changes which affect teaching"): two compulsory, equally-weighted papers, each 2h15 (135 min), 100 marks, 50%, a mix of short questions (up to 8 marks each) and four longer questions (~15 marks each), electronic calculators required. Both externally assessed. Not tiered; grades A*-E. Examined in the November series only. Explicitly a linear qualification -- the syllabus states candidates cannot resit individual components, only the whole qualification -- recorded in resitPolicySummary. Window 2025-2027, version 1.',
+    assessmentModel: 'linear',
+    resitPolicySummary: 'Linear qualification: candidates may retake the whole qualification but cannot resit individual components (Paper 1 or Paper 2) separately.',
   },
 ] as const;
 

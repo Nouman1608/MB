@@ -307,6 +307,20 @@ withMutation(
   },
 );
 
+console.log('\n[V] v2.0 — Assessment validator rejects mismatched routeGroup totals');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "{ paperCode: 'Paper 4', title: 'Unseen', durationMinutes: 75, marks: 25, weightingPercent: 25, assessmentType: 'written-exam', externallyAssessed: true, optionality: 'choose-n-of-m', routeGroup: ['route-b-unseen'] },",
+    "{ paperCode: 'Paper 4', title: 'Unseen', durationMinutes: 75, marks: 25, weightingPercent: 30, assessmentType: 'written-exam', externallyAssessed: true, optionality: 'choose-n-of-m', routeGroup: ['route-b-unseen'] },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'routeGroup totals mismatch',
+    label: "Cambridge IGCSE Literature in English 0475's route-b total no longer matches route-a/route-c is rejected",
+  },
+);
+
 console.log('\n[O] Assessment validator rejects a legacy/current collision');
 withMutation(
   'src/data/academic/assessments.ts',

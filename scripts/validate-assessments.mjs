@@ -43,6 +43,12 @@
  *        notes -- never a silent dead end.
  *   [13] A 'choose-n-of-m' component is grouped (alternativeGroup) or
  *        explained in notes.
+ *   [3c] v2.0 addition — components sharing a routeGroup (the broader
+ *        "choose a whole multi-component route" case, e.g. Cambridge
+ *        IGCSE Literature in English 0475's Paper 2 vs Paper 3+4 vs
+ *        Paper 3+Component 5) sum to matching per-route totals within a
+ *        record+tier, exactly mirroring what [3a] enforces for the
+ *        narrower single-component alternativeGroup case.
  *
  * Also reports, but does NOT fail the build on, coverage: how many of
  * matrix.ts's ACTIVE combinations have an Assessment record vs are
@@ -181,9 +187,45 @@ if (ASSESSMENTS.length === 0) {
   }
   if (!p3a) ok('every alternativeGroup\'s members carry identical weighting');
 
+  // [3c] v2.0 -- components sharing a routeGroup (the broader "choose a
+  // whole multi-component route" case) must sum, per distinct route tag,
+  // to the same total within a record+tier -- mirroring [3a] for the
+  // narrower single-component alternativeGroup case. A component whose
+  // routeGroup lists more than one tag (a component shared between two
+  // routes, e.g. Cambridge IGCSE Literature 0475's Paper 3) contributes
+  // its weighting to every route it names.
+  console.log('\n[3c] Components sharing a routeGroup sum to matching per-route totals');
+  let p3c = 0;
+  for (const a of ASSESSMENTS) {
+    const tiersToCheck = a.tiers.length ? a.tiers : ['not-tiered'];
+    for (const tier of tiersToCheck) {
+      const applicable = a.components.filter((c) => !c.tier || c.tier === tier);
+      const routeTotals = new Map();
+      for (const c of applicable) {
+        if (!c.routeGroup) continue;
+        for (const route of c.routeGroup) {
+          routeTotals.set(route, (routeTotals.get(route) ?? 0) + c.weightingPercent);
+        }
+      }
+      if (routeTotals.size > 1) {
+        const rounded = [...routeTotals.values()].map((v) => Math.round(v * 100) / 100);
+        if (new Set(rounded).size > 1) {
+          fail(`${idOf(a)} [tier=${tier}]: routeGroup totals mismatch -- ${[...routeTotals.entries()].map(([r, v]) => `${r}=${v}%`).join(', ')}`);
+          p3c++;
+        }
+      }
+    }
+  }
+  if (!p3c) ok('every routeGroup\'s routes sum to matching totals within each record+tier');
+
   // [3b] Weighting totals per tier -- components sharing an
   // alternativeGroup are counted ONCE per group (one representative),
-  // since a candidate sits only one of them, not all.
+  // since a candidate sits only one of them, not all. Components sharing
+  // a routeGroup are handled the same way one level up: since [3c] has
+  // already required every distinct route to total the same, exactly ONE
+  // route's total is added once (whichever route happens to be
+  // encountered first), and every routeGroup-tagged component is excluded
+  // from the plain per-component addition below.
   console.log('\n[3b] Component weightings sum to 100% per tier');
   let p3b = 0;
   const TOLERANCE = 0.5;
@@ -191,9 +233,19 @@ if (ASSESSMENTS.length === 0) {
     const tiersToCheck = a.tiers.length ? a.tiers : ['not-tiered'];
     for (const tier of tiersToCheck) {
       const applicable = a.components.filter((c) => !c.tier || c.tier === tier);
-      const seenGroups = new Set();
+      const routeComponents = applicable.filter((c) => c.routeGroup && c.routeGroup.length);
+      const plainComponents = applicable.filter((c) => !(c.routeGroup && c.routeGroup.length));
       let total = 0;
-      for (const c of applicable) {
+      if (routeComponents.length) {
+        const routeTags = new Set();
+        for (const c of routeComponents) for (const r of c.routeGroup) routeTags.add(r);
+        const representativeTag = [...routeTags][0];
+        total += routeComponents
+          .filter((c) => c.routeGroup.includes(representativeTag))
+          .reduce((sum, c) => sum + c.weightingPercent, 0);
+      }
+      const seenGroups = new Set();
+      for (const c of plainComponents) {
         if (c.alternativeGroup) {
           if (seenGroups.has(c.alternativeGroup)) continue; // already counted this group's representative
           seenGroups.add(c.alternativeGroup);
