@@ -1,11 +1,11 @@
 ---
-interface Props { name: string; label: string; required?: boolean; hint?: string; class?: string }
-const { name, label, required = false, hint, class: className = '' } = Astro.props;
+interface Props { name: string; label: string; required?: boolean; hint?: string; class?: string; optionalLabel?: string }
+const { name, label, required = false, hint, class: className = '', optionalLabel = ' (optional)' } = Astro.props;
 ---
 <div class={`flex flex-col gap-2 ${className}`}>
   <label for={name} class="text-[14px] font-medium text-navy-800">
     {label}{required && <span aria-hidden="true" class="text-gold-600"> *</span>}
-    {!required && <span class="font-normal text-ink-mute"> (optional)</span>}
+    {!required && <span class="font-normal text-ink-mute">{optionalLabel}</span>}
   </label>
   {hint && <p id={`${name}-hint`} class="m-0 text-[13.5px] text-ink-mute">{hint}</p>}
   <slot />

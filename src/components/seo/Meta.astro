@@ -4,12 +4,13 @@ import { absoluteUrl, pageTitle, type SeoProps } from '../../utils/seo/meta';
 import { siteGraph, webPageNode } from '../../utils/schema/organization';
 import { breadcrumbNode } from '../../utils/schema/breadcrumb';
 import { locales } from '../../data/navigation';
+import { localePath, TRANSLATED_LOCALES } from '../../i18n/routes';
 
 type Props = SeoProps & { isHome?: boolean };
 const {
   title, description, path, type = 'website', image = site.ogImage,
   publishedDate, updatedDate, noindex = false, breadcrumbs = [],
-  jsonLd = [], isHome = false,
+  jsonLd = [], isHome = false, translationKey,
 } = Astro.props;
 
 const canonical = absoluteUrl(path);
@@ -26,13 +27,16 @@ const graph = [
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
 {noindex && <meta name="robots" content="noindex, follow" />}
-{/* v1.x CLOSURE WS5 -- the homepage is the only English page with real
-    translated counterparts (see src/pages/{ar,ur,bn}/index.astro), so
-    hreflang alternates are only emitted here rather than on every page. */}
-{isHome && locales.filter((l) => l.enabled && l.code !== 'en').map((l) => (
-  <link rel="alternate" hreflang={l.code} href={absoluteUrl(l.href)} />
+{/* v1.x CLOSURE WS2 -- any English page with a real ar/ur/bn translated
+    counterpart declares translationKey (see src/i18n/routes.ts), which
+    drives correct, page-specific, reciprocal hreflang here -- not just on
+    the homepage. x-default and the "en" self-reference both point at this
+    page's own canonical URL. */}
+{translationKey && TRANSLATED_LOCALES.map((code) => (
+  <link rel="alternate" hreflang={code} href={absoluteUrl(localePath(code, translationKey))} />
 ))}
-{isHome && <link rel="alternate" hreflang="x-default" href={absoluteUrl('/')} />}
+{translationKey && <link rel="alternate" hreflang="en" href={canonical} />}
+{translationKey && <link rel="alternate" hreflang="x-default" href={canonical} />}
 
 <meta property="og:type" content={type} />
 <meta property="og:site_name" content={site.name} />

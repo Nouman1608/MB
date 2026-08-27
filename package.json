@@ -23,7 +23,8 @@
     "audit:internal-links": "node scripts/audit-internal-links.mjs",
     "audit:content-integrity": "node scripts/audit-content-integrity.mjs",
     "audit:fonts": "node scripts/audit-fonts.mjs",
-    "audit:all": "npm run audit:metadata && npm run audit:structured-data && npm run audit:redirects && npm run audit:internal-links && npm run audit:content-integrity && npm run audit:fonts && node scripts/test-sitemap-noindex.mjs",
+    "audit:all": "npm run audit:metadata && npm run audit:structured-data && npm run audit:redirects && npm run audit:internal-links && npm run audit:content-integrity && npm run audit:fonts && node scripts/test-sitemap-noindex.mjs && node --experimental-strip-types scripts/test-i18n-routes.mjs",
+  "test:i18n-routes": "node --experimental-strip-types scripts/test-i18n-routes.mjs",
     "postbuild": "pagefind --site dist --output-subdir pagefind"
   },
   "dependencies": {

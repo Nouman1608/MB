@@ -25,7 +25,8 @@
  * (C), status contradiction (D), llms.txt resource-count-claim honesty (E),
  * FX-policy approved-base-rate protection and conversion-drift rejection
  * (L, M, v1.x Closure WS8), assessment-structure weighting-total and
- * legacy/current-collision rejection (N, O, v1.x Closure WS5).
+ * legacy/current-collision rejection (N, O, v1.x Closure WS5), translated-route
+ * canonical/hreflang integrity on the built dist/ output (P, v1.x Closure WS2).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -197,7 +198,7 @@ console.log('\n[H] Sitemap / noindex / robots consistency');
 console.log('  → enforced by scripts/test-sitemap-noindex.mjs (Phase 2, Aug 2026 SEO remediation),');
 console.log('    which fails the build if any sitemap URL renders a noindex robots meta tag. As of the');
 console.log('    isIndexableAcademicPage() policy landing, 27 academic hub pages are correctly noindexed');
-console.log('    and correctly absent from the sitemap -- \"0 noindex pages\" is no longer the expected');
+console.log('    and correctly absent from the sitemap -- \\"0 noindex pages\\" is no longer the expected');
 console.log('    state and was never itself the goal; sitemap/robots agreement is.');
 
 console.log('\n[I] Review-integrity validator (QIGT programme)');
@@ -308,6 +309,28 @@ withMutation(
     label: 'both H431 and H436 marked current simultaneously (same tier, same combination) is rejected',
   },
 );
+
+console.log('\n[P] i18n route checker rejects a broken hreflang/canonical on a built translated page');
+import { existsSync } from 'node:fs';
+const i18nFixtureFile = 'dist/ar/about/index.html';
+if (!existsSync(i18nFixtureFile)) {
+  console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');
+  console.log('    have completed first (same precondition as [H]); it is exercised for real as part of the');
+  console.log('    standing validation gate, which always builds before running this suite.');
+} else {
+  withMutation(
+    i18nFixtureFile,
+    (text) => text.replace(
+      '<link rel="canonical" href="https://marlbridge.com/ar/about/">',
+      '<link rel="canonical" href="https://marlbridge.com/ar/WRONG/">',
+    ),
+    {
+      validatorCmd: 'node --experimental-strip-types scripts/test-i18n-routes.mjs',
+      expectSubstring: 'expected self-referencing',
+      label: '/ar/about/ with a corrupted canonical URL is rejected by test-i18n-routes.mjs',
+    },
+  );
+}
 
 console.log(`\n==============================================================================`);
 console.log(`SUMMARY: ${passed} passed, ${failed} failed`);

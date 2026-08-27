@@ -15,6 +15,13 @@ export interface SeoProps {
   noindex?: boolean;
   breadcrumbs?: readonly Crumb[];
   jsonLd?: readonly object[];
+  /**
+   * v1.x CLOSURE WS2 -- set on any English page that has a real ar/ur/bn
+   * translated counterpart (see src/i18n/routes.ts). Meta.astro uses this
+   * to emit correct, reciprocal hreflang alternates for that specific
+   * page, not just the homepage.
+   */
+  translationKey?: import('../../i18n/routes').TranslationKey;
 }
 
 export const absoluteUrl = (path: string): string =>

@@ -189,6 +189,12 @@ export default defineConfig({
         // entirely client-side and the page has no fixed unique content of
         // its own. Excluded here to keep it out of the sitemap too.
         if (path === '/search/') return false;
+        // v1.x CLOSURE WS2 -- the translated /ar/, /ur/, /bn/ search shells
+        // carry the same noindex tag and the same "no fixed unique content"
+        // rationale as the English /search/ page (Pagefind renders results
+        // entirely client-side) -- excluded from the sitemap for the same
+        // reason, not just the English one.
+        if (/^\/(ar|ur|bn)\/search\/$/.test(path)) return false;
         if (noindexAcademicPaths.has(path)) return false;
         if (archivedContentPaths.has(path)) return false;
         return true;
