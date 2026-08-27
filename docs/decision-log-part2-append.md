@@ -1,246 +1,369 @@
-## D-040 — Business-decisions register (owner input required)
+---
+# MARLBRIDGE v1.x CLOSURE RELEASE
+
+## D-045 — v1.x Closure: Workstream 0 baseline
 
 - **Date:** 2026-08-26.
-- **Workstream:** QIGT programme, task #81.
-- **What this is:** a single consolidated document (`docs/business-
-  decisions-register.md`) listing every question surfaced across this
-  window's workstreams (and one earlier finding, D-010/D-033) that
-  genuinely cannot be answered from the codebase, the live site, or
-  public awarding-body sources -- not a new investigation, a
-  consolidation of gaps already identified and explicitly deferred in
-  D-034 and D-033.
-- **Items registered:** (1) exact scope of the schools' content-licence
-  grant (bulk printing / LMS upload / modification -- D-034); (2)
-  whether the multi-subject and sibling pricing discounts stack
-  (D-034); (3) standard class duration and frequency per subject/level
-  (D-034); (4) cancellation/refund policy, currently unstated anywhere
-  on the site (D-034); (5) billing cadence, accepted payment methods,
-  and any fees beyond the published per-subject rate (D-034); (6)
-  `www.marlbridge.com` not resolving at all rather than redirecting to
-  the bare domain -- a DNS/Cloudflare-dashboard fix outside this repo
-  (D-010, reconfirmed D-033).
-- **Deliberately excluded, with reasoning given in the register itself:**
-  faculty/reviewer role mapping (D-004/D-005/D-006) -- already resolved,
-  owner approved publishing all 19 real teachers; and the `/resources/`
-  index performance issue (D-039) -- an engineering follow-up, not a
-  business decision, tracked in the final QIGT report (#83) instead.
-- **Guardrail check:** no answer was invented or guessed for any item;
-  each entry states only what the site currently does NOT say, and asks
-  the specific question the owner would need to answer to close it.
-- **Status:** delivered as `docs/business-decisions-register.md`; all six
-  items remain `open` pending direct owner input; none block the
-  remaining technical QIGT workstreams (#82, #83).
+- **Workstream:** v1.x Closure Release, WS0 (Baseline).
+- **Repository state:** fresh clone from `origin/main`. `HEAD` = `origin/main` =
+  `4a1aa183a8420d73e6b72f9880bd6b74ca5bb637`, exactly matching the brief's stated "last
+  independently audited commit" -- no divergence, working tree clean. Node v22.23.2, npm
+  10.9.8, Astro `^7.2.2`. `npm ci` clean, 0 vulnerabilities.
+- **Recalculated counts (not carried over from any historical report):**
+  - Built pages: 1,132 (Pagefind's own count of HTML files). Sitemap URLs: 1,130.
+  - Academic matrix: 183 rows -- 160 ACTIVE, 23 NOT_SUPPORTED. **6 boards** currently in the
+    matrix (aqa, cambridge, edexcel, ib, ocr, oxfordaqa) -- confirms the brief's own hint that
+    historical "five-board" figures are stale.
+  - Resources: 731. Articles: 4.
+  - Resource-depth distribution (`academic-coverage-report-v2.mjs`): median 3 resources per
+    ACTIVE combination; **36/160 combinations have exactly 1 resource**; 9/160 have 8+; median
+    resource length 739 words; 0 resources under the 400-word indexability bar (the prior SEO
+    programme's expansion queue is genuinely clear); 535/731 under 900 words.
+  - Translation routes: exactly 3 -- `/ar/`, `/ur/`, `/bn/`, each a single standalone landing
+    page using `LocaleLayout.astro`, which deliberately does NOT reuse the site's real
+    header/footer navigation (confirmed by reading the layout's own doc comment). No other
+    translated route exists anywhere in the repo.
+  - Assessment records: **0**. Grepped the full `src/` tree for `assessmentStatus`/`NO_DATA` --
+    no matches at all. There is currently no assessment data model of any kind, typed or
+    untyped -- Workstream 5 is net-new, not an extension.
+  - Duplicate-scope warnings: **12**, confirmed by a fresh run of
+    `npm run check:duplicate-scope` -- exactly matches the brief's stated count (English x2,
+    Law x2, Physics x6, Sociology x2 pairs).
+  - Hostname behaviour: `www.marlbridge.com` currently resolves and serves byte-identical
+    content to the bare domain with a correct self-referencing canonical (re-confirmed this
+    session, matching the QIGT programme's D-041 finding) -- but it is NOT an actual redirect;
+    both hostnames return 200 directly. The brief requires a genuine 301/308.
+  - Report drift: **already failing at baseline**. Regenerating
+    `docs/reports/academic-coverage-report-v1.2.{json,csv}` from current data produces a real
+    diff against the committed files (47 changed lines in the JSON alone) -- these committed
+    reports are already stale relative to the current repository, confirming Workstream 4's
+    report-drift check is solving a real, currently-unguarded problem, not a hypothetical one.
+  - README: confirmed severely stale on inspection -- still describes the deployment as
+    "Cloudflare Pages" (the repo has since moved to a Cloudflare Worker with static assets, per
+    `src/worker/index.ts`'s own doc comment), references the retired `/learning/<slug>/` route
+    (renamed to `/articles/` in an earlier programme) and the old nested `/resources/<category>/
+    <slug>/` URL shape (flattened to `/resources/<slug>/`), states program-availability values
+    are "placeholders awaiting business confirmation" (resolved long ago), and has zero mention
+    of search, translation, forms, assessment data, or FX policy. Confirms WS7 is a full rewrite.
+- **Architecture notes relevant to later workstreams:** the site deploys as a Cloudflare Worker
+  with static assets (`wrangler.jsonc` -- `main: src/worker/index.ts`, `assets.binding: ASSETS`),
+  not classic Cloudflare Pages Functions, though `functions/api/enquiry.ts` is still the real
+  handler (adapted into the Worker's fetch handler, which delegates every non-`/api/enquiry`
+  request straight to `env.ASSETS.fetch()`). This matters for WS3: a host-based redirect
+  implemented inside the custom Worker's `fetch()` would not run for most requests, since static
+  assets are matched before the Worker's own routing logic for `/`-style paths under the current
+  `not_found_handling`/assets configuration. `public/_redirects` (Cloudflare's declarative,
+  host-aware redirect file, generated by `scripts/generate-redirects.mjs`) is the safer,
+  standard, repository-only mechanism, evaluated by the platform before the Worker or asset
+  serving -- planned approach for WS3, to be verified empirically after deploy per the brief's
+  own instruction not to claim completion while `www` still returns 200.
+- **Clarification checkpoint (per the brief's mandatory clarification rule), asked together,
+  answers recorded:**
+  1. **Translation scope**, given only 3 landing pages currently exist versus the brief's full
+     site-wide ask (~500+ pages across static + all academic hub pages, in 3 languages).
+     Recommended a phased scope: full site chrome (nav/footer/forms/consent) + every static page
+     translated now; academic hub pages get the i18n architecture built and ready, with content
+     translation explicitly deferred to a labelled follow-up release rather than rushed.
+     **Owner approved the recommended phased scope.**
+  2. **Resource-depth target** for WS6 (no approved target existed in the repo -- the script's own
+     "target 8+" console label is a hardcoded aspirational string, not a decision-logged
+     business target). Recommended bringing all 36 single-resource combinations to 3+ (~70-110
+     new resources). **Owner approved this target.**
+  3. **Trial-form field reversal** -- flagged explicitly that this brief's Workstream 1 reverses
+     this same session's earlier D-034 work (which had added Qualification/Board/Subject/
+     Availability to the trial form under the prior QIGT brief). **Owner confirmed: proceed with
+     the reversal**, back to the 5 approved fields (Name/Email/Phone/Country/Message).
+- **Status:** baseline complete. Proceeding to the approved-scope workstreams in this order:
+  WS3 (hostname), WS1 (trial-form reversal), WS9 (duplicate-scope review), WS8 (FX policy), WS7
+  (README), WS5 (assessment model), WS2 (translation, phased scope), WS6 (resource depth), WS4
+  (report regeneration, run last so figures are final), then the complete validation gate.
 
-## D-041 — Full validation gate + before/after comparison (final QIGT gate)
-
-- **Date:** 2026-08-26.
-- **Workstream:** QIGT programme, task #82. Consolidated validation of the combined effect of
-  D-032 through D-040 (every QIGT workstream this window), run fresh against the merged `main`
-  branch at commit `e870812` (not re-run per-workstream results from earlier in the day).
-- **Full validation gate, all green:**
-  - `npm run build`: succeeds. Pagefind indexed 1,132 HTML files, 4 languages, 5 filters (was
-    "Indexing all `<body>` elements, 0 filters" before D-036).
-  - `npx astro check`: 0 errors / 0 warnings / 0 hints (140 files).
-  - `npm run validate:academic` (6 validators): all OK — matrix 183 rows (160 ACTIVE / 23
-    NOT_SUPPORTED, unchanged from baseline), content tagging OK, commercial claims OK,
-    cross-board integrity OK (5/5 rule categories), pricing consistency OK (0 hard-coded fees
-    outside `pricing.ts` across 879 files), review-integrity OK (731 resources + 4 articles
-    checked, 20 reviewer records, 9 `isReviewer: true`).
-  - `npm run audit:all` (6 checks + sitemap-noindex): 0 problems across all. Structured-data
-    audit: 1,131 pages with JSON-LD, 5,353 typed nodes (EducationalOrganization ×1,131,
-    WebSite ×1,131, WebPage ×1,131, BreadcrumbList ×988, Article ×735, Course ×167,
-    FAQPage ×50, Person ×19, Organization ×1). Redirect audit: 976 rules (975 static + 1
-    wildcard), unchanged from baseline. Internal-link audit: 0 broken links, 0 orphan pages,
-    0 generic anchor text, across 1,132 built pages / 1,130 indexable.
-  - `node scripts/test-cross-board-regression.mjs`: OK, all previously-flagged and control
-    pages intact.
-  - `node scripts/test-negative-validation-suite.mjs`: 11/11 passed, including the 5 new
-    review-integrity negative fixtures added under D-032.
-  - `functions/api/__tests__/enquiry-validation.test.mjs`: 16/16 passed (was 11 before the
-    `trial` kind was added under D-034).
-  - `npx tsc --noEmit`: 0 errors. `npm audit`: 0 vulnerabilities. `npx wrangler deploy
-    --dry-run`: succeeds, 3,622 files read from `dist`.
-- **Before/after comparison (Section 11 requirements):**
-  - **Route/page count:** 1,131 built pages at baseline (2026-08-26 morning, commit
-    `e04fbc3...`) → 1,131-1,132 now (audit scripts count this two different ways, both
-    pre-existing behaviour, not a regression) -- net unchanged; the QIGT programme reshaped and
-    fixed existing pages, added exactly one net-new page (`/trial/`, D-034), and removed exactly
-    one page from the indexable set (`/search/`, noindexed under D-033) -- the counts wash out.
-  - **Sitemap URL set:** 1,130 URLs at baseline → **1,130 URLs now**, re-verified directly
-    against the live production sitemap (`sitemap-0.xml`, 1,130 `<loc>` entries), not just the
-    local build. `/search/` confirmed absent (0 matches); `/trial/` confirmed present (1 match).
-  - **Redirect count:** 976 (975 static + 1 wildcard) at baseline → **976, unchanged** — no
-    redirects added or removed this programme; the redirect-inventory audit (D-033) reviewed
-    every existing rule's rationale and found nothing synthetic to remove.
-  - **Indexable / noindexed pages:** baseline had 0 pages with an explicit code-level noindex
-    that were also correctly excluded from the sitemap (the `isIndexableAcademicPage()` policy's
-    27 pages were already excluded pre-QIGT). This programme added exactly one more:
-    `/search/` (D-033) — verified live in production returning
-    `<meta name="robots" content="noindex, follow">` and absent from the production sitemap.
-  - **Titles/descriptions:** 0 missing, 0 duplicate titles, 0 duplicate descriptions at baseline
-    and now (`audit-metadata.mjs`, 1,131 pages both times).
-  - **Structured-data types:** not separately counted at baseline (D-038 confirmed the schema
-    *builders* were already correct, not a counts-based check); now formally captured for the
-    first time as the after-state (see counts above) for future comparison.
-  - **Resource publication states:** 731 resources / 4 articles at both baseline and now (no
-    resources added, removed, or reclassified this programme); reviewer records grew from
-    implicitly-uncounted at baseline to a formally validated 20 records / 9 `isReviewer: true`
-    once D-032's review-integrity validator landed.
-  - **Internal links:** 0 broken, 0 orphans at baseline and now (`audit-internal-links.mjs`);
-    D-036 added new internal `data-pagefind-filter` metadata (not visible links) rather than
-    changing the link graph itself.
-  - **Academic matrix:** 183 rows, 160 ACTIVE / 23 NOT_SUPPORTED at baseline and now — completely
-    unchanged in row count, but D-037 corrected `levelsLabel` display copy for 11 subjects where
-    it had drifted out of sync with the matrix's real ACTIVE combinations (a display-honesty fix,
-    not a matrix change).
-  - **Pricing data:** `src/data/pricing.ts` amounts unchanged throughout (0 amounts touched by
-    D-034's display-bug fix, confirmed by `validate-pricing-consistency.mjs` passing identically
-    before and after).
-  - **Production headers:** re-verified live (not just locally) during this pass —
-    `strict-transport-security: max-age=15552000` present on both `marlbridge.com` and
-    `www.marlbridge.com`; `/search/` correctly serves `noindex, follow` in production, not just
-    in the local build; `/trial/` confirmed live and rendering the new structured fields.
-- **Unplanned discovery during this pass, register corrected:** re-checking `www.marlbridge.com`
-  live (previously found not resolving at all in D-010/D-033) found it now resolves cleanly,
-  returns HTTP 200, serves byte-identical content to the bare domain, and carries a correct
-  self-referencing canonical to `https://marlbridge.com/` — the same safe pattern already
-  verified for the other apex/protocol variants. Whatever caused the earlier timeout has
-  resolved itself (DNS propagation or a Cloudflare-side change, not something in this
-  repository). `docs/business-decisions-register.md` item 6 updated in place to reflect this —
-  downgraded from "action needed" to an optional, non-blocking tidiness recommendation, with the
-  correction dated and explained rather than silently overwritten.
-- **Guardrail check:** every "after" figure in this entry was measured fresh this pass (local
-  build + live production fetch), not carried over from an earlier workstream's own report
-  without re-verification.
-- **Status:** full validation gate green on `main` at commit `e870812`; before/after comparison
-  complete; one register item corrected based on fresh live evidence.
-
-## D-042 — Deployment verification + final evidence-based report (programme close-out)
+## D-046 — v1.x Closure WS3: www.marlbridge.com -> marlbridge.com, 301
 
 - **Date:** 2026-08-26.
-- **Workstream:** QIGT programme, task #83 (final task).
-- **Deployment verification:** rather than assume the auto-deploy pipeline (push to `main` ->
-  Cloudflare Pages) succeeded, fetched a representative sample of production URLs live and
-  checked each against the specific fix it is meant to demonstrate: `/pricing/` (no duplicated
-  currency codes), `/about/` (old blanket review claim absent), `/legal/terms/` (schools carve-out
-  live, dated), `/trial/` (new structured form live), `/search/` (serves `noindex, follow` and is
-  absent from the live production sitemap -- 0 of 1,130 `<loc>` entries in `sitemap-0.xml` match
-  "search", 1 matches "trial"), the homepage/`/resources/` footer nav (Past Papers/Exam
-  Preparation absent, Practice Questions present, `data-pagefind-body` present), `/llms.txt` (no
-  false past-papers claim), a resource page (`data-pagefind-filter` attributes and the
-  link-underline fix both live), `/subjects/accounting/` (corrected label live), the compiled CSS
-  bundle (`--color-gold-600:#7a5e10`, `--color-on-navy-mute:#9fadc2`, confirming the accessibility
-  fix values are exactly what shipped), `robots.txt`, and HSTS headers on both `marlbridge.com`
-  and `www.marlbridge.com`. Every check passed against the live site.
-- **Final report:** `docs/reports/qigt-final-report-2026-08-26.docx` -- a 15-section report
-  (executive summary; scope/method/ground rules; baseline; one section per workstream D-032
-  through D-039; business decisions requiring owner input; full validation gate + before/after
-  comparison; deployment verification; guardrails held/deliberately not changed; closing summary
-  and recommendations) written for the owner, covering every real finding and fix from this
-  programme with no invented facts. Rendered to PDF and visually reviewed page-by-page before
-  delivery to confirm correct formatting (headings, tables, page breaks) rather than trusting the
-  generation script alone.
-- **Guardrail check:** the report states only what was directly verified this programme (repeating
-  the specific evidence -- measured contrast ratios, real diff counts, live HTTP checks -- rather
-  than summarising claims from earlier reports without re-confirmation); the one correction found
-  mid-programme (the `www.marlbridge.com` DNS finding resolving itself) is stated plainly as a
-  correction, not silently smoothed over.
-- **Status:** implemented on `feature/qigt-final-report`, deployment independently re-verified
-  live in production, report delivered. This is the final entry of the QIGT programme (D-032
-  through D-042); task #83 and the full QIGT task list are now complete.
+- **Workstream:** v1.x Closure Release, Workstream 3 (hostname redirect).
+- **Investigation:** confirmed via current Cloudflare documentation (fetched live, not from
+  memory) that `_redirects` explicitly does NOT support domain-level redirects (Cloudflare's own
+  "Advanced redirects" support table lists it as unsupported, recommending Bulk Redirects --
+  dashboard/API only -- instead). Also confirmed the project deploys as a Cloudflare Worker with
+  static assets (not classic Pages), and that Workers Assets' default routing
+  (`run_worker_first: false`, the prior setting) serves any request matching a built file
+  directly, bypassing the Worker's own `fetch()` entirely -- meaning a host check placed in
+  `fetch()` alone would only ever see true 404s, never a real page request like `/` or
+  `/pricing/` on `www.marlbridge.com`.
+- **Fix implemented (repository-only, no Cloudflare dashboard step needed):**
+  1. `wrangler.jsonc`: added `"run_worker_first": true` to the `assets` block, so the Worker's
+     `fetch()` now runs for every request rather than only `/api/enquiry` and 404 misses.
+  2. `src/worker/index.ts`: added a host check at the top of `fetch()` -- if the request's
+     hostname is exactly `www.marlbridge.com`, reassign the URL's hostname to `marlbridge.com`
+     and return a single 301 via `Response.redirect()`. Path and query string are preserved
+     unmodified (only `url.hostname` is changed); cannot loop, since the check only ever matches
+     the literal `www` host, never the apex it redirects to.
+- **Tradeoff stated plainly, not silently shipped:** `run_worker_first: true` means every request
+  to the entire site now round-trips through this Worker's JavaScript before static assets are
+  served, rather than only `/api/enquiry` and 404s as before. This is a small, well-understood
+  per-request cost (Cloudflare's own docs list "authentication checks" and "A/B testing" as
+  common, supported uses of this exact setting) -- accepted here in exchange for a real,
+  repository-only fix that does not depend on Cloudflare dashboard access this session does not
+  have.
+- **Automated test:** `src/worker/__tests__/index.test.mjs` (new), 8 cases against the real
+  `fetch()` export with a stubbed `ASSETS` binding -- covers the 301 + exact Location header, path
+  and query-string preservation, the pricing-page path specifically (one of the brief's named
+  verification paths), no-loop (redirecting the Location header again does not itself redirect),
+  the bare apex domain falling through to assets untouched, a www request never touching the
+  asset binding at all, `/api/enquiry` still routing correctly on the apex domain, and an
+  unrelated third-party host (e.g. a preview domain) being left alone. All 8 pass.
+- **Not yet verified against production** -- this entry documents the repository-side
+  implementation; live verification (does `www.marlbridge.com` actually now return a 301 in
+  production, for `/`, `/pricing/`, `/authors/<slug>/`, `/resources/<slug>/`, and a URL with a
+  query string) happens after this release deploys, per the brief's explicit instruction not to
+  claim completion while `www` still returns 200. Recorded here as implemented-pending-
+  verification; final disposition in the v1.x Closure final report.
+- **Fallback, if production verification finds `www` still returns 200:** the evidence-based
+  assumption underlying this fix is that `www.marlbridge.com` is already routed to this exact
+  Worker deployment (inferred from both hostnames serving byte-identical content pre-fix, which
+  is only possible if they already share the same asset store). If that assumption turns out to
+  be wrong, the correct fallback -- confirmed against current Cloudflare documentation -- is a
+  Cloudflare Bulk Redirect: **Dashboard > Bulk redirects > Create Bulk Redirect List** (one
+  entry: Source `https://www.marlbridge.com/*` with wildcard path matching enabled, Target
+  `https://marlbridge.com/` with the matched path appended, Status 301, Preserve query string =
+  On) **> Continue to Redirect Rules > Save and Deploy**. This is dashboard-only; if needed, it
+  will be asked of the owner explicitly rather than silently left undone.
+- **Status:** implemented on `release/v1.x-closure`; full validation gate to be re-run at the end
+  of this release; production verification pending deploy.
 
-## D-043 — Business-decisions register: all five open items answered and implemented
-
-- **Date:** 2026-08-26.
-- **Workstream:** post-QIGT follow-up, at the owner's direct request ("ask me questions from the
-  document i will give you the answers").
-- **Method:** asked the owner each of the five open items from `docs/business-decisions-register.md`
-  directly, one clarifying round-trip where the first answer needed follow-up (discount stacking:
-  the owner's first answer restated the existing multi-subject-discount rule rather than confirming
-  whether it combines with the sibling discount, so a second, more specific question was asked).
-  Every fact below is the owner's own stated answer, not inferred or assumed.
-- **Answers received and implemented:**
-  1. **Discount stacking:** the 20% multi-subject discount (3+ subjects) and the 10% sibling
-     discount (up to 2 siblings) combine when a family qualifies for both; both apply to group
-     classes only, never one-to-one (already separately stated on the one-to-one FAQ). Added
-     `PRICING_TERMS.discountsStack` to `src/data/pricing.ts`; updated the pricing page's discount
-     FAQ answer and the "Discounts and trial" section intro to state this explicitly.
-  2. **Schools' licence scope:** bulk printing for a whole year group and LMS upload (Google
-     Classroom, Moodle, etc.) are both permitted; modifying, relabelling or rebranding the
-     material is not -- it should be used as published. Updated `/schools/` with a new clarifying
-     paragraph and `/legal/terms/`'s class-use carve-out to name both the permitted uses and the
-     modification boundary explicitly.
-  3. **Class duration/frequency:** group classes run 45-50 minutes, 3 times a week per subject;
-     one-to-one classes run 1 hour, with the number of classes left to the student/family (no
-     fixed frequency). Does not vary by qualification level. Added
-     `PRICING_TERMS.classFormat` and a new pricing-page FAQ entry.
-  4. **Cancellation/refund:** billing is monthly, starting once the free trial class has taken
-     place; a family can cancel or pause at any time, the month already paid for is not refunded,
-     and there is no further billing once cancelled. Added `PRICING_TERMS.billing` and
-     `PRICING_TERMS.cancellationPolicy`, plus two new pricing-page FAQ entries.
-  5. **Payment methods/fees:** bank transfer and international wire transfer are accepted; there
-     is no separate registration/enrolment fee beyond the published per-subject rate. Added
-     `PRICING_TERMS.paymentMethods` and `PRICING_TERMS.enrolmentFee`, surfaced in the same new FAQ
-     entry as item 4's billing cadence.
-- **Guardrail check:** every new fact traces to the owner's own direct answer in this
-  conversation, none inferred; all new pricing-adjacent facts were added to `src/data/pricing.ts`
-  (the single typed source of truth every pricing page already reads from) rather than
-  hard-coded on any page, consistent with the file's own stated rule that "every page that shows
-  a price MUST read from here"; `validate-pricing-consistency.mjs` re-ran clean afterward (0
-  hard-coded fee values outside `pricing.ts` across 879 files, same as before this change).
-  `docs/business-decisions-register.md` updated in place with each answer and exactly where it
-  now appears live, rather than left stating the questions as still open.
-- **Status:** implemented on `feature/qigt-business-decisions-answered`, full validation gate
-  green (build, astro check, `validate:academic`, `audit:all`, negative-validation-suite [11/11],
-  `tsc --noEmit`, `wrangler deploy --dry-run`).
-
-## D-044 — /resources/ index page performance fix + regression testing
+## D-047 — v1.x Closure WS1: simplify trial form to the 5 approved fields
 
 - **Date:** 2026-08-26.
-- **Workstream:** post-QIGT follow-up, at the owner's direct request ("after that you can do the
-  regression testing as suggested"), closing out the one performance issue D-039 deliberately
-  left as a documented recommendation rather than a same-session fix.
-- **The problem (recap from D-039):** `/resources/` renders every published resource card for
-  every subject into the DOM up front (up to 257 cards in the largest type section), with
-  client-side filtering toggling the `hidden` attribute rather than removing/adding elements.
-  Measured cost: Performance 71, Total Blocking Time 1,370ms, ~5,200 DOM nodes, 3.7s of
-  style-and-layout work on first paint (`mainthread-work-breakdown`).
-- **Fix chosen:** `content-visibility: auto` (with a `contain-intrinsic-size` placeholder) applied
-  to each `[data-subject-group]` block via a scoped `<style>` block in
-  `src/pages/resources/index.astro`. This tells the browser to skip layout/paint work for a
-  subject group until it is near the viewport -- a CSS-only, additive hint (harmlessly ignored in
-  browsers that don't support it; supported in all evergreen browsers) specifically recommended
-  by the Chrome/web.dev team for exactly this "long list of cards" scenario, and explicitly
-  documented as compatible with search-engine indexing (the built static HTML is unchanged --
-  Pagefind and crawlers read the full markup regardless of this CSS property). Deliberately not
-  the riskier alternatives considered in D-039 (pagination, JS virtualization, lazy DOM
-  insertion) -- those would have meant restructuring the existing, working, tested filter script;
-  this fix changes zero JavaScript, zero DOM structure, and zero filter behaviour.
-- **Regression testing performed (not assumed):**
-  - Full validation gate re-run clean: build, `astro check` (0/0/0), `validate:academic` (all 6
-    validators), `audit:all` (all 6 checks + sitemap-noindex), `npx tsc --noEmit`, `npm audit` (0
-    vulnerabilities), `wrangler deploy --dry-run`, negative-validation-suite (11/11).
-  - A dedicated Playwright functional test (`/tmp/pwtest/test-filters.mjs`, not committed --
-    scratch verification, not a permanent project fixture) drove a real headless browser against
-    the built preview site and confirmed, on the 257-card Mathematics/study-guides section:
-    initial state shows all 23 subject groups and 257 cards; selecting a subject narrows to
-    exactly 1 visible group matching that subject; the "Clear filters" button appears once
-    filtered and correctly restores all groups on click; selecting a level hides non-matching
-    cards and every still-visible card actually has that level; `content-visibility: auto` is
-    confirmed applied via `getComputedStyle`; and the last (previously most implicitly
-    deprioritized) subject group has real, nonzero rendered height once scrolled into view,
-    confirming `content-visibility` does not silently drop or corrupt content -- 12/12 checks
-    passed.
-  - Fresh Lighthouse mobile runs against the local preview build: **Performance 71 -> 97**,
-    **Total Blocking Time 1,370ms -> 50ms**, **mainthread-work-breakdown 3.7s -> 1.1s**, CLS
-    stayed at 0 (confirming the `contain-intrinsic-size` placeholder didn't introduce layout
-    shift), LCP/FCP/Speed Index unchanged or slightly improved. Accessibility re-confirmed at
-    100/100 (unchanged from D-039 -- this fix touched no color, markup semantics, or focus
-    order).
-- **Guardrail check:** no JavaScript changed, no DOM structure changed, no filter behaviour
-  changed (proven by the Playwright test, not assumed), no content removed from the built HTML
-  (Pagefind/crawlers see the same markup as before); the fix is a single, scoped, additive CSS
-  rule.
-- **Status:** implemented on `feature/qigt-resources-performance`, full validation gate green,
-  functional regression test 12/12 passed, before/after Lighthouse confirms the fix. This closes
-  the one outstanding recommendation from the QIGT final report (D-042).
+- **Workstream:** v1.x Closure Release, Workstream 1.
+- **What changed:** removed Qualification, Exam board, Subject and Availability from the trial
+  enquiry flow -- reversing the QIGT trust workstream's earlier addition of these same fields
+  (Aug 2026, D-034), per this release's explicit approved decision: "Student enquiry forms must
+  contain only: Name, Email, Phone, Country, Message." Every layer updated together:
+  - `functions/_lib/enquiry-validation.ts`: `trial`'s `FIELDS_BY_KIND` entry now matches
+    `student`/`tutoring` exactly (`required: name, email, country, message`; `optional: phone`).
+    Since `validateEnquiry()` only ever reads fields listed in a kind's own spec, this alone
+    makes the four deprecated fields silently discarded server-side -- a client submitting them
+    anyway (stale cached page, replayed request, or a scripted bypass of the current HTML) gets
+    no error and no acceptance of that data; it is simply never read from the raw payload.
+  - `src/components/forms/EnquiryForm.astro`: removed the four `kind === 'trial'` conditional
+    `FormField`s and the unused `trialQualifications`/`trialBoards`/`trialSubjects` option lists
+    (and their `QUALIFICATIONS`/`BOARDS`/`SUBJECTS` imports). Replaced the three kind-specific
+    inline hint ternaries with one `MESSAGE_HINT` lookup so student/tutoring/trial all share
+    the same five-field layout with only the message hint differing per kind. New trial hint
+    tells the student to include, in their message: programme or qualification, exam board,
+    subject, level, preferred days/times and timezone, and what support they need -- covering
+    every item the brief named.
+  - `src/pages/trial/index.astro`: page copy (title, description, lead, FAQ) previously described
+    the removed dropdowns ("Tell us the qualification, board and subject", "Choose 'Not sure /
+    general support' for subject"); rewritten to match the current message-based flow.
+  - `src/pages/legal/privacy.astro`: "What we collect" list previously said "The program and
+    subject you're asking about, if selected" (describing the removed dropdown); corrected to
+    describe the current reality -- these details, when given, are part of the free-text message.
+  - `functions/api/__tests__/enquiry-validation.test.mjs`: replaced the three tests that proved
+    the old dropdown contract with five that prove the current one -- trial succeeds with just
+    the five fields; trial rejects missing required fields identically to student/tutoring; a
+    submission that includes the four deprecated fields anyway has them silently absent from
+    `validateEnquiry()`'s returned data (not just unused -- structurally impossible to smuggle
+    through); the rendered email body never includes them even if present in the data object
+    (defence in depth); and `ALLOWED_FIELDS_BY_KIND.trial` is asserted structurally identical to
+    `.student` and `.tutoring`. 18/18 tests pass (was 16; net +2, three removed, five added).
+    `scripts/test-negative-validation-suite.mjs`'s stale "16 cases" comment references updated to
+    18.
+  - Client-side validation, analytics event metadata (`generate_lead` only ever sent
+    `enquiry_kind`, never field-specific data), and `submit.ts` (field-agnostic, posts whatever
+    `FormData` the form produces) needed no change -- confirmed by direct inspection, not assumed.
+  - School-partnership form (`kind="school"`) untouched, per the brief's explicit instruction --
+    its `school`/`role` fields identify the enquiring organisation, not enrolment metadata.
+- **Verification:** built `/trial/` page's HTML directly inspected -- the only `name=` attributes
+  present are `name`, `email`, `phone`, `country`, `message`, `website` (honeypot); zero
+  occurrences of `qualification`/`board`/`subject`/`availability` as field names (the only
+  matches for those words are the plain-text message-hint copy, not form controls). `npx tsc
+  --noEmit` and `npm run build` both clean.
+- **Status:** implemented on `release/v1.x-closure`, all acceptance criteria met and directly
+  verified (not assumed): live HTML contains only the five approved fields; deprecated fields
+  absent from the rendered form; deprecated fields structurally cannot be accepted as trusted
+  server-side data; message hint present and complete; Turnstile/honeypot/Resend paths untouched;
+  automated tests prove the allowed-field contract (18/18 passing).
+
+## D-048 — v1.x Closure WS9: fresh review of the 12 duplicate-scope warnings
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, Workstream 9.
+- **Task:** `npm run check:duplicate-scope` flags resource pairs that declare an identical
+  official syllabus scope, without judging whether the underlying content is actually duplicated.
+  A prior audit (2026-08-23, D-010) had reviewed these same 12 groups and left all 12 alone. This
+  release requires a fresh review -- every one of the 12 was re-read from scratch on 2026-08-26.
+- **Result:** 10 of 12 groups confirmed genuinely different content (2 English A Level Language
+  groups, 1 Law A Level practice-questions group, 5 Physics O Level groups, 1 Sociology IGCSE
+  practice-questions group) -- no shared question, answer, or substantial passage found. 2 of 12
+  groups were real duplicates (both Law and Sociology revision-notes pairs, independently
+  condensing the exact same underlying study-guide on separate content-generation passes).
+- **Fix applied to both real duplicates -- merge, not delete-and-forget:**
+  `a-law-english-legal-system-revision-notes.md` kept as canonical, its only gap versus the
+  retired file merged in; `law-english-legal-system-revision-notes.md` retired.
+  `igcse-sociology-methods-inequality-revision-notes.md` kept as canonical, its only gap merged
+  in; `sociology-research-methods-revision-notes.md` retired. Both retired files 301-redirected
+  via `CONSOLIDATED_RESOURCES` in `scripts/generate-redirects.mjs`. Both practice-questions
+  siblings' "Related:" links updated to point at the surviving canonical resource.
+- **Checker made a real gate:** `check-duplicate-resource-scope.mjs` rewritten so any group NOT
+  present in its own `REVIEWED_LEGITIMATE` list fails the build -- previously always exited 0 and
+  wasn't wired into `validate:academic` at all. Now wired in as the last step.
+- **Regression fixtures added** ([J]/[K], 13 cases total, up from 11).
+- **Verification:** `npm run check:duplicate-scope` reports exactly 10 reviewed groups, exits 0;
+  `npm run validate:academic` passes end to end; `npm run build`, `npm run audit:all` (0 broken
+  links, 0 orphans), negative suite 13/13 all pass; `npm audit` 0 vulnerabilities.
+- **Status:** all 12 warnings classified with recorded evidence; both genuine defects fixed
+  (merged, redirected, links updated); checker now fails the build on any future unreviewed group.
+
+## D-049 — v1.x Closure WS8: FX-rate policy
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, Workstream 8.
+- **Problem:** `ONE_TO_ONE_PRICING`'s eight non-Pakistan rows are currency conversions of the
+  owner-approved Pakistan PKR rate (D-012), applied once and left as fixed prices, with nothing
+  recording which exchange rates produced them or flagging staleness/drift.
+- **What was built:** `src/data/fx-policy.ts` (typed FX_RATES snapshot, fetched live from
+  `open.er-api.com` on 2026-08-26, `FX_STALENESS_LIMIT_DAYS = 120`, `FX_TOLERANCE_PERCENT = 8`);
+  `scripts/validate-fx-policy.mjs` (3 build-failing checks: approved base rates match a hardcoded
+  constant, FX snapshot age vs staleness limit, published converted amounts vs current implied
+  rate within tolerance); wired into `npm run validate:academic`; `docs/fx-rate-policy.md`
+  (plain-language policy statement); regression fixtures ([L]/[M]).
+- **Verified today's actual numbers:** all 16 published one-to-one figures (8 currencies x 2
+  tiers) sit between 0.0% and 4.3% drift -- comfortably inside the 8% tolerance, no reprice
+  currently warranted. No base price changed -- this workstream is infrastructure only.
+- **Verification:** `validate-fx-policy.mjs` passes standalone and inside `validate:academic`;
+  `npx tsc --noEmit` clean; `npm run build` clean; negative-validation-suite 15/15.
+- **Status:** FX-rate policy complete -- typed, transparent, with a staleness validator and tests
+  protecting the approved base rates.
+
+## D-050 — v1.x Closure WS5: model assessment information
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, Workstream 5.
+- **Baseline:** assessment structure (paper count, duration, marks, weighting, tiering) was not
+  modeled ANYWHERE in the repository -- a prior coverage report found `assessmentStatus` NO_DATA
+  for all 139 rows because no field or file modeled it at all.
+- **Scope clarification (owner-approved via AskUserQuestion):** build the complete typed model
+  and every validator now, for ALL future records, and populate real, officially-sourced records
+  now only for a bounded first batch (12 combinations), with every other combination explicitly
+  marked NOT_YET_MODELED. Remaining combinations are future work, outside this release.
+- **What was built:** `src/data/academic/assessments.ts` (typed `Assessment`/`AssessmentComponent`
+  model, closed `AssessmentTier` union, `alternativeGroup` mechanism); `scripts/validate-
+  assessments.mjs` (7 build-failing checks); bounded first batch of 12 combinations / 14 records
+  (Cambridge IGCSE Mathematics 0580, Chemistry 0620, Biology 0610; Cambridge A Level Chemistry
+  9701, Physics 9702, Economics 9708, English Literature 9695; Cambridge IGCSE Islamiyat 0493;
+  Cambridge IGCSE/O Level Urdu 0539/3247/3248; OxfordAQA IGCSE Pakistan Studies 9236; OCR A Level
+  Business H431/H436 legacy/current transition), independently spot-checked against 4 re-fetched
+  official PDFs; `src/pages/boards/[board]/[qualification]/[subject].astro` gained a new
+  "Assessment structure" section (real per-paper table when modeled, an honest "not yet modeled"
+  note with a link to the official spec when not); regression fixtures ([N]/[O], 17 cases total).
+- **Verification:** `npx tsc --noEmit` clean; `npm run validate:academic` passes, reporting
+  12/160 modeled; `npm run build` clean; `npm run audit:all` clean; negative suite 17/17; `npm
+  audit` 0 vulnerabilities.
+- **Status:** typed model, 7 build-failing validators, real bounded-batch data, real on-page
+  display replacing universal NO_DATA. Remaining 148 ACTIVE combinations are a tracked, visible
+  gap, explicitly out of this release's bounded scope.
+
+## D-051 — v1.x Closure WS2: translation scope boundary
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, WS2 (Translation), scope clarification.
+- **Owner decision (via AskUserQuestion):** translate the ~20 fixed, hand-authored pages only
+  (home, about, contact, pricing, schools, trial, tutoring, search, 5 legal pages, 7 directory
+  pages) in ar/ur/bn. Every collection-driven detail page (programs/subjects/authors/resources/
+  articles/[slug], levels/[qualification]/, and both 160-row academic hub matrices) remains
+  English-only, with the i18n architecture ready to extend later. Directory pages ARE translated
+  (heading/lead/labels), showing the real live English entity list with an explicit "these linked
+  pages are in English" note.
+- **Rationale:** matches the brief's "site chrome + all static pages" language while keeping the
+  release's translation workload bounded and avoiding scope creep into the two 160-row hub
+  matrices and resource-count concerns WS6 already treats separately.
+
+## D-052 — v1.x Closure WS2: translation implementation
+
+- **Date:** 2026-08-26.
+- **Workstream:** v1.x Closure Release, WS2 (Translation), full implementation, following D-051's
+  scope decision.
+- **Architecture built:** `src/i18n/routes.ts` (TranslationKey union, EN_PATH map, localePath()
+  helper -- single source of truth for every translated route), `src/i18n/nav.ts` (NAV_COPY per
+  locale), `src/i18n/pages/{marketing,legal,directories}.ts` (translated content data),
+  `src/layouts/LocaleLayout.astro` (rewritten shared layout for all 19 translated pages, real
+  nav+footer), `src/components/i18n/TranslatedProse.astro` (shared prose renderer), `SeoProps`
+  gained `translationKey` for per-page hreflang (fixing a latent defect where only the homepage
+  emitted correct hreflang), 17 English page files updated to pass their `translationKey`,
+  `EnquiryForm.astro`/`FormField.astro` gained i18n label props, `astro.config.mjs` sitemap filter
+  fixed to exclude locale search shells, `scripts/test-i18n-routes.mjs` (new validator, 76 pages
+  checked), `test-negative-validation-suite.mjs` category [P] added.
+- **Verification:** `npm run build` succeeds, page count +57 (19 routes x 3 locales); `npm run
+  audit:all` clean (1,182/1,182 sitemap URLs indexable, i18n route check passing for all 76
+  checked pages); negative suite 18/18; `npm audit` 0 vulnerabilities.
+- **Deferred, tracked:** the two 160-row academic hub matrices and every collection-item detail
+  page remain English-only per D-051; backend validation-error strings remain English; human/
+  native-speaker review of all translated copy remains outstanding (disclosed on every translated
+  page's visible banner).
+
+## D-053 — v1.x Closure WS6: resource depth (36 single-resource combinations)
+
+**Context.** D-045's WS0 baseline flagged 36 ACTIVE board+qualification+subject combinations
+with exactly one resource against the site's own established norm of a study-guide accompanied
+by revision-notes and practice-questions siblings on the same verified topic. WS6's brief: bring
+all 36 to 3+ resources. Of the 36, 15 are non-IB (Cambridge/Edexcel/AQA/OxfordAQA) and 21 are IB
+(16 DP + 5 MYP total, including the 2 DP combinations -- Economics and Physics -- that already
+had a verified topic map before this workstream began).
+
+**Research, not guessing.** For every non-IB combination, the added content is grounded strictly
+in facts already verified and sourced in this repo: either `src/data/academic/syllabus-topics.ts`
+for the 12 combinations whose sole existing resource was already a topic-specific `study-guides`
+page, or the already-cited official specification facts stated in the existing resource's own
+body text for the 3 combinations whose sole existing resource was a `subject-guides` overview
+(AQA GCSE English Language 8700, AQA GCSE History 8145, AQA A Level Sociology 7192).
+
+**IB source-access constraint (identified and disclosed, not silently worked around).** Full IB
+subject guides sit behind a password-protected teacher-only portal or require purchase; only
+short public "subject brief" PDFs are freely accessible. Reflected honestly as
+`topicMapStatus: 'being-verified'` for 19 of 21 IB combinations -- only Economics and Physics DP
+are `'published'`. Economics/Physics got a full 3-resource treatment; the remaining 19 (14 DP + 5
+MYP) each got one additional `revision-notes` companion condensing already-sourced assessment-
+model facts -- zero new facts, landing at 2 resources not 3+, an honest disclosed partial result.
+
+**Total new content:** 53 new resource files (30 for the 15 non-IB combinations, 4 for
+Economics/Physics DP, 19 assessment-recall companions for the remaining IB set).
+
+**Errors found and fixed (self-caught, pre-commit):** three new O Level (Cambridge 7100/4040)
+resource titles collided verbatim with pre-existing IGCSE-level (0479) sibling titles -- caught
+by `npm run audit:metadata`, fixed with qualification+code qualifiers. One new resource linked to
+a placeholder slug that doesn't exist -- caught by `npm run audit:internal-links`, fixed.
+
+**Verification:** `npm run validate:academic` passes; `npm run build` succeeds; `npm run
+audit:all` passes with 0 problems; `node scripts/test-negative-validation-suite.mjs` 18/18. Fresh
+`academic-coverage-report-v2.mjs` run confirms 0/160 ACTIVE combinations now have exactly 1
+resource (down from 36 at baseline).
+
+## D-054 — v1.x Closure WS4: regenerate and consolidate reports
+
+**Scope.** Deliberately run last in this release, after WS2 (translation) and WS6 (resource
+depth) had both already changed the data several standing reports describe.
+
+**Regenerated:** `docs/reports/academic-coverage-report-v1.2.{json,csv,md}` (re-run via
+`scripts/academic-coverage-report-v2.mjs`; `zero-resource` and `exactly-1-resource` both now read
+0/160). `docs/reports/seo-page-classification.{md,json}` (regenerated using the same
+classification logic documented in the original file's own note, computed fresh from the current
+coverage-report JSON).
+
+**Bug fixed in the process (a stale-data fix, not a new feature):** `academic-coverage-report-v2.mjs`'s
+`indexable` column was hardcoded `true` for every row, stale since Phase 1 of the Aug 2026 SEO
+remediation shipped a real `isIndexableAcademicPage()` policy. Fixed by loading
+`QUALIFYING_RESOURCE_TYPES`/`SUBSTANTIAL_WORD_THRESHOLD` live from `indexability.ts` and
+reimplementing the same sum-and-compare logic locally, so the two locations can never silently
+diverge. Added a `totalQualifyingWordCount` column. Verified: 0/160 combinations are below the
+real indexability bar.
+
+**Deliberately not touched (out of scope for report *regeneration*):**
+`docs/reports/review-priority-queue-2026-08-26.md` (judgment-based tier assignments, not a
+mechanical recount -- resource-count figure now stale, disclosed here rather than silently left
+to look current). `docs/reports/v1.x-final-report.md`, `qigt-*`, `lighthouse-*`, `phase11-*`
+reports (dated historical artifacts from earlier, separate sessions).
+
+**Verification:** `npm run build` clean; `npm run validate:academic` clean; `npm run audit:all`
+clean.
