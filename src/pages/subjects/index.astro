@@ -12,6 +12,7 @@ const countPairs = await Promise.all(subjects.map(async (s) => [s.id, (await res
 const counts = Object.fromEntries(countPairs);
 ---
 <PageLayout
+  translationKey="subjects"
   title="Subjects"
   description="Mathematics, sciences, computer science, economics, accounting, business, English and languages — each subject hub gathers topics, study guides and practice material."
   path={routes.subjects}
