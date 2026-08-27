@@ -2655,3 +2655,36 @@ clean.
   NO_ASSESSMENT_RECORD count. All three fetched papers' assessment overview text has already been
   extracted and independently verified this session, so no re-fetch will be needed once a
   modeling decision is made; only the schema/convention question blocks completion.
+
+
+## D-056 — v2.0 WS5: Pearson Edexcel International A Level Law -- qualification code discrepancy (YLA11 vs YLA1)
+
+- **Date:** 2026-08-28.
+- **Workstream:** v2.0 Mega Programme, Workstream 5 (Pearson Edexcel assessment intelligence).
+- **What was found:** while researching the assessment structure of Pearson Edexcel
+  International Advanced Level Law for `src/data/academic/assessments.ts`, the official
+  specification PDF (`Pearson-Edexcel-IAL-Law-Specification.pdf`) states the qualification's own
+  cash-in code as **YLA1** on its title page ("Pearson Edexcel International Advanced Level in
+  Law (YLA1)"), and every paper code, mark scheme filename, and past-paper reference found (e.g.
+  `YLA1_02_rms_20210604.pdf`, paper codes `YLA1/01` and `YLA1/02`) consistently uses **YLA1**, not
+  **YLA11**.
+- **However**, `src/data/academic/syllabuses.ts`, `src/data/academic/syllabus-topics.ts`, and at
+  least three published resource content files (`a-law-underlying-principles-practice.md`,
+  `a-law-underlying-principles-revision-notes.md`, `a-level-edexcel-law-underlying-principles.md`)
+  already use **YLA11** consistently -- including in a baked-in topic slug
+  (`paper-1-underlying-principles-and-english-legal-system-yla11`) that would need a careful,
+  coordinated rename (and likely a redirect) if corrected, not a find-and-replace.
+- **Decision:** for this WS5 assessment record, `code: 'YLA11'` was kept to match the existing
+  `syllabuses.ts` entry (required for the assessment validator's code-consistency check to pass),
+  rather than silently introducing a second, conflicting code for the same combination. The
+  discrepancy is instead flagged explicitly in the new assessment record's own `notes` field, and
+  recorded here for whoever next touches this combination's content or topic slugs.
+- **What would be needed to close this:** a deliberate, scoped correction pass across
+  `syllabuses.ts`, `syllabus-topics.ts`, the three resource content files' frontmatter `code` and
+  `topic` slug fields, and a check for any route/URL that embeds the `yla11` slug fragment,
+  updating all of them together to **YLA1** in one coordinated change -- out of scope for this
+  assessment-intelligence workstream, which only adds a new record and must not silently rewrite
+  unrelated, already-published site content and slugs as a side effect.
+- **Status:** genuinely a pre-existing data inaccuracy, not something this workstream introduced
+  or is silently working around -- tracked here per the standing instruction not to leave
+  anything unverified or misrepresented.
