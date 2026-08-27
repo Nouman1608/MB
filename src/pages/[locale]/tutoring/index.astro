@@ -1,0 +1,27 @@
+---
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import TranslatedProse from '../../../components/i18n/TranslatedProse.astro';
+import EnquiryForm from '../../../components/forms/EnquiryForm.astro';
+import { MARKETING_COPY } from '../../../i18n/pages/marketing';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES, localePath } from '../../../i18n/routes';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = MARKETING_COPY.tutoring[locale];
+const nav = NAV_COPY[locale];
+---
+<LocaleLayout locale={locale} translationKey="tutoring" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <TranslatedProse sections={copy.sections} dir={nav.dir} />
+  <div class="mx-auto max-w-[72ch] px-[var(--spacing-gutter)] pb-6">
+    <a href={localePath(locale, 'pricing')} class="inline-flex min-h-11 items-center justify-center rounded-sm border border-navy-800 px-6 py-3 text-[15px] font-medium text-navy-800 hover:bg-navy-800 hover:text-ivory">
+      {nav.primaryNav.find((i) => i.key === 'pricing')?.label}
+    </a>
+  </div>
+  <div class="mx-auto max-w-[72ch] px-[var(--spacing-gutter)] pb-[clamp(40px,5vw,72px)]">
+    <EnquiryForm kind="tutoring" labels={nav.form} />
+  </div>
+</LocaleLayout>

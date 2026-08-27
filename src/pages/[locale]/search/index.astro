@@ -1,0 +1,48 @@
+---
+/**
+ * v1.x CLOSURE WS2 -- translated search shell. Noindexed for the same
+ * reason as the English /search/ page: Pagefind renders results entirely
+ * client-side into an empty div a crawler never populates, so there is no
+ * fixed unique content to index (see src/pages/search/index.astro's own
+ * rationale). No translationKey/hreflang is set here for the same reason
+ * -- hreflang on a noindexed utility page adds no value.
+ */
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES } from '../../../i18n/routes';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const nav = NAV_COPY[locale];
+
+const SEARCH_TITLE: Record<LocaleCode, string> = { ar: 'البحث في مارلبريدج', ur: 'مارل برج میں تلاش کریں', bn: 'মার্লব্রিজে অনুসন্ধান করুন' };
+const SEARCH_DESC: Record<LocaleCode, string> = {
+  ar: 'ابحث في مارلبريدج عن المجالس والمؤهلات والمواد والمصادر والمقالات.',
+  ur: 'مارل برج میں بورڈز، قابلیتوں، مضامین، وسائل اور مضامین تلاش کریں۔',
+  bn: 'বোর্ড, যোগ্যতা, বিষয়, উপকরণ এবং নিবন্ধের জন্য মার্লব্রিজ অনুসন্ধান করুন।',
+};
+const NOSCRIPT: Record<LocaleCode, string> = {
+  ar: 'يتطلب البحث JavaScript. يُرجى استخدام تنقل الموقع بدلًا من ذلك.',
+  ur: 'تلاش کے لیے JavaScript درکار ہے۔ براہ کرم اس کی بجائی سائٹ نیویگیشن استعمال کریں۔',
+  bn: 'অনুসন্ধানের জন্য JavaScript প্রয়োজন। অনুগ্রহ করে সাইট নেভিগেশন ব্যবহার করুন।',
+};
+---
+<LocaleLayout locale={locale} translationKey="search" title={SEARCH_TITLE[locale]} description={SEARCH_DESC[locale]} noindex={true}>
+  <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <h1 class="m-0 mb-6 text-[28px] font-semibold text-navy-900">{SEARCH_TITLE[locale]}</h1>
+    <div id="pagefind-search"></div>
+    <noscript><p>{NOSCRIPT[locale]}</p></noscript>
+  </div>
+</LocaleLayout>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline define:vars={{ locale }}>
+  window.addEventListener('DOMContentLoaded', function () {
+    if (typeof PagefindUI === 'undefined') return;
+    new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false, pageSize: 10 });
+  });
+</script>

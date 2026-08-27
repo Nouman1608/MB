@@ -1,0 +1,180 @@
+---
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import FAQ from '../../../components/ui/FAQ.astro';
+import { MARKETING_COPY } from '../../../i18n/pages/marketing';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES, localePath } from '../../../i18n/routes';
+import {
+  REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING,
+  ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
+} from '../../../data/pricing';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = MARKETING_COPY.pricing[locale];
+const nav = NAV_COPY[locale];
+
+/**
+ * v1.x CLOSURE WS2 -- table headers and column labels only are translated
+ * here; every number, ISO currency code, region name and the pricing
+ * LOGIC (IGCSE rate vs A Level rate, discount percentages, IB/one-to-one
+ * distinctness) are read live from src/data/pricing.ts, exactly like the
+ * English page -- there is no second copy of any amount to drift out of
+ * sync. FAQ answers below interpolate the same live constants into a
+ * translated sentence template, per locale.
+ */
+const T = {
+  ar: {
+    tableRegion: 'المنطقة', tableIgcse: 'IGCSE/GCSE/O Level', tableALevel: 'AS/A Level', perSubjectMonth: '/مادة/شهر',
+    unsupportedPrefix: 'دولتك غير مدرجة؟ ', lastVerified: 'آخر تحقق', oneToOneHeading: 'الدروس الفردية (1:1)',
+    oneToOneNote: 'تُحتسب الدروس الفردية لكل درس، لا لكل مادة شهريًا. لا تنطبق خصومات المواد المتعددة والأشقاء أعلاه على الدروس الفردية.',
+    perClass: '/درس', lastConverted: 'آخر تأكيد/تحويل', ibHeading: 'تدريس البكالوريا الدولية (IB)',
+    ibNote: 'يُسعّر IB (برنامجا السنوات المتوسطة والدبلوم) بشكل مختلف عن باقي الموقع أعلاه — لكل درس لا لكل مادة شهريًا، وفرديًا فقط.',
+    discountsHeading: 'الخصومات والدرس التجريبي', multiSubject: 'مواد متعددة', sibling: 'خصم الأشقاء', trialLabel: 'الدرس التجريبي',
+    multiSubjectBody: (n: number, p: number) => `خصم ${p}% لـ ${n} مواد أو أكثر تُؤخذ معًا.`,
+    siblingBody: (n: number, p: number) => `خصم ${p}% لغاية ${n} من الأشقاء المسجلين معًا.`,
+    trialBody: 'الدرس التجريبي الأول مجاني.',
+    faqHeading: 'أسئلة حول الأسعار', readyNote: 'مستعد للبدء؟',
+  },
+  ur: {
+    tableRegion: 'علاقہ', tableIgcse: 'IGCSE/GCSE/O Level', tableALevel: 'AS/A Level', perSubjectMonth: '/مضمون/ماہ',
+    unsupportedPrefix: 'آپ کا ملک درج نہیں؟ ', lastVerified: 'آخری تصدیق', oneToOneHeading: 'انفرادی (1:1) کلاسیں',
+    oneToOneNote: 'انفرادی کلاسوں کی قیمت فی مضمون فی ماہ کی بجائی فی کلاس مقرر ہے۔ اوپر دی گئی کئی مضامین اور بہن بھائیوں کی رعایتیں انفرادی کلاسوں پر لاگو نہیں ہوتیں۔',
+    perClass: '/کلاس', lastConverted: 'آخری تصدیق/تبدیل', ibHeading: 'آئی بی (IB) تدریس',
+    ibNote: 'آئی بی (مڈل ئیئرز اور ڈپلومہ پروگرام) کی قیمت باقی سائٹ سے مختلف ہے — فی مضمون فی ماہ کی بجائی فی کلاس، اور صرف انفرادی۔',
+    discountsHeading: 'رعایتیں اور ٹرائل', multiSubject: 'کئی مضامین', sibling: 'بہن بھائی رعایت', trialLabel: 'ٹرائل کلاس',
+    multiSubjectBody: (n: number, p: number) => `${n}+ مضامین اکٹھے لینے پر ${p}% رعایت۔`,
+    siblingBody: (n: number, p: number) => `${n} تک بہن بھائیوں کے اکٹھے داخلے پر ${p}% رعایت۔`,
+    trialBody: 'پہلا ٹرائل سبق مفت ہے۔',
+    faqHeading: 'فیس کے بارے میں سوالات', readyNote: 'شروع کرنے کے لیے تیار ہیں؟',
+  },
+  bn: {
+    tableRegion: 'অঞ্চল', tableIgcse: 'IGCSE/GCSE/O Level', tableALevel: 'AS/A Level', perSubjectMonth: '/বিষয়/মাস',
+    unsupportedPrefix: 'আপনার দেশ তালিকায় নেই? ', lastVerified: 'সর্বশেষ যাচাই', oneToOneHeading: 'একক (১:১) ক্লাস',
+    oneToOneNote: 'একক ক্লাসের মূল্য প্রতি বিষয়ে প্রতি মাসের পরিবর্তে প্রতি ক্লাসে নির্ধারিত। উপরের একাধিক বিষয় ও ভাইবোন ছাড় একক ক্লাসে প্রযোজ্য নয়।',
+    perClass: '/ক্লাস', lastConverted: 'সর্বশেষ নিশ্চিত/রূপান্তরিত', ibHeading: 'IB টিউশন',
+    ibNote: 'IB (মিডল ইয়ার্স ও ডিপ্লোমা প্রোগ্রাম) উপরের সাইটের বাকি অংশ থেকে ভিন্নভাবে মূল্য নির্ধারিত — প্রতি বিষয়ে প্রতি মাসের পরিবর্তে প্রতি ক্লাসে, এবং শুধুমাত্র একক।',
+    discountsHeading: 'ছাড় ও ট্রায়াল', multiSubject: 'একাধিক বিষয়', sibling: 'ভাইবোন ছাড়', trialLabel: 'ট্রায়াল ক্লাস',
+    multiSubjectBody: (n: number, p: number) => `${n}+ বিষয় একসাথে নিলে ${p}% ছাড়।`,
+    siblingBody: (n: number, p: number) => `${n} জন পর্যন্ত ভাইবোন একসাথে ভর্তি হলে ${p}% ছাড়।`,
+    trialBody: 'প্রথম ট্রায়াল ক্লাসটি বিনামূল্যে।',
+    faqHeading: 'মূল্য সম্পর্কে প্রশ্ন', readyNote: 'শুরু করতে প্রস্তুত?',
+  },
+}[locale];
+
+const faqTemplates: Record<LocaleCode, () => { question: string; answer: string }[]> = {
+  ar: () => [
+    { question: 'كم تكلفة تدريس مارلبريدج؟', answer: `يتقاضى مارلبريدج رسومًا ${PRICING_TERMS.unit === 'per subject, per month' ? 'لكل مادة شهريًا' : ''}. تُحتسب GCSE وIGCSE وO Level بسعر IGCSE؛ وتُحتسب AS الدولية وAS وA Level بسعر A Level. راجع الجدول أعلاه لمنطقتك.` },
+    { question: 'هل هناك خصومات للمواد المتعددة أو الأشقاء؟', answer: `نعم. ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} ${PRICING_TERMS.discountsStack ? 'يتم جمع هذين الخصمين إذا استوفت الأسرة الشرطين.' : ''} تنطبق كلتا الحسمين على الدروس الجماعية فقط.` },
+    { question: 'ما مدة الدروس ووتيرتها؟', answer: 'الدروس الجماعية: 45 إلى 50 دقيقة لكل درس، 3 دروس أسبوعيًا لكل مادة. الدروس الفردية: ساعة واحدة لكل درس.' },
+    { question: 'هل يوجد درس تجريبي مجاني؟', answer: T.trialBody },
+    { question: 'دولتي غير مدرجة — ماذا أدفع؟', answer: PRICING_TERMS.unsupportedRegionNote === PRICING_TERMS.unsupportedRegionNote ? 'الدول غير المدرجة أعلاه لا تُسعّر تلقائيًا — أرسل استفسارك وسيؤكد مارلبريدج رسمًا لمنطقتك. لا يُطبّق أي تحويل عملة نيابة عنك.' : '' },
+  ],
+  ur: () => [
+    { question: 'مارل برج کی تعلیم کی قیمت کتنی ہے؟', answer: 'مارل برج فی مضمون فی ماہ فیس لیتا ہے۔ جی سی ایس ای، IGCSE اور او لیول کو IGCSE کی شرح پر لیا جاتا ہے؛ انٹرنیشنل اے ایس، اے ایس اور اے لیول کو اے لیول کی شرح پر۔ اپنے علاقے کے لیے اوپر دیا گیا جدول دیکھیں۔' },
+    { question: 'کیا کئی مضامین یا بہن بھائیوں کے لیے رعایت ہے؟', answer: `جی ہاں۔ ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} یہ دونوں رعایتیں اگر خاندان دونوں کا اہل ہو تو اکٹھی ہو جاتی ہیں۔ دونوں صرف گروپ کلاسوں پر لاگو ہوتی ہیں۔` },
+    { question: 'کلاسیں کتنی دیر اور کتنی بار ہوتی ہیں؟', answer: 'گروپ کلاسیں: 45 سے 50 منٹ فی کلاس، فی مضمون ہفتے میں 3 کلاسیں۔ انفرادی کلاسیں: فی کلاس 1 گھنٹہ۔' },
+    { question: 'کیا مفت ٹرائل ہے؟', answer: T.trialBody },
+    { question: 'میرا ملک درج نہیں — میں کیا ادا کروں؟', answer: 'اوپر درج نہ ہونی والے ممالک کی قیمت خودکار طور پر مقرر نہیں — اپنا استفسار بھیجیں اور مارل برج آپ کے علاقے کے لیے فیس کی تصدیق کرے گا۔ آپ کی جانب سے کوئی کرنسی تبدیلی لاگو نہیں کی جاتی۔' },
+  ],
+  bn: () => [
+    { question: 'মার্লব্রিজের টিউশনের মূল্য কত?', answer: 'মার্লব্রিজ প্রতি বিষয়ে প্রতি মাসে ফি নেয়। GCSE, IGCSE এবং O Level কে IGCSE হারে ধরা হয়; International AS, AS এবং A Level কে A Level হারে। আপনার অঞ্চলের জন্য উপরের টেবিল দেখুন।' },
+    { question: 'একাধিক বিষয় বা ভাইবোনদের জন্য কি ছাড় আছে?', answer: `হ্যাঁ। ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} পরিবার উভয়ের যোগ্য হলে এই দুটি ছাড় একত্রিত হয়। উভয়ই শুধুমাত্র গ্রুপ ক্লাসে প্রযোজ্য।` },
+    { question: 'ক্লাস কতক্ষণ এবং কত ঘন ঘন হয়?', answer: 'গ্রুপ ক্লাস: প্রতি ক্লাস ৪৫ থেকে ৫০ মিনিট, প্রতি বিষয়ে সপ্তাহে ৩টি ক্লাস। একক ক্লাস: প্রতি ক্লাস ১ ঘণ্টা।' },
+    { question: 'কি ফ্রি ট্রায়াল আছে?', answer: T.trialBody },
+    { question: 'আমার দেশ তালিকায় নেই — আমি কী পরিশোধ করব?', answer: 'উপরে তালিকাভুক্ত নয় এমন দেশের মূল্য স্বয়ংক্রিয়ভাবে নির্ধারিত হয় না — আপনার অনুসন্ধান পাঠান এবং মার্লব্রিজ আপনার অঞ্চলের জন্য একটি ফি নিশ্চিত করবে। আপনার পক্ষে কোনো মুদ্রা রূপান্তর প্রযোগ করা হয় না।' },
+  ],
+};
+const faqs = faqTemplates[locale]();
+---
+<LocaleLayout locale={locale} translationKey="pricing" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <div class="overflow-x-auto">
+      <table class="w-full min-w-[520px] border-collapse text-[14.5px]">
+        <thead>
+          <tr class="border-b border-navy-rule text-start">
+            <th class="px-3 py-2 text-start font-semibold text-navy-900">{T.tableRegion}</th>
+            <th class="px-3 py-2 text-start font-semibold text-navy-900">{T.tableIgcse}</th>
+            <th class="px-3 py-2 text-start font-semibold text-navy-900">{T.tableALevel}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {REGION_PRICING.map((r) => (
+            <tr class="border-b border-[#E7E1D4]">
+              <td class="px-3 py-2 text-ink">{r.region}</td>
+              <td class="px-3 py-2 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px]">{T.perSubjectMonth}</span></td>
+              <td class="px-3 py-2 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px]">{T.perSubjectMonth}</span></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p class="m-0 mt-4 text-[13px] text-ink-mute">{T.unsupportedPrefix}{PRICING_TERMS.unsupportedRegionNote}</p>
+    <p class="m-0 mt-2 text-[13px] text-ink-mute">{T.lastVerified}: {PRICING_VERIFIED_DATE}.</p>
+  </div>
+
+  <div class="mx-auto max-w-[var(--container-site)] border-t border-navy-rule px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <h2 class="m-0 mb-3 text-[22px] font-semibold text-navy-800">{T.oneToOneHeading}</h2>
+    <p class="m-0 mb-5 max-w-[62ch] text-[14.5px] text-ink-mute">{T.oneToOneNote}</p>
+    <div class="overflow-x-auto">
+      <table class="w-full min-w-[520px] border-collapse text-[14.5px]">
+        <thead>
+          <tr class="border-b border-navy-rule text-start">
+            <th class="px-3 py-2 text-start font-semibold text-navy-900">{T.tableRegion}</th>
+            <th class="px-3 py-2 text-start font-semibold text-navy-900">{T.tableIgcse}</th>
+            <th class="px-3 py-2 text-start font-semibold text-navy-900">{T.tableALevel}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {ONE_TO_ONE_PRICING.map((r) => (
+            <tr class="border-b border-[#E7E1D4]">
+              <td class="px-3 py-2 text-ink">{r.region}</td>
+              <td class="px-3 py-2 text-ink-mute">{formatFee(r.igcse, r.currency)} {r.currency} <span class="text-[13px]">{T.perClass}</span></td>
+              <td class="px-3 py-2 text-ink-mute">{formatFee(r.aLevel, r.currency)} {r.currency} <span class="text-[13px]">{T.perClass}</span></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p class="m-0 mt-4 text-[13px] text-ink-mute">{T.lastConverted}: {ONE_TO_ONE_TERMS.verifiedDate}.</p>
+  </div>
+
+  <div class="mx-auto max-w-[var(--container-site)] border-t border-navy-rule px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <h2 class="m-0 mb-3 text-[22px] font-semibold text-navy-800">{T.ibHeading}</h2>
+    <p class="m-0 mb-5 max-w-[62ch] text-[14.5px] text-ink-mute">{T.ibNote}</p>
+    <div class="max-w-[380px] rounded-sm border border-rule bg-white p-6">
+      <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{IB_PRICING.region}</p>
+      <p class="m-0 text-[17px] text-ink">{IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">{T.perClass}</span></p>
+    </div>
+    <p class="m-0 mt-4 text-[13px] text-ink-mute">{T.lastVerified}: {IB_PRICING.verifiedDate}.</p>
+  </div>
+
+  <div class="mx-auto max-w-[var(--container-site)] border-t border-navy-rule px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <h2 class="m-0 mb-5 text-[22px] font-semibold text-navy-800">{T.discountsHeading}</h2>
+    <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-3">
+      <li class="m-0 rounded-sm border border-rule bg-white p-5">
+        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{T.multiSubject}</p>
+        <p class="m-0 text-[15.5px] text-ink">{T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)}</p>
+      </li>
+      <li class="m-0 rounded-sm border border-rule bg-white p-5">
+        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{T.sibling}</p>
+        <p class="m-0 text-[15.5px] text-ink">{T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)}</p>
+      </li>
+      <li class="m-0 rounded-sm border border-rule bg-white p-5">
+        <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{T.trialLabel}</p>
+        <p class="m-0 text-[15.5px] text-ink">{T.trialBody}</p>
+      </li>
+    </ul>
+  </div>
+
+  <div class="mx-auto max-w-[72ch] border-t border-navy-rule px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <h2 class="m-0 mb-6 text-[22px] font-semibold text-navy-800">{T.faqHeading}</h2>
+    <FAQ items={faqs} />
+    <p class="m-0 mt-8 text-[15.5px]">
+      {T.readyNote} <a href={localePath(locale, 'tutoring')} class="underline decoration-gold-500 underline-offset-2">{nav.primaryNav.find((i) => i.key === 'tutoring')?.label}</a>
+    </p>
+  </div>
+</LocaleLayout>

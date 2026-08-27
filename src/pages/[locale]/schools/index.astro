@@ -1,0 +1,22 @@
+---
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import TranslatedProse from '../../../components/i18n/TranslatedProse.astro';
+import EnquiryForm from '../../../components/forms/EnquiryForm.astro';
+import { MARKETING_COPY } from '../../../i18n/pages/marketing';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES } from '../../../i18n/routes';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = MARKETING_COPY.schools[locale];
+const nav = NAV_COPY[locale];
+---
+<LocaleLayout locale={locale} translationKey="schools" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <TranslatedProse sections={copy.sections} dir={nav.dir} />
+  <div class="mx-auto max-w-[72ch] px-[var(--spacing-gutter)] pb-[clamp(40px,5vw,72px)]">
+    <EnquiryForm kind="school" labels={nav.form} />
+  </div>
+</LocaleLayout>

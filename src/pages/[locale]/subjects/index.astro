@@ -1,0 +1,35 @@
+---
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import { DIRECTORY_COPY } from '../../../i18n/pages/directories';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES } from '../../../i18n/routes';
+import { getSubjects } from '../../../utils/content/collections';
+import { resourcesForSubject } from '../../../utils/content/related';
+import { routes } from '../../../utils/urls/routes';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = DIRECTORY_COPY.subjects[locale];
+const nav = NAV_COPY[locale];
+const subjects = await getSubjects();
+const countPairs = await Promise.all(subjects.map(async (s) => [s.id, (await resourcesForSubject(s.id)).length] as const));
+const counts = Object.fromEntries(countPairs);
+---
+<LocaleLayout locale={locale} translationKey="subjects" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <p class="m-0 mb-6 text-[13.5px] text-ink-mute">{copy.englishNote}</p>
+    <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2 lg:grid-cols-3">
+      {subjects.map((s) => (
+        <li class="m-0 bg-white p-[clamp(20px,2.4vw,28px)]">
+          <a href={routes.subject(s.id)} class="group block">
+            <h2 class="m-0 text-[19px] font-semibold text-navy-800 group-hover:text-gold-600">{s.data.title}</h2>
+            <p class="m-0 mt-1.5 text-[13.5px] text-ink-mute">{counts[s.id] ?? 0}</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</LocaleLayout>

@@ -1,0 +1,62 @@
+---
+/**
+ * v1.x CLOSURE WS2 -- translated resources directory. Deliberately
+ * simpler than the English /resources/ page (D-052): a translated
+ * heading/lead plus a real "browse by type" grid and a real, complete
+ * list of published resources grouped by type -- reading the SAME live
+ * content-collection data the English page reads, so counts can never
+ * drift. The English page's client-side subject/level filter UI is not
+ * replicated here; every resource is simply listed. Individual resource
+ * bodies are explicitly out of scope for this release (D-051) and remain
+ * English-only -- titles link straight through to them.
+ */
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import { DIRECTORY_COPY } from '../../../i18n/pages/directories';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES } from '../../../i18n/routes';
+import { getResources, resourceCategoryMeta } from '../../../utils/content/collections';
+import { routes } from '../../../utils/urls/routes';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = DIRECTORY_COPY.resources[locale];
+const nav = NAV_COPY[locale];
+
+const types = Object.entries(resourceCategoryMeta);
+const resources = await getResources();
+const byType = Object.fromEntries(types.map(([slug]) => [slug, resources.filter((r) => r.data.resourceType === slug)]));
+
+const CATEGORY_LABEL: Record<LocaleCode, Record<string, string>> = {
+  ar: { 'study-guides': 'أدلة دراسية', 'revision-notes': 'ملاحظات مراجعة', 'past-papers': 'أوراق امتحانات سابقة', 'practice-questions': 'أسئلة تدريب', 'exam-preparation': 'التحضير للامتحان', 'subject-guides': 'أدلة المواد', 'learning-articles': 'مقالات تعليمية' },
+  ur: { 'study-guides': 'مطالعاتی گائیڈز', 'revision-notes': 'نظرثانی نوٹس', 'past-papers': 'ماضی کے امتحانی پرچے', 'practice-questions': 'مشقی سوالات', 'exam-preparation': 'امتحان کی تیاری', 'subject-guides': 'مضمون گائیڈز', 'learning-articles': 'تعلیمی مضامین' },
+  bn: { 'study-guides': 'স্টাডি গাইড', 'revision-notes': 'রিভিশন নোট', 'past-papers': 'পুরাতন প্রশ্নপত্র', 'practice-questions': 'অনুশীলন প্রশ্ন', 'exam-preparation': 'পরীক্ষার প্রস্তুতি', 'subject-guides': 'বিষয় গাইড', 'learning-articles': 'শিক্ষা নিবন্ধ' },
+};
+const labels = CATEGORY_LABEL[locale];
+const inDevelopment: Record<LocaleCode, string> = { ar: 'قيد التطوير — لا شيء منشور بعد لهذا النوع.', ur: 'زیرِ تیاری — اس قسم کے لیے ابھی تک کچھ شائع نہیں ہوا۔', bn: 'উন্নয়নাধীন — এই বিভাগের জন্য এখনো কিছু প্রকাশিত হয়নি।' };
+---
+<LocaleLayout locale={locale} translationKey="resources" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <p class="m-0 mb-8 text-[13.5px] text-ink-mute">{copy.englishNote}</p>
+
+    {types.map(([slug]) => (
+      <section id={slug} class="mb-[clamp(40px,5vw,64px)] scroll-mt-24 border-t border-rule pt-8">
+        <h2 class="m-0 mb-1.5 text-[20px] font-semibold text-navy-800">{labels[slug]}</h2>
+        <p class="m-0 mb-5 text-[13.5px] text-ink-mute">{byType[slug].length}</p>
+        {byType[slug].length > 0 ? (
+          <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+            {byType[slug].map((r) => (
+              <li class="m-0 rounded-sm border border-rule bg-white p-4">
+                <a href={routes.resource(r.id)} class="text-[15px] font-medium text-navy-800 hover:underline">{r.data.title}</a>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="m-0 text-[14.5px] text-ink-mute">{inDevelopment[locale]}</p>
+        )}
+      </section>
+    ))}
+  </div>
+</LocaleLayout>
