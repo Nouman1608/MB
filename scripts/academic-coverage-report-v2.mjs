@@ -35,6 +35,29 @@ const { SYLLABUSES } = load('src/data/academic/syllabuses.ts');
 const { SYLLABUS_VERSIONS } = load('src/data/academic/syllabus-topics.ts');
 const { SUBJECTS: CANONICAL_SUBJECTS } = load('src/data/academic/subjects.ts');
 const { QUALIFYING_RESOURCE_TYPES, SUBSTANTIAL_WORD_THRESHOLD } = load('src/utils/seo/indexability.ts');
+const { ASSESSMENTS } = load('src/data/academic/assessments.ts');
+
+/**
+ * v2.0 MEGA PROGRAMME (brief §13, §14) — a combination's assessment
+ * completeness. Deliberately strict: `assessmentModel` is a v2.0 field
+ * left unset on every pre-v2.0 record rather than retrofitted by
+ * inference (see assessments.ts's own comment), so those records report
+ * VERIFIED_PARTIAL here, honestly, rather than being counted as complete
+ * just because they predate this bar. "Not yet verified" is better than
+ * an inflated completeness count (brief §83).
+ */
+function assessmentCompletenessFor(records) {
+  if (records.length === 0) return 'NO_ASSESSMENT_RECORD';
+  const allComplete = records.every((a) => {
+    const hasSource = Boolean(a.officialSourceUrl && a.officialSourceUrl.trim());
+    const hasDate = Boolean(a.verifiedOn && /^\d{4}-\d{2}-\d{2}$/.test(a.verifiedOn));
+    const hasComponents = a.components.length > 0;
+    const hasMarksAndDuration = a.components.every((c) => c.marks > 0 && (c.durationMinutes === null || c.durationMinutes > 0));
+    const hasModel = Boolean(a.assessmentModel);
+    return hasSource && hasDate && hasComponents && hasMarksAndDuration && hasModel;
+  });
+  return allComplete ? 'VERIFIED_COMPLETE' : 'VERIFIED_PARTIAL';
+}
 
 const matrixSlugsForContentId = new Map();
 for (const s of CANONICAL_SUBJECTS) {
@@ -106,6 +129,9 @@ const rows = activeRows.map((c) => {
   const syllabus = SYLLABUSES.find((s) => s.boardSlug === c.boardSlug && s.qualificationSlug === c.qualificationSlug && s.subjectSlug === c.subjectSlug);
   const topicVersion = SYLLABUS_VERSIONS.find((s) => s.boardSlug === c.boardSlug && s.qualificationSlug === c.qualificationSlug && s.subjectSlug === c.subjectSlug && s.status === 'current');
   const level = LEVEL_FOR_QUALIFICATION[c.qualificationSlug];
+  const assessmentRecords = ASSESSMENTS.filter((a) => a.boardSlug === c.boardSlug && a.qualificationSlug === c.qualificationSlug && a.subjectSlug === c.subjectSlug);
+  const assessmentCompleteness = assessmentCompletenessFor(assessmentRecords);
+  const currentAssessment = assessmentRecords.find((a) => a.specStatus === 'current') ?? assessmentRecords[0];
 
   const eligibleResources = resources.filter((r) =>
     r.subject === hubId &&
@@ -147,7 +173,16 @@ const rows = activeRows.map((c) => {
     verificationDate: syllabus?.verifiedOn ?? topicVersion?.verifiedDate ?? 'NO_DATA',
     summaryStatus: syllabus ? 'published' : 'being-verified',
     topicMapStatus: topicVersion ? 'published' : 'being-verified',
-    assessmentStatus: 'NO_DATA', // not modeled as a distinct field anywhere in this repo today
+    // v2.0 MEGA PROGRAMME (brief §14) — real, computed from
+    // src/data/academic/assessments.ts, not a placeholder.
+    assessmentStatus: assessmentRecords.length ? 'modeled' : 'not-modeled',
+    assessmentRecordCount: assessmentRecords.length,
+    assessmentCompleteness,
+    assessmentModel: currentAssessment?.assessmentModel ?? 'NO_DATA',
+    assessmentComponentCount: currentAssessment?.components.length ?? 0,
+    assessmentSourceUrl: currentAssessment?.officialSourceUrl ?? 'NO_DATA',
+    assessmentVerifiedOn: currentAssessment?.verifiedOn ?? 'NO_DATA',
+    assessmentLifecycleStatus: currentAssessment?.specStatus ?? 'NO_DATA',
     studyGuideCount: countByType['study-guides'],
     revisionNoteCount: countByType['revision-notes'],
     pastPaperCount: countByType['past-papers'],
@@ -171,6 +206,13 @@ const rows = activeRows.map((c) => {
     nextAction,
   };
 });
+
+// v2.0 MEGA PROGRAMME (brief §14) — "sort uncovered ACTIVE rows first" so
+// the report itself reads as a prioritized worklist, not just a status
+// dump. Stable sort (Array#sort is stable per spec) so rows within the
+// same completeness bucket keep their original MATRIX order.
+const COMPLETENESS_SORT_RANK = { NO_ASSESSMENT_RECORD: 0, VERIFIED_PARTIAL: 1, VERIFIED_COMPLETE: 2 };
+rows.sort((a, b) => COMPLETENESS_SORT_RANK[a.assessmentCompleteness] - COMPLETENESS_SORT_RANK[b.assessmentCompleteness]);
 
 await mkdir('docs/reports', { recursive: true });
 
@@ -225,3 +267,24 @@ console.log('  QUALITY');
 console.log(`    Median words per resource:        ${median(wordCounts)}   (target 900+)`);
 console.log(`    Resources under 900 words:        ${thin}/${resources.length}`);
 console.log(`    Resources under 400 words:        ${noindexed}/${resources.length}   (expansion queue)`);
+
+/**
+ * v2.0 MEGA PROGRAMME (brief §14, §57) — the assessment-intelligence
+ * coverage dashboard, computed live from ASSESSMENTS every run rather
+ * than hand-maintained, so it can never silently drift from reality.
+ */
+console.log('');
+console.log('  ASSESSMENT INTELLIGENCE (v2.0 MEGA PROGRAMME)');
+const noRecord = rows.filter((r) => r.assessmentCompleteness === 'NO_ASSESSMENT_RECORD').length;
+const partial = rows.filter((r) => r.assessmentCompleteness === 'VERIFIED_PARTIAL').length;
+const complete = rows.filter((r) => r.assessmentCompleteness === 'VERIFIED_COMPLETE').length;
+console.log(`    VERIFIED_COMPLETE:     ${complete}/${rows.length}`);
+console.log(`    VERIFIED_PARTIAL:      ${partial}/${rows.length}   (has a record, missing a v2.0 field such as assessmentModel)`);
+console.log(`    NO_ASSESSMENT_RECORD:  ${noRecord}/${rows.length}`);
+console.log('    By board (ACTIVE combinations / with any assessment record):');
+const boardsSeen = [...new Set(rows.map((r) => r.boardSlug))].sort();
+for (const b of boardsSeen) {
+  const boardRows = rows.filter((r) => r.boardSlug === b);
+  const boardModeled = boardRows.filter((r) => r.assessmentStatus === 'modeled').length;
+  console.log(`      ${b}: ${boardModeled}/${boardRows.length}`);
+}
