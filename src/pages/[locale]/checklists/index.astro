@@ -1,0 +1,45 @@
+---
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import { DIRECTORY_COPY } from '../../../i18n/pages/directories';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES } from '../../../i18n/routes';
+import { SYLLABUS_VERSIONS } from '../../../data/academic/syllabus-topics';
+import { boardBySlug } from '../../../data/academic/boards';
+import { qualificationBySlug } from '../../../data/academic/qualifications';
+import { subjectBySlug } from '../../../data/academic/subjects';
+import { activeOnly } from '../../../utils/academic';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = DIRECTORY_COPY.checklists[locale];
+const nav = NAV_COPY[locale];
+
+const activeKeys = new Set(activeOnly().map((c) => `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`));
+const rows = SYLLABUS_VERSIONS
+  .filter((v) => v.status === 'current')
+  .filter((v) => activeKeys.has(`${v.boardSlug}/${v.qualificationSlug}/${v.subjectSlug}`))
+  .map((v) => ({
+    board: boardBySlug(v.boardSlug)?.name ?? v.boardSlug,
+    qualification: qualificationBySlug(v.qualificationSlug)?.name ?? v.qualificationSlug,
+    subject: subjectBySlug(v.subjectSlug)?.name ?? v.subjectSlug,
+    syllabusCode: v.syllabusCode,
+    href: `/checklists/${v.boardSlug}/${v.qualificationSlug}/${v.subjectSlug}/`,
+  }))
+  .sort((a, b) => a.board.localeCompare(b.board) || a.subject.localeCompare(b.subject));
+---
+<LocaleLayout locale={locale} translationKey="checklists" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <p class="m-0 mb-6 text-[13.5px] text-ink-mute">{copy.englishNote}</p>
+    <ul class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2 lg:grid-cols-3">
+      {rows.map((r) => (
+        <li class="rounded-sm border border-navy-rule p-4">
+          <a href={r.href} class="text-[15px] font-medium text-navy-900 hover:underline">{r.board} {r.qualification} {r.subject}</a>
+          <p class="m-0 mt-1 text-[13px] text-ink-mute">{r.syllabusCode}</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+</LocaleLayout>

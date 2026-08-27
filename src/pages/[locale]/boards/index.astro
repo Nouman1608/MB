@@ -1,0 +1,44 @@
+---
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import { DIRECTORY_COPY } from '../../../i18n/pages/directories';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES } from '../../../i18n/routes';
+import { BOARDS, boardPath, combinationsForBoard } from '../../../utils/academic';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = DIRECTORY_COPY.boards[locale];
+const nav = NAV_COPY[locale];
+
+const rows = BOARDS.map((b) => {
+  const combos = b.status === 'offered' ? combinationsForBoard(b.slug) : [];
+  const qualifications = [...new Set(combos.map((c) => c.qualification))];
+  return { board: b, combos, qualifications };
+});
+---
+<LocaleLayout locale={locale} translationKey="boards" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    <p class="m-0 mb-6 text-[13.5px] text-ink-mute">{copy.englishNote}</p>
+    <ul class="m-0 grid list-none gap-px border border-rule bg-rule p-0 sm:grid-cols-2">
+      {rows.map(({ board, combos, qualifications }) => (
+        <li class="m-0 bg-white p-[clamp(20px,3vw,32px)]">
+          {board.status === 'offered' ? (
+            <a href={boardPath(board.slug)} class="group block">
+              <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-navy-800 group-hover:text-gold-600">{board.name}</h2>
+              <p class="m-0 mt-2 text-[15px] text-ink-mute">{combos.length} {copy.combinationsLabel} · {qualifications.length} {copy.qualificationsLabel}</p>
+              <span class="mt-4 inline-block border-b border-gold-500 text-[14px] font-medium text-navy-800 group-hover:text-gold-600">{copy.viewLabel} {board.name} →</span>
+            </a>
+          ) : (
+            <div>
+              <h2 class="m-0 font-display text-2xl tracking-[-0.01em] text-ink-mute">{board.name}</h2>
+              <p class="m-0 mt-2 text-[15px] text-ink-mute">{copy.notOffered}</p>
+            </div>
+          )}
+        </li>
+      ))}
+    </ul>
+  </div>
+</LocaleLayout>

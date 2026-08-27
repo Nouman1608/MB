@@ -1,0 +1,18 @@
+---
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import TranslatedProse from '../../../components/i18n/TranslatedProse.astro';
+import { LEGAL_COPY } from '../../../i18n/pages/legal';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES } from '../../../i18n/routes';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = LEGAL_COPY['editorial-policy'][locale];
+const nav = NAV_COPY[locale];
+---
+<LocaleLayout locale={locale} translationKey="legal-editorial-policy" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={`${nav.lastUpdatedLabel} ${copy.lastUpdated}. ${copy.governingNote}`}>
+  <TranslatedProse sections={copy.sections} dir={nav.dir} />
+</LocaleLayout>

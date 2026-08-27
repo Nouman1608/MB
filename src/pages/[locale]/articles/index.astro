@@ -1,0 +1,37 @@
+---
+import LocaleLayout from '../../../layouts/LocaleLayout.astro';
+import { DIRECTORY_COPY } from '../../../i18n/pages/directories';
+import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
+import { TRANSLATED_LOCALES } from '../../../i18n/routes';
+import { getArticles } from '../../../utils/content/collections';
+import { routes } from '../../../utils/urls/routes';
+
+export function getStaticPaths() {
+  return TRANSLATED_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params as { locale: LocaleCode };
+const copy = DIRECTORY_COPY.articles[locale];
+const nav = NAV_COPY[locale];
+const articles = await getArticles();
+---
+<LocaleLayout locale={locale} translationKey="articles" title={copy.title} description={copy.description} eyebrow={copy.eyebrow} heading={copy.heading} lead={copy.lead}>
+  <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">
+    {articles.length > 0 ? (
+      <>
+        <p class="m-0 mb-6 text-[13.5px] text-ink-mute">{copy.englishNote}</p>
+        <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+          {articles.map((a) => (
+            <li class="m-0 rounded-sm border border-rule bg-white p-5">
+              <a href={routes.article(a.id)} class="group block">
+                <h2 class="m-0 text-[17px] font-semibold text-navy-800 group-hover:text-gold-600">{a.data.title}</h2>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </>
+    ) : (
+      <p class="m-0 text-[15.5px] text-ink-mute">{copy.notOffered}</p>
+    )}
+  </div>
+</LocaleLayout>
