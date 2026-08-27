@@ -17,6 +17,7 @@ const teachers = (await getAuthors())
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
 ---
 <PageLayout
+  translationKey="tutoring"
   title="Tutoring"
   description="One-to-one tutoring, small-group learning, exam preparation and online lessons with subject specialists, for IGCSE, O Level and A Level students."
   path={routes.tutoring}
