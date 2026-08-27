@@ -1240,9 +1240,9 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '2058',
     boardSummary:
       'Cambridge O Level Islamiyat gives learners the opportunity to develop knowledge and understanding of the Qur’an, Hadith, the life of the Prophet Muhammad (pbuh) and the early Islamic community.',
-    officialUrl: 'https://www.cambridgeinternational.org/Images/635787-2024-2025-syllabus.pdf',
-    verifiedOn: '2026-08-19',
-    notes: 'Independently confirmed against 2058’s own specification PDF: identical Paper 1 / Paper 2 four-topic structure to Cambridge IGCSE Islamiyat (0493).',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf',
+    verifiedOn: '2026-08-27',
+    notes: 'v2.0 WS4 correction: the previously cited PDF (635787, window 2024-2025) had lapsed. Re-verified against the current 2026-2027 syllabus PDF (697279): identical Paper 1 / Paper 2 four-topic structure to Cambridge IGCSE Islamiyat (0493).',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'urdu-language',
