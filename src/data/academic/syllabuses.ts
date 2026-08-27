@@ -72,6 +72,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     notes: 'Current syllabus is Version 2, published December 2025, confirmed directly from the official syllabus PDF as valid for exams in 2026, 2027 and 2028 (June and November series). No significant changes affecting teaching since the prior version; textbooks endorsed for examination from 2023 remain suitable. Four components: Paper 1 Multiple Choice and Paper 2 Theory (written), plus practical assessment via Paper 3 Practical Test or Paper 4 Alternative to Practical.',
   },
   {
+    boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'physics',
+    officialTitle: 'Cambridge IGCSE Physics (0625)',
+    code: '0625',
+    boardSummary:
+      'Cambridge IGCSE Physics helps learners understand the technological world in which they live, and take an informed interest in science and scientific developments through Core and Extended tiers of study.',
+    officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-physics-0625/',
+    verifiedOn: '2026-08-27',
+    notes: 'Added to close a data gap: this ACTIVE board/qualification/subject combination had no syllabuses.ts entry despite being in the site academic matrix. Current syllabus confirmed directly from the official PDF as valid for the 2026, 2027 and 2028 series. Tiered (Core/Extended) via choice of Paper 1/3 (Core) or Paper 2/4 (Extended), plus a practical component via Paper 5 Practical Test or Paper 6 Alternative to Practical.',
+  },
+  {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'mathematics',
     officialTitle: 'Cambridge O Level Mathematics (Syllabus D) (4024)',
     code: '4024',
