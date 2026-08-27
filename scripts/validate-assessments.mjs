@@ -90,7 +90,15 @@ if (ASSESSMENTS.length === 0) {
       (s) => s.boardSlug === a.boardSlug && s.qualificationSlug === a.qualificationSlug && s.subjectSlug === a.subjectSlug,
     );
     if (!syllabus) { fail(`${idOf(a)}: no syllabuses.ts entry exists for this board+qualification+subject at all`); p2++; continue; }
-    if (!syllabus.code.includes(a.code)) { fail(`${idOf(a)}: code "${a.code}" is not part of syllabuses.ts's recorded code "${syllabus.code}" for this combination`); p2++; }
+    // A record may cite its own code directly (the normal case), or -- for a
+    // documented future-syllabus transition record (relatedCode set) -- cite
+    // the CURRENT code it replaces via relatedCode instead, since
+    // syllabuses.ts only ever records one "current" code per combination
+    // (matching the Cambridge O Level Business 7115->7081 precedent: the
+    // future code lives in syllabuses.ts's notes prose, not its code field).
+    const matchesDirect = syllabus.code.includes(a.code);
+    const matchesViaRelated = a.relatedCode && syllabus.code.includes(a.relatedCode);
+    if (!matchesDirect && !matchesViaRelated) { fail(`${idOf(a)}: code "${a.code}" (relatedCode "${a.relatedCode || 'none'}") is not part of syllabuses.ts's recorded code "${syllabus.code}" for this combination`); p2++; }
   }
   if (!p2) ok(`all ${ASSESSMENTS.length} record(s) have a matching, code-consistent syllabuses.ts entry`);
 
