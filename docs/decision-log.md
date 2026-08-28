@@ -3281,3 +3281,80 @@ clean.
 - **Status:** WS6/WS7/WS8 complete for the three flagships that have question data. 0625/0580 gain
   a practice session automatically once WS9 publishes practice-questions content for them — no
   further engineering required, just data. Proceeding to WS9 per the programme's WS0–WS25 order.
+
+## D-068 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS9: 0625/0580 flagship depth
+
+**Date:** 2026-08-29
+**Workstream:** WS9 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
+
+**Context.** D-065 (WS4) quantified the resource-count gap across the five
+flagship specs: 0620 Chemistry 48, 9701 Chemistry 113, 9702 Physics 75, vs
+0625 Physics 2 and 0580 Maths 3 — the two weakest of the five, both with
+topic-level-only `syllabusTopics` structure (no subtopics yet defined in
+`syllabus-topics.ts`, unlike Chemistry). WS9 targeted a bounded, genuine
+narrowing of that gap rather than full parity with the other three
+flagships in one pass.
+
+**What shipped — 8 new resource files, all sourced from the real, fetched
+official syllabus PDFs (not fabricated):**
+
+- 0625 Physics: revision-notes + practice-questions companions for the two
+  existing study guides (Motion, Forces and Energy; Thermal Physics), plus
+  a new study guide for Topic 3 Waves — content fetched from
+  `cambridgeinternational.org/Images/697209-2026-2028-syllabus.pdf`
+  (verified 2026-08-29).
+- 0580 Mathematics: a new study guide + revision-notes + practice triad for
+  Topic 2 Algebra and graphs (Core C2.1-C2.13 and Extended-only
+  E2.3/E2.5/E2.6/E2.8/E2.10/E2.12/E2.13) — content fetched from
+  `cambridgeinternational.org/Images/662466-2025-2027-syllabus.pdf`
+  (verified 2026-08-29).
+
+All new `syllabusTopics` entries use the topic-level slugs already defined
+in `syllabus-topics.ts` (`motion-forces-and-energy-cambridge-igcse-physics`,
+`thermal-physics-cambridge-igcse-physics`, `waves-cambridge-igcse-physics`,
+`algebra-and-graphs-cambridge-igcse-maths`) — no new taxonomy invented.
+One correction made during validation: the maths files were first drafted
+with slug `algebra-and-graphs-cambridge-igcse-mathematics`, which does not
+exist in the syllabus-topics data (the real slug ends `-maths`, matching
+the other 8 Cambridge IGCSE Maths topic slugs); `validate-academic-content.mjs`
+caught this before commit and it was corrected to the real slug.
+
+**Resulting flagship resource counts** (programmatically counted from
+`syllabusCodes` frontmatter, same method as D-065):
+
+| Code | Subject | Before WS9 | After WS9 |
+|---|---|---|---|
+| 0620 | Chemistry IGCSE | 48 | 50 |
+| 0625 | Physics IGCSE | 2 | 7 |
+| 0580 | Maths IGCSE | 3 | 6 |
+| 9701 | Chemistry A-Level | 113 | 113 |
+| 9702 | Physics A-Level | 75 | 75 |
+
+(0620's +2 reflects the two files closed in WS5/D-066, already counted in
+the "before" baseline reported by D-065; restated here for the full
+current picture.)
+
+**What honestly remains open.** 0625 and 0580 are still well behind 9701,
+9702 and 0620 in absolute resource count, and both still have zero
+subtopic-level granularity in `syllabus-topics.ts` (topic-level slugs
+only) — a deeper structural gap than resource count alone. 0625 has 3 of
+its 6 topics with dedicated study-guide content (Motion/Forces/Energy,
+Thermal Physics, Waves); Electricity and Magnetism, Nuclear Physics and
+Space Physics remain unwritten. 0580 has 1 of its 9 topics (Algebra and
+graphs) with dedicated content beyond the pre-existing Number guide;
+Coordinate geometry, Geometry, Mensuration, Trigonometry, Transformations
+and vectors, Probability and Statistics remain unwritten. This gap is
+carried forward explicitly rather than closed by inflating scope in this
+pass — WS9 was scoped as bounded, genuine progress per the "keep going
+automatically" instruction, not a claim of parity.
+
+**Validation.** Full gate run and passed after the slug fix: `astro sync`,
+`tsc --noEmit` (clean), `npm run build` (1258 pages), `validate:academic`
+chain (all validators pass), `validate-review-integrity.mjs` (0 problems,
+794 resources checked), `audit:all` (8 categories, 0 problems each),
+22-fixture negative validation suite (22/22 pass), cross-board regression
+test (all controls intact), `npm audit` (0 vulnerabilities).
+
+**Status:** WS9 complete. Proceeding to WS10 (9701/9702 flagship depth —
+expected to be a lighter audit/polish pass given both are already strong)
+per the programme's WS0-WS25 order.
