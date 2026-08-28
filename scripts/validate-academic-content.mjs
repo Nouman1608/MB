@@ -284,3 +284,98 @@ if (stageErrors.length) {
   process.exit(1);
 }
 console.log('Stage consistency OK.');
+
+// ---------------------------------------------------------------------------
+// SYLLABUS CODE REFERENCES (v2.0 MEGA PROGRAMME WS13 -- resource<->assessment
+// mapping)
+// A resource/article's declared `syllabusCodes` are free-text today (e.g.
+// ["7132"], or ["9625 / 9725"] for the honest both-codes-during-transition
+// disclosure pattern WS8 established for OxfordAQA Business) and were never
+// cross-checked against the real, sourced codes in syllabuses.ts. That meant
+// a typo'd or stale code (e.g. citing a legacy code after it's fully retired,
+// or a code that never existed) would silently pass every existing check --
+// content-tagging validation only ever looked at boards/qualifications/
+// subject, never the code itself. Now that WS4-11 built out a full
+// lifecycle model (current/legacy-teach-out/future/withdrawn pairs like
+// 9625/9725, H431/H436, 7132/7138, 7131/7137), this is a real and growing
+// risk, not a hypothetical one. This check requires every code a resource
+// cites to match a real syllabuses.ts entry for at least one of the
+// resource's declared board+qualification+subject combinations, and flags
+// (without failing the build -- see below) any code that resolves to an
+// assessments.ts record marked 'withdrawn'.
+// ---------------------------------------------------------------------------
+const { SYLLABUSES } = load('src/data/academic/syllabuses.ts');
+const { ASSESSMENTS } = load('src/data/academic/assessments.ts');
+const codeIndex = new Map(); // `${board}|${subject}|${qualification}` -> Set<code>
+for (const s of SYLLABUSES) {
+  const key = topicKey(s.boardSlug, s.subjectSlug, s.qualificationSlug);
+  if (!codeIndex.has(key)) codeIndex.set(key, new Set());
+  // syllabuses.ts itself sometimes stores a combined code for a genuine
+  // dual-specification transition -- e.g. '9625 / 9725' (OxfordAQA Business)
+  // or '7712 / 7717' (AQA English Literature A/B) -- so this side needs the
+  // same '/'-split treatment as the resource-side codesField below.
+  for (const part of s.code.split(/[/,]/).map((x) => x.trim()).filter(Boolean)) {
+    codeIndex.get(key).add(part);
+  }
+}
+const withdrawnCodes = new Set(
+  ASSESSMENTS.filter((a) => a.specStatus === 'withdrawn').map((a) => a.code),
+);
+
+const codeErrors = [];
+const codeWarnings = [];
+for (const dir of ['src/content/resources', 'src/content/articles']) {
+  let files = [];
+  try { files = (await readdir(dir)).filter((f) => f.endsWith('.md')); } catch { continue; }
+  for (const file of files) {
+    const raw = await readFile(join(dir, file), 'utf8');
+    const fm = raw.split('---')[1] ?? '';
+    const at = `${dir}/${file}`;
+    const codesField = listField(fm, 'syllabusCodes');
+    if (codesField.length === 0) continue;
+    const subject = dir.endsWith('/resources') ? scalarField(fm, 'subject') : undefined;
+    const subjectsField = dir.endsWith('/articles') ? listField(fm, 'subjects') : [subject].filter(Boolean);
+    const resourceBoards = listField(fm, 'boards');
+    const resourceQuals = listField(fm, 'qualifications');
+    if (resourceBoards.length === 0 || resourceQuals.length === 0 || subjectsField.length === 0) continue;
+    // IB has no syllabuses.ts coverage at all yet -- its assessment-
+    // intelligence layer is out of scope until WS-IB (docs/decision-log.md
+    // D-050 tracks it as a known, bounded gap, not an oversight). IB
+    // resources deliberately use descriptive placeholders in syllabusCodes
+    // ("DP Biology", "MYP Design") rather than a board-issued numeric code,
+    // since IB doesn't assign one per subject the way Cambridge/AQA/Edexcel/
+    // OCR/OxfordAQA do. Checking these against an intentionally-empty index
+    // would flag all 44 IB resources as errors for a gap this workstream
+    // isn't scoped to close -- skip rather than fabricate IB codes.
+    if (resourceBoards.every((b) => b === 'ib')) continue;
+    const subjectCandidates = subjectsField.flatMap((s) => matrixSlugsFor(s));
+
+    // "9625 / 9725" style entries disclose more than one real code in a
+    // single array element -- split on '/' (and ',') so each individual
+    // code is checked on its own merits, not as one opaque string.
+    const individualCodes = codesField.flatMap((c) => c.split(/[/,]/).map((x) => x.trim()).filter(Boolean));
+
+    for (const code of individualCodes) {
+      const matches = resourceBoards.some((b) => resourceQuals.some((q) => subjectCandidates.some((s) => codeIndex.get(topicKey(b, s, q))?.has(code))));
+      if (!matches) {
+        codeErrors.push(`${at}: syllabus code "${code}" does not match any syllabuses.ts entry for board(s) [${resourceBoards.join(', ')}] + subject(s) [${subjectsField.join(', ')}] + qualification(s) [${resourceQuals.join(', ')}]`);
+        continue;
+      }
+      if (withdrawnCodes.has(code)) {
+        codeWarnings.push(`${at}: cites code "${code}", which assessments.ts marks 'withdrawn' (no longer assessable) -- confirm this resource is intentionally archival`);
+      }
+    }
+  }
+}
+if (codeErrors.length) {
+  console.error(`\nSyllabus code reference validation FAILED — ${codeErrors.length} problem(s):\n`);
+  for (const e of codeErrors) console.error(`  • ${e}`);
+  console.error('');
+  process.exit(1);
+}
+if (codeWarnings.length) {
+  console.log(`\nSyllabus code references OK, ${codeWarnings.length} warning(s) (not build-failing):`);
+  for (const w of codeWarnings) console.log(`  ⚠ ${w}`);
+} else {
+  console.log('Syllabus code references OK.');
+}
