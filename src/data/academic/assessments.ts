@@ -53,7 +53,18 @@ export type AssessmentTier =
   | 'first-language'
   | 'second-language'
   | 'as-only'
-  | 'a2-only';
+  | 'a2-only'
+  /** v2.0 MEGA PROGRAMME WS-IB -- IB Diploma Programme Standard/Higher
+   * Level. Purely additive: the same 'one code, two depth tiers' concept
+   * already modeled by as-only/a2-only for A-level, just under IB's own
+   * naming. A DP subject's SL and HL components are recorded as separate
+   * per-tier rows (matching the existing core/extended convention) because
+   * the same-named paper can carry a different weighting, duration or mark
+   * total at each level -- e.g. DP Economics Paper 1 is 30% at SL but 20%
+   * at HL, so one component entry with one weightingPercent could not
+   * represent both correctly. */
+  | 'sl'
+  | 'hl';
 
 export type AssessmentComponentType =
   | 'written-exam'
@@ -2939,6 +2950,49 @@ export const ASSESSMENTS: readonly Assessment[] = [
     verifiedOn: '2026-08-28',
     notes: 'Directly confirmed against the official live \'Specification at a glance\' section: two equally weighted written papers, 1 hour 45 minutes / 100 marks / 50% each, no coursework. Paper 1 covers the sociology of families and education; Paper 2 covers the sociology of crime and deviance and social stratification; both also draw on relevant social theory and methodology content from across the whole course. Linear qualification, first teaching 2017 (per the specification PDF\'s own title), first examined May/June 2019 (per the specification\'s scheme-of-assessment page). This closes the last remaining non-IB NO_ASSESSMENT_RECORD gap in the v2.0 coverage report; a matching syllabuses.ts entry was added alongside this record since none previously existed despite the combination being ACTIVE in matrix.ts since WS5.',
     assessmentModel: 'linear',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-dp',
+    subjectSlug: 'economics',
+    code: 'DP Economics',
+    specStatus: 'current',
+    tiers: ['sl', 'hl'],
+    firstAssessment: '2022',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Extended Response (Microeconomics or Macroeconomics)', durationMinutes: 75, marks: 25, weightingPercent: 30, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true, calculatorAllowed: false },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Data Response (The Global Economy)', durationMinutes: 105, marks: 40, weightingPercent: 40, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true, calculatorAllowed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Portfolio of Three Commentaries', durationMinutes: null, marks: 45, weightingPercent: 30, assessmentType: 'portfolio', tier: 'sl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Extended Response (Microeconomics or Macroeconomics)', durationMinutes: 75, marks: 25, weightingPercent: 20, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true, calculatorAllowed: false },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Data Response (The Global Economy)', durationMinutes: 105, marks: 40, weightingPercent: 30, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true, calculatorAllowed: true },
+      { paperCode: 'Paper 3', title: 'Paper 3 -- Policy Paper (HL Extension)', durationMinutes: 105, marks: 60, weightingPercent: 30, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true, calculatorAllowed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Portfolio of Three Commentaries', durationMinutes: null, marks: 45, weightingPercent: 20, assessmentType: 'portfolio', tier: 'hl', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/',
+    verifiedOn: '2026-08-28',
+    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (economics-guide.pdf; see docs/decision-log.md D-008). Figures below are read directly from that guide\'s own \'Assessment outline -- SL\' and \'Assessment outline -- HL\' tables (retrieved via the licensed PDF, cross-checked against the syllabus\'s assessment-objectives-to-component mapping in the same document). SL: Paper 1 (one extended-response question from a choice on micro- or macroeconomics, 75min, 25 marks, 30%, no calculator); Paper 2 (data-response question set on the global economy, 105min, 40 marks, 40%, calculator permitted); Internal Assessment (portfolio of three commentaries on published news extracts, no fixed sitting duration, 45 marks, 30%, internally assessed by the teacher and externally moderated by the IB). HL sits the same Paper 1 and Paper 2 (each re-weighted to 20%/30% of the HL total) plus an HL-only Paper 3 (structured, data-based policy paper drawing on the HL extension topics, 105min, 60 marks, 30%, calculator permitted), and the same portfolio Internal Assessment re-weighted to 20%. \'DP Economics\' is used as this record\'s own `code` (there is no separate numeric course code at DP level the way GCSE/A-level boards publish one) to match the matching syllabuses.ts entry added alongside this record. First assessed 2022 per the guide\'s own title page. This is one of only two IB DP subjects (with Physics) where Marlbridge holds a license covering the full guide; the other 19 active IB combinations in matrix.ts remain NO_ASSESSMENT_RECORD because their only legal source -- the freely-public \'subject brief\' PDFs -- gives component time and weighting but never raw marks totals, so a complete, verified record cannot be built for them without either a further license or the board publishing that detail publicly (owner-approved scope decision, 2026-08-28: model the 2 licensed subjects fully now, leave the remaining 19 explicitly deferred rather than estimate or omit silently).',
+    assessmentModel: 'component-based',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-dp',
+    subjectSlug: 'physics',
+    code: 'DP Physics',
+    specStatus: 'current',
+    tiers: ['sl', 'hl'],
+    firstAssessment: '2025',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Multiple Choice with Short Data-based Questions', durationMinutes: 90, marks: 45, weightingPercent: 36, assessmentType: 'multiple-choice', tier: 'sl', externallyAssessed: true, calculatorAllowed: true, dataBookletProvided: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Short and Extended Response', durationMinutes: 90, marks: 50, weightingPercent: 44, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true, calculatorAllowed: true, dataBookletProvided: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Individual Scientific Investigation', durationMinutes: null, marks: 24, weightingPercent: 20, assessmentType: 'practical', tier: 'sl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Multiple Choice with Short Data-based Questions', durationMinutes: 120, marks: 60, weightingPercent: 36, assessmentType: 'multiple-choice', tier: 'hl', externallyAssessed: true, calculatorAllowed: true, dataBookletProvided: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Short and Extended Response', durationMinutes: 150, marks: 90, weightingPercent: 44, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true, calculatorAllowed: true, dataBookletProvided: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Individual Scientific Investigation', durationMinutes: null, marks: 24, weightingPercent: 20, assessmentType: 'practical', tier: 'hl', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
+    verifiedOn: '2026-08-28',
+    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (physics-guide.pdf; see docs/decision-log.md D-008). The guide\'s own \'Assessment outline -- SL/HL\' tables (pages 62-63 of 65) could not be fully extracted through available fetch tooling in this session -- two independent mirrors of the identical PDF (ibo.org direct and a bradfieldcollege.org.uk copy) both truncated at the same point, before reaching the assessment section, which is a tool-side extraction cap rather than a source problem (confirmed by matching truncation length on unrelated hosts). The component structure, durations and weightings below are taken from that guide\'s earlier, successfully-extracted \'Curriculum model overview\' and assessment-summary prose, and the exact mark totals were cross-verified against a current (checked 2026-08-28), actively-maintained school IB Physics resource (Concordian International School Thailand LibGuide, \'External assessment\' and \'Internal assessment\' pages) that transcribes the same official table in detail; both sources agree. SL: Paper 1 (multiple-choice with short data-based questions, 90min, 45 marks, 36%, calculator and data booklet permitted); Paper 2 (short-and-extended-response questions, 90min, 50 marks, 44%, calculator and data booklet permitted); Internal Assessment (individual scientific investigation marked against 4 criteria worth 6 marks each = 24 marks, no fixed sitting duration, 20%, internally assessed and externally moderated). HL sits the same two paper types at greater length and mark total (Paper 1: 120min/60 marks/36%; Paper 2: 150min/90 marks/44%) plus the same-weighted internal-assessment investigation (24 marks, 20%). \'DP Physics\' is used as this record\'s own `code` to match the matching syllabuses.ts entry added alongside this record. First assessed 2025 per the guide\'s own title page -- the most recently first-examined DP science course. This is one of only two IB DP subjects (with Economics) where Marlbridge holds a license covering the full guide; the other 19 active IB combinations in matrix.ts remain NO_ASSESSMENT_RECORD for the same licensing-scope reason recorded on the Economics DP record above (owner-approved scope decision, 2026-08-28).',
+    assessmentModel: 'component-based',
   },
 ] as const;
 

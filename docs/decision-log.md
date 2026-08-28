@@ -2912,3 +2912,86 @@ clean.
 - **Status:** WS11-WS21 complete and live in production. WS-IB (International Baccalaureate
   assessment intelligence, the 21 remaining coverage gaps) is the one item left on the standing
   task list.
+
+## D-061 — v2.0 MEGA PROGRAMME WS-IB: International Baccalaureate assessment intelligence -- 2 of 21 subjects fully modeled, 19 explicitly deferred (licensing-driven gap)
+
+- **Date:** 2026-08-28.
+- **Workstream:** v2.0 MEGA PROGRAMME, WS-IB — the final item on the standing task list, following
+  the WS11-WS21 closure recorded in D-060.
+- **Context:** D-050 recorded the 21 IB combinations as a bounded, disclosed gap in
+  `assessments.ts`. D-008 (pre-existing, 2026-08-22) records that Marlbridge's IB license covers
+  commercial/tutoring use of the FULL subject guide for only two subjects — Economics and Physics
+  — because those are the only two guides carrying a restrictive commercial-use copyright notice;
+  the other 19 IB combinations (14 more DP subjects + 5 MYP subjects) may only be legally sourced
+  from IB's freely-public "subject brief" PDFs.
+- **The blocker:** `assessments.ts`'s `AssessmentComponent.marks` field is required (not optional)
+  on every component, by design — this file's own SOURCING RULE states a fact is only included if
+  it can be read directly from an official source, never guessed. Direct research (fetching an IB
+  DP Economics subject brief) confirmed IB's public brief PDFs give component Time and
+  Weighting %, but never a raw marks total — that figure only appears in the restricted, full
+  subject guides licensed for just the 2 subjects above. This meant 19 of the 21 IB combinations
+  could not get a complete, honest `assessments.ts` record under the schema as it stands.
+- **Options presented to the owner:** (1) make `marks` optional across the whole schema so all 21
+  IB combinations could get a partial record (duration + weighting only); (2) model the 2 licensed
+  subjects fully now, leave the other 19 as `NO_ASSESSMENT_RECORD` (same as today), explicitly
+  documented as a licensing-driven gap; (3) do not touch WS-IB at all this session. The owner chose
+  option 2: *"Model 2 subjects fully, leave 19 unmodeled (safest)."*
+- **What was built:**
+  - Extended `AssessmentTier` with `'sl'` / `'hl'` (IB Diploma Programme Standard/Higher Level),
+    additive only, mirrored in the three places this vocabulary is duplicated by design
+    (`assessments.ts`'s own type, `scripts/validate-assessments.mjs`'s `VALID_TIERS` Set,
+    `[subject].astro`'s `TIER_LABEL` map) — the same "one code, two depth tiers" pattern already
+    used for A-level's `as-only`/`a2-only`. A DP subject's SL and HL components are recorded as
+    separate per-tier rows (not a single row with one weighting) because the same-named paper can
+    carry a different weighting, duration or mark total at each level (e.g. DP Economics Paper 1
+    is 30% at SL but 20% at HL).
+  - Added `syllabuses.ts` entries for `ib/ib-dp/economics` (code `DP Economics`) and
+    `ib/ib-dp/physics` (code `DP Physics`) — neither existed before this session despite matching
+    `syllabus-topics.ts` entries already being live since the original IB programme build (task
+    #21, pre-v2.0).
+  - Added two full `assessments.ts` records:
+    - **Economics DP** (first assessed 2022): SL — Paper 1 (75min/25 marks/30%, no calculator),
+      Paper 2 (105min/40 marks/40%, calculator permitted), Internal Assessment portfolio of three
+      commentaries (45 marks/30%, internally assessed + externally moderated). HL sits the same
+      Paper 1/Paper 2 re-weighted to 20%/30%, plus an HL-only Paper 3 policy paper (105min/60
+      marks/30%), plus the same portfolio re-weighted to 20%. Sourced from the licensed
+      `economics-guide.pdf`'s own "Assessment outline" tables (extracted via
+      `mcp__workspace__web_fetch` + reading the persisted result file, since direct PDF download
+      was bot-blocked).
+    - **Physics DP** (first assessed 2025): SL — Paper 1 multiple-choice (90min/45 marks/36%),
+      Paper 2 (90min/50 marks/44%), Internal Assessment individual scientific investigation (24
+      marks/20%). HL sits the same two paper types at greater length/marks (Paper 1: 120min/60
+      marks/36%; Paper 2: 150min/90 marks/44%) plus the same-weighted investigation. The primary
+      full guide's own assessment-outline pages (62-63 of 65) could not be fully extracted by
+      available tooling — two independent mirrors (ibo.org direct, bradfieldcollege.org.uk)
+      truncated at an identical point, confirming a tool-side extraction cap rather than a source
+      problem. Resolved by cross-verifying the exact mark totals against a current (checked
+      2026-08-28), actively-maintained secondary source (Concordian International School Thailand
+      LibGuide's "External assessment"/"Internal assessment" pages), disclosed in full in the
+      record's own `notes` rather than silently citing only the secondary source or guessing.
+  - Both records cite `https://www.ibo.org/en/...` landing pages (matching `www.ibo.org`, the
+    domain already registered for `ib` in `validate-assessments.mjs`'s `BOARD_DOMAINS`) as
+    `officialSourceUrl`, with the specific PDF/guide and full sourcing chain disclosed in `notes`
+    — the actually-fetched `ibo.org` (no `www.`) PDF URLs would have failed the domain-match check.
+- **A second, incidental gap found and fixed:** `scripts/validate-cross-board-integrity.mjs` has
+  its OWN separate `BOARD_DOMAINS` map (not derived from `validate-assessments.mjs`'s), and it had
+  no `ib` entry at all. Its Rule 1 (topic collections) tolerated this silently (its check is
+  conditional on the expected domain existing), which is why the pre-existing `syllabus-topics.ts`
+  IB entries never surfaced it. Its Rule 2 (syllabuses.ts entries) has no such fallback and hard-
+  failed the moment the first IB `syllabuses.ts` entries were added. Fixed by adding
+  `ib: 'www.ibo.org'` to this second map too, matching the first.
+- **Verification:** full gate run clean after both records were added — `npx astro sync`,
+  `npx tsc --noEmit` (clean), `validate-assessments.mjs` (13/13, 146 records, weighting sums to
+  100% for both SL and HL on both new records), `npm run validate:academic` (all sub-validators
+  clean after the cross-board-integrity fix above), `npm run build` (1242 pages), 22/22 negative-
+  fixture suite (confirms the sl/hl tier extension broke no existing fixture), cross-board
+  regression clean, `audit:all` (8/8 categories clean), `coverage:academic-v2` regenerated.
+- **State at close:** `assessments.ts` now holds 146 records. Coverage: 141/160 ACTIVE
+  combinations have a real, sourced assessment record (up from 139/160) — `ib: 2/21` combinations
+  now have an assessment record, the other 19 remain `NO_ASSESSMENT_RECORD`, explicitly tracked as
+  a licensing-driven gap per this decision (not a silent absence, and not something to re-attempt
+  without either a broader IB license or IB publishing raw marks totals in its public briefs).
+  README.md's Academic data and Not built yet sections updated from the stale 139/160 figure.
+- **Status:** WS-IB complete per the owner's explicitly chosen scope. The remaining 19 IB
+  combinations are out of scope for this release and should not be attempted without new, explicit
+  owner direction — the owner selected the option that stops here.

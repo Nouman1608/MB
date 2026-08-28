@@ -81,6 +81,7 @@ const BOARD_DOMAINS = {
 const VALID_TIERS = new Set([
   'not-tiered', 'core', 'extended', 'foundation', 'higher',
   'first-language', 'second-language', 'as-only', 'a2-only',
+  'sl', 'hl', // v2.0 WS-IB -- IB Diploma Programme Standard/Higher Level
 ]);
 
 /** v2.0 — kept in sync manually with the AssessmentComponentType union in

@@ -132,9 +132,11 @@ resources, pricing, assessment structure) is validated against:
   guessed; unverifiable content is marked as such, never invented.
 - `assessments.ts` — paper/component structure, weightings, tiers and lifecycle status
   (`current` / `legacy-teach-out` / `future` / `withdrawn`, with `relatedCode` linking a
-  transition pair) for the combinations that have a sourced assessment record (139/160 as of the
-  v2.0 MEGA PROGRAMME — a disclosed, tracked gap, not silently absent; the 21 remaining are all
-  IB, see D-050). Every record cites `officialSourceUrl` and `verifiedOn`; run
+  transition pair) for the combinations that have a sourced assessment record (141/160 as of the
+  v2.0 MEGA PROGRAMME WS-IB — a disclosed, tracked gap, not silently absent; the remaining 19 are
+  all IB (2 of the original 21 IB combinations, Economics DP and Physics DP, are now fully modeled
+  under Marlbridge's IB license; the other 19 stay unmodeled because their only legal source, IB's
+  public subject-brief PDFs, does not publish raw marks totals), see D-050 and D-061. Every record cites `officialSourceUrl` and `verifiedOn`; run
   `npm run review:assessments` for a per-board checklist of every record's source and how long
   ago it was verified, useful for prioritising a re-check pass. The public "Assessment structure"
   section on each academic hub page, and the FAQPage schema generated alongside it, are both
@@ -250,6 +252,8 @@ Check it before assuming a gap is an oversight.
 Translated collection-item detail pages (programs/subjects/authors/resources/articles by slug)
 and the two academic hub matrices remain English-only (disclosed, D-051; reconfirmed for the
 newly-expanded Assessment structure/FAQ content in D-059, which also documents what full
-hub-page translation would require). Assessment-structure data (`assessments.ts`) covers 139/160
-active combinations; the 21 remaining are all International Baccalaureate, reserved for its own
-workstream (D-050). Location pages and program × subject cross-listing pages are not built.
+hub-page translation would require). Assessment-structure data (`assessments.ts`) covers 141/160
+active combinations; the remaining 19 are all International Baccalaureate (2 of the original 21 —
+Economics DP and Physics DP — are now fully modeled under Marlbridge's IB license; the other 19
+remain a disclosed, licensing-driven gap since their only legal source lacks raw marks totals),
+see D-050 and D-061. Location pages and program × subject cross-listing pages are not built.

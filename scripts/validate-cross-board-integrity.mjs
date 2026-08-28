@@ -37,6 +37,17 @@ const BOARD_DOMAINS = {
   ocr: 'www.ocr.org.uk',
   oxfordaqa: 'www.oxfordaqa.com',
   edexcel: 'qualifications.pearson.com',
+  // v2.0 MEGA PROGRAMME WS-IB -- added when the first syllabuses.ts entries
+  // for IB (Economics DP, Physics DP) were written; matches the same
+  // ib: 'www.ibo.org' domain already registered in
+  // scripts/validate-assessments.mjs's own BOARD_DOMAINS and already used
+  // (pre-existing, unaffected by this change) as the sourceUrl host on
+  // both IB entries in syllabus-topics.ts. This validator's Rule 1 never
+  // hard-failed on IB's absence here because its check is conditional on
+  // `expectedHost` existing at all (`if (host && expectedHost && ...)`),
+  // but Rule 2 (syllabuses.ts) has no such fallback -- it hard-fails any
+  // board missing from this map, which is exactly what surfaced this gap.
+  ib: 'www.ibo.org',
 };
 
 const { MATRIX } = load('src/data/academic/matrix.ts');

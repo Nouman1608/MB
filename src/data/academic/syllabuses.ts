@@ -1464,6 +1464,26 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-21',
     notes: 'First teaching September 2018. Six externally-examined units: Units 1-3 form the International AS (XCH11), the full International A Level (YCH11) adds Units 4-6.',
   },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'economics',
+    officialTitle: 'International Baccalaureate Diploma Programme Economics',
+    code: 'DP Economics',
+    boardSummary:
+      'IB DP Economics develops a critical understanding of economic theories, models and tools across microeconomics, macroeconomics and the global economy, applied to real-world issues at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/',
+    verifiedOn: '2026-08-28',
+    notes: 'First assessments 2022. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (see docs/decision-log.md D-008); this record and its matching assessments.ts entry are sourced from that licensed guide (economics-guide.pdf) plus the freely-public SL/HL subject briefs. Four content units (common to SL/HL, with HL-only extension material within several units) plus an internal assessment portfolio.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'physics',
+    officialTitle: 'International Baccalaureate Diploma Programme Physics',
+    code: 'DP Physics',
+    boardSummary:
+      'IB DP Physics develops an understanding of the fundamental concepts and principles of physics through five topics (space/time/motion, particulate nature of matter, wave behaviour, fields, and nuclear/quantum physics), combining theory with a self-directed scientific investigation, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
+    verifiedOn: '2026-08-28',
+    notes: 'First assessments 2025. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (see docs/decision-log.md D-008); this record and its matching assessments.ts entry are sourced from that licensed guide (physics-guide.pdf), cross-verified against a current (Aug 2026) published school IB Physics resource for the exact SL/HL paper mark totals -- see the assessments.ts record\'s own notes for the full sourcing chain. Five topics (A-E, with HL-only sub-topics within several) plus an internal assessment (individual scientific investigation).',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
