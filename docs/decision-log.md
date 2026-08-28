@@ -3088,3 +3088,52 @@ clean.
   named fields, on all 160 ACTIVE combinations. Proceeding to WS3 (academic provenance —
   authorship/review/correction, a broader visible-byline concern than this workstream's narrower
   correction-mechanism fix) per the programme's own WS0–WS25 execution order.
+
+## D-064 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS3: academic provenance (visible authorship)
+
+- **Context:** Recommendation 4 of the growth programme calls for "visible authorship/provenance on
+  every academic page." Resources and articles already carry a real, validated author/reviewer
+  byline (`src/content.config.ts`'s `author`/`reviewer` references, enforced by
+  `scripts/validate-review-integrity.mjs`, described on `/legal/editorial-policy/`). The academic
+  hub pages themselves (`/boards/{board}/{qualification}/{subject}/`) — the single largest and most
+  important page type on the site (160 ACTIVE combinations) — carried no visible byline at all.
+- **Why not a named individual author:** the hub template's own header comment states "Nothing on
+  this page is invented" — content here is assembled from the awarding body's own syllabus data
+  (`syllabuses.ts`) and site-wide resources, not written by one named teacher the way a resource
+  article is. Inventing a specific named author for this kind of page would itself be a provenance
+  violation. `src/content/authors/marlbridge-academic-team.md` already exists for exactly this case
+  — its own bio states it is "the default byline for material not yet assigned to one of
+  Marlbridge's named subject teachers" — so using it here is honest, not a new fabrication.
+- **What was built:**
+  - Hub template now fetches the real `marlbridge-academic-team` entry (`getEntry('authors', ...)`,
+    same pattern already used for `subjects`) and renders "Compiled and maintained by the Marlbridge
+    Academic Team, checked against the official {board} specification on {verifiedOn}" directly
+    under the At a glance box, linking to the team's real, published `/authors/` page. Degrades to a
+    plain-text fallback name (no dangling logic) on the theoretical case the entry can't resolve;
+    omits the "checked against ..." clause entirely when no syllabus record exists (the same 19 IB
+    combinations tracked in D-050/D-061), rather than fabricating a verification date.
+  - `src/utils/schema/course.ts`'s `courseNode()` gained an optional `authorId` parameter, emitted
+    as a shorthand `author: { '@id': ... }` reference to that author's own
+    `organizationEntityNode()` — the exact same cross-page `@id`-reference pattern the file already
+    used for `provider`, not a new schema convention. Left unset (and therefore omitted) at the
+    `programs/[slug].astro` call site, which keeps its pre-existing `Course` shape byte-for-byte
+    unchanged — verified by diffing its built JSON-LD before/after.
+  - Verified the emitted `author.@id` on a hub page
+    (`https://marlbridge.com/authors/marlbridge-academic-team/#organization-entity`) resolves to a
+    real `Organization` node actually present in that author page's own JSON-LD graph, not a
+    dangling reference.
+- **Verification:** `npx astro sync` + `npx tsc --noEmit` clean, `npm run build` (1242 pages),
+  `npm run validate:academic` (13/13, 141/160 unchanged), `npm run audit:all` (8/8 clean), 22/22
+  negative-fixture suite, cross-board regression clean, `npm audit` 0 vulnerabilities. Spot-checked
+  built HTML/JSON-LD on a fully-modeled page (Cambridge IGCSE Chemistry 0620) and an IB gap page (DP
+  Business, no syllabus record) — both render the byline correctly; programs/gcse/'s Course node
+  confirmed unchanged (no `author` field, since `authorId` wasn't passed there).
+- **Scope note:** this closes the "visible provenance" half of WS3 (authorship). The "review" half
+  — a genuine, accountable second-reviewer check distinct from authorship, per the site's own
+  editorial-review policy — is not attempted here: as `/legal/editorial-policy/` already discloses,
+  that second-review step has only been completed for one resource sitewide, and claiming it for
+  160 hub pages without the underlying review work happening would be exactly the kind of invented
+  claim this programme explicitly prohibits. The correction mechanism (the third element of
+  "authorship/review/correction") was already delivered in WS2 (D-063).
+- **Status:** WS3 complete within its honestly-achievable scope. Proceeding to WS4 (flagship
+  authority gap audit — 0620/0625/0580/9701/9702) per the programme's own WS0–WS25 execution order.

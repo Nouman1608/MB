@@ -122,6 +122,18 @@ const levelKey = LEVEL_FOR_QUALIFICATION[c.qualificationSlug];
 // so this never silently 404s or links to a nonexistent hub.
 const hubSlug = subjectBySlug(c.subjectSlug)?.hubId ?? c.subjectSlug;
 const subjectEntry = await getEntry('subjects', hubSlug);
+/**
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS3 -- a real,
+ * existing author-collection entry (not fabricated for this workstream;
+ * see src/content/authors/marlbridge-academic-team.md, already the
+ * documented default byline for material not yet assigned to a named
+ * subject teacher -- src/pages/legal/editorial-policy.astro's own
+ * "Authorship" section). Gives every hub page a visible, honest
+ * provenance line without inventing a specific named author for
+ * content that is actually assembled from the awarding body's own
+ * published syllabus, not written by one teacher.
+ */
+const teamAuthor = await getEntry('authors', 'marlbridge-academic-team');
 const allResources = await getResources();
 // Resources reference the subjects CONTENT id (hubSlug), not the matrix
 // subjectSlug — those diverge for e.g. matrix 'english-language' -> content
@@ -300,6 +312,7 @@ const jsonLd = [
     path,
     name: syllabus?.officialTitle ?? heading,
     description: `${heading} teaching and study resources from Marlbridge.`,
+    authorId: 'marlbridge-academic-team',
   }),
   ...(faq ? [faq] : []),
 ];
@@ -349,6 +362,9 @@ const jsonLd = [
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
       </dl>
       <p class="m-0 mt-6 text-[13.5px] text-ink-mute">
+        Compiled and maintained by the{' '}{teamAuthor ? <a href={routes.author(teamAuthor.id)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{teamAuthor.data.name}</a> : 'Marlbridge Academic Team'}{syllabus && <>, checked against the official {c.board} specification on {syllabus.verifiedOn}</>}.
+      </p>
+      <p class="m-0 mt-2 text-[13.5px] text-ink-mute">
         Spotted something wrong on this page?
         {' '}<a href={correctionMailto} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Report an error</a>
         {' '}— see the <a href="/legal/editorial-policy/" class="underline decoration-rule underline-offset-2">corrections policy</a>.
