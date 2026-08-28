@@ -3705,3 +3705,66 @@ controls intact), `npm audit` (0 vulnerabilities).
 
 **Status:** WS15 complete. Proceeding to WS16 (Marlbridge / Learners
 Academy brand separation) per the programme's WS0-WS25 order.
+
+## D-075 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS16: Marlbridge / Learners Academy brand separation
+
+**Date:** 2026-08-29
+**Workstream:** WS16 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
+
+**Context.** WS16 is named "Marlbridge / Learners Academy brand
+separation." A review of the current live site found the relationship
+between the two already stated consistently everywhere ("Learners
+Academy — a Marlbridge education institution," `site.founding` in
+`src/data/site.ts`) — there was no factual contradiction to fix. Since
+the workstream name is ambiguous and this touches real corporate/brand
+identity where guessing could misrepresent the owner's actual companies,
+the owner was asked directly what this workstream should do. The answer:
+add clearer visual/structural distinction between Marlbridge (the online
+platform/brand) and Learners Academy (the physical Lahore academy),
+e.g. distinct logos or a clarified relationship, rather than rewriting
+the (already-accurate) relationship copy.
+
+**The concrete issue found.** Both `src/pages/about/index.astro` (the
+"Where Marlbridge Began" panel) and the shared
+`src/components/sections/LearnersAcademy.astro` component (used on the
+homepage) represented "Learners Academy" visually using Marlbridge's own
+`Logo` component (`variant="mark"`) — i.e. the physical academy's
+identity in that panel was shown using the online platform's own
+logomark, which is the opposite of visual separation.
+
+**What shipped.** In both files, replaced the reused Marlbridge
+`<Logo variant="mark" .../>` with a small circular "LA" monogram badge
+using Learners Academy's own real brand colour (`#3F548D`, "Brand
+blue"), plus a genuine outbound link to Learners Academy's own real
+website (`learnersacademy.com.pk`, `rel="noopener" target="_blank"`)
+appended after the existing "A Marlbridge education institution" line.
+Removed the now-unused `Logo` import from both files.
+
+**Sourcing discipline.** No Learners Academy logo image file exists in
+the connected staff folder, and none was fabricated. The brand colour
+(`#3F548D`) and domain (`learnersacademy.com.pk`) used are real,
+documented facts from `Faculty Posts/BRAND_NOTES.md` in the connected
+staff folder — not invented. The badge is a plain CSS text monogram, not
+a generated or invented graphic asset standing in for a real logo.
+
+**What this workstream deliberately did not do.** It did not touch
+`Header.astro` (only a design-rationale code comment referencing
+learnersacademy.com.pk styling, not an actual conflation) or
+`WhatsAppButton.astro` (the WhatsApp number `923239149918` already
+correctly matches Learners Academy's real number per `BRAND_NOTES.md`) —
+neither had a real bug. It did not invent a Learners Academy logo image,
+and did not rewrite the relationship copy itself, since that was already
+accurate everywhere it appears.
+
+**Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
+(clean), `npm run build` (1267 pages, unchanged — no new routes),
+`validate-review-integrity.mjs` (0 problems), `audit:all` (metadata,
+structured-data, redirects, internal-links, content-integrity, fonts,
+sitemap-noindex, i18n routes — all pass, 0 problems), 22-fixture
+negative validation suite (22/22 pass), cross-board regression test (all
+controls intact), `npm audit` (0 vulnerabilities). Manually confirmed in
+the built `dist/` output that both `about/index.html` and `index.html`
+render the new "LA" badge and the `learnersacademy.com.pk` outbound link.
+
+**Status:** WS16 complete. Proceeding to WS17 (Pakistan regional
+guidance) per the programme's WS0-WS25 order.

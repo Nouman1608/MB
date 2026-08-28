@@ -3,7 +3,6 @@ import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
 import Button from '../ui/Button.astro';
 import PhotoFrame from '../ui/PhotoFrame.astro';
-import Logo from '../brand/Logo.astro';
 import { site } from '../../data/site';
 import { routes } from '../../utils/urls/routes';
 
@@ -21,10 +20,15 @@ const photo = site.academyPhoto;
           Marlbridge grew out of classroom teaching, not a business plan. Learners Academy remains the founding academy, and its teaching continues under the Marlbridge name as the wider platform develops.
         </p>
         <div class="mb-7 flex max-w-[46ch] items-center gap-4 border-t border-rule pt-5">
-          <Logo variant="mark" tone="dark" height={40} class="shrink-0" />
+          <span
+            class="flex h-10 w-10 shrink-0 items-center justify-center rounded-full text-[13px] font-semibold tracking-[0.02em] text-white"
+            style="background-color: #3F548D;"
+            aria-hidden="true"
+          >LA</span>
           <p class="m-0 text-[15.5px] leading-snug text-ink-mute">
             <span class="block font-semibold text-navy-800">Learners Academy</span>
-            A Marlbridge education institution
+            A Marlbridge education institution &middot;{' '}
+            <a href="https://learnersacademy.com.pk" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener" target="_blank">learnersacademy.com.pk</a>
           </p>
         </div>
         <Button href={routes.about} variant="quiet">Our story</Button>
