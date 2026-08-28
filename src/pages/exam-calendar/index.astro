@@ -1,0 +1,111 @@
+---
+/**
+ * Exam calendar -- /exam-calendar/
+ *
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS13.
+ *
+ * See src/data/academic/exam-calendar.ts for the architecture/data-
+ * freshness design decision. This page renders the evergreen three-series
+ * explainer plus the one currently-relevant series' verified key dates
+ * (entries, exam window, results release) -- deliberately NOT a
+ * per-subject/per-paper timetable, since those vary by administrative
+ * zone and would go stale far faster than this page could be maintained.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { CAMBRIDGE_EXAM_SERIES, EXAM_SERIES_KEY_DATES } from '../../data/academic/exam-calendar.ts';
+import { routes } from '../../utils/urls/routes';
+
+const path = '/exam-calendar/';
+const featured = EXAM_SERIES_KEY_DATES[0];
+---
+<PageLayout
+  title="Cambridge Exam Calendar — Series, Deadlines &amp; Results Dates"
+  description="How Cambridge's three annual exam series work (May/June, October/November, February/March), plus verified entry deadlines, exam window and results-release dates for the current series -- sourced directly from Cambridge's own key-dates documents."
+  path={path}
+  eyebrow="Free tool"
+  heading="Exam calendar"
+  lead="How Cambridge's three exam series work, and verified entry deadlines, exam window and results dates for the series currently ahead — sourced directly from Cambridge's own documents, not estimated."
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Exam calendar', href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">The three exam series</h2>
+      <div class="grid gap-5 sm:grid-cols-3">
+        {CAMBRIDGE_EXAM_SERIES.map((s) => (
+          <div class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+            <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{s.label}</span>
+            <span class="text-[13px] font-medium uppercase tracking-[0.08em] text-gold-600">{s.months}</span>
+            <p class="m-0 mt-1 text-[14px] leading-[1.6] text-ink-mute">{s.availability}</p>
+          </div>
+        ))}
+      </div>
+    </Container>
+  </Section>
+
+  {featured && (
+    <Section surface="ivory" border>
+      <Container>
+        <p class="m-0 mb-1 text-[13px] font-medium uppercase tracking-[0.1em] text-gold-600">Currently ahead</p>
+        <h2 class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{featured.seriesLabel} key dates</h2>
+
+        <div class="grid gap-5 sm:grid-cols-2">
+          <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+            <p class="m-0 mb-3 text-[13px] font-medium uppercase tracking-[0.08em] text-navy-800">Entries</p>
+            <dl class="m-0 grid grid-cols-[1fr_auto] gap-x-3 gap-y-2 text-[14.5px]">
+              <dt class="m-0 text-ink-mute">Final entries deadline</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.finalEntriesDeadline}</dd>
+              {featured.lateEntriesDeadline && (<><dt class="m-0 text-ink-mute">Late entries deadline</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.lateEntriesDeadline}</dd></>)}
+            </dl>
+          </div>
+          <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+            <p class="m-0 mb-3 text-[13px] font-medium uppercase tracking-[0.08em] text-navy-800">Exam window</p>
+            <dl class="m-0 grid grid-cols-[1fr_auto] gap-x-3 gap-y-2 text-[14.5px]">
+              <dt class="m-0 text-ink-mute">Start</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.examPeriodStart}</dd>
+              <dt class="m-0 text-ink-mute">End</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.examPeriodEnd}</dd>
+            </dl>
+          </div>
+          <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+            <p class="m-0 mb-3 text-[13px] font-medium uppercase tracking-[0.08em] text-navy-800">Results released</p>
+            <dl class="m-0 grid grid-cols-[1fr_auto] gap-x-3 gap-y-2 text-[14.5px]">
+              {featured.resultsReleased.map((r) => (
+                <><dt class="m-0 text-ink-mute">{r.qualificationGroup}</dt><dd class="m-0 text-right font-medium text-navy-800">{r.date}</dd></>
+              ))}
+            </dl>
+          </div>
+          <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+            <p class="m-0 mb-3 text-[13px] font-medium uppercase tracking-[0.08em] text-navy-800">After results</p>
+            <dl class="m-0 grid grid-cols-[1fr_auto] gap-x-3 gap-y-2 text-[14.5px]">
+              {featured.enquiriesAboutResultsDeadline && (<><dt class="m-0 text-ink-mute">Enquiries about results deadline</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.enquiriesAboutResultsDeadline}</dd></>)}
+              {featured.accessToScriptsDeadline && (<><dt class="m-0 text-ink-mute">Access to Scripts deadline</dt><dd class="m-0 text-right font-medium text-navy-800">{featured.accessToScriptsDeadline}</dd></>)}
+            </dl>
+          </div>
+        </div>
+
+        <p class="m-0 mt-6 text-[13px] text-ink-mute">
+          Sourced directly from Cambridge's own key-dates document for the {featured.seriesLabel} series, verified {featured.verifiedOn} —
+          {' '}<a href={featured.officialSourceUrl} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">view the original PDF</a>.
+        </p>
+      </Container>
+    </Section>
+  )}
+
+  <Section surface="white" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What this page doesn't cover — on purpose</h2>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        This page deliberately does not list day-by-day, paper-by-paper exam dates (e.g. "Chemistry 0620 Paper 2 —
+        14 October, morning"). Cambridge publishes those in a full timetable that varies by administrative zone and
+        by which papers a school has entered candidates for — reproducing it here would mean either omitting the
+        detail that actually matters to a specific student, or risking an out-of-date date that leads someone to
+        miss an exam. For your exact paper-by-paper timetable, always confirm with your school's exams officer, or
+        see {' '}<a href="https://www.cambridgeinternational.org/exam-administration/" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">Cambridge's own exam administration pages</a>.
+        The dates on this page — entry deadlines, the overall exam window, and results-release dates — are the ones
+        that are the same for every student in a given series, which is why they can be stated reliably here.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>

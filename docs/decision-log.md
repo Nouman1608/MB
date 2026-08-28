@@ -3532,3 +3532,60 @@ controls intact), `npm audit` (0 vulnerabilities).
 
 **Status:** WS12 complete. Proceeding to WS13 (Exam calendar architecture
 + verified data) per the programme's WS0-WS25 order.
+
+## D-072 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS13: exam calendar architecture + verified data
+
+**Date:** 2026-08-29
+**Workstream:** WS13 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
+
+**What shipped.** A new public page, `/exam-calendar/`, with two distinct
+kinds of content, deliberately kept in separate data structures in the
+new `src/data/academic/exam-calendar.ts` so neither goes stale silently:
+
+1. `CAMBRIDGE_EXAM_SERIES` — evergreen facts about how Cambridge's three
+   annual exam series work (May/June: the main global series; October/
+   November: the second global series; February/March: offered only in
+   specific zones). This does not need refreshing every series.
+2. `EXAM_SERIES_KEY_DATES` — dated, sourced facts (final/late entries
+   deadlines, exam window, results-release dates, enquiries-about-results
+   and access-to-scripts deadlines) for the one series currently ahead of
+   this build's date: October/November 2026. Each record carries its own
+   `officialSourceUrl` and `verifiedOn`, matching the `assessments.ts`
+   convention exactly, so a future maintainer knows precisely when it was
+   last checked and against what.
+
+**Sourcing.** `CAMBRIDGE_EXAM_SERIES`'s February/March-series scope
+(India and Romania specifically, not a global series) is stated directly
+on Cambridge's own "Exams Officers' Guide for the March series" page,
+fetched via the in-app browser. `EXAM_SERIES_KEY_DATES`'s November 2026
+record is copied verbatim from Cambridge's own official key-dates PDF —
+`746006-key-dates-for-november-2026-series-international-.pdf` — fetched
+directly (not from a secondary aggregator site), verified 2026-08-29.
+
+**Design decision: no per-subject timetable.** The page explicitly
+states, in its own "What this page doesn't cover — on purpose" section,
+that it does not attempt to list day-by-day, paper-by-paper exam dates.
+Cambridge's real per-paper timetable varies by administrative zone and by
+which papers a school has actually entered candidates for; reproducing it
+here would either omit the detail that matters to a specific student or
+risk a stale date that causes someone to miss an exam. The page links to
+Cambridge's own exam-administration pages and recommends confirming with
+the school's exams officer for exact paper dates — only facts genuinely
+uniform across every student in a series (deadlines, the overall window,
+results dates) are stated here, which is why they can be relied on.
+
+**Freshness plan, stated in the data file's own header comment**: when
+October/November 2026 passes, a future update should add a new dated
+record for the next relevant series rather than editing this one in
+place, preserving a genuine dated history rather than silently mutating
+"the current data."
+
+**Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
+(clean), `npm run build` (1266 pages, up one), `validate:academic` chain,
+`validate-review-integrity.mjs` (0 problems), `audit:all` (8 categories,
+0 broken links/orphans) plus the i18n route check, 22-fixture negative
+validation suite (22/22 pass), cross-board regression test (all controls
+intact), `npm audit` (0 vulnerabilities).
+
+**Status:** WS13 complete. Proceeding to WS14 (Grade-threshold explorer)
+per the programme's WS0-WS25 order.

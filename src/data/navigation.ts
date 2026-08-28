@@ -42,6 +42,7 @@ export const footerNav = {
     { label: 'Practice (Self-Check)', href: '/practice/' },
     { label: 'Syllabus Changes', href: '/syllabus-updates/' },
     { label: 'Command Words Guide', href: '/command-words/' },
+    { label: 'Exam Calendar', href: '/exam-calendar/' },
     { label: 'Learning Journal', href: '/articles/' },
     { label: 'Printable Checklists', href: '/checklists/' },
   ],
