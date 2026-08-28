@@ -1134,6 +1134,16 @@ export const SYLLABUSES: readonly Syllabus[] = [
     notes: 'Paper 1 ‘Cognition and Behaviour’ covers Memory, Perception, Development and Research methods. Paper 2 ‘Social Context and Behaviour’ covers Social influence, Language/thought/communication, Brain and neuropsychology, and Psychological problems. The two papers are equally weighted with no coursework.',
   },
   {
+    boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'sociology',
+    officialTitle: 'AQA GCSE Sociology (8192)',
+    code: '8192',
+    boardSummary:
+      'AQA GCSE Sociology encourages students to explore and interpret the social world in which they live, developing an understanding of the relationship between individuals and society.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification',
+    verifiedOn: '2026-08-28',
+    notes: 'Paper 1 ‘The Sociology of Families and Education’ and Paper 2 ‘The Sociology of Crime and Deviance and Social Stratification’, both also drawing on relevant sociological theory and research methods content from across the course. The two papers are equally weighted with no coursework. Linear qualification, first teaching 2017, first examined May/June 2019, per the specification’s own scheme-of-assessment page (previously only structurally confirmed via matrix.ts WS5; this entry adds the syllabuses.ts record itself).',
+  },
+  {
     boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'psychology',
     officialTitle: 'AQA A-level Psychology (7182)',
     code: '7182',

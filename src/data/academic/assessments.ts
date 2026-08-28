@@ -2884,6 +2884,23 @@ export const ASSESSMENTS: readonly Assessment[] = [
     notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted papers (Reading, including English-to-Urdu translation, and Writing), no coursework. OxfordAQA\'s official title for this qualification is simply "Urdu," not "Urdu Language"; Marlbridge\'s matrix uses the subjectSlug urdu-language. First teaching September 2024, first examined June 2026 onwards, per syllabuses.ts (WS4) -- already examined as of this record\'s verification date. OxfordAQA does not offer Urdu at AS or A-level.',
     assessmentModel: 'linear',
   },
+  {
+    boardSlug: 'aqa',
+    qualificationSlug: 'gcse',
+    subjectSlug: 'sociology',
+    code: '8192',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2019',
+    components: [
+      { paperCode: 'Paper 1', title: 'The Sociology of Families and Education', durationMinutes: 105, marks: 100, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'The Sociology of Crime and Deviance and Social Stratification', durationMinutes: 105, marks: 100, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
+    ],
+    officialSourceUrl: 'https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance',
+    verifiedOn: '2026-08-28',
+    notes: 'Directly confirmed against the official live \'Specification at a glance\' section: two equally weighted written papers, 1 hour 45 minutes / 100 marks / 50% each, no coursework. Paper 1 covers the sociology of families and education; Paper 2 covers the sociology of crime and deviance and social stratification; both also draw on relevant social theory and methodology content from across the whole course. Linear qualification, first teaching 2017 (per the specification PDF\'s own title), first examined May/June 2019 (per the specification\'s scheme-of-assessment page). This closes the last remaining non-IB NO_ASSESSMENT_RECORD gap in the v2.0 coverage report; a matching syllabuses.ts entry was added alongside this record since none previously existed despite the combination being ACTIVE in matrix.ts since WS5.',
+    assessmentModel: 'linear',
+  },
 ] as const;
 
 /**
