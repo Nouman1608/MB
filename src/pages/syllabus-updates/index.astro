@@ -30,6 +30,7 @@ import Container from '../../components/layout/Container.astro';
 import { ASSESSMENTS, type Assessment, type SpecStatus } from '../../data/academic/assessments.ts';
 import { MATRIX, academicHubPath, isPublishable } from '../../utils/academic/index.ts';
 import { routes } from '../../utils/urls/routes';
+import CTA from '../../components/ui/CTA.astro';
 
 const path = '/syllabus-updates/';
 
@@ -179,4 +180,12 @@ const totalTransitioning = future.length + legacy.length + withdrawn.length;
       </p>
     </Container>
   </Section>
+
+  <CTA
+    surface="ivory"
+    heading="A specification change can shift what's actually examined. A teacher keeps your revision aligned to the current syllabus."
+    buttonLabel="Find Learning Support"
+    buttonHref={routes.tutoring}
+  />
+
 </PageLayout>

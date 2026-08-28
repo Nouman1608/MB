@@ -14,6 +14,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { GRADE_THRESHOLDS, type Grade } from '../../data/academic/grade-thresholds.ts';
 import { routes } from '../../utils/urls/routes';
+import CTA from '../../components/ui/CTA.astro';
 
 const path = '/grade-thresholds/';
 const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b', 'c', 'd', 'e'];
@@ -97,6 +98,14 @@ const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b',
       </p>
     </Container>
   </Section>
+
+  <CTA
+    surface="ivory"
+    heading="Know the grade you need -- a teacher can help you build a realistic plan to reach it."
+    buttonLabel="Find Learning Support"
+    buttonHref={routes.tutoring}
+  />
+
 </PageLayout>
 
 <script is:inline>

@@ -16,6 +16,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { CAMBRIDGE_EXAM_SERIES, EXAM_SERIES_KEY_DATES } from '../../data/academic/exam-calendar.ts';
 import { routes } from '../../utils/urls/routes';
+import CTA from '../../components/ui/CTA.astro';
 
 const path = '/exam-calendar/';
 const featured = EXAM_SERIES_KEY_DATES[0];
@@ -108,4 +109,12 @@ const featured = EXAM_SERIES_KEY_DATES[0];
       </p>
     </Container>
   </Section>
+
+  <CTA
+    surface="ivory"
+    heading="Deadlines are easier to hit with a study plan built around them. A teacher can help you pace your revision to this series."
+    buttonLabel="Find Learning Support"
+    buttonHref={routes.tutoring}
+  />
+
 </PageLayout>

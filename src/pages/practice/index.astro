@@ -19,6 +19,7 @@ import { flagshipSpecs, academicHubPath } from '../../utils/academic/index.ts';
 import { practiceQuestionsForCode } from '../../utils/practice/bank.ts';
 import { syllabusFor } from '../../data/academic/syllabuses.ts';
 import { routes } from '../../utils/urls/routes';
+import CTA from '../../components/ui/CTA.astro';
 
 const path = '/practice/';
 const specs = flagshipSpecs().map((f) => {
@@ -97,4 +98,12 @@ const notYetAvailable = specs.filter((s) => s.questionCount === 0);
       </div>
     </Container>
   </Section>
+
+  <CTA
+    surface="ivory"
+    heading="Marked a topic as weak more than once? A teacher can work through it with you directly."
+    buttonLabel="Find Learning Support"
+    buttonHref={routes.tutoring}
+  />
+
 </PageLayout>

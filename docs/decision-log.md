@@ -3645,3 +3645,63 @@ intact), `npm audit` (0 vulnerabilities).
 
 **Status:** WS14 complete. Proceeding to WS15 (Free -> teacher support
 conversion) per the programme's WS0-WS25 order.
+
+## D-074 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS15: free -> teacher support conversion
+
+**Date:** 2026-08-29
+**Workstream:** WS15 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
+
+**Context.** WS6-WS14 shipped five free, no-account tools (practice
+engine, syllabus-updates tracker, command-words guide, exam calendar,
+grade-threshold explorer). None of them carried any path toward
+Marlbridge's paid teaching support — a visitor could use any of them and
+leave without ever seeing that a teacher is available. Every other
+content surface on the site (subject hub pages, resource pages) already
+carries the existing `CTA` component pointing to `/tutoring/`, using the
+established "Find Learning Support" button label and a heading tailored
+to that page's own content — this workstream closes the gap for the five
+newest pages using the exact same, already-proven pattern rather than
+inventing a new conversion mechanism.
+
+**What shipped.** Added the existing `src/components/ui/CTA.astro`
+component to the end of all 5 tool pages, each with a heading written
+specifically for that tool's context rather than a generic one:
+
+- `/practice/` — "Marked a topic as weak more than once? A teacher can
+  work through it with you directly." (ties directly to the practice
+  engine's own weak-topics/error-notebook feature from WS7/WS8)
+- `/syllabus-updates/` — ties a specification change to staying aligned
+  with a teacher
+- `/command-words/` — ties knowing the command word to a teacher marking
+  practice against real exam standards
+- `/exam-calendar/` — ties the deadlines shown to a teacher-built study
+  plan
+- `/grade-thresholds/` — ties the target grade shown to a teacher-built
+  plan to reach it
+
+Every CTA links to `routes.tutoring` (`/tutoring/`), matching the exact
+target already used by every other CTA sitewide — no new destination
+page or funnel was introduced.
+
+**What this workstream deliberately did not do.** It did not rewrite
+`/tutoring/` or `/trial/` copy, did not add new tracking/analytics
+wiring (the `CTA` component is a plain link already covered by whatever
+link-click tracking is already configured sitewide, per D-7 in the
+earlier v1.x programme), and did not add conversion CTAs mid-interaction
+(e.g. inside the practice engine's dynamic weak-topics DOM) — that would
+touch the already jsdom-verified interactive code from WS6-WS8 for a
+comparatively small gain, and risk a regression in tested behaviour for
+no proportionate benefit. The five page-level CTAs are the honest, bounded
+scope of "closing the obvious conversion gap the new free tools created,"
+not a full conversion-rate-optimisation pass.
+
+**Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
+(clean), `npm run build` (1267 pages, unchanged — no new routes),
+`validate:academic` chain, `validate-review-integrity.mjs` (0 problems),
+`audit:all` (8 categories, 0 broken links/orphans — all 5 new
+`/tutoring/` links resolve) plus the i18n route check, 22-fixture
+negative validation suite (22/22 pass), cross-board regression test (all
+controls intact), `npm audit` (0 vulnerabilities).
+
+**Status:** WS15 complete. Proceeding to WS16 (Marlbridge / Learners
+Academy brand separation) per the programme's WS0-WS25 order.

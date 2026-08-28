@@ -16,6 +16,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { CAMBRIDGE_COMMAND_WORDS, COMMAND_WORDS_SOURCE } from '../../data/academic/command-words.ts';
 import { routes } from '../../utils/urls/routes';
+import CTA from '../../components/ui/CTA.astro';
 
 const path = '/command-words/';
 ---
@@ -85,6 +86,14 @@ const path = '/command-words/';
       </p>
     </Container>
   </Section>
+
+  <CTA
+    surface="ivory"
+    heading="Knowing the command word is one thing -- writing the answer it needs is another. A teacher can mark your practice against real exam standards."
+    buttonLabel="Find Learning Support"
+    buttonHref={routes.tutoring}
+  />
+
 </PageLayout>
 
 <script is:inline>
