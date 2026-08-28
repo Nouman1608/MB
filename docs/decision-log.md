@@ -2820,3 +2820,95 @@ clean.
   four numbered requirements are the closing brief for whenever hub-page translation is explicitly
   scoped as its own release, matching the discipline `docs/decision-log.md` already applies to every
   other deferred, tracked gap in this programme (D-050, D-058) rather than leaving it undocumented.
+
+## D-060 — v2.0 MEGA PROGRAMME WS11-WS21: closure, verification, live confirmation
+
+- **Date:** 2026-08-28.
+- **Workstream:** v2.0 MEGA PROGRAMME, WS11 through WS21 (this session's continuous run,
+  following WS0-WS10 from the prior session).
+- **What was built, in order:**
+  - **WS11 (lifecycle/transition records):** audited every existing legacy-teach-out/future/
+    withdrawn record for dangling `relatedCode` references; found AQA A-level Business 7132 and
+    AS Business 7131 both pointed at replacement codes (7138, 7137) with no record of their own.
+    Sourced both from AQA's official specification PDF (fetched via a working mirror after AQA's
+    own `specification-at-a-glance` pages proved JS-rendered), added syllabuses.ts + assessments.ts
+    records for both, and flipped 7132/7131 from `legacy-teach-out` to `current` — their
+    replacements' first-teaching date (September 2026) hadn't arrived as of this record's
+    verification date, so 7132/7131 remain what every enrolling/continuing student actually
+    follows, matching the same convention WS8 established for OxfordAQA Business 9625/9725. (The
+    pre-existing OCR H431/H436 pair uses the opposite convention — noted, deliberately left
+    untouched as a subjective judgement call on an already-passing record, not a data gap.)
+  - **WS12 (public assessment UX):** the "Assessment structure" section handled `current` and
+    `legacy-teach-out` well but gave `future`/`withdrawn` records no explanatory note at all, gave
+    `routeGroup` components no footnote (unlike `alternativeGroup`), never surfaced
+    `assessmentModel`, and had an incomplete `ASSESSMENT_TYPE_LABEL` map — `multiple-choice` and
+    `alternative-to-practical` were rendering as raw hyphenated slugs on live pages. Fixed all four.
+  - **WS13 (resource-assessment mapping):** resources/articles declare `syllabusCodes` but nothing
+    cross-checked them against real syllabuses.ts/assessments.ts codes. Added a new build-failing
+    check to `scripts/validate-academic-content.mjs`; ran clean against all 784 resources (zero
+    errors, zero warnings), IB explicitly excluded (zero syllabuses.ts coverage, reserved for
+    WS-IB).
+  - **WS14 (i18n for assessment UX):** asked the owner directly whether D-051's English-only hub-
+    page boundary still holds now that WS12 added real content to it. Confirmed yes. Recorded as
+    D-059: verified the i18n architecture/validators are unaffected, and documented concretely
+    what full translation would require (param-aware routing, ~35-40 UI strings, and the harder
+    question of translating 143+127 records' worth of sourced numeric/structural facts) for a
+    future, explicitly-scoped release.
+  - **WS15 (SEO/AEO/AIO):** the richest content this programme built had zero structured data
+    beyond a bare Course node and no FAQ section at all (every other directory-level page already
+    had one). Added a "Assessment FAQs" section + FAQPage JSON-LD, generated strictly from the
+    same `assessments` array the table renders — component-by-component, never a summed total (a
+    summed total would silently fabricate a number across `alternativeGroup`/`routeGroup`
+    alternatives). FAQPage nodes went 50 → 189 site-wide, an exact 1:1 match to assessment
+    coverage.
+  - **WS16 (accessibility/mobile):** found and fixed three real gaps in the same table: no
+    `overflow-x-auto` wrapper (a long paper title could force page-wide horizontal scroll on
+    mobile), no `<caption>` (WCAG 1.3.1), no `scope="col"` on headers (WCAG 1.3.1). Verified the
+    FAQ accordion needed nothing (native `<details>`/`<summary>`, already accessible) and that the
+    `ink-mute` text colour already clears WCAG AA contrast (~6:1).
+  - **WS17 (documentation + review tooling):** README.md still said "12/160" — stale since WS4 of
+    this same programme. Refreshed the Academic data, Validation scripts, and Not built yet
+    sections to the real 139/160 state and the new v2.0 vocabulary/validators. Added
+    `scripts/assessment-review-checklist.mjs` (`npm run review:assessments`) — reporting-only,
+    lists every record's board/code/specStatus/source/verification-age in one place, flagging
+    anything over 180 days old, so a future re-verification pass doesn't require reading a
+    3,000+ line file by hand.
+  - **WS18 (full QA gate):** ran the complete consolidated gate in one pass — `npm audit` (0
+    vulnerabilities), `tsc --noEmit` (clean), `validate:academic` (all checks incl. the new WS13
+    check and the 13-check assessments.ts validator), `build`, 22/22 negative-fixture suite,
+    cross-board regression, all 8 `audit:all` categories, and a fresh `coverage:academic-v2` run.
+    Zero findings, zero code changes required — every workstream's own incremental gate runs had
+    already caught everything.
+  - **WS19 (fresh-clone gate):** cloned the repo fresh into an isolated directory (not the working
+    tree used all session), `npm ci` from empty (0 vulnerabilities), full gate re-run cold
+    (including a cold image-optimisation pass the working tree's cache had been hiding), plus
+    `npx wrangler deploy --dry-run` (3,961 assets read, builds clean). Confirms nothing in this
+    session's changes accidentally depended on working-tree state.
+  - **WS20 (production deployment):** asked the owner for explicit go-ahead before this step,
+    given its consequential nature — approved. Discovered deployment is fully automated via
+    `.github/workflows/deploy.yml` (push to `main` → full CI gate → `cloudflare/wrangler-action`
+    deploy using a `CLOUDFLARE_API_TOKEN` GitHub secret this session never had nor needed local
+    access to) — every push this session (commits `1f783e9` through `f43b787`) had already
+    triggered it. Confirmed live rather than re-triggering redundantly.
+  - **WS21 (live verification):** fetched `https://marlbridge.com/boards/aqa/a-level/business/`
+    and `https://marlbridge.com/boards/aqa/gcse/sociology/` directly from production — both show
+    the exact WS11/WS12/WS15/WS16 output (the 7132/7138 pair with correct current/upcoming
+    labelling, the linear-qualification label, the accessible table caption, both Assessment FAQs)
+    live and correct. Fetched `https://marlbridge.com/llms.txt` — board combination counts (AQA
+    25, Cambridge 54, OCR 12, OxfordAQA 30, Edexcel 18) match the local coverage report exactly.
+- **Verification (cumulative, this session):** every commit (`1f783e9`, `d6ba39b`, `d329f5f`,
+  `85a8c94`, `0c8d066`, `0b4f1db`, `f43b787`) passed the full gate before push: `npx astro sync`,
+  `npx tsc --noEmit`, `validate-assessments.mjs` (13/13), `validate:academic`, `npm run build`,
+  `test-negative-validation-suite.mjs` (22/22), `test-cross-board-regression.mjs`, `audit:all`
+  (8/8 categories), `coverage:academic-v2`. WS19 additionally re-ran the entire chain from a
+  genuinely cold clone. WS21 additionally confirmed the live production output directly.
+- **State at close:** assessments.ts now holds 144 records (142 carried in from WS4-WS10, +2 net
+  new from WS11's 7137/7138 records) across 5 boards (aqa,
+  cambridge, edexcel, ocr, oxfordaqa) — 139/160 ACTIVE combinations have a real, sourced
+  assessment record; the 21 remaining are all International Baccalaureate, explicitly reserved for
+  WS-IB, not silently absent (D-050). Public assessment UX, FAQ/schema generation,
+  resource-code cross-validation, accessibility, and review tooling all now cover every one of
+  those 139 records uniformly, not just the original WS4-WS10 batch.
+- **Status:** WS11-WS21 complete and live in production. WS-IB (International Baccalaureate
+  assessment intelligence, the 21 remaining coverage gaps) is the one item left on the standing
+  task list.
