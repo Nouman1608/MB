@@ -2688,3 +2688,32 @@ clean.
 - **Status:** genuinely a pre-existing data inaccuracy, not something this workstream introduced
   or is silently working around -- tracked here per the standing instruction not to leave
   anything unverified or misrepresented.
+
+
+## D-057 — v2.0 WS6: AQA GCSE Sociology (8192) skipped -- matrix.ts lists it ACTIVE but syllabuses.ts has no matching entry
+
+- **Date:** 2026-08-28.
+- **Workstream:** v2.0 Mega Programme, Workstream 6 (AQA assessment intelligence), batch 1.
+- **What was found:** while researching AQA's 25 ACTIVE combinations for `src/data/academic/assessments.ts`,
+  `src/data/academic/matrix.ts` lists `aqa/gcse/sociology` (code 8192) as `boardOfferingStatus: 'ACTIVE'` and
+  `marlbridgeStatus: 'ACTIVE'`, and a fully-sourced assessment record was drafted for it (two written papers,
+  each 1h45/100marks/50% of GCSE, directly confirmed against AQA's own specification-at-a-glance page). But
+  `src/data/academic/syllabuses.ts` has no `boardSlug: 'aqa', qualificationSlug: 'gcse', subjectSlug: 'sociology'`
+  entry at all -- unlike its sibling `aqa/gcse/psychology` (8182), which does have one. The assessment
+  validator's check [2] (spec code must match a real syllabuses.ts entry for the same
+  board+qualification+subject) correctly rejects the record for exactly this reason.
+- **Decision:** the drafted assessment record was NOT added in this batch. Adding a new `syllabuses.ts` entry
+  to unblock it would be a data-model change outside the stated scope of an assessment-intelligence
+  workstream (which only adds `assessments.ts` records against an existing, already-published
+  board+qualification+subject catalogue) -- following the same reasoning as D-055/D-056, this workstream does
+  not silently patch unrelated files to force a record through.
+- **What would be needed to close this:** add a `syllabuses.ts` entry for `aqa/gcse/sociology` (8192),
+  mirroring the existing `aqa/gcse/psychology` entry's shape, sourced from AQA's own subject page (already
+  fetched this session: https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192). Once that entry
+  exists, the already-researched, already-verified assessment record above (Paper 1: The sociology of
+  families and education; Paper 2: The sociology of crime and deviance and social stratification; each
+  1h45/100marks/50%, source: https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance,
+  verified 2026-08-28) can be added with no further research needed.
+- **Status:** genuinely a pre-existing cross-file gap, not something this workstream introduced or is
+  silently working around -- tracked here per the standing instruction not to leave anything unverified or
+  misrepresented. Also noted in the assessment validator's own NOT_YET_MODELED coverage count.
