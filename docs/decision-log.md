@@ -3431,3 +3431,58 @@ regression test (all controls intact), `npm audit` (0 vulnerabilities).
 
 **Status:** WS10 complete. Proceeding to WS11 (Syllabus/specification
 change tracker) per the programme's WS0-WS25 order.
+
+## D-070 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS11: syllabus/specification change tracker
+
+**Date:** 2026-08-29
+**Workstream:** WS11 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
+
+**What shipped.** A new public page, `/syllabus-updates/`, that aggregates
+every specification transition already recorded in
+`src/data/academic/assessments.ts` (`specStatus` of `'future'`,
+`'legacy-teach-out'` or `'withdrawn'`) into one browsable, grouped list —
+"Upcoming specifications," "Being withdrawn," and "Already withdrawn" — so a
+student, parent or teacher can see every currently-known syllabus change
+across all tracked boards without visiting each subject's hub page
+individually. Added to the footer resources nav as "Syllabus Changes."
+
+**Design decision: aggregation, not new data.** This page adds no new
+claims of its own. Every record shown already exists on its subject's own
+hub page (`[board]/[qualification]/[subject].astro`'s existing
+`specStatus`-conditional callouts, shipped under the v2.0 assessment-
+intelligence programme's WS11/WS12). This page is purely a cross-cutting
+aggregation view over that same source data — the honest way to build a
+"tracker" without inventing a second, parallel dataset that could drift
+from the per-subject pages it's summarising.
+
+**Design decision: what "tracker" honestly means for a static site.** A
+literal live-monitoring feed (something that polls board websites and
+alerts on changes) is out of scope for a statically-generated site with
+manually-verified syllabus data — building one would either be fake (a
+page claiming to monitor changes it cannot actually detect) or a
+significant new piece of infrastructure well beyond this workstream's
+bounds. The honest scope, stated explicitly on the page itself in a "How
+this list is kept accurate" section, is: this reflects specification
+changes officially confirmed by boards and verified against their own
+syllabus documents (the same `verifiedOn` dates already tracked
+per-subject), not a live feed — and a subject's absence from this page
+means no confirmed transition was found, not that none exists.
+
+**Data as of this build.** 146 total assessment records tracked; 7 are
+mid-transition (1 legacy-teach-out: OCR A-level Business H431 → H436,
+final assessment 2027; 6 future: AQA A-level/AS-level Business 7138/7137,
+OxfordAQA A-level Business 9725, OxfordAQA IGCSE Sociology 9292, OxfordAQA
+A-level Sociology 9690, OxfordAQA IGCSE World History 9245); 0 withdrawn.
+The page renders an honest empty-state message if this count ever reaches
+zero, rather than silently showing a blank page.
+
+**Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
+(clean), `npm run build` (1264 pages, up one from the new page),
+`validate:academic` chain, `validate-review-integrity.mjs` (0 problems),
+`audit:all` (8 categories including internal-links — the new footer nav
+link resolves with 0 broken links and 0 orphan pages) plus the i18n route
+check, 22-fixture negative validation suite (22/22 pass), cross-board
+regression test (all controls intact), `npm audit` (0 vulnerabilities).
+
+**Status:** WS11 complete. Proceeding to WS12 (Command-word guide tool)
+per the programme's WS0-WS25 order.

@@ -1,0 +1,182 @@
+---
+/**
+ * Syllabus/specification change tracker -- /syllabus-updates/
+ *
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS11.
+ *
+ * Aggregates every specification transition already recorded in
+ * src/data/academic/assessments.ts (specStatus 'future', 'legacy-teach-out'
+ * or 'withdrawn') into one browsable page, so a student or parent can see
+ * every currently-known syllabus change across all boards without visiting
+ * each subject hub page individually. This page adds no new claims of its
+ * own -- every record here already exists on its subject's hub page (see
+ * [board]/[qualification]/[subject].astro's specStatus-conditional
+ * callouts); this is purely an aggregation view over the same source data.
+ *
+ * Honesty note (see the page's own "How this list is kept accurate"
+ * section): this reflects specification changes that have been officially
+ * confirmed by boards and verified against their own syllabus documents
+ * (see each combination's verifiedOn date on its hub page) -- it is not a
+ * live monitoring feed and does not claim to catch every announcement the
+ * moment it is published. As of this page's build, only 7 of 146 tracked
+ * specification records (about 5%) are mid-transition; the rest are shown
+ * nowhere on this page because there is honestly nothing to report for
+ * them -- matching the codebase's no-filler, no-invented-content
+ * convention (docs/decision-log.md D-050 and others).
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { ASSESSMENTS, type Assessment, type SpecStatus } from '../../data/academic/assessments.ts';
+import { MATRIX, academicHubPath, isPublishable } from '../../utils/academic/index.ts';
+import { routes } from '../../utils/urls/routes';
+
+const path = '/syllabus-updates/';
+
+function comboFor(a: Assessment) {
+  return MATRIX.find(
+    (c) => c.boardSlug === a.boardSlug && c.qualificationSlug === a.qualificationSlug && c.subjectSlug === a.subjectSlug,
+  );
+}
+
+type Row = {
+  assessment: Assessment;
+  boardLabel: string;
+  qualificationLabel: string;
+  subjectLabel: string;
+  hubHref: string | null;
+};
+
+function rowFor(a: Assessment): Row {
+  const c = comboFor(a);
+  return {
+    assessment: a,
+    boardLabel: c?.board ?? a.boardSlug,
+    qualificationLabel: c?.qualification ?? a.qualificationSlug,
+    subjectLabel: c?.subject ?? a.subjectSlug,
+    hubHref: c && isPublishable(c) ? academicHubPath(c) : null,
+  };
+}
+
+const byStatus = (status: SpecStatus) =>
+  ASSESSMENTS.filter((a) => a.specStatus === status).map(rowFor).sort((r1, r2) => r1.assessment.firstAssessment.localeCompare(r2.assessment.firstAssessment));
+
+const future = byStatus('future');
+const legacy = byStatus('legacy-teach-out');
+const withdrawn = byStatus('withdrawn');
+const totalTracked = ASSESSMENTS.length;
+const totalTransitioning = future.length + legacy.length + withdrawn.length;
+---
+<PageLayout
+  title="Syllabus & Specification Changes Tracker"
+  description="Every specification currently mid-transition across the boards Marlbridge tracks -- upcoming syllabuses not yet current, and legacy syllabuses being withdrawn -- with first-teaching, first-assessment and final-assessment dates, sourced from each board's own documentation."
+  path={path}
+  eyebrow="Free tool"
+  heading="Syllabus &amp; specification changes"
+  lead={`A single list of every specification currently mid-transition -- new syllabuses not yet current, and legacy ones being withdrawn -- across all ${totalTracked} specifications Marlbridge tracks. ${totalTransitioning} are in transition today.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Syllabus changes', href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      {future.length > 0 && (
+        <div class="mb-12">
+          <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Upcoming specifications</h2>
+          <p class="m-0 mb-6 text-[14.5px] text-ink-mute">Not yet current -- students should keep following the existing specification until the dates below.</p>
+          <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {future.map((r) => (
+              <div class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+                <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{r.boardLabel} {r.qualificationLabel}</span>
+                <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{r.subjectLabel}</span>
+                <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code}{r.assessment.relatedCode && <> (replaces {r.assessment.relatedCode})</>}</span>
+                <dl class="m-0 mt-1 grid grid-cols-[auto_1fr] gap-x-2 gap-y-0.5 text-[13px] text-ink-mute">
+                  {r.assessment.firstTeaching && (<><dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{r.assessment.firstTeaching}</dd></>)}
+                  <dt class="font-medium text-navy-800">First assessment</dt><dd class="m-0">{r.assessment.firstAssessment}</dd>
+                </dl>
+                {r.hubHref
+                  ? <a href={r.hubHref} class="mt-auto pt-2 text-[13.5px] font-medium text-gold-600 hover:underline">Full detail on the {r.subjectLabel} hub →</a>
+                  : <span class="mt-auto pt-2 text-[13px] text-ink-mute">Not yet published on Marlbridge</span>}
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {legacy.length > 0 && (
+        <div class="mb-12">
+          <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Being withdrawn</h2>
+          <p class="m-0 mb-6 text-[14.5px] text-ink-mute">Still current and assessable, but on their way out -- last exam series noted below.</p>
+          <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {legacy.map((r) => (
+              <div class="flex h-full flex-col gap-2 rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+                <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{r.boardLabel} {r.qualificationLabel}</span>
+                <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{r.subjectLabel}</span>
+                <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code}{r.assessment.relatedCode && <> (being replaced by {r.assessment.relatedCode})</>}</span>
+                {r.assessment.finalAssessment && (
+                  <p class="m-0 mt-1 text-[13px] text-ink-mute"><span class="font-medium text-navy-800">Final assessment:</span> {r.assessment.finalAssessment}</p>
+                )}
+                {r.hubHref
+                  ? <a href={r.hubHref} class="mt-auto pt-2 text-[13.5px] font-medium text-gold-600 hover:underline">Full detail on the {r.subjectLabel} hub →</a>
+                  : <span class="mt-auto pt-2 text-[13px] text-ink-mute">Not yet published on Marlbridge</span>}
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {withdrawn.length > 0 && (
+        <div class="mb-12">
+          <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Already withdrawn</h2>
+          <p class="m-0 mb-6 text-[14.5px] text-ink-mute">No longer assessable. Shown for historical reference only.</p>
+          <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {withdrawn.map((r) => (
+              <div class="flex h-full flex-col gap-2 rounded-sm border border-dashed border-rule bg-ivory p-[clamp(20px,2vw,26px)]">
+                <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{r.boardLabel} {r.qualificationLabel}</span>
+                <span class="text-[17px] font-semibold tracking-[-0.01em] text-navy-800">{r.subjectLabel}</span>
+                <span class="text-[13.5px] text-ink-mute">Specification {r.assessment.code}{r.assessment.relatedCode && <>; see {r.assessment.relatedCode}</>}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {totalTransitioning === 0 && (
+        <p class="m-0 rounded-sm border border-dashed border-rule bg-ivory p-6 text-[15px] text-ink-mute">
+          No specification transitions are currently tracked. Every specification Marlbridge covers is shown as its board's current, ongoing syllabus.
+        </p>
+      )}
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What these statuses mean</h2>
+      <div class="grid gap-6 sm:grid-cols-3">
+        <div>
+          <p class="m-0 font-semibold text-navy-800">Upcoming</p>
+          <p class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">A new specification has been announced with a confirmed first-teaching and/or first-assessment date, but it is not yet the specification current students should be following.</p>
+        </div>
+        <div>
+          <p class="m-0 font-semibold text-navy-800">Being withdrawn</p>
+          <p class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">Still a live, assessable specification today, with a confirmed final exam series after which it will no longer be offered.</p>
+        </div>
+        <div>
+          <p class="m-0 font-semibold text-navy-800">Withdrawn</p>
+          <p class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">No longer assessable by any board. Kept here only for historical reference, never as a live study option.</p>
+        </div>
+      </div>
+
+      <h3 class="m-0 mb-2 mt-10 text-[17px] font-semibold text-navy-800">How this list is kept accurate</h3>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Every entry above is sourced directly from the relevant board's own published syllabus or specification
+        documentation, and is cross-checked against the same official-source URL cited on that subject's hub page.
+        This page is not a live monitoring feed -- it reflects Marlbridge's most recent verification of each
+        specification, dated on that subject's own hub page. If a subject you're following isn't listed here, it
+        means Marlbridge has found no officially confirmed transition for it -- not that none exists; always check
+        the board's own website for the most current word on your specific specification and examination series.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>

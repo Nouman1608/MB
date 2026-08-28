@@ -40,6 +40,7 @@ export const footerNav = {
     { label: 'Revision Notes', href: '/resources/#revision-notes' },
     { label: 'Practice Questions', href: '/resources/#practice-questions' },
     { label: 'Practice (Self-Check)', href: '/practice/' },
+    { label: 'Syllabus Changes', href: '/syllabus-updates/' },
     { label: 'Learning Journal', href: '/articles/' },
     { label: 'Printable Checklists', href: '/checklists/' },
   ],
