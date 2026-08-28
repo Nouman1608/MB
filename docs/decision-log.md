@@ -3137,3 +3137,40 @@ clean.
   "authorship/review/correction") was already delivered in WS2 (D-063).
 - **Status:** WS3 complete within its honestly-achievable scope. Proceeding to WS4 (flagship
   authority gap audit — 0620/0625/0580/9701/9702) per the programme's own WS0–WS25 execution order.
+
+## D-065 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS4: flagship authority gap audit
+
+- **Context:** Recommendation 2 concentrates flagship authority-building effort on five named
+  Cambridge specifications: 0620 (IGCSE Chemistry), 0625 (IGCSE Physics), 0580 (IGCSE Mathematics),
+  9701 (A-level Chemistry), 9702 (A-level Physics). Before committing further content effort (WS5,
+  WS9, WS10), this workstream measured where each of the five actually stands today, rather than
+  assuming they're at parity.
+- **Method:** for each flagship, checked (a) syllabus record presence/freshness (`syllabuses.ts`),
+  (b) assessment record presence (`assessments.ts`), (c) syllabus-topic coverage
+  (`syllabus-topics.ts`), (d) published resource count and type mix, matched via each resource's
+  own `syllabusCodes` frontmatter field (not board/qualification/subject string matching, which
+  undercounts due to naming variance), and (e) built hub-page word count and indexability status
+  from the actual `dist/` output.
+- **Findings (real counts, not estimates):**
+  - **0620 IGCSE Chemistry:** syllabus + 1 assessment record + 14 topic stage-keys, all present.
+    48 resources (15 practice, 16 revision-notes, 17 study-guides). Hub page: 4,036 words, indexed.
+    Strong depth.
+  - **9701 A-level Chemistry:** same structural coverage. 113 resources (35/35/43). Hub page:
+    8,060 words, indexed. Strongest of the five.
+  - **9702 A-level Physics:** same structural coverage. 75 resources (25/25/25). Hub page: 5,807
+    words, indexed. Strong depth.
+  - **0625 IGCSE Physics:** same structural coverage (syllabus/assessment/topics all present) but
+    only **2 resources, both study-guides** — zero practice-questions, zero revision-notes. Hub
+    page: 1,650 words. Indexed today (clears the 400-word bar) but thin relative to its siblings.
+  - **0580 IGCSE Mathematics:** same structural coverage, only **3 resources** (1 of each type).
+    Hub page: 1,411 words. Indexed but the shallowest of the five.
+- **Conclusion / priority ordering for WS5/WS9/WS10:** the data/schema layer (syllabus,
+  assessment, topics) is already at parity across all five flagships — the real, actionable gap is
+  entirely in published study-resource depth. 0620/9701/9702 are already genuinely strong and need
+  only maintenance-level attention going forward (already covered by their own WS5/WS10 slots).
+  0625 and 0580 are the two flagships that actually need substantial new resource content to reach
+  parity — this reprioritizes WS9 ("0625/0580 flagship depth") as the higher-value next content
+  workstream relative to WS5/WS10, which is reflected in the task queue ordering.
+- **Status:** WS4 complete — audit only, no site changes this workstream (data/logic unchanged,
+  full gate already green from WS3 and remains applicable). Proceeding to WS5 per the programme's
+  WS0–WS25 order, informed by this audit's priority finding.
