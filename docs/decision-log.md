@@ -3174,3 +3174,42 @@ clean.
 - **Status:** WS4 complete — audit only, no site changes this workstream (data/logic unchanged,
   full gate already green from WS3 and remains applicable). Proceeding to WS5 per the programme's
   WS0–WS25 order, informed by this audit's priority finding.
+
+## D-066 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS5: 0620 flagship completion
+
+- **Context:** WS4's audit (D-065) found 0620 already at strong resource depth (48 resources) but
+  identified 5 of its 49 syllabus subtopics with zero published resources at all, entirely
+  concentrated in Topic 6.1 (Physical and chemical changes) and Topic 12.1–12.4 (Experimental
+  design, Acid–base titrations, Chromatography, Separation and purification).
+- **What was built:** two new study-guide resources, sourced directly from the real Cambridge
+  IGCSE Chemistry 0620 syllabus PDF (2026–2028 series, fetched from the same `officialUrl` already
+  recorded in `syllabus-topics.ts` — not written from memory):
+  - `physical-and-chemical-changes.md` — Topic 6.1 (a genuinely small, single-outcome, Core-only
+    subtopic; kept correspondingly short rather than padded).
+  - `practical-techniques-titrations-chromatography-separation.md` — Topics 12.1–12.4 (apparatus
+    selection, titration method and end-point identification, paper chromatography including the
+    Extended-only Rf equation, and the five separation/purification methods), bundling four related
+    subtopics into one resource cluster, matching the existing convention already used elsewhere in
+    this topic (12.5 has its own separate file, `identification-of-ions-and-gases.md`).
+  - Both resources also cite the correct outcome-level syllabus text (Core vs Supplement) verbatim
+    from the fetched PDF, tagged by subtopic number, matching the established `acids-bases-and-salts`
+    resource's own "Syllabus coverage" section format.
+  - Both cover Cambridge O Level Chemistry 5070 as well as 0620 — confirmed via `topicsFor('cambridge',
+    'o-level', 'chemistry')` that 5070 shares identical Topic 6/12 numbering and subtopic slugs with
+    0620, matching the dual-qualification convention already used by every other Topic 6/7/12
+    resource on the site.
+  - Left `reviewer` unset on both (review-pending, the honest sitewide default per
+    `/legal/editorial-policy/` — only one resource sitewide has completed genuine second review;
+    claiming it here without that work happening would be exactly the invented-claim this programme
+    prohibits).
+- **Verification:** confirmed programmatically that all 49/49 0620 subtopics (0/49 → 49/49 zero-gap)
+  now have at least one resource. `npx astro sync` + `npx tsc --noEmit` clean, `npm run build` (1244
+  pages, both new resource pages present in `dist/`), `npm run validate:academic` (13/13, coverage
+  unchanged), `node scripts/validate-review-integrity.mjs` (786 resources checked, 0 problems —
+  confirms the review-pending state was recorded correctly), `npm run audit:all` (8/8 clean,
+  including 0 broken internal links — every cross-reference in the two new resources resolves),
+  22/22 negative-fixture suite, cross-board regression clean, `npm audit` 0 vulnerabilities. Spot-
+  checked the 0620 hub page: resource count now reads "Yes — 50 published" (up from 48).
+- **Status:** WS5 complete — 0620's remaining resource gap is closed. 0625 and 0580 remain the
+  larger, genuinely under-resourced flagships per D-065's own priority finding; those are WS9's
+  scope. Proceeding to WS6 (practice engine v1) per the programme's WS0–WS25 execution order.
