@@ -2717,3 +2717,43 @@ clean.
 - **Status:** genuinely a pre-existing cross-file gap, not something this workstream introduced or is
   silently working around -- tracked here per the standing instruction not to leave anything unverified or
   misrepresented. Also noted in the assessment validator's own NOT_YET_MODELED coverage count.
+
+## D-058 — AQA A-level English Literature A (7712): verified but not modeled as its own assessments.ts record
+
+- **Context:** v2.0 WS6 (AQA assessment intelligence) researched and fully verified AQA's A-level English
+  Literature A specification (7712) directly against its own official specification-at-a-glance page
+  (https://www.aqa.org.uk/subjects/english/a-level/english-7712/specification/specification-at-a-glance,
+  verified 2026-08-28): Paper 1 'Love through the ages' (3h, open book Section C only, 75 marks, 40% of
+  A-level -- Section A Shakespeare passage-based question with linked essay, 25 marks; Section B unseen-poetry
+  essay, 25 marks; Section C comparing-texts essay, 25 marks); Paper 2 'Texts in shared contexts' (2h30, open
+  book, 75 marks, 40% of A-level, choice of Option A 'WW1 and its aftermath' or Option B 'Modern times:
+  literature from 1945 to the present day' -- Section A set-text essay, 25 marks; Section B unseen-extract
+  question, 25 marks, plus texts-linking essay, 25 marks); non-exam assessment 'Independent critical study:
+  texts across time' (comparative study of two texts, at least one pre-1900; one 2,500-word essay plus
+  bibliography; 50 marks, 20% of A-level, teacher-assessed and AQA-moderated). Total 200 marks. This is the
+  specification updated for first teaching September 2025 (spec PDF dated 21 Oct 2025), first A-level exams
+  2027 per AQA's own page banner.
+- **Problem:** `src/data/academic/syllabuses.ts` models AQA's `a-level`/`english-literature` combination as a
+  SINGLE entry (code `'7712 / 7717'`) whose officialTitle and boardSummary describe Literature B (7717) only
+  -- because AQA genuinely publishes two independent, simultaneously-current A-level English Literature
+  specifications (Literature A and Literature B) under one subjectSlug in this site's data model. The
+  `assessments.ts` validator's check [6] (exactly one 'current' record per board+qualification+subject+tier
+  group) correctly rejects having both 7712 and 7717 marked 'current' at once for the same subjectSlug --
+  they are not a legacy/current transition pair (like the Business 7132/7138 or 7131/7137 pairs elsewhere in
+  this same batch), they are two co-existing, equally-valid, permanently-parallel specifications, which this
+  file's schema has no vocabulary for.
+- **Decision:** only the 7717 (Literature B) assessment record was added to `assessments.ts` in this batch,
+  matching the specification `syllabuses.ts` already documents in its officialTitle/boardSummary. The fully
+  verified 7712 (Literature A) facts above are recorded here instead of forced into a colliding 'current'
+  record or silently dropped. Changing `syllabuses.ts`/`matrix.ts` to model Literature A and Literature B as
+  two distinct subjectSlugs (e.g. `english-literature-a` / `english-literature-b`) would be a data-model
+  change outside the stated scope of an assessment-intelligence workstream -- following the same reasoning as
+  D-055/D-056/D-057, this workstream does not silently restructure unrelated files to force a record through.
+- **What would be needed to close this:** either (a) add a distinct subjectSlug for Literature A across
+  `matrix.ts`/`syllabuses.ts` and this file, or (b) extend the assessment-model vocabulary with a status for
+  "co-existing alternative specifications, not a legacy/current pair" so both can be recorded as 'current'
+  without colliding. Once either exists, the already-researched, already-verified assessment record above can
+  be added with no further research needed.
+- **Status:** a genuine data-model boundary, not something this workstream introduced or is silently working
+  around -- tracked here per the standing instruction not to leave anything unverified or misrepresented.
+  Also noted in the assessment validator's own NOT_YET_MODELED coverage count.
