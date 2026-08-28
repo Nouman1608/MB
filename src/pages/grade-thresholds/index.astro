@@ -1,0 +1,118 @@
+---
+/**
+ * Grade-threshold explorer -- /grade-thresholds/
+ *
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS14.
+ *
+ * See src/data/academic/grade-thresholds.ts for the sourcing and scope
+ * decisions. A select dropdown swaps between the 5 flagship specs'
+ * tables client-side (progressive enhancement -- with JS disabled every
+ * table simply shows at once, so nothing is hidden or broken).
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { GRADE_THRESHOLDS, type Grade } from '../../data/academic/grade-thresholds.ts';
+import { routes } from '../../utils/urls/routes';
+
+const path = '/grade-thresholds/';
+const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b', 'c', 'd', 'e'];
+---
+<PageLayout
+  title="Grade Threshold Explorer — Cambridge Grade Boundaries"
+  description="Verified June 2026 grade thresholds (grade boundaries) for Cambridge IGCSE Chemistry, Physics, Mathematics and AS &amp; A Level Chemistry, Physics -- sourced directly from Cambridge's own official grade-threshold documents."
+  path={path}
+  eyebrow="Free tool"
+  heading="Grade threshold explorer"
+  lead={`The minimum mark needed for each grade in the June 2026 series, for ${GRADE_THRESHOLDS.length} flagship Cambridge specifications -- copied directly from Cambridge's own official grade-threshold documents, not estimated.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Grade thresholds', href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      <div class="mx-auto max-w-[360px]">
+        <label for="mb-gt-select" class="m-0 mb-2 block text-[13px] font-medium uppercase tracking-[0.1em] text-ink-mute">Choose a specification</label>
+        <select id="mb-gt-select" class="w-full rounded-sm border border-rule bg-white px-4 py-3 text-[16px] text-navy-800 outline-none transition-colors duration-150 focus:border-gold-500">
+          {GRADE_THRESHOLDS.map((g) => (
+            <option value={g.code}>{g.qualificationLabel} {g.subjectLabel} ({g.code})</option>
+          ))}
+        </select>
+      </div>
+
+      <div class="mt-10 flex flex-col gap-14">
+        {GRADE_THRESHOLDS.map((g) => (
+          <div class="mb-gt-panel" data-code={g.code}>
+            <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">{g.qualificationLabel} {g.subjectLabel} <span class="font-mono text-[16px] font-normal text-ink-mute">({g.code})</span></h2>
+            <p class="m-0 mb-6 text-[13.5px] text-ink-mute">{g.series} series</p>
+
+            <div class="overflow-x-auto rounded-sm border border-rule">
+              <table class="w-full min-w-[520px] border-collapse text-[13.5px]">
+                <thead>
+                  <tr class="border-b border-rule bg-ivory">
+                    <th class="px-4 py-3 text-left font-medium text-navy-800">Route</th>
+                    <th class="px-3 py-3 text-right font-medium text-navy-800">Max mark</th>
+                    {GRADE_ORDER.map((grade) => (
+                      <th class="px-3 py-3 text-right font-medium text-navy-800">{grade}</th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {g.rows.map((row, i) => (
+                    <tr class={i % 2 === 1 ? 'bg-ivory/50' : ''}>
+                      <td class="px-4 py-3 text-ink-mute">{row.combination}</td>
+                      <td class="px-3 py-3 text-right font-medium text-navy-800">{row.maxMark}</td>
+                      {GRADE_ORDER.map((grade) => (
+                        <td class="px-3 py-3 text-right text-navy-800">{row.thresholds[grade] ?? '—'}</td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+
+            {g.note && <p class="m-0 mt-4 max-w-[70ch] text-[13px] text-ink-mute">{g.note}</p>}
+
+            <p class="m-0 mt-3 text-[13px] text-ink-mute">
+              Sourced directly from Cambridge's official grade-threshold document for {g.code}, {g.series}, verified {g.verifiedOn} —
+              {' '}<a href={g.officialSourceUrl} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">view the original PDF</a>.
+            </p>
+          </div>
+        ))}
+      </div>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Why grade thresholds change every series</h2>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Cambridge sets grade thresholds independently for every exam series, based on how that specific paper performed —
+        not on a fixed percentage. This is deliberate: it accounts for small variations in how demanding a particular
+        paper turned out to be, so a grade means the same standard of achievement across different series even when
+        the papers themselves aren't identically difficult. The practical result is that a mark that earned a B in one
+        series might earn an A or a C in another — always check the threshold table for the exact series you sat, not
+        a different one, and never assume this series' numbers will repeat next time.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>
+
+<script is:inline>
+  (function () {
+    var select = document.getElementById('mb-gt-select');
+    var panels = Array.prototype.slice.call(document.querySelectorAll('.mb-gt-panel'));
+    if (!select || panels.length === 0) return;
+
+    function apply() {
+      var code = select.value;
+      panels.forEach(function (p) {
+        p.style.display = p.getAttribute('data-code') === code ? '' : 'none';
+      });
+    }
+
+    select.addEventListener('change', apply);
+    apply();
+  })();
+</script>

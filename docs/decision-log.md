@@ -3589,3 +3589,59 @@ intact), `npm audit` (0 vulnerabilities).
 
 **Status:** WS13 complete. Proceeding to WS14 (Grade-threshold explorer)
 per the programme's WS0-WS25 order.
+
+## D-073 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS14: grade-threshold explorer
+
+**Date:** 2026-08-29
+**Workstream:** WS14 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
+
+**What shipped.** A new public page, `/grade-thresholds/`, showing the
+minimum mark needed for each grade (grade boundaries) for all 5 flagship
+specifications, June 2026 series — sourced directly from Cambridge's own
+official grade-threshold PDFs, one per syllabus, fetched individually. A
+select dropdown swaps between specs client-side; with JS disabled every
+table simply renders at once (progressive enhancement, no functionality
+lost). Added to the footer resources nav as "Grade Thresholds."
+
+**A real accuracy catch during drafting.** The first draft of
+`src/data/academic/grade-thresholds.ts` attempted to show one row per
+tier (Core/Extended) for 0620/0625/0580 by *averaging* the several
+real paper-combination routes Cambridge publishes for each tier. That
+would have produced numbers Cambridge never actually published — a
+fabrication risk despite starting from real source data. Caught before
+copying into the repo or committing: rewritten to show the single
+first-listed, most-standard route per tier verbatim, exactly as printed
+in the source PDF, with an explicit note that other real routes exist in
+the full PDF. Every number now in the file is one Cambridge itself
+published, not a derived or estimated one.
+
+**Sourcing.** All 5 datasets fetched directly from Cambridge's own PDFs,
+each verified 2026-08-29: `762856-chemistry-0620-june-2026-grade-
+threshold-table.pdf`, `762857-physics-0625-...`, `762852-mathematics-
+without-coursework-0580-...`, `761525-chemistry-9701-...`, `761526-
+physics-9702-...` (all under cambridgeinternational.org/Images/).
+
+**Scope, stated on the page itself.** Only syllabus-level (overall grade)
+thresholds are shown, not component-level (per-paper) thresholds — that
+is what the large majority of visitors actually want. For 9701 and 9702,
+only the standard full-A-Level linear-assessment route and the standard
+AS-Level route are shown; Cambridge's real PDF lists dozens of other
+valid routes (staged assessment, alternative paper pairings), all left in
+the linked official PDF rather than reproduced. The page also explains,
+in its own words, why thresholds are set independently each series (not
+a fixed percentage) and explicitly warns against assuming this series'
+numbers will repeat.
+
+**Freshness.** This is a dated snapshot of one series (June 2026), not a
+live feed — the same "add a new dated record, don't edit in place"
+principle from D-072 (exam calendar) applies here for future series.
+
+**Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
+(clean), `npm run build` (1267 pages, up one), `validate:academic` chain,
+`validate-review-integrity.mjs` (0 problems), `audit:all` (8 categories,
+0 broken links/orphans) plus the i18n route check, 22-fixture negative
+validation suite (22/22 pass), cross-board regression test (all controls
+intact), `npm audit` (0 vulnerabilities).
+
+**Status:** WS14 complete. Proceeding to WS15 (Free -> teacher support
+conversion) per the programme's WS0-WS25 order.

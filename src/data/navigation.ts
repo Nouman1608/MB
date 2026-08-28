@@ -43,6 +43,7 @@ export const footerNav = {
     { label: 'Syllabus Changes', href: '/syllabus-updates/' },
     { label: 'Command Words Guide', href: '/command-words/' },
     { label: 'Exam Calendar', href: '/exam-calendar/' },
+    { label: 'Grade Thresholds', href: '/grade-thresholds/' },
     { label: 'Learning Journal', href: '/articles/' },
     { label: 'Printable Checklists', href: '/checklists/' },
   ],
