@@ -1,0 +1,124 @@
+---
+/**
+ * Pakistan regional guidance -- /pakistan/
+ *
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS17.
+ *
+ * Pakistan is Marlbridge's home market: the only region with live,
+ * in-person teaching (via Learners Academy) as well as online tuition,
+ * the only region with a confirmed IB rate, and every board Marlbridge
+ * teaches is available here. This page is deliberately NOT a re-listing
+ * of the full multi-region pricing table already on /pricing/ -- it
+ * pulls only the Pakistan-specific rows from the same typed data (no new
+ * numbers invented here) and focuses on what a Pakistan-based visitor
+ * actually needs to decide: which boards are available, what delivery
+ * modes exist, and how to start a free trial. Board descriptions are
+ * deliberately kept to one line each with a link through to /boards/
+ * rather than repeated in full, to avoid duplicating that page's content.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import CTA from '../../components/ui/CTA.astro';
+import { routes } from '../../utils/urls/routes';
+import { BOARDS } from '../../data/academic/boards';
+import {
+  REGION_PRICING, ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, IB_PRICING,
+  PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee,
+} from '../../data/pricing';
+
+const path = '/pakistan/';
+const pkGroup = REGION_PRICING.find((r) => r.region === 'Pakistan')!;
+const pkOneToOne = ONE_TO_ONE_PRICING.find((r) => r.region === 'Pakistan')!;
+const offeredBoards = BOARDS.filter((b) => b.status === 'offered');
+---
+<PageLayout
+  title="Marlbridge in Pakistan — Boards, Pricing &amp; Free Trial"
+  description="Marlbridge's live teaching operates from Pakistan -- every board we teach (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR, IB), group and one-to-one pricing in PKR, and how to book a free trial class."
+  path={path}
+  eyebrow="Pakistan"
+  heading="Marlbridge in Pakistan"
+  lead="Pakistan is where Marlbridge's live teaching operates -- Learners Academy delivers every board and qualification Marlbridge publishes here, in group and one-to-one formats, and it is the only region with a confirmed IB rate."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Pakistan', href: path }]}
+>
+  <Section surface="white">
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Boards and qualifications taught</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        All six boards Marlbridge publishes are available to students in Pakistan -- there is no reduced or region-limited
+        catalogue here. See each board's own page for the full list of qualifications, subjects and syllabus codes covered.
+      </p>
+      <ul class="m-0 grid gap-3 p-0 sm:grid-cols-2" style="list-style: none;">
+        {offeredBoards.map((b) => (
+          <li class="rounded-sm border border-rule bg-ivory p-4">
+            <a href={`/boards/${b.slug}/`} class="text-[15.5px] font-semibold text-navy-800 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{b.name}</a>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Pricing for Pakistan</h2>
+      <p class="m-0 mb-6 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Three delivery formats are available in Pakistan -- group classes (per subject, per month), one-to-one classes (per
+        class), and IB tuition, which is priced differently again and confirmed for Pakistan only. Full terms, discounts and
+        every other region's rate are on the {' '}<a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">pricing page</a>.
+      </p>
+
+      <div class="grid gap-5 sm:grid-cols-3">
+        <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+          <p class="m-0 mb-1 text-[13px] font-medium uppercase tracking-[0.08em] text-gold-600">Group classes</p>
+          <p class="m-0 mt-2 text-[15px] text-navy-800">
+            {formatFee(pkGroup.igcse, pkGroup.currency)} {pkGroup.currency} <span class="text-[13px] text-ink-mute">/subject/month — GCSE / IGCSE / O Level</span>
+          </p>
+          <p class="m-0 mt-2 text-[15px] text-navy-800">
+            {formatFee(pkGroup.aLevel, pkGroup.currency)} {pkGroup.currency} <span class="text-[13px] text-ink-mute">/subject/month — AS / A Level</span>
+          </p>
+          <p class="m-0 mt-3 text-[13px] text-ink-mute">{PRICING_TERMS.classFormat.group}</p>
+        </div>
+        <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+          <p class="m-0 mb-1 text-[13px] font-medium uppercase tracking-[0.08em] text-gold-600">One-to-one classes</p>
+          <p class="m-0 mt-2 text-[15px] text-navy-800">
+            {formatFee(pkOneToOne.igcse, pkOneToOne.currency)} {pkOneToOne.currency} <span class="text-[13px] text-ink-mute">/class — GCSE / IGCSE / O Level</span>
+          </p>
+          <p class="m-0 mt-2 text-[15px] text-navy-800">
+            {formatFee(pkOneToOne.aLevel, pkOneToOne.currency)} {pkOneToOne.currency} <span class="text-[13px] text-ink-mute">/class — AS / A Level</span>
+          </p>
+          <p class="m-0 mt-3 text-[13px] text-ink-mute">{PRICING_TERMS.classFormat.oneToOne}</p>
+        </div>
+        <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2vw,26px)]">
+          <p class="m-0 mb-1 text-[13px] font-medium uppercase tracking-[0.08em] text-gold-600">IB tuition</p>
+          <p class="m-0 mt-2 text-[15px] text-navy-800">
+            {IB_PRICING.perClass.toLocaleString('en-US')} {IB_PRICING.currency} <span class="text-[13px] text-ink-mute">{IB_PRICING.unit}</span>
+          </p>
+          <p class="m-0 mt-3 text-[13px] text-ink-mute">{IB_PRICING.deliveryMode} Confirmed for Pakistan only.</p>
+        </div>
+      </div>
+
+      <p class="m-0 mt-6 text-[13px] text-ink-mute">
+        {PRICING_TERMS.freeTrial} {PRICING_TERMS.notPermanentNote} Last confirmed {PRICING_VERIFIED_DATE} (one-to-one rates {ONE_TO_ONE_TERMS.verifiedDate}).
+      </p>
+    </Container>
+  </Section>
+
+  <Section surface="white" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">What Marlbridge does not cover</h2>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Marlbridge teaches the six international boards listed above -- it does not currently offer tuition for Pakistan's
+        own Matriculation, Federal Board (FBISE) or provincial-board examinations. If your child is studying toward one of
+        those, this site and its pricing do not apply to that route. If you're unsure which category your school's exams
+        fall into, {' '}<a href={routes.contact} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">get in touch</a> and we'll clarify honestly rather than guess.
+      </p>
+    </Container>
+  </Section>
+
+  <CTA
+    surface="ivory"
+    heading="Ready to see how a class works? Request a free trial and we'll confirm a teacher and a time by email."
+    buttonLabel="Request a Free Trial"
+    buttonHref={routes.trial}
+  />
+</PageLayout>

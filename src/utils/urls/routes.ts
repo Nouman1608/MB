@@ -22,6 +22,8 @@ export const routes = {
   about: '/about/',
   contact: '/contact/',
   trial: '/trial/',
+  pakistan: '/pakistan/',
+  gulf: '/gulf/',
 } as const;
 
 export const resourceUrl = (entry: CollectionEntry<'resources'>) =>

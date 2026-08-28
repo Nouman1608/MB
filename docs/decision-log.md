@@ -3768,3 +3768,74 @@ render the new "LA" badge and the `learnersacademy.com.pk` outbound link.
 
 **Status:** WS16 complete. Proceeding to WS17 (Pakistan regional
 guidance) per the programme's WS0-WS25 order.
+
+## D-076 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS17 & WS18: Pakistan and Gulf regional guidance
+
+**Date:** 2026-08-29
+**Workstreams:** WS17 (Pakistan regional guidance) and WS18 (Gulf regional
+guidance) of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME
+(WS0-WS25). Shipped together since they share the same data sources and
+the same design decision about avoiding duplication with existing pages.
+
+**Context.** `/pricing/` already lists every priced region in one table,
+and `/boards/<slug>/` already carries each board's full description --
+so a naive "regional page" for Pakistan or the Gulf would mostly
+duplicate content that already exists elsewhere on the site, which this
+programme's established duplicate-content discipline (see the v1.x
+programme's duplicate-content cleanup work) treats as a real risk, not
+just a style preference. Both new pages were designed around a single
+rule: pull only the region-relevant *rows* from the existing typed data
+(`src/data/pricing.ts`, `src/data/academic/boards.ts`) -- no new prices,
+board facts or founding claims were invented -- and add only the one
+piece of context that region genuinely needs and that no existing page
+covers.
+
+**What shipped.**
+
+- `/pakistan/` (`src/pages/pakistan/index.astro`) -- Pakistan is
+  Marlbridge's home market: the only region with live, in-person teaching
+  as well as online tuition, and the only region with a confirmed IB
+  rate. The page lists all six boards (one line each, linking to
+  `/boards/<slug>/` rather than repeating each board's `about` text),
+  shows the three Pakistan-specific pricing rows (group, one-to-one, IB)
+  pulled directly from `pricing.ts`, and closes with an honest scope
+  statement: Marlbridge does not teach Pakistan's own Matriculation,
+  Federal Board (FBISE) or provincial-board examinations -- only the six
+  international boards it publishes.
+- `/gulf/` (`src/pages/gulf/index.astro`) -- covers the six Gulf
+  countries with a confirmed rate (Saudi Arabia, UAE, Qatar, Kuwait,
+  Bahrain, Oman). Adds a time-zone table (Pakistan Standard Time,
+  UTC+5, is one hour ahead of the UAE/Oman and two hours ahead of Saudi
+  Arabia/Qatar/Kuwait/Bahrain -- standard, unchanging UTC offsets, stated
+  for orientation only, not as a scheduling guarantee) and the six
+  Gulf pricing rows (group and one-to-one) from `pricing.ts`.
+- `src/utils/urls/routes.ts` -- added `routes.pakistan` and
+  `routes.gulf`.
+- `src/data/navigation.ts` -- added "Pakistan" and "Gulf" to the
+  footer's `explore` list, so both pages are reachable from every page
+  and are not orphans.
+- Both pages end with the existing `CTA` component pointing to
+  `/trial/`, matching the pattern established in WS15.
+
+**Sourcing discipline.** Every price shown is read live from
+`REGION_PRICING`, `ONE_TO_ONE_PRICING` and `IB_PRICING` in
+`pricing.ts` -- no number is retyped or recalculated on the page. The
+Gulf time-zone offsets are standard, non-daylight-saving UTC offsets for
+each named country, not a sourced-and-dated fact the way syllabus data
+is -- they don't change and carry no `verifiedOn` field for that reason,
+consistent with how this repo treats stable geographic facts elsewhere.
+
+**Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
+(clean), `npm run build` (1269 pages, +2 for the new routes),
+`validate-review-integrity.mjs` (0 problems), `audit:all` (8 categories,
+0 broken links, 0 orphan pages -- confirming both new pages are reachable
+via the new nav entries) plus the i18n route check, 22-fixture negative
+validation suite (22/22 pass), cross-board regression test (all controls
+intact), `npm audit` (0 vulnerabilities). Manually confirmed in the built
+`dist/` output that every price on both pages matches the typed source
+data exactly, including three-decimal KWD/BHD/OMR precision, and that
+both pages clear the 400-word indexability bar (737 and 848 words
+respectively).
+
+**Status:** WS17 and WS18 complete. Proceeding to WS19 (crawl/sitemap/
+schema/CWV hardening) per the programme's WS0-WS25 order.
