@@ -36,6 +36,8 @@ import { faqNode } from '../../../../utils/schema/faq';
 import FAQ from '../../../../components/ui/FAQ.astro';
 import { enrolmentOpenFor } from '../../../../utils/content/status';
 import { routes } from '../../../../utils/urls/routes';
+import { FALLBACK_EMAIL } from '../../../../utils/forms/submit';
+import { site } from '../../../../data/site';
 
 export async function getStaticPaths() {
   return activeOnly().map((c) => ({
@@ -47,6 +49,14 @@ export async function getStaticPaths() {
 const { combination: c } = Astro.props as { combination: Combination };
 const path = academicHubPath(c);
 const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+/**
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS2 -- every academic
+ * hub carries a real, working correction affordance (not just an abstract
+ * policy on /legal/editorial-policy/). Subject/body are pre-filled with this
+ * exact page's identity so a report always arrives with enough context to
+ * act on -- see docs/decision-log.md D-063.
+ */
+const correctionMailto = `mailto:${FALLBACK_EMAIL}?subject=${encodeURIComponent(`Correction: ${c.board} ${c.qualification} ${c.subject}${syllabus ? ` (${syllabus.code})` : ''}`)}&body=${encodeURIComponent(`Page: ${site.url}${path}\n\nWhat looks wrong:\n`)}`;
 
 /**
  * v1.x CLOSURE WS5 -- real, sourced assessment structure (papers,
@@ -338,6 +348,11 @@ const jsonLd = [
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
       </dl>
+      <p class="m-0 mt-6 text-[13.5px] text-ink-mute">
+        Spotted something wrong on this page?
+        {' '}<a href={correctionMailto} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Report an error</a>
+        {' '}— see the <a href="/legal/editorial-policy/" class="underline decoration-rule underline-offset-2">corrections policy</a>.
+      </p>
     </Container>
   </Section>
 

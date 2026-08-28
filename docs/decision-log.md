@@ -3047,3 +3047,44 @@ clean.
   `/syllabus/h432/` → `/boards/ocr/a-level/chemistry/`).
 - **Status:** WS1 complete. Proceeding to WS2 (permanent syllabus/specification-code hub content
   audit) per the programme's own WS0–WS25 execution order.
+
+## D-063 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS2: permanent syllabus/specification-code hub audit
+
+- **Context:** Recommendation 2 of the new growth programme calls for durable, canonical hub content
+  on every syllabus/specification-code page, checked against four required fields: related-
+  specification links, a teaching-support CTA, a last-reviewed date, and a correction mechanism.
+- **Audit findings:** three of the four fields were already genuinely present on the
+  `/boards/{board}/{qualification}/{subject}/` reference template (`src/pages/boards/[board]/
+  [qualification]/[subject].astro`), not newly built this session:
+  - *Related-specification links* — the existing "{subject} at other qualifications" section
+    (siblings within the same subject across qualification levels, e.g. IGCSE Chemistry ->
+    A-level Chemistry) already cross-links.
+  - *Teaching-support CTA* — the existing bottom-of-page CTA ("Studying ... ? Tell us where the
+    difficulty is." -> `/tutoring/`) already converts every hub page toward teaching support.
+  - *Last-reviewed date* — the existing "Where was this verified?" field in the "At a glance" box
+    already surfaces `syllabus.verifiedOn` + official-source attribution, sourced from
+    `src/data/academic/syllabuses.ts` (144 records; the only 19 combinations without a record are
+    the same IB gap already tracked in D-050/D-061 — confirmed programmatically, not a new gap).
+  - *Correction mechanism* — **genuinely missing** at the page level. The site's corrections
+    policy existed only as prose on the separate `/legal/editorial-policy/` page; no hub page
+    linked to it or offered a way to report an issue with that specific page.
+- **What was built:** a `correctionMailto` constant added to the hub template, built from the
+  single-source `FALLBACK_EMAIL` (`hello@marlbridge.com`, `utils/forms/submit.ts`) and `site.url`
+  (`data/site.ts`), pre-filled with a subject line identifying the exact board/qualification/
+  subject/code and a body containing the canonical page URL — so every report arrives with enough
+  context to act on without the reader typing it themselves. Rendered as a "Spotted something wrong
+  on this page? Report an error" line directly under the "At a glance" box, linking to both the
+  mailto and the existing `/legal/editorial-policy/` corrections policy for context. Present on
+  all 160 ACTIVE hub pages regardless of whether a syllabus/assessment record exists yet (verified
+  on both a fully-modeled page, Cambridge IGCSE Chemistry 0620, and an IB gap page with no syllabus
+  record, DP Business — the subject line correctly omits the code parenthetical when none exists).
+- **Verification:** `npx astro sync` + `npx tsc --noEmit` clean, `npm run build` (1242 pages),
+  `npm run validate:academic` (13/13 checks, 141/160 coverage unchanged), `npm run audit:all`
+  (8/8 categories clean), 22/22 negative-fixture suite, cross-board regression clean, `npm audit`
+  0 vulnerabilities. Spot-checked built HTML on both page types above to confirm the mailto encodes
+  correctly (`encodeURIComponent` on subject/body, real `hello@marlbridge.com`, real canonical
+  `https://marlbridge.com/...` page URL, not a placeholder).
+- **Status:** WS2 complete. The permanent-hub-content bar the brief sets is now met on all four
+  named fields, on all 160 ACTIVE combinations. Proceeding to WS3 (academic provenance —
+  authorship/review/correction, a broader visible-byline concern than this workstream's narrower
+  correction-mechanism fix) per the programme's own WS0–WS25 execution order.
