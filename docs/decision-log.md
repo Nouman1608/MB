@@ -3839,3 +3839,79 @@ respectively).
 
 **Status:** WS17 and WS18 complete. Proceeding to WS19 (crawl/sitemap/
 schema/CWV hardening) per the programme's WS0-WS25 order.
+
+## D-077 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS19: crawl/sitemap/schema/CWV hardening
+
+**Date:** 2026-08-29
+**Workstream:** WS19 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA
+PROGRAMME (WS0-WS25).
+
+**Context.** This site's crawl, sitemap, structured-data and Core Web
+Vitals infrastructure has already been through multiple dedicated
+hardening passes in earlier programmes (v1.x Phase 2 sitemap/robots,
+Phase 6 canonical/redirects, Phase 7 fonts, Phase 8 real Lighthouse
+baseline, Phase 10 structured data; v2.0's own `audit:redirects`,
+`audit:structured-data`, `audit:internal-links`, `audit:content-integrity`,
+`audit:fonts` and the sitemap-noindex/i18n-route safeguards, all of which
+run on every build). WS19's job here is to verify that discipline still
+holds after WS16-18 shipped three new pages, and to genuinely try a fresh
+live Core Web Vitals measurement rather than assume the Aug 25 baseline
+still applies -- not to re-invent controls that already exist and are
+already exercised by the gate.
+
+**Verification performed.**
+
+- **Sitemap:** `/pakistan/` and `/gulf/` both appear in
+  `dist/sitemap-0.xml`; `audit:redirects` and `test-sitemap-noindex.mjs`
+  both pass with the sitemap's URL count correctly incremented (1262 ->
+  1264 after WS16 was already live, matching the +2 new pages).
+- **Robots.txt:** unchanged, `Allow: /`, still permits crawling both new
+  pages; no page-level noindex was applied to either.
+- **Structured data:** `audit:structured-data` confirms both new pages
+  carry the same `EducationalOrganization`/`WebSite`/`WebPage` JSON-LD as
+  every other page (1268/1268 pages with JSON-LD after the build that
+  included them, 0 problems).
+- **Canonical/hreflang:** both new pages self-canonicalize correctly and
+  carry no hreflang alternates, consistent with every other English-only
+  utility page on the site (grade-thresholds, command-words, etc.) --
+  they were never meant to be part of the translated-route set.
+- **CWV-relevant static checks** (since no live re-measurement was
+  possible -- see below): 0 render-blocking external `<script>` tags on
+  either new page or a sample of existing pages, every `<img>` has
+  explicit `width`/`height`, font preloads are intact, the CSS bundle is
+  a single ~43KB file, and neither new page ships any client-side JS
+  (matching the site's existing no-framework-runtime, vanilla-`is:inline`
+  pattern) -- both are lighter than the site's average page (222-280 DOM
+  nodes / 28-32KB HTML vs. the homepage's 674 nodes / 76KB).
+- **Caching headers** (`public/_headers`): unchanged and already cover
+  `/_astro/*`, `/images/*`, `/fonts/*`, `/robots.txt` and `/llms.txt`
+  with appropriate long-lived cache windows -- nothing new needed for two
+  plain HTML pages with no new asset types.
+
+**What was attempted but not completed, honestly.** A fresh live
+Lighthouse/PageSpeed re-measurement (to check for regression since the
+Aug 25 baseline in `docs/reports/lighthouse-2026-08-25.md`) was
+attempted two ways and both were genuinely blocked, not skipped:
+(1) running `lighthouse` locally against the `dist/` build -- the CLI
+installs, but no Chromium binary can run in this sandbox (no root access
+to install missing shared libraries; Playwright's bundled Chromium fails
+to launch for the same reason); (2) the public PageSpeed Insights REST
+API -- returns HTTP 429 (daily anonymous quota exhausted), and the
+pagespeed.web.dev web UI, driven through the in-app browser, did not
+complete an analysis run in a reasonable number of attempts. Rather than
+report an invented or stale number as if it were fresh, this is recorded
+honestly as unmeasured this session. The existing Aug 25 baseline
+(mobile 92 / desktop 98 performance, 96 accessibility, 100/100 best
+practices and SEO on the homepage) remains the last real measurement.
+Since production has not been redeployed with any WS16-18 change yet
+(per this programme's standing rule that WS24 gets an explicit go-ahead
+pause before deployment), a live re-measurement today would in any case
+only reflect the pre-WS16 site -- a genuinely fresh, meaningful CWV
+check is deferred to WS24/WS25, after deployment, when the actual
+current build is what a live tool would measure.
+
+**Status:** WS19 complete as a verification pass -- no code changes were
+needed; every crawl/sitemap/schema safeguard already in the gate
+continues to pass after WS16-18, and no new-page-specific CWV risk was
+found by static inspection. Proceeding to WS20 (Search Console demand
+engine) per the programme's WS0-WS25 order.
