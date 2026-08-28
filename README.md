@@ -130,9 +130,15 @@ resources, pricing, assessment structure) is validated against:
 - `syllabus-topics.ts` — per-combination, per-series topic/component lists with `source`,
   `sourceUrl`, `verifiedDate`, `status` (`published` / `being-verified`). Nothing here is
   guessed; unverifiable content is marked as such, never invented.
-- `assessments.ts` — paper/component structure, weightings and tiers for the combinations that
-  have a sourced assessment record (12/160 as of the last WS5 pass — a disclosed, tracked gap,
-  not silently absent; see D-050).
+- `assessments.ts` — paper/component structure, weightings, tiers and lifecycle status
+  (`current` / `legacy-teach-out` / `future` / `withdrawn`, with `relatedCode` linking a
+  transition pair) for the combinations that have a sourced assessment record (139/160 as of the
+  v2.0 MEGA PROGRAMME — a disclosed, tracked gap, not silently absent; the 21 remaining are all
+  IB, see D-050). Every record cites `officialSourceUrl` and `verifiedOn`; run
+  `npm run review:assessments` for a per-board checklist of every record's source and how long
+  ago it was verified, useful for prioritising a re-check pass. The public "Assessment structure"
+  section on each academic hub page, and the FAQPage schema generated alongside it, are both
+  built directly from this file (`assessmentsFor()` in the same module).
 
 `node scripts/academic-coverage-report-v2.mjs` (npm: `coverage:academic-v2`) produces a full
 machine-readable coverage report (`docs/reports/academic-coverage-report-v1.2.{json,csv}`) —
@@ -206,7 +212,20 @@ Run before every push; all are wired into `npm run validate:academic` and `npm r
   agreement, i18n route completeness.
 - `scripts/test-negative-validation-suite.mjs` — proves each validator actually rejects the fault
   it claims to catch: mutates a real file, asserts the expected failure message, restores the
-  file byte-for-byte. Lettered categories [A]–[P], each with its own rationale documented inline.
+  file byte-for-byte. 22 lettered categories, each with its own rationale documented inline.
+- `scripts/validate-assessments.mjs` (npm: `validate:assessments`, part of `validate:academic`) —
+  13 build-failing checks specific to `assessments.ts`: source-URL domain match, syllabus-code
+  cross-reference, weighting totals (whole-record and per-`alternativeGroup`/`routeGroup`),
+  duplicate paper/tier pairs, exactly-one-`current`-record-per-group, lifecycle date ordering,
+  and more — see the file's own header comment for the full numbered list.
+- `scripts/academic-coverage-dashboard.mjs` (npm: `coverage:academic`) and
+  `scripts/academic-coverage-report-v2.mjs` (npm: `coverage:academic-v2`) — reporting only, not
+  build-failing: resource/topic coverage and assessment-record coverage (`VERIFIED_COMPLETE` /
+  `VERIFIED_PARTIAL` / `NO_ASSESSMENT_RECORD`) per combination, the latter written to
+  `docs/reports/academic-coverage-report-v1.2.{json,csv}`.
+- `scripts/assessment-review-checklist.mjs` (npm: `review:assessments`) — reporting only: every
+  `assessments.ts` record's board, code, specStatus, source URL and verification age in one
+  place, flagging anything unverified for over 180 days as due for a re-check.
 
 A change that touches academic content, pricing, or translated routes is not done until both
 chains pass clean and, where relevant, a fresh `npm run coverage:academic-v2` run confirms the
@@ -229,6 +248,8 @@ Check it before assuming a gap is an oversight.
 ## Not built yet
 
 Translated collection-item detail pages (programs/subjects/authors/resources/articles by slug)
-and the two academic hub matrices remain English-only (disclosed, D-051). Assessment-structure
-data (`assessments.ts`) covers 12/160 active combinations; populating the remainder is tracked,
-future work (D-050). Location pages and program × subject cross-listing pages are not built.
+and the two academic hub matrices remain English-only (disclosed, D-051; reconfirmed for the
+newly-expanded Assessment structure/FAQ content in D-059, which also documents what full
+hub-page translation would require). Assessment-structure data (`assessments.ts`) covers 139/160
+active combinations; the 21 remaining are all International Baccalaureate, reserved for its own
+workstream (D-050). Location pages and program × subject cross-listing pages are not built.
