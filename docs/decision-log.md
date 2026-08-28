@@ -3213,3 +3213,71 @@ clean.
 - **Status:** WS5 complete — 0620's remaining resource gap is closed. 0625 and 0580 remain the
   larger, genuinely under-resourced flagships per D-065's own priority finding; those are WS9's
   scope. Proceeding to WS6 (practice engine v1) per the programme's WS0–WS25 execution order.
+
+## D-067 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS6/WS7/WS8: self-check practice engine
+
+- **Context:** Recommendation 3 calls for an active-practice product: quizzes, saved progress,
+  timed mode, an error notebook, and weak-topic recommendations. Built as one combined change
+  since WS6/WS7/WS8 share a single localStorage schema and a single page.
+- **The auto-grading question, resolved honestly:** there is no structured (machine-gradable)
+  question data anywhere in this repository. Every `resourceType: "practice-questions"` file is
+  prose — numbered exam-style questions with a matching numbered worked-answer section, no single
+  machine-checkable "correct answer" field. Reducing that to a fake multiple-choice quiz would mean
+  presenting content the site doesn't actually have. So this is a **self-check** engine: attempt,
+  reveal the real worked answer, mark yourself right or wrong. This is an honest reflection of what
+  the underlying content supports (a standard flashcard-style study pattern), not a simulation of
+  auto-grading the site can't do.
+- **Data layer (`src/utils/practice/bank.ts`):** parses every flagship `practice-questions`
+  resource's `## Questions` / `## Answers` sections into discrete question objects keyed by their
+  shared top-level numbering (`**N.**`), verified programmatically against all 76 flagship
+  practice-questions files before being relied on — every file's question numbering matches its
+  answer numbering exactly, 0 mismatches. Result: 232 real parsed questions (0620: 58, 9701: 83,
+  9702: 91; 0625 and 0580: 0, since neither has any published practice-questions resource yet —
+  the same gap D-065 already found). `src/utils/academic/index.ts` gained `flagshipSpecs()` /
+  `isFlagshipCode()` as the single source of the five named flagship codes, resolved against
+  `activeOnly()` (throws if a flagship ever leaves the ACTIVE matrix), replacing the ad-hoc arrays
+  each earlier workstream (D-065, D-066) had been hand-rolling.
+- **Pages:** `/practice/` (index, lists available sessions, discloses the 0625/0580 gap honestly
+  rather than linking to or hiding it) and `/practice/<CODE>/` (generated only for codes with
+  parsed questions — 0620, 9701, 9702; no route exists for 0625/0580 today). Question/answer prose
+  is converted to HTML at build time by a small, deliberately-scoped converter (bold/code/italic/
+  paragraphs only — verified this is the full set of markdown constructs actually present across
+  all 232 questions before writing it, no dependency added for a subset this narrow).
+- **Client engine (vanilla JS, no framework, no account):** one question at a time, reveal-answer,
+  self-mark right/wrong, filter (all / unattempted / previously-wrong), timed-mode toggle with a
+  live elapsed timer, weak-topic ranking (aggregated from wrong marks, resolved to real syllabus
+  topic names via `syllabus-topics.ts`, linking back to the hub's topics section), an error
+  notebook (jump straight back to any previously-wrong question), and a reset control. All state
+  lives in one `localStorage` key per subject (`mb-practice-<CODE>`) — nothing is sent anywhere, a
+  `<noscript>` fallback lists the underlying resources directly for JS-disabled visitors.
+- **Verification:** since this sandbox has no browser install permissions (`playwright install`
+  needs root, unavailable here), verified the actual interactive behaviour with `jsdom` driving
+  the real built HTML/JS in-process — not just "it built." Confirmed: initial render shows the
+  correct first question and a real "0 / 58 attempted" count; reveal-answer shows the correct
+  worked answer; marking wrong increments the count, auto-advances, persists the exact attempt
+  record to `localStorage`, and immediately populates both the weak-topics list (correct topic
+  names) and the error notebook; the timed-mode timer starts and increments; both filters narrow
+  the question set correctly; and — using jsdom's `beforeParse` hook to seed `localStorage` before
+  the page's own script runs, simulating a real page reload — a returning visitor's prior progress,
+  weak topics and notebook are restored correctly on load, and the reset control clears them.
+- **A real bug caught by the validation gate, not by inspection:** the first version linked to
+  `/practice/<CODE>/` using the current combination's own syllabus code, which is correct for the
+  three flagships but wrong for a non-flagship combination that happens to share a
+  practice-questions resource with one (Cambridge O Level Chemistry 5070 shares files with IGCSE
+  0620) — `practiceQuestionsForCode('5070')` legitimately returns results, but no `/practice/5070/`
+  page exists, since only the five flagship codes get a generated route.
+  `audit-internal-links.mjs` caught this as a genuine broken link on the 5070 hub page during this
+  workstream's own gate run. Fixed by gating the hub page's practice link on `isFlagshipCode()`, not
+  merely on whether questions exist for that code — re-ran the full gate clean afterward.
+  `npx astro sync` + `npx tsc --noEmit` clean, `npm run build` (1248 pages), `npm run
+  validate:academic` (13/13, coverage unchanged), `npm run audit:all` (8/8 clean, 0 broken links),
+  22/22 negative-fixture suite, cross-board regression clean, `npm audit` 0 vulnerabilities.
+- **Discoverability:** added to `footerNav.resources` as "Practice (Self-Check)"; the hub template
+  gained a conditional "Free practice questions?" row (flagship pages only) linking straight into
+  the relevant session. Primary nav was deliberately left unchanged — four more standalone tools
+  (WS11-WS14) are still to come, and bolting each one onto primary nav individually would bloat it;
+  a consolidated "Tools" entry once more of them exist is the better call, revisited then.
+  English-only for now, matching the established D-051/D-059/D-062 pattern for new UX.
+- **Status:** WS6/WS7/WS8 complete for the three flagships that have question data. 0625/0580 gain
+  a practice session automatically once WS9 publishes practice-questions content for them — no
+  further engineering required, just data. Proceeding to WS9 per the programme's WS0–WS25 order.

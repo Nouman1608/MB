@@ -23,7 +23,7 @@ import ArticleCard from '../../../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../../../components/layout/RelatedGrid.astro';
 import EmptyState from '../../../../components/ui/EmptyState.astro';
 import CTA from '../../../../components/ui/CTA.astro';
-import { activeOnly, offeringsForSubject, academicHubPath, boardPath, levelPath, LEVEL_FOR_QUALIFICATION, type Combination } from '../../../../utils/academic';
+import { activeOnly, offeringsForSubject, academicHubPath, boardPath, levelPath, LEVEL_FOR_QUALIFICATION, isFlagshipCode, type Combination } from '../../../../utils/academic';
 import { subjectBySlug } from '../../../../data/academic/subjects';
 import { syllabusFor } from '../../../../data/academic/syllabuses';
 import { assessmentsFor } from '../../../../data/academic/assessments';
@@ -32,6 +32,7 @@ import { getResources } from '../../../../utils/content/collections';
 import { isIndexableAcademicPage } from '../../../../utils/seo/indexability';
 import { relatedArticles } from '../../../../utils/content/related';
 import { courseNode } from '../../../../utils/schema/course';
+import { practiceQuestionsForCode } from '../../../../utils/practice/bank.ts';
 import { faqNode } from '../../../../utils/schema/faq';
 import FAQ from '../../../../components/ui/FAQ.astro';
 import { enrolmentOpenFor } from '../../../../utils/content/status';
@@ -49,6 +50,24 @@ export async function getStaticPaths() {
 const { combination: c } = Astro.props as { combination: Combination };
 const path = academicHubPath(c);
 const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
+/**
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS6 -- the self-
+ * check practice engine (see utils/practice/bank.ts) only has real
+ * question data for the flagship codes that actually have published
+ * practice-questions resources (0620/9701/9702 today, not 0625/0580 --
+ * see docs/decision-log.md D-067). practiceQuestionsForCode() returns
+ * an empty array for every other combination's code, which is exactly
+ * right: cheap to call unconditionally, and the row below only renders
+ * when there's something real to link to.
+ */
+// Only a flagship code (0620/0625/0580/9701/9702) actually has a
+// generated /practice/<CODE>/ page (see getStaticPaths in that route) --
+// a non-flagship code that happens to share a practice-questions
+// resource with a flagship (e.g. 5070 shares files with 0620) would
+// otherwise produce a real count here with no page to link to, a
+// broken link caught by audit-internal-links.mjs during verification.
+const practiceCount = syllabus && isFlagshipCode(syllabus.code) ? practiceQuestionsForCode(syllabus.code).length : 0;
+
 /**
  * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS2 -- every academic
  * hub carries a real, working correction affordance (not just an abstract
@@ -360,6 +379,9 @@ const jsonLd = [
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Is enrolment open?</dt><dd class="m-0 mt-1 text-ink">{enrolmentOpenFor('teaching') === 'enquire' ? 'Enquire to join — no online enrolment yet' : 'Not applicable'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
+        {practiceCount > 0 && (
+          <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Free practice questions?</dt><dd class="m-0 mt-1 text-ink">Yes — <a href={`/practice/${syllabus!.code}/`} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{practiceCount} self-check questions</a></dd></div>
+        )}
       </dl>
       <p class="m-0 mt-6 text-[13.5px] text-ink-mute">
         Compiled and maintained by the{' '}{teamAuthor ? <a href={routes.author(teamAuthor.id)} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">{teamAuthor.data.name}</a> : 'Marlbridge Academic Team'}{syllabus && <>, checked against the official {c.board} specification on {syllabus.verifiedOn}</>}.

@@ -102,3 +102,53 @@ export const boardsWithCombinations = (): string[] =>
 /** Qualifications with at least one publishable combination — the only ones that can have a hub page. */
 export const qualificationsWithCombinations = (): string[] =>
   [...new Set(activeOnly().map((c) => c.qualificationSlug))];
+
+/**
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME -- the five named
+ * flagship specifications recommendation 2 concentrates authority-building
+ * effort on (0620/0625/0580 IGCSE, 9701/9702 A-level, all Cambridge). This
+ * is the single source every later workstream (practice engine, resource-
+ * depth audits, exam-calendar/threshold-explorer tools) reads from, rather
+ * than each hand-rolling its own list of five codes -- see D-065/D-066/
+ * D-067+ in docs/decision-log.md for the workstreams that consume this.
+ *
+ * Resolved against activeOnly() at call time (not hard-coded Combination
+ * objects) so a flagship that somehow left the ACTIVE matrix would throw
+ * here rather than silently generating a page for a delisted combination.
+ */
+export interface FlagshipSpec {
+  code: string;
+  boardSlug: string;
+  qualificationSlug: string;
+  subjectSlug: string;
+}
+
+const FLAGSHIP_DEFINITIONS: FlagshipSpec[] = [
+  { code: '0620', boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'chemistry' },
+  { code: '0625', boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'physics' },
+  { code: '0580', boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'mathematics' },
+  { code: '9701', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'chemistry' },
+  { code: '9702', boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'physics' },
+];
+
+let cachedFlagships: (FlagshipSpec & { combination: Combination })[] | null = null;
+
+export function flagshipSpecs(): (FlagshipSpec & { combination: Combination })[] {
+  if (cachedFlagships) return cachedFlagships;
+  const active = activeOnly();
+  cachedFlagships = FLAGSHIP_DEFINITIONS.map((f) => {
+    const combination = active.find(
+      (c) => c.boardSlug === f.boardSlug && c.qualificationSlug === f.qualificationSlug && c.subjectSlug === f.subjectSlug
+    );
+    if (!combination) {
+      throw new Error(
+        `flagshipSpecs(): ${f.code} (${f.boardSlug}/${f.qualificationSlug}/${f.subjectSlug}) is no longer an ACTIVE combination -- update FLAGSHIP_DEFINITIONS or investigate why it left the matrix.`
+      );
+    }
+    return { ...f, combination };
+  });
+  return cachedFlagships;
+}
+
+export const isFlagshipCode = (code: string): boolean =>
+  flagshipSpecs().some((f) => f.code === code);

@@ -1,0 +1,444 @@
+---
+/**
+ * Practice session -- /practice/{code}/
+ *
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS6 (self-check
+ * engine), WS7 (saved progress + error notebook) and WS8 (timed mode +
+ * weak-topic recommendations) -- built together since all three share one
+ * localStorage schema and one page. See src/utils/practice/bank.ts for why
+ * this is self-marked, not auto-graded: the underlying content is prose
+ * worked answers, not single machine-checkable correct answers.
+ *
+ * Only generates a page for a flagship code that actually has parsed
+ * practice questions -- getStaticPaths filters this explicitly, so there
+ * is no route for 0625/0580 today (see /practice/ index for how that gap
+ * is disclosed rather than hidden).
+ *
+ * Everything below "How this works" is inert without JavaScript -- the
+ * noscript fallback says so plainly and points to the underlying
+ * practice-questions resources directly, so a JS-disabled visitor still
+ * gets the real content, just not the interactive self-check flow.
+ */
+import PageLayout from '../../../layouts/PageLayout.astro';
+import Section from '../../../components/layout/Section.astro';
+import Container from '../../../components/layout/Container.astro';
+import { flagshipSpecs, academicHubPath } from '../../../utils/academic/index.ts';
+import { practiceQuestionsForCode, type PracticeQuestion } from '../../../utils/practice/bank.ts';
+import { syllabusFor } from '../../../data/academic/syllabuses.ts';
+import { topicsFor } from '../../../data/academic/syllabus-topics.ts';
+import { routes } from '../../../utils/urls/routes';
+
+export async function getStaticPaths() {
+  return flagshipSpecs()
+    .filter((f) => practiceQuestionsForCode(f.code).length > 0)
+    .map((f) => ({ params: { code: f.code }, props: { spec: f } }));
+}
+
+const { spec } = Astro.props as { spec: ReturnType<typeof flagshipSpecs>[number] };
+const path = `/practice/${spec.code}/`;
+const questions = practiceQuestionsForCode(spec.code);
+const syllabus = syllabusFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug);
+const hubPath = academicHubPath(spec.combination);
+const subjectTitle = syllabus?.officialTitle ?? `${spec.combination.board} ${spec.combination.qualification} ${spec.combination.subject}`;
+
+// Small, deliberately-scoped markdown-to-HTML conversion -- the practice-
+// questions prose only ever uses **bold**, `inline code`, occasional
+// *italic*, and line breaks (verified against all 232 parsed questions
+// before this was built; see docs/decision-log.md D-067). No tables, code
+// fences, lists or links appear in this content, so a full markdown
+// pipeline/dependency isn't needed -- this handles exactly what's there.
+function escapeHtml(s: string): string {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+function mdToHtml(md: string): string {
+  const withoutLeadingNumber = md.replace(/^\*\*\d+\.\*\*\s*/, '').replace(/^\*\*\d+\.\s*/, (m) => m);
+  const escaped = escapeHtml(withoutLeadingNumber);
+  const withCode = escaped.replace(/`([^`]+)`/g, '<code>$1</code>');
+  const withBold = withCode.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  const withItalic = withBold.replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, '$1<em>$2</em>');
+  const paragraphs = withItalic
+    .split(/\n\n+/)
+    .map((p) => `<p>${p.trim().replace(/\n/g, '<br />')}</p>`)
+    .join('');
+  return paragraphs;
+}
+
+// Topic labels for weak-topic recommendations -- resolve each subtopic
+// slug to its real syllabus name via syllabus-topics.ts rather than
+// prettifying the slug, so the label a student sees matches the wording
+// on the hub page and in study resources exactly.
+const topicMeta = topicsFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug);
+const topicLabel = new Map<string, string>();
+if (topicMeta) {
+  for (const t of topicMeta.topics) {
+    for (const st of t.subtopics) {
+      topicLabel.set(`${t.slug}/${st.slug}`, `${t.name} — ${st.name}`);
+    }
+  }
+}
+
+interface ClientQuestion {
+  id: string;
+  qHtml: string;
+  aHtml: string;
+  marks: number;
+  resourceSlug: string;
+  resourceTitle: string;
+  topics: { key: string; label: string }[];
+}
+
+const clientQuestions: ClientQuestion[] = questions.map((q: PracticeQuestion) => {
+  const entries = q.topicsByQualification[spec.qualificationSlug] ?? [];
+  const topics = entries.map((t) => {
+    const key = `${t.topicSlug}/${t.subtopicSlug}`;
+    return { key, label: topicLabel.get(key) ?? key.replace(/-/g, ' ') };
+  });
+  return {
+    id: q.id,
+    qHtml: mdToHtml(q.questionMarkdown),
+    aHtml: mdToHtml(q.answerMarkdown),
+    marks: q.marks,
+    resourceSlug: q.resourceSlug,
+    resourceTitle: q.resourceTitle,
+    topics,
+  };
+});
+
+const storageKey = `mb-practice-${spec.code}`;
+---
+<PageLayout
+  title={`${subjectTitle} — Free Practice Questions`}
+  description={`Self-check practice for ${subjectTitle} (${spec.code}): ${clientQuestions.length} original exam-style questions with full worked answers. Attempt, reveal, mark yourself, track weak topics. No account needed.`}
+  path={path}
+  eyebrow={`${spec.combination.board} ${spec.combination.qualification} · ${spec.code}`}
+  heading={`Practice: ${spec.combination.subject}`}
+  lead={`${clientQuestions.length} original exam-style questions for ${subjectTitle}, drawn from Marlbridge's own practice-questions resources. Attempt each one, reveal the worked answer, and mark yourself.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Practice', href: '/practice/' },
+    { label: spec.combination.subject, href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      <noscript>
+        <div class="rounded-sm border border-rule bg-ivory p-6">
+          <p class="m-0 text-[15px] text-ink">
+            This interactive practice session needs JavaScript. Without it, you can still work
+            through the same questions directly in the source resources:
+          </p>
+          <ul class="m-0 mt-3 list-disc pl-5 text-[14.5px] text-ink-mute">
+            {[...new Set(clientQuestions.map((q) => q.resourceSlug))].map((slug) => (
+              <li><a href={`/resources/${slug}/`} class="underline decoration-gold-500 underline-offset-2">{clientQuestions.find((q) => q.resourceSlug === slug)?.resourceTitle}</a></li>
+            ))}
+          </ul>
+        </div>
+      </noscript>
+
+      <div id="mb-practice-app" data-storage-key={storageKey} data-hub-path={hubPath} class="hidden">
+        <div id="mb-practice-toolbar" class="mb-6 flex flex-wrap items-center gap-x-6 gap-y-3 rounded-sm border border-rule bg-ivory p-4 text-[13.5px]">
+          <span id="mb-practice-progress" class="font-medium text-navy-800">0 / {clientQuestions.length} attempted</span>
+          <span id="mb-practice-score" class="text-ink-mute"></span>
+          <label class="ml-auto flex items-center gap-2 text-ink-mute">
+            <span>Show:</span>
+            <select id="mb-practice-filter" class="rounded-sm border border-rule bg-white px-2 py-1 text-[13.5px]">
+              <option value="all">All questions</option>
+              <option value="unattempted">Unattempted only</option>
+              <option value="wrong">Previously wrong only</option>
+            </select>
+          </label>
+          <label class="flex items-center gap-2 text-ink-mute">
+            <input type="checkbox" id="mb-practice-timed" class="h-4 w-4" />
+            <span>Timed mode</span>
+          </label>
+          <span id="mb-practice-timer" class="font-mono text-navy-800" hidden>00:00</span>
+        </div>
+
+        <div id="mb-practice-card" class="rounded-sm border border-rule bg-white p-[clamp(22px,3vw,36px)]">
+          <div class="mb-4 flex items-center justify-between text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600">
+            <span id="mb-practice-qnum">Question 1 of {clientQuestions.length}</span>
+            <span id="mb-practice-marks"></span>
+          </div>
+          <div id="mb-practice-question" class="prose-question text-[16.5px] leading-[1.65] text-ink"></div>
+          <div id="mb-practice-answer-wrap" hidden>
+            <hr class="my-5 border-rule" />
+            <p class="m-0 mb-2 text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600">Worked answer</p>
+            <div id="mb-practice-answer" class="prose-question text-[16px] leading-[1.65] text-ink"></div>
+          </div>
+          <div class="mt-6 flex flex-wrap items-center gap-3">
+            <button id="mb-practice-reveal" type="button" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Reveal answer</button>
+            <button id="mb-practice-right" type="button" hidden class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">I got this right</button>
+            <button id="mb-practice-wrong" type="button" hidden class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">I got this wrong</button>
+            <button id="mb-practice-next" type="button" hidden class="ml-auto rounded-sm px-5 py-2.5 text-[14px] font-medium text-gold-600 transition-colors hover:text-gold-700">Next question →</button>
+          </div>
+        </div>
+        <p id="mb-practice-empty" class="m-0 mt-6 rounded-sm border border-dashed border-rule bg-ivory p-6 text-[14.5px] text-ink-mute" hidden></p>
+
+        <div id="mb-practice-weak" class="mt-10" hidden>
+          <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Your weak topics</h2>
+          <p class="m-0 mb-4 text-[14.5px] text-ink-mute">Based on questions you've marked wrong, ranked by how often they come up.</p>
+          <ul id="mb-practice-weak-list" class="m-0 grid list-none gap-3 p-0 sm:grid-cols-2"></ul>
+        </div>
+
+        <div id="mb-practice-notebook" class="mt-10" hidden>
+          <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Error notebook</h2>
+          <p class="m-0 mb-4 text-[14.5px] text-ink-mute">Every question you've marked wrong, in one place — jump straight back to it.</p>
+          <ul id="mb-practice-notebook-list" class="m-0 grid list-none gap-2 p-0"></ul>
+        </div>
+
+        <p class="m-0 mt-8 text-[12.5px] text-ink-mute">
+          Your progress is saved only in this browser (localStorage), on this device. Clearing your
+          browser data will reset it. Nothing is sent to Marlbridge or anyone else.
+          <button id="mb-practice-reset" type="button" class="ml-1 underline decoration-gold-500 underline-offset-2 hover:text-gold-600">Reset my progress</button>
+        </p>
+      </div>
+    </Container>
+  </Section>
+
+  <script type="application/json" id="mb-practice-data" set:html={JSON.stringify(clientQuestions)} />
+
+  <script is:inline define:vars={{ storageKey, hubPath: hubPath }}>
+    (function () {
+      const app = document.getElementById('mb-practice-app');
+      if (!app) return;
+      const dataEl = document.getElementById('mb-practice-data');
+      /** @type {Array<{id:string,qHtml:string,aHtml:string,marks:number,resourceSlug:string,resourceTitle:string,topics:Array<{key:string,label:string}>}>} */
+      const questions = JSON.parse(dataEl.textContent || '[]');
+
+      const els = {
+        progress: document.getElementById('mb-practice-progress'),
+        score: document.getElementById('mb-practice-score'),
+        filter: document.getElementById('mb-practice-filter'),
+        timedToggle: document.getElementById('mb-practice-timed'),
+        timer: document.getElementById('mb-practice-timer'),
+        qnum: document.getElementById('mb-practice-qnum'),
+        marks: document.getElementById('mb-practice-marks'),
+        question: document.getElementById('mb-practice-question'),
+        answerWrap: document.getElementById('mb-practice-answer-wrap'),
+        answer: document.getElementById('mb-practice-answer'),
+        reveal: document.getElementById('mb-practice-reveal'),
+        right: document.getElementById('mb-practice-right'),
+        wrong: document.getElementById('mb-practice-wrong'),
+        next: document.getElementById('mb-practice-next'),
+        card: document.getElementById('mb-practice-card'),
+        empty: document.getElementById('mb-practice-empty'),
+        weakWrap: document.getElementById('mb-practice-weak'),
+        weakList: document.getElementById('mb-practice-weak-list'),
+        notebookWrap: document.getElementById('mb-practice-notebook'),
+        notebookList: document.getElementById('mb-practice-notebook-list'),
+        reset: document.getElementById('mb-practice-reset'),
+      };
+
+      function loadState() {
+        try {
+          const raw = localStorage.getItem(storageKey);
+          if (raw) return JSON.parse(raw);
+        } catch (e) {}
+        return { attempts: {} };
+      }
+      function saveState(state) {
+        try {
+          localStorage.setItem(storageKey, JSON.stringify(state));
+        } catch (e) {}
+      }
+
+      let state = loadState();
+      let filtered = questions.slice();
+      let index = 0;
+      let revealed = false;
+      let timerStart = null;
+      let timerInterval = null;
+
+      function applyFilter() {
+        const mode = els.filter.value;
+        if (mode === 'unattempted') {
+          filtered = questions.filter((q) => !state.attempts[q.id]);
+        } else if (mode === 'wrong') {
+          filtered = questions.filter((q) => state.attempts[q.id] && state.attempts[q.id].correct === false);
+        } else {
+          filtered = questions.slice();
+        }
+        index = 0;
+        render();
+      }
+
+      function fmtTime(ms) {
+        const s = Math.floor(ms / 1000);
+        const mm = String(Math.floor(s / 60)).padStart(2, '0');
+        const ss = String(s % 60).padStart(2, '0');
+        return mm + ':' + ss;
+      }
+
+      function stopTimer() {
+        if (timerInterval) clearInterval(timerInterval);
+        timerInterval = null;
+      }
+      function startTimer() {
+        stopTimer();
+        timerStart = Date.now();
+        els.timer.hidden = !els.timedToggle.checked;
+        if (!els.timedToggle.checked) return;
+        timerInterval = setInterval(() => {
+          els.timer.textContent = fmtTime(Date.now() - timerStart);
+        }, 1000);
+        els.timer.textContent = '00:00';
+      }
+
+      function updateSummary() {
+        const attemptedIds = Object.keys(state.attempts).filter((id) => questions.some((q) => q.id === id));
+        const correctCount = attemptedIds.filter((id) => state.attempts[id].correct).length;
+        els.progress.textContent = attemptedIds.length + ' / ' + questions.length + ' attempted';
+        els.score.textContent = attemptedIds.length > 0
+          ? Math.round((correctCount / attemptedIds.length) * 100) + '% marked correct so far'
+          : '';
+      }
+
+      function updateWeakTopics() {
+        const wrongCounts = new Map();
+        for (const q of questions) {
+          const a = state.attempts[q.id];
+          if (a && a.correct === false) {
+            for (const t of q.topics) {
+              wrongCounts.set(t.key, {
+                label: t.label,
+                count: (wrongCounts.get(t.key)?.count || 0) + 1,
+              });
+            }
+          }
+        }
+        const ranked = [...wrongCounts.entries()].sort((a, b) => b[1].count - a[1].count).slice(0, 6);
+        els.weakWrap.hidden = ranked.length === 0;
+        els.weakList.innerHTML = '';
+        for (const [key, info] of ranked) {
+          const li = document.createElement('li');
+          li.className = 'flex items-center justify-between gap-3 rounded-sm border border-rule bg-ivory px-4 py-3';
+          const label = document.createElement('span');
+          label.className = 'text-[14px] text-ink';
+          label.textContent = info.label;
+          const badge = document.createElement('a');
+          badge.href = hubPath + '#topics-heading';
+          badge.className = 'shrink-0 rounded-sm bg-white px-2.5 py-1 text-[12px] font-medium text-gold-600 underline decoration-gold-500 underline-offset-2 hover:text-gold-700';
+          badge.textContent = info.count + ' wrong · study this topic';
+          li.appendChild(label);
+          li.appendChild(badge);
+          els.weakList.appendChild(li);
+        }
+      }
+
+      function updateNotebook() {
+        const wrongQuestions = questions.filter((q) => {
+          const a = state.attempts[q.id];
+          return a && a.correct === false;
+        });
+        els.notebookWrap.hidden = wrongQuestions.length === 0;
+        els.notebookList.innerHTML = '';
+        for (const q of wrongQuestions) {
+          const li = document.createElement('li');
+          li.className = 'rounded-sm border border-rule bg-white px-4 py-3';
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'w-full text-left text-[14px] text-ink hover:text-gold-600';
+          const plain = q.qHtml.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+          btn.textContent = plain.length > 140 ? plain.slice(0, 140) + '…' : plain;
+          btn.addEventListener('click', () => {
+            const i = filtered.findIndex((f) => f.id === q.id);
+            if (i >= 0) { index = i; render(); }
+            else { filtered = questions.slice(); index = questions.findIndex((f) => f.id === q.id); render(); }
+            els.card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
+          li.appendChild(btn);
+          els.notebookList.appendChild(li);
+        }
+      }
+
+      function render() {
+        stopTimer();
+        if (filtered.length === 0) {
+          els.card.hidden = true;
+          els.empty.hidden = false;
+          els.empty.textContent = els.filter.value === 'wrong'
+            ? "Nothing marked wrong yet — nothing to review here."
+            : "No questions match this filter right now.";
+          updateSummary();
+          updateWeakTopics();
+          updateNotebook();
+          return;
+        }
+        els.card.hidden = false;
+        els.empty.hidden = true;
+        if (index >= filtered.length) index = 0;
+        const q = filtered[index];
+        revealed = false;
+        els.qnum.textContent = 'Question ' + (index + 1) + ' of ' + filtered.length;
+        els.marks.textContent = q.marks + (q.marks === 1 ? ' mark' : ' marks');
+        els.question.innerHTML = q.qHtml;
+        els.answer.innerHTML = q.aHtml;
+        els.answerWrap.hidden = true;
+        els.reveal.hidden = false;
+        els.right.hidden = true;
+        els.wrong.hidden = true;
+        els.next.hidden = filtered.length <= 1;
+        startTimer();
+        updateSummary();
+        updateWeakTopics();
+        updateNotebook();
+      }
+
+      function markAttempt(correct) {
+        const q = filtered[index];
+        if (!q) return;
+        state.attempts[q.id] = { correct: correct, ts: Date.now(), timedMode: !!els.timedToggle.checked };
+        saveState(state);
+        updateSummary();
+        updateWeakTopics();
+        updateNotebook();
+        els.right.hidden = true;
+        els.wrong.hidden = true;
+        if (filtered.length > 1) {
+          setTimeout(() => { index = (index + 1) % filtered.length; render(); }, 350);
+        }
+      }
+
+      els.reveal.addEventListener('click', () => {
+        revealed = true;
+        els.answerWrap.hidden = false;
+        els.reveal.hidden = true;
+        els.right.hidden = false;
+        els.wrong.hidden = false;
+        stopTimer();
+      });
+      els.right.addEventListener('click', () => markAttempt(true));
+      els.wrong.addEventListener('click', () => markAttempt(false));
+      els.next.addEventListener('click', () => { index = (index + 1) % filtered.length; render(); });
+      els.filter.addEventListener('change', applyFilter);
+      els.timedToggle.addEventListener('change', () => { els.timer.hidden = !els.timedToggle.checked; if (!revealed) startTimer(); });
+      els.reset.addEventListener('click', () => {
+        if (!confirm('Reset all saved progress for this subject? This cannot be undone.')) return;
+        state = { attempts: {} };
+        saveState(state);
+        applyFilter();
+      });
+
+      app.classList.remove('hidden');
+      applyFilter();
+    })();
+  </script>
+</PageLayout>
+
+<style>
+  #mb-practice-question :global(p),
+  #mb-practice-answer :global(p) {
+    margin: 0 0 0.9em 0;
+  }
+  #mb-practice-question :global(p:last-child),
+  #mb-practice-answer :global(p:last-child) {
+    margin-bottom: 0;
+  }
+  #mb-practice-question :global(code),
+  #mb-practice-answer :global(code) {
+    background: var(--color-ivory, #f7f4ee);
+    padding: 0.1em 0.35em;
+    border-radius: 3px;
+    font-size: 0.92em;
+  }
+</style>
