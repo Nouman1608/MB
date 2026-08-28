@@ -402,14 +402,26 @@ const jsonLd = [
                 {a.assessmentModel && (
                   <p class="m-0 mb-2 text-[13px] text-ink-mute">{ASSESSMENT_MODEL_LABEL[a.assessmentModel] ?? a.assessmentModel}</p>
                 )}
+                {/* v2.0 MEGA PROGRAMME WS16 -- accessibility/mobile: wrapped in an
+                    overflow-x-auto scroll container so a long paper title (e.g. AQA
+                    Business 7138's "Business and society, business and the external
+                    environment, and business strategy") can't force the whole page to
+                    scroll horizontally on a narrow viewport -- only the table itself
+                    scrolls. Added a visually-hidden <caption> (WCAG 1.3.1 -- a table
+                    needs an accessible name, not just a preceding heading a screen
+                    reader may not associate with it) and scope="col" on every header
+                    cell (WCAG 1.3.1 -- lets a screen reader announce "Duration" etc.
+                    when moving into a data cell, not just when reading the header row). */}
+                <div class="overflow-x-auto">
                 <table class="w-full border-collapse text-[15px]">
+                  <caption class="sr-only">Assessment components for {c.board} {c.subject} {a.code}</caption>
                   <thead>
                     <tr class="border-b border-rule text-left">
-                      <th class="py-2 pe-3 font-semibold text-navy-800">Component</th>
-                      <th class="py-2 pe-3 font-semibold text-navy-800">Duration</th>
-                      <th class="py-2 pe-3 font-semibold text-navy-800">Marks</th>
-                      <th class="py-2 pe-3 font-semibold text-navy-800">Weighting</th>
-                      <th class="py-2 font-semibold text-navy-800">Type</th>
+                      <th scope="col" class="py-2 pe-3 font-semibold text-navy-800">Component</th>
+                      <th scope="col" class="py-2 pe-3 font-semibold text-navy-800">Duration</th>
+                      <th scope="col" class="py-2 pe-3 font-semibold text-navy-800">Marks</th>
+                      <th scope="col" class="py-2 pe-3 font-semibold text-navy-800">Weighting</th>
+                      <th scope="col" class="py-2 font-semibold text-navy-800">Type</th>
                     </tr>
                   </thead>
                   <tbody>
@@ -421,12 +433,13 @@ const jsonLd = [
                         </td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.durationMinutes ? `${Math.floor(comp.durationMinutes / 60)}h ${comp.durationMinutes % 60 ? `${comp.durationMinutes % 60}m` : ''}`.trim() : '—'}</td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.marks}</td>
-                        <td class="py-2 pe-3 text-ink-mute">{comp.weightingPercent}%{comp.alternativeGroup && <span title="Sat as an alternative to another component"> *</span>}</td>
+                        <td class="py-2 pe-3 text-ink-mute">{comp.weightingPercent}%{comp.alternativeGroup && <span aria-label="Sat as an alternative to another component" title="Sat as an alternative to another component"> *</span>}</td>
                         <td class="py-2 text-ink-mute">{ASSESSMENT_TYPE_LABEL[comp.assessmentType] ?? comp.assessmentType}</td>
                       </tr>
                     ))}
                   </tbody>
                 </table>
+                </div>
                 {a.components.some((comp) => comp.alternativeGroup) && (
                   <p class="m-0 mt-2 text-[13px] text-ink-mute">* Candidates sit one of the components marked with an asterisk, not all of them.</p>
                 )}
