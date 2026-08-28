@@ -10,10 +10,26 @@
  * build/preview, which matches how every other static-search integration
  * for Astro works. No third-party search service or API key is involved;
  * everything runs client-side against the generated index.
+ *
+ * WS1 (AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME) adds a syllabus/
+ * specification-code jump box above the Pagefind widget. It embeds a
+ * small (~140-entry) code -> hub-path index built server-side from
+ * src/utils/academic/codeIndex.ts (the same deterministic, board-scoped
+ * index that generates the /syllabus/<CODE>/ redirect family in
+ * public/_redirects) -- NOT the full site content index, so this stays a
+ * tiny JSON payload rather than the "giant client-side index" the brief
+ * warns against. An exact code match navigates instantly; this is a
+ * progressive enhancement on TOP of the real no-JS discovery mechanism,
+ * which is typing /syllabus/<CODE>/ directly (a static Cloudflare Pages
+ * redirect, no JS or server logic required) -- linked explicitly in the
+ * <noscript> fallback below so it's discoverable even without this box.
  */
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
+import { clientCodeIndex } from '../../utils/academic/codeIndex.ts';
+
+const codeIndex = clientCodeIndex();
 ---
 {/**
  * QIGT programme -- noindex this page. It has no fixed unique content of
@@ -27,8 +43,46 @@ import Container from '../../components/layout/Container.astro';
   <Section>
     <Container>
       <h1 class="m-0 mb-6 text-[28px] font-semibold text-navy-900">Search Marlbridge</h1>
+
+      <div class="mb-8">
+        <label for="syllabus-code-jump" class="mb-2 block text-sm font-medium text-navy-900">
+          Know the syllabus or specification code? Jump straight there.
+        </label>
+        <div class="relative max-w-sm">
+          <input
+            id="syllabus-code-jump"
+            type="text"
+            inputmode="text"
+            autocomplete="off"
+            placeholder="e.g. 0620, 9701, H432"
+            class="w-full rounded-lg border border-navy-200 px-4 py-2.5 text-navy-900 placeholder:text-navy-400 focus:border-navy-400 focus:outline-none focus:ring-2 focus:ring-navy-100"
+            aria-describedby="syllabus-code-jump-hint"
+            aria-expanded="false"
+            aria-controls="syllabus-code-jump-results"
+            role="combobox"
+          />
+          <ul
+            id="syllabus-code-jump-results"
+            role="listbox"
+            class="absolute z-10 mt-1 hidden w-full overflow-hidden rounded-lg border border-navy-200 bg-white shadow-lg"
+          ></ul>
+        </div>
+        <p id="syllabus-code-jump-hint" class="mt-2 text-sm text-navy-600">
+          Every syllabus code also has a direct address you can type or bookmark, e.g.
+          <code class="rounded bg-navy-50 px-1.5 py-0.5">marlbridge.com/syllabus/0620/</code> --
+          works without JavaScript.
+        </p>
+      </div>
+
+      <h2 class="m-0 mb-4 text-lg font-semibold text-navy-900">Or search everything</h2>
       <div id="pagefind-search"></div>
-      <noscript><p>Search requires JavaScript. Please use the site navigation instead.</p></noscript>
+      <noscript>
+        <p>
+          Full-text search requires JavaScript. To find a board, qualification or subject page
+          directly, use a syllabus code address like
+          <code>marlbridge.com/syllabus/0620/</code>, or use the site navigation.
+        </p>
+      </noscript>
     </Container>
   </Section>
 </BaseLayout>
@@ -39,5 +93,72 @@ import Container from '../../components/layout/Container.astro';
   window.addEventListener('DOMContentLoaded', function () {
     if (typeof PagefindUI === 'undefined') return;
     new PagefindUI({ element: '#pagefind-search', showSubResults: true, showImages: false });
+  });
+</script>
+
+<script type="application/json" id="syllabus-code-index" set:html={JSON.stringify(codeIndex)} />
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', function () {
+    var dataEl = document.getElementById('syllabus-code-index');
+    if (!dataEl) return;
+    var index;
+    try {
+      index = JSON.parse(dataEl.textContent);
+    } catch (e) {
+      return;
+    }
+    var input = document.getElementById('syllabus-code-jump');
+    var results = document.getElementById('syllabus-code-jump-results');
+    if (!input || !results) return;
+
+    function normalize(s) {
+      return s.trim().toUpperCase();
+    }
+
+    function render(matches) {
+      results.innerHTML = '';
+      if (!matches.length) {
+        results.classList.add('hidden');
+        input.setAttribute('aria-expanded', 'false');
+        return;
+      }
+      matches.slice(0, 8).forEach(function (entry) {
+        var li = document.createElement('li');
+        li.setAttribute('role', 'option');
+        var a = document.createElement('a');
+        a.href = entry.hubPath;
+        a.className = 'block px-4 py-2 text-sm text-navy-900 hover:bg-navy-50 focus:bg-navy-50 focus:outline-none';
+        a.textContent = entry.code + ' — ' + entry.label;
+        li.appendChild(a);
+        results.appendChild(li);
+      });
+      results.classList.remove('hidden');
+      input.setAttribute('aria-expanded', 'true');
+    }
+
+    input.addEventListener('input', function () {
+      var q = normalize(input.value);
+      if (!q) {
+        render([]);
+        return;
+      }
+      var exact = index.find(function (e) {
+        return e.code === q;
+      });
+      if (exact && q.length >= 3) {
+        window.location.href = exact.hubPath;
+        return;
+      }
+      var matches = index.filter(function (e) {
+        return e.code.indexOf(q) === 0;
+      });
+      render(matches);
+    });
+
+    document.addEventListener('click', function (e) {
+      if (e.target !== input && !results.contains(e.target)) {
+        render([]);
+      }
+    });
   });
 </script>

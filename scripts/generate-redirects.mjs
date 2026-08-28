@@ -13,6 +13,17 @@
  *   /resources/<type>/         -> /resources/#<type>    (removed category indexes)
  *   /learning/<slug>/          -> /articles/<slug>/     (section rename)
  *
+ * WS1 (AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME) additionally emits a
+ * syllabus/specification-code discovery family:
+ *   /syllabus/<CODE>/          -> the code's canonical academic hub page
+ * generated from src/utils/academic/codeIndex.ts's allCodeEntries() (built
+ * strictly from activeOnly() combinations, so a code can never redirect to
+ * another board's hub). Codes containing letters get BOTH an uppercase and
+ * a lowercase rule -- Cloudflare's `_redirects` path matching is
+ * case-sensitive, and a learner typing a code by hand may not match the
+ * board's own published casing (e.g. "h432" vs "H432"). Purely numeric
+ * codes (the majority -- Cambridge, AQA) need only one rule.
+ *
  * Each resource is emitted only against its OWN current `resourceType`, not
  * all seven known types. Enumerating every type for every resource was
  * generating six redundant, never-linked rules per resource (no resource
@@ -27,6 +38,7 @@
  */
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { execSync } from 'node:child_process';
 
 const RESOURCE_TYPES = [
   'study-guides', 'revision-notes', 'past-papers', 'practice-questions',
@@ -143,6 +155,23 @@ for (const slug of resources.sort()) {
   }
 }
 
+const codeEntriesRaw = execSync(
+  'node --experimental-strip-types --no-warnings -e "' +
+  'import(\'./src/utils/academic/codeIndex.ts\').then(m => { ' +
+  'const entries = m.allCodeEntries().map(e => ({ code: e.code, hubPath: e.hubPath })); ' +
+  'process.stdout.write(JSON.stringify(entries)); });"',
+  { encoding: 'utf8', cwd: process.cwd() },
+);
+const codeEntries = JSON.parse(codeEntriesRaw);
+
+lines.push('', '# Syllabus/specification-code discovery: /syllabus/<CODE>/ -> canonical hub (WS1)');
+for (const { code, hubPath } of codeEntries) {
+  lines.push(`${pad(`/syllabus/${code}/`)}${hubPath}  301`);
+  if (/[A-Z]/.test(code)) {
+    lines.push(`${pad(`/syllabus/${code.toLowerCase()}/`)}${hubPath}  301`);
+  }
+}
+
 lines.push('', '# Consolidated resources: old slug (flat + every nested type) -> surviving resource');
 for (const [oldSlug, newSlug] of Object.entries(CONSOLIDATED_RESOURCES)) {
   lines.push(`${pad(`/resources/${oldSlug}/`)}/resources/${newSlug}/  301`);
@@ -168,4 +197,4 @@ lines.push(`${pad('/learning/*')}/articles/:splat  301`);
 const out = lines.join('\n') + '\n';
 await writeFile(join('public', '_redirects'), out, 'utf8');
 const resourceRuleCount = resources.length + Object.values(TYPE_CHANGED_RESOURCES).reduce((n, arr) => n + arr.length, 0);
-console.log(`_redirects written — ${resourceRuleCount} resource rules, ${RESOURCE_TYPES.length} type rules, ${articles.length + 1} article rules, ${lines.length} lines total.`);
+console.log(`_redirects written — ${resourceRuleCount} resource rules, ${RESOURCE_TYPES.length} type rules, ${articles.length + 1} article rules, ${codeEntries.length} syllabus-code rules, ${lines.length} lines total.`);

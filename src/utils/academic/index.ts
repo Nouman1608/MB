@@ -5,10 +5,10 @@
  * decide whether a combination is publishable, so a FUTURE, UNKNOWN or
  * NOT_SUPPORTED row cannot become a public URL by accident.
  */
-import { MATRIX, type Combination } from '../../data/academic/matrix';
-import { BOARDS, boardBySlug } from '../../data/academic/boards';
-import { QUALIFICATIONS, qualificationBySlug } from '../../data/academic/qualifications';
-import { SUBJECTS, subjectBySlug } from '../../data/academic/subjects';
+import { MATRIX, type Combination } from '../../data/academic/matrix.ts';
+import { BOARDS, boardBySlug } from '../../data/academic/boards.ts';
+import { QUALIFICATIONS, qualificationBySlug } from '../../data/academic/qualifications.ts';
+import { SUBJECTS, subjectBySlug } from '../../data/academic/subjects.ts';
 
 export { MATRIX, BOARDS, QUALIFICATIONS, SUBJECTS };
 export type { Combination };

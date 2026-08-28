@@ -2995,3 +2995,55 @@ clean.
 - **Status:** WS-IB complete per the owner's explicitly chosen scope. The remaining 19 IB
   combinations are out of scope for this release and should not be attempted without new, explicit
   owner direction — the owner selected the option that stops here.
+
+## D-062 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS1: syllabus/specification-code discovery
+
+- **Context:** The new 75-section growth programme (recommendation 1) calls for making every
+  Cambridge/AQA/Edexcel/OCR/OxfordAQA syllabus and specification code (e.g. `0620`, `9701`,
+  `H432`) directly searchable, on the evidenced premise (confirmed live via Google Search Console
+  during WS0) that people search bare codes with real existing impression volume. The brief
+  explicitly warns against two failure modes: (a) a "giant client-side index" shipped to every
+  visitor, and (b) an over-built new search framework replacing the existing Pagefind-based
+  `/search/` page.
+- **What was built:**
+  - `src/utils/academic/codeIndex.ts` — a new, deterministic, board-scoped code index derived
+    entirely from `activeOnly()` (the same sanctioned read path as everything else in
+    `utils/academic`). `buildCodeIndex()` is memoized and throws on a genuine cross-combination
+    collision (a code must never silently resolve to two different hubs); `findByCode()` does
+    exact and case-insensitive lookup; `clientCodeIndex()` returns the small, public-safe subset
+    (`code`, `hubPath`, `label`) meant for embedding client-side.
+  - `scripts/generate-redirects.mjs` extended to emit static `/syllabus/<CODE>/` → canonical hub
+    301 redirects for every ACTIVE combination that carries a code — the real, no-JS discovery
+    mechanism. Alpha-bearing codes (e.g. `H432`) get a second, lowercase-path rule (`/syllabus/
+    h432/`) since Cloudflare Pages `_redirects` matching is case-sensitive and people don't
+    reliably capitalize exam codes when typing URLs; pure-numeric codes (e.g. `0620`) get one
+    rule since case doesn't apply. Verified: 139 unique codes indexed, 168 total `/syllabus/*`
+    rules in `public/_redirects` (139 + 29 alpha-bearing codes' lowercase duplicates), reconciled
+    against `grep -c "^/syllabus/"` on both the source file and the built `dist/_redirects`.
+  - `src/pages/search/index.astro` enhanced (not replaced) with a small embedded JSON payload
+    (`clientCodeIndex()`, ~139 entries, code/hubPath/label only) and a progressive-enhancement
+    "Jump to a syllabus or specification code" combobox: exact match auto-navigates, partial match
+    shows an ARIA-listbox suggestion list. The `<noscript>` fallback directs users to the direct
+    `/syllabus/<CODE>/` URL pattern instead, so the feature degrades to the real redirect
+    mechanism with JS disabled — deliberately the opposite ordering of "JS index primary, redirect
+    as fallback" that the brief's own prohibition rules out.
+  - **Scope decision:** the four translated search shells (`src/pages/[locale]/search/index.astro`
+    — ar/ur/bn) were deliberately left unchanged. The code-index feature is English-UI-only for
+    now, mirroring the established D-051/D-059 pattern of shipping new UX in English first and
+    translating once the pattern has proven itself. The static `/syllabus/<CODE>/` redirects
+    themselves are locale-independent (they redirect to the canonical English hub regardless of
+    referring locale), so non-English visitors searching a bare code still land correctly — only
+    the enhanced in-page combobox is English-only.
+- **Verification:** `npx astro sync` clean, `npx tsc --noEmit` clean (0 errors), a direct
+  `node --experimental-strip-types` correctness test against `codeIndex.ts` (exact match,
+  case-insensitive match, compound/split codes, nonexistent-code handling all correct), full
+  `npm run build` (1242 pages, Pagefind reindexed), `npm run validate:academic` (all 13 assessment
+  checks + cross-board integrity clean, 141/160 coverage unchanged), `npm run audit:all` (8/8
+  categories clean, including `audit-redirects.mjs` against the 168 new rules — sitemap 1237 URLs,
+  1197 redirect rules, 0 problems), 22/22 negative-fixture suite, full cross-board regression
+  clean, `npm audit` 0 vulnerabilities. Spot-checked built output: `dist/search/index.html`
+  contains the correct embedded JSON payload; `dist/_redirects` contains the new rules (e.g.
+  `/syllabus/0620/` → `/boards/cambridge/igcse/chemistry/`, both `/syllabus/H432/` and
+  `/syllabus/h432/` → `/boards/ocr/a-level/chemistry/`).
+- **Status:** WS1 complete. Proceeding to WS2 (permanent syllabus/specification-code hub content
+  audit) per the programme's own WS0–WS25 execution order.
