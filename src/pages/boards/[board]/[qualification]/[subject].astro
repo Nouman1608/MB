@@ -58,10 +58,33 @@ const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
 const assessments = assessmentsFor(c.boardSlug, c.qualificationSlug, c.subjectSlug);
 const ASSESSMENT_TYPE_LABEL: Record<string, string> = {
   'written-exam': 'Written exam',
+  'multiple-choice': 'Multiple choice',
   coursework: 'Coursework',
   'non-exam-assessment': 'Non-exam assessment',
   practical: 'Practical',
+  'alternative-to-practical': 'Alternative to practical',
+  'practical-endorsement': 'Practical endorsement',
   oral: 'Oral',
+  speaking: 'Speaking',
+  listening: 'Listening',
+  reading: 'Reading',
+  writing: 'Writing',
+  portfolio: 'Portfolio',
+  project: 'Project',
+  unit: 'Unit',
+  endorsement: 'Endorsement',
+};
+/** v2.0 MEGA PROGRAMME WS12 -- assessmentModel vocabulary, one-line label
+ * shown per assessment record when the field is populated (18 pre-v2.0
+ * records deliberately have no assessmentModel; see its doc comment in
+ * assessments.ts -- those simply omit this line). */
+const ASSESSMENT_MODEL_LABEL: Record<string, string> = {
+  linear: 'Linear qualification',
+  modular: 'Modular qualification',
+  staged: 'Staged qualification',
+  'unit-based': 'Unit-based qualification',
+  'component-based': 'Component-based qualification',
+  mixed: 'Mixed assessment model',
 };
 const TIER_LABEL: Record<string, string> = {
   'not-tiered': '',
@@ -300,6 +323,8 @@ const jsonLd = [courseNode({
                   <p class="m-0 mb-2 text-[13px] font-semibold uppercase tracking-[0.08em] text-gold-600">
                     {a.code}{a.tiers[0] !== 'not-tiered' ? ` — ${a.tiers.map((t) => TIER_LABEL[t] ?? t).join(' / ')}` : ''}
                     {a.specStatus === 'legacy-teach-out' && ' (being withdrawn)'}
+                    {a.specStatus === 'future' && ' (upcoming — not yet current)'}
+                    {a.specStatus === 'withdrawn' && ' (withdrawn — no longer assessable)'}
                   </p>
                 )}
                 {a.specStatus === 'legacy-teach-out' && (
@@ -307,6 +332,21 @@ const jsonLd = [courseNode({
                     {a.code} is being withdrawn{a.relatedCode && <> in favour of {a.relatedCode}</>}.
                     {a.finalAssessment && <> Final assessment opportunity: {a.finalAssessment}.</>}
                   </p>
+                )}
+                {a.specStatus === 'future' && (
+                  <p class="m-0 mb-3 text-[15px] text-ink-mute">
+                    {a.code} is an upcoming specification{a.relatedCode && <>, replacing {a.relatedCode}</>}
+                    {a.firstTeaching && <>, for first teaching from {a.firstTeaching}</>}. First assessment: {a.firstAssessment}.
+                    {' '}It is not yet the specification current students should follow{a.relatedCode && <> — that remains {a.relatedCode} until this one begins</>}.
+                  </p>
+                )}
+                {a.specStatus === 'withdrawn' && (
+                  <p class="m-0 mb-3 text-[15px] text-ink-mute">
+                    {a.code} has been withdrawn and is no longer assessable{a.relatedCode && <>; see {a.relatedCode}</>}. Shown here for historical reference only.
+                  </p>
+                )}
+                {a.assessmentModel && (
+                  <p class="m-0 mb-2 text-[13px] text-ink-mute">{ASSESSMENT_MODEL_LABEL[a.assessmentModel] ?? a.assessmentModel}</p>
                 )}
                 <table class="w-full border-collapse text-[15px]">
                   <thead>
@@ -335,6 +375,11 @@ const jsonLd = [courseNode({
                 </table>
                 {a.components.some((comp) => comp.alternativeGroup) && (
                   <p class="m-0 mt-2 text-[13px] text-ink-mute">* Candidates sit one of the components marked with an asterisk, not all of them.</p>
+                )}
+                {a.components.some((comp) => comp.routeGroup && comp.routeGroup.length > 0) && (
+                  <p class="m-0 mt-2 text-[13px] text-ink-mute">
+                    This qualification offers alternative routes built from the components above — candidates complete one full route, not every component listed. See the source notes below for exactly which components make up each route.
+                  </p>
                 )}
                 <p class="m-0 mt-3 text-[13px] text-ink-mute">
                   Source: <a href={a.officialSourceUrl} rel="nofollow noopener" class="underline decoration-rule underline-offset-2">official {c.board} specification</a>, verified {a.verifiedOn}.
