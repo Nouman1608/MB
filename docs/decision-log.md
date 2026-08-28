@@ -3486,3 +3486,49 @@ regression test (all controls intact), `npm audit` (0 vulnerabilities).
 
 **Status:** WS11 complete. Proceeding to WS12 (Command-word guide tool)
 per the programme's WS0-WS25 order.
+
+## D-071 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS12: command-word guide tool
+
+**Date:** 2026-08-29
+**Workstream:** WS12 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
+
+**What shipped.** A new public page, `/command-words/`, giving students a
+searchable reference for the instruction verbs exam boards use in question
+wording (Describe, Explain, Evaluate, Justify, and 18 others) — each with
+its official definition, plus a short explainer on why the distinction
+matters for marking. A plain-JS filter-as-you-type search runs entirely
+client-side (no framework needed for 22 static items, matching this
+codebase's established preference for the simplest tool that genuinely
+works). Added to the footer resources nav as "Command Words Guide."
+
+**Sourcing.** The glossary is Cambridge's own official list, fetched
+directly from `cambridgeinternational.org/exam-administration/what-to-
+expect-on-exams-day/command-words/` via the in-app browser (a first
+`web_fetch` attempt returned only page-shell navigation with no article
+content — a client-rendered page — so the browser tool was used instead,
+per this session's established escalation path). All 22 words and
+definitions in `src/data/academic/command-words.ts` are copied verbatim
+from that page, verified 2026-08-29.
+
+**Scope honesty.** Cambridge states this glossary applies "in new and
+revised syllabuses published from 2019 onwards" — effectively all current
+Cambridge syllabuses across IGCSE, O Level and AS & A Level — and that
+subject-specific command words are listed separately in each syllabus and
+are not duplicated here. The page explicitly discloses that Edexcel, AQA,
+OCR and OxfordAQA each publish their own command-word glossaries which
+have not yet been sourced and added, rather than silently presenting a
+Cambridge-only list as if it covered every board Marlbridge tracks — the
+same no-filler, no-overclaim discipline applied throughout this
+programme.
+
+**Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
+(clean), `npm run build` (1265 pages, up one), `validate:academic` chain,
+`validate-review-integrity.mjs` (0 problems — this page carries no
+resource-collection frontmatter so is unaffected), `audit:all` (8
+categories including internal-links — new footer nav link resolves with 0
+broken links, 0 orphan pages) plus the i18n route check, 22-fixture
+negative validation suite (22/22 pass), cross-board regression test (all
+controls intact), `npm audit` (0 vulnerabilities).
+
+**Status:** WS12 complete. Proceeding to WS13 (Exam calendar architecture
++ verified data) per the programme's WS0-WS25 order.

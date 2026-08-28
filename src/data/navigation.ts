@@ -41,6 +41,7 @@ export const footerNav = {
     { label: 'Practice Questions', href: '/resources/#practice-questions' },
     { label: 'Practice (Self-Check)', href: '/practice/' },
     { label: 'Syllabus Changes', href: '/syllabus-updates/' },
+    { label: 'Command Words Guide', href: '/command-words/' },
     { label: 'Learning Journal', href: '/articles/' },
     { label: 'Printable Checklists', href: '/checklists/' },
   ],

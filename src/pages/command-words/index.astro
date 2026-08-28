@@ -1,0 +1,113 @@
+---
+/**
+ * Command-word guide -- /command-words/
+ *
+ * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS12.
+ *
+ * See src/data/academic/command-words.ts for the sourcing note. This page
+ * is a simple, honest reference tool: Cambridge's own 22-word generic
+ * command-word glossary, with a client-side filter-as-you-type search
+ * (no build tooling needed for 22 static items -- plain vanilla JS,
+ * matching this codebase's established no-framework-for-simple-things
+ * convention). No account, no data leaves the browser.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { CAMBRIDGE_COMMAND_WORDS, COMMAND_WORDS_SOURCE } from '../../data/academic/command-words.ts';
+import { routes } from '../../utils/urls/routes';
+
+const path = '/command-words/';
+---
+<PageLayout
+  title="Command Words Guide — What Exam Questions Are Really Asking"
+  description="Cambridge's own official command-word glossary -- what 'Describe', 'Explain', 'Evaluate', 'Justify' and 18 other exam instruction words actually require in your answer. Search as you type, no account needed."
+  path={path}
+  eyebrow="Free tool"
+  heading="Command words guide"
+  lead={`What ${CAMBRIDGE_COMMAND_WORDS.length} common exam instruction words actually require in your answer -- straight from Cambridge's own official glossary. A "Describe" answer and an "Evaluate" answer for the same topic should never look the same.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Command words', href: path },
+  ]}
+>
+  <Section surface="white">
+    <Container>
+      <div class="mx-auto max-w-[560px]">
+        <label for="mb-cw-search" class="m-0 mb-2 block text-[13px] font-medium uppercase tracking-[0.1em] text-ink-mute">Search a command word</label>
+        <input
+          id="mb-cw-search"
+          type="search"
+          placeholder="e.g. evaluate, describe, justify…"
+          autocomplete="off"
+          class="w-full rounded-sm border border-rule bg-white px-4 py-3 text-[16px] text-navy-800 outline-none transition-colors duration-150 focus:border-gold-500"
+        />
+        <p id="mb-cw-count" class="m-0 mt-2 text-[13px] text-ink-mute" aria-live="polite">{CAMBRIDGE_COMMAND_WORDS.length} command words</p>
+      </div>
+
+      <dl id="mb-cw-list" class="mx-auto mt-10 grid max-w-[720px] gap-x-8 gap-y-6 sm:grid-cols-2">
+        {CAMBRIDGE_COMMAND_WORDS.map((cw) => (
+          <div class="mb-cw-item border-b border-rule pb-5" data-word={cw.word.toLowerCase()}>
+            <dt class="m-0 text-[17px] font-semibold tracking-[-0.005em] text-navy-800">{cw.word}</dt>
+            <dd class="m-0 mt-1.5 text-[14.5px] leading-[1.6] text-ink-mute">{cw.definition}</dd>
+          </div>
+        ))}
+      </dl>
+
+      <p id="mb-cw-empty" class="mx-auto mt-10 hidden max-w-[560px] text-[14.5px] text-ink-mute">
+        No command word matches that search. Try a shorter word, or check the spelling.
+      </p>
+    </Container>
+  </Section>
+
+  <Section surface="ivory" border>
+    <Container>
+      <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Why command words matter</h2>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Examiners use command words deliberately, and marking schemes are built around them. A "State" question wants a
+        brief, direct answer with no justification needed; a "Discuss" question on the exact same topic wants a
+        structured answer weighing more than one side. Writing a "State"-length answer to a "Discuss" question loses
+        marks for missing depth the mark scheme expects — and writing a long, structured answer to a "State" question
+        wastes time the exam doesn't reward. Before answering any exam question, it's worth spending a few seconds
+        confirming which command word is being used and what it specifically requires.
+      </p>
+
+      <h3 class="m-0 mb-2 mt-8 text-[17px] font-semibold text-navy-800">Where this list comes from</h3>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        This is Cambridge's own official command-word glossary, sourced directly from
+        {' '}<a href={COMMAND_WORDS_SOURCE.officialSourceUrl} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">cambridgeinternational.org</a>,
+        verified {COMMAND_WORDS_SOURCE.verifiedOn}. Cambridge states it applies to syllabuses published from 2019
+        onwards, across IGCSE, O Level and AS &amp; A Level — but subject-specific command words (used in only one or
+        two subjects) are listed in that subject's own syllabus and are not duplicated here. Other exam boards
+        (Edexcel, AQA, OCR, OxfordAQA) publish their own command-word glossaries too, which are broadly similar but not
+        identical to Cambridge's — those have not yet been added to this tool, so for now this guide is Cambridge-
+        specific rather than a claim to cover every board.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>
+
+<script is:inline>
+  (function () {
+    var input = document.getElementById('mb-cw-search');
+    var items = Array.prototype.slice.call(document.querySelectorAll('.mb-cw-item'));
+    var count = document.getElementById('mb-cw-count');
+    var empty = document.getElementById('mb-cw-empty');
+    if (!input) return;
+
+    function apply() {
+      var q = input.value.trim().toLowerCase();
+      var visible = 0;
+      items.forEach(function (el) {
+        var match = q === '' || el.getAttribute('data-word').indexOf(q) !== -1 || el.textContent.toLowerCase().indexOf(q) !== -1;
+        el.style.display = match ? '' : 'none';
+        if (match) visible += 1;
+      });
+      count.textContent = visible + ' command word' + (visible === 1 ? '' : 's') + (q ? ' matching "' + input.value.trim() + '"' : '');
+      empty.classList.toggle('hidden', visible !== 0);
+    }
+
+    input.addEventListener('input', apply);
+    apply();
+  })();
+</script>
