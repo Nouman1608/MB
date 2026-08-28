@@ -838,6 +838,26 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-19',
     notes: 'For first teaching from September 2023; current for cohorts taking exams through summer 2026. Covers the first six of the ten A-level Business (7132) sections: what is business, managers/leadership/decision making, and decision-making to improve marketing, operational, financial and human resource performance. AQA has accredited a replacement specification (7137) for first teaching from September 2026.',
   },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'business',
+    officialTitle: 'AQA A-level Business (7138)',
+    code: '7138',
+    boardSummary:
+      'AQA A-level Business (7138) is AQA\'s reformed specification, replacing 7132, retaining the same emphasis on studying business in a variety of contexts and the interrelated nature of business activities and competitiveness.',
+    officialUrl: 'https://www.aqa.org.uk/subjects/business/a-level/business-7138',
+    verifiedOn: '2026-08-28',
+    notes: 'For first teaching from September 2026; first A-level exams June 2028. Replaces 7132, which continues to be examined for cohorts already partway through, through summer 2027. Three subject-content units: what is business (managing marketing and finance), managing people and operations, and (A-level only) business and society, the external environment, and business strategy.',
+  },
+  {
+    boardSlug: 'aqa', qualificationSlug: 'as-level', subjectSlug: 'business',
+    officialTitle: 'AQA AS Business (7137)',
+    code: '7137',
+    boardSummary:
+      'AQA AS Business (7137) is AQA\'s reformed AS specification, replacing 7131, sharing its subject content with the first unit of AQA A-level Business (7138).',
+    officialUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7137',
+    verifiedOn: '2026-08-28',
+    notes: 'For first teaching from September 2026; first AS exams June 2027. Replaces 7131, which continues to be examined for cohorts already partway through, through summer 2026. Covers Unit 3.1 (what is business: managing marketing and finance) of the A-level Business (7138) content.',
+  },
 
 
   {
