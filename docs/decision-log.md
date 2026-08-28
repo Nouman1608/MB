@@ -3358,3 +3358,76 @@ test (all controls intact), `npm audit` (0 vulnerabilities).
 **Status:** WS9 complete. Proceeding to WS10 (9701/9702 flagship depth —
 expected to be a lighter audit/polish pass given both are already strong)
 per the programme's WS0-WS25 order.
+
+## D-069 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS10: 9701/9702 flagship depth
+
+**Date:** 2026-08-29
+**Workstream:** WS10 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA PROGRAMME (WS0-WS25).
+
+**Context.** D-065 (WS4) already found 9701 Chemistry and 9702 Physics to be
+the two strongest flagships by resource count (113 and 75 resources
+respectively, vs 0620's 48 and 0625/0580's 2-3 at the time). WS10 was
+scoped as a light audit/polish pass rather than bulk authoring, per the
+plan recorded in D-067's closing note.
+
+**Audit method.** Rather than re-auditing raw resource *count* (already
+known to be strong), WS10 checked something the practice engine (WS6-8)
+specifically depends on: whether every top-level topic in 9701 and 9702
+has at least one dedicated `practice-questions` resource, since the
+practice engine (`src/utils/practice/bank.ts`) draws only from that
+resourceType. A resource-count audit can look complete while still
+leaving topics with no self-check questions at all — this is a narrower,
+more targeted check than D-065's.
+
+**Finding.** 9702 Physics already had full topic coverage: all 25 topics
+had a practice-questions file, 0 gaps. 9701 Chemistry had a real gap: 31
+of 37 topics had a practice-questions file, but 6 A-level-tier topics had
+none — Equilibria (25), Reaction kinetics (26), Group 2 (27), Hydrocarbons
+(30), Halogen compounds (31), Hydroxy compounds (32). All 6 already had
+existing study-guide content by the same author (nouman-ahmed) to draw
+from, so this was a genuine, addressable gap rather than a missing-source
+problem.
+
+**What shipped — 5 new practice-questions files**, closing all 6 topic
+gaps (Hydrocarbons and Halogen compounds share one file, mirroring the
+existing combined study guide `a-arenes-and-halogenoarenes.md`, which
+covers both topics for the same underlying reason — halogenoarenes are a
+direct product of one of benzene's substitution reactions):
+
+- `a-equilibria-acids-buffers-practice.md` (pH, Ka, buffers, Ksp, Kpc)
+- `a-reaction-kinetics-rate-equations-practice.md` (rate equations, orders,
+  half-life, mechanism deduction, catalysis)
+- `a-group-2-trends-practice.md` (thermal stability and solubility trends)
+- `a-arenes-and-halogenoarenes-practice.md` (electrophilic substitution,
+  directing effects, halogenoarene vs halogenoalkane reactivity — covers
+  both Hydrocarbons and Halogen compounds)
+- `a-phenol-reactions-and-acidity-practice.md` (phenol production,
+  reactions, acidity)
+
+Content was written to be faithful to, and cross-linked with, the
+existing study-guide resources on each topic (same syllabus points, same
+worked-example style, same "Related resources" pattern) rather than
+introducing new unsourced chemistry.
+
+**Result.** 9701 now has practice-questions coverage on all 37/37 topics
+(up from 31/37); 9702 remains at 25/25. Flagship resource counts: 9701
+113 → 118, 9702 unchanged at 75, 0620/0625/0580 unchanged this pass.
+
+**What honestly remains open.** This pass closed the topic-coverage gap
+for the practice engine specifically — it did not attempt a deeper
+per-subtopic practice-question density audit (e.g. whether some topics
+have only 1-2 questions while others have 9+), which would be a
+reasonable follow-up if usage data later shows students exhausting
+certain topics' question banks quickly.
+
+**Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
+(clean), `npm run build` (1263 pages), `validate:academic` chain (all
+validators pass, including syllabus-topic-reference and cross-board
+integrity checks against the new files' `syllabusTopics` entries),
+`validate-review-integrity.mjs` (0 problems, 799 resources checked),
+`audit:all` (8 categories, 0 problems each) plus the separate i18n route
+check, 22-fixture negative validation suite (22/22 pass), cross-board
+regression test (all controls intact), `npm audit` (0 vulnerabilities).
+
+**Status:** WS10 complete. Proceeding to WS11 (Syllabus/specification
+change tracker) per the programme's WS0-WS25 order.
