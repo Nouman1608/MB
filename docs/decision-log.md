@@ -3993,3 +3993,81 @@ confirmed the reverted title change would have caused one).
 
 **Status:** WS20 complete. Proceeding to WS21 (analytics/conversion
 growth loop) per the programme's WS0-WS25 order.
+
+## D-079 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS21: Analytics/conversion growth loop
+
+**Date:** 2026-08-29
+**Workstream:** WS21 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA
+PROGRAMME (WS0-WS25).
+
+**Context.** Investigated the real GA4 account directly to verify
+tracking health and look for genuine, actionable conversion-funnel gaps,
+rather than assuming the WS20-style Search Console approach would carry
+over unchanged.
+
+**First finding, resolved as a non-issue.** The connected Google
+Analytics account ("Learners Academy", account ID 398989540) contains
+two separate GA4 properties: "Learners Academy" (property 542913234,
+tracking `learnersacademy.com.pk`, its own real WordPress-style
+`/blog/...` URLs, substantial real traffic) and "Marlbridge" (property
+550438391, tracking `marlbridge.com`). Initially concerning -- rich
+traffic data (695 active users/7 days, Pakistan/Qatar/Saudi/UAE
+breakdown) was being read from the wrong property before this was
+caught. Confirmed by checking each property's own Data Streams that this
+is correct, healthy separation, not a data-mixing bug: two real,
+distinct websites, two distinct properties. No action needed -- this is
+in fact a good sign for the WS16 brand-separation work.
+
+**Second finding: GA4 tracking on marlbridge.com verified correctly
+wired.** The "Marlbridge Website" stream's Measurement ID
+(`G-TB89R669JL`) matches `site.ts`'s `ga4MeasurementId` exactly, and GA4
+confirms "Data collection is active in the past 48 hours." The
+`generate_lead` key event (fired in `EnquiryForm.astro` on successful
+form submission) shows real stream data. Realtime and the 7-day Reports
+Home both showed "No data available" for most dimensions at the moment
+checked -- consistent with this being a young, low-traffic property (the
+same order of magnitude as the 107 total GSC clicks recorded over the
+same period), not a tracking failure.
+
+**Third finding, a real but non-actionable-by-website-code gap.** Of
+the four events marked as GA4 key events (`generate_lead`,
+`qualify_lead`, `close_convert_lead`, `purchase` -- the last correctly
+*not* starred, since Marlbridge has no e-commerce), only `generate_lead`
+has ever fired. Grepped the full `src/` tree: `qualify_lead` and
+`close_convert_lead` appear nowhere in the codebase. This is correct,
+not a bug -- those two represent downstream sales-process outcomes (a
+human qualifying then closing a lead after the enquiry arrives), not
+something the static website can truthfully claim happened client-side.
+Firing them from the browser would mean asserting a lead was
+"qualified" or "closed" with no actual verification -- exactly the kind
+of fabricated signal this programme's discipline forbids. Wiring those
+two up for real would need a CRM-side integration (firing them via the
+GA4 Measurement Protocol when a lead is actually qualified/converted in
+whatever system tracks enrollments) -- a business-process/tooling
+decision for the owner, out of scope for a website-code workstream.
+
+**Fourth finding, a real and concrete opportunity -- not yet acted on,
+pending owner permission.** `WhatsAppButton.astro` already fires its own
+`whatsapp_click` event (with a `link_location` parameter) on every click
+-- explicitly documented in that file as "the site's other real
+Demand-stage conversion path" alongside form submissions. It is
+implemented and (per the code comment) already verified firing, but it
+is **not** currently marked as a GA4 key event, so WhatsApp
+conversions -- likely the dominant contact channel for the Pakistan/Gulf
+audience this site targets -- are invisible in every GA4 conversion
+total and report. Marking an event as a key event is a GA4 account
+settings change, which this programme's own safety rules require asking
+the owner before making, rather than silently toggling in someone else's
+Analytics account. Raised to the owner directly in chat; will action
+immediately if approved.
+
+**Status:** WS21 substantially complete -- tracking verified healthy,
+one real fabrication risk avoided (not fabricating qualify_lead/
+close_convert_lead), one concrete improvement identified and put to the
+owner for the one action that needs their sign-off. No code changes
+were needed this workstream since the two-property separation was
+already correct and generate_lead/whatsapp_click were already properly
+implemented. Proceeding to WS22 (full accessibility/i18n/performance
+QA) per the programme's WS0-WS25 order once the owner responds; the
+whatsapp_click key-event marking will be applied whenever approved,
+independent of that.
