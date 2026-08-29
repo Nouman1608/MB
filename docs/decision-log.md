@@ -3915,3 +3915,81 @@ needed; every crawl/sitemap/schema safeguard already in the gate
 continues to pass after WS16-18, and no new-page-specific CWV risk was
 found by static inspection. Proceeding to WS20 (Search Console demand
 engine) per the programme's WS0-WS25 order.
+
+## D-078 — AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS20: Search Console demand engine
+
+**Date:** 2026-08-29
+**Workstream:** WS20 of the AUTHORITY, PRACTICE, TOOLS & GROWTH MEGA
+PROGRAMME (WS0-WS25).
+
+**Context.** Pulled real Google Search Console performance data for
+marlbridge.com directly (Performance report, 3-month window, which in
+practice only has data from 2026-08-18 onward -- this is a young site).
+Site-wide: 107 clicks, 11.8K impressions, 0.9% average CTR, 47.7 average
+position. Reviewed both the Queries and Pages breakdowns for genuine,
+sourced opportunities rather than guessing at what to improve.
+
+**Real finding.** The `/checklists/<board>/<qualification>/<subject>/`
+template (printable syllabus checklists, added after the v1.x Phase 4/9
+metadata-differentiation work) never received that same treatment: its
+title had no syllabus code and its description, while already
+per-combination, undersold the page (no topic count, generic phrasing).
+By contrast the `/boards/.../` hub template already differentiates
+titles/descriptions per D-Phase 4/9. Several GSC queries showed the
+pattern this gap predicts -- searchers typing syllabus-code-driven
+queries ("3248 syllabus 2027", position 6.1; "cambridge a level english
+literature syllabus 2026", position 7.3; "a level law syllabus 2027",
+position 8.2) ranking on page 1 with zero clicks, and
+`/checklists/aqa/a-level/physics/` itself already showing real traffic
+imbalance (91 impressions, 2 clicks, 2.2% CTR) in the Pages report.
+
+**What shipped.** Improved the checklist description template
+(`src/pages/checklists/[board]/[qualification]/[subject].astro`) to
+lead with the real, already-available topic count: "Printable checklist
+of all N topics for ..." instead of generic "Printable topic-by-topic
+revision checklist for ...". `N` is `version.topics.length`, the exact
+same count rendered on the page itself -- no new number invented.
+
+**What was tried and reverted, honestly.** Two follow-on changes were
+made and then reverted after real measurement showed they were net
+regressions, not improvements:
+1. Adding `(${version.syllabusCode})` to the *title* (matching the hub
+   page's own pattern) was tried, but a length check across all 137
+   built checklist pages showed it pushed 126/137 (92%) titles past the
+   ~60-character truncation point search engines apply, up from a
+   reasonable baseline -- reverted; the title stays unchanged.
+2. An initial description rewrite that added "free to print and tick
+   off by hand" (correcting an accidentally-drafted false claim of
+   "tick off online" -- these checklists are decorative print-only
+   checkboxes with no client-side interactivity, confirmed by grepping
+   the template for any checkbox/localStorage/script logic and finding
+   none) was measured at 102/137 descriptions over 160 characters (some
+   up to 259, because a handful of `syllabusSeries` values are long
+   internal notes, not clean public copy) -- reverted to a tighter
+   phrasing that keeps the real topic-count improvement while landing
+   at the same 6/137-over-160 baseline the original template already
+   had. This is the same discipline as D-073/D-077: measure before
+   claiming an improvement, and don't ship a change that looks better
+   in isolation but regresses in aggregate.
+
+**What this workstream deliberately did not do.** It did not touch the
+`/boards/.../` hub template (already well-differentiated per Phase
+4/9), did not act on single-digit-impression query rows (too little
+signal to justify a change), and did not attempt to fix the long
+`syllabusSeries` strings themselves -- that's a separate, larger data-
+quality task (rewriting ~6 source records in `syllabus-topics.ts` to be
+public-copy-appropriate) out of scope for a metadata-copy workstream.
+
+**Validation.** Full gate run and passed: `astro sync`, `tsc --noEmit`
+(clean), `npm run build` (1269 pages, unchanged), `validate-review-
+integrity.mjs` (0 problems), `audit:all` (0 duplicate titles/
+descriptions among 1266 pages scanned, 0 broken links/orphans) plus the
+i18n route check, 22-fixture negative validation suite (22/22 pass),
+cross-board regression test (all controls intact), `npm audit` (0
+vulnerabilities). Description-length distribution confirmed
+programmatically before and after (137 checklist pages, 6/137 over 160
+chars both before and after -- no regression; title-length distribution
+confirmed the reverted title change would have caused one).
+
+**Status:** WS20 complete. Proceeding to WS21 (analytics/conversion
+growth loop) per the programme's WS0-WS25 order.

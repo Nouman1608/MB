@@ -39,7 +39,7 @@ const hubHref = academicHubPath({ boardSlug: board, qualificationSlug: qualifica
 ---
 <BaseLayout
   title={`${boardName} ${qualificationName} ${subjectName} — printable checklist`}
-  description={`Printable topic-by-topic revision checklist for ${boardName} ${qualificationName} ${subjectName}, syllabus ${version.syllabusCode} (${version.syllabusSeries}).`}
+  description={`Printable checklist of all ${version.topics.length} topics for ${boardName} ${qualificationName} ${subjectName}, syllabus ${version.syllabusCode} (${version.syllabusSeries}).`}
   path={`/checklists/${board}/${qualification}/${subject}/`}
 >
   <Section>
