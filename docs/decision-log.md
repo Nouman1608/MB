@@ -4071,3 +4071,17 @@ implemented. Proceeding to WS22 (full accessibility/i18n/performance
 QA) per the programme's WS0-WS25 order once the owner responds; the
 whatsapp_click key-event marking will be applied whenever approved,
 independent of that.
+
+## D-080 — WS21 follow-up: whatsapp_click marked as a GA4 key event (owner-approved)
+
+**Date:** 2026-08-29
+
+Owner approved the recommendation in D-079 directly in chat. Marked
+`whatsapp_click` as a key event in the Marlbridge GA4 property (Admin >
+Events > Recent events > starred `whatsapp_click`), confirmed by GA4's
+own "whatsapp_click has now been enabled as a key event" banner and
+verified it now appears under the Key events tab alongside
+`generate_lead`. WhatsApp conversions -- likely the dominant contact
+channel for this site's Pakistan/Gulf audience -- now count in GA4's
+conversion totals and reports. No site code change involved; this was a
+GA4 Admin setting only.
