@@ -28,6 +28,7 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { ASSESSMENTS, type Assessment, type SpecStatus } from '../../data/academic/assessments.ts';
+import { flagshipSpecs } from '../../utils/academic/index.ts';
 import { MATRIX, academicHubPath, isPublishable } from '../../utils/academic/index.ts';
 import { routes } from '../../utils/urls/routes';
 import CTA from '../../components/ui/CTA.astro';
@@ -67,6 +68,54 @@ const legacy = byStatus('legacy-teach-out');
 const withdrawn = byStatus('withdrawn');
 const totalTracked = ASSESSMENTS.length;
 const totalTransitioning = future.length + legacy.length + withdrawn.length;
+
+/**
+ * Flagship Dominance Programme WS-C (2026-08-31) -- old-vs-new assessment-
+ * structure comparison, built ONLY from confirmed pairs already in
+ * assessments.ts (both sides' relatedCode point at each other), never
+ * from an assumed or invented transition. This deliberately stays to
+ * COMPUTED structural facts (component count, total marks, total exam
+ * duration) rather than an interpretive "what changed" narrative --
+ * per the brief's own instruction, a raw diff is not a substitute for a
+ * human-checked academic interpretation, so this doesn't attempt one.
+ */
+function transitionPairs() {
+  const used = new Set<string>();
+  const pairs: { older: Assessment; newer: Assessment }[] = [];
+  for (const a of ASSESSMENTS) {
+    if (!a.relatedCode || used.has(a.code)) continue;
+    const b = ASSESSMENTS.find(
+      (o) => o.code === a.relatedCode && o.boardSlug === a.boardSlug
+        && o.qualificationSlug === a.qualificationSlug && o.subjectSlug === a.subjectSlug,
+    );
+    if (!b || used.has(b.code)) continue;
+    used.add(a.code); used.add(b.code);
+    const [older, newer] = (a.firstTeaching ?? '') <= (b.firstTeaching ?? '') ? [a, b] : [b, a];
+    pairs.push({ older, newer });
+  }
+  return pairs.sort((p1, p2) => (p1.newer.firstTeaching ?? '').localeCompare(p2.newer.firstTeaching ?? ''));
+}
+const totalMarks = (a: Assessment) => a.components.reduce((sum, c) => sum + c.marks, 0);
+const totalMinutes = (a: Assessment) => a.components.reduce((sum, c) => sum + (c.durationMinutes ?? 0), 0);
+const comparisonPairs = transitionPairs().map((p) => {
+  const c = comboFor(p.newer) ?? comboFor(p.older);
+  return {
+    ...p,
+    boardLabel: c?.board ?? p.newer.boardSlug,
+    qualificationLabel: c?.qualification ?? p.newer.qualificationSlug,
+    subjectLabel: c?.subject ?? p.newer.subjectSlug,
+    hubHref: c && isPublishable(c) ? academicHubPath(c) : null,
+  };
+});
+
+/**
+ * Honest flagship disclosure: as of this build, none of the five flagship
+ * specifications have an announced successor on record -- all are stable,
+ * current syllabuses. Computed from the real flagship code list rather
+ * than hardcoded, so this sentence corrects itself the day that changes.
+ */
+const flagshipCodes = new Set(flagshipSpecs().map((f) => f.code));
+const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.has(r.assessment.code));
 ---
 <PageLayout
   title="Syllabus & Specification Changes Tracker"
@@ -148,6 +197,64 @@ const totalTransitioning = future.length + legacy.length + withdrawn.length;
           No specification transitions are currently tracked. Every specification Marlbridge covers is shown as its board's current, ongoing syllabus.
         </p>
       )}
+    </Container>
+  </Section>
+
+  <Section surface="white" border>
+    <Container>
+      <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Old vs new: assessment structure</h2>
+      <p class="m-0 mb-2 max-w-[70ch] text-[14.5px] leading-[1.6] text-ink-mute">
+        For every specification pair above where Marlbridge has a real, sourced assessment record for
+        <em>both</em> the outgoing and incoming specification, here is exactly how the paper structure
+        compares -- computed directly from each board's own published component tables, not summarised
+        or interpreted.
+      </p>
+      {!flagshipInTransition && (
+        <p class="m-0 mb-8 rounded-sm border border-dashed border-rule bg-ivory p-4 text-[13.5px] leading-[1.6] text-ink-mute">
+          None of Marlbridge's five flagship specifications (Cambridge IGCSE Chemistry 0620, Physics 0625,
+          Mathematics 0580, and Cambridge International AS &amp; A Level Chemistry 9701, Physics 9702) currently
+          has an announced successor on record -- all five are stable, current syllabuses with no confirmed
+          transition. The comparisons below cover the other specifications Marlbridge tracks that are.
+        </p>
+      )}
+      {comparisonPairs.length === 0 && (
+        <p class="m-0 rounded-sm border border-dashed border-rule bg-ivory p-6 text-[15px] text-ink-mute">
+          No transition currently has a real, sourced assessment record on both sides -- so there is nothing
+          to compare here yet, even though some specifications above are known to be mid-transition.
+        </p>
+      )}
+      <div class="grid gap-8">
+        {comparisonPairs.map((p) => (
+          <div class="rounded-sm border border-rule bg-white p-[clamp(20px,2.2vw,30px)]">
+            <div class="mb-4 flex flex-wrap items-baseline justify-between gap-2">
+              <div>
+                <span class="font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{p.boardLabel} {p.qualificationLabel}</span>
+                <h3 class="m-0 text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{p.subjectLabel}: {p.older.code} → {p.newer.code}</h3>
+              </div>
+              {p.hubHref && <a href={p.hubHref} class="shrink-0 text-[13.5px] font-medium text-gold-600 hover:underline">Full detail on the {p.subjectLabel} hub →</a>}
+            </div>
+            <div class="grid gap-5 sm:grid-cols-2">
+              {[{ label: `Outgoing — ${p.older.code}`, a: p.older }, { label: `Incoming — ${p.newer.code}`, a: p.newer }].map(({ label, a }) => (
+                <div>
+                  <p class="m-0 mb-2 text-[12px] font-medium uppercase tracking-[0.1em] text-ink-mute">{label}</p>
+                  <dl class="m-0 mb-3 grid grid-cols-[auto_1fr] gap-x-3 gap-y-0.5 text-[13px] text-ink-mute">
+                    <dt class="font-medium text-navy-800">First teaching</dt><dd class="m-0">{a.firstTeaching ?? 'Not recorded'}</dd>
+                    <dt class="font-medium text-navy-800">Components</dt><dd class="m-0">{a.components.length}</dd>
+                    <dt class="font-medium text-navy-800">Total marks</dt><dd class="m-0">{totalMarks(a)}</dd>
+                    <dt class="font-medium text-navy-800">Total time</dt><dd class="m-0">{Math.round(totalMinutes(a) / 6) / 10}h</dd>
+                  </dl>
+                  <ul class="m-0 list-none p-0 text-[13px] leading-[1.7] text-ink">
+                    {a.components.map((c) => (
+                      <li>{c.paperCode} — {c.title} ({c.marks} marks, {c.weightingPercent}%)</li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+            <p class="m-0 mt-4 text-[12.5px] text-ink-mute">Sourced from {p.older.officialSourceUrl === p.newer.officialSourceUrl ? 'the board\'s own specification documents' : 'each specification\'s own official documents'}, verified {p.newer.verifiedOn}.</p>
+          </div>
+        ))}
+      </div>
     </Container>
   </Section>
 

@@ -42,6 +42,12 @@ const GRADE_ORDER: Grade[] = ['A*', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'a', 'b',
         </select>
       </div>
 
+      <p class="mx-auto mt-6 max-w-[520px] rounded-sm border border-dashed border-rule bg-ivory p-4 text-center text-[13.5px] leading-[1.6] text-ink-mute">
+        <strong class="text-ink">Historical grade thresholds do not predict future thresholds.</strong> Cambridge
+        sets each series' thresholds independently based on how that specific paper performed -- use the table
+        below to understand a past series, not to estimate a future one.
+      </p>
+
       <div class="mt-10 flex flex-col gap-14">
         {GRADE_THRESHOLDS.map((g) => (
           <div class="mb-gt-panel" data-code={g.code}>
