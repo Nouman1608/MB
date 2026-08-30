@@ -148,6 +148,14 @@ const storageKey = `mb-practice-${spec.code}`;
             </select>
           </label>
           <label class="flex items-center gap-2 text-ink-mute">
+            <span>Mode:</span>
+            <select id="mb-practice-mode" class="rounded-sm border border-rule bg-white px-2 py-1 text-[13.5px]">
+              <option value="standard">Standard practice</option>
+              <option value="mixed">Mixed revision (20, balanced by topic)</option>
+              <option value="diagnostic">Diagnostic check (one-time, broad coverage)</option>
+            </select>
+          </label>
+          <label class="flex items-center gap-2 text-ink-mute">
             <input type="checkbox" id="mb-practice-timed" class="h-4 w-4" />
             <span>Timed mode</span>
           </label>
@@ -174,6 +182,27 @@ const storageKey = `mb-practice-${spec.code}`;
         </div>
         <p id="mb-practice-empty" class="m-0 mt-6 rounded-sm border border-dashed border-rule bg-ivory p-6 text-[14.5px] text-ink-mute" hidden></p>
 
+        <div id="mb-practice-diagnostic-results" class="mt-6 rounded-sm border border-rule bg-white p-[clamp(22px,3vw,36px)]" hidden>
+          <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Diagnostic results</h2>
+          <p id="mb-practice-diag-score" class="m-0 mb-6 text-[14.5px] text-ink-mute"></p>
+          <div class="grid gap-6 sm:grid-cols-2">
+            <div>
+              <h3 class="m-0 mb-2 text-[12px] font-semibold uppercase tracking-[0.1em] text-gold-600">Strengths</h3>
+              <ul id="mb-practice-diag-strengths" class="m-0 list-none p-0 text-[14px] leading-[1.7] text-ink"></ul>
+            </div>
+            <div>
+              <h3 class="m-0 mb-2 text-[12px] font-semibold uppercase tracking-[0.1em] text-gold-600">Weak areas</h3>
+              <ul id="mb-practice-diag-weak" class="m-0 list-none p-0 text-[14px] leading-[1.7] text-ink"></ul>
+            </div>
+          </div>
+          <p class="m-0 mt-6 text-[13px] text-ink-mute">A simple, deterministic check based on the questions you were just given, spread across the syllabus topics this bank covers — not a validated diagnostic assessment, and not a prediction of exam performance.</p>
+          <div class="mt-5 flex flex-wrap items-center gap-3">
+            <a href={hubPath} class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">Review the syllabus hub</a>
+            <a href="/tutoring/" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Get teacher support</a>
+            <button type="button" id="mb-practice-diag-restart" class="ml-auto rounded-sm px-5 py-2.5 text-[14px] font-medium text-gold-600 transition-colors hover:text-gold-700">Back to standard practice</button>
+          </div>
+        </div>
+
         <div id="mb-practice-weak" class="mt-10" hidden>
           <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Your weak topics</h2>
           <p class="m-0 mb-4 text-[14.5px] text-ink-mute">Based on questions you've marked wrong, ranked by how often they come up.</p>
@@ -184,6 +213,27 @@ const storageKey = `mb-practice-${spec.code}`;
           <h2 class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Error notebook</h2>
           <p class="m-0 mb-4 text-[14.5px] text-ink-mute">Every question you've marked wrong, in one place — jump straight back to it.</p>
           <ul id="mb-practice-notebook-list" class="m-0 grid list-none gap-2 p-0"></ul>
+        </div>
+
+        <div id="mb-practice-mastery" class="mt-10" hidden>
+          <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Your topic mastery</h2>
+          <p class="m-0 mb-3 text-[14.5px] text-ink-mute">
+            A simple, deterministic signal from your attempts on this page — not a validated diagnostic.
+            {' '}<button type="button" id="mb-practice-mastery-info" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">How this is worked out</button>
+          </p>
+          <div id="mb-practice-mastery-explain" class="m-0 mb-4 rounded-sm border border-dashed border-rule bg-ivory p-4 text-[13px] leading-[1.6] text-ink-mute" hidden>
+            <strong class="text-ink">Not started</strong> — no attempts yet on any question in this topic.{' '}
+            <strong class="text-ink">Needs review</strong> — your most recent attempt in this topic was marked wrong, or fewer than half your attempts were correct.{' '}
+            <strong class="text-ink">Developing</strong> — at least half your attempts were correct, but not yet two in a row.{' '}
+            <strong class="text-ink">Secure</strong> — at least two questions attempted in this topic, all marked correct, and your most recent attempt was correct. One correct answer is never enough on its own to call a topic secure.
+          </div>
+          <ul id="mb-practice-mastery-list" class="m-0 grid list-none gap-2 p-0 sm:grid-cols-2"></ul>
+        </div>
+
+        <div id="mb-practice-spaced" class="mt-10" hidden>
+          <h2 class="m-0 mb-1 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Ready to retry</h2>
+          <p class="m-0 mb-4 text-[14.5px] text-ink-mute">Questions you got wrong a while ago — worth another attempt now they're not fresh in memory.</p>
+          <ul id="mb-practice-spaced-list" class="m-0 grid list-none gap-2 p-0"></ul>
         </div>
 
         <p class="m-0 mt-8 text-[12.5px] text-ink-mute">
@@ -227,6 +277,18 @@ const storageKey = `mb-practice-${spec.code}`;
         notebookWrap: document.getElementById('mb-practice-notebook'),
         notebookList: document.getElementById('mb-practice-notebook-list'),
         reset: document.getElementById('mb-practice-reset'),
+        mode: document.getElementById('mb-practice-mode'),
+        masteryWrap: document.getElementById('mb-practice-mastery'),
+        masteryList: document.getElementById('mb-practice-mastery-list'),
+        masteryInfo: document.getElementById('mb-practice-mastery-info'),
+        masteryExplain: document.getElementById('mb-practice-mastery-explain'),
+        spacedWrap: document.getElementById('mb-practice-spaced'),
+        spacedList: document.getElementById('mb-practice-spaced-list'),
+        diagWrap: document.getElementById('mb-practice-diagnostic-results'),
+        diagScore: document.getElementById('mb-practice-diag-score'),
+        diagStrengths: document.getElementById('mb-practice-diag-strengths'),
+        diagWeak: document.getElementById('mb-practice-diag-weak'),
+        diagRestart: document.getElementById('mb-practice-diag-restart'),
       };
 
       function loadState() {
@@ -248,6 +310,88 @@ const storageKey = `mb-practice-${spec.code}`;
       let revealed = false;
       let timerStart = null;
       let timerInterval = null;
+      let mode = 'standard';
+      let diagnosticActive = false;
+      /** @type {Record<string, boolean>} this diagnostic run's own answers, kept separate from `state` so results reflect exactly this run regardless of earlier history */
+      let diagnosticRun = {};
+
+      /**
+       * Flagship Dominance Programme WS-B (2026-08-31) -- topic index built
+       * once from every question's own topics[] (server-resolved real
+       * syllabus names, not slugs -- see topicLabel in the frontmatter
+       * above). Preserves first-seen order so the mastery list reads in
+       * roughly syllabus order rather than alphabetically.
+       */
+      const allTopics = new Map();
+      for (const q of questions) {
+        for (const t of q.topics) {
+          if (!allTopics.has(t.key)) allTopics.set(t.key, t.label);
+        }
+      }
+
+      /**
+       * Deterministic topic-balanced sample: round-robins across every
+       * topic group (a question's first tagged topic, or 'general' if it
+       * has none) so a mixed/diagnostic set spreads across the syllabus
+       * instead of clustering on whichever topic happens to have the most
+       * source files. Same input always produces the same output -- no
+       * randomness, matching the brief's "use deterministic logic".
+       */
+      function buildBalancedSet(n) {
+        const groups = new Map();
+        for (const q of questions) {
+          const key = q.topics[0] ? q.topics[0].key : 'general';
+          if (!groups.has(key)) groups.set(key, []);
+          groups.get(key).push(q);
+        }
+        const groupArrays = [...groups.values()];
+        const picked = [];
+        let round = 0;
+        while (picked.length < n) {
+          let addedThisRound = false;
+          for (const arr of groupArrays) {
+            if (round < arr.length) {
+              picked.push(arr[round]);
+              addedThisRound = true;
+              if (picked.length >= n) break;
+            }
+          }
+          if (!addedThisRound) break;
+          round++;
+        }
+        return picked;
+      }
+
+      /**
+       * Topic mastery level -- deterministic, documented, and deliberately
+       * conservative: a single correct answer can never reach 'secure' (the
+       * brief's own warning against overconfidence from one question), and
+       * a fresh wrong answer always demotes a topic regardless of a good
+       * historical ratio, since the most recent signal is the most current
+       * evidence of whether a topic is actually secure right now.
+       */
+      function masteryLevel(attempts) {
+        if (attempts.length === 0) return 'not-started';
+        const correctCount = attempts.filter((a) => a.correct).length;
+        const ratio = correctCount / attempts.length;
+        const mostRecent = attempts.reduce((a, b) => (a.ts > b.ts ? a : b));
+        if (!mostRecent.correct) return 'needs-review';
+        if (attempts.length >= 2 && ratio === 1) return 'secure';
+        if (ratio >= 0.5) return 'developing';
+        return 'needs-review';
+      }
+      const MASTERY_LABEL = {
+        'not-started': 'Not started',
+        'needs-review': 'Needs review',
+        'developing': 'Developing',
+        'secure': 'Secure',
+      };
+      const MASTERY_CLASS = {
+        'not-started': 'bg-ivory text-ink-mute',
+        'needs-review': 'bg-[#fbe9e7] text-[#9a3412]',
+        'developing': 'bg-[#fff4d6] text-[#8a6100]',
+        'secure': 'bg-[#e6f4ea] text-[#1e6b3a]',
+      };
 
       function applyFilter() {
         const mode = els.filter.value;
@@ -351,6 +495,147 @@ const storageKey = `mb-practice-${spec.code}`;
         }
       }
 
+      function updateMastery() {
+        if (Object.keys(state.attempts).length === 0) { els.masteryWrap.hidden = true; return; }
+        els.masteryWrap.hidden = false;
+        els.masteryList.innerHTML = '';
+        for (const [key, label] of allTopics) {
+          const topicQuestions = questions.filter((q) => q.topics.some((t) => t.key === key));
+          const attempts = topicQuestions
+            .map((q) => state.attempts[q.id])
+            .filter((a) => a);
+          const level = masteryLevel(attempts);
+          const li = document.createElement('li');
+          li.className = 'flex items-center justify-between gap-3 rounded-sm border border-rule bg-white px-4 py-3';
+          const span = document.createElement('span');
+          span.className = 'text-[14px] text-ink';
+          span.textContent = label;
+          const badge = document.createElement('span');
+          badge.className = 'shrink-0 rounded-sm px-2.5 py-1 text-[12px] font-medium ' + MASTERY_CLASS[level];
+          badge.textContent = MASTERY_LABEL[level] + (attempts.length ? ' · ' + attempts.length + ' attempted' : '');
+          li.appendChild(span);
+          li.appendChild(badge);
+          els.masteryList.appendChild(li);
+        }
+      }
+
+      function fmtDaysAgo(ts) {
+        const days = Math.floor((Date.now() - ts) / 86400000);
+        if (days <= 0) return 'today';
+        if (days === 1) return '1 day ago';
+        return days + ' days ago';
+      }
+
+      /**
+       * Flagship Dominance Programme WS-B -- spaced-retry queue. Surfaces a
+       * previously-wrong question only once it is at least a day old (the
+       * point of spacing is that it is no longer fresh in memory), oldest
+       * miss first, capped to a manageable list. Purely a read of existing
+       * `state.attempts` -- no separate storage, no account needed.
+       */
+      const SPACED_RETRY_THRESHOLD_MS = 24 * 60 * 60 * 1000;
+      function updateSpacedRetry() {
+        const ready = questions
+          .filter((q) => {
+            const a = state.attempts[q.id];
+            return a && a.correct === false && (Date.now() - a.ts) >= SPACED_RETRY_THRESHOLD_MS;
+          })
+          .sort((a, b) => state.attempts[a.id].ts - state.attempts[b.id].ts)
+          .slice(0, 8);
+        els.spacedWrap.hidden = ready.length === 0;
+        els.spacedList.innerHTML = '';
+        for (const q of ready) {
+          const li = document.createElement('li');
+          li.className = 'rounded-sm border border-rule bg-white px-4 py-3';
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'flex w-full items-center justify-between gap-3 text-left text-[14px] text-ink hover:text-gold-600';
+          const plain = q.qHtml.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+          const textSpan = document.createElement('span');
+          textSpan.textContent = plain.length > 120 ? plain.slice(0, 120) + '…' : plain;
+          const whenSpan = document.createElement('span');
+          whenSpan.className = 'shrink-0 text-[12px] text-ink-mute';
+          whenSpan.textContent = 'missed ' + fmtDaysAgo(state.attempts[q.id].ts);
+          btn.appendChild(textSpan);
+          btn.appendChild(whenSpan);
+          btn.addEventListener('click', () => {
+            if (mode !== 'standard') { els.mode.value = 'standard'; applyMode(); }
+            const i = filtered.findIndex((f) => f.id === q.id);
+            if (i >= 0) { index = i; render(); }
+            else { filtered = questions.slice(); index = questions.findIndex((f) => f.id === q.id); render(); }
+            els.card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          });
+          li.appendChild(btn);
+          els.spacedList.appendChild(li);
+        }
+      }
+
+      function topicResultsFor(qIds, results) {
+        const byTopic = new Map();
+        for (const id of qIds) {
+          const q = questions.find((x) => x.id === id);
+          if (!q) continue;
+          for (const t of q.topics) {
+            if (!byTopic.has(t.key)) byTopic.set(t.key, { label: t.label, correct: 0, total: 0 });
+            const entry = byTopic.get(t.key);
+            entry.total++;
+            if (results[id]) entry.correct++;
+          }
+        }
+        return byTopic;
+      }
+
+      /**
+       * Diagnostic results -- a deliberately simple, disclosed-as-simple
+       * summary (never framed as a validated psychometric diagnostic).
+       * Strengths: every attempted question in that topic was correct.
+       * Weak areas: at least one attempted question in that topic was
+       * wrong. A topic can appear in neither list if this particular
+       * diagnostic run happened not to sample it.
+       */
+      function showDiagnosticResults() {
+        const ids = filtered.map((q) => q.id);
+        const correctCount = ids.filter((id) => diagnosticRun[id]).length;
+        els.card.hidden = true;
+        els.empty.hidden = true;
+        els.diagWrap.hidden = false;
+        els.diagScore.textContent = correctCount + ' / ' + ids.length + ' correct (' + Math.round((correctCount / ids.length) * 100) + '%)';
+        const byTopic = topicResultsFor(ids, diagnosticRun);
+        const strengths = [...byTopic.values()].filter((t) => t.correct === t.total);
+        const weak = [...byTopic.values()].filter((t) => t.correct < t.total);
+        els.diagStrengths.innerHTML = strengths.length
+          ? strengths.map((t) => '<li class="mb-1">' + t.label + '</li>').join('')
+          : '<li class="text-ink-mute">None yet -- try again after reviewing the weak areas below.</li>';
+        els.diagWeak.innerHTML = weak.length
+          ? weak.map((t) => '<li class="mb-1">' + t.label + ' (' + t.correct + '/' + t.total + ')</li>').join('')
+          : '<li class="text-ink-mute">None -- every topic sampled was fully correct.</li>';
+        if (els.diagWrap.scrollIntoView) els.diagWrap.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+
+      function applyMode() {
+        mode = els.mode.value;
+        diagnosticActive = false;
+        diagnosticRun = {};
+        els.diagWrap.hidden = true;
+        els.filter.disabled = mode !== 'standard';
+        if (mode === 'standard') {
+          applyFilter();
+          return;
+        }
+        if (mode === 'mixed') {
+          filtered = buildBalancedSet(Math.min(20, questions.length));
+          index = 0;
+          render();
+          return;
+        }
+        // diagnostic
+        const n = Math.min(25, questions.length);
+        filtered = buildBalancedSet(n);
+        diagnosticActive = true;
+        index = 0;
+        render();
+      }
+
       function render() {
         stopTimer();
         if (filtered.length === 0) {
@@ -362,9 +647,12 @@ const storageKey = `mb-practice-${spec.code}`;
           updateSummary();
           updateWeakTopics();
           updateNotebook();
+          updateMastery();
+          updateSpacedRetry();
           return;
         }
         els.card.hidden = false;
+        els.diagWrap.hidden = true;
         els.empty.hidden = true;
         if (index >= filtered.length) index = 0;
         const q = filtered[index];
@@ -382,6 +670,8 @@ const storageKey = `mb-practice-${spec.code}`;
         updateSummary();
         updateWeakTopics();
         updateNotebook();
+        updateMastery();
+        updateSpacedRetry();
       }
 
       function markAttempt(correct) {
@@ -389,11 +679,18 @@ const storageKey = `mb-practice-${spec.code}`;
         if (!q) return;
         state.attempts[q.id] = { correct: correct, ts: Date.now(), timedMode: !!els.timedToggle.checked };
         saveState(state);
+        if (diagnosticActive) diagnosticRun[q.id] = correct;
         updateSummary();
         updateWeakTopics();
         updateNotebook();
+        updateMastery();
+        updateSpacedRetry();
         els.right.hidden = true;
         els.wrong.hidden = true;
+        if (diagnosticActive && index >= filtered.length - 1) {
+          setTimeout(() => { showDiagnosticResults(); }, 350);
+          return;
+        }
         if (filtered.length > 1) {
           setTimeout(() => { index = (index + 1) % filtered.length; render(); }, 350);
         }
@@ -416,11 +713,20 @@ const storageKey = `mb-practice-${spec.code}`;
         if (!confirm('Reset all saved progress for this subject? This cannot be undone.')) return;
         state = { attempts: {} };
         saveState(state);
-        applyFilter();
+        els.mode.value = 'standard';
+        applyMode();
+      });
+      els.mode.addEventListener('change', applyMode);
+      els.masteryInfo.addEventListener('click', () => {
+        els.masteryExplain.hidden = !els.masteryExplain.hidden;
+      });
+      els.diagRestart.addEventListener('click', () => {
+        els.mode.value = 'standard';
+        applyMode();
       });
 
       app.classList.remove('hidden');
-      applyFilter();
+      applyMode();
     })();
   </script>
 </PageLayout>
