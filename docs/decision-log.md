@@ -4268,3 +4268,51 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   instruction not to expand scope during this workstream.
 - **Status:** implemented; validated (`npm run build`, `npm run validate:academic` including the
   new validator, `npm run audit:all`, and the negative-fixture suite all pass clean).
+
+## D-086 — Post-v2.0 Quality Closure WS4: translated homepages no longer claim the enquiry form is English-only
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 4 (translation
+  consistency); reproduces closure-brief observation 9 ("translated homepages described enquiries
+  as English-only even though an Arabic trial form existed").
+- **What was found:** `src/i18n/copy.ts` (`LOCALE_COPY`, dating to the earlier v1.x CLOSURE WS5
+  single-landing-page translation) is the copy source used only by the three dedicated homepage
+  files `src/pages/ar/index.astro`, `src/pages/ur/index.astro`, `src/pages/bn/index.astro` (NOT the
+  `src/i18n/pages/marketing.ts` / `MARKETING_COPY` structure used by every other translated page).
+  Its `contactBody` string stated, in each language, that "the enquiry form is currently available
+  only in English", and both of the homepage's own contact CTAs (`ctaContact` in the hero, and
+  `contactButton` lower on the page) hard-linked to the English `/contact/` route rather than a
+  locale-aware path. Both claims were stale: a later closure workstream (referenced in
+  `EnquiryForm.astro` as "v1.x CLOSURE WS2") shipped a fully translated `EnquiryForm` --
+  field labels, message hints, privacy text, submit/success/error copy, all sourced from
+  `NAV_COPY[locale].form` in `src/i18n/nav.ts` -- on the real, already-built `/ar/contact/`,
+  `/ur/contact/`, `/bn/contact/` and `/ar/trial/`, `/ur/trial/`, `/bn/trial/` pages. `copy.ts`
+  itself was never updated to reflect that this later work had landed, so the homepage was telling
+  visitors the form did not exist in their language, and then routing them to the English site
+  instead of the working translated form the site already had.
+- **What was done:** removed the false "English only" sentence from `contactBody` in all three
+  locales (Arabic, Urdu, Bengali), reworded `ctaContact` from "Contact us (in English)" to a plain
+  "Contact us" in each language (no longer accurate to call out English once the destination is the
+  translated form), and changed both hardcoded `href="/contact/"` links on all three homepage files
+  to `localePath(locale, 'contact')`, matching the pattern already used everywhere else in the i18n
+  layer (`LocaleLayout.astro`, `trial/index.astro`, `contact/index.astro`). The existing AI-
+  translation review banner (`NAV_COPY[locale].reviewBanner`, rendered by `LocaleLayout` on every
+  translated page) is unaffected and remains accurate -- it is a genuine, still-true disclosure
+  that the page copy is AI-translated and pending team review, which is a different claim from "the
+  form itself only works in English."
+- **Not changed:** `LOCALE_COPY.contactButton` text ("Go to the enquiry form") was left as-is in
+  all three languages -- it was already accurate wording and only needed a correct destination, not
+  new wording.
+- **Verification:** `npm run build` (1269 pages, unchanged count), `npm run validate:academic`,
+  `npm run audit:all` (including the i18n route-completeness check, which independently confirms
+  canonical/hreflang/lang/dir on all 76 translated-route pages), and the negative-fixture suite (26
+  categories) all pass clean. Confirmed directly in the built output that `dist/ar/index.html`,
+  `dist/ur/index.html` and `dist/bn/index.html` no longer contain the removed English-only sentence
+  in any language, and that both contact CTAs on each page resolve to that locale's own
+  `/contact/` route rather than the English one.
+- **Scope discipline:** this fix is scoped to the three homepage files and their shared copy
+  source; it does not touch `MARKETING_COPY`/`marketing.ts`, which already handles the translated
+  contact/trial pages correctly and was not part of the reported observation.
+- **Status:** implemented and verified. The broader WS4 scope (full inventory of translated routes,
+  RTL/lang/dir spot-checks beyond what `audit:all` already covers, a human-review queue for the
+  AI-translated copy) is not yet separately addressed and remains open under Workstream 4.

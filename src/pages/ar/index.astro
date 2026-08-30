@@ -1,8 +1,10 @@
 ---
 import LocaleLayout from '../../layouts/LocaleLayout.astro';
 import { LOCALE_COPY, pricingRows } from '../../i18n/copy';
+import { localePath } from '../../i18n/routes';
 
 const copy = LOCALE_COPY['ar'];
+const contactHref = localePath('ar', 'contact');
 ---
 <LocaleLayout locale="ar" translationKey="home" title={copy.title} description={copy.description}>
   <section class="px-[var(--spacing-gutter)] py-16">
@@ -10,7 +12,7 @@ const copy = LOCALE_COPY['ar'];
       <p class="m-0 mb-3 text-[13px] font-semibold uppercase tracking-[0.16em] text-gold-600">{copy.eyebrow}</p>
       <h1 class="m-0 mb-5 text-[clamp(28px,4vw,44px)] font-semibold leading-[1.15] text-navy-900">{copy.h1}</h1>
       <p class="mx-auto m-0 mb-8 max-w-[62ch] text-[17px] leading-relaxed text-ink-mute">{copy.subhead}</p>
-      <a href="/contact/" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory hover:bg-navy-700">{copy.ctaContact}</a>
+      <a href={contactHref} class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory hover:bg-navy-700">{copy.ctaContact}</a>
     </div>
   </section>
 
@@ -59,7 +61,7 @@ const copy = LOCALE_COPY['ar'];
     <div class="mx-auto max-w-[60ch]">
       <h2 class="m-0 mb-3 text-[24px] font-semibold text-navy-900">{copy.contactHeading}</h2>
       <p class="m-0 mb-6 text-[15px] leading-relaxed text-ink-mute">{copy.contactBody}</p>
-      <a href="/contact/" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-gold-500 px-7 py-3.5 text-[15px] font-medium text-navy-900 hover:opacity-90">{copy.contactButton}</a>
+      <a href={contactHref} class="inline-flex min-h-11 items-center justify-center rounded-sm bg-gold-500 px-7 py-3.5 text-[15px] font-medium text-navy-900 hover:opacity-90">{copy.contactButton}</a>
     </div>
   </section>
 </LocaleLayout>
