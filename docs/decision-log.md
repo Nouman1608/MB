@@ -4133,12 +4133,19 @@ parts that still require owner input rather than being recoverable from the code
    approved the live disclosure wording as written. Note that this approval covers the wording as
    it stands *while Cloudflare Zaraz is active*; if Zaraz is disabled or its tools removed (see
    item 2), these pages will describe processing that no longer happens and must be revised.
-2. **Whether Microsoft Clarity is genuinely active is unconfirmed.** The disclosure names it because
-   Zaraz's own modal copy names it. Nobody with Cloudflare access has verified whether Clarity is
-   actually live and receiving data, or is leftover placeholder text in the Zaraz config. If it is
-   not live, the legal pages currently over-disclose; if something *else* is firing that the modal
-   does not name, they under-disclose. Either way the dashboard is the source of truth and has not
-   been checked.
+2. ~~Whether Microsoft Clarity is genuinely active is unconfirmed.~~ **RESOLVED 2026-08-31:** owner
+   opened the Cloudflare Zaraz consent settings. Both **Google Analytics 4** and **Microsoft
+   Clarity** are configured as Zaraz tools, and both are assigned to the single consent purpose
+   `gDBo` ("Analytics") — so both are genuinely live and both are consent-gated. The legal-page
+   disclosure is therefore **accurate as written**; it neither over- nor under-discloses.
+
+   Two consequences follow. (a) The Zaraz consent modal cannot simply be switched off: Zaraz's own
+   settings page states "Unassigned tools will be enabled regardless of the consent status", so
+   removing the purpose assignment would make GA4 and Clarity fire unconditionally, which is worse
+   than the current state. (b) Google Analytics is now known to be firing **twice** — once via this
+   repo's own `gtag` (`G-TB89R669JL`, gated by this site's own banner) and once via Zaraz (gated by
+   Zaraz's modal). That is both a data-quality problem and the reason a visitor sees two consent
+   UIs. Consolidating onto one path is tracked separately.
 3. **Cross-reference:** full investigation writeup at
    `claude/zaraz-cookie-settings-finding-2026-08-30.md` (project docs, outside this repository).
 
