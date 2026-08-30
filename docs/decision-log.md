@@ -4211,3 +4211,60 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   implemented versus merely undocumented versus genuinely unrecorded.
 - **Status:** consolidated; two items remain open for the owner (business-decisions-register.md
   items 7 and 8).
+
+## D-085 — Post-v2.0 Quality Closure WS6: grade-threshold explorer now shows every published route, not one representative combination per tier
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 6
+  (`/grade-thresholds/`).
+- **What was found:** the original v2.0 WS14 version of `src/data/academic/grade-thresholds.ts`
+  reproduced only the single FIRST-listed, "most standard" paper-combination route per tier for
+  each of the 5 flagship specifications, with a caveat that Cambridge's official PDF listed other
+  real routes not shown. A learner whose own paper combination was one of those un-shown routes had
+  no way to select it on the page -- they would either misread the shown "representative" numbers
+  as their own, or have to already know to distrust the page and go find the PDF themselves. This
+  is exactly the failure mode this workstream exists to close.
+- **What was done:** re-fetched all 5 official Cambridge grade-threshold PDFs directly (not from
+  search snippets or memory) and transcribed every syllabus-level route combination each publishes
+  for standard, single-series assessment:
+  - IGCSE Chemistry (0620) and Physics (0625): 16 Core/Extended routes each (up from 2), plus the
+    standalone Component 50 route -- 17 rows per subject, every route published.
+  - IGCSE Mathematics (0580): 6 Core/Extended routes (up from 2), plus Component 50 -- 7 rows,
+    every route published.
+  - AS & A Level Chemistry (9701) and Physics (9702): 8 full-A-Level ("linear assessment") routes
+    and 8 AS-Level-only routes each (up from 1 each) -- 16 rows per subject.
+  - Total: 73 routes across the 5 specifications, up from 13 before this workstream.
+- **Deliberately NOT included:** Cambridge's "staged assessment" routes for 9701/9702 (AS papers
+  sat in an earlier series, A2 papers in a later one -- roughly 20 further combinations per
+  subject). Rather than risk mistranscribing a much larger table for a narrower audience, or
+  silently omitting them the way the original version omitted ALL non-representative routes, these
+  are explicitly named as excluded on the page and in the data file, with a direct link to the
+  official PDF (which lists every staged route in full) -- following the closure brief's own
+  "explicitly label unsupported routes and link to the official source" instruction.
+- **Label reverification (brief item 8):** the original data called Component 50 (in 0620/0625)
+  "Practical alternative" and (in 0580) "Practical/oral alternative". Neither label could be
+  reverified against an official source in this pass (the grade-threshold PDFs themselves give only
+  the bare component number, and a syllabus-assessment page fetch to confirm the functional name
+  404'd). Per the brief's own fallback ("if unsupported, use the official neutral identifier"),
+  both are now labelled plainly as "Component 50" rather than carrying an unverified functional
+  claim.
+- **New validator:** `scripts/validate-grade-thresholds.mjs` (wired into `npm run validate:academic`)
+  -- did not exist before this workstream, so a bad edit to this data (a duplicated route, a
+  threshold exceeding its own maxMark, a grade recorded as an unavailable "0" instead of omitted,
+  a malformed series string) would previously have built and deployed with no automated check at
+  all. Checks: series format, route collisions, unavailable-grades-preserved-as-absent-not-zero,
+  mark-basis sanity (positive, ≤ maxMark, strictly decreasing by grade), valid grade keys, and
+  required source/verification fields. Proven with 3 new negative fixtures in
+  `scripts/test-negative-validation-suite.mjs` (category `[X]`): a route collision, a threshold
+  exceeding maxMark, and a grade recorded as 0 -- all three correctly rejected, then the fixture
+  file restored and re-verified clean.
+- **Page copy:** `/grade-thresholds/` now states explicitly that every published route for each
+  specification is shown (so a learner can find their own exact combination) and that all marks
+  are raw marks, not weighted or a uniform mark scale (UMS) -- Cambridge's syllabuses covered here
+  do not use UMS at all, so this closes a possible source of confusion for a learner more familiar
+  with UK-domestic exam boards that do.
+- **Scope discipline:** no new boards, qualifications, or exam series were added -- only the same 5
+  specifications and the same June 2026 series already covered, per the brief's explicit
+  instruction not to expand scope during this workstream.
+- **Status:** implemented; validated (`npm run build`, `npm run validate:academic` including the
+  new validator, `npm run audit:all`, and the negative-fixture suite all pass clean).
