@@ -4460,3 +4460,50 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   sends, no changes to `functions/api/enquiry.ts` or any other send-path code -- this workstream was
   verification only.
 - **Status:** implemented and verified. WS5 is closed.
+
+## D-090 — Post-v2.0 Quality Closure: deploy confirmed, all in-scope fixes independently verified live on production
+
+**Date:** 2026-08-30
+
+This session's cloud sandbox has no git push access (git proxy returns 403; confirmed
+structural, not transient, via six separate attempts across the session). The 8 WS2-WS10
+commits (`798ee1c`..`a0dd613`) were delivered to the owner as a verified git bundle rather
+than pushed directly. The owner applied the bundle and pushed it to `origin/main` themselves
+(merge commit `f29e86b`); a second, concurrent session's WS1 work (cookie-consent/Zaraz/Clarity
+disclosure, branch `d-081-analytics-disclosure`, PR #44) landed on top of it in the same push
+(merge commit `0223c7f`, commit message "D-081: ..."). `origin/main` is now at `0223c7f`.
+
+Rather than merely trusting that the merge succeeded, each in-scope fix was independently
+re-verified directly against live production (`https://marlbridge.com`, `curl`/fetch against
+the real deployed HTML, not the local repo):
+
+- **WS2/WS3** -- `/resources/a-level-edexcel-law-underlying-principles/`: only `YLA1` appears
+  (9 occurrences), `YLA11` does not appear anywhere. Confirmed live.
+- **WS4** -- `/ar/`: both contact CTAs link to `/ar/contact/` (localized), not the English
+  `/contact/`. The stale "form is English-only" sentence does not appear in the contact body;
+  the separate, legitimate AI-translation-pending review banner is still present, correctly.
+  Confirmed live.
+- **WS6** -- `/grade-thresholds/`: dropdown lists all 5 flagship specifications; ~75 total
+  route rows rendered across the tables (up from 13 single "representative" rows pre-fix).
+  Confirmed live.
+- **WS7** -- `/resources/a-level-edexcel-law-the-law-in-action/`: returns HTTP 200 with the
+  correct title and content (not a 404). Confirmed live.
+- **WS8** -- `/practice/0620/`: page states "94 original exam-style questions" for Cambridge
+  IGCSE Chemistry, consistent with the parser fix (was silently undercounting before D-087).
+  Confirmed live.
+- **WS9** -- `/pricing/`: raw HTML contains "20% + 10% = 30% off in total" and the worked
+  example "...both discounts (30% combined), that becomes 39,900 PKR/month" in both the
+  page body and the FAQ JSON-LD. Confirmed live.
+- **WS5** -- already independently verified via Gmail in D-089, prior to this deploy.
+
+**One gap noted, not fixed (out of scope):** the concurrent session's WS1 merge commit is
+titled "D-081: disclose Cloudflare Zaraz + Microsoft Clarity, make consent modal reachable",
+but no `## D-081` (or any Zaraz/Clarity-titled) entry actually exists anywhere in
+`docs/decision-log.md` after the merge -- that workstream's own decision appears never to have
+been written to this file, despite its code landing on `main`. This is flagged here for
+whoever owns WS1 to complete; it is not invented or written on their behalf, since this session
+was not part of that decision and does not know their full reasoning.
+
+- **Status:** all 9 in-scope workstreams (WS2-WS10) implemented, validated, deployed, and
+  independently verified live on production. Post-v2.0 Quality Closure is complete. WS1 remains
+  explicitly out of scope, owned by its own session/PR.
