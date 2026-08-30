@@ -4086,6 +4086,61 @@ channel for this site's Pakistan/Gulf audience -- now count in GA4's
 conversion totals and reports. No site code change involved; this was a
 GA4 Admin setting only.
 
+## D-081 — Post-v2.0 Quality Closure WS1: Cloudflare Zaraz + Microsoft Clarity disclosed on the legal pages; its consent modal made reachable
+
+*(Entry written retrospectively on 2026-08-30, after the code had already merged to `main` as
+`0223c7f`. The original entry was committed locally on the `d-081-analytics-disclosure` branch but
+never reached `origin` — a file-size constraint on that session's push path, noted in that branch's
+own commit message and referenced in D-082's numbering note. This reconstruction is derived from the
+five D-081 commits and the merged diff, not from the lost original; see "Open items" below for the
+parts that still require owner input rather than being recoverable from the code.)*
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 1
+  (cookie-consent consolidation).
+- **Merged as:** `0223c7f` (merge of `d-081-analytics-disclosure`, five commits:
+  `9c668b4`, `a66e9c3`, `e888474`, `7aca3f1`, `f2b95c2`).
+- **What was found:** live browser inspection found **Cloudflare Zaraz** — an edge tag-management
+  layer configured in the Cloudflare dashboard and therefore invisible to this repository — running
+  its own consent modal on the production site. By its own copy that modal covers **Google
+  Analytics** and **Microsoft Clarity** (a session-recording tool), defaulting to denied. Neither
+  tool was disclosed on `/legal/cookies/` or `/legal/privacy/`, in English or in any translated
+  locale, and nothing anywhere on the site linked to the modal — so a visitor had no practical way
+  to reach the control that governed them.
+- **Why this mattered:** the site was running two independent consent systems (its own banner and
+  Zaraz's), disclosing only one, and offering no route to the other. A named session-recording tool
+  in particular is the kind of processing a cookie policy is expected to name.
+- **Changes made:**
+  - `ConsentAnalytics.astro` — delegated click handler calling
+    `window.zaraz.showConsentModal()`, falling back to this site's own banner if Zaraz did not load.
+  - `Footer.astro` (English) and `LocaleLayout.astro` (ar/ur/bn) — new "Cookie Settings" control
+    wired to that handler.
+  - `nav.ts` — translated `cookieSettingsLabel` for ar/ur/bn.
+  - `/legal/cookies/`, `/legal/privacy/` and the translated `LEGAL_COPY` entries — Cloudflare Zaraz
+    and Microsoft Clarity disclosed **by name**, with an explicit statement that the two consent
+    systems are configured separately and that a choice made in one does not carry over to the
+    other. `lastUpdated` bumped to 30 August 2026 across all six pages.
+- **Validation performed:** `npx astro check` (0 errors), `npm run build`, `npm run audit:all`
+  (all 8 checks, including the i18n route check across all 76 translated pages).
+- **Explicitly out of scope:** the Cloudflare Zaraz dashboard configuration itself. No credentials
+  for it existed in the session that made this change. This work makes the *existing* control
+  reachable and describes it honestly; it does not confirm or alter what Zaraz is actually wired
+  to fire.
+
+**Open items — require owner action, not recoverable from the code:**
+
+1. **Owner approval of the disclosure wording is not on record.** The code shipped to `main` and is
+   live. No commit records sign-off on the legal-page copy. If the wording is approved as written,
+   that approval should be recorded here; if it needs revision, the pages are live in the meantime.
+2. **Whether Microsoft Clarity is genuinely active is unconfirmed.** The disclosure names it because
+   Zaraz's own modal copy names it. Nobody with Cloudflare access has verified whether Clarity is
+   actually live and receiving data, or is leftover placeholder text in the Zaraz config. If it is
+   not live, the legal pages currently over-disclose; if something *else* is firing that the modal
+   does not name, they under-disclose. Either way the dashboard is the source of truth and has not
+   been checked.
+3. **Cross-reference:** full investigation writeup at
+   `claude/zaraz-cookie-settings-finding-2026-08-30.md` (project docs, outside this repository).
+
 ## D-082 — Post-v2.0 Quality Closure WS2/WS3: D-056 resolved -- Edexcel Law corrected YLA11 -> YLA1; internal-notes/public-notes split added
 
 *(Numbered D-082, not D-081: at the time this entry was written, a separate, concurrent piece of
