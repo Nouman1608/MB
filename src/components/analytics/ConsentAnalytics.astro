@@ -21,6 +21,22 @@
  * default given the owner only confirmed which analytics ID to use, not
  * a specific consent UX -- flagged in the v1.x report as an
  * implementation detail, not a line-item the owner was asked to approve.
+ *
+ * 30 Aug 2026 addendum (D-081): live browser inspection found that
+ * Cloudflare Zaraz -- an edge tag-management layer configured entirely
+ * in the Cloudflare dashboard, invisible to this repo -- is also active
+ * on every page (`/cdn-cgi/zaraz/s.js`) and exposes its OWN consent
+ * modal (`window.zaraz.showConsentModal()`), independent of the
+ * accept/reject banner below. That modal's own copy names "Google
+ * Analytics and Microsoft Clarity" as what it gates, defaulting to
+ * denied. Neither tool was previously disclosed on the legal pages, and
+ * nothing on the site linked to that modal, so no visitor could actually
+ * reach it. This file cannot fix the Zaraz-side configuration (that
+ * lives in Cloudflare, not git -- see
+ * claude/zaraz-cookie-settings-finding-2026-08-30.md in the project for
+ * the full writeup and what still needs the founder's Cloudflare
+ * access), but it CAN make the modal reachable and keep this banner's
+ * fallback in sync, which is what the listener below does.
  */
 import { site } from '../../data/site';
 
@@ -113,6 +129,27 @@ const gaId = site.analytics.ga4MeasurementId;
         if (acceptBtn) acceptBtn.addEventListener('click', function () { window.__mbSetConsent('granted'); });
         if (rejectBtn) rejectBtn.addEventListener('click', function () { window.__mbSetConsent('denied'); });
       })();
+
+      // D-081 -- reachable trigger for Cloudflare Zaraz's own consent modal
+      // (Google Analytics + Microsoft Clarity per its own copy, as of 30 Aug
+      // 2026). Previously nothing on the site linked to it. Delegated so it
+      // works for a "Cookie Settings" control added anywhere (footer, both
+      // English and translated layouts) without each needing its own script.
+      document.addEventListener('click', function (evt) {
+        var trigger = evt.target && evt.target.closest && evt.target.closest('[data-open-cookie-settings]');
+        if (!trigger) return;
+        evt.preventDefault();
+        if (window.zaraz && typeof window.zaraz.showConsentModal === 'function') {
+          window.zaraz.showConsentModal();
+        } else {
+          // Zaraz script didn't load (blocked, offline, etc.) -- fall back to
+          // reopening this site's own banner so the control still does
+          // something rather than silently failing.
+          try { window.localStorage.removeItem('mb_consent'); } catch (e) {}
+          var ownBanner = document.querySelector('[data-consent-banner]');
+          if (ownBanner) ownBanner.classList.remove('hidden');
+        }
+      });
     </script>
   </>
 )}
