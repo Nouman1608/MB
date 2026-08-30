@@ -4415,3 +4415,48 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   Edexcel A-Level Law academic hub page and cross-link each other), and the negative-fixture suite
   (27 categories) all pass clean.
 - **Status:** implemented and verified.
+
+## D-089 — Post-v2.0 Quality Closure WS5: enquiry delivery verified end-to-end on live production, owner-approved
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 5 (verify enquiry
+  delivery end-to-end); closes closure-brief observation 12 ("no real enquiry was submitted, so
+  inbox delivery wasn't independently verified").
+- **Owner approval:** the closure brief's own standing rule is not to send a real production email
+  without explicit approval of destination and test data. Asked the owner directly via
+  AskUserQuestion, offering a live end-to-end test, a code-only review, or skipping WS5; the owner
+  chose the live test.
+- **What was done:** using browser automation, navigated to the live production `/trial/` page on
+  `https://marlbridge.com`, dismissed both cookie-consent interfaces present (see the note below),
+  and submitted a real, clearly-labelled synthetic enquiry -- Name "WS5 Delivery Test — Please
+  Ignore", Email `noumanahmed1989@gmail.com` (the owner's own address, already the hardcoded
+  `ENQUIRY_RECIPIENT` in `functions/api/enquiry.ts`, so this doubled as both sender-visible reply-to
+  and the real delivery target), Phone/Country marked "N/A (automated test)", and a Message
+  explicitly stating this was an automated WS5 verification test with no real trial requested.
+  Cloudflare Turnstile passed automatically; the form returned "Thank you — your enquiry has been
+  sent." Then read the owner's Gmail inbox directly (Gmail access available this session) to confirm
+  actual delivery, rather than trusting the client-side success message alone.
+- **Result: full success, verified at every layer.** The email arrived in the owner's inbox within
+  seconds (submitted 17:57:35 UTC, delivered 17:57:36 UTC), landed in Inbox (not spam), and the raw
+  message headers confirm: `From: Marlbridge <hello@marlbridge.com>` (matches `ENQUIRY_SENDER`),
+  `To: noumanahmed1989@gmail.com` (matches `ENQUIRY_RECIPIENT`), `Reply-To:
+  noumanahmed1989@gmail.com` (matches the submitted enquirer email, confirming reply-to wiring
+  works), `Subject: Marlbridge enquiry — WS5 Delivery Test — Please Ignore` (matches the
+  `Marlbridge enquiry — ${name}` template), sent via Resend/Amazon SES infrastructure with DKIM
+  passing for both `marlbridge.com` and `amazonses.com`, and SPF passing. The body correctly
+  rendered all four submitted fields (Name, Email, Country, Message, Phone) in the expected
+  plain-text format. This is the first independently-verified real send since the Resend
+  integration was wired up (v1.x WS1) -- previously confirmed only that the endpoint validated and
+  rejected spam correctly, never that a legitimate submission actually reached the owner's inbox.
+- **Incidentally reproduced, not fixed here:** while dismissing the page's consent UI before
+  submitting, both cookie-consent interfaces named in the closure brief's observation 6 (a modal
+  "Cookie Settings" dialog and a separate bottom banner) appeared simultaneously on `/trial/`, live
+  on production, confirming that observation is still accurate as of this verification. This falls
+  under WS1, which is deliberately not being touched by this session (see the WS2/WS3 commit's
+  scope note) because a separate, concurrent work session already has WS1 in progress
+  (`d-081-analytics-disclosure` branch, PR #44) -- surfaced here only as confirmation, not addressed.
+- **Scope discipline:** exactly one test enquiry was sent, to the owner's own address, with content
+  explicitly marked as an automated test asking to be disregarded. No other destinations, no bulk
+  sends, no changes to `functions/api/enquiry.ts` or any other send-path code -- this workstream was
+  verification only.
+- **Status:** implemented and verified. WS5 is closed.
