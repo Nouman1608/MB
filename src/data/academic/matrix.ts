@@ -22,7 +22,9 @@
  * Routes come only from isPublishable() in src/utils/academic/.
  */
 import type { BoardSlug } from './boards';
+import { BOARDS } from './boards.ts';
 import type { QualificationSlug } from './qualifications';
+import { QUALIFICATIONS } from './qualifications.ts';
 
 export type Status = 'ACTIVE' | 'FUTURE' | 'UNKNOWN' | 'NOT_SUPPORTED';
 export type Evidence = 'marlbridge' | 'la-course' | 'board' | 'index' | 'none';
@@ -48,15 +50,29 @@ export interface Combination {
 const LA = 'https://learnersacademy.com.pk';
 const AQA = 'https://www.aqa.org.uk';
 
-const BOARD_NAMES: Record<BoardSlug, string> = {
-  cambridge: 'Cambridge', edexcel: 'Pearson Edexcel', aqa: 'AQA', ocr: 'OCR',
-  oxfordaqa: 'OxfordAQA', ib: 'International Baccalaureate',
-};
-const QUAL_NAMES: Record<QualificationSlug, string> = {
-  'igcse': 'IGCSE', 'o-level': 'O Level', 'gcse': 'GCSE',
-  'as-level': 'AS Level', 'a-level': 'A Level',
-  'ib-myp': 'MYP', 'ib-dp': 'DP',
-};
+/**
+ * Flagship Dominance Programme WS-A (2026-08-31): both maps below used to
+ * be independent hand-maintained string literals, which had silently
+ * drifted from the canonical BOARDS/QUALIFICATIONS registries for IB --
+ * ib-dp/ib-myp rendered as the bare abbreviations 'DP'/'MYP' here (and
+ * therefore on every IB hub page's heading, breadcrumb, meta description
+ * and 'Qualification' field) while qualifications.ts's own canonical
+ * `name` for the same slugs is 'IB Diploma Programme'/'IB Middle Years
+ * Programme' -- the exact inconsistency
+ * scripts/validate-rendered-academic-labels.mjs was built to catch (see
+ * docs/decision-log.md D-091). Deriving both maps from their single
+ * canonical source, rather than re-typing the same names a second time,
+ * makes that whole bug class structurally impossible to reintroduce for
+ * board/qualification names -- every other board/qualification slug's
+ * name already matched byte-for-byte, so this changes IB's two rendered
+ * qualification names and nothing else.
+ */
+const BOARD_NAMES: Record<BoardSlug, string> = Object.fromEntries(
+  BOARDS.map((b) => [b.slug, b.name]),
+) as Record<BoardSlug, string>;
+const QUAL_NAMES: Record<QualificationSlug, string> = Object.fromEntries(
+  QUALIFICATIONS.map((q) => [q.slug, q.name]),
+) as Record<QualificationSlug, string>;
 const SUBJECT_NAMES: Record<string, string> = {
   accounting: 'Accounting', biology: 'Biology', business: 'Business',
   chemistry: 'Chemistry', commerce: 'Commerce', 'computer-science': 'Computer Science',
