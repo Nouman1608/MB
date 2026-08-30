@@ -4085,3 +4085,66 @@ verified it now appears under the Key events tab alongside
 channel for this site's Pakistan/Gulf audience -- now count in GA4's
 conversion totals and reports. No site code change involved; this was a
 GA4 Admin setting only.
+
+## D-082 — Post-v2.0 Quality Closure WS2/WS3: D-056 resolved -- Edexcel Law corrected YLA11 -> YLA1; internal-notes/public-notes split added
+
+*(Numbered D-082, not D-081: at the time this entry was written, a separate, concurrent piece of
+work already in progress on this repository -- branch `d-081-analytics-disclosure` / PR #44,
+Post-v2.0 Workstream 1 (cookie-consent consolidation) -- had already claimed D-081 in its own
+commit message and documentation, even though that branch's own decision-log.md edit had not yet
+reached `origin` (a push-size issue on that side, per that work's own notes). Renumbered here to
+avoid a duplicate D-081 once both land on `main`. See that workstream's own decision-log entry,
+once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 2 (Edexcel Law
+  specification identity) and Workstream 3 (internal notes vs public academic explanations).
+- **What this resolves:** D-056 (2026-08-28) recorded that the Pearson Edexcel International
+  Advanced Level Law qualification code was deliberately left as the incorrect **YLA11** in
+  `src/data/academic/assessments.ts`, solely to match the also-incorrect **YLA11** already used in
+  `syllabuses.ts`, `syllabus-topics.ts`, and three published resource files -- because correcting
+  only the assessment record would have failed the assessment validator's code-consistency check
+  (which requires the two files to agree). D-056 explicitly scoped that coordinated correction as
+  future work.
+- **Correction made:** all of the following were updated together, in one coordinated change, to
+  the qualification's own correct code, **YLA1** (confirmed directly against the official
+  specification PDF's title page, paper codes `YLA1/01`/`YLA1/02`, and mark-scheme filenames):
+  the assessment record's `code` field; the matching `syllabuses.ts` entry's `code` field; six
+  topic/subtopic slugs in `syllabus-topics.ts` (renamed from the `-yla11` suffix to `-yla1`); and
+  the `syllabusCodes`/`topic` frontmatter fields in all three affected resource content files
+  (`a-level-edexcel-law-underlying-principles.md`, `a-law-underlying-principles-practice.md`,
+  `a-law-underlying-principles-revision-notes.md`). No route or URL embedded the old `yla11` slug
+  fragment, so no redirect was required. `npm run validate:academic` (including the assessment
+  validator's spec-code-consistency check) passes clean against the corrected data.
+- **Regression coverage added:** a new negative-fixture category, `[W]`, in
+  `scripts/test-negative-validation-suite.mjs` mutates this record's `code` back to the incorrect
+  `YLA11` and asserts `validate-assessments.mjs` fails with "is not part of syllabuses.ts's
+  recorded code" -- proving the validator would catch a regression back to the old error, not just
+  that today's data happens to be correct.
+- **Separately, WS3 -- the root cause of *why* D-056 became publicly visible:** the pre-correction
+  assessment record's public-facing `notes` field (rendered directly on the live
+  `/boards/edexcel/a-level/law/` page) explained, in reader-facing prose, that the wrong code was
+  being kept "to ... pass the assessment validator's code-consistency check" and named this
+  decision log directly by file path -- internal engineering commentary leaking onto a page a
+  prospective student or parent might read. Fixed by: (a) splitting the `Assessment` type into a
+  public `notes` field (learner-appropriate, rendered) and a new, never-rendered `internalNotes`
+  field (maintainer-only) for exactly this kind of provenance/engineering detail, and moving this
+  record's engineering commentary into the new field; (b) adding a whole-site, build-time
+  safeguard (`scripts/audit-content-integrity.mjs`, check `[7]`) that scans every built page for
+  internal-note leakage patterns (decision-log references, workstream IDs, decision IDs, internal
+  source-file paths -- including bare filenames such as `syllabuses.ts` referenced without a
+  directory prefix -- and validator-avoidance phrasing) and fails the release if any is found on a
+  reader-visible page. Running this new check against the full built site (independently of the
+  one example above) found 40 further instances of the same leak pattern across other assessment
+  and syllabus records and two page templates (`/legal/editorial-policy/`,
+  `/boards/aqa/a-level/english-literature/` and others) -- all rewritten to keep the substantive,
+  reader-relevant information (e.g. "checked automatically as part of our publishing process"
+  instead of naming the validator script) while removing the internal citation. The check now
+  passes with 0 problems across all 1,269 built pages and is part of `npm run audit:all`.
+- **Historical record:** D-056 above is left unedited as the contemporaneous record of the
+  original discrepancy and the reasoning for deferring it at the time; this entry is the
+  resolution. The v2.0 mega-programme final report
+  (`docs/reports/v2.0-mega-programme-final-report-2026-08-28.md`), which also references the
+  original YLA11/D-056 discrepancy, is likewise left unedited as a historical snapshot -- this
+  entry is the record that the discrepancy it describes has since been resolved.
+- **Status:** resolved.

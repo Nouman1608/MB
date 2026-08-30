@@ -2890,7 +2890,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
-    syllabusCode: '7712 / 7717', syllabusSeries: 'English Literature B, for first teaching 2025 (AS 7716; code matches syllabuses.ts overview record)',
+    syllabusCode: '7712 / 7717', syllabusSeries: 'English Literature B, for first teaching 2025 (AS 7716; code matches this site\'s overview record)',
     effectiveFrom: '2025', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA — official specification pages at aqa.org.uk/subjects/english/a-level/english-7717/specification',
@@ -3820,21 +3820,21 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'law',
-    syllabusCode: 'YLA11', syllabusSeries: 'Issue 4, November 2021',
+    syllabusCode: 'YLA1', syllabusSeries: 'Issue 4, November 2021',
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — official International Advanced Level Law specification PDF',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Law/2015/specification-and-sample-assessments/Pearson-Edexcel-IAL-Law-Specification.pdf', verifiedDate: '2026-08-21',
     notes: "Pearson Edexcel International Advanced Level in Law, first assessment June 2017. Unlike most Edexcel IAL subjects, this qualification is not split into a separate IAS and IAL stage — it consists of two compulsory papers (Paper 1 YLA1/01, Paper 2 YLA1/02) both taken in the same series, each 50% of the total IAL. Sub-topic names verified directly from the official specification PDF's Paper content sections, fetched and verified 2026-08-21.",
     topics: [
-      { number: 1, name: 'Paper 1 – Underlying Principles of Law and the English Legal System', slug: 'paper-1-underlying-principles-and-english-legal-system-yla11', subtopics: [
-        { number: '1.1', name: 'The nature, purpose of and liability in law', slug: 'the-nature-purpose-of-and-liability-in-law-yla11' },
-        { number: '1.2', name: 'The sources of English law, its enforcement and administration', slug: 'the-sources-of-english-law-its-enforcement-and-administration-yla11' },
+      { number: 1, name: 'Paper 1 – Underlying Principles of Law and the English Legal System', slug: 'paper-1-underlying-principles-and-english-legal-system-yla1', subtopics: [
+        { number: '1.1', name: 'The nature, purpose of and liability in law', slug: 'the-nature-purpose-of-and-liability-in-law-yla1' },
+        { number: '1.2', name: 'The sources of English law, its enforcement and administration', slug: 'the-sources-of-english-law-its-enforcement-and-administration-yla1' },
       ] },
-      { number: 2, name: 'Paper 2 – The Law in Action', slug: 'paper-2-the-law-in-action-yla11', subtopics: [
-        { number: '2.1', name: 'The market', slug: 'the-market-yla11' },
-        { number: '2.2', name: 'The criminal offender', slug: 'the-criminal-offender-yla11' },
-        { number: '2.3', name: 'The individual', slug: 'the-individual-yla11' },
+      { number: 2, name: 'Paper 2 – The Law in Action', slug: 'paper-2-the-law-in-action-yla1', subtopics: [
+        { number: '2.1', name: 'The market', slug: 'the-market-yla1' },
+        { number: '2.2', name: 'The criminal offender', slug: 'the-criminal-offender-yla1' },
+        { number: '2.3', name: 'The individual', slug: 'the-individual-yla1' },
       ] },
     ],
   },
@@ -4153,7 +4153,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     source: 'International Baccalaureate Organization, Economics guide (Diploma Programme), published February 2020, updated to October 2020',
     sourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/',
     verifiedDate: '2026-08-22',
-    notes: 'Owner confirmed 2026-08-22 that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of this guide (see docs/decision-log.md D-008). Four units, real syllabus outline transcribed directly from the guide\'s own "Syllabus outline" table (pages 20-21). HL-only content is marked exactly as the guide marks it -- nothing beyond SL content is presented as compulsory for SL students.',
+    notes: 'Owner confirmed 2026-08-22 that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of this guide. Four units, real syllabus outline transcribed directly from the guide\'s own "Syllabus outline" table (pages 20-21). HL-only content is marked exactly as the guide marks it -- nothing beyond SL content is presented as compulsory for SL students.',
     topics: [
     {
       number: 1, name: 'Introduction to economics', slug: 'ib-dp-economics-unit-1',
@@ -4216,7 +4216,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     source: 'International Baccalaureate Organization, Physics guide (Diploma Programme)',
     sourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
     verifiedDate: '2026-08-22',
-    notes: 'Owner confirmed 2026-08-22 that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of this guide (see docs/decision-log.md D-008). Five topics (A-E), transcribed directly from the guide\'s own "Syllabus outline" and "Syllabus roadmap" tables (pages 24-25). HL-only sub-topics are marked exactly as the guide marks them.',
+    notes: 'Owner confirmed 2026-08-22 that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of this guide. Five topics (A-E), transcribed directly from the guide\'s own "Syllabus outline" and "Syllabus roadmap" tables (pages 24-25). HL-only sub-topics are marked exactly as the guide marks them.',
     topics: [
     {
       number: 1, name: 'A. Space, time and motion', slug: 'ib-dp-physics-topic-a',

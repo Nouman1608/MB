@@ -1,17 +1,17 @@
 ---
-title: "Edexcel A-Level Law: Underlying Principles of Law and the English Legal System (YLA11)"
+title: "Edexcel A-Level Law: Underlying Principles of Law and the English Legal System (YLA1)"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]
 topic: "Paper 1 – Underlying Principles of Law and the English Legal System"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["YLA11"]
+syllabusCodes: ["YLA1"]
 syllabusSeries: "Issue 4, November 2021"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
-    topic: "paper-1-underlying-principles-and-english-legal-system-yla11"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
 description: "The nature and purpose of law, legal theories, and how English law is made and administered -- Paper 1 of Pearson Edexcel International Advanced Level Law, one of two compulsory papers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21

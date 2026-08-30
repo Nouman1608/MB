@@ -26,7 +26,11 @@
  * FX-policy approved-base-rate protection and conversion-drift rejection
  * (L, M, v1.x Closure WS8), assessment-structure weighting-total and
  * legacy/current-collision rejection (N, O, v1.x Closure WS5), translated-route
- * canonical/hreflang integrity on the built dist/ output (P, v1.x Closure WS2).
+ * canonical/hreflang integrity on the built dist/ output (P, v1.x Closure WS2),
+ * a specification code that no longer matches its own syllabuses.ts entry
+ * (W, Post-v2.0 Quality Closure WS2 -- proves the exact validator check that
+ * the corrected Edexcel Law YLA1 code now satisfies, and that a regression
+ * back to the old incorrect YLA11 code would be caught, not silently allowed).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -404,6 +408,20 @@ withMutation(
     validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
     expectSubstring: 'neither relatedCode nor notes explaining the transition',
     label: 'legacy-teach-out record stripped of relatedCode and notes is rejected',
+  },
+);
+
+console.log('\n[W] Post-v2.0 Quality Closure WS2 — Assessment validator rejects a spec code that does not match its syllabuses.ts entry');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "    boardSlug: 'edexcel',\n    qualificationSlug: 'a-level',\n    subjectSlug: 'law',\n    code: 'YLA1',",
+    "    boardSlug: 'edexcel',\n    qualificationSlug: 'a-level',\n    subjectSlug: 'law',\n    code: 'YLA11',",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: "is not part of syllabuses.ts's recorded code",
+    label: "Edexcel A-level Law reverted to the incorrect legacy code 'YLA11' (mismatching its syllabuses.ts entry, code 'YLA1') is rejected",
   },
 );
 

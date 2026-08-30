@@ -6,12 +6,12 @@ level: ["a-levels"]
 topic: "Paper 1 – Underlying Principles of Law and the English Legal System"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["YLA11"]
+syllabusCodes: ["YLA1"]
 syllabusSeries: "Issue 4, November 2021"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
-    topic: "paper-1-underlying-principles-and-english-legal-system-yla11"
+    topic: "paper-1-underlying-principles-and-english-legal-system-yla1"
 description: "Original exam-style practice questions with full worked answers on parliamentary law making, delegated legislation, statutory interpretation and precedent."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
