@@ -4129,9 +4129,10 @@ parts that still require owner input rather than being recoverable from the code
 
 **Open items — require owner action, not recoverable from the code:**
 
-1. **Owner approval of the disclosure wording is not on record.** The code shipped to `main` and is
-   live. No commit records sign-off on the legal-page copy. If the wording is approved as written,
-   that approval should be recorded here; if it needs revision, the pages are live in the meantime.
+1. ~~Owner approval of the disclosure wording is not on record.~~ **RESOLVED 2026-08-31:** owner
+   approved the live disclosure wording as written. Note that this approval covers the wording as
+   it stands *while Cloudflare Zaraz is active*; if Zaraz is disabled or its tools removed (see
+   item 2), these pages will describe processing that no longer happens and must be revised.
 2. **Whether Microsoft Clarity is genuinely active is unconfirmed.** The disclosure names it because
    Zaraz's own modal copy names it. Nobody with Cloudflare access has verified whether Clarity is
    actually live and receiving data, or is leftover placeholder text in the Zaraz config. If it is
