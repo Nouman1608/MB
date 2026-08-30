@@ -24,11 +24,19 @@
  * of the same question) for the five named flagship specifications only
  * (see FLAGSHIP_DEFINITIONS in ../academic/index.ts) -- the same
  * concentration-of-effort principle the whole growth programme applies
- * elsewhere. Parsing coverage was verified against all 76 flagship
- * practice-questions files before this was built: every file's numbered
- * "## Questions" section has an exactly matching numbered "## Answers"
- * section (see docs/decision-log.md D-067), so a parse mismatch here is a
- * genuine anomaly worth investigating, not expected noise.
+ * elsewhere.
+ *
+ * Post-v2.0 Quality Closure WS8 (2026-08-30): the parsing-coverage claim
+ * this comment originally made ("verified against all 76 flagship files")
+ * did not hold -- roughly half of the flagship-relevant files organise
+ * their numbered items under "## Section A" / "## Section B" subheadings
+ * rather than a single "## Questions" heading, and the parser silently
+ * produced zero questions for every one of them (see the extraction logic
+ * below and docs/decision-log.md D-087 for the fix and the real,
+ * re-measured coverage). `scripts/validate-practice-bank.mjs` now asserts
+ * this directly -- any flagship-relevant practice-questions file that
+ * parses to zero questions fails validation, so this can't silently
+ * regress again.
  */
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -127,8 +135,38 @@ export function buildPracticeBank(): PracticeQuestion[] {
 
     if (!body.includes('## Answers')) continue;
     const [beforeAnswers, afterAnswersRaw] = body.split('## Answers');
-    const questionsSection = beforeAnswers.split('## Questions')[1] ?? '';
-    const answersSection = afterAnswersRaw.split(/\n## /)[0] ?? '';
+
+    /**
+     * Post-v2.0 Quality Closure WS8 (2026-08-30): a large share of the
+     * flagship practice-questions files organise their numbered items
+     * under "## Section A" / "## Section B" subheadings instead of (or as
+     * well as) a single "## Questions" heading. Splitting strictly on
+     * '## Questions' silently produced zero questions for every one of
+     * those files -- the number-marker parser below never actually needs
+     * that heading, since splitNumbered() keys entirely off the "**N.**"
+     * markers themselves, and any prose before the very first marker is
+     * already excluded automatically (marker-matching starts at the first
+     * match, so an intro blockquote or a "## Questions"/"## Section A"
+     * heading before question 1 never ends up in any question's text).
+     * So: use the whole pre-Answers body when there's no single
+     * "## Questions" heading to split on, rather than discarding real,
+     * complete, numbered content (see docs/decision-log.md D-087). Any
+     * "## Section X" subheading or standalone "---" divider that falls
+     * *between* two numbered items (and would otherwise get swallowed
+     * into the trailing text of whichever item precedes it) is stripped
+     * below, in both the questions and answers sections -- this also
+     * fixes a pre-existing, separate leak where the final question in
+     * every file picked up a stray trailing "---" from the divider before
+     * the "## Answers" heading.
+     */
+    const questionsSectionRaw = beforeAnswers.includes('## Questions')
+      ? beforeAnswers.split('## Questions').slice(1).join('## Questions')
+      : beforeAnswers;
+    const answersSectionRaw = afterAnswersRaw.split(/\n## /)[0] ?? '';
+    const stripStructuralNoise = (s: string): string =>
+      s.replace(/^#{2,3}\s.*$/gm, '').replace(/^-{3,}\s*$/gm, '');
+    const questionsSection = stripStructuralNoise(questionsSectionRaw);
+    const answersSection = stripStructuralNoise(answersSectionRaw);
 
     const qItems = splitNumbered(questionsSection);
     const aItems = splitNumbered(answersSection);

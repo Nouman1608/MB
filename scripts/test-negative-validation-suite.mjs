@@ -32,7 +32,9 @@
  * the corrected Edexcel Law YLA1 code now satisfies, and that a regression
  * back to the old incorrect YLA11 code would be caught, not silently allowed),
  * grade-threshold route collisions, mark-basis mismatches and
- * unavailable-grades-as-zero (X, Post-v2.0 Quality Closure WS6).
+ * unavailable-grades-as-zero (X, Post-v2.0 Quality Closure WS6), a flagship
+ * practice-questions file whose numbered items no longer parse into a
+ * matching question/answer count (Y, Post-v2.0 Quality Closure WS8).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -465,6 +467,21 @@ withMutation(
     validatorCmd: 'node --experimental-strip-types scripts/validate-grade-thresholds.mjs',
     expectSubstring: 'recorded as threshold 0',
     label: "IGCSE Mathematics (0580) Extended with grade F recorded as threshold 0 (should be omitted -- Extended has no F) is rejected",
+  },
+);
+
+console.log('\n[Y] Post-v2.0 Quality Closure WS8 — Practice-bank validator catches a flagship file that silently parses to zero questions');
+
+withMutation(
+  'src/content/resources/as-chem-ionisation-energy-practice.md',
+  (text) => text.replace(
+    '**1.** Define first ionisation energy. **[3]**',
+    '1) Define first ionisation energy. **[3]**',
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-practice-bank.mjs',
+    expectSubstring: 'parsed to 0 questions',
+    label: "AS Chemistry Ionisation Energy practice file with its first question marker reformatted away from '**N.**' (breaking the question/answer count match) is rejected",
   },
 );
 

@@ -4316,3 +4316,59 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
 - **Status:** implemented and verified. The broader WS4 scope (full inventory of translated routes,
   RTL/lang/dir spot-checks beyond what `audit:all` already covers, a human-review queue for the
   AI-translated copy) is not yet separately addressed and remains open under Workstream 4.
+
+## D-087 — Post-v2.0 Quality Closure WS8: practice-question parser was silently dropping roughly half of the flagship question bank
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 8 (practice-tool
+  discovery/reliability); investigated after reproducing closure-brief observations 4 and 5 ("the
+  self-check practice area contained five Cambridge specifications" and "revealing a worked answer
+  functioned in one Mathematics sample").
+- **What was found while reproducing the observations:** both observations turned out to already be
+  true and working as described -- `/practice/` genuinely lists all 5 flagship specifications
+  (0620, 0625, 0580, 9701, 9702; `FLAGSHIP_DEFINITIONS` in `src/utils/academic/index.ts`), and
+  `/practice/0580/` (Mathematics) is a real, generated page with a functioning reveal-answer flow.
+  While verifying that, a real and much larger problem surfaced: `src/utils/practice/bank.ts`'s
+  parser only recognised a numbered items section introduced by a literal `## Questions` heading.
+  84 flagship-relevant `practice-questions` resource files exist; 44 of them (52%) instead organise
+  their numbered items under `## Section A` / `## Section B` subheadings, with no `## Questions`
+  heading at all. For every one of those 44 files the parser silently produced **zero** questions --
+  no error, no build failure, just a shorter question count on `/practice/{code}/` than the
+  underlying content actually supported. The file's own header comment claimed parsing coverage had
+  been "verified against all 76 flagship practice-questions files" (D-067); that claim did not hold
+  for the current checkout, whatever was true when it was written.
+- **Scale of the gap:** before the fix, `practiceQuestionsForCode()` returned 58/18/10/83/91
+  questions for 0620/0625/0580/9701/9702 (260 total). All 5 specifications' `questionCount > 0`, so
+  none were being wrongly hidden as "not yet available" -- but each one was showing well under half
+  of its real content.
+- **What was done:** `bank.ts`'s extraction no longer requires a `## Questions` heading -- it uses
+  the whole pre-`## Answers` body when there isn't one, since the number-marker parser
+  (`splitNumbered()`) already keys entirely off `**N.**` markers and automatically excludes any
+  prose (including a `## Questions` or `## Section A` heading) before the first marker. Any
+  `## Section X` subheading or standalone `---` divider that falls *between* two numbered items --
+  and would otherwise get swallowed into the trailing text of whichever item precedes it -- is now
+  stripped explicitly. This also fixed a second, separate, pre-existing leak found in the process:
+  every file's *last* question picked up a stray trailing `---` (the divider that sits between the
+  last question and the `## Answers` heading) in its rendered text, even in files that already had
+  a `## Questions` heading and were otherwise parsing correctly.
+- **Result:** 94/18/18/254/157 questions for 0620/0625/0580/9701/9702 -- 541 total, up from 260.
+  Verified directly in the built output (`dist/practice/index.html`, `dist/practice/{code}/`) and
+  via a full bank scan that zero parsed questions or answers contain any leaked heading or divider
+  line.
+- **New validator:** `scripts/validate-practice-bank.mjs` (wired into `npm run validate:academic`)
+  -- did not exist before this workstream. Independently re-scans the resource files (not just
+  bank.ts's own output) and fails if any flagship-relevant `practice-questions` file with a real
+  `## Answers` section parses to zero questions, or if any parsed question/answer contains leaked
+  structural markdown. This is what would have caught the 44-file gap immediately instead of it
+  going unnoticed. Proven with a new negative fixture in `scripts/test-negative-validation-suite.mjs`
+  (category `[Y]`): reformatting one file's first question marker away from `**N.**` breaks its
+  question/answer count match, correctly rejected with "parsed to 0 questions", then the fixture
+  file restored and re-verified clean.
+- **Scope discipline:** this is a parser-correctness fix against existing, already-published resource
+  content -- no new practice-questions files, topics, or specifications were added, and the
+  self-check-not-auto-grader design established in WS6/7/8 of the earlier v2.0 growth programme is
+  unchanged.
+- **Status:** implemented; validated (`npm run build`, `npm run validate:academic` including the new
+  validator, `npm run audit:all`, and the negative-fixture suite -- now 27 categories -- all pass
+  clean). The remainder of WS8's brief scope (broader discoverability of the practice tools beyond
+  this parsing-coverage fix) is not yet separately assessed and remains open under Workstream 8.
