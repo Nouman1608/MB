@@ -34,7 +34,10 @@
  * grade-threshold route collisions, mark-basis mismatches and
  * unavailable-grades-as-zero (X, Post-v2.0 Quality Closure WS6), a flagship
  * practice-questions file whose numbered items no longer parse into a
- * matching question/answer count (Y, Post-v2.0 Quality Closure WS8).
+ * matching question/answer count (Y, Post-v2.0 Quality Closure WS8), and a
+ * rendered academic-label (Level/Board/Qualification data-pagefind-filter
+ * tag) that no longer matches its page's own frontmatter (Z, Flagship
+ * Dominance Programme WS-A).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -47,7 +50,7 @@
  * v1.2 final report).
  */
 import { execSync } from 'node:child_process';
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 
 let passed = 0;
 let failed = 0;
@@ -485,8 +488,28 @@ withMutation(
   },
 );
 
+console.log('\n[Z] Flagship Dominance Programme WS-A -- rendered academic-label validator');
+const labelFixtureFile = 'dist/resources/a-arenes-and-halogenoarenes-practice/index.html';
+if (!existsSync(labelFixtureFile)) {
+  console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');
+  console.log('    have completed first (same precondition as [H]/[P]); it is exercised for real as part of');
+  console.log('    the standing validation gate, which always builds before running this suite.');
+} else {
+  withMutation(
+    labelFixtureFile,
+    (text) => text.replace(
+      '<dd class="m-0 inline text-ink-mute" data-pagefind-filter="Level">A LEVEL</dd>',
+      '<dd class="m-0 inline text-ink-mute" data-pagefind-filter="Level">IGCSE</dd>',
+    ),
+    {
+      validatorCmd: 'node scripts/validate-rendered-academic-labels.mjs',
+      expectSubstring: 'implies "A LEVEL"',
+      label: 'A-level resource page with its rendered Level tag corrupted to IGCSE is rejected',
+    },
+  );
+}
+
 console.log('\n[P] i18n route checker rejects a broken hreflang/canonical on a built translated page');
-import { existsSync } from 'node:fs';
 const i18nFixtureFile = 'dist/ar/about/index.html';
 if (!existsSync(i18nFixtureFile)) {
   console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');

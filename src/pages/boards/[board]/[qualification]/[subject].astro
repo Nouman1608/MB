@@ -1,4 +1,3 @@
----
 /**
  * Academic hub — /boards/{board}/{qualification}/{subject}/
  *
@@ -208,7 +207,19 @@ const groups: { label: string; note: string; items: typeof coverage }[] = staged
 /** The other approved qualifications for this subject — the sibling hubs. */
 const siblings = offeringsForSubject(c.subjectSlug).filter((o) => o.qualificationSlug !== c.qualificationSlug);
 
-const heading = `${c.board} ${c.qualification} ${c.subject}`;
+/**
+ * Flagship Dominance Programme WS-A (2026-08-31): IB's canonical
+ * qualification names ("IB Diploma Programme", "IB Middle Years
+ * Programme") already carry the board's identity, so prefixing them with
+ * "IB" a second time produced a doubled-up heading/title/breadcrumb/"at a
+ * glance" field on every IB hub page (e.g. "IB IB Diploma Programme
+ * Economics"). boardQualPhrase drops that redundant board prefix only for
+ * IB -- every other board's qualification name ("A Level", "IGCSE", ...)
+ * does not already contain its board's name, so `${c.board} ${c.qualification}`
+ * is unchanged for them.
+ */
+const boardQualPhrase = c.qualification.startsWith('IB ') ? c.qualification : `${c.board} ${c.qualification}`;
+const heading = `${boardQualPhrase} ${c.subject}`;
 const title = syllabus ? `${heading} (${syllabus.code})` : heading;
 
 /**
@@ -343,12 +354,12 @@ const jsonLd = [
   path={path}
   eyebrow={`${c.board} · ${c.qualification}`}
   heading={heading}
-  lead={`${c.subject} for ${c.board} ${c.qualification}${syllabus ? ` (syllabus ${syllabus.code})` : ''} — what the qualification covers, and the study material Marlbridge publishes for it.`}
+  lead={`${c.subject} for ${boardQualPhrase}${syllabus ? ` (syllabus ${syllabus.code})` : ''} — what the qualification covers, and the study material Marlbridge publishes for it.`}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
     { label: 'Subjects', href: routes.subjects },
     { label: c.subject, href: routes.subject(hubSlug) },
-    { label: `${c.board} ${c.qualification}`, href: path },
+    { label: boardQualPhrase, href: path },
   ]}
   jsonLd={jsonLd}
 >
@@ -373,7 +384,7 @@ const jsonLd = [
     <Container>
       <h2 id="at-a-glance-heading" class="sr-only">At a glance</h2>
       <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
-        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{c.board} {c.qualification} {c.subject}</dd></div>
+        <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">Yes</dd></div>
         <div class="m-0"><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Are resources available?</dt><dd class="m-0 mt-1 text-ink">{resources.length > 0 ? `Yes — ${resources.length} published` : 'Not yet — none published for this exact combination'}</dd></div>
@@ -546,7 +557,7 @@ const jsonLd = [
         <>
           <p class="m-0 mb-2 max-w-[70ch] text-[16.5px] leading-[1.65] text-ink-mute">
             The {syllabusTopics.topics.length} topics below are the official subject content of
-            <strong class="font-semibold text-navy-800"> {syllabus?.officialTitle ?? `${c.board} ${c.qualification} ${c.subject}`}</strong>,
+            <strong class="font-semibold text-navy-800"> {syllabus?.officialTitle ?? `${boardQualPhrase} ${c.subject}`}</strong>,
             for the {syllabusTopics.syllabusSeries} examination series, reproduced from the
             <a href={syllabusTopics.sourceUrl} rel="nofollow noopener" class="underline decoration-gold-500 underline-offset-2"> {c.board} syllabus document</a>.
           </p>
@@ -697,7 +708,7 @@ const jsonLd = [
   )}
 
   <CTA
-    heading={`Studying ${c.board} ${c.qualification} ${c.subject}? Tell us where the difficulty is.`}
+    heading={`Studying ${boardQualPhrase} ${c.subject}? Tell us where the difficulty is.`}
     buttonLabel="Find Learning Support"
     buttonHref={routes.tutoring}
   />
