@@ -129,6 +129,20 @@ export const PRICING_TERMS = {
    * classes only, never to one-to-one tuition (already stated separately in the
    * one-to-one FAQ answer below). */
   discountsStack: true,
+  /** Post-v2.0 Quality Closure WS9 (2026-08-30): the arithmetic for a family
+   * that qualifies for BOTH discounts at once was not previously recorded
+   * anywhere -- only the fact that they stack (D-043) was. Owner directly
+   * confirmed (in this session, via a multiple-choice question presenting
+   * both options with a worked example) that the two discounts are ADDED
+   * together and applied once, not applied successively to an
+   * already-discounted amount. For a family qualifying for both: combined
+   * discount = multiSubjectDiscount.percentOff + siblingDiscount.percentOff
+   * (20 + 10 = 30%), applied as a single 30% reduction -- NOT
+   * (1 - 0.20) * (1 - 0.10) = 28%. Both remain group-classes-only per
+   * D-043; see discountCombinationExample below for the published worked
+   * example and formatFee/feeFor for the actual per-region numbers this is
+   * computed from. */
+  discountCombinationMethod: 'additive' as const,
   freeTrial: 'The initial trial/demo class is free.',
   unsupportedRegionNote: 'Countries without a listed rate above are not priced automatically — enquire and Marlbridge will confirm a fee for your region. No currency conversion is applied on your behalf.',
   notPermanentNote: 'These fees are reviewed periodically and are not guaranteed to remain unchanged. The date below is when they were last confirmed.',
@@ -162,4 +176,38 @@ export function formatFee(amount: number, currency?: string): string {
 
 export function feeFor(region: RegionPricing, tier: FeeTier): number {
   return tier === 'igcse' ? region.igcse : region.aLevel;
+}
+
+/** The combined percentage off when a family qualifies for both the
+ * multi-subject and the sibling discount at once. Computed from the two
+ * approved percentages rather than hard-coded, so it can never drift out of
+ * sync with PRICING_TERMS.multiSubjectDiscount/siblingDiscount if either is
+ * ever revised. See PRICING_TERMS.discountCombinationMethod's doc comment
+ * for the owner decision this implements (additive, not successive). */
+export function combinedDiscountPercent(): number {
+  return PRICING_TERMS.multiSubjectDiscount.percentOff + PRICING_TERMS.siblingDiscount.percentOff;
+}
+
+/** A concrete, real-numbers worked example for the pricing page and FAQ:
+ * a family taking `exampleSubjectCount` IGCSE-tier subjects in Pakistan
+ * (the region with a directly owner-set, non-converted rate) who also
+ * qualify for the sibling discount. Every number here is derived from
+ * REGION_PRICING/PRICING_TERMS, not restated as a separate literal, so the
+ * example can never silently drift from the real fee data. */
+export function discountWorkedExample() {
+  const region = REGION_PRICING.find((r) => r.region === 'Pakistan')!;
+  const subjectCount = Math.max(PRICING_TERMS.multiSubjectDiscount.minSubjects, 3);
+  const perSubject = region.igcse;
+  const beforeDiscount = perSubject * subjectCount;
+  const combinedPercent = combinedDiscountPercent();
+  const afterDiscount = Math.round(beforeDiscount * (1 - combinedPercent / 100));
+  return {
+    region: region.region,
+    currency: region.currency,
+    subjectCount,
+    perSubject,
+    beforeDiscount,
+    combinedPercent,
+    afterDiscount,
+  };
 }

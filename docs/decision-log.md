@@ -4085,3 +4085,378 @@ verified it now appears under the Key events tab alongside
 channel for this site's Pakistan/Gulf audience -- now count in GA4's
 conversion totals and reports. No site code change involved; this was a
 GA4 Admin setting only.
+
+## D-082 — Post-v2.0 Quality Closure WS2/WS3: D-056 resolved -- Edexcel Law corrected YLA11 -> YLA1; internal-notes/public-notes split added
+
+*(Numbered D-082, not D-081: at the time this entry was written, a separate, concurrent piece of
+work already in progress on this repository -- branch `d-081-analytics-disclosure` / PR #44,
+Post-v2.0 Workstream 1 (cookie-consent consolidation) -- had already claimed D-081 in its own
+commit message and documentation, even though that branch's own decision-log.md edit had not yet
+reached `origin` (a push-size issue on that side, per that work's own notes). Renumbered here to
+avoid a duplicate D-081 once both land on `main`. See that workstream's own decision-log entry,
+once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 2 (Edexcel Law
+  specification identity) and Workstream 3 (internal notes vs public academic explanations).
+- **What this resolves:** D-056 (2026-08-28) recorded that the Pearson Edexcel International
+  Advanced Level Law qualification code was deliberately left as the incorrect **YLA11** in
+  `src/data/academic/assessments.ts`, solely to match the also-incorrect **YLA11** already used in
+  `syllabuses.ts`, `syllabus-topics.ts`, and three published resource files -- because correcting
+  only the assessment record would have failed the assessment validator's code-consistency check
+  (which requires the two files to agree). D-056 explicitly scoped that coordinated correction as
+  future work.
+- **Correction made:** all of the following were updated together, in one coordinated change, to
+  the qualification's own correct code, **YLA1** (confirmed directly against the official
+  specification PDF's title page, paper codes `YLA1/01`/`YLA1/02`, and mark-scheme filenames):
+  the assessment record's `code` field; the matching `syllabuses.ts` entry's `code` field; six
+  topic/subtopic slugs in `syllabus-topics.ts` (renamed from the `-yla11` suffix to `-yla1`); and
+  the `syllabusCodes`/`topic` frontmatter fields in all three affected resource content files
+  (`a-level-edexcel-law-underlying-principles.md`, `a-law-underlying-principles-practice.md`,
+  `a-law-underlying-principles-revision-notes.md`). No route or URL embedded the old `yla11` slug
+  fragment, so no redirect was required. `npm run validate:academic` (including the assessment
+  validator's spec-code-consistency check) passes clean against the corrected data.
+- **Regression coverage added:** a new negative-fixture category, `[W]`, in
+  `scripts/test-negative-validation-suite.mjs` mutates this record's `code` back to the incorrect
+  `YLA11` and asserts `validate-assessments.mjs` fails with "is not part of syllabuses.ts's
+  recorded code" -- proving the validator would catch a regression back to the old error, not just
+  that today's data happens to be correct.
+- **Separately, WS3 -- the root cause of *why* D-056 became publicly visible:** the pre-correction
+  assessment record's public-facing `notes` field (rendered directly on the live
+  `/boards/edexcel/a-level/law/` page) explained, in reader-facing prose, that the wrong code was
+  being kept "to ... pass the assessment validator's code-consistency check" and named this
+  decision log directly by file path -- internal engineering commentary leaking onto a page a
+  prospective student or parent might read. Fixed by: (a) splitting the `Assessment` type into a
+  public `notes` field (learner-appropriate, rendered) and a new, never-rendered `internalNotes`
+  field (maintainer-only) for exactly this kind of provenance/engineering detail, and moving this
+  record's engineering commentary into the new field; (b) adding a whole-site, build-time
+  safeguard (`scripts/audit-content-integrity.mjs`, check `[7]`) that scans every built page for
+  internal-note leakage patterns (decision-log references, workstream IDs, decision IDs, internal
+  source-file paths -- including bare filenames such as `syllabuses.ts` referenced without a
+  directory prefix -- and validator-avoidance phrasing) and fails the release if any is found on a
+  reader-visible page. Running this new check against the full built site (independently of the
+  one example above) found 40 further instances of the same leak pattern across other assessment
+  and syllabus records and two page templates (`/legal/editorial-policy/`,
+  `/boards/aqa/a-level/english-literature/` and others) -- all rewritten to keep the substantive,
+  reader-relevant information (e.g. "checked automatically as part of our publishing process"
+  instead of naming the validator script) while removing the internal citation. The check now
+  passes with 0 problems across all 1,269 built pages and is part of `npm run audit:all`.
+- **Historical record:** D-056 above is left unedited as the contemporaneous record of the
+  original discrepancy and the reasoning for deferring it at the time; this entry is the
+  resolution. The v2.0 mega-programme final report
+  (`docs/reports/v2.0-mega-programme-final-report-2026-08-28.md`), which also references the
+  original YLA11/D-056 discrepancy, is likewise left unedited as a historical snapshot -- this
+  entry is the record that the discrepancy it describes has since been resolved.
+- **Status:** resolved.
+
+## D-083 — Post-v2.0 Quality Closure WS9: multi-subject + sibling discount combination is additive (30%), not successive (28%)
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 9 (discounts and
+  FX policy clarity).
+- **What was found:** D-043 (2026-08-26) already recorded that the 20% multi-subject discount and
+  the 10% sibling discount stack for a family qualifying for both, and that decision was
+  implemented (`PRICING_TERMS.discountsStack`). But neither D-043 nor anything published on the
+  site ever stated *how* they combine -- additive (20% + 10% = 30% off) and successive/compounding
+  ((1 − 0.20) × (1 − 0.10) = 28% off) are genuinely different answers, and the gap was real: the
+  pricing page said the discounts "combine" without ever giving a number or a worked example.
+- **Decision:** per this programme's own instruction not to choose the arithmetic without approved
+  business evidence, this was put to the owner directly in this session as a multiple-choice
+  question naming both options with a concrete worked example (3 subjects at the Pakistan IGCSE
+  rate, Rs 19,000/subject/month: Rs 57,000/month before discount → Rs 39,900/month additive vs.
+  Rs 41,040/month successive). **Owner chose additive: the two percentages are added together and
+  applied once (30% off), not applied one after the other to an already-discounted amount.**
+- **Implementation:** `src/data/pricing.ts` now records this explicitly
+  (`PRICING_TERMS.discountCombinationMethod: 'additive'`, with a doc comment giving the exact
+  arithmetic and citing this decision), plus two new helpers --
+  `combinedDiscountPercent()` (sums the two approved percentages, so it can never drift out of
+  sync with them if either is revised) and `discountWorkedExample()` (derives a full worked
+  example from real `REGION_PRICING`/`PRICING_TERMS` data rather than a hard-coded literal). The
+  pricing page's FAQ answer and "Discounts and trial" section now publish the combined percentage
+  and the worked example, in English and all three translated locales (ar/ur/bn) --
+  `docs/business-decisions-register.md` item 2 updated with the same resolution.
+- **Status:** resolved.
+
+## D-084 — Post-v2.0 Quality Closure WS9: FX policy consolidated against the closure brief's checklist; two genuine gaps surfaced, not invented
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 9 (discounts and
+  FX policy clarity).
+- **What was found:** `docs/fx-rate-policy.md` and `src/data/fx-policy.ts` (both from the earlier
+  v1.x WS8 FX-policy work) already covered most of the closure brief's checklist for an FX policy
+  -- authoritative base fees/currency, approved-vs-converted prices, rate source, timestamp,
+  precision/rounding, refresh cadence, and stale-rate behaviour were all already implemented and
+  enforced by `scripts/validate-fx-policy.mjs`'s staleness/drift checks. Checking the existing
+  policy against the brief's full checklist item-by-item surfaced three points that were either
+  not stated explicitly or not recorded at all:
+  1. **Conversion direction** -- implemented correctly in code (`impliedConvertedAmount()` divides
+     a PKR amount by `pkrPerUnit`) but never stated in the plain-language policy doc. Added.
+  2. **Estimate vs. payable price** -- the converted regional prices are, and always have been,
+     the actual payable price (not a disclaimed estimate), but this was never stated explicitly.
+     Added.
+  3. **Responsible approver** and **bank/wire-transfer fee treatment** -- genuinely not recorded
+     anywhere. Per this workstream's explicit instruction not to invent commercial terms, these
+     are NOT answered here. A reasonable default (owner-as-approver, matching every other pricing
+     decision in this log) is proposed but explicitly marked unconfirmed in
+     `docs/fx-rate-policy.md`'s new "Policy at a glance" table, and both are added as new open
+     items (7 and 8) in `docs/business-decisions-register.md` for the owner to resolve.
+  4. **Quotation-fixing point** ("when does a shown price become the fixed price for a family?")
+     is likewise not a separately recorded policy -- `docs/fx-rate-policy.md` states the current
+     de facto behaviour (whatever `ONE_TO_ONE_PRICING`/`REGION_PRICING` currently publish is what
+     is billed, per the existing monthly-billing terms) as a reading of existing behaviour, not a
+     newly confirmed policy, since it was not separately put to the owner.
+- **What was NOT done:** no FX-policy code changed (the staleness/drift mechanism, base rates, and
+  published converted prices are all unchanged) -- this was a documentation consolidation pass
+  only, closing the gap between what the brief asks an FX policy to cover and what was already
+  implemented versus merely undocumented versus genuinely unrecorded.
+- **Status:** consolidated; two items remain open for the owner (business-decisions-register.md
+  items 7 and 8).
+
+## D-085 — Post-v2.0 Quality Closure WS6: grade-threshold explorer now shows every published route, not one representative combination per tier
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 6
+  (`/grade-thresholds/`).
+- **What was found:** the original v2.0 WS14 version of `src/data/academic/grade-thresholds.ts`
+  reproduced only the single FIRST-listed, "most standard" paper-combination route per tier for
+  each of the 5 flagship specifications, with a caveat that Cambridge's official PDF listed other
+  real routes not shown. A learner whose own paper combination was one of those un-shown routes had
+  no way to select it on the page -- they would either misread the shown "representative" numbers
+  as their own, or have to already know to distrust the page and go find the PDF themselves. This
+  is exactly the failure mode this workstream exists to close.
+- **What was done:** re-fetched all 5 official Cambridge grade-threshold PDFs directly (not from
+  search snippets or memory) and transcribed every syllabus-level route combination each publishes
+  for standard, single-series assessment:
+  - IGCSE Chemistry (0620) and Physics (0625): 16 Core/Extended routes each (up from 2), plus the
+    standalone Component 50 route -- 17 rows per subject, every route published.
+  - IGCSE Mathematics (0580): 6 Core/Extended routes (up from 2), plus Component 50 -- 7 rows,
+    every route published.
+  - AS & A Level Chemistry (9701) and Physics (9702): 8 full-A-Level ("linear assessment") routes
+    and 8 AS-Level-only routes each (up from 1 each) -- 16 rows per subject.
+  - Total: 73 routes across the 5 specifications, up from 13 before this workstream.
+- **Deliberately NOT included:** Cambridge's "staged assessment" routes for 9701/9702 (AS papers
+  sat in an earlier series, A2 papers in a later one -- roughly 20 further combinations per
+  subject). Rather than risk mistranscribing a much larger table for a narrower audience, or
+  silently omitting them the way the original version omitted ALL non-representative routes, these
+  are explicitly named as excluded on the page and in the data file, with a direct link to the
+  official PDF (which lists every staged route in full) -- following the closure brief's own
+  "explicitly label unsupported routes and link to the official source" instruction.
+- **Label reverification (brief item 8):** the original data called Component 50 (in 0620/0625)
+  "Practical alternative" and (in 0580) "Practical/oral alternative". Neither label could be
+  reverified against an official source in this pass (the grade-threshold PDFs themselves give only
+  the bare component number, and a syllabus-assessment page fetch to confirm the functional name
+  404'd). Per the brief's own fallback ("if unsupported, use the official neutral identifier"),
+  both are now labelled plainly as "Component 50" rather than carrying an unverified functional
+  claim.
+- **New validator:** `scripts/validate-grade-thresholds.mjs` (wired into `npm run validate:academic`)
+  -- did not exist before this workstream, so a bad edit to this data (a duplicated route, a
+  threshold exceeding its own maxMark, a grade recorded as an unavailable "0" instead of omitted,
+  a malformed series string) would previously have built and deployed with no automated check at
+  all. Checks: series format, route collisions, unavailable-grades-preserved-as-absent-not-zero,
+  mark-basis sanity (positive, ≤ maxMark, strictly decreasing by grade), valid grade keys, and
+  required source/verification fields. Proven with 3 new negative fixtures in
+  `scripts/test-negative-validation-suite.mjs` (category `[X]`): a route collision, a threshold
+  exceeding maxMark, and a grade recorded as 0 -- all three correctly rejected, then the fixture
+  file restored and re-verified clean.
+- **Page copy:** `/grade-thresholds/` now states explicitly that every published route for each
+  specification is shown (so a learner can find their own exact combination) and that all marks
+  are raw marks, not weighted or a uniform mark scale (UMS) -- Cambridge's syllabuses covered here
+  do not use UMS at all, so this closes a possible source of confusion for a learner more familiar
+  with UK-domestic exam boards that do.
+- **Scope discipline:** no new boards, qualifications, or exam series were added -- only the same 5
+  specifications and the same June 2026 series already covered, per the brief's explicit
+  instruction not to expand scope during this workstream.
+- **Status:** implemented; validated (`npm run build`, `npm run validate:academic` including the
+  new validator, `npm run audit:all`, and the negative-fixture suite all pass clean).
+
+## D-086 — Post-v2.0 Quality Closure WS4: translated homepages no longer claim the enquiry form is English-only
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 4 (translation
+  consistency); reproduces closure-brief observation 9 ("translated homepages described enquiries
+  as English-only even though an Arabic trial form existed").
+- **What was found:** `src/i18n/copy.ts` (`LOCALE_COPY`, dating to the earlier v1.x CLOSURE WS5
+  single-landing-page translation) is the copy source used only by the three dedicated homepage
+  files `src/pages/ar/index.astro`, `src/pages/ur/index.astro`, `src/pages/bn/index.astro` (NOT the
+  `src/i18n/pages/marketing.ts` / `MARKETING_COPY` structure used by every other translated page).
+  Its `contactBody` string stated, in each language, that "the enquiry form is currently available
+  only in English", and both of the homepage's own contact CTAs (`ctaContact` in the hero, and
+  `contactButton` lower on the page) hard-linked to the English `/contact/` route rather than a
+  locale-aware path. Both claims were stale: a later closure workstream (referenced in
+  `EnquiryForm.astro` as "v1.x CLOSURE WS2") shipped a fully translated `EnquiryForm` --
+  field labels, message hints, privacy text, submit/success/error copy, all sourced from
+  `NAV_COPY[locale].form` in `src/i18n/nav.ts` -- on the real, already-built `/ar/contact/`,
+  `/ur/contact/`, `/bn/contact/` and `/ar/trial/`, `/ur/trial/`, `/bn/trial/` pages. `copy.ts`
+  itself was never updated to reflect that this later work had landed, so the homepage was telling
+  visitors the form did not exist in their language, and then routing them to the English site
+  instead of the working translated form the site already had.
+- **What was done:** removed the false "English only" sentence from `contactBody` in all three
+  locales (Arabic, Urdu, Bengali), reworded `ctaContact` from "Contact us (in English)" to a plain
+  "Contact us" in each language (no longer accurate to call out English once the destination is the
+  translated form), and changed both hardcoded `href="/contact/"` links on all three homepage files
+  to `localePath(locale, 'contact')`, matching the pattern already used everywhere else in the i18n
+  layer (`LocaleLayout.astro`, `trial/index.astro`, `contact/index.astro`). The existing AI-
+  translation review banner (`NAV_COPY[locale].reviewBanner`, rendered by `LocaleLayout` on every
+  translated page) is unaffected and remains accurate -- it is a genuine, still-true disclosure
+  that the page copy is AI-translated and pending team review, which is a different claim from "the
+  form itself only works in English."
+- **Not changed:** `LOCALE_COPY.contactButton` text ("Go to the enquiry form") was left as-is in
+  all three languages -- it was already accurate wording and only needed a correct destination, not
+  new wording.
+- **Verification:** `npm run build` (1269 pages, unchanged count), `npm run validate:academic`,
+  `npm run audit:all` (including the i18n route-completeness check, which independently confirms
+  canonical/hreflang/lang/dir on all 76 translated-route pages), and the negative-fixture suite (26
+  categories) all pass clean. Confirmed directly in the built output that `dist/ar/index.html`,
+  `dist/ur/index.html` and `dist/bn/index.html` no longer contain the removed English-only sentence
+  in any language, and that both contact CTAs on each page resolve to that locale's own
+  `/contact/` route rather than the English one.
+- **Scope discipline:** this fix is scoped to the three homepage files and their shared copy
+  source; it does not touch `MARKETING_COPY`/`marketing.ts`, which already handles the translated
+  contact/trial pages correctly and was not part of the reported observation.
+- **Status:** implemented and verified. The broader WS4 scope (full inventory of translated routes,
+  RTL/lang/dir spot-checks beyond what `audit:all` already covers, a human-review queue for the
+  AI-translated copy) is not yet separately addressed and remains open under Workstream 4.
+
+## D-087 — Post-v2.0 Quality Closure WS8: practice-question parser was silently dropping roughly half of the flagship question bank
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 8 (practice-tool
+  discovery/reliability); investigated after reproducing closure-brief observations 4 and 5 ("the
+  self-check practice area contained five Cambridge specifications" and "revealing a worked answer
+  functioned in one Mathematics sample").
+- **What was found while reproducing the observations:** both observations turned out to already be
+  true and working as described -- `/practice/` genuinely lists all 5 flagship specifications
+  (0620, 0625, 0580, 9701, 9702; `FLAGSHIP_DEFINITIONS` in `src/utils/academic/index.ts`), and
+  `/practice/0580/` (Mathematics) is a real, generated page with a functioning reveal-answer flow.
+  While verifying that, a real and much larger problem surfaced: `src/utils/practice/bank.ts`'s
+  parser only recognised a numbered items section introduced by a literal `## Questions` heading.
+  84 flagship-relevant `practice-questions` resource files exist; 44 of them (52%) instead organise
+  their numbered items under `## Section A` / `## Section B` subheadings, with no `## Questions`
+  heading at all. For every one of those 44 files the parser silently produced **zero** questions --
+  no error, no build failure, just a shorter question count on `/practice/{code}/` than the
+  underlying content actually supported. The file's own header comment claimed parsing coverage had
+  been "verified against all 76 flagship practice-questions files" (D-067); that claim did not hold
+  for the current checkout, whatever was true when it was written.
+- **Scale of the gap:** before the fix, `practiceQuestionsForCode()` returned 58/18/10/83/91
+  questions for 0620/0625/0580/9701/9702 (260 total). All 5 specifications' `questionCount > 0`, so
+  none were being wrongly hidden as "not yet available" -- but each one was showing well under half
+  of its real content.
+- **What was done:** `bank.ts`'s extraction no longer requires a `## Questions` heading -- it uses
+  the whole pre-`## Answers` body when there isn't one, since the number-marker parser
+  (`splitNumbered()`) already keys entirely off `**N.**` markers and automatically excludes any
+  prose (including a `## Questions` or `## Section A` heading) before the first marker. Any
+  `## Section X` subheading or standalone `---` divider that falls *between* two numbered items --
+  and would otherwise get swallowed into the trailing text of whichever item precedes it -- is now
+  stripped explicitly. This also fixed a second, separate, pre-existing leak found in the process:
+  every file's *last* question picked up a stray trailing `---` (the divider that sits between the
+  last question and the `## Answers` heading) in its rendered text, even in files that already had
+  a `## Questions` heading and were otherwise parsing correctly.
+- **Result:** 94/18/18/254/157 questions for 0620/0625/0580/9701/9702 -- 541 total, up from 260.
+  Verified directly in the built output (`dist/practice/index.html`, `dist/practice/{code}/`) and
+  via a full bank scan that zero parsed questions or answers contain any leaked heading or divider
+  line.
+- **New validator:** `scripts/validate-practice-bank.mjs` (wired into `npm run validate:academic`)
+  -- did not exist before this workstream. Independently re-scans the resource files (not just
+  bank.ts's own output) and fails if any flagship-relevant `practice-questions` file with a real
+  `## Answers` section parses to zero questions, or if any parsed question/answer contains leaked
+  structural markdown. This is what would have caught the 44-file gap immediately instead of it
+  going unnoticed. Proven with a new negative fixture in `scripts/test-negative-validation-suite.mjs`
+  (category `[Y]`): reformatting one file's first question marker away from `**N.**` breaks its
+  question/answer count match, correctly rejected with "parsed to 0 questions", then the fixture
+  file restored and re-verified clean.
+- **Scope discipline:** this is a parser-correctness fix against existing, already-published resource
+  content -- no new practice-questions files, topics, or specifications were added, and the
+  self-check-not-auto-grader design established in WS6/7/8 of the earlier v2.0 growth programme is
+  unchanged.
+- **Status:** implemented; validated (`npm run build`, `npm run validate:academic` including the new
+  validator, `npm run audit:all`, and the negative-fixture suite -- now 27 categories -- all pass
+  clean). The remainder of WS8's brief scope (broader discoverability of the practice tools beyond
+  this parsing-coverage fix) is not yet separately assessed and remains open under Workstream 8.
+
+## D-088 — Post-v2.0 Quality Closure WS7: added Edexcel A-Level Law Paper 2 (The Law in Action) resource content
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 7 (increase useful
+  resource depth, named target: Edexcel Law Paper 2).
+- **What was found:** `src/data/academic/syllabus-topics.ts` has carried a full, previously-verified
+  topic breakdown for Pearson Edexcel IAL Law's Paper 2 (YLA1) -- "2.1 The market", "2.2 The
+  criminal offender", "2.3 The individual" -- since an earlier workstream (source PDF fetched and
+  verified 2026-08-21). No resource content existed against it at all: Paper 1 (Underlying
+  Principles) has a study guide, revision notes and a practice-questions set; Paper 2, worth the
+  other 50% of the qualification, had none. A student on this specification had nothing to read past
+  the syllabus data itself.
+- **What was done:** re-fetched the official Pearson Edexcel IAL Law specification PDF (the same
+  `sourceUrl` already recorded in syllabus-topics.ts) to get the actual content list under 2.1/2.2/2.3
+  -- the specific Acts, sections and sub-areas Edexcel names -- rather than relying on general legal
+  knowledge for the syllabus mapping. Wrote three new resources, one full set matching Paper 1's
+  existing depth and structure:
+  - `a-level-edexcel-law-the-law-in-action.md` (study guide) -- covers contract formation and terms,
+    the Consumer Rights Act 2015's implied terms/remedies, validity and discharge, privity, and
+    negligence as the specification's own named alternative route through 2.1; the general elements
+    of criminal liability, all four named property offences with their Act/section, general defences
+    and CJA 2003 sentencing for 2.2; and defamation, HRA 1998 Articles 10/11 and the route to the
+    ECtHR, privacy (DPA 2018, Article 8 ECHR, FOIA 2000), and occupiers' liability/trespass to land
+    for 2.3.
+  - `a-law-the-law-in-action-revision-notes.md` -- condensed recall notes covering the same ground,
+    including a quick-reference table mapping each property offence to its Act and section.
+  - `a-law-the-law-in-action-practice.md` -- 8 original exam-style questions (Section A/B format,
+    matching the site's established practice-questions convention) with full worked answers,
+    including an applied scenario question on theft and mistaken belief, and a "Where marks are
+    usually lost" section.
+- **Scope discipline:** matches Paper 1's existing depth and file structure exactly (one study guide
+  + one revision-notes file + one practice-questions file per paper, not per subtopic) -- no new
+  boards, qualifications, or syllabus data were added; `syllabus-topics.ts` was not touched, only
+  read. YLA1 is not one of the 5 flagship codes the interactive `/practice/` self-check engine
+  covers (WS8/D-087), so this practice-questions file is a normal resource page, not wired into that
+  tool -- consistent with how Paper 1's own practice file already works.
+- **Verification:** `npm run build` (1272 pages, +3), `npm run validate:academic` (including the new
+  practice-bank coverage validator -- confirms this file, despite not being flagship, still parses
+  cleanly), `npm run audit:all` (0 orphan pages -- the new resources are correctly linked from the
+  Edexcel A-Level Law academic hub page and cross-link each other), and the negative-fixture suite
+  (27 categories) all pass clean.
+- **Status:** implemented and verified.
+
+## D-089 — Post-v2.0 Quality Closure WS5: enquiry delivery verified end-to-end on live production, owner-approved
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 5 (verify enquiry
+  delivery end-to-end); closes closure-brief observation 12 ("no real enquiry was submitted, so
+  inbox delivery wasn't independently verified").
+- **Owner approval:** the closure brief's own standing rule is not to send a real production email
+  without explicit approval of destination and test data. Asked the owner directly via
+  AskUserQuestion, offering a live end-to-end test, a code-only review, or skipping WS5; the owner
+  chose the live test.
+- **What was done:** using browser automation, navigated to the live production `/trial/` page on
+  `https://marlbridge.com`, dismissed both cookie-consent interfaces present (see the note below),
+  and submitted a real, clearly-labelled synthetic enquiry -- Name "WS5 Delivery Test — Please
+  Ignore", Email `noumanahmed1989@gmail.com` (the owner's own address, already the hardcoded
+  `ENQUIRY_RECIPIENT` in `functions/api/enquiry.ts`, so this doubled as both sender-visible reply-to
+  and the real delivery target), Phone/Country marked "N/A (automated test)", and a Message
+  explicitly stating this was an automated WS5 verification test with no real trial requested.
+  Cloudflare Turnstile passed automatically; the form returned "Thank you — your enquiry has been
+  sent." Then read the owner's Gmail inbox directly (Gmail access available this session) to confirm
+  actual delivery, rather than trusting the client-side success message alone.
+- **Result: full success, verified at every layer.** The email arrived in the owner's inbox within
+  seconds (submitted 17:57:35 UTC, delivered 17:57:36 UTC), landed in Inbox (not spam), and the raw
+  message headers confirm: `From: Marlbridge <hello@marlbridge.com>` (matches `ENQUIRY_SENDER`),
+  `To: noumanahmed1989@gmail.com` (matches `ENQUIRY_RECIPIENT`), `Reply-To:
+  noumanahmed1989@gmail.com` (matches the submitted enquirer email, confirming reply-to wiring
+  works), `Subject: Marlbridge enquiry — WS5 Delivery Test — Please Ignore` (matches the
+  `Marlbridge enquiry — ${name}` template), sent via Resend/Amazon SES infrastructure with DKIM
+  passing for both `marlbridge.com` and `amazonses.com`, and SPF passing. The body correctly
+  rendered all four submitted fields (Name, Email, Country, Message, Phone) in the expected
+  plain-text format. This is the first independently-verified real send since the Resend
+  integration was wired up (v1.x WS1) -- previously confirmed only that the endpoint validated and
+  rejected spam correctly, never that a legitimate submission actually reached the owner's inbox.
+- **Incidentally reproduced, not fixed here:** while dismissing the page's consent UI before
+  submitting, both cookie-consent interfaces named in the closure brief's observation 6 (a modal
+  "Cookie Settings" dialog and a separate bottom banner) appeared simultaneously on `/trial/`, live
+  on production, confirming that observation is still accurate as of this verification. This falls
+  under WS1, which is deliberately not being touched by this session (see the WS2/WS3 commit's
+  scope note) because a separate, concurrent work session already has WS1 in progress
+  (`d-081-analytics-disclosure` branch, PR #44) -- surfaced here only as confirmation, not addressed.
+- **Scope discipline:** exactly one test enquiry was sent, to the owner's own address, with content
+  explicitly marked as an automated test asking to be disregarded. No other destinations, no bulk
+  sends, no changes to `functions/api/enquiry.ts` or any other send-path code -- this workstream was
+  verification only.
+- **Status:** implemented and verified. WS5 is closed.

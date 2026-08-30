@@ -6,7 +6,7 @@ import { NAV_COPY, type LocaleCode } from '../../../i18n/nav';
 import { TRANSLATED_LOCALES, localePath } from '../../../i18n/routes';
 import {
   REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING,
-  ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
+  ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, combinedDiscountPercent, discountWorkedExample,
 } from '../../../data/pricing';
 
 export function getStaticPaths() {
@@ -16,6 +16,13 @@ export function getStaticPaths() {
 const { locale } = Astro.params as { locale: LocaleCode };
 const copy = MARKETING_COPY.pricing[locale];
 const nav = NAV_COPY[locale];
+// Post-v2.0 Quality Closure WS9 (2026-08-30): the combined-discount percentage
+// and the worked example are computed live from src/data/pricing.ts, exactly
+// like every other number on this page -- see that file's own doc comment on
+// PRICING_TERMS.discountCombinationMethod for the owner decision (additive,
+// not successive) this implements.
+const combinedPercent = combinedDiscountPercent();
+const example = discountWorkedExample();
 
 /**
  * v1.x CLOSURE WS2 -- table headers and column labels only are translated
@@ -37,6 +44,8 @@ const T = {
     multiSubjectBody: (n: number, p: number) => `خصم ${p}% لـ ${n} مواد أو أكثر تُؤخذ معًا.`,
     siblingBody: (n: number, p: number) => `خصم ${p}% لغاية ${n} من الأشقاء المسجَّلين معًا.`,
     trialBody: 'الدرس التجريبي الأول مجاني.',
+    combinedBody: (p1: number, p2: number, combined: number) => `يُجمَع الخصمان معًا (${p1}% + ${p2}% = ${combined}% إجمالاً) بدلاً من تطبيقهما بالتتالي.`,
+    workedExample: (n: number, region: string, perSubject: number, currency: string, before: number, combined: number, after: number) => `على سبيل المثال: ${n} مواد في ${region} بسعر ${perSubject} ${currency}/مادة/شهر تُصبح ${before} ${currency}/شهر قبل أي خصم؛ وبتطبيق الخصمين معًا (${combined}%)، تصبح ${after} ${currency}/شهر.`,
     faqHeading: 'أسئلة حول الأسعار', readyNote: 'مستعد للبدء؟',
   },
   ur: {
@@ -49,6 +58,8 @@ const T = {
     multiSubjectBody: (n: number, p: number) => `${n}+ مضامین اکٹھے لینے پر ${p}% رعایت۔`,
     siblingBody: (n: number, p: number) => `${n} تک بہن بھائیوں کے اکٹھے داخلے پر ${p}% رعایت۔`,
     trialBody: 'پہلا ٹرائل سبق مفت ہے۔',
+    combinedBody: (p1: number, p2: number, combined: number) => `دونوں رعایتیں اکٹھی جمع ہوتی ہیں (${p1}% + ${p2}% = مجموعی ${combined}%)، ایک کے بعد ایک لاگو نہیں ہوتیں۔`,
+    workedExample: (n: number, region: string, perSubject: number, currency: string, before: number, combined: number, after: number) => `مثال کے طور پر: ${region} میں ${n} مضامین بحساب ${perSubject} ${currency}/مضمون/ماہ کی مجموعی رقم بغیر رعایت کے ${before} ${currency}/ماہ بنتی ہے؛ دونوں رعایتیں (${combined}%) لگانے کے بعد یہ ${after} ${currency}/ماہ ہو جاتی ہے۔`,
     faqHeading: 'فیس کے بارے میں سوالات', readyNote: 'شروع کرنے کے لیے تیار ہیں؟',
   },
   bn: {
@@ -61,6 +72,8 @@ const T = {
     multiSubjectBody: (n: number, p: number) => `${n}+ বিষয় একসাথে নিলে ${p}% ছাড়।`,
     siblingBody: (n: number, p: number) => `${n} জন পর্যন্ত ভাইবোন একসাথে ভর্তি হলে ${p}% ছাড়।`,
     trialBody: 'প্রথম ট্রায়াল ক্লাসটি বিনামূল্যে।',
+    combinedBody: (p1: number, p2: number, combined: number) => `দুটি ছাড় একসাথে যোগ হয় (${p1}% + ${p2}% = মোট ${combined}%), একটির পর একটি প্রয়োগ হয় না।`,
+    workedExample: (n: number, region: string, perSubject: number, currency: string, before: number, combined: number, after: number) => `উদাহরণস্বরূপ: ${region}-এ ${n}টি বিষয় প্রতি বিষয়ে ${perSubject} ${currency}/মাস হারে মোট ${before} ${currency}/মাস (ছাড়ের আগে); উভয় ছাড় (${combined}%) প্রয়োগের পর তা হয় ${after} ${currency}/মাস।`,
     faqHeading: 'মূল্য সম্পর্কে প্রশ্ন', readyNote: 'শুরু করতে প্রস্তুত?',
   },
 }[locale];
@@ -68,21 +81,21 @@ const T = {
 const faqTemplates: Record<LocaleCode, () => { question: string; answer: string }[]> = {
   ar: () => [
     { question: 'كم تكلفة تدريس مارلبريدج؟', answer: `يتقاضى مارلبريدج رسومًا ${PRICING_TERMS.unit === 'per subject, per month' ? 'لكل مادة شهريًا' : ''}. تُحتسب GCSE وIGCSE وO Level بسعر IGCSE؛ وتُحتسب AS الدولية وAS وA Level بسعر A Level. راجع الجدول أعلاه لمنطقتك.` },
-    { question: 'هل هناك خصومات للمواد المتعددة أو الأشقاء؟', answer: `نعم. ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} ${PRICING_TERMS.discountsStack ? 'يتم جمع هذين الخصمين إذا استوفت الأسرة الشرطين.' : ''} تنطبق كلتا الحسمين على الدروس الجماعية فقط.` },
+    { question: 'هل هناك خصومات للمواد المتعددة أو الأشقاء؟', answer: `نعم. ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} ${PRICING_TERMS.discountsStack ? T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent) : ''} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} تنطبق كلتا الحسمين على الدروس الجماعية فقط.` },
     { question: 'ما مدة الدروس ووتيرتها؟', answer: 'الدروس الجماعية: 45 إلى 50 دقيقة لكل درس، 3 دروس أسبوعيًا لكل مادة. الدروس الفردية: ساعة واحدة لكل درس.' },
     { question: 'هل يوجد درس تجريبي مجاني؟', answer: T.trialBody },
     { question: 'دولتي غير مدرجة — ماذا أدفع؟', answer: PRICING_TERMS.unsupportedRegionNote === PRICING_TERMS.unsupportedRegionNote ? 'الدول غير المدرجة أعلاه لا تُسعَّر تلقائيًا — أرسل استفسارك وسيؤكد مارلبريدج رسمًا لمنطقتك. لا يُطبَّق أي تحويل عملة نيابة عنك.' : '' },
   ],
   ur: () => [
     { question: 'مارل برج کی تعلیم کی قیمت کتنی ہے؟', answer: 'مارل برج فی مضمون فی ماہ فیس لیتا ہے۔ جی سی ایس ای، IGCSE اور او لیول کو IGCSE کی شرح پر لیا جاتا ہے؛ انٹرنیشنل اے ایس، اے ایس اور اے لیول کو اے لیول کی شرح پر۔ اپنے علاقے کے لیے اوپر دیا گیا جدول دیکھیں۔' },
-    { question: 'کیا کئی مضامین یا بہن بھائیوں کے لیے رعایت ہے؟', answer: `جی ہاں۔ ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} یہ دونوں رعایتیں اگر خاندان دونوں کا اہل ہو تو اکٹھی ہو جاتی ہیں۔ دونوں صرف گروپ کلاسوں پر لاگو ہوتی ہیں۔` },
+    { question: 'کیا کئی مضامین یا بہن بھائیوں کے لیے رعایت ہے؟', answer: `جی ہاں۔ ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} دونوں صرف گروپ کلاسوں پر لاگو ہوتی ہیں۔` },
     { question: 'کلاسیں کتنی دیر اور کتنی بار ہوتی ہیں؟', answer: 'گروپ کلاسیں: 45 سے 50 منٹ فی کلاس، فی مضمون ہفتے میں 3 کلاسیں۔ انفرادی کلاسیں: فی کلاس 1 گھنٹہ۔' },
     { question: 'کیا مفت ٹرائل ہے؟', answer: T.trialBody },
     { question: 'میرا ملک درج نہیں — میں کیا ادا کروں؟', answer: 'اوپر درج نہ ہونے والے ممالک کی قیمت خودکار طور پر مقرر نہیں — اپنا استفسار بھیجیں اور مارل برج آپ کے علاقے کے لیے فیس کی تصدیق کرے گا۔ آپ کی جانب سے کوئی کرنسی تبدیلی لاگو نہیں کی جاتی۔' },
   ],
   bn: () => [
     { question: 'মার্লব্রিজের টিউশনের মূল্য কত?', answer: 'মার্লব্রিজ প্রতি বিষয়ে প্রতি মাসে ফি নেয়। GCSE, IGCSE এবং O Level কে IGCSE হারে ধরা হয়; International AS, AS এবং A Level কে A Level হারে। আপনার অঞ্চলের জন্য উপরের টেবিল দেখুন।' },
-    { question: 'একাধিক বিষয় বা ভাইবোনদের জন্য কি ছাড় আছে?', answer: `হ্যাঁ। ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} পরিবার উভয়ের যোগ্য হলে এই দুটি ছাড় একত্রিত হয়। উভয়ই শুধুমাত্র গ্রুপ ক্লাসে প্রযোজ্য।` },
+    { question: 'একাধিক বিষয় বা ভাইবোনদের জন্য কি ছাড় আছে?', answer: `হ্যাঁ। ${T.multiSubjectBody(PRICING_TERMS.multiSubjectDiscount.minSubjects, PRICING_TERMS.multiSubjectDiscount.percentOff)} ${T.siblingBody(PRICING_TERMS.siblingDiscount.maxSiblings, PRICING_TERMS.siblingDiscount.percentOff)} ${T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} ${T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)} উভয়ই শুধুমাত্র গ্রুপ ক্লাসে প্রযোজ্য।` },
     { question: 'ক্লাস কতক্ষণ এবং কত ঘন ঘন হয়?', answer: 'গ্রুপ ক্লাস: প্রতি ক্লাস ৪৫ থেকে ৫০ মিনিট, প্রতি বিষয়ে সপ্তাহে ৩টি ক্লাস। একক ক্লাস: প্রতি ক্লাস ১ ঘণ্টা।' },
     { question: 'কি ফ্রি ট্রায়াল আছে?', answer: T.trialBody },
     { question: 'আমার দেশ তালিকায় নেই — আমি কী পরিশোধ করব?', answer: 'উপরে তালিকাভুক্ত নয় এমন দেশের মূল্য স্বয়ংক্রিয়ভাবে নির্ধারিত হয় না — আপনার অনুসন্ধান পাঠান এবং মার্লব্রিজ আপনার অঞ্চলের জন্য একটি ফি নিশ্চিত করবে। আপনার পক্ষে কোনো মুদ্রা রূপান্তর প্রয়োগ করা হয় না।' },
@@ -168,6 +181,9 @@ const faqs = faqTemplates[locale]();
         <p class="m-0 text-[15.5px] text-ink">{T.trialBody}</p>
       </li>
     </ul>
+    <p class="m-0 mt-5 max-w-[62ch] text-[14.5px] leading-relaxed text-ink-mute">
+      {T.combinedBody(PRICING_TERMS.multiSubjectDiscount.percentOff, PRICING_TERMS.siblingDiscount.percentOff, combinedPercent)} {T.workedExample(example.subjectCount, example.region, example.perSubject, example.currency, example.beforeDiscount, combinedPercent, example.afterDiscount)}
+    </p>
   </div>
 
   <div class="mx-auto max-w-[72ch] border-t border-navy-rule px-[var(--spacing-gutter)] py-[clamp(28px,3.5vw,48px)]">

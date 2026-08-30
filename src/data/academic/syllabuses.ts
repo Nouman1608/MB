@@ -79,7 +79,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge IGCSE Physics helps learners understand the technological world in which they live, and take an informed interest in science and scientific developments through Core and Extended tiers of study.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-physics-0625/',
     verifiedOn: '2026-08-27',
-    notes: 'Added to close a data gap: this ACTIVE board/qualification/subject combination had no syllabuses.ts entry despite being in the site academic matrix. Current syllabus confirmed directly from the official PDF as valid for the 2026, 2027 and 2028 series. Tiered (Core/Extended) via choice of Paper 1/3 (Core) or Paper 2/4 (Extended), plus a practical component via Paper 5 Practical Test or Paper 6 Alternative to Practical.',
+    notes: 'Current syllabus confirmed directly from the official PDF as valid for the 2026, 2027 and 2028 series. Tiered (Core/Extended) via choice of Paper 1/3 (Core) or Paper 2/4 (Extended), plus a practical component via Paper 5 Practical Test or Paper 6 Alternative to Practical.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'mathematics',
@@ -1101,7 +1101,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'AQA A-level English Literature B centres on different ways of reading and the connections that exist between texts within a literary genre, encouraging students to arrive at their own interpretations.',
     officialUrl: 'https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification',
     verifiedOn: '2026-08-19',
-    notes: 'AQA offers two A-level English Literature specifications: Literature A (7711 AS / 7712 A-level) and Literature B (7716 AS / 7717 A-level). This entry’s taxonomy verifies Literature B (7717): Paper 1 ‘Literary Genres’ (tragedy/comedy options), Paper 2 ‘Texts and Genres’ (crime/protest writing options), plus non-exam assessment ‘Theory and Independence’. The ‘7712’ half of the code refers to Literature A: Paper 1 ‘Love through the ages’, Paper 2 ‘Texts in shared contexts’, plus non-exam assessment ‘Independent critical study: texts across time’ -- independently verified against its own official specification-at-a-glance page (2026-08-28), but NOT recorded as its own assessments.ts record because this file\'s single english-literature entry for this board+qualification can only represent one \'current\' specification at a time (assessments.ts validator check [6]); the verified 7712 facts are preserved in docs/decision-log.md D-058 for future work rather than re-researched.',
+    notes: 'AQA offers two A-level English Literature specifications: Literature A (7711 AS / 7712 A-level) and Literature B (7716 AS / 7717 A-level). This entry’s taxonomy verifies Literature B (7717): Paper 1 ‘Literary Genres’ (tragedy/comedy options), Paper 2 ‘Texts and Genres’ (crime/protest writing options), plus non-exam assessment ‘Theory and Independence’. The ‘7712’ half of the code refers to Literature A: Paper 1 ‘Love through the ages’, Paper 2 ‘Texts in shared contexts’, plus non-exam assessment ‘Independent critical study: texts across time’ -- independently verified against its own official specification-at-a-glance page (2026-08-28), but NOT recorded as its own separate assessment record because this dataset\'s single english-literature entry for this board+qualification can only represent one \'current\' specification at a time; the verified 7712 facts are preserved for future work rather than re-researched.',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'a-level', subjectSlug: 'psychology',
@@ -1161,7 +1161,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'AQA GCSE Sociology encourages students to explore and interpret the social world in which they live, developing an understanding of the relationship between individuals and society.',
     officialUrl: 'https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification',
     verifiedOn: '2026-08-28',
-    notes: 'Paper 1 ‘The Sociology of Families and Education’ and Paper 2 ‘The Sociology of Crime and Deviance and Social Stratification’, both also drawing on relevant sociological theory and research methods content from across the course. The two papers are equally weighted with no coursework. Linear qualification, first teaching 2017, first examined May/June 2019, per the specification’s own scheme-of-assessment page (previously only structurally confirmed via matrix.ts WS5; this entry adds the syllabuses.ts record itself).',
+    notes: 'Paper 1 ‘The Sociology of Families and Education’ and Paper 2 ‘The Sociology of Crime and Deviance and Social Stratification’, both also drawing on relevant sociological theory and research methods content from across the course. The two papers are equally weighted with no coursework. Linear qualification, first teaching 2017, first examined May/June 2019, per the specification’s own scheme-of-assessment page.',
   },
   {
     boardSlug: 'aqa', qualificationSlug: 'a-level', subjectSlug: 'psychology',
@@ -1282,7 +1282,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level Islamiyat gives learners the opportunity to develop knowledge and understanding of the Qur’an, Hadith, the life of the Prophet Muhammad (pbuh) and the early Islamic community.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf',
     verifiedOn: '2026-08-27',
-    notes: 'v2.0 WS4 correction: the previously cited PDF (635787, window 2024-2025) had lapsed. Re-verified against the current 2026-2027 syllabus PDF (697279): identical Paper 1 / Paper 2 four-topic structure to Cambridge IGCSE Islamiyat (0493).',
+    notes: 'The previously cited PDF (635787, window 2024-2025) had lapsed. Re-verified against the current 2026-2027 syllabus PDF (697279): identical Paper 1 / Paper 2 four-topic structure to Cambridge IGCSE Islamiyat (0493).',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'urdu-language',
@@ -1327,7 +1327,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'law',
     officialTitle: 'Pearson Edexcel International Advanced Level in Law',
-    code: 'YLA11',
+    code: 'YLA1',
     boardSummary:
       'The Edexcel International AS/Advanced Level Law syllabus develops students\' knowledge and understanding of legal rules, institutions and principles across different branches of law, using English law terminology relevant to international customers.',
     officialUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Law/2015/specification-and-sample-assessments/Pearson-Edexcel-IAL-Law-Specification.pdf',
@@ -1472,7 +1472,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Economics develops a critical understanding of economic theories, models and tools across microeconomics, macroeconomics and the global economy, applied to real-world issues at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/',
     verifiedOn: '2026-08-28',
-    notes: 'First assessments 2022. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (see docs/decision-log.md D-008); this record and its matching assessments.ts entry are sourced from that licensed guide (economics-guide.pdf) plus the freely-public SL/HL subject briefs. Four content units (common to SL/HL, with HL-only extension material within several units) plus an internal assessment portfolio.',
+    notes: 'First assessments 2022. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide; this record is sourced from that licensed guide (economics-guide.pdf) plus the freely-public SL/HL subject briefs. Four content units (common to SL/HL, with HL-only extension material within several units) plus an internal assessment portfolio.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'physics',
@@ -1482,7 +1482,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Physics develops an understanding of the fundamental concepts and principles of physics through five topics (space/time/motion, particulate nature of matter, wave behaviour, fields, and nuclear/quantum physics), combining theory with a self-directed scientific investigation, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
     verifiedOn: '2026-08-28',
-    notes: 'First assessments 2025. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (see docs/decision-log.md D-008); this record and its matching assessments.ts entry are sourced from that licensed guide (physics-guide.pdf), cross-verified against a current (Aug 2026) published school IB Physics resource for the exact SL/HL paper mark totals -- see the assessments.ts record\'s own notes for the full sourcing chain. Five topics (A-E, with HL-only sub-topics within several) plus an internal assessment (individual scientific investigation).',
+    notes: 'First assessments 2025. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide; this record and its matching assessment record are sourced from that licensed guide (physics-guide.pdf), cross-verified against a current (Aug 2026) published school IB Physics resource for the exact SL/HL paper mark totals -- see the matching assessment record\'s own notes for the full sourcing chain. Five topics (A-E, with HL-only sub-topics within several) plus an internal assessment (individual scientific investigation).',
   },
 ] as const;
 

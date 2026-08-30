@@ -26,7 +26,15 @@
  * FX-policy approved-base-rate protection and conversion-drift rejection
  * (L, M, v1.x Closure WS8), assessment-structure weighting-total and
  * legacy/current-collision rejection (N, O, v1.x Closure WS5), translated-route
- * canonical/hreflang integrity on the built dist/ output (P, v1.x Closure WS2).
+ * canonical/hreflang integrity on the built dist/ output (P, v1.x Closure WS2),
+ * a specification code that no longer matches its own syllabuses.ts entry
+ * (W, Post-v2.0 Quality Closure WS2 -- proves the exact validator check that
+ * the corrected Edexcel Law YLA1 code now satisfies, and that a regression
+ * back to the old incorrect YLA11 code would be caught, not silently allowed),
+ * grade-threshold route collisions, mark-basis mismatches and
+ * unavailable-grades-as-zero (X, Post-v2.0 Quality Closure WS6), a flagship
+ * practice-questions file whose numbered items no longer parse into a
+ * matching question/answer count (Y, Post-v2.0 Quality Closure WS8).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -404,6 +412,76 @@ withMutation(
     validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
     expectSubstring: 'neither relatedCode nor notes explaining the transition',
     label: 'legacy-teach-out record stripped of relatedCode and notes is rejected',
+  },
+);
+
+console.log('\n[W] Post-v2.0 Quality Closure WS2 — Assessment validator rejects a spec code that does not match its syllabuses.ts entry');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "    boardSlug: 'edexcel',\n    qualificationSlug: 'a-level',\n    subjectSlug: 'law',\n    code: 'YLA1',",
+    "    boardSlug: 'edexcel',\n    qualificationSlug: 'a-level',\n    subjectSlug: 'law',\n    code: 'YLA11',",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: "is not part of syllabuses.ts's recorded code",
+    label: "Edexcel A-level Law reverted to the incorrect legacy code 'YLA11' (mismatching its syllabuses.ts entry, code 'YLA1') is rejected",
+  },
+);
+
+console.log('\n[X] Post-v2.0 Quality Closure WS6 — Grade-threshold validator');
+
+withMutation(
+  'src/data/academic/grade-thresholds.ts',
+  (text) => text.replace(
+    "{ combination: 'Core (Components 11, 31, 61)', maxMark: 200, thresholds: { C: 107, D: 90, E: 73, F: 56, G: 39 } },",
+    "{ combination: 'Core (Components 11, 31, 51)', maxMark: 200, thresholds: { C: 107, D: 90, E: 73, F: 56, G: 39 } },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-grade-thresholds.mjs',
+    expectSubstring: 'route collision',
+    label: "IGCSE Chemistry (0620) with a duplicated route label ('Core (Components 11, 31, 51)' used twice) is rejected",
+  },
+);
+
+withMutation(
+  'src/data/academic/grade-thresholds.ts',
+  (text) => text.replace(
+    "{ combination: 'Core (Components 11, 31, 51)', maxMark: 200, thresholds: { C: 105, D: 88, E: 72, F: 55, G: 38 } },",
+    "{ combination: 'Core (Components 11, 31, 51)', maxMark: 200, thresholds: { C: 999, D: 88, E: 72, F: 55, G: 38 } },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-grade-thresholds.mjs',
+    expectSubstring: 'exceeds the row\'s own maxMark',
+    label: 'IGCSE Chemistry (0620) with a grade-C threshold (999) exceeding its own 200-mark maximum is rejected',
+  },
+);
+
+withMutation(
+  'src/data/academic/grade-thresholds.ts',
+  (text) => text.replace(
+    "{ combination: 'Extended (Components 21, 41)', maxMark: 200, thresholds: { 'A*': 162, A: 138, B: 114, C: 90, D: 73, E: 56 } },",
+    "{ combination: 'Extended (Components 21, 41)', maxMark: 200, thresholds: { 'A*': 162, A: 138, B: 114, C: 90, D: 73, E: 56, F: 0 } },",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-grade-thresholds.mjs',
+    expectSubstring: 'recorded as threshold 0',
+    label: "IGCSE Mathematics (0580) Extended with grade F recorded as threshold 0 (should be omitted -- Extended has no F) is rejected",
+  },
+);
+
+console.log('\n[Y] Post-v2.0 Quality Closure WS8 — Practice-bank validator catches a flagship file that silently parses to zero questions');
+
+withMutation(
+  'src/content/resources/as-chem-ionisation-energy-practice.md',
+  (text) => text.replace(
+    '**1.** Define first ionisation energy. **[3]**',
+    '1) Define first ionisation energy. **[3]**',
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-practice-bank.mjs',
+    expectSubstring: 'parsed to 0 questions',
+    label: "AS Chemistry Ionisation Energy practice file with its first question marker reformatted away from '**N.**' (breaking the question/answer count match) is rejected",
   },
 );
 

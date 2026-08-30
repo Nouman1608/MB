@@ -119,4 +119,4 @@ automatically from knowing the content.
 International Baccalaureate Organization, Economics guide (Diploma
 Programme), first assessment 2022. Marlbridge holds, or is in the
 process of obtaining, a formal license from the IB for commercial use
-of this guide (see docs/decision-log.md D-008).
+of this guide.

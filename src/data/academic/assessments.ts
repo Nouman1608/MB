@@ -248,7 +248,26 @@ export interface Assessment {
   readonly components: readonly AssessmentComponent[];
   readonly officialSourceUrl: string;
   readonly verifiedOn: string;
+  /** Public-facing. Rendered directly on the board/qualification/subject page
+   * (see the `[subject].astro` template) immediately after the official-source
+   * attribution line. Must only ever contain content a learner should read:
+   * qualification structure, honest scope/limitations, and sourcing detail.
+   * Never put engineering reasoning, validator/script names, decision-log
+   * references, or file paths here -- use `internalNotes` instead. (Post-v2.0
+   * Quality Closure WS3: a prior record's `notes` field leaked exactly this
+   * kind of commentary to the public page -- see D-056 and its resolution.) */
   readonly notes?: string;
+  /** Maintainer-only. NEVER rendered by any public template -- intentionally
+   * absent from `[subject].astro` and every other page renderer. Use this for
+   * engineering/audit commentary that belongs in git history and the decision
+   * log's spirit but is useful to see right next to the record it concerns:
+   * why a value was chosen, what was corrected and when, open questions for
+   * the next person to touch this record. `audit-content-integrity.mjs`
+   * additionally scans the built site for internal-note-shaped text (decision
+   * IDs, workstream references, script/file paths) as a second, independent
+   * safeguard in case this field's content is ever copy-pasted into `notes`
+   * by mistake. */
+  readonly internalNotes?: string;
   /** v2.0 (brief §6) — how the qualification as a whole aggregates its
    * components. Optional; see the AssessmentModel type doc for why this is
    * deliberately unset on every pre-v2.0 record. */
@@ -623,7 +642,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf',
     verifiedOn: '2026-08-27',
-    notes: 'Directly confirmed against the official PDF (Syllabus overview, p.8-9): both candidates must take Paper 1 and Paper 2, each 1.5 hours / 50 marks (five questions, Question 1 and Question 2 compulsory plus two more chosen), no explicit percentage stated by the board but the two equal-mark papers are therefore 50%/50% of the total. Both externally assessed, not tiered, answered in English. The syllabus PDF previously cited in syllabuses.ts (635787, window 2024-2025) had lapsed; this record and syllabuses.ts were both corrected to the current 2026-2027 edition (697279) in the same commit. Examination-series window 2026-2027 (June and November series); no separate first-teaching date published.',
+    notes: 'Directly confirmed against the official PDF (Syllabus overview, p.8-9): both candidates must take Paper 1 and Paper 2, each 1.5 hours / 50 marks (five questions, Question 1 and Question 2 compulsory plus two more chosen), no explicit percentage stated by the board but the two equal-mark papers are therefore 50%/50% of the total. Both externally assessed, not tiered, answered in English. The syllabus PDF previously cited (635787, window 2024-2025) had lapsed; this record and the matching syllabus record were both corrected to the current 2026-2027 edition (697279) in the same update. Examination-series window 2026-2027 (June and November series); no separate first-teaching date published.',
   },
   {
     boardSlug: 'cambridge',
@@ -941,7 +960,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697209-2026-2028-syllabus.pdf',
     verifiedOn: '2026-08-27',
-    notes: 'Same structural pattern as O Level/IGCSE Chemistry (independently re-confirmed from Physics\' own source PDF, not copied): Paper 1/3 Core (45min MCQ 30% + 1h15 Theory 50%) and Paper 2/4 Extended (identical durations/marks/weightings, different tier), plus a practical component via Paper 5 Practical Test (1h15/40 marks/20%) OR Paper 6 Alternative to Practical (1h/40 marks/20%), both externally assessed -- a candidate sits ONE of Paper 5/6, hence alternativeGroup. Core candidates eligible for grades C-G; Extended for A*-G. Directly confirmed against the official PDF (Assessment overview, p.9-10). This entry closes a data gap flagged earlier in this workstream: 0625 is an ACTIVE board/qualification/subject combination in the site academic matrix that had no syllabuses.ts or assessments.ts entry until now; both were created together in this batch. Examination-series window 2026-2028 (June and November series); no separate first-teaching date published by Cambridge.',
+    notes: 'Same structural pattern as O Level/IGCSE Chemistry (independently re-confirmed from Physics\' own source PDF, not copied): Paper 1/3 Core (45min MCQ 30% + 1h15 Theory 50%) and Paper 2/4 Extended (identical durations/marks/weightings, different tier), plus a practical component via Paper 5 Practical Test (1h15/40 marks/20%) OR Paper 6 Alternative to Practical (1h/40 marks/20%), both externally assessed -- a candidate sits ONE of Paper 5/6, hence alternativeGroup. Core candidates eligible for grades C-G; Extended for A*-G. Directly confirmed against the official PDF (Assessment overview, p.9-10). Examination-series window 2026-2028 (June and November series); no separate first-teaching date published by Cambridge.',
     assessmentModel: 'component-based',
   },
   {
@@ -1254,7 +1273,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official PDF\'s "Assessment overview" (Syllabus overview): all candidates take Paper 1 Poetry and Prose (1h30/50 marks/50%, two questions on two texts, externally assessed) plus EXACTLY ONE of three routes, each worth the remaining 50%: Route A is Paper 2 Drama alone (1h30/50 marks/50%, two questions on two texts, externally assessed); Route B is Paper 3 Drama (Open Text) (45min/25 marks/25%, one question on one text) together with Paper 4 Unseen (1h15/25 marks/25%, one question requiring critical commentary), both externally assessed; Route C is Paper 3 again together with Component 5 Coursework (25 marks/25%, a portfolio of two assignments each on a different text, internally assessed and externally moderated). Paper 3 is genuinely shared between Route B and Route C -- it is the same physical paper, not two different papers with the same name -- which this v2.0 dataset represents for the first time via the new `routeGroup` mechanism (an array of route tags per component, letting one component belong to more than one alternative route; see the `routeGroup` field\'s own doc comment in this file for the general case). This resolves docs/decision-log.md D-055, which explains why this combination was left unmodeled in an earlier batch of this same workstream. Grades A*-G. This is a single-year syllabus edition (2026 only) that should be re-checked for a successor when next touched.',
+    notes: 'Directly confirmed against the official PDF\'s "Assessment overview" (Syllabus overview): all candidates take Paper 1 Poetry and Prose (1h30/50 marks/50%, two questions on two texts, externally assessed) plus EXACTLY ONE of three routes, each worth the remaining 50%: Route A is Paper 2 Drama alone (1h30/50 marks/50%, two questions on two texts, externally assessed); Route B is Paper 3 Drama (Open Text) (45min/25 marks/25%, one question on one text) together with Paper 4 Unseen (1h15/25 marks/25%, one question requiring critical commentary), both externally assessed; Route C is Paper 3 again together with Component 5 Coursework (25 marks/25%, a portfolio of two assignments each on a different text, internally assessed and externally moderated). Paper 3 is genuinely shared between Route B and Route C -- it is the same physical paper, not two different papers with the same name -- which this v2.0 dataset represents for the first time via the new `routeGroup` mechanism (an array of route tags per component, letting one component belong to more than one alternative route). Grades A*-G. This is a single-year syllabus edition (2026 only) that should be re-checked for a successor when next touched.',
     assessmentModel: 'component-based',
   },
   {
@@ -1379,7 +1398,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Physics/2017/specification-and-sample-assessments/international-gcse-physics-2017-specification.pdf',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official PDF (Specification Issue 4, September 2024, "the established linear route"): two externally-assessed written papers, both untiered and available in the November and June series. Paper 1 (2h, 110 marks, 61.1%) assesses only core (non-bold, non-"P"-referenced) content; Paper 2 (1h15, 70 marks, 38.9%) assesses all content including bold "P"-referenced material. Calculators permitted in both. Eight topics: Forces and motion, Electricity, Waves, Energy resources and energy transfers, Solids/liquids/gases, Magnetism and electromagnetism, Radioactivity and particles, Astrophysics. Note: Pearson also now offers a separate MODULAR route to this same subject (codes 4WPH1/4WPH2, first assessed June 2025) alongside this established linear route; this record models the linear 4PH1 route only, matching this combination\'s syllabuses.ts entry. Per Pearson\'s November 2025 subject-advisor update, support materials (equation sheets) are confirmed through the 2025-2027 series for both routes; Pearson\'s stated policy is to align International GCSE support with UK GCSE decisions for 2028 onward, which were not yet confirmed by Ofqual/DfE as of this verification date -- no finalAssessment year is therefore recorded, to avoid fabricating an unconfirmed cutoff.',
+    notes: 'Directly confirmed against the official PDF (Specification Issue 4, September 2024, "the established linear route"): two externally-assessed written papers, both untiered and available in the November and June series. Paper 1 (2h, 110 marks, 61.1%) assesses only core (non-bold, non-"P"-referenced) content; Paper 2 (1h15, 70 marks, 38.9%) assesses all content including bold "P"-referenced material. Calculators permitted in both. Eight topics: Forces and motion, Electricity, Waves, Energy resources and energy transfers, Solids/liquids/gases, Magnetism and electromagnetism, Radioactivity and particles, Astrophysics. Note: Pearson also now offers a separate MODULAR route to this same subject (codes 4WPH1/4WPH2, first assessed June 2025) alongside this established linear route; this record models the linear 4PH1 route only, matching this combination\'s syllabus record. Per Pearson\'s November 2025 subject-advisor update, support materials (equation sheets) are confirmed through the 2025-2027 series for both routes; Pearson\'s stated policy is to align International GCSE support with UK GCSE decisions for 2028 onward, which were not yet confirmed by Ofqual/DfE as of this verification date -- no finalAssessment year is therefore recorded, to avoid fabricating an unconfirmed cutoff.',
     assessmentModel: 'linear',
   },
   {
@@ -1502,7 +1521,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Mathematics%20A/2016/Specification%20and%20sample%20assessments/international-gcse-in-mathematics-spec-a.pdf',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official PDF (Specification Issue 2, November 2017): tiered qualification. Foundation tier: Paper 1F + Paper 2F, each 2h/100marks/50%, targeted at grades 5-1. Higher tier: Paper 1H + Paper 2H, each 2h/100marks/50%, targeted at grades 9-4 with grade 3 allowed. All four papers externally assessed and calculator-required (a scientific electronic calculator meeting a minimum function spec). A separate modular version also exists (per Pearson search results, first teaching 2024) and is not modeled here, since this combination\'s syllabuses.ts entry is keyed to the established Specification A code 4MA1.',
+    notes: 'Directly confirmed against the official PDF (Specification Issue 2, November 2017): tiered qualification. Foundation tier: Paper 1F + Paper 2F, each 2h/100marks/50%, targeted at grades 5-1. Higher tier: Paper 1H + Paper 2H, each 2h/100marks/50%, targeted at grades 9-4 with grade 3 allowed. All four papers externally assessed and calculator-required (a scientific electronic calculator meeting a minimum function spec). A separate modular version also exists (per Pearson search results, first teaching 2024) and is not modeled here, since this site\'s record for this combination is keyed to the established Specification A code 4MA1.',
     assessmentModel: 'linear',
   },
   {
@@ -1526,7 +1545,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Mathematics/2018/Specification-and-Sample-Assessment/international-a-level-maths-spec.pdf',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official PDF (Specification Issue 3, April 2019 -- verified this IS the current spec, distinct from and superseding the older 2013 C12/C34-numbered spec that a search initially surfaced). Every unit: externally assessed, 1h30 written exam, 75 marks, 16⅔% (16.67) of the full IAL. The full International Advanced Level (YMA01) = the four compulsory Pure Mathematics units P1-P4 PLUS exactly one pair of applied units chosen from five named valid pairs: M1+S1, M1+D1, M1+M2, S1+D1, or S1+S2 (confirmed verbatim from the spec\'s own IAS/IAL combinations table). This is modeled with the routeGroup mechanism (as used for Cambridge IGCSE Literature in English 0475): each of the five applied units (M1, S1, D1, M2, S2) is tagged with every named route it can belong to, so e.g. M1 carries all three routes it appears in. Every route sums to 4×16.67 + 2×16.67 = 100.02%, within the validator\'s tolerance. The separate International Advanced Subsidiary (IAS, code XMA01: P1+P2 plus ONE applied unit, three units total) is a genuinely different combination requiring its own routeGroup dimension and is NOT modeled here, since per this combination\'s syllabuses.ts entry the IAS is "not recorded as a separate matrix row." Further Pure Mathematics units (FP1-FP3) and the M3/S3 units belong to the separate Further Mathematics (YFM01) and Pure Mathematics (YPM01) awards and are out of scope for this record.',
+    notes: 'Directly confirmed against the official PDF (Specification Issue 3, April 2019 -- verified this IS the current spec, distinct from and superseding the older 2013 C12/C34-numbered spec that a search initially surfaced). Every unit: externally assessed, 1h30 written exam, 75 marks, 16⅔% (16.67) of the full IAL. The full International Advanced Level (YMA01) = the four compulsory Pure Mathematics units P1-P4 PLUS exactly one pair of applied units chosen from five named valid pairs: M1+S1, M1+D1, M1+M2, S1+D1, or S1+S2 (confirmed verbatim from the spec\'s own IAS/IAL combinations table). This is modeled with the routeGroup mechanism (as used for Cambridge IGCSE Literature in English 0475): each of the five applied units (M1, S1, D1, M2, S2) is tagged with every named route it can belong to, so e.g. M1 carries all three routes it appears in. Every route sums to 4×16.67 + 2×16.67 = 100.02%, within the validator\'s tolerance. The separate International Advanced Subsidiary (IAS, code XMA01: P1+P2 plus ONE applied unit, three units total) is a genuinely different combination requiring its own routeGroup dimension and is NOT modeled here, since this site does not currently record the IAS as a separate combination. Further Pure Mathematics units (FP1-FP3) and the M3/S3 units belong to the separate Further Mathematics (YFM01) and Pure Mathematics (YPM01) awards and are out of scope for this record.',
     assessmentModel: 'modular',
   },
   {
@@ -1550,7 +1569,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     boardSlug: 'edexcel',
     qualificationSlug: 'a-level',
     subjectSlug: 'law',
-    code: 'YLA11',
+    code: 'YLA1',
     specStatus: 'current',
     tiers: ['not-tiered'],
     firstAssessment: '2017',
@@ -1559,8 +1578,9 @@ export const ASSESSMENTS: readonly Assessment[] = [
       { paperCode: 'YLA1/02', title: 'Paper 2: The Law in Action', durationMinutes: 180, marks: 100, weightingPercent: 50, assessmentType: 'written-exam', externallyAssessed: true },
     ],
     officialSourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Law/2015/specification-and-sample-assessments/Pearson-Edexcel-IAL-Law-Specification.pdf',
-    verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official PDF (Specification Issue 4, November 2021): not split into separate IAS/IAL stages -- two compulsory papers, both taken in the same series (June only), each 3h, 100 marks, 50%, externally assessed. Paper 1 covers the English legal system, the law of contract basics and criminal law; Paper 2 covers the law of tort and applied/synoptic content. IMPORTANT DATA-PROVENANCE NOTE: the qualification\'s own specification PDF title, its paper codes, and its mark-scheme filenames all consistently use the cash-in code "YLA1" (not "YLA11") -- e.g. "Pearson Edexcel International Advanced Level in Law (YLA1)", paper codes YLA1/01 and YLA1/02. This record keeps code: \'YLA11\' to match the pre-existing syllabuses.ts entry and pass the assessment validator\'s code-consistency check; the discrepancy itself, and why it was not silently corrected here, is tracked in docs/decision-log.md D-056. First teaching September 2015, first examination June 2017.',
+    verifiedOn: '2026-08-30',
+    notes: 'Directly confirmed against the official PDF (Specification Issue 4, November 2021): not split into separate IAS/IAL stages -- two compulsory papers, both taken in the same series (June only), each 3h, 100 marks, 50%, externally assessed. Paper 1 covers the English legal system, the law of contract basics and criminal law; Paper 2 covers the law of tort and applied/synoptic content. First teaching September 2015, first examination June 2017.',
+    internalNotes: 'Post-v2.0 Quality Closure WS2 (2026-08-30): corrected code from \'YLA11\' to \'YLA1\' -- the qualification\'s own specification PDF, paper codes and mark-scheme filenames all consistently use YLA1. Coordinated with syllabuses.ts, syllabus-topics.ts (6 topic/subtopic slugs), and the 3 published resource files\' frontmatter in the same change. Resolves the discrepancy tracked in D-056; see D-082 for the full resolution record. This field is for maintainers only -- see the AssessmentRecord type doc comment.',
     assessmentModel: 'linear',
   },
   {
@@ -1823,7 +1843,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/specification-at-a-glance',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official AQA specification-at-a-glance page. NAMING NOTE: AQA itself calls this qualification plain \'History\' (8145) -- there is no separate AQA \'World History\' title -- but this record uses subjectSlug \'world-history\' to match the pre-existing syllabuses.ts/matrix.ts entry for this combination. Linear, not tiered, two written papers, each 2h/84marks (including 4 marks for spelling, punctuation and grammar)/50% of GCSE, total 168 marks. Paper 1 (Understanding the modern world): Section A -- choice of ONE period study from four options (America 1840-1895, Germany 1890-1945, Russia 1894-1945, or America 1920-1973), six compulsory questions, 40 marks; Section B -- choice of ONE wider world depth study from five conflict-and-tension options, four compulsory questions, 40 marks. Paper 2 (Shaping the nation): Section A -- choice of ONE thematic study from three long-run Britain options, four compulsory questions, 40 marks; Section B -- choice of ONE British depth study (incl. historic environment) from four options, four compulsory questions, 40 marks. Options are declared at point of entry. First teaching September 2016.',
+    notes: 'Directly confirmed against the official AQA specification-at-a-glance page. NAMING NOTE: AQA itself calls this qualification plain \'History\' (8145) -- there is no separate AQA \'World History\' title -- but this record uses subjectSlug \'world-history\' to match this site\'s existing subject categorisation for this combination. Linear, not tiered, two written papers, each 2h/84marks (including 4 marks for spelling, punctuation and grammar)/50% of GCSE, total 168 marks. Paper 1 (Understanding the modern world): Section A -- choice of ONE period study from four options (America 1840-1895, Germany 1890-1945, Russia 1894-1945, or America 1920-1973), six compulsory questions, 40 marks; Section B -- choice of ONE wider world depth study from five conflict-and-tension options, four compulsory questions, 40 marks. Paper 2 (Shaping the nation): Section A -- choice of ONE thematic study from three long-run Britain options, four compulsory questions, 40 marks; Section B -- choice of ONE British depth study (incl. historic environment) from four options, four compulsory questions, 40 marks. Options are declared at point of entry. First teaching September 2016.',
     assessmentModel: 'linear',
   },
   {
@@ -2093,7 +2113,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification/specification-at-a-glance',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official AQA specification-at-a-glance page. This is AQA\'s updated English Literature B specification for first teaching September 2025 (spec PDF dated 21 Oct 2025), first A-level exams 2027 per the page\'s own banner; firstAssessment is recorded as 2027. Linear. Paper 1 (Literary genres -- choice of Option 1A \'Aspects of tragedy\' or Option 1B \'Aspects of comedy\'; one Shakespeare text, a second drama text, and one further text, one of which pre-1900): 2h30, closed book, 75marks, 40% of A-level -- Section A Shakespeare passage-based question (25), Section B Shakespeare essay (25), Section C texts-linking essay (25). Paper 2 (Texts and genres -- choice of Option 2A \'Elements of crime writing\' or Option 2B \'Elements of political and social protest writing\'; one post-2000 prose text, one poetry text, one further text (one pre-1900), plus an unseen passage): 3h, open book, 75marks, 40% of A-level -- Section A unseen-passage question (25), Section B set-text essay (25), Section C texts-connecting essay (25). Non-exam assessment (two 1,250-1,500 word essays on two texts informed by the Critical Anthology, one of which may be re-creative with commentary): 50marks/20% of A-level, teacher-assessed and AQA-moderated. Total 200 marks. AQA\'s own syllabuses.ts-recorded title for this combination is \'English Literature B (7716/7717)\'; this record is specifically the A-level (7717), not the AS (7716).',
+    notes: 'Directly confirmed against the official AQA specification-at-a-glance page. This is AQA\'s updated English Literature B specification for first teaching September 2025 (spec PDF dated 21 Oct 2025), first A-level exams 2027 per the page\'s own banner; firstAssessment is recorded as 2027. Linear. Paper 1 (Literary genres -- choice of Option 1A \'Aspects of tragedy\' or Option 1B \'Aspects of comedy\'; one Shakespeare text, a second drama text, and one further text, one of which pre-1900): 2h30, closed book, 75marks, 40% of A-level -- Section A Shakespeare passage-based question (25), Section B Shakespeare essay (25), Section C texts-linking essay (25). Paper 2 (Texts and genres -- choice of Option 2A \'Elements of crime writing\' or Option 2B \'Elements of political and social protest writing\'; one post-2000 prose text, one poetry text, one further text (one pre-1900), plus an unseen passage): 3h, open book, 75marks, 40% of A-level -- Section A unseen-passage question (25), Section B set-text essay (25), Section C texts-connecting essay (25). Non-exam assessment (two 1,250-1,500 word essays on two texts informed by the Critical Anthology, one of which may be re-creative with commentary): 50marks/20% of A-level, teacher-assessed and AQA-moderated. Total 200 marks. AQA\'s own title for this combination, as recorded on this site, is \'English Literature B (7716/7717)\'; this record is specifically the A-level (7717), not the AS (7716).',
     assessmentModel: 'linear',
   },
   {
@@ -2113,7 +2133,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.aqa.org.uk/subjects/business/a-level/business-7132/specification/specification-at-a-glance',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official AQA specification-at-a-glance page: linear, not tiered, three compulsory written papers, each 2h/100marks/33⅓% (recorded as 33.34% on the third paper so the total sums to exactly 100), each drawing on all ten content sections. Paper 1 (Business 1): Section A 15 MCQs (15 marks), Section B short-answer (35 marks), Sections C/D one essay each from a choice of two (25 marks each). Paper 2 (Business 2): three compulsory data-response questions, each approx. 33 marks, each with three or four parts. Paper 3 (Business 3): one compulsory case study followed by approx. six questions. Total 300 marks. AQA\'s own subject page carries a live banner stating this specification is \'outgoing\' -- a replacement (7138) has been accredited for first teaching September 2026, but 7132 remains the current, correct code for the site\'s matrix.ts/syllabuses.ts entry and continues to be examined for cohorts already partway through, through summer 2027; recorded here as current (with relatedCode 7138) because 7138\'s own first-teaching date, September 2026, has not yet arrived as of this record\'s verification date -- 7132 remains what every enrolling and continuing student actually follows today. First teaching September 2023, first A-level assessment June 2025, final A-level assessment June 2027.',
+    notes: 'Directly confirmed against the official AQA specification-at-a-glance page: linear, not tiered, three compulsory written papers, each 2h/100marks/33⅓% (recorded as 33.34% on the third paper so the total sums to exactly 100), each drawing on all ten content sections. Paper 1 (Business 1): Section A 15 MCQs (15 marks), Section B short-answer (35 marks), Sections C/D one essay each from a choice of two (25 marks each). Paper 2 (Business 2): three compulsory data-response questions, each approx. 33 marks, each with three or four parts. Paper 3 (Business 3): one compulsory case study followed by approx. six questions. Total 300 marks. AQA\'s own subject page carries a live banner stating this specification is \'outgoing\' -- a replacement (7138) has been accredited for first teaching September 2026, but 7132 remains the current, correct code for this site\'s records and continues to be examined for cohorts already partway through, through summer 2027; recorded here as current (with relatedCode 7138) because 7138\'s own first-teaching date, September 2026, has not yet arrived as of this record\'s verification date -- 7132 remains what every enrolling and continuing student actually follows today. First teaching September 2023, first A-level assessment June 2025, final A-level assessment June 2027.',
     assessmentModel: 'linear',
   },
   {
@@ -2132,7 +2152,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7131/specification/specification-at-a-glance',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official AQA specification-at-a-glance page: linear, not tiered, two compulsory written papers, each 1h30/80marks/50% of AS, both required for the award. Paper 1 (Business 1): Section A 10 MCQs (10 marks), Section B short-answer (approx. 20 marks), Section C two data-response stimuli with questions (approx. 25 marks). Paper 2 (Business 2): one compulsory case study, approx. seven questions. Total 160 marks. AQA\'s own subject page carries a live banner stating this specification is \'outgoing\' -- a replacement (7137) has been accredited for first teaching September 2026, but 7131 remains the current, correct code for the site\'s matrix.ts/syllabuses.ts entry and continues to be examined for cohorts already partway through, through summer 2026; recorded here as current (with relatedCode 7137) because 7137\'s own first-teaching date, September 2026, has not yet arrived as of this record\'s verification date -- 7131 remains what every enrolling and continuing student actually follows today. First teaching September 2023, first AS assessment June 2024, final AS assessment June 2026.',
+    notes: 'Directly confirmed against the official AQA specification-at-a-glance page: linear, not tiered, two compulsory written papers, each 1h30/80marks/50% of AS, both required for the award. Paper 1 (Business 1): Section A 10 MCQs (10 marks), Section B short-answer (approx. 20 marks), Section C two data-response stimuli with questions (approx. 25 marks). Paper 2 (Business 2): one compulsory case study, approx. seven questions. Total 160 marks. AQA\'s own subject page carries a live banner stating this specification is \'outgoing\' -- a replacement (7137) has been accredited for first teaching September 2026, but 7131 remains the current, correct code for this site\'s records and continues to be examined for cohorts already partway through, through summer 2026; recorded here as current (with relatedCode 7137) because 7137\'s own first-teaching date, September 2026, has not yet arrived as of this record\'s verification date -- 7131 remains what every enrolling and continuing student actually follows today. First teaching September 2023, first AS assessment June 2024, final AS assessment June 2026.',
     assessmentModel: 'linear',
   },
   {
@@ -2392,7 +2412,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-mathematics/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section of the board\'s own qualification page: two tiers, Core (grades 1-5) and Extension (grades 4-9); either paper of a tier may assess any part of the specification; scientific calculator allowed throughout. Linear qualification, no coursework. First teaching September 2016, first examined May/June 2018, per this dataset\'s syllabuses.ts entry (WS4, verified 2026-08-18).',
+    notes: 'Directly confirmed against the official live "Assessment" section of the board\'s own qualification page: two tiers, Core (grades 1-5) and Extension (grades 4-9); either paper of a tier may assess any part of the specification; scientific calculator allowed throughout. Linear qualification, no coursework. First teaching September 2016, first examined May/June 2018.',
     assessmentModel: 'linear',
   },
   {
@@ -2412,7 +2432,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-mathematics/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four units. Two AS units (P1, PSM1) each worth 50% of AS-level/20% of A-level; one compulsory A2 unit (P2, 37.5% of A-level); and a final A2 unit chosen between Statistics (S2) or Mechanics (M2), each worth 22.5% of A-level, modeled here with alternativeGroup since the two options are mutually exclusive and equally weighted. Units resittable any number of times, best result counts. First teaching September 2017; first AS exams May/June 2018; first A-level exams May/June 2019 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four units. Two AS units (P1, PSM1) each worth 50% of AS-level/20% of A-level; one compulsory A2 unit (P2, 37.5% of A-level); and a final A2 unit chosen between Statistics (S2) or Mechanics (M2), each worth 22.5% of A-level, modeled here with alternativeGroup since the two options are mutually exclusive and equally weighted. Units resittable any number of times, best result counts. First teaching September 2017; first AS exams May/June 2018; first A-level exams May/June 2019.',
     assessmentModel: 'modular',
   },
   {
@@ -2429,7 +2449,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-computer-science/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted papers, no coursework. Paper 1 is an on-screen programming exam set against a pre-released skeleton program, available in a choice of C#, Python 3 or Visual Basic. The page also notes exams for this specification now take place in May/June only, with no November series from 2026. First teaching September 2017, first examined May/June 2019 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted papers, no coursework. Paper 1 is an on-screen programming exam set against a pre-released skeleton program, available in a choice of C#, Python 3 or Visual Basic. The page also notes exams for this specification now take place in May/June only, with no November series from 2026. First teaching September 2017, first examined May/June 2019.',
     assessmentModel: 'linear',
   },
   {
@@ -2448,7 +2468,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-computer-science/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers. AS papers each 50% of AS-level/20% of A-level; A-level papers each 30% of A-level. This is a recently revised specification: first teaching September 2024, first International AS exams May/June 2025, first International A-level exams May/June 2026 (per syllabuses.ts, WS4) -- already examined at both levels as of this record\'s verification date.',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers. AS papers each 50% of AS-level/20% of A-level; A-level papers each 30% of A-level. This is a recently revised specification: first teaching September 2024, first International AS exams May/June 2025, first International A-level exams May/June 2026 -- already examined at both levels as of this record\'s verification date.',
     assessmentModel: 'modular',
   },
   {
@@ -2465,7 +2485,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-biology/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification designed to be taken over two years, two equally weighted papers, no separate practical exam (practical knowledge assessed through the written papers). The page also notes the Prohibited Combinations rule shared by all four OxfordAQA International GCSE Science specifications: a centre cannot enter a student for both a separate Science and Combined Science in the same series. First teaching September 2016, first examined May/June 2018 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification designed to be taken over two years, two equally weighted papers, no separate practical exam (practical knowledge assessed through the written papers). The page also notes the Prohibited Combinations rule shared by all four OxfordAQA International GCSE Science specifications: a centre cannot enter a student for both a separate Science and Combined Science in the same series. First teaching September 2016, first examined May/June 2018.',
     assessmentModel: 'linear',
   },
   {
@@ -2485,7 +2505,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-biology/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of five equally weighted papers (20% of A-level each). Students complete ten required practical activities, assessed through the written papers rather than a separate practical exam. AS units cashable as a standalone AS award or carried forward, unlimited resits, best result counts. First teaching September 2016; first AS exams May/June 2017; first A-level exams May/June 2018 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of five equally weighted papers (20% of A-level each). Students complete ten required practical activities, assessed through the written papers rather than a separate practical exam. AS units cashable as a standalone AS award or carried forward, unlimited resits, best result counts. First teaching September 2016; first AS exams May/June 2017; first A-level exams May/June 2018.',
     assessmentModel: 'modular',
   },
   {
@@ -2502,7 +2522,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-chemistry/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification taken over two years, two equally weighted papers, no separate practical exam. Subject to the same Prohibited Combinations rule (no separate Science alongside Combined Science in the same series) stated on all four OxfordAQA International GCSE Science pages. First teaching September 2016, first examined May/June 2018 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification taken over two years, two equally weighted papers, no separate practical exam. Subject to the same Prohibited Combinations rule (no separate Science alongside Combined Science in the same series) stated on all four OxfordAQA International GCSE Science pages. First teaching September 2016, first examined May/June 2018.',
     assessmentModel: 'linear',
   },
   {
@@ -2522,7 +2542,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-chemistry/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of five papers -- two AS papers at 20% of A-level each, two A2 papers at 21% each, and a dedicated Practical and Synoptic paper at 18%, summing to 100%. Ten required practicals are assessed through the written papers rather than a hands-on exam. A later first-teaching cohort than OxfordAQA\'s own Biology and Physics AS/A-level: first teaching September 2019; first AS and A-level exams May/June 2020 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of five papers -- two AS papers at 20% of A-level each, two A2 papers at 21% each, and a dedicated Practical and Synoptic paper at 18%, summing to 100%. Ten required practicals are assessed through the written papers rather than a hands-on exam. A later first-teaching cohort than OxfordAQA\'s own Biology and Physics AS/A-level: first teaching September 2019; first AS and A-level exams May/June 2020.',
     assessmentModel: 'modular',
   },
   {
@@ -2539,7 +2559,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-physics/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification taken over two years, two equally weighted papers, no separate practical exam. Subject to the same Prohibited Combinations rule stated on all four OxfordAQA International GCSE Science pages. First teaching September 2016, first examined May/June 2018 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification taken over two years, two equally weighted papers, no separate practical exam. Subject to the same Prohibited Combinations rule stated on all four OxfordAQA International GCSE Science pages. First teaching September 2016, first examined May/June 2018.',
     assessmentModel: 'linear',
   },
   {
@@ -2559,7 +2579,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-physics/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of five equally weighted papers (20% of A-level each). Ten required practicals, assessed through the main exam papers rather than a hands-on exam; Paper 3 (Physics in Practice) can draw on any part of the specification. First teaching September 2019; first AS and A-level exams May/June 2020 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of five equally weighted papers (20% of A-level each). Ten required practicals, assessed through the main exam papers rather than a hands-on exam; Paper 3 (Physics in Practice) can draw on any part of the specification. First teaching September 2019; first AS and A-level exams May/June 2020.',
     assessmentModel: 'modular',
   },
   {
@@ -2576,7 +2596,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-accounting/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers, no coursework. A recently launched specification: first teaching September 2024, first examined May/June 2026 (per syllabuses.ts, WS4) -- already examined as of this record\'s verification date.',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers, no coursework. A recently launched specification: first teaching September 2024, first examined May/June 2026 -- already examined as of this record\'s verification date.',
     assessmentModel: 'linear',
   },
   {
@@ -2595,7 +2615,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-accounting/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers over the AS/A-level teaching period; AS papers each 50% of AS-level/20% of A-level, A2 papers each 30% of A-level. A recently launched specification: first teaching September 2024, first AS exams May/June 2025, first A-level exams May/June 2026 (per syllabuses.ts, WS4) -- already examined at both levels as of this record\'s verification date.',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers over the AS/A-level teaching period; AS papers each 50% of AS-level/20% of A-level, A2 papers each 30% of A-level. A recently launched specification: first teaching September 2024, first AS exams May/June 2025, first A-level exams May/June 2026 -- already examined at both levels as of this record\'s verification date.',
     assessmentModel: 'modular',
   },
   {
@@ -2612,7 +2632,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-business/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers, no coursework. First teaching September 2020, first examined May/June 2022 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers, no coursework. First teaching September 2020, first examined May/June 2022.',
     assessmentModel: 'linear',
   },
   {
@@ -2634,7 +2654,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-business/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section of the retained legacy qualification page, which now states only the wind-down window rather than the original first-assessment date: "the final May/June exams for AS will be in 2026, and for A2 in 2027. Re-sits will be available for AS in January 2027, and for A2 in January 2028. There will be no exams for this specification (9625) after January 2028." firstAssessment here (2020) is inferred from this specification\'s firstTeaching (September 2018, per syllabuses.ts WS4) plus the standard two-year AS/A2 cycle observed consistently across every other OxfordAQA modular A-level in this dataset, since the source page itself no longer restates the original first-exam year. This remains the operative (\'current\') specification as of this record\'s verification date (2026-08-28) because its intended replacement, 9725, has not yet reached its own first-teaching date (September 2026) -- see that record\'s own notes. AS teaching under 9625 has already effectively concluded (its final May/June AS exam series was 2026, already past), leaving only A2 teaching/assessment and resits live; once 9725\'s September 2026 first teaching begins this record should be re-classified \'legacy-teach-out\'. Four papers: two AS papers at 20% of A-level each, two A2 papers at 30% each.',
+    notes: 'Directly confirmed against the official live "Assessment" section of the retained legacy qualification page, which now states only the wind-down window rather than the original first-assessment date: "the final May/June exams for AS will be in 2026, and for A2 in 2027. Re-sits will be available for AS in January 2027, and for A2 in January 2028. There will be no exams for this specification (9625) after January 2028." firstAssessment here (2020) is inferred from this specification\'s first-teaching date (September 2018) plus the standard two-year AS/A2 cycle observed consistently across every other OxfordAQA modular A-level in this dataset, since the source page itself no longer restates the original first-exam year. This remains the operative (\'current\') specification as of this record\'s verification date (2026-08-28) because its intended replacement, 9725, has not yet reached its own first-teaching date (September 2026) -- see that record\'s own notes. AS teaching under 9625 has already effectively concluded (its final May/June AS exam series was 2026, already past), leaving only A2 teaching/assessment and resits live; once 9725\'s September 2026 first teaching begins this record should be re-classified \'legacy-teach-out\'. Four papers: two AS papers at 20% of A-level each, two A2 papers at 30% each.',
     assessmentModel: 'modular',
   },
   {
@@ -2672,7 +2692,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-economics/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers combining multiple choice and essay-style questions, no coursework. First teaching September 2023, first examined May/June 2025 (per syllabuses.ts, WS4) -- already examined as of this record\'s verification date.',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers combining multiple choice and essay-style questions, no coursework. First teaching September 2023, first examined May/June 2025 -- already examined as of this record\'s verification date.',
     assessmentModel: 'linear',
   },
   {
@@ -2691,7 +2711,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-economics/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers; AS papers each 50% of AS-level/20% of A-level, A2 papers each 30% of A-level. AS content contributes 40% of final marks and A2 the remaining 60%, though the underlying paper weightings shown here (20/20/30/30) are what the page\'s Assessment section itself states. First teaching September 2020; first AS exams May/June 2021; first A-level exams May/June 2022 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers; AS papers each 50% of AS-level/20% of A-level, A2 papers each 30% of A-level. AS content contributes 40% of final marks and A2 the remaining 60%, though the underlying paper weightings shown here (20/20/30/30) are what the page\'s Assessment section itself states. First teaching September 2020; first AS exams May/June 2021; first A-level exams May/June 2022.',
     assessmentModel: 'modular',
   },
   {
@@ -2709,7 +2729,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-english-language/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a linear qualification with two routes. All candidates sit Paper 1 (Literary Non-Fiction and Composition, 60% of GCSE). The remaining 40% is EITHER Route A\'s Paper 2 (Source-Based Reading and Directed Writing, an exam) OR Route B\'s Non-Exam Assessment (a written task and commentary, teacher assessed and AQA moderated) -- modeled here with routeGroup, mirroring Cambridge IGCSE Literature in English 0475\'s compulsory-component-plus-routes pattern. An optional, separately certificated Speaking and Listening endorsement also exists but carries no marks toward this qualification\'s grade and is not modeled as a component. First teaching September 2016, first examined May/June 2018 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a linear qualification with two routes. All candidates sit Paper 1 (Literary Non-Fiction and Composition, 60% of GCSE). The remaining 40% is EITHER Route A\'s Paper 2 (Source-Based Reading and Directed Writing, an exam) OR Route B\'s Non-Exam Assessment (a written task and commentary, teacher assessed and AQA moderated) -- modeled here with routeGroup, mirroring Cambridge IGCSE Literature in English 0475\'s compulsory-component-plus-routes pattern. An optional, separately certificated Speaking and Listening endorsement also exists but carries no marks toward this qualification\'s grade and is not modeled as a component. First teaching September 2016, first examined May/June 2018.',
     assessmentModel: 'mixed',
   },
   {
@@ -2729,7 +2749,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-english-language/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers with two routes for the final unit. Two AS papers (20% of A-level each) and one compulsory A2 paper (Language Variation, 30%) are followed by EITHER an exam-based Language Exploration paper (Route A) OR a Non-Exam Assessment language investigation (Route B), each also 30% -- modeled with routeGroup. First teaching September 2017; first AS exams May/June 2018; first A-level exams May/June 2019 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers with two routes for the final unit. Two AS papers (20% of A-level each) and one compulsory A2 paper (Language Variation, 30%) are followed by EITHER an exam-based Language Exploration paper (Route A) OR a Non-Exam Assessment language investigation (Route B), each also 30% -- modeled with routeGroup. First teaching September 2017; first AS exams May/June 2018; first A-level exams May/June 2019.',
     assessmentModel: 'mixed',
   },
   {
@@ -2748,7 +2768,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-english-literature/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a linear qualification with two routes, both sitting the compulsory Paper 1 (Prose and Drama, 40% of GCSE). Route A adds Paper 2a (Poetry and Unseen Texts, an open-book exam, 60%); Route B instead adds the shorter Paper 2b (Poetry, 40%) together with a Non-Exam Assessment (one extended response to a prose text of the student\'s choice, teacher assessed and AQA moderated, 20%) -- modeled with routeGroup as two components sharing the same route tag. This specification is being revised for first teaching September 2026 with a refreshed set-text, poetry and short-story list (see the board\'s summary-of-changes document), but the board\'s own page states the paper structure, timings, marks and weightings shown here are unchanged by the revision -- only the prescribed texts differ -- so a single record covers both the current cohort (final May/June exams 2027, final resits November 2027) and the revised-text-list cohort from September 2026. First teaching of this assessment structure September 2016, first examined May/June 2018 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a linear qualification with two routes, both sitting the compulsory Paper 1 (Prose and Drama, 40% of GCSE). Route A adds Paper 2a (Poetry and Unseen Texts, an open-book exam, 60%); Route B instead adds the shorter Paper 2b (Poetry, 40%) together with a Non-Exam Assessment (one extended response to a prose text of the student\'s choice, teacher assessed and AQA moderated, 20%) -- modeled with routeGroup as two components sharing the same route tag. This specification is being revised for first teaching September 2026 with a refreshed set-text, poetry and short-story list (see the board\'s summary-of-changes document), but the board\'s own page states the paper structure, timings, marks and weightings shown here are unchanged by the revision -- only the prescribed texts differ -- so a single record covers both the current cohort (final May/June exams 2027, final resits November 2027) and the revised-text-list cohort from September 2026. First teaching of this assessment structure September 2016, first examined May/June 2018.',
     assessmentModel: 'component-based',
   },
   {
@@ -2768,7 +2788,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-english-literature/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers with two routes for the final unit, structurally identical to English Language 9670. Two AS papers (20% of A-level each) and one compulsory A2 paper (Elements of Crime and Mystery, 30%) are followed by EITHER an exam-based Literary Representations paper (Route A) OR a two-essay Non-Exam Assessment (Route B), each also 30%. The specification is being revised for first teaching from 2027 with a refreshed set-text list; the board\'s own page states the paper structure, timings, marks and weightings are unchanged by this revision, so one record covers both text-list eras. Flagging a discrepancy on the source page itself, disclosed rather than silently resolved: the introductory summary states the current (pre-revision) text list has "final AS exams in May/June 2027, final A2 exams in May/June 2028," while the page\'s own "Syllabus summary and text list" section states, for the same current cohort, "final AS exams in January 2028, final A2 exams in October/November 2028" -- these two statements on the same live page do not agree, and neither could be confirmed as the typo without contacting the board directly. First teaching of this assessment structure September 2017; first AS exams May/June 2018; first A-level exams May/June 2019 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers with two routes for the final unit, structurally identical to English Language 9670. Two AS papers (20% of A-level each) and one compulsory A2 paper (Elements of Crime and Mystery, 30%) are followed by EITHER an exam-based Literary Representations paper (Route A) OR a two-essay Non-Exam Assessment (Route B), each also 30%. The specification is being revised for first teaching from 2027 with a refreshed set-text list; the board\'s own page states the paper structure, timings, marks and weightings are unchanged by this revision, so one record covers both text-list eras. Flagging a discrepancy on the source page itself, disclosed rather than silently resolved: the introductory summary states the current (pre-revision) text list has "final AS exams in May/June 2027, final A2 exams in May/June 2028," while the page\'s own "Syllabus summary and text list" section states, for the same current cohort, "final AS exams in January 2028, final A2 exams in October/November 2028" -- these two statements on the same live page do not agree, and neither could be confirmed as the typo without contacting the board directly. First teaching of this assessment structure September 2017; first AS exams May/June 2018; first A-level exams May/June 2019.',
     assessmentModel: 'mixed',
   },
   {
@@ -2786,7 +2806,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-geography/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, three papers weighted 36/36/28, no coursework. The page also notes exams for this specification now take place in May/June only, with no November series from 2026. First teaching September 2018, first examined May/June 2020 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, three papers weighted 36/36/28, no coursework. The page also notes exams for this specification now take place in May/June only, with no November series from 2026. First teaching September 2018, first examined May/June 2020.',
     assessmentModel: 'linear',
   },
   {
@@ -2807,7 +2827,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-geography/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of five papers (six components, since Paper 1a/1b are alternative options within the same paper slot, modeled with alternativeGroup). Every component is 20% of A-level. Flagging an apparent typo on the source page, disclosed rather than silently corrected: the AS Paper 2 line reads "1 hour 30 minutes / 80 marks / 50% of GCSE, 20% of A-level" -- every other AS paper on this and every other OxfordAQA A-level page in this dataset reads "50% of AS-level, 20% of A-level," and Paper 2 is explicitly an AS (not GCSE) component, so "50% of GCSE" is almost certainly a copy-paste error for "50% of AS-level." The unambiguous "20% of A-level" figure (used here) is unaffected either way. First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of five papers (six components, since Paper 1a/1b are alternative options within the same paper slot, modeled with alternativeGroup). Every component is 20% of A-level. Flagging an apparent typo on the source page, disclosed rather than silently corrected: the AS Paper 2 line reads "1 hour 30 minutes / 80 marks / 50% of GCSE, 20% of A-level" -- every other AS paper on this and every other OxfordAQA A-level page in this dataset reads "50% of AS-level, 20% of A-level," and Paper 2 is explicitly an AS (not GCSE) component, so "50% of GCSE" is almost certainly a copy-paste error for "50% of AS-level." The unambiguous "20% of A-level" figure (used here) is unaffected either way. First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020.',
     assessmentModel: 'modular',
   },
   {
@@ -2824,7 +2844,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-psychology/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers, no coursework; individual components may not be re-sat, but the whole qualification may be re-taken any number of times. A recently launched specification: first teaching September 2023, first examined May/June 2025 (per syllabuses.ts, WS4) -- already examined as of this record\'s verification date.',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers, no coursework; individual components may not be re-sat, but the whole qualification may be re-taken any number of times. A recently launched specification: first teaching September 2023, first examined May/June 2025 -- already examined as of this record\'s verification date.',
     assessmentModel: 'linear',
   },
   {
@@ -2843,7 +2863,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-psychology/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers; AS papers each 50% of AS-level/20% of A-level, A2 papers each 30% of A-level. Units resittable any number of times, best result counts. First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020 (per syllabuses.ts, WS4).',
+    notes: 'Directly confirmed against the official live "Assessment" section: a modular qualification of four papers; AS papers each 50% of AS-level/20% of A-level, A2 papers each 30% of A-level. Units resittable any number of times, best result counts. First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020.',
     assessmentModel: 'modular',
   },
   {
@@ -2914,7 +2934,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-islamiat/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers, no coursework; both papers require study of the related Qur\'an and Hadith passages set out in the specification. OxfordAQA\'s own spelling of the qualification is "Islamiat." First examined May/June 2026 onwards, per syllabuses.ts (WS4) -- already examined as of this record\'s verification date. OxfordAQA does not offer Islamiat/Islamiyat at AS or A-level.',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted written papers, no coursework; both papers require study of the related Qur\'an and Hadith passages set out in the specification. OxfordAQA\'s own spelling of the qualification is "Islamiat." First examined May/June 2026 onwards -- already examined as of this record\'s verification date. OxfordAQA does not offer Islamiat/Islamiyat at AS or A-level.',
     assessmentModel: 'linear',
   },
   {
@@ -2931,7 +2951,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.oxfordaqa.com/qualifications/international-gcse-urdu/',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted papers (Reading, including English-to-Urdu translation, and Writing), no coursework. OxfordAQA\'s official title for this qualification is simply "Urdu," not "Urdu Language"; Marlbridge\'s matrix uses the subjectSlug urdu-language. First teaching September 2024, first examined June 2026 onwards, per syllabuses.ts (WS4) -- already examined as of this record\'s verification date. OxfordAQA does not offer Urdu at AS or A-level.',
+    notes: 'Directly confirmed against the official live "Assessment" section: linear qualification, two equally weighted papers (Reading, including English-to-Urdu translation, and Writing), no coursework. OxfordAQA\'s official title for this qualification is simply "Urdu," not "Urdu Language"; Marlbridge\'s matrix uses the subjectSlug urdu-language. First teaching September 2024, first examined June 2026 onwards -- already examined as of this record\'s verification date. OxfordAQA does not offer Urdu at AS or A-level.',
     assessmentModel: 'linear',
   },
   {
@@ -2948,7 +2968,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification/specification-at-a-glance',
     verifiedOn: '2026-08-28',
-    notes: 'Directly confirmed against the official live \'Specification at a glance\' section: two equally weighted written papers, 1 hour 45 minutes / 100 marks / 50% each, no coursework. Paper 1 covers the sociology of families and education; Paper 2 covers the sociology of crime and deviance and social stratification; both also draw on relevant social theory and methodology content from across the whole course. Linear qualification, first teaching 2017 (per the specification PDF\'s own title), first examined May/June 2019 (per the specification\'s scheme-of-assessment page). This closes the last remaining non-IB NO_ASSESSMENT_RECORD gap in the v2.0 coverage report; a matching syllabuses.ts entry was added alongside this record since none previously existed despite the combination being ACTIVE in matrix.ts since WS5.',
+    notes: 'Directly confirmed against the official live \'Specification at a glance\' section: two equally weighted written papers, 1 hour 45 minutes / 100 marks / 50% each, no coursework. Paper 1 covers the sociology of families and education; Paper 2 covers the sociology of crime and deviance and social stratification; both also draw on relevant social theory and methodology content from across the whole course. Linear qualification, first teaching 2017 (per the specification PDF\'s own title), first examined May/June 2019 (per the specification\'s scheme-of-assessment page).',
     assessmentModel: 'linear',
   },
   {
@@ -2970,7 +2990,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/',
     verifiedOn: '2026-08-28',
-    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (economics-guide.pdf; see docs/decision-log.md D-008). Figures below are read directly from that guide\'s own \'Assessment outline -- SL\' and \'Assessment outline -- HL\' tables (retrieved via the licensed PDF, cross-checked against the syllabus\'s assessment-objectives-to-component mapping in the same document). SL: Paper 1 (one extended-response question from a choice on micro- or macroeconomics, 75min, 25 marks, 30%, no calculator); Paper 2 (data-response question set on the global economy, 105min, 40 marks, 40%, calculator permitted); Internal Assessment (portfolio of three commentaries on published news extracts, no fixed sitting duration, 45 marks, 30%, internally assessed by the teacher and externally moderated by the IB). HL sits the same Paper 1 and Paper 2 (each re-weighted to 20%/30% of the HL total) plus an HL-only Paper 3 (structured, data-based policy paper drawing on the HL extension topics, 105min, 60 marks, 30%, calculator permitted), and the same portfolio Internal Assessment re-weighted to 20%. \'DP Economics\' is used as this record\'s own `code` (there is no separate numeric course code at DP level the way GCSE/A-level boards publish one) to match the matching syllabuses.ts entry added alongside this record. First assessed 2022 per the guide\'s own title page. This is one of only two IB DP subjects (with Physics) where Marlbridge holds a license covering the full guide; the other 19 active IB combinations in matrix.ts remain NO_ASSESSMENT_RECORD because their only legal source -- the freely-public \'subject brief\' PDFs -- gives component time and weighting but never raw marks totals, so a complete, verified record cannot be built for them without either a further license or the board publishing that detail publicly (owner-approved scope decision, 2026-08-28: model the 2 licensed subjects fully now, leave the remaining 19 explicitly deferred rather than estimate or omit silently).',
+    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (economics-guide.pdf). Figures below are read directly from that guide\'s own \'Assessment outline -- SL\' and \'Assessment outline -- HL\' tables (retrieved via the licensed PDF, cross-checked against the syllabus\'s assessment-objectives-to-component mapping in the same document). SL: Paper 1 (one extended-response question from a choice on micro- or macroeconomics, 75min, 25 marks, 30%, no calculator); Paper 2 (data-response question set on the global economy, 105min, 40 marks, 40%, calculator permitted); Internal Assessment (portfolio of three commentaries on published news extracts, no fixed sitting duration, 45 marks, 30%, internally assessed by the teacher and externally moderated by the IB). HL sits the same Paper 1 and Paper 2 (each re-weighted to 20%/30% of the HL total) plus an HL-only Paper 3 (structured, data-based policy paper drawing on the HL extension topics, 105min, 60 marks, 30%, calculator permitted), and the same portfolio Internal Assessment re-weighted to 20%. \'DP Economics\' is used as this record\'s own `code` (there is no separate numeric course code at DP level the way GCSE/A-level boards publish one). First assessed 2022 per the guide\'s own title page. This is one of only two IB DP subjects (with Physics) where Marlbridge holds a license covering the full guide; the other 19 active IB subject combinations remain without a published assessment record because their only legal source -- the freely-public \'subject brief\' PDFs -- gives component time and weighting but never raw marks totals, so a complete, verified record cannot be built for them without either a further license or the board publishing that detail publicly (owner-approved: model the 2 licensed subjects fully now, leave the remaining 19 explicitly deferred rather than estimate or omit silently).',
     assessmentModel: 'component-based',
   },
   {
@@ -2991,7 +3011,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
     verifiedOn: '2026-08-28',
-    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (physics-guide.pdf; see docs/decision-log.md D-008). The guide\'s own \'Assessment outline -- SL/HL\' tables (pages 62-63 of 65) could not be fully extracted through available fetch tooling in this session -- two independent mirrors of the identical PDF (ibo.org direct and a bradfieldcollege.org.uk copy) both truncated at the same point, before reaching the assessment section, which is a tool-side extraction cap rather than a source problem (confirmed by matching truncation length on unrelated hosts). The component structure, durations and weightings below are taken from that guide\'s earlier, successfully-extracted \'Curriculum model overview\' and assessment-summary prose, and the exact mark totals were cross-verified against a current (checked 2026-08-28), actively-maintained school IB Physics resource (Concordian International School Thailand LibGuide, \'External assessment\' and \'Internal assessment\' pages) that transcribes the same official table in detail; both sources agree. SL: Paper 1 (multiple-choice with short data-based questions, 90min, 45 marks, 36%, calculator and data booklet permitted); Paper 2 (short-and-extended-response questions, 90min, 50 marks, 44%, calculator and data booklet permitted); Internal Assessment (individual scientific investigation marked against 4 criteria worth 6 marks each = 24 marks, no fixed sitting duration, 20%, internally assessed and externally moderated). HL sits the same two paper types at greater length and mark total (Paper 1: 120min/60 marks/36%; Paper 2: 150min/90 marks/44%) plus the same-weighted internal-assessment investigation (24 marks, 20%). \'DP Physics\' is used as this record\'s own `code` to match the matching syllabuses.ts entry added alongside this record. First assessed 2025 per the guide\'s own title page -- the most recently first-examined DP science course. This is one of only two IB DP subjects (with Economics) where Marlbridge holds a license covering the full guide; the other 19 active IB combinations in matrix.ts remain NO_ASSESSMENT_RECORD for the same licensing-scope reason recorded on the Economics DP record above (owner-approved scope decision, 2026-08-28).',
+    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (physics-guide.pdf). The guide\'s own \'Assessment outline -- SL/HL\' tables (pages 62-63 of 65) could not be fully extracted through available fetch tooling in this session -- two independent mirrors of the identical PDF (ibo.org direct and a bradfieldcollege.org.uk copy) both truncated at the same point, before reaching the assessment section, which is a tool-side extraction cap rather than a source problem (confirmed by matching truncation length on unrelated hosts). The component structure, durations and weightings below are taken from that guide\'s earlier, successfully-extracted \'Curriculum model overview\' and assessment-summary prose, and the exact mark totals were cross-verified against a current (checked 2026-08-28), actively-maintained school IB Physics resource (Concordian International School Thailand LibGuide, \'External assessment\' and \'Internal assessment\' pages) that transcribes the same official table in detail; both sources agree. SL: Paper 1 (multiple-choice with short data-based questions, 90min, 45 marks, 36%, calculator and data booklet permitted); Paper 2 (short-and-extended-response questions, 90min, 50 marks, 44%, calculator and data booklet permitted); Internal Assessment (individual scientific investigation marked against 4 criteria worth 6 marks each = 24 marks, no fixed sitting duration, 20%, internally assessed and externally moderated). HL sits the same two paper types at greater length and mark total (Paper 1: 120min/60 marks/36%; Paper 2: 150min/90 marks/44%) plus the same-weighted internal-assessment investigation (24 marks, 20%). \'DP Physics\' is used as this record\'s own `code`. First assessed 2025 per the guide\'s own title page -- the most recently first-examined DP science course. This is one of only two IB DP subjects (with Economics) where Marlbridge holds a license covering the full guide; the other 19 active IB subject combinations remain without a published assessment record, for the same licensing-scope reason recorded on the Economics DP record above (owner-approved).',
     assessmentModel: 'component-based',
   },
 ] as const;
