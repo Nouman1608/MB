@@ -165,10 +165,10 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
       <div class="mx-auto mt-8 flex max-w-[var(--container-site)] flex-wrap items-center justify-between gap-4 border-t border-[#22314B] pt-6">
         <a href={enUrl} class="text-[13.5px] underline decoration-gold-500 underline-offset-2 text-on-navy-mute hover:text-white">{nav.backToEnglish}</a>
         <div class="flex flex-wrap items-center gap-4">
-          {/* D-081 -- same reachable Cloudflare Zaraz consent-modal control
-              as the English footer (Footer.astro); this layout keeps its own
-              footer markup (see file header) so it needs its own copy of the
-              control. Wired by the shared listener in ConsentAnalytics.astro. */}
+          {/* Same "Cookie Settings" control as the English footer
+              (Footer.astro); this layout keeps its own footer markup (see file
+              header) so it needs its own copy. Wired by the shared listener in
+              ConsentAnalytics.astro. */}
           <button
             type="button"
             data-open-cookie-settings

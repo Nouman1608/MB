@@ -58,8 +58,8 @@ export interface NavCopy {
   homeLabel: string;
   backToEnglish: string;
   languageNoteSuffix: string;
-  /** D-081 -- label for the footer control that opens Cloudflare Zaraz's
-   * own consent modal (see ConsentAnalytics.astro / Footer.astro). */
+  /** Label for the footer control that reopens this site's consent banner
+   * (see ConsentAnalytics.astro / Footer.astro). */
   cookieSettingsLabel: string;
   primaryNav: readonly NavLink[];
   ctaPrograms: string;
