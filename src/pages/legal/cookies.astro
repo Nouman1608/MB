@@ -4,7 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '18 August 2026';
+const lastUpdated = '30 August 2026';
 ---
 <PageLayout
   translationKey="legal-cookies"
@@ -23,7 +23,7 @@ const lastUpdated = '18 August 2026';
         <h2>Short version</h2>
         <p>
           marlbridge.com is a static site. We use Google Analytics (GA4) to understand how visitors use the
-          site, but only after you accept the cookie banner shown on your first visit — no analytics cookie is
+          site, but only after you accept the cookie banner shown on your first visit -- no analytics cookie is
           set before that, and no analytics request is sent until you click Accept. We do not run advertising
           trackers, and we do not set any cookie of our own outside of that one opt-in analytics choice.
         </p>
@@ -33,7 +33,7 @@ const lastUpdated = '18 August 2026';
           If you accept, Google Analytics sets cookies to distinguish visitors and measure page views, referral
           sources and general usage patterns. We have IP anonymisation enabled. This data is processed by Google
           under its own privacy policy. If you reject or ignore the banner, no Google Analytics cookie is set and
-          no analytics request is sent — your visit isn't measured.
+          no analytics request is sent -- your visit isn't measured.
         </p>
 
         <h2>Cloudflare Turnstile</h2>
@@ -42,6 +42,17 @@ const lastUpdated = '18 August 2026';
           to reduce automated spam. Turnstile may set a short-lived cookie or use similar technology while you
           are completing the form, under Cloudflare's own privacy policy. This runs regardless of your analytics
           choice, because it is necessary for the form to function safely.
+        </p>
+
+        <h2>Cloudflare Zaraz</h2>
+        <p>
+          This site also runs Cloudflare Zaraz, a tag-management tool operated by Cloudflare at the network edge
+          rather than in our own code, with its own separate consent control. As of this writing, that control's
+          own description covers Google Analytics and Microsoft Clarity (a tool that can record how visitors
+          interact with a page, such as scrolling and clicks) -- it defaults to off, and nothing is enabled until
+          you choose otherwise. Because Zaraz is configured separately from the banner above, your choice on one
+          does not automatically carry over to the other. You can open Zaraz's own control at any time via
+          "Cookie Settings" in the footer of this page.
         </p>
 
         <h2>Third-party requests</h2>
@@ -59,10 +70,12 @@ const lastUpdated = '18 August 2026';
 
         <h2>Controlling cookies</h2>
         <p>
-          You can change your analytics choice at any time by clearing your browser's local storage for this
-          site and reloading the page, which brings the consent banner back. Most browsers also let you block or
-          clear cookies and site data in their privacy settings generally — the site will still work, though
-          fonts may fall back to your system default and analytics/Turnstile features may not function.
+          Use "Cookie Settings" in the footer of this page to change your Cloudflare Zaraz choice (Google
+          Analytics / Microsoft Clarity, as described above) at any time. You can separately change your choice
+          for the accept/reject banner by clearing your browser's local storage for this site and reloading the
+          page, which brings that banner back. Most browsers also let you block or clear cookies and site data in
+          their privacy settings generally -- the site will still work, though fonts may fall back to your system
+          default and analytics/Turnstile features may not function.
         </p>
 
         <h2>Contact</h2>
