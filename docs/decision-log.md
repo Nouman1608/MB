@@ -4148,3 +4148,66 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   original YLA11/D-056 discrepancy, is likewise left unedited as a historical snapshot -- this
   entry is the record that the discrepancy it describes has since been resolved.
 - **Status:** resolved.
+
+## D-083 — Post-v2.0 Quality Closure WS9: multi-subject + sibling discount combination is additive (30%), not successive (28%)
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 9 (discounts and
+  FX policy clarity).
+- **What was found:** D-043 (2026-08-26) already recorded that the 20% multi-subject discount and
+  the 10% sibling discount stack for a family qualifying for both, and that decision was
+  implemented (`PRICING_TERMS.discountsStack`). But neither D-043 nor anything published on the
+  site ever stated *how* they combine -- additive (20% + 10% = 30% off) and successive/compounding
+  ((1 − 0.20) × (1 − 0.10) = 28% off) are genuinely different answers, and the gap was real: the
+  pricing page said the discounts "combine" without ever giving a number or a worked example.
+- **Decision:** per this programme's own instruction not to choose the arithmetic without approved
+  business evidence, this was put to the owner directly in this session as a multiple-choice
+  question naming both options with a concrete worked example (3 subjects at the Pakistan IGCSE
+  rate, Rs 19,000/subject/month: Rs 57,000/month before discount → Rs 39,900/month additive vs.
+  Rs 41,040/month successive). **Owner chose additive: the two percentages are added together and
+  applied once (30% off), not applied one after the other to an already-discounted amount.**
+- **Implementation:** `src/data/pricing.ts` now records this explicitly
+  (`PRICING_TERMS.discountCombinationMethod: 'additive'`, with a doc comment giving the exact
+  arithmetic and citing this decision), plus two new helpers --
+  `combinedDiscountPercent()` (sums the two approved percentages, so it can never drift out of
+  sync with them if either is revised) and `discountWorkedExample()` (derives a full worked
+  example from real `REGION_PRICING`/`PRICING_TERMS` data rather than a hard-coded literal). The
+  pricing page's FAQ answer and "Discounts and trial" section now publish the combined percentage
+  and the worked example, in English and all three translated locales (ar/ur/bn) --
+  `docs/business-decisions-register.md` item 2 updated with the same resolution.
+- **Status:** resolved.
+
+## D-084 — Post-v2.0 Quality Closure WS9: FX policy consolidated against the closure brief's checklist; two genuine gaps surfaced, not invented
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 9 (discounts and
+  FX policy clarity).
+- **What was found:** `docs/fx-rate-policy.md` and `src/data/fx-policy.ts` (both from the earlier
+  v1.x WS8 FX-policy work) already covered most of the closure brief's checklist for an FX policy
+  -- authoritative base fees/currency, approved-vs-converted prices, rate source, timestamp,
+  precision/rounding, refresh cadence, and stale-rate behaviour were all already implemented and
+  enforced by `scripts/validate-fx-policy.mjs`'s staleness/drift checks. Checking the existing
+  policy against the brief's full checklist item-by-item surfaced three points that were either
+  not stated explicitly or not recorded at all:
+  1. **Conversion direction** -- implemented correctly in code (`impliedConvertedAmount()` divides
+     a PKR amount by `pkrPerUnit`) but never stated in the plain-language policy doc. Added.
+  2. **Estimate vs. payable price** -- the converted regional prices are, and always have been,
+     the actual payable price (not a disclaimed estimate), but this was never stated explicitly.
+     Added.
+  3. **Responsible approver** and **bank/wire-transfer fee treatment** -- genuinely not recorded
+     anywhere. Per this workstream's explicit instruction not to invent commercial terms, these
+     are NOT answered here. A reasonable default (owner-as-approver, matching every other pricing
+     decision in this log) is proposed but explicitly marked unconfirmed in
+     `docs/fx-rate-policy.md`'s new "Policy at a glance" table, and both are added as new open
+     items (7 and 8) in `docs/business-decisions-register.md` for the owner to resolve.
+  4. **Quotation-fixing point** ("when does a shown price become the fixed price for a family?")
+     is likewise not a separately recorded policy -- `docs/fx-rate-policy.md` states the current
+     de facto behaviour (whatever `ONE_TO_ONE_PRICING`/`REGION_PRICING` currently publish is what
+     is billed, per the existing monthly-billing terms) as a reading of existing behaviour, not a
+     newly confirmed policy, since it was not separately put to the owner.
+- **What was NOT done:** no FX-policy code changed (the staleness/drift mechanism, base rates, and
+  published converted prices are all unchanged) -- this was a documentation consolidation pass
+  only, closing the gap between what the brief asks an FX policy to cover and what was already
+  implemented versus merely undocumented versus genuinely unrecorded.
+- **Status:** consolidated; two items remain open for the owner (business-decisions-register.md
+  items 7 and 8).

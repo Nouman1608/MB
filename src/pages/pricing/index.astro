@@ -7,8 +7,11 @@ import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
 import {
   REGION_PRICING, PRICING_TERMS, PRICING_VERIFIED_DATE, formatFee, IB_PRICING,
-  ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS,
+  ONE_TO_ONE_PRICING, ONE_TO_ONE_TERMS, combinedDiscountPercent, discountWorkedExample,
 } from '../../data/pricing';
+
+const combinedPercent = combinedDiscountPercent();
+const example = discountWorkedExample();
 
 const faqs = [
   {
@@ -17,7 +20,7 @@ const faqs = [
   },
   {
     question: 'Are there discounts for multiple subjects or siblings?',
-    answer: `Yes. A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects taken together, and a ${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount applies for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled at the same time. These two discounts combine if a family qualifies for both. Both apply to group classes only, not to one-to-one tuition.`,
+    answer: `Yes. A ${PRICING_TERMS.multiSubjectDiscount.percentOff}% discount applies for ${PRICING_TERMS.multiSubjectDiscount.minSubjects} or more subjects taken together, and a ${PRICING_TERMS.siblingDiscount.percentOff}% sibling discount applies for up to ${PRICING_TERMS.siblingDiscount.maxSiblings} siblings enrolled at the same time. These two discounts combine if a family qualifies for both: they are added together (${PRICING_TERMS.multiSubjectDiscount.percentOff}% + ${PRICING_TERMS.siblingDiscount.percentOff}% = ${combinedPercent}% off in total), not applied one after the other. For example, ${example.subjectCount} subjects in ${example.region} at ${formatFee(example.perSubject, example.currency)} ${example.currency}/subject/month comes to ${formatFee(example.beforeDiscount, example.currency)} ${example.currency}/month before any discount; with both discounts applied, that becomes ${formatFee(example.afterDiscount, example.currency)} ${example.currency}/month (${combinedPercent}% off). Both discounts apply to group classes only, not to one-to-one tuition.`,
   },
   {
     question: 'How long are classes, and how often?',
@@ -144,7 +147,7 @@ const faq = faqNode(faqs);
   <Section surface="white" border>
     <Container>
       <h2 class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Discounts and trial</h2>
-      <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">The multi-subject and sibling discounts below combine if you qualify for both, and apply to group classes only.</p>
+      <p class="m-0 mb-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">The multi-subject and sibling discounts below combine if you qualify for both -- added together, not applied one after the other -- and apply to group classes only.</p>
       <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-3">
         <li class="m-0 rounded-sm border border-rule bg-white p-6">
           <p class="m-0 mb-2 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Multi-subject</p>
@@ -159,6 +162,9 @@ const faq = faqNode(faqs);
           <p class="m-0 text-[17px] text-ink">{PRICING_TERMS.freeTrial}</p>
         </li>
       </ul>
+      <p class="m-0 mt-6 max-w-[62ch] text-[15.5px] leading-relaxed text-ink-mute">
+        <strong class="font-semibold text-ink">Qualify for both?</strong> The two discounts add together rather than applying one after the other. For example, {example.subjectCount} subjects in {example.region} at {formatFee(example.perSubject, example.currency)} {example.currency}/subject/month is {formatFee(example.beforeDiscount, example.currency)} {example.currency}/month before any discount. With both discounts ({combinedPercent}% combined), that becomes {formatFee(example.afterDiscount, example.currency)} {example.currency}/month.
+      </p>
     </Container>
   </Section>
 

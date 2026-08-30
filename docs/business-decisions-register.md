@@ -66,6 +66,25 @@ classes only, never one-to-one. Implemented in `src/data/pricing.ts`
 (`PRICING_TERMS.discountsStack`) and surfaced in the pricing page's FAQ and
 the "Discounts and trial" section.
 
+**Follow-up, resolved (2026-08-30, Post-v2.0 Quality Closure WS9):** the fact
+that the two discounts stack was recorded above, but the exact arithmetic
+for a family qualifying for both was not — additive (20% + 10% = 30% off)
+and successive/compounding ((1-0.20)×(1-0.10) = 28% off) give different
+answers, and nothing on the site or in this register said which applies.
+Per the programme brief's own instruction not to choose the arithmetic
+without approved evidence, this was put to the owner directly as a
+multiple-choice question with a worked example (3 subjects at the Pakistan
+IGCSE rate, Rs 19,000/subject/month). **Owner answered: additive — the two
+percentages are added together (30% off), not applied successively
+(28%).** Implemented in `src/data/pricing.ts`
+(`PRICING_TERMS.discountCombinationMethod`, plus the new
+`combinedDiscountPercent()`/`discountWorkedExample()` helpers so the
+published example is always computed from the live discount percentages
+and fee data, never restated as a separate literal) and published as a
+worked example on the pricing page's FAQ and "Discounts and trial" section,
+in English and all three translated locales (ar/ur/bn). See
+`docs/decision-log.md` D-083.
+
 ## 3. Class duration and frequency
 
 **Where it surfaces:** pricing is stated per subject/month, but no page
@@ -118,7 +137,41 @@ rate is the only cost. Implemented in `src/data/pricing.ts`
 (`PRICING_TERMS.paymentMethods`, `PRICING_TERMS.enrolmentFee`) and a new
 pricing-page FAQ entry.
 
-## 6. www.marlbridge.com — minor recommendation only (re-verified fixed since D-033)
+## 7. FX policy — responsible approver for refreshes/reprices
+
+**Where it surfaces:** `docs/fx-rate-policy.md` (consolidated 2026-08-30,
+Post-v2.0 Quality Closure WS9) documents the FX staleness/drift checks that
+force a human decision when the exchange-rate snapshot ages out or a
+published converted price drifts too far from a fresh conversion, but no
+document names who that human is.
+
+**Question for the owner:** is the site owner (Nouman Ahmed) the intended
+approver for every FX-policy refresh and any resulting reprice, as every
+past base-rate/price decision in this log has in practice been owner-made?
+Or should a different named role handle routine 120-day refreshes, with the
+owner only needed when a reprice is actually being considered?
+
+**Status:** open. Not yet answered; `docs/fx-rate-policy.md` currently
+states the owner-as-default reading as a proposal, not a confirmed policy.
+
+## 8. FX policy — bank/wire-transfer fee treatment
+
+**Where it surfaces:** `src/data/pricing.ts` (`PRICING_TERMS.paymentMethods`)
+lists bank transfer and international wire transfer as the accepted payment
+methods, but nothing on the site or in any document states who bears a
+transfer/receiving fee a bank may charge on top of the published price --
+whether the family pays the published rate net of any bank fee (Marlbridge
+absorbs it), or the family is responsible for ensuring the full published
+amount arrives (any bank fee is on top).
+
+**Question for the owner:** does Marlbridge guarantee the published fee is
+the net amount received regardless of bank fees, or does the family need to
+cover any transfer fee separately?
+
+**Status:** open. Genuinely unrecorded -- no answer has been invented or
+assumed for this; the pricing page and FAQ make no claim either way.
+
+## 9. www.marlbridge.com — minor recommendation only (re-verified fixed since D-033)
 
 **Where it surfaces:** D-010 (2026-08-23) and D-033 (QIGT indexing
 workstream, earlier on 2026-08-26) both found `https://www.marlbridge.com/`

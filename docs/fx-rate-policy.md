@@ -3,6 +3,34 @@
 Applies to: the one-to-one (1:1) class pricing table (`ONE_TO_ONE_PRICING` in
 `src/data/pricing.ts`), shown on `/pricing/`.
 
+## Policy at a glance (Post-v2.0 Quality Closure WS9, 2026-08-30)
+
+The sections below already covered most of this in narrative form; this table
+consolidates every point the closure brief asks an FX policy to cover in one
+place, and is honest about the two points that are genuinely not yet
+recorded anywhere rather than guessing at them.
+
+| Point | Answer |
+|---|---|
+| Authoritative base fees and currency | PKR. Set directly by the owner for Pakistan only -- see "What Marlbridge actually sets" below. |
+| Directly-approved vs. converted prices | Pakistan is the only directly-approved row in `ONE_TO_ONE_PRICING`. The other 8 regions are computed conversions of that one Pakistan rate, not independently negotiated prices. |
+| Approved rate source | `open.er-api.com` (provider: exchangerate-api.com), PKR as base currency -- `FX_RATE_SOURCE` in `src/data/fx-policy.ts`. |
+| Rate timestamp / application date | Snapshot fetched `FX_RATE_ASOF_DATE`; applied to the published price once, on 2026-08-23 -- see `ONE_TO_ONE_TERMS.conversionNote`. The two dates can differ: a later re-fetch of `FX_RATES` (to clear the staleness check) does not by itself change the published price's own application date. |
+| Conversion direction | `FX_RATES` stores PKR-per-one-unit-of-foreign-currency (e.g. `{ currency: 'SAR', pkrPerUnit: 74.03 }` means 1 SAR = PKR 74.03). A converted price is computed as `PKR amount ÷ pkrPerUnit` -- see `impliedConvertedAmount()` in `src/data/fx-policy.ts`. |
+| Precision and rounding | Whole units for every currency except KWD/BHD/OMR, which keep 3-decimal (fils/baisa) precision -- `THREE_DECIMAL_CURRENCIES` in `pricing.ts`, mirrored as `FX_THREE_DECIMAL_CURRENCIES` in `fx-policy.ts` (the validator asserts the two sets stay identical). |
+| Refresh cadence | 120 days (`FX_STALENESS_LIMIT_DAYS`) -- see "Why 120 days and 8%" below. |
+| Responsible approver | **Not yet recorded.** No named role or person is documented as the one who must review a staleness/drift failure or approve a resulting price change -- in practice this has been the owner directly (every base-rate and price change to date is owner-approved per the decision log), but no policy document says so explicitly. Proposed default, not yet confirmed: the site owner (Nouman Ahmed) is the approver for any FX-policy refresh or reprice, the same as every other pricing decision recorded in `docs/decision-log.md`. |
+| Stale/unavailable rate behaviour | The build fails (`validate-fx-policy.mjs`'s staleness check) rather than silently continuing to publish an old snapshot or falling back to a guessed rate. No price changes automatically as a result -- a human must refresh `FX_RATES` and, separately, decide whether `ONE_TO_ONE_PRICING` itself needs updating. |
+| Estimate vs. payable price | The 8 converted prices ARE the payable price, not an estimate shown with a disclaimer -- they are published and billed exactly like the directly-approved Pakistan rate, and only change via a deliberate content edit (same process as any other fee change), never automatically. There is currently no "estimate" pricing anywhere on the site. |
+| When a quotation becomes fixed | **Not formally recorded as a distinct policy.** The site publishes one live price per region at any given time (no per-family locked-in quote is generated or stored); a family's actual monthly bill is whatever `ONE_TO_ONE_PRICING`/`REGION_PRICING` currently states, per the existing billing terms (`PRICING_TERMS.billing`: billed monthly, starting once the trial has taken place). This reading follows from how billing already works; it has not been separately put to the owner as its own decision, so it is stated here as the current de facto behaviour rather than a confirmed policy. |
+| Bank/transfer fee treatment | **Genuinely unrecorded -- no source states this.** `PRICING_TERMS.paymentMethods` lists bank transfer and international wire transfer as accepted methods, but nothing says who bears any transfer/receiving fee a bank charges on top of the published price. Per this workstream's own instruction not to invent commercial terms, this is flagged as an open item below rather than answered either way. |
+
+**Open items for the owner (added to `docs/business-decisions-register.md`,
+not yet resolved):** who the named responsible approver is for FX-policy
+refreshes and reprices, if not the owner by default as proposed above; and
+whether the family or Marlbridge bears any bank/wire-transfer fee on top of
+the published price.
+
 ## What Marlbridge actually sets
 
 Marlbridge sets three PKR figures directly, by owner decision, and nothing else:
