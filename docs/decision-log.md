@@ -4372,3 +4372,46 @@ once merged, for the cookie-consent/Zaraz/Clarity consent-gating work.)*
   validator, `npm run audit:all`, and the negative-fixture suite -- now 27 categories -- all pass
   clean). The remainder of WS8's brief scope (broader discoverability of the practice tools beyond
   this parsing-coverage fix) is not yet separately assessed and remains open under Workstream 8.
+
+## D-088 — Post-v2.0 Quality Closure WS7: added Edexcel A-Level Law Paper 2 (The Law in Action) resource content
+
+- **Date:** 2026-08-30.
+- **Workstream:** MARLBRIDGE Post-v2.0 Quality and Conversion Closure, Workstream 7 (increase useful
+  resource depth, named target: Edexcel Law Paper 2).
+- **What was found:** `src/data/academic/syllabus-topics.ts` has carried a full, previously-verified
+  topic breakdown for Pearson Edexcel IAL Law's Paper 2 (YLA1) -- "2.1 The market", "2.2 The
+  criminal offender", "2.3 The individual" -- since an earlier workstream (source PDF fetched and
+  verified 2026-08-21). No resource content existed against it at all: Paper 1 (Underlying
+  Principles) has a study guide, revision notes and a practice-questions set; Paper 2, worth the
+  other 50% of the qualification, had none. A student on this specification had nothing to read past
+  the syllabus data itself.
+- **What was done:** re-fetched the official Pearson Edexcel IAL Law specification PDF (the same
+  `sourceUrl` already recorded in syllabus-topics.ts) to get the actual content list under 2.1/2.2/2.3
+  -- the specific Acts, sections and sub-areas Edexcel names -- rather than relying on general legal
+  knowledge for the syllabus mapping. Wrote three new resources, one full set matching Paper 1's
+  existing depth and structure:
+  - `a-level-edexcel-law-the-law-in-action.md` (study guide) -- covers contract formation and terms,
+    the Consumer Rights Act 2015's implied terms/remedies, validity and discharge, privity, and
+    negligence as the specification's own named alternative route through 2.1; the general elements
+    of criminal liability, all four named property offences with their Act/section, general defences
+    and CJA 2003 sentencing for 2.2; and defamation, HRA 1998 Articles 10/11 and the route to the
+    ECtHR, privacy (DPA 2018, Article 8 ECHR, FOIA 2000), and occupiers' liability/trespass to land
+    for 2.3.
+  - `a-law-the-law-in-action-revision-notes.md` -- condensed recall notes covering the same ground,
+    including a quick-reference table mapping each property offence to its Act and section.
+  - `a-law-the-law-in-action-practice.md` -- 8 original exam-style questions (Section A/B format,
+    matching the site's established practice-questions convention) with full worked answers,
+    including an applied scenario question on theft and mistaken belief, and a "Where marks are
+    usually lost" section.
+- **Scope discipline:** matches Paper 1's existing depth and file structure exactly (one study guide
+  + one revision-notes file + one practice-questions file per paper, not per subtopic) -- no new
+  boards, qualifications, or syllabus data were added; `syllabus-topics.ts` was not touched, only
+  read. YLA1 is not one of the 5 flagship codes the interactive `/practice/` self-check engine
+  covers (WS8/D-087), so this practice-questions file is a normal resource page, not wired into that
+  tool -- consistent with how Paper 1's own practice file already works.
+- **Verification:** `npm run build` (1272 pages, +3), `npm run validate:academic` (including the new
+  practice-bank coverage validator -- confirms this file, despite not being flagship, still parses
+  cleanly), `npm run audit:all` (0 orphan pages -- the new resources are correctly linked from the
+  Edexcel A-Level Law academic hub page and cross-link each other), and the negative-fixture suite
+  (27 categories) all pass clean.
+- **Status:** implemented and verified.
