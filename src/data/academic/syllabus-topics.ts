@@ -1386,14 +1386,17 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: true,
     source: 'Cambridge International -- official IGCSE Biology (0610) syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697203-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: "Cambridge IGCSE Biology (0610), syllabus for exams in 2026, 2027 and 2028. Tiered: Core (Papers 1 and 3, grades C-G) and Extended (Papers 2 and 4, grades A*-G), plus one practical paper (5 or 6). Twenty-one topic names reproduced directly from the official syllabus PDF's content overview, fetched 2026-08-19. Topic 1's three sub-topics (1.1-1.3) reproduced directly from the official syllabus PDF's Subject content section, fetched 2026-08-21. Sub-topic-level detail for topics 2-21 (Core/Supplement split per outcome) not yet researched -- those topics remain recorded name-only pending a later phase.",
+    notes: "Cambridge IGCSE Biology (0610), syllabus for exams in 2026, 2027 and 2028. Tiered: Core (Papers 1 and 3, grades C-G) and Extended (Papers 2 and 4, grades A*-G), plus one practical paper (5 or 6). Twenty-one topic names reproduced directly from the official syllabus PDF's content overview, fetched 2026-08-19. Topic 1's three sub-topics (1.1-1.3) reproduced directly from the official syllabus PDF's Subject content section, fetched 2026-08-21. Topic 2's two sub-topics (2.1-2.2) reproduced directly from the official syllabus PDF's Subject content section, fetched 2026-08-31. Sub-topic-level detail for topics 3-21 (Core/Supplement split per outcome) not yet researched -- those topics remain recorded name-only pending a later phase.",
     topics: [
       { number: 1, name: 'Characteristics and classification of living organisms', slug: 'characteristics-and-classification-of-living-organisms-cambridge-igcse-biology', subtopics: [
         { number: '1.1', name: 'Characteristics of living organisms', slug: 'characteristics-of-living-organisms-cambridge-igcse-biology' },
         { number: '1.2', name: 'Concept and uses of classification systems', slug: 'concept-and-uses-of-classification-systems-cambridge-igcse-biology' },
         { number: '1.3', name: 'Features of organisms', slug: 'features-of-organisms-cambridge-igcse-biology' },
       ] },
-      { number: 2, name: 'Organisation of the organism', slug: 'organisation-of-the-organism-cambridge-igcse-biology', subtopics: [] },
+      { number: 2, name: 'Organisation of the organism', slug: 'organisation-of-the-organism-cambridge-igcse-biology', subtopics: [
+        { number: '2.1', name: 'Cell structure', slug: 'cell-structure-cambridge-igcse-biology' },
+        { number: '2.2', name: 'Size of specimens', slug: 'size-of-specimens-cambridge-igcse-biology' },
+      ] },
       { number: 3, name: 'Movement into and out of cells', slug: 'movement-into-and-out-of-cells-cambridge-igcse-biology', subtopics: [] },
       { number: 4, name: 'Biological molecules', slug: 'biological-molecules-cambridge-igcse-biology', subtopics: [] },
       { number: 5, name: 'Enzymes', slug: 'enzymes-cambridge-igcse-biology', subtopics: [] },
