@@ -37,7 +37,9 @@
  * matching question/answer count (Y, Post-v2.0 Quality Closure WS8), and a
  * rendered academic-label (Level/Board/Qualification data-pagefind-filter
  * tag) that no longer matches its page's own frontmatter (Z, Flagship
- * Dominance Programme WS-A).
+ * Dominance Programme WS-A), and a resource page whose rendered "Reviewed
+ * by teachers" trust line has been corrupted or removed (AA, Flagship
+ * Dominance/Trust programme, D-092).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -505,6 +507,24 @@ if (!existsSync(labelFixtureFile)) {
       validatorCmd: 'node scripts/validate-rendered-academic-labels.mjs',
       expectSubstring: 'implies "A LEVEL"',
       label: 'A-level resource page with its rendered Level tag corrupted to IGCSE is rejected',
+    },
+  );
+}
+
+console.log('\n[AA] Flagship Dominance/Trust programme -- review-coverage audit');
+const trustFixtureFile = 'dist/resources/a-level-edexcel-law-the-law-in-action/index.html';
+if (!existsSync(trustFixtureFile)) {
+  console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');
+  console.log('    have completed first (same precondition as [H]/[P]/[Z]); it is exercised for real as part');
+  console.log('    of the standing validation gate, which always builds before running this suite.');
+} else {
+  withMutation(
+    trustFixtureFile,
+    (text) => text.replace('Reviewed by teachers', 'Review status unknown'),
+    {
+      validatorCmd: 'node scripts/audit-review-coverage.mjs',
+      expectSubstring: 'does not render the visible "Reviewed by teachers" trust line',
+      label: 'A resource page with its rendered teacher-review trust line corrupted is rejected',
     },
   );
 }

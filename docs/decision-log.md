@@ -4611,3 +4611,98 @@ was not part of that decision and does not know their full reasoning.
   should be revisited and the automation exclusion restored.
 - **Status:** answered, implemented (scheduled task updated; see commit
   history for the exact instruction diff).
+
+**Editorial note added by the Flagship Dominance/Trust programme session (2026-08-31, applied via
+rebase 2026-09-01):** this session's own earlier baseline had reserved D-091 as a "GAP FLAGGED"
+placeholder, since as of this session's `bba8a36` baseline, commit `251d8d9` ("feat(validation):
+WS-A complete") referenced "docs/decision-log.md D-091" in its own body but no `## D-091` entry
+existed anywhere in this file yet. That gap is now filled by the real entry above (written
+directly by the owner, 2026-09-01) -- WS-A's rendered-academic-label-validator decision remains
+genuinely undocumented under its own number and is a separate, still-open gap, not resolved by
+this D-091 entry (which covers the unrelated IB-licensing follow-up). The underlying WS-A code
+itself was independently reviewed by this session and found sound (see D-092 below); only the
+decision-log entry explaining WS-A's own reasoning is still missing.
+
+## D-092 — Flagship Dominance/Trust programme: universal "Reviewed by teachers" trust claim, decoupled from the QIGT named-reviewer system
+
+**Date:** 2026-08-31
+
+**Owner confirmation (verbatim instruction, this session):** "ALL MARLBRIDGE STUDY RESOURCES
+HAVE BEEN REVIEWED BY TEACHERS" -- a blanket, non-attributed editorial fact covering the whole
+805-resource study-resources library, with an explicit instruction not to require or invent a
+named reviewer, profile, credential, or date, and not to leave resources labelled review-
+pending/awaiting-review if they're covered by this confirmation.
+
+**Tension with the existing QIGT programme:** `reviewStatus` (content.config.ts, default
+`review-pending`) plus `reviewer`/`reviewedDate` is a deliberately strict, pre-existing system
+(v1.x WS4, D-006) enforced by `scripts/validate-review-integrity.mjs`, which requires a real,
+existing author record with `isReviewer: true` before any resource can carry `reviewStatus:
+reviewed` or the named "Reviewed by [Name]" byline / schema.org `editor` claim. As of this
+session's baseline, 0 of 805 resources satisfy that stricter bar. Weakening or repurposing
+`reviewStatus` (or its validator) to satisfy the owner's blanket claim would have been the
+fastest path, but would have meant either fabricating reviewer records (explicitly prohibited
+by the owner's own instruction) or silently loosening a validator that exists specifically to
+prevent fabricated academic-credibility claims -- both rejected.
+
+**Decision:** added a new, independent boolean field, `reviewedByTeachers` (default `true`),
+to the `resources` collection schema, entirely separate from `reviewStatus`/`reviewer`/
+`reviewedDate`. It backs a new, universal, non-attributed public trust line -- "Reviewed by
+teachers" -- rendered on every resource detail page's provenance block (`src/pages/resources/
+[slug].astro`), alongside a plain-language "Aligned to <board(s)> <qualification(s)> <subject>
+(<syllabus code(s)>), <series>." sentence (via the existing `syllabusFor()` helper, best-effort,
+omitted when board/qualification is ambiguous) and a `mailto:` "Found an error? Report a
+correction" link. The QIGT system is completely untouched: it still gates the separate, more
+specific named "Reviewed by [Name]" byline and JSON-LD `editor` claim, and still requires a
+real `isReviewer: true` author record for that stricter claim. `src/pages/legal/editorial-
+policy.astro` was updated to lead with the blanket confirmation and describe the QIGT named-
+review step as being extended over time, replacing stale "the great majority of resources are
+labelled review-pending" language.
+
+**New regression guard:** `scripts/audit-review-coverage.mjs` (wired into `npm run audit:all`
+as `audit:review-coverage`), checking (1) no resource file explicitly sets `reviewedByTeachers:
+false` without it being a deliberate, documented exception, (2) every one of the 805 built
+resource detail pages actually renders the visible "Reviewed by teachers" text (catches a
+template regression that data-only checks would miss), (3) the editorial policy page carries
+no stale review-pending language and does state the confirmation. Negative-tested: fixture
+`[AA]` in `test-negative-validation-suite.mjs` corrupts a real built page's trust line, confirms
+the audit fails with the expected diagnostic, restores byte-for-byte. Full suite: 29/29 passing
+(up from 28, i.e. WS-A's count plus this one).
+
+- **Status:** implemented and verified. All 805 study resources resolve `reviewedByTeachers:
+  true`; all 805 built resource pages visibly render "Reviewed by teachers"; editorial policy
+  updated; `npm run validate:academic` and `npm run audit:all` both pass clean.
+
+## D-093 — Priority 2 fix: mechanically de-duplicated self-repeating resource-type titles ("Practice Questions — Practice Questions")
+
+**Date:** 2026-08-31
+
+**Bug:** 56 resource files (all `resourceType: practice-questions`) had `title:` frontmatter
+ending in a literally duplicated resource-type label, e.g. `"Paper 1 Literary Genres (7717):
+Practice Questions — Practice Questions"`. Confirmed this is baked directly into the source
+`title:` field at content-creation time, not produced live by a render-time helper: `pageTitle()`
+(`src/utils/seo/meta.ts`) only appends the site-name suffix and never touches resource-type
+labels, and `title`/H1/breadcrumb/JSON-LD `headline`/OG title on the resource detail page all
+read from this same frontmatter field with no `seoTitle` override present on any of the 56
+affected files -- so one fix to the source field fixes every rendering surface at once.
+
+**Decision:** per the brief's explicit "do not manually edit hundreds of resources" instruction,
+wrote `scripts/dedupe-resource-title-suffixes.mjs`, a mechanical, idempotent, safely re-runnable
+fixer: matches `title:` frontmatter ending in `"<label> — <label>"` for the same label
+(case-sensitive) and collapses it to a single occurrence. Run once against all 805 resource
+files; fixed exactly the 56 affected files, each verified via a printed before/after diff.
+Titles that legitimately repeat a word non-adjacently, or repeat two *different* labels, are
+untouched by design (the match requires the trailing segment to be identical to what precedes
+it, not merely similar).
+
+**New regression guard:** `scripts/audit-metadata.mjs` gained a label-agnostic "self-duplicated
+title segment" check -- flags any built page whose `<title>` has two adjacent ` — `-separated
+segments where the second is a suffix-match of the first (not naive full-segment equality,
+since the real bug shape has the first occurrence embedded as the tail of a longer colon-joined
+segment, e.g. `"...9239): Practice Questions"` followed by `"Practice Questions"`). First
+implementation attempt used full-segment equality and incorrectly reported 0 problems where 56
+were expected; fixed by switching to a regex boundary-suffix match. Re-verified: 56 problems
+found before the fix ran, 0 after.
+
+- **Status:** implemented and verified. `npm run audit:metadata` reports 0 self-duplicated-title
+  problems against the rebuilt site; the check is now a standing part of `npm run audit:all` and
+  will fail the build if this pattern reappears.

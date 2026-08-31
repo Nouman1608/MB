@@ -4,7 +4,7 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '26 August 2026';
+const lastUpdated = '31 August 2026';
 ---
 <PageLayout
   translationKey="legal-editorial-policy"
@@ -39,18 +39,19 @@ const lastUpdated = '26 August 2026';
 
         <h2 id="academic-review-policy">Academic review policy</h2>
         <p>
-          Every resource is written against the official syllabus document for the board, qualification and
-          syllabus code it declares, and is checked against that document by its named author before
-          publication. Marlbridge separately supports a distinct, accountable second-reviewer step — a named
-          reviewer, different from the author, who has genuinely checked the content — and this is enforced at
-          build time: a page can only display "Reviewed by [name]" if a real reviewer record exists for a real
-          person the site designates a genuine reviewer, and the underlying data is validated on every release
-          (checked automatically as part of our publishing process). As of {lastUpdated}, this
-          second-reviewer step has been completed for one published article; the great majority of resources
-          are honestly labelled review-pending, meaning they were written and checked by their named author
-          against the official syllabus but have not yet been through this separate second review. Review work
-          is being worked through in a documented priority order, not all at once (see "Corrections" below for
-          how errors are still caught and fixed in the meantime).
+          All Marlbridge study resources are reviewed by teachers as part of the academic quality process, and
+          every published study resource visibly states "Reviewed by teachers" for that reason. Every resource
+          is also written against the official syllabus document for the board, qualification and syllabus code
+          it declares, and is checked against that document by its named author before publication. Marlbridge
+          separately supports a distinct, accountable, named second-reviewer step — a named reviewer, different
+          from the author, credited by name on the page — for resources where that specific accountable record
+          exists; this is enforced at build time, so a page only ever displays "Reviewed by [name]" if a real
+          reviewer record exists for a real person the site designates a genuine reviewer, and the underlying
+          data is validated on every release. As of {lastUpdated}, this named second-reviewer credit has been
+          completed for a small number of resources and is being extended over time; its absence on a given
+          resource does not mean that resource is unreviewed — it means the review was completed under the
+          general teacher-review process above rather than through this separate, individually-credited step
+          (see "Corrections" below for how errors are still caught and fixed either way).
         </p>
 
         <h2 id="syllabus-verification-policy">Syllabus verification policy</h2>
