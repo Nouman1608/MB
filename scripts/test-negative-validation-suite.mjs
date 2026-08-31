@@ -37,9 +37,11 @@
  * matching question/answer count (Y, Post-v2.0 Quality Closure WS8), and a
  * rendered academic-label (Level/Board/Qualification data-pagefind-filter
  * tag) that no longer matches its page's own frontmatter (Z, Flagship
- * Dominance Programme WS-A), and a resource page whose rendered "Reviewed
+ * Dominance Programme WS-A), a resource page whose rendered "Reviewed
  * by teachers" trust line has been corrupted or removed (AA, Flagship
- * Dominance/Trust programme, D-092).
+ * Dominance/Trust programme, D-092), and a form control whose id no longer
+ * matches its <label for=...> (AC, Flagship Dominance/Trust programme,
+ * D-099, accessibility audit).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -573,6 +575,33 @@ if (!existsSync(i18nFixtureFile)) {
       validatorCmd: 'node --experimental-strip-types scripts/test-i18n-routes.mjs',
       expectSubstring: 'expected self-referencing',
       label: '/ar/about/ with a corrupted canonical URL is rejected by test-i18n-routes.mjs',
+    },
+  );
+}
+
+console.log('\n[AC] Flagship Dominance/Trust programme (D-099) -- accessibility audit catches an unlabelled form control');
+const a11yFixtureFile = 'dist/command-words/index.html';
+if (!existsSync(a11yFixtureFile)) {
+  console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');
+  console.log('    have completed first (same precondition as [H]/[P]/[Z]/[AA]/[AB]); it is exercised for real');
+  console.log('    as part of the standing validation gate, which always builds before running this suite.');
+} else {
+  withMutation(
+    a11yFixtureFile,
+    // Break the explicit for/id association on the command-word search box
+    // by renaming the input's id only -- the <label for="mb-cw-search">
+    // stays pointing at an id that no longer exists on any control, and
+    // the input isn't wrapped in a <label> (it's a sibling, not a child),
+    // so the fixed wrapping-label detection correctly does NOT treat this
+    // as implicitly labelled either.
+    (text) => text.replace(
+      '<input id="mb-cw-search" type="search"',
+      '<input id="mb-cw-search-BROKEN" type="search"',
+    ),
+    {
+      validatorCmd: 'node scripts/audit-accessibility.mjs',
+      expectSubstring: 'has no matching <label for=',
+      label: 'A search input whose id no longer matches its <label for=...> is caught, not silently passed',
     },
   );
 }

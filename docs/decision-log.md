@@ -4914,3 +4914,130 @@ value). Reviewed and confirmed working as intended, per the brief's own instruct
 correct work.
 
 - **Status:** reviewed, no code changes.
+
+## D-099 — Section 43 (WCAG 2.2 AA audit of new functionality): manual verification + a new dependency-free structural audit script, one real bug found in the script itself and fixed before shipping
+
+**Date:** 2026-08-31
+
+Audited this programme's own new functionality — the corrections form (`/report-a-correction/`,
+`CorrectionForm.astro`) and the resource-page teacher-review trust block (`resources/[slug].astro`,
+D-092) — against WCAG 2.2 AA, plus added a permanent, dependency-free structural audit covering the
+whole built site going forward.
+
+**What was checked manually, and how (not by any script — these require either rendering the page
+or computing real numbers, not just parsing HTML):**
+
+- **Color contrast.** Computed the real relative-luminance/contrast-ratio formula (not eyeballed)
+  for every text/background color pair used in the new form and trust block, against this repo's
+  actual defined tokens (`src/styles/global.css`: `--color-navy-800: #0B1F3A`, `--color-ivory:
+  #F7F4EC`, `--color-ink: #172033`, `--color-ink-mute: #5B6472`, `--color-gold-600: #7A5E10`,
+  `--color-gold-500: #C9A227`, `--color-success: #176B4D`, `--color-error: #A33A3A`). All 11 real
+  text/background pairs pass AA (4.5:1 for normal text) comfortably, ranging 5.44:1–16.52:1. One
+  additional pair — `underline decoration-gold-500` against ivory — computes to 2.20:1, but this is
+  a decorative underline accent, not text: the link text itself (navy-800 on ivory) is 15.03:1, and
+  the underline sits alongside both compliant text color and the underline shape itself as a
+  non-color cue. Not a real violation, and this exact pattern (gold underline decoration on navy
+  link text) is used site-wide already, pre-dating this programme.
+- **Touch target size.** Confirmed all new interactive controls use `min-h-11` (44px), well over
+  the WCAG 2.2 AA 2.5.8 minimum of 24px.
+- **Focus visibility.** Confirmed `:focus-visible` styling is a single global rule in
+  `src/styles/global.css` that nothing in the new functionality overrides or hides.
+- **Structural spot-check.** Directly inspected 6 specific pages carrying new/touched functionality
+  (`/report-a-correction/`, a sample resource page with the trust block, `/command-words/`, and the
+  three RTL locale homepages `/ar/`, `/ur/`, `/bn/`) for label association, heading-level sequence,
+  single `<h1>`, image alt presence, and generic anchor text. All 6 clean.
+
+**What's still a real, disclosed gap, not silently skipped:** keyboard-only operability and actual
+ARIA state correctness (e.g. `aria-expanded` genuinely toggling on interaction) require a real
+browser and interaction, not static-HTML parsing. Considered adding Playwright + axe-core for this
+— Playwright is available in this sandbox, but was deliberately NOT added as a project
+`devDependency`: `.github/workflows/deploy.yml` runs `npm ci` on every push to `main` before
+deploying, and a browser-binary download would meaningfully slow every future deploy, for one
+audit's benefit — this matches this repo's established, repeatedly-demonstrated aversion to new
+dependencies for narrow single-purpose needs (see e.g. the enquiry-form decision not to add a new
+package for one Cloudflare Function call). Left as a disclosed future option, not silently omitted.
+
+**What was built instead: `scripts/audit-accessibility.mjs`, wired into `npm run audit:all`.** A
+lightweight, dependency-free script matching this repo's established `audit-*.mjs` convention
+(reads built `dist/` HTML, same precondition as the other dist/-dependent audits). Checks, across
+the whole site, on every push: form-control label association (WCAG 1.3.1/3.3.2/4.1.2), image alt
+presence (1.1.1), heading-level skips (1.3.1/2.4.6), generic internal-link text (2.4.4, duplicating
+`audit-internal-links.mjs`'s own list so this script stays independently complete), and non-empty
+`<html lang>` (3.1.1). Its own header comment states plainly what it does not check (contrast,
+focus order, keyboard operability, real ARIA state, touch target size) rather than presenting a
+partial check as a complete WCAG audit.
+
+**A real bug found in this script, in this same session, before it shipped — not a pre-existing
+site issue.** The label-association check initially recognized only the explicit `<label
+for="id">` pattern. HTML/WCAG also permits the equally-valid implicit/wrapping pattern (a control
+nested directly inside an unclosed `<label>...</label>`, no `for`/`id` pair required) — this
+repo's own resource-filter controls (`/resources/index.html`, one Subject/Level `<select>` pair per
+resource-type section with content, 4 sections × 2 selects = 8) and practice-page controls
+(`/practice/{0580,0620,0625,9701,9702}/index.html`, 3 controls each: filter/mode/timed-mode) all
+use this pattern. Running the first version of the script site-wide reported 23 "problems," none of
+which were real — all 23 were confirmed, by reading the actual source (`src/pages/resources/
+index.astro`, `src/pages/practice/[code]/index.astro`), to be validly wrapped in a `<label>` with
+real visible text. Fixed by replacing the per-control regex with a single linear scan of the page
+that tracks whether the parser is currently inside an open `<label>` when it reaches a control tag,
+so both the explicit and implicit patterns are now correctly recognized. Re-ran site-wide after the
+fix: 0 problems across all 1275 pages, 135 form controls, 2471 images. This matches this session's
+established discipline of verifying a validator is actually correct before trusting its output
+(e.g. the earlier `audit-metadata.mjs` self-duplicate-title regex fix) rather than shipping a check
+that would have permanently false-flagged legitimate, already-shipped markup on every future push.
+
+**Negative-fixture coverage added** (`scripts/test-negative-validation-suite.mjs`, category [AC]):
+breaks the explicit `id`/`for` association on `/command-words/`'s search input (a control that is
+NOT wrapped in a `<label>`, so the wrapping-pattern fix correctly does not mask the break) and
+confirms the audit still catches it.
+
+- **Status:** implemented and verified. `scripts/audit-accessibility.mjs` added and wired into
+  `npm run audit:all`; negative-fixture category [AC] added (31/31 passing, up from 30). Full gate
+  clean: build (1275 pages), `validate:academic`, `audit:all` (9 checks, 0 problems, including the
+  new accessibility check), negative-fixture suite (31/31), `astro check` (0 errors), `npm audit`
+  (0 vulnerabilities), enquiry-function unit tests (31/31).
+
+## D-100 — Sections 28-29 (brand separation / About-page review): reviewed against a real conflation/fabrication bar, no changes needed
+
+**Date:** 2026-08-31
+
+Reviewed the Marlbridge/Learners Academy brand relationship and the About page for two concrete
+risks: (1) visual/copy conflation that would let a visitor mistake the two for either the same
+entity or unrelated entities, and (2) any fabricated founding year, student count, campus,
+accreditation or award — the same no-invention bar the About page's own header comment already
+states. This relationship was originally built under the earlier AUTHORITY/PRACTICE/TOOLS/GROWTH
+programme's WS16 ("visual/structural brand separation"); this pass is an independent re-check
+against that work, not a rebuild.
+
+**Consistency, checked across every place the relationship is stated, not just the About page:**
+`/about/` ("Learners Academy is the founding academy behind Marlbridge... its teaching continues
+under the Marlbridge name"), the homepage's `LearnersAcademy.astro` section (identical copy),
+the global footer's `site.founding` string ("Learners Academy — a Marlbridge education
+institution."), and `/legal/privacy/`'s "Who we are" section ("Marlbridge is an education platform
+operated by Learners Academy, based in Pakistan"). All four frame the same relationship the same
+way — Learners Academy as the founding/operating academy, Marlbridge as the platform/brand its
+teaching and this site operate under — with no page implying they are simply the same thing or
+wholly unconnected.
+
+**No fabrication found.** `site.about` (`src/data/site.ts`) still has `foundingYear`, `city`,
+`country` and `story` all `undefined`, so the About page's `hasFoundingDetail` block correctly
+stays hidden rather than inventing any of them — confirmed by both reading the source and by the
+page's own header comment stating this explicitly. The academy photo is an abstract editorial
+graphic with an alt text that says outright it is "not a photograph of an actual Learners Academy
+classroom or person," not a stock/AI image passed off as real. No years-of-operation, campus
+count, or accreditation claim appears anywhere in the reviewed copy.
+
+**Supporting facts independently verified, not just read:** the WhatsApp number in `WhatsAppButton
+.astro` (+92 323 9149918 / wa.me/923239149918) matches the founder-supplied brand-identity kit
+exactly. `https://learnersacademy.com.pk` (linked from the About page, the homepage section, and
+cited as every teacher bio's `sourceUrl`) returns a live 200. Both pages the About page's "The
+people who teach and write" section links to — `/legal/editorial-policy/` and
+`/authors/marlbridge-academic-team/` — exist in the built `dist/` output (already confirmed
+non-orphaned by the standing `audit-internal-links.mjs` gate).
+
+No changes made — the brand relationship is stated consistently everywhere it appears, nothing
+is fabricated, and the one already-disclosed gap (no real academy photograph yet) is disclosed
+honestly rather than papered over with a generic stock image. Reviewed and confirmed working as
+intended, per the brief's own instruction not to rebuild correct work — the same outcome as D-098's
+regional-page review.
+
+- **Status:** reviewed, no code changes.

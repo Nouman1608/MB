@@ -28,7 +28,8 @@
     "audit:content-integrity": "node scripts/audit-content-integrity.mjs",
     "audit:fonts": "node scripts/audit-fonts.mjs",
     "audit:review-coverage": "node scripts/audit-review-coverage.mjs",
-    "audit:all": "npm run audit:metadata && npm run audit:structured-data && npm run audit:redirects && npm run audit:internal-links && npm run audit:content-integrity && npm run audit:fonts && node scripts/test-sitemap-noindex.mjs && node --experimental-strip-types scripts/test-i18n-routes.mjs && npm run audit:rendered-labels && npm run audit:review-coverage",
+    "audit:accessibility": "node scripts/audit-accessibility.mjs",
+    "audit:all": "npm run audit:metadata && npm run audit:structured-data && npm run audit:redirects && npm run audit:internal-links && npm run audit:content-integrity && npm run audit:fonts && node scripts/test-sitemap-noindex.mjs && node --experimental-strip-types scripts/test-i18n-routes.mjs && npm run audit:rendered-labels && npm run audit:review-coverage && npm run audit:accessibility",
   "test:i18n-routes": "node --experimental-strip-types scripts/test-i18n-routes.mjs",
     "postbuild": "pagefind --site dist --output-subdir pagefind"
   },
