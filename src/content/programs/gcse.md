@@ -7,7 +7,7 @@ shortDescription: "UK GCSE support built on the same subject material as our int
 description: "UK GCSE support built on the same subject material as our international programs."
 curriculum: "AQA / OCR"
 ageRange: "14–16"
-countryAvailability: ["PK"]
+countryAvailability: ["PK", "WW"]
 featured: false
 ---
 

@@ -7,7 +7,7 @@ shortDescription: "Middle Years Programme (MYP) and Diploma Programme (DP) teach
 description: "Middle Years Programme (MYP, ages 11-16) and Diploma Programme (DP, ages 16-19) teaching, delivered one-to-one. Diploma Programme Economics and Physics are taught to full topic-level syllabus depth; all other IB subjects are covered at subject-overview depth."
 curriculum: "International Baccalaureate"
 ageRange: "11-19"
-countryAvailability: ["PK"]
+countryAvailability: ["PK", "WW"]
 featured: false
 ---
 

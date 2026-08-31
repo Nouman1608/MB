@@ -7,7 +7,7 @@ shortDescription: "AS and A2 teaching for students moving towards university ent
 description: "AS and A2 teaching for students moving towards university entry."
 curriculum: "Cambridge / Edexcel"
 ageRange: "16–18"
-countryAvailability: ["PK"]
+countryAvailability: ["PK", "WW"]
 featured: true
 ---
 

@@ -101,9 +101,9 @@ They are organised by the syllabus's own topic structure rather than by textbook
 chapter, so they can be used alongside whatever scheme of work a school is
 already following.
 
-Marlbridge also teaches live, teacher-led classes online from Pakistan to
-students in Pakistan, the Gulf and the UK, with teachers available across the
-day.
+Marlbridge also teaches live, teacher-led classes: in person from our academy
+in Pakistan, and online for students studying from the Gulf, the UK and
+elsewhere, with teachers available across the day.
 
 To ask about tutoring, message us on WhatsApp at +92 323 9149918 or email
 hello@marlbridge.com.

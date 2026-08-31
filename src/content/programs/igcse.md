@@ -7,7 +7,7 @@ shortDescription: "Cambridge, Pearson Edexcel and OxfordAQA International GCSE p
 description: "Cambridge, Pearson Edexcel and OxfordAQA International GCSE preparation across the sciences, mathematics and humanities."
 curriculum: "Cambridge / Pearson Edexcel / OxfordAQA"
 ageRange: "14–16"
-countryAvailability: ["PK"]
+countryAvailability: ["PK", "WW"]
 featured: true
 ---
 

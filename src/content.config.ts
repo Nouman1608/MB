@@ -29,6 +29,24 @@ const boardSlug = z.enum(['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa', 'ib
 const qualificationSlug = z.enum(['igcse', 'o-level', 'gcse', 'as-level', 'a-level', 'ib-myp', 'ib-dp']);
 const level = z.enum(['igcse', 'o-levels', 'a-levels', 'gcse', 'ib', 'sat', 'ielts', 'foundation']);
 const country = z.enum(['PK', 'AE', 'SA', 'IN', 'GB', 'EU', 'WW']);
+/**
+ * `countryAvailability` was found (Flagship Dominance/Trust programme,
+ * 2026-08-31, D-094) hardcoded to `['PK']` on every one of the 8 program
+ * records and as this field's schema default -- contradicting the site's
+ * own delivery model (in-person teaching from the Pakistan academy, live
+ * online teaching for every other published, priced region -- see
+ * src/data/pricing.ts REGION_PRICING, and GlobalVision.astro/About). This
+ * field is currently unused by any rendered page or schema.org output
+ * (confirmed by search before this fix), so it was a latent, not a live,
+ * inconsistency -- but a structurally false fact left in canonical content
+ * data will surface a real bug the first time something is wired to it
+ * (a badge, a filter, a future areaServed claim). Corrected to `['PK',
+ * 'WW']` (Pakistan in person, worldwide online) using only the enum's
+ * existing values -- REGION_PRICING's SA/AE/QA/KW/BH/OM/GB/EU split does
+ * not map cleanly onto this enum's coarser AE/SA/GB/EU/IN/WW set, and
+ * adding new per-region codes here is a separate, larger schema decision
+ * this fix does not make.
+ */
 
 const programs = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/programs' }),
@@ -42,7 +60,7 @@ const programs = defineCollection({
     curriculum: z.string().optional(),
     subjects: z.array(reference('subjects')).default([]),
     marlbridgeTeaches,
-    countryAvailability: z.array(country).default(['PK']),
+    countryAvailability: z.array(country).default(['PK', 'WW']),
     featured: z.boolean().default(false),
     faqs: z.array(z.object({ question: z.string(), answer: z.string() })).default([]),
     relatedPrograms: z.array(reference('programs')).default([]),
