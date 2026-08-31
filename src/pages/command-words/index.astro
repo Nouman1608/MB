@@ -79,10 +79,27 @@ const path = '/command-words/';
         {' '}<a href={COMMAND_WORDS_SOURCE.officialSourceUrl} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">cambridgeinternational.org</a>,
         verified {COMMAND_WORDS_SOURCE.verifiedOn}. Cambridge states it applies to syllabuses published from 2019
         onwards, across IGCSE, O Level and AS &amp; A Level — but subject-specific command words (used in only one or
-        two subjects) are listed in that subject's own syllabus and are not duplicated here. Other exam boards
-        (Edexcel, AQA, OCR, OxfordAQA) publish their own command-word glossaries too, which are broadly similar but not
-        identical to Cambridge's — those have not yet been added to this tool, so for now this guide is Cambridge-
-        specific rather than a claim to cover every board.
+        two subjects) are listed in that subject's own syllabus and are not duplicated here.
+      </p>
+
+      <h3 class="m-0 mb-2 mt-8 text-[17px] font-semibold text-navy-800">If you're studying under a different board</h3>
+      <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        Command words genuinely differ by board — and, unlike Cambridge, most other boards don't publish a single
+        list covering every subject; they publish one per subject instead, since a word's exact meaning can vary by
+        qualification. Rather than blend those into one list that doesn't actually exist at any of these boards,
+        here's each board's own official starting point:
+      </p>
+      <ul class="m-0 mt-3 max-w-[70ch] list-none space-y-1.5 p-0 text-[14.5px] leading-[1.65] text-ink-mute">
+        <li>AQA — published per subject; for example its <a href="https://www.aqa.org.uk/resources/science/gcse/teach/command-words" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">GCSE Science command words</a> or <a href="https://www.aqa.org.uk/resources/geography/as-and-a-level/geography/teach/command-words" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">A-level Geography command words</a> pages.</li>
+        <li>OCR — also published per subject; for example its <a href="https://www.ocr.org.uk/images/539424-command-words.pdf" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">GCSE Geography command words</a> guide.</li>
+        <li>OxfordAQA — also published per subject; for example its <a href="https://www.oxfordaqa.com/oaqaresources/geography/international-a-level-geography-command-words-v1.pdf" class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600" rel="noopener">International A-level Geography command words</a> guide.</li>
+        <li>Pearson Edexcel — does not appear to publish one consolidated official glossary at a stable public address; your subject's own specification document is the reliable source.</li>
+      </ul>
+      <p class="m-0 mt-3 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink-mute">
+        We haven't yet built a verified, subject-by-subject command-word tool for these boards the way we have for
+        Cambridge — sourcing that properly, subject by subject, is a genuinely larger job we'd rather do carefully
+        than rush. If your subject and board aren't covered by the links above, your specification document (linked
+        from your{' '}<a href={routes.programs} class="underline decoration-gold-500 underline-offset-2 hover:text-gold-600">programme page</a>) will list its own command words directly.
       </p>
     </Container>
   </Section>

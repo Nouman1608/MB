@@ -4833,3 +4833,84 @@ syllabus hub pages (`/boards/<board>/<qualification>/<subject>/`) via the parall
 pages -- matching the brief's "improve, don't duplicate" instruction. Spot-verified: "0620"
 correctly resolves to `/boards/cambridge/igcse/chemistry/`. No changes made -- reviewed and
 confirmed working as intended, per the brief's own instruction not to rebuild correct tools.
+
+## D-097 — Sections 23-24 (command-word guide): reviewed, precision-corrected, deliberately not extended to a fabricated multi-board glossary
+
+**Date:** 2026-08-31
+
+Reviewed the existing command-word guide (`/command-words/`, D-071, 29 Aug -- Cambridge's own
+22-word generic glossary) against the brief's specific request that it be "board-aware, since
+meanings differ by board." D-071 had already honestly disclosed that Edexcel/AQA/OCR/OxfordAQA
+"have not yet been sourced" -- investigated whether that gap could now be closed.
+
+**Real finding, not an excuse for inaction:** researched each of the other four boards' own
+official published command-word resources directly (web search + fetch, official domains only).
+Cambridge is structurally unusual in publishing ONE generic, cross-subject glossary. AQA, OCR and
+OxfordAQA each instead publish command-word guidance PER SUBJECT -- verified directly: AQA
+publishes independent pages/PDFs for GCSE Science, A-level Geography, Computer Science, PE,
+Design & Technology and more; OCR the same (e.g. its GCSE Geography command-words PDF);
+OxfordAQA the same (e.g. separate Psychology, Maths, English Language and Geography PDFs).
+Pearson Edexcel does not appear to publish any consolidated official glossary, generic or
+per-subject, at a stable public URL -- only third-party teaching-resource compilations were
+found.
+
+**Decision: do not fabricate a multi-board glossary that doesn't exist at the source.** A single
+"AQA/OCR/OxfordAQA generic list" built to look like Cambridge's would have to either present one
+subject's list as if it applied broadly (false) or blend several subjects' definitions into
+something none of these boards actually publishes (fabricated). Properly cataloguing real,
+verified, subject-scoped glossaries across three boards and dozens of subjects each is a
+legitimately large research task, correctly deferred rather than rushed -- matching the brief's
+own priority order (academic truth ahead of feature completeness, Section 56).
+
+**What was actually shipped instead:** corrected the tool's own disclosure from a vague "not yet
+added" to the real, verified reason (`src/data/academic/command-words.ts`, `src/pages/command-
+words/index.astro`), and added a new "If you're studying under a different board" section
+linking to one real, verified, live (200 OK, checked directly) official example page/PDF per
+board -- framed honestly as a per-subject starting point, not a claim of full coverage. Cambridge's
+own 22-word glossary is completely unchanged.
+
+- **Status:** implemented and verified. Full gate clean (build, `validate:academic`,
+  `audit:all`, negative-fixture suite 30/30, `astro check` 0 errors, `npm audit` 0
+  vulnerabilities); all 4 new external links independently confirmed live (curl, 200 OK) before
+  shipping.
+
+## D-098 — Sections 30-32 (Pakistan/Gulf regional pages): reviewed against the quality gate, no changes needed
+
+**Date:** 2026-08-31
+
+Reviewed `/pakistan/` and `/gulf/` (built earlier by the WS17/WS18 workstreams, D-076) against
+the brief's requirement that regional guidance pages be substantive, not doorway pages, and
+against the geographic-consistency model this session had just finished correcting (D-094).
+Checked, concretely, rather than skimmed:
+
+- **Real, distinct content per page, not templated duplication.** Pakistan covers in-person
+  delivery, the Pakistan-only confirmed IB rate, and an honest "What Marlbridge does not cover"
+  section (explicitly states Marlbridge does NOT teach Pakistan's own Matriculation/FBISE/
+  provincial-board exams, rather than staying silent). Gulf instead covers a genuine, useful
+  region-specific fact neither the pricing page nor Pakistan's page has: a Pakistan-Standard-Time
+  vs. Gulf-time-zone table, explaining why live online classes are practical, with an honest
+  caveat that exact scheduling is confirmed after enrolling. Verified body word counts (~870/~980
+  words) are well past thin-content territory, and `audit-metadata.mjs`'s sitewide
+  duplicate-description check (part of the standing gate) already confirms no two pages share a
+  meta description.
+- **No fabricated presence.** Neither page claims an address, office, or physical Gulf presence
+  -- both correctly describe Gulf delivery as fully online from Pakistan, consistent with D-094's
+  corrected model.
+- **Properly linked, not orphaned.** Both appear in `src/data/navigation.ts`'s footer links (as
+  literal path strings rather than the `routes.pakistan`/`routes.gulf` constants routes.ts
+  defines for them -- a harmless inconsistency, not a bug, left as-is) and are confirmed indexable
+  in the sitemap with real inbound links from `/levels/*` and `/programs/*` pages, so `audit-
+  internal-links.mjs` correctly reports them as non-orphaned.
+- **Real, accurate time-zone data.** Independently spot-checked the UTC offsets stated for all 6
+  Gulf countries (Saudi Arabia/Qatar/Kuwait/Bahrain UTC+3, UAE/Oman UTC+4) -- correct.
+- **Pricing pulled from the single sanctioned source**, not re-typed -- both pages read directly
+  from `src/data/pricing.ts`'s `REGION_PRICING`/`ONE_TO_ONE_PRICING`/`IB_PRICING`, so they cannot
+  drift from `/pricing/`'s own numbers.
+
+No changes made -- both pages already meet a genuine substantive-content bar, are internally
+consistent with each other and with the rest of the site's geographic model, and correctly avoid
+every doorway-page red flag (thin/duplicate content, fabricated local presence, no real regional
+value). Reviewed and confirmed working as intended, per the brief's own instruction not to rebuild
+correct work.
+
+- **Status:** reviewed, no code changes.
