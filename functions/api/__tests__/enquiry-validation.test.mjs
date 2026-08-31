@@ -9,6 +9,7 @@ import {
   validateEnquiry,
   renderEmailBody,
   ALLOWED_FIELDS_BY_KIND,
+  CORRECTION_ISSUE_TYPES,
 } from '../../_lib/enquiry-validation.ts';
 
 test('sanitizeField strips CRLF and control chars (header-injection defence)', () => {
@@ -203,4 +204,80 @@ test('ALLOWED_FIELDS_BY_KIND: trial has the exact same field set as student and 
   assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial, ALLOWED_FIELDS_BY_KIND.tutoring);
   assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.required.sort(), ['country', 'email', 'message', 'name']);
   assert.deepEqual(ALLOWED_FIELDS_BY_KIND.trial.optional, ['phone']);
+});
+
+// Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095) --
+// `correction` is a deliberately different field set from every tuition
+// enquiry kind above: no name/phone/country, since a correction report is
+// not an enrolment enquiry.
+
+test('validateEnquiry: correction — accepts a well-formed report with no name/phone/country', () => {
+  const result = validateEnquiry('correction', {
+    pageUrl: 'https://marlbridge.com/resources/some-resource/',
+    issueType: CORRECTION_ISSUE_TYPES[0],
+    description: 'The board shown says AQA but this is a Cambridge resource.',
+  });
+  assert.equal(result.ok, true);
+  if (result.ok) {
+    assert.equal('name' in result.data, false);
+    assert.equal('phone' in result.data, false);
+    assert.equal('country' in result.data, false);
+  }
+});
+
+test('validateEnquiry: correction — email is optional', () => {
+  const result = validateEnquiry('correction', {
+    pageUrl: 'https://marlbridge.com/resources/some-resource/',
+    issueType: CORRECTION_ISSUE_TYPES[0],
+    description: 'Broken link in the third paragraph.',
+  });
+  assert.equal(result.ok, true);
+});
+
+test('validateEnquiry: correction — rejects missing pageUrl/issueType/description', () => {
+  const result = validateEnquiry('correction', { email: 'reporter@example.com' });
+  assert.equal(result.ok, false);
+  if (!result.ok) {
+    assert.ok(result.errors.pageUrl);
+    assert.ok(result.errors.issueType);
+    assert.ok(result.errors.description);
+  }
+});
+
+test('validateEnquiry: correction — rejects an issueType outside the fixed list (not free text)', () => {
+  const result = validateEnquiry('correction', {
+    pageUrl: 'https://marlbridge.com/resources/some-resource/',
+    issueType: 'Something I made up',
+    description: 'x',
+  });
+  assert.equal(result.ok, false);
+  if (!result.ok) assert.ok(result.errors.issueType);
+});
+
+test('validateEnquiry: correction — name/phone/country/message are not in its allowlist even if submitted', () => {
+  const result = validateEnquiry('correction', {
+    pageUrl: 'https://marlbridge.com/resources/some-resource/',
+    issueType: CORRECTION_ISSUE_TYPES[0],
+    description: 'x',
+    name: 'Should not appear', phone: '000', country: 'PK', message: 'Should not appear either',
+  });
+  assert.equal(result.ok, true);
+  if (result.ok) {
+    assert.equal('name' in result.data, false);
+    assert.equal('phone' in result.data, false);
+    assert.equal('country' in result.data, false);
+    assert.equal('message' in result.data, false);
+  }
+});
+
+test('renderEmailBody: correction kind body is labelled distinctly from a tuition enquiry', () => {
+  const body = renderEmailBody('correction', {
+    pageUrl: 'https://marlbridge.com/resources/some-resource/',
+    issueType: CORRECTION_ISSUE_TYPES[0],
+    description: 'Wrong board shown.',
+  });
+  assert.ok(body.includes('Correction report'));
+  assert.ok(!body.includes('Student / parent enquiry'));
+  assert.ok(!body.includes('Tutoring enquiry'));
+  assert.ok(body.includes('Page: https://marlbridge.com/resources/some-resource/'));
 });

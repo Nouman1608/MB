@@ -529,6 +529,33 @@ if (!existsSync(trustFixtureFile)) {
   );
 }
 
+console.log('\n[AB] Flagship Dominance/Trust programme -- internal-links audit correctly parses hrefs with a query string');
+const queryLinkFixtureFile = 'dist/resources/a-level-edexcel-law-the-law-in-action/index.html';
+if (!existsSync(queryLinkFixtureFile)) {
+  console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');
+  console.log('    have completed first (same precondition as [H]/[P]/[Z]/[AA]); it is exercised for real as');
+  console.log('    part of the standing validation gate, which always builds before running this suite.');
+} else {
+  // D-095: scripts/audit-internal-links.mjs's anchor regex previously required
+  // an href to end exactly at the closing quote, so ANY href carrying a query
+  // string (like this page's "Report a correction" link,
+  // /report-a-correction/?page=...) silently failed to match at all -- not
+  // checked for brokenness, not counted as an inbound link. Fixed by parsing
+  // the full href and stripping ?/# only for path-matching. This fixture
+  // proves the fix actually works: corrupting the PATH portion of a
+  // query-bearing href (while keeping the query string) must still be
+  // caught as a broken link, not silently ignored.
+  withMutation(
+    queryLinkFixtureFile,
+    (text) => text.replace('href="/report-a-correction/?page=', 'href="/report-a-correction-WRONG/?page='),
+    {
+      validatorCmd: 'node scripts/audit-internal-links.mjs',
+      expectSubstring: 'report-a-correction-WRONG',
+      label: 'A query-string-bearing internal link corrupted to a broken path is still caught as broken',
+    },
+  );
+}
+
 console.log('\n[P] i18n route checker rejects a broken hreflang/canonical on a built translated page');
 const i18nFixtureFile = 'dist/ar/about/index.html';
 if (!existsSync(i18nFixtureFile)) {

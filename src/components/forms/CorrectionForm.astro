@@ -1,0 +1,177 @@
+---
+/**
+ * Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095).
+ *
+ * A lightweight, structured corrections/error-report form, deliberately
+ * distinct from EnquiryForm.astro (which is for tuition/enrolment
+ * enquiries): no name/phone/country, and framed throughout as reporting a
+ * content error rather than asking about lessons. Shares the same proven,
+ * spam-hardened backend (/api/enquiry, functions/api/enquiry.ts) via the
+ * `correction` EnquiryKind added in functions/_lib/enquiry-validation.ts,
+ * rather than standing up a second endpoint -- same same-origin check,
+ * honeypot, Turnstile, rate limiting and Resend delivery, just a different
+ * field set, subject line and (non-key) GA4 event name.
+ *
+ * Page URL auto-capture: the field is pre-filled client-side from a
+ * `?page=` query parameter (set by the link on src/pages/resources/
+ * [slug].astro and anywhere else this form is linked to), or from
+ * document.referrer as a fallback when the form is reached directly. It
+ * stays a real, editable, required input -- not a hidden/locked field --
+ * so a visitor who arrived with no query param, or with JS disabled, can
+ * still fill it in by hand, and can correct it if the guess is wrong.
+ */
+import FormField from './FormField.astro';
+import Input from './Input.astro';
+import Select from './Select.astro';
+import Textarea from './Textarea.astro';
+import { FALLBACK_EMAIL } from '../../utils/forms/submit';
+import { site } from '../../data/site';
+
+const mailto = 'mailto:' + FALLBACK_EMAIL;
+const turnstileSiteKey = site.turnstile.siteKey;
+
+const ISSUE_TYPES = [
+  'Wrong subject, board or qualification shown',
+  'Outdated or incorrect syllabus information',
+  'Factual error in the content',
+  'Broken link or missing content',
+  'Something else',
+] as const;
+---
+<form data-correction-form method="post" action="/api/enquiry" novalidate class="grid max-w-[68ch] gap-5 sm:grid-cols-2">
+  <div aria-hidden="true" class="absolute -left-[9999px] top-auto h-px w-px overflow-hidden">
+    <label for="corr-website">Website</label>
+    <input type="text" id="corr-website" name="website" tabindex={-1} autocomplete="off" />
+  </div>
+
+  <FormField
+    name="pageUrl"
+    label="Page"
+    required
+    hint="The Marlbridge page this is about. Filled in automatically when you arrive from a page's correction link."
+    class="sm:col-span-2"
+  >
+    <Input name="pageUrl" type="url" placeholder="https://marlbridge.com/resources/..." required />
+  </FormField>
+
+  <FormField name="issueType" label="What kind of issue is this?" required class="sm:col-span-2">
+    <Select name="issueType" options={ISSUE_TYPES} placeholder="Please choose" required />
+  </FormField>
+
+  <FormField
+    name="description"
+    label="What looks wrong"
+    required
+    hint="As much detail as you can give — what you saw, and what it should say instead."
+    class="sm:col-span-2"
+  >
+    <Textarea name="description" required />
+  </FormField>
+
+  <FormField name="email" label="Your email" optionalLabel=" (optional)" hint="Only if you'd like us to follow up.">
+    <Input name="email" type="email" autocomplete="email" inputmode="email" />
+  </FormField>
+
+  {turnstileSiteKey && (
+    <div class="sm:col-span-2">
+      <div class="cf-turnstile" data-sitekey={turnstileSiteKey} data-theme="light"></div>
+    </div>
+  )}
+
+  <p class="m-0 sm:col-span-2 text-[13.5px] text-ink-mute">
+    This is for reporting a content error, not for asking about tutoring — for that, use our
+    <a href="/contact/" class="underline decoration-gold-500 underline-offset-2">contact form</a> instead.
+    By submitting this you agree to Marlbridge's <a href="/legal/privacy/" class="underline decoration-gold-500 underline-offset-2">Privacy Policy</a> — your information is used only to review and respond to this report.
+  </p>
+
+  <div class="sm:col-span-2">
+    <button type="submit" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-7 py-3.5 text-[15px] font-medium text-ivory transition-colors hover:bg-navy-700 disabled:opacity-60">Send correction</button>
+    <p class="m-0 mt-3 text-[13.5px] text-ink-mute">
+      Prefer email? Write to <a href={mailto} class="underline decoration-gold-500 underline-offset-2">{FALLBACK_EMAIL}</a>.
+    </p>
+  </div>
+
+  <div data-form-status role="status" aria-live="polite" class="sm:col-span-2"></div>
+</form>
+
+{turnstileSiteKey && <script is:inline async src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>}
+
+<script>
+  import { submitEnquiry } from '../../utils/forms/submit';
+
+  const STRINGS = {
+    sending: 'Sending…',
+    success: 'Thank you — your report has been sent. We will review it and, if it needs a reply, get back to you by email.',
+    genericError: 'Your report could not be sent.',
+    networkError: 'We could not reach the server. Please check your connection, or email us.',
+    requiredError: 'This field is required.',
+    urlError: 'Please enter a valid page address.',
+    genericFieldError: 'Please check this field.',
+  };
+
+  document.querySelectorAll<HTMLFormElement>('[data-correction-form]').forEach((form) => {
+    // Auto-capture: prefer an explicit ?page= param (set by every
+    // "Report a correction" link on the site), fall back to the referring
+    // page for a visitor who reached this form some other way. Never
+    // overwrites a value the visitor has already typed.
+    const pageUrlField = form.querySelector<HTMLInputElement>('input[name="pageUrl"]');
+    if (pageUrlField && !pageUrlField.value) {
+      const fromQuery = new URLSearchParams(window.location.search).get('page');
+      pageUrlField.value = fromQuery || document.referrer || '';
+    }
+
+    const status = form.querySelector<HTMLElement>('[data-form-status]');
+    const button = form.querySelector<HTMLButtonElement>('button[type="submit"]');
+
+    const setError = (field: HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement, message: string | null) => {
+      const el = form.querySelector<HTMLElement>('[data-error-for="' + field.name + '"]');
+      if (!el) return;
+      el.textContent = message ?? '';
+      el.hidden = !message;
+      field.setAttribute('aria-invalid', message ? 'true' : 'false');
+    };
+
+    const validate = () => {
+      let firstInvalid: HTMLElement | null = null;
+      form.querySelectorAll<HTMLInputElement>('input, select, textarea').forEach((field) => {
+        if (!field.name) return;
+        const message = field.validity.valid
+          ? null
+          : field.validity.valueMissing
+            ? STRINGS.requiredError
+            : field.type === 'url'
+              ? STRINGS.urlError
+              : STRINGS.genericFieldError;
+        setError(field, message);
+        if (message && !firstInvalid) firstInvalid = field;
+      });
+      if (firstInvalid) (firstInvalid as HTMLElement).focus();
+      return !firstInvalid;
+    };
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      if (!validate() || !status) return;
+      button?.setAttribute('disabled', 'true');
+      status.textContent = STRINGS.sending;
+      status.className = 'sm:col-span-2 mt-2 text-[15px] text-ink-mute';
+
+      const result = await submitEnquiry('correction', new FormData(form));
+      button?.removeAttribute('disabled');
+
+      if (result.ok) {
+        status.textContent = STRINGS.success;
+        status.className = 'sm:col-span-2 mt-2 rounded-sm border border-[#B9D3C6] bg-[#F1F7F4] p-4 text-[15px] text-success';
+        // A plain, non-key GA4 custom event -- NOT generate_lead (a
+        // correction report is not a sales lead) and not starred as a key
+        // event, matching this repo's practice of only starring a key
+        // event after explicit owner approval (see whatsapp_click, D-080).
+        (window as any).gtag?.('event', 'report_correction');
+        form.reset();
+      } else {
+        status.textContent = result.message ?? STRINGS.genericError;
+        status.className = 'sm:col-span-2 mt-2 rounded-sm border border-[#E3BDBD] bg-[#FBF2F2] p-4 text-[15px] text-error';
+      }
+    });
+  });
+</script>

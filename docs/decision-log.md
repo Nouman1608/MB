@@ -4706,3 +4706,130 @@ found before the fix ran, 0 after.
 - **Status:** implemented and verified. `npm run audit:metadata` reports 0 self-duplicated-title
   problems against the rebuilt site; the check is now a standing part of `npm run audit:all` and
   will fail the build if this pattern reappears.
+
+## D-094 — Priority 3: geographic/teaching-location consistency audit and fix
+
+**Date:** 2026-08-31
+
+Repo-wide audit (read-only investigation first, no changes made until the full picture was
+in hand) of every place the site states or implies where Marlbridge teaches, who its teachers
+are, and who its students are -- top-level pages, both translation systems (`src/i18n/copy.ts`
+for `/ar/ /ur/ /bn/`, `src/i18n/pages/marketing.ts` for the About-page translations), schema.org
+emitters, and content collections. Confirmed the canonical model, consistent across the large
+majority of the site (`src/data/site.ts`, About, GlobalVision/WhyMarlbridge/TutoringSection,
+`/pakistan/`, `/gulf/`, Contact FAQ, `/trial/` FAQ, `legal/privacy.astro`): live in-person
+teaching happens only from the Learners Academy in Pakistan; every other learner is taught
+online; the free resource library is open to anyone, anywhere; no address/office/`LocalBusiness`
+schema is ever claimed (`site.about.city`/`country` deliberately left `undefined` "until
+confirmed in writing" -- correctly left as silence, not a gap to fix). A prior self-audit
+(D-034, 26 Aug) had already checked GlobalVision/About/Tutoring/Contact against each other, but
+its scope predated `/pakistan/`, `/gulf/` (added later, D-076), the `/ar/ur/bn/` homepage
+system, and article content -- this audit covered those too and found three genuine
+inconsistencies against that same canonical model:
+
+1. **An article contradicted the delivery model.** `src/content/articles/where-igcse-maths-
+   marks-are-lost-early.md` stated Marlbridge "teaches live, teacher-led classes online from
+   Pakistan to students in Pakistan, the Gulf and the UK" -- lumping Pakistan in as an *online*
+   destination, when every other page states Pakistan is specifically where *in-person* teaching
+   happens. Corrected to match the About page's own wording: "in person from our academy in
+   Pakistan, and online for students studying from the Gulf, the UK and elsewhere."
+
+2. **The `/ar/ /ur/ /bn/` homepage said nothing about delivery location at all**, while the
+   same-language About page (a separate, never-cross-checked translation system) states plainly
+   that in-person teaching is Pakistan-only. A visitor moving from home -> About in the same
+   language saw the fact appear with no lead-in. Added a new `locationNote` field to
+   `LocaleCopy` (`src/i18n/copy.ts`) -- one AI-translated sentence per locale, stating the exact
+   same model already on the English site, no new facts, no address/office claim -- rendered
+   on all three locale homepages right below the three pillars. Same AI-assisted-translation
+   caveat this file already discloses to visitors (review banner, "contact us in English if
+   anything is unclear") applies to this addition too.
+
+3. **`countryAvailability` was hardcoded to `['PK']`** on `content.config.ts`'s schema default
+   and on all 8 `src/content/programs/*.md` records, contradicting the site's own delivery model
+   (in-person Pakistan + live online for every published, priced region -- `src/data/pricing.ts`
+   `REGION_PRICING` lists 8 more). Confirmed unused by any rendered page or schema output before
+   touching it -- a latent, not live, inconsistency, but a structurally false fact left in
+   canonical content data that would surface a real bug the moment something is wired to it.
+   Corrected to `['PK', 'WW']` (Pakistan in person, worldwide online), using only the `country`
+   enum's existing values -- the enum's coarser AE/SA/GB/EU/IN/WW set doesn't map cleanly onto
+   `REGION_PRICING`'s finer SA/AE/QA/KW/BH/OM/GB/EU split, and adding new per-region codes is a
+   separate, larger schema decision this fix does not make.
+
+- **Status:** implemented and verified. Full gate clean (build, `validate:academic`,
+  `audit:all`, negative-fixture suite, `astro check`, `npm audit`) after the fix; all three
+  locale homepages independently checked in the built HTML to confirm `locationNote` actually
+  renders.
+
+## D-095 — Section 9: structured corrections/error-report form, distinguishable from tuition enquiries
+
+**Date:** 2026-08-31
+
+Replaces the plain `mailto:` "Found an error? Report a correction" link added on every resource
+page in D-092 with a real, structured form at `/report-a-correction/`
+(`src/pages/report-a-correction/index.astro`, `src/components/forms/CorrectionForm.astro`) --
+page URL auto-captured via a `?page=` query parameter set by the resource-page link (still a
+real, editable, required field, so it degrades honestly with JS disabled or when reached some
+other way), a fixed issue-type dropdown (wrong subject/board/qualification, outdated syllabus
+info, factual error, broken link, something else), a free-text description, and an optional
+email.
+
+**Reused, not duplicated, the existing enquiry pipeline.** Rather than stand up a second
+Cloudflare Function, added `correction` as a new `EnquiryKind`
+(`functions/_lib/enquiry-validation.ts`, `src/utils/forms/submit.ts`) with its own field
+allowlist (`pageUrl`/`issueType`/`description` required, `email` optional -- deliberately no
+name/phone/country, since this isn't an enrolment enquiry) flowing through the same, already
+spam-hardened `/api/enquiry` endpoint: same-origin check, honeypot, Cloudflare Turnstile,
+per-IP rate limiting, Resend delivery. "Distinguishable from tuition enquiries" (the brief's own
+words) is enforced at two points: the email subject line branches to `"Marlbridge correction
+report — <issue type>"` instead of `"Marlbridge enquiry — <name>"` (`functions/api/enquiry.ts`),
+and the success handler fires a plain, non-key GA4 custom event (`report_correction`) instead of
+`generate_lead` -- a correction report is not a sales lead, and no new GA4 *key* event is
+starred here without the owner's explicit approval, matching this repo's established practice
+for `whatsapp_click` (D-080).
+
+**`EnquiryForm.astro`'s `Props.kind` type was narrowed**, not widened, to exclude `correction`
+(`type TuitionEnquiryKind = Exclude<EnquiryKind, 'correction'>`) -- that component's field set
+(name/email/phone/country/message) doesn't fit a correction report, which has its own dedicated
+component instead, and narrowing means the compiler catches it if anything ever tries to render
+`<EnquiryForm kind="correction">` by mistake.
+
+**Found and fixed a real, pre-existing audit blind spot while wiring the new link in.**
+`scripts/audit-internal-links.mjs`'s anchor-parsing regex required an `href` to end exactly at
+the closing quote (`href="(\/[^"#?]*)"`) -- ANY internal link carrying a query string or
+fragment anywhere on the site silently failed to match that regex at all, so it was invisible to
+every check in that script: not counted as an inbound link (a false "orphan page" the first time
+this new query-string-bearing link was the only thing pointing at `/report-a-correction/`), not
+checked for brokenness, not checked for anchor text. Fixed by capturing the full href and
+stripping `?`/`#` only for path-matching -- a genuine correctness fix to a sitewide audit, not a
+workaround scoped to this one page. Negative-tested (`[AB]` in
+`test-negative-validation-suite.mjs`): corrupts the path portion of a real query-string-bearing
+href, confirms the audit still catches it as broken, restores byte-for-byte.
+
+Also added 7 new unit tests to `functions/api/__tests__/enquiry-validation.test.mjs` (24/24
+passing) covering the `correction` kind's field allowlist, the closed issue-type list (rejects
+free text), and the distinct email-body labelling.
+
+- **Status:** implemented and verified. Full gate clean; `/report-a-correction/` reachable,
+  builds, resolves as an inbound-linked (non-orphan) page from all 805 resource pages; both
+  `enquiry-validation.test.mjs` (24/24) and `enquiry-resend-integration.test.mjs` (7/7) pass.
+  Requires no new Cloudflare configuration -- reuses the `RESEND_API_KEY`/`TURNSTILE_SECRET_KEY`
+  already confirmed set for the existing enquiry pipeline.
+
+## D-096 — Section 10 (syllabus-code search) reviewed, no changes needed
+
+**Date:** 2026-08-31
+
+Reviewed the syllabus/specification-code search already on `main` before this session started
+(`src/pages/search/index.astro`, `src/utils/academic/codeIndex.ts`, part of the WS-A/B/C work --
+see D-091) against the brief's specific Section 10 requirement: exact code match should rank
+highest (e.g. "0620" -> Cambridge IGCSE Chemistry). Confirmed it already satisfies this, and
+goes further -- an exact match (3+ characters) navigates instantly rather than merely sorting
+first; a partial/prefix match still lists candidates. The index is deterministic, derived from
+the single sanctioned academic-matrix source (`activeOnly()`), throws rather than silently
+picking a winner if a code were ever claimed by two boards, and is small by design (139 entries)
+rather than duplicating the full site content index. It improves discovery of the existing
+syllabus hub pages (`/boards/<board>/<qualification>/<subject>/`) via the parallel `/syllabus/
+<CODE>/` redirect family (168 entries in `public/_redirects`) rather than building new hub
+pages -- matching the brief's "improve, don't duplicate" instruction. Spot-verified: "0620"
+correctly resolves to `/boards/cambridge/igcse/chemistry/`. No changes made -- reviewed and
+confirmed working as intended, per the brief's own instruction not to rebuild correct tools.

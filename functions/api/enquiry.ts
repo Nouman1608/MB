@@ -227,8 +227,15 @@ export const onRequestPost = async (context: { request: Request; env: Env }): Pr
 
   try {
     const body = renderEmailBody(kind, result.data);
+    // Corrections are labelled distinctly (D-095, Flagship Dominance/Trust
+    // programme) -- they have no `name` field, and the point of Section 9's
+    // "distinguishable from tuition enquiries" requirement is exactly that
+    // the owner's inbox should never confuse the two at a glance.
+    const subject = kind === 'correction'
+      ? `Marlbridge correction report — ${result.data.issueType ?? 'unspecified'}`
+      : `Marlbridge enquiry — ${result.data.name ?? 'unknown'}`;
     await sendViaResend(env.RESEND_API_KEY, {
-      subject: `Marlbridge enquiry — ${result.data.name ?? 'unknown'}`,
+      subject,
       text: body,
       replyTo: typeof result.data.email === 'string' ? result.data.email : undefined,
     });

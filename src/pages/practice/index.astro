@@ -6,11 +6,14 @@
  *
  * Lists the flagship specifications that have a real, working self-check
  * practice session (see src/utils/practice/bank.ts for why this is a
- * self-check engine, not an auto-grader). Only 0620, 9701 and 9702 have
- * practice-questions content today -- 0625 and 0580 are shown honestly as
- * "not yet available" rather than silently omitted or linked to an empty
- * page, matching this codebase's established no-filler, no-silent-gap
- * convention (see e.g. docs/decision-log.md D-050).
+ * self-check engine, not an auto-grader). `available` below is computed
+ * dynamically from the real question bank on every build, not hardcoded --
+ * as of the Flagship Dominance/Trust programme (2026-08-31) all five
+ * flagship specs (0580, 0620, 0625, 9701, 9702) have real content (541
+ * questions total), but if a future spec genuinely has none, it is shown
+ * honestly as "not yet available" rather than silently omitted or linked
+ * to an empty page, matching this codebase's established no-filler,
+ * no-silent-gap convention (see e.g. docs/decision-log.md D-050).
  */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';

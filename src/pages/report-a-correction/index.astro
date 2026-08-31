@@ -1,0 +1,30 @@
+---
+/**
+ * Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095).
+ *
+ * A single, structured corrections/error-report page every "Found an
+ * error? Report a correction" link on the site points to (currently:
+ * every one of the 805 study resource pages, src/pages/resources/
+ * [slug].astro). Deliberately generic/reachable on its own too -- not
+ * gated behind arriving from a resource page -- so it also works as a
+ * standalone destination if ever linked from elsewhere.
+ */
+import PageLayout from '../../layouts/PageLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import CorrectionForm from '../../components/forms/CorrectionForm.astro';
+import { routes } from '../../utils/urls/routes';
+---
+<PageLayout
+  title="Report a correction"
+  description="Found something wrong on a Marlbridge page — an incorrect subject, board, syllabus code, broken link, or any other factual error? Tell us here."
+  path={routes.reportCorrection}
+  eyebrow="Corrections"
+  heading="Report a correction"
+  lead="Found something on a Marlbridge page that looks wrong? Tell us what and where, and we'll review it. This is separate from a tutoring enquiry — for that, use our contact form instead."
+  breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Report a correction', href: routes.reportCorrection }]}
+>
+  <Section surface="white">
+    <Container><CorrectionForm /></Container>
+  </Section>
+</PageLayout>

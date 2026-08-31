@@ -65,11 +65,22 @@ for (const file of builtHtmlFiles) {
   const pageUrlPath = htmlPathToUrlPath(file);
   if (pageUrlPath === '/404.html') continue;
 
-  // Extract <a href="...">text</a> pairs (non-greedy, single-line-safe anchors)
-  const anchorRe = /<a\b[^>]*\bhref="(\/[^"#?]*)"[^>]*>([\s\S]*?)<\/a>/g;
+  // Extract <a href="...">text</a> pairs (non-greedy, single-line-safe anchors).
+  // Flagship Dominance/Trust programme (2026-08-31, D-095): captures the FULL
+  // href, including any query string or fragment, then strips those off for
+  // path-matching below. The previous pattern (`[^"#?]*` inside the capture)
+  // required the href to end exactly at the closing quote with no `?`/`#` in
+  // it at all -- any internal link carrying a query string or fragment (e.g.
+  // the new "Report a correction" links, `/report-a-correction/?page=...`)
+  // silently failed to match this regex AT ALL, so that whole <a> tag was
+  // invisible to every check below: not counted as an inbound link (a real
+  // orphan-page false positive), not checked for brokenness, not checked for
+  // generic anchor text. This was a genuine, pre-existing blind spot across
+  // the entire site, not specific to this one new link.
+  const anchorRe = /<a\b[^>]*\bhref="(\/[^"]*)"[^>]*>([\s\S]*?)<\/a>/g;
   let m;
   while ((m = anchorRe.exec(html))) {
-    const href = m[1];
+    const href = m[1].split(/[?#]/)[0] || '/';
     const rawText = m[2].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 
     // Track inbound links to real pages (skip self-links and asset paths)

@@ -9,7 +9,28 @@
  * dispatch) around it.
  */
 
-export type EnquiryKind = 'student' | 'tutoring' | 'school' | 'trial';
+export type EnquiryKind = 'student' | 'tutoring' | 'school' | 'trial' | 'correction';
+
+/**
+ * Section 9 of the Flagship Dominance/Trust programme brief (2026-08-31,
+ * D-095) asks for a corrections/error-report system "distinguishable from
+ * tuition enquiries." Rather than build a second, parallel form-handling
+ * pipeline, `correction` reuses this exact same validated, spam-hardened
+ * endpoint (same-origin check, honeypot, Turnstile, rate limiting, Resend
+ * delivery) as its own EnquiryKind, with its own field set below and its
+ * own subject line (functions/api/enquiry.ts) and GA4 event name (a plain
+ * `report_correction` custom event, NOT `generate_lead` -- a correction
+ * report is not a sales lead, and no new GA4 KEY event is starred here
+ * without the owner's explicit approval, matching this repo's established
+ * practice for whatsapp_click, D-080).
+ */
+const ISSUE_TYPES = [
+  'Wrong subject, board or qualification shown',
+  'Outdated or incorrect syllabus information',
+  'Factual error in the content',
+  'Broken link or missing content',
+  'Something else',
+] as const;
 
 /**
  * The exact field set EnquiryForm.astro renders for each kind. Anything
@@ -53,6 +74,14 @@ const FIELDS_BY_KIND: Record<EnquiryKind, { required: string[]; optional: string
   trial: {
     required: ['name', 'email', 'country', 'message'],
     optional: ['phone'],
+  },
+  // Deliberately NOT name/phone/country -- a correction report is not a
+  // tuition enquiry and shouldn't ask for enrolment-shaped fields. pageUrl
+  // is auto-captured client-side (CorrectionForm.astro) but still a real,
+  // editable, required field so it degrades honestly if JS is off.
+  correction: {
+    required: ['pageUrl', 'issueType', 'description'],
+    optional: ['email'],
   },
 };
 
@@ -121,17 +150,24 @@ export function validateEnquiry(
     errors.email = 'Please enter a valid email address.';
   }
 
+  if (kind === 'correction' && data.issueType && !(ISSUE_TYPES as readonly string[]).includes(data.issueType)) {
+    errors.issueType = 'Please choose one of the listed issue types.';
+  }
+
   if (Object.keys(errors).length > 0) {
     return { ok: false, errors };
   }
   return { ok: true, data };
 }
 
+export const CORRECTION_ISSUE_TYPES = ISSUE_TYPES;
+
 const KIND_LABEL: Record<EnquiryKind, string> = {
   student: 'Student / parent enquiry',
   tutoring: 'Tutoring enquiry',
   school: 'School enquiry',
   trial: 'Free trial class request',
+  correction: 'Correction report (not a tuition enquiry)',
 };
 
 const FIELD_LABEL: Record<string, string> = {
@@ -139,6 +175,7 @@ const FIELD_LABEL: Record<string, string> = {
   country: 'Country', message: 'Message',
   qualification: 'Qualification', board: 'Exam board', subject: 'Subject',
   availability: 'Availability',
+  pageUrl: 'Page', issueType: 'Issue type', description: 'What looks wrong',
 };
 
 /** Plain-text email body. Every value was already sanitized by validateEnquiry. */

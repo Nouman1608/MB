@@ -14,7 +14,6 @@ import { relatedResources, relatedArticles, topicSiblings } from '../../utils/co
 import { articleNode } from '../../utils/schema/article';
 import { routes, resourceUrl } from '../../utils/urls/routes';
 import { syllabusFor } from '../../data/academic/syllabuses';
-import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 
 export async function getStaticPaths() {
   const resources = await getResources();
@@ -60,9 +59,16 @@ const qualificationNames = d.qualifications.map((slug) => qualificationBySlug(sl
 const officialSyllabus = (d.boards.length === 1 && d.qualifications.length === 1)
   ? syllabusFor(d.boards[0], d.qualifications[0], d.subject.id)
   : undefined;
-const correctionHref = `mailto:${FALLBACK_EMAIL}`
-  + `?subject=${encodeURIComponent(`Correction: ${d.title}`)}`
-  + `&body=${encodeURIComponent(`Page: https://marlbridge.com${path}\n\nWhat looks wrong:\n`)}`;
+/**
+ * Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095):
+ * replaces the earlier mailto: link with the structured corrections form
+ * (src/pages/report-a-correction/) -- a categorized issue type, a proper
+ * description field, and this page's own URL auto-captured via ?page=,
+ * rather than relying on a visitor's mail client to fill in a template.
+ * The form page still offers a plain-email fallback for anyone who'd
+ * rather not use it.
+ */
+const correctionHref = `${routes.reportCorrection}?page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
 const alignedToParts = [...boardNames, ...qualificationNames, subject?.data.title].filter(Boolean) as string[];
 let alignedToText = `Aligned to ${alignedToParts.join(' ')}`;
 if (d.syllabusCodes.length > 0) alignedToText += ` (${d.syllabusCodes.join(', ')})`;
