@@ -1,5 +1,5 @@
 ---
-title: "Aspects of Dramatic Tragedy (9675): Practice Questions — Practice Questions"
+title: "Aspects of Dramatic Tragedy (9675): Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

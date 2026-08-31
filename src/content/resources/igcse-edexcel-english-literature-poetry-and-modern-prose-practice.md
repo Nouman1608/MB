@@ -1,5 +1,5 @@
 ---
-title: "Poetry and Modern Prose (4ET1): Practice Questions — Practice Questions"
+title: "Poetry and Modern Prose (4ET1): Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

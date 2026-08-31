@@ -1,5 +1,5 @@
 ---
-title: "Cambridge O Level English Language 1123: Practice Questions — Practice Questions"
+title: "Cambridge O Level English Language 1123: Practice Questions"
 resourceType: "practice-questions"
 subject: "english"
 level: ["o-levels"]

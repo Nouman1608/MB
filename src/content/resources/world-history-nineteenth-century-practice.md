@@ -1,5 +1,5 @@
 ---
-title: "The Nineteenth Century, 1848–1914: Practice Questions — Practice Questions"
+title: "The Nineteenth Century, 1848–1914: Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

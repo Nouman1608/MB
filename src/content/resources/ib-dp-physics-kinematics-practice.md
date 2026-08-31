@@ -1,5 +1,5 @@
 ---
-title: "Kinematics: Practice Questions — Practice Questions"
+title: "Kinematics: Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["ib"]

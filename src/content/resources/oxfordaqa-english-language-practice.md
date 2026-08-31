@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA English Language: Practice Questions — Practice Questions"
+title: "OxfordAQA English Language: Practice Questions"
 resourceType: "practice-questions"
 subject: "english"
 level: ["igcse"]

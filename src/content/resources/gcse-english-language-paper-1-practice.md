@@ -1,5 +1,5 @@
 ---
-title: "Paper 1 Creative Reading and Writing: Practice Questions — Practice Questions"
+title: "Paper 1 Creative Reading and Writing: Practice Questions"
 resourceType: "practice-questions"
 subject: "english"
 level: ["gcse"]

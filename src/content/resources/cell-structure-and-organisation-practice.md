@@ -1,5 +1,5 @@
 ---
-title: "Cell Structure and Organisation: Practice Questions — Practice Questions"
+title: "Cell Structure and Organisation: Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["o-levels"]

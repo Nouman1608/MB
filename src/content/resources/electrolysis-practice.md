@@ -1,5 +1,5 @@
 ---
-title: "Electrolysis and Fuel Cells: Practice Questions — Practice Questions"
+title: "Electrolysis and Fuel Cells: Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

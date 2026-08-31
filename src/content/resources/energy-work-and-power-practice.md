@@ -1,5 +1,5 @@
 ---
-title: "Energy, Work and Power: Practice Questions — Practice Questions"
+title: "Energy, Work and Power: Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

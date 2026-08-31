@@ -1,5 +1,5 @@
 ---
-title: "Data and Its Collection: Practice Questions — Practice Questions"
+title: "Data and Its Collection: Practice Questions"
 resourceType: "practice-questions"
 subject: "statistics"
 level: ["igcse"]

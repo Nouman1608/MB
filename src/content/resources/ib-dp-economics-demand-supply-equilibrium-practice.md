@@ -1,5 +1,5 @@
 ---
-title: "Demand, Supply and Market Equilibrium: Practice Questions — Practice Questions"
+title: "Demand, Supply and Market Equilibrium: Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["ib"]

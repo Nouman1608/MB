@@ -1,5 +1,5 @@
 ---
-title: "Data and Its Collection (O Level 4040): Practice Questions — Practice Questions"
+title: "Data and Its Collection (O Level 4040): Practice Questions"
 resourceType: "practice-questions"
 subject: "statistics"
 level: ["o-levels"]

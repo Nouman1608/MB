@@ -1,5 +1,5 @@
 ---
-title: "The Fundamentals of Accounting: Practice Questions — Practice Questions"
+title: "The Fundamentals of Accounting: Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse"]

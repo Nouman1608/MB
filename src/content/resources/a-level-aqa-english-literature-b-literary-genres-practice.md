@@ -1,5 +1,5 @@
 ---
-title: "Paper 1 Literary Genres (7717): Practice Questions — Practice Questions"
+title: "Paper 1 Literary Genres (7717): Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

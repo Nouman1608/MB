@@ -1,5 +1,5 @@
 ---
-title: "Component 1 Written Exam (9239): Practice Questions — Practice Questions"
+title: "Component 1 Written Exam (9239): Practice Questions"
 resourceType: "practice-questions"
 subject: "global-perspectives"
 level: ["a-levels"]

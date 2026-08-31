@@ -60,6 +60,36 @@ for (const f of files) {
 const dupTitles = [...byTitle.entries()].filter(([, paths]) => paths.length > 1);
 const dupDescs = [...byDesc.entries()].filter(([, paths]) => paths.length > 1);
 
+/**
+ * Flagship Dominance/Trust programme -- self-duplicated title segment
+ * check (Priority 2: "Practice Questions — Practice Questions" and the
+ * same class of bug for any other repeated em-dash-separated segment).
+ * Label-agnostic on purpose: rather than hardcoding a list of resource-type
+ * labels here (which would drift from resourceCategoryMeta in
+ * src/utils/content/collections.ts), this flags any title where two
+ * ADJACENT " — "-separated segments are identical -- exactly the shape of
+ * the bug regardless of which resource type produced it, and it does not
+ * false-positive on titles that legitimately reuse a word non-adjacently.
+ * The check is a SUFFIX match, not full-segment equality: the real bug
+ * shape is "<prefix>: Practice Questions — Practice Questions", where the
+ * first occurrence is the tail of a longer colon-joined segment, not a
+ * standalone segment identical to the next one.
+ */
+const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const selfDupTitles = [];
+for (const [title] of byTitle) {
+  const segments = title.split(' — ').map((s) => s.trim());
+  for (let i = 1; i < segments.length; i++) {
+    const seg = segments[i];
+    if (!seg) continue;
+    const boundaryBefore = new RegExp(`(^|[:\\s])${escapeRegex(seg)}$`);
+    if (boundaryBefore.test(segments[i - 1])) {
+      selfDupTitles.push({ title, segment: seg });
+      break;
+    }
+  }
+}
+
 console.log(`Metadata audit -- ${files.length} pages scanned.\n`);
 console.log(`Missing title/description: ${missing.length}`);
 for (const m of missing) console.log(`  ✗ ${m.path} -- ${m.issue}`);
@@ -76,6 +106,11 @@ for (const [desc, paths] of dupDescs) {
   for (const p of paths) console.log(`      - ${p}`);
 }
 
-const problems = missing.length + dupTitles.length + dupDescs.length;
+console.log(`\nSelf-duplicated title segments: ${selfDupTitles.length}`);
+for (const { title, segment } of selfDupTitles) {
+  console.log(`  ✗ "${title}" repeats the segment "${segment}" back-to-back`);
+}
+
+const problems = missing.length + dupTitles.length + dupDescs.length + selfDupTitles.length;
 console.log(`\n${problems === 0 ? 'PASS' : 'FAIL'}: ${problems} problem(s) found.`);
 process.exit(problems === 0 ? 0 : 1);

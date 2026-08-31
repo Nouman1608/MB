@@ -1,5 +1,5 @@
 ---
-title: "Islamiyat Paper 1: Practice Questions — Practice Questions"
+title: "Islamiyat Paper 1: Practice Questions"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["igcse"]

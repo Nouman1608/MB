@@ -1,5 +1,5 @@
 ---
-title: "The History and Culture of Pakistan: Practice Questions — Practice Questions"
+title: "The History and Culture of Pakistan: Practice Questions"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

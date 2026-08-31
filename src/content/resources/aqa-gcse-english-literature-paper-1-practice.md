@@ -1,5 +1,5 @@
 ---
-title: "Shakespeare and the 19th-Century Novel (8702): Practice Questions — Practice Questions"
+title: "Shakespeare and the 19th-Century Novel (8702): Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["gcse"]

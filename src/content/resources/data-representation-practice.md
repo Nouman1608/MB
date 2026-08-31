@@ -1,5 +1,5 @@
 ---
-title: "Data Representation: Practice Questions — Practice Questions"
+title: "Data Representation: Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

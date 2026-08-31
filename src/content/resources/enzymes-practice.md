@@ -1,5 +1,5 @@
 ---
-title: "Enzymes: Practice Questions — Practice Questions"
+title: "Enzymes: Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["o-levels"]

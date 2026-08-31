@@ -1,5 +1,5 @@
 ---
-title: "Methods in Context: Practice Questions — Practice Questions"
+title: "Methods in Context: Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["a-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "A Level English Language: Practice Questions — Practice Questions"
+title: "A Level English Language: Practice Questions"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

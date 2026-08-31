@@ -1,5 +1,5 @@
 ---
-title: "Functions: Practice Questions — Practice Questions"
+title: "Functions: Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

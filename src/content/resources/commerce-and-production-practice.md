@@ -1,5 +1,5 @@
 ---
-title: "Commerce and Production: Practice Questions — Practice Questions"
+title: "Commerce and Production: Practice Questions"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["igcse"]

@@ -1,5 +1,5 @@
 ---
-title: "Algebraic Manipulation: Practice Questions — Practice Questions"
+title: "Algebraic Manipulation: Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

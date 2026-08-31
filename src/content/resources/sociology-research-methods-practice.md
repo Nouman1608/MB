@@ -1,5 +1,5 @@
 ---
-title: "Sociology Research Methods: Practice Questions — Practice Questions"
+title: "Sociology Research Methods: Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["igcse"]

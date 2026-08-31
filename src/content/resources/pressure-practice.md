@@ -1,5 +1,5 @@
 ---
-title: "Pressure and Density: Practice Questions — Practice Questions"
+title: "Pressure and Density: Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

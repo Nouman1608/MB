@@ -1,5 +1,5 @@
 ---
-title: "States of Matter and Kinetic Particle Theory: Practice Questions — Practice Questions"
+title: "States of Matter and Kinetic Particle Theory: Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

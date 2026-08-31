@@ -1,5 +1,5 @@
 ---
-title: "Sequences and Proportion: Practice Questions — Practice Questions"
+title: "Sequences and Proportion: Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]
