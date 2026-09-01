@@ -721,7 +721,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Physics specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International AS and A-level Physics (9630); International AS (9610) is co-teachable. Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.9 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change) are International A-level only. All 9 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19.",
+    notes: "OxfordAQA International AS and A-level Physics (9630); International AS (9610) is co-teachable. Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.9 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change) are International A-level only. All 9 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19. Content of 3.2.3 (Motion along a straight line) and 3.2.5 (Newton's laws of motion) re-verified against the same PDF (oxfordaqaexams.org.uk/9630, Version 4.4), fetched 2026-09-02.",
     topics: [
       { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-oxfordaqa-alevel', subtopics: [
         { number: '3.1.1', name: 'Use of SI units and their prefixes', slug: 'use-of-si-units-and-their-prefixes-oxfordaqa' },
@@ -1050,7 +1050,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Mathematics (9660) specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-mathematics-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International AS and A-level Mathematics (9660) is modular: the International AS (Unit P1 + Unit PSM1) is 50% of the full International A-level content and 40% of its marks, with the International A-level adding Unit P2 plus a choice of Unit S2 (Statistics) or Unit M2 (Mechanics). Unit PSM1 itself combines Pure Maths (PP1), Statistics (S1) and Mechanics (M1) sub-units. Recorded here as 7 top-level units, each with its own named sub-topics, reproduced from the official specification PDF's own P1.x/PP1.x/S1.x/M1.x/P2.x/S2.x/M2.x numbering (oxfordaqa.com), fetched 2026-08-19.",
+    notes: "OxfordAQA International AS and A-level Mathematics (9660) is modular: the International AS (Unit P1 + Unit PSM1) is 50% of the full International A-level content and 40% of its marks, with the International A-level adding Unit P2 plus a choice of Unit S2 (Statistics) or Unit M2 (Mechanics). Unit PSM1 itself combines Pure Maths (PP1), Statistics (S1) and Mechanics (M1) sub-units. Recorded here as 7 top-level units, each with its own named sub-topics, reproduced from the official specification PDF's own P1.x/PP1.x/S1.x/M1.x/P2.x/S2.x/M2.x numbering (oxfordaqa.com), fetched 2026-08-19. Content of S1.3 (Bernoulli and binomial distributions) re-verified against the same PDF, fetched 2026-09-02.",
     topics: [
       { number: 1, name: 'Unit P1: Pure Maths (International AS)', slug: 'unit-p1-pure-maths-oxfordaqa-alevel-maths', subtopics: [
         { number: 'P1.1', name: 'Algebra', slug: 'p1-algebra-oxfordaqa-alevel-maths' },
@@ -1257,7 +1257,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official A-level Mathematics (7357) specification, live subject-content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/a-level/mathematics-7357/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA A-level Mathematics (7357), first teaching September 2017. The subject content is set out by the Department for Education and is common across all exam boards offering A-level Mathematics -- the 21 lettered subject-content sections and their weighting are prescribed by Ofqual/DfE, not set independently by AQA. Section names verified directly against the live AQA specification subject-content index pages (aqa.org.uk). Topic 1 (Overarching themes) subtopics reproduce the specification PDF's own OT1-OT3 sub-headings, fetched and verified 2026-08-21; sections 2-21 remain name-only pending the same fetch for their content.",
+    notes: "AQA A-level Mathematics (7357), first teaching September 2017. The subject content is set out by the Department for Education and is common across all exam boards offering A-level Mathematics -- the 21 lettered subject-content sections and their weighting are prescribed by Ofqual/DfE, not set independently by AQA. Section names verified directly against the live AQA specification subject-content index pages (aqa.org.uk). Topic 1 (Overarching themes) subtopics reproduce the specification PDF's own OT1-OT3 sub-headings, fetched and verified 2026-08-21. Topic 3 (B: Algebra and functions) subtopics B1-B9 reproduce the specification PDF's own numbered content statements, fetched and verified 2026-09-02 (from the current AQA-hosted specification PDF at cdn.sanity.io, linked from the live aqa.org.uk subject-content page); sections 2 and 4-21 remain name-only pending the same fetch for their content.",
     topics: [
       { number: 1, name: 'Overarching themes', slug: 'overarching-themes-aqa-alevel-maths', subtopics: [
         { number: 'OT1', name: 'Mathematical argument, language and proof', slug: 'ot1-mathematical-argument-language-and-proof-aqa-alevel-maths' },
@@ -1265,7 +1265,17 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: 'OT3', name: 'Mathematical modelling', slug: 'ot3-mathematical-modelling-aqa-alevel-maths' },
       ] },
       { number: 2, name: 'A: Proof', slug: 'a-proof-aqa-alevel-maths', subtopics: [] },
-      { number: 3, name: 'B: Algebra and functions', slug: 'b-algebra-and-functions-aqa-alevel-maths', subtopics: [] },
+      { number: 3, name: 'B: Algebra and functions', slug: 'b-algebra-and-functions-aqa-alevel-maths', subtopics: [
+        { number: 'B1', name: 'Laws of indices for rational exponents', slug: 'b1-laws-of-indices-aqa-alevel-maths' },
+        { number: 'B2', name: 'Surds', slug: 'b2-surds-aqa-alevel-maths' },
+        { number: 'B3', name: 'Quadratic functions and their graphs', slug: 'b3-quadratic-functions-aqa-alevel-maths' },
+        { number: 'B4', name: 'Simultaneous equations', slug: 'b4-simultaneous-equations-aqa-alevel-maths' },
+        { number: 'B5', name: 'Linear and quadratic inequalities', slug: 'b5-inequalities-aqa-alevel-maths' },
+        { number: 'B6', name: 'Manipulating polynomials', slug: 'b6-manipulating-polynomials-aqa-alevel-maths' },
+        { number: 'B7', name: 'Graphs of functions', slug: 'b7-graphs-of-functions-aqa-alevel-maths' },
+        { number: 'B8', name: 'Composite and inverse functions', slug: 'b8-composite-and-inverse-functions-aqa-alevel-maths' },
+        { number: 'B9', name: 'Transformations of graphs', slug: 'b9-transformations-of-graphs-aqa-alevel-maths' },
+      ] },
       { number: 4, name: 'C: Coordinate geometry in the (x, y) plane', slug: 'c-coordinate-geometry-aqa-alevel-maths', subtopics: [] },
       { number: 5, name: 'D: Sequences and series', slug: 'd-sequences-and-series-aqa-alevel-maths', subtopics: [] },
       { number: 6, name: 'E: Trigonometry', slug: 'e-trigonometry-aqa-alevel-maths', subtopics: [] },
@@ -1675,10 +1685,17 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Biology (9610) specification PDF, Version 5.1',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-biology-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International AS and A-level Biology (9610), for teaching from September 2016; International AS exams from May/June 2017, International A-level exams from May/June 2018. Modular: Units 1-2 form the International AS (50% of the full A-level content, 40% of final marks); Units 3-4 are International A2-only. Four unit names reproduced directly from the official specification PDF's 'Specification at a glance' section, fetched 2026-08-19.",
+    notes: "OxfordAQA International AS and A-level Biology (9610), for teaching from September 2016; International AS exams from May/June 2017, International A-level exams from May/June 2018. Modular: Units 1-2 form the International AS (50% of the full A-level content, 40% of final marks); Units 3-4 are International A2-only. Four unit names reproduced directly from the official specification PDF's 'Specification at a glance' section, fetched 2026-08-19. Unit 2 (Biological systems and disease) sub-topic structure (3.2.1-3.2.6) reproduced directly from the same PDF's subject-content chapter, fetched and verified 2026-09-02.",
     topics: [
       { number: 1, name: 'The diversity of living organisms', slug: 'the-diversity-of-living-organisms-oxfordaqa-alevel-biology', stage: 'AS', subtopics: [] },
-      { number: 2, name: 'Biological systems and disease', slug: 'biological-systems-and-disease-oxfordaqa-alevel-biology', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Biological systems and disease', slug: 'biological-systems-and-disease-oxfordaqa-alevel-biology', stage: 'AS', subtopics: [
+        { number: '3.2.1', name: 'The causes of disease: pathogens, lifestyle and genes', slug: 'the-causes-of-disease-pathogens-lifestyle-and-genes-oxfordaqa-alevel-biology' },
+        { number: '3.2.2', name: 'Digestion and absorption', slug: 'digestion-and-absorption-oxfordaqa-alevel-biology' },
+        { number: '3.2.3', name: 'Cholera', slug: 'cholera-oxfordaqa-alevel-biology' },
+        { number: '3.2.4', name: 'HIV as an example of a human disease caused by a virus', slug: 'hiv-as-an-example-of-a-human-disease-caused-by-a-virus-oxfordaqa-alevel-biology' },
+        { number: '3.2.5', name: 'The defensive functions of mammalian blood', slug: 'the-defensive-functions-of-mammalian-blood-oxfordaqa-alevel-biology' },
+        { number: '3.2.6', name: 'The circulation of blood and the structure of the mammalian heart', slug: 'the-circulation-of-blood-and-heart-structure-oxfordaqa-alevel-biology' },
+      ] },
       { number: 3, name: 'Populations and genes', slug: 'populations-and-genes-oxfordaqa-alevel-biology', stage: 'A', subtopics: [] },
       { number: 4, name: 'Control', slug: 'control-oxfordaqa-alevel-biology', stage: 'A', subtopics: [] },
     ],
@@ -2413,7 +2430,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Pearson Edexcel — official International Advanced Subsidiary/Advanced Level in Accounting specification PDF (Issue 2, September 2018)',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Accounting/2015/specification-and-sample-assessments/pearson-edexcel-ial-accounting-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'International Advanced Subsidiary code XAC11 (Unit 1 only, unit code WAC11); International Advanced Level code YAC11 (both units). First teaching September 2015, Issue 2 reissued September 2018 with no newer issue found. Unit 1 (The Accounting System and Costing, code WAC11) is the compulsory IAS unit; Unit 2 (Corporate and Management Accounting, code WAC12) is the IA2 unit completing the full IAL. Topic 1 sub-topics reproduced directly from the official specification PDF Unit content section 1.1 (grouped from numbered outcomes 1.1.1-1.1.20), fetched 2026-08-21. Honest-partial: topics 2-15 are verified in full by name directly from the PDF\'s content-overview tables, but their sub-topic detail is not yet entered.',
+    notes: 'International Advanced Subsidiary code XAC11 (Unit 1 only, unit code WAC11); International Advanced Level code YAC11 (both units). First teaching September 2015, Issue 2 reissued September 2018 with no newer issue found. Unit 1 (The Accounting System and Costing, code WAC11) is the compulsory IAS unit; Unit 2 (Corporate and Management Accounting, code WAC12) is the IA2 unit completing the full IAL. Topic 1 sub-topics reproduced directly from the official specification PDF Unit content section 1.1 (grouped from numbered outcomes 1.1.1-1.1.20), fetched 2026-08-21. Topic 2 (Control procedures) sub-topics grouped from the PDF\'s own numbered outcomes 1.2.1-1.2.9, fetched and verified 2026-09-02. Honest-partial: topics 3-15 are verified in full by name directly from the PDF\'s content-overview tables, but their sub-topic detail is not yet entered.',
     topics: [
       { number: 1, name: 'Principles of accounting and double entry bookkeeping', slug: 'principles-of-accounting-and-double-entry-bookkeeping', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Role and purpose of accounting', slug: 'role-and-purpose-of-accounting-yac11' },
@@ -2422,7 +2439,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.4', name: 'Capital expenditure and revenue expenditure', slug: 'capital-and-revenue-expenditure-yac11' },
         { number: '1.5', name: 'Non-current asset depreciation', slug: 'non-current-asset-depreciation-yac11' },
       ] },
-      { number: 2, name: 'Control procedures', slug: 'control-procedures', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Control procedures', slug: 'control-procedures', stage: 'AS', subtopics: [
+        { number: '1.2.1-1.2.2', name: 'Trial balance', slug: 'trial-balance-yac11' },
+        { number: '1.2.3-1.2.4', name: 'Control accounts', slug: 'control-accounts-yac11' },
+        { number: '1.2.5-1.2.9', name: 'Correction of errors', slug: 'correction-of-errors-yac11' },
+      ] },
       { number: 3, name: 'Financial statements of organisations', slug: 'financial-statements-of-organisations', stage: 'AS', subtopics: [] },
       { number: 4, name: 'Introduction to costing', slug: 'introduction-to-costing', stage: 'AS', subtopics: [] },
       { number: 5, name: 'Analysis of accounting statements', slug: 'analysis-of-accounting-statements', stage: 'AS', subtopics: [] },
@@ -2495,7 +2516,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA International Qualifications — official qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-accounting/', verifiedDate: '2026-08-19',
-    notes: 'Version updated February 2024. Modular: AS Papers 1-2 (topics 1-10) form the AS-level and 40% of the A-level; A-level Papers 1-2 (topics 11-20) add the remaining 60%. Honest-partial: all 20 named topics verified in full and in order directly from OxfordAQA\'s own "Syllabus summary" and per-paper assessment breakdown on the live qualification page; named sub-topics are not published there and are not yet entered.',
+    notes: 'Version updated February 2024. Modular: AS Papers 1-2 (topics 1-10) form the AS-level and 40% of the A-level; A-level Papers 1-2 (topics 11-20) add the remaining 60%. Honest-partial: all 20 named topics verified in full and in order directly from OxfordAQA\'s own "Syllabus summary" and per-paper assessment breakdown on the live qualification page; named sub-topics are not published there. Topic 2 (Types of business organisation) is a genuine flat section with no numbered sub-headings, confirmed via the full specification PDF (oxfordaqa.com/wp-content/uploads/2024/05/oxfordaqa-a-level-accounting-specification.pdf), fetched and verified 2026-09-02: it covers business ownership models (sole traders, partnerships, private Ltd and public plc), their benefits/risks/reporting impact, and sources of finance (owner\'s capital, partners\' capital, bank overdraft, bank loan, mortgage, ordinary shares, debentures) -- content essentially identical to AQA\'s own A-level Accounting (7127) Topic 2, since OxfordAQA licenses AQA\'s A-level Accounting specification. Other topics remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'An introduction to the role of the accountant in business', slug: 'an-introduction-to-the-role-of-the-accountant-in-business-oxfordaqa', stage: 'AS', subtopics: [] },
       { number: 2, name: 'Types of business organisation', slug: 'types-of-business-organisation-oxfordaqa', stage: 'AS', subtopics: [] },
@@ -2812,10 +2833,15 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA International Qualifications — official qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-computer-science/', verifiedDate: '2026-08-19',
-    notes: 'Version updated February 2024. Modular: AS Papers 1-2 (topics 1-8) form the AS-level and 40% of the A-level; A-level Papers 1-2 (topics 9-16) add the remaining 60%. Honest-partial: all 16 named topics verified in full and in order directly from OxfordAQA\'s own "Syllabus summary" and per-paper assessment breakdown on the live qualification page; named sub-topics are not published there and are not yet entered.',
+    notes: 'Version updated February 2024, Version 1.1, International AS exams May/June 2025 onwards, International A-level exams May/June 2026 onwards. Modular: AS Papers 1-2 (topics 1-8) form the AS-level and 40% of the A-level; A-level Papers 1-2 (topics 9-16) add the remaining 60%. Honest-partial: all 16 named topics verified in full and in order directly from OxfordAQA\'s own "Syllabus summary" and per-paper assessment breakdown on the live qualification page; named sub-topics are not published there. Topic 2 (Fundamental data structures) sub-topic structure (3.2.1-3.2.4) reproduced directly from the full specification PDF (oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-a-level-computer-science-specification.pdf), fetched and verified 2026-09-02 -- distinct, Python-oriented content from AQA\'s own A-level Computer Science (7517) equivalent topic, not shared verbatim. Other topics remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Procedural programming', slug: 'procedural-programming', stage: 'AS', subtopics: [] },
-      { number: 2, name: 'Fundamental data structures', slug: 'fundamental-data-structures', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Fundamental data structures', slug: 'fundamental-data-structures', stage: 'AS', subtopics: [
+        { number: '3.2.1', name: 'Arrays and lists', slug: 'arrays-and-lists-oxfordaqa-alevel-cs' },
+        { number: '3.2.2', name: 'Records', slug: 'records-oxfordaqa-alevel-cs' },
+        { number: '3.2.3', name: 'Queues', slug: 'queues-oxfordaqa-alevel-cs' },
+        { number: '3.2.4', name: 'Stacks', slug: 'stacks-oxfordaqa-alevel-cs' },
+      ] },
       { number: 3, name: 'Program design', slug: 'program-design-9645', stage: 'AS', subtopics: [] },
       { number: 4, name: 'Searching and sorting algorithms', slug: 'searching-and-sorting-algorithms', stage: 'AS', subtopics: [] },
       { number: 5, name: 'Representing data', slug: 'representing-data', stage: 'AS', subtopics: [] },
@@ -3702,7 +3728,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
     sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-geography-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS: Unit 1 (choice of Hot Desert or Coastal Systems option) and Unit 2. A2 adds Units 3-5. Candidates may take Unit 1 (a or b) and 2 only for AS, or continue to Units 3-5 for the full A-level.',
+    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS: Unit 1 (choice of Hot Desert or Coastal Systems option) and Unit 2. A2 adds Units 3-5. Candidates may take Unit 1 (a or b) and 2 only for AS, or continue to Units 3-5 for the full A-level. Unit 2.1 (Global Systems and Governance) content -- covering 3.2.1.1 Globalisation, 3.2.1.2 Global systems, and 3.2.1.3 International trade and access to markets -- verified directly against the same specification PDF, fetched and read in full 2026-09-02; the Subtopic schema used in this file does not support a third nesting level, so this finer breakdown is documented here rather than as additional taxonomy entries.',
     topics: [
       { number: 1, name: 'Unit 1 – Physical Geography 1: Living with Hazards', slug: 'unit-1-physical-geography-1-9635', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Unit 1a: Living with Hazards — Hot Desert Systems and Landscapes', slug: 'unit-1a-hot-desert-systems-9635' },
