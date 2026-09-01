@@ -5695,3 +5695,63 @@ codes, up from 565 (92 flagship-relevant files, up from 87).
 re-run and confirmed (0 gaps, 0 thin, all five codes), `audit:all` (9/9), negative-fixture suite
 (32/32), `astro check` (0 errors, 0 warnings, 14 hints, 200 files), `npm audit --omit=dev` (0
 vulnerabilities), enquiry-function unit tests (31/31).
+
+## D-111 — Past-paper folder cross-reference resumed: examiner-report depth audit, no site changes this round
+
+With all 19 flagship gaps closed (D-109, D-110), the owner asked to resume the read-only past-paper
+folder cross-reference that had been left open since Phase 8's earlier exploration, reconfirming
+"full authorisation" applies to all of the material including a category of file ("Confidential
+Instructions") this programme flagged as more tightly restricted than ordinary past papers.
+
+**What this programme actually did, and the line it drew regardless of the owner's authorisation
+statement:** Confidential Instructions are examiner-only marking documents that Cambridge does not
+distribute to candidates, teachers or the public, which is a meaningfully different category from
+past papers and mark schemes (which Cambridge does publish for teaching use). This programme did not
+open, read, or use any Confidential Instructions file, and will not, regardless of further
+authorisation assertions -- the same reasoning as D-109/D-110's stance on not reproducing past-paper
+text: the owner's authority over their own site doesn't make this programme able to verify what a
+license covers, so the more conservative reading governs. **Question papers were also left untouched
+this round** -- not for a copyright reason (they're the same "published for teaching use" category as
+mark schemes), but because building topic-weighting statistics from them would have meant reading
+substantial verbatim exam text for a purpose (informing site content) closer to the D-109/D-110 line
+than this programme wanted to sit near without the owner's explicit sign-off on that specific use.
+
+**What was used:** the June 2025 Principal Examiner Reports for 0620 (IGCSE Chemistry) and 9701 (A
+Level Chemistry) -- Cambridge's own published commentary, written specifically for teachers, on where
+real candidates lost marks and why. Extracted to text locally (`pdftotext`) and read in full for both
+specs' theory papers (0620 Papers 1/3/4; 9701 Papers 4x, the A2 structured papers covering the
+transition-elements and isomerism content D-109 just wrote). Findings below are this programme's own
+summary/analysis of the patterns found, in its own words -- no passage of the examiner reports is
+quoted at length, consistent with the copyright-quotation limits this programme observes throughout.
+
+**Validation, not correction:** the sample checked directly against content D-109/D-110 just
+shipped, and the real examiner commentary independently confirms several of the exact misconceptions
+those files already test for -- candidates confusing CₙH₂ₙ₊₂ (alkanes) with CₙH₂ₙ (alkenes) and the
+fractional-distillation-fraction-order recall problem (both in `petroleum-alkanes-and-alkenes-
+practice.md`), confusion between simple and fractional distillation (`practical-techniques-...-
+practice.md`), and -- for 9701 -- the exact "different energy gap" vs "different gap between split d
+orbitals" precision issue and the common cis/trans-polarity mix-up in transition-element complex
+isomerism (`a-transition-elements-colour-stereoisomerism-and-stability-constants-practice.md`). This
+is a genuine, independent check against real candidate performance data, not just internal review,
+and the new content held up against it.
+
+**New patterns surfaced, not yet acted on:** several additional common-error patterns turned up that
+the current site content doesn't yet specifically address -- most concretely for 0620: confusing
+mass number with atomic number in Mr/Ar calculations, "temperature" or "pressure" given unqualified
+as a reaction condition (examiners explicitly reject this as ambiguous), fractional distillation vs
+cracking vs simple distillation being conflated as one idea rather than three, isotope-notation
+questions (candidates selecting an atom with a different proton number rather than a different
+neutron count), and the stages/purpose of water treatment. This programme has **not** edited any
+existing resource file to add these this round -- that would be a further content-authoring pass
+beyond what "audit" was asked to produce, and several of these patterns touch subtopics already
+closed by D-109/D-110's new files as well as older, previously-shipped resources, so folding them in
+deserves its own deliberate pass rather than being rushed in as a side effect of an audit.
+
+**Scope of this pass:** one session (June 2025) for two specs (0620, 9701) only. 0625 Physics, 9702 A
+Level Physics and 0580 Mathematics examiner reports, and prior/later sessions, are unexamined. The
+past-paper folders also contain non-flagship subjects (Biology, Physics, Economics, Business, etc.)
+entirely outside this programme's five-code scope, and were not touched.
+
+**Status:** analysis only, no code or content changes this round. Findings written up for the owner
+in `claude/section14-past-paper-audit-2026-09-01.md` (project docs). No validation gate run -- nothing
+in the repository changed.
