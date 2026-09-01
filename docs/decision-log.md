@@ -5755,3 +5755,61 @@ entirely outside this programme's five-code scope, and were not touched.
 **Status:** analysis only, no code or content changes this round. Findings written up for the owner
 in `claude/section14-past-paper-audit-2026-09-01.md` (project docs). No validation gate run -- nothing
 in the repository changed.
+
+## D-112 — Examiner-report audit extended to the remaining flagship specs: 9702 done, 0625/0580 blocked on source material
+
+The owner asked to extend D-111's audit to "all subjects." Clarified with the owner that this meant
+the programme's five flagship specs (consistent with the concentration-of-effort principle this
+programme has followed throughout, D-050/D-108/D-111), not literally every subject in the past-paper
+folders -- those also contain Biology, Business, Computer Science, Economics, English and Urdu
+material, all outside this programme's scope and left untouched.
+
+**9702 A Level Physics: done, same method as D-111.** Read the June 2025 ("s25") Principal Examiner
+Report in full for the AS structured-questions paper (9702/21) and the A2 structured-questions paper
+(9702/41) -- the two papers most comparable to what D-111 sampled for 9701 Chemistry. Same handling
+as D-111: read via `pdftotext` locally, summarised in this programme's own words, nothing quoted at
+length, source PDF deleted from the workspace once read.
+
+Findings, not yet acted on (this session did not author any 9702 practice content, so unlike D-111's
+direct validation against files just written, this is a fresh finding against files authored earlier
+in the engagement -- no claim is made here about whether these are already covered elsewhere in the
+existing 76-subtopic 9702 practice bank, only that the patterns are real and recurring):
+
+- Candidates writing unit-less or dimensionally-loose definitions (omitting "per unit," "rate of," or
+  "sum of," e.g. defining acceleration as "rate of change of velocity per unit time," which is
+  actually a rate of a rate) -- a recurring, generic precision problem across multiple questions, not
+  one topic.
+- Premature rounding of intermediate values in multi-step calculations, and giving surd/fractional
+  final answers when a decimal was required.
+- Confusing vector components in projectile motion (initial vertical velocity vs. total initial
+  velocity).
+- The specific vocabulary distinction examiners enforce around thermal physics (potential energy vs.
+  kinetic energy contributions to internal energy; "breaking bonds" as an incorrect framing for
+  vaporisation/fusion).
+- Exponential decay explained by rote (referencing half-life) rather than by the actual defining
+  property (constant fractional change per unit time, or rate of change proportional to the remaining
+  quantity) -- a real gap in conceptual (not just recall) understanding.
+- Momentum conservation in photon-pair production (electron-positron annihilation) explained
+  incompletely -- most candidates cited "two particles" rather than "opposite directions" as the
+  reason for two photons.
+
+**0625 IGCSE Physics and 0580 IGCSE Mathematics: no usable source material found, and 0580 has a
+structural blocker besides.** The owner's "Papers 2025" and "study resources" folders were searched
+for both codes specifically -- neither has past-paper or examiner-report material for 0625 or 0580 at
+all. What exists adjacent to them is different specifications entirely: 5054 (O Level Physics, not
+IGCSE 0625), 4024 (O Level Mathematics, not IGCSE 0580), and Edexcel's 4PH1 (a different exam board's
+IGCSE Physics) -- none of these are the Cambridge codes the site's flagship definitions actually name,
+so none were used, read, or treated as a substitute. Only the official syllabus specification PDFs for
+0625 and 0580 exist in these folders (Learners_Academy_Specifications), which this programme already
+has independent, verified syllabus data for (`syllabus-topics.ts`).
+
+Separately, and unrelated to source-material availability: 0580 Mathematics still has **no
+subtopic-level taxonomy recorded** in the site's own data (disclosed in D-108, unchanged since) -- so
+even with real 0580 past-paper material in hand, a subtopic-level depth audit against the dashboard
+wouldn't be actionable until that taxonomy exists. That's a separate, larger piece of work, not
+something this audit pass can route around.
+
+**Status:** analysis only for 9702, genuinely blocked (no source material) for 0625 and 0580 --
+correctly reported as blocked rather than substituted with a different specification or skipped
+silently. Findings appended to `claude/section14-past-paper-audit-2026-09-01.md`. No code or content
+changes this round.
