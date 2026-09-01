@@ -2610,10 +2610,14 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697139-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Not tiered. Honest-partial: 21 named topics verified in full from the content-overview table; named sub-topics are not shown on that page and are not yet entered. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) ICT 0983 sibling syllabus (a prior fetch briefly pulled 0983 content by mistake before this was caught and corrected against the genuine 0417 PDF).',
+    notes: 'Not tiered. Honest-partial: 21 named topics verified in full from the content-overview table. Topic 2 (Input and output devices) sub-topic structure (2.1-2.3) reproduced directly from the official syllabus PDF\'s Subject content section, fetched and verified 2026-09-01. Named sub-topics for the remaining topics are not shown on the content-overview page and are not yet entered. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) ICT 0983 sibling syllabus (a prior fetch briefly pulled 0983 content by mistake before this was caught and corrected against the genuine 0417 PDF).',
     topics: [
       { number: 1, name: 'Types and components of computer systems', slug: 'types-and-components-of-computer-systems', subtopics: [] },
-      { number: 2, name: 'Input and output devices', slug: 'input-and-output-devices', subtopics: [] },
+      { number: 2, name: 'Input and output devices', slug: 'input-and-output-devices', subtopics: [
+        { number: '2.1', name: 'Input devices and their uses', slug: 'input-devices-and-their-uses-0417' },
+        { number: '2.2', name: 'Direct data entry and associated devices', slug: 'direct-data-entry-and-associated-devices-0417' },
+        { number: '2.3', name: 'Output devices and their uses', slug: 'output-devices-and-their-uses-0417' },
+      ] },
       { number: 3, name: 'Storage devices and media', slug: 'storage-devices-and-media', subtopics: [] },
       { number: 4, name: 'Networks and the effects of using them', slug: 'networks-and-the-effects-of-using-them', subtopics: [] },
       { number: 5, name: 'The effects of using IT', slug: 'the-effects-of-using-it', subtopics: [] },
@@ -3599,14 +3603,23 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697142-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Paper 1 The History and Culture of Pakistan is divided into three sections examined through key questions. Paper 2 The Environment of Pakistan is organised around cross-cutting themes (developing-country problems, environmental effects and conservation, sustainable development, feasibility studies) rather than a simple numbered topic list — Paper 2 is represented at paper level only; named sub-topic detail was not itemised in the fetched overview.',
+    notes: 'Paper 1 The History and Culture of Pakistan is divided into three sections examined through key questions. Paper 2 The Environment of Pakistan is organised around eight named sections (2.1-2.8), reproduced directly from the official syllabus PDF\'s Syllabus content list of contents, fetched and verified 2026-09-01; each section is also cross-cut by four recurring themes (developing-country problems, environmental effects and conservation, sustainable development, feasibility studies) per the syllabus\'s own \'Themes across the Paper 2 syllabus topics\' guidance. Finer lettered sub-points within each section (e.g. water, forests, minerals, fish within 2.2) are not itemised here.',
     topics: [
       { number: 1, name: 'Paper 1 – The History and Culture of Pakistan', slug: 'paper-1-history-culture-0448', subtopics: [
         { number: '1.1', name: 'Cultural and Historical Background to the Pakistan Movement', slug: 'cultural-historical-background-0448' },
         { number: '1.2', name: 'The Emergence of Pakistan, 1906–47', slug: 'emergence-of-pakistan-0448' },
         { number: '1.3', name: 'Nationhood, 1947–99', slug: 'nationhood-1947-99-0448' },
       ] },
-      { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-0448', subtopics: [] },
+      { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-0448', subtopics: [
+        { number: '2.1', name: 'The land of Pakistan', slug: 'the-land-of-pakistan-0448' },
+        { number: '2.2', name: 'Natural resources – an issue of sustainability', slug: 'natural-resources-sustainability-0448' },
+        { number: '2.3', name: 'Power', slug: 'power-0448' },
+        { number: '2.4', name: 'Agricultural development', slug: 'agricultural-development-0448' },
+        { number: '2.5', name: 'Industrial development', slug: 'industrial-development-0448' },
+        { number: '2.6', name: 'Trade', slug: 'trade-0448' },
+        { number: '2.7', name: 'Transport and telecommunications', slug: 'transport-and-telecommunications-0448' },
+        { number: '2.8', name: 'Population and employment', slug: 'population-and-employment-0448' },
+      ] },
     ],
   },
   {
@@ -3721,7 +3734,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/664633-2025-2027-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'All candidates take Paper 1 (Reading and Writing, 67%, 6 exercises) and Paper 2 (Listening, 33%, 4 exercises). Centres can additionally enter candidates for the optional, separately-endorsed Component 5 Speaking (not counted in the overall qualification grade). Paper 1\'s six exercises (short answer questions, multiple matching, note-making, summary, writing exercise, extended writing exercise) reproduce the specification PDF\'s own exercise-by-exercise breakdown, fetched and verified 2026-08-21.',
+    notes: 'All candidates take Paper 1 (Reading and Writing, 67%, 6 exercises) and Paper 2 (Listening, 33%, 4 exercises). Centres can additionally enter candidates for the optional, separately-endorsed Component 5 Speaking (not counted in the overall qualification grade). Paper 1\'s six exercises (short answer questions, multiple matching, note-making, summary, writing exercise, extended writing exercise) and Paper 2\'s four exercises (short answer questions, gap-fill sentences, multiple matching, multiple-choice questions) reproduce the specification PDF\'s own exercise-by-exercise breakdown; Paper 1 fetched and verified 2026-08-21, Paper 2 fetched and verified 2026-09-01.',
     topics: [
       { number: 1, name: 'Paper 1 – Reading and Writing', slug: 'paper-1-reading-writing-0539', subtopics: [
         { number: '1', name: 'Exercise 1: Short answer questions', slug: 'exercise-1-short-answer-questions-0539' },
@@ -3731,7 +3744,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '5', name: 'Exercise 5: Writing exercise', slug: 'exercise-5-writing-exercise-0539' },
         { number: '6', name: 'Exercise 6: Extended writing exercise', slug: 'exercise-6-extended-writing-exercise-0539' },
       ] },
-      { number: 2, name: 'Paper 2 – Listening', slug: 'paper-2-listening-0539', subtopics: [] },
+      { number: 2, name: 'Paper 2 – Listening', slug: 'paper-2-listening-0539', subtopics: [
+        { number: '1', name: 'Exercise 1: Short answer questions', slug: 'p2-exercise-1-short-answer-questions-0539' },
+        { number: '2', name: 'Exercise 2: Gap-fill sentences', slug: 'p2-exercise-2-gap-fill-sentences-0539' },
+        { number: '3', name: 'Exercise 3: Multiple matching', slug: 'p2-exercise-3-multiple-matching-0539' },
+        { number: '4', name: 'Exercise 4: Multiple-choice questions', slug: 'p2-exercise-4-multiple-choice-questions-0539' },
+      ] },
       { number: 3, name: 'Component 5 – Speaking (optional, separately endorsed)', slug: 'component-5-speaking-0539', subtopics: [] },
     ],
   },
@@ -3900,7 +3918,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/718156-2027-2029-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge IGCSE Environmental Management (0680), 2027-2029 series, is organised into seven topics (a reduction from the syllabus's earlier nine-topic structure). Topic 1 (Natural resources) sub-topic structure (1.1-1.6) reproduced directly from the official syllabus PDF's Subject content section, fetched and verified 2026-08-21. Named sub-topics for topics 2-7 are not yet entered.",
+    notes: "Cambridge IGCSE Environmental Management (0680), 2027-2029 series, is organised into seven topics (a reduction from the syllabus's earlier nine-topic structure). Topic 1 (Natural resources) sub-topic structure (1.1-1.6) and Topic 2 (Land) sub-topic structure (2.1-2.3) reproduced directly from the official syllabus PDF's Subject content section; Topic 1 fetched and verified 2026-08-21, Topic 2 fetched and verified 2026-09-01. Named sub-topics for topics 3-7 are not yet entered.",
     topics: [
       { number: 1, name: 'Natural resources', slug: 'natural-resources-0680', subtopics: [
         { number: '1.1', name: 'Formation of rocks', slug: 'formation-of-rocks-0680' },
@@ -3910,7 +3928,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.5', name: 'Conservation and management of energy resources', slug: 'conservation-and-management-of-energy-resources-0680' },
         { number: '1.6', name: 'Fracking', slug: 'fracking-0680' },
       ] },
-      { number: 2, name: 'Land', slug: 'land-0680', subtopics: [] },
+      { number: 2, name: 'Land', slug: 'land-0680', subtopics: [
+        { number: '2.1', name: 'Soils and crop growth', slug: 'soils-and-crop-growth-0680' },
+        { number: '2.2', name: 'Food production and crop yield', slug: 'food-production-and-crop-yield-0680' },
+        { number: '2.3', name: 'Soil erosion', slug: 'soil-erosion-0680' },
+      ] },
       { number: 3, name: 'Water', slug: 'water-0680', subtopics: [] },
       { number: 4, name: 'The atmosphere and human activities', slug: 'the-atmosphere-and-human-activities-0680', subtopics: [] },
       { number: 5, name: 'Ecosystems, biodiversity and fieldwork', slug: 'ecosystems-biodiversity-and-fieldwork-0680', subtopics: [] },
@@ -3997,13 +4019,20 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/745979-2028-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge IGCSE Commerce (0715), a new syllabus for exams in 2028. Six named topics verified in full from the Content overview section. Topic 1 (Commerce and production) sub-topic structure (1.1-1.2) reproduced directly from the official syllabus PDF's Subject content section, fetched and verified 2026-08-21. Named sub-topics for topics 2-6 are not yet entered.",
+    notes: "Cambridge IGCSE Commerce (0715), a new syllabus for exams in 2028. Six named topics verified in full from the Content overview section. Topic 1 (Commerce and production) sub-topic structure (1.1-1.2) and Topic 2 (Commercial operations) sub-topic structure (2.1-2.6) reproduced directly from the official syllabus PDF's Subject content section; Topic 1 fetched and verified 2026-08-21, Topic 2 fetched and verified 2026-09-01. Named sub-topics for topics 3-6 are not yet entered.",
     topics: [
       { number: 1, name: 'Commerce and production', slug: 'commerce-and-production-0715', subtopics: [
         { number: '1.1', name: 'Trade and commerce', slug: 'trade-and-commerce-0715' },
         { number: '1.2', name: 'Production', slug: 'production-0715' },
       ] },
-      { number: 2, name: 'Commercial operations', slug: 'commercial-operations-0715', subtopics: [] },
+      { number: 2, name: 'Commercial operations', slug: 'commercial-operations-0715', subtopics: [
+        { number: '2.1', name: 'Commercial enterprises', slug: 'commercial-enterprises-0715' },
+        { number: '2.2', name: 'Outsourcing', slug: 'outsourcing-0715' },
+        { number: '2.3', name: 'Retailing', slug: 'retailing-0715' },
+        { number: '2.4', name: 'Wholesaling', slug: 'wholesaling-0715' },
+        { number: '2.5', name: 'Trading documents', slug: 'trading-documents-0715' },
+        { number: '2.6', name: 'Communication', slug: 'communication-0715-commerce' },
+      ] },
       { number: 3, name: 'Globalisation of trade', slug: 'globalisation-of-trade-0715', subtopics: [] },
       { number: 4, name: 'Logistics in commerce', slug: 'logistics-in-commerce-0715', subtopics: [] },
       { number: 5, name: 'Aids to trade that support commerce', slug: 'aids-to-trade-that-support-commerce-0715', subtopics: [] },
