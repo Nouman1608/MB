@@ -73,6 +73,14 @@ Specific heat capacity is the energy needed to raise the temperature of 1 kg of 
 - Mixing up which surfaces are good vs poor radiators: dull/black = good emitter and absorber; shiny/white = poor emitter, good reflector.
 - Writing pV = constant without the condition "at constant temperature, for a fixed mass of gas."
 
+## Examiner report insight
+
+- **Gas pressure and volume** (at constant temperature) are **inversely** proportional, not directly proportional -- as volume decreases, pressure increases, and vice versa; this is one of the most commonly guessed relationships in the whole syllabus.
+- **Thermal radiation can travel through a vacuum** -- it is the only one of the three transfer methods (conduction, convection, radiation) that can, which is precisely why it is the mechanism by which energy reaches Earth from the Sun.
+- **Brownian motion:** smoke or pollen particles move randomly because they are struck by fast-moving, randomly-moving gas or liquid molecules -- not because of the particle's own density relative to the surrounding fluid.
+
+*Source: Cambridge International, 0625 Physics Principal Examiner Report, June 2024 series, Papers 11, 12, 13, 21, 22, 23, 42 (verified 2026-09-02).*
+
 ## Self-test
 
 1. Describe, in terms of particle arrangement and motion, the difference between a liquid and a gas.

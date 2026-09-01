@@ -92,6 +92,14 @@ F = Δp/Δt  (resultant force = rate of change of momentum)
 - Quoting Hooke's law without the "within the limit of proportionality" condition — beyond that limit F = ke no longer holds.
 - Treating efficiency as if it could exceed 100%, or forgetting it must be expressed as useful ÷ total, not total ÷ useful.
 
+## Examiner report insight
+
+- **Momentum conservation from rest:** if two objects start at rest and then move apart (e.g. two trolleys pushed apart by a spring), the total momentum before and after is zero -- don't assume this is a collision where the objects "stick together"; instead, the two final momenta must be equal and opposite.
+- **Instantaneous gradient from a curve:** finding an acceleration (or any rate) at one specific instant on a curved graph needs a tangent drawn and measured at that exact point -- calculating a change in v over a change in t between two different points on the curve does not give the same answer.
+- **Newton's first law:** no resultant force means an object continues at **constant velocity**, not that it is at rest -- a stationary object with no resultant force stays stationary, but a moving one keeps moving at the same speed and direction.
+
+*Source: Cambridge International, 0625 Physics Principal Examiner Report, June 2024 series, Papers 21, 23, 31, 41 (verified 2026-09-02).*
+
 ## Self-test
 
 1. A car's speed–time graph is a straight line from (0 s, 0 m/s) to (10 s, 20 m/s). Find the acceleration and the distance travelled.
