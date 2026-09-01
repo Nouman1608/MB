@@ -5381,3 +5381,89 @@ drift, `dataHashFor` deterministic. Negative-fixture suite: 32/32 (up from 31, n
 Full gate clean (build, `audit:all`, `astro check`, `npm audit`, unit tests -- see D-107's combined
 gate run below, which supersedes this entry's own standalone gate run since both landed in the same
 session).
+
+## D-107 — Sections 37-39: technical SEO re-audit (Twitter Card, title length, description length)
+
+**Date:** 2026-09-01
+
+`scripts/audit-metadata.mjs` checks every built page for a *missing* title/description and for
+titles/descriptions *duplicated* across pages -- it has never checked *length*. Ran a one-off
+measurement across all 1278 built pages (title length, description length, `og:title` presence,
+`twitter:card` presence, canonical presence) to check for a genuinely new class of finding, since
+none of the standing audits cover it. Three real findings, one non-finding, in order of how they
+were investigated:
+
+**1. 60 pages missing `twitter:card` entirely (real gap, fixed).** All 60 traced to one layout:
+`src/layouts/LocaleLayout.astro` (used by all `/ar/`, `/ur/`, `/bn/` translated pages) had full Open
+Graph tags but no `og:image` and no Twitter Card block at all, unlike its English counterpart
+(`src/components/seo/Meta.astro`, which has both). A link to any of the 19 translated pages shared on
+Twitter/X rendered as a bare link instead of a card. Fixed by adding `og:image` and the four
+`twitter:*` tags to `LocaleLayout.astro`, reusing the same `site.ogImage` asset and `absoluteUrl`
+helper every English page already uses -- no new asset, no new review burden, exactly the existing
+pattern replicated onto the layout that was missing it.
+
+**2. 538 titles over Google's practical ~60-65 character truncation point (real gap, fixed --
+narrowly).** Root cause: `pageTitle()` in `src/utils/seo/meta.ts` unconditionally appended
+`" — Marlbridge"` (13 characters) to every non-home title. Many of this site's titles are already
+long because they carry an official board/qualification/subject name (frequently sourced from
+`syllabus.officialTitle`, for accuracy) -- appending the brand suffix routinely pushed those past the
+limit, so it was usually the brand name itself that got truncated out of search results, sometimes
+mid-word. Fix is deliberately narrow: `pageTitle()` now omits the brand suffix when the title itself
+is already over 50 characters, and otherwise behaves exactly as before. It never touches the title
+text itself, so it cannot alter or shorten an official qualification/board name -- a title that's
+long because it's accurately naming a qualification is left exactly as authored, not rewritten.
+Result: 538 → 221 pages over 65 characters. All 221 remaining are titles the fix correctly declined
+to touch (checked a sample: e.g. `"AQA A Level Economics: Individuals, Firms, Markets and Market
+Failure — Practice Questions"`) -- genuinely long authored content, not suffix inflation. Shortening
+those would mean rewriting real resource/qualification titles, which is an editorial call outside
+this fix's scope, not a code defect; disclosed here rather than attempted.
+
+**3. Descriptions over ~165 characters (re-measured; the initial "409 pages" figure was itself a
+measurement artifact, not fixed further beyond what shipped).** The one-off Python script that
+produced the original "409 pages" count measured raw HTML attribute text without unescaping HTML
+entities (`&#39;` for an apostrophe, etc.), which inflates apparent character count above the real,
+logical description length -- the same class of measurement bias already caught once this session for
+Bengali/Urdu title lengths (script/rendering-width artifacts, not real defects). Re-measured with
+proper `html.unescape()`: 27 pages, not 409, were genuinely over 165 real characters, with a max of
+169. Added `metaDescription()` to `src/utils/seo/meta.ts` -- truncates only for the three tags a
+platform actually displays as a fixed-width snippet (`meta[name=description]`, `og:description`,
+`twitter:description`), at a word boundary, ending in a single `…`; deliberately *not* applied to the
+same description text used in JSON-LD (`webPageNode`) or on-page visible copy (e.g. `LocaleLayout`'s
+`lead` prop), since neither of those is rendered as a truncated snippet and shortening them there
+would only lose meaning for no benefit. Wired into both `Meta.astro` and `LocaleLayout.astro`.
+Re-measured after: 0 pages over 165 real characters.
+
+**Regression caught before shipping, not after:** applying `metaDescription()` uncovered 4 pairs (8
+pages) of near-duplicate sibling resource pages -- IGCSE vs O Level tracks of the same syllabus point
+(geography, Islamiyat, world history) and two IB DP Language A variants -- whose full, untruncated
+descriptions were legitimately distinct (this repo's own `audit:metadata` duplicate-description check
+was passing on the un-truncated text), but shared an identical prefix up to and past the 165-character
+cutoff, with the distinguishing text (`IGCSE` vs `O Level`, `Language and Literature` vs `Literature`)
+appearing only near or after the cutoff. Truncating both to the same prefix collapsed them to byte-
+identical snippets, and `audit:metadata`'s existing duplicate-description check correctly caught this
+as a fresh `FAIL` on the first full-gate run after the SEO fix. Rather than complicate the shared
+`metaDescription()` helper with cross-page collision-avoidance state (fragile, and would only paper
+over this specific case rather than fix it), reworded the 8 affected `description:` frontmatter
+fields to front-load the distinguishing qualifier (syllabus code and track name) at the start of the
+sentence instead of the end -- which is also better SEO practice on its own terms (Google guarantees
+far less of a description is visible on mobile than the desktop truncation point). Every fact in each
+description is preserved; nothing was added, removed, or reworded beyond reordering the same clauses.
+Confirmed by recomputing common-prefix length for all 4 pairs against the new wording: each pair now
+diverges within the first ~60 characters, well before any truncation point.
+
+**4. Non-finding, explicitly not treated as a defect:** 39 titles under 15 characters, all Bengali or
+Urdu. Flagged during the initial measurement and deliberately left untouched -- these render at a
+normal, unremarkable visual width in their own script; the "too short" reading is a raw-character-count
+artifact of comparing non-Latin scripts against a Latin-script length heuristic, the same class of
+mistake already identified and avoided once earlier in this engagement. No action taken, and none
+warranted.
+
+**Status:** implemented and verified. Full gate clean after all of the above, including the
+duplicate-description regression fix and D-106's schema validator landing in the same run: `build`
+(1278 pages), `validate:academic` (incl. `validate-practice-question-schema.mjs`), `audit:all` (9
+checks, 0 problems -- `audit:metadata` in particular: 0 missing, 0 duplicate titles, 0 duplicate
+descriptions), negative-fixture suite (32/32), `astro check` (0 errors, 0 warnings, 14 hints, 197
+files), `npm audit` (0 vulnerabilities), enquiry-function unit tests (31/31). Re-measured the built
+output directly (not just the audit scripts) to confirm the headline numbers: titles >65 chars 538 →
+221 (all genuinely long authored content, not suffix inflation); descriptions >165 chars (correctly
+measured) → 0; pages missing `twitter:card` 60 → 0; 0 broken links, 0 missing canonicals introduced.

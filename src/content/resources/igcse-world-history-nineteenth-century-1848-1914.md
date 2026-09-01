@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "core-content-option-a-0470"
-description: "The Revolutions of 1848, Italian and German unification, the US Civil War, overseas empires and the causes of the First World War -- the full content of Core Content Option A for Cambridge IGCSE World History 0470, 2024-2026 series."
+description: "Cambridge IGCSE World History 0470 (2024-2026 series), Core Content Option A: the Revolutions of 1848, Italian and German unification, the US Civil War, overseas empires and the causes of the First World War."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false

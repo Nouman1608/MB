@@ -7,7 +7,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
 order: 1
-description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, the individual oral and the HL essay -- for IB Diploma Programme Language A: Language and Literature."
+description: "IB DP Language A: Language and Literature -- condensed recall notes on the assessment structure at SL and HL, papers, weightings, the individual oral and the HL essay."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false

@@ -1,6 +1,6 @@
 ---
 import { site } from '../../data/site';
-import { absoluteUrl, pageTitle, type SeoProps } from '../../utils/seo/meta';
+import { absoluteUrl, pageTitle, metaDescription, type SeoProps } from '../../utils/seo/meta';
 import { siteGraph, webPageNode } from '../../utils/schema/organization';
 import { breadcrumbNode } from '../../utils/schema/breadcrumb';
 import { locales } from '../../data/navigation';
@@ -15,6 +15,11 @@ const {
 
 const canonical = absoluteUrl(path);
 const fullTitle = pageTitle(title, isHome);
+// Sections 37-39 -- snippet is the fixed-width-safe version, used only for
+// the tags platforms display as a truncated snippet (see metaDescription's
+// own doc comment). The full, untruncated `description` still goes into
+// the JSON-LD webPageNode below -- structured data isn't a display snippet.
+const snippet = metaDescription(description);
 const crumbs = breadcrumbNode(breadcrumbs);
 const graph = [
   ...siteGraph(),
@@ -24,7 +29,7 @@ const graph = [
 ];
 ---
 <title>{fullTitle}</title>
-<meta name="description" content={description} />
+<meta name="description" content={snippet} />
 <link rel="canonical" href={canonical} />
 {noindex && <meta name="robots" content="noindex, follow" />}
 {/* v1.x CLOSURE WS2 -- any English page with a real ar/ur/bn translated
@@ -42,7 +47,7 @@ const graph = [
 <meta property="og:site_name" content={site.name} />
 <meta property="og:locale" content="en" />
 <meta property="og:title" content={fullTitle} />
-<meta property="og:description" content={description} />
+<meta property="og:description" content={snippet} />
 <meta property="og:url" content={canonical} />
 <meta property="og:image" content={absoluteUrl(image)} />
 {publishedDate && <meta property="article:published_time" content={publishedDate.toISOString()} />}
@@ -50,7 +55,7 @@ const graph = [
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={fullTitle} />
-<meta name="twitter:description" content={description} />
+<meta name="twitter:description" content={snippet} />
 <meta name="twitter:image" content={absoluteUrl(image)} />
 
 <script is:inline type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': graph })} />

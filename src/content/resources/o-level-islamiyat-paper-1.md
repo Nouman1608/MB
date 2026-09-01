@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-2058"
-description: "The major themes of the Qur'an, its history and importance, the life of the Prophet Muhammad (pbuh), and the first Islamic community -- the full content of Paper 1 for Cambridge O Level Islamiyat 2058, 2024-2025 series. Identical structure to Cambridge IGCSE Islamiyat 0493."
+description: "Cambridge O Level Islamiyat 2058 (2024-2025 series), Paper 1: the major themes of the Qur'an, its history and importance, the life of the Prophet Muhammad (pbuh), and the first Islamic community. Identical structure to Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false

@@ -25,6 +25,7 @@ import { site } from '../data/site';
 import { NAV_COPY, type LocaleCode } from '../i18n/nav';
 import { EN_PATH, localePath, TRANSLATED_LOCALES, type TranslationKey } from '../i18n/routes';
 import { siteGraph, webPageNode } from '../utils/schema/organization';
+import { absoluteUrl, metaDescription } from '../utils/seo/meta';
 
 interface Props {
   locale: LocaleCode;
@@ -44,6 +45,12 @@ const path = localePath(locale, translationKey);
 const enPath = EN_PATH[translationKey];
 const enUrl = new URL(enPath, site.url).toString();
 const canonical = new URL(path, site.url).toString();
+// Sections 37-39 -- snippet is the fixed-width-safe version, used only for
+// the tags platforms display as a truncated snippet. The full,
+// untruncated `description` still goes into jsonLd's webPageNode below,
+// and into the `lead` prop where a page passes one -- neither is a
+// display snippet, so neither should be shortened.
+const snippet = metaDescription(description);
 
 /**
  * Switcher: English + the other two enabled locales, all resolved via the
@@ -66,7 +73,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href="/images/brand/marlbridge-emblem-disc.svg" />
     <title>{title}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={snippet} />
     <link rel="canonical" href={canonical} />
     {noindex && <meta name="robots" content="noindex, follow" />}
     {/* v1.x CLOSURE WS2 -- real, page-specific reciprocal hreflang, mirroring
@@ -82,8 +89,21 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
     <meta property="og:site_name" content={site.name} />
     <meta property="og:locale" content={nav.htmlLang} />
     <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
+    <meta property="og:description" content={snippet} />
     <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={absoluteUrl(site.ogImage)} />
+    {/* Technical SEO re-audit (Sections 37-39, 2026-09-01) -- these translated
+        pages had full Open Graph tags but no og:image and no Twitter Card
+        tags at all, unlike their English counterpart (Meta.astro), so a
+        link to any of the 19 translated pages shared on Twitter/X rendered
+        as a bare link instead of a card. Same site.ogImage every English
+        page already uses -- there's no separate translated brand image, and
+        inventing one would be a new asset with its own review, not a
+        metadata fix. */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={snippet} />
+    <meta name="twitter:image" content={absoluteUrl(site.ogImage)} />
     <link rel="preload" href="/fonts/public-sans-latin-400.woff2" as="font" type="font/woff2" crossorigin />
     <script type="application/ld+json" is:inline set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonLd })} />
   </head>

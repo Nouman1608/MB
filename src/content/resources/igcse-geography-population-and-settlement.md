@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "theme-1-population-settlement-0460"
-description: "Population dynamics, migration, population structure, density and distribution, rural and urban settlement, and urbanisation -- the full content of Theme 1 for Cambridge IGCSE Geography 0460, 2025-2026 series."
+description: "Cambridge IGCSE Geography 0460 (2025-2026 series), Theme 1: population dynamics, migration, population structure, density and distribution, rural and urban settlement, and urbanisation."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
