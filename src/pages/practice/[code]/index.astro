@@ -23,10 +23,10 @@ import PageLayout from '../../../layouts/PageLayout.astro';
 import Section from '../../../components/layout/Section.astro';
 import Container from '../../../components/layout/Container.astro';
 import { flagshipSpecs, academicHubPath } from '../../../utils/academic/index.ts';
-import { practiceQuestionsForCode, type PracticeQuestion } from '../../../utils/practice/bank.ts';
+import { practiceQuestionsForCode } from '../../../utils/practice/bank.ts';
 import { syllabusFor } from '../../../data/academic/syllabuses.ts';
-import { topicsFor } from '../../../data/academic/syllabus-topics.ts';
 import { routes } from '../../../utils/urls/routes';
+import { buildClientQuestions, dataHashFor } from '../../../utils/practice/client-questions.ts';
 
 export async function getStaticPaths() {
   return flagshipSpecs()
@@ -36,73 +36,24 @@ export async function getStaticPaths() {
 
 const { spec } = Astro.props as { spec: ReturnType<typeof flagshipSpecs>[number] };
 const path = `/practice/${spec.code}/`;
-const questions = practiceQuestionsForCode(spec.code);
 const syllabus = syllabusFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug);
 const hubPath = academicHubPath(spec.combination);
 const subjectTitle = syllabus?.officialTitle ?? `${spec.combination.board} ${spec.combination.qualification} ${spec.combination.subject}`;
 
-// Small, deliberately-scoped markdown-to-HTML conversion -- the practice-
-// questions prose only ever uses **bold**, `inline code`, occasional
-// *italic*, and line breaks (verified against all 232 parsed questions
-// before this was built; see docs/decision-log.md D-067). No tables, code
-// fences, lists or links appear in this content, so a full markdown
-// pipeline/dependency isn't needed -- this handles exactly what's there.
-function escapeHtml(s: string): string {
-  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-}
-function mdToHtml(md: string): string {
-  const withoutLeadingNumber = md.replace(/^\*\*\d+\.\*\*\s*/, '').replace(/^\*\*\d+\.\s*/, (m) => m);
-  const escaped = escapeHtml(withoutLeadingNumber);
-  const withCode = escaped.replace(/`([^`]+)`/g, '<code>$1</code>');
-  const withBold = withCode.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-  const withItalic = withBold.replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, '$1<em>$2</em>');
-  const paragraphs = withItalic
-    .split(/\n\n+/)
-    .map((p) => `<p>${p.trim().replace(/\n/g, '<br />')}</p>`)
-    .join('');
-  return paragraphs;
-}
-
-// Topic labels for weak-topic recommendations -- resolve each subtopic
-// slug to its real syllabus name via syllabus-topics.ts rather than
-// prettifying the slug, so the label a student sees matches the wording
-// on the hub page and in study resources exactly.
-const topicMeta = topicsFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug);
-const topicLabel = new Map<string, string>();
-if (topicMeta) {
-  for (const t of topicMeta.topics) {
-    for (const st of t.subtopics) {
-      topicLabel.set(`${t.slug}/${st.slug}`, `${t.name} — ${st.name}`);
-    }
-  }
-}
-
-interface ClientQuestion {
-  id: string;
-  qHtml: string;
-  aHtml: string;
-  marks: number;
-  resourceSlug: string;
-  resourceTitle: string;
-  topics: { key: string; label: string }[];
-}
-
-const clientQuestions: ClientQuestion[] = questions.map((q: PracticeQuestion) => {
-  const entries = q.topicsByQualification[spec.qualificationSlug] ?? [];
-  const topics = entries.map((t) => {
-    const key = `${t.topicSlug}/${t.subtopicSlug}`;
-    return { key, label: topicLabel.get(key) ?? key.replace(/-/g, ' ') };
-  });
-  return {
-    id: q.id,
-    qHtml: mdToHtml(q.questionMarkdown),
-    aHtml: mdToHtml(q.answerMarkdown),
-    marks: q.marks,
-    resourceSlug: q.resourceSlug,
-    resourceTitle: q.resourceTitle,
-    topics,
-  };
-});
+// D-104 follow-up: the question bank itself (qHtml/aHtml markdown-to-HTML,
+// topic-label resolution) now lives in a shared util, ../../../utils/
+// practice/client-questions.ts, reused by both this page (which still
+// needs `clientQuestions.length` server-side, below) and the JSON endpoint
+// at /practice-data/{code}.json that actually serves the array to the
+// client. See docs/decision-log.md D-104 for why: on the two largest
+// flagship codes, inlining the full array directly into this page's HTML
+// (the old approach) added 180-280KB raw with no independent cache
+// lifetime -- every repeat visit re-downloaded the full bank. Now the
+// page only computes the array server-side for the few places that need
+// a plain count or list (below), and the client fetches it separately, as
+// its own long-cached resource.
+const clientQuestions = buildClientQuestions(spec);
+const dataUrl = `/practice-data/${spec.code}.json?v=${dataHashFor(clientQuestions)}`;
 
 const storageKey = `mb-practice-${spec.code}`;
 ---
@@ -245,15 +196,10 @@ const storageKey = `mb-practice-${spec.code}`;
     </Container>
   </Section>
 
-  <script type="application/json" id="mb-practice-data" set:html={JSON.stringify(clientQuestions)} />
-
-  <script is:inline define:vars={{ storageKey, hubPath: hubPath }}>
+  <script is:inline define:vars={{ storageKey, hubPath: hubPath, dataUrl }}>
     (function () {
       const app = document.getElementById('mb-practice-app');
       if (!app) return;
-      const dataEl = document.getElementById('mb-practice-data');
-      /** @type {Array<{id:string,qHtml:string,aHtml:string,marks:number,resourceSlug:string,resourceTitle:string,topics:Array<{key:string,label:string}>}>} */
-      const questions = JSON.parse(dataEl.textContent || '[]');
 
       const els = {
         progress: document.getElementById('mb-practice-progress'),
@@ -304,8 +250,21 @@ const storageKey = `mb-practice-${spec.code}`;
         } catch (e) {}
       }
 
+      /**
+       * D-104 follow-up -- `questions` used to be `JSON.parse`d synchronously
+       * from an inline <script type="application/json"> block embedded in
+       * this page's own HTML. It's now fetched from its own cacheable
+       * resource (dataUrl, a build-time-generated JSON endpoint -- see
+       * src/pages/practice-data/[code].json.ts), so everything that reads
+       * `questions` has to wait for that fetch. `init()` below does the
+       * fetching; the app stays hidden (its initial state, from the
+       * frontmatter's `class="hidden"`) until data arrives or fails.
+       * @type {Array<{id:string,qHtml:string,aHtml:string,marks:number,resourceSlug:string,resourceTitle:string,topics:Array<{key:string,label:string}>}>}
+       */
+      let questions = [];
+
       let state = loadState();
-      let filtered = questions.slice();
+      let filtered = [];
       let index = 0;
       let revealed = false;
       let timerStart = null;
@@ -318,15 +277,22 @@ const storageKey = `mb-practice-${spec.code}`;
       /**
        * Flagship Dominance Programme WS-B (2026-08-31) -- topic index built
        * once from every question's own topics[] (server-resolved real
-       * syllabus names, not slugs -- see topicLabel in the frontmatter
-       * above). Preserves first-seen order so the mastery list reads in
-       * roughly syllabus order rather than alphabetically.
+       * syllabus names, not slugs -- resolved server-side in
+       * client-questions.ts). Preserves first-seen order so the mastery
+       * list reads in roughly syllabus order rather than alphabetically.
+       * Built by `init()` once `questions` has actually loaded (D-104
+       * follow-up -- was a plain module-init loop before `questions` became
+       * async).
        */
-      const allTopics = new Map();
-      for (const q of questions) {
-        for (const t of q.topics) {
-          if (!allTopics.has(t.key)) allTopics.set(t.key, t.label);
+      let allTopics = new Map();
+      function buildTopicsIndex() {
+        const m = new Map();
+        for (const q of questions) {
+          for (const t of q.topics) {
+            if (!m.has(t.key)) m.set(t.key, t.label);
+          }
         }
+        return m;
       }
 
       /**
@@ -725,8 +691,33 @@ const storageKey = `mb-practice-${spec.code}`;
         applyMode();
       });
 
-      app.classList.remove('hidden');
-      applyMode();
+      /**
+       * D-104 follow-up -- fetches the question bank from its own cacheable
+       * resource instead of reading it synchronously off the page. `dataUrl`
+       * carries a content hash in its query string (see the frontmatter,
+       * dataHashFor), so the long `immutable` Cache-Control the endpoint
+       * sends is safe: a real content change produces a new URL at the next
+       * build, not a stale cached response of an old one. On failure, shows
+       * the same "nothing to show" empty state the filter/mode UI already
+       * uses elsewhere, rather than leaving the page silently blank.
+       */
+      async function init() {
+        try {
+          const res = await fetch(dataUrl);
+          if (!res.ok) throw new Error('practice data fetch failed: HTTP ' + res.status);
+          questions = await res.json();
+        } catch (e) {
+          app.classList.remove('hidden');
+          els.card.hidden = true;
+          els.empty.hidden = false;
+          els.empty.textContent = "Couldn't load the practice questions just now -- please refresh the page, or try again shortly.";
+          return;
+        }
+        allTopics = buildTopicsIndex();
+        app.classList.remove('hidden');
+        applyMode();
+      }
+      init();
     })();
   </script>
 </PageLayout>

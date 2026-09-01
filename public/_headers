@@ -32,3 +32,20 @@
 # expiring within a reasonable window if a font is ever swapped.
 /fonts/*
   Cache-Control: public, max-age=2592000
+
+# Practice-question JSON payloads (Flagship Dominance/Trust Programme,
+# D-104 follow-up -- see docs/decision-log.md). /practice-data/{code}.json
+# itself is not content-hashed, but every fetch of it carries a content
+# hash as a query string (?v=<hash>, computed by dataHashFor in
+# src/utils/practice/client-questions.ts and embedded server-side in
+# src/pages/practice/[code]/index.astro) -- a real content change produces
+# a new URL at the next build, so a long, immutable cache here is safe: an
+# old cached response can never be served under a new content's URL. This
+# file, not the Cache-Control header set inside
+# src/pages/practice-data/[code].json.ts's own Response, is what actually
+# governs the header Cloudflare serves -- that in-code header is kept for
+# local `astro preview` parity and as a documented intent, not because it
+# reaches production on its own (matching the default-headers behaviour
+# this file's own top comment already describes for every other path).
+/practice-data/*
+  Cache-Control: public, max-age=31536000, immutable

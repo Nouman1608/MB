@@ -5260,3 +5260,79 @@ as a disclosed, tracked gap for a future phase, not a hidden one.
   enquiry-function unit tests) re-run and confirmed clean as part of this phase's wrap-up, and again
   after rebasing onto the deploy.yml fix above -- see the Phase 6 status note in the project for the
   consolidated results.
+
+## D-105 — Sections 41-42 follow-up: practice-page question data extracted to its own cacheable endpoint, closing the gap D-104 disclosed
+
+**Date:** 2026-09-01
+
+D-104 measured, but deliberately did not fix, a real Core Web Vitals gap: the two largest flagship
+practice pages (`/practice/9701/`, 254 questions; `/practice/9702/`, ~190 questions) embedded their
+full question/answer bank as inline JSON directly in the page's own HTML, adding 180-280KB raw with
+no independent cache lifetime -- every repeat visit re-downloaded the full bank. D-104 disclosed
+this as a tracked gap rather than rushing a fix that touches the practice engine's most complex
+client-side state (attempts, timed mode, diagnostic mode, mastery, spaced retry) under that phase's
+remaining budget. This entry closes it, with the budget to do it properly.
+
+**What changed:**
+
+1. **Shared question-builder extracted** to `src/utils/practice/client-questions.ts`
+   (`buildClientQuestions`, `dataHashFor`) -- the markdown-to-HTML conversion and topic-label
+   resolution that used to live only in the page's own frontmatter, now usable from two places
+   without duplicating (and risking drift between) the logic.
+2. **New static JSON endpoint**, `src/pages/practice-data/[code].json.ts` -- Astro's static
+   endpoint pattern (`getStaticPaths` + `GET`), prerendered at build time into
+   `dist/practice-data/{code}.json`, same static-hosting model as every other page, no server/edge
+   function involved.
+3. **`src/pages/practice/[code]/index.astro`** no longer embeds the question array as inline JSON.
+   The page still computes `clientQuestions` server-side (for the initial `Question 1 of N` text,
+   the accepted-count, and the noscript resource-links fallback), but the client engine now
+   `fetch()`es the array from `dataUrl` -- `/practice-data/{code}.json?v={hash}` -- instead of
+   reading it synchronously off an embedded `<script type="application/json">` block. The engine's
+   init sequence (topic-index build, `applyMode()`, un-hiding the app) now runs after that fetch
+   resolves, inside a small `init()` function; on fetch failure, the page shows the same
+   "nothing to show" empty-state UI the filter already uses, with a plain, honest message, rather
+   than leaving the page silently broken.
+4. **Cache-Control**: `/practice-data/*` is not content-hashed in its path the way `/_astro/*`
+   assets are, but the fetch URL itself carries a content hash as a query string (`?v={hash}`,
+   `dataHashFor` -- a SHA-256 of the exact JSON payload, truncated). A real content change produces
+   a new hash and therefore a new URL at the next build, so a long, `immutable` cache is safe: an
+   old cached response can never be served under a new content's URL. Added to `public/_headers`
+   (this repo's existing, working mechanism for exactly this -- see that file's own `/_astro/*`,
+   `/images/*`, `/fonts/*` entries) rather than relying only on the `Cache-Control` header set
+   inside the endpoint's own `Response`, which does not by itself reach production on this repo's
+   static-deploy setup (Cloudflare serves every path with its own default headers unless overridden
+   in `_headers` -- confirmed by reading that file's own top comment, not assumed).
+
+**Verified, not just built clean.** Ran the page end-to-end in a real headless browser (Playwright,
+the pre-installed Chromium), not just `astro check`:
+- `/practice/9701/` (254 questions): app un-hides, `Question 1 of 254` renders, real question HTML
+  loads, reveal/mark-right updates `1 / 254 attempted`, switching to diagnostic mode correctly
+  builds a 25-question balanced set from the now-fetched `questions` array.
+- Simulated the data fetch failing (`page.route(...).abort()`): the page shows
+  "Couldn't load the practice questions just now -- please refresh the page, or try again shortly."
+  rather than a blank or broken app.
+- `/practice/0580/` (18 questions): marked a question wrong, **reloaded the page**, confirmed
+  `1 / 18 attempted` persisted (localStorage) and the error-notebook section correctly un-hid on
+  the reload -- proving state read against a freshly re-fetched `questions` array lines up
+  correctly with attempts saved against the previous load, not just within one page session.
+
+**Measured result:**
+
+| Page | HTML before (raw / gzip) | HTML after (raw / gzip) |
+|------|---------------------------|---------------------------|
+| `/practice/0580/` | 63.7 KB / 15.7 KB | 56.6 KB / 14.4 KB |
+| `/practice/0620/` | 155.5 KB / 31.6 KB | 59.6 KB / 14.8 KB |
+| `/practice/0625/` | 64.9 KB / -- | 56.6 KB / 14.4 KB |
+| `/practice/9701/` | 343.3 KB / 63.7 KB | 65.9 KB / 15.4 KB |
+| `/practice/9702/` | 240.9 KB / 45.0 KB | 62.1 KB / 14.9 KB |
+
+`/practice/9701/`'s HTML document is now a fifth of its previous raw size; its question data lives
+in its own long-cached resource instead. All five practice pages now weigh roughly the same
+(56-66 KB raw) regardless of question count, since the part that used to scale with question count
+is no longer part of the HTML at all.
+
+- **Status:** implemented and verified. Full gate clean: build (1279 pages), `validate:academic`
+  (541 questions across 5 flagship specs, unchanged), `audit:all` (9 checks, 0 problems -- including
+  0 broken links introduced), negative-fixture suite (31/31), `astro check` (0 errors, 0 warnings,
+  195 files), `npm audit` (0 vulnerabilities), enquiry-function unit tests (31/31). Also verified
+  functionally in a real browser (see above), not just by the build/audit gate.
