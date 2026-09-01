@@ -44,33 +44,15 @@
 }
 
 /* ---- Fonts ----
- * Interim: loaded from Google Fonts in BaseLayout.astro (2 requests).
- * To self-host later (faster, no third party): drop subset variable WOFF2
- * files into public/fonts/, uncomment the @font-face rules below, and swap
- * the Google <link> tags in BaseLayout.astro for the two <link rel="preload">
- * tags noted there.
- *
- * @font-face {
- *   font-family: "Public Sans";
- *   src: url("/fonts/public-sans-latin.woff2") format("woff2-variations");
- *   font-weight: 400 600; font-display: swap; font-style: normal;
- * }
- * @font-face {
- *   font-family: "Newsreader";
- *   src: url("/fonts/newsreader-latin.woff2") format("woff2-variations");
- *   font-weight: 400 500; font-display: swap; font-style: normal;
- * }
- * @font-face {
- *   font-family: "IBM Plex Mono";
- *   src: url("/fonts/ibm-plex-mono-400.woff2") format("woff2");
- *   font-weight: 400; font-display: swap; font-style: normal;
- * }
- * @font-face {
- *   font-family: "IBM Plex Mono";
- *   src: url("/fonts/ibm-plex-mono-500.woff2") format("woff2");
- *   font-weight: 500; font-display: swap; font-style: normal;
- * }
- */
+ * Self-hosted (v1.x CLOSURE WS6) -- no Google Fonts request, no third-party
+ * font request at all. The @font-face rules themselves live in
+ * src/styles/fonts.css (imported by BaseLayout.astro), which is the single
+ * source of truth for font files/weights; the two heaviest, most-used
+ * weights are <link rel="preload"> in BaseLayout.astro. This block used to
+ * hold the interim/uncommented migration plan for that move -- removed now
+ * that the migration is done, to avoid this file and fonts.css disagreeing
+ * about which one is current (Core Web Vitals / JS-performance-budget
+ * review, Flagship Dominance/Trust programme, D-104). */
 
 @layer base {
   html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }

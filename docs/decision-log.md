@@ -5157,3 +5157,106 @@ Cloudflare's Git integration performed them, not `wrangler-action`. Those dated 
 as written, as historical records; this entry is the correction.
 
 - **Status:** implemented. CI-only change — no site content, routes or data touched.
+
+## D-104 — Sections 41-42 (Core Web Vitals / JS performance budget review): one real stale claim fixed (fonts), payload measured and one gap disclosed (practice-page inline data)
+
+**Numbering note:** this entry was drafted locally as "D-103" (Google Fonts / CWV review) before a
+separate session, working directly against the live repo, independently landed its own "D-103"
+above (the `deploy.yml` dead-step removal) on `main` first. Renumbered to D-104 on rebase to avoid
+two different entries under the same number — same resolution pattern as D-091's collision in
+Phase 5. No content below was changed from the original draft other than this note and the
+self-references to its own number.
+
+**Date:** 2026-09-01
+
+Audited the built site (`dist/`) for Core Web Vitals risk (LCP, INP, CLS) and measured actual JS/CSS
+payload per page template, rather than relying on the source tree's own comments about what it does.
+
+**1. Real, concrete gap found and fixed: a stale, false Google Fonts claim.** `src/styles/global.css`
+still carried a large commented-out migration plan describing font loading as "Interim: loaded from
+Google Fonts in BaseLayout.astro (2 requests)" with a "to self-host later" plan underneath it. The
+actual site has been fully self-hosting fonts since v1.x CLOSURE WS6: `src/styles/fonts.css` has real
+`@font-face` rules pointing at local `url('/fonts/...')` sources, `public/fonts/` contains the 14
+matching `.woff2` files, and a direct `grep -rl "fonts.googleapis.com\|fonts.gstatic.com" dist/`
+returned zero matches anywhere in the built output. The code comment was simply never updated when
+the migration shipped. Two customer-facing pages repeated the same stale claim as fact:
+`/legal/privacy/`'s "Analytics" section and `/legal/cookies/`'s "Third-party requests" section both
+told visitors that loading fonts causes a request to Google's servers that may log their IP address
+-- which is false for the site as actually built and deployed.
+
+**Fixed in five places:** `src/styles/global.css`'s comment (describes the current self-hosted
+architecture, points at `fonts.css` as the single source of truth, dated/attributed so a future pass
+doesn't have to guess why the old comment is gone); `/legal/privacy/`'s Analytics paragraph (states
+fonts are self-hosted, no third-party font request); `/legal/cookies/`'s section (renamed "Third-party
+requests" -> "Fonts" since it's the only entry left there, same self-hosted statement, plus removed a
+now-doubly-inaccurate "fonts may fall back to your system default" line from the "Controlling cookies"
+section -- blocking cookies has no relationship to loading static font files, self-hosted or not); and
+the matching `cookies` section in all three translated legal pages (`src/i18n/pages/legal.ts`,
+ar/ur/bn), so the translations don't silently diverge from the corrected English original. Verified
+via `grep -n "Google Fonts" src/i18n/pages/legal.ts` afterward: 0 remaining matches anywhere in that
+file.
+
+**2. Homepage / typical-page payload: measured, no issues found.** `dist/index.html`: every `<img>`
+has explicit `width`/`height`, `aspect-ratio` inline styles, `loading="lazy"` (below-fold) and
+`decoding="async"` -- no CLS risk from images. Exactly one external script,
+`<script async src="...gtag/js?id=G-TB89R669JL">`, non-blocking. Exactly 2 plain synchronous inline
+`<script>` blocks (GA4 consent-mode setup, 1420 chars; consent-banner logic, 1957 chars), both
+positioned at ~92% and ~95% through the document -- i.e. right before `</body>`, so neither blocks
+parsing of any visible content above it. 2 `type="module"` scripts (deferred by default per spec). One
+shared, cross-page-cacheable CSS file (`ConsentAnalytics.[hash].css`, 44.2KB) referenced identically
+by every page template checked (home, resources index, command-words, a practice page) -- confirmed by
+grep it's genuinely the same file byte-for-byte, so it downloads once and is reused across the whole
+site, not duplicated per template despite the component-derived filename. Total hashed JS across the
+whole `dist/_astro/` tree: 3 files, 3517 bytes combined (`CorrectionForm`, `EnquiryForm`, `submit` --
+the two form components' own scripts plus the shared submit helper). This is a JS-light site by any
+normal budget; no fix needed here.
+
+**3. Real finding, disclosed rather than fixed this phase: per-page practice-question data is inlined
+into the HTML, not externalized as a cacheable asset.** `src/pages/practice/[code]/index.astro` embeds
+each flagship code's full question/answer bank as `<script type="application/json"
+id="mb-practice-data">{JSON.stringify(clientQuestions)}</script>`, read synchronously via
+`JSON.parse(dataEl.textContent)` by the adjacent `<script is:inline>` practice engine. My first pass
+at measuring this mischaracterized it as "123.7KB of inline JS" -- it is not JS at all (a
+`type="application/json"` block is inert data, not executed, and per spec does not block HTML
+parsing); the actual JS engine script is a consistent ~21KB across every practice page and is not the
+issue. The real, correctly-characterized finding: this JSON payload's size scales with each subject's
+question count and is largest exactly where it matters most --
+
+| code | questions | JSON size (raw) | page HTML (raw / gzip) |
+|------|-----------|------------------|--------------------------|
+| 0580 | fewer     | ~8.8KB           | 63.7KB / 15.7KB (24.7%)  |
+| 0620 | 94        | 97.8KB           | 155.5KB / 31.6KB (20.3%) |
+| 0625 | fewer     | ~10.4KB          | 64.9KB / -- (not re-measured) |
+| 9701 | 254       | 279.4KB          | 343.3KB / 63.7KB (18.5%) |
+| 9702 | fewer than 9701 | ~177.7KB   | 240.9KB / 45.0KB (18.7%) |
+
+Gzip brings the two largest pages down to a real transfer weight of 45-64KB, and the block sits after
+all visible markup (right before `</PageLayout>`), so it does not block or delay rendering of anything
+a visitor actually sees or the LCP element. The genuine cost is: (a) it inflates the HTML document
+itself rather than being a separate resource, so the browser must download and parse this much more
+text before `DOMContentLoaded`/`window.onload` fire on `/practice/9701/` and `/practice/9702/`
+specifically; and (b) because it's embedded in the HTML rather than a separately-hashed asset, it gets
+no independent cache lifetime -- a repeat visit to the same practice page re-downloads the full
+question bank every time, unlike the site's genuinely-cacheable hashed JS/CSS.
+
+**Why this is disclosed rather than fixed now:** a correct fix means extracting each code's question
+bank to its own static JSON asset (e.g. under `public/` or Astro's asset pipeline) and converting the
+practice engine's data load from a synchronous `textContent` read to an async `fetch()`, which touches
+the initialization path of the site's most complex piece of client-side state (attempts, timed mode,
+diagnostic mode, mastery, spaced retry all read `questions` before `app.classList.remove('hidden')`
+runs today) and needs its own loading/error-state handling plus full re-testing of all three modes on
+all 5 flagship codes. That is a real, bounded, but non-trivial change, not a copy fix -- rushing it
+under this phase's remaining budget risks a regression on the page this site's own practice
+infrastructure exists to serve. Following this repo's established precedent (see D-050 and similar
+entries) for a genuinely-scoped-out finding: documented honestly with real numbers here rather than
+silently left as an undocumented "it's fine" or forced through without adequate testing room. Flagged
+as a disclosed, tracked gap for a future phase, not a hidden one.
+
+- **Status:** Google Fonts claim -- implemented and verified (full gate below). Homepage/typical-page
+  payload -- reviewed, no changes needed. Practice-page inline data -- reviewed, measured, disclosed as
+  a tracked gap, not fixed this phase.
+- **Gate:** `npm run build` (1275 pages, clean) confirmed after the font-copy edits. Full standing gate
+  (`validate:academic`, `audit:all` 9 checks, negative-fixture suite, `astro check`, `npm audit`,
+  enquiry-function unit tests) re-run and confirmed clean as part of this phase's wrap-up, and again
+  after rebasing onto the deploy.yml fix above -- see the Phase 6 status note in the project for the
+  consolidated results.
