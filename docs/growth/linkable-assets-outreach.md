@@ -11,14 +11,20 @@ Programme: Search Intelligence & Demand-Led Growth (Sections 33-38, WS13-16).
 | Practice-question bank | `/practice/[code]/` | 649 questions, 5 flagship specs | Reviewed-by-teachers claim, audited clean |
 | Assessment-structure data | `src/data/academic/assessments.ts` | 146 records, each with an official source URL + verification date (validator-enforced) | Yes, structurally enforced |
 | Academic hub pages (160) | `/boards/[board]/[qualification]/[subject]/` | — | — |
+| Syllabus/specification change tracker | `/syllabus-updates/` | Built at v2.0/AUTHORITY-PROGRAMME time (D-070) | Yes, in-page |
+| Exam calendar | `/exam-calendar/` | Built at v2.0/AUTHORITY-PROGRAMME time (D-072) | Yes, in-page |
+| Command-word guide | `/command-words/` | Built at v2.0/AUTHORITY-PROGRAMME time (D-071) | Yes, in-page |
+| Grade-threshold explorer | `/grade-thresholds/` | Built at v2.0/AUTHORITY-PROGRAMME time (D-073) | Yes, in-page |
 
-**Not yet built as a standalone, citable public asset**: a syllabus-change
-tracker and an exam-calendar comparison tool, both named explicitly in the
-programme brief (Section 33) as target linkable assets. The underlying data
-(assessment lifecycle dates, grade thresholds) already exists in
-`src/data/academic` — building a dedicated public page that surfaces it as a
-tracker/comparison view is real, scoped future work, not attempted this pass
-(a content/feature build, out of this research-and-audit session's scope).
+**Correction, 2 Sep 2026 (Search Intelligence Execution Round):** this
+document previously stated the syllabus-change tracker and exam-calendar
+tool were "not yet built." That was wrong — both existed already, along
+with a command-word guide and grade-threshold explorer, all shipped under
+the AUTHORITY/PRACTICE/TOOLS/GROWTH programme (D-070 through D-073) and
+confirmed live in this session's own fresh build. See
+`docs/growth/authority-practice-tools-growth-reconciliation-2026-09-02.md`
+for the full reconciliation. The four rows above replace that incorrect
+claim; nothing further needs building for those four asset types.
 
 ## Quality bar (Section 34) — checked against the assets above
 
