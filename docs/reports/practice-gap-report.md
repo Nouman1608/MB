@@ -1,10 +1,10 @@
 # Practice-question gap report
 
-Generated 2026-09-01T16:18:04.397Z. Section 13 scope: practice-question coverage gaps for the
+Generated 2026-09-01T16:34:18.047Z. Section 13 scope: practice-question coverage gaps for the
 five flagship specifications only -- see src/utils/practice/gap-report.ts for the full
 rationale and docs/decision-log.md D-108 for what this deliberately does not attempt.
 
-**41 zero-question subtopics, 0 thin (1-2 question) subtopics, across all 5 codes.**
+**0 zero-question subtopics, 0 thin (1-2 question) subtopics, across all 5 codes.**
 
 ## Cambridge IGCSE Chemistry (0620, 2026-2028)
 
@@ -38,51 +38,9 @@ measure a subtopic-level gap against yet.
 
 ## Cambridge IGCSE Mathematics (0580, 2025-2027)
 
-18 questions · 0/72 subtopics covered (0%)
+64 questions · 41/72 subtopics covered (57%)
 
-### Gaps — zero questions (41)
-
-- 3. Coordinate geometry — 3.1 Coordinates
-- 3. Coordinate geometry — 3.2 Drawing linear graphs
-- 3. Coordinate geometry — 3.3 Gradient of linear graphs
-- 3. Coordinate geometry — 3.4 Length and midpoint
-- 3. Coordinate geometry — 3.5 Equations of linear graphs
-- 3. Coordinate geometry — 3.6 Parallel lines
-- 3. Coordinate geometry — 3.7 Perpendicular lines
-- 4. Geometry — 4.1 Geometrical terms
-- 4. Geometry — 4.2 Geometrical constructions
-- 4. Geometry — 4.3 Scale drawings
-- 4. Geometry — 4.4 Similarity
-- 4. Geometry — 4.5 Symmetry
-- 4. Geometry — 4.6 Angles
-- 4. Geometry — 4.7 Circle theorems
-- 4. Geometry — 4.8 Circle theorems II
-- 5. Mensuration — 5.1 Units of measure
-- 5. Mensuration — 5.2 Area and perimeter
-- 5. Mensuration — 5.3 Circles, arcs and sectors
-- 5. Mensuration — 5.4 Surface area and volume
-- 5. Mensuration — 5.5 Compound shapes and parts of shapes
-- 6. Trigonometry — 6.1 Pythagoras’ theorem
-- 6. Trigonometry — 6.2 Right-angled triangles
-- 6. Trigonometry — 6.3 Exact trigonometric values
-- 6. Trigonometry — 6.4 Trigonometric functions
-- 6. Trigonometry — 6.5 Non-right-angled triangles
-- 6. Trigonometry — 6.6 Pythagoras’ theorem and trigonometry
-- 7. Transformations and vectors — 7.1 Transformations
-- 7. Transformations and vectors — 7.2 Vectors in two dimensions
-- 7. Transformations and vectors — 7.3 Magnitude of a vector
-- 7. Transformations and vectors — 7.4 Vector geometry
-- 8. Probability — 8.1 Introduction to probability
-- 8. Probability — 8.2 Relative and expected frequencies
-- 8. Probability — 8.3 Probability of combined events
-- 8. Probability — 8.4 Conditional probability
-- 9. Statistics — 9.1 Classifying statistical data
-- 9. Statistics — 9.2 Interpreting statistical data
-- 9. Statistics — 9.3 Averages and range
-- 9. Statistics — 9.4 Statistical charts and diagrams
-- 9. Statistics — 9.5 Scatter diagrams
-- 9. Statistics — 9.6 Cumulative frequency diagrams
-- 9. Statistics — 9.7 Histograms
+No zero-question subtopics.
 
 ### Topic-tagged only, not subtopic-level (2)
 

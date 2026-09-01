@@ -5918,3 +5918,79 @@ continuation of the same one already made. **Not done this round** -- reporting 
 the owner rather than unilaterally deciding to cross that line. If the owner wants a 0580/0625 depth
 audit built from this material, that's a well-defined, achievable next step now that both blockers
 (no material, no 0580 taxonomy) are resolved or resolvable.
+
+## D-116 — All 41 disclosed 0580 gaps closed: seven new practice-questions files, authored directly
+
+The owner asked, after seeing D-113's disclosure, to go ahead and close the 41 zero-question sub-topic
+gaps rather than leave them open. Checked before starting -- confirmed via `AskUserQuestion` -- that
+the owner wanted these authored directly from standard curriculum knowledge rather than gated behind
+first writing companion revision-notes files, since (unlike every other gap closed this engagement) no
+existing reviewed resource exists anywhere on the site for any of these seven topics to ground new
+practice questions in. That's a materially different, higher-trust situation than D-109/D-110, worth
+naming explicitly rather than quietly reusing the same "grounded in an existing resource" language.
+
+Seven new practice-questions files were written, one per topic, covering all 41 sub-topics with no
+existing companion content:
+
+- `igcse-mathematics-coordinate-geometry-practice.md` (topic 3, 7 sub-topics)
+- `igcse-mathematics-geometry-practice.md` (topic 4, 8 sub-topics)
+- `igcse-mathematics-mensuration-practice.md` (topic 5, 5 sub-topics)
+- `igcse-mathematics-trigonometry-practice.md` (topic 6, 6 sub-topics)
+- `igcse-mathematics-transformations-and-vectors-practice.md` (topic 7, 4 sub-topics)
+- `igcse-mathematics-probability-practice.md` (topic 8, 4 sub-topics)
+- `igcse-mathematics-statistics-practice.md` (topic 9, 7 sub-topics)
+
+Every numerical answer was computed and checked independently before being written into an answer key
+(distance/midpoint formulas, sine/cosine rule, cylinder/cone/sphere volumes and surface areas, sector
+arc length/area, cumulative-frequency median estimation, tree-diagram probabilities, and so on) -- the
+same discipline used for the Kstab calculation in D-109, extended here across roughly 50 new worked
+answers rather than one. Content is standard, internationally-uniform secondary-level mathematics
+(coordinate geometry formulas, circle theorems, trigonometric ratios and rules, vector notation,
+probability rules, statistical measures) -- not specialist or contested subject matter, and each
+question was checked against the real sub-topic names and Core/Extended tier established in D-113
+(Extended-only sub-topics marked `*(Extended)*` in the question text, matching the convention already
+used in `igcse-mathematics-algebra-and-graphs-practice.md`).
+
+**Result: 41 -> 0 gaps.** Regenerating the dashboard confirms 0 gaps, 0 thin, across all five flagship
+codes -- 649 questions total (up from 603), 99 flagship-relevant files (up from 92). Full validation
+gate passed clean: `validate:academic` (649/649 questions schema-valid), `npm run build`,
+`practice-gap-report.mjs`, `audit:all` (9/9), negative-validation-suite (32/32), `astro check`
+(0 errors), `npm audit` (0 vulnerabilities), functions tests (31/31).
+
+## D-117 — 0580/0625 specimen-paper structural read: confirms the new taxonomy, but a different (thinner) kind of finding than D-111/D-112
+
+Followed up on D-115's discovery by actually fetching and reading specimen material for both codes,
+having confirmed via direct fetch that it's genuinely public.
+
+**0580 (Mathematics):** downloaded and read specimen Paper 1 (Core, non-calculator) and Paper 3
+(Extended, calculator) plus their mark schemes, from the current 2025-2027 series. Cross-checking each
+question's topic against the sub-topic taxonomy built in D-113 found a clean match throughout -- every
+question maps cleanly onto one of the 9 topics, confirming the taxonomy correction independently
+rather than by construction. No mismatches or missing sub-topics found.
+
+**0625 (Physics):** here this pass **caught its own mistake before using it.** A file initially
+identified from search results as a "2026-specimen-paper-2" for 0625 turned out, once actually opened,
+to be Cambridge International AS & A Level Digital Media & Design (9481) -- an unrelated qualification
+that happened to surface in the same search. Caught immediately from the document's own title page,
+before any content was analysed or acted on, and discarded. The only genuine 0625 material actually
+confirmed and read this round was the 2023-2025-series specimen Paper 1 (Multiple Choice, Core) --
+no confirmed 2026-2028-series specimen set was located despite searching specifically for one (D-115
+already flagged this as unconfirmed). Reading it confirmed the same thing as 0580: question ordering
+tracks the syllabus topic ordering exactly, with no surprises against the site's existing topic data.
+
+**Why this is disclosed as a thinner finding than D-111/D-112, not folded into any WMUL section:**
+specimen papers (with or without their mark schemes) show what is *examinable and how marks are
+allocated* -- useful for confirming topic-weighting and taxonomy correctness, which is exactly what
+this pass used them for. They cannot show what *real candidates actually get wrong*, because no one
+has ever sat a specimen paper -- unlike the June 2025 Principal Examiner Reports used in D-111/D-112,
+which analyse real scripts. No new "Where marks are usually lost" bullets were written from this
+material, and none should be, without a genuine examiner-report-equivalent source for 0625/0580 (still
+not available in the owner's folders per D-112). This pass is scoped honestly as topic-weighting/
+taxonomy validation, not a second depth audit of the D-111/D-112 kind.
+
+Scratch PDFs and extracted text deleted after reading, per this programme's standing practice of not
+retaining copies of source exam-board material in the workspace.
+
+**Status:** 0580 taxonomy independently validated; 0625 material search closed out as genuinely
+exhausted (public specimen material exists but is thin -- one Core MCQ paper, no confirmed current-series
+written paper) rather than left as an open question. No site content changed by this pass.
