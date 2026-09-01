@@ -1,0 +1,354 @@
+{
+  "generatedAt": "2026-09-01T09:44:25.465Z",
+  "reports": [
+    {
+      "code": "0620",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "igcse",
+      "subjectSlug": "chemistry",
+      "syllabusSeries": "2026-2028",
+      "totalQuestions": 94,
+      "totalSubtopics": 49,
+      "coveredSubtopics": 36,
+      "coveragePct": 73,
+      "gaps": [
+        {
+          "topicNumber": 2,
+          "topicName": "Atoms, elements and compounds",
+          "topicSlug": "atoms-elements-and-compounds",
+          "subtopicNumber": "2.1",
+          "subtopicName": "Elements, compounds and mixtures",
+          "subtopicSlug": "elements-compounds-and-mixtures",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Atoms, elements and compounds",
+          "topicSlug": "atoms-elements-and-compounds",
+          "subtopicNumber": "2.2",
+          "subtopicName": "Atomic structure and the Periodic Table",
+          "subtopicSlug": "atomic-structure-and-the-periodic-table",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Atoms, elements and compounds",
+          "topicSlug": "atoms-elements-and-compounds",
+          "subtopicNumber": "2.3",
+          "subtopicName": "Isotopes",
+          "subtopicSlug": "isotopes",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Chemical reactions",
+          "topicSlug": "chemical-reactions",
+          "subtopicNumber": "6.1",
+          "subtopicName": "Physical and chemical changes",
+          "subtopicSlug": "physical-and-chemical-changes",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry",
+          "subtopicNumber": "11.3",
+          "subtopicName": "Fuels",
+          "subtopicSlug": "fuels",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry",
+          "subtopicNumber": "11.4",
+          "subtopicName": "Alkanes",
+          "subtopicSlug": "alkanes",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry",
+          "subtopicNumber": "11.5",
+          "subtopicName": "Alkenes",
+          "subtopicSlug": "alkenes",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry",
+          "subtopicNumber": "11.6",
+          "subtopicName": "Alcohols",
+          "subtopicSlug": "alcohols",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 11,
+          "topicName": "Organic chemistry",
+          "topicSlug": "organic-chemistry",
+          "subtopicNumber": "11.7",
+          "subtopicName": "Carboxylic acids",
+          "subtopicSlug": "carboxylic-acids",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 12,
+          "topicName": "Experimental techniques and chemical analysis",
+          "topicSlug": "experimental-techniques-and-chemical-analysis",
+          "subtopicNumber": "12.1",
+          "subtopicName": "Experimental design",
+          "subtopicSlug": "experimental-design",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 12,
+          "topicName": "Experimental techniques and chemical analysis",
+          "topicSlug": "experimental-techniques-and-chemical-analysis",
+          "subtopicNumber": "12.2",
+          "subtopicName": "Acid–base titrations",
+          "subtopicSlug": "acid-base-titrations",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 12,
+          "topicName": "Experimental techniques and chemical analysis",
+          "topicSlug": "experimental-techniques-and-chemical-analysis",
+          "subtopicNumber": "12.3",
+          "subtopicName": "Chromatography",
+          "subtopicSlug": "chromatography",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 12,
+          "topicName": "Experimental techniques and chemical analysis",
+          "topicSlug": "experimental-techniques-and-chemical-analysis",
+          "subtopicNumber": "12.4",
+          "subtopicName": "Separation and purification",
+          "subtopicSlug": "separation-and-purification",
+          "questionCount": 0
+        }
+      ],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": []
+    },
+    {
+      "code": "0625",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "igcse",
+      "subjectSlug": "physics",
+      "syllabusSeries": "For examination in 2026, 2027 and 2028",
+      "totalQuestions": 18,
+      "totalSubtopics": 11,
+      "coveredSubtopics": 0,
+      "coveragePct": 0,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [
+        {
+          "topicNumber": 3,
+          "topicName": "Waves",
+          "topicSlug": "waves-cambridge-igcse-physics"
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Electricity and magnetism",
+          "topicSlug": "electricity-and-magnetism-cambridge-igcse-physics"
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Nuclear physics",
+          "topicSlug": "nuclear-physics-cambridge-igcse-physics"
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Space physics",
+          "topicSlug": "space-physics-cambridge-igcse-physics"
+        }
+      ],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 1,
+          "topicName": "Motion, forces and energy",
+          "topicSlug": "motion-forces-and-energy-cambridge-igcse-physics",
+          "resourceSlug": "igcse-physics-motion-forces-and-energy-practice",
+          "resourceTitle": "IGCSE Physics: Motion, Forces and Energy — Practice Questions",
+          "questionCount": 9
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Thermal physics",
+          "topicSlug": "thermal-physics-cambridge-igcse-physics",
+          "resourceSlug": "igcse-physics-thermal-physics-practice",
+          "resourceTitle": "IGCSE Physics: Thermal Physics — Practice Questions",
+          "questionCount": 9
+        }
+      ]
+    },
+    {
+      "code": "0580",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "igcse",
+      "subjectSlug": "mathematics",
+      "syllabusSeries": "2025-2027",
+      "totalQuestions": 18,
+      "totalSubtopics": 0,
+      "coveredSubtopics": 0,
+      "coveragePct": 0,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number-cambridge-igcse-maths"
+        },
+        {
+          "topicNumber": 2,
+          "topicName": "Algebra and graphs",
+          "topicSlug": "algebra-and-graphs-cambridge-igcse-maths"
+        },
+        {
+          "topicNumber": 3,
+          "topicName": "Coordinate geometry",
+          "topicSlug": "coordinate-geometry-cambridge-igcse-maths"
+        },
+        {
+          "topicNumber": 4,
+          "topicName": "Geometry",
+          "topicSlug": "geometry-cambridge-igcse-maths"
+        },
+        {
+          "topicNumber": 5,
+          "topicName": "Mensuration",
+          "topicSlug": "mensuration-cambridge-igcse-maths"
+        },
+        {
+          "topicNumber": 6,
+          "topicName": "Trigonometry",
+          "topicSlug": "trigonometry-cambridge-igcse-maths"
+        },
+        {
+          "topicNumber": 7,
+          "topicName": "Transformations and vectors",
+          "topicSlug": "transformations-and-vectors-cambridge-igcse-maths"
+        },
+        {
+          "topicNumber": 8,
+          "topicName": "Probability",
+          "topicSlug": "probability-cambridge-igcse-maths"
+        },
+        {
+          "topicNumber": 9,
+          "topicName": "Statistics",
+          "topicSlug": "statistics-cambridge-igcse-maths"
+        }
+      ],
+      "topicOnlyTagged": [
+        {
+          "topicNumber": 2,
+          "topicName": "Algebra and graphs",
+          "topicSlug": "algebra-and-graphs-cambridge-igcse-maths",
+          "resourceSlug": "igcse-mathematics-algebra-and-graphs-practice",
+          "resourceTitle": "IGCSE Mathematics: Algebra and Graphs — Practice Questions",
+          "questionCount": 10
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Number",
+          "topicSlug": "number-cambridge-igcse-maths",
+          "resourceSlug": "igcse-mathematics-number-practice",
+          "resourceTitle": "IGCSE Mathematics: Number — Practice Questions",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "code": "9701",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "a-level",
+      "subjectSlug": "chemistry",
+      "syllabusSeries": "2025-2027",
+      "totalQuestions": 254,
+      "totalSubtopics": 90,
+      "coveredSubtopics": 84,
+      "coveragePct": 93,
+      "gaps": [
+        {
+          "topicNumber": 1,
+          "topicName": "Atomic structure",
+          "topicSlug": "as-atomic-structure",
+          "subtopicNumber": "1.1",
+          "subtopicName": "Particles in the atom and atomic radius",
+          "subtopicSlug": "as-particles-in-the-atom-and-atomic-radius",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 1,
+          "topicName": "Atomic structure",
+          "topicSlug": "as-atomic-structure",
+          "subtopicNumber": "1.2",
+          "subtopicName": "Isotopes",
+          "subtopicSlug": "as-isotopes",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 28,
+          "topicName": "Chemistry of transition elements",
+          "topicSlug": "a-chemistry-of-transition-elements",
+          "subtopicNumber": "28.3",
+          "subtopicName": "Colour of complexes",
+          "subtopicSlug": "a-colour-of-complexes",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 28,
+          "topicName": "Chemistry of transition elements",
+          "topicSlug": "a-chemistry-of-transition-elements",
+          "subtopicNumber": "28.4",
+          "subtopicName": "Stereoisomerism in transition element complexes",
+          "subtopicSlug": "a-stereoisomerism-in-transition-element-complexes",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 28,
+          "topicName": "Chemistry of transition elements",
+          "topicSlug": "a-chemistry-of-transition-elements",
+          "subtopicNumber": "28.5",
+          "subtopicName": "Stability constants, Kstab",
+          "subtopicSlug": "a-stability-constants-kstab",
+          "questionCount": 0
+        },
+        {
+          "topicNumber": 29,
+          "topicName": "An introduction to A Level organic chemistry",
+          "topicSlug": "a-an-introduction-to-a-level-organic-chemistry",
+          "subtopicNumber": "29.4",
+          "subtopicName": "Isomerism: optical",
+          "subtopicSlug": "a-isomerism",
+          "questionCount": 0
+        }
+      ],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": []
+    },
+    {
+      "code": "9702",
+      "boardSlug": "cambridge",
+      "qualificationSlug": "a-level",
+      "subjectSlug": "physics",
+      "syllabusSeries": "2025-2027",
+      "totalQuestions": 157,
+      "totalSubtopics": 76,
+      "coveredSubtopics": 76,
+      "coveragePct": 100,
+      "gaps": [],
+      "thin": [],
+      "topicsWithoutTaxonomy": [],
+      "topicOnlyTagged": []
+    }
+  ]
+}

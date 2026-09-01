@@ -5467,3 +5467,95 @@ files), `npm audit` (0 vulnerabilities), enquiry-function unit tests (31/31). Re
 output directly (not just the audit scripts) to confirm the headline numbers: titles >65 chars 538 →
 221 (all genuinely long authored content, not suffix inflation); descriptions >165 chars (correctly
 measured) → 0; pages missing `twitter:card` 60 → 0; 0 broken links, 0 missing canonicals introduced.
+
+## D-108 — Section 13: flagship gap dashboard, scoped to practice-question coverage
+
+**Date:** 2026-09-01
+
+§13's own text in the brief does not specify an exact data model for a "flagship gap dashboard,"
+and every prior phase of this programme declined to guess at one rather than build something shallow
+or wrong against an unclear spec. This round, asked directly, the owner picked a concrete scope:
+practice-question coverage gaps -- for the five flagship specifications the practice engine already
+covers (`FLAGSHIP_DEFINITIONS` in `src/utils/academic/index.ts`: 0620/0625/0580 IGCSE, 9701/9702
+A Level, all Cambridge), which of the syllabus's own official subtopics
+(`src/data/academic/syllabus-topics.ts`, the same taxonomy `topicsFor()` already serves to the
+practice engine and the hub template) have zero practice questions written against them. Two other
+candidate readings were surfaced while scoping this (content-depth thinness weighted by search demand,
+a public-facing coverage roadmap) and deliberately not built -- the owner chose the narrower, more
+concretely answerable one.
+
+The owner also chose where this lives: a gated admin page on the site (`/admin/practice-gaps/`), not
+a CSV/JSON-only report and not a public page. There is no authentication anywhere on this static
+site, so "gated" here means unlisted -- `noindex` (matching `/search/`'s existing pattern), excluded
+from the sitemap via a new `path.startsWith('/admin/')` rule in `astro.config.mjs`'s sitemap filter,
+and not linked from the header, footer, or any other page. Real access control would be a distinct,
+larger piece of work this static Cloudflare deploy doesn't currently have the infrastructure for.
+
+**What was built:**
+- `src/utils/practice/gap-report.ts` -- the computation, shared by the page and the CLI script so
+  the two can never drift. For each flagship spec: reads `topicsFor()`'s official subtopic list,
+  counts parsed practice questions per subtopic (via `practiceQuestionsForCode()` and each
+  question's `topicsByQualification`), and reports which subtopics have zero, 1-2 ("thin"), or more.
+- `src/pages/admin/practice-gaps.astro` -- the dashboard page itself (Section/Container/table
+  markup matching the rest of the site's established patterns; only pre-existing design tokens used,
+  not the handful of undefined `navy-4/5/600` classes already present elsewhere on `/search/`).
+- `scripts/practice-gap-report.mjs` (`npm run report:practice-gaps`) -- a portable CLI companion,
+  reporting-only like `academic-coverage-dashboard.mjs` before it (never fails the build, not part
+  of `validate:academic` or `audit:all`), writing the same data to `docs/reports/
+  practice-gap-report.{json,md}` so the owner has a copy outside the browser to cross-reference
+  against their own material.
+
+**A real, verified finding, not assumed:** the first pass showed Cambridge IGCSE Physics (0625) at
+0/11 subtopics covered despite having 18 real questions, and Cambridge IGCSE Mathematics (0580)
+at "0/0 subtopics, no gaps" -- both looked wrong enough to investigate rather than ship. Root causes,
+confirmed against the actual source files:
+
+1. **0580 Mathematics genuinely has no subtopic-level taxonomy recorded at all** --
+   `syllabus-topics.ts`'s own `notes` field for 0580 already discloses this ("Subtopic-level detail
+   not yet researched -- topics recorded name-only"). Reporting "0/0 covered, no gaps" read as false
+   full coverage. Fixed by adding a distinct `topicsWithoutTaxonomy` bucket -- topics with an empty
+   `subtopics: []` are excluded from both the gap list and the coverage count, not silently folded
+   into either.
+2. **Two 0625 Physics practice-question resource files (`igcse-physics-thermal-physics-practice.md`,
+   `igcse-physics-motion-forces-and-energy-practice.md`) tag their `syllabusTopics:` frontmatter at
+   topic level only, with no `subtopic:` field.** `bank.ts`'s parser (by original design, for the
+   client-facing topic-label display) requires both fields together and silently drops a topic-only
+   entry, so these 18 questions carry no subtopic mapping at all -- every subtopic under those two
+   topics would otherwise have shown as a false "zero questions" gap. Did not change `bank.ts`'s
+   parser or the resource frontmatter to fix this (a content-tagging change, and adjacent to the §14
+   content-depth work the owner asked to hold this round) -- instead `gap-report.ts` independently
+   re-reads the same frontmatter block to detect topic-only tagging and reports it as a separate
+   `topicOnlyTagged` list, excluded from both the gap list and the coverage count, same treatment as
+   the no-taxonomy case above.
+
+Both caveats are surfaced explicitly on the dashboard itself (collapsible sections per spec), not
+just in this log entry -- a reader shouldn't have to already know about them to avoid being misled.
+
+**Re-measured after both fixes:** 19 real zero-question subtopics across all 5 codes (13 in 0620
+Chemistry, 6 in 9701 A Level Chemistry; 0625 Physics and 9702 A Level Physics have none once the
+topic-only-tagged and no-taxonomy subtopics are correctly excluded from the hard gap list; 0580
+Mathematics has no subtopic-level taxonomy to measure against at all). 541 total practice questions
+across the five codes.
+
+**One content-integrity fix along the way:** the first draft of the "no subtopic taxonomy recorded"
+disclosure text on the page literally named `src/data/academic/syllabus-topics.ts`, which tripped
+`audit:content-integrity`'s existing internal-note-leakage check `[7]` (source file paths and
+internal dataset filenames aren't supposed to render on a live page) -- a genuine `FAIL` on the first
+full-gate run, not silently shipped. Fixed by rewording to "the official syllabus topic data" instead
+of naming the file.
+
+**Not attempted this round, per the owner's own explicit instruction:** §14 (flagship content-depth
+work beyond the routine weekly batch) -- the owner is personally writing content in parallel and
+asked to hold this workstream entirely this round to avoid duplicate or conflicting effort. This
+dashboard's gap/thin/topic-only-tagged lists exist partly so that work has a concrete, accurate
+starting point whenever it resumes, without this programme having authored any of the underlying
+academic content itself.
+
+**Status:** implemented and verified. Full gate clean: `build` (1290 pages, up from 1278 -- the new
+admin page plus the unrelated routine weekly content-depth batch that landed via `origin/main` this
+round), `validate:academic`, `audit:all` (9 checks, 0 problems, including `audit:content-integrity`
+after the file-path-leak fix above), negative-fixture suite (32/32, unchanged -- nothing this round
+touches those validators), `astro check` (0 errors, 0 warnings, 14 hints, 200 files), `npm audit`
+(0 vulnerabilities), enquiry-function unit tests (31/31). Confirmed directly in the built output:
+`/admin/practice-gaps/index.html` renders `<meta name="robots" content="noindex, follow">`, and
+`/admin/` does not appear in `dist/sitemap-0.xml` or `dist/sitemap-index.xml`.

@@ -1,0 +1,199 @@
+---
+/**
+ * Flagship Dominance/Trust Programme, Section 13 -- the flagship gap
+ * dashboard.
+ *
+ * Scope (see src/utils/practice/gap-report.ts for the full rationale):
+ * for the five flagship specifications the practice engine covers, which
+ * of the syllabus's own official subtopics have zero practice questions
+ * written against them yet. This is the owner's own chosen reading of
+ * §13, not the only possible one -- see D-108 for the alternatives that
+ * were surfaced and deliberately not built this round.
+ *
+ * This is a gated internal page, not a public site feature:
+ *   - noindex (see below) and excluded from the sitemap (astro.config.mjs
+ *     sitemap filter) -- same pattern as /search/.
+ *   - not linked from the header, footer, or any other page -- reachable
+ *     only by knowing this URL directly.
+ * No authentication exists anywhere on this static site, so "gated" here
+ * means "unlisted," matching how the rest of the site already handles
+ * pages that exist but aren't meant for public discovery. If this needs
+ * real access control later, that is a distinct, larger piece of work
+ * (this is a static Cloudflare deploy with no server-side session layer).
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+import { buildGapReports } from '../../utils/practice/gap-report.ts';
+import { boardBySlug } from '../../data/academic/boards.ts';
+import { qualificationBySlug } from '../../data/academic/qualifications.ts';
+import { subjectBySlug } from '../../data/academic/subjects.ts';
+
+const reports = buildGapReports();
+
+const specLabel = (r: (typeof reports)[number]) => {
+  const board = boardBySlug(r.boardSlug)?.name ?? r.boardSlug;
+  const qual = qualificationBySlug(r.qualificationSlug)?.name ?? r.qualificationSlug;
+  const subject = subjectBySlug(r.subjectSlug)?.name ?? r.subjectSlug;
+  return `${board} ${qual} ${subject}`;
+};
+
+const totalGaps = reports.reduce((sum, r) => sum + r.gaps.length, 0);
+const totalThin = reports.reduce((sum, r) => sum + r.thin.length, 0);
+const generatedAt = new Date().toISOString().slice(0, 10);
+---
+<BaseLayout
+  title="Practice-question gap dashboard"
+  description="Internal: practice-question coverage gaps across the five flagship specifications."
+  path="/admin/practice-gaps/"
+  noindex={true}
+>
+  <Section>
+    <Container>
+      <p class="mb-2 text-sm font-medium uppercase tracking-wide text-ink-mute">Internal — not linked from the site</p>
+      <h1 class="m-0 mb-3 text-[28px] font-semibold text-navy-900">Practice-question gap dashboard</h1>
+      <p class="mb-8 max-w-[68ch] text-navy-700">
+        For each of the five flagship specifications, every official syllabus subtopic and how many
+        parsed practice questions currently map to it. A subtopic with <strong>zero</strong> questions
+        is a gap; 1–2 questions is flagged as thin but not counted as a gap. Generated at build time
+        from the live question bank and the official syllabus topic taxonomy — this reflects exactly
+        what's in the repo right now, nothing cached or manually maintained. Built {generatedAt}.
+      </p>
+      <p class="mb-8 max-w-[68ch] rounded-lg border border-rule bg-ivory p-4 text-sm text-ink-mute">
+        Two things this number deliberately does <em>not</em> fold in silently — both shown per spec
+        below instead: subtopics under a topic that's only recorded name-only in the syllabus data
+        (no subtopic breakdown exists yet to measure against), and subtopics under a topic where a
+        resource file's frontmatter is tagged at topic level only (so real, shipped questions exist
+        but can't be attributed to one specific subtopic). Neither counts as a "gap" or as "covered."
+      </p>
+
+      <div class="mb-10 grid grid-cols-1 gap-4 sm:grid-cols-3">
+        <div class="rounded-lg border border-rule bg-ivory p-4">
+          <p class="m-0 text-2xl font-semibold text-navy-900">{totalGaps}</p>
+          <p class="m-0 text-sm text-ink-mute">subtopics with zero questions</p>
+        </div>
+        <div class="rounded-lg border border-rule bg-ivory p-4">
+          <p class="m-0 text-2xl font-semibold text-navy-900">{totalThin}</p>
+          <p class="m-0 text-sm text-ink-mute">subtopics with 1–2 questions</p>
+        </div>
+        <div class="rounded-lg border border-rule bg-ivory p-4">
+          <p class="m-0 text-2xl font-semibold text-navy-900">{reports.reduce((s, r) => s + r.totalQuestions, 0)}</p>
+          <p class="m-0 text-sm text-ink-mute">total practice questions, all 5 codes</p>
+        </div>
+      </div>
+
+      {reports.map((r) => (
+        <div class="mb-12 border-t border-rule pt-8">
+          <div class="mb-4 flex flex-wrap items-baseline justify-between gap-2">
+            <h2 class="m-0 text-xl font-semibold text-navy-900">
+              {specLabel(r)} <span class="font-normal text-ink-mute">({r.code}, {r.syllabusSeries})</span>
+            </h2>
+            <p class="m-0 text-sm text-ink-mute">
+              {r.totalQuestions} questions · {r.coveredSubtopics}/{r.totalSubtopics} subtopics covered ({r.coveragePct}%)
+            </p>
+          </div>
+
+          {r.gaps.length === 0 ? (
+            <p class="mb-4 text-sm text-success">No zero-question subtopics.</p>
+          ) : (
+            <>
+              <h3 class="mb-2 text-sm font-semibold uppercase tracking-wide text-navy-700">
+                Gaps — zero questions ({r.gaps.length})
+              </h3>
+              <div class="mb-6 overflow-x-auto">
+                <table class="w-full min-w-[480px] border-collapse text-sm">
+                  <thead>
+                    <tr class="border-b border-rule text-left text-ink-mute">
+                      <th class="py-1.5 pr-4 font-medium">Topic</th>
+                      <th class="py-1.5 font-medium">Subtopic</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {r.gaps.map((g) => (
+                      <tr class="border-b border-rule">
+                        <td class="py-1.5 pr-4 align-top text-ink-mute">{g.topicNumber}. {g.topicName}</td>
+                        <td class="py-1.5 align-top text-navy-900">{g.subtopicNumber} {g.subtopicName}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </>
+          )}
+
+          {r.thin.length > 0 && (
+            <details class="mb-2">
+              <summary class="cursor-pointer text-sm font-semibold uppercase tracking-wide text-navy-700">
+                Thin — 1–2 questions ({r.thin.length})
+              </summary>
+              <div class="mt-2 overflow-x-auto">
+                <table class="w-full min-w-[480px] border-collapse text-sm">
+                  <thead>
+                    <tr class="border-b border-rule text-left text-ink-mute">
+                      <th class="py-1.5 pr-4 font-medium">Topic</th>
+                      <th class="py-1.5 pr-4 font-medium">Subtopic</th>
+                      <th class="py-1.5 font-medium">Questions</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {r.thin.map((t) => (
+                      <tr class="border-b border-rule">
+                        <td class="py-1.5 pr-4 align-top text-ink-mute">{t.topicNumber}. {t.topicName}</td>
+                        <td class="py-1.5 pr-4 align-top text-navy-900">{t.subtopicNumber} {t.subtopicName}</td>
+                        <td class="py-1.5 align-top text-navy-700">{t.questionCount}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </details>
+          )}
+
+          {r.topicOnlyTagged.length > 0 && (
+            <details class="mb-2">
+              <summary class="cursor-pointer text-sm font-semibold uppercase tracking-wide text-navy-700">
+                Topic-tagged only, not subtopic-level ({r.topicOnlyTagged.length} resource file{r.topicOnlyTagged.length === 1 ? '' : 's'})
+              </summary>
+              <p class="mt-2 max-w-[68ch] text-xs text-ink-mute">
+                Real questions exist for these topics, but the resource file's frontmatter doesn't say
+                which subtopic — so the subtopics under these topics are excluded from both the gap
+                list and the coverage count above, rather than being guessed at either way.
+              </p>
+              <ul class="mt-2 list-disc pl-5 text-sm text-navy-900">
+                {r.topicOnlyTagged.map((t) => (
+                  <li>{t.topicNumber}. {t.topicName} — <code class="text-xs">{t.resourceSlug}</code> ({t.questionCount} question{t.questionCount === 1 ? '' : 's'})</li>
+                ))}
+              </ul>
+            </details>
+          )}
+
+          {r.topicsWithoutTaxonomy.length > 0 && (
+            <details class="mb-2">
+              <summary class="cursor-pointer text-sm font-semibold uppercase tracking-wide text-navy-700">
+                No subtopic taxonomy recorded ({r.topicsWithoutTaxonomy.length} topic{r.topicsWithoutTaxonomy.length === 1 ? '' : 's'})
+              </summary>
+              <p class="mt-2 max-w-[68ch] text-xs text-ink-mute">
+                The official syllabus topic data records these topics by name only — no subtopic
+                breakdown has been researched yet — so there's nothing to measure a subtopic-level gap
+                against for them.
+              </p>
+              <ul class="mt-2 list-disc pl-5 text-sm text-navy-900">
+                {r.topicsWithoutTaxonomy.map((t) => (
+                  <li>{t.topicNumber}. {t.topicName}</li>
+                ))}
+              </ul>
+            </details>
+          )}
+        </div>
+      ))}
+
+      <p class="mt-4 max-w-[68ch] text-xs text-ink-mute">
+        Scope: only the five flagship specifications carry practice-question data at all (see
+        FLAGSHIP_DEFINITIONS in src/utils/academic/index.ts) — this dashboard can't show a gap for any
+        other syllabus because there's no practice-question bank for one to be measured against. A
+        machine-readable version of this same data is written to
+        docs/reports/practice-gap-report.json by <code>npm run report:practice-gaps</code>.
+      </p>
+    </Container>
+  </Section>
+</BaseLayout>

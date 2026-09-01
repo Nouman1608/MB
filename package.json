@@ -19,6 +19,7 @@
     "validate:practice-schema": "node --experimental-strip-types scripts/validate-practice-question-schema.mjs",
     "coverage:academic": "node scripts/academic-coverage-dashboard.mjs",
     "coverage:academic-v2": "node scripts/academic-coverage-report-v2.mjs",
+    "report:practice-gaps": "node --experimental-strip-types scripts/practice-gap-report.mjs",
     "review:assessments": "node --experimental-strip-types scripts/assessment-review-checklist.mjs",
     "check:duplicate-scope": "node scripts/check-duplicate-resource-scope.mjs",
     "audit:metadata": "node scripts/audit-metadata.mjs",

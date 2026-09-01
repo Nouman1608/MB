@@ -195,6 +195,14 @@ export default defineConfig({
         // entirely client-side) -- excluded from the sitemap for the same
         // reason, not just the English one.
         if (/^\/(ar|ur|bn)\/search\/$/.test(path)) return false;
+        // Flagship Dominance/Trust Programme, Section 13 -- /admin/ is a
+        // gated internal route (practice-question gap dashboard and any
+        // future internal reporting page under this prefix), noindexed at
+        // the page level and never linked from the site. Excluded here for
+        // the same reason as /search/ above: keep the sitemap and the
+        // page's own robots meta in agreement, and don't advertise an
+        // internal-only URL in a file search engines actively crawl.
+        if (path.startsWith('/admin/')) return false;
         if (noindexAcademicPaths.has(path)) return false;
         if (archivedContentPaths.has(path)) return false;
         return true;
