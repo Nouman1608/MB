@@ -5336,3 +5336,48 @@ is no longer part of the HTML at all.
   0 broken links introduced), negative-fixture suite (31/31), `astro check` (0 errors, 0 warnings,
   195 files), `npm audit` (0 vulnerabilities), enquiry-function unit tests (31/31). Also verified
   functionally in a real browser (see above), not just by the build/audit gate.
+
+## D-106 — Sections 46-47: a typed, Zod-backed data model for the practice-question bank
+
+**Date:** 2026-09-01
+
+`scripts/validate-practice-bank.mjs` already checks that every flagship-relevant resource file
+parses to at least one question, and that no stray `## ` heading or `---` divider leaks into a
+question's own text. Neither checks the *shape* of what comes out the other end: a question with
+`marks: 0`, an empty `id`, or a `topicsByQualification` entry with a blank subtopic slug would sail
+through both checks untouched, and would still be a real, malformed question -- in the `ClientQuestion`
+case, one the browser genuinely depends on at runtime (D-105's fetch-based engine looks questions up
+by `id` in several places: `updateNotebook`, `updateSpacedRetry`, `markAttempt`).
+
+**What was built:**
+
+1. **`src/utils/practice/schema.ts`** -- real Zod schemas (via `astro/zod`, already bundled with
+   Astro; no new dependency, matching this repo's standing aversion to adding one for something the
+   toolchain already carries) for both shapes that exist in this bank: `PracticeQuestionSchema` (the
+   raw parsed question, still carrying markdown and its full topic map) and `ClientQuestionSchema`
+   (the HTML-converted, topic-labelled shape D-105's endpoint actually serves to the browser).
+2. **`scripts/validate-practice-question-schema.mjs`** -- runs both schemas against the real,
+   live-built bank (not fixtures), plus two cross-field invariants Zod's per-object shape checking
+   can't express alone: no duplicate `id` within one flagship code's question set, and
+   `buildClientQuestions(spec).length` matches `practiceQuestionsForCode(spec.code).length` exactly
+   (guards against a future edit silently dropping or duplicating questions during the
+   HTML-conversion step). Also checks `dataHashFor` is actually deterministic and always returns a
+   10-character lowercase hex string -- D-105's `?v={hash}` immutable-caching scheme is unsound if
+   it isn't.
+3. Wired into `npm run validate:academic` (so it runs on every `build`, not just on request) and
+   exposed standalone as `npm run validate:practice-schema`.
+4. **New negative-fixture category `[AD]`** in `scripts/test-negative-validation-suite.mjs`: mutates
+   one flagship resource file so its question 2 (and, correctly, its *matching answer*) both get
+   renumbered to duplicate question 1's id, then asserts the new validator actually catches it. A
+   single-sided mutation was tried first and rejected -- the parser's existing count/number-match
+   guards (already covered by category `[Y]`) would silently drop the whole file before the new
+   duplicate-id check was ever reached, proving nothing new. Confirmed a `marks`-based fixture was
+   infeasible: `bank.ts`'s `marks: marks || 1` self-heals a zero-sum to 1, so no realistic content
+   mutation can reach a `marks`-non-positive violation.
+
+**Status:** implemented and verified. `validate:practice-schema` passes: 541 raw questions and 541
+client questions across all 5 flagship specifications, all schema-valid, no duplicate ids, no count
+drift, `dataHashFor` deterministic. Negative-fixture suite: 32/32 (up from 31, new category `[AD]`).
+Full gate clean (build, `audit:all`, `astro check`, `npm audit`, unit tests -- see D-107's combined
+gate run below, which supersedes this entry's own standalone gate run since both landed in the same
+session).

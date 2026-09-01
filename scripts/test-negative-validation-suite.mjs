@@ -606,6 +606,34 @@ if (!existsSync(a11yFixtureFile)) {
   );
 }
 
+console.log('\n[AD] Flagship Dominance/Trust programme (Sections 46-47) -- typed practice-question schema validator catches a duplicate question id');
+
+withMutation(
+  'src/content/resources/as-chem-ionisation-energy-practice.md',
+  // Renumber question 2 (and its matching answer) down to 1, consistently
+  // on both sides -- this keeps the parser's own qItems/aItems count-match
+  // and number-match guards satisfied (both sides still agree with each
+  // other), so the file still parses, but now produces two questions both
+  // carrying id "as-chem-ionisation-energy-practice-q1". A less careful
+  // mutation (renumbering only one side) would just make the whole file
+  // silently drop out of the bank instead -- already covered by [Y] above,
+  // not what this category is proving.
+  (text) => text
+    .replace(
+      '**2.** State the three factors that determine the size of an ionisation energy. **[3]**',
+      '**1.** State the three factors that determine the size of an ionisation energy. **[3]**',
+    )
+    .replace(
+      '**2.** **Nuclear charge** [1]; **atomic radius / distance of the outer electron from the nucleus** [1]; **shielding by inner shells** [1].',
+      '**1.** **Nuclear charge** [1]; **atomic radius / distance of the outer electron from the nucleus** [1]; **shielding by inner shells** [1].',
+    ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-practice-question-schema.mjs',
+    expectSubstring: 'duplicate question id',
+    label: "AS Chemistry Ionisation Energy practice file with question 2 (and its answer) renumbered to duplicate question 1's id is rejected",
+  },
+);
+
 console.log(`\n==============================================================================`);
 console.log(`SUMMARY: ${passed} passed, ${failed} failed`);
 console.log(`==============================================================================`);
