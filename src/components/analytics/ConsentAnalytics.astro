@@ -50,6 +50,50 @@ const gaId = site.analytics.ga4MeasurementId;
       window.dataLayer = window.dataLayer || [];
       function gtag() { window.dataLayer.push(arguments); }
       window.gtag = gtag;
+
+      // Search Intelligence Execution Round -- single shared event-tracking
+      // helper for every future first-party event on the site (practice
+      // engagement events first; existing generate_lead/whatsapp_click calls
+      // in EnquiryForm.astro/WhatsAppButton.astro are left calling gtag()
+      // directly, unchanged, since both are already confirmed-live GA4 key
+      // events and this programme's own discipline is "smallest high-value
+      // change" -- not touching a working conversion path to make it use a
+      // new helper it doesn't need). Centralizing new event calls here means
+      // every future is:inline script (which cannot `import` an ES module --
+      // define:vars forces inline mode) gets the same PII safety net rather
+      // than re-implementing it per page. See docs/growth/practice-analytics-events.md
+      // for the full event list and design rationale.
+      //
+      // PII denylist: a payload key matching any of these (case-insensitive,
+      // substring match) is dropped before the event is sent, and a console
+      // warning is logged so a real accidental-PII bug is loud in dev, not
+      // silently swallowed in prod. This is deliberately conservative --
+      // false positives (dropping a legitimately-named safe field) are
+      // preferred over false negatives (letting PII through).
+      var MB_PII_DENYLIST = ['email', 'e_mail', 'name', 'phone', 'address', 'answer_text', 'question_text', 'password', 'token'];
+      function mbStripPii(params) {
+        var out = {};
+        for (var key in params) {
+          if (!Object.prototype.hasOwnProperty.call(params, key)) continue;
+          var lower = key.toLowerCase();
+          var blocked = false;
+          for (var i = 0; i < MB_PII_DENYLIST.length; i++) {
+            if (lower.indexOf(MB_PII_DENYLIST[i]) !== -1) { blocked = true; break; }
+          }
+          if (blocked) {
+            try { console.warn('[mbTrack] dropped potentially-PII field from event payload:', key); } catch (e) {}
+            continue;
+          }
+          out[key] = params[key];
+        }
+        return out;
+      }
+      window.mbTrack = function (eventName, params) {
+        if (!eventName || typeof eventName !== 'string') return;
+        var safeParams = mbStripPii(params || {});
+        window.gtag('event', eventName, safeParams);
+      };
+
       // Consent Mode v2 defaults -- nothing is sent until the visitor accepts.
       gtag('consent', 'default', {
         analytics_storage: 'denied',
