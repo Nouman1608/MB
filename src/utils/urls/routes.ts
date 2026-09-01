@@ -24,6 +24,7 @@ export const routes = {
   trial: '/trial/',
   pakistan: '/pakistan/',
   gulf: '/gulf/',
+  reportCorrection: '/report-a-correction/',
 } as const;
 
 export const resourceUrl = (entry: CollectionEntry<'resources'>) =>

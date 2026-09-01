@@ -1,5 +1,5 @@
 ---
-title: "Inequalities: Practice Questions — Practice Questions"
+title: "Inequalities: Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

@@ -1,5 +1,5 @@
 ---
-title: "Post-2000 Poetry and Prose (YET01): Practice Questions — Practice Questions"
+title: "Post-2000 Poetry and Prose (YET01): Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

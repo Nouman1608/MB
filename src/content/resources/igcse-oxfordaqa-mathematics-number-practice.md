@@ -1,5 +1,5 @@
 ---
-title: "Topic 1 Number (9260): Practice Questions — Practice Questions"
+title: "Topic 1 Number (9260): Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

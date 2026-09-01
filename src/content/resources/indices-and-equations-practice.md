@@ -1,5 +1,5 @@
 ---
-title: "Indices and Equations: Practice Questions — Practice Questions"
+title: "Indices and Equations: Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

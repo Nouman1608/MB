@@ -1,5 +1,5 @@
 ---
-title: "Kinematics and Motion Graphs: Practice Questions — Practice Questions"
+title: "Kinematics and Motion Graphs: Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

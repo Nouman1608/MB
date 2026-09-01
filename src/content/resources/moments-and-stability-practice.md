@@ -1,5 +1,5 @@
 ---
-title: "Moments and Stability: Practice Questions — Practice Questions"
+title: "Moments and Stability: Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

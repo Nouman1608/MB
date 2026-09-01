@@ -4611,3 +4611,509 @@ was not part of that decision and does not know their full reasoning.
   should be revisited and the automation exclusion restored.
 - **Status:** answered, implemented (scheduled task updated; see commit
   history for the exact instruction diff).
+
+**Editorial note added by the Flagship Dominance/Trust programme session (2026-08-31, applied via
+rebase 2026-09-01):** this session's own earlier baseline had reserved D-091 as a "GAP FLAGGED"
+placeholder, since as of this session's `bba8a36` baseline, commit `251d8d9` ("feat(validation):
+WS-A complete") referenced "docs/decision-log.md D-091" in its own body but no `## D-091` entry
+existed anywhere in this file yet. That gap is now filled by the real entry above (written
+directly by the owner, 2026-09-01) -- WS-A's rendered-academic-label-validator decision remains
+genuinely undocumented under its own number and is a separate, still-open gap, not resolved by
+this D-091 entry (which covers the unrelated IB-licensing follow-up). The underlying WS-A code
+itself was independently reviewed by this session and found sound (see D-092 below); only the
+decision-log entry explaining WS-A's own reasoning is still missing.
+
+## D-092 — Flagship Dominance/Trust programme: universal "Reviewed by teachers" trust claim, decoupled from the QIGT named-reviewer system
+
+**Date:** 2026-08-31
+
+**Owner confirmation (verbatim instruction, this session):** "ALL MARLBRIDGE STUDY RESOURCES
+HAVE BEEN REVIEWED BY TEACHERS" -- a blanket, non-attributed editorial fact covering the whole
+805-resource study-resources library, with an explicit instruction not to require or invent a
+named reviewer, profile, credential, or date, and not to leave resources labelled review-
+pending/awaiting-review if they're covered by this confirmation.
+
+**Tension with the existing QIGT programme:** `reviewStatus` (content.config.ts, default
+`review-pending`) plus `reviewer`/`reviewedDate` is a deliberately strict, pre-existing system
+(v1.x WS4, D-006) enforced by `scripts/validate-review-integrity.mjs`, which requires a real,
+existing author record with `isReviewer: true` before any resource can carry `reviewStatus:
+reviewed` or the named "Reviewed by [Name]" byline / schema.org `editor` claim. As of this
+session's baseline, 0 of 805 resources satisfy that stricter bar. Weakening or repurposing
+`reviewStatus` (or its validator) to satisfy the owner's blanket claim would have been the
+fastest path, but would have meant either fabricating reviewer records (explicitly prohibited
+by the owner's own instruction) or silently loosening a validator that exists specifically to
+prevent fabricated academic-credibility claims -- both rejected.
+
+**Decision:** added a new, independent boolean field, `reviewedByTeachers` (default `true`),
+to the `resources` collection schema, entirely separate from `reviewStatus`/`reviewer`/
+`reviewedDate`. It backs a new, universal, non-attributed public trust line -- "Reviewed by
+teachers" -- rendered on every resource detail page's provenance block (`src/pages/resources/
+[slug].astro`), alongside a plain-language "Aligned to <board(s)> <qualification(s)> <subject>
+(<syllabus code(s)>), <series>." sentence (via the existing `syllabusFor()` helper, best-effort,
+omitted when board/qualification is ambiguous) and a `mailto:` "Found an error? Report a
+correction" link. The QIGT system is completely untouched: it still gates the separate, more
+specific named "Reviewed by [Name]" byline and JSON-LD `editor` claim, and still requires a
+real `isReviewer: true` author record for that stricter claim. `src/pages/legal/editorial-
+policy.astro` was updated to lead with the blanket confirmation and describe the QIGT named-
+review step as being extended over time, replacing stale "the great majority of resources are
+labelled review-pending" language.
+
+**New regression guard:** `scripts/audit-review-coverage.mjs` (wired into `npm run audit:all`
+as `audit:review-coverage`), checking (1) no resource file explicitly sets `reviewedByTeachers:
+false` without it being a deliberate, documented exception, (2) every one of the 805 built
+resource detail pages actually renders the visible "Reviewed by teachers" text (catches a
+template regression that data-only checks would miss), (3) the editorial policy page carries
+no stale review-pending language and does state the confirmation. Negative-tested: fixture
+`[AA]` in `test-negative-validation-suite.mjs` corrupts a real built page's trust line, confirms
+the audit fails with the expected diagnostic, restores byte-for-byte. Full suite: 29/29 passing
+(up from 28, i.e. WS-A's count plus this one).
+
+- **Status:** implemented and verified. All 805 study resources resolve `reviewedByTeachers:
+  true`; all 805 built resource pages visibly render "Reviewed by teachers"; editorial policy
+  updated; `npm run validate:academic` and `npm run audit:all` both pass clean.
+
+## D-093 — Priority 2 fix: mechanically de-duplicated self-repeating resource-type titles ("Practice Questions — Practice Questions")
+
+**Date:** 2026-08-31
+
+**Bug:** 56 resource files (all `resourceType: practice-questions`) had `title:` frontmatter
+ending in a literally duplicated resource-type label, e.g. `"Paper 1 Literary Genres (7717):
+Practice Questions — Practice Questions"`. Confirmed this is baked directly into the source
+`title:` field at content-creation time, not produced live by a render-time helper: `pageTitle()`
+(`src/utils/seo/meta.ts`) only appends the site-name suffix and never touches resource-type
+labels, and `title`/H1/breadcrumb/JSON-LD `headline`/OG title on the resource detail page all
+read from this same frontmatter field with no `seoTitle` override present on any of the 56
+affected files -- so one fix to the source field fixes every rendering surface at once.
+
+**Decision:** per the brief's explicit "do not manually edit hundreds of resources" instruction,
+wrote `scripts/dedupe-resource-title-suffixes.mjs`, a mechanical, idempotent, safely re-runnable
+fixer: matches `title:` frontmatter ending in `"<label> — <label>"` for the same label
+(case-sensitive) and collapses it to a single occurrence. Run once against all 805 resource
+files; fixed exactly the 56 affected files, each verified via a printed before/after diff.
+Titles that legitimately repeat a word non-adjacently, or repeat two *different* labels, are
+untouched by design (the match requires the trailing segment to be identical to what precedes
+it, not merely similar).
+
+**New regression guard:** `scripts/audit-metadata.mjs` gained a label-agnostic "self-duplicated
+title segment" check -- flags any built page whose `<title>` has two adjacent ` — `-separated
+segments where the second is a suffix-match of the first (not naive full-segment equality,
+since the real bug shape has the first occurrence embedded as the tail of a longer colon-joined
+segment, e.g. `"...9239): Practice Questions"` followed by `"Practice Questions"`). First
+implementation attempt used full-segment equality and incorrectly reported 0 problems where 56
+were expected; fixed by switching to a regex boundary-suffix match. Re-verified: 56 problems
+found before the fix ran, 0 after.
+
+- **Status:** implemented and verified. `npm run audit:metadata` reports 0 self-duplicated-title
+  problems against the rebuilt site; the check is now a standing part of `npm run audit:all` and
+  will fail the build if this pattern reappears.
+
+## D-094 — Priority 3: geographic/teaching-location consistency audit and fix
+
+**Date:** 2026-08-31
+
+Repo-wide audit (read-only investigation first, no changes made until the full picture was
+in hand) of every place the site states or implies where Marlbridge teaches, who its teachers
+are, and who its students are -- top-level pages, both translation systems (`src/i18n/copy.ts`
+for `/ar/ /ur/ /bn/`, `src/i18n/pages/marketing.ts` for the About-page translations), schema.org
+emitters, and content collections. Confirmed the canonical model, consistent across the large
+majority of the site (`src/data/site.ts`, About, GlobalVision/WhyMarlbridge/TutoringSection,
+`/pakistan/`, `/gulf/`, Contact FAQ, `/trial/` FAQ, `legal/privacy.astro`): live in-person
+teaching happens only from the Learners Academy in Pakistan; every other learner is taught
+online; the free resource library is open to anyone, anywhere; no address/office/`LocalBusiness`
+schema is ever claimed (`site.about.city`/`country` deliberately left `undefined` "until
+confirmed in writing" -- correctly left as silence, not a gap to fix). A prior self-audit
+(D-034, 26 Aug) had already checked GlobalVision/About/Tutoring/Contact against each other, but
+its scope predated `/pakistan/`, `/gulf/` (added later, D-076), the `/ar/ur/bn/` homepage
+system, and article content -- this audit covered those too and found three genuine
+inconsistencies against that same canonical model:
+
+1. **An article contradicted the delivery model.** `src/content/articles/where-igcse-maths-
+   marks-are-lost-early.md` stated Marlbridge "teaches live, teacher-led classes online from
+   Pakistan to students in Pakistan, the Gulf and the UK" -- lumping Pakistan in as an *online*
+   destination, when every other page states Pakistan is specifically where *in-person* teaching
+   happens. Corrected to match the About page's own wording: "in person from our academy in
+   Pakistan, and online for students studying from the Gulf, the UK and elsewhere."
+
+2. **The `/ar/ /ur/ /bn/` homepage said nothing about delivery location at all**, while the
+   same-language About page (a separate, never-cross-checked translation system) states plainly
+   that in-person teaching is Pakistan-only. A visitor moving from home -> About in the same
+   language saw the fact appear with no lead-in. Added a new `locationNote` field to
+   `LocaleCopy` (`src/i18n/copy.ts`) -- one AI-translated sentence per locale, stating the exact
+   same model already on the English site, no new facts, no address/office claim -- rendered
+   on all three locale homepages right below the three pillars. Same AI-assisted-translation
+   caveat this file already discloses to visitors (review banner, "contact us in English if
+   anything is unclear") applies to this addition too.
+
+3. **`countryAvailability` was hardcoded to `['PK']`** on `content.config.ts`'s schema default
+   and on all 8 `src/content/programs/*.md` records, contradicting the site's own delivery model
+   (in-person Pakistan + live online for every published, priced region -- `src/data/pricing.ts`
+   `REGION_PRICING` lists 8 more). Confirmed unused by any rendered page or schema output before
+   touching it -- a latent, not live, inconsistency, but a structurally false fact left in
+   canonical content data that would surface a real bug the moment something is wired to it.
+   Corrected to `['PK', 'WW']` (Pakistan in person, worldwide online), using only the `country`
+   enum's existing values -- the enum's coarser AE/SA/GB/EU/IN/WW set doesn't map cleanly onto
+   `REGION_PRICING`'s finer SA/AE/QA/KW/BH/OM/GB/EU split, and adding new per-region codes is a
+   separate, larger schema decision this fix does not make.
+
+- **Status:** implemented and verified. Full gate clean (build, `validate:academic`,
+  `audit:all`, negative-fixture suite, `astro check`, `npm audit`) after the fix; all three
+  locale homepages independently checked in the built HTML to confirm `locationNote` actually
+  renders.
+
+## D-095 — Section 9: structured corrections/error-report form, distinguishable from tuition enquiries
+
+**Date:** 2026-08-31
+
+Replaces the plain `mailto:` "Found an error? Report a correction" link added on every resource
+page in D-092 with a real, structured form at `/report-a-correction/`
+(`src/pages/report-a-correction/index.astro`, `src/components/forms/CorrectionForm.astro`) --
+page URL auto-captured via a `?page=` query parameter set by the resource-page link (still a
+real, editable, required field, so it degrades honestly with JS disabled or when reached some
+other way), a fixed issue-type dropdown (wrong subject/board/qualification, outdated syllabus
+info, factual error, broken link, something else), a free-text description, and an optional
+email.
+
+**Reused, not duplicated, the existing enquiry pipeline.** Rather than stand up a second
+Cloudflare Function, added `correction` as a new `EnquiryKind`
+(`functions/_lib/enquiry-validation.ts`, `src/utils/forms/submit.ts`) with its own field
+allowlist (`pageUrl`/`issueType`/`description` required, `email` optional -- deliberately no
+name/phone/country, since this isn't an enrolment enquiry) flowing through the same, already
+spam-hardened `/api/enquiry` endpoint: same-origin check, honeypot, Cloudflare Turnstile,
+per-IP rate limiting, Resend delivery. "Distinguishable from tuition enquiries" (the brief's own
+words) is enforced at two points: the email subject line branches to `"Marlbridge correction
+report — <issue type>"` instead of `"Marlbridge enquiry — <name>"` (`functions/api/enquiry.ts`),
+and the success handler fires a plain, non-key GA4 custom event (`report_correction`) instead of
+`generate_lead` -- a correction report is not a sales lead, and no new GA4 *key* event is
+starred here without the owner's explicit approval, matching this repo's established practice
+for `whatsapp_click` (D-080).
+
+**`EnquiryForm.astro`'s `Props.kind` type was narrowed**, not widened, to exclude `correction`
+(`type TuitionEnquiryKind = Exclude<EnquiryKind, 'correction'>`) -- that component's field set
+(name/email/phone/country/message) doesn't fit a correction report, which has its own dedicated
+component instead, and narrowing means the compiler catches it if anything ever tries to render
+`<EnquiryForm kind="correction">` by mistake.
+
+**Found and fixed a real, pre-existing audit blind spot while wiring the new link in.**
+`scripts/audit-internal-links.mjs`'s anchor-parsing regex required an `href` to end exactly at
+the closing quote (`href="(\/[^"#?]*)"`) -- ANY internal link carrying a query string or
+fragment anywhere on the site silently failed to match that regex at all, so it was invisible to
+every check in that script: not counted as an inbound link (a false "orphan page" the first time
+this new query-string-bearing link was the only thing pointing at `/report-a-correction/`), not
+checked for brokenness, not checked for anchor text. Fixed by capturing the full href and
+stripping `?`/`#` only for path-matching -- a genuine correctness fix to a sitewide audit, not a
+workaround scoped to this one page. Negative-tested (`[AB]` in
+`test-negative-validation-suite.mjs`): corrupts the path portion of a real query-string-bearing
+href, confirms the audit still catches it as broken, restores byte-for-byte.
+
+Also added 7 new unit tests to `functions/api/__tests__/enquiry-validation.test.mjs` (24/24
+passing) covering the `correction` kind's field allowlist, the closed issue-type list (rejects
+free text), and the distinct email-body labelling.
+
+- **Status:** implemented and verified. Full gate clean; `/report-a-correction/` reachable,
+  builds, resolves as an inbound-linked (non-orphan) page from all 805 resource pages; both
+  `enquiry-validation.test.mjs` (24/24) and `enquiry-resend-integration.test.mjs` (7/7) pass.
+  Requires no new Cloudflare configuration -- reuses the `RESEND_API_KEY`/`TURNSTILE_SECRET_KEY`
+  already confirmed set for the existing enquiry pipeline.
+
+## D-096 — Section 10 (syllabus-code search) reviewed, no changes needed
+
+**Date:** 2026-08-31
+
+Reviewed the syllabus/specification-code search already on `main` before this session started
+(`src/pages/search/index.astro`, `src/utils/academic/codeIndex.ts`, part of the WS-A/B/C work --
+see D-091) against the brief's specific Section 10 requirement: exact code match should rank
+highest (e.g. "0620" -> Cambridge IGCSE Chemistry). Confirmed it already satisfies this, and
+goes further -- an exact match (3+ characters) navigates instantly rather than merely sorting
+first; a partial/prefix match still lists candidates. The index is deterministic, derived from
+the single sanctioned academic-matrix source (`activeOnly()`), throws rather than silently
+picking a winner if a code were ever claimed by two boards, and is small by design (139 entries)
+rather than duplicating the full site content index. It improves discovery of the existing
+syllabus hub pages (`/boards/<board>/<qualification>/<subject>/`) via the parallel `/syllabus/
+<CODE>/` redirect family (168 entries in `public/_redirects`) rather than building new hub
+pages -- matching the brief's "improve, don't duplicate" instruction. Spot-verified: "0620"
+correctly resolves to `/boards/cambridge/igcse/chemistry/`. No changes made -- reviewed and
+confirmed working as intended, per the brief's own instruction not to rebuild correct tools.
+
+## D-097 — Sections 23-24 (command-word guide): reviewed, precision-corrected, deliberately not extended to a fabricated multi-board glossary
+
+**Date:** 2026-08-31
+
+Reviewed the existing command-word guide (`/command-words/`, D-071, 29 Aug -- Cambridge's own
+22-word generic glossary) against the brief's specific request that it be "board-aware, since
+meanings differ by board." D-071 had already honestly disclosed that Edexcel/AQA/OCR/OxfordAQA
+"have not yet been sourced" -- investigated whether that gap could now be closed.
+
+**Real finding, not an excuse for inaction:** researched each of the other four boards' own
+official published command-word resources directly (web search + fetch, official domains only).
+Cambridge is structurally unusual in publishing ONE generic, cross-subject glossary. AQA, OCR and
+OxfordAQA each instead publish command-word guidance PER SUBJECT -- verified directly: AQA
+publishes independent pages/PDFs for GCSE Science, A-level Geography, Computer Science, PE,
+Design & Technology and more; OCR the same (e.g. its GCSE Geography command-words PDF);
+OxfordAQA the same (e.g. separate Psychology, Maths, English Language and Geography PDFs).
+Pearson Edexcel does not appear to publish any consolidated official glossary, generic or
+per-subject, at a stable public URL -- only third-party teaching-resource compilations were
+found.
+
+**Decision: do not fabricate a multi-board glossary that doesn't exist at the source.** A single
+"AQA/OCR/OxfordAQA generic list" built to look like Cambridge's would have to either present one
+subject's list as if it applied broadly (false) or blend several subjects' definitions into
+something none of these boards actually publishes (fabricated). Properly cataloguing real,
+verified, subject-scoped glossaries across three boards and dozens of subjects each is a
+legitimately large research task, correctly deferred rather than rushed -- matching the brief's
+own priority order (academic truth ahead of feature completeness, Section 56).
+
+**What was actually shipped instead:** corrected the tool's own disclosure from a vague "not yet
+added" to the real, verified reason (`src/data/academic/command-words.ts`, `src/pages/command-
+words/index.astro`), and added a new "If you're studying under a different board" section
+linking to one real, verified, live (200 OK, checked directly) official example page/PDF per
+board -- framed honestly as a per-subject starting point, not a claim of full coverage. Cambridge's
+own 22-word glossary is completely unchanged.
+
+- **Status:** implemented and verified. Full gate clean (build, `validate:academic`,
+  `audit:all`, negative-fixture suite 30/30, `astro check` 0 errors, `npm audit` 0
+  vulnerabilities); all 4 new external links independently confirmed live (curl, 200 OK) before
+  shipping.
+
+## D-098 — Sections 30-32 (Pakistan/Gulf regional pages): reviewed against the quality gate, no changes needed
+
+**Date:** 2026-08-31
+
+Reviewed `/pakistan/` and `/gulf/` (built earlier by the WS17/WS18 workstreams, D-076) against
+the brief's requirement that regional guidance pages be substantive, not doorway pages, and
+against the geographic-consistency model this session had just finished correcting (D-094).
+Checked, concretely, rather than skimmed:
+
+- **Real, distinct content per page, not templated duplication.** Pakistan covers in-person
+  delivery, the Pakistan-only confirmed IB rate, and an honest "What Marlbridge does not cover"
+  section (explicitly states Marlbridge does NOT teach Pakistan's own Matriculation/FBISE/
+  provincial-board exams, rather than staying silent). Gulf instead covers a genuine, useful
+  region-specific fact neither the pricing page nor Pakistan's page has: a Pakistan-Standard-Time
+  vs. Gulf-time-zone table, explaining why live online classes are practical, with an honest
+  caveat that exact scheduling is confirmed after enrolling. Verified body word counts (~870/~980
+  words) are well past thin-content territory, and `audit-metadata.mjs`'s sitewide
+  duplicate-description check (part of the standing gate) already confirms no two pages share a
+  meta description.
+- **No fabricated presence.** Neither page claims an address, office, or physical Gulf presence
+  -- both correctly describe Gulf delivery as fully online from Pakistan, consistent with D-094's
+  corrected model.
+- **Properly linked, not orphaned.** Both appear in `src/data/navigation.ts`'s footer links (as
+  literal path strings rather than the `routes.pakistan`/`routes.gulf` constants routes.ts
+  defines for them -- a harmless inconsistency, not a bug, left as-is) and are confirmed indexable
+  in the sitemap with real inbound links from `/levels/*` and `/programs/*` pages, so `audit-
+  internal-links.mjs` correctly reports them as non-orphaned.
+- **Real, accurate time-zone data.** Independently spot-checked the UTC offsets stated for all 6
+  Gulf countries (Saudi Arabia/Qatar/Kuwait/Bahrain UTC+3, UAE/Oman UTC+4) -- correct.
+- **Pricing pulled from the single sanctioned source**, not re-typed -- both pages read directly
+  from `src/data/pricing.ts`'s `REGION_PRICING`/`ONE_TO_ONE_PRICING`/`IB_PRICING`, so they cannot
+  drift from `/pricing/`'s own numbers.
+
+No changes made -- both pages already meet a genuine substantive-content bar, are internally
+consistent with each other and with the rest of the site's geographic model, and correctly avoid
+every doorway-page red flag (thin/duplicate content, fabricated local presence, no real regional
+value). Reviewed and confirmed working as intended, per the brief's own instruction not to rebuild
+correct work.
+
+- **Status:** reviewed, no code changes.
+
+## D-099 — Section 43 (WCAG 2.2 AA audit of new functionality): manual verification + a new dependency-free structural audit script, one real bug found in the script itself and fixed before shipping
+
+**Date:** 2026-08-31
+
+Audited this programme's own new functionality — the corrections form (`/report-a-correction/`,
+`CorrectionForm.astro`) and the resource-page teacher-review trust block (`resources/[slug].astro`,
+D-092) — against WCAG 2.2 AA, plus added a permanent, dependency-free structural audit covering the
+whole built site going forward.
+
+**What was checked manually, and how (not by any script — these require either rendering the page
+or computing real numbers, not just parsing HTML):**
+
+- **Color contrast.** Computed the real relative-luminance/contrast-ratio formula (not eyeballed)
+  for every text/background color pair used in the new form and trust block, against this repo's
+  actual defined tokens (`src/styles/global.css`: `--color-navy-800: #0B1F3A`, `--color-ivory:
+  #F7F4EC`, `--color-ink: #172033`, `--color-ink-mute: #5B6472`, `--color-gold-600: #7A5E10`,
+  `--color-gold-500: #C9A227`, `--color-success: #176B4D`, `--color-error: #A33A3A`). All 11 real
+  text/background pairs pass AA (4.5:1 for normal text) comfortably, ranging 5.44:1–16.52:1. One
+  additional pair — `underline decoration-gold-500` against ivory — computes to 2.20:1, but this is
+  a decorative underline accent, not text: the link text itself (navy-800 on ivory) is 15.03:1, and
+  the underline sits alongside both compliant text color and the underline shape itself as a
+  non-color cue. Not a real violation, and this exact pattern (gold underline decoration on navy
+  link text) is used site-wide already, pre-dating this programme.
+- **Touch target size.** Confirmed all new interactive controls use `min-h-11` (44px), well over
+  the WCAG 2.2 AA 2.5.8 minimum of 24px.
+- **Focus visibility.** Confirmed `:focus-visible` styling is a single global rule in
+  `src/styles/global.css` that nothing in the new functionality overrides or hides.
+- **Structural spot-check.** Directly inspected 6 specific pages carrying new/touched functionality
+  (`/report-a-correction/`, a sample resource page with the trust block, `/command-words/`, and the
+  three RTL locale homepages `/ar/`, `/ur/`, `/bn/`) for label association, heading-level sequence,
+  single `<h1>`, image alt presence, and generic anchor text. All 6 clean.
+
+**What's still a real, disclosed gap, not silently skipped:** keyboard-only operability and actual
+ARIA state correctness (e.g. `aria-expanded` genuinely toggling on interaction) require a real
+browser and interaction, not static-HTML parsing. Considered adding Playwright + axe-core for this
+— Playwright is available in this sandbox, but was deliberately NOT added as a project
+`devDependency`: `.github/workflows/deploy.yml` runs `npm ci` on every push to `main` before
+deploying, and a browser-binary download would meaningfully slow every future deploy, for one
+audit's benefit — this matches this repo's established, repeatedly-demonstrated aversion to new
+dependencies for narrow single-purpose needs (see e.g. the enquiry-form decision not to add a new
+package for one Cloudflare Function call). Left as a disclosed future option, not silently omitted.
+
+**What was built instead: `scripts/audit-accessibility.mjs`, wired into `npm run audit:all`.** A
+lightweight, dependency-free script matching this repo's established `audit-*.mjs` convention
+(reads built `dist/` HTML, same precondition as the other dist/-dependent audits). Checks, across
+the whole site, on every push: form-control label association (WCAG 1.3.1/3.3.2/4.1.2), image alt
+presence (1.1.1), heading-level skips (1.3.1/2.4.6), generic internal-link text (2.4.4, duplicating
+`audit-internal-links.mjs`'s own list so this script stays independently complete), and non-empty
+`<html lang>` (3.1.1). Its own header comment states plainly what it does not check (contrast,
+focus order, keyboard operability, real ARIA state, touch target size) rather than presenting a
+partial check as a complete WCAG audit.
+
+**A real bug found in this script, in this same session, before it shipped — not a pre-existing
+site issue.** The label-association check initially recognized only the explicit `<label
+for="id">` pattern. HTML/WCAG also permits the equally-valid implicit/wrapping pattern (a control
+nested directly inside an unclosed `<label>...</label>`, no `for`/`id` pair required) — this
+repo's own resource-filter controls (`/resources/index.html`, one Subject/Level `<select>` pair per
+resource-type section with content, 4 sections × 2 selects = 8) and practice-page controls
+(`/practice/{0580,0620,0625,9701,9702}/index.html`, 3 controls each: filter/mode/timed-mode) all
+use this pattern. Running the first version of the script site-wide reported 23 "problems," none of
+which were real — all 23 were confirmed, by reading the actual source (`src/pages/resources/
+index.astro`, `src/pages/practice/[code]/index.astro`), to be validly wrapped in a `<label>` with
+real visible text. Fixed by replacing the per-control regex with a single linear scan of the page
+that tracks whether the parser is currently inside an open `<label>` when it reaches a control tag,
+so both the explicit and implicit patterns are now correctly recognized. Re-ran site-wide after the
+fix: 0 problems across all 1275 pages, 135 form controls, 2471 images. This matches this session's
+established discipline of verifying a validator is actually correct before trusting its output
+(e.g. the earlier `audit-metadata.mjs` self-duplicate-title regex fix) rather than shipping a check
+that would have permanently false-flagged legitimate, already-shipped markup on every future push.
+
+**Negative-fixture coverage added** (`scripts/test-negative-validation-suite.mjs`, category [AC]):
+breaks the explicit `id`/`for` association on `/command-words/`'s search input (a control that is
+NOT wrapped in a `<label>`, so the wrapping-pattern fix correctly does not mask the break) and
+confirms the audit still catches it.
+
+- **Status:** implemented and verified. `scripts/audit-accessibility.mjs` added and wired into
+  `npm run audit:all`; negative-fixture category [AC] added (31/31 passing, up from 30). Full gate
+  clean: build (1275 pages), `validate:academic`, `audit:all` (9 checks, 0 problems, including the
+  new accessibility check), negative-fixture suite (31/31), `astro check` (0 errors), `npm audit`
+  (0 vulnerabilities), enquiry-function unit tests (31/31).
+
+## D-100 — Sections 28-29 (brand separation / About-page review): reviewed against a real conflation/fabrication bar, no changes needed
+
+**Date:** 2026-08-31
+
+Reviewed the Marlbridge/Learners Academy brand relationship and the About page for two concrete
+risks: (1) visual/copy conflation that would let a visitor mistake the two for either the same
+entity or unrelated entities, and (2) any fabricated founding year, student count, campus,
+accreditation or award — the same no-invention bar the About page's own header comment already
+states. This relationship was originally built under the earlier AUTHORITY/PRACTICE/TOOLS/GROWTH
+programme's WS16 ("visual/structural brand separation"); this pass is an independent re-check
+against that work, not a rebuild.
+
+**Consistency, checked across every place the relationship is stated, not just the About page:**
+`/about/` ("Learners Academy is the founding academy behind Marlbridge... its teaching continues
+under the Marlbridge name"), the homepage's `LearnersAcademy.astro` section (identical copy),
+the global footer's `site.founding` string ("Learners Academy — a Marlbridge education
+institution."), and `/legal/privacy/`'s "Who we are" section ("Marlbridge is an education platform
+operated by Learners Academy, based in Pakistan"). All four frame the same relationship the same
+way — Learners Academy as the founding/operating academy, Marlbridge as the platform/brand its
+teaching and this site operate under — with no page implying they are simply the same thing or
+wholly unconnected.
+
+**No fabrication found.** `site.about` (`src/data/site.ts`) still has `foundingYear`, `city`,
+`country` and `story` all `undefined`, so the About page's `hasFoundingDetail` block correctly
+stays hidden rather than inventing any of them — confirmed by both reading the source and by the
+page's own header comment stating this explicitly. The academy photo is an abstract editorial
+graphic with an alt text that says outright it is "not a photograph of an actual Learners Academy
+classroom or person," not a stock/AI image passed off as real. No years-of-operation, campus
+count, or accreditation claim appears anywhere in the reviewed copy.
+
+**Supporting facts independently verified, not just read:** the WhatsApp number in `WhatsAppButton
+.astro` (+92 323 9149918 / wa.me/923239149918) matches the founder-supplied brand-identity kit
+exactly. `https://learnersacademy.com.pk` (linked from the About page, the homepage section, and
+cited as every teacher bio's `sourceUrl`) returns a live 200. Both pages the About page's "The
+people who teach and write" section links to — `/legal/editorial-policy/` and
+`/authors/marlbridge-academic-team/` — exist in the built `dist/` output (already confirmed
+non-orphaned by the standing `audit-internal-links.mjs` gate).
+
+No changes made — the brand relationship is stated consistently everywhere it appears, nothing
+is fabricated, and the one already-disclosed gap (no real academy photograph yet) is disclosed
+honestly rather than papered over with a generic stock image. Reviewed and confirmed working as
+intended, per the brief's own instruction not to rebuild correct work — the same outcome as D-098's
+regional-page review.
+
+- **Status:** reviewed, no code changes.
+
+## D-101 — Section 44 (i18n review of new functionality in RTL locales): reviewed against the actual routing config, confirmed out of RTL scope, no changes needed
+
+**Date:** 2026-08-31
+
+Checked whether this programme's two new pieces of functionality — the corrections form
+(`/report-a-correction/`, `CorrectionForm.astro`, D-095) and the resource-page teacher-review
+trust block (`resources/[slug].astro`, D-092) — are reachable from, or need to render correctly
+under, the site's RTL locales (`ar`, `ur`).
+
+**Real finding, checked against the routing config itself, not assumed:** neither is in RTL scope,
+because neither page is part of the site's translated-route system. `src/i18n/routes.ts` names
+exactly 19 route templates that get `ar`/`ur`/`bn` variants (confirmed by the standing gate's own
+i18n check: "19 translated routes × 4 locales = 76 pages") — `resources` in that list is only the
+`/resources/` index hub (`src/pages/[locale]/resources/index.astro`), not individual resource
+detail pages. The trust block lives exclusively on `resources/[slug].astro`, which has no
+`[locale]` variant at all and is not one of the 19 keys. `/report-a-correction/` isn't in the list
+either. Grepped the translated resources index hub directly for both features' markers ("Reviewed
+by teachers", `reportCorrection`, `CorrectionForm`) — zero matches, confirming the hub doesn't
+surface either feature indirectly. The one link into the corrections form
+(`resources/[slug].astro`'s `correctionHref`) therefore only ever appears on an English-only page,
+so an Arabic- or Urdu-reading visitor browsing `/ar/...` or `/ur/...` never encounters it.
+
+**Defensive check anyway, since a future locale expansion could change this:** scanned both new
+components for hardcoded physical (non-logical) CSS that would silently break under `dir="rtl"`.
+The only physical-direction property found — `-left-[9999px]` on `CorrectionForm.astro`'s honeypot
+field — is an anti-spam off-screen-hider (`aria-hidden`, 1px×1px), not visible layout, so direction
+doesn't affect its function; and it's not a new pattern introduced here — `EnquiryForm.astro` (the
+form already live on `/contact/`, one of the 19 actually-translated, actually-RTL-rendered routes)
+uses the identical `-left-[9999px]` honeypot pattern already, so this is a pre-existing, already-
+proven-safe convention, not a new risk.
+
+No changes made — both features are genuinely outside RTL scope today, and nothing in either one
+would need fixing even if that changed. Reviewed and confirmed, not silently skipped.
+
+- **Status:** reviewed, no code changes.
+
+## D-102 — Section 45 (privacy audit of this programme's new data flows): real disclosure gap found and fixed — the corrections form was never mentioned in the privacy policy
+
+**Date:** 2026-08-31
+
+Reviewed whether this programme's new corrections form (`/report-a-correction/`, D-095, Phase 2)
+introduced any personal-data collection that `/legal/privacy/` doesn't disclose.
+
+**Real, concrete gap found.** The corrections form uses the exact same Cloudflare Function
+(`functions/api/enquiry.ts`) and Resend delivery pipeline as the existing tuition-enquiry contact
+form, but with a genuinely different field set (`functions/_lib/enquiry-validation.ts`,
+`FIELDS_BY_KIND.correction`): `pageUrl`, `issueType` (a fixed list) and `description` are required,
+`email` is optional -- deliberately no `name`, `phone` or `country`, since a correction report
+isn't a tuition enquiry. `/legal/privacy/`'s "What we collect" section, however, only ever
+described "our contact form" and listed the tuition-enquiry field set (name, email, phone,
+country, message) -- it never mentioned that a second, narrower data-collection surface existed at
+all. A visitor reading the privacy policy before using the corrections form would have had no
+accurate picture of what that specific form collects. The "Analytics" section's Turnstile sentence
+had the same narrower framing ("The enquiry form also uses...") even though Turnstile gates both
+forms at the shared endpoint.
+
+**Fixed.** Added a new paragraph to `/legal/privacy/`'s "What we collect" section describing
+exactly what the corrections form collects and doesn't, linked to the form itself; generalized the
+Turnstile sentence to name both forms explicitly. Propagated the same addition to all three
+translated privacy pages (`src/i18n/pages/legal.ts`, `ar`/`ur`/`bn`) as a new section each, keeping
+them in sync with the English original rather than letting them silently drift out of date --
+matching this repo's existing disclosed "AI-assisted, pending native-speaker/legal review; English
+is the governing version" convention already stated for all translated legal content (D-045/D-051/
+D-052), not a new, unreviewed claim of its own.
+
+**Scope check, not just the diff:** confirmed no other new data flow exists from this programme --
+the accessibility audit (D-099) and brand-separation review (D-100) added no forms or storage; the
+corrections form itself stores nothing server-side (no KV/D1 write), only forwards via the existing
+Resend integration already covered by "How we use it" / "How long we keep it" in general terms.
+
+- **Status:** implemented and verified. Full gate clean: build (1275 pages), `validate:academic`,
+  `audit:all` (9 checks, 0 problems -- including 0 broken links to the new `/report-a-correction/`
+  privacy-page link), negative-fixture suite (31/31), `astro check` (0 errors), `npm audit` (0
+  vulnerabilities), enquiry-function unit tests (31/31). Confirmed by direct dist inspection that
+  the new section renders correctly on all four built privacy pages (en/ar/ur/bn).

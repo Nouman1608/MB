@@ -17,7 +17,17 @@ import type { EnquiryFormLabels } from '../../i18n/nav';
 // the student to write in the message itself (see the hint below). The
 // school-partnership form keeps its own fields (school, role) since those
 // identify the organisation making the enquiry, not enrolment metadata.
-interface Props { kind: EnquiryKind; labels?: EnquiryFormLabels }
+/**
+ * This component only ever renders the four tuition/enrolment enquiry
+ * kinds -- `correction` (added to the shared EnquiryKind type in
+ * src/utils/forms/submit.ts, D-095) has its own dedicated field set with
+ * no name/phone/country, rendered by CorrectionForm.astro instead. Narrowed
+ * here rather than widened, so this component can't silently render a
+ * correction with the wrong fields, and so MESSAGE_HINT below stays
+ * exhaustive without a meaningless placeholder entry.
+ */
+type TuitionEnquiryKind = Exclude<EnquiryKind, 'correction'>;
+interface Props { kind: TuitionEnquiryKind; labels?: EnquiryFormLabels }
 const { kind, labels } = Astro.props;
 
 /**
@@ -55,7 +65,7 @@ const t = labels ?? EN_LABELS;
 const mailto = 'mailto:' + FALLBACK_EMAIL;
 const turnstileSiteKey = site.turnstile.siteKey;
 
-const MESSAGE_HINT: Record<EnquiryKind, string> = {
+const MESSAGE_HINT: Record<TuitionEnquiryKind, string> = {
   school: t.messageHintSchool,
   trial: t.messageHintTrial,
   student: t.messageHintStudent,

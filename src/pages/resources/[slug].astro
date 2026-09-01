@@ -13,6 +13,7 @@ import { qualificationBySlug } from '../../data/academic/qualifications';
 import { relatedResources, relatedArticles, topicSiblings } from '../../utils/content/related';
 import { articleNode } from '../../utils/schema/article';
 import { routes, resourceUrl } from '../../utils/urls/routes';
+import { syllabusFor } from '../../data/academic/syllabuses';
 
 export async function getStaticPaths() {
   const resources = await getResources();
@@ -44,6 +45,35 @@ const levels = resourceLevelLabel(d.level, d.stage);
  */
 const boardNames = d.boards.map((slug) => boardBySlug(slug)?.name).filter((n): n is string => Boolean(n));
 const qualificationNames = d.qualifications.map((slug) => qualificationBySlug(slug)?.name).filter((n): n is string => Boolean(n));
+
+/**
+ * Flagship Dominance/Trust programme -- best-effort official specification
+ * link, looked up from the SAME verified syllabus records every syllabus
+ * hub page reads (never re-typed or guessed here). Only resolved when the
+ * resource declares exactly one board and one qualification, so there is
+ * no ambiguity about which of several possible syllabuses it refers to;
+ * left undefined (and simply omitted from the trust block below) rather
+ * than guessed for multi-board/multi-qualification resources or any
+ * combination syllabuses.ts doesn't yet carry.
+ */
+const officialSyllabus = (d.boards.length === 1 && d.qualifications.length === 1)
+  ? syllabusFor(d.boards[0], d.qualifications[0], d.subject.id)
+  : undefined;
+/**
+ * Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095):
+ * replaces the earlier mailto: link with the structured corrections form
+ * (src/pages/report-a-correction/) -- a categorized issue type, a proper
+ * description field, and this page's own URL auto-captured via ?page=,
+ * rather than relying on a visitor's mail client to fill in a template.
+ * The form page still offers a plain-email fallback for anyone who'd
+ * rather not use it.
+ */
+const correctionHref = `${routes.reportCorrection}?page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
+const alignedToParts = [...boardNames, ...qualificationNames, subject?.data.title].filter(Boolean) as string[];
+let alignedToText = `Aligned to ${alignedToParts.join(' ')}`;
+if (d.syllabusCodes.length > 0) alignedToText += ` (${d.syllabusCodes.join(', ')})`;
+if (d.syllabusSeries) alignedToText += `, ${d.syllabusSeries}`;
+alignedToText += '.';
 
 /**
  * QIGT programme -- genuine review evidence, computed ONCE and reused for
@@ -110,6 +140,21 @@ const jsonLd = [articleNode({
       <div class="m-0"><dt class="m-0 inline font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Reviewed by </dt><dd class="m-0 inline text-ink-mute"><a href={routes.author(reviewerEntry!.id)} class="underline decoration-rule underline-offset-2">{reviewerEntry!.data.name}</a>{d.reviewedDate && <> on <time datetime={d.reviewedDate.toISOString()}>{formatDate(d.reviewedDate)}</time></>}</dd></div>
     )}
   </dl>
+
+  {/* Flagship Dominance/Trust programme -- universal, non-attributed teacher-review
+      trust line plus provenance and a correction path. Deliberately simple: no named
+      reviewer, no invented date, no fabricated Person schema -- see reviewedByTeachers
+      in src/content.config.ts and docs/decision-log.md D-092. Independent of, and
+      additional to, the genuine named-reviewer byline above when that also exists. */}
+  {d.reviewedByTeachers && (
+    <div slot="hero-extra" data-testid="teacher-review-trust" class="mt-6 max-w-[62ch] rounded-sm border border-rule bg-ivory px-5 py-4 text-[14px] leading-relaxed text-ink-mute">
+      <p class="m-0 font-semibold text-navy-800">Reviewed by teachers</p>
+      <p class="m-0 mt-1">
+        {alignedToText}{officialSyllabus && <> <a href={officialSyllabus.officialUrl} rel="noopener" class="underline decoration-gold-500 underline-offset-2">Official specification</a>.</>}
+      </p>
+      <p class="m-0 mt-1"><a href={correctionHref} class="underline decoration-gold-500 underline-offset-2">Found an error? Report a correction.</a></p>
+    </div>
+  )}
 
   {/* Hidden filter tags -- see the comment above boardNames/qualificationNames.
       hidden (display:none) rather than removed from the DOM, since Pagefind's

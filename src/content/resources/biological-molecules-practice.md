@@ -1,5 +1,5 @@
 ---
-title: "Biological Molecules: Practice Questions — Practice Questions"
+title: "Biological Molecules: Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["o-levels"]

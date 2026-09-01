@@ -1,5 +1,5 @@
 ---
-title: "Prose and Drama (9275): Practice Questions — Practice Questions"
+title: "Prose and Drama (9275): Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

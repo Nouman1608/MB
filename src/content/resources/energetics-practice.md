@@ -1,5 +1,5 @@
 ---
-title: "Exothermic and Endothermic Reactions: Practice Questions — Practice Questions"
+title: "Exothermic and Endothermic Reactions: Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

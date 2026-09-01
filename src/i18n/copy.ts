@@ -30,6 +30,18 @@
  * the false "English only" sentence is removed from contactBody, and the
  * homepage's CTAs now link to the localized contact page instead of the
  * English one (see src/pages/ar|ur|bn/index.astro). See D-086.
+ *
+ * Flagship Dominance/Trust programme (2026-08-31): this page previously
+ * said nothing at all about where/how teaching is delivered, while the
+ * same-language About page (src/i18n/pages/marketing.ts) states plainly
+ * that in-person teaching happens only from the Pakistan academy and
+ * everywhere else is online -- a visitor going home -> About in the same
+ * language saw that fact appear with no lead-in. Added `locationNote`,
+ * a short, honest, one-sentence version of the exact same model already
+ * used on the English homepage/About page (in person from Pakistan,
+ * online elsewhere) -- no new facts, no address/office claim, just
+ * bringing this page in line with what the rest of the site already
+ * says. Same AI-assisted-translation caveat as the rest of this file.
  */
 import { REGION_PRICING, formatFee, feeFor } from '../data/pricing';
 
@@ -46,6 +58,7 @@ export interface LocaleCopy {
   subhead: string;
   ctaContact: string;
   pillars: readonly { title: string; body: string }[];
+  locationNote: string;
   pricingHeading: string;
   pricingNote: string;
   tableHeaders: { region: string; currency: string; igcse: string; aLevel: string };
@@ -71,6 +84,7 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
       { title: 'متخصصون مؤهلون في المادة', body: 'يتم اختيار المعلمين بما يتوافق مع مجلسك ومؤهلك ومادتك الدراسية.' },
       { title: 'أسعار شفافة', body: 'اطّلع على الرسوم الشهرية الدقيقة لمنطقتك أدناه — دون أي تكاليف خفية.' },
     ],
+    locationNote: 'تُقام الدروس الحضورية فقط من أكاديميتنا في باكستان؛ وفي أي مكان آخر، نقدّم التدريس مباشرة عبر الإنترنت.',
     pricingHeading: 'الأسعار',
     pricingNote: 'الأسعار معروضة بعملة منطقتك، لكل مادة شهريًا.',
     tableHeaders: { region: 'المنطقة', currency: 'العملة', igcse: 'IGCSE', aLevel: 'A Level' },
@@ -94,6 +108,7 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
       { title: 'تجربہ کار مضمون کے ماہرین', body: 'اساتذہ کو آپ کے بورڈ، قابلیت اور مضمون کے مطابق منتخب کیا جاتا ہے۔' },
       { title: 'شفاف فیس', body: 'نیچے اپنے علاقے کی درست ماہانہ فیس دیکھیں — کوئی چھپی ہوئی لاگت نہیں۔' },
     ],
+    locationNote: 'کلاس روم میں حاضری کے ساتھ تدریس صرف پاکستان میں ہماری اکیڈمی سے کی جاتی ہے؛ باقی ہر جگہ ہم براہِ راست آن لائن پڑھاتے ہیں۔',
     pricingHeading: 'فیس',
     pricingNote: 'فیس آپ کے علاقے کی کرنسی میں، فی مضمون فی ماہ دکھائی گئی ہے۔',
     tableHeaders: { region: 'علاقہ', currency: 'کرنسی', igcse: 'IGCSE', aLevel: 'اے لیول' },
@@ -117,6 +132,7 @@ export const LOCALE_COPY: Record<LocaleCode, LocaleCopy> = {
       { title: 'যোগ্য বিষয় বিশেষজ্ঞ', body: 'শিক্ষকদের আপনার বোর্ড, যোগ্যতা এবং বিষয় অনুযায়ী মিলিয়ে দেওয়া হয়।' },
       { title: 'স্বচ্ছ মূল্য', body: 'নিচে আপনার অঞ্চলের সঠিক মাসিক ফি দেখুন — কোনো লুকানো খরচ নেই।' },
     ],
+    locationNote: 'সশরীরে ক্লাস কেবল পাকিস্তানে আমাদের একাডেমি থেকে পড়ানো হয়; অন্য সব জায়গায় আমরা সরাসরি অনলাইনে পড়াই।',
     pricingHeading: 'মূল্য',
     pricingNote: 'প্রতি বিষয়ে প্রতি মাসে, আপনার অঞ্চলের মুদ্রায় ফি দেখানো হয়েছে।',
     tableHeaders: { region: 'অঞ্চল', currency: 'মুদ্রা', igcse: 'IGCSE', aLevel: 'A Level' },

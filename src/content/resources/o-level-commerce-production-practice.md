@@ -1,5 +1,5 @@
 ---
-title: "Commerce and Production (O Level 7100): Practice Questions — Practice Questions"
+title: "Commerce and Production (O Level 7100): Practice Questions"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["o-levels"]

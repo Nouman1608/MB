@@ -7,7 +7,7 @@ shortDescription: "Reading, writing and mathematics preparation for the digital 
 description: "Reading, writing and mathematics preparation for the digital SAT."
 curriculum: "College Board"
 ageRange: "16–18"
-countryAvailability: ["PK"]
+countryAvailability: ["PK", "WW"]
 featured: false
 ---
 

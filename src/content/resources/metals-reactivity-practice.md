@@ -1,5 +1,5 @@
 ---
-title: "Metal Properties and Reactivity: Practice Questions — Practice Questions"
+title: "Metal Properties and Reactivity: Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

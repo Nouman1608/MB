@@ -1,5 +1,5 @@
 ---
-title: "Redox Reactions: Practice Questions — Practice Questions"
+title: "Redox Reactions: Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

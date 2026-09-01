@@ -1,5 +1,5 @@
 ---
-title: "Business Activity and Classification: Practice Questions — Practice Questions"
+title: "Business Activity and Classification: Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["o-levels"]

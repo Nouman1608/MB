@@ -29,6 +29,24 @@ const boardSlug = z.enum(['cambridge', 'edexcel', 'aqa', 'ocr', 'oxfordaqa', 'ib
 const qualificationSlug = z.enum(['igcse', 'o-level', 'gcse', 'as-level', 'a-level', 'ib-myp', 'ib-dp']);
 const level = z.enum(['igcse', 'o-levels', 'a-levels', 'gcse', 'ib', 'sat', 'ielts', 'foundation']);
 const country = z.enum(['PK', 'AE', 'SA', 'IN', 'GB', 'EU', 'WW']);
+/**
+ * `countryAvailability` was found (Flagship Dominance/Trust programme,
+ * 2026-08-31, D-094) hardcoded to `['PK']` on every one of the 8 program
+ * records and as this field's schema default -- contradicting the site's
+ * own delivery model (in-person teaching from the Pakistan academy, live
+ * online teaching for every other published, priced region -- see
+ * src/data/pricing.ts REGION_PRICING, and GlobalVision.astro/About). This
+ * field is currently unused by any rendered page or schema.org output
+ * (confirmed by search before this fix), so it was a latent, not a live,
+ * inconsistency -- but a structurally false fact left in canonical content
+ * data will surface a real bug the first time something is wired to it
+ * (a badge, a filter, a future areaServed claim). Corrected to `['PK',
+ * 'WW']` (Pakistan in person, worldwide online) using only the enum's
+ * existing values -- REGION_PRICING's SA/AE/QA/KW/BH/OM/GB/EU split does
+ * not map cleanly onto this enum's coarser AE/SA/GB/EU/IN/WW set, and
+ * adding new per-region codes here is a separate, larger schema decision
+ * this fix does not make.
+ */
 
 const programs = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/programs' }),
@@ -42,7 +60,7 @@ const programs = defineCollection({
     curriculum: z.string().optional(),
     subjects: z.array(reference('subjects')).default([]),
     marlbridgeTeaches,
-    countryAvailability: z.array(country).default(['PK']),
+    countryAvailability: z.array(country).default(['PK', 'WW']),
     featured: z.boolean().default(false),
     faqs: z.array(z.object({ question: z.string(), answer: z.string() })).default([]),
     relatedPrograms: z.array(reference('programs')).default([]),
@@ -137,6 +155,26 @@ const resources = defineCollection({
      * D-006 and src/pages/legal/editorial-policy.astro.
      */
     reviewStatus: z.enum(['draft', 'review-pending', 'reviewed', 'changes-requested', 'archived']).default('review-pending'),
+    /**
+     * Flagship Dominance/Trust programme (2026-08-31) -- the owner has
+     * confirmed, as a blanket editorial fact covering the whole study-
+     * resources library, that every published study resource has been
+     * reviewed by a teacher. This is DELIBERATELY separate from
+     * `reviewStatus`/`reviewer`/`reviewedDate` above (the QIGT programme's
+     * stricter, per-resource, named-and-accountable reviewer system,
+     * enforced by scripts/validate-review-integrity.mjs) -- that system is
+     * unchanged and keeps gating the more specific "Reviewed by [Name]"
+     * byline and the schema.org `editor` claim, which still require a
+     * real, existing, isReviewer:true author record and must not be
+     * fabricated. This field instead backs the simple, universal,
+     * non-attributed public trust line "Reviewed by teachers" that the
+     * owner's confirmation covers, with no named reviewer or date implied
+     * or required. Defaults true because the confirmation is blanket; an
+     * individual resource can still be excluded by setting this to false
+     * explicitly if a genuine, specific exception is ever identified --
+     * see docs/decision-log.md D-092 and scripts/audit-review-coverage.mjs.
+     */
+    reviewedByTeachers: z.boolean().default(true),
     /**
      * QIGT programme -- when a genuine human review actually took place.
      * Distinct from publishedDate/updatedDate (authoring dates) and from

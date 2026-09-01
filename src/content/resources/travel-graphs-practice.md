@@ -1,5 +1,5 @@
 ---
-title: "Travel Graphs: Practice Questions — Practice Questions"
+title: "Travel Graphs: Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

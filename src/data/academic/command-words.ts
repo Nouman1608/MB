@@ -20,6 +20,32 @@
  * too, but they have not yet been sourced and verified for Marlbridge --
  * this is disclosed on the tool's own page rather than silently presenting
  * a Cambridge-only list as if it covered every board.
+ *
+ * Flagship Dominance/Trust programme (2026-08-31, D-097): investigated
+ * extending this to the other four boards, per the brief's explicit
+ * "board-aware, since meanings differ by board" request. Real finding,
+ * not an excuse: Cambridge is structurally unusual in publishing ONE
+ * generic, cross-subject glossary. AQA, OCR and OxfordAQA each instead
+ * publish command-word guidance PER SUBJECT (verified directly: AQA
+ * publishes separate PDFs/pages for GCSE Science, A-level Geography,
+ * Computer Science, PE, Design & Technology and more, each independently;
+ * OCR the same, e.g. its GCSE Geography command-words PDF; OxfordAQA the
+ * same, e.g. separate Psychology, Maths, English Language and Geography
+ * command-word PDFs). Pearson Edexcel appears not to publish a
+ * consolidated official glossary of any kind, generic or per-subject, at
+ * a stable public URL (only third-party/teaching-resource compilations
+ * were found). A single "AQA/OCR/OxfordAQA generic list" the way
+ * Cambridge's exists would therefore misrepresent how those boards
+ * actually define these words -- it would either have to pick one
+ * subject's list and present it as if it applied broadly (false), or
+ * blend several subjects' definitions into something none of those boards
+ * actually publishes (fabricated). Neither is done here. Properly
+ * cataloguing real, subject-scoped command-word glossaries across three
+ * boards and dozens of subjects each, individually source-verified, is a
+ * legitimately large research task -- correctly deferred rather than
+ * rushed, per the brief's own priority order (academic truth over feature
+ * completeness). This file/page's disclosure was updated to state the
+ * real, verified reason precisely instead of a generic "not yet added."
  */
 
 export interface CommandWord {

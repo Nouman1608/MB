@@ -1,5 +1,5 @@
 ---
-title: "Momentum: Practice Questions — Practice Questions"
+title: "Momentum: Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

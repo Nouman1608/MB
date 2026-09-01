@@ -1,5 +1,5 @@
 ---
-title: "The Basic Economic Problem: Practice Questions — Practice Questions"
+title: "The Basic Economic Problem: Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["igcse"]

@@ -1,5 +1,5 @@
 ---
-title: "Forces and Motion: Practice Questions — Practice Questions"
+title: "Forces and Motion: Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

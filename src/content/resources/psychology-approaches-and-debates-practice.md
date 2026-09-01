@@ -1,5 +1,5 @@
 ---
-title: "Approaches, Issues and Debates: Practice Questions — Practice Questions"
+title: "Approaches, Issues and Debates: Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]

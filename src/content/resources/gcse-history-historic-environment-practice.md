@@ -1,5 +1,5 @@
 ---
-title: "Historic Environment Study: Practice Questions — Practice Questions"
+title: "Historic Environment Study: Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["gcse"]

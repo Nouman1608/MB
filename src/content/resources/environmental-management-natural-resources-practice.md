@@ -1,5 +1,5 @@
 ---
-title: "Natural Resources: Practice Questions — Practice Questions"
+title: "Natural Resources: Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["igcse"]

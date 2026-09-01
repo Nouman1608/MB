@@ -37,7 +37,11 @@
  * matching question/answer count (Y, Post-v2.0 Quality Closure WS8), and a
  * rendered academic-label (Level/Board/Qualification data-pagefind-filter
  * tag) that no longer matches its page's own frontmatter (Z, Flagship
- * Dominance Programme WS-A).
+ * Dominance Programme WS-A), a resource page whose rendered "Reviewed
+ * by teachers" trust line has been corrupted or removed (AA, Flagship
+ * Dominance/Trust programme, D-092), and a form control whose id no longer
+ * matches its <label for=...> (AC, Flagship Dominance/Trust programme,
+ * D-099, accessibility audit).
  *
  * Categories proven elsewhere, not re-implemented here (see comments below
  * each skip): cross-board topic contamination (test-cross-board-regression.mjs,
@@ -509,6 +513,51 @@ if (!existsSync(labelFixtureFile)) {
   );
 }
 
+console.log('\n[AA] Flagship Dominance/Trust programme -- review-coverage audit');
+const trustFixtureFile = 'dist/resources/a-level-edexcel-law-the-law-in-action/index.html';
+if (!existsSync(trustFixtureFile)) {
+  console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');
+  console.log('    have completed first (same precondition as [H]/[P]/[Z]); it is exercised for real as part');
+  console.log('    of the standing validation gate, which always builds before running this suite.');
+} else {
+  withMutation(
+    trustFixtureFile,
+    (text) => text.replace('Reviewed by teachers', 'Review status unknown'),
+    {
+      validatorCmd: 'node scripts/audit-review-coverage.mjs',
+      expectSubstring: 'does not render the visible "Reviewed by teachers" trust line',
+      label: 'A resource page with its rendered teacher-review trust line corrupted is rejected',
+    },
+  );
+}
+
+console.log('\n[AB] Flagship Dominance/Trust programme -- internal-links audit correctly parses hrefs with a query string');
+const queryLinkFixtureFile = 'dist/resources/a-level-edexcel-law-the-law-in-action/index.html';
+if (!existsSync(queryLinkFixtureFile)) {
+  console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');
+  console.log('    have completed first (same precondition as [H]/[P]/[Z]/[AA]); it is exercised for real as');
+  console.log('    part of the standing validation gate, which always builds before running this suite.');
+} else {
+  // D-095: scripts/audit-internal-links.mjs's anchor regex previously required
+  // an href to end exactly at the closing quote, so ANY href carrying a query
+  // string (like this page's "Report a correction" link,
+  // /report-a-correction/?page=...) silently failed to match at all -- not
+  // checked for brokenness, not counted as an inbound link. Fixed by parsing
+  // the full href and stripping ?/# only for path-matching. This fixture
+  // proves the fix actually works: corrupting the PATH portion of a
+  // query-bearing href (while keeping the query string) must still be
+  // caught as a broken link, not silently ignored.
+  withMutation(
+    queryLinkFixtureFile,
+    (text) => text.replace('href="/report-a-correction/?page=', 'href="/report-a-correction-WRONG/?page='),
+    {
+      validatorCmd: 'node scripts/audit-internal-links.mjs',
+      expectSubstring: 'report-a-correction-WRONG',
+      label: 'A query-string-bearing internal link corrupted to a broken path is still caught as broken',
+    },
+  );
+}
+
 console.log('\n[P] i18n route checker rejects a broken hreflang/canonical on a built translated page');
 const i18nFixtureFile = 'dist/ar/about/index.html';
 if (!existsSync(i18nFixtureFile)) {
@@ -526,6 +575,33 @@ if (!existsSync(i18nFixtureFile)) {
       validatorCmd: 'node --experimental-strip-types scripts/test-i18n-routes.mjs',
       expectSubstring: 'expected self-referencing',
       label: '/ar/about/ with a corrupted canonical URL is rejected by test-i18n-routes.mjs',
+    },
+  );
+}
+
+console.log('\n[AC] Flagship Dominance/Trust programme (D-099) -- accessibility audit catches an unlabelled form control');
+const a11yFixtureFile = 'dist/command-words/index.html';
+if (!existsSync(a11yFixtureFile)) {
+  console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');
+  console.log('    have completed first (same precondition as [H]/[P]/[Z]/[AA]/[AB]); it is exercised for real');
+  console.log('    as part of the standing validation gate, which always builds before running this suite.');
+} else {
+  withMutation(
+    a11yFixtureFile,
+    // Break the explicit for/id association on the command-word search box
+    // by renaming the input's id only -- the <label for="mb-cw-search">
+    // stays pointing at an id that no longer exists on any control, and
+    // the input isn't wrapped in a <label> (it's a sibling, not a child),
+    // so the fixed wrapping-label detection correctly does NOT treat this
+    // as implicitly labelled either.
+    (text) => text.replace(
+      '<input id="mb-cw-search" type="search"',
+      '<input id="mb-cw-search-BROKEN" type="search"',
+    ),
+    {
+      validatorCmd: 'node scripts/audit-accessibility.mjs',
+      expectSubstring: 'has no matching <label for=',
+      label: 'A search input whose id no longer matches its <label for=...> is caught, not silently passed',
     },
   );
 }
