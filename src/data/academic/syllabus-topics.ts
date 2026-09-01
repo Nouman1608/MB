@@ -1497,7 +1497,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Subsidiary/Advanced Level Biology (XBI11/YBI11) specification PDF, Issue 2, February 2021',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Biology/2018/Specification-and-Sample-Assessment/International-A-Level-Biology-Spec.pdf', verifiedDate: '2026-08-19',
-    notes: "Pearson Edexcel International Advanced Subsidiary in Biology (XBI11) and International Advanced Level in Biology (YBI11), first teaching September 2018. Modular: Units 1-2 (IAS, examined as Unit 1 Molecules, Diet, Transport and Health; Unit 2 Cells, Development, Biodiversity and Conservation) plus Unit 3 (Practical Skills in Biology I); Units 4-5 (IA2, examined as Unit 4 Energy, Environment, Microbiology and Immunity; Unit 5 Respiration, Internal Environment, Coordination and Gene Technology) plus Unit 6 (Practical Skills in Biology II). The eight topics below are the specification's own numbered Topics 1-8, each mapped to its exam unit; Units 3 and 6 are practical-skills-only papers with no separate numbered topic of their own. Each topic's content is a flat sequence of individually numbered outcomes without named sub-headings, so sub-topics are recorded as an empty array rather than inventing groupings the specification does not itself provide.",
+    notes: "Pearson Edexcel International Advanced Subsidiary in Biology (XBI11) and International Advanced Level in Biology (YBI11), first teaching September 2018. Modular: Units 1-2 (IAS, examined as Unit 1 Molecules, Diet, Transport and Health; Unit 2 Cells, Development, Biodiversity and Conservation) plus Unit 3 (Practical Skills in Biology I); Units 4-5 (IA2, examined as Unit 4 Energy, Environment, Microbiology and Immunity; Unit 5 Respiration, Internal Environment, Coordination and Gene Technology) plus Unit 6 (Practical Skills in Biology II). The eight topics below are the specification's own numbered Topics 1-8, each mapped to its exam unit; Units 3 and 6 are practical-skills-only papers with no separate numbered topic of their own. Each topic's content is a flat sequence of individually numbered outcomes without named sub-headings, so sub-topics are recorded as an empty array rather than inventing groupings the specification does not itself provide. Topic 2's outcomes 2.1-2.5 (gas exchange surfaces, cell membrane structure, osmosis, and membrane transport mechanisms) verified directly against the full specification PDF, fetched 2026-09-02.",
     topics: [
       { number: 1, name: 'Molecules, Transport and Health', slug: 'molecules-transport-and-health-edexcel-alevel-biology', subtopics: [] },
       { number: 2, name: 'Membranes, Proteins, DNA and Gene Expression', slug: 'membranes-proteins-dna-and-gene-expression-edexcel-alevel-biology', subtopics: [] },
@@ -1517,14 +1517,18 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: true,
     source: 'AQA -- official GCSE Biology (8461) specification, live subject-content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/biology/gcse/biology-8461/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
-    notes: "AQA GCSE Biology (8461), first teaching September 2016. Linear qualification, tiered: Foundation and Higher tier, two written papers (Paper 1: topics 1-4; Paper 2: topics 5-7), each also drawing on Key ideas and Working scientifically. Eight topic/section names reproduced directly from the live AQA specification-at-a-glance page. Topic 1 (Cell biology) subtopics reproduce the specification PDF's own 4.1.1-4.1.3 sub-headings, fetched and verified 2026-08-21; topics 2-8 remain name-only pending the same fetch for their content.",
+    notes: "AQA GCSE Biology (8461), first teaching September 2016. Linear qualification, tiered: Foundation and Higher tier, two written papers (Paper 1: topics 1-4; Paper 2: topics 5-7), each also drawing on Key ideas and Working scientifically. Eight topic/section names reproduced directly from the live AQA specification-at-a-glance page. Topic 1 (Cell biology) subtopics reproduce the specification PDF's own 4.1.1-4.1.3 sub-headings, fetched and verified 2026-08-21. Topic 2 (Organisation) sub-topics 4.2.1, 4.2.2.1 and 4.2.2.2 reproduced the same way from the live specification PDF (filestore.aqa.org.uk/resources/biology/specifications/AQA-8461-SP-2016.PDF), fetched and verified 2026-09-02; topics 3-8 remain name-only pending the same fetch for their content.",
     topics: [
       { number: 1, name: 'Cell biology', slug: 'cell-biology-aqa-gcse-biology', subtopics: [
         { number: '4.1.1', name: 'Cell structure', slug: 'cell-structure-aqa-gcse-biology' },
         { number: '4.1.2', name: 'Cell division', slug: 'cell-division-aqa-gcse-biology' },
         { number: '4.1.3', name: 'Transport in cells', slug: 'transport-in-cells-aqa-gcse-biology' },
       ] },
-      { number: 2, name: 'Organisation', slug: 'organisation-aqa-gcse-biology', subtopics: [] },
+      { number: 2, name: 'Organisation', slug: 'organisation-aqa-gcse-biology', subtopics: [
+        { number: '4.2.1', name: 'Principles of organisation', slug: 'principles-of-organisation-aqa-gcse-biology' },
+        { number: '4.2.2.1', name: 'The human digestive system', slug: 'the-human-digestive-system-aqa-gcse-biology' },
+        { number: '4.2.2.2', name: 'The heart and blood vessels', slug: 'the-heart-and-blood-vessels-aqa-gcse-biology' },
+      ] },
       { number: 3, name: 'Infection and response', slug: 'infection-and-response-aqa-gcse-biology', subtopics: [] },
       { number: 4, name: 'Bioenergetics', slug: 'bioenergetics-aqa-gcse-biology', subtopics: [] },
       { number: 5, name: 'Homeostasis and response', slug: 'homeostasis-and-response-aqa-gcse-biology', subtopics: [] },
@@ -1846,7 +1850,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official GCSE Business (8132) specification, subject content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'AQA GCSE Business (8132), for first teaching from September 2017, linear qualification. Topic 1 (Business in the real world) subtopics reproduce the specification PDF\'s own 3.1.1-3.1.7 sub-headings, fetched and verified 2026-08-21; topics 2-6 remain name-only pending the same fetch for their content.',
+    notes: 'AQA GCSE Business (8132), for first teaching from September 2017, linear qualification. Topic 1 (Business in the real world) subtopics reproduce the specification PDF\'s own 3.1.1-3.1.7 sub-headings, fetched and verified 2026-08-21. Topic 2 (Influences on business) subtopics 3.2.1-3.2.5 reproduced the same way from the current AQA-hosted specification PDF (linked from the live aqa.org.uk subject-content page, cdn.sanity.io), fetched and verified 2026-09-02; topics 3-6 remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Business in the real world', slug: 'business-in-the-real-world-aqa-gcse-business', subtopics: [
         { number: '3.1.1', name: 'The purpose and nature of businesses', slug: 'purpose-and-nature-of-businesses-aqa-gcse-business' },
@@ -1857,7 +1861,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.6', name: 'Business planning', slug: 'business-planning-aqa-gcse-business' },
         { number: '3.1.7', name: 'Expanding a business', slug: 'expanding-a-business-aqa-gcse-business' },
       ] },
-      { number: 2, name: 'Influences on business', slug: 'influences-on-business-aqa-gcse-business', subtopics: [] },
+      { number: 2, name: 'Influences on business', slug: 'influences-on-business-aqa-gcse-business', subtopics: [
+        { number: '3.2.1', name: 'Technology', slug: 'technology-aqa-gcse-business' },
+        { number: '3.2.2', name: 'Ethical and environmental considerations', slug: 'ethical-and-environmental-considerations-aqa-gcse-business' },
+        { number: '3.2.3', name: 'The economic climate on businesses', slug: 'the-economic-climate-on-businesses-aqa-gcse-business' },
+        { number: '3.2.4', name: 'Globalisation', slug: 'globalisation-aqa-gcse-business' },
+        { number: '3.2.5', name: 'Legislation', slug: 'legislation-aqa-gcse-business' },
+      ] },
       { number: 3, name: 'Business operations', slug: 'business-operations-aqa-gcse-business', subtopics: [] },
       { number: 4, name: 'Human resources', slug: 'human-resources-aqa-gcse-business', subtopics: [] },
       { number: 5, name: 'Marketing', slug: 'marketing-aqa-gcse-business', subtopics: [] },
@@ -2150,7 +2160,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Subsidiary/Advanced Level Economics specification PDF (YEC11 / XEC11)',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf', verifiedDate: '2026-08-19',
-    notes: 'Pearson Edexcel International Advanced Subsidiary in Economics (XEC11: units WEC11, WEC12) makes up the first half of the International Advanced Level in Economics (YEC11: units WEC11-WEC14). Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19.',
+    notes: "Pearson Edexcel International Advanced Subsidiary in Economics (XEC11: units WEC11, WEC12) makes up the first half of the International Advanced Level in Economics (YEC11: units WEC11-WEC14). Full topic and sub-topic structure reproduced directly from the official specification PDF, fetched 2026-08-19. Sub-topic 2.1 (Measures of economic performance)'s detailed content (2.3.1 in the PDF's own numbering, covering Economic growth 1a-1i and Inflation 2a-2g+) verified directly against the same PDF, fetched 2026-09-02.",
     topics: [
       { number: 1, name: 'Markets in action', slug: 'markets-in-action-edexcel-alevel-economics', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Introductory concepts', slug: 'introductory-concepts-edexcel-alevel-economics' },
@@ -2231,7 +2241,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official GCSE Economics (8136) specification, subject content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/economics/gcse/economics-8136/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'AQA GCSE Economics (8136), for first teaching from September 2017. Topic 1 (How markets work) subtopics reproduce the specification PDF\'s own 3.1.1-3.1.6 sub-headings, fetched and verified 2026-08-21; topic 2 (How the economy works) remains name-only pending the same fetch for its content.',
+    notes: 'AQA GCSE Economics (8136), for first teaching from September 2017. Topic 1 (How markets work) subtopics reproduce the specification PDF\'s own 3.1.1-3.1.6 sub-headings, fetched and verified 2026-08-21. Topic 2 (How the economy works) sub-topic structure (3.2.1.1, 3.2.1.2, 3.2.2.1-onwards) reproduced the same way from the current AQA-hosted specification PDF (linked from the live aqa.org.uk subject-content page, cdn.sanity.io), fetched and verified 2026-09-02.',
     topics: [
       { number: 1, name: 'How markets work', slug: 'how-markets-work-aqa-gcse-economics', subtopics: [
         { number: '3.1.1', name: 'Economic foundations', slug: 'economic-foundations-aqa-gcse-economics' },
@@ -2241,7 +2251,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.5', name: 'Competitive and concentrated markets', slug: 'competitive-and-concentrated-markets-aqa-gcse-economics' },
         { number: '3.1.6', name: 'Market failure', slug: 'market-failure-aqa-gcse-economics' },
       ] },
-      { number: 2, name: 'How the economy works', slug: 'how-the-economy-works-aqa-gcse-economics', subtopics: [] },
+      { number: 2, name: 'How the economy works', slug: 'how-the-economy-works-aqa-gcse-economics', subtopics: [
+        { number: '3.2.1.1', name: 'Interest rates, saving, borrowing, spending and investment', slug: 'interest-rates-saving-borrowing-spending-investment-aqa-gcse-economics' },
+        { number: '3.2.1.2', name: 'Government income and expenditure', slug: 'government-income-and-expenditure-aqa-gcse-economics' },
+        { number: '3.2.2.1', name: 'Economic objectives of the government', slug: 'economic-objectives-of-the-government-aqa-gcse-economics' },
+      ] },
     ],
   },
 
@@ -3271,7 +3285,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification', verifiedDate: '2026-08-19',
-    notes: 'AS content is assessed via Paper 1 and Paper 2. A-level content adds Biopsychology and Issues and Debates plus one option from each of three groups, all assessed via Paper 3 alongside the AS content in Papers 1-2. AS (7181) and A-level share the first year of teaching. Paper 1 (1.1-1.3) content cross-checked against the full specification PDF (Version 1.4, 1 September 2025), fetched and verified 2026-08-21.',
+    notes: "AS content is assessed via Paper 1 and Paper 2. A-level content adds Biopsychology and Issues and Debates plus one option from each of three groups, all assessed via Paper 3 alongside the AS content in Papers 1-2. AS (7181) and A-level share the first year of teaching. Paper 1 (1.1-1.3) content cross-checked against the full specification PDF (Version 1.4, 1 September 2025), fetched and verified 2026-08-21. Sub-topic 1.2 (Memory)'s detailed content -- the multi-store model, types of long-term memory, the working memory model, explanations for forgetting, and eyewitness testimony -- verified directly against the same PDF, fetched 2026-09-02.",
     topics: [
       { number: 1, name: 'Paper 1 – Introductory Topics in Psychology', slug: 'paper-1-introductory-topics-7182', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Social Influence', slug: 'social-influence-7182' },
@@ -3417,9 +3431,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/sociology/a-level/sociology-7192/specification', verifiedDate: '2026-08-19',
-    notes: 'Three components: Education with Theory and Methods, Topics in Sociology (two options selected from two groups), and Crime and Deviance with Theory and Methods. Assessment uses short-answer and extended-essay questions, including a "methods in context" question. AS (7191) and A-level are co-teachable within the first year of study.',
+    notes: 'Three components: Education with Theory and Methods, Topics in Sociology (two options selected from two groups), and Crime and Deviance with Theory and Methods. Assessment uses short-answer and extended-essay questions, including a "methods in context" question. AS (7191) and A-level are co-teachable within the first year of study. Topic 1 (3.1.1 Education) content -- the four content bullets on role/functions, differential achievement, in-school relationships and processes, and educational policies -- verified directly against the current AQA-hosted specification PDF (linked from the live aqa.org.uk subject-content page, cdn.sanity.io), fetched and verified 2026-09-02.',
     topics: [
-      { number: 1, name: 'Paper 1 – Education with Theory and Methods', slug: 'paper-1-education-theory-methods-7192', subtopics: [] },
+      { number: 1, name: 'Paper 1 – Education with Theory and Methods', slug: 'paper-1-education-theory-methods-7192', subtopics: [
+        { number: '3.1.1', name: 'Education', slug: 'education-7192' },
+        { number: '3.1.2', name: 'Methods in Context', slug: 'methods-in-context-7192' },
+      ] },
       { number: 2, name: 'Paper 2 – Topics in Sociology', slug: 'paper-2-topics-in-sociology-7192', subtopics: [
         { number: '2.1', name: 'Option 1: Culture and Identity / Families and Households / Health / Work, Poverty and Welfare', slug: 'option-1-group-7192' },
         { number: '2.2', name: 'Option 2: Beliefs in Society / Global Development / The Media / Stratification and Differentiation', slug: 'option-2-group-7192' },
@@ -4025,7 +4042,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official A-level Law (7162) specification PDF',
     sourceUrl: 'https://www.aqa.org.uk/subjects/law/a-level/law-7162/specification/specification-at-a-glance', verifiedDate: '2026-08-21',
-    notes: "AQA A-level Law (7162), a UK domestic GCE A-level (co-teachable with AS-level Law 7161). Three sections, each 33.33% of the qualification. Section 3.1 covers named content strands (Nature of law, The rule of law, Law making, The legal system) without a further numbered sub-topic hierarchy in the official specification, so the strand names are reproduced verbatim as sub-topics rather than inventing numbering the specification does not itself use. Verified directly from the official specification PDF, fetched and verified 2026-08-21.",
+    notes: "AQA A-level Law (7162), a UK domestic GCE A-level (co-teachable with AS-level Law 7161). Three sections, each 33.33% of the qualification. Section 3.1 covers named content strands (Nature of law, The rule of law, Law making, The legal system) without a further numbered sub-topic hierarchy in the official specification, so the strand names are reproduced verbatim as sub-topics rather than inventing numbering the specification does not itself use. Verified directly from the official specification PDF, fetched and verified 2026-08-21. Section 3.2 (Criminal law) sub-topics reproduced the same way from the current AQA-hosted specification PDF (linked from the live aqa.org.uk subject-content page, cdn.sanity.io), fetched and verified 2026-09-02.",
     topics: [
       { number: 1, name: 'The nature of law and the English legal system', slug: 'the-nature-of-law-and-the-english-legal-system-7162', subtopics: [
         { number: '3.1.1', name: 'Nature of law', slug: 'nature-of-law-7162' },
@@ -4033,7 +4050,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.3', name: 'Law making', slug: 'law-making-7162' },
         { number: '3.1.4', name: 'The legal system', slug: 'the-legal-system-7162' },
       ] },
-      { number: 2, name: 'Criminal law', slug: 'criminal-law-7162', subtopics: [] },
+      { number: 2, name: 'Criminal law', slug: 'criminal-law-7162', subtopics: [
+        { number: '3.2.1', name: 'The rules of criminal law', slug: 'the-rules-of-criminal-law-7162' },
+        { number: '3.2.2', name: 'Theory in criminal law', slug: 'theory-in-criminal-law-7162' },
+        { number: '3.2.3', name: 'General elements of liability', slug: 'general-elements-of-liability-7162' },
+        { number: '3.2.4', name: 'Fatal offences against the person', slug: 'fatal-offences-against-the-person-7162' },
+        { number: '3.2.5', name: 'Non-fatal offences against the person', slug: 'non-fatal-offences-against-the-person-7162' },
+      ] },
       { number: 3, name: 'Tort', slug: 'tort-7162', subtopics: [] },
     ],
   },
@@ -4240,14 +4263,20 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: true,
     source: 'AQA — official GCSE Chemistry (8462) specification PDF',
     sourceUrl: 'https://www.aqa.org.uk/subjects/science/gcse/chemistry-8462/specification/specification-at-a-glance', verifiedDate: '2026-08-21',
-    notes: "AQA GCSE Chemistry (8462), for teaching from September 2016, co-teachable with AQA GCSE Combined Science: Trilogy/Synergy (content marked 'chemistry only' is unique to this separate-science qualification). Tiered Foundation/Higher. Eleven named topics verified in full from the specification PDF's contents list. Topic 4.1 (Atomic structure and the periodic table) sub-topic structure (4.1.1-4.1.3) reproduced directly from the official specification PDF's Subject content section, fetched and verified 2026-08-21. This is an AQA-only entry, tagged boardSlug 'aqa' and sourced entirely from aqa.org.uk -- not derived from or cross-checked against Cambridge's IGCSE/O-Level Chemistry taxonomy elsewhere in this file, per the documented Cambridge-topic-map-leak risk for GCSE/A-Level Chemistry pages (see scripts/test-cross-board-regression.mjs).",
+    notes: "AQA GCSE Chemistry (8462), for teaching from September 2016, co-teachable with AQA GCSE Combined Science: Trilogy/Synergy (content marked 'chemistry only' is unique to this separate-science qualification). Tiered Foundation/Higher. Eleven named topics verified in full from the specification PDF's contents list. Topic 4.1 (Atomic structure and the periodic table) sub-topic structure (4.1.1-4.1.3) reproduced directly from the official specification PDF's Subject content section, fetched and verified 2026-08-21. Topic 4.2's 4.2.1.1-4.2.1.5 sub-headings (Chemical bonds, ionic, covalent and metallic) reproduced the same way, fetched and verified 2026-09-02. This is an AQA-only entry, tagged boardSlug 'aqa' and sourced entirely from aqa.org.uk -- not derived from or cross-checked against Cambridge's IGCSE/O-Level Chemistry taxonomy elsewhere in this file, per the documented Cambridge-topic-map-leak risk for GCSE/A-Level Chemistry pages (see scripts/test-cross-board-regression.mjs).",
     topics: [
       { number: 1, name: 'Atomic structure and the periodic table', slug: 'atomic-structure-and-the-periodic-table-8462', subtopics: [
         { number: '4.1.1', name: 'Atomic structure', slug: 'atomic-structure-8462' },
         { number: '4.1.2', name: 'The periodic table', slug: 'the-periodic-table-8462' },
         { number: '4.1.3', name: 'Properties of transition metals (chemistry only)', slug: 'properties-of-transition-metals-8462' },
       ] },
-      { number: 2, name: 'Bonding, structure, and the properties of matter', slug: 'bonding-structure-and-the-properties-of-matter-8462', subtopics: [] },
+      { number: 2, name: 'Bonding, structure, and the properties of matter', slug: 'bonding-structure-and-the-properties-of-matter-8462', subtopics: [
+        { number: '4.2.1.1', name: 'Chemical bonds', slug: 'chemical-bonds-8462' },
+        { number: '4.2.1.2', name: 'Ionic bonding', slug: 'ionic-bonding-8462' },
+        { number: '4.2.1.3', name: 'Ionic compounds', slug: 'ionic-compounds-8462' },
+        { number: '4.2.1.4', name: 'Covalent bonding', slug: 'covalent-bonding-8462' },
+        { number: '4.2.1.5', name: 'Metallic bonding', slug: 'metallic-bonding-8462' },
+      ] },
       { number: 3, name: 'Quantitative chemistry', slug: 'quantitative-chemistry-8462', subtopics: [] },
       { number: 4, name: 'Chemical changes', slug: 'chemical-changes-8462', subtopics: [] },
       { number: 5, name: 'Energy changes', slug: 'energy-changes-8462', subtopics: [] },
@@ -4353,7 +4382,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Pearson Edexcel — official International Advanced Level Chemistry specification PDF',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Chemistry/2018/Specification-and-Sample-Assessment/International-A-Level-Chemistry-Spec.pdf', verifiedDate: '2026-08-21',
-    notes: "Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11 IAS / YCH11 IAL), first teaching September 2018, first assessment January 2019. Six externally-examined units: Units 1-3 form the International AS (XCH11); the full International A Level (YCH11) adds Units 4-6. Unit 1 (Structure, Bonding and Introduction to Organic Chemistry) content-area breakdown reproduced directly from the official specification PDF's Content overview section, fetched and verified 2026-08-21. Named content areas for Units 2-6 are not yet entered. This is an Edexcel-only entry, tagged boardSlug 'edexcel' and sourced entirely from qualifications.pearson.com -- not derived from or cross-checked against Cambridge's A-Level Chemistry (9701) taxonomy elsewhere in this file, per the documented Cambridge-topic-map-leak risk for GCSE/A-Level Chemistry pages (see scripts/test-cross-board-regression.mjs).",
+    notes: "Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11 IAS / YCH11 IAL), first teaching September 2018, first assessment January 2019. Six externally-examined units: Units 1-3 form the International AS (XCH11); the full International A Level (YCH11) adds Units 4-6. Unit 1 (Structure, Bonding and Introduction to Organic Chemistry) content-area breakdown reproduced directly from the official specification PDF's Content overview section, fetched and verified 2026-08-21. Sub-topic 1.2 (Atomic Structure and the Periodic Table)'s own numbered outcomes 2.1-2.18 (the specification labels this Topic 2 internally) verified directly against the full specification PDF, fetched 2026-09-02. Named content areas for Units 2-6 are not yet entered. This is an Edexcel-only entry, tagged boardSlug 'edexcel' and sourced entirely from qualifications.pearson.com -- not derived from or cross-checked against Cambridge's A-Level Chemistry (9701) taxonomy elsewhere in this file, per the documented Cambridge-topic-map-leak risk for GCSE/A-Level Chemistry pages (see scripts/test-cross-board-regression.mjs).",
     topics: [
       { number: 1, name: 'Unit 1 – Structure, Bonding and Introduction to Organic Chemistry', slug: 'unit-1-structure-bonding-organic-chemistry-ych11', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Formulae, Equations and Amount of Substance', slug: 'formulae-equations-and-amount-of-substance-ych11' },
