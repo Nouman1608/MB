@@ -56,6 +56,12 @@ const clientQuestions = buildClientQuestions(spec);
 const dataUrl = `/practice-data/${spec.code}.json?v=${dataHashFor(clientQuestions)}`;
 
 const storageKey = `mb-practice-${spec.code}`;
+const analyticsContext = {
+  specCode: spec.code,
+  board: spec.combination.board,
+  qualification: spec.combination.qualification,
+  subject: spec.combination.subject,
+};
 ---
 <PageLayout
   title={`${subjectTitle} — Free Practice Questions`}
@@ -149,7 +155,7 @@ const storageKey = `mb-practice-${spec.code}`;
           <p class="m-0 mt-6 text-[13px] text-ink-mute">A simple, deterministic check based on the questions you were just given, spread across the syllabus topics this bank covers — not a validated diagnostic assessment, and not a prediction of exam performance.</p>
           <div class="mt-5 flex flex-wrap items-center gap-3">
             <a href={hubPath} class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">Review the syllabus hub</a>
-            <a href="/tutoring/" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Get teacher support</a>
+            <a href="/tutoring/" id="mb-practice-teacher-support" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Get teacher support</a>
             <button type="button" id="mb-practice-diag-restart" class="ml-auto rounded-sm px-5 py-2.5 text-[14px] font-medium text-gold-600 transition-colors hover:text-gold-700">Back to standard practice</button>
           </div>
         </div>
@@ -196,7 +202,7 @@ const storageKey = `mb-practice-${spec.code}`;
     </Container>
   </Section>
 
-  <script is:inline define:vars={{ storageKey, hubPath: hubPath, dataUrl }}>
+  <script is:inline define:vars={{ storageKey, hubPath: hubPath, dataUrl, analyticsContext }}>
     (function () {
       const app = document.getElementById('mb-practice-app');
       if (!app) return;
@@ -235,7 +241,24 @@ const storageKey = `mb-practice-${spec.code}`;
         diagStrengths: document.getElementById('mb-practice-diag-strengths'),
         diagWeak: document.getElementById('mb-practice-diag-weak'),
         diagRestart: document.getElementById('mb-practice-diag-restart'),
+        teacherSupport: document.getElementById('mb-practice-teacher-support'),
       };
+
+      /**
+       * Search Intelligence Execution Round -- thin, safe wrapper around the
+       * shared window.mbTrack helper (defined in ConsentAnalytics.astro).
+       * Never throws if mbTrack/gtag aren't ready (consent not yet granted,
+       * or the analytics script hasn't loaded for any reason) -- practice
+       * functionality itself must never depend on or be blocked by
+       * analytics succeeding.
+       */
+      function track(name, params) {
+        try {
+          if (typeof window.mbTrack === 'function') {
+            window.mbTrack(name, Object.assign({}, analyticsContext, params || {}));
+          }
+        } catch (e) {}
+      }
 
       function loadState() {
         try {
@@ -271,6 +294,8 @@ const storageKey = `mb-practice-${spec.code}`;
       let timerInterval = null;
       let mode = 'standard';
       let diagnosticActive = false;
+      let diagnosticStartTs = null;
+      let lastDiagnosticScorePercent = null;
       /** @type {Record<string, boolean>} this diagnostic run's own answers, kept separate from `state` so results reflect exactly this run regardless of earlier history */
       let diagnosticRun = {};
 
@@ -429,6 +454,9 @@ const storageKey = `mb-practice-${spec.code}`;
           badge.href = hubPath + '#topics-heading';
           badge.className = 'shrink-0 rounded-sm bg-white px-2.5 py-1 text-[12px] font-medium text-gold-600 underline decoration-gold-500 underline-offset-2 hover:text-gold-700';
           badge.textContent = info.count + ' wrong · study this topic';
+          badge.addEventListener('click', () => {
+            track('weak_topic_click', { topic: info.label, wrong_count: info.count });
+          });
           li.appendChild(label);
           li.appendChild(badge);
           els.weakList.appendChild(li);
@@ -451,6 +479,7 @@ const storageKey = `mb-practice-${spec.code}`;
           const plain = q.qHtml.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
           btn.textContent = plain.length > 140 ? plain.slice(0, 140) + '…' : plain;
           btn.addEventListener('click', () => {
+            track('retry', { topic: q.topics[0] ? q.topics[0].label : 'general', source: 'notebook' });
             const i = filtered.findIndex((f) => f.id === q.id);
             if (i >= 0) { index = i; render(); }
             else { filtered = questions.slice(); index = questions.findIndex((f) => f.id === q.id); render(); }
@@ -525,6 +554,7 @@ const storageKey = `mb-practice-${spec.code}`;
           btn.appendChild(textSpan);
           btn.appendChild(whenSpan);
           btn.addEventListener('click', () => {
+            track('retry', { topic: q.topics[0] ? q.topics[0].label : 'general', source: 'spaced_retry' });
             if (mode !== 'standard') { els.mode.value = 'standard'; applyMode(); }
             const i = filtered.findIndex((f) => f.id === q.id);
             if (i >= 0) { index = i; render(); }
@@ -562,10 +592,36 @@ const storageKey = `mb-practice-${spec.code}`;
       function showDiagnosticResults() {
         const ids = filtered.map((q) => q.id);
         const correctCount = ids.filter((id) => diagnosticRun[id]).length;
+        const scorePercent = Math.round((correctCount / ids.length) * 100);
         els.card.hidden = true;
         els.empty.hidden = true;
         els.diagWrap.hidden = false;
-        els.diagScore.textContent = correctCount + ' / ' + ids.length + ' correct (' + Math.round((correctCount / ids.length) * 100) + '%)';
+        els.diagScore.textContent = correctCount + ' / ' + ids.length + ' correct (' + scorePercent + '%)';
+
+        // Search Intelligence Execution Round -- quiz_complete. Diagnostic
+        // mode is the only mode with a real, defined end (see
+        // docs/growth/practice-analytics-events.md); duration_bucket comes
+        // from diagnosticStartTs, a quiz-level timer independent of the
+        // separate per-question "timed mode" checkbox, so it's populated
+        // on every diagnostic run.
+        (function () {
+          var durationBucket = null;
+          if (diagnosticStartTs) {
+            var elapsedMs = Date.now() - diagnosticStartTs;
+            var elapsedMin = elapsedMs / 60000;
+            durationBucket = elapsedMin < 2 ? '<2min' : elapsedMin < 5 ? '2-5min' : elapsedMin < 10 ? '5-10min' : '10min+';
+          }
+          var completeParams = {
+            total_questions: ids.length,
+            correct_count: correctCount,
+            incorrect_count: ids.length - correctCount,
+            score_percent: scorePercent,
+          };
+          if (durationBucket) completeParams.duration_bucket = durationBucket;
+          track('quiz_complete', completeParams);
+          lastDiagnosticScorePercent = scorePercent;
+        })();
+
         const byTopic = topicResultsFor(ids, diagnosticRun);
         const strengths = [...byTopic.values()].filter((t) => t.correct === t.total);
         const weak = [...byTopic.values()].filter((t) => t.correct < t.total);
@@ -598,6 +654,7 @@ const storageKey = `mb-practice-${spec.code}`;
         const n = Math.min(25, questions.length);
         filtered = buildBalancedSet(n);
         diagnosticActive = true;
+        diagnosticStartTs = Date.now();
         index = 0;
         render();
       }
@@ -643,9 +700,35 @@ const storageKey = `mb-practice-${spec.code}`;
       function markAttempt(correct) {
         const q = filtered[index];
         if (!q) return;
+        const priorAttempt = state.attempts[q.id];
+        const wasAlreadyWrong = !!(priorAttempt && priorAttempt.correct === false);
+        const topicLabel = q.topics[0] ? q.topics[0].label : 'general';
         state.attempts[q.id] = { correct: correct, ts: Date.now(), timedMode: !!els.timedToggle.checked };
         saveState(state);
         if (diagnosticActive) diagnosticRun[q.id] = correct;
+
+        // Search Intelligence Execution Round -- question_answered fires on
+        // every self-mark (Section 7's "every answer is an event" model,
+        // chosen given current real traffic volume -- see
+        // docs/growth/practice-analytics-events.md). question_correct /
+        // question_incorrect fire as a second, thin event per Section 5's
+        // explicit event-name list.
+        track('question_answered', {
+          question_id: q.id,
+          topic: topicLabel,
+          marks: q.marks,
+          practice_mode: mode,
+          timed_mode: !!els.timedToggle.checked,
+          is_correct: !!correct,
+        });
+        track(correct ? 'question_correct' : 'question_incorrect', { topic: topicLabel });
+        // Only a NEW entry into the wrong-set counts as error_notebook_add --
+        // re-marking an already-notebooked question wrong again is not a
+        // new addition, just noise duplicating question_answered.
+        if (!correct && !wasAlreadyWrong) {
+          track('error_notebook_add', { topic: topicLabel });
+        }
+
         updateSummary();
         updateWeakTopics();
         updateNotebook();
@@ -690,6 +773,14 @@ const storageKey = `mb-practice-${spec.code}`;
         els.mode.value = 'standard';
         applyMode();
       });
+      if (els.teacherSupport) {
+        els.teacherSupport.addEventListener('click', () => {
+          track('teacher_support_click', {
+            source: 'practice_diagnostic',
+            score_percent: lastDiagnosticScorePercent,
+          });
+        });
+      }
 
       /**
        * D-104 follow-up -- fetches the question bank from its own cacheable
@@ -715,6 +806,7 @@ const storageKey = `mb-practice-${spec.code}`;
         }
         allTopics = buildTopicsIndex();
         app.classList.remove('hidden');
+        track('practice_start', {});
         applyMode();
       }
       init();
