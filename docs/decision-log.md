@@ -5041,3 +5041,79 @@ intended, per the brief's own instruction not to rebuild correct work — the sa
 regional-page review.
 
 - **Status:** reviewed, no code changes.
+
+## D-101 — Section 44 (i18n review of new functionality in RTL locales): reviewed against the actual routing config, confirmed out of RTL scope, no changes needed
+
+**Date:** 2026-08-31
+
+Checked whether this programme's two new pieces of functionality — the corrections form
+(`/report-a-correction/`, `CorrectionForm.astro`, D-095) and the resource-page teacher-review
+trust block (`resources/[slug].astro`, D-092) — are reachable from, or need to render correctly
+under, the site's RTL locales (`ar`, `ur`).
+
+**Real finding, checked against the routing config itself, not assumed:** neither is in RTL scope,
+because neither page is part of the site's translated-route system. `src/i18n/routes.ts` names
+exactly 19 route templates that get `ar`/`ur`/`bn` variants (confirmed by the standing gate's own
+i18n check: "19 translated routes × 4 locales = 76 pages") — `resources` in that list is only the
+`/resources/` index hub (`src/pages/[locale]/resources/index.astro`), not individual resource
+detail pages. The trust block lives exclusively on `resources/[slug].astro`, which has no
+`[locale]` variant at all and is not one of the 19 keys. `/report-a-correction/` isn't in the list
+either. Grepped the translated resources index hub directly for both features' markers ("Reviewed
+by teachers", `reportCorrection`, `CorrectionForm`) — zero matches, confirming the hub doesn't
+surface either feature indirectly. The one link into the corrections form
+(`resources/[slug].astro`'s `correctionHref`) therefore only ever appears on an English-only page,
+so an Arabic- or Urdu-reading visitor browsing `/ar/...` or `/ur/...` never encounters it.
+
+**Defensive check anyway, since a future locale expansion could change this:** scanned both new
+components for hardcoded physical (non-logical) CSS that would silently break under `dir="rtl"`.
+The only physical-direction property found — `-left-[9999px]` on `CorrectionForm.astro`'s honeypot
+field — is an anti-spam off-screen-hider (`aria-hidden`, 1px×1px), not visible layout, so direction
+doesn't affect its function; and it's not a new pattern introduced here — `EnquiryForm.astro` (the
+form already live on `/contact/`, one of the 19 actually-translated, actually-RTL-rendered routes)
+uses the identical `-left-[9999px]` honeypot pattern already, so this is a pre-existing, already-
+proven-safe convention, not a new risk.
+
+No changes made — both features are genuinely outside RTL scope today, and nothing in either one
+would need fixing even if that changed. Reviewed and confirmed, not silently skipped.
+
+- **Status:** reviewed, no code changes.
+
+## D-102 — Section 45 (privacy audit of this programme's new data flows): real disclosure gap found and fixed — the corrections form was never mentioned in the privacy policy
+
+**Date:** 2026-08-31
+
+Reviewed whether this programme's new corrections form (`/report-a-correction/`, D-095, Phase 2)
+introduced any personal-data collection that `/legal/privacy/` doesn't disclose.
+
+**Real, concrete gap found.** The corrections form uses the exact same Cloudflare Function
+(`functions/api/enquiry.ts`) and Resend delivery pipeline as the existing tuition-enquiry contact
+form, but with a genuinely different field set (`functions/_lib/enquiry-validation.ts`,
+`FIELDS_BY_KIND.correction`): `pageUrl`, `issueType` (a fixed list) and `description` are required,
+`email` is optional -- deliberately no `name`, `phone` or `country`, since a correction report
+isn't a tuition enquiry. `/legal/privacy/`'s "What we collect" section, however, only ever
+described "our contact form" and listed the tuition-enquiry field set (name, email, phone,
+country, message) -- it never mentioned that a second, narrower data-collection surface existed at
+all. A visitor reading the privacy policy before using the corrections form would have had no
+accurate picture of what that specific form collects. The "Analytics" section's Turnstile sentence
+had the same narrower framing ("The enquiry form also uses...") even though Turnstile gates both
+forms at the shared endpoint.
+
+**Fixed.** Added a new paragraph to `/legal/privacy/`'s "What we collect" section describing
+exactly what the corrections form collects and doesn't, linked to the form itself; generalized the
+Turnstile sentence to name both forms explicitly. Propagated the same addition to all three
+translated privacy pages (`src/i18n/pages/legal.ts`, `ar`/`ur`/`bn`) as a new section each, keeping
+them in sync with the English original rather than letting them silently drift out of date --
+matching this repo's existing disclosed "AI-assisted, pending native-speaker/legal review; English
+is the governing version" convention already stated for all translated legal content (D-045/D-051/
+D-052), not a new, unreviewed claim of its own.
+
+**Scope check, not just the diff:** confirmed no other new data flow exists from this programme --
+the accessibility audit (D-099) and brand-separation review (D-100) added no forms or storage; the
+corrections form itself stores nothing server-side (no KV/D1 write), only forwards via the existing
+Resend integration already covered by "How we use it" / "How long we keep it" in general terms.
+
+- **Status:** implemented and verified. Full gate clean: build (1275 pages), `validate:academic`,
+  `audit:all` (9 checks, 0 problems -- including 0 broken links to the new `/report-a-correction/`
+  privacy-page link), negative-fixture suite (31/31), `astro check` (0 errors), `npm audit` (0
+  vulnerabilities), enquiry-function unit tests (31/31). Confirmed by direct dist inspection that
+  the new section renders correctly on all four built privacy pages (en/ar/ur/bn).
