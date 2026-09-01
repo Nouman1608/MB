@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:56:18.381Z",
+  "generatedAt": "2026-09-01T10:00:51.621Z",
   "rowCount": 160,
   "rows": [
     {
@@ -2521,7 +2521,7 @@
       "assessmentSourceUrl": "https://www.cambridgeinternational.org/Images/649636-2024-2026-syllabus.pdf",
       "assessmentVerifiedOn": "2026-08-27",
       "assessmentLifecycleStatus": "current",
-      "studyGuideCount": 1,
+      "studyGuideCount": 2,
       "revisionNoteCount": 1,
       "pastPaperCount": 0,
       "practiceQuestionCount": 1,
@@ -2532,14 +2532,14 @@
       "flashcardCount": 0,
       "videoCount": 0,
       "diagnosticCount": 0,
-      "totalResourceCount": 3,
+      "totalResourceCount": 4,
       "namedAuthor": "Marlbridge Academic Team (organisation byline — see v1.2 WS7)",
       "namedReviewer": "NO_DATA",
-      "lastReview": "2026-08-22",
+      "lastReview": "2026-09-01",
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 2188,
+      "totalQualifyingWordCount": 3299,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
