@@ -101,3 +101,38 @@ demand report both remain `IMPLEMENTED_AWAITING_DATA` until that exists — the
 Coverage export and the Performance export are two different GSC reports and
 this session received only the former. See "Owner follow-up data" above for
 exactly what to export next.
+
+## Update, 2 Sep 2026: real Performance data ingested
+
+The owner supplied a real Search Console Performance export
+(`marlbridge.com-Performance-on-Search-2026-09-02.zip`, containing
+`Queries.csv` + `Pages.csv`). `npm run growth:gsc` was run against it and is
+no longer `IMPLEMENTED_AWAITING_DATA` for the current 28-day window.
+
+The full report (real account data) is saved to
+`.growth-private/gsc-opportunity-report-2026-09-02.md`, which is gitignored
+and was not committed -- per this file's own instruction above, a report
+built from a real export does not belong in the public repository. What can
+be recorded here, in aggregate:
+
+- 1,000 queries classified: 1 `CTR_OPPORTUNITY`, 7 `EMERGING_DEMAND`,
+  992 `LOW_PRIORITY`. No `HIGH`-priority query opportunities in this window.
+- Flagship-code query demand (0620/0625/0580/9701/9702) is minimal in this
+  window: a single matching query, 2 impressions, position ~61 -- too sparse
+  to draw a conclusion from.
+- Page-level report: highest-impression pages are mostly at position 40-80
+  with near-0% CTR, consistent with a site still building initial ranking
+  authority rather than an on-page problem to fix.
+- `QUERY_PAGE_MISMATCH` / `CANNIBALIZATION` are still not populated -- this is
+  the pre-documented CSV-export limitation above (needs per-query GSC UI
+  filtering or API `dimensions: ['query','page']`), not something the new
+  data resolved.
+- No comparable prior-28-day export was supplied, so growth-rate / trend
+  scoring is not yet possible -- only a single-period snapshot.
+
+Given the low query/impression volumes and lack of a comparison period, this
+data does not yet support specific on-page changes -- see the priority order
+at the top of the programme brief: a decision not to change a page is valid
+when evidence doesn't support changing it. Re-running this report in 28 days
+against a fresh export (kept alongside this one) will start showing trend
+data.
