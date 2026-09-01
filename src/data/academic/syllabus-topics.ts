@@ -1531,7 +1531,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official AS and A-level Biology (7401/7402) specification, live subject-content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/biology/as-level/biology-7401/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA AS Biology (7401) and A-level Biology (7402), first teaching September 2015. Sections 3.1-3.4 are covered in the first year of the A-level and form the AS subject content; sections 3.5-3.8 are A-level only. Eight section names reproduced directly from the live AQA specification subject-content pages. Topic 1 (Biological molecules) subtopics reproduce the specification PDF's own 3.1.1-3.1.8 sub-headings, fetched and verified 2026-08-21; topics 2-8 remain name-only pending the same fetch for their content.",
+    notes: "AQA AS Biology (7401) and A-level Biology (7402), first teaching September 2015. Sections 3.1-3.4 are covered in the first year of the A-level and form the AS subject content; sections 3.5-3.8 are A-level only. Eight section names reproduced directly from the live AQA specification subject-content pages. Topic 1 (Biological molecules) subtopics reproduce the specification PDF's own 3.1.1-3.1.8 sub-headings, fetched and verified 2026-08-21. Topic 2 (Cells) sub-topic 3.2.1 Cell structure's own 3.2.1.1-3.2.1.3 sub-headings reproduced the same way, fetched and verified 2026-09-02 (from filestore.aqa.org.uk/resources/biology/specifications/AQA-7401-7402-SP-2015.PDF, the live specification PDF -- the previously-recorded sourceUrl pointed at a subject-content webpage rather than the PDF itself); topics 3-8 remain name-only pending the same fetch for their content.",
     topics: [
       { number: 1, name: 'Biological molecules', slug: 'biological-molecules-aqa-alevel-biology', stage: 'AS', subtopics: [
         { number: '3.1.1', name: 'Monomers and polymers', slug: 'monomers-and-polymers-aqa-alevel-biology' },
@@ -1543,7 +1543,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.7', name: 'Water', slug: 'water-aqa-alevel-biology' },
         { number: '3.1.8', name: 'Inorganic ions', slug: 'inorganic-ions-aqa-alevel-biology' },
       ] },
-      { number: 2, name: 'Cells', slug: 'cells-aqa-alevel-biology', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Cells', slug: 'cells-aqa-alevel-biology', stage: 'AS', subtopics: [
+        { number: '3.2.1.1', name: 'Structure of eukaryotic cells', slug: 'structure-of-eukaryotic-cells-aqa-alevel-biology' },
+        { number: '3.2.1.2', name: 'Structure of prokaryotic cells and of viruses', slug: 'structure-of-prokaryotic-cells-and-viruses-aqa-alevel-biology' },
+        { number: '3.2.1.3', name: 'Methods of studying cells', slug: 'methods-of-studying-cells-aqa-alevel-biology' },
+      ] },
       { number: 3, name: 'Organisms exchange substances with their environment', slug: 'organisms-exchange-substances-with-their-environment-aqa-alevel-biology', stage: 'AS', subtopics: [] },
       { number: 4, name: 'Genetic information, variation and relationships between organisms', slug: 'genetic-information-variation-and-relationships-between-organisms-aqa-alevel-biology', stage: 'AS', subtopics: [] },
       { number: 5, name: 'Energy transfers in and between organisms', slug: 'energy-transfers-in-and-between-organisms-aqa-alevel-biology', stage: 'A', subtopics: [] },
@@ -2231,7 +2235,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official A-level Economics (7136) specification, subject content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/economics/a-level/economics-7136/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'AQA A-level Economics (7136), for first teaching from September 2015. The specification\'s two subject-content sections (broadly microeconomics and macroeconomics) map to the PDF\'s own sections 3.1 and 3.2. Topic 1 (Individuals, firms, markets and market failure = PDF section 3.1, The operation of markets and market failure) subtopics reproduce the PDF\'s own 3.1.1-3.1.5 sub-headings, fetched and verified 2026-08-21; topic 2 remains name-only pending the same fetch for its content.',
+    notes: 'AQA A-level Economics (7136), for first teaching from September 2015. The specification\'s two subject-content sections (broadly microeconomics and macroeconomics) map to the PDF\'s own sections 3.1 and 3.2. Topic 1 (Individuals, firms, markets and market failure = PDF section 3.1, The operation of markets and market failure) subtopics reproduce the PDF\'s own 3.1.1-3.1.5 sub-headings, fetched and verified 2026-08-21. Topic 2\'s first sub-topic (3.2.1 The measurement of macroeconomic performance) reproduced the same way, fetched and verified 2026-09-02; the remainder of topic 2 (3.2.2 onwards) is name-only pending the same fetch.',
     topics: [
       { number: 1, name: 'Individuals, firms, markets and market failure', slug: 'individuals-firms-markets-and-market-failure-aqa-alevel-economics', subtopics: [
         { number: '3.1.1', name: 'Economic methodology and the economic problem', slug: 'economic-methodology-and-the-economic-problem-aqa-alevel-economics' },
@@ -2240,7 +2244,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '3.1.4', name: 'Competitive and concentrated markets', slug: 'competitive-and-concentrated-markets-aqa-alevel-economics' },
         { number: '3.1.5', name: 'The market mechanism, market failure and government intervention in markets', slug: 'market-mechanism-market-failure-and-government-intervention-aqa-alevel-economics' },
       ] },
-      { number: 2, name: 'The national and international economy', slug: 'the-national-and-international-economy-aqa-alevel-economics', subtopics: [] },
+      { number: 2, name: 'The national and international economy', slug: 'the-national-and-international-economy-aqa-alevel-economics', subtopics: [
+        { number: '3.2.1', name: 'The measurement of macroeconomic performance', slug: 'the-measurement-of-macroeconomic-performance-aqa-alevel-economics' },
+      ] },
     ],
   },
 
@@ -2439,7 +2445,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official subject content pages at aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content',
     sourceUrl: 'https://www.aqa.org.uk/subjects/accounting/a-level/accounting-7127/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'First teaching 2017. Honest-partial: all 18 named subject-content sections (3.1-3.18) verified in full and in order directly from AQA\'s live specification index. Topic 1 (An introduction to the role of the accountant in business) confirmed via the full specification PDF, fetched 2026-08-21, to be a genuine flat section of 3 content statements with no numbered sub-headings, so its subtopics correctly remain an empty array; topics 2-18 remain name-only pending the same fetch for their content.',
+    notes: 'First teaching 2017. Honest-partial: all 18 named subject-content sections (3.1-3.18) verified in full and in order directly from AQA\'s live specification index. Topic 1 (An introduction to the role of the accountant in business) and Topic 2 (Types of business organisation) confirmed via the full specification PDF, fetched 2026-08-21/2026-09-02, to be genuine flat sections (Topic 1: 3 content statements; Topic 2: business ownership types -- sole traders, partnerships, private and public limited companies -- plus sources of finance for each) with no numbered sub-headings, so their subtopics correctly remain empty arrays; topics 3-18 remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'An introduction to the role of the accountant in business', slug: 'an-introduction-to-the-role-of-the-accountant-in-business', subtopics: [] },
       { number: 2, name: 'Types of business organisation', slug: 'types-of-business-organisation', subtopics: [] },
@@ -2747,13 +2753,17 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official subject content pages at aqa.org.uk/subjects/computer-science/a-level/computer-science-7517/specification/subject-content',
     sourceUrl: 'https://www.aqa.org.uk/subjects/computer-science/a-level/computer-science-7517/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'First teaching 2015. Honest-partial: the 13 named subject-content sections (4.1-4.13) verified in full and in order directly from AQA\'s live specification index; the non-exam-assessment practical project (4.14) is a coursework component, not syllabus content, and is deliberately excluded. Topic 1 (Fundamentals of programming = PDF section 3.1) subtopics reproduce the PDF\'s own 3.1.1-3.1.2 sub-headings, fetched and verified 2026-08-21; topics 2-13 remain name-only pending the same fetch for their content.',
+    notes: 'First teaching 2015. Honest-partial: the 13 named subject-content sections (4.1-4.13) verified in full and in order directly from AQA\'s live specification index; the non-exam-assessment practical project (4.14) is a coursework component, not syllabus content, and is deliberately excluded. Topic 1 (Fundamentals of programming = PDF section 3.1) subtopics reproduce the PDF\'s own 3.1.1-3.1.2 sub-headings, fetched and verified 2026-08-21. Topic 2 (Fundamentals of data structures = PDF section 3.2) sub-topic 3.2.1\'s own 3.2.1.1-3.2.1.3 sub-headings reproduced the same way, fetched and verified 2026-09-02; topics 3-13 remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Fundamentals of programming', slug: 'fundamentals-of-programming', subtopics: [
         { number: '3.1.1', name: 'Programming', slug: 'programming-aqa-alevel-cs' },
         { number: '3.1.2', name: 'Procedural-oriented programming', slug: 'procedural-oriented-programming-aqa-alevel-cs' },
       ] },
-      { number: 2, name: 'Fundamentals of data structures', slug: 'fundamentals-of-data-structures', subtopics: [] },
+      { number: 2, name: 'Fundamentals of data structures', slug: 'fundamentals-of-data-structures', subtopics: [
+        { number: '3.2.1.1', name: 'Data structures', slug: 'data-structures-7517' },
+        { number: '3.2.1.2', name: 'Single- and multi-dimensional arrays (or equivalent)', slug: 'single-and-multi-dimensional-arrays-7517' },
+        { number: '3.2.1.3', name: 'Fields, records and files', slug: 'fields-records-and-files-7517' },
+      ] },
       { number: 3, name: 'Fundamentals of algorithms', slug: 'fundamentals-of-algorithms', subtopics: [] },
       { number: 4, name: 'Theory of computation', slug: 'theory-of-computation-7517', subtopics: [] },
       { number: 5, name: 'Fundamentals of data representation', slug: 'fundamentals-of-data-representation', subtopics: [] },
@@ -3675,10 +3685,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-geography-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'First teaching September 2018, first examined May/June 2020. Three components, no coursework.',
+    notes: 'First teaching September 2018, first examined May/June 2020. Three components, no coursework. Topic 2 (Challenges in the Human Environment) is organised into three examined sections (A: Urban Issues and Challenges; B: The Changing Economic World; C: Global Issues); Section A sub-topics (3.2.1.1-3.2.1.2) reproduced directly from the official specification PDF, fetched and verified 2026-09-02. Sections B and C sub-topics are not yet entered.',
     topics: [
       { number: 1, name: 'Living with the Physical Environment', slug: 'living-with-physical-environment-9230', subtopics: [] },
-      { number: 2, name: 'Challenges in the Human Environment', slug: 'challenges-human-environment-9230', subtopics: [] },
+      { number: 2, name: 'Challenges in the Human Environment', slug: 'challenges-human-environment-9230', subtopics: [
+        { number: '3.2.1.1', name: 'Urban growth and challenges (Section A)', slug: 'urban-growth-and-challenges-9230' },
+        { number: '3.2.1.2', name: 'World cities – London and New York (Section A)', slug: 'world-cities-london-new-york-9230' },
+      ] },
       { number: 3, name: 'Geographical and Fieldwork Skills', slug: 'geographical-fieldwork-skills-9230', subtopics: [] },
     ],
   },
@@ -3830,8 +3843,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA International Qualifications — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/04/G02558f-OxfordAQA-GCSE-Islamiat-spec-v1.1-WEB.pdf', verifiedDate: '2026-08-19',
-    notes: 'Paper 1 Living the Muslim Life and Paper 2 The Life of Hazrat Muhammad (pbuh) and Sources of Authority in Islam are each 1 hour 30 minutes, 50 marks, 50% of GCSE, with two sections of 25 marks each.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-international-gcse-islamiat-specification.pdf', verifiedDate: '2026-09-02',
+    notes: 'Paper 1 Living the Muslim Life and Paper 2 The Life of Hazrat Muhammad (pbuh) and Sources of Authority in Islam are each 1 hour 30 minutes, 50 marks, 50% of GCSE, with two sections of 25 marks each. Correction, 2026-09-02: the previously-recorded sourceUrl now 404s; re-located via the live qualification page (oxfordaqa.com/qualifications/international-gcse-islamiat/ -- note the board spells the subject \'Islamiat\' on its own site) and re-verified against the new URL, same content confirmed.',
     topics: [
       { number: 1, name: 'Paper 1 – Living the Muslim Life', slug: 'paper-1-living-muslim-life-9237', subtopics: [
         { number: '1.1', name: 'Islam: Beliefs and Teachings', slug: 'islam-beliefs-teachings-9237' },
@@ -4227,14 +4240,19 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official A-level Chemistry (7405) specification PDF',
     sourceUrl: 'https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/specification-at-a-glance', verifiedDate: '2026-08-21',
-    notes: "AQA A-level Chemistry (7405), for teaching from September 2015. Organised into three broad sections (3.1 Physical chemistry, 3.2 Inorganic chemistry, 3.3 Organic chemistry), each further divided into named numbered topics -- recorded here at that numbered-topic granularity (matching the convention used elsewhere in this file, e.g. Cambridge 9701's chapter-level numbering) rather than the three broad section headings. Sections 3.1.1-3.1.7, 3.2.1-3.2.3 and 3.3.1-3.3.6 are first-year/AS-shared content (tagged stage 'AS'); all topics marked '(A-level only)' in the specification are tagged stage 'A'. Topic 3.1.1 (Atomic structure) sub-topic structure (3.1.1.1-3.1.1.3) reproduced directly from the official specification PDF's Subject content section, fetched and verified 2026-08-21. This is an AQA-only entry, tagged boardSlug 'aqa' and sourced entirely from aqa.org.uk -- not derived from or cross-checked against Cambridge's A-Level Chemistry (9701) taxonomy elsewhere in this file, per the documented Cambridge-topic-map-leak risk for GCSE/A-Level Chemistry pages (see scripts/test-cross-board-regression.mjs).",
+    notes: "AQA A-level Chemistry (7405), for teaching from September 2015. Organised into three broad sections (3.1 Physical chemistry, 3.2 Inorganic chemistry, 3.3 Organic chemistry), each further divided into named numbered topics -- recorded here at that numbered-topic granularity (matching the convention used elsewhere in this file, e.g. Cambridge 9701's chapter-level numbering) rather than the three broad section headings. Sections 3.1.1-3.1.7, 3.2.1-3.2.3 and 3.3.1-3.3.6 are first-year/AS-shared content (tagged stage 'AS'); all topics marked '(A-level only)' in the specification are tagged stage 'A'. Topic 3.1.1 (Atomic structure) sub-topic structure (3.1.1.1-3.1.1.3) reproduced directly from the official specification PDF's Subject content section, fetched and verified 2026-08-21. Topic 3.1.2 (Amount of substance) sub-topic structure (3.1.2.1-3.1.2.4) reproduced the same way, fetched and verified 2026-09-02. This is an AQA-only entry, tagged boardSlug 'aqa' and sourced entirely from aqa.org.uk -- not derived from or cross-checked against Cambridge's A-Level Chemistry (9701) taxonomy elsewhere in this file, per the documented Cambridge-topic-map-leak risk for GCSE/A-Level Chemistry pages (see scripts/test-cross-board-regression.mjs).",
     topics: [
       { number: 1, name: 'Atomic structure', slug: 'atomic-structure-7405', stage: 'AS', subtopics: [
         { number: '3.1.1.1', name: 'Fundamental particles', slug: 'fundamental-particles-7405' },
         { number: '3.1.1.2', name: 'Mass number and isotopes', slug: 'mass-number-and-isotopes-7405' },
         { number: '3.1.1.3', name: 'Electron configuration', slug: 'electron-configuration-7405' },
       ] },
-      { number: 2, name: 'Amount of substance', slug: 'amount-of-substance-7405', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Amount of substance', slug: 'amount-of-substance-7405', stage: 'AS', subtopics: [
+        { number: '3.1.2.1', name: 'Relative atomic mass and relative molecular mass', slug: 'relative-atomic-mass-and-relative-molecular-mass-7405' },
+        { number: '3.1.2.2', name: 'The mole and the Avogadro constant', slug: 'the-mole-and-the-avogadro-constant-7405' },
+        { number: '3.1.2.3', name: 'The ideal gas equation', slug: 'the-ideal-gas-equation-7405' },
+        { number: '3.1.2.4', name: 'Empirical and molecular formula', slug: 'empirical-and-molecular-formula-7405' },
+      ] },
       { number: 3, name: 'Bonding', slug: 'bonding-7405', stage: 'AS', subtopics: [] },
       { number: 4, name: 'Energetics', slug: 'energetics-7405', stage: 'AS', subtopics: [] },
       { number: 5, name: 'Kinetics', slug: 'kinetics-7405', stage: 'AS', subtopics: [] },
