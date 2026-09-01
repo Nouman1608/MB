@@ -4570,3 +4570,44 @@ was not part of that decision and does not know their full reasoning.
 - **Status:** all 9 in-scope workstreams (WS2-WS10) implemented, validated, deployed, and
   independently verified live on production. Post-v2.0 Quality Closure is complete. WS1 remains
   explicitly out of scope, owned by its own session/PR.
+
+---
+
+## D-091 — D-008 follow-up resolved: IB commercial license confirmed, automation block lifted
+
+- **Date:** 2026-09-01
+- **Workstream:** `marlbridge-weekly-study-guides` scheduled task, in-session request
+- **Fact provided:** D-008 (2026-08-22) built full topic-level syllabus data
+  and study-guide resources for IB DP Economics and Physics on the strength
+  of the owner's chat confirmation that a formal IB license was in place or
+  in progress, and left its own "Follow-up required" open pending
+  finalization of that license. D-008 also drove the standing rule, written
+  directly into the `marlbridge-weekly-study-guides` scheduled task
+  instructions, that the automation must never write, expand or modify any
+  IB resource or taxonomy entry, keeping IB content owner-managed until the
+  license question was settled. In this session, the owner confirmed
+  directly in chat that the licensing situation is now resolved.
+- **Final decision:** Treat D-008's follow-up as closed on the same
+  evidence tier D-008 itself used (owner's direct chat confirmation, no
+  separate documentation reviewed). The scheduled task's IB exclusion is
+  lifted: `marlbridge-weekly-study-guides` may include IB combinations
+  (board `ib`, qualifications `ib-dp`/`ib-myp`) in its target selection
+  from its next run onward, subject to the same standards as every other
+  automated resource (official-source citation, duplicate-scope check,
+  900+ words, etc.) — this decision does not by itself authorize
+  expanding the 19 overview-depth subjects beyond subject-guide depth;
+  any move to full topic-level syllabus data for a subject beyond the two
+  D-008 already covers (Economics, Physics) should cite its own source
+  review, the same way D-008 did for those two.
+- **Implementation consequence:** The scheduled task definition for
+  `marlbridge-weekly-study-guides` is updated to remove the "IB IS OUT OF
+  SCOPE" instruction and the associated standing rule referencing D-008.
+  No code or content changes to `syllabus-topics.ts` or IB resources were
+  made in this session — this decision only removes the automation's
+  exclusion going forward.
+- **Follow-up required:** None from this session. As with D-008, no
+  corroborating license documentation was reviewed here; if that
+  documentation later contradicts the owner's confirmation, this decision
+  should be revisited and the automation exclusion restored.
+- **Status:** answered, implemented (scheduled task updated; see commit
+  history for the exact instruction diff).
