@@ -34,7 +34,9 @@
     "audit:all": "npm run audit:metadata && npm run audit:structured-data && npm run audit:redirects && npm run audit:internal-links && npm run audit:content-integrity && npm run audit:fonts && node scripts/test-sitemap-noindex.mjs && node --experimental-strip-types scripts/test-i18n-routes.mjs && npm run audit:rendered-labels && npm run audit:review-coverage && npm run audit:accessibility",
     "test:i18n-routes": "node --experimental-strip-types scripts/test-i18n-routes.mjs",
     "postbuild": "pagefind --site dist --output-subdir pagefind",
-    "growth:gsc": "node scripts/growth/gsc-opportunity-report.mjs"
+    "growth:gsc": "node scripts/growth/gsc-opportunity-report.mjs",
+    "growth:practice-report": "node scripts/growth/practice-analytics-report.mjs",
+    "test:practice-analytics": "node scripts/test-practice-analytics.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",
