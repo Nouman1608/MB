@@ -5,3 +5,9 @@ dist/
 # Generated review artefacts from the academic matrix (not published)
 academic-matrix.json
 academic-matrix.csv
+
+# Search Intelligence & Demand-Led Growth programme -- private analytics
+# exports and the reports generated from them. See docs/growth/README.md.
+# Never commit raw GSC/GA4 exports or the reports built from real account
+# data to this public repository.
+.growth-private/
