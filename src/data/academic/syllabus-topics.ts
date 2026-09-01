@@ -3666,14 +3666,16 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education -- official syllabus PDF, Version 1, published September 2023',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697282-2026-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge O Level Pakistan Studies (2059), syllabus for exams in 2026 only (Version 1, no significant changes affecting teaching). NOTE: a genuine restructuring is coming -- from June 2028 this becomes a 4-topic Paper 1 (candidates answer on 3 of 4), per the official 2028-2030 syllabus PDF at https://www.cambridgeinternational.org/Images/743607-2028-2030-syllabus.pdf (verified 2026-08-19). This entry intentionally represents only the CURRENT 2026 series -- the topic-index lookup in this codebase is keyed by board+subject+qualification only (not series), so only one entry per combination can be live at a time; update this entry (do not add a second one) when the 2028 series becomes current. Paper 1's syllabus content is divided into three sections, each built from several Key Questions; sections reproduced directly from the official syllabus PDF Section 6 Syllabus content, fetched 2026-08-21. Paper 2 (The Environment of Pakistan) not yet itemised.",
+    notes: "Cambridge O Level Pakistan Studies (2059), syllabus for exams in 2026 only (Version 1, no significant changes affecting teaching). NOTE: a genuine restructuring is coming -- from June 2028 this becomes a 4-topic Paper 1 (candidates answer on 3 of 4), per the official 2028-2030 syllabus PDF at https://www.cambridgeinternational.org/Images/743607-2028-2030-syllabus.pdf (verified 2026-08-19). This entry intentionally represents only the CURRENT 2026 series -- the topic-index lookup in this codebase is keyed by board+subject+qualification only (not series), so only one entry per combination can be live at a time; update this entry (do not add a second one) when the 2028 series becomes current. Paper 1's syllabus content is divided into three sections, each built from several Key Questions; sections reproduced directly from the official syllabus PDF Section 6 Syllabus content, fetched 2026-08-21. Paper 2 (The Environment of Pakistan) Section 1 (The land of Pakistan, sub-parts a-d: location, administrative areas and cities, natural topography, and climate) reproduced directly from the official syllabus PDF, fetched and verified 2026-09-01; the sibling IGCSE 0448 entry (paper-2-environment-0448) shows the full 8-section Paper 2 structure, but that has not been independently re-verified against 2059's own PDF this run, so only Section 1 is entered here as verified. Remaining Paper 2 sections not yet itemised for 2059.",
     topics: [
       { number: 1, name: 'Paper 1 – The History and Culture of Pakistan', slug: 'paper-1-history-culture-2059', subtopics: [
         { number: '1.1', name: 'Cultural and Historical Background to the Pakistan Movement', slug: 'cultural-historical-background-2059' },
         { number: '1.2', name: 'The Emergence of Pakistan, 1906–47', slug: 'emergence-of-pakistan-2059' },
         { number: '1.3', name: 'Nationhood, 1947–99', slug: 'nationhood-1947-99-2059' },
       ] },
-      { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-2059', subtopics: [] },
+      { number: 2, name: 'Paper 2 – The Environment of Pakistan', slug: 'paper-2-environment-2059', subtopics: [
+        { number: '2.1', name: 'The land of Pakistan', slug: 'the-land-of-pakistan-2059' },
+      ] },
     ],
   },
   {
@@ -3984,7 +3986,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/664483-2025-2026-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge O Level Environmental Management (5014) retains an older nine-topic structure (unlike its sibling IGCSE 0680, which moved to seven topics in its 2027-2029 series); the syllabus PDF states it shares content with IGCSE Environmental Management 0680 and that 0680-endorsed textbooks are suitable for use with this syllabus. Topic 1 (Rocks and minerals and their exploitation) sub-topic structure (1.1-1.5) reproduced directly from the official syllabus PDF's Subject content section, fetched and verified 2026-08-21. Named sub-topics for topics 2-9 are not yet entered.",
+    notes: "Cambridge O Level Environmental Management (5014) retains an older nine-topic structure (unlike its sibling IGCSE 0680, which moved to seven topics in its 2027-2029 series); the syllabus PDF states it shares content with IGCSE Environmental Management 0680 and that 0680-endorsed textbooks are suitable for use with this syllabus. Topic 1 (Rocks and minerals and their exploitation) sub-topic structure (1.1-1.5) and Topic 2 (Energy and the environment) sub-topic structure (2.1-2.6) reproduced directly from the official syllabus PDF's Subject content section, fetched and verified 2026-08-21 and 2026-09-01 respectively. Named sub-topics for topics 3-9 are not yet entered.",
     topics: [
       { number: 1, name: 'Rocks and minerals and their exploitation', slug: 'rocks-and-minerals-and-their-exploitation-5014', subtopics: [
         { number: '1.1', name: 'Formation of rocks', slug: 'formation-of-rocks-5014' },
@@ -3993,7 +3995,14 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.4', name: 'Managing the impact of rock and mineral extraction', slug: 'managing-the-impact-of-rock-and-mineral-extraction-5014' },
         { number: '1.5', name: 'Sustainable use of rocks and minerals', slug: 'sustainable-use-of-rocks-and-minerals-5014' },
       ] },
-      { number: 2, name: 'Energy and the environment', slug: 'energy-and-the-environment-5014', subtopics: [] },
+      { number: 2, name: 'Energy and the environment', slug: 'energy-and-the-environment-5014', subtopics: [
+        { number: '2.1', name: 'Fossil fuel formation', slug: 'fossil-fuel-formation-5014' },
+        { number: '2.2', name: 'Energy resources and the generation of electricity', slug: 'energy-resources-generation-electricity-5014' },
+        { number: '2.3', name: 'Energy demand', slug: 'energy-demand-5014' },
+        { number: '2.4', name: 'Conservation and management of energy resources', slug: 'conservation-management-energy-resources-5014' },
+        { number: '2.5', name: 'Impact of oil pollution', slug: 'impact-of-oil-pollution-5014' },
+        { number: '2.6', name: 'Management of oil pollution', slug: 'management-of-oil-pollution-5014' },
+      ] },
       { number: 3, name: 'Agriculture and the environment', slug: 'agriculture-and-the-environment-5014', subtopics: [] },
       { number: 4, name: 'Water and its management', slug: 'water-and-its-management-5014', subtopics: [] },
       { number: 5, name: 'Oceans and fisheries', slug: 'oceans-and-fisheries-5014', subtopics: [] },
@@ -4033,10 +4042,15 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/664481-2025-2027-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge O Level Statistics (4040), for examination 2025-2027. Twelve named topic areas verified in full from the Syllabus content at a glance list, closely mirroring sibling IGCSE Statistics 0479's topic structure with slightly different wording. Named sub-topics are not shown on that summary page and are not yet entered. Fetched and verified 2026-08-21.",
+    notes: "Cambridge O Level Statistics (4040), for examination 2025-2027. Twelve named topic areas verified in full from the Syllabus content at a glance list, closely mirroring sibling IGCSE Statistics 0479's topic structure with slightly different wording. Topic 2 (Summary representation of data) sub-topic structure (2.1-2.4) reproduced directly from the official syllabus PDF's Section 6 Syllabus content table, fetched and verified 2026-09-01. Named sub-topics for the remaining topics are not shown on the summary page and are not yet entered. Fetched and verified 2026-08-21.",
     topics: [
       { number: 1, name: 'Data and its collection', slug: 'data-and-its-collection-4040', subtopics: [] },
-      { number: 2, name: 'Summary representation of data', slug: 'summary-representation-of-data-4040', subtopics: [] },
+      { number: 2, name: 'Summary representation of data', slug: 'summary-representation-of-data-4040', subtopics: [
+        { number: '2.1', name: 'Classification and representation in tabular form', slug: 'classification-tabular-form-4040' },
+        { number: '2.2', name: 'Representation in pictorial or diagrammatic form', slug: 'representation-pictorial-diagrammatic-4040' },
+        { number: '2.3', name: 'The purpose and use of various forms of representation, their advantages and disadvantages', slug: 'purpose-use-representation-advantages-disadvantages-4040' },
+        { number: '2.4', name: 'Interpretation of data presented in tabular, pictorial or diagrammatic form', slug: 'interpretation-data-tabular-pictorial-diagrammatic-4040' },
+      ] },
       { number: 3, name: 'Formation of data into ungrouped or grouped frequency distributions', slug: 'formation-of-data-into-frequency-distributions-4040', subtopics: [] },
       { number: 4, name: 'Formation of frequency distributions into cumulative frequency distributions', slug: 'formation-of-cumulative-frequency-distributions-4040', subtopics: [] },
       { number: 5, name: 'Statistical measures, their interpretation and appropriate use', slug: 'statistical-measures-interpretation-and-use-4040', subtopics: [] },
@@ -4083,13 +4097,20 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/693604-2026-2028-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge O Level Commerce (7100), for examination 2026-2028, shares an identical six-topic structure with sibling IGCSE Commerce 0715. Topic 1 (Commerce and production) sub-topic structure (1.1-1.2) reproduced directly from the official syllabus PDF's Subject content section, fetched and verified 2026-08-21. Named sub-topics for topics 2-6 are not yet entered.",
+    notes: "Cambridge O Level Commerce (7100), for examination 2026-2028 (Version 2, published February 2026), shares an identical six-topic structure with sibling IGCSE Commerce 0715. Topic 1 (Commerce and production) sub-topic structure (1.1-1.2) and Topic 2 (Commercial operations) sub-topic structure (2.1-2.6) reproduced directly from the official syllabus PDF's Subject content section, fetched and verified 2026-08-21 and 2026-09-01 respectively. Named sub-topics for topics 3-6 are not yet entered.",
     topics: [
       { number: 1, name: 'Commerce and production', slug: 'commerce-and-production-7100', subtopics: [
         { number: '1.1', name: 'Trade and commerce', slug: 'trade-and-commerce-7100' },
         { number: '1.2', name: 'Production', slug: 'production-7100' },
       ] },
-      { number: 2, name: 'Commercial operations', slug: 'commercial-operations-7100', subtopics: [] },
+      { number: 2, name: 'Commercial operations', slug: 'commercial-operations-7100', subtopics: [
+        { number: '2.1', name: 'Commercial enterprises', slug: 'commercial-enterprises-7100' },
+        { number: '2.2', name: 'Outsourcing', slug: 'outsourcing-7100' },
+        { number: '2.3', name: 'Retailing', slug: 'retailing-7100' },
+        { number: '2.4', name: 'Wholesaling', slug: 'wholesaling-7100' },
+        { number: '2.5', name: 'Trading documents', slug: 'trading-documents-7100' },
+        { number: '2.6', name: 'Communication', slug: 'communication-7100-commerce' },
+      ] },
       { number: 3, name: 'Globalisation of trade', slug: 'globalisation-of-trade-7100', subtopics: [] },
       { number: 4, name: 'Logistics in commerce', slug: 'logistics-in-commerce-7100', subtopics: [] },
       { number: 5, name: 'Aids to trade that support commerce', slug: 'aids-to-trade-that-support-commerce-7100', subtopics: [] },
