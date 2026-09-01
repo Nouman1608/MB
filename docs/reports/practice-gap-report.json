@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:44:25.465Z",
+  "generatedAt": "2026-09-01T11:31:38.730Z",
   "reports": [
     {
       "code": "0620",
@@ -271,66 +271,11 @@
       "qualificationSlug": "a-level",
       "subjectSlug": "chemistry",
       "syllabusSeries": "2025-2027",
-      "totalQuestions": 254,
+      "totalQuestions": 278,
       "totalSubtopics": 90,
-      "coveredSubtopics": 84,
-      "coveragePct": 93,
-      "gaps": [
-        {
-          "topicNumber": 1,
-          "topicName": "Atomic structure",
-          "topicSlug": "as-atomic-structure",
-          "subtopicNumber": "1.1",
-          "subtopicName": "Particles in the atom and atomic radius",
-          "subtopicSlug": "as-particles-in-the-atom-and-atomic-radius",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 1,
-          "topicName": "Atomic structure",
-          "topicSlug": "as-atomic-structure",
-          "subtopicNumber": "1.2",
-          "subtopicName": "Isotopes",
-          "subtopicSlug": "as-isotopes",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 28,
-          "topicName": "Chemistry of transition elements",
-          "topicSlug": "a-chemistry-of-transition-elements",
-          "subtopicNumber": "28.3",
-          "subtopicName": "Colour of complexes",
-          "subtopicSlug": "a-colour-of-complexes",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 28,
-          "topicName": "Chemistry of transition elements",
-          "topicSlug": "a-chemistry-of-transition-elements",
-          "subtopicNumber": "28.4",
-          "subtopicName": "Stereoisomerism in transition element complexes",
-          "subtopicSlug": "a-stereoisomerism-in-transition-element-complexes",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 28,
-          "topicName": "Chemistry of transition elements",
-          "topicSlug": "a-chemistry-of-transition-elements",
-          "subtopicNumber": "28.5",
-          "subtopicName": "Stability constants, Kstab",
-          "subtopicSlug": "a-stability-constants-kstab",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 29,
-          "topicName": "An introduction to A Level organic chemistry",
-          "topicSlug": "a-an-introduction-to-a-level-organic-chemistry",
-          "subtopicNumber": "29.4",
-          "subtopicName": "Isomerism: optical",
-          "subtopicSlug": "a-isomerism",
-          "questionCount": 0
-        }
-      ],
+      "coveredSubtopics": 90,
+      "coveragePct": 100,
+      "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [],
       "topicOnlyTagged": []

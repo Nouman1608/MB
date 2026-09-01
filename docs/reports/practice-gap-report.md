@@ -1,10 +1,10 @@
 # Practice-question gap report
 
-Generated 2026-09-01T09:44:25.465Z. Section 13 scope: practice-question coverage gaps for the
+Generated 2026-09-01T11:31:38.730Z. Section 13 scope: practice-question coverage gaps for the
 five flagship specifications only -- see src/utils/practice/gap-report.ts for the full
 rationale and docs/decision-log.md D-108 for what this deliberately does not attempt.
 
-**19 zero-question subtopics, 0 thin (1-2 question) subtopics, across all 5 codes.**
+**13 zero-question subtopics, 0 thin (1-2 question) subtopics, across all 5 codes.**
 
 ## Cambridge IGCSE Chemistry (0620, 2026-2028)
 
@@ -81,16 +81,9 @@ measure a subtopic-level gap against yet.
 
 ## Cambridge A Level Chemistry (9701, 2025-2027)
 
-254 questions · 84/90 subtopics covered (93%)
+278 questions · 90/90 subtopics covered (100%)
 
-### Gaps — zero questions (6)
-
-- 1. Atomic structure — 1.1 Particles in the atom and atomic radius
-- 1. Atomic structure — 1.2 Isotopes
-- 28. Chemistry of transition elements — 28.3 Colour of complexes
-- 28. Chemistry of transition elements — 28.4 Stereoisomerism in transition element complexes
-- 28. Chemistry of transition elements — 28.5 Stability constants, Kstab
-- 29. An introduction to A Level organic chemistry — 29.4 Isomerism: optical
+No zero-question subtopics.
 
 ## Cambridge A Level Physics (9702, 2025-2027)
 

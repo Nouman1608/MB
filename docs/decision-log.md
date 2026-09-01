@@ -5559,3 +5559,76 @@ touches those validators), `astro check` (0 errors, 0 warnings, 14 hints, 200 fi
 (0 vulnerabilities), enquiry-function unit tests (31/31). Confirmed directly in the built output:
 `/admin/practice-gaps/index.html` renders `<meta name="robots" content="noindex, follow">`, and
 `/admin/` does not appear in `dist/sitemap-0.xml` or `dist/sitemap-index.xml`.
+
+## D-109 — Section 14 resumed, batch 1: three new practice-questions files closing all 6 real 9701 A Level Chemistry gaps
+
+D-108's dashboard measured 19 real zero-question subtopics across the five flagship specs: 13 in
+Cambridge IGCSE Chemistry (0620), 6 in Cambridge A Level Chemistry (9701). §14 (content-depth work
+beyond the routine weekly batch) was deliberately held at that point because the owner was writing
+content personally in parallel. The owner has now said to resume it.
+
+**What this batch is, and isn't:** the owner separately offered access to personal past-paper and
+study-resource folders for this work, and twice said the past-paper material specifically could be
+used "with full authorisation." That offer was investigated read-only under a narrower scope (cross-
+reference coverage only) before being interrupted; see the git history around this entry for that
+exploration. Independent of how that offer is eventually used, this programme does not reproduce
+exam-board past-paper text into site content under any assertion of permission from the owner --
+"permission to use for teaching" is not the same thing as "rights to republish exam-board copyrighted
+text on a commercial website," and that is not something verifiable from this sandbox regardless of
+what the owner authorizes. This holds even though the owner has full editorial authority over the
+site otherwise. This batch does not draw on the past-paper folders at all.
+
+**What it does draw on:** re-reading the 6 real 9701 gaps against the site's own existing content
+turned up something concrete -- three already-published, already-`reviewedByTeachers: true`
+`study-guides` resources cover exactly these 6 subtopics in full, but none of them has a companion
+`practice-questions` resource, which is the only reason the gap dashboard flagged them (it measures
+practice-question coverage specifically, per D-108's scope). The three original study-guides:
+
+- `as-atomic-structure-particles-radius-and-isotopes.md` -- subtopics `as-particles-in-the-atom-and-
+  atomic-radius`, `as-isotopes` (topic 1, AS)
+- `a-transition-elements-colour-stereoisomerism-and-stability-constants.md` -- subtopics
+  `a-colour-of-complexes`, `a-stereoisomerism-in-transition-element-complexes`,
+  `a-stability-constants-kstab` (topic 28, A)
+- `a-optical-isomerism-and-chirality.md` -- subtopic `a-isomerism` (topic 29, A)
+
+Each was read in full and used as the factual grounding for a new, original practice-questions file
+in the site's established format (short-answer + structured sections, full worked answers, "Where
+marks are usually lost" section, the same copyright disclaimer every other practice-questions file on
+the site already carries). No text from any past paper or from the study-guides themselves was
+copied -- new questions were written from scratch, checked against the study-guides only to confirm
+factual accuracy, plus my own general chemistry knowledge for numeric worked answers (e.g. the Kstab
+calculation below, computed and checked independently rather than taken from any source).
+
+**Files created:**
+- `src/content/resources/as-atomic-structure-particles-radius-and-isotopes-practice.md` -- 8 questions
+  (subatomic particle properties, electric-field deflection behaviour, Period 3 / Group 1 radius
+  trends, cation/anion radius reasoning, isotope notation, Cl₂ isotopologue masses).
+- `src/content/resources/a-transition-elements-colour-stereoisomerism-and-stability-constants-practice.md`
+  -- 8 questions (d-orbital splitting and colour including d⁰/d¹⁰ edge cases, octahedral vs.
+  tetrahedral splitting, cis/trans and optical isomerism in complexes, a full Kstab calculation:
+  Kstab = 1.7×10⁷ mol⁻²dm⁶, [complex] = 0.0400 mol dm⁻³, [NH₃] = 0.200 mol dm⁻³, so [NH₃]² = 0.0400 →
+  [Ag⁺] = 0.0400 / (1.7×10⁷ × 0.0400) = 5.9×10⁻⁸ mol dm⁻³, verified numerically before writing the
+  answer key).
+- `src/content/resources/a-optical-isomerism-and-chirality-practice.md` -- 8 questions (chiral-centre
+  identification, enantiomer properties, racemic mixtures, a lactic-acid worked example, an ibuprofen
+  drug-relevance structured question, and a but-1-ene → 2-bromobutane mechanism question explaining
+  why addition to a planar intermediate gives a racemic product by default).
+
+Each file's `syllabusTopics` frontmatter carries only the subtopics its own questions actually cover
+(learned from D-108's own `bank.ts` finding: topic tagging is file-level, applied identically to
+every question in the file, so a file must not claim a subtopic none of its questions address).
+`stage: "AS"` / `stage: "A"` set per D-0xx's existing 9701 AS/A split convention. `author:
+"nouman-ahmed"`, `reviewedByTeachers` left at its schema default of `true` per D-092.
+
+**Result:** re-running `report:practice-gaps` after these three files shows 9701 A Level Chemistry at
+100% subtopic coverage (0 gaps, down from 6), and total zero-question subtopics across all five
+flagship specs down from 19 to 13 -- all 13 remaining are in 0620 IGCSE Chemistry, not yet
+investigated for the same "existing study-guide, missing practice companion" pattern.
+
+**Status:** implemented and verified. Full gate clean: `validate:academic` (practice-bank validation
+-- 87 flagship-relevant files, 565 questions total, up from 541; practice-question schema validation
+-- 565/565 valid, no duplicate ids, no count drift, deterministic hash), `build` (Pagefind indexing
+completed normally), `report:practice-gaps` re-run and confirmed (13 gaps, 0 thin, 9701 at 100%),
+`audit:all` (9/9 checks, 0 problems), negative-fixture suite (32/32), `astro check` (0 errors, 0
+warnings, 14 hints, 200 files), `npm audit --omit=dev` (0 vulnerabilities), enquiry-function unit
+tests (31/31).
