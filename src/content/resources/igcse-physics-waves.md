@@ -112,6 +112,14 @@ a property you do know. For sound, the ultrasound calculations
 distance and time elsewhere in the course — treat depth = (speed ×
 time) / 2 as a standard method to rehearse, not a new idea.
 
+## Examiner report insight
+
+- Once the angle of incidence exceeds the critical angle, there is **no refracted ray at all** -- only total internal reflection occurs. A common misconception treats total internal reflection as if a (weaker) refracted ray still escapes.
+- A lens's principal focus needs **both** parts of its definition together: it is the point where rays travelling **parallel to the principal axis** converge, **after refraction** by the lens -- stating only one half (e.g. "where rays converge") is an incomplete definition.
+- In dispersion through a prism, blue light refracts **more** than red light -- this is why a prism produces a spectrum, and is worth remembering as a specific fact rather than "light disperses" in general terms.
+
+*Source: Cambridge International, 0625 Physics Principal Examiner Report, June 2024 series, Papers 11, 12, 13, 21, 23, 33, 41 (verified 2026-09-02).*
+
 ## Official syllabus
 
 Cambridge IGCSE Physics 0625 syllabus for 2026, 2027 and 2028 (Version

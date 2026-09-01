@@ -97,3 +97,11 @@ featured: false
 - Using the slant height instead of the perpendicular height in the volume formula for a cone (they are different lengths, related by Pythagoras).
 - Adding areas instead of subtracting when a compound shape has a piece removed, or the reverse.
 - Not rounding to 3 significant figures (or as instructed) only at the final answer, and rounding too early in a multi-step calculation.
+
+## Examiner report insight
+
+- For a **major** sector or arc, first find the correct (larger) angle by subtracting the given angle from 360 degrees -- applying the fraction-of-360 formula directly to the given (minor) angle answers the wrong region.
+- Mixing up the radius and the diameter partway through a multi-step compound-shape or composite-solid calculation -- write down which one the question actually gave before substituting.
+- Finding a linear scale factor from a **volume** ratio requires a **cube root**, not a square root -- the square root gives a linear scale factor from an *area* ratio instead.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 11, 13, 21 (verified 2026-09-02).*

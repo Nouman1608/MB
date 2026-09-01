@@ -111,6 +111,14 @@ mass 4.6 kg to 1 d.p.:   4.55 <= m < 4.65
 - Forgetting to re-normalise standard form after a calculation.
 - Rounding partway through and losing accuracy — round only at the end.
 
+## Examiner report insight
+
+- **Recurring decimals:** identify exactly which digits repeat before setting up the "10 to the n times x, minus x" method -- a misread repeating pattern (or treating the decimal as terminating) makes the rest of the method meaningless even if the algebra is correct.
+- **Standard form arithmetic:** when multiplying or dividing values already in standard form, the indices combine separately from the mantissa -- add indices when multiplying, subtract when dividing -- then renormalise the mantissa afterwards if it falls outside 1 <= a < 10.
+- **Rounding instructions:** if a question asks you to round each given value first, do that before calculating, not just to the final answer -- the two give different results.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 11, 12, 21, 23 (verified 2026-09-02).*
+
 ## Self-test
 
 1. Find the HCF and LCM of 24 and 36 using prime factors.

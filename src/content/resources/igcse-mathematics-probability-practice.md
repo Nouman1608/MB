@@ -79,3 +79,12 @@ featured: false
 - Adding two combined-event probabilities when they should be multiplied (independent/sequential events), or the reverse when combining two mutually exclusive outcomes.
 - Not simplifying a fraction at the end, or giving a probability greater than 1 or as a ratio instead of a fraction/decimal.
 - In conditional probability, dividing by the wrong total — P(B | A) means restricting attention to the cases where A has already happened, not the whole sample space.
+
+## Examiner report insight
+
+- On a Venn diagram, shading the intersection (A n B) by default is a common habit -- check what the question actually asked for before shading, since the intersection is only one of many possible regions.
+- Set-notation questions built from `n(...)` (a numerical count of elements) need the actual number of elements evaluated, not just a region shaded on a diagram -- practise both skills separately.
+- Elements that belong only to the universal set -- outside every named subset -- are still part of the total and are easy to forget when completing a Venn diagram.
+- The complement of a set (A') includes **everything** outside A, including any overlap with other sets -- a common error excludes the overlap by mistake.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 12, 13, 21, 22, 23, 31 (verified 2026-09-02).*

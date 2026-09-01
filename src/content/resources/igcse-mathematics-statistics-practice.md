@@ -108,3 +108,11 @@ featured: false
 - In a pie chart question, using the angle as if it were the answer itself, rather than converting the angle to a fraction of 360° first.
 - Describing correlation as "one causes the other" — correlation only describes a pattern in the data, not a cause-and-effect relationship.
 - On a histogram, plotting frequency directly on the y-axis instead of frequency density (frequency ÷ class width) — this only matters, and only makes histograms different from bar charts, when the class widths are unequal.
+
+## Examiner report insight
+
+- When reading a value (e.g. the median) from a stem-and-leaf diagram, record the **full** value -- stem and leaf together -- not just the leaf digit found in the middle row.
+- If a question adds a constant to every data value, update **both** the mode and the median by that constant, not just one of them (the range stays unchanged either way).
+- When reading an interquartile range from a cumulative frequency graph, record **both** quartile readings as working before subtracting -- giving only the final difference, with no readings shown, risks losing the method mark even with a correct final answer.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 12, 22, 23, 31 (verified 2026-09-02).*

@@ -81,3 +81,10 @@ featured: false
 - Subtracting vector components in the wrong order when finding a vector between two points (it is "end point minus start point").
 - Forgetting to square-root at the end when finding a vector's magnitude, or mixing up the magnitude formula with the midpoint formula.
 - In vector-geometry proofs, writing a route like OM as OA + AM without also converting AM into a and b terms — every step of a vector route must end up expressed only in the given vectors (here, a and b).
+
+## Examiner report insight
+
+- When three points are known to be collinear (on a straight line), the vector between two of them must simplify to a scalar multiple of a **single** given vector -- if both given vectors are still present in a "final" answer, that is a sign of an arithmetic slip earlier in the route.
+- Vector direction matters: the vector from M to N is the negative of the vector from N to M -- check carefully which one a question actually asks for, especially after working out a route in the opposite direction.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 21, 23 (verified 2026-09-02).*

@@ -87,3 +87,17 @@ To move the workstreams below from `IMPLEMENTED_AWAITING_DATA` to `COMPLETE`:
 
 None of these are required for this programme to keep moving — see
 `docs/programme-register.md` for what's already done without them.
+
+## Update, 2 Sep 2026: real Indexing/Coverage data ingested
+
+The owner supplied a real Search Console "Pages" (Coverage) export
+(`marlbridge.com-Coverage-2026-09-01.zip`) — the reason-by-reason indexing
+breakdown Section 12-17 needed is now real data, not `AWAITING_DATA`. See
+`docs/growth/indexing-audit-2026-09-02-real-data.md`.
+
+**Still not supplied**: a Performance export (`Queries.csv` + `Pages.csv` with
+clicks/impressions/CTR/position). `npm run growth:gsc` and the flagship
+demand report both remain `IMPLEMENTED_AWAITING_DATA` until that exists — the
+Coverage export and the Performance export are two different GSC reports and
+this session received only the former. See "Owner follow-up data" above for
+exactly what to export next.
