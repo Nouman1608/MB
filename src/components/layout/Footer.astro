@@ -47,10 +47,10 @@ const columns = [
     <div class="flex flex-wrap items-center justify-between gap-4 pt-6">
       <p class="m-0 text-[13.5px] text-on-navy-mute">© 2026 Marlbridge. All rights reserved.</p>
       <div class="flex flex-wrap items-center gap-4">
-        {/* D-081 -- makes Cloudflare Zaraz's own consent modal (Google
-            Analytics + Microsoft Clarity, per its own copy) reachable.
-            Previously orphaned: nothing on the site linked to it. Handled
-            by the delegated listener in ConsentAnalytics.astro. */}
+        {/* D-081, retained after Zaraz removal in D-091 -- reopens this
+            site's own consent banner so a visitor who already chose can
+            change their mind. Handled by the delegated listener in
+            ConsentAnalytics.astro. */}
         <button
           type="button"
           data-open-cookie-settings
