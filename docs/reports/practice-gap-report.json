@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:31:38.730Z",
+  "generatedAt": "2026-09-01T15:02:44.163Z",
   "reports": [
     {
       "code": "0620",
@@ -7,129 +7,11 @@
       "qualificationSlug": "igcse",
       "subjectSlug": "chemistry",
       "syllabusSeries": "2026-2028",
-      "totalQuestions": 94,
+      "totalQuestions": 132,
       "totalSubtopics": 49,
-      "coveredSubtopics": 36,
-      "coveragePct": 73,
-      "gaps": [
-        {
-          "topicNumber": 2,
-          "topicName": "Atoms, elements and compounds",
-          "topicSlug": "atoms-elements-and-compounds",
-          "subtopicNumber": "2.1",
-          "subtopicName": "Elements, compounds and mixtures",
-          "subtopicSlug": "elements-compounds-and-mixtures",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Atoms, elements and compounds",
-          "topicSlug": "atoms-elements-and-compounds",
-          "subtopicNumber": "2.2",
-          "subtopicName": "Atomic structure and the Periodic Table",
-          "subtopicSlug": "atomic-structure-and-the-periodic-table",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 2,
-          "topicName": "Atoms, elements and compounds",
-          "topicSlug": "atoms-elements-and-compounds",
-          "subtopicNumber": "2.3",
-          "subtopicName": "Isotopes",
-          "subtopicSlug": "isotopes",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 6,
-          "topicName": "Chemical reactions",
-          "topicSlug": "chemical-reactions",
-          "subtopicNumber": "6.1",
-          "subtopicName": "Physical and chemical changes",
-          "subtopicSlug": "physical-and-chemical-changes",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 11,
-          "topicName": "Organic chemistry",
-          "topicSlug": "organic-chemistry",
-          "subtopicNumber": "11.3",
-          "subtopicName": "Fuels",
-          "subtopicSlug": "fuels",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 11,
-          "topicName": "Organic chemistry",
-          "topicSlug": "organic-chemistry",
-          "subtopicNumber": "11.4",
-          "subtopicName": "Alkanes",
-          "subtopicSlug": "alkanes",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 11,
-          "topicName": "Organic chemistry",
-          "topicSlug": "organic-chemistry",
-          "subtopicNumber": "11.5",
-          "subtopicName": "Alkenes",
-          "subtopicSlug": "alkenes",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 11,
-          "topicName": "Organic chemistry",
-          "topicSlug": "organic-chemistry",
-          "subtopicNumber": "11.6",
-          "subtopicName": "Alcohols",
-          "subtopicSlug": "alcohols",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 11,
-          "topicName": "Organic chemistry",
-          "topicSlug": "organic-chemistry",
-          "subtopicNumber": "11.7",
-          "subtopicName": "Carboxylic acids",
-          "subtopicSlug": "carboxylic-acids",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 12,
-          "topicName": "Experimental techniques and chemical analysis",
-          "topicSlug": "experimental-techniques-and-chemical-analysis",
-          "subtopicNumber": "12.1",
-          "subtopicName": "Experimental design",
-          "subtopicSlug": "experimental-design",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 12,
-          "topicName": "Experimental techniques and chemical analysis",
-          "topicSlug": "experimental-techniques-and-chemical-analysis",
-          "subtopicNumber": "12.2",
-          "subtopicName": "Acid–base titrations",
-          "subtopicSlug": "acid-base-titrations",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 12,
-          "topicName": "Experimental techniques and chemical analysis",
-          "topicSlug": "experimental-techniques-and-chemical-analysis",
-          "subtopicNumber": "12.3",
-          "subtopicName": "Chromatography",
-          "subtopicSlug": "chromatography",
-          "questionCount": 0
-        },
-        {
-          "topicNumber": 12,
-          "topicName": "Experimental techniques and chemical analysis",
-          "topicSlug": "experimental-techniques-and-chemical-analysis",
-          "subtopicNumber": "12.4",
-          "subtopicName": "Separation and purification",
-          "subtopicSlug": "separation-and-purification",
-          "questionCount": 0
-        }
-      ],
+      "coveredSubtopics": 49,
+      "coveragePct": 100,
+      "gaps": [],
       "thin": [],
       "topicsWithoutTaxonomy": [],
       "topicOnlyTagged": []

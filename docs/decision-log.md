@@ -5632,3 +5632,66 @@ completed normally), `report:practice-gaps` re-run and confirmed (13 gaps, 0 thi
 `audit:all` (9/9 checks, 0 problems), negative-fixture suite (32/32), `astro check` (0 errors, 0
 warnings, 14 hints, 200 files), `npm audit --omit=dev` (0 vulnerabilities), enquiry-function unit
 tests (31/31).
+
+## D-110 — Section 14, batch 2: same pattern applied to all 13 remaining 0620 IGCSE Chemistry gaps -- 19 -> 0 gaps across all five flagship specs
+
+D-109 closed the 6 real 9701 A Level Chemistry gaps by finding existing, already-reviewed resources
+with no practice-questions companion. This batch checked the owner's explicit follow-up instruction
+("finish the 0620 remaining gaps") against the same pattern for all 13 remaining zero-question
+subtopics, all in Cambridge IGCSE/O Level Chemistry (0620/5070).
+
+**The pattern held for all 13, cleanly, once the search was widened from `study-guides` specifically
+to any already-published, already-reviewed resource type** (D-109 happened to find `study-guides`;
+one of the four matches here, `atomic-structure.md`, is `resourceType: "revision-notes"` -- the
+dashboard's scope is practice-question coverage regardless of what kind of resource already exists
+for a subtopic, so this programme did not restrict the search to one resource type). Four existing
+resources, all already published and reviewed, together cover all 13 gap subtopics exactly, with no
+practice-questions companion between them:
+
+- `atomic-structure.md` (revision-notes) -- subtopics 2.1-2.3 (elements/compounds/mixtures, atomic
+  structure and the Periodic Table, isotopes)
+- `physical-and-chemical-changes.md` (study-guides) -- subtopic 6.1 (physical vs chemical changes)
+- `petroleum-alkanes-and-alkenes.md` (study-guides) -- subtopics 11.3-11.5 (fuels, alkanes, alkenes)
+- `alcohols-and-carboxylic-acids.md` (study-guides) -- subtopics 11.6-11.7 (alcohols, carboxylic acids)
+- `practical-techniques-titrations-chromatography-separation.md` (study-guides) -- subtopics 12.1-12.4
+  (experimental design, titrations, chromatography, separation/purification)
+
+(That's four source resources covering five new practice-questions files -- 11.3-11.5 and 11.6-11.7
+split across two source guides but are close enough in scope to combine into two matching practice
+files.) Same copyright-safe approach as D-109: each was read in full and used only to verify accurate
+chemistry content; no text was copied from the source resource or from any past paper. This batch
+did not touch the owner's past-paper folders.
+
+**Files created**, each following the site's established IGCSE practice-questions format (`##
+Questions` / `## Answers` / `## Where marks are usually lost`, same copyright disclaimer as every
+other practice-questions file):
+
+- `atomic-structure-practice.md` -- 8 questions (element/compound/mixture, particle table, proton/mass
+  number, electronic configuration by shell including ions, isotope definition and Ar-from-abundance
+  calculation, purity by melting-point range).
+- `physical-and-chemical-changes-practice.md` -- 6 questions (the single-outcome 6.1 subtopic --
+  evidence for chemical change, the reversibility trap, classifying named examples).
+- `petroleum-alkanes-and-alkenes-practice.md` -- 8 questions (fractional distillation, alkane
+  substitution with chlorine, cracking, alkene addition reactions, the bromine water test).
+- `alcohols-and-carboxylic-acids-practice.md` -- 7 questions (fermentation vs steam-addition
+  manufacture of ethanol, ethanoic acid's acid reactions, oxidation of ethanol, esterification).
+- `practical-techniques-titrations-chromatography-separation-practice.md` -- 9 questions (apparatus
+  choice, titration method and end-point, chromatography interpretation and Rf calculation, the five
+  separation/purification methods, purity from melting/boiling point).
+
+Each file's `syllabusTopics` frontmatter is scoped to exactly the subtopics its own questions cover,
+same discipline as D-109 (`bank.ts` applies a file's topic tagging identically to every question in
+that file, so a file must not claim a subtopic none of its questions address).
+
+**Result:** Cambridge IGCSE/O Level Chemistry (0620) now at 100% subtopic coverage (0 gaps, down from
+13). Combined with D-109, total zero-question subtopics across all five flagship specifications: 19
+-> **0**. (0625 Physics, 9702 A Level Physics and 9701 A Level Chemistry remain at 100% as before;
+0580 Mathematics still has no subtopic-level taxonomy recorded to measure against, unchanged and
+correctly excluded, not silently counted as "covered.") 603 total practice questions across the five
+codes, up from 565 (92 flagship-relevant files, up from 87).
+
+**Status:** implemented and verified. Full gate clean: `validate:academic` (92 flagship files,
+603/603 questions schema-valid, no duplicate ids, deterministic hash), `build`, `report:practice-gaps`
+re-run and confirmed (0 gaps, 0 thin, all five codes), `audit:all` (9/9), negative-fixture suite
+(32/32), `astro check` (0 errors, 0 warnings, 14 hints, 200 files), `npm audit --omit=dev` (0
+vulnerabilities), enquiry-function unit tests (31/31).

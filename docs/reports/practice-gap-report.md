@@ -1,30 +1,16 @@
 # Practice-question gap report
 
-Generated 2026-09-01T11:31:38.730Z. Section 13 scope: practice-question coverage gaps for the
+Generated 2026-09-01T15:02:44.163Z. Section 13 scope: practice-question coverage gaps for the
 five flagship specifications only -- see src/utils/practice/gap-report.ts for the full
 rationale and docs/decision-log.md D-108 for what this deliberately does not attempt.
 
-**13 zero-question subtopics, 0 thin (1-2 question) subtopics, across all 5 codes.**
+**0 zero-question subtopics, 0 thin (1-2 question) subtopics, across all 5 codes.**
 
 ## Cambridge IGCSE Chemistry (0620, 2026-2028)
 
-94 questions · 36/49 subtopics covered (73%)
+132 questions · 49/49 subtopics covered (100%)
 
-### Gaps — zero questions (13)
-
-- 2. Atoms, elements and compounds — 2.1 Elements, compounds and mixtures
-- 2. Atoms, elements and compounds — 2.2 Atomic structure and the Periodic Table
-- 2. Atoms, elements and compounds — 2.3 Isotopes
-- 6. Chemical reactions — 6.1 Physical and chemical changes
-- 11. Organic chemistry — 11.3 Fuels
-- 11. Organic chemistry — 11.4 Alkanes
-- 11. Organic chemistry — 11.5 Alkenes
-- 11. Organic chemistry — 11.6 Alcohols
-- 11. Organic chemistry — 11.7 Carboxylic acids
-- 12. Experimental techniques and chemical analysis — 12.1 Experimental design
-- 12. Experimental techniques and chemical analysis — 12.2 Acid–base titrations
-- 12. Experimental techniques and chemical analysis — 12.3 Chromatography
-- 12. Experimental techniques and chemical analysis — 12.4 Separation and purification
+No zero-question subtopics.
 
 ## Cambridge IGCSE Physics (0625, For examination in 2026, 2027 and 2028)
 
