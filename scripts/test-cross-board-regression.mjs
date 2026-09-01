@@ -25,14 +25,15 @@ async function readPage(path) {
   }
 }
 
-// The 9 pages named in the v1.2 prompt as suspected cross-board topic-map
-// contamination. Each must NOT show Cambridge's topic data, tiering
-// language or source citation, and must instead show the honest
-// "being verified" placeholder (since no non-Cambridge topic data exists
-// yet in syllabus-topics.ts).
+// The pages named in the v1.2 prompt as suspected cross-board topic-map
+// contamination, minus those since graduated to real published data (see
+// ACCOUNTING_NOW_PUBLISHED / CHEMISTRY_NOW_PUBLISHED below). Each
+// remaining page must NOT show Cambridge's topic data, tiering language or
+// source citation, and must instead show the honest "being verified"
+// placeholder (since no non-Cambridge topic data exists yet in
+// syllabus-topics.ts).
 const CONTAMINATED_PAGES = [
   'boards/oxfordaqa/a-level/chemistry/index.html',
-  'boards/oxfordaqa/igcse/chemistry/index.html',
   'boards/ocr/a-level/chemistry/index.html',
 ];
 
@@ -49,7 +50,12 @@ const ACCOUNTING_NOW_PUBLISHED = [
 ];
 
 // 4 of the originally-flagged Chemistry pages (see CONTAMINATED_PAGES above,
-// which retains only the 3 still-unpublished OxfordAQA/OCR Chemistry pages)
+// which retains only the 2 still-unpublished OxfordAQA A-Level/OCR Chemistry
+// pages) have since had real, own-board taxonomy data added -- plus
+// OxfordAQA IGCSE Chemistry (9202), graduated 2026-09-02 by the
+// marlbridge-weekly-study-guides automation after adding a full 9-topic
+// taxonomy entry (Topic 1 sub-topic detail sourced from the official
+// specification PDF).
 // have since had real, own-board taxonomy data added to syllabus-topics.ts
 // (v1.2 WS -- Batch 16), following the identical graduation pattern set by
 // ACCOUNTING_NOW_PUBLISHED above. AQA GCSE Chemistry (8462) was never in the
@@ -61,6 +67,7 @@ const CHEMISTRY_NOW_PUBLISHED = [
   { page: 'boards/aqa/a-level/chemistry/index.html', domain: 'aqa.org.uk', code: '7405' },
   { page: 'boards/edexcel/igcse/chemistry/index.html', domain: 'qualifications.pearson.com', code: '4CH1' },
   { page: 'boards/edexcel/a-level/chemistry/index.html', domain: 'qualifications.pearson.com', code: 'YCH11' },
+  { page: 'boards/oxfordaqa/igcse/chemistry/index.html', domain: 'oxfordaqa.com', code: '9202' },
 ];
 
 const LEAK_SIGNATURES = ['cambridgeinternational.org', 'Core tier', 'Extended tier', 'Supplement content'];
