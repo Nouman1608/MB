@@ -88,3 +88,11 @@ featured: false
 - Using the sine rule when the triangle doesn't have a matching angle–side pair available, when the cosine rule is needed instead (and vice versa).
 - In 3D problems, trying to use a 2D right-angled triangle directly on the solid without first finding the correct 2D "base diagonal" or cross-section to work in.
 - Leaving the calculator in the wrong angle mode (degrees vs radians), which silently produces a plausible-looking but wrong answer.
+
+## Examiner report insight
+
+- Choosing a longer, valid method (e.g. Pythagoras followed by sine or tangent, or the sine/cosine rule) when the triangle is right-angled and a single direct ratio would answer the question -- the longer route is more prone to a rounding-related accuracy loss, not just slower.
+- In a "show that" question, showing at least one more decimal place of working than the given answer -- matching the given answer with no extra working shown does not prove it, even if the method was genuinely used.
+- In 3D problems worked in multiple stages, keeping an intermediate length in exact (surd) form rather than rounding it before the final trigonometric step -- early rounding compounds into a final answer that misses the required accuracy.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 12, 21, 22, 23 (verified 2026-09-02).*

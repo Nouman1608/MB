@@ -115,3 +115,11 @@ featured: false
 - Confusing rotational symmetry (how many times a shape maps onto itself in one full turn) with reflective symmetry (lines of symmetry) — they are asked for separately and are not always equal.
 - Quoting a circle theorem's *name* only without applying the numbers, or vice versa — both are usually credited separately.
 - Assuming any quadrilateral inscribed in a circle is cyclic in the sense examined — only "opposite angles sum to 180°" applies, and only to quadrilaterals with all four vertices on the circle.
+
+## Examiner report insight
+
+- Applying the general quadrilateral angle sum (360 degrees) to a cyclic quadrilateral instead of the specific rule that opposite angles sum to 180 degrees -- check whether all four vertices lie on a circle before choosing which rule applies.
+- Using the alternate segment theorem without first justifying every angle relied on -- a common error assumes a triangle in the figure is isosceles, or that two lines are parallel, without that being given.
+- Assuming a kite has two lines of symmetry like a rhombus -- a (non-rhombus) kite has exactly **one** line of symmetry, along the diagonal that bisects the pair of equal angles.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 13, 21, 23 (verified 2026-09-02).*
