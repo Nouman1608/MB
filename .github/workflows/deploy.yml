@@ -1,4 +1,11 @@
-name: Deploy to Cloudflare
+name: CI gate
+
+# This workflow validates every push to main. It does NOT deploy.
+#
+# Production deploys to marlbridge.com are handled by Cloudflare's own Git
+# integration on the `mb` Worker, which builds from this repository on push.
+# See docs/decision-log.md, D-103, for why the wrangler-action deploy step
+# that used to live at the end of this job was removed rather than repaired.
 
 on:
   push:
@@ -6,7 +13,7 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  validate-and-deploy:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -33,9 +40,3 @@ jobs:
 
       - name: Enquiry validation unit tests
         run: node --experimental-strip-types --test functions/api/__tests__/enquiry-validation.test.mjs
-
-      - name: Deploy to Cloudflare
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          command: deploy

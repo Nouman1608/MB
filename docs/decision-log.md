@@ -5117,3 +5117,43 @@ Resend integration already covered by "How we use it" / "How long we keep it" in
   privacy-page link), negative-fixture suite (31/31), `astro check` (0 errors), `npm audit` (0
   vulnerabilities), enquiry-function unit tests (31/31). Confirmed by direct dist inspection that
   the new section renders correctly on all four built privacy pages (en/ar/ur/bn).
+
+## D-103 — `deploy.yml` never deployed anything: removed its dead Cloudflare step rather than repairing it, and corrected the record
+
+**Date:** 2026-09-01
+
+While merging the Phase 5 bundle into `main` (merge commit `524142a`), the "Deploy to Cloudflare"
+workflow failed. Investigation showed the failure was neither new nor caused by that merge.
+
+**`.github/workflows/deploy.yml` has failed every run since it was created** — 69 of 69 runs,
+`{'failure': 69}`, zero successes, from run #1 (2026-08-27) to run #69. The two runs immediately
+before the Phase 5 merge (#67 on `976e1ea`, #68 on `f6ae4f7`) failed identically.
+
+**Root cause.** `cloudflare/wrangler-action@v3` installs its own wrangler when the repo pins none,
+and `wrangler` is absent from `package.json` — so CI ran **wrangler 3.90.0**. JSON/JSONC config
+support landed in wrangler **3.91.0**. Our config has been `wrangler.jsonc` since `f283773`
+(2026-08-20), so wrangler could not see it at all, found no config, and aborted with
+`Missing entry-point`. The config itself is correct and `src/worker/index.ts` exists — nothing was
+wrong with the Worker, only with the version reading its config.
+
+**The site was never affected.** marlbridge.com is live and current: `/report-a-correction/`
+(D-095), the `Reviewed by teachers` marker (D-097) and the deduplicated resource titles (D-094) all
+verified serving on production via cache-busted requests, with genuine 404s still returning 404.
+Deploys are in fact performed by **Cloudflare's own Git integration on the `mb` Worker**, which
+builds from this repository on push — not by this workflow.
+
+**Decision: remove the deploy step, keep the validation.** Repairing it (pinning `wranglerVersion`
+to 4, or adding `wrangler` to devDependencies) was rejected because it would create a *second*
+deploy path racing the Git integration that already works, to fix a step nothing has ever depended
+on. The workflow is now named `CI gate`, its job renamed `validate-and-deploy` → `validate`, and
+the `wrangler-action` step and its `CLOUDFLARE_API_TOKEN` reference are gone. The `CLOUDFLARE_API_TOKEN`
+GitHub secret is now unused by any workflow and can be deleted at the owner's discretion.
+
+**Correction to earlier reports.** `docs/reports/v2.0-mega-programme-final-report-2026-08-28.md`
+(line 112) states deployment "is fully automated" via this workflow and that "every commit in this
+programme triggered a real production deployment"; `docs/reports/post-v2.0-quality-closure-report-2026-08-30.md`
+(line 108) makes the same assumption. Both are wrong on the mechanism — the deploys were real, but
+Cloudflare's Git integration performed them, not `wrangler-action`. Those dated reports are left
+as written, as historical records; this entry is the correction.
+
+- **Status:** implemented. CI-only change — no site content, routes or data touched.
