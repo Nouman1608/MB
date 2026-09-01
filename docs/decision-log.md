@@ -5994,3 +5994,70 @@ retaining copies of source exam-board material in the workspace.
 **Status:** 0580 taxonomy independently validated; 0625 material search closed out as genuinely
 exhausted (public specimen material exists but is thin -- one Core MCQ paper, no confirmed current-series
 written paper) rather than left as an open question. No site content changed by this pass.
+
+## D-118 — Retrospective entry for WS-A (rendered academic-label validator), written on the owner's direct instruction
+
+This entry documents work this session did not do. WS-A ran as a separate, concurrent session between
+2026-08-31 02:36 and 02:46, landing four commits (`9a0cf25`, `f93aa13`, `8f0dc90`, `251d8d9`). Its final
+commit's message cited `docs/decision-log.md D-091` as the record of this work, but no such entry was
+ever written -- `D-091` was, and is, a different, unrelated entry (D-008's IB commercial-license
+follow-up, 2026-09-01). This gap was first flagged in Phase 1 of this Flagship Trust Programme
+(2026-08-31) and re-flagged in every phase since. This session's standing position through all of that
+was that it could describe *what* WS-A's commits did, verifiable directly from their diffs, but not
+*why* that other session made its specific calls -- and declined to fabricate the latter. The owner was
+asked "what is the missing decision log?", given that explanation, and replied **"you fix it"** --
+a direct instruction to write the entry now. What follows is built only from the four commits' actual
+diffs and the current state of the files they touched; no internal reasoning beyond what those diffs and
+their own commit messages state is claimed.
+
+**What WS-A built, from its four commits:**
+
+Every existing academic validator in this repo checks *data* -- frontmatter against the matrix/syllabus
+tables. None checked what a browser actually renders, so a resource or hub page could carry correct
+frontmatter and still display a wrong label if a template or a separately-hand-maintained name map had
+drifted. WS-A added `scripts/validate-rendered-academic-labels.mjs` (257 lines, landed in `f93aa13`,
+after `9a0cf25` had already wired its `npm run audit:rendered-labels` entry into `package.json` and
+`audit:all` one commit ahead of the script existing -- the `f93aa13` message calls this a "push-tooling
+mistake," not a code defect). The script re-derives expected labels from the same source-of-truth
+modules the real templates read (`matrix.ts`, `boards.ts`, `qualifications.ts`, `syllabuses.ts`) and
+checks two page families against a built `dist/`: resource pages (rendered `Level`/`Board:<name>`/
+`Qualification:<name>` pagefind-filter tags, checked in both directions -- declared-but-not-rendered and
+rendered-but-not-declared) and academic hub pages (`<title>`, and the rendered Board/Qualification/
+Syllabus fields, as a defense-in-depth regression check against `matrix.ts`/`syllabuses.ts`).
+
+Running it surfaced a real, live bug (per the `9a0cf25` commit message, confirmed on production before
+being fixed): `matrix.ts` kept its own hand-typed `BOARD_NAMES`/`QUAL_NAMES` maps, independent of the
+canonical `BOARDS`/`QUALIFICATIONS` registries in `boards.ts`/`qualifications.ts`. These had drifted for
+IB -- both `ib-dp` and `ib-myp` rendered as the bare abbreviations `'DP'`/`'MYP'` in `matrix.ts`, while
+`qualifications.ts`'s own canonical names for the same slugs are `'IB Diploma Programme'`/`'IB Middle
+Years Programme'`, affecting every IB hub page (21 pages: `ib-dp` x16, `ib-myp` x5). The root-cause fix,
+landed in `8f0dc90`, derives both maps from `BOARDS`/`QUALIFICATIONS` directly via
+`Object.fromEntries(...)` instead of re-typing the names as separate literals -- every other
+board/qualification slug already matched byte-for-byte, so this changed only IB's two rendered
+qualification names, and makes this specific drift structurally impossible to reintroduce.
+
+Fixing that surfaced a secondary, cosmetic issue landed in `251d8d9`: the hub template composes
+`${board} ${qualification}` as continuous prose (heading, `<title>`, lead paragraph, breadcrumb), which
+for IB now doubly stated its identity ("International Baccalaureate IB Diploma Programme Biology").
+`251d8d9` added a `boardQualPhrase` helper to
+`src/pages/boards/[board]/[qualification]/[subject].astro` that drops the board-name prefix only when
+the qualification name already carries that identity (true only for the two IB qualifications) -- every
+other hub's composed text is unchanged. The same commit added the `[Z]` negative-fixture category to
+`scripts/test-negative-validation-suite.mjs`, which corrupts a real resource page's rendered `Level`
+filter and confirms the new validator rejects it with the expected diagnostic before restoring the file
+byte-for-byte.
+
+**Current-code verification (this session, 2026-09-01):** all of the above is still present and
+unreverted on the live `main` tip -- `package.json` still wires `audit:rendered-labels` into `audit:all`;
+`scripts/validate-rendered-academic-labels.mjs` still exists; `matrix.ts`'s `BOARD_NAMES`/`QUAL_NAMES`
+are still `Object.fromEntries(BOARDS...)`/`Object.fromEntries(QUALIFICATIONS...)` derivations, not
+literals; the hub template's `boardQualPhrase` logic is unchanged; and the `[Z]` category is still in
+`test-negative-validation-suite.mjs`. Nothing in this or any other phase of this programme has touched
+these files.
+
+**What this entry is, and is not:** it is an accurate record of what four already-shipped, already-live
+commits changed, built from their own diffs and messages. It is not, and does not claim to be, an
+account of WS-A's session-internal reasoning beyond what those commits themselves documented -- that
+remains genuinely unknowable to this session, and is not asserted here. Written retrospectively, five
+days after the fact, on the owner's explicit instruction, to close a gap `251d8d9` referenced but never
+filled.
