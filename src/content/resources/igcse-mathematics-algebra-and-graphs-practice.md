@@ -77,3 +77,11 @@ x − y = 1 **[3]**
 **(b)** c = −2 (the y-intercept, given directly) [1] → **y = 4x − 2** [1, allow follow-through from part (a)].
 
 **10.** a = 1, b = 3, c = −5 [1]. x = (−3 ± √(9 + 20)) / 2 = (−3 ± √29) / 2 [1] → **x = 1.19 or x = −4.19** (2 d.p.) [1].
+
+## Examiner report insight
+
+- Stopping after removing a numeric common factor without checking for a further structure inside the bracket -- e.g. factorising `12m^2 - 75t^2` as `3(4m^2 - 25t^2)` and stopping, instead of spotting the remaining difference of two squares.
+- In simultaneous equations solved by elimination, using addition where the signs require subtraction (or vice versa) after scaling one equation -- check the sign of each term being eliminated, not just its size.
+- When a question asks you to solve an equation graphically (e.g. "by drawing a suitable line"), doing so -- an algebraic solution to the same equation, even if correct, does not answer what was asked and is not credited the same way.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 11, 21, 22, 23 (verified 2026-09-02).*

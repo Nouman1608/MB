@@ -102,3 +102,9 @@ featured: false
 - Adding the two y-coordinates and two x-coordinates for the midpoint but forgetting to divide by 2.
 - Using the negative reciprocal rule backwards — multiplying instead of taking the reciprocal, or forgetting the sign flip.
 - Substituting a point into y = mx + c to find c, then quoting the wrong final equation (still showing the point's coordinates instead of m and c).
+
+## Examiner report insight
+
+- Not every gradient question needs a negative reciprocal -- that rule is for finding a *perpendicular* line's gradient. If a question only asks for the equation of the line itself, use the gradient as calculated, without inverting or flipping its sign.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Paper 22 (verified 2026-09-02).*

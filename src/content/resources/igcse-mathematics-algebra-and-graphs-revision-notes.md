@@ -82,6 +82,13 @@ Condensed for the final weeks. For the full explanation, use the
 - Confusing "reading a graph" (use given axes) with "sketching a graph" (show shape and key features only).
 - In function composition, applying f and g in the wrong order — fg(x) means g first, then f.
 
+## Examiner report insight
+
+- **Incomplete factorisation:** removing a numeric common factor is often only the first step -- check what remains inside the bracket for a further structure, especially a difference of two squares (a^2 - b^2).
+- **Elimination sign errors:** after scaling one equation to match coefficients, re-check whether the two equations should now be added or subtracted to eliminate the variable -- this is where most marks are lost, not in the scaling itself.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 11, 22 (verified 2026-09-02).*
+
 ## Self-test
 
 1. Factorise x² − 49.

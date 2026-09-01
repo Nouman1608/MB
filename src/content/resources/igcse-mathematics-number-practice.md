@@ -87,3 +87,13 @@ Related: [Number revision notes](/resources/igcse-mathematics-number-revision-no
 - Dividing the total by the number of names rather than by the number of parts.
 - Using the upper bound of one dimension and the lower bound of the other.
 - Giving a standard form answer with a first factor outside 1 ≤ a < 10.
+
+## Examiner report insight
+
+- Working left to right instead of following the order of operations (BIDMAS/PENDMAS) -- e.g. treating `28 - 8 / 2` as `(28 - 8) / 2` rather than `28 - (8 / 2)`.
+- Rounding only the final answer when a question specifically instructs each value to be rounded first (e.g. "correct each number to 1 significant figure, then calculate") -- the instruction applies before the calculation, not after.
+- Misreading which digits recur in a recurring decimal before applying the standard "multiply by 10 to the n, subtract" method -- treating it as terminating, or misidentifying the repeating block, invalidates the rest of a correct method.
+- After multiplying or dividing two numbers in standard form, mishandling the index arithmetic -- indices are added when multiplying and subtracted when dividing, separately from renormalising the mantissa back into the range 1 <= a < 10.
+- In a compound unit conversion (e.g. km/h to m/s, or cm to km), converting one unit correctly but forgetting the second -- both parts of a compound unit need converting, not just the more obvious one.
+
+*Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 11, 12, 13, 21, 23 (verified 2026-09-02).*
