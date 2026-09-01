@@ -98,3 +98,4 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 - Forgetting an ion's electron count changes but its proton number — and therefore the element — does not.
 - Averaging isotope masses without weighting by abundance.
 - Saying isotopes have different chemical properties because their mass differs.
+- In an "identify the isotope" question, picking an atom with a different proton number (a different element entirely) rather than one with the same proton number but a different mass number/neutron count.

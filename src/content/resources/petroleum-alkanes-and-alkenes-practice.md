@@ -98,3 +98,4 @@ Related: [Petroleum, Alkanes and Alkenes revision notes](/resources/petroleum-al
 - Forgetting cracking needs both heat and a catalyst, not just one.
 - Getting the bromine water colour change the wrong way round (it decolourises with alkenes, stays orange with alkanes).
 - Writing the hydration of ethene as if it were combustion, rather than addition of steam across the double bond.
+- Treating fractional distillation, cracking and polymerisation as one vague "processing crude oil" idea — they are three distinct processes: distillation *separates* the existing hydrocarbons by boiling point, cracking *breaks* long-chain molecules into shorter ones, and polymerisation *joins* alkene monomers together.

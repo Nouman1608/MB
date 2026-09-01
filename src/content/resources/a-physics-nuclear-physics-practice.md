@@ -91,3 +91,4 @@ N = 4.8 × 10⁵ ÷ 1.002 × 10⁻⁶ = **4.79 × 10¹¹ nuclei** [1].
 - Explaining fission and fusion without reference to the binding energy per nucleon curve.
 - Not converting the decay constant to consistent units before finding N.
 - Confusing the roles of the moderator and the control rods.
+- Explaining exponential decay by just citing "half-life" rather than its actual defining property — the rate of decay (or the rate of change of N) is proportional to N itself, so the same *fraction* decays in each equal time interval, however much is left.

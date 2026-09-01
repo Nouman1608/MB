@@ -98,3 +98,4 @@ Related: [Physical Quantities and Units revision notes](/resources/as-physics-qu
 - Swapping sine and cosine when resolving.
 - Adding percentage uncertainties when subtracting quantities.
 - Forgetting to multiply by the power when a quantity is cubed.
+- Rounding an intermediate value before using it in a later step, which drifts the final answer — carry extra significant figures through the working and only round at the end. Also, give a final numerical answer as a decimal to the precision asked for, not left as a surd or a fraction.

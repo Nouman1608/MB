@@ -94,3 +94,5 @@ Resultant = √(12² + 29.7²) [1] = √(144 + 882) = **32.0 m s⁻¹** [1].
 - Saying acceleration is zero at the top of a vertical throw.
 - Mixing horizontal and vertical components.
 - Forgetting the sign convention for upward and downward motion.
+- Defining acceleration loosely, e.g. "rate of change of velocity per unit time" — that's a rate of a rate. It is simply the *rate of change of velocity*; don't add "per unit time" on top of "rate of".
+- When a projectile is launched at an angle (not purely horizontally), using its total initial speed directly in a vertical *suvat* equation instead of resolving it into a vertical component first.

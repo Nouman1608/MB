@@ -104,3 +104,4 @@ c = 0.100 ÷ 0.250 = **0.400 mol dm⁻³** [1].
 - Not identifying the gas when explaining a mass change.
 - Working from mass ratios rather than converting to moles.
 - Forgetting to convert cm³ to dm³ for concentration.
+- Adding proton (atomic) numbers instead of mass numbers when working out an Ar or Mr — mass number is the one relevant to relative mass; proton number only identifies the element.

@@ -93,3 +93,4 @@ Related: [Alcohols and Carboxylic Acids revision notes](/resources/alcohols-and-
 - Writing the ethanol-to-ethanoic-acid oxidation as if it were combustion, rather than gaining oxygen/losing hydrogen.
 - Naming the ester the wrong way round — the alcohol supplies the "-yl" part, the acid supplies the "-oate" part.
 - Forgetting fermentation's product needs further distillation before it is usable as a concentrated fuel or solvent.
+- Giving "temperature" or "pressure" alone as a reaction condition for the steam–ethene route — state whether it is high or low (or the actual value), since an unqualified condition is not creditworthy.

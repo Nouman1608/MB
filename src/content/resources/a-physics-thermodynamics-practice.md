@@ -104,3 +104,4 @@ Energy is **absorbed from the surroundings** by the ice, or **lost from the heat
 - Using E = mcΔθ during a change of state.
 - Forgetting to convert minutes to seconds.
 - Explaining the latent heat difference without mentioning work against the atmosphere.
+- Describing melting or vaporisation as "breaking bonds" between molecules — there is no bond-breaking model at this level. The correct description is molecules being separated (or fully separated, for vaporisation) against the intermolecular forces of attraction, which increases their potential energy.

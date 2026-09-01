@@ -100,3 +100,4 @@ Two gases with sources: **carbon dioxide** from burning fossil fuels [1]; **meth
 - Omitting the oxidation step in the acid rain mechanism.
 - Describing the greenhouse effect without mentioning the change in wavelength.
 - Giving an incomplete eutrophication sequence — all four steps are needed.
+- The water-treatment stages and chlorine's specific role are a genuinely weak recall area — vague answers like "it is purified" or "chlorine cleans it" don't get credit; name each stage in order and state exactly what chlorine does (kills bacteria/disease-causing microorganisms).

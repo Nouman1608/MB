@@ -5813,3 +5813,108 @@ something this audit pass can route around.
 correctly reported as blocked rather than substituted with a different specification or skipped
 silently. Findings appended to `claude/section14-past-paper-audit-2026-09-01.md`. No code or content
 changes this round.
+
+## D-113 — 0580 IGCSE Mathematics: corrected a prior phase's wrong claim that no subtopic taxonomy exists
+
+The owner asked to build the missing 0580 subtopic-level taxonomy flagged as a blocker in D-108 and
+D-112. The existing `syllabus-topics.ts` entry for 0580 claimed "0580's content is organised by topic
+rather than numbered X.Y sub-topics in the official specification" and recorded all 9 topics with
+empty `subtopics: []`. This was checked directly against the source (the same official syllabus PDF
+already cited, `662466-2025-2027-syllabus.pdf`, Subject content section pp.10-38) and found to be
+**wrong** -- 0580 has a full numbered Core/Extended sub-topic structure, laid out as parallel `Cx.y` /
+`Ex.y` entries per topic, structurally identical to 4024 Mathematics and 0625 Physics (Extended = Core
++ Supplement).
+
+All 72 sub-topics across the 9 topics were extracted from the PDF text and cross-checked (the Core
+column against the Extended column for every one of the 72 numbers), including one sub-topic (6.6,
+"Pythagoras' theorem and trigonometry in 3D") whose number used a tab character rather than a space in
+the extracted text and was initially missed by a stricter search pattern -- caught by re-running with a
+more permissive one and confirming the C/E entry counts matched (73 raw C-column entries, 73 raw
+E-column entries, one pair being a page-break duplicate of 4.1, giving 72 real numbers). Sub-topics
+present in both Core and Extended are tagged `tier: 'both'`; sub-topics that exist only in the Extended
+paper (the source PDF's Core-column cell literally reads "Extended content only" for these) are tagged
+`tier: 'supplement'`, matching the tier convention already used for 0620/5070 Chemistry and 4024
+Mathematics. Sub-topic slugs carry the same `-cambridge-igcse-maths` suffix as the existing topic-level
+slugs, keeping them distinct from 4024's plain slugs and matching the pattern 0625 Physics already uses
+with `-cambridge-igcse-physics`. The `notes` field was rewritten to document this correction honestly
+rather than silently overwrite the earlier (wrong) claim.
+
+**Consequence, disclosed rather than hidden:** regenerating the gap dashboard against the real taxonomy
+now surfaces **41 zero-question sub-topic gaps** for 0580 (up from 0, because 0580 previously had zero
+trackable sub-topics at all). This is not a regression -- it's the dashboard becoming able to see a real
+gap it was blind to before, exactly the "not silently absent" principle D-050 and D-108 already
+established for other tracked gaps. Two existing 0580 files (`igcse-mathematics-number-practice.md`,
+`igcse-mathematics-algebra-and-graphs-practice.md`) remain topic-tagged-only and are excluded from the
+gap count and denominator, same treatment as 0625's two topic-tagged-only files. **Closing these 41
+gaps is a distinct, much larger piece of work (comparable in scope to D-110's 13-file pass) and was not
+attempted this round** -- the ask was to build the taxonomy, not to also author ~41 new practice
+sub-sections as a side effect. Flagged to the owner as a real next-phase option, not started here.
+
+Full validation gate passed post-change (`validate:academic`, `npm run build`,
+`practice-gap-report.mjs`, `audit:all` 9/9, negative-validation-suite 32/32, `astro check` 0 errors,
+`npm audit` 0 vulnerabilities, functions tests 31/31).
+
+## D-114 — Folding the 11 newly-surfaced examiner-report patterns (D-111/D-112) into existing WMUL sections
+
+The owner asked for this as part of a combined 3-task request. Each of the 5 Chemistry (0620) and 6
+Physics (9702) patterns identified in D-111/D-112 was matched to the specific existing practice file
+whose topic and existing content it actually bears on, and added as one new "Where marks are usually
+lost" bullet, written in this programme's own words (no examiner-report text quoted) -- not a blanket
+append across unrelated files.
+
+**Chemistry (0620/5070):**
+- `formulae-equations-and-the-mole-practice.md` -- using proton number instead of mass number when
+  totalling an Ar/Mr.
+- `alcohols-and-carboxylic-acids-practice.md` -- giving "temperature" or "pressure" unqualified as a
+  reaction condition for the steam-ethene route.
+- `petroleum-alkanes-and-alkenes-practice.md` -- treating fractional distillation, cracking and
+  polymerisation as one vague idea rather than three distinct processes.
+- `atomic-structure-practice.md` -- in an "identify the isotope" question, picking an atom with a
+  different proton number rather than the same proton number and a different mass number.
+- `chemistry-of-the-environment-practice.md` -- water-treatment stages and chlorine's specific role
+  flagged as a genuinely weak recall area, not just "it is purified."
+
+**Physics (9702), new ground since this session didn't author any 9702 files to validate against:**
+- `as-physics-kinematics-practice.md` -- two bullets: precise definitions (acceleration is "rate of
+  change of velocity," not "...per unit time" on top of that), and resolving an angled initial velocity
+  into its vertical component before using it in a vertical *suvat* equation, rather than using the
+  total initial speed.
+- `as-physics-quantities-units-practice.md` -- not rounding intermediate values before the final step,
+  and giving a decimal final answer rather than a surd or fraction when asked.
+- `a-physics-thermodynamics-practice.md` -- "breaking bonds" as an incorrect description of melting or
+  vaporisation; the correct framing is molecular separation against intermolecular forces, gaining
+  potential energy.
+- `a-physics-nuclear-physics-practice.md` -- exponential decay explained by its actual defining property
+  (constant fractional decay per unit time) rather than by rote reference to half-life.
+- `a-physics-quantum-physics-practice.md` -- electron-positron annihilation producing two
+  opposite-direction photons because of momentum conservation, not just "the particles are annihilated."
+
+No syllabus tagging, gap coverage, or question counts were touched -- these are WMUL-only additions.
+Full validation gate passed (same run as D-113, above -- both changes validated together).
+
+## D-115 — 0625/0580 real past-paper material: found genuinely public specimen papers + mark schemes
+
+D-112 reported 0625 and 0580 as blocked for a depth audit because the owner's folders contain no
+past-paper or examiner-report material for either code. Asked to pursue "getting real material" as the
+third part of the same combined request, this programme searched Cambridge's own public website
+(`cambridgeinternational.org`) rather than the folders, and found that Cambridge **does publish
+specimen papers and mark schemes for both codes directly and openly** -- no login, no School Support
+Hub restriction:
+
+- **0580** (Mathematics): specimen Papers 1-4 with mark schemes, for the current 2025-2027 syllabus
+  series (e.g. `663662-2025-specimen-paper-1.pdf`), confirmed genuinely fetchable and unrestricted.
+- **0625** (Physics): specimen papers and mark schemes exist publicly for the 2023-2025 series
+  (e.g. `595783-2023-specimen-paper-1.pdf`); a 2026-2028-series specimen set was searched for but not
+  located this round -- the 2026-2028 syllabus update is a minor revision ("no significant changes
+  affecting teaching," already noted in this programme's own syllabus data), so the 2023 specimen set
+  may still be the representative one, but that wasn't confirmed against the syllabus update note.
+
+**Important distinction from the examiner reports used in D-111/D-112:** specimen papers are questions
+plus mark schemes, not teacher-facing commentary on real candidate performance -- structurally closer
+to the "raw question papers" category this programme has deliberately avoided reading for
+topic-weighting/style purposes throughout this engagement (D-111), even though they're unambiguously
+public. Using them the same way the examiner reports were used would be a new judgement call, not a
+continuation of the same one already made. **Not done this round** -- reporting the discovery back to
+the owner rather than unilaterally deciding to cross that line. If the owner wants a 0580/0625 depth
+audit built from this material, that's a well-defined, achievable next step now that both blockers
+(no material, no 0580 taxonomy) are resolved or resolvable.
