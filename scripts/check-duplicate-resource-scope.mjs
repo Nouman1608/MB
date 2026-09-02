@@ -70,6 +70,10 @@ const RES_DIR = 'src/content/resources';
  */
 const REVIEWED_LEGITIMATE = [
   {
+    files: ['o-level-cambridge-english-language-reading-and-writing.md', 'o-level-english-language-paper-1-reading.md'],
+    evidence: "First is the whole-syllabus overview: a skills/technique guide covering both Reading and Writing at once (own-words technique, 'effect not label' language analysis with a worked example, summary method, directed-writing/composition technique, an accuracy checklist). Second is a Paper-1-only exam-mechanics deep dive, mirroring the already-reviewed Paper 2 Writing deep dive's pattern: official Question 1/2/3a/3b structure, exact marks per question (16/9/10/10/5), which R1-R5 assessment objective each question is marked against (not mentioned anywhere in the overview), and Paper 1 timing/command words. Written deliberately to avoid restating the overview's own-words/effect-not-label technique points (edited out during this review, 2026-09-02, once the initial draft was found to overlap) -- confirmed no shared sentence-level content after that edit.",
+  },
+  {
     files: ['a-english-language-reading-practice.md', 'a-level-english-language-practice.md'],
     evidence: 'Zero overlapping questions. First is discourse/text analysis (levels of language, register, connotation, cohesion devices); second is language change and child language acquisition (broadening/narrowing/amelioration/pejoration, acquisition stages, Skinner/Chomsky/Bruner/Piaget). Both tagged only to Paper 1 (9093) with no finer official subtopic split.',
   },

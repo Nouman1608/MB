@@ -6117,3 +6117,47 @@ filled.
   clean after this change.
 - **Status:** both duplicate pages actually removed and redirected this time. No further action
   needed on these two groups; `check:duplicate-scope` is clean.
+
+## D-120 — Weekly depth batch (2026-09-02, sub-batch 1): 3 new resources, 1 reviewed same-scope pair
+
+- **Date:** 2026-09-02.
+- **Workstream:** `marlbridge-weekly-study-guides` scheduled task, first sub-batch of this run.
+- **Context:** the original zero-resource backlog is done (all 160 ACTIVE combinations have at
+  least one resource); this run targets the depth backlog (median 4 resources per combination
+  against an 8+ target). Fresh `npm run coverage:academic-v2` ranked ACTIVE combinations by
+  `totalResourceCount` ascending with Cambridge-first/IGCSE-before-O-Level-before-A-Level/
+  core-subjects-first tie-breaks. IB combinations were included in ranking per D-091 (2026-09-01,
+  IB exclusion lifted) -- none of this sub-batch's picks happened to be IB, since Cambridge O-Level
+  and A-Level combinations ranked ahead of the thinnest IB ones this run.
+- **Resources added:**
+  1. `o-level-english-language-paper-1-reading.md` (study-guides) -- Cambridge O-Level English
+     Language (1123) had an overview guide and a Paper 2 Writing deep dive but no Paper 1 Reading
+     deep dive. Combination: 4 → 5 resources.
+  2. `o-level-geography-economic-development.md` (study-guides) -- Cambridge O-Level Geography
+     (2217) had Theme 1 and Theme 2 study guides but Theme 3 (Economic Development) was entirely
+     uncovered, including in the sibling IGCSE 0460 resource set. Combination: 4 → 5 resources.
+  3. `a-level-cambridge-global-perspectives-team-project.md` (study-guides) -- Cambridge A-Level
+     Global Perspectives & Research (9239) had Component 1 (3 resources) and Component 2 (1
+     resource) covered but Component 3 (Team Project) had zero resources anywhere on the site.
+     Combination: 4 → 5 resources.
+  All three cite their own official Cambridge syllabus PDF with a verification date, and none
+  required new `syllabus-topics.ts` entries -- all three topics already existed in the taxonomy
+  from prior sessions.
+- **Same-scope review:** `check:duplicate-scope` flagged
+  `o-level-cambridge-english-language-reading-and-writing.md` (the whole-syllabus overview, tagged
+  `reading-1123`) against the new `o-level-english-language-paper-1-reading.md` (also tagged
+  `reading-1123`, since the syllabus has no finer split). Read both files in full: the first draft
+  of the new file did genuinely restate two of the overview's specific points ("own words" for the
+  summary task, "explain the effect, not the label" for language-analysis) in near-identical terms.
+  Rather than allow-list a real overlap, the new file was edited during this same review to drop
+  those two restated points and replace them with content the overview does not contain at all --
+  which official assessment objective (R1/R2/R4/R5) each question is marked against, and the exact
+  mark split per question (16/9/10/10/5) -- mirroring how the already-reviewed Paper 2 Writing deep
+  dive relates to the same overview file. Re-ran `check:duplicate-scope` after the edit and added a
+  `REVIEWED_LEGITIMATE` entry recording this reasoning. No merge was needed since the edited content
+  no longer overlaps.
+- **Validation:** full gate (`npx astro check`, `npm run validate:academic`, `npm run build`, cross-
+  board regression, negative-validation suite, API tests, `npm audit`, `coverage:academic-v2`,
+  `check:duplicate-scope`) run clean after the edit, before commit.
+- **Status:** sub-batch 1 of this run's depth batch. Further sub-batches follow in later commits
+  this same run.
