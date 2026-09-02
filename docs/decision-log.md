@@ -6352,3 +6352,119 @@ filled.
   after this change is deployed, same bundle-and-verify discipline as D-122/D-123. No GSC numbers
   claimed here.
 - **Status:** routing fixed and gate-clean, not yet deployed or re-exercised.
+
+## D-125 — Live Search Console demand engine: verified credential confirmed working, then built the full D1/Cron/dashboard system on explicit owner direction
+
+- **Date:** 2026-09-02.
+- **Context:** D-124 fixed the routing bug that made `functions/api/admin/gsc-verify.ts` unreachable.
+  Post-deploy, `GET /api/admin/gsc-verify` was hit for real and returned genuine, non-fabricated live
+  data: `{"ok":true,"property":"sc-domain:marlbridge.com","requestedDateRange":{"startDate":"2026-08-26","endDate":"2026-09-02"},"requestedDimensions":["query"],"requestedRowLimit":1,"rowCount":1,"sampleRow":{"keys":["cambridge geography"],"clicks":1,"impressions":1,"ctr":1,"position":55}}`.
+  This is the exact "smallest possible read-only verification request" the original brief asked for
+  before anything further could be built -- confirmed working, one real row, nothing extrapolated
+  from it. The owner then explicitly directed the next phase: "i want the trend charts do not go
+  with the lighter approach, i want a live, queryable historical-trend dashboard (charts over time,
+  not just 'latest report')" and "you can remove the previous engine or build on it" -- followed by
+  an explicit "yes" to proceed with the full architecture this entry documents.
+- **A real architectural tension, surfaced rather than silently overridden:** `gsc-verify.ts`'s own
+  header comment (written at D-123/D-124) flagged that building "a Worker+D1+dashboard system" would
+  run counter to the Search Intelligence & Demand-Led Growth Programme's own stated design (Section
+  44 of that programme's brief, restated in `docs/growth/README.md`'s "Not a build-time dependency"
+  section): the CSV-import engine deliberately has **no** production dependency on live Google-account
+  access. This build **does** introduce exactly that dependency (a Cron Trigger calling the live GSC
+  API daily, writing to D1, serving a dashboard) -- a genuine divergence from that sibling programme's
+  principle, not a misreading of it. Checked against `docs/programme-register.md`'s governance rule
+  (Section 50: check an overlapping ACTIVE/MAINTENANCE row's "Next action" before starting related
+  work) -- the Search Intelligence programme's row lists "practice-event instrumentation" as its next
+  action, not a prohibition on this, and the owner is the sole owner of both programmes and gave this
+  direction twice, explicitly, in their own words (quoted above). Recorded here as a deliberate,
+  owner-directed departure, not a silent contradiction of the prior programme's own design principle.
+- **What was built:**
+  - `scripts/growth/scoring.mjs` -- `classifyQuery()` extracted verbatim out of
+    `gsc-opportunity-report.mjs` into its own module, imported by both the CSV path (unchanged
+    behaviour, now via import) and the new live-API path, per `docs/growth/README.md`'s own
+    instruction to reuse rather than fork the scoring logic. Covered by a new test file,
+    `scripts/growth/__tests__/scoring.test.mjs` (8/8 passing) -- no test previously existed for this
+    logic at all.
+  - `functions/_lib/gsc-client.ts` -- the JWT-signing/OAuth-exchange/searchAnalytics.query client,
+    extracted out of `gsc-verify.ts` so it has one implementation, reused below.
+  - `functions/_lib/gsc-refresh.ts` -- `runGscRefresh(env)`, the actual data pull: one access token
+    per run (reused across calls, not refetched per call), then per-day (not per-window) calls to
+    `searchAnalytics.query` for both `query` and `page` dimensions over a rolling 7-day lookback
+    (chosen because GSC revises recent days' numbers for a few days after they first appear -- see
+    that file's header comment for the full per-day-vs-multi-day rowLimit reasoning), upserting into
+    D1 via `INSERT OR REPLACE` keyed on `(date, dimension, key)`, and writing one `gsc_refresh_log`
+    row per dimension per run. Row cap: 200/day/dimension -- a real cap, not a claim of
+    exhaustiveness, chosen from this property's actual observed traffic (single-digit
+    clicks/impressions per D-124's sample row), stated as such on the dashboard itself. Per-run
+    subrequest budget: 1 token + 14 GSC calls = 15, well under the Workers Free plan's 50-subrequest
+    limit -- **not independently load-tested against a live Cron invocation from this session** (that
+    can only be observed after the first real scheduled run fires); if it ever hits a CPU/duration
+    limit in practice, the documented fix is shrinking the window/cap further, not silently
+    swallowing the failure.
+  - `functions/api/admin/search-demand.ts` -- `GET` aggregates D1 (trend series, last-28-day
+    opportunity classification via `classifyQuery`, page performance, refresh log, stored-date-range)
+    into one JSON response for the dashboard; `POST` runs the same `runGscRefresh()` the Cron trigger
+    uses (one implementation, two callers), for the dashboard's "Refresh now" button and for seeding
+    the first data before the first scheduled run.
+  - `src/pages/admin/search-demand.astro` -- the dashboard itself. Gated the same way as
+    `/admin/practice-gaps/` (noindex, excluded from the sitemap via `astro.config.mjs`'s existing
+    `/admin/` filter, not linked anywhere). Because this site builds `output: 'static'`, the page is
+    a static shell with a client-side fetch to the API above (unlike `practice-gaps.astro`, which is
+    fully build-time) -- the trend chart is a small hand-written inline-SVG line-chart renderer, not a
+    new charting dependency, matching this repo's established pattern of not adding an npm package
+    for one page's needs.
+  - `migrations/gsc-snapshots/0001_init.sql` -- the `gsc_snapshots` (one row per date+dimension+key,
+    `UNIQUE` constraint enabling the upsert-on-revision behaviour above) and `gsc_refresh_log` tables,
+    documented for reproducibility. **Already applied directly against the live D1 database** via the
+    Cloudflare API this session (see below) -- this file is not a pending migration.
+  - `wrangler.jsonc` -- added the `d1_databases` binding (`DB` -> `mb-search-demand`) and a
+    `triggers.crons` entry (`"17 4 * * *"`, arbitrary off-peak UTC time, one trigger, well under the
+    Free plan's 5-trigger limit).
+  - `src/worker/index.ts` -- removed the now-retired `gsc-verify` import/dispatch (see below), added
+    the `search-demand` dispatch (GET+POST, matching the `/api/enquiry` two-method convention) and a
+    `scheduled()` export that calls `runGscRefresh(env)` inside `ctx.waitUntil(...)`, logging (not
+    throwing) if the result reports errors. Added hand-written minimal local types for `D1Database`,
+    `ScheduledController`, and `ExecutionContext` (no `@cloudflare/workers-types` dependency added,
+    matching this file's own established convention).
+  - `functions/_lib/__tests__/gsc-refresh.test.mjs` -- integration test for `runGscRefresh()`,
+    following the exact pattern of `enquiry-resend-integration.test.mjs`: mocked `global.fetch` (OAuth
+    + every `searchAnalytics.query` call) and a minimal in-memory fake `D1Database`. Asserts: the
+    access token is fetched exactly once and reused across all 14 calls; exactly 14 calls happen (7
+    days x 2 dimensions); rows land in the fake store; one refresh-log row is written per dimension;
+    missing `DB` or `GSC_SERVICE_ACCOUNT_JSON` fails fast without ever calling `fetch`; a single
+    failed day is recorded in that dimension's `errors` array (and marks the overall run `ok: false`)
+    without aborting the other days. 4/4 passing.
+  - `docs/growth/README.md` -- new "Live-API path (D-125, 2 Sep 2026)" section cross-linking this
+    entry and stating the Section 44 departure explicitly rather than leaving the live path
+    undocumented next to the CSV path's original "no production dependency" claim.
+- **Retired:** `functions/api/admin/gsc-verify.ts` -- deleted. Its own header comment said to "remove
+  or properly gate this route once its one-time job (proving the credential works) is done, not left
+  as a permanent feature." That job is done (see the Context section above); `search-demand.ts`
+  supersedes it. `src/worker/index.ts`'s dispatch for it was removed in the same change.
+- **D1 database provisioned:** `mb-search-demand`, uuid `f7e66215-e9f7-4aff-8b06-ceec0cfddd93`,
+  region `ENAM`, created directly via the Cloudflare API this session (not through a dashboard click,
+  not through `wrangler d1 create`) -- account already reachable to this session via a connected
+  Cloudflare MCP server. Free tier; no Workers Paid upgrade needed for D1 itself or for the one Cron
+  Trigger (both available on the Free plan). Schema applied directly against the live database in the
+  same session (see `migrations/gsc-snapshots/0001_init.sql`).
+- **Verification gate, run in full:** `npx astro check` (0 errors, pre-existing unrelated warnings
+  only -- one new warning from this change, an unused variable, was found and fixed before the final
+  run); `npm run build` (1513 pages built clean, all `validate:academic` sub-checks passing);
+  `npm run audit:all` (11/11 -- metadata, structured-data, redirects, internal-links,
+  content-integrity, fonts, sitemap/noindex agreement, i18n routes, rendered labels, review coverage,
+  accessibility -- confirmed `/admin/search-demand/` is excluded from the sitemap, same as
+  `/admin/practice-gaps/`); `npx wrangler deploy --dry-run` (bundles clean, confirms the `DB` D1
+  binding and `ASSETS` binding are both wired, `scheduled` and the new D1/scoring code present in the
+  bundle); pre-existing `functions/api/__tests__/` suite (31/31, unaffected); new
+  `scripts/growth/__tests__/scoring.test.mjs` (8/8) and
+  `functions/_lib/__tests__/gsc-refresh.test.mjs` (4/4) -- all clean.
+- **Not yet done / explicitly out of scope this round:** the Cron trigger has not fired for real yet
+  (only observable after deploy); the dashboard has not been loaded in a live browser against real D1
+  data yet (that requires the "Refresh now" button to be clicked once post-deploy, or the first
+  scheduled run); no GSC numbers beyond D-124's single verified sample row are claimed anywhere in
+  this entry. Content-decision automation remains explicitly out of scope -- this system stays
+  read-only and human-in-the-loop; nothing here triggers a content change automatically.
+- **Status:** built and gate-clean, D1 database live and schema applied, not yet deployed to
+  production. Next step after deploy: click "Refresh now" once on `/admin/search-demand/` to seed the
+  first real data, then verify the dashboard renders it, per this same session's standing "never
+  claim success without checking" discipline.

@@ -28,9 +28,10 @@
  */
 import { onRequestPost, onRequestGet } from '../../functions/api/enquiry.ts';
 import {
-  onRequestGet as onGscVerifyGet,
-  onRequestPost as onGscVerifyMethodNotAllowed,
-} from '../../functions/api/admin/gsc-verify.ts';
+  onRequestGet as onSearchDemandGet,
+  onRequestPost as onSearchDemandPost,
+} from '../../functions/api/admin/search-demand.ts';
+import { runGscRefresh, type D1Database } from '../../functions/_lib/gsc-refresh.ts';
 
 /**
  * Minimal local binding types. Deliberately hand-written rather than adding
@@ -46,6 +47,27 @@ interface Env {
     put(key: string, value: string, opts?: { expirationTtl?: number }): Promise<void>;
   };
   GSC_SERVICE_ACCOUNT_JSON?: string;
+  /**
+   * D-125 -- D1 binding for the live Search Console demand-engine
+   * snapshot store (mb-search-demand). See wrangler.jsonc's
+   * d1_databases entry and functions/_lib/gsc-refresh.ts.
+   */
+  DB?: D1Database;
+}
+
+/**
+ * Minimal local Cron Trigger types, same rationale as Env above: this repo
+ * doesn't depend on @cloudflare/workers-types, so the two ambient types
+ * scheduled() needs are hand-written here rather than pulled in wholesale.
+ */
+interface ScheduledController {
+  cron: string;
+  scheduledTime: number;
+}
+
+interface ExecutionContext {
+  waitUntil(promise: Promise<unknown>): void;
+  passThroughOnException(): void;
 }
 
 const ENQUIRY_PATH = '/api/enquiry';
@@ -58,9 +80,12 @@ const ENQUIRY_PATH = '/api/enquiry';
  * cycle (D-123) before this was caught -- every route under functions/
  * needs an explicit dispatch entry here, exactly like ENQUIRY_PATH below,
  * or it is unreachable in production regardless of how correct the
- * function file itself is. See D-124 for the full account.
+ * function file itself is. See D-124 for the full account. gsc-verify.ts
+ * itself is retired as of D-125 (its one job -- proving the credential
+ * worked -- is done; the live dashboard below supersedes it), so this
+ * lesson is applied to SEARCH_DEMAND_PATH instead, not repeated.
  */
-const GSC_VERIFY_PATH = '/api/admin/gsc-verify';
+const SEARCH_DEMAND_PATH = '/api/admin/search-demand';
 
 /**
  * v1.x CLOSURE WS3 -- www.marlbridge.com -> marlbridge.com, 301, single hop.
@@ -107,11 +132,33 @@ export default {
       );
     }
 
-    if (pathname === GSC_VERIFY_PATH || pathname === `${GSC_VERIFY_PATH}/`) {
-      if (request.method === 'GET') return onGscVerifyGet({ env });
-      return onGscVerifyMethodNotAllowed();
+    if (pathname === SEARCH_DEMAND_PATH || pathname === `${SEARCH_DEMAND_PATH}/`) {
+      if (request.method === 'GET') return onSearchDemandGet({ env, request });
+      if (request.method === 'POST') return onSearchDemandPost({ env });
+      return new Response(
+        JSON.stringify({ ok: false, message: 'Method not allowed.' }),
+        { status: 405, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' } },
+      );
     }
 
     return env.ASSETS.fetch(request);
+  },
+
+  /**
+   * D-125 -- Cron Trigger (see wrangler.jsonc's `triggers.crons`). Runs the
+   * same refresh logic as the dashboard's manual "Refresh now" button
+   * (functions/api/admin/search-demand.ts's onRequestPost) so there is one
+   * implementation of "how a refresh happens," not two -- see
+   * functions/_lib/gsc-refresh.ts's header comment for the full design
+   * rationale (window size, row caps, subrequest budget).
+   */
+  async scheduled(_controller: ScheduledController, env: Env, ctx: ExecutionContext): Promise<void> {
+    ctx.waitUntil(
+      runGscRefresh(env).then((result) => {
+        if (!result.ok) {
+          console.error('gsc scheduled refresh reported errors', JSON.stringify(result));
+        }
+      }),
+    );
   },
 };

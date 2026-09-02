@@ -40,5 +40,30 @@
 
   "observability": {
     "enabled": true
+  },
+
+  // D-125 -- Search Console demand-engine snapshot store. Created directly
+  // via the Cloudflare API (not through this file) on 2 Sep 2026; this
+  // binding just points the Worker at it. See functions/_lib/gsc-refresh.ts
+  // and functions/api/admin/search-demand.ts for what reads/writes it, and
+  // migrations/gsc-snapshots/0001_init.sql for the schema (already applied
+  // live -- that file exists for reproducibility, not as a pending step).
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "mb-search-demand",
+      "database_id": "f7e66215-e9f7-4aff-8b06-ceec0cfddd93"
+    }
+  ],
+
+  // D-125 -- daily refresh of the D1 snapshot store from the live Search
+  // Console API (functions/_lib/gsc-refresh.ts's runGscRefresh, also
+  // reachable manually via the dashboard's "Refresh now" button, POST
+  // /api/admin/search-demand). 04:17 UTC is arbitrary -- chosen off-peak
+  // and away from the top of the hour, not tied to any GSC data-processing
+  // schedule. One trigger, well under the Workers Free plan's 5-cron-
+  // trigger limit.
+  "triggers": {
+    "crons": ["17 4 * * *"]
   }
 }

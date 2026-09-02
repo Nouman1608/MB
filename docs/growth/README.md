@@ -29,6 +29,31 @@ of the programme brief. A future GSC API path, GA4 Data API path, or connector
 path (Supermetrics, if the owner authorizes it) should normalize into the same
 records and reuse the same scoring function — not fork the analysis logic.
 
+## Live-API path (D-125, 2 Sep 2026)
+
+A second ingestion path now exists alongside the CSV path below:
+`functions/_lib/gsc-refresh.ts` (Cron-triggered daily, and manually via the
+"Refresh now" button on `/admin/search-demand/`) pulls live data from the
+Search Console API into a Cloudflare D1 database (`mb-search-demand`), and
+`/admin/search-demand/` (`src/pages/admin/search-demand.astro` +
+`functions/api/admin/search-demand.ts`) renders it as a queryable,
+historical trend dashboard -- not just a point-in-time report. Both paths
+share the exact same scoring function (`scripts/growth/scoring.mjs`, moved
+out of `gsc-opportunity-report.mjs` for this purpose), per this document's
+own instruction below not to fork the analysis logic.
+
+This is a deliberate, explicit, owner-directed departure from this
+section's "not a build-time/production dependency" default (Section 44 of
+the original brief) -- the live path DOES now depend on production
+Cron/D1/Google-account access, on purpose, because the owner asked for "a
+live, queryable historical-trend dashboard (charts over time, not just
+latest report)" rather than the lighter CSV/report-only approach. See
+`docs/decision-log.md`, D-125, for the full account of that decision,
+including why it runs counter to this section's original principle rather
+than pretending it doesn't. The CSV path below is unaffected and still
+works standalone (e.g. for a one-off broader export the live path's row
+caps don't cover) -- this is an addition, not a replacement.
+
 ## Not a build-time dependency
 
 Nothing under `scripts/growth/` is imported by `astro.config.mjs`, the `build`

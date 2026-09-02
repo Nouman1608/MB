@@ -1,0 +1,344 @@
+---
+/**
+ * D-125 -- the live Search Console demand-engine dashboard.
+ *
+ * Search Intelligence & Demand-Led Growth Programme, GSC demand engine
+ * (originally scoped in the Flagship Dominance/Trust Programme, then
+ * picked up here). This is the live-API path docs/growth/README.md
+ * anticipated: a queryable historical-trend view, not just a one-off
+ * report, built on top of the same scoring function
+ * (scripts/growth/scoring.mjs) as the pre-existing CSV-import engine
+ * (npm run growth:gsc) -- see that file and D-125 in docs/decision-log.md
+ * for why this reuses rather than forks the analysis logic, and for the
+ * explicit, owner-directed departure from the Search Intelligence
+ * programme's original CSV-first/no-production-dependency default that
+ * building this represents.
+ *
+ * This page itself is a static shell -- `output: 'static'` (astro.config.mjs)
+ * means there is no server-rendered path to fetch D1 data at request time,
+ * so unlike /admin/practice-gaps/ (which is fully build-time), this page's
+ * numbers come from a client-side fetch to GET /api/admin/search-demand
+ * (functions/api/admin/search-demand.ts), which reads D1 live. The chart is
+ * a small hand-written inline SVG renderer, not a new charting dependency
+ * -- consistent with this repo's established pattern of not adding an npm
+ * package for one page's needs (see functions/api/enquiry.ts's Resend call,
+ * gsc-client.ts's hand-rolled JWT signing).
+ *
+ * Gating: unlisted only (noindex, excluded from the sitemap via
+ * astro.config.mjs's `/admin/` filter, not linked from anywhere) -- same
+ * convention as /admin/practice-gaps/. No authentication exists anywhere on
+ * this static site; see that page's own header comment for the full
+ * rationale.
+ *
+ * Read-only, human-in-the-loop: this page only ever reads Search Console
+ * data and displays it. The one write path (POST /api/admin/search-demand,
+ * the "Refresh now" button below) pulls fresh data from Google into this
+ * project's own D1 database -- it never modifies site content, and nothing
+ * here is wired to trigger any content change automatically.
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Section from '../../components/layout/Section.astro';
+import Container from '../../components/layout/Container.astro';
+---
+<BaseLayout
+  title="Search demand dashboard"
+  description="Internal: live Search Console demand-engine trend dashboard."
+  path="/admin/search-demand/"
+  noindex={true}
+>
+  <Section>
+    <Container>
+      <p class="mb-2 text-sm font-medium uppercase tracking-wide text-ink-mute">Internal — not linked from the site</p>
+      <div class="mb-3 flex flex-wrap items-center justify-between gap-3">
+        <h1 class="m-0 text-[28px] font-semibold text-navy-900">Search demand dashboard</h1>
+        <button
+          id="sd-refresh-btn"
+          type="button"
+          class="rounded-lg border border-rule bg-navy-900 px-4 py-2 text-sm font-medium text-white hover:bg-navy-700 disabled:cursor-not-allowed disabled:opacity-60"
+        >
+          Refresh now
+        </button>
+      </div>
+      <p class="mb-8 max-w-[68ch] text-navy-700">
+        Live data pulled from the Search Console API for <code>sc-domain:marlbridge.com</code> into this
+        project's own database, refreshed automatically once a day and on demand via the button above.
+        Opportunity scoring is the same deterministic, explainable function the CSV-import report uses
+        (<code>npm run growth:gsc</code>) — see <code>scripts/growth/scoring.mjs</code>. Nothing here is
+        fabricated or extrapolated: a section with no stored data says so plainly instead of guessing.
+      </p>
+
+      <div id="sd-status" class="mb-8 max-w-[68ch] rounded-lg border border-rule bg-ivory p-4 text-sm text-ink-mute">
+        Loading…
+      </div>
+
+      <div id="sd-content" hidden>
+        <div class="mb-10 grid grid-cols-1 gap-4 sm:grid-cols-3">
+          <div class="rounded-lg border border-rule bg-ivory p-4">
+            <p id="sd-stat-clicks" class="m-0 text-2xl font-semibold text-navy-900">—</p>
+            <p class="m-0 text-sm text-ink-mute">clicks, last 28 days</p>
+          </div>
+          <div class="rounded-lg border border-rule bg-ivory p-4">
+            <p id="sd-stat-impressions" class="m-0 text-2xl font-semibold text-navy-900">—</p>
+            <p class="m-0 text-sm text-ink-mute">impressions, last 28 days</p>
+          </div>
+          <div class="rounded-lg border border-rule bg-ivory p-4">
+            <p id="sd-stat-days" class="m-0 text-2xl font-semibold text-navy-900">—</p>
+            <p class="m-0 text-sm text-ink-mute">distinct days of stored data</p>
+          </div>
+        </div>
+
+        <div class="mb-12 border-t border-rule pt-8">
+          <h2 class="m-0 mb-4 text-xl font-semibold text-navy-900">Clicks &amp; impressions over time</h2>
+          <div id="sd-chart" class="overflow-x-auto"></div>
+          <p id="sd-chart-empty" class="text-sm text-ink-mute" hidden>
+            No stored snapshots yet for this window — click "Refresh now" above, or wait for tomorrow's
+            automatic refresh.
+          </p>
+        </div>
+
+        <div class="mb-12 border-t border-rule pt-8">
+          <div class="mb-4 flex flex-wrap items-baseline justify-between gap-2">
+            <h2 class="m-0 text-xl font-semibold text-navy-900">Query opportunities</h2>
+            <p id="sd-opp-count" class="m-0 text-sm text-ink-mute"></p>
+          </div>
+          <div class="overflow-x-auto">
+            <table class="w-full min-w-[640px] border-collapse text-sm">
+              <thead>
+                <tr class="border-b border-rule text-left text-ink-mute">
+                  <th class="py-1.5 pr-4 font-medium">Query</th>
+                  <th class="py-1.5 pr-4 font-medium">Clicks</th>
+                  <th class="py-1.5 pr-4 font-medium">Impressions</th>
+                  <th class="py-1.5 pr-4 font-medium">CTR</th>
+                  <th class="py-1.5 pr-4 font-medium">Position</th>
+                  <th class="py-1.5 pr-4 font-medium">Type</th>
+                  <th class="py-1.5 pr-4 font-medium">Priority</th>
+                  <th class="py-1.5 font-medium">Reason</th>
+                </tr>
+              </thead>
+              <tbody id="sd-opp-body"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="mb-12 border-t border-rule pt-8">
+          <h2 class="m-0 mb-4 text-xl font-semibold text-navy-900">Page performance</h2>
+          <div class="overflow-x-auto">
+            <table class="w-full min-w-[480px] border-collapse text-sm">
+              <thead>
+                <tr class="border-b border-rule text-left text-ink-mute">
+                  <th class="py-1.5 pr-4 font-medium">Page</th>
+                  <th class="py-1.5 pr-4 font-medium">Clicks</th>
+                  <th class="py-1.5 pr-4 font-medium">Impressions</th>
+                  <th class="py-1.5 pr-4 font-medium">CTR</th>
+                  <th class="py-1.5 font-medium">Position</th>
+                </tr>
+              </thead>
+              <tbody id="sd-pages-body"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="border-t border-rule pt-8">
+          <h2 class="m-0 mb-4 text-xl font-semibold text-navy-900">Refresh log</h2>
+          <div class="overflow-x-auto">
+            <table class="w-full min-w-[480px] border-collapse text-sm">
+              <thead>
+                <tr class="border-b border-rule text-left text-ink-mute">
+                  <th class="py-1.5 pr-4 font-medium">Run at</th>
+                  <th class="py-1.5 pr-4 font-medium">Window</th>
+                  <th class="py-1.5 pr-4 font-medium">Dimension</th>
+                  <th class="py-1.5 pr-4 font-medium">Rows</th>
+                  <th class="py-1.5 font-medium">Status</th>
+                </tr>
+              </thead>
+              <tbody id="sd-log-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <p class="mt-8 max-w-[68ch] text-xs text-ink-mute">
+        Row caps and window sizes (per-run: last 7 days re-fetched, up to 200 rows/day/dimension) are
+        documented in <code>functions/_lib/gsc-refresh.ts</code>. This is a real cap, not a claim of
+        exhaustive coverage — see that file for why the caps were set where they are.
+      </p>
+    </Container>
+  </Section>
+</BaseLayout>
+
+<script>
+  const API_PATH = '/api/admin/search-demand';
+
+  const statusEl = document.getElementById('sd-status')!;
+  const contentEl = document.getElementById('sd-content')!;
+  const refreshBtn = document.getElementById('sd-refresh-btn') as HTMLButtonElement;
+
+  function fmt(n: number | null | undefined): string {
+    if (n === null || n === undefined) return '—';
+    return Math.round(n).toLocaleString('en-GB');
+  }
+  function fmtPct(n: number | null | undefined): string {
+    if (n === null || n === undefined) return '—';
+    return (n * 100).toFixed(2) + '%';
+  }
+  function fmtPos(n: number | null | undefined): string {
+    if (n === null || n === undefined) return '—';
+    return n.toFixed(1);
+  }
+  function esc(s: string): string {
+    const d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  function renderChart(rows: Array<{ date: string; clicks: number; impressions: number }>): string {
+    if (rows.length === 0) return '';
+    const width = Math.max(600, rows.length * 14);
+    const height = 220;
+    const padding = { top: 10, right: 10, bottom: 24, left: 44 };
+    const plotW = width - padding.left - padding.right;
+    const plotH = height - padding.top - padding.bottom;
+
+    const maxImpressions = Math.max(1, ...rows.map((r) => r.impressions));
+    const maxClicks = Math.max(1, ...rows.map((r) => r.clicks));
+    const maxVal = Math.max(maxImpressions, maxClicks);
+
+    const x = (i: number) => padding.left + (rows.length === 1 ? plotW / 2 : (i / (rows.length - 1)) * plotW);
+    const y = (v: number) => padding.top + plotH - (v / maxVal) * plotH;
+
+    const impressionsPath = rows.map((r, i) => `${i === 0 ? 'M' : 'L'} ${x(i).toFixed(1)} ${y(r.impressions).toFixed(1)}`).join(' ');
+    const clicksPath = rows.map((r, i) => `${i === 0 ? 'M' : 'L'} ${x(i).toFixed(1)} ${y(r.clicks).toFixed(1)}`).join(' ');
+
+    const everyNth = Math.max(1, Math.ceil(rows.length / 10));
+    const labels = rows
+      .map((r, i) => (i % everyNth === 0 || i === rows.length - 1 ? `<text x="${x(i).toFixed(1)}" y="${height - 6}" font-size="10" fill="#6b6f76" text-anchor="middle">${r.date.slice(5)}</text>` : ''))
+      .join('');
+
+    return `<svg viewBox="0 0 ${width} ${height}" width="${width}" height="${height}" role="img" aria-label="Clicks and impressions over time">
+      <line x1="${padding.left}" y1="${padding.top}" x2="${padding.left}" y2="${padding.top + plotH}" stroke="#d8d5cd" />
+      <line x1="${padding.left}" y1="${padding.top + plotH}" x2="${width - padding.right}" y2="${padding.top + plotH}" stroke="#d8d5cd" />
+      <text x="4" y="${padding.top + 4}" font-size="10" fill="#6b6f76">${fmt(maxVal)}</text>
+      <text x="4" y="${padding.top + plotH}" font-size="10" fill="#6b6f76">0</text>
+      <path d="${impressionsPath}" fill="none" stroke="#9aa5b1" stroke-width="2" />
+      <path d="${clicksPath}" fill="none" stroke="#1f3a5f" stroke-width="2" />
+      ${labels}
+    </svg>
+    <div class="mt-2 flex gap-4 text-xs text-ink-mute">
+      <span><span style="display:inline-block;width:10px;height:10px;background:#1f3a5f;margin-right:4px;"></span>Clicks</span>
+      <span><span style="display:inline-block;width:10px;height:10px;background:#9aa5b1;margin-right:4px;"></span>Impressions</span>
+    </div>`;
+  }
+
+  async function load() {
+    statusEl.hidden = false;
+    statusEl.textContent = 'Loading…';
+    contentEl.hidden = true;
+
+    let data: any;
+    try {
+      const res = await fetch(API_PATH, { headers: { Accept: 'application/json' } });
+      data = await res.json();
+      if (!res.ok || !data.ok) throw new Error(data.message || `HTTP ${res.status}`);
+    } catch (err) {
+      statusEl.textContent = `Could not load dashboard data: ${err instanceof Error ? err.message : String(err)}`;
+      return;
+    }
+
+    const dbRange = data.dbRange || {};
+    if (!dbRange.minDate) {
+      statusEl.textContent = 'No stored snapshots yet. Click "Refresh now" above to pull the first batch from Search Console, or wait for tomorrow\'s automatic refresh.';
+      return;
+    }
+
+    statusEl.hidden = true;
+    contentEl.hidden = false;
+
+    const trendRows = (data.trend?.rows || []) as Array<{ date: string; clicks: number; impressions: number }>;
+    // Total clicks/impressions for the stat cards come from the trend
+    // series restricted to the last 28 days, not the opportunities list
+    // (which only includes non-LOW_PRIORITY queries) -- sum trendRows'
+    // last 28 entries directly for an accurate site-wide total.
+    const last28 = trendRows.slice(-28);
+    const sumClicks = last28.reduce((s, r) => s + (r.clicks || 0), 0);
+    const sumImpressions = last28.reduce((s, r) => s + (r.impressions || 0), 0);
+
+    document.getElementById('sd-stat-clicks')!.textContent = fmt(sumClicks);
+    document.getElementById('sd-stat-impressions')!.textContent = fmt(sumImpressions);
+    document.getElementById('sd-stat-days')!.textContent = fmt(dbRange.distinctDays);
+
+    const chartEl = document.getElementById('sd-chart')!;
+    const chartEmptyEl = document.getElementById('sd-chart-empty')!;
+    if (trendRows.length === 0) {
+      chartEl.innerHTML = '';
+      chartEmptyEl.hidden = false;
+    } else {
+      chartEmptyEl.hidden = true;
+      chartEl.innerHTML = renderChart(trendRows);
+    }
+
+    const oppRows = (data.opportunities?.rows || []) as any[];
+    document.getElementById('sd-opp-count')!.textContent = `${oppRows.length} shown, window: last ${data.opportunities?.windowDays ?? 28} days`;
+    document.getElementById('sd-opp-body')!.innerHTML = oppRows
+      .map(
+        (r) => `<tr class="border-b border-rule">
+          <td class="py-1.5 pr-4 align-top text-navy-900">${esc(r.query)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${fmt(r.clicks)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${fmt(r.impressions)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${fmtPct(r.ctr)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${fmtPos(r.position)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${esc(r.opportunityType)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${esc(r.priority)}</td>
+          <td class="py-1.5 align-top text-ink-mute">${esc(r.reason)}</td>
+        </tr>`,
+      )
+      .join('') || '<tr><td colspan="8" class="py-3 text-ink-mute">No qualifying opportunities in the stored window yet.</td></tr>';
+
+    const pageRows = (data.pages?.rows || []) as any[];
+    document.getElementById('sd-pages-body')!.innerHTML = pageRows
+      .map(
+        (r) => `<tr class="border-b border-rule">
+          <td class="py-1.5 pr-4 align-top text-navy-900">${esc(r.key)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${fmt(r.clicks)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${fmt(r.impressions)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${fmtPct(r.ctr)}</td>
+          <td class="py-1.5 align-top text-navy-700">${fmtPos(r.position)}</td>
+        </tr>`,
+      )
+      .join('') || '<tr><td colspan="5" class="py-3 text-ink-mute">No stored page data yet.</td></tr>';
+
+    const logRows = (data.refreshLog || []) as any[];
+    document.getElementById('sd-log-body')!.innerHTML = logRows
+      .map(
+        (r) => `<tr class="border-b border-rule">
+          <td class="py-1.5 pr-4 align-top text-navy-900">${esc(r.run_at)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${esc(r.date_range_start)} → ${esc(r.date_range_end)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${esc(r.dimension)}</td>
+          <td class="py-1.5 pr-4 align-top text-navy-700">${fmt(r.row_count)}</td>
+          <td class="py-1.5 align-top ${r.status === 'ok' ? 'text-success' : 'text-red-700'}">${esc(r.status)}${r.detail ? ' — ' + esc(r.detail) : ''}</td>
+        </tr>`,
+      )
+      .join('') || '<tr><td colspan="5" class="py-3 text-ink-mute">No refresh runs recorded yet.</td></tr>';
+  }
+
+  refreshBtn.addEventListener('click', async () => {
+    refreshBtn.disabled = true;
+    refreshBtn.textContent = 'Refreshing…';
+    try {
+      const res = await fetch(API_PATH, { method: 'POST' });
+      const result = await res.json();
+      if (!res.ok || !result.ok) {
+        // eslint-disable-next-line no-alert
+        alert(`Refresh finished with errors — see the refresh log below.\n${JSON.stringify(result, null, 2).slice(0, 500)}`);
+      }
+    } catch (err) {
+      // eslint-disable-next-line no-alert
+      alert(`Refresh request failed: ${err instanceof Error ? err.message : String(err)}`);
+    } finally {
+      refreshBtn.disabled = false;
+      refreshBtn.textContent = 'Refresh now';
+      await load();
+    }
+  });
+
+  load();
+</script>
