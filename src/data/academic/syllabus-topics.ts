@@ -1837,7 +1837,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Level Business specification PDF (YBS11 / XBS11), Issue 1, September 2017',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Business/2017/specification-and-sample-assessments/international-a-level-business-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'Pearson Edexcel International Advanced Level Business is a modular qualification: International AS (units 1-2, code XBS11) and the full International A Level (units 1-4, code YBS11). Unit 1 (Marketing and people) subtopics reproduce the specification\'s own section 1.3.1-1.3.5 sub-headings, fetched and verified 2026-08-21 from the full specification PDF; Units 2-4 remain topic-name-only pending the same fetch for their content.',
+    notes: 'Pearson Edexcel International Advanced Level Business is a modular qualification: International AS (units 1-2, code XBS11) and the full International A Level (units 1-4, code YBS11). Unit 1 (Marketing and people) subtopics reproduce the specification\'s own section 1.3.1-1.3.5 sub-headings, fetched and verified 2026-08-21 from the full specification PDF. Unit 2 (Managing business activities) subtopics 2.3.1-2.3.3 reproduce the same specification PDF\'s own sub-headings, fetched and verified 2026-09-02. Units 3-4 remain topic-name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Marketing and people', slug: 'marketing-and-people-edexcel-alevel-business', stage: 'AS', subtopics: [
         { number: '1.3.1', name: 'Meeting customer needs', slug: 'meeting-customer-needs-ybs11' },
@@ -1846,7 +1846,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.3.4', name: 'Managing people', slug: 'managing-people-ybs11' },
         { number: '1.3.5', name: 'Entrepreneurs and leaders', slug: 'entrepreneurs-and-leaders-ybs11' },
       ] },
-      { number: 2, name: 'Managing business activities', slug: 'managing-business-activities-edexcel-alevel-business', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Managing business activities', slug: 'managing-business-activities-edexcel-alevel-business', stage: 'AS', subtopics: [
+        { number: '2.3.1', name: 'Planning a business and raising finance', slug: 'planning-and-raising-finance-ybs11' },
+        { number: '2.3.2', name: 'Financial planning', slug: 'financial-planning-ybs11' },
+        { number: '2.3.3', name: 'Managing finance', slug: 'managing-finance-ybs11' },
+      ] },
       { number: 3, name: 'Business decisions and strategy', slug: 'business-decisions-and-strategy-edexcel-alevel-business', stage: 'A', subtopics: [] },
       { number: 4, name: 'Global business', slug: 'global-business-edexcel-alevel-business', stage: 'A', subtopics: [] },
     ],
@@ -3298,7 +3302,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification', verifiedDate: '2026-08-19',
-    notes: 'Two equally-weighted papers, no coursework. Paper 1 (Cognition and Behaviour) content cross-checked against the full specification PDF (Version 1.1, 14 October 2021), fetched and verified 2026-08-21.',
+    notes: 'Two equally-weighted papers, no coursework. Paper 1 (Cognition and Behaviour) content cross-checked against the full specification PDF (Version 1.1, 14 October 2021), fetched and verified 2026-08-21. Paper 2 (Social Context and Behaviour) subtopic detail -- Social Influence, Language/Thought/Communication, Brain and Neuropsychology, Psychological Problems -- verified directly against the official AQA subject-content page (aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification/subject-content/social-context-and-behaviour), fetched 2026-09-02.',
     topics: [
       { number: 1, name: 'Paper 1 – Cognition and Behaviour', slug: 'paper-1-cognition-and-behaviour-8182', subtopics: [
         { number: '1.1', name: 'Memory', slug: 'memory-8182' },
