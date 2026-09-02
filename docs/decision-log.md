@@ -6226,3 +6226,98 @@ filled.
 - **Status:** sub-batch 3 of this run's depth batch, continuing from D-120/D-121. This is the
   final sub-batch of this run -- see the run's completion report for the overall total against
   the 50-resource target and the reason for stopping short.
+
+## D-123 — GSC demand engine, §33-36: credential setup + smallest-possible live-API verification endpoint (and a real overlap this session found)
+
+- **Date:** 2026-09-02.
+- **Baseline note:** originally drafted as D-120 against the `478cd1f` tip. The
+  `marlbridge-weekly-study-guides` automation was actively committing every few minutes while this
+  work was in flight and independently claimed D-120 through D-122 for unrelated content across
+  three separate rebases (`2f47551`/`c8ea913`, then `c8ea913`/`5ab64ab` -- see those commits'
+  own messages, each citing the D-number they claimed). Renumbered to D-123, the actual next free
+  number as of the final rebase, rather than force a collision. If the owner applies this after
+  yet another automation run lands, the number may need bumping once more at merge time -- check
+  `grep -o '^## D-[0-9]*' docs/decision-log.md | tail -1` before merging, not this entry's word
+  for what's free.
+- **Context:** Flagship Dominance/Trust programme §33-36 ("Search Console demand engine"). A
+  handoff brief for this item (written earlier the same day, before this entry) established that
+  D-078 (WS20, 2026-08-29) and this programme's Phase 7 (2026-09-01) were both one-time manual GSC
+  reviews, not reusable tooling, and that no Google Search Console API credentials existed anywhere
+  this session could reach. The brief proposed building a from-scratch demand engine: Cloudflare
+  Worker Cron refresh, D1 storage, a shared computation module, a CLI report, and a gated
+  `/admin/search-demand/` dashboard, gated on first getting real API access.
+- **Credential setup (owner-performed, not this session):** the owner created a dedicated GCP
+  project (`ace-axon-507414-r0`), enabled the Search Console API, created a service account
+  (`gsc-marlbridge-readonly@ace-axon-507414-r0.iam.gserviceaccount.com`), and added it as a
+  **Restricted** user on the `sc-domain:marlbridge.com` Search Console property (already
+  DNS-verified per D-003). The owner then stored the downloaded service-account JSON key as a
+  Cloudflare Worker secret (`GSC_SERVICE_ACCOUNT_JSON`) on the `mb` Worker, confirmed present via
+  the Cloudflare dashboard (Settings -> Variables and secrets, type Secret, value shown encrypted).
+  This session never saw the private key or any credential value at any point -- by design, not
+  because it wasn't offered.
+- **Real finding, not in the original brief: a reusable GSC demand engine already exists in this
+  repo**, built by a different, ACTIVE programme (Search Intelligence & Demand-Led Growth
+  Programme, `docs/programme-register.md` row 23) that the Flagship brief's own "no demand-engine
+  code exists" grep missed. Confirmed by reading the actual files, not assuming from the docs
+  alone:
+  - `scripts/growth/gsc-opportunity-report.mjs` -- deterministic, explainable opportunity scoring
+    (QUICK_WIN / CTR_OPPORTUNITY / NEAR_PAGE_ONE / EMERGING_DEMAND / etc.), already run against a
+    **real** owner-supplied Search Console Performance export on 2026-09-02
+    (`docs/growth/README.md`'s "Update, 2 Sep 2026: real Performance data ingested": 1,000 queries
+    classified, 1 CTR_OPPORTUNITY, 7 EMERGING_DEMAND, 992 LOW_PRIORITY, no HIGH-priority
+    opportunities that window -- the underlying report itself is correctly gitignored under
+    `.growth-private/`, per that programme's own policy against committing real GSC data).
+  - `scripts/growth/types.mjs` -- the normalized `SearchPerformanceRecord` shape the scoring
+    function consumes, explicitly designed so a future import path (live API, GA4, a connector)
+    "should normalize into the same records and reuse the same scoring function -- not fork the
+    analysis logic" (`docs/growth/README.md`).
+  - `docs/growth/authority-practice-tools-growth-reconciliation-2026-09-02.md` already reconciled
+    D-078/WS20 against this newer tooling directly: "Does not overlap ... a different, reusable
+    artifact built under the newer Search Intelligence programme."
+  - `docs/programme-register.md`'s own governance rule: "Before starting new work on this repo,
+    read this file. If a workstream you're about to start overlaps a row above marked ACTIVE ...
+    don't restart work already recorded here." Row 23 (Search Intelligence & Demand-Led Growth
+    Programme) is ACTIVE and explicitly owns "GSC demand-engine tooling."
+  - This was surfaced to the owner directly before any storage/dashboard work was built, since
+    building a second, parallel Worker+D1 system would duplicate this programme's work and
+    contradict its own stated architecture. **Not yet resolved which path the owner wants** --
+    see "Open question" below.
+- **What shipped this entry, scoped deliberately small:** `functions/api/admin/gsc-verify.ts`, a
+  temporary, verification-only Cloudflare Pages Function. It signs a Google service-account JWT
+  with the Workers runtime's native WebCrypto (`crypto.subtle`, RS256 -- no new npm dependency,
+  matching `functions/api/enquiry.ts`'s established pattern), exchanges it for an OAuth access
+  token, and runs the smallest possible read-only `searchAnalytics.query` request against
+  `sc-domain:marlbridge.com` (1 dimension, `rowLimit: 1`, a 7-day window). It returns only
+  connectivity metadata (row count, requested date range/dimensions, one sample row) -- no
+  storage, no schedule, no dashboard. Gated the same way `/admin/practice-gaps/` is gated
+  (unlisted, not linked anywhere, no auth layer exists on this static site) -- explicitly flagged
+  in the file's own header comment as weaker than ideal for an endpoint that triggers a real
+  external API call on every hit, and marked for removal or tighter gating once its one job (prove
+  the credential works) is done, not left as a permanent feature.
+- **Explicitly NOT done, on the owner's own instruction:** no D1 database created, no Cron
+  Trigger, no `/admin/search-demand/` dashboard, no CLI report script. The owner's instructions for
+  this round were explicit: nothing past the smallest possible live-API verification request until
+  that request is confirmed to return real data.
+- **Validation gate, run in full against this change:** `npx astro check` (0 errors, 0 warnings, 16
+  pre-existing hints unrelated to this file -- `functions/api/admin/gsc-verify.ts` itself produced
+  zero errors/warnings/hints), `npm run validate:academic` (all sub-checks PASS), `npm run build`
+  (1504 pages built clean), `npm run audit:all` (all 11 checks PASS, 0 problems), `node
+  scripts/test-negative-validation-suite.mjs` (32/32 passed), `npm audit --omit=dev` (0
+  vulnerabilities), `node --experimental-strip-types --test functions/api/__tests__/*.test.mjs`
+  (31/31 passed -- no new tests added for the temporary verification endpoint itself, a deliberate
+  scope call given its throwaway nature and that its real logic is an external HTTP/crypto
+  integration rather than pure business logic).
+- **Not yet done, and explicitly not fabricated:** the live verification request itself has not
+  been run yet as of this entry -- it requires the code above to actually be deployed (via this
+  session's bundle-only delivery process) before `GET /api/admin/gsc-verify` can be hit for real.
+  No GSC numbers of any kind are claimed as verified in this entry.
+- **Open question for the owner, unresolved:** whether the real, ongoing demand-engine work (once
+  live-API access is confirmed) should extend `scripts/growth/` with an API-based
+  `SearchPerformanceRecord` source feeding the existing scoring function (consistent with that
+  programme's own stated architecture and this repo's governance rule), or proceed with the
+  originally-scoped Worker+D1+dashboard system regardless of the overlap. Not decided in this
+  entry -- flagged for the owner before any further build.
+- **Status:** credentials configured and gated correctly (Search Console Restricted user + 
+  Cloudflare Worker secret, both owner-performed). Verification endpoint written, gated, and gate-
+  clean, not yet deployed or exercised. Architecture question open. No storage/dashboard/automation
+  built.
