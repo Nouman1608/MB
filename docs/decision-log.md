@@ -6061,3 +6061,59 @@ account of WS-A's session-internal reasoning beyond what those commits themselve
 remains genuinely unknowable to this session, and is not asserted here. Written retrospectively, five
 days after the fact, on the owner's explicit instruction, to close a gap `251d8d9` referenced but never
 filled.
+
+## D-119 — Completed the D-048 duplicate-merge that was never actually executed
+
+- **Date:** 2026-09-02.
+- **Trigger:** the weekly `marlbridge-weekly-study-guides` scheduled task ran
+  `node scripts/check-duplicate-resource-scope.mjs` as gate step 9 (a warning-only step for that
+  task) and it reported the same 2 unreviewed FAIL groups it has apparently been reporting since
+  D-048 (2026-08-26) supposedly fixed them: a Law A-Level revision-notes pair and a Sociology
+  IGCSE revision-notes pair, both Cambridge. The owner then asked directly to fix them.
+- **What investigation found:** D-048's own entry states both pairs were "real duplicates,"
+  merged with the fuller file kept as canonical and the weaker file "retired" and
+  "301-redirected via `CONSOLIDATED_RESOURCES`." Checking the actual commit that landed D-048
+  (`583d806`, titled "v1.x Closure WS9 (recovered): ...", 2026-08-26) shows it modified
+  `a-law-english-legal-system-revision-notes.md` and
+  `igcse-sociology-methods-inequality-revision-notes.md` (merging in the gap content, confirmed
+  present in both today) and updated the two practice-questions siblings' "Related:" links to
+  point at those canonical slugs -- but it never touched, and never deleted,
+  `law-english-legal-system-revision-notes.md` or `sociology-research-methods-revision-notes.md`
+  at all. `git log --diff-filter=AD` on both confirms a single commit each (their original
+  2026-08-22 creation) and no deletion event, ever. `CONSOLIDATED_RESOURCES` in
+  `scripts/generate-redirects.mjs` never gained the two corresponding entries either. The commit
+  message's "(recovered)" and the 1,090-line reduction to `docs/decision-log.md` in the same
+  commit suggest this was a reconstruction of a previous session's work after some kind of loss --
+  the reconstruction correctly recreated the content-merge and the checker/allow-list changes, but
+  the actual file deletion and redirect-map entries for these two specific files were missed. Net
+  effect: both "retired" pages stayed live, unredirected, and duplicate-scoped for roughly a week.
+- **Re-verified both pairs are genuine duplicates, not just coarse-tag overlap**, before touching
+  anything (re-deriving the judgement independently rather than trusting D-048's word alone):
+  - Law: both revision-notes files share word-for-word identical passages (the seven-stage
+    legislative-process ASCII diagram; the *ejusdem generis* "cars, vans, lorries and other
+    vehicles"/bicycle example) and cover the same four sections (sources of law, legislative
+    process, judicial precedent, statutory interpretation) with near-identical content.
+    `a-law-english-legal-system-revision-notes.md` is strictly fuller -- it additionally covers
+    Court structure and Legal personnel, entirely absent from the other file -- and is already the
+    slug both practice-questions siblings link to.
+  - Sociology: both revision-notes files share a word-for-word identical "Perspectives in one
+    line each" section (Functionalism/Marxism/Feminism/Interactionism) and near-identical methods
+    tables and sampling content. `igcse-sociology-methods-inequality-revision-notes.md` is
+    strictly fuller -- it additionally covers Culture/identity/socialisation and the full
+    Inequality section (class, gender, ethnicity), entirely absent from the other file despite
+    that file's own title claiming to cover "Identity and Inequality."
+- **Fix applied:** deleted `law-english-legal-system-revision-notes.md` and
+  `sociology-research-methods-revision-notes.md` (no unique content lost -- both were strict
+  subsets of their surviving siblings, already confirmed complete). Added both slugs to
+  `CONSOLIDATED_RESOURCES` in `scripts/generate-redirects.mjs`, 301-redirecting to
+  `a-law-english-legal-system-revision-notes` and `igcse-sociology-methods-inequality-revision-notes`
+  respectively. Confirmed no other file in the repo referenced either retired slug (the two
+  practice-questions siblings already pointed at the correct surviving slugs, from the original
+  D-048 commit).
+- **Verification:** `npm run check:duplicate-scope` now reports `PASS: every group sharing an
+  identical official syllabus scope is reviewed and allow-listed above`, zero unreviewed FAIL
+  groups (down from 2). Full validation gate (`npx astro check`, `npm run validate:academic`,
+  `npm run build`, cross-board regression, negative-validation suite, API tests, `npm audit`) run
+  clean after this change.
+- **Status:** both duplicate pages actually removed and redirected this time. No further action
+  needed on these two groups; `check:duplicate-scope` is clean.

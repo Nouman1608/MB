@@ -777,7 +777,6 @@
 /resources/practice-questions/kinematics-practice/        /resources/kinematics-practice/  301
 /resources/revision-notes/kinematics-revision-notes/      /resources/kinematics-revision-notes/  301
 /resources/practice-questions/law-english-legal-system-practice/  /resources/law-english-legal-system-practice/  301
-/resources/revision-notes/law-english-legal-system-revision-notes/  /resources/law-english-legal-system-revision-notes/  301
 /resources/practice-questions/mathematics-graphs-curves-practice/  /resources/mathematics-graphs-curves-practice/  301
 /resources/revision-notes/mathematics-graphs-curves-revision-notes/  /resources/mathematics-graphs-curves-revision-notes/  301
 /resources/practice-questions/measurement-and-density-practice/  /resources/measurement-and-density-practice/  301
@@ -937,7 +936,6 @@
 /resources/practice-questions/sequences-and-proportion-practice/  /resources/sequences-and-proportion-practice/  301
 /resources/revision-notes/sequences-and-proportion-revision-notes/  /resources/sequences-and-proportion-revision-notes/  301
 /resources/practice-questions/sociology-research-methods-practice/  /resources/sociology-research-methods-practice/  301
-/resources/revision-notes/sociology-research-methods-revision-notes/  /resources/sociology-research-methods-revision-notes/  301
 /resources/study-guides/states-of-matter-and-kinetic-particle-theory/  /resources/states-of-matter-and-kinetic-particle-theory/  301
 /resources/practice-questions/states-of-matter-practice/  /resources/states-of-matter-practice/  301
 /resources/revision-notes/states-of-matter-revision-notes/  /resources/states-of-matter-revision-notes/  301
@@ -1354,6 +1352,22 @@
 /resources/exam-preparation/the-basic-economic-problem-revision-notes/  /resources/igcse-economics-basic-problem-revision-notes/  301
 /resources/subject-guides/the-basic-economic-problem-revision-notes/  /resources/igcse-economics-basic-problem-revision-notes/  301
 /resources/learning-articles/the-basic-economic-problem-revision-notes/  /resources/igcse-economics-basic-problem-revision-notes/  301
+/resources/law-english-legal-system-revision-notes/       /resources/a-law-english-legal-system-revision-notes/  301
+/resources/study-guides/law-english-legal-system-revision-notes/  /resources/a-law-english-legal-system-revision-notes/  301
+/resources/revision-notes/law-english-legal-system-revision-notes/  /resources/a-law-english-legal-system-revision-notes/  301
+/resources/past-papers/law-english-legal-system-revision-notes/  /resources/a-law-english-legal-system-revision-notes/  301
+/resources/practice-questions/law-english-legal-system-revision-notes/  /resources/a-law-english-legal-system-revision-notes/  301
+/resources/exam-preparation/law-english-legal-system-revision-notes/  /resources/a-law-english-legal-system-revision-notes/  301
+/resources/subject-guides/law-english-legal-system-revision-notes/  /resources/a-law-english-legal-system-revision-notes/  301
+/resources/learning-articles/law-english-legal-system-revision-notes/  /resources/a-law-english-legal-system-revision-notes/  301
+/resources/sociology-research-methods-revision-notes/     /resources/igcse-sociology-methods-inequality-revision-notes/  301
+/resources/study-guides/sociology-research-methods-revision-notes/  /resources/igcse-sociology-methods-inequality-revision-notes/  301
+/resources/revision-notes/sociology-research-methods-revision-notes/  /resources/igcse-sociology-methods-inequality-revision-notes/  301
+/resources/past-papers/sociology-research-methods-revision-notes/  /resources/igcse-sociology-methods-inequality-revision-notes/  301
+/resources/practice-questions/sociology-research-methods-revision-notes/  /resources/igcse-sociology-methods-inequality-revision-notes/  301
+/resources/exam-preparation/sociology-research-methods-revision-notes/  /resources/igcse-sociology-methods-inequality-revision-notes/  301
+/resources/subject-guides/sociology-research-methods-revision-notes/  /resources/igcse-sociology-methods-inequality-revision-notes/  301
+/resources/learning-articles/sociology-research-methods-revision-notes/  /resources/igcse-sociology-methods-inequality-revision-notes/  301
 
 # Removed resource-type indexes -> anchored section on the resources page
 /resources/study-guides/                                  /resources/#study-guides  301

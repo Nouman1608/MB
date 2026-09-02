@@ -108,6 +108,16 @@ const CONSOLIDATED_RESOURCES = {
   'population-and-settlement-revision-notes': 'igcse-geography-population-settlement-revision-notes',
   'psychology-approaches-and-debates-revision-notes': 'a-psychology-approaches-revision-notes',
   'the-basic-economic-problem-revision-notes': 'igcse-economics-basic-problem-revision-notes',
+
+  // --- D-119 fix-up, 2026-09-02: complete the D-048 merge that was never
+  // actually executed for these two files. D-048 (2026-08-26) recorded
+  // both as "retired" and "301-redirected via CONSOLIDATED_RESOURCES", but
+  // the commit that landed D-048's other changes (583d806) never actually
+  // deleted these two .md files or added these two map entries -- they
+  // remained live, unredirected duplicate pages for a week until this
+  // fix-up. See docs/decision-log.md D-119 for the full account. ---
+  'law-english-legal-system-revision-notes': 'a-law-english-legal-system-revision-notes',
+  'sociology-research-methods-revision-notes': 'igcse-sociology-methods-inequality-revision-notes',
 };
 
 /**
