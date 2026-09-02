@@ -4659,7 +4659,56 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ],
     },
     ],
-  },] as const;
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'chemistry',
+    syllabusCode: 'DP Chemistry', syllabusSeries: 'First assessment 2025',
+    effectiveFrom: '2025', effectiveTo: 'current', status: 'current',
+    tiered: false,
+    source: 'International Baccalaureate Organization, Diploma Programme Subject Brief -- Sciences: Chemistry, first assessment 2025, published January 2022',
+    sourceUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/dp_sciences_chemistry_subject-brief_jan_2022_e.pdf',
+    verifiedDate: '2026-09-02',
+    notes: 'Owner confirmed 2026-08-22 (see the DP Economics entry above) that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of IB curriculum material; this note is repeated per-entry since each IB subject was added independently. Six syllabus components (Structure 1-3, Reactivity 1-3) with every numbered sub-topic (Structure 1.1-1.5, 2.1-2.4, 3.1-3.2; Reactivity 1.1-1.4, 2.1-2.3, 3.1-3.4) transcribed directly from the subject brief\'s own curriculum-model table, fetched and read in full 2026-09-02. This is the public subject brief, not the complete (Programme Resource Centre-only) subject guide, but it reproduces genuine official sub-topic numbering, unlike the bullet-only briefs for some other IB subjects -- see this file\'s notes on Biology and Psychology below for the distinction. Weekly study-guides run (2026-09-02): new resource this run covers Structure 1 (Models of the particulate nature of matter) at SL depth, with Reactivity 1.4 (Entropy and spontaneity) noted in the brief as the sole HL-only addition within these six components.',
+    topics: [
+      { number: 1, name: 'Structure 1 -- Models of the particulate nature of matter', slug: 'ib-dp-chemistry-structure-1', subtopics: [
+        { number: '1.1', name: 'Introduction to the particulate nature of matter', slug: 'ib-dp-chemistry-structure-1-1' },
+        { number: '1.2', name: 'The nuclear atom', slug: 'ib-dp-chemistry-structure-1-2' },
+        { number: '1.3', name: 'Electron configurations', slug: 'ib-dp-chemistry-structure-1-3' },
+        { number: '1.4', name: 'Counting particles by mass: The mole', slug: 'ib-dp-chemistry-structure-1-4' },
+        { number: '1.5', name: 'Ideal gases', slug: 'ib-dp-chemistry-structure-1-5' },
+      ] },
+      { number: 2, name: 'Structure 2 -- Models of bonding and structure', slug: 'ib-dp-chemistry-structure-2', subtopics: [] },
+      { number: 3, name: 'Structure 3 -- Classification of matter', slug: 'ib-dp-chemistry-structure-3', subtopics: [] },
+      { number: 4, name: 'Reactivity 1 -- What drives chemical reactions?', slug: 'ib-dp-chemistry-reactivity-1', subtopics: [] },
+      { number: 5, name: 'Reactivity 2 -- How much, how fast and how far?', slug: 'ib-dp-chemistry-reactivity-2', subtopics: [] },
+      { number: 6, name: 'Reactivity 3 -- What are the mechanisms of chemical change?', slug: 'ib-dp-chemistry-reactivity-3', subtopics: [] },
+    ],
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'computer-science',
+    syllabusCode: 'DP Computer Science', syllabusSeries: 'First assessment 2027',
+    effectiveFrom: '2027', effectiveTo: 'current', status: 'current',
+    tiered: false,
+    source: 'International Baccalaureate Organization, Diploma Programme Subject Brief -- Sciences: Computer science, first assessment 2027, © 2024',
+    sourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp_comp_sci_subjectbrief_en.pdf',
+    verifiedDate: '2026-09-02',
+    notes: 'Owner confirmed 2026-08-22 (see the DP Economics entry above) that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of IB curriculum material. Two syllabus themes (A, B) with every numbered sub-topic (A.1-A.4, B.1-B.4) and recommended teaching hours transcribed directly from the subject brief\'s own curriculum-model table, fetched and read in full 2026-09-02. B.4 (Abstract data types) is explicitly marked HL only in the brief. Weekly study-guides run (2026-09-02): new resource this run covers Theme A (Concepts of computer science) in full.',
+    topics: [
+      { number: 1, name: 'Theme A -- Concepts of computer science', slug: 'ib-dp-computer-science-theme-a', subtopics: [
+        { number: 'A.1', name: 'Computer fundamentals', slug: 'ib-dp-computer-science-a-1' },
+        { number: 'A.2', name: 'Networks', slug: 'ib-dp-computer-science-a-2' },
+        { number: 'A.3', name: 'Databases', slug: 'ib-dp-computer-science-a-3' },
+        { number: 'A.4', name: 'Machine learning', slug: 'ib-dp-computer-science-a-4' },
+      ] },
+      { number: 2, name: 'Theme B -- Computational thinking and problem-solving', slug: 'ib-dp-computer-science-theme-b', subtopics: [
+        { number: 'B.1', name: 'Computational thinking', slug: 'ib-dp-computer-science-b-1' },
+        { number: 'B.2', name: 'Programming', slug: 'ib-dp-computer-science-b-2' },
+        { number: 'B.3', name: 'Object oriented programming (OOP)', slug: 'ib-dp-computer-science-b-3' },
+        { number: 'B.4', name: 'Abstract data types (HL only)', slug: 'ib-dp-computer-science-b-4' },
+      ] },
+    ],
+  },
+] as const;
 
 /**
  * Known future/superseded series, recorded so a transition is visible without
