@@ -3323,7 +3323,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/636099-2024-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'AS Level covers Paper 1 and Paper 2. A Level adds Paper 3 and Paper 4; Paper 4 has three named sections and candidates answer on 2 of the 3. Cross-confirmed against OxfordAQA’s own International A-level Sociology (9690) switching guide, which independently reproduces this same paper structure. Paper 1 subtopics (1.1-2.3) reproduce the specification PDF\'s own two-section structure (Socialisation and the creation of social identity; Methods of research), fetched and verified 2026-08-21.',
+    notes: 'AS Level covers Paper 1 and Paper 2. A Level adds Paper 3 and Paper 4; Paper 4 has three named sections and candidates answer on 2 of the 3. Cross-confirmed against OxfordAQA’s own International A-level Sociology (9690) switching guide, which independently reproduces this same paper structure. Paper 1 subtopics (1.1-2.3) reproduce the specification PDF\'s own two-section structure (Socialisation and the creation of social identity; Methods of research), fetched and verified 2026-08-21. Paper 2 subtopics (3.1-4.2) reproduce the same PDF\'s subject-content chapter (Theories of the family and social change; Family roles and changing relationships), fetched and verified 2026-09-02 (weekly study-guides automation run).',
     topics: [
       { number: 1, name: 'Paper 1 – Socialisation, Identity and Methods of Research', slug: 'paper-1-socialisation-identity-methods-9699', stage: 'AS', subtopics: [
         { number: '1.1', name: 'The process of learning and socialisation', slug: 'process-of-learning-and-socialisation-9699' },
@@ -3333,7 +3333,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.2', name: 'Approaches to sociological research', slug: 'approaches-to-sociological-research-9699' },
         { number: '2.3', name: 'Research issues', slug: 'research-issues-9699' },
       ] },
-      { number: 2, name: 'Paper 2 – The Family', slug: 'paper-2-the-family-9699', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Paper 2 – The Family', slug: 'paper-2-the-family-9699', stage: 'AS', subtopics: [
+        { number: '3.1', name: 'Perspectives on the role of the family', slug: 'perspectives-role-of-family-9699' },
+        { number: '3.2', name: 'Diversity and social change', slug: 'diversity-and-social-change-9699' },
+        { number: '4.1', name: 'Gender equality and experiences of family life', slug: 'gender-equality-family-life-9699' },
+        { number: '4.2', name: 'Age and family life', slug: 'age-and-family-life-9699' },
+      ] },
       { number: 3, name: 'Paper 3 – Education', slug: 'paper-3-education-9699', stage: 'A', subtopics: [] },
       { number: 4, name: 'Paper 4 – Globalisation, Media and Religion', slug: 'paper-4-globalisation-media-religion-9699', stage: 'A', subtopics: [
         { number: '4.1', name: 'Section A: Globalisation', slug: 'section-a-globalisation-9699' },

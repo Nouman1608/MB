@@ -6161,3 +6161,37 @@ filled.
   `check:duplicate-scope`) run clean after the edit, before commit.
 - **Status:** sub-batch 1 of this run's depth batch. Further sub-batches follow in later commits
   this same run.
+
+## D-121 — Weekly depth batch (2026-09-02, sub-batch 2): 3 more resources
+
+- **Date:** 2026-09-02.
+- **Workstream:** `marlbridge-weekly-study-guides` scheduled task, second sub-batch of this run
+  (continuing D-120).
+- **Resources added:**
+  1. `a-level-cambridge-law-criminal-law.md` (study-guides) -- Cambridge A-Level Law (9084) had
+     all 4 of its existing resources on Topic 1 (English Legal System) only; Topics 2 (Criminal
+     Law), 3 (Contract) and 4 (Tort) were entirely uncovered. Wrote Topic 2, the next AS Level
+     topic. Combination: 4 → 5 resources.
+  2. `a-level-cambridge-psychology-research-methods.md` (study-guides) -- Cambridge A-Level
+     Psychology (9990) had Paper 1 (2 resources) and Paper 3 (1 resource) covered but Paper 2
+     (Research Methods) had zero resources anywhere on the site, despite being one of two
+     compulsory AS papers. Combination: 4 → 5 resources.
+  3. `a-level-cambridge-sociology-the-family.md` (study-guides) -- Cambridge A-Level Sociology
+     (9699) had Paper 1 (3 resources) and Paper 4 (1 resource) covered but Paper 2 (The Family,
+     the other compulsory AS paper) and Paper 3 (Education) both had zero resources. Wrote
+     Paper 2. Combination: 4 → 5 resources.
+  All three cite their own official Cambridge syllabus PDF with a verification date.
+- **Taxonomy update:** `syllabus-topics.ts`'s Cambridge A-Level Sociology (9699) entry had Paper 2
+  – The Family recorded with an empty `subtopics: []` array (not yet researched). Fetched the
+  official syllabus PDF's own subject-content chapter for Paper 2 (pages 17-18) and added the
+  real subtopic structure: 3.1 Perspectives on the role of the family, 3.2 Diversity and social
+  change, 4.1 Gender equality and experiences of family life, 4.2 Age and family life. Updated the
+  record's `notes` field to record this fetch and verification date, following the same pattern as
+  the existing Paper 1 subtopics note. No other taxonomy entries needed changes -- Criminal Law
+  and Research Methods topics already existed with subtopics from prior sessions.
+- **Same-scope review:** `check:duplicate-scope` raised no new groups involving any of this
+  sub-batch's three files. The one pre-existing English-language group from D-120 is unaffected.
+- **Validation:** full gate (`npx astro check`, `npm run validate:academic`, `npm run build`,
+  cross-board regression, negative-validation suite, API tests, `npm audit`,
+  `coverage:academic-v2`, `check:duplicate-scope`) run clean before commit.
+- **Status:** sub-batch 2 of this run's depth batch, continuing from D-120.
