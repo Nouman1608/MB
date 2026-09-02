@@ -4234,7 +4234,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/718156-2027-2029-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge IGCSE Environmental Management (0680), 2027-2029 series, is organised into seven topics (a reduction from the syllabus's earlier nine-topic structure). Topic 1 (Natural resources) sub-topic structure (1.1-1.6) and Topic 2 (Land) sub-topic structure (2.1-2.3) reproduced directly from the official syllabus PDF's Subject content section; Topic 1 fetched and verified 2026-08-21, Topic 2 fetched and verified 2026-09-01. Named sub-topics for topics 3-7 are not yet entered.",
+    notes: "Cambridge IGCSE Environmental Management (0680), 2027-2029 series, is organised into seven topics (a reduction from the syllabus's earlier nine-topic structure). Topic 1 (Natural resources) sub-topic structure (1.1-1.6), Topic 2 (Land) sub-topic structure (2.1-2.3), and Topic 3 (Water) sub-topic structure (3.1-3.4) reproduced directly from the official syllabus PDF's Subject content section; Topic 1 fetched and verified 2026-08-21, Topic 2 fetched and verified 2026-09-01, Topic 3 fetched and verified 2026-09-02 (weekly study-guides automation run). Named sub-topics for topics 4-7 are not yet entered.",
     topics: [
       { number: 1, name: 'Natural resources', slug: 'natural-resources-0680', subtopics: [
         { number: '1.1', name: 'Formation of rocks', slug: 'formation-of-rocks-0680' },
@@ -4249,7 +4249,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.2', name: 'Food production and crop yield', slug: 'food-production-and-crop-yield-0680' },
         { number: '2.3', name: 'Soil erosion', slug: 'soil-erosion-0680' },
       ] },
-      { number: 3, name: 'Water', slug: 'water-0680', subtopics: [] },
+      { number: 3, name: 'Water', slug: 'water-0680', subtopics: [
+        { number: '3.1', name: 'Water sources and supply', slug: 'water-sources-and-supply-0680' },
+        { number: '3.2', name: 'Water pollution', slug: 'water-pollution-0680' },
+        { number: '3.3', name: 'Water-related diseases', slug: 'water-related-diseases-0680' },
+        { number: '3.4', name: 'Marine aquaculture', slug: 'marine-aquaculture-0680' },
+      ] },
       { number: 4, name: 'The atmosphere and human activities', slug: 'the-atmosphere-and-human-activities-0680', subtopics: [] },
       { number: 5, name: 'Ecosystems, biodiversity and fieldwork', slug: 'ecosystems-biodiversity-and-fieldwork-0680', subtopics: [] },
       { number: 6, name: 'Natural hazards', slug: 'natural-hazards-0680', subtopics: [] },
@@ -4347,7 +4352,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/745979-2028-syllabus.pdf', verifiedDate: '2026-08-21',
-    notes: "Cambridge IGCSE Commerce (0715), a new syllabus for exams in 2028. Six named topics verified in full from the Content overview section. Topic 1 (Commerce and production) sub-topic structure (1.1-1.2) and Topic 2 (Commercial operations) sub-topic structure (2.1-2.6) reproduced directly from the official syllabus PDF's Subject content section; Topic 1 fetched and verified 2026-08-21, Topic 2 fetched and verified 2026-09-01. Named sub-topics for topics 3-6 are not yet entered.",
+    notes: "Cambridge IGCSE Commerce (0715), a new syllabus for exams in 2028. Six named topics verified in full from the Content overview section. Topic 1 (Commerce and production) sub-topic structure (1.1-1.2), Topic 2 (Commercial operations) sub-topic structure (2.1-2.6), and Topic 3 (Globalisation of trade) sub-topic structure (3.1-3.2) reproduced directly from the official syllabus PDF's Subject content section; Topic 1 fetched and verified 2026-08-21, Topic 2 fetched and verified 2026-09-01, Topic 3 fetched and verified 2026-09-02 (weekly study-guides automation run). Named sub-topics for topics 4-6 are not yet entered.",
     topics: [
       { number: 1, name: 'Commerce and production', slug: 'commerce-and-production-0715', subtopics: [
         { number: '1.1', name: 'Trade and commerce', slug: 'trade-and-commerce-0715' },
@@ -4361,7 +4366,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.5', name: 'Trading documents', slug: 'trading-documents-0715' },
         { number: '2.6', name: 'Communication', slug: 'communication-0715-commerce' },
       ] },
-      { number: 3, name: 'Globalisation of trade', slug: 'globalisation-of-trade-0715', subtopics: [] },
+      { number: 3, name: 'Globalisation of trade', slug: 'globalisation-of-trade-0715', subtopics: [
+        { number: '3.1', name: 'International trade', slug: 'international-trade-0715' },
+        { number: '3.2', name: 'Global supply chain management', slug: 'global-supply-chain-management-0715' },
+      ] },
       { number: 4, name: 'Logistics in commerce', slug: 'logistics-in-commerce-0715', subtopics: [] },
       { number: 5, name: 'Aids to trade that support commerce', slug: 'aids-to-trade-that-support-commerce-0715', subtopics: [] },
       { number: 6, name: 'Sustainability and ethics', slug: 'sustainability-and-ethics-0715', subtopics: [] },
