@@ -1528,7 +1528,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Pearson Edexcel -- official International GCSE Biology (4BI1) specification PDF, Issue 3, September 2024',
     sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Biology/2017/specification-and-sample-assessments/international-gcse-biology-2017-specification1.pdf', verifiedDate: '2026-08-19',
-    notes: "Pearson Edexcel International GCSE in Biology (4BI1), first teaching September 2017, first examination June 2019. Untiered, linear qualification with two written papers. Five topic names reproduced directly from the official specification's 'Qualification at a glance' content summary, fetched 2026-08-19. Correction, 2026-09-02: the official specification PDF's own subject-content chapter DOES break each topic into named lettered sub-topics (e.g. Topic 1: (a) Characteristics of living organisms, (b) Variety of living organisms; Topic 2: (a) Level of organisation through (j) Co-ordination and response) -- the previous note's claim of 'a flat sequence... without named sub-headings' was incorrect and is superseded by this entry. Topic 2's named sub-topics (a)-(j) are now entered in full, with numbered-outcome detail sourced and verified for sub-topics (b) and (c); sub-topics for Topics 1, 3, 4 and 5 are named but not yet broken out here -- future work.",
+    notes: "Pearson Edexcel International GCSE in Biology (4BI1), first teaching September 2017, first examination June 2019. Untiered, linear qualification with two written papers. Five topic names reproduced directly from the official specification's 'Qualification at a glance' content summary, fetched 2026-08-19. Correction, 2026-09-02: the official specification PDF's own subject-content chapter DOES break each topic into named lettered sub-topics (e.g. Topic 1: (a) Characteristics of living organisms, (b) Variety of living organisms; Topic 2: (a) Level of organisation through (j) Co-ordination and response) -- the previous note's claim of 'a flat sequence... without named sub-headings' was incorrect and is superseded by this entry. Topic 2's named sub-topics (a)-(j) are now entered in full, with numbered-outcome detail sourced and verified for sub-topics (b) and (c); sub-topics for Topics 1, 4 and 5 are named but not yet broken out here -- future work. Topic 3's sub-topics (a) Reproduction and (b) Inheritance added and verified against the same specification PDF's numbered outcomes 3.1-3.39, 2026-09-02 (weekly study-guides automation run).",
     topics: [
       { number: 1, name: 'The nature and variety of living organisms', slug: 'the-nature-and-variety-of-living-organisms-edexcel-igcse-biology', subtopics: [] },
       { number: 2, name: 'Structures and functions in living organisms', slug: 'structures-and-functions-in-living-organisms-edexcel-igcse-biology', subtopics: [
@@ -1543,7 +1543,10 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: 'i', name: 'Excretion', slug: 'excretion-4bi1' },
         { number: 'j', name: 'Co-ordination and response', slug: 'co-ordination-and-response-4bi1' },
       ] },
-      { number: 3, name: 'Reproduction and inheritance', slug: 'reproduction-and-inheritance-edexcel-igcse-biology', subtopics: [] },
+      { number: 3, name: 'Reproduction and inheritance', slug: 'reproduction-and-inheritance-edexcel-igcse-biology', subtopics: [
+        { number: 'a', name: 'Reproduction', slug: 'reproduction-4bi1' },
+        { number: 'b', name: 'Inheritance', slug: 'inheritance-4bi1' },
+      ] },
       { number: 4, name: 'Ecology and the environment', slug: 'ecology-and-the-environment-edexcel-igcse-biology', subtopics: [] },
       { number: 5, name: 'Use of biological resources', slug: 'use-of-biological-resources-edexcel-igcse-biology', subtopics: [] },
     ],

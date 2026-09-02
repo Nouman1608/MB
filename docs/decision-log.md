@@ -6195,3 +6195,34 @@ filled.
   cross-board regression, negative-validation suite, API tests, `npm audit`,
   `coverage:academic-v2`, `check:duplicate-scope`) run clean before commit.
 - **Status:** sub-batch 2 of this run's depth batch, continuing from D-120.
+
+## D-122 — Weekly depth batch (2026-09-02, sub-batch 3): 2 more resources
+
+- **Date:** 2026-09-02.
+- **Workstream:** `marlbridge-weekly-study-guides` scheduled task, third sub-batch of this run
+  (continuing D-120, D-121).
+- **Resources added:**
+  1. `a-level-world-history-international-1870-1945.md` (study-guides) -- Cambridge A-Level World
+     History (9489) had the European Option (3 resources) and American Option (1 resource)
+     covered, but the International Option (International history, 1870-1945) had zero
+     resources despite being one of the three AS Level routes candidates can choose. Combination:
+     4 → 5 resources.
+  2. `igcse-edexcel-biology-reproduction-and-inheritance.md` (study-guides) -- Pearson Edexcel
+     International GCSE Biology (4BI1) had Topic 1 and part of Topic 2 covered but Topics 3
+     (Reproduction and inheritance), 4 (Ecology and the environment) and 5 (Use of biological
+     resources) were entirely uncovered. Wrote Topic 3. Combination: 4 → 5 resources.
+  Both cite their own official specification PDF with a verification date.
+- **Taxonomy update:** `syllabus-topics.ts`'s Edexcel IGCSE Biology (4BI1) entry had Topic 3
+  recorded with an empty `subtopics: []` array. Fetched the official specification PDF's own
+  numbered subject-content section (outcomes 3.1-3.39) and added the real sub-topic structure:
+  (a) Reproduction, (b) Inheritance. Updated the record's `notes` field accordingly, following the
+  same pattern used for Topic 2's sub-topics in a prior session. Topics 1, 4 and 5 remain
+  unbroken-out (future work, unchanged from before this session).
+- **Same-scope review:** `check:duplicate-scope` raised no new groups involving either of this
+  sub-batch's two files.
+- **Validation:** full gate (`npx astro check`, `npm run validate:academic`, `npm run build`,
+  cross-board regression, negative-validation suite, API tests, `npm audit`,
+  `coverage:academic-v2`, `check:duplicate-scope`) run clean before commit.
+- **Status:** sub-batch 3 of this run's depth batch, continuing from D-120/D-121. This is the
+  final sub-batch of this run -- see the run's completion report for the overall total against
+  the 50-resource target and the reason for stopping short.
