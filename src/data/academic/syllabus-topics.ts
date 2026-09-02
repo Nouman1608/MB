@@ -319,7 +319,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697295-2026-syllabus.pdf', verifiedDate: '2026-08-24',
-    notes: 'IMPORTANT: like Business 7115, this syllabus is valid for 2026 ONLY (confirmed directly from the PDF: "Use this syllabus for exams in 2026"), not a multi-year series. No successor code has been confirmed for Economics (unlike Business, where 7081 is a known, sourced replacement) - this should be checked fresh, not assumed, whenever this subject is next touched. Not tiered. Re-verified against the full official PDF (Version 2) 2026-08-24: the Phase 16 claim that Topic 1 had "all three of its subtopics" was incomplete - the PDF lists FOUR (1.1-1.4, including 1.4 Production possibility curve (PPC) diagrams), now corrected below. All six topic names and Topic 2’s full sub-topic structure (2.1-2.11) reproduced directly from the PDF’s Subject content section, fetched 2026-08-24. Sub-topic detail for topics 3-6 (3.1-3.8, 4.1-4.8, 5.1-5.4, 6.1-6.4 per the PDF) is deliberately not itemised below pending the phase that writes about them.',
+    notes: 'IMPORTANT: like Business 7115, this syllabus is valid for 2026 ONLY (confirmed directly from the PDF: "Use this syllabus for exams in 2026"), not a multi-year series. No successor code has been confirmed for Economics (unlike Business, where 7081 is a known, sourced replacement) - this should be checked fresh, not assumed, whenever this subject is next touched. Not tiered. Re-verified against the full official PDF (Version 2) 2026-08-24: the Phase 16 claim that Topic 1 had "all three of its subtopics" was incomplete - the PDF lists FOUR (1.1-1.4, including 1.4 Production possibility curve (PPC) diagrams), now corrected below. All six topic names and Topic 2’s full sub-topic structure (2.1-2.11) reproduced directly from the PDF’s Subject content section, fetched 2026-08-24. Weekly study-guides run (2026-09-02): re-fetched the full PDF directly and extracted Topic 3 (Microeconomic decision makers) sub-topics 3.1-3.8 from the "3 Subject content" section for the new resource written this run. Sub-topic detail for topics 4-6 (4.1-4.8, 5.1-5.4, 6.1-6.4 per the PDF) is deliberately not itemised below pending the phase that writes about them.',
     topics: [
       { number: 1, name: 'The basic economic problem', slug: 'the-basic-economic-problem', subtopics: [
         { number: '1.1', name: 'The nature of the economic problem', slug: 'the-nature-of-the-economic-problem' },
@@ -340,7 +340,16 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.10', name: 'Market failure', slug: 'market-failure' },
         { number: '2.11', name: 'Mixed economic system', slug: 'mixed-economic-system' },
       ] },
-      { number: 3, name: 'Microeconomic decision makers', slug: 'microeconomic-decision-makers', subtopics: [] },
+      { number: 3, name: 'Microeconomic decision makers', slug: 'microeconomic-decision-makers', subtopics: [
+        { number: '3.1', name: 'Money and banking', slug: 'money-and-banking' },
+        { number: '3.2', name: 'Households', slug: 'households' },
+        { number: '3.3', name: 'Workers', slug: 'workers' },
+        { number: '3.4', name: 'Trade unions', slug: 'trade-unions' },
+        { number: '3.5', name: 'Firms', slug: 'firms' },
+        { number: '3.6', name: 'Firms and production', slug: 'firms-and-production' },
+        { number: '3.7', name: "Firms' costs, revenue and objectives", slug: 'firms-costs-revenue-and-objectives' },
+        { number: '3.8', name: 'Market structure', slug: 'market-structure' },
+      ] },
       { number: 4, name: 'Government and the macroeconomy', slug: 'government-and-the-macroeconomy', subtopics: [] },
       { number: 5, name: 'Economic development', slug: 'economic-development', subtopics: [] },
       { number: 6, name: 'International trade and globalisation', slug: 'international-trade-and-globalisation', subtopics: [] },
@@ -353,7 +362,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697417-2026-2028-syllabus.pdf', verifiedDate: '2026-08-18',
-    notes: 'Not tiered, but staged: AS Level candidates study topics 1.1-2.2 only; A Level candidates study all of 1.1-4.4 (AS Level content is assumed knowledge for A Level Papers 3-4). No Cambridge O Level Accounting exists in the approved scope - Learners Academy\'s own subject list (the matrix\'s evidence source) only shows Accounting at IGCSE and A Level, matching the finding already recorded in Phase 11, so this AS/A Level entry point was chosen deliberately rather than an unverified O Level substitute. Phase 16: AS Level topics 1.1 (Types of business entity) and 1.2 (The accounting system) verified in full against the PDF. Weekly study-guides run (2026-09-01): re-fetched the PDF and verified 1.3 (Accounting for non-current assets) in full -- 1.3.1 capital vs revenue income/expenditure, 1.3.2 changing asset values (depreciation methods, cost/revaluation models, disposal) -- for the new resource written this run. Topics 1.4-1.6 and all of Section 2 (AS Level) plus Sections 3-4 (A Level only) remain name-only, not yet subtopic-verified.',
+    notes: 'Not tiered, but staged: AS Level candidates study topics 1.1-2.2 only; A Level candidates study all of 1.1-4.4 (AS Level content is assumed knowledge for A Level Papers 3-4). No Cambridge O Level Accounting exists in the approved scope - Learners Academy\'s own subject list (the matrix\'s evidence source) only shows Accounting at IGCSE and A Level, matching the finding already recorded in Phase 11, so this AS/A Level entry point was chosen deliberately rather than an unverified O Level substitute. Phase 16: AS Level topics 1.1 (Types of business entity) and 1.2 (The accounting system) verified in full against the PDF. Weekly study-guides run (2026-09-01): re-fetched the PDF and verified 1.3 (Accounting for non-current assets) in full -- 1.3.1 capital vs revenue income/expenditure, 1.3.2 changing asset values (depreciation methods, cost/revaluation models, disposal) -- for the new resource written this run. Weekly study-guides run (2026-09-02): re-fetched the PDF and verified 1.4 (Reconciliation and verification) in full -- 1.4.1 the underlying reconciliation/verification rationale, 1.4.2 trial balance (errors that do and don\'t affect it, suspense accounts), 1.4.3 bank reconciliation statements, 1.4.4 control accounts -- for the new resource written this run. Topics 1.5-1.6 and all of Section 2 (AS Level) plus Sections 3-4 (A Level only) remain name-only, not yet subtopic-verified.',
     topics: [
       { number: 1, name: 'Financial accounting', slug: 'financial-accounting', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Types of business entity', slug: 'types-of-business-entity' },
@@ -2781,7 +2790,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697287-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Not tiered. Shares its 10-topic content with Cambridge IGCSE Computer Science 0478 (the syllabus PDF explicitly says textbooks endorsed for 0478 are suitable for use with this syllabus) — same topic names, same order. Weekly study-guides run (2026-09-01): fetched the full PDF directly and extracted Topic 2 (Data transmission) subtopics 2.1-2.3 from the "3 Subject content" section for the new resource written this run. Topics 1 and 3-10 subtopic detail remains honest-partial (not yet itemised below) pending future runs.',
+    notes: 'Not tiered. Shares its 10-topic content with Cambridge IGCSE Computer Science 0478 (the syllabus PDF explicitly says textbooks endorsed for 0478 are suitable for use with this syllabus) — same topic names, same order. Weekly study-guides run (2026-09-01): fetched the full PDF directly and extracted Topic 2 (Data transmission) subtopics 2.1-2.3 from the "3 Subject content" section for the new resource written this run. Weekly study-guides run (2026-09-02): re-fetched the full PDF directly, confirmed Topic 3 (Hardware) content is verbatim-identical to the 0478 sibling syllabus, and extracted Topic 3 subtopics 3.1-3.4. Topics 1 and 4-10 subtopic detail remains honest-partial (not yet itemised below) pending future runs.',
     topics: [
       { number: 1, name: 'Data representation', slug: 'data-representation-2210', subtopics: [] },
       { number: 2, name: 'Data transmission', slug: 'data-transmission-2210', subtopics: [
@@ -2789,7 +2798,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.2', name: 'Methods of error detection', slug: 'methods-of-error-detection' },
         { number: '2.3', name: 'Encryption', slug: 'encryption' },
       ] },
-      { number: 3, name: 'Hardware', slug: 'hardware-2210', subtopics: [] },
+      { number: 3, name: 'Hardware', slug: 'hardware-2210', subtopics: [
+        { number: '3.1', name: 'Computer architecture', slug: 'computer-architecture-2210' },
+        { number: '3.2', name: 'Input and output devices', slug: 'input-and-output-devices-2210' },
+        { number: '3.3', name: 'Data storage', slug: 'data-storage-2210' },
+        { number: '3.4', name: 'Network hardware', slug: 'network-hardware-2210' },
+      ] },
       { number: 4, name: 'Software', slug: 'software-2210', subtopics: [] },
       { number: 5, name: 'The internet and its uses', slug: 'the-internet-and-its-uses-2210', subtopics: [] },
       { number: 6, name: 'Automated and emerging technologies', slug: 'automated-and-emerging-technologies-2210', subtopics: [] },
