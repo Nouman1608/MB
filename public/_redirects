@@ -686,6 +686,7 @@
 /resources/study-guides/igcse-cambridge-statistics-representation-of-data/  /resources/igcse-cambridge-statistics-representation-of-data/  301
 /resources/study-guides/igcse-cambridge-urdu-paper-1-reading-writing/  /resources/igcse-cambridge-urdu-paper-1-reading-writing/  301
 /resources/study-guides/igcse-cambridge-urdu-paper-2-listening/  /resources/igcse-cambridge-urdu-paper-2-listening/  301
+/resources/revision-notes/igcse-cambridge-urdu-paper-2-listening-revision-notes/  /resources/igcse-cambridge-urdu-paper-2-listening-revision-notes/  301
 /resources/revision-notes/igcse-commerce-production-revision-notes/  /resources/igcse-commerce-production-revision-notes/  301
 /resources/study-guides/igcse-computer-science-data-representation/  /resources/igcse-computer-science-data-representation/  301
 /resources/study-guides/igcse-computer-science-data-transmission/  /resources/igcse-computer-science-data-transmission/  301
@@ -865,6 +866,8 @@
 /resources/practice-questions/o-level-cambridge-urdu-first-and-second-language-practice/  /resources/o-level-cambridge-urdu-first-and-second-language-practice/  301
 /resources/revision-notes/o-level-cambridge-urdu-first-and-second-language-revision-notes/  /resources/o-level-cambridge-urdu-first-and-second-language-revision-notes/  301
 /resources/study-guides/o-level-cambridge-urdu-first-language-paper-2-texts/  /resources/o-level-cambridge-urdu-first-language-paper-2-texts/  301
+/resources/study-guides/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation/  /resources/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation/  301
+/resources/revision-notes/o-level-commerce-commercial-operations-revision-notes/  /resources/o-level-commerce-commercial-operations-revision-notes/  301
 /resources/practice-questions/o-level-commerce-production-practice/  /resources/o-level-commerce-production-practice/  301
 /resources/revision-notes/o-level-commerce-production-revision-notes/  /resources/o-level-commerce-production-revision-notes/  301
 /resources/practice-questions/o-level-computer-science-data-representation-practice/  /resources/o-level-computer-science-data-representation-practice/  301
@@ -877,6 +880,7 @@
 /resources/study-guides/o-level-english-language-paper-2-writing/  /resources/o-level-english-language-paper-2-writing/  301
 /resources/practice-questions/o-level-english-language-practice/  /resources/o-level-english-language-practice/  301
 /resources/revision-notes/o-level-english-language-revision-notes/  /resources/o-level-english-language-revision-notes/  301
+/resources/revision-notes/o-level-environmental-management-energy-revision-notes/  /resources/o-level-environmental-management-energy-revision-notes/  301
 /resources/practice-questions/o-level-environmental-management-rocks-practice/  /resources/o-level-environmental-management-rocks-practice/  301
 /resources/revision-notes/o-level-environmental-management-rocks-revision-notes/  /resources/o-level-environmental-management-rocks-revision-notes/  301
 /resources/study-guides/o-level-geography-natural-environment/  /resources/o-level-geography-natural-environment/  301
@@ -887,16 +891,20 @@
 /resources/practice-questions/o-level-islamiyat-paper-1-practice/  /resources/o-level-islamiyat-paper-1-practice/  301
 /resources/revision-notes/o-level-islamiyat-paper-1-revision-notes/  /resources/o-level-islamiyat-paper-1-revision-notes/  301
 /resources/study-guides/o-level-islamiyat-paper-2/        /resources/o-level-islamiyat-paper-2/  301
+/resources/revision-notes/o-level-islamiyat-paper-2-revision-notes/  /resources/o-level-islamiyat-paper-2-revision-notes/  301
 /resources/study-guides/o-level-pakistan-studies-history-and-culture-of-pakistan/  /resources/o-level-pakistan-studies-history-and-culture-of-pakistan/  301
 /resources/practice-questions/o-level-pakistan-studies-history-and-culture-of-pakistan-practice/  /resources/o-level-pakistan-studies-history-and-culture-of-pakistan-practice/  301
 /resources/revision-notes/o-level-pakistan-studies-history-and-culture-of-pakistan-revision-notes/  /resources/o-level-pakistan-studies-history-and-culture-of-pakistan-revision-notes/  301
 /resources/study-guides/o-level-pakistan-studies-land-of-pakistan/  /resources/o-level-pakistan-studies-land-of-pakistan/  301
+/resources/study-guides/o-level-pakistan-studies-natural-resources/  /resources/o-level-pakistan-studies-natural-resources/  301
 /resources/study-guides/o-level-sociology-family-education-crime/  /resources/o-level-sociology-family-education-crime/  301
+/resources/revision-notes/o-level-sociology-family-education-crime-revision-notes/  /resources/o-level-sociology-family-education-crime-revision-notes/  301
 /resources/practice-questions/o-level-sociology-methods-practice/  /resources/o-level-sociology-methods-practice/  301
 /resources/revision-notes/o-level-sociology-methods-revision-notes/  /resources/o-level-sociology-methods-revision-notes/  301
 /resources/study-guides/o-level-sociology-research-methods-identity-and-inequality/  /resources/o-level-sociology-research-methods-identity-and-inequality/  301
 /resources/practice-questions/o-level-statistics-data-collection-practice/  /resources/o-level-statistics-data-collection-practice/  301
 /resources/revision-notes/o-level-statistics-data-collection-revision-notes/  /resources/o-level-statistics-data-collection-revision-notes/  301
+/resources/revision-notes/o-level-statistics-summary-representation-revision-notes/  /resources/o-level-statistics-summary-representation-revision-notes/  301
 /resources/study-guides/o-level-world-history-depth-studies/  /resources/o-level-world-history-depth-studies/  301
 /resources/study-guides/o-level-world-history-nineteenth-century-1848-1914/  /resources/o-level-world-history-nineteenth-century-1848-1914/  301
 /resources/practice-questions/o-level-world-history-nineteenth-century-practice/  /resources/o-level-world-history-nineteenth-century-practice/  301
