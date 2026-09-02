@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T09:24:02.681Z",
+  "generatedAt": "2026-09-02T09:32:47.227Z",
   "rowCount": 160,
   "rows": [
     {
@@ -2569,7 +2569,7 @@
       "assessmentSourceUrl": "https://www.cambridgeinternational.org/Images/697139-2026-2028-syllabus.pdf",
       "assessmentVerifiedOn": "2026-08-27",
       "assessmentLifecycleStatus": "current",
-      "studyGuideCount": 2,
+      "studyGuideCount": 7,
       "revisionNoteCount": 1,
       "pastPaperCount": 0,
       "practiceQuestionCount": 1,
@@ -2580,14 +2580,14 @@
       "flashcardCount": 0,
       "videoCount": 0,
       "diagnosticCount": 0,
-      "totalResourceCount": 4,
+      "totalResourceCount": 9,
       "namedAuthor": "Marlbridge Academic Team (organisation byline — see v1.2 WS7)",
       "namedReviewer": "NO_DATA",
-      "lastReview": "2026-09-01",
+      "lastReview": "2026-09-02",
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 3549,
+      "totalQualifyingWordCount": 8282,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",

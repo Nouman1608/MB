@@ -2861,7 +2861,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697139-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Not tiered. Honest-partial: 21 named topics verified in full from the content-overview table. Topic 2 (Input and output devices) sub-topic structure (2.1-2.3) reproduced directly from the official syllabus PDF\'s Subject content section, fetched and verified 2026-09-01. Named sub-topics for the remaining topics are not shown on the content-overview page and are not yet entered. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) ICT 0983 sibling syllabus (a prior fetch briefly pulled 0983 content by mistake before this was caught and corrected against the genuine 0417 PDF).',
+    notes: 'Not tiered. Honest-partial: 21 named topics verified in full from the content-overview table. Topic 2 (Input and output devices) sub-topic structure (2.1-2.3) and Topic 3 (Storage devices and media) sub-topic structure (3.1-3.2, storage devices vs storage media) reproduced directly from the official syllabus PDF\'s Subject content section, fetched and verified 2026-09-01 and 2026-09-02 respectively. Named sub-topics for the remaining topics are not shown on the content-overview page and are not yet entered. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) ICT 0983 sibling syllabus (a prior fetch briefly pulled 0983 content by mistake before this was caught and corrected against the genuine 0417 PDF).',
     topics: [
       { number: 1, name: 'Types and components of computer systems', slug: 'types-and-components-of-computer-systems', subtopics: [] },
       { number: 2, name: 'Input and output devices', slug: 'input-and-output-devices', subtopics: [
@@ -2869,10 +2869,21 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.2', name: 'Direct data entry and associated devices', slug: 'direct-data-entry-and-associated-devices-0417' },
         { number: '2.3', name: 'Output devices and their uses', slug: 'output-devices-and-their-uses-0417' },
       ] },
-      { number: 3, name: 'Storage devices and media', slug: 'storage-devices-and-media', subtopics: [] },
-      { number: 4, name: 'Networks and the effects of using them', slug: 'networks-and-the-effects-of-using-them', subtopics: [] },
-      { number: 5, name: 'The effects of using IT', slug: 'the-effects-of-using-it', subtopics: [] },
-      { number: 6, name: 'ICT applications', slug: 'ict-applications', subtopics: [] },
+      { number: 3, name: 'Storage devices and media', slug: 'storage-devices-and-media', subtopics: [
+        { number: '3.1', name: 'Storage devices', slug: 'storage-devices-0417' },
+        { number: '3.2', name: 'Storage media', slug: 'storage-media-0417' },
+      ] },
+      { number: 4, name: 'Networks and the effects of using them', slug: 'networks-and-the-effects-of-using-them', subtopics: [
+        { number: '4.1', name: 'Networks', slug: 'networks-0417' },
+        { number: '4.2', name: 'Network issues and communication', slug: 'network-issues-and-communication-0417' },
+      ] },
+      { number: 5, name: 'The effects of using IT', slug: 'the-effects-of-using-it', subtopics: [
+        { number: '5.1', name: 'Microprocessor-controlled devices', slug: 'microprocessor-controlled-devices-0417' },
+        { number: '5.2', name: 'Potential health problems related to the prolonged use of IT equipment', slug: 'health-problems-0417' },
+      ] },
+      { number: 6, name: 'ICT applications', slug: 'ict-applications', subtopics: [
+        { number: '6.1', name: 'Communication', slug: 'ict-applications-communication-0417' },
+      ] },
       { number: 7, name: 'The systems life cycle', slug: 'the-systems-life-cycle', subtopics: [] },
       { number: 8, name: 'Safety and security', slug: 'safety-and-security', subtopics: [] },
       { number: 9, name: 'Audience', slug: 'audience', subtopics: [] },
