@@ -3036,11 +3036,14 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel — International Advanced Level English Literature specification at qualifications.pearson.com',
-    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/english-literature/2015/specification-and-sample-assessments/9781446954058-ial-englit-iss6-9-spec-240521pm.pdf', verifiedDate: '2026-08-19',
-    notes: 'International Advanced Subsidiary (IAS) comprises Units 1–2; the full International Advanced Level (IAL) adds Units 3–4. Set texts are chosen from prescribed lists per unit and are not encoded here — this entry represents the unit structure only.',
+    sourceUrl: 'https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/english-literature/2015/specification-and-sample-assessments/9781446954058-ial-englit-iss6-9-spec-240521pm.pdf', verifiedDate: '2026-09-02',
+    notes: 'International Advanced Subsidiary (IAS) comprises Units 1–2; the full International Advanced Level (IAL) adds Units 3–4. Unit 2 (Drama) section split and prescribed text lists fetched and verified 2026-09-02 from the live specification PDF (Issue 7, February 2026): Section A is one pre-1900 drama text from a choice of five, Section B is one post-1900 drama text from a choice of five. Units 1, 3 and 4 prescribed-text detail is not yet itemised here beyond Unit 1\'s own entry.',
     topics: [
       { number: 1, name: 'Unit 1 – Post-2000 Poetry and Prose', slug: 'unit-1-post-2000-poetry-and-prose-yet01', stage: 'AS', subtopics: [] },
-      { number: 2, name: 'Unit 2 – Drama', slug: 'unit-2-drama-yet01', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Unit 2 – Drama', slug: 'unit-2-drama-yet01', stage: 'AS', subtopics: [
+        { number: '2.A', name: 'Section A: Pre-1900 Drama — choice of Doctor Faustus, Othello, The Rover, She Stoops to Conquer, Twelfth Night', slug: 'unit-2-section-a-yet01' },
+        { number: '2.B', name: 'Section B: Post-1900 Drama — choice of A Raisin in the Sun, A Streetcar Named Desire, Death of a Salesman, Top Girls, Waiting for Godot', slug: 'unit-2-section-b-yet01' },
+      ] },
       { number: 3, name: 'Unit 3 – Poetry and Prose', slug: 'unit-3-poetry-and-prose-yet01', stage: 'A', subtopics: [] },
       { number: 4, name: 'Unit 4 – Shakespeare and Pre-1900 Poetry', slug: 'unit-4-shakespeare-and-pre-1900-poetry-yet01', stage: 'A', subtopics: [] },
     ],
@@ -3193,11 +3196,17 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official International AS and A-level English Literature (9675) specification PDF',
-    sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-english-literature-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'International AS = Unit 1 and Unit 2; the full International A-level adds Unit 3 and Unit 4. Honest-partial: unit titles are verified from the specification’s own contents page; named sub-sections within each unit and set-text lists were not extracted in this pass.',
+    sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-english-literature-specification.pdf', verifiedDate: '2026-09-02',
+    notes: 'International AS = Unit 1 and Unit 2; the full International A-level adds Unit 3 and Unit 4. Unit 1 and Unit 2 sub-sections and set-text lists fetched and verified 2026-09-02 directly from the full specification PDF, Version 4.1 (pages 11-14): Unit 1 splits into Section A (Elizabethan and Jacobean tragedy, passage-based) and Section B (later dramatic tragedies, essay); Unit 2 splits into Section A (prose) and Section B (poetry). Units 3 and 4 (International A-level only) remain topic-name-only pending the same fetch for their content.',
     topics: [
-      { number: 1, name: 'Unit 1 – Aspects of Dramatic Tragedy', slug: 'unit-1-aspects-of-dramatic-tragedy-9675', stage: 'AS', subtopics: [] },
-      { number: 2, name: 'Unit 2 – Place in Literary Texts', slug: 'unit-2-place-in-literary-texts-9675', stage: 'AS', subtopics: [] },
+      { number: 1, name: 'Unit 1 – Aspects of Dramatic Tragedy', slug: 'unit-1-aspects-of-dramatic-tragedy-9675', stage: 'AS', subtopics: [
+        { number: '1.A', name: 'Section A: Elizabethan and Jacobean Tragedy (passage-based) — choice of Othello, King Lear, Hamlet, Doctor Faustus (B text), The Duchess of Malfi', slug: 'unit-1-section-a-9675' },
+        { number: '1.B', name: 'Section B: Later Dramatic Tragedies (essay) — choice of Death of a Salesman, A Streetcar Named Desire, Hedda Gabler, Waiting for Godot, Translations', slug: 'unit-1-section-b-9675' },
+      ] },
+      { number: 2, name: 'Unit 2 – Place in Literary Texts', slug: 'unit-2-place-in-literary-texts-9675', stage: 'AS', subtopics: [
+        { number: '2.A', name: 'Section A: Prose — choice of Heart of Darkness, The Great Gatsby, Americanah, Small Island, Last Man in Tower, Remains of the Day', slug: 'unit-2-section-a-9675' },
+        { number: '2.B', name: 'Section B: Poetry — choice of Wordsworth, Robert Frost, Thomas Hardy or Seamus Heaney selections', slug: 'unit-2-section-b-9675' },
+      ] },
       { number: 3, name: 'Unit 3 – Elements of Crime and Mystery', slug: 'unit-3-elements-of-crime-and-mystery-9675', stage: 'A', subtopics: [] },
       { number: 4, name: 'Unit 4 – Literary Representations', slug: 'unit-4-literary-representations-9675', stage: 'A', subtopics: [] },
     ],
@@ -3746,10 +3755,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA — official specification pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'Two components: Understanding the Modern World and Shaping the Nation. Students study one thematic study (spanning three eras), one period study, two depth studies (one British, one European/wider world), and a historic environment study. British history is a minimum of 40% of assessed content. Specific named study options within each component are not itemised here — only the confirmed component-level structure is represented.',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/subject-content/understanding-the-modern-world', verifiedDate: '2026-09-02',
+    notes: 'Two components: Understanding the Modern World (Paper 1) and Shaping the Nation (Paper 2). Paper 1 Section A (period studies) and Section B (wider world depth studies) named options fetched and verified 2026-09-02 from the official subject-content page. Students study one thematic study (spanning three eras), one period study, two depth studies (one British, one European/wider world), and a historic environment study. British history is a minimum of 40% of assessed content. Paper 2 (Shaping the Nation) named options are not yet itemised here.',
     topics: [
-      { number: 1, name: 'Understanding the Modern World', slug: 'understanding-the-modern-world-8145', subtopics: [] },
+      { number: 1, name: 'Understanding the Modern World', slug: 'understanding-the-modern-world-8145', subtopics: [
+        { number: '3.2.1', name: 'Section A: Period Studies — choice of America 1840-1895; Germany 1890-1945; Russia 1894-1945; America 1920-1973', slug: 'utmw-section-a-period-studies-8145' },
+        { number: '3.2.2', name: 'Section B: Wider World Depth Studies — choice of Conflict and Tension: WWI, the inter-war years, East and West 1945-72, Asia 1950-75, or the Gulf and Afghanistan 1990-2009', slug: 'utmw-section-b-wider-world-depth-studies-8145' },
+      ] },
       { number: 2, name: 'Shaping the Nation', slug: 'shaping-the-nation-8145', subtopics: [] },
     ],
   },
@@ -4520,7 +4532,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     source: 'International Baccalaureate Organization, Physics guide (Diploma Programme)',
     sourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
     verifiedDate: '2026-08-22',
-    notes: 'Owner confirmed 2026-08-22 that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of this guide. Five topics (A-E), transcribed directly from the guide\'s own "Syllabus outline" and "Syllabus roadmap" tables (pages 24-25). HL-only sub-topics are marked exactly as the guide marks them.',
+    notes: 'Owner confirmed 2026-08-22 that Marlbridge has or is pursuing a formal IB license covering commercial/tutoring use of this guide. Five topics (A-E), transcribed directly from the guide\'s own "Syllabus outline" and "Syllabus roadmap" tables (pages 24-25). HL-only sub-topics are marked exactly as the guide marks them. A.2 Forces and momentum content scope re-verified 2026-09-02 (10 guided hours, SL and HL identical -- the guide states explicitly there is no additional higher level content in A.2): Newton\'s three laws, free-body diagrams, named contact and field forces, linear momentum and impulse, Newton\'s second law in momentum form, elastic/inelastic collisions and explosions, and circular motion including centripetal acceleration.',
     topics: [
     {
       number: 1, name: 'A. Space, time and motion', slug: 'ib-dp-physics-topic-a',
