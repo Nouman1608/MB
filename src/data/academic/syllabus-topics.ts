@@ -562,8 +562,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR -- official GCSE (9-1) Physics A (Gateway Science) J249 specification (accredited PDF, version 5.0)',
-    sourceUrl: 'https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf', verifiedDate: '2026-08-19',
-    notes: "OCR GCSE (9-1) Physics A (Gateway Science) (J249), first teaching September 2016. Tiered (Foundation and Higher tier papers). Content is divided into eight teaching topics P1-P8 plus a ninth practical-skills topic, P9, which is not separately content-assessed but underpins the 15% practical-skills component woven through the written papers. All 8 content topics and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19.",
+    sourceUrl: 'https://www.ocr.org.uk/Images/234600-specification-accredited-gcse-gateway-science-suite-physics-a-j249.pdf', verifiedDate: '2026-09-02',
+    notes: "OCR GCSE (9-1) Physics A (Gateway Science) (J249), first teaching September 2016. Tiered (Foundation and Higher tier papers). Content is divided into eight teaching topics P1-P8 plus a ninth practical-skills topic, P9, which is not separately content-assessed but underpins the 15% practical-skills component woven through the written papers. All 8 content topics and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19; Topic 2 (Forces) content re-fetched and cross-checked in full against version 5.0 (July 2026) of the same PDF on 2026-09-02.",
     topics: [
       { number: 1, name: 'Matter', slug: 'matter-ocr-gcse', subtopics: [
         { number: 'P1.1', name: 'The particle model', slug: 'the-particle-model-ocr-gcse' },
@@ -610,8 +610,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official A Level GCE Physics A H556 specification (accredited PDF)',
-    sourceUrl: 'https://www.ocr.org.uk/Images/171726-specification-accredited-a-level-gce-physics-a-h556.pdf', verifiedDate: '2026-08-19',
-    notes: "OCR A Level Physics A (H556), first teaching September 2015, co-teachable with AS Physics A (H156). Content is organised into 6 modules: Module 1 (Development of practical skills in physics) and Module 2 (Foundations of physics) are foundational skills threaded throughout the course; Modules 3-4 (Forces and motion; Electrons, waves and photons) are typically year 12 content; Modules 5-6 (Newtonian world and astrophysics; Particles and medical physics) are typically year 13 content. Assessed across three written components (H556/01, H556/02, H556/03) plus a separately-reported Practical Endorsement. All 6 modules and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19.",
+    sourceUrl: 'https://www.ocr.org.uk/Images/171726-specification-accredited-a-level-gce-physics-a-h556.pdf', verifiedDate: '2026-09-02',
+    notes: "OCR A Level Physics A (H556), first teaching September 2015, co-teachable with AS Physics A (H156). Content is organised into 6 modules: Module 1 (Development of practical skills in physics) and Module 2 (Foundations of physics) are foundational skills threaded throughout the course; Modules 3-4 (Forces and motion; Electrons, waves and photons) are typically year 12 content; Modules 5-6 (Newtonian world and astrophysics; Particles and medical physics) are typically year 13 content. Assessed across three written components (H556/01, H556/02, H556/03) plus a separately-reported Practical Endorsement. All 6 modules and their sub-topic structure verified directly against the official accredited specification PDF (ocr.org.uk), fetched in full 2026-08-19; Module 2 (Foundations of physics) content re-fetched and cross-checked in full against version 3.0 (March 2026) of the same PDF on 2026-09-02.",
     topics: [
       { number: 1, name: 'Development of practical skills in physics', slug: 'development-of-practical-skills-in-physics-ocr-alevel', subtopics: [
         { number: '1.1', name: 'Practical skills assessed in a written examination', slug: 'practical-skills-assessed-in-a-written-examination' },
@@ -878,15 +878,20 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'AQA -- official GCSE Mathematics (8300) specification, live subject-content pages',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: "AQA GCSE Mathematics (8300), first teaching September 2015. Tiered: Foundation (grades 1-5) and Higher (grades 4-9); three papers per candidate, same tier throughout. Content matches the Department for Education's Mathematics GCSE subject content document and is common to all exam boards -- the six topic areas and their weighting are prescribed by Ofqual, not set independently by AQA. Six topic names verified directly against the live AQA specification subject-content pages (aqa.org.uk). Topic 1 (Number) subtopics reproduce the specification PDF's own 3.1.1-3.1.3 sub-headings, fetched and verified 2026-08-21; topics 2-6 remain name-only pending the same fetch for their content.",
+    sourceUrl: 'https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification/subject-content', verifiedDate: '2026-09-02',
+    notes: "AQA GCSE Mathematics (8300), first teaching September 2015. Tiered: Foundation (grades 1-5) and Higher (grades 4-9); three papers per candidate, same tier throughout. Content matches the Department for Education's Mathematics GCSE subject content document and is common to all exam boards -- the six topic areas and their weighting are prescribed by Ofqual, not set independently by AQA. Six topic names verified directly against the live AQA specification subject-content pages (aqa.org.uk). Topic 1 (Number) subtopics reproduce the specification PDF's own 3.1.1-3.1.3 sub-headings, fetched and verified 2026-08-21. Topic 2 (Algebra) sub-topic structure (3.2.1-3.2.4) reproduced directly from the live AQA specification subject-content page (aqa.org.uk/.../subject-content/3.2-algebra), fetched and verified 2026-09-02; topics 3-6 remain name-only pending the same fetch for their content.",
     topics: [
       { number: 1, name: 'Number', slug: 'number-aqa-gcse-maths', subtopics: [
         { number: '3.1.1', name: 'Structure and calculation', slug: 'structure-and-calculation-aqa-gcse-maths' },
         { number: '3.1.2', name: 'Fractions, decimals and percentages', slug: 'fractions-decimals-and-percentages-aqa-gcse-maths' },
         { number: '3.1.3', name: 'Measures and accuracy', slug: 'measures-and-accuracy-aqa-gcse-maths' },
       ] },
-      { number: 2, name: 'Algebra', slug: 'algebra-aqa-gcse-maths', subtopics: [] },
+      { number: 2, name: 'Algebra', slug: 'algebra-aqa-gcse-maths', subtopics: [
+        { number: '3.2.1', name: 'Notation, vocabulary and manipulation', slug: 'notation-vocabulary-and-manipulation-aqa-gcse-maths' },
+        { number: '3.2.2', name: 'Graphs', slug: 'graphs-aqa-gcse-maths' },
+        { number: '3.2.3', name: 'Solving equations and inequalities', slug: 'solving-equations-and-inequalities-aqa-gcse-maths' },
+        { number: '3.2.4', name: 'Sequences', slug: 'sequences-aqa-gcse-maths' },
+      ] },
       { number: 3, name: 'Ratio, proportion and rates of change', slug: 'ratio-proportion-and-rates-of-change-aqa-gcse', subtopics: [] },
       { number: 4, name: 'Geometry and measures', slug: 'geometry-and-measures-aqa-gcse-maths', subtopics: [] },
       { number: 5, name: 'Probability', slug: 'probability-aqa-gcse-maths', subtopics: [] },
@@ -900,8 +905,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR -- official GCSE (9-1) Mathematics (J560) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/specification-at-a-glance/', verifiedDate: '2026-08-19',
-    notes: "OCR GCSE (9-1) Mathematics (J560), qualification number 601/4606/0. Tiered: Foundation (papers 1-3, grades 5-1) and Higher (papers 4-6, grades 9-4); content is arranged by topic area and applies to both tiers, and any topic may be assessed on any paper. Twelve topic headings and their sub-topics reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19. Full specification PDF: https://www.ocr.org.uk/Images/168982-specification-gcse-mathematics.pdf",
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/specification-at-a-glance/', verifiedDate: '2026-09-02',
+    notes: "OCR GCSE (9-1) Mathematics (J560), qualification number 601/4606/0. Tiered: Foundation (papers 1-3, grades 5-1) and Higher (papers 4-6, grades 9-4); content is arranged by topic area and applies to both tiers, and any topic may be assessed on any paper. Twelve topic headings and their sub-topics reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19; Topic 2 (Fractions, decimals and percentages) content re-verified against the same live page on 2026-09-02. Full specification PDF: https://www.ocr.org.uk/Images/168982-specification-gcse-mathematics.pdf",
     topics: [
       { number: 1, name: 'Number operations and integers', slug: 'number-operations-and-integers-ocr-gcse-maths', subtopics: [
         { number: '1.1', name: 'Calculations with integers', slug: 'calculations-with-integers-ocr-gcse-maths' },
@@ -980,8 +985,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official A Level Mathematics A (H240) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/specification-at-a-glance/', verifiedDate: '2026-08-19',
-    notes: "OCR A Level Mathematics A (H240), qualification number 603/1038/8. Assessed across three two-hour components (Pure mathematics; Pure mathematics and statistics; Pure mathematics and mechanics), each 33 1/3% of the award. Three subject-content areas and their listed sub-areas reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19. The sibling AS Level (H230) shares most but not all sub-topics (e.g. Numerical methods and Moments are A Level only) and is not recorded as a separate matrix row. Full specification PDF: https://www.ocr.org.uk/Images/308723-specification-accredited-a-level-gce-mathematics-a-h240.pdf",
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/specification-at-a-glance/', verifiedDate: '2026-09-02',
+    notes: "OCR A Level Mathematics A (H240), qualification number 603/1038/8. Assessed across three two-hour components (Pure mathematics; Pure mathematics and statistics; Pure mathematics and mechanics), each 33 1/3% of the award. Three subject-content areas and their listed sub-areas reproduced directly from the live OCR specification-at-a-glance page (ocr.org.uk), fetched 2026-08-19; Statistics content re-verified against the same live page on 2026-09-02. The sibling AS Level (H230) shares most but not all sub-topics (e.g. Numerical methods and Moments are A Level only) and is not recorded as a separate matrix row. Full specification PDF: https://www.ocr.org.uk/Images/308723-specification-accredited-a-level-gce-mathematics-a-h240.pdf",
     topics: [
       { number: 1, name: 'Pure mathematics', slug: 'pure-mathematics-ocr-alevel-maths', subtopics: [
         { number: '1.1', name: 'Proof', slug: 'proof-ocr-alevel-maths' },
@@ -1577,8 +1582,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: true,
     source: 'OCR -- official GCSE (9-1) Gateway Science Suite Biology A (J247) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-biology-a-j247-from-2016/specification-at-a-glance/', verifiedDate: '2026-08-19',
-    notes: "OCR GCSE (9-1) Gateway Science Suite Biology A (J247). Tiered: Foundation (papers 1-2, grades 5-1) and Higher (papers 3-4, grades 9-4). Six teaching topics plus a practical-skills topic (B7), reproduced directly from the live OCR specification-at-a-glance page, fetched 2026-08-19.",
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-biology-a-j247-from-2016/specification-at-a-glance/', verifiedDate: '2026-09-02',
+    notes: "OCR GCSE (9-1) Gateway Science Suite Biology A (J247). Tiered: Foundation (papers 1-2, grades 5-1) and Higher (papers 3-4, grades 9-4). Six teaching topics plus a practical-skills topic (B7), reproduced directly from the live OCR specification-at-a-glance page, fetched 2026-08-19; Topic 2 (Scaling up) learning outcomes (B2.1, B2.2) re-fetched and cross-checked in full against version 4.0 of the official accredited specification PDF (ocr.org.uk) on 2026-09-02.",
     topics: [
       { number: 1, name: 'Cell level systems', slug: 'cell-level-systems-ocr-gcse-biology', subtopics: [
         { number: '1.1', name: 'Cell structures', slug: 'cell-structures-ocr-gcse-biology' },
@@ -1617,14 +1622,18 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2023', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official A Level Biology A (H420) specification PDF, Version 3, August 2023',
-    sourceUrl: 'https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OCR A Level Biology A (H420), Version 3, for first teaching September 2023 (first assessment Summer 2025) -- this supersedes the earlier H420 specification (first assessment 2017-2024, now retired). Content is split into six teaching modules; Module 1 (practical skills) is assessed throughout the written papers rather than as standalone content. Module names reproduced directly from the specification's content overview. Module 1 subtopics (1.1-1.2) reproduce the same practical-skills structure documented for OCR A Level Physics A (H556), fetched and verified 2026-08-21; modules 2-6 remain name-only pending the same fetch for their content.",
+    sourceUrl: 'https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf', verifiedDate: '2026-09-02',
+    notes: "OCR A Level Biology A (H420), Version 3, for first teaching September 2023 (first assessment Summer 2025) -- this supersedes the earlier H420 specification (first assessment 2017-2024, now retired). Content is split into six teaching modules; Module 1 (practical skills) is assessed throughout the written papers rather than as standalone content. Module names reproduced directly from the specification's content overview. Module 1 subtopics (1.1-1.2) reproduce the same practical-skills structure documented for OCR A Level Physics A (H556), fetched and verified 2026-08-21. Module 2 (Foundations in biology) sub-topic structure (2.1.1-2.1.3 confirmed in full; 2.1.4-2.1.6 topic names taken from the module's own summary list) reproduced directly from the official accredited specification PDF, Version 3, fetched and verified 2026-09-02; modules 3-6 remain name-only pending the same fetch for their content.",
     topics: [
       { number: 1, name: 'Development of practical skills in biology', slug: 'development-of-practical-skills-in-biology-ocr-alevel-biology', subtopics: [
         { number: '1.1', name: 'Practical skills assessed in a written examination', slug: 'practical-skills-written-examination-ocr-alevel-biology' },
         { number: '1.2', name: 'Practical skills assessed in the practical endorsement', slug: 'practical-skills-practical-endorsement-ocr-alevel-biology' },
       ] },
-      { number: 2, name: 'Foundations in biology', slug: 'foundations-in-biology-ocr-alevel-biology', subtopics: [] },
+      { number: 2, name: 'Foundations in biology', slug: 'foundations-in-biology-ocr-alevel-biology', subtopics: [
+        { number: '2.1.1', name: 'Cell structure', slug: 'cell-structure-ocr-alevel-biology' },
+        { number: '2.1.2', name: 'Biological molecules', slug: 'biological-molecules-ocr-alevel-biology' },
+        { number: '2.1.3', name: 'Nucleotides and nucleic acids', slug: 'nucleotides-and-nucleic-acids-ocr-alevel-biology' },
+      ] },
       { number: 3, name: 'Exchange and transport', slug: 'exchange-and-transport-ocr-alevel-biology', subtopics: [] },
       { number: 4, name: 'Biodiversity, evolution and disease', slug: 'biodiversity-evolution-and-disease-ocr-alevel-biology', subtopics: [] },
       { number: 5, name: 'Communication, homeostasis and energy', slug: 'communication-homeostasis-and-energy-ocr-alevel-biology', subtopics: [] },
@@ -1925,15 +1934,20 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official GCSE (9-1) Business (J204) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/business-j204-from-2017/specification-at-a-glance/', verifiedDate: '2026-08-19',
-    notes: 'OCR GCSE (9-1) Business (J204), for first teaching from 2017. Assessed across two equally weighted components. Topic 1 (Business activity, marketing and people = Component J204/01) subtopics reproduce the specification PDF\'s own three named sections (1. Business activity, 2. Marketing, 3. People, each further broken into numbered sub-topics 1.1-3.7), fetched and verified 2026-08-21; topic 2 (Component J204/02) remains name-only pending the same fetch for its content.',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/business-j204-from-2017/specification-at-a-glance/', verifiedDate: '2026-09-02',
+    notes: 'OCR GCSE (9-1) Business (J204), for first teaching from 2017. Assessed across two equally weighted components. Topic 1 (Business activity, marketing and people = Component J204/01) subtopics reproduce the specification PDF\'s own three named sections (1. Business activity, 2. Marketing, 3. People, each further broken into numbered sub-topics 1.1-3.7), fetched and verified 2026-08-21. Topic 2 (Operations, finance and influences on business = Component J204/02) sub-topic structure (sections 4-7: Operations 4.1-4.6, Finance 5.1-5.5, Influences on business 6.1-6.3, plus the unnumbered synoptic section 7 The interdependent nature of business) reproduced directly from the official accredited specification PDF (ocr.org.uk), fetched and verified 2026-09-02.',
     topics: [
       { number: 1, name: 'Business activity, marketing and people', slug: 'business-activity-marketing-and-people-ocr-gcse-business', subtopics: [
         { number: '1', name: 'Business activity', slug: 'business-activity-ocr-gcse-business' },
         { number: '2', name: 'Marketing', slug: 'marketing-ocr-gcse-business' },
         { number: '3', name: 'People', slug: 'people-ocr-gcse-business' },
       ] },
-      { number: 2, name: 'Operations, finance and influences on business', slug: 'operations-finance-and-influences-on-business-ocr-gcse-business', subtopics: [] },
+      { number: 2, name: 'Operations, finance and influences on business', slug: 'operations-finance-and-influences-on-business-ocr-gcse-business', subtopics: [
+        { number: '4', name: 'Operations', slug: 'operations-ocr-gcse-business' },
+        { number: '5', name: 'Finance', slug: 'finance-ocr-gcse-business' },
+        { number: '6', name: 'Influences on business', slug: 'influences-on-business-ocr-gcse-business' },
+        { number: '7', name: 'The interdependent nature of business', slug: 'interdependent-nature-of-business-ocr-gcse-business' },
+      ] },
     ],
   },
 
@@ -1943,8 +1957,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: '2027', status: 'current',
     tiered: false,
     source: 'OCR -- official AS and A Level Business (H031, H431) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/business-h031-h431-from-2015/specification-at-a-glance/', verifiedDate: '2026-08-19',
-    notes: 'OCR A Level Business (H431); current, final first teach September 2025, final assessment summer 2027. OCR\'s replacement A Level Business (H436) has first teach September 2026. Topic 1 (Business objectives and strategic decisions = specification Area of Study \'Business objectives and strategy\') subtopics reproduce the specification PDF\'s own named content sub-headings, fetched and verified 2026-08-21; topics 2-7 remain name-only pending the same fetch for their content.',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/business-h031-h431-from-2015/specification-at-a-glance/', verifiedDate: '2026-09-02',
+    notes: 'OCR A Level Business (H431); current, final first teach September 2025, final assessment summer 2027. OCR\'s replacement A Level Business (H436) has first teach September 2026. Topic 1 (Business objectives and strategic decisions = specification Area of Study \'Business objectives and strategy\') subtopics reproduce the specification PDF\'s own named content sub-headings, fetched and verified 2026-08-21. Topic 2 (External influences facing businesses) sub-topic structure reproduced directly from the official accredited specification PDF (ocr.org.uk), fetched and verified 2026-09-02: covers markets (market size/growth, demand and supply, market forces, physical/non-physical markets, competition, market dominance) and the wider PESTLE-style external environment (global context, international trade and free trade, the EU, emerging markets, political, economic, social, technological, the digital revolution, ethical, legal and environmental factors); topics 3-7 remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Business objectives and strategic decisions', slug: 'business-objectives-and-strategic-decisions-ocr-alevel-business', subtopics: [
         { number: '1.1', name: 'Different stakeholder and business objectives', slug: 'different-stakeholder-and-business-objectives-ocr-alevel-business' },
@@ -1956,7 +1970,14 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.7', name: 'Decision making', slug: 'decision-making-ocr-alevel-business' },
         { number: '1.8', name: 'Conflicts in business decision making', slug: 'conflicts-in-business-decision-making-ocr-alevel-business' },
       ] },
-      { number: 2, name: 'External influences facing businesses', slug: 'external-influences-facing-businesses-ocr-alevel-business', subtopics: [] },
+      { number: 2, name: 'External influences facing businesses', slug: 'external-influences-facing-businesses-ocr-alevel-business', subtopics: [
+        { number: '2.1', name: 'The market, market size and growth', slug: 'the-market-market-size-and-growth-ocr-alevel-business' },
+        { number: '2.2', name: 'Demand and supply', slug: 'demand-and-supply-ocr-alevel-business' },
+        { number: '2.3', name: 'Market forces, physical and non-physical markets, competition and market dominance', slug: 'market-forces-competition-and-market-dominance-ocr-alevel-business' },
+        { number: '2.4', name: 'Global context, international trade, the EU and emerging markets', slug: 'global-context-international-trade-and-emerging-markets-ocr-alevel-business' },
+        { number: '2.5', name: 'Political, economic, social and technological factors', slug: 'political-economic-social-and-technological-factors-ocr-alevel-business' },
+        { number: '2.6', name: 'The digital revolution, ethical, legal and environmental factors', slug: 'digital-ethical-legal-and-environmental-factors-ocr-alevel-business' },
+      ] },
       { number: 3, name: 'Marketing and marketing strategies', slug: 'marketing-and-marketing-strategies-ocr-alevel-business', subtopics: [] },
       { number: 4, name: 'Operational strategy', slug: 'operational-strategy-ocr-alevel-business', subtopics: [] },
       { number: 5, name: 'Human resources', slug: 'human-resources-ocr-alevel-business', subtopics: [] },
@@ -2287,14 +2308,23 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official GCSE (9-1) Economics (J205) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/economics-j205-from-2017/specification-at-a-glance/', verifiedDate: '2026-08-19',
-    notes: 'OCR GCSE (9-1) Economics (J205), for first teaching from 2017. Assessed across two equally weighted components, each covering two named topics. Topic 1 (Introduction to economics) subtopics reproduce the specification PDF\'s own 1.1-1.2 sub-headings, fetched and verified 2026-08-21; topics 2-4 remain name-only pending the same fetch for their content.',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/gcse/economics-j205-from-2017/specification-at-a-glance/', verifiedDate: '2026-09-02',
+    notes: 'OCR GCSE (9-1) Economics (J205), for first teaching from 2017. Assessed across two equally weighted components, each covering two named topics. Topic 1 (Introduction to economics) subtopics reproduce the specification PDF\'s own 1.1-1.2 sub-headings, fetched and verified 2026-08-21. Topic 2 (The role of markets and money) sub-topic structure (2.1-2.8) reproduced directly from the official accredited specification PDF (ocr.org.uk), fetched and verified 2026-09-02; topics 3-4 remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'Introduction to economics', slug: 'introduction-to-economics-ocr-gcse-economics', subtopics: [
         { number: '1.1', name: 'Main economic groups and factors of production', slug: 'main-economic-groups-and-factors-of-production-ocr-gcse-economics' },
         { number: '1.2', name: 'The basic economic problem', slug: 'the-basic-economic-problem-ocr-gcse-economics' },
       ] },
-      { number: 2, name: 'The role of markets and money', slug: 'the-role-of-markets-and-money-ocr-gcse-economics', subtopics: [] },
+      { number: 2, name: 'The role of markets and money', slug: 'the-role-of-markets-and-money-ocr-gcse-economics', subtopics: [
+        { number: '2.1', name: 'The role of markets', slug: 'the-role-of-markets-ocr-gcse-economics' },
+        { number: '2.2', name: 'Demand', slug: 'demand-ocr-gcse-economics' },
+        { number: '2.3', name: 'Supply', slug: 'supply-ocr-gcse-economics' },
+        { number: '2.4', name: 'Price', slug: 'price-ocr-gcse-economics' },
+        { number: '2.5', name: 'Competition', slug: 'competition-ocr-gcse-economics' },
+        { number: '2.6', name: 'Production', slug: 'production-ocr-gcse-economics' },
+        { number: '2.7', name: 'The labour market', slug: 'the-labour-market-ocr-gcse-economics' },
+        { number: '2.8', name: 'The role of money and financial markets', slug: 'the-role-of-money-and-financial-markets-ocr-gcse-economics' },
+      ] },
       { number: 3, name: 'Economic objectives and the role of government', slug: 'economic-objectives-and-the-role-of-government-ocr-gcse-economics', subtopics: [] },
       { number: 4, name: 'International trade and the global economy', slug: 'international-trade-and-the-global-economy-ocr-gcse-economics', subtopics: [] },
     ],
@@ -2306,8 +2336,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2019', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OCR -- official AS and A Level Economics (H060, H460) specification-at-a-glance page',
-    sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/specification-at-a-glance/', verifiedDate: '2026-08-19',
-    notes: 'OCR A Level Economics (H460), for first teaching from 2019. Assessed across three components. Topic 1 (Microeconomics = Component H460/01) subtopics reproduce the specification PDF\'s own five named content-overview sections, fetched and verified 2026-08-21; topics 2-3 remain name-only pending the same fetch for their content.',
+    sourceUrl: 'https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2019/specification-at-a-glance/', verifiedDate: '2026-09-02',
+    notes: 'OCR A Level Economics (H460), for first teaching from 2019. Assessed across three components. Topic 1 (Microeconomics = Component H460/01) subtopics reproduce the specification PDF\'s own five named content-overview sections, fetched and verified 2026-08-21. Topic 2 (Macroeconomics = Component H460/02) sub-topic structure (five named content-overview sections: Aggregate demand and aggregate supply, Economic policy objectives, Implementing policy, The global context, The financial sector) reproduced directly from the official accredited specification PDF, version 3.0 (June 2026), fetched and verified 2026-09-02; topic 3 (Themes in economics) is a fully synoptic, unseen-theme component with no separate prescribed content of its own, per the specification\'s own section 2e.',
     topics: [
       { number: 1, name: 'Microeconomics', slug: 'microeconomics-ocr-alevel-economics', subtopics: [
         { number: '1', name: 'Introduction to microeconomics', slug: 'introduction-to-microeconomics-ocr-alevel-economics' },
@@ -2316,7 +2346,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '4', name: 'Market structures', slug: 'market-structures-ocr-alevel-economics' },
         { number: '5', name: 'The labour market', slug: 'the-labour-market-ocr-alevel-economics' },
       ] },
-      { number: 2, name: 'Macroeconomics', slug: 'macroeconomics-ocr-alevel-economics', subtopics: [] },
+      { number: 2, name: 'Macroeconomics', slug: 'macroeconomics-ocr-alevel-economics', subtopics: [
+        { number: '1', name: 'Aggregate demand and aggregate supply', slug: 'aggregate-demand-and-aggregate-supply-ocr-alevel-economics' },
+        { number: '2', name: 'Economic policy objectives', slug: 'economic-policy-objectives-ocr-alevel-economics' },
+        { number: '3', name: 'Implementing policy', slug: 'implementing-policy-ocr-alevel-economics' },
+        { number: '4', name: 'The global context', slug: 'the-global-context-ocr-alevel-economics' },
+        { number: '5', name: 'The financial sector', slug: 'the-financial-sector-ocr-alevel-economics' },
+      ] },
       { number: 3, name: 'Themes in economics', slug: 'themes-in-economics-ocr-alevel-economics', subtopics: [] },
     ],
   },
@@ -3006,8 +3042,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2015', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'AQA — official specification pages at aqa.org.uk/subjects/english/gcse/english-8700/specification',
-    sourceUrl: 'https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
-    notes: 'Untiered. A separate non-exam-assessed Spoken Language endorsement (0% weighting of the GCSE) is assessed but does not carry a mark toward the grade, so it is not encoded as a content topic here.',
+    sourceUrl: 'https://www.aqa.org.uk/subjects/english/gcse/english-8700/specification/specification-at-a-glance', verifiedDate: '2026-09-02',
+    notes: 'Untiered. A separate non-exam-assessed Spoken Language endorsement (0% weighting of the GCSE) is assessed but does not carry a mark toward the grade, so it is not encoded as a content topic here. Topic 2 (Paper 2, Writers\' Viewpoints and Perspectives) re-verified against the official subject-content and specification-at-a-glance pages (aqa.org.uk) on 2026-09-02: sources are non-fiction/literary non-fiction from the 19th century plus the 20th or 21st century; Section B sets a single writing task related to the Section A theme.',
     topics: [
       { number: 1, name: 'Paper 1 – Explorations in Creative Reading and Writing', slug: 'paper-1-explorations-in-creative-reading-and-writing-8700', subtopics: [
         { number: '1.1', name: 'Section A: Reading', slug: 'section-a-reading-8700-p1' },
