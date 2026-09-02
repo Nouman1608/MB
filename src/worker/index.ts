@@ -27,6 +27,10 @@
  * `not_found_handling: "404-page"` serves dist/404.html properly.
  */
 import { onRequestPost, onRequestGet } from '../../functions/api/enquiry.ts';
+import {
+  onRequestGet as onGscVerifyGet,
+  onRequestPost as onGscVerifyMethodNotAllowed,
+} from '../../functions/api/admin/gsc-verify.ts';
 
 /**
  * Minimal local binding types. Deliberately hand-written rather than adding
@@ -41,9 +45,22 @@ interface Env {
     get(key: string): Promise<string | null>;
     put(key: string, value: string, opts?: { expirationTtl?: number }): Promise<void>;
   };
+  GSC_SERVICE_ACCOUNT_JSON?: string;
 }
 
 const ENQUIRY_PATH = '/api/enquiry';
+
+/**
+ * D-123/D-124 -- this site is deployed as a Worker with static assets, not
+ * classic Cloudflare Pages (see this file's own header comment above): the
+ * `functions/` directory is NOT auto-routed the way it would be on Pages.
+ * functions/api/admin/gsc-verify.ts existed as dead code for one deploy
+ * cycle (D-123) before this was caught -- every route under functions/
+ * needs an explicit dispatch entry here, exactly like ENQUIRY_PATH below,
+ * or it is unreachable in production regardless of how correct the
+ * function file itself is. See D-124 for the full account.
+ */
+const GSC_VERIFY_PATH = '/api/admin/gsc-verify';
 
 /**
  * v1.x CLOSURE WS3 -- www.marlbridge.com -> marlbridge.com, 301, single hop.
@@ -88,6 +105,11 @@ export default {
         JSON.stringify({ ok: false, message: 'Method not allowed.' }),
         { status: 405, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' } },
       );
+    }
+
+    if (pathname === GSC_VERIFY_PATH || pathname === `${GSC_VERIFY_PATH}/`) {
+      if (request.method === 'GET') return onGscVerifyGet({ env });
+      return onGscVerifyMethodNotAllowed();
     }
 
     return env.ASSETS.fetch(request);

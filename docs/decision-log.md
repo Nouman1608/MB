@@ -6321,3 +6321,34 @@ filled.
   Cloudflare Worker secret, both owner-performed). Verification endpoint written, gated, and gate-
   clean, not yet deployed or exercised. Architecture question open. No storage/dashboard/automation
   built.
+
+## D-124 — GSC demand engine follow-up: gsc-verify.ts was dead code, wired into the actual Worker router
+
+- **Date:** 2026-09-02.
+- **Context:** D-123 shipped `functions/api/admin/gsc-verify.ts`, a temporary verification endpoint,
+  correctly shaped as a Pages Function and gate-clean. It was deployed (via this session's bundle)
+  and `GET /api/admin/gsc-verify` was hit for real -- and returned the site's own static 404 page,
+  not the function's response.
+- **Root cause, found by reading `src/worker/index.ts` (which D-123 should have checked and did
+  not):** this site deploys as a Cloudflare Worker with static assets (`wrangler.jsonc`'s `main` +
+  `assets` binding), not classic Cloudflare Pages. That file's own header comment says so directly:
+  "Workers do NOT read the `functions/` directory" -- `functions/api/enquiry.ts` only works because
+  `src/worker/index.ts` explicitly imports it and dispatches `/api/enquiry` to it by hand; every
+  other path falls through to `env.ASSETS.fetch(request)` (static assets, 404 for anything
+  unmatched). `gsc-verify.ts` was written correctly but never wired into that dispatch, so it was
+  unreachable dead code for one full deploy cycle. A real, avoidable mistake -- D-123's own
+  "inspect existing patterns" step read `enquiry.ts` but not the router that actually calls it.
+- **Fix:** `src/worker/index.ts` now imports `onRequestGet`/`onRequestPost` from
+  `functions/api/admin/gsc-verify.ts` (aliased to avoid a name collision with the existing enquiry
+  handlers) and dispatches `GET /api/admin/gsc-verify` (and its trailing-slash variant, matching the
+  existing `/api/enquiry` pattern) to it; any other method returns the function's own 405. Added
+  `GSC_SERVICE_ACCOUNT_JSON` to this file's local `Env` interface for consistency with the other
+  declared bindings.
+- **Verification gate, run in full against this fix:** `npx astro check` (0 errors),
+  `npm run validate:academic`, `npm run build`, `npm run audit:all` (11/11), `node
+  scripts/test-negative-validation-suite.mjs` (32/32), `npm audit --omit=dev` (0 vulnerabilities),
+  functions unit tests (31/31) -- all clean.
+- **Not yet done:** the endpoint has not been hit again post-fix as of this entry -- that happens
+  after this change is deployed, same bundle-and-verify discipline as D-122/D-123. No GSC numbers
+  claimed here.
+- **Status:** routing fixed and gate-clean, not yet deployed or re-exercised.
