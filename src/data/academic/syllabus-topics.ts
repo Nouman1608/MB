@@ -557,6 +557,47 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
 
   {
+    boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'chemistry',
+    syllabusCode: 'J248', syllabusSeries: 'Version 3.6, for first teaching 2016',
+    effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
+    tiered: true,
+    source: 'OCR — official GCSE (9-1) Chemistry A (Gateway Science) J248 specification PDF',
+    sourceUrl: 'https://www.ocr.org.uk/Images/234598-specification-accredited-gcse-gateway-science-suite-chemistry-a-j248.pdf', verifiedDate: '2026-09-02',
+    notes: 'Six content topics (C1-C6) plus a cross-cutting C7 Practical Skills topic (not itemised as content here, since it provides skills rather than its own subject matter). Paper 1 covers C1-C3, Paper 2 covers C4-C6. Topic names for all six topics, and C2\'s three subtopic names, fetched and verified 2026-09-02 from the live specification PDF (Version 3.6). C1.2 subtopic detail (Atomic Structure) was already covered by an existing Marlbridge resource before this taxonomy entry was created; C2.1 subtopic detail (Purity and Separating Mixtures) fetched in the same pass. C3-C6 subtopic names are topic-name-only pending the same fetch for their content.',
+    topics: [
+      { number: 1, name: 'Topic C1 – Particles', slug: 'topic-c1-particles-j248', subtopics: [
+        { number: 'C1.1', name: 'The Particle Model', slug: 'c1-1-particle-model-j248' },
+        { number: 'C1.2', name: 'Atomic Structure', slug: 'c1-2-atomic-structure-j248' },
+      ] },
+      { number: 2, name: 'Topic C2 – Elements, Compounds and Mixtures', slug: 'topic-c2-elements-compounds-mixtures-j248', subtopics: [
+        { number: 'C2.1', name: 'Purity and Separating Mixtures', slug: 'c2-1-purity-separating-mixtures-j248' },
+        { number: 'C2.2', name: 'Bonding', slug: 'c2-2-bonding-j248' },
+        { number: 'C2.3', name: 'Properties of Materials', slug: 'c2-3-properties-of-materials-j248' },
+      ] },
+      { number: 3, name: 'Topic C3 – Chemical Reactions', slug: 'topic-c3-chemical-reactions-j248', subtopics: [
+        { number: 'C3.1', name: 'Introducing Chemical Reactions', slug: 'c3-1-introducing-chemical-reactions-j248' },
+        { number: 'C3.2', name: 'Energetics', slug: 'c3-2-energetics-j248' },
+        { number: 'C3.3', name: 'Types of Chemical Reactions', slug: 'c3-3-types-of-chemical-reactions-j248' },
+        { number: 'C3.4', name: 'Electrolysis', slug: 'c3-4-electrolysis-j248' },
+      ] },
+      { number: 4, name: 'Topic C4 – Predicting and Identifying Reactions and Products', slug: 'topic-c4-predicting-identifying-reactions-j248', subtopics: [
+        { number: 'C4.1', name: 'Predicting Chemical Reactions', slug: 'c4-1-predicting-chemical-reactions-j248' },
+        { number: 'C4.2', name: 'Identifying the Products of Chemical Reactions', slug: 'c4-2-identifying-products-j248' },
+      ] },
+      { number: 5, name: 'Topic C5 – Monitoring and Controlling Chemical Reactions', slug: 'topic-c5-monitoring-controlling-reactions-j248', subtopics: [
+        { number: 'C5.1', name: 'Monitoring Chemical Reactions', slug: 'c5-1-monitoring-chemical-reactions-j248' },
+        { number: 'C5.2', name: 'Controlling Reactions', slug: 'c5-2-controlling-reactions-j248' },
+        { number: 'C5.3', name: 'Equilibria', slug: 'c5-3-equilibria-j248' },
+      ] },
+      { number: 6, name: 'Topic C6 – Global Challenges', slug: 'topic-c6-global-challenges-j248', subtopics: [
+        { number: 'C6.1', name: 'Improving Processes and Products', slug: 'c6-1-improving-processes-products-j248' },
+        { number: 'C6.2', name: 'Organic Chemistry', slug: 'c6-2-organic-chemistry-j248' },
+        { number: 'C6.3', name: 'Interpreting and Interacting with Earth Systems', slug: 'c6-3-earth-systems-j248' },
+      ] },
+    ],
+  },
+
+  {
     boardSlug: 'ocr', qualificationSlug: 'gcse', subjectSlug: 'physics',
     syllabusCode: 'J249', syllabusSeries: 'For first teaching 2016',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
