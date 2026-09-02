@@ -2022,10 +2022,15 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Business (9625) qualification page',
     sourceUrl: 'https://www.oxfordaqa.com/qualifications/international-as-a-level-business/', verifiedDate: '2026-08-19',
-    notes: 'OxfordAQA International AS and A-level Business (9625), first teaching September 2018. Being withdrawn and replaced by revised specification 9725 (first teaching September 2026, first AS exams May/June 2027, first A2 exams May/June 2028); students already partway through the course follow 9625 to completion (final AS exams May/June 2026, final A2 exams May/June 2027), while new starts from September 2026 follow 9725. Topic list recorded here is from 9625\'s official syllabus summary; subtopics left empty pending fetch of the full specification PDF.',
+    notes: 'OxfordAQA International AS and A-level Business (9625), first teaching September 2018. Being withdrawn and replaced by revised specification 9725 (first teaching September 2026, first AS exams May/June 2027, first A2 exams May/June 2028); students already partway through the course follow 9625 to completion (final AS exams May/June 2026, final A2 exams May/June 2027), while new starts from September 2026 follow 9725. Topic 2 (Marketing) subtopics 3.1.2.1-3.1.2.4 reproduce the specification\'s own sub-headings, fetched and verified 2026-09-02 from the full specification PDF (oxfordaqa.com/oaqaresources/business/international-a-level-business-specification-v1.pdf). Other topics remain topic-name-only pending the same fetch.',
     topics: [
       { number: 1, name: 'What is business?', slug: 'what-is-business-oxfordaqa-alevel-business', stage: 'AS', subtopics: [] },
-      { number: 2, name: 'Marketing', slug: 'marketing-oxfordaqa-alevel-business', stage: 'AS', subtopics: [] },
+      { number: 2, name: 'Marketing', slug: 'marketing-oxfordaqa-alevel-business', stage: 'AS', subtopics: [
+        { number: '3.1.2.1', name: 'Marketing objectives and plans', slug: 'marketing-objectives-and-plans-9625' },
+        { number: '3.1.2.2', name: 'Marketing data', slug: 'marketing-data-9625' },
+        { number: '3.1.2.3', name: 'Segmentation, targeting and positioning', slug: 'segmentation-targeting-positioning-9625' },
+        { number: '3.1.2.4', name: 'The marketing mix', slug: 'the-marketing-mix-9625' },
+      ] },
       { number: 3, name: 'Operational performance', slug: 'operational-performance-oxfordaqa-alevel-business', stage: 'AS', subtopics: [] },
       { number: 4, name: 'Human resources', slug: 'human-resources-oxfordaqa-alevel-business', stage: 'AS', subtopics: [] },
       { number: 5, name: 'Finance', slug: 'finance-oxfordaqa-alevel-business', stage: 'AS', subtopics: [] },
@@ -3145,15 +3150,15 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA — official International AS and A-level English Language (9670) specification PDF',
     sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2023/10/oxfordaqa-a-level-english-language-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'Modular. International AS = Units 1–2; the full International A-level adds Unit 3 and Unit 4 (written) or Unit 4b (non-exam-assessed language investigation, the alternative to written Unit 4a).',
+    notes: 'Modular. International AS = Units 1-2; the full International A-level adds Unit 3 and Unit 4 (written) or Unit 4b (non-exam-assessed language investigation, the alternative to written Unit 4a). Unit 2 (Language and Society) subtopics 3.2.1-3.2.2 reproduce the specification\'s own sub-headings and content, fetched and verified 2026-09-02 from the full specification PDF, Version 5.2.',
     topics: [
       { number: 1, name: 'Unit 1 – Language and Context', slug: 'unit-1-language-and-context-9670', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Section A: Understanding Texts', slug: 'section-a-understanding-texts-9670' },
         { number: '1.2', name: 'Section B: Directed Writing', slug: 'section-b-directed-writing-9670' },
       ] },
       { number: 2, name: 'Unit 2 – Language and Society', slug: 'unit-2-language-and-society-9670', stage: 'AS', subtopics: [
-        { number: '2.1', name: 'Section A: Language and Social Groups – Texts', slug: 'section-a-language-and-social-groups-texts-9670' },
-        { number: '2.2', name: 'Section B: Language and Social Groups – Writing', slug: 'section-b-language-and-social-groups-writing-9670' },
+        { number: '3.2.1', name: 'Section A: Language and Social Groups – Texts', slug: 'section-a-language-and-social-groups-texts-9670' },
+        { number: '3.2.2', name: 'Section B: Language and Social Groups – Writing', slug: 'section-b-language-and-social-groups-writing-9670' },
       ] },
       { number: 3, name: 'Unit 3 – Language Variation', slug: 'unit-3-language-variation-9670', stage: 'A', subtopics: [
         { number: '3.1', name: 'Section A: Learning Language', slug: 'section-a-learning-language-9670' },
@@ -3397,7 +3402,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
     sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-psychology-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS content is Unit 1 and Unit 2; A2 adds Unit 3 and Unit 4 (Unit 4 is synoptic). AS content is 50% of A-level content but contributes 40% of final marks; units are resittable.',
+    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS content is Unit 1 and Unit 2; A2 adds Unit 3 and Unit 4 (Unit 4 is synoptic). AS content is 50% of A-level content but contributes 40% of final marks; units are resittable. Unit 2 (Biopsychology, Development and Research Methods 1) subtopics 3.2.1-3.2.3 reproduce the specification\'s own sub-headings and content bullets, fetched and verified 2026-09-02 from the full specification PDF, Version 3.1 (oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-psychology-specification.pdf).',
     topics: [
       { number: 1, name: 'Unit 1 – Introductory Topics in Psychology', slug: 'unit-1-introductory-topics-9685', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Memory', slug: 'memory-9685' },
@@ -3405,9 +3410,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.3', name: 'Psychopathology', slug: 'psychopathology-9685' },
       ] },
       { number: 2, name: 'Unit 2 – Biopsychology, Development and Research Methods 1', slug: 'unit-2-biopsychology-development-9685', stage: 'AS', subtopics: [
-        { number: '2.1', name: 'Biopsychology', slug: 'biopsychology-9685' },
-        { number: '2.2', name: 'Cognitive Development', slug: 'cognitive-development-9685' },
-        { number: '2.3', name: 'Research Methods 1', slug: 'research-methods-1-9685' },
+        { number: '3.2.1', name: 'Biopsychology', slug: 'biopsychology-9685' },
+        { number: '3.2.2', name: 'Cognitive Development', slug: 'cognitive-development-9685' },
+        { number: '3.2.3', name: 'Research Methods 1', slug: 'research-methods-1-9685' },
       ] },
       { number: 3, name: 'Unit 3 – Advanced Topics and Research Methods 2', slug: 'unit-3-advanced-topics-9685', stage: 'A', subtopics: [
         { number: '3.1', name: 'Psychology of Sleep', slug: 'psychology-of-sleep-9685' },
@@ -3754,11 +3759,17 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2025/08/oxfordaqa-international-gcse-history-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'New qualification: for teaching from September 2026, first examined May/June 2028. Two papers: Paper 1 International relations depth studies, Paper 2 Studies in change. Specific named depth-study and change-study options are not itemised here.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/02/oxfordaqa-international-gcse-history-specification.pdf', verifiedDate: '2026-09-02',
+    notes: 'New qualification: for teaching from September 2026, first examined May/June 2028. Two papers, each 1hr45min/60 marks/50% of GCSE. Both papers\' named options fetched and verified 2026-09-02 from the live oxfordaqa.com qualification page (which itself links the current specification PDF, Feb 2026 version, superseding the Aug 2025 URL previously recorded here).',
     topics: [
-      { number: 1, name: 'Paper 1 – International Relations Depth Studies', slug: 'paper-1-international-relations-depth-studies-9245', subtopics: [] },
-      { number: 2, name: 'Paper 2 – Studies in Change', slug: 'paper-2-studies-in-change-9245', subtopics: [] },
+      { number: 1, name: 'Paper 1 – International Relations Depth Studies: Conflict and Peace in the 20th Century', slug: 'paper-1-international-relations-depth-studies-9245', subtopics: [
+        { number: '1.A', name: 'Section A (choose 1 of 2): Peace-making and the League of Nations, 1918-1939; Crises of the Cold War, 1960-1975', slug: 'paper-1-section-a-9245' },
+        { number: '1.B', name: "Section B (choose 1 of 4): The origins of the First World War, c1890-1915; Hitler's foreign policy and the origins of the Second World War, 1933-1941; The origins and development of the Cold War, 1945-1960; Detente and the collapse of Communism, 1969-1991", slug: 'paper-1-section-b-9245' },
+      ] },
+      { number: 2, name: 'Paper 2 – Studies in Change', slug: 'paper-2-studies-in-change-9245', subtopics: [
+        { number: '2.A', name: 'Section A (choose 1 of 3): Life in Germany, 1919-1949; Life in Russia and the USSR, 1914-1953; Life in the USA, 1919-1968', slug: 'paper-2-section-a-9245' },
+        { number: '2.B', name: 'Section B (choose 1 of 2): Technology and change, c800-present day; Medicine and change, c800-present day', slug: 'paper-2-section-b-9245' },
+      ] },
     ],
   },
   {
