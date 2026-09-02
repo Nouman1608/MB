@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T09:17:58.148Z",
+  "generatedAt": "2026-09-02T09:24:02.681Z",
   "rowCount": 160,
   "rows": [
     {
@@ -7273,7 +7273,7 @@
       "assessmentSourceUrl": "https://www.oxfordaqa.com/qualifications/international-as-a-level-chemistry/",
       "assessmentVerifiedOn": "2026-08-28",
       "assessmentLifecycleStatus": "current",
-      "studyGuideCount": 1,
+      "studyGuideCount": 6,
       "revisionNoteCount": 1,
       "pastPaperCount": 0,
       "practiceQuestionCount": 1,
@@ -7284,14 +7284,14 @@
       "flashcardCount": 0,
       "videoCount": 0,
       "diagnosticCount": 0,
-      "totalResourceCount": 3,
+      "totalResourceCount": 8,
       "namedAuthor": "Marlbridge Academic Team (organisation byline — see v1.2 WS7)",
       "namedReviewer": "NO_DATA",
-      "lastReview": "2026-08-22",
+      "lastReview": "2026-09-02",
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 2046,
+      "totalQualifyingWordCount": 6686,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
