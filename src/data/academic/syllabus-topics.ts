@@ -1475,7 +1475,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: true,
     source: 'Cambridge International -- official IGCSE Biology (0610) syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697203-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: "Cambridge IGCSE Biology (0610), syllabus for exams in 2026, 2027 and 2028. Tiered: Core (Papers 1 and 3, grades C-G) and Extended (Papers 2 and 4, grades A*-G), plus one practical paper (5 or 6). Twenty-one topic names reproduced directly from the official syllabus PDF's content overview, fetched 2026-08-19. Topic 1's three sub-topics (1.1-1.3) reproduced directly from the official syllabus PDF's Subject content section, fetched 2026-08-21. Topic 2's two sub-topics (2.1-2.2) reproduced directly from the official syllabus PDF's Subject content section, fetched 2026-08-31. Sub-topic-level detail for topics 3-21 (Core/Supplement split per outcome) not yet researched -- those topics remain recorded name-only pending a later phase.",
+    notes: "Cambridge IGCSE Biology (0610), syllabus for exams in 2026, 2027 and 2028. Tiered: Core (Papers 1 and 3, grades C-G) and Extended (Papers 2 and 4, grades A*-G), plus one practical paper (5 or 6). Twenty-one topic names reproduced directly from the official syllabus PDF's content overview, fetched 2026-08-19. Topic 1's three sub-topics (1.1-1.3) reproduced directly from the official syllabus PDF's Subject content section, fetched 2026-08-21. Topic 2's two sub-topics (2.1-2.2) reproduced directly from the official syllabus PDF's Subject content section, fetched 2026-08-31. Topic 3's three sub-topics (3.1-3.3) reproduced directly from the official syllabus PDF's Subject content section, fetched 2026-09-02. Sub-topic-level detail for topics 4-21 (Core/Supplement split per outcome) not yet researched -- those topics remain recorded name-only pending a later phase.",
     topics: [
       { number: 1, name: 'Characteristics and classification of living organisms', slug: 'characteristics-and-classification-of-living-organisms-cambridge-igcse-biology', subtopics: [
         { number: '1.1', name: 'Characteristics of living organisms', slug: 'characteristics-of-living-organisms-cambridge-igcse-biology' },
@@ -1486,7 +1486,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.1', name: 'Cell structure', slug: 'cell-structure-cambridge-igcse-biology' },
         { number: '2.2', name: 'Size of specimens', slug: 'size-of-specimens-cambridge-igcse-biology' },
       ] },
-      { number: 3, name: 'Movement into and out of cells', slug: 'movement-into-and-out-of-cells-cambridge-igcse-biology', subtopics: [] },
+      { number: 3, name: 'Movement into and out of cells', slug: 'movement-into-and-out-of-cells-cambridge-igcse-biology', subtopics: [
+        { number: '3.1', name: 'Diffusion', slug: 'diffusion-cambridge-igcse-biology' },
+        { number: '3.2', name: 'Osmosis', slug: 'osmosis-cambridge-igcse-biology' },
+        { number: '3.3', name: 'Active transport', slug: 'active-transport-cambridge-igcse-biology' },
+      ] },
       { number: 4, name: 'Biological molecules', slug: 'biological-molecules-cambridge-igcse-biology', subtopics: [] },
       { number: 5, name: 'Enzymes', slug: 'enzymes-cambridge-igcse-biology', subtopics: [] },
       { number: 6, name: 'Plant nutrition', slug: 'plant-nutrition-cambridge-igcse-biology', subtopics: [] },
@@ -2743,7 +2747,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/697167-2026-2028-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Version 5, published December 2025. Not tiered. The 10 named topics (grouped into "Computer systems" 1-6 and "Algorithms, programming and logic" 7-10) are verified in full from the content-overview table. Topic 1 (Data representation) sub-topic structure (1.1-1.3) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-08-21. Named sub-topics for topics 3-10 are not yet entered. Topic 2 (Data transmission) sub-topic structure (2.1-2.3) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-09-01. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) Computer Science 0984 sibling syllabus.',
+    notes: 'Version 5, published December 2025. Not tiered. The 10 named topics (grouped into "Computer systems" 1-6 and "Algorithms, programming and logic" 7-10) are verified in full from the content-overview table. Topic 1 (Data representation) sub-topic structure (1.1-1.3) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-08-21. Named sub-topics for topics 3-10 are not yet entered. Topic 2 (Data transmission) sub-topic structure (2.1-2.3) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-09-01. Topic 3 (Hardware) sub-topic structure (3.1-3.4) reproduced directly from the official syllabus PDF Subject content section, fetched 2026-09-02. This is the plain A*-G qualification, distinct from the numeric-grade Cambridge IGCSE (9-1) Computer Science 0984 sibling syllabus.',
     topics: [
       { number: 1, name: 'Data representation', slug: 'data-representation-0478', subtopics: [
         { number: '1.1', name: 'Number systems', slug: 'number-systems-0478' },
@@ -2755,7 +2759,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '2.2', name: 'Methods of error detection', slug: 'methods-of-error-detection-0478' },
         { number: '2.3', name: 'Encryption', slug: 'encryption-0478' },
       ] },
-      { number: 3, name: 'Hardware', slug: 'hardware-0478', subtopics: [] },
+      { number: 3, name: 'Hardware', slug: 'hardware-0478', subtopics: [
+        { number: '3.1', name: 'Computer architecture', slug: 'computer-architecture-0478' },
+        { number: '3.2', name: 'Input and output devices', slug: 'input-and-output-devices-0478' },
+        { number: '3.3', name: 'Data storage', slug: 'data-storage-0478' },
+        { number: '3.4', name: 'Network hardware', slug: 'network-hardware-0478' },
+      ] },
       { number: 4, name: 'Software', slug: 'software', subtopics: [] },
       { number: 5, name: 'The internet and its uses', slug: 'the-internet-and-its-uses', subtopics: [] },
       { number: 6, name: 'Automated and emerging technologies', slug: 'automated-and-emerging-technologies', subtopics: [] },
