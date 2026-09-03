@@ -122,6 +122,11 @@ Practising this kind of diagnosis -- working from a described scenario back to t
 - Work the four-step suspense account sequence from memory for a one-sided entry.
 - State the profit-adjustment rule for an understated expense.
 
+## Related resources
+
+[Control Accounts and Correction of Errors study guide](/resources/a-level-edexcel-accounting-control-accounts-and-correction-of-errors/) |
+[Control Accounts and Correction of Errors practice questions](/resources/edexcel-a-level-accounting-control-accounts-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level

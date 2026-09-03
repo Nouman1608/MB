@@ -153,6 +153,11 @@ as an independent check.
 - Practise building a statement of revised profit that adjusts line by
 line for each correction.
 
+## Related resources
+
+[Control Accounts and Correction of Errors revision notes](/resources/edexcel-a-level-accounting-control-accounts-revision-notes/) |
+[Control Accounts and Correction of Errors practice questions](/resources/edexcel-a-level-accounting-control-accounts-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level
