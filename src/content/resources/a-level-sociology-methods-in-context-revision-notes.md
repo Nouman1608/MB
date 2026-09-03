@@ -59,12 +59,58 @@ researching that topic in an educational setting**.
 - **Theoretical** — validity (does the method capture the true picture?), reliability (could it be
   repeated with the same results?), representativeness.
 
+## Worked example of combining method and context
+
+Take structured interviews used to investigate teachers' expectations of different pupils. A
+combined point looks like: structured interviews are relatively quick to administer, which suits
+teachers' limited free time — but a fixed set of questions may not capture the nuance of how
+expectations actually form in the classroom, a limitation specific to researching a subtle,
+situational attitude like teacher expectation. Another combined point: teachers, being
+professionals used to being observed and evaluated, may give socially desirable answers in a
+structured interview rather than admitting to differential treatment of pupils — reflecting a
+theoretical validity issue applied directly to this specific topic and method, rather than stated
+as a generic weakness of interviews. A top-band answer works through at least three or four such
+combined points in depth, rather than covering many points shallowly, and reaches an overall
+judgement about whether the method suits the topic on balance.
+
+## Using the item
+
+Exam questions on methods in context are built around a short item describing the research
+situation — for instance, noting that teachers are busy professionals with limited time, or that
+observation may not always be possible. The item is there to be used directly: a response that
+ignores it and writes generically about the method's strengths and weaknesses misses marks for
+application, since the item's specific details are exactly what a combined method-and-context
+point should draw on and reference explicitly, rather than being read once and then set aside.
+
+## Reliability and validity, applied
+
+The standardised nature of structured interviews supports reliability, since another researcher
+could repeat the same questions with the same participants and expect broadly comparable answers —
+a genuine strength specific to this method, even where it does not resolve a separate validity
+concern. Validity, by contrast, asks whether a method actually captures the true picture: a fixed
+set of interview questions may not allow a teacher to explain the complex, often unconscious
+reasoning behind differing expectations of pupils, reducing validity for this specific topic even
+while reliability remains strong. Recognising that a method can be strong on one of these
+theoretical criteria while weak on the other, rather than treating "good method" or "bad method" as
+a single verdict, is central to reaching a well-supported overall judgement.
+
 ## Exam traps
 
 - Writing generic method strengths/weaknesses without linking them to education specifically.
 - Discussing the topic's sensitivity without connecting it to a specific feature of the named method.
 - Forgetting the power imbalance between adult researchers and child/teenage participants — a
   recurring, education-specific issue examiners reward when it is explained, not just mentioned.
+
+## Building a top-band judgement
+
+Because a method-only or context-only answer both score low, and a top-band answer needs three or
+four genuinely combined points explored in depth, it helps to plan an answer's structure before
+writing: identify the named method's key practical, ethical and theoretical features, then work
+through the item's specific details one at a time, asking how each interacts with a feature of the
+method rather than describing them side by side. Closing with an explicit judgement — is the
+method, on balance, well suited to researching this specific topic in this specific setting — is
+what distinguishes an answer that merely lists relevant points from one that actually answers the
+question asked.
 
 ## Self-test
 

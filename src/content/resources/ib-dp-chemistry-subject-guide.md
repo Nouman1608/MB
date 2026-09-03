@@ -24,7 +24,10 @@ relying heavily on creative but rational thinking.
 Integral to the DP Chemistry experience is learning through scientific
 inquiry, both in the classroom and the laboratory. Students engage
 with topical scientific issues, examining scientific knowledge claims
-in a real-world context.
+in a real-world context, and this inquiry-based approach runs through
+practical work, the collaborative sciences project and the internal
+assessment alike, rather than being confined to a single component of
+the course.
 
 ## Aims
 
@@ -77,6 +80,56 @@ questions from across this structure-and-reactivity framework rather
 than testing each syllabus topic as a standalone block, which is one
 reason the two papers are weighted so closely together at 36% and 44%
 of the final grade.
+
+## The Structure and Reactivity strands
+
+The syllabus is organised into two linked strands, each split into
+three numbered components. The Structure strand covers models of the
+particulate nature of matter -- the nuclear atom, electron
+configurations, the mole and ideal gases -- models of bonding and
+structure across ionic, covalent and metallic bonding, and the
+classification of matter through the periodic table and organic
+functional groups. The Reactivity strand covers what drives chemical
+reactions, including enthalpy change and energy cycles; how much, how
+fast and how far a reaction proceeds, covering stoichiometry, rate and
+equilibrium; and, in its third component, further reaction mechanisms
+building on structure and bonding concepts from earlier in the course.
+Both strands are examined together rather than as separate blocks,
+since Paper 1 and Paper 2 both draw questions from across the whole
+structure-and-reactivity framework, which is one reason the two papers
+are weighted so closely together at 36% and 44% of the final grade
+rather than one paper being dedicated exclusively to one strand.
+
+## What Structure and Reactivity each ask
+
+The syllabus deliberately separates two different kinds of chemical
+question: Structure asks what matter is built from and how it is
+arranged, while Reactivity asks why and how matter changes. The two
+are not independent, though -- Reactivity 3, on reaction mechanisms,
+draws most heavily on everything covered in Structure 1 and Structure
+2, since reasoning about electron-transfer or electron-sharing
+mechanisms requires a secure grip on electron configurations and
+bonding models covered earlier in the course. This is why revising
+Structure and Reactivity as two parallel, connected tracks rather than
+strictly in numerical order tends to work better than treating the six
+syllabus components as isolated topics -- a question on entropy and
+spontaneity, for instance, still expects fluent reasoning about
+particle behaviour from Structure 1, even though entropy itself sits
+within Reactivity.
+
+## HL-only content across the syllabus
+
+HL students study additional content within four of the six syllabus
+components -- Structure 2, Structure 3, Reactivity 1 (specifically
+entropy and spontaneity), and Reactivity 3 -- rather than a uniform
+extra layer spread evenly across all six. These are the points where
+SL-level revision habits most often under-prepare HL candidates, since
+it is easy to assume the whole syllabus scales up proportionally when
+in practice the additional depth concentrates in particular
+components. Confirming exactly which sub-topics within each of these
+four components count as HL-only is worth doing early in the course
+rather than discovering the gap only once exam preparation is already
+under way.
 
 ## Source
 

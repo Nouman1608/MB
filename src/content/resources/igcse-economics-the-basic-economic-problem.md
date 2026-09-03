@@ -58,6 +58,33 @@ on and beyond a PPC; 1.4.3 movements along a PPC and their link to
 opportunity cost; 1.4.4 the causes and consequences of shifts in a PPC
 in terms of an economy's growth
 
+## Worked examples
+
+**Free good vs economic good.** Air is a **free good** — unlimited in
+supply, with no opportunity cost and no price. Oil is an **economic
+good** — scarce relative to demand, so obtaining it has an opportunity
+cost and it commands a price. The test is never "does it cost money at
+the till" but whether resources had to be sacrificed to produce or
+extract it.
+
+**Opportunity cost.** A government deciding whether to spend on defence
+or on healthcare cannot do both with the same budget. If it builds a new
+fleet, the opportunity cost is the **hospitals, staff and treatments
+that could have been provided instead** — the next best alternative
+forgone, not simply "the money spent." Because government budgets are
+finite, this kind of trade-off is why spending decisions are politically
+contested rather than purely technical.
+
+**Economic growth vs an increase in productive capacity, on a PPC.** An
+**increase in productive capacity** is shown by an **outward shift of
+the whole PPC**, caused by more or better resources or improved
+technology. **Economic growth** can also occur in the short run simply
+by **moving from a point inside the curve towards it** — using existing
+idle resources more fully, with no change in what the economy is
+capable of producing at maximum. Only the outward shift represents a
+**permanent** increase in capacity; a movement towards the curve is
+temporary and reversible if resources fall idle again.
+
 ## How to approach it
 
 This topic is conceptual and diagram-based rather than numerical, so
@@ -74,6 +101,33 @@ factors of production, work through examples of each factor drawn from
 a real, unfamiliar context in the exam question, rather than reciting
 land/labour/capital/enterprise definitions in the abstract — that is
 consistently where marks are lost.
+
+## Self-test
+
+1. Why is air a free good but oil an economic good?
+2. A government chooses to spend on a new airport rather than new
+schools. What is the opportunity cost of that decision?
+3. An economy is currently producing at a point inside its PPC. Explain
+one way it could achieve economic growth without any new resources or
+technology.
+4. Distinguish between a movement towards a PPC and an outward shift of
+a PPC, and state which one represents a permanent change in what an
+economy can produce.
+
+**Answers:** 1. Air is unlimited in supply with no opportunity cost and
+no price, while oil is scarce relative to demand, so obtaining it
+requires sacrificing other resources and it commands a price. 2. The
+schools, teachers and equipment that could have been provided instead —
+the next best alternative forgone, not the money itself. 3. It could
+make fuller use of its existing idle resources, moving from a point
+inside the curve towards it, without any change in maximum capacity.
+4. A movement towards the curve reflects better use of existing
+resources and is reversible; a shift of the whole curve reflects more
+or better resources or improved technology, and only the shift is a
+**permanent** increase in productive capacity.
+
+For exam-style questions with full mark schemes on this topic, see the
+[Basic Economic Problem practice questions](/resources/the-basic-economic-problem-practice/).
 
 ## Official syllabus
 

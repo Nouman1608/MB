@@ -17,7 +17,10 @@ abilities. For this reason the IB Diploma Programme offers two
 mathematics subjects -- Mathematics: Analysis and Approaches, and
 Mathematics: Applications and Interpretation -- each designed to meet
 the needs of a particular group of students. Both are offered at SL
-and HL, and share 60 hours of common SL content.
+and HL, and share 60 hours of common SL content, so the choice
+between them is genuinely about which style of mathematical thinking
+suits a given student, not about one course being a harder or easier
+version of the other.
 
 ## What this course emphasizes
 
@@ -73,7 +76,56 @@ proof.
 
 In both SL and HL, the internally assessed mathematical exploration is
 worth the remaining 20% of the final grade: a written piece of independent
-mathematical investigation into a topic of the student's choosing.
+mathematical investigation into a topic of the student's choosing, structured
+identically to its counterpart in Applications and Interpretation.
+
+## The five content strands
+
+The syllabus is organised into five strands. Number and algebra
+covers sequences and series, exponents and logarithms, the binomial
+theorem, and, at HL, further algebraic techniques such as complex
+numbers and proof by induction -- the smallest strand at SL relative
+to the others, but one that expands substantially at HL. Functions
+covers the concept of a function, graphing and transforming functions,
+and solving equations, forming the algebraic and graphical toolkit
+that the Calculus strand later depends on heavily. Geometry and
+trigonometry covers geometry in two and three dimensions, trigonometric
+identities and equations, and, at HL, vectors in more depth -- this
+strand shows the largest proportional jump in hours from SL to HL of
+the five, reflecting substantial HL-only content in vectors and
+further trigonometry. Statistics and probability covers descriptive
+statistics, probability and distributions, growing only modestly from
+SL to HL since much of the statistical toolkit is shared between both
+levels. Calculus, covering differentiation, integration and their
+applications, completes the five strands and carries the largest
+number of teaching hours at both levels.
+
+## How this course differs from Applications and Interpretation
+
+Both DP mathematics courses share 60 hours of common SL content and
+the same assessment objectives, but distribute their remaining hours
+very differently across the same five strand names, reflecting a real
+difference in emphasis: Analysis and Approaches leans towards
+rigorous, proof-oriented technique, most visibly in its calculator-free
+Paper 1, while Applications and Interpretation leans towards modelling
+and technology-driven interpretation, permitting technology throughout
+every paper. A student deciding between the two courses is really
+choosing between these two styles of mathematical work, since the
+internally assessed exploration is structured identically in both
+courses and so offers no real basis for choosing one over the other.
+
+## Why Paper 1's calculator-free format matters
+
+The distinguishing practical feature of Analysis and Approaches, set
+against Applications and Interpretation, is that Paper 1 is sat
+without a calculator or other technology, directly testing algebraic
+manipulation and proof rather than allowing technology to carry part
+of the computational load. This has a direct consequence for
+preparation: fluency in manipulating expressions, solving equations
+and constructing an argument by hand needs to be genuinely automatic
+by the time of the exam, since there is no calculator available to
+check or complete a calculation partway through a question, unlike
+Paper 2 or Paper 3, where technology is permitted throughout.
 
 ## Source
 

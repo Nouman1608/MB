@@ -25,6 +25,14 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Business Activity and Classification study guide](/resources/business-activity-and-classification/).
 
+## Needs, wants, scarcity and opportunity cost
+
+A **need** is something essential for survival (food, shelter); a **want** is something desired but not essential (a particular brand, a luxury item). **Scarcity** is the basic economic condition that resources are limited relative to unlimited wants — and scarcity is precisely why every choice involves an **opportunity cost**: the next-best alternative given up when a choice is made. A business spending its budget on new machinery gives up whatever else that money could have funded, such as staff training or marketing.
+
+## Specialisation
+
+**Specialisation** means an individual, business or region focuses on producing a narrow range of goods or services rather than trying to do everything. This tends to increase output and efficiency, since workers or firms become more skilled at their specific task, but it also creates **interdependence** — a specialised producer relies on others for everything it doesn't produce itself.
+
 ## Why business exists
 
 Businesses combine the factors of production to satisfy needs and wants, and to **add value**.
@@ -35,7 +43,7 @@ added value = selling price - cost of bought-in inputs
 
 Increase it by: branding, quality, convenience, design, after-sales service, speed. **Not** only by raising price.
 
-Added value is **not profit** — it ignores overheads such as rent and wages.
+Added value is **not profit** — it ignores overheads such as rent and wages, since profit accounts for all the other costs of running the business beyond just the bought-in inputs themselves.
 
 ## Classification by sector
 
@@ -45,12 +53,14 @@ Added value is **not profit** — it ignores overheads such as rent and wages.
 | Secondary | Making goods from raw materials | Manufacturing, construction |
 | Tertiary | Providing services | Retail, banking, transport, education |
 
-As economies develop, the balance shifts primary → secondary → tertiary (**deindustrialisation** when secondary declines).
+As economies develop, the balance shifts primary → secondary → tertiary (**deindustrialisation** when secondary declines). Developing economies tend to have a larger share of primary sector activity, while developed economies shift toward a much larger tertiary sector, with secondary sector activity often declining in relative — though not always absolute — terms as service industries grow.
 
 ## Classification by sector of ownership
 
 - **Private sector** — owned by individuals, profit motive.
 - **Public sector** — owned by government, provides essential services, may run at a loss for social benefit.
+
+In a mixed economy, this distinction is about ownership specifically, not purpose — a private sector organisation can still provide what is effectively a public service, and a public sector organisation is not automatically non-profit-driven in every case.
 
 ## Business objectives — change with circumstance
 
@@ -60,6 +70,10 @@ As economies develop, the balance shifts primary → secondary → tertiary (**d
 | Growing | Growth, market share |
 | Established | Profit, shareholder return |
 | Any | Social and environmental goals |
+
+## Where this fits in the syllabus
+
+These two subtopics establish the vocabulary the rest of 7115 assumes — why businesses exist at all, and how to categorise the one being studied in any given exam question. The following subtopic, Enterprise, business growth and size, builds directly on the classification and objectives content covered here, so treating this as throwaway background material tends to cause problems once later topics assume it is already secure.
 
 ## Stakeholders and their interests
 
@@ -73,6 +87,10 @@ As economies develop, the balance shifts primary → secondary → tertiary (**d
 | Local community | Jobs, minimal pollution |
 
 These conflict — higher wages reduce profit; expansion creates jobs but may disturb the community. Questions almost always ask you to weigh them.
+
+## Common mistakes worth avoiding specifically
+
+Confusing needs and wants, or treating scarcity as simply "not enough money" rather than the broader economic condition of limited resources against unlimited wants, is a common error. Opportunity cost is specifically the single *next-best* alternative given up — not simply "everything else that was given up." Misclassifying a business's sector is another frequent trap: a bakery that grows its own wheat, mills flour, and sells bread from a shop spans all three sectors, so classification questions often hinge on identifying the specific activity being asked about, not the business as a whole. And assuming the public sector always means non-profit, or that private sector organisations cannot provide public services, oversimplifies a classification that is genuinely about ownership, not purpose.
 
 ## Exam traps
 

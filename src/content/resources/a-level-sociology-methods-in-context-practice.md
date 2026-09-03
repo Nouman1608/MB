@@ -29,6 +29,10 @@ Related: [Methods in Context revision notes](/resources/a-level-sociology-method
 
 *Item: Researchers investigating teacher expectations must consider that teachers are busy professionals with limited time, that classroom observation may not always be possible, and that teachers may be reluctant to admit to differential treatment of pupils.* **[20]**
 
+**2.** Using material from the item below and your knowledge of research methods, evaluate the strengths and limitations of using **unstructured interviews** to investigate **pupils' attitudes towards school work**.
+
+*Item: Researchers investigating pupils' attitudes must consider that pupils are often minors, meaning informed consent typically also needs to be obtained from a parent or guardian, that pupils may see an adult researcher as an authority figure similar to a teacher, and that school timetables limit when research can take place.* **[20]**
+
 ---
 
 ## Answer (worked, showing the methods-in-context approach)
@@ -62,9 +66,47 @@ whether structured interviews are, on balance, well suited to this specific topi
 
 ---
 
+## Answer to Question 2 (worked)
+
+**Consent and the power imbalance (ethical/theoretical, applied):** because the pupils are minors,
+informed consent typically must be obtained from a parent or guardian as well as the pupil — a
+practical and ethical hurdle the item flags directly — and even once consent is given, pupils may
+see the adult researcher as an authority figure similar to a teacher, which threatens the validity
+of an unstructured interview specifically, since pupils may give the answers they think an
+authority figure wants to hear rather than their genuine attitude to school work. **[ethical/theoretical, applied]**
+
+**Rapport versus structure (theoretical, applied):** unstructured interviews' flexible, conversational
+format is well suited to building the rapport needed to offset that power imbalance, and to letting
+a pupil's own words and priorities shape which attitudes get explored — a genuine strength for this
+specific topic, since attitudes to school work are personal and not easily reduced to fixed
+categories. **[theoretical, applied]**
+
+**Practical fit (method + context):** the flexible length and structure of an unstructured interview
+must still work within school timetabling, which limits when the research can take place, directly
+reflecting the item's point about timetable constraints — a researcher may need multiple short
+sessions rather than one long interview. **[practical, applied]**
+
+**Reliability trade-off:** the same flexibility that builds rapport makes unstructured interviews
+low in reliability, since no two interviews follow an identical set of questions, making them
+harder for another researcher to repeat exactly — a genuine limitation, even though it is the
+price paid for the validity gains described above.
+
+As with Question 1, a top-band response explains three or four such combined points in depth and
+closes with an explicit **judgement** on whether unstructured interviews are well suited to
+researching this specific topic with this specific age group.
+
+---
+
 ## Where marks are usually lost
 
 - Discussing structured interviews' strengths and weaknesses in general, without reference to teachers or expectations specifically.
 - Discussing the sensitivity of the topic without linking it to a specific feature of the named method.
 - Ignoring the item — the item is there to be used, and answers that don't engage with its specific points miss marks for application.
 - No overall judgement at the end weighing whether the method suits the topic on balance.
+- Forgetting the power imbalance between adult researchers and child or teenage participants —
+an education-specific issue examiners reward when it is explained, not just mentioned.
+- Listing method-only and context-only points side by side rather than genuinely combining them
+into single points, which is what separates a middle-band answer from a top-band one.
+
+For condensed recall notes on the method-and-context framework itself, see the
+[Methods in Context revision notes](/resources/a-level-sociology-methods-in-context-revision-notes/).

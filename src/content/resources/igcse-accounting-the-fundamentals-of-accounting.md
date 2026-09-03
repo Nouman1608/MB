@@ -74,6 +74,54 @@ syllabus, not just in Topic 1 questions — students who treat this
 opening topic as throwaway background often struggle later when ledger
 accounts and financial statements assume the equation is second nature.
 
+## Why capital sits with liabilities
+
+A detail that trips up many candidates when they first meet the
+accounting equation is why capital, which represents what the owner
+has invested, is grouped with liabilities on one side of the equation
+rather than treated as a category entirely of its own. The
+explanation is a shift in perspective: from the business's own point
+of view, capital is an amount the business effectively owes back to
+its owner, in exactly the same conceptual sense that a loan is owed to
+a lender, which is why assets = capital + liabilities balances in the
+same way regardless of whether the claim on those assets comes from
+an outside lender or from the owner. Capital itself is not static
+across a trading period: it increases through profit earned and any
+additional investment the owner makes, and it decreases through
+losses incurred and through drawings, meaning cash or goods the owner
+takes out of the business for personal use.
+
+## How a single transaction keeps the equation balanced
+
+Because every transaction affects at least two elements of the
+accounting equation at once, it is worth working through a concrete
+example rather than only stating the principle abstractly. If a
+business takes out a bank loan of $5,000 in cash, assets increase by
+$5,000 (the cash received) and liabilities increase by the same
+$5,000 (the loan owed), so the equation remains balanced without
+capital being affected at all. If the owner instead takes $500 in
+drawings, assets decrease by $500 (cash leaving the business) and
+capital decreases by the same $500, again keeping the equation in
+balance. Practising this kind of two-sided tracing for a range of
+transaction types -- a cash purchase, a credit sale, drawings, a loan
+received -- is what makes the equation feel like a genuine tool for
+checking understanding, rather than a formula memorised without being
+able to apply it to an actual transaction.
+
+## Why this topic underpins the rest of the syllabus
+
+The idea that every transaction affects at least two elements of the
+accounting equation while it always stays in balance is really the
+conceptual core of double entry book-keeping, examined in depth in
+Topic 2. A student who has made this idea genuinely automatic in
+Topic 1 finds double entry a natural extension of a principle already
+understood, whereas a student who has only memorised the equation as
+a formula tends to struggle once ledger accounts and financial
+statements assume that understanding as a starting point rather than
+teaching it again from scratch. This is why examiners and teachers
+alike treat this short opening topic as disproportionately important
+relative to its own two sub-topics.
+
 ## Official syllabus
 
 Cambridge IGCSE Accounting 0452 syllabus for 2026 (Version 2, December
