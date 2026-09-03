@@ -139,6 +139,11 @@ rather than as separate blocks, since real exam scenarios typically
 combine a market-structure question with an external-influence
 context in the same case study.
 
+## Related resources
+
+[External Influences Facing Businesses revision notes](/resources/ocr-a-level-business-external-influences-revision-notes/) |
+[External Influences Facing Businesses practice questions](/resources/ocr-a-level-business-external-influences-practice/)
+
 ## Official syllabus
 
 OCR, *AS and A Level Business H031/H431 Specification*,

@@ -91,6 +91,11 @@ Topic 1 (Business Objectives and Strategic Decisions) covers what a business dec
 - Name one advantage and one disadvantage of EU/Eurozone membership for a UK business.
 - Define the difference between an ethical and a legal factor, in one sentence each.
 
+## Related resources
+
+[External Influences Facing Businesses study guide](/resources/ocr-a-level-business-external-influences/) |
+[External Influences Facing Businesses practice questions](/resources/ocr-a-level-business-external-influences-practice/)
+
 ## Official syllabus
 
 OCR, *AS and A Level Business H031/H431 Specification*,
