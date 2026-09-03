@@ -71,6 +71,44 @@ Three pairs turn on a single word — **aqueous vs ethanolic**, **distil vs refl
 
 If a question needs one more carbon, a **nitrile step is compulsory** — spotting that immediately usually reveals the whole route.
 
+## Using reactions as identification tests
+
+Every characteristic reaction already learned doubles as an
+identification test — no separate list needs memorising:
+
+| Observation | Functional group indicated |
+|---|---|
+| Decolourises aqueous bromine | C=C (alkene) |
+| Effervesces with a carbonate | –COOH (carboxylic acid) |
+| Orange precipitate with 2,4-DNPH | C=O (aldehyde or ketone) |
+| Silver mirror with Tollens' reagent | –CHO (aldehyde, specifically) |
+| Yellow precipitate with alkaline I₂(aq) | CH₃CO– or CH₃CH(OH)– |
+| Orange → green with acidified K₂Cr₂O₇ | –OH on a primary/secondary carbon |
+| White precipitate with AgNO₃(aq)/ethanol | halogenoalkane (C–X) |
+
+Given an unknown molecule's reactions with several reagents, work
+through this table **in reverse**: each positive or negative result
+rules functional groups in or out, narrowing down what the molecule
+must contain.
+
+## Analysing a given route — spotting by-products
+
+The reverse skill to planning a route is being given one and asked to
+identify what's happening, and what by-products might form, at each
+step:
+
+```
+Ethane --Br2/UV--> bromoethane   FREE-RADICAL SUBSTITUTION
+        by-product: further substitution -> some dibromoethane
+
+Bromoethane --NaOH(aq), heat--> ethanol   NUCLEOPHILIC SUBSTITUTION
+        (if ETHANOLIC NaOH used instead: ELIMINATION -> ethene)
+```
+
+Checking whether a given step used **aqueous or ethanolic** conditions
+is always worth doing explicitly, since it changes both the product
+and the type of by-product a route might generate.
+
 ## Planning a multi-step route
 
 1. Identify the **functional group** in the starting material and the target.
@@ -86,6 +124,9 @@ If a question needs one more carbon, a **nitrile step is compulsory** — spotti
 - Writing "oxidise" instead of naming the reagent and stating distil or reflux.
 - Proposing a route that changes carbon count without a nitrile step.
 - Using reflux when the aldehyde is the target.
+- Using 2,4-DNPH alone to claim a molecule is specifically an aldehyde — it only confirms a carbonyl (aldehyde **or** ketone) is present; Tollens' is needed to identify an aldehyde specifically.
+- Forgetting that free-radical substitution is poorly selective, so proposing a route via this step without acknowledging further-substitution by-products.
+- Proposing a plausible-sounding but non-syllabus step ("it gets converted directly") instead of a real, named reagent and condition.
 
 ## Self-test
 
@@ -94,5 +135,11 @@ If a question needs one more carbon, a **nitrile step is compulsory** — spotti
 3. How would you turn 1-bromoethane into propanoic acid?
 4. Which two AS reactions lengthen the carbon chain?
 5. What single word distinguishes substitution from elimination with hydroxide?
+6. A molecule decolourises bromine water and effervesces with sodium carbonate. What can you deduce about its functional groups?
+7. What by-product might form alongside 1-bromoethane in the free-radical substitution of ethane with Br₂/UV?
 
-**Answers:** 1. Aqueous sodium hydroxide, heat under reflux. 2. Acidified potassium dichromate(VI), and **distil** the aldehyde off as it forms so it cannot be oxidised further. 3. Ethanolic KCN under reflux to give propanenitrile (adding one carbon), then acid hydrolysis to propanoic acid. 4. Halogenoalkane + KCN, and carbonyl + HCN. 5. Aqueous (substitution → alcohol) versus ethanolic (elimination → alkene).
+**Answers:** 1. Aqueous sodium hydroxide, heat under reflux. 2. Acidified potassium dichromate(VI), and **distil** the aldehyde off as it forms so it cannot be oxidised further. 3. Ethanolic KCN under reflux to give propanenitrile (adding one carbon), then acid hydrolysis to propanoic acid. 4. Halogenoalkane + KCN, and carbonyl + HCN. 5. Aqueous (substitution → alcohol) versus ethanolic (elimination → alkene). 6. It contains both a C=C double bond (from decolourising bromine water) and a –COOH group (from effervescing with a carbonate) — the two pieces of evidence are independent and can be combined. 7. Further substitution — some 1,1-dibromoethane (or another dibromoethane isomer) forming as the reaction continues on the monobromo product.
+
+For the full worked examples of planning and analysing multi-step
+routes, see the [Organic Synthesis: Planning Multi-Step Routes study guide](/resources/as-organic-synthesis-planning-multi-step-routes/);
+for further exam-style practice, see the [Organic Synthesis Routes practice questions](/resources/as-chem-synthesis-practice/).

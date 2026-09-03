@@ -51,6 +51,15 @@ Related: [Astrophysics and Cosmology revision notes](/resources/edexcel-ial-phys
 
 **7.** State what the Chandrasekhar limit is and its significance. **[2]**
 
+**8.** Explain why Type Ia supernovae are described as "standard candles" and how they are used to measure distances to remote galaxies. **[3]**
+
+**9.** A galaxy's hydrogen-alpha absorption line, normally at 656 nm in the laboratory, is observed at 660 nm.
+
+**(a)** Calculate the galaxy's recession velocity. **[3]**
+**(b)** Given a Hubble constant of 70 km s⁻¹ Mpc⁻¹, calculate the galaxy's distance. **[2]**
+
+**10.** State three independent pieces of observational evidence for the Big Bang model, briefly explaining what each shows. **[6]**
+
 ---
 
 ## Answers
@@ -75,6 +84,13 @@ r = √(8.4 × 10²⁸ ÷ (4π × 5.67 × 10⁻⁸ × 2.633 × 10¹⁴)) [1] = *
 
 **7.** The **maximum mass of a white dwarf**, about **1.4 solar masses** [1]. Above it, **electron degeneracy pressure cannot resist gravitational collapse**, so the core collapses further to a neutron star or black hole [1].
 
+**8.** Type Ia supernovae detonate at a **fixed critical mass** (the Chandrasekhar limit), so every one reaches a **consistent, known peak luminosity** [1] — this is what "standard candle" means [1]. Measuring the **received flux** from a distant supernova and comparing it with this known luminosity, using F = L ÷ (4πd²), allows the distance d to be calculated [1].
+
+**9. (a)** Δλ = 660 − 656 = 4 nm [1]. v = c × (Δλ ÷ λ) = 3.0 × 10⁸ × (4 ÷ 656) [1] = **1.83 × 10⁶ m s⁻¹** (1830 km s⁻¹) [1].
+**(b)** d = v ÷ H₀ = 1830 ÷ 70 [1] = **26.1 Mpc** [1].
+
+**10.** Any three: **Galactic redshift** — almost all distant galaxies show redshifted light, and redshift increases with distance, showing the universe is expanding and was once smaller and denser [2]. **Cosmic microwave background radiation** — a near-uniform black-body radiation at about 2.7 K found in all directions, the cooled remnant of the hot, dense early universe [2]. **Hydrogen and helium abundances** — the observed ratio of these elements in the universe matches the ratio predicted by Big Bang nucleosynthesis calculations [2].
+
 ---
 
 ## Where marks are usually lost
@@ -83,3 +99,22 @@ r = √(8.4 × 10²⁸ ÷ (4π × 5.67 × 10⁻⁸ × 2.633 × 10¹⁴)) [1] = *
 - Forgetting the HR diagram's reversed temperature axis.
 - Applying Stefan's law before Wien's, leaving two unknowns.
 - Saying massive stars live longer because they have more fuel.
+- Forgetting to convert the Hubble constant's units (km s⁻¹ Mpc⁻¹) consistently with the velocity used, or forgetting that the resulting distance comes out in **Mpc**, not metres, unless converted.
+- Claiming galactic redshift proves Earth is at the centre of the universe — space itself is expanding, so every observer anywhere would see the same pattern.
+- Citing only one piece of Big Bang evidence when a question asks for several independent strands.
+
+## Redshift, Hubble's law and the age of the universe
+
+Astronomers use the same Doppler-shift logic behind question 9 to
+build the **Hubble law**, v = H₀d, relating a galaxy's recession
+velocity to its distance. Because essentially every distant galaxy is
+redshifted, and more distant galaxies are redshifted by more, the
+universe must be **expanding** — and running that expansion backwards
+gives a rough estimate for the universe's age, of order 1/H₀. Dark
+matter and dark energy are each inferred from separate lines of
+evidence: dark matter from galactic rotation curves, where outer
+stars orbit faster than the visible mass alone can explain, and dark
+energy from supernova observations showing the rate of expansion is
+itself **accelerating**, not just continuing at a constant rate. For
+the full treatment of cosmology alongside stellar evolution, see the
+[Astrophysics and Cosmology revision notes](/resources/edexcel-ial-physics-astrophysics-revision-notes/).

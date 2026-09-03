@@ -57,6 +57,16 @@ Related: [Reaction Kinetics revision notes](/resources/as-chem-kinetics-revision
 
 **5.** Explain why a catalyst does not change the position of equilibrium in a reversible reaction. **[2]**
 
+**6.** Iron is used as a catalyst in the Haber process (a gas-phase reaction), while an enzyme in solution catalyses a reaction between two dissolved reactants.
+
+**(a)** State which of these is a homogeneous catalyst and which is heterogeneous, giving a reason for each. **[2]**
+**(b)** Describe the three-step mechanism by which a heterogeneous catalyst such as iron increases the rate of a gas-phase reaction. **[3]**
+
+**7.** A student claims that adding a catalyst to a reaction increases the overall yield of product obtained.
+
+**(a)** State whether this claim is correct, and explain why. **[2]**
+**(b)** State one property of the catalyst itself that remains unchanged after the reaction has finished. **[1]**
+
 ---
 
 ## Answers
@@ -78,6 +88,12 @@ Related: [Reaction Kinetics revision notes](/resources/as-chem-kinetics-revision
 
 **5.** It increases the rate of the **forward and reverse reactions equally** [1], so equilibrium is reached **sooner but at the same position** [1].
 
+**6. (a)** The enzyme is **homogeneous** — it is in the **same phase** (aqueous solution) as the dissolved reactants [1]. Iron in the Haber process is **heterogeneous** — it is a **solid**, a different phase from the gaseous reactants [1].
+**(b)** Reactant gas molecules **adsorb onto the catalyst's surface** [1]; while adsorbed, the reaction takes place, with the surface providing an **alternative pathway of lower activation energy** [1]; the product molecules then **desorb**, freeing the surface to adsorb further reactant molecules [1].
+
+**7. (a)** **No** [1] — a catalyst only increases the **rate** at which equilibrium (or completion) is reached; it does not alter the thermodynamics of the reaction, so the same equilibrium position and the same maximum yield are eventually obtained with or without it [1].
+**(b)** It is **chemically unchanged** at the end of the reaction (not consumed) [1].
+
 ---
 
 ## Where marks are usually lost
@@ -86,3 +102,23 @@ Related: [Reaction Kinetics revision notes](/resources/as-chem-kinetics-revision
 - Saying a catalyst "lowers the activation energy" of the original reaction; it provides an **alternative route**.
 - Changing the area under a Boltzmann curve when temperature changes.
 - Drawing the Boltzmann curve touching the y-axis (it starts at the origin).
+- Confusing homogeneous with heterogeneous catalysis — the test is simply whether the catalyst is in the **same phase** as the reactants or not.
+- Omitting the desorption step when describing heterogeneous catalysis, leaving the surface permanently blocked in the answer's own logic.
+- Claiming a catalyst increases the yield of a reaction, rather than only the rate at which the (unchanged) yield is reached.
+
+## Homogeneous vs heterogeneous — the phase test
+
+The distinction between the two types of catalyst comes down to a
+single question: is the catalyst in the **same phase** as the
+reactants, or a **different** one? A homogeneous catalyst (same phase,
+commonly a catalyst dissolved alongside aqueous reactants) works by
+forming a temporary intermediate species with a reactant, which then
+reacts further to release the product and regenerate the catalyst. A
+heterogeneous catalyst (different phase, most often a solid catalysing
+a gas-phase or solution reaction) works through **adsorption**,
+reaction at the surface, and **desorption**, as described in question
+6. Both types share every general property of a catalyst — unchanged
+at the end, no effect on ΔH, yield, or equilibrium position — the
+phase relationship only determines the specific mechanism by which the
+rate increase is achieved. For the full comparison and Boltzmann
+distribution diagrams, see the [Reaction Kinetics revision notes](/resources/as-chem-kinetics-revision-notes/).

@@ -47,6 +47,16 @@ Related: [Physical and Chemical Changes revision notes](/resources/physical-and-
 **(a)** State whether this is a physical or a chemical change. **[1]**
 **(b)** Give two pieces of evidence from the description that support your answer. **[2]**
 
+**7.** Dilute hydrochloric acid is added to calcium carbonate, and vigorous fizzing is observed.
+
+**(a)** State whether this is a physical or a chemical change. **[1]**
+**(b)** Give two pieces of evidence from the description that support your answer. **[2]**
+
+**8.** Solid iodine is gently heated and turns directly into a purple gas without melting (sublimation), and the gas condenses back into solid iodine on a cool surface.
+
+**(a)** State whether sublimation is a physical or a chemical change. **[1]**
+**(b)** Explain why the appearance of a gas here is not, on its own, reliable evidence of a chemical change. **[2]**
+
 ---
 
 ## Answers
@@ -66,6 +76,12 @@ Related: [Physical and Chemical Changes revision notes](/resources/physical-and-
 **6. (a)** Chemical [1].
 **(b)** A **new substance** (the white solid/precipitate) has formed [1], and it appears **immediately/is not easily reversed** by simple physical means [1].
 
+**7. (a)** Chemical [1].
+**(b)** **Effervescence** (fizzing/gas produced) [1], and this indicates **new substances have formed** (a salt, water and carbon dioxide) that were not present in the original acid and carbonate [1].
+
+**8. (a)** Physical [1].
+**(b)** The iodine is **still iodine throughout** — gas, solid, or in between — with **no new substance formed** [1]; the process is also **easily reversed** (the gas condenses straight back to the original solid), which shows a gas appearing is only useful evidence of a chemical change when it is accompanied by an actual change in chemical identity, not simply a change of state [1].
+
 ---
 
 ## Where marks are usually lost
@@ -74,3 +90,19 @@ Related: [Physical and Chemical Changes revision notes](/resources/physical-and-
 - Using "hard to reverse" as the test itself, ignoring reversible reactions that are still chemical changes.
 - Saying dissolving is a chemical change because the solid "disappears".
 - Forgetting that a temperature change only counts as evidence if it comes from the reaction itself, not external heating or cooling.
+- Classifying sublimation as a chemical change simply because a gas is produced — the substance's chemical identity never changes, so it remains physical, however dramatic the state change looks.
+- Forgetting that the underlying test is always "has a new substance been formed?" — every other piece of evidence (colour, effervescence, temperature, difficulty of reversal) is only useful because it usually, but not always, points to that answer.
+
+## The one question that decides every case
+
+Every example in this topic, however varied the surface description,
+reduces to the same underlying question: **has a chemically new
+substance been formed?** Effervescence, a precipitate, a permanent
+colour change or a self-generated temperature change are all worth
+citing as evidence in an answer, but none of them is the definition
+itself — they are useful precisely because a new substance is usually,
+though not always, what produces them. Iodine subliming (question 8)
+shows why this distinction matters: a dramatic-looking state change
+(solid straight to gas) can still be entirely physical, because the
+substance itself never stops being iodine. For the full evidence
+table and further worked examples, see the [Physical and Chemical Changes study guide](/resources/physical-and-chemical-changes/).

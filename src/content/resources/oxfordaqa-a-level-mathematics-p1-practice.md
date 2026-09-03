@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/)
+Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/), covering algebra, quadratics, coordinate geometry, trigonometry, differentiation and integration for International AS Mathematics.
 
 ---
 
@@ -51,6 +51,14 @@ Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-
 
 **7.** Solve 2 tan x = 3 for 0 ≤ x ≤ 2π, giving answers to 3 significant figures in radians. **[3]**
 
+**8.** A curve has equation y = x³ − 3x² + 2.
+
+**(a)** Find dy/dx. **[2]**
+**(b)** Find the equation of the tangent to the curve at the point where x = 1. **[3]**
+**(c)** Find the equation of the normal to the curve at the same point. **[2]**
+
+**9.** Find the area enclosed between the curve y = 4 − x² and the x-axis. **[5]**
+
 ---
 
 ## Answers
@@ -72,6 +80,12 @@ Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-
 
 **7.** tan x = 1.5 [1]; x = 0.983 rad [1]; the second solution is 0.983 + π = **4.12 rad** [1].
 
+**8. (a)** dy/dx = **3x² − 6x** [1] [1].
+**(b)** At x = 1: y = 1 − 3 + 2 = 0, and gradient = 3 − 6 = **−3** [1]. Tangent: y − 0 = −3(x − 1) [1], so **y = −3x + 3** [1].
+**(c)** Normal gradient = 1/3 (negative reciprocal of −3) [1]; y − 0 = (1/3)(x − 1), so **y = (x − 1)/3** [1].
+
+**9.** The curve meets the x-axis where 4 − x² = 0, so x = **±2** [1]. Area = ∫₋₂² (4 − x²) dx [1] = [4x − x³/3]₋₂² [1] = (8 − 8/3) − (−8 + 8/3) [1] = 16/3 − (−16/3) = **32/3** (≈ 10.7) [1].
+
 ---
 
 ## Where marks are usually lost
@@ -80,3 +94,18 @@ Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-
 - Using b² − 4ac > 0 instead of = 0 for equal roots.
 - Not squaring the 2 in (2x)² in the binomial expansion.
 - Giving only one solution to a trigonometric equation in the stated range.
+- Using the tangent gradient instead of its negative reciprocal when finding the equation of a normal.
+- Simply integrating from one root to the other without checking the sign of the function — here y = 4 − x² is entirely non-negative on [−2, 2], so the signed integral does equal the true area, but this must be checked rather than assumed for every region.
+
+## Differentiation and integration — the two mark-heavy checks
+
+Two checks are worth making automatic whenever calculus appears in
+this unit. First, a **tangent** takes the gradient found by
+differentiating directly, while a **normal** takes its **negative
+reciprocal** — mixing these up is the single most common calculus
+error in P1. Second, before integrating to find an area, check
+whether the curve dips below the x-axis anywhere in the interval: if
+it does, the signed integral will **understate** the true area unless
+the region is split at the roots and each part's absolute value is
+taken separately. For the underlying rules, including how the second
+derivative classifies a stationary point, see the [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/).

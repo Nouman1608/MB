@@ -79,6 +79,63 @@ for file size, and questions frequently ask candidates to explain that
 trade-off in words rather than calculate it, so practise articulating
 it, not just computing it.
 
+## Worked examples
+
+**Why binary?** Computers are built from transistors and other
+components that reliably hold only **two stable states** — on and off,
+or high and low voltage. Binary maps directly onto those two states,
+which makes circuits simple, cheap to manufacture, and far less
+vulnerable to errors from small voltage fluctuations than a system
+using more than two states would be.
+
+**Binary addition and overflow.** Add 11010010 and 01100011 in an
+8-bit register.
+
+```
+  11010010   (210)
++ 01100011   (99)
+-----------
+  100110101  (309, needing 9 bits)
+```
+
+The result needs **9 bits**, but the register only holds 8, so the
+extra (leftmost) bit is lost and the stored answer is wrong — this is
+**overflow**. Always check whether the sum of the two denary values
+exceeds 255 (the maximum an unsigned 8-bit register can hold) before
+concluding overflow has occurred.
+
+**Image file size.** An image is 800 × 600 pixels with a colour depth
+of 24 bits. Find its file size in megabytes.
+
+```
+total bits = 800 x 600 x 24 = 11 520 000 bits
+bytes      = 11 520 000 / 8 = 1 440 000 bytes
+megabytes  = 1 440 000 / 1 000 000 (or / 1 048 576 for MiB)
+           = 1.44 MB  (or 1.37 MiB)
+```
+
+Halving the colour depth to 12 bits would halve the file size, but it
+would also reduce the number of available colours from about 16.7
+million to only 4096 — a trade-off between fidelity and storage that
+recurs throughout this topic, whether the variable being reduced is
+colour depth, resolution, or sample rate.
+
+**Sound sampling.** The amplitude of an analogue sound wave is measured
+at regular intervals, and each measurement is stored as a binary
+number. Increasing the **sample rate** means more measurements are
+taken per second, so the digital version follows the shape of the
+original wave more closely and sound quality improves — but the file
+size increases proportionally, since more samples must be stored.
+Increasing the **sample resolution** (bits per sample) instead allows
+each individual measurement to be recorded more precisely, again at
+the cost of a larger file.
+
+## Related resources
+
+- [Data Representation revision notes](/resources/data-representation-revision-notes/) — condensed recall notes covering the same conversions, arithmetic and compression content
+- [Data Representation practice questions](/resources/data-representation-practice/) — exam-style questions with full worked answers
+- [Cambridge IGCSE Computer Science hub](/boards/cambridge/igcse/computer-science/)
+
 ## Official syllabus
 
 Cambridge IGCSE Computer Science 0478 syllabus for 2026, 2027 and 2028

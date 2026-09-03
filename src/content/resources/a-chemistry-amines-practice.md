@@ -61,6 +61,17 @@ Related: [Amines revision notes](/resources/a-chemistry-amines-revision-notes/)
 
 **6.** Compare the basicity of ethylamine and phenylamine, explaining the difference fully. **[4]**
 
+**7.** Propanenitrile, CH₃CH₂CN, is reduced to a primary amine.
+
+**(a)** State a suitable reagent for this reduction. **[1]**
+**(b)** Name the amine formed. **[1]**
+**(c)** Explain why this route is useful for lengthening a carbon chain, given that the nitrile itself was made from a halogenoalkane and KCN. **[2]**
+
+**8.** Aqueous ethylamine is added to aqueous copper(II) sulfate.
+
+**(a)** State the observation. **[1]**
+**(b)** Explain this observation, drawing a comparison with a reaction of aqueous ammonia you have met elsewhere in the course. **[2]**
+
 ---
 
 ## Answers
@@ -87,6 +98,13 @@ Related: [Amines revision notes](/resources/a-chemistry-amines-revision-notes/)
 
 **6.** **Ethylamine is the stronger base** [1]. Its **ethyl group donates electron density** to the nitrogen through the positive inductive effect, making the lone pair more available to accept a proton [1]. In phenylamine, the nitrogen lone pair **overlaps with the delocalised π system of the benzene ring** [1], so it is **partially delocalised and much less available** [1].
 
+**7. (a)** **LiAlH₄ in dry ether** (or H₂ with a nickel catalyst) [1].
+**(b)** **Propylamine (1-aminopropane)**, CH₃CH₂CH₂NH₂ [1].
+**(c)** The original halogenoalkane, CH₃CH₂Br, has only **two** carbons; reacting it with KCN adds a third carbon (as the nitrile carbon), giving propanenitrile [1]. Reducing the nitrile then converts that extra carbon's triple-bonded nitrogen into a CH₂NH₂ group, so the overall two-step sequence has **increased the chain length by one carbon**, something a direct substitution reaction with ammonia cannot achieve [1].
+
+**8. (a)** A **deep blue solution** forms [1].
+**(b)** Ethylamine acts as a **ligand**, donating its nitrogen lone pair to the Cu²⁺ ion to form a **complex ion** [1], in the same way aqueous ammonia forms a deep blue complex with copper(II) ions — the amine's lone pair behaves like ammonia's in this respect, since both donate through nitrogen [1].
+
 ---
 
 ## Where marks are usually lost
@@ -96,3 +114,18 @@ Related: [Amines revision notes](/resources/a-chemistry-amines-revision-notes/)
 - Omitting the NaOH step after reducing nitrobenzene.
 - Forgetting the below-10 °C condition for diazotisation.
 - Explaining azo dye colour without mentioning delocalisation.
+- Forgetting that the nitrile route to a primary amine **adds a carbon** to the chain — a synthetic detail examiners specifically test when asking how to increase chain length by one carbon.
+- Describing the amine–copper(II) reaction as a simple acid-base reaction rather than complex/ligand formation.
+
+## Two preparation routes to a primary amine, compared
+
+| Route | Reagents | Chain length | Product type |
+|---|---|---|---|
+| Halogenoalkane + excess NH₃ | Ethanolic ammonia, heat, pressure | **Unchanged** | Primary amine (with some over-substitution risk) |
+| Nitrile + LiAlH₄ (or H₂/Ni) | Reduction | **Increased by one carbon** (via the earlier KCN step) | Primary amine only |
+
+The nitrile route is the one to reach for whenever a synthesis question
+specifically asks for a chain **one carbon longer** than the starting
+halogenoalkane, since direct substitution with ammonia can never change
+the number of carbons present. For the full basicity comparison and
+diazotisation chemistry, see the [Amines revision notes](/resources/a-chemistry-amines-revision-notes/).
