@@ -52,11 +52,55 @@ Sir Syed / Aligarh -> Two Nation Theory; modern education reconciles
 Pact · **1930** Allahabad Address · **1933** Rahmat Ali coins "Pakistan" · **1940** Lahore
 Resolution · **1947** Independence/Radcliffe Award.
 
+## 1857 causes, in brief
+
+The War of Independence arose from a combination of grievances: the Doctrine of Lapse and other
+British annexations, the greased-cartridges controversy, resentment at missionary activity, and
+wider economic distress. Its failure carried specific consequences for Muslims: the East India
+Company was replaced by direct Crown rule, the Mughal emperor was deposed, and Muslims were held
+disproportionately responsible by the British, being excluded from government service and education
+in the decades that followed — this exclusion is the direct backdrop against which Sir Syed's later
+work has to be understood.
+
+## Sir Syed and the Aligarh Movement, condensed
+
+Sir Syed Ahmad Khan (1817–98) concluded that Muslim recovery after 1857 required reconciliation with
+British rule and the acquisition of modern education, founding the Muhammadan Anglo-Oriental College
+at Aligarh in 1875 to teach modern subjects alongside Islamic values. His **Two Nation Theory** —
+that Hindus and Muslims were distinct nations in religion, culture, law and history — became the
+intellectual foundation the later Pakistan Movement built on, and he opposed Muslim participation in
+the Indian National Congress on the grounds that Muslims would be permanently outvoted within it. For
+a "why was this important" question on Sir Syed, structure the answer around context (post-1857
+exclusion), action (Aligarh's modern curriculum), result (an educated Muslim professional class,
+including future Muslim League leaders), and a final judgement rather than description alone.
+
 ## Common name/date mix-ups
 
-- The name "Pakistan" is **Rahmat Ali's**, not Iqbal's (Iqbal proposed the north-western state in 1930).
+- The name "Pakistan" is **Rahmat Ali's**, not Iqbal's — Iqbal proposed the idea of a north-western Muslim state in his 1930 Allahabad Address, but did not coin the name itself, a distinction examiners specifically test.
 - The Muslim League was founded in **1906**, not 1905.
 - 1857 is described by the British as a "mutiny" — know this is their framing, not a neutral term.
+
+## Jinnah's changing position
+
+Muhammad Ali Jinnah moved from being an "ambassador of Hindu-Muslim unity" in the early Congress-League
+years to becoming the leader of the demand for a separate Muslim state, and the shift is best explained
+by two specific developments rather than a single fixed conviction from the outset: Congress
+provincial rule from 1937 to 1939, which many Muslims experienced as majoritarian and exclusionary,
+and the repeated failure of constitutional guarantees to protect Muslim political interests within a
+united India. Explaining this shift with reference to those causes, rather than asserting that Jinnah
+always intended partition from the start, is what a well-supported answer on his role looks like.
+
+## Reform movements before 1857, condensed
+
+Muslim political and religious consciousness in the subcontinent did not begin with British rule and
+did not begin in 1857 — it predates both. Shah Waliullah (1703–62) translated the Qur'an into
+Persian and worked to unify Muslims around scripture; Syed Ahmad Barelvi led the Jihad movement in the
+north-west; and the Faraizi movement in Bengal, under Haji Shariatullah, addressed the specific
+grievances of Muslim peasants against Hindu landlords. The reason these earlier movements matter for
+an exam answer is not simply chronological completeness — they establish that Muslim political
+identity was already forming well before 1857, which strengthens any answer that traces continuity
+across the whole Reform → 1857 → Aligarh → Partition chain rather than treating 1857 as the starting
+point of the entire narrative.
 
 ## Exam traps
 

@@ -70,6 +70,72 @@ across all three sections helps candidates place events from 1.1
 through 1.3 in relation to one another, which supports the
 cross-section connections examiners are specifically testing for.
 
+## 1.1 in more depth — reform and decline
+
+Section 1.1's Key Questions turn on two religious reformers whose
+significance is frequently tested: Shah Waliullah, whose Persian
+translation of the Qur'an made scripture more directly accessible and
+laid the groundwork later reformers built on, and Syed Ahmad Barelvi,
+who extended that revival into a more organised movement. The
+decline of the Mughal Empire is examined through internal factors —
+Aurangzeb's policies and the weakness of his successors — combined
+with external factors — foreign invasions and the growing expansion
+of the East India Company. The strongest answers treat these two sets
+of causes as interdependent rather than as two separate lists, since
+internal weakness is what allowed external pressure to succeed in the
+first place; explaining that connection, rather than simply naming
+both sets of causes in turn, is what separates a strong response from
+an adequate one.
+
+## 1.2 in more depth — the road to 1947
+
+Beyond the 1906 founding of the All-India Muslim League, Section 1.2
+traces the political route to independence: the deepening divide
+between the Muslim League and the Indian National Congress, the
+significance of key turning points on the path to Partition, and the
+roles played by major political figures in shaping the demand for a
+separate Muslim state. Because 1.2 sits between the earlier cultural
+background of 1.1 and the later nation-building of 1.3, strong answers
+on this section often need to draw explicitly on 1.1's reform
+movements to explain why a distinct Muslim political identity had
+already begun forming well before the Muslim League's founding in
+1906 — examiners reward candidates who can make that link rather than
+treating 1906 as a clean starting point with no earlier roots.
+
+## 1.3 in more depth — building a new state
+
+Section 1.3 covers the challenges facing Pakistan after 1947:
+establishing political institutions, developing the economy, and
+navigating social change across the following decades. This section
+rewards placing events in correct chronological sequence and
+explaining cause and effect between them, rather than treating each
+development as an isolated fact — a strong answer consistently links
+a given political or economic challenge back to its specific roots in
+the circumstances of independence itself, rather than describing the
+challenge in isolation from what came before it.
+
+## Answering judgement questions
+
+Because Key Questions across all three sections consistently ask "how
+important" or "how successful" something or someone was, candidates
+need a reliable structure for judgement-based answers: state clearly
+what happened, explain its significance or impact, weigh it against
+other relevant factors, and reach an explicit conclusion rather than
+leaving the judgement implicit. A description of events alone, however
+detailed, will not earn the marks reserved for that final evaluative
+step.
+
+## Why the three sections are tested together
+
+A useful revision habit is building a single timeline running across
+all three sections rather than three separate ones, since Paper 1
+questions can draw on more than one section at a time and a combined
+timeline makes those cross-section links visible before they appear
+in an exam question — connecting a reform movement in 1.1 to the
+political identity it helped shape in 1.2, for instance, or tracing
+how a challenge in 1.3 has roots that stretch back to the
+circumstances of Partition itself.
+
 ## Official syllabus
 
 Cambridge O Level Pakistan Studies 2059 syllabus for 2026 (Version 1,

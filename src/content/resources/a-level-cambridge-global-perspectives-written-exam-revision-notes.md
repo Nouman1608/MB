@@ -59,6 +59,46 @@ percentages are hiding small absolute numbers.
 Perspectives come from **contexts** — economic, political, cultural, generational, geographic.
 Explaining *why* a perspective is held (its context) scores higher than describing *what* it says.
 
+## Worked example (condensed)
+
+Claim: "Countries that invest more in education have higher GDP per capita, so increasing education
+spending will raise national income." Weaknesses to spot: **false cause** (correlation does not
+establish direction), **reverse causation** (richer countries can afford more education, not just the
+other way round), **confounding variables** (governance, stability and infrastructure affect both),
+and **sufficiency** (no data given on timescale or size of the effect). Naming a flaw *and* explaining
+why it undermines the inference — not naming it alone — is what separates the top band.
+
+## Contested and interconnected issues
+
+Global issues are characteristically **contested and interconnected**: a policy decision is rarely
+only economic, or only environmental — an energy policy, for example, is simultaneously economic,
+environmental, political and ethical at once, and a solution addressing one of these dimensions often
+creates a new problem in another. Recognising and naming this kind of trade-off explicitly, rather
+than analysing a single dimension in isolation, is a marker of a high-level response.
+
+## Building a sustained argument
+
+A sustained argument holds one position consistently across the whole response, supports it with
+evidence that has actually been evaluated (not just cited), and addresses counter-arguments on their
+merits rather than raising and then dropping them. The conclusion should follow directly from the
+reasoning given, and explicitly acknowledging the limits of your own position is rewarded, not
+penalised — it is a sign of critical awareness rather than weakness.
+
+## Working with different source types
+
+Because sources are unseen and drawn from varied global topics, build general skill in reading
+critically across different types of material — data-heavy reports, opinion pieces, and factual
+reporting — rather than researching specific topics in depth beforehand. Each type carries different
+evaluation priorities: a data-heavy source is best interrogated for sample size, baseline and whether
+a percentage is hiding a small absolute number; an opinion piece is best interrogated for the
+writer's underlying assumptions and the strength of the reasons given for their view, rather than
+simply agreeing or disagreeing with the conclusion itself; and factual reporting is best interrogated
+for provenance — who produced it, why, and for what audience — since this shapes what has been
+included or left out. Comparing perspectives within a single source, or across two or more sources
+given together, is a recurring exam demand distinct from simple comprehension, so practise explicitly
+naming each perspective present and weighing it against the others rather than only summarising what
+each source says in turn.
+
 ## Exam traps
 
 - Disagreeing with a conclusion instead of examining the reasoning that leads to it.
@@ -66,6 +106,16 @@ Explaining *why* a perspective is held (its context) scores higher than describi
 - Describing a perspective without explaining the context it comes from.
 - Accepting statistics at face value without questioning sample, baseline or fair comparison.
 - Raising a counter-argument and then abandoning it instead of weighing it against your position.
+
+## Where this component sits in 9239
+
+Component 1 is one of three AS-level components, alongside the Essay and the Team Project, and all
+three together form the AS Level on their own; the full A Level adds a fourth component, the
+Cambridge Research Report, completed either in the same series or in a second year of study. Because
+this component is externally set and marked, and based entirely on unseen source material, no amount
+of pre-learned subject content can substitute for practising the Critical Path itself under timed
+conditions — the skill being tested is the reasoning process applied on the day, not recalled
+knowledge of any particular global issue.
 
 ## Self-test
 
