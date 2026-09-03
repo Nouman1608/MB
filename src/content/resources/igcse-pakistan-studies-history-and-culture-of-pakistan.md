@@ -70,6 +70,65 @@ of an event often reward answers that connect it to the broader
 identity and independence movement, not just its immediate political
 causes.
 
+## 1.1 in more depth — cultural and historical roots
+
+Section 1.1 is best understood through the reform movements that
+predate 1906 and establish that Muslim political and religious
+identity in the subcontinent did not simply appear with the founding
+of the All-India Muslim League. Shah Waliullah's Persian translation
+of the Qur'an made scripture more directly accessible to a wider
+audience and laid groundwork later reformers built on, while Syed
+Ahmad Barelvi extended that religious revival into a more organised
+movement. Candidates are also expected to understand the decline of
+Mughal authority in the subcontinent, which created the political
+vacuum within which later British expansion and eventual colonial
+rule took hold — treating this decline and the subsequent British
+consolidation as connected rather than as two unrelated background
+facts is what separates a strong 1.1 answer from a purely descriptive
+one.
+
+## 1.2 in more depth — the path to independence
+
+Building on 1.1's cultural background, Section 1.2 traces the
+specifically political route from the 1906 founding of the All-India
+Muslim League through to independence in 1947, including the
+deepening divide between the Muslim League and the Indian National
+Congress, and the growing organisational and political weight behind
+the demand for a separate Muslim state. Because "explain why" and
+"how important" questions are common on this section, candidates
+should practise tracing cause and effect across a sequence of events
+— explaining, for instance, how the failure of a particular political
+initiative fed directly into growing support for the Muslim League's
+position, rather than presenting each event as an isolated fact with
+no bearing on what followed.
+
+## 1.3 in more depth — nationhood after 1947
+
+Section 1.3 covers over fifty years of material, tracing Pakistan's
+political, social and economic development from independence through
+to the end of the twentieth century. Because this span is so wide,
+building a rough working timeline of major political changes is one
+of the most effective preparation tools, since it lets a candidate
+place a given event in the right decade and the right surrounding
+context under exam conditions, rather than relying on isolated recall.
+Strong answers also link a specific post-independence challenge back
+to its roots in the circumstances of Partition itself wherever
+relevant, showing an understanding of nationhood as a continuation of
+earlier sections rather than a wholly separate block of content.
+
+## Answering judgement questions
+
+Because Paper 1's key questions consistently ask "how important" or
+"how successful" something or someone was, a reliable answer structure
+matters as much as content knowledge: state clearly what happened,
+explain its significance or impact, weigh it against other relevant
+factors, and reach an explicit conclusion rather than leaving the
+judgement implicit in a purely descriptive account. Examiners
+consistently distinguish between candidates who describe an event in
+detail and candidates who use that detail to support a stated
+judgement — the second group scores more highly even when their
+factual content is similar.
+
 ## Official syllabus
 
 Cambridge IGCSE Pakistan Studies 0448 syllabus for 2026 —

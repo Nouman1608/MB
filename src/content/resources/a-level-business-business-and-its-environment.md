@@ -72,6 +72,78 @@ forget — a shaky grasp of objectives and stakeholders here tends to
 weaken essay answers on marketing and finance topics much later in
 the course.
 
+## Enterprise and risk in more depth
+
+1.1 asks candidates to understand enterprise as the willingness to
+take on the financial and personal risk of starting and running a
+business in pursuit of reward, and to recognise the specific skills
+and qualities that make entrepreneurship more likely to succeed:
+opportunity recognition, the ability to secure and manage finance,
+resilience in the face of setbacks, and the capacity to plan and
+adapt a business idea as circumstances change. Exam scenarios
+typically present a specific entrepreneur or business idea and ask
+candidates to assess the risks and potential rewards involved, so
+revision should focus on applying these qualities and risks to a given
+context rather than listing them as an abstract checklist.
+
+## Stakeholder conflict in more depth
+
+1.5 rewards being able to identify not just who a business's internal
+and external stakeholders are -- employees, managers and shareholders
+internally; customers, suppliers, government, the local community and
+pressure groups externally -- but how their interests can pull in
+different directions on a specific decision. A common exam scenario
+sets shareholders' desire for higher dividends against employees'
+desire for higher wages, or a local community's opposition to
+expansion against a business's own growth objectives, and strong
+answers explain why each stakeholder group holds its position before
+evaluating how a business might realistically balance the competing
+claims, rather than simply asserting that a compromise is possible
+without explaining what that compromise would involve. A useful
+underlying idea here is that stakeholder power and interest vary
+considerably between groups -- a small group with high power and high
+interest in a decision, such as a major shareholder, typically needs
+to be managed far more closely than a large but low-interest group,
+even where the low-interest group is more numerous.
+
+## Business objectives across the business lifecycle
+
+1.4 expects candidates to understand that a business's objectives
+change as it develops. A new business typically prioritises survival
+and building an initial customer base, since cash flow and market
+presence are the most immediate threats to its continuation; an
+established, profitable business might instead prioritise growth,
+profit maximisation, or increasing market share; and some businesses,
+particularly those with strong stakeholder pressure or founder
+values, adopt objectives centred on social or environmental
+responsibility even at some cost to short-term profit. Because a
+business's stated objectives shape the decisions examined throughout
+the rest of the syllabus -- pricing, investment, expansion, workforce
+planning -- strong answers on later topics often explicitly link a
+business decision back to the objective it appears to be serving,
+rather than treating the decision in isolation from what the business
+is actually trying to achieve.
+
+## Measuring and growing business size
+
+1.3 sets out that business size is not measured by a single figure
+but by several different measures -- number of employees, annual
+turnover, capital employed, and market share -- each of which can give
+a different impression of the same business, so a firm with few
+employees but high turnover (a capital-intensive business, for
+instance) should not automatically be classed as small. Growth itself
+brings opportunities, including economies of scale that reduce average
+costs and greater market power, but also problems, including
+diseconomies of scale, communication difficulties across a larger
+organisation, and a potential loss of the close customer relationships
+a smaller business may have relied on. Exam scenarios often ask
+candidates to recommend a specific growth method for a given business,
+so being able to weigh organic growth (slower, but keeping the
+original owners in control) against external growth through merger or
+takeover (faster, but bringing integration risk) for the actual
+circumstances described is more valuable than being able to define
+each method in isolation.
+
 ## Official syllabus
 
 Cambridge International AS & A Level Business 9609 syllabus for 2026,

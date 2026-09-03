@@ -77,6 +77,65 @@ Advanced Level. Pearson's YET01 specification is currently Issue 7,
 first taught from September 2015, and this remains the version in
 force for current examination series.
 
+## Section A in more depth
+
+Section A's comparative poetry essay pairs one poem named by the exam
+board with a second poem the candidate chooses from the *Poems of the
+Decade* anthology, and is marked against AO1 (a coherent, accurate
+argument), AO2 (analysis of form, structure and language) and AO4
+(making connections across texts) -- notably, AO3, context, is not
+assessed in this section, unlike Section B. Because the exam is open
+book, the value of preparation lies less in memorising exact
+quotations and more in fast, precise navigation of the anthology, so
+that strong evidence can be located quickly under time pressure.
+Structuring a comparative answer by point of comparison rather than
+poem-by-poem is what makes AO4 visible throughout the response rather
+than only in a closing paragraph, and since Section A offers a choice
+of two questions, briefly reading both before committing to one is
+worth the time it costs, since one question may suit a candidate's
+strongest poems far better than the other.
+
+## Section B in more depth
+
+Section B's essay on a candidate's chosen post-2000 prose fiction
+text is marked against AO1, AO2 and AO3, with AO3's contextual
+element focused on contemporary social and cultural concerns rather
+than historical background, since the set text postdates 2000. A
+common way marks are lost here is drifting into general commentary on
+what a novel is "about" rather than analysing the specific techniques
+-- narrative structure, voice, form -- through which the writer
+explores that concern, which is what AO2 actually rewards; description
+of theme without analysis of technique caps how highly a response can
+score even when its understanding of the text's content is accurate.
+As with Section A, Section B offers a choice of two questions, and
+because Pearson rotates the prescribed prose text between examination
+series, confirming the current set text before beginning detailed
+revision avoids the significant wasted effort of preparing the wrong
+title.
+
+## Where Unit 1 sits for AS-only candidates
+
+Candidates sitting only the International Advanced Subsidiary rather
+than continuing to the full International Advanced Level should note
+that Unit 1 carries double its full-IAL weighting in that context: 50%
+of the AS rather than 25% of the full A-Level. This makes Unit 1, and
+its companion Unit 2 on drama, disproportionately important for
+AS-only candidates compared with those planning to sit the full
+qualification, since Units 3 and 4 -- which introduce Shakespeare and
+pre-1900 poetry -- do not factor into an AS-only result at all.
+
+## Why post-2000 texts come first
+
+Studying post-2000 poetry and prose before Units 3-4 introduce
+Shakespeare and pre-1900 poetry is a deliberate sequencing choice
+within the qualification rather than an arbitrary ordering: post-2000
+texts are generally more linguistically accessible than the older
+material studied later, so building core analytical skills -- close
+reading, structuring an argument, comparing texts -- on more
+approachable contemporary material first gives candidates a stronger
+foundation before they tackle the additional linguistic demands of
+Shakespearean and pre-1900 language in Units 3 and 4.
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Level English Literature
