@@ -100,6 +100,11 @@ AQA's specification says arrays "(or equivalent)" because different languages im
 - Explain the difference between an array's dimensionality and its size, with an example of each.
 - State what index number AQA's pseudocode conventions start from.
 
+## Related resources
+
+[Data Structures and Arrays study guide](/resources/a-level-aqa-computer-science-data-structures-and-arrays/) |
+[Data Structures and Arrays practice questions](/resources/aqa-a-level-computer-science-data-structures-practice/)
+
 ## Official syllabus
 
 AQA A-Level Computer Science (7517) specification, first teaching 2015

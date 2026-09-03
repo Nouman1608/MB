@@ -138,6 +138,11 @@ described problem, not just naming "array" as the answer.
 - Be comfortable with zero-based indexing and looping through
 one- and two-dimensional arrays in your course's chosen language.
 
+## Related resources
+
+[Data Structures and Arrays revision notes](/resources/aqa-a-level-computer-science-data-structures-revision-notes/) |
+[Data Structures and Arrays practice questions](/resources/aqa-a-level-computer-science-data-structures-practice/)
+
 ## Official syllabus
 
 AQA A-Level Computer Science (7517) specification, first teaching 2015
