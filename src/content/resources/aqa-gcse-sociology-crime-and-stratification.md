@@ -160,6 +160,11 @@ explanations of poverty, naming Townsend and Murray.
 - For every named sociologist, know which of the four perspectives
 they represent and be able to state their argument in one sentence.
 
+## Related resources
+
+[Crime, Deviance and Social Stratification revision notes](/resources/gcse-sociology-crime-stratification-revision-notes/) |
+[Crime, Deviance and Social Stratification practice questions](/resources/gcse-sociology-crime-stratification-practice/)
+
 ## Official syllabus
 
 AQA GCSE Sociology (8192) specification, first teaching 2017, sections
