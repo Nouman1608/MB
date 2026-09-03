@@ -115,3 +115,9 @@ for each element when the structure is visibly signposted.
 5. Why does "state of affairs" differ from an ordinary "act"?
 
 **Answers:** 1. But for the defendant's act, would the consequence have occurred? — it establishes factual causation. 2. Intention is the defendant's aim or purpose (or foreseeing a consequence as virtually certain); subjective recklessness is personally foreseeing a risk and unreasonably taking it anyway — a lower level of fault. 3. The harm actually caused to the unintended victim must be the same type of harm intended for the original victim. 4. Strict liability. 5. A "state of affairs" offence can be satisfied simply by being in a certain situation, regardless of any voluntary conduct, unlike an ordinary act which requires positive, voluntary conduct.
+
+
+## Related resources
+
+[General Elements of Liability study guide](/resources/a-level-aqa-law-general-elements-of-criminal-liability/) |
+[General Elements of Liability practice questions](/resources/aqa-a-level-law-criminal-liability-practice/)
