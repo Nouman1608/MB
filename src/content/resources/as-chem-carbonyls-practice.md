@@ -51,6 +51,14 @@ Related: [Aldehydes and Ketones revision notes](/resources/as-chem-carbonyls-rev
 
 **6.** State the reagent for reducing a ketone to a secondary alcohol. **[1]**
 
+**7.** A student adds 2,4-dinitrophenylhydrazine (2,4-DNPH) to an unknown liquid and obtains an orange precipitate.
+
+**(a)** What does this observation confirm about the unknown liquid? **[1]**
+**(b)** Explain why this test alone cannot tell the student whether the liquid is an aldehyde or a ketone. **[1]**
+**(c)** Describe how the identity of the specific carbonyl compound could then be confirmed. **[2]**
+
+**8.** Explain how you would prepare a sample of propanal from propan-1-ol in the laboratory, and why the method must be different from the one used to prepare propanone from propan-2-ol. **[4]**
+
 ---
 
 ## Answers
@@ -74,6 +82,12 @@ Related: [Aldehydes and Ketones revision notes](/resources/as-chem-carbonyls-rev
 
 **6.** **NaBH₄** (sodium tetrahydridoborate) [1].
 
+**7. (a)** That the liquid **contains a carbonyl group** — it is an aldehyde or a ketone [1].
+**(b)** Both aldehydes and ketones give the **same orange precipitate** with 2,4-DNPH, so the test confirms a carbonyl is present but does not distinguish which type [1].
+**(c)** Recrystallise the orange precipitate (the 2,4-DNPH derivative) [1], then measure its **melting point** and compare it against a data table of known derivatives to identify the specific compound [1].
+
+**8.** Oxidise propan-1-ol with acidified potassium dichromate(VI) [1], but **distil off** the propanal as it forms rather than heating under reflux [1]. This is necessary because propanal, an aldehyde, would otherwise be **oxidised further to propanoic acid** if it remained in contact with the oxidising mixture [1]. Propan-2-ol, in contrast, is oxidised **under reflux** to propanone, because a ketone cannot be oxidised further under these conditions, so there is no risk of over-oxidation [1].
+
 ---
 
 ## Where marks are usually lost
@@ -82,3 +96,20 @@ Related: [Aldehydes and Ketones revision notes](/resources/as-chem-carbonyls-rev
 - Stating a racemate forms without explaining the planar intermediate.
 - Giving only one observation in a distinguishing test — both are needed.
 - Claiming IR alone easily distinguishes an aldehyde from a ketone.
+- Claiming that 2,4-DNPH distinguishes an aldehyde from a ketone — it only confirms a carbonyl group is present; Tollens' or Fehling's is needed to tell them apart.
+- Using reflux instead of distillation when preparing an aldehyde from a primary alcohol, which allows over-oxidation to the carboxylic acid.
+- Forgetting that a hydroxynitrile has one more carbon atom than the carbonyl compound it was made from.
+
+## Preparing and testing carbonyl compounds — the full picture
+
+| Starting material | Method | Product |
+|---|---|---|
+| Primary alcohol | Oxidise with acidified K₂Cr₂O₇, **distil immediately** | Aldehyde |
+| Primary alcohol | Oxidise with acidified K₂Cr₂O₇, **reflux (excess oxidant)** | Carboxylic acid |
+| Secondary alcohol | Oxidise with acidified K₂Cr₂O₇, **reflux** | Ketone |
+| Aldehyde or ketone | Reduce with NaBH₄ | Primary or secondary alcohol |
+| Aldehyde or ketone | React with HCN/KCN | Hydroxynitrile |
+
+The recurring theme across this table and the distinguishing tests is that an **aldehyde sits at an intermediate oxidation state** — it can be pushed further to a carboxylic acid or pulled back to a primary alcohol — while a **ketone is a dead end** for oxidation, which is exactly why Tollens' and Fehling's give a positive result only with the aldehyde.
+
+For the full reaction schemes and curly-arrow mechanism, see the [Carbonyl Compounds study guide](/resources/as-carbonyl-compounds-aldehydes-and-ketones/); for condensed recall notes covering the same preparation and test tables, see the [Aldehydes and Ketones revision notes](/resources/as-chem-carbonyls-revision-notes/).

@@ -56,25 +56,29 @@ Related: [The Periodic Table revision notes](/resources/periodic-table-revision-
 
 ## Questions
 
-**1.** State what the group number and period number tell you about an atom. **[2]**
+**1.** State what the group number and period number of an element tell you about the arrangement of its atom's electrons, using an example. **[2]**
 
-**2.** Explain why elements in the same group have similar chemical properties. **[2]**
+**2.** Explain why elements in the same group of the periodic table have similar chemical properties. **[2]**
 
-**3.** Describe the reaction of potassium with water, giving three observations and a word equation. **[4]**
+**3.** Describe the reaction of potassium with cold water, giving three observations and a word equation. **[4]**
 
-**4.** Explain fully why reactivity increases down Group 1. **[3]**
+**4.** Explain fully why reactivity increases down Group 1, referring to atomic radius, shielding and nuclear attraction. **[3]**
 
-**5.** Explain why reactivity **decreases** down Group 7, and why this is the opposite of Group 1. **[4]**
+**5.** Explain why reactivity **decreases** down Group 7, and why this is the opposite trend to Group 1, in terms of gaining versus losing an electron. **[4]**
 
-**6.** Chlorine is bubbled through potassium iodide solution.
+**6.** Chlorine is bubbled through a solution of potassium iodide.
 
 **(a)** State the observation. **[1]**
 **(b)** Write the word equation. **[1]**
 **(c)** Explain why the reaction occurs. **[2]**
 
-**7.** State four properties of transition metals that distinguish them from Group 1 metals. **[4]**
+**7.** State four properties of transition metals that distinguish them from Group 1 metals, referring to density, melting point, colour and reactivity. **[4]**
 
 **8.** Explain why the noble gases are unreactive. **[2]**
+
+**9.** State the appearance at room temperature and pressure of chlorine, bromine and iodine. **[3]**
+
+**10.** Iron forms both iron(II) and iron(III) compounds. Explain what this shows about transition elements, and contrast it with Group 1 metals. **[3]**
 
 ---
 
@@ -99,11 +103,31 @@ Word equation: potassium + water → potassium hydroxide + hydrogen [1].
 
 **8.** They have **full outer electron shells** [1], so they have **no tendency to lose, gain or share electrons** [1].
 
+**9.** Chlorine — a **pale yellow-green gas** [1]. Bromine — a **red-brown liquid** [1]. Iodine — a **grey-black solid** [1].
+
+**10.** It shows that transition elements can have **ions with variable oxidation numbers** [1] — iron(II) compounds and iron(III) compounds are both stable, ordinary compounds, with the same metal simply forming two different, equally valid ions [1]. This is **unlike Group 1 metals**, which only ever form **one** ion charge (always 1+) [1].
+
 ---
 
 ## Where marks are usually lost
 
-- Saying reactivity increases down both Group 1 and Group 7.
+- Saying reactivity increases down both Group 1 and Group 7 — remembering the two trends run in opposite directions, and *why* (losing an electron gets easier down Group 1, gaining one gets harder down Group 7), avoids this.
 - Giving only one reason for the Group 1 trend when three are needed.
-- Saying noble gases are unreactive "because they are gases".
+- Saying noble gases are unreactive "because they are gases" — the reason is a full outer electron shell, not the physical state.
 - Confusing group number with period number.
+- Giving the wrong physical state for a halogen at room temperature — chlorine is a gas, bromine a liquid, and iodine a solid, and mixing these up loses an easy mark.
+- Describing iron(II)/iron(III) as "isotopes" of each other rather than as different ions of the same element with different oxidation numbers.
+- Describing a halogen displacement reaction without explaining *why* it happens — a more reactive halogen displaces a less reactive one from solution, and reactivity is what should be named as the reason, not simply "because it can".
+
+## Displacement reactions — the underlying link
+
+The same reactivity order that governs displacement (Cl > Br > I) is
+also why halide ions give differently coloured precipitates with
+silver nitrate solution in qualitative analysis — chloride a white
+precipitate, bromide cream, iodide yellow. Recognising that both facts
+come from the same trend, rather than treating them as unrelated, is
+worth doing explicitly when revising Group 7 — the reactivity series
+of the halogens is the single idea that underlies both the
+displacement equation and the precipitate colours.
+
+For condensed recall notes on this topic, see the [The Periodic Table revision notes](/resources/periodic-table-revision-notes/); for the full explanation with additional detail, see the [The Periodic Table: Groups and Trends study guide](/resources/periodic-table-groups-and-trends/).

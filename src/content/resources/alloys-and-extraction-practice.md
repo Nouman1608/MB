@@ -68,6 +68,12 @@ Related: [Metals and Extraction revision notes](/resources/alloys-and-extraction
 **(a)** Name them. **[2]**
 **(b)** Describe how galvanising protects iron, and explain why it still works if the coating is scratched. **[3]**
 
+**7.** Name the two metals that make up brass, and the metals and non-metal that make up stainless steel. **[3]**
+
+**8.** State one property of aluminium that makes it suitable for overhead electrical cables, and explain why aluminium is used rather than copper despite copper being a better conductor. **[3]**
+
+**9.** For each of the following metals, state whether it would be extracted by electrolysis, by reduction with carbon, or by neither method, and give a reason in each case: (a) potassium (b) zinc (c) gold. **[6]**
+
 ---
 
 ## Answers
@@ -90,6 +96,14 @@ Related: [Metals and Extraction revision notes](/resources/alloys-and-extraction
 **6. (a)** **Water** [1] and **oxygen** [1].
 **(b)** The iron is coated with **zinc** [1]. Zinc is **more reactive than iron**, so it is **oxidised in preference** — sacrificial protection [1]; this means the protection continues even where the coating is broken and the iron is exposed [1].
 
+**7.** **Brass** is copper and zinc [1]. **Stainless steel** is iron with chromium, nickel and carbon [1]. Both are alloys, mixtures of a metal with one or more other elements, usually giving properties (hardness, corrosion resistance) that the pure metal alone does not have [1].
+
+**8.** Aluminium has a **low density** [1], and combined with good electrical conductivity this suits it to overhead cables [1]. Although copper conducts electricity better, aluminium's much lower density makes the cables far lighter for a given length, reducing the load on supporting pylons and the overall cost, which outweighs copper's conductivity advantage for this specific use [1].
+
+**9. (a)** **Electrolysis** [1]. Potassium is **above carbon** in the reactivity series, so carbon is not a strong enough reducing agent to displace it from its compound [1].
+**(b)** **Reduction with carbon** [1]. Zinc is **below carbon** in the reactivity series, so carbon can displace it, and this is cheaper than electrolysis [1].
+**(c)** **Neither** — gold is **found native (uncombined)** in the Earth's crust [1], because it is so unreactive that it does not readily form compounds with other elements, so no chemical extraction is needed [1].
+
 ---
 
 ## Where marks are usually lost
@@ -98,3 +112,19 @@ Related: [Metals and Extraction revision notes](/resources/alloys-and-extraction
 - Not giving both equations for the role of limestone.
 - Saying cryolite acts as a catalyst — it lowers the melting point.
 - Explaining alloy hardness without mentioning disrupted layers.
+- Naming a metal's use without pairing it with the specific property that explains it — "aluminium is used in aircraft" alone earns no credit without "because of its low density."
+- Forgetting the non-metal (carbon) when naming stainless steel's full composition.
+- Assuming the better conductor is always chosen for an electrical application, without weighing other properties such as density or cost against conductivity.
+
+## Uses linked to properties — the pairing to remember
+
+| Metal | Use | Property that explains it |
+|---|---|---|
+| Aluminium | Aircraft manufacture | Low density |
+| Aluminium | Overhead electrical cables | Low density + good conductivity |
+| Aluminium | Food containers | Resistance to corrosion (oxide layer) |
+| Copper | Electrical wiring | Excellent conductivity + ductility |
+| Iron/steel | Construction, vehicles | Strength, low cost |
+| Zinc | Galvanising | More reactive than iron |
+
+For condensed recall notes on this topic, see the [Metals and Extraction revision notes](/resources/alloys-and-extraction-revision-notes/); for the full explanation with additional detail, see the [Metals, Alloys and Extraction study guide](/resources/alloys-and-extraction-of-metals/).

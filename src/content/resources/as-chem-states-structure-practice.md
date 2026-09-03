@@ -51,6 +51,10 @@ Related: [Ideal Gases and Structure revision notes](/resources/as-chem-states-st
 
 **5.** Explain why sodium chloride conducts electricity when molten but not when solid. **[2]**
 
+**6.** Explain why copper conducts electricity in both the solid and molten state. **[3]**
+
+**7.** An unknown white solid has a very high melting point, does not conduct electricity as a solid, but conducts well once molten, and dissolves readily in water to give a colourless solution. Deduce its type of structure and bonding, explaining how each observation rules out the alternatives. **[5]**
+
 ---
 
 ## Answers
@@ -75,6 +79,10 @@ Related: [Ideal Gases and Structure revision notes](/resources/as-chem-states-st
 
 **5.** In the solid the **ions are held in fixed positions** and cannot move [1]; when molten they are **free to move and carry charge** [1].
 
+**6.** Copper has a **giant metallic** structure, held together by electrostatic attraction between metal cations and a "sea" of **delocalised electrons** [1]. This delocalised electron sea is **mobile in both the solid and molten state** [1], so copper can carry charge either way — unlike an ionic solid, whose ions are only free to move once molten [1].
+
+**7.** A **high melting point** rules out simple molecular structure, since only weak intermolecular forces would need overcoming there [1]. **Conducting only when molten**, not as a solid, rules out giant metallic, which conducts in both states [1], and also rules out giant molecular, which (except graphite) does not conduct at all [1]. Conducting when molten, together with **solubility in water**, is the signature of mobile ions being released into solution [1] — the solid is **giant ionic** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -83,3 +91,19 @@ Related: [Ideal Gases and Structure revision notes](/resources/as-chem-states-st
 - Saying covalent bonds break when iodine sublimes.
 - Saying graphite's fourth electron is "unbonded" rather than delocalised.
 - Explaining real-gas deviation without naming the specific failing assumptions.
+- Confusing "conducts when molten" (ionic) with "conducts in both states" (metallic) — the deduction hinges on exactly this distinction.
+- Treating simple molecular structures as weakly bonded overall, when it is only the *intermolecular* forces that are weak — the covalent bonds within each molecule are just as strong as in a giant covalent structure.
+- Forgetting that ice is held together partly by hydrogen bonding rather than only van der Waals forces, which is why it has an unusually open structure and floats on liquid water.
+
+## The four structure types at a glance
+
+| Structure | Examples | Conducts as solid? | Conducts when molten? |
+|---|---|---|---|
+| Giant ionic | NaCl, MgO | No | Yes |
+| Simple molecular | iodine, ice | No | No |
+| Giant molecular | diamond, SiO₂ (graphite excepted) | No | No |
+| Giant metallic | copper | Yes | Yes |
+
+Working through this table by elimination — as in Question 7 — is the standard technique for a "deduce the structure" question.
+
+For condensed recall notes on this topic, see the [Ideal Gases and Structure revision notes](/resources/as-chem-states-structure-revision-notes/); for the full explanation with additional worked examples, see the [Ideal Gases and Structure study guide](/resources/as-states-of-matter-ideal-gases-and-structure/).
