@@ -54,7 +54,7 @@ Related: [Acids, Bases and Salts revision notes](/resources/acids-bases-and-salt
 **(b)** `H₂SO₄ + CuO →` **[1]**
 **(c)** `HNO₃ + CaCO₃ →` **[2]**
 
-**4.** Describe how you would prepare pure, dry crystals of copper(II) sulfate from copper(II) oxide and dilute sulfuric acid. **[5]**
+**4.** Describe how you would prepare pure, dry crystals of copper(II) sulfate from copper(II) oxide and dilute sulfuric acid, explaining why the solid oxide is added in excess rather than measured exactly. **[5]**
 
 **5.** Describe how you would prepare a pure sample of lead(II) sulfate, an insoluble salt, by precipitation. **[4]**
 
@@ -64,6 +64,12 @@ Related: [Acids, Bases and Salts revision notes](/resources/acids-bases-and-salt
 **(b)** Calculate the concentration of the sodium hydroxide. **[3]**
 
 **7.** Explain the difference between a strong acid and a weak acid, giving an example of each. **[3]**
+
+**8.** Classify each of the following oxides as acidic, basic or amphoteric: sulfur dioxide, calcium oxide, aluminium oxide, carbon dioxide. **[4]**
+
+**9.** For each of the following salts, state whether it would be prepared by (i) reacting an acid with an excess insoluble solid, (ii) titration, or (iii) precipitation, giving a reason based on solubility: (a) potassium sulfate, (b) lead(II) sulfate, (c) copper(II) chloride made from copper(II) carbonate. **[6]**
+
+**10.** Anhydrous copper(II) sulfate is white, while hydrated copper(II) sulfate is blue. Explain how this difference is used as a chemical test, and give the formula of the hydrated salt. **[3]**
 
 ---
 
@@ -88,6 +94,14 @@ c = n ÷ V = 2.00 × 10⁻³ ÷ 0.0250 [1] = **0.0800 mol dm⁻³** [1].
 
 **7.** A **strong** acid **fully dissociates** into ions in water, e.g. hydrochloric acid [1] [1]; a **weak** acid only **partially dissociates**, e.g. ethanoic acid [1].
 
+**8.** Sulfur dioxide — **acidic** (a non-metal oxide) [1]. Calcium oxide — **basic** (a metal oxide) [1]. Aluminium oxide — **amphoteric**, reacting with both acids and bases [1]. Carbon dioxide — **acidic** (a non-metal oxide) [1].
+
+**9. (a) Potassium sulfate** — by **titration** [1], since both potassium hydroxide and sulfuric acid are soluble, so excess solid cannot be filtered off; the alkali must be measured exactly against the acid [1].
+**(b) Lead(II) sulfate** — by **precipitation** [1], since lead(II) sulfate itself is insoluble (one of the exceptions to the sulfate solubility rule), so it is made by mixing two soluble solutions whose ions combine to form it [1].
+**(c) Copper(II) chloride** — by reacting the acid with an **excess insoluble solid** [1], since copper(II) carbonate is insoluble and copper(II) chloride is soluble, so the excess unreacted carbonate can simply be filtered off after the reaction [1].
+
+**10.** Adding water to white anhydrous copper(II) sulfate turns it **blue**, so it is used as a simple chemical test for the presence of water [1]; formally, the water becomes chemically combined within the crystal structure as **water of crystallisation** [1]. The hydrated formula is **CuSO₄·5H₂O** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -96,3 +110,8 @@ c = n ÷ V = 2.00 × 10⁻³ ÷ 0.0250 [1] = **0.0800 mol dm⁻³** [1].
 - Forgetting to wash the precipitate in a precipitation preparation.
 - Not converting cm³ to dm³ in titration calculations.
 - Confusing strong with concentrated.
+- Choosing titration for a salt where one reactant is actually insoluble, or vice versa — the choice of method always follows directly from the solubility of the salt and its reactants, not from habit.
+- Forgetting that amphoteric oxides (aluminium and zinc) react with *both* acids and bases, and are worth memorising as a pair since they don't follow the metal/non-metal pattern of the other oxides.
+- Describing the anhydrous-to-hydrated colour change without naming water of crystallisation, or without giving the correct hydrated formula.
+
+For condensed recall notes on this topic, see the [Acids, Bases and Salts revision notes](/resources/acids-bases-and-salts-revision-notes/); for the full explanation with worked examples, see the [Acids, Bases and Salts study guide](/resources/acids-bases-and-salts/).

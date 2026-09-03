@@ -48,13 +48,19 @@ Related: [Indices and Equations revision notes](/resources/indices-and-equations
 **(a)** x² − 7x + 12 = 0 by factorising **[3]**
 **(b)** 2x² + 5x − 4 = 0 using the formula, to 2 d.p. **[4]**
 
-**5.** Solve the simultaneous equations 3x + 2y = 16 and 5x − y = 18. **[4]**
+**5.** Solve the simultaneous equations 3x + 2y = 16 and 5x − y = 18, checking your answer in the equation you did not substitute into. **[4]**
 
-**6.** Make **r** the subject of V = ⅓πr²h. **[3]**
+**6.** Make **r** the subject of V = ⅓πr²h, given that r must be positive. **[3]**
 
-**7.** Solve 2^(3x) = 32. **[3]**
+**7.** Solve 2^(3x) = 32, showing your method clearly. **[3]**
 
-**8.** The area of a rectangle is 40 cm². Its length is 3 cm more than its width. Form an equation and find the dimensions. **[5]**
+**8.** The area of a rectangle is 40 cm². Its length is 3 cm more than its width. Form an equation and find the dimensions, explaining why one algebraic solution must be rejected. **[5]**
+
+**9.** Solve x/(x + 2) = 3/(x − 6), giving your answers as exact surds where necessary, and state which values of x had to be excluded from the domain before solving. **[6]**
+
+**10.** Solve x² − 4x − 3 = 0, giving your answers in surd form. **[3]**
+
+**11.** Solve 5^(x+1) = 25^x. **[3]**
 
 ---
 
@@ -78,11 +84,24 @@ Related: [Indices and Equations revision notes](/resources/indices-and-equations
 
 **8.** Let the width be x, so the length is x + 3 [1]. x(x + 3) = 40 [1]; x² + 3x − 40 = 0 [1]; (x + 8)(x − 5) = 0, so x = 5 (rejecting x = −8 as a length cannot be negative) [1]. Width **5 cm**, length **8 cm** [1].
 
+**9.** The excluded values are **x = −2 and x = 6**, since these make one of the original denominators zero [1]. Cross-multiplying: x(x − 6) = 3(x + 2) [1]; x² − 6x = 3x + 6 [1]; x² − 9x − 6 = 0 [1]. Using the formula, x = (9 ± √(81 + 24)) ÷ 2 = **(9 ± √105) ÷ 2** [1]. Neither root equals −2 or 6, so both solutions are valid [1].
+
+**10.** a = 1, b = −4, c = −3; x = (4 ± √(16 + 12)) ÷ 2 [1] = (4 ± √28) ÷ 2 [1]; since 28 has no integer square root, leave the answer as a surd rather than approximating: x = **2 ± √7** [1].
+
+**11.** Rewrite 25 as 5² so both sides share the same base: 5^(x+1) = (5²)^x = 5^(2x) [1]. Once the bases match, the indices must be equal: x + 1 = 2x [1]; x = **1** [1].
+
 ---
 
 ## Where marks are usually lost
 
-- Writing x⁵ × x³ as x¹⁵.
+- Writing x⁵ × x³ as x¹⁵, adding the powers only when multiplying, never when the two terms are added or subtracted.
 - Multiplying only part of the expression when clearing fractions.
 - Forgetting the ± in the quadratic formula.
 - Not rejecting the negative root in a context question.
+- Approximating a surd answer when a question explicitly asks for surd form, or vice versa — check the exact wording before rounding anything.
+- Forgetting to check a fractional equation's solutions against the values that were originally excluded (those that make a denominator zero) — a valid-looking root can still need rejecting.
+- Cross-multiplying only one side of a fractional equation, rather than every term on both sides.
+- Confusing a fractional-index question, e.g. 27^(2/3), with a negative-index question, e.g. 3⁻² — the first is a root-then-power calculation, the second a reciprocal.
+- Trying to equate indices before the bases actually match — 5^(x+1) = 25^x only becomes solvable once 25 is rewritten as 5², not before.
+
+For condensed recall notes on this topic, see the [Indices and Equations revision notes](/resources/indices-and-equations-revision-notes/); for the full explanation with worked examples, see the [Indices and Equations study guide](/resources/indices-and-equations/).

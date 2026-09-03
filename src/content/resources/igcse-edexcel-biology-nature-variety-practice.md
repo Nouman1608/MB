@@ -49,6 +49,10 @@ Related: [Nature and Variety of Living Organisms revision notes](/resources/igcs
 
 **6.** For each pathogen type, name a disease and its causative organism: bacterium, fungus, protoctist. **[6]**
 
+**7.** Distinguish between a tissue, an organ and an organ system, giving one example of each, in the context of the human digestive system. **[6]**
+
+**8.** Explain why excretion and egestion are not the same process, and explain why an increase in mass caused by taking up water is not classed as growth. **[3]**
+
 ---
 
 ## Answers
@@ -68,6 +72,10 @@ Related: [Nature and Variety of Living Organisms revision notes](/resources/igcs
 
 **6. Bacterium** — e.g. **cholera**, caused by *Vibrio cholerae* [1] [1]. **Fungus** — e.g. **athlete's foot**, caused by a *Tinea* fungus [1] [1]. **Protoctist** — e.g. **malaria**, caused by *Plasmodium* [1] [1].
 
+**7.** A **tissue** is a group of cells with **similar structure and function**, e.g. **glandular tissue** in the stomach lining, which secretes digestive enzymes [1] [1]. An **organ** is a group of **different tissues** working together to perform a specific function, e.g. the **stomach**, made up of glandular, muscular and epithelial tissue [1] [1]. An **organ system** is a group of **organs with related functions**, e.g. the **digestive system**, made up of the stomach, small intestine, large intestine and associated glands [1] [1].
+
+**8.** **Excretion** is the removal of the **waste products of metabolism** — substances the organism's own cells produced [1]. **Egestion** is the removal of **undigested food** from the gut, which was never absorbed into the body and so was never part of the organism's metabolism [1]. Taking up water increases an organism's **mass** but not its **dry mass**, and growth is defined as a **permanent increase in dry mass**, so a rise caused only by water uptake does not count [1].
+
 ---
 
 ## Where marks are usually lost
@@ -76,3 +84,18 @@ Related: [Nature and Variety of Living Organisms revision notes](/resources/igcs
 - Saying fungal walls are made of cellulose.
 - Claiming viruses have a cell wall.
 - Confusing the pathogen with the vector — mosquitoes carry *Plasmodium*, they are not the pathogen.
+- Giving a tissue example that is actually a whole organ, or vice versa — a tissue must be a single type of cell performing one function, not a functioning structure made of several tissues.
+- Describing egestion as "excreting undigested food" — egestion and excretion are named as opposites precisely because undigested food was never inside the organism's cells or metabolism.
+- Explaining growth only in terms of mass, without the "dry" qualifier that rules out temporary water uptake.
+
+## Self-test
+
+1. What is Edexcel's eighth characteristic of living organisms, alongside MRS GREN?
+2. Give the correct order of the three steps in saprotrophic nutrition.
+3. Why are viruses not classed as living organisms?
+4. What do plants store as their carbohydrate reserve, and what do animals and fungi store instead?
+5. Put the levels of biological organisation in order, from smallest to largest.
+
+**Answers:** 1. The requirement for materials from the environment. 2. Enzymes are secreted onto the food, digestion occurs outside the organism, and the soluble products are then absorbed. 3. They have no cytoplasm or organelles and can only reproduce inside a host cell, so they cannot carry out the characteristics of life independently. 4. Plants store starch and sucrose; animals and fungi store glycogen. 5. Organelle, cell, tissue, organ, organ system, organism.
+
+For condensed recall notes on this topic, see the [Nature and Variety of Living Organisms revision notes](/resources/igcse-edexcel-biology-nature-variety-revision-notes/).
