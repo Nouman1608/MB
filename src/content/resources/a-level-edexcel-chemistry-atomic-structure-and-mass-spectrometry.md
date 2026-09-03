@@ -145,6 +145,11 @@ different neutron number.
 - Practise predicting the molecular ion peaks for a diatomic element's
 mass spectrum from its isotopic abundances.
 
+## Related resources
+
+[Atomic Structure and Mass Spectrometry revision notes](/resources/edexcel-a-level-chemistry-atomic-structure-revision-notes/) |
+[Atomic Structure and Mass Spectrometry practice questions](/resources/edexcel-a-level-chemistry-atomic-structure-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in

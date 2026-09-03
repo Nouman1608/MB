@@ -117,6 +117,11 @@ Relative atomic mass calculated from isotopic abundance is not a one-off exam tr
 - Explain why chlorine's mass spectrum shows three molecular ion peaks, not two.
 - Define isotope precisely, using proton and neutron number.
 
+## Related resources
+
+[Atomic Structure and Mass Spectrometry study guide](/resources/a-level-edexcel-chemistry-atomic-structure-and-mass-spectrometry/) |
+[Atomic Structure and Mass Spectrometry practice questions](/resources/edexcel-a-level-chemistry-atomic-structure-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in
