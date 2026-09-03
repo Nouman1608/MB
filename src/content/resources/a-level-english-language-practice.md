@@ -1,21 +1,21 @@
 ---
-title: "A Level English Language: Practice Questions"
+title: "A Level English Language: Paper 3 Language Analysis — Practice Questions"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]
-topic: "Paper 1 – Reading"
+topic: "Paper 3 – Language Analysis"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9093"]
 syllabusSeries: "2024-2026"
 order: 1
-stage: "AS"
+stage: "A"
 syllabusTopics:
   - qualification: "a-level"
-    topic: "paper-1-reading-9093"
-description: "Original exam-style practice questions with full worked answers on language change, child language acquisition, discourse and language analysis."
+    topic: "paper-3-language-analysis-9093"
+description: "Original exam-style practice questions with full worked answers on language change and child language acquisition for Cambridge International AS & A Level English Language (9093), Paper 3 Language Analysis."
 author: "marlbridge-academic-team"
-publishedDate: 2026-08-22
+publishedDate: 2026-09-03
 featured: false
 ---
 > **These are original questions written for Marlbridge**, in the style and at the
@@ -23,7 +23,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [English Language revision notes](/resources/a-level-english-language-revision-notes/)
+Related: [Paper 3 Language Analysis study guide](/resources/a-level-english-language-paper-3-language-analysis/)
 
 ---
 
@@ -64,6 +64,10 @@ Related: [English Language revision notes](/resources/a-level-english-language-r
 It reveals that the child is **not simply imitating adults**, since no adult produces these forms [1]; the child has **worked out an underlying rule from the input and is applying it productively** [1]. This is evidence for **rule-based, creative acquisition rather than pure imitation**, and it explains the U-shaped development in which a correct irregular form is temporarily replaced by an incorrect regular one before being relearned [1].
 
 ---
+
+## Building a personal evidence bank for the exam
+
+Because both sections reward specific, illustrated examples over general statements, it is worth preparing a small revision bank in advance rather than relying on recall under time pressure. For Section A (Language Change), have five or six examples ready, one for each named process: borrowing ("bungalow", "algebra"), compounding ("laptop"), blending ("brunch", "podcast"), affixation ("unfriend", "googleable"), conversion ("to text"), and semantic shift ("nice" for amelioration, "silly" for pejoration). For Section B (Child Language Acquisition), have the six acquisition stages ready with approximate ages and one defining feature each, plus all four theories paired with their standard criticism, so that whichever specific question appears, the raw material is already organised and ready to apply rather than reconstructed from scratch.
 
 ## Where marks are usually lost
 
