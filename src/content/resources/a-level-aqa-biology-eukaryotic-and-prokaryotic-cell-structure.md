@@ -146,6 +146,11 @@ material, capsid, attachment protein.
 - Practise the structure-function-link answer format for at least three
 different organelles.
 
+## Related resources
+
+[Eukaryotic and Prokaryotic Cell Structure revision notes](/resources/aqa-a-level-biology-cell-structure-revision-notes/) |
+[Eukaryotic and Prokaryotic Cell Structure practice questions](/resources/aqa-a-level-biology-cell-structure-practice/)
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, Version 1.5, June
