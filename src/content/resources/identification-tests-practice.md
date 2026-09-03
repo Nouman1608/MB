@@ -56,6 +56,14 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 
 **5.** A white solid dissolves in water. The solution gives a lilac flame, and a white precipitate with acidified barium chloride. Identify the compound and justify. **[3]**
 
+**6.** Describe how you would distinguish between solutions of bromide ions and iodide ions using a single reagent. **[3]**
+
+**7.** Describe how you would use aqueous ammonia to distinguish copper(II) ions from chromium(III) ions, both of which give a similar-looking precipitate with dropwise ammonia. **[3]**
+
+**8.** Describe the test for nitrate ions, including the gas that confirms a positive result. **[3]**
+
+**9.** A colourless gas turns acidified potassium manganate(VII) from purple to colourless. Suggest what the gas is, and explain why a solid giving off this gas would also decolourise the same reagent in solution. **[3]**
+
 ---
 
 ## Answers
@@ -78,6 +86,14 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 
 **5.** **Potassium sulfate, K₂SO₄** [1]. The **lilac flame** indicates potassium [1]; the **white precipitate with acidified barium chloride** indicates sulfate [1].
 
+**6.** Acidify each solution with dilute nitric acid, then add **aqueous silver nitrate** to each [1]. Bromide gives a **cream precipitate** [1]; iodide gives a **yellow precipitate** [1].
+
+**7.** Add aqueous ammonia **dropwise** — both give a similar precipitate at this stage, so this alone cannot distinguish them [1]. Add ammonia **in excess**: the **copper(II) precipitate dissolves to a deep (royal) blue solution**, while the **chromium(III) precipitate remains insoluble** [1] — the colour and solubility of the excess-ammonia stage is what distinguishes the two ions [1].
+
+**8.** Add **aluminium foil** and **aqueous sodium hydroxide**, then **warm** [1]. **Ammonia gas** is released [1], confirmed by turning **damp red litmus paper blue** [1].
+
+**9.** The gas is **sulfur dioxide** [1]. Sulfite ions reacting with acid **produce sulfur dioxide gas**, which is why a sulfite solid or solution gives the same decolourising result — the sulfite test and the sulfur dioxide test are really the same chemistry, observed at two different stages [1] [1].
+
 ---
 
 ## Where marks are usually lost
@@ -86,3 +102,9 @@ Related: [Identification of Ions and Gases revision notes](/resources/identifica
 - Giving the test without the positive observation.
 - Not using **damp** litmus paper for gas tests.
 - Confusing the Fe²⁺ (green) and Fe³⁺ (red-brown) precipitates.
+- Confusing the bromide (cream) and iodide (yellow) precipitates with silver nitrate — the colours are close and worth memorising as a pair.
+- Stopping at the dropwise-ammonia stage when a question specifically asks how to distinguish two similar-looking hydroxide precipitates — the distinguishing observation is almost always in the excess-reagent stage, not the first drops.
+- Forgetting that barium also gives a flame test result (green), distinct from calcium's orange-red — the two are sometimes confused since both are Group 2 metals.
+- Testing the solid itself for a gas, rather than testing the gas that solid releases on reaction — a nitrate or sulfite test always involves a reaction step first.
+
+For condensed recall notes on this topic, see the [Identification of Ions and Gases revision notes](/resources/identification-tests-revision-notes/); for the full explanation with the complete cation and anion tables, see the [Identification of Ions and Gases study guide](/resources/identification-of-ions-and-gases/).

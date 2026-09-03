@@ -49,6 +49,39 @@ knowledge of plot, character and dramatic technique
 - 1.2 Section B: Poetry — answering on a set poetry text or selection,
 testing close reading of poetic language, form and structure
 
+## Paper format
+
+Paper 1 is a **written paper lasting two hours and worth 50 marks**,
+split evenly between its two sections: Section A (Drama) and Section B
+(Poetry) are each worth 25 marks. Candidates answer **two questions in
+total** — one from each section — and for every set text there is a
+choice between an **(a) question**, a discursive essay on the text as
+a whole with no extract printed, and a **(b) question**, anchored to a
+specific passage or poem printed on the question paper that requires
+close, line-level commentary connecting outward to the whole text.
+Neither option is inherently easier: (a) rewards breadth and
+structural control across a whole text, while (b) rewards precision on
+the printed material, so candidates are best served by choosing
+whichever plays to their strengths on the day rather than by habit.
+Set texts and dictionaries are **not allowed** in the exam room, and
+Paper 1 forms half of the standalone AS Level award, alongside Paper 2
+(Prose and Unseen).
+
+## Assessment objectives
+
+All four assessment objectives are tested on **every** question on
+this paper, each weighted equally at 25%: **AO1** (knowledge and
+understanding, including relevant context), **AO2** (analysis of how a
+writer's choices of language, form and structure shape meaning and
+effect), **AO3** (an informed, independent personal response), and
+**AO4** (a relevant, structured, well-supported response). **AO5**
+(evaluation of opinion) is deliberately **not** assessed on Paper 1 —
+it appears only on Papers 3 and 4, alongside the fuller A Level award.
+Because AO2 and AO3 both require going beyond description, an answer
+that only paraphrases a poem's content or summarises a play's plot,
+however accurately, will not access the marks available for analysis
+or independent interpretation.
+
 ## How to approach it
 
 Because both sections sit within a single paper, time management
@@ -68,6 +101,22 @@ more than generic essay technique on its own — an essay with a
 confident structure but thin, generic textual support scores
 noticeably lower than one with a simpler structure but precise,
 well-chosen evidence from the text itself.
+
+## Section-by-section revision focus
+
+For Drama, strong answers treat the text as something staged rather
+than only read — stage directions, dramatic irony, pacing, and how a
+scene would land with a live audience all give an answer texture that
+plot summary and character description alone cannot. Character is best
+discussed through action and dialogue rather than through a list of
+traits, and a strong response traces how a dramatist builds and
+releases tension across a scene or act, rather than treating tension
+as a static feature of the whole play. For Poetry, the equivalent
+discipline is line-level attention: word choice, imagery, sound,
+rhythm and metre, and form and structure all reward close reading, and
+naming a technique such as enjambment or caesura earns little on its
+own — the mark is in explaining the **effect** that technique has on
+meaning or tone at that specific point in the poem.
 
 ## Official syllabus
 
