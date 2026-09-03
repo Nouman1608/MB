@@ -1952,14 +1952,18 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official A-level Business (7132) specification, subject content pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/business/a-level/business-7132/specification/subject-content', verifiedDate: '2026-08-19',
-    notes: 'AQA A-level Business (7132), for first teaching from September 2023; current for cohorts taking exams through summer 2027. AQA has accredited a replacement specification (7138) for first teaching from September 2026, which will run alongside 7132 during the transition. Topic 1 (What is business?) subtopics reproduce the specification PDF\'s own 3.1.1-3.1.3 sub-headings, fetched and verified 2026-08-21; topics 2-10 remain name-only pending the same fetch for their content.',
+    notes: 'AQA A-level Business (7132), for first teaching from September 2023; current for cohorts taking exams through summer 2027. AQA has accredited a replacement specification (7138) for first teaching from September 2026, which will run alongside 7132 during the transition. Topic 1 (What is business?) subtopics reproduce the specification PDF\'s own 3.1.1-3.1.3 sub-headings, fetched and verified 2026-08-21. Topic 2 (Managers, leadership and decision making) subtopics reproduce the live specification page\'s own 3.2.1-3.2.3 sub-headings, fetched and verified 2026-09-03. Topics 3-10 remain name-only pending the same fetch for their content.',
     topics: [
       { number: 1, name: 'What is business?', slug: 'what-is-business-aqa-alevel-business', subtopics: [
         { number: '3.1.1', name: 'Understanding the nature and purpose of business', slug: 'nature-and-purpose-of-business-aqa-alevel-business' },
         { number: '3.1.2', name: 'Understanding different business forms', slug: 'different-business-forms-aqa-alevel-business' },
         { number: '3.1.3', name: 'Understanding that businesses operate within an external environment', slug: 'external-environment-aqa-alevel-business' },
       ] },
-      { number: 2, name: 'Managers, leadership and decision making', slug: 'managers-leadership-and-decision-making-aqa-alevel-business', subtopics: [] },
+      { number: 2, name: 'Managers, leadership and decision making', slug: 'managers-leadership-and-decision-making-aqa-alevel-business', subtopics: [
+        { number: '3.2.1', name: 'Understanding management, leadership and decision making', slug: 'understanding-management-leadership-and-decision-making-aqa-alevel-business' },
+        { number: '3.2.2', name: 'Understanding management decision making', slug: 'understanding-management-decision-making-aqa-alevel-business' },
+        { number: '3.2.3', name: 'Understanding the role and importance of stakeholders', slug: 'role-and-importance-of-stakeholders-aqa-alevel-business' },
+      ] },
       { number: 3, name: 'Marketing management', slug: 'marketing-management-aqa-alevel-business', subtopics: [] },
       { number: 4, name: 'Operational management', slug: 'operational-management-aqa-alevel-business', subtopics: [] },
       { number: 5, name: 'Financial management', slug: 'financial-management-aqa-alevel-business', subtopics: [] },
@@ -1978,9 +1982,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA -- official AS Business (7131) specification, specification-at-a-glance page',
     sourceUrl: 'https://www.aqa.org.uk/subjects/business/as-level/business-7131/specification/specification-at-a-glance', verifiedDate: '2026-08-19',
-    notes: 'AQA AS Business (7131), for first teaching from September 2023; current for cohorts taking exams through summer 2026. AQA runs AS as a separate stand-alone qualification sharing a combined specification document with A-level Business (7132) -- the AS content is the first six of the ten A-level sections. AQA has accredited a replacement specification (7137/7138) for first teaching from September 2026.',
+    notes: 'AQA AS Business (7131), for first teaching from September 2023; current for cohorts taking exams through summer 2026. AQA runs AS as a separate stand-alone qualification sharing a combined specification document with A-level Business (7132) -- the AS content is the first six of the ten A-level sections. AQA has accredited a replacement specification (7137/7138) for first teaching from September 2026. Topic 1 (What is business?) subtopics reproduce the same 3.1.1-3.1.3 content as the A-level (7132) entry above, since AS and A-level share this section of the specification verbatim; fetched and verified 2026-09-03.',
     topics: [
-      { number: 1, name: 'What is business?', slug: 'what-is-business-aqa-aslevel-business', subtopics: [] },
+      { number: 1, name: 'What is business?', slug: 'what-is-business-aqa-aslevel-business', subtopics: [
+        { number: '3.1.1', name: 'Understanding the nature and purpose of business', slug: 'nature-and-purpose-of-business-aqa-aslevel-business' },
+        { number: '3.1.2', name: 'Understanding different business forms', slug: 'different-business-forms-aqa-aslevel-business' },
+        { number: '3.1.3', name: 'Understanding that businesses operate within an external environment', slug: 'external-environment-aqa-aslevel-business' },
+      ] },
       { number: 2, name: 'Managers, leadership and decision making', slug: 'managers-leadership-and-decision-making-aqa-aslevel-business', subtopics: [] },
       { number: 3, name: 'Decision making to improve marketing performance', slug: 'decision-making-to-improve-marketing-performance-aqa-aslevel-business', subtopics: [] },
       { number: 4, name: 'Decision making to improve operational performance', slug: 'decision-making-to-improve-operational-performance-aqa-aslevel-business', subtopics: [] },
