@@ -32,9 +32,9 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 
 ## Section A
 
-**1.** Define exothermic and endothermic, stating the sign of ΔH in each case. **[4]**
+**1.** Define exothermic and endothermic, stating the sign of ΔH and the direction of energy transfer in each case. **[4]**
 
-**2.** Give **two** examples of an exothermic and **two** of an endothermic process. **[4]**
+**2.** Give **two** everyday or laboratory examples of an exothermic process, and **two** of an endothermic process. **[4]**
 
 ## Section B
 
@@ -52,6 +52,17 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 
 **(a)** Calculate the energy released in joules. **[2]**
 **(b)** Give **two** reasons why the experimental value is lower in magnitude than the accepted value. **[2]**
+
+**7.** A catalyst is added to a slow reaction.
+
+**(a)** Explain, with reference to activation energy, how the catalyst increases the rate of reaction. **[2]**
+**(b)** State what happens to ΔH when a catalyst is used, explaining why. **[2]**
+**(c)** Describe how the catalysed pathway would be drawn on the same energy profile axes as the uncatalysed pathway. **[2]**
+
+**8.** 100 cm³ of dilute acid (density 1.00 g cm⁻³) is neutralised by alkali, and the temperature rises by 5.5 °C. Take c = 4.18 J g⁻¹ °C⁻¹.
+
+**(a)** Calculate the energy released, in joules. **[2]**
+**(b)** Give **one** reason for the difference between this experimental value and the accepted data-book value, other than heat loss to the surroundings. **[1]**
 
 ---
 
@@ -72,6 +83,13 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 **6. (a)** Mass = 50.0 g; Q = mcΔT = 50.0 × 4.18 × 6.8 [1] = **1421 J** (1.42 kJ) [1].
 **(b)** **Heat is lost to the surroundings, the thermometer and the container** [1]; the specific heat capacity of the solution is **assumed to be that of water**, and the polystyrene cup absorbs some heat [1].
 
+**7. (a)** The catalyst provides an **alternative reaction pathway with a lower activation energy** [1], so a greater proportion of colliding particles have enough energy to react, increasing the frequency of successful collisions [1].
+**(b)** ΔH is **unchanged** [1], because the catalyst only affects the pathway between reactants and products, not their **relative energy levels**, which is what ΔH actually measures [1].
+**(c)** A **second, lower curve** drawn between the *same two* starting and ending energy levels as the uncatalysed pathway [1], with a **smaller hump** representing the reduced activation energy [1].
+
+**8. (a)** Mass = 100 g; Q = mcΔT = 100 × 4.18 × 5.5 [1] = **2299 J** (2.30 kJ) [1].
+**(b)** The specific heat capacity used (4.18 J g⁻¹ °C⁻¹) is that of **pure water**, not the actual dilute acid/salt solution, which differs slightly [1].
+
 ---
 
 ## Where marks are usually lost
@@ -80,3 +98,7 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 - Reversing "bonds broken − bonds made".
 - Measuring activation energy from the products instead of the reactants.
 - Using the mass of the solute rather than the total solution mass in Q = mcΔT.
+- Saying a catalyst changes ΔH, or drawing the catalysed curve starting/ending at different energy levels from the uncatalysed one — only the height of the hump should change.
+- Explaining "increases the rate" without linking it back to activation energy and the proportion of particles with enough energy to react.
+
+Questions 7 and 8 draw on the catalyst section of the [Exothermic and Endothermic Reactions revision notes](/resources/energetics-revision-notes/), material the earlier questions on this page don't reach, since they focus on bond-energy calculations and calorimetry instead.

@@ -33,9 +33,9 @@ Related: [Hess's Law and Enthalpy Cycles revision notes](/resources/as-chemistry
 
 ## Section A
 
-**1.** Define standard enthalpy of combustion. **[2]**
+**1.** Define standard enthalpy of combustion, including the standard conditions it is measured under. **[2]**
 
-**2.** State Hess's law. **[1]**
+**2.** State Hess's law, and explain what it allows chemists to do that direct measurement often cannot. **[2]**
 
 **3.** Explain why bond enthalpy calculations give only approximate values. **[2]**
 
@@ -66,13 +66,27 @@ delta-Hf: CH4 = -75 kJ mol-1,  CO2 = -394 kJ mol-1,  H2O(l) = -286 kJ mol-1
 
 **(d)** Suggest **two** specific improvements to the experiment, with reasons. **[2]**
 
+**6.** Define standard enthalpy of neutralisation. **[2]**
+
+**7.** Calculate the standard enthalpy of formation of methanol, CH₃OH(l), from the standard enthalpies of combustion below.
+
+```
+C(graphite) + 2H2(g) + 1/2 O2(g) -> CH3OH(l)
+
+delta-Hc: C(graphite) = -394 kJ mol-1, H2(g) = -286 kJ mol-1, CH3OH(l) = -726 kJ mol-1
+```
+
+**(a)** State which Hess cycle expression applies here, and explain why. **[2]**
+
+**(b)** Calculate ΔH_f for methanol. **[3]**
+
 ---
 
 ## Answers
 
-**1.** The enthalpy change when **one mole** of a substance [1] is **completely burned in oxygen** under standard conditions [1].
+**1.** The enthalpy change when **one mole** of a substance [1] is **completely burned in oxygen** under standard conditions [1], namely 298 K and 100 kPa, with all substances in their standard states.
 
-**2.** The total enthalpy change is **independent of the route taken**, provided the initial and final conditions are the same [1].
+**2.** The total enthalpy change is **independent of the route taken**, provided the initial and final conditions are the same [1]. This lets chemists calculate an enthalpy change that **cannot be measured directly** (e.g. formation of methane) by building a Hess cycle from other, measurable enthalpy changes instead [1].
 
 **3.** Bond enthalpies are **mean values averaged over many different compounds** [1], and they apply only to species in the **gaseous** state [1].
 
@@ -94,6 +108,11 @@ Any three: **heat lost to the surroundings** [1]; **incomplete combustion** prod
 
 **(d)** Any two with reasons: use a **draught shield** to reduce heat loss to the surroundings [1]; use a **lid on the beaker** to reduce heat loss by evaporation; **reduce the distance** between flame and container; use a **copper calorimeter** rather than glass because it conducts heat to the water more efficiently [1].
 
+**6.** The enthalpy change when an **acid and alkali react** [1] to form **one mole of water**, under standard conditions [1].
+
+**7. (a)** Combustion data: **ΔH_r = ΣΔH_c(reactants) − ΣΔH_c(products)** [1], because combustion enthalpies are given for the elements/starting materials rather than formation enthalpies for a product, so the cycle's arrows point downward from reactants and products alike to the same combustion products [1].
+**(b)** ΔH_f = [(−394) + 2(−286)] − (−726) [1] = (−966) − (−726) [1] = **−240 kJ mol⁻¹** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -103,3 +122,8 @@ Any three: **heat lost to the surroundings** [1]; **incomplete combustion** prod
 - Subtracting the wrong way round for the type of data given.
 - Not converting J to kJ.
 - Giving vague improvements such as "be more careful" instead of specific ones with reasons.
+- Using the formation-data expression (products − reactants) on a question that gives combustion data instead — the two cycles subtract in opposite directions, and mixing them up flips the sign of the final answer.
+- Forgetting O₂ contributes nothing to either side of a combustion-data cycle, since it isn't itself a fuel with a combustion enthalpy — it's the products (CO₂ and H₂O) that carry the combustion values.
+- Omitting "one mole of water" from the neutralisation definition, or giving the definition of enthalpy of formation instead by mistake.
+
+Questions 6 and 7 draw on the standard enthalpy of neutralisation definition and the combustion-data Hess cycle from the [Hess's Law and Enthalpy Cycles revision notes](/resources/as-chemistry-hess-law-revision-notes/) — the formation-data direction used in question 4 is the opposite cycle, so question 7 exercises the direction question 4 doesn't reach.

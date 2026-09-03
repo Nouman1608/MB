@@ -55,6 +55,18 @@ Related: [Motion, Forces and Energy revision notes](/resources/igcse-physics-mot
 
 **9.** Explain, in terms of forces, why a skydiver falling through the air eventually reaches terminal velocity. **[3]**
 
+**10.** A ball of mass 0.50 kg falls from rest through a height of 5.0 m, with air resistance negligible. (g = 9.8 N/kg)
+
+**(a)** Calculate the loss in gravitational potential energy as it falls. **[2]**
+
+**(b)** Using conservation of energy, calculate the speed of the ball just before it hits the ground. **[3]**
+
+**11.** A uniform beam is pivoted at its centre. A force of 20 N acts downward at a distance of 0.6 m from the pivot on one side.
+
+**(a)** Calculate the moment of this force about the pivot. **[2]**
+
+**(b)** A second force acts on the other side of the pivot, at a distance of 0.3 m from the pivot, holding the beam in equilibrium. Calculate the size of this second force. **[2]**
+
 ---
 
 ## Answers
@@ -79,3 +91,20 @@ Related: [Motion, Forces and Energy revision notes](/resources/igcse-physics-mot
 **8.** p = F/A = 120 / 0.4 = **300 Pa (N/m²)** [2].
 
 **9.** As the skydiver falls, their speed increases, so air resistance (which increases with speed) increases [1]. Eventually air resistance becomes equal in size to weight, so the resultant force on the skydiver becomes zero [1]. With no resultant force, the skydiver stops accelerating and falls at a constant (terminal) velocity [1].
+
+**10. (a)** GPE lost = mgh = 0.50 × 9.8 × 5.0 [1] = **24.5 J** [1].
+**(b)** By conservation of energy, all the GPE lost converts to KE: ½mv² = 24.5 [1]. v² = (2 × 24.5) ÷ 0.50 = 98 [1]. v = √98 = **9.9 m/s** [1].
+
+**11. (a)** moment = force × perpendicular distance = 20 × 0.6 [1] = **12 N m** [1].
+**(b)** At equilibrium, clockwise moment = anticlockwise moment [1]: F × 0.3 = 12, so F = 12 ÷ 0.3 = **40 N** [1].
+
+---
+
+## Where marks are usually lost
+
+- Forgetting that GPE lost equals KE gained only when air resistance is negligible — stating this assumption explicitly is often worth its own mark.
+- Taking a square root too early, or forgetting to square v correctly when rearranging ½mv² = GPE for v.
+- Confusing "moment" (force × perpendicular distance, in N m) with "force" alone, or forgetting the perpendicular distance must be measured at right angles to the line of action of the force, not simply the distance along the beam.
+- Setting clockwise and anticlockwise moments equal without first checking the beam is actually in equilibrium — the principle of moments only applies once that's established.
+
+Questions 10 and 11 draw on the energy and moments sections of the [Motion, Forces and Energy revision notes](/resources/igcse-physics-motion-forces-and-energy-revision-notes/) — kinetic and gravitational potential energy, and the principle of moments, neither previously tested by the questions above.

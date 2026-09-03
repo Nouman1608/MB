@@ -50,7 +50,7 @@ Related: [Formulae, Equations and the Mole revision notes](/resources/formulae-e
 **(b)** `___ C₃H₈ + ___ O₂ → ___ CO₂ + ___ H₂O` **[1]**
 **(c)** `___ Fe + ___ HCl → ___ FeCl₂ + ___ H₂` **[1]**
 
-**2.** Explain, in terms of atoms, why mass is conserved in a chemical reaction. **[2]**
+**2.** Explain, in terms of atoms, why mass is conserved in a closed chemical reaction. **[2]**
 
 **3.** A metal carbonate is heated in an **open** crucible and the mass decreases.
 
@@ -70,6 +70,14 @@ Related: [Formulae, Equations and the Mole revision notes](/resources/formulae-e
 **(b)** Give three reasons why the yield is below 100%. **[3]**
 
 **6.** Calculate the concentration in mol dm⁻³ of a solution containing 4.00 g of NaOH in 250 cm³. (M_r = 40.0) **[3]**
+
+**7.** Using the ions Al³⁺ and SO₄²⁻, deduce the formula of aluminium sulfate, explaining your method step by step. **[3]**
+
+**8.** A sample of impure zinc carbonate has a total mass of 12.0 g. Analysis shows it contains 10.2 g of pure zinc carbonate, the rest being insoluble rock impurities.
+
+**(a)** Calculate the percentage purity of the sample. **[2]**
+
+**(b)** Explain why percentage purity and percentage yield are different calculations, even though both are expressed as a percentage and both compare a real quantity against a maximum. **[2]**
 
 ---
 
@@ -96,6 +104,11 @@ m = 0.200 × 24.0 [1] = **4.80 g** [1].
 V = 250 ÷ 1000 = 0.250 dm³ [1]
 c = 0.100 ÷ 0.250 = **0.400 mol dm⁻³** [1].
 
+**7.** **Swap the charges** of the two ions to become the subscripts of the other: Al³⁺ (charge 3) becomes the subscript on SO₄²⁻, and SO₄²⁻ (charge 2) becomes the subscript on Al³⁺, giving subscripts 2 and 3 respectively [1]. Since more than one SO₄²⁻ polyatomic ion is needed, it is enclosed in **brackets** [1]: **Al₂(SO₄)₃** [1].
+
+**8. (a)** (10.2 ÷ 12.0) × 100 [1] = **85.0%** [1]. The remaining 1.8 g is insoluble rock impurity that never reacted.
+**(b)** **Percentage purity** compares the mass of the pure substance actually present against the total mass of the sample, including impurities that were never meant to be there [1]; **percentage yield** compares the actual mass of product obtained in a reaction against the maximum mass the balanced equation predicts, assuming the reaction went to completion with no losses — a different comparison, since yield concerns how much of a reaction happened, not how clean the product is [1].
+
 ---
 
 ## Where marks are usually lost
@@ -105,3 +118,8 @@ c = 0.100 ÷ 0.250 = **0.400 mol dm⁻³** [1].
 - Working from mass ratios rather than converting to moles.
 - Forgetting to convert cm³ to dm³ for concentration.
 - Adding proton (atomic) numbers instead of mass numbers when working out an Ar or Mr — mass number is the one relevant to relative mass; proton number only identifies the element.
+- Forgetting brackets around a polyatomic ion when more than one is needed in a formula — Al₂SO₄₃ is meaningless and unreadable; it must be written Al₂(SO₄)₃.
+- Swapping the charges onto the wrong ion, or forgetting to simplify the resulting subscripts to their lowest whole-number ratio where they share a common factor.
+- Treating percentage purity and percentage yield as interchangeable — one is about how clean a sample is, the other about how much of a reaction actually happened.
+
+Questions 7 and 8 draw on the common-ions table and percentage purity formula in the [Formulae, Equations and the Mole revision notes](/resources/formulae-equations-and-the-mole-revision-notes/), material the earlier balancing and mole-calculation questions on this page don't reach.

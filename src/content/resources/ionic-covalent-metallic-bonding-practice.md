@@ -69,6 +69,14 @@ Related: [Bonding revision notes](/resources/ionic-covalent-metallic-bonding-rev
 
 **7.** Explain why metals conduct electricity and are malleable. **[4]**
 
+**8.** Silicon(IV) oxide, SiO₂, is a giant covalent structure, unlike the simple molecular carbon dioxide compared in question 6.
+
+**(a)** State one structural similarity between SiO₂ and diamond that explains why the two substances have similar physical properties. **[2]**
+
+**(b)** Predict, giving a reason, whether SiO₂ conducts electricity. **[2]**
+
+**9.** Explain why metals are **ductile** (can be drawn into wires) as well as malleable (can be hammered into sheets), in terms of the same structural feature. **[2]**
+
 ---
 
 ## Answers
@@ -92,6 +100,11 @@ Related: [Bonding revision notes](/resources/ionic-covalent-metallic-bonding-rev
 
 **7.** They contain **delocalised electrons** that are **free to move** through the structure and carry charge [1] [1]. The **layers of positive ions can slide over one another** without breaking the metallic bonding [1], because the delocalised electrons continue to hold the structure together [1].
 
+**8. (a)** Like diamond, **every atom is joined to its neighbours by strong covalent bonds throughout a rigid three-dimensional lattice**, with no weak points to overcome separately [1]; this is why both have **very high melting points and great hardness** [1].
+**(b)** SiO₂ does **not** conduct electricity [1], because, unlike graphite, **all of the outer electrons of each atom are used in forming covalent bonds**, leaving none delocalised and free to carry charge [1].
+
+**9.** Ductility, like malleability, comes from the fact that the **layers of positive ions can slide past one another** into a new position [1], while the **delocalised "sea" of electrons continues to hold the structure together** regardless of shape — so the metal can be drawn into a wire (ductile) or hammered into a sheet (malleable) without shattering [1].
+
 ---
 
 ## Where marks are usually lost
@@ -100,3 +113,8 @@ Related: [Bonding revision notes](/resources/ionic-covalent-metallic-bonding-rev
 - Saying covalent bonds break when a simple molecular substance boils.
 - Explaining MgO's melting point by charge alone, ignoring ionic radius.
 - Saying metals are malleable "because they are soft".
+- Assuming every giant covalent structure conducts electricity like graphite — diamond and SiO₂ do not, because none of their outer electrons are left delocalised.
+- Confusing SiO₂'s structural similarity to diamond (a fully-bonded 3D covalent lattice) with a compositional one — they share a structure type, not a formula or the same elements.
+- Forgetting that "high melting point" alone doesn't distinguish giant covalent from ionic — the reasoning must specifically reference **covalent bonds** being broken throughout the structure, not electrostatic attraction between ions.
+
+Questions 8 and 9 draw on the giant covalent structures and metallic bonding sections of the [Ionic, Covalent and Metallic Bonding study guide](/resources/ionic-covalent-and-metallic-bonding/) — question 8 extends the diamond/graphite comparison in question 5 to a third giant covalent substance, and question 9 completes question 7's account of malleability with the closely related property of ductility, neither previously tested on this page.

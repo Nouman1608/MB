@@ -73,6 +73,18 @@ Related: [Stoichiometry revision notes](/resources/as-chem-stoichiometry-revisio
 
 **(b)** Calculate the maximum mass of carbon dioxide that can form. **[3]**
 
+**7.** A sample of gas occupies 250 cm³ at a pressure of 150 kPa and a temperature of 25 °C. (R = 8.31 J K⁻¹ mol⁻¹)
+
+**(a)** Convert each quantity into the units required by the ideal gas equation. **[3]**
+
+**(b)** Calculate the amount, in moles, of gas present. **[2]**
+
+**8.** Ethanol can be made by fermenting glucose: `C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂` (M_r: glucose = 180, ethanol = 46.0, CO₂ = 44.0)
+
+**(a)** Calculate the atom economy of this reaction with respect to ethanol. **[3]**
+
+**(b)** 45.0 g of glucose is fermented and 18.4 g of ethanol is obtained. Calculate the percentage yield. **[4]**
+
 ---
 
 ## Answers
@@ -104,6 +116,12 @@ Divide by coefficients: CH₄ 0.200 ÷ 1 = 0.200; O₂ 0.500 ÷ 2 = 0.250. **Met
 **(b)** n(CO₂) = n(CH₄) = 0.200 mol [1]; M_r(CO₂) = 44.0 [1]
 m = 0.200 × 44.0 = **8.80 g** [1].
 
+**7. (a)** V = 250 ÷ 10⁶ = **2.50 × 10⁻⁴ m³** [1]; p = 150 × 1000 = **150,000 Pa** [1]; T = 25 + 273 = **298 K** [1].
+**(b)** n = pV ÷ RT = (150,000 × 2.50 × 10⁻⁴) ÷ (8.31 × 298) [1] = 37.5 ÷ 2476 = **0.0151 mol** [1].
+
+**8. (a)** M_r of all products = (2 × 46.0) + (2 × 44.0) = 92.0 + 88.0 = 180 [1]. Atom economy = (92.0 ÷ 180) × 100 [1] = **51.1%** [1].
+**(b)** n(glucose) = 45.0 ÷ 180 = 0.250 mol [1]; theoretical n(ethanol) = 2 × 0.250 = 0.500 mol, so theoretical mass = 0.500 × 46.0 = 23.0 g [1]. Percentage yield = (18.4 ÷ 23.0) × 100 [1] = **80.0%** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -112,3 +130,8 @@ m = 0.200 × 44.0 = **8.80 g** [1].
 - Working from mass ratios rather than converting to moles first.
 - Failing to divide by the stoichiometric coefficient when identifying the limiting reagent.
 - Forgetting that gas volume at RTP uses 24 dm³ mol⁻¹.
+- Using pV = nRT with pressure still in kPa or volume still in cm³ — both must be converted to Pa and m³ before substituting, or the answer is out by a factor of a thousand or a million.
+- Comparing atom economy and percentage yield as if they measure the same thing — a reaction can have a poor atom economy (lots of by-product) yet still achieve a high percentage yield of the desired product from what the equation predicts, and vice versa.
+- Forgetting to double the ethanol moles when the balanced equation gives **two** moles of product per mole of glucose — a very common one-mark slip in yield calculations with a coefficient other than 1.
+
+Questions 7 and 8 draw on the ideal gas equation and percentage yield/atom economy sections of the [Stoichiometry revision notes](/resources/as-chem-stoichiometry-revision-notes/), material the earlier questions on this page don't reach.
