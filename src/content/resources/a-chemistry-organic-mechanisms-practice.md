@@ -66,6 +66,21 @@ Related: [Organic Mechanisms revision notes](/resources/a-chemistry-organic-mech
 
 **(e)** State what would happen if the temperature rose to 80 °C. **[1]**
 
+**6.** Propene reacts with hydrogen bromide.
+
+**(a)** Name the mechanism, and state which carbon the bromine ends up bonded to (the major product). **[2]**
+**(b)** Explain this outcome in terms of carbocation stability, not by stating Markovnikov's rule as a fact about hydrogen. **[3]**
+
+**7.** Methane reacts with chlorine in the presence of ultraviolet light.
+
+**(a)** Name the mechanism. **[1]**
+**(b)** Write the initiation step, and explain why UV light is needed for it specifically. **[2]**
+
+**8.** Benzene reacts with CH₃COCl in the presence of an AlCl₃ catalyst.
+
+**(a)** Name this reaction and state the electrophile generated. **[2]**
+**(b)** Explain why AlCl₃ is described as a catalyst in this reaction, given that it appears to be consumed generating the electrophile. **[2]**
+
 ---
 
 ## Answers
@@ -95,6 +110,15 @@ Related: [Organic Mechanisms revision notes](/resources/a-chemistry-organic-mech
 
 **(e)** **Dinitration** would occur, giving dinitrobenzene [1].
 
+**6. (a)** **Electrophilic addition** [1]; the major product is **2-bromopropane**, with bromine bonded to the **middle (secondary) carbon** [1].
+**(b)** The electrophile (H⁺, generated as HBr polarises) can add to either carbon of the double bond, giving either a secondary or a primary carbocation intermediate [1]. The **secondary carbocation is more stable**, since it is stabilised by two electron-donating alkyl groups compared with the primary carbocation's one [1], so it forms preferentially and leads to the major product [1].
+
+**7. (a)** **Free radical substitution** [1].
+**(b)** Cl₂ → 2Cl• [1]. UV light provides enough energy to **break the weak Cl–Cl bond homolytically**, generating two chlorine radicals; this bond is weak enough to be broken by UV photons specifically, unlike the stronger C–H and C–Cl bonds involved in later steps [1].
+
+**8. (a)** **Friedel-Crafts acylation** [1]; electrophile is **CH₃CO⁺** (the acylium ion) [1].
+**(b)** AlCl₃ **generates the electrophile** by accepting a lone pair from the chlorine of CH₃COCl [1], but it is **regenerated at the end of the mechanism** when the AlCl₄⁻ formed loses Cl⁻ back to reform AlCl₃ as H⁺ is lost from the ring — so it is not consumed overall, which is what makes it a catalyst rather than a reagent [1].
+
 ---
 
 ## Where marks are usually lost
@@ -104,3 +128,5 @@ Related: [Organic Mechanisms revision notes](/resources/a-chemistry-organic-mech
 - Omitting the loss of H⁺ that regenerates aromaticity.
 - Drawing benzene with alternating double bonds in a mechanism.
 - Saying Sₙ1 is faster "because it is tertiary" without mentioning carbocation stability.
+- Stating Markovnikov's rule as if it were a fact about hydrogen rather than explaining it through the relative stability of the possible carbocation intermediates.
+- Forgetting that a Friedel-Crafts catalyst such as AlCl₃ is regenerated at the end of the mechanism, and so is not consumed overall despite appearing to react when the electrophile is generated.

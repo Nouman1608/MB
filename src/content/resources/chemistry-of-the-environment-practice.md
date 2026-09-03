@@ -68,6 +68,21 @@ Related: [Chemistry of the Environment revision notes](/resources/chemistry-of-t
 **(a)** Explain why nitrogen is needed by plants. **[1]**
 **(b)** Explain how excess fertiliser causes eutrophication. **[4]**
 
+**8.** Two chemical tests can confirm that a colourless liquid contains water.
+
+**(a)** Name the two tests and state the colour change each gives. **[2]**
+**(b)** These tests only confirm the presence of water, not its purity. Describe how you would test whether a water sample is pure. **[2]**
+
+**9.** The same hydrocarbon fuel can produce very different pollutants depending on how it burns.
+
+**(a)** Write a word equation for its complete combustion, and state the pollutant risk. **[2]**
+**(b)** State the two pollutants produced instead when the fuel burns incompletely, and explain why incomplete combustion happens. **[2]**
+
+**10.** State one named method used to reduce each of the following, and explain briefly how it works:
+
+**(a)** climate change **[2]**
+**(b)** acid rain **[2]**
+
 ---
 
 ## Answers
@@ -92,6 +107,15 @@ Two gases with sources: **carbon dioxide** from burning fossil fuels [1]; **meth
 
 **(b)** Excess fertiliser is **washed into rivers and lakes** [1], causing rapid **algal growth**, which blocks light [1]. Plants below die and are **decomposed by bacteria**, which multiply and **use up the dissolved oxygen** [1], so fish and other aquatic organisms die [1].
 
+**8. (a)** Anhydrous **copper(II) sulfate** turns from **white to blue** [1]; anhydrous **cobalt(II) chloride** turns from **blue to pink** [1].
+**(b)** Compare the sample's **melting and boiling point** with the known values for pure water (0 °C and 100 °C) [1]; dissolved substances **lower the melting point and raise the boiling point**, so a sample melting or boiling at the "wrong" temperature is impure [1].
+
+**9. (a)** fuel + oxygen → carbon dioxide + water [1]; complete combustion's CO₂ contributes to **global warming/climate change** [1].
+**(b)** **Carbon monoxide and particulates (soot)** [1], produced because there is **insufficient oxygen** for the fuel to burn completely [1].
+
+**10. (a)** e.g. **increasing use of renewable/hydrogen energy** [1], which reduces the amount of CO₂ released from burning fossil fuels, the main driver of the enhanced greenhouse effect [1]. (Also accept: planting trees, reducing livestock farming, reducing fossil fuel use.)
+**(b)** e.g. **fitting catalytic converters to vehicles** [1], which convert nitrogen oxides and carbon monoxide into less harmful gases before they reach the atmosphere [1]. (Also accept: using low-sulfur fuels; flue gas desulfurisation with calcium oxide.)
+
 ---
 
 ## Where marks are usually lost
@@ -101,3 +125,5 @@ Two gases with sources: **carbon dioxide** from burning fossil fuels [1]; **meth
 - Describing the greenhouse effect without mentioning the change in wavelength.
 - Giving an incomplete eutrophication sequence — all four steps are needed.
 - The water-treatment stages and chlorine's specific role are a genuinely weak recall area — vague answers like "it is purified" or "chlorine cleans it" don't get credit; name each stage in order and state exactly what chlorine does (kills bacteria/disease-causing microorganisms).
+- Confusing the two water tests (which only detect the presence of water) with a purity test (which requires comparing melting/boiling point against the known values for pure water).
+- Assuming the same fuel always produces the same pollutants — complete combustion gives CO₂, incomplete combustion (insufficient oxygen) gives carbon monoxide and particulates instead.

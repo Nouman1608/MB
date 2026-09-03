@@ -62,6 +62,17 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 **(c)** State and explain the effect of increasing the temperature. **[2]**
 **(d)** State the effect of adding a catalyst on the yield. **[1]**
 
+**6.** Hydrated copper(II) sulfate, CuSO₄·5H₂O, is blue; anhydrous copper(II) sulfate, CuSO₄, is white.
+
+**(a)** Write the equation for the reversible reaction between them, including state symbols and colours. **[2]**
+**(b)** Explain why this reaction is described as reversible, and state how you would reverse it once it has gone one way. **[2]**
+
+**7.** The Haber process is represented by `N₂(g) + 3H₂(g) ⇌ 2NH₃(g)`, typically run at 450 °C, 200 atm, with an iron catalyst.
+
+**(a)** State the source of the nitrogen and of the hydrogen used. **[2]**
+**(b)** Explain why a pressure of 200 atm is used rather than a much higher pressure, given that higher pressure would increase the yield. **[2]**
+**(c)** Explain why the iron catalyst is used, given that it has no effect on the position of equilibrium. **[2]**
+
 ---
 
 ## Answers
@@ -83,6 +94,13 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 **(c)** Yield **decreases** [1] — the forward reaction is exothermic, so raising the temperature favours the **endothermic reverse** direction [1].
 **(d)** **No effect** on the yield [1].
 
+**6. (a)** CuSO₄·5H₂O(s) ⇌ CuSO₄(s) + 5H₂O(l) [1]; **blue** hydrated salt ⇌ **white** anhydrous salt [1].
+**(b)** It is reversible because heating the blue hydrated salt drives off the water of crystallisation, leaving the white anhydrous salt [1], and adding water to the white anhydrous salt reverses this, turning it back to blue [1].
+
+**7. (a)** Nitrogen is obtained from the air; hydrogen from methane (natural gas) [1] [1].
+**(b)** Very high pressures are expensive to generate and maintain, and present safety risks, so 200 atm is a compromise between yield and cost/safety, not the highest pressure achievable [1] [1].
+**(c)** The catalyst speeds up both the forward and reverse reactions equally, so it lets equilibrium be reached quickly at a moderate temperature [1], without needing the higher temperature that would otherwise shift the equilibrium away from ammonia, since the forward reaction is exothermic [1].
+
 ---
 
 ## Where marks are usually lost
@@ -91,3 +109,5 @@ Related: [Rates of Reaction revision notes](/resources/rates-of-reaction-revisio
 - Saying a catalyst increases the yield.
 - Not stating that concentrations are *constant*, not *equal*, at equilibrium.
 - Forgetting that a catalysed reaction reaches the same final amount of product.
+- Describing the hydrated/anhydrous copper sulfate colour change without stating it goes both ways — this is what makes it reversible, not just a one-way colour change.
+- Assuming higher pressure or higher temperature is always used in industry simply because it increases yield or rate — real conditions are a compromise that also weighs cost and safety.

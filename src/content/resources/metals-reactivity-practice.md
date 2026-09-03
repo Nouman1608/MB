@@ -65,6 +65,21 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 
 **6.** Explain, using a diagram in words, why an alloy is harder than the pure metal. **[3]**
 
+**7.** Magnesium ribbon reacts rapidly with steam, but only very slowly with cold water.
+
+**(a)** Write the word equation for magnesium's reaction with steam. **[1]**
+**(b)** State why the same metal can react at very different rates with water and with steam. **[1]**
+
+**8.** In an experiment, magnesium reacts vigorously with dilute hydrochloric acid, zinc reacts moderately, and silver shows no reaction at all.
+
+**(a)** Rank the three metals in order of decreasing reactivity, with reasoning. **[2]**
+**(b)** State which of the three would react with dilute acid to release hydrogen gas, and which would not. **[2]**
+
+**9.** Painting, greasing and galvanising can all be used to protect iron from rusting.
+
+**(a)** Explain why painting and greasing work, and state one limitation they share. **[2]**
+**(b)** Explain why galvanising still protects iron even where the coating is scratched, unlike painting or greasing. **[2]**
+
 ---
 
 ## Answers
@@ -85,6 +100,15 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 
 **6.** In a pure metal the atoms are **the same size and arranged in regular layers that can slide over one another** [1]. In an alloy, **atoms of a different size are introduced** [1], which **distorts the layers and prevents them sliding**, so the alloy is harder [1].
 
+**7. (a)** magnesium + steam → magnesium oxide + hydrogen [1].
+**(b)** Steam supplies **more energy** (a higher temperature) than cold water, which is enough to overcome magnesium's activation energy for reaction, whereas cold water alone is not [1].
+
+**8. (a)** **Magnesium > zinc > silver** [1]; a more vigorous reaction with the same acid under the same conditions indicates a more reactive metal [1].
+**(b)** **Magnesium and zinc** would react to release hydrogen gas [1]; **silver**, being below hydrogen in the reactivity series, would not react at all [1].
+
+**9. (a)** Both **physically exclude oxygen and water** from the metal surface, stopping rusting while the coating remains intact [1]; the shared limitation is that **once the coating is scratched or damaged, the exposed metal beneath rusts normally** [1].
+**(b)** Zinc is **more reactive than iron**, so where the coating is broken, the **zinc corrodes preferentially (sacrificial protection)**, continuing to protect the iron even without an intact barrier [1] — a mechanism painting and greasing simply don't have, since neither coating material is more reactive than iron [1].
+
 ---
 
 ## Where marks are usually lost
@@ -93,3 +117,5 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 - Omitting the decomposition step for limestone.
 - Giving only the barrier explanation for galvanising.
 - Saying alloys are harder because the atoms bond more strongly.
+- Treating "reacts with water" and "reacts with steam" as the same test — steam supplies more energy, so a metal that barely reacts with cold water can react rapidly with steam.
+- Assuming any protective coating gives sacrificial protection — only a coating metal more reactive than iron (such as zinc) does; paint and grease are barrier methods only.

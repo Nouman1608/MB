@@ -50,6 +50,16 @@ Related: [Cell Biology revision notes](/resources/aqa-gcse-biology-cell-biology-
 
 **6.** Explain why an increase in surface area to volume ratio increases the rate of diffusion into a cell. **[3]**
 
+**7.** Root hair cells and xylem cells are both specialised for their function in a plant.
+
+**(a)** Describe how each is adapted to its function. **[2]**
+**(b)** Explain why plants, unlike most animals, can be cloned from cuttings. **[2]**
+
+**8.** A cell is 0.02 mm across. Under a microscope its image measures 40 mm.
+
+**(a)** Calculate the magnification, showing your unit conversion. **[3]**
+**(b)** State whether this magnification could be achieved using a light microscope, giving a reason based on the typical maximum magnification of light microscopes. **[1]**
+
 ---
 
 ## Answers
@@ -70,6 +80,13 @@ Related: [Cell Biology revision notes](/resources/aqa-gcse-biology-cell-biology-
 
 **6.** A larger surface area to volume ratio means there is **more membrane area per unit of cytoplasm** [1], so **more substances can diffuse across at the same time** [1] and the **distance to the centre of the cell is shorter** [1].
 
+**7. (a)** A **root hair cell** has a large surface area for absorbing water (and dissolved minerals) from the soil [1]; a **xylem cell** is hollow, dead and strengthened with lignin, allowing water to flow through it easily and giving the plant structural support [1].
+**(b)** Most **animal cells differentiate early** and lose the ability to change [1], whereas **many plant cells retain the ability to differentiate for life**, so a cutting can regrow the missing specialised cell types [1].
+
+**8. (a)** Convert to the same units: 0.02 mm = 20 micrometres, 40 mm = 40 000 micrometres [1]
+magnification = 40 000 ÷ 20 [1] = **×2000** [1].
+**(b)** **Yes** — light microscopes typically reach a maximum magnification of about ×2000, so this result is right at the upper limit of what one can achieve [1].
+
 ---
 
 ## Where marks are usually lost
@@ -78,3 +95,7 @@ Related: [Cell Biology revision notes](/resources/aqa-gcse-biology-cell-biology-
 - Confusing magnification with resolution.
 - Forgetting that DNA replicates before mitosis, not during it.
 - Giving surface area alone rather than the ratio to volume.
+- Not converting to the same units before calculating magnification, or before comparing a size given in mm with one given in micrometres.
+- Assuming plant and animal cells differentiate in the same way — most animal cells lose this ability early, while many plant cells keep it.
+
+Work through the [Cell Biology revision notes](/resources/aqa-gcse-biology-cell-biology-revision-notes/) alongside these questions: the notes summarise cell types, microscopy and stem cells in condensed form, while these questions test whether you can apply the magnification formula and the differentiation argument to a specific, unfamiliar example rather than just recall the definition.

@@ -47,6 +47,15 @@ Related: [Amount of Substance revision notes](/resources/ocr-a-level-chemistry-a
 **(a)** Calculate the theoretical yield of calcium oxide. **[3]**
 **(b)** Calculate the percentage yield. **[2]**
 
+**6.** A compound is 85.7% carbon and 14.3% hydrogen by mass, and has a relative molecular mass of 56. Determine its molecular formula, showing your working. **[4]**
+
+**7.** A student heats 5.00 g of hydrated copper(II) sulfate, CuSO₄·xH₂O, to constant mass, leaving 3.20 g of anhydrous copper(II) sulfate.
+
+**(a)** Calculate the moles of anhydrous CuSO₄ and of water lost. **[3]**
+**(b)** Determine the value of x. **[2]**
+
+**8.** For the reaction CaCO₃ → CaO + CO₂, with CaO as the desired product, calculate the atom economy of the reaction. Explain why this value is different from the percentage yield calculated in Question 5(b). **[4]**
+
 ---
 
 ## Answers
@@ -66,6 +75,13 @@ Related: [Amount of Substance revision notes](/resources/ocr-a-level-chemistry-a
 **5. (a)** M_r(CaCO₃) = 100; moles = 5.00 ÷ 100 = 0.0500 [1]. Ratio 1 : 1, so 0.0500 mol CaO [1]; M_r(CaO) = 56, so mass = 0.0500 × 56 = **2.80 g** [1].
 **(b)** (2.24 ÷ 2.80) × 100 [1] = **80.0%** [1].
 
+**6.** Assume 100 g: C = 85.7 ÷ 12 = 7.14 mol; H = 14.3 ÷ 1 = 14.3 mol [1]. Divide by the smallest (7.14): C = 1, H = 2.00 [1], giving empirical formula **CH₂** (mass 14). Since 56 ÷ 14 = 4 [1], the molecular formula is **C₄H₈** [1].
+
+**7. (a)** Moles CuSO₄ = 3.20 ÷ 160 = **0.0200 mol** [1]. Mass of water lost = 5.00 − 3.20 = 1.80 g [1], so moles H₂O = 1.80 ÷ 18 = **0.100 mol** [1].
+**(b)** Ratio H₂O : CuSO₄ = 0.100 ÷ 0.0200 = **5** [1], so **x = 5** (CuSO₄·5H₂O) [1].
+
+**8.** Atom economy = (M_r of CaO ÷ sum of M_r of reactants) × 100 = (56 ÷ 100) × 100 [1] = **56%** [1]. This differs from percentage yield because atom economy is a **fixed property of the reaction's stoichiometry** — how much of the total reactant mass ends up in the desired product, with the rest going to CO₂ as an unavoidable by-product [1] — whereas percentage yield depends on **how the reaction was actually carried out**, including losses to side reactions, incomplete reaction, or purification [1].
+
 ---
 
 ## Where marks are usually lost
@@ -74,3 +90,5 @@ Related: [Amount of Substance revision notes](/resources/ocr-a-level-chemistry-a
 - Ignoring the 2 : 1 ratio in the sulfuric acid titration.
 - Including the rough titre in the mean.
 - Confusing theoretical and actual yield in the percentage calculation.
+- Not dividing by the smallest mole value when finding an empirical formula ratio, or stopping at the empirical formula when the molecular formula was asked for.
+- Confusing atom economy (a property of the reaction's stoichiometry) with percentage yield (a property of how the reaction was actually carried out) — a reaction can have 100% yield but poor atom economy, or vice versa.

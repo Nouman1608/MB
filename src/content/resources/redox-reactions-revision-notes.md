@@ -37,6 +37,15 @@ Condensed for the final weeks. For the full explanation, use the
 
 Oxidation and reduction always occur together: if one species loses electrons, another must gain them.
 
+**Worked example (oxygen definition).** `CuO + H2 -> Cu + H2O`
+
+```
+CuO loses oxygen  -> reduced   -> copper(II) oxide is the oxidising agent
+H2  gains oxygen  -> oxidised  -> hydrogen is the reducing agent
+```
+
+Nothing here involves electron transfer explicitly, but the oxygen and electron definitions always agree on which species is oxidised and which is reduced — this is exactly the kind of reaction the oxygen definition was designed for, before electron transfer is introduced as the more general picture.
+
 ## Agents — the reversal students get wrong
 
 - **Oxidising agent** — *causes* oxidation in something else, so is itself **reduced** and **gains** electrons.
@@ -44,6 +53,8 @@ Oxidation and reduction always occur together: if one species loses electrons, a
 
 Common oxidising agents: acidified potassium manganate(VII), potassium dichromate(VI), chlorine, oxygen.
 Common reducing agents: carbon, carbon monoxide, hydrogen, reactive metals, potassium iodide.
+
+In a **displacement reaction**, a more reactive metal displaces a less reactive one from solution, and this is always a redox reaction: the more reactive metal is oxidised (loses electrons to form ions), while the less reactive metal's ions are reduced (gain electrons to form the metal). This is the same electron-transfer logic used throughout this topic, just applied to a pair of metals rather than a metal and a non-metal.
 
 ## Oxidation number rules
 
@@ -59,6 +70,16 @@ Sum in an ion                = the ion charge
 ```
 
 Roman numerals in a name give the oxidation number directly: iron(III) chloride contains Fe at +3.
+
+**Worked example.** Find the oxidation number of Mn in KMnO₄.
+
+```
+K is always +1, O is normally -2, compound is neutral:
+(+1) + Mn + 4(-2) = 0
+Mn = 0 - 1 + 8 = +7
+```
+
+This matches the "(VII)" in potassium manganate(VII) — the Roman numeral and the calculated oxidation number always agree, which is a quick way to check your working once you have finished a calculation.
 
 ## Half equations
 
@@ -99,6 +120,9 @@ O:   0  ->  -2   decrease -> REDUCED  -> O2 is the oxidising agent
 - Electrons appear on the right for oxidation, the left for reduction.
 - "Loses oxygen" alone is incomplete at this level — quote the electron definition where you can.
 - Displacement reactions are redox: the more reactive metal is oxidised.
+- Forgetting that the oxygen and electron definitions must always agree — if a working shows one species gaining oxygen but also gaining electrons, at least one step has gone wrong.
+
+Related: [Redox Reactions practice questions](/resources/redox-reactions-practice/) for further worked examples, including displacement reactions and the reactivity series.
 
 ## Self-test
 
@@ -107,5 +131,7 @@ O:   0  ->  -2   decrease -> REDUCED  -> O2 is the oxidising agent
 3. A solution turns acidified KMnO₄ from purple to colourless. What does this show?
 4. Write the half equation for chloride ions forming chlorine.
 5. Why is a reducing agent itself oxidised?
+6. In `CuO + H2 → Cu + H2O`, identify the oxidising agent and reducing agent using the oxygen definition.
+7. Find the oxidation number of Cr in K2Cr2O7.
 
-**Answers:** 1. Fe₂O₃ — iron goes from +3 to 0, a decrease, so it is reduced (CO is the reducing agent). 2. (+1×2) + S + (−2×4) = 0 → S = **+6**. 3. The solution is a **reducing agent**; MnO₄⁻ has been reduced to Mn²⁺. 4. 2Cl⁻ → Cl₂ + 2e⁻. 5. It donates electrons to the other species — donating electrons *is* oxidation, so causing reduction elsewhere necessarily means being oxidised itself.
+**Answers:** 1. Fe₂O₃ — iron goes from +3 to 0, a decrease, so it is reduced (CO is the reducing agent). 2. (+1×2) + S + (−2×4) = 0 → S = **+6**. 3. The solution is a **reducing agent**; MnO₄⁻ has been reduced to Mn²⁺. 4. 2Cl⁻ → Cl₂ + 2e⁻. 5. It donates electrons to the other species — donating electrons *is* oxidation, so causing reduction elsewhere necessarily means being oxidised itself. 6. CuO loses oxygen and is reduced, so it is the oxidising agent; H₂ gains oxygen and is oxidised, so it is the reducing agent. 7. 2(+1) + 2Cr + 7(−2) = 0 → 2Cr = 12 → Cr = **+6**.
