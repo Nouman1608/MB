@@ -20,7 +20,9 @@ featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
-[Landscape and Natural Resources study guide](/resources/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources/).
+[Landscape and Natural Resources study guide](/resources/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources/),
+or for practice questions with worked answers, see the
+[Landscape and Natural Resources practice questions](/resources/igcse-oxfordaqa-pakistan-studies-landscape-practice/).
 
 ## The structure every answer here should follow
 
