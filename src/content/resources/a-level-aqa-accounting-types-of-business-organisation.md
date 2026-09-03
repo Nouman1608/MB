@@ -145,6 +145,11 @@ full — understanding the ownership and finance differences covered here
 first makes that later, more technical content considerably easier to
 follow.
 
+## Related resources
+
+[Types of Business Organisation revision notes](/resources/aqa-a-level-accounting-business-organisation-revision-notes/) |
+[Types of Business Organisation practice questions](/resources/aqa-a-level-accounting-business-organisation-practice/)
+
 ## Official syllabus
 
 AQA A-Level Accounting (7127) specification, Version 1.0, June 2019
