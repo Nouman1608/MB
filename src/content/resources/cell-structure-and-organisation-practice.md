@@ -53,6 +53,16 @@ Related: [Cell Structure and Organisation revision notes](/resources/cell-struct
 **(a)** Calculate the magnification. **[2]**
 **(b)** Express the actual length in micrometres. **[1]**
 
+**6.** A student compares a bacterial cell with a typical plant cell.
+
+**(a)** State **two** structural differences between them. **[2]**
+**(b)** Explain where the genetic material is found in a bacterial cell. **[2]**
+
+**7.** Xylem vessels transport water up a plant.
+
+**(a)** Describe **two** structural features of a xylem vessel. **[2]**
+**(b)** Explain how each feature helps the vessel carry out its function. **[2]**
+
 ---
 
 ## Answers
@@ -70,6 +80,12 @@ Related: [Cell Structure and Organisation revision notes](/resources/cell-struct
 **5. (a)** Magnification = image ÷ actual = 40 ÷ 0.05 [1] = **×800** [1].
 **(b)** 0.05 mm × 1000 = **50 µm** [1].
 
+**6. (a)** A bacterial cell **has no nucleus** [1] and its **cell wall is not made of cellulose** (unlike a plant cell wall) [1]. (Also accept: bacteria lack chloroplasts, mitochondria and a permanent vacuole.)
+**(b)** The genetic material is **free in the cytoplasm as a circular loop of DNA** [1], often with additional small circles called **plasmids** [1] — the cell has no nucleus to contain it.
+
+**7. (a)** A xylem vessel is **hollow** (the end walls between cells have broken down) [1] and is made of **dead cells** with walls thickened and strengthened by **lignin** [1].
+**(b)** Being hollow allows an **uninterrupted column of water** to pass straight through with no cross-walls to block the flow [1]. Being dead and lignified means the vessel needs no cytoplasm (leaving the whole tube free for water) and the rigid, waterproof walls **provide support** and withstand the pressure changes of water movement [1].
+
 ---
 
 ## Where marks are usually lost
@@ -78,3 +94,18 @@ Related: [Cell Structure and Organisation revision notes](/resources/cell-struct
 - Giving an adaptation without saying what it achieves.
 - Mixing up image and actual size in the magnification formula.
 - Forgetting the units when converting mm to µm.
+- Saying bacteria "have no DNA" — they have no **nucleus**, but the DNA itself is still present, free in the cytoplasm.
+- Describing xylem as a living tissue — the vessel cells are dead at maturity, which is essential to how they function.
+- Confusing xylem (water transport, one direction, up from the roots) with phloem (transports sugars, both directions).
+
+## Cells to know by their adaptation
+
+| Cell | Key adaptation | What it achieves |
+|---|---|---|
+| Root hair cell | Long, thin extension | Large surface area for water/ion uptake |
+| Xylem vessel | Hollow, dead, lignified | Uninterrupted water column; support |
+| Red blood cell | Biconcave, no nucleus | More space and surface area for oxygen transport |
+| Palisade mesophyll cell | Many chloroplasts, top of leaf | Maximum light absorption |
+| Ciliated cell | Cilia that beat | Moves mucus and trapped particles |
+
+This table is worth memorising as a set — exam questions on this topic almost always ask for the adaptation **and** the reason it helps, and the two must be paired correctly to score both marks. For the full explanation of cell structure across animal, plant and bacterial cells, see the [Cell Structure and Organisation revision notes](/resources/cell-structure-and-organisation-revision-notes/) and the linked [study guide](/resources/cell-structure-and-organisation/).

@@ -74,6 +74,54 @@ practice answering the exact essay-style prompts used in past papers,
 for the texts actually being studied, is the most direct way to build
 that habit before the real exam.
 
+## The command word "Explore"
+
+"Explore" is the one command word Cambridge formally defines for this
+syllabus, glossed as "write in detail about particular aspects." It
+appears in the implied-question style described above ("Explore the
+ways in which…"), and understanding what it is asking for changes how
+an answer should be built: not a broad tour of the whole extract, but
+sustained, detailed engagement with a small number of well-chosen
+moments. Two or three closely analysed quotations, each unpacked for
+language, structure and effect, will consistently outscore six
+quotations that are each mentioned only briefly — breadth of coverage
+is not what earns marks on Paper 1, depth of analysis is.
+
+## Building an answer that satisfies all four AOs together
+
+The strongest answers do not treat AO1 knowledge, AO2 understanding,
+AO3 analysis of method and AO4 personal response as four separate
+boxes to tick in sequence. A well-built paragraph instead folds them
+together: it states a point about the text, supports it with a short,
+exactly quoted phrase, analyses the specific language or structural
+choice within that quotation, and closes by connecting it to the
+writer's likely intention or to the effect on a reader. Written this
+way, AO4's personal response tends to emerge naturally through the
+quality of the analysis itself, rather than needing a bolted-on "I
+think…" sentence at the end of a paragraph, which examiners
+routinely identify as a weaker, more mechanical way of satisfying
+that objective.
+
+Because the relevant passage or poem is printed on the question
+paper, quotation should always be short and exact — copied precisely,
+including punctuation, since claiming to analyse a specific word
+choice while misquoting it undermines the analysis. With two 25-mark
+answers to complete inside 90 minutes, timing discipline matters as
+much as textual knowledge: a candidate who spends significantly
+longer on their more confident first answer routinely runs short on
+their second, so planning a roughly even split between the two
+responses, with a few minutes of reading and planning built into
+each, tends to protect the mark total more reliably than writing
+until a first answer "feels finished."
+
+For the practical exam-technique side of this paper — including a
+fuller breakdown of the two question styles Cambridge sets, a working
+model for structuring a paragraph around all four assessment
+objectives, and the specific ways marks are most often lost — see the
+[Paper 1 revision notes](/resources/igcse-english-literature-paper-1-poetry-and-prose-revision-notes/),
+which build directly on the format and assessment objectives
+introduced here.
+
 ## Official syllabus
 
 Cambridge IGCSE English Literature 0475 syllabus for 2026 (Version 2,

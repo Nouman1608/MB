@@ -19,7 +19,12 @@ featured: false
 ---
 
 Condensed for the final weeks. For worked examples, use the
-[Data Representation study guide](/resources/igcse-computer-science-data-representation/).
+[Data Representation study guide](/resources/igcse-computer-science-data-representation/),
+which covers Topic 1 (1.1 Number systems, 1.2 Text/sound/images, 1.3
+Data storage and compression) in full for Cambridge IGCSE Computer
+Science 0478, 2026–2028 series. For further exam-style practice with
+worked answers on this topic, see the [Data Representation practice
+questions](/resources/data-representation-practice/).
 
 ## Number conversions
 
@@ -63,6 +68,26 @@ bytes -> KB   : / 1024      KB -> MB : / 1024
 - **Sample rate** = samples per second (Hz). **Sample resolution** = bits per sample.
 - Increasing any of these improves quality **and** increases file size.
 
+## Two's complement
+
+Represents **negative** numbers in binary. The most significant bit
+has a **negative place value**:
+
+```
+8-bit place values:  -128  64  32  16  8  4  2  1
+
+Example: represent -19
+  19 in binary        = 00010011
+  Flip every bit      = 11101100
+  Add 1               = 11101101   <- this is -19
+
+Check: -128+64+32+8+4+1 = -19 (correct)
+```
+
+To convert back to denary, sum the place values directly using the
+**negative** value for the leftmost bit — there is no need to reverse
+the flip-and-add-one process to read a two's complement number.
+
 ## Compression
 
 | | Lossless | Lossy |
@@ -74,6 +99,33 @@ bytes -> KB   : / 1024      KB -> MB : / 1024
 
 Never use lossy for a file where every byte matters — a program would not run.
 
+**Run length encoding (RLE)** replaces a run of identical repeated
+values with a single value-and-count pair:
+
+```
+Original:   WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW
+RLE:        12W 1B 12W 3B 24W 1B 14W
+```
+
+RLE works best on images with large blocks of a single colour (simple
+graphics, icons); it barely helps a photograph, where colour varies
+pixel to pixel.
+
+## Data storage units
+
+Each unit is **1024** times the one before it:
+
+```
+bit -> nibble (4 bits) -> byte (8 bits) -> kibibyte (KiB)
+    -> mebibyte (MiB) -> gibibyte (GiB) -> tebibyte (TiB)
+    -> pebibyte (PiB) -> exbibyte (EiB)
+```
+
+The "-bi-" (kibi, mebi, gibi...) naming makes explicit that the factor
+is 1024, not 1000 — a distinction the syllabus is specific about, even
+though "KB" and "MB" remain the everyday terms candidates are used to
+seeing.
+
 ## Exam traps
 
 - Divide by **1024**, not 1000, for KB and MB.
@@ -81,6 +133,9 @@ Never use lossy for a file where every byte matters — a program would not run.
 - Sample **rate** vs sample **resolution** — these are different things.
 - Hexadecimal is for human readability; the computer stores **binary**.
 - Lossy compression is **permanent** — the data cannot be restored.
+- In two's complement, forgetting to **add 1** after flipping the bits — the flip alone gives one's complement, not two's complement.
+- Applying RLE to a photograph and expecting a large saving — natural images rarely have long runs of identical values, so lossy compression (e.g. JPEG) suits them far better.
+- Writing "KB" when the calculation actually used a factor of 1024 throughout — recognise that kibibyte (KiB) is the technically precise term, even though "KB" is still accepted informally.
 
 ## Self-test
 
@@ -89,5 +144,7 @@ Never use lossy for a file where every byte matters — a program would not run.
 3. What causes overflow?
 4. Why is Unicode preferred over ASCII for a multilingual website?
 5. Which compression type suits a spreadsheet, and why?
+6. Represent −19 in 8-bit two's complement.
+7. Why does RLE compress a simple icon well but a photograph poorly?
 
-**Answers:** 1. 10101110 → nibbles 1010 1110 → **AE**. 2. 1024×768×24 = 18,874,368 bits ÷ 8 = 2,359,296 bytes ÷ 1024 = 2304 KB ÷ 1024 = **2.25 MB**. 3. The result of a calculation requires more bits than the register can hold, so the most significant bit is lost. 4. ASCII cannot represent non-Latin scripts; Unicode covers every writing system. 5. Lossless — any discarded data would corrupt values and formulas.
+**Answers:** 1. 10101110 → nibbles 1010 1110 → **AE**. 2. 1024×768×24 = 18,874,368 bits ÷ 8 = 2,359,296 bytes ÷ 1024 = 2304 KB ÷ 1024 = **2.25 MB**. 3. The result of a calculation requires more bits than the register can hold, so the most significant bit is lost. 4. ASCII cannot represent non-Latin scripts; Unicode covers every writing system. 5. Lossless — any discarded data would corrupt values and formulas. 6. Write 19 as 00010011, flip every bit to get 11101100, then add 1 to get **11101101**. 7. An icon typically has long runs of identical pixel values that RLE can replace with a single value-and-count pair, while a photograph's colours vary almost pixel to pixel, giving very few long runs to compress.

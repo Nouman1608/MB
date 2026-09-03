@@ -50,6 +50,13 @@ Calculate the relative atomic mass to one decimal place. **[3]**
 
 **7.** Explain why the first ionisation energy of sulfur is lower than that of phosphorus. **[2]**
 
+**8.** An element's successive ionisation energies show a very large jump between the third and fourth values.
+
+**(a)** State the group of the element, explaining your reasoning. **[2]**
+**(b)** Explain, in terms of electron shells, why a large jump occurs at this point rather than a gradual increase throughout. **[2]**
+
+**9.** Write the full electron configuration of chromium (Z = 23) and of copper (Z = 29), and explain why each does not follow the expected 4s-before-3d filling pattern predicted by aufbau order alone. **[4]**
+
 ---
 
 ## Answers
@@ -74,6 +81,11 @@ Calculate the relative atomic mass to one decimal place. **[3]**
 
 **7.** In sulfur, **two electrons occupy the same 3p orbital** [1] and the **repulsion between them** makes one easier to remove than an unpaired 3p electron in phosphorus [1].
 
+**8. (a)** **Group 3** [1]. The first three electrons removed come from the **outer shell**, so this element has **3 outer-shell electrons** [1].
+**(b)** The fourth electron removed comes from a shell **closer to the nucleus**, with **less shielding and greater nuclear attraction** [1], so considerably more energy is needed to remove it than the outer electrons [1].
+
+**9.** Chromium: **[Ar]3d⁵4s¹** [1]. Copper: **[Ar]3d¹⁰4s¹** [1]. Both are exceptions caused by the **extra stability of a half-filled (3d⁵) or fully-filled (3d¹⁰) sub-shell** [1]: one electron moves from 4s into 3d so that the d sub-shell reaches this specially stable arrangement, rather than following the 3d⁴4s² or 3d⁹4s² pattern the simple aufbau filling order would otherwise predict [1].
+
 ---
 
 ## Where marks are usually lost
@@ -82,3 +94,21 @@ Calculate the relative atomic mass to one decimal place. **[3]**
 - Giving the mass spectrometry stages out of order or omitting ion drift.
 - Explaining the Al dip by nuclear charge rather than sub-shell energy.
 - Not dividing by 100 in a relative atomic mass calculation.
+- Miscounting which ionisation energy the jump occurs after when deducing a group from successive ionisation energies — the jump comes immediately **after** all the outer-shell electrons have been removed, not before.
+- Writing chromium as [Ar]3d⁴4s² or copper as [Ar]3d⁹4s² — both are the two standard exceptions to the aufbau filling order, caused by the stability of a half-filled or filled d sub-shell.
+- Forgetting that isotopes have identical chemical properties (same electron arrangement) despite differing physical properties such as mass.
+
+## Successive ionisation energies — reading the group off a graph
+
+A graph or table of successive ionisation energies is really a shell-by-shell
+map of an atom's electron structure: within one shell, energies rise
+gradually as each successive electron is removed from an increasingly
+positive ion, but a **sharp jump** appears the moment removal starts on
+the next shell in, since that shell sits closer to the nucleus with less
+shielding. Counting how many ionisation energies come before the first
+big jump tells you directly how many electrons are in the outer shell,
+and therefore the element's group — a technique worth practising on
+several different jump positions (after the 1st, 2nd, 3rd electron, and
+so on) rather than only the specific example seen in class. For the
+full electron-configuration filling order, including both anomalies in
+period 4, see the [Atomic Structure revision notes](/resources/aqa-a-level-chemistry-atomic-structure-revision-notes/).
