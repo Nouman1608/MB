@@ -145,8 +145,13 @@ importance for economic development.
 - Prepare a balanced advantage/disadvantage comparison of one renewable
 and one non-renewable energy resource.
 
+## Related resources
+
+[Landscape and Natural Resources revision notes](/resources/igcse-oxfordaqa-pakistan-studies-landscape-revision-notes/) |
+[Landscape and Natural Resources practice questions](/resources/igcse-oxfordaqa-pakistan-studies-landscape-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE Pakistan Studies (9236) specification,
 Version 1.9 —
-[oxfordaqa.com/9236](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-pakistan-studies-specification.pdf).
+[oxfordaqa.com/9236](https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-international-gcse-pakistan-studies-specification.pdf).
