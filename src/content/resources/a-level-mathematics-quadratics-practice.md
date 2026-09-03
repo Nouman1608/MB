@@ -52,6 +52,12 @@ Related: [Quadratics revision notes](/resources/a-level-mathematics-quadratics-r
 
 **6.** Solve `x − 8√x + 15 = 0`. **[4]**
 
+**7.** Solve `3^(2x) − 10(3^x) + 9 = 0`. **[4]**
+
+**8.** The line `y = kx − 1` intersects the curve `y = x² + 2x + 3` at two distinct points. Find the range of possible values of k. **[5]**
+
+**9.** The curve `y = x² + 4x + p` does not meet the x-axis at any point. Find the range of possible values of p. **[3]**
+
 ---
 
 ## Answers
@@ -91,6 +97,20 @@ u = 3 or u = 5, **both valid since √x ≥ 0** [1]
 x = 9 or **x = 25** [1].
 *Substituting back is essential — stopping at u loses the final mark.*
 
+**7.** Let u = 3^x [1]: u² − 10u + 9 = 0 → (u − 1)(u − 9) = 0 [1]
+u = 1 or u = 9, **both valid since 3^x is always positive** [1]
+3^x = 1 → x = 0; 3^x = 9 → **x = 2** [1].
+
+**8.** kx − 1 = x² + 2x + 3 [1]
+0 = x² + 2x − kx + 4 = **x² + (2 − k)x + 4** [1]
+Two distinct points ⟹ discriminant > 0 [1]
+(2 − k)² − 4(1)(4) > 0 → (2 − k)² > 16 [1]
+2 − k > 4 or 2 − k < −4, so **k < −2 or k > 6** [1].
+
+**9.** Not meeting the x-axis at any point is the third of the three discriminant cases, so it requires discriminant < 0 [1]
+4² − 4(1)(p) < 0 → 16 − 4p < 0 [1]
+**p > 4** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -100,3 +120,7 @@ x = 9 or **x = 25** [1].
 - Giving only two of the four roots in a quartic.
 - Giving only the discriminant condition for "always positive".
 - Failing to substitute back after a substitution.
+- Forgetting that a term such as 3^x or 2^x is always positive, so a negative value of u must be rejected.
+- Using discriminant = 0 (tangent) instead of discriminant > 0 (two distinct intersection points) when the question asks for two points, not one.
+
+Work through the [Quadratics revision notes](/resources/a-level-mathematics-quadratics-revision-notes/) alongside these questions: the notes summarise the completed-square method, the three discriminant cases and the substitution technique in condensed form, while these questions test whether you can recognise which case applies — tangent, two intersections, or no intersection — from the wording of an unfamiliar problem, rather than just recall the rule.

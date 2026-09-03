@@ -39,6 +39,12 @@ Related: [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/) |
 
 **5.** Write a description suggested by the following image or scenario: *An abandoned house at the edge of a town, seen at dusk.* **[40]**
 
+**6.** Question 4 carries 20 of Section A's 40 marks. Explain what this means for how exam time and revision time should be allocated across the four reading questions. **[3]**
+
+**7.** A student decides to compare the Paper 1 extract with a poem studied in class, hoping this will strengthen their answer. Explain why this is a wasted strategy on this paper specifically. **[2]**
+
+**8.** Technical accuracy is worth 16 of the 40 marks available in Section B. Explain why spelling and punctuation errors can cap a response in the highest mark band even when its ideas and structure are strong. **[3]**
+
 ---
 
 ## Answers (worked approach, since Section A depends on your chosen extract)
@@ -53,6 +59,12 @@ Related: [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/) |
 
 **5.** Mark against: content and organisation (structure, ambitious vocabulary, a clear shape with an opening, development and ending) and technical accuracy (a range of correctly punctuated sentence structures, accurate spelling). A strong response plans a clear structure before writing — for example, moving from an establishing wide shot of the house, to closer sensory detail, to a final image or reflection — rather than a list of description with no shape.
 
+**6.** Question 4 is worth as many marks as Questions 1–3 **combined** [1], so it deserves a correspondingly larger share of the reading time available, not the same amount of time as each shorter question [1]. It is also the paper's designed "stretch" question, testing a sustained evaluative argument rather than a single isolated skill, so revision time should prioritise practising this extended response, not just the shorter identification and analysis tasks [1].
+
+**7.** Paper 1's Section A works from a **single extract**, and AO3 (comparing writers across texts) is **not** assessed on this paper — it belongs entirely to Paper 2 [1]. Time spent drawing in an unrelated text earns no marks here and would be better spent developing the analysis of the given extract itself [1].
+
+**8.** At 16 of 40 marks, technical accuracy accounts for 40% of the writing task's total, not a minor add-on [1]. Exam boards cap the highest mark bands for content and organisation at a lower technical-accuracy band if spelling and punctuation are weak [1], so persistent errors prevent a response from reaching the top band overall, however strong its ideas, meaning time must be left at the end specifically to check the writing [1].
+
 ---
 
 ## Where marks are usually lost
@@ -62,3 +74,5 @@ Related: [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/) |
 - Writing a continuation of the extract for the creative writing task rather than an original piece.
 - Running out of time on Section B because too long was spent perfecting Section A answers.
 - Uneven sentence variety in the creative writing response — several sentences in a row with the same structure and length.
+- Attempting to compare the extract with another text, as if AO3 applied here — it does not; comparison is tested only on Paper 2.
+- Treating all four reading questions as equally deserving of time, rather than weighting time toward Question 4's 20 marks.

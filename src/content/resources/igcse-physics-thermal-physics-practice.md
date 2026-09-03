@@ -46,6 +46,12 @@ Related: [Thermal Physics revision notes](/resources/igcse-physics-thermal-physi
 
 **9.** Describe, using ideas about density, how convection currents form in a room heated by a radiator. **[3]**
 
+**10.** State and explain the order in which solids, liquids and gases expand when heated by the same temperature rise, and give one everyday application of thermal expansion. **[3]**
+
+**11.** Describe how you would observe Brownian motion using smoke particles in air, and state what this observation provides evidence for. **[3]**
+
+**12.** Explain why metals are much better conductors of heat than non-metallic solids such as wood or glass. **[2]**
+
 ---
 
 ## Answers
@@ -67,3 +73,20 @@ Related: [Thermal Physics revision notes](/resources/igcse-physics-thermal-physi
 **8.** A matt black surface absorbs and emits infrared radiation much better than a shiny silver surface, which mostly reflects radiation instead [1]. This is because dull, dark surfaces are efficient emitters and absorbers, while light, shiny surfaces are poor emitters and good reflectors [1]. Application: e.g. car radiators/heating panels are often painted matt black to radiate heat away efficiently; vacuum flasks have shiny silvered inner surfaces to minimise radiation loss [1, any valid example].
 
 **9.** Air near the radiator is heated, so it expands and becomes less dense than the surrounding cooler air [1]. This warmer, less dense air rises [1]. Cooler, denser air sinks to take its place, is then heated in turn, setting up a continuous convection current that circulates warm air around the room [1].
+
+**10.** Gases expand the most, then liquids, then solids [1], because of differences in how strongly the particles are held together and how far apart they already are — gas particles are weakly attracted and far apart, so they spread out much more for the same rise in kinetic energy, while a solid's particles are held rigidly in place and can only vibrate slightly further [1]. Application: e.g. expansion gaps are left in bridges and railway tracks, or a bimetallic strip is used in a thermostat, so that the structure is not damaged as it expands [1, any valid example].
+
+**11.** View smoke particles in a glass cell under a microscope, illuminated from the side [1]. The smoke particles are seen to move in a continuous, random, erratic (zig-zag) path [1]. This is evidence for the particle model of matter: the visible smoke particles are being struck unevenly by fast-moving, randomly-moving air molecules that are too small to see directly [1].
+
+**12.** In addition to particle vibrations passing energy to neighbouring particles (as happens in any solid), metals contain **free (delocalised) electrons** [1]. These free electrons move quickly through the metal, carrying thermal energy along with them much faster than vibrations alone can, which is why metals conduct heat far better than non-metallic solids [1].
+
+---
+
+## Where marks are usually lost
+
+- Giving the pV = constant relationship without stating the condition "at constant temperature, for a fixed mass of gas."
+- Confusing evaporation with boiling — evaporation happens at any temperature and only at the surface; boiling happens at one fixed temperature throughout the liquid.
+- Explaining conduction in metals without mentioning free electrons, or explaining it as if all solids conduct the same way.
+- Describing thermal expansion without linking the size of the effect to how strongly the particles are held together, in gases, liquids and solids respectively.
+
+Work through the [Thermal Physics revision notes](/resources/igcse-physics-thermal-physics-revision-notes/) alongside these questions: the notes set out the kinetic particle model and the three heat-transfer mechanisms in table form, while these questions test whether you can apply the underlying particle reasoning to a specific, unfamiliar situation rather than just recall a definition.

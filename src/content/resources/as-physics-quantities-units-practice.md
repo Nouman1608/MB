@@ -65,6 +65,12 @@ Related: [Physical Quantities and Units revision notes](/resources/as-physics-qu
 
 **8.** A cube's side is measured to 2%. Calculate the percentage uncertainty in its volume. **[2]**
 
+**9.** A student repeats a timing measurement several times and finds the readings cluster tightly together, but consistently below the accepted value. Explain, in terms of systematic and random error, why the readings are precise but not accurate. **[3]**
+
+**10.** A rectangular block has length l = (12.0 ± 0.1) cm and width w = (5.0 ± 0.1) cm. Calculate the percentage uncertainty in the area. **[3]**
+
+**11.** Convert 250 μA to amperes, and 3.2 mm to metres, giving each answer in standard form, and state which SI prefix each conversion uses. **[2]**
+
 ---
 
 ## Answers
@@ -90,6 +96,12 @@ Related: [Physical Quantities and Units revision notes](/resources/as-physics-qu
 
 **8.** Volume ∝ (side)³, so % uncertainty = 3 × 2% [1] = **6%** [1].
 
+**9.** The tight clustering shows **precision** — the random error affecting the readings is small [1]. But every reading is displaced in the same direction from the true value, which is the signature of a **systematic error** (for example a zero error or a consistent reaction-time delay) [1]. Systematic error affects accuracy, not precision, so the readings can be precise (close to each other) without being accurate (close to the true value), and repeating and averaging would not remove the offset [1].
+
+**10.** % uncertainty in l = (0.1 ÷ 12.0) × 100 ≈ 0.83% [1]; % uncertainty in w = (0.1 ÷ 5.0) × 100 = 2.0% [1]. Since area = l × w, the percentage uncertainties **add**: 0.83% + 2.0% ≈ **2.8%** [1].
+
+**11.** 250 μA = 250 × 10⁻⁶ A = **2.5 × 10⁻⁴ A**, using the **micro** (10⁻⁶) prefix [1]; 3.2 mm = 3.2 × 10⁻³ m = **3.2 × 10⁻³ m**, using the **milli** (10⁻³) prefix [1].
+
 ---
 
 ## Where marks are usually lost
@@ -99,3 +111,7 @@ Related: [Physical Quantities and Units revision notes](/resources/as-physics-qu
 - Adding percentage uncertainties when subtracting quantities.
 - Forgetting to multiply by the power when a quantity is cubed.
 - Rounding an intermediate value before using it in a later step, which drifts the final answer — carry extra significant figures through the working and only round at the end. Also, give a final numerical answer as a decimal to the precision asked for, not left as a surd or a fraction.
+- Confusing precision with accuracy — tightly clustered readings can still all be wrong if a systematic error is present.
+- Losing track of a prefix's power of ten when converting between units, especially with micro (10⁻⁶) and milli (10⁻³).
+
+Work through the [Physical Quantities and Units revision notes](/resources/as-physics-quantities-units-revision-notes/) alongside these questions: the notes summarise the base units, prefixes and error definitions in condensed form, while these questions test whether you can apply the uncertainty-combination rules and the precision-versus-accuracy distinction to a specific numerical situation rather than just recall the rule.

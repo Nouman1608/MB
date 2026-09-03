@@ -27,7 +27,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-revision-notes/)
+Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-revision-notes/), which covers TLC, GLC and GC-MS in full.
 
 ---
 
@@ -58,11 +58,17 @@ Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-r
 
 **6.** A student uses TLC on colourless amino acids. Describe how the spots are made visible. **[2]**
 
+**7.** A silica TLC plate is used to separate two components: one polar, one non-polar. Explain which component travels further up the plate, and why. **[3]**
+
+**8.** In gas-liquid chromatography, explain why a component with a low boiling point and low solubility in the stationary phase has a shorter retention time than one with a high boiling point and high solubility. **[3]**
+
+**9.** Two spots on a TLC plate have R_f values of 0.32 and 0.68, using the same solvent system, in which the solvent front travelled 9.0 cm. Calculate the distance travelled by each spot. **[2]**
+
 ---
 
 ## Answers
 
-**1.** The components have **different affinities** for the two phases [1]. A component with a **greater affinity for the stationary phase moves more slowly** [1]; one with a greater affinity for the mobile phase moves further, so they separate [1].
+**1.** The components have **different affinities** for the two phases [1]. A component with a **greater affinity for the stationary phase moves more slowly** [1]; one with a greater affinity for the mobile phase moves further, so components with different affinities end up spatially separated [1].
 
 **2. (a)** R_f = 4.6 ÷ 7.8 [1] = **0.59** [1].
 **(b)** R_f depends on the **solvent, stationary phase and temperature** [1], so a value obtained under different conditions cannot be compared [1].
@@ -74,12 +80,18 @@ Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-r
 
 **4. (a)** Mobile: an **inert carrier gas** such as nitrogen or helium [1]. Stationary: a **high-boiling liquid on an inert solid support** [1].
 **(b)** The component's **boiling point** [1] and its **solubility in the stationary phase** [1].
-**(c)** The **amount (or concentration) of that component** in the mixture [1], so the technique is quantitative once calibrated [1].
+**(c)** The **amount (or concentration) of that component** in the mixture [1], so the technique is quantitative once calibrated against known standards [1].
 **(d)** The sample must be **volatile and thermally stable** [1].
 
-**5.** Gas chromatography only **separates** the mixture and gives retention times, which two compounds may share [1]. The mass spectrometer then **identifies each separated component** from its molecular ion and fragmentation pattern [1]. Used in **forensics**, drug testing or environmental analysis [1].
+**5.** Gas chromatography only **separates** the mixture and gives retention times, which two compounds may share [1]. The mass spectrometer then **identifies each separated component** from its molecular ion and fragmentation pattern [1]. Used in **forensics**, drug testing or environmental analysis, where certain identification matters as much as separation [1].
 
-**6.** Use a **locating agent such as ninhydrin**, or view under **ultraviolet light** if the plate contains a fluorescent indicator [1] [1].
+**6.** Use a **locating agent such as ninhydrin**, which reacts with amino acids to give a characteristic purple/blue colour [1], or view under **ultraviolet light** if the plate contains a fluorescent indicator [1].
+
+**7.** The **non-polar** component travels further, giving it the higher R_f value [1]. Silica is a **polar** stationary phase [1], so the **polar** component is **retained more strongly** on it, while the non-polar component has a **greater affinity for the mobile phase (solvent)** and is carried further up the plate [1].
+
+**8.** A component with a **low boiling point** vaporises more readily and spends less time condensed in the stationary phase [1]; **low solubility** in the stationary phase means it spends less time dissolved there too [1], so it is carried through the column by the mobile gas phase faster, giving a **shorter retention time** [1].
+
+**9.** distance = R_f × solvent-front distance: 0.32 × 9.0 = **2.9 cm** [1]; 0.68 × 9.0 = **6.1 cm** [1].
 
 ---
 
@@ -89,3 +101,8 @@ Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-r
 - Giving practical instructions without the reason.
 - Saying a matching R_f proves identity.
 - Forgetting that GLC requires a volatile, thermally stable sample.
+- Explaining Rf differences without linking polarity to which phase the component is attracted to — "it moves further" is not a reason on its own.
+- Assuming retention time depends only on boiling point — solubility in the stationary phase matters just as much.
+- Forgetting that ninhydrin only develops colourless amino-acid spots; it is not needed for spots that are already coloured.
+
+Work through these alongside the [chromatography revision notes](/resources/a-chemistry-chromatography-revision-notes/): the notes set out the principle and the definitions, while these questions test whether you can apply the polarity and volatility arguments to a specific pair of compounds rather than just recite the theory.

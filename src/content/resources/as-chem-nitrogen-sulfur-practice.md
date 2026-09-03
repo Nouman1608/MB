@@ -53,6 +53,15 @@ Related: [Nitrogen and Sulfur revision notes](/resources/as-chem-nitrogen-sulfur
 **(b)** Explain why 450 °C is used despite the reaction being exothermic. **[3]**
 **(c)** Explain why only 1–2 atm is used despite the mole ratio favouring high pressure. **[2]**
 
+**6.** Nitrogen monoxide can form naturally, without any engine, during a lightning strike. Explain why this happens, given how unreactive nitrogen normally is. **[2]**
+
+**7.** Atmospheric NO₂ can increase the rate at which sulfur dioxide contributes to acid rain, even though the NO₂ itself is not used up overall.
+
+**(a)** Write equations to show how NO₂ converts SO₂ to SO₃, and is then regenerated. **[2]**
+**(b)** State the term for a substance that speeds up a reaction without being consumed overall. **[1]**
+
+**8.** NOx and unburned hydrocarbons from vehicle exhaust react in sunlight to form peroxyacetyl nitrate (PAN). State what type of atmospheric pollution this produces, and one of its effects. **[2]**
+
 ---
 
 ## Answers
@@ -65,15 +74,22 @@ Related: [Nitrogen and Sulfur revision notes](/resources/as-chem-nitrogen-sulfur
 
 **3. (a)** The engine reaches a **very high temperature** [1], supplying enough energy to overcome the high activation energy of breaking the N≡N and O=O bonds [1].
 **(b)** NO is oxidised in air to **NO₂** [1], which dissolves in rainwater [1] to form **nitric acid**, lowering the pH of the rain [1].
-**(c)** The converter provides a surface on which NO is **reduced** while CO is **oxidised** [1] [1]: `2NO + 2CO → N₂ + 2CO₂` [1].
+**(c)** The converter provides a surface on which NO is **reduced** while CO is **oxidised** [1] [1], both gases adsorbing onto a platinum/rhodium/palladium catalyst: `2NO + 2CO → N₂ + 2CO₂` [1].
 
-**4.** Sulfur dioxide is released when **sulfur-containing fossil fuels burn** [1]. It is oxidised to **SO₃** and dissolves in rainwater [1] to form **sulfuric acid** [1]. Consequences: damage to **aquatic life in acidified lakes**, damage to **trees and soil**, and **corrosion of limestone buildings and metal structures** — any one [1].
+**4.** Sulfur dioxide is released when **sulfur-containing fossil fuels burn** [1]. It is oxidised to **SO₃**, either directly by atmospheric oxygen or via the NO₂-catalysed pathway, and dissolves in rainwater [1] to form **sulfuric acid** [1]. Consequences: damage to **aquatic life in acidified lakes**, damage to **trees and soil**, and **corrosion of limestone buildings and metal structures** — any one [1].
 
 **5. (a)** **Vanadium(V) oxide, V₂O₅** [1].
 
 **(b)** A lower temperature would give a **higher equilibrium yield** because the forward reaction is exothermic [1], but the **rate would be uneconomically slow** [1], so 450 °C is a **compromise between yield and rate** [1].
 
 **(c)** The yield at 1–2 atm is already about **96%** [1], so the additional yield does not justify the **large cost of high-pressure plant and energy** [1].
+
+**6.** A lightning strike releases an enormous amount of energy [1], far more than a car engine or ordinary atmospheric conditions supply, which is enough to overcome the very high activation energy of the N≡N and O=O bonds, driving N₂ + O₂ → 2NO directly, even though these conditions do not exist in ordinary atmospheric chemistry [1].
+
+**7. (a)** NO₂ + SO₂ → NO + SO₃ [1]; the NO produced is then reoxidised by atmospheric O₂ back to NO₂, regenerating it for further reaction [1].
+**(b)** **Catalyst** [1].
+
+**8.** This produces **photochemical smog** [1], which acts as an eye and lung irritant, characteristic of sunny, traffic-heavy cities [1].
 
 ---
 
@@ -83,3 +99,7 @@ Related: [Nitrogen and Sulfur revision notes](/resources/as-chem-nitrogen-sulfur
 - Not stating that the dative bond becomes identical once formed.
 - Giving "compromise" without saying between what and what.
 - Omitting the oxidation step in the acid rain mechanism.
+- Treating NO₂'s role in oxidising SO₂ as a one-off reaction rather than a catalytic cycle in which NO₂ is regenerated.
+- Confusing acid rain (from SO₂/NOx dissolving to form acids) with photochemical smog (from NOx and hydrocarbons reacting in sunlight) — they are distinct pollution mechanisms with the same pollutant gases.
+
+Work through the [Nitrogen and Sulfur revision notes](/resources/as-chem-nitrogen-sulfur-revision-notes/) alongside these questions: the notes summarise the structure and bonding arguments in condensed form, while these questions test whether you can apply them to natural formation, catalytic pathways and atmospheric pollution — situations that go beyond the basic definitions.
