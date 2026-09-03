@@ -30,7 +30,7 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 
 **1.** Define growth and excretion as characteristics of living organisms. **[4]**
 
-**2.** Explain the difference between excretion and egestion. **[2]**
+**2.** Explain the difference between excretion and egestion, giving an example of each. **[2]**
 
 **3.** Define a species. **[2]**
 
@@ -69,6 +69,20 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 
 **(b)** Give two features that would make an **unreliable** basis for a key, with reasons. **[2]**
 
+**8.** A vertebrate has dry, scaly skin, lays eggs with a soft leathery shell on land, and has a body temperature that varies with its surroundings.
+
+**(a)** Identify the vertebrate group. **[1]**
+
+**(b)** Give **one** feature that would distinguish a bird from this group, and state the corresponding feature in the bird. **[2]**
+
+**9.** A flowering plant has flower parts arranged in threes and leaves with parallel veins.
+
+**(a)** State whether it is a monocotyledon or a dicotyledon, using **both** pieces of evidence given. **[2]**
+
+**(b)** State the number of cotyledons its seed would contain. **[1]**
+
+**(c)** A different organism has many pairs of legs, one or two pairs per body segment, and a body made of many segments. Identify its arthropod group. **[1]**
+
 ---
 
 ## Answers
@@ -77,7 +91,7 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 **Excretion** — the removal of **toxic materials and the waste products of metabolism** [1] [1].
 *"Permanent", "dry mass" and "of metabolism" each carry marks.*
 
-**2.** **Excretion** removes waste made by the organism's **own chemical reactions** [1]; **egestion** removes **undigested food** that was never absorbed into the body [1].
+**2.** **Excretion** removes waste made by the organism's **own chemical reactions** [1], e.g. carbon dioxide and urea; **egestion** removes **undigested food** that was never absorbed into the body [1], e.g. fibre passed out as faeces.
 
 **3.** A group of organisms with **similar characteristics** [1] that can **interbreed to produce fertile offspring** [1].
 *"Fertile" is essential — a mule proves why.*
@@ -102,7 +116,14 @@ Fungi: **chitin** [1] wall, **saprotrophic** nutrition [1].
 **7. (a)** A series of **paired, contrasting statements** [1]; at each step one is chosen, leading either to the next pair or to an identification [1].
 
 **(b)** Any two with reasons: **colour** — it changes with age and season [1]; **size** — it varies between individuals and is relative rather than absolute [1].
-*(Also acceptable: behaviour, which is not always observable.)*
+*(Also acceptable: behaviour, which is not always observable, or a feature affected by environmental conditions such as light exposure.)*
+
+**8. (a)** **Reptile** [1].
+**(b)** Any one, with the reptile's own feature for contrast: birds have **feathers**, not scales [1] [1]; or birds lay eggs with a **hard shell**, not a soft leathery one; or birds maintain a **constant** body temperature, rather than one that varies with the surroundings.
+
+**9. (a)** **Monocotyledon** [1]; flower parts in **threes** and **parallel** leaf veins are both diagnostic monocotyledon features (dicotyledons have flower parts in fours or fives and branching, net-like veins) [1].
+**(b)** **One** cotyledon [1].
+**(c)** **Myriapod** [1].
 
 ---
 
@@ -113,3 +134,8 @@ Fungi: **chitin** [1] wall, **saprotrophic** nutrition [1].
 - Omitting "fertile" from the species definition.
 - Giving cellulose as the fungal cell wall material.
 - Building a key on features that vary with age, season or individual.
+- Confusing reptile and bird eggs — reptile shells are soft and leathery, bird shells are hard; getting this backwards is a very common slip.
+- Counting flower parts or leaf-vein pattern alone without linking both pieces of evidence to the monocotyledon/dicotyledon conclusion the question asked for.
+- Mixing up crustaceans and myriapods — both have "many" legs, but crustaceans have exactly two body parts plus two pairs of antennae, while myriapods have many segments and only one pair of antennae.
+
+Questions 8 and 9 draw on the vertebrate, plant and arthropod classification tables in the [Characteristics and Classification revision notes](/resources/igcse-biology-characteristics-classification-revision-notes/) — material the earlier questions on this page don't reach, since they focus on MRS GREN, the five kingdoms and dichotomous keys instead.

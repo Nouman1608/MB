@@ -63,6 +63,16 @@ Related: [Waves revision notes](/resources/as-physics-waves-revision-notes/)
 **(a)** State and explain the change in the frequency heard. **[3]**
 **(b)** State what happens after the source passes the observer. **[1]**
 
+**8.** Plane-polarised light of intensity 800 W m⁻² passes through a polarising filter oriented at 40° to the plane of polarisation.
+
+**(a)** State the formula (Malus's law) that gives the transmitted intensity. **[1]**
+**(b)** Calculate the transmitted intensity. **[3]**
+
+**9.** An ambulance siren emits sound of frequency 600 Hz and moves at 30 m s⁻¹. The speed of sound in air is 340 m s⁻¹.
+
+**(a)** Calculate the frequency heard by a stationary observer as the ambulance approaches. **[3]**
+**(b)** Calculate the frequency heard by the same observer once the ambulance has passed and is moving away at the same speed. **[2]**
+
 ---
 
 ## Answers
@@ -86,6 +96,12 @@ Uses (any three): radio — broadcasting [1]; microwave — cooking or satellite
 **7. (a)** The frequency heard **increases** [1]. Each successive wavefront is emitted from a position **closer to the observer** [1], so the wavefronts arrive more frequently and the observed wavelength is shortened [1].
 **(b)** The frequency heard **drops below** the source frequency [1].
 
+**8. (a)** **I = I₀cos²θ** [1], where I₀ is the incident intensity and θ is the angle between the filter's transmission plane and the light's plane of polarisation.
+**(b)** I = 800 × cos²(40°) [1] = 800 × 0.587 [1] = **470 W m⁻²** [1].
+
+**9. (a)** Approaching, so use the minus sign in the denominator [1]: f = f₀ × v ÷ (v − v_s) = 600 × 340 ÷ (340 − 30) = 600 × 340 ÷ 310 [1] = **658 Hz** [1].
+**(b)** Receding, so use the plus sign [1]: f = 600 × 340 ÷ (340 + 30) = 600 × 340 ÷ 370 = **551 Hz** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -94,3 +110,8 @@ Uses (any three): radio — broadcasting [1]; microwave — cooking or satellite
 - Giving the EM spectrum in the wrong direction when "increasing wavelength" is specified.
 - Saying intensity is proportional to amplitude rather than amplitude squared.
 - Explaining the Doppler effect as the source "pushing" the waves.
+- Applying Malus's law to **unpolarised** light — the cos²θ relationship only applies once light is **already plane-polarised**; this specification only requires the already-polarised-light case.
+- Using the wrong sign in the Doppler denominator — approaching always makes the denominator **smaller** (v − v_s), which is what raises the frequency; mixing the signs up gives an answer on the wrong side of the source frequency entirely.
+- Forgetting that the **source frequency itself never changes** in the Doppler effect — only the frequency *heard* by the observer changes, because of how the wavefronts bunch together or spread out.
+
+A useful way to keep the two calculation-heavy parts of this topic straight: Malus's law is about **what fraction of an already-polarised beam gets through a second filter at an angle**, while the Doppler equation is about **how relative motion compresses or stretches the wavefronts between source and observer** — different physical mechanisms, but both frequently tested as two-part numerical questions rather than pure definitions. See the [Waves revision notes](/resources/as-physics-waves-revision-notes/) for the underlying formulae and exam traps in condensed form.

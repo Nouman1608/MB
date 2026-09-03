@@ -50,6 +50,17 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 
 **6.** Explain the difference between addition and condensation polymerisation, and give one example of a condensation polymer with the linkage it contains. **[4]**
 
+**7.** A sample of poly(chloroethene) (PVC) has the repeat unit –[CH₂–CHCl]–.
+
+**(a)** Deduce the structure of the monomer used to make this polymer, explaining your method. **[3]**
+**(b)** State the type of polymerisation used, and explain how you can tell from the repeat unit alone. **[2]**
+
+**8.** Proteins and nylon both contain the same type of linkage.
+
+**(a)** Name the linkage common to both, and name the natural monomers that join to form it in proteins. **[2]**
+**(b)** Explain, with reference to hydrolysis, what this linkage breaks down into in each case. **[2]**
+**(c)** Starch and cellulose are natural polymers of glucose. Name the linkage joining glucose units, and state the product of hydrolysing starch. **[2]**
+
 ---
 
 ## Answers
@@ -70,6 +81,13 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 
 **6.** In **addition** polymerisation, **unsaturated monomers join with no other product** [1]. In **condensation** polymerisation, **each monomer has two functional groups** and a **small molecule such as water is eliminated** at each link [1]. Example: **nylon**, which contains **amide linkages** [1] [1]. (Or a polyester containing ester linkages.)
 
+**7. (a)** Working backwards: put the **double bond back** between the two carbons and **remove the extending bonds** [1], giving **CH₂=CHCl** [1], chloroethene [1].
+**(b)** **Addition** polymerisation [1]; the repeat unit shows only a **two-carbon unit joined by single C–C bonds with no other linking group** — no ester or amide link and no small molecule needed to explain how the units joined, which is the signature of addition rather than condensation [1].
+
+**8. (a)** The **amide** (peptide) linkage, –CONH– [1]; **amino acids** [1].
+**(b)** **Hydrolysis** breaks the amide linkage back into its original monomers in both cases [1]: in nylon this regenerates the **diamine and diacid** used to make it, and in protein it regenerates the **amino acids** that made up the chain [1].
+**(c)** The **glycosidic** linkage [1]; hydrolysing starch produces **glucose** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -78,3 +96,8 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 - Forgetting the bonds must pass through the brackets.
 - Giving an advantage of recycling without acknowledging the sorting problem.
 - Saying condensation polymers have 100% atom economy.
+- Trying to "work backwards" from a repeat unit by simply deleting the brackets and n, without putting the double bond back in — the double bond has to be reinserted between the two carbons that were joined by single bonds in the polymer.
+- Describing proteins as synthetic polymers, or forgetting that the same amide linkage found in nylon also holds proteins together — this is exactly why the two are compared so often.
+- Naming the wrong hydrolysis product for starch: it is glucose, not the smaller sugars or amino acids that come from other biological polymers.
+
+Both new questions above rely on running the logic of the [Polymers revision notes](/resources/polymers-revision-notes/) in reverse — deducing a monomer from a given repeat unit, or a linkage's breakdown products from hydrolysis — rather than only building a polymer forwards from its monomer, which is the direction most textbook questions default to.

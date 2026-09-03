@@ -47,14 +47,22 @@ ethene            poly(ethene)
 
 **Working backwards** (polymer → monomer): find the repeat unit, put the double bond back between the two carbons, remove the extending bonds.
 
-Naming: poly + (monomer name), e.g. poly(chloroethene) = PVC.
+```
+Worked example: a polymer's repeat unit is -[CH2-CHCH3]-.
+Put the double bond back between the two carbons and remove the extending bonds:
+CH2=CHCH3, propene.
+```
+
+Naming: poly + (monomer name), e.g. poly(chloroethene) = PVC — always check whether the question wants the systematic name (chloroethene) or the common/trade name (PVC, Terylene), since both appear across past papers.
 
 ## Condensation polymerisation
 
 - **Polyamide (nylon)** — dicarboxylic acid + diamine → amide link **–CONH–**, water lost.
-- **Polyester (PET/Terylene)** — dicarboxylic acid + diol → ester link **–COO–**, water lost.
+- **Polyester (PET/Terylene)** — dicarboxylic acid + diol → ester link **–COO–**, water lost. PET's own name, poly(ethylene terephthalate), names both monomers directly.
 
 Draw these as blocks joined by the linkage, with the lost water molecules shown.
+
+**PET is recyclable back to its monomers.** Because the ester linkage holding it together is the reverse of the reaction that formed it, PET can be broken back down into its original dicarboxylic acid and diol monomers, then re-polymerised into new PET — a distinction worth knowing, since not every plastic can be recycled this molecular way.
 
 ## Natural polymers
 
@@ -62,17 +70,17 @@ Draw these as blocks joined by the linkage, with the lost water molecules shown.
 |---|---|---|
 | Protein | Amino acids | **Amide** (peptide) — same link as nylon |
 | Starch / cellulose | Glucose | Glycosidic |
-| DNA | Nucleotides | — |
+| DNA | Nucleotides | Phosphodiester (nucleotides joined via sugar-phosphate bonds) |
 
-Proteins are natural **polyamides**, which is why nylon and protein share the –CONH– link.
+Proteins are natural **polyamides**, which is why nylon and protein share the –CONH– link — the same condensation-polymerisation principle at work in living organisms as in a nylon factory, just built from amino acid monomers instead of a diamine and a dicarboxylic acid.
 
-**Hydrolysis** breaks these down: protein → amino acids; starch → glucose.
+**Hydrolysis** breaks these down: protein → amino acids; starch → glucose. Hydrolysis is, in effect, condensation polymerisation run backwards — water is added back in at each linkage, splitting the chain at exactly the bonds that were formed by losing water in the first place.
 
 ## Plastics and the environment
 
 **Problems:** most addition polymers are **non-biodegradable** (the C–C backbone is unreactive), so they persist in landfill and oceans; burning PVC releases toxic HCl; they are made from finite crude oil.
 
-**Solutions:** recycling (but sorting is difficult and quality degrades), biodegradable and photodegradable plastics, reduced use, incineration with energy recovery and gas scrubbing.
+**Solutions:** recycling (but sorting is difficult and quality degrades — PET is the exception that can be recycled back to its own monomers), biodegradable and photodegradable plastics, reduced use, incineration with energy recovery and gas scrubbing. See the [Polymers study guide](/resources/polymers/) for the full syllabus coverage and worked examples behind every table above.
 
 ## Exam traps
 
@@ -81,6 +89,8 @@ Proteins are natural **polyamides**, which is why nylon and protein share the �
 - Include the brackets and the **n** when drawing a repeat unit.
 - The repeat unit of poly(ethene) is –CH₂–CH₂–, not CH₂=CH₂.
 - Say polymers are non-biodegradable "because the C–C bonds are strong and unreactive, so microorganisms have no enzymes to break them" — not just "they don't rot".
+- Assuming every plastic can be recycled back to its monomers like PET — that reversibility is specific to condensation polymers with ester or amide linkages, not a general property of plastics.
+- Forgetting to reinsert the double bond when deducing a monomer from an addition polymer's repeat unit — simply deleting the brackets and n is not enough.
 
 ## Self-test
 
@@ -89,5 +99,7 @@ Proteins are natural **polyamides**, which is why nylon and protein share the �
 3. Which linkage is present in nylon, and what else contains it?
 4. Why are addition polymers non-biodegradable?
 5. Name the monomers needed to make a polyester.
+6. Why can PET be recycled back into new PET, when many other plastics cannot be recycled this way?
+7. A polymer's repeat unit is –[CH₂–CHCH₃]–. Deduce the monomer it was made from.
 
-**Answers:** 1. Addition uses unsaturated monomers and loses no small molecule; condensation uses two monomers each with two functional groups and loses water. 2. Two carbons in the backbone, one carrying a CH₃ side group and the rest hydrogens, with bonds extending either side and n outside the brackets. 3. The amide link –CONH–; also found in proteins, which are natural polyamides. 4. The saturated C–C backbone is strong and unreactive, and microorganisms have no enzymes capable of breaking it. 5. A dicarboxylic acid and a diol.
+**Answers:** 1. Addition uses unsaturated monomers and loses no small molecule; condensation uses two monomers each with two functional groups and loses water. 2. Two carbons in the backbone, one carrying a CH₃ side group and the rest hydrogens, with bonds extending either side and n outside the brackets. 3. The amide link –CONH–; also found in proteins, which are natural polyamides. 4. The saturated C–C backbone is strong and unreactive, and microorganisms have no enzymes capable of breaking it. 5. A dicarboxylic acid and a diol. 6. Its ester linkages are formed by condensation, a reaction that can be run in reverse to break the polymer back down into its original dicarboxylic acid and diol monomers, which most addition polymers' unreactive C–C backbones cannot. 7. CH₂=CHCH₃, propene — put the double bond back between the two carbons and remove the extending bonds.

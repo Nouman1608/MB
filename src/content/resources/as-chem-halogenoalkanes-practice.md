@@ -53,6 +53,18 @@ Related: [Halogenoalkanes revision notes](/resources/as-chem-halogenoalkanes-rev
 
 **6.** Explain why CFCs damage the ozone layer, naming the type of mechanism. **[4]**
 
+**7.** 2-bromo-2-methylpropane, a tertiary halogenoalkane, is hydrolysed with water.
+
+**(a)** State the mechanism, and explain why a tertiary halogenoalkane favours this mechanism over the alternative. **[3]**
+**(b)** State the rate equation for this mechanism. **[1]**
+**(c)** The starting halogenoalkane is optically active. State what happens to the optical activity of the product, explaining your answer in terms of the reaction's intermediate. **[2]**
+
+**8.** A halogenoalkane is heated under reflux with ethanolic potassium cyanide.
+
+**(a)** Name the type of reaction and the functional group in the product. **[2]**
+**(b)** Explain, in terms of the atoms involved, why the product has one more carbon atom than the starting halogenoalkane. **[2]**
+**(c)** State the reagent and conditions needed to convert the same halogenoalkane into a primary amine instead. **[2]**
+
 ---
 
 ## Answers
@@ -74,6 +86,14 @@ Related: [Halogenoalkanes revision notes](/resources/as-chem-halogenoalkanes-rev
 
 **6.** UV light causes **homolytic fission** of the C–Cl bond, producing **chlorine radicals** [1]. A chlorine radical reacts with ozone: `Cl• + O₃ → ClO• + O₂` [1]. The ClO• then reacts with another ozone or oxygen radical, **regenerating Cl•** [1]. Because the radical is regenerated, **one radical destroys many ozone molecules** — a **radical chain** mechanism [1].
 
+**7. (a)** **SN1** [1]. The three alkyl groups attached to the central carbon are **electron-donating**, which stabilises the intermediate **carbocation** [1]; a tertiary carbon is also too sterically hindered for a nucleophile to attack directly in one step [1].
+**(b)** rate = k[halogenoalkane] — the nucleophile does **not** appear, since only the C–X bond-breaking step is rate-determining [1].
+**(c)** The product is **racemic** (optically inactive) [1], because the reaction goes via a **planar carbocation** that can be attacked by the nucleophile from either face with equal probability, giving equal amounts of both enantiomers [1].
+
+**8. (a)** **Nucleophilic substitution** [1]; the product contains a **nitrile** group, –C≡N [1].
+**(b)** The **cyanide ion attacks through its carbon atom**, forming a new C–C bond between the original halogenoalkane's carbon skeleton and the carbon of the CN group [1], so the nitrile carbon becomes an additional carbon in the chain, one more than the starting halogenoalkane had [1].
+**(c)** **Excess ethanolic ammonia, heated in a sealed tube** [1], giving a **primary amine** as the major product [1].
+
 ---
 
 ## Where marks are usually lost
@@ -82,3 +102,9 @@ Related: [Halogenoalkanes revision notes](/resources/as-chem-halogenoalkanes-rev
 - Curly arrows starting at the atom rather than the lone pair or bond.
 - Not stating that the CFC chlorine radical is regenerated.
 - Forgetting that the solvent, not the reagent, decides substitution vs elimination.
+- Including the nucleophile in an SN1 rate equation — it plays no part in the rate-determining step, so only the halogenoalkane concentration appears.
+- Explaining racemisation in SN1 without mentioning the **planar carbocation** and attack from either face — "it just loses its optical activity" scores nothing on its own.
+- Forgetting the cyanide ion attacks through its **carbon**, not its nitrogen — this is exactly why the chain lengthens by one carbon rather than staying the same length.
+- Naming ethanolic ammonia at room temperature instead of a sealed tube — without the sealed tube, ammonia gas simply escapes rather than reacting under pressure.
+
+Questions 7 and 8 draw on the mechanism-selection table and the "three routes" and "reactions to know" sections of the [Halogenoalkanes revision notes](/resources/as-chem-halogenoalkanes-revision-notes/) — material the questions above don't reach, since they focus on primary-halogenoalkane SN2 substitution, elimination and the aqueous silver nitrate rate test.
