@@ -66,6 +66,20 @@ Related: [Periodicity revision notes](/resources/as-chem-periodicity-revision-no
 
 **6.** Explain what happens when aluminium oxide is added to (a) hydrochloric acid, (b) sodium hydroxide, and state the term used to describe such behaviour. **[3]**
 
+**7.** Sodium chloride and silicon tetrachloride are each added to water separately.
+
+**(a)** Describe what is observed in each case. **[2]**
+
+**(b)** Explain the difference in terms of bonding. **[3]**
+
+**8.** First ionisation energy generally increases across Period 3, but there are dips at aluminium and at sulfur.
+
+**(a)** Explain the general increasing trend across the period. **[2]**
+
+**(b)** Explain why aluminium has a lower first ionisation energy than magnesium. **[2]**
+
+**(c)** Explain why sulfur has a lower first ionisation energy than phosphorus. **[2]**
+
 ---
 
 ## Answers
@@ -94,6 +108,13 @@ Related: [Periodicity revision notes](/resources/as-chem-periodicity-revision-no
 **(b)** It also reacts, behaving as an **acid**, forming the aluminate ion [1].
 It is described as **amphoteric** [1].
 
+**7. (a)** Sodium chloride **dissolves with no visible reaction**, giving a neutral (pH 7) solution [1]. Silicon tetrachloride undergoes **violent hydrolysis**, giving off **misty white fumes of hydrogen chloride** and leaving an acidic (pH ≈ 2) solution [1].
+**(b)** Sodium chloride is **ionic**, so it simply dissociates into its existing Na⁺ and Cl⁻ ions on dissolving [1]. Silicon tetrachloride is **covalent**, so instead of dissolving as intact molecules it **reacts with water**, breaking Si–Cl bonds and forming Si–O bonds as well as releasing HCl [1] — the transition from dissolving to hydrolysing tracks the change from ionic to covalent bonding across the period [1].
+
+**8. (a)** Across the period, **nuclear charge increases** while electrons enter the same outer shell with **roughly constant shielding** [1], so successive outer electrons are held **more strongly**, raising the energy needed to remove one [1].
+**(b)** Aluminium's outer electron is in a **3p** subshell, which is at **higher energy** and further from the nucleus (partially shielded by the 3s² electrons) than magnesium's outer 3s electron [1], so despite aluminium's greater nuclear charge, its outer electron is **easier to remove** [1].
+**(c)** Sulfur's fourth 3p electron must **pair up** in an already-occupied 3p orbital, unlike phosphorus's three unpaired 3p electrons (one in each orbital) [1]; the extra **electron–electron repulsion** in that paired orbital makes sulfur's outer electron easier to remove, despite sulfur's greater nuclear charge [1].
+
 ---
 
 ## Where marks are usually lost
@@ -102,3 +123,7 @@ It is described as **amphoteric** [1].
 - Comparing "molecule size" rather than **number of electrons** for induced dipole strength.
 - Forgetting that Al₂O₃ is amphoteric.
 - Not linking the oxide trend to the metal/non-metal change.
+- Describing SiCl₄'s reaction with water as "dissolving" — it is a chemical reaction (hydrolysis), not a physical change of state.
+- Explaining the Al and S ionisation-energy dips with vague phrases like "it's an exception" instead of naming the specific electron configuration reason (subshell energy for Al, electron pairing for S).
+
+Questions 7 and 8 draw on the chlorides-with-water table and the first-ionisation-energy trend in the [Periodicity revision notes](/resources/as-chem-periodicity-revision-notes/), material the earlier questions on this page don't reach.

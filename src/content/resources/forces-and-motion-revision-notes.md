@@ -20,7 +20,18 @@ featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
-[Forces and Motion study guide](/resources/forces-and-motion/).
+[Forces and Motion study guide](/resources/forces-and-motion/), and for
+exam-style practice with mark-scheme answers see the
+[Forces and Motion practice questions](/resources/forces-and-motion-practice/).
+
+## Types of force
+
+The syllabus names nine forces you should be able to recognise: weight,
+friction, drag, air resistance, tension, electrostatic force, magnetic
+force, thrust, and contact force. A **free-body diagram** shows only the
+object of interest, with one arrow per force acting on it — arrow length
+roughly shows size, arrow direction shows direction. Draw one before
+calculating anything; it is the fastest way to spot the resultant.
 
 ## Newton's three laws
 
@@ -40,6 +51,12 @@ weight:  W = m g       (g = 9.8 or 10 N/kg)
 
 **Mass** is the amount of matter in kg and never changes. **Weight** is a force in newtons and changes with gravitational field strength.
 
+**Worked example.** A resultant force of 15 N acts on a 3 kg object.
+
+```
+a = F / m = 15 / 3 = 5 m/s2
+```
+
 ## Resultant force
 
 Forces along one line add algebraically. Direction matters — forces are **vectors**.
@@ -50,6 +67,20 @@ Resultant = 4000 - 1500 = 2500 N forward
 ```
 
 The **driving force is not the resultant** — the resultant is what remains after drag and friction. This is the single most common error in the topic.
+
+## Circular motion (qualitative)
+
+A resultant force acting perpendicular to an object's motion changes its
+direction without (necessarily) changing its speed — this is how circular
+motion works. With everything else held constant:
+
+- Speed **increases** if force increases.
+- Radius **decreases** if force increases — a tighter circle needs a
+bigger force at the same speed.
+- A bigger mass needs a bigger force to keep speed and radius the same.
+
+`F = mv2/r` is **not required** at this level — give the qualitative
+relationships only, never the equation.
 
 ## Terminal velocity
 
@@ -75,7 +106,7 @@ Doubling speed **doubles** thinking distance but **quadruples** braking distance
 
 ## Third-law pairs — how to check
 
-A genuine pair: same type of force · equal size · opposite direction · acting on **two different bodies**.
+A genuine pair: same type of force · equal size · opposite direction · acting on **two different bodies**. Same type of force is the check most students skip — a weight force can only pair with another weight force, never with a contact force, even if the sizes happen to match.
 
 A book on a table: weight (Earth on book) and normal contact force (table on book) both act on the **book**, so they are a first-law balance, **not** a third-law pair.
 
@@ -86,6 +117,8 @@ A book on a table: weight (Earth on book) and normal contact force (table on boo
 - Saying an object at terminal velocity "has no forces on it" — it has no **resultant** force.
 - Naming a third-law pair that acts on the same object.
 - Forgetting braking distance scales with v², not v.
+- Trying to use `F = mv2/r` — it is explicitly excluded from this syllabus; answer circular-motion questions with the qualitative trends only.
+- Skipping the free-body diagram and guessing the resultant — draw the arrows first.
 
 ## Self-test
 
@@ -94,5 +127,7 @@ A book on a table: weight (Earth on book) and normal contact force (table on boo
 3. Explain terminal velocity in three steps.
 4. Why is the weight of a book and the table's push on it *not* a third-law pair?
 5. A car doubles its speed. What happens to thinking and braking distance?
+6. Name the nine force types the syllabus expects you to recognise.
+7. A ball on a string is swung in a horizontal circle at constant speed. If the string is shortened while the speed stays the same, what happens to the force needed, and why?
 
-**Answers:** 1. F = 1500 × 2 = **3000 N**. 2. 3000 + 600 = **3600 N**. 3. Weight causes acceleration; drag increases with speed; when drag equals weight the resultant is zero and velocity becomes constant. 4. Both forces act on the same object (the book); a third-law pair must act on two different bodies. 5. Thinking distance doubles; braking distance quadruples.
+**Answers:** 1. F = 1500 × 2 = **3000 N**. 2. 3000 + 600 = **3600 N**. 3. Weight causes acceleration; drag increases with speed; when drag equals weight the resultant is zero and velocity becomes constant. 4. Both forces act on the same object (the book); a third-law pair must act on two different bodies. 5. Thinking distance doubles; braking distance quadruples. 6. Weight, friction, drag, air resistance, tension, electrostatic force, magnetic force, thrust, contact force. 7. The force needed **increases** — with speed and mass unchanged, a smaller radius needs a bigger centre-seeking force to keep the ball on its (now tighter) circular path.

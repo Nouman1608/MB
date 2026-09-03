@@ -69,6 +69,18 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 
 **(b)** Explain what causes an M+1 peak, and what its relative height indicates. **[3]**
 
+**7.** A mass spectrum shows fragment peaks formed by the loss of 15 and 45 mass units from the molecular ion.
+
+**(a)** Suggest the identity of each fragment lost. **[2]**
+
+**(b)** State the functional group these two losses together suggest is present. **[1]**
+
+**8.** An IR spectrum shows a sharp peak at about 2240 cm⁻¹ and a medium-intensity peak, with two components, at about 3350–3400 cm⁻¹.
+
+**(a)** Identify the bond responsible for each absorption. **[2]**
+
+**(b)** State the functional group each absorption is consistent with. **[2]**
+
 ---
 
 ## Answers
@@ -96,6 +108,12 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 
 **(b)** The **¹³C isotope**, present at about **1.1% natural abundance** [1]. Its height relative to M indicates the **number of carbon atoms** in the molecule [1] — roughly, the percentage height divided by 1.1 [1].
 
+**7. (a)** Loss of 15: **CH₃** [1]. Loss of 45: **COOH** [1]. Both are standard losses worth recognising directly from the fragment mass, without working out a full structure first.
+**(b)** A **carboxylic acid** group [1] — losing 45 (COOH) directly from the molecular ion is a strong indicator on its own, and losing 15 (CH₃) as well narrows the structure further, consistent with a short-chain carboxylic acid such as propanoic or ethanoic acid.
+
+**8. (a)** The sharp peak at ~2240 cm⁻¹ is a **C≡N** bond [1]; the peak at ~3350–3400 cm⁻¹, appearing as two components, is an **N–H** bond, distinct from the broader O–H absorptions seen elsewhere in the spectrum [1].
+**(b)** C≡N is consistent with a **nitrile** [1]; N–H appearing as **two** peaks (rather than one) is consistent with a **primary amine** (–NH₂), which has two N–H bonds able to stretch independently of one another, unlike a secondary amine's single N–H bond [1].
+
 ---
 
 ## Where marks are usually lost
@@ -105,3 +123,8 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 - Reversing the chlorine and bromine M+2 ratios.
 - Taking an isotope peak as the molecular ion.
 - Reading the base peak (tallest) as the molecular ion.
+- Confusing a nitrile's sharp C≡N absorption (~2220–2260) with a carbonyl's C=O (~1680–1750) — very different wavenumbers, easy to mix up if only skimming for "a sharp peak."
+- Forgetting that a **primary** amine's N–H shows as **two** peaks (symmetric and asymmetric stretching of the two N–H bonds), while a secondary amine shows only one.
+- Guessing a fragment's identity from its mass alone without checking it against the standard loss table (15, 17, 29, 31, 45).
+
+Questions 7 and 8 draw on the fragmentation-loss table and the amine/nitrile absorptions from the [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry-ir-mass-spec-revision-notes/), material the earlier questions on this page don't reach, since they focus on the carbonyl/hydroxyl decision tree and halogen isotope patterns instead.

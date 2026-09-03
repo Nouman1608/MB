@@ -54,6 +54,20 @@ Related: [Enzymes revision notes](/resources/enzymes-revision-notes/)
 
 **6.** Give **two** uses of enzymes in industry and explain the benefit of each. **[4]**
 
+**7.** A student investigates the effect of substrate concentration on the rate of an enzyme-catalysed reaction, keeping enzyme concentration, temperature and pH constant.
+
+**(a)** Describe the shape of the graph of rate against substrate concentration. **[2]**
+
+**(b)** Explain why the rate plateaus at high substrate concentration. **[2]**
+
+**(c)** Suggest **one** change to the reaction mixture that would raise the plateau to a higher rate. **[1]**
+
+**8.** Trypsin has an optimum pH of about 8, unlike pepsin (pH 2) or amylase (pH 7).
+
+**(a)** State where in the body trypsin is most likely to act, and explain your answer. **[2]**
+
+**(b)** Describe a suitable practical method for measuring the rate of the reaction between catalase and hydrogen peroxide. **[3]**
+
 ---
 
 ## Answers
@@ -74,6 +88,13 @@ Related: [Enzymes revision notes](/resources/enzymes-revision-notes/)
 
 **6.** Any two, each for 2 marks: **biological washing powders** contain proteases and lipases [1] that digest protein and fat stains at lower temperatures, saving energy [1]. **Lactase** is used to make lactose-free milk [1] for people who are lactose intolerant [1]. **Pectinase** is used in fruit juice production [1] to increase juice yield and clarity [1].
 
+**7. (a)** Rate **rises steeply at first**, then the increase **slows and levels off into a plateau** at high substrate concentration [1] [1].
+**(b)** At high substrate concentration **all the active sites are occupied** at any given moment [1], so the **enzyme concentration becomes the limiting factor** and extra substrate cannot be processed any faster [1].
+**(c)** **Increase the enzyme concentration** [1], which provides more active sites for the excess substrate to bind to.
+
+**8. (a)** The **small intestine** [1], because it is **alkaline** there (unlike the acidic stomach), matching trypsin's alkaline optimum pH [1].
+**(b)** Mix catalase with hydrogen peroxide and **collect the oxygen gas produced in a gas syringe** [1], **timing how much gas is collected in fixed time intervals** [1]; a **steeper** volume-against-time graph indicates a **faster reaction** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -82,3 +103,7 @@ Related: [Enzymes revision notes](/resources/enzymes-revision-notes/)
 - Explaining the fall above the optimum without mentioning the active site's shape.
 - Listing control variables that are not actually relevant to the investigation.
 - Saying cold denatures enzymes.
+- Explaining the substrate-concentration plateau by reaching for the temperature/pH denaturation explanation instead of the correct one — the enzyme's active sites simply become saturated, nothing is denatured.
+- Assuming every digestive enzyme has an optimum pH of 7 — trypsin's alkaline optimum (~8) is easily confused with amylase's neutral one (~7) if the specific enzyme in the question isn't checked carefully.
+
+Questions 7 and 8 draw on the substrate-concentration and reaction-progress sections of the [Enzymes revision notes](/resources/enzymes-revision-notes/) — material the earlier questions on this page don't reach, since they focus on temperature and pH rather than substrate concentration or practical method.

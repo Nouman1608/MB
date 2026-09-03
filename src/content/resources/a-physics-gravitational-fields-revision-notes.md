@@ -43,11 +43,22 @@ potential energy    Ep = -G M m / r              J
 
 **Everything is measured from the centre** of the body, not the surface. For a satellite at height h above a planet of radius R, use `r = R + h`.
 
+**G = 6.67 × 10⁻¹¹ N m² kg⁻²** — the gravitational constant, the same everywhere in the universe.
+
+**Field lines** represent the field: they point in the direction of the force on a small test mass, and are drawn **closer together where the field is stronger**.
+
+```
+Worked example: Earth's mass = 5.97 x 10^24 kg, radius = 6.37 x 10^6 m.
+g = GM/r^2 = (6.67 x 10^-11 x 5.97 x 10^24) / (6.37 x 10^6)^2 = 9.8 N/kg
+```
+
+This confirms g = 9.81 m/s² used throughout AS mechanics is not an arbitrary constant, but a direct consequence of Newton's law of gravitation applied at the Earth's surface.
+
 ## Why potential is negative
 
 Gravitational potential is defined as **zero at infinity**. Since gravity is always attractive, work must be done *on* a mass to move it to infinity — so at any finite distance the potential is negative.
 
-Potential **increases** (becomes less negative) as r increases.
+Potential **increases** (becomes less negative) as r increases, approaching zero as r approaches infinity but never becoming positive for a real, finite separation.
 
 ## Field strength vs potential
 
@@ -59,11 +70,11 @@ Potential **increases** (becomes less negative) as r increases.
 | Units | N/kg | J/kg |
 | At infinity | 0 | 0 |
 
-Relationship: `g = −dφ/dr` — field strength is the **negative gradient of the potential**.
+Relationship: `g = −dφ/dr` — field strength is the **negative gradient of the potential**. See the [Gravitational Fields study guide](/resources/a-physics-gravitational-fields/) for the full derivations and worked reasoning behind every equation above.
 
 ## Orbits
 
-For a circular orbit, gravity provides the centripetal force:
+For a circular orbit, gravity provides the entire centripetal force needed to keep the satellite on its curved path:
 
 ```
 G M m / r^2 = m v^2 / r     ->    v = sqrt(G M / r)
@@ -73,19 +84,19 @@ and using v = 2 pi r / T:
 T^2 = (4 pi^2 / G M) r^3      <- Kepler's third law
 ```
 
-So `T² ∝ r³`. The orbiting mass **cancels** — orbital speed and period depend only on the central mass and the radius.
+So `T² ∝ r³`. The orbiting mass **cancels** — orbital speed and period depend only on the central mass and the radius, which is exactly why every satellite at a given radius above a given planet, regardless of its own mass, keeps the same period.
 
-**Geostationary orbit:** period exactly 24 hours, orbiting west to east, directly above the **Equator**, radius ≈ 42 000 km from Earth's centre.
+**Geostationary orbit:** period exactly 24 hours, orbiting west to east, directly above the **Equator**, radius ≈ 42 000 km from Earth's centre — all three conditions together are what let the satellite stay fixed above the same point on the ground as the Earth turns beneath it.
 
 ## Escape velocity
 
-Total energy must reach zero:
+Escape velocity is the minimum launch speed for which total energy (kinetic plus gravitational potential) just reaches zero, allowing the object to reach infinity with nothing left over:
 
 ```
 1/2 m v^2 = G M m / r     ->    v_esc = sqrt(2 G M / r)
 ```
 
-Independent of the escaping object's mass.
+Independent of the escaping object's mass, since m cancels from both sides of the energy equation, leaving only the central mass M and the starting distance r.
 
 ## Exam traps
 
@@ -95,6 +106,8 @@ Independent of the escaping object's mass.
 - Confusing g (1/r²) with φ (1/r).
 - Forgetting that geostationary requires equatorial, west-to-east **and** 24 hours — all three.
 - Assuming a heavier satellite orbits faster; mass cancels.
+- Forgetting the value or units of G (6.67 × 10⁻¹¹ N m² kg⁻²) when a numerical question doesn't supply it directly.
+- Drawing field lines further apart where the field is actually stronger — closer lines always mean a stronger field, never the reverse.
 
 ## Self-test
 
@@ -103,5 +116,7 @@ Independent of the escaping object's mass.
 3. Derive T² ∝ r³ for a circular orbit.
 4. State the three conditions for a geostationary orbit.
 5. Does a more massive satellite need a greater orbital speed at the same radius?
+6. State the value and units of the gravitational constant G.
+7. A planet has mass 6.4 × 10²³ kg and radius 3.4 × 10⁶ m. Calculate the gravitational field strength at its surface.
 
-**Answers:** 1. F = GMm/r², where r is the distance between the **centres** of the two masses. 2. Potential is defined as zero at infinity and gravity is attractive, so work must be done on a mass to move it to infinity; at any finite separation the potential is therefore negative. 3. GMm/r² = mv²/r gives v² = GM/r; substituting v = 2πr/T gives 4π²r²/T² = GM/r, so T² = (4π²/GM)r³. 4. Period of 24 hours, orbiting west to east, directly above the Equator. 5. No — the satellite's mass cancels, so orbital speed depends only on the central mass and the orbital radius.
+**Answers:** 1. F = GMm/r², where r is the distance between the **centres** of the two masses. 2. Potential is defined as zero at infinity and gravity is attractive, so work must be done on a mass to move it to infinity; at any finite separation the potential is therefore negative. 3. GMm/r² = mv²/r gives v² = GM/r; substituting v = 2πr/T gives 4π²r²/T² = GM/r, so T² = (4π²/GM)r³. 4. Period of 24 hours, orbiting west to east, directly above the Equator. 5. No — the satellite's mass cancels, so orbital speed depends only on the central mass and the orbital radius. 6. G = 6.67 × 10⁻¹¹ N m² kg⁻². 7. g = GM/r² = (6.67 × 10⁻¹¹ × 6.4 × 10²³) ÷ (3.4 × 10⁶)² ≈ **3.7 N/kg**.

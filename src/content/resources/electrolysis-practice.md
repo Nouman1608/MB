@@ -65,6 +65,18 @@ Related: [Electrolysis revision notes](/resources/electrolysis-revision-notes/)
 **(a)** Write the overall equation. **[1]**
 **(b)** Give **two** advantages and **two** disadvantages compared with a rechargeable battery. **[4]**
 
+**7.** Copper(II) sulfate solution is electrolysed twice, once with inert (carbon) electrodes and once with copper electrodes.
+
+**(a)** State the products formed at each electrode using inert electrodes. **[2]**
+
+**(b)** Explain how the result at each electrode differs when copper electrodes are used instead, and why the electrolyte's colour and concentration stay roughly constant throughout. **[3]**
+
+**8.** Compare a hydrogen fuel cell with a petrol engine, rather than with a battery.
+
+**(a)** State one substance produced by a petrol engine but not by a fuel cell, other than water. **[1]**
+
+**(b)** Explain, in terms of energy losses, why a fuel cell is generally more efficient than a petrol engine. **[2]**
+
 ---
 
 ## Answers
@@ -87,6 +99,12 @@ Related: [Electrolysis revision notes](/resources/electrolysis-revision-notes/)
 **(b)** Advantages: the **only product is water**, so there are no polluting emissions at point of use [1]; it **does not need recharging** — it runs as long as fuel is supplied, and there are no toxic metals to dispose of [1].
 Disadvantages: hydrogen is **difficult and hazardous to store and transport**, being a highly flammable gas [1]; the hydrogen is usually **manufactured from fossil fuels or by electrolysis using electricity**, so the process is not carbon-free overall [1].
 
+**7. (a)** Cathode: **copper** deposits (Cu²⁺ + 2e⁻ → Cu) [1]. Anode: **oxygen** gas forms [1].
+**(b)** With copper electrodes, copper still deposits at the cathode, but at the anode the **copper dissolves into solution instead** of oxygen being released [1]. Because the mass of copper leaving the anode roughly equals the mass depositing at the cathode, the **concentration of Cu²⁺ ions, and therefore the blue colour, stays approximately constant** [1] — unlike with inert electrodes, where Cu²⁺ ions are steadily removed from solution as oxygen escapes instead of being replaced [1].
+
+**8. (a)** Any one: **carbon dioxide**, **carbon monoxide**, or **oxides of nitrogen (NOₓ)** [1].
+**(b)** A petrol engine burns fuel and converts heat to mechanical motion, **losing a large fraction of the energy as waste heat at each stage** [1]; a fuel cell converts chemical energy **directly into electrical energy**, without an intermediate heat-to-motion step, so proportionally less energy is lost [1].
+
 ---
 
 ## Where marks are usually lost
@@ -95,3 +113,7 @@ Disadvantages: hydrogen is **difficult and hazardous to store and transport**, b
 - Saying sodium is produced at the cathode from aqueous NaCl.
 - Getting the anode and cathode the wrong way round in electroplating.
 - Claiming fuel cells are entirely pollution-free.
+- Forgetting that copper electrodes change the **anode's** product (dissolving rather than releasing oxygen) but not the cathode's — copper still deposits there either way.
+- Comparing a fuel cell only against a battery, when a question specifically asks about a petrol engine — the relevant differences (combustion products, efficiency, refuelling infrastructure) are different in each comparison.
+
+Questions 7 and 8 draw on the copper-electrode special case and the fuel-cell-vs-petrol-engine comparison in the [Electrolysis revision notes](/resources/electrolysis-revision-notes/), material the earlier questions on this page don't reach.

@@ -34,6 +34,24 @@ p = mv        impulse = Ft = delta-p
 
 For a perfectly elastic collision, the **relative speed of approach equals the relative speed of separation** — a useful shortcut that avoids simultaneous equations.
 
+**Ek = p²/2m** is a useful form of the kinetic energy equation when momentum, rather than velocity, is known directly — handy for checking whether a collision is elastic without first converting every momentum back to a velocity.
+
+**CORE PRACTICAL 9** investigates the relationship between force and change of momentum. **CORE PRACTICAL 10** uses ICT (e.g. video analysis software) to analyse collisions between small spheres such as ball bearings on a table top — the standard practical basis for two-dimensional momentum questions.
+
+```
+Worked example: a 0.15 kg ball moving at 8.0 m/s collides head-on with a
+stationary 0.25 kg ball. After the collision the first ball rebounds at
+2.0 m/s. Find the velocity of the second ball, and state whether the
+collision is elastic.
+
+Momentum:    (0.15 x 8.0) = (0.15 x -2.0) + (0.25 x v)
+             1.2 = -0.30 + 0.25v  ->  v = 6.0 m/s
+
+KE before:   0.5 x 0.15 x 8.0^2 = 4.8 J
+KE after:    0.5 x 0.15 x 2.0^2 + 0.5 x 0.25 x 6.0^2 = 0.3 + 4.5 = 4.8 J
+             Kinetic energy conserved -> ELASTIC
+```
+
 ## Circular motion
 
 ```
@@ -84,6 +102,8 @@ Below this the object leaves the circular path.
 - Claiming centripetal force does work.
 - Forgetting that at the top of a vertical circle *both* tension and weight act towards the centre.
 - Failing to resolve momentum into components in a two-dimensional collision.
+- Converting every momentum back to a velocity before checking kinetic energy, when Ek = p²/2m gives the answer directly from momentum and mass alone.
+- Confusing what each core practical investigates: Core Practical 9 is force and momentum change; Core Practical 10 is two-dimensional collision analysis by video.
 
 ## Self-test
 
@@ -92,5 +112,7 @@ Below this the object leaves the circular path.
 3. Why is an object in uniform circular motion accelerating?
 4. Why does the centripetal force do no work?
 5. Derive the minimum speed at the top of a vertical circle.
+6. Write the kinetic energy equation in terms of momentum, and state when this form is most useful.
+7. A 0.20 kg ball moving at 5.0 m/s collides with a stationary 0.30 kg ball; after the collision the first ball moves at 1.0 m/s in the same direction. Find the second ball's velocity and state whether the collision is elastic.
 
-**Answers:** 1. It is conserved independently in each of two perpendicular directions, so resolve into components and apply conservation to each separately. 2. a = v²/r and a = rω². 3. Velocity is a vector whose direction is continuously changing, so the velocity changes even at constant speed. 4. It acts perpendicular to the direction of motion, and work requires a component of force along the displacement. 5. At minimum speed the tension is zero, so weight alone provides the centripetal force: mg = mv²/r, giving v = √(gr).
+**Answers:** 1. It is conserved independently in each of two perpendicular directions, so resolve into components and apply conservation to each separately. 2. a = v²/r and a = rω². 3. Velocity is a vector whose direction is continuously changing, so the velocity changes even at constant speed. 4. It acts perpendicular to the direction of motion, and work requires a component of force along the displacement. 5. At minimum speed the tension is zero, so weight alone provides the centripetal force: mg = mv²/r, giving v = √(gr). 6. Ek = p²/2m; most useful when momentum, rather than velocity, is already known. 7. Momentum: (0.20 × 5.0) = (0.20 × 1.0) + (0.30 × v) → 1.0 = 0.20 + 0.30v → v = 2.67 m/s. KE before = ½(0.20)(5.0)² = 2.5 J; KE after = ½(0.20)(1.0)² + ½(0.30)(2.67)² ≈ 0.1 + 1.07 = 1.17 J — kinetic energy is not conserved, so the collision is **inelastic**.
