@@ -89,8 +89,95 @@ wanting higher profit versus employees wanting higher wages), so build a
 mental map of each stakeholder group's typical priorities rather than
 memorising a flat list.
 
+## Needs, wants and added value
+
+Economics starts from **scarcity**: resources are limited, but human wants
+are unlimited, so choices must always be made. Every choice carries an
+**opportunity cost** — the value of the next best alternative given up.
+Businesses exist to satisfy **needs** (essentials for survival, such as
+food, shelter and clothing) and **wants** (desirable but not essential),
+and they do this profitably by adding value along the way:
+
+```
+added value = selling price - cost of bought-in materials
+```
+
+Added value is **not** the same as profit — wages, rent and other costs
+still have to be paid out of it before what remains counts as profit. A
+business increases added value either by raising the price customers will
+pay, through branding, better design, superior customer service or
+convenience, or by reducing the cost of the materials it buys in.
+
+## Classifying business activity
+
+Business activity is classified into three **economic sectors**: the
+**primary** sector extracts natural resources (farming, mining, fishing);
+the **secondary** sector manufactures and processes (car assembly,
+baking); and the **tertiary** sector provides services (retail, banking,
+transport). As an economy develops, the relative importance of these
+sectors typically shifts — **deindustrialisation** describes the decline
+of the secondary sector and the rise of the tertiary sector, usually
+because manufacturing relocates to countries with lower labour costs
+while domestic incomes rise and demand shifts towards services.
+
+Businesses are also classified by ownership between the **private sector**
+(owned by individuals, usually profit-motivated) and the **public sector**
+(owned by government, aiming at service provision, employment and public
+welfare rather than profit) in a mixed economy.
+
+## Types of business organisation
+
+Choosing a legal structure means trading off capital, control and risk.
+A **sole trader** is easy to set up and keeps all the profit, but bears
+all the risk alone and has limited access to capital. A **partnership**
+(2–20 partners) brings in more capital and shared expertise, at the cost
+of shared profit and the possibility of disagreement between partners. A
+**private limited company (Ltd)** has a separate legal identity and
+sells shares privately rather than to the public. A **public limited
+company (plc)** can raise large amounts of capital by selling shares on
+the stock exchange, but is expensive to form, must publish its accounts,
+and faces both the **risk of takeover** and the **divorce of ownership
+from control** — shareholders own the business, but directors run it day
+to day, and the two groups' objectives may diverge.
+
+The single most examined distinction in this topic is **liability**.
+Sole traders and (usually) partnerships have **unlimited liability**,
+meaning the owner's **personal assets** can be taken to pay business
+debts if the business fails. Private and public limited companies have
+**limited liability**: the owner can lose only the amount they invested.
+Recommending a suitable form of organisation for a given business means
+weighing this liability risk against the need for capital and the wish
+to retain control.
+
+## Business objectives and stakeholders
+
+Businesses hold several objectives simultaneously, and their relative
+importance changes over time: **survival** is the priority for a new
+start-up, while established businesses shift towards **profit**,
+**growth** and **market share**; **social enterprises** pursue social and
+environmental aims alongside financial ones, reinvesting profit rather
+than distributing it.
+
+A **stakeholder** is any individual or group affected by, or with an
+interest in, a business's activities — owners, employees, customers,
+suppliers, government and the local community are the main groups.
+Their objectives frequently conflict: owners wanting to cut costs to
+raise profit sit uneasily alongside employees wanting higher wages, and
+customers wanting low prices sit uneasily alongside owners wanting
+higher margins. A strong answer on stakeholders does not just list the
+groups — it identifies a specific conflict, explains why the interests
+oppose one another, and evaluates which stakeholder the business should
+prioritise and why.
+
 ## Official syllabus
 
 Cambridge IGCSE Business Studies 0450 syllabus for 2026 (Version 2,
 December 2025) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697146-2026-syllabus.pdf).
+
+## Related resources
+
+Condensed for revision: the
+[Understanding Business Activity revision notes](/resources/igcse-business-understanding-activity-revision-notes/).
+For exam-style practice with full worked answers: the
+[Understanding Business Activity practice questions](/resources/igcse-business-understanding-activity-practice/).

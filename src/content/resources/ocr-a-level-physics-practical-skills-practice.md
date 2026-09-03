@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Practical Skills revision notes](/resources/ocr-a-level-physics-practical-skills-revision-notes/)
+Related: [Practical Skills revision notes](/resources/ocr-a-level-physics-practical-skills-revision-notes/) and the [full study guide](/resources/ocr-a-level-physics-development-of-practical-skills/).
 
 ---
 
@@ -56,22 +56,30 @@ Related: [Practical Skills revision notes](/resources/ocr-a-level-physics-practi
 **(b)** measuring the diameter at several points along a wire **[2]**
 **(c)** using a fiducial marker at the equilibrium position **[2]**
 
+**7.** A pendulum of length 0.800 m ± 0.005 m gives a period of 1.79 s ± 0.02 s, used to find g via T = 2π√(l/g).
+
+**(a)** Calculate the percentage uncertainty in l. **[1]**
+**(b)** Calculate the percentage uncertainty in T, and hence in T² (the quantity g depends on). **[2]**
+**(c)** State which measurement limits the accuracy of g, and suggest the most effective way to reduce its uncertainty. **[2]**
+
+**8.** A student records a results table with the unit written after every individual value instead of once in the column heading, and measures the diameter of a thin wire with a metre rule rather than a micrometer. Identify what is wrong with **each** choice, and state the correct approach. **[4]**
+
 ---
 
 ## Answers
 
-**1.** A **control variable** is a quantity kept constant so it does not affect the result [1]. A **control experiment** is a parallel run with the independent variable absent, to show the effect observed is caused by that variable [1].
+**1.** A **control variable** is a quantity kept constant so it does not affect the result [1]. A **control experiment** is a parallel run with the independent variable absent, to show the effect observed is genuinely caused by that variable and not by something else [1].
 
-**2. Repeatable** — the same person gets the same result using the **same method and equipment** [1]. **Reproducible** — the same result is obtained by a **different person or a different method** [1].
+**2. Repeatable** — the same person gets the same result using the **same method and equipment** [1]. **Reproducible** — the same result is obtained by a **different person, a different method, or different equipment** [1].
 
-**3. (a)** Independent: **mass** [1]. Dependent: **period** [1]. Control: the **spring constant / same spring**, or the amplitude [1].
-**(b)** Square both sides: T² = (4π²/k)m [1], so plot **T² against m** [1].
+**3. (a)** Independent: **mass** [1]. Dependent: **period** [1]. Control: the **spring constant / same spring**, or the amplitude of oscillation [1].
+**(b)** Square both sides: T² = (4π²/k)m [1], so plot **T² against m**, giving a straight line through the origin [1].
 **(c)** Gradient = **4π² ÷ k** [1], so k can be found from it [1].
 
 **4. (a)** A **systematic error** [1].
-**(b)** The **mass of the spring itself** has been neglected [1], since part of the spring oscillates and effectively adds to the mass [1].
+**(b)** The **mass of the spring itself** has been neglected [1], since part of the spring also oscillates and effectively adds to the load's mass, contributing even at m = 0 [1].
 
-**5. (a)** **0.51 mm** [1]; it should be **excluded from the mean** and, ideally, the measurement repeated [1].
+**5. (a)** **0.51 mm** [1]; it should be **excluded from the mean** and, ideally, the measurement repeated to confirm the remaining readings [1].
 **(b)** (0.42 + 0.43 + 0.42 + 0.42) ÷ 4 [1] = **0.4225 ≈ 0.42 mm** [1].
 **(c)** **±0.005 mm** — half the smallest division [1].
 **(d)** (0.005 ÷ 0.4225) × 100 [1] = **1.18%** [1].
@@ -79,6 +87,12 @@ Related: [Practical Skills revision notes](/resources/ocr-a-level-physics-practi
 **6. (a)** They **eliminate human reaction time** [1], which is a systematic error that repeating and averaging cannot remove [1].
 **(b)** The wire may **not be uniform** along its length [1], so a mean gives a more representative value and reduces random error [1].
 **(c)** The object moves **fastest at the equilibrium position** [1], so timing there is most consistent and the uncertainty in identifying the moment is smallest [1].
+
+**7. (a)** (0.005 ÷ 0.800) × 100 [1] = **0.63%** [1].
+**(b)** (0.02 ÷ 1.79) × 100 = 1.12% [1]; g depends on T², so the power rule doubles this to **2.24%** [1].
+**(c)** **Timing dominates** the overall uncertainty, contributing far more than the length measurement [1]; timing **20 oscillations and dividing by 20** would reduce it far more effectively than a more precise ruler [1].
+
+**8.** The **unit should be given once, in the column heading**, not repeated beside every value [1]. A **metre rule cannot resolve a thin wire's diameter precisely enough**; a **micrometer**, with a much finer resolution appropriate to the size of the quantity, should be used instead [1] [1] — the instrument's resolution must always match the size of what is being measured [1].
 
 ---
 
@@ -88,3 +102,5 @@ Related: [Practical Skills revision notes](/resources/ocr-a-level-physics-practi
 - Not squaring or rearranging to obtain a straight-line plot.
 - Including an anomaly in a mean.
 - Giving improvements without the specific reason they help.
+- Trying to reduce a systematic error by "repeating and taking a mean" — repeats only reduce random error, never systematic error.
+- Forgetting that percentage uncertainties multiply by the power when a measured quantity is raised to a power in the equation, as T is when g depends on T².

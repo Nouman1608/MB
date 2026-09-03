@@ -21,7 +21,8 @@ featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
-[Carbonyl Compounds study guide](/resources/as-carbonyl-compounds-aldehydes-and-ketones/).
+[Carbonyl Compounds study guide](/resources/as-carbonyl-compounds-aldehydes-and-ketones/),
+and test yourself with the [practice questions](/resources/as-chem-carbonyls-practice/).
 
 ## The carbonyl group
 
@@ -81,6 +82,25 @@ If the carbonyl carbon has two different groups, the product is **chiral** and f
 
 The melting point of the purified 2,4-DNPH derivative identifies the specific carbonyl compound.
 
+**Worked example.** Distinguish propanal (CH₃CH₂CHO) from propanone (CH₃COCH₃), and explain why the iodoform test would not be the best choice here.
+
+```
+Warm each with Tollens' reagent:
+propanal (aldehyde) -> silver mirror forms
+propanone (ketone)  -> no reaction
+
+Iodoform is a poor choice: propanone DOES contain a CH3CO- group and
+would give a positive result, but so might other compounds sharing that
+fragment -- the aldehyde/ketone (Tollens'/Fehling's) test targets exactly
+the distinction asked for, while iodoform targets a different feature.
+```
+
+## The iodoform test
+
+Warming with **alkaline I₂(aq)** gives a **yellow precipitate of CHI₃** with any compound containing a **CH₃CO–** group directly bonded to the carbonyl carbon — in either an aldehyde or a ketone. Both ethanal (CH₃CHO) and propanone (CH₃COCH₃) test positive, since both have a methyl group directly on the carbonyl carbon.
+
+This is a **different** test from Tollens'/Fehling's: those two distinguish aldehyde from ketone by oxidation; the iodoform test identifies a specific **structural fragment**, regardless of which type of carbonyl it belongs to. Don't assume "ketone" automatically means a positive iodoform result — check the actual structure for a CH₃CO– group.
+
 ## Exam traps
 
 - Claiming 2,4-DNPH distinguishes aldehydes from ketones — it does not.
@@ -89,6 +109,8 @@ The melting point of the purified 2,4-DNPH derivative identifies the specific ca
 - Omitting the racemic outcome when a chiral centre is created.
 - Confusing Tollens' (silver mirror) with Fehling's (brick-red).
 - Using [O] for reduction — reduction is [H].
+- Assuming the iodoform test distinguishes aldehydes from ketones — it identifies a CH₃CO– group, in either type, not the aldehyde/ketone distinction.
+- Assuming a compound is a "ketone" therefore gives a negative iodoform result — check the actual structure for a CH₃CO– fragment; propanone (a ketone) is positive.
 
 ## Self-test
 
@@ -97,5 +119,7 @@ The melting point of the purified 2,4-DNPH derivative identifies the specific ca
 3. Give the reagent and conditions for converting a ketone to a secondary alcohol.
 4. Why is the hydroxynitrile from ethanal a racemic mixture?
 5. Name the two tests that distinguish an aldehyde from a ketone and their positive results.
+6. What does a positive iodoform test tell you, and what does a negative result NOT rule out?
+7. Explain why propanone gives a positive iodoform test even though it is a ketone.
 
-**Answers:** 1. Oxygen is much more electronegative than carbon, so the C=O bond is polar and the carbon carries a partial positive charge. 2. That a carbonyl group is present (aldehyde or ketone); it does **not** distinguish between them. 3. NaBH₄ (or LiAlH₄ in dry ether), giving the secondary alcohol. 4. The carbonyl is planar, so CN⁻ attacks with equal probability from either face, producing equal amounts of both enantiomers. 5. Tollens' — silver mirror with an aldehyde; Fehling's — brick-red precipitate with an aldehyde. Neither reacts with a ketone.
+**Answers:** 1. Oxygen is much more electronegative than carbon, so the C=O bond is polar and the carbon carries a partial positive charge. 2. That a carbonyl group is present (aldehyde or ketone); it does **not** distinguish between them. 3. NaBH₄ (or LiAlH₄ in dry ether), giving the secondary alcohol. 4. The carbonyl is planar, so CN⁻ attacks with equal probability from either face, producing equal amounts of both enantiomers. 5. Tollens' — silver mirror with an aldehyde; Fehling's — brick-red precipitate with an aldehyde. Neither reacts with a ketone. 6. That the compound contains a CH₃CO– group; a negative result does not rule out the compound being an aldehyde or a ketone, only that this specific fragment is absent. 7. Its carbonyl carbon has a CH₃ group directly attached (CH₃–CO–CH₃), which is exactly the structural feature the iodoform test detects, regardless of whether the compound is an aldehyde or a ketone.
