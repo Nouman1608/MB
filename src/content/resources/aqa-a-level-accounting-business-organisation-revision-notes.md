@@ -116,6 +116,11 @@ This section connects directly to **Topic 7 (Limited Company Accounts)** and **T
 - Explain the difference between unlimited and limited liability using a concrete example.
 - Explain why issuing ordinary shares dilutes ownership and control.
 
+## Related resources
+
+[Types of Business Organisation study guide](/resources/a-level-aqa-accounting-types-of-business-organisation/) |
+[Types of Business Organisation practice questions](/resources/aqa-a-level-accounting-business-organisation-practice/)
+
 ## Official syllabus
 
 AQA A-Level Accounting (7127) specification, Version 1.0, June 2019
