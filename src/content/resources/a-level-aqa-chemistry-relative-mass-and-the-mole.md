@@ -145,6 +145,11 @@ Avogadro constant, and concentration x volume.
 - Round final answers to the appropriate number of significant figures
 based on the least precise given value.
 
+## Related resources
+
+[Relative Mass, the Mole and the Avogadro Constant revision notes](/resources/aqa-a-level-chemistry-mole-revision-notes/) |
+[Relative Mass, the Mole and the Avogadro Constant practice questions](/resources/aqa-a-level-chemistry-mole-practice/)
+
 ## Official syllabus
 
 AQA A-level Chemistry (7405) specification, for teaching from September

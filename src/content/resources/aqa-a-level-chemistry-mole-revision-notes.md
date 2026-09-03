@@ -120,6 +120,11 @@ If a question gives one measurement to 2 significant figures and another to 4 si
 - Explain when "relative formula mass" should be used instead of "relative molecular mass."
 - State why the Avogadro constant's value doesn't need to be memorised.
 
+## Related resources
+
+[Relative Mass, the Mole and the Avogadro Constant study guide](/resources/a-level-aqa-chemistry-relative-mass-and-the-mole/) |
+[Relative Mass, the Mole and the Avogadro Constant practice questions](/resources/aqa-a-level-chemistry-mole-practice/)
+
 ## Official syllabus
 
 AQA A-level Chemistry (7405) specification, for teaching from September
