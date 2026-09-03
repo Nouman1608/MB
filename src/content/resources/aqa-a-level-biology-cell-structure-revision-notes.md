@@ -127,6 +127,11 @@ This is the same structure-function-link pattern used for mitochondria above, ap
 - Explain why murein (not cellulose) is named specifically for prokaryotic cell walls.
 - Apply the structure-function-link format to explain how chloroplast structure suits photosynthesis.
 
+## Related resources
+
+[Eukaryotic and Prokaryotic Cell Structure study guide](/resources/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure/) |
+[Eukaryotic and Prokaryotic Cell Structure practice questions](/resources/aqa-a-level-biology-cell-structure-practice/)
+
 ## Official syllabus
 
 AQA AS and A-level Biology (7401/7402) specification, Version 1.5, June
