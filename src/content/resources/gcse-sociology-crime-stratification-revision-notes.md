@@ -19,7 +19,9 @@ featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
-[Crime, Deviance and Social Stratification study guide](/resources/aqa-gcse-sociology-crime-and-stratification/).
+[Crime, Deviance and Social Stratification study guide](/resources/aqa-gcse-sociology-crime-and-stratification/),
+or for practice questions with worked answers, see the
+[Crime, Deviance and Social Stratification practice questions](/resources/gcse-sociology-crime-stratification-practice/).
 
 ## Build one grid, not eighteen separate topics
 
