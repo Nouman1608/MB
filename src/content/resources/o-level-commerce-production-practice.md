@@ -45,6 +45,16 @@ Related: [Commerce and Production revision notes](/resources/o-level-commerce-pr
 
 **5.** "Commerce is the same thing as production." Discuss whether this statement is correct. **[4]**
 
+**6.** A country imports raw cocoa beans, processes and packages them into finished chocolate bars, then re-exports the chocolate to other countries.
+
+**(a)** Name this type of foreign trade. **[1]**
+**(b)** Explain how it differs from a simple import followed by domestic sale. **[2]**
+
+**7.** Specialisation can occur at different levels.
+
+**(a)** Name the four levels at which specialisation can take place, giving an example of each. **[4]**
+**(b)** Explain why specialisation at any of these levels makes commerce necessary rather than optional. **[3]**
+
 ---
 
 ## Answers
@@ -61,6 +71,12 @@ Related: [Commerce and Production revision notes](/resources/o-level-commerce-pr
 
 **5.** The statement is **not correct** [1]. Production is the **creation of goods and services** through the primary, secondary and tertiary stages [1]. Commerce is narrower: it is the **distribution of what has already been produced**, covering trade and aids to trade only [1]; production and commerce are interdependent but are **distinct** activities, since a good can be produced without yet having been traded or moved to where it is wanted [1].
 
+**6. (a)** **Entrepot trade** [1].
+**(b)** In a simple import, the goods are brought in **for sale within the domestic market** [1]; in entrepot trade, the goods are imported **specifically in order to be re-exported**, often after further processing or storage, rather than being sold to domestic consumers [1].
+
+**7. (a)** **Country** — a nation specialising in producing goods suited to its climate or resources, e.g. a country with fertile land specialising in agricultural exports [1]. **Region** — an area within a country specialising in one industry, e.g. a mining region [1]. **Town** — a town built around a single dominant industry, e.g. a fishing town [1]. **Firm/worker** — an individual worker specialising in one task on a production line rather than making a whole product alone [1].
+**(b)** At every level, specialisation means producing **far more of one thing than is needed locally and far less of everything else** [1], so goods and services that are not self-produced must be **obtained through exchange** [1]; commerce (trade and its aids) is the mechanism that makes this exchange possible, so a specialised economy cannot function without it [1].
+
 ---
 
 ## Where marks are usually lost
@@ -69,3 +85,21 @@ Related: [Commerce and Production revision notes](/resources/o-level-commerce-pr
 - Naming a utility without explaining *why* that utility applies to the scenario given.
 - Listing advantages of specialisation without linking them to output, cost or quality.
 - Forgetting that specialisation's biggest disadvantage — interdependence — is precisely what makes commerce necessary.
+- Confusing entrepot trade with a simple import — entrepot trade specifically involves re-exporting, not domestic sale.
+- Naming only one or two levels of specialisation when a question asks for all four (country, region, town, firm/worker).
+
+## Specialisation and commerce — the logical chain
+
+Almost every extended question on this topic rewards being able to
+state the same underlying chain of reasoning explicitly: specialisation
+(at whatever level) increases output, quality or efficiency, but it
+also means a worker, firm, town, region or country produces far more
+of one thing and far less of everything else it needs — creating
+**interdependence**. Interdependence, in turn, is exactly what makes
+**exchange** necessary, and commerce (trade plus its aids) is the
+mechanism that makes exchange possible across distance and time. A
+strong answer traces this chain through explicitly — specialisation →
+interdependence → the necessity of commerce — rather than treating
+specialisation and commerce as two separate topics that happen to
+appear in the same syllabus section. For the full treatment of trade,
+production and utility, see the [Commerce and Production revision notes](/resources/o-level-commerce-production-revision-notes/).

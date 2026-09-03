@@ -62,6 +62,14 @@ Related: [Electricity revision notes](/resources/as-physics-electricity-revision
 **(b)** Calculate its resistance. **[2]**
 **(c)** Calculate the charge passing in 5.0 minutes. **[2]**
 
+**8.** Distinguish between e.m.f. and potential difference, and explain why the terminal p.d. of a battery is always less than its e.m.f. when current flows. **[3]**
+
+**9.** A thermistor's resistance falls as its temperature rises.
+
+**(a)** Sketch or describe its I–V characteristic. **[1]**
+**(b)** Explain, in terms of charge carriers, why its resistance falls with increasing temperature. **[2]**
+**(c)** Explain why this behaviour is the opposite of a metallic conductor's. **[2]**
+
 ---
 
 ## Answers
@@ -86,6 +94,12 @@ Related: [Electricity revision notes](/resources/as-physics-electricity-revision
 **(b)** R = V ÷ I = 12 ÷ 5.0 [1] = **2.4 Ω** [1].
 **(c)** Q = It = 5.0 × 300 [1] = **1500 C** [1].
 
+**8.** **E.m.f.** is the energy converted **from other forms to electrical** per unit charge, supplied by the source [1]; **p.d.** is the energy **transferred from electrical to other forms** per unit charge, across a component [1]. When current flows, some energy per coulomb is transferred to the battery's own **internal resistance**, so the terminal p.d. (across the external circuit) is always less than the e.m.f. by the "lost volts" across that internal resistance [1].
+
+**9. (a)** A curve where resistance **falls** as current (and temperature) increases — the opposite curvature to a filament lamp [1].
+**(b)** As temperature rises, **more charge carriers (electrons) are released** into the conduction band [1], so for a given p.d. more current can flow, meaning resistance falls [1].
+**(c)** In a metal, the **number of charge carriers stays constant** with temperature, and it is increased lattice vibration (more frequent collisions) that raises resistance [1]; in a thermistor, the **number of charge carriers itself increases** with temperature, and this effect dominates over any increase in collisions, so resistance falls instead of rising [1].
+
 ---
 
 ## Where marks are usually lost
@@ -94,3 +108,20 @@ Related: [Electricity revision notes](/resources/as-physics-electricity-revision
 - Halving rather than quartering resistance when the diameter doubles.
 - Explaining the filament lamp curve without mentioning temperature.
 - Omitting the constant-temperature condition from Ohm's law.
+- Using e.m.f. and p.d. interchangeably, or forgetting that internal resistance is what causes the terminal p.d. to be less than the e.m.f.
+- Explaining a thermistor's falling resistance using the same "more lattice collisions" reasoning as a filament lamp — the dominant effect there is the **number of charge carriers increasing**, not the collision rate.
+
+## Metals vs thermistors — same equation, opposite outcome
+
+Both a metal and a thermistor are governed by I = nAvq, but temperature
+affects the two variables that matter (n, the charge carrier density,
+and the collision rate) in opposite proportions. In a metal, n is
+already enormous and essentially fixed, so a temperature rise mainly
+increases lattice vibration and collision frequency, **raising**
+resistance. In a thermistor, by contrast, only a small number of
+charge carriers are free at room temperature, so a temperature rise
+releases a large number of **additional** carriers, and this dominates
+over any increase in collision frequency, **lowering** resistance.
+Recognising which effect dominates for a given material is the key
+skill this pair of components tests. For the full I–V characteristic
+table and resistivity treatment, see the [Electricity revision notes](/resources/as-physics-electricity-revision-notes/).

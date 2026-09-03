@@ -44,6 +44,13 @@ Related: [Equilibria and Le Chatelier revision notes](/resources/oxfordaqa-a-lev
 
 **5.** Explain why adding an inert gas at constant volume does not shift the position of equilibrium. **[3]**
 
+**6.** 0.60 mol of H₂ and 0.60 mol of I₂ are mixed in a 2 dm³ sealed container and allowed to reach equilibrium: H₂(g) + I₂(g) ⇌ 2HI(g). At equilibrium, 0.20 mol of I₂ remains.
+
+**(a)** Use an ICE table to find the equilibrium amount, in moles, of each species. **[3]**
+**(b)** Calculate the equilibrium concentrations, and hence K_c, stating its units. **[4]**
+
+**7.** Explain why increasing the pressure on the equilibrium in question 6 would have no effect on the position of equilibrium. **[2]**
+
 ---
 
 ## Answers
@@ -62,6 +69,11 @@ Related: [Equilibria and Le Chatelier revision notes](/resources/oxfordaqa-a-lev
 
 **5.** The **partial pressures of the reacting gases are unchanged**, because the volume and the number of moles of each are unchanged [1]. Only the **total pressure rises** [1]. Since K_p depends on the partial pressures of the reacting species alone, the **reaction quotient is still equal to K_p**, so there is no shift [1].
 
+**6. (a)** ICE table (moles): H₂ 0.60 → −x → 0.20 [1], so x = 0.40; I₂ 0.60 → −0.40 → **0.20 mol** [1]; HI 0 → +2(0.40) → **0.80 mol** [1].
+**(b)** [H₂] = 0.20 ÷ 2 = 0.10 mol dm⁻³, [I₂] = 0.10 mol dm⁻³, [HI] = 0.80 ÷ 2 = 0.40 mol dm⁻³ [1]. K_c = [HI]² ÷ ([H₂][I₂]) = 0.40² ÷ (0.10 × 0.10) [1] = 0.16 ÷ 0.01 = **16** [1]; since there are **2 moles of gas on each side**, the concentration units cancel and K_c has **no units** [1].
+
+**7.** There are **2 moles of gas on the reactant side and 2 moles of gas on the product side** [1], so increasing the pressure favours neither side, and the position of equilibrium is **unchanged** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -70,3 +82,21 @@ Related: [Equilibria and Le Chatelier revision notes](/resources/oxfordaqa-a-lev
 - Forgetting to square the partial pressure of SO₃ and SO₂.
 - Not deducing the units of K_p from the expression.
 - Explaining the low Contact-process pressure by yield alone rather than by cost.
+- Converting moles to concentration incorrectly in an ICE table calculation, or forgetting to divide by the volume before substituting into K_c.
+- Assuming K_c always has units — when the total moles of gas are equal on both sides, as in question 6, the units cancel and K_c is dimensionless.
+
+## Using an ICE table — the method in one place
+
+An ICE (Initial, Change, Equilibrium) table is the reliable way to
+turn a word problem into a K_c calculation: write the initial moles of
+every species, let the change in one species be x (using the
+reaction's stoichiometric ratios to relate the changes in the others),
+then use whatever equilibrium information the question gives — as in
+question 6, where the equilibrium amount of I₂ is stated directly — to
+solve for x and complete the row. Only once every species' equilibrium
+**moles** are known should you convert to **concentration** (dividing
+by the container's volume) and substitute into the K_c expression;
+substituting moles directly, skipping the conversion, is one of the
+most common errors in this type of question. For the full treatment of
+K_p and K_c, together with the industrial compromise conditions for
+the Haber and Contact processes, see the [Equilibria and Le Chatelier revision notes](/resources/oxfordaqa-a-level-chemistry-equilibria-revision-notes/).

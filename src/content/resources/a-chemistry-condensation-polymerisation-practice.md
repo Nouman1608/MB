@@ -62,6 +62,16 @@ Related: [Condensation Polymerisation revision notes](/resources/a-chemistry-con
 
 **8.** Compare addition and condensation polymerisation on atom economy, explaining the difference. **[3]**
 
+**9.** A biodegradable surgical suture is made by the self-condensation of a single monomer, 6-aminohexanoic acid, H₂N–(CH₂)₅–COOH.
+
+**(a)** Explain why this single monomer, unlike the diol/diacid or diamine/diacid pairs seen so far, is able to undergo condensation polymerisation on its own. **[2]**
+**(b)** Deduce the repeat unit of the resulting polymer, and name the linkage formed. **[3]**
+
+**10.** Methyl 2-methylpropenoate, CH₂=C(CH₃)–COOCH₃, is the monomer used to make Perspex. The molecule already contains an ester group as well as a C=C double bond.
+
+**(a)** State, with a reason, whether this monomer polymerises by addition or condensation. **[2]**
+**(b)** Explain why the ester group already present in the monomer takes no part in the polymerisation reaction. **[2]**
+
 ---
 
 ## Answers
@@ -87,6 +97,12 @@ Related: [Condensation Polymerisation revision notes](/resources/a-chemistry-con
 
 **8.** Addition polymerisation has **100% atom economy** because **all the atoms of the monomer end up in the polymer** [1]. Condensation is **below 100%** [1] because a **small molecule is eliminated as a second product**, so not all the reactant mass becomes polymer [1].
 
+**9. (a)** The single monomer carries **two different reactive functional groups**, an amine and a carboxylic acid [1], so the –NH₂ end of one molecule can react with the –COOH end of the next, and the reaction can repeat at both ends of the growing chain without needing a second monomer [1].
+**(b)** The repeat unit is **–[NH–(CH₂)₅–CO]–** with bonds extending through the brackets and **n** outside [2]; the linkage formed is an **amide** linkage, so the product is a form of nylon (nylon-6) [1].
+
+**10. (a)** **Addition** [1]. A **C=C double bond is present**, and any monomer containing a C=C bond polymerises by addition across that bond, regardless of what other functional groups are also present [1].
+**(b)** Addition polymerisation only involves the **breaking of the C=C π bond**, which links the monomers directly to each other [1]; the ester group is not itself a site of reaction in addition polymerisation, so it survives unchanged as a **pendant side group** hanging off the finished polymer backbone [1].
+
 ---
 
 ## Where marks are usually lost
@@ -95,3 +111,9 @@ Related: [Condensation Polymerisation revision notes](/resources/a-chemistry-con
 - Saying polyesters hydrogen bond between chains.
 - Giving the wrong hydrolysis products for the stated conditions.
 - Explaining Kevlar's strength without both chain alignment and hydrogen bonding.
+- Assuming a single-monomer polymer such as nylon-6 must be an addition polymer because only one type of molecule is involved — condensation only requires two *reactive groups*, not two different monomers.
+- Missing that the repeat unit of a self-condensed amino acid still loses water at every linkage, exactly as a diol/diacid pair does.
+- Classifying methyl 2-methylpropenoate as a condensation monomer purely because it contains an ester group, rather than checking for a C=C bond first — the presence of C=C always signals addition polymerisation, whatever else the molecule contains.
+- Forgetting that a functional group not directly involved in the polymerisation reaction (such as the ester in methyl 2-methylpropenoate) survives unreacted as a pendant group on the finished chain, rather than being eliminated.
+
+**Deducing monomers from a repeat unit, or predicting the type of polymerisation from a monomer's structure, both come down to the same check: look for a C=C bond first (addition, whatever else is present), and if there isn't one, look for the two reactive functional groups at each end of the repeating section (condensation, whether those two ends came from one monomer or two).** For the underlying reasoning in full, see the [Condensation Polymerisation revision notes](/resources/a-chemistry-condensation-polymerisation-revision-notes/) and the [Condensation Polymerisation and Polymer Degradability](/resources/a-condensation-polymerisation-and-polymer-degradability/) study guide.

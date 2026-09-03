@@ -56,6 +56,18 @@ Related: [Multi-Step Synthesis Routes revision notes](/resources/a-chemistry-syn
 
 **6.** Explain why aqueous KOH and ethanolic KOH give different products with 1-bromopropane, naming both products. **[3]**
 
+**7.** Benzene is converted to phenylethanone (C₆H₅COCH₃) in one step, and methylbenzene is converted to benzoic acid in a separate reaction.
+
+**(a)** Name the reagents and mechanism for converting benzene to phenylethanone. **[3]**
+
+**(b)** State the reagent and conditions for oxidising methylbenzene's side chain to give benzoic acid. **[2]**
+
+**8.** Benzene is nitrated to form nitrobenzene.
+
+**(a)** State the reagents and temperature. **[3]**
+
+**(b)** Explain why the temperature must be carefully controlled, and what happens if it is exceeded. **[2]**
+
 ---
 
 ## Answers
@@ -82,6 +94,12 @@ Step 2: **dilute HCl(aq), heat under reflux** [1] → butanoic acid [1].
 
 **6.** **Aqueous** KOH gives **nucleophilic substitution** → **propan-1-ol** [1]. **Ethanolic** KOH gives **elimination** → **propene** [1]. The solvent determines whether OH⁻ acts as a nucleophile or as a base [1].
 
+**7. (a)** **Ethanoyl chloride (CH₃COCl) with an AlCl₃ catalyst** [1] — this is **Friedel–Crafts acylation** [1], an **electrophilic substitution** [1].
+**(b)** **Acidified potassium manganate(VII) (KMnO₄/H₂SO₄), heated under reflux** [1]; this oxidises the methyl side chain directly to a **–COOH group**, regardless of how long the original side chain was [1].
+
+**8. (a)** **Concentrated nitric acid with concentrated sulfuric acid** (as catalyst) [1], at a temperature of about **55 °C** [1], generating the electrophile NO₂⁺ [1].
+**(b)** Above about 55 °C, a **second nitro group is introduced (dinitration)**, giving a mixture of dinitrobenzene isomers as well as the desired mononitrobenzene, reducing the yield of the intended product [1]; keeping the temperature controlled ensures the reaction stops at a single substitution [1].
+
 ---
 
 ## Where marks are usually lost
@@ -91,3 +109,20 @@ Step 2: **dilute HCl(aq), heat under reflux** [1] → butanoic acid [1].
 - Using aqueous rather than ethanolic KCN.
 - Routes that gain or lose carbons with no reaction accounting for it.
 - Using NaBH₄ on a nitrile or carboxylic acid.
+- Forgetting AlCl₃ as the catalyst in a Friedel–Crafts reaction, or calling it addition rather than electrophilic **substitution**.
+- Forgetting the risk of dinitration if the nitration temperature is not carefully controlled at about 55 °C.
+
+## Bringing aliphatic and aromatic routes together
+
+A synthesis question can require moving between an aliphatic starting
+material and an aromatic ring in the same route, so it is worth
+holding the aromatic-specific reactions in mind alongside the aliphatic
+interconversion ladder above: **nitration** (conc. HNO₃/H₂SO₄, ~55°C)
+introduces a nitro group that can then be reduced to an amine (Sn/conc.
+HCl, then NaOH); **Friedel–Crafts alkylation** (RCl/AlCl₃) and
+**acylation** (RCOCl/AlCl₃) attach an alkyl or acyl group directly to
+the ring; and oxidising an alkyl side chain with hot acidified KMnO₄
+converts it all the way to a **–COOH group** regardless of its original
+length, which is a distinct reaction from the aliphatic alcohol
+oxidation ladder covered earlier. For the full reagent table and
+worked routes, see the [Multi-Step Synthesis Routes revision notes](/resources/a-chemistry-synthesis-routes-revision-notes/).
