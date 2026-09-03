@@ -171,6 +171,8 @@ time. Mixing up mass (kg) and weight when substituting into g.p.e. = mgh.
 
 ## Related resources
 
+- [Energy Changes in a System revision notes](/resources/aqa-gcse-physics-energy-changes-revision-notes/)
+- [Energy Changes in a System practice questions](/resources/aqa-gcse-physics-energy-changes-practice/)
 - [Conservation and Dissipation of Energy](/resources/aqa-gcse-physics-conservation-and-dissipation-of-energy/) — the next sub-topic
 - [AQA GCSE Physics hub](/boards/aqa/gcse/physics/)
 
