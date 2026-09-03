@@ -72,6 +72,64 @@ course -- change, culture, ethics, globalization, innovation and
 strategy -- rather than treating each unit of the syllabus in
 isolation.
 
+## The five syllabus units
+
+The course content is organised into five units. Unit 1, Introduction
+to business management, establishes the conceptual vocabulary --
+what a business is, the different legal forms it can take, how
+objectives are set, who its stakeholders are, and how it grows -- that
+every later unit assumes. Unit 2, Human resource management, covers
+organisational structure, leadership and motivation. Unit 3, Finance
+and accounts, and Unit 4, Marketing, cover the financial and
+customer-facing functions of a business respectively. Unit 5,
+Operations management, covers how a business actually produces its
+goods or services. HL students study an additional extension layer of
+sub-topics within each of these units on top of the shared content
+common to both levels, so confirming exactly which sub-topics count as
+HL-only within each unit is worth doing early in the course rather
+than assuming SL and HL content overlaps completely.
+
+## The six underpinning concepts
+
+Across both papers and the internal assessment, students are expected
+to draw on six underpinning concepts that run through the whole course
+-- change, culture, ethics, globalization, innovation and strategy --
+rather than treating each unit of the syllabus as an isolated block of
+content. These concepts sit alongside, and connect to, the four
+interdisciplinary concepts of creativity, change, ethics and
+sustainability that frame the course as a whole, and strong exam
+responses typically link a specific unit's content back to one or more
+of these six concepts explicitly, rather than answering a question
+purely from within a single unit's factual content without drawing out
+its broader conceptual significance.
+
+## The business management toolkit
+
+Alongside the five content units, both SL and HL students use a set
+of quantitative and qualitative business tools -- including techniques
+such as decision trees, break-even analysis, and various forms of
+strategic and financial planning tool -- consistently across units
+rather than confined to a single one. Because these tools recur in
+different units applied to different business contexts, practising a
+given tool's mechanics in isolation is less valuable than practising
+applying it to a genuine business scenario and then interpreting what
+the result actually means for a real decision, since exam questions
+consistently test application and interpretation rather than the
+mechanical calculation alone.
+
+## Why HL adds a third paper
+
+At HL, the additional Paper 3, built around a social-enterprise
+stimulus, reflects the fact that HL students study extension content
+within each of the five units beyond what SL students cover, and this
+third paper is where that extension content is most directly assessed
+alongside a case-study-style stimulus rather than through the
+pre-seen case study that underpins Paper 1. This structural difference
+-- a genuinely separate exam paper, rather than simply a longer or
+harder version of the SL papers -- is why the shift from SL to HL
+Business Management involves a meaningfully different course, not the
+same course examined at a higher difficulty.
+
 ## Source
 
 International Baccalaureate Organization, Business Management subject

@@ -68,10 +68,10 @@ Related: [Numbers and the Number System revision notes](/resources/edexcel-igcse
 **(b)** 8.4 ÷ 4.0 = 2.1; 10⁷ ÷ 10² = 10⁵ [1]; = **2.1 × 10⁵** [1].
 
 **4. (a)** Increase = 7200 [1]; (7200 ÷ 48 000) × 100 [1] = **15%** [1].
-**(b)** 55 200 × 1.15³ [1] [1] = **83 927** (to the nearest whole number) [1].
+**(b)** 55 200 × 1.15³ [1] [1] = **83 952** (to the nearest whole number) [1].
 
-**5. (a)** 24 000 × 0.82³ [1] [1] = **$13 234** (to the nearest dollar) [1].
-**(b)** Loss = 24 000 − 13 234 = 10 766 [1]; (10 766 ÷ 24 000) × 100 = **44.9%** [1].
+**5. (a)** 24 000 × 0.82³ [1] [1] = **$13 233** (to the nearest dollar) [1].
+**(b)** Loss = 24 000 − 13 233 = 10 767 [1]; (10 767 ÷ 24 000) × 100 = **44.9%** [1].
 
 **6. (a)** x: 6.15 to 6.25 [1]; y: 3.45 to 3.55 [1].
 **(b)** For the lowest quotient use the **smallest numerator and the largest denominator** [1]: 6.15 ÷ 3.55 [1] = **1.732** (to 3 d.p.) [1].
@@ -79,6 +79,53 @@ Related: [Numbers and the Number System revision notes](/resources/edexcel-igcse
 **7.** Let x = 0.272727... Then 100x = 27.2727... [1]; 99x = 27 [1]; x = 27/99 = **3/11** [1].
 
 ---
+
+## Section C — additional questions
+
+**8.** x = 6.2 and y = 3.5 (as in question 6, both correct to 1 decimal place). Calculate the upper bound of x ÷ y. **[3]**
+
+**9.** A shop increases all its prices by 8%, then reduces the new prices by 8% in a subsequent sale. Explain, with a calculation, whether the final price is the same as the original price. **[4]**
+
+**10.** Simplify (2.4 × 10⁶) ÷ (6.0 × 10⁻²), giving your answer in standard form. **[2]**
+
+## Answers to Section C
+
+**8.** For the highest quotient, use the **largest numerator and the smallest denominator** [1]: 6.25 ÷ 3.45 [1] = **1.812** (to 3 d.p.) [1].
+
+**9.** No, the final price is not the same as the original [1]. Taking an original price of $100: after an 8% increase, the price is $100 × 1.08 = $108 [1]; after an 8% decrease on this new price, the price is $108 × 0.92 = $99.36 [1], which is less than the original $100, because the second 8% is calculated on the larger, increased price rather than on the original amount [1].
+
+**10.** 2.4 ÷ 6.0 = 0.4; 10⁶ ÷ 10⁻² = 10⁸ [1]; 0.4 × 10⁸ is not in correct standard form, so it must be rewritten as **4 × 10⁷** [1].
+
+## A note on percentage increase followed by percentage decrease
+
+Question 9 illustrates a common misconception worth revising directly:
+applying the same percentage as an increase and then a decrease does
+not return a value to its original amount, because the two percentages
+are calculated on different base values. An 8% increase is calculated
+on the original price, but the following 8% decrease is calculated on
+the new, already-increased price, which is a larger number — so the
+absolute amount subtracted in the decrease is larger than the absolute
+amount added in the increase, leaving the final value below the
+starting point. This same reasoning explains why a percentage decrease
+followed by an equal percentage increase also fails to return to the
+original value, and recognising this pattern helps avoid an intuitive
+but incorrect assumption that equal and opposite percentage changes
+cancel out.
+
+## A note on choosing bounds for division
+
+Questions 6(b) and 8 both test the same underlying rule for finding
+the bounds of a quotient, and it is worth stating precisely because it
+differs from the rule for a sum or product: to find the lowest
+possible value of x ÷ y, pair the smallest possible numerator with the
+largest possible denominator, and to find the highest possible value,
+pair the largest possible numerator with the smallest possible
+denominator. This is because dividing by a larger number produces a
+smaller result and dividing by a smaller number produces a larger
+result, the opposite relationship to what governs a sum or product of
+two rounded measurements, which is why bounds questions on division
+consistently catch out candidates who apply the same "both upper" or
+"both lower" shortcut that works for addition and multiplication.
 
 ## Where marks are usually lost
 

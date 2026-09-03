@@ -78,6 +78,68 @@ Related: [Number revision notes](/resources/aqa-gcse-mathematics-number-revision
 
 ---
 
+## Section C — additional questions
+
+**8.** Evaluate without a calculator: (a) 27^(2/3) (b) 4⁻³ **[2]**
+
+**9.** A car's value depreciates by 15% per year. If it is bought for £18,000, calculate its value after 3 years, giving your answer to the nearest pound. **[3]**
+
+**10.** Simplify √72 − √8, giving your answer in the form k√2. **[2]**
+
+**11.** A field is measured as 120 m long, to the nearest 5 m. Give the upper and lower bounds of this measurement. **[2]**
+
+## Answers to Section C
+
+**8. (a)** 27^(2/3) = (³√27)² = 3² = **9** [1]. **(b)** 4⁻³ = 1/4³ = **1/64** [1].
+
+**9.** After year 1: 18000 × 0.85 = £15,300; after year 2: ×0.85 again; after year 3: 18000 × 0.85³ [1] [1] = 18000 × 0.614125 = **£11,054** (nearest pound) [1].
+
+**10.** √72 = 6√2, √8 = 2√2 [1]; 6√2 − 2√2 = **4√2** [1].
+
+**11.** Lower bound **117.5 m**, upper bound **122.5 m** [1] [1].
+
+## A note on compound percentage change
+
+Questions 5(b) and 9 both use the same underlying principle -- repeated
+percentage change is multiplicative, not additive, so a value
+increasing by 3.5% each year for 4 years is found by multiplying by
+1.035 four times (equivalently, raising 1.035 to the power 4), not by
+adding 3.5% four times over. The same logic applies to repeated
+percentage decrease: multiplying by 0.85 (100% − 15%) for each year of
+depreciation, rather than subtracting 15% of the original value in
+each year, is what correctly accounts for depreciation being
+calculated on an already-reduced value in later years. Confusing
+compound change with simple, additive change is one of the most
+common sources of lost marks across this whole topic area.
+
+## A note on surd simplification
+
+Questions 3(a) and 10 both rely on the same technique: finding the
+largest square-number factor of the number under the root, since this
+is what allows a surd to be simplified to the form k√n. For 72, the
+largest square factor is 36 (72 = 36 × 2), so √72 simplifies to 6√2;
+for 8, the largest square factor is 4 (8 = 4 × 2), so √8 simplifies to
+2√2. Once two surds share the same value under the root, they can be
+added or subtracted by combining their coefficients directly, in
+exactly the way like terms are combined in algebra -- which is why
+√72 − √8 becomes 6√2 − 2√2 = 4√2 rather than requiring any further
+simplification once both terms share the same root.
+
+## A note on fractional and negative indices
+
+Question 1 and question 8 both test the two index rules that most
+often trip candidates up: a fractional index such as ^(2/3) means take
+the root indicated by the denominator (here, a cube root) and raise
+the result to the power indicated by the numerator, so 27^(2/3) is the
+cube root of 27, squared, giving 9 — not 27 squared and then cube
+rooted the other way round, though both orders happen to give the
+same correct answer for a perfect cube like this one. A negative
+index, by contrast, does not make the answer negative — it means "one
+over" the positive-index version, so 4⁻³ equals 1 divided by 4³, not
+negative 4³. Keeping these two rules distinct, rather than treating a
+negative index and a fractional index as variations on the same idea,
+avoids a common and entirely avoidable source of lost marks.
+
 ## Where marks are usually lost
 
 - Treating a negative index as a negative answer.

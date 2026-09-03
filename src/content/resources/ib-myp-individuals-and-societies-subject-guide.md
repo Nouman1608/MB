@@ -73,6 +73,67 @@ an investigating task worth 26 marks, a communicating task worth 18 marks,
 and a thinking-critically task -- built around an extended piece of
 writing -- worth 36 marks, the largest single component of the exam.
 
+## The four assessment criteria in more depth
+
+Because MYP does not distinguish Standard and Higher Level, all
+students are assessed against the same four criteria at the same
+level of demand, with differentiation happening through the depth and
+sophistication a student demonstrates within each criterion's band
+descriptors rather than through a separate, more advanced course. Each
+criterion is scored on an eight-point scale organised into bands of
+progressively more sophisticated performance: Criterion A rewards
+accurate recall and increasingly nuanced conceptual understanding;
+Criterion B rewards well-planned inquiry and effective use of a range
+of research methods and sources; Criterion C rewards clear
+organisation, appropriate use of terminology and correct referencing
+of sources; and Criterion D rewards genuine analysis and evaluation,
+including recognising different perspectives on an issue rather than
+presenting only one viewpoint. Teachers combine performance across
+multiple assessed tasks over the course of the year to arrive at a
+final grade for each criterion, which are then combined into an
+overall MYP subject grade using the programme's standard grade-boundary
+conversion.
+
+## Why classroom-based assessment dominates
+
+Because most assessment happens through ongoing classroom-based
+coursework rather than a single high-stakes exam, students have
+multiple opportunities across the year to demonstrate achievement
+against each of the four criteria, and a school's own internal
+assessment calendar, rather than a single external exam date,
+determines when key pieces of assessed work are due. This structure
+rewards consistent engagement with coursework across units rather than
+concentrated exam-season revision, which is a genuinely different
+preparation approach from the exam-weighted model students may
+encounter later if they progress to the Diploma Programme.
+
+## Connecting forward to the Diploma Programme
+
+Students who progress from MYP Individuals and Societies into a DP
+individuals-and-societies subject -- History, Geography, Global
+Politics, Economics or others -- will recognise several skills carried
+forward directly: working from source material, constructing an
+evidence-based argument, and evaluating multiple perspectives on a
+contested issue all recur, in more demanding form, at DP level. The
+biggest structural shift is toward externally set, exam-weighted
+assessment in most DP subjects, rather than the classroom-based,
+criteria-referenced model used throughout MYP, so students moving from
+MYP to DP benefit from deliberately practising timed, exam-style
+responses even before DP formally begins.
+
+## What eAssessment actually tests
+
+Where a school opts into eAssessment for history, geography or
+integrated humanities, the on-screen exam is built around source-based
+tasks throughout: every task requires working with provided source
+material -- documents, data, images, or a combination of these --
+rather than answering from memorised content alone. This is why
+building comfort with unfamiliar sources under timed conditions is a
+more valuable use of revision time than memorising facts in isolation,
+and it mirrors the broader emphasis on inquiry and investigation that
+runs through the subject group as a whole, from classroom-based
+coursework through to the optional exam.
+
 ## Source
 
 International Baccalaureate Organization, Individuals and Societies

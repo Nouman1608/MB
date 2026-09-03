@@ -48,6 +48,52 @@ Condensed for the final weeks. For the full explanation, use the
 - Reward tracking how a theme or character **develops across the whole novel**, not just one memorable scene.
 - Context (social, historical, cultural) must be integrated into the argument, not bolted on as a separate paragraph.
 
+## Timing and exam strategy
+
+Because the three sections are not equally weighted, time should be allocated roughly in proportion
+to their marks rather than split evenly across the two hours: more time for Section C's 40 marks than
+Section B's 30, and the least time for Section A's 20, while still leaving a few minutes at the end to
+check all three responses. A common cause of a disappointing overall mark is spending too long
+perfecting Section A's shorter response and running out of time on Section C, where the largest
+number of marks is actually available.
+
+## Structural technique for Section A
+
+Because Section A is pure AO2, a top-band response builds sustained analysis across three areas —
+**language** (imagery, word choice, sound), **form** (rhyme, meter, stanza shape), and **structure**
+(how the poem develops or shifts) — with every point rooted in a short, precisely selected quotation
+and a clear effect explained, not just named. Narrowing the focus onto structure specifically, when a
+question asks for it, means structural features such as where lines break or where a stanza ends
+should carry the analysis, rather than drifting into imagery or word choice as the main evidence.
+
+## Structural technique for Section B
+
+The strongest Section B answers organise **by point of comparison**, not poem-by-poem — for
+instance, "both poets use natural imagery, but Poem A does X while Poem B does Y" — analysing
+language, form and structure in each poem with precision, and making the comparison explicit and
+sustained throughout rather than confined to a closing paragraph. Where a question specifies a shared
+feature such as imagery, both poems must be shown to use it in a genuinely comparable way, not merely
+both contain it.
+
+## Structural technique for Section C
+
+Track the character or theme across **at least three distinct points** in the novel — beginning, a
+turning point, and the ending or a late development — using specific, well-chosen textual evidence at
+each point, and integrate relevant context (social, historical, cultural) that illuminates why the
+character or theme develops as it does, rather than adding context as a disconnected final paragraph.
+A frequently tested angle within this section is using a specific setting to reflect or influence a
+character's state of mind at two different points in the novel — track the same setting, or a
+contrasting pair of settings, and use each to make an explicit claim about the character's
+development, rather than describing the setting for its own sake.
+
+## Where marks are usually lost across all three sections
+
+Beyond the section-specific traps below, three general patterns recur across the whole paper:
+Section B answers that analyse each poem in a separate half rather than comparing directly point by
+point; Section C answers that retell the plot instead of tracking character or theme development
+with a clear argument; and context in Section C treated as a bolt-on paragraph rather than woven
+into the analysis throughout.
+
 ## Exam traps
 
 - Writing about only one poem in Section B when comparison is explicitly credited.

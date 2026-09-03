@@ -73,6 +73,61 @@ skill that cannot be prepared for with quotation banks the way the
 studied texts can, so timed unseen-poetry practice deserves its own
 place in a revision plan rather than being treated as a late add-on.
 
+## Building a quotation bank
+
+Because no text is available in the exam room, quotation recall
+strategy matters as much as content knowledge. A compact bank per
+text -- covering two or three major characters, two or three central
+themes, and a handful of pivotal moments -- built to serve multiple
+possible questions is far more efficient than attempting to memorise
+either whole text or preparing for one imagined question type only.
+Precision matters more here than on an open-book paper too: since
+there is no text to check a quotation against on the day, an
+imprecisely recalled quotation cannot be corrected or verified on the
+spot, so examiners specifically credit accurate recall over vague
+paraphrase.
+
+## Shakespeare technique in more depth
+
+Because the Shakespeare text is studied as drama rather than prose,
+strong answers comment on staging, performance choices and how a line
+might be delivered, not just on what a line means on the page -- this
+is worth building directly into a quotation bank, with a brief staging
+note alongside each memorised line. Both the extract-based question
+and the whole-text essay question expect a candidate to move fluently
+between the printed extract and their knowledge of the play as a
+whole, so practising starting an answer from the extract and reaching
+outward to the wider play, rather than treating the extract and the
+whole-text discussion as two disconnected halves, is a skill worth
+deliberate rehearsal.
+
+## Novel technique in more depth
+
+For the 19th-century novel section, tracking how a theme or character
+develops across the whole text consistently outperforms an answer
+that only analyses a single scene in isolation, so organising a
+quotation bank chronologically across the novel, rather than by theme
+alone, makes that development easier to trace and articulate under
+exam conditions. Context -- historical or social -- should also be
+woven directly into the analysis of a specific quotation rather than
+reserved for a separate paragraph at the end of a response, since
+AQA's mark scheme explicitly credits this kind of integration over a
+standalone context section that sits apart from the actual argument.
+
+## Why closed book changes revision strategy
+
+Nearly every revision decision for Paper 1 flows from a single fact:
+no text is available in the exam room. This is why quotation banks
+must be built and memorised well in advance rather than assembled
+close to the exam, why precise recall is prioritised over general
+familiarity with the text, and why practising extract-based analysis
+on unfamiliar passages matters more here than it would on an
+open-book paper, where a candidate could locate supporting evidence
+during the exam itself. Treating quotation recall as a discipline to
+be built deliberately, rather than assuming it will emerge naturally
+from general reading of the set texts, is one of the more reliable
+ways to improve performance on this specific paper.
+
 ## Official syllabus
 
 AQA GCSE English Literature (8702) specification, for first teaching

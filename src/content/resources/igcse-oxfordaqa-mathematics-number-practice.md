@@ -67,9 +67,57 @@ Related: [Topic 1 Number revision notes](/resources/igcse-oxfordaqa-mathematics-
 
 ---
 
+## Section C — additional questions
+
+**6.** Write 0.000283 in standard form, and calculate (3 × 10⁴) × (5 × 10³), giving your answer in standard form. **[3]**
+
+**7.** $3,500 is invested at 4% compound interest per year. Find its value after 3 years, to the nearest dollar. **[3]**
+
+**8.** Calculate the least possible perimeter and least possible area of the rectangle in question 5, using the lower bounds instead of the upper bounds. **[3]**
+
+## Answers to Section C
+
+**8.** Least perimeter uses both lower bounds: 2 × (6.15 + 4.45) = 2 × 10.60 = **21.2 cm** [1]. Least area uses both lower bounds: 6.15 × 4.45 = **27.3675 cm²** [2].
+
+**6.** 0.000283 = **2.83 × 10⁻⁴** [1]. (3 × 10⁴) × (5 × 10³) = 15 × 10⁷, which must be rewritten in correct standard form as **1.5 × 10⁸** [2].
+
+**7.** 3500 × 1.04³ [1] [1] = 3500 × 1.124864 = **$3,937** (to the nearest dollar) [1].
+
+## Why bounds work in opposite directions for perimeter and area
+
+Question 8 deliberately mirrors question 5 to make a point: for both
+perimeter (a sum) and area (a product) of two independently rounded
+measurements, the greatest possible result always uses the upper bound
+of every measurement involved, and the least possible result always
+uses the lower bound of every measurement involved. This is because
+both operations increase when either input increases, so pushing every
+input to its maximum gives the maximum result, and pushing every input
+to its minimum gives the minimum result. This is not true for every
+operation, though — a subtraction or division behaves differently,
+since the result of A − B is maximised by taking A's upper bound
+together with B's lower bound, not both upper bounds together, which
+is why bounds questions always require checking what type of
+calculation is actually being performed before deciding which bound to
+use for each value.
+
+## A note on reverse percentage problems
+
+Question 2 tests a distinction that recurs across many percentage
+problems: when a value after a percentage change is given and the
+original value is required, the correct approach is to divide by the
+multiplier, not to multiply by it or to simply add back the stated
+percentage of the given value. A 25% discount leaves 75% of the
+original price, so the multiplier is 0.75, and since $54 represents
+that 75%, dividing 54 by 0.75 correctly recovers the full original
+price. A common error is instead calculating 25% of $54 and adding it
+back to $54, which produces a plausible-looking but incorrect answer,
+since 25% of the discounted price is not the same amount as 25% of the
+original price.
+
 ## Where marks are usually lost
 
 - Reverse percentage calculated by multiplying instead of dividing by the multiplier.
 - Simplifying surds incorrectly by not extracting the largest square factor first.
 - Confusing direct and inverse proportion — always check whether the two quantities increase together or move oppositely before setting up the relationship.
 - Using a mix of upper and lower bounds inconsistently instead of choosing correctly for greatest/least sum, difference, product or quotient.
+- Adding a percentage back onto a discounted price instead of dividing by the correct multiplier when working backwards to an original value.
