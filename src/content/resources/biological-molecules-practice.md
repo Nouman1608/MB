@@ -49,6 +49,17 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 
 **6.** State the roles of water in living organisms, giving **four** points. **[4]**
 
+**7.** DNA is a large molecule found in the nucleus.
+
+**(a)** Name the elements present in DNA that are not found in a carbohydrate. **[2]**
+**(b)** Name the monomer (repeating unit) of DNA. **[1]**
+**(c)** State the two complementary base-pairing rules. **[2]**
+
+**8.** A student tests two fruit juice samples for vitamin C content using DCPIP.
+
+**(a)** Describe how the test is carried out and the positive result. **[2]**
+**(b)** Explain how this test could be used to compare the vitamin C content of the two samples. **[2]**
+
 ---
 
 ## Answers
@@ -70,6 +81,13 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 
 **6.** Any four: it is a **solvent** in which reactions take place and substances are transported [1]; it is a **reactant**, for example in photosynthesis and hydrolysis [1]; it **transports** substances in blood and xylem [1]; it helps **regulate temperature** through sweating and its high heat capacity [1]; it provides **support** through turgor in plant cells [1].
 
+**7. (a)** **Nitrogen** and **phosphorus** [1] [1].
+**(b)** **Nucleotide** [1].
+**(c)** **Adenine pairs with thymine (A–T)** [1]; **cytosine pairs with guanine (C–G)** [1].
+
+**8. (a)** Add the fruit juice **drop by drop** to a fixed volume of blue DCPIP solution, shaking after each drop, until the blue colour **just disappears (turns colourless)** [1]; vitamin C decolourises DCPIP [1].
+**(b)** **Count/measure the volume of juice needed** to decolourise the same volume of DCPIP for each sample [1]; the sample requiring the **smaller volume** to decolourise it contains **more vitamin C** per unit volume [1].
+
 ---
 
 ## Where marks are usually lost
@@ -78,3 +96,22 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 - Not stating both the starting and final colour in a food test.
 - Saying starch is insoluble without linking that to osmosis.
 - Giving only the solvent role of water.
+- Forgetting phosphorus alongside nitrogen when naming the elements unique to DNA compared with a carbohydrate.
+- Reversing the DCPIP logic — a **smaller** volume of juice needed to decolourise the reagent means **more** vitamin C is present, not less.
+- Naming DNA's monomer as "a base" rather than a full **nucleotide** (which includes a sugar, a phosphate group and a base).
+
+## The five food tests, side by side
+
+| Test for | Reagent | Heat needed? | Positive result |
+|---|---|---|---|
+| Starch | Iodine solution | No | Orange-brown → blue-black |
+| Reducing sugar | Benedict's | **Yes** | Blue → brick-red precipitate |
+| Protein | Biuret | No | Blue → purple/lilac |
+| Fat | Ethanol, then water | No | White/cloudy emulsion |
+| Vitamin C | DCPIP | No | Blue → colourless |
+
+Only the reducing-sugar test with Benedict's solution requires heating
+— every other test in this set is carried out at room temperature, and
+stating the method precisely (including whether heat is used) is often
+worth a mark by itself. For the full explanation of each molecule's
+structure, including DNA's double helix, see the [Biological Molecules revision notes](/resources/biological-molecules-revision-notes/).

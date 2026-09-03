@@ -62,6 +62,64 @@ prokaryote and protoctist — the features used to place plants into ferns
 and flowering plants (dicotyledons and monocotyledons), and the features
 of viruses (a protein coat and genetic material)
 
+## The seven characteristics — MRS GREN
+
+| Letter | Characteristic | What it means |
+|---|---|---|
+| M | Movement | An action changing the position of an organism or part of it |
+| R | Respiration | The chemical reactions that release energy from food |
+| S | Sensitivity | Detecting and responding to changes in the environment |
+| G | Growth | A permanent increase in size and dry mass |
+| R | Reproduction | Producing new individuals of the same species |
+| E | Excretion | Removing the waste products of metabolism from the body |
+| N | Nutrition | Taking in and using materials for energy, growth and repair |
+
+Two distinctions examiners specifically test: **respiration is not
+breathing** — respiration is the chemical release of energy inside
+cells, while breathing (or gas exchange) is the physical movement of
+gases in and out of the body. And **excretion is not egestion** —
+excretion removes waste made by the organism's own metabolism (such as
+carbon dioxide or urea), while egestion is the removal of undigested
+food (faeces), which was never part of the organism's chemistry.
+
+## Building and reading a dichotomous key
+
+A dichotomous key identifies an organism through a series of paired
+statements, each offering exactly two contrasting options, leading the
+user step by step to a name:
+
+```
+1.  Has a backbone .......................... go to 2
+    No backbone ............................. INSECT
+
+2.  Has feathers ............................. BIRD
+    No feathers .............................. go to 3
+
+3.  Has scaly, dry skin ...................... REPTILE
+    Has moist skin ............................ AMPHIBIAN
+```
+
+Each numbered pair must offer **only two options**, based on a feature
+that can actually be observed on the specimen in front of you — vague
+or overlapping criteria (such as "large" without a stated size) make a
+key impossible to use consistently between different people.
+
+## The five kingdoms (Supplement)
+
+| Kingdom | Defining feature |
+|---|---|
+| Animal | Multicellular; no cell wall; feed by ingestion |
+| Plant | Multicellular; cellulose cell wall; make food by photosynthesis |
+| Fungus | Cell wall (not cellulose); feed by decomposing/absorbing organic matter |
+| Prokaryote | No nucleus; genetic material free in the cytoplasm (e.g. bacteria) |
+| Protoctist | Mostly single-celled; not clearly animal, plant or fungus |
+
+Viruses are **not** placed in any of the five kingdoms: they consist
+only of a protein coat and genetic material, and cannot reproduce
+independently of a host cell — a point examiners use to test whether
+candidates understand *why* the five-kingdom system excludes them,
+rather than simply listing viruses as a sixth kingdom.
+
 ## How to approach it
 
 Start with the MRS GREN characteristics, since exam questions often

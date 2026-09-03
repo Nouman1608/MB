@@ -63,6 +63,17 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 **(b)** Write the word equation. **[1]**
 **(c)** Give one advantage and one disadvantage compared with hydration of ethene. **[2]**
 
+**8.** Propan-1-ol and propan-2-ol have the same molecular formula, C₃H₈O.
+
+**(a)** Explain what a locant number tells you, using these two compounds as your example. **[2]**
+**(b)** State whether propan-1-ol and propan-2-ol are structural isomers of each other, giving a reason. **[2]**
+
+**9.** For butane, C₄H₁₀:
+
+**(a)** Give its empirical formula. **[1]**
+**(b)** Explain the difference between its molecular formula and its displayed formula. **[2]**
+**(c)** State one piece of information a displayed formula gives that a molecular formula does not. **[1]**
+
 ---
 
 ## Answers
@@ -86,6 +97,13 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 **(b)** glucose → ethanol + carbon dioxide [1].
 **(c)** Advantage: uses a **renewable** raw material [1]. Disadvantage: it is a **slow batch process giving an impure, dilute product** [1].
 
+**8. (a)** A locant number shows **where on the chain** a feature (here, the –OH group) is positioned [1]: propan-**1**-ol has the –OH on an **end** carbon, while propan-**2**-ol has it on the **middle** carbon [1].
+**(b)** **Yes** [1] — they share the **same molecular formula (C₃H₈O)** but have **different structural arrangements**, which is exactly the definition of a structural isomer [1].
+
+**9. (a)** **C₂H₅** [1] (the simplest whole-number ratio of C to H, 4:10 simplified to 2:5).
+**(b)** The **molecular formula** (C₄H₁₀) gives only the total number of each type of atom [1]; the **displayed formula** shows every individual atom and every bond drawn out, including all C–H bonds [1].
+**(c)** It shows **which isomer** is being described — for example, whether the chain is straight (butane) or branched (methylpropane), which the molecular formula alone cannot distinguish [1].
+
 ---
 
 ## Where marks are usually lost
@@ -94,3 +112,23 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 - Saying the alkene "turns bromine water brown" — it decolourises it.
 - Explaining fractional distillation without linking boiling point to chain length.
 - Giving only one reason for cracking.
+- Treating propan-1-ol and propan-2-ol as if they were the same compound, since they share a molecular formula — locant numbers exist precisely to distinguish them.
+- Confusing empirical formula (simplest ratio) with molecular formula (actual number of atoms) — for a compound like C₄H₁₀ these are different, but for others (like water, H₂O) they happen to be identical.
+- Omitting C–H bonds when drawing a displayed formula — every bond, not just the "interesting" ones, must be shown.
+
+## The four types of formula, side by side
+
+| Type | What it shows | Butane example |
+|---|---|---|
+| Empirical | Simplest whole-number ratio of atoms | C₂H₅ |
+| Molecular | Actual number of each atom in one molecule | C₄H₁₀ |
+| Structural | How atoms are grouped, without every bond drawn | CH₃CH₂CH₂CH₃ |
+| Displayed | Every atom and every bond drawn out in full | (full skeletal diagram) |
+
+Examiners specifically ask for a displayed formula when they want to
+see the arrangement that distinguishes one isomer from another — a
+molecular formula on its own, such as C₄H₁₀, is genuinely ambiguous
+between butane and methylpropane, which is exactly the point being
+tested whenever a question pairs isomerism with a request to "draw"
+rather than just "name" a compound. For the full naming rules,
+including stem names and ester naming, see the [Organic Chemistry revision notes](/resources/organic-chemistry-revision-notes/).

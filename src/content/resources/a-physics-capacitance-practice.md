@@ -57,6 +57,17 @@ Related: [Capacitance revision notes](/resources/a-physics-capacitance-revision-
 
 **6.** Explain what happens to the current during the discharge of a capacitor, and why the decay is exponential. **[3]**
 
+**7.** A 100 μF capacitor is charged through a 2.0 kΩ resistor from a 6.0 V supply.
+
+**(a)** Calculate the time constant of the charging circuit. **[2]**
+**(b)** Calculate the maximum charge the capacitor can store. **[2]**
+**(c)** Calculate the charge stored after 0.30 s of charging. **[3]**
+
+**8.** A student discharges a capacitor and plots a graph of ln Q against time t, obtaining a straight line of gradient −0.25 s⁻¹.
+
+**(a)** Explain why plotting ln Q against t, rather than Q against t, is a useful graphical method here. **[2]**
+**(b)** Use the gradient to find the time constant of the circuit. **[2]**
+
 ---
 
 ## Answers
@@ -81,6 +92,15 @@ C = **1.0 μF** [1].
 
 **6.** The current **decreases exponentially** to zero [1]. As charge leaves the capacitor the **p.d. across it falls**, so the current through the resistor (I = V/R) falls in proportion [1]. Because the rate of decrease is **proportional to the quantity remaining**, the decay is exponential [1].
 
+**7. (a)** τ = RC = 2.0 × 10³ × 100 × 10⁻⁶ [1] = **0.20 s** [1].
+**(b)** Q₀ = CV = 100 × 10⁻⁶ × 6.0 [1] = **6.0 × 10⁻⁴ C** [1].
+**(c)** Q = Q₀(1 − e^(−t/RC)) = 6.0 × 10⁻⁴ × (1 − e^(−0.30/0.20)) [1]
+= 6.0 × 10⁻⁴ × (1 − e^(−1.5)) = 6.0 × 10⁻⁴ × (1 − 0.223) [1]
+= 6.0 × 10⁻⁴ × 0.777 = **4.7 × 10⁻⁴ C** [1].
+
+**8. (a)** Since Q = Q₀e^(−t/RC), taking logs gives ln Q = ln Q₀ − t/RC [1], a straight-line equation, so a graph of ln Q against t is linear with gradient −1/RC, making RC easy to find from experimental data without needing to identify a point at exactly 37% [1].
+**(b)** gradient = −1/RC, so RC = 1/0.25 = **4.0 s** [1] [1].
+
 ---
 
 ## Where marks are usually lost
@@ -89,3 +109,20 @@ C = **1.0 μF** [1].
 - Forgetting the ½ in the energy expressions, or being unable to explain it.
 - Not converting μF to F.
 - Using RC rather than RC ln2 for the half-life.
+- Using the discharge equation Q = Q₀e^(−t/RC) for a charging problem instead of the charging equation Q = Q₀(1 − e^(−t/RC)) — the two are easily confused under exam pressure.
+- Forgetting that the gradient of a ln Q against t graph is **negative** and equal to −1/RC, not +1/RC.
+
+## Charging vs discharging — the two equations side by side
+
+| | Discharging | Charging |
+|---|---|---|
+| Charge | Q = Q₀e^(−t/RC) | Q = Q₀(1 − e^(−t/RC)) |
+| Current | I = I₀e^(−t/RC) | I = I₀e^(−t/RC) (decays from max) |
+| Behaviour | Falls from Q₀ toward 0 | Rises from 0 toward Q₀ |
+
+Current always decays exponentially in both cases — during charging it
+starts at its maximum value V₀/R and falls as the capacitor's own p.d.
+opposes the supply, while during discharging it falls from its initial
+value as the driving p.d. across the capacitor itself falls. For the
+full derivation of both equations and the graphical method for finding
+RC, see the [Capacitance revision notes](/resources/a-physics-capacitance-revision-notes/).

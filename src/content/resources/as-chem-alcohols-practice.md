@@ -24,7 +24,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/)
+Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/), covering classification, oxidation, dehydration and the distinguishing tests for Cambridge AS & A Level Chemistry 9701.
 
 ---
 
@@ -54,6 +54,17 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/)
 
 **6.** Compare the two industrial routes to ethanol — hydration of ethene and fermentation — on **rate**, **purity** and **sustainability**. **[6]**
 
+**7.** Ethanol is added separately to (i) a small piece of sodium and (ii) phosphorus(V) chloride (PCl₅).
+
+**(a)** State the observation in each case. **[2]**
+**(b)** Write an equation for the reaction with sodium. **[1]**
+**(c)** Explain why the reaction with PCl₅ is used as a test for the -OH group. **[1]**
+
+**8.** Ethanol reacts with ethanoic acid in the presence of a small amount of concentrated sulfuric acid.
+
+**(a)** Name the type of reaction and the organic product. **[2]**
+**(b)** State the role of the concentrated sulfuric acid. **[1]**
+
 ---
 
 ## Answers
@@ -78,6 +89,13 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/)
 **Purity:** hydration gives a **pure product**; fermentation gives a **dilute aqueous mixture** requiring fractional distillation [1] [1].
 **Sustainability:** hydration uses **ethene from crude oil**, which is finite and non-renewable [1]; fermentation uses **renewable plant material** and is close to carbon neutral, but competes with food production for land [1].
 
+**7. (a)** With sodium: **effervescence** (bubbles of gas) as the sodium reacts and gradually disappears [1]. With PCl₅: **misty/steamy white fumes** (of HCl) are produced [1].
+**(b)** `2CH₃CH₂OH + 2Na → 2CH₃CH₂ONa + H₂` [1].
+**(c)** The **white fumes are a positive, distinctive result specific to the -OH group** reacting with PCl₅, so their appearance confirms the presence of an alcohol (or other -OH-containing compound) without needing further tests [1].
+
+**8. (a)** **Esterification** (condensation) [1]; the product is **ethyl ethanoate** [1].
+**(b)** It acts as a **catalyst** for the reaction [1].
+
 ---
 
 ## Where marks are usually lost
@@ -86,3 +104,20 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/)
 - Saying tertiary alcohols "react slowly" — they do not react at all under these conditions.
 - Giving only one product for the iodoform-positive structural feature.
 - Evaluating the ethanol routes on one dimension only.
+- Forgetting to balance the sodium/alcohol equation — two moles of alcohol react with two moles of sodium to produce one mole of hydrogen gas.
+- Describing the PCl₅ test result as "bubbles" rather than the distinctive misty/steamy white fumes of HCl gas.
+- Naming the ester product the wrong way round, or forgetting that concentrated sulfuric acid here is acting purely as a catalyst rather than being consumed in the reaction.
+
+## The full set of alcohol reactions, in one place
+
+Beyond oxidation, an alcohol's -OH group takes part in several other
+reaction types worth holding together as a set: with **sodium**, it
+behaves as a weakly acidic O-H group, releasing hydrogen gas and
+forming a sodium alkoxide; with **concentrated sulfuric or phosphoric
+acid** at about 170°C, it undergoes elimination (dehydration) to form
+an alkene; with a **carboxylic acid** and an acid catalyst, it
+undergoes condensation (esterification) to form an ester; and with
+**PCl₅**, it substitutes the -OH for chlorine, producing the
+characteristic misty fumes used as a simple confirmatory test for the
+-OH group in an unknown compound. For the full reaction scheme and
+oxidation-product table by alcohol class, see the [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/).

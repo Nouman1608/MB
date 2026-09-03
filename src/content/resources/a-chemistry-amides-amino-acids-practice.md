@@ -27,7 +27,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-amino-acids-revision-notes/)
+Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-amino-acids-revision-notes/), covering amide preparation and hydrolysis, zwitterions, isoelectric point and protein structure for Cambridge A Level Chemistry 9701.
 
 ---
 
@@ -57,6 +57,16 @@ Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-a
 
 **6.** Name the bonds responsible for the primary, secondary and tertiary structure of a protein. **[3]**
 
+**7.** Ethanoyl chloride is reacted separately with (i) ammonia and (ii) methylamine.
+
+**(a)** Name and give the formula of each organic product. **[2]**
+**(b)** State the type of reaction taking place in both cases. **[1]**
+
+**8.** Amino acids are soluble in water but insoluble in non-polar organic solvents such as hexane, and have unusually high melting points for their molar mass.
+
+**(a)** Explain their solubility behaviour. **[2]**
+**(b)** Explain, referring to the same structural feature, why their melting points are unusually high. **[2]**
+
 ---
 
 ## Answers
@@ -80,6 +90,12 @@ Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-a
 
 **6. Primary** — peptide bonds [1]. **Secondary** — hydrogen bonds [1]. **Tertiary** — hydrogen bonds, ionic attractions, **disulfide bridges** and hydrophobic interactions [1].
 
+**7. (a)** (i) **Ethanamide, CH₃CONH₂** [1]. (ii) **N-methylethanamide, CH₃CONHCH₃** [1].
+**(b)** **Condensation** (nucleophilic addition–elimination), with HCl (or an ammonium/amine salt) released as a by-product [1].
+
+**8. (a)** Amino acids exist as **zwitterions** (charged species), which interact strongly with **polar water molecules** [1], but non-polar solvents such as hexane cannot form these strong charge-based interactions with the zwitterion, so amino acids do not dissolve in them [1].
+**(b)** The zwitterion form means **ionic attractions exist between neighbouring amino acid molecules** in the solid [1], and these are considerably stronger than the ordinary intermolecular forces in a comparable non-charged molecule, so much more energy is needed to separate the molecules and melt the solid [1].
+
 ---
 
 ## Where marks are usually lost
@@ -88,3 +104,20 @@ Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-a
 - Forgetting glycine is achiral.
 - Confusing which electrode the ion moves to at a given pH.
 - Attributing disulfide bridges to secondary structure.
+- Forgetting that reacting an acyl chloride with an amine (rather than ammonia) gives an **N-substituted** amide, not a primary amide.
+- Explaining amino acid solubility or melting point without linking the explanation back to the **zwitterion** — both properties trace to the same underlying structural feature.
+
+## The zwitterion — one structural fact, several consequences
+
+Almost every distinctive physical property of amino acids traces back
+to the same single fact: at physiological or near-neutral pH, an
+amino acid exists as a **zwitterion**, carrying both a positive and a
+negative charge but no overall charge. This explains the unusually
+high melting point (strong ionic attractions between neighbouring
+zwitterions in the solid), the solubility pattern (strong interaction
+with polar water, poor interaction with non-polar solvents), and the
+pH-dependent behaviour that makes electrophoresis possible in the
+first place. When a question in this topic asks "explain why," the
+zwitterion is very often the correct starting point for the answer.
+For the full structure and behaviour of amino acids and proteins, see
+the [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-amino-acids-revision-notes/).

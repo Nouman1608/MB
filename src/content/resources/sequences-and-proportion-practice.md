@@ -26,7 +26,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Sequences and Proportion revision notes](/resources/sequences-and-proportion-revision-notes/)
+Related: [Sequences and Proportion revision notes](/resources/sequences-and-proportion-revision-notes/), covering subtopics 2.7 Sequences and 2.8 Proportion for Cambridge O Level Mathematics (Syllabus D) 4024.
 
 ---
 
@@ -59,6 +59,18 @@ Related: [Sequences and Proportion revision notes](/resources/sequences-and-prop
 
 **7.** The first term of a geometric sequence is 6 and the common ratio is 0.5. Find the sum to infinity. **[2]**
 
+**8.** y is directly proportional to x³. When x = 2, y = 40.
+
+**(a)** Find the equation connecting y and x. **[3]**
+**(b)** Find y when x = 5. **[1]**
+
+**9.** Find the nth term of the cubic sequence 1, 8, 27, 64, ... and hence state its 7th term. **[3]**
+
+**10.** y is directly proportional to the square root of x. When x = 16, y = 12.
+
+**(a)** Find the equation connecting y and x. **[3]**
+**(b)** Find y when x = 25. **[1]**
+
 ---
 
 ## Answers
@@ -82,6 +94,14 @@ Related: [Sequences and Proportion revision notes](/resources/sequences-and-prop
 
 **7.** S∞ = a ÷ (1 − r) = 6 ÷ (1 − 0.5) [1] = **12** [1].
 
+**8. (a)** y = kx³ [1]; 40 = k(2³) = 8k, so k = 5 [1]; **y = 5x³** [1].
+**(b)** y = 5 × 5³ = 5 × 125 = **625** [1].
+
+**9.** These are the **cube numbers**, so the nth term is **n³** [1]. Checking: 1³=1, 2³=8, 3³=27, 4³=64 ✓ [1]. The 7th term is 7³ = **343** [1].
+
+**10. (a)** y = k√x [1]; 12 = k√16 = 4k, so k = 3 [1]; **y = 3√x** [1].
+**(b)** y = 3 × √25 = 3 × 5 = **15** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -90,3 +110,21 @@ Related: [Sequences and Proportion revision notes](/resources/sequences-and-prop
 - Forgetting to halve the second difference for the n² coefficient.
 - Not finding k before substituting in proportion questions.
 - Forgetting that inverse square proportion means quartering, not halving.
+- Confusing y ∝ x³ with y ∝ 3x — cube proportion means the equation contains x³, not a coefficient of 3.
+- Not recognising a cubic sequence (1, 8, 27, 64, ...) as the cube numbers, and instead trying to force a quadratic nth-term method onto it.
+
+## Recognising a sequence type quickly
+
+| Sequence type | Signal | nth term form |
+|---|---|---|
+| Linear | Constant first difference | an + b |
+| Quadratic | Constant second difference | an² + bn + c |
+| Cubic | Terms match n³, 2n³, etc. (check against cube numbers) | an³ + ... |
+| Exponential (geometric) | Constant **ratio** between terms | a × rⁿ⁻¹ |
+
+Always write out the differences (and, if those aren't constant, the
+ratios) underneath the sequence before deciding which type you are
+dealing with — committing to the wrong method part-way through a
+question is one of the most time-costly mistakes in this topic. For
+the full method for each sequence type and further worked examples of
+non-linear proportion, see the [Sequences and Proportion revision notes](/resources/sequences-and-proportion-revision-notes/) and the linked [study guide](/resources/sequences-and-proportion/).
