@@ -146,6 +146,11 @@ next is what transports those products around the body — worth
 reviewing together for a complete picture of Topic 2's opening
 sequence.
 
+## Related resources
+
+[Enzymes and the Digestive System revision notes](/resources/aqa-gcse-biology-enzymes-digestive-revision-notes/) |
+[Enzymes and the Digestive System practice questions](/resources/aqa-gcse-biology-enzymes-digestive-practice/)
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, Version 1.0, exams 2018 onwards

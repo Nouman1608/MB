@@ -119,6 +119,11 @@ Once digestion has broken food down into small, soluble molecules using the enzy
 - Describe RP5's method and the colour change that signals starch has been digested.
 - Explain, using the lock and key model, why lipase cannot break down starch.
 
+## Related resources
+
+[Enzymes and the Digestive System study guide](/resources/gcse-aqa-biology-enzymes-and-the-digestive-system/) |
+[Enzymes and the Digestive System practice questions](/resources/aqa-gcse-biology-enzymes-digestive-practice/)
+
 ## Official syllabus
 
 AQA GCSE Biology (8461) specification, Version 1.0, exams 2018 onwards
