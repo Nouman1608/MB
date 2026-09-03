@@ -15,11 +15,13 @@ featured: false
 ---
 
 Condensed for the final weeks. For the full course picture, use the
-[AQA GCSE English Language course structure guide](/resources/gcse-english-language-course-structure/).
+[AQA GCSE English Language course structure guide](/resources/gcse-english-language-course-structure/),
+or for Paper 1's official structure, marks and assessment objectives,
+see the [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/).
 
 ## Paper 1 at a glance
 
-- One unseen literature fiction extract (19th, 20th or 21st century prose).
+- One unseen literature fiction extract (20th or 21st century prose only — the 19th century is reserved for Paper 2).
 - Reading questions move from short, contained tasks to a longer evaluative response.
 - One creative writing task, linked in theme to the reading source.
 - Reading and writing are equally weighted within the paper.

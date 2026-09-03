@@ -21,8 +21,10 @@ featured: false
 This guide covers **Paper 2: Writers' Viewpoints and Perspectives**,
 the second of two examined components in AQA GCSE English Language
 (8700), for first teaching 2015. It complements the site's existing
-[Paper 1 revision notes](/resources/gcse-english-language-paper-1-revision-notes/)
-and [Paper 1 practice questions](/resources/gcse-english-language-paper-1-practice/)
+[Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/),
+[Paper 1 revision notes](/resources/gcse-english-language-paper-1-revision-notes/),
+[Paper 1 practice questions](/resources/gcse-english-language-paper-1-practice/)
+and [Paper 2 practice questions](/resources/gcse-english-language-paper-2-practice/)
 by covering the paper those resources do not: where Paper 1 (Explorations
 in Creative Reading and Writing) works with fiction and narrative
 description, Paper 2 works entirely with non-fiction, comparing how

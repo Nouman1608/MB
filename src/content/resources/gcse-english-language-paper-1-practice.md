@@ -19,7 +19,9 @@ featured: false
 > examination boards hold copyright in their own papers and their unseen extracts.
 > Use these alongside the official past papers available free from your board.
 
-Related: [Paper 1 revision notes](/resources/gcse-english-language-paper-1-revision-notes/)
+Related: [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/) |
+[Paper 1 revision notes](/resources/gcse-english-language-paper-1-revision-notes/) |
+[Paper 2 practice questions](/resources/gcse-english-language-paper-2-practice/)
 
 ---
 
