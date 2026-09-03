@@ -75,6 +75,61 @@ exams in May/June 2028 -- but the Paper 1 structure described above is
 unchanged, and the current (Version 4.2) specification remains in
 force through the final May/June 2027 series.
 
+## Building a quotation bank
+
+Because Paper 1 is closed book, precise textual reference has to come
+from memory rather than the text in front of a candidate. A compact
+bank for both the prose text and the play -- covering two or three
+major characters with a short quotation illustrating each one's
+development or central trait, two or three central themes with
+supporting evidence drawn from more than one point in the text, and,
+for the play specifically, at least one quotation per major character
+carrying a clear staging note -- outperforms an attempt to memorise
+either text in full, and is what makes precise textual reference
+genuinely achievable under exam pressure rather than remaining a
+mark-scheme phrase.
+
+## Choosing between the essay and passage-based options
+
+Each section offers a choice between an essay-style question and a
+passage-based question, and this is a genuine strategic decision
+rather than a formality. A passage-based question provides a printed
+extract to anchor close analysis around, which suits candidates who
+are stronger at detailed, line-by-line reading but less confident
+recalling the whole text unprompted. An essay-style question instead
+requires selecting evidence across the whole text from memory, which
+rewards candidates with a well-built quotation bank and a clear
+command of the text's overall shape. Practising both formats under
+timed conditions before the exam is worthwhile, since candidates who
+only ever practise one format often make the wrong call under pressure
+on the day itself.
+
+## Route A versus Route B
+
+The 9275 specification splits into two routes beyond Paper 1, which
+affects what else a candidate is assessed on across the qualification
+even though Paper 1 itself is identical either way: Route A pairs
+Paper 1 with Paper 2a, which includes an unseen prose section, while
+Route B pairs Paper 1 with Paper 2b and a non-exam assessment
+(coursework) component. Confirming which route a centre follows is
+worth doing early, since Route A candidates need to build an
+additional skill -- responding to unseen prose extracts under timed
+conditions -- that Route B candidates do not need to prepare for at
+all.
+
+## Confirming which specification version applies
+
+OxfordAQA has published a revised 9275 specification for first
+teaching from September 2026, refreshing the set-text and anthology
+lists, which affects cohorts starting their course from September 2026
+onwards with first exams in the May/June 2028 series. The Paper 1
+structure and approach described above is unchanged between versions,
+but the specific prescribed texts differ, so confirming which version
+applies to a given examination year is essential before finalising
+which edition of a set text to buy -- the current Version 4.2
+specification remains in force for all series up to and including
+May/June 2027.
+
 ## Official syllabus
 
 OxfordAQA International GCSE English Literature (9275) specification,

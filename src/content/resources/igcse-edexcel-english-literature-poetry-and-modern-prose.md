@@ -76,6 +76,66 @@ marks and 40% of the qualification) for candidates on the examined
 route, or with Component 3 (non-exam assessment, also 40%) for
 candidates on the coursework route.
 
+## Section A in more depth
+
+Section A is pure AO2: since the unseen poem is printed on the paper,
+no memorisation is needed, and the mark is entirely for analytical
+skill in explaining how meaning and effect are created through
+language, form and structure. A top-band response builds sustained
+analysis across all three of these areas -- language such as imagery,
+word choice and sound; form such as rhyme, meter and stanza shape; and
+structure, meaning how the poem develops or shifts -- with every point
+rooted in a short, precisely selected quotation and a clear effect
+explained rather than merely named.
+
+## Section B in more depth
+
+Section B assesses AO2 and AO3 together, and AO3 specifically means a
+response that analyses two poems well but never directly compares
+them is missing marks it could otherwise have earned. The strongest
+answers organise by point of comparison rather than poem-by-poem --
+for instance, noting that both poets use natural imagery but each
+poet's specific choices produce a different emotional effect -- and
+sustain that comparison explicitly throughout the response rather than
+confining it to a closing paragraph.
+
+## Section C in more depth
+
+Section C assesses AO1, an informed and textually supported argument,
+and AO4, understanding of context, and rewards tracking how a theme or
+character develops across the whole novel rather than focusing on one
+memorable scene, with social, historical or cultural context woven
+into the argument rather than added as a separate paragraph at the
+end. A frequently tested angle within this section is using a specific
+setting to reflect or influence a character's state of mind at
+different points in the novel, tracking that setting explicitly rather
+than describing it for its own sake.
+
+## Timing and exam strategy
+
+Because the three sections are not equally weighted -- 20, 30 and 40
+marks respectively -- time should be allocated roughly in proportion
+to those marks rather than split evenly across the two hours, with
+more time given to Section C than Section B, and the least time to
+Section A, while still leaving a few minutes to check all three
+responses. A common cause of a disappointing overall mark is spending
+too long perfecting Section A's shorter response and running out of
+time on Section C, where the largest number of marks is actually
+available.
+
+## Why Component 1 is worth the most of the qualification
+
+Component 1's 90 marks make up 60% of the total International GCSE,
+the largest single share of the qualification, which is worth
+factoring directly into revision planning: it deserves proportionally
+more preparation time than Component 2 or Component 3, both worth 40%.
+Because it is compulsory for every candidate regardless of which
+second component they go on to take, and because it is closed book
+throughout, secure, precisely recalled quotation knowledge for both
+the poetry anthology and the modern prose text is essential rather
+than optional, since there is no text available in the exam room to
+check a half-remembered quotation against.
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE English Literature (4ET1)

@@ -98,6 +98,58 @@ subjects. Strong performance depends as much on interpreting
 unfamiliar data and justifying experimental method as on recalling the
 five topics above.
 
+## What each topic actually covers
+
+Topic A, Space, time and motion, opens with kinematics and forces and
+momentum -- the description and explanation of motion -- before
+extending, at HL only, into rigid body mechanics and Galilean and
+special relativity, where the same underlying ideas about motion are
+reconsidered at very high speeds. Topic B, The particulate nature of
+matter, moves from thermal energy transfers and the greenhouse effect
+through gas laws to current and circuits, treating matter's bulk
+behaviour and electrical behaviour as different expressions of the
+same particulate model, with thermodynamics reserved for HL. Topic C,
+Wave behaviour, builds from simple harmonic motion through the wave
+model, wave phenomena, standing waves and resonance, and the Doppler
+effect, establishing a mathematical language for oscillation and
+propagation that later topics reuse. Topic D, Fields, applies that
+language to gravitational, electric and magnetic fields and to motion
+within them, with induction reserved for HL. Topic E, Nuclear and
+quantum physics, closes the syllabus by applying the course's
+accumulated models to the atomic and subatomic scale, covering the
+structure of the atom, quantum physics, radioactive decay, fission and
+fusion.
+
+## The experimental programme
+
+Alongside the five content topics, all students complete an
+experimental programme -- 40 hours at SL and 60 hours at HL -- made up
+of hands-on practical work, a collaborative sciences project shared
+with students from other group 4 subjects, and an internally assessed
+scientific investigation. This programme is not a separate add-on to
+the five topics but a parallel strand running throughout the course,
+since the practical skills it develops -- designing a fair test,
+identifying and reducing sources of uncertainty, interpreting
+unfamiliar data -- are directly examined in the written papers as well
+as in the internal assessment itself, so strong performance in DP
+Physics depends as much on this experimental fluency as on recalling
+the five topics' content.
+
+## Why HL-only content clusters where it does
+
+HL-only content -- A.4 and A.5 in Topic A, B.4 in Topic B, and D.4 in
+Topic D, alongside HL extensions elsewhere -- is not distributed evenly
+across the syllabus but instead clusters at points where the course's
+core models are pushed into more abstract or more extreme territory:
+relativity extends mechanics to speeds approaching the speed of light,
+thermodynamics extends the particulate model of matter to systems and
+energy transfer in more general form, and electromagnetic induction
+extends the treatment of fields into a genuinely new phenomenon rather
+than a direct extension of SL field content. Recognising this pattern
+helps HL students anticipate which parts of each topic carry the extra
+conceptual weight, rather than assuming HL content is simply "more of
+the same" SL material at a faster pace.
+
 ## Source
 
 International Baccalaureate Organization, Physics guide (Diploma

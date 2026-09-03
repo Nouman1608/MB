@@ -76,9 +76,46 @@ Related: [Number Operations and Integers revision notes](/resources/ocr-gcse-mat
 
 ---
 
+## Section C — additional questions
+
+**8.** A price of £65 is increased by 20%, and the new price is then decreased by 20%. Calculate the final price and explain why it is not equal to £65. **[3]**
+
+**9.** Find the HCF and LCM of 84 and 126 using prime factorisation. **[4]**
+
+**10.** Calculate 40% of 65% of £500, giving your method clearly. **[3]**
+
+## Answers to additional questions
+
+**8.** Increase: 65 × 1.2 = £78 [1]. Decrease: 78 × 0.8 = **£62.40** [1]. This is not £65 because the 20% decrease is calculated on the larger, already-increased price (£78), not on the original £65, so the absolute amount removed is larger than the absolute amount added [1].
+
+**9.** 84 = 2² × 3 × 7; 126 = 2 × 3² × 7 [2]. HCF = product of the lowest power of each common prime = 2 × 3 × 7 = **42** [1]. LCM = product of the highest power of every prime present = 2² × 3² × 7 = **252** [1].
+
+**10.** 65% of £500 = 500 × 0.65 = £325 [1]; 40% of £325 = 325 × 0.4 = **£130** [1]. (Equivalently, 40% × 65% = 26% of £500 = £130, since multiplying successive percentage multipliers together gives the same overall result [1].)
+
+## A note on prime factorisation for HCF and LCM
+
+Question 9 illustrates the general method worth memorising: write both numbers as a product of
+prime factors, then build the HCF by taking the lowest power of each prime that appears in *both*
+factorisations, and build the LCM by taking the highest power of every prime that appears in
+*either* factorisation. This method scales to any pair of numbers, however large, and is far more
+reliable under exam conditions than attempting to spot common factors by inspection, particularly
+once the numbers involved are no longer small and familiar.
+
+## A note on order of operations
+
+Question 2 is a reminder that BIDMAS -- Brackets, Indices, Division and Multiplication, Addition
+and Subtraction -- has two pairs that rank equally rather than a strict six-step hierarchy: division
+and multiplication are worked left to right as they appear, and the same applies to addition and
+subtraction. A common error is treating multiplication as always ranking above division, or addition
+as always ranking above subtraction, rather than working strictly left to right once brackets and
+indices have been resolved. Applying brackets and indices first, exactly as in question 2, before
+moving to the remaining operations in left-to-right order, avoids the ambiguity that a rigid
+six-step reading of the acronym can otherwise introduce.
+
 ## Where marks are usually lost
 
 - Getting the sign wrong when multiplying two negatives.
 - Adding whole parts and fraction parts separately without a common denominator.
 - Rounding to a convenient number rather than 1 significant figure in estimation.
 - Dropping the trailing zero in 3.050, which is needed to show three decimal places.
+- Treating multiplication as always ranking above division, or addition as always ranking above subtraction, instead of working left to right within each equal-ranking pair.

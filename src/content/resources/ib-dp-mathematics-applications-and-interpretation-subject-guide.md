@@ -75,6 +75,61 @@ exploration -- an independent investigation into a real-world issue chosen
 by the student -- makes up the remaining 20% of the final grade at both SL
 and HL.
 
+## The five content strands
+
+The syllabus is organised into five strands. Number and algebra is
+the smallest strand at SL, covering number systems, sequences and
+financial applications such as compound interest, reflecting the
+course's lighter emphasis on abstract algebraic manipulation compared
+with Analysis and Approaches. Functions carries substantially more
+teaching hours here than in the sister course, covering modelling with
+linear, quadratic, exponential and other function types using
+technology to fit and interpret models against real data -- a strand
+that is central to this course's identity as a whole. Geometry and
+trigonometry covers spatial reasoning with a strong emphasis on
+real-world contexts such as navigation and design, extending to
+vectors at HL. Statistics and probability is one of the two largest
+strands by teaching time at both levels, covering descriptive and
+inferential statistics, probability and distributions in considerably
+more depth than the equivalent strand in Analysis and Approaches.
+Calculus completes the five strands, and although it carries fewer
+hours here than in Analysis and Approaches, it remains a substantial
+part of the course rather than an optional extra. All five strands are
+examined against the same assessment objectives that apply across both
+DP mathematics courses -- knowledge and understanding, problem
+solving, communication and interpretation, technology, reasoning, and
+inquiry approaches -- so no strand is tested as isolated recall.
+
+## How this course differs from Analysis and Approaches
+
+Both DP mathematics courses share 60 hours of common SL content and
+the same overall assessment objectives, but they distribute their
+remaining hours very differently across the same five strand names and
+diverge sharply on one practical point: technology is permitted
+throughout every external paper in Applications and Interpretation,
+including Paper 1, whereas Analysis and Approaches restricts Paper 1
+to no technology at all. This reflects a genuine difference in what
+each course is designed to develop -- Applications and Interpretation
+emphasises the meaning of mathematics in context, modelling and
+interpretation of real-world, data-rich problems, while Analysis and
+Approaches places more weight on abstract analytical technique
+practised without a calculator.
+
+## The exploration
+
+Alongside the five content strands, both SL and HL students complete
+a mathematical exploration -- an internally assessed investigation
+into a topic of the student's own choosing, worth 20% of the final
+grade at both levels. The exploration is structured identically to
+its counterpart in Analysis and Approaches, and is a genuinely shared
+feature of both DP mathematics courses even though their external
+papers diverge sharply in calculator policy and content emphasis. This
+shared structure means a student's choice between the two courses
+should rest on which style of mathematical work -- real-world
+modelling and interpretation, or abstract analytical technique -- suits
+them better, rather than on the exploration itself, since that
+component looks much the same regardless of which course is chosen.
+
 ## Source
 
 International Baccalaureate Organization, Mathematics: Applications

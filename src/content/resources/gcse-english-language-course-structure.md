@@ -43,7 +43,9 @@ Alongside the two written papers, AQA assesses **spoken language**
 separately, through a presentation and discussion. This is reported
 individually rather than counted into the overall GCSE grade for English
 Language — but it is still a required part of the course, not an
-optional extra.
+optional extra, and students who do not complete it will not receive a
+full, valid GCSE result regardless of how strongly they perform on the
+two written papers.
 
 ## A skills-based approach
 
@@ -65,7 +67,10 @@ purpose and audience.
 AQA designs GCSE English Language to be **fully co-teachable** with GCSE
 English Literature (8702) — the two specifications share underlying
 skills (particularly close reading and structured written analysis), so
-many schools teach them together rather than as fully separate courses.
+many schools teach them together rather than as fully separate courses,
+and a student who is building strong close-reading and analytical-writing
+habits for one specification is, in practice, also building the skills
+the other specification rewards.
 
 ## Study approach
 
@@ -76,6 +81,46 @@ and 21st century texts matters more than memorising content, since (unlike
 many other GCSEs) there is no fixed list of texts to revise. Pair that with
 regular timed writing practice, since both papers combine reading analysis
 with extended writing under exam conditions.
+
+## Paper 1 in more detail
+
+Paper 1 (Explorations in Creative Reading and Writing) is built around a single unseen literature
+fiction extract, drawn from 19th, 20th or 21st century prose, with reading questions sequenced from
+short, contained tasks -- identifying explicit information, then explaining the effect of specific
+language choices, then analysing how the writer has shaped and sequenced the whole extract -- through
+to a longer evaluative response judging how successfully the writer achieves a particular effect. The
+paired creative writing task shares a theme with the reading extract but is an entirely original
+piece of the student's own, not a continuation of the source text, and is planned around a clear
+structure -- an opening hook, development, a turning point, an ending -- since a piece with a
+deliberate shape consistently outperforms one that is technically fluent but structurally
+directionless.
+
+## Paper 2 in more detail
+
+Paper 2 (Writers' Viewpoints and Perspectives) instead presents two unseen non-fiction extracts on a
+shared theme, one from the 19th century and one from the 20th or 21st century, and asks students to
+compare how each writer presents their viewpoint. The specification's own stated aims are precise on
+this point: to "read and evaluate texts critically" and to "make comparisons between texts," which
+means a strong answer works through specific, genuinely comparable points -- each writer's attitude
+to the same underlying event, their choice of emotive language, or a particular structural device
+each uses -- discussing both texts together throughout a response rather than describing one text,
+then the other, and only briefly noting a difference at the end. Paper 2's writing task then asks
+students to present their own viewpoint on the same shared theme, rather than to write a creative
+piece as Paper 1 requires.
+
+## Why there is no fixed text list to revise
+
+Unlike many other GCSEs, English Language has no prescribed set texts
+for either paper -- every reading extract on both Paper 1 and Paper 2
+is unseen on the day, drawn from a wide and unpredictable range of
+19th, 20th and 21st century writing. This is why the single highest-
+value preparation activity across the whole course is building fast,
+accurate close-reading skill through practice with a genuinely wide
+range of unfamiliar texts, rather than attempting to predict or
+memorise content in the way a literature-based GCSE would reward.
+Timed writing practice matters equally, since both papers combine
+reading analysis with an extended writing task completed under the
+same exam-condition time pressure.
 
 ## Related resources
 
