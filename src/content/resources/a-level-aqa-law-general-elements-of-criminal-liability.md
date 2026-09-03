@@ -141,6 +141,11 @@ at least one element.
 - Practise applying the coincidence and transferred malice doctrines to
 short scenario questions.
 
+## Related resources
+
+[General Elements of Liability revision notes](/resources/aqa-a-level-law-criminal-liability-revision-notes/) |
+[General Elements of Liability practice questions](/resources/aqa-a-level-law-criminal-liability-practice/)
+
 ## Official syllabus
 
 AQA A-level Law (7162) specification, Version 1.1, A-level exams June
