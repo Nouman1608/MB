@@ -30,7 +30,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Temperature revision notes](/resources/a-physics-temperature-revision-notes/)
+Related: [Temperature revision notes](/resources/a-physics-temperature-revision-notes/) and the [full study guide](/resources/a-physics-temperature/), which covers specific heat capacity and specific latent heat in more depth.
 
 ---
 
@@ -59,6 +59,12 @@ Related: [Temperature revision notes](/resources/a-physics-temperature-revision-
 
 **8.** A large bath of warm water contains more thermal energy than a small cup of boiling water. Explain how this is possible. **[3]**
 
+**9.** State the equation linking energy transferred, specific heat capacity and temperature change, then calculate the energy required to raise the temperature of 500 g of water (c = 4200 J kg⁻¹ K⁻¹) from 20 °C to 80 °C. **[3]**
+
+**10.** A pure substance is cooled steadily and its temperature is plotted against time. Explain why the temperature remains constant while the substance changes state, even though energy continues to be removed from it, and name the equation used to calculate this energy. **[3]**
+
+**11.** The specific latent heat of fusion of ice is 3.34 × 10⁵ J kg⁻¹. Calculate the energy required to melt 200 g of ice at 0 °C. **[2]**
+
 ---
 
 ## Answers
@@ -69,18 +75,24 @@ Related: [Temperature revision notes](/resources/a-physics-temperature-revision-
 
 **3. (a)** 310 K [1]. **(b)** −78 °C [1]. **(c)** **25 K** — an interval is the same size on both scales [1].
 
-**4.** It is defined **independently of the properties of any particular substance** [1]. Two empirical thermometers using different thermometric properties can **agree at the fixed points but disagree between them** [1], whereas the thermodynamic scale gives a unique value at every temperature [1].
+**4.** It is defined **independently of the properties of any particular substance** [1]. Two empirical thermometers using different thermometric properties can **agree at the fixed points but disagree between them** [1], whereas the thermodynamic scale gives a unique value at every temperature, making it the standard against which every empirical scale is calibrated [1].
 
 **5. (a)** The unique **temperature and pressure at which ice, water and water vapour coexist** in equilibrium [1] [1].
 **(b)** It occurs at **one unique pressure**, so it is **perfectly reproducible** [1], whereas a melting point **varies with pressure** [1].
 
 **6. (a)** A **thermocouple** [1].
 **(b)** It has a **small thermal capacity**, so it responds quickly [1], and it absorbs very little energy from the system, so it barely disturbs what it is measuring [1].
-**(c)** Its response is **non-linear** and it requires calibration [1].
+**(c)** Its response is **non-linear** and it requires calibration against known fixed points before use [1].
 
-**7.** They have the **minimum possible internal energy** [1] — not zero energy, and they do not stop moving entirely [1].
+**7.** They have the **minimum possible internal energy** [1] — not zero energy, and they do not stop moving entirely, since some minimum motion persists even at this limit [1].
 
 **8.** Temperature measures the **mean kinetic energy per molecule**, which is higher in the boiling water [1]. Thermal energy is the **total** over all molecules [1], and the bath contains **very many more molecules**, so its total exceeds that of the cup despite the lower temperature [1].
+
+**9.** Q = mcΔθ, where Q is energy transferred, m is mass, c is specific heat capacity and Δθ is the temperature change [1]. Q = 0.500 × 4200 × (80 − 20) [1] = **126 000 J (126 kJ)** [1].
+
+**10.** The energy removed during a change of state is **latent heat**, calculated from **Q = mL** [1]. This energy changes the **arrangement/separation of the molecules** (breaking or forming intermolecular bonds), not their kinetic energy [1], so the **mean kinetic energy of the molecules — and hence the temperature — stays constant** until the change of state is complete [1].
+
+**11.** Q = mL, where L is the specific latent heat [1]. Q = 0.200 × 3.34 × 10⁵ [1] = **66 800 J (66.8 kJ)** [1].
 
 ---
 
@@ -90,3 +102,5 @@ Related: [Temperature revision notes](/resources/a-physics-temperature-revision-
 - Saying molecules stop moving at absolute zero.
 - Confusing temperature with thermal energy.
 - Giving the melting point rather than the triple point as a fixed point.
+- Using Q = mcΔθ across a change of state — it only applies while the substance stays in a single state; a change of state needs Q = mL instead.
+- Forgetting Δθ is the same size in kelvin or Celsius, so temperature *changes* never need converting, even though absolute temperatures do.

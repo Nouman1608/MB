@@ -38,7 +38,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Petroleum, Alkanes and Alkenes revision notes](/resources/petroleum-alkanes-and-alkenes/)
+Related: [Petroleum, Alkanes and Alkenes study guide](/resources/petroleum-alkanes-and-alkenes/) for the full explanation of fractional distillation, cracking and addition reactions.
 
 ---
 
@@ -67,6 +67,17 @@ Related: [Petroleum, Alkanes and Alkenes revision notes](/resources/petroleum-al
 
 **8.** A student claims that both alkanes and alkenes can undergo addition reactions. Explain why this claim is incorrect for alkanes. **[2]**
 
+**9.** Ethene is reacted with hydrogen in the presence of a catalyst.
+
+**(a)** Name this type of reaction. **[1]**
+**(b)** Name the catalyst used, and the organic product formed. **[2]**
+
+**10.** Name the fraction, other than gasoline/petrol or bitumen, used as **(a)** jet fuel and **(b)** chemical feedstock. **[2]**
+
+**11.** Describe how the chain length, volatility, boiling point and viscosity of the fractions change as you move up a fractionating column, from bitumen at the bottom to refinery gas at the top. **[3]**
+
+**12.** Write a balanced symbol equation for the reaction between ethene and bromine, and state what would be observed. **[3]**
+
 ---
 
 ## Answers
@@ -90,6 +101,15 @@ Related: [Petroleum, Alkanes and Alkenes revision notes](/resources/petroleum-al
 
 **8.** Alkanes have **no C=C double bond** for another atom or group to add across [1]; addition reactions specifically require the double bond alkenes have, which is why alkanes react by substitution instead [1].
 
+**9. (a)** **Addition** (hydrogenation) [1].
+**(b)** Catalyst: **nickel** [1]; organic product: **ethane** — the C=C double bond is fully saturated by the addition of hydrogen across it [1].
+
+**10. (a)** **Kerosene/paraffin** [1]. **(b)** **Naphtha** [1].
+
+**11.** Moving up the column, **chain length decreases** [1], **volatility increases and boiling point decreases** [1], and **viscosity decreases** — so bitumen at the bottom is a long-chain, high-boiling-point, highly viscous fraction, and refinery gas at the top is short-chain, low-boiling-point and freely flowing [1].
+
+**12.** C₂H₄ + Br₂ → C₂H₄Br₂ [2] *(1 mark for correct formulae, 1 mark for balancing).* The **orange bromine water decolourises**, confirming the addition reaction across the C=C double bond has taken place [1].
+
 ---
 
 ## Where marks are usually lost
@@ -99,3 +119,7 @@ Related: [Petroleum, Alkanes and Alkenes revision notes](/resources/petroleum-al
 - Getting the bromine water colour change the wrong way round (it decolourises with alkenes, stays orange with alkanes).
 - Writing the hydration of ethene as if it were combustion, rather than addition of steam across the double bond.
 - Treating fractional distillation, cracking and polymerisation as one vague "processing crude oil" idea — they are three distinct processes: distillation *separates* the existing hydrocarbons by boiling point, cracking *breaks* long-chain molecules into shorter ones, and polymerisation *joins* alkene monomers together.
+- Confusing hydrogenation (ethene + hydrogen, nickel catalyst, gives an alkane) with hydration (ethene + steam, acid catalyst, gives an alcohol) — same reaction type, completely different reagent and product.
+- Naming the wrong fraction for a use — remember the order runs bitumen, lubricating oil, fuel oil, diesel/gas oil, kerosene/paraffin, naphtha, gasoline/petrol, refinery gas from bottom to top, with chain length and boiling point falling all the way up.
+- Writing an addition equation with mismatched atom counts either side — check every atom balances, not just the carbons.
+- Calling petroleum a single named fossil fuel — petroleum, coal and natural gas (mainly methane) are three separate fossil fuels, not different names for the same thing.

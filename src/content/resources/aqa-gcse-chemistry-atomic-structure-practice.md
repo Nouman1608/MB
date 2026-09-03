@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Atomic Structure and the Periodic Table revision notes](/resources/aqa-gcse-chemistry-atomic-structure-revision-notes/)
+Related: [Atomic Structure and the Periodic Table revision notes](/resources/aqa-gcse-chemistry-atomic-structure-revision-notes/), covering electron configuration, group trends and separation techniques in full.
 
 ---
 
@@ -48,6 +48,12 @@ Related: [Atomic Structure and the Periodic Table revision notes](/resources/aqa
 
 **7.** State **two** properties of the noble gases and explain them in terms of electronic structure. **[3]**
 
+**8.** Explain how Mendeleev arranged the elements known in his time into an early periodic table, and how the later discovery of gallium and germanium supported his arrangement. **[3]**
+
+**9.** Describe the trend in melting and boiling points of the halogens (Group 7) down the group, and explain it in terms of intermolecular forces. **[3]**
+
+**10.** A student has a mixture of sand and salt solution. Describe how they could obtain **(a)** dry sand and **(b)** pure, dry salt crystals from this mixture, naming the technique used in each case. **[4]**
+
 ---
 
 ## Answers
@@ -62,11 +68,18 @@ Related: [Atomic Structure and the Periodic Table revision notes](/resources/aqa
 **(b)** (35 × 75 + 37 × 25) ÷ 100 [1] = **35.5** [1].
 **(c)** Chemical properties depend on the **number and arrangement of electrons** [1], which is **identical** in isotopes — only the neutron number differs [1].
 
-**5.** Reactivity **increases down the group** [1]. Each element down the group has **more electron shells, so the outer electron is further from the nucleus** [1] and is **shielded by more inner shells** [1]. The **attraction between the nucleus and the outer electron is therefore weaker**, so it is lost more easily and the reaction is more vigorous [1].
+**5.** Reactivity **increases down the group** [1]. Each element down the group has **more electron shells, so the outer electron is further from the nucleus** [1] and is **shielded by more inner shells** [1]. The **attraction between the nucleus and the outer electron is therefore weaker**, so it is lost more easily and the reaction is more vigorous [1]. All three parts of the explanation — distance, shielding, and the resulting weaker attraction — are needed for full marks; naming only "more shells" earns partial credit at best.
 
 **6.** Reactivity **decreases down the group** [1], because the outer shell is **further from the nucleus and more shielded** [1], so the atom **attracts an incoming electron less strongly** and gains one less readily [1]. Chlorine is **more reactive than iodine**, so it **displaces the iodide**, and the solution turns **brown** as iodine forms [1] [1].
 
 **7.** They are **unreactive/inert** [1] and exist as **single atoms (monatomic)** [1], because they have a **full outer shell of electrons**, so they have no tendency to lose, gain or share electrons [1].
+
+**8.** Mendeleev arranged the known elements in **order of atomic weight**, but grouped them so that elements with **similar properties fell in the same column** [1]. Where this meant leaving **gaps**, he did so anyway, and used the gaps to **predict the properties of undiscovered elements** [1]. When gallium and germanium were later discovered, their **actual properties matched his predictions closely**, confirming his arrangement was based on a real underlying pattern rather than coincidence [1].
+
+**9.** Melting and boiling points **increase down the group** [1], because the molecules **get larger** as you go down [1], so the **intermolecular forces between molecules become stronger** and more energy is needed to overcome them [1].
+
+**10. (a)** **Filtration** [1] separates the insoluble sand from the salt solution, exploiting the difference in **particle size** [1].
+**(b)** **Crystallisation** [1] of the filtered salt solution — heating to evaporate some water and leave the rest to crystallise — exploiting the **solubility** of salt, which falls as the solution becomes more concentrated [1].
 
 ---
 
@@ -76,3 +89,5 @@ Related: [Atomic Structure and the Periodic Table revision notes](/resources/aqa
 - Forgetting to divide by 100 in the relative atomic mass calculation.
 - Explaining group trends by "more shells" alone without mentioning shielding or distance.
 - Saying noble gases have no electrons in their outer shell.
+- Explaining Group 7's melting/boiling point trend using the same "shielding and distance" argument as reactivity — that argument is about electron loss/gain, not intermolecular forces, and answers the wrong question if used here.
+- Naming a separation technique without stating the property it exploits (particle size, solubility, or boiling point) — the technique name alone is a partial answer.

@@ -27,11 +27,12 @@ featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
-[Oscillations study guide](/resources/a-physics-oscillations/).
+[Oscillations study guide](/resources/a-physics-oscillations/), and test
+yourself with the [practice questions](/resources/a-physics-oscillations-practice/).
 
 ## Defining SHM
 
-> Motion in which the acceleration is **proportional to the displacement** from a fixed point and **always directed towards** that point.
+> Motion in which the acceleration is **proportional to the displacement** from a fixed point and **always directed towards** that point — the defining "restoring" behaviour that makes SHM oscillate rather than move off indefinitely.
 
 ```
 a = -omega^2 x
@@ -50,6 +51,12 @@ displacement        x = x0 sin(omega t)     (starting at equilibrium)
 velocity            v = +/- omega sqrt(x0^2 - x^2)
 maximum velocity    v_max = omega x0        (at x = 0)
 maximum accel.      a_max = omega^2 x0      (at x = +/- x0)
+```
+
+**Worked example.** Amplitude 0.050 m, angular frequency 4.0 rad/s.
+
+```
+v_max = omega x0 = 4.0 x 0.050 = 0.20 m/s
 ```
 
 ## Where each quantity peaks
@@ -71,7 +78,11 @@ kinetic        Ek = 1/2 m omega^2 (x0^2 - x^2)
 potential      Ep = 1/2 m omega^2 x^2
 ```
 
-Both Ek and Ep vary as **x²**, so their graphs against displacement are parabolas — and their sum is a horizontal line.
+Both Ek and Ep vary as **x²**, so their graphs against displacement are parabolas — and their sum is a horizontal line, since total energy is conserved throughout the oscillation.
+
+## Free, damped and forced oscillations
+
+A **free oscillation** occurs at the system's own **natural frequency**, with no external driving force and, ideally, no energy loss. A **damped oscillation** loses energy (usually to resistive forces such as friction or air resistance), so its amplitude falls over time. A **forced oscillation** is driven by an external periodic force at a **chosen driving frequency**, which need not match the natural frequency.
 
 ## Damping
 
@@ -81,17 +92,17 @@ Both Ek and Ep vary as **x²**, so their graphs against displacement are parabol
 | **Critical** | Returns to equilibrium in the **shortest time without oscillating** |
 | **Heavy (over)** | Returns slowly, no oscillation |
 
-Critical damping is the one used in car suspension and analogue meters.
+Critical damping is the one used in car suspension and analogue meters — a car suspension damped too lightly would keep bouncing after every bump, while one damped too heavily would respond sluggishly.
 
-Damping reduces amplitude but leaves the period essentially unchanged for light damping.
+Damping reduces amplitude but leaves the period essentially unchanged for light damping — a common point examiners test by asking what changes and what stays (approximately) the same.
 
 ## Resonance
 
 When the driving frequency equals the system's **natural frequency**, energy transfer is maximum and amplitude peaks.
 
-Increasing damping **lowers** the peak amplitude **and shifts it to a slightly lower frequency**, while broadening the curve.
+Increasing damping **lowers** the peak amplitude **and shifts it to a slightly lower frequency**, while broadening the curve — a heavily damped system barely shows a resonance peak at all.
 
-Examples: tuned circuits, MRI, musical instruments — and the destructive cases such as bridges and buildings in earthquakes.
+Examples: tuned circuits (selecting a radio station), MRI (nuclei driven at their resonant precession frequency), musical instruments (a sound box resonating at the note's natural frequency) — and the destructive cases such as bridges and buildings shaken at their natural frequency by wind or an earthquake.
 
 ## Exam traps
 
@@ -101,6 +112,9 @@ Examples: tuned circuits, MRI, musical instruments — and the destructive cases
 - Saying damping changes the period noticeably — for light damping it does not.
 - Describing critical damping as "the fastest return" without "**without oscillating**".
 - Forgetting total energy in SHM is constant.
+- Calling every oscillation a "free" oscillation — a free oscillation specifically has no external driving force, unlike a forced oscillation.
+- Confusing the driving frequency with the natural frequency — resonance is defined by the two being **equal**, not just "high".
+- Reading `sin ωt` and `cos ωt` as interchangeable — which one applies depends on whether the object starts at equilibrium (sin) or at maximum displacement (cos).
 
 ## Self-test
 
@@ -109,5 +123,7 @@ Examples: tuned circuits, MRI, musical instruments — and the destructive cases
 3. A pendulum has amplitude 0.05 m and ω = 4 rad/s. Find v_max.
 4. What distinguishes critical from heavy damping?
 5. What happens to the resonance peak as damping increases?
+6. Distinguish a free oscillation from a forced oscillation.
+7. A mass–spring system oscillates with amplitude 0.030 m and angular frequency 6.0 rad/s. Find its maximum acceleration.
 
-**Answers:** 1. Motion in which acceleration is proportional to displacement from a fixed point and always directed towards that point (a = −ω²x). 2. Acceleration is greatest at maximum displacement; velocity is greatest at the equilibrium position. 3. v_max = ωx₀ = 4 × 0.05 = **0.2 m/s**. 4. Critical damping returns the system to equilibrium in the shortest possible time without oscillating; heavy damping returns it more slowly, also without oscillating. 5. The peak amplitude falls, the peak shifts to a slightly lower frequency, and the curve broadens.
+**Answers:** 1. Motion in which acceleration is proportional to displacement from a fixed point and always directed towards that point (a = −ω²x). 2. Acceleration is greatest at maximum displacement; velocity is greatest at the equilibrium position. 3. v_max = ωx₀ = 4 × 0.05 = **0.2 m/s**. 4. Critical damping returns the system to equilibrium in the shortest possible time without oscillating; heavy damping returns it more slowly, also without oscillating. 5. The peak amplitude falls, the peak shifts to a slightly lower frequency, and the curve broadens. 6. A free oscillation occurs at the system's natural frequency with no external driving force; a forced oscillation is driven by an external periodic force at a chosen frequency, which may differ from the natural frequency. 7. a_max = ω²x₀ = 6.0² × 0.030 = 36 × 0.030 = **1.08 m/s²**.

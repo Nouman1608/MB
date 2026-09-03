@@ -35,7 +35,12 @@ featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
-[Metal Properties and Reactivity study guide](/resources/metal-properties-and-reactivity/).
+[Metal Properties and Reactivity study guide](/resources/metal-properties-and-reactivity/),
+and test yourself with the [practice questions](/resources/metals-reactivity-practice/).
+
+## Physical properties
+
+Metals share **good thermal and electrical conductivity**, **malleability** (can be hammered into shape without shattering) and **ductility** (can be drawn into wires), plus generally high melting and boiling points. All of these come from the same cause: **metallic bonding** — a lattice of positive ions in a "sea" of delocalised electrons. The delocalised electrons carry charge (conductivity) and heat, while the ions can slide past one another without breaking the bonding (malleability, ductility).
 
 ## The reactivity series — learn the order
 
@@ -46,7 +51,7 @@ MOST reactive ------------------------------> LEAST reactive
 
 Mnemonic: **P**lease **S**top **C**alling **M**e **A** **C**areless **Z**ebra **I**nstead **T**ry **C**alling **M**e **G**orgeous — or any you can hold under pressure.
 
-Carbon and hydrogen are inserted because they determine **extraction method** and **acid reaction**.
+Carbon and hydrogen are inserted because they determine **extraction method** and **acid reaction** — neither is a metal, but both act as reference points against which the true metals are judged.
 
 ## Reactions in one table
 
@@ -65,6 +70,16 @@ metal + acid   ->  salt            + hydrogen
 
 Metals **below hydrogen** (Cu, Ag, Au) do not react with dilute acid — the standard one-mark question.
 
+**Worked example.** Magnesium ribbon reacts vigorously with dilute hydrochloric acid; iron filings react slowly with gentle fizzing; copper powder shows no reaction. Rank the three by reactivity, with reasoning.
+
+```
+More vigorous reaction with acid = more reactive metal.
+Magnesium > Iron > Copper
+
+Consistent with the reactivity series: Mg sits well above Fe, and Fe is
+above hydrogen while Cu sits below it -- matching Cu's total lack of reaction.
+```
+
 ## Displacement
 
 A more reactive metal displaces a less reactive one from its compound.
@@ -74,7 +89,7 @@ Zn + CuSO4  ->  ZnSO4 + Cu     (blue solution fades, brown deposit)
 Cu + ZnSO4  ->  NO REACTION
 ```
 
-These are **redox**: the more reactive metal is oxidised (loses electrons); the metal ion is reduced.
+These are **redox**: the more reactive metal is oxidised (loses electrons); the metal ion is reduced. The same idea underlies **sacrificial protection** below — a more reactive metal is deliberately sacrificed (oxidised) so a less reactive one is not.
 
 ## Extraction — decided by reactivity
 
@@ -84,7 +99,7 @@ These are **redox**: the more reactive metal is oxidised (loses electrons); the 
 | Below carbon | **Reduction with carbon** | Zn, Fe, Pb |
 | Very unreactive | Found **native** | Au, Ag |
 
-Aluminium needs electrolysis despite the cost because carbon cannot reduce it.
+Aluminium needs electrolysis despite the cost because carbon cannot reduce it — electrolysis uses far more energy than heating with carbon, but it is the only option for a metal above carbon in the series.
 
 ## Rusting
 
@@ -106,6 +121,8 @@ iron + oxygen + water  ->  hydrated iron(III) oxide
 - Sacrificial metal must be **more** reactive than iron.
 - A scratched tin can rusts **faster** than bare iron (tin is less reactive, so iron corrodes preferentially).
 - Extraction method follows the metal's position relative to **carbon**.
+- Explaining malleability or conductivity without mentioning the delocalised electron sea — "metals are shiny" is not a mechanism.
+- Ranking metals by acid reaction without linking the observation (vigour of fizzing) back to the reactivity series explicitly.
 
 ## Self-test
 
@@ -114,5 +131,7 @@ iron + oxygen + water  ->  hydrated iron(III) oxide
 3. Will magnesium displace zinc from zinc sulfate? Explain.
 4. Why is aluminium extracted by electrolysis rather than with carbon?
 5. Why is galvanising better than tin plating?
+6. Explain, in terms of structure and bonding, why metals conduct electricity.
+7. Zinc granules react steadily with dilute hydrochloric acid; magnesium ribbon reacts violently; lead reacts extremely slowly. Rank the three by reactivity.
 
-**Answers:** 1. It lies below hydrogen in the reactivity series, so it cannot displace hydrogen from the acid. 2. Magnesium oxide and hydrogen. 3. Yes — magnesium is more reactive than zinc, so it displaces zinc: Mg + ZnSO₄ → MgSO₄ + Zn. 4. Aluminium is above carbon in the reactivity series, so carbon cannot reduce its oxide; electrolysis is required. 5. Zinc is more reactive than iron, so it protects both as a barrier and sacrificially even when scratched; tin is less reactive, so a scratch causes the iron to corrode faster.
+**Answers:** 1. It lies below hydrogen in the reactivity series, so it cannot displace hydrogen from the acid. 2. Magnesium oxide and hydrogen. 3. Yes — magnesium is more reactive than zinc, so it displaces zinc: Mg + ZnSO₄ → MgSO₄ + Zn. 4. Aluminium is above carbon in the reactivity series, so carbon cannot reduce its oxide; electrolysis is required. 5. Zinc is more reactive than iron, so it protects both as a barrier and sacrificially even when scratched; tin is less reactive, so a scratch causes the iron to corrode faster. 6. Metals have delocalised electrons in a "sea" around a lattice of positive ions; these electrons are free to move throughout the structure and carry charge, allowing conduction. 7. Magnesium (most vigorous) > Zinc (steady) > Lead (extremely slow) — matching their order in the reactivity series.

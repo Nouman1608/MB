@@ -52,6 +52,21 @@ Related: [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pu
 
 **7.** Prove that the sum of any two consecutive odd numbers is a multiple of 4. **[3]**
 
+**8.** The functions f and g are defined for all real x by f(x) = 3x + 2 and g(x) = x² − 1.
+
+**(a)** Find gf(x) in the form ax² + bx + c. **[2]**
+**(b)** Find f⁻¹(x). **[2]**
+
+**9.** A sector of a circle has radius 8 cm and angle 1.2 radians.
+
+**(a)** Find the arc length of the sector. **[1]**
+**(b)** Find the area of the sector. **[2]**
+
+**10.** The vectors **a** = 2**i** + 3**j** − 6**k** and **b** = 4**i** + 6**j** − 12**k** are given.
+
+**(a)** Find |**a**|. **[2]**
+**(b)** State, with a reason, whether **a** and **b** are parallel. **[2]**
+
 ---
 
 ## Answers
@@ -74,6 +89,15 @@ Related: [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pu
 
 **7.** Let the odd numbers be 2n + 1 and 2n + 3 [1]. Their sum is 4n + 4 [1] = 4(n + 1), which is a **multiple of 4** for all integers n [1].
 
+**8. (a)** gf(x) = (3x + 2)² − 1 [1] = 9x² + 12x + 4 − 1 = **9x² + 12x + 3** [1].
+**(b)** Let y = 3x + 2, so x = (y − 2) ÷ 3 [1]; **f⁻¹(x) = (x − 2) ÷ 3** [1].
+
+**9. (a)** s = rθ = 8 × 1.2 = **9.6 cm** [1].
+**(b)** Area = ½r²θ = ½ × 8² × 1.2 = ½ × 64 × 1.2 [1] = **38.4 cm²** [1].
+
+**10. (a)** |**a**| = √(2² + 3² + (−6)²) = √(4 + 9 + 36) [1] = √49 = **7** [1].
+**(b) b** = 2**a** [1], so **a** and **b** **are parallel** — every component of **b** is exactly twice the corresponding component of **a**, confirming **b** is a scalar multiple of **a** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -82,3 +106,7 @@ Related: [Pure Mathematics revision notes](/resources/ocr-a-level-mathematics-pu
 - Using the wrong sign in the quotient rule numerator.
 - Omitting the factor ½ when integrating sin 2x.
 - Not stating the "in lowest terms" assumption, which is the key to the contradiction.
+- Applying gf(x) as fg(x) instead — always substitute the *inner* function's whole expression into the *outer* function, working from the inside out.
+- Swapping x and y the wrong way round when finding an inverse function, or forgetting to relabel the result in terms of x.
+- Using a calculator in degree mode for arc length and sector area — `s = rθ` and `Area = ½r²θ` only hold when θ is in **radians**.
+- Checking vectors for a parallel relationship by comparing only one or two components instead of all three — a genuine scalar multiple must hold across every component.

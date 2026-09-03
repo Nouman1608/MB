@@ -35,7 +35,8 @@ featured: false
 ---
 
 Condensed for the final weeks. For worked explanations, use the
-[Formulae, Equations and the Mole study guide](/resources/formulae-equations-and-the-mole/).
+[Formulae, Equations and the Mole study guide](/resources/formulae-equations-and-the-mole/),
+and test yourself with the [practice questions](/resources/formulae-equations-and-the-mole-practice/).
 
 ## Every equation you need
 
@@ -61,7 +62,7 @@ Almost every stoichiometry question is the same four steps:
 3. Use the **mole ratio** from the balanced equation.
 4. Convert the unknown moles back to mass, volume or concentration.
 
-Skipping step 1 invalidates step 3, which is where most lost marks originate.
+Skipping step 1 invalidates step 3, which is where most lost marks originate — an unbalanced equation gives the wrong mole ratio, and every later step inherits that error.
 
 ## Common ions to know by heart
 
@@ -76,6 +77,8 @@ Skipping step 1 invalidates step 3, which is where most lost marks originate.
 
 **Writing a formula:** swap the charges, then simplify. Ca²⁺ and NO₃⁻ → Ca(NO₃)₂. Brackets are needed whenever more than one polyatomic ion is present.
 
+**When the charges don't cancel neatly, use the lowest common multiple.** Al³⁺ and O²⁻: the LCM of 3 and 2 is 6, so 2 Al³⁺ balances 3 O²⁻, giving **Al₂O₃**. The compound must always end up electrically neutral overall.
+
 ## Empirical formula — the routine
 
 ```
@@ -87,9 +90,38 @@ Skipping step 1 invalidates step 3, which is where most lost marks originate.
 
 Molecular formula = empirical formula × n, where n = (molecular mass) / (empirical mass).
 
+## Percentage composition by mass
+
+A different question type from percentage yield: what fraction of a compound's total mass
+comes from one element?
+
+```
+% composition = (mass of that element in the formula / Mr of the compound) x 100
+```
+
+**Worked example.** Percentage of oxygen by mass in CaCO₃ (Mr = 100, three oxygen atoms,
+Ar(O) = 16).
+
+```
+% O = (3 x 16 / 100) x 100 = 48%
+```
+
+Set out the numerator (the element's total contribution) and the denominator (the whole
+compound's Mr) explicitly before dividing — combining them in the wrong order is the usual
+slip.
+
 ## Limiting reagent
 
 Convert **both** reactants to moles, divide each by its coefficient in the balanced equation, and the **smaller** result is limiting. All product calculations use the limiting reagent — never the one in excess.
+
+## What's Core, what's Extended
+
+For IGCSE 0620, **Core** candidates need only *state* that concentration can be measured
+in g/dm³ or mol/dm³, and can calculate reacting masses in simple proportions without
+using moles at all. Everything else on this page — the mole itself, molar gas volume,
+concentration calculations, empirical formula from data, and percentage
+yield/composition/purity — is **Extended** content. O Level 5070 candidates require all of
+it, with no Core/Extended split.
 
 ## Exam traps
 
@@ -99,6 +131,8 @@ Convert **both** reactants to moles, divide each by its coefficient in the balan
 - Percentage yield can never exceed 100%; if it does, recheck the theoretical value.
 - Ar is for atoms, Mr for molecules and formula units — use the right one.
 - State symbols are often worth a mark: (s), (l), (g), (aq).
+- Using the LCM method but forgetting to check the final formula is electrically neutral overall.
+- Confusing percentage composition (one element's share of a compound's mass) with percentage yield (actual product vs theoretical) — they use completely different numerators and denominators.
 
 ## Self-test
 
@@ -107,5 +141,7 @@ Convert **both** reactants to moles, divide each by its coefficient in the balan
 3. 25.0 cm³ of 0.1 mol/dm³ HCl — how many moles?
 4. A compound is 40% C, 6.7% H, 53.3% O. Find the empirical formula.
 5. Why must the equation be balanced before using a mole ratio?
+6. Deduce the formula of aluminium oxide from the charges Al³⁺ and O²⁻.
+7. Find the percentage by mass of oxygen in CaCO₃ (Ar: Ca 40, C 12, O 16).
 
-**Answers:** 1. Mr = 40+12+48 = 100; mass = 0.25 × 100 = **25 g**. 2. 0.5 × 24 = **12 dm³**. 3. V = 0.025 dm³; n = 0.1 × 0.025 = **0.0025 mol**. 4. 40/12 = 3.33, 6.7/1 = 6.7, 53.3/16 = 3.33; divide by 3.33 → 1 : 2 : 1 → **CH₂O**. 5. The ratio of coefficients *is* the mole ratio; an unbalanced equation gives the wrong ratio and every subsequent step is wrong.
+**Answers:** 1. Mr = 40+12+48 = 100; mass = 0.25 × 100 = **25 g**. 2. 0.5 × 24 = **12 dm³**. 3. V = 0.025 dm³; n = 0.1 × 0.025 = **0.0025 mol**. 4. 40/12 = 3.33, 6.7/1 = 6.7, 53.3/16 = 3.33; divide by 3.33 → 1 : 2 : 1 → **CH₂O**. 5. The ratio of coefficients *is* the mole ratio; an unbalanced equation gives the wrong ratio and every subsequent step is wrong. 6. LCM of 3 and 2 is 6, so 2 Al³⁺ balances 3 O²⁻ → **Al₂O₃**. 7. Mr(CaCO₃) = 100, mass of O = 3 × 16 = 48; % O = (48 ÷ 100) × 100 = **48%**.

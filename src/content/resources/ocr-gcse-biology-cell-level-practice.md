@@ -22,7 +22,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Cell Level Systems revision notes](/resources/ocr-gcse-biology-cell-level-revision-notes/)
+Related: [Cell Level Systems revision notes](/resources/ocr-gcse-biology-cell-level-revision-notes/) and the [Cell Level Systems study guide](/resources/ocr-gcse-biology-cell-level-systems/) for the full topic explanation.
 
 ---
 
@@ -47,6 +47,15 @@ Related: [Cell Level Systems revision notes](/resources/ocr-gcse-biology-cell-le
 
 **6.** Explain why the reactions of respiration and photosynthesis both depend on enzymes. **[2]**
 
+**7.** State **two** structural differences between a prokaryotic cell and a eukaryotic cell. **[2]**
+
+**8.** A student photographs a cell under a light microscope. The cell's actual width is 20 μm, and its width in the photograph is 60 mm.
+
+**(a)** Calculate the magnification of the photograph. **[3]**
+**(b)** Explain why an electron microscope, rather than a light microscope, would be needed to see the cell's ribosomes. **[2]**
+
+**9.** In an experiment testing the enzyme trypsin, a student times how long a cross drawn under a beaker of reaction mixture takes to disappear. The cross disappears after 25 seconds. Using rate = 1000 ÷ time, calculate the rate of reaction. **[2]**
+
 ---
 
 ## Answers
@@ -66,6 +75,13 @@ Related: [Cell Level Systems revision notes](/resources/ocr-gcse-biology-cell-le
 
 **6.** Both are **series of reactions that would otherwise be far too slow at body or ambient temperature** [1]; enzymes **catalyse each step, lowering the activation energy** so the reactions proceed fast enough to sustain life [1].
 
+**7.** Any two of: a prokaryotic cell **has no nucleus, with DNA free in the cytoplasm**, while a eukaryotic cell's DNA is enclosed in a nucleus [1]; a prokaryotic cell is **much smaller** (around 1 μm vs 10–100 μm) [1]; a prokaryotic cell has **only ribosomes as organelles**, while a eukaryotic cell has many membrane-bound organelles [1]; a prokaryotic cell **often contains plasmids**, which eukaryotic cells do not [1].
+
+**8. (a)** Convert to the same unit first: 60 mm = 60 000 μm [1]. Magnification = image size ÷ actual size = 60 000 ÷ 20 [1] = **×3000** [1].
+**(b)** Electron microscopes have a **much higher resolution** than light microscopes, because electrons have a far shorter wavelength than light [1], so structures as small as ribosomes can be distinguished as separate rather than appearing as an unresolved blur [1].
+
+**9.** Rate = 1000 ÷ time = 1000 ÷ 25 [1] = **40** (arbitrary rate units) [1].
+
 ---
 
 ## Where marks are usually lost
@@ -74,3 +90,7 @@ Related: [Cell Level Systems revision notes](/resources/ocr-gcse-biology-cell-le
 - Saying anaerobic respiration in muscle produces carbon dioxide.
 - Explaining the plateau without naming an alternative limiting factor.
 - Forgetting that three bases code for one amino acid.
+- Mixing up magnification and resolution — a bigger, blurrier image is not "more detail".
+- Forgetting to convert both measurements to the same unit before dividing in a magnification calculation.
+- Saying a prokaryotic cell has "no DNA" rather than "no nucleus" — the DNA is present, just not enclosed.
+- Giving the rate of a `1000 ÷ time` calculation without units, or inventing units that were never specified — state the value as arbitrary rate units unless the question gives real ones.

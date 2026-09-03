@@ -23,7 +23,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Structure, Bonding and Organic Chemistry revision notes](/resources/edexcel-a-level-chemistry-bonding-revision-notes/)
+Related: [Structure, Bonding and Organic Chemistry revision notes](/resources/edexcel-a-level-chemistry-bonding-revision-notes/) and the [full study guide](/resources/a-level-edexcel-chemistry-structure-bonding-organic-chemistry/).
 
 ---
 
@@ -50,6 +50,15 @@ Related: [Structure, Bonding and Organic Chemistry revision notes](/resources/ed
 
 **7.** Rank C–F, C–Cl, C–Br and C–I by rate of nucleophilic substitution and explain the order. **[3]**
 
+**8.** Explain why ice is less dense than liquid water. **[3]**
+
+**9.** 2-bromo-2-methylpropane is heated under reflux with **ethanolic** potassium hydroxide, instead of aqueous potassium hydroxide.
+
+**(a)** Name the type of mechanism and give the name of the organic product. **[2]**
+**(b)** State the type of mechanism and the organic product that aqueous potassium hydroxide would give instead. **[2]**
+
+**10.** Propene reacts with hydrogen bromide by electrophilic addition to give predominantly 2-bromopropane rather than 1-bromopropane. Explain this observation in terms of carbocation stability, referring to the mechanism by which the H⁺ and Br⁻ add across the double bond. **[3]**
+
 ---
 
 ## Answers
@@ -71,6 +80,13 @@ Related: [Structure, Bonding and Organic Chemistry revision notes](/resources/ed
 
 **7.** C–I > C–Br > C–Cl > C–F [1]. The rate depends on the **carbon–halogen bond enthalpy** [1]; C–I is the weakest so it breaks most readily, while C–F is by far the strongest despite being the most polar [1].
 
+**8.** Each water molecule can form **four hydrogen bonds**, arranged **tetrahedrally** around it [1]. In ice this produces a rigid, **open lattice with holes** between molecules [1]. On melting, the lattice partly **collapses** as molecules pack more closely, so the liquid is **denser than the solid** [1].
+
+**9. (a) Elimination** [1]; the organic product is **2-methylpropene** [1].
+**(b) Nucleophilic substitution** [1]; the organic product would be **2-methylpropan-2-ol** [1].
+
+**10.** Protonation of propene can give either a **secondary carbocation** (H⁺ adds to the terminal carbon) or a **primary carbocation** (H⁺ adds to the middle carbon) [1]. The **secondary carbocation is more stable**, because the two alkyl groups attached to the positively charged carbon **push electron density towards it**, inductively stabilising the charge, whereas the primary carbocation has only one such alkyl group [1]. The reaction proceeds predominantly through the more stable secondary carbocation, so bromide attacks the middle carbon and **2-bromopropane** is the major product [1].
+
 ---
 
 ## Where marks are usually lost
@@ -79,3 +95,7 @@ Related: [Structure, Bonding and Organic Chemistry revision notes](/resources/ed
 - Saying SO₂ is linear.
 - Giving only one condition for E/Z isomerism.
 - Explaining C–X reactivity by electronegativity.
+- Explaining ice's low density without mentioning the tetrahedral arrangement or the open lattice with holes.
+- Mixing up which conditions give substitution and which give elimination — aqueous KOH substitutes to an alcohol, ethanolic KOH eliminates to an alkene.
+- Explaining Markovnikov's rule as "hydrogen goes to the carbon with more hydrogens" instead of via carbocation stability, which is the mechanism examiners require.
+- Drawing curly arrows starting from an atom or a positive charge — they must always start from a bond or a lone pair, showing a pair of electrons moving.
