@@ -456,6 +456,7 @@
 /resources/practice-questions/business-activity-and-classification-practice/  /resources/business-activity-and-classification-practice/  301
 /resources/revision-notes/business-activity-and-classification-revision-notes/  /resources/business-activity-and-classification-revision-notes/  301
 /resources/study-guides/business-entities-and-the-accounting-system/  /resources/business-entities-and-the-accounting-system/  301
+/resources/revision-notes/business-people-in-business-revision-notes/  /resources/business-people-in-business-revision-notes/  301
 /resources/study-guides/cell-structure-and-organisation/  /resources/cell-structure-and-organisation/  301
 /resources/practice-questions/cell-structure-and-organisation-practice/  /resources/cell-structure-and-organisation-practice/  301
 /resources/revision-notes/cell-structure-and-organisation-revision-notes/  /resources/cell-structure-and-organisation-revision-notes/  301
@@ -463,9 +464,11 @@
 /resources/practice-questions/chemistry-of-the-environment-practice/  /resources/chemistry-of-the-environment-practice/  301
 /resources/revision-notes/chemistry-of-the-environment-revision-notes/  /resources/chemistry-of-the-environment-revision-notes/  301
 /resources/practice-questions/commerce-and-production-practice/  /resources/commerce-and-production-practice/  301
+/resources/revision-notes/commerce-commercial-operations-revision-notes/  /resources/commerce-commercial-operations-revision-notes/  301
 /resources/practice-questions/data-representation-practice/  /resources/data-representation-practice/  301
 /resources/revision-notes/data-representation-revision-notes/  /resources/data-representation-revision-notes/  301
 /resources/revision-notes/data-transmission-revision-notes/  /resources/data-transmission-revision-notes/  301
+/resources/revision-notes/economics-microeconomic-decision-makers-revision-notes/  /resources/economics-microeconomic-decision-makers-revision-notes/  301
 /resources/revision-notes/edexcel-a-level-accounting-control-accounts-revision-notes/  /resources/edexcel-a-level-accounting-control-accounts-revision-notes/  301
 /resources/practice-questions/edexcel-a-level-accounting-principles-practice/  /resources/edexcel-a-level-accounting-principles-practice/  301
 /resources/revision-notes/edexcel-a-level-accounting-principles-revision-notes/  /resources/edexcel-a-level-accounting-principles-revision-notes/  301
@@ -953,11 +956,13 @@
 /resources/revision-notes/o-level-cambridge-urdu-first-and-second-language-revision-notes/  /resources/o-level-cambridge-urdu-first-and-second-language-revision-notes/  301
 /resources/study-guides/o-level-cambridge-urdu-first-language-paper-2-texts/  /resources/o-level-cambridge-urdu-first-language-paper-2-texts/  301
 /resources/study-guides/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation/  /resources/o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation/  301
+/resources/practice-questions/o-level-commerce-commercial-operations-practice/  /resources/o-level-commerce-commercial-operations-practice/  301
 /resources/revision-notes/o-level-commerce-commercial-operations-revision-notes/  /resources/o-level-commerce-commercial-operations-revision-notes/  301
 /resources/practice-questions/o-level-commerce-production-practice/  /resources/o-level-commerce-production-practice/  301
 /resources/revision-notes/o-level-commerce-production-revision-notes/  /resources/o-level-commerce-production-revision-notes/  301
 /resources/practice-questions/o-level-computer-science-data-representation-practice/  /resources/o-level-computer-science-data-representation-practice/  301
 /resources/revision-notes/o-level-computer-science-data-representation-revision-notes/  /resources/o-level-computer-science-data-representation-revision-notes/  301
+/resources/revision-notes/o-level-computer-science-data-transmission-revision-notes/  /resources/o-level-computer-science-data-transmission-revision-notes/  301
 /resources/study-guides/o-level-computer-science-hardware/  /resources/o-level-computer-science-hardware/  301
 /resources/study-guides/o-level-economics-microeconomic-decision-makers/  /resources/o-level-economics-microeconomic-decision-makers/  301
 /resources/study-guides/o-level-economics-the-allocation-of-resources/  /resources/o-level-economics-the-allocation-of-resources/  301
@@ -967,6 +972,7 @@
 /resources/study-guides/o-level-english-language-paper-2-writing/  /resources/o-level-english-language-paper-2-writing/  301
 /resources/practice-questions/o-level-english-language-practice/  /resources/o-level-english-language-practice/  301
 /resources/revision-notes/o-level-english-language-revision-notes/  /resources/o-level-english-language-revision-notes/  301
+/resources/revision-notes/o-level-english-paper-2-writing-revision-notes/  /resources/o-level-english-paper-2-writing-revision-notes/  301
 /resources/revision-notes/o-level-environmental-management-energy-revision-notes/  /resources/o-level-environmental-management-energy-revision-notes/  301
 /resources/practice-questions/o-level-environmental-management-rocks-practice/  /resources/o-level-environmental-management-rocks-practice/  301
 /resources/revision-notes/o-level-environmental-management-rocks-revision-notes/  /resources/o-level-environmental-management-rocks-revision-notes/  301
@@ -979,11 +985,13 @@
 /resources/practice-questions/o-level-islamiyat-paper-1-practice/  /resources/o-level-islamiyat-paper-1-practice/  301
 /resources/revision-notes/o-level-islamiyat-paper-1-revision-notes/  /resources/o-level-islamiyat-paper-1-revision-notes/  301
 /resources/study-guides/o-level-islamiyat-paper-2/        /resources/o-level-islamiyat-paper-2/  301
+/resources/practice-questions/o-level-islamiyat-paper-2-practice/  /resources/o-level-islamiyat-paper-2-practice/  301
 /resources/revision-notes/o-level-islamiyat-paper-2-revision-notes/  /resources/o-level-islamiyat-paper-2-revision-notes/  301
 /resources/study-guides/o-level-pakistan-studies-history-and-culture-of-pakistan/  /resources/o-level-pakistan-studies-history-and-culture-of-pakistan/  301
 /resources/practice-questions/o-level-pakistan-studies-history-and-culture-of-pakistan-practice/  /resources/o-level-pakistan-studies-history-and-culture-of-pakistan-practice/  301
 /resources/revision-notes/o-level-pakistan-studies-history-and-culture-of-pakistan-revision-notes/  /resources/o-level-pakistan-studies-history-and-culture-of-pakistan-revision-notes/  301
 /resources/study-guides/o-level-pakistan-studies-land-of-pakistan/  /resources/o-level-pakistan-studies-land-of-pakistan/  301
+/resources/revision-notes/o-level-pakistan-studies-land-revision-notes/  /resources/o-level-pakistan-studies-land-revision-notes/  301
 /resources/study-guides/o-level-pakistan-studies-natural-resources/  /resources/o-level-pakistan-studies-natural-resources/  301
 /resources/study-guides/o-level-sociology-family-education-crime/  /resources/o-level-sociology-family-education-crime/  301
 /resources/revision-notes/o-level-sociology-family-education-crime-revision-notes/  /resources/o-level-sociology-family-education-crime-revision-notes/  301
@@ -993,6 +1001,7 @@
 /resources/practice-questions/o-level-statistics-data-collection-practice/  /resources/o-level-statistics-data-collection-practice/  301
 /resources/revision-notes/o-level-statistics-data-collection-revision-notes/  /resources/o-level-statistics-data-collection-revision-notes/  301
 /resources/revision-notes/o-level-statistics-summary-representation-revision-notes/  /resources/o-level-statistics-summary-representation-revision-notes/  301
+/resources/revision-notes/o-level-urdu-second-language-paper-2-revision-notes/  /resources/o-level-urdu-second-language-paper-2-revision-notes/  301
 /resources/study-guides/o-level-world-history-depth-studies/  /resources/o-level-world-history-depth-studies/  301
 /resources/study-guides/o-level-world-history-nineteenth-century-1848-1914/  /resources/o-level-world-history-nineteenth-century-1848-1914/  301
 /resources/practice-questions/o-level-world-history-nineteenth-century-practice/  /resources/o-level-world-history-nineteenth-century-practice/  301
@@ -1139,6 +1148,7 @@
 /resources/revision-notes/states-of-matter-revision-notes/  /resources/states-of-matter-revision-notes/  301
 /resources/practice-questions/statistics-data-collection-practice/  /resources/statistics-data-collection-practice/  301
 /resources/revision-notes/statistics-data-collection-revision-notes/  /resources/statistics-data-collection-revision-notes/  301
+/resources/revision-notes/statistics-representation-of-data-revision-notes/  /resources/statistics-representation-of-data-revision-notes/  301
 /resources/study-guides/the-basic-economic-problem/       /resources/the-basic-economic-problem/  301
 /resources/practice-questions/the-basic-economic-problem-practice/  /resources/the-basic-economic-problem-practice/  301
 /resources/practice-questions/travel-graphs-practice/     /resources/travel-graphs-practice/  301
