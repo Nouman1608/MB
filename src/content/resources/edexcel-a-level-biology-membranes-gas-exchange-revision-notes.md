@@ -114,6 +114,11 @@ Outcomes 2.1-2.5 open Topic 2 (Membranes, Proteins, DNA and Gene Expression), wh
 - Complete the five-row comparison table (energy, direction, protein/vesicle) from memory.
 - Predict the effect on gas exchange rate if surface area is halved, all else constant.
 
+## Related resources
+
+[Gas Exchange Surfaces, Membranes and Osmosis study guide](/resources/a-level-edexcel-biology-membranes-gas-exchange-and-osmosis/) |
+[Gas Exchange Surfaces, Membranes and Osmosis practice questions](/resources/edexcel-a-level-biology-membranes-gas-exchange-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in

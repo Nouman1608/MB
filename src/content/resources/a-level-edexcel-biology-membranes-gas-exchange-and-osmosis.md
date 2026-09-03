@@ -148,6 +148,11 @@ movement down a water potential gradient.
 - Review the fluid mosaic model as a scientific model built from
 interpreting data, not simply a fixed structural diagram.
 
+## Related resources
+
+[Gas Exchange Surfaces, Membranes and Osmosis revision notes](/resources/edexcel-a-level-biology-membranes-gas-exchange-revision-notes/) |
+[Gas Exchange Surfaces, Membranes and Osmosis practice questions](/resources/edexcel-a-level-biology-membranes-gas-exchange-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in
