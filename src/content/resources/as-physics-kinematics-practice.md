@@ -54,6 +54,12 @@ Related: [Kinematics revision notes](/resources/as-physics-kinematics-revision-n
 **(c)** Calculate the horizontal distance travelled. **[2]**
 **(d)** Calculate the speed on impact. **[3]**
 
+**7.** Derive the equation v = u + at from the definition of acceleration. **[2]**
+
+**8.** An object is dropped from rest and falls freely for 1.5 s. Using g = 9.81 m s⁻², calculate the distance fallen and its velocity at that point. **[3]**
+
+**9.** Describe an experimental method to determine g in the laboratory, including how random error is reduced. **[3]**
+
 ---
 
 ## Answers
@@ -86,6 +92,12 @@ t = **3.03 s** [1].
 **(d)** Vertical velocity: v = at = 9.81 × 3.03 = 29.7 m s⁻¹ [1]
 Resultant = √(12² + 29.7²) [1] = √(144 + 882) = **32.0 m s⁻¹** [1].
 
+**7.** Acceleration is defined as **a = (v − u) ÷ t**, the rate of change of velocity [1]. Rearranging directly: at = v − u, so **v = u + at** [1]. The remaining suvat equations can similarly be derived by combining this result with the definition of velocity as displacement over time.
+
+**8.** s = ut + ½at², with u = 0: s = ½ × 9.81 × 1.5² [1] = **11.0 m** [1]. v = u + at = 0 + 9.81 × 1.5 = **14.7 m s⁻¹** [1]. Air resistance is assumed negligible throughout this calculation.
+
+**9.** Drop an object through a known, measured height and time the fall electronically, using a **light gate or a timer released by an electromagnet** [1]. Using s = ½gt² (since u = 0), rearranged to **g = 2s/t²** [1]. Repeating the drop and **averaging t** reduces the effect of random timing error [1]. Electronic timing is preferred over a hand-operated stopwatch, since human reaction time introduces a much larger, systematic source of error over such a short fall.
+
 ---
 
 ## Where marks are usually lost
@@ -96,3 +108,5 @@ Resultant = √(12² + 29.7²) [1] = √(144 + 882) = **32.0 m s⁻¹** [1].
 - Forgetting the sign convention for upward and downward motion.
 - Defining acceleration loosely, e.g. "rate of change of velocity per unit time" — that's a rate of a rate. It is simply the *rate of change of velocity*; don't add "per unit time" on top of "rate of".
 - When a projectile is launched at an angle (not purely horizontally), using its total initial speed directly in a vertical *suvat* equation instead of resolving it into a vertical component first.
+- Timing only a single drop when measuring g experimentally, rather than repeating and averaging to reduce random error.
+- Forgetting that the suvat equations themselves can be derived from the definitions of velocity and acceleration, not simply recalled from memory.

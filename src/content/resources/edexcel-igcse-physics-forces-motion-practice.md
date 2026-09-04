@@ -69,6 +69,12 @@ Related: [Forces and Motion revision notes](/resources/edexcel-igcse-physics-for
 
 **7.** A uniform metre rule is balanced at its centre. A 2.0 N weight is placed 30 cm from the pivot on one side. Calculate where a 3.0 N weight must be placed on the other side to balance it. **[3]**
 
+**8.** State Hooke's law, and explain what happens to a spring's behaviour beyond the limit of proportionality. **[3]**
+
+**9.** A spring extends 4.0 cm under a force of 2.0 N. Calculate the spring constant, and predict the extension for a force of 5.0 N, assuming the limit of proportionality is not exceeded. **[3]**
+
+**10.** Explain why the upward support forces at each end of a beam change as a load is moved along its length. **[2]**
+
 ---
 
 ## Answers
@@ -102,6 +108,12 @@ Braking distance: **higher speed**, worn tyres or brakes, wet or icy road — an
 For balance, 3.0 × d = 60 [1]
 d = **20 cm** from the pivot [1].
 
+**8.** Over an initial linear region, **extension is directly proportional to the applied force** [1]. Beyond the **limit of proportionality**, this linear relationship no longer holds [1], and if stretched far enough the spring may not return to its original length once the force is removed [1].
+
+**9.** k = F ÷ x = 2.0 ÷ 0.040 [1] = **50 N/m**. For F = 5.0 N: x = F ÷ k = 5.0 ÷ 50 [1] = **0.10 m (10 cm)** [1]. Note that x must be converted to metres to give k in the standard unit of N/m; using centimetres directly would give a numerically different, non-standard result.
+
+**10.** As the load moves closer to one support, the **moment it creates about that support decreases**, so that support carries less of the load's weight, while the **moment about the other, more distant support increases**, so that support must provide a greater upward force to keep the beam in equilibrium [1] [1]. The two support forces must always sum to the total weight being supported, however the load is positioned.
+
 ---
 
 ## Where marks are usually lost
@@ -111,3 +123,5 @@ d = **20 cm** from the pivot [1].
 - Forgetting that opening a parachute gives a **new lower** terminal velocity, not zero.
 - Saying a crumple zone "absorbs the force".
 - Omitting "perpendicular distance" in moment calculations.
+- Forgetting to convert extension to metres before calculating a spring constant.
+- Saying a spring "always" returns to its original length, regardless of how far it is stretched.

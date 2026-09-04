@@ -50,6 +50,14 @@ Related: [Information Representation revision notes](/resources/a-computer-scien
 
 **6.** Explain how run-length encoding works, apply it to the string AAAABBBCCCCCCD, and state one case where it would increase the file size. **[5]**
 
+**7.** Convert the binary number 10110110 into hexadecimal, showing your working. **[2]**
+
+**8.** State the effect of a logical left shift by 2 places on the 8-bit value 00000011, and explain why an arithmetic (not logical) right shift is needed for a negative two's complement number. **[3]**
+
+**9.** Calculate the file size, in bits, of an uncompressed image measuring 200 × 150 pixels with a colour depth of 8 bits per pixel. **[2]**
+
+**10.** State one advantage of Unicode over ASCII, and one cost of this advantage. **[2]**
+
 ---
 
 ## Answers
@@ -70,6 +78,14 @@ Related: [Information Representation revision notes](/resources/a-computer-scien
 **6.** Run-length encoding **replaces a run of identical consecutive values with the value and a count of how many times it repeats** [1] [1]. AAAABBBCCCCCCD becomes **4A3B6C1D** [1] — from 14 characters to 8.
 It would **increase the file size where there are few or no repeated runs** [1], for example ABCDEFG, which would become 1A1B1C1D1E1F1G — twice the length [1].
 
+**7.** Split into 4-bit groups from the right: 1011 0110 [1] → **B6** [1]. Hexadecimal is used in preference to binary because it is far more compact and each hex digit maps to exactly four binary digits, making conversion straightforward.
+
+**8.** A logical left shift by 2 gives 00001100, equivalent to **multiplying by 4** (2² = 4) [1]. A logical right shift would **discard the sign bit and turn a negative number positive** [1]; an arithmetic right shift **preserves the sign bit**, so it works correctly on negative two's complement values [1].
+
+**9.** File size = width × height × colour depth = 200 × 150 × 8 [1] = **240,000 bits** [1].
+
+**10.** Advantage: Unicode can represent **every writing system in the world**, not just Latin script [1]. Cost: Unicode text can require **more storage per character** than ASCII [1].
+
 ---
 
 ## Where marks are usually lost
@@ -78,3 +94,6 @@ It would **increase the file size where there are few or no repeated runs** [1],
 - Saying overflow has occurred whenever a carry is generated — check the sign bit.
 - Normalising by making the first two bits the same rather than different.
 - Not stating the precision/range trade-off explicitly.
+- Splitting a binary number into 4-bit groups from the left rather than the right when converting to hexadecimal.
+- Using a logical right shift on a negative two's complement value instead of an arithmetic one.
+- Forgetting to convert file size from bits to bytes (divide by 8) when a question asks for bytes specifically.

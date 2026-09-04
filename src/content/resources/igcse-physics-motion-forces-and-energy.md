@@ -90,6 +90,40 @@ same question. For Extended candidates, momentum and the Sankey-diagram
 treatment of energy conservation are worth dedicated practice, since
 they only appear in the Supplement column and are easy to under-revise.
 
+## Worked examples across the topic
+
+**Mass and weight.** A common source of confusion is treating mass and
+weight as the same quantity. Mass is the amount of matter in an object,
+measured in kilograms, and does not change wherever the object is placed.
+Weight is the gravitational force acting on that mass, measured in
+newtons, and is calculated from W = mg. On Earth's surface, g ≈ 9.8 N/kg,
+so an object of mass 5.0 kg has weight W = 5.0 × 9.8 = 49 N. On the Moon,
+where gravitational field strength is roughly a sixth of Earth's, the
+same 5.0 kg mass would weigh only about 8.2 N, even though its mass is
+unchanged.
+
+**Hooke's law.** A spring with spring constant 40 N/m is stretched by a
+force of 6.0 N. Provided the limit of proportionality is not exceeded,
+the extension follows F = ke, so e = F/k = 6.0 ÷ 40 = 0.15 m. Beyond the
+limit of proportionality, this straight-line relationship breaks down and
+the load–extension graph curves away from linearity.
+
+**Momentum conservation from rest.** A frequently misjudged scenario
+involves two objects that start at rest and are then pushed apart — for
+example, two trolleys separated by a released spring. Because the total
+momentum before the push is zero, the total momentum afterward must also
+be zero, so the two trolleys move apart with **equal and opposite**
+momenta, not with momenta that simply add to some non-zero total as in a
+typical collision. Always define a positive direction first, then assign
+the opposite direction a negative sign before applying conservation of
+momentum.
+
+**Pressure in a liquid.** Pressure increases with depth according to
+Δp = ρgΔh, and depends only on the liquid's density and the depth below
+the surface — not on the shape or width of the container. A narrow tube
+of water 2.0 m deep therefore exerts exactly the same pressure at its
+base as a wide tank of water at the same 2.0 m depth.
+
 ## Official syllabus
 
 Cambridge IGCSE Physics 0625 syllabus for 2026, 2027 and 2028 (Version

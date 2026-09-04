@@ -50,6 +50,14 @@ Related: [Identity and Culture revision notes](/resources/igcse-urdu-identity-cu
 
 **5.** Explain **three** things an examiner looks for in a piece of Urdu writing at this level. **[6]**
 
+**6.** State Urdu's basic word order, and explain how it differs from English word order, with an example. **[3]**
+
+**7.** Give one Urdu comparative structure, and explain why examiners value the use of comparatives in a response. **[2]**
+
+**8.** Explain why writing an entire response in only one tense limits the language mark, even if every sentence is grammatically accurate. **[2]**
+
+**9.** In a speaking exam, why should a candidate avoid one-word answers, and what should they add instead? **[2]**
+
 ---
 
 ## Answers
@@ -70,6 +78,16 @@ Related: [Identity and Culture revision notes](/resources/igcse-urdu-identity-cu
 
 **5.** Any three, 2 marks each: **accuracy of gender and verb agreement** — the verb must agree with the subject in gender and number, and errors here are the most heavily penalised because they obscure meaning [1] [1]. **Range of vocabulary and structures** — using varied connectives (اس لیے، لیکن، حالانکہ) and tenses rather than repeating simple present sentences [1] [1]. **Task fulfilment** — covering **every bullet point in the question**, since marks are allocated to each, and including an opinion where asked [1] [1]. **Organisation** — a clear opening, linked paragraphs and a closing sentence, rather than a list of unconnected statements [1] [1].
 
+**6.** Urdu follows **Subject–Object–Verb** order [1], unlike English's Subject–Verb–Object [1] — e.g. *main kitaab parhta hoon* ("I book read am") = "I read a book," with the verb placed last rather than after the subject [1]. Urdu also uses **postpositions**, which follow the noun, where English places prepositions before it — e.g. *mez par* ("table on") for "on the table."
+
+**7.** e.g. *is se zyaada mushkil* (more difficult than this) [1]. Comparatives let a response **compare and evaluate rather than only describe or list**, raising the range of structures used [1].
+
+**8.** Examiners assess **range** separately from **accuracy** [1] — a response written entirely in the present tense, however error-free, cannot demonstrate control of past or future forms, so the language mark is **capped regardless of accuracy** [1].
+
+**9.** A one-word reply **scores minimally**, since it demonstrates little language beyond a single fact [1]; the candidate should **add a reason, an example, or an opinion** to every response to show fuller command of the language [1].
+
+*The same principle applies in listening: writing something for every question is worth attempting, since a blank answer scores nothing while a reasonable guess sometimes earns credit.*
+
 ---
 
 ## Where marks are usually lost
@@ -78,3 +96,5 @@ Related: [Identity and Culture revision notes](/resources/igcse-urdu-identity-cu
 - Answering comprehension questions in English when Urdu is required.
 - Missing one of the bullet points in the writing task, which caps the content mark.
 - Writing well below or far above the word count.
+- Using English (Subject-Verb-Object) word order instead of Urdu's Subject-Object-Verb.
+- Giving undeveloped one-word answers in the speaking exam.

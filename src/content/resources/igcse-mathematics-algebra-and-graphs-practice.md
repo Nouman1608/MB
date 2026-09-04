@@ -53,6 +53,16 @@ x − y = 1 **[3]**
 
 **10.** *(Extended)* Solve x² + 3x − 5 = 0 using the quadratic formula, giving your answers to 2 decimal places. **[3]**
 
+**11.** Simplify: **(a)** a³ × a⁵ **(b)** a⁸ ÷ a³ **(c)** a⁻². **[3]**
+
+**12.** *(Extended)* y is directly proportional to x. When x = 4, y = 20. Find y when x = 7. **[3]**
+
+**13.** *(Extended)* Differentiate y = 3x² − 2x + 1, and find the gradient of the curve at x = 2. **[3]**
+
+**14.** *(Extended)* Given f(x) = 2x + 1 and g(x) = x², find fg(3) and the inverse function f⁻¹(x). **[3]**
+
+**15.** *(Extended)* y is inversely proportional to x. When x = 2, y = 15. Find y when x = 5. **[3]**
+
 ---
 
 ## Answers
@@ -77,6 +87,16 @@ x − y = 1 **[3]**
 **(b)** c = −2 (the y-intercept, given directly) [1] → **y = 4x − 2** [1, allow follow-through from part (a)].
 
 **10.** a = 1, b = 3, c = −5 [1]. x = (−3 ± √(9 + 20)) / 2 = (−3 ± √29) / 2 [1] → **x = 1.19 or x = −4.19** (2 d.p.) [1].
+
+**11. (a)** a³ × a⁵ = **a⁸** [1]. **(b)** a⁸ ÷ a³ = **a⁵** [1]. **(c)** a⁻² = **1/a²** [1].
+
+**12.** y = kx, so 20 = 4k [1] → k = 5. When x = 7: y = 5 × 7 = **35** [1] [1].
+
+**13.** dy/dx = 6x − 2 [1] [1]. At x = 2: gradient = 6(2) − 2 = **10** [1]. This uses the rule that for y = axⁿ, dy/dx = anxⁿ⁻¹, applied term by term.
+
+**14.** fg(3): apply g first, g(3) = 9, then f(9) = 2(9) + 1 = **19** [1]. For f⁻¹(x): let y = 2x + 1, swap x and y to get x = 2y + 1, then solve: **f⁻¹(x) = (x − 1)/2** [1] [1].
+
+**15.** y = k/x, so 15 = k/2 [1] → k = 30. When x = 5: y = 30/5 = **6** [1] [1]. As with direct proportion, the constant k is found first from one known pair of values, then reused to find the rest.
 
 ## Examiner report insight
 

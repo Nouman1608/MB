@@ -51,6 +51,14 @@ Related: [Waves and the Particle Nature of Light revision notes](/resources/edex
 
 **6.** Calculate the de Broglie wavelength of an electron travelling at 2.0 × 10⁶ m s⁻¹. (m = 9.11 × 10⁻³¹ kg, h = 6.63 × 10⁻³⁴ J s) **[3]**
 
+**7.** State the condition for total internal reflection to occur, and calculate the critical angle for a medium of refractive index 1.50. **[3]**
+
+**8.** Describe how a standing wave forms, and state the two equations for its speed on a stretched string and for radiation intensity. **[3]**
+
+**9.** An electron transition between two atomic energy levels releases 3.0 × 10⁻¹⁹ J of energy. Calculate the frequency of the emitted radiation. (h = 6.63 × 10⁻³⁴ J s) **[2]**
+
+**10.** Explain how Huygens' construction is used to describe diffraction of a wave passing through a gap. **[2]**
+
 ---
 
 ## Answers
@@ -71,6 +79,14 @@ Related: [Waves and the Particle Nature of Light revision notes](/resources/edex
 
 **6.** λ = h ÷ mv [1] = 6.63 × 10⁻³⁴ ÷ (9.11 × 10⁻³¹ × 2.0 × 10⁶) [1] = **3.6 × 10⁻¹⁰ m** [1].
 
+**7.** Total internal reflection occurs when light travelling in the **denser medium hits the boundary at an angle greater than the critical angle** [1]. sinC = 1/n = 1/1.50 = 0.667 [1] → **C = 41.8°** [1].
+
+**8.** A standing wave forms when **two waves of the same frequency travelling in opposite directions superpose** [1], producing fixed **nodes** (no displacement) and **antinodes** (maximum displacement) [1]. Speed on a string: v = √(T/µ), where T is tension and µ is mass per unit length; intensity of radiation: I = P/A, power per unit area [1].
+
+**9.** f = E ÷ h = 3.0 × 10⁻¹⁹ ÷ 6.63 × 10⁻³⁴ [1] = **4.5 × 10¹⁴ Hz** [1].
+
+**10.** Every point on a wavefront is treated as a **source of secondary wavelets** [1]; at a narrow gap, the new wavefront formed from these secondary sources **spreads out into the region beyond the gap**, explaining the observed spreading of the wave [1].
+
 ---
 
 ## Where marks are usually lost
@@ -79,3 +95,5 @@ Related: [Waves and the Particle Nature of Light revision notes](/resources/edex
 - Using eV instead of joules in the photoelectric equation.
 - Saying higher intensity means higher energy photons.
 - Rounding the maximum order up instead of down.
+- Applying total internal reflection at the boundary from the less dense to the denser medium — it only occurs travelling from denser to less dense.
+- Confusing a node (no displacement) with an antinode (maximum displacement) in a standing wave.

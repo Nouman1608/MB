@@ -60,6 +60,14 @@ Related: [Understanding Business Activity revision notes](/resources/igcse-busin
 
 **(b)** Explain why using employee numbers alone can be misleading. **[3]**
 
+**7.** Distinguish between a need and a want, and explain what is meant by opportunity cost. **[3]**
+
+**8.** State the three economic sectors of business activity, and give one example of a business in each. **[3]**
+
+**9.** Explain what is meant by the "divorce of ownership from control" in a public limited company, and why it can cause problems. **[3]**
+
+**10.** State one advantage and one disadvantage of forming a partnership instead of remaining a sole trader. **[2]**
+
 ---
 
 ## Answers
@@ -90,6 +98,14 @@ Related: [Understanding Business Activity revision notes](/resources/igcse-busin
 
 **(b)** It employs few people because production is **highly automated** [1], but it has invested heavily in **machinery and equipment** [1]. Employee numbers therefore understate its true size, so **more than one measure should be used** [1].
 
+**7.** A **need** is essential for survival (food, shelter, clothing), while a **want** is desirable but not essential [1]. **Opportunity cost** is the **value of the next best alternative given up** when a choice is made, arising because resources are scarce but wants are unlimited [1] [1].
+
+**8.** **Primary** — extracts natural resources, e.g. farming or mining [1]. **Secondary** — manufactures or processes, e.g. car assembly or baking [1]. **Tertiary** — provides services, e.g. retail or banking [1].
+
+**9.** **Shareholders own the business, but directors run it day to day** [1], and the two groups' objectives may **diverge** — for example, directors may prioritise growth or their own pay over the dividends shareholders want [1], creating a conflict of interest that is harder to resolve than in a business run directly by its owner [1].
+
+**10.** Advantage: a partnership brings in **more capital and shared expertise** [1]. Disadvantage: profit must be **shared** among partners, and there is the possibility of **disagreement between them** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -99,3 +115,6 @@ Related: [Understanding Business Activity revision notes](/resources/igcse-busin
 - Listing stakeholders without explaining the conflict between them.
 - Giving a recommendation with no justification.
 - Using a single measure of business size without acknowledging its limits.
+- Confusing needs with wants, or defining opportunity cost as simply "the cost of something".
+- Placing a business in the wrong economic sector, e.g. calling a bakery "primary" rather than "secondary".
+- Assuming shareholders and directors always want the same thing.
