@@ -41,6 +41,14 @@ ASSETS = CAPITAL + LIABILITIES
 
 **Accruals drives every year-end adjustment; prudence resolves the judgement calls.** Where two treatments are defensible, choose the one that does not overstate profit.
 
+## Financial vs management accounting
+
+**Financial accounting** records past transactions and produces statements for **external** users, governed by legal requirements and accounting standards — historic by nature.
+
+**Management accounting** produces information for **internal** decision-makers: forward-looking, as detailed as needed, produced as often as required, with no external format rules. Budgets, costing and investment appraisal belong here.
+
+**Ethics and professional judgement:** accountants are expected to show **integrity, objectivity, professional competence, confidentiality and professional behaviour**. Scenario questions about overstating profit, delaying recognition of a bad debt, or hiding a liability expect you to name the **principle breached**, the **users harmed**, and the **appropriate action**.
+
 ## Year-end adjustments — both effects
 
 | Adjustment | Profit | Statement of financial position |
@@ -73,6 +81,8 @@ Each user wants something different, and questions ask you to say **what** and *
 
 A lender cares about liquidity because a profitable business can still fail if it cannot pay debts as they fall due — the distinction between profit and cash is the point.
 
+**Conflicts between users are examinable directly:** shareholders may want dividends paid out now, while lenders prefer profit retained in the business to strengthen the statement of financial position and improve the odds of repayment.
+
 ## Ratio analysis
 
 ```
@@ -102,6 +112,8 @@ gearing       = non-current liabilities / capital employed x 100
 - Quoting ratios without comparison or interpretation.
 - Assuming higher liquidity is always better.
 - Omitting limitations when a question says evaluate.
+- Describing management accounting as simply "accounting done by managers", rather than internal, forward-looking information free of external format rules.
+- Naming an ethics scenario as "dishonest" without identifying the specific principle breached (integrity, objectivity, professional competence, confidentiality or professional behaviour).
 
 ## Self-test
 
@@ -110,5 +122,6 @@ gearing       = non-current liabilities / capital employed x 100
 3. Why does a lender care about liquidity rather than just profit?
 4. Why might a high current ratio be a warning?
 5. Give the double-edged effect of high gearing.
+6. Name the five ethical principles accountants are expected to show.
 
-**Answers:** 1. The accruals or matching concept — income and expenses are recorded when incurred rather than when cash moves. 2. It reduces profit for the year and appears as a current liability. 3. A profitable business can still fail if it cannot pay debts as they fall due, so the ability to generate cash matters more than reported profit for repayment. 4. It may mean excess inventory, receivables collected too slowly, or cash held idle rather than invested productively. 5. It magnifies returns to shareholders when profits are strong, but increases risk sharply if interest rates rise or profits fall.
+**Answers:** 1. The accruals or matching concept — income and expenses are recorded when incurred rather than when cash moves. 2. It reduces profit for the year and appears as a current liability. 3. A profitable business can still fail if it cannot pay debts as they fall due, so the ability to generate cash matters more than reported profit for repayment. 4. It may mean excess inventory, receivables collected too slowly, or cash held idle rather than invested productively. 5. It magnifies returns to shareholders when profits are strong, but increases risk sharply if interest rates rise or profits fall. 6. Integrity, objectivity, professional competence, confidentiality and professional behaviour.

@@ -64,6 +64,15 @@ Note also that a 20% rise followed by a 20% fall does **not** return to the star
 
 **Simple versus compound interest:** simple is calculated on the original amount each year; compound is calculated on the running total, so the gap widens with time.
 
+**Worked example.** £2000 is invested at 3% compound interest for 4 years. Find the total interest earned.
+
+```
+2000 x 1.03^4 = 2251.02 (2 d.p.)
+interest = 2251.02 - 2000 = 251.02
+```
+
+Carry full accuracy through the calculation and **round only the final answer** — rounding the multiplier early is a common way to lose the last mark.
+
 ## Indices and standard form
 
 ```
@@ -104,6 +113,12 @@ mass 3.7 kg to 1 d.p.:   3.65 <= m < 3.75
 
 **Subtraction and division cross over.** That single fact is most of the topic.
 
+## Set notation
+
+The **universal set** ξ contains every element under consideration. **A′** denotes the **complement** of set A (every element not in A). **A ∩ B** denotes **intersection** (elements in both A and B). **A ∪ B** denotes **union** (elements in A, B, or both).
+
+**Venn diagrams** translate these symbols visually. Exam questions typically ask you to **shade a described region**, or to **read off the number of elements** satisfying a given combination of conditions directly from a labelled diagram.
+
 ## Exam traps
 
 - Treating 1 as prime.
@@ -113,6 +128,7 @@ mass 3.7 kg to 1 d.p.:   3.65 <= m < 3.75
 - Reading a negative index as a negative answer.
 - Using UB ÷ UB for a maximum quotient.
 - Rounding partway through — round only at the end.
+- Confusing intersection (∩, "and") with union (∪, "or") when shading a Venn diagram.
 
 ## Self-test
 
@@ -121,5 +137,6 @@ mass 3.7 kg to 1 d.p.:   3.65 <= m < 3.75
 3. Evaluate `(4/9)^(−1/2)`.
 4. Rationalise `2/(5 − √3)`.
 5. How do you find the maximum value of `a ÷ b` from bounds?
+6. What does A ∩ B mean, and how does it differ from A ∪ B?
 
-**Answers:** 1. 36 = 2²×3², 60 = 2²×3×5; HCF = 2²×3 = 12, LCM = 2²×3²×5 = 180. 2. 90 ÷ 1.2 = $75. 3. Flip to (9/4)^(1/2) = 3/2. 4. Multiply top and bottom by (5 + √3) to get 2(5 + √3)/22 = (5 + √3)/11. 5. Upper bound of a divided by the **lower** bound of b.
+**Answers:** 1. 36 = 2²×3², 60 = 2²×3×5; HCF = 2²×3 = 12, LCM = 2²×3²×5 = 180. 2. 90 ÷ 1.2 = $75. 3. Flip to (9/4)^(1/2) = 3/2. 4. Multiply top and bottom by (5 + √3) to get 2(5 + √3)/22 = (5 + √3)/11. 5. Upper bound of a divided by the **lower** bound of b. 6. A ∩ B is the intersection — elements in both A and B; A ∪ B is the union — elements in A, B, or both.

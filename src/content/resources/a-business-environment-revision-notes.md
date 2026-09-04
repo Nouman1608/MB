@@ -22,11 +22,15 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Business and Its Environment study guide](/resources/a-level-business-business-and-its-environment/).
 
+## Enterprise
+
+**Enterprise** is the willingness to take on financial and personal risk to start and run a business in pursuit of reward. Key entrepreneurial qualities, best applied to a given scenario rather than listed abstractly: **opportunity recognition**, the ability to **secure and manage finance**, **resilience** in the face of setbacks, and the capacity to **plan and adapt** a business idea as circumstances change.
+
 ## Purpose and objectives
 
 **Mission** → **corporate objectives** → **functional objectives** → tactics.
 
-Objectives must be **SMART**, and they change with circumstance — survival dominates in a downturn, growth in a boom.
+Objectives must be **SMART**, and they change with circumstance — survival dominates in a downturn, growth in a boom. Objectives also shift across the **business lifecycle**: a **new** business prioritises survival and building a customer base; an **established, profitable** business shifts towards growth, profit maximisation or market share; some businesses, especially under stakeholder pressure or founder values, adopt **social or environmental objectives** even at some cost to short-term profit.
 
 **Profit maximisation can conflict with long-term shareholder value** if it means cutting R&D or damaging reputation. The two diverge over different time horizons, and noticing that is an evaluation point.
 
@@ -53,6 +57,8 @@ Shareholders, employees, customers, suppliers, government, community, lenders.
 - The community wants low pollution; the firm wants low compliance cost.
 
 **Shareholder versus stakeholder approaches** often converge in the long run — treating employees and customers well tends to protect shareholder value.
+
+**Power and interest vary between groups**, which affects how closely a business must manage each: a small group with **high power and high interest** in a decision, such as a major shareholder, typically needs managing far more closely than a large but **low-interest** group, even where that group is more numerous.
 
 ## The external environment
 

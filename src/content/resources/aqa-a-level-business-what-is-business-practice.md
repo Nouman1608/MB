@@ -44,6 +44,16 @@ Related: [What is Business revision notes](/resources/aqa-a-level-business-what-
 
 ---
 
+## Section C
+
+**7.** Explain **one** example of conflict between stakeholder groups in a business, and explain why their interests oppose. **[4]**
+
+**8.** Using the PESTLE framework, explain **two** external factors that could affect a business's decision making. **[6]**
+
+**9.** A business exports most of its output. Using the SPICED mnemonic, explain the effect on the business if the pound strengthens against other currencies. **[3]**
+
+---
+
 ## Answers
 
 **1. Profit** is **revenue minus total costs over a period** — an accounting measure [1]. **Cash flow** is the **actual movement of money into and out of the business** [1]. A business can be profitable but run out of cash if **customers pay late or it holds too much stock**, and it can be loss-making yet cash-rich in the short term [1].
@@ -61,6 +71,12 @@ Related: [What is Business revision notes](/resources/aqa-a-level-business-what-
 **Against:** numbers can be **based on unreliable forecasts** — a payback calculation is only as good as the sales projection behind it [1]; important factors such as **staff morale, brand reputation, customer loyalty and ethics cannot be quantified** but may determine success [1]; data describes the **past**, and in a fast-changing market past patterns may not hold [1]; over-reliance on numbers can produce **decisions that are defensible but wrong**, and discourages innovation, which by definition has no data behind it [1].
 **Judgement:** quantitative data should **inform but not determine** decisions [1]. Its value depends on **the reliability of the data, the time available, and the type of decision** [1] — an operational decision such as reorder quantity can be made numerically, while a strategic decision on brand positioning requires qualitative judgement alongside the figures [1] [1].
 
+**7.** Any valid conflict, e.g. **shareholders want costs cut** to raise profit and dividends [1], while **employees want higher pay and job security** [1]. The interests oppose because **cutting costs** — through redundancies or pay freezes — **directly reduces what is available for wages** [1]; judging which should take priority depends on the **specific circumstances of the business**, such as whether it is fighting for survival or generating strong profits [1].
+
+**8.** Any two, 3 marks each, e.g. **Economic** — rising **interest rates** raise the cost of borrowing [1] and reduce consumer spending [1], so a business may delay investment decisions [1]. **Political/Legal** — new **regulation** [1] can raise compliance costs [1], affecting pricing or investment decisions [1].
+
+**9.** **SPICED**: Strong Pound, Imports Cheap, Exports Dear [1]. If the pound strengthens, this business's exports become **more expensive** for foreign buyers in their own currency [1], which is likely to **reduce overseas demand and sales revenue** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -69,3 +85,5 @@ Related: [What is Business revision notes](/resources/aqa-a-level-business-what-
 - Saying the public sector "has no objectives".
 - Listing plc advantages without the corresponding loss of control.
 - Not distinguishing operational from strategic decisions in the evaluation.
+- Identifying a stakeholder conflict without explaining *why* the two groups' interests oppose.
+- Naming a PESTLE letter without linking it to a specific effect on the business's decision making.

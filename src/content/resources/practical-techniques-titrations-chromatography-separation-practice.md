@@ -76,6 +76,22 @@ Related: [Practical Techniques revision notes](/resources/practical-techniques-t
 
 ---
 
+## Further questions
+
+**10.** A mixture of colourless amino acids is separated by paper chromatography.
+
+**(a)** Explain how the spots are made visible, since the substances have no colour of their own. **[1]**
+
+**(b)** Describe how the identity of an unknown spot can be determined using the same chromatogram. **[2]**
+
+**11.** Give the correct apparatus for measuring **(a)** an approximate volume of liquid, and **(b)** the volume of a gas produced in a reaction. **[2]**
+
+Define **(c)** residue and **(d)** filtrate. **[2]**
+
+**12.** A pure liquid has a known boiling point of 78°C. An impure sample of the same liquid is found to boil over a range starting at 80°C. State the effect of impurity on boiling point, and contrast this with the effect of impurity on melting point. **[2]**
+
+---
+
 ## Answers
 
 **1. (a)** **Burette** [1].
@@ -99,6 +115,16 @@ Related: [Practical Techniques revision notes](/resources/practical-techniques-t
 
 **9.** Add the mixture to water and stir, so the salt dissolves [1]; **filter** to remove the insoluble sand as the residue [1]; **evaporate** (or crystallise) the filtrate to recover the dissolved salt [1].
 
+**10. (a)** A **locating agent** is sprayed onto (or applied to) the paper afterwards to reveal the spots [1].
+**(b)** Compare the **position (or Rf value)** of the unknown spot against known reference substances run on the **same chromatogram**, under the same conditions — same solvent, same paper [1]; a **matching position/Rf** suggests the same substance [1].
+
+**11. (a)** **Measuring cylinder** [1].
+**(b)** **Gas syringe** [1].
+**(c)** **Residue** — a substance that remains after evaporation, distillation, filtration or a similar process [1].
+**(d)** **Filtrate** — a liquid or solution that has passed through a filter [1].
+
+**12.** Impurity **raises** the boiling point, and causes it to boil over a **range** rather than sharply [1] — the **opposite** effect to melting point, where impurity **lowers** the melting point and causes melting over a range [1].
+
 ---
 
 ## Where marks are usually lost
@@ -107,3 +133,5 @@ Related: [Practical Techniques revision notes](/resources/practical-techniques-t
 - Applying the Rf formula upside down — it is always substance distance over solvent distance.
 - Describing purity only as "a different melting point" rather than the key idea that impurity produces a *range*.
 - Adding the indicator to a titration meant for salt preparation and then crystallising with it still present.
+- Saying colourless substances "can't be chromatographed" — a locating agent reveals their spots after the run.
+- Assuming impurity always lowers a transition temperature — it lowers melting point but raises boiling point.

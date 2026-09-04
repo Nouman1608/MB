@@ -44,6 +44,18 @@ Related: [Research Methods, Identity and Inequality revision notes](/resources/o
 
 ---
 
+## Section C
+
+**7.** Describe **two** sampling methods a sociologist could use to select a sample, and explain what is meant by a *sampling frame*. **[5]**
+
+**8.** Explain what is meant by a *pilot study*, and state **two** ethical principles a sociologist should follow when conducting research. **[3]**
+
+**9.** Distinguish between ascribed status and achieved status, giving **one** example of each. **[2]**
+
+**10.** Distinguish between a subculture and a counter-culture. **[2]**
+
+---
+
 ## Answers
 
 **1. Primary data** is **collected first-hand by the researcher** for the purpose of the study; **secondary data** already exists, having been collected by someone else [1] [1]. **Quantitative data** is **numerical and can be counted and analysed statistically**; **qualitative data** is **descriptive, expressed in words, capturing meanings and feelings** [1] [1].
@@ -64,6 +76,14 @@ Agencies: the **education system**, through both the formal curriculum and the h
 **Weberian** — class position is determined not only by property but by **market situation — the skills and qualifications a person brings to the labour market** [1]; Weber added **status and party** as separate dimensions of stratification, so inequality is **multi-dimensional rather than a simple two-class model** [1] [1].
 **Feminist** — inequality is structured by **patriarchy as well as class**; women are concentrated in low-paid, part-time work and carry the "dual burden" of paid work and domestic labour [1] [1] [1].
 
+**7.** Any two methods, 2 marks each: **random sampling** — every member of the population has an **equal chance of selection**, e.g. drawn by computer or from a hat [1] [1]; **stratified sampling** — the population is divided into groups (strata), and a **proportionate sample is taken from each group** [1] [1]; **systematic sampling** — every *n*th name is selected from a list [1] [1]; **snowball sampling** — existing participants recruit further participants, used for **hidden or hard-to-reach groups** [1] [1]. **Sampling frame** — the **list from which the sample is drawn** [1].
+
+**8.** A **pilot study** is a **small-scale trial run** of the research method before the main study, used to identify problems with wording, timing or procedure [1]. Any two: **informed consent**, **confidentiality**, **protection from harm**, **no deception**, **right to withdraw** [1] [1].
+
+**9. Ascribed status** is **fixed at birth**, e.g. gender or caste [1]. **Achieved status** is **earned through a person's own actions**, e.g. becoming a doctor [1].
+
+**10. Subculture** — a group with **distinct norms and values within a wider society**, e.g. a youth subculture [1]. **Counter-culture** — a subculture **actively opposed to** the mainstream norms and values of society [1].
+
 ---
 
 ## Where marks are usually lost
@@ -72,3 +92,5 @@ Agencies: the **education system**, through both the formal curriculum and the h
 - Giving questionnaire advantages without linking them to representativeness or reliability.
 - Naming the family as an agency of secondary socialisation.
 - Describing theories without explaining the mechanism of inequality.
+- Describing a sampling method without explaining what makes it more or less representative.
+- Confusing a subculture (distinct but not opposed) with a counter-culture (actively opposed to the mainstream).

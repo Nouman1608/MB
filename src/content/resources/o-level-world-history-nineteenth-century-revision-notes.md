@@ -52,6 +52,18 @@ Britain abandoned "splendid isolation" because German naval expansion threatened
 
 **Alliances turned a local crisis into a general war** — but they were also intended to deter one, and noting both sides is what raises an answer.
 
+## The Eastern Question and imperialism
+
+**The Eastern Question** — what would happen to the territories of the declining **Ottoman Empire**, and which power would gain from its collapse.
+
+| Power | Concern |
+|---|---|
+| **Russia** | Wanted access to the Mediterranean through the Straits; posed as protector of Ottoman Christians |
+| **Britain** | Wanted to block Russian expansion towards the Mediterranean and the route to India, so generally propped up the Ottoman Empire |
+| **Austria-Hungary** | Feared Balkan nationalism, encouraged by Ottoman retreat, spreading to her own Slav subjects |
+
+**Motives for imperialism in Africa:** **economic** (raw materials such as rubber and cotton, and new markets); **strategic** (routes such as the Suez Canal and the Cape, and coaling stations for naval power); **national prestige and rivalry** (colonies as a mark of great-power status, and seizing territory to deny it to a rival); **ideological/religious** (the "civilising mission" and missionary activity).
+
 ## Long-term causes — MANIA
 
 | | |
@@ -86,6 +98,8 @@ Examiners reward **weighing**, not listing. Always reach an explicit conclusion,
 - Omitting dates, names and treaties — precision separates the bands.
 - Narrating events instead of explaining or evaluating.
 - A conclusion that summarises rather than judges.
+- Treating the Eastern Question as simply "the decline of Turkey" without naming which power gained what from the outcome.
+- Listing imperial motives as a single undifferentiated list, rather than grouping them as economic, strategic, prestige and ideological.
 
 ## Self-test
 
@@ -94,5 +108,6 @@ Examiners reward **weighing**, not listing. Always reach an explicit conclusion,
 3. Why did Britain abandon splendid isolation?
 4. What does MANIA stand for?
 5. Why did the July Crisis escalate so rapidly?
+6. What was the Eastern Question, and why did Britain and Russia take opposite positions on it?
 
-**Answers:** 1. The revolutionaries divided between liberals and radicals; the middle classes withdrew support when property seemed threatened; the peasantry remained uninvolved; the conservative powers retained their armies — any two. 2. Isolate each opponent diplomatically; fight a limited war for a defined objective; stop once that objective is secured. 3. German naval expansion under Tirpitz threatened British naval supremacy, and colonial disputes with France and Russia had been settled by the 1904 and 1907 agreements. 4. Militarism, Alliances, Nationalism, Imperialism, Assassination. 5. The Schlieffen Plan required an immediate attack on France once Russia mobilised, so German military planning left almost no time for diplomacy.
+**Answers:** 1. The revolutionaries divided between liberals and radicals; the middle classes withdrew support when property seemed threatened; the peasantry remained uninvolved; the conservative powers retained their armies — any two. 2. Isolate each opponent diplomatically; fight a limited war for a defined objective; stop once that objective is secured. 3. German naval expansion under Tirpitz threatened British naval supremacy, and colonial disputes with France and Russia had been settled by the 1904 and 1907 agreements. 4. Militarism, Alliances, Nationalism, Imperialism, Assassination. 5. The Schlieffen Plan required an immediate attack on France once Russia mobilised, so German military planning left almost no time for diplomacy. 6. The Eastern Question was the problem of what would happen to the declining Ottoman Empire's territories; Russia wanted access to the Mediterranean through the Straits, while Britain wanted to block that same Russian expansion to protect the route to India, so she generally propped the Ottoman Empire up rather than letting it collapse.

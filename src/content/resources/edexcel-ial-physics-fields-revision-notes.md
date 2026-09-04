@@ -37,6 +37,8 @@ F = Q1 Q2 / (4 pi epsilon0 r^2)   Coulomb's law
 
 **A charged particle in a uniform field follows a parabolic path**, exactly like a projectile in gravity — constant acceleration perpendicular to the initial velocity. The mathematics is identical, which is why the projectile method works.
 
+**Electric potential** falls in the direction the field points, and field strength is (minus) the potential gradient. For a radial field, V = Q/4πε₀r. **Equipotentials** — surfaces of constant potential — are always **perpendicular** to field lines, for both radial and uniform fields.
+
 ## Capacitance
 
 ```
@@ -56,6 +58,15 @@ Q = Q0 e^(-t/RC)        time constant  tau = RC
 ```
 
 After one time constant, the charge falls to **37%** of its initial value. After 5RC it is effectively fully discharged. A **larger RC** gives slower discharge — larger capacitance stores more charge, larger resistance limits the current.
+
+**CORE PRACTICAL 11** uses an oscilloscope or data logger to display and analyse the p.d. across a capacitor as it charges and discharges through a resistor.
+
+**Worked example.** A 220 μF capacitor is charged to 9.0 V, then discharged through a 47 kΩ resistor. Find the time constant and the p.d. after one time constant.
+
+```
+RC = (220 x 10^-6) x (47 x 10^3) = 10.34 s  (approx 10 s)
+V = V0 x e^-1 = 9.0 x 0.368 = 3.3 V
+```
 
 ## Magnetic fields
 
@@ -94,6 +105,7 @@ Faraday:  induced e.m.f. = -d(N phi)/dt
 - Using the right hand for the motor effect.
 - Saying a magnetic field gives a parabolic path — it gives a circular one.
 - Omitting sin θ when the conductor is not perpendicular to the field.
+- Drawing equipotentials parallel to field lines instead of perpendicular to them.
 
 ## Self-test
 
@@ -102,5 +114,6 @@ Faraday:  induced e.m.f. = -d(N phi)/dt
 3. Why is there a factor of ½ in the energy stored on a capacitor?
 4. Why does a magnetic field produce circular motion but an electric field a parabola?
 5. State Lenz's law and the principle it follows from.
+6. How are equipotentials oriented relative to field lines?
 
-**Answers:** 1. A radial field obeys an inverse square law and points towards or away from a point charge; a uniform field has constant strength and parallel field lines, as between charged parallel plates. 2. In parallel capacitances add; in series the reciprocals add — the opposite of resistors. 3. Energy is the area under the Q–V graph, and since p.d. rises linearly from zero to V, the average p.d. during charging is V/2. 4. The magnetic force is always perpendicular to the velocity, so it continuously changes direction, giving circular motion; the electric force has a fixed direction, giving constant acceleration in one direction and hence a parabola. 5. The induced current opposes the change producing it; it follows from conservation of energy.
+**Answers:** 1. A radial field obeys an inverse square law and points towards or away from a point charge; a uniform field has constant strength and parallel field lines, as between charged parallel plates. 2. In parallel capacitances add; in series the reciprocals add — the opposite of resistors. 3. Energy is the area under the Q–V graph, and since p.d. rises linearly from zero to V, the average p.d. during charging is V/2. 4. The magnetic force is always perpendicular to the velocity, so it continuously changes direction, giving circular motion; the electric force has a fixed direction, giving constant acceleration in one direction and hence a parabola. 5. The induced current opposes the change producing it; it follows from conservation of energy. 6. Always perpendicular to the field lines, for both radial and uniform fields.

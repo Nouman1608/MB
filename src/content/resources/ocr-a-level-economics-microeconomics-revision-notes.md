@@ -21,6 +21,14 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Microeconomics study guide](/resources/ocr-a-level-economics-microeconomics/).
 
+## Demand, supply and the price mechanism
+
+Demand slopes downward because of the income and substitution effects; supply slopes upward because higher prices make production more profitable and cover rising marginal costs.
+
+**Movement along** a curve is caused only by a change in the good's own price. A **shift** of the curve is caused by anything else — income, tastes, substitutes and complements, or population for demand; costs, technology, taxes, subsidies, or the number of firms for supply. Confusing the two is the single most common error at this level.
+
+**The price mechanism performs three functions:** it **signals** where resources are wanted, it **incentivises** producers to respond, and it **rations** scarce goods to those willing to pay.
+
 ## Elasticity
 
 ```
@@ -30,6 +38,15 @@ PED = %dQd/%dP    PES = %dQs/%dP    YED = %dQd/%dY    XED = %dQd(A)/%dP(B)
 Inelastic demand → a price rise **raises** revenue. Negative YED identifies an **inferior good**. Positive XED means substitutes; negative means complements.
 
 **Tax incidence follows elasticity: the more inelastic side bears more of the tax.** This is the single most useful application, and it explains both why duties on inelastic demerit goods raise large revenue and why they change behaviour so little — the same fact from two ends.
+
+**Worked example.** A good has PED of −0.4. A firm raises price by 10%. What happens to revenue?
+
+```
+%change in Qd = PED x %change in P = -0.4 x 10 = -4%
+price +10%, quantity -4%  ->  revenue changes by roughly +10 - 4 = +6%
+```
+
+Demand is **inelastic**, so the price rise more than offsets the fall in quantity, and revenue **increases**.
 
 ## Costs, revenue and profit
 

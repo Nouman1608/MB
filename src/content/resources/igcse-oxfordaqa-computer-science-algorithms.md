@@ -89,9 +89,15 @@ Tracing is also how logic errors are found: the algorithm runs, but produces the
 
 Two algorithms can produce identical output with very different efficiency. Efficiency is judged by the number of steps or comparisons performed, and by memory used.
 
-A **linear search** checks each item in turn and works on unordered data, but on a list of 1,000 items may take 1,000 comparisons. A **binary search** repeatedly halves an ordered list, reaching the same item in about 10 comparisons — but requires the data to be sorted first.
+A **linear search** checks each item in turn and works on unordered data, but on a list of 1,000 items may take 1,000 comparisons. A **binary search** repeatedly halves an ordered list, reaching the same item in about 10 comparisons — but requires the data to be sorted first. Binary search works by comparing the **middle** item to the target: if the target is smaller, the upper half is discarded; if larger, the lower half is discarded; this repeats until the item is found or the remaining list is empty. Recommending binary search on unsorted data — without sorting it first — is a standard error.
 
 Evaluation questions reward precise criticism. "It is inefficient" earns nothing; "the loop continues checking after the item has been found, so unnecessary comparisons are performed" earns the mark.
+
+## Sorting algorithms
+
+**Bubble sort** repeatedly compares adjacent pairs of items and swaps them if they are out of order; after each full pass through the list, the largest remaining item has "bubbled" to its correct position at the end. It is simple to code and trace, but slow on large lists.
+
+**Merge sort** works differently: it divides the list in half repeatedly until each part holds a single item, then merges the parts back together in the correct order. It is more complex to describe and trace than bubble sort, but performs far fewer comparisons on large lists, making it much faster.
 
 ## Worked example
 
@@ -118,7 +124,7 @@ Output: **15**. The algorithm sums the integers from 1 to n.
 
 ## Common mistakes
 
-Using the wrong flowchart symbol — a diamond is for decisions only. Writing pseudocode that omits ENDIF or NEXT, so the block structure is unclear. Choosing FOR when the number of repetitions is unknown, where WHILE is required. Filling in a trace table only at the end instead of after each iteration. Giving vague evaluation comments rather than identifying a specific inefficiency.
+Using the wrong flowchart symbol — a diamond is for decisions only. Writing pseudocode that omits ENDIF or NEXT, so the block structure is unclear. Choosing FOR when the number of repetitions is unknown, where WHILE is required. Filling in a trace table only at the end instead of after each iteration. Giving vague evaluation comments rather than identifying a specific inefficiency. Recommending a binary search on data that has not been sorted first — the syllabus expects the sorting step to be stated, not assumed. Confusing bubble sort (simple, slow, compares adjacent pairs) with merge sort (more complex, faster, splits and merges the list) when asked to name or describe a sorting method.
 
 ## Quick revision checklist
 
