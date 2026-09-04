@@ -134,6 +134,11 @@ It also reflects the qualification's broader assessment design, which
 balances studied and unstudied material so that a candidate's grade
 genuinely tracks reading and analytical skill rather than recall alone.
 
+## Related resources
+
+- [Poetry and Unseen Texts revision notes](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-revision-notes/)
+- [Poetry and Unseen Texts practice questions](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE English Literature (9275) specification,

@@ -146,3 +146,8 @@ beyond it is not evidenced by the text provided. 5. Route A includes an
 examined unseen-prose section; Route B replaces it with a non-exam
 assessment on a substantial whole prose fiction text chosen outside the
 prescribed set texts.
+
+## Related resources
+
+- [Poetry and Unseen Texts study guide](/resources/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts/)
+- [Poetry and Unseen Texts practice questions](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-practice/)
