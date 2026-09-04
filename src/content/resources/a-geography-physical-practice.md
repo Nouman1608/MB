@@ -43,6 +43,8 @@ Related: [Core Physical Geography revision notes](/resources/a-geography-physica
 
 **6.** Evaluate the effectiveness of hard and soft engineering approaches to coastal management. **[12]**
 
+**7.** Explain what the Hjulström curve shows, and describe the counter-intuitive feature of its treatment of fine clay. **[4]**
+
 ---
 
 ## Answers
@@ -65,6 +67,8 @@ Related: [Core Physical Geography revision notes](/resources/a-geography-physica
 **Soft engineering — strengths:** **beach nourishment, dune stabilisation and managed retreat work with natural processes**, so they are usually cheaper and more sustainable [1]; they **maintain a natural appearance and can create valuable habitat**, as with saltmarsh created by realignment [1].
 **Weaknesses:** nourishment must be **repeated regularly**, so long-run costs accumulate [1]; **managed retreat requires land to be surrendered**, which is politically and socially very difficult for the people whose homes or farmland are abandoned, and compensation is expensive [1].
 **Judgement:** the appropriate approach depends on **the value of the land at risk and the rate of erosion** [1] [1]. Hard engineering is justifiable where a city or port is threatened; along low-value agricultural coasts, soft engineering and managed retreat are more sustainable and increasingly the preferred policy under integrated coastal zone management [1] [1].
+
+**7.** The **Hjulström curve** shows the relationship between a river's **velocity** and whether a given particle size is **eroded, transported or deposited** [1]. It has one counter-intuitive feature: **fine clay needs a surprisingly high velocity to be entrained** (picked up), higher than for sand, because clay particles are small and **cohesive**, sticking together and resisting erosion [1] [1]; once suspended, though, clay stays in transport at very low velocities and so is deposited only when flow is almost still [1].
 
 ---
 

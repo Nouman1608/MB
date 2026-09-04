@@ -79,6 +79,8 @@ River processes cover erosion (hydraulic action, abrasion, attrition, solution),
 
 **Channel efficiency** is measured by the hydraulic radius; a semi-circular channel is most efficient because it minimises wetted perimeter for a given area.
 
+**Fluvial landforms** result from these processes acting together. A **waterfall** forms where a river crosses from hard to soft rock: differential erosion undercuts the softer rock, forming a plunge pool and an overhang that eventually collapses, so the fall retreats upstream and leaves a gorge behind it. A **meander** develops because flow is fastest on the outside of a bend, eroding a river cliff, while slower flow on the inside deposits a slip-off slope. An **ox-bow lake** forms when a meander's neck narrows until it is breached in flood, and deposition then seals off the abandoned loop. A **levée and floodplain** result from overbank flooding, which deposits the coarsest material nearest the channel and progressively finer material further away. A **delta** requires both a high sediment load and low wave and tidal energy to allow that sediment to settle rather than being redistributed along the coast.
+
 ## Atmosphere and weather
 
 The **global energy budget** drives everything: insolation received exceeds outgoing radiation at low latitudes and falls short at high latitudes, and this imbalance is corrected by atmospheric and oceanic transfers.

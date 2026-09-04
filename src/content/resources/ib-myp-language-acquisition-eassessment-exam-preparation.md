@@ -56,6 +56,18 @@ A student who is confident on paper but has not rehearsed spontaneous speaking u
 under-prepared for a full quarter of the total assessment, regardless of how strong their listening,
 reading and writing scores might be.
 
+## Why eAssessment uses three bands, not six phases
+
+Day-to-day classroom teaching tracks students against the finer-grained **six-phase proficiency
+continuum**, but eAssessment reports results against only the three broader bands -- emergent,
+capable and proficient. This is a deliberate difference in purpose rather than an inconsistency: a
+summative external exam needs categories that are coarse enough to compare fairly across every
+school and student sitting the assessment, whereas the six-phase continuum exists for the finer,
+ongoing formative tracking a classroom teacher needs day to day. Understanding this distinction
+matters for exam preparation specifically because the practice material and past-paper style
+questions you use should be pitched at your assessed **band**, not at your more precise classroom
+phase, which can sit anywhere within that band.
+
 ## Confirming your proficiency phase before you prepare
 
 Because MYP language acquisition courses are assessed at one of three proficiency phases -- emergent,

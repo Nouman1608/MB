@@ -59,8 +59,13 @@ below the highest marks even if factually accurate.
   afterlife, moral conduct) or **Madinan** (generally longer — law,
   community, social order).
 - **Compiled** under **Abu Bakr** after the Battle of Yamama, when
-  many *huffaz* were killed; **standardised** under **Uthman**, who
-  sent official copies to the main centres and had variant texts
+  many *huffaz* were killed; Abu Bakr commissioned **Zayd ibn Thabit**
+  to collect the written and memorised Qur'an into a single copy,
+  which was later kept by **Hafsah**. **Standardised** under
+  **Uthman**, after dialect disputes arose among Muslims in different
+  regions during campaigns in Armenia and Azerbaijan; Uthman had
+  Hafsah's copy reproduced using the dialect of the Quraysh, sent
+  official copies to the main centres, and had variant texts
   destroyed.
 
 ## Themes of the Qur'an
@@ -80,6 +85,9 @@ unsupported label scores little.
 615  First migration to Abyssinia
 619  Year of Sorrow -- deaths of Khadijah and Abu Talib
 622  HIJRA to Madinah -- start of the Islamic calendar
+     (pledges of Aqabah secured support; Ali slept in the Prophet's
+     bed as a decoy; the Prophet and Abu Bakr sheltered three days
+     in the cave of Thawr before completing the journey)
 622  Constitution of Madinah
 624  Battle of Badr      -- victory
 625  Battle of Uhud      -- setback; archers left their post

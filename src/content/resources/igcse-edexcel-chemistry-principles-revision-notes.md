@@ -60,7 +60,7 @@ Every definition must include **electrostatic attraction** — "atoms share elec
 - **Ionic compounds** have high melting points (strong forces throughout a giant lattice) and conduct **only when molten or dissolved**, because only then are the ions free to move.
 - **Simple molecular** substances have low melting points because only **weak intermolecular forces** break — **not** the covalent bonds. Saying "the covalent bonds break" is the most heavily penalised error in the topic.
 - **Giant covalent:** diamond is hard with four bonds per carbon and no free electrons, so it does not conduct. **Graphite conducts** because each carbon forms only three bonds, leaving **one delocalised electron per atom** free to move; its layers are held by weak forces so they slide, making it a lubricant.
-- **Metals** conduct in both solid and molten states because the delocalised electrons are always mobile.
+- **Metals** conduct in both solid and molten states because the delocalised electrons are always mobile. The same delocalised-electron structure also explains why metals are **malleable**: the layers of positive ions can slide over one another without breaking any specific bond, since the delocalised electrons hold the whole structure together regardless of how the ions are arranged.
 
 ## Calculations
 
@@ -74,6 +74,8 @@ atom economy      = (Mr of desired product / total Mr of reactants) x 100
 ```
 
 **Empirical formula method:** divide each mass or percentage by the relative atomic mass, then divide all results by the smallest, then scale to whole numbers.
+
+**Worked example.** A compound contains 40.0 g of calcium, 12.0 g of carbon and 48.0 g of oxygen (Ar: Ca = 40, C = 12, O = 16). Moles: Ca = 40.0 ÷ 40 = 1.0; C = 12.0 ÷ 12 = 1.0; O = 48.0 ÷ 16 = 3.0. Dividing through by the smallest value (1.0) gives the ratio Ca : C : O = 1 : 1 : 3, so the empirical formula is **CaCO₃**.
 
 **Percentage yield is never 100%** because of incomplete reactions, side reactions, losses during transfer and purification, and reversible reactions. **Atom economy** is different — it measures how much of the reactant mass ends up in the desired product, and a reaction can have 100% yield yet poor atom economy if it produces significant by-products.
 

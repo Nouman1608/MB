@@ -120,6 +120,8 @@ Balance sheet:    machine at cost                $50 000
 
 Charging the full $50,000 as an expense would breach the accruals concept, because the machine benefits five years, not one.
 
+**Reducing balance is the alternative method**, charging a fixed percentage of the asset's remaining (not original) value each year. On the same machine at 20%: Year 1 = $50,000 × 20% = $10,000; Year 2 = ($50,000 − $10,000) × 20% = $8,000, and so on, with the charge falling each year. Straight-line suits an asset that loses value evenly, such as fixtures or buildings; reducing balance suits an asset that loses more value early on, such as a motor vehicle, since it better matches the pattern of an asset's actual fall in value to the expense recognised for it.
+
 ## Common mistakes
 
 Treating drawings as an expense. Recording on a cash basis where accruals apply. Placing a prepayment among liabilities rather than current assets. Confusing realisation with cash receipt. Describing management accounting as legally required. Naming a concept without showing its effect on the figures.

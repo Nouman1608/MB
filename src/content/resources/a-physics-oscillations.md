@@ -97,6 +97,8 @@ frequency 4.0 rad s⁻¹. Its maximum speed:
 v₀ = ωx₀ = 4.0 × 0.050 = 0.20 m s⁻¹
 ```
 
+**A simple pendulum** is the standard example of a free oscillation: for small angles of swing, its period is given by T = 2π√(l/g), where l is the pendulum's length and g the gravitational field strength — independent of the mass on the end or the amplitude of swing, provided the angle stays small.
+
 ## Period and frequency
 
 The **period** T is the time for one complete oscillation, and **frequency**
@@ -126,6 +128,8 @@ friction or air resistance), so its amplitude decreases over time. A
 **forced oscillation** occurs when a system is driven by an external
 periodic force at a chosen driving frequency, which may differ from its
 natural frequency.
+
+Damping itself comes in degrees. **Light damping** lets amplitude decay only gradually over many oscillations, approaching zero but never quite reaching it. **Heavy damping** returns the system to equilibrium only slowly, without oscillating. **Critical damping** sits between the two, returning the system to equilibrium in the shortest possible time without any oscillation at all — the level of damping engineers choose whenever a system must settle quickly without overshooting, such as a car's suspension after a bump.
 
 ## Resonance
 

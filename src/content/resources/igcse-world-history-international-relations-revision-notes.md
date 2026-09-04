@@ -73,6 +73,8 @@ Sequence: rearmament (1935) → Rhineland remilitarisation (1936) → Rome-Berli
 
 **Causes:** ideological opposition between capitalism and communism, wartime suspicion, the atomic bomb, disagreement at Yalta and Potsdam over Poland and Germany, and Soviet expansion into Eastern Europe.
 
+**Yalta (February 1945)** saw the Allies agree the division of Germany and free elections in Eastern Europe, but the wording of that agreement was ambiguous enough to be interpreted differently by each side. By **Potsdam (July 1945)**, the situation had shifted: Roosevelt had died, the war in Europe was over, and the atomic bomb had been successfully tested — Truman's harder line and Stalin's presence in Eastern Europe made the disagreements explicit rather than merely implied.
+
 Key developments: **Truman Doctrine** and **Marshall Plan** (1947), Cominform, **Berlin Blockade and Airlift** (1948–49), NATO (1949), Warsaw Pact (1955), Hungary (1956), Berlin Wall (1961), **Cuban Missile Crisis** (1962), Czechoslovakia (1968), détente, Afghanistan (1979), and the collapse of 1989–91.
 
 The Cuban Missile Crisis is the standard case study: causes (Bay of Pigs, US missiles in Turkey, Soviet desire for parity), the thirteen days, and consequences (the hotline, the Test Ban Treaty, and a shift towards managed coexistence).

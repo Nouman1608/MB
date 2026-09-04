@@ -90,6 +90,14 @@ The memory hook for exchange rates: **SPICED** — Strong Pound, Imports Cheap, 
 
 **Income elasticity** determines who suffers in a downturn. Luxury goods have high positive YED, so demand falls sharply in a recession; **inferior goods have negative YED**, so demand can actually *rise*. This is why discount retailers often grow during downturns — a point worth having ready.
 
+## Decision-making
+
+**Scientific decision-making** uses data and quantitative techniques — decision trees, investment appraisal, market research. It is evidence-based and defensible, but the data behind it may be incomplete, out of date or misleading, and gathering and analysing it can be slow.
+
+**Intuitive decision-making** instead relies on the decision-maker's own experience and judgement. It is fast and works even where data is absent, but is prone to personal bias and harder to justify to stakeholders after the fact.
+
+Most real business decisions combine both approaches, and evaluation questions reward recognising that the right balance between them depends on the level of risk involved, the time available, and the quality of the data on hand.
+
 ## Answering the questions
 
 Marks come from **application, analysis and evaluation**:
