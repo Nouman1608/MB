@@ -50,6 +50,8 @@ for worked exam-style application.
 
 **Constructing a perpendicular bisector of AB:** open compasses to more than half of AB; with the point on A, draw arcs above and below the line; repeat from B with the same radius so the arcs cross; join the two crossing points with a straight line. The visible arcs are what earn the method mark, not just a correctly placed final line.
 
+**Constructing the bisector of an angle:** with the compass point on the angle's vertex, draw an arc crossing both arms; from each of those two crossing points, draw a further arc of equal radius so the two new arcs intersect; join the vertex to that intersection point -- this line bisects the angle exactly.
+
 ## Scale drawings
 
 A map scale such as 1 : 25 000 means one unit on the map represents 25 000 of the same unit in reality.
@@ -124,5 +126,6 @@ Always check whether all the vertices of a shape actually lie on the circle befo
 3. State the circle theorem relating the angle at the centre to the angle at the circumference on the same arc.
 4. What is the sum of the interior angles of any triangle?
 5. State how many lines of symmetry a (non-rhombus) kite has.
+6. Describe, in one sentence, how to construct the bisector of an angle using compasses.
 
-**Answers:** 1. Congruent shapes are identical in shape AND size; similar shapes are identical in shape only, one a scaled copy of the other. 2. 3^3 = 27. 3. The angle at the centre is twice the angle at the circumference, standing on the same arc. 4. 180 degrees. 5. One, along the diagonal that bisects the pair of equal angles.
+**Answers:** 1. Congruent shapes are identical in shape AND size; similar shapes are identical in shape only, one a scaled copy of the other. 2. 3^3 = 27. 3. The angle at the centre is twice the angle at the circumference, standing on the same arc. 4. 180 degrees. 5. One, along the diagonal that bisects the pair of equal angles. 6. Draw an arc from the vertex crossing both arms, then equal-radius arcs from those two points to find their intersection, and join the vertex to that intersection.

@@ -37,7 +37,7 @@ for worked exam-style application.
 
 ## Units of measure
 
-Linear conversions apply directly, but **area conversions square the factor** and **volume conversions cube it**:
+Linear conversions apply directly, but **area conversions square the factor** and **volume conversions cube it** -- this is the most-tested single idea in the whole topic, and the source of more lost marks than any formula itself:
 
 ```
 1 m = 100 cm            -> linear factor 100
@@ -45,7 +45,7 @@ Linear conversions apply directly, but **area conversions square the factor** an
 1 m^3 = 100^3 = 1 000 000 cm^3 -> volume factor 100^3
 ```
 
-Forgetting to square or cube the linear factor is the single most common unit-conversion error in this topic.
+Forgetting to square or cube the linear factor is the single most common unit-conversion error in this topic, and it is worth double-checking on every question that involves converting an area or a volume, not just the ones that explicitly say "convert".
 
 ## Area and perimeter
 
@@ -55,6 +55,14 @@ Forgetting to square or cube the linear factor is the single most common unit-co
 | Triangle | (1/2) x base x height | sum of the three sides |
 | Parallelogram | base x height | sum of the four sides |
 | Trapezium | (1/2)(a + b) x height, a and b the parallel sides | sum of the four sides |
+
+```
+Triangle: base 9 cm, height 6 cm
+Area = (1/2) x 9 x 6 = 27 cm^2
+
+Trapezium: parallel sides 5 cm and 9 cm, height 4 cm
+Area = (1/2)(5 + 9) x 4 = (1/2)(14)(4) = 28 cm^2
+```
 
 ## Circles, arcs and sectors
 
@@ -82,6 +90,12 @@ Sphere:    volume = (4/3) x pi x r^3
 
 A cone's slant height and perpendicular height are different lengths, related by Pythagoras' theorem (slant height is the hypotenuse of a right-angled triangle formed with the radius and the perpendicular height) -- always check which one a question has given before substituting into the volume formula. Total surface area of a cylinder or cone must include the circular end(s); curved surface area alone does not.
 
+```
+Cone: radius 3 cm, slant height 5 cm
+perpendicular height: h^2 = 5^2 - 3^2 = 25 - 9 = 16 -> h = 4 cm
+volume = (1/3) x pi x 3^2 x 4 = 37.7 cm^3 (3 s.f.)
+```
+
 ## Compound shapes and parts of shapes
 
 A compound shape's area or volume is found by **adding or subtracting** the areas or volumes of the simpler shapes it is built from -- decide which operation applies by checking whether a piece has been joined on or removed.
@@ -92,6 +106,8 @@ rectangle area  = 10 x 6 = 60 cm^2
 semicircle area = (1/2) x pi x 3^2 = 14.14 cm^2
 remaining area  = 60 - 14.14 = 45.9 cm^2 (3 s.f.)
 ```
+
+The same add-or-subtract principle applies to compound **solids** as to compound areas -- a solid made of a cylinder with a cone removed from one end uses the same subtraction logic as the 2D rectangle-minus-semicircle example above, just with volume formulas in place of area formulas.
 
 ## Exam traps
 
@@ -109,5 +125,6 @@ remaining area  = 60 - 14.14 = 45.9 cm^2 (3 s.f.)
 3. Which length is used in a cone's volume formula: the slant height or the perpendicular height?
 4. A major sector has a minor angle of 80 degrees marked on the diagram. What angle should be used to find the major sector's area?
 5. State whether a compound-shape calculation with a piece removed uses addition or subtraction.
+6. Write down the area formula for a trapezium with parallel sides a and b and height h.
 
-**Answers:** 1. 10 000 (100^2), since 1 m = 100 cm. 2. Sector area = (angle / 360) x pi x r^2. 3. The perpendicular height. 4. 360 - 80 = 280 degrees. 5. Subtraction -- subtract the removed piece's area from the whole shape's area.
+**Answers:** 1. 10 000 (100^2), since 1 m = 100 cm. 2. Sector area = (angle / 360) x pi x r^2. 3. The perpendicular height. 4. 360 - 80 = 280 degrees. 5. Subtraction -- subtract the removed piece's area from the whole shape's area. 6. Area = (1/2)(a + b) x h.

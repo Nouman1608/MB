@@ -80,6 +80,18 @@ Area:         Area = (1/2) ab sin C
 
 Use the **sine rule** when a matching angle-side pair is known (an angle and the side opposite it). Use the **cosine rule** when either two sides and the included angle are known, or all three sides are known and an angle is required. The area formula needs two sides and the angle **between** them.
 
+```
+Sine rule example: angle A = 40, angle B = 65, side a = 8 cm. Find side b.
+b / sin B = a / sin A
+b = (a x sin B) / sin A = (8 x sin 65) / sin 40 = 11.3 cm (3 s.f.)
+
+Cosine rule example: PQ = 7 cm, QR = 9 cm, angle Q = 55 degrees. Find PR.
+PR^2 = PQ^2 + QR^2 - 2(PQ)(QR)cos Q = 49 + 81 - 126 cos 55 = 57.7
+PR = 7.60 cm (3 s.f.)
+```
+
+The cosine rule can also be rearranged to find an **angle** when all three sides are known: cos A = (b^2 + c^2 - a^2) / (2bc). A negative value inside cos-inverse is not an error -- it correctly signals an obtuse angle.
+
 ## Pythagoras and trigonometry in 3D
 
 3D problems are solved by finding the correct 2D right-angled triangle inside the solid first -- typically a diagonal across a face or the base -- then applying Pythagoras or SOHCAHTOA within that flat triangle.
@@ -109,5 +121,6 @@ Keeping an intermediate length in exact (surd) form, rather than rounding it ear
 3. State the condition needed to use the sine rule rather than the cosine rule.
 4. Write down the formula for the area of a triangle given two sides and the included angle.
 5. In a 3D cuboid problem, what should be found first before calculating the space diagonal?
+6. Write down the rearranged cosine rule formula used to find an angle, given all three sides of a triangle.
 
-**Answers:** 1. The longest side, always opposite the right angle. 2. tan 45 = 1. 3. A known angle and the side directly opposite it (a matching angle-side pair). 4. Area = (1/2) ab sin C, where C is the angle between sides a and b. 5. The base diagonal (the 2D diagonal across the cuboid's base), found using Pythagoras' theorem on the two base edges.
+**Answers:** 1. The longest side, always opposite the right angle. 2. tan 45 = 1. 3. A known angle and the side directly opposite it (a matching angle-side pair). 4. Area = (1/2) ab sin C, where C is the angle between sides a and b. 5. The base diagonal (the 2D diagonal across the cuboid's base), found using Pythagoras' theorem on the two base edges. 6. cos A = (b^2 + c^2 - a^2) / (2bc).

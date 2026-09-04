@@ -54,7 +54,7 @@ x =  2:  y = 2(2) - 1  =  3
 points to plot: (-2, -5), (0, -1), (2, 3)
 ```
 
-Checking two points against the same table pattern also answers "is this line horizontal, vertical, or neither?" questions directly: if every y-value is identical the line is horizontal, if every x-value is identical it is vertical, and otherwise it slopes, so its gradient can be calculated in the normal way.
+Checking two points against the same table pattern also answers "is this line horizontal, vertical, or neither?" questions directly: if every y-value is identical the line is horizontal, if every x-value is identical it is vertical, and otherwise it slopes, so its gradient can be calculated in the normal way from any two of the points on it.
 
 ## Gradient
 
@@ -62,7 +62,7 @@ Checking two points against the same table pattern also answers "is this line ho
 gradient m = (y2 - y1) / (x2 - x1)
 ```
 
-A positive gradient slopes upward left to right; a negative gradient slopes downward. A horizontal line has gradient **0**; a vertical line has an **undefined** gradient (division by zero). Always subtract the coordinates in the **same order** in both the numerator and denominator.
+A positive gradient slopes upward left to right; a negative gradient slopes downward. A horizontal line has gradient **0**; a vertical line has an **undefined** gradient (division by zero). Always subtract the coordinates in the **same order** in both the numerator and denominator -- picking (x1, y1) and (x2, y2) consistently, and not swapping which point is which partway through the calculation, avoids the sign errors that are the most common mistake in this whole topic.
 
 ## Length and midpoint
 
@@ -75,7 +75,7 @@ The length formula is Pythagoras' theorem applied to the horizontal and vertical
 
 ## Equations of straight lines
 
-Every straight line (that is not vertical) can be written as **y = mx + c**, where m is the gradient and c is the y-intercept. Given two points, find m first using the gradient formula, then substitute one point's coordinates into y = mx + c to solve for c.
+Every straight line (that is not vertical) can be written as **y = mx + c**, where m is the gradient and c is the y-intercept. Given two points, find m first using the gradient formula, then substitute **either** point's coordinates into y = mx + c to solve for c -- both points must lie on the same line, so either one gives the same, correct value of c.
 
 ```
 Line through (2, 3) and (4, 9):
@@ -88,11 +88,23 @@ Line through (2, 3) and (4, 9):
 
 **Parallel** lines have the **same gradient**. To find the equation of a line parallel to a given line through a new point, keep m unchanged and solve for a new c using the new point.
 
+```
+Line parallel to y = 3x - 7, passing through (1, 4):
+gradient stays 3 (parallel lines have equal gradient)
+4 = 3(1) + c  ->  c = 1
+y = 3x + 1
+```
+
 **Perpendicular** lines have gradients that are **negative reciprocals** of each other: if one line has gradient m, a line perpendicular to it has gradient **-1/m**, so that m x (-1/m) = -1.
 
 ```
 Line L: y = 4x - 1, gradient 4
 Perpendicular gradient: 4 x m = -1  ->  m = -1/4
+
+Perpendicular to L, passing through (2, 5):
+y = -(1/4)x + c
+5 = -(1/4)(2) + c  ->  c = 5.5
+y = -(1/4)x + 5.5
 ```
 
 ## Exam traps
@@ -110,5 +122,6 @@ Perpendicular gradient: 4 x m = -1  ->  m = -1/4
 3. Two lines are perpendicular. If one has gradient 2, what is the gradient of the other?
 4. What must be true of two lines for them to be parallel?
 5. Given the equation of a line and one point on a new, parallel line, describe the two steps needed to find the new line's equation.
+6. State the equation of a line with gradient -2 that passes through the origin.
 
-**Answers:** 1. Horizontal line: gradient 0. Vertical line: gradient undefined. 2. Length = sqrt((x2 - x1)^2 + (y2 - y1)^2). 3. -1/2, since 2 x (-1/2) = -1. 4. They must have the same gradient. 5. Keep the gradient the same as the given line, then substitute the new point's coordinates into y = mx + c and solve for the new value of c.
+**Answers:** 1. Horizontal line: gradient 0. Vertical line: gradient undefined. 2. Length = sqrt((x2 - x1)^2 + (y2 - y1)^2). 3. -1/2, since 2 x (-1/2) = -1. 4. They must have the same gradient. 5. Keep the gradient the same as the given line, then substitute the new point's coordinates into y = mx + c and solve for the new value of c. 6. y = -2x, since a line through the origin has c = 0.

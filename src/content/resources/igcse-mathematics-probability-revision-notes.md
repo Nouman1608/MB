@@ -70,6 +70,15 @@ Bag: 5 red, 3 blue. Two counters taken without replacement.
 P(both red) = 5/8 x 4/7 = 5/14
 ```
 
+A **possibility space diagram** (a grid of every combined outcome) is an alternative to a tree diagram, most useful for two independent events with a small, fixed number of outcomes each -- for example, rolling two dice, where a 6-by-6 grid of all 36 equally likely outcome pairs makes counting favourable outcomes for a combined event straightforward. Mutually exclusive events (outcomes that cannot both occur, such as rolling a 2 and rolling a 5 on the same single die) always use the addition rule; independent events (where one outcome has no effect on the other's probability, such as two separate dice rolls) always use the multiplication rule for a combined AND outcome.
+
+```
+Two fair dice rolled together. P(both scores add to 7)?
+Possibility space has 36 equally likely outcomes (6 x 6 grid).
+Pairs summing to 7: (1,6) (2,5) (3,4) (4,3) (5,2) (6,1) -- 6 outcomes.
+P(sum = 7) = 6/36 = 1/6
+```
+
 ## Conditional probability
 
 ```
@@ -98,5 +107,6 @@ P(B | A) = 0.15 / 0.3 = 0.5
 3. Why is relative frequency described as an "estimate" rather than the true probability?
 4. Write down the formula for conditional probability P(B | A).
 5. A bag has 5 red and 3 blue counters. Without replacement, what is P(blue) on the second pick, given the first pick was blue?
+6. State when a possibility space diagram is a useful alternative to a tree diagram.
 
-**Answers:** 1. They must each be between 0 and 1, and they must sum to 1. 2. When combining separate paths that both lead to the outcome required (an OR situation across whole paths) -- multiply along a single path, add across different qualifying paths. 3. Because it is calculated from a limited number of trials and will not usually match the theoretical probability exactly, especially for small samples. 4. P(B | A) = P(A and B) / P(A). 5. 2/7, since one blue counter has already been removed, leaving 2 blue and 5 red out of 7 remaining.
+**Answers:** 1. They must each be between 0 and 1, and they must sum to 1. 2. When combining separate paths that both lead to the outcome required (an OR situation across whole paths) -- multiply along a single path, add across different qualifying paths. 3. Because it is calculated from a limited number of trials and will not usually match the theoretical probability exactly, especially for small samples. 4. P(B | A) = P(A and B) / P(A). 5. 2/7, since one blue counter has already been removed, leaving 2 blue and 5 red out of 7 remaining. 6. When there are two independent events, each with a small, fixed number of equally likely outcomes -- a grid of every combined outcome makes counting favourable outcomes straightforward.

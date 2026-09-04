@@ -45,6 +45,8 @@ Each transformation needs specific information stated to describe it **fully** -
 
 An enlargement about the origin with scale factor k maps a point (x, y) to (kx, ky) -- **both** coordinates are multiplied by k, never added to.
 
+Common mirror lines and what they do to a point (x, y): reflection in the **x-axis** (y = 0) gives (x, -y); reflection in the **y-axis** (x = 0) gives (-x, y); reflection in the line **y = x** gives (y, x); reflection in the line **y = -x** gives (-y, -x). Recognising these four directly, rather than re-deriving them from a sketch each time, saves time under exam conditions.
+
 ## Vectors in two dimensions
 
 A vector has both magnitude and direction, and can be written as a column vector or in terms of letters (e.g. **a**, **b**). Vectors add and subtract component-wise:
@@ -56,6 +58,12 @@ a + b = (3 + -6, 4 + 1) = (-3, 5)
 ```
 
 The vector from one point to another is always **end point minus start point** -- reversing the order gives the negative (opposite direction) vector.
+
+```
+OM = a,  ON = b
+MN = ON - OM = b - a
+NM = OM - ON = a - b   (the negative of MN)
+```
 
 ## Magnitude of a vector
 
@@ -81,6 +89,10 @@ OM = OA + (1/2)AB = a + (1/2)(b - a) = (1/2)a + (1/2)b
 
 **Collinear points** (points on the same straight line) always give a vector between any two of them that is a **scalar multiple of a single vector** -- if a "final" simplified route still contains both given vectors in a form that will not reduce to one, that is a sign of an earlier arithmetic error.
 
+**Parallel vectors** work on the same principle as collinear points: two vectors are parallel exactly when one is a scalar multiple of the other, regardless of where either one is positioned in the plane. This is why "show that PQ is parallel to RS" questions are answered by reducing both vectors to their simplest form and checking one is a number times the other, not by any visual or coordinate-plotting argument.
+
+A translation described by a column vector such as (4, -2) means "move 4 units in the positive x-direction and 2 units in the negative y-direction" -- the column vector itself IS the full description; no separate direction or distance needs to be added.
+
 ## Exam traps
 
 - Naming a transformation without the extra information needed to describe it fully -- the mirror line, the angle and centre, or the scale factor and centre.
@@ -96,5 +108,7 @@ OM = OA + (1/2)AB = a + (1/2)(b - a) = (1/2)a + (1/2)b
 3. Write down the formula for the magnitude of a vector (x, y).
 4. If M is the midpoint of AB, and OA = a, OB = b, write OM in terms of a and b.
 5. Explain what it means for the vector between three points to confirm they are collinear.
+6. State the image of the point (x, y) after a reflection in the y-axis.
+7. Given OM = a and ON = b, write down the vector NM.
 
-**Answers:** 1. The angle of rotation (with direction, unless 180 degrees) and the centre of rotation. 2. (6, 15). 3. |v| = sqrt(x^2 + y^2). 4. OM = (1/2)a + (1/2)b. 5. The vector between any two of the three points must simplify to a scalar multiple of the same single vector as the vector between the other pair -- confirming all three lie on one straight line.
+**Answers:** 1. The angle of rotation (with direction, unless 180 degrees) and the centre of rotation. 2. (6, 15). 3. |v| = sqrt(x^2 + y^2). 4. OM = (1/2)a + (1/2)b. 5. The vector between any two of the three points must simplify to a scalar multiple of the same single vector as the vector between the other pair -- confirming all three lie on one straight line. 6. (-x, y). 7. a - b, the negative of vector MN.

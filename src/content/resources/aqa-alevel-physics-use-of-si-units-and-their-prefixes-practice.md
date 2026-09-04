@@ -51,6 +51,8 @@ Related: [Use of SI Units and Their Prefixes study guide](/resources/aqa-alevel-
 
 **10.** A resistor has a value quoted as "4.7 MΩ". State this resistance in base SI units (ohms), in standard form. **[2]**
 
+**11.** A student is asked to name the fundamental (base) SI unit of mass, and answers "the newton". Explain why this is incorrect, and give the correct answer. **[2]**
+
 ---
 
 ## Answers
@@ -74,6 +76,8 @@ Related: [Use of SI Units and Their Prefixes study guide](/resources/aqa-alevel-
 **9.** The student has substituted the number **250** as if it were in amperes, when "mA" means the value is actually in **milliamps**, a factor of 10³ smaller than an ampere [1]. The corrected value is 250 × 10⁻³ = **0.25 A** [1].
 
 **10.** M is the prefix mega, meaning ×10⁶ [1], so 4.7 MΩ = **4.7 × 10⁶ Ω** [1].
+
+**11.** The newton is the unit of **force (weight)**, not mass -- it is a **derived** unit, built from mass × acceleration, not one of the six fundamental quantities [1]. The correct fundamental unit of mass is the **kilogram (kg)** [1].
 
 ---
 
