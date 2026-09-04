@@ -120,6 +120,11 @@ The specification references several required practicals within this topic: exam
 - Distinguish xylem from phloem on direction, cell type and what each transports.
 - Calculate the SA:V ratio for a cube of side 3 cm.
 
+## Related resources
+
+- [Scaling Up study guide](/resources/ocr-gcse-biology-scaling-up/)
+- [Scaling Up practice questions](/resources/ocr-gcse-biology-scaling-up-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Biology A (Gateway Science) J247 Specification*,

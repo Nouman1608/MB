@@ -146,6 +146,11 @@ transpiration rate -- as genuine revision material, since OCR
 regularly examines the reliability and limitations of these specific
 methods rather than only the underlying biology.
 
+## Related resources
+
+- [Scaling Up revision notes](/resources/ocr-gcse-biology-scaling-up-revision-notes/)
+- [Scaling Up practice questions](/resources/ocr-gcse-biology-scaling-up-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Biology A (Gateway Science) J247 Specification*,
