@@ -38,6 +38,8 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Bartlett's reconstructive memory:** recall is an active reconstruction shaped by **schemas**, not a replay. In *War of the Ghosts*, unfamiliar cultural details were omitted, the story was shortened, and elements were changed to fit participants' own expectations — the basis of the case against eyewitness reliability.
 
+**Implication for eyewitness testimony:** because recall is reconstructive, a witness's account can be **altered by leading questions and by information encountered after the event**, without the witness being aware of any change. This is why police interviews should use **open, non-leading questions**, and why witnesses should be interviewed **separately and as promptly as possible** — before their memories can be influenced by each other or by media coverage.
+
 ## Perception
 
 **Sensation** is the raw sensory data; **perception** is the brain's interpretation of it.
@@ -46,7 +48,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Factors affecting perception:** expectation, motivation, emotion, culture, and past experience.
 
-**Illusions** are useful because they reveal how perception works: the Ponzo and Müller-Lyer illusions arise from **misinterpreted depth cues**, Rubin's vase from **ambiguity**, and the Kanizsa triangle from **fiction** — the brain supplying edges that do not exist.
+**Illusions** are useful because they reveal how perception works: the Ponzo and Müller-Lyer illusions arise from **misinterpreted depth cues**, Rubin's vase from **ambiguity**, the Kanizsa triangle from **fiction** — the brain supplying edges that do not exist — and the **Necker cube** from **ambiguity** too, since it flips unpredictably between two equally valid 3D interpretations, showing that perception is an active hypothesis the brain forms and revises, not a passive reading of the image.
 
 **Two competing explanations:**
 
@@ -80,6 +82,8 @@ Condensed for the final weeks. For the full explanation, use the
 - **Sampling:** random, opportunity, systematic, stratified. Opportunity sampling is quick but unrepresentative.
 
 **Ethics:** informed consent, no deception, protection from harm, right to withdraw, confidentiality, debriefing.
+
+**Repeated measures designs** (the same participants complete every condition) risk **order effects** — practice may improve performance in whichever condition comes second, or fatigue and boredom may worsen it — and **demand characteristics**, since completing several conditions makes it easier for a participant to guess the aim and change their behaviour accordingly. Both are addressed by **counterbalancing**, where the order of conditions is varied systematically across participants (half do condition A first, half do condition B first), and by using different but equivalent materials in each condition so practice on the actual content cannot occur.
 
 ## Exam traps
 

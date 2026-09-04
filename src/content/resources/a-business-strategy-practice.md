@@ -42,6 +42,22 @@ Related: [Objectives and Strategic Decisions revision notes](/resources/a-busine
 
 **6.** Evaluate whether a business should always follow a planned strategy rather than an emergent one. **[12]**
 
+## Section C — Decision trees and investment appraisal
+
+**7.** A firm is choosing between two strategic options.
+
+**Option A** costs £50,000 to implement, with a 0.6 probability of a £200,000 payoff and a 0.4 probability of a £20,000 payoff.
+**Option B** costs £30,000 to implement, with a 0.7 probability of a £100,000 payoff and a 0.3 probability of a £10,000 payoff.
+
+**(a)** Calculate the expected value and net gain of each option. **[4]**
+**(b)** State which option the decision tree recommends, and give **two** limitations of using this result alone. **[4]**
+
+**8.** A project requires an initial investment of £100,000 and is expected to generate £40,000 cash flow in each of the next four years.
+
+**(a)** Calculate the payback period. **[2]**
+**(b)** Calculate the accounting rate of return (ARR). **[3]**
+**(c)** Explain **one** advantage NPV has over both these methods. **[2]**
+
 ---
 
 ## Answers
@@ -60,6 +76,13 @@ Limitations: it produces a **list rather than a priority order or a decision**, 
 **6. For planned strategy:** it provides **clear direction and allows resources to be allocated in advance**, so departments work towards the same goal [1]; it makes it possible to **set measurable targets and hold managers accountable** [1]; it reassures **investors and lenders**, who want to see a coherent plan before committing capital [1].
 **Against:** a rigid plan can produce **strategic drift** — the business continues on a course that no longer fits a changed environment [1]; **emergent strategy allows the business to respond to unforeseen opportunities**, such as a competitor failing or a new technology appearing [1]; detailed long-term planning is **expensive and its forecasts are frequently wrong** in volatile markets [1]; many highly successful strategies were **discovered in practice rather than planned**, arising from experimentation on the ground [1].
 **Judgement:** the two are **complementary rather than alternatives** [1]. A business needs a **planned sense of direction with the flexibility to adapt the route** [1]. The right balance depends on **how volatile the market is and how large the resource commitment is** [1] — a utility investing in infrastructure over thirty years must plan; a fashion retailer must remain largely emergent [1].
+
+**7. (a)** Option A: expected value = (0.6 × £200,000) + (0.4 × £20,000) = £120,000 + £8,000 = **£128,000**; net gain = £128,000 − £50,000 = **£78,000** [2]. Option B: expected value = (0.7 × £100,000) + (0.3 × £10,000) = £70,000 + £3,000 = **£73,000**; net gain = £73,000 − £30,000 = **£43,000** [2].
+**(b)** **Option A** is recommended, since its net gain (£78,000) is higher than Option B's (£43,000) [1]. Any two limitations, 1 mark each: the probabilities are **estimates, often subjective**, so the whole calculation is only as reliable as the guesses that feed it; the model **ignores qualitative factors** such as staff morale, brand reputation or strategic fit; it takes **no account of the timing** of the returns, unlike NPV [2].
+
+**8. (a)** Payback period = initial investment ÷ annual cash flow = £100,000 ÷ £40,000 = **2.5 years** [2].
+**(b)** Total cash flow over four years = £40,000 × 4 = £160,000; total profit = £160,000 − £100,000 = £60,000; average annual profit = £60,000 ÷ 4 = £15,000 [1]. ARR = (£15,000 ÷ £100,000) × 100 = **15%** [2].
+**(c)** NPV accounts for the **time value of money** — a pound received in a future year is discounted to reflect that it is worth less than a pound received today — which neither payback nor ARR does, since both treat every year's cash flow as equally valuable regardless of when it arrives [2].
 
 ---
 

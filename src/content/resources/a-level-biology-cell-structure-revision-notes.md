@@ -50,6 +50,8 @@ Condensed for the final weeks. For the full explanation, use the
 | **Ribosomes** | Protein synthesis |
 | **Centrioles** | Form the spindle in animal cell division |
 
+**Free vs bound ribosomes:** free ribosomes in the cytoplasm make proteins **used within the cell itself**; ribosomes **bound to the rough ER** make proteins **destined for secretion or for use in membranes**, since the rough ER processes and packages the protein for export. The location of the ribosome, not the ribosome itself, decides the protein's destination.
+
 **Trace a secreted protein and you have most of the topic:** DNA in the nucleus → mRNA leaves through a nuclear pore → ribosome on the **rough ER** synthesises the protein → vesicle buds off → **Golgi** modifies and packages it → secretory vesicle → fuses with the cell surface membrane → exocytosis. That sequence is examined nearly every series.
 
 ## Microscopy
@@ -72,6 +74,8 @@ magnification = image size / actual size
 
 Always convert both measurements to the **same unit** before dividing — this is where most calculation marks are lost.
 
+**Worked example.** A micrograph shows a cell's image measuring 45 mm across at ×3,000 magnification. Actual size = image size ÷ magnification = 45 mm ÷ 3,000 = 0.015 mm = **15 μm**. Working in one unit throughout, and converting only at the very end, avoids the mid-calculation errors that lose most marks here.
+
 **Artefacts** are structures produced by the preparation process rather than present in the living cell — a real risk with EM, where specimens must be fixed, dehydrated and stained.
 
 ## Cell fractionation
@@ -93,6 +97,8 @@ The three properties of the solution and their reasons are a guaranteed 3 marks.
 - Saying rough ER makes proteins *and* modifies them — modification is the Golgi's job.
 - Forgetting that EM specimens cannot be living.
 - Giving only one reason for the homogenisation medium.
+- Naming a single "cell wall material" for all organisms — a prokaryotic wall is peptidoglycan (murein), a fungal wall is chitin, and a plant wall is cellulose; the three share a structural role but differ entirely in composition.
+- Assuming any ribosome makes a protein for secretion — only ribosomes bound to the rough ER do; free ribosomes make proteins the cell uses itself.
 
 ## Self-test
 
@@ -101,5 +107,6 @@ The three properties of the solution and their reasons are a guaranteed 3 marks.
 3. Why do electron microscopes have higher resolution than light microscopes?
 4. Why must homogenisation solution be cold, isotonic and buffered?
 5. What evidence within eukaryotic cells supports endosymbiotic theory?
+6. What determines whether a ribosome is free or bound to the rough ER, and does that change what the ribosome itself is made of?
 
-**Answers:** 1. No nucleus; circular naked DNA rather than linear DNA with histones; 70S rather than 80S ribosomes; no membrane-bound organelles (also: smaller, peptidoglycan wall, plasmids). 2. Transcription in the nucleus → mRNA through a nuclear pore → translation on a rough ER ribosome → vesicle to the Golgi → modification and packaging → secretory vesicle → exocytosis. 3. Electrons have a much shorter wavelength than visible light, and resolution is limited by wavelength. 4. Cold reduces enzyme activity that would digest organelles; isotonic prevents osmotic damage; buffered prevents pH change denaturing proteins. 5. Mitochondria and chloroplasts contain their own circular DNA and 70S ribosomes, like prokaryotes.
+**Answers:** 1. No nucleus; circular naked DNA rather than linear DNA with histones; 70S rather than 80S ribosomes; no membrane-bound organelles (also: smaller, peptidoglycan wall, plasmids). 2. Transcription in the nucleus → mRNA through a nuclear pore → translation on a rough ER ribosome → vesicle to the Golgi → modification and packaging → secretory vesicle → exocytosis. 3. Electrons have a much shorter wavelength than visible light, and resolution is limited by wavelength. 4. Cold reduces enzyme activity that would digest organelles; isotonic prevents osmotic damage; buffered prevents pH change denaturing proteins. 5. Mitochondria and chloroplasts contain their own circular DNA and 70S ribosomes, like prokaryotes. 6. Whether it is attached to the rough ER or free in the cytoplasm, which determines the destination of the protein it makes (secretion/membrane versus use within the cell) — not the ribosome's own structure, which is identical either way.

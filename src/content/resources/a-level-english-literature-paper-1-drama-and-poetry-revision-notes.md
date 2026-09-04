@@ -68,6 +68,14 @@ Neither is "easier" — (a) rewards breadth and structural control across a whol
 - The **effect** of a technique, not just naming it — a metaphor identified without an explained effect earns little.
 - Avoid **paraphrase** ("the poem is about…") — that is description, not analysis, and does not access AO2.
 
+## Technique-to-effect checklist
+
+Naming a technique earns little; the mark is in the **effect**. A few reliable patterns worth having ready:
+
+**Drama:** a stage direction that withholds a physical reaction (e.g. a character not looking up, or hesitating with a hand on a door) builds tension by staging indecision physically rather than narrating it — the audience watches the uncertainty rather than being told about it. Short, clipped exchanges create a rapid rhythm that can dramatise a scene accelerating emotionally even while physical action stalls. An ending that leaves a gesture or line unresolved (a character not moving, a question not answered) is itself a structural choice that builds tension by withholding resolution.
+
+**Poetry:** an extended metaphor sustained across several lines (rather than a single image) suggests the subject has its own internal logic or pattern, not just a passing comparison. An asyndetic list (items joined without connectives) can mimic how memory or perception surfaces in fragments rather than as one continuous narrative. Enjambment running across most of a poem's lines creates drift and unresolved momentum, which can formally enact a theme of an ongoing or unfinished process; a **volta** (a turn) partway through can shift a poem from image to direct statement. A short, end-stopped final couplet breaking from longer enjambed lines elsewhere in the poem formally marks closure, even if the content itself resists full explanation.
+
 ## Exam craft
 
 - Practise **both sections in one timed sitting**, not separately — pacing across the full two hours is a skill in itself, and it is where marks are commonly lost even by well-prepared candidates.

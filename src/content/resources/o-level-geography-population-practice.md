@@ -42,6 +42,14 @@ Related: [Population and Settlement revision notes](/resources/o-level-geography
 
 **6.** Explain **three** problems caused by rapid urbanisation in a low-income country and **one** strategy to address each. **[9]**
 
+## Section C — Settlement
+
+**7.** Distinguish between the site and the situation of a settlement, giving an example factor for each. **[4]**
+
+**8.** Explain the meaning of **range** and **threshold population**, and explain why a large department store is found in far fewer settlements than a newsagent. **[5]**
+
+**9.** Describe the typical land use of the CBD and explain **two** reasons why land values are highest there. **[4]**
+
 ---
 
 ## Answers
@@ -60,6 +68,12 @@ Push: **lack of employment or low agricultural wages** [1]; **poor services — 
 Pull: **more and better-paid jobs in industry and services** [1]; **better schools, hospitals and housing** [1]; **the perception of a better quality of life and modern amenities**, often exaggerated by media and by relatives already there [1].
 
 **6.** Any three, 3 marks each: **Squatter settlements** — housing supply cannot keep pace, so informal settlements grow with no sanitation or secure tenure [1] [1]; addressed by **site-and-service schemes or self-help schemes**, where the authority supplies land, water and sewerage and residents build their own homes with low-cost materials and loans [1]. **Unemployment and the informal sector** — arrivals exceed formal job creation, so many work insecurely as street vendors with no protection [1] [1]; addressed by **microfinance and training schemes** that raise incomes in the informal sector [1]. **Traffic congestion and air pollution** — road capacity and public transport lag behind growth, harming health and productivity [1] [1]; addressed by **investment in mass transit systems such as bus rapid transit**, which moves large numbers cheaply on existing roads [1]. **Pressure on water supply and waste disposal** — untreated sewage spreads disease [1] [1]; addressed by **standpipes, low-cost sanitation and community waste collection** [1].
+
+**7. Site** is the **actual land a settlement is built on** [1], e.g. a dry point above a floodplain [1]. **Situation** is its **position relative to other places** [1], e.g. at the confluence of two rivers or on a major trade route [1].
+
+**8. Range** is **how far people are willing to travel to use a service** [1]. **Threshold population** is the **minimum number of people needed to make a service viable** [1]. A department store has a **high threshold population and a large range** — it needs many customers to be profitable, and people will travel further for it, so **only large settlements can support one**, and few settlements contain one [1] [1]. A newsagent has a **low threshold and a small range**, so even a small settlement can support one, and there are many of them [1].
+
+**9.** The CBD is dominated by **shops, offices and tall, high-density buildings**, with little residential land use [1]. Land values are highest there because it is the **most accessible point in the settlement**, where transport routes converge, so the greatest number of potential customers can reach it [1]; this **high demand for a limited amount of central land** pushes up the price competitors are willing to pay for it, which is reflected in tall buildings that maximise the floor space obtained from expensive land [1].
 
 ---
 

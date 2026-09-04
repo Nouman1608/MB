@@ -83,6 +83,22 @@ bond.
 The repeating unit is –[CH₂–CCl₂]–. Closing the two dangling bonds back
 into a double bond gives the monomer **CH₂=CCl₂** (1,1-dichloroethene).
 
+## Common addition polymers
+
+| Monomer | Polymer | Use |
+|---|---|---|
+| Ethene | Poly(ethene) | Bags, bottles |
+| Propene | Poly(propene) | Crates, ropes |
+| Chloroethene | Poly(chloroethene), PVC | Pipes, cables |
+| Phenylethene | Poly(phenylethene), polystyrene | Packaging, insulation |
+| Tetrafluoroethene | PTFE | Non-stick coatings |
+
+## Properties and chain structure
+
+Polymer chains are held together by **weak induced-dipole (van der Waals) forces** — individually weak, but so numerous along a long chain that the total attraction becomes substantial. **Longer chains** give more points of contact and therefore stronger forces, a higher melting point and greater strength. **Branched chains** cannot pack as closely, reducing contact between neighbouring chains and giving **lower density and a lower melting point** — the structural difference between low-density and high-density poly(ethene).
+
+**PVC is naturally rigid**, because its C–Cl dipoles create permanent dipole–dipole attractions between chains, on top of the van der Waals forces present in every addition polymer. **Plasticisers** are small molecules added to force the chains further apart, weakening those attractions and making the material flexible — which is why the same base polymer serves for both rigid drainpipes and flexible cable insulation, depending only on whether a plasticiser has been added.
+
 ## The disposal problem
 
 Addition polymers share the same essential unreactivity as the alkanes

@@ -79,6 +79,16 @@ Step 2 (fast): XY + X → Z
 
 **8.** Explain, using the Haber process (iron catalyst) as your example, how a heterogeneous catalyst increases the rate of a reaction. **[4]**
 
+**9.** A catalytic converter contains platinum, palladium and rhodium, and catalyses 2CO + 2NO → 2CO₂ + N₂.
+
+**(a)** State the type of catalysis involved, and outline the mechanism in general terms. **[3]**
+
+**10.** The reaction between I⁻ and S₂O₈²⁻ is catalysed by Fe²⁺/Fe³⁺.
+
+**(a)** Explain why the uncatalysed reaction between I⁻ and S₂O₈²⁻ is slow. **[1]**
+
+**(b)** Write two equations showing how Fe²⁺/Fe³⁺ catalyses the reaction, and explain how this avoids the problem in (a). **[3]**
+
 ---
 
 ## Answers
@@ -108,6 +118,12 @@ Step 2 (fast): XY + X → Z
 **(c)** Yes, consistent [1] — the experimental rate equation matches the reactants of the proposed rate-determining step (step 1), and X's second appearance (in the fast step 2) does not affect the rate equation since that step occurs after the rate-determining step [1].
 
 **8.** N₂ and H₂ molecules adsorb onto active sites on the iron surface [1]. This adsorption weakens the N≡N and H–H bonds within the adsorbed molecules [1], lowering the activation energy needed for them to react compared with the uncatalysed gas-phase reaction [1]. The NH₃ formed then desorbs from the surface, freeing the active site for further N₂ and H₂ molecules to adsorb and react [1].
+
+**9. (a)** **Heterogeneous** catalysis, since the precious metals are a different physical state (solid) from the gaseous reactants [1]. NO and CO adsorb onto the metal surface, where bond weakening lowers the activation energy for the reaction between them, before the CO₂ and N₂ products desorb, freeing the active site [1] [1].
+
+**10. (a)** Both I⁻ and S₂O₈²⁻ are **negatively charged**, so they **repel each other**, making a direct collision between them slow and unlikely [1].
+
+**(b)** 2Fe²⁺ + S₂O₈²⁻ → 2Fe³⁺ + 2SO₄²⁻, then 2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I₂ [2]. Because Fe³⁺ is a **cation**, its reaction with I⁻ does not face the anion–anion repulsion that makes the direct route slow, and Fe²⁺ is regenerated at the end so it can catalyse further reaction [1].
 
 ---
 

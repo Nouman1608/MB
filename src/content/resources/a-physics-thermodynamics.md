@@ -106,6 +106,19 @@ in internal energy:
 
 The gas's internal energy increases by 300 J.
 
+**Internal energy is a state function** — it depends only on the current state of the system (its temperature, for an ideal gas), never on the process or path used to reach that state. Two different routes between the same start and end states give the same ΔU, even if q and W individually differ along each route.
+
+## Four named processes
+
+| Process | Condition | Consequence |
+|---|---|---|
+| **Isothermal** | Constant temperature | ΔU = 0, so q = −W |
+| **Adiabatic** | No heat transfer | q = 0, so ΔU = W |
+| **Isobaric** | Constant pressure | W = pΔV |
+| **Isovolumetric** | Constant volume | W = 0, so ΔU = q |
+
+Two of these follow directly from ΔU depending only on temperature for an ideal gas: at constant temperature, ΔU must be zero regardless of what q and W do individually, and at constant volume, no work can be done since W = pΔV requires a volume change.
+
 ## Common mistakes
 
 - **Mixing up the sign convention for W** — W in ΔU = q + W is the work done

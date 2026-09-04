@@ -43,6 +43,10 @@ efficiency = useful output / total input     (x100 for a percentage)
 
 **Note that Eₖ depends on v², so doubling the speed quadruples the kinetic energy.** That is why stopping distance rises so sharply with speed, and it is the standard applied question.
 
+**Worked example.** A 1200 kg car at 15 m/s has Eₖ = 0.5 × 1200 × 15² = 135,000 J. At 30 m/s, Eₖ = 0.5 × 1200 × 30² = 540,000 J — **quadruple**, not double, confirming the v² relationship, and the reason four times as much work must be done by the brakes to stop the car.
+
+**GPE-to-KE worked example.** A 0.30 kg ball dropped from 2.5 m (g = 9.8 N/kg) loses Ep = mgh = 0.30 × 9.8 × 2.5 = 7.35 J of gravitational potential energy. If this converts entirely to kinetic energy (no air resistance), ½mv² = 7.35 gives v = √(2 × 7.35 ÷ 0.30) = 7.0 m/s. In reality the ball is slower, because some energy is transferred to the thermal store of the surrounding air by air resistance, and some to sound.
+
 ## Conservation of energy
 
 > Energy cannot be created or destroyed, only **transferred, stored or dissipated**.
@@ -61,6 +65,8 @@ efficiency = useful output energy / total input energy
 
 **No device can be 100% efficient** (except an electric heater, where all the output is the intended thermal energy), because some energy is always dissipated by friction, sound or unwanted heating.
 
+**Efficiency can never exceed 1 (100%)**, since useful output energy can never exceed total input energy. A calculated efficiency above 1 signals an **arithmetic or measurement error**, not a genuinely efficient device — the input and output values should be re-checked rather than the impossible figure reported.
+
 **Reducing unwanted transfers:**
 
 | Method | How it works |
@@ -75,6 +81,8 @@ efficiency = useful output energy / total input energy
 2. **Thermal conductivity** of the material — lower conductivity means a slower rate of transfer.
 
 Cavity wall insulation traps air, which has low thermal conductivity, and prevents convection currents in the cavity. Double glazing works the same way. Note the answer is about the **rate** of transfer, not about "stopping" heat.
+
+**Required Practical: investigating insulators.** Identical containers of hot water are wrapped in different materials (or thicknesses of the same material), and the temperature of each is measured at regular time intervals as it cools. The material giving the **smallest temperature drop over time** is the most effective insulator — comparing several materials or thicknesses this way is what the required practical tests.
 
 ## Power
 

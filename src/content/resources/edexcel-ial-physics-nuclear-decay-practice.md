@@ -55,6 +55,20 @@ Related: [Nuclear Decay revision notes](/resources/edexcel-ial-physics-nuclear-d
 
 **7.** State **three** precautions when handling a radioactive source in a school laboratory, with a reason for each. **[6]**
 
+**8.** A nuclear reaction has a mass deficit of 3.2 × 10⁻²⁸ kg.
+
+**(a)** Explain what is meant by mass deficit. **[2]**
+**(b)** Calculate the energy released. **[2]**
+**(c)** Explain why both fusion and fission release energy, referring to binding energy per nucleon. **[3]**
+
+**9.** A student measures a count rate of 84 counts per minute from a source, with a background count rate of 12 counts per minute measured separately with the source removed.
+
+**(a)** Calculate the true count rate due to the source. **[1]**
+**(b)** Explain why this correction is necessary. **[2]**
+**(c)** State one type of nuclear radiation that would be stopped by a sheet of paper, and one that would require thick lead or concrete to substantially reduce it. **[2]**
+
+**10.** Describe how the absorption of gamma radiation by lead could be investigated experimentally. **[3]**
+
 ---
 
 ## Answers
@@ -77,6 +91,16 @@ Related: [Nuclear Decay revision notes](/resources/edexcel-ial-physics-nuclear-d
 A half-life is nevertheless reliable because a sample contains an **enormous number of nuclei — of the order of 10²³** [1], so although individual events are unpredictable, the **statistical average over so many nuclei is highly consistent and reproducible** [1].
 
 **7.** Any three, 2 marks each: **handle the source with long tongs** [1], to increase the distance and reduce the dose, since intensity falls with the square of the distance [1]. **Keep the source pointed away from people and never look directly along its axis** [1], to avoid direct exposure of the eyes and body [1]. **Store the source in a lead-lined container when not in use** [1], because lead absorbs the radiation and shields those nearby [1]. **Minimise the time the source is out of its container** [1], since the dose received is proportional to exposure time [1]. **Wash hands afterwards and never eat in the laboratory** [1], to prevent ingestion of contamination [1].
+
+**8. (a)** The **mass deficit** is the difference between the total mass of the separated, individual nucleons and the mass of the assembled nucleus — the "missing" mass is released as energy when the nucleus forms [2].
+**(b)** ΔE = c²Δm = (3.0 × 10⁸)² × 3.2 × 10⁻²⁸ [1] = **2.88 × 10⁻¹¹ J** [1].
+**(c)** A graph of binding energy per nucleon against nucleon number **peaks around iron** [1]. **Fusion** (combining light nuclei) and **fission** (splitting heavy nuclei) both move nuclei **towards this more stable, higher binding-energy-per-nucleon region** [1], so both release energy overall, even though they act on opposite ends of the curve [1].
+
+**9. (a)** 84 − 12 = **72 counts per minute** [1].
+**(b)** Background radiation (from cosmic rays, rocks and other environmental sources) is present in **every** measurement regardless of the source being tested, so it must be subtracted to find the count rate due to the source **alone** [2].
+**(c)** **Alpha** particles are stopped by a sheet of paper (or a few cm of air) [1]; **gamma** rays require thick lead or concrete to be substantially reduced, since they are the most penetrating and weakly ionising of the three types [1].
+
+**10.** Different thicknesses of lead are placed between a gamma source and a detector (such as a Geiger-Müller tube) [1]; the count rate is measured for each thickness, correcting for background radiation each time [1]; the results show how the intensity of gamma radiation decreases as absorber thickness increases, allowing the absorption to be characterised [1].
 
 ---
 
