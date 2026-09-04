@@ -144,6 +144,11 @@ themes, not two separate profiles.
 - Practise evaluating (not just describing) a named urban planning
 example.
 
+## Related resources
+
+- [Urban Issues and Challenges revision notes](/resources/igcse-oxfordaqa-geography-urban-issues-revision-notes/)
+- [Urban Issues and Challenges practice questions](/resources/igcse-oxfordaqa-geography-urban-issues-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE Geography (9230) specification, Version

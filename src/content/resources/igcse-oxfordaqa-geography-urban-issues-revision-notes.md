@@ -151,3 +151,8 @@ exam questions may ask candidates to compare world cities across shared
 themes, and comparative revision (one similarity, one difference per
 theme) directly matches that question format. 5. The unplanned outward
 spread of a city into surrounding countryside.
+
+## Related resources
+
+- [Urban Issues and Challenges study guide](/resources/igcse-oxfordaqa-geography-urban-issues-and-challenges/)
+- [Urban Issues and Challenges practice questions](/resources/igcse-oxfordaqa-geography-urban-issues-practice/)
