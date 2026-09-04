@@ -40,6 +40,10 @@ The distinction predicts durability: NSI changes behaviour only while observed; 
 
 **Resistance:** social support and an internal locus of control.
 
+**Zimbardo** — the prison study showed ordinary people adopting brutal guard roles purely from situational role assignment, though ethical concerns (psychological harm, unclear informed consent) and methodological criticism (demand characteristics, a small unrepresentative sample) limit what it can be taken to prove.
+
+**Minority influence** works through **consistency, commitment and flexibility** — a minority that is consistent and appears committed to its position, while still flexible enough to negotiate, is more persuasive than a rigid one.
+
 ## Memory
 
 **Multi-store model:** sensory register → attention → STM (5–9 items, 18–30 s) → rehearsal → LTM.
@@ -52,6 +56,8 @@ The distinction predicts durability: NSI changes behaviour only while observed; 
 
 **The cognitive interview** — report everything, reinstate context, reverse order, change perspective. It increases correct recall without proportionally increasing errors.
 
+**Long-term memory subdivides** into episodic (personal events), semantic (facts and meanings) and procedural (skills) — a distinction supported by amnesia patients who retain procedural memory, such as learned skills, despite severe episodic impairment.
+
 ## Attachment
 
 **Reciprocity** and **interactional synchrony** in caregiver–infant interaction.
@@ -63,6 +69,16 @@ The distinction predicts durability: NSI changes behaviour only while observed; 
 **Cultural variations:** more insecure-avoidant in Germany, more insecure-resistant in Japan. **This is the imposed etic critique** — a measure developed in one culture applied elsewhere as though universal, so behaviour reflecting different child-rearing values is misclassified as insecure.
 
 **Institutionalisation** — Rutter's Romanian orphans showed disinhibited attachment and the importance of age at adoption.
+
+**Schaffer and Emerson's** stages of attachment run **asocial → indiscriminate → specific → multiple**, tracking how an infant moves from showing no clear preference, to preferring several familiar people, to a single primary attachment figure, and finally to several attachments at once.
+
+**Bowlby's maternal deprivation hypothesis** — prolonged early separation from the primary caregiver risks long-term emotional and intellectual harm; supported by the **44 thieves study** (affectionless psychopathy linked to early separation) but criticised for relying on **retrospective data**, which is difficult to verify independently.
+
+## Worked example
+
+*Explain why Asch's findings may lack temporal validity.*
+
+Conducted in 1950s America, a notably conformist period (McCarthyism, strong pressure to fit in). **Perrin and Spencer's 1980 replication** with UK engineering students found conformity in only 1 of 396 trials — suggesting the original findings may reflect that specific historical context rather than a stable feature of human behaviour. **Counterpoint:** engineering students were confident judging line lengths, so the sample itself may explain the difference rather than the era. Offering that counterpoint is what lifts the evaluation into the top band.
 
 ## Psychopathology
 
@@ -84,6 +100,8 @@ The distinction predicts durability: NSI changes behaviour only while observed; 
 - Claiming anxiety always worsens eyewitness accuracy.
 - Using one definition of abnormality without its limitation.
 - Giving a therapy without linking it to the explanation.
+- Saying Milgram studied conformity rather than obedience.
+- Treating the working memory model as replacing long-term memory rather than the short-term store.
 
 ## Self-test
 
@@ -92,5 +110,7 @@ The distinction predicts durability: NSI changes behaviour only while observed; 
 3. Why is the authoritarian personality an inadequate explanation of obedience?
 4. Why is the Strange Situation criticised as an imposed etic?
 5. Explain the two-process model and how it justifies exposure therapy.
+6. What criticism applies to Zimbardo's prison study, and what three factors explain minority influence?
+7. Distinguish Schaffer and Emerson's four attachment stages, and state one criticism of the maternal deprivation hypothesis.
 
-**Answers:** 1. NSI is the need to be liked, producing compliance that lasts only while observed; ISI is the need to be right, producing internalisation that persists. 2. Dual-task performance — two tasks using different slave systems can be carried out simultaneously, which a single unitary short-term store cannot explain. 3. It cannot account for entire populations obeying, which would require an implausibly uniform personality type across millions of people. 4. It was developed within American child-rearing norms and applied cross-culturally as though universal, so behaviours reflecting different values are misclassified as insecure. 5. Classical conditioning creates the phobia and operant conditioning maintains it, because avoidance is negatively reinforced by anxiety reduction; exposure without avoidance therefore breaks the cycle.
+**Answers:** 1. NSI is the need to be liked, producing compliance that lasts only while observed; ISI is the need to be right, producing internalisation that persists. 2. Dual-task performance — two tasks using different slave systems can be carried out simultaneously, which a single unitary short-term store cannot explain. 3. It cannot account for entire populations obeying, which would require an implausibly uniform personality type across millions of people. 4. It was developed within American child-rearing norms and applied cross-culturally as though universal, so behaviours reflecting different values are misclassified as insecure. 5. Classical conditioning creates the phobia and operant conditioning maintains it, because avoidance is negatively reinforced by anxiety reduction; exposure without avoidance therefore breaks the cycle. 6. Zimbardo's study is criticised for ethical harm and for demand characteristics from a small, unrepresentative sample; minority influence works through consistency, commitment and flexibility. 7. The four stages are asocial, indiscriminate, specific and multiple, tracking the move from no clear preference to a single primary figure and then several attachments; the maternal deprivation hypothesis relies on retrospective data from the 44 thieves study, which is difficult to verify independently.

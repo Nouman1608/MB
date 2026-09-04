@@ -62,6 +62,26 @@ Related: [Astrophysics revision notes](/resources/edexcel-igcse-physics-astrophy
 
 ---
 
+## Section C
+
+**7.** A satellite orbits at radius 4.2 × 10⁷ m with a period of 8.64 × 10⁴ s (24 hours).
+
+**(a)** Calculate its orbital speed. **[2]**
+**(b)** State one way in which a comet's orbit typically differs from a planet's orbit. **[1]**
+
+**8.** A galaxy's light shows a wavelength shift of 15 nm from a reference (laboratory) wavelength of 500 nm.
+
+**(a)** Calculate the galaxy's recession speed as a fraction of the speed of light, and as a value in m s⁻¹. **[2]**
+**(b)** A second galaxy is twice as far away. State, with a reason, what this implies about its red shift. **[1]**
+
+**9.** Two stars appear equally bright when observed from Earth, but one is much further away than the other.
+
+**(a)** Distinguish between absolute magnitude and apparent brightness. **[2]**
+**(b)** State what is plotted on each axis of a Hertzsprung-Russell (HR) diagram. **[2]**
+**(c)** Explain why comparing the two stars' apparent brightness alone would not fairly compare their true luminosities. **[2]**
+
+---
+
 ## Answers
 
 **1.** Planet, star, solar system, galaxy, universe [2 — 1 mark if one is misplaced].
@@ -80,6 +100,16 @@ Related: [Astrophysics revision notes](/resources/edexcel-igcse-physics-astrophy
 **(b)** The **further away a galaxy is, the greater its red shift and so the faster it is moving away** [1] — the speed is **proportional to the distance** [1].
 **(c)** Red shift shows that **all distant galaxies are receding and that the universe is expanding** [1]; running the expansion backwards implies everything **began from a single point** [1]. The **cosmic microwave background radiation** fills the whole sky uniformly [1] and is the **cooled remnant of the intense radiation from that early hot dense state** — something the steady state theory cannot explain [1].
 
+**7. (a)** v = 2πr ÷ T = 2π × 4.2 × 10⁷ ÷ 8.64 × 10⁴ [1] ≈ **3,050 m s⁻¹** [1].
+**(b)** A comet's orbit is typically **much more elongated (elliptical)** than the roughly circular orbits of planets and moons [1].
+
+**8. (a)** v ÷ c = Δλ ÷ λ₀ = 15 ÷ 500 = 0.03 [1], so v = 0.03 × 3.00 × 10⁸ = **9.0 × 10⁶ m s⁻¹** [1].
+**(b)** Because recession speed (and hence red shift) is **proportional to distance**, a galaxy twice as far away would show **roughly twice the red shift** [1].
+
+**9. (a)** **Absolute magnitude** is how bright a star would appear at a fixed standard distance, allowing fair brightness comparisons [1]; **apparent brightness** is how bright it actually appears as observed from Earth, which depends on its real distance [1].
+**(b)** Temperature (or colour) on one axis and luminosity (or absolute magnitude) on the other [2].
+**(c)** Two stars can appear **equally bright from Earth** even with very different true luminosities, simply because the more luminous one is **much further away** [1]; only correcting for distance, as absolute magnitude does, allows their true luminosities to be compared fairly [1].
+
 ---
 
 ## Where marks are usually lost
@@ -88,3 +118,5 @@ Related: [Astrophysics revision notes](/resources/edexcel-igcse-physics-astrophy
 - Confusing the fates of low-mass and high-mass stars.
 - Saying red shift shows galaxies are moving through space towards a centre.
 - Forgetting the CMB as separate evidence from red shift.
+- Confusing absolute magnitude (standard-distance brightness) with apparent brightness (brightness as observed).
+- Forgetting that Δλ/λ₀ = v/c requires the reference (laboratory) wavelength, not the observed wavelength, as the denominator.

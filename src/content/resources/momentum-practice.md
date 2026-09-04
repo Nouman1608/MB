@@ -51,6 +51,14 @@ Related: [Momentum revision notes](/resources/momentum-revision-notes/)
 
 **6.** Explain, using momentum, how each of the following reduces injury in a crash: crumple zone, seat belt, air bag. **[6]**
 
+## Section C
+
+**7.** A 2 kg trolley moving at 3 m/s collides with a stationary 1 kg trolley and they stick together. Calculate their common velocity. **[3]**
+
+**8.** A 5 kg object at rest explodes into two parts. A 2 kg piece moves off at 6 m/s in one direction. Find the velocity of the remaining 3 kg piece, explaining the significance of the sign in your answer. **[4]**
+
+**9.** State Newton's second law in terms of momentum, and show that it is equivalent to F = ma for a constant mass. **[3]**
+
 ---
 
 ## Answers
@@ -71,6 +79,12 @@ Related: [Momentum revision notes](/resources/momentum-revision-notes/)
 
 **6.** In each case the **change in momentum is fixed** — the occupant must be brought to rest [1]. Since **force = change in momentum ÷ time**, **increasing the time taken reduces the force** on the occupant [1].
 A **crumple zone deforms**, so the car takes longer to stop [1]. A **seat belt stretches slightly**, extending the time over which the wearer decelerates and spreading the force over a larger area of the body [1] [1]. An **air bag inflates and then deflates as the head presses into it**, again extending the stopping time and spreading the force over a wider area [1].
+
+**7.** momentum before = momentum after: (2 × 3) + (1 × 0) = (2 + 1) × v [1]; 6 = 3v [1]; v = **2 m/s** [1].
+
+**8.** momentum before = 0, since the object is at rest [1]. momentum after = (2 × 6) + (3 × v) = 0 [1], so 3v = −12, v = **−4 m/s** [1]. The negative sign shows the two pieces move in **opposite directions**, which is required for their total momentum to remain zero [1].
+
+**9.** F = Δp ÷ Δt [1]. For constant mass, Δp = Δ(mv) = mΔv, so F = mΔv/Δt = ma [1] — the momentum form and F = ma describe the same law, but the momentum form also covers situations where mass itself changes [1].
 
 ---
 

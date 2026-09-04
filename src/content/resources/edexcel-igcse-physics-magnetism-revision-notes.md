@@ -37,13 +37,13 @@ Field lines run from **north to south** outside the magnet, never cross, and are
 
 **Permanent** magnets are always magnetic; **induced** magnetism is temporary, appearing only in a nearby field.
 
-**Magnetically hard** materials (steel) retain magnetism — used for permanent magnets. **Magnetically soft** materials (iron) lose it easily — used for electromagnet cores, precisely because they must switch off when the current stops.
+**Magnetically hard** materials (steel) retain magnetism — used for permanent magnets. **Magnetically soft** materials (iron) lose it easily — used for electromagnet cores, precisely because they must switch off when the current stops. Two permanent magnets, correctly arranged with opposite poles facing, produce a region of **uniform field** between them.
 
 ## Electromagnets
 
-A current-carrying wire produces a circular magnetic field; the **right-hand grip rule** gives its direction — thumb along the current, fingers curl in the field direction.
+A current-carrying wire produces a circular magnetic field; the **right-hand grip rule** gives its direction — thumb along the current, fingers curl in the field direction. Field patterns differ by conductor shape: a straight wire gives concentric circles, a flat coil gives a field resembling a short bar magnet, and a solenoid gives the strongest field of all.
 
-A **solenoid** produces a field like a bar magnet. Strengthen it by increasing the current, adding more turns, or inserting a **soft iron core**.
+A **solenoid** produces a field like a bar magnet, strong and mostly uniform inside it. Strengthen it by increasing the current, adding more turns, or inserting a **soft iron core**.
 
 ## The motor effect
 
@@ -53,7 +53,7 @@ A current-carrying conductor in a magnetic field experiences a force.
 F = B I L        (when the conductor is perpendicular to the field)
 ```
 
-**Fleming's left-hand rule** — **F**irst finger = **F**ield, se**C**ond finger = **C**urrent, thu**M**b = **M**otion.
+**Fleming's left-hand rule** — **F**irst finger = **F**ield, se**C**ond finger = **C**urrent, thu**M**b = **M**otion. This underlies not just motors but also **loudspeakers**, which use the motor effect to convert an alternating current into the mechanical vibration that produces sound.
 
 **The force is zero when the conductor is parallel to the field**, and maximum when perpendicular. That is a frequent question.
 
@@ -63,13 +63,13 @@ Reversing **either** the current or the field reverses the force. Reversing **bo
 
 ## Electromagnetic induction
 
-**A voltage is induced when a conductor cuts magnetic field lines**, or when the flux through a coil changes.
+**A voltage is induced when a conductor cuts magnetic field lines**, or when the flux through a coil changes — for example, by moving a magnet in and out of a coil, or moving a wire through a field.
 
 Increase the induced e.m.f. by: moving **faster**, using a **stronger** magnet, or using **more turns**.
 
 **Fleming's right-hand rule** applies to generation (dynamo effect); the **left**-hand rule applies to motors. Using the wrong hand is a routine error.
 
-**Lenz's law** — the induced current opposes the change producing it. This is a consequence of **conservation of energy**: if the induced current helped the motion, energy would be created from nothing.
+**Lenz's law** — the induced current opposes the change producing it. This is a consequence of **conservation of energy**: if the induced current helped the motion, energy would be created from nothing, which is impossible.
 
 ## Transformers
 
@@ -78,6 +78,16 @@ Vp / Vs = Np / Ns          ideal:  Ip Vp = Is Vs
 ```
 
 **A transformer only works on a.c.** Alternating current produces a continuously **changing** magnetic flux in the core, which induces an alternating e.m.f. in the secondary. A steady d.c. gives constant flux, no rate of change, and therefore no induced voltage.
+
+**Step-up transformers** increase voltage (decreasing current) for efficient long-distance transmission; **step-down transformers** reduce voltage back to safer, usable levels for consumers.
+
+**Worked example.** A transformer has 100 primary turns and 500 secondary turns, with a 12 V input. Find the output voltage.
+
+```
+Vp/Vs = Np/Ns
+12/Vs = 100/500
+Vs = 60 V
+```
 
 **Why the grid uses high voltage:** power loss in cables is `I²R`, so transmitting at high voltage means low current for the same power, and halving the current quarters the loss. The explanation must be in terms of **current**, not voltage.
 
@@ -97,5 +107,7 @@ Vp / Vs = Np / Ns          ideal:  Ip Vp = Is Vs
 3. What does the split-ring commutator do, and why is it needed?
 4. Why can a transformer not work on direct current?
 5. Why is electricity transmitted at high voltage?
+6. A transformer has 100 primary turns and 500 secondary turns, with a 12 V input. Calculate the output voltage.
+7. Distinguish between a step-up and a step-down transformer.
 
-**Answers:** 1. Hard materials such as steel retain magnetism and are used for permanent magnets; soft materials such as iron lose it readily and are used for electromagnet cores. 2. First finger field, second finger current, thumb motion; it applies to the motor effect. 3. It reverses the current direction in the coil every half turn, so the force on each side always drives rotation in the same direction. 4. Direct current gives a constant magnetic flux, so there is no rate of change of flux in the secondary and no e.m.f. is induced. 5. Power loss in the cables is I²R, so high voltage allows a low current for the same power, and loss falls with the square of the current.
+**Answers:** 1. Hard materials such as steel retain magnetism and are used for permanent magnets; soft materials such as iron lose it readily and are used for electromagnet cores. 2. First finger field, second finger current, thumb motion; it applies to the motor effect. 3. It reverses the current direction in the coil every half turn, so the force on each side always drives rotation in the same direction. 4. Direct current gives a constant magnetic flux, so there is no rate of change of flux in the secondary and no e.m.f. is induced. 5. Power loss in the cables is I²R, so high voltage allows a low current for the same power, and loss falls with the square of the current. 6. Vs = Vp × (Ns/Np) = 12 × (500/100) = 60 V. 7. A step-up transformer increases voltage (decreasing current) for efficient transmission; a step-down transformer reduces voltage to safer, usable levels for consumers.

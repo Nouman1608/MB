@@ -49,6 +49,18 @@ Related: [How Markets Work revision notes](/resources/gcse-economics-how-markets
 **(b)** Explain why a firm facing inelastic demand would raise its price. **[3]**
 **(c)** State **two** factors that make demand more elastic. **[2]**
 
+## Section C
+
+**7.** Explain why governments often tax goods such as tobacco and fuel heavily, in terms of price elasticity of demand. **[3]**
+
+**8.** Explain what is meant by market failure, and give **two** examples. **[4]**
+
+**9.** Bad weather destroys a third of the coffee harvest. Coffee has few close substitutes.
+
+**(a)** Explain the effect on the supply curve and the equilibrium price and quantity. **[3]**
+
+**(b)** Explain why total revenue to remaining growers may actually rise despite the fall in quantity sold. **[3]**
+
 ---
 
 ## Answers
@@ -67,6 +79,14 @@ Related: [How Markets Work revision notes](/resources/gcse-economics-how-markets
 **6. (a)** PED = %ΔQd ÷ %ΔP = −25 ÷ 10 [1] = **−2.5** [1]; since the magnitude exceeds 1, demand is **elastic** [1].
 **(b)** With inelastic demand, the **percentage fall in quantity is smaller than the percentage rise in price** [1], so **total revenue increases** [1]; consumers have few alternatives, so they continue to buy despite the higher price [1].
 **(c)** Any two: **many close substitutes are available**; the good takes up a **large proportion of income**; it is a **luxury rather than a necessity**; there is a **long time period** for consumers to adjust [1] [1].
+
+**7.** Tobacco and fuel are goods with **few substitutes and are addictive or necessities**, so demand for them is **inelastic** [1]. Because demand is inelastic, a **large price rise (from the tax) causes only a small fall in quantity demanded** [1], so tax revenue holds up even as the price rises, making these goods reliable sources of government revenue [1].
+
+**8. Market failure** is where the free market **misallocates resources** [1], failing to achieve the most efficient outcome for society. Any two examples: **negative externalities** such as pollution [1]; **positive externalities** such as vaccination [1]; **public goods** that no firm will supply [1]; **merit or demerit goods** consumed at the wrong level due to imperfect information [1].
+
+**9. (a)** The **supply curve shifts left**, since less is available at every price [1]. Demand is unchanged, so at the old price there is now **excess demand (a shortage)** [1], and the price is **bid up** while the **equilibrium quantity falls** [1].
+
+**(b)** Coffee has **few close substitutes**, so demand is **relatively inelastic** [1]. This means the **price rise is proportionally large while the fall in quantity is comparatively small** [1], so total revenue (price × quantity) to remaining growers **may actually rise** despite selling less [1].
 
 ---
 

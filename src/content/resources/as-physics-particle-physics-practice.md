@@ -83,6 +83,30 @@ p  ->  n + e+ + neutrino(e)
 
 ---
 
+## Section C
+
+**8.** A nucleus of radium-226 (₈₈²²⁶Ra) undergoes alpha decay to form radon (Rn).
+
+**(a)** Write the balanced nuclear equation for this decay. **[2]**
+
+**(b)** State the two quantities that must be equal on each side of a nuclear equation, and explain why. **[2]**
+
+**9.** A sample contains a mixture of alpha and beta emitters. A detector plots the number of particles received against their kinetic energy.
+
+**(a)** Describe the difference in the shape of the two energy spectra. **[2]**
+
+**(b)** Explain, in terms of the number of bodies sharing the released energy, why beta particles show a continuous range of energies while alpha particles do not. **[3]**
+
+**10.** A nuclide undergoes β⁺ decay, emitting a positron.
+
+**(a)** State the composition, relative mass and charge of the emitted particle. **[2]**
+
+**(b)** State which other particle must also be emitted, identifying it as a particle or antiparticle. **[2]**
+
+**(c)** State the quark-level change that occurs inside the nucleus during this decay. **[2]**
+
+---
+
 ## Answers
 
 **1.** Fundamental: **electron, quark, neutrino** [1]. Not fundamental: **proton and neutron**, which are composed of quarks [1].
@@ -118,6 +142,20 @@ Lepton number: 0 → 0 + (−1) + (+1) = 0 ✓ [1].
 **(b)** Total energy = 2m_ec² = 2 × 9.11 × 10⁻³¹ × (3.00 × 10⁸)² = 1.64 × 10⁻¹³ J [1].
 Each photon = 1.64 × 10⁻¹³ ÷ 2 = **8.20 × 10⁻¹⁴ J** (≈ 0.511 MeV) [1].
 
+**8. (a)** ₈₈²²⁶Ra → ₈₆²²²Rn + ₂⁴α [1]. Nucleon number: 226 = 222 + 4 ✓; proton number: 88 = 86 + 2 ✓ [1].
+
+**(b)** **Nucleon number** and **charge (proton number)** must each balance separately [1] — both mass-energy and charge are conserved quantities, so neither can be created or destroyed across the decay [1].
+
+**9. (a)** Alpha particles are emitted with a **single, discrete energy**, appearing as a sharp line on the spectrum, while beta particles show a **continuous spread** of energies up to a fixed maximum [2].
+
+**(b)** In alpha decay, the released energy is shared between only **two bodies** — the alpha particle and the recoiling nucleus — so conservation of energy and momentum together fix a single value for each [1]. In beta decay, the energy is shared between **three bodies** — the beta particle, the recoiling nucleus and the accompanying (anti)neutrino — in a variable proportion each time, so the beta particle can carry anywhere from close to zero up to the maximum available energy [2].
+
+**10. (a)** A positron has the same **mass as an electron** (~0 on the nucleon scale) and a charge of **+1** [2].
+
+**(b)** An (electron) **neutrino** is also emitted [1] — the particle form, not the antiparticle, since lepton number must balance against the positron rather than an electron [1].
+
+**(c)** An **up quark changes to a down quark** [1], converting a proton within the nucleus into a neutron [1].
+
 ---
 
 ## Where marks are usually lost
@@ -127,3 +165,5 @@ Each photon = 1.64 × 10⁻¹³ ÷ 2 = **8.20 × 10⁻¹⁴ J** (≈ 0.511 MeV) 
 - Not stating **which** conservation law is violated when rejecting an interaction.
 - Forgetting to check energy as well as the quantum numbers.
 - Saying annihilation produces one photon.
+- Balancing only nucleon number, or only charge, in a decay equation rather than checking both separately.
+- Mixing up which quark change (up→down or down→up) belongs to β⁻ decay and which belongs to β⁺ decay.

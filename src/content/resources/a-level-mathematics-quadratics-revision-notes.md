@@ -41,6 +41,25 @@ Method when a ≠ 1: **factor a out of the x² and x terms only**, complete the 
 
 Vertex `(3, −13)`, minimum value −13. Forgetting to multiply the −9 by 2 is the classic slip.
 
+## Solving quadratics
+
+Three connected methods, all examinable: **factorising** (fastest when the quadratic factorises neatly into two linear brackets), **completing the square** (gives the vertex directly, useful for turning-point questions), and the **quadratic formula**, which always works regardless of whether the expression factorises:
+
+```
+x = (-b +/- sqrt(b^2 - 4ac)) / (2a)
+```
+
+The quadratic formula always works, even when factorising fails — use it whenever factors are not obvious rather than spending time hunting for them.
+
+**Worked example.** Solve `3x² + 5x − 2 = 0` using the quadratic formula.
+
+```
+x = (-5 +/- sqrt(25 + 24)) / 6 = (-5 +/- 7) / 6
+x = 1/3  or  x = -2
+```
+
+Checking mentally that `a = 3, b = 5, c = −2` are substituted correctly avoids the most common slip — a sign error inside the square root.
+
 ## The discriminant
 
 ```
@@ -49,7 +68,7 @@ b^2 - 4ac  =  0    one repeated root  (curve TOUCHES the x-axis)
 b^2 - 4ac  <  0    no real roots       (curve never meets the x-axis)
 ```
 
-Almost every "find the values of k" question is a discriminant question in disguise. The standard patterns:
+Almost every "find the values of k" question is a discriminant question in disguise, since introducing an unknown constant k into a quadratic and asking about its roots is really asking about the discriminant. The standard patterns:
 
 - **Tangent to a line** → substitute, form a quadratic, set the discriminant to **zero**.
 - **Two intersections** → discriminant **> 0**.
@@ -58,7 +77,7 @@ Almost every "find the values of k" question is a discriminant question in disgu
 
 ## Quadratic inequalities
 
-**Always sketch.** Solving algebraically without a sketch produces wrong inequality directions more often than not.
+**Always sketch.** Solving algebraically without a sketch produces wrong inequality directions more often than not, since the direction of the inequality depends on whether the parabola is above or below the axis in the region of interest.
 
 1. Rearrange so one side is zero.
 2. Factorise to find the critical values.
@@ -82,7 +101,7 @@ x - 7 sqrt(x) + 12 = 0    let u = sqrt(x)  ->  u^2 - 7u + 12 = 0
 2^(2x) - 5(2^x) + 4 = 0   let u = 2^x      ->  u^2 - 5u + 4 = 0
 ```
 
-**Two things must follow:** substitute back to find x, and **reject impossible values** — √x cannot be negative, and 2^x is always positive. Marks are routinely lost by stopping at u, or by keeping a negative root for u = √x.
+**Two things must follow:** substitute back to find x, and **reject impossible values** — √x cannot be negative, and 2^x is always positive for real x. Marks are routinely lost by stopping at u, or by keeping a negative root for u = √x.
 
 ## Exam traps
 
@@ -100,5 +119,6 @@ x - 7 sqrt(x) + 12 = 0    let u = sqrt(x)  ->  u^2 - 7u + 12 = 0
 3. Solve `x² − 7x + 10 > 0`.
 4. What two conditions make `ax² + bx + c` positive for all x?
 5. Solve `x − 7√x + 12 = 0`.
+6. Solve `3x² + 5x − 2 = 0` using the quadratic formula.
 
-**Answers:** 1. `2(x − 3)² − 13`, minimum at (3, −13). 2. The curve touches the x-axis at exactly one point — a repeated root, so the line is a tangent. 3. Roots 2 and 5; the parabola is above the axis outside them, so x < 2 or x > 5. 4. a > 0 and b² − 4ac < 0. 5. Let u = √x: u² − 7u + 12 = 0, so u = 3 or 4, both valid as they are positive; x = 9 or x = 16.
+**Answers:** 1. `2(x − 3)² − 13`, minimum at (3, −13). 2. The curve touches the x-axis at exactly one point — a repeated root, so the line is a tangent. 3. Roots 2 and 5; the parabola is above the axis outside them, so x < 2 or x > 5. 4. a > 0 and b² − 4ac < 0. 5. Let u = √x: u² − 7u + 12 = 0, so u = 3 or 4, both valid as they are positive; x = 9 or x = 16. 6. x = (−5 ± √(25+24)) ÷ 6 = (−5 ± 7) ÷ 6, giving x = 1/3 or x = −2.
