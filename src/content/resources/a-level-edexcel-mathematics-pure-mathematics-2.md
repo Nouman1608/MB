@@ -146,3 +146,5 @@ Mathematics (YMA01) specification, Issue 3 —
 - [Unit P1: Pure Mathematics 1](/resources/a-level-edexcel-mathematics-pure-mathematics-1/)
   — the first compulsory Pure Mathematics unit of YMA01, a prerequisite
   for this unit
+- [Pure Mathematics 2 revision notes](/resources/edexcel-a-level-mathematics-pure2-revision-notes/)
+- [Pure Mathematics 2 practice questions](/resources/edexcel-a-level-mathematics-pure2-practice/)

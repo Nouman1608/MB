@@ -127,6 +127,11 @@ Because every route through YMA01 requires all four Pure Mathematics units regar
 - Solve |2x − 3| = 7.
 - Identify whether a sequence with terms 5, 10, 20, 40 is arithmetic or geometric, and find its next term.
 
+## Related resources
+
+- [Pure Mathematics 2 study guide](/resources/a-level-edexcel-mathematics-pure-mathematics-2/)
+- [Pure Mathematics 2 practice questions](/resources/edexcel-a-level-mathematics-pure2-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level
