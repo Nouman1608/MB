@@ -42,6 +42,8 @@ Related: [The History and Culture of Pakistan revision notes](/resources/pakista
 
 **6.** Explain **three** problems faced by Pakistan immediately after independence in 1947, and how each was addressed. **[10]**
 
+**7.** Explain why the events of 1857 mattered for Muslims in British India, giving **two** consequences. **[6]**
+
 ---
 
 ## Answers
@@ -62,6 +64,8 @@ Related: [The History and Culture of Pakistan revision notes](/resources/pakista
 **Division of assets** — Pakistan was allocated **17.5% of undivided India's financial assets but initially received only a fraction**; India withheld Rs. 550 million [1] [1]; the amount was eventually released after **Gandhi's intervention and fasting**, though the delay crippled the early administration [1].
 **Absence of administrative machinery** — Pakistan had **no capital infrastructure, few trained civil servants and almost no industry**, since most industrial areas remained in India [1] [1]; Karachi was made the temporary capital and offices were improvised, with officials working without furniture or files while a new administration was built from scratch [1].
 **Princely states and Kashmir** — the accession of Junagadh, Hyderabad and above all **Kashmir led to the first war with India in 1947–48** [1] [1]; a UN-brokered ceasefire in January 1949 left the state divided and the dispute unresolved [1].
+
+**7.** Any two: the **East India Company was replaced by direct Crown rule**, ending Company government entirely [1] [1]. The **Mughal emperor was deposed**, formally ending the last symbol of Muslim political authority in India [1] [1]. **Muslims were blamed disproportionately** for the uprising, even though Hindus had also taken part, and were **excluded from government service and education** as a result — the position Sir Syed Ahmad Khan's later reform movement was a direct response to [1] [1].
 
 ---
 

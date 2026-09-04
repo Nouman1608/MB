@@ -54,6 +54,10 @@ In *War of the Ghosts*, participants recalling an unfamiliar Native American sto
 
 This is why eyewitness testimony is unreliable — recall is influenced by expectation, not just by what was seen.
 
+### Retrieval failure
+
+A second explanation of forgetting, alongside interference: the memory is **stored but cannot be accessed** without the right cue. Recall is better when the **context or emotional state present at recall matches that present at encoding** — for example, remembering something more easily on returning to the room where it was originally learned. This is why interference and retrieval failure are often tested as a pair: interference explains forgetting through **competition between memories**, while retrieval failure explains it through a **missing cue to a memory that is still there**.
+
 ## Perception
 
 **Sensation** is the raw data from the senses; **perception** is the brain's interpretation of it. The distinction underpins the whole topic.

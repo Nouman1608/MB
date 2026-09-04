@@ -81,6 +81,8 @@ I = Anvq
 where A is cross-sectional area, n is the number density of charge carriers,
 v is their mean drift velocity, and q is the charge per carrier.
 
+**Typical drift velocities are tiny** — millimetres per second — because metals have an enormous charge-carrier number density n, so for a given current only a very small v is needed to satisfy I = Anvq. This is why a lamp appears to switch on instantly even though individual electrons barely move: it is the electric field, not the electrons themselves, that propagates through the conductor at close to the speed of light, setting every free electron drifting almost simultaneously.
+
 ## Potential difference and power
 
 **Potential difference** (p.d.) across a component is the energy transferred
@@ -128,7 +130,7 @@ R = ρL/A
 ```
 
 where L is length, A is cross-sectional area, and ρ (resistivity) is a
-property of the material itself, independent of its shape.
+property of the material itself, independent of its shape. Because area is proportional to the square of diameter, **doubling a wire's diameter quarters its resistance** (four times the area, for the same length) even though resistivity itself is unchanged — resistivity depends only on the material, never on the dimensions of a particular sample of it.
 
 **Worked example.** A wire of resistivity 1.7 × 10⁻⁸ Ω m, length 2.0 m and
 cross-sectional area 5.0 × 10⁻⁷ m² has resistance:

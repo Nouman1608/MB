@@ -46,6 +46,8 @@ discriminant:      b^2 - 4ac
 
 **"Always positive"** requires **two** conditions: `a > 0` **and** discriminant < 0. Giving only the discriminant loses a mark.
 
+**Worked example.** Find the set of values of k for which `kx² + 4x + 1` is positive for all real x. Condition 1: `k > 0`. Condition 2: discriminant < 0, so `4² − 4(k)(1) < 0`, giving `16 − 4k < 0`, so `k > 4`. Since `k > 4` already forces `k > 0`, the answer is simply **k > 4** — stating both conditions and seeing that the stronger one absorbs the weaker is exactly what full marks require.
+
 ## Coordinate geometry
 
 ```
@@ -64,6 +66,8 @@ Perpendicular gradients multiply to **−1**.
 1. The **tangent is perpendicular to the radius** at the point of contact.
 2. The **perpendicular bisector of a chord passes through the centre**.
 3. The angle in a **semicircle** is a right angle.
+
+**Testing whether a point lies inside, on or outside a circle**: find the distance from the point to the centre and compare it with the radius. If that distance is less than the radius the point is **inside**; if it equals the radius the point is **on** the circle; if it is greater, the point is **outside**. This is simply Pythagoras applied to the coordinates of the point and the centre, and it is a standard follow-up once a circle's centre and radius have been found by completing the square.
 
 ## Differentiation
 

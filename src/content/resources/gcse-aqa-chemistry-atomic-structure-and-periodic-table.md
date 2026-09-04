@@ -99,6 +99,24 @@ Electrons occupy shells from the innermost outwards, holding a maximum of 2, the
 
 Ideas about the atom changed as experimental evidence accumulated: Dalton's solid spheres, then Thomson's plum pudding model, then Rutherford's alpha-scattering experiment which showed most of an atom is empty space with a dense positive nucleus, then Bohr's shells, and finally the discovery of the neutron. This sequence is a favourite context for questions about how scientific models respond to new evidence.
 
+## The periodic table
+
+Elements are arranged in the periodic table by **increasing atomic number**. **Mendeleev** built an early version by ordering elements by atomic mass and grouping them by properties, but crucially he **left gaps for elements not yet discovered** and used those gaps to predict their properties -- the later discovery of gallium and germanium, matching his predictions closely, is what confirmed his arrangement and is why his table succeeded where earlier attempts failed.
+
+**Metals** are found on the left and centre of the table and lose electrons to form positive ions; **non-metals** are found on the right and gain or share electrons. Elements in the same group have the same number of outer-shell electrons and therefore react in similar ways.
+
+## Group 1 -- the alkali metals
+
+Group 1 elements react with water to form a metal hydroxide and hydrogen: **metal + water → metal hydroxide + hydrogen**.
+
+**Reactivity increases going down the group**, and a full explanation needs all three linked steps: the outer electron is **further from the nucleus** as more shells are added; there is therefore **more shielding** from the inner shells; so the **attraction between the nucleus and the outer electron is weaker**, and that electron is lost more easily.
+
+## Group 7 -- the halogens
+
+Melting and boiling points **increase** going down Group 7, because the molecules get larger and the intermolecular forces between them get stronger -- but **reactivity decreases**, the opposite trend to Group 1. The reasoning is the same physics applied to the opposite process: a halogen reacts by **gaining** an electron, and further down the group the outer shell is further from the nucleus with more shielding, so an incoming electron is attracted less strongly and gained less readily.
+
+A more reactive halogen will **displace** a less reactive one from a solution of its salt -- chlorine displaces bromine, and bromine displaces iodine. Adding chlorine water to potassium iodide solution, for example, the more reactive chlorine displaces iodide from solution, and the colourless mixture turns **brown** as iodine is formed.
+
 ## Worked example
 
 Chlorine exists as 75% chlorine-35 and 25% chlorine-37. Calculate its relative atomic mass.

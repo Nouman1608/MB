@@ -86,13 +86,15 @@ n = total number of organisms of each species
 
 A higher value indicates greater diversity. A community dominated by one species has low diversity even if species richness is high.
 
-Genetic diversity within a species can be measured as the proportion of gene loci that are polymorphic, or by comparing base or amino acid sequences.
+Genetic diversity within a species can be measured as the proportion of gene loci that are polymorphic, or by comparing base or amino acid sequences. It arises from **mutation**, from meiosis (crossing over and independent assortment), and from random fertilisation. A **genetic bottleneck** — a sharp fall in population size — removes alleles from the gene pool at random and so reduces genetic diversity, leaving the survivors less able to adapt to future environmental change; a **founder effect** produces the same reduction when a small, genetically unrepresentative group establishes a new, isolated population.
 
 ## Adaptation and natural selection
 
 Adaptations may be **anatomical**, **physiological** or **behavioural**. Natural selection follows a fixed logic that examiners expect in sequence: variation exists within a population and arises from random mutation; more offspring are produced than can survive; individuals with advantageous alleles are more likely to survive and reproduce; those alleles are passed on; over many generations their frequency in the population increases.
 
 The phrase "the organism adapted in order to survive" reverses the causation and is heavily penalised — variation arises first, by chance, and selection acts on it afterwards.
+
+Selection can act in different ways depending on the environment. **Directional selection** favours one extreme of a trait, shifting the population's allele frequencies in that direction — antibiotic resistance in bacteria under repeated antibiotic exposure is the standard example, since only resistant individuals survive to reproduce as the environment changes. **Stabilising selection** instead favours the mean and selects against both extremes, keeping allele frequencies steady in a stable, unchanging environment — human birth mass is the standard example, since both very low and very high birth masses carry increased risk.
 
 Agricultural practices and deforestation reduce biodiversity by removing habitats and by favouring monoculture; conservation techniques attempt to balance this against the need to feed a growing population.
 

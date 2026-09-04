@@ -90,6 +90,8 @@ remembering that 1 dm³ = 1000 cm³, so a volume in cm³ must be divided by
 
 amount = concentration × volume = 2.00 × (25.0 ÷ 1000) = **0.0500 mol**
 
+**Not every titration is a simple 1:1 reaction, and the mole ratio must always come from the balanced equation.** For example, in `H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O`, one mole of sulfuric acid reacts with **two** moles of sodium hydroxide. If 25.0 cm³ of 0.0500 mol dm⁻³ sulfuric acid (1.25 × 10⁻³ mol) is exactly neutralised by 20.0 cm³ of sodium hydroxide solution, the moles of NaOH used are 2 × 1.25 × 10⁻³ = 2.50 × 10⁻³ mol, giving a concentration of (2.50 × 10⁻³ × 1000) ÷ 20.0 = 0.125 mol dm⁻³ — assuming a 1:1 ratio here would halve this answer.
+
 ## Amount of substance and gas volumes
 
 At room temperature and pressure, one mole of any gas occupies the same
@@ -101,6 +103,13 @@ level:
 This lets you calculate the volume of gas produced or consumed in a reaction
 directly from the balanced equation, using exactly the same mole-ratio
 method as a reacting-mass calculation.
+
+**Worked example.** What volume of carbon dioxide, at room temperature and pressure, is produced when 2.50 g of calcium carbonate reacts completely with excess dilute hydrochloric acid? `CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂` (Aᵣ: Ca = 40, C = 12, O = 16)
+
+1. Molar mass of CaCO₃ = 40 + 12 + 3(16) = 100 g mol⁻¹
+2. Moles of CaCO₃ = 2.50 ÷ 100 = 0.0250 mol
+3. The ratio CaCO₃ : CO₂ is 1 : 1, so moles of CO₂ formed = 0.0250 mol
+4. Volume of CO₂ = 0.0250 × 24 = **0.600 dm³**
 
 ## Common mistakes
 

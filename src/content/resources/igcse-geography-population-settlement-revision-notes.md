@@ -57,6 +57,8 @@ dependency ratio = (under 15 + over 64) / (15-64) x 100
 
 **Ageing population:** rising pension and healthcare costs, a shrinking workforce, higher taxes on those working. Responses: raising the retirement age, encouraging immigration, and pro-natalist policies.
 
+**Government population policies, named:** **anti-natalist** policies reduce the birth rate, e.g. China's former one-child policy — but this caused a skewed sex ratio from sex-selective abortion, and left an ageing population with a shrinking workforce, which is why it was abandoned. **Pro-natalist** policies raise the birth rate, e.g. France's and Singapore's financial incentives, tax allowances and subsidised childcare — but these are expensive and have limited effect, since the decision to have children depends more on housing costs and career considerations than on a payment. **Immigration policy** fills labour shortages directly, e.g. Germany's recruitment of foreign workers — but risks pressure on housing and services, and social tension if integration is not managed.
+
 **Youthful population:** pressure on schools and healthcare, high future unemployment as the cohort reaches working age, and food and housing pressure — but a large future workforce.
 
 ## Migration
