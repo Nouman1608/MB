@@ -158,6 +158,11 @@ covered in depth here — helps you recognise which specific influence a
 given exam scenario is testing, since questions often describe a
 business situation without naming the influence directly.
 
+## Related resources
+
+- [Technology and Ethical/Environmental Considerations revision notes](/resources/aqa-gcse-business-technology-ethical-revision-notes/)
+- [Technology and Ethical/Environmental Considerations practice questions](/resources/aqa-gcse-business-technology-ethical-practice/)
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, first teaching from September

@@ -125,6 +125,11 @@ Technology and ethics/environment are two of **five** named external influences 
 - Name the four named environmental impact areas.
 - Explain why "trade-off" is the key word this content is actually testing.
 
+## Related resources
+
+- [Technology and Ethical/Environmental Considerations study guide](/resources/gcse-aqa-business-technology-and-ethical-considerations/)
+- [Technology and Ethical/Environmental Considerations practice questions](/resources/aqa-gcse-business-technology-ethical-practice/)
+
 ## Official syllabus
 
 AQA GCSE Business (8132) specification, first teaching from September
