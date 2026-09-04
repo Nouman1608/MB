@@ -79,6 +79,8 @@ than analyse the text and offer a personal view; it also positions
 that view against how the text has been, or could be, read differently
 by others.
 
+**What this looks like in practice.** Suppose an essay is analysing a soliloquy: a candidate identifies a rhetorical technique (AO2), states that it makes the character seem genuinely conflicted rather than simply villainous (AO3), and writes this clearly (AO4) -- but stops there, the answer is missing AO5. Adding a sentence such as "some critics and productions have instead played this moment for its comic unease, staging the character's hesitation as self-serving rather than genuinely conflicted" and briefly weighing that reading against the candidate's own turns the same paragraph into one that also satisfies AO5. Repeating this pattern two or three times across an essay, rather than saving all evaluative material for a single closing paragraph, tends to score more highly.
+
 ## Set texts for the 2026 series
 
 For Section A: Shakespeare, the 2026-series set play is drawn from
@@ -90,6 +92,12 @@ O'Neill), *Kongi's Harvest* (Wole Soyinka) and *An Experiment with an
 Air Pump* (Shelagh Stephenson). Set texts rotate by examination series,
 so always confirm the current list for the year your candidates are
 sitting the exam rather than assuming continuity from a previous year.
+
+## Related resources
+
+- [Paper 3 – Shakespeare and Drama practice questions](/resources/a-level-english-literature-paper-3-shakespeare-and-drama-practice/)
+- [Paper 1 – Drama and Poetry](/resources/a-level-english-literature-paper-1-drama-and-poetry/)
+- [Paper 2 – Prose and Unseen](/resources/a-level-english-literature-paper-2-prose-and-unseen/)
 
 ## How Paper 3 relates to Paper 1's drama content
 

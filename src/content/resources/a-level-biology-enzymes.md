@@ -77,6 +77,8 @@ affinity (the enzyme reaches half its maximum rate at a lower
 substrate concentration), a distinction that is easy to state
 correctly with practice but easy to get backwards under exam pressure.
 
+**Worked comparison.** Enzyme A has a Km of 2 mmol dm⁻³ and enzyme B has a Km of 20 mmol dm⁻³ for the same substrate. Enzyme A reaches half of its maximum rate at a much lower substrate concentration than enzyme B, so enzyme A has the **higher affinity** for the substrate -- it is more effective at low substrate concentrations, whereas enzyme B needs a much higher substrate concentration before it works anywhere near as efficiently.
+
 **Inhibitors**: you need to explain the effects of **reversible**
 inhibitors on enzyme activity, distinguishing:
 
@@ -92,6 +94,11 @@ activity between an enzyme immobilised in **alginate** and the same
 enzyme free in solution, and state the advantages of using immobilised
 enzymes (for example, the enzyme can be recovered and reused, and the
 product is not contaminated with enzyme).
+
+## Related resources
+
+- [Enzymes practice questions](/resources/a-level-biology-enzymes-practice/)
+- [Biological molecules](/resources/a-level-biology-biological-molecules/) — the previous topic
 
 ## How the two sub-topics connect
 
