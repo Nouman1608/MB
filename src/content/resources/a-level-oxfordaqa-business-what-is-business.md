@@ -71,11 +71,35 @@ A business exists to satisfy customer needs profitably, transforming inputs into
 
 Businesses are classified by sector (primary, secondary, tertiary), by ownership (private, public, not-for-profit), and by scale. Each classification changes the objectives that make sense: a charity measures success by impact, a start-up by survival, a mature plc by return to shareholders.
 
+## Ownership
+
+| Structure | Liability | Note |
+|---|---|---|
+| Sole trader | Unlimited | Full control, keeps all profit, bears all risk |
+| Partnership | Usually unlimited | More capital and expertise, shared profit |
+| Private limited (Ltd) | Limited | Separate legal identity; shares not publicly traded |
+| Public limited (plc) | Limited | Stock-market capital, but public accounts, takeover risk, and a **divorce of ownership from control** |
+| Non-profit / social enterprise | Varies | Surplus reinvested rather than distributed to owners |
+
+**Unlimited liability** means the owner's personal assets can be seized to pay business debts — the phrase that earns the mark, not just naming the concept. The plc's structural problem is the **divorce of ownership from control**: shareholders own the business but directors run it day to day, and their objectives can diverge, with directors sometimes pursuing growth or status while shareholders want returns. Share options and performance-linked pay exist specifically to realign the two.
+
 ## Mission, objectives and strategy
 
 **Mission** states why the business exists. **Corporate objectives** turn that into measurable targets — profit, growth, market share, diversification, survival. **Strategy** is the long-term plan for achieving them; **tactics** are the short-term actions within it.
 
 Objectives conflict routinely. Rapid growth consumes cash and can damage quality; cost minimisation conflicts with differentiation; ethical sourcing raises input prices. Which objective dominates depends on the business's stage, its market and the balance of stakeholder power.
+
+## Market analysis
+
+```
+market share  = firm sales / total market sales x 100
+market growth = change in market size / original size x 100
+market size   = measured by volume (units sold) or value (revenue)
+```
+
+Markets are **mass** or **niche**: a niche strategy means lower volume but often higher margins, greater customer loyalty and less direct competition, while carrying concentration risk if that one segment declines. Markets are divided into segments using **demographic, geographic, psychographic and behavioural** criteria, so that products and marketing can be targeted rather than generic.
+
+Price is set where demand meets supply, and demand itself shifts with income, the price of substitutes and complements, tastes, and marketing activity. **Price elasticity of demand** then determines whether a price rise actually raises revenue: it does where demand is inelastic, and it does not where demand is elastic — a single calculation that drives most pricing recommendations in exam answers.
 
 ## Decision-making
 

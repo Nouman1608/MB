@@ -51,6 +51,8 @@ Birth rates fall in **stage 3** because of contraception, female education and e
 - **Wide base, steep sides** → high birth and death rates, stage 2. Youthful population.
 - **Straight sides, narrow base** → stage 4 or 5. Ageing population.
 
+**Reading a pyramid beyond overall shape** earns the higher marks. A sudden **narrowing** at a specific age band can point to a past event affecting that cohort — war, famine or emigration. A **bulge** can point to a past baby boom or in-migration of a particular age group. The strong technique is shape first, for the stage of development, then specific irregularities and their likely cause — not simply describing "more males than females in this age group."
+
 ```
 dependency ratio = (under 15 + over 64) / (15-64) x 100
 ```
@@ -84,6 +86,8 @@ dependency ratio = (under 15 + over 64) / (15-64) x 100
 - **Sphere of influence** — the area served.
 
 A department store has a high threshold and large range, so there are few; a newsagent has a low threshold and small range, so there are many.
+
+**Settlement and service provision are causally linked, not two separate topics.** A settlement's size, function and connectivity — its site and situation — directly determine what services it can support, so a larger, more central settlement typically has a wider range and higher order of services than a small, isolated one. Exam questions frequently ask *why* a settlement has, or lacks, a particular service, which requires this cause-and-effect reasoning rather than a description of the hierarchy alone.
 
 **Urban land use:** CBD (accessible, high land values, tall buildings), inner city (old industry, terraced housing), suburbs (lower density, newer), rural–urban fringe.
 

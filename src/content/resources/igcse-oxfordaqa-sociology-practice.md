@@ -46,6 +46,10 @@ Related: [Introducing Sociology revision notes](/resources/igcse-oxfordaqa-socio
 **(b)** Explain **two** ethical issues that arise and how each should be handled. **[4]**
 **(c)** Explain one problem of researching a sensitive topic with young people. **[2]**
 
+**7.** Compare functionalism and Marxism as explanations of how society works, and explain **one** criticism of each. **[6]**
+
+**8.** Explain the difference between absolute and relative poverty, and describe the cycle of deprivation. **[6]**
+
 ---
 
 ## Answers
@@ -65,6 +69,10 @@ Related: [Introducing Sociology revision notes](/resources/igcse-oxfordaqa-socio
 **(b)** **Informed consent** — the pupils are children, so **consent must be obtained from parents or guardians as well as from the pupils themselves**, and pupils must know they may refuse [1] [1]. **Protection from harm** — questions may cause **distress by recalling upsetting experiences**, so the researcher should keep questions carefully worded, allow pupils to skip items, and **ensure support from a counsellor or pastoral staff is available afterwards** [1] [1]. (Also accept confidentiality, with the caveat that disclosure of serious harm must be reported — which must be explained in advance.)
 **(c)** Young people may **under-report or exaggerate** because of embarrassment, fear of reprisal from the bully, or a desire to give the answer they think the adult wants [1], which threatens the **validity** of the data [1].
 
+**7. Functionalism** sees society as a system of institutions working together, sharing common values, to maintain **stability and social order** [1] [1]; its main criticism is that it **ignores conflict and inequality**, treating society as more harmonious than it is [1]. **Marxism** sees society as shaped by **conflict between social classes over the ownership of economic resources**, with institutions serving the interests of the ruling class [1] [1]; its main criticism is that it **over-emphasises economics**, giving too little weight to other sources of identity and conflict, such as gender or ethnicity [1]. Both are **structural theories**, starting from society as a whole, unlike social action theories which start from the individual [1].
+
+**8. Absolute poverty** is **lacking the basic necessities needed for survival**, such as adequate food, clean water and shelter [1] [1]. **Relative poverty** is **falling below the standard of living considered acceptable in a particular society**, which is why relative poverty can exist even in wealthy countries [1] [1]. The **cycle of deprivation** describes how disadvantage reproduces itself across generations: poor housing and diet lead to **poor health and educational outcomes**, which lead to **low-paid work**, which in turn produces **poverty in the next generation**, restarting the cycle [1] [1].
+
 ---
 
 ## Where marks are usually lost
@@ -73,3 +81,5 @@ Related: [Introducing Sociology revision notes](/resources/igcse-oxfordaqa-socio
 - Saying formal social control means "serious" punishment.
 - Choosing a research method without justifying it for the specific topic.
 - Forgetting that research with children requires parental consent.
+- Confusing absolute with relative poverty.
+- Describing a perspective without a linked criticism.

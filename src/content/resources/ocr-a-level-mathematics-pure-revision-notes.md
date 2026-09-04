@@ -109,6 +109,28 @@ by parts:  integral of u dv = uv - integral of v du
 
 **Substitution:** change the variable *and* the limits, or convert back before evaluating. Forgetting to change the limits is a routine loss.
 
+## Numerical methods
+
+**Locating a root:** if `f(x)` changes sign over an interval (one value positive, one negative) and `f` is continuous, a root lies between them.
+
+**Iteration:** rearrange `f(x) = 0` into `x = g(x)` and iterate `x_(n+1) = g(x_n)` from a starting value. A **staircase diagram** shows convergence to the root; a **cobweb diagram** shows convergence that spirals in from both sides. Some rearrangements diverge — this must be checked, not assumed.
+
+**Newton-Raphson:**
+
+```
+x_(n+1) = x_n - f(x_n)/f'(x_n)
+```
+
+Fails or converges to the wrong root if the starting value is chosen near a stationary point, where `f'(x_n)` is close to zero.
+
+**Trapezium rule** approximates the area under a curve using `n` trapezia of equal width `h = (b-a)/n`:
+
+```
+integral ≈ (h/2)[y_0 + y_n + 2(y_1 + y_2 + ... + y_(n-1))]
+```
+
+For a **convex** (concave up) curve the rule **over-estimates** the true area; for a **concave** (concave down) curve it **under-estimates**. Stating which way the error runs, not just quoting the formula, is what the "comment on accuracy" mark requires.
+
 ## Vectors
 
 ```

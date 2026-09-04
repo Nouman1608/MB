@@ -49,6 +49,10 @@ Related: [Introductory Topics revision notes](/resources/oxfordaqa-a-level-psych
 
 **7.** Explain the difference between reliability and validity, and describe one way of assessing each. **[6]**
 
+**8.** Distinguish between normative social influence and informational social influence, and explain why this distinction predicts whether a change in behaviour will persist. **[5]**
+
+**9.** Outline **two** definitions of abnormality and explain **one** limitation of each. **[6]**
+
 ---
 
 ## Answers
@@ -69,6 +73,10 @@ Related: [Introductory Topics revision notes](/resources/oxfordaqa-a-level-psych
 
 **7. Reliability** is the **consistency of a measure** — whether it gives the same result on repeated use [1]. **Validity** is whether the measure **actually measures what it claims to measure** [1]. Reliability can be assessed by **test–retest**, giving the same test to the same people after an interval and correlating the scores, or by **inter-observer reliability**, correlating two independent observers' records [1] [1]. Validity can be assessed by **concurrent validity**, correlating the new measure with an established one, or by **face validity**, judging whether the items appear to measure the intended construct [1] [1].
 
+**8.** **Normative social influence (NSI)** is conforming out of a **need to be liked or accepted**, producing only **public** compliance [1] [1]. **Informational social influence (ISI)** is conforming out of a **need to be right**, because the situation is ambiguous or the other person is seen as more expert, producing **internalisation** — both public and private acceptance [1] [1]. This predicts persistence: because NSI changes only outward behaviour, it lasts only while the person is being observed by the group, whereas ISI changes the underlying belief, so the change persists even in the group's absence [1].
+
+**9.** Any two, 3 marks each: **Statistical infrequency** — behaviour that is statistically rare is classed as abnormal [1]; limitation — **rarity does not mean harmful**, so unusually high intelligence would be wrongly classed as abnormal, and a very common problem such as mild anxiety would be wrongly classed as normal [1] [1]. **Deviation from social norms** — behaviour that breaks unstated social rules is classed as abnormal [1]; limitation — **norms vary by culture and era**, so the same behaviour can be classed differently depending on where and when it is judged [1] [1]. **Failure to function adequately** — an inability to cope with ordinary daily demands is classed as abnormal [1]; limitation — **who judges "adequate" functioning is subjective**, and some highly unusual behaviour, such as an eccentric lifestyle, causes no distress or dysfunction at all [1] [1].
+
 ---
 
 ## Where marks are usually lost
@@ -77,3 +85,5 @@ Related: [Introductory Topics revision notes](/resources/oxfordaqa-a-level-psych
 - Not operationalising variables in a stated hypothesis.
 - Confusing reliability with validity.
 - Accepting a correlation as evidence of cause.
+- Confusing normative with informational social influence, or omitting why the distinction affects persistence.
+- Giving a definition of abnormality without a linked limitation.

@@ -43,6 +43,18 @@ PRODUCTION
 
 **Commerce is a subset of production, not an alternative to it.** Placing them side by side is the standard structural error.
 
+**Needs and wants:** needs are essentials — food, shelter, clothing; wants are everything beyond that. Because resources are finite and wants are not, choices carry an opportunity cost.
+
+**The three branches of production:**
+
+| Branch | Covers |
+|---|---|
+| **Primary** | Extractive industries (mining, quarrying) and genetic industries (farming, fishing, forestry) that cultivate and replace what they take |
+| **Secondary** | Manufacturing, processing and construction — converting raw materials into finished or semi-finished goods |
+| **Tertiary** | Services — split into commercial services (trade and aids to trade) and direct personal services (doctors, teachers, hairdressers) |
+
+Commerce sits inside the tertiary branch, alongside direct services — it is not a fourth branch of its own.
+
 ## Types of industry
 
 - **Extractive** — takes raw materials from nature: mining, farming, fishing, forestry.
@@ -90,6 +102,8 @@ Six functions, and the marks are for saying **who benefits**:
 **Entrepot trade** is importing goods in order to re-export them.
 
 Confusing balance of trade with balance of payments is the most common error here. A country can have a visible trade deficit and still have a payments surplus if its invisible earnings are large enough — Britain is the standard example.
+
+**Home trade vs foreign trade.** Both involve buying and selling for profit, both need aids to trade, and both depend on a surplus being produced. Foreign trade differs by crossing national boundaries, involving different currencies and exchange-rate risk, sometimes using different units of measurement, facing customs duties and quotas, and needing more documentation and longer transport times.
 
 **Barriers to trade:** tariffs (taxes on imports), quotas (quantity limits), embargoes (bans), and exchange control. Purposes: protecting infant industries, protecting employment, correcting a deficit, and retaliation.
 

@@ -86,7 +86,17 @@ Management uses the four Ps: prediction, protection, preparation and planning.
 
 Effects come from wind, storm surge and flooding; management again follows prediction, protection, preparation and planning.
 
-Climate change is expected to increase the intensity and distribution of such storms as ocean temperatures rise.
+Climate change is expected to increase the intensity and distribution of such storms as ocean temperatures rise. Its causes divide into **natural** (orbital cycles, solar output variation, volcanic ash and aerosols) and **human** (burning fossil fuels, deforestation, livestock and rice agriculture, industry and cement production), working through the **enhanced greenhouse effect** as rising gas concentrations trap more outgoing radiation. Responses divide the same way exam mark schemes divide them: **mitigation** reduces the causes (renewable energy, afforestation, carbon capture, international agreements), while **adaptation** copes with the effects already locked in (flood defences, drought-resistant crops, managed retreat). Placing a strategy in the wrong category is one of the most common marks lost on this topic — planting trees is mitigation, building a sea wall is adaptation.
+
+## Ecosystems
+
+A food chain runs producer to primary consumer to secondary consumer, with decomposers returning nutrients to the soil to complete the cycle; several linked chains form a food web.
+
+**Tropical rainforest** ecosystems are hot and wet all year, so growth is continuous and biodiversity is exceptionally high. Plants adapt with buttress roots for stability in thin soils, drip tips to shed heavy rainfall, lianas and epiphytes that climb or perch to reach light, and a dense, closed canopy. Crucially, nutrients are held in the **biomass rather than the soil**, which is why cleared rainforest land becomes infertile within only a few growing seasons.
+
+**Hot desert** ecosystems have very low, unreliable rainfall and a large diurnal temperature range. Plants and animals adapt through deep or wide-spreading root systems, water storage in stems, waxy or spiny leaves that reduce transpiration, and nocturnal behaviour that avoids the daytime heat.
+
+**Deforestation** is driven by logging, cattle ranching, commercial farming, mineral extraction, road building, hydroelectric schemes and population pressure. Its impacts include biodiversity loss, soil erosion, a disrupted water cycle, reduced carbon storage and the displacement of indigenous communities — set against genuine benefits in employment, export revenue and development, which a top-band answer weighs on both sides before reaching a judgement.
 
 ## Rivers and coasts
 

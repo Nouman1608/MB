@@ -45,6 +45,13 @@ Related: [Business in the Real World revision notes](/resources/igcse-oxfordaqa-
 
 **6.** Evaluate whether a business should always act ethically even when it reduces profit. **[9]**
 
+**7.** A sole trader is considering converting her business into a partnership, or alternatively buying into a franchise.
+
+**(a)** Explain **one** advantage and **one** disadvantage of operating as a sole trader. **[4]**
+**(b)** Explain why buying a franchise might appeal to someone starting a business for the first time. **[4]**
+
+**8.** Distinguish between internal growth and external growth, and explain **one** risk of external growth. **[6]**
+
 ---
 
 ## Answers
@@ -69,9 +76,18 @@ Related: [Business in the Real World revision notes](/resources/igcse-oxfordaqa-
 
 ---
 
+**7. (a)** **Advantage:** she keeps **all the profit** and has **full control** over decisions, with no need to consult partners or shareholders [1] [1]. **Disadvantage:** she has **unlimited liability**, so personal assets are at risk if the business fails, and capital is limited to her own savings and borrowing [1] [1].
+**(b)** A franchise provides a **proven business format and brand name**, reducing the risk of failure compared with starting from scratch [1] [1]; the franchisor typically provides **training, marketing support and bulk-buying discounts**, which a first-time owner would otherwise lack [1] [1].
+
+**8.** **Internal growth** is organic growth from reinvested profit — slower, but it keeps full control and avoids the risk of clashing with another organisation's culture [1] [1]. **External growth** is growth through merger or takeover — much faster, but it **risks culture clash and integration failure**, since combining two separate workforces, systems and management styles rarely goes entirely smoothly [1] [1] [1].
+
+---
+
 ## Where marks are usually lost
 
 - Saying a plc's shares are sold "to the public" without mentioning the stock exchange.
 - Giving external factors without applying them to the specific business.
 - Naming sources of finance without a drawback.
 - Not acknowledging the commercial cost of ethical behaviour.
+- Describing a franchise's benefits without linking them to reduced risk for a first-time owner.
+- Treating internal and external growth as differing only in speed, without addressing integration risk.

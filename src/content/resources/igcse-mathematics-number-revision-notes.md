@@ -86,6 +86,18 @@ sqrt(50) = 5 sqrt(2)
 
 Rationalise a single-term denominator by multiplying top and bottom by the surd; for `a + √b`, multiply by the conjugate `a − √b`.
 
+## Order of operations and rates
+
+**BIDMAS/PENDMAS** — brackets, indices, division and multiplication (left to right), addition and subtraction (left to right). The common trap is working strictly left to right regardless of operation: `28 - 8 / 2` means `28 - (8 / 2) = 24`, **not** `(28 - 8) / 2 = 10`.
+
+**Compound units** such as speed, density and population density must have **both** parts converted, not just one:
+
+```
+72 km/h to m/s:  72 000 m / 3600 s = 20 m/s
+```
+
+Converting only the distance unit or only the time unit is the standard error — both halves of a compound unit change together.
+
 ## Bounds
 
 For a value rounded to the nearest unit u, the bounds are **± u/2**.

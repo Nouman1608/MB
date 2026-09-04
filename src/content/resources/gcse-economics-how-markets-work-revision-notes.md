@@ -51,6 +51,8 @@ Where demand meets supply.
 
 **Answering "explain the effect of X on the market" needs four steps:** which curve shifts, in which direction, the new equilibrium, and the effect on **both** price **and** quantity. Answering only about price gives away half the marks.
 
+The price mechanism performs three jobs at once: it **signals** to producers where resources are wanted, it **incentivises** them to supply more of what is scarce and profitable, and it **rations** a limited quantity of goods among the buyers willing to pay the going price. All three follow directly from the same self-correcting movement towards equilibrium described above.
+
 ## Elasticity
 
 ```
@@ -65,6 +67,19 @@ PED = %change in quantity demanded / %change in price
 **Determinants:** availability of substitutes (the most important), necessity or luxury, proportion of income spent, whether it is addictive, and time.
 
 This explains why taxes on tobacco and fuel raise so much revenue: demand is inelastic, so consumption barely falls and consumers bear most of the tax. It also explains why such taxes work poorly as behaviour-change tools — the same fact from the other side.
+
+**Worked example.** Bad weather destroys a third of the coffee harvest — analyse the effect on the coffee market.
+
+```
+Supply shifts LEFT (less available at every price); demand is unchanged.
+At the old price -> excess demand (a shortage) -> price is bid UP -> quantity traded FALLS.
+
+Coffee has few close substitutes, so demand is relatively inelastic:
+the price rise is large, the fall in quantity comparatively small,
+so total revenue to the remaining growers may actually RISE.
+```
+
+The analysis mark is that last line — most candidates stop at "the price rises" and never link it back to elasticity and revenue.
 
 ## Production and costs
 
