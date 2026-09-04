@@ -139,6 +139,11 @@ example, algebraic manipulation to find an unknown probability) inside
 a statistics context, since OCR's papers are not written to keep the
 two strands in fully separate questions.
 
+## Related resources
+
+- [Statistics revision notes](/resources/ocr-a-level-mathematics-statistics-revision-notes/)
+- [Statistics practice questions](/resources/ocr-a-level-mathematics-statistics-practice/)
+
 ## Official syllabus
 
 OCR, *AS and A Level Mathematics A (H230, H240) Specification at a

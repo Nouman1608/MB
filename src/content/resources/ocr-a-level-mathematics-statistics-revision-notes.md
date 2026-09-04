@@ -99,6 +99,11 @@ Statistics is examined together with Pure Mathematics in component 02, so practi
 
 **Answers:** 1. A fixed number of independent trials, each with the same two possible outcomes and the same probability of success. 2. One-tailed, testing H1: p < the stated value. 3. Because a numerically correct test with no contextual conclusion, or one that inverts "reject" and "do not reject," loses marks even when the calculation is right — OCR's mark schemes require conclusions written back into the original question's context. 4. Any three: random, systematic, stratified, opportunity, quota, cluster. 5. Because some data presentation and interpretation questions are set directly on it, so genuine familiarity with its specific variables and structure is required, not generic data-handling skill alone. 6. sigma = 4; z = (64 − 60) / 4 = 1; P(X < 64) = P(Z < 1) = 0.8413.
 
+## Related resources
+
+- [Statistics study guide](/resources/ocr-a-level-mathematics-statistics/)
+- [Statistics practice questions](/resources/ocr-a-level-mathematics-statistics-practice/)
+
 ## Official syllabus
 
 OCR, *AS and A Level Mathematics A (H230, H240) Specification*, Statistics —
