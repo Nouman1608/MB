@@ -139,6 +139,11 @@ This mirrors how Paper 1's reading section works, but with a deliberately
 different register of source material to test breadth of reading skill
 across genres.
 
+## Related resources
+
+- [Source-based Reading and Directed Writing revision notes](/resources/igcse-oxfordaqa-english-language-paper-2-revision-notes/)
+- [Source-based Reading and Directed Writing practice questions](/resources/oxfordaqa-english-language-paper-2-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE English Language (9270) specification,

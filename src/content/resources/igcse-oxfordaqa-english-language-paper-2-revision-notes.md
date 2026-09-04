@@ -141,3 +141,8 @@ data and implicit framing (emphasis, omission) that is just as
 analysable as continuous prose, even without lengthy text. 5. 20% AO1
 and 20% AO2 for Paper 2, compared with 30% AO1 and 30% AO2 for Paper 1 —
 together making an overall 50/50 AO1/AO2 split.
+
+## Related resources
+
+- [Source-based Reading and Directed Writing study guide](/resources/igcse-oxfordaqa-english-language-paper-2/)
+- [Source-based Reading and Directed Writing practice questions](/resources/oxfordaqa-english-language-paper-2-practice/)
