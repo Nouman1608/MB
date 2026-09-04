@@ -47,6 +47,28 @@ Related: [Language and Analysis revision notes](/resources/a-english-language-un
 
 ---
 
+## Section C
+
+**8.** A political speech includes the line: "Errors were made, and we must all do better."
+
+**(a)** Name the grammatical feature in "errors were made" and explain what it conceals. **[2]**
+
+**(b)** Explain the effect of the pronoun "we" in this context. **[2]**
+
+**9.** A university's formal graduation announcement suddenly includes the line: "This is going to be epic, trust us!"
+
+**(a)** Using field, tenor and mode, explain what this register mismatch might be trying to achieve. **[3]**
+
+**(b)** Explain why marking spoken features such as fillers and false starts as "errors" is a misreading. **[3]**
+
+**10.** A student transforms a formal letter of complaint into a script for a radio advert.
+
+**(a)** State two things, other than the wording itself, that must be adjusted in this transformation. **[2]**
+
+**(b)** Give an example of how a commentary should justify a choice of low modality, rather than merely describe it. **[2]**
+
+---
+
 ## Answers
 
 **1. Idiolect** — an **individual's own distinctive way of using language** [1]. **Sociolect** — the **language variety used by a particular social group**, defined by class, occupation or age [1]. **Dialect** — the **variety associated with a geographical region**, including its own lexis and grammar as well as pronunciation [1].
@@ -63,6 +85,18 @@ Related: [Language and Analysis revision notes](/resources/a-english-language-un
 
 **7. Deficit** (Lakoff) — women's language is treated as **lacking authority compared with men's**, using hedges and tag questions [1]; criticism: it **treats male language as the norm** and rests on introspection rather than data [1]. **Dominance** (Zimmerman and West) — differences arise because **men exercise power over women in conversation**, for example through interruption [1]; criticism: **based on small samples in specific settings**, and it cannot explain same-sex conversations [1]. **Difference** (Tannen) — men and women are socialised into **different conversational subcultures with different goals**, report talk versus rapport talk [1]; criticism: it **ignores the power inequalities that produce those differences** and risks essentialising gender [1].
 
+**8. (a)** The **passive voice** [1] — it **conceals the agent**, omitting who made the errors [1].
+
+**(b)** The **inclusive pronoun "we"** spreads responsibility across the whole audience or organisation rather than the specific people responsible, softening the admission [2].
+
+**9. (a)** The informal, casual **tenor and mode** clash with the formal **field** of a graduation announcement [1]; this mismatch is deliberate, likely intended to **build intimacy, excitement or closeness** with a younger audience [2].
+
+**(b)** Fillers and false starts are **normal, functional features of real-time spoken production** — buying planning time, holding the floor, or signalling a topic change — not mistakes to be corrected [3].
+
+**10. (a)** Any two: **form** — from a written letter to a spoken script; **audience** — from a specific complaint recipient to a general listening public; **purpose** — from complaining and requesting redress to entertaining or persuading [2].
+
+**(b)** A strong commentary **names** the choice, **ties it to audience and purpose**, and **explains the effect** — e.g. *"I used low modality throughout because the audience is being persuaded rather than instructed, and hedging avoids the resistance direct commands provoke"* — rather than simply noting "I used low modality" [2].
+
 ---
 
 ## Where marks are usually lost
@@ -71,3 +105,5 @@ Related: [Language and Analysis revision notes](/resources/a-english-language-un
 - Giving features of speech without an example.
 - Confusing instrumental with influential power.
 - Describing gender theories without a criticism when one is required.
+- Naming a spoken-language feature as an "error" instead of explaining what it achieves.
+- Describing a language choice in a commentary instead of justifying it against audience and purpose.

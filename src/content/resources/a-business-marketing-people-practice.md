@@ -48,6 +48,14 @@ has just launched a similar bottle at £19.*
 
 **5.** Evaluate whether a pay rise is the best way for Verdo to reduce staff turnover. **[12]**
 
+**6.** Verdo currently has a tall organisational structure with six management levels. The board is considering delayering to become flatter.
+
+**(a)** Explain **one** advantage and **one** disadvantage of delayering for Verdo. **[4]**
+
+**(b)** Calculate Verdo's labour turnover rate if 45 staff left last year out of an average workforce of 145. **[2]**
+
+**(c)** Explain how Verdo's leadership style might need to change if it delayers. **[3]**
+
 ---
 
 ## Answers
@@ -79,6 +87,12 @@ has just launched a similar bottle at £19.*
 
 **Judgement** [2]: a pay rise alone is unlikely to solve it — Herzberg's distinction predicts a temporary improvement before turnover returns to previous levels. Verdo should first **establish why staff are leaving**, through exit interviews, and address the actual cause. That said, if pay is genuinely below market rate it is a **necessary** first step, even though it is not a sufficient one.
 
+**6. (a)** Advantage: delayering **cuts management costs** and **speeds up decision-making**, since information travels through fewer levels between the shop floor and senior management [2]. Disadvantage: it **increases the workload** on remaining managers, who must now supervise a wider span of control, and can **damage morale** among staff who lose a clear route for promotion [2].
+
+**(b)** Labour turnover = leavers ÷ average number employed × 100 = 45 ÷ 145 × 100 [1] = **31%** [1] — consistent with the turnover rate already stated in the case study.
+
+**(c)** A flatter structure gives each remaining manager a **wider span of control**, making close supervision of every individual impractical [1], so Verdo would likely need to shift toward a **more democratic or delegative style**, empowering experienced production staff to make routine decisions themselves [1]; this would reduce the burden on the smaller management team while giving staff more autonomy and responsibility [1].
+
 ---
 
 ## How the marks are awarded
@@ -95,3 +109,5 @@ has just launched a similar bottle at £19.*
 - Concluding "there are advantages and disadvantages" without judging.
 - Saying pay always motivates, ignoring Herzberg.
 - Ignoring Verdo's premium positioning in the pricing question.
+- Describing delayering as only cost-cutting, without also weighing the effect on remaining managers' workload.
+- Forgetting to state which leadership style suits a wider span of control.

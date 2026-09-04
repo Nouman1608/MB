@@ -78,6 +78,24 @@ I2 + 2e-    <=>  2I-      E = +0.54 V
 
 ---
 
+## Section C
+
+**8.** The electrode potential of a Cu²⁺/Cu half-cell depends on the concentration of Cu²⁺.
+
+**(a)** State the Nernst equation, and use Le Chatelier's principle to explain what happens to E if the concentration of Cu²⁺ is increased. **[3]**
+
+**(b)** This Cu²⁺/Cu half-cell, with [Cu²⁺] below standard concentration, is paired with a standard Zn²⁺/Zn half-cell. State, with a reason, whether the resulting cell e.m.f. is higher or lower than the standard value. **[2]**
+
+**9.** Dilute sulfuric acid and concentrated copper(II) sulfate solution are electrolysed separately using inert electrodes.
+
+**(a)** State the general rule for which cation is discharged at the cathode in aqueous electrolysis. **[2]**
+
+**(b)** Predict the cathode product in each solution, explaining your answer. **[3]**
+
+**(c)** State the general rule for which anion is discharged at the anode, and predict the anode product in both solutions. **[3]**
+
+---
+
 ## Answers
 
 **1.** 298 K [1]; solution concentrations of 1 mol dm⁻³ [1]; pressure of 100 kPa for any gases [1].
@@ -115,6 +133,16 @@ n(Al) = 0.0373 ÷ 3 = 0.01243 mol [1].
 m = 0.01243 × 27.0 = **0.336 g** [1].
 *Forgetting to divide by 3 is the standard error here.*
 
+**8. (a)** E = E⦵ + (0.059 ÷ z) log([oxidised] ÷ [reduced]) [1]. Increasing [Cu²⁺] (the oxidised species) shifts the half-equilibrium Cu²⁺ + 2e⁻ ⇌ Cu towards **reduction**, by Le Chatelier's principle [1], making E **more positive** [1].
+
+**(b)** The cell e.m.f. is **lower** than the standard value [1], because a below-standard [Cu²⁺] makes the copper electrode potential **less positive** than +0.34 V, reducing the difference between the two electrode potentials [1].
+
+**9. (a)** The **less reactive cation** — the one with the **more positive E⦵** — is discharged in preference [2].
+
+**(b)** In dilute sulfuric acid, the **only cation present is H⁺**, so **hydrogen** is discharged at the cathode [1]. In concentrated copper(II) sulfate, **Cu²⁺ has a more positive E⦵ than H⁺**, so **copper** is discharged instead of hydrogen [2].
+
+**(c)** **Halides are discharged in preference to hydroxide; otherwise oxygen is produced from OH⁻** [1]. In both solutions here the anion present is **sulfate**, which is not discharged in preference to hydroxide, so **oxygen** is produced at the anode in both cases [2].
+
 ---
 
 ## Where marks are usually lost
@@ -124,3 +152,5 @@ m = 0.01243 × 27.0 = **0.336 g** [1].
 - Using the electron count from a half-equation instead of the overall equation in ΔG = −nFE.
 - Forgetting to convert hours to seconds.
 - Not dividing by the number of electrons when calculating mass deposited.
+- Applying standard E⦵ values to a non-standard concentration without adjusting via the Nernst equation.
+- Assuming the halide-vs-hydroxide anode rule also applies to sulfate, which is never discharged in preference to hydroxide.

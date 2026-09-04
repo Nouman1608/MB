@@ -75,6 +75,22 @@ Related: [Organisation revision notes](/resources/igcse-oxfordaqa-biology-organi
 
 ---
 
+## Section C
+
+**8.** Protease is one of the enzymes involved in digestion.
+
+**(a)** State the substrate and the products of protease. **[2]**
+
+**(b)** State four ways the small intestine is adapted for efficient absorption of digested food. **[4]**
+
+**9.** Arteries, veins and capillaries each have a structure suited to their role.
+
+**(a)** Compare the walls and lumen of arteries and veins, explaining the difference in terms of the pressure of the blood they carry. **[4]**
+
+**(b)** Explain why capillary walls are one cell thick. **[2]**
+
+---
+
 ## Answers
 
 **1. Tissue** — a group of **similar cells** working together for a shared function [1], e.g. **muscular tissue** [1].
@@ -113,6 +129,14 @@ It **emulsifies fats** — breaking large droplets into many small ones [1] — 
 **Dense capillary network** — maintains a **steep concentration gradient**.
 **Well ventilated** — continually replaces the air, also maintaining the gradient.
 
+**8. (a)** Substrate: **protein** [1]. Products: **amino acids** [1].
+
+**(b)** Any four: it is **long**, giving a large surface area over its length [1]; it is **folded**, further increasing surface area [1]; it is covered in **villi and microvilli**, increasing surface area further still [1]; it has a **thin, one-cell-thick wall**, giving a short diffusion distance [1]; it has a **rich blood supply**, maintaining a steep concentration gradient [1].
+
+**9. (a)** **Arteries** carry blood **away from the heart** at **high pressure**, so they have **thick, elastic walls** and a **narrow lumen** [2]. **Veins** carry blood **back to the heart** at **low pressure**, so they have **wide lumens** and **valves** to prevent backflow [2].
+
+**(b)** Capillary walls are **one cell thick** to give the **shortest possible diffusion distance** for the exchange of substances between the blood and surrounding tissue [2].
+
 ---
 
 ## Where marks are usually lost
@@ -122,3 +146,5 @@ It **emulsifies fats** — breaking large droplets into many small ones [1] — 
 - Describing bile as digesting fat.
 - Stating an alveolar adaptation without saying what it achieves.
 - Confusing tissue with organ.
+- Explaining an artery's structure without linking it to the high pressure of the blood it carries.
+- Naming a small-intestine adaptation without saying what it increases or shortens.

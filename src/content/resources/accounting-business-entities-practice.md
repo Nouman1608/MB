@@ -52,6 +52,30 @@ Related: [Business Entities and the Accounting System revision notes](/resources
 
 ---
 
+## Section C
+
+**7.** A sole trader wants to buy a delivery van costing $18 000.
+
+**(a)** State two sources of finance she could use, other than a bank loan, and explain each. **[4]**
+
+**(b)** State the accounting equation and explain how an $18 000 bank loan used to buy the van affects it. **[3]**
+
+**8.** For each scenario, name the accounting concept being applied.
+
+**(a)** A machine bought for $50 000 five years ago is still recorded at $50 000, despite now being worth $30 000. **[2]**
+
+**(b)** A business owner's personal car is not included in the business's non-current assets. **[2]**
+
+**(c)** A company continues to depreciate its assets on the assumption that it will keep trading next year. **[2]**
+
+**9.** A business is setting up a computerised accounting system.
+
+**(a)** State which book of prime entry records the correction of an error, and explain why it does not fit in any of the other specialised books. **[2]**
+
+**(b)** State two measures the business can take to secure its data. **[2]**
+
+---
+
 ## Answers
 
 **1. Sales day book** — credit sales [1]. **Purchases day book** — credit purchases [1]. **Sales returns day book** — goods returned by customers [1]. **Purchases returns day book** — goods returned to suppliers [1]. **Cash book and journal** — cash and bank transactions, and non-routine entries such as corrections and year-end adjustments [1].
@@ -70,6 +94,20 @@ It should cover: the **profit- and loss-sharing ratio** [1]; **salaries and inte
 
 **6. Retained earnings** — the **accumulated profits not distributed as dividends** [1], available for reinvestment or future distribution [1]. **Share premium** — the **amount received for shares in excess of their nominal value** [1]; it is a **capital reserve and cannot be distributed as a dividend** [1]. **General reserve** — profit **transferred out of retained earnings by the directors** to strengthen the company's financial position [1]; it signals an intention not to distribute those profits, though it remains a revenue reserve [1].
 
+**7. (a)** **Leasing** — using the van without buying it outright, avoiding a large upfront cost [2]. **Payment by instalments** — spreading the cost of the purchase over time while still owning the van from the outset [2].
+
+**(b)** Assets = liabilities + capital [1]. Taking the loan increases **assets** (cash, then the van) by $18 000 and increases **liabilities** (the loan) by $18 000 [1], so both sides of the equation rise equally and remain in balance [1].
+
+**8. (a)** **Historic cost** — assets are recorded at their original purchase cost, not their current market value [2].
+
+**(b)** **Business entity concept** — the business is accounted for separately from its owner, so personal assets are excluded [2].
+
+**(c)** **Going concern** — accounts assume the business will continue operating, which is what justifies spreading depreciation over an asset's useful life rather than writing it off immediately [2].
+
+**9. (a)** The **general journal** [1] — it records transactions not covered by the other specialised books, such as correcting errors or recording non-current asset purchases made on credit [1].
+
+**(b)** Any two: **passwords**; **access levels** restricting what different users can view or change; **regular backups** [2].
+
 ---
 
 ## Where marks are usually lost
@@ -78,3 +116,5 @@ It should cover: the **profit- and loss-sharing ratio** [1]; **salaries and inte
 - Saying preference shareholders always receive a dividend — profits must be available.
 - Treating debenture interest as an appropriation rather than an expense.
 - Describing share premium as distributable.
+- Confusing historic cost (original purchase price) with current market value.
+- Naming a computerised system's advantages without also acknowledging the security and reliability risks the syllabus expects.

@@ -59,6 +59,27 @@ The structure that scores:
 
 **Cold War origins** — ideological opposition, wartime suspicion, the atomic bomb, and disagreements at Yalta and Potsdam over Poland and Germany.
 
+## The eight depth-study options
+
+| Option | Period | Focus |
+|---|---|---|
+| 1.1 French Revolution | c1780–99 | Political upheaval and revolutionary change in France |
+| 1.2 Unification of Italy | 1848–70 | Nation-building and a unified state |
+| 1.3 Germany: Dictatorship | 1918–45 | The rise and consolidation of Nazi rule |
+| 1.4 India: Nationalist Challenge | 1919–47 | Colonial rule and the movement toward independence |
+| 1.5 USSR: Dictatorship and Conflict | 1924–53 | Stalinist rule and its consequences |
+| 1.6 Superpower Relations | 1943–72 | Cold War tensions between the USA and USSR |
+| 1.7 US Civil Rights | 1945–74 | The struggle for racial equality in the United States |
+| 1.8 South Africa: Apartheid | 1948–94 | The rise and fall of institutionalised racial segregation |
+
+**Confirm which two (or more) options your centre actually teaches** before revising in depth — studying the wrong option, even briefly, wastes time that could deepen knowledge of the period that will genuinely appear in the exam.
+
+## Structuring revision by option
+
+Build **separate notes for each studied option**, rather than one combined set: a chronological outline of major events, the key individuals and their roles, the causes of major developments, and the consequences or significance of those developments.
+
+**Keep periods separate.** Candidates lose marks by unintentionally applying facts from one Depth Study to a question about a different one — particularly where two studied options share superficial similarities, such as both involving a shift toward authoritarian rule.
+
 ## Writing the answers
 
 - Use **precise** evidence: names, dates, figures, treaties. "Several wars" is weak; "three wars between 1864 and 1871" is strong.
@@ -74,6 +95,8 @@ The structure that scores:
 - Narrating events rather than arguing a case.
 - Vague evidence with no dates or names.
 - A conclusion that restates rather than judges.
+- Confusing facts between two studied options that share surface similarities, such as two authoritarian-rule topics.
+- Revising the wrong Depth Study option without confirming which two the centre actually teaches.
 
 ## Self-test
 
@@ -82,5 +105,7 @@ The structure that scores:
 3. What structure earns marks in a causation question?
 4. Summarise the central problem with the Treaty of Versailles.
 5. Give four structural reasons the League of Nations failed.
+6. Name the eight Depth Study options and the period each covers.
+7. Why should revision notes be built separately for each studied option rather than combined into one set?
 
-**Answers:** 1. Nature, Origin, Purpose; purpose matters most because knowing *why* a source was created reveals what it is likely to exaggerate, omit or distort. 2. It is reliable evidence of the attitudes, intentions and beliefs of the person or group who produced it, even if unreliable about events. 3. Explain how each factor contributed, link factors together, then judge which mattered most and state the criterion for that judgement. 4. It was harsh enough to embitter Germany but not harsh enough to prevent her recovering strength. 5. The USA never joined; it had no army; decisions required unanimity; key powers were excluded; sanctions were ineffective; Britain and France pursued self-interest — any four.
+**Answers:** 1. Nature, Origin, Purpose; purpose matters most because knowing *why* a source was created reveals what it is likely to exaggerate, omit or distort. 2. It is reliable evidence of the attitudes, intentions and beliefs of the person or group who produced it, even if unreliable about events. 3. Explain how each factor contributed, link factors together, then judge which mattered most and state the criterion for that judgement. 4. It was harsh enough to embitter Germany but not harsh enough to prevent her recovering strength. 5. The USA never joined; it had no army; decisions required unanimity; key powers were excluded; sanctions were ineffective; Britain and France pursued self-interest — any four. 6. French Revolution (c1780-99), Unification of Italy (1848-70), Germany: Dictatorship (1918-45), India: Nationalist Challenge (1919-47), USSR: Dictatorship and Conflict (1924-53), Superpower Relations (1943-72), US Civil Rights (1945-74), South Africa: Apartheid (1948-94). 7. Because candidates sometimes unintentionally apply facts from one Depth Study to a question about a different one, especially where two studied options share superficial similarities such as both involving authoritarian rule; separate notes keep the periods from bleeding into one another.

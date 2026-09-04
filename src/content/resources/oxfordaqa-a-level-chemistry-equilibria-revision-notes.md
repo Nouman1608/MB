@@ -51,6 +51,19 @@ That table is the core of the topic. A catalyst speeds up both directions equall
 
 **Temperature is the exception because it alters the two rate constants unequally.** Raising temperature favours the **endothermic** direction, so for an exothermic forward reaction, K **decreases**.
 
+## Worked example: calculating Kc
+
+At equilibrium in a 2 dm³ sealed container, N₂(g) + 3H₂(g) ⇌ 2NH₃(g) contains 0.40 mol N₂, 1.20 mol H₂ and 0.80 mol NH₃.
+
+```
+Convert moles to concentrations (divide by 2 dm^3):
+[N2] = 0.20, [H2] = 0.60, [NH3] = 0.40 mol/dm^3
+
+Kc = [NH3]^2 / ([N2][H2]^3) = 0.40^2 / (0.20 x 0.60^3) = 0.16 / 0.0432 = 3.7
+```
+
+Total moles of gas differ on each side (4 → 2), so the concentration units **don't cancel** — **Kc carries units** here, worked out from the overall power difference in the expression. **Always convert moles to concentrations before substituting** — using moles directly is a common error.
+
 ## Le Chatelier's principle
 
 > When a change is applied to a system at equilibrium, the position shifts to **oppose** that change.
@@ -94,6 +107,7 @@ Units of K vary with the equation and must be worked out each time; if Δn(gas) 
 - Claiming pressure changes K.
 - Forgetting that pressure has no effect when moles of gas are equal.
 - Using moles instead of concentrations in Kc.
+- Forgetting to check whether Kc has units — this depends on the overall power difference in the expression, and is zero only when the total moles of gas are equal on both sides.
 
 ## Self-test
 
@@ -102,5 +116,6 @@ Units of K vary with the equation and must be worked out each time; if Δn(gas) 
 3. What does a catalyst do to the position of equilibrium?
 4. Why does the Haber process use 450 °C when the reaction is exothermic?
 5. When does a pressure change have no effect?
+6. For N₂ + 3H₂ ⇌ 2NH₃, why does Kc carry units, and what must be done to moles before they are substituted into the Kc expression?
 
-**Answers:** 1. The rates of the forward and reverse reactions are equal, and the concentrations of all species remain constant, in a closed system. 2. Temperature — it alters the rate constants of the forward and reverse reactions unequally. 3. Nothing; it increases the rate of both directions equally, so equilibrium is reached sooner at the same position. 4. A lower temperature would give a higher yield but an uneconomically slow rate, so 450 °C is a compromise between yield and rate. 5. When there are equal numbers of moles of gas on both sides of the equation.
+**Answers:** 1. The rates of the forward and reverse reactions are equal, and the concentrations of all species remain constant, in a closed system. 2. Temperature — it alters the rate constants of the forward and reverse reactions unequally. 3. Nothing; it increases the rate of both directions equally, so equilibrium is reached sooner at the same position. 4. A lower temperature would give a higher yield but an uneconomically slow rate, so 450 °C is a compromise between yield and rate. 5. When there are equal numbers of moles of gas on both sides of the equation. 6. Kc carries units because the total moles of gas differ on each side (4 on the left, 2 on the right), so the concentration units in the expression don't fully cancel; moles must first be divided by the volume to convert them into concentrations before substitution.

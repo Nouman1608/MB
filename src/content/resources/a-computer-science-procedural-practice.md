@@ -60,6 +60,28 @@ OUTPUT result
 
 ---
 
+## Section C
+
+**8.** A program uses both procedures and functions, and passes parameters in different ways.
+
+**(a)** Distinguish between a procedure and a function. **[2]**
+
+**(b)** Distinguish between passing a parameter by value and by reference, and explain why passing by value is generally preferred. **[3]**
+
+**9.** A recursive function calculates factorial(n).
+
+**(a)** Write pseudocode for a recursive factorial function, clearly identifying the base case and the general case. **[4]**
+
+**(b)** Explain what happens on the call stack when factorial(3) is called, and why a missing base case causes a stack overflow. **[3]**
+
+**10.** A programmer is choosing between a stack, a queue, a linked list and an array for different tasks.
+
+**(a)** Distinguish between a stack and a queue in terms of the order in which elements are removed. **[2]**
+
+**(b)** State one advantage and one disadvantage of a linked list compared with an array. **[2]**
+
+---
+
 ## Answers
 
 **1.** An algorithm is a **finite, ordered sequence of unambiguous steps that solves a problem** [1]. It can be represented as **pseudocode** [1] or as a **flowchart** (also structured English or a program) [1].
@@ -96,6 +118,28 @@ It remains unsuitable for large data sets because its **average and worst case a
 
 **7.** i = 1: result = 1 [1]; i = 2: result = 2; i = 3: result = 6 [1]; i = 4: result = **24** [1]. This computes n factorial.
 
+**8. (a)** A **procedure** performs a task but **returns no value** [1]; a **function returns a value** [1].
+
+**(b)** **By value** passes a **copy** of the argument, so the original is unaffected [1]; **by reference** passes the **address**, so the original can be changed [1]. Passing by value is generally preferred because it **prevents side effects**, where one subroutine unintentionally alters data another part of the program depends on [1].
+
+**9. (a)**
+```
+FUNCTION factorial(n)
+    IF n = 0 THEN
+        RETURN 1
+    ELSE
+        RETURN n * factorial(n - 1)
+    ENDIF
+ENDFUNCTION
+```
+Base case: n = 0 returns 1 [2]. General case: n × factorial(n − 1), which moves progressively closer to the base case [2].
+
+**(b)** Each call is placed on the **call stack** with its own local variables and return address, so factorial(3) calls factorial(2), which calls factorial(1), which calls factorial(0), stacking three unfinished calls before any of them can return [2]. Without a base case, the recursion never stops adding calls to the stack, eventually exhausting available memory and causing a **stack overflow** [1].
+
+**10. (a)** A **stack** is **LIFO** (last in, first out) — the most recently added element is removed first [1]; a **queue** is **FIFO** (first in, first out) — the earliest added element is removed first [1].
+
+**(b)** Advantage: a linked list **grows dynamically and inserts cheaply**, without resizing or shifting existing elements [1]. Disadvantage: it does not allow **direct indexed access** — reaching an element requires **traversing from the start** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -104,3 +148,5 @@ It remains unsuitable for large data sets because its **average and worst case a
 - Getting the inner loop bound wrong and reading past the end of the array.
 - Stating O(n log n) for binary search.
 - Forgetting that binary search requires a sorted list.
+- Omitting the base case when writing a recursive function.
+- Confusing a stack's LIFO order with a queue's FIFO order.

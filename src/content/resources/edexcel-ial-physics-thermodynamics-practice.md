@@ -55,6 +55,22 @@ Related: [Thermodynamics revision notes](/resources/edexcel-ial-physics-thermody
 
 ---
 
+## Section C
+
+**7.** The equation ½mc̄² = (3/2)kT links the microscopic motion of gas molecules to macroscopic temperature, where m is the mass of one molecule and c̄² is the mean square speed.
+
+**(a)** State what is meant by absolute zero, in terms of molecular kinetic energy. **[2]**
+
+**(b)** Use the equation to explain why doubling the absolute temperature of a fixed mass of gas does not double the average speed of its molecules. **[3]**
+
+**8.** CORE PRACTICAL 14 investigates the relationship between the pressure and volume of a fixed mass of gas at constant temperature.
+
+**(a)** State Boyle's law. **[2]**
+
+**(b)** A gas has a volume of 250 cm³ at a pressure of 1.0 × 10⁵ Pa. Calculate its new volume if the pressure is increased to 2.5 × 10⁵ Pa at constant temperature. **[3]**
+
+---
+
 ## Answers
 
 **1. Specific heat capacity** — the **energy required to raise the temperature of 1 kg of a substance by 1 K**, without a change of state [1] [1]. **Specific latent heat of vaporisation** — the **energy required to change 1 kg of a substance from liquid to gas at constant temperature** [1] [1].
@@ -73,6 +89,14 @@ Related: [Thermodynamics revision notes](/resources/edexcel-ial-physics-thermody
 
 **6.** The **observed wavelength of a known spectral line is longer than the laboratory value** [1]; the fractional shift gives the recession velocity from **z = Δλ/λ = v/c** for non-relativistic speeds [1]. **Hubble's law** states that **v = H₀d** [1] — a galaxy's recession velocity is directly proportional to its distance, which is the principal evidence for an expanding universe [1].
 
+**7. (a)** Absolute zero is the temperature at which molecules have the **minimum possible kinetic energy** [2].
+
+**(b)** Since ½mc̄² = (3/2)kT, the **mean kinetic energy** (and hence c̄²) is **proportional to T** [1], so the mean square speed doubles when T doubles — but c̄, the speed itself, is proportional to **√T**, not T [1]. Doubling T therefore increases the average speed by a factor of only **√2**, not 2 [1].
+
+**8. (a)** At constant temperature, the **pressure of a fixed mass of gas is inversely proportional to its volume** (pV = constant) [2].
+
+**(b)** p₁V₁ = p₂V₂, so V₂ = p₁V₁ ÷ p₂ = (1.0 × 10⁵ × 250) ÷ (2.5 × 10⁵) [2] = **100 cm³** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -81,3 +105,5 @@ Related: [Thermodynamics revision notes](/resources/edexcel-ial-physics-thermody
 - Forgetting to use the surface area 4πr² in Stefan's law.
 - Saying the internal energy of an ideal gas includes potential energy.
 - Raising T to the wrong power in Stefan's law.
+- Assuming average molecular speed is proportional to temperature rather than to its square root.
+- Forgetting that Boyle's law only holds at constant temperature for a fixed mass of gas.
