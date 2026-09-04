@@ -137,6 +137,11 @@ answer, not only in the introduction or conclusion.
 time across all three sections, since Section C carries the same
 weight as A and B despite feeling less prepared-for.
 
+## Related resources
+
+- [Modern Texts and Poetry revision notes](/resources/aqa-gcse-english-literature-paper-2-revision-notes/)
+- [Modern Texts and Poetry practice questions](/resources/aqa-gcse-english-literature-paper-2-practice/)
+
 ## Official syllabus
 
 AQA GCSE English Literature (8702) specification, for first teaching

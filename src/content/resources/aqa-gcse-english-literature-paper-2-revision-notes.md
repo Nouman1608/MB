@@ -122,3 +122,8 @@ effectively any of the 15 poems in your studied cluster. 3. Because the poems ar
 exam, so no quotation bank or memorised analysis can prepare for the specific poems that appear —
 only general analytical skill built through wide practice. 4. Theme, form and structure. 5.
 Summarising the plot instead of analysing character, theme, context and writer's method.
+
+## Related resources
+
+- [Modern Texts and Poetry study guide](/resources/aqa-gcse-english-literature-paper-2/)
+- [Modern Texts and Poetry practice questions](/resources/aqa-gcse-english-literature-paper-2-practice/)
