@@ -154,6 +154,11 @@ psychological explanation, each paired with its matching intervention.
 - Practise applying every factor and study to a novel scenario, since
 Paper 2 -- like Paper 1 -- rewards application over pure recall.
 
+## Related resources
+
+- [Social Context and Behaviour revision notes](/resources/gcse-psychology-social-context-revision-notes/)
+- [Social Context and Behaviour practice questions](/resources/gcse-psychology-social-context-practice/)
+
 ## Official syllabus
 
 AQA GCSE Psychology (8182) specification, first teaching 2017, section

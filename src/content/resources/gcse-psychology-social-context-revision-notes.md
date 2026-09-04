@@ -137,3 +137,8 @@ are opposite claims. 2. Milgram's study, supporting the Agency Theory of obedien
 CBT). 4. Because the question specifically asks for comparison, and simply describing both
 explanations side by side does not demonstrate the comparative skill being assessed. 5. Using a
 labelled diagram rather than a prose or bullet-list description.
+
+## Related resources
+
+- [Social Context and Behaviour study guide](/resources/aqa-gcse-psychology-social-context-and-behaviour/)
+- [Social Context and Behaviour practice questions](/resources/gcse-psychology-social-context-practice/)
