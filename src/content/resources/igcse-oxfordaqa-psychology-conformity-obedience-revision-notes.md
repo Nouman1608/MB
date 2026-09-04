@@ -145,3 +145,8 @@ often linked to a strict upbringing. 5. The psychological state in
 which a person sees themselves as an instrument carrying out another
 person's wishes, and so no longer feels personally responsible for
 their actions.
+
+## Related resources
+
+- [Conformity and Obedience study guide](/resources/igcse-oxfordaqa-psychology-conformity-and-obedience/)
+- [Conformity and Obedience practice questions](/resources/igcse-oxfordaqa-psychology-conformity-obedience-practice/)

@@ -149,6 +149,11 @@ dispositional explanation of obedience.
 - Practise answers that name one social and one dispositional factor
 side by side, as this comparison structure is commonly tested.
 
+## Related resources
+
+- [Conformity and Obedience revision notes](/resources/igcse-oxfordaqa-psychology-conformity-obedience-revision-notes/)
+- [Conformity and Obedience practice questions](/resources/igcse-oxfordaqa-psychology-conformity-obedience-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE Psychology (9218) specification, Version
