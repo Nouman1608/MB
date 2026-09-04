@@ -53,6 +53,22 @@ Related: [The Role of the Accountant revision notes](/resources/a-accounting-rol
 
 ---
 
+## Section C
+
+**7.** Distinguish between capital expenditure and revenue expenditure, giving **one** example of each. **[2]**
+
+State the effect on **profit** and on **non-current assets** of mistakenly treating capital expenditure as revenue expenditure. **[2]**
+
+**8.** A business has cost of sales $260 000, average inventory $40 000, credit sales $500 000 and receivables of $60 000.
+
+**(a)** Calculate the inventory turnover, in times per year. **[2]**
+
+**(b)** Calculate the receivables collection period, in days. **[2]**
+
+**9.** State **two** limitations of ratio analysis. **[2]**
+
+---
+
 ## Answers
 
 **1. Financial accounting** records past transactions and produces **statements for external users**, in a **legally prescribed format**, usually annually [1] [1]. **Management accounting** produces **forecasts, budgets and costings for internal use by managers**, in **any format that is useful**, as frequently as required [1] [1].
@@ -71,6 +87,14 @@ Related: [The Role of the Accountant revision notes](/resources/a-accounting-rol
 
 **6.** The **current ratio** = current assets ÷ current liabilities, measuring whether **short-term assets cover short-term debts** [1]. The **acid test** excludes **inventory** from current assets, since inventory is the least liquid and may not sell quickly [1] [1]. A business can have a healthy current ratio yet still struggle if **most of its current assets are slow-moving inventory or receivables from customers who pay late** [1], so it does not have the **cash available when liabilities fall due** [1].
 
+**7.** **Capital expenditure** acquires or improves a non-current asset, e.g. buying a delivery van (including delivery and installation costs) [1]. **Revenue expenditure** is a running cost, e.g. repairs, fuel or maintenance [1]. Treating capital expenditure as revenue expenditure by mistake **understates profit** (it is wrongly charged as an expense instead of being capitalised) [1] and **understates non-current assets** in the statement of financial position [1].
+
+**8. (a)** Inventory turnover = 260 000 ÷ 40 000 [1] = **6.5 times per year** [1].
+
+**(b)** Receivables days = (60 000 ÷ 500 000) × 365 [1] = **43.8 days** [1].
+
+**9.** Any two: it uses **historic data**, which may not reflect current conditions [1]; it **ignores non-financial factors**, such as staff morale or brand reputation [1]; it can be **distorted by different accounting policies** between firms, making comparison unreliable [1]; a single figure can be **manipulated by year-end timing** of transactions [1].
+
 ---
 
 ## Where marks are usually lost
@@ -79,3 +103,5 @@ Related: [The Role of the Accountant revision notes](/resources/a-accounting-rol
 - Applying the reducing balance percentage to cost in year 2.
 - Getting the profit effect of prepayments the wrong way round.
 - Saying a high current ratio always means good liquidity.
+- Charging capital expenditure to the income statement as an expense, rather than capitalising it as a non-current asset.
+- Quoting a ratio without a comparison (previous year, competitor or industry norm) or a reason for the change.

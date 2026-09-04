@@ -59,6 +59,39 @@ Fringe spacing increases with larger D or λ, and **decreases** with larger slit
 
 **Stationary waves** form from two waves of equal frequency and amplitude travelling in opposite directions. **Node separation is λ/2**, not λ.
 
+## Standing waves and diffraction: the practicals
+
+The speed of a transverse wave on a stretched string is:
+
+```
+v = sqrt(T / mu)
+```
+
+where T is the tension and µ is the mass per unit length — investigated
+directly in **CORE PRACTICAL 5**. **CORE PRACTICAL 4** determines the
+speed of sound in air using a two-beam oscilloscope, signal generator,
+speaker and microphone.
+
+**Diffraction** — the spreading of a wave through a slit or around an
+obstacle — is explained using **Huygens' construction**, treating every
+point on a wavefront as a source of secondary wavelets. **CORE PRACTICAL
+6** uses a diffraction grating to determine the wavelength of a laser (or
+other) light source, applying nλ = dsinθ.
+
+**Worked example.** Light of wavelength 589 nm is incident on a
+diffraction grating with 500 lines per mm. Find the first-order angle.
+
+```
+d = 1 / (500 x 1000) = 2.0 x 10^-6 m
+sin(theta) = n*lambda / d = (1 x 589e-9) / 2.0e-6 = 0.2945
+theta = 17.1 degrees
+```
+
+**Intensity** is power per unit area, I = P/A. A **pulse-echo technique**
+(ultrasound, radar) locates an object from the time delay of a reflected
+pulse; resolution is limited by the wavelength used, or the pulse
+duration — shorter pulses and shorter wavelengths resolve finer detail.
+
 ## The photoelectric effect
 
 ```

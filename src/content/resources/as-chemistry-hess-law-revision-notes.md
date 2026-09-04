@@ -70,6 +70,23 @@ They are opposite subtractions. Remember which by drawing the arrows: formation 
 
 **Multiply by the stoichiometric coefficients**, and remember ΔH_f(O₂) = ΔH_f(C, graphite) = 0.
 
+**Worked example.** Find ΔH_f⦵ for methane, CH₄(g), given ΔH_c(C, graphite) = −394 kJ/mol, ΔH_c(H₂) = −286 kJ/mol, ΔH_c(CH₄) = −890 kJ/mol.
+
+```
+formation reaction: C(graphite) + 2H2(g) -> CH4(g)
+
+route via combustion:
+[ΔHc(C) + 2 x ΔHc(H2)] - ΔHc(CH4)
+= [(-394) + 2(-286)] - (-890)
+= -966 - (-890)
+= -76 kJ/mol
+```
+
+ΔH_f⦵(CH₄) = **−76 kJ/mol**. Combustion data given → elements and target
+compound go at the **top** of the cycle, combustion products at the
+**bottom**, since every substance can reach the same combustion products
+by a measurable route.
+
 ## Bond enthalpy calculations
 
 ```
@@ -77,6 +94,19 @@ delta-H = sum(bonds broken) - sum(bonds made)
 ```
 
 Bond enthalpies are **mean** values averaged across many compounds, so results are **approximate**. They also apply only to **gaseous** species, which is why a bond-enthalpy answer differs from the experimental value when liquids are involved — the enthalpy of vaporisation is unaccounted for.
+
+**Worked example.** Calculate ΔH for H₂(g) + Cl₂(g) → 2HCl(g), given bond
+enthalpies H–H = +436, Cl–Cl = +243, H–Cl = +432 (all kJ/mol).
+
+```
+bonds broken: 436 + 243 = 679 kJ/mol
+bonds made:   2 x 432 = 864 kJ/mol
+delta-H = 679 - 864 = -185 kJ/mol
+```
+
+Bond enthalpy values are always quoted **positive** (the energy needed to
+break that bond); the sign of the final answer comes from the
+subtraction, not from the individual values.
 
 ## Calorimetry
 

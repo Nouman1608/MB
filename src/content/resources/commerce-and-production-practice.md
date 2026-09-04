@@ -47,6 +47,16 @@ Related: [Commerce and Production revision notes](/resources/igcse-commerce-prod
 
 ---
 
+## Section C
+
+**7.** Distinguish between needs and wants, and explain the link between this distinction and the idea of opportunity cost. **[3]**
+
+**8.** Explain what is meant by *entrepot trade*, and give one reason a country might engage in it. **[3]**
+
+**9.** Tertiary production is divided into commercial services and direct personal services. Distinguish between them, giving **one** example of each. **[4]**
+
+---
+
 ## Answers
 
 **1.** Commerce is **trade together with the services that assist trade** — the distribution of goods and services from producer to consumer [1]. Its two branches are **trade** (buying and selling) [1] and **aids to trade** (the supporting services) [1].
@@ -63,6 +73,12 @@ They are interdependent because **secondary industry cannot operate without the 
 
 **6.** Any three, 2 marks each: **containerisation and air freight have cut transport costs and times**, making it economic to trade over long distances and to source components globally [1] [1]. **The internet allows producers to sell directly to consumers worldwide**, shortening the chain of distribution and opening markets to small firms [1] [1]. **Instant communication allows just-in-time stock control**, so firms hold less inventory and reduce warehousing costs [1] [1]. **Electronic banking has made international payment fast and secure**, reducing the risk of trading with distant customers [1] [1].
 
+**7.** **Needs** are essentials for survival, e.g. food, shelter and clothing [1]; **wants** are everything beyond that, and are effectively unlimited [1]. Because resources are finite while wants are not, choices must be made, and every choice carries an **opportunity cost** — the next best alternative given up [1].
+
+**8.** **Entrepot trade** is where goods are **imported into a country and then re-exported**, often after storage or minor processing, **without being consumed domestically** [1] [1]. A country may do this to profit from a **strategically located port**, earning income from storage, processing and re-export services even though the goods are never sold to its own consumers [1].
+
+**9.** **Commercial services** are aids to trade that help industry and commerce **function**, e.g. banking, insurance or transport [1] [1]. **Direct personal services** serve **people directly**, e.g. teachers, doctors or hairdressers [1] [1].
+
 ---
 
 ## Where marks are usually lost
@@ -71,3 +87,5 @@ They are interdependent because **secondary industry cannot operate without the 
 - Giving examples of the sectors without explaining interdependence.
 - Listing wholesaler functions without explaining the benefit to producer or retailer.
 - Confusing invisible trade with illegal or unrecorded trade.
+- Defining entrepot trade as simply "importing and exporting" — the mark requires stating that the goods are not consumed domestically.
+- Classing all services as one tertiary group, missing the commercial-services / direct-personal-services split.

@@ -85,6 +85,20 @@ y = ax^n  ->  dy/dx = anx^(n-1)
 
 **If `d²y/dx² = 0` the test is inconclusive** and you must check the sign of the gradient either side. That case appears precisely because the shortcut fails.
 
+**Differentiation from first principles** — using the limit definition of the derivative rather than the power rule directly — is examinable, though routine questions use the shortcut rule.
+
+**Worked example.** Find the coordinates and nature of the stationary point of y = x² − 8x + 3.
+
+```
+dy/dx = 2x - 8
+2x - 8 = 0  ->  x = 4
+y = 16 - 32 + 3 = -13   ->  (4, -13)
+
+d2y/dx2 = 2, positive  ->  minimum
+```
+
+Completing the square gives (x − 4)² − 13, confirming the same turning point — a quick, independent check worth doing when time allows.
+
 ## Integration
 
 ```
@@ -94,6 +108,18 @@ integral of ax^n = ax^(n+1)/(n+1) + c        n != -1
 **The `+ c` is a mark.** It cancels in a definite integral but is required in an indefinite one.
 
 **Area:** the integral gives a **signed** value, so regions below the x-axis integrate negative. For a total area, **split at the roots and take absolute values** — simply adding the signed integrals gives the wrong answer.
+
+**Worked example.** Find the area enclosed between y = x² − 4 and the x-axis, between x = −2 and x = 2.
+
+```
+integral of (x^2 - 4) dx = x^3/3 - 4x
+
+[8/3 - 8] - [-8/3 + 8] = -32/3
+
+signed integral = -32/3, so area = 32/3
+```
+
+The curve lies entirely below the axis on this interval, so the signed integral comes out negative — the **area is its magnitude**, 32/3.
 
 For the area between two curves, find the intersections first: they are the limits, and you integrate (upper − lower).
 

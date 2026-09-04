@@ -44,6 +44,16 @@ Related: [Rocks and Minerals revision notes](/resources/o-level-environmental-ma
 
 ---
 
+## Section C
+
+**7.** Distinguish between a **mineral** and a **reserve**. **[2]**
+
+**8.** A country reports copper ore reserves of 600 million tonnes and extracts 12 million tonnes a year. A newspaper claims "reserves will last exactly 50 years." Show this calculation, then explain why the claim is unreliable, giving **two** reasons. **[3]**
+
+**9.** Adit mining is a third extraction method, alongside open-cast and underground (shaft) mining. Describe what it involves and state **one** situation in which it is used. **[2]**
+
+---
+
 ## Answers
 
 **1. Igneous** — formed when **molten magma or lava cools and solidifies**; slow cooling underground gives large crystals, rapid cooling at the surface gives small ones [1] [1]. **Sedimentary** — formed when **sediment is deposited in layers, then compacted and cemented over long periods**; may contain fossils [1] [1]. **Metamorphic** — formed when existing rock is **altered by intense heat and/or pressure without melting**, which changes its texture and mineral structure [1] [1].
@@ -61,6 +71,12 @@ Related: [Rocks and Minerals revision notes](/resources/o-level-environmental-ma
 
 **6.** Any four, 2 marks each: **environmental impact assessment before permission is granted**, so damaging schemes are refused or modified [1] [1]; **progressive restoration** — replacing topsoil and replanting native species as sections are worked out, rather than waiting until closure [1] [1]; **treating waste water and containing tailings** in properly engineered and monitored dams before discharge [1] [1]; **reclaiming the site for a new use** — flooding a pit to create a lake for recreation and wildlife, or landscaping for agriculture, forestry or building land [1] [1]; **dust suppression by spraying and by covering conveyors**, and screening with earth banks and tree belts to reduce noise and visual impact [1] [1]; **recycling metals** so that less ore needs to be extracted in the first place [1] [1].
 
+**7.** A **mineral** is a substance obtained by mining [1]. A **reserve** is a known deposit not yet mined that could be extracted in future, counted only once extraction is **economically viable** [1].
+
+**8.** 600 ÷ 12 = **50 years** [1]. Unreliable because: the **extraction rate is unlikely to stay constant** — demand usually grows over time [1]; **and/or** continued **exploration may discover new deposits**, or rising prices may make lower-grade ore economically viable, both of which would increase the reserve figure [1].
+
+**9.** Adit mining drives a **near-horizontal passage into a hillside** to reach a seam [1]. It is used where a deposit is **exposed on a sloping hillside**, rather than lying flat near the surface or buried deep underground [1].
+
 ---
 
 ## Where marks are usually lost
@@ -69,3 +85,5 @@ Related: [Rocks and Minerals revision notes](/resources/o-level-environmental-ma
 - Giving advantages of open-cast mining without acknowledging the surface destruction.
 - Listing impacts without explaining the mechanism or the harm.
 - Describing restoration only as "planting trees".
+- Treating a reserves-divided-by-extraction-rate calculation as a reliable prediction, without stating what it assumes.
+- Forgetting adit mining as a distinct third method, alongside open-cast and underground mining.

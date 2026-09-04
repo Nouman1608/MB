@@ -55,6 +55,24 @@ Related: [Forces and Motion revision notes](/resources/forces-and-motion-revisio
 
 ---
 
+## Section C
+
+**8.** A skydiver jumps from a plane and falls, accelerating from rest.
+
+**(a)** Explain, in terms of the forces acting, why the skydiver's acceleration decreases as they speed up. **[3]**
+
+**(b)** State the name given to the constant speed eventually reached, and explain why speed remains constant after this point. **[2]**
+
+**9.** An object moves in a circular path at constant speed, held in the circle by a string.
+
+**(a)** State the direction of the resultant force acting on the object. **[1]**
+
+**(b)** The force applied increases, while the object's mass and the radius of the circle stay the same. State the effect, if any, on its speed. **[1]**
+
+**(c)** The object's mass increases, while its speed and the radius of the circle stay the same. State what must happen to the force required. **[1]**
+
+---
+
 ## Answers
 
 **1.** A **scalar has magnitude only**; a **vector has both magnitude and direction** [1]. Vectors: **force, weight, acceleration** [1] [1]. Scalars: **mass, speed** [1].
@@ -76,6 +94,16 @@ Related: [Forces and Motion revision notes](/resources/forces-and-motion-revisio
 **7. Thinking distance** is the distance travelled during the **driver's reaction time**, before the brakes are applied [1]. **Braking distance** is the distance travelled **while the brakes are decelerating the vehicle** [1]. **Stopping distance is the sum of the two** [1].
 Factor affecting thinking distance: **tiredness, alcohol, drugs or distraction**, all of which lengthen reaction time [1]. Factor affecting braking distance: **wet or icy roads, worn tyres or brakes, or a heavier load** [1].
 
+**8. (a)** As speed increases, **air resistance (drag) increases** [1]; weight stays constant, so the **resultant force decreases** [1], and since a = F ÷ m, **acceleration decreases** [1].
+
+**(b)** **Terminal velocity** [1]. Drag has increased until it **exactly balances weight**, so the resultant force is zero and, by Newton's first law, speed **remains constant** [1].
+
+**9. (a)** **Towards the centre** of the circle [1].
+
+**(b)** Speed **increases** [1].
+
+**(c)** The force required must **increase** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -84,3 +112,5 @@ Factor affecting thinking distance: **tiredness, alcohol, drugs or distraction**
 - Saying a constant driving force gives constant acceleration when air resistance is present.
 - Drawing a free-body diagram with forces acting on more than one object.
 - Saying speed affects thinking distance but not braking distance — it affects both.
+- Describing terminal velocity as the point where drag "overtakes" weight — at terminal velocity the two forces are exactly **balanced**, not one exceeding the other.
+- Quoting F = mv²/r for circular motion at this level — the syllabus requires only the three qualitative force/speed/radius/mass relationships, not the equation itself.

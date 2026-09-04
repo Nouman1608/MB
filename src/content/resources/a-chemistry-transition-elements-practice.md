@@ -76,6 +76,28 @@ Related: [Transition Elements revision notes](/resources/a-chemistry-transition-
 
 ---
 
+## Section C — further chemistry
+
+**9.** Aqueous sodium hydroxide is added to orange potassium dichromate(VI) solution, and the resulting solution is then treated with excess dilute sulfuric acid.
+
+**(a)** State the colour change observed at each stage. **[2]**
+
+**(b)** Name the two chromium(VI) species involved, and explain what causes the interconversion between them. **[2]**
+
+**10.** `[Ni(CN)₄]²⁻` is **square planar**, unlike most four-coordinate complexes.
+
+**(a)** State its coordination number. **[1]**
+
+**(b)** Give one other metal ion that commonly forms square planar, rather than tetrahedral, complexes. **[1]**
+
+**11.** A solution of `[Cu(H₂O)₆]²⁺` is treated first with excess aqueous ammonia, then with excess potassium cyanide solution.
+
+**(a)** State what is observed at each stage. **[2]**
+
+**(b)** Explain the overall pattern in terms of relative ligand strength. **[2]**
+
+---
+
 ## Answers
 
 **1.** A **d-block element** [1] that forms **one or more stable ions with a partially filled d subshell** [1].
@@ -111,6 +133,18 @@ Related: [Transition Elements revision notes](/resources/a-chemistry-transition-
 
 **(b)** **Mn²⁺** [1]. Transition elements have **variable oxidation states** [1], so the catalyst can be oxidised and reduced in turn, providing an alternative route of **lower activation energy** [1].
 
+**9. (a)** Orange turns **yellow** on adding NaOH [1]; adding excess H₂SO₄ turns it back to **orange** [1].
+
+**(b)** The species are **dichromate(VI), Cr₂O₇²⁻** (orange) and **chromate(VI), CrO₄²⁻** (yellow) [1]. OH⁻ shifts the equilibrium between them towards CrO₄²⁻, and excess H⁺ shifts it back towards Cr₂O₇²⁻ [1].
+
+**10. (a)** **4** [1].
+
+**(b)** **Pt²⁺** (e.g. in cisplatin) [1].
+
+**11. (a)** With excess ammonia, pale blue `[Cu(H₂O)₆]²⁺` turns **deep blue** as `[Cu(NH₃)₄(H₂O)₂]²⁺` forms [1]. Adding excess cyanide then displaces the ammine complex further [1].
+
+**(b)** Ligand strength increases in the order **Cl⁻ < H₂O < NH₃ < CN⁻** [1], so each successive, stronger ligand **displaces the weaker one already bound** to the central copper ion [1].
+
 ---
 
 ## Where marks are usually lost
@@ -120,3 +154,5 @@ Related: [Transition Elements revision notes](/resources/a-chemistry-transition-
 - Giving `[Cu(NH₃)₆]²⁺` instead of `[Cu(NH₃)₄(H₂O)₂]²⁺`.
 - Saying the colour seen **is** the colour absorbed — it is the complementary one.
 - Explaining the chelate effect by enthalpy rather than entropy.
+- Assuming all four-coordinate complexes are tetrahedral — small ligands on certain ions (notably Ni²⁺ and Pt²⁺ with CN⁻) give square planar geometry instead.
+- Forgetting the ligand-strength order (Cl⁻ < H₂O < NH₃ < CN⁻) when predicting which ligand displaces which in a stepwise substitution.

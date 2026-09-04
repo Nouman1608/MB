@@ -77,6 +77,21 @@ Related: [Quantum Physics revision notes](/resources/a-physics-quantum-physics-r
 
 ---
 
+## Section C
+
+**7.** An electron in a hydrogen atom transitions from the n = 3 level (E = −1.51 eV) to the n = 2 level (E = −3.40 eV).
+(h = 6.63 × 10⁻³⁴ J s; c = 3.00 × 10⁸ m s⁻¹; 1 eV = 1.60 × 10⁻¹⁹ J)
+
+**(a)** Calculate the energy of the photon emitted, in joules. **[2]**
+
+**(b)** Calculate the wavelength of this photon. **[2]**
+
+**(c)** State, with a reason, whether this photon lies within the visible spectrum. **[1]**
+
+**8.** Line spectra are cited as direct experimental evidence for discrete atomic energy levels. Explain why. **[2]**
+
+---
+
 ## Answers
 
 **1.** The **minimum energy required to remove an electron from the surface** of the metal [1].
@@ -106,6 +121,14 @@ KE_max = 4.97 × 10⁻¹⁹ − 3.68 × 10⁻¹⁹ = **1.29 × 10⁻¹⁹ J** [1
 
 **(c)** λ = h ÷ mv = 6.63 × 10⁻³⁴ ÷ (9.11 × 10⁻³¹ × 9.37 × 10⁶) [1] = **7.77 × 10⁻¹¹ m** [1].
 
+**7. (a)** ΔE = −1.51 − (−3.40) = 1.89 eV [1] = 1.89 × 1.60 × 10⁻¹⁹ = **3.02 × 10⁻¹⁹ J** [1].
+
+**(b)** λ = hc ÷ E = (6.63 × 10⁻³⁴ × 3.00 × 10⁸) ÷ 3.02 × 10⁻¹⁹ [1] = **6.59 × 10⁻⁷ m (659 nm)** [1].
+
+**(c)** **Yes** — 659 nm falls within the visible range (roughly 400–700 nm), appearing as a red spectral line [1].
+
+**8.** Only certain specific energy differences exist between the discrete levels available to an atom's electrons [1], so only photons with those specific energies (and hence specific frequencies/wavelengths) can be emitted or absorbed, producing sharp, separated lines rather than a continuous spread of colour [1].
+
 ---
 
 ## Where marks are usually lost
@@ -116,3 +139,4 @@ KE_max = 4.97 × 10⁻¹⁹ − 3.68 × 10⁻¹⁹ = **1.29 × 10⁻¹⁹ J** [1
 - Using λ rather than f in the photoelectric equation without converting.
 - Omitting the accumulation argument when criticising the wave model.
 - In electron–positron annihilation, explaining why two photons (not one) are produced by saying only that "the particles are annihilated" — the actual reason is momentum conservation: since the total initial momentum is zero, the two photons must carry equal and opposite momentum, travelling in opposite directions.
+- Confusing the two key quantum equations — hf = φ + KE_max applies only to the photoelectric effect, while hf = E₁ − E₂ applies only to energy-level transitions inside an atom; they describe different physical situations and are not interchangeable.

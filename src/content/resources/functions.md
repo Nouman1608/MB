@@ -59,7 +59,41 @@ f(4) = 3(4) − 5 = 7
 The **domain** of a function is the set of allowed inputs; the **range** is
 the resulting set of outputs. A **mapping diagram** shows this
 input-to-output relationship visually, with arrows connecting each domain
-value to its corresponding range value.
+value to its corresponding range value. A **one-to-one** function has
+exactly one arrow arriving at each range value; a **many-to-one**
+function can have two or more arrows arriving at the same range value.
+
+## Restrictions on the domain
+
+Some values must be **excluded** from the domain because they would make
+the function undefined:
+
+- If the function has a **denominator**, exclude any x that makes it
+zero.
+- If the function involves a **square root**, the expression inside must
+be **greater than or equal to zero**.
+
+**Worked example.** g(x) = 1/(x − 2). State the value excluded from the
+domain.
+
+```
+x − 2 = 0
+x = 2 must be excluded
+```
+
+The denominator is zero at x = 2, so g(2) is undefined — every other real
+number is a valid input.
+
+**Worked example.** h(x) = √(x − 3). State the restriction on the domain.
+
+```
+x − 3 >= 0
+x >= 3
+```
+
+The expression under the square root cannot be negative, so only inputs
+of 3 or more are valid — h(2) would require the square root of a
+negative number, which is not defined.
 
 ## Inverse functions
 
@@ -124,11 +158,17 @@ reciprocal of a function are entirely different things, despite the
 similar-looking notation.
 - **Attempting to find the domain/range of a composite function** — not
 required by this syllabus.
+- **Forgetting to exclude the value that makes a denominator zero**, or
+allowing a negative value under a square root, when stating a domain
+restriction.
 
 ## Quick revision checklist
 
 - Function notation f(x), and evaluating a function for a given input
-- Domain and range, and mapping diagrams
+- Domain and range, and mapping diagrams, including one-to-one versus
+many-to-one
+- Excluding a zero denominator or a negative value under a square root
+from the domain
 - Finding an inverse function: rearrange for x, then relabel
 - Composite functions: gf(x) = g(f(x)), applied innermost-function-first
 - Domain/range of composite functions is not required
