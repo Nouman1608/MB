@@ -22,6 +22,14 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Nuclear and Particle Physics study guide](/resources/edexcel-ial-physics-nuclear-and-particle-physics/).
 
+## Atomic structure and accelerators
+
+**Nucleon number** (mass number, A) is the total protons + neutrons; **proton number** (atomic number, Z) is protons only. **Thermionic emission** releases electrons from a heated material, which are then accelerated by electric and magnetic fields to feed accelerators like the linac and cyclotron.
+
+**Why high energies are needed:** resolving very small distances inside a nucleon requires very short associated wavelengths (via de Broglie), which correspond to high momentum and hence high particle energy.
+
+**Relativistic time dilation** can significantly increase a short-lived particle's *observed* lifetime as its speed approaches c — this is why some particles that should decay almost instantly are observed travelling measurable distances in accelerator experiments.
+
 ## The standard model
 
 **Quarks** (up, down, strange, charm, top, bottom) and **leptons** (electron, muon, tau and their neutrinos) are **fundamental**. Protons and neutrons are not.
@@ -43,6 +51,8 @@ neutron = udd      charge  (+2/3) + 2(-1/3) = 0
 | Gravitational | Graviton (hypothetical) | All mass |
 
 **Only the weak force changes quark flavour**, which is why it governs beta decay.
+
+**Antiparticles.** Every particle has a corresponding antiparticle whose properties — such as charge — are the exact opposite, deducible from (or used to deduce) the particle's own properties. The **symmetry of the standard model predicted the top quark's existence** before it was experimentally observed, a strong piece of evidence for the model itself.
 
 ## Conservation rules
 
@@ -92,5 +102,8 @@ Both release energy because both increase binding energy per nucleon. Being able
 3. What is the mass defect, and why does it exist?
 4. Why do both fission and fusion release energy?
 5. What limits a cyclotron at high speeds?
+6. Distinguish nucleon number from proton number.
+7. Why does relativistic time dilation matter for detecting short-lived particles?
+8. What did the symmetry of the standard model successfully predict, before it was confirmed experimentally?
 
-**Answers:** 1. Quarks and leptons; protons and neutrons are composite. 2. The weak force; it explains beta decay, where a down quark becomes an up quark or vice versa. 3. The difference between the mass of a nucleus and the total mass of its separate nucleons; it exists because energy was released when the nucleons bound together, and that energy came from mass. 4. Both move nuclei towards the peak of the binding energy per nucleon curve at around iron-56, increasing binding energy per nucleon and releasing the difference. 5. As the particle approaches the speed of light its mass increases, so the time to complete each semicircle is no longer constant and it loses synchronisation with the alternating supply.
+**Answers:** 1. Quarks and leptons; protons and neutrons are composite. 2. The weak force; it explains beta decay, where a down quark becomes an up quark or vice versa. 3. The difference between the mass of a nucleus and the total mass of its separate nucleons; it exists because energy was released when the nucleons bound together, and that energy came from mass. 4. Both move nuclei towards the peak of the binding energy per nucleon curve at around iron-56, increasing binding energy per nucleon and releasing the difference. 5. As the particle approaches the speed of light its mass increases, so the time to complete each semicircle is no longer constant and it loses synchronisation with the alternating supply. 6. Nucleon number (mass number) is the total number of protons and neutrons in a nucleus; proton number (atomic number) is the number of protons only. 7. It increases a fast-moving particle's observed lifetime, so particles that would otherwise decay almost instantly can travel measurable distances and be detected in accelerator experiments. 8. The existence of the top quark, before it was experimentally confirmed.

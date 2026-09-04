@@ -66,7 +66,7 @@ halogenoalkane + KCN in ethanol, heat under reflux  ->  nitrile
 aldehyde/ketone + HCN (with KCN catalyst)          ->  hydroxynitrile
 ```
 
-**Both routes add a carbon atom.** This is the key synthetic use of nitriles and the reason they appear in multi-step route questions: if the product has one more carbon than the starting material, a nitrile step is almost certainly required.
+**Both routes add a carbon atom.** This is the key synthetic use of nitriles and the reason they appear in multi-step route questions: if the product has one more carbon than the starting material, a nitrile step is almost certainly required — a pattern worth checking for before attempting a full multi-step synthesis route.
 
 **The solvent matters:** KCN in **ethanol** gives substitution to the nitrile; KCN in **aqueous** solution favours hydrolysis to the alcohol instead.
 
@@ -78,6 +78,12 @@ nitrile + LiAlH4 or H2/Ni          ->  primary amine
 ```
 
 So a nitrile is a branch point: hydrolyse it for an acid, reduce it for an amine — both one carbon longer than the original halogenoalkane.
+
+## Same nucleophile, different mechanism
+
+**Cyanide, CN⁻, is the nucleophile in both the nitrile and hydroxynitrile reactions — but the mechanism differs** because the carbon attacked is different. Attacking a halogenoalkane's sp³ carbon (bonded to a leaving group) is **substitution** — the halide leaves as CN⁻ arrives. Attacking a carbonyl's sp² carbon (no leaving group, just a π bond) is **addition** — nothing leaves; the π bond breaks and the oxygen becomes an alkoxide. Recognising a C–X bond versus a C=O bond tells you immediately which mechanism is expected.
+
+**Worked example.** Convert bromoethane into 2-hydroxypropanenitrile. Since a halogenoalkane cannot become a carbonyl compound directly, three steps are needed: (1) hydrolyse with NaOH(aq), heat, to give ethanol; (2) oxidise with acidified K₂Cr₂O₇ and distil, to give ethanal; (3) react the ethanal with HCN (KCN catalyst, heat) to give the hydroxynitrile, CH₃CH(OH)CN.
 
 ## The hydroxynitrile mechanism
 
@@ -103,5 +109,7 @@ Nucleophilic addition of CN⁻ to the carbonyl carbon, then protonation of the r
 3. Why must ammonia be in excess when preparing a primary amine?
 4. Why are nitriles important in synthesis?
 5. Why does HCN addition to a ketone give a racemic mixture?
+6. Why does CN⁻ give substitution with a halogenoalkane but addition with a carbonyl compound?
+7. Why does converting a halogenoalkane into a hydroxynitrile take three steps rather than two?
 
-**Answers:** 1. Two electron-donating alkyl groups increase the electron density on nitrogen, making the lone pair more available to accept a proton. 2. Its nitrogen lone pair is delocalised into the benzene ring, so it is much less available to accept a proton. 3. The primary amine formed is itself nucleophilic and reacts further to give secondary, tertiary and quaternary amines; excess ammonia reduces the chance of this. 4. They add a carbon atom to the chain, and can then be hydrolysed to a carboxylic acid or reduced to an amine. 5. The carbonyl carbon is planar, so the cyanide ion attacks with equal probability from either face, producing equal amounts of the two enantiomers.
+**Answers:** 1. Two electron-donating alkyl groups increase the electron density on nitrogen, making the lone pair more available to accept a proton. 2. Its nitrogen lone pair is delocalised into the benzene ring, so it is much less available to accept a proton. 3. The primary amine formed is itself nucleophilic and reacts further to give secondary, tertiary and quaternary amines; excess ammonia reduces the chance of this. 4. They add a carbon atom to the chain, and can then be hydrolysed to a carboxylic acid or reduced to an amine. 5. The carbonyl carbon is planar, so the cyanide ion attacks with equal probability from either face, producing equal amounts of the two enantiomers. 6. Mechanism depends on the substrate, not the nucleophile: a halogenoalkane has a leaving group at an sp³ carbon (substitution), while a carbonyl compound has a π bond to add across at an sp² carbon with nothing to leave (addition). 7. A halogenoalkane cannot be converted directly into a carbonyl compound, so it must first be hydrolysed to an alcohol, then oxidised to an aldehyde or ketone, before HCN can add to it.

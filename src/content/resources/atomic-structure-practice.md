@@ -66,6 +66,14 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 **(a)** Suggest one physical method the student could use to help decide, and state what result would indicate a mixture. **[2]**
 **(b)** State one way in which a mixture's composition differs from a compound's. **[1]**
 
+**9.** Write the isotope symbol notation for an atom of carbon-14 (mass number 14, proton number 6), and explain what each number represents. **[2]**
+
+**10.** Determine the electronic configuration of a potassium atom (proton number 19), and state which group and period it belongs to. **[3]**
+
+**11.** Sodium (proton number 11) has electronic configuration 2,8,1 as a neutral atom. Write the configuration of the sodium ion Na⁺, and explain the change. **[2]**
+
+**12.** Explain why Group VIII noble gases are unreactive, in terms of electronic configuration. **[2]**
+
 ---
 
 ## Answers
@@ -89,6 +97,14 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 **(b)** A mixture's composition can **vary** (not a fixed ratio), whereas a compound always has the **same fixed ratio** of its constituent elements [1].
 *Any other valid physical method (e.g. chromatography for a mixture of soluble substances) should be credited in (a).*
 
+**9.** **¹⁴₆C** [1]. The **top number (14)** is the mass number — protons plus neutrons; the **bottom number (6)** is the proton number — protons only, which identifies the element [1].
+
+**10.** 19 electrons: 2 + 8 + 8 = 18, leaving 1 electron in a fourth shell [1]. Configuration: **2,8,8,1** [1]. One outer-shell electron places it in **Group I**, and four occupied shells place it in **Period 4** [1].
+
+**11.** **2,8** [1]. The sodium atom has **lost one electron** to form the +1 ion; the number of protons — and therefore the element — stays the same [1].
+
+**12.** Noble gases have a **full outer shell** of electrons [1], so they have no tendency to gain, lose or share electrons in a chemical reaction, making them extremely unreactive [1].
+
 ---
 
 ## Where marks are usually lost
@@ -99,3 +115,5 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 - Averaging isotope masses without weighting by abundance.
 - Saying isotopes have different chemical properties because their mass differs.
 - In an "identify the isotope" question, picking an atom with a different proton number (a different element entirely) rather than one with the same proton number but a different mass number/neutron count.
+- Writing the mass number and proton number the wrong way round in isotope symbol notation.
+- Forgetting that removing an electron to form a positive ion never changes the proton number or the element.

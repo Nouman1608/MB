@@ -24,6 +24,8 @@ featured: false
 
 Related: [Reading and Writing revision notes](/resources/urdu-reading-and-writing-revision-notes/)
 
+Paper 1 is worth 60 marks across six exercises in 2 hours, with no dictionaries permitted; the two writing exercises (functional and extended writing) together carry 24 of those 60 marks, and both require the specified purpose, format and audience to be clearly reflected in the response.
+
 ---
 
 ## Section A — Grammar
@@ -47,6 +49,12 @@ Related: [Reading and Writing revision notes](/resources/urdu-reading-and-writin
 **5.** Summarise the passage in **about 40 words** in Urdu. **[6]**
 
 **6.** Write a letter of about 120 words to your younger brother advising him to use his time well. **[12]**
+
+**7.** This sentence is from a letter to a school principal: **"تم کل سکول کیوں نہیں آئے؟"** Identify the register error and give the corrected form. **[3]**
+
+**8.** Explain why the postposition **نے** is required in this sentence, and name the grammatical feature it marks: **لڑکے نے کتاب پڑھی۔** **[2]**
+
+**9.** Identify the postposition needed in each blank, and state what it expresses: (a) وہ سکول ___ گیا۔ (movement towards), (b) کتاب میز ___ ہے۔ (location on). **[2]**
 
 ---
 
@@ -79,6 +87,12 @@ Related: [Reading and Writing revision notes](/resources/urdu-reading-and-writin
 
 **Marking:** correct letter conventions — opening greeting, closing and signature [3]; appropriate informal register for a younger brother [2]; at least two specific pieces of advice, developed rather than listed [3]; range of vocabulary and connectives [2]; accuracy of gender and verb agreement [2].
 
+**7.** **تم** is the informal address, inappropriate for writing to a school principal, an authority figure who requires the formal register throughout [1]. Corrected: **"آپ کل سکول کیوں نہیں آئے؟"** [1], using **آپ** consistently in place of تم [1].
+
+**8.** **نے** is the **ergative postposition** [1], required because پڑھی is a **transitive verb in the perfective (completed past) tense** — Urdu marks the subject of such verbs with نے rather than leaving it unmarked [1].
+
+**9. (a)** **کو** — expressing motion towards a destination [1]. **(b)** **پر** — expressing location on a surface [1].
+
 ---
 
 ## Where marks are usually lost
@@ -87,3 +101,5 @@ Related: [Reading and Writing revision notes](/resources/urdu-reading-and-writin
 - Exceeding the word limit in the summary, which wastes time and gains nothing.
 - Omitting the letter conventions, which carry marks in their own right.
 - Giving advice as a bare list rather than explaining and persuading.
+- Using تم in a formal letter to an authority figure, or mixing تم and آپ within the same piece.
+- Forgetting the ergative نے with a transitive verb in the perfective tense.

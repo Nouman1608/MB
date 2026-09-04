@@ -31,7 +31,15 @@ Condensed for the final weeks. For the full explanation, use the
 | **Beta-plus** | Positron | +1 | Annihilates rapidly | Moderate |
 | **Gamma** | EM photon | 0 | Thick lead | **Weak** |
 
-**Ionising power and penetration are inversely related.** Alpha ionises strongly, therefore loses energy rapidly, therefore penetrates least. That causal chain — not two separate facts — is what a full answer states.
+**Ionising power and penetration are inversely related.** Alpha ionises strongly, therefore loses energy rapidly, therefore penetrates least. That causal chain — not two separate facts — is what a full answer states, and it is this same reasoning that examiners expect applied consistently across all three radiation types.
+
+## Binding energy, fusion and fission
+
+```
+Delta E = c^2 Delta m       (mass deficit -> energy released)
+```
+
+**Mass deficit** is the difference between the mass of separated nucleons and the mass of the assembled nucleus — that "missing" mass is released as **binding energy**. Small masses at this scale are expressed in the **atomic mass unit (u)**. Plotting binding energy per nucleon against nucleon number gives a curve peaking around **iron** — both **fusion** (combining light nuclei) and **fission** (splitting heavy nuclei) release energy because both move nuclei towards this more stable, higher binding-energy-per-nucleon region. Fusion needs very high density and temperature to overcome electrostatic repulsion between nuclei and bring them close enough for the strong nuclear force to act.
 
 ## Decay equations
 
@@ -65,7 +73,7 @@ Half-life is **unaffected by temperature, pressure or chemical state**, because 
 
 **Background radiation must be subtracted** from measured count rates before any half-life calculation. Sources: radon from rocks, cosmic rays, food and medical procedures.
 
-**The inverse square law** applies to gamma from a point source: `I ∝ 1/r²`. Doubling the distance quarters the intensity — which is why distance is such an effective safety measure.
+**The inverse square law** applies to gamma from a point source: `I ∝ 1/r²`. Doubling the distance quarters the intensity — which is why distance is such an effective safety measure. **CORE PRACTICAL 15** investigates the absorption of gamma radiation by lead, typically plotting count rate against absorber thickness.
 
 **Safety:** minimise **time**, maximise **distance**, use **shielding**. Store sources in lead-lined containers and handle with tongs.
 
@@ -91,5 +99,7 @@ Half-life is **unaffected by temperature, pressure or chemical state**, because 
 3. What does the decay constant represent?
 4. How do you obtain λ graphically from decay data?
 5. Why does a medical tracer need a short half-life and gamma emission?
+6. What causes mass deficit, and how does it relate to binding energy?
+7. A radioactive isotope has a decay constant of 0.0577 per year. Find its half-life, and the fraction of a sample remaining after 36 years.
 
-**Answers:** 1. Strongly ionising radiation transfers energy rapidly through many ionising interactions, so it loses energy quickly and cannot penetrate far; weakly ionising radiation interacts rarely and penetrates deeply. 2. Beta particles were emitted with a range of energies rather than a single value, which appeared to violate conservation of energy and momentum; an undetected particle carrying the balance was proposed. 3. The probability per unit time that any given nucleus will decay. 4. Plot ln A against t; the gradient is −λ. 5. Gamma penetrates the body so it can be detected externally, and a short half-life ensures the activity falls quickly so the patient's exposure is limited.
+**Answers:** 1. Strongly ionising radiation transfers energy rapidly through many ionising interactions, so it loses energy quickly and cannot penetrate far; weakly ionising radiation interacts rarely and penetrates deeply. 2. Beta particles were emitted with a range of energies rather than a single value, which appeared to violate conservation of energy and momentum; an undetected particle carrying the balance was proposed. 3. The probability per unit time that any given nucleus will decay. 4. Plot ln A against t; the gradient is −λ. 5. Gamma penetrates the body so it can be detected externally, and a short half-life ensures the activity falls quickly so the patient's exposure is limited. 6. Mass deficit is the difference between the mass of the separated nucleons and the mass of the assembled nucleus; that missing mass is released as binding energy via ΔE = c²Δm. 7. t½ = ln2 ÷ λ = 0.6931 ÷ 0.0577 = 12.0 years; 36 years = 3 half-lives, so the fraction remaining = (½)³ = 0.125 (12.5%).

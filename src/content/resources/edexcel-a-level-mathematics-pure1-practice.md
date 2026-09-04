@@ -53,6 +53,14 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 
 **7.** Solve the equation 2 sin²θ + 3 cos θ = 3 for 0° ≤ θ ≤ 360°. **[5]**
 
+**8.** Rationalise the denominator of 5/(3 + √2), giving your answer in the form (a + b√2)/c. **[3]**
+
+**9.** Find the set of values of k for which kx² + 4x + 1 is positive for all real x. **[3]**
+
+**10.** A triangle has a = 8, angle A = 30°, and side b = 12. Use the sine rule to find the two possible values of angle B, and explain why both are valid. **[4]**
+
+**11.** State the derivative of f(x) from first principles, using limit notation. **[2]**
+
 ---
 
 ## Answers
@@ -74,6 +82,14 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 
 **7.** Use sin²θ = 1 − cos²θ [1]: 2 − 2cos²θ + 3cos θ = 3 [1]; 2cos²θ − 3cos θ + 1 = 0 [1]; (2cos θ − 1)(cos θ − 1) = 0, so cos θ = ½ or cos θ = 1 [1]. θ = **60°, 300°, 0° and 360°** [1].
 
+**8.** Multiply by the conjugate: 5/(3 + √2) × (3 − √2)/(3 − √2) [1] = 5(3 − √2) ÷ (9 − 2) [1] = **(15 − 5√2)/7** [1].
+
+**9.** Requires **a > 0** (k > 0) [1] **and** discriminant < 0: 4² − 4(k)(1) < 0 [1], so 16 − 4k < 0, giving **k > 4** [1].
+
+**10.** sin B / b = sin A / a, so sin B = (12 × sin 30°) ÷ 8 = 6 ÷ 8 = 0.75 [1]. B = sin⁻¹(0.75) = **48.6°** [1] or the ambiguous-case alternative B = 180° − 48.6° = **131.4°** [1]. Both are valid since A + B stays below 180° in each case (30 + 48.6 and 30 + 131.4 are both under 180°) [1].
+
+**11.** f′(x) = lim(h→0) [f(x + h) − f(x)] / h [2].
+
 ---
 
 ## Where marks are usually lost
@@ -82,3 +98,6 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 - Using the original gradient rather than its negative reciprocal.
 - Not checking whether all solutions lie in the given interval.
 - Omitting the constant of integration in indefinite integrals (not needed here, but often penalised elsewhere).
+- Giving only the discriminant condition for "always positive", forgetting a > 0 is also required.
+- Missing the second, obtuse solution in an ambiguous-case sine rule question.
+- Writing the first-principles derivative without the limit notation.

@@ -36,7 +36,9 @@ v_max = omega A        a_max = omega^2 A
 omega = 2 pi f = 2 pi / T
 ```
 
-**The minus sign is the definition.** It encodes "towards equilibrium", and dropping it means you have not stated SHM.
+**The minus sign is the definition.** It encodes "towards equilibrium", and dropping it means you have not stated SHM. The underlying condition is **F = −kx**: the restoring force is directly proportional to displacement and directed towards equilibrium — this identifies which physical systems actually undergo SHM.
+
+**Worked example.** A 0.60 kg mass oscillates on a spring of constant 15 N/m, amplitude 0.080 m. T = 2π√(m/k) = 2π√(0.60/15) = 2π√0.04 = **1.26 s**. ω = 2π/T = **5.0 rad/s**. Maximum acceleration (at x = A): a_max = ω²A = 25 × 0.080 = **2.0 m/s²**.
 
 **Standard systems:**
 
@@ -80,11 +82,11 @@ Resistive forces remove energy, so amplitude decreases.
 
 **Critical damping is the fastest return, not the slowest.** It is used in car suspension and measuring instruments, precisely because overshoot and oscillation are undesirable.
 
-Damping reduces amplitude but has only a small effect on the natural frequency in the lightly damped case.
+Damping reduces amplitude but has only a small effect on the natural frequency in the lightly damped case. Plastic deformation of ductile materials within a real oscillating structure also dissipates energy, adding to damping's effect in reducing amplitude over successive cycles.
 
 ## Resonance
 
-**Resonance occurs when the driving frequency equals the natural frequency**, giving maximum amplitude and maximum energy transfer.
+A **free oscillation** happens at a system's own **natural frequency** with no external driving force; a **forced oscillation** is driven by an external periodic force, potentially at a different frequency. **Resonance occurs when the driving frequency equals the natural frequency**, giving maximum amplitude and maximum energy transfer. **CORE PRACTICAL 16** uses this relationship in reverse — determining an unknown mass from the resonant frequencies of oscillation of known masses.
 
 Increasing damping **reduces the peak amplitude** and makes the resonance curve **broader**, and shifts the peak slightly to a lower frequency.
 
@@ -106,5 +108,8 @@ Increasing damping **reduces the peak amplitude** and makes the resonance curve 
 3. What does the period of a pendulum depend on, and what does it not?
 4. Distinguish light, heavy and critical damping.
 5. What happens to a resonance curve as damping increases?
+6. State the condition, in terms of force, for a system to undergo SHM.
+7. A 0.60 kg mass oscillates on a spring of constant 15 N/m with amplitude 0.080 m. Calculate the period and the maximum acceleration.
+8. Distinguish a free oscillation from a forced oscillation.
 
-**Answers:** 1. Acceleration is proportional to displacement from equilibrium and is always directed towards the equilibrium position. 2. Velocity is maximum at the equilibrium position where displacement is zero; acceleration is maximum at maximum displacement. 3. It depends on length and gravitational field strength; it does not depend on amplitude (for small angles) or on the mass of the bob. 4. Light damping gives a slowly decaying oscillation; heavy damping returns to equilibrium slowly without oscillating; critical damping returns in the shortest time without overshooting. 5. The peak amplitude falls, the curve becomes broader, and the peak shifts slightly to a lower frequency.
+**Answers:** 1. Acceleration is proportional to displacement from equilibrium and is always directed towards the equilibrium position. 2. Velocity is maximum at the equilibrium position where displacement is zero; acceleration is maximum at maximum displacement. 3. It depends on length and gravitational field strength; it does not depend on amplitude (for small angles) or on the mass of the bob. 4. Light damping gives a slowly decaying oscillation; heavy damping returns to equilibrium slowly without oscillating; critical damping returns in the shortest time without overshooting. 5. The peak amplitude falls, the curve becomes broader, and the peak shifts slightly to a lower frequency. 6. F = −kx — the restoring force is directly proportional to displacement and directed towards equilibrium. 7. T = 2π√(0.60/15) = 1.26 s; ω = 2π/T = 5.0 rad/s; a_max = ω²A = 25 × 0.080 = 2.0 m/s². 8. A free oscillation occurs at the system's own natural frequency with no external driving force; a forced oscillation is driven by an external periodic force, possibly at a different frequency.

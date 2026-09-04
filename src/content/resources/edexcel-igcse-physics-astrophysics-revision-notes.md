@@ -45,6 +45,8 @@ orbital speed  v = 2 pi r / T
 
 **Gravity provides the centripetal force** for any orbit. A more distant planet has a weaker gravitational field, so it orbits more slowly and has a longer period.
 
+**Worked example.** A satellite orbits Earth at radius 8,000 km with a period of 7,200 s. v = 2πr/T = (2π × 8,000,000) ÷ 7,200 ≈ **6,980 m/s**.
+
 ## Stellar life cycles
 
 **A star like the Sun:**
@@ -60,6 +62,8 @@ nebula -> protostar -> main sequence -> red supergiant -> SUPERNOVA -> neutron s
 ```
 
 **Mass determines the fate.** That is the single organising fact of the topic.
+
+**Stars are classified by colour**, which relates directly to surface temperature — hotter stars appear blue/white, cooler stars appear red. **Absolute magnitude** is how bright a star would appear at a standard distance, allowing fair comparisons between stars at very different actual distances — don't confuse it with **apparent brightness**, how bright a star actually looks from Earth, which also depends on distance. The **Hertzsprung-Russell (HR) diagram** plots stars by temperature against luminosity, revealing patterns such as the main sequence band.
 
 **Why a main sequence star is stable:** the **inward gravitational force balances the outward pressure** from the energy released by nuclear fusion. When the hydrogen runs out, fusion slows, the outward pressure falls, and gravity wins — which is what drives the next stage.
 
@@ -77,6 +81,8 @@ nebula -> protostar -> main sequence -> red supergiant -> SUPERNOVA -> neutron s
 Together these mean the **universe is expanding**, and therefore was smaller and denser in the past — the Big Bang.
 
 **This does not put Earth at the centre.** Space itself is expanding, so an observer in any galaxy would see exactly the same pattern. Saying so explicitly is what separates a full answer.
+
+**The redshift equation:** Δλ/λ₀ = v/c, where Δλ is the change in wavelength, λ₀ the reference wavelength, v the galaxy's recession speed, and c the speed of light. **Worked example.** A spectral line at a reference wavelength of 500 nm is observed shifted to 500.5 nm. v = cΔλ/λ₀ = (3.0 × 10⁸ × 0.5) ÷ 500 = **3.0 × 10⁵ m/s**.
 
 **Cosmic microwave background radiation (CMBR)** is the strongest supporting evidence — the cooled remnant of the radiation from the hot early universe, now found uniformly in all directions. **Only the Big Bang model explains it**, which is why it settled the debate against the steady state theory.
 
@@ -96,5 +102,7 @@ Together these mean the **universe is expanding**, and therefore was smaller and
 3. What determines whether a star ends as a white dwarf or a black hole?
 4. Why is a main sequence star stable?
 5. What two observations show the universe is expanding, and why does that not place us at the centre?
+6. Distinguish absolute magnitude from apparent brightness.
+7. A spectral line at reference wavelength 600 nm is observed shifted to 600.6 nm. Calculate the galaxy's recession speed.
 
-**Answers:** 1. As it approaches the Sun its gravitational potential energy is converted into kinetic energy, so its speed increases. 2. The gravitational attraction between the orbiting body and the body it orbits. 3. Its mass — Sun-like stars become white dwarfs, while much more massive stars end as neutron stars or black holes after a supernova. 4. The inward gravitational force is balanced by the outward pressure produced by the energy released in nuclear fusion. 5. Almost all galaxies are redshifted, and more distant ones show greater redshift; space itself is expanding, so every observer in every galaxy would see the same pattern.
+**Answers:** 1. As it approaches the Sun its gravitational potential energy is converted into kinetic energy, so its speed increases. 2. The gravitational attraction between the orbiting body and the body it orbits. 3. Its mass — Sun-like stars become white dwarfs, while much more massive stars end as neutron stars or black holes after a supernova. 4. The inward gravitational force is balanced by the outward pressure produced by the energy released in nuclear fusion. 5. Almost all galaxies are redshifted, and more distant ones show greater redshift; space itself is expanding, so every observer in every galaxy would see the same pattern. 6. Absolute magnitude is how bright a star would appear at a standard distance, allowing fair comparison between stars; apparent brightness is how bright it actually looks from Earth, which also depends on how far away it is. 7. v = cΔλ/λ₀ = (3.0 × 10⁸ × 0.6) ÷ 600 = 3.0 × 10⁵ m/s.

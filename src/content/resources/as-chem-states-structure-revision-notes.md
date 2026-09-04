@@ -44,6 +44,8 @@ Combined with n = m/M, this gives a route to **relative molecular mass** from ex
 M = m R T / (p V)
 ```
 
+**Worked example.** A 4.40 g sample of gas occupies 2.24 dm³ at 101 kPa and 273 K. Convert to SI: V = 2.24 × 10⁻³ m³, p = 101 000 Pa. n = pV/RT = (101 000 × 2.24 × 10⁻³) ÷ (8.31 × 273) ≈ 0.0997 mol. Mr = mass ÷ n = 4.40 ÷ 0.0997 ≈ **44 g mol⁻¹** (consistent with CO₂).
+
 ## Assumptions of an ideal gas
 
 1. Particles have **negligible volume** compared with the container.
@@ -66,6 +68,8 @@ Gases behave most ideally at **low pressure and high temperature**. Gases with l
 |---|---|---|---|---|---|
 | **Giant ionic** | Ions | Strong electrostatic attraction | High | Only molten/aqueous | Often soluble in water |
 | **Simple molecular** | Molecules | **Weak intermolecular forces only** | Low | No | Soluble in non-polar solvents |
+
+**Ice is a special case** worth naming: it's held together by **hydrogen bonding** rather than just van der Waals forces, giving it an unusually open structure — which is why ice is less dense than liquid water and floats.
 | **Giant covalent** | Atoms | Many strong covalent bonds | Very high | No (except graphite) | Insoluble |
 | **Giant metallic** | Ions + delocalised electrons | Attraction of ions to electron sea | High | Yes, solid and molten | Insoluble |
 
@@ -84,6 +88,10 @@ Melting a simple molecular solid overcomes only the **intermolecular forces** �
 | Conducts | No | **Yes** — one delocalised electron per atom |
 | Hardness | Hardest natural substance | Soft, layers slide |
 
+## Deducing structure from properties
+
+**Worked example.** An unknown white solid has a very high melting point, does not conduct as a solid, but conducts well once molten, and dissolves readily in water. A high melting point rules out simple molecular. Conducting only when molten (not as a solid) rules out giant metallic (conducts in both states) and giant molecular (except graphite, doesn't conduct at all). Conducting when molten plus water solubility is the signature of mobile ions — **the solid is giant ionic.**
+
 ## Exam traps
 
 - Mixing units in pV = nRT — the single largest source of lost marks here.
@@ -99,5 +107,7 @@ Melting a simple molecular solid overcomes only the **intermolecular forces** �
 3. Under what conditions do real gases deviate most, and why?
 4. Why does iodine have a much lower melting point than diamond?
 5. Explain why graphite conducts electricity but diamond does not.
+6. A gas sample of mass 4.40 g occupies 2.24 dm³ at 101 kPa and 273 K. Calculate its Mr.
+7. An unknown white solid has a very high melting point, doesn't conduct as a solid, conducts when molten, and dissolves in water. Deduce its structure type.
 
-**Answers:** 1. pV = nRT, with p in Pa, V in m³, n in mol, T in K, R = 8.31 J K⁻¹ mol⁻¹. 2. Any two: negligible particle volume; no intermolecular forces; perfectly elastic collisions; constant random motion. 3. High pressure and low temperature — particle volume becomes significant relative to the container, and intermolecular attractions are no longer negligible. 4. Iodine is simple molecular, so melting overcomes only weak intermolecular forces; diamond is giant covalent, requiring many strong covalent bonds to be broken. 5. Each carbon in graphite bonds to only three others, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in covalent bonds.
+**Answers:** 1. pV = nRT, with p in Pa, V in m³, n in mol, T in K, R = 8.31 J K⁻¹ mol⁻¹. 2. Any two: negligible particle volume; no intermolecular forces; perfectly elastic collisions; constant random motion. 3. High pressure and low temperature — particle volume becomes significant relative to the container, and intermolecular attractions are no longer negligible. 4. Iodine is simple molecular, so melting overcomes only weak intermolecular forces; diamond is giant covalent, requiring many strong covalent bonds to be broken. 5. Each carbon in graphite bonds to only three others, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in covalent bonds. 6. n = pV/RT = (101 000 × 2.24 × 10⁻³) ÷ (8.31 × 273) ≈ 0.0997 mol; Mr = 4.40 ÷ 0.0997 ≈ 44 g mol⁻¹. 7. Giant ionic — a high melting point rules out simple molecular, conducting only when molten rules out giant metallic and giant molecular, and water solubility plus molten conductivity signals mobile ions being released.

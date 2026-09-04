@@ -23,11 +23,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## The eight characteristics of living organisms
 
-**Nutrition, respiration, excretion, growth, movement, control (sensitivity), reproduction**, and Edexcel adds **the requirement for materials from the environment**.
+**Nutrition, respiration, excretion, growth, movement, control (sensitivity), reproduction**, and Edexcel adds **the requirement for materials from the environment**. The standard mnemonic is **MRS GREN** — Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition, Control of internal conditions.
 
 The two definitions that decide marks:
 
-- **Excretion** — removal of the **waste products of metabolism**, substances the body itself produced. Egestion is undigested food leaving the gut; it was never absorbed, so it is not excretion.
+- **Excretion** — removal of the **waste products of metabolism**, substances the body itself produced. Egestion is undigested food leaving the gut; it was never absorbed, so it is not excretion, since it was never part of the organism's own metabolism in the first place.
 - **Growth** — a **permanent** increase in size and **dry mass**. Taking up water increases mass without being growth.
 
 ## The five kingdoms
@@ -40,11 +40,11 @@ The two definitions that decide marks:
 | **Protoctists** | Microscopic, single-celled, **has a nucleus**; some plant-like, some animal-like | *Amoeba*, *Chlorella*, *Plasmodium* |
 | **Prokaryotes** | Single-celled, **no nucleus**, circular DNA and plasmids | *Lactobacillus*, *Pneumococcus* |
 
-**Saprotrophic nutrition** is the fungal method and must be described in the right order: enzymes are **secreted onto** the food, digestion happens **outside** the organism, and the soluble products are then **absorbed**. Extracellular digestion first, absorption second.
+**Saprotrophic nutrition** is the fungal method and must be described in the right order: enzymes are **secreted onto** the food, digestion happens **outside** the organism, and the soluble products are then **absorbed**. Extracellular digestion first, absorption second. Fungi and bacteria acting this way as decomposers are ecologically important: they **break down dead organisms and waste**, releasing mineral ions back into the soil for plants to reabsorb, so nutrients are recycled through the ecosystem rather than being lost.
 
 ## Storage compounds
 
-Plants store **starch and sucrose**. Animals and fungi store **glycogen**. This distinction is examined more often than students expect.
+Plants store **starch and sucrose**. Animals and fungi store **glycogen**. This distinction is examined more often than students expect, and is easy to mix up since fungi are often assumed — incorrectly — to store starch alongside plants simply because both are non-animal kingdoms.
 
 ## Pathogens
 
@@ -59,6 +59,8 @@ Not a kingdom, but a category — organisms that cause disease.
 
 **Viruses are not classed as living**, because they can only reproduce inside a host cell and show none of the characteristics of life independently. They have no cytoplasm and no organelles — only genetic material inside a protein coat. This is a favourite question and the reason must be given, not just the statement.
 
+**Pathogen vs vector.** Don't confuse the two: the **pathogen** is the disease-causing organism itself (e.g. *Plasmodium*, which causes malaria), while a **vector** is the organism that carries and transmits it (the mosquito). The mosquito is not the pathogen — it is the transport mechanism.
+
 ## Levels of organisation
 
 ```
@@ -68,6 +70,8 @@ organelle -> cell -> tissue -> organ -> organ system -> organism
 - **Tissue** — a group of cells with **similar** structure and function.
 - **Organ** — a group of **different tissues** performing a specific function.
 - **Organ system** — a group of organs with related functions.
+
+**Concrete example (digestive system):** glandular tissue in the stomach lining (secretes digestive enzymes) is a **tissue**; the stomach itself, made of glandular, muscular and epithelial tissue working together, is an **organ**; the stomach plus small intestine, large intestine and associated glands together form the **digestive system**, an **organ system**.
 
 ## Exam traps
 
@@ -86,5 +90,7 @@ organelle -> cell -> tissue -> organ -> organ system -> organism
 3. Describe saprotrophic nutrition in the correct order.
 4. Why are viruses not classed as living organisms?
 5. What do plants store, and what do animals and fungi store?
+6. Explain why decomposers are ecologically important.
+7. Distinguish a pathogen from a vector, using malaria as an example.
 
-**Answers:** 1. Excretion is the removal of the waste products of metabolism produced by the organism itself; egestion is the removal of undigested food that was never absorbed. 2. A body of hyphae forming a mycelium; a cell wall made of chitin; saprotrophic nutrition and glycogen storage; no chloroplasts — any three. 3. Enzymes are secreted onto the food material, digestion occurs outside the organism, and the soluble products are absorbed. 4. They have no cellular structure — no cytoplasm or organelles — and can only reproduce inside a living host cell, so they do not carry out the characteristics of life independently. 5. Plants store starch and sucrose; animals and fungi store glycogen.
+**Answers:** 1. Excretion is the removal of the waste products of metabolism produced by the organism itself; egestion is the removal of undigested food that was never absorbed. 2. A body of hyphae forming a mycelium; a cell wall made of chitin; saprotrophic nutrition and glycogen storage; no chloroplasts — any three. 3. Enzymes are secreted onto the food material, digestion occurs outside the organism, and the soluble products are absorbed. 4. They have no cellular structure — no cytoplasm or organelles — and can only reproduce inside a living host cell, so they do not carry out the characteristics of life independently. 5. Plants store starch and sucrose; animals and fungi store glycogen. 6. They break down dead organisms and waste, releasing mineral ions back into the soil so nutrients are recycled rather than lost from the ecosystem. 7. Plasmodium is the pathogen that actually causes malaria; the mosquito is the vector that carries and transmits it between hosts, not the disease-causing organism itself.
