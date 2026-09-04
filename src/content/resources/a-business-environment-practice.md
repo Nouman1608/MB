@@ -43,6 +43,12 @@ Related: [Business and Its Environment revision notes](/resources/a-business-env
 
 **6.** Evaluate the extent to which a business can control its external environment. **[12]**
 
+## Section C
+
+**7.** State **three** qualities or skills that make entrepreneurial success more likely, and explain why each matters. **[6]**
+
+**8.** Explain how a business's objectives typically change as it develops from a start-up to an established firm. **[6]**
+
 ---
 
 ## Answers
@@ -63,6 +69,10 @@ Related: [Business and Its Environment revision notes](/resources/a-business-env
 **6. Arguments that a business has little control:** macro factors such as **interest rates, exchange rates, recessions and demographic change are determined outside the firm** [1]; **legislation is imposed by government** and must simply be complied with [1]; even very large firms are **price takers in commodity and currency markets** [1].
 **Arguments that a business has some control:** it can **influence** rather than control — large firms **lobby government** and shape regulation in their favour [1]; it can **shape consumer tastes through advertising and product innovation** rather than merely responding to them [1]; it can **reduce its exposure**: hedging currency risk with forward contracts, diversifying markets so no single economy dominates, and holding cash reserves to survive downturns [1] [1]; a technologically dominant firm can **create the market it then operates in** [1].
 **Judgement:** a business **cannot control the external environment, but it can substantially control its exposure to it** [1]. The extent of influence depends on **the firm's size and market power, and on which factor is in question** [1] — a multinational can meaningfully influence regulation and consumer taste, while a small firm can realistically only forecast, hedge and adapt [1] [1].
+
+**7.** Any three, 2 marks each: **opportunity recognition** — spotting a gap in the market or an unmet need before others do is the starting point for any viable business idea [1] [1]; **the ability to secure and manage finance** — without adequate funding and disciplined cash-flow control, a business cannot survive its early, most vulnerable period [1] [1]; **resilience in the face of setbacks** — early rejection and failure are common, and the entrepreneur must adapt and continue rather than give up at the first difficulty [1] [1]; **the capacity to plan and adapt the business idea as circumstances change** — markets shift, and an idea that cannot evolve with them is unlikely to survive [1] [1].
+
+**8.** A **new business** typically prioritises **survival**, since cash flow and building an initial customer base are the most immediate threats to its continuation [1] [1]. An **established, profitable business** can instead prioritise **growth, profit maximisation, or increasing market share**, since survival is no longer the immediate concern [1] [1]. Some businesses, particularly those under strong stakeholder pressure or led by founders with strong values, adopt objectives centred on **social or environmental responsibility**, even at some cost to short-term profit [1] [1].
 
 ---
 

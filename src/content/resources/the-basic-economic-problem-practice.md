@@ -47,6 +47,12 @@ Related: [The Basic Economic Problem revision notes](/resources/igcse-economics-
 
 **7.** Explain the difference between economic growth and an increase in the productive capacity of an economy, using the production possibility curve. **[4]**
 
+## Section C
+
+**8.** Distinguish between the primary, secondary and tertiary sectors of the economy, giving **one** example of each. **[6]**
+
+**9.** Explain how the balance between these three sectors typically changes as a country develops. **[3]**
+
 ---
 
 ## Answers
@@ -68,6 +74,10 @@ Related: [The Basic Economic Problem revision notes](/resources/igcse-economics-
 
 **7.** An **increase in productive capacity** is shown by an **outward shift of the whole production possibility curve**, caused by more or better resources or improved technology [1] [1]. **Economic growth** in the short run can also occur by **moving from a point inside the curve towards it**, simply by using existing idle resources more fully [1]. Only the shift represents a **permanent increase in what the economy is capable of producing** [1].
 
+**8. Primary sector** — extracting raw materials directly from the earth, e.g. **farming, mining or fishing** [1] [1]. **Secondary sector** — manufacturing and construction, turning raw materials into finished or semi-finished goods, e.g. **car manufacturing or construction** [1] [1]. **Tertiary sector** — providing services rather than physical goods, e.g. **retail, banking or tourism** [1] [1].
+
+**9.** As a country develops, the **primary sector typically shrinks** as a share of output and employment, while the **tertiary sector grows** [1] [1] — reflecting both rising incomes, which increase demand for services, and improved technology and productivity in agriculture and extraction, which need fewer workers to produce the same output [1].
+
 ---
 
 ## Where marks are usually lost
@@ -76,3 +86,4 @@ Related: [The Basic Economic Problem revision notes](/resources/igcse-economics-
 - Saying a free good is one the government provides free.
 - Describing economic systems without addressing both "what" and "how".
 - Confusing a movement towards the PPC with a shift of it.
+- Naming a sector without giving a specific example, or giving an example that actually belongs to a different sector (e.g. describing a bakery selling bread as "primary" rather than secondary).

@@ -77,6 +77,12 @@ Related: [Transition Elements: Colour, Stereoisomerism and Stability Constants r
 
 **(c)** State and explain what a very large value of Kstab indicates about the position of this equilibrium. **[2]**
 
+## Section C
+
+**9.** Cisplatin, `[Pt(NH₃)₂Cl₂]`, is used as an anti-cancer drug. State which geometrical isomer, *cis* or *trans*, is the active drug, and explain, in terms of polarity, one reason why this isomer is effective while the other is not. **[3]**
+
+**10.** Adding excess aqueous ammonia to a solution of `[Cu(H₂O)₆]²⁺` causes a ligand exchange reaction, forming `[Cu(NH₃)₄(H₂O)₂]²⁺`. Explain, in terms of Kstab, why this ligand exchange occurs. **[3]**
+
 ---
 
 ## Answers
@@ -109,6 +115,10 @@ Related: [Transition Elements: Colour, Stereoisomerism and Stability Constants r
 **(b)** [NH₃]² = 0.200² = 0.0400 [1]. [Ag⁺] = 0.0400 ÷ (1.7 × 10⁷ × 0.0400) = 0.0400 ÷ (6.8 × 10⁵) [1] = **5.9 × 10⁻⁸ mol dm⁻³** [1].
 
 **(c)** A large Kstab means the equilibrium lies **strongly towards the complex** [1] — the ammine complex is **much more thermodynamically stable** than the free Ag⁺ ion, so almost all the silver is present as `[Ag(NH₃)₂]⁺` at equilibrium [1].
+
+**9.** The ***cis*** isomer is the active drug [1]. The *cis* isomer is **polar**, since its two Cl and two NH₃ ligands are not positioned symmetrically opposite each other, so the bond dipoles do **not cancel** [1]; this polarity (and the resulting shape) allows it to bind effectively to DNA, whereas the *trans* isomer's **symmetric, non-polar** structure does not bind in the same way and so is not effective as a drug [1].
+
+**10.** Kstab for the ammine complex, `[Cu(NH₃)₄(H₂O)₂]²⁺`, is **much larger** than Kstab for the aqua complex [1], meaning the ammine complex is **more thermodynamically stable** [1]; because NH₃ binds more strongly than H₂O, once enough NH₃ is available the equilibrium shifts strongly towards the ammine complex, **displacing water** from the coordination sphere [1].
 
 ---
 

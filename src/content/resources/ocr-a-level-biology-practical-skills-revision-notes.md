@@ -87,6 +87,36 @@ Generic answers such as "be more careful" or "repeat it" score nothing on their 
 
 Risk assessments must state the **hazard**, the **risk**, and the **control measure** — three separate things. "Wear goggles" alone is not a risk assessment.
 
+## Microscopy and magnification
+
+**Calibrating an eyepiece graticule** against a stage micrometer converts arbitrary graticule divisions into real lengths at each objective magnification used.
+
+```
+magnification = image size / actual size
+```
+
+Biological drawings should use **clear, continuous lines** with **no shading**, be drawn **to a stated magnification or scale**, use **label lines that do not cross**, and show **only what is actually visible** in the specimen — not what is expected to be there.
+
+## Quantitative techniques
+
+**Serial dilution** produces a known concentration range from a single stock solution — a tenfold series is made by transferring 1 cm³ into 9 cm³ of solvent at each step.
+
+**Colorimetry** measures absorbance or transmission; a **calibration curve** made from solutions of known concentration allows an unknown concentration to be read off.
+
+**Rate** is usually calculated as **1/time**, where time is measured to a fixed end point, or from the **initial gradient of a tangent** to a curve when the reaction slows over the course of the experiment — the initial rate is used because substrate concentration is highest, and least changed, at the very start.
+
+## Choosing a statistical test
+
+Choosing the right test is examined as often as performing it:
+
+| Purpose | Test |
+|---|---|
+| Difference between two means, normally distributed data | t-test |
+| Association between two variables | correlation coefficient |
+| Observed versus expected frequencies | chi-squared |
+
+Compare the calculated value with the **critical value at p = 0.05**. If the calculated value **exceeds** the critical value, the result is **significant** and the **null hypothesis is rejected** — meaning there is **less than a 5% probability** the difference or association is due to chance.
+
 ## Exam traps
 
 - Swapping accuracy and precision.

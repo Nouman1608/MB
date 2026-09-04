@@ -98,6 +98,35 @@ points (maxima and minima) by calculus
 - E2.13 Functions — using function notation; understanding and
 finding the composite function fg and the inverse function f⁻¹
 
+## Worked examples
+
+**Solving a quadratic by factorisation.** Solve x² + 5x + 6 = 0.
+
+```
+x^2 + 5x + 6 = 0
+(x + 2)(x + 3) = 0
+x = -2  or  x = -3
+```
+
+**Solving simultaneous linear equations.** Solve 2x + y = 7 and x − y = 2.
+
+```
+Adding the two equations eliminates y:
+(2x + y) + (x - y) = 7 + 2
+3x = 9,  so x = 3
+
+Substituting back: 2(3) + y = 7, so y = 1
+```
+
+**Finding the nth term of a linear sequence.** Find the nth term of 5, 8, 11, 14, ...
+
+```
+Differences: 3, 3, 3 -- constant, so the sequence is linear: an + b
+a = 3 (the common difference)
+When n = 1, the term is 5, so 3(1) + b = 5, giving b = 2
+nth term = 3n + 2
+```
+
 ## How to approach it
 
 Treat C2.2 (algebraic manipulation) as the foundation to fix before

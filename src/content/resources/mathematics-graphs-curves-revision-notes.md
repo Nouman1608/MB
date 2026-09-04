@@ -38,6 +38,12 @@ Condensed for the final weeks. For the full explanation, use the
 
 **The highest power tells you the shape** before you plot a single point. That single habit prevents most sketching errors.
 
+## Exponential growth and decay
+
+Graphs of the form `y = ab^x + c` show **exponential growth** when `b > 1`, and **exponential decay** when `0 < b < 1`. Typical real-world contexts: **population growth** and **compound interest** (growth); **radioactive decay** and **depreciation** (decay).
+
+The curve approaches, but never quite reaches, a **horizontal asymptote at y = c** as x becomes very large (growth) or very negative (decay) — when c = 0, this is simply the x-axis, but a shifted exponential can level off at any horizontal line.
+
 ## Straight lines
 
 ```
@@ -87,6 +93,8 @@ To solve `f(x) = k`, draw the horizontal line `y = k` and read off where it meet
 Often a question gives you a drawn curve and asks you to solve a different equation. **Rearrange the new equation so one side matches the drawn curve** — whatever remains is the line you must add.
 
 The answer is always the **x-coordinate**, not the coordinate pair.
+
+**Worked example.** To solve x³ + x − 4 = 0 graphically, plot y = x³ + x − 4 and read off the x-value where the curve crosses the x-axis — that x-value is the root of the equation, since setting y = 0 recovers the original equation exactly.
 
 ## Gradient of a curve
 

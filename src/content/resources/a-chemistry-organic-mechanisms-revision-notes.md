@@ -29,6 +29,21 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Organic Chemistry: Naming, Mechanisms and Aromatic Shape study guide](/resources/a-organic-chemistry-naming-mechanisms-and-aromatic-shape/).
 
+## New functional groups and naming at A Level
+
+Five functional groups appear for the first time at A Level:
+
+| Functional group | Example | Name |
+|---|---|---|
+| Arene (benzene ring) | C₆H₆ | benzene |
+| Halogenoarene | C₆H₅Cl | chlorobenzene |
+| Phenol | C₆H₅OH | phenol |
+| Acyl chloride | CH₃CH₂COCl | propanoyl chloride |
+| Amide | CH₃CH₂CONH₂ | propanamide |
+| Amino acid | HOOCCH(NH₂)H | 2-aminoethanoic acid |
+
+**Aromatic naming** adds numbering around the ring to locate substituents, e.g. **3-nitrobenzoic acid** (a benzoic acid with a nitro group at position 3) or **2,4,6-tribromophenol** (a phenol with bromine at positions 2, 4 and 6). Secondary and tertiary amines can be recognised and drawn, but naming them systematically is not required at this level.
+
 ## Curly-arrow rules — non-negotiable
 
 1. An arrow shows the movement of a **pair of electrons** (a half-arrow shows one electron, in radical mechanisms).
@@ -106,5 +121,6 @@ Every one proceeds by the same three-step pattern: generate the electrophile, at
 3. Which halogenoalkane hydrolyses fastest and why?
 4. Give three pieces of evidence for delocalisation in benzene.
 5. What is the final step of every electrophilic substitution on benzene?
+6. Name the six functional groups introduced for the first time at A Level.
 
-**Answers:** 1. Arrows represent a pair of electrons; they start from a bond or lone pair, never an atom or charge; charges must balance. 2. An alkene's localised π bond is expendable and addition gains two σ bonds; benzene's delocalised system confers extra stability that addition would destroy, so substitution is preferred. 3. The iodoalkane — C–I has the lowest bond enthalpy, so it breaks most readily; polarity is irrelevant here. 4. All C–C bond lengths equal at 139 pm; enthalpy of hydrogenation ~152 kJ mol⁻¹ less exothermic than predicted; resistance to addition and failure to decolourise bromine water. 5. Loss of H⁺ from the intermediate, restoring the delocalised aromatic ring.
+**Answers:** 1. Arrows represent a pair of electrons; they start from a bond or lone pair, never an atom or charge; charges must balance. 2. An alkene's localised π bond is expendable and addition gains two σ bonds; benzene's delocalised system confers extra stability that addition would destroy, so substitution is preferred. 3. The iodoalkane — C–I has the lowest bond enthalpy, so it breaks most readily; polarity is irrelevant here. 4. All C–C bond lengths equal at 139 pm; enthalpy of hydrogenation ~152 kJ mol⁻¹ less exothermic than predicted; resistance to addition and failure to decolourise bromine water. 5. Loss of H⁺ from the intermediate, restoring the delocalised aromatic ring. 6. Arene, halogenoarene, phenol, acyl chloride, amide, and amino acid.

@@ -123,6 +123,16 @@ F = ρgV
 where ρ is the fluid's density and V is the volume of fluid displaced (not
 necessarily the object's total volume, if only partly submerged).
 
+**Floating and sinking.** An object **floats** when the upthrust on it equals
+its weight, so it displaces exactly its own weight of fluid; it **sinks**
+when its weight exceeds the maximum upthrust available even when fully
+submerged. Equivalently, an object floats if its **average density** is less
+than the fluid's density. This is why a steel ship floats even though steel
+itself is denser than water: the ship's *overall* density, including the
+large volume of enclosed air within its hull, is below the density of water.
+If the hull is breached and fills with water, the average density rises
+above that of water and the ship sinks.
+
 ## Common mistakes
 
 - **Forgetting the second equilibrium condition.** Zero resultant force is not
@@ -137,6 +147,10 @@ submerged.
 - **Taking moments about the wrong point**, or forgetting that the principle
 of moments can be applied about *any* point in a system in equilibrium, not
 just an obvious pivot.
+- **Judging whether an object floats by the density of its material alone**,
+rather than its overall average density — a hollow or air-filled object
+made of a dense material can still have an average density below that of
+the fluid it sits in.
 
 ## Quick revision checklist
 

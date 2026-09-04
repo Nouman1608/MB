@@ -72,6 +72,8 @@ All living organisms share eight characteristics, remembered as **MRS GREN**: mo
 
 The distinction that catches candidates out is **excretion** versus **egestion**. Excretion removes waste made *by* the body's own reactions, such as carbon dioxide and urea. Egestion removes undigested food that never entered the cells at all.
 
+**Growth** is defined precisely as a **permanent increase in dry mass**, not simply an increase in mass or size. An organism that takes up water increases in mass but not in dry mass, so water uptake alone does not count as growth — the "dry" qualifier is what the mark scheme is checking for.
+
 ## The five kingdoms
 
 | Kingdom | Cell type | Cell wall | Nutrition | Examples |
@@ -86,6 +88,8 @@ Fungi feed **saprotrophically**: they secrete enzymes onto food outside the body
 
 Prokaryotes have no nucleus, mitochondria or chloroplasts. Their DNA is a circular loop, often with plasmids.
 
+**Storage compounds** also distinguish the kingdoms and are examined more often than expected: **plants** store carbohydrate as **starch and sucrose**, while **animals and fungi** both store carbohydrate as **glycogen**. This is easy to mix up, since fungi are sometimes wrongly assumed to store starch alongside plants simply because both are non-animal kingdoms — the correct pairing is by nutrition type, not by "plant-like" appearance.
+
 ## Viruses
 
 Viruses sit outside the kingdoms because they are not cells. They have no cytoplasm, no organelles and no metabolism of their own. Each is a protein coat around either DNA or RNA, and can reproduce only inside a host cell, which makes every virus a parasite. Examples include the tobacco mosaic virus, influenza and HIV.
@@ -94,7 +98,7 @@ Whether viruses are alive is a legitimate question — they fail most of MRS GRE
 
 ## Levels of organisation and pathogens
 
-Organisms are organised as organelles, cells, tissues, organs, organ systems. A **pathogen** is a microorganism that causes disease, and can be from any of several groups: bacteria (cholera), fungi (athlete's foot), protoctists (malaria, via *Plasmodium*) or viruses (influenza).
+Organisms are organised as organelles, cells, **tissues**, **organs**, **organ systems**. A **tissue** is a group of cells with similar structure and function, e.g. glandular tissue in the stomach lining, which secretes digestive enzymes. An **organ** is a group of *different* tissues working together to perform a specific function, e.g. the stomach, made up of glandular, muscular and epithelial tissue. An **organ system** is a group of organs with related functions, e.g. the digestive system, made up of the stomach, small and large intestines, and associated glands. A pathogen is a microorganism that causes disease, and can be from any of several groups: bacteria (cholera), fungi (athlete's foot), protoctists (malaria, via *Plasmodium*) or viruses (influenza).
 
 ## Worked example
 

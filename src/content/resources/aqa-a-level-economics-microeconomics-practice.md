@@ -42,6 +42,14 @@ Related: [Individuals, Firms, Markets and Market Failure revision notes](/resour
 
 **6.** Evaluate the view that monopolies are always against the consumer interest. **[12]**
 
+## Section C
+
+**7.** Explain what is meant by "bounded rationality" in behavioural economics, and explain how this challenges the traditional assumption of a rational consumer. **[4]**
+
+**8.** Explain what is meant by a "nudge", giving an example, and explain **one** advantage of nudges over taxation as a policy tool. **[4]**
+
+**9.** Explain what is meant by monopsony power in a labour market, and explain why a minimum wage can raise both wages and employment in a monopsonistic labour market. **[6]**
+
 ---
 
 ## Answers
@@ -63,6 +71,12 @@ Firms avoid price competition because **a price cut is likely to be matched by r
 **6. Arguments that monopoly harms consumers:** it restricts output and **charges a price above marginal cost**, reducing consumer surplus and creating a **deadweight welfare loss** [1] [1]; the absence of competitive pressure permits **X-inefficiency**, with costs higher than necessary [1]; monopolies may offer **less choice and lower quality**, and may use their power to **exclude potential entrants** [1].
 **Arguments that monopoly may benefit consumers:** **economies of scale** may make average costs so much lower that the monopoly price is **below the competitive industry price** [1]; **supernormal profit funds research and development**, which competitive firms earning only normal profit cannot afford — dynamic efficiency may outweigh static inefficiency [1] [1]; a **natural monopoly** avoids the wasteful duplication of infrastructure such as rail track or water pipes [1]; the prospect of monopoly profit is what **incentivises innovation** in the first place, which patents deliberately protect [1].
 **Judgement:** it depends on **whether the monopoly is contestable, whether it is regulated, and whether it reinvests its profit** [1] [1]. A regulated natural monopoly delivering economies of scale and investment can serve consumers well; an unregulated monopoly protected by artificial barriers and content to take profit is likely to harm them [1] [1].
+
+**7.** **Bounded rationality** is the idea that consumers have **limited information, limited time and limited cognitive ability** to process choices, so they cannot make a fully optimal decision as traditional theory assumes [1] [1]. This challenges the traditional assumption because it implies consumers instead rely on **rules of thumb (heuristics)** and are influenced by **how choices are framed**, rather than rationally weighing every option to maximise utility [1] [1].
+
+**8.** A **nudge** is a change to the way choices are presented — such as an altered **default option** — that encourages a particular decision **without restricting choice or changing the financial incentive** [1] [1], e.g. **automatically enrolling employees into a pension scheme**, which they can opt out of but usually do not [1]. Advantage: a nudge can change behaviour **more cheaply than a tax or ban**, since it requires no enforcement and does not reduce consumer welfare through a price rise — it only requires redesigning the choice architecture [1].
+
+**9.** **Monopsony** is where there is a **single, or dominant, buyer of labour** in a market, giving that employer the power to **restrict employment and pay a wage below the competitive-market wage** [1] [1]. Introducing a minimum wage, set **above the monopsony wage but at or below the competitive wage**, removes the monopsonist's incentive to restrict employment in order to keep wages low [1] [1]; because the firm must now pay the **same wage to every worker** regardless of how many it employs, hiring an additional worker no longer forces up the wage paid to all existing staff, so the firm actually **expands employment towards the competitive level** as the wage rises [1] [1] — the **opposite** of the standard competitive-market prediction that a minimum wage set above equilibrium always causes unemployment.
 
 ---
 
