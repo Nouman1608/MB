@@ -92,6 +92,11 @@ Topic 1 (Forces and their Effects) established force, motion and momentum; Energ
 - Name two renewable energy resources and state one advantage and one drawback of each.
 - Explain, in one sentence, why "energy loss" is imprecise language and what should be said instead.
 
+## Related resources
+
+- [Energy study guide](/resources/igcse-oxfordaqa-physics-energy/)
+- [Energy practice questions](/resources/oxfordaqa-igcse-physics-energy-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification —

@@ -132,6 +132,11 @@ generic list of pros and cons.
 
 The specification itself frames this using the idea of energy as a useful accounting tool: it lets us calculate how long a resource will last, or whether a proposed event or transfer is even physically possible.
 
+## Related resources
+
+- [Energy revision notes](/resources/oxfordaqa-igcse-physics-energy-revision-notes/)
+- [Energy practice questions](/resources/oxfordaqa-igcse-physics-energy-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE Physics (9203) specification —
