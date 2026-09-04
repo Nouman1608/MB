@@ -46,6 +46,15 @@ Both processes increase binding energy per nucleon. That single idea explains th
 
 **Unit conversion:** 1 u = 931.5 MeV; 1 eV = 1.60 × 10⁻¹⁹ J.
 
+**Worked example.** A helium-4 nucleus has mass 4.00150 u; a proton is 1.00728 u, a neutron 1.00867 u.
+
+```
+mass of separate nucleons = 2(1.00728) + 2(1.00867) = 4.03190 u
+mass defect  dm = 4.03190 - 4.00150 = 0.03040 u
+binding energy  E = 0.03040 x 931.5 = 28.3 MeV
+binding energy per nucleon = 28.3 / 4 = 7.08 MeV
+```
+
 ## Radioactive decay
 
 Decay is **random** (you cannot predict which nucleus decays next) and **spontaneous** (unaffected by temperature, pressure or chemical state).
@@ -60,6 +69,18 @@ half-life         t_half = ln 2 / lambda  =  0.693 / lambda
 λ is the **decay constant** — the probability per unit time that a given nucleus decays.
 
 To find λ graphically, plot **ln A against t**: the gradient is **−λ**.
+
+**Worked example.** A source has half-life 8.0 days and initial activity 4.8 × 10⁵ Bq. Find the activity after 20 days, and the initial number of undecayed nuclei.
+
+```
+lambda = ln2 / t_half = 0.693 / 8.0 = 0.0866 day^-1
+A = A0 e^(-lambda t) = 4.8x10^5 x e^(-0.0866x20) = 4.8x10^5 x 0.1769 = 8.49x10^4 Bq
+
+Converting lambda to s^-1: 0.0866 / 86400 = 1.002x10^-6 s^-1
+N = A / lambda = 4.8x10^5 / 1.002x10^-6 = 4.79x10^11 nuclei
+```
+
+Always convert λ to the **same time unit** as the answer requires — a day⁻¹ value must become s⁻¹ before it is combined with an activity in Bq (which is s⁻¹ by definition).
 
 ## The three radiations
 
@@ -93,6 +114,8 @@ Both nucleon number and proton number must **balance** on each side.
 - λ and half-life are inversely related; a long half-life means a small λ.
 - Activity requires the number of **undecayed** nuclei, not the original number.
 - Background radiation must be subtracted before analysing experimental counts.
+- Mixing time units for λ — a half-life in days gives λ in day⁻¹, which must be converted to s⁻¹ before combining with an activity in Bq.
+- Forgetting to divide total binding energy by the **number of nucleons**, not just reporting the total.
 
 ## Self-test
 
@@ -101,5 +124,7 @@ Both nucleon number and proton number must **balance** on each side.
 3. A sample has λ = 0.023 s⁻¹. Find its half-life.
 4. Which radiation is most ionising, and why does that make it least penetrating?
 5. Write the changes to A and Z for beta-minus decay.
+6. A helium-4 nucleus has mass 4.00150 u (proton 1.00728 u, neutron 1.00867 u, 1 u = 931.5 MeV). Find its binding energy per nucleon.
+7. A source has half-life 8.0 days and initial activity 4.8 × 10⁵ Bq. Find its activity after 20 days.
 
-**Answers:** 1. The energy needed to remove one nucleon from the nucleus, averaged over all nucleons; the higher it is, the more stable the nucleus. 2. Both move the products towards the peak of the binding-energy-per-nucleon curve near iron-56, so binding energy per nucleon increases and the surplus is released. 3. t½ = 0.693/0.023 = **30 s**. 4. Alpha — its large charge and mass mean it interacts strongly with matter, losing energy rapidly over a short distance, so it is stopped by paper. 5. A is unchanged; Z increases by 1.
+**Answers:** 1. The energy needed to remove one nucleon from the nucleus, averaged over all nucleons; the higher it is, the more stable the nucleus. 2. Both move the products towards the peak of the binding-energy-per-nucleon curve near iron-56, so binding energy per nucleon increases and the surplus is released. 3. t½ = 0.693/0.023 = **30 s**. 4. Alpha — its large charge and mass mean it interacts strongly with matter, losing energy rapidly over a short distance, so it is stopped by paper. 5. A is unchanged; Z increases by 1. 6. Mass of nucleons = 2(1.00728) + 2(1.00867) = 4.03190 u; Δm = 4.03190 − 4.00150 = 0.03040 u; E = 0.03040 × 931.5 = 28.3 MeV; per nucleon = 28.3 ÷ 4 = **7.08 MeV**. 7. λ = 0.693 ÷ 8.0 = 0.0866 day⁻¹; A = 4.8 × 10⁵ × e^(−0.0866×20) = **8.49 × 10⁴ Bq**.

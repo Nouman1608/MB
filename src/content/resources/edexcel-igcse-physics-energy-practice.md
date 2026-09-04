@@ -61,6 +61,12 @@ Related: [Energy revision notes](/resources/edexcel-igcse-physics-energy-revisio
 
 **7.** Compare wind power and gas-fired power stations on reliability, environmental impact and cost. **[6]**
 
+**8.** A person pushes a crate with a force of 45 N, moving it 6.0 m in the direction of the force across a horizontal floor. Calculate the work done. **[2]**
+
+**9.** A car of mass 900 kg travels at 20 m s⁻¹ along a straight, level road. Calculate its kinetic energy. **[2]**
+
+**10.** Classify **geothermal power** and **nuclear power** as renewable or non-renewable, giving a reason for each, and state the main environmental or safety concern specific to nuclear power that does not apply to burning fossil fuels. **[3]**
+
 ---
 
 ## Answers
@@ -87,6 +93,12 @@ Transfers: **mechanically**, **electrically**, **by heating**, **by radiation** 
 **Environmental:** gas releases **carbon dioxide** contributing to global warming [1]; wind produces **no emissions in operation** but causes visual and noise impact [1].
 **Cost:** gas has **lower setup costs but ongoing fuel costs** [1]; wind has **high setup costs but almost no running costs** [1].
 
+**8.** W = F × d = 45 × 6.0 [1] = **270 J** [1].
+
+**9.** E_k = ½mv² = 0.5 × 900 × 20² [1] = **180 000 J** [1].
+
+**10.** **Geothermal** is **renewable** — it draws on heat from the Earth's interior, which does not deplete a finite reserve [1]. **Nuclear** is **non-renewable** — it depletes a finite reserve of uranium fuel, even though it produces no carbon dioxide during operation [1]. Nuclear's specific concern is **radioactive waste and the risk of a serious accident**, neither of which applies to burning fossil fuels (whose main concern is carbon emissions instead) [1].
+
 ---
 
 ## Where marks are usually lost
@@ -95,3 +107,7 @@ Transfers: **mechanically**, **electrically**, **by heating**, **by radiation** 
 - Saying energy is "lost".
 - Explaining metal conduction without free electrons.
 - Comparing energy resources on one dimension only.
+- Confusing work done (force × distance moved in the direction of the force) with energy stored — they are numerically equal here, but represent different concepts. Always check that the distance used is measured in the direction of the applied force, not just the total path travelled.
+- Classifying nuclear power as renewable because it does not burn fossil fuels — it is non-renewable because its fuel reserve is finite.
+
+Work through the [Energy revision notes](/resources/edexcel-igcse-physics-energy-revision-notes/) alongside these questions: the notes summarise the stores, transfers and resource classifications in condensed form, while these questions test whether you can apply the work, kinetic-energy and renewable/non-renewable definitions to a specific example rather than just recall them.

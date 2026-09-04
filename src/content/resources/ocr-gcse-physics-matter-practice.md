@@ -52,6 +52,12 @@ Related: [Matter revision notes](/resources/ocr-gcse-physics-matter-revision-not
 
 **7.** Explain what is meant by absolute zero. **[2]**
 
+**8.** The specific latent heat of fusion of ice is 334 000 J/kg. Calculate the energy needed to melt 0.40 kg of ice at 0 °C. **[2]**
+
+**9.** A gas has a pressure of 100 kPa in a container of volume 0.60 m³ at constant temperature. Calculate the new pressure if the volume is compressed to 0.20 m³. **[3]**
+
+**10.** Calculate the total energy needed to turn 0.30 kg of ice at 0 °C into water at 15 °C. (Specific latent heat of fusion of ice = 334 000 J/kg; specific heat capacity of water = 4200 J/kg °C.) **[4]**
+
 ---
 
 ## Answers
@@ -76,6 +82,12 @@ Related: [Matter revision notes](/resources/ocr-gcse-physics-matter-revision-not
 
 **7.** The **lowest possible temperature**, −273 °C or 0 K [1], at which particles have the **minimum possible energy** — not zero energy [1].
 
+**8.** E = mL = 0.40 × 334 000 [1] = **133 600 J** [1].
+
+**9.** p₁V₁ = p₂V₂, so p₂ = (p₁V₁) ÷ V₂ = (100 × 0.60) ÷ 0.20 [1] [1] = **300 kPa** [1]. The volume falls to a third, so the pressure rises to three times its original value, since temperature is constant.
+
+**10.** Two stages, two equations. Melting: E = mL = 0.30 × 334 000 [1] = 100 200 J. Heating: E = mcΔθ = 0.30 × 4200 × 15 [1] = 18 900 J [1]. Total = 100 200 + 18 900 = **119 100 J** [1]. Melting the ice takes over five times as much energy as the heating that follows it — no temperature change happens during melting even though most of the energy is used there.
+
 ---
 
 ## Where marks are usually lost
@@ -84,3 +96,6 @@ Related: [Matter revision notes](/resources/ocr-gcse-physics-matter-revision-not
 - Explaining the flat sections without mentioning potential energy.
 - Giving only one effect when a gas is heated at constant volume.
 - Saying particles stop moving at absolute zero.
+- Confusing specific heat capacity (E = mcΔθ, a temperature change) with specific latent heat (E = mL, a state change at constant temperature).
+- Forgetting that p₁V₁ = p₂V₂ only holds at **constant temperature** — it does not apply if the gas is also heated or cooled.
+- In a two-stage energy question, adding the latent heat and specific heat capacity terms in the wrong order, or forgetting one stage entirely — sketch the heating curve first to see how many sections the question covers.

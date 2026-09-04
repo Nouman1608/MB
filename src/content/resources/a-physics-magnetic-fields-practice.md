@@ -66,6 +66,14 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 
 **6.** State Lenz's law and explain how it follows from conservation of energy. **[3]**
 
+**7.** Describe the pattern of the magnetic field produced by **(a)** a long straight current-carrying wire, and **(b)** a long current-carrying solenoid. **[4]**
+
+**8.** A coil of 200 turns and area 0.010 m² rotates at 50 revolutions per second in a magnetic field of flux density 0.050 T.
+
+**(a)** Calculate the angular frequency of rotation. **[2]**
+**(b)** Calculate the peak e.m.f. induced. **[2]**
+**(c)** State how the e.m.f. varies with time. **[1]**
+
 ---
 
 ## Answers
@@ -89,6 +97,13 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 
 **6.** The **induced current acts in the direction that opposes the change producing it** [1]. If it assisted the change instead, the induced current would increase the flux, inducing a larger current still, and **energy would be created from nothing** [1]. Opposing the change means **work must be done** against the induced effect, and that work supplies the electrical energy [1].
 
+**7. (a)** **Concentric circles** around the wire, centred on it [1]; the flux density **increases with current and decreases with distance from the wire** [1].
+**(b)** A **strong, uniform field inside the solenoid**, similar to a bar magnet's field but concentrated and controllable via the current [1]; the field is weaker and spreads out outside the solenoid's ends [1]. Reversing the current direction reverses the polarity of the field, exactly as it would for a bar magnet.
+
+**8. (a)** ω = 2πf, converting the rotation rate from rev/s to rad/s first [1] = 2π × 50 = **314 rad s⁻¹** [1].
+**(b)** peak e.m.f. = NBAω = 200 × 0.050 × 0.010 × 314 [1] = **31.4 V** [1].
+**(c)** It varies **sinusoidally** with time, oscillating between +31.4 V and −31.4 V [1].
+
 ---
 
 ## Where marks are usually lost
@@ -97,3 +112,7 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 - Using the left hand for induction.
 - Saying the magnetic force does work on a charged particle — it does not.
 - Stating Lenz's law without linking it to conservation of energy.
+- Describing the field of a solenoid as circular, like a straight wire, rather than as a strong uniform field resembling a bar magnet's.
+- Forgetting to convert frequency in rev/s (or Hz) to angular frequency ω = 2πf before using it in the generator e.m.f. formula.
+
+Work through the [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-revision-notes/) alongside these questions: the notes summarise the three ways to induce an e.m.f. and the flux/flux-linkage definitions in condensed form, while these questions test whether you can apply the generator e.m.f. formula and describe field patterns for a specific current-carrying conductor, rather than just recall the equations.

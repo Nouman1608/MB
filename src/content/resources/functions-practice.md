@@ -59,6 +59,13 @@ Related: [Functions revision notes](/resources/functions-revision-notes/)
 **(b)** State the range of f. **[2]**
 **(c)** Explain why the domain is restricted to x ≥ 3 for the inverse to exist. **[3]**
 
+**7.** h(x) = √(x − 3).
+
+**(a)** State the values of x that must be excluded from the domain, and explain why. **[2]**
+**(b)** State the domain of h using inequality notation. **[1]**
+
+**8.** Using a mapping diagram to explain your reasoning, distinguish a one-to-one function from a many-to-one function, and state which type has an inverse function without needing a restricted domain. **[3]**
+
 ---
 
 ## Answers
@@ -83,6 +90,11 @@ Related: [Functions revision notes](/resources/functions-revision-notes/)
 **(b)** For x ≥ 3, (x − 3)² ≥ 0 [1], so the range is **f(x) ≥ 2** [1].
 **(c)** Without restriction the function is **not one-to-one** — for example f(2) = f(4) = 3 [1]. An inverse requires **each output to come from exactly one input** [1]; restricting the domain to x ≥ 3 takes only the **right-hand half of the parabola, from the vertex onwards**, which is one-to-one [1].
 
+**7. (a)** Values of x for which **x − 3 < 0**, i.e. **x < 3**, must be excluded [1], because the **square root of a negative number is not a real value** — there is no real number that, squared, gives a negative result [1].
+**(b)** **x ≥ 3** [1].
+
+**8.** In a mapping diagram, a **one-to-one** function has exactly **one arrow arriving at each range value** [1]; a **many-to-one** function has **two or more arrows arriving at the same range value** [1] (for example, a quadratic maps both x = 2 and x = −2 to the same output, since (2)² = (−2)² = 4). Only a **one-to-one** function has an inverse that is itself a function without restricting the domain, since a many-to-one function's reverse mapping would send one input to more than one output, which an inverse function cannot do [1].
+
 ---
 
 ## Where marks are usually lost
@@ -91,3 +103,7 @@ Related: [Functions revision notes](/resources/functions-revision-notes/)
 - Forgetting to exclude values that make a denominator zero.
 - Stating a range as a domain.
 - Not explaining why a domain restriction is needed for an inverse.
+- Forgetting to exclude values that make the expression under a square root negative, not just values that make a denominator zero.
+- Confusing one-to-one with many-to-one when explaining why a function does or does not have an inverse without a restricted domain.
+
+Work through the [Functions revision notes](/resources/functions-revision-notes/) alongside these questions: the notes summarise domain, range and the composite/inverse function methods in condensed form, while these questions test whether you can apply the domain-restriction rules to a square-root function and reason about one-to-one versus many-to-one mappings, rather than just recall the definitions.

@@ -48,6 +48,12 @@ who oppose this change simply don't understand modern management."*
 
 **5.** Using the source as a starting point, construct a brief, reasoned personal view on whether a four-day working week should be widely adopted. **[8]**
 
+**6.** A second source claims: *"Countries that invest more in education have higher GDP per capita. Therefore increasing education spending will raise national income."* Identify **two** reasoning flaws in this argument, distinct from the two you identified in Question 2, and explain each. **[6]**
+
+**7.** Explain what is meant by describing global issues as "contested and interconnected," using an energy policy as your example. **[4]**
+
+**8.** Explain how you would evaluate a data-heavy report differently from an opinion piece on the same issue. **[4]**
+
 ---
 
 ## Answers
@@ -62,6 +68,12 @@ who oppose this change simply don't understand modern management."*
 
 **5.** A strong response takes a clear position [1], directly engages with the source's evidence while acknowledging its limitations (small sample, missing methodology) [3], weighs at least one perspective against another (e.g. small-firm cost concerns vs. wider productivity potential) [2], and reaches a conclusion that follows from the reasoning given, while acknowledging remaining uncertainty [2].
 
+**6.** **Reverse causation** — the argument assumes spending causes higher GDP, but it is equally plausible that **richer countries can afford to spend more on education**, so the causal arrow may run the other way [3]. **Confounding** — factors such as **governance, political stability and infrastructure** could independently raise both education spending and GDP, so the correlation may not reflect a direct causal link between the two at all [3]. (Also accept: sufficiency — no data given on timescale or the size of any effect.)
+
+**7.** Global issues are **contested** — reasonable people can disagree about the right response — and **interconnected**, meaning a decision in one area affects others [2]. An energy policy, for example, is simultaneously **economic** (cost and jobs), **environmental** (emissions), **political** (energy security) and **ethical** (fairness between generations) all at once, so addressing one dimension (e.g. cutting emissions) can create a new problem in another (e.g. raising costs for consumers) [2].
+
+**8.** A **data-heavy report** is best interrogated for **sample size, the baseline used, and whether a quoted percentage is hiding a small absolute number** [2]. An **opinion piece** is best interrogated for the **writer's underlying assumptions and the strength of the reasons given**, rather than simply agreeing or disagreeing with the conclusion stated [2].
+
 ---
 
 ## Where marks are usually lost
@@ -70,3 +82,6 @@ who oppose this change simply don't understand modern management."*
 - Evaluating evidence only on "it's just one example" without naming the actual criteria (sufficiency, methodology, corroboration).
 - Describing perspectives without grounding them in a specific context.
 - A personal view that ignores the source entirely instead of using it as the starting point for reasoning.
+- Confusing reverse causation with confounding — reverse causation means the causal arrow may run backwards; confounding means a third factor may be driving both variables.
+- Analysing a contested global issue along only one dimension (e.g. only economic) rather than naming the interconnected trade-offs across others.
+- Applying the same evaluation criteria to every source type, rather than adapting them to whether the source is data-heavy, opinion-based, or factual reporting.

@@ -39,6 +39,8 @@ Condensed for the final weeks. For the full explanation, use the
 
 The order matters: where rules conflict, the **earlier** one wins. In H₂O₂, oxygen must be −1 because hydrogen's +1 takes priority.
 
+**Worked example — finding Mn in MnO₄⁻.** Four oxygens contribute 4 × (−2) = −8. The ion's overall charge is −1, so Mn's oxidation number + (−8) = −1, giving **Mn = +7**. This is exactly why the ion is named manganate**(VII)** — the Roman numeral states the oxidation number directly, so naming and calculation should always agree.
+
 ## Definitions
 
 | | Oxidation | Reduction |
@@ -68,6 +70,23 @@ MnO4- + 8H+ + 5e-  ->  Mn2+ + 4H2O   (balance charge)
 ```
 
 Mn goes from **+7 to +2** — a five-electron change, which is why the 5e⁻ appears and why MnO₄⁻ reacts in a 1:5 ratio with many reducing agents.
+
+## Balancing by oxidation-number change (alternative method)
+
+Instead of half equations, you can balance by tracking oxidation-number changes directly, since electrons lost must equal electrons gained.
+
+**Worked example.** Balance MnO₄⁻ + Fe²⁺ + H⁺ → Mn²⁺ + Fe³⁺ + H₂O.
+
+```
+1  Mn: +7 -> +2  (down 5, gains 5e-)     Fe: +2 -> +3  (up 1, loses 1e-)
+2  One Mn needs 5 Fe2+ to supply 5 electrons:
+   MnO4- + 5Fe2+ + H+  ->  Mn2+ + 5Fe3+ + H2O
+3  Balance O and H: 4 O in MnO4- need 4 H2O; those need 8 H+
+   MnO4- + 5Fe2+ + 8H+  ->  Mn2+ + 5Fe3+ + 4H2O
+4  Check charge: left (-1)+5(+2)+8(+1) = +17;  right (+2)+5(+3) = +17
+```
+
+Both atoms and overall charge must balance — equal electrons lost and gained is necessary but **not sufficient** on its own.
 
 ## Titration essentials
 
@@ -99,6 +118,7 @@ To prove it, assign oxidation numbers to that element on both sides and show one
 - Using HCl in a manganate(VII) titration.
 - Adding starch at the start of an iodine titration.
 - Not checking that both atoms **and** charge balance in a half equation.
+- Assuming a reaction is a simple redox without checking the oxidation number of the element in *every* product — a hidden disproportionation is easy to miss.
 
 ## Self-test
 
@@ -107,5 +127,7 @@ To prove it, assign oxidation numbers to that element on both sides and show one
 3. Write the half equation for MnO₄⁻ → Mn²⁺ in acid.
 4. When is starch added in an iodine–thiosulfate titration, and why?
 5. Prove that Cl₂ + 2NaOH → NaCl + NaClO + H₂O is disproportionation.
+6. Use oxidation-number changes to balance MnO₄⁻ + Fe²⁺ + H⁺ → Mn²⁺ + Fe³⁺ + H₂O.
+7. In that reaction, identify the oxidising agent and the reducing agent, giving a reason for each.
 
-**Answers:** 1. Mn = **+7**; Cr = **+6**. 2. Hydrochloric acid would be oxidised to chlorine and nitric acid is itself an oxidising agent, so both would give a false result. 3. MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O. 4. Near the end point, when the solution is straw-coloured — added earlier, the starch–iodine complex releases iodine too slowly and the end point is indistinct. 5. Chlorine starts at 0; in NaCl it is −1 (reduced) and in NaClO it is +1 (oxidised) — the same element both oxidised and reduced.
+**Answers:** 1. Mn = **+7**; Cr = **+6**. 2. Hydrochloric acid would be oxidised to chlorine and nitric acid is itself an oxidising agent, so both would give a false result. 3. MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O. 4. Near the end point, when the solution is straw-coloured — added earlier, the starch–iodine complex releases iodine too slowly and the end point is indistinct. 5. Chlorine starts at 0; in NaCl it is −1 (reduced) and in NaClO it is +1 (oxidised) — the same element both oxidised and reduced. 6. MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O — Mn gains 5 electrons (+7→+2), so 5 Fe²⁺ are needed to lose 5 electrons (+2→+3) between them. 7. MnO₄⁻ is the **oxidising agent** — it causes Fe²⁺ to be oxidised while Mn itself is reduced (+7→+2); Fe²⁺ is the **reducing agent** — it causes Mn to be reduced while Fe itself is oxidised (+2→+3).
