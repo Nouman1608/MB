@@ -76,6 +76,14 @@ Related: [Carboxylic Acids and Acyl Chlorides revision notes](/resources/a-chemi
 
 **(c)** Phenol will not esterify with ethanoic acid but does react with ethanoyl chloride. Suggest why this makes acyl chlorides synthetically important. **[2]**
 
+**7.** Rank carboxylic acids, phenols and alcohols in order of decreasing acidity, and explain the difference using delocalisation. **[3]**
+
+**8.** State three reagents that can convert a carboxylic acid into an acyl chloride. **[2]**
+
+**9.** Write the equation for benzoyl chloride reacting with phenol, and name the organic product. **[2]**
+
+**10.** Explain why chlorine-substituted carboxylic acids become more acidic as more chlorine atoms are added, and as those atoms are placed closer to the carboxyl group. **[2]**
+
 ---
 
 ## Answers
@@ -106,6 +114,14 @@ Related: [Carboxylic Acids and Acyl Chlorides revision notes](/resources/a-chemi
 
 **(c)** Phenols are **too weakly nucleophilic** to esterify with a carboxylic acid [1], so acyl chlorides provide the **only practical route** to phenyl esters — extending the range of compounds that can be made [1].
 
+**7.** **Carboxylic acids > phenols > alcohols** [1]. In a carboxylate ion the negative charge is delocalised **equally over both oxygen atoms**, a more effective, symmetrical delocalisation than a phenoxide ion's charge spreading unevenly around a large aromatic ring [1]; an alkoxide ion (from an alcohol) has **no delocalisation available at all** [1]. Both C–O bonds in the carboxylate become equivalent, each with partial double-bond character.
+
+**8.** Any three: **PCl₃** (plus heat), **PCl₅**, or **SOCl₂** (thionyl chloride) [1] [1]. These are the same chlorinating-reagent trio used for converting an alcohol's –OH group to –Cl, now applied to a carboxylic acid's –OH.
+
+**9.** C₆H₅COCl + C₆H₅OH → **C₆H₅COOC₆H₅** + HCl [1] — the product is **phenyl benzoate**, an aryl ester [1].
+
+**10.** Chlorine is strongly electronegative and withdraws electron density **inductively through the carbon chain**, further stabilising the negative charge on the carboxylate ion [1]. More chlorine atoms, or chlorine atoms closer to the carboxyl group, strengthen this inductive effect, so the compound becomes more acidic [1].
+
 ---
 
 ## Where marks are usually lost
@@ -115,3 +131,5 @@ Related: [Carboxylic Acids and Acyl Chlorides revision notes](/resources/a-chemi
 - Forgetting HCl as a product of every acyl chloride reaction.
 - Saying acyl chlorides are more reactive "because they are more polar" without explaining the leaving group.
 - Not stating that esterification is reversible when explaining low yield.
+- Placing phenol above carboxylic acids in the acidity order — it is the weakest of the three.
+- Forgetting that a phenoxide ion's delocalisation is spread unevenly around the ring, unlike a carboxylate's equal spread over two oxygens.

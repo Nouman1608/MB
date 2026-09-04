@@ -48,6 +48,15 @@ Related: [The Fundamentals of Accounting revision notes](/resources/igcse-accoun
 
 **6.** Explain the following accounting concepts: prudence, matching (accruals), going concern, consistency. **[8]**
 
+**7.** Explain the difference between book-keeping and accounting. **[3]**
+
+**8.** A business has assets of $45 000 and liabilities of $12 000.
+
+**(a)** Calculate the owner's capital. **[1]**
+**(b)** The business then takes out a $6 000 bank loan, received in cash. State the new value of assets, liabilities and capital. **[3]**
+
+**9.** Explain why capital is grouped with liabilities in the accounting equation rather than treated as a separate category of its own. **[2]**
+
 ---
 
 ## Answers
@@ -70,6 +79,13 @@ If capital expenditure is wrongly treated as revenue expenditure, **expenses are
 
 **6. Prudence** — do not **overstate assets or profit and do not understate liabilities or losses**; recognise losses as soon as they are foreseen but gains only when realised [1] [1]. **Matching (accruals)** — revenues and the **costs incurred in earning them are recorded in the same period**, regardless of when cash moves [1] [1]. **Going concern** — assume the business will **continue trading for the foreseeable future**, so assets are valued at cost rather than break-up value [1] [1]. **Consistency** — apply the **same accounting treatment from one period to the next**, so results are comparable over time [1] [1].
 
+**7. Book-keeping** is the **routine, day-to-day recording of transactions** [1]; **accounting** is the **broader, analytical activity of using those records** to interpret performance, monitor progress and inform decisions [1]. Accounting is not simply the mechanical act of writing entries down — examiners specifically test this distinction [1].
+
+**8. (a)** Capital = Assets − Liabilities = 45 000 − 12 000 = **$33 000** [1].
+**(b)** Assets rise by $6 000 to **$51 000** [1]; liabilities rise by $6 000 to **$18 000** [1]; capital is **unchanged at $33 000**, since 51 000 = 33 000 + 18 000 confirms the equation still balances [1].
+
+**9.** From the business's own point of view, capital is an amount effectively **owed back to the owner** — conceptually the same as a loan owed to an outside lender [1]. So assets = capital + liabilities balances the same way whether the claim on those assets comes from the owner or from an external party [1]. Capital itself is not fixed across a trading period: it rises through profit earned and further investment, and falls through losses and drawings taken by the owner.
+
 ---
 
 ## Where marks are usually lost
@@ -78,3 +94,5 @@ If capital expenditure is wrongly treated as revenue expenditure, **expenses are
 - Saying a trial balance proves the accounts are correct.
 - Confusing the direction of the profit effect when expenditure is misclassified.
 - Defining prudence as "being cautious" without reference to assets, liabilities and profit.
+- Treating book-keeping and accounting as interchangeable terms, rather than the routine-recording vs analytical-interpretation distinction examiners expect.
+- Forgetting that a transaction affecting only assets and liabilities leaves capital completely unchanged.

@@ -57,6 +57,14 @@ Related: [Forces, Density and Pressure revision notes](/resources/as-physics-for
 
 **6.** Calculate the pressure at a depth of 25 m in seawater of density 1030 kg m⁻³, and explain why the shape of the container is irrelevant. **[4]**
 
+**7.** Describe how a **closed vector triangle** can be used to find an unknown force acting on an object in equilibrium under three coplanar forces. **[3]**
+
+**8.** A uniform beam of weight 40 N is balanced on a pivot, with a 25 N weight hung 0.6 m from the pivot on one side. How far from the pivot must a 15 N weight be hung on the other side to balance it? **[3]**
+
+**9.** Two forces of 8 N each, acting 0.5 m apart, form a couple. Calculate the torque of the couple. **[2]**
+
+**10.** Explain why the pressure difference between two points in a fluid depends only on the *vertical* depth difference between them, not on how far apart they are horizontally. **[2]**
+
 ---
 
 ## Answers
@@ -85,6 +93,14 @@ W = mg = 0.945 × 9.81 = **9.27 N** [1].
 **6.** p = ρgh = 1030 × 9.81 × 25 [1] [1] = **2.53 × 10⁵ Pa** [1].
 The pressure depends only on **depth, density and g** [1] — not on the shape or total volume of the container.
 
+**7.** Draw each of the three forces as an arrow, **tip-to-tail**, in turn and to scale [1]; if the object is truly in equilibrium, the three arrows form a **closed triangle**, returning to the starting point with no gap [1]. Any unknown force's magnitude or direction can then be found by **measuring or calculating the missing side** of that triangle [1].
+
+**8.** By the principle of moments: 25 × 0.6 = 15 × d [1], so 15 = 15d [1], giving **d = 1.0 m** [1].
+
+**9.** Torque = one force × perpendicular distance between the forces = 8 × 0.5 = **4.0 N m** [1] [1].
+
+**10.** Pressure at a point in a fluid arises from the **weight of the fluid column above it** [1]; that weight depends only on the **vertical height** of fluid above the point, not on horizontal position, so two points at the same depth experience equal pressure regardless of how far apart they are sideways [1].
+
 ---
 
 ## Where marks are usually lost
@@ -93,3 +109,5 @@ The pressure depends only on **depth, density and g** [1] — not on the shape o
 - Giving only one condition for equilibrium.
 - Forgetting the beam's own weight acts at its centre.
 - Saying upthrust depends on the object's weight rather than the fluid displaced.
+- Drawing the vector triangle open rather than closed, or failing to keep the arrows tip-to-tail in a consistent direction.
+- Confusing torque of a couple (one force × distance between the forces) with a single moment (force × distance to a pivot).

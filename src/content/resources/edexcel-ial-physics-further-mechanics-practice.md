@@ -52,6 +52,17 @@ Related: [Further Mechanics revision notes](/resources/edexcel-ial-physics-furth
 
 **6.** Explain why the centripetal force does no work, and what this means for the speed of an object in uniform circular motion. **[3]**
 
+**7.** State the equation relating impulse to change in momentum, and name the practical (CORE PRACTICAL 9) that investigates this relationship. **[2]**
+
+**8.** A 0.15 kg ball moving at 8.0 m s⁻¹ collides head-on with a stationary 0.25 kg ball. After the collision the first ball rebounds at 2.0 m s⁻¹.
+
+**(a)** Find the velocity of the second ball after the collision. **[3]**
+**(b)** By calculating the total kinetic energy before and after, determine whether the collision is elastic. **[3]**
+
+**9.** State the equation Ek = p²/2m, and explain when it is more useful than Ek = ½mv². **[2]**
+
+**10.** State the equation linking angular velocity to the period of rotation, and name the practical (CORE PRACTICAL 10) used to analyse collisions between small spheres. **[2]**
+
 ---
 
 ## Answers
@@ -82,6 +93,15 @@ T = (0.40 × 5.2² ÷ 0.65) + (0.40 × 9.81) [1]
 
 **6.** The force acts **perpendicular to the velocity** at every instant [1], and work requires a component of force along the displacement [1]. Since no work is done, the **kinetic energy and hence the speed remain constant** [1].
 
+**7.** Impulse = FΔt = Δp [1] — **CORE PRACTICAL 9** investigates the relationship between the force exerted on an object and its resulting change of momentum [1].
+
+**8. (a)** Taking the initial direction as positive: (0.15 × 8.0) + (0.25 × 0) = (0.15 × −2.0) + (0.25 × v) [1]. 1.2 = −0.30 + 0.25v [1]. v = 1.5 ÷ 0.25 = **6.0 m s⁻¹** [1].
+**(b)** KE before = ½(0.15)(8.0)² = 4.8 J [1]. KE after = ½(0.15)(2.0)² + ½(0.25)(6.0)² = 0.3 + 4.5 = 4.8 J [1]. Kinetic energy is conserved, so the collision is **elastic** [1].
+
+**9.** Ek = p²/2m [1] — useful when **momentum, rather than velocity, is known directly**, avoiding the need to find v first before calculating kinetic energy [1].
+
+**10.** ω = 2π/T [1] — **CORE PRACTICAL 10** uses ICT, such as video analysis software, to analyse collisions between small spheres, for example ball bearings on a table top [1].
+
 ---
 
 ## Where marks are usually lost
@@ -90,3 +110,5 @@ T = (0.40 × 5.2² ÷ 0.65) + (0.40 × 9.81) [1]
 - Forgetting that both tension and weight act towards the centre at the top of a vertical circle.
 - Using the string length instead of the radius in a conical pendulum.
 - Saying the centripetal force changes the speed.
+- Forgetting that Ek = p²/2m is derived from Ek = ½mv² and p = mv, and is chosen specifically because momentum, not velocity, is given.
+- Confusing CORE PRACTICAL 9 (force and change of momentum) with CORE PRACTICAL 10 (ICT analysis of sphere collisions).

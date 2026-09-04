@@ -51,6 +51,19 @@ Related: [Sources and Recording of Data revision notes](/resources/igcse-oxforda
 
 **6.** Explain the purpose of a bank reconciliation statement and give **three** reasons why the cash book balance may differ from the bank statement balance. **[5]**
 
+## Section C
+
+**7.** Name the book of prime entry in which each of the following is first recorded: **(a)** a credit sale, **(b)** a cash purchase of stationery, **(c)** the purchase of a delivery van on credit, **(d)** goods returned to a supplier. **[4]**
+
+**8.** State the accounting equation, and using it, explain whether an increase in a liability is recorded as a debit or a credit. **[3]**
+
+**9.** Distinguish between a credit note and a debit note, stating who issues each. **[2]**
+
+**10.** A business buys goods on credit from Farooq for $800, then returns $120 of them as faulty.
+
+**(a)** Record the double entry for both transactions. **[4]**
+**(b)** State Farooq's account balance after both entries. **[1]**
+
 ---
 
 ## Answers
@@ -73,6 +86,15 @@ Related: [Sources and Recording of Data revision notes](/resources/igcse-oxforda
 **6.** A bank reconciliation **explains the difference between the balance in the cash book and the balance on the bank statement** at the same date, confirming both are correct [1] [1].
 Reasons: **unpresented cheques** — paid out and recorded but not yet cleared by the bank [1]; **outstanding lodgements** — money paid in but not yet credited [1]; **bank charges, interest or direct debits** appearing on the statement but not yet in the cash book, and **dishonoured cheques** [1].
 
+**7. (a)** **Sales day book** [1]. **(b)** **Petty cash book** (or cash book) [1]. **(c)** **General journal** — the van is a non-current asset bought on credit, which doesn't fit any other day book [1]. **(d)** **Purchases returns day book** [1].
+
+**8.** **Assets = Capital + Liabilities** [1]. An increase in a liability is recorded as a **credit** [1], because liabilities sit on the credit side of the equation, and the equation must stay balanced whenever a transaction is recorded [1].
+
+**9.** A **credit note** is issued **by the seller** when a customer returns goods, **reducing** the amount the customer owes [1]. A **debit note** is sent **by the buyer** to the seller, **requesting** such a reduction — typically before the seller replies with the credit note [1].
+
+**10. (a)** Purchase: debit **Purchases $800**, credit **Farooq $800** [1] [1]. Return: debit **Farooq $120**, credit **Purchases returns $120** [1] [1] — note the return is credited to purchases returns, never to purchases itself.
+**(b)** Farooq's balance = 800 − 120 = **$680 credit** (still owed) [1].
+
 ---
 
 ## Where marks are usually lost
@@ -81,3 +103,5 @@ Reasons: **unpresented cheques** — paid out and recorded but not yet cleared b
 - Recording trade discount in the ledger.
 - Omitting the discount allowed entry when a customer pays less than the full amount.
 - Saying a suspense account corrects the error, rather than holding it temporarily.
+- Posting the purchase of a non-current asset on credit to a day book other than the general journal.
+- Forgetting that a debit note is sent by the buyer, while the credit note that follows it is issued by the seller.

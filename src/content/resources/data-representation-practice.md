@@ -52,6 +52,14 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 
 **8.** Explain how sound is sampled, and the effect of increasing the sample rate. **[4]**
 
+**9.** Represent −25 in 8-bit two's complement, showing your working. **[3]**
+
+**10.** Apply run-length encoding to compress the string **AAAAAAAAAABBBCCCCCCCCCCCCCCDD** (10 A's, 3 B's, 14 C's, 2 D's). **[3]**
+
+**11.** A storage device's capacity is quoted as 1 KiB rather than 1 KB. Explain the difference between the two, and why the syllabus prefers the "-bi-" naming. **[2]**
+
+**12.** A 500-character message is stored once using extended ASCII (8 bits per character) and once using Unicode (16 bits per character). Calculate the size in bytes for each version, and state the difference. **[3]**
+
 ---
 
 ## Answers
@@ -74,6 +82,14 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 
 **8.** The **amplitude of the analogue sound wave is measured at regular intervals** [1] and each measurement is **stored as a binary number** [1]. Increasing the sample rate means **more measurements per second**, so the digital version follows the original wave more closely and **sound quality improves** [1] — but the **file size increases proportionally** [1].
 
+**9.** 25 in binary = **00011001** [1]; flip every bit = 11100110 [1]; add 1 = **11100111** [1].
+
+**10.** **10A 3B 14C 2D** [1] [1] [1] — each run of identical values is replaced by a single value-and-count pair.
+
+**11.** 1 KiB is exactly **1024 bytes**, using the base-2 multiplier that matches how computers actually address memory [1]; 1 KB traditionally means **1000 bytes** in everyday/marketing use, so "-bi-" naming (kibi, mebi...) removes that ambiguity by making the base-2 factor explicit, even though "KB" remains common informally [1].
+
+**12.** ASCII: 500 × 8 = 4000 bits ÷ 8 = **500 bytes** [1]. Unicode: 500 × 16 = 8000 bits ÷ 8 = **1000 bytes** [1]. Unicode needs **500 bytes more** — exactly double, since each character takes twice as many bits [1]. This is the trade-off examiners expect you to state: Unicode's wider character support for non-Latin scripts and emoji comes at the direct cost of larger file sizes for the same text.
+
 ---
 
 ## Where marks are usually lost
@@ -82,3 +98,5 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 - Forgetting to divide bits by 8 to get bytes.
 - Saying lossy compression can be reversed.
 - Confusing sample rate with sample resolution (bit depth).
+- Forgetting to add 1 after flipping the bits in two's complement — that gives one's complement, not two's complement.
+- Writing "KB" when a calculation actually used a factor of 1024 throughout, rather than the more precise "KiB".
