@@ -106,6 +106,11 @@ Government revenue and spending decisions here connect directly to the broader *
 - Name two factors that influence why different loans offer different interest rates.
 - Explain why income tax counts as both direct and progressive.
 
+## Related resources
+
+- [Interest Rates and Government Income and Expenditure study guide](/resources/gcse-aqa-economics-interest-rates-and-government-finances/)
+- [Interest Rates and Government Income and Expenditure practice questions](/resources/aqa-gcse-economics-interest-rates-practice/)
+
 ## Official syllabus
 
 AQA GCSE Economics (8136) specification, first teaching from September

@@ -142,6 +142,11 @@ classification axes for taxation.
 - Practise simple interest calculations, converting percentages to
 decimals correctly.
 
+## Related resources
+
+- [Interest Rates and Government Income and Expenditure revision notes](/resources/aqa-gcse-economics-interest-rates-revision-notes/)
+- [Interest Rates and Government Income and Expenditure practice questions](/resources/aqa-gcse-economics-interest-rates-practice/)
+
 ## Official syllabus
 
 AQA GCSE Economics (8136) specification, first teaching from September
