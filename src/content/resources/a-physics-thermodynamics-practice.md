@@ -68,6 +68,24 @@ Related: [Thermodynamics revision notes](/resources/a-physics-thermodynamics-rev
 
 ---
 
+## Section C
+
+**7.** A fixed mass of gas undergoes an **isothermal** expansion. A separate sample undergoes an **adiabatic** compression.
+
+**(a)** State what ΔU equals for the isothermal process, and hence the relationship between q and W. **[2]**
+
+**(b)** State what q equals for the adiabatic process, and hence the relationship between ΔU and W. **[2]**
+
+**(c)** Explain what is meant by internal energy being a **state function**. **[2]**
+
+**8.** A gas at a constant pressure of 1.0 × 10⁵ Pa expands from a volume of 2.0 × 10⁻³ m³ to 3.2 × 10⁻³ m³, absorbing 620 J of thermal energy.
+
+**(a)** Calculate the work done by the gas as it expands. **[2]**
+
+**(b)** Calculate the change in internal energy, applying the correct sign convention. **[3]**
+
+---
+
 ## Answers
 
 **1.** The **sum of the random distribution of kinetic and potential energies** of the molecules [1] of the system [1].
@@ -95,6 +113,17 @@ Energy is **absorbed from the surroundings** by the ice, or **lost from the heat
 
 **(c)** Boiling must **completely separate the molecules**, overcoming the intermolecular forces entirely [1], and also **do work pushing back the atmosphere** as the vapour expands; melting only **loosens** the forces [1].
 
+**7. (a)** ΔU = **0**, since temperature (and hence the kinetic component of internal energy) is unchanged [1]; therefore **q = −W** [1].
+
+**(b)** q = **0**, since no heat is transferred [1]; therefore **ΔU = W** [1].
+
+**(c)** Internal energy **depends only on the current state** of the system — its temperature, for an ideal gas — **never on the process or route** used to reach that state [1]. Two different routes between the same start and end states give the **same ΔU**, even though q and W individually may differ along each route [1].
+
+**8. (a)** W (by the gas) = pΔV = 1.0 × 10⁵ × (3.2 × 10⁻³ − 2.0 × 10⁻³) [1] = **120 J** [1].
+
+**(b)** Since the gas **expands**, it does work **on its surroundings**, so the work done **on** the gas is W = **−120 J** [1].
+ΔU = q + W = 620 + (−120) [1] = **500 J** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -105,3 +134,5 @@ Energy is **absorbed from the surroundings** by the ice, or **lost from the heat
 - Forgetting to convert minutes to seconds.
 - Explaining the latent heat difference without mentioning work against the atmosphere.
 - Describing melting or vaporisation as "breaking bonds" between molecules — there is no bond-breaking model at this level. The correct description is molecules being separated (or fully separated, for vaporisation) against the intermolecular forces of attraction, which increases their potential energy.
+- Applying W = pΔV when the pressure is not constant during the process.
+- Forgetting that internal energy is a state function, and treating it as dependent on the path taken between two states.

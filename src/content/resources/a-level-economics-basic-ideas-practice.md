@@ -59,6 +59,30 @@ Related: [Basic Economic Ideas revision notes](/resources/a-level-economics-basi
 
 ---
 
+## Section C
+
+**7.** Every economic system must decide how to allocate scarce resources.
+
+**(a)** State the three fundamental questions every economic system must answer. **[3]**
+
+**(b)** State one strength and one weakness of a market economy, and one strength and one weakness of a planned economy. **[4]**
+
+**(c)** Explain why most real-world economies are mixed rather than purely market or purely planned. **[2]**
+
+**8.** Production requires combining different resources, and can create costs or benefits beyond the immediate buyer and seller.
+
+**(a)** Name the four factors of production and the reward earned by each. **[4]**
+
+**(b)** Distinguish between a negative externality and a positive externality, giving one example of each. **[4]**
+
+**9.** A production possibility curve shows the maximum combinations of two goods an economy can produce.
+
+**(a)** State what a point on, inside, and outside the curve represents. **[3]**
+
+**(b)** Government intervention to correct market failure can itself go wrong. Give three causes of government failure. **[3]**
+
+---
+
 ## Answers
 
 **1.** The value of the **next best alternative forgone** [1]. Example: spending on a new hospital means a **new school is forgone** [1].
@@ -87,6 +111,20 @@ A **normative** statement contains a **value judgement** and cannot be tested [1
 **Incentive** [1] — a higher price encourages producers to supply more and consumers to buy less [1].
 **Rationing** [1] — a higher price allocates scarce goods to those willing and able to pay [1].
 
+**7. (a)** **What** to produce [1], **how** to produce it [1], and **for whom** to produce it [1].
+
+**(b)** **Market economy** — strength: efficiency, choice and innovation [1]; weakness: inequality and market failure, including no provision of public goods [1]. **Planned economy** — strength: greater equity and provision of merit/public goods [1]; weakness: inefficiency from the lack of a profit incentive and poor information [1].
+
+**(c)** Because a purely market or purely planned economy each carry **significant weaknesses** [1], most real economies **combine both** to balance efficiency against equity — the practical question is usually the **degree** of intervention, not a binary choice [1].
+
+**8. (a)** **Land** — rent [1]. **Labour** — wages [1]. **Capital** — interest [1]. **Enterprise** — profit [1].
+
+**(b)** A **negative externality** is a cost imposed on a third party not reflected in the market price — e.g. **pollution from a factory** — causing the good to be **over-produced** [2]. A **positive externality** is a benefit to a third party — e.g. **herd immunity from vaccination** — causing the good to be **under-produced** [2].
+
+**9. (a)** A point **on** the curve is **productively efficient**, with resources fully and efficiently employed [1]. A point **inside** the curve represents **unemployment or inefficiency** [1]. A point **outside** the curve is **currently unattainable** given existing resources and technology [1].
+
+**(b)** Any three of: **information gaps** facing policymakers, the **administrative cost** of intervention, **unintended consequences** such as black markets, and **regulatory capture** [3].
+
 ---
 
 ## Where marks are usually lost
@@ -96,3 +134,5 @@ A **normative** statement contains a **value judgement** and cannot be tested [1
 - Confusing merit goods with public goods.
 - Concluding an evaluation without a judgement, or without saying what it depends on.
 - Omitting government failure from a discussion of intervention.
+- Explaining the concave PPC as "diminishing returns" rather than imperfect resource substitutability.
+- Naming only one or two factors of production instead of all four with their correct reward.

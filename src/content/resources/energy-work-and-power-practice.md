@@ -54,6 +54,22 @@ Related: [Energy, Work and Power revision notes](/resources/energy-work-and-powe
 
 ---
 
+## Section C
+
+**7.** A car of mass 1200 kg accelerates from 10 m s⁻¹ to 20 m s⁻¹.
+
+**(a)** Calculate its kinetic energy at each speed. **[4]**
+
+**(b)** The speed only doubled, yet the kinetic energy increased by much more than double. Explain why. **[2]**
+
+**8.** A worker pushes a box with a force of 55 N across a warehouse floor, moving it 12 m in the direction of the force.
+
+**(a)** Calculate the work done. **[2]**
+
+**(b)** State the energy transfer taking place, and explain why work done and energy transferred are measured in the same unit. **[2]**
+
+---
+
 ## Answers
 
 **1.** Any six, 1 mark each: **kinetic** — a moving car; **gravitational potential** — a raised mass; **elastic potential** — a stretched spring; **chemical** — food or fuel; **thermal (internal)** — a hot object; **nuclear** — an unstable nucleus; **electrostatic**; **magnetic**.
@@ -74,6 +90,15 @@ Related: [Energy, Work and Power revision notes](/resources/energy-work-and-powe
 
 **6.** Any three, 2 marks each: **loft insulation** — traps air, which is a **poor conductor**, so it reduces conduction and convection through the roof [1] [1]. **Cavity wall insulation** — foam in the cavity **prevents convection currents forming in the air gap**, which would otherwise carry heat across [1] [1]. **Double glazing** — the gap between the panes, often evacuated or filled with argon, **greatly reduces conduction and convection through the window** [1] [1]. **Draught excluders** — prevent **warm air escaping and cold air entering by bulk movement of air** [1] [1]. **Reflective foil behind radiators** — **reflects infrared radiation back into the room** rather than letting it heat the external wall [1] [1].
 
+**7. (a)** At 10 m s⁻¹: Ek = ½mv² = ½ × 1200 × 10² [1] = **60 000 J** [1].
+At 20 m s⁻¹: Ek = ½ × 1200 × 20² [1] = **240 000 J** [1].
+
+**(b)** Kinetic energy depends on **v², not v**, so doubling the speed **quadruples** the kinetic energy [1] — a much larger increase than the speed change alone would suggest [1].
+
+**8. (a)** W = Fd = 55 × 12 [1] = **660 J** [1].
+
+**(b)** **Chemical energy** in the worker's muscles is transferred, largely to **thermal energy (heat)** in the box and floor as it is pushed against friction [1]. Doing work on an object is precisely **how energy is transferred** into or out of it by a force, so both quantities are measured in the same unit, the joule [1].
+
 ---
 
 ## Where marks are usually lost
@@ -82,3 +107,5 @@ Related: [Energy, Work and Power revision notes](/resources/energy-work-and-powe
 - Expressing efficiency greater than 1 or above 100%.
 - Saying energy is "lost" rather than dissipated.
 - Explaining insulation without naming the transfer mechanism it blocks.
+- Forgetting that kinetic energy depends on the square of speed, not speed itself.
+- Confusing work done with force alone — omitting the distance moved in the direction of the force.

@@ -44,6 +44,12 @@ Condensed for the final weeks. For the full explanation, use the
 
 **In skeletal formulae, each vertex and each line end is a carbon**, with enough hydrogens to complete four bonds. Forgetting the implied hydrogens is the most common reading error.
 
+## Shape and hybridisation
+
+The same VSEPR and hybridisation ideas apply directly to organic molecules: an **sp³** carbon is **tetrahedral**, an **sp²** carbon is **trigonal planar**, and an **sp** carbon is **linear**.
+
+**Ethene (C₂H₄) is planar** because both carbons are sp² hybridised — all six atoms in the molecule lie in a single flat plane, which is exactly the geometry that allows its π bond to form by sideways overlap above and below that plane.
+
 ## Nomenclature
 
 **Root** = longest continuous carbon chain. **Suffix** = principal functional group. **Prefix** = substituents, in alphabetical order.
@@ -71,6 +77,20 @@ Giving only one condition is a half-answer. If either carbon carries two identic
 **Optical isomerism** requires a **chiral centre** — a carbon with **four different groups**. The two enantiomers are non-superimposable mirror images and rotate plane-polarised light in **opposite directions**.
 
 **A racemic mixture is optically inactive**, because equal amounts of the two enantiomers rotate the light equally in opposite directions and cancel.
+
+## Reaction types
+
+Separate from *how* a bond breaks is *what happens overall* to the molecule:
+
+| Type | What happens |
+|---|---|
+| **Addition** | Two reactants become one product; nothing is lost |
+| **Substitution** | One atom or group replaces another |
+| **Elimination** | A small molecule is lost, typically forming a double bond |
+| **Hydrolysis** | Breakdown by reaction with water |
+| **Condensation** | Two molecules join with loss of a small molecule, often water |
+
+**Naming a mechanism combines both vocabularies**: electrophilic addition is addition initiated by an electrophile attacking an electron-rich double bond; nucleophilic substitution is substitution initiated by a nucleophile attacking an electron-poor carbon.
 
 ## Bond fission
 
@@ -112,6 +132,8 @@ Giving only one condition is a half-answer. If either carbon carries two identic
 - Using full arrows in a radical mechanism.
 - Saying a racemic mixture rotates light.
 - Numbering from the wrong end of the chain.
+- Confusing elimination (losing a small molecule) with substitution (swapping one group for another).
+- Treating hybridisation labels as unrelated to shape — sp² always means trigonal planar, sp³ always tetrahedral.
 
 ## Self-test
 
@@ -120,5 +142,7 @@ Giving only one condition is a half-answer. If either carbon carries two identic
 3. What is a chiral centre, and why is a racemate optically inactive?
 4. Distinguish homolytic from heterolytic fission and the arrows used for each.
 5. Why do alkenes undergo addition but arenes substitution?
+6. State the hybridisation and shape of the carbon atoms in ethene, and explain why this geometry allows the π bond to form.
+7. Distinguish elimination from substitution, and give the term for a mechanism combining "electrophilic" with "addition".
 
-**Answers:** 1. A carbon atom, with enough hydrogen atoms to give it four bonds. 2. A C=C double bond preventing rotation, and two different groups attached to each of the double-bonded carbons. 3. A carbon bonded to four different groups; a racemate contains equal amounts of both enantiomers, whose equal and opposite rotations cancel. 4. Homolytic fission splits the pair evenly to give two radicals and uses half-arrows; heterolytic fission gives an ion pair and uses full curly arrows. 5. Benzene's delocalised π system gives extra stability that addition would destroy, so substitution is preferred; an alkene's localised π bond can be sacrificed to gain two σ bonds.
+**Answers:** 1. A carbon atom, with enough hydrogen atoms to give it four bonds. 2. A C=C double bond preventing rotation, and two different groups attached to each of the double-bonded carbons. 3. A carbon bonded to four different groups; a racemate contains equal amounts of both enantiomers, whose equal and opposite rotations cancel. 4. Homolytic fission splits the pair evenly to give two radicals and uses half-arrows; heterolytic fission gives an ion pair and uses full curly arrows. 5. Benzene's delocalised π system gives extra stability that addition would destroy, so substitution is preferred; an alkene's localised π bond can be sacrificed to gain two σ bonds. 6. Both carbons are sp² hybridised, giving a trigonal planar shape; this places all six atoms in a single flat plane, allowing the π bond to form by sideways overlap of the p orbitals above and below that plane. 7. Elimination removes a small molecule, typically forming a double bond, while substitution replaces one atom or group with another; electrophilic addition describes an electrophile attacking an electron-rich double bond so that two reactants become one product.

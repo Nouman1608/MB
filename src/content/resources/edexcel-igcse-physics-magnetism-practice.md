@@ -78,6 +78,22 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 
 ---
 
+## Section C
+
+**8.** A bar magnet is made from one type of material; an electromagnet's core is made from another.
+
+**(a)** Distinguish between magnetically hard and magnetically soft materials. **[2]**
+
+**(b)** Explain why each material is suited to its respective use. **[2]**
+
+**9.** A straight wire and a solenoid both carry a current.
+
+**(a)** Describe the difference between the magnetic field pattern around a straight current-carrying wire and the field pattern inside a solenoid. **[2]**
+
+**(b)** A coil generates electricity as a magnet rotates inside it. State two factors, other than the strength of the magnet, that increase the size of the induced e.m.f. **[2]**
+
+---
+
 ## Answers
 
 **1.** **First** finger = **field**, se**C**ond finger = **current**, thu**M**b = **motion** [1] [1]. It applies to the **motor effect** — the force on a current-carrying conductor in a magnetic field [1].
@@ -112,6 +128,14 @@ It is **laminated** — built from thin insulated layers [1] — to **reduce edd
 **7.** Power loss in the cables is **I²R** [1]. Transmitting at high voltage means a **much lower current** for the same power [1], and since loss depends on the **square** of the current, the energy wasted is greatly reduced [1].
 *The explanation must be in terms of current, not voltage.*
 
+**8. (a)** A **magnetically hard** material **retains its magnetism** once magnetised [1]; a **magnetically soft** material **loses its magnetism easily** [1].
+
+**(b)** Hard materials suit **permanent magnets**, since they must stay magnetised without a continuing current [1]; soft materials suit **electromagnet cores**, since they must be magnetised and demagnetised rapidly as the current switches on and off [1].
+
+**9. (a)** A straight wire produces **concentric circular field lines** around it [1]; a solenoid produces a **strong, mostly uniform field inside it**, resembling that of a bar magnet [1].
+
+**(b)** Any two: **increasing the speed of relative motion** between the magnet and coil [1]; **increasing the number of turns** on the coil [1].
+
 ---
 
 ## Where marks are usually lost
@@ -121,3 +145,5 @@ It is **laminated** — built from thin insulated layers [1] — to **reduce edd
 - Not knowing the commutator's function.
 - Confusing lamination (eddy currents) with using soft iron (flux concentration).
 - Explaining transmission losses in terms of voltage rather than I²R.
+- Confusing magnetically hard materials (permanent magnets) with magnetically soft materials (electromagnet cores).
+- Describing the field inside a solenoid as circular rather than uniform.

@@ -115,6 +115,56 @@ real force (tension, gravity, friction, normal contact force) happens to act
 toward the centre in a given situation, e.g. tension in a string for a
 whirled object, or gravity for a satellite in orbit.
 
+## Banked tracks
+
+On a **frictionless** banked track at angle θ to the horizontal, only two
+forces act on a vehicle: its weight mg (vertically down) and the normal
+contact force N (perpendicular to the track surface). Resolving vertically,
+N cos θ = mg; resolving horizontally, the horizontal component of N provides
+the centripetal force, N sin θ = mv²/r. Dividing the two equations
+eliminates N:
+
+```
+tan θ = v² / (rg)
+```
+
+**Worked example.** A track is banked at 20° and designed for vehicles
+travelling at 25 m s⁻¹. The radius it should be built to:
+
+```
+r = v² / (g tan θ) = 25² / (9.81 × tan 20°) ≈ 175 m
+```
+
+At exactly this design speed and radius, no friction is needed at all;
+friction only becomes necessary if a vehicle's actual speed differs from
+the design speed.
+
+## Vertical circles
+
+For an object moving in a **vertical circle** — a bucket of water on a
+string, or a car passing over a hilltop — the centripetal force required is
+still mv²/r, but gravity's contribution to it changes with position around
+the circle. At the top and bottom:
+
+```
+Top:     T + mg = mv²/r   =>   T = mv²/r − mg
+Bottom:  T − mg = mv²/r   =>   T = mv²/r + mg
+```
+
+The tension (or normal force) is **greatest at the bottom** and **least at
+the top**, differing by 2mg between the two points. At the top, the
+**minimum speed** occurs when T falls to zero, so that gravity alone
+supplies the entire centripetal force:
+
+```
+mg = mv²/r   =>   v_min = √(gr)
+```
+
+Below this minimum speed, the object cannot maintain the circular path — a
+string goes slack, or a car loses contact with the road — because gravity
+alone would now exceed the centripetal force actually required, and the
+path curves away from the intended circle.
+
 ## Common mistakes
 
 - **Treating "centripetal force" as an additional force acting alongside the
@@ -127,6 +177,12 @@ circular motion, since direction is always changing — this is why there is
 still an acceleration.
 - **Mixing degrees and radians** — angular speed formulas require radians, not
 degrees.
+- **Assuming a banked track needs friction to work** — at the design speed
+for a given radius and angle, the normal force alone supplies the required
+centripetal force with no friction needed.
+- **Forgetting that tension cannot go negative** — the minimum speed at the
+top of a vertical circle is the speed at which tension reaches zero, not
+some arbitrarily small value.
 
 ## Quick revision checklist
 
@@ -134,6 +190,8 @@ degrees.
 - ω = 2π/T = 2πf, and v = ωr
 - a = v²/r = ω²r, directed toward the centre
 - F = mv²/r = mω²r, and identifying which real force provides it
+- tan θ = v²/(rg) for a frictionless banked track
+- T = mv²/r ∓ mg at the bottom/top of a vertical circle, and v_min = √(gr) at the top
 
 ## Related resources
 

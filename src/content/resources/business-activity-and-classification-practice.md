@@ -51,6 +51,28 @@ Related: [Business Activity and Classification revision notes](/resources/busine
 
 ---
 
+## Section C
+
+**7.** A small workshop decides to make only one component of a larger product, buying in everything else it needs.
+
+**(a)** Define specialisation in this context. **[2]**
+
+**(b)** Explain one advantage and one disadvantage of specialisation for this workshop. **[4]**
+
+**8.** A country has both privately-owned supermarkets and a government-run hospital.
+
+**(a)** Distinguish between the private sector and the public sector, giving one example of each. **[4]**
+
+**(b)** State one reason a government might choose to keep a service such as healthcare in the public sector rather than privatise it. **[2]**
+
+**9.** As economies develop, the balance of activity across the three economic sectors tends to change.
+
+**(a)** State how the relative importance of the primary and secondary sectors typically changes as an economy develops. **[2]**
+
+**(b)** Explain why a country's sector balance might be used as a rough indicator of its level of development. **[3]**
+
+---
+
 ## Answers
 
 **1. Need** — something **essential for survival**, such as food or shelter [1]. **Want** — something **desired but not essential** [1]. **Opportunity cost** — the **benefit of the next best alternative forgone** when a choice is made [1].
@@ -68,6 +90,18 @@ Related: [Business Activity and Classification revision notes](/resources/busine
 **Against:** if the shift comes from a **collapse in manufacturing rather than growth in services**, it may mean lost output and unemployment among workers whose skills do not transfer [1]. Many tertiary jobs in developing economies are **low-paid, insecure and in the informal sector**, so the headline figure can disguise underemployment [1]. Relying on services can also mean **importing more manufactured goods**, worsening the balance of payments [1].
 **Judgement:** it depends on **why** the shift is happening and **which kind** of service jobs are growing [1]. Growth in high-value services alongside a healthy secondary sector is beneficial; a shift caused by deindustrialisation into low-paid informal work is not [1].
 
+**7. (a)** Concentrating on producing a **narrow range of goods or services** rather than trying to make everything itself [2].
+
+**(b)** **Advantage:** the workshop's workers become **more skilled and efficient** at their specific task, raising output and quality [2]. **Disadvantage:** it creates **interdependence** — the workshop relies on outside suppliers for everything it does not make, so it is vulnerable if a supplier fails or raises prices [2].
+
+**8. (a)** The **private sector** consists of businesses owned and controlled by individuals, generally operating to make a profit — e.g. a supermarket chain [2]. The **public sector** consists of organisations owned and controlled by government, often providing services where profit is not the primary objective — e.g. a state hospital [2].
+
+**(b)** Because the service is considered **essential and should be accessible to everyone regardless of ability to pay**, rather than rationed by price as a profit-seeking private firm might do [2].
+
+**9. (a)** The **primary sector's share typically falls**, the **secondary sector grows before also declining in relative terms**, and the **tertiary sector's share rises** [2].
+
+**(b)** Because this shift tends to accompany **rising incomes, technology and productivity**, the balance between the sectors gives a rough indication of how industrialised and developed an economy is [3].
+
 ---
 
 ## Where marks are usually lost
@@ -76,3 +110,5 @@ Related: [Business Activity and Classification revision notes](/resources/busine
 - Giving factors of production without a relevant example.
 - Listing stakeholders without their objectives.
 - Writing a one-sided answer to an "evaluate" question — a judgement is required.
+- Describing specialisation without mentioning the resulting interdependence.
+- Confusing the public sector with a public good, or the private sector with privatisation.

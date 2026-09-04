@@ -47,6 +47,22 @@ Related: [Business in the Real World revision notes](/resources/gcse-business-re
 
 ---
 
+## Section C
+
+**7.** A business's aims and objectives can change as it develops.
+
+**(a)** State how a new business's objectives typically differ from those of an established business. **[2]**
+
+**(b)** State two ways, other than profit, that a business's success can be measured. **[2]**
+
+**8.** An entrepreneur is writing a business plan before launching a new café.
+
+**(a)** State three things a business plan typically contains. **[3]**
+
+**(b)** Explain two reasons why writing a business plan is valuable, even for an entrepreneur who is self-funding and not seeking external finance. **[4]**
+
+---
+
 ## Answers
 
 **1.** Advantages: the owner **keeps all the profit** [1] and has **complete control over decisions**, so can react quickly [1]. Disadvantages: **unlimited liability**, so personal assets are at risk [1]; **limited capital and no one to share the workload**, so growth is constrained [1].
@@ -66,6 +82,14 @@ Inorganic advantage: it is **fast, giving immediate market share, assets and exp
 **Against:** a **new business may prioritise survival or cash flow** over profit in its first years [1]; pursuing short-term profit can **damage reputation, staff morale and customer loyalty**, harming long-term profitability [1]; some businesses are **social enterprises or charities** whose aims are explicitly ethical or environmental [1].
 **Judgement:** profit is **necessary but not always the primary aim** [1]; the appropriate objective depends on the **stage of the business, its ownership and its values** [1], and long-term profitability often depends on pursuing other aims such as quality and reputation first [1].
 
+**7. (a)** A **new business** typically prioritises **survival and building a customer base** [1], while an **established business** may shift toward **growth, profit maximisation, or social/environmental objectives** [1].
+
+**(b)** Any two: **market share** [1]; **customer satisfaction** [1]; **ethical or environmental performance** [1].
+
+**8. (a)** Any three: a description of the **business idea**; the **target market**; how it will be **marketed**; its **objectives**; **financial forecasts** covering start-up costs, expected revenue and cash flow [3].
+
+**(b)** It forces the entrepreneur to **think through practical detail before committing money**, reducing the risk of **costly mistakes** [2]; it also helps the entrepreneur judge for **themselves whether the idea is financially viable**, not only whether a lender or investor would see it that way [2].
+
 ---
 
 ## Where marks are usually lost
@@ -74,3 +98,5 @@ Inorganic advantage: it is **fast, giving immediate market share, assets and exp
 - Confusing limited liability with limited company status.
 - Giving location factors without explaining the effect on the business.
 - Not reaching a supported judgement in evaluation questions.
+- Assuming a business's objectives stay fixed rather than shifting as it develops.
+- Listing business plan contents without explaining why writing one is valuable beyond raising finance.
