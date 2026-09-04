@@ -141,6 +141,11 @@ microeconomic content such as market structures and exchange-rate
 determination, rather than treating Macroeconomics as entirely
 self-contained.
 
+## Related resources
+
+- [Macroeconomics revision notes](/resources/ocr-a-level-economics-macroeconomics-revision-notes/)
+- [Macroeconomics practice questions](/resources/ocr-a-level-economics-macroeconomics-practice/)
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460) Specification*, version 3.0 (June

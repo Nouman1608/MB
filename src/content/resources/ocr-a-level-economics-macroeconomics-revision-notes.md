@@ -105,6 +105,11 @@ The circular flow of income models injections (investment, government spending, 
 
 Component 3 (Themes in economics) is fully synoptic across both Microeconomics and Macroeconomics, so revise the global context and financial sector sections with an eye to how they connect back to microeconomic content such as market structures and exchange-rate determination, rather than treating Macroeconomics as entirely self-contained.
 
+## Related resources
+
+- [Macroeconomics study guide](/resources/ocr-a-level-economics-macroeconomics/)
+- [Macroeconomics practice questions](/resources/ocr-a-level-economics-macroeconomics-practice/)
+
 ## Official syllabus
 
 OCR, *A Level in Economics (H460) Specification*, Section 2d, Component 2: Macroeconomics —
