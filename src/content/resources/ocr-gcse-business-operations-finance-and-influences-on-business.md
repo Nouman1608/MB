@@ -132,6 +132,11 @@ revision of both components -- rather than revising it separately at
 the end -- since it is not a distinct block of content but a way of
 answering Business 2 exam questions that draw on Business 1 material.
 
+## Related resources
+
+- [Operations, Finance and Influences revision notes](/resources/ocr-gcse-business-operations-finance-influences-revision-notes/)
+- [Operations, Finance and Influences practice questions](/resources/ocr-gcse-business-operations-finance-influences-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) in Business (J204) Specification*, Version 1.1

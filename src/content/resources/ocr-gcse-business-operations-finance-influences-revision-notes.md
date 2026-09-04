@@ -116,6 +116,11 @@ Business 2's finance sub-section is explicitly calculation-heavy compared with B
 
 The specification states directly that Component 02 assumes knowledge of business activity, marketing and human resources from Component 01 -- this is a deliberate design choice, not incidental overlap. A break-even or cash flow question here is often set in the context of a marketing decision (a new product launch, a pricing change) introduced conceptually in Business 1, so revising the two components entirely in isolation leaves a genuine gap for the synoptic questions in Section B.
 
+## Related resources
+
+- [Operations, Finance and Influences on Business study guide](/resources/ocr-gcse-business-operations-finance-and-influences-on-business/)
+- [Operations, Finance and Influences practice questions](/resources/ocr-gcse-business-operations-finance-influences-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) in Business (J204) Specification*, Section 2c —
