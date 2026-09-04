@@ -144,6 +144,11 @@ foundation even on a source-based component like the Investigation:
 strong source evaluation still depends on being able to bring accurate
 contextual knowledge to bear on what a source says and omits.
 
+## Related resources
+
+- [Paper 2 revision notes](/resources/edexcel-igcse-world-history-paper-2-revision-notes/)
+- [Paper 2 practice questions](/resources/edexcel-igcse-world-history-paper-2-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE History (4HI1) specification, Issue

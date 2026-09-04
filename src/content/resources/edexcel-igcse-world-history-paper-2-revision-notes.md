@@ -144,3 +144,8 @@ directly supports answering this question type. 5. 34% (AO1) plus 36%
 (AO2), 70% combined; it matters because strong source evaluation on the
 Investigation still depends on accurate contextual knowledge, not
 source-reading skill in isolation.
+
+## Related resources
+
+- [Paper 2 Investigation and Breadth Studies study guide](/resources/igcse-edexcel-world-history-paper-2-investigation-breadth-studies/)
+- [Paper 2 practice questions](/resources/edexcel-igcse-world-history-paper-2-practice/)
