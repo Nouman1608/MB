@@ -142,6 +142,11 @@ far" something explains a change.
 - Confirm exactly which Section A society and Section B theme your
 centre has taught before revising further.
 
+## Related resources
+
+- [Studies in Change revision notes](/resources/igcse-oxfordaqa-world-history-studies-in-change-revision-notes/)
+- [Studies in Change practice questions](/resources/igcse-oxfordaqa-world-history-studies-in-change-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE History (9245) specification, current

@@ -144,3 +144,8 @@ view, particularly in the technology and medicine themes. 5. Because
 this is a brand-new qualification with limited past papers, so its own
 specimen materials are the safest guide to actual question style and
 content emphasis.
+
+## Related resources
+
+- [Studies in Change study guide](/resources/igcse-oxfordaqa-world-history-studies-in-change/)
+- [Studies in Change practice questions](/resources/igcse-oxfordaqa-world-history-studies-in-change-practice/)
