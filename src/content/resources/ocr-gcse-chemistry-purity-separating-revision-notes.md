@@ -125,6 +125,11 @@ Beyond simply separating a mixture, chromatography's real analytical power is co
 - Calculate the Rf value for a spot travelling 4.5 cm when the solvent front travels 9.0 cm.
 - Explain how melting point data can be used to judge a sample's purity.
 
+## Related resources
+
+- [Purity and Separating Mixtures study guide](/resources/ocr-gcse-chemistry-purity-and-separating-mixtures/)
+- [Purity and Separating Mixtures practice questions](/resources/ocr-gcse-chemistry-purity-separating-practice/)
+
 ## Official syllabus
 
 OCR GCSE (9-1) Chemistry A (Gateway Science) J248 specification,

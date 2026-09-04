@@ -141,6 +141,11 @@ identify or check the purity of a substance.
 - Be able to suggest an appropriate purification or chromatographic
 method for an unfamiliar mixture described in an exam question.
 
+## Related resources
+
+- [Purity and Separating Mixtures revision notes](/resources/ocr-gcse-chemistry-purity-separating-revision-notes/)
+- [Purity and Separating Mixtures practice questions](/resources/ocr-gcse-chemistry-purity-separating-practice/)
+
 ## Official syllabus
 
 OCR GCSE (9-1) Chemistry A (Gateway Science) J248 specification,
