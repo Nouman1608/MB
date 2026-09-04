@@ -141,6 +141,11 @@ of ammonium chloride, are used as *evidence* that particles are in
 constant, random motion — be ready to explain what a specific diffusion
 result shows about particle behaviour, not just to describe the setup.
 
+## Related resources
+
+- [Atomic Structure and the Periodic Table revision notes](/resources/oxfordaqa-igcse-chemistry-atomic-structure-revision-notes/)
+- [Atomic Structure and the Periodic Table practice questions](/resources/oxfordaqa-igcse-chemistry-atomic-structure-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE Chemistry (9202) specification, Version 5.3
