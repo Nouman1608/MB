@@ -140,6 +140,11 @@ synoptic assessment, revise the labour market and financial markets
 sub-topics with an eye to how they connect to unemployment, inflation
 and monetary policy, which appear later in the qualification.
 
+## Related resources
+
+- [The Role of Markets and Money revision notes](/resources/ocr-gcse-economics-markets-money-revision-notes/)
+- [The Role of Markets and Money practice questions](/resources/ocr-gcse-economics-markets-money-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) in Economics (J205) Specification*, Version 3.0

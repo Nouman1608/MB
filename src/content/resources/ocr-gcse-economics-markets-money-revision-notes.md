@@ -99,6 +99,11 @@ Topic 2 follows directly from Topic 1 (economic agents and the basic economic pr
 
 **Answers:** 1. Movement: a change in price. Shift: a change in anything else (income, tastes, costs, number of suppliers). 2. The price and quantity at which the demand and supply curves intersect, where quantity demanded equals quantity supplied. 3. The responsiveness of quantity demanded or supplied to a change in price. 4. £1,800 − £410 = £1,390. 5. Any two: enabling saving, enabling borrowing, enabling investment, transmitting interest rate changes through the economy. 6. It shifts the whole demand curve to the right (outward), since the cause is a change in tastes/preferences rather than a change in the product's own price.
 
+## Related resources
+
+- [The Role of Markets and Money study guide](/resources/ocr-gcse-economics-the-role-of-markets-and-money/)
+- [The Role of Markets and Money practice questions](/resources/ocr-gcse-economics-markets-money-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) in Economics (J205) Specification*, Section 2c —
