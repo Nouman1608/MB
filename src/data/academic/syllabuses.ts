@@ -1534,6 +1534,86 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-08-28',
     notes: 'First assessments 2025. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide; this record and its matching assessment record are sourced from that licensed guide (physics-guide.pdf), cross-verified against a current (Aug 2026) published school IB Physics resource for the exact SL/HL paper mark totals -- see the matching assessment record\'s own notes for the full sourcing chain. Five topics (A-E, with HL-only sub-topics within several) plus an internal assessment (individual scientific investigation).',
   },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'biology',
+    officialTitle: 'International Baccalaureate Diploma Programme Biology',
+    code: 'DP Biology',
+    boardSummary:
+      'IB DP Biology is primarily concerned with the study of life and living systems, from molecules and cells to ecosystems and the biosphere, combining theoretical understanding with an emphasis on scientific inquiry, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/dp_sciences_biology_subject-brief_jan_2022_e.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Four unifying themes (Unity and diversity; Form and function; Interaction and interdependence; Continuity and change) plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'chemistry',
+    officialTitle: 'International Baccalaureate Diploma Programme Chemistry',
+    code: 'DP Chemistry',
+    boardSummary:
+      'IB DP Chemistry is concerned with identifying patterns that help explain matter at the microscopic level, allowing its behaviour to be predicted and controlled at a macroscopic level, combining representative models and explanatory theories with an emphasis on scientific inquiry, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/dp_sciences_chemistry_subject-brief_jan_2022_e.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'First assessment 2025. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Six structure/reactivity topics plus an experimental programme including a scientific investigation. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at Higher Level only.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'geography',
+    officialTitle: 'International Baccalaureate Diploma Programme Geography',
+    code: 'DP Geography',
+    boardSummary:
+      'IB DP Geography focuses on the interactions between individuals, societies and physical processes in both time and space, integrating physical, environmental and human geography, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/geography-sl-hl-2017-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'First assessments 2019. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Optional geographic themes plus a compulsory core theme (global change), an HL-only extension (global interactions), and fieldwork. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'world-history',
+    officialTitle: 'International Baccalaureate Diploma Programme History',
+    code: 'DP History',
+    boardSummary:
+      'IB DP History is a world history course based on a comparative and multi-perspective approach, covering prescribed subjects, world history topics and (at Higher Level) a regional depth study, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/history-hl-2020-eng.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'First assessments 2017. Sourced from the freely public official subject briefs (Higher Level and Standard Level, published as two separate PDFs) plus the freely public official specimen exam papers, all directly fetched and read this session -- no licensed subject guide was needed. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'language-a-literature',
+    officialTitle: 'International Baccalaureate Diploma Programme Language A: Literature',
+    code: 'DP Language A: Literature',
+    boardSummary:
+      'IB DP Language A: Literature explores the various manifestations of literature as a powerful mode of writing across cultures and throughout history, through close analysis of literary texts in a number of forms and from different times and places, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/curriculum.brief-languagea.literature-eng.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Three syllabus areas (Readers, writers and texts; Time and space; Intertextuality: connecting texts) plus an Individual Oral and, at Higher Level, an additional written HL Essay. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'language-b',
+    officialTitle: 'International Baccalaureate Diploma Programme Language B',
+    code: 'DP Language B',
+    boardSummary:
+      'IB DP Language B is a language acquisition course for students with some previous experience of the target language, developing communication skills across five prescribed themes, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/lang-b-2018-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'First assessment 2020. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Five prescribed themes (Identities; Experiences; Human ingenuity; Social organization; Sharing the planet); the assessment outline is identical at both tiers except for the complexity of language required. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'mathematics-analysis-and-approaches',
+    officialTitle: 'International Baccalaureate Diploma Programme Mathematics: Analysis and Approaches',
+    code: 'DP Mathematics: Analysis and Approaches',
+    boardSummary:
+      'IB DP Mathematics: Analysis and Approaches recognizes the need for analytical expertise, developing important mathematical concepts in a comprehensible, coherent and rigorous way with a strong emphasis on constructing, communicating and justifying correct mathematical arguments, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/subject-brief-dp-math-analysis-and-approaches-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Five syllabus topics (Number and algebra; Functions; Geometry and trigonometry; Statistics and probability; Calculus) plus an internally assessed Mathematical Exploration; Higher Level sits an additional Paper 3. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'mathematics-applications-and-interpretation',
+    officialTitle: 'International Baccalaureate Diploma Programme Mathematics: Applications and Interpretation',
+    code: 'DP Mathematics: Applications and Interpretation',
+    boardSummary:
+      'IB DP Mathematics: Applications and Interpretation recognizes the increasing role of mathematics and technology in a data-rich world, focusing on topics used in real-world modelling and interpretation, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/subject-brief-dp-math-applications-and-interpretations-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Five syllabus topics (Number and algebra; Functions; Geometry and trigonometry; Statistics and probability; Calculus), sharing 60 hours of common content with Mathematics: Analysis and Approaches, plus an internally assessed Mathematical Exploration; Higher Level sits an additional Paper 3. All external assessment in this course requires technology. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
