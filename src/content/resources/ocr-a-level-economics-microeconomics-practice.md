@@ -45,6 +45,8 @@ Related: [Microeconomics revision notes](/resources/ocr-a-level-economics-microe
 
 **6.** Evaluate whether a national minimum wage reduces poverty. **[12]**
 
+**7.** Explain the difference between adverse selection and moral hazard as forms of information failure, using an example of each. **[6]**
+
 ---
 
 ## Answers
@@ -65,6 +67,8 @@ Unintended consequences: a **black market develops**, with illegal payments abov
 **Against:** in a competitive labour market a minimum wage above equilibrium causes **excess supply of labour — unemployment** [1], and those who lose their jobs are the **least skilled, precisely the group the policy targets** [1]; **many poor households contain nobody in work at all**, so a minimum wage does not reach them [1]; some low-paid workers are **second earners in comfortable households**, so the policy is poorly targeted [1]; firms may respond by **cutting hours, training or non-wage benefits**, or by raising prices, which erodes the real gain [1].
 **Judgement:** the effect depends on **how far above the equilibrium wage it is set, the elasticity of demand for labour, and whether employers have monopsony power** [1] [1]. In a monopsonistic labour market a minimum wage can **raise both wages and employment** [1]. It is best judged as **one instrument among several** — combined with tax credits and training it reduces in-work poverty, but on its own it cannot address poverty among the workless [1].
 
+**7.** **Adverse selection** occurs **before** a transaction, when one party holds information the other lacks and this affects who chooses to take part [1] [1] — for example, in a second-hand car market, sellers know more about a vehicle's faults than buyers do, so buyers assume the worst and offer only an average price; this pushes good-quality cars out of the market and leaves mostly poor-quality ones, the so-called "lemons problem" [1] [1]. **Moral hazard** occurs **after** a transaction, when one party's behaviour changes because they no longer bear the full consequences of it [1] [1] — for example, a driver with fully comprehensive insurance may take fewer precautions against theft or damage, since the insurer now bears most of the cost of anything going wrong [1] [1]. Both are forms of **asymmetric information** and both justify government intervention — for instance compulsory disclosure or vehicle history checks to reduce adverse selection, and no-claims discounts or excess payments to reduce moral hazard [1].
+
 ---
 
 ## Where marks are usually lost
@@ -73,3 +77,4 @@ Unintended consequences: a **black market develops**, with illegal payments abov
 - Not distinguishing MPB from MSB explicitly.
 - Describing a price ceiling without unintended consequences.
 - Ignoring monopsony in the minimum wage evaluation.
+- Confusing adverse selection (an information problem before the transaction) with moral hazard (a behaviour change after it).

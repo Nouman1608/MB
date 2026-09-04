@@ -54,6 +54,8 @@ magnification = image size / actual size
 
 Electron microscopes have **higher magnification and higher resolution** than light microscopes, so sub-cellular structures can be seen in far more detail. Resolution is the ability to distinguish two points as separate.
 
+**Worked example:** an organelle has a real width of 20 um and appears 40 000 um wide in a micrograph. Rearranging the formula gives magnification = image size / actual size = 40 000 / 20 = **x2000**. Light microscopes typically reach a maximum useful magnification of only about x2000, so a result at or above this figure is a signal that an electron micrograph, not a light micrograph, must have been used -- exam answers that ask you to justify the choice of microscope should quote this approximate ceiling rather than just repeating "higher magnification."
+
 **Required practical:** thin specimen, stain (iodine for plant cells, methylene blue for cheek cells), lower the coverslip **at an angle** to avoid air bubbles, start with the **lowest** power objective, focus with the coarse then fine adjustment. Drawings must be in pencil, with clean unbroken lines, no shading, and a magnification stated.
 
 ## Mitosis and the cell cycle

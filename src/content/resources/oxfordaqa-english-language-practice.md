@@ -49,6 +49,8 @@ Related: [English Language revision notes](/resources/oxfordaqa-english-language
 **(a)** Explain **three** techniques you would use and their effect on the reader. **[6]**
 **(b)** Explain why acknowledging the opposing view strengthens your argument. **[3]**
 
+**7.** Composition marks are split between content/organisation and **technical accuracy**. Name **three** features of technical accuracy examiners credit directly, and explain what "range" means in this context. **[5]**
+
 ---
 
 ## Answers
@@ -69,6 +71,8 @@ Common mistake: **writing about text A and then text B in two separate halves** 
 **6. (a)** Any three, 2 marks each: **rhetorical questions** — invite the reader to reach the conclusion themselves, which is more persuasive than being told [1] [1]. **Statistics and expert evidence** — lend authority and make the argument hard to dismiss as personal opinion [1] [1]. **Anecdote** — makes an abstract policy argument emotionally concrete and relatable [1] [1]. **Direct address and inclusive pronouns** — position the reader as an ally who already shares the writer's concern [1] [1]. **The rule of three or a triplet** — creates a memorable rhythm that lodges the point [1] [1].
 **(b)** It shows the writer is **informed and reasonable rather than one-sided**, which makes the reader more willing to trust them [1]. It allows the writer to **rebut the strongest opposing point directly**, so the reader has no unanswered objection left [1]. A piece that ignores the counter-argument invites the reader to supply it themselves, which weakens the case [1].
 
+**7.** Any three, 1 mark each: **sentence demarcation**, including avoiding comma splices [1]; **consistent tense** throughout the piece [1]; **subject-verb agreement** [1]; correct use of **apostrophes for possession, as distinct from plurals** [1]; **paragraphing that signals a shift** in time, place or topic [1]. **Range** means using varied sentence structures and precise vocabulary, but this ambition is only credited when it is **controlled** -- a simple word used correctly is worth more than a complex one used wrongly [2].
+
 ---
 
 ## Where marks are usually lost
@@ -77,3 +81,4 @@ Common mistake: **writing about text A and then text B in two separate halves** 
 - Restating the quotation instead of explaining it.
 - Comparing texts sequentially rather than point by point.
 - Writing a persuasive piece with no acknowledgement of the other side.
+- Reaching for ambitious vocabulary that is used incorrectly, rather than controlled, accurate range.

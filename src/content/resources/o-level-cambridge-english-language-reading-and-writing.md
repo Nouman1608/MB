@@ -70,6 +70,8 @@ Where a question says **"in your own words"**, rewording is what earns the mark;
 
 **Summary** is marked on two things: selecting every relevant point, and expressing them concisely in your own words. Exclude examples, repetition and your own opinion, and respect the word limit. A useful method is to list the points first, then join them into continuous prose.
 
+A summary is easily confused with a **paraphrase**, but they are different skills. A summary selects only the relevant points and compresses them, so it ends up much shorter than the original. A paraphrase restates the whole passage in different words at roughly the same length -- which is not what a summary question is asking for, and answering as if it were tends to waste both time and words on material that carries no marks.
+
 ## Reading: language analysis
 
 For "explain the effect" questions, the mark is for the **effect**, not the label.
@@ -86,6 +88,8 @@ Quote briefly, explain what the image suggests, then link it to the reader's imp
 ## Writing: directed and composition
 
 **Directed writing** provides a form, audience and purpose — a letter, speech, report or article. All three must be honoured: form governs conventions, audience governs register, purpose governs structure.
+
+For a persuasive form such as a speech, a small set of techniques does most of the work: **rhetorical questions**, which invite the audience to reach the conclusion for themselves rather than being told it; **the rule of three**, which is especially memorable in speech since a listener cannot go back and reread; **personal anecdote**, which makes an abstract issue concrete and emotionally real; and **inclusive pronouns** such as "we" and "our", which create a sense of shared responsibility between speaker and audience. Using two or three of these deliberately, rather than reaching for all of them at once, tends to read as more controlled and more persuasive.
 
 **Composition** offers narrative, descriptive and argumentative options. Choose on the basis of what you can sustain, not what sounds impressive.
 

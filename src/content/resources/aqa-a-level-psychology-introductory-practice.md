@@ -49,6 +49,8 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 
 **6.** Explain **four** definitions of abnormality and give one limitation of each. **[8]**
 
+**7.** Explain the **dispositional** explanation of obedience and give **one** weakness of it. **[4]**
+
 ---
 
 ## Answers
@@ -68,6 +70,8 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 
 **6.** **Statistical infrequency** — behaviour that is rare in the population [1]; limitation: some rare characteristics such as a very high IQ are **desirable, not abnormal**, and some disorders are common [1]. **Deviation from social norms** — behaviour that violates society's unwritten rules [1]; limitation: norms are **culturally and historically specific**, so the definition can be used to label non-conformity as illness [1]. **Failure to function adequately** — inability to cope with everyday demands [1]; limitation: it is **subjective who judges "adequate"**, and some people with serious disorders continue to function [1]. **Deviation from ideal mental health** — falling short of criteria such as self-actualisation and accurate perception of reality [1]; limitation: the criteria are **so demanding that almost everyone would be classed as abnormal**, and they reflect Western individualist values [1].
 
+**7.** The **authoritarian personality (Adorno)** is the **dispositional** explanation of obedience: it locates the cause within the individual's own personality rather than in the features of the situation, and is measured using the **F-scale**, which identifies traits such as rigid, black-and-white thinking and excessive deference to authority [1] [1]. **Weakness:** it cannot explain **whole populations obeying** the same authority figure, as in Milgram's studies — a dispositional account would require an implausibly uniform personality across millions of people, which is why situational explanations such as proximity, location, uniform and the agentic state are generally preferred [1] [1].
+
 ---
 
 ## Where marks are usually lost
@@ -76,3 +80,4 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 - Describing the working memory model without the episodic buffer.
 - Giving Strange Situation percentages without describing the behaviours.
 - Stating definitions of abnormality without a limitation when asked.
+- Giving the dispositional explanation of obedience without stating its population-level weakness.

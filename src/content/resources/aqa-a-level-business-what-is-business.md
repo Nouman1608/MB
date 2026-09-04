@@ -81,6 +81,8 @@ Common corporate objectives include profit maximisation, growth, market share, s
 
 Objectives should be **SMART**: specific, measurable, achievable, realistic and time-bound.
 
+**Profit and cash flow are not the same thing and should not be used interchangeably in an answer.** Profit is revenue minus total costs over a period, an accounting measure of overall performance. Cash flow is the actual movement of money in and out of the business day to day. A business can be profitable on paper but still run out of cash -- for example if customers are slow to pay or if it ties up too much money in stock -- which is why cash flow, not profit, is what keeps a business trading from one week to the next.
+
 ## Forms of ownership
 
 | Form | Liability | Key features |
@@ -89,6 +91,8 @@ Objectives should be **SMART**: specific, measurable, achievable, realistic and 
 | Partnership | Usually unlimited | Shared capital and expertise, shared decisions and disputes |
 | Private limited (Ltd) | Limited | Shares sold privately, more capital, must publish accounts |
 | Public limited (plc) | Limited | Shares traded publicly, large capital, risk of takeover, dilution of control |
+
+These four forms all sit within the **private sector**: businesses owned by individuals or shareholders and run primarily to make a profit. The **public sector**, by contrast, is owned and funded by the state -- schools, the NHS, local councils -- and exists to provide a service rather than to generate a return for owners, so it is judged on service delivery and value for money rather than on profit. A business form question that only compares sole trader, partnership, Ltd and plc is implicitly restricted to the private sector; questions that ask about provision more broadly may expect this public/private distinction as well.
 
 **Limited liability** is the pivotal concept: shareholders risk only what they invested, which is what makes external investment attractive.
 

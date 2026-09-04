@@ -103,6 +103,8 @@ Questionnaires should use clear language, avoid leading and ambiguous questions,
 
 Bias arises from an incomplete sampling frame, non-response, self-selection, leading questions, and interviewer influence. Increasing sample size reduces sampling error but does **not** remove bias.
 
+**Worked example.** A researcher wants to survey the reading habits of adults in a town, so she stands outside a bookshop on a Saturday morning and asks every 5th person who passes -- systematic sampling applied to a self-selected location. This sample is unlikely to be representative for two separate reasons: it only includes people **near a bookshop**, who are already more likely to be interested in reading than the general adult population, so the results will overstate reading habits; and it is conducted only on a **Saturday morning**, which excludes adults who work or are otherwise unavailable at that time, so the sample also fails to represent all adults' schedules and habits. The fix is not a bigger sample but a **different sampling frame** -- surveying at several different locations and at different times and days, so the frame is no longer skewed toward people who were already likely to be readers.
+
 Data may be recorded using a **tally chart** or a **data collection sheet**, then organised into a grouped frequency table with equal class widths where possible.
 
 ## Worked example

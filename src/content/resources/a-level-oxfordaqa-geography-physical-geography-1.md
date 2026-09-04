@@ -104,6 +104,16 @@ Tropical storms require sea temperatures above about 27 degrees Celsius to a dep
 
 Hazards are wind, **storm surge** (usually the greatest killer), flooding and landslides. Management follows prediction, preparation, protection and planning.
 
+## Coastal systems and landscapes (Option 1b)
+
+Coastlines are shaped by three erosion processes -- **hydraulic action** (the sheer force of water compressing air in rock cracks), **abrasion** (rock fragments carried by waves scouring the coastline) and **attrition** (rock fragments wearing each other down as they collide) -- alongside **solution**, the chemical dissolving of soluble rock. Material is moved along the coast by **longshore drift**: waves approach the beach at an angle, so the swash carries sediment obliquely up the beach while backwash drags it straight back down under gravity, producing a net movement of material along the shore.
+
+These processes produce a characteristic set of **landforms**. Differential erosion of alternating resistant and less-resistant rock produces headlands and bays. Along a resistant headland, wave action can progressively erode a line of weakness into a cave, then widen it into an arch, then collapse the arch's roof to leave an isolated stack, and finally erode the stack's base to leave a stump. Continued erosion of a retreating cliff leaves a gently sloping **wave-cut platform** exposed at its base. Where longshore drift dominates over erosion, deposition produces **spits** (where the coastline changes direction, allowing sediment to build out into open water) and **tombolos** (where a spit extends far enough to connect the mainland to an island).
+
+Wave type also matters: **constructive waves** are low and have a long wavelength, with swash stronger than backwash, so they build beaches up; **destructive waves** are high with a short wavelength, and their strong backwash pulls material away, eroding beaches.
+
+Coastlines are best understood as a **sediment cell** -- a largely closed system of sources, transfers and sinks of material. This framing explains why coastal management in one location affects another: groynes built to trap sediment for one beach starve the beach further along the drift direction of material, causing erosion there instead. Management choices split into **hard engineering** (sea walls, groynes, rip-rap) and **soft engineering** (beach nourishment, dune stabilisation, managed retreat). **Managed retreat** -- deliberately allowing the sea to reclaim land rather than defending it -- is increasingly favoured on cost and sustainability grounds, but remains socially contentious wherever it means abandoning inhabited or farmed land.
+
 ## Worked example
 
 Two earthquakes of magnitude 7.0 occur, one in a high-income country and one in a low-income country. Explain the difference in impact.
