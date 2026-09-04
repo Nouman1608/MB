@@ -23,7 +23,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Purpose and objectives
 
+A business converts inputs into outputs that satisfy customer needs, **adding value** in the process — the difference between the cost of inputs and the price the customer pays. Added value is increased by **branding, quality, service, convenience and design**, not only by raising price.
+
 **Mission → corporate objectives → functional objectives → tactics.**
+
+Common corporate objectives include profit maximisation, growth, market share, survival, cash flow, and increasingly social and ethical goals. They **conflict as often as they align** — growth frequently consumes the cash a firm needs for stability, and ethical sourcing often raises costs. Which objective dominates depends on the **stage of the business, the state of the market and stakeholder expectations**.
 
 Objectives must be **SMART**, and they change with circumstance — survival in a downturn, growth in a boom.
 
@@ -87,6 +91,8 @@ market growth = change in size / original size x 100
 **Decision trees:** work right to left, `expected value = Σ(probability × payoff)`, then subtract the cost. **The evaluation is the point**: probabilities are estimates, qualitative factors such as morale and reputation are excluded, and timing is ignored. It is a decision *aid*, not a decision.
 
 **Opportunity cost and risk** should feature in any recommendation, alongside the firm's objectives, resources, market and competition.
+
+**Worked example — flotation.** A private limited company considers floating on the stock market. **For**: raises substantial capital for expansion; shares become liquid and easier to sell; raises public profile and credibility. **Against**: dilutes ownership and control; vulnerable to hostile takeover; costly flotation and reporting requirements; short-term pressure from shareholders for dividends. The marks come from a **judgement that depends on context** — the scale of expansion planned, and how much the current owners value retaining control.
 
 ## Answering the questions
 

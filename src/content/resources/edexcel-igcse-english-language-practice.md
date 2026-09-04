@@ -49,6 +49,14 @@ Related: [Non-fiction Texts and Transactional Writing revision notes](/resources
 
 **6.** Explain the difference between analysing a writer's **viewpoint** and simply summarising **what the text says**. **[3]**
 
+## Section C
+
+**7.** Explain the difference between an **inference** question and a **language analysis** question, and explain why a candidate who is confident at identifying facts can still lose marks on either. **[4]**
+
+**8.** A non-fiction writer opens a paragraph with a statistic and follows it with a short anecdote about one individual. Explain the purpose of each. **[4]**
+
+**9.** Correct the errors in this sentence and name each error: *"The report was late, it's conclusions were unclear and every readers opinion was ignored."* **[3]**
+
 ---
 
 ## Answers
@@ -68,6 +76,12 @@ Common error: writing about **one text and then the other in separate halves**, 
 **(c)** **Include yourself in the problem** — using "we" and admitting your own experience of stress, so the reader does not feel judged [1] [1]; **give specific, achievable suggestions rather than commands** — "try twenty minutes then a break" rather than "you must revise properly" — because concrete small steps feel possible and imperatives feel like nagging [1] [1].
 
 **6. Summarising** states **what information the text contains** [1]. **Analysing viewpoint** identifies **what the writer thinks and feels about the subject, and shows how their language, structure and selection of detail reveal it** [1] — for example noting that the writer's choice to describe only the queues and not the exhibits reveals an underlying impatience [1].
+
+**7.** An **inference** question asks the candidate to work out **implied meaning** — what the text suggests without stating directly [1]. A **language analysis** question asks the candidate to explain the **effect of specific word or structural choices** [1]. These are genuinely different skills from literal comprehension (identifying explicit information) [1], so a candidate who can accurately locate facts in a text may still fail to shift approach when a question instead requires inference or analysis, losing marks despite reading the passage correctly [1].
+
+**8.** The **statistic lends authority and objectivity**, establishing the scale of an issue with evidence the reader cannot easily dismiss [1] [1]. The **anecdote about one individual makes the abstract issue personal**, giving the reader someone to picture and care about, which a statistic alone cannot do [1] [1].
+
+**9.** *"The report was late; its conclusions were unclear and every reader's opinion was ignored."* **Corrections:** the comma splice between "late" and "it's" is fixed with a semicolon [1]; **it's → its** (possessive, not "it is") [1]; **every readers → every reader's** (singular possessive apostrophe, not a plural) [1].
 
 ---
 

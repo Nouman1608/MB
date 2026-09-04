@@ -35,6 +35,8 @@ Every transaction affects **at least two** items and the equation must always ba
 
 Capital is increased by profit and additional investment; reduced by losses and **drawings**.
 
+**Worked examples — tracing a transaction through the equation.** A $5,000 bank loan received in cash: assets increase by $5,000 (the cash) and liabilities increase by $5,000 (the loan owed) — capital is untouched, and the equation stays balanced. $500 taken in drawings: assets decrease by $500 (cash leaving the business) and capital decreases by the same $500. Practising this two-sided trace for different transaction types — a cash purchase, a credit sale, drawings, a loan received — is what turns the equation from a memorised formula into a genuine checking tool.
+
 ## Double entry
 
 **Every transaction has a debit and an equal credit.**
@@ -96,6 +98,18 @@ Errors that **do** unbalance the trial balance — a single entry, two debits, o
 - **Revenue expenditure** — running costs, including repairs; shown in the income statement.
 
 Treating capital expenditure as revenue **understates profit and understates non-current assets**. Being able to state the effect on *both* statements is what earns full marks.
+
+## Accounting concepts
+
+**Prudence** — do not overstate assets or profit, and do not understate liabilities or losses; recognise losses as soon as they are foreseen, but gains only once realised.
+
+**Matching (accruals)** — revenues and the costs incurred in earning them are recorded in the **same period**, regardless of when cash actually moves.
+
+**Going concern** — assume the business will continue trading for the foreseeable future, so assets are valued at **cost** rather than break-up (forced-sale) value.
+
+**Consistency** — apply the **same accounting treatment from one period to the next**, so results remain comparable over time.
+
+**Book-keeping versus accounting:** book-keeping is the routine, day-to-day recording of transactions; accounting is the broader, analytical activity of using those records to interpret performance, monitor progress and inform decisions. Accounting is not simply the mechanical act of writing entries down — this exact distinction is specifically tested.
 
 ## Exam traps
 

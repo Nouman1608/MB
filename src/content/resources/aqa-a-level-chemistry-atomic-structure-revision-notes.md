@@ -46,11 +46,15 @@ Five stages, and the marks are for naming all five **in order** with what happen
 KE = ½mv²    so    t = d √(m / 2KE)
 ```
 
-**The critical distinction:** with electrospray, the ion is XH⁺, so the **m/z value is one greater than the Mr** and you must subtract 1. Forgetting this is the standard error.
+**Worked example.** An ion of mass 1.4 × 10⁻²⁵ kg has kinetic energy 4.8 × 10⁻¹⁶ J. Rearranging KE = ½mv²: v = √(2 × KE / m) = √(2 × 4.8 × 10⁻¹⁶ / 1.4 × 10⁻²⁵) = √(6.86 × 10⁹) ≈ **8.3 × 10⁴ m/s**.
+
+**The critical distinction:** with electrospray, the ion is XH⁺, so the **m/z value is one greater than the Mr** and you must subtract 1. Forgetting this is the standard error. Worked example: a sample analysed by electrospray gives a peak at m/z 181, so Mᵣ = 181 − 1 = **180**; with electron impact ionisation no such correction is needed, since the ion formed is X⁺ itself, with the same mass as the original molecule.
 
 ```
 relative atomic mass = Σ(isotope mass × abundance) / total abundance
 ```
+
+**Worked example.** Magnesium has isotopes of mass 24, 25 and 26 with abundances 79.0%, 10.0% and 11.0%. Aᵣ = [(24 × 79.0) + (25 × 10.0) + (26 × 11.0)] ÷ 100 = (1896 + 250 + 286) ÷ 100 = 2432 ÷ 100 = **24.3** (to one decimal place).
 
 ## Electron configuration
 

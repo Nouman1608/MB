@@ -58,6 +58,30 @@ added heat.
 has **no effect on the position of equilibrium** — only on how quickly
 equilibrium is reached.
 
+## Industrial compromise: rate versus yield
+
+Both the Haber process (N₂ + 3H₂ ⇌ 2NH₃) and the Contact process (2SO₂ +
+O₂ ⇌ 2SO₃) are **exothermic with fewer moles of gas on the product side**,
+so yield alone would favour **low temperature and high pressure**. Yet both
+are run hot: the Haber process at around 450°C and 200 atm with an iron
+catalyst, and the Contact process at around 450°C and only 1–2 atm with a
+V₂O₅ catalyst.
+
+The reasoning is always **rate versus yield, plus cost**. A lower
+temperature would raise the equilibrium yield, but the rate would become
+uneconomically slow, so a moderate temperature is chosen as a compromise
+between the two. High pressure raises the yield further, but costs far
+more in plant construction and running energy — which is why the Contact
+process, already achieving around 96% conversion even at low pressure,
+does not pay for the extra cost of high pressure, while the Haber process,
+with a much lower equilibrium yield at atmospheric pressure, does.
+
+**The catalyst does not improve the yield at all.** It speeds up the
+forward and reverse reactions equally, so it only shortens the time taken
+to reach whatever equilibrium position the temperature and pressure
+already determine — a genuine economic benefit, but not one that operates
+through Le Chatelier's principle.
+
 ## The equilibrium constant, Kc
 
 For a general reaction aA + bB ⇌ cC + dD at equilibrium, the equilibrium

@@ -81,6 +81,19 @@ This is why a battery's measured terminal voltage drops under load, especially
 noticeable when internal resistance is significant relative to the external
 circuit's resistance.
 
+**Worked example.** A cell of e.m.f. 1.50 V and internal resistance 0.80 Ω is
+connected to a 4.20 Ω resistor. Current I = ε / (R + r) = 1.50 / (4.20 + 0.80)
+= 1.50 / 5.00 = **0.30 A**. Terminal p.d. = ε − Ir = 1.50 − (0.30 × 0.80) =
+1.50 − 0.24 = **1.26 V**. If the external resistance is reduced, current
+increases, so more energy is transferred inside the cell (Ir increases) and
+the terminal p.d. **falls further** below the e.m.f.
+
+**Reading e.m.f. and internal resistance from a V-I graph.** Since
+V_terminal = ε − Ir, plotting terminal p.d. against current gives a straight
+line with a **negative gradient equal to −r** and a **y-intercept equal to
+ε**. A graph with gradient −0.45 V A⁻¹ and intercept 1.62 V therefore gives
+ε = 1.62 V and r = 0.45 Ω.
+
 ## Kirchhoff's laws
 
 **Kirchhoff's first law:** the sum of currents entering a junction equals the
@@ -117,6 +130,17 @@ Replacing one fixed resistor in a potential divider with a **thermistor** or
 **LDR** produces an output voltage that varies with temperature or light
 intensity respectively — a light- or temperature-sensing circuit, since the
 varying component's changing resistance changes the voltage division ratio.
+
+## Meters
+
+An **ideal ammeter has zero resistance** and is connected in **series**, so
+it does not reduce the current it is measuring. An **ideal voltmeter has
+infinite resistance** and is connected in **parallel**, so it draws no
+current away from the component it is measuring. A **real voltmeter draws
+a small current**, since its resistance is large but not infinite, which
+slightly reduces the potential difference it is trying to measure — a
+systematic error worth naming explicitly when a question asks why a
+measured reading differs from a calculated one.
 
 ## Common mistakes
 

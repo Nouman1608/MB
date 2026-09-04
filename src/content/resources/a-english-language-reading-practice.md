@@ -47,6 +47,15 @@ Related: [Reading and Analysis revision notes](/resources/a-english-language-rea
 
 **6.** Explain how the following contribute to the coherence of a text: anaphoric reference, lexical field, discourse markers. **[6]**
 
+## Section C
+
+**7.** A transcript shows a speaker saying: *"So, er, the thing is — right — we need to, um, we need to think about this differently."*
+
+**(a)** Identify **three** spoken language features present. **[3]**
+**(b)** Explain why these should not be analysed as errors. **[2]**
+
+**8.** Explain what a directed writing task requires that a summary does not, and state **two** things a strong commentary on your own directed writing must do. **[4]**
+
 ---
 
 ## Answers
@@ -64,6 +73,11 @@ Related: [Reading and Analysis revision notes](/resources/a-english-language-rea
 **5.** Any three, 2 marks each: the **passive voice**, which removes the agent and creates impersonality — "it was decided that" rather than "we decided" [1] [1]; **nominalisation**, turning processes into nouns — "the implementation of the policy" rather than "we implemented the policy" — which makes the text denser and more abstract [1] [1]; the **absence of contractions and of elision** — "do not" rather than "don't" [1] [1]; **complex subordination and longer noun phrases** rather than short coordinated clauses [1] [1]; **third person rather than first or second person address** [1] [1].
 
 **6. Anaphoric reference** — pronouns and determiners that **point back to something already mentioned** ("the minister... she..."), which **binds sentences together and avoids repetition** [1] [1]. **Lexical field** — a **group of words from the same semantic area** running through the text ("court", "verdict", "counsel"), which **signals the subject consistently and lets the reader predict what follows** [1] [1]. **Discourse markers** — words such as "however", "furthermore", "in conclusion", which **signal the logical relationship between one part of the text and the next**, guiding the reader through the argument [1] [1].
+
+**7. (a)** Any three: **fillers** ("er", "um") [1]; a **discourse marker** used to open and manage the turn ("so", "right") [1]; **repetition/false start** ("we need to, um, we need to") [1].
+**(b)** These are **normal features of unplanned, spontaneous speech**, not mistakes [1]; each achieves something functional — a filler buys planning time, a repeated false start allows the speaker to reformulate mid-sentence, and "right" can hold the floor or signal a shift in the point being made [1].
+
+**8.** A directed writing task requires the candidate to **transform** a text for a new audience, purpose and form — selecting and rephrasing relevant material — rather than simply **summarising** its content [2]. A strong commentary must **analyse the writer's own choices using the language frameworks** (not just describe what was written) [1], and must **explain why each choice suits the specified audience and purpose**, since a commentary that only describes what was written scores in the lower bands [1].
 
 ---
 

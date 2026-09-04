@@ -32,7 +32,9 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Plant cells have three things animal cells lack:** cell wall, chloroplasts, permanent vacuole. Both have a nucleus, cytoplasm, membrane, mitochondria and ribosomes.
 
-Organelle functions worth stating precisely: **mitochondria** — aerobic respiration; **ribosomes** — protein synthesis; **chloroplasts** — photosynthesis.
+Organelle functions worth stating precisely: **mitochondria** — aerobic respiration; **ribosomes** — protein synthesis; **chloroplasts** — photosynthesis; the **permanent vacuole** stores cell sap and maintains turgor (cell rigidity from internal pressure).
+
+**Cell walls are not exclusive to plants** — bacteria have one too, though built from a different material. Bacterial ribosomes are also **smaller** than the ribosomes found in eukaryotic cells, and bacterial DNA is a single circular loop plus plasmids, with no nucleus to contain it.
 
 ## Microscopy
 
@@ -46,6 +48,8 @@ magnification = image size / actual size
 **Electron microscopes have higher magnification and higher resolution** than light microscopes, so sub-cellular structures can be seen. **Resolution** is the ability to distinguish two points as separate, and it is limited by the **wavelength** used — electrons have a far shorter wavelength than light.
 
 **Magnification and resolution are not the same.** Magnifying beyond the resolving limit gives a bigger blur, not more detail.
+
+**Worked example.** A cell's actual width is 20 μm; its width in a photograph is 60 mm. Converting to the same unit first: 60 mm = 60,000 μm. Magnification = 60,000 ÷ 20 = **×3,000**. Converting before dividing is where the marks are won or lost.
 
 ## Enzymes
 
@@ -79,6 +83,8 @@ Respiration happens in **all living cells, all the time** — it is not the same
 
 ```
 carbon dioxide + water --light, chlorophyll--> glucose + oxygen
+
+6CO2 + 6H2O --light, chlorophyll--> C6H12O6 + 6O2
 ```
 
 **Endothermic** — it takes in energy, transferred from light.
@@ -88,6 +94,8 @@ carbon dioxide + water --light, chlorophyll--> glucose + oxygen
 **A limiting factor is the one in shortest supply**, and it alone determines the rate. On a graph, the rate rises then plateaus — the plateau means something *else* has become limiting. Identifying which factor is limiting at each part of the curve is the standard question.
 
 **Light intensity follows an inverse square law**, so doubling the distance from a lamp quarters the intensity.
+
+**Measuring rate with pondweed bubbles is not fully reliable**: bubbles vary in size, so counting them assumes each is the same volume of gas, which is rarely true — measuring the volume of gas collected over a fixed time is a more reliable alternative.
 
 ## DNA and protein synthesis
 

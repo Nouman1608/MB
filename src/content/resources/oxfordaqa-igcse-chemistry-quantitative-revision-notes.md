@@ -58,6 +58,8 @@ In a **closed** system, mass is always unchanged. Being able to explain both dir
 molecular formula = empirical formula x (Mr / empirical formula mass)
 ```
 
+**Worked example.** A compound is 40.0% carbon, 6.7% hydrogen and 53.3% oxygen by mass (A_r: C = 12, H = 1, O = 16). Divide by A_r: C = 40.0 ÷ 12 = 3.33, H = 6.7 ÷ 1 = 6.7, O = 53.3 ÷ 16 = 3.33. Divide by the smallest (3.33): C = 1, H = 2.01 ≈ 2, O = 1 — empirical formula **CH₂O** (mass 30). If the relative molecular mass is 180, the scaling factor is 180 ÷ 30 = 6, giving the molecular formula **C₆H₁₂O₆**.
+
 ## Reacting masses
 
 Balanced equations give the ratio in **moles**, never directly in grams. The reliable route:
@@ -99,6 +101,8 @@ atom economy     = (Mr of desired product / total Mr of products) x 100
 
 **Atom economy is a different measure**: it asks how much of the reactant mass becomes useful product. High atom economy means less waste, lower cost and better sustainability. An **addition reaction has 100% atom economy** because there is only one product — which is why industry prefers addition routes where a choice exists.
 
+**Worked example.** 4.8 g of magnesium burned in excess oxygen (2Mg + O₂ → 2MgO, A_r: Mg = 24, O = 16): moles Mg = 4.8 ÷ 24 = 0.2 mol; moles MgO formed = 0.2 mol (1:1 ratio); maximum mass MgO = 0.2 × 40 = 8.0 g. If 7.2 g is obtained in practice, percentage yield = (7.2 ÷ 8.0) × 100 = **90%**.
+
 ## Titrations
 
 ```
@@ -106,6 +110,8 @@ c1 V1 / n1 = c2 V2 / n2
 ```
 
 Use only **concordant** titres — those within 0.10 cm³ of each other — and exclude the rough titre from the average.
+
+**Worked example.** 25.0 cm³ of 0.0500 mol dm⁻³ sulfuric acid is exactly neutralised by 20.0 cm³ of sodium hydroxide solution (H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O). Moles H₂SO₄ = 0.0500 × (25.0 ÷ 1000) = 1.25 × 10⁻³ mol. Moles NaOH = 2 × 1.25 × 10⁻³ = 2.50 × 10⁻³ mol (mole ratio 1:2). Concentration NaOH = 2.50 × 10⁻³ ÷ (20.0 ÷ 1000) = **0.125 mol dm⁻³**.
 
 ## Exam traps
 

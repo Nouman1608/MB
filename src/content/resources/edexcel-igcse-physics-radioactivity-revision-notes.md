@@ -90,6 +90,14 @@ Reduce exposure by **shielding** (lead, concrete), **distance**, and **limiting 
 
 **Background radiation** comes from rocks (notably radon), cosmic rays, food, and medical sources. It must be **subtracted** from measured count rates before doing half-life calculations.
 
+**Contamination** is when radioactive material is transferred onto or into an object or person, remaining an ongoing risk even after the original source is removed. **Irradiation** is exposure to radiation from an external source without any material being transferred — the risk stops as soon as the source is removed.
+
+**Choosing a source for a job — reasoning, not just a fact:**
+
+- **Monitoring foil thickness**: **beta**. Alpha would be completely absorbed and gamma would pass almost entirely through, so neither would respond to changes in thickness; beta is partly absorbed, so the count rate varies as the foil thickness changes.
+- **Smoke detector**: **alpha**. It strongly ionises the air in the detector but is safely stopped within the device itself.
+- **Medical tracer**: **gamma, with a short half-life**. Gamma penetrates the body so it can be detected externally, and a short half-life means activity falls quickly, limiting the patient's overall exposure.
+
 ## Exam traps
 
 - Giving alpha-scattering observations without conclusions.
@@ -98,6 +106,8 @@ Reduce exposure by **shielding** (lead, concrete), **distance**, and **limiting 
 - Forgetting to balance both numbers in a nuclear equation.
 - Not subtracting background count.
 - Saying half-life depends on temperature.
+- Confusing contamination with irradiation — only contamination remains a risk once the source is removed.
+- Choosing gamma for foil-thickness monitoring — it passes through almost unaffected, so the reading would barely change with thickness.
 
 ## Self-test
 
