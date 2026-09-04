@@ -32,6 +32,8 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
+Related: [Transformations and Vectors revision notes](/resources/igcse-mathematics-transformations-and-vectors-revision-notes/)
+
 ---
 
 ## Questions
@@ -55,6 +57,10 @@ featured: false
 **(a)** Write OM in terms of a and b. **[2]**
 **(b)** P is the point such that OP = 2 × OM. Write OP in terms of a and b, and show that OAPB is a parallelogram. **[3]**
 
+**6.** Triangle A has vertices (1, 1), (3, 1) and (1, 4). Triangle D has vertices (5, −1), (7, −1) and (5, 2), formed by translating every vertex of triangle A by the same column vector. Describe fully the single transformation that maps triangle A onto triangle D. **[2]**
+
+**7.** Given OM = a and ON = b, write down the vector MN in terms of a and b, and state how the vector NM relates to it. **[2]**
+
 ---
 
 ## Answers
@@ -72,6 +78,10 @@ featured: false
 **5. (a)** OM = OA + ½AB = a + ½(b − a) [1] = **½a + ½b** (or ½(a + b)) [1].
 **(b)** OP = 2 × ½(a + b) = **a + b** [1]. AP = OP − OA = (a + b) − a = **b = OB** [1]. Since AP = OB, AP is parallel and equal in length to OB, so OA is parallel and equal to BP — both pairs of opposite sides are parallel and equal, so **OAPB is a parallelogram** [1].
 
+**6.** Column vector = (image x-coordinate − object x-coordinate, image y-coordinate − object y-coordinate) using the first vertex: (5 − 1, −1 − 1) = **(4, −2)** [1]. **Translation by the column vector (4, −2)** [1].
+
+**7.** MN = ON − OM = **b − a** [1]. NM is the vector in the opposite direction to MN, so NM = OM − ON = **a − b**, the negative of MN [1].
+
 ---
 
 ## Where marks are usually lost
@@ -88,3 +98,7 @@ featured: false
 - Vector direction matters: the vector from M to N is the negative of the vector from N to M -- check carefully which one a question actually asks for, especially after working out a route in the opposite direction.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 21, 23 (verified 2026-09-02).*
+
+## Approaching transformations and vectors questions
+
+For a "describe fully" transformation question, write down each required piece of information as a separate labelled item before combining it into a sentence -- mirror line, or angle and centre, or scale factor and centre, or column vector -- since a correct transformation named without its required extra detail typically only earns partial credit. For vector-geometry routes, treat every unconverted intermediate vector as unfinished working rather than a final answer, and keep track of direction carefully: the vector from one named point to another is always end point minus start point, and reversing that order simply negates the result rather than producing a different, unrelated vector.

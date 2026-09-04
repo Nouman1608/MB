@@ -32,6 +32,8 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
+Related: [Probability revision notes](/resources/igcse-mathematics-probability-revision-notes/)
+
 ---
 
 ## Questions
@@ -53,6 +55,13 @@ featured: false
 
 **5.** *(Extended)* In a group of 40 students, 24 study French, 18 study Spanish, and 10 study both. A student is picked at random from those who study French. Find the probability that this student also studies Spanish. **[3]**
 
+**6.** A biased dice has P(rolling a 6) = 0.15.
+
+**(a)** Find the probability of not rolling a 6. **[1]**
+**(b)** The dice is rolled 300 times. Estimate the number of times a 6 is **not** rolled. **[2]**
+
+**7.** A fair coin is tossed twice. Using a tree diagram approach, find the probability of getting exactly one head. **[3]**
+
 ---
 
 ## Answers
@@ -69,6 +78,11 @@ featured: false
 **4.** P(B | A) = P(A and B) ÷ P(A) [1] = 0.15 ÷ 0.3 = **0.5** [1].
 
 **5.** Of the 24 who study French, 10 also study Spanish [1]. P(Spanish | French) = 10 ÷ 24 [1] = **5/12** [1].
+
+**6. (a)** P(not 6) = 1 − P(6) = 1 − 0.15 = **0.85** [1], since the probabilities of an outcome and its complement always sum to 1.
+**(b)** Expected number of "not 6" rolls = 0.85 × 300 [1] = **255** [1].
+
+**7.** Each toss is independent, so the probability stays 0.5 for heads and 0.5 for tails on **both** branches, unlike a without-replacement problem [1]. Exactly one head happens via two paths: heads-then-tails or tails-then-heads [1]. P(exactly one head) = (0.5 × 0.5) + (0.5 × 0.5) = 0.25 + 0.25 = **0.5** [1].
 
 ---
 
@@ -88,3 +102,7 @@ featured: false
 - The complement of a set (A') includes **everything** outside A, including any overlap with other sets -- a common error excludes the overlap by mistake.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 12, 13, 21, 22, 23, 31 (verified 2026-09-02).*
+
+## Approaching probability questions
+
+Before multiplying or adding anything, decide what kind of question is in front of you: a single event (count outcomes), a combined event across two or more stages (build a tree and multiply along branches), or a conditional probability (restrict to a smaller sample space first). Getting this classification right first is what determines whether the next step should be a multiplication, an addition, or a division -- most errors on this topic come not from arithmetic mistakes but from applying the wrong one of these three operations to a correctly understood situation.

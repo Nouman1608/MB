@@ -41,6 +41,8 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
+Related: [Coordinate Geometry revision notes](/resources/igcse-mathematics-coordinate-geometry-revision-notes/)
+
 ---
 
 ## Questions
@@ -71,6 +73,10 @@ featured: false
 **(a)** State the gradient of a line perpendicular to L. **[1]**
 **(b)** Find the equation of the line perpendicular to L that passes through (2, 5). **[2]**
 
+**8.** State the gradient of a horizontal line, and explain why a vertical line does not have a defined gradient. **[2]**
+
+**9.** State whether a line with gradient −3 slopes upward or downward from left to right as x increases, and explain how you know. **[2]**
+
 ---
 
 ## Answers
@@ -93,6 +99,10 @@ featured: false
 **7. (a)** L has gradient 4, so a perpendicular gradient satisfies 4 × m = −1 → **m = −¼** [1].
 **(b)** y = −¼x + c, using (2, 5): 5 = −¼(2) + c → c = 5.5 [1]. **y = −¼x + 5.5** [1].
 
+**8.** A **horizontal** line has gradient **0**, since the y-coordinate never changes, so the change in y is always 0 [1]. A **vertical** line does not have a defined gradient because the x-coordinate never changes between any two points on it, so the gradient formula would require dividing by a change in x of 0, which is undefined [1].
+
+**9.** The line slopes **downward** from left to right [1], because a negative gradient means y **decreases** as x increases, which is what a downward slope, read left to right, looks like [1].
+
 ---
 
 ## Where marks are usually lost
@@ -108,3 +118,7 @@ featured: false
 - Not every gradient question needs a negative reciprocal -- that rule is for finding a *perpendicular* line's gradient. If a question only asks for the equation of the line itself, use the gradient as calculated, without inverting or flipping its sign.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Paper 22 (verified 2026-09-02).*
+
+## Approaching coordinate geometry questions
+
+Almost every question type in this topic reduces to the same first step: correctly labelling which point is (x1, y1) and which is (x2, y2), then keeping that labelling consistent through every later calculation on the same points. A gradient, length or midpoint calculated with the coordinates swapped partway through is the single most common source of an otherwise fully-understood answer coming out wrong, so it is worth writing the two points down explicitly before substituting into any formula, rather than trying to substitute directly from the question.
