@@ -65,6 +65,12 @@ Related: [Electric Fields revision notes](/resources/a-physics-electric-fields-r
 
 **6.** Compare electric and gravitational fields on: the nature of the force, the sign of the potential, and whether shielding is possible. **[3]**
 
+**7.** Calculate the electric field strength 0.15 m from a point charge of +4.0 × 10⁻⁶ C. (1 ÷ 4πε₀ = 8.99 × 10⁹ N m² C⁻²) **[3]**
+
+**8.** Calculate the electric potential at a point 0.20 m from a point charge of −6.0 × 10⁻⁶ C, and explain the significance of the negative sign in your answer. **[3]**
+
+**9.** State the direction convention used for electric field lines, and explain what it means when field lines are drawn closer together in one region than another. **[2]**
+
 ---
 
 ## Answers
@@ -91,6 +97,12 @@ Difference: gravitational force is **always attractive**, whereas electric force
 **Potential:** gravitational potential is always negative; electric potential can be positive or negative [1].
 **Shielding:** electric fields **can** be shielded (a Faraday cage); gravitational fields **cannot** [1].
 
+**7.** E = (1 ÷ 4πε₀) × Q ÷ r² [1] = 8.99 × 10⁹ × (4.0 × 10⁻⁶) ÷ (0.15)² [1] = **1.60 × 10⁶ N C⁻¹** [1].
+
+**8.** V = (1 ÷ 4πε₀) × Q ÷ r [1] = 8.99 × 10⁹ × (−6.0 × 10⁻⁶) ÷ 0.20 = **−2.70 × 10⁵ V** [1]. The negative sign shows the potential is **negative because the source charge is negative** — work would be done *by* the field (not against it) in bringing a positive test charge from infinity to this point [1].
+
+**9.** Field lines point in the direction of the **force on a positive test charge** placed in the field [1]. Lines drawn **closer together** indicate a **stronger field** in that region [1].
+
 ---
 
 ## Where marks are usually lost
@@ -99,3 +111,7 @@ Difference: gravitational force is **always attractive**, whereas electric force
 - Saying a magnetic field gives a parabolic path.
 - Not stating both the similarity and the difference when comparing with gravity.
 - Omitting the sign or direction when asked whether a force is attractive.
+- Forgetting that electric field strength and electric potential from a point charge use different formulas (E has r², V has r) — mixing them up is a common slip under time pressure.
+- Dropping the sign of the source charge when calculating potential, or misreading what a negative potential means physically.
+
+Work through the [Electric Fields revision notes](/resources/a-physics-electric-fields-revision-notes/) alongside these questions: the notes summarise the equations and the radial-versus-uniform field distinction in condensed form, while these questions test whether you can apply the point-charge formulas correctly and interpret the sign of a calculated potential, rather than just recall the equations.

@@ -62,6 +62,19 @@ Related: [Solids, Liquids and Gases revision notes](/resources/edexcel-igcse-phy
 **(b)** Calculate the energy needed to then boil it all away. **[2]**
 **(c)** Explain why the temperature does not rise while it is boiling. **[2]**
 
+**7.** A dam holding back a lake is built much thicker at its base than at its top.
+
+**(a)** Write the equation for the pressure in a liquid at depth h, defining each term. **[2]**
+**(b)** Explain why the dam is built thicker at the base, in terms of what liquid pressure depends on. **[2]**
+**(c)** State whether the shape of the lake or the total volume of water it holds affects the pressure at the base. **[1]**
+
+**8.** A metal rod is heated and its length is found to increase slightly.
+
+**(a)** Explain this thermal expansion in terms of the particle model. **[2]**
+**(b)** A student claims the particles themselves get bigger when heated. Explain why this is incorrect. **[1]**
+
+**9.** Explain what is meant by absolute zero, and state why "particles have zero energy at absolute zero" is an incorrect description. **[2]**
+
 ---
 
 ## Answers
@@ -89,6 +102,15 @@ p₂ = 2.0 × 10⁵ × (500 ÷ 300) [1] = **3.33 × 10⁵ Pa** [1].
 **(b)** E = mL = 0.40 × 2.3 × 10⁶ [1] = **9.2 × 10⁵ J** [1].
 **(c)** The energy supplied is used to **overcome the forces between the particles** and separate them [1], rather than to increase their kinetic energy, and temperature depends on kinetic energy [1].
 
+**7. (a)** p = ρgh [1], where **ρ is the density of the liquid, g is the gravitational field strength, and h is the depth below the surface** [1].
+**(b)** Liquid pressure **increases with depth** [1], so the pressure (and hence the force) on the dam wall is **greatest at the base**, requiring more material there to withstand it [1].
+**(c)** **Neither** — pressure at a given depth depends only on the density of the liquid and the depth, not on the shape of the container or the total volume of liquid [1].
+
+**8. (a)** Heating makes the particles **vibrate more vigorously** [1], and this increased vibration means each particle **takes up more space** on average, so the rod expands [1].
+**(b)** The particles themselves **do not change size** — it is the **space between them**, created by more vigorous vibration, that increases [1].
+
+**9.** Absolute zero (0 K, −273 °C) is the temperature at which particles have the **minimum possible kinetic energy** [1]; it is incorrect to say they have zero energy, since particles retain some minimum kinetic energy even at absolute zero, they do not stop completely [1].
+
 ---
 
 ## Where marks are usually lost
@@ -97,3 +119,7 @@ p₂ = 2.0 × 10⁵ × (500 ÷ 300) [1] = **3.33 × 10⁵ Pa** [1].
 - Giving only one effect when a gas is heated at constant volume.
 - Using E = mcΔθ during a change of state.
 - Forgetting to record the initial water level in a displacement experiment.
+- Saying liquid pressure depends on the shape of the container or the total volume of liquid, rather than only on depth and density.
+- Saying particles themselves expand when a solid is heated, rather than the space between them increasing.
+
+Work through the [Solids, Liquids and Gases revision notes](/resources/edexcel-igcse-physics-solids-liquids-gases-revision-notes/) alongside these questions: the notes summarise the particle model, the gas laws and the pressure formulas in condensed form, while these questions test whether you can apply them to a specific, unfamiliar situation such as a dam wall or a heated rod, rather than just recall the definition.

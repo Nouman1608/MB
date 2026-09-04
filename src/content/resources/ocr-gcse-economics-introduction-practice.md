@@ -42,6 +42,15 @@ Related: [Introduction to Economics revision notes](/resources/ocr-gcse-economic
 
 **6.** Explain why a market economy may fail to provide public goods, using street lighting as an example. **[5]**
 
+**7.** Explain the basic economic problem, and use the concept of opportunity cost to explain a choice facing a government deciding between spending on healthcare and defence. **[4]**
+
+**8.** State the four factors of production and the reward each earns. Explain why "capital", as an economist uses the term, is often confused with money. **[5]**
+
+**9.** A country can produce 80 units of food or 40 units of machinery, or any combination between, using all its resources.
+
+**(a)** Calculate the opportunity cost, in food, of producing one extra unit of machinery. **[2]**
+**(b)** The country currently produces 50 units of food and 15 units of machinery. State whether this point is on, inside or outside the production possibility curve, showing your working, and explain what this means. **[3]**
+
 ---
 
 ## Answers
@@ -59,6 +68,13 @@ Related: [Introduction to Economics revision notes](/resources/ocr-gcse-economic
 
 **6.** Public goods are **non-excludable** — once street lighting is provided, **nobody can be prevented from benefiting** whether or not they paid [1] [1]. They are also **non-rival** — one person's use does not reduce the amount available to others [1]. This creates the **free rider problem**: everyone has an incentive to let others pay [1], so **no private firm can collect enough revenue to make provision profitable**, and the good is not supplied at all unless the government provides it from taxation [1].
 
+**7.** The basic economic problem is that **resources are scarce while human wants are unlimited**, so choices must be made [1]. **Opportunity cost** is the value of the **next best alternative given up** when a choice is made [1]. A government choosing to increase healthcare spending must give up the defence spending that money could otherwise have funded [1] — the opportunity cost of more healthcare is the defence provision sacrificed [1].
+
+**8.** **Land** — natural resources — earns **rent** [1]; **labour** — human effort — earns **wages** [1]; **capital** — man-made aids to production such as machinery and factories — earns **interest** [1]; **enterprise** — risk-taking and organising the other three — earns **profit** [1]. Capital is confused with money because both are needed to acquire machinery, but in economics **capital refers to the productive equipment itself**, not the money used to buy it — money is a means of exchange, not a factor of production [1].
+
+**9. (a)** Giving up all 80 food gains 40 machinery, so 2 food = 1 machinery: the opportunity cost of **1 extra machinery is 2 food** [1] [1].
+**(b)** At 50 food, the curve allows (80 − 50) ÷ 2 = **15 machinery** [1]. The economy produces exactly 15, so it is **on the curve** [1], meaning it is **productively efficient** — all resources are fully and efficiently employed, and more of one good can only be produced by giving up some of the other [1].
+
 ---
 
 ## Where marks are usually lost
@@ -67,3 +83,5 @@ Related: [Introduction to Economics revision notes](/resources/ocr-gcse-economic
 - Listing the price mechanism's functions without explaining each.
 - Giving advantages of specialisation without linking them to productivity.
 - Confusing non-excludability with non-rivalry.
+- Confusing economic capital (productive equipment) with money — money is only a means of exchange, not a factor of production itself.
+- Not showing the opportunity-cost ratio explicitly when checking whether a production point lies on, inside or outside the PPC.

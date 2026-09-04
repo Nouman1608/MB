@@ -57,6 +57,22 @@ Related: [Data Representation revision notes](/resources/o-level-computer-scienc
 **(a)** Calculate the file size in megabytes. **[4]**
 **(b)** State **two** ways the file size could be reduced and the drawback of each. **[4]**
 
+**7.** An 8-bit register holds the value 11111111 (255 in denary), and 00000001 (1) is added to it.
+
+**(a)** Perform the addition and state the 8-bit result. **[2]**
+**(b)** Explain why this is described as an overflow error. **[2]**
+
+**8.** A bitmap image is 200 pixels wide and 150 pixels high, with a colour depth of 8 bits per pixel.
+
+**(a)** Calculate the file size in kilobytes. **[3]**
+**(b)** State **one** way the file size could be reduced, and the effect this has on image quality. **[2]**
+**(c)** State **one** advantage of storing this image as a vector graphic instead, and **one** situation where a vector graphic would be unsuitable. **[2]**
+
+**9.** Run-length encoding is a lossless compression method.
+
+**(a)** Describe how run-length encoding compresses data. **[2]**
+**(b)** Explain why run-length encoding can sometimes produce a **larger** file than the original, and give an example of the kind of data where this happens. **[2]**
+
 ---
 
 ## Answers
@@ -80,6 +96,16 @@ Related: [Data Representation revision notes](/resources/o-level-computer-scienc
 **6. (a)** Bits = 44 100 × 16 × 30 [1] [1] = 21 168 000 bits [1]; ÷ 8 ÷ 1 000 000 = **2.65 MB** [1].
 **(b)** **Reduce the sample rate** — the file gets smaller but **higher frequencies are lost and quality falls** [1] [1]. **Reduce the sample resolution** to 8 bits — smaller file but **less precise amplitude measurement, so more background noise and distortion** [1] [1]. (Also accept: apply lossy compression, which loses data permanently.)
 
+**7. (a)** 11111111 + 00000001 = **00000000** (with a carry out of the register) [1] [1].
+**(b)** The true sum, 256, **needs 9 bits** but the register can only hold 8 [1], so **the result is too large for the number of bits allocated** and the stored value (0) is incorrect [1].
+
+**8. (a)** file size = 200 × 150 × 8 [1] = 240 000 bits ÷ 8 = 30 000 bytes [1] = **30 KB** [1].
+**(b)** **Reduce the colour depth** (e.g. to 4 bits) — smaller file, but **fewer colours can be represented, so the image quality falls** [1] [1].
+**(c)** Vector graphics **scale without loss of quality** and are usually smaller for line art [1]; they would be **unsuitable for a photograph**, which needs the pixel-level detail a bitmap captures [1].
+
+**9. (a)** It replaces **runs of identical, repeated values** with a single value and a count of how many times it repeats [1], so repetitive data is stored far more compactly [1].
+**(b)** On **noisy or photographic data**, where pixel values rarely repeat exactly, encoding each short "run" (value, count) can take **more space than the original data** [1] — for example, a photograph with continuously varying colours, unlike an image with large uniform blocks of colour [1].
+
 ---
 
 ## Where marks are usually lost
@@ -88,3 +114,5 @@ Related: [Data Representation revision notes](/resources/o-level-computer-scienc
 - Saying ASCII uses 8 bits (extended ASCII does; standard ASCII uses 7).
 - Not converting bits to bytes in file size calculations.
 - Confusing sample rate with sample resolution when suggesting reductions.
+- Forgetting that overflow means the true result needs more bits than the register holds, not simply that "the answer is wrong".
+- Assuming compression always reduces file size — run-length encoding can enlarge noisy or photographic data with few repeated runs.

@@ -43,6 +43,10 @@ Condensed for the final weeks. For the full explanation, use the
 
 The two power trends run in **opposite** directions — halogens as oxidising agents get weaker down the group, halide ions as reducing agents get stronger.
 
+**A second, easily-confused trend: X–X bond enthalpy also decreases down the group** (Cl–Cl 242, Br–Br 193, I–I 151 kJ mol⁻¹), because the bonding atoms are larger, so the shared pair sits further from both nuclei in a longer, weaker bond. This happens to run in the **same direction** as the melting/boiling-point trend, but for an **unrelated reason**: melting/boiling point depends on van der Waals forces *between* separate molecules, while bond enthalpy is about the bond *within* one molecule. Keep the two explanations separate even though the numbers move the same way.
+
+**Reaction with hydrogen** also tracks oxidising power down the group: H₂ + Cl₂ → 2HCl is explosive in sunlight; H₂ + Br₂ → 2HBr needs heating and a catalyst and is far less vigorous; H₂ + I₂ ⇌ 2HI is slow, needs heat and a catalyst, and does not even go to completion — it remains an equilibrium mixture. **Thermal stability of the hydrogen halides follows the same pattern**: HCl is stable to heat, HBr less so, and HI decomposes significantly on strong heating, because the H–X bond itself weakens down the group.
+
 ## Displacement
 
 A more reactive (stronger oxidising) halogen displaces a less reactive halide:
@@ -108,5 +112,7 @@ With WATER:        Cl2 + H2O -> HCl + HClO                (water treatment)
 3. Which products form when concentrated H₂SO₄ is added to sodium iodide?
 4. How do you distinguish a bromide from an iodide using silver nitrate?
 5. Define disproportionation and give the equation for chlorine with cold dilute NaOH.
+6. Explain why the X–X bond enthalpy decreases down Group 17, and why this is a different explanation from the melting/boiling-point trend even though the two happen to move in the same direction.
+7. Why does the reaction of hydrogen with iodine not go to completion, unlike its reaction with chlorine?
 
-**Answers:** 1. The atomic radius increases and there is more shielding, so the incoming electron is attracted less strongly and is gained less readily. 2. The solution turns brown as iodine is displaced. 3. HI initially, then H₂S (rotten-egg smell) and iodine as a black/purple solid — iodide is a strong enough reducing agent to reduce sulfur to −2. 4. Both give precipitates (cream and yellow); add concentrated ammonia — the bromide precipitate dissolves, the iodide does not. 5. The same element is simultaneously oxidised and reduced: Cl₂ + 2NaOH → NaCl + NaClO + H₂O.
+**Answers:** 1. The atomic radius increases and there is more shielding, so the incoming electron is attracted less strongly and is gained less readily. 2. The solution turns brown as iodine is displaced. 3. HI initially, then H₂S (rotten-egg smell) and iodine as a black/purple solid — iodide is a strong enough reducing agent to reduce sulfur to −2. 4. Both give precipitates (cream and yellow); add concentrated ammonia — the bromide precipitate dissolves, the iodide does not. 5. The same element is simultaneously oxidised and reduced: Cl₂ + 2NaOH → NaCl + NaClO + H₂O. 6. The bonding atoms get larger down the group, so the shared electron pair sits further from both nuclei in a longer, weaker bond; this is about the bond within one molecule, whereas melting/boiling point depends on van der Waals forces between separate molecules — the two trends happen to move together but for unrelated reasons. 7. Iodine is the weakest oxidising agent in the group, so the reaction is slow and incomplete, settling into an equilibrium mixture of H₂, I₂ and HI rather than going fully to product.

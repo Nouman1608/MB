@@ -54,6 +54,21 @@ Related: [Oscillations revision notes](/resources/edexcel-ial-physics-oscillatio
 **(b)** Explain what happens at resonance and how damping affects the resonance peak. **[4]**
 **(c)** Give one example where resonance is useful and one where it is a hazard. **[2]**
 
+**7.** A mass of 0.60 kg oscillates on a spring of spring constant 15 N/m, with amplitude 0.030 m.
+
+**(a)** Calculate the period of oscillation. **[2]**
+**(b)** Calculate the maximum acceleration, stating where it occurs. **[2]**
+
+**8.** An unknown mass is attached to a spring of known spring constant and set oscillating, and its resonant frequency is measured.
+
+**(a)** Explain how the resonant frequency of a mass-spring system can be used to determine the unknown mass. **[2]**
+**(b)** State one precaution needed to obtain an accurate value of the resonant frequency in this experiment. **[1]**
+
+**9.** A real oscillating structure, such as a bridge, loses energy over successive cycles even though it is not deliberately fitted with a damper.
+
+**(a)** Name **two** mechanisms by which this structure loses energy. **[2]**
+**(b)** Explain why this energy loss means the total mechanical energy is not conserved by the oscillator alone. **[1]**
+
 ---
 
 ## Answers
@@ -75,6 +90,15 @@ Related: [Oscillations revision notes](/resources/edexcel-ial-physics-oscillatio
 **(b)** Resonance occurs when the **driving frequency equals the natural frequency** of the system [1]; **energy is transferred most efficiently** to the oscillator [1] and the **amplitude reaches a maximum** [1]. Increasing the damping **reduces the peak amplitude and broadens the peak**, shifting it slightly to a lower frequency [1].
 **(c)** Useful: **tuning a radio circuit** to a station's frequency, or MRI [1]. Hazard: a **bridge oscillating in step with marching feet or wind**, risking structural failure [1].
 
+**7. (a)** T = 2π√(m/k) = 2π√(0.60 ÷ 15) [1] = 2π√0.04 = 2π(0.20) = **1.26 s** [1].
+**(b)** ω = 2π ÷ T = 2π ÷ 1.26 = **5.0 rad s⁻¹** [1]; a_max = ω²A = 5.0² × 0.030 = **0.75 m s⁻²** [1], occurring at **maximum displacement** (the ends of the oscillation).
+
+**8. (a)** The system is driven at a range of frequencies until the amplitude peaks at **resonance**, where the driving frequency equals the natural frequency [1]. Since the natural frequency of a mass-spring system is fixed by ω = √(k/m), and the spring constant k is already known, the resonant frequency found experimentally can be used to **calculate the unknown mass** [1].
+**(b)** e.g. **vary the driving frequency in small steps near the expected resonance** so the peak is not missed between measurements [1]. (Also accept: allow the system to reach a steady amplitude at each frequency before recording it.)
+
+**9. (a)** Energy is lost to **friction/air resistance** (damping) [1] and to **plastic deformation** of the ductile materials within the structure as it flexes [1].
+**(b)** Because energy is continuously **transferred out of the oscillating system** (to heat, via these mechanisms), the oscillator's own mechanical energy decreases over time — **overall** energy is still conserved, but not within the oscillator alone [1].
+
 ---
 
 ## Where marks are usually lost
@@ -83,3 +107,5 @@ Related: [Oscillations revision notes](/resources/edexcel-ial-physics-oscillatio
 - Using degrees instead of radians for ω.
 - Saying the pendulum period depends on the mass.
 - Describing resonance without mentioning the natural frequency.
+- Forgetting that a mass-spring system's resonant frequency can be used experimentally to find an unknown mass, given a known spring constant.
+- Naming only damping as an energy-loss mechanism in a real structure, when plastic deformation of the material itself also dissipates energy.
