@@ -149,6 +149,11 @@ just identify it.
 - Know at least one specific, named debate or attitude about language
 variation or change to reference in an evaluative essay.
 
+## Related resources
+
+- [Language Diversity and Change revision notes](/resources/a-level-aqa-english-language-diversity-and-change-revision-notes/)
+- [Language Diversity and Change practice questions](/resources/aqa-english-language-diversity-and-change-practice/)
+
 ## Official syllabus
 
 AQA AS and A-level English Language (7701/7702) specification, Version

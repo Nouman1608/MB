@@ -159,3 +159,8 @@ of essay on either diversity or change, so a candidate needs a
 separately organised, ready set of examples and terminology for
 whichever option they choose, rather than one blended, less precise
 set.
+
+## Related resources
+
+- [Language Diversity and Change study guide](/resources/a-level-aqa-english-language-diversity-and-change/)
+- [Language Diversity and Change practice questions](/resources/aqa-english-language-diversity-and-change-practice/)
