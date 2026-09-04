@@ -63,6 +63,18 @@ Related: [Circular Motion revision notes](/resources/a-physics-circular-motion-r
 
 **(d)** Suggest two changes that would allow the car to take the bend safely at a higher speed. **[2]**
 
+**6.** A wheel of radius 0.15 m completes 3 revolutions in 2.0 s.
+
+**(a)** Calculate its angular speed. **[2]**
+
+**(b)** Calculate the linear speed of a point on the rim. **[2]**
+
+**(c)** Calculate the centripetal acceleration of that point using a = ω²r. **[2]**
+
+**7.** Define the radian, and show algebraically that a = v²/r and a = ω²r are equivalent expressions for centripetal acceleration. **[3]**
+
+**8.** State the equation linking linear speed v to angular speed ω and radius r, and explain what it means physically for two points at different radii on the same rotating disc. **[2]**
+
 ---
 
 ## Answers
@@ -94,6 +106,16 @@ mg = mv²/r, so v = √(gr) [1] = √(9.81 × 0.80) = **2.80 m s⁻¹** [1].
 
 **(d)** Any two: **bank the road**, so a component of the normal contact force contributes to the centripetal force [1]; **increase the radius** of the bend; improve tyre or road surface condition to increase the maximum friction [1].
 
+**6. (a)** Period T = 2.0 ÷ 3 = 0.667 s [1]. ω = 2π/T = 2π ÷ 0.667 = **9.42 rad s⁻¹** [1].
+
+**(b)** v = ωr = 9.42 × 0.15 [1] = **1.41 m s⁻¹** [1].
+
+**(c)** a = ω²r = 9.42² × 0.15 [1] = **13.3 m s⁻²** [1].
+
+**7.** One radian is the angle subtended at the centre of a circle by an arc equal in length to the radius [1]. Since v = ωr, substituting into a = ω²r gives a = ω(ωr) = ω(v/r)r [1] = v²/r, confirming the two forms are equivalent [1].
+
+**8.** **v = ωr** [1]. All points on a rigid rotating disc share the **same angular speed ω**, but since v = ωr, a point **further from the centre has a greater linear speed**, even though both points complete a revolution in the same time [1].
+
 ---
 
 ## Where marks are usually lost
@@ -103,3 +125,5 @@ mg = mv²/r, so v = √(gr) [1] = √(9.81 × 0.80) = **2.80 m s⁻¹** [1].
 - Using degrees instead of radians for angular quantities.
 - Saying there is no acceleration because the speed is constant.
 - Not comparing required force with available friction explicitly in part (c).
+- Mixing up ω = 2π/T with ω = 2π/f — frequency and period are reciprocals, not interchangeable in the formula.
+- Forgetting to convert revolutions per second into a period before finding ω.

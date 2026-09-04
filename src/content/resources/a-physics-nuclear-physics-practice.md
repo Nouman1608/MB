@@ -58,11 +58,19 @@ Related: [Nuclear Physics revision notes](/resources/a-physics-nuclear-physics-r
 **(b)** the control rods **[2]**
 **(c)** the coolant **[1]**
 
+**7.** Define the decay constant, λ, and state the general exponential decay equation, noting the three quantities it can be applied to. **[3]**
+
+**8.** A radioactive isotope has a decay constant of 0.020 s⁻¹. Calculate its half-life. **[2]**
+
+**9.** A nucleus has a mass defect of 3.0 × 10⁻²⁸ kg. Calculate its binding energy in joules, using E = mc². **[2]**
+
+**10.** Explain why, in principle, the activity of a radioactive sample never reaches exactly zero, however many half-lives have passed. **[2]**
+
 ---
 
 ## Answers
 
-**1. Mass defect** — the **difference between the mass of a nucleus and the total mass of its separate nucleons** [1]. **Binding energy** — the **energy required to separate a nucleus into its individual nucleons** [1], equal to the mass defect multiplied by c² [1].
+**1. Mass defect** — the **difference between the mass of a nucleus and the total mass of its separate nucleons** [1]. **Binding energy** — the **energy required to separate a nucleus into its individual nucleons** [1], equal to the mass defect multiplied by c² [1]. Equivalently, binding energy is the energy that would be released if the separate nucleons came together to form the nucleus.
 
 **2.** Binding energy per nucleon peaks around **iron-56** [1]. **Fusion** of light nuclei moves the product **towards the peak**, increasing binding energy per nucleon [1]. **Fission** of heavy nuclei also moves the products **towards the peak** [1]. In both cases the **increase in binding energy per nucleon is released as energy** [1].
 
@@ -83,6 +91,14 @@ N = 4.8 × 10⁵ ÷ 1.002 × 10⁻⁶ = **4.79 × 10¹¹ nuclei** [1].
 **(b)** They **absorb neutrons** [1], and are raised or lowered to control the rate of the chain reaction and keep it steady [1].
 **(c)** It **removes thermal energy** from the core, transferring it to generate steam [1].
 
+**7.** The decay constant is the **probability that any individual nucleus decays in unit time** [1]. The general equation x = x₀e^(−λt) [1] applies equally to the number of undecayed nuclei N, the activity A, or the measured count rate [1].
+
+**8.** t½ = ln 2 ÷ λ = 0.693 ÷ 0.020 [1] ≈ **34.7 s** [1].
+
+**9.** E = mc² = 3.0 × 10⁻²⁸ × (3.0 × 10⁸)² [1] = **2.7 × 10⁻¹¹ J** [1].
+
+**10.** Because the number of undecayed nuclei falls **exponentially**, halving during each successive half-life [1] — this is an asymptotic decrease, not a linear one, so mathematically N (and therefore activity) approaches, but never exactly reaches, zero [1]. In practice, after enough half-lives the activity becomes indistinguishable from background radiation, but it is never mathematically exactly zero.
+
 ---
 
 ## Where marks are usually lost
@@ -92,3 +108,6 @@ N = 4.8 × 10⁵ ÷ 1.002 × 10⁻⁶ = **4.79 × 10¹¹ nuclei** [1].
 - Not converting the decay constant to consistent units before finding N.
 - Confusing the roles of the moderator and the control rods.
 - Explaining exponential decay by just citing "half-life" rather than its actual defining property — the rate of decay (or the rate of change of N) is proportional to N itself, so the same *fraction* decays in each equal time interval, however much is left.
+- Forgetting that x = x₀e^(−λt) applies equally to N, activity, or measured count rate — not just to activity.
+- Mixing up grams and kilograms when substituting mass defect into E = mc².
+- Treating radioactive decay as though it eventually stops completely at a definite time, rather than approaching zero asymptotically.

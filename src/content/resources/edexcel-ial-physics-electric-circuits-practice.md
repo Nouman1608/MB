@@ -52,6 +52,16 @@ Related: [Electric Circuits revision notes](/resources/edexcel-ial-physics-elect
 **(a)** In darkness the LDR has resistance 12 kΩ. Calculate the output p.d. **[2]**
 **(b)** State and explain what happens to the output when light shines on the LDR. **[3]**
 
+**7.** State the equation relating resistance to resistivity, defining each term, and name the CORE PRACTICAL that investigates it. **[3]**
+
+**8.** A wire of resistivity 1.7 × 10⁻⁸ Ω m has length 2.5 m and cross-sectional area 0.50 × 10⁻⁶ m². Calculate its resistance. **[2]**
+
+**9.** Using the circuit in Question 4, calculate the power dissipated in the external 3.20 Ω resistor. **[2]**
+
+**10.** Explain, in terms of lattice vibrations and conduction electrons, why the resistance of a metallic conductor rises with temperature while the resistance of an NTC thermistor falls. **[3]**
+
+**11.** State the two power equations obtained by combining P = VI with V = IR, and state what CORE PRACTICAL 8 determines. **[3]**
+
 ---
 
 ## Answers
@@ -73,6 +83,16 @@ Related: [Electric Circuits revision notes](/resources/edexcel-ial-physics-elect
 **6. (a)** V_out = 9.0 × 12 ÷ (1.5 + 12) [1] = **8.0 V** [1].
 **(b)** The output **decreases** [1]. The LDR's resistance **falls in light** [1], so it takes a **smaller share of the total resistance** and therefore a smaller share of the supply p.d. [1].
 
+**7.** R = ρl/A [1], where **ρ** is resistivity, **l** is length and **A** is cross-sectional area [1] — investigated in **CORE PRACTICAL 7**, determining the electrical resistivity of a material [1].
+
+**8.** R = ρl/A = (1.7 × 10⁻⁸ × 2.5) ÷ (0.50 × 10⁻⁶) [1] = **0.085 Ω** [1].
+
+**9.** P = I²R = 0.403² × 3.20 [1] = **0.520 W** [1].
+
+**10.** In a metal, rising temperature increases **lattice vibrations**, which impede electron flow more, so resistance **rises** [1]. In an NTC thermistor, rising temperature releases more **conduction electrons**, and this increase in charge carriers **dominates** over the (smaller) increase in lattice vibration, so resistance **falls** overall [1] [1].
+
+**11.** **P = I²R** and **P = V²/R** [1] [1]. CORE PRACTICAL 8 determines the **e.m.f. and internal resistance of a cell**, typically from a graph of terminal p.d. against current [1].
+
 ---
 
 ## Where marks are usually lost
@@ -81,3 +101,5 @@ Related: [Electric Circuits revision notes](/resources/edexcel-ial-physics-elect
 - Explaining the thin-wire heating without I = nAvq.
 - Confusing the thermistor and filament lamp characteristics.
 - Using the wrong resistance in the potential divider ratio.
+- Mixing up ρ, R and A in the resistivity equation, or forgetting to convert area to m².
+- Forgetting that power dissipated in the external resistor and the power wasted internally must be calculated separately.

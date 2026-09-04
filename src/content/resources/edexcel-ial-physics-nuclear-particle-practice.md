@@ -55,6 +55,14 @@ Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-ph
 
 **6.** Check whether this interaction is possible, testing charge, baryon number and lepton number: p + p → p + n + e⁺ + ν_e. **[4]**
 
+**7.** State what the Geiger-Marsden alpha-particle scattering experiment provided evidence for, and what model of the atom it replaced. **[2]**
+
+**8.** State the equation for the radius of a charged particle's circular path in a magnetic field, and explain how this can be used to identify a particle's momentum and the sign of its charge. **[3]**
+
+**9.** An electron and a positron, each of rest mass 9.11 × 10⁻³¹ kg, annihilate at rest, producing two identical gamma-ray photons. Calculate the energy of each photon. **[3]**
+
+**10.** Classify each of the following as a baryon, a meson or a lepton: proton, pion, electron. **[3]**
+
 ---
 
 ## Answers
@@ -77,6 +85,14 @@ Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-ph
 
 **6. Charge:** left 2, right 1 + 0 + 1 + 0 = 2 ✓ [1]. **Baryon number:** left 2, right 1 + 1 + 0 + 0 = 2 ✓ [1]. **Lepton number:** left 0, right 0 + 0 + (−1) + (+1) = 0 ✓ [1]. All three quantities are conserved, so the interaction **is possible** [1].
 
+**7.** It provided evidence for a **small, dense, positively charged nucleus** [1] (from the observation of large-angle scattering), replacing the earlier **"plum pudding" model** of the atom [1].
+
+**8.** r = p ÷ BQ [1]. The radius of the curved path reveals the particle's **momentum** (from r, B and Q) [1], and the **direction of curvature** reveals the **sign of its charge** [1].
+
+**9.** Total mass converted: Δm = 2 × 9.11 × 10⁻³¹ = 1.822 × 10⁻³⁰ kg [1]. Total energy released: ΔE = c²Δm = (3.00 × 10⁸)² × 1.822 × 10⁻³⁰ = 1.640 × 10⁻¹³ J [1]. Since two identical photons share this energy equally, each photon has energy = 1.640 × 10⁻¹³ ÷ 2 = **8.20 × 10⁻¹⁴ J** (about 0.51 MeV) [1].
+
+**10.** Proton — **baryon** (three quarks) [1]; pion — **meson** (a quark and an antiquark) [1]; electron — **lepton** (a fundamental particle) [1].
+
 ---
 
 ## Where marks are usually lost
@@ -85,3 +101,5 @@ Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-ph
 - Forgetting that an antineutrino has lepton number −1.
 - Using grams instead of kilograms in E = mc².
 - Saying only fission releases energy.
+- Forgetting that the top quark's existence was predicted by the symmetry of the standard model before it was observed.
+- Confusing a baryon (three quarks) with a meson (a quark and an antiquark).

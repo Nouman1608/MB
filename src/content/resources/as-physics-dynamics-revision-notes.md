@@ -39,9 +39,15 @@ Condensed for the final weeks. For the full explanation, use the
 F = delta-p / delta-t      which reduces to  F = ma  only when mass is constant
 ```
 
-**Stating the second law as F = ma is incomplete.** The momentum form is the general one, and it is required for problems involving changing mass, such as a rocket burning fuel or sand falling onto a conveyor.
+**Stating the second law as F = ma is incomplete.** The momentum form is the general one, and it is required for problems involving changing mass, such as a rocket burning fuel or sand falling onto a conveyor. Acceleration and resultant force always act in the **same direction** — a useful check when resolving forces in more than one dimension.
 
 **Third law** — for every force there is an equal and opposite force. The pair must act on **two different bodies** and be of the **same type**. Weight and normal contact force on a book are *not* a third-law pair — they act on the same body.
+
+**Weight is not mass.** Weight = mg is the gravitational force on a mass, and depends on the local gravitational field; mass is constant wherever the object is.
+
+## Non-uniform motion and terminal velocity
+
+Without air resistance, a falling object accelerates uniformly at g. With air resistance present, drag **increases as speed increases**, so the resultant force — and therefore the acceleration — **decreases** as the object speeds up. Eventually drag equals weight, resultant force is zero, and the object falls at a constant **terminal velocity**.
 
 ## Momentum and impulse
 
@@ -74,6 +80,8 @@ For a **perfectly elastic** collision, relative speed of approach equals relativ
 
 Momentum before is zero, so momentum after must total zero — the fragments move in opposite directions with equal and opposite momenta. Kinetic energy *increases*, supplied by chemical or elastic potential energy.
 
+**Worked example.** A 2.0 kg trolley moving at 3.0 m s⁻¹ collides with a stationary 1.0 kg trolley and they stick together. By conservation of momentum: (2.0 × 3.0) + (1.0 × 0) = (2.0 + 1.0)v, so v = 2.0 m s⁻¹. KE before = ½ × 2.0 × 3.0² = 9.0 J; KE after = ½ × 3.0 × 2.0² = 6.0 J — the 3.0 J difference is lost to heat and sound, confirming a perfectly inelastic collision.
+
 ## Exam traps
 
 - Quoting F = ma as Newton's second law without the momentum form.
@@ -90,5 +98,7 @@ Momentum before is zero, so momentum after must total zero — the fragments mov
 3. How does a crumple zone reduce the force in a crash?
 4. Which quantity is conserved in all collisions, and which is not?
 5. What happens to the "lost" kinetic energy in an inelastic collision?
+6. Explain why a falling skydiver eventually reaches a constant velocity.
+7. Distinguish between weight and mass.
 
-**Answers:** 1. The rate of change of momentum is proportional to the resultant force and acts in its direction; F = ma follows only when mass is constant. 2. The two forces act on different bodies and are of the same type. 3. It increases the time over which the momentum change occurs, and since force equals rate of change of momentum, a longer time gives a smaller force. 4. Momentum is always conserved; kinetic energy is conserved only in elastic collisions. 5. It is transferred to thermal energy, sound and the work done deforming the objects.
+**Answers:** 1. The rate of change of momentum is proportional to the resultant force and acts in its direction; F = ma follows only when mass is constant. 2. The two forces act on different bodies and are of the same type. 3. It increases the time over which the momentum change occurs, and since force equals rate of change of momentum, a longer time gives a smaller force. 4. Momentum is always conserved; kinetic energy is conserved only in elastic collisions. 5. It is transferred to thermal energy, sound and the work done deforming the objects. 6. As speed increases, air resistance (drag) increases, reducing the resultant force and acceleration, until drag equals weight and the resultant force is zero — the object then falls at a constant terminal velocity. 7. Weight is the gravitational force on a mass (weight = mg) and depends on the local gravitational field; mass is the amount of matter in an object and is constant everywhere.

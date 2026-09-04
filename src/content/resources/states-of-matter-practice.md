@@ -59,6 +59,14 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 
 **6.** Explain why a substance with strong forces between its particles has a high melting point. **[2]**
 
+**7.** Explain, in terms of particle separation and arrangement, why a solid has a fixed shape and volume, a liquid has a fixed volume but no fixed shape, and a gas has neither. **[3]**
+
+**8.** State whether diffusion occurs in solids, and explain why or why not. **[2]**
+
+**9.** Explain the separate effects of (a) increasing temperature and (b) increasing pressure on the volume of a fixed mass of gas. **[3]**
+
+**10.** A question asks a student to *explain* a change of state, but the student only *describes* what happens. Why does this lose marks? **[1]**
+
 ---
 
 ## Answers
@@ -80,6 +88,14 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 
 **6.** **More energy is needed to overcome the stronger forces of attraction** between the particles [1], so a higher temperature must be reached before the solid melts [1].
 
+**7.** A **solid** has a fixed shape and volume because its particles are held in **fixed positions** and cannot move from them [1]. A **liquid** has a fixed volume but takes the shape of its container because its particles are still close together but can **slide past one another** [1]. A **gas** has neither, and can be compressed, because of the **large spaces between its widely separated particles** [1].
+
+**8.** **No** [1] — solid particles are held in **fixed positions** and cannot move throughout the material, so there is no net movement of particles from one region to another [1].
+
+**9. (a)** Increasing temperature gives particles **more kinetic energy**, so they move faster and collide with the container walls **more frequently and with greater force** [1]; if free to expand, the gas's **volume increases** [1]. **(b)** Increasing pressure pushes the particles **closer together**, reducing the space between them, so the gas's **volume decreases** [1].
+
+**10.** Describing only states **what** happens, while explaining requires reference to **particle energy, motion and the forces between particles** — an answer that merely describes when asked to explain does not earn the explanation marks [1].
+
 ---
 
 ## Where marks are usually lost
@@ -88,3 +104,5 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 - Explaining the flat section as "the heat is lost".
 - Forgetting to link molecular mass to speed of diffusion.
 - Saying pressure is caused by particles "pushing" rather than colliding.
+- Describing a change of state when the command word asks for an explanation.
+- Saying diffusion happens in solids, or that particles in a solid have no energy at all.

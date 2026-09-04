@@ -41,16 +41,16 @@ NH3 + H2O <=> NH4+ + OH-  (weak base, partially ionised)
 
 Shape: **pyramidal**, bond angle **107°** — four electron pairs, one of which is a lone pair repelling more strongly.
 
-The ammonium ion NH₄⁺ is **tetrahedral, 109.5°**, because the lone pair has been used to form the dative bond.
+The ammonium ion NH₄⁺ is **tetrahedral, 109.5°**, because the lone pair has been used to form the dative bond. All four N–H bonds in NH₄⁺ are **identical once formed**, even though one was made differently (by the lone pair donating to H⁺) from the other three.
 
-**Test for ammonium ions:** warm with NaOH(aq); ammonia gas turns damp **red litmus blue**.
+**Test for ammonium ions:** warm with NaOH(aq); ammonia gas turns damp **red litmus blue**. This is the same acid-base logic run in reverse: NH₄Cl + NaOH → NaCl + NH₃ + H₂O.
 
 ## Oxides of nitrogen
 
-**Formation:** at the high temperatures inside a car engine, nitrogen and oxygen from the air combine.
+**Formation:** at the high temperatures inside a car engine, nitrogen and oxygen from the air combine. NO also forms **naturally** — the enormous energy of a lightning strike is enough to overcome nitrogen's high activation energy, driving the same reaction directly in the atmosphere.
 
 ```
-N2 + O2  ->  2NO           (in the engine)
+N2 + O2  ->  2NO           (in the engine, or from lightning)
 2NO + O2 ->  2NO2          (in the atmosphere)
 ```
 
@@ -63,11 +63,13 @@ NO2 + SO2    ->  SO3 + NO      <- NO regenerated
 
 Showing that NO reappears unchanged is the mark-earning point.
 
-**Catalytic converter:**
+**Catalytic converter** (platinum/rhodium/palladium catalyst):
 ```
 2CO + 2NO  ->  2CO2 + N2
 ```
 One reaction removes a toxic gas **and** an acid-rain precursor.
+
+**Photochemical smog:** atmospheric NO and NO₂ also react with unburned hydrocarbons from vehicle exhaust, driven by sunlight, to form **peroxyacetyl nitrate (PAN)** — an eye and lung irritant characteristic of sunny, traffic-heavy cities.
 
 ## Acid rain
 
@@ -77,6 +79,8 @@ One reaction removes a toxic gas **and** an acid-rain precursor.
 | NOₓ | High-temperature combustion in engines | HNO₃ |
 
 **Effects:** acidifies lakes killing fish; leaches nutrients and releases toxic Al³⁺ from soils; damages foliage; erodes limestone and marble buildings; corrodes metals.
+
+**NOₓ contributes in two distinct ways.** *Directly*: nitrogen oxides dissolve in atmospheric water and are oxidised to nitric acid, which falls as acid rain. *Indirectly, as a catalyst*: NO₂ oxidises SO₂ to SO₃ (NO₂ + SO₂ → NO + SO₃), regenerating NO₂ from the NO produced — NO₂ is not consumed overall, it simply speeds up sulfur dioxide's contribution.
 
 **Control:** flue-gas desulfurisation with calcium oxide or carbonate, catalytic converters, low-sulfur fuels.
 
@@ -98,6 +102,7 @@ Low pressure is used because the yield is already high — high pressure would a
 - Forgetting NH₄⁺ is 109.5°, not 107° — the lone pair is gone.
 - Describing NO as a reactant in SO₂ oxidation rather than a **catalyst**.
 - Attributing acid rain to CO₂ — it is SO₂ and NOₓ.
+- Confusing photochemical smog (PAN, formed with hydrocarbons in sunlight) with acid rain (formed via nitric or sulfuric acid) — they are distinct pollution mechanisms even though NOₓ is involved in both.
 
 ## Self-test
 
@@ -106,5 +111,7 @@ Low pressure is used because the yield is already high — high pressure would a
 3. Why is the bond angle in NH₄⁺ larger than in NH₃?
 4. Show, with equations, why NO is a catalyst in the oxidation of SO₂.
 5. Name the two pollutants that cause acid rain and their sources.
+6. What is formed when atmospheric NOₓ reacts with unburned hydrocarbons in sunlight, and why does it matter?
+7. Explain the two distinct ways that NOₓ contributes to acid rain.
 
-**Answers:** 1. The N≡N triple bond has a very high bond enthalpy, giving a large activation energy; and the molecule is non-polar, so it does not attract nucleophiles or electrophiles. 2. The nitrogen lone pair accepts a proton, forming a dative covalent bond — it is a proton acceptor. 3. In NH₄⁺ the lone pair has been used to form the fourth bond, so there are four bonding pairs and no lone-pair repulsion; the angle opens from 107° to 109.5°. 4. NO + ½O₂ → NO₂, then NO₂ + SO₂ → SO₃ + NO — NO is regenerated unchanged. 5. Sulfur dioxide, from sulfur impurities in fossil fuels; and nitrogen oxides, from high-temperature combustion in vehicle engines.
+**Answers:** 1. The N≡N triple bond has a very high bond enthalpy, giving a large activation energy; and the molecule is non-polar, so it does not attract nucleophiles or electrophiles. 2. The nitrogen lone pair accepts a proton, forming a dative covalent bond — it is a proton acceptor. 3. In NH₄⁺ the lone pair has been used to form the fourth bond, so there are four bonding pairs and no lone-pair repulsion; the angle opens from 107° to 109.5°. 4. NO + ½O₂ → NO₂, then NO₂ + SO₂ → SO₃ + NO — NO is regenerated unchanged. 5. Sulfur dioxide, from sulfur impurities in fossil fuels; and nitrogen oxides, from high-temperature combustion in vehicle engines. 6. Peroxyacetyl nitrate (PAN), a key component of photochemical smog and an eye and lung irritant in sunny, traffic-heavy cities. 7. Directly, by dissolving in atmospheric water and oxidising to nitric acid; indirectly, by acting as a catalyst that oxidises SO₂ to SO₃ (which then forms sulfuric acid), without NO₂ itself being consumed overall.

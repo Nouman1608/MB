@@ -50,6 +50,10 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Esterification:** acid + alcohol, concentrated H₂SO₄ catalyst, heat under reflux. The reaction is **reversible and slow**, giving a modest equilibrium yield.
 
+**Producing benzoic acid:** hot alkaline KMnO₄ followed by dilute acid oxidises the side-chain of an alkylbenzene all the way to a carboxylic acid directly on the ring, regardless of the original side-chain length — C₆H₅CH₃ → C₆H₅COOH.
+
+**Further oxidation — two exceptions.** Most carboxylic acids resist further oxidation, but **methanoic acid (HCOOH)** retains an aldehyde-like H atom on its carbonyl carbon, giving a **positive** result with Fehling's, Tollens', acidified KMnO₄ or K₂Cr₂O₇. **Ethanedioic acid (HOOCCOOH)** is oxidised by warm acidified KMnO₄ to CO₂ — the same MnO₄⁻/C₂O₄²⁻ reaction seen in transition-metal redox chemistry.
+
 ## Acyl chlorides
 
 Made from the carboxylic acid using **SOCl₂** (or PCl₅).
@@ -68,7 +72,9 @@ Made from the carboxylic acid using **SOCl₂** (or PCl₅).
 
 **The reason acyl chlorides matter synthetically** is exactly this: esterification with an acid is reversible and low-yielding, but with an acyl chloride the reaction is **fast, irreversible and near-quantitative** at room temperature. Phenols in particular will not esterify with a carboxylic acid at all, but do react with an acyl chloride.
 
-The mechanism is **nucleophilic addition–elimination**: the nucleophile adds to the carbonyl carbon, then Cl⁻ is eliminated.
+The mechanism is **nucleophilic addition–elimination**, in two steps. **Addition:** a lone pair on the nucleophile attacks the electrophilic carbonyl carbon as the C=O π electrons move onto oxygen, forming a negatively charged tetrahedral intermediate. **Elimination:** the C–O⁻ electrons re-form the C=O π bond as Cl⁻ leaves, and a rapid proton transfer gives the neutral product plus HCl.
+
+**Relative ease of hydrolysis:** acyl chlorides hydrolyse fastest (even with cold water) because the carbonyl carbon is made strongly electrophilic by both the C=O oxygen and the chlorine together; alkyl chlorides hydrolyse far more slowly, needing warm aqueous alkali, since only one polar C–Cl bond makes the carbon electrophilic; halogenoarenes essentially don't hydrolyse at all, because lone-pair delocalisation into the ring strengthens the C–Cl bond.
 
 ## Acid anhydrides
 
@@ -90,5 +96,7 @@ Less vigorous than acyl chlorides, cheaper, and produce a carboxylic acid rather
 3. What test distinguishes a carboxylic acid from a phenol?
 4. Why are acyl chlorides more reactive than carboxylic acids?
 5. Why is an acyl chloride preferred to a carboxylic acid for making an ester?
+6. Why does methanoic acid give a positive Fehling's/Tollens' test when most carboxylic acids do not?
+7. Rank acyl chlorides, alkyl chlorides and halogenoarenes by ease of hydrolysis, and explain the ranking.
 
-**Answers:** 1. The carboxylate ion formed is stabilised by delocalisation of the negative charge across both oxygen atoms, making loss of H⁺ favourable. 2. The three electron-withdrawing chlorine atoms pull electron density away from the carboxylate, stabilising the anion further. 3. Adding sodium carbonate — only the carboxylic acid produces effervescence of carbon dioxide. 4. Chlorine is strongly electronegative and a good leaving group, so the carbonyl carbon is more δ+ and more readily attacked by nucleophiles. 5. Esterification with a carboxylic acid is reversible, slow and low-yielding, whereas the acyl chloride reacts rapidly, irreversibly and in near-quantitative yield at room temperature — and it works with phenols, which do not esterify directly.
+**Answers:** 1. The carboxylate ion formed is stabilised by delocalisation of the negative charge across both oxygen atoms, making loss of H⁺ favourable. 2. The three electron-withdrawing chlorine atoms pull electron density away from the carboxylate, stabilising the anion further. 3. Adding sodium carbonate — only the carboxylic acid produces effervescence of carbon dioxide. 4. Chlorine is strongly electronegative and a good leaving group, so the carbonyl carbon is more δ+ and more readily attacked by nucleophiles. 5. Esterification with a carboxylic acid is reversible, slow and low-yielding, whereas the acyl chloride reacts rapidly, irreversibly and in near-quantitative yield at room temperature — and it works with phenols, which do not esterify directly. 6. It retains an aldehyde-like H atom directly on its carbonyl carbon, so it can be oxidised further just as an aldehyde would be. 7. Acyl chlorides fastest (electrophilic carbon activated by both C=O and Cl), then alkyl chlorides (only one polar C–Cl bond), then halogenoarenes (barely react at all, since lone-pair delocalisation into the ring strengthens the C–Cl bond).
