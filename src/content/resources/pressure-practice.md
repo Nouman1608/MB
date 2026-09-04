@@ -54,6 +54,12 @@ Related: [Pressure revision notes](/resources/pressure-revision-notes/)
 **(b)** The output piston has an area of 0.0060 m². Calculate the output force. **[3]**
 **(c)** Explain why the system uses a liquid and not a gas. **[2]**
 
+**7.** Explain why a sharp knife cuts more easily than a blunt one under the same applied force, and why snowshoes stop a person sinking into snow. **[3]**
+
+**8.** Describe an experiment showing that pressure in a liquid acts at right angles to a surface, regardless of the surface's orientation. **[3]**
+
+**9.** Explain how a liquid barometer measures atmospheric pressure, and why mercury rather than water is used in practice. **[4]**
+
 ---
 
 ## Answers
@@ -75,6 +81,12 @@ Related: [Pressure revision notes](/resources/pressure-revision-notes/)
 **(b)** Pressure is **transmitted equally throughout the fluid** [1]; F = p × A = 100 000 × 0.0060 [1] = **600 N** [1].
 **(c)** Liquids are **virtually incompressible**, so the applied pressure is transmitted immediately and in full [1]; a gas would **compress first, so movement of the input piston would not produce an immediate output force** [1].
 
+**7.** A sharp knife has a much **smaller contact area** than a blunt one, so for the same force the pressure is much **higher**, making it cut more easily [1]. Snowshoes have a much **larger contact area** than boots, so the same body weight is **spread over a larger area**, producing a much lower pressure and preventing sinking [1]. Both illustrate that pressure depends on force *and* area, not force alone [1].
+
+**8.** Connect a **thistle funnel to a manometer** and submerge the funnel's open end (covered by a thin membrane) at a fixed depth in a liquid [1]. Rotate the funnel to face different directions while keeping it at the **same depth** [1]. The **manometer reading stays the same** regardless of orientation, showing the liquid pushes perpendicular to the membrane whichever way it faces [1].
+
+**9.** A liquid barometer uses a tube of liquid, **closed at the top** (with a vacuum above) and **open at the bottom** to a reservoir exposed to the atmosphere [1]; atmospheric pressure pushes down on the reservoir, **supporting a column of liquid** whose height is a direct measure of atmospheric pressure [1]. Mercury is used because it is roughly **13.6 times denser than water** [1], so it produces the same supporting pressure with a **much shorter, more manageable column** than water would need [1].
+
 ---
 
 ## Where marks are usually lost
@@ -83,3 +95,5 @@ Related: [Pressure revision notes](/resources/pressure-revision-notes/)
 - Forgetting to add atmospheric pressure when total pressure is asked for.
 - Saying pressure in a liquid depends on the volume of liquid above.
 - Explaining hydraulic systems without stating that pressure is transmitted equally.
+- Explaining the knife/snowshoe examples by force alone, without mentioning the change in contact area.
+- Describing the barometer experiment without keeping the depth fixed while the orientation changes.

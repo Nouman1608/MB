@@ -55,6 +55,14 @@ Related: [Forces and Their Effects revision notes](/resources/oxfordaqa-igcse-ph
 **(b)** Calculate where a 25 N weight must be placed to balance it. **[3]**
 **(c)** Explain why the plank's own weight can be ignored. **[2]**
 
+**7.** State Newton's third law, and explain why weight and the normal contact force on a book resting on a table are **not** a third-law pair. **[3]**
+
+**8.** A 1000 kg car accelerates from rest to 20 m s⁻¹ in 5.0 s. If the drag on the car at that moment is 300 N, calculate the driving force. **[4]**
+
+**9.** State the equation for stopping distance, and explain what happens to thinking distance and braking distance separately when speed doubles. **[3]**
+
+**10.** Explain why "an object at terminal velocity has no forces on it" is an incorrect description. **[2]**
+
 ---
 
 ## Answers
@@ -84,6 +92,14 @@ Initial p = 0.045 × 22 = +0.99; final p = 0.045 × (−26) = −1.17 [1]
 d = **0.64 m** from the pivot, on the other side [1] [1].
 **(c)** The plank is **uniform**, so its weight acts at its **centre of mass**, which is at the pivot [1]; its moment about the pivot is therefore **zero** [1].
 
+**7.** Newton's third law: forces come in pairs, **equal in size and opposite in direction**, acting on **two different bodies** [1]. Weight and normal contact force both act on the **same object** (the book), so they are a **first-law balance**, not a third-law pair [1]; the genuine third-law pair is the book pushing down on the table and the table pushing back up on the book [1].
+
+**8.** a = (20 − 0) ÷ 5.0 = **4.0 m s⁻²** [1]. Resultant force F = ma = 1000 × 4.0 = **4000 N** [1]. Driving force = resultant + drag = 4000 + 300 = **4300 N** [1], since the resultant is what remains after drag is subtracted [1].
+
+**9.** Stopping distance = thinking distance + braking distance [1]. Doubling speed **doubles** thinking distance, since it is proportional to speed [1]; it **quadruples** braking distance, since that depends on speed squared [1].
+
+**10.** At terminal velocity the **resultant** force is zero, not the individual forces themselves [1] — weight and drag are both still acting on the object, equal and opposite, so describing it as having "no forces" is factually wrong even though its motion is unchanging [1].
+
 ---
 
 ## Where marks are usually lost
@@ -92,3 +108,6 @@ d = **0.64 m** from the pivot, on the other side [1] [1].
 - Saying the parachutist stops at terminal velocity.
 - Forgetting to convert milliseconds to seconds.
 - Not explaining why a uniform plank's weight has no moment about a central pivot.
+- Naming weight and normal contact force on the same object as a third-law pair.
+- Forgetting to add drag back on to the resultant force to find the driving force.
+- Saying braking distance doubles (rather than quadruples) when speed doubles.

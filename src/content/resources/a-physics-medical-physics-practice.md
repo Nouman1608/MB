@@ -58,6 +58,14 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 
 **6.** Explain why two gamma photons of 0.511 MeV are produced in a PET scan, and how their detection locates the annihilation. **[4]**
 
+**7.** Distinguish between an A-scan and a B-scan in ultrasound imaging. **[3]**
+
+**8.** Explain the difference between sharpness and contrast in an X-ray image. **[2]**
+
+**9.** X-rays of initial intensity I₀ pass through 5.0 cm of tissue with attenuation coefficient 0.20 cm⁻¹. Calculate the transmitted intensity as a fraction of I₀. **[2]**
+
+**10.** State what determines a tissue's specific acoustic impedance, and explain why a larger impedance mismatch at a boundary produces a stronger ultrasound reflection. **[2]**
+
 ---
 
 ## Answers
@@ -80,6 +88,14 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 
 **6.** A positron from the tracer **annihilates with an electron** [1]. **Momentum must be conserved**, and the initial total momentum is approximately zero, so **two photons are emitted in opposite directions** [1]. Their energy comes from the rest mass of the electron and positron via E = mc², giving **0.511 MeV each** [1]. A ring of detectors registers both, and the **difference in their arrival times** locates the annihilation point along the line joining the detectors [1].
 
+**7.** An **A-scan** displays the amplitude/intensity of reflected pulses against time or depth **along a single line** through the body, useful for precise depth measurements [1]. A **B-scan** combines **many A-scans** taken across a range of angles or positions to build up a **two-dimensional cross-sectional image** [1]; the two serve different diagnostic purposes [1].
+
+**8.** **Sharpness** describes how **well-defined the edges** of structures appear in the image [1]; **contrast** describes the **difference in attenuation** (and hence brightness) between different tissues in the image [1].
+
+**9.** I/I₀ = e^(−μx) = e^(−0.20 × 5.0) [1] = e^(−1.0) ≈ **0.37** [1].
+
+**10.** A tissue's specific acoustic impedance depends on its **density and the speed of ultrasound through it** [1]. The intensity reflection coefficient depends on the **difference** in impedance between the two tissues at a boundary, so a larger mismatch reflects a greater proportion of the incident intensity [1] — which is exactly why coupling gel, matched closely to skin's own impedance, is needed before an ultrasound scan can even begin.
+
 ---
 
 ## Where marks are usually lost
@@ -88,3 +104,5 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 - Saying λ_min depends on the target material — it depends only on the p.d.
 - Confusing the origins of the continuous and characteristic X-ray spectra.
 - Saying the two PET photons travel in the same direction.
+- Confusing an A-scan with a B-scan, or describing a B-scan as a single depth trace rather than a full 2D image.
+- Mixing up sharpness (edge definition) with contrast (tissue-to-tissue difference in darkness).

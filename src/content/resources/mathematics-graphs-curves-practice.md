@@ -64,6 +64,12 @@ Related: [Graphs of Functions and Sketching Curves revision notes](/resources/ma
 
 **(c)** State what the gradient and the area under a speed–time graph each represent. **[2]**
 
+**7.** Explain how to estimate the gradient of a curve at a specific point using a tangent. **[3]**
+
+**8.** State how many times a cubic graph can cross the x-axis, and explain why this varies. **[2]**
+
+**9.** Distinguish between a vertical and a horizontal asymptote, using the reciprocal graph `y = a/x + b` as your example, and state which type of asymptote an exponential graph has. **[3]**
+
 ---
 
 ## Answers
@@ -101,6 +107,12 @@ So add the line **y = x − 1** [1].
 
 **(c)** Gradient = **acceleration** [1]; area under the graph = **distance travelled** [1].
 
+**7.** Draw a **tangent** — a straight line touching the curve at that one point only, locally, without crossing it there [1]. Read off **two points on the tangent line** [1] and calculate its gradient as change in y over change in x [1].
+
+**8.** A cubic may cross the x-axis **once, twice (with a repeated root), or three times** [1] — not every cubic has exactly 3 roots; it depends on the specific cubic [1].
+
+**9.** A **vertical asymptote** is a line the curve approaches but never touches, where the function is **undefined** — for y = a/x + b this occurs at **x = 0**, where the denominator is zero [1]. A **horizontal asymptote** is the line the curve approaches as x becomes very large or very negative — for y = a/x + b this is the line **y = b** [1]. A reciprocal graph has both; an exponential graph y = arˣ + b has a **horizontal asymptote only** [1] — it never has a vertical one, since arˣ is defined for every real value of x.
+
 ---
 
 ## Where marks are usually lost
@@ -110,3 +122,6 @@ So add the line **y = x − 1** [1].
 - Forgetting the y-intercept when asked for all axis crossings.
 - Joining plotted points with straight segments instead of a smooth curve.
 - Confusing gradient with area on a speed–time graph.
+- Drawing an inaccurate tangent that crosses the curve rather than just touching it at one point.
+- Assuming every cubic has exactly three roots.
+- Sketching a curve touching or crossing its own asymptote.

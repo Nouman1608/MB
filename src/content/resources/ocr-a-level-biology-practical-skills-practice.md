@@ -53,6 +53,14 @@ Related: [Development of Practical Skills revision notes](/resources/ocr-a-level
 **(a)** mean height of plants grown in four different soil types **[2]**
 **(b)** rate of reaction against temperature **[2]**
 
+**7.** Distinguish between a control variable and a control experiment. **[3]**
+
+**8.** An enzyme investigation records these times to a fixed end point at 30°C: 38 s, 40 s, 39 s, 65 s, 41 s. Identify the anomaly, calculate the mean of the remaining readings, and state the rate. **[4]**
+
+**9.** A student wants to test whether there is a significant difference between the mean leaf lengths of two plant species. Which statistical test should be used, and what does it mean if the calculated value exceeds the critical value at p = 0.05? **[3]**
+
+**10.** State which statistical test is appropriate for testing an association between two continuous variables. **[1]**
+
 ---
 
 ## Answers
@@ -75,6 +83,14 @@ Related: [Development of Practical Skills revision notes](/resources/ocr-a-level
 **6. (a)** **Bar chart** [1], because soil type is a **categoric (discrete) variable** [1].
 **(b)** **Line graph** [1], because both variables are **continuous** and there is an expected relationship between them [1].
 
+**7.** A **control variable** is a factor **kept constant** during the experiment so it does not itself affect the dependent variable [1]. A **control experiment** is a separate, **parallel run in which the factor under test is absent** — for example, boiled enzyme in place of active enzyme [1] — used to confirm the observed effect is genuinely caused by that factor and not some other confound [1].
+
+**8.** 65 s is **anomalous** and should be discarded [1]. Mean of the remaining readings = (38 + 40 + 39 + 41) ÷ 4 = **39.5 s** [1] [1]. Rate = 1 ÷ 39.5 = **0.0253 s⁻¹** [1].
+
+**9.** A **t-test** [1], since it compares the difference between **two means** [1]. If the calculated value exceeds the critical value, the difference is **significant** and the null hypothesis is **rejected** — meaning there is **less than a 5% probability** the difference arose by chance [1].
+
+**10.** A **correlation coefficient** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -83,3 +99,6 @@ Related: [Development of Practical Skills revision notes](/resources/ocr-a-level
 - Naming control variables without saying why they matter.
 - Forgetting that repeats improve reliability, not accuracy.
 - Using a bar chart for two continuous variables.
+- Confusing a control variable with a control experiment.
+- Calculating a mean before identifying and discarding anomalous readings.
+- Choosing a correlation coefficient when comparing two means, or a t-test when testing an association.
