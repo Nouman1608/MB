@@ -41,6 +41,8 @@ Every definition must mention **electrostatic attraction**. "Atoms share electro
 
 A **dative (coordinate) covalent** bond is one where **both** electrons of the shared pair come from the same atom — NH₄⁺, H₃O⁺, and every metal–ligand bond. Once formed it is identical in every respect to a normal covalent bond.
 
+**Worked electron-transfer examples**, the three ionic compounds most often examined directly: **NaCl** — sodium (2,8,1) transfers one electron to chlorine (2,8,7), giving Na⁺ (2,8) and Cl⁻ (2,8,8). **MgO** — magnesium (2,8,2) transfers two electrons to oxygen (2,6), giving Mg²⁺ (2,8) and O²⁻ (2,8). **CaF₂** — calcium (2,8,8,2) transfers one electron to each of two fluorines (2,7), giving Ca²⁺ (2,8,8) and two F⁻ (2,8). In every case the resulting ions pack into a **giant ionic lattice**, held together by electrostatic attraction extending in all directions, not confined to one ion pair.
+
 ## Electronegativity
 
 > The ability of an atom to **attract the bonding electrons** in a covalent bond.
@@ -86,6 +88,8 @@ Increases with:
 - **More delocalised electrons per atom** — Mg (2 per atom) melts far higher than Na (1).
 - **Smaller ionic radius** — stronger attraction to the electron sea.
 - **Higher ionic charge**.
+
+Metallic bonding follows the same electrostatic logic: metal atoms release outer-shell electrons into a shared "sea" free to move through the whole structure, leaving a regular lattice of positive ions. This is **not** a bond between any two specific atoms but a force extending through the entire structure — which is exactly why metals conduct electricity in both solid and molten states (the delocalised electrons carry charge freely) and are malleable (layers of ions slide past each other while the electron sea simply redistributes, so no specific bond has to break).
 
 ## Exam traps
 

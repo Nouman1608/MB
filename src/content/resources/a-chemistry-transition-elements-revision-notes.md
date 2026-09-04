@@ -88,6 +88,10 @@ The split size, and hence the colour, changes with **ligand, oxidation state, an
 
 **Ligand exchange** — a stronger ligand displaces a weaker one. Order of strength: CN⁻ > NH₃ > H₂O > Cl⁻.
 
+**Worked examples.** [Cu(H₂O)₆]²⁺ (pale blue, octahedral) + excess NH₃(aq) → [Cu(NH₃)₄(H₂O)₂]²⁺ (deep blue, distorted octahedral) — only four of six waters are replaced. [Cu(H₂O)₆]²⁺ + excess concentrated HCl → [CuCl₄]²⁻ (yellow, tetrahedral) — coordination number falls from 6 to 4 because Cl⁻ is too large to fit six around the ion. [Co(H₂O)₆]²⁺ (pink) behaves the same way: + excess NH₃(aq) → [Co(NH₃)₆]²⁺ (yellow-brown); + excess concentrated HCl → [CoCl₄]²⁻ (blue, tetrahedral).
+
+With **limited** (not excess) OH⁻ or NH₃, a **precipitate** forms instead — e.g. Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s), pale blue — since OH⁻ is acting as a base rather than as a ligand.
+
 The **chelate effect**: multidentate ligands displace monodentate ones because the reaction increases the number of free particles, so **ΔS is positive** and ΔG becomes more negative. It is an entropy effect, not an enthalpy one — that's the mark.
 
 ## Key colours
@@ -102,6 +106,16 @@ The **chelate effect**: multidentate ligands displace monodentate ones because t
 | `MnO₄⁻` | purple |
 | `Cr₂O₇²⁻` | orange |
 | `CrO₄²⁻` | yellow |
+
+## Redox titrations
+
+Multiple accessible oxidation states make transition elements central to redox titrations.
+
+**MnO₄⁻/Fe²⁺:** MnO₄⁻ + 8H⁺ + 5Fe²⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O. Worked example: 25.0 cm³ of Fe²⁺(aq) needed 23.50 cm³ of 0.0200 mol dm⁻³ KMnO₄(aq). Moles MnO₄⁻ = 0.02350 × 0.0200 = 4.70 × 10⁻⁴ mol; moles Fe²⁺ = 5 × that = 2.35 × 10⁻³ mol; [Fe²⁺] = 2.35 × 10⁻³ ÷ 0.0250 = **0.0940 mol dm⁻³**.
+
+**MnO₄⁻/C₂O₄²⁻:** 2MnO₄⁻ + 16H⁺ + 5C₂O₄²⁻ → 2Mn²⁺ + 10CO₂ + 8H₂O. Purple MnO₄⁻ reacting with colourless C₂O₄²⁻/Mn²⁺ makes this titration **self-indicating** — the end point is the first permanent pink tinge.
+
+**Cu²⁺/I⁻ (iodometry):** 2Cu²⁺ + 4I⁻ → 2CuI(s) + I₂. Cu²⁺ oxidises I⁻ to I₂ while being reduced to Cu⁺, which precipitates as white CuI; the liberated I₂ is then titrated against standardised thiosulfate — an **indirect** method, since Cu²⁺ has no sharp end point of its own.
 
 ## Exam traps
 

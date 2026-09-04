@@ -112,6 +112,38 @@ steam at 100°C. The specific latent heat of vaporisation of water is
 
 ΔE = LΔm = (2.26 × 10⁶) × 0.50 = **1.13 × 10⁶ J** (1.13 MJ)
 
+The equation can equally be written in terms of moles rather than molecules:
+
+```
+pV = nRT           n in moles, R = 8.31 J mol⁻¹ K⁻¹
+```
+
+## The kinetic theory model
+
+Kinetic theory derives the macroscopic gas laws from the microscopic motion
+of individual molecules, using several **simplifying assumptions**: a large
+number of molecules in random motion; molecular volume negligible compared
+with the volume of the container; **no intermolecular forces except during
+collisions**; collisions are perfectly elastic; and the time of a collision
+is negligible compared with the time between collisions.
+
+**Because an ideal gas has no intermolecular forces, it has no molecular
+potential energy** — its internal energy is entirely kinetic and depends
+only on temperature, not on pressure or volume.
+
+**Mean molecular kinetic energy depends only on absolute temperature**, not
+on pressure, volume, or which gas it is. Helium and xenon at the same
+temperature have equal mean molecular kinetic energy; the (much heavier)
+xenon atoms simply move more slowly, since ½m c̄² is the same for both but
+m differs.
+
+**Real gases deviate from ideal behaviour most at high pressure and low
+temperature**, because molecules are then close together, so their own
+volume becomes significant relative to the container and intermolecular
+attractions are no longer negligible — exactly the two assumptions that
+break down. Real gases behave most nearly ideally at **low pressure and
+high temperature**, where molecules are far apart.
+
 ## Common mistakes
 
 Using ΔE = mcΔθ when a substance is changing state at constant

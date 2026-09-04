@@ -34,6 +34,19 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Proof by contradiction** must have visible structure: *assume the opposite*, derive a contradiction, conclude the original. The classic results are the irrationality of √2 and the infinitude of primes.
 
+**Worked example.** Prove by contradiction that √2 is irrational.
+
+```
+Assume root 2 is rational: root 2 = a/b in lowest terms, b not 0.
+Square:      2 = a^2 / b^2   ->   a^2 = 2b^2
+So a^2 is even, therefore a is even. Write a = 2k.
+Then (2k)^2 = 2b^2  ->  4k^2 = 2b^2  ->  b^2 = 2k^2
+So b^2 is even, therefore b is even.
+
+But a and b are both even, contradicting "lowest terms".
+Therefore root 2 is irrational.
+```
+
 **Notation carries marks:**
 
 ```
@@ -43,6 +56,27 @@ Condensed for the final weeks. For the full explanation, use the
 ```
 
 Using ⟹ where ⟺ is required, or vice versa, is a common and avoidable loss. `x = 2 ⟹ x² = 4` is true, but the reverse is not, so ⟺ would be wrong.
+
+**A condition can be necessary without being sufficient.** Having four equal sides is *necessary* for a square (every square has them) but not *sufficient* (a rhombus also has them without being a square) — a necessary **and** sufficient condition needs four equal sides **and** four right angles.
+
+**Worked example — proof by exhaustion.** Prove that no square number ends in 2, 3, 7 or 8.
+
+```
+Every integer ends in a digit 0-9.
+Squaring each final digit gives final digits: 0,1,4,9,6,5,6,9,4,1
+None of these is 2, 3, 7 or 8, and a square's final digit depends only
+on the final digit of the original number, so the statement holds for
+every integer.
+```
+
+**Worked example — proof by deduction.** Prove that the product of two consecutive even numbers is a multiple of 8.
+
+```
+Let the numbers be 2n and 2n + 2.
+Product = 4n(n + 1)
+Of any two consecutive integers n and n+1, one must be even, so
+n(n+1) is a multiple of 2. Hence 4n(n+1) is a multiple of 8.
+```
 
 ## Modelling
 

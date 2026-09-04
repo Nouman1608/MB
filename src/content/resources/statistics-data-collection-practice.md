@@ -49,6 +49,17 @@ Related: [Data and Its Collection revision notes](/resources/statistics-data-col
 **(b)** Rewrite it appropriately. **[2]**
 **(c)** Explain **two** other principles of good questionnaire design. **[4]**
 
+## Section C
+
+**7.** A student's height is recorded as 152 cm to the nearest cm. State the class boundaries within which the true height must lie. **[2]**
+
+**8.** Before running a survey of 500 households, a researcher tests the questionnaire on 20 households first.
+
+**(a)** State the name for this preliminary test. **[1]**
+**(b)** Explain **one** reason it is carried out. **[2]**
+
+**9.** A researcher argues that increasing a biased sample from 50 to 500 will remove the bias. Explain why this is incorrect, and state **two** other sources of bias besides a poorly worded question. **[4]**
+
 ---
 
 ## Answers
@@ -71,6 +82,12 @@ Related: [Data and Its Collection revision notes](/resources/statistics-data-col
 **6. (a)** It is a **leading question** — "Don't you agree" pressures the respondent towards agreement [1]; it has **no time frame or defined scale, and "improved" is vague** — improved in what respect? [1]
 **(b)** For example: *"How would you rate the school canteen this year? Very good / Good / Satisfactory / Poor / Very poor"* [1] [1].
 **(c)** Any two, 2 marks each: **avoid overlapping or incomplete response categories** — options such as 0–10, 10–20 leave the respondent unsure where 10 belongs [1] [1]. **Avoid personal, sensitive or embarrassing questions**, or place them at the end and make responses anonymous, since they otherwise reduce the response rate and truthfulness [1] [1]. **Keep the questionnaire short and use simple, unambiguous language** with no jargon or double negatives, so every respondent interprets each question the same way [1] [1].
+
+**7.** A height of 152 cm to the nearest cm lies in the interval **151.5 ≤ h < 152.5** [2] (1 mark for each correct bound, using ≤ on the lower bound and < on the upper so adjacent classes never overlap).
+
+**8. (a)** A **pilot survey** [1]. **(b)** Any one: it tests the questionnaire on a small group **before the full survey runs**, exposing ambiguous wording, questions that are misunderstood, or response categories that do not cover every answer, so these can be fixed before the real data collection begins [1] [1].
+
+**9.** Increasing the sample size reduces **sampling error**, the random variation between samples, but **does not remove bias**, which is a systematic fault in the method itself — a biased method stays biased at any size, however large [2]. Any two other sources, 1 mark each: an **incomplete sampling frame** (the list used to select the sample does not cover the whole population); **non-response** (those who reply may differ systematically from those who do not); **self-selection** (only strongly motivated individuals choose to take part); the **interviewer effect** (respondents answer differently depending on who is asking) [1] [1].
 
 ---
 

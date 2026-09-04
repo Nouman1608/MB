@@ -138,6 +138,30 @@ The time constant is the time taken for the quantity to fall to 1/e (about
 37%) of its initial value, and gives a measure of how quickly a capacitor
 discharges through a given resistance: a larger RC means slower discharge.
 
+## Charging a capacitor
+
+Charging is the reverse process. Charge and p.d. **rise** towards their
+final value:
+
+```
+Q = Q₀(1 − e^(−t/RC))
+```
+
+while the current **decays** exponentially, starting at its maximum value
+V₀/R (when the capacitor is uncharged and offers no opposing p.d.) and
+falling towards zero as the capacitor's own p.d. increasingly opposes the
+supply:
+
+```
+I = I₀ e^(−t/RC)
+```
+
+**Current always decays exponentially in both charging and discharging** —
+the difference is what charge and p.d. do: they rise during charging and
+fall during discharging. The time constant τ = RC has exactly the same
+meaning in both cases, and is independent of the capacitor's initial
+charge.
+
 ## Common mistakes
 
 - **Using the resistor-style formula for capacitors in series or parallel**
@@ -150,13 +174,18 @@ in a finite time.
 - **Confusing the time constant τ = RC with the time for complete
 discharge** — τ is the time to fall to 1/e of the initial value, not the
 total discharge time.
+- **Assuming charge or current rises linearly during charging** — the
+current decays exponentially even while the charge is rising, since it is
+the *rate* of charge delivery that falls as the capacitor's own p.d.
+increasingly opposes the supply.
 
 ## Quick revision checklist
 
 - C = Q/V, and combining capacitors in series (reciprocal) and parallel (direct)
 - W = ½QV = ½CV² for energy stored, from the area under a V-Q graph
 - x = x₀e^(−t/RC) for exponential discharge of current, charge or voltage
-- τ = RC as the time constant
+- Q = Q₀(1 − e^(−t/RC)) for charge rising during charging, while current still decays exponentially
+- τ = RC as the time constant, with the same meaning in charging and discharging
 
 ## Related resources
 

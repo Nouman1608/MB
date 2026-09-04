@@ -46,6 +46,19 @@ Related: [Markets revision notes](/resources/igcse-oxfordaqa-economics-markets-r
 
 **6.** Explain how a **monopoly** may harm consumers, and give **two** ways a government could regulate one. **[6]**
 
+## Section C — Market failure
+
+**7.** Define opportunity cost, and explain why "capital" in economics does not mean money. **[3]**
+
+**8.** Distinguish between a negative and a positive externality, giving one example of each. **[4]**
+
+**9.** Explain why a free market fails to provide street lighting, referring to the **two** defining properties of a public good. **[4]**
+
+**10.** The government sets a maximum price for bread below the market equilibrium price.
+
+**(a)** Explain, with reference to a diagram, the effect on the quantity demanded and supplied. **[3]**
+**(b)** State **two** likely consequences of this policy. **[2]**
+
 ---
 
 ## Answers
@@ -67,6 +80,14 @@ The rule is that revenue rises when price moves **towards** the inelastic direct
 
 **6.** A monopoly can **restrict output and charge a higher price than would prevail under competition**, so consumers pay more and consume less [1] [1]. With no competitive pressure it may also allow **quality to fall, be slow to innovate and become inefficient**, since it will retain customers regardless [1].
 Regulation: the government can **set a maximum price or a price cap** linked to inflation, so the monopoly cannot exploit its position [1]; it can **use competition law to break the firm up or prevent mergers that create monopoly** [1]; or it can **open the market to competition by removing barriers to entry, or take the firm into public ownership** [1].
+
+**7. Opportunity cost** is the value of the **next best alternative forgone** when a choice is made, not the total of everything given up [1] [1]. In economics, **capital means machinery, tools and equipment** used in production — not money, which is merely used to *buy* capital [1].
+
+**8.** A **negative externality** imposes costs on third parties who are not part of the transaction, e.g. air pollution from a factory harming nearby residents [1] [1]. A **positive externality** creates benefits for third parties, e.g. a vaccinated individual reducing the spread of disease to others [1] [1].
+
+**9.** A public good must be **non-excludable** — once provided, no one can be stopped from using it, so a private firm cannot charge for it [1] [1] — **and** **non-rival** — one person's use does not reduce its availability to anyone else [1]. Because people can enjoy street lighting without paying for it (the **free-rider problem**), no private firm would find it profitable to supply, so the free market provides **none** at all [1] [1].
+
+**10. (a)** A maximum price set below equilibrium causes **quantity demanded to rise and quantity supplied to fall**, since the price is now more attractive to buyers but less attractive to producers [1] [1]; on a demand-and-supply diagram this creates a gap between the two curves at the new lower price, representing **excess demand** [1]. **(b)** Any two: **shortages and queues**, since quantity demanded exceeds quantity supplied [1]; the emergence of a **black market**, where the good is resold above the legal price [1]; producers may **reduce quality** to cut costs at the lower legal price [1].
 
 ---
 

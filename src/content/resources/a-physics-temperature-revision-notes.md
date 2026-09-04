@@ -77,6 +77,24 @@ An empirical scale depends on a **physical property that varies with temperature
 
 **Choosing a thermometer:** small thermal capacity for rapidly changing temperatures (a thermocouple, because it absorbs little energy and so barely disturbs the system it measures); high accuracy where speed does not matter (platinum resistance); high sensitivity over a narrow range (thermistor).
 
+## Specific heat capacity and specific latent heat
+
+**Specific heat capacity** c is the energy required to raise the temperature of unit mass of a substance by one degree, without a change of state:
+
+```
+Q = mcΔθ
+```
+
+Worked example: 500 g of water (c = 4200 J kg⁻¹ K⁻¹) heated from 20 °C to 80 °C requires Q = 0.500 × 4200 × 60 = 126,000 J.
+
+**Specific latent heat** L is the energy required to change the state of unit mass of a substance **without a change of temperature**:
+
+```
+Q = mL
+```
+
+Fusion refers to melting/freezing; vaporisation refers to boiling/condensing. On a cooling curve (temperature against time), temperature falls steadily while the substance stays in one state, but is **constant during a change of state**, since the energy transferred is latent heat rather than energy that raises or lowers temperature.
+
 ## Exam traps
 
 - Saying absolute zero is where molecules have *no* energy rather than minimum energy.
@@ -85,6 +103,8 @@ An empirical scale depends on a **physical property that varies with temperature
 - Saying thermal energy flows from higher internal energy to lower.
 - Treating temperature and thermal energy as the same quantity.
 - Giving the melting point rather than the triple point as a fixed point.
+- Forgetting that Q = mcΔθ only applies while the substance stays in one state — once melting or boiling starts, use Q = mL instead, since the temperature is no longer changing.
+- Assuming a larger mass always needs more energy for the same temperature change — c varies hugely between substances, so a large mass of a low-c material can need less energy than a small mass of water.
 
 ## Self-test
 
@@ -93,5 +113,7 @@ An empirical scale depends on a **physical property that varies with temperature
 3. Why is the triple point used as a fixed point rather than the melting point?
 4. Is a change of 15 °C equal to a change of 15 K?
 5. Why is a thermocouple preferred for rapidly changing temperatures?
+6. Distinguish specific latent heat from specific heat capacity.
+7. Why does temperature stay constant while a solid melts, even though energy is still being supplied?
 
-**Answers:** 1. The mean kinetic energy of the molecules — not the total thermal energy. 2. No net flow of thermal energy between two bodies, which occurs when they are at the same temperature; energy flows from higher to lower *temperature*, regardless of internal energy. 3. The triple point occurs at one unique temperature and pressure, so it is perfectly reproducible, whereas a melting point varies with pressure. 4. Yes — intervals are identical on the two scales; only absolute temperatures differ, by 273.15. 5. It has a small thermal capacity, so it responds quickly and absorbs very little energy from the system being measured.
+**Answers:** 1. The mean kinetic energy of the molecules — not the total thermal energy. 2. No net flow of thermal energy between two bodies, which occurs when they are at the same temperature; energy flows from higher to lower *temperature*, regardless of internal energy. 3. The triple point occurs at one unique temperature and pressure, so it is perfectly reproducible, whereas a melting point varies with pressure. 4. Yes — intervals are identical on the two scales; only absolute temperatures differ, by 273.15. 5. It has a small thermal capacity, so it responds quickly and absorbs very little energy from the system being measured. 6. Specific latent heat is the energy needed to change state without a change of temperature, while specific heat capacity is the energy needed to change temperature without a change of state. 7. During melting the temperature stays constant because the energy supplied is latent heat, going into breaking intermolecular bonds rather than increasing mean kinetic energy.

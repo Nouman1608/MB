@@ -22,7 +22,13 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [The Operation of Markets study guide](/resources/a-level-oxfordaqa-economics-operation-of-markets/).
 
-## Methodology
+## The economic problem and methodology
+
+**Scarcity** is the starting point of the whole subject: wants are unlimited while resources are finite, so choices must be made, and every choice carries an **opportunity cost** — the value of the *next best* alternative forgone, not the total of everything given up.
+
+The four **factors of production** are land (rent), labour (wages), capital (interest) and enterprise (profit). **Capital means machinery, tools and buildings — not money**, which is used to *buy* capital.
+
+**Production possibility curves** show the maximum combinations of two goods obtainable with resources fully and efficiently employed. A point **on** the curve is efficient; **inside** indicates unemployment or inefficiency; **outside** is currently unattainable. The curve is **concave to the origin** because resources are not perfectly substitutable between uses, so opportunity cost rises as more of one good is produced. An **outward shift** represents economic growth.
 
 OxfordAQA weights this more heavily than most specifications.
 
@@ -96,6 +102,8 @@ Negative and positive externalities, public goods (**non-excludable and non-riva
 - Explaining persistent monopoly profit without barriers to entry.
 - Unlabelled externality diagrams.
 - Omitting government failure.
+- Confusing opportunity cost with the total amount given up, rather than just the next best alternative.
+- Treating capital as money rather than as machinery, tools and equipment.
 
 ## Self-test
 
@@ -104,5 +112,7 @@ Negative and positive externalities, public goods (**non-excludable and non-riva
 3. Who bears more of an indirect tax?
 4. Why does supernormal profit persist under monopoly but not perfect competition?
 5. Why must government failure appear in an evaluation of intervention?
+6. Define opportunity cost.
+7. Why is a production possibility curve concave to the origin?
 
-**Answers:** 1. A positive statement is factual and can be tested against evidence; a normative statement contains a value judgement and cannot be tested. 2. All other things held equal; it isolates the effect of one variable so a relationship can be modelled. 3. The more inelastic side of the market, because it can least easily adjust quantity in response to the price change. 4. Barriers to entry prevent new firms entering to compete the profit away, whereas perfect competition has none. 5. Because intervention can produce a worse outcome than the market, so a balanced judgement must weigh that possibility rather than assuming intervention improves matters.
+**Answers:** 1. A positive statement is factual and can be tested against evidence; a normative statement contains a value judgement and cannot be tested. 2. All other things held equal; it isolates the effect of one variable so a relationship can be modelled. 3. The more inelastic side of the market, because it can least easily adjust quantity in response to the price change. 4. Barriers to entry prevent new firms entering to compete the profit away, whereas perfect competition has none. 5. Because intervention can produce a worse outcome than the market, so a balanced judgement must weigh that possibility rather than assuming intervention improves matters. 6. The value of the next best alternative forgone when a choice is made — not the total of everything given up. 7. Because resources are not perfectly substitutable between uses, so each additional unit of one good requires giving up an increasing amount of the other.

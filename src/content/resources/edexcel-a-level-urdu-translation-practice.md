@@ -52,6 +52,18 @@ Related: [Translation and Reading revision notes](/resources/edexcel-a-level-urd
 
 **5.** Explain **three** differences between formal and informal register in Urdu, giving an example of each. **[6]**
 
+## Section D — Reading comprehension and writing
+
+**6.** Read the passage, then answer the questions that follow **in English**.
+
+> ماحولیاتی تبدیلی صرف سائنس دانوں کا مسئلہ نہیں رہی، بلکہ اب یہ ہر گھر کی بات بن چکی ہے۔ شہروں میں گرمی کی شدت ہر سال بڑھ رہی ہے، اور بارشوں کا وقت بھی بے ترتیب ہو گیا ہے۔ کچھ لوگ سمجھتے ہیں کہ یہ مسئلہ صرف حکومتوں کا ہے، مگر حقیقت یہ ہے کہ عام آدمی کی چھوٹی چھوٹی عادتیں بھی بڑا فرق ڈال سکتی ہیں۔
+
+**(a)** What does the writer say has changed about climate change as an issue? **[2]**
+**(b)** According to the passage, what has happened to rainfall patterns? **[1]**
+**(c)** Explain, in your own words, why some people are wrong to see this as only the government's problem. **[3]**
+
+**7.** In 120–150 words, write in Urdu about the importance of individual responsibility in protecting the environment. **[15]**
+
 ---
 
 ## Answers
@@ -76,6 +88,12 @@ Related: [Translation and Reading revision notes](/resources/edexcel-a-level-urd
 
 **5.** Any three, 2 marks each: **pronouns and verb forms** — formal Urdu uses **آپ with the ہیں/کیجیے forms**, informal uses **تم or تُو with کرو/کر** [1] [1]. **Vocabulary** — formal register draws on **Persian and Arabic loanwords** (تشریف لائیے، ملاحظہ فرمائیے) where informal uses plain everyday words (آؤ، دیکھو) [1] [1]. **Sentence structure and openings** — formal writing uses **longer, more complex sentences and set conventions** such as جنابِ محترم or گزارش ہے کہ, while informal writing is short and direct [1] [1]. **Honorific plurals** — a single respected person is referred to in the **plural** (والد صاحب آئے ہیں), which does not occur in informal speech about peers [1] [1].
 
+**6. (a)** It has stopped being an issue only for scientists — it has become something every household talks about **[2]** (one mark for "no longer only scientists'", one for "now a household matter"). **(b)** Rainfall has become **irregular in timing** — بے ترتیب — rather than following its usual pattern **[1]**. **(c)** The passage argues that individuals' small daily habits (عام آدمی کی چھوٹی چھوٹی عادتیں) can make a large difference, so treating the issue as the government's alone ignores the real contribution ordinary people can make **[3]**: 1 mark for identifying the claim about individual habits, 1 for linking it to the "government-only" misconception, 1 for expressing this in the candidate's own words rather than lifting the sentence.
+
+**7.** Marks split between **content** (relevance, development, organisation — a clear introduction, developed points, a conclusion) and **language** (range and accuracy — gender agreement, consistent tense and person, correct postpositions including the ergative **نے**, and accurate script). A response that makes only one point but expresses it with varied, accurate Urdu can outscore one that lists several points in simple, repetitive sentences, since content and language are marked separately.
+
+**Worked illustration of register choice**, translating the idea *"he lost his temper"* into natural Urdu-register English elsewhere in a passage: a literal rendering ("anger came upon him") is unnatural English; an overly free rendering ("he flipped out") loses the register of a formal passage; the balanced version ("he became angry") is both accurate and appropriately formal — the same literal/too-free/balanced check applies when translating **out of** Urdu, not only into it.
+
 ---
 
 ## Where marks are usually lost
@@ -84,3 +102,5 @@ Related: [Translation and Reading revision notes](/resources/edexcel-a-level-urd
 - Losing the tense in translation into Urdu, particularly the perfect.
 - Using تم forms in a formal passage.
 - Producing English that is accurate in meaning but unnatural in word order.
+- Answering a reading-comprehension question in the wrong language, or lifting the passage's own wording where the question asks for explanation in the candidate's own words.
+- In the writing task, listing points in short, repetitive sentences instead of developing fewer points with varied, accurate language.
