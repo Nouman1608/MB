@@ -73,6 +73,15 @@ Physical quantities in A-level Physics span an enormous range of magnitudes, fro
 
 Students should be able to convert between different units used for the same physical quantity. Two conversions specifically named in the specification are between joules (J) and electronvolts (eV), and between joules (J) and kilowatt-hours (kW h).
 
+**Worked example -- kilowatt-hours to joules.** A domestic energy meter records 4.2 kW h of electrical energy used, given 1 kW h = 3.6 x 10^6 J.
+
+```
+energy in J = energy in kW h x 3.6 x 10^6
+energy in J = 4.2 x 3.6 x 10^6 = 1.512 x 10^7 J
+```
+
+The kilowatt-hour is a non-SI unit still used on household energy bills precisely because a joule is an inconveniently small unit for the amount of energy a home uses in a day -- converting it to joules is what puts it on the same footing as every other energy calculation in the specification.
+
 **Worked example.** An electron is accelerated through a potential difference so that it gains 3.2 × 10⁻¹⁸ J of kinetic energy. Express this energy in electronvolts (1 eV = 1.6 × 10⁻¹⁹ J).
 
 ```
@@ -80,9 +89,18 @@ energy in eV = energy in J ÷ (1.6 × 10⁻¹⁹)
 energy in eV = 3.2 × 10⁻¹⁸ ÷ 1.6 × 10⁻¹⁹ = 20 eV
 ```
 
+**Worked example -- prefixed units in a calculation.** A student measures a current as 250 mA and substitutes 250 directly into an equation that requires SI base units.
+
+```
+250 mA is NOT 250 A -- "m" here means milli, x10^-3
+250 mA = 250 x 10^-3 A = 0.25 A
+```
+
+Substituting 250 instead of 0.25 makes the final answer wrong by a factor of 1000, even though every other step of the calculation is correct -- this is one of the most common ways marks are lost on questions that otherwise test a different topic entirely, because the unit-conversion error happens right at the start.
+
 ## Common mistakes
 
-Mixing up prefixes with similar-sounding names, e.g. milli (10⁻³) and micro (10⁻⁶) — always double check the exponent, not just the letter. Forgetting to convert a quantity into base SI units before substituting into an equation (e.g. leaving a length in cm rather than converting to m). Confusing mass (kg) with weight (N) when reading "fundamental quantities."
+Mixing up prefixes with similar-sounding names, e.g. milli (10⁻³) and micro (10⁻⁶) — always double check the exponent, not just the letter. Forgetting to convert a quantity into base SI units before substituting into an equation (e.g. leaving a length in cm, or a current in mA, rather than converting to m or A). Confusing mass (kg) with weight (N) when reading "fundamental quantities."
 
 ## Quick revision checklist
 
@@ -93,6 +111,7 @@ Mixing up prefixes with similar-sounding names, e.g. milli (10⁻³) and micro (
 
 ## Related resources
 
+- [Use of SI Units and Their Prefixes practice questions](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes-practice/)
 - [Limitation of Physical Measurements](/resources/aqa-alevel-physics-limitation-of-physical-measurements/) — the next sub-topic
 - [AQA A Level Physics hub](/boards/aqa/a-level/physics/)
 

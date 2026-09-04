@@ -39,6 +39,8 @@ Orders of magnitude. Estimation of approximate values of physical quantities. St
 
 An **order of magnitude** is a power of ten used to give a rough sense of the scale of a quantity, without claiming precision. Two quantities are said to be "of the same order of magnitude" if they are within a factor of about 3 of the same power of ten; a quantity's order of magnitude is the power of ten closest to its value.
 
+For example, a result of 3.4 x 10^5 has order of magnitude 10^5, since 3.4 is closer to 1 than to 10 on the relevant power-of-ten scale. This matters because two very different-looking numbers, such as 2 x 10^5 and 8 x 10^5, are still both order 10^5 -- while a number just the other side of a boundary, such as 4 x 10^6, jumps to a different order of magnitude entirely, even though it is less than twice as large as 8 x 10^5. Estimation questions are marked on getting the power of ten right, not on how close the leading digit is.
+
 ## Estimating physical quantities
 
 Students are expected to be able to estimate approximate values of physical quantities to the nearest order of magnitude — for example, the mass of an adult human (~10² kg), the diameter of an atom (~10⁻¹⁰ m), or the speed of a walking person (~1 m s⁻¹). These estimates rely on everyday experience and general physics knowledge rather than precise measurement.
@@ -59,6 +61,17 @@ beats ≈ (10⁰) × (10⁷) × (10²) = 10⁹ beats
 
 So a typical human heart beats on the order of 10⁹ (about a billion) times in a lifetime — this kind of reasoning combines several rough estimates to reach a derived order-of-magnitude answer.
 
+**Worked example -- using an estimate as a sanity check.** A student calculates that a stadium measuring roughly 50 m by 50 m, allowing about 0.5 m² per spectator, can hold 5 × 10² spectators, and asks whether this is plausible.
+
+```
+area           = 50 x 50 = 2500 m^2
+capacity       = area / area per spectator = 2500 / 0.5 = 5000
+
+-> 5000 is order of magnitude 10^3, not 10^2 as the student claimed
+```
+
+The student's answer is out by a whole order of magnitude -- most likely from dividing the wrong way round -- and a quick order-of-magnitude recalculation catches the error immediately, without needing to redo the full working in detail. This is the "sanity-check" use of estimation referred to above: it does not replace a proper calculation, but it does flag when a proper calculation has clearly gone wrong.
+
 ## Common mistakes
 
 Treating an order-of-magnitude estimate as if it needed to be precise to several significant figures — the goal is the correct power of ten, not an exact value. Forgetting to convert all quantities to consistent units before combining them in an estimate (e.g. mixing years and seconds). Being reluctant to make a reasonable assumption when data isn't given — estimation questions expect sensible, justified assumptions.
@@ -72,6 +85,7 @@ Treating an order-of-magnitude estimate as if it needed to be precise to several
 
 ## Related resources
 
+- [Estimation of Physical Quantities practice questions](/resources/aqa-alevel-physics-estimation-of-physical-quantities-practice/)
 - [Limitation of Physical Measurements](/resources/aqa-alevel-physics-limitation-of-physical-measurements/) — the previous sub-topic
 - [Use of SI Units and Their Prefixes](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes/)
 - [AQA A Level Physics hub](/boards/aqa/a-level/physics/)
