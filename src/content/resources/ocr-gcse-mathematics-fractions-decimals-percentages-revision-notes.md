@@ -114,6 +114,11 @@ Before any percentage calculation, decide whether the question gives you the **o
 
 Topic 1 (Number operations and integers) established calculation with whole numbers; this topic extends the same four operations to non-integer values -- a student shaky on long division will also struggle converting a fraction to a decimal by division. Topics 1 and 2 together form the foundation Topic 5 (Ratio, proportion and rates of change) builds on directly, since ratio and proportion problems are structurally fraction and percentage problems in a different context. Since any topic can appear on any paper, practise both calculator and non-calculator percentage methods rather than assuming one paper will avoid them.
 
+## Related resources
+
+- [Fractions, Decimals and Percentages study guide](/resources/ocr-gcse-mathematics-fractions-decimals-and-percentages/)
+- [Fractions, Decimals and Percentages practice questions](/resources/ocr-gcse-mathematics-fractions-decimals-percentages-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Mathematics (J560) Specification at a Glance*, Topic 2 —

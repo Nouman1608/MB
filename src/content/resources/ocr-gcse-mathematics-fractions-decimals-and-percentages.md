@@ -145,6 +145,11 @@ percentage questions will be confined to a "non-calculator" or
 "calculator" paper specifically -- practise both mental-method and
 calculator-method percentage calculations.
 
+## Related resources
+
+- [Fractions, Decimals and Percentages revision notes](/resources/ocr-gcse-mathematics-fractions-decimals-percentages-revision-notes/)
+- [Fractions, Decimals and Percentages practice questions](/resources/ocr-gcse-mathematics-fractions-decimals-percentages-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Mathematics (J560) Specification at a Glance*,
