@@ -85,6 +85,8 @@ progressive wave, a stationary wave does not transfer energy along its length.
 Adjacent nodes (or adjacent antinodes) are separated by half a wavelength, so
 measuring the distance between them lets you determine wavelength directly.
 
+**Harmonics.** For a string fixed at both ends, the fundamental (lowest-frequency) mode has a node at each end and one antinode in the middle, so the string length L = λ/2, giving fundamental frequency f = v/2L. For a pipe **closed at one end**, there must be a node at the closed end (where air cannot move) and an antinode at the open end (where it moves freely), giving L = λ/4 for the fundamental — and, unlike the open string, a closed pipe supports only **odd harmonics**. Forgetting this restriction to odd harmonics for a closed pipe is a common error.
+
 ## Diffraction
 
 **Diffraction** is the spreading of a wave as it passes through a gap or
@@ -103,6 +105,15 @@ fixed phase relationship).
 
 For observable interference fringes, the two sources must be coherent, and
 (for light) of similar amplitude and roughly monochromatic.
+
+The condition for a bright or dark fringe can also be stated directly in terms of **path difference** — the difference in distance travelled by the two waves to reach a point:
+
+| Fringe | Path difference |
+|---|---|
+| **Constructive (bright)** | nλ |
+| **Destructive (dark)** | (n + ½)λ |
+
+where n is a whole number (0, 1, 2, …). This path-difference form and the λ = ax/D formula describe the same pattern from two different angles: one gives the *condition* for a fringe, the other gives its *position*.
 
 **Double-slit interference** with light uses:
 

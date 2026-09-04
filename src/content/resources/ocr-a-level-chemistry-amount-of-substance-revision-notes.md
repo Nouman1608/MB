@@ -36,6 +36,16 @@ pV = nRT                    R = 8.31 J mol^-1 K^-1, T in KELVIN, p in Pa, V in m
 
 For `pV = nRT` everything must be in **SI units**. Using cm³ or °C is the single most common cause of an answer being out by a factor of a thousand.
 
+**Worked example.** A gas occupies 250 cm³ at 100 kPa and 298 K; its mass is 0.44 g. Find its M_r.
+
+```
+p = 100 000 Pa    V = 250 x 10^-6 m3    T = 298 K
+n = pV/RT = (100 000 x 250x10^-6) / (8.31 x 298) = 1.01x10^-2 mol
+M_r = mass / n = 0.44 / 1.01x10^-2 = 43.6 -> 44 (likely CO2)
+```
+
+Converting cm³ to m³ and kPa to Pa **before** substituting is what makes this answer come out right rather than a factor of a thousand or more out.
+
 ## Empirical and molecular formulae
 
 **Method:** divide each mass or percentage by the relative atomic mass, divide all results by the smallest, then scale to whole numbers.

@@ -44,6 +44,10 @@ Related: [Living with the Physical Environment revision notes](/resources/igcse-
 
 **7.** Explain **three** ways in which the tropical rainforest is adapted to its climate. **[6]**
 
+**8.** Explain **three** ways in which plants or animals of the hot desert are adapted to its climate. **[6]**
+
+**9.** Compare hard engineering and soft engineering as approaches to managing a coastline, giving **one** example and **one** limitation of each. **[6]**
+
 ---
 
 ## Answers
@@ -64,6 +68,10 @@ They form only between about 5° and 30° because **sea temperatures below 27 °
 
 **7.** Any three, 2 marks each: **buttress roots** spread widely to support tall trees in thin, nutrient-poor soil [1] [1]; **drip-tip leaves** shed heavy rainfall quickly, preventing damage and the growth of algae and fungi [1] [1]; **lianas and epiphytes** grow up or on other trees to reach the light without investing in their own trunk [1] [1]; the **dense canopy** captures most of the light, and emergent trees grow very tall to rise above it [1] [1]; **rapid nutrient cycling** — decomposition is fast in the hot wet conditions and nutrients are reabsorbed almost immediately, since the soil itself holds few [1] [1].
 
+**8.** Any three, 2 marks each: **deep or wide-spreading roots** reach water far below the surface or collect it quickly over a large area after rare rainfall [1] [1]; **water storage in stems**, as in a cactus, allows the plant to survive long dry periods between rainfall events [1] [1]; **waxy or spiny leaves** reduce the surface area for transpiration and cut water loss, spines also deterring animals from eating the plant for its stored water [1] [1]; **nocturnal behaviour** in animals avoids the extreme daytime heat and reduces water loss through evaporation and panting [1] [1].
+
+**9. Hard engineering** uses **built structures** such as sea walls or groynes [1]; it is **highly effective at the specific location** but is **costly and visually intrusive**, and can increase erosion further along the coast by starving it of sediment [1] [1]. **Soft engineering** works **with natural processes**, such as beach nourishment or managed retreat [1]; it is **cheaper and more sustainable** than hard engineering, but is **slower to take effect and less certain in its outcome**, since it does not offer the same guaranteed protection at a specific point [1] [1].
+
 ---
 
 ## Where marks are usually lost
@@ -72,3 +80,5 @@ They form only between about 5° and 30° because **sea temperatures below 27 °
 - Saying people live near volcanoes only because they are poor.
 - Omitting the Coriolis effect in tropical storm formation.
 - Describing a meander without both erosion and deposition.
+- Giving only rainforest adaptations when desert adaptations are asked for, or vice versa.
+- Describing hard or soft engineering without a linked limitation.

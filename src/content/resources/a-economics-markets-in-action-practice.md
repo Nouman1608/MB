@@ -57,6 +57,14 @@ Related: [Markets in Action revision notes](/resources/a-economics-markets-in-ac
 
 **(c)** Evaluate the use of nudges compared with regulation. **[6]**
 
+**6.** A supermarket notices that when household income falls, demand for its own-brand bread rises, while demand for a premium organic bread falls.
+
+**(a)** Calculate and interpret the income elasticity of demand implied for each product if a 10% fall in income raises own-brand demand by 4% and lowers organic demand by 6%. **[4]**
+
+**(b)** Explain what this tells the supermarket about how the two goods should be classified. **[2]**
+
+**7.** Explain why a public good will not be provided by a free market, and describe **one** way a tradable permit scheme addresses a negative externality differently from a fixed indirect tax. **[6]**
+
 ---
 
 ## Answers
@@ -93,6 +101,11 @@ Related: [Markets in Action revision notes](/resources/a-economics-markets-in-ac
 **Regulation** [up to 1]: more certain and enforceable, but removes choice, costs more to monitor, and can create black markets.
 **Judgement** [1]: nudges suit barriers of **inertia or information**; regulation suits harms that are **serious and certain**. The choice depends on the nature of the market failure.
 
+**6. (a)** Own-brand: YED = %ΔQd ÷ %Δincome = +4% ÷ −10% = **−0.4** [1]; negative YED means own-brand bread is an **inferior good** [1]. Organic: YED = −6% ÷ −10% = **+0.6** [1]; positive YED means organic bread is a **normal good** (and, being below 1, a necessity rather than a luxury) [1].
+**(b)** The supermarket should expect **demand for own-brand bread to fall as incomes recover**, since consumers switch back to preferred alternatives once they can afford to [1], while **demand for organic bread should rise with incomes**, making it more sensitive to the economic cycle than the own-brand line [1].
+
+**7.** A **public good** is **non-excludable** (a supplier cannot stop a non-payer from consuming it) and **non-rival** (one person's consumption does not reduce what is available to others) [1] [1]. Because non-payers cannot be excluded, a **free-rider problem** arises: no one has an incentive to pay, so a private firm cannot profitably supply it, and the market provides **none** [1] [1]. A **tradable permit scheme** sets a **cap on total output or emissions** and lets firms buy and sell permits within it, so the **market finds the cheapest way to reduce the externality** across firms with different abatement costs [1]; a **fixed indirect tax** instead sets a **price** on the externality but leaves the resulting quantity of pollution uncertain, whereas a permit scheme fixes the quantity and leaves the price to the market [1].
+
 ---
 
 ## Where marks are usually lost
@@ -102,3 +115,5 @@ Related: [Markets in Action revision notes](/resources/a-economics-markets-in-ac
 - Claiming a tax on inelastic demand will substantially cut consumption.
 - Omitting government failure from an evaluation of intervention.
 - A conclusion with no criterion.
+- Giving only one property of a public good.
+- Confusing what a tax fixes (price) with what a tradable permit scheme fixes (quantity).

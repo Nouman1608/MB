@@ -105,6 +105,20 @@ Pₐᵥₑᵣₐgₑ = ½ P₀
 This is consistent with, and can be verified using, the r.m.s. current and
 voltage values directly in P = IᵣₘₛVᵣₘₛ.
 
+## Transformers and power transmission
+
+A **transformer** changes the voltage of an alternating supply while (ideally) conserving power:
+
+```
+N_s / N_p = V_s / V_p          I_p V_p = I_s V_s  (ideal, 100% efficient)
+```
+
+A **step-up** transformer increases voltage and decreases current in the same proportion; a **step-down** transformer does the reverse. The operating principle is electromagnetic induction: an alternating current in the primary coil produces a continuously changing magnetic flux in the soft-iron core, and this changing flux links the secondary coil, inducing an alternating e.m.f. there via Faraday's law. **A transformer cannot work on direct current** — a steady current produces a constant flux with no rate of change, so no e.m.f. is induced in the secondary. This point is examined often.
+
+Real transformers lose some power, through **eddy currents** (reduced by laminating the core into insulated layers), **resistive (I²R) heating** in the windings (reduced with thick, low-resistance wire), **hysteresis** (energy needed to repeatedly re-magnetise the core, reduced by using a soft iron core), and **flux leakage** (reduced by a well-designed, fully linked core).
+
+**Power transmission** is why transformers matter beyond the laboratory. Electricity is transmitted at **high voltage and low current**, because the power lost as heat in the cables is `I²R` — it depends on the **square of the current**, not the voltage. Stepping the transmission voltage up by a factor of 10 divides the current by 10 for the same power delivered, and so cuts the transmission loss by a factor of 100. Stating the reason in terms of current squared, rather than voltage, is what earns the explanation mark.
+
 ## Rectification
 
 **Rectification** converts alternating current into a current that flows in

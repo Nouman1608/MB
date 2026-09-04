@@ -43,6 +43,10 @@ Related: [The English Legal System revision notes](/resources/a-law-english-lega
 
 **6.** Explain **three** types of sentence available in the criminal courts and one factor a judge takes into account in aggravation and one in mitigation. **[8]**
 
+**7.** Explain the difference between *ratio decidendi* and *obiter dicta*, and describe **two** ways a court can avoid an earlier precedent. **[6]**
+
+**8.** Explain the literal rule and the purposive approach to statutory interpretation, and state **one** advantage and **one** disadvantage of each. **[8]**
+
 ---
 
 ## Answers
@@ -62,6 +66,10 @@ Related: [The English Legal System revision notes](/resources/a-law-english-lega
 **Aggravating factor**, any one: **previous relevant convictions**, offending **on bail**, an offence that was **planned rather than spontaneous**, **vulnerability of the victim**, or **hostility based on race, religion, disability or sexual orientation** [1] [1].
 **Mitigating factor**, any one: **an early guilty plea**, which attracts a reduction of up to one third, **genuine remorse**, **no previous convictions**, **youth or mental illness**, or **a minor role in a joint offence** [1] [1].
 
+**7.** ***Ratio decidendi*** is the **legal reason for the decision** — this alone is binding on later courts [1] [1]. ***Obiter dicta*** is everything said "by the way", which is **persuasive only, not binding** [1] [1]. A court can avoid an earlier precedent by **distinguishing** it, holding that the material facts of the current case differ so the earlier decision does not apply [1] [1], or by a higher court **overruling** it, declaring the earlier decision wrong [1] [1].
+
+**8. Literal rule** — words are given their **plain, ordinary meaning, even if the result is absurd** [1]. Advantage: it **respects parliamentary sovereignty**, since judges apply the words Parliament actually enacted rather than substituting their own view [1]; disadvantage: it can **defeat Parliament's evident intention** and produce an unjust or absurd outcome [1]. **Purposive approach** — the court asks **what Parliament's purpose was** in passing the Act, and interprets accordingly [1]. Advantage: it **achieves a just result that reflects Parliament's real intention**, particularly where the literal wording has not kept pace with circumstances [1]; disadvantage: it **risks judges legislating**, substituting their own view of what Parliament should have intended for what it actually enacted [1].
+
 ---
 
 ## Where marks are usually lost
@@ -70,3 +78,5 @@ Related: [The English Legal System revision notes](/resources/a-law-english-lega
 - Giving the small claims limit incorrectly.
 - Listing aims of sentencing without an example.
 - Treating an early guilty plea as an aggravating factor.
+- Treating obiter dicta as binding.
+- Describing a rule of interpretation without a linked advantage or disadvantage.

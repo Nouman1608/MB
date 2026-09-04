@@ -79,6 +79,18 @@ That last rule matters: if a radius is measured to 2% and you calculate a volume
 
 **To reduce percentage uncertainty, measure a larger quantity.** The absolute uncertainty is fixed by the instrument, so it forms a smaller proportion of a bigger reading — which is why you time twenty oscillations rather than one, then divide.
 
+**Worked example.** V = 4.85 ± 0.05 V and I = 0.42 ± 0.01 A. Find R with its uncertainty.
+
+```
+R = V/I = 4.85 / 0.42 = 11.55 Ohm
+%unc(V) = (0.05/4.85) x 100 = 1.03%     %unc(I) = (0.01/0.42) x 100 = 2.38%
+division -> percentages ADD: %unc(R) = 1.03 + 2.38 = 3.41%
+absolute uncertainty = 0.0341 x 11.55 = +-0.39 Ohm
+R = 11.6 +- 0.4 Ohm
+```
+
+The final answer is rounded to match the precision implied by the uncertainty — quoting more figures than that overstates how well the value is actually known.
+
 ## Graphs
 
 - Independent variable on x, dependent on y.

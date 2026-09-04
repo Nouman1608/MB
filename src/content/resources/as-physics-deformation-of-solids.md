@@ -115,6 +115,18 @@ potential energy stored:
 Eₚ = ½Fx = ½kx²
 ```
 
+## Comparing materials
+
+Materials fall into three broad behavioural categories:
+
+| Type | Behaviour | Example |
+|---|---|---|
+| **Brittle** | Breaks at the elastic limit with little or no plastic deformation | Glass, ceramics |
+| **Ductile** | Undergoes large plastic deformation before breaking; can be drawn into a wire | Copper |
+| **Polymeric** | Capable of very large extensions; the loading and unloading curves differ | Rubber |
+
+Three separate properties are often confused: **strong** means a high breaking stress; **stiff** means a high Young modulus; **tough** means the material absorbs a large amount of energy before it fractures. These do not always go together — glass is both stiff and strong, since it resists stretching and withstands a high stress before breaking, but it is not tough, because it shatters with almost no plastic deformation to absorb energy first. Distinguishing strength, stiffness and toughness, rather than treating them as one property, is what separates a full-mark answer from a partial one.
+
 ## Common mistakes
 
 - **Treating the limit of proportionality and the elastic limit as identical.**

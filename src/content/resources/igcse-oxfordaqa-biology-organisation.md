@@ -85,11 +85,24 @@ Bile is made in the liver and stored in the gall bladder. It is not an enzyme: i
 
 The small intestine is adapted for absorption by being long, folded, and covered in villi and microvilli — all increasing surface area — with a thin one-cell-thick wall and a rich blood supply maintaining a steep concentration gradient.
 
+## Food tests
+
+| Test | Reagent | Positive result |
+|---|---|---|
+| Starch | Iodine | Blue-black |
+| Sugar | Benedict's solution, heated | Brick red |
+| Protein | Biuret reagent | Purple |
+| Lipid | Ethanol, then water | White emulsion |
+
 ## The heart and circulation
 
 Humans have a double circulation: blood passes through the heart twice per circuit, which maintains higher pressure to the body. The right side pumps deoxygenated blood to the lungs, the left side oxygenated blood to the body, and the left ventricle has the thickest muscular wall because it pumps furthest.
 
 Arteries carry blood away from the heart with thick elastic walls and narrow lumens for high pressure. Veins carry blood back at low pressure with wide lumens and valves preventing backflow. Capillaries are one cell thick to allow exchange.
+
+## The lungs
+
+Air passes **trachea → bronchi → bronchioles → alveoli**. Alveoli are adapted for efficient gas exchange in several ways: they are extremely **numerous**, giving a very large total surface area; their walls are **one cell thick**, giving a short diffusion distance; they are kept **moist**, so gases can dissolve before diffusing; and each is surrounded by a **dense network of capillaries**, maintaining a steep concentration gradient by constantly carrying gases away or bringing them in. Ventilation — the continual movement of air in and out — maintains this gradient, since without it the air in the alveoli would reach equilibrium with the blood and diffusion would stop.
 
 ## Worked example
 

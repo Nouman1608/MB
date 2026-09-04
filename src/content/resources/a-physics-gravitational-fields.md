@@ -132,6 +132,32 @@ increases (becomes less negative) with distance and is zero only at infinity.
 Multiplying gravitational potential by a mass m gives the gravitational
 potential energy of that mass at that point, E = mϕ.
 
+## Orbits
+
+For a satellite in a circular orbit, gravity supplies the entire centripetal force needed to keep it on its curved path:
+
+```
+GMm/r^2 = mv^2/r     ->     v = sqrt(GM/r)
+
+substituting v = 2*pi*r/T:
+
+T^2 = (4*pi^2/GM) r^3     (Kepler's third law)
+```
+
+The orbiting mass m **cancels** from both sides, so orbital speed and period depend only on the central mass M and the orbital radius r — every satellite at a given radius above a given planet keeps the same period, regardless of its own mass.
+
+A **geostationary orbit** requires three conditions together: a period of exactly 24 hours, orbiting west to east, and directly above the Equator, at a radius of about 42 000 km from Earth's centre. All three are needed for the satellite to stay fixed above the same point on the ground as the Earth turns beneath it — giving only one of them is a common way to lose marks.
+
+## Escape velocity
+
+**Escape velocity** is the minimum launch speed at which an object's total energy — kinetic plus gravitational potential — just reaches zero, allowing it to reach infinity with no speed left over:
+
+```
+1/2 m v^2 = GMm/r     ->     v_esc = sqrt(2GM/r)
+```
+
+Escape velocity is **independent of the escaping object's own mass**, since m cancels from both sides of the energy equation, leaving only the central mass M and the starting distance r.
+
 ## Common mistakes
 
 - **Using g = GM/r² inside a uniform sphere or for a non-point/non-spherical
