@@ -107,6 +107,11 @@ When a government reports "economic growth" of, say, 3%, it is almost always rep
 - Name two limitations of GDP as a measure of living standards.
 - Explain why GNI can differ from GDP for a specific country.
 
+## Related resources
+
+[Measuring Economic Growth study guide](/resources/a-level-edexcel-economics-economic-growth/) |
+[Measuring Economic Growth practice questions](/resources/edexcel-a-level-economics-economic-growth-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in

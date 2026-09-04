@@ -147,6 +147,11 @@ of negative growth.
 - Prepare at least two named limitations of GDP/GNI as a measure of
 living standards or wellbeing.
 
+## Related resources
+
+[Measuring Economic Growth revision notes](/resources/edexcel-a-level-economics-economic-growth-revision-notes/) |
+[Measuring Economic Growth practice questions](/resources/edexcel-a-level-economics-economic-growth-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in
