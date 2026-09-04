@@ -29,6 +29,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Why hexadecimal is used:** it is far more compact than binary, and **each hex digit maps to exactly four binary digits**, so conversion is trivial and human error is much less likely. Used for memory addresses, MAC addresses, colour codes and error codes.
 
+**Worked example.** Convert denary 205 to hexadecimal.
+
+```
+Denary 205  ->  Binary 11001101  ->  Hex CD
+
+128 64 32 16  8  4  2  1
+  1  1  0  0  1  1  0  1     = 128+64+8+4+1 = 205
+
+Split into nibbles: 1100 = 12 = C,  1101 = 13 = D  ->  CD
+```
+
 ## Binary addition and overflow
 
 ```
@@ -68,6 +79,17 @@ file size = width x height x colour depth
 
 **Vector graphics** store the properties of objects rather than pixels, so they **scale without loss of quality** and are usually smaller for line art — but they are unsuitable for photographs.
 
+**Worked example.** An image is 800 by 600 pixels with a colour depth of 24 bits. Find the file size in megabytes.
+
+```
+bits  = 800 x 600 x 24 = 11 520 000 bits
+bytes = 11 520 000 / 8 = 1 440 000 bytes
+KB    = 1 440 000 / 1024 = 1406.25 KB
+MB    = 1406.25 / 1024   = 1.37 MB
+```
+
+Dividing by 8 to reach bytes, then by 1024 **twice** to reach MB, is where most marks are lost.
+
 ## Sound
 
 ```
@@ -99,6 +121,8 @@ file size = sample rate x bit depth x duration
 - Saying lossy compression is always worse.
 - Assuming RLE always shrinks a file.
 - Forgetting that shifting can lose bits.
+- Dividing by 1024 only once when converting bits to megabytes, instead of twice (bits to bytes, then bytes to KB, then KB to MB).
+- Splitting a binary number into nibbles from the wrong end when converting to hex.
 
 ## Self-test
 
@@ -107,5 +131,7 @@ file size = sample rate x bit depth x duration
 3. Why was Unicode introduced?
 4. Give the two file-size formulae for images and sound.
 5. When is run-length encoding a poor choice?
+6. Convert denary 205 to hexadecimal, showing the binary intermediate step.
+7. An image is 800 × 600 pixels with a colour depth of 24 bits. Calculate its file size in megabytes.
 
-**Answers:** 1. It is far more compact and each hex digit corresponds to exactly four binary digits, making conversion straightforward and reducing human error. 2. When the result of a calculation requires more bits than the register can hold, so the stored value is incorrect. 3. ASCII could not represent non-Latin writing systems, so a larger character set was needed to cover all the world's scripts. 4. Image: width × height × colour depth. Sound: sample rate × bit depth × duration. 5. On noisy or photographic data with few repeated adjacent values, where it can produce a file larger than the original.
+**Answers:** 1. It is far more compact and each hex digit corresponds to exactly four binary digits, making conversion straightforward and reducing human error. 2. When the result of a calculation requires more bits than the register can hold, so the stored value is incorrect. 3. ASCII could not represent non-Latin writing systems, so a larger character set was needed to cover all the world's scripts. 4. Image: width × height × colour depth. Sound: sample rate × bit depth × duration. 5. On noisy or photographic data with few repeated adjacent values, where it can produce a file larger than the original. 6. 205 = 11001101 in binary, split into nibbles 1100 (C) and 1101 (D), giving CD in hexadecimal. 7. 800 × 600 × 24 = 11,520,000 bits ÷ 8 = 1,440,000 bytes ÷ 1024 = 1406.25 KB ÷ 1024 ≈ 1.37 MB.

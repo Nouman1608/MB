@@ -50,6 +50,24 @@ Related: [Cognition and Behaviour revision notes](/resources/gcse-psychology-cog
 
 ---
 
+## Section C
+
+**8.** Visual illusions reveal how perception can differ from sensation.
+
+**(a)** Distinguish between sensation and perception. **[2]**
+
+**(b)** Explain how Gibson's and Gregory's theories differ in explaining why visual illusions deceive us. **[4]**
+
+**9.** A researcher finds a correlation of +0.8 between hours of sleep and test scores.
+
+**(a)** State what can and cannot be concluded from this correlation. **[3]**
+
+**(b)** Suggest one third variable that might explain the relationship without sleep causing higher scores. **[2]**
+
+**(c)** State three ethical requirements a researcher must follow when conducting this kind of study. **[3]**
+
+---
+
 ## Answers
 
 **1. Sensory register** — capacity is **very large**, duration **under 2 seconds** [1] [1]. **Short-term memory** — capacity about **7 ± 2 items**, duration about **18–30 seconds** [1] [1]. **Long-term memory** — capacity **potentially unlimited**, duration **potentially a lifetime** [1] [1].
@@ -68,6 +86,16 @@ Related: [Cognition and Behaviour revision notes](/resources/gcse-psychology-cog
 
 **7.** A **laboratory experiment** is conducted in a **controlled artificial setting**; a **field experiment** takes place in the participants' **natural environment** [1] [1]. Laboratory advantage: **extraneous variables are tightly controlled**, so cause and effect can be established confidently and the study is easily replicated [1]. Field advantage: **higher ecological validity** — behaviour is more natural, so findings generalise better to real life [1].
 
+**8. (a)** **Sensation** is the **raw data received by the senses** [1]; **perception** is the **brain's interpretation** of that data [1].
+
+**(b)** **Gibson's direct theory** argues perception is **bottom-up** — the visual array contains enough information, through cues such as motion parallax and texture gradient, to perceive accurately without inference [2]. **Gregory's constructivist theory** argues perception is **top-down** — the brain makes inferences from prior knowledge and expectation, which is why illusions such as the Müller-Lyer figure deceive us, as the brain misapplies depth cues [2].
+
+**9. (a)** A **strong positive relationship exists** — more sleep is associated with higher test scores [1]; this **cannot** show that sleep **causes** the higher scores [2].
+
+**(b)** A plausible third variable, such as **general health or motivation**, could independently drive both more sleep and higher test scores [2].
+
+**(c)** Any three: **informed consent**; **right to withdraw**; **protection from harm**; **confidentiality**; **debriefing** [3].
+
 ---
 
 ## Where marks are usually lost
@@ -76,3 +104,5 @@ Related: [Cognition and Behaviour revision notes](/resources/gcse-psychology-cog
 - Confusing episodic with semantic memory.
 - Explaining the recency effect using long-term memory.
 - Naming variables without stating how they were measured.
+- Saying "correlation does not equal causation" without naming a plausible third variable.
+- Confusing Gibson's bottom-up theory with Gregory's top-down theory.

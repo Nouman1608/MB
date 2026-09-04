@@ -82,6 +82,31 @@ both sides by a negative number reverses the inequality sign.**
 x < 4
 ```
 
+## Double inequalities and integer solutions
+
+A **double inequality** — one with three parts, such as −1/3 ⩽ x < 3
+above — is solved by operating on **all three parts at once**.
+
+**Worked example.** Solve −7 ⩽ 3x + 2 < 11.
+
+```
+−7 ⩽ 3x + 2 < 11
+−9 ⩽ 3x      < 9      (subtract 2 from each part)
+−3 ⩽ x       < 3      (divide each part by 3)
+```
+
+Because every part of a double inequality was divided by a **positive**
+number (3), the direction of both signs stayed the same throughout; had
+the coefficient of x been negative, both inequality signs would need to
+be reversed, exactly as in a single inequality.
+
+When a question asks for the **integer solutions**, apply the endpoints
+carefully rather than rounding casually: for −3 ⩽ x < 3, the integers
+are **−3, −2, −1, 0, 1, 2** — note that −3 *is* included (inclusive, ⩽)
+but 3 is *not* (strict, <). Miscounting which endpoint is included is a
+common way to lose an easy mark, particularly under time pressure near
+the end of a paper.
+
 ## Inequalities in two variables, graphically
 
 A linear inequality in two variables is represented on a graph as a region
@@ -123,12 +148,17 @@ question says otherwise, shading marks what's *excluded* — the required
 region is the unshaded part.
 - **Reading off the wrong side of a boundary line** when listing the
 inequalities that define a shaded region.
+- **Including or excluding the wrong endpoint** when listing integer
+solutions from a double inequality — check each end separately against
+its own inequality sign.
 
 ## Quick revision checklist
 
 - Open vs closed circles on a number line
 - Solving linear inequalities, including reversing the sign when
 multiplying/dividing by a negative
+- Solving double inequalities by operating on all three parts at once,
+and listing integer solutions correctly at each endpoint
 - Broken vs solid lines, and which side gets shaded, for two-variable
 inequalities
 - Reading a shaded region back into a list of inequalities

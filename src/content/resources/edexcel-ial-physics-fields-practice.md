@@ -103,6 +103,14 @@ Related: [Electric and Magnetic Fields revision notes](/resources/edexcel-ial-ph
 
 **(c)** If the induced current **assisted** the change, it would increase the flux, which would induce a larger current, which would increase the flux further [1] — creating energy from nothing [1]. Opposing the change means **work must be done** against the induced effect, and it is that work which supplies the electrical energy [1].
 
+**7. (a)** F = kQ₁Q₂ ÷ r² = 8.99 × 10⁹ × (3.0 × 10⁻⁶ × 5.0 × 10⁻⁶) ÷ 0.20² [1] ≈ **3.4 N** [1], **attractive**, since the two charges have opposite signs [1].
+
+**(b)** At the midpoint (r = 0.10 m from each charge): V₁ = 8.99 × 10⁹ × 3.0 × 10⁻⁶ ÷ 0.10 = 2.70 × 10⁵ V; V₂ = 8.99 × 10⁹ × (−5.0 × 10⁻⁶) ÷ 0.10 = −4.50 × 10⁵ V [2]. V(total) = 2.70 × 10⁵ + (−4.50 × 10⁵) = **−1.8 × 10⁵ V** [1].
+
+**8. (a)** Taking logs of Q = Q₀e^(−t/RC) gives ln Q = ln Q₀ − t/RC [1], a straight line with **gradient = −1/RC** [1], so RC can be found from the reciprocal of the magnitude of the gradient [1].
+
+**(b)** One time constant is the time for the charge to fall to **1/e**, approximately **37%**, of its initial value [2].
+
 ---
 
 ## Where marks are usually lost
@@ -112,3 +120,5 @@ Related: [Electric and Magnetic Fields revision notes](/resources/edexcel-ial-ph
 - Saying a magnetic field gives a parabolic path.
 - Forgetting the ½ in capacitor energy, or being unable to explain it.
 - Stating Lenz's law without linking it to conservation of energy.
+- Forgetting the sign of a charge when summing potentials at a point due to multiple charges.
+- Confusing the gradient of a ln(Q)-against-t graph with RC itself, rather than −1/RC.

@@ -46,6 +46,36 @@ Related: [Fundamentals of Programming revision notes](/resources/a-computer-scie
 
 ---
 
+## Section C
+
+**8.** A program uses both WHILE and REPEAT UNTIL loops.
+
+**(a)** Distinguish between WHILE and REPEAT UNTIL in terms of when the condition is tested. **[2]**
+
+**(b)** Explain the consequence of this difference for how many times the loop body can execute. **[2]**
+
+**9.** Trace the following pseudocode and state the output.
+
+```
+total = 0
+count = 1
+WHILE count <= 4
+    total = total + (count * count)
+    count = count + 1
+ENDWHILE
+OUTPUT total
+```
+
+Draw a trace table showing the value of `count`, `count*count` and `total` on each pass, then give the output. **[5]**
+
+**10.** A program reads data from a file.
+
+**(a)** State the three-step pattern every file-handling operation follows. **[3]**
+
+**(b)** Explain one consequence of failing to close a file after use. **[2]**
+
+---
+
 ## Answers
 
 **1.** **Integer** — 42 [1]. **Real/float** — 3.14 [1]. **Boolean** — TRUE [1]. **Character** — 'A' [1]. **String** — "hello" [1].
@@ -77,6 +107,25 @@ Globals should be avoided because **any part of the program can change them**, s
 **7.** Recursion is a technique in which a **subroutine calls itself** to solve a smaller instance of the same problem [1]. Every recursive routine must have a **base case that stops the recursion** [1] and a **general case that calls itself with a value moving towards the base case** [1].
 Drawback: each call **adds a stack frame to the call stack**, so recursion uses **considerably more memory than iteration** and risks a **stack overflow** if the depth is large [1] [1].
 
+**8. (a)** **WHILE** tests its condition **before** the first pass through the loop body [1]; **REPEAT UNTIL** tests its condition **after** the body has executed [1].
+
+**(b)** A WHILE loop's body **may execute zero times** if the condition is false from the start [1]; a REPEAT UNTIL loop's body **always executes at least once**, since the first test happens only after the body has already run [1].
+
+**9.**
+
+| count | count*count | total |
+|---|---|---|
+| 1 | 1 | 1 |
+| 2 | 4 | 5 |
+| 3 | 9 | 14 |
+| 4 | 16 | 30 |
+
+[4, one per correctly traced row]. The loop then tests count = 5, which fails, so the output is **30** [1] — the sum of the first four square numbers.
+
+**10. (a)** **Open** the file [1]; **read or write** to it [1]; **close** it [1].
+
+**(b)** Any one: the file may remain **locked**, preventing other programs from accessing it [1]; buffered data may **not be flushed to disk**, risking data loss [1]; or system resources allocated to the open file remain **unnecessarily reserved** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -85,3 +134,5 @@ Drawback: each call **adds a stack frame to the call stack**, so recursion uses 
 - Saying a function "does something" without returning a value.
 - Confusing pass by reference with returning a value.
 - Omitting the base case when describing recursion.
+- Confusing which loop type tests its condition before versus after the body.
+- Forgetting to close a file after reading or writing to it.

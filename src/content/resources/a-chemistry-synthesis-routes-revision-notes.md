@@ -63,9 +63,24 @@ nitrobenzene -> phenylamine      Sn / conc. HCl, then NaOH
 benzene   ->  alkylbenzene       RCl / AlCl3
 benzene   ->  phenylketone       RCOCl / AlCl3
 methylbenzene -> benzoic acid    KMnO4, reflux (side chain oxidised)
+phenylamine -> diazonium salt    NaNO2 / dilute HCl, BELOW 10 C
+diazonium salt -> phenol         H2O, warm
 ```
 
-Temperature control in nitration matters: **above about 55 °C you get dinitration**.
+Temperature control in nitration matters: **above about 55 °C you get dinitration**. Diazonium salt formation needs **below 10 °C** — above this the salt decomposes before it can be used.
+
+## Worked example: analysing a route
+
+**Analyse: methylbenzene → benzoic acid → benzoyl chloride → benzamide.**
+
+```
+Step 1  oxidation of the side chain    hot alkaline KMnO4, then dilute acid
+Step 2  substitution                   PCl5, PCl3, or SOCl2
+Step 3  condensation (addn-elim)       excess NH3, room temp
+                                        by-product: NH4Cl
+```
+
+**Always check for a by-product that releases a small molecule** at each step — H₂O, HCl and NH₄Cl are the most common, and naming it is frequently a separate mark from naming the reaction type itself.
 
 ## Reagents that add a carbon
 
@@ -95,6 +110,8 @@ Choosing NaBH₄ when a nitrile must be reduced is a common error.
 - Forgetting the second stage of nitrobenzene reduction: NaOH is needed to liberate the free amine from its salt.
 - Using NaBH₄ on a nitrile or carboxylic acid.
 - Routes that lose or gain carbons with no reaction that could account for it.
+- Forgetting the below-10°C condition for diazonium salt formation.
+- Naming a reaction type without also naming the by-product released.
 
 ## Self-test
 
@@ -103,5 +120,7 @@ Choosing NaBH₄ when a nitrile must be reduced is a common error.
 3. Which reagent distinguishes aqueous from ethanolic KOH in outcome?
 4. Name the reagents for converting benzene into phenylamine.
 5. Which reducing agent would you use for a nitrile, and why not the other?
+6. What condition is essential for forming a diazonium salt, and why?
+7. In the route benzoic acid → benzoyl chloride → benzamide, name the reaction type and by-product of the final step.
 
-**Answers:** 1. KCN in ethanol under reflux to form the nitrile, then dilute HCl(aq) under reflux to hydrolyse it to the carboxylic acid. 2. Distil the aldehyde off as it forms rather than refluxing, so it cannot be oxidised further. 3. KOH itself — aqueous gives nucleophilic substitution to the alcohol, ethanolic gives elimination to the alkene. 4. Conc. HNO₃ with conc. H₂SO₄ at 55 °C, then Sn with conc. HCl, then NaOH to liberate the amine. 5. LiAlH₄ in dry ether (or H₂/Ni); NaBH₄ is not powerful enough to reduce a nitrile.
+**Answers:** 1. KCN in ethanol under reflux to form the nitrile, then dilute HCl(aq) under reflux to hydrolyse it to the carboxylic acid. 2. Distil the aldehyde off as it forms rather than refluxing, so it cannot be oxidised further. 3. KOH itself — aqueous gives nucleophilic substitution to the alcohol, ethanolic gives elimination to the alkene. 4. Conc. HNO₃ with conc. H₂SO₄ at 55 °C, then Sn with conc. HCl, then NaOH to liberate the amine. 5. LiAlH₄ in dry ether (or H₂/Ni); NaBH₄ is not powerful enough to reduce a nitrile. 6. The temperature must stay below 10°C, since the diazonium salt decomposes above this temperature before it can be used. 7. Condensation (addition-elimination), using excess ammonia at room temperature; the by-product is ammonium chloride, NH₄Cl.

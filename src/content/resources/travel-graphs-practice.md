@@ -59,6 +59,18 @@ Related: [Travel Graphs revision notes](/resources/travel-graphs-revision-notes/
 **(b)** Explain the significance of the graph crossing the time axis. **[2]**
 **(c)** Explain how the total displacement differs from the total distance travelled. **[3]**
 
+**7.** A conversion graph for miles to kilometres is a straight line through the origin. When x = 50 miles, y = 80 km.
+
+**(a)** State what the gradient of this graph represents. **[1]**
+
+**(b)** Calculate the gradient, and use it to convert 120 miles to kilometres. **[3]**
+
+**8.** A graph shows the total cost of a taxi journey, y (in $), against the distance travelled, x (in km). The line passes through (0, 5) and (10, 25).
+
+**(a)** Calculate the gradient of the graph and interpret it in context, with units. **[3]**
+
+**(b)** Explain what the y-intercept represents. **[2]**
+
 ---
 
 ## Answers
@@ -83,6 +95,14 @@ Related: [Travel Graphs revision notes](/resources/travel-graphs-revision-notes/
 **(b)** The object is **momentarily at rest** [1], and afterwards it is **moving in the opposite direction** [1].
 **(c)** The area **above the axis is positive displacement and the area below is negative** [1]. **Displacement is the difference between the two areas**, while **distance is the sum of their magnitudes** [1]. Here the areas are ½ × 6 × 6 = 18 m and ½ × 4 × 4 = 8 m, so the **displacement is 10 m but the distance travelled is 26 m** [1].
 
+**7. (a)** The gradient represents the **conversion factor** between miles and kilometres [1].
+
+**(b)** Gradient = 80 ÷ 50 = **1.6** [1]. 120 miles = 120 × 1.6 [1] = **192 km** [1].
+
+**8. (a)** Gradient = (25 − 5) ÷ (10 − 0) = 20 ÷ 10 = **2** [1]. This represents a cost of **$2 per kilometre travelled** [2].
+
+**(b)** The y-intercept represents a **fixed charge of $5**, payable regardless of distance travelled — for example a call-out fee [2].
+
 ---
 
 ## Where marks are usually lost
@@ -91,3 +111,5 @@ Related: [Travel Graphs revision notes](/resources/travel-graphs-revision-notes/
 - Finding an instantaneous speed from a curve without drawing a tangent.
 - Using a small triangle on the tangent, which magnifies the error.
 - Adding the areas below the axis when displacement is asked for.
+- Giving a gradient's value without interpreting it in context and stating its units.
+- Forgetting that a non-zero y-intercept represents a fixed starting value, not part of the rate itself.

@@ -79,6 +79,26 @@ Governed by the **partnership agreement**; where none exists, the Partnership Ac
 
 **Dividends are an appropriation of profit, not an expense**, so they do not appear in the income statement — they are shown as a deduction from retained earnings.
 
+## Fundamental accounting concepts
+
+| Concept | What it governs |
+|---|---|
+| **Money measurement** | Only items that can be expressed in monetary terms are recorded |
+| **Consistency** | The same accounting methods are used period to period |
+| **Prudence** | Profits are not overstated; losses and liabilities are not understated |
+| **Realisation** | Revenue is recorded when earned, not necessarily when cash is received |
+| **Duality** | Every transaction has two effects — the basis of double entry |
+| **Materiality** | Only items significant enough to affect decisions need precise treatment |
+| **Objectivity** | Accounts are prepared free from personal bias, based on verifiable evidence |
+| **Matching/accruals** | Income and expenses are recorded in the period they relate to, not when cash moves |
+| **Substance over form** | Transactions are recorded by their real economic substance, not just their legal form |
+
+**Prudence versus realisation** is a common pairing question: realisation says record revenue once it is earned; prudence says don't anticipate profit before that point is reached — the two work together, not against each other.
+
+## Computerised accounting systems
+
+Computerised systems apply the **same double-entry principles** as manual ones, but record and process transactions electronically. **Advantages:** speed, reduced arithmetic error, easier report generation. **Disadvantages:** setup and training cost, and reliance on system reliability and data security — passwords, access levels and regular backups are the standard safeguards expected in an answer.
+
 ## Exam traps
 
 - Putting cash sales in the sales journal.
@@ -87,6 +107,8 @@ Governed by the **partnership agreement**; where none exists, the Partnership Ac
 - Confusing commission with principle.
 - Treating dividends as an expense.
 - Giving only one effect of misclassifying expenditure.
+- Confusing prudence (not overstating profit) with realisation (recording revenue when earned).
+- Naming a computerised system's advantages without also acknowledging the security and reliability risks.
 
 ## Self-test
 
@@ -95,5 +117,7 @@ Governed by the **partnership agreement**; where none exists, the Partnership Ac
 3. Why are partners' capital and current accounts kept separate?
 4. Distinguish an error of commission from one of principle.
 5. Why are dividends not an expense?
+6. Distinguish the prudence concept from the realisation concept.
+7. State two advantages and one disadvantage of a computerised accounting system.
 
-**Answers:** 1. Under the business entity concept the business is separate from its owner, so capital is an amount the business owes back to the owner. 2. Credit sales of goods only; cash sales go to the cash book and sales of non-current assets go to the general journal. 3. The capital account records each partner's permanent investment while the current account records their fluctuating entitlement from profit, salaries, interest and drawings — separating them keeps the permanent stake clear. 4. Commission is posting to the wrong account of the correct type, such as the wrong customer; principle is posting to an entirely wrong category of account, such as recording an asset as an expense. 5. They are an appropriation of profit already earned, not a cost of earning it, so they are deducted from retained earnings rather than charged in the income statement.
+**Answers:** 1. Under the business entity concept the business is separate from its owner, so capital is an amount the business owes back to the owner. 2. Credit sales of goods only; cash sales go to the cash book and sales of non-current assets go to the general journal. 3. The capital account records each partner's permanent investment while the current account records their fluctuating entitlement from profit, salaries, interest and drawings — separating them keeps the permanent stake clear. 4. Commission is posting to the wrong account of the correct type, such as the wrong customer; principle is posting to an entirely wrong category of account, such as recording an asset as an expense. 5. They are an appropriation of profit already earned, not a cost of earning it, so they are deducted from retained earnings rather than charged in the income statement. 6. Realisation says revenue should be recorded once it is earned, not necessarily when cash is received; prudence says profits and asset values should not be overstated, nor losses and liabilities understated, so profit should not be anticipated before it is actually earned. 7. Advantages: speed, and reduced arithmetic error (or easier report generation); disadvantage: setup and training cost, or reliance on system reliability and data security.
