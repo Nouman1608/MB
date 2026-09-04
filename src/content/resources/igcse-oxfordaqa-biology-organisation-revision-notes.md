@@ -59,14 +59,16 @@ The active site has a shape **complementary** to the substrate, so each enzyme i
 
 Bile is **not an enzyme**. Saying it digests fat loses the mark; it increases surface area so lipase can work faster.
 
+**Worked example.** Explain why boiling amylase before adding starch means no maltose is produced. The high temperature breaks the bonds holding the enzyme's tertiary structure, so the active site changes shape permanently; starch can no longer bind, so no enzyme-substrate complexes form; the enzyme is **denatured**, so no maltose is produced. Describing the enzyme as "killed" rather than denatured scores nothing on this kind of question.
+
 ## The digestive system
 
 Mouth → oesophagus → stomach → small intestine → large intestine → rectum.
 
 - **Stomach** — protease (pepsin) and hydrochloric acid; the acid gives the optimum pH for pepsin and kills bacteria.
-- **Small intestine** — where absorption occurs; **villi** provide a large surface area, a thin (one-cell) wall for a short diffusion path, and a rich blood supply to maintain the concentration gradient.
+- **Small intestine** — where absorption occurs; it is **long** and **folded**, and covered in **villi and microvilli**, all increasing surface area; it has a thin (one-cell) wall for a short diffusion path, and a rich blood supply to maintain the concentration gradient.
 
-Those three adaptations — **large surface area, thin wall, good blood supply** — recur for every exchange surface in biology.
+Those adaptations — **large surface area, thin wall, good blood supply** — recur for every exchange surface in biology.
 
 ## Food tests
 

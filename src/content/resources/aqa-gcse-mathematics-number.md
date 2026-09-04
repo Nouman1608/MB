@@ -98,6 +98,8 @@ multiplier for a 15% decrease = 0.85
 
 For **reverse percentage** questions, divide by the multiplier rather than multiplying. Compound interest uses repeated multipliers: value after n years = P x (multiplier)^n.
 
+**Converting a recurring decimal to a fraction** uses a standard algebraic technique. To convert 0.454545... (written 0.4̇5̇) to a fraction: let x = 0.454545..., so 100x = 45.454545... (multiplying by 100 shifts the decimal point past one full repeating block, since the block has two digits). Subtracting the first equation from the second eliminates the repeating part: 100x − x = 45.4545... − 0.4545..., giving 99x = 45, so x = 45/99, which simplifies to **5/11**. The power of 10 used to multiply by must match the length of the repeating block — a two-digit block needs ×100, a one-digit block needs ×10 — or the subtraction will not cancel the recurring part correctly.
+
 ## Indices, standard form and surds
 
 Index laws: a^m x a^n = a^(m+n), a^m / a^n = a^(m-n), (a^m)^n = a^(mn), a^0 = 1, a^-n = 1/a^n, and a^(1/n) is the nth root.

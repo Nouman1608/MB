@@ -89,6 +89,12 @@ Forgetting is explained by **interference** (proactive and retroactive) and **re
 
 **Eyewitness testimony** is distorted by misleading information — Loftus and Palmer's leading questions — and by anxiety, with the weapon focus effect. The **cognitive interview** improves accuracy through context reinstatement, report everything, reverse order and change of perspective.
 
+## Psychopathology
+
+**Definitions of abnormality** — statistical infrequency, deviation from social norms, failure to function adequately, and deviation from ideal mental health — each fail alone: social norms vary by culture and era, and statistical infrequency alone would misclassify high intelligence as abnormal.
+
+Three named disorders illustrate the explanation-and-treatment pattern the exam expects: a **phobia** is explained by the two-process model, in which classical conditioning acquires the fear and operant conditioning maintains it through avoidance, and is treated with systematic desensitisation or flooding; **depression** is explained cognitively through Beck's negative triad or Ellis's ABC model, and treated with CBT; **OCD** is explained through genetic and neural factors, and treated with SSRIs. The two-process model explains its own treatment directly — avoidance is negatively reinforced by the reduction in anxiety it brings, so exposure *without* avoidance is what breaks the cycle that maintains the phobia.
+
 ## Attachment
 
 Caregiver–infant interaction involves reciprocity and interactional synchrony. **Schaffer and Emerson's** stages run from asocial through indiscriminate to specific and multiple attachments.

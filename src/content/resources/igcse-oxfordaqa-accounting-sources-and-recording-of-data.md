@@ -110,7 +110,7 @@ The **cash book** is both a book of prime entry and part of the ledger, which is
 
 The ledger divides into the sales ledger (credit customers), the purchases ledger (credit suppliers) and the general ledger (everything else). Balancing an account means totalling both sides, entering the balance carried down to make them agree, and bringing it down on the opposite side below the totals.
 
-A **trial balance** lists every ledger balance to check that debits equal credits. Crucially, it does **not** detect errors of omission, commission, principle, original entry, reversal, or compensating errors — because each of these keeps both sides equal.
+A **trial balance** lists every ledger balance to check that debits equal credits. Crucially, it does **not** detect errors of omission, commission, principle, original entry, reversal, or compensating errors — because each of these keeps both sides equal. **Omission** means the transaction was left out entirely, on both sides at once. **Commission** means the right *type* of account was used but the wrong specific account — posting to the wrong customer, for instance. **Principle** means the wrong *type* of account entirely, such as an asset posted to an expense account; commission versus principle is the distinction most often lost, since commission stays within the correct kind of account while principle does not. **Original entry** means the same wrong figure was used on both sides. **Complete reversal** means the debit and credit were entered the correct amount but on the wrong sides. **Compensating** means two separate errors of equal value happen to cancel each other out.
 
 ## Worked example
 

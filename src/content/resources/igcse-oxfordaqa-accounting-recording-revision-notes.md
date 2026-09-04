@@ -39,6 +39,8 @@ Capital increases with profit and further investment; it decreases with losses a
 
 The reliable method: identify the two accounts affected, decide whether each increases or decreases, then apply the rule. **Debit the account that receives value; credit the one that gives it.**
 
+**Worked example.** A business buys goods on credit from Khan for $500, then returns $80 of them. The purchase: debit Purchases $500, credit Khan (payable) $500. The return: debit Khan (payable) $80, credit **Purchases returns** $80 — never credit Purchases itself, since the original purchase and the return are recorded in separate accounts. Khan's account balance is then 500 − 80 = **$420 credit**, the amount still owed.
+
 ## Source documents
 
 | Document | Records |

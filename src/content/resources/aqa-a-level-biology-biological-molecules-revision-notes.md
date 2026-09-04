@@ -62,6 +62,10 @@ Triglyceride = glycerol + 3 fatty acids, ester bonds. **Saturated** fatty acids 
 
 **Primary structure determines all the others**, because the sequence of R groups determines which bonds can form where.
 
+**Disulfide bridges are tertiary, not secondary**, even though they are bonds between amino acids like hydrogen bonds are. Secondary structure comes only from hydrogen bonds between nearby amino acids in a regular, repeating pattern (the alpha helix or beta sheet); disulfide bridges instead form between R groups that may be far apart in the primary sequence, contributing to the molecule's overall 3-D shape — which is exactly what makes them a tertiary-level feature.
+
+**Worked example.** A polypeptide is 250 amino acids long. The number of bonds in the chain is one fewer than the number of monomers, so 249 water molecules are released during its synthesis by condensation, and 249 water molecules are used during its complete hydrolysis. It is the number of *bonds*, not the number of monomers, that the calculation turns on — a mistake worth watching for.
+
 - **Fibrous** (collagen, keratin) — long, insoluble, structural, repetitive sequence.
 - **Globular** (haemoglobin, enzymes) — compact, soluble, hydrophilic groups outward.
 

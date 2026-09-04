@@ -65,7 +65,9 @@ Combinations involving trigonometric or logarithmic functions are not required a
 
 ## Uncertainty on graphs
 
-Uncertainty in a data point can be represented on a graph using **error bars**, showing the range within which the true value of that point is expected to lie. Error bars may or may not be included for every point on a graph. From a graph, the uncertainty in the **gradient** and **intercept** of a best-fit straight line can be determined by comparing the best-fit line with the steepest and shallowest lines that still fit within the error bars (the "worst-fit lines").
+Uncertainty in a data point can be represented on a graph using **error bars**, showing the range within which the true value of that point is expected to lie. Error bars may or may not be included for every point on a graph. From a graph, the uncertainty in the **gradient** and **intercept** of a best-fit straight line can be determined by comparing the best-fit line with the steepest and shallowest lines that still fit within the error bars (the "worst-fit lines"): draw the steepest and the shallowest lines that still pass through all the error bars, and the uncertainty in the gradient is **half the difference between these two gradients**.
+
+Error bars also support a direct comparison between two data points: if their error bars **overlap**, the difference between the two values **may not be significant** — the true values could plausibly be equal — and no definite difference should be claimed from the graph alone.
 
 **Worked example.** A student measures the diameter of a wire five times using a micrometer and obtains: 0.52 mm, 0.54 mm, 0.51 mm, 0.53 mm, 0.53 mm. Calculate the mean value and estimate the absolute uncertainty as half the range.
 

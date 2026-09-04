@@ -71,6 +71,8 @@ Information has quality only if it is accurate, complete, relevant, timely, and 
 
 **Static** information does not change once produced, such as a printed book. **Dynamic** information updates automatically, such as a live departures board — more useful but dependent on the reliability of its source.
 
+**Direct data** is collected for the specific purpose at hand — a researcher's own questionnaire, or a business's own sensor readings — and is relevant, current and of known accuracy, but is often costly and slow to gather. **Indirect data** is collected for some other purpose and reused, such as census data or loyalty-card records used for marketing — cheap, immediately available and often very large in scale, but it may be out of date, in the wrong format, carry unknown bias, or include irrelevant data the new user cannot filter out. The "wrong format" disadvantage of indirect data is easy to overlook but frequently worth a mark.
+
 ## Encoding and coding data
 
 Coding replaces a value with a shorter representation — M and F for gender, a three-letter airport code. It saves storage, speeds entry, and allows validation against a defined set.

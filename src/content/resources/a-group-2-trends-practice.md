@@ -54,6 +54,8 @@ Related: [Group 2: Quantitative Trends study guide](/resources/a-group-2-quantit
 
 **8.** A student claims: "Lattice energy always decreases in size (becomes less exothermic) as the cation gets bigger, for any Group 2 salt." Using the sulfate and hydroxide comparison, explain why this statement, while true, is not by itself enough to predict the solubility trend of a Group 2 salt. **[3]**
 
+**9.** A student explains that barium carbonate is more thermally stable than magnesium carbonate because "barium's lattice energy is less exothermic than magnesium's." Explain why this argument is not appropriate, and give the correct explanation. **[3]**
+
 ---
 
 ## Answers
@@ -75,6 +77,8 @@ Related: [Group 2: Quantitative Trends study guide](/resources/a-group-2-quantit
 **7.** SO₄²⁻ is a large anion, so lattice energy is dominated by the anion's own size and changes only a little as the cation gets bigger down the group [1]. Meanwhile, hydration enthalpy of the cation still falls substantially going from Mg²⁺ to Ba²⁺, since it depends strongly on the cation's own size regardless of the anion present [1]. With hydration enthalpy falling faster than lattice energy stays roughly constant, the net effect on ΔH(solution) becomes less exothermic (more endothermic) down the group [1], so solubility decreases from MgSO₄ (soluble, Epsom salts) to BaSO₄ (essentially insoluble) [1]. BaSO₄'s extreme insolubility means it passes through the body without dissolving into the bloodstream, which is why it is safe to use as a barium meal for X-ray imaging despite barium being toxic in soluble form [1].
 
 **8.** The statement about lattice energy alone is true, but solubility depends on the *relative* rates of change of lattice energy and cation hydration enthalpy, not on lattice energy in isolation [1]. For a small anion like OH⁻, lattice energy falls faster than hydration enthalpy, giving more exothermic ΔH(solution) and increasing solubility [1]; for a large anion like SO₄²⁻, lattice energy barely changes while hydration enthalpy still falls, giving less exothermic ΔH(solution) and decreasing solubility — so the same lattice-energy trend produces opposite solubility trends depending on the anion [1].
+
+**9.** Lattice energy and hydration enthalpy are the tools used to explain the *solubility* trend of hydroxides and sulfates, not the thermal stability of nitrates and carbonates [1]; using them here mixes up two separate explanations. The correct explanation is about **polarising power**: Ba²⁺ is a larger cation than Mg²⁺, with a lower charge density, so it polarises the carbonate anion less strongly, weakening it less [1]; this means barium carbonate needs more thermal energy to trigger decomposition, making it more thermally stable than magnesium carbonate, whose smaller, more polarising cation weakens the anion more [1].
 
 ---
 

@@ -70,6 +70,10 @@ They often pull in opposite directions because **standardisation creates reliabi
 **7. (a)** Random sampling requires a **complete sampling frame — a list of everyone in the population** [1]; no such list of homeless people exists, since by definition they have no fixed address to be registered at [1].
 **(b)** **Snowball sampling** [1] — the researcher contacts one or two individuals, perhaps through a shelter or outreach worker, and asks them to introduce others [1]. This works because it **uses existing trust networks to reach a hard-to-access group**, though the sample will not be representative and members of the network may be similar to one another [1].
 
+**8. Strength:** an experiment is **controlled**, so variables other than the one being tested can be held constant, allowing the researcher to identify **cause and effect** with more confidence than other methods allow [2]. **Limitation:** the controlled, artificial setting means behaviour may not reflect how people act in real life, giving the study **low ecological validity** [2].
+
+**9.** A **pilot study** tests the research method on a small scale before the main study is carried out [1]. It allows the sociologist to **identify and fix problems with wording, timing or procedure** — such as a confusing question or a questionnaire that takes too long — before committing the time and cost of the full study [2].
+
 ---
 
 ## Where marks are usually lost
