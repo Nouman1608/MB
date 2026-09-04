@@ -54,6 +54,17 @@ Related: [Mechanics revision notes](/resources/edexcel-ial-physics-mechanics-rev
 
 **6.** A pump raises 300 kg of water through 12 m in 40 s. Calculate the useful power output. **[3]**
 
+**7.** A ball of mass 0.20 kg is thrown horizontally from a cliff at 15 m s⁻¹ and lands 2.0 s later. Take g = 9.81 m s⁻².
+
+**(a)** Calculate the horizontal distance travelled. **[2]**
+**(b)** Calculate the vertical velocity on landing. **[2]**
+
+**8.** A motor has an efficiency of 75% and a total power input of 800 W. Calculate the useful power output. **[2]**
+
+**9.** Explain, using Newton's first law, why a skydiver reaches a constant terminal velocity. **[2]**
+
+**10.** Distinguish between mass and weight, including their units and whether each is a scalar or a vector. **[2]**
+
 ---
 
 ## Answers
@@ -75,6 +86,15 @@ Related: [Mechanics revision notes](/resources/edexcel-ial-physics-mechanics-rev
 
 **6.** Work done = mgh = 300 × 9.81 × 12 [1] = 35 316 J [1]; power = 35 316 ÷ 40 = **880 W** [1].
 
+**7. (a)** Horizontal motion is at **constant velocity** (no horizontal force) [1]: distance = 15 × 2.0 = **30 m** [1].
+**(b)** Vertical motion starts from rest and accelerates at g [1]: v = u + at = 0 + 9.81 × 2.0 = **19.6 m s⁻¹** (downward) [1].
+
+**8.** efficiency = useful power output ÷ total power input, so useful output = 0.75 × 800 [1] = **600 W** [1].
+
+**9.** Initially weight exceeds air resistance, so there is a resultant force and the diver accelerates [1]; as speed increases air resistance grows until it **equals** weight, giving **zero resultant force**, so by Newton's first law the diver continues at **constant velocity** [1].
+
+**10. Mass** is the amount of matter in an object, measured in **kg**, and is a **scalar** [1]. **Weight** is the force of gravity acting on that mass (W = mg), measured in **N**, and is a **vector** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -83,3 +103,6 @@ Related: [Mechanics revision notes](/resources/edexcel-ial-physics-mechanics-rev
 - Assuming kinetic energy is conserved in all collisions.
 - Using the full launch speed for horizontal range instead of the horizontal component.
 - Confusing work done with power.
+- Using the launch/thrown speed for both horizontal and vertical motion in a projectile — the two components are independent.
+- Applying total power input where useful (output) power is asked for, or vice versa, in an efficiency calculation.
+- Confusing mass (a scalar, in kg) with weight (a vector force, in N).

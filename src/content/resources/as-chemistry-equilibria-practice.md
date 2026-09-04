@@ -64,6 +64,15 @@ CH3COOH + C2H5OH  <=>  CH3COOC2H5 + H2O
 
 **(b)** Calculate Kc, and explain why it has no units. **[3]**
 
+**6.** A sealed vessel at total pressure 200 kPa contains an equilibrium mixture of N₂O₄(g) ⇌ 2NO₂(g) with mole fractions 0.60 for N₂O₄ and 0.40 for NO₂.
+
+**(a)** Calculate the partial pressure of each gas. **[2]**
+**(b)** Write the expression for Kp and calculate its value, including units. **[3]**
+
+**7.** State which of the following change the value of K, and which only shift the position of equilibrium: (i) increasing pressure, (ii) adding a catalyst, (iii) increasing temperature. **[3]**
+
+**8.** Explain why "no effect on K" and "no effect on yield" are not the same statement, using a pressure change as your example. **[2]**
+
 ---
 
 ## Answers
@@ -97,6 +106,13 @@ CH3COOH + C2H5OH  <=>  CH3COOC2H5 + H2O
 **(b)** Kc = (1.60 × 1.60) ÷ (0.40 × 1.40) [1] = 2.56 ÷ 0.56 = **4.57** [1].
 No units because there are **two moles of gas/species on each side**, so the concentration units cancel [1].
 
+**6. (a)** P(N₂O₄) = 0.60 × 200 = **120 kPa** [1]; P(NO₂) = 0.40 × 200 = **80 kPa** [1].
+**(b)** Kp = (P_NO₂)² ÷ P_N₂O₄ [1] = 80² ÷ 120 = 6400 ÷ 120 = **53.3 kPa** [1]. The mole count changes (1 → 2), so the units don't cancel — Kp carries units of kPa¹, matching the net order of (2 − 1) = 1 [1].
+
+**7.** (i) Increasing pressure — **shifts position only**, K unchanged [1]. (ii) Adding a catalyst — **shifts nothing** (equilibrium reached sooner, same position), K unchanged [1]. (iii) Increasing temperature — **changes the value of K** itself [1].
+
+**8.** A pressure change **does** shift the position of equilibrium, and therefore changes the **yield**, by favouring the side with fewer gas moles [1]; but the numerical **value of K stays the same**, since only a temperature change alters K — the two statements describe different quantities [1].
+
 ---
 
 ## Where marks are usually lost
@@ -106,3 +122,5 @@ No units because there are **two moles of gas/species on each side**, so the con
 - Giving only "compromise" without saying compromise between **what and what**.
 - Forgetting to divide moles by volume before substituting into Kc (here volume is 1.00 dm³, so it happens to make no difference — but state it).
 - Assuming Kc always has units.
+- Believing pressure or concentration changes alter the value of K — they only shift the position of equilibrium; only temperature changes K.
+- Forgetting Kp uses partial pressures, not concentrations, and that units depend on the net change in gas moles.

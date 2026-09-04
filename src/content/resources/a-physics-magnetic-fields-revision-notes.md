@@ -45,9 +45,19 @@ theta = angle between the field and the current/velocity
 Maximum force when theta = 90 degrees; ZERO when parallel
 ```
 
+**Defining the tesla:** the tesla is the flux density that produces a force of **1 N per metre** of conductor carrying **1 A**, when the conductor is **perpendicular** to the field.
+
 **Fleming's left-hand rule** (motor effect): **F**irst finger = **F**ield, se**C**ond finger = **C**urrent, thu**M**b = **M**otion.
 
 For a **negative** charge, current direction is **opposite** to the velocity — reverse the answer. This catches almost everyone at least once.
+
+**Worked example.** A wire of length 0.20 m carries a current of 5.0 A perpendicular to a field of flux density 0.30 T.
+
+```
+F = B I L = 0.30 x 5.0 x 0.20 = 0.30 N
+```
+
+If the wire instead ran **parallel** to the field, θ = 0° and sin θ = 0, so the force would be **zero** regardless of current or field strength.
 
 ## Charged particle in a magnetic field
 
@@ -61,6 +71,12 @@ Because the force is perpendicular to motion, **no work is done** and kinetic en
 
 Larger mass or speed → larger radius. Stronger field or greater charge → tighter circle.
 
+**Worked example.** An electron (Q = 1.6 × 10⁻¹⁹ C) moves at 2.0 × 10⁶ m s⁻¹ perpendicular to a field of flux density 0.50 T.
+
+```
+F = B Q v = 0.50 x 1.6x10^-19 x 2.0x10^6 = 1.6x10^-13 N
+```
+
 ## Magnetic flux and flux linkage
 
 ```
@@ -68,7 +84,7 @@ flux            phi = B A cos(theta)          webers (Wb)
 flux linkage    N phi = B A N cos(theta)      weber-turns
 ```
 
-θ is measured between the field and the **normal** to the area — not the plane. Flux is maximum when the field is perpendicular to the area, zero when parallel to it.
+θ is measured between the field and the **normal** to the area — not the plane. Flux is maximum when the field is perpendicular to the area, zero when parallel to it — measuring θ from the coil's plane instead of its normal is a common source of a sign or magnitude error.
 
 ## Electromagnetic induction
 
@@ -96,6 +112,7 @@ For a coil rotating at angular frequency ω, the e.m.f. varies sinusoidally with
 - Omitting the minus sign in Faraday's law, or failing to explain it as Lenz's law.
 - Confusing flux (BA) with flux linkage (NBA).
 - Using F = BIL when the wire is parallel to the field — the force is then zero.
+- Forgetting the tesla is defined **per metre of conductor per ampere**, not simply "a unit of field strength" with no numerical anchor.
 
 ## Self-test
 
@@ -104,5 +121,8 @@ For a coil rotating at angular frequency ω, the e.m.f. varies sinusoidally with
 3. Give the equation for the radius of that path.
 4. State Faraday's and Lenz's laws.
 5. Why does Lenz's law follow from conservation of energy?
+6. Define the tesla in terms of force, current and length.
+7. An electron (Q = 1.6 × 10⁻¹⁹ C) moves at 2.0 × 10⁶ m s⁻¹ perpendicular to a 0.50 T field. Find the force on it.
+8. A wire of length 0.20 m carries 5.0 A perpendicular to a 0.30 T field. Find the force, and state what happens if the wire instead runs parallel to the field.
 
-**Answers:** 1. First finger = field, second finger = current, thumb = motion (force); all mutually perpendicular. 2. A circle — the force is always perpendicular to the velocity, so it changes direction continuously but does no work, leaving the speed and kinetic energy constant. 3. r = mv/(BQ). 4. Faraday: the induced e.m.f. is proportional to the rate of change of flux linkage. Lenz: the induced e.m.f. acts to oppose the change causing it. 5. If the induced effect reinforced the change, the change would grow without limit and energy would be created from nothing; opposing it means work must be done to sustain the change.
+**Answers:** 1. First finger = field, second finger = current, thumb = motion (force); all mutually perpendicular. 2. A circle — the force is always perpendicular to the velocity, so it changes direction continuously but does no work, leaving the speed and kinetic energy constant. 3. r = mv/(BQ). 4. Faraday: the induced e.m.f. is proportional to the rate of change of flux linkage. Lenz: the induced e.m.f. acts to oppose the change causing it. 5. If the induced effect reinforced the change, the change would grow without limit and energy would be created from nothing; opposing it means work must be done to sustain the change. 6. The flux density that produces a force of 1 N per metre of conductor carrying 1 A, perpendicular to the field. 7. F = BQv = 0.50 × 1.6×10⁻¹⁹ × 2.0×10⁶ = **1.6×10⁻¹³ N**. 8. F = BIL = 0.30 × 5.0 × 0.20 = **0.30 N**; parallel to the field, θ = 0° so sin θ = 0 and the force is zero.

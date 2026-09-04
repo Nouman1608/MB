@@ -41,7 +41,7 @@ The explanation must be about **electron density on the nitrogen lone pair**:
 - **Alkyl groups are electron-donating**, so they increase electron density on nitrogen, making the lone pair more available to accept a proton. More alkyl groups therefore means a stronger base.
 - **In phenylamine, the lone pair is delocalised into the benzene ring**, so it is much less available. This makes phenylamine a **much weaker base than ammonia** — the single most examined point in the topic.
 
-Note that tertiary amines break the simple pattern in aqueous solution because of steric hindrance and reduced solvation of the cation.
+Note that tertiary amines break the simple pattern in aqueous solution because of steric hindrance and reduced solvation of the cation. Predicting phenylamine as more basic than ammonia by analogy with ethylamine is a common error — an alkyl group and an aromatic ring have **opposite** effects on the lone pair, not variations on the same trend.
 
 ## Preparation
 
@@ -58,6 +58,16 @@ nitrile + LiAlH4 (dry ether) or H2/Ni  ->  primary amine
 ```
 
 This route **adds a carbon**, since the nitrile was made from a halogenoalkane with KCN.
+
+```
+halogenoalkane + primary amine (ethanol, heated, sealed tube)  ->  secondary amine
+```
+
+**With acyl chlorides:** ammonia or an amine reacts with an acyl chloride at room temperature in a **condensation reaction**, releasing HCl (or forming the ammonium/aminium salt if excess ammonia/amine is present), giving an amide:
+
+```
+CH3COCl + 2NH3  ->  CH3CONH2 + NH4Cl
+```
 
 **Aromatic amines:**
 
@@ -76,6 +86,10 @@ nitrobenzene --Sn/conc HCl, then NaOH--> phenylamine
 
 **With copper(II) ions:** amines form complexes, giving a deep blue solution — parallel to ammonia.
 
+**Phenylamine with bromine water:** substitutes readily at the ring at room temperature, without a catalyst — the ring is activated by the same lone-pair-delocalisation that weakens phenylamine's basicity.
+
+**Diazonium salt with water, warmed:** displaces the diazonium group to give phenol — a useful route from an amine back to a phenol.
+
 **Diazotisation (aromatic only):**
 
 ```
@@ -87,6 +101,8 @@ diazonium salt + phenol in alkali  ->  AZO DYE (coloured)
 
 Aliphatic amines do not form stable diazonium salts, which is why this chemistry is aromatic-only.
 
+**Two distinct steps, easily conflated:** forming the diazonium salt reacts phenylamine with HNO₂/NaNO₂ and dilute acid; coupling reacts the already-formed diazonium salt with a second aromatic compound (like phenol) in alkaline conditions to build the azo dye.
+
 ## Exam traps
 
 - Explaining basicity without reference to lone-pair availability.
@@ -95,6 +111,8 @@ Aliphatic amines do not form stable diazonium salts, which is why this chemistry
 - Omitting the NaOH step after reducing nitrobenzene.
 - Forgetting the below-10 °C requirement for diazotisation.
 - Explaining azo dye colour without mentioning delocalisation.
+- Forgetting that amines react with acyl chlorides in a condensation reaction to give an amide, not a simple addition product.
+- Missing that phenylamine's ring is activated towards bromine water, needing no catalyst — unlike benzene itself.
 
 ## Self-test
 
@@ -103,5 +121,9 @@ Aliphatic amines do not form stable diazonium salts, which is why this chemistry
 3. Why is phenylamine a much weaker base than ammonia?
 4. Why must ammonia be in excess when making a primary amine from a halogenoalkane?
 5. Why must diazotisation be done below 10 °C, and why are azo dyes coloured?
+6. Write the equation for ethanoyl chloride reacting with excess ammonia.
+7. What happens when phenylamine reacts with bromine water, and why does it need no catalyst?
+8. What is formed when a diazonium salt is warmed with water?
+9. Distinguish diazonium salt formation from diazonium coupling.
 
-**Answers:** 1. The nitrogen has a lone pair of electrons that can accept a proton. 2. Two electron-donating alkyl groups increase the electron density on the nitrogen, making the lone pair more available to accept a proton. 3. The nitrogen lone pair is delocalised into the benzene ring, so it is much less available for accepting a proton. 4. The primary amine produced is itself nucleophilic and reacts further to give secondary, tertiary and quaternary products; excess ammonia makes further substitution less likely. 5. Above 10 °C the diazonium salt decomposes; azo dyes are coloured because coupling creates an extended delocalised electron system that absorbs visible light.
+**Answers:** 1. The nitrogen has a lone pair of electrons that can accept a proton. 2. Two electron-donating alkyl groups increase the electron density on the nitrogen, making the lone pair more available to accept a proton. 3. The nitrogen lone pair is delocalised into the benzene ring, so it is much less available for accepting a proton. 4. The primary amine produced is itself nucleophilic and reacts further to give secondary, tertiary and quaternary products; excess ammonia makes further substitution less likely. 5. Above 10 °C the diazonium salt decomposes; azo dyes are coloured because coupling creates an extended delocalised electron system that absorbs visible light. 6. CH₃COCl + 2NH₃ → CH₃CONH₂ + NH₄Cl. 7. It substitutes readily at the ring; no catalyst is needed because the ring is activated by the delocalisation of the nitrogen lone pair into it. 8. Phenol. 9. Formation reacts phenylamine with HNO₂/NaNO₂ and dilute acid below 10 °C to give the diazonium salt; coupling reacts that diazonium salt with a second aromatic compound, such as phenol, in alkaline conditions to form the azo dye.

@@ -58,6 +58,14 @@ Related: [Kinematics and Motion Graphs revision notes](/resources/kinematics-rev
 
 **6.** Explain what terminal velocity is and why a skydiver reaches it. **[4]**
 
+**7.** A cyclist accelerates uniformly from rest to 12 m s⁻¹ in 4.0 s, then travels at a constant 12 m s⁻¹ for a further 10 s. Using the area under a speed–time graph, find the total distance travelled. **[4]**
+
+**8.** State what each of the following looks like on a distance–time graph: (a) an object at rest, (b) an object accelerating. **[2]**
+
+**9.** A car decelerates uniformly from 20 m s⁻¹ to 5 m s⁻¹ in 3.0 s. Calculate its acceleration, and explain why deceleration does not need a different equation. **[3]**
+
+**10.** A walker travels 400 m east, then 400 m west back to the start. State the total distance travelled and the total displacement. **[2]**
+
 ---
 
 ## Answers
@@ -80,6 +88,14 @@ Related: [Kinematics and Motion Graphs revision notes](/resources/kinematics-rev
 
 **6.** Terminal velocity is the **constant maximum velocity reached when the resultant force is zero** [1]. Initially the skydiver's **weight is greater than the air resistance**, so there is a downward resultant force and acceleration [1]. As speed increases the **air resistance increases** [1]; when **air resistance equals weight** the resultant force is zero, so the acceleration is zero and the velocity stays constant [1].
 
+**7.** Stage 1 (triangle) = ½ × base × height = ½ × 4.0 × 12 [1] = 24 m. Stage 2 (rectangle) = base × height = 10 × 12 [1] = 120 m [1]. Total distance = 24 + 120 = **144 m** [1].
+
+**8. (a)** A **flat (horizontal) line** [1]. **(b)** A **curve getting steeper** [1].
+
+**9.** a = (v − u) ÷ t = (5 − 20) ÷ 3.0 [1] = **−5.0 m s⁻²** [1]. It is the **same acceleration equation**, simply giving a negative value because the velocity is decreasing — deceleration is not a separate formula [1].
+
+**10. Distance = 800 m** [1] (the full path length); **displacement = 0** [1] (the walker ends up back where they started, so there is no net change in position).
+
 ---
 
 ## Where marks are usually lost
@@ -88,3 +104,6 @@ Related: [Kinematics and Motion Graphs revision notes](/resources/kinematics-rev
 - Forgetting the negative sign for g when motion is upwards.
 - Saying acceleration is zero at the top of a projectile's flight.
 - Claiming air resistance is constant.
+- Splitting a speed–time graph into the wrong shapes, or forgetting to add the areas of each stage together.
+- Confusing distance–time graph shapes with speed–time graph shapes — the same-looking line means something different on each.
+- Thinking deceleration needs a different formula — it's the same a = (v − u) ÷ t, simply giving a negative answer.

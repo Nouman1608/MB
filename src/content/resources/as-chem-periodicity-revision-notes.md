@@ -55,6 +55,10 @@ P4  S8  Cl2  Ar   simple molecular -- LOW melting points
 
 The peak at silicon is the key feature; the drop after it is because the **structure changes**, not because bonds get weaker.
 
+## Oxidation number across the period
+
+The oxidation number of each element in its oxide/chloride **rises steadily** across the period: Na (+1), Mg (+2), Al (+3), Si (+4), P (+5), S (+6 in SO₃) — because each element uses progressively more of its outer-shell electrons in bonding as the number of valence electrons increases.
+
 ## The oxides with water
 
 | Oxide | Structure | With water | Resulting pH |
@@ -66,7 +70,12 @@ The peak at silicon is the key feature; the drop after it is because the **struc
 | P₄O₁₀ | Simple molecular | Reacts → H₃PO₄ | **1–2** |
 | SO₂ / SO₃ | Simple molecular | Reacts → H₂SO₃ / H₂SO₄ | 1–3 |
 
-**The pattern:** metal oxides are **basic**, non-metal oxides are **acidic**, and Al₂O₃ is **amphoteric** (reacts with both acids and bases) sitting on the boundary.
+**The pattern:** metal oxides are **basic**, non-metal oxides are **acidic**, and Al₂O₃ is **amphoteric** (reacts with both acids and bases) sitting on the boundary:
+
+```
+Al2O3 + 6HCl  ->  2AlCl3 + 3H2O        (reacts with acid)
+Al2O3 + 2NaOH  ->  2NaAlO2 + H2O       (reacts with base)
+```
 
 MgO gives only a weakly alkaline pH because Mg(OH)₂ is **sparingly soluble**.
 
@@ -82,6 +91,10 @@ MgO gives only a weakly alkaline pH because Mg(OH)₂ is **sparingly soluble**.
 
 Ionic chlorides simply dissolve; **covalent** chlorides **hydrolyse**, releasing HCl. The transition from dissolving to hydrolysing tracks the change from ionic to covalent bonding across the period.
 
+**Why the split happens where it does:** electronegativity increases across the period while chlorine's stays fixed, so the electronegativity *difference* shrinks — Na–Cl and Mg–Cl bonds stay ionic enough that the chloride simply dissolves as ions, while Si–Cl and P–Cl bonds become covalent enough that water attacks the bond directly, hydrolysing it. MgCl₂ (pH ≈ 6) is only weakly acidic because the small, doubly-charged Mg²⁺ ion polarises coordinated water enough to release a little H⁺; AlCl₃ (pH ≈ 3) is more acidic still because Al³⁺ is smaller and more highly charged, polarising coordinated water even more strongly.
+
+**Worked example — predicting properties.** An unknown Period-3-like element X forms a strongly acidic oxide, and its chloride hydrolyses violently, "fuming" in moist air. Where does X sit in its period? A violently hydrolysing chloride indicates a **covalent** chloride (by analogy with Si and P), and a strongly acidic oxide points to a non-metal — both place X on the **right-hand side** of the period.
+
 ## Exam traps
 
 - Saying melting point "decreases after Si because bonds weaken" — the **structure changes** to simple molecular.
@@ -89,6 +102,8 @@ Ionic chlorides simply dissolve; **covalent** chlorides **hydrolyse**, releasing
 - Confusing dissolving (NaCl) with hydrolysis (SiCl₄).
 - Giving MgO a pH of 13 — it is only sparingly soluble, so 9–10.
 - Omitting the misty HCl fumes when describing covalent chloride hydrolysis.
+- Forgetting Al₂O₃ needs a specific equation with each of an acid and a base to demonstrate amphoteric behaviour, not just the word "amphoteric".
+- Explaining the ionic-to-covalent chloride split without mentioning the shrinking electronegativity difference to chlorine.
 
 ## Self-test
 
@@ -97,5 +112,8 @@ Ionic chlorides simply dissolve; **covalent** chlorides **hydrolyse**, releasing
 3. Which Period 3 oxide is amphoteric, and what does that mean?
 4. What is observed when silicon tetrachloride is added to water?
 5. Why is the pH of magnesium oxide in water only about 9–10?
+6. Write equations showing Al₂O₃ reacting with both an acid and a base.
+7. Why is AlCl₃'s solution more acidic than MgCl₂'s?
+8. An unknown Period-3-like element X has a strongly acidic oxide and a chloride that hydrolyses violently. Where in the period does X sit, and why?
 
-**Answers:** 1. Nuclear charge increases while electrons enter the same shell with roughly constant shielding, so the outer electrons are pulled in more strongly. 2. It has a giant covalent structure; melting requires breaking many strong covalent bonds throughout the lattice. 3. Al₂O₃ — it reacts with both acids and bases. 4. Violent hydrolysis producing misty fumes of hydrogen chloride and an acidic solution of about pH 2. 5. Magnesium hydroxide is only sparingly soluble, so few hydroxide ions enter solution.
+**Answers:** 1. Nuclear charge increases while electrons enter the same shell with roughly constant shielding, so the outer electrons are pulled in more strongly. 2. It has a giant covalent structure; melting requires breaking many strong covalent bonds throughout the lattice. 3. Al₂O₃ — it reacts with both acids and bases. 4. Violent hydrolysis producing misty fumes of hydrogen chloride and an acidic solution of about pH 2. 5. Magnesium hydroxide is only sparingly soluble, so few hydroxide ions enter solution. 6. Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O; Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O. 7. Al³⁺ is smaller and more highly charged than Mg²⁺, so it polarises coordinated water molecules more strongly, releasing more H⁺. 8. The right-hand side — a strongly acidic oxide indicates a non-metal, and a violently hydrolysing (covalent) chloride is typical of elements towards the right of a period, by analogy with Si and P.

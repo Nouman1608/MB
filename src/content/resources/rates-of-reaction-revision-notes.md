@@ -47,7 +47,7 @@ Rate increases if collisions become **more frequent**, **more energetic**, or bo
 | **Surface area ↑** | Faster | More particles exposed → more frequent collisions |
 | **Catalyst** | Faster | Provides an **alternative pathway of lower activation energy** |
 
-Only temperature changes the **energy** of collisions. The others change frequency only — a distinction examiners test directly.
+Only temperature changes the **energy** of collisions. The others change frequency only — a distinction examiners test directly. At Extended/O Level standard, a temperature rise's dominant effect is the **greater proportion of collisions exceeding Eₐ**, not just the extra frequency — this is why a modest temperature rise speeds a reaction up far more than frequency alone would suggest.
 
 ## Catalysts
 
@@ -62,7 +62,7 @@ rate = amount of product formed / time
      = amount of reactant used  / time
 ```
 
-Methods: gas volume collected (syringe), mass loss (balance), or time for a cross to disappear (turbidity).
+Methods: gas volume collected (syringe), mass loss (balance), or time for a cross to disappear (turbidity). Each method suits a different reaction: gas-collection or mass-loss for reactions producing a gas, turbidity for reactions producing a precipitate that blocks a view of a cross beneath the flask.
 
 On a graph, the **steeper** the curve the faster the rate. The curve **levels off** when a reactant is used up; a larger final volume means more product, not a faster rate.
 
@@ -91,7 +91,9 @@ CONTACT 2SO2 + O2 <=> 2SO3    exothermic forward
         450 C, 1-2 atm, vanadium(V) oxide
 ```
 
-Both use a **compromise temperature**: lower would give a higher yield but too slowly to be economic.
+Both use a **compromise temperature**: lower would give a higher yield but too slowly to be economic. **Pressure is also a compromise**: higher pressure would push both equilibria further towards the product, but very high pressures are expensive to generate and maintain, and for the Haber process present genuine safety risks — 200 atm is already a compromise, not the highest pressure achievable.
+
+**Raw materials:** Haber's nitrogen comes from the **air**, hydrogen from **methane**. Contact's sulfur dioxide comes from **burning sulfur or roasting sulfide ores**, oxygen from the **air**.
 
 ## Exam traps
 
@@ -100,6 +102,9 @@ Both use a **compromise temperature**: lower would give a higher yield but too s
 - A catalyst does not increase yield.
 - Equilibrium needs a **closed** system.
 - "Shifts to the right" is not enough — say towards products/reactants and why.
+- Quoting the wrong catalyst for Haber vs Contact — **iron** for Haber, **vanadium(V) oxide** for Contact — the pressures and temperatures also differ between the two.
+- Explaining temperature's effect using only "more collisions," without mentioning the greater proportion exceeding activation energy.
+- Core-tier candidates attempting to explain the Haber/Contact conditions using equilibrium reasoning they are not required to know — Core only needs the effect on rate, not the position-of-equilibrium argument.
 
 ## Self-test
 
@@ -108,5 +113,8 @@ Both use a **compromise temperature**: lower would give a higher yield but too s
 3. Does a catalyst change the equilibrium position?
 4. Why is 450 °C used in the Haber process rather than a lower temperature?
 5. State two features of dynamic equilibrium.
+6. Why is 200 atm used in the Haber process rather than a much higher pressure?
+7. State the source of nitrogen and of hydrogen used in the Haber process.
+8. State the source of the sulfur dioxide and oxygen used in the Contact process.
 
-**Answers:** 1. It increases surface area, exposing more particles, so collisions are more frequent. 2. Decreases it — the equilibrium shifts towards the endothermic (reverse) direction to oppose the rise. 3. No — it speeds up forward and reverse equally, so equilibrium is reached sooner at the same position. 4. A compromise: lower temperature would give a higher yield but the rate would be uneconomically slow. 5. Forward and reverse rates are equal; concentrations of reactants and products remain constant; the system is closed.
+**Answers:** 1. It increases surface area, exposing more particles, so collisions are more frequent. 2. Decreases it — the equilibrium shifts towards the endothermic (reverse) direction to oppose the rise. 3. No — it speeds up forward and reverse equally, so equilibrium is reached sooner at the same position. 4. A compromise: lower temperature would give a higher yield but the rate would be uneconomically slow. 5. Forward and reverse rates are equal; concentrations of reactants and products remain constant; the system is closed. 6. A much higher pressure would push the equilibrium further towards ammonia, but very high pressures are expensive to generate and maintain and present safety risks, so 200 atm is a compromise rather than the highest pressure achievable. 7. Nitrogen comes from the **air**; hydrogen comes from **methane**. 8. Sulfur dioxide comes from **burning sulfur or roasting sulfide ores**; oxygen comes from the **air**.

@@ -38,7 +38,7 @@ kilogram (kg), metre (m), second (s), ampere (A), kelvin (K), mole (mol).
 
 All others are **derived**: N = kg m s⁻², J = kg m² s⁻², W = kg m² s⁻³, Pa = kg m⁻¹ s⁻², V = kg m² s⁻³ A⁻¹.
 
-**Homogeneity** — an equation must have the same base units on both sides. This is the fastest check on a derived formula. Note the limit, though: a homogeneous equation can still be wrong by a **dimensionless constant**, so homogeneity proves an equation *could* be right, not that it is.
+**Homogeneity** — an equation must have the same base units on both sides. This is the fastest check on a derived formula. Note the limit, though: a homogeneous equation can still be wrong by a **dimensionless constant**, so homogeneity proves an equation *could* be right, not that it is — for example, both s = ut + ½at² and s = ut + at² are homogeneous, but only the first is physically correct.
 
 **Prefixes:** T 10¹², G 10⁹, M 10⁶, k 10³, c 10⁻², m 10⁻³, μ 10⁻⁶, n 10⁻⁹, p 10⁻¹².
 
@@ -70,15 +70,24 @@ A measurement needing **two readings** carries **double** the uncertainty.
 
 **To reduce percentage uncertainty, measure a larger quantity** — time 20 oscillations rather than 1, then divide. The absolute uncertainty is fixed by the instrument, so it becomes a smaller fraction of a bigger reading.
 
+**Worked example — raising to a power.** A sphere has radius r = (2.0 ± 0.1) cm. Since V = (4/3)πr³, find the percentage uncertainty in V.
+
+```
+% uncertainty in r = (0.1 / 2.0) x 100 = 5%
+V depends on r^3, so % uncertainty in V = 3 x 5% = 15%
+```
+
+Raising to a power **multiplies** the percentage uncertainty by that power — a small uncertainty in a measured length can become a much larger uncertainty in a volume calculated from it.
+
 ## Errors
 
-- **Random** — scatter; reduced by **repeating and averaging**.
-- **Systematic** — a consistent offset; **not** reduced by repeating, only by recalibration or zeroing.
-- **Zero error** — the specific case where the instrument does not read zero when it should.
+- **Random** — scatter; reduced by **repeating and averaging**. E.g. human reaction time when starting/stopping a stopwatch causes readings to scatter unpredictably above and below the true value.
+- **Systematic** — a consistent offset; **not** reduced by repeating, only by recalibration or zeroing. E.g. a ruler with a worn end makes every length measured read consistently short.
+- **Zero error** — the specific case where the instrument does not read zero when it should — a specific example of a systematic error.
 
 **On a graph, a systematic error shows as the correct gradient with a wrong intercept.** A line that should pass through the origin but doesn't is the signature.
 
-**Accurate** means close to the true value; **precise** means repeat readings agree closely. Data can be **precise but not accurate** — a miscalibrated instrument gives tightly grouped, consistently wrong readings.
+**Accurate** means close to the true value; **precise** means repeat readings agree closely. Data can be **precise but not accurate** — a miscalibrated instrument gives tightly grouped, consistently wrong readings. Precision reflects the size of random error; accuracy reflects the size of systematic error — the two are independent, so improving one does not automatically improve the other.
 
 ## Exam traps
 
@@ -87,7 +96,8 @@ A measurement needing **two readings** carries **double** the uncertainty.
 - Saying repeating reduces systematic error.
 - Forgetting to double uncertainty for two-reading measurements.
 - Forgetting to multiply percentage uncertainty by the power.
-- Quoting more significant figures than the data supports.
+- Quoting more significant figures than the data supports — if the least-precise measurement has 2 significant figures, the final answer shouldn't claim 5.
+- Using sin θ for the component along a vector's own reference direction — it's cos θ; sin θ is for the perpendicular component.
 
 ## Self-test
 
@@ -96,5 +106,7 @@ A measurement needing **two readings** carries **double** the uncertainty.
 3. A force F acts at angle θ to the horizontal. Give both components.
 4. How do uncertainties combine when dividing?
 5. How does a systematic error appear on a graph?
+6. A sphere has radius r = (2.0 ± 0.1) cm. Find the percentage uncertainty in its volume.
+7. Give one example each of a random error and a systematic error, and state how each is reduced.
 
-**Answers:** 1. Kilogram, metre, second, ampere, kelvin, mole. 2. It proves the equation could be correct; it cannot detect a wrong dimensionless constant. 3. F cos θ horizontally and F sin θ vertically. 4. Add the percentage uncertainties. 5. The line has the correct gradient but an unexpected intercept — most obviously, a line that should pass through the origin does not.
+**Answers:** 1. Kilogram, metre, second, ampere, kelvin, mole. 2. It proves the equation could be correct; it cannot detect a wrong dimensionless constant. 3. F cos θ horizontally and F sin θ vertically. 4. Add the percentage uncertainties. 5. The line has the correct gradient but an unexpected intercept — most obviously, a line that should pass through the origin does not. 6. % uncertainty in r = (0.1/2.0) × 100 = 5%; since V ∝ r³, % uncertainty in V = 3 × 5% = **15%**. 7. Random: reaction time on a stopwatch — reduced by repeating and averaging. Systematic: a worn ruler reading every length short — reduced only by recalibration, not repetition.

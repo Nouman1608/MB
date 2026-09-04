@@ -61,6 +61,14 @@ Related: [Biological Molecules revision notes](/resources/aqa-a-level-biology-bi
 
 **(b)** Explain why a negative Benedict's test must be carried out first. **[2]**
 
+**7.** A polypeptide is 250 amino acids long. Calculate how many water molecules are released during its synthesis and how many are used during its complete hydrolysis. **[2]**
+
+**8.** State the reagent and positive result for testing a food sample for lipid. **[2]**
+
+**9.** Glycogen and starch are both storage polysaccharides of alpha glucose. State one structural difference and explain its functional significance. **[2]**
+
+**10.** Explain why disulfide bridges are described as part of **tertiary**, not secondary, structure. **[2]**
+
 ---
 
 ## Answers
@@ -87,6 +95,14 @@ Related: [Biological Molecules revision notes](/resources/aqa-a-level-biology-bi
 
 **(b)** To confirm no **reducing** sugar was present initially [1], since otherwise a positive result after hydrolysis could be due to that rather than a non-reducing sugar [1].
 
+**7.** Bonds in a chain of n monomers = n − 1 = 249 [1]. Condensation releases **249** water molecules; hydrolysis consumes **249** water molecules [1]. The number of bonds, not the number of monomers, is what the calculation turns on.
+
+**8.** Add **ethanol**, then add the mixture to **water** [1]; a **white emulsion** indicates lipid is present [1].
+
+**9.** Glycogen is **more highly branched** than starch [1], giving more free ends for rapid hydrolysis — appropriate for animals with higher metabolic rates than plants [1].
+
+**10.** Secondary structure is held only by **hydrogen bonds** between nearby amino acids in a regular repeating pattern (alpha helices/beta sheets) [1]; disulfide bridges form between R groups that may be far apart in the sequence, contributing to the overall 3D shape — a feature of tertiary structure [1].
+
 ---
 
 ## Where marks are usually lost
@@ -96,3 +112,7 @@ Related: [Biological Molecules revision notes](/resources/aqa-a-level-biology-bi
 - Saying more substrate overcomes a non-competitive inhibitor.
 - Forgetting to neutralise after acid hydrolysis.
 - Saying the plateau occurs because "the enzyme is used up" — enzymes are not consumed.
+- Counting the number of monomers instead of the number of bonds (n − 1) when finding how many water molecules are released or used.
+- Forgetting to add the ethanol/lipid mixture to water — a positive lipid test needs both steps, not ethanol alone.
+- Describing glycogen as "the same as starch" without mentioning its greater branching and why that matters for a higher metabolic rate.
+- Placing disulfide bridges at secondary rather than tertiary structure — secondary structure is hydrogen bonds only, in a regular repeating pattern.
