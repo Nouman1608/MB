@@ -128,6 +128,11 @@ Beyond the four headline objectives, the specification explicitly names balancin
 - Explain what a fall in a price index from 100 to 96 represents.
 - State two underlying features of RPI/CPI you ARE expected to know, without needing their exact construction.
 
+## Related resources
+
+- [The Measurement of Macroeconomic Performance study guide](/resources/a-level-aqa-economics-measurement-of-macroeconomic-performance/)
+- [The Measurement of Macroeconomic Performance practice questions](/resources/aqa-a-level-economics-macroeconomic-performance-practice/)
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135/7136) specification, Version 1.3,

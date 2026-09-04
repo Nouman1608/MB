@@ -139,6 +139,11 @@ measure.
 - Understand the concepts of base year, weighting and "basket of goods"
 without needing RPI/CPI's exact construction method.
 
+## Related resources
+
+- [The Measurement of Macroeconomic Performance revision notes](/resources/aqa-a-level-economics-macroeconomic-performance-revision-notes/)
+- [The Measurement of Macroeconomic Performance practice questions](/resources/aqa-a-level-economics-macroeconomic-performance-practice/)
+
 ## Official syllabus
 
 AQA AS and A-level Economics (7135/7136) specification, Version 1.3,
