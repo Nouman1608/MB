@@ -73,6 +73,21 @@ The organising debate of the whole subject.
 
 **Triangulation** combines methods so each offsets the other's weaknesses.
 
+**Worked example.** Assess the usefulness of participant observation for studying a criminal gang.
+
+```
+STRENGTHS   high validity - behaviour observed in its natural setting
+            access to a group that would refuse a questionnaire
+            reveals meanings members attach to their own actions
+
+WEAKNESSES  not reliable - cannot be replicated
+            small, unrepresentative sample
+            researcher may 'go native', losing objectivity
+            covert work raises consent and safety issues
+```
+
+The conclusion should turn on **purpose**: for understanding meaning it is the strongest method available; for measuring prevalence it is the wrong tool.
+
 ## Social inequality
 
 **Class** predicts life chances more strongly than any other single factor. **Intergenerational** mobility compares a person with their parents; **intragenerational** compares stages of their own career.
@@ -93,6 +108,7 @@ The organising debate of the whole subject.
 - Evaluating a method in the abstract.
 - Confusing absolute with relative poverty.
 - One-sided answers — both sides plus a judgement are required.
+- Evaluating participant observation only on validity, without weighing it against reliability, representativeness and ethical issues.
 
 ## Self-test
 
@@ -101,5 +117,6 @@ The organising debate of the whole subject.
 3. Distinguish reliability from validity, and say which methods favour each.
 4. What does PET stand for, and what are the three theoretical criteria?
 5. Why is relative poverty found in wealthy countries?
+6. Give one strength and one weakness of participant observation for studying a criminal gang.
 
-**Answers:** 1. Cross-cultural variation in norms and gender roles, and feral children cases where individuals raised without human contact fail to develop language or normal social behaviour. 2. Structuralist approaches see society as shaping individuals from above; social action approaches see individuals as creating society through interaction; Giddens's structuration synthesises the two. 3. Reliability is getting the same result on repetition, favoured by quantitative methods; validity is giving a true picture, favoured by qualitative methods. 4. Practical, Ethical, Theoretical; the theoretical criteria are reliability, validity and representativeness. 5. Because it is defined relative to the standard of living considered acceptable in that particular society, so it measures inequality rather than absolute deprivation.
+**Answers:** 1. Cross-cultural variation in norms and gender roles, and feral children cases where individuals raised without human contact fail to develop language or normal social behaviour. 2. Structuralist approaches see society as shaping individuals from above; social action approaches see individuals as creating society through interaction; Giddens's structuration synthesises the two. 3. Reliability is getting the same result on repetition, favoured by quantitative methods; validity is giving a true picture, favoured by qualitative methods. 4. Practical, Ethical, Theoretical; the theoretical criteria are reliability, validity and representativeness. 5. Because it is defined relative to the standard of living considered acceptable in that particular society, so it measures inequality rather than absolute deprivation. 6. Strength: high validity, since behaviour is observed in its natural setting and the method gives access to a group that would refuse a questionnaire. Weakness: it is not reliable, since it cannot be replicated, and the researcher may 'go native', losing objectivity.

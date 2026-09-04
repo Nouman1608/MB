@@ -51,6 +51,14 @@ Related: [O Level English Language revision notes](/resources/o-level-english-la
 
 ---
 
+## Section C
+
+**7.** A source reads: "The scheme reduced congestion by 20%. It also cut air pollution. However, small shopkeepers reported a fall in trade, and some elderly residents found the new routes confusing." Select the relevant points and write them as **continuous prose**, in your own words, in **no more than 40 words**. **[4]**
+
+**8.** A student writes: "The writer uses a metaphor to make it more interesting." Explain why this would earn no marks for a Use of Language question, then rewrite it as a strong response analysing the effect of the metaphor "the crowd was a river." **[3]**
+
+---
+
 ## Answers
 
 **1.** The **purpose** — to persuade, inform, advise or argue [1]; the **audience** — who will read or hear it [1]; the **form** — letter, speech, report, article, each with its own conventions [1].
@@ -69,6 +77,10 @@ Related: [O Level English Language revision notes](/resources/o-level-english-la
 **6.** Identify **how many separate points the mark allocation requires** — 3 marks usually means three distinct points [1]. **Answer in your own words** wherever the question asks you to explain, using short quotations only as evidence [1]. Keep each point **brief and directly answering the question asked** [1].
 Quoting a whole sentence loses marks because it **does not demonstrate understanding** — the examiner cannot tell whether you have identified which part of the sentence answers the question, and "own words" questions explicitly require you to show comprehension by rewording [1].
 
+**7.** Points: congestion fell by a fifth [1]; air quality improved [1]; small shopkeepers/businesses lost trade [1]; older residents struggled with the new routes [1]. Model answer, in continuous prose and the student's own words: *"Traffic levels dropped by a fifth and the air became cleaner, though small retailers saw takings decline and older people found the altered routes difficult to follow."* Any answer capturing all four points in continuous prose, in the student's own words, within the limit, earns full marks.
+
+**8.** Naming a device (metaphor) without explaining its **effect on the reader** demonstrates nothing — Use of Language marks reward *how* the writer achieves an effect, not device-spotting [1]. Strong response: *"The metaphor 'the crowd was a river' suggests the people moved as one uncontrollable mass, emphasising the narrator's helplessness within it."* — briefly quoting, then explaining the specific effect the image creates [2].
+
 ---
 
 ## Where marks are usually lost
@@ -77,3 +89,5 @@ Quoting a whole sentence loses marks because it **does not demonstrate understan
 - Writing a summary as a bulleted list instead of continuous prose.
 - Including examples and repetition in a summary when only points earn marks.
 - Lifting whole sentences from the passage in "own words" questions.
+- Naming a literary device (metaphor, simile) without explaining its effect on the reader.
+- Writing a summary answer as a list of separate points rather than joined, continuous prose.

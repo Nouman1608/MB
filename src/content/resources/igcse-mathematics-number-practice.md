@@ -58,6 +58,16 @@ Related: [Number revision notes](/resources/igcse-mathematics-number-revision-no
 
 ---
 
+## Section C
+
+**9.** A price is $84 after a 20% increase. Calculate the original price. **[2]**
+
+**10.** Calculate (4 × 10⁵) × (3 × 10³), giving your answer in standard form. **[3]**
+
+**11.** Convert a speed of 72 km/h to m/s. **[2]**
+
+---
+
 ## Answers
 
 **1.** 84 = 2 × 2 × 3 × 7 [1] = **2² × 3 × 7** [1].
@@ -79,6 +89,12 @@ Related: [Number revision notes](/resources/igcse-mathematics-number-revision-no
 
 **8.** Lower bounds are 12.35 cm and 7.75 cm [1]; perimeter = 2(12.35 + 7.75) [1] = **40.2 cm** [1].
 
+**9.** 84 ÷ 1.2 [1] = **$70** [1]. Dividing (not subtracting 20%) is essential — 20% of $84 is not the same as 20% of the original price.
+
+**10.** 4 × 3 = 12 [1]; 10⁵ × 10³ = 10⁸ [1]; 12 × 10⁸ = **1.2 × 10⁹** (renormalised, since 12 lies outside 1 ⩽ a < 10) [1].
+
+**11.** 72 km/h = 72 000 m/h [1]; ÷ 3600 = **20 m/s** [1]. Both the distance unit (km→m) and the time unit (h→s) must be converted — converting only one is the standard error.
+
 ---
 
 ## Where marks are usually lost
@@ -87,6 +103,7 @@ Related: [Number revision notes](/resources/igcse-mathematics-number-revision-no
 - Dividing the total by the number of names rather than by the number of parts.
 - Using the upper bound of one dimension and the lower bound of the other.
 - Giving a standard form answer with a first factor outside 1 ≤ a < 10.
+- Subtracting the percentage directly from the final value in a reverse-percentage question, instead of dividing by the multiplier.
 
 ## Examiner report insight
 

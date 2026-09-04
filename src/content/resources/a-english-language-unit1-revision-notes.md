@@ -63,6 +63,27 @@ Features: fillers, false starts, repetition, repairs, overlaps, interruptions, a
 
 **Power in conversation** is visible in who interrupts, who controls topic, who asks and who answers questions, and who holds the floor longest. Unequal turn length is evidence, not a coincidence.
 
+## Representation and language attitudes
+
+**Representation** is how language constructs a version of people, groups or events — interrogate naming choices, modifiers, and whether **agency is expressed or obscured** (a passive construction can delete the actor entirely).
+
+**Attitudes to variation** are examinable in themselves: **prescriptivism** treats change and non-standard forms as decline; **descriptivism** records variation without judgement. Standard English carries **overt prestige**; non-standard varieties can carry **covert prestige** within the group that uses them.
+
+**Worked example.** Analyse: *"Mistakes were made, and lessons have been learned."*
+
+```
+passive voice x2   "were made", "have been learned" - no agent named in
+                    either clause; nobody is identified as responsible
+nominalisation      "mistakes", "lessons" turn actions into abstract
+                    things, distancing them further from any actor
+present perfect      "have been learned" implies completion, closing
+                    the matter without offering evidence
+parallel structure   balanced clauses give a formal, rehearsed quality,
+                    marking it as institutional rather than personal
+```
+
+**Effect:** accountability is acknowledged in *form* while being grammatically avoided in *substance* — characteristic of institutional apology, and a strong contrast to comment on if a text elsewhere uses direct, agentive language.
+
 ## Directed writing and commentary
 
 The task is **transformation**, not summary.

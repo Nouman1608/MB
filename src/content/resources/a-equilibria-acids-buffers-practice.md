@@ -67,6 +67,18 @@ Related: [Acids, Bases, Buffers and Partition Coefficients study guide](/resourc
 
 ---
 
+## Section C
+
+**10.** The HCO₃⁻/H₂CO₃ (hydrogencarbonate/carbonic acid) system buffers blood pH close to 7.4.
+
+**(a)** Write an equation showing how this buffer removes excess H⁺. **[1]**
+
+**(b)** Explain, referring to the reservoir of H₂CO₃, how excess OH⁻ would be neutralised instead. **[2]**
+
+**11.** Explain, in terms of Le Chatelier's principle, why adding excess NaCl(aq) to a saturated solution of AgCl reduces the concentration of dissolved Ag⁺. **[2]**
+
+---
+
 ## Answers
 
 **1.** pKa = −log₁₀ Ka [1].
@@ -93,6 +105,12 @@ Related: [Acids, Bases, Buffers and Partition Coefficients study guide](/resourc
 
 **9.** Let mass in hexane = m; mass in water = (8.00 − m). Equal volumes, so Kpc = m/(8.00 − m) = 6.00 [1]. m = 6.00(8.00 − m) = 48.0 − 6.00m → 7.00m = 48.0 → m = **6.86 g in hexane** [1], and **1.14 g in water** [1].
 
+**10. (a)** HCO₃⁻ + H⁺ → H₂CO₃ [1].
+
+**(b)** The H₂CO₃ reservoir **dissociates to release H⁺** (H₂CO₃ ⇌ H⁺ + HCO₃⁻), which then **neutralises the added OH⁻** (H⁺ + OH⁻ → H₂O) [1], so — exactly as with the acetic acid/acetate buffer — a small addition shifts the equilibrium only slightly and blood pH barely changes [1].
+
+**11.** Adding NaCl **increases [Cl⁻]** [1]; by Le Chatelier's principle, the equilibrium AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq) **shifts left to oppose the increase**, removing Ag⁺ from solution as more AgCl precipitates, until Ksp is satisfied again [1].
+
 ---
 
 ## Where marks are usually lost
@@ -101,3 +119,4 @@ Related: [Acids, Bases, Buffers and Partition Coefficients study guide](/resourc
 - Forgetting the buffer equation uses the *ratio* [HA]/[A⁻], not either concentration alone.
 - Missing the stoichiometric factor when writing Ksp expressions for compounds like PbCl₂ or CaF₂ (the power on the ion, and the corresponding multiplier when solving for s in pure water).
 - Using the common-ion concentration as if it came partly from the sparingly soluble salt, rather than treating it as approximately equal to the concentration of the more soluble common-ion source.
+- Describing a biological buffer (such as the blood's HCO₃⁻/H₂CO₃ system) as working by a different mechanism from a laboratory buffer — the underlying chemistry (a weak acid/conjugate base pair resisting pH change) is identical.

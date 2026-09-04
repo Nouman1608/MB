@@ -47,6 +47,18 @@ Related: [The Market System revision notes](/resources/igcse-edexcel-economics-m
 
 ---
 
+## Section C
+
+**7.** Explain what is meant by *opportunity cost*, using an example. **[3]**
+
+**8.** State the four factors of production and the reward corresponding to each. **[4]**
+
+**9.** A new, cheaper substitute for coffee appears on the market. Using demand and supply analysis, explain the effect on the equilibrium price and quantity of coffee. **[4]**
+
+**10.** State **two** economies of scale a large firm might achieve as it expands. **[4]**
+
+---
+
 ## Answers
 
 **1.** The **price at which quantity demanded equals quantity supplied**, so there is no tendency for price to change [1] [1]. Above it there is **excess supply (a surplus)**, so sellers cut prices to clear unsold stock and price falls back towards equilibrium [1].
@@ -64,6 +76,14 @@ Related: [The Market System revision notes](/resources/igcse-edexcel-economics-m
 **Against:** demand for tobacco is **highly inelastic and addictive**, so a large tax causes only a **small fall in consumption** — the main effect is a transfer of income to the government [1]; the tax is **regressive**, taking a larger share of income from the poor, who are also more likely to smoke, worsening inequality [1]; a high tax encourages **smuggling and a black market**, which reduces revenue and puts consumption beyond regulation [1]; the **correct level of tax is very difficult to calculate**, since the external cost cannot be measured precisely [1].
 **Judgement:** a tax is **useful but insufficient on its own** [1]; because demand is inelastic it works best **combined with information campaigns, advertising bans and age restrictions**, which shift demand leftwards rather than relying on price alone [1].
 
+**7. Opportunity cost** is the **next best alternative given up** when a choice is made [1] [1]; e.g. spending an hour revising economics means giving up the chance to revise a different subject in that hour [1].
+
+**8. Land — rent** [1]; **labour — wages** [1]; **capital — interest** [1]; **enterprise — profit** [1].
+
+**9.** A cheaper substitute **shifts the demand curve for coffee to the left**, as consumers switch away from coffee [1]; at the original price this creates **excess supply** [1]; the equilibrium **price falls** [1] and the equilibrium **quantity falls** [1].
+
+**10.** Any two, 2 marks each: **purchasing economies** — buying raw materials in bulk at a lower cost per unit [1] [1]; **technical economies** — large-scale machinery and production techniques lower the cost per unit [1] [1]; **financial economies** — larger firms can borrow more cheaply [1] [1]; **marketing economies** — advertising cost is spread over a much larger output [1] [1].
+
 ---
 
 ## Where marks are usually lost
@@ -72,3 +92,5 @@ Related: [The Market System revision notes](/resources/igcse-edexcel-economics-m
 - Confusing income elasticity with price elasticity.
 - Giving an example of market failure without explaining the mechanism.
 - Not addressing inelastic demand when evaluating a tax on tobacco.
+- Explaining a market change without stating all four steps: which curve shifts, which direction, the new equilibrium, and the effect on both price and quantity.
+- Confusing capital (machinery and equipment) with money in the factors of production.

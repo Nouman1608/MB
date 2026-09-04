@@ -75,7 +75,18 @@ Starch, cellulose and glycogen are all built from the *same* small
 molecule (glucose) but joined in different arrangements — which is why
 they have different properties and roles despite a shared building block:
 starch stores energy in plants, cellulose forms rigid plant cell walls,
-and glycogen stores energy in animals.
+and glycogen stores energy in animals. Glycogen's glucose chains are more
+**branched** than starch's, which allows the stored energy to be
+released faster when an animal needs it.
+
+Lipids are built when **one glycerol joins with three fatty acids**,
+linked by ester bonds. Proteins are built when **amino acids join in a
+chain**; the specific **sequence** of amino acids determines how the
+chain folds into a 3D shape, and that shape determines the protein's
+function — an enzyme's or antibody's precisely-shaped binding site would
+be destroyed by the wrong sequence. DNA's nucleotides are held together
+as **two strands in a double helix**, with the two strands linked by
+specific base pairing.
 
 ## Food tests
 
@@ -97,6 +108,15 @@ indicates starch is present; no colour change indicates starch is absent.
 Notice which tests require **heating** (Benedict's, in a water bath) and
 which are done at **room temperature** (iodine, biuret, emulsion) — this
 distinction is a specific, common exam-question detail.
+
+## Why each molecule matters
+
+| Molecule | Function |
+|---|---|
+| Carbohydrate | Main energy source; structural role in plants (cellulose) |
+| Lipid | Energy store (more energy per gram than carbohydrate), insulation, protection, membranes |
+| Protein | Enzymes, antibodies, haemoglobin, growth and repair |
+| DNA | Stores the genetic information a cell reads to build proteins |
 
 ## Common mistakes
 

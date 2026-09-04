@@ -85,6 +85,28 @@ The commentary that follows must **analyse your own choices** using the framewor
 
 Quote **short**. Embedding a two-word quotation in your own sentence shows more control than copying a full line.
 
+## Comparing two texts
+
+Where two texts are set, compare **how** they achieve their effects, not merely what they say. Structure by **point of comparison**, not text by text, so the comparison is genuinely integrated rather than two separate mini-essays placed side by side.
+
+**Worked example.** Analysing: *"The factory stood silent, its chimneys cold, its gates chained."*
+
+```
+tricolon              three parallel clauses build a cumulative sense
+                      of finality
+personification       "stood silent" gives the factory human stillness,
+                      suggesting death rather than mere closure
+lexical field of cold "silent", "cold", "chained" - absence of heat,
+                      sound and movement, all markers of industrial life
+asyndetic listing     no conjunctions; the clauses accumulate flatly,
+                      mirroring resignation
+past tense, third person   detached observation, no consolation offered
+```
+
+**Effect:** the closure is presented as irreversible, and the reader's sympathy is directed at the loss rather than at any named cause.
+
+A **reflective commentary**, where required, should explain your own writing choices in terms of audience and purpose — why this structure, this register, this opening — rather than simply narrating what you wrote.
+
 ## Exam traps
 
 - Feature-spotting without analysing effect.

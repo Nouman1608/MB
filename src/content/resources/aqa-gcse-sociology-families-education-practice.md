@@ -44,6 +44,18 @@ Related: [Families and Education revision notes](/resources/aqa-gcse-sociology-f
 
 ---
 
+## Section C
+
+**7.** Explain the feminist view of the family, referring to the *dual burden*. **[4]**
+
+**8.** Explain the New Right view of family diversity. **[4]**
+
+**9.** Explain **two** reasons for the gender gap in educational achievement, with girls now outperforming boys. **[4]**
+
+**10.** Explain why ethnic differences in educational achievement are said to "overlap with class". **[3]**
+
+---
+
 ## Answers
 
 **1. Nuclear** — two generations: parents and their dependent children living together [1]. **Extended** — includes relatives beyond the nuclear family, either vertically (grandparents) or horizontally (aunts, uncles) [1]. **Reconstituted (blended)** — a stepfamily formed when partners with children from previous relationships live together [1]. **Lone-parent** — one parent living with dependent children [1]. (Also accept: same-sex family, single-person household.)
@@ -60,6 +72,14 @@ Related: [Families and Education revision notes](/resources/aqa-gcse-sociology-f
 **6. In-school factors**, 2 marks each: **labelling** — teachers form expectations of pupils based partly on class and appearance, which can become a **self-fulfilling prophecy** as pupils live up or down to the label [1] [1]. **Setting and streaming** — working-class pupils are disproportionately placed in lower sets, which are taught a restricted curriculum by less experienced staff, limiting attainment [1] [1]. **Anti-school subcultures** — pupils denied status by the school seek it from peers by rejecting school values, further depressing achievement [1] [1]. **The language of the school** — Bernstein argued schools use an elaborated code that middle-class pupils are already familiar with [1] [1].
 **Out-of-school factors**, 2 marks each: **material deprivation** — overcrowded housing, no quiet study space, no computer, and pressure to take paid work all reduce the ability to study [1] [1]. **Cultural capital** — middle-class parents possess the knowledge, confidence and connections to navigate the school system, choose better schools and support learning at home [1] [1]. (Also accept: parental attitudes to education; immediate versus deferred gratification.)
 
+**7.** The family **reproduces patriarchy** [1], with women carrying a disproportionate share of domestic responsibility [1]. The **dual burden** refers to women combining **paid work with unpaid domestic labour** [1]; some feminists add a "triple shift" of **emotion work** as a further, largely invisible demand on women's time [1].
+
+**8.** The New Right argue the **nuclear family** (a married heterosexual couple and their children) is the **ideal family structure** [1]. Alternatives, particularly **lone-parent families**, are blamed for **undermining children's socialisation** and contributing to social problems such as crime or welfare dependency [1] [1]. Critics argue this **stigmatises lone parents** and ignores evidence that family structure alone does not determine a child's outcomes [1].
+
+**9.** Any two, 2 marks each: **changing aspirations** — women now expect careers rather than only a domestic role, motivating greater achievement at school [1] [1]. **Equal-opportunity policies** — initiatives removing barriers that previously limited girls' subject choices and progression have widened opportunity [1] [1]. **Crisis of masculinity** — the decline of traditional manual jobs for men has reduced some boys' motivation to achieve academically [1] [1].
+
+**10.** Ethnic differences in achievement **significantly overlap with class differences** [1] — some minority ethnic groups are **disproportionately represented in lower social classes** [1], so much of the apparent "ethnic" effect **narrows once class is statistically accounted for** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -68,3 +88,5 @@ Related: [Families and Education revision notes](/resources/aqa-gcse-sociology-f
 - Confusing an increase in divorce with an increase in marital unhappiness.
 - Describing the hidden curriculum as the subjects taught.
 - Giving in-school factors when out-of-school ones are asked for.
+- Treating the New Right view as neutral description rather than a value-laden judgement about which family type is "ideal".
+- Explaining the gender gap or ethnicity gap without linking it back to a specific mechanism (aspirations, policy, or the overlap with class).

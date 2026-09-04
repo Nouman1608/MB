@@ -29,6 +29,17 @@ added value = selling price - cost of bought-in materials
 
 **Added value is not profit** — wages, rent and overheads still come out of it.
 
+**Worked example.** A bakery pays 80p in ingredients and packaging per loaf and sells at £2.20, selling 500 loaves a day with fixed costs of £400 a day.
+
+```
+added value per loaf = 2.20 - 0.80 = 1.40
+total contribution   = 1.40 x 500  = 700
+profit               = 700 - 400   = 300 per day
+
+break-even output = fixed costs / contribution per unit
+                  = 400 / 1.40 = 286 loaves (nearest whole loaf)
+```
+
 | Structure | Liability |
 |---|---|
 | Sole trader | **Unlimited** |
@@ -39,6 +50,10 @@ added value = selling price - cost of bought-in materials
 **Unlimited liability means personal assets can be taken to pay business debts.** That phrase earns the mark. And a **plc is private sector**, not government-owned — "public" refers to who may buy shares.
 
 **Objectives change over time**: survival first for a start-up, then profit, growth and market share. They should be **SMART** — "increase sales" is not an objective; "increase sales by 10% in twelve months" is.
+
+**Entrepreneurs** organise the other factors of production and **bear the risk**. Motives include profit, independence, filling a gap in the market, and personal or social goals; risks include failure, loss of capital and long hours, set against the reward of profit and control.
+
+**Stakeholders** — owners, employees, customers, suppliers, government and the local community — frequently have **conflicting** interests: higher wages please employees but reduce profit; expansion pleases owners but may disturb the local community.
 
 ## Market research
 
