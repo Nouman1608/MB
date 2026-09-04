@@ -82,7 +82,19 @@ export type AssessmentComponentType =
   | 'portfolio'
   | 'project'
   | 'unit'
-  | 'endorsement';
+  | 'endorsement'
+  /** Added for IB MYP (2026-09-04): a school-assessed, IB-moderated
+   * subject-group criterion (always one of exactly four per MYP subject
+   * group -- A/B/C/D, each independently named per subject, e.g. MYP
+   * Sciences' "Knowing and understanding"/"Inquiring and designing"/
+   * "Processing and evaluating"/"Reflecting on the impacts of science").
+   * Deliberately distinct from 'coursework': a criterion is not a single
+   * deliverable but an ongoing achievement-level judgment (1-8) made
+   * across the whole year's work against a published rubric, moderated by
+   * IB sampling rather than externally marked. Read directly from each
+   * subject's own public IB MYP subject-brief PDF -- see the matching
+   * Assessment record's own sourcing notes. */
+  | 'criterion';
 
 /** v2.0 MEGA PROGRAMME — assessment-model vocabulary (brief §6). Describes
  * HOW the qualification as a whole aggregates its components, not any one
@@ -99,7 +111,19 @@ export type AssessmentModel =
   | 'staged'
   | 'unit-based'
   | 'component-based'
-  | 'mixed';
+  | 'mixed'
+  /** Added for IB MYP (2026-09-04): the whole-qualification model is four
+   * equally-weighted, school-assessed criteria (A-D) scored on an 8-level
+   * achievement scale, IB-moderated by sampling -- not an externally set
+   * and marked paper/component structure at all. Using 'component-based'
+   * for this would misrepresent MYP as if it had fixed papers with raw
+   * exam marks the way DP/GCSE/A-level do; it does not, for the vast
+   * majority of MYP students (the optional formal eAssessment route --
+   * on-screen exams or an ePortfolio, for schools/students seeking the
+   * MYP Certificate -- is a genuinely separate, opt-in layer, documented
+   * in this qualification's own record `notes` rather than modeled as
+   * its primary components, since most MYP students never sit it). */
+  | 'criterion-referenced';
 
 /** v2.0 — AS/A-level relationship vocabulary (brief §10). Optional;
  * populated only when the official specification explicitly states the
@@ -2990,7 +3014,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/',
     verifiedOn: '2026-08-28',
-    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (economics-guide.pdf). Figures below are read directly from that guide\'s own \'Assessment outline -- SL\' and \'Assessment outline -- HL\' tables (retrieved via the licensed PDF, cross-checked against the syllabus\'s assessment-objectives-to-component mapping in the same document). SL: Paper 1 (one extended-response question from a choice on micro- or macroeconomics, 75min, 25 marks, 30%, no calculator); Paper 2 (data-response question set on the global economy, 105min, 40 marks, 40%, calculator permitted); Internal Assessment (portfolio of three commentaries on published news extracts, no fixed sitting duration, 45 marks, 30%, internally assessed by the teacher and externally moderated by the IB). HL sits the same Paper 1 and Paper 2 (each re-weighted to 20%/30% of the HL total) plus an HL-only Paper 3 (structured, data-based policy paper drawing on the HL extension topics, 105min, 60 marks, 30%, calculator permitted), and the same portfolio Internal Assessment re-weighted to 20%. \'DP Economics\' is used as this record\'s own `code` (there is no separate numeric course code at DP level the way GCSE/A-level boards publish one). First assessed 2022 per the guide\'s own title page. This is one of only two IB DP subjects (with Physics) where Marlbridge holds a license covering the full guide; the other 19 active IB subject combinations remain without a published assessment record because their only legal source -- the freely-public \'subject brief\' PDFs -- gives component time and weighting but never raw marks totals, so a complete, verified record cannot be built for them without either a further license or the board publishing that detail publicly (owner-approved: model the 2 licensed subjects fully now, leave the remaining 19 explicitly deferred rather than estimate or omit silently).',
+    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (economics-guide.pdf). Figures below are read directly from that guide\'s own \'Assessment outline -- SL\' and \'Assessment outline -- HL\' tables (retrieved via the licensed PDF, cross-checked against the syllabus\'s assessment-objectives-to-component mapping in the same document). SL: Paper 1 (one extended-response question from a choice on micro- or macroeconomics, 75min, 25 marks, 30%, no calculator); Paper 2 (data-response question set on the global economy, 105min, 40 marks, 40%, calculator permitted); Internal Assessment (portfolio of three commentaries on published news extracts, no fixed sitting duration, 45 marks, 30%, internally assessed by the teacher and externally moderated by the IB). HL sits the same Paper 1 and Paper 2 (each re-weighted to 20%/30% of the HL total) plus an HL-only Paper 3 (structured, data-based policy paper drawing on the HL extension topics, 105min, 60 marks, 30%, calculator permitted), and the same portfolio Internal Assessment re-weighted to 20%. \'DP Economics\' is used as this record\'s own `code` (there is no separate numeric course code at DP level the way GCSE/A-level boards publish one). First assessed 2022 per the guide\'s own title page. This is one of only two IB DP subjects (with Physics) where Marlbridge holds a license covering the full guide; the other 14 active IB Diploma Programme subject combinations remain without a published assessment record because their only legal source -- the freely-public \'subject brief\' PDFs -- gives component time and weighting but never raw marks totals, so a complete, verified record cannot be built for them without either a further license or the board publishing that detail publicly (owner-approved: model the 2 licensed subjects fully now, leave the remaining 19 explicitly deferred rather than estimate or omit silently).',
     assessmentModel: 'component-based',
   },
   {
@@ -3011,8 +3035,103 @@ export const ASSESSMENTS: readonly Assessment[] = [
     ],
     officialSourceUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
     verifiedOn: '2026-08-28',
-    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (physics-guide.pdf). The guide\'s own \'Assessment outline -- SL/HL\' tables (pages 62-63 of 65) could not be fully extracted through available fetch tooling in this session -- two independent mirrors of the identical PDF (ibo.org direct and a bradfieldcollege.org.uk copy) both truncated at the same point, before reaching the assessment section, which is a tool-side extraction cap rather than a source problem (confirmed by matching truncation length on unrelated hosts). The component structure, durations and weightings below are taken from that guide\'s earlier, successfully-extracted \'Curriculum model overview\' and assessment-summary prose, and the exact mark totals were cross-verified against a current (checked 2026-08-28), actively-maintained school IB Physics resource (Concordian International School Thailand LibGuide, \'External assessment\' and \'Internal assessment\' pages) that transcribes the same official table in detail; both sources agree. SL: Paper 1 (multiple-choice with short data-based questions, 90min, 45 marks, 36%, calculator and data booklet permitted); Paper 2 (short-and-extended-response questions, 90min, 50 marks, 44%, calculator and data booklet permitted); Internal Assessment (individual scientific investigation marked against 4 criteria worth 6 marks each = 24 marks, no fixed sitting duration, 20%, internally assessed and externally moderated). HL sits the same two paper types at greater length and mark total (Paper 1: 120min/60 marks/36%; Paper 2: 150min/90 marks/44%) plus the same-weighted internal-assessment investigation (24 marks, 20%). \'DP Physics\' is used as this record\'s own `code`. First assessed 2025 per the guide\'s own title page -- the most recently first-examined DP science course. This is one of only two IB DP subjects (with Economics) where Marlbridge holds a license covering the full guide; the other 19 active IB subject combinations remain without a published assessment record, for the same licensing-scope reason recorded on the Economics DP record above (owner-approved).',
+    notes: 'Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide (physics-guide.pdf). The guide\'s own \'Assessment outline -- SL/HL\' tables (pages 62-63 of 65) could not be fully extracted through available fetch tooling in this session -- two independent mirrors of the identical PDF (ibo.org direct and a bradfieldcollege.org.uk copy) both truncated at the same point, before reaching the assessment section, which is a tool-side extraction cap rather than a source problem (confirmed by matching truncation length on unrelated hosts). The component structure, durations and weightings below are taken from that guide\'s earlier, successfully-extracted \'Curriculum model overview\' and assessment-summary prose, and the exact mark totals were cross-verified against a current (checked 2026-08-28), actively-maintained school IB Physics resource (Concordian International School Thailand LibGuide, \'External assessment\' and \'Internal assessment\' pages) that transcribes the same official table in detail; both sources agree. SL: Paper 1 (multiple-choice with short data-based questions, 90min, 45 marks, 36%, calculator and data booklet permitted); Paper 2 (short-and-extended-response questions, 90min, 50 marks, 44%, calculator and data booklet permitted); Internal Assessment (individual scientific investigation marked against 4 criteria worth 6 marks each = 24 marks, no fixed sitting duration, 20%, internally assessed and externally moderated). HL sits the same two paper types at greater length and mark total (Paper 1: 120min/60 marks/36%; Paper 2: 150min/90 marks/44%) plus the same-weighted internal-assessment investigation (24 marks, 20%). \'DP Physics\' is used as this record\'s own `code`. First assessed 2025 per the guide\'s own title page -- the most recently first-examined DP science course. This is one of only two IB DP subjects (with Economics) where Marlbridge holds a license covering the full guide; the other 14 active IB Diploma Programme subject combinations remain without a published assessment record, for the same licensing-scope reason recorded on the Economics DP record above (owner-approved). The site\'s 5 IB Middle Years Programme subjects are a separate case, resolved 2026-09-04: MYP\'s own assessment structure is genuinely criterion-referenced (no fixed exam papers with raw marks for most students), so the freely public subject briefs ARE sufficient to model it correctly -- see the 5 IB Middle Years Programme records below.',
     assessmentModel: 'component-based',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-myp',
+    subjectSlug: 'myp-sciences',
+    code: 'MYP Sciences',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2014',
+    components: [
+      { paperCode: 'Criterion A', title: 'Knowing and understanding', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion B', title: 'Inquiring and designing', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion C', title: 'Processing and evaluating', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion D', title: 'Reflecting on the impacts of science', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-sciences-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Read directly from the public IB MYP Sciences subject brief (framework current "from 2014"; MYP subjects are assessed continuously against these criteria every year rather than in a single first-examined series, so "firstAssessment" here records the framework\'s own stated currency date, not an exam sitting). All four criteria are equally weighted (25% each) and each scored on an 8-level achievement scale (1-8, recorded here as marks=8 -- the maximum achievable level, not an exam mark total), assessed by the student\'s own teacher against published IB rubrics across the year\'s work and externally moderated by IB sampling -- there is no fixed-duration sitting for any criterion, hence durationMinutes: null throughout, matching this schema\'s existing convention for non-timed internal assessment. This is Marlbridge\'s first IB MYP assessment record built without owner-licensed full-guide access; unlike the DP Economics/DP Physics records above, the publicly-available subject brief is sufficient to model MYP correctly because MYP\'s own official structure genuinely does not include fixed exam papers with raw marks for the great majority of students -- the gap for these 19 IB subjects was about missing marks totals for DP\'s paper-based exams, which never applied to MYP\'s criterion-based model in the first place. A separate, optional \'MYP eAssessment\' exists for schools/students seeking the formal MYP Certificate or course results (a further externally-set and marked on-screen examination or ePortfolio) -- explicitly NOT modeled as this record\'s primary components, since most MYP students never sit it and modeling it as the default would misrepresent the qualification most Marlbridge MYP students actually experience. For the record: the brief states its optional on-screen exam comprises three tasks (Knowing and understanding, 25 marks; Investigation skills, 50 marks; Applying science, 25 marks), available in biology, chemistry, physics and integrated sciences -- cited here for completeness, not modeled as a component.',
+    assessmentModel: 'criterion-referenced',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-myp',
+    subjectSlug: 'mathematics',
+    code: 'MYP Mathematics',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2022',
+    components: [
+      { paperCode: 'Criterion A', title: 'Knowing and understanding', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion B', title: 'Investigating patterns', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion C', title: 'Communicating', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion D', title: 'Applying mathematics in real-life contexts', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-mathematics-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Read directly from the public IB MYP Mathematics subject brief ("From 2020, first assessment 2022" -- the one MYP subject brief among the five modeled in this batch that states an explicit first-assessment year rather than only a framework currency date, used verbatim here). All four criteria equally weighted (25% each), 8-level achievement scale (marks=8 = the maximum achievable level, not an exam mark total), teacher-assessed across the year against published IB rubrics and externally moderated by IB sampling, no fixed sitting duration (durationMinutes: null). Same modeling rationale as the MYP Sciences record above: the public subject brief is sufficient here because MYP genuinely has no fixed-marks exam-paper structure for most students, unlike DP. Optional MYP eAssessment (on-screen exam, for MYP Certificate/course-results seekers only, not modeled as this record\'s components) comprises three tasks per the same brief: Knowing and understanding + Communicating (criteria A and C), Investigating patterns + Communicating (criteria B and C), and Applying mathematics in real-life contexts + Communicating (criteria C and D), each 31-35 marks, with criterion C assessed across all three tasks to a combined 25 marks -- cited for completeness only.',
+    assessmentModel: 'criterion-referenced',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-myp',
+    subjectSlug: 'myp-individuals-and-societies',
+    code: 'MYP Individuals and Societies',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2014',
+    components: [
+      { paperCode: 'Criterion A', title: 'Knowing and understanding', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion B', title: 'Investigating', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion C', title: 'Communicating', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion D', title: 'Thinking critically', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief_individuals-societies_2015.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Read directly from the public IB MYP Individuals and Societies subject brief ("From 2014"; used as the framework\'s stated currency date, not an exam-sitting year -- see the MYP Sciences record above for why). All four criteria equally weighted (25% each), 8-level achievement scale (marks=8 = the maximum achievable level), teacher-assessed and externally moderated by IB sampling, no fixed sitting duration. Optional MYP eAssessment (on-screen exam, available in history/geography/integrated humanities, for MYP Certificate/course-results seekers only, not modeled as this record\'s components) comprises three tasks per the same brief: Investigating (criteria A and B, 26 marks), Communicating (criteria A and C, 18 marks), Thinking critically (criteria A, C and D, 36 marks) -- cited for completeness only, not modeled.',
+    assessmentModel: 'criterion-referenced',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-myp',
+    subjectSlug: 'myp-design',
+    code: 'MYP Design',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2014',
+    components: [
+      { paperCode: 'Criterion A', title: 'Inquiring and analysing', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion B', title: 'Developing ideas', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion C', title: 'Creating the solution', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion D', title: 'Evaluating', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief_design_2015.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Read directly from the public IB MYP Design subject brief ("From 2014"; framework currency date, not an exam-sitting year). All four criteria equally weighted (25% each), 8-level achievement scale (marks=8 = the maximum achievable level), teacher-assessed and externally moderated by IB sampling, no fixed sitting duration. Design\'s optional formal route differs from the other four MYP subjects modeled in this batch: instead of an on-screen exam, students seeking IB-validated MYP Design course results submit an ePortfolio (a design folder containing a design brief and specification, marked by the classroom teacher against published year-5 criteria and IB-moderated by sampling) -- not modeled as this record\'s components since it is the same optional, opt-in formal-qualification layer as the other subjects\' on-screen exams, cited here for completeness only.',
+    assessmentModel: 'criterion-referenced',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-myp',
+    subjectSlug: 'myp-language-acquisition',
+    code: 'MYP Language Acquisition',
+    specStatus: 'current',
+    tiers: ['not-tiered'],
+    firstAssessment: '2020',
+    components: [
+      { paperCode: 'Criterion A', title: 'Listening', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion B', title: 'Reading', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion C', title: 'Speaking', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Criterion D', title: 'Writing', durationMinutes: null, marks: 8, weightingPercent: 25, assessmentType: 'criterion', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-language-acquisition-2020-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Read directly from the public IB MYP Language Acquisition subject brief ("From 2020"; framework currency date, not an exam-sitting year -- fetched via a school-hosted mirror of the identical ibo.org PDF after the direct ibo.org URL returned no extractable content in this session, same fallback pattern already used for the DP Physics record above). All four criteria equally weighted (25% each), 8-level achievement scale (marks=8 = the maximum achievable level), teacher-assessed and externally moderated by IB sampling, no fixed sitting duration. Unlike the other four MYP subjects modeled in this batch, language acquisition is compulsory in every MYP year (except for bilingual students following the separate language-and-literature route). Optional MYP eAssessment (for MYP Certificate/course-results seekers only, not modeled as this record\'s components) comprises an on-screen exam (Listening 32 marks, Reading 32 marks, Writing 32 marks) plus a separately-scored, IB-moderated speaking examination (Speaking 32 marks) -- cited for completeness only, not modeled.',
+    assessmentModel: 'criterion-referenced',
   },
 ] as const;
 

@@ -1475,6 +1475,56 @@ export const SYLLABUSES: readonly Syllabus[] = [
     notes: 'First assessments 2022. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide; this record is sourced from that licensed guide (economics-guide.pdf) plus the freely-public SL/HL subject briefs. Four content units (common to SL/HL, with HL-only extension material within several units) plus an internal assessment portfolio.',
   },
   {
+    boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'myp-sciences',
+    officialTitle: 'International Baccalaureate Middle Years Programme Sciences',
+    code: 'MYP Sciences',
+    boardSummary:
+      'MYP sciences guides students to independently and collaboratively investigate issues through research, observation and experimentation, exploring the connections between science and everyday life across biology, chemistry, physics and related disciplines.',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-sciences-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Source is the public IB MYP Sciences subject brief (framework current "from 2014"). No syllabus code exists at MYP level the way Cambridge/Edexcel/AQA/OCR publish one -- \'MYP Sciences\' is used as this record\'s own `code`, matching the existing \'DP Economics\'/\'DP Physics\' precedent for IB Diploma Programme subjects above. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'mathematics',
+    officialTitle: 'International Baccalaureate Middle Years Programme Mathematics',
+    code: 'MYP Mathematics',
+    boardSummary:
+      'MYP mathematics develops logical, abstract and critical thinking through four branches of mathematical study -- numerical and abstract reasoning, thinking with models, spatial reasoning, and reasoning with data -- offered at standard and extended levels of challenge.',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-mathematics-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Source is the public IB MYP Mathematics subject brief ("From 2020, first assessment 2022"). No syllabus code exists at MYP level -- \'MYP Mathematics\' is used as this record\'s own `code`. This qualificationSlug (\'ib-myp\') plus subjectSlug (\'mathematics\') combination is distinct from any other board\'s Mathematics entry in this file. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'myp-individuals-and-societies',
+    officialTitle: 'International Baccalaureate Middle Years Programme Individuals and Societies',
+    code: 'MYP Individuals and Societies',
+    boardSummary:
+      'MYP individuals and societies incorporates disciplines traditionally studied under humanities and social sciences -- including history, geography, economics, philosophy, sociology/anthropology, business management, psychology and world religions -- to help students inquire into the factors that affect individuals, societies and environments.',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief_individuals-societies_2015.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Source is the public IB MYP Individuals and Societies subject brief ("From 2014"). No syllabus code exists at MYP level -- \'MYP Individuals and Societies\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'myp-design',
+    officialTitle: 'International Baccalaureate Middle Years Programme Design',
+    code: 'MYP Design',
+    boardSummary:
+      'MYP design challenges students to apply practical and creative-thinking skills to solve design problems using the design cycle -- inquiring and analysing, developing ideas, creating a solution, and evaluating it -- across product, digital or combined design contexts.',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief_design_2015.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Source is the public IB MYP Design subject brief ("From 2014"). No syllabus code exists at MYP level -- \'MYP Design\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'myp-language-acquisition',
+    officialTitle: 'International Baccalaureate Middle Years Programme Language Acquisition',
+    code: 'MYP Language Acquisition',
+    boardSummary:
+      'MYP language acquisition develops proficiency in an additional language across listening, reading, speaking and writing, alongside intercultural understanding, and is compulsory in every year of the programme except for bilingual students following the language-and-literature route.',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-language-acquisition-2020-en.pdf',
+    verifiedOn: '2026-09-04',
+    notes: 'Source is the public IB MYP Language Acquisition subject brief ("From 2020"; fetched via a school-hosted mirror of the identical ibo.org PDF after the direct ibo.org URL returned no extractable content in this session). No syllabus code exists at MYP level -- \'MYP Language Acquisition\' is used as this record\'s own `code`. See this subject\'s own assessment-structure record for the sourced criterion-based assessment breakdown.',
+  },
+  {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'physics',
     officialTitle: 'International Baccalaureate Diploma Programme Physics',
     code: 'DP Physics',

@@ -91,11 +91,13 @@ const VALID_COMPONENT_TYPES = new Set([
   'practical', 'alternative-to-practical', 'practical-endorsement', 'oral',
   'speaking', 'listening', 'reading', 'writing', 'portfolio', 'project',
   'unit', 'endorsement',
+  'criterion', // IB MYP school-assessed subject-group criterion (2026-09-04)
 ]);
 
 /** v2.0 — kept in sync manually with the AssessmentModel union. */
 const VALID_ASSESSMENT_MODELS = new Set([
   'linear', 'modular', 'staged', 'unit-based', 'component-based', 'mixed',
+  'criterion-referenced', // IB MYP (2026-09-04)
 ]);
 
 /** v2.0 — kept in sync manually with the AsALevelRelationship union. */
