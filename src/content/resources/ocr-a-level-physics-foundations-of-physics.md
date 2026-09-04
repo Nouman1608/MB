@@ -141,6 +141,11 @@ using a labelled sketch rather than trying to do it mentally, since
 labelled diagrams also earn method marks even if a final numerical
 answer is wrong.
 
+## Related resources
+
+- [Foundations of Physics revision notes](/resources/ocr-a-level-physics-foundations-revision-notes/)
+- [Foundations of Physics practice questions](/resources/ocr-a-level-physics-foundations-practice/)
+
 ## Official syllabus
 
 OCR, *A Level GCE Physics A H556 Specification*, version 3.0 (March

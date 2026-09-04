@@ -128,6 +128,11 @@ Every later module assumes SI units, uncertainty handling and the vector-scalar 
 - State which is the scalar and which is the vector: speed/velocity, mass/weight, distance/displacement.
 - Explain why an equation that fails a unit-homogeneity check cannot be correct.
 
+## Related resources
+
+- [Foundations of Physics study guide](/resources/ocr-a-level-physics-foundations-of-physics/)
+- [Foundations of Physics practice questions](/resources/ocr-a-level-physics-foundations-practice/)
+
 ## Official syllabus
 
 OCR, *A Level GCE Physics A H556 Specification*, version 3.0 (March
