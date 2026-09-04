@@ -43,6 +43,16 @@ Related: [What is Business revision notes](/resources/a-business-what-is-busines
 
 **6.** Evaluate whether pursuing growth is always in the interests of a business's shareholders. **[12]**
 
+## Section C
+
+**7.** Explain what is meant by "divorce of ownership from control" in a public limited company, and state **one** way this problem can be reduced. **[3]**
+
+**8.** A firm sells a good with inelastic demand. Explain, referring to price elasticity of demand, whether a price rise would increase its total revenue. **[3]**
+
+**9.** During an economic downturn, sales of a discount retailer rise while sales of a luxury retailer fall. Explain this using income elasticity of demand. **[4]**
+
+**10.** Explain **two** effects a rise in interest rates could have on a business. **[4]**
+
 ---
 
 ## Answers
@@ -63,6 +73,14 @@ Argument for stakeholder: satisfying employees and customers **builds the loyalt
 **6. For growth:** growth allows the business to exploit **economies of scale**, lowering unit costs and raising margins [1]; a larger market share brings **greater bargaining power over suppliers and more pricing power** [1]; growth generally raises **revenue and, if margins hold, absolute profit and the share price** [1]; it can also **spread risk across more products and markets** [1].
 **Against:** growth is often financed by **debt or new share issues**, which raises gearing or **dilutes existing shareholders' stake and earnings per share** [1]; **diseconomies of scale** — communication and coordination problems, weaker motivation — can raise unit costs and erode the very margins growth was meant to improve [1]; rapid growth frequently causes **overtrading**, where the business runs out of cash despite rising sales [1]; management attention may be diverted from the **profitable core business** [1].
 **Judgement:** growth serves shareholders only when the **return on the capital employed exceeds its cost** [1]. It depends on **how the growth is financed, whether the market is genuinely large enough, and whether management has the capability to run a larger organisation** [1]. Profitable, well-financed growth into a related market is likely to benefit shareholders; debt-funded diversification into unfamiliar markets frequently destroys value [1] [1].
+
+**7.** In a plc, **shareholders own the business but directors run it day to day** [1], and their objectives can diverge — directors may pursue growth, status or job security, while shareholders want strong returns [1]. This can be reduced through **share options or performance-related pay for directors**, which realigns directors' financial interests with shareholder returns [1].
+
+**8.** Where demand is **inelastic**, a given percentage rise in price causes a **smaller percentage fall in quantity demanded** [1], so total revenue (price × quantity) **rises** [1], since the loss in volume is more than offset by the higher price per unit [1].
+
+**9.** **Inferior goods have negative income elasticity of demand** — as incomes fall in a downturn, demand for them actually **rises**, which explains the discount retailer's growth [2]. **Luxury goods have high positive income elasticity** — demand is highly sensitive to income, so it **falls sharply** when incomes fall or consumers feel less confident, explaining the luxury retailer's decline [2].
+
+**10.** Any two, 2 marks each: **higher borrowing costs**, discouraging investment and expansion funded by loans [1] [1]; **reduced consumer spending**, particularly on income-elastic, expensive items such as durables and housing, since disposable income falls once higher mortgage or loan repayments are met [1] [1]; a business holding **variable-rate debt sees its own repayments rise directly**, squeezing cash flow [1] [1].
 
 ---
 

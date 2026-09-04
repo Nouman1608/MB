@@ -57,9 +57,13 @@ YED = %change in Qd / %change in income
 
 **Determinants of PED:** availability of substitutes (the most important by far), necessity versus luxury, proportion of income spent, whether it is addictive, and the time period.
 
+**Applying the determinants:** petrol is **inelastic** — few close substitutes, and most journeys are necessary. A particular crisp brand is **elastic** — many close substitutes, so buyers switch readily. Salt is **inelastic** — a necessity taking a tiny share of income, with no real substitute. Foreign holidays are **elastic** — a luxury taking a large share of income, and easily postponed or replaced with a domestic trip.
+
 **PES** is higher when there is spare capacity, available stock, and time to adjust — which is why supply is more elastic in the long run.
 
 **The practical application:** taxes on cigarettes and fuel raise large revenue precisely because demand is inelastic, so consumption barely falls. The same fact means such taxes are weak at changing behaviour.
+
+**Worked example — YED.** A 5% rise in income causes an 8% rise in quantity demanded: YED = 8 ÷ 5 = **+1.6**, a positive value greater than 1, so the good is a **luxury** (or income-elastic normal good) — demand rises proportionally faster than income. A **negative YED** indicates an **inferior good**: as income rises, demand actually *falls*, because consumers switch to better alternatives they can now afford — value supermarket own-brand products are a typical example.
 
 ## Costs, revenue and competition
 

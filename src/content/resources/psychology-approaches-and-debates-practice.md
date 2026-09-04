@@ -46,6 +46,14 @@ Related: [Approaches, Issues and Debates revision notes](/resources/a-psychology
 
 **6.** Explain **four** ethical issues in psychological research and how each can be dealt with. **[8]**
 
+## Section C
+
+**7.** Distinguish between reductionism and holism, giving **one** strength and **one** limitation of a reductionist explanation. **[5]**
+
+**8.** Distinguish between alpha bias and beta bias, and explain how Ainsworth's Strange Situation illustrates an **imposed etic**. **[5]**
+
+**9.** Explain why research on the genetic basis of criminality can be scientifically defensible yet still raise ethical concerns beyond participant protection. **[3]**
+
 ---
 
 ## Answers
@@ -64,6 +72,12 @@ Determinism is a problem for the legal system because the law **assumes offender
 **5. Idiographic** — focuses on the **individual as a unique case**, producing rich, detailed data rather than general laws [1]; associated with **case studies and unstructured interviews** [1]. **Nomothetic** — seeks to establish **general laws applying to everyone**, using large samples and statistical analysis [1]; associated with **experiments and questionnaires** [1].
 
 **6.** Any four, 2 marks each: **Informed consent** — participants must know what the study involves before agreeing; dealt with by a **consent form, or presumptive/retrospective consent where full disclosure would invalidate the study** [1] [1]. **Deception** — misleading participants; dealt with by **full debriefing afterwards and approval from an ethics committee that the deception is necessary and proportionate** [1] [1]. **Protection from harm** — participants must not face greater risk than in everyday life; dealt with by **stopping the study if distress occurs and offering counselling** [1] [1]. **Right to withdraw** — participants must be told they can leave at any time and have their data removed [1] [1]. **Confidentiality** — data must be **anonymised, using numbers or initials rather than names**, and stored securely [1] [1].
+
+**7. Reductionism** breaks a complex phenomenon down into **simpler, more basic components**, such as genes or neurochemistry (biological reductionism) or stimulus-response links (environmental reductionism) [1]. **Holism** argues that behaviour can only be understood by studying the **whole system**, not its isolated parts, since properties emerge from the interaction of components [1]. Strength of reductionism: it produces **testable hypotheses** and has led to **effective treatments**, such as drug therapies based on the biological approach [1]. Limitation: it can **oversimplify** behaviour and risks **explaining away meaning**, losing sight of the complex, real-world context in which behaviour actually occurs [1] [1].
+
+**8. Alpha bias** **exaggerates** differences between groups (e.g. genders or cultures); **beta bias** **minimises or ignores** them [1] [1]. Ainsworth's Strange Situation was developed in the **US** and then applied elsewhere **as though it were a culturally universal measure** — an **imposed etic** [1]. Applying this US-derived measure to German infants classified a **higher proportion as insecure-avoidant**, when the behaviour actually reflected a culture that **values early independence**, not genuine attachment insecurity — the measure was biased because it assumed one culture's norm applied everywhere [2].
+
+**9.** Such research can be conducted using **sound, rigorous scientific methods** and therefore be methodologically defensible [1]. However, ethical concern extends beyond how participants in the study itself are treated, to **how the findings will be used, who funds the research, how it is reported, and what policies it might invite** — for example, findings could be misused to justify discrimination against a group even if the original study was conducted properly [2].
 
 ---
 

@@ -27,6 +27,10 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 
 **Reasons for family diversity:** rising divorce rates, secularisation, changing attitudes, women's employment, cohabitation, and later marriage.
 
+**Reasons for the rise in divorce since the 1960s:** changes in the law (the Divorce Reform Act 1969 allowed "irretrievable breakdown", and later reforms made divorce cheaper and simpler, making it accessible rather than more common in reality); secularisation and weaker stigma; **women's economic independence**, which reduces the financial trap of an unhappy marriage; and **higher expectations of marriage** itself, so couples are less tolerant of an "empty-shell" relationship.
+
+**Consequences for family structure:** more **lone-parent families** (mostly headed by women, associated with higher poverty risk); more **reconstituted families**, creating step-relationships as people remarry or cohabit; and more **single-person households**.
+
 ## Perspectives on the family
 
 | Perspective | View |
@@ -54,7 +58,7 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 - **Outside school:** material deprivation (housing, diet, equipment, study space), cultural deprivation (parental attitudes, language codes), **cultural capital** (middle-class knowledge and confidence that schools reward).
 - **Inside school:** **labelling** against the "ideal pupil", the **self-fulfilling prophecy**, setting and streaming, and pro- and anti-school subcultures.
 
-**Cultural deprivation theory is criticised for blaming the victim** — it treats working-class culture as deficient rather than different, and overlooks material barriers.
+**Cultural deprivation theory is criticised for blaming the victim** — it treats working-class culture as deficient rather than different, and overlooks material barriers. **Bernstein's elaborated versus restricted code** is the specific mechanism often examined: schools use an elaborated code (context-independent, grammatically complex) that middle-class pupils are already familiar with from home, putting working-class pupils using a restricted code at an immediate disadvantage in lessons and assessment.
 
 **Gender:** girls now outperform boys, explained by feminism, changing aspirations, equal-opportunity policies, and a crisis of masculinity as traditional male manual work declines. Yet **subject choice remains gendered**, shaped by socialisation, peer pressure and career advice — the paradox that makes a good essay.
 

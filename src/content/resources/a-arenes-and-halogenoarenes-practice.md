@@ -63,6 +63,15 @@ Related: [Arenes and Halogenoarenes study guide](/resources/a-arenes-and-halogen
 
 **9.** Predict and explain the position(s) at which nitration would occur on benzoic acid (C₆H₅COOH). **[3]**
 
+**10.** State the reagents and conditions for the Friedel-Crafts acylation of benzene with CH₃COCl, and name the organic product. **[2]**
+
+**11.** State the reagents and conditions needed to fully hydrogenate benzene, and explain why this reaction (unlike halogenation or nitration) proceeds by addition rather than substitution. **[3]**
+
+**12.** Methylbenzene is oxidised using hot alkaline KMnO₄ followed by dilute acid.
+
+**(a)** Name the organic product. **[1]**
+**(b)** Predict and explain the position(s) at which further nitration of this product would occur. **[2]**
+
 ---
 
 ## Answers
@@ -88,6 +97,13 @@ Related: [Arenes and Halogenoarenes study guide](/resources/a-arenes-and-halogen
 **(b)** The carbon bonded to Cl is part of the delocalised aromatic ring itself [1], so a nucleophile attacking that carbon would have to disrupt the ring's aromatic stabilisation, which is energetically very costly [1].
 
 **9.** Nitration would occur mainly at the 3-position [1]. The –COOH group withdraws electron density from the ring (by induction and its own delocalisation pulling electron density away) [1], deactivating the ring and leaving the 3-position comparatively the most electron-rich of the available positions for the electrophile to attack [1].
+
+**10.** CH₃COCl with an **AlCl₃ catalyst, heat** [1]; the organic product is **phenylethanone** [1].
+
+**11.** **H₂ gas with a platinum or nickel catalyst, and heat** [1]. This proceeds by **addition** because it fully saturates the ring, converting it into cyclohexane; this needs a strong catalyst and heat precisely because disrupting the ring's delocalised π system is energetically costly, unlike halogenation or nitration, where substitution allows the ring's aromatic stabilisation to be restored after only briefly being disrupted [2].
+
+**12. (a)** **Benzoic acid** [1].
+**(b)** Nitration would occur mainly at the **3-position** [1], since the –COOH group already present **withdraws electron density from the ring**, deactivating it and leaving the 3-position comparatively the most electron-rich of the available positions [1].
 
 ---
 

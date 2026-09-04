@@ -47,6 +47,17 @@ Related: [Data Processing and Information revision notes](/resources/a-ict-data-
 
 **6.** Explain **four** principles that data protection legislation typically places on organisations holding personal data. **[8]**
 
+## Section C
+
+**7.** Distinguish between static and dynamic data, giving an example of each. **[2]**
+
+**8.** A researcher can either run their own survey or use existing census data.
+
+**(a)** State whether each is a direct or an indirect data source. **[2]**
+**(b)** Explain **one** advantage and **one** disadvantage of using the census data instead of running a new survey. **[4]**
+
+**9.** Explain why payroll processing typically uses batch processing rather than real-time processing, and explain why an autopilot system could not use batch processing instead. **[4]**
+
 ---
 
 ## Answers
@@ -65,6 +76,13 @@ Advantages: **reduced data redundancy** — each fact is stored once, saving sto
 **5. Primary key** — a field (or combination) that **uniquely identifies each record in a table**; no two records may share it and it cannot be null [1] [1]. **Foreign key** — a field in one table that **refers to the primary key of another table**, creating the relationship between them [1] [1]. **Referential integrity** — the rule that a **foreign key value must always match an existing primary key value** in the related table [1], which prevents "orphan" records such as an order attached to a customer who does not exist [1].
 
 **6.** Any four, 2 marks each: data must be **processed lawfully and fairly**, with the subject informed of how it will be used [1] [1]. It must be collected for **specified, explicit purposes and not used for anything incompatible** with them [1] [1]. It must be **adequate, relevant and limited to what is necessary** — organisations should not collect data "just in case" [1] [1]. It must be **accurate and kept up to date**, with inaccuracies corrected or erased [1] [1]. It must **not be kept longer than necessary** [1] [1]. It must be **kept secure against unauthorised access, loss or damage**, using encryption, access controls and backups [1] [1].
+
+**7. Static** data does not change once recorded, e.g. a date of birth [1]. **Dynamic** data changes automatically as its source updates, e.g. a live share price or a sensor reading [1].
+
+**8. (a)** The researcher's own survey is a **direct** source [1]; the census data is an **indirect** source, since it was collected for a different original purpose [1].
+**(b)** Any one advantage: the census data is **cheap and immediately available**, and often covers a very large sample [1] [1]. Any one disadvantage: it **may be out of date, in the wrong format for the researcher's needs, or carry an unknown bias**, since it was not designed for this specific research question [1] [1].
+
+**9.** Payroll involves a **large volume of similar transactions with no urgency**, so it can be collected and processed together in a scheduled batch, e.g. overnight when the system is otherwise idle [2]. An **autopilot is a real-time control system**, where the output (an adjustment to the aircraft's controls) must feed back to influence the very next input **immediately** — a delay of even a few seconds while data is batched would be unsafe, since the system must respond continuously to changing conditions [2].
 
 ---
 

@@ -51,6 +51,8 @@ relative atomic mass = sum of (isotope mass x abundance) / 100
 
 That weighted average is why relative atomic masses are rarely whole numbers.
 
+**Worked example.** Chlorine has two isotopes, ³⁵Cl (75%) and ³⁷Cl (25%). Relative atomic mass = (35 × 75 + 37 × 25) ÷ 100 = (2625 + 925) ÷ 100 = **35.5**.
+
 ## Electron configuration
 
 Shells fill **2, 8, 8**.
@@ -82,7 +84,7 @@ Melting and boiling points **increase** down the group (larger molecules, strong
 
 The reason is the same physics applied to the opposite process: a halogen must **gain** an electron, and further down the group the outer shell is further from the nucleus with more shielding, so an incoming electron is attracted **less** strongly.
 
-**Displacement:** a more reactive halogen displaces a less reactive one from solution — chlorine displaces bromine, bromine displaces iodine.
+**Displacement:** a more reactive halogen displaces a less reactive one from solution — chlorine displaces bromine, bromine displaces iodine. **Worked observation:** adding chlorine water to potassium iodide solution, the more reactive chlorine displaces the less reactive iodide, and the colourless solution turns **brown** as iodine forms.
 
 ## Group 0 — noble gases
 
@@ -99,6 +101,8 @@ Unreactive because they have **full outer shells**, so there is no tendency to l
 | **Chromatography** | Substances by **different solubility** in the solvent |
 
 **Choose by the property being exploited** — solubility, particle size, or boiling point. Naming the technique without the property is a partial answer.
+
+**Worked example — sand and salt solution.** To get **dry sand**, use **filtration**: the insoluble sand is trapped by the filter paper, exploiting the difference in **particle size** between the solid and the solution. To get **pure, dry salt crystals** from the filtered solution, use **crystallisation**: heat to evaporate some of the water, then leave the rest to crystallise, exploiting the fact that a solution's **solubility falls as it becomes more concentrated**.
 
 ## Exam traps
 

@@ -45,6 +45,14 @@ Related: [Computer Systems revision notes](/resources/igcse-ict-computer-systems
 
 **6.** Explain the difference between a wired and a wireless network, giving one advantage of each, and explain the role of a router. **[6]**
 
+## Section C
+
+**7.** Distinguish between a health risk and a safety risk of using computers, giving **one** example of each with its prevention. **[4]**
+
+**8.** Explain **two** effects that increased use of ICT has had on employment. **[4]**
+
+**9.** A company introduces teleworking for its staff. Explain **one** benefit and **one** drawback of this working pattern. **[4]**
+
 ---
 
 ## Answers
@@ -67,6 +75,12 @@ Related: [Computer Systems revision notes](/resources/igcse-ict-computer-systems
 
 **6.** A **wired network** connects devices by cable; a **wireless network** connects them by radio [1]. Wired advantage: **faster, more reliable and more secure**, since the signal cannot be intercepted from outside the building [1]. Wireless advantage: **devices can move freely and no cabling is needed**, so it is cheaper to install and more flexible [1].
 A **router** connects the local network to another network, usually the internet [1]; it **examines the destination address of each data packet and forwards it along the best route** [1], and typically also provides the firewall, DHCP addressing and wireless access point functions [1].
+
+**7.** A **health risk** is a **long-term physical effect** of computer use [1], e.g. **RSI**, prevented by a wrist rest, correct posture and regular breaks [1]. A **safety risk** is an **immediate danger** [1], e.g. **electrocution**, prevented by not overloading sockets and keeping drinks away from equipment [1].
+
+**8.** Any two, 2 marks each: jobs have been **lost in repetitive manual and clerical roles** as these are automated [1] [1]; jobs have been **created in IT support, network management and software development**, so the effect is a change in the type of work available rather than a simple net loss [1] [1]; workers in surviving roles often need **retraining** to keep the skills their job now requires [1] [1].
+
+**9.** Benefit: teleworking removes the **need to commute**, and gives staff **greater flexibility** over when and where they work, which can also lower the company's office costs [2]. Drawback: it can cause **isolation** from colleagues, more **distraction** at home, and difficulty **separating work from home life** [2].
 
 ---
 

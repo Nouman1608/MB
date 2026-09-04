@@ -42,6 +42,18 @@ Related: [The Role of the Accountant revision notes](/resources/aqa-a-level-acco
 
 **6.** Evaluate the view that financial statements prepared under the historic cost convention are of limited use during a period of high inflation. **[10]**
 
+## Section C
+
+**7.** State **three** different users of financial statements and what each is primarily interested in. **[6]**
+
+**8.** Explain how shareholders' and lenders' interests can conflict over the treatment of profit, and why this matters for the accounts prepared. **[4]**
+
+**9.** A business pays $12,000 rent on 1 October for the year ahead. Its year end is 31 December.
+
+**(a)** Calculate the rent expense to charge to the income statement for the year. **[2]**
+**(b)** Calculate the prepayment to show in the statement of financial position, and state which type of asset it is. **[2]**
+**(c)** Explain which accounting concept requires this treatment rather than charging the full $12,000 as an expense. **[2]**
+
 ---
 
 ## Answers
@@ -61,6 +73,14 @@ Related: [The Role of the Accountant revision notes](/resources/aqa-a-level-acco
 **6. Arguments that they are of limited use:** **assets bought years ago are shown at cost, which is far below their current value**, so the statement of financial position understates the true worth of the business [1]; **depreciation is charged on understated cost**, so the charge is too low and **profit is overstated** [1]; **comparing this year's revenue with last year's** is misleading, since part of any increase is simply inflation rather than real growth [1]; distributing the overstated profit as dividends can leave the business **unable to replace its assets at current prices** [1].
 **Arguments that they remain useful:** historic cost is **objective and verifiable**, based on documented transactions rather than opinion [1]; current value accounting introduces **subjective valuations that are open to manipulation and expensive to obtain** [1]; the statements are still **comparable with those of other businesses using the same convention** [1]; users can **adjust for inflation themselves** if the rate is known [1].
 **Judgement:** the usefulness depends on **the rate of inflation and the age and composition of the asset base** [1]. With low inflation and mainly short-lived assets the distortion is minor; with sustained high inflation and long-held property the accounts can be seriously misleading, and supplementary current-value disclosures are needed [1].
+
+**7.** Any three, 2 marks each: **owners/shareholders** — interested in profitability and return on investment [1] [1]; **managers** — interested in performance, planning and control [1] [1]; **lenders** — interested in liquidity and gearing, i.e. whether the business can repay [1] [1]; **suppliers** — interested in creditworthiness before granting credit [1] [1]; **employees** — interested in job security and the ability to pay wages [1] [1].
+
+**8.** Shareholders may want **profit paid out now as dividends**, since that is their direct return [1], while lenders prefer **profit retained in the business**, strengthening the statement of financial position and improving the odds that the loan will be repaid [1]. This matters because a single set of accounts must serve both users, and how a business chooses to use its profit (distribute versus retain) can favour one group over the other even though the reported profit figure is identical [2].
+
+**9. (a)** Only 3 months of the year (October–December) fall within the year of payment: 12,000 × 3/12 = **$3,000** [2].
+**(b)** The remaining 9 months are paid in advance: 12,000 × 9/12 = **$9,000**, shown as a **prepayment**, which is a **current asset** [2].
+**(c)** The **matching (accruals) concept** requires that only the expense relating to the period actually covered by the accounts is charged to the income statement, regardless of when the cash was paid — charging the full $12,000 would understate profit for the year and overstate it for the following year [2].
 
 ---
 
