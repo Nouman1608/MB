@@ -53,7 +53,9 @@ Atomic number = protons; mass number = protons + neutrons; neutrons = mass numbe
 relative atomic mass = sum of (isotope mass x abundance) / 100
 ```
 
-That weighted average is why relative atomic masses are not whole numbers.
+That weighted average is why relative atomic masses are not whole numbers. **Chlorine** is the standard example: it exists as two isotopes, chlorine-35 and chlorine-37, and its relative atomic mass of 35.5 is the weighted average of the two, allowing for how abundant each isotope actually is — not a simple average of 35 and 37.
+
+Atoms and small molecules have a typical radius on the order of **10⁻¹⁰ metres**, a scale worth recalling directly since questions may ask you to compare it with other sizes, such as a human hair or a bacterium.
 
 ## Electron configuration
 

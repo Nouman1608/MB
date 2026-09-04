@@ -43,6 +43,10 @@ Related: [Introducing Sociology revision notes](/resources/oxfordaqa-a-level-soc
 
 **6.** Evaluate the view that sociology can and should be a science. **[12]**
 
+**7.** Distinguish intergenerational from intragenerational social mobility, and explain the cycle of deprivation. **[6]**
+
+**8.** Explain what is meant by the "dual burden" and "triple shift" in relation to gender inequality, and outline the postmodernist view that class identity has fragmented. **[8]**
+
 ---
 
 ## Answers
@@ -64,6 +68,10 @@ Related: [Introducing Sociology revision notes](/resources/oxfordaqa-a-level-soc
 **Against:** **interpretivists** argue that people have **consciousness and act on meanings**, unlike the objects of natural science, so behaviour cannot be reduced to cause and effect [1] [1]; **laboratory experiments are impossible** for practical and ethical reasons, so the key scientific method is unavailable [1]; the sociologist is **part of the society being studied**, so complete objectivity is unattainable and values inevitably influence the choice of topic and interpretation [1]; **Kuhn** argued sociology lacks a single agreed **paradigm**, having many competing perspectives, and is therefore pre-scientific [1].
 **Judgement:** much depends on **what is meant by "science"** [1]. If science requires laboratory experiment and universal laws, sociology cannot qualify [1]. If it means **systematic, evidence-based, self-critical enquiry open to falsification**, sociology can meet the standard [1]. Whether it *should* aspire to science is a separate question — some argue the attempt sacrifices the understanding of meaning that is sociology's distinctive contribution [1].
 
+**7. Intergenerational** mobility compares an individual's social position with that of their parents [1]; **intragenerational** mobility compares stages within a person's own career, such as being promoted over time [1]. The **cycle of deprivation** describes how disadvantage reproduces across generations: poor housing and diet lead to poor health and educational outcomes, which lead to low-paid, insecure work, which reproduces poverty in the next generation, restarting the cycle [1] [1] [1] [1].
+
+**8.** The **dual burden** refers to women who take on paid employment while remaining primarily responsible for domestic labour and childcare, effectively working two jobs [1] [1]. The **triple shift** extends this further to include a third form of unpaid work — **emotion work**, managing the family's emotional wellbeing — alongside paid work and domestic labour [1] [1]. **Postmodernists** argue that class, gender and national identity have **fragmented**: identity is increasingly **chosen and fluid** rather than fixed by structural position, and grand theories built around a single structural factor such as class no longer adequately explain identity in a media-saturated, consumer-driven society [1] [1].
+
 ---
 
 ## Where marks are usually lost
@@ -72,3 +80,5 @@ Related: [Introducing Sociology revision notes](/resources/oxfordaqa-a-level-soc
 - Describing Durkheim's study without the concept of social facts.
 - Giving practical factors when theoretical ones are asked for.
 - Not defining "science" before judging whether sociology qualifies.
+- Discussing social mobility or the cycle of deprivation without naming the specific mechanism linking one stage to the next.
+- Treating postmodernism's fragmentation thesis as simply "class no longer matters" rather than as a specific claim about identity becoming chosen and fluid.

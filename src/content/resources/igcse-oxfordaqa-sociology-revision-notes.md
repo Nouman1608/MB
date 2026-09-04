@@ -38,6 +38,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Subculture** — a group with distinct norms within a wider society. **Counter-culture** — one actively opposed to the mainstream.
 
+**The main sociological perspectives:**
+
+| Perspective | Core idea | Main criticism |
+|---|---|---|
+| **Functionalism** | Institutions work together for stability through shared values | Ignores conflict and inequality |
+| **Marxism** | Society is shaped by class conflict over economic resources | Over-emphasises economics |
+| **Feminism** | Society is patriarchal, organised in men's interests | Treated as though all women share one experience |
+| **Interactionism** | Society is built from the meanings people give situations | Neglects structural constraints |
+
+Functionalism and Marxism are both **structural** theories, starting from society as a whole; interactionism is a **social action** theory, starting from the individual. Calling functionalism a micro theory is a common error — it is macro, like Marxism.
+
 ## Identity
 
 Shaped by **gender, ethnicity, social class, age, nationality and religion** — each transmitted through the agencies of socialisation.

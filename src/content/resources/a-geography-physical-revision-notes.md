@@ -40,6 +40,8 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Urbanisation is the standard case:** tarmac prevents infiltration, drains deliver water to the channel rapidly, and vegetation is removed — so lag time falls and peak discharge rises. That is why flash flooding is an urban problem.
 
+**Antecedent conditions** are worth a category of their own: soil already saturated from earlier rainfall has no remaining storage capacity, so a following storm behaves as though the ground were impermeable, regardless of the underlying rock type. A named rock contrast strengthens an answer here — impermeable clay or granite gives a flashy hydrograph, while permeable chalk gives a flatter one with a longer lag, since water can infiltrate and be released more gradually.
+
 ## Channel processes and landforms
 
 **Erosion:** hydraulic action, abrasion, attrition, solution.

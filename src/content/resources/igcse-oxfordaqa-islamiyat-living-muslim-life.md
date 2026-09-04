@@ -79,6 +79,8 @@ The Pillars are the framework of practice, and questions ask both what each invo
 
 Conditions and exemptions matter: Salah has prescribed times and requires wudu; Zakat applies only above the **nisab** threshold; Sawm exempts the ill, travelling, pregnant, nursing and elderly; Hajj requires both physical and financial capability.
 
+**Hajj is made up of specific rites, and questions often ask for these by name rather than for a general description.** Pilgrims enter **Ihram** — a state of purity marked by simple white garments — before performing **Tawaf** (seven circuits of the Ka'bah) and **Sa'i** (walking between the hills of Safa and Marwah). Standing at **Arafat** is the essential rite, commemorating the Prophet's Farewell Sermon; pilgrims then stone the pillars at Mina and make the sacrifice. The white ihram garments carry the central meaning behind the whole pilgrimage: because every pilgrim dresses identically, wealth and status become invisible, so all stand equal before God -- that symbolism, not just the list of rites, is what a full-mark "explain the significance of Hajj" answer needs to reach.
+
 ## Articles of faith
 
 Six beliefs shape the Muslim worldview: **tawhid** (the oneness of God), belief in the **angels**, the revealed **books**, the **prophets**, the **Day of Judgement**, and **al-qadr** (divine decree).
@@ -87,7 +89,7 @@ Tawhid is the foundation, and its opposite — **shirk**, associating partners w
 
 ## Worship, festivals and daily life
 
-Beyond the Pillars: the mosque as a place of prayer, learning and community; **Jummah** congregational prayer on Friday; **du'a** as personal supplication, distinct from the prescribed Salah; and recitation of the Qur'an.
+Beyond the Pillars: the mosque as a place of prayer, learning and community; **Jummah** congregational prayer on Friday; **du'a** as personal supplication, distinct from the prescribed Salah; and recitation of the Qur'an. The five daily prayers -- **Fajr** (dawn), **Zuhr** (midday), **Asr** (afternoon), **Maghrib** (sunset) and **Isha** (night) -- are performed facing the **Qiblah**, the direction of the Ka'bah in Makkah, in sequences of movements and recitations called **rak'ahs**. Jummah's significance is specifically communal: it unites the community and provides shared teaching through the khutbah, which an individual's private prayer does not.
 
 **Eid-ul-Fitr** marks the end of Ramadan, with zakat-ul-fitr given before the prayer. **Eid-ul-Adha** falls during Hajj and commemorates Ibrahim's willingness to sacrifice his son, the qurbani meat traditionally shared in three parts — family, relatives and the poor.
 

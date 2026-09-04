@@ -107,6 +107,20 @@ material (exposure stops once the source is removed). Both carry risks
 including cell mutation and tissue damage; radioactive waste disposal
 carries its own long-term risk that must be managed.
 
+## Uses of radioactivity
+
+Choosing the right source for an application means matching penetrating
+power to the job. **Monitoring the thickness of paper or foil** uses a
+**beta** source: alpha would be completely absorbed regardless of
+thickness, and gamma would pass through almost unaffected, so neither
+would respond to a change in thickness — only beta is partly absorbed,
+so the count rate reaching the detector varies as the material's
+thickness changes. A **medical tracer** injected into the body uses a
+**gamma** source, since gamma penetrates tissue well enough to be
+detected from outside the body; such tracers are also chosen with a
+**short half-life**, so their activity falls away quickly and limits the
+patient's overall radiation exposure.
+
 ## Nuclear fission
 
 **Nuclear fission** splits a heavy nucleus (e.g. uranium-235) into two

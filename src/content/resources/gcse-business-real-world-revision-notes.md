@@ -95,6 +95,8 @@ A business plan contains the business idea, aims and objectives, target market a
 
 **Its two purposes are distinct:** it secures **finance** from lenders and investors, and it forces the owner to think through risks before committing money. Plans can become out of date quickly and are based on forecasts that may prove wrong — a fair evaluation says so.
 
+**A business plan is still valuable even for a self-funding entrepreneur** who is not seeking external finance: it forces them to think through practical detail before committing their own money, reducing the risk of costly mistakes, and it lets them judge for themselves whether the idea is genuinely financially viable rather than relying on optimism alone.
+
 ## Exam traps
 
 - Confusing added value with profit.

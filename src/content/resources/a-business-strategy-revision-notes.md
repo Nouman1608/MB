@@ -61,6 +61,15 @@ Choose the branch with the highest net gain.
 
 **Evaluation is where the marks are:** the probabilities are estimates, often subjective; the model ignores qualitative factors such as staff morale and brand reputation; it assumes outcomes are known and quantifiable; and it takes no account of the timing of returns. It is a decision *aid*, not a decision.
 
+**Worked example.** Option A costs £50,000, with 0.6 probability of £200,000 and 0.4 probability of £20,000. Option B costs £30,000, with 0.7 probability of £100,000 and 0.3 probability of £10,000.
+
+```
+A: EV = (0.6 x 200 000) + (0.4 x 20 000) = 128 000    net gain = 128 000 - 50 000 = 78 000
+B: EV = (0.7 x 100 000) + (0.3 x 10 000) =  73 000    net gain =  73 000 - 30 000 = 43 000
+```
+
+Option A is recommended, since its net gain (£78,000) exceeds Option B's (£43,000).
+
 ## Investment appraisal
 
 ```
@@ -78,6 +87,16 @@ NPV = sum of discounted cash flows - initial investment
 **NPV is theoretically strongest** because a pound received in five years is worth less than a pound today, and only NPV reflects that. But the discount rate chosen changes the answer, so the result is only as good as that assumption.
 
 **Positive NPV means accept**; negative means reject.
+
+**Worked example.** A project needs an initial investment of £100,000 and generates £40,000 cash flow in each of the next four years.
+
+```
+Payback = 100 000 / 40 000 = 2.5 years
+Total profit = (40 000 x 4) - 100 000 = 60 000    average annual profit = 60 000/4 = 15 000
+ARR = (15 000 / 100 000) x 100 = 15%
+```
+
+Neither payback nor ARR discounts these cash flows, so both treat a pound received in year four as equally valuable as a pound received now — which is exactly what NPV corrects for.
 
 ## Risk and uncertainty
 

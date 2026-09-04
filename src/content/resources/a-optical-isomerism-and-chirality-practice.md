@@ -69,6 +69,10 @@ Related: [Optical Isomerism and Chirality revision notes](/resources/a-optical-i
 
 **(b)** State what would be observed if plane polarised light were passed through this racemic product. **[1]**
 
+**9.** State the terms used to describe a single pure enantiomer that rotates plane polarised light clockwise, and one that rotates it anticlockwise. **[2]**
+
+**10.** A molecule contains two separate chiral centres. State whether this molecule can still be described using the terms "chiral centre" and "enantiomer" from this topic, and state one term relating to stereoisomerism that is **not** required at this level for such a molecule. **[2]**
+
 ---
 
 ## Answers
@@ -99,6 +103,10 @@ Related: [Optical Isomerism and Chirality revision notes](/resources/a-optical-i
 **8. (a)** The reaction creates a **new chiral centre** at C2 [1]. The intermediate the bromide ion attacks is **planar**, so it can be attacked from **either face with equal probability** [1], since nothing in the non-chiral starting materials or reagents favours one face — this gives **equal amounts of both enantiomers** [1].
 
 **(b)** **No (net) optical activity is observed** — the plane of polarisation is not rotated. [1]
+
+**9.** An enantiomer that rotates plane polarised light **clockwise** is **dextrorotatory** [1]; one that rotates it **anticlockwise** is **laevorotatory** [1].
+
+**10.** Yes — each of the two chiral centres is still identified and described using "chiral centre" and "enantiomer" in the normal way [1]. The term **not** required at this level is **diastereoisomer** (the relationship between stereoisomers that are not mirror images of each other), along with classifying compounds as **meso** [1].
 
 ---
 

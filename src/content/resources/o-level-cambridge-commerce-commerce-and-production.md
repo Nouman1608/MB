@@ -100,6 +100,8 @@ Its costs are equally examinable: repetitive work is demotivating, craftsmanship
 
 Specialisation operates at four levels: by country, by region, by town, and by firm or worker.
 
+**The logical chain worth stating explicitly** in an extended answer: specialisation, at whatever level, increases output, quality or efficiency, but it also means a worker, firm, town, region or country produces far more of one thing and far less of everything else it needs — creating **interdependence**. Interdependence, in turn, is exactly what makes **exchange** necessary, and commerce (trade plus its aids) is the mechanism that makes exchange possible across distance and time. Tracing this chain explicitly — specialisation → interdependence → the necessity of commerce — earns more than treating specialisation and commerce as two separate topics that happen to sit in the same syllabus section.
+
 ## Worked example
 
 A cotton farmer in Punjab sells raw cotton to a textile mill, which weaves cloth and sells it to a wholesaler, who supplies retailers nationwide. Identify the stages and the utilities created.
