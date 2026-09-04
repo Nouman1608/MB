@@ -48,6 +48,18 @@ Related: [Molecules, Transport and Health revision notes](/resources/edexcel-a-l
 **(a)** Explain why this does not prove that cholesterol causes heart attacks. **[2]**
 **(b)** State **three** other risk factors for cardiovascular disease and explain one of them. **[4]**
 
+## Section C
+
+**7.** Explain why haemoglobin's oxygen dissociation curve is sigmoid (S-shaped) rather than a straight line. **[2]**
+
+**8.** Explain the Bohr effect and why it is beneficial in actively respiring tissue. **[3]**
+
+**9.** Explain how fetal haemoglobin's dissociation curve differs from adult haemoglobin's, and why this allows the fetus to obtain oxygen from the mother's blood. **[3]**
+
+**10.** A patient is prescribed a statin. Explain how statins reduce cardiovascular risk, and state one drawback that must be weighed against this benefit. **[3]**
+
+**11.** Describe the food test for a reducing sugar, including the positive result. **[3]**
+
 ---
 
 ## Answers
@@ -67,6 +79,16 @@ Related: [Molecules, Transport and Health revision notes](/resources/edexcel-a-l
 
 **6. (a)** This is a **correlation, not causation** [1]; a **third factor such as diet, obesity or lack of exercise could be causing both** the raised cholesterol and the heart attacks [1].
 **(b)** Any three: **smoking**, **high blood pressure**, **obesity**, **lack of exercise**, **diet high in saturated fat**, **age**, **genetic predisposition** [1] [1] [1]. Explanation, e.g. **smoking** — carbon monoxide **reduces the oxygen-carrying capacity of haemoglobin** and nicotine raises blood pressure, both increasing the strain on the heart and the risk of endothelial damage [1].
+
+**7.** Binding of the **first oxygen molecule changes haemoglobin's quaternary structure** [1], making it easier for further oxygen molecules to bind — **cooperative binding** — so the curve rises steeply once binding begins rather than in a straight line [1].
+
+**8.** A higher concentration of carbon dioxide, as found in actively respiring tissue, **shifts the dissociation curve to the right** [1], meaning haemoglobin holds oxygen **less tightly** at a given oxygen partial pressure [1]. This means haemoglobin **releases more oxygen exactly where it is needed most** — in tissue that is respiring rapidly [1].
+
+**9.** Fetal haemoglobin has a **higher affinity for oxygen** at any given partial pressure, so its curve sits to the **left** of the adult curve [1]. This allows the fetus to take oxygen from the mother's blood across the placenta, where the oxygen partial pressure is **too low** for maternal haemoglobin to release much oxygen [1] but still high enough for fetal haemoglobin to **load** it [1].
+
+**10.** Statins **inhibit an enzyme in the liver involved in cholesterol synthesis** [1], lowering blood LDL cholesterol and reducing the cholesterol available to **form atheromas** [1]. This benefit must be weighed against **side effects such as muscle pain** [1].
+
+**11.** Heat the sample with an excess of **Benedict's reagent** in a water bath [1]; a positive result is a colour change from blue through green and orange to a **brick-red precipitate** of copper(I) oxide [1], and the test can be made semi-quantitative by comparing colours or timing the change [1].
 
 ---
 

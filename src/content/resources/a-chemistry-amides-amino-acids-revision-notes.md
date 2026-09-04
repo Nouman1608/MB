@@ -35,12 +35,16 @@ RCOCl + NH3      ->  RCONH2  (primary amide)
 RCOCl + R'NH2    ->  RCONHR' (N-substituted amide)
 ```
 
-**Amides are neutral, not basic**, even though they contain nitrogen. The lone pair on the nitrogen is **delocalised into the adjacent C=O group**, so it is not available to accept a proton. That is the standard "why is an amide not basic like an amine" question, and delocalisation is the answer.
+**Amides are neutral, not basic**, even though they contain nitrogen. The lone pair on the nitrogen is **delocalised into the adjacent C=O group**, so it is not available to accept a proton. That is the standard "why is an amide not basic like an amine" question, and delocalisation is the answer. This delocalisation does two things at once: it makes the lone pair far less available to bond to an incoming H⁺, and it is also **stabilising** for the neutral amide itself, so there is an extra energetic cost to protonating the nitrogen and disrupting that stabilisation.
 
 **Hydrolysis:**
 
 - Acid hydrolysis → carboxylic acid + ammonium salt.
 - Alkaline hydrolysis → carboxylate salt + ammonia.
+
+**Worked equations:** CH₃CONH₂ + NaOH → CH₃COONa + NH₃ (alkaline hydrolysis); CH₃CONH₂ + H₂O + HCl → CH₃COOH + NH₄Cl (acid hydrolysis).
+
+**Reduction:** LiAlH₄ reduces the C=O of an amide specifically to give an amine — CH₃CONH₂ →[LiAlH₄] CH₃CH₂NH₂. This is one of the standard amine-production routes.
 
 ## Amino acids
 
@@ -63,13 +67,15 @@ General formula `H₂NCHRCOOH` — an amine group and a carboxylic acid group on
 
 **The isoelectric point** is the pH at which the amino acid exists as the zwitterion with no net charge. Because it differs between amino acids, it is the basis of separation by **electrophoresis** — apply a voltage at a chosen pH and each amino acid migrates differently.
 
+**Predicting the direction of migration at a given pH:** a species whose isoelectric point is **below** that pH carries a net **negative** charge and migrates to the **anode**; a species whose isoelectric point is **above** that pH carries a net **positive** charge and migrates to the **cathode**; a species at exactly its isoelectric point carries no net charge and does not migrate.
+
 **Amino acids are chiral** (except glycine, whose R group is H, so it has no four different groups). Naturally occurring amino acids are almost exclusively the L-form.
 
 ## Peptides and proteins
 
 The **peptide bond** `–CONH–` forms by condensation between the amine group of one amino acid and the carboxyl group of another, releasing water.
 
-**Hydrolysis** with hot 6 mol dm⁻³ HCl breaks a protein back into its constituent amino acids.
+**Hydrolysis** with hot 6 mol dm⁻³ HCl breaks a protein back into its constituent amino acids, reversing every peptide bond in the chain.
 
 **Protein structure:**
 
@@ -95,5 +101,7 @@ The **peptide bond** `–CONH–` forms by condensation between the amine group 
 3. Define the isoelectric point and give its practical use.
 4. Which amino acid is achiral, and why?
 5. Name the four interactions holding tertiary structure.
+6. Write the equation for the alkaline hydrolysis of ethanamide, and name the products.
+7. An amino acid has an isoelectric point of 6.0. Predict its direction of migration in electrophoresis at pH 9.0.
 
-**Answers:** 1. The nitrogen lone pair is delocalised into the adjacent carbonyl group, so it is not available to accept a proton. 2. A species with both a positive and a negative charge but no overall charge, formed by internal proton transfer; the strong ionic attractions between zwitterions require much more energy to overcome than ordinary intermolecular forces. 3. The pH at which an amino acid exists as a zwitterion with no net charge; since it varies between amino acids, it allows separation by electrophoresis. 4. Glycine — its R group is a hydrogen atom, so the central carbon does not carry four different groups. 5. Hydrogen bonds, ionic attractions between charged R groups, disulfide bridges, and hydrophobic interactions.
+**Answers:** 1. The nitrogen lone pair is delocalised into the adjacent carbonyl group, so it is not available to accept a proton. 2. A species with both a positive and a negative charge but no overall charge, formed by internal proton transfer; the strong ionic attractions between zwitterions require much more energy to overcome than ordinary intermolecular forces. 3. The pH at which an amino acid exists as a zwitterion with no net charge; since it varies between amino acids, it allows separation by electrophoresis. 4. Glycine — its R group is a hydrogen atom, so the central carbon does not carry four different groups. 5. Hydrogen bonds, ionic attractions between charged R groups, disulfide bridges, and hydrophobic interactions. 6. CH₃CONH₂ + NaOH → CH₃COONa + NH₃; the products are sodium ethanoate and ammonia. 7. Its isoelectric point (6.0) is below the buffer pH (9.0), so it carries a net negative charge and migrates towards the anode.

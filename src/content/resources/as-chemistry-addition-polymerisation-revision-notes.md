@@ -31,7 +31,7 @@ Many **alkene monomers** join by opening their **C=C double bonds** to form a si
 n CH2=CH2  ->  -[CH2-CH2]n-
 ```
 
-**Only one product is formed** — the polymer. Nothing is eliminated, which is why **addition polymerisation has 100% atom economy**. That is the standard comparison point against condensation polymerisation.
+**Only one product is formed** — the polymer. Nothing is eliminated, which is why **addition polymerisation has 100% atom economy**: every atom present in the monomers ends up in the polymer chain. That is the standard comparison point against condensation polymerisation, where a small molecule such as water is lost at every linkage.
 
 **Drawing the repeat unit** is the most commonly examined skill:
 
@@ -41,6 +41,12 @@ n CH2=CH2  ->  -[CH2-CH2]n-
 4. Write **n** outside the bracket.
 
 The most frequent errors are keeping the double bond and forgetting the extending bonds through the brackets — both lose the mark even when everything else is correct.
+
+## Worked examples
+
+**Repeat unit from a monomer.** Deduce the repeat unit of the polymer formed from propene, CH₂=CHCH₃. Open the double bond into two single bonds, keeping every atom and the CH₃ side-group exactly where it was: **–[CH₂–CH(CH₃)]ₙ–**.
+
+**Monomer from a polymer section.** A section of an addition polymer is drawn as ...–CH₂–CCl₂–CH₂–CCl₂–CH₂–CCl₂–... Deduce the monomer. The repeating unit is –[CH₂–CCl₂]–; closing the two dangling bonds back into a double bond gives the monomer **CH₂=CCl₂** (1,1-dichloroethene).
 
 ## Common addition polymers
 
@@ -74,7 +80,9 @@ The C–C backbone is **unreactive and non-polar**, with no bonds that enzymes o
 | **Recycling** | Conserves crude oil; reduces waste | Sorting is costly; quality degrades on reprocessing |
 | **Feedstock recycling** | Recovers monomers for reuse | Energy-intensive |
 
-**Burning PVC is the specific hazard** worth naming — the chlorine produces hydrogen chloride, which is corrosive and toxic, so incinerators handling PVC require scrubbers.
+**Feedstock recycling** breaks the polymer back down chemically into its monomers (or other useful small molecules), which can then be used again as a genuine chemical feedstock, rather than simply reshaping the existing plastic as ordinary mechanical recycling does.
+
+**Burning a plain poly(alkene)** like poly(ethene) produces the same products as burning any hydrocarbon (CO₂, CO and soot depending on how complete the combustion is). **Burning PVC is the specific hazard** worth naming — the chlorine produces hydrogen chloride, which is corrosive and toxic, so incinerators handling PVC require scrubbers. Incomplete or poorly controlled combustion of chlorinated plastics can also produce other harmful chlorinated by-products beyond HCl itself, which is why proper flue-gas treatment matters.
 
 ## Exam traps
 
@@ -92,5 +100,7 @@ The C–C backbone is **unreactive and non-polar**, with no bonds that enzymes o
 3. Why does branched poly(ethene) have a lower melting point than the unbranched form?
 4. Why is PVC rigid, and how is it made flexible?
 5. Why are addition polymers non-biodegradable?
+6. Deduce the repeat unit of the polymer formed from propene, CH₂=CHCH₃.
+7. A polymer section is drawn as ...–CH₂–CCl₂–CH₂–CCl₂–... Deduce the monomer.
 
-**Answers:** 1. All the atoms of the monomers end up in the polymer — there is only one product and nothing is eliminated. 2. Open the double bond to a single bond, draw the two backbone carbons, extend a bond from each end through the brackets, and write n outside. 3. Branches prevent the chains from packing closely, so there is less contact area and weaker total induced-dipole attraction between chains. 4. The C–Cl dipoles create permanent dipole–dipole attractions between chains; plasticisers force the chains apart and weaken these attractions. 5. The carbon–carbon backbone is unreactive and non-polar, with no bonds that enzymes or water can attack.
+**Answers:** 1. All the atoms of the monomers end up in the polymer — there is only one product and nothing is eliminated. 2. Open the double bond to a single bond, draw the two backbone carbons, extend a bond from each end through the brackets, and write n outside. 3. Branches prevent the chains from packing closely, so there is less contact area and weaker total induced-dipole attraction between chains. 4. The C–Cl dipoles create permanent dipole–dipole attractions between chains; plasticisers force the chains apart and weaken these attractions. 5. The carbon–carbon backbone is unreactive and non-polar, with no bonds that enzymes or water can attack. 6. –[CH₂–CH(CH₃)]ₙ–, opening the double bond into two single bonds and keeping the CH₃ side-group in place. 7. CH₂=CCl₂ (1,1-dichloroethene), closing the two dangling bonds of the repeating unit –[CH₂–CCl₂]– back into a double bond.

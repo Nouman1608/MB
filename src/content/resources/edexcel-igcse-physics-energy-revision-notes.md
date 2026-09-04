@@ -47,6 +47,19 @@ P = E / t
 
 **Kinetic energy depends on v²**, so doubling speed quadruples it — the reason braking distance rises so sharply with speed.
 
+**Sankey diagrams** represent energy transfers visually, with arrow widths proportional to the amount of energy in each pathway, making the split between useful and wasted energy immediately visible.
+
+**Worked example — efficiency.** A motor is supplied with 500 J of electrical energy and produces 350 J of useful kinetic energy. Efficiency = (350/500) × 100% = **70%**.
+
+**Worked example — work and power.** A crane lifts a 200 kg load through 15 m in 10 s (g = 9.8 N/kg).
+
+```
+W = mgh = 200 x 9.8 x 15 = 29,400 J
+P = W/t = 29,400 / 10  = 2,940 W
+```
+
+Work done equals energy transferred, and **P = W/t** gives the rate of that transfer.
+
 ## Conservation and dissipation
 
 > Energy cannot be created or destroyed, only transferred between stores.
@@ -69,7 +82,7 @@ P = E / t
 
 **Surfaces:** matt black surfaces are the best emitters **and** the best absorbers; shiny silver surfaces are the best reflectors and the poorest emitters. Emission and absorption go together — a good absorber is a good emitter.
 
-**Reducing transfer in a house:** loft insulation and cavity walls trap air (a poor conductor) and prevent convection currents; double glazing does the same; shiny foil behind radiators reflects radiation back.
+**Reducing transfer in a house:** loft insulation and cavity walls trap air (a poor conductor) and prevent convection currents; double glazing does the same; shiny foil behind radiators reflects radiation back into the room instead of letting it escape through the wall.
 
 ## Energy resources
 
@@ -77,9 +90,9 @@ P = E / t
 |---|---|
 | Solar, wind, hydroelectric, tidal, wave, geothermal, biomass | Coal, oil, gas, nuclear |
 
-**Nuclear is non-renewable but not a fossil fuel**, and produces no CO₂ — it belongs in neither simple category, which is worth stating.
+**Nuclear is non-renewable but not a fossil fuel**, and produces no CO₂ during generation — it belongs in neither simple category, which is worth stating explicitly in an exam answer rather than assuming the examiner will infer it.
 
-**Evaluate every resource on four dimensions:** reliability, environmental impact, cost (setup and running), and power output. Wind is clean and renewable but unreliable; gas is reliable and quick to start but emits carbon dioxide; nuclear has high output and no CO₂ but produces long-lived waste and high decommissioning costs.
+**Evaluate every resource on four dimensions:** reliability, environmental impact, cost (setup and running), and power output. Wind is clean and renewable but unreliable; gas is reliable and quick to start but emits carbon dioxide; nuclear has high output and no CO₂ but produces long-lived waste and high decommissioning costs. A well-argued evaluation weighs several of these dimensions together rather than settling the question on just one.
 
 ## Exam traps
 
@@ -97,5 +110,7 @@ P = E / t
 3. Why do metals conduct heat so much better than non-metals?
 4. Why can convection not occur in a solid?
 5. What is the relationship between a surface's absorption and emission?
+6. A motor is supplied with 500 J of electrical energy and produces 350 J of useful kinetic energy. Calculate its efficiency.
+7. A crane lifts a 200 kg load through 15 m in 10 s (g = 9.8 N/kg). Calculate the work done and the power.
 
-**Answers:** 1. They are transfer pathways — ways energy moves between stores — rather than stores themselves. 2. It is transferred to the thermal store of the surroundings, where it becomes spread out and too dilute to be useful; it is not destroyed. 3. They contain delocalised free electrons that move through the structure carrying energy, which is far faster than transfer by particle vibration alone. 4. The particles are fixed in position and cannot move from place to place, which convection requires. 5. A good absorber is also a good emitter — matt black surfaces are best at both, shiny surfaces poorest at both.
+**Answers:** 1. They are transfer pathways — ways energy moves between stores — rather than stores themselves. 2. It is transferred to the thermal store of the surroundings, where it becomes spread out and too dilute to be useful; it is not destroyed. 3. They contain delocalised free electrons that move through the structure carrying energy, which is far faster than transfer by particle vibration alone. 4. The particles are fixed in position and cannot move from place to place, which convection requires. 5. A good absorber is also a good emitter — matt black surfaces are best at both, shiny surfaces poorest at both. 6. efficiency = (350 ÷ 500) × 100% = 70%. 7. W = mgh = 200 × 9.8 × 15 = 29,400 J; P = W/t = 29,400 ÷ 10 = 2,940 W.

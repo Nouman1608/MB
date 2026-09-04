@@ -98,6 +98,27 @@ To find mass deposited: `Q = It`, then `n(e⁻) = Q/F`, then divide by the numbe
 - **Cathode:** the *less* reactive cation (more positive E⦵) is discharged. Metals below hydrogen deposit; metals above it leave H₂ evolved instead.
 - **Anode:** halides are discharged in preference to OH⁻; otherwise O₂ from OH⁻. Concentration also matters — concentrated NaCl gives Cl₂, very dilute gives O₂.
 
+## The Nernst equation
+
+Electrode potential is **not fixed** — it varies with the concentration of the aqueous ions involved:
+
+```
+E = E-standard + (0.059 / z) log([oxidised species] / [reduced species])
+```
+
+where z is the number of electrons transferred. **Qualitatively**, increasing the concentration of the oxidised species (on the left of the reduction half-equation) makes E **more positive**; increasing the concentration of the reduced species makes E **less positive** — consistent with Le Chatelier's principle applied to the half-equilibrium.
+
+## Worked example: electrolysis
+
+A current of 2.00 A is passed through molten CuSO₄ for 3860 s. Calculate the mass of copper deposited. (F = 96,500 C mol⁻¹, A_r(Cu) = 63.5)
+
+```
+Q = It = 2.00 x 3860 = 7720 C
+moles of electrons = Q / F = 7720 / 96500 = 0.0800 mol
+Cu2+ + 2e- -> Cu, so moles of Cu = 0.0800 / 2 = 0.0400 mol
+mass of Cu = 0.0400 x 63.5 = 2.54 g
+```
+
 ## Exam traps
 
 - Subtracting the wrong way and reporting a negative e.m.f. for a spontaneous cell.
@@ -113,5 +134,7 @@ To find mass deposited: `Q = It`, then `n(e⁻) = Q/F`, then divide by the numbe
 3. Calculate E_cell for Zn/Cu.
 4. State the relationship between ΔG and E_cell, and what makes a reaction feasible.
 5. Why is the cathode negative in electrolysis but positive in a galvanic cell?
+6. A current of 2.00 A is passed through molten CuSO₄ for 3860 s. Calculate the mass of copper deposited (F = 96,500 C mol⁻¹, A_r(Cu) = 63.5).
+7. According to the Nernst equation, what happens to E if the concentration of the oxidised species increases?
 
-**Answers:** 1. 0.00 V, by definition — it is the arbitrary reference against which all other electrode potentials are measured. 2. Zinc is the anode (more negative, oxidised); electrons flow externally from zinc to copper. 3. +0.34 − (−0.76) = +1.10 V. 4. ΔG = −nFE_cell; a positive E_cell gives a negative ΔG, so the reaction is thermodynamically feasible. 5. In electrolysis an external supply pushes electrons onto the cathode to drive reduction; in a galvanic cell reduction draws electrons in, making the cathode the positive terminal. Reduction occurs at the cathode in both cases.
+**Answers:** 1. 0.00 V, by definition — it is the arbitrary reference against which all other electrode potentials are measured. 2. Zinc is the anode (more negative, oxidised); electrons flow externally from zinc to copper. 3. +0.34 − (−0.76) = +1.10 V. 4. ΔG = −nFE_cell; a positive E_cell gives a negative ΔG, so the reaction is thermodynamically feasible. 5. In electrolysis an external supply pushes electrons onto the cathode to drive reduction; in a galvanic cell reduction draws electrons in, making the cathode the positive terminal. Reduction occurs at the cathode in both cases. 6. Q = It = 7720 C; moles of electrons = 7720 ÷ 96500 = 0.0800 mol; moles of Cu = 0.0800 ÷ 2 = 0.0400 mol; mass = 0.0400 × 63.5 = 2.54 g. 7. E becomes more positive, since increasing the concentration of the oxidised species shifts the half-equilibrium towards reduction, consistent with Le Chatelier's principle.

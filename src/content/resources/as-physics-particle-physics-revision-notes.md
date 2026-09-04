@@ -26,6 +26,23 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Particle Physics study guide](/resources/as-physics-particle-physics/).
 
+## The nuclear atom and radioactive decay
+
+The **alpha-particle scattering experiment** showed that an atom's mass and positive charge are concentrated in a tiny, dense **nucleus**, with electrons occupying the much larger surrounding space.
+
+**Nucleon number A** is protons plus neutrons; **proton number Z** is protons only. A nuclide is written ᴬZX. Both **nucleon number and charge are conserved** in nuclear processes.
+
+| Radiation | Composition | Mass (u) | Charge |
+|---|---|---|---|
+| α | 2p + 2n (helium nucleus) | 4 | +2 |
+| β⁻ | electron | ~0 | −1 |
+| β⁺ | positron | ~0 | +1 |
+| γ | EM radiation | 0 | 0 |
+
+**Worked example — alpha decay:** ²³⁸₉₂U → ²³⁴₉₀Th + ⁴₂α. Nucleon number balances (238 = 234 + 4) and proton number balances (92 = 90 + 2).
+
+**β particles have a continuous range of energies**, unlike α particles, which are discrete — because a neutrino or antineutrino shares the released energy with the β particle in a variable proportion, whereas an α decay shares a fixed energy release between just two bodies.
+
 ## The standard model
 
 **Fundamental particles cannot be broken down further.** Two families:
@@ -109,5 +126,7 @@ Same mass, **opposite charge and opposite quantum numbers**. Annihilation of a p
 3. What distinguishes a baryon from a meson?
 4. Why was the neutrino postulated?
 5. Which force changes quark flavour, and what process does that explain?
+6. Complete the alpha-decay equation ²³⁸₉₂U → ²³⁴₉₀Th + ? and check it balances.
+7. Why do β particles have a continuous range of energies while α particles have discrete energies?
 
-**Answers:** 1. Quarks and leptons are fundamental; the electron is fundamental, but the proton and neutron are composite. 2. udd gives (+2/3) + (−1/3) + (−1/3) = 0. 3. A baryon consists of three quarks; a meson consists of one quark and one antiquark. 4. Beta decay appeared to violate conservation of energy and momentum because the emitted electron had a range of energies; a neutrino was proposed to carry the missing energy and momentum. 5. The weak force; it explains beta decay, in which a down quark changes to an up quark or vice versa.
+**Answers:** 1. Quarks and leptons are fundamental; the electron is fundamental, but the proton and neutron are composite. 2. udd gives (+2/3) + (−1/3) + (−1/3) = 0. 3. A baryon consists of three quarks; a meson consists of one quark and one antiquark. 4. Beta decay appeared to violate conservation of energy and momentum because the emitted electron had a range of energies; a neutrino was proposed to carry the missing energy and momentum. 5. The weak force; it explains beta decay, in which a down quark changes to an up quark or vice versa. 6. ⁴₂α (an alpha particle); nucleon number balances as 238 = 234 + 4, and proton number balances as 92 = 90 + 2. 7. A neutrino or antineutrino shares the released energy with the β particle in a variable proportion, giving a continuous spread; an α decay shares a fixed energy release between just two bodies, giving a single discrete value.

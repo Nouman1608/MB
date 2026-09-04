@@ -51,6 +51,22 @@ Related: [Data and Its Collection revision notes](/resources/o-level-statistics-
 **(b)** Explain **two** reasons why this sample may not be representative of all adults in the town. **[4]**
 **(c)** Suggest one improvement to the sampling method. **[2]**
 
+## Section C
+
+**5.** A factory has 240 workers in production, 90 in sales and 30 in admin. A stratified sample of 36 workers is required.
+
+**(a)** Calculate how many workers should be sampled from each department. **[3]**
+
+**(b)** Explain how workers within each stratum should then be chosen. **[1]**
+
+**6.** A researcher is designing a questionnaire.
+
+**(a)** State **two** features of well-designed response options. **[2]**
+
+**(b)** Explain why a **pilot survey** is used before the full questionnaire is deployed. **[2]**
+
+**(c)** A student claims that increasing the sample size removes bias from a survey. Explain why this claim is incorrect. **[2]**
+
 ---
 
 ## Answers
@@ -67,6 +83,16 @@ Related: [Data and Its Collection revision notes](/resources/o-level-statistics-
 **4. (a)** Systematic sampling [1].
 **(b)** Any two with explanation: the sample only includes people **near a bookshop**, who are likely to already be more interested in reading than the general adult population, so the results will overstate reading habits [2]; the survey is only conducted on a **Saturday morning**, which excludes adults who work or are unavailable at that time, so the sample may not represent all adults' schedules and habits [2].
 **(c)** Any reasonable improvement, e.g. survey people across several different locations (not just outside a bookshop) and at different times/days, to reduce the bias toward people who are already likely to be readers [2].
+
+**5. (a)** Total = 240 + 90 + 30 = 360; sampling fraction = 36 ÷ 360 = 1/10 [1]. Production: 240 ÷ 10 = **24**; Sales: 90 ÷ 10 = **9**; Admin: 30 ÷ 10 = **3** [2].
+
+**(b)** Within each stratum, workers should be chosen using **simple random sampling** [1] — a stratified sample is still random, just random within groups.
+
+**6. (a)** Any two: response options should be **exhaustive**, covering every possible answer [1]; and **non-overlapping (mutually exclusive)**, so no respondent fits more than one category [1].
+
+**(b)** A pilot survey **tests the instrument before full deployment** [1], identifying unclear wording, ambiguous questions or design problems so they can be fixed before the real data collection, saving time and improving data quality [1].
+
+**(c)** Increasing sample size **reduces sampling error**, making the sample statistic a more precise estimate [1], but it does **not** remove bias — a biased sampling method (such as an incomplete sampling frame or non-response) produces a systematically skewed result regardless of how large the sample is [1].
 
 ---
 
