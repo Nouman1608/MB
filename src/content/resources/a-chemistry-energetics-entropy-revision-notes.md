@@ -74,6 +74,28 @@ delta-H_f  =  sum(atomisation)  +  sum(IE)  +  sum(EA)  +  delta-H_latt
 
 Comparing the experimental lattice energy with the theoretical value from a purely ionic model reveals **covalent character** — a large discrepancy means significant polarisation of the anion by the cation.
 
+## Enthalpies of solution and hydration
+
+**Enthalpy of hydration** ΔH_hyd — enthalpy change when **one mole of a gaseous ion** dissolves in water to form aqueous ions. Always **exothermic**, dominated by the attraction between the ion and surrounding polar water molecules.
+
+**Enthalpy of solution** ΔH_sol — enthalpy change when one mole of an ionic solid dissolves to form an infinitely dilute solution. Can be **either sign**, depending on the balance between the lattice-breaking energy and the hydration energy released.
+
+**The cycle:** dissolving is broken into two steps — first break the lattice apart into gaseous ions (the reverse of lattice energy, so +|ΔH_latt|), then hydrate those gaseous ions:
+
+```
+delta-H_sol = -delta-H_latt + delta-H_hyd(cation) + delta-H_hyd(anion)
+```
+
+**Worked example.** ΔH_latt(NaCl) = −787 kJ mol⁻¹, ΔH_hyd(Na⁺) = −406 kJ mol⁻¹, ΔH_hyd(Cl⁻) = −364 kJ mol⁻¹:
+
+```
+delta-H_sol = -(-787) + (-406) + (-364) = 787 - 770 = +17 kJ/mol
+```
+
+A small **positive** value is typical for simple 1:1 salts like NaCl — the two large terms nearly cancel, so the small residual can fall on either side of zero.
+
+**Charge and radius:** hydration enthalpy becomes **more exothermic** as ionic charge **increases** and ionic radius **decreases** — the same size/charge logic as lattice energy, which is why the two often move together and partly cancel in the solution cycle.
+
 ## Entropy
 
 **Entropy S** is a measure of the **disorder**, or the number of ways energy and particles can be arranged.

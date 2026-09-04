@@ -47,6 +47,16 @@ Related: [Cognition and Behaviour revision notes](/resources/igcse-psychology-co
 
 **6.** Explain the difference between reconstructive memory and accurate recall, and explain **one** implication for eyewitness testimony. **[6]**
 
+## Section C
+
+**7.** Describe the multi-store model of memory, stating the capacity and duration of each store. **[6]**
+
+**8.** Explain the difference between proactive and retroactive interference as explanations for forgetting. **[4]**
+
+**9.** Distinguish between Gibson's and Gregory's theories of perception, and explain how visual illusions support Gregory's theory. **[6]**
+
+**10.** Distinguish between monocular and binocular depth cues, giving **one** example of each. **[4]**
+
 ---
 
 ## Answers
@@ -66,6 +76,14 @@ Related: [Cognition and Behaviour revision notes](/resources/igcse-psychology-co
 
 **6. Reconstructive memory** means that recall is **not a faithful playback but an active rebuilding of an event** [1], in which gaps are filled using **schemas, expectations and information encountered afterwards** [1]. **Accurate recall** would reproduce the original event unchanged [1].
 **Implication for eyewitness testimony:** a witness's account can be **altered by leading questions and by post-event information** without the witness being aware of it [1] [1] — which is why police interviews should use **open, non-leading questions and why witnesses should be interviewed separately and promptly** [1].
+
+**7.** The **sensory store** encodes information in a modality-specific form, has a **very large capacity**, and holds it for **under 2 seconds** [1] [1]. The **short-term store** encodes mainly **acoustically**, has a capacity of around **5–9 items**, and holds information for **18–30 seconds** [1] [1]. The **long-term store** encodes mainly **semantically**, has an **unlimited capacity**, and can hold information for **up to a lifetime** [1] [1].
+
+**8. Proactive interference** occurs when **older, previously learned information disrupts the recall of newer information** [1] [1]. **Retroactive interference** occurs when **newly learned information disrupts the recall of older information** [1] [1].
+
+**9. Gibson's theory** is **bottom-up**: perception is **direct**, since the visual information available — motion parallax, texture gradient, optic flow — is **rich enough on its own** for accurate perception without needing inference from past experience [1] [1]. **Gregory's theory** is **top-down**: perception is **constructed**, a **hypothesis built from prior knowledge and expectation** rather than read directly from the senses [1] [1]. Illusions such as the Müller-Lyer figure support Gregory's theory because the brain **misapplies depth cues learned from a carpentered environment**, producing an inaccurate perception that a purely direct theory could not explain [1] [1].
+
+**10. Monocular** depth cues require only **one eye**, e.g. linear perspective, relative size, height in the visual plane, or occlusion (accept any one) [1] [1]. **Binocular** depth cues require **both eyes working together**, e.g. retinal disparity or convergence [1] [1].
 
 ---
 

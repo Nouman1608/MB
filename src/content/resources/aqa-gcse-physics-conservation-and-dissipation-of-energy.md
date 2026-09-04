@@ -79,16 +79,30 @@ harder to make use of again.
 ## Reducing unwanted energy transfer
 
 Unwanted energy transfer can be reduced by **lubrication** (reducing
-friction between moving surfaces) and by **thermal insulation** (reducing
-the rate of energy transfer by heating). Thermal energy transfer is
-reduced by using materials with **low thermal conductivity**. The higher
-a material's thermal conductivity, the faster energy is transferred
-through it by conduction — which is why building walls with thick,
-low-conductivity insulation cool (or heat) more slowly.
+friction between moving surfaces), by **streamlining** (reducing air
+resistance, so less energy is dissipated by drag), and by **thermal
+insulation** (reducing the rate of energy transfer by heating). Thermal
+energy transfer is reduced by using materials with **low thermal
+conductivity**. The higher a material's thermal conductivity, the faster
+energy is transferred through it by conduction — which is why building
+walls with thick, low-conductivity insulation cool (or heat) more
+slowly.
+
+**Cavity wall insulation and double glazing** work by **trapping a layer
+of air**, which itself has low thermal conductivity, and by **preventing
+convection currents** from forming within the gap — without the
+insulating material, warm air would simply circulate within the cavity
+and carry energy across it far more quickly. The insulation is not
+"stopping" energy transfer altogether, only reducing its **rate**.
 
 **Required practical activity 2** investigates the effectiveness of
-different materials as thermal insulators, and how insulator thickness
-affects the rate of cooling, comparing results across materials.
+different materials as thermal insulators. Identical containers of hot
+water are wrapped in different materials, or in different thicknesses of
+the same material, and the temperature of each is measured at regular
+time intervals as it cools. The material producing the **smallest
+temperature drop over the same time** is the most effective insulator —
+comparing several materials, or the same material at different
+thicknesses, this way is what the practical tests.
 
 ## Efficiency
 
@@ -104,6 +118,12 @@ Efficiency has no units and is often expressed as a percentage (multiply
 by 100). Ways to increase the efficiency of an intended energy transfer
 include reducing friction (lubrication) and reducing unwanted thermal
 transfer (insulation).
+
+**No device can be 100% efficient**, except an electric heater, where the
+intended output is thermal energy anyway, so none of the dissipated
+energy is actually wasted. In every other device, some energy is always
+dissipated by friction, sound or unwanted heating, so useful output is
+always less than total input.
 
 **Worked example.** A lamp is supplied with 100 J of electrical energy
 and usefully transfers 20 J as light (the rest is dissipated as heat).

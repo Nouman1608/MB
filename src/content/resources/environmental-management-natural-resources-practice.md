@@ -42,6 +42,12 @@ Related: [Natural Resources revision notes](/resources/environmental-management-
 
 **6.** Explain why a country may continue to rely on fossil fuels despite knowing the environmental costs, giving **three** reasons. **[6]**
 
+## Section C
+
+**7.** Explain **one** advantage and **one** disadvantage of geothermal energy as a renewable resource. **[4]**
+
+**8.** Sustainable resource management strategies are often grouped into four ideas. Name each idea and give **one** example of each. **[8]**
+
 ---
 
 ## Answers
@@ -62,6 +68,10 @@ Related: [Natural Resources revision notes](/resources/environmental-management-
 **Strategies**, 2 marks each: **drip irrigation and lining canals** deliver water directly to plant roots and cut losses to evaporation and seepage, greatly increasing agricultural efficiency [1] [1]. **Rainwater harvesting and greywater recycling** capture water that would otherwise be lost and reduce demand on mains supply [1] [1]. (Also accept: metering and pricing to reduce waste; desalination; repairing leaking pipes; treating and reusing wastewater.)
 
 **6.** Any three, 2 marks each: **existing infrastructure represents an enormous sunk investment** — power stations, refineries and distribution networks — which would be costly to abandon before the end of its life [1] [1]. **Fossil fuels remain cheaper and more reliable** for baseload generation in many countries, and cheap energy supports industrial competitiveness and keeps consumer bills low [1] [1]. **Employment and government revenue** depend on the industry, so closure carries a heavy political and social cost in mining and oil regions [1] [1]. **Renewable capacity cannot be built quickly enough** to replace demand, and storage technology is still expensive, so a transition period is unavoidable [1] [1].
+
+**7.** Advantage: geothermal energy provides **continuous, reliable output**, unlike solar or wind, because it does not depend on weather conditions [1] [1]. Disadvantage: it is **only viable in tectonically active areas**, where hot rock lies close enough to the surface to be accessed economically, so most countries cannot use it at scale [1] [1].
+
+**8. Use less** — reducing consumption through efficiency and conservation, e.g. more efficient appliances or better insulation reducing energy demand [1] [1]. **Use again** — reusing or recycling materials rather than extracting new resources, e.g. recycling metal and glass, or reusing greywater [1] [1]. **Substitute** — replacing a non-renewable resource with a renewable alternative, e.g. switching from coal-fired power to wind or solar generation [1] [1]. **Restore** — actively repairing damaged environments, e.g. replanting forests, rehabilitating mined land, or establishing protected areas [1] [1].
 
 ---
 

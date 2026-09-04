@@ -65,6 +65,16 @@ an estimate step by step rather than simply stating a number.
 OxfordAQA International AS & A-Level Physics specification PDF —
 [oxfordaqa.com](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-physics-specification.pdf).
 
+## SI units, prefixes and homogeneity
+
+**Base SI units:** kg (mass), m (length), s (time), A (current), K (temperature), mol (amount of substance).
+
+**Derived units** are combinations of base units, for example N = kg m s⁻², J = kg m² s⁻², W = kg m² s⁻³, Pa = kg m⁻¹ s⁻².
+
+**Prefixes** scale a unit up or down by a power of ten: T (10¹²), G (10⁹), M (10⁶), k (10³), c (10⁻²), m (10⁻³), μ (10⁻⁶), n (10⁻⁹), p (10⁻¹²).
+
+**Checking homogeneity** — both sides of an equation must reduce to the same base units. This is the fastest available check on whether an equation could be correct, but it has a limit: a homogeneous equation may still be wrong by a **dimensionless numerical constant**, such as a missing factor of 2 or π, so homogeneity shows an equation *could* be right, not that it definitely is.
+
 ## Random and systematic error
 
 **Random errors** scatter readings unpredictably about the true value. They are reduced by repeating measurements and taking a mean.
@@ -108,6 +118,10 @@ Area A = pi d^2 / 4, so A depends on d squared.
 ```
 
 The diameter dominates the uncertainty: the length is known to about 0.1%, so improving the ruler would be pointless while the micrometer reading is this uncertain. Identifying the dominant uncertainty is usually the mark-earning comment in an evaluation question.
+
+## Estimation of physical quantities
+
+Order-of-magnitude estimates are directly examinable. The method: state a **reasonable assumption** explicitly, use **round numbers**, and give the final answer to **one significant figure**. The marks are awarded for a **reasoned method**, not for numerical precision — a plausible but unstated assumption earns nothing, so the assumption itself must appear in the written working, not just the arithmetic that follows from it.
 
 ## Common mistakes
 

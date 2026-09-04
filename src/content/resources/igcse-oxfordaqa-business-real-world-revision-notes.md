@@ -50,6 +50,10 @@ Increase it by branding, better design, superior service, or convenience — or 
 
 **Franchising:** the franchisee gets a proven brand, training and support, and so faces lower risk, but pays fees and royalties and has little independence. The franchisor expands quickly with limited capital, but risks damage to the brand from a poorly run outlet.
 
+## Business objectives
+
+Objectives change with circumstances: **survival** is the priority for a new start-up, then attention shifts to **profit**, **growth**, **market share**, or **social and environmental goals** as the business matures. Objectives frequently **conflict**: pursuing growth consumes cash that might otherwise be paid out as profit, and ethical or sustainable sourcing typically raises costs, reducing profit in the short term.
+
 ## Stakeholders
 
 Owners, employees, customers, suppliers, government, local community, and lenders.
@@ -85,6 +89,8 @@ Influences: proximity to **market**, to **raw materials**, to **labour supply**,
 
 Note the word **average**. Total costs still rise with output; it is cost *per unit* that falls.
 
+**The external environment** also shapes growth decisions and is frequently tested alongside it: **interest rates** affect the cost of borrowing and the level of consumer spending; **exchange rates** affect import costs and export competitiveness; **inflation**, **unemployment**, **legislation** and **technology** all shift the conditions a business is growing into. A strong answer links the specific factor to the specific business, rather than listing the six factors generically.
+
 ## Exam traps
 
 - Confusing added value with profit.
@@ -101,5 +107,7 @@ Note the word **average**. Total costs still rise with output; it is cost *per u
 3. Give one advantage and one disadvantage of franchising for the franchisee.
 4. Explain one stakeholder conflict fully.
 5. What are diseconomies of scale, and give two causes.
+6. Why do a start-up's objectives typically differ from those of an established business?
+7. Give three factors in the external environment that can affect a business's growth decisions.
 
-**Answers:** 1. Selling price minus the cost of bought-in materials; raise it through branding or improved design and service, or by reducing input costs. 2. Unlimited liability means the owner's personal assets can be taken to settle business debts; limited liability restricts the loss to the amount invested. 3. Lower risk from an established brand and support; but fees and royalties reduce profit and independence is limited. 4. For example, owners want to reduce costs to increase profit, while employees want higher wages and better conditions — the same money cannot do both. 5. A rise in average cost as a firm grows too large, caused by poor communication and coordination, and by falling staff motivation in a large impersonal organisation.
+**Answers:** 1. Selling price minus the cost of bought-in materials; raise it through branding or improved design and service, or by reducing input costs. 2. Unlimited liability means the owner's personal assets can be taken to settle business debts; limited liability restricts the loss to the amount invested. 3. Lower risk from an established brand and support; but fees and royalties reduce profit and independence is limited. 4. For example, owners want to reduce costs to increase profit, while employees want higher wages and better conditions — the same money cannot do both. 5. A rise in average cost as a firm grows too large, caused by poor communication and coordination, and by falling staff motivation in a large impersonal organisation. 6. A start-up typically prioritises survival, since cash flow and establishing a customer base are the immediate concerns; an established business has already survived, so it can turn its attention to profit, growth, market share or social and environmental goals. 7. Any three: interest rates, exchange rates, inflation, unemployment, legislation, technology.

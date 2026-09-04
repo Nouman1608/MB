@@ -81,6 +81,27 @@ The sequence that must appear in full:
 | **Directional** | Favours one extreme — allele frequency shifts; seen in changing environments, e.g. antibiotic resistance |
 | **Stabilising** | Favours the mean, selects against both extremes; seen in stable environments, e.g. human birth mass |
 
+## Investigating diversity in the field
+
+**Random sampling** using quadrats placed by **random coordinates** avoids bias. The **sample size must be large enough for reliability**, and a mean is taken across all quadrats. Where an **environmental gradient** exists — for example, moving away from a hedge or up a shoreline — a **transect** is used instead, because the variation being studied follows that gradient rather than being randomly distributed.
+
+## Worked example — index of diversity
+
+A community contains 3 species with 10, 4 and 1 individuals.
+
+```
+N = 15, so N(N - 1) = 15 x 14 = 210
+
+n(n - 1) terms:  10 x 9 = 90
+                  4 x 3 = 12
+                  1 x 0 = 0
+sum = 102
+
+d = 210 / 102 = 2.06
+```
+
+**Species richness alone would simply report "3 species"** and miss that one species heavily dominates the community — exactly why the index, which weights by relative abundance, is preferred over a raw species count.
+
 ## Exam traps
 
 - Omitting "fertile" from the species definition.

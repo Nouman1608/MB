@@ -74,6 +74,28 @@ No real energy transfer is 100% efficient — some energy is always transferred
 to forms that aren't useful for the intended purpose (commonly heat, through
 friction or resistance).
 
+**Worked example.** A pump raises 300 kg of water through 10 m in 25 s, while
+drawing 1500 W of electrical power. Find its efficiency.
+
+```
+useful power = mgh / t = 300 x 9.81 x 10 / 25 = 1177 W
+
+efficiency = (useful output / total input) x 100 = (1177 / 1500) x 100 = 78.5%
+```
+
+**Worked example.** A 0.40 kg ball is dropped from 6.0 m and rebounds to
+3.5 m. Find the energy dissipated during the bounce.
+
+```
+GPE lost falling         = mgh1 = 0.40 x 9.81 x 6.0 = 23.5 J
+GPE regained on rebound  = mgh2 = 0.40 x 9.81 x 3.5 = 13.7 J
+energy dissipated        = 23.5 - 13.7 = 9.81 J
+```
+
+The energy is not destroyed in the bounce — it is transferred to internal
+energy in the ball and the surface, and to sound, becoming too dissipated to
+be recovered as useful kinetic or potential energy.
+
 ## Power
 
 **Power** is defined as work done per unit time:

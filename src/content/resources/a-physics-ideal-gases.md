@@ -121,6 +121,43 @@ proportional to the thermodynamic temperature T. This is a key result: a
 gas's temperature is, at the molecular level, a direct measure of the
 average kinetic energy of its particles.
 
+## Root-mean-square speed
+
+Combining pV = (1/3)Nm⟨c²⟩ with pV = NkT gives ½m⟨c²⟩ = (3/2)kT, confirming
+that mean molecular kinetic energy depends on temperature **only** — not on
+pressure, volume, or the identity of the gas. Helium and xenon at the same
+temperature have the same mean molecular kinetic energy; the heavier xenon
+molecules simply move more slowly.
+
+Rearranging gives the **root-mean-square speed**:
+
+```
+c_rms = sqrt(<c^2>) = sqrt(3kT/m) = sqrt(3RT/M)
+```
+
+**Worked example.** Nitrogen gas (molar mass M = 0.028 kg mol⁻¹) at 300 K:
+
+```
+c_rms = sqrt(3RT/M) = sqrt((3 x 8.31 x 300) / 0.028) = sqrt(267,100) ~= 517 m/s
+```
+
+This is the r.m.s. speed of an *average* molecule — individual molecules
+have a whole distribution of speeds around this value.
+
+## Internal energy of an ideal gas
+
+The kinetic model assumes negligible intermolecular forces except during
+collisions, so an ideal gas has **no molecular potential energy** — its
+internal energy is entirely kinetic:
+
+```
+U = (3/2) n R T        (for a monatomic ideal gas)
+```
+
+Internal energy therefore depends **only on temperature**, which is why an
+isothermal process (constant T) has ΔU = 0, whatever happens to pressure or
+volume.
+
 ## Common mistakes
 
 - **Using Celsius temperature in pV = nRT** — this equation requires
