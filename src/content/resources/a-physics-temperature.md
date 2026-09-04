@@ -87,6 +87,46 @@ T / K = θ / °C + 273.15
 A change of 1 K is equal to a change of 1 °C — only the zero points of the two
 scales differ.
 
+## What temperature measures at the molecular level
+
+Temperature is a measure of the **mean kinetic energy of the molecules** of a
+substance, not the total thermal energy it contains. A large volume of
+lukewarm water can hold far more total thermal energy than a small volume of
+boiling water, even though the boiling water is at a much higher temperature
+— because thermal energy depends on both temperature and the total number of
+molecules present, while temperature depends only on their mean kinetic
+energy.
+
+**Absolute zero** and the **triple point of water** are the two fixed points
+that define the thermodynamic scale in practice. Absolute zero (0 K) needs no
+reference substance, since it is the temperature at which a substance reaches
+its minimum possible internal energy. The **triple point of water, 273.16
+K**, is used as the second fixed point rather than the ordinary melting point
+of ice, because the triple point occurs at one unique combination of
+temperature and pressure at which ice, water and water vapour coexist in
+equilibrium, making it perfectly reproducible; the melting point, by
+contrast, varies with pressure and so cannot fix a scale precisely.
+
+## Types of thermometer
+
+Different physical properties are used as the basis of practical
+thermometers, each with different strengths:
+
+| Thermometer | Property measured | Strengths | Limitations |
+|---|---|---|---|
+| Liquid-in-glass | Expansion of a liquid | Cheap, direct reading, portable | Limited range, slow response, low sensitivity |
+| Thermocouple | E.m.f. generated at a junction of two metals | Wide range, fast response, small thermal capacity, can be read remotely | Non-linear, needs calibration |
+| Resistance thermometer (platinum) | Resistance of a metal wire | Very accurate, wide range | Slow response, large thermal capacity |
+| Thermistor | Resistance of a semiconductor | Very sensitive, fast response | Narrow range, highly non-linear |
+
+The choice of thermometer depends on what the measurement requires: a
+**thermocouple** is preferred for a rapidly changing temperature, because its
+small thermal capacity means it absorbs very little energy from the system
+and so barely disturbs what it is measuring; a **platinum resistance
+thermometer** is preferred where high accuracy matters more than speed; and a
+**thermistor** is preferred where high sensitivity over a narrow range of
+temperatures is needed.
+
 ## Specific heat capacity
 
 **Specific heat capacity** c of a substance is the energy required to raise

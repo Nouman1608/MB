@@ -70,6 +70,14 @@ Related: [Atomic Structure: Particles, Radius and Isotopes revision notes](/reso
 
 **(b)** A sample of chlorine gas, Cl₂, contains molecules with three different relative molecular masses. Explain why, and give all three Mr values. **[3]**
 
+## Section C
+
+**9.** Explain why a beam of neutrons, passing through a uniform electric field alongside a beam of protons and a beam of electrons, is undeflected. **[2]**
+
+**10.** Using electron configurations, explain why a sodium ion Na⁺ is smaller than a sodium atom Na, but a chloride ion Cl⁻ is larger than a chlorine atom Cl. **[4]**
+
+**11.** State **one** physical property in which isotopes of the same element differ, and **one** chemical property in which they are identical, explaining why in each case. **[4]**
+
 ---
 
 ## Answers
@@ -99,6 +107,12 @@ Related: [Atomic Structure: Particles, Radius and Isotopes revision notes](/reso
 **8. (a)** Protons **17** [1]; neutrons **20** [1]; electrons **17** [1].
 
 **(b)** Each Cl atom in a Cl₂ molecule can independently be either ³⁵Cl or ³⁷Cl [1], giving three possible combinations: **35+35 = 70**, **35+37 = 72**, and **37+37 = 74** [2].
+
+**9.** Neutrons carry **no charge** [1], so an electric field exerts **no force** on them, and they pass straight through the field, **undeflected** [1].
+
+**10.** Sodium (2,8,1) **loses its single outer-shell electron** to form Na⁺ (2,8) [1] — this **removes the entire outer shell**, so the remaining electrons are held by the same nuclear charge with **no extra shielding to oppose it**, and the ion is markedly smaller [1]. Chlorine (2,8,7) **gains one electron** to form Cl⁻ (2,8,8) [1] — no new shell is added, but the extra electron **increases electron–electron repulsion** within the same outer shell, pushing the existing electrons slightly further apart, so the ion is larger, but only modestly [1].
+
+**11.** Physical property, any one: **mass** or **density** [1] — the extra neutrons add mass without changing the electron arrangement, so isotopes with different mass numbers have different masses (and, correspondingly, different densities) [1]. Chemical property: **identical reactivity** [1] — chemical behaviour is determined by electron arrangement, and isotopes of the same element share the same proton number and therefore an **identical electron arrangement**, so they react identically [1].
 
 ---
 

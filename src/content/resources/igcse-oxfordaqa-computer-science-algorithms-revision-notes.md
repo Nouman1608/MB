@@ -97,9 +97,34 @@ The single most reliable way to answer "what does this algorithm output".
 
 One **column per variable**, one **row per change**. Work through line by line, writing each new value. Do not skip steps or work it out in your head — the marks are for the completed table, and mental arithmetic is where errors creep in.
 
+Tracing is also how **logic errors** are found — cases where the algorithm runs without crashing but produces the **wrong output**.
+
+**Worked example.** Trace this algorithm with input n = 5:
+
+```
+INPUT n
+total <- 0
+FOR i <- 1 TO n
+    total <- total + i
+ENDFOR
+OUTPUT total
+```
+
+| i | total |
+|---|---|
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 6 |
+| 4 | 10 |
+| 5 | 15 |
+
+Output: **15**. The algorithm sums the integers from 1 to n — writing every row, never skipping one, is what earns the marks.
+
 ## Efficiency
 
 Compare algorithms by the **number of steps or comparisons** needed, not by how long they take on a particular computer — that depends on the hardware. An algorithm that takes fewer comparisons as the data grows is more efficient.
+
+**Evaluation questions reward precise criticism, not vague description.** "It is inefficient" earns nothing; "the loop continues checking after the target has already been found, so it performs unnecessary comparisons" earns the mark — always identify the *specific* wasted step.
 
 ## Exam traps
 
@@ -117,5 +142,7 @@ Compare algorithms by the **number of steps or comparisons** needed, not by how 
 3. What is the difference between WHILE and REPEAT UNTIL?
 4. What must be true of data before a binary search, and why?
 5. How should the efficiency of two algorithms be compared?
+6. What is a logic error, and how is it typically found?
+7. Why does "it is inefficient" earn no marks in an evaluation question?
 
-**Answers:** 1. Unambiguous, finite, and it produces a result. 2. Decomposition breaks a problem into smaller sub-problems; abstraction removes unnecessary detail to focus on what matters. 3. WHILE tests the condition before the loop body, so it may run zero times; REPEAT UNTIL tests afterwards, so it always runs at least once. 4. It must be sorted, because the algorithm discards half the data based on whether the target is above or below the middle item — which is only valid if the data is in order. 5. By the number of steps or comparisons required as the data set grows, not by execution time, which depends on the hardware.
+**Answers:** 1. Unambiguous, finite, and it produces a result. 2. Decomposition breaks a problem into smaller sub-problems; abstraction removes unnecessary detail to focus on what matters. 3. WHILE tests the condition before the loop body, so it may run zero times; REPEAT UNTIL tests afterwards, so it always runs at least once. 4. It must be sorted, because the algorithm discards half the data based on whether the target is above or below the middle item — which is only valid if the data is in order. 5. By the number of steps or comparisons required as the data set grows, not by execution time, which depends on the hardware. 6. A logic error is a fault where the algorithm runs and produces an output, but the output is wrong; it is typically found by tracing the algorithm through a trace table and comparing the recorded values against what is expected. 7. Because it does not identify the specific cause — a precise answer names the actual wasted step, such as a loop continuing to check after the target has already been found.

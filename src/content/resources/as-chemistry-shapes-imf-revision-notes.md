@@ -32,6 +32,20 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Shapes and Intermolecular Forces study guide](/resources/as-chemical-bonding-shapes-and-intermolecular-forces/).
 
+## Orbital overlap: sigma and pi bonds
+
+A **σ (sigma) bond** forms by **direct, head-on overlap** of orbitals between two bonding atoms. A **π (pi) bond** forms by **sideways overlap** of adjacent p orbitals, above and below the σ bond.
+
+A **single bond is always one σ bond alone**. A **double bond is one σ bond plus one π bond** — this is why the second bond in a C=C double bond is **weaker and more reactive** than the first: sideways overlap is less effective than head-on overlap.
+
+**Hybridisation** describes how an atom's orbitals mix before bonding:
+
+| Carbon type | Hybrid orbitals | Geometry | Example |
+|---|---|---|---|
+| **sp³** | Four equivalent hybrids | Tetrahedral | Methane, ethane |
+| **sp²** | Three hybrids in a plane, one unhybridised p orbital left for a π bond | Trigonal planar | Ethene |
+| **sp** | Two hybrids arranged linearly, two unhybridised p orbitals left for two π bonds | Linear | Ethyne |
+
 ## VSEPR — the one rule
 
 **Electron pairs repel and arrange themselves as far apart as possible.** Lone pairs repel more strongly than bonding pairs, so each lone pair reduces the bond angle by roughly 2.5°.

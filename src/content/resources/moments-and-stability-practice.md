@@ -55,6 +55,14 @@ Related: [Moments and Stability revision notes](/resources/moments-and-stability
 
 **7.** Explain the difference between a first-class and a second-class lever, giving an example of each, and explain what is meant by force multiplication. **[5]**
 
+## Section C
+
+**8.** Distinguish between stable, unstable and neutral equilibrium, giving an example of each. **[6]**
+
+**9.** A third type of lever is a third-class lever. Explain how it differs from a first-class and a second-class lever, giving an example, and explain why it does not produce force multiplication. **[6]**
+
+**10.** Two crates, A and B, have equal weight and the same base area, but crate A has a significantly lower centre of mass than crate B. Explain why crate A is more stable than crate B, even though the two crates weigh the same. **[4]**
+
 ---
 
 ## Answers
@@ -78,6 +86,12 @@ Method: **suspend the card freely from a point near its edge** and let it settle
 
 **7.** In a **first-class lever the pivot is between the effort and the load**, e.g. a see-saw or a pair of scissors [1] [1]. In a **second-class lever the load is between the pivot and the effort**, e.g. a wheelbarrow or a nutcracker [1] [1].
 **Force multiplication** means the **effort is applied further from the pivot than the load**, so a **small effort produces a large force on the load** — at the cost of the effort moving through a greater distance [1].
+
+**8. Stable equilibrium** — a small tilt causes the object to **return to its original position**, e.g. a cone resting on its wide base [1] [1]. **Unstable equilibrium** — a small tilt causes the object to **topple further away** from its original position, e.g. a cone balanced on its point [1] [1]. **Neutral equilibrium** — a small tilt or displacement leaves the object in its **new position**, with no tendency either to return or to topple further, e.g. a ball resting on a flat, horizontal surface [1] [1].
+
+**9.** In a **third-class lever the effort is between the pivot and the load** — unlike a first-class lever, where the **pivot is between the effort and the load**, or a second-class lever, where the **load is between the pivot and the effort** [1] [1]. Example: **a human forearm lifting a weight**, where the elbow is the pivot, the biceps supplies the effort partway along the forearm, and the load is held in the hand [1] [1] (accept a fishing rod). Because the **effort acts closer to the pivot than the load does**, a third-class lever always requires an **effort greater than the load**, so it does **not** produce force multiplication; instead it increases the **distance and speed** through which the load moves [1] [1].
+
+**10.** Stability depends on the **position of the centre of mass relative to the base**, not on weight [1] [1]. Because crate A has a **lower centre of mass**, it must be **tilted through a larger angle before the line of action of its weight moves outside its base** than crate B [1] [1]; crate A therefore returns to its original position over a wider range of tilt and is **more stable**, even though the two crates have equal weight and the same base area [1] [1].
 
 ---
 

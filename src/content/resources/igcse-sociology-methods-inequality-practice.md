@@ -42,6 +42,16 @@ Related: [Research Methods and Inequality revision notes](/resources/igcse-socio
 
 **6.** Explain **three** ways in which ethnicity may affect a person's life chances, and explain **one** difficulty in researching this area. **[8]**
 
+## Section C
+
+**7.** Distinguish between reliability and validity as ways of evaluating a research method, and explain why quantitative methods tend to score higher on one and qualitative methods on the other. **[6]**
+
+**8.** Explain what is meant by a sampling frame, and explain **two** ethical principles a sociologist must follow when carrying out research. **[6]**
+
+**9.** Distinguish between ascribed status and achieved status, giving **one** example of each, and explain **one** piece of evidence used to support the view that identity is learned rather than natural. **[6]**
+
+**10.** Explain how the "cycle of deprivation" can be used to explain the persistence of social class inequality across generations. **[6]**
+
 ---
 
 ## Answers
@@ -62,6 +72,14 @@ Related: [Research Methods and Inequality revision notes](/resources/igcse-socio
 
 **6.** Any three, 2 marks each: **education** — some minority ethnic groups experience lower attainment linked to teacher labelling, an ethnocentric curriculum and material deprivation, though attainment varies widely between groups [1] [1]. **Employment** — higher rates of unemployment and concentration in low-paid work, partly through discrimination at the recruitment stage, which field experiments using matched CVs have demonstrated [1] [1]. **Housing** — greater likelihood of living in poorer-quality or overcrowded housing in deprived areas, affecting health and educational opportunity [1] [1]. **Health and policing** — differences in health outcomes and in the likelihood of being stopped and searched [1] [1].
 **Difficulty in researching this area:** ethnicity is a **broad category that conceals enormous variation between and within groups**, so aggregated statistics can mislead [1]; it is also **difficult to separate the effect of ethnicity from that of social class**, since the two overlap, and respondents may be reluctant to discuss discrimination with a researcher from a different background [1].
+
+**7. Reliability** means that if the research were repeated using the same method it would produce the **same result** [1]; **validity** means the method gives a **true and accurate picture** of what is actually being studied [1]. **Quantitative methods** such as questionnaires and structured interviews use standardised, fixed-choice questions that are easy to repeat and compare, so they tend to be **strong on reliability** [1] [1]; but the fixed answers may not capture what a respondent actually means, so they can be **weaker on validity** [1]. **Qualitative methods** such as unstructured interviews and participant observation produce rich, detailed data that captures meaning accurately, so they tend to be **strong on validity**, but that same richness is harder to reproduce consistently, so they are typically **weaker on reliability** [1] [1].
+
+**8.** A **sampling frame** is the **list from which a sample is drawn**; where no complete list of the target population exists, the researcher is often forced into a **non-random sampling method**, such as snowball or opportunity sampling [1] [1]. Any two, 2 marks each: **informed consent** — participants must understand what the research involves and agree to take part [1] [1]; **confidentiality** — participants' identities and data must be protected [1] [1]; **protection from harm** — the research must not cause physical or psychological harm [1] [1]; **the right to withdraw** — participants may leave the study at any point [1] [1]. (Accept: **covert observation breaches informed consent through deception, and is normally only defended where overt research would be impossible to carry out at all** [1] [1].)
+
+**9. Ascribed status** is fixed at birth and not earned, e.g. sex or the family a person is born into [1] [1]; **achieved status** is earned through a person's own action, e.g. an occupation or qualification [1] [1]. Any one, 2 marks: **cross-cultural variation** — behaviour and norms assumed to be natural vary considerably between different societies, suggesting they are learned rather than innate [1] [1]; or **evidence from feral children** — children raised with little or no human contact fail to develop expected social behaviours, suggesting these behaviours are not automatic but require socialisation [1] [1].
+
+**10.** The cycle of deprivation explains how disadvantage is passed from one generation to the next through a linked chain of causes: **poor housing and diet contribute to poor health and educational underachievement** [1] [1], which in turn lead to **low-paid or insecure work in adulthood** [1] [1], which **reproduces poverty and disadvantage into the next generation**, restarting the cycle [1] [1].
 
 ---
 

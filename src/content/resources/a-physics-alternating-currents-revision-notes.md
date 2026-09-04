@@ -82,13 +82,19 @@ Transmit at **high voltage and low current**. Since power loss in the cables is 
 
 The loss depends on the **current squared**, not the voltage — that is the reason high-voltage transmission is used, and stating it in terms of voltage loses the mark.
 
+## Worked examples
+
+**Mains supply, 230 V r.m.s., 50 Hz, powering a 1150 W heater.** Peak voltage V₀ = V_rms × √2 = 230 × √2 ≈ **325 V**. R.m.s. current I_rms = P ÷ V_rms = 1150 ÷ 230 = **5.0 A**, so peak current I₀ = I_rms × √2 ≈ **7.1 A**. Peak power P₀ = I₀V₀ ≈ **2300 W** — exactly twice the mean power, as the formula requires.
+
+**Step-down transformer, 230 V to 12 V, primary with 1150 turns.** Secondary turns N_s = N_p × (V_s ÷ V_p) = 1150 × (12 ÷ 230) = **60 turns**. For an ideal transformer supplying a secondary current of 3.0 A, the primary current I_p = (I_s × V_s) ÷ V_p = (3.0 × 12) ÷ 230 ≈ **0.16 A** — much smaller than the secondary current, since the primary operates at the higher voltage.
+
 ## Rectification
 
 **Half-wave** — a single diode. Conducts on one half-cycle only; the other half is blocked. Output is a series of pulses with gaps.
 
 **Full-wave** — four diodes in a **bridge** arrangement. Both half-cycles are used, with the negative half inverted, so the output has twice the pulse rate and no gaps.
 
-**Smoothing** uses a capacitor in **parallel** with the load. It charges at the peak and discharges through the load during the gap, so the output falls only slightly before the next peak arrives. A **larger capacitance** gives a longer time constant (τ = RC) and therefore **less ripple**.
+**Smoothing** uses a capacitor in **parallel** with the load. It charges at the peak and discharges through the load during the gap, so the output falls only slightly before the next peak arrives. A **larger capacitance** gives a longer time constant (τ = RC) and therefore **less ripple**; so does a **larger load resistance**, since τ = RC increases either way — a smaller load current draws the capacitor's charge down more slowly between peaks. Increasing either only **reduces** the ripple, though: the capacitor still discharges to some extent between pulses, so the output is never a perfectly constant, ripple-free voltage.
 
 ## Exam traps
 

@@ -25,7 +25,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 Causes: nationalism, liberal demands for constitutions, economic hardship after poor harvests, and the example of France.
 
-They **failed** almost everywhere because the revolutionaries were divided between liberals and radicals, the middle classes withdrew support once property seemed threatened, the peasantry was largely uninvolved, and the conservative powers retained control of their armies. The lesson drawn — that unification would come through force rather than debate — shaped everything that followed.
+They **failed** almost everywhere because the revolutionaries were divided between liberals and radicals, the middle classes withdrew support once property seemed threatened, the peasantry was largely uninvolved, and the conservative powers retained control of their armies. **Austria and Russia went further and intervened militarily** to restore conservative rule, most notably crushing the revolt in Hungary and helping suppress the risings in Italy. The lesson drawn — that unification would come through force rather than debate — shaped everything that followed.
 
 ## Unification
 
@@ -34,6 +34,8 @@ They **failed** almost everywhere because the revolutionaries were divided betwe
 **Germany (1864–1871).** **Bismarck's** method was deliberate: *"blood and iron"*, and three carefully chosen wars — Denmark (1864), Austria (1866), France (1870–71) — each of which advanced Prussian leadership. The **Ems Telegram** provoked France into declaring war, so that the southern German states joined Prussia against a foreign aggressor rather than being annexed.
 
 Bismarck's skill lay in **isolating each opponent diplomatically before fighting**, and in stopping when the objective was achieved rather than pursuing total victory.
+
+Each war had a specific outcome that advanced unification step by step: the **Danish War (1864)** left Prussia and Austria in joint control of Schleswig and Holstein, an arrangement Bismarck deliberately used to **manufacture friction with Austria**; the **Austro-Prussian War (1866)** excluded Austria from German affairs entirely and created the **North German Confederation** under Prussian leadership; and the **Franco-Prussian War (1870–71)** ended with the **German Empire proclaimed at Versailles in January 1871**, bringing the southern German states into union with the north.
 
 ## The alliance system
 
@@ -63,6 +65,8 @@ The **Balkan Wars** of 1912–13 left Serbia enlarged and confident, and Austria
 The July Crisis: assassination → Austria's ultimatum to Serbia, backed by Germany's **"blank cheque"** → Serbia's near-total but incomplete acceptance → Austria declares war → Russian mobilisation to protect Serbia → German mobilisation and the **Schlieffen Plan** → invasion of Belgium → Britain enters under the 1839 Treaty of London.
 
 **Why the plan mattered:** the Schlieffen Plan required Germany to attack France first and quickly, through Belgium, in order to avoid a two-front war. Once Russia mobilised, German military planning left almost no room for diplomacy — which is why the crisis escalated in days rather than months.
+
+**Not every Balkan crisis led to war.** The **annexation of Bosnia by Austria-Hungary in 1908** inflamed Serbian and Russian anger, and the **Moroccan crises of 1905 and 1911** brought France and Germany close to conflict, yet both were defused through diplomacy. This matters for evaluation: Balkan tension and imperial rivalry alone did not make war in 1914 inevitable — what changed was the great powers' readiness to escalate rather than negotiate once the July Crisis began.
 
 ## Answering the causation question
 

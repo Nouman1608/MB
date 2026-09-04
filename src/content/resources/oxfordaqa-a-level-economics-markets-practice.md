@@ -43,6 +43,16 @@ Related: [The Operation of Markets revision notes](/resources/oxfordaqa-a-level-
 
 **6.** Explain **three** reasons why government intervention may itself fail. **[6]**
 
+## Section C
+
+**7.** Explain why public goods are unlikely to be provided by the free market, using the concepts of non-excludability and non-rivalry. **[4]**
+
+**8.** Distinguish between merit goods and demerit goods, giving **one** example of each and explaining the market failure involved. **[4]**
+
+**9.** A government imposes a specific tax of $3 per unit on a good with PED = −0.2. Explain the effect of this tax on (a) the price paid by consumers, (b) tax revenue, and (c) the achievement of the government's welfare objective. **[6]**
+
+**10.** Explain how the immobility of factors of production can lead to market failure. **[4]**
+
 ---
 
 ## Answers
@@ -62,6 +72,14 @@ Related: [The Operation of Markets revision notes](/resources/oxfordaqa-a-level-
 **Judgement:** permits are preferable where the **environmental target is the priority and emitters are few and measurable**; a tax is preferable where **price stability, administrative simplicity and wide coverage** matter more [1] [1]. In practice the two are often combined, and the effectiveness of either depends far more on **the stringency of the cap or the level of the tax** than on the choice of instrument [1] [1].
 
 **6.** Any three, 2 marks each: **information failure** — the government lacks the data to set the tax, subsidy or cap at the right level, so intervention over- or under-corrects [1] [1]; **unintended consequences** — for example a black market created by a tax, or a minimum price causing surpluses [1] [1]; **administrative and enforcement costs** may exceed the welfare gain from correcting the failure [1] [1]; **regulatory capture or political motives** — policy is shaped by lobbying or by the electoral cycle rather than by efficiency [1] [1].
+
+**7. Non-excludable** — once the good is provided, **non-payers cannot be prevented from consuming it**, so individuals have an incentive to **free ride** rather than pay [1] [1]. **Non-rival** — **one person's consumption does not reduce what is available to others**, so there is no price mechanism to ration it [1] [1]. Because free riders will not pay, a private firm has **no profit incentive to supply the good**, so the free market provides **none at all** — a public good must therefore usually be state-provided.
+
+**8. Merit goods** generate a **positive externality** and are **under-consumed** relative to the social optimum, because consumers **underestimate the benefit** to themselves (information failure), e.g. **education or healthcare** [1] [1]. **Demerit goods** generate a **negative externality**, and are **over-consumed** because consumers **underestimate the harm**, e.g. **tobacco or alcohol** [1] [1].
+
+**9. (a)** Because demand is **inelastic (PED = −0.2)**, the leftward shift in supply from the tax causes quantity to fall only slightly, so **most of the tax is passed to consumers** as a higher price [1] [1]. **(b)** Because quantity barely changes, **tax revenue is large and predictable** [1] [1]. **(c)** The government's welfare objective — reducing consumption of the good — is **largely missed**, since consumption is close to unchanged; the tax is effective at **raising revenue** but poor at **changing behaviour**, and is also **regressive**, taking a larger share of the income of poorer households [1] [1].
+
+**10.** **Geographical immobility** — workers cannot easily move between regions, due to the cost of moving, family ties or regional differences in the cost of housing [1] [1]. **Occupational immobility** — workers made redundant in a declining industry often lack the **skills required by expanding industries** and cannot retrain quickly enough [1] [1]. Together these mean that workers displaced in one industry or region **cannot move to where vacancies exist**, so **structural and regional unemployment persist** even when jobs are available elsewhere — a misallocation of labour that the free market does not correct on its own [1] [1].
 
 ---
 

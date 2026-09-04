@@ -42,6 +42,16 @@ Related: [Population and Settlement revision notes](/resources/igcse-geography-p
 
 **6.** Describe the typical land-use zones of a city in a high-income country and explain **two** reasons for the pattern. **[8]**
 
+## Section C
+
+**7.** Explain the difference between push factors and pull factors in migration, giving **two** examples of each. **[4]**
+
+**8.** Explain **one** benefit and **one** cost of international migration for (a) the receiving country and (b) the source country. **[8]**
+
+**9.** Distinguish between the site and the situation of a settlement, giving an example of each. **[4]**
+
+**10.** Explain why rapid urban growth in low-income countries often leads to the growth of informal settlements, and describe **one** strategy used to address this. **[6]**
+
 ---
 
 ## Answers
@@ -62,6 +72,15 @@ Related: [Population and Settlement revision notes](/resources/igcse-geography-p
 
 **6.** A typical pattern is the **Central Business District at the core**, surrounded by an **inner city zone of older terraced housing and former industry**, then **inter-war suburbs**, then **modern outer suburbs and the rural-urban fringe** [1] [1] [1] [1].
 Reasons, any two: **land values are highest at the centre**, because accessibility is greatest, so only high-value uses such as shops and offices can afford it, and buildings are built upwards to make the most of the small plots [1] [1]. **The city grew outwards over time**, so housing age and style decrease with distance from the centre, and the outer suburbs were built when cars allowed people to live further from work [1] [1]. **The fringe offers cheap, plentiful land with good road access**, which attracts retail parks, warehousing and business parks that need space and lorry access [1] [1].
+
+**7. Push factors** are **negative conditions that drive people to leave** their home area, e.g. **unemployment or poverty**, and **conflict, persecution or natural disaster** [1] [1]. **Pull factors** are **positive conditions that attract people to a destination**, e.g. **available jobs and higher wages**, and **better services, greater safety, or family already settled there** [1] [1].
+
+**8. (a) Receiving country** — benefit: migration **fills labour shortages and often brings a younger, tax-paying workforce and cultural diversity** [1] [1]; cost: it puts **added pressure on housing and services** and can create **social tension** [1] [1].
+**(b) Source country** — benefit: the country gains **remittances sent home**, **reduced local unemployment**, and **skills brought back by returning migrants** [1] [1]; cost: it risks **brain drain — the loss of working-age and skilled people** — and **family separation** [1] [1].
+
+**9. Site** is the **actual physical land a settlement occupies**, e.g. a **defensible hilltop**, or a **dry point above a floodplain** [1] [1]. **Situation** is the settlement's **position relative to surrounding features and other settlements**, e.g. **at the confluence of two rivers**, or **on a trade route between two larger cities** [1] [1].
+
+**10.** Rapid urban growth from **rural–urban migration combined with high natural increase among young migrants** outpaces the ability of city authorities to provide housing and services [1] [1], so migrants settle informally on unused or unsuitable land, building makeshift housing **without legal tenure, sanitation or a clean water supply** [1] [1], producing **informal settlements, congestion, pollution and strain on existing services** [1] [1]. One strategy: **site-and-service schemes**, in which the local authority provides a plot of land with basic services already installed — water, electricity, road access — and residents then build and improve their own home over time [1] [1] (accept self-help housing schemes, or rural development aimed at reducing the push factors driving migration to the city).
 
 ---
 
