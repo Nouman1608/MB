@@ -131,6 +131,11 @@ exits, silence) rather than treating the play purely as prose.
 - Bring a clean, unannotated copy of your set text to the open-book
 exam.
 
+## Related resources
+
+- [Unit 2 Drama revision notes](/resources/edexcel-a-level-english-literature-drama-revision-notes/)
+- [Unit 2 Drama practice questions](/resources/edexcel-a-level-english-literature-drama-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in

@@ -86,6 +86,11 @@ Rather than trying to recall context from memory under exam pressure, build a sh
 
 **Answers:** 1. 25 marks per section, 50 total, over a 2-hour exam. 2. AO1, AO2, AO3, AO5. 3. Pre-1900: usually engaging with original genre conventions (e.g. revenge tragedy, morality play). Post-1900: usually situating the play in its immediate social/political moment. 4. Because AO5 specifically rewards awareness of differing interpretations — an essay that argues only one fixed reading, however well-argued, leaves this objective largely unaddressed. 5. Because drama is written to be performed, not read as prose — meaning is made through staging and performance choices, so analysing them strengthens AO2 (form and structure) responses. 6. Its original performance context (when/where first staged, for what audience) and at least two documented critical or directorial readings that differ from each other.
 
+## Related resources
+
+- [Unit 2 Drama study guide](/resources/a-level-edexcel-english-literature-drama/)
+- [Unit 2 Drama practice questions](/resources/edexcel-a-level-english-literature-drama-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in English Literature specification (Issue 7, February 2026), Unit 2: Drama —
