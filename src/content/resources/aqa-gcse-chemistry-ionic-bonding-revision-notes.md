@@ -100,6 +100,11 @@ Although 4.2.1.1 and 4.2.1.2 focus on bond *formation*, it is worth connecting t
 - Explain, in two steps, how sodium chloride's ionic bond forms.
 - State the specific named force holding ions together in an ionic compound.
 
+## Related resources
+
+- [Chemical Bonds and Ionic Bonding study guide](/resources/gcse-aqa-chemistry-ionic-bonding/)
+- [Chemical Bonds and Ionic Bonding practice questions](/resources/aqa-gcse-chemistry-ionic-bonding-practice/)
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, Version 1.1, exams June 2018

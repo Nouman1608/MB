@@ -139,6 +139,11 @@ each resulting ion matches a noble gas structure.
 electron transfer, then electrostatic attraction between the ions
 formed.
 
+## Related resources
+
+- [Chemical Bonds and Ionic Bonding revision notes](/resources/aqa-gcse-chemistry-ionic-bonding-revision-notes/)
+- [Chemical Bonds and Ionic Bonding practice questions](/resources/aqa-gcse-chemistry-ionic-bonding-practice/)
+
 ## Official syllabus
 
 AQA GCSE Chemistry (8462) specification, Version 1.1, exams June 2018
