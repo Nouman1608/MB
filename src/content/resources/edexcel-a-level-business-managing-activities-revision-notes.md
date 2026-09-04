@@ -112,6 +112,11 @@ Unit 1 (Marketing and People) covers how a business identifies and meets custome
 - Give two internal and two external causes of business failure.
 - Explain, in one sentence, why a profitable business can still fail.
 
+## Related resources
+
+[Managing Business Activities study guide](/resources/a-level-edexcel-business-managing-business-activities/) |
+[Managing Business Activities practice questions](/resources/edexcel-a-level-business-managing-activities-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level

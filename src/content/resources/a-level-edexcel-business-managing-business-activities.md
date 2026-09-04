@@ -144,6 +144,11 @@ two distinct lists rather than one blended list.
 - Practise interpreting a simple cash-flow forecast, including
 identifying a month where outflows exceed inflows.
 
+## Related resources
+
+[Managing Business Activities revision notes](/resources/edexcel-a-level-business-managing-activities-revision-notes/) |
+[Managing Business Activities practice questions](/resources/edexcel-a-level-business-managing-activities-practice/)
+
 ## Official syllabus
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level
