@@ -62,6 +62,14 @@ Related: [Gravitational Fields revision notes](/resources/a-physics-gravitationa
 
 **7.** Explain why an astronaut in orbit appears weightless even though gravity acts on them. **[3]**
 
+**8.** Two point masses are separated by a distance r. If the separation is doubled, state what happens to the gravitational force between them, and explain why. **[2]**
+
+**9.** Distinguish between gravitational potential, ϕ, and gravitational potential energy, E, including their units and the equation relating them. **[3]**
+
+**10.** Explain why g = GM/r² cannot be used to calculate the gravitational field strength at a point inside a uniform solid sphere. **[2]**
+
+**11.** Using G = 6.67 × 10⁻¹¹ N m² kg⁻², M_Earth = 5.97 × 10²⁴ kg and R_Earth = 6.37 × 10⁶ m, show that the gravitational field strength at the Earth's surface is approximately 9.8 m s⁻². **[2]**
+
 ---
 
 ## Answers
@@ -87,6 +95,14 @@ Related: [Gravitational Fields revision notes](/resources/a-physics-gravitationa
 
 **7.** Both the astronaut and the spacecraft are in **free fall** — accelerating towards the Earth at the same rate [1]. There is therefore **no contact force** between the astronaut and the spacecraft [1], and it is that absence of a normal contact force, not the absence of gravity, that produces the sensation of weightlessness [1].
 
+**8.** The force falls to **one quarter** of its original value [1]. This is because gravitational force follows an **inverse square law**, F = Gm₁m₂/r², so doubling r increases the denominator by a factor of 2² = 4 [1].
+
+**9.** Gravitational potential, ϕ, is the **work done per unit mass** in bringing a small test mass from infinity to that point, measured in **J kg⁻¹** [1]. Gravitational potential energy, E, is the work done in bringing an actual mass m from infinity, measured in **joules** [1], related by **E = mϕ** [1].
+
+**10.** The formula g = GM/r² applies only **outside a spherical mass, or for a genuine point mass** [1]; inside a uniform solid sphere, only the mass enclosed within radius r contributes to the field at that point, so the simple point-mass formula does not apply [1].
+
+**11.** g = GM/r² = (6.67 × 10⁻¹¹ × 5.97 × 10²⁴) ÷ (6.37 × 10⁶)² [1] ≈ **9.8 m s⁻²** [1] — showing that g = 9.81 m s⁻² used throughout AS mechanics is not an arbitrary constant, but a direct consequence of Newton's law of gravitation applied at the Earth's surface.
+
 ---
 
 ## Where marks are usually lost
@@ -95,3 +111,5 @@ Related: [Gravitational Fields revision notes](/resources/a-physics-gravitationa
 - Using the height above the surface instead of the orbital radius.
 - Saying astronauts are weightless because there is no gravity.
 - Forgetting that gravitational force provides the centripetal force in an orbit.
+- Confusing gravitational potential (J kg⁻¹) with gravitational potential energy (J) — check which the question asks for.
+- Treating g as a fixed constant rather than a quantity that decreases with distance from a mass.

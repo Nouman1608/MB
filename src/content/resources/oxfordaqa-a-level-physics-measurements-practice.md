@@ -55,6 +55,14 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 
 **7.** Use a homogeneity check to test whether v² = u² + 2as is dimensionally consistent. **[3]**
 
+**8.** Define resolution, and explain why a metre rule reading to 1 mm being finer resolution than one reading to 1 cm does not by itself make a measurement more accurate. **[3]**
+
+**9.** Five repeated readings of a length give: 12.4, 12.6, 12.3, 12.5, 12.4 mm. Estimate the uncertainty using the range method. **[2]**
+
+**10.** Describe how to find the uncertainty in a gradient from a graph with error bars. **[3]**
+
+**11.** A calculation from data with 2 significant figures gives a calculator display of 4.8571429. State the result to an appropriate number of significant figures, and explain why. **[2]**
+
 ---
 
 ## Answers
@@ -63,7 +71,7 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 
 **2.** N = kg m s⁻² [1]. J = kg m² s⁻² [1]. W = kg m² s⁻³ [1].
 
-**3. Random errors** vary **unpredictably in size and direction** between readings [1] and are reduced by **taking repeated readings and calculating a mean** [1]. **Systematic errors** shift **every reading by the same amount in the same direction** [1] and are reduced by **checking the zero and calibrating the instrument** — repeats do not help [1].
+**3. Random errors** vary **unpredictably in size and direction** between readings [1] and are reduced by **taking repeated readings and calculating a mean** [1]. **Systematic errors** shift **every reading by the same amount in the same direction** [1] and are reduced by **checking the zero and calibrating the instrument** — repeats do not help [1]. Precision and accuracy are independent: a set of readings can be precise (tightly clustered) but inaccurate (clustered around the wrong value) — the signature of a systematic error.
 
 **4. (a)** Length: (0.001 ÷ 1.250) × 100 = **0.08%** [1]. Diameter: (0.01 ÷ 0.42) × 100 = **2.4%** [1].
 **(b)** The diameter is **squared**, so its percentage uncertainty is **doubled** [1]: 2 × 2.4 = **4.8%** [1].
@@ -78,6 +86,14 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 
 **7.** LHS: v² has units (m s⁻¹)² = **m² s⁻²** [1]. RHS: u² = m² s⁻², and 2as = m s⁻² × m = **m² s⁻²** [1]. All terms have the **same units**, so the equation is **homogeneous** [1] — though this does not prove it is correct, since dimensionless constants are not tested.
 
+**8. Resolution** is the smallest change an instrument can detect [1]. Finer resolution reduces one source of uncertainty, but it does not remove a **systematic error** [1]; a finely-resolved but miscalibrated instrument still gives precise, consistently wrong (inaccurate) readings [1].
+
+**9.** Range = 12.6 − 12.3 = 0.3 mm [1]; uncertainty = 0.3 ÷ 2 = **±0.15 mm** [1].
+
+**10.** Draw the **steepest and shallowest** lines that still pass through **all the error bars** [1] [1]; the uncertainty in the gradient is **half the difference** between these two gradients [1].
+
+**11. 4.9** [1] — a calculated result cannot be more precise than the **least precise measurement** used to obtain it, so it should be quoted to **2 significant figures** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -86,3 +102,6 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 - Forgetting to double the percentage uncertainty for a squared quantity.
 - Adding percentage uncertainties when quantities are added.
 - Claiming a homogeneity check proves an equation is correct.
+- Assuming finer resolution automatically means a more accurate measurement.
+- Using the largest or smallest reading alone rather than half the range for repeated-reading uncertainty.
+- Quoting a calculated result to more significant figures than the least precise measurement justifies.

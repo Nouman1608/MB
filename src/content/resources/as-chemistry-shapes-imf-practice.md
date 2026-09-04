@@ -76,6 +76,12 @@ Related: [Shapes and Intermolecular Forces revision notes](/resources/as-chemist
 
 **(d)** A student writes: "When methane boils, the covalent bonds break." Explain what is wrong with this statement. **[2]**
 
+**7.** Distinguish between a σ bond and a π bond, and state how many of each are present in a C=C double bond. **[3]**
+
+**8.** Describe the hybridisation and bond angles around the carbon atoms in ethene, C₂H₄. **[3]**
+
+**9.** A student writes "hydrogen bonding is a separate force from van der Waals' forces." Explain what is wrong with this statement. **[2]**
+
 ---
 
 ## Answers
@@ -103,6 +109,12 @@ Related: [Shapes and Intermolecular Forces revision notes](/resources/as-chemist
 **(d)** Boiling overcomes the **intermolecular forces between molecules**, not the covalent bonds **within** them [1]. The covalent C–H bonds remain intact — methane gas is still CH₄ [1].
 *This is the single most heavily penalised sentence in the topic.*
 
+**7.** A **σ bond** forms by direct, head-on overlap of orbitals [1]; a **π bond** forms by sideways overlap of adjacent p orbitals, above and below the σ bond [1]. A C=C double bond has **one σ bond and one π bond** [1]. A single bond is always one σ bond alone, since sideways overlap needs a second, already-present σ bond to overlap alongside.
+
+**8.** Each carbon is **sp² hybridised** [1], with three hybrid orbitals arranged in a plane at **120°** [1], leaving one unhybridised p orbital on each carbon to overlap sideways and form the π bond of the C=C double bond [1]. This contrasts with an sp³ carbon (as in ethane), which has four equivalent hybrid orbitals arranged tetrahedrally with no unhybridised p orbital left over.
+
+**9.** The syllabus uses **van der Waals' forces as the umbrella term** that includes hydrogen bonding, permanent dipole–dipole forces and induced dipole–induced dipole (dispersion) forces [1] — it is not a separate, competing category from hydrogen bonding [1]. Calling every intermolecular force "van der Waals'" as if it meant only the weak dispersion type is the more common version of this mistake.
+
 ---
 
 ## Where marks are usually lost
@@ -112,3 +124,6 @@ Related: [Shapes and Intermolecular Forces revision notes](/resources/as-chemist
 - Explaining ice's density without "open lattice" and "tetrahedral".
 - Saying covalent bonds break on boiling.
 - Comparing molecule size rather than **number of electrons** for induced dipole strength.
+- Saying a double bond is "two identical bonds" rather than one σ and one weaker, more reactive π bond.
+- Forgetting that the unhybridised p orbital, not the hybrid orbitals, is what forms the π bond.
+- Treating "van der Waals' forces" as excluding hydrogen bonding, rather than as the umbrella term covering it.

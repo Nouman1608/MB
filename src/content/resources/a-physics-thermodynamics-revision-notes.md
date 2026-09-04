@@ -61,6 +61,14 @@ Work done by an expanding gas at constant pressure:
 W = p delta-V         (and delta-U = q - p delta-V)
 ```
 
+**Worked example.** A gas absorbs 500 J of thermal energy and does 200 J of work by expanding against a constant external pressure. Since the gas does work on its surroundings, W = −200 J.
+
+```
+delta-U = q + W = 500 + (-200) = 300 J
+```
+
+The gas's internal energy increases by 300 J.
+
 ## The four processes
 
 | Process | Condition | Consequence |
@@ -72,6 +80,8 @@ W = p delta-V         (and delta-U = q - p delta-V)
 
 Two of these follow directly from ΔU depending only on temperature for an ideal gas.
 
+**Internal energy is a state function** — it depends only on the current state of the system (its temperature, for an ideal gas), never on the process or path used to reach that state. Two different routes between the same start and end states give the same ΔU, even if q and W individually differ along each route.
+
 ## Heating equations
 
 ```
@@ -81,6 +91,8 @@ change of state:      E = m L
 
 - **Specific heat capacity c** — energy to raise 1 kg by 1 K, J kg⁻¹ K⁻¹.
 - **Specific latent heat L** — energy to change the state of 1 kg with no temperature change, J kg⁻¹.
+
+Specific heat capacity is defined **per kilogram**; heat capacity (without "specific") is a property of a particular object and is defined **per kelvin** only, without dividing by mass — the two are easily confused in an exam answer.
 
 **Latent heat of vaporisation > latent heat of fusion** because boiling must overcome the intermolecular forces completely and also do work pushing back the atmosphere, whereas melting only loosens them.
 
@@ -101,6 +113,8 @@ pV = nRT
 - Saying molecules "stop moving" at absolute zero.
 - Forgetting to convert °C to K in gas equations.
 - Confusing specific heat capacity (per kg per K) with heat capacity (per K).
+- Assuming internal energy depends on the process used to reach a state — it is a state function, determined only by the current state.
+- Applying W = pΔV when pressure is not constant during the process.
 
 ## Self-test
 
@@ -109,5 +123,7 @@ pV = nRT
 3. Why does temperature stay constant during boiling?
 4. A gas expands isothermally. What are ΔU and q?
 5. Why is latent heat of vaporisation larger than latent heat of fusion?
+6. A gas absorbs 500 J of thermal energy and does 200 J of work by expanding. Find the change in internal energy.
+7. Why does internal energy not depend on the process used to reach a given state?
 
-**Answers:** 1. The sum of the random distribution of kinetic and potential energies of the molecules; the kinetic part depends on temperature, the potential part on molecular separation. 2. ΔU = q + W; compressing the gas means work is done **on** it, so W is positive. 3. The energy supplied increases the potential component of internal energy by separating the molecules, not the kinetic component, so temperature is unchanged. 4. ΔU = 0 (temperature constant), so q = −W. 5. Vaporisation must completely overcome the intermolecular forces and also do work against atmospheric pressure as the vapour expands; melting only loosens the forces.
+**Answers:** 1. The sum of the random distribution of kinetic and potential energies of the molecules; the kinetic part depends on temperature, the potential part on molecular separation. 2. ΔU = q + W; compressing the gas means work is done **on** it, so W is positive. 3. The energy supplied increases the potential component of internal energy by separating the molecules, not the kinetic component, so temperature is unchanged. 4. ΔU = 0 (temperature constant), so q = −W. 5. Vaporisation must completely overcome the intermolecular forces and also do work against atmospheric pressure as the vapour expands; melting only loosens the forces. 6. W = −200 J (the gas does work on its surroundings); ΔU = q + W = 500 + (−200) = **300 J**. 7. Internal energy is a **state function** — it depends only on the system's current state (its temperature, for an ideal gas), never on the route taken to reach it, even though q and W individually can differ between different routes.

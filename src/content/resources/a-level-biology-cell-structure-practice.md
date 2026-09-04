@@ -63,6 +63,14 @@ Related: [Cell Structure revision notes](/resources/a-level-biology-cell-structu
 
 **(b)** Explain the reasoning. **[2]**
 
+**8.** Explain why electron microscopes achieve higher resolution than light microscopes, and state one major limitation this brings compared with light microscopy. **[3]**
+
+**9.** Distinguish between free ribosomes and ribosomes bound to the rough endoplasmic reticulum, in terms of the proteins each produces. **[2]**
+
+**10.** Compare the cell wall composition of a prokaryotic cell, a fungal cell and a plant cell. **[3]**
+
+**11.** A student states that prokaryotic cells contain no additional DNA beyond their single circular chromosome. Explain why this is incorrect. **[1]**
+
 ---
 
 ## Answers
@@ -92,6 +100,14 @@ Related: [Cell Structure revision notes](/resources/a-level-biology-cell-structu
 
 **(b)** 70S ribosomes and **circular DNA** are characteristic of **prokaryotes**, not eukaryotes [1], so their presence inside eukaryotic organelles suggests a prokaryotic ancestry [1].
 
+**8.** Electron microscopes use a beam of **electrons**, which has a much **shorter effective wavelength than light**, and resolution is fundamentally limited by wavelength — a shorter wavelength distinguishes points that are closer together [1] [1]. Limitation: samples must be **dead, dehydrated and viewed in a vacuum**, so **living, moving processes cannot be observed** in real time as they can with light microscopy [1].
+
+**9.** **Free ribosomes** (in the cytoplasm) produce proteins **used within the cell itself** [1]. Ribosomes **bound to the rough endoplasmic reticulum** produce proteins **destined for secretion or for use in membranes**, since the rough ER processes and packages the protein for export [1].
+
+**10.** A prokaryotic cell wall is built from **peptidoglycan (murein)** [1]; a fungal cell wall is built from **chitin** [1]; a plant cell wall is built from **cellulose** [1] — the three differ entirely in composition despite all providing structural support.
+
+**11.** Prokaryotic cells may also carry **plasmids** — small, additional circular DNA molecules separate from the main chromosome — which eukaryotic cells do not have [1].
+
 ---
 
 ## Where marks are usually lost
@@ -101,3 +117,5 @@ Related: [Cell Structure revision notes](/resources/a-level-biology-cell-structu
 - Giving only one reason for the homogenisation medium's properties.
 - Saying the rough ER modifies proteins — that is the Golgi's role.
 - Confusing magnification with resolution.
+- Stating electron microscopy has "better resolution" without linking this to the shorter wavelength of electrons.
+- Describing an organelle's appearance without linking its structure to its function.

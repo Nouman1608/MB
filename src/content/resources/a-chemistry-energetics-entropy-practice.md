@@ -77,6 +77,16 @@ CaCO3(s) -> CaO(s) + CO2(g)     delta-H = +178 kJ mol-1,  delta-S = +161 J K-1 m
 
 **(c)** The reaction is feasible above this temperature but is not observed at room temperature even after several days. Explain. **[2]**
 
+## Section C
+
+**7.** Define **enthalpy change of hydration** and **enthalpy change of solution**, and explain why hydration enthalpy is always exothermic while enthalpy of solution can be either sign. **[3]**
+
+**8.** Given ΔH_latt(LiCl) = −846 kJ mol⁻¹, ΔH_hyd(Li⁺) = −520 kJ mol⁻¹ and ΔH_hyd(Cl⁻) = −364 kJ mol⁻¹, calculate ΔH_sol(LiCl). **[3]**
+
+**9.** Explain how ionic charge and ionic radius affect the magnitude of hydration enthalpy. **[2]**
+
+**10.** A reaction has ΔH negative and ΔS negative. State whether it is feasible at all temperatures, never feasible, or feasible only within a certain temperature range — and justify your answer. **[2]**
+
 ---
 
 ## Answers
@@ -105,6 +115,16 @@ CaCO3(s) -> CaO(s) + CO2(g)     delta-H = +178 kJ mol-1,  delta-S = +161 J K-1 m
 **(b)** At the point of feasibility ΔG = 0, so T = ΔH ÷ ΔS [1] = 178 ÷ 0.161 = **1106 K** [1].
 
 **(c)** ΔG being negative indicates only that the reaction is **thermodynamically feasible**, not that it is fast [1]. The **activation energy is high**, so the rate is negligible at room temperature [1].
+
+**7.** Hydration enthalpy is the enthalpy change when **one mole of a gaseous ion dissolves in water** to form one mole of aqueous ions [1]. Enthalpy of solution is the enthalpy change when **one mole of an ionic solid dissolves** to form an infinitely dilute solution [1]. Hydration is always exothermic because it is dominated by the attraction between ions and polar water molecules, but solution is the *balance* between breaking the lattice (endothermic) and hydrating the ions (exothermic), so its sign depends on which term is larger [1].
+
+**8.** ΔH_sol = −ΔH_latt + ΔH_hyd(cation) + ΔH_hyd(anion) [1]
+= −(−846) + (−520) + (−364) [1]
+= 846 − 884 = **−38 kJ mol⁻¹** [1].
+
+**9.** Hydration enthalpy becomes **more exothermic** as ionic charge **increases** and as ionic radius **decreases** [1], because a smaller, more highly charged ion has a more concentrated charge density, attracting the surrounding water dipoles more strongly [1].
+
+**10.** **Feasible only below a certain temperature** [1]. With ΔH negative, the −TΔS term becomes increasingly positive (since ΔS is negative) as T rises, so ΔG eventually turns positive at high temperature even though it starts negative at low temperature [1].
 
 ---
 

@@ -61,6 +61,14 @@ Related: [Radioactivity revision notes](/resources/edexcel-igcse-physics-radioac
 
 **7.** State three ways of reducing exposure when handling radioactive sources. **[3]**
 
+**8.** Describe nuclear fission, including how a chain reaction can occur. **[3]**
+
+**9.** State the roles of the control rods and the moderator in a nuclear reactor. **[2]**
+
+**10.** Describe nuclear fusion, and explain why it does not occur under everyday conditions on Earth. **[3]**
+
+**11.** Distinguish between contamination and irradiation, including which is an ongoing risk after the source is removed. **[3]**
+
 ---
 
 ## Answers
@@ -88,6 +96,14 @@ Related: [Radioactivity revision notes](/resources/edexcel-igcse-physics-radioac
 
 **7.** Any three: **minimise the time** of exposure [1]; **maximise the distance** from the source [1]; use **shielding** such as lead [1]; handle with tongs; store in a lead-lined container.
 
+**8.** A heavy nucleus (e.g. uranium-235) **splits into two smaller daughter nuclei plus several neutrons** [1], releasing energy as kinetic energy of the products [1]. If the released neutrons strike further U-235 nuclei, a **chain reaction** results [1] — each fission event triggering further fission events in a self-sustaining process.
+
+**9.** **Control rods** absorb excess neutrons to **regulate the reaction rate** [1]. The **moderator** slows fast neutrons to speeds more likely to cause further fission [1].
+
+**10.** Fusion **combines smaller nuclei into a larger one**, with a loss of mass converted into a release of energy — the process powering stars, including the Sun [1] [1]. It requires extremely high temperature and pressure to **overcome the electrostatic repulsion** between positively charged nuclei, conditions not present on Earth under everyday circumstances [1].
+
+**11. Contamination** is when radioactive material is **transferred onto or into an object or person**, remaining an ongoing risk even after the original source is removed [1]. **Irradiation** is exposure to radiation from an external source **without** any material being transferred [1] — the risk stops as soon as the source is removed or the person moves away [1].
+
 ---
 
 ## Where marks are usually lost
@@ -96,3 +112,6 @@ Related: [Radioactivity revision notes](/resources/edexcel-igcse-physics-radioac
 - Forgetting to subtract background before a half-life calculation.
 - Not balancing both the mass number and the atomic number.
 - Choosing a long half-life for a medical tracer.
+- Confusing the roles of control rods (absorb neutrons) and the moderator (slows neutrons) in a reactor.
+- Describing fusion without mentioning the need to overcome electrostatic repulsion between nuclei.
+- Confusing contamination (material transferred, ongoing risk) with irradiation (external exposure, stops when the source is removed).

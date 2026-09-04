@@ -40,6 +40,8 @@ Identify pairs by finding the two species that differ by one proton — one on e
 
 **Amphoteric** species can act as either: water, HCO₃⁻, HSO₄⁻, amino acids.
 
+The definition is **behavioural**, not compositional — it describes what a substance *does*, not what class it belongs to. This is why ammonia counts as a common alkali even though its own formula contains no OH⁻: dissolved in water, NH₃ accepts a proton from H₂O to form NH₄⁺ and OH⁻.
+
 ## Strong vs weak — and the trap
 
 | | Strong | Weak |
@@ -48,6 +50,8 @@ Identify pairs by finding the two species that differ by one proton — one on e
 | Examples | HCl, HNO₃, H₂SO₄; NaOH, KOH | Ethanoic, carbonic, citric; NH₃ |
 
 **Strong/weak** describes *degree of dissociation*. **Concentrated/dilute** describes *amount per volume*. A weak acid can be concentrated; a strong acid can be dilute. These are independent properties — the single most tested confusion in the topic.
+
+**Observable differences** between a strong and a weak acid of the *same concentration*: the strong acid reacts **faster with a reactive metal** (more free H⁺ immediately available), has a **lower pH**, and **conducts electricity better** (full dissociation produces more ions in solution).
 
 ## Titration curves — the four shapes
 
@@ -73,6 +77,16 @@ An indicator is suitable if its **pH range falls entirely within the vertical se
 
 That last row is the exam favourite: with a weak acid and weak base there is no vertical section, so **no indicator works** and a pH meter must be used.
 
+## Neutralisation and salt formation
+
+**Neutralisation** is the reaction of H⁺(aq) with OH⁻(aq) to form water:
+
+```
+H+(aq) + OH-(aq) -> H2O(l)
+```
+
+The positive ion left from the acid and the negative ion left from the base combine to form a **salt** — e.g. hydrochloric acid + sodium hydroxide → sodium chloride + water. At AS Level, pH is described **qualitatively only** (below 7 acidic, 7 neutral, above 7 alkaline) — numerical Ka, pKa and pH calculations are A2 content.
+
 ## Half-equivalence point
 
 At exactly half the equivalence volume, [HA] = [A⁻], so:
@@ -90,6 +104,7 @@ Reading pH at half-equivalence off a curve is the standard method for finding Ka
 - Choosing an indicator whose range lies outside the vertical section.
 - Forgetting that a conjugate base of a *weak* acid is itself a base strong enough to raise pH.
 - Writing the conjugate pair as differing by H rather than H⁺.
+- Attempting to calculate pH numerically at AS — Ka, pKa and pH calculations are A2 content; at AS, pH is qualitative only.
 
 ## Self-test
 
@@ -98,5 +113,7 @@ Reading pH at half-equivalence off a curve is the standard method for finding Ka
 3. Why is the equivalence pH above 7 for a weak acid with a strong base?
 4. Which indicator suits ethanoic acid titrated with sodium hydroxide, and why?
 5. What is true at the half-equivalence point?
+6. Give one observable difference between a strong acid and a weak acid of the same concentration.
+7. Explain why ammonia is classed as a Brønsted-Lowry base despite containing no hydroxide ion in its own formula.
 
-**Answers:** 1. NH₃/NH₄⁺ and H₂O/OH⁻. 2. Weak means only partially dissociated into ions; dilute means a small amount of acid per unit volume — a weak acid can be concentrated. 3. The salt formed contains the conjugate base of the weak acid, which hydrolyses in water to produce hydroxide ions. 4. Phenolphthalein — the vertical section runs roughly pH 7–11, and phenolphthalein's range (8.3–10.0) lies entirely within it. 5. Half the acid has reacted, so [HA] = [A⁻] and pH = pKa.
+**Answers:** 1. NH₃/NH₄⁺ and H₂O/OH⁻. 2. Weak means only partially dissociated into ions; dilute means a small amount of acid per unit volume — a weak acid can be concentrated. 3. The salt formed contains the conjugate base of the weak acid, which hydrolyses in water to produce hydroxide ions. 4. Phenolphthalein — the vertical section runs roughly pH 7–11, and phenolphthalein's range (8.3–10.0) lies entirely within it. 5. Half the acid has reacted, so [HA] = [A⁻] and pH = pKa. 6. The strong acid reacts faster with a reactive metal, has a lower pH, and conducts electricity better, because full dissociation gives more free ions. 7. Dissolved in water, ammonia accepts a proton from H₂O to form NH₄⁺ and OH⁻ — the Brønsted-Lowry definition is behavioural (what a substance does), not based on its own formula.
