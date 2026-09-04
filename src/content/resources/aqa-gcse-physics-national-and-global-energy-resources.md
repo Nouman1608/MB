@@ -65,7 +65,11 @@ regarding energy resources.
 A **non-renewable** energy resource is one that will run out — it is
 being used up faster than it can be replaced. A **renewable** energy
 resource is one that is being (or can be) replenished as it is used, so
-it will not run out. The main energy resources available for use on
+it will not run out. "Renewable" is not the same claim as "environmentally
+harmless" -- a resource can be renewable and still cause genuine
+environmental, economic or social issues, such as large-scale
+hydro-electric dams affecting river ecosystems, or wind farms affecting
+local land use. The main energy resources available for use on
 Earth are:
 
 - **Non-renewable**: fossil fuels (coal, oil, gas), nuclear fuel
@@ -96,6 +100,8 @@ in the UK has been decreasing, while the use of some renewable resources
 has been increasing**, over recent decades — reflecting national and
 international policy responses to climate change and energy security.
 
+**Reliability and environmental impact are separate dimensions, not the same judgement.** Nuclear power is highly reliable -- it can generate large amounts of electricity on demand regardless of weather -- but produces radioactive waste requiring long-term storage. Wind power has comparatively few environmental drawbacks but is unreliable, since it depends on weather conditions. A country choosing between resources for energy security (reducing reliance on imported fuels) typically weighs both dimensions together: nuclear power reduces import dependence through reliable domestic generation, while wind or solar do so by drawing on domestically available weather resources instead of imported fuel.
+
 **Worked example.** A power station burns coal to generate electricity.
 State whether this is a renewable or non-renewable resource, and give one
 environmental issue associated with its use.
@@ -124,6 +130,7 @@ naming a specific issue (e.g. "it's bad for the environment" rather than
 
 ## Related resources
 
+- [National and Global Energy Resources practice questions](/resources/aqa-gcse-physics-national-and-global-energy-resources-practice/)
 - [Conservation and Dissipation of Energy](/resources/aqa-gcse-physics-conservation-and-dissipation-of-energy/) — the previous sub-topic
 - [Energy Changes in a System](/resources/aqa-gcse-physics-energy-changes-in-a-system/)
 - [AQA GCSE Physics hub](/boards/aqa/gcse/physics/)
