@@ -149,6 +149,11 @@ past-paper questions that combine algebra with another topic area
 rather than only questions labelled "Algebra," since that is closer to
 how AQA actually assesses it.
 
+## Related resources
+
+- [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-notes/)
+- [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/)
+
 ## Official syllabus
 
 AQA, *GCSE Mathematics (8300) Specification*, for first teaching

@@ -144,6 +144,11 @@ Finding the second differences first, using them to identify the n² coefficient
 - Solve the simultaneous pair y = 2x − 1 and y = x² + 1.
 - List three pieces of Higher-tier-only Algebra content from memory.
 
+## Related resources
+
+- [Algebra study guide](/resources/aqa-gcse-mathematics-algebra/)
+- [Algebra practice questions](/resources/aqa-gcse-mathematics-algebra-practice/)
+
 ## Official syllabus
 
 AQA, *GCSE Mathematics (8300) Specification*, for first teaching
