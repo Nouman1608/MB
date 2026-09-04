@@ -129,6 +129,11 @@ Topic P1 (Matter) established the particle model, changes of state and pressure 
 - Calculate the elastic potential energy stored in a spring with k = 40 N/m extended by 0.2 m.
 - Explain why a parked car has zero resultant force despite gravity acting on it.
 
+## Related resources
+
+- [Forces study guide](/resources/ocr-gcse-physics-forces/)
+- [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Physics A (Gateway Science) J249 Specification*,

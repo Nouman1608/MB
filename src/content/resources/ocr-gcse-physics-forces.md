@@ -150,6 +150,11 @@ investigating Hooke's law) as genuine exam content, not just classroom
 activities -- OCR routinely examines the method, the variables
 controlled, and the reliability of results from practicals like these.
 
+## Related resources
+
+- [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/)
+- [Forces practice questions](/resources/ocr-gcse-physics-forces-practice/)
+
 ## Official syllabus
 
 OCR, *GCSE (9-1) Physics A (Gateway Science) J249 Specification*,
