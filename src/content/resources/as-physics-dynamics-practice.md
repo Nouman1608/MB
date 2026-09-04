@@ -64,6 +64,18 @@ Related: [Dynamics revision notes](/resources/as-physics-dynamics-revision-notes
 
 **6.** Explain, in terms of momentum, how a car's crumple zone reduces injury in a collision. **[3]**
 
+**7.** A skydiver jumps from a stationary balloon and falls with air resistance acting.
+
+**(a)** Explain why the skydiver's acceleration decreases as their speed increases. **[3]**
+
+**(b)** Explain what is meant by terminal velocity, and state the resultant force at that point. **[2]**
+
+**8.** State the test used to determine whether a collision is elastic, in terms of relative speeds.
+
+**(a)** A 2.0 kg trolley moving at 3.0 m s⁻¹ collides with a stationary 1.0 kg trolley and they stick together. Calculate their common velocity. **[3]**
+
+**(b)** Calculate the kinetic energy before and after, and state whether the collision is elastic. **[3]**
+
 ---
 
 ## Answers
@@ -96,6 +108,16 @@ Final momentum = 0.058 × (−30) = −1.74 kg m s⁻¹ [1 for using a negative]
 
 **6.** The crumple zone **increases the time** over which the momentum change occurs [1]. Since force is the **rate of change of momentum** [1], a longer time for the same momentum change gives a **smaller force** on the occupants [1].
 *The momentum change is fixed by the collision — only the time can be altered. Answers saying the crumple zone "absorbs the force" score nothing.*
+
+**7. (a)** As speed increases, **air resistance (drag) increases** [1], so the **resultant force decreases** [1], and since a = F/m (constant mass), the **acceleration decreases** [1].
+
+**(b)** **Terminal velocity** is the constant speed reached when drag equals weight [1], so the **resultant force is zero** [1].
+
+**8.** In an **elastic** collision, the relative speed of approach equals the relative speed of separation.
+
+**(a)** m₁u₁ + m₂u₂ = (m₁ + m₂)v: (2.0 × 3.0) + (1.0 × 0) = (2.0 + 1.0)v [1]; 6.0 = 3.0v [1]; v = **2.0 m s⁻¹** [1].
+
+**(b)** KE before = ½ × 2.0 × 3.0² = **9.0 J** [1]. KE after = ½ × 3.0 × 2.0² = **6.0 J** [1]. Kinetic energy is not conserved (9.0 J → 6.0 J), so the collision is **inelastic** [1].
 
 ---
 

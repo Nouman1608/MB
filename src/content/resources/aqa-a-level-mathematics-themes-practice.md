@@ -51,6 +51,14 @@ Related: [Overarching Themes revision notes](/resources/aqa-a-level-mathematics-
 
 **7.** Explain what is meant by "necessary and sufficient", using the statement "a quadrilateral is a square" and "a quadrilateral has four equal sides". **[3]**
 
+**8.** Outline the structure of a proof by contradiction, and name one classic result usually proved this way. **[3]**
+
+**9.** Explain the difference between a question that says "hence" and one that says "hence or otherwise". **[2]**
+
+**10.** State two reasons why rounding partway through a calculation, rather than at the end, can lose marks. **[2]**
+
+**11.** State one way a calculator can be misused in an exam question that requires working to be shown. **[2]**
+
 ---
 
 ## Answers
@@ -71,6 +79,14 @@ Related: [Overarching Themes revision notes](/resources/aqa-a-level-mathematics-
 **(c)** A model **simplifies reality to make the mathematics tractable** [1]; if the predictions are **close enough for the purpose in hand**, the simplification is justified — and the model can be refined later if greater accuracy is needed [1].
 
 **7.** Having four equal sides is a **necessary** condition for a square — every square has them [1] — but it is **not sufficient**, because a rhombus also has four equal sides without being a square [1]. A **necessary and sufficient** condition would be four equal sides **and** four right angles [1].
+
+**8.** **Assume the opposite** of the statement is true, **derive a logical contradiction** from that assumption, and **conclude that the original statement must be true** [2]. A classic example is the proof that **√2 is irrational** (or the infinitude of primes) [1].
+
+**9.** **"Hence"** requires the answer to be built from the **result of the previous part** [1]. **"Hence or otherwise"** allows a **completely fresh method**, not derived from the earlier part, provided it reaches the correct result [1].
+
+**10.** Rounding partway through **introduces error that compounds through later steps**, so the final answer may be inaccurate even if the method is correct [1]; it also risks the final answer being **judged wrong to the required accuracy**, since exam mark schemes expect full accuracy carried through and only rounded at the very end [1].
+
+**11.** Giving an **unsupported answer straight from the calculator**, with no working shown, earns no method marks where working is explicitly required — the calculator should be used to check a method, not replace it [2].
 
 ---
 

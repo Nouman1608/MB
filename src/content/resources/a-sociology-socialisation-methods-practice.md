@@ -63,6 +63,20 @@ Related: [Socialisation, Identity and Methods revision notes](/resources/a-socio
 
 **(c)** Explain one limitation of using feral children cases as evidence. **[2]**
 
+## Section C
+
+**7.** Distinguish between a subculture and a counter-culture, giving an example of each. **[4]**
+
+**8.** Explain the postmodernist view of identity, and how it differs from the structuralist view. **[4]**
+
+**9.** A researcher wants a representative sample of a school but has no complete list of students.
+
+**(a)** Explain what a sampling frame is, and why its absence is a problem here. **[3]**
+
+**(b)** Suggest **one** sampling method the researcher could use instead, and explain why. **[3]**
+
+**10.** Explain what triangulation is and why a researcher might use it. **[3]**
+
 ---
 
 ## Answers
@@ -92,6 +106,16 @@ Related: [Socialisation, Identity and Methods revision notes](/resources/a-socio
 **(b)** **Cross-cultural variation** [1] — norms and gender roles differ markedly between societies, which biology alone cannot explain [1].
 
 **(c)** Such cases are **extremely rare and unrepresentative** [1], and the children often suffered **severe abuse or had pre-existing conditions**, so the effects cannot be attributed to isolation alone [1].
+
+**7.** A **subculture** is a group within society with distinct norms and values, e.g. a youth subculture with its own dress and music [1] [1]. A **counter-culture** is a subculture actively **opposed** to the mainstream, e.g. a group rejecting mainstream values entirely rather than simply differing from them [1] [1].
+
+**8.** Postmodernists argue that **grand narratives no longer explain society**, and identity is **fluid, chosen and consumed** rather than fixed [1] [1]. This differs from the structuralist view, where identity and behaviour are **shaped by social structures** such as class or the family, largely outside the individual's control [1] [1].
+
+**9. (a)** A **sampling frame** is the list from which a sample is drawn [1]. Without one, the researcher cannot guarantee every student has a known and equal chance of selection, so the sample may not be representative [1] [1].
+
+**(b)** Any reasonable non-random method with explanation, e.g. **opportunity sampling** — selecting whichever students are available and willing — is quick and requires no frame, though it risks being unrepresentative [2] [1]; or **snowball sampling**, useful where students can be reached through existing contacts [2] [1].
+
+**10.** Triangulation **combines two or more methods** so that the strengths of one offset the weaknesses of another [1] [1], increasing confidence in the findings — for example, combining a questionnaire's reliability with an interview's validity [1].
 
 ---
 

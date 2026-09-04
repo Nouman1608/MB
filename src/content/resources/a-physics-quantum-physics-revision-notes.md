@@ -39,6 +39,8 @@ E = h f = h c / lambda        h = 6.63 x 10^-34 J s
 1 eV = 1.60 x 10^-19 J
 ```
 
+The **electron-volt** is a convenient unit at the atomic scale: it is defined as the energy gained by an electron accelerated through a potential difference of 1 V.
+
 ## The photoelectric effect
 
 ```
@@ -61,7 +63,20 @@ KE_max = h f - phi
 
 **The one-to-one interaction is the whole argument.** One photon transfers all its energy to one electron. If that quantum is smaller than φ, nothing happens — and waiting does not help, because the energy is not accumulated.
 
+## Worked example
+
+A metal has a work function of 2.0 eV. Light of frequency 8.0 × 10¹⁴ Hz shines on it. Find the maximum kinetic energy of emitted electrons, in eV.
+
+```
+E = hf = 6.63 x 10^-34 x 8.0 x 10^14 = 5.30 x 10^-19 J = 3.31 eV
+KE_max = hf - phi = 3.31 - 2.0 = 1.31 eV
+```
+
+Working directly in eV avoids an unnecessary unit conversion once the photon energy has been found.
+
 ## Wave-particle duality
+
+The photoelectric effect is strong evidence that light behaves as **particles**; interference and diffraction are equally strong evidence that light behaves as a **wave**. Both are true — this is wave-particle duality, and it applies in reverse to particles like electrons too.
 
 ```
 de Broglie:   lambda = h / p = h / (m v)
@@ -71,7 +86,7 @@ Electrons accelerated through a p.d. V gain energy `eV = ½mv²`, giving `λ = h
 
 **Evidence:** electron diffraction through a thin graphite film produces rings — diffraction is a wave property, yet electrons are particles. Conversely the photoelectric effect shows light, a wave, behaving as particles.
 
-Because h is tiny, everyday objects have wavelengths far too small to observe. An electron at a few hundred eV has a wavelength comparable to atomic spacing, which is why it diffracts from a crystal lattice.
+Because h is tiny, everyday objects have wavelengths far too small to observe — a macroscopic object's de Broglie wavelength is many orders of magnitude smaller than any aperture it could pass through, so no diffraction is ever seen. An electron at a few hundred eV has a wavelength comparable to atomic spacing, which is why it diffracts from a crystal lattice.
 
 ## Energy levels and spectra
 
@@ -86,7 +101,7 @@ h f = E_2 - E_1
 | **Emission line** | Electron falls from higher to lower level, emitting a photon of exactly ΔE |
 | **Absorption line** | Photon of exactly ΔE is absorbed, lifting an electron to a higher level |
 
-Line spectra are **discrete** precisely because energy levels are discrete — this is the direct experimental evidence for quantisation, and each element's pattern is unique, which is how stellar composition is determined.
+Line spectra are **discrete** precisely because energy levels are discrete — this is the direct experimental evidence for quantisation, and each element's pattern is unique, which is how stellar composition is determined from the absorption lines in starlight.
 
 ## Exam traps
 
@@ -104,5 +119,6 @@ Line spectra are **discrete** precisely because energy levels are discrete — t
 3. What single feature of photon–electron interaction explains the threshold frequency?
 4. State de Broglie's relation and the evidence for it.
 5. Why are line spectra discrete?
+6. A metal has a work function of 2.0 eV. Light of frequency 8.0 × 10¹⁴ Hz shines on it. Find KE_max in eV.
 
-**Answers:** 1. hf = φ + KE_max; φ is the minimum energy required to remove an electron from the metal surface. 2. Red photons individually carry less energy than φ; intensity only increases the *number* of photons, and energy is not accumulated because one photon interacts with one electron. 3. The one-to-one interaction — a single photon transfers all its energy to a single electron, so if hf < φ no emission occurs at any intensity. 4. λ = h/p; electron diffraction rings from a thin graphite film. 5. Because electron energy levels are discrete, so only photons of energy exactly equal to a difference between two levels can be emitted or absorbed.
+**Answers:** 1. hf = φ + KE_max; φ is the minimum energy required to remove an electron from the metal surface. 2. Red photons individually carry less energy than φ; intensity only increases the *number* of photons, and energy is not accumulated because one photon interacts with one electron. 3. The one-to-one interaction — a single photon transfers all its energy to a single electron, so if hf < φ no emission occurs at any intensity. 4. λ = h/p; electron diffraction rings from a thin graphite film. 5. Because electron energy levels are discrete, so only photons of energy exactly equal to a difference between two levels can be emitted or absorbed. 6. E = hf = 6.63×10⁻³⁴ × 8.0×10¹⁴ = 5.30×10⁻¹⁹ J ≈ 3.31 eV; KE_max = 3.31 − 2.0 = 1.31 eV.

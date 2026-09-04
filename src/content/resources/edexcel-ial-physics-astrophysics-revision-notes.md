@@ -30,7 +30,7 @@ F = L / (4 pi d^2)
 
 **Luminosity** is total power emitted; **radiant flux** is power received per unit area. Confusing the two is the commonest error in the topic.
 
-**Standard candles** have known luminosity, so measuring flux gives distance. Type Ia supernovae qualify because they detonate at a fixed critical mass and so reach a consistent peak luminosity.
+**Standard candles** have known luminosity, so measuring flux gives distance. Type Ia supernovae qualify because they detonate at a fixed critical mass and so reach a consistent peak luminosity. For relatively close stars, **trigonometric parallax** — the apparent shift in a star's position against distant background stars as Earth orbits the Sun — provides an independent distance measurement, useful for calibrating standard candles.
 
 ## Stellar temperature and size
 
@@ -42,6 +42,14 @@ Stefan:  L = 4 pi r^2 sigma T^4
 **Wien first, then Stefan.** Peak wavelength gives temperature; temperature plus luminosity gives radius. Attempting Stefan first leaves two unknowns.
 
 Because `L ∝ T⁴`, a small rise in temperature produces a very large rise in luminosity.
+
+**Worked example.** A star has a surface temperature of 5800 K. Find the wavelength at which it emits most strongly.
+
+```
+lambda_max = (2.898 x 10^-3) / T = (2.898 x 10^-3) / 5800 = 5.00 x 10^-7 m
+```
+
+500 nm, in the visible spectrum — consistent with a Sun-like star.
 
 ## The Hertzsprung–Russell diagram
 
@@ -59,7 +67,7 @@ Regions: **main sequence** (diagonal band), **red giants** (top right — cool b
 
 The fate is determined by mass. The **Chandrasekhar limit** (~1.4 solar masses) is the maximum mass of a white dwarf; above it, electron degeneracy pressure cannot resist gravity and collapse continues.
 
-**Main-sequence lifetime is shorter for more massive stars**, despite their greater fuel supply, because luminosity rises far faster than mass — they burn through it disproportionately quickly.
+**Main-sequence lifetime is shorter for more massive stars**, despite their greater fuel supply, because luminosity rises far faster than mass — they burn through it disproportionately quickly, so a massive star's greater reserves are exhausted sooner rather than later.
 
 ## Redshift and cosmology
 
@@ -69,9 +77,11 @@ Hubble:   v = H0 d
 age  ~  1 / H0
 ```
 
+There is ongoing scientific controversy over the precise value of the Hubble constant, and what this implies for the age and ultimate fate of the universe.
+
 Almost all galaxies are redshifted, and redshift increases with distance, so the universe is **expanding**.
 
-**This does not place us at the centre.** Space itself is expanding, so every observer everywhere would see the same relationship — a point worth stating explicitly.
+**This does not place us at the centre.** Space itself is expanding, so every observer everywhere would see the same relationship — a point worth stating explicitly, since it is a common misreading of the redshift-distance evidence.
 
 **Big Bang evidence, with what each shows:**
 
@@ -79,7 +89,7 @@ Almost all galaxies are redshifted, and redshift increases with distance, so the
 2. **Cosmic microwave background** → the cooled remnant of a hot early universe, black-body at ~2.7 K.
 3. **Hydrogen and helium abundances** → match the ratio predicted by Big Bang nucleosynthesis.
 
-**Dark matter** is inferred from galactic rotation curves — outer stars orbit faster than visible mass can account for. **Dark energy** is inferred from supernova observations showing the expansion is **accelerating**.
+**Dark matter** is inferred from galactic rotation curves — outer stars orbit faster than visible mass can account for, implying unseen mass exerting additional gravitational pull. **Dark energy** is inferred from supernova observations showing the expansion is **accelerating** rather than slowing under gravity's pull, as would otherwise be expected.
 
 ## Exam traps
 
@@ -97,5 +107,7 @@ Almost all galaxies are redshifted, and redshift increases with distance, so the
 3. Why must a cool, highly luminous star be very large?
 4. Why do massive stars have shorter main-sequence lifetimes?
 5. What is the evidence for dark matter?
+6. A star has a surface temperature of 5800 K. Find its peak emission wavelength.
+7. How does trigonometric parallax measure stellar distance, and what is it used for?
 
-**Answers:** 1. Luminosity is the total power radiated by the star; radiant flux is the power received per unit area at the observer. 2. Wien first, because peak wavelength gives temperature; Stefan then uses that temperature with the luminosity to find the radius — reversing the order leaves two unknowns. 3. Luminosity depends on both temperature and surface area, so a low temperature can only give high luminosity if the surface area, and hence the radius, is very large. 4. Luminosity increases much faster than mass, so they consume their larger fuel supply disproportionately quickly. 5. Galactic rotation curves show that stars in the outer regions orbit far faster than the visible mass distribution can explain.
+**Answers:** 1. Luminosity is the total power radiated by the star; radiant flux is the power received per unit area at the observer. 2. Wien first, because peak wavelength gives temperature; Stefan then uses that temperature with the luminosity to find the radius — reversing the order leaves two unknowns. 3. Luminosity depends on both temperature and surface area, so a low temperature can only give high luminosity if the surface area, and hence the radius, is very large. 4. Luminosity increases much faster than mass, so they consume their larger fuel supply disproportionately quickly. 5. Galactic rotation curves show that stars in the outer regions orbit far faster than the visible mass distribution can explain. 6. λmax = (2.898×10⁻³) ÷ 5800 = 5.00×10⁻⁷ m (500 nm). 7. It measures the apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun; it is used to calibrate standard candles for larger distances.

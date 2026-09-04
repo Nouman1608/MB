@@ -44,9 +44,27 @@ weathering and erosion -> transport -> deposition -> compaction (sedimentary)
 
 The cycle is **continuous and driven by two energy sources**: internal heat from the Earth (for melting, uplift and metamorphism) and solar energy driving the water cycle (for weathering, erosion and transport).
 
+## Minerals and reserves
+
+A **mineral** is a substance obtained by mining. A **reserve** is a known deposit not yet mined that could be extracted in future — reserve figures are estimates that change, rising as new deposits are discovered or higher prices make lower-grade ore viable, falling as extraction proceeds. A resource only becomes a reserve when extraction is **economically viable**.
+
+**Worked example.** A country reports iron ore reserves of 400 million tonnes and extracts 8 million tonnes a year. Explain why "reserves will last 50 years" is unreliable.
+
+```
+400 / 8 = 50 years, but this assumes:
+  - extraction rate stays constant (demand usually grows)
+  - no new deposits are discovered (exploration continues)
+  - the economic threshold is fixed (higher prices make low-grade ore viable)
+  - no substitution or recycling reduces demand
+```
+
+The calculation itself is worth one mark; the reasons it is unreliable are worth the rest.
+
 ## Extraction methods
 
 **Open-cast (surface) mining** — cheap, safe, high recovery, but destroys a large surface area, creates dust and noise, and leaves visible scars.
+
+**Adit mining** — a near-horizontal passage driven into a hillside to reach a seam, limited to deposits exposed on a slope.
 
 **Deep (shaft) mining** — less surface damage, accesses deeper deposits, but is expensive, dangerous, and risks subsidence.
 
@@ -87,5 +105,7 @@ The cycle is **continuous and driven by two energy sources**: internal heat from
 3. Give one advantage and one disadvantage of open-cast mining.
 4. Give three environmental impacts of mineral extraction.
 5. What does sustainable use of a finite mineral resource mean in practice?
+6. A country has 400 million tonnes of iron ore reserves and extracts 8 million tonnes a year. Give the simple calculation and explain why it is unreliable.
+7. Distinguish between a mineral and a reserve.
 
-**Answers:** 1. The rate of cooling — slow cooling underground allows large crystals to grow, whereas rapid cooling at the surface produces small ones. 2. The heat and pressure that form them destroy any fossils present in the original rock. 3. It is cheaper and safer with high recovery rates, but it destroys a large surface area and creates dust and noise. 4. Habitat destruction and loss of land; water contamination through acid mine drainage and sediment; air pollution from dust and machinery emissions. 5. Extending the resource's life through efficient extraction, recycling and substitution, and restoring sites afterwards — since the resource itself cannot be renewed.
+**Answers:** 1. The rate of cooling — slow cooling underground allows large crystals to grow, whereas rapid cooling at the surface produces small ones. 2. The heat and pressure that form them destroy any fossils present in the original rock. 3. It is cheaper and safer with high recovery rates, but it destroys a large surface area and creates dust and noise. 4. Habitat destruction and loss of land; water contamination through acid mine drainage and sediment; air pollution from dust and machinery emissions. 5. Extending the resource's life through efficient extraction, recycling and substitution, and restoring sites afterwards — since the resource itself cannot be renewed. 6. 400 ÷ 8 = 50 years, but this assumes a constant extraction rate, no new discoveries, a fixed economic threshold, and no substitution or recycling — all of which typically change. 7. A mineral is a substance obtained by mining; a reserve is a known deposit not yet mined that could be extracted in future, and only counts once extraction is economically viable.

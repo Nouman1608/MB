@@ -59,6 +59,16 @@ Related: [Measurement and Density revision notes](/resources/measurement-and-den
 
 **7.** Explain the difference between the resolution of an instrument and the accuracy of a measurement, giving an example. **[3]**
 
+## Section C
+
+**8.** Distinguish between mass and weight, and explain why an object's weight changes on the Moon while its mass does not. **[4]**
+
+**9.** State the equation linking gravitational field strength, weight and mass, and explain why g has the same numerical value as the acceleration of free fall. **[3]**
+
+**10.** A block has a mass of 540 g and a volume of 200 cm³. Calculate its density in g cm⁻³. **[2]**
+
+**11.** Describe how you would measure the density of a liquid, stating the equipment and how the mass is found. **[4]**
+
 ---
 
 ## Answers
@@ -80,6 +90,14 @@ Related: [Measurement and Density revision notes](/resources/measurement-and-den
 **(c)** Any two: **repeat the timing and take a mean** [1]; **use a fiducial marker at the centre of the swing**, where the bob moves fastest and the timing point is most sharply defined [1]; **use light gates or video timing** to remove human reaction time altogether [1].
 
 **7. Resolution** is the **smallest change in the quantity that the instrument can detect** — for example a ruler with millimetre divisions has a resolution of 1 mm [1]. **Accuracy** is **how close the measurement is to the true value** [1]. A high-resolution instrument can still be inaccurate — a balance reading to 0.001 g that has not been zeroed will give **precise but systematically wrong** results [1].
+
+**8. Mass** is the quantity of matter in an object, which also gives it **inertia** — resistance to a change in its state of motion [1]. **Weight** is the force of gravity acting on that mass [1]. On the Moon, the **gravitational field is weaker**, so the same mass weighs less there [1], but the amount of matter — the mass — is unchanged [1].
+
+**9.** g = W/m [1]. This is numerically the same as the acceleration of free fall because Newton's second law, F = ma, applied to a falling mass gives W = mg, so g describes both the force per unit mass and the resulting acceleration — the same underlying relationship viewed two ways [2].
+
+**10.** ρ = m/V = 540 ÷ 200 [1] = **2.7 g cm⁻³** [1].
+
+**11.** Measure a **known volume** of the liquid in a measuring cylinder [1]. Find the **mass** of the liquid on a balance, by weighing the container with the liquid and **subtracting the mass of the empty container** [1] [1]. Apply **density = mass ÷ volume** [1].
 
 ---
 

@@ -37,6 +37,8 @@ Not the total of everything given up — only the **single best** alternative. G
 
 Note that a **free good** (air, in most contexts) has no opportunity cost because it is not scarce. Almost everything else is an **economic good**.
 
+**Worked example — free good vs economic good.** Air is a **free good** — unlimited in supply, with no opportunity cost and no price. Oil is an **economic good** — scarce relative to demand, so obtaining it has an opportunity cost and it commands a price. The test is never "does it cost money at the till" but whether resources had to be sacrificed to produce or extract it.
+
 ## Factors of production
 
 | Factor | Meaning | Reward |
@@ -71,6 +73,8 @@ A **shift inwards** results from war, natural disaster, or a fall in the labour 
 
 The curve is normally drawn **concave to the origin** because resources are not equally suited to both uses, so opportunity cost rises as more of one good is produced.
 
+**Two distinct kinds of growth on a PPC.** A **permanent increase in productive capacity** is shown by an outward shift of the whole curve, caused by more or better resources or improved technology. **Short-run growth** can also occur simply by **moving from a point inside the curve towards it**, using existing idle resources more fully, with no change in what the economy is capable of producing at maximum — this movement is temporary and reversible if resources fall idle again, unlike a genuine shift.
+
 **Capital goods versus consumer goods** is the standard question: producing more capital goods today means less consumption now, but shifts the PPC further out in future — sacrificing present consumption for future growth.
 
 ## Economic sectors
@@ -97,5 +101,7 @@ As countries develop, the primary sector shrinks and the tertiary sector grows.
 3. Name the four factors of production and their rewards.
 4. What does a point inside the PPC indicate?
 5. Give three causes of an outward shift in the PPC.
+6. Explain why air is a free good but oil is an economic good.
+7. Distinguish between a movement towards a PPC and an outward shift of the whole PPC.
 
-**Answers:** 1. Wants are unlimited but resources are limited, so choices must be made. 2. The next best alternative forgone; for example, government spending on a new hospital means a new school is forgone. 3. Land–rent, labour–wages, capital–interest, enterprise–profit. 4. Unemployment or inefficiency — the economy is not using all its resources fully, so output could be increased without any opportunity cost. 5. More or better resources, improved technology, better education and training raising productivity, or greater investment in capital goods — any three.
+**Answers:** 1. Wants are unlimited but resources are limited, so choices must be made. 2. The next best alternative forgone; for example, government spending on a new hospital means a new school is forgone. 3. Land–rent, labour–wages, capital–interest, enterprise–profit. 4. Unemployment or inefficiency — the economy is not using all its resources fully, so output could be increased without any opportunity cost. 5. More or better resources, improved technology, better education and training raising productivity, or greater investment in capital goods — any three. 6. Air is unlimited in supply, so obtaining it requires no sacrifice of resources and it has no opportunity cost; oil is scarce relative to demand, so extracting it has an opportunity cost. 7. A movement towards the curve uses existing idle resources more fully and is temporary and reversible; an outward shift is a permanent increase in what the economy is capable of producing at maximum, caused by more or better resources or improved technology.

@@ -52,6 +52,10 @@ Related: [Inequalities revision notes](/resources/inequalities-revision-notes/)
 **(a)** Explain how you would show this region on a graph. **[4]**
 **(b)** State whether the point (2, 3) lies inside the region, showing your working. **[3]**
 
+**8.** Represent x < 1 and y ≥ 1 on the same diagram, explaining the shading convention used. **[4]**
+
+**9.** A diagram shows a shaded region bounded by a solid horizontal line at y = 2 and a broken vertical line at x = 3, with the unshaded region above y = 2 and to the left of x = 3. State the two inequalities defining the unshaded region. **[3]**
+
 ---
 
 ## Answers
@@ -74,6 +78,10 @@ It is not simply x ≥ 3 because **squaring removes the sign** — any number wi
 **7. (a)** Draw the line y = 2x + 1 as a **dashed line**, since the inequality is strict and points on it are excluded [1]; draw y = −1 and x = 4 as **solid lines**, since those inequalities include equality [1]. Shade or identify the region **below y = 2x + 1, above y = −1 and to the left of x = 4** [1]; test a point such as the origin in each inequality to confirm which side to take [1].
 **(b)** Check each: y < 2x + 1 → 3 < 5 ✓ [1]; y ≥ −1 → 3 ≥ −1 ✓ [1]; x ≤ 4 → 2 ≤ 4 ✓. All three are satisfied, so (2, 3) **lies inside the region** [1].
 
+**8.** Draw a **broken** vertical line at x = 1, since the inequality is strict [1], shading the **unwanted** side (x ≥ 1, to the right) [1]. Draw a **solid** horizontal line at y = 1, since the inequality is inclusive [1], shading the unwanted side (y < 1, below it) [1]. The convention is to shade the region **not** wanted, leaving the required region unshaded and visually clear.
+
+**9.** The line y = 2 is solid, so the boundary is inclusive: **y ≥ 2** [1] [1]. The line x = 3 is broken, so the boundary is strict, and the unshaded region lies to the left: **x < 3** [1]. (Note: optimising a quantity subject to a system of inequalities — linear programming — is not part of this syllabus; the skill required stops at representing, solving and reading off regions.)
+
 ---
 
 ## Where marks are usually lost
@@ -82,3 +90,4 @@ It is not simply x ≥ 3 because **squaring removes the sign** — any number wi
 - Giving x > 7 or x < −2 for a quadratic inequality that is less than zero.
 - Using a solid line for a strict inequality.
 - Treating a double inequality one side at a time and losing a bound.
+- Shading the wanted region instead of the unwanted region (the convention is the opposite of what many students expect).

@@ -34,6 +34,8 @@ Compare:
 
 Keep quotations **short**. A two-word quotation embedded in your own sentence shows more control than a copied line.
 
+**Reading questions progress in three stages**: literal comprehension (identifying explicit information), inference (working out implied meaning), and language/structural analysis (explaining the effect of specific word choices or organisation). Treat these as genuinely different skills — a candidate confident at identifying facts can still lose marks on an inference or analysis question if they don't shift approach accordingly.
+
 ## Features worth commenting on
 
 - **Emotive and connotative word choice** — what associations does it carry?
@@ -70,6 +72,8 @@ Fix three things before writing: **form, audience, purpose**.
 
 **Deploy the same techniques you analyse in the reading section**: rhetorical questions, direct address, the rule of three, contrast, a well-placed short sentence. Using them deliberately is what lifts the writing mark.
 
+**A transactional writing task specifies purpose, audience and form in the question itself**, and strong answers reflect all three consistently throughout, not just in an opening line. A letter to a newspaper editor needs a different register and structure from a speech to a school assembly, even where both are persuasive in purpose — the audience and form change how that purpose should actually be expressed. Briefly noting the specified purpose, audience and form before writing, and checking the finished response against that note, catches the most common way marks are lost: drifting into a generic essay-like register regardless of what form was actually asked for.
+
 ## Technical accuracy
 
 Marks are available for accuracy, and the same errors recur:
@@ -98,5 +102,7 @@ Marks are available for accuracy, and the same errors recur:
 3. What is the effect of a rhetorical question?
 4. What three things must be fixed before transactional writing?
 5. What is a comma splice, and how is it fixed?
+6. Name the three stages that reading questions progress through.
+7. What should you note before starting a transactional writing task, and why?
 
-**Answers:** 1. Quote the language, explain what it suggests, then explain why the writer chose it for that audience and purpose. 2. Writing about each text in turn produces two separate accounts; addressing the same feature in both texts together produces genuine comparison. 3. It presupposes the reader's agreement, making disagreement feel unreasonable rather than simply different. 4. Form, audience and purpose. 5. Two complete sentences joined only by a comma; fix it with a full stop, a semicolon, or a coordinating conjunction.
+**Answers:** 1. Quote the language, explain what it suggests, then explain why the writer chose it for that audience and purpose. 2. Writing about each text in turn produces two separate accounts; addressing the same feature in both texts together produces genuine comparison. 3. It presupposes the reader's agreement, making disagreement feel unreasonable rather than simply different. 4. Form, audience and purpose. 5. Two complete sentences joined only by a comma; fix it with a full stop, a semicolon, or a coordinating conjunction. 6. Literal comprehension, inference, and language/structural analysis. 7. The specified purpose, audience and form, then check the finished response against that note — this catches the most common way marks are lost: drifting into a generic essay-like register regardless of what form was asked for.
