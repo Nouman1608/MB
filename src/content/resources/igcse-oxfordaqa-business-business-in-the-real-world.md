@@ -94,6 +94,8 @@ Growth may be **internal** (organic, from reinvested profit — slower but contr
 
 The external environment includes interest rates (borrowing and consumer spending), exchange rates (import costs, export competitiveness), inflation, unemployment, legislation and technology.
 
+**Applying this to a clothing retailer** shows how these factors interact rather than acting in isolation. A **rise in interest rates** leaves consumers with mortgages and loans with less disposable income, so demand for non-essential clothing falls, while the retailer's own borrowing costs rise, squeezing profit and possibly delaying investment in new stores. A **fall in the exchange rate** makes imported stock more expensive, forcing either higher prices or lower margins — though if the retailer also exports, its goods become cheaper abroad, boosting overseas sales. **New employment legislation**, such as a higher minimum wage, raises the wage bill and may force higher prices or reduced hours, but better-paid staff can also be more motivated and less likely to leave, reducing recruitment costs — a reminder that most external factors bring both a cost and a partly offsetting benefit.
+
 ## Worked example
 
 A sole trader wants to expand but lacks capital. Evaluate becoming a private limited company.

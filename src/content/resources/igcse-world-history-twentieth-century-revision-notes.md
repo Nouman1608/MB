@@ -66,10 +66,18 @@ key questions in the final stretch of revision.
 ## Key question 4: Who was to blame for the Cold War?
 
 - **1945 summit conferences** and the breakdown of the US–Soviet
-  wartime alliance.
+  wartime alliance — the alliance rested on the **shared aim of
+  defeating Nazi Germany**, and once that goal was achieved in 1945 the
+  underlying **capitalism-versus-communism** ideological divide, set
+  aside for the war, quickly resurfaced.
 - **Soviet expansion into Eastern Europe to 1948**.
 - **Occupation of Germany** and the **Berlin Blockade** — the
-  flashpoint that hardened the division of Europe.
+  flashpoint that hardened the division of Europe. The Soviet blockade
+  aimed to force the Western powers out of West Berlin, but the
+  **Berlin Airlift** supplied the city by air for nearly a year,
+  widely seen as a clear Western victory and Soviet failure — and as
+  proof that neither side was yet willing to risk direct military
+  conflict over it.
 - Formation of **NATO** and the **Warsaw Pact** as the resulting
   military blocs.
 - Exam questions expect both US and Soviet actions weighed, not

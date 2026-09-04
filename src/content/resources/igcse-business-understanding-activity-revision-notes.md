@@ -31,6 +31,8 @@ added value = selling price - cost of bought-in materials
 
 Added value can be increased by raising the price through **branding, better design, superior customer service or convenience**, or by reducing input costs. Note it is **not** profit — wages, rent and other costs still have to be paid out of it.
 
+**Opportunity cost** is the value of the **next best alternative given up** when a choice is made. It exists because resources are scarce while wants are unlimited, so choosing to produce or buy one thing always means giving up something else — the concept underlying every needs-versus-wants and resource-allocation question in this topic.
+
 ## The three sectors
 
 | Sector | Activity | Example |
@@ -43,7 +45,7 @@ Added value can be increased by raising the price through **branding, better des
 
 ## Classification and objectives
 
-**Private sector** — owned by individuals, usually profit-motivated. **Public sector** — owned by government, aims at service provision, employment and public welfare rather than profit.
+**Private sector** — owned by individuals, usually profit-motivated. **Public sector** — owned by government, aims at service provision, employment and public welfare rather than profit. Most real economies are **mixed economies**, containing both a private and a public sector operating alongside each other, rather than being purely one or the other.
 
 Business objectives: survival (the priority for a start-up), profit, growth, market share, and increasingly **social and environmental objectives**. Objectives change over time — survival first, then profit and growth once established.
 

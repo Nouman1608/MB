@@ -96,13 +96,17 @@ Forgetting is explained by **interference** — proactive (old disrupts new) and
 
 **Gregory's constructivist theory** is top-down: perception is a hypothesis built from prior knowledge and expectation. Illusions such as the Müller-Lyer and Ponzo figures support this, because the brain misapplies depth cues learned from a carpentered environment.
 
+Illusions are useful evidence precisely because they reveal different ways perception can go wrong. The Müller-Lyer and Ponzo illusions arise from misapplied **depth cues**. Rubin's vase arises from **ambiguity** — the same outline can be read as a vase or as two faces. The Kanizsa triangle arises from **fiction**, where the brain supplies edges that are not actually present in the image. The **Necker cube** also arises from ambiguity, flipping unpredictably between two equally valid three-dimensional interpretations — together these examples show perception is an active hypothesis the brain forms and revises, not a passive reading of the image.
+
 **Depth cues** are monocular (linear perspective, relative size, height in plane, occlusion) and binocular (retinal disparity, convergence).
 
 **Perceptual set** — the tendency to perceive what we expect — is affected by culture, motivation, emotion and context.
 
 ## Development and research methods
 
-Piaget explained development through **schemas** modified by assimilation and accommodation, across stages marked by object permanence, egocentrism and conservation.
+Piaget explained development through **schemas** modified by assimilation and accommodation, across four stages: **sensorimotor** (0–2, object permanence develops), **pre-operational** (2–7, egocentric thinking, cannot conserve), **concrete operational** (7–11, conservation achieved) and **formal operational** (11+, abstract and hypothetical reasoning). His theory has been enormously influential on classroom practice, though he is generally thought to have **underestimated what children can do**, since child-friendly versions of his tasks produce earlier success than his original methods suggested.
+
+**Dweck's mindsets** describe a related but distinct idea about motivation: a **fixed** mindset treats ability as innate, so challenge is avoided and failure feels like a final verdict on ability, whereas a **growth** mindset treats ability as something that can be developed through effort, so challenge becomes worthwhile. This is why praising **effort** rather than innate intelligence is recommended — it encourages a growth mindset rather than a fixed one.
 
 Research methods: experiments (laboratory, field, natural), observation, self-report and correlation. Key terms are the independent and dependent variables, extraneous variables, and the distinction between **reliability** (consistency) and **validity** (measuring what is intended).
 

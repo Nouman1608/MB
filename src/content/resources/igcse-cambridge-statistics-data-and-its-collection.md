@@ -87,7 +87,7 @@ A **census** surveys every member of the population — completely accurate but 
 | Quota | Interviewer fills set numbers per category | Not random, interviewer bias |
 | Opportunity | Whoever is available | Highly unrepresentative |
 
-Larger samples are more reliable but cost more. **Bias** arises from an incomplete sampling frame, non-response, leading questions, or self-selection.
+Larger samples are more reliable but cost more. **Bias** arises from an incomplete sampling frame, non-response, leading questions, self-selection, or the **interviewer effect**, where respondents answer differently depending on who is asking. A larger sample reduces **sampling error** — the random variation between samples — but does **not** remove bias: a biased method stays biased at any size, however large, since bias is a systematic fault in the method itself rather than a matter of random variation. These two ideas are frequently confused but need to be argued separately.
 
 ## Collecting data
 

@@ -63,6 +63,12 @@ Related: [Phenol: Reactions and Acidity study guide](/resources/a-phenol-reactio
 
 **(b)** State one advantage of this method over reacting the alcohol directly with the corresponding carboxylic acid. **[1]**
 
+**10.** Phenol reacts with sodium metal, releasing a gas, and separately with a diazonium salt in alkaline solution.
+
+**(a)** Write the equation for phenol's reaction with sodium, and identify the gas released. **[2]**
+
+**(b)** State the type of compound formed when phenol couples with benzenediazonium chloride under alkaline conditions, and name the functional group this reaction introduces. **[2]**
+
 ---
 
 ## Answers
@@ -89,6 +95,9 @@ Related: [Phenol: Reactions and Acidity study guide](/resources/a-phenol-reactio
 
 **(b)** The reaction with an acyl chloride is faster and goes essentially to completion, unlike the reversible, slower reaction between an alcohol and a carboxylic acid [1].
 
+**10. (a)** 2C₆H₅OH + 2Na → 2C₆H₅ONa + H₂ [1]; the gas released is **hydrogen** [1].
+**(b)** Phenol couples with the diazonium salt to form an **azo compound** [1], introducing the **azo (–N=N–) group** that links the two aromatic rings [1].
+
 ---
 
 ## Where marks are usually lost
@@ -97,3 +106,4 @@ Related: [Phenol: Reactions and Acidity study guide](/resources/a-phenol-reactio
 - Explaining phenol's acidity by comparing it only to benzene, rather than specifically to ethanol (delocalisation absent) as the syllabus requires.
 - Forgetting that phenol reacts with NaOH but not with the weaker base NaHCO₃ — a common distinguishing test between a phenol and a carboxylic acid group.
 - Naming the ester product incorrectly, or forgetting HCl is also produced in the acyl chloride reaction.
+- Confusing the azo-coupling product with a simple substitution product, or omitting that the reaction needs alkaline conditions.

@@ -45,6 +45,14 @@ intensity reflection coefficient:
 
 **The coupling gel is the standard question.** The impedance of air is enormously different from that of skin, so at an air–skin boundary the reflection coefficient is close to 1 and almost all the ultrasound is reflected before it enters the body. Gel has an impedance close to skin's, so it displaces the air and allows transmission — this is **impedance matching**.
 
+**Worked example.** Soft tissue has Z = 1.63 × 10⁶ kg m⁻² s⁻¹, bone has Z = 6.40 × 10⁶ kg m⁻² s⁻¹.
+
+```
+I_r/I_i = (Z2-Z1)^2 / (Z2+Z1)^2 = (6.40-1.63)^2 / (6.40+1.63)^2 = 22.75/64.48 ≈ 0.353
+```
+
+About **35% of the intensity is reflected** at a soft tissue–bone boundary, so relatively little penetrates further — structures lying behind bone are poorly imaged by ultrasound.
+
 - **A-scan** — a single line, amplitude against time; used for simple depth measurement.
 - **B-scan** — many A-scans combined into a two-dimensional image, brightness representing echo amplitude.
 

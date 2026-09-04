@@ -103,6 +103,10 @@ Both involve buying and selling for profit, both require aids to trade, and both
 
 **Entrepot trade** is the one candidates forget: goods are imported into a country and then re-exported, often after storage or minor processing, without being consumed domestically.
 
+## How transport and communication have changed commerce
+
+Modern commerce has been reshaped by four linked developments. **Containerisation and air freight** have cut both the cost and the time of transport, making it economic to trade over long distances and to source components from suppliers around the world. **The internet** allows producers to sell directly to consumers anywhere, shortening the traditional chain of distribution and opening international markets even to small firms that could never have afforded a global sales network before. **Instant communication** allows **just-in-time stock control**, so firms can hold less inventory and reduce warehousing costs while still responding quickly to demand. **Electronic banking** has made international payment fast and secure, reducing the risk of trading with customers on the other side of the world.
+
 ## Worked example
 
 Explain why a manufacturer of ice cream depends on at least three aids to trade.

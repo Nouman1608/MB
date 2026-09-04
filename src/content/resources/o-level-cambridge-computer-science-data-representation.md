@@ -103,6 +103,8 @@ Sound file size = sample rate x sample resolution x seconds
 
 **Lossless** compression removes redundancy so the original can be perfectly reconstructed — run-length encoding, and essential for text and program files where any loss would corrupt the data.
 
+**Run-length encoding (RLE)** works by replacing runs of identical, repeated values with a single value and a count of how many times it repeats, so highly repetitive data — such as a simple image with large blocks of a single colour — is stored far more compactly. RLE can, however, sometimes produce a **larger** file than the original: on noisy or photographic data, where pixel values rarely repeat exactly, encoding each short run as a (value, count) pair can take more space than simply storing the original values, which is why RLE suits simple graphics far better than continuously varying photographic images.
+
 **Lossy** compression permanently discards data the user is unlikely to notice, giving much smaller files — acceptable for photographs, music and video, unacceptable for a spreadsheet.
 
 ## Worked example

@@ -74,6 +74,12 @@ This is why taxes on cigarettes and fuel raise so much revenue: demand is inelas
 
 **Determinants of PES:** availability of stock, spare capacity, ease of switching production, and time. Supply is more elastic in the long run because firms can expand capacity.
 
+## Competition and monopoly
+
+Competition benefits consumers in several ways: it tends to give **lower prices**, since firms must match rivals or lose customers; **better quality and more choice**, as firms differentiate to attract buyers; **innovation**, as firms invest in new products and processes to gain an edge; and **greater efficiency**, since firms must cut costs to survive. It also has costs — **duplication and wasted resources**, as competing firms each build their own networks or advertise heavily at a cost ultimately passed to consumers, and a possible **loss of economies of scale**, since several small firms may each face higher unit costs than one large one would.
+
+A **monopoly** — a single dominant firm — can **restrict output and charge a higher price** than would prevail under competition, so consumers pay more and consume less. With no competitive pressure it may also let quality fall and become slow to innovate, since it retains customers regardless. Governments can regulate a monopoly by **setting a maximum price or price cap**, by **using competition law to prevent mergers or break up the firm**, or by **opening the market to competition** by removing barriers to entry.
+
 ## Market failure
 
 | Failure | Consequence |
