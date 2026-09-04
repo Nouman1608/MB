@@ -151,6 +151,11 @@ here as a priority to close before moving on to Module 3 (Exchange and
 transport), which builds directly on the cell structure and
 biological-molecule content introduced here.
 
+## Related resources
+
+- [Foundations in Biology revision notes](/resources/ocr-a-level-biology-foundations-revision-notes/)
+- [Foundations in Biology practice questions](/resources/ocr-a-level-biology-foundations-practice/)
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) Specification*, Version 3, Module 2:

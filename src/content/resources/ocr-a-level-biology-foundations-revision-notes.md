@@ -102,6 +102,11 @@ The cytoskeleton provides mechanical strength, aids transport, and enables cell 
 
 Module 2 assumes no prior A Level biology, so any gaps here are a priority to close before Module 3 (Exchange and transport), which builds directly on the cell structure and biological-molecule content introduced in this opening section. The specification tests structure and function together, not as separate facts -- build a single reference table linking each organelle to its function before moving on to biological molecules.
 
+## Related resources
+
+- [Foundations in Biology study guide](/resources/ocr-a-level-biology-foundations-in-biology/)
+- [Foundations in Biology practice questions](/resources/ocr-a-level-biology-foundations-practice/)
+
 ## Official syllabus
 
 OCR, *A Level Biology A (H420) Specification*, Version 3, Module 2 —
