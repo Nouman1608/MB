@@ -38,6 +38,8 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
+Related: [Trigonometry revision notes](/resources/igcse-mathematics-trigonometry-revision-notes/)
+
 ---
 
 ## Questions
@@ -59,6 +61,8 @@ featured: false
 **(a)** Calculate the length of the space diagonal of the cuboid. **[2]**
 **(b)** Calculate the angle this diagonal makes with the base of the cuboid, correct to 1 decimal place. **[3]**
 
+**8.** *(Extended)* In triangle XYZ, XY = 6 cm, YZ = 8 cm and XZ = 11 cm. Use the cosine rule to find angle Y, correct to 1 decimal place. **[3]**
+
 ---
 
 ## Answers
@@ -78,6 +82,8 @@ featured: false
 **7. (a)** Diagonal = √(6² + 8² + 10²) [1] = √200 = **14.1 cm** (3 s.f.) [1].
 **(b)** Base diagonal = √(6² + 8²) = √100 = 10 cm [1]. tan(angle) = 10 ÷ 10 = 1 [1] → angle = **45.0°** [1].
 
+**8.** Rearranging the cosine rule to find an angle: cos Y = (XY² + YZ² − XZ²) ÷ (2 × XY × YZ) [1] = (6² + 8² − 11²) ÷ (2 × 6 × 8) = (36 + 64 − 121) ÷ 96 = −21 ÷ 96 = −0.2188 [1] → Y = cos⁻¹(−0.2188) = **102.6°** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -96,3 +102,7 @@ featured: false
 - In 3D problems worked in multiple stages, keeping an intermediate length in exact (surd) form rather than rounding it before the final trigonometric step -- early rounding compounds into a final answer that misses the required accuracy.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 12, 21, 22, 23 (verified 2026-09-02).*
+
+## Approaching trigonometry questions
+
+Before choosing a method, identify what the triangle actually gives you: a right angle points to SOHCAHTOA or Pythagoras; a matching angle-side pair points to the sine rule; two sides with the included angle, or all three sides, points to the cosine rule -- rearranged for an angle when the unknown is an angle rather than a side, as in a "find angle Y given three sides" question. A negative value inside cos⁻¹ is not a sign of an error -- it correctly signals an obtuse angle, and should be carried through rather than assumed to be a mistake.

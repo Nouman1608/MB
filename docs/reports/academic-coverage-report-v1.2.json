@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T15:27:27.252Z",
+  "generatedAt": "2026-09-04T15:29:06.185Z",
   "rowCount": 160,
   "rows": [
     {
@@ -1082,7 +1082,7 @@
       "assessmentVerifiedOn": "2026-08-26",
       "assessmentLifecycleStatus": "current",
       "studyGuideCount": 2,
-      "revisionNoteCount": 5,
+      "revisionNoteCount": 8,
       "pastPaperCount": 0,
       "practiceQuestionCount": 9,
       "examPrepCount": 0,
@@ -1092,14 +1092,14 @@
       "flashcardCount": 0,
       "videoCount": 0,
       "diagnosticCount": 0,
-      "totalResourceCount": 16,
+      "totalResourceCount": 19,
       "namedAuthor": "Marlbridge Academic Team (organisation byline — see v1.2 WS7)",
       "namedReviewer": "NO_DATA",
       "lastReview": "2026-09-04",
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 14097,
+      "totalQualifyingWordCount": 17004,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",

@@ -35,6 +35,8 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
+Related: [Mensuration revision notes](/resources/igcse-mathematics-mensuration-revision-notes/)
+
 ---
 
 ## Questions
@@ -65,6 +67,10 @@ featured: false
 
 **7.** A shape is made from a 10 cm × 6 cm rectangle with a semicircle of diameter 6 cm removed from one short side. Taking π = 3.142, calculate the area of the remaining compound shape. **[3]**
 
+**8.** A sphere has radius 6 cm. Taking π = 3.142, calculate its volume, correct to 3 significant figures. **[2]**
+
+**9.** A sphere has surface area 314.2 cm². Taking π = 3.142, find its radius. **[3]**
+
 ---
 
 ## Answers
@@ -87,6 +93,10 @@ featured: false
 
 **7.** Rectangle area = 10 × 6 = 60 cm² [1]. Semicircle radius = 3 cm, area = ½ × 3.142 × 3² = 14.14 cm² [1]. Remaining area = 60 − 14.14 = **45.9 cm²** (3 s.f.) [1].
 
+**8.** V = (4/3)πr³ = (4/3) × 3.142 × 6³ [1] = (4/3) × 3.142 × 216 = **905 cm³** (3 s.f.) [1].
+
+**9.** SA = 4πr² → r² = 314.2 ÷ (4 × 3.142) [1] = 314.2 ÷ 12.568 = 25 [1] → r = √25 = **5 cm** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -105,3 +115,7 @@ featured: false
 - Finding a linear scale factor from a **volume** ratio requires a **cube root**, not a square root -- the square root gives a linear scale factor from an *area* ratio instead.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 11, 13, 21 (verified 2026-09-02).*
+
+## Approaching mensuration questions
+
+The most reliable way to avoid unit and formula errors on this topic is to write down which formula the question needs before substituting any numbers, and to check the given units against what the answer needs to be in -- since a wrong unit conversion or a swapped slant/perpendicular height produces an answer that still looks numerically plausible, it will not stand out as obviously wrong the way an arithmetic slip often does. For compound shapes, sketch (or describe to yourself) exactly which simple shapes the compound shape is built from and whether each one is added or removed, before calculating any individual area or volume.

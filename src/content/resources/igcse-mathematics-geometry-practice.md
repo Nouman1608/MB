@@ -44,6 +44,8 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
+Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revision-notes/)
+
 ---
 
 ## Questions
@@ -78,6 +80,8 @@ featured: false
 **(b)** Calculate angle R. **[1]**
 **(c)** A tangent touches the circle at point Q. Explain what is true about the angle between this tangent and the radius drawn to Q. **[1]**
 
+**9.** Points D, E and F lie on the circumference of a circle. Angle DEF = 90°. State the circle theorem this confirms about the line DF, and explain your reasoning. **[2]**
+
 ---
 
 ## Answers
@@ -105,6 +109,8 @@ featured: false
 **(b)** 180° − 108° = **72°** [1].
 **(c)** The tangent and the radius meet **at 90°** (the tangent is perpendicular to the radius at the point of contact) [1].
 
+**9.** This confirms the **angle in a semicircle is 90°** theorem [1]. Since angle DEF, standing on DF, is 90°, **DF must be a diameter of the circle** [1].
+
 ---
 
 ## Where marks are usually lost
@@ -123,3 +129,7 @@ featured: false
 - Assuming a kite has two lines of symmetry like a rhombus -- a (non-rhombus) kite has exactly **one** line of symmetry, along the diagonal that bisects the pair of equal angles.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 13, 21, 23 (verified 2026-09-02).*
+
+## Approaching geometry questions
+
+For circle-theorem questions, the first task is always identifying which theorem applies -- start by checking which points genuinely lie on the circle, whether a line passes through the centre, and whether a tangent is involved, since these features determine the theorem rather than the numbers themselves. For construction and scale-drawing questions, showing the method (visible arcs, a clearly labelled scale calculation) is what earns credit, not just a correct final answer or diagram, so treat the working as part of the answer rather than scratch work to be tidied away.
