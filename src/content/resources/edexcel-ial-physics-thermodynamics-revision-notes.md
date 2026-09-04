@@ -24,7 +24,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Internal energy
 
-> The **sum of the randomly distributed kinetic and potential energies** of the molecules in a system.
+> The **sum of the randomly distributed kinetic and potential energies** of the molecules in a system — distinct from the macroscopic, ordered kinetic or potential energy of the object as a whole (e.g. a moving car's bulk kinetic energy is not internal energy).
 
 Both parts matter:
 
@@ -44,6 +44,14 @@ E = m L                    specific latent heat
 **Specific latent heat** — energy to change the state of 1 kg with no temperature change.
 
 **Latent heat of vaporisation exceeds latent heat of fusion**, because boiling must completely separate the molecules *and* do work pushing back the atmosphere, whereas melting only loosens them.
+
+**Worked example.** 0.50 kg of water at 100 °C is converted entirely to steam at 100 °C (L of vaporisation = 2.26 × 10⁶ J/kg).
+
+```
+E = L m = 2.26x10^6 x 0.50 = 1.13x10^6 J  (1.13 MJ)
+```
+
+**CORE PRACTICAL 12** calibrates a thermistor in a potential divider circuit for use as a thermostat. **CORE PRACTICAL 13** determines the specific latent heat of a phase change experimentally.
 
 ## Temperature and absolute zero
 
@@ -68,9 +76,11 @@ pV = (1/3) N m <c^2>
 
 **T must always be in kelvin.**
 
-**Assumptions of the kinetic model:** many molecules in random motion; molecular volume negligible; **no intermolecular forces except during collisions**; elastic collisions; collision time negligible.
+**CORE PRACTICAL 14** investigates the relationship between pressure and volume of a fixed mass of gas at constant temperature (Boyle's law).
 
-**Real gases deviate most at high pressure and low temperature**, because molecules are close together, so their own volume matters and attractions become significant — exactly the two assumptions that fail.
+**Assumptions of the kinetic model:** many molecules in random motion; molecular volume negligible; **no intermolecular forces except during collisions**; elastic collisions; collision time negligible compared with the time between collisions.
+
+**Real gases deviate most at high pressure and low temperature**, because molecules are close together, so their own volume matters and attractions become significant — exactly the two assumptions that fail. This is why real gases are best approximated as ideal at low pressure and high temperature, where molecules are far apart and their own volume and mutual attractions become negligible by comparison.
 
 Because an ideal gas has no intermolecular forces, it has **no molecular potential energy**, so its internal energy is entirely kinetic and depends only on temperature.
 
@@ -82,6 +92,7 @@ Because an ideal gas has no intermolecular forces, it has **no molecular potenti
 - Using °C in gas equations.
 - Saying molecules stop at absolute zero.
 - Saying heavier molecules have more kinetic energy at the same temperature.
+- Forgetting which CORE PRACTICAL investigates which relationship — 12 is thermistor calibration, 13 is specific latent heat, 14 is Boyle's law.
 
 ## Self-test
 
@@ -90,5 +101,8 @@ Because an ideal gas has no intermolecular forces, it has **no molecular potenti
 3. Why is latent heat of vaporisation greater than latent heat of fusion?
 4. What is mean molecular kinetic energy proportional to?
 5. Under what conditions do real gases deviate most from ideal behaviour, and why?
+6. 0.50 kg of water at 100 °C is converted entirely to steam at 100 °C. Find the energy required (L of vaporisation = 2.26 × 10⁶ J/kg).
+7. What does CORE PRACTICAL 14 investigate?
+8. Distinguish internal energy from the macroscopic kinetic energy of a moving object.
 
-**Answers:** 1. The sum of the randomly distributed kinetic and potential energies of the molecules; the kinetic part depends on temperature and the potential part on molecular separation. 2. The energy supplied increases the potential component by separating molecules rather than the kinetic component, so temperature does not rise. 3. Vaporisation must completely overcome the intermolecular forces and also do work against atmospheric pressure as the vapour expands; melting only loosens the forces. 4. The absolute temperature, and nothing else. 5. High pressure and low temperature, because molecules are close together so their own volume is no longer negligible and intermolecular attractions become significant.
+**Answers:** 1. The sum of the randomly distributed kinetic and potential energies of the molecules; the kinetic part depends on temperature and the potential part on molecular separation. 2. The energy supplied increases the potential component by separating molecules rather than the kinetic component, so temperature does not rise. 3. Vaporisation must completely overcome the intermolecular forces and also do work against atmospheric pressure as the vapour expands; melting only loosens the forces. 4. The absolute temperature, and nothing else. 5. High pressure and low temperature, because molecules are close together so their own volume is no longer negligible and intermolecular attractions become significant. 6. E = Lm = 2.26×10⁶ × 0.50 = **1.13×10⁶ J** (1.13 MJ). 7. The relationship between pressure and volume of a fixed mass of gas at constant temperature (Boyle's law). 8. Internal energy is the random, disordered kinetic and potential energy of a substance's individual particles; a moving object's macroscopic kinetic energy is the ordered motion of the object as a whole and is a separate quantity entirely.

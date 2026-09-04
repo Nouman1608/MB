@@ -58,6 +58,14 @@ Related: [Atomic Structure revision notes](/resources/gcse-chemistry-atomic-stru
 
 **7.** Explain why the noble gases are unreactive. **[2]**
 
+**8.** Magnesium has the electron configuration 2,8,2. State its group and period number, explaining how you know. **[2]**
+
+**9.** State how melting and boiling points change down Group 7, and explain why — despite this trend, reactivity changes in the opposite direction. **[3]**
+
+**10.** Explain why Mendeleev's periodic table is remembered as a major scientific achievement. **[2]**
+
+**11.** State the general rule for a halogen displacement reaction, and predict whether iodine will displace chlorine from potassium chloride solution, giving a reason. **[2]**
+
 ---
 
 ## Answers
@@ -91,6 +99,14 @@ chlorine + potassium bromide → potassium chloride + bromine [1].
 **7.** They have **full outer electron shells** [1], so they have **no tendency to lose, gain or share electrons** [1].
 *Not "because they are gases".*
 
+**8. Group 2** — the number of outer-shell electrons (2) [1]; **Period 3** — the number of occupied shells (2,8,2 = three shells) [1].
+
+**9.** Melting and boiling points **increase** down Group 7, because the molecules get larger and **intermolecular forces strengthen** [1]. Reactivity instead **decreases**, because a halogen must **gain** an electron, and further down the group the outer shell is further from the nucleus with more shielding, so an incoming electron is attracted less strongly [1] — melting/boiling point and reactivity are governed by two entirely different factors [1].
+
+**10.** He left **gaps for undiscovered elements** and correctly **predicted their properties** [1]; the later discovery of gallium and germanium, matching his predictions, confirmed his table was correct [1].
+
+**11.** A **more reactive** halogen displaces a **less reactive** one from its salt solution [1]. Iodine will **not** displace chlorine, since iodine is **less reactive** than chlorine (Group 7 reactivity decreases down the group, so iodine is the least reactive of the three) [1].
+
 ---
 
 ## Where marks are usually lost
@@ -100,3 +116,6 @@ chlorine + potassium bromide → potassium chloride + bromine [1].
 - Giving only one reason for the Group 1 trend.
 - Explaining noble gas unreactivity by their physical state.
 - Forgetting that relative atomic mass is a **weighted** average.
+- Confusing group number (outer-shell electrons) with period number (occupied shells).
+- Assuming melting/boiling point and reactivity change in the same direction down Group 7 — they don't.
+- Predicting a less reactive halogen can displace a more reactive one — displacement only ever goes from more reactive to less reactive.

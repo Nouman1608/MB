@@ -55,6 +55,14 @@ Related: [Energy revision notes](/resources/aqa-gcse-physics-energy-revision-not
 
 **7.** Compare a wind farm and a nuclear power station on reliability, environmental impact and cost. **[6]**
 
+**8.** State two methods (other than better insulation) of reducing unwanted energy transfer, and explain how each works. **[4]**
+
+**9.** Describe how Required Practical 2 investigates the effectiveness of thermal insulators. **[3]**
+
+**10.** A student calculates an efficiency of 1.4 (140%) for a motor. Explain what this result indicates. **[2]**
+
+**11.** State the principle of conservation of energy. **[2]**
+
 ---
 
 ## Answers
@@ -82,6 +90,14 @@ Pathways: **mechanically, electrically, by heating, by radiation** [1] [1].
 **Environmental:** neither emits carbon dioxide in operation [1]; nuclear produces **long-lived radioactive waste**, wind causes visual and noise impact and affects wildlife [1].
 **Cost:** both have **high setup costs**; nuclear has very high **decommissioning** costs, wind has almost no fuel or running costs [1] [1].
 
+**8. Lubrication** — reduces **friction** between moving surfaces, cutting the energy dissipated as heat and sound [1] [1]. **Thermal insulation** — reduces the **rate** of energy transfer by heating, using materials of **low thermal conductivity** [1] [1]. A low thermal conductivity material is a good insulator, not the reverse — a common point of confusion.
+
+**9.** Different materials (or insulator thicknesses) are used to wrap identical containers of hot water [1]; the temperature is measured at intervals as each cools [1], and the results are compared across materials/thicknesses to find which is the most effective insulator [1] — the material giving the smallest temperature drop over time is the best insulator.
+
+**10.** Efficiency can **never exceed 1 (100%)**, since useful output energy can never exceed total input energy [1], so a result above this signals an **arithmetic or measurement error**, not a genuinely efficient motor [1] — the student should re-check their input and output energy values rather than report the impossible figure.
+
+**11.** Energy can be usefully transferred, stored or dissipated, but it can **never be created or destroyed** [1]; every system change dissipates some energy into the surroundings in a less useful form [1].
+
 ---
 
 ## Where marks are usually lost
@@ -90,3 +106,6 @@ Pathways: **mechanically, electrically, by heating, by radiation** [1] [1].
 - Saying braking distance doubles when speed doubles.
 - Saying energy is "lost" rather than dissipated.
 - Explaining insulation without mentioning the **rate** of transfer.
+- Forgetting lubrication as a way to reduce unwanted energy transfer, focusing only on insulation.
+- Describing Required Practical 2 without a fair-test control (identical containers, same starting temperature and volume of water).
+- Accepting an efficiency calculation above 1 (100%) without recognising it signals an error.

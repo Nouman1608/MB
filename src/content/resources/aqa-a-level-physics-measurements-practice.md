@@ -54,11 +54,19 @@ Related: [Measurements and Their Errors revision notes](/resources/aqa-a-level-p
 
 **6.** Describe how to find the uncertainty in a gradient using error bars. **[3]**
 
+**7.** Distinguish between repeatable and reproducible results. **[2]**
+
+**8.** A sphere's radius is measured with a percentage uncertainty of 2%. Since volume is proportional to r³, find the percentage uncertainty in the calculated volume. **[2]**
+
+**9.** Check whether the equation v² = u² + 2as is homogeneous, and explain what a homogeneous equation does and does not prove. **[3]**
+
+**10.** Two data points have overlapping error bars. What can be concluded about the difference between them? **[1]**
+
 ---
 
 ## Answers
 
-**1. Accuracy** is closeness to the **true value**; **precision** is how closely **repeated readings agree** with each other [1] [1]. A balance with a **zero error** gives tightly grouped readings that are all wrong by the same amount [1].
+**1. Accuracy** is closeness to the **true value**; **precision** is how closely **repeated readings agree** with each other [1] [1]. A balance with a **zero error** gives tightly grouped readings that are all wrong by the same amount [1]. Repeatability and reproducibility are related but distinct ideas: repeatable means the same result on repeating with the same method and equipment, while reproducible means the same result with a different method or person.
 
 **2. Random** error causes **scatter** about the true value [1]; reduced by **repeating and averaging** [1].
 **Systematic** error shifts **all readings in the same direction** [1]; reduced only by **recalibrating or zeroing** the instrument, or changing technique [1].
@@ -80,6 +88,14 @@ Absolute = 0.0341 × 11.55 = **±0.39 Ω** [1].
 
 **6.** Draw the **steepest** and **shallowest** lines that still pass through **all the error bars** [1] [1]. The uncertainty in the gradient is **half the difference between these two gradients** [1].
 
+**7. Repeatable** — the same result is obtained on repeating with the **same method and equipment** [1]. **Reproducible** — the same result is obtained with a **different method or by a different person** [1].
+
+**8.** Raising to a power multiplies the percentage uncertainty by that power [1]: % uncertainty in V = 3 × 2% = **6%** [1].
+
+**9.** Base units: v² is (m/s)² = m² s⁻²; u² is m² s⁻²; 2as is m × m s⁻² = m² s⁻² [1] — all terms match, so the equation **is homogeneous** [1]. This proves the equation *could* be correct, but not that it *is* — a homogeneous equation can still be wrong by a dimensionless numerical factor [1].
+
+**10.** The difference between them **may not be significant** [1] — overlapping error bars mean the true values could plausibly be equal.
+
 ---
 
 ## Where marks are usually lost
@@ -88,3 +104,7 @@ Absolute = 0.0341 × 11.55 = **±0.39 Ω** [1].
 - Saying repeats reduce systematic error.
 - Adding absolute uncertainties when dividing.
 - Quoting a result to more significant figures than the uncertainty justifies.
+- Confusing repeatable (same method, same person) with reproducible (different method or person).
+- Forgetting to multiply, not add, the percentage uncertainty when a quantity is raised to a power.
+- Treating a homogeneous equation as proven correct, rather than merely dimensionally possible.
+- Declaring a definite difference between two data points whose error bars overlap.

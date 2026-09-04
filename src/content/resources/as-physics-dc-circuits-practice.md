@@ -68,6 +68,12 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 
 **(b)** The temperature rises. State and explain the effect on the output p.d. **[3]**
 
+**7.** Two resistors, 6.0 Ω and 3.0 Ω, are connected in parallel. Calculate the combined resistance. **[2]**
+
+**8.** A potential divider uses a fixed resistor and an LDR in series. Explain how this circuit could be used as a light sensor, describing what happens to the output voltage across the LDR as light intensity increases. **[3]**
+
+**9.** Under what condition(s) are e.m.f. and terminal p.d. equal? **[2]**
+
 ---
 
 ## Answers
@@ -75,9 +81,9 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 **1.** **First law:** the sum of currents into a junction equals the sum of currents out [1] — **conservation of charge** [1].
 **Second law:** around any closed loop, the sum of e.m.f.s equals the sum of p.d.s [1] — **conservation of energy** [1].
 
-**2.** **E.m.f.** is the energy transferred **to** each unit charge by the source [1]; **p.d.** is the energy transferred **from** each unit charge in a component [1].
+**2.** **E.m.f.** is the energy transferred **to** each unit charge by the source [1]; **p.d.** is the energy transferred **from** each unit charge in a component [1]. E.m.f. is defined for the source whether or not current flows, while p.d. only has meaning when charge actually moves through a component.
 
-**3.** It provides an **additional path for current** [1], so a greater total current flows for the same potential difference, which means a lower total resistance [1].
+**3.** It provides an **additional path for current** [1], so a greater total current flows for the same potential difference, which means a lower total resistance [1]. The combined resistance of any parallel network is always smaller than its smallest individual resistor.
 
 **4. (a)** I = E ÷ (R + r) = 1.50 ÷ (4.20 + 0.80) [1] = **0.30 A** [1].
 
@@ -96,6 +102,12 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 
 **(b)** Output p.d. **decreases** [1]. The thermistor's resistance **falls as temperature rises** [1], so it takes a **smaller share of the total resistance** and therefore a smaller share of the supply p.d. [1].
 
+**7.** 1/R = 1/6.0 + 1/3.0 = 1/6.0 + 2/6.0 = 3/6.0 [1]; R = **2.0 Ω** [1]. Note the combined resistance (2.0 Ω) is smaller than the smallest individual resistor (3.0 Ω) — always true for resistors in parallel.
+
+**8.** An LDR's resistance **falls as light intensity increases** [1]. If the output is taken across the LDR, it takes a **smaller share of the total resistance** as light increases, so the **output voltage falls** [1] — the circuit can therefore signal changing light levels via a changing output voltage [1].
+
+**9.** When the internal resistance is **negligible**, or when **no current flows** (open circuit) [1] [1] — otherwise the "lost volts" Ir make terminal p.d. less than e.m.f. This is why a genuinely fresh, low-resistance cell measured on open circuit gives a reading very close to its rated e.m.f.
+
 ---
 
 ## Where marks are usually lost
@@ -105,3 +117,6 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 - Using the wrong resistance in the potential divider ratio.
 - Saying parallel resistors increase total resistance.
 - Not naming the conservation law behind each of Kirchhoff's laws.
+- Adding parallel resistances directly instead of using the reciprocal formula.
+- Assuming an LDR's output voltage behaves the same way as a thermistor's without checking which component the output is taken across.
+- Treating e.m.f. and terminal p.d. as always equal, forgetting they only coincide when internal resistance is negligible or no current flows.

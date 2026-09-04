@@ -75,6 +75,17 @@ Related: [NMR Spectroscopy revision notes](/resources/a-chemistry-nmr-revision-n
 
 **(b)** Explain why the OH peak is not split. **[2]**
 
+**7.** Propan-1-ol (CH₃CH₂CH₂OH) and propan-2-ol ((CH₃)₂CHOH) are structural isomers with the same molecular formula.
+
+**(a)** Predict the number of ¹³C NMR peaks for propan-1-ol. **[1]**
+**(b)** Explain why propan-1-ol and propan-2-ol give different numbers of peaks despite sharing a molecular formula. **[2]**
+
+**8.** An amine, R–NH₂, shows a broad ¹H NMR peak. Describe a test using D₂O to confirm this peak arises from N–H protons, and state the expected observation. **[2]**
+
+**9.** A ¹H NMR spectrum shows peak areas in the ratio 6:4:2. Explain why this does not necessarily mean the molecule has exactly 6, 4 and 2 of each type of proton. **[2]**
+
+**10.** Does shaking a sample with D₂O permanently change the molecule's structure? Explain. **[2]**
+
 ---
 
 ## Answers
@@ -101,6 +112,15 @@ Related: [NMR Spectroscopy revision notes](/resources/a-chemistry-nmr-revision-n
 
 **(b)** The OH proton **exchanges rapidly with the solvent** [1], so it does not couple with neighbouring protons and appears as a single unsplit peak [1].
 
+**7. (a) 3 peaks** — the terminal CH₃, the central CH₂, and the CH₂ attached to OH are all in different environments [1].
+**(b)** In propan-2-ol the **two CH₃ groups are equivalent by symmetry**, both attached identically to the central CHOH carbon, giving only 2 distinct environments; propan-1-ol has no such symmetry, so all three carbons are distinct [1] — this is exactly why ¹³C NMR can distinguish structural isomers that share a molecular formula [1].
+
+**8.** Add a few drops of **D₂O** and re-run the spectrum [1]; the broad N–H peak **disappears**, since the N–H proton exchanges for deuterium, which is not detected in ¹H NMR [1].
+
+**9.** Peak area gives only a **ratio**, not an absolute count [1]; a 6:4:2 ratio is equally consistent with the simplest 3:2:1 ratio (or any other multiple) — the actual numbers must be fixed using the molecular formula, often from mass spectrometry [1].
+
+**10.** **No** — the D₂O exchange only removes the exchanged proton's signal from **this particular spectrum**, temporarily swapping an exchangeable proton for deuterium [1]; it is a diagnostic trick for interpretation, not a permanent chemical change to the compound itself [1].
+
 ---
 
 ## Where marks are usually lost
@@ -110,3 +130,7 @@ Related: [NMR Spectroscopy revision notes](/resources/a-chemistry-nmr-revision-n
 - Treating integration as an absolute count rather than a ratio.
 - Expecting OH to be split.
 - Forgetting that ¹³C NMR shows no splitting at this level.
+- Assuming isomers with the same molecular formula must give the same number of ¹³C peaks — symmetry, not formula, determines the number of distinct environments.
+- Forgetting D₂O exchange identifies both O–H and N–H protons, not only O–H.
+- Treating a peak-area ratio as an absolute proton count rather than a scalable ratio.
+- Believing D₂O exchange permanently alters the molecule, rather than being a temporary diagnostic swap for that spectrum only.

@@ -36,6 +36,8 @@ Momentum is a **vector**: direction matters. Assign one direction positive and s
 
 > In a closed system with no external forces, **total momentum before = total momentum after**.
 
+The principle assumes **no significant external force during the event** — it cannot be applied, for example, to a trolley slowed by friction over a long time, since friction is an external force acting throughout.
+
 ```
 m1 u1  +  m2 u2   =   m1 v1  +  m2 v2
 ```
@@ -61,6 +63,17 @@ Total momentum before = **zero** (both at rest), so afterwards the momenta must 
 ```
 
 This is recoil: a rifle and bullet, a rocket and exhaust gases, two skaters pushing apart.
+
+**Worked example.** A 5 kg object at rest explodes into two parts. A 2 kg piece moves off at 6 m/s. Find the velocity of the remaining 3 kg piece.
+
+```
+momentum before = 0
+momentum after = (2 x 6) + (3 x v) = 0
+12 + 3v = 0
+v = -4 m/s   (4 m/s in the opposite direction to the 2 kg piece)
+```
+
+The negative sign is doing real work: the two pieces must move in **opposite** directions for the total to remain zero.
 
 ## Worked examples
 
@@ -91,6 +104,8 @@ Note the sign change — forgetting it gives 0.6 instead of 3.0, and is the clas
 
 Crumple zones, airbags, seatbelts, crash mats and gloves all **increase the time** over which momentum changes. Since `F = Δp / t`, a longer time means a **smaller force**, and therefore less injury.
 
+`F = Δp/Δt` is equivalent to `F = ma` when mass is constant, since Δp = Δ(mv) = mΔv, giving F = mΔv/Δt = ma — the same law, just written in a form that also applies where mass itself changes.
+
 ## Exam traps
 
 - Assign and keep a positive direction; a rebound reverses the sign.
@@ -98,6 +113,8 @@ Crumple zones, airbags, seatbelts, crash mats and gloves all **increase the time
 - Units: momentum kg m/s, impulse N s — numerically the same.
 - "Objects stick together" means they share a common final velocity.
 - In an explosion, total momentum before is zero, not "each object has zero momentum after".
+- Forgetting the negative sign shows the two exploding pieces move in opposite directions.
+- Applying conservation of momentum where a significant external force (such as friction over a long time) acts during the event.
 
 ## Self-test
 
@@ -106,5 +123,7 @@ Crumple zones, airbags, seatbelts, crash mats and gloves all **increase the time
 3. A 1 kg ball at 5 m/s hits a stationary 4 kg ball; they move off together. Find their speed.
 4. Why do airbags reduce injury?
 5. A 0.2 kg ball hits a wall at 10 m/s and rebounds at 6 m/s. Find the impulse.
+6. A 5 kg object at rest explodes into a 2 kg piece moving at 6 m/s and a 3 kg piece. Find the 3 kg piece's velocity.
+7. Show that F = Δp/Δt is equivalent to F = ma for constant mass.
 
-**Answers:** 1. In a closed system with no external forces, total momentum before a collision equals total momentum after. 2. Yes — momentum is always conserved; only kinetic energy is not. 3. (1×5) = 5 = (1+4)v → v = **1 m/s**. 4. They increase the time over which the passenger's momentum changes, so by F = Δp/t the force on the body is reduced. 5. Taking towards the wall as positive: (0.2×−6) − (0.2×10) = −1.2 − 2.0 = **−3.2 kg m/s**, magnitude 3.2 N s.
+**Answers:** 1. In a closed system with no external forces, total momentum before a collision equals total momentum after. 2. Yes — momentum is always conserved; only kinetic energy is not. 3. (1×5) = 5 = (1+4)v → v = **1 m/s**. 4. They increase the time over which the passenger's momentum changes, so by F = Δp/t the force on the body is reduced. 5. Taking towards the wall as positive: (0.2×−6) − (0.2×10) = −1.2 − 2.0 = **−3.2 kg m/s**, magnitude 3.2 N s. 6. Momentum before = 0, so (2×6) + (3×v) = 0 → 12 + 3v = 0 → v = **−4 m/s** (4 m/s opposite to the 2 kg piece). 7. Δp = Δ(mv) = mΔv for constant m, so F = Δp/Δt = mΔv/Δt = **ma**.
