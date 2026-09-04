@@ -34,6 +34,20 @@ Primes have exactly **two** factors, so **1 is not prime** and **2 is the only e
 
 **Negative numbers:** two like signs multiply or divide to give a positive; two unlike signs give a negative.
 
+**Useful check:** HCF × LCM = the product of the two original numbers.
+
+**Worked example.** Two bells ring at intervals of 84 s and 120 s, together at 09:00. When do they next ring together?
+
+This is an **LCM** problem, not HCF — the bells coincide on a common multiple.
+
+```
+84  = 2^2 x 3 x 7
+120 = 2^3 x 3 x 5
+LCM = 2^3 x 3 x 5 x 7 = 840 s = 14 minutes -> 09:14
+```
+
+Choosing between HCF and LCM is the real difficulty: **LCM** answers "when do things next coincide", **HCF** answers "what is the largest equal group I can make".
+
 ## Fractions
 
 Multiply across; divide by **multiplying by the reciprocal**; add and subtract with a common denominator. Convert mixed numbers to improper fractions **before** multiplying or dividing.
@@ -55,6 +69,8 @@ compound growth: P x (multiplier)^n
 2. **Subtracting** rather than dividing in reverse percentages. A price of £78 after a 30% rise was £78 ÷ 1.3 = £60, **not** £78 × 0.7 = £54.60.
 
 Note also that a 30% rise followed by a 30% fall does **not** return to the start: 1.3 × 0.7 = 0.91, a 9% net loss.
+
+**Estimating** by rounding every value to 1 significant figure before calculating is a quick way to sanity-check whether a final answer is plausible.
 
 ## Ratio
 
@@ -96,6 +112,10 @@ For a value rounded to the nearest unit u, bounds are **± u/2**.
 
 **Subtraction and division cross over.** That single fact is most of the topic.
 
+## Error intervals
+
+A value rounded to a given precision could have come from a range either side of it — a length recorded as 6.3 cm to 1 decimal place satisfies **6.25 ≤ length < 6.35**. The lower bound uses ≤ and the upper uses <, because 6.35 would itself round up to 6.4.
+
 ## Exam traps
 
 - Treating 1 as prime.
@@ -113,5 +133,7 @@ For a value rounded to the nearest unit u, bounds are **± u/2**.
 3. Evaluate `(9/16)^(−1/2)`.
 4. Rationalise `3/(4 + √2)`.
 5. How do you find the maximum value of `a − b` from bounds?
+6. Two bells ring at intervals of 84 s and 120 s, together at 09:00. When do they next ring together?
+7. Write the error interval for a length recorded as 6.3 cm to 1 decimal place.
 
-**Answers:** 1. 48 = 2⁴×3, 72 = 2³×3²; HCF = 2³×3 = 24, LCM = 2⁴×3² = 144. 2. 78 ÷ 1.3 = £60. 3. Flip to (16/9)^(1/2) = 4/3. 4. Multiply top and bottom by (4 − √2) to get 3(4 − √2)/14. 5. Upper bound of a minus the **lower** bound of b.
+**Answers:** 1. 48 = 2⁴×3, 72 = 2³×3²; HCF = 2³×3 = 24, LCM = 2⁴×3² = 144. 2. 78 ÷ 1.3 = £60. 3. Flip to (16/9)^(1/2) = 4/3. 4. Multiply top and bottom by (4 − √2) to get 3(4 − √2)/14. 5. Upper bound of a minus the **lower** bound of b. 6. LCM of 84 and 120 = 2³×3×5×7 = 840 s = 14 minutes, so 09:14. 7. 6.25 ≤ length < 6.35.

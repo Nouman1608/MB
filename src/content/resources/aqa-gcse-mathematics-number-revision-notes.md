@@ -105,6 +105,22 @@ Combining bounds — the rule that decides the marks:
 
 Use prime factorisation. HCF = product of the **lowest** power of each common prime. LCM = product of the **highest** power of every prime appearing.
 
+**Worked example.** Find the HCF and LCM of 60 and 72.
+
+```
+60 = 2^2 x 3 x 5
+72 = 2^3 x 3^2
+
+HCF = lowest power of each shared prime = 2^2 x 3 = 12
+LCM = highest power of every prime present = 2^3 x 3^2 x 5 = 360
+```
+
+## Reverse percentage for a decrease
+
+A jacket costs £68 after a 15% **reduction**. The sale price is 85% of the original, so the multiplier is 0.85: original = 68 ÷ 0.85 = **£80**. Check by working forwards: 80 × 0.85 = 68.
+
+The trap here is finding 15% of £68 and adding it on — that gives £78.20, which is wrong, because the percentage applies to the **original** price, not the sale price. **Estimating** by rounding each value to 1 significant figure before a calculation is also useful for sanity-checking whether an answer is plausible.
+
 ## Exam traps
 
 - Reading a negative index as a negative answer.
@@ -121,5 +137,7 @@ Use prime factorisation. HCF = product of the **lowest** power of each common pr
 3. A price is £69 after a 15% increase. What was it before?
 4. Give the bounds for a length of 24 cm measured to the nearest cm.
 5. How do you find the maximum value of `a ÷ b` from bounds?
+6. A jacket costs £68 after a 15% reduction. Find the original price, and explain the common error to avoid.
+7. Find the HCF and LCM of 60 and 72 using prime factorisation.
 
-**Answers:** 1. 4; and 3/2. 2. Multiply top and bottom by (3 − √2) to get (3 − √2)/7. 3. 69 ÷ 1.15 = £60. 4. 23.5 ≤ L < 24.5. 5. Upper bound of a divided by the **lower** bound of b.
+**Answers:** 1. 4; and 3/2. 2. Multiply top and bottom by (3 − √2) to get (3 − √2)/7. 3. 69 ÷ 1.15 = £60. 4. 23.5 ≤ L < 24.5. 5. Upper bound of a divided by the **lower** bound of b. 6. £80, since the multiplier for an 85% sale price is 0.85 and 68 ÷ 0.85 = £80; the common error is finding 15% of £68 and adding it on, which wrongly applies the percentage to the sale price rather than the original. 7. 60 = 2² × 3 × 5 and 72 = 2³ × 3², so HCF = 2² × 3 = 12 and LCM = 2³ × 3² × 5 = 360.

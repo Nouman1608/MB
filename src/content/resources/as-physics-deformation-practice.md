@@ -71,6 +71,18 @@ Related: [Deformation of Solids revision notes](/resources/as-physics-deformatio
 
 **(b)** A rubber band is stretched and released. Its loading and unloading curves differ. State what the area between them represents. **[2]**
 
+**7.** A wire of original length 2.0 m and cross-sectional area 1.0 × 10⁻⁶ m² extends by 1.5 mm under a load of 60 N.
+
+**(a)** Calculate the stress, strain and Young modulus. **[3]**
+
+**(b)** Distinguish between the limit of proportionality and the elastic limit. **[2]**
+
+**8.** A student sets up the standard experiment to determine the Young modulus of a wire.
+
+**(a)** Describe how a **reference wire**, mounted alongside the test wire, improves the experiment. **[2]**
+
+**(b)** Explain why the force–extension graph must remain a straight line for Eₚ = ½Fx to be valid, and what must be done instead if it is not. **[2]**
+
 ---
 
 ## Answers
@@ -105,6 +117,16 @@ A = πr² = π × (2.1 × 10⁻⁴)² = **1.385 × 10⁻⁷ m²** [1].
 **6. (a)** E = ½kx² = 0.5 × 25 × 0.12² [1] = **0.18 J** [1].
 
 **(b)** The **energy dissipated** during the loading–unloading cycle [1], transferred mostly to **thermal energy**, which is why a repeatedly stretched rubber band warms up [1].
+
+---
+
+**7. (a)** stress = F/A = 60 ÷ (1.0 × 10⁻⁶) = **6.0 × 10⁷ Pa** [1]; strain = x/L = (1.5 × 10⁻³) ÷ 2.0 = **7.5 × 10⁻⁴** [1]; E = stress/strain = **8.0 × 10¹⁰ Pa** [1].
+
+**(b)** The **limit of proportionality** is where extension stops being proportional to force [1]; the **elastic limit** is the point beyond which deformation becomes at least partly plastic — for many materials this lies close to, but not exactly at, the limit of proportionality [1].
+
+**8. (a)** The unstretched reference wire is measured against the test wire to **cancel out effects such as thermal expansion** that would otherwise be mistaken for extension due to the load [1], since both wires expand or contract by the same amount with any temperature change [1].
+
+**(b)** Eₚ = ½Fx = ½kx² only holds **while F = kx**, i.e. within the limit of proportionality, so the area under the graph is a triangle [1]. Beyond that point the graph curves, so the energy stored must instead be found from the **actual area under the force–extension curve** [1].
 
 ---
 

@@ -45,6 +45,20 @@ Related: [Business Activity, Marketing and People revision notes](/resources/ocr
 
 **6.** Evaluate whether financial incentives are the most effective way to motivate staff in a small restaurant. **[9]**
 
+## Section C
+
+**7.** Define **added value** and explain **one** way a business can increase it without lowering price. **[3]**
+
+**8.** Distinguish between **unlimited** and **limited liability**, and explain why this distinction matters for raising external capital. **[4]**
+
+**9.** A bakery pays 80p in ingredients and packaging per loaf and sells at £2.20. It sells 500 loaves a day with fixed costs of £400 a day.
+
+**(a)** Calculate the added value per loaf and the total daily profit. **[3]**
+
+**(b)** Calculate the break-even output in loaves per day. **[2]**
+
+**10.** Compare **internal** and **external** recruitment, and state one advantage of a **flat** organisational structure over a **tall** one. **[4]**
+
 ---
 
 ## Answers
@@ -63,6 +77,16 @@ Related: [Business Activity, Marketing and People revision notes](/resources/ocr
 **6.** **For financial incentives:** staff in a restaurant are often on **low pay**, so a bonus or higher wage directly addresses their most pressing need [1]; **piece-rate or commission on upselling** gives an immediate, measurable link between effort and reward [1]; pay is also a key factor in **retention**, which reduces the cost of recruiting and training in a high-turnover industry [1].
 **Against:** Herzberg argued pay is a **hygiene factor** — it removes dissatisfaction but does not create lasting motivation [1]; **non-financial methods such as praise, training, job rotation and responsibility** can be more powerful and cost nothing [1]; financial incentives can also **encourage the wrong behaviour**, such as rushing service to increase covers, damaging quality [1].
 **Judgement:** in a small restaurant with **limited funds**, non-financial motivators are likely to be **more sustainable and affordable** [1]. However, pay must first be **at least fair and competitive**, or no amount of praise will retain staff [1] — so the best approach combines a fair basic wage with recognition and development [1].
+
+**7.** Added value is the **difference between the cost of inputs and the selling price** [1]. It can be increased through **brand, quality, convenience, design or service**, rather than through price alone — for example, better packaging or faster delivery lets a business charge more without changing its ingredients [2].
+
+**8.** **Unlimited liability** means the owner's **personal assets are at risk** if the business cannot pay its debts (sole traders, partnerships) [1]. **Limited liability** means shareholders can lose only **what they invested** (private and public limited companies) [1]. This matters because investors are far more willing to buy shares in a business where their personal wealth is protected [1], making limited liability the structure that makes raising significant external capital feasible [1].
+
+**9. (a)** Added value = 2.20 − 0.80 = **£1.40** [1]; total contribution = 1.40 × 500 = £700; profit = 700 − 400 = **£300 per day** [2].
+
+**(b)** Break-even output = fixed costs ÷ contribution per unit = 400 ÷ 1.40 = **286 loaves** (to the nearest whole loaf) [2].
+
+**10. Internal** recruitment is cheaper and faster and appoints a known quantity, but brings no fresh ideas and leaves another vacancy to fill [1]. **External** recruitment offers a wider pool and new perspectives, but is slower and costlier [1]. A **flat** structure has fewer layers and a wider span of control, giving **faster communication and more delegation** than a tall structure [2].
 
 ---
 

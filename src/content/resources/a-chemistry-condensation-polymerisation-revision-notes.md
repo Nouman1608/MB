@@ -65,6 +65,27 @@ The linkage is the **amide group** `–CONH–`.
 
 **Polyamides are stronger than polyesters** because amide groups form **hydrogen bonds** between chains, whereas ester groups can only manage permanent dipole–dipole attraction.
 
+## Worked example: repeat unit
+
+Deduce the repeat unit from ethane-1,2-diol, HOCH₂CH₂OH, and benzene-1,4-dicarboxylic acid, HOOCC₆H₄COOH.
+
+Each ester linkage forms between one –OH of the diol and one –COOH of the diacid, losing H₂O each time:
+
+–OCH₂CH₂OOCC₆H₄CO–
+
+This is the repeat unit of PET, the polyester used in drinks bottles. **Running the process in reverse** -- from a given polymer section back to its monomers -- means spotting the repeating ester (–COO–) or amide (–CONH–) linkage, then adding back an H₂O (or HCl) at each one broken to regenerate the diol/diamine and diacid.
+
+## Predicting the type of polymerisation
+
+Given an unfamiliar monomer or pair, the functional groups present decide which polymerisation type applies:
+
+- **A C=C double bond**, with no other reactive group needed → **addition** polymerisation, no small molecule lost.
+- **Two matching reactive groups per monomer** -- –OH/–COOH or –COCl pairs, or –NH₂/–COOH or –COCl pairs → **condensation** polymerisation, losing H₂O or HCl at each linkage.
+
+The same logic runs in reverse for a polymer section: an unbroken, saturated carbon backbone signals addition polymerisation; repeating ester or amide linkages signal condensation, and which one tells you whether the monomers were diol/diacid-type or diamine/diacid-type.
+
+**Photodegradable polymers** are a separate mechanism from hydrolysis-based biodegradability: certain bonds or additives absorb UV radiation and break, fragmenting the material -- but fragmentation isn't necessarily full breakdown into harmless small molecules, and a polymer can be biodegradable, photodegradable, both, or neither. Don't confuse the two mechanisms when a question names one specifically.
+
 ## Hydrolysis and biodegradability
 
 **Condensation polymers can be hydrolysed** — the ester or amide link is broken by water under acid or alkaline conditions, regenerating the monomers.

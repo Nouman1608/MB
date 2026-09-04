@@ -68,6 +68,24 @@ Related: [Principles of Chemistry revision notes](/resources/igcse-edexcel-chemi
 
 **(b)** Calculate the mass of sodium chloride formed. **[3]**
 
+## Section C
+
+**8.** Describe the structure and bonding in a metal, and explain why metals conduct electricity. **[3]**
+
+**9.** Diamond and graphite are both giant covalent structures of carbon, but only graphite conducts electricity.
+
+**(a)** Explain why both have very high melting points. **[2]**
+
+**(b)** Explain why graphite conducts but diamond does not. **[3]**
+
+**10.** 24.0 g of magnesium burns completely in oxygen. (A_r: Mg = 24, O = 16)
+
+**(a)** Write the balanced symbol equation. **[1]**
+
+**(b)** Calculate the mass of magnesium oxide formed. **[3]**
+
+**11.** A compound contains 40.0 g of calcium, 12.0 g of carbon and 48.0 g of oxygen. (A_r: Ca = 40, C = 12, O = 16). Calculate its empirical formula. **[3]**
+
 ---
 
 ## Answers
@@ -104,6 +122,18 @@ Iodine: **simple molecular** [1], I₂ molecules held together by **weak intermo
 **(b)** `2Na + Cl₂ → 2NaCl`, so n(NaCl) = 0.20 mol [1].
 M_r(NaCl) = 23 + 35.5 = 58.5 [1].
 m = 0.20 × 58.5 = **11.7 g** [1].
+
+**8.** A metal is a **lattice of positive ions** in a **sea of delocalised electrons** [1]. It conducts because the **delocalised electrons are free to move** through the structure and carry charge [1], which is also why metals are malleable — the layers of ions can slide without breaking any specific bond [1].
+
+**9. (a)** Both are giant covalent structures held together by a **network of strong covalent bonds** throughout the lattice, and melting requires breaking a very large number of these strong bonds, needing a large amount of energy [2].
+
+**(b)** In graphite, each **carbon atom bonds to only three others**, leaving **one delocalised electron per atom** free to move and carry charge [2]. In diamond, each carbon bonds to **four others**, so **all outer electrons are held in covalent bonds** and none are free to move [1].
+
+**10. (a)** `2Mg + O₂ → 2MgO` [1].
+
+**(b)** n(Mg) = 24.0 ÷ 24 = 1.0 mol [1]; ratio Mg : MgO is 2 : 2, so n(MgO) = 1.0 mol; M_r(MgO) = 24 + 16 = 40 [1]; mass = 1.0 × 40 = **40.0 g** [1].
+
+**11.** moles: Ca = 40.0 ÷ 40 = 1.0; C = 12.0 ÷ 12 = 1.0; O = 48.0 ÷ 16 = 3.0 [1]. Dividing through by the smallest (1.0) gives the ratio Ca : C : O = 1 : 1 : 3 [1]. Empirical formula: **CaCO₃** [1].
 
 ---
 

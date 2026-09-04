@@ -40,6 +40,12 @@ This is the simplest question type on the topic: count the distinct carbon envir
 
 There is **no splitting** in ¹³C NMR at this level, and peak heights are not quantitative.
 
+## Worked example: carbon-13 peak count
+
+Predict the number of peaks for propan-1-ol, CH₃CH₂CH₂OH, and propan-2-ol, (CH₃)₂CHOH.
+
+Propan-1-ol has three carbons, each in a genuinely different environment (terminal CH₃, central CH₂, CH₂–OH) — **3 peaks**. Propan-2-ol also has three carbons, but its two CH₃ groups are equivalent by the molecule's own symmetry, both attached identically to the central CHOH carbon — so only **2** distinct environments. Same molecular formula, different peak count: exactly why carbon-13 NMR distinguishes structural isomers other techniques might miss.
+
 ## Proton NMR — three pieces of information
 
 **1. Chemical shift (δ)** — identifies the environment:
@@ -71,11 +77,19 @@ There is **no splitting** in ¹³C NMR at this level, and peak heights are not q
 
 Ethanol is the classic worked example: CH₃ (triplet, 3H), CH₂ (quartet, 2H), OH (singlet, 1H).
 
+**Deducing structure from a spectrum** combines all three pieces together: the number of peaks gives the number of distinct proton environments, chemical shift identifies what kind of environment each is, relative area gives how many protons are in each, and the splitting pattern reveals how many protons sit on each neighbouring carbon — usually enough to piece together the full structure, especially alongside the molecular formula from mass spectrometry.
+
 ## OH and NH protons
 
 These appear as **broad singlets** at variable shift, and they do **not** split or get split, because they exchange rapidly with the solvent.
 
 **The D₂O shake** confirms them: adding D₂O replaces the OH/NH hydrogen with deuterium, which is not detected, so **the peak disappears**. That is the standard identification test.
+
+## Common mistakes to avoid
+
+**Including an OH or NH proton in a neighbouring group's splitting count.** Because these protons usually exchange rapidly, they don't show the expected coupling to neighbouring C–H protons, and are excluded when applying the n+1 rule to an adjacent CH₂ or CH₃.
+
+**Assuming the D₂O shake permanently changes the molecule.** It only removes that peak from *this particular spectrum*, by temporarily swapping an exchangeable proton for deuterium — a diagnostic trick, not a permanent chemical change to the compound itself.
 
 ## Solvents
 
@@ -97,5 +111,6 @@ Use **deuterated solvents** such as CDCl₃, because ordinary solvents would con
 3. State the n+1 rule and say what n counts.
 4. What does integration actually tell you?
 5. What is the D₂O shake for, and what happens?
+6. Predict the number of carbon-13 peaks for propan-2-ol, and explain why it differs from propan-1-ol.
 
-**Answers:** 1. It is inert, volatile, non-toxic and gives a single sharp peak away from most others, because all twelve of its protons are equivalent. 2. Two — there are two chemically different carbon environments, CH₃ and CH₂. 3. A signal is split into n+1 lines, where n is the number of hydrogen atoms on the **adjacent** carbon atoms, not on the same carbon. 4. The ratio of the numbers of hydrogen atoms in each environment — not the absolute number. 5. It identifies OH and NH protons: adding D₂O exchanges the labile hydrogen for deuterium, which is not detected, so that peak disappears.
+**Answers:** 1. It is inert, volatile, non-toxic and gives a single sharp peak away from most others, because all twelve of its protons are equivalent. 2. Two — there are two chemically different carbon environments, CH₃ and CH₂. 3. A signal is split into n+1 lines, where n is the number of hydrogen atoms on the **adjacent** carbon atoms, not on the same carbon. 4. The ratio of the numbers of hydrogen atoms in each environment — not the absolute number. 5. It identifies OH and NH protons: adding D₂O exchanges the labile hydrogen for deuterium, which is not detected, so that peak disappears. 6. Two peaks: the two CH₃ groups are equivalent by the molecule's symmetry, both attached identically to the central CHOH carbon, so they give a single combined peak — unlike propan-1-ol, where all three carbons occupy genuinely different environments and give three separate peaks.

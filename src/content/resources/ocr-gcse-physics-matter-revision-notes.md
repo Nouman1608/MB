@@ -29,6 +29,8 @@ rho = m / V         kg m^-3 or g cm^-3
 
 **Measuring density:** for a regular solid, measure dimensions and mass. For an irregular solid, use a **displacement can** — the volume of water displaced equals the object's volume. For a liquid, measure the mass of a known volume in a measuring cylinder, remembering to subtract the container's mass.
 
+**Unit conversion:** 1 g/cm³ = 1000 kg/m³. Solids and liquids have similar densities, because their particles are close together; gases are roughly a thousand times less dense, because their particles are far apart.
+
 ## Particle model
 
 | State | Arrangement | Movement | Energy |
@@ -53,6 +55,19 @@ E = m L                    specific latent heat
 
 On a heating curve, the **flat sections** are the changes of state, and the **latent heat of vaporisation section is longer** than fusion, because boiling must separate the particles completely rather than merely loosening them.
 
+## Worked example: two-stage heating
+
+How much energy is needed to turn 0.50 kg of ice at 0 °C into water at 20 °C? (L of fusion = 334,000 J/kg; c of water = 4200 J/kg°C)
+
+```
+Melting:  E = mL = 0.50 x 334,000        = 167,000 J
+Heating:  E = mc(delta-theta) = 0.50 x 4200 x 20  = 42,000 J
+
+Total = 209,000 J
+```
+
+Two stages, two equations — melting takes about four times as much energy as the heating that follows, which is the point of the question.
+
 ## Gas pressure
 
 Gas pressure comes from **particles colliding with the container walls**, each collision exerting a small force.
@@ -65,7 +80,7 @@ Gas pressure comes from **particles colliding with the container walls**, each c
 p1 V1 = p2 V2        (constant temperature)
 ```
 
-**Absolute zero** (−273 °C) is where particles have **minimum** energy, not zero energy.
+**Absolute zero** (−273 °C) is where particles have **minimum** energy, not zero energy. To convert to kelvin, add 273: 0 °C = 273 K. The kelvin scale starts at absolute zero, so a temperature in kelvin is never negative.
 
 **Doing work on a gas raises its temperature** — which is why a bicycle pump warms up when compressing air. The work done on the gas increases the internal energy.
 
@@ -77,6 +92,7 @@ p1 V1 = p2 V2        (constant temperature)
 - Giving only one effect when temperature rises in a fixed volume.
 - Saying particles stop at absolute zero.
 - Using E = mcΔθ during a change of state.
+- Forgetting to convert g/cm³ to kg/m³ (× 1000), or cm³ to m³, when units are mixed.
 
 ## Self-test
 
@@ -85,5 +101,7 @@ p1 V1 = p2 V2        (constant temperature)
 3. Why does temperature stay constant while a substance boils?
 4. Explain why heating a gas in a sealed container raises its pressure — give both effects.
 5. Why does a bicycle pump get warm?
+6. Convert a density of 2.7 g/cm³ into kg/m³.
+7. Calculate the total energy to turn 0.50 kg of ice at 0 °C into water at 20 °C (L of fusion = 334,000 J/kg, c of water = 4200 J/kg°C).
 
-**Answers:** 1. Measure its mass on a balance, then find its volume by the water displaced in a displacement can, and divide mass by volume. 2. No new substance is formed and the change is reversible — the particles are unchanged, only their arrangement and energy differ. 3. The energy supplied is used to overcome the forces between particles, increasing potential energy rather than kinetic energy, and temperature depends on kinetic energy. 4. The particles move faster, so they hit the walls more frequently and each collision exerts a greater force. 5. Work is done on the air as it is compressed, which increases its internal energy and therefore its temperature.
+**Answers:** 1. Measure its mass on a balance, then find its volume by the water displaced in a displacement can, and divide mass by volume. 2. No new substance is formed and the change is reversible — the particles are unchanged, only their arrangement and energy differ. 3. The energy supplied is used to overcome the forces between particles, increasing potential energy rather than kinetic energy, and temperature depends on kinetic energy. 4. The particles move faster, so they hit the walls more frequently and each collision exerts a greater force. 5. Work is done on the air as it is compressed, which increases its internal energy and therefore its temperature. 6. 2.7 × 1000 = 2700 kg/m³. 7. Melting: E = mL = 0.50 × 334,000 = 167,000 J; heating: E = mcΔθ = 0.50 × 4200 × 20 = 42,000 J; total = 209,000 J.

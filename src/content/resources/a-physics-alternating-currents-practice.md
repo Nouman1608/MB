@@ -67,6 +67,18 @@ Related: [Alternating Currents revision notes](/resources/a-physics-alternating-
 
 **(b)** A cable carries 500 MW. Calculate the current at 400 kV and at 40 kV, and comment on the effect on power loss. **[3]**
 
+## Section C
+
+**7.** Distinguish between **half-wave** and **full-wave** rectification, and state which arrangement of diodes produces full-wave rectification. **[3]**
+
+**8.** A capacitor is connected across the load of a full-wave rectifier circuit to smooth the output.
+
+**(a)** Explain how the capacitor smooths the output. **[2]**
+
+**(b)** State **two** ways of reducing the ripple in the smoothed output, and explain why each works. **[4]**
+
+**9.** A student claims that increasing the smoothing capacitance removes the ripple completely. Explain why this claim is wrong. **[2]**
+
 ---
 
 ## Answers
@@ -100,6 +112,14 @@ I₀ = 5.0 × √2 = **7.07 A** [1].
 **(b)** At 400 kV: I = 500 × 10⁶ ÷ 400 × 10³ = **1250 A** [1].
 At 40 kV: I = 500 × 10⁶ ÷ 40 × 10³ = **12 500 A** [1].
 The current is **ten times greater**, so the power loss would be **100 times greater** [1].
+
+**7. Half-wave** rectification uses a single diode, allowing current to flow during only one half of each cycle, blocking the other half entirely, so current flows in pulses with a gap between each [1]. **Full-wave** rectification allows current to flow during both halves of the cycle, producing pulses with no gaps [1]. A **bridge arrangement of four diodes** produces full-wave rectification [1].
+
+**8. (a)** The capacitor **charges up during each pulse** and **discharges gradually between pulses** [1], reducing the fall in voltage that would otherwise occur between pulses [1].
+
+**(b)** **Increasing the capacitance** — a larger capacitor stores more charge, so it discharges more slowly for the same load, increasing the time constant τ = RC and smoothing the ripple further [2]. **Increasing the load resistance** — a higher resistance discharges the capacitor more slowly for the same capacitance, again increasing τ = RC [2].
+
+**9.** Increasing the capacitance increases the time constant RC, so the voltage falls **more slowly** between pulses and the ripple is **reduced** [1], but the capacitor still discharges to some extent between pulses, so the output is never a perfectly constant, ripple-free voltage [1].
 
 ---
 
