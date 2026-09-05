@@ -131,6 +131,11 @@ distinct stages.
 - Practise the point-evidence-explain-link structure for "importance of"
 questions.
 
+## Related resources
+
+- [Sources of Authority in Islam revision notes](/resources/igcse-oxfordaqa-islamiyat-sources-of-authority-revision-notes/)
+- [Sources of Authority in Islam practice questions](/resources/igcse-oxfordaqa-islamiyat-sources-of-authority-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE Islamiat (9237) specification, Version

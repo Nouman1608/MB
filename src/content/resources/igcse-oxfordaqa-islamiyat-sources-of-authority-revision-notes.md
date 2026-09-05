@@ -122,6 +122,11 @@ distinct stages (revelation, preservation, compilation).
 - Skipping the "link back to the hierarchy" step in an "explain the
 importance" answer.
 
+## Related resources
+
+- [Sources of Authority in Islam study guide](/resources/igcse-oxfordaqa-islamiyat-sources-of-authority/)
+- [Sources of Authority in Islam practice questions](/resources/igcse-oxfordaqa-islamiyat-sources-of-authority-practice/)
+
 ## Prescribed passages — do not overlook them
 
 The specification requires students to study prescribed passages linked
