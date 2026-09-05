@@ -68,10 +68,14 @@ source, whether or not current is flowing, and is distinct from **potential
 difference**, which is the energy transferred per unit charge across any
 component.
 
-Real sources have **internal resistance** r. When current I flows, some
+Real sources have **internal resistance** r. While a source is
+**discharging** — driving current I through an external circuit — some
 energy is transferred within the source itself, so the **terminal potential
 difference** (what's actually available to the external circuit) is less than
-the e.m.f.:
+the e.m.f. While a source is instead being **charged** (current driven into
+its positive terminal, for example by another, higher-voltage source), the
+opposite holds: the applied terminal voltage exceeds the e.m.f. by Ir. The
+discharging case is the one usually met first:
 
 ```
 ε = I(R + r) = V_terminal + Ir

@@ -32,9 +32,9 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Physical Quantities, Units and Measurement study guide](/resources/as-physics-physical-quantities-units-and-measurement/).
 
-## SI base units
+## SI base units (Cambridge 9702)
 
-kilogram (kg), metre (m), second (s), ampere (A), kelvin (K), mole (mol).
+kilogram (kg), metre (m), second (s), ampere (A), kelvin (K) -- the five base quantities and units required at this level. (The full SI system defines seven base units in total, adding the mole and the candela, but 9702 doesn't require these two.)
 
 All others are **derived**: N = kg m s⁻², J = kg m² s⁻², W = kg m² s⁻³, Pa = kg m⁻¹ s⁻², V = kg m² s⁻³ A⁻¹.
 
@@ -101,7 +101,7 @@ Raising to a power **multiplies** the percentage uncertainty by that power — a
 
 ## Self-test
 
-1. Give the six SI base units.
+1. Give the five SI base quantities and units required at this level.
 2. What does homogeneity prove, and what does it not?
 3. A force F acts at angle θ to the horizontal. Give both components.
 4. How do uncertainties combine when dividing?
@@ -109,4 +109,4 @@ Raising to a power **multiplies** the percentage uncertainty by that power — a
 6. A sphere has radius r = (2.0 ± 0.1) cm. Find the percentage uncertainty in its volume.
 7. Give one example each of a random error and a systematic error, and state how each is reduced.
 
-**Answers:** 1. Kilogram, metre, second, ampere, kelvin, mole. 2. It proves the equation could be correct; it cannot detect a wrong dimensionless constant. 3. F cos θ horizontally and F sin θ vertically. 4. Add the percentage uncertainties. 5. The line has the correct gradient but an unexpected intercept — most obviously, a line that should pass through the origin does not. 6. % uncertainty in r = (0.1/2.0) × 100 = 5%; since V ∝ r³, % uncertainty in V = 3 × 5% = **15%**. 7. Random: reaction time on a stopwatch — reduced by repeating and averaging. Systematic: a worn ruler reading every length short — reduced only by recalibration, not repetition.
+**Answers:** 1. Kilogram, metre, second, ampere, kelvin. 2. It proves the equation could be correct; it cannot detect a wrong dimensionless constant. 3. F cos θ horizontally and F sin θ vertically. 4. Add the percentage uncertainties. 5. The line has the correct gradient but an unexpected intercept — most obviously, a line that should pass through the origin does not. 6. % uncertainty in r = (0.1/2.0) × 100 = 5%; since V ∝ r³, % uncertainty in V = 3 × 5% = **15%**. 7. Random: reaction time on a stopwatch — reduced by repeating and averaging. Systematic: a worn ruler reading every length short — reduced only by recalibration, not repetition.

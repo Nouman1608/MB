@@ -134,8 +134,13 @@ They are related but distinct — proportionality can end slightly before the
 elastic limit is reached for some materials.
 - **Using Eₚ = ½Fx = ½kx² beyond the limit of proportionality.** This formula
 only holds while F = kx is valid; beyond that, the force–extension graph is
-no longer a straight line and the energy must be found from the actual area
-under the curve, not this shortcut.
+no longer a straight line and the *work done* must be found from the actual
+area under the loading curve, not this shortcut. That area only equals the
+*recoverable* elastic energy while the material is still behaving
+elastically (fully returns to its original length on unloading) -- once any
+plastic deformation has occurred, some of that work is not recoverable, and
+the true recoverable energy is the smaller area under the separate
+unloading curve instead.
 - **Confusing stress (force per unit area) with pressure conceptually** —
 they share units, but stress specifically describes an applied force
 producing deformation in a solid.

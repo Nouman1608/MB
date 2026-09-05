@@ -59,7 +59,7 @@ Related: [Forces, Density and Pressure revision notes](/resources/as-physics-for
 
 **7.** Describe how a **closed vector triangle** can be used to find an unknown force acting on an object in equilibrium under three coplanar forces. **[3]**
 
-**8.** A uniform beam of weight 40 N is balanced on a pivot, with a 25 N weight hung 0.6 m from the pivot on one side. How far from the pivot must a 15 N weight be hung on the other side to balance it? **[3]**
+**8.** A uniform beam of weight 40 N is pivoted at its centre (so the beam's own weight produces no moment about the pivot), with a 25 N weight hung 0.6 m from the pivot on one side. How far from the pivot must a 15 N weight be hung on the other side to balance it? **[3]**
 
 **9.** Two forces of 8 N each, acting 0.5 m apart, form a couple. Calculate the torque of the couple. **[2]**
 
@@ -72,7 +72,7 @@ Related: [Forces, Density and Pressure revision notes](/resources/as-physics-for
 **1.** A moment is the **force multiplied by the perpendicular distance** from the pivot to the line of action of the force [1] [1].
 Equilibrium requires **resultant force = 0** [1] and **resultant moment about any point = 0** [1].
 
-**2.** A couple is **two equal, opposite, parallel forces not acting along the same line** [1]. The forces **cancel**, so there is no resultant force and no translation [1], but they produce moments in the **same rotational sense**, so the body rotates [1].
+**2.** A couple is **two equal, opposite, parallel forces not acting along the same line** [1]. The forces **cancel**, so there is no resultant force and hence no *change* to the body's translational motion [1] — a body already moving continues at that same velocity — but they produce moments in the **same rotational sense**, giving a nonzero resultant moment and so an angular acceleration [1].
 
 **3. (a)** Taking moments about the left support:
 Clockwise: (240 × 1.5) + (500 × 1.0) = 360 + 500 = 860 N m [1] [1]

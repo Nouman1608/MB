@@ -81,7 +81,7 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 **1.** **First law:** the sum of currents into a junction equals the sum of currents out [1] — **conservation of charge** [1].
 **Second law:** around any closed loop, the sum of e.m.f.s equals the sum of p.d.s [1] — **conservation of energy** [1].
 
-**2.** **E.m.f.** is the energy transferred **to** each unit charge by the source [1]; **p.d.** is the energy transferred **from** each unit charge in a component [1]. E.m.f. is defined for the source whether or not current flows, while p.d. only has meaning when charge actually moves through a component.
+**2.** **E.m.f.** is the energy transferred **to** each unit charge by the source [1]; **p.d.** is the energy transferred **from** each unit charge in a component [1]. Both are defined between two points regardless of whether current actually flows — a potential difference can exist across an open switch, an unconnected cell, or a charged capacitor with no current crossing it; p.d. describes the energy that *would be* transferred per unit charge, not only energy already transferred.
 
 **3.** It provides an **additional path for current** [1], so a greater total current flows for the same potential difference, which means a lower total resistance [1]. The combined resistance of any parallel network is always smaller than its smallest individual resistor.
 
@@ -106,7 +106,7 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 
 **8.** An LDR's resistance **falls as light intensity increases** [1]. If the output is taken across the LDR, it takes a **smaller share of the total resistance** as light increases, so the **output voltage falls** [1] — the circuit can therefore signal changing light levels via a changing output voltage [1].
 
-**9.** When the internal resistance is **negligible**, or when **no current flows** (open circuit) [1] [1] — otherwise the "lost volts" Ir make terminal p.d. less than e.m.f. This is why a genuinely fresh, low-resistance cell measured on open circuit gives a reading very close to its rated e.m.f.
+**9.** When the internal resistance is **negligible**, or when **no current flows** (open circuit) [1] [1] — otherwise, while the cell is discharging (supplying current), the "lost volts" Ir make terminal p.d. less than e.m.f.; while it is being charged, the applied terminal voltage instead exceeds the e.m.f. by Ir. This is why a genuinely fresh, low-resistance cell measured on open circuit gives a reading very close to its rated e.m.f.
 
 ---
 
@@ -119,4 +119,4 @@ Related: [D.C. Circuits revision notes](/resources/as-physics-dc-circuits-revisi
 - Not naming the conservation law behind each of Kirchhoff's laws.
 - Adding parallel resistances directly instead of using the reciprocal formula.
 - Assuming an LDR's output voltage behaves the same way as a thermistor's without checking which component the output is taken across.
-- Treating e.m.f. and terminal p.d. as always equal, forgetting they only coincide when internal resistance is negligible or no current flows.
+- Treating e.m.f. and terminal p.d. as always equal, forgetting they only coincide when internal resistance is negligible or no current flows -- and, more generally, treating terminal p.d. as always *below* e.m.f., forgetting this only holds while the cell is discharging (supplying current); while it is being charged, the terminal voltage exceeds the e.m.f. by Ir.

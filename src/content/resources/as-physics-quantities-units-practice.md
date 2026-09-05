@@ -39,7 +39,7 @@ Related: [Physical Quantities and Units revision notes](/resources/as-physics-qu
 
 ## Questions
 
-**1.** State the six SI base units and the quantity each measures. **[3]**
+**1.** State the five SI base quantities and units required at this level (Cambridge 9702), and the quantity each measures. **[3]**
 
 **2.** Express the newton and the joule in SI base units. **[2]**
 
@@ -75,7 +75,7 @@ Related: [Physical Quantities and Units revision notes](/resources/as-physics-qu
 
 ## Answers
 
-**1.** kilogram (mass), metre (length), second (time) [1]; ampere (current), kelvin (temperature), mole (amount of substance) [1] [1].
+**1.** kilogram (mass), metre (length), second (time) [1]; ampere (current), kelvin (temperature) [1] [1]. (The full SI system has seven base units in total, adding the mole for amount of substance and the candela for luminous intensity, but Cambridge 9702 only requires recall of these five.)
 
 **2.** N = **kg m s⁻²** [1]; J = **kg m² s⁻²** [1].
 

@@ -65,9 +65,12 @@ distance from the line of action of the force to that point, and has a
 turning effect (measured in N m).
 
 A **couple** is a pair of equal, opposite, parallel forces whose lines of
-action don't coincide — it produces rotation only, no resultant linear force.
-The **torque** of a couple is one force × the perpendicular distance between
-the two forces.
+action don't coincide — it has zero resultant force (so no translational
+acceleration) but a nonzero resultant moment, giving an angular
+acceleration. This doesn't mean the body has no translation at all: a body
+already moving uniformly stays in that same uniform translation while a
+couple acts on it, gaining rotation on top of it. The **torque** of a
+couple is one force × the perpendicular distance between the two forces.
 
 ## Equilibrium
 
@@ -84,10 +87,12 @@ For **three coplanar forces in equilibrium**, a closed vector triangle (each
 force represented as an arrow, tip-to-tail, returning to the start) is a
 standard way to represent and solve for an unknown force or angle.
 
-**Worked example.** A uniform beam of weight 40 N is balanced on a pivot, with
-a 25 N weight hung 0.6 m from the pivot on one side. How far from the pivot
-must a 15 N weight be hung on the other side to balance it? Using the
-principle of moments:
+**Worked example.** A uniform beam of weight 40 N is pivoted at its centre
+(so the beam's own weight produces no moment about the pivot), with a 25 N
+weight hung 0.6 m from the pivot on one side. How far from the pivot must a
+15 N weight be hung on the other side to balance it? Using the principle of
+moments (the beam's own 40 N weight is excluded because it acts through the
+pivot itself and so has zero perpendicular distance to it):
 
 ```
 25 × 0.6 = 15 × d

@@ -126,7 +126,7 @@ A = πr² = π × (2.1 × 10⁻⁴)² = **1.385 × 10⁻⁷ m²** [1].
 
 **8. (a)** The unstretched reference wire is measured against the test wire to **cancel out effects such as thermal expansion** that would otherwise be mistaken for extension due to the load [1], since both wires expand or contract by the same amount with any temperature change [1].
 
-**(b)** Eₚ = ½Fx = ½kx² only holds **while F = kx**, i.e. within the limit of proportionality, so the area under the graph is a triangle [1]. Beyond that point the graph curves, so the energy stored must instead be found from the **actual area under the force–extension curve** [1].
+**(b)** Eₚ = ½Fx = ½kx² only holds **while F = kx**, i.e. within the limit of proportionality, so the area under the graph is a triangle [1]. Beyond that point the graph curves, so the **work done stretching the wire** must instead be found from the actual area under the loading force–extension curve [1]. That area gives the *recoverable* elastic energy only if the wire is still behaving elastically (returns fully to its original length when unloaded); if the wire has been stretched past its elastic limit, some of that work is not recovered on unloading, and the true recoverable energy is instead the (smaller) area under the separate unloading curve.
 
 ---
 

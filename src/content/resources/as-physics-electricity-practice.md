@@ -94,7 +94,7 @@ Related: [Electricity revision notes](/resources/as-physics-electricity-revision
 **(b)** R = V ÷ I = 12 ÷ 5.0 [1] = **2.4 Ω** [1].
 **(c)** Q = It = 5.0 × 300 [1] = **1500 C** [1].
 
-**8.** **E.m.f.** is the energy converted **from other forms to electrical** per unit charge, supplied by the source [1]; **p.d.** is the energy **transferred from electrical to other forms** per unit charge, across a component [1]. When current flows, some energy per coulomb is transferred to the battery's own **internal resistance**, so the terminal p.d. (across the external circuit) is always less than the e.m.f. by the "lost volts" across that internal resistance [1].
+**8.** **E.m.f.** is the energy converted **from other forms to electrical** per unit charge, supplied by the source [1]; **p.d.** is the energy **transferred from electrical to other forms** per unit charge, across a component [1]. While the battery is *discharging* — supplying current to an external circuit — some energy per coulomb is transferred to the battery's own **internal resistance**, so the terminal p.d. is less than the e.m.f. by the "lost volts" across that internal resistance [1]. (The reverse holds while the battery is being *charged*: current is driven into its positive terminal, and the applied terminal voltage must then exceed the e.m.f. by Ir.)
 
 **9. (a)** A curve where resistance **falls** as current (and temperature) increases — the opposite curvature to a filament lamp [1].
 **(b)** As temperature rises, **more charge carriers (electrons) are released** into the conduction band [1], so for a given p.d. more current can flow, meaning resistance falls [1].
