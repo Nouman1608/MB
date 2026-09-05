@@ -88,4 +88,3 @@ Related: [Theme A: Unity and Diversity revision notes](/resources/ib-dp-biology-
 ## Official syllabus
 
 International Baccalaureate Organization, *Diploma Programme Subject Brief -- Sciences: Biology*, first assessment 2025, published January 2022 -- the same source cited by the [Theme A revision notes](/resources/ib-dp-biology-theme-a-unity-diversity-revision-notes/) and the [full syllabus guide](/resources/ib-dp-biology-syllabus-guide/).
-Marlbridge holds, or is in the process of obtaining, a formal license from the IB for commercial use of this guide.

@@ -115,4 +115,4 @@ themselves vectors and inherit the same sign-convention discipline.
 
 ## Official syllabus
 
-International Baccalaureate Organization, Physics guide (Diploma Programme), first assessment 2025. Marlbridge holds, or is in the process of obtaining, a formal license from the IB for commercial use of this guide.
+International Baccalaureate Organization, Physics guide (Diploma Programme), first assessment 2025.

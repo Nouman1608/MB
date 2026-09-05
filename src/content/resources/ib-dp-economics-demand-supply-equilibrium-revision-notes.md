@@ -111,4 +111,4 @@ elasticity calculations and diagrams.
 
 ## Official syllabus
 
-International Baccalaureate Organization, Economics guide (Diploma Programme), first assessment 2022. Marlbridge holds, or is in the process of obtaining, a formal license from the IB for commercial use of this guide.
+International Baccalaureate Organization, Economics guide (Diploma Programme), first assessment 2022.

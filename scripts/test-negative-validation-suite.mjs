@@ -634,6 +634,48 @@ withMutation(
   },
 );
 
+console.log('\n[AE] D-129 -- Assessment validator rejects mirrorSourceUrl set without sourceConfidence');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "    mirrorSourceUrl: 'https://anatolia.edu.gr/images/highschool/IBDP/Business_long_subject_guide.pdf',\n    sourceConfidence: 'authentic-mirror-high-confidence',\n    corroboratingSourceUrl: 'https://dp.uwcea.org/docs/Business%20Management%20Subject%20Guide.pdf',",
+    "    mirrorSourceUrl: 'https://anatolia.edu.gr/images/highschool/IBDP/Business_long_subject_guide.pdf',\n    corroboratingSourceUrl: 'https://dp.uwcea.org/docs/Business%20Management%20Subject%20Guide.pdf',",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'mirrorSourceUrl is set but sourceConfidence is missing',
+    label: "DP Business Management's mirrorSourceUrl left set with sourceConfidence stripped is rejected",
+  },
+);
+
+console.log('\n[AF] D-129 -- Assessment validator rejects sourceConfidence \'authentic-mirror-corroborated\' without corroboratingSourceUrl');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "    mirrorSourceUrl: 'https://mrkremerscience.com/new-ess/ess-exams/',\n    sourceConfidence: 'authentic-mirror-corroborated',\n    corroboratingSourceUrl: 'https://sciencesauceonline.com/ibess/the-ess-ia/',",
+    "    mirrorSourceUrl: 'https://mrkremerscience.com/new-ess/ess-exams/',\n    sourceConfidence: 'authentic-mirror-corroborated',",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: "sourceConfidence is 'authentic-mirror-corroborated' but corroboratingSourceUrl is missing/empty",
+    label: "DP Environmental Systems and Societies's corroboratingSourceUrl stripped while sourceConfidence stays 'authentic-mirror-corroborated' is rejected",
+  },
+);
+
+console.log('\n[AG] D-129 -- Assessment validator rejects an officialSourceUrl domain mismatch');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace(
+    "officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/global-politics-sl-hl-subject-brief-en.pdf',",
+    "officialSourceUrl: 'https://ibo.org/globalassets/new-structure/university-admission/pdfs/global-politics-sl-hl-subject-brief-en.pdf',",
+  ),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'cites "ibo.org" but ib\'s official domain is "www.ibo.org"',
+    label: "DP Global Politics's officialSourceUrl changed from www.ibo.org to the bare ibo.org host is rejected",
+  },
+);
+
 console.log(`\n==============================================================================`);
 console.log(`SUMMARY: ${passed} passed, ${failed} failed`);
 console.log(`==============================================================================`);

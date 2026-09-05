@@ -272,6 +272,32 @@ export interface Assessment {
   readonly components: readonly AssessmentComponent[];
   readonly officialSourceUrl: string;
   readonly verifiedOn: string;
+  /** Owner decision 2026-09-05 (see docs/decision-log.md D-129): the
+   * requirement that a document be HOSTED on the awarding body's own
+   * domain is dropped -- what matters is whether the document ITSELF is a
+   * genuine, authentic board-origin document, regardless of who mirrors
+   * it. `officialSourceUrl` above must still always point at the board's
+   * own official page (an official subject brief/hub, even if the actual
+   * figures were confirmed via a mirror) -- it is never replaced by a
+   * third-party URL. `mirrorSourceUrl` is the third-party URL actually
+   * used to read the authentic figures, set only when it differs from
+   * `officialSourceUrl`. Omit entirely when every fact was read directly
+   * from the board's own official host. */
+  readonly mirrorSourceUrl?: string;
+  /** Required whenever `mirrorSourceUrl` is set (validator [14]); must
+   * never be 'official-host' in that case, since that value means every
+   * fact came from the board's own official host with no mirror involved.
+   * A closed union of only the three PUBLISHABLE confidence tiers -- a
+   * source that only reached REVIEW_REQUIRED or REJECTED during research
+   * never becomes a written record at all, so those two levels have no
+   * schema representation here by design (see D-129). */
+  readonly sourceConfidence?: 'official-host' | 'authentic-mirror-high-confidence' | 'authentic-mirror-corroborated';
+  /** The second, independent source that corroborates `mirrorSourceUrl`
+   * when a mirror's own authenticity signals weren't conclusive alone.
+   * Required whenever `sourceConfidence` is 'authentic-mirror-corroborated'
+   * (validator [14]); may be an official board page, a second independent
+   * mirror, or an official subject brief agreeing on the same figures. */
+  readonly corroboratingSourceUrl?: string;
   /** Public-facing. Rendered directly on the board/qualification/subject page
    * (see the `[subject].astro` template) immediately after the official-source
    * attribution line. Must only ever contain content a learner should read:
@@ -3301,6 +3327,132 @@ export const ASSESSMENTS: readonly Assessment[] = [
     verifiedOn: '2026-09-04',
     notes: 'Read directly from the public IB MYP Language Acquisition subject brief ("From 2020"; framework currency date, not an exam-sitting year -- fetched via a school-hosted mirror of the identical ibo.org PDF after the direct ibo.org URL returned no extractable content in this session, same fallback pattern already used for the DP Physics record above). All four criteria equally weighted (25% each), 8-level achievement scale (marks=8 = the maximum achievable level), teacher-assessed and externally moderated by IB sampling, no fixed sitting duration. Unlike the other four MYP subjects modeled in this batch, language acquisition is compulsory in every MYP year (except for bilingual students following the separate language-and-literature route). Optional MYP eAssessment (for MYP Certificate/course-results seekers only, not modeled as this record\'s components) comprises an on-screen exam (Listening 32 marks, Reading 32 marks, Writing 32 marks) plus a separately-scored, IB-moderated speaking examination (Speaking 32 marks) -- cited for completeness only, not modeled.',
     assessmentModel: 'criterion-referenced',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-dp',
+    subjectSlug: 'business',
+    code: 'DP Business Management',
+    specStatus: 'current',
+    tiers: ['sl', 'hl'],
+    firstAssessment: '2024',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Pre-Released Case Study Response', durationMinutes: 90, marks: 30, weightingPercent: 35, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Unseen Stimulus, Quantitative Focus', durationMinutes: 90, marks: 40, weightingPercent: 35, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true, calculatorAllowed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Business Research Project', durationMinutes: null, marks: 25, weightingPercent: 30, assessmentType: 'project', tier: 'sl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Pre-Released Case Study Response', durationMinutes: 90, marks: 30, weightingPercent: 25, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Unseen Stimulus, Quantitative Focus', durationMinutes: 105, marks: 50, weightingPercent: 30, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true, calculatorAllowed: true },
+      { paperCode: 'Paper 3', title: 'Paper 3 -- Unseen Stimulus on a Social Enterprise (HL Only)', durationMinutes: 75, marks: 25, weightingPercent: 25, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Business Research Project', durationMinutes: null, marks: 25, weightingPercent: 20, assessmentType: 'project', tier: 'hl', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/business-management-hl-subject-brief-en.pdf',
+    verifiedOn: '2026-09-05',
+    mirrorSourceUrl: 'https://anatolia.edu.gr/images/highschool/IBDP/Business_long_subject_guide.pdf',
+    sourceConfidence: 'authentic-mirror-high-confidence',
+    corroboratingSourceUrl: 'https://dp.uwcea.org/docs/Business%20Management%20Subject%20Guide.pdf',
+    notes: 'Both tiers modeled in full. Owner decision 2026-09-05 (D-129) widened this site\'s evidence policy so a genuine, authentic IB-origin document is usable even when mirrored on a third-party host, not only ibo.org itself, provided the primary figures are checked for internal consistency and independently corroborated. Weighting and duration for Higher Level are read directly from the official public subject brief (first assessments 2024), directly fetched this session. Exact mark totals for every component at both tiers -- not published in the two-page subject brief itself -- are read from the full official subject guide\'s own "Assessment outline -- SL/HL" appendix, reproduced verbatim on an IB World School\'s own site (Anatolia College, a non-commercial school domain hosting the guide for its own community) and independently corroborated by a second, separately hosted copy of the identical official guide on another IB World School\'s site (UWC East Africa), both directly fetched this session. Every Higher Level figure the mirror and the official subject brief both state (all three paper weightings and durations) match exactly, giving strong confidence in the mirror\'s accuracy for the figures the brief does not itself publish (all mark totals, and the Standard Level weighting/duration, since no separate Standard Level subject brief could be retrieved this session). Standard Level sits Paper 1 and Paper 2 plus the Business Research Project; Higher Level sits the same two papers (Paper 2 lengthened and extended to cover HL-only extension topics) plus an HL-only Paper 3 on a social enterprise, and the same Business Research Project (internally assessed, externally moderated, maximum 1,800 words, re-weighted).',
+    internalNotes: 'D-129 batch. Checklist: both mirrors (anatolia.edu.gr, dp.uwcea.org) reproduce the guide\'s own page numbering, section headers ("Appendix 2 - IBO Assessment outline"), IB terminology and assessment-objective codes (AO1-AO4) verbatim and consistently with each other and with the officially hosted HL subject brief on every overlapping figure (P1=25%/90min, P2=30%/105min, P3=25%/75min, IA=20% at HL) -- no numeric conflict found anywhere the sources overlap. D-128\'s prior session found only the OLD (pre-2024) syllabus and left this subject unmodeled; this session confirmed and used the CURRENT syllabus (first assessment 2024, code family unchanged as "DP Business Management" since IB does not publish a separate numeric code at DP level).',
+    assessmentModel: 'component-based',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-dp',
+    subjectSlug: 'language-a-language-and-literature',
+    code: 'DP Language A: Language and Literature',
+    specStatus: 'current',
+    tiers: ['sl', 'hl'],
+    firstAssessment: '2026',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Guided Textual Analysis', durationMinutes: 75, marks: 20, weightingPercent: 35, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Comparative Essay', durationMinutes: 105, marks: 25, weightingPercent: 35, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Individual Oral', title: 'Internal Assessment -- Individual Oral', durationMinutes: null, marks: 40, weightingPercent: 30, assessmentType: 'oral', tier: 'sl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Guided Textual Analysis (Two Passages)', durationMinutes: 135, marks: 40, weightingPercent: 35, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Comparative Essay', durationMinutes: 105, marks: 25, weightingPercent: 25, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'HL Essay', title: 'HL Essay -- Written Coursework on One Studied Work', durationMinutes: null, marks: 20, weightingPercent: 20, assessmentType: 'coursework', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Individual Oral', title: 'Internal Assessment -- Individual Oral', durationMinutes: null, marks: 40, weightingPercent: 20, assessmentType: 'oral', tier: 'hl', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/curriculum.brief-languagea.language.and.literature-eng.pdf',
+    verifiedOn: '2026-09-05',
+    mirrorSourceUrl: 'https://thinkib.net/englishalanglit/blog/57135/further-update-changes-to-paper-2-for-may-2026-exams-and-beyond',
+    sourceConfidence: 'authentic-mirror-corroborated',
+    corroboratingSourceUrl: 'https://libguides.westsoundacademy.org/ib-language-and-literature-hl-2026',
+    notes: 'Both tiers modeled in full, for the current course as revised for May 2026 examinations onward -- distinct from Language A: Literature already modeled elsewhere in this file. This subject underwent a genuine, IB-announced revision to its Paper 2 marking criteria effective from the May 2026 exam session: Paper 2\'s total fell from 30 to 25 marks (its first criterion narrowed from 10 to 5 marks, with the remaining marks redistributed across two new sub-criteria), while every other component\'s structure, duration and weighting was independently confirmed unchanged. Paper 1, the HL Essay and the Individual Oral mark totals and durations/weighting are read directly from the official public subject brief; the revised Paper 2 total is read from a specialist IB-teacher-authored resource that explains the criterion-by-criterion change in detail, corroborated by a current IB World School\'s own library research guide for this exact course (citing the official 2026 guide and Teacher Support Material by name, and independently confirming the course\'s three areas of exploration are unchanged from the prior syllabus). Standard Level sits one guided analysis at Paper 1 and Higher Level sits two; Paper 2 is a comparative essay on two studied literary works, common to both tiers; the Individual Oral (40 marks, both tiers) is internally assessed and externally moderated; the HL Essay (20 marks, Higher Level only, 1,200-1,500 words) is externally assessed written coursework.',
+    internalNotes: 'D-129 batch. This was the subject D-128 left blocked purely by tooling failure (a source repeatedly failed to load); this session found the underlying reason was also a genuine, undocumented course revision (first assessment 2026) that D-128 never got far enough to discover. IMPORTANT CROSS-CHECK: this same Paper 2 mark-total revision (30->25, effective May 2026) also applies to the separate, already-modeled Language A: Literature record elsewhere in this file, whose existing Paper 2 marks (25, both tiers, verifiedOn 2026-09-04) were flagged in an earlier working note as possibly wrong (suspected should be 30). Having now traced the 2026 revision in detail, that existing record\'s 25-mark figure is CORRECT for the current (May-2026-onward) syllabus and needs no correction -- the earlier suspicion was based on pre-revision source material. No change made to that record since it was already accurate; noting this here so the reasoning is not lost. Checklist: officialSourceUrl points to the 2021-dated subject brief (the most recent freely-hosted official brief found; the 2026 full guide itself is paywalled on resources.ibo.org/IB store) -- its structure, weighting and duration for every component OTHER than Paper 2\'s mark total were independently confirmed still current via the West Sound Academy LibGuide\'s explicit "Course at a Glance" citation of the real 2026 guide.',
+    assessmentModel: 'component-based',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-dp',
+    subjectSlug: 'psychology',
+    code: 'DP Psychology',
+    specStatus: 'future',
+    tiers: ['sl', 'hl'],
+    firstAssessment: '2027',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Integration of Concepts, Content and Contexts', durationMinutes: 90, marks: 35, weightingPercent: 35, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Applying Concepts and Content to Research Contexts', durationMinutes: 90, marks: 35, weightingPercent: 35, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Psychology Research Proposal', durationMinutes: null, marks: 24, weightingPercent: 30, assessmentType: 'coursework', tier: 'sl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Integration of Concepts, Content and Contexts', durationMinutes: 90, marks: 35, weightingPercent: 25, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Applying Concepts and Content to Research Contexts', durationMinutes: 90, marks: 35, weightingPercent: 25, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 3', title: 'Paper 3 -- Interpretation and Analysis of Research Data (HL Only)', durationMinutes: 105, marks: 30, weightingPercent: 30, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Psychology Research Proposal', durationMinutes: null, marks: 24, weightingPercent: 20, assessmentType: 'coursework', tier: 'hl', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/university-admission/latest-curriculum-updates/psychology-updates/',
+    verifiedOn: '2026-09-05',
+    notes: 'Both tiers modeled in full, for the NEW psychology course (launched February 2025, first teaching August 2025, first assessment May 2027) -- not yet the syllabus current students sit, and deliberately marked `future` rather than `current` for exactly that reason. Every figure below, including full mark totals for every component, is read directly from the IB\'s own official curriculum-updates page for this subject, which reproduces the new course\'s complete assessment-outline tables in full (no mirror or third-party source was needed). The currently-active syllabus (first assessment 2019, being taught out until this new course fully replaces it) is NOT modeled here: its official public subject brief gives weighting and duration but not mark totals, and this session\'s search for an independently reliable mark-total source for it was not completed -- a genuine gap, not a silent one. Standard Level sits Paper 1 (integration of concepts/content/contexts) and Paper 2 (applying concepts to research contexts, including the four class practicals); Higher Level sits the same two papers (re-weighted) plus an HL-only Paper 3 on interpretation and analysis of research data, since data analysis and interpretation is studied by both levels but assessed only at HL. The Internal Assessment (a research proposal designed using one of four research methods practised in class, 24 marks both tiers) is internally assessed by the teacher and externally moderated by the IB.',
+    internalNotes: 'D-129 batch. Subject-specific transition-awareness note from the task brief applied directly: confirmed via ibo.org\'s own psychology-updates page that a genuine two-syllabus transition is underway (old: first assessment 2019; new: first assessment 2027) -- this is the same pattern as ESS/Global Politics/Computer Science. Chose to model ONLY the new/future syllabus because it is the one with complete, OFFICIAL_HOST-sourced marks; did not extend research to source the old syllabus\'s marks (a real M19/3/PSYCH/BP2 markscheme mirror was found confirming that syllabus\'s Paper 2 uses a 22-mark-per-question criterion scale, SL sits one question=22 total marks, HL sits two=44 total marks, but Paper 1 and Paper 3 marks for that old syllabus were not independently confirmed this session) due to time budget -- flagged as a real gap, not silently dropped. sourceConfidence/mirrorSourceUrl intentionally omitted: every fact came directly from ibo.org itself.',
+    assessmentModel: 'component-based',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-dp',
+    subjectSlug: 'environmental-systems-and-societies',
+    code: 'DP Environmental Systems and Societies',
+    specStatus: 'current',
+    tiers: ['sl', 'hl'],
+    firstAssessment: '2026',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Short-Answer and Data-Based Questions', durationMinutes: 60, marks: 35, weightingPercent: 25, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Section A: Short Answer and Section B: Essay', durationMinutes: 120, marks: 60, weightingPercent: 50, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Individual Investigation', durationMinutes: null, marks: 30, weightingPercent: 25, assessmentType: 'coursework', tier: 'sl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Short-Answer and Data-Based Questions', durationMinutes: 120, marks: 70, weightingPercent: 30, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Section A: Short Answer and Section B: Essay', durationMinutes: 150, marks: 80, weightingPercent: 50, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Individual Investigation', durationMinutes: null, marks: 30, weightingPercent: 20, assessmentType: 'coursework', tier: 'hl', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/environmental-systems-and-societies-en.pdf',
+    verifiedOn: '2026-09-05',
+    mirrorSourceUrl: 'https://mrkremerscience.com/new-ess/ess-exams/',
+    sourceConfidence: 'authentic-mirror-corroborated',
+    corroboratingSourceUrl: 'https://sciencesauceonline.com/ibess/the-ess-ia/',
+    notes: 'Both tiers modeled in full. Weighting and duration are read directly from the official public subject brief (first assessment 2026, directly fetched this session, confirming the "first assessment 2026" claim carried over from an earlier session\'s finding rather than assuming it). Standard Level mark totals (Paper 1 35 marks; Paper 2 60 marks, Section A 40 + Section B one essay from a choice of two, 20 marks) are corroborated by three independent sources including a first-hand account from a student sitting this exact syllabus. Higher Level mark totals (Paper 1 70 marks; Paper 2 80 marks, Section A 40 + Section B two essays from a choice of three, 40 marks) rest primarily on one detailed, explicitly guide-citing teacher resource, with the weighting and duration pattern it describes matching the official brief exactly; a second detailed source corroborates the weighting percentages but not the Higher Level mark totals specifically. The Internal Assessment (an individual investigation into a self-chosen environmental issue, maximum 3,000 words, marked against six criteria A-F worth 4/4/4/6/6/6 marks, 30 marks total, identical at both tiers) is independently corroborated by two further sources, one explicitly citing the official IB Examiner Instructions 2026 document.',
+    internalNotes: 'D-129 batch. One competing source (esstutor.net) stated Standard Level Paper 2 = 65 marks rather than 60; rejected as an outlier since three independent sources (mrkremerscience.com\'s detailed table, iblieve.org\'s first-hand student account, and a further corroborating search summary describing the same Section A/B split) all agree on 60 and none corroborate 65. Higher Level mark totals are the weakest-evidenced figures in this record (single detailed primary source, mrkremerscience.com, rather than a second source independently stating the same numbers) -- flagged here rather than silently treated as equally strong as the Standard Level figures; the internal arithmetic consistency of that source (Section A 40 marks stated identically at both tiers; Section B doubling from one 20-mark essay at SL to two 20-mark essays at HL, exactly matching the "two essays from a choice of three" structure) supports its reliability. Weighting-table duration for Paper 2 in a corroborating source (Clastify) matched the official brief exactly, adding confidence to the overall figures even though it did not itself state mark totals.',
+    assessmentModel: 'component-based',
+  },
+  {
+    boardSlug: 'ib',
+    qualificationSlug: 'ib-dp',
+    subjectSlug: 'global-politics',
+    code: 'DP Global Politics',
+    specStatus: 'current',
+    tiers: ['sl', 'hl'],
+    firstAssessment: '2026',
+    components: [
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Source-Based Questions on the Core', durationMinutes: 75, marks: 25, weightingPercent: 30, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Extended Response on the Thematic Studies', durationMinutes: 90, marks: 30, weightingPercent: 40, assessmentType: 'written-exam', tier: 'sl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Engagement Project', durationMinutes: null, marks: 24, weightingPercent: 30, assessmentType: 'coursework', tier: 'sl', internallyAssessed: true, externallyModerated: true },
+      { paperCode: 'Paper 1', title: 'Paper 1 -- Source-Based Questions on the Core', durationMinutes: 75, marks: 25, weightingPercent: 20, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 2', title: 'Paper 2 -- Extended Response on the Thematic Studies', durationMinutes: 90, marks: 30, weightingPercent: 30, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Paper 3', title: 'Paper 3 -- Stimulus-Based Questions on the HL Extension (HL Only)', durationMinutes: 90, marks: 28, weightingPercent: 30, assessmentType: 'written-exam', tier: 'hl', externallyAssessed: true },
+      { paperCode: 'Internal Assessment', title: 'Internal Assessment -- Engagement Project', durationMinutes: null, marks: 30, weightingPercent: 20, assessmentType: 'coursework', tier: 'hl', internallyAssessed: true, externallyModerated: true },
+    ],
+    officialSourceUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/global-politics-sl-hl-subject-brief-en.pdf',
+    verifiedOn: '2026-09-05',
+    mirrorSourceUrl: 'https://www.glopopolis.org/2026/assessment',
+    sourceConfidence: 'authentic-mirror-high-confidence',
+    corroboratingSourceUrl: 'https://bespokelearning.io/learning/guides/ib-global-politics-guide',
+    notes: 'Both tiers modeled in full. Weighting and duration are read directly from the official public subject brief (first assessment 2026, directly fetched this session, confirming the "first assessment 2026" claim carried over from an earlier session\'s finding rather than assuming it). Mark totals for every component (Paper 1: 25; Paper 2: 30; Paper 3, Higher Level only: 28; Internal Assessment: 24 Standard Level / 30 Higher Level) are read from a detailed, actively maintained independent study site that quotes the official course guide directly for methodology and whose own component-by-component mark breakdowns sum exactly to each stated total; corroborated by a second, independently published subject guide agreeing on structure, weighting and teaching-hours allocation. Standard Level sits Paper 1 (source-based, core topics), Paper 2 (extended response, thematic studies) and the Engagement Project; Higher Level sits the same two papers (re-weighted) plus an HL-only Paper 3 on the HL extension (global political challenges), and a longer, higher-weighted Engagement Project.',
+    internalNotes: 'D-129 batch. Genuine duration conflict found and resolved in favour of the official source: the official subject brief states Paper 2 = 1.5 hours at both tiers, but both independent mirrors used for mark totals state 1 hour 45 minutes. Per this batch\'s sourcing rule, a directly-fetched OFFICIAL_HOST figure takes precedence over conflicting mirrors when the two disagree and there is no third source to arbitrate -- 90 minutes (the official brief\'s figure) is used in this record. This does not affect any mark total (the mirrors\' own Paper 2 mark total, 30, is not itself in conflict with anything). Recorded here rather than silently overridden so a future reviewer can see both figures. Paper 1 and Paper 3 durations from the same mirrors matched the official brief exactly (75 and 90 minutes respectively), which is part of why the mirror source as a whole is rated high-confidence despite this one discrepancy.',
+    assessmentModel: 'component-based',
   },
 ] as const;
 

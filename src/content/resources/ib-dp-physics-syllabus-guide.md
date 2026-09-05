@@ -153,6 +153,4 @@ the same" SL material at a faster pace.
 ## Source
 
 International Baccalaureate Organization, Physics guide (Diploma
-Programme), first assessment 2025. Marlbridge holds, or is in the
-process of obtaining, a formal license from the IB for commercial use
-of this guide.
+Programme), first assessment 2025.

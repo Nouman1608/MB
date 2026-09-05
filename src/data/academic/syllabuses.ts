@@ -1614,6 +1614,56 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-09-04',
     notes: 'First assessments 2021. Sourced from the freely public official subject brief plus the freely public official specimen exam papers, both directly fetched and read this session -- no licensed subject guide was needed. Five syllabus topics (Number and algebra; Functions; Geometry and trigonometry; Statistics and probability; Calculus), sharing 60 hours of common content with Mathematics: Analysis and Approaches, plus an internally assessed Mathematical Exploration; Higher Level sits an additional Paper 3. All external assessment in this course requires technology. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
   },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'business',
+    officialTitle: 'International Baccalaureate Diploma Programme Business Management',
+    code: 'DP Business Management',
+    boardSummary:
+      'The business management course is designed to meet the current and future needs of students who want to develop their knowledge of business content, concepts and tools to assist with business decision-making, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/business-management-hl-subject-brief-en.pdf',
+    verifiedOn: '2026-09-05',
+    notes: 'First assessments 2024. Sourced from the freely public official Higher Level subject brief, directly fetched this session, plus the official subject guide\'s own "Assessment outline" appendix reproduced verbatim on two IB World Schools\' own sites (see the matching assessment record for both mirror URLs and the corroboration reasoning). Four interdisciplinary concepts (creativity, change, ethics, sustainability) explored across five core units (introduction to business management; human resource management; finance and accounts; marketing; operations management), each with Higher-Level-only extension content, plus a business management toolkit of analytical tools. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'language-a-language-and-literature',
+    officialTitle: 'International Baccalaureate Diploma Programme Language A: Language and Literature',
+    code: 'DP Language A: Language and Literature',
+    boardSummary:
+      'Language A: language and literature studies the complex and dynamic nature of language and explores its practical and aesthetic dimensions across a range of literary and non-literary text types, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/contentassets/5895a05412144fe890312bad52b17044/curriculum.brief-languagea.language.and.literature-eng.pdf',
+    verifiedOn: '2026-09-05',
+    notes: 'First assessment 2021, revised for May 2026 examinations onward (Paper 2\'s marking criteria and mark total changed; every other component confirmed unchanged -- see the matching assessment record for the detailed sourcing of this revision). Distinct from Language A: Literature, already modeled elsewhere in this file: Language A: Language and Literature studies a wider mix of literary and non-literary text types across three areas of exploration (Readers, writers and texts; Time and space; Intertextuality: connecting texts). See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers for the current (post-2026-revision) course.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'psychology',
+    officialTitle: 'International Baccalaureate Diploma Programme Psychology',
+    code: 'DP Psychology',
+    boardSummary:
+      'DP psychology introduces students to the biological, cognitive and sociocultural approaches to understanding behaviour, applied through four contexts of study, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/university-admission/latest-curriculum-updates/psychology-updates/',
+    verifiedOn: '2026-09-05',
+    notes: 'New course launched February 2025, first teaching August 2025, first assessment May 2027 -- not yet the syllabus current students sit (the currently-active course, first assessment 2019, is being taught out and is not modeled in the matching assessment record; see that record\'s own notes for why). Four concepts (bias, causality, change, measurement, perspective, responsibility) explored through four contexts (health and well-being; human development; human relationships; learning and cognition), with Higher-Level-only extensions covering culture, motivation and technology, plus data analysis and interpretation. See the matching assessment record for the sourced paper-by-paper breakdown of the new course, modeled at both tiers and marked `future`.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'environmental-systems-and-societies',
+    officialTitle: 'International Baccalaureate Diploma Programme Environmental Systems and Societies',
+    code: 'DP Environmental Systems and Societies',
+    boardSummary:
+      'Environmental systems and societies is an interdisciplinary course integrating scientific and sociocultural perspectives on environmental issues, offered at Standard Level (SL) and Higher Level (HL) under a single shared syllabus.',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/recognition/pdfs/environmental-systems-and-societies-en.pdf',
+    verifiedOn: '2026-09-05',
+    notes: 'First assessment 2026 (confirmed directly against the official public subject brief this session, rather than assumed from a prior session\'s claim). Sourced from that official subject brief for weighting and duration, plus independently corroborated third-party sources for exact mark totals -- see the matching assessment record for the full sourcing and confidence reasoning, including one figure (Higher Level mark totals) resting on weaker single-source evidence than the rest of the record. See the matching assessment record for the sourced paper-by-paper breakdown, modeled at both tiers.',
+  },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'global-politics',
+    officialTitle: 'International Baccalaureate Diploma Programme Global Politics',
+    code: 'DP Global Politics',
+    boardSummary:
+      'DP global politics is a course for students who want to understand more about how the world they live in works, drawing on political science, international relations and the wider social sciences and humanities, at Standard Level (SL) and Higher Level (HL).',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/global-politics-sl-hl-subject-brief-en.pdf',
+    verifiedOn: '2026-09-05',
+    notes: 'First assessment 2026 (confirmed directly against the official public subject brief this session, rather than assumed from a prior session\'s claim). Core topic (understanding power and global politics) plus three thematic studies (rights and justice; development and sustainability; peace and conflict), with a Higher-Level-only extension on global political challenges. See the matching assessment record for the sourced paper-by-paper breakdown and a genuine minor duration discrepancy between the official brief and corroborating mirrors, resolved in the official brief\'s favour, modeled at both tiers.',
+  },
 ] as const;
 
 export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>

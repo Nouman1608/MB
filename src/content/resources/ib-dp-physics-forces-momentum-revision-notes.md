@@ -117,4 +117,3 @@ Setting a consistent positive direction before starting, and treating the revers
 
 International Baccalaureate Organization, Physics guide (Diploma Programme), first assessment 2025, sub-topic A.2. Overview at
 [ibo.org](https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/).
-Marlbridge holds, or is in the process of obtaining, a formal license from the IB for commercial use of this guide.
