@@ -79,11 +79,12 @@ halogenoalkane) — using a large excess of ammonia favours the primary amine
 by making a second substitution on the same nitrogen statistically
 unlikely.
 
-**Amines from acyl chlorides.** Ammonia or an amine reacts with an acyl
-chloride at room temperature in a **condensation reaction** (releasing HCl,
-or — with excess ammonia/amine present — the HCl is neutralised by a
-second equivalent to give the ammonium/aminium salt instead) to give an
-amide:
+**Amides from acyl chlorides.** This reaction appears here, within the
+amines subtopic, because it is the standard route from an amine to an
+amide: ammonia or an amine reacts with an acyl chloride at room
+temperature in a **condensation reaction** (releasing HCl, or — with
+excess ammonia/amine present — the HCl is neutralised by a second
+equivalent to give the ammonium/aminium salt instead) to give an amide:
 
 CH₃COCl + 2NH₃ → CH₃CONH₂ + NH₄Cl
 
@@ -119,7 +120,10 @@ C₆H₅NO₂ --[Sn, conc. HCl, heat]→ [C₆H₅NH₃]⁺ --[NaOH(aq)]→ C₆
 
 **With bromine water.** Phenylamine reacts with Br₂(aq) at room
 temperature, substituting readily at the ring (an activated ring, for the
-same lone-pair-delocalisation reason as phenol) without needing a catalyst.
+same lone-pair-delocalisation reason as phenol) without needing a catalyst,
+giving an immediate white precipitate of **2,4,6-tribromophenylamine**
+(2,4,6-tribromoaniline) — even more readily than phenol itself, since the
+–NH₂ group activates the ring more strongly than –OH.
 
 **With nitrous acid, below 10 °C.** Phenylamine reacts with HNO₂ (from
 NaNO₂ and dilute acid) below 10 °C to form a **diazonium salt**,
@@ -153,8 +157,14 @@ distinctly weaker base than even plain ammonia.
 Benzenediazonium chloride couples with phenol in NaOH(aq) at low
 temperature to form an **azo compound**:
 
-[C₆H₅N₂]⁺Cl⁻ + C₆H₅OH --[NaOH(aq)]→ C₆H₅–N=N–C₆H₅OH (an azo dye) + NaCl +
-H₂O
+[C₆H₅N₂]⁺Cl⁻ + C₆H₅OH + NaOH → C₆H₅–N=N–C₆H₄–OH (4-hydroxyazobenzene, an
+azo dye) + NaCl + H₂O
+
+(C₁₂H₁₂ClN₂NaO₂ on both sides.) Note that the second ring carries **four**
+hydrogens, not five, once it bears both the azo linkage and the hydroxyl
+group — a ring carbon is used up by each substituent. Sodium hydroxide is
+consumed as a reactant here (not merely a condition), deprotonating phenol
+to the more strongly activating phenoxide ion before coupling.
 
 The characteristic **azo group**, –N=N–, links the two aromatic rings.
 This extended, conjugated system of alternating and delocalised bonding

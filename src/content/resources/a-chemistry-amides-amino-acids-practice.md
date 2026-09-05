@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nitrogen-compounds"
     subtopic: "a-amino-acids"
-description: "Original exam-style practice questions with full worked answers on amides, zwitterions, isoelectric point and proteins for A Level Chemistry."
+description: "Original exam-style practice questions with full worked answers on amides, zwitterions, isoelectric point and dipeptide/tripeptide formation and hydrolysis for A Level Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -27,7 +27,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-amino-acids-revision-notes/), covering amide preparation and hydrolysis, zwitterions, isoelectric point and protein structure for Cambridge A Level Chemistry 9701.
+Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-amino-acids-revision-notes/), covering amide preparation and hydrolysis, zwitterions, isoelectric point and dipeptide/tripeptide formation for Cambridge A Level Chemistry 9701.
 
 ---
 
@@ -53,9 +53,12 @@ Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-a
 **5.** Two amino acids join to form a dipeptide.
 
 **(a)** Name the bond formed and the type of reaction. **[2]**
-**(b)** State the reagent and conditions for hydrolysing a protein back to amino acids. **[2]**
+**(b)** State the reagent and conditions for hydrolysing the dipeptide back to its two amino acids. **[2]**
 
-**6.** Name the bonds responsible for the primary, secondary and tertiary structure of a protein. **[3]**
+**6.** Three different amino acids — glycine, alanine and valine — are joined, one of each, to form a tripeptide.
+
+**(a)** State how many different tripeptide sequences are possible if each amino acid is used exactly once. **[1]**
+**(b)** Name the type of bond linking each pair of adjacent amino acids in the chain, and the type of reaction by which it forms. **[2]**
 
 **7.** Ethanoyl chloride is reacted separately with (i) ammonia and (ii) methylamine.
 
@@ -86,9 +89,10 @@ Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-a
 **(d)** Different amino acids have **different isoelectric points** [1], so at a chosen pH they carry different charges and migrate at different rates — the basis of **electrophoresis** [1].
 
 **5. (a)** A **peptide bond** [1], formed by **condensation** with the loss of water [1].
-**(b)** Hot **6 mol dm⁻³ hydrochloric acid** [1], heated under reflux for several hours [1].
+**(b)** **Aqueous acid** (e.g. dilute or concentrated hydrochloric acid) [1], **heated under reflux** [1].
 
-**6. Primary** — peptide bonds [1]. **Secondary** — hydrogen bonds [1]. **Tertiary** — hydrogen bonds, ionic attractions, **disulfide bridges** and hydrophobic interactions [1].
+**6. (a)** **Six** different sequences (3! = 3 × 2 × 1) [1].
+**(b)** A **peptide bond**, `–CONH–` [1], formed by **condensation** between the amine group of one amino acid and the carboxyl group of the next, releasing water [1].
 
 **7. (a)** (i) **Ethanamide, CH₃CONH₂** [1]. (ii) **N-methylethanamide, CH₃CONHCH₃** [1].
 **(b)** **Condensation** (nucleophilic addition–elimination), with HCl (or an ammonium/amine salt) released as a by-product [1].
@@ -103,7 +107,7 @@ Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-a
 - Saying amides are basic like amines.
 - Forgetting glycine is achiral.
 - Confusing which electrode the ion moves to at a given pH.
-- Attributing disulfide bridges to secondary structure.
+- Trying to recall protein secondary/tertiary structure (α-helix, β-pleated sheet, disulfide bridges) — background only; 9701 stops at di- and tripeptides.
 - Forgetting that reacting an acyl chloride with an amine (rather than ammonia) gives an **N-substituted** amide, not a primary amide.
 - Explaining amino acid solubility or melting point without linking the explanation back to the **zwitterion** — both properties trace to the same underlying structural feature.
 
@@ -119,5 +123,5 @@ with polar water, poor interaction with non-polar solvents), and the
 pH-dependent behaviour that makes electrophoresis possible in the
 first place. When a question in this topic asks "explain why," the
 zwitterion is very often the correct starting point for the answer.
-For the full structure and behaviour of amino acids and proteins, see
-the [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-amino-acids-revision-notes/).
+For the full structure and behaviour of amino acids, peptides and
+amides, see the [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-amino-acids-revision-notes/).

@@ -66,8 +66,8 @@ energetically accessible vacant d orbitals.
 reactions of transition elements with ligands to form complexes, including
 copper(II) and cobalt(II) with water, ammonia, hydroxide and chloride;
 defining ligand, monodentate, bidentate and polydentate (with named
-examples); defining complex; describing complex geometry (linear, square
-planar, tetrahedral, octahedral); using coordination number to predict
+examples); defining complex; describing complex geometry and bond angles
+(linear, square planar, tetrahedral, octahedral); using coordination number to predict
 complex formula and charge; explaining ligand exchange qualitatively;
 predicting redox feasibility using E° values; describing and calculating
 using MnO₄⁻/C₂O₄²⁻, MnO₄⁻/Fe²⁺ and Cu²⁺/I⁻ reactions, and other redox
@@ -123,8 +123,10 @@ Ligands are classified by how many dative bonds each one forms to the metal:
   wrap around a metal ion using six donor atoms at once.
 
 **Coordination number** is the total number of dative bonds from ligands to
-the central metal ion. Geometry follows from coordination number: 2 →
-linear; 4 → tetrahedral or square planar; 6 → octahedral.
+the central metal ion. Geometry follows from coordination number, each with
+its own characteristic bond angle: 2 → **linear** (180°); 4 →
+**tetrahedral** (109.5°) or **square planar** (90°); 6 → **octahedral**
+(90°).
 
 **Worked example.** Cr³⁺ forms a complex with six monodentate H₂O ligands.
 Give the formula and charge of the complex, and its coordination number.
@@ -152,10 +154,16 @@ standard examples:
 - **[Co(H₂O)₆]²⁺** (pink) + excess concentrated HCl → **[CoCl₄]²⁻** (blue,
   tetrahedral).
 
-With limited (rather than excess) OH⁻ or NH₃, a **precipitate** forms
-instead of a soluble ligand-exchanged complex — e.g. Cu²⁺(aq) + 2OH⁻(aq) →
-Cu(OH)₂(s), a pale blue precipitate, since OH⁻ here acts as a base rather
-than displacing water as a ligand.
+**Sodium hydroxide** and **ammonia** behave differently in excess. Any
+amount of NaOH(aq), limited or excess, precipitates the metal hydroxide —
+e.g. Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s), a pale blue precipitate — and this
+precipitate does **not** redissolve in excess NaOH(aq) at this level, since
+OH⁻ acts only as a base here, not as a ligand that displaces water.
+**Ammonia**, by contrast, gives the same kind of precipitate with limited
+NH₃(aq) (acting as a base), but that precipitate **does** redissolve in
+excess NH₃(aq), as NH₃ then acts as a ligand and undergoes ligand exchange
+with water to form the soluble ammine complex (e.g.
+[Cu(NH₃)₄(H₂O)₂]²⁺, deep blue).
 
 ## Transition-metal redox chemistry
 
@@ -197,6 +205,16 @@ S₂O₃²⁻ + I₂ pathway, to determine the amount of Cu²⁺ originally pres
 an indirect method, since Cu²⁺ can't be titrated directly against a
 reagent that gives a sharp end point on its own.
 
+Comparing standard electrode potentials, Cu²⁺/Cu⁺ has E° = +0.15 V and
+I₂/I⁻ has E° = +0.54 V, so E°<sub>cell</sub> = 0.15 − 0.54 = **−0.39 V** —
+on standard-conditions data alone, this reaction looks *not* feasible.
+It proceeds in practice because CuI is extremely insoluble: as soon as
+Cu⁺ forms, it is removed from solution as the precipitate, so the
+Cu²⁺/Cu⁺ equilibrium position is dragged continuously to the right by Le
+Chatelier's principle, driving the reaction forward despite the
+unfavourable standard electrode potentials. This is a case where removal
+of a product matters more than the standard-conditions calculation.
+
 ## Common mistakes
 
 **Assuming every d-block element is a transition element.** Scandium and
@@ -204,9 +222,11 @@ zinc are the standard exceptions in the first row — check for an
 incomplete d sub-shell in at least one stable ion, not just d-block
 position.
 
-**Forgetting that ligand exchange with limited (not excess) reagent often
-gives a precipitate, not a soluble complex.** Read the reagent volume/excess
-carefully in a question before deciding which outcome applies.
+**Assuming excess NaOH(aq) redissolves its hydroxide precipitate the way
+excess NH₃(aq) does.** It does not — at this level, copper(II) and
+cobalt(II) hydroxides stay as precipitates in any amount of NaOH(aq); only
+the ammonia precipitate redissolves in excess, via ligand exchange to form
+the soluble ammine complex.
 
 **Losing track of geometry when the ligand changes size.** Six H₂O or NH₃
 ligands fit around most first-row transition ions (octahedral), but the
@@ -229,8 +249,10 @@ easy to get backwards.
 - Ligand: lone pair, dative bond to metal; mono-/bi-/polydentate by number
   of bonds formed
 - Coordination number 4 → tetrahedral or square planar; 6 → octahedral
-- Ligand exchange: excess NH₃/HCl gives a new complex; limited OH⁻/NH₃
-  often gives a precipitate instead
+- Ligand exchange: excess NH₃/HCl gives a new soluble complex; NaOH(aq)
+  (limited or excess) gives a hydroxide precipitate that does not
+  redissolve; limited NH₃(aq) also gives a precipitate, but it redissolves
+  in excess NH₃(aq)
 - MnO₄⁻/Fe²⁺ 1:5; MnO₄⁻/C₂O₄²⁻ 2:5 (self-indicating); Cu²⁺/I⁻ 2:4, indirect
   iodometric determination
 

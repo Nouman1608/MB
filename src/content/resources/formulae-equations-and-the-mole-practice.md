@@ -57,23 +57,23 @@ Related: [Formulae, Equations and the Mole revision notes](/resources/formulae-e
 **(a)** Explain why. **[2]**
 **(b)** Explain what would happen to the mass if a metal were heated in air instead, and why. **[2]**
 
-**4.** 8.00 g of magnesium oxide is formed when magnesium burns.
+**4.** *(0620 Extended, 5070 required)* 8.00 g of magnesium oxide is formed when magnesium burns.
 (A_r: Mg = 24.0, O = 16.0)
 
 **(a)** Calculate the M_r of MgO. **[1]**
 **(b)** Calculate the moles of MgO. **[2]**
 **(c)** Calculate the mass of magnesium that reacted. **[3]**
 
-**5.** 5.00 g of calcium carbonate is reacted with excess acid. 1.80 g of calcium oxide is obtained, against a theoretical maximum of 2.80 g.
+**5.** *(0620 Extended, 5070 required)* 5.00 g of calcium carbonate is strongly heated (thermally decomposed). 1.80 g of calcium oxide is obtained, against a theoretical maximum of 2.80 g.
 
 **(a)** Calculate the percentage yield. **[2]**
 **(b)** Give three reasons why the yield is below 100%. **[3]**
 
-**6.** Calculate the concentration in mol dm⁻³ of a solution containing 4.00 g of NaOH in 250 cm³. (M_r = 40.0) **[3]**
+**6.** *(0620 Extended, 5070 required)* Calculate the concentration in mol dm⁻³ of a solution containing 4.00 g of NaOH in 250 cm³. (M_r = 40.0) **[3]**
 
-**7.** Using the ions Al³⁺ and SO₄²⁻, deduce the formula of aluminium sulfate, explaining your method step by step. **[3]**
+**7.** *(0620 Extended, 5070 required)* Using the ions Al³⁺ and SO₄²⁻, deduce the formula of aluminium sulfate, explaining your method step by step. **[3]**
 
-**8.** A sample of impure zinc carbonate has a total mass of 12.0 g. Analysis shows it contains 10.2 g of pure zinc carbonate, the rest being insoluble rock impurities.
+**8.** *(0620 Extended, 5070 required)* A sample of impure zinc carbonate has a total mass of 12.0 g. Analysis shows it contains 10.2 g of pure zinc carbonate, the rest being insoluble rock impurities.
 
 **(a)** Calculate the percentage purity of the sample. **[2]**
 
@@ -98,7 +98,7 @@ Related: [Formulae, Equations and the Mole revision notes](/resources/formulae-e
 m = 0.200 × 24.0 [1] = **4.80 g** [1].
 
 **5. (a)** (1.80 ÷ 2.80) × 100 [1] = **64.3%** [1].
-**(b)** Any three: the reaction may be **incomplete** [1]; some product is **lost during transfer or filtering** [1]; **side reactions** produce other products [1]; the reactants may be **impure**; the reaction may be reversible.
+**(b)** Any three: the decomposition may be **incomplete** (not heated hot enough or long enough) [1]; some product is **lost during transfer** between containers [1]; **side reactions** produce other products [1]; the calcium carbonate may be **impure**; the reaction is reversible, so some CaO can recombine with CO₂ on cooling.
 
 **6.** n = 4.00 ÷ 40.0 = 0.100 mol [1]
 V = 250 ÷ 1000 = 0.250 dm³ [1]

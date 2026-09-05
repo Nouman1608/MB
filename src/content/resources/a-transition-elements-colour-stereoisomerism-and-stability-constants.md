@@ -151,35 +151,41 @@ aqueous) ions or molecules — a direct measure of how far the equilibrium
 lies towards the complex.
 
 **Worked example.** Write the Kstab expression for the formation of
-[Cu(NH₃)₄]²⁺ from [Cu(H₂O)₄]²⁺ and NH₃.
+[Cu(NH₃)₄(H₂O)₂]²⁺ from [Cu(H₂O)₆]²⁺ and NH₃.
 
-[Cu(H₂O)₄]²⁺(aq) + 4NH₃(aq) ⇌ [Cu(NH₃)₄]²⁺(aq) + 4H₂O(l)
+[Cu(H₂O)₆]²⁺(aq) + 4NH₃(aq) ⇌ [Cu(NH₃)₄(H₂O)₂]²⁺(aq) + 4H₂O(l)
 
-Kstab = [[Cu(NH₃)₄]²⁺] / ([[Cu(H₂O)₄]²⁺][NH₃]⁴)
+Kstab = [[Cu(NH₃)₄(H₂O)₂]²⁺] / ([[Cu(H₂O)₆]²⁺][NH₃]⁴)
 
-(water, as the solvent, is omitted from the expression, exactly as a pure
-solid is omitted from Ksp).
+(the four water molecules released, as the solvent, are omitted from the
+expression, exactly as a pure solid is omitted from Ksp — but the
+hexaaquacopper(II) ion itself, [Cu(H₂O)₆]²⁺, is a dissolved species and
+does appear, since it is the reference species being converted, not the
+solvent).
 
 **A large Kstab** means the equilibrium lies strongly towards the new
 complex — the new ligand binds much more strongly than the one it
 displaced. This is precisely why ligand exchange happens at all: adding
 excess NH₃ to [Cu(H₂O)₆]²⁺ drives the equilibrium towards
 [Cu(NH₃)₄(H₂O)₂]²⁺ because that complex has a substantially larger Kstab
-than the aqua complex — the new complex is simply more thermodynamically
-stable once enough of the new ligand is available.
+value than [Cu(H₂O)₆]²⁺ has as the starting (reference) species — the new
+complex is simply more thermodynamically stable once enough of the new
+ligand is available. (By convention, water is omitted from the expression
+and [Cu(H₂O)₆]²⁺ is treated as the reference species rather than a
+species with its own separate stability constant.)
 
-**Worked example.** Kstab for [Cu(NH₃)₄]²⁺ formation (as above) is 1.2 ×
-10¹³ mol⁻⁴ dm¹². At equilibrium, [Cu(NH₃)₄²⁺] = 0.0500 mol dm⁻³ and [NH₃] =
-0.100 mol dm⁻³. Calculate [[Cu(H₂O)₄]²⁺].
+**Worked example.** Kstab for [Cu(NH₃)₄(H₂O)₂]²⁺ formation (as above) is
+1.2 × 10¹³ mol⁻⁴ dm¹². At equilibrium, [[Cu(NH₃)₄(H₂O)₂]²⁺] = 0.0500 mol
+dm⁻³ and [NH₃] = 0.100 mol dm⁻³. Calculate [[Cu(H₂O)₆]²⁺].
 
-Rearranging: [[Cu(H₂O)₄]²⁺] = [[Cu(NH₃)₄]²⁺] / (Kstab × [NH₃]⁴)
+Rearranging: [[Cu(H₂O)₆]²⁺] = [[Cu(NH₃)₄(H₂O)₂]²⁺] / (Kstab × [NH₃]⁴)
 
 [NH₃]⁴ = (0.100)⁴ = 1.00 × 10⁻⁴
 
-[[Cu(H₂O)₄]²⁺] = 0.0500 / (1.2 × 10¹³ × 1.00 × 10⁻⁴) = 0.0500 / (1.2 × 10⁹)
+[[Cu(H₂O)₆]²⁺] = 0.0500 / (1.2 × 10¹³ × 1.00 × 10⁻⁴) = 0.0500 / (1.2 × 10⁹)
 = **4.17 × 10⁻¹¹ mol dm⁻³**
 
-The vanishingly small concentration of the original aqua complex remaining
+The vanishingly small concentration of the original hexaaqua ion remaining
 confirms just how strongly the equilibrium has shifted towards the
 ammine complex — consistent with the large Kstab value.
 

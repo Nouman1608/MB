@@ -7,7 +7,7 @@ topic: "The national economy in a global environment"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9640"]
-syllabusSeries: "2020-onwards"
+syllabusSeries: "First teaching September 2020, first AS exams May/June 2021, first A-level exams May/June 2022"
 order: 2
 stage: "AS"
 syllabusTopics:

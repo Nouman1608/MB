@@ -71,7 +71,7 @@ Key features to draw and label:
 
 **With a catalyst:** the curve is unchanged, but **Eₐ moves left**, so a larger area lies beyond it.
 
-That distinction — temperature moves the curve, a catalyst moves the line — is the examiner's favourite check.
+That distinction — temperature moves the curve, a catalyst moves the line — is one examiners often check carefully.
 
 ## Catalysts
 

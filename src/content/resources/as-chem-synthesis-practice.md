@@ -38,14 +38,14 @@ Related: [Organic Synthesis Routes revision notes](/resources/as-chem-synthesis-
 **(d)** alcohol → aldehyde **[2]**
 **(e)** alcohol → carboxylic acid **[2]**
 
-**2.** Devise a two-step synthesis of **propan-1-ol** from **propene**, giving reagents and conditions for each step. **[4]**
+**2.** Devise a two-step synthesis of **propan-2-ol** from **propene**, giving reagents and conditions for each step. **[4]**
 
 **3.** Devise a synthesis of **propanoic acid** from **bromoethane**.
 
 **(a)** State how many carbons each contains and what this implies. **[2]**
 **(b)** Give the two steps with reagents and conditions. **[4]**
 
-**4.** Explain why aqueous KOH and ethanolic KOH give different products from the same halogenoalkane. **[3]**
+**4.** Explain why aqueous NaOH and ethanolic NaOH give different products from the same halogenoalkane. **[3]**
 
 **5.** A student proposes making butan-2-ol from but-1-ene by adding steam. Explain why the major product would **not** be butan-2-ol's isomer butan-1-ol, and name the rule involved. **[3]**
 
@@ -55,13 +55,13 @@ Related: [Organic Synthesis Routes revision notes](/resources/as-chem-synthesis-
 
 **1. (a)** HBr (or HCl) at room temperature [1].
 **(b)** **NaOH(aq)** [1], heat under reflux [1].
-**(c)** **Ethanolic KOH** [1], heat under reflux [1].
+**(c)** **Ethanolic NaOH** [1], heat under reflux [1].
 **(d)** K₂Cr₂O₇/H₂SO₄ [1], warm and **distil off** the product [1].
 **(e)** K₂Cr₂O₇/H₂SO₄ [1], heat under **reflux** [1].
 
-**2.** Step 1: **HBr**, room temperature [1] → 1-bromopropane (or 2-bromopropane) [1].
-Step 2: **NaOH(aq)**, heat under reflux [1] → propan-1-ol [1].
-*(Direct hydration with steam and H₃PO₄ is also acceptable as a one-step route, but the question asks for two steps.)*
+**2.** Step 1: **HBr**, room temperature [1] → **2-bromopropane** [1] (Markovnikov addition: H adds to the carbon that already has more hydrogens, giving the more stable secondary carbocation intermediate, so Br ends up on the middle carbon).
+Step 2: **NaOH(aq)**, heat under reflux [1] → **propan-2-ol** [1].
+*(Direct hydration with steam and H₃PO₄ also gives propan-2-ol by the same Markovnikov rule, and is acceptable as a one-step route, but the question asks for two steps.)*
 
 **3. (a)** Bromoethane has **2 carbons**, propanoic acid has **3** [1]. A **carbon must be added**, so a nitrile step is required [1].
 
@@ -76,9 +76,9 @@ Step 2: **dilute HCl(aq)**, heat under reflux [1] → propanoic acid [1].
 
 ## Additional questions
 
-**6.** Devise a synthesis of ethanoic acid from bromomethane, giving reagents and conditions for each step, and explain why a direct one-step conversion is not possible. **[5]**
+**6.** Devise a synthesis of ethanoic acid from bromomethane, giving reagents and conditions for each step, and explain why a direct one-step conversion is not possible. **[6]**
 
-**7.** An aldehyde is to be reduced to a primary alcohol. State the reagent required and explain why NaBH4 is preferred over a stronger reducing agent for this step in an AS-level route. **[3]**
+**7.** Propanal is reduced to propan-1-ol. Name a suitable reducing agent and give the product, then explain one difference between NaBH4 and LiAlH4 as reducing agents. **[3]**
 
 **8.** Ethanol is converted to ethyl ethanoate. Give the second reagent needed and the conditions, and name the type of reaction occurring. **[3]**
 
@@ -86,7 +86,7 @@ Step 2: **dilute HCl(aq)**, heat under reflux [1] → propanoic acid [1].
 
 **6.** Bromomethane has 1 carbon, ethanoic acid has 2, so a carbon must be added via a nitrile step [1]: Step 1, **KCN in ethanol**, heat under reflux, giving ethanenitrile [1] [1]; Step 2, **dilute HCl(aq)**, heat under reflux, giving ethanoic acid [1] [1]. A one-step conversion is not possible because no single AS reaction both changes the halogenoalkane's functional group and adds a carbon at the same time [1].
 
-**7.** **NaBH4** (sodium borohydride) [1]. It is preferred at AS level because it selectively reduces the carbonyl group without affecting other parts of the molecule and is straightforward to handle in solution, whereas stronger reducing agents are more commonly encountered at a later stage of the course [1] [1].
+**7.** **NaBH4** (sodium borohydride) in aqueous or alcoholic solution, or **LiAlH4** in dry ether, either is acceptable [1], giving **propan-1-ol**, CH₃CH₂CH₂OH [1]. The real distinction between them: **LiAlH4 also reduces carboxylic acids to primary alcohols, but NaBH4 does not** — NaBH4 is too weak a reducing agent to reduce the C=O of a carboxylic acid, so LiAlH4 is needed whenever the substrate is a carboxylic acid rather than an aldehyde or ketone [1].
 
 **8.** **Ethanoic acid**, with a small amount of **concentrated H2SO4** as catalyst, heated [1] [1]; this is **esterification** (a condensation reaction), producing ethyl ethanoate and water [1].
 

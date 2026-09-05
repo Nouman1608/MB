@@ -80,6 +80,18 @@ carboxylic acid (LiAlH₄ only, a stronger reducing agent is needed), and
 hydrolysis of an ester — and are worth returning to once those topics are
 covered.
 
+## Classifying alcohols
+
+Alcohols are classified as **primary**, **secondary** or **tertiary**
+according to how many carbon groups are attached to the carbon bearing the
+–OH group (one, two or three respectively) — this classification is what
+determines the oxidation behaviour below. Some molecules carry more than
+one –OH group: ethane-1,2-diol, HOCH₂CH₂OH (a **diol**, used as antifreeze
+and in polyester production), has an –OH group on each of its two carbons,
+and propane-1,2,3-triol (glycerol), HOCH₂CH(OH)CH₂OH, carries three. Each
+–OH group in such a polyhydric alcohol can be classified and reacted
+independently of the others.
+
 ## Oxidation and the primary/secondary/tertiary distinction
 
 This is the central idea of the whole topic: **how far an alcohol can be
@@ -125,6 +137,30 @@ test identifies the CH₃CH(OH)– fragment specifically — ethanol gives a
 positive result (R = H), as does any alcohol with that exact grouping;
 alcohols without a methyl group directly on the carbinol carbon give a
 negative result.
+
+## The other reactions of alcohols
+
+Beyond oxidation, alcohols undergo several further reactions:
+
+- **Combustion**: like any compound containing C, H and O, alcohols burn
+completely in excess oxygen to give CO₂ and H₂O — for example,
+C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O.
+- **Substitution to a halogenoalkane**: the –OH is replaced by a halogen
+using HX(g) (e.g. C₂H₅OH + HBr → C₂H₅Br + H₂O), a mixture of KCl or KBr
+with concentrated H₂SO₄ or concentrated H₃PO₄, PCl₃ with heat, PCl₅ at room
+temperature (giving steamy HCl fumes — the classic test for an –OH group),
+or SOCl₂.
+- **Reaction with sodium**: alcohols react with sodium metal, releasing
+hydrogen gas and forming a sodium alkoxide — 2C₂H₅OH + 2Na → 2C₂H₅ONa +
+H₂. This parallels water's reaction with sodium but is less vigorous,
+because the electron-donating alkyl group makes the O–H bond less polar.
+- **Dehydration to an alkene**: heating an alcohol with a catalyst such as
+Al₂O₃, or with a concentrated acid such as concentrated H₂SO₄, eliminates
+H₂O to form an alkene — C₂H₅OH → CH₂=CH₂ + H₂O.
+- **Ester formation**: refluxing an alcohol with a carboxylic acid, using
+concentrated H₂SO₄ as catalyst, forms an ester and water — CH₃COOH +
+C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O. This is an equilibrium, so yield is limited
+unless the water (or the ester) is removed as it forms.
 
 ## Acidity of alcohols compared with water
 

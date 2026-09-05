@@ -38,7 +38,7 @@ Related: [Alkanes and Alkenes revision notes](/resources/as-chem-hydrocarbons-re
 **2.** Methane reacts with chlorine in the presence of UV light.
 
 **(a)** Name the mechanism. **[1]**
-**(b)** Write equations for the initiation, one propagation step and one termination step. **[4]**
+**(b)** Write equations for the initiation, both propagation steps and one termination step. **[4]**
 **(c)** Explain why this reaction gives a mixture of products. **[2]**
 
 **3.** Explain, in terms of bonding, why alkenes are more reactive than alkanes. **[2]**
@@ -54,12 +54,12 @@ Related: [Alkanes and Alkenes revision notes](/resources/as-chem-hydrocarbons-re
 **6.** Ethene undergoes addition polymerisation.
 
 **(a)** Draw or describe the repeat unit. **[2]**
-**(b)** Explain why addition polymerisation has 100% atom economy. **[2]**
+**(b)** *(Background — "atom economy" is not a 9701 syllabus term, though the chemistry is useful context.)* Explain why no atoms are wasted when ethene undergoes addition polymerisation.
 **(c)** Explain why poly(ethene) is not biodegradable. **[2]**
 
-**7.** Propene is reacted separately with (i) hydrogen and a nickel catalyst, and (ii) cold, dilute, aqueous potassium manganate(VII). For each reaction, name the type of reaction, state the conditions, and give the organic product. **[6]**
+**7.** Propene is reacted separately with (i) hydrogen and a nickel catalyst, and (ii) cold, dilute, aqueous, acidified potassium manganate(VII). For each reaction, name the type of reaction, state the conditions, and give the organic product. **[6]**
 
-**8.** A student has two unlabelled gas jars, one containing ethane and one containing ethene. Describe how cold dilute potassium manganate(VII) could be used to identify which is which, including both observations. **[3]**
+**8.** A student has two unlabelled gas jars, one containing ethane and one containing ethene. Describe how cold dilute acidified potassium manganate(VII) could be used to identify which is which, including both observations. **[3]**
 
 ---
 
@@ -82,13 +82,13 @@ Termination: any two radicals combining, e.g. `•CH₃ + Cl• → CH₃Cl` [1]
 **5.** Add **bromine water** [1]. The alkene **decolourises** it from orange to colourless [1]; the alkane produces **no change** [1].
 
 **6. (a)** Open the double bond to a single bond, draw two backbone carbons with the bonds **extending through the brackets**, and write **n** outside [1] [1].
-**(b)** All the atoms of the monomer end up in the **single product** [1]; **nothing is eliminated** [1].
+**(b)** *(Background only.)* All the atoms of the monomer end up in the **single product**; nothing is eliminated, since addition polymerisation simply opens double bonds and links monomers together with no by-product.
 **(c)** The **C–C backbone is unreactive and non-polar** [1], with no bonds that enzymes or water can attack [1].
 
 **7. (i)** **Hydrogenation** (reduction/addition) [1]. Conditions: **nickel catalyst, about 150 °C** [1]. Product: **propane** [1].
-**(ii)** **Oxidation** (electrophilic addition of the oxidant, forming a diol) [1]. Conditions: cold, dilute, aqueous KMnO₄, no heating required [1]. Product: **propane-1,2-diol** [1].
+**(ii)** **Oxidation**, adding two hydroxyl groups across the carbon-carbon double bond [1]. Conditions: cold, dilute, aqueous, acidified KMnO₄, no heating required [1]. Product: **propane-1,2-diol** [1].
 
-**8.** Add a few drops of cold dilute potassium manganate(VII) to each gas jar and shake [1]. In the jar containing **ethene**, the purple colour **decolourises** as the alkene is oxidised to the diol [1]. In the jar containing **ethane**, there is **no reaction**, so the purple colour persists, because the C–C sigma bonds have no region of high electron density for the oxidant to attack [1].
+**8.** Add a few drops of cold dilute acidified potassium manganate(VII) to each gas jar and shake [1]. In the jar containing **ethene**, the purple colour **decolourises** as the alkene is oxidised to the diol [1]. In the jar containing **ethane**, there is **no reaction**, so the purple colour persists, because the C–C sigma bonds have no region of high electron density for the oxidant to attack [1].
 
 ---
 
@@ -98,7 +98,7 @@ Termination: any two radicals combining, e.g. `•CH₃ + Cl• → CH₃Cl` [1]
 - Forgetting that propagation must regenerate the radical.
 - Stating Markovnikov's rule instead of explaining via carbocation stability.
 - Leaving the double bond in a repeat unit, or omitting the extending bonds.
-- Confusing the bromine water test (orange-brown to colourless) with the cold dilute KMnO₄ test (purple to colourless) — both detect unsaturation, but they are different reagents and should not be described interchangeably.
+- Confusing the bromine water test (orange-brown to colourless) with the cold dilute acidified KMnO₄ test (purple to colourless) — both detect unsaturation, but they are different reagents and should not be described interchangeably.
 - Forgetting that hydrogenation needs a nickel catalyst and heat, not just "hydrogen gas."
 - Naming the diol product of KMnO₄ oxidation incorrectly, or forgetting that two -OH groups are added across the former double bond, one on each carbon.
 
@@ -107,10 +107,10 @@ Termination: any two radicals combining, e.g. `•CH₃ + Cl• → CH₃Cl` [1]
 | Test/reaction | Reagent | Conditions | What happens |
 |---|---|---|---|
 | Test for unsaturation | Bromine water | Room temperature | Orange-brown → colourless |
-| Test for unsaturation | Cold dilute KMnO₄ | Room temperature | Purple → colourless; diol forms |
+| Test for unsaturation | Cold dilute acidified KMnO₄ | Room temperature | Purple → colourless; diol forms |
 | Hydrogenation | H₂ | Ni catalyst, ~150 °C | Saturated alkane forms |
 | Hydration | Steam (H₂O(g)) | H₃PO₄ catalyst, ~300 °C, 60 atm | Alcohol forms |
 
-Both bromine water and cold dilute KMnO₄ decolourise in the presence of a C=C double bond, which is why either can be used to distinguish an alkene from an alkane — the key is that alkanes give **no observable change** with either reagent, since their C–C and C–H bonds have no accessible pi electrons for the oxidant or electrophile to attack.
+Both bromine water and cold dilute acidified KMnO₄ decolourise in the presence of a C=C double bond, which is why either can be used to distinguish an alkene from an alkane — the key is that alkanes give **no observable change** with either reagent, since their C–C and C–H bonds have no accessible pi electrons for the oxidant or electrophile to attack.
 
 For the full mechanisms and explanations behind these reactions, see the [Hydrocarbons: Alkanes and Alkenes study guide](/resources/as-hydrocarbons-alkanes-and-alkenes/); for condensed recall notes covering the same reaction table, see the [Alkanes and Alkenes revision notes](/resources/as-chem-hydrocarbons-revision-notes/).

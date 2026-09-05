@@ -154,8 +154,8 @@ measurable route.
 combustion products is *subtracted*, not added, because it runs in the reverse
 direction to formation.
 - **Forgetting that bond energies must be broken down per bond, not per
-molecule.** H₂ has one H–H bond; O₂ has one O=O bond — miscounting bonds is the
-single most common arithmetic error in this topic.
+molecule.** H₂ has one H–H bond; O₂ has one O=O bond — miscounting bonds is a
+common error worth watching for in this topic.
 - **Treating bond-energy answers as if they were exact.** Averaged bond energies
 give a good estimate, not the precise experimental value.
 - **Omitting the negative sign in ΔH = −mcΔT/n**, which produces an enthalpy

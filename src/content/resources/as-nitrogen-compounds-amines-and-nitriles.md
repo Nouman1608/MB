@@ -126,7 +126,7 @@ Recognising which substrate you're looking at — a C–X bond, or a C=O bond �
 tells you immediately which mechanism type is expected in an answer.
 
 **Worked example.** A synthetic route converts bromoethane into
-2-hydroxypropanenitrile in two steps. Suggest the steps and reagents.
+2-hydroxypropanenitrile in three steps. Suggest the steps and reagents.
 
 Bromoethane, CH₃CH₂Br, must first become a carbonyl compound before HCN can
 add to it. Step 1: hydrolyse the halogenoalkane with NaOH(aq), heat, to

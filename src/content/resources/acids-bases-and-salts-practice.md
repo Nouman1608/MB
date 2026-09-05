@@ -44,9 +44,9 @@ Related: [Acids, Bases and Salts revision notes](/resources/acids-bases-and-salt
 
 ## Questions
 
-**1.** Define an acid and a base in terms of protons. **[2]**
+**1.** *(0620 Extended, 5070 required)* Define an acid and a base in terms of protons. **[2]**
 
-**2.** State the colour of litmus, methyl orange and phenolphthalein in acid and in alkali. **[3]**
+**2.** State the colour of litmus, methyl orange and thymolphthalein in acid and in alkali. **[3]**
 
 **3.** Complete and balance:
 
@@ -56,20 +56,20 @@ Related: [Acids, Bases and Salts revision notes](/resources/acids-bases-and-salt
 
 **4.** Describe how you would prepare pure, dry crystals of copper(II) sulfate from copper(II) oxide and dilute sulfuric acid, explaining why the solid oxide is added in excess rather than measured exactly. **[5]**
 
-**5.** Describe how you would prepare a pure sample of lead(II) sulfate, an insoluble salt, by precipitation. **[4]**
+**5.** *(0620 Extended, 5070 required)* Describe how you would prepare a pure sample of lead(II) sulfate, an insoluble salt, by precipitation. **[4]**
 
 **6.** 25.0 cm³ of sodium hydroxide required 20.0 cm³ of 0.100 mol dm⁻³ hydrochloric acid for neutralisation.
 
 **(a)** Calculate the moles of HCl. **[2]**
 **(b)** Calculate the concentration of the sodium hydroxide. **[3]**
 
-**7.** Explain the difference between a strong acid and a weak acid, giving an example of each. **[3]**
+**7.** *(0620 Extended, 5070 required)* Explain the difference between a strong acid and a weak acid, giving an example of each. **[3]**
 
 **8.** Classify each of the following oxides as acidic, basic or amphoteric: sulfur dioxide, calcium oxide, aluminium oxide, carbon dioxide. **[4]**
 
 **9.** For each of the following salts, state whether it would be prepared by (i) reacting an acid with an excess insoluble solid, (ii) titration, or (iii) precipitation, giving a reason based on solubility: (a) potassium sulfate, (b) lead(II) sulfate, (c) copper(II) chloride made from copper(II) carbonate. **[6]**
 
-**10.** Anhydrous copper(II) sulfate is white, while hydrated copper(II) sulfate is blue. Explain how this difference is used as a chemical test, and give the formula of the hydrated salt. **[3]**
+**10.** Anhydrous copper(II) sulfate is white, while hydrated copper(II) sulfate is blue. Explain how this difference is used as a chemical test, and give the formula of the hydrated salt. *(Naming the water as "water of crystallisation" is 0620 Extended, 5070 required.)* **[3]**
 
 ---
 
@@ -77,7 +77,7 @@ Related: [Acids, Bases and Salts revision notes](/resources/acids-bases-and-salt
 
 **1.** An **acid** is a **proton (H⁺) donor** [1]; a **base** is a **proton acceptor** [1].
 
-**2.** Litmus: **red** in acid, **blue** in alkali [1]. Methyl orange: **red** in acid, **yellow** in alkali [1]. Phenolphthalein: **colourless** in acid, **pink** in alkali [1].
+**2.** Litmus: **red** in acid, **blue** in alkali [1]. Methyl orange: **red** in acid, **yellow** in alkali [1]. Thymolphthalein: **colourless** in acid, **blue** in alkali [1].
 
 **3. (a)** `HCl + NaOH → NaCl + H₂O` [1].
 **(b)** `H₂SO₄ + CuO → CuSO₄ + H₂O` [1].

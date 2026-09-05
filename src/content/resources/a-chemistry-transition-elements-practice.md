@@ -66,7 +66,7 @@ Related: [Transition Elements revision notes](/resources/a-chemistry-transition-
 
 **(b)** Write an equation for the reaction of `[Cu(H₂O)₆]²⁺` with EDTA⁴⁻. **[1]**
 
-**(c)** This substitution is thermodynamically favourable even though the enthalpy change is close to zero. Explain why. **[3]**
+**(c)** *Beyond this syllabus's 28.1/28.2 outcomes — background only, not examined in this form at 9701.* This substitution (the chelate effect) is thermodynamically favourable even though the enthalpy change is close to zero. Explain why.
 
 **8.** Manganate(VII) ions oxidise ethanedioate ions in acidic solution.
 
@@ -90,11 +90,11 @@ Related: [Transition Elements revision notes](/resources/a-chemistry-transition-
 
 **(b)** Give one other metal ion that commonly forms square planar, rather than tetrahedral, complexes. **[1]**
 
-**11.** A solution of `[Cu(H₂O)₆]²⁺` is treated first with excess aqueous ammonia, then with excess potassium cyanide solution.
+**11.** A solution of `[Cu(H₂O)₆]²⁺` is treated with excess aqueous ammonia; a separate sample is treated instead with excess concentrated hydrochloric acid.
 
-**(a)** State what is observed at each stage. **[2]**
+**(a)** State what is observed in each case. **[2]**
 
-**(b)** Explain the overall pattern in terms of relative ligand strength. **[2]**
+**(b)** Explain the overall pattern in terms of relative ligand strength and coordination number. **[2]**
 
 ---
 
@@ -126,8 +126,8 @@ Related: [Transition Elements revision notes](/resources/a-chemistry-transition-
 
 **(b)** `[Cu(H₂O)₆]²⁺ + EDTA⁴⁻ → [Cu(EDTA)]²⁻ + 6H₂O` [1].
 
-**(c)** **Seven** particles are produced from **two** [1], so there is a large **increase in entropy** — ΔS is positive [1]. Since ΔG = ΔH − TΔS and ΔH ≈ 0, **ΔG is negative** and the reaction is feasible [1].
-*This is the chelate effect. Answers explaining it by bond strength score nothing — it is an entropy effect.*
+**(c)** *(Background, not examined at 9701 in this form.)* **Seven** particles are produced from **two**, so there is a large **increase in entropy** — ΔS is positive. Since ΔG = ΔH − TΔS and ΔH ≈ 0, **ΔG is negative** and the reaction is feasible.
+*This is the chelate effect: it is an entropy effect, not one driven by comparative bond strength. It is included here as useful background, but Cambridge 9701's 28.1/28.2 outcomes do not require this explanation.*
 
 **8. (a)** +7 [1].
 
@@ -141,9 +141,9 @@ Related: [Transition Elements revision notes](/resources/a-chemistry-transition-
 
 **(b)** **Pt²⁺** (e.g. in cisplatin) [1].
 
-**11. (a)** With excess ammonia, pale blue `[Cu(H₂O)₆]²⁺` turns **deep blue** as `[Cu(NH₃)₄(H₂O)₂]²⁺` forms [1]. Adding excess cyanide then displaces the ammine complex further [1].
+**11. (a)** With excess ammonia, pale blue `[Cu(H₂O)₆]²⁺` turns **deep blue** as `[Cu(NH₃)₄(H₂O)₂]²⁺` forms [1]. With excess concentrated hydrochloric acid, pale blue `[Cu(H₂O)₆]²⁺` turns **yellow-green** as the tetrachlorocuprate(II) ion, `[CuCl₄]²⁻`, forms [1].
 
-**(b)** Ligand strength increases in the order **Cl⁻ < H₂O < NH₃ < CN⁻** [1], so each successive, stronger ligand **displaces the weaker one already bound** to the central copper ion [1].
+**(b)** NH₃ is a stronger ligand than H₂O, so in excess it displaces water from the coordination sphere while the coordination number stays at 6, giving the octahedral (distorted) ammine complex [1]. Cl⁻ is a larger ligand than H₂O, so a high concentration of Cl⁻ instead drives a change in coordination number from 6 to 4, giving the tetrahedral `[CuCl₄]²⁻` ion — a mass-action effect from the very high chloride concentration, rather than Cl⁻ being intrinsically a stronger ligand than water [1].
 
 ---
 
@@ -155,4 +155,4 @@ Related: [Transition Elements revision notes](/resources/a-chemistry-transition-
 - Saying the colour seen **is** the colour absorbed — it is the complementary one.
 - Explaining the chelate effect by enthalpy rather than entropy.
 - Assuming all four-coordinate complexes are tetrahedral — small ligands on certain ions (notably Ni²⁺ and Pt²⁺ with CN⁻) give square planar geometry instead.
-- Forgetting the ligand-strength order (Cl⁻ < H₂O < NH₃ < CN⁻) when predicting which ligand displaces which in a stepwise substitution.
+- Predicting ligand exchange from a single fixed "ligand strength" order without regard to concentration. Displacement is governed by which complex has the larger stability constant (Kstab) under the conditions used — concentrated Cl⁻ displacing water to form `[CuCl₄]²⁻` is a mass-action effect from very high chloride concentration, not evidence that Cl⁻ is intrinsically a stronger ligand than water or ammonia.

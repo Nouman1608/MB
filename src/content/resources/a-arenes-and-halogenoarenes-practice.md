@@ -55,7 +55,7 @@ Related: [Arenes and Halogenoarenes study guide](/resources/a-arenes-and-halogen
 
 **(b)** State the reagents/conditions, the type of mechanism, and the organic product when side-chain substitution is required. **[3]**
 
-**8.** Phenylamine is converted to chlorobenzene via benzene diazonium chloride and then further reacted with concentrated NaOH under reflux — no reaction occurs, whereas the analogous reaction of chloroethane with NaOH(aq) proceeds readily at room temperature.
+**8.** Chlorobenzene is made by chlorinating benzene with a halogen carrier (e.g. AlCl₃ or FeCl₃). When chlorobenzene is heated under reflux with aqueous sodium hydroxide, no reaction occurs, whereas chloroethane is hydrolysed by aqueous sodium hydroxide only on heating under reflux (and even then only slowly, being the least reactive of the common halogenoalkanes) — never at room temperature.
 
 **(a)** Explain, in terms of bonding, why the C–Cl bond in chlorobenzene is shorter and stronger than in chloroethane. **[2]**
 

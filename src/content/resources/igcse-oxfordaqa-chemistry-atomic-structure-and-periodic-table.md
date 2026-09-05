@@ -7,7 +7,7 @@ topic: "Atomic structure and the periodic table"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9202"]
-syllabusSeries: "First teaching 2016, first examined 2018 (specification updated November 2022)"
+syllabusSeries: "Version 5.3 (first teaching 2016, first examined 2018; specification updated November 2022)"
 order: 1
 syllabusTopics:
   - qualification: "igcse"

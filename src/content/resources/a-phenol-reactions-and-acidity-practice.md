@@ -55,7 +55,7 @@ Related: [Phenol: Reactions and Acidity study guide](/resources/a-phenol-reactio
 
 **7.** Explain fully why phenol is a stronger acid than ethanol, referring to the structure and stability of the ions formed when each loses H⁺. **[4]**
 
-**8.** Explain why phenol is a weaker acid than water in some comparisons and yet reacts with NaOH(aq) to form a salt, while ethanol does not react with NaOH(aq) at all. **[3]**
+**8.** Explain why phenol is a stronger acid than both water and ethanol, and why it reacts with NaOH(aq) to form a salt, while ethanol does not react with NaOH(aq) at all. **[3]**
 
 **9.** CH₃CH₂OH is reacted with CH₃COCl.
 
@@ -81,7 +81,15 @@ Related: [Phenol: Reactions and Acidity study guide](/resources/a-phenol-reactio
 
 **4.** Phenol is a weaker acid than carbonic acid, so it is not a strong enough acid to displace CO₂ from HCO₃⁻ [1].
 
-**5.** Phenylamine reacts with HNO₂ (generated in situ from NaNO₂ and dilute acid), below 10 °C [1], to form the diazonium salt, benzenediazonium chloride: C₆H₅NH₂ → [C₆H₅N₂]⁺Cl⁻ [1]. This diazonium salt is then warmed with water [1], which displaces the diazonium group to give phenol: [C₆H₅N₂]⁺Cl⁻ → C₆H₅OH [1].
+**5.** Phenylamine reacts with HNO₂ (generated in situ from NaNO₂ and dilute HCl), below 10 °C [1], to form the diazonium salt, benzenediazonium chloride:
+
+C₆H₅NH₂ + HNO₂ + HCl → C₆H₅N₂⁺Cl⁻ + 2H₂O
+
+[1] for the balanced equation. This diazonium salt is then warmed with water [1], which decomposes it to give phenol:
+
+C₆H₅N₂⁺Cl⁻ + H₂O → C₆H₅OH + N₂ + HCl
+
+[1] for the balanced equation.
 
 **6. (a)** 2,4,6-tribromophenol [1] — all three ring positions activated by the –OH group's directing effect react at once, giving the trisubstituted product directly [1].
 
@@ -89,7 +97,7 @@ Related: [Phenol: Reactions and Acidity study guide](/resources/a-phenol-reactio
 
 **7.** When phenol loses H⁺, the resulting phenoxide ion has its negative charge partially delocalised into the aromatic ring, spreading the charge over several ring carbons rather than leaving it concentrated on oxygen [1], which stabilises the ion [1]. When ethanol loses H⁺, the resulting ethoxide ion has no such delocalisation available, and the ethyl group's electron-donating inductive effect further increases electron density on the already-negative oxygen, destabilising it [1]. Because the phenoxide ion is more stable relative to phenol than the ethoxide ion is relative to ethanol, H⁺ loss is more energetically favourable for phenol, making it the stronger acid [1].
 
-**8.** Phenol is a weaker acid than water in the sense that water's conjugate base (OH⁻) needs no delocalisation for reasonable stability, whereas that comparison is not the one the syllabus emphasises — the key distinguishing comparison is phenol vs ethanol, where phenol is clearly the stronger acid due to phenoxide delocalisation [1]. NaOH(aq) is a strong enough base to deprotonate phenol (pKa around 10), forming sodium phenoxide and water [1], but ethanol's O–H is not acidic enough to be deprotonated by NaOH(aq) — it is deprotonated only by sodium metal itself, not by a hydroxide base [1].
+**8.** Phenol is a stronger acid than both water and ethanol because the phenoxide ion formed on loss of H⁺ has its negative charge delocalised from oxygen into the aromatic ring, spreading the charge over several ring carbons and stabilising the ion [1]. Water and ethanol form OH⁻ and ethoxide ions respectively, neither of which has a ring to delocalise into, so their conjugate bases are less stabilised and both are weaker acids than phenol [1]. NaOH(aq) is a strong enough base to deprotonate phenol (pKa around 10), forming sodium phenoxide and water, but ethanol's O–H is far less acidic (with no delocalisation and an electron-donating alkyl group destabilising the anion) and is not deprotonated by NaOH(aq) — it reacts only with sodium metal itself, not with a hydroxide base [1].
 
 **9. (a)** CH₃CH₂OH + CH₃COCl → CH₃COOCH₂CH₃ + HCl [1]; product named ethyl ethanoate [1].
 

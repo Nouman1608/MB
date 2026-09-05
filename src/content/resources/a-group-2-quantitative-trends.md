@@ -1,5 +1,5 @@
 ---
-title: "Group 2: Quantitative Trends in Thermal Stability and Solubility"
+title: "Group 2: Thermal Stability and Solubility Trends"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]
@@ -28,8 +28,9 @@ strongly, weakening it and making it decompose more readily -- while
 hydroxide solubility increases and sulfate solubility decreases down
 the group because lattice energy and hydration enthalpy change at
 different relative rates depending on the anion's own size. This page
-explains both trends quantitatively, building on their qualitative
-AS-level versions.
+explains both trends **qualitatively but in full A Level depth** — 9701
+asks candidates to describe and explain these trends in words, not to
+calculate them — building on their simpler AS-level versions.
 
 This guide covers subtopic **27.1, Similarities and trends in the
 properties of the Group 2 metals, magnesium to barium, and their
@@ -136,7 +137,7 @@ trend.
 ## Common mistakes
 
 **Trying to explain thermal stability using lattice energy or hydration
-enthalpy.** That quantitative energetics treatment applies to the
+enthalpy.** That qualitative energetics-cycle reasoning applies to the
 *solubility* trend, not the thermal stability trend — thermal stability is
 explained by cation polarising power acting on the anion, a different
 argument entirely. Keep the two explanations separate.
@@ -169,7 +170,7 @@ differs between hydroxides and sulfates is only which one falls faster.
 
 - [Group 2: The Alkaline Earth
   Metals](/resources/as-group-2-the-alkaline-earth-metals/) — the AS-level
-  trends this resource explains quantitatively
+  trends this resource explains in full qualitative depth
 - [Chemical Energetics: Lattice Energy, Entropy and Gibbs Free
   Energy](/resources/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy/)
   — lattice energy and hydration enthalpy, the tools this topic applies

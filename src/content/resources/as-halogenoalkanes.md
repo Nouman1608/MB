@@ -136,7 +136,7 @@ mechanism with water acting as the nucleophile, releasing the halide ion
 which then precipitates with Ag⁺. The rate-determining step is breaking the
 C–X bond, so the weakest bond breaks fastest. Bond strength decreases C–Cl >
 C–Br > C–I, so reactivity — and precipitate formation — increases in the
-reverse order: **iodobutane reacts fastest (cream-to-yellow precipitate of
+reverse order: **iodobutane reacts fastest (yellow precipitate of
 AgI appears first), then bromobutane (cream, AgBr), then chlorobutane
 slowest (white, AgCl).**
 

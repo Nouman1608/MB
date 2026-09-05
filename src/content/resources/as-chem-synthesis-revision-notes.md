@@ -52,7 +52,7 @@ Learn the **reagent and conditions** for each arrow — that is what the marks a
 | Starting material | Reagent | Conditions | Product |
 |---|---|---|---|
 | Halogenoalkane | NaOH | **Aqueous**, reflux | Alcohol |
-| Halogenoalkane | KOH | **Ethanolic**, reflux | Alkene |
+| Halogenoalkane | NaOH | **Ethanolic**, reflux | Alkene |
 | Halogenoalkane | KCN | Ethanolic, reflux | Nitrile (+1 C) |
 | Primary alcohol | K₂Cr₂O₇/H₂SO₄ | **Distil** | Aldehyde |
 | Primary alcohol | K₂Cr₂O₇/H₂SO₄ | **Reflux** | Carboxylic acid |
@@ -84,7 +84,7 @@ identification test — no separate list needs memorising:
 | Silver mirror with Tollens' reagent | –CHO (aldehyde, specifically) |
 | Yellow precipitate with alkaline I₂(aq) | CH₃CO– or CH₃CH(OH)– |
 | Orange → green with acidified K₂Cr₂O₇ | –OH on a primary/secondary carbon |
-| White precipitate with AgNO₃(aq)/ethanol | halogenoalkane (C–X) |
+| AgNO₃(aq)/ethanol precipitate: **white** = Cl, **cream** = Br, **yellow** = I | halogenoalkane (C–X); colour identifies which halogen |
 
 Given an unknown molecule's reactions with several reagents, work
 through this table **in reverse**: each positive or negative result

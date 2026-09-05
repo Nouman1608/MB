@@ -120,9 +120,9 @@ Separate from *how* a bond breaks is *what happens overall* to the molecule:
 | Free radical substitution | Alkanes + halogen, UV |
 | Electrophilic addition | Alkenes |
 | Nucleophilic substitution | Halogenoalkanes |
-| Electrophilic substitution | Arenes |
+| Nucleophilic addition | Carbonyl compounds (aldehydes/ketones) |
 
-**Alkenes add but arenes substitute**, because benzene's delocalised system confers extra stability that addition would destroy, whereas an alkene's localised π bond is expendable.
+**Addition and substitution each come in an electrophilic and a nucleophilic form**: electrophilic addition adds an electrophile across an alkene's electron-rich C=C bond, while nucleophilic addition adds a nucleophile (e.g. CN⁻, from HCN) across a carbonyl's electron-poor C=O bond — the polarity of both the substrate and the attacking species simply flips between the two.
 
 ## Exam traps
 
@@ -141,8 +141,8 @@ Separate from *how* a bond breaks is *what happens overall* to the molecule:
 2. Give both conditions for E/Z isomerism.
 3. What is a chiral centre, and why is a racemate optically inactive?
 4. Distinguish homolytic from heterolytic fission and the arrows used for each.
-5. Why do alkenes undergo addition but arenes substitution?
+5. Why does an alkene react with an electrophile by addition, while a halogenoalkane reacts with a nucleophile by substitution?
 6. State the hybridisation and shape of the carbon atoms in ethene, and explain why this geometry allows the π bond to form.
 7. Distinguish elimination from substitution, and give the term for a mechanism combining "electrophilic" with "addition".
 
-**Answers:** 1. A carbon atom, with enough hydrogen atoms to give it four bonds. 2. A C=C double bond preventing rotation, and two different groups attached to each of the double-bonded carbons. 3. A carbon bonded to four different groups; a racemate contains equal amounts of both enantiomers, whose equal and opposite rotations cancel. 4. Homolytic fission splits the pair evenly to give two radicals and uses half-arrows; heterolytic fission gives an ion pair and uses full curly arrows. 5. Benzene's delocalised π system gives extra stability that addition would destroy, so substitution is preferred; an alkene's localised π bond can be sacrificed to gain two σ bonds. 6. Both carbons are sp² hybridised, giving a trigonal planar shape; this places all six atoms in a single flat plane, allowing the π bond to form by sideways overlap of the p orbitals above and below that plane. 7. Elimination removes a small molecule, typically forming a double bond, while substitution replaces one atom or group with another; electrophilic addition describes an electrophile attacking an electron-rich double bond so that two reactants become one product.
+**Answers:** 1. A carbon atom, with enough hydrogen atoms to give it four bonds. 2. A C=C double bond preventing rotation, and two different groups attached to each of the double-bonded carbons. 3. A carbon bonded to four different groups; a racemate contains equal amounts of both enantiomers, whose equal and opposite rotations cancel. 4. Homolytic fission splits the pair evenly to give two radicals and uses half-arrows; heterolytic fission gives an ion pair and uses full curly arrows. 5. An alkene has no leaving group, so an electrophile can only add across the π bond, breaking it to form two new σ bonds; a halogenoalkane's halogen is a leaving group, so a nucleophile substitutes it directly rather than adding to the molecule. 6. Both carbons are sp² hybridised, giving a trigonal planar shape; this places all six atoms in a single flat plane, allowing the π bond to form by sideways overlap of the p orbitals above and below that plane. 7. Elimination removes a small molecule, typically forming a double bond, while substitution replaces one atom or group with another; electrophilic addition describes an electrophile attacking an electron-rich double bond so that two reactants become one product.

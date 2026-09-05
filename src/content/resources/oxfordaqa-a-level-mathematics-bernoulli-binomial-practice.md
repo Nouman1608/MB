@@ -7,7 +7,7 @@ topic: "Unit PSM1 -- S1: Statistics (International AS)"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9660"]
-syllabusSeries: "Version 5.2"
+syllabusSeries: "Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019)"
 order: 3
 syllabusTopics:
   - qualification: "a-level"
@@ -64,14 +64,14 @@ P(X = 4) = 15 × 0.01500625 × 0.4225 = **0.0951** (3 s.f.) [1].
 
 **5.** Drawing without replacement means that **once a ball is removed, the probability of drawing a red ball on the next draw changes**, since the total number of balls and the number of red balls remaining are both different [1] [1]. This **violates the requirement that trials be independent and that p stays constant across all trials** [1], so the binomial model does not strictly apply. For the binomial model to apply, **each ball would need to be replaced (and the bag mixed) before the next draw**, keeping the composition of the bag, and therefore p, constant across all five draws [1].
 
-**6.** A binomial random variable X ~ B(n, p) is the **sum of n independent, identically distributed Bernoulli trials** [1]. The **mean of a sum of independent random variables equals the sum of their individual means** [1]. Since each individual Bernoulli trial has mean p [1], summing n of them gives a total mean of **n × p = np** [1]. The same reasoning extends to variance: because the trials are **independent**, the variance of the sum equals the **sum of the individual variances**, giving n lots of p(1 − p), or **np(1 − p)** — stating this chain of reasoning, rather than only quoting the two final formulas, is what a strong answer on this sub-topic demonstrates [1].
+**6.** A binomial random variable X ~ B(n, p) is the **sum of n independent, identically distributed Bernoulli trials** [1]. The **mean of a sum of independent random variables equals the sum of their individual means** [1]. Since each individual Bernoulli trial has mean p [1], summing n of them gives a total mean of **n × p = np** [1]. The same reasoning extends to variance: because the trials are **independent**, the variance of the sum equals the **sum of the individual variances**, giving n lots of p(1 − p), or **np(1 − p)**. (Stating this chain of reasoning, rather than only quoting the two final formulas, is what a strong answer on this sub-topic demonstrates.)
 
 **7.** First **confirm the binomial conditions hold** for X ~ B(15, 0.4) [1]; then **locate the row or column corresponding to n = 15 and p = 0.4** in the cumulative binomial table [1], and **read off the tabulated value for P(X ≤ 5) directly** [1]. This is preferred over calculating each term separately because **summing six individual formula calculations (P(X = 0) through P(X = 5)) by hand is slower and carries more opportunity for arithmetic error** than reading one value directly from a table that has already performed that summation [1].
 
 **8.** Variance = np(1 − p), so 10 × p(1 − p) = 1.6 [1], giving **p(1 − p) = 0.16** [1].
 Expanding: p − p² = 0.16, so **p² − p + 0.16 = 0** [1].
 Using the quadratic formula: p = (1 ± √(1 − 0.64)) ÷ 2 = (1 ± 0.6) ÷ 2 [1].
-So **p = 0.8 or p = 0.2** [1]. Both values are valid solutions of the variance equation, since p and 1 − p play symmetric roles in the product p(1 − p) — swapping which outcome is labelled "success" turns one solution into the other, so a full answer should give both roots rather than stopping at the first one found [1].
+So **p = 0.8 or p = 0.2** [1]. Both values are valid solutions of the variance equation, since p and 1 − p play symmetric roles in the product p(1 − p) — swapping which outcome is labelled "success" turns one solution into the other. (A full answer should give both roots rather than stopping at the first one found.)
 
 ---
 

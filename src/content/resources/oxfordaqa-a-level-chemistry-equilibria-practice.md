@@ -7,7 +7,7 @@ topic: "Physical chemistry"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
-syllabusSeries: "First teaching 2019, first AS and A-level exams 2020 (specification updated November 2022)"
+syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
 description: "Original exam-style practice questions with full worked answers on Le Chatelier, Kp, Kc and industrial compromise conditions."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22

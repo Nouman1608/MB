@@ -72,6 +72,12 @@ Related: [Amines revision notes](/resources/a-chemistry-amines-revision-notes/)
 **(a)** State the observation. **[1]**
 **(b)** Explain this observation, drawing a comparison with a reaction of aqueous ammonia you have met elsewhere in the course. **[2]**
 
+**9.** Phenylamine is shaken with aqueous bromine at room temperature.
+
+**(a)** State the observation. **[1]**
+**(b)** Name the organic product. **[1]**
+**(c)** Explain why phenylamine reacts with bromine water even faster than phenol does, and why no catalyst is needed. **[2]**
+
 ---
 
 ## Answers
@@ -104,6 +110,10 @@ Related: [Amines revision notes](/resources/a-chemistry-amines-revision-notes/)
 
 **8. (a)** A **deep blue solution** forms [1].
 **(b)** Ethylamine acts as a **ligand**, donating its nitrogen lone pair to the Cu²⁺ ion to form a **complex ion** [1], in the same way aqueous ammonia forms a deep blue complex with copper(II) ions — the amine's lone pair behaves like ammonia's in this respect, since both donate through nitrogen [1].
+
+**9. (a)** An **immediate white precipitate** forms [1].
+**(b)** **2,4,6-tribromophenylamine** (2,4,6-tribromoaniline) [1].
+**(c)** The nitrogen lone pair on the –NH₂ group is delocalised into the ring, activating it towards electrophilic substitution even more strongly than phenol's –OH group does, so no halogen carrier is needed to polarise the Br–Br bond [1]; the ring is already electron-rich enough to do this itself, exactly as with phenol but to a greater degree [1].
 
 ---
 

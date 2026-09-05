@@ -7,7 +7,7 @@ topic: "Mechanics and materials"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9630"]
-syllabusSeries: "Version 4.4"
+syllabusSeries: "Version 4.4 (International AS and A-level)"
 order: 2
 syllabusTopics:
   - qualification: "a-level"

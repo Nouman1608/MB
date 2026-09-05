@@ -68,7 +68,7 @@ identification test** for the functional group it belongs to:
 | Silver mirror with Tollens' reagent | –CHO (aldehyde, specifically) |
 | Yellow precipitate with alkaline I₂(aq) | CH₃CO– or CH₃CH(OH)– |
 | Colour change (orange → green) with acidified K₂Cr₂O₇ | –OH on a primary or secondary carbon (oxidisable alcohol) |
-| White precipitate with AgNO₃(aq)/ethanol | halogenoalkane (C–X) |
+| AgNO₃(aq)/ethanol precipitate: **white** = Cl, **cream** = Br, **yellow** = I | halogenoalkane (C–X); colour identifies which halogen |
 
 Given an unknown molecule's reactions with a set of reagents, work through
 this table in reverse: each positive or negative result rules functional
@@ -102,7 +102,7 @@ CH₂=CH₂ + H₂O → CH₃CH₂OH
 **Step 2**: oxidise the ethanol with acidified K₂Cr₂O₇, under reflux (see
 [Alcohols](/resources/as-alcohols-reactions-and-oxidation/)):
 
-CH₃CH₂OH → CH₃COOH
+CH₃CH₂OH + 2[O] → CH₃COOH + H₂O
 
 **Step 3**: react the ethanoic acid with a further portion of ethanol (kept
 from step 1, or made via a second batch of ethene), using concentrated

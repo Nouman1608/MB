@@ -39,9 +39,17 @@ That last row explains every distinguishing test in the topic.
 ## Preparation
 
 ```
-PRIMARY alcohol + [O], DISTIL      ->  aldehyde
-SECONDARY alcohol + [O], reflux    ->  ketone
+PRIMARY alcohol   + [O], DISTIL    ->  aldehyde
+SECONDARY alcohol + [O], DISTIL    ->  ketone
 ```
+
+The syllabus specifies **distillation** for both preparations. Distillation
+is *critical* for the aldehyde route — without it, the aldehyde stays in
+contact with the oxidising mixture and is oxidised further to a carboxylic
+acid. For the ketone route, distillation isn't strictly needed to prevent
+over-oxidation (a ketone can't be oxidised further under these conditions
+either way) — but the syllabus specifies it regardless, so use distillation
+for both, not reflux.
 
 ## Reduction
 
@@ -68,7 +76,7 @@ The product has **one more carbon** than the starting carbonyl — a chain-lengt
 
 **Curly arrows:** from the CN⁻ lone pair to the carbon; from the C=O π bond to the oxygen.
 
-If the carbonyl carbon has two different groups, the product is **chiral** and forms as a **racemic mixture**, because the planar carbonyl can be attacked equally from either face.
+If the carbonyl carbon has two different groups, the product is **chiral** and forms as a **racemic mixture** ("racemic mixture" and "optically active" are A Level terms — at AS it's enough to say equal amounts of both enantiomers form), because the planar carbonyl can be attacked equally from either face.
 
 ## The identifying tests
 
@@ -97,7 +105,7 @@ the distinction asked for, while iodoform targets a different feature.
 
 ## The iodoform test
 
-Warming with **alkaline I₂(aq)** gives a **yellow precipitate of CHI₃** with any compound containing a **CH₃CO–** group directly bonded to the carbonyl carbon — in either an aldehyde or a ketone. Both ethanal (CH₃CHO) and propanone (CH₃COCH₃) test positive, since both have a methyl group directly on the carbonyl carbon.
+Warming with **alkaline I₂(aq)** gives a **yellow precipitate of CHI₃** with any compound containing a **CH₃CO–** group — that is, a **methyl group directly bonded to the carbonyl carbon** — in either an aldehyde or a ketone. Both ethanal (CH₃CHO) and propanone (CH₃COCH₃) test positive, since both have a methyl group directly on the carbonyl carbon.
 
 This is a **different** test from Tollens'/Fehling's: those two distinguish aldehyde from ketone by oxidation; the iodoform test identifies a specific **structural fragment**, regardless of which type of carbonyl it belongs to. Don't assume "ketone" automatically means a positive iodoform result — check the actual structure for a CH₃CO– group.
 

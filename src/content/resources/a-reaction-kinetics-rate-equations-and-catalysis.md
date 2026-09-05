@@ -84,6 +84,17 @@ order** is m + n.
 - **Second order** (m = 2): rate is proportional to [A]²; doubling [A]
   quadruples the rate.
 
+**Reading order from a rate–concentration graph.** Plotting the
+(initial) rate against [A], rather than concentration against time, gives
+a shape that identifies the order directly: **zero order** gives a
+horizontal line (rate is flat, unaffected by [A]); **first order** gives a
+straight line through the origin (rate directly proportional to [A]);
+**second order** gives an upward-curving parabola through the origin
+(rate proportional to [A]²), distinguishable from first order because
+doubling [A] more than doubles the rate. This is a quick, direct check
+for order, alongside the concentration-time graph and half-life methods
+described below.
+
 **Deducing order from initial-rates data.**
 
 **Worked example.** The following initial rates were measured for A + B →
@@ -142,20 +153,33 @@ Step 2 (slow): NOBr₂ + NO → 2NOBr
 Deduce the rate equation implied by this mechanism, and identify the
 intermediate.
 
-The rate-determining step is step 2, so the rate equation is based on its
-reactants: rate = k[NOBr₂][NO]. Since NOBr₂ doesn't appear in the overall
-equation, it's an **intermediate**, formed in step 1 and consumed in step
-2 — its own concentration can be re-expressed using the fast pre-equilibrium
-of step 1, but at this level it's enough to identify it and write the rate
-equation directly in terms of the species present in the rate-determining
-step and any before it.
+The rate-determining step is step 2, so the rate equation based on its
+reactants alone would be rate = k[NOBr₂][NO]. But NOBr₂ doesn't appear in
+the overall equation, so it's an **intermediate**, formed in step 1 and
+consumed in step 2 — and outcome 26.1.2(a) restricts a rate equation to
+species that appear in the overall equation, so this intermediate must be
+eliminated before the rate equation is complete.
+
+Because step 1 is a **fast, reversible pre-equilibrium**, [NOBr₂] can be
+re-expressed in terms of the species it was made from. Treating step 1 as
+at equilibrium, K₁ = [NOBr₂] / ([NO][Br₂]), so [NOBr₂] = K₁[NO][Br₂].
+Substituting this into rate = k[NOBr₂][NO] gives:
+
+rate = k × K₁[NO][Br₂] × [NO] = k'[NO]²[Br₂]
+
+where k' = kK₁. This final rate equation, **rate = k[NO]²[Br₂]**, contains
+only NO and Br₂ — both in the overall equation — and matches the
+experimentally observed second-order dependence on NO.
 
 This works in reverse too: given an experimental rate equation, a proposed
-mechanism is only consistent with it if the rate-determining step's
-reactants (and only those) match the species in the rate equation. A
-species appearing in the rate equation with a lower order than its
-stoichiometric coefficient in the overall equation is a strong sign it's
-involved before the rate-determining step, not in it directly.
+mechanism is only consistent with it if, after any fast pre-equilibrium
+substitution, the resulting expression matches the species and orders in
+the rate equation. A species appearing in the rate equation with a *lower*
+order than its stoichiometric coefficient in the overall equation is a
+sign that the remaining molecules of that species react **after** the
+rate-determining step, not before it — a species consumed entirely in a
+fast pre-equilibrium before the rate-determining step instead appears at
+its **full** stoichiometric order.
 
 ## Homogeneous and heterogeneous catalysts
 

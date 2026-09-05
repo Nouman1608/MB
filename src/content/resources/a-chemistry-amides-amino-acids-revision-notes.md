@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-nitrogen-compounds"
     subtopic: "a-amino-acids"
-description: "Condensed recall notes on amides, amino acids, zwitterions, isoelectric point, peptides and proteins for Cambridge A Level Chemistry 9701."
+description: "Condensed recall notes on amides, amino acids, zwitterions, isoelectric point, and dipeptide/tripeptide formation and hydrolysis for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -71,19 +71,13 @@ General formula `H₂NCHRCOOH` — an amine group and a carboxylic acid group on
 
 **Amino acids are chiral** (except glycine, whose R group is H, so it has no four different groups). Naturally occurring amino acids are almost exclusively the L-form.
 
-## Peptides and proteins
+## Dipeptides and tripeptides
 
-The **peptide bond** `–CONH–` forms by condensation between the amine group of one amino acid and the carboxyl group of another, releasing water.
+The **peptide bond** `–CONH–` forms by condensation between the amine group of one amino acid and the carboxyl group of another, releasing water. Joining two amino acids gives a **dipeptide**; joining three gives a **tripeptide** — this is as far as 9701 takes peptide chemistry.
 
-**Hydrolysis** with hot 6 mol dm⁻³ HCl breaks a protein back into its constituent amino acids, reversing every peptide bond in the chain.
+**Hydrolysis** with aqueous acid (e.g. dilute or concentrated HCl), heated under reflux, breaks a dipeptide or tripeptide back down into its constituent amino acids, reversing each peptide bond in the chain.
 
-**Protein structure:**
-
-- **Primary** — the amino acid sequence, held by peptide bonds.
-- **Secondary** — α-helix and β-pleated sheet, held by **hydrogen bonds** between C=O and N–H.
-- **Tertiary** — the overall 3-D shape, held by hydrogen bonds, ionic attractions between charged R groups, **disulfide bridges** between cysteine residues, and hydrophobic interactions.
-
-**Primary structure determines all higher levels**, because the sequence of R groups determines which interactions can form and where.
+**Beyond the specification (not assessed at this level):** the folding of many amino acids into a full protein — primary, secondary (α-helix, β-pleated sheet) and tertiary structure, disulfide bridges between cysteine residues — is background context only. 9701 stops at di- and tripeptides and does not require any of this terminology.
 
 ## Exam traps
 
@@ -91,8 +85,8 @@ The **peptide bond** `–CONH–` forms by condensation between the amine group 
 - Explaining zwitterion properties without linking to the ionic attractions.
 - Forgetting that glycine is achiral.
 - Confusing which electrode an amino acid moves to at a given pH.
-- Attributing secondary structure to disulfide bridges — those are tertiary.
 - Forgetting that a peptide bond forms by condensation, releasing water.
+- Trying to recall protein secondary/tertiary structure (α-helix, β-pleated sheet, disulfide bridges) for this syllabus — it's background only; 9701 stops at di- and tripeptides.
 
 ## Self-test
 
@@ -100,8 +94,8 @@ The **peptide bond** `–CONH–` forms by condensation between the amine group 
 2. What is a zwitterion, and why does it give amino acids high melting points?
 3. Define the isoelectric point and give its practical use.
 4. Which amino acid is achiral, and why?
-5. Name the four interactions holding tertiary structure.
+5. Give the reagent and conditions for hydrolysing a tripeptide back to its three constituent amino acids.
 6. Write the equation for the alkaline hydrolysis of ethanamide, and name the products.
 7. An amino acid has an isoelectric point of 6.0. Predict its direction of migration in electrophoresis at pH 9.0.
 
-**Answers:** 1. The nitrogen lone pair is delocalised into the adjacent carbonyl group, so it is not available to accept a proton. 2. A species with both a positive and a negative charge but no overall charge, formed by internal proton transfer; the strong ionic attractions between zwitterions require much more energy to overcome than ordinary intermolecular forces. 3. The pH at which an amino acid exists as a zwitterion with no net charge; since it varies between amino acids, it allows separation by electrophoresis. 4. Glycine — its R group is a hydrogen atom, so the central carbon does not carry four different groups. 5. Hydrogen bonds, ionic attractions between charged R groups, disulfide bridges, and hydrophobic interactions. 6. CH₃CONH₂ + NaOH → CH₃COONa + NH₃; the products are sodium ethanoate and ammonia. 7. Its isoelectric point (6.0) is below the buffer pH (9.0), so it carries a net negative charge and migrates towards the anode.
+**Answers:** 1. The nitrogen lone pair is delocalised into the adjacent carbonyl group, so it is not available to accept a proton. 2. A species with both a positive and a negative charge but no overall charge, formed by internal proton transfer; the strong ionic attractions between zwitterions require much more energy to overcome than ordinary intermolecular forces. 3. The pH at which an amino acid exists as a zwitterion with no net charge; since it varies between amino acids, it allows separation by electrophoresis. 4. Glycine — its R group is a hydrogen atom, so the central carbon does not carry four different groups. 5. Aqueous acid (e.g. dilute or concentrated hydrochloric acid), heated under reflux, which hydrolyses each peptide bond in turn to release the free amino acids. 6. CH₃CONH₂ + NaOH → CH₃COONa + NH₃; the products are sodium ethanoate and ammonia. 7. Its isoelectric point (6.0) is below the buffer pH (9.0), so it carries a net negative charge and migrates towards the anode.

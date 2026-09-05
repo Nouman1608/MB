@@ -125,11 +125,14 @@ more acidic than ethanoic acid (CH₃COOH).
 
 Alcohols react with acyl chlorides at room temperature to form an ester,
 already introduced in [Phenol: Reactions and
-Acidity](/resources/a-phenol-reactions-and-acidity/) for a simple alcohol.
-The same reaction works with phenol as the nucleophile too:
+Acidity](/resources/a-phenol-reactions-and-acidity/) for a simple alcohol:
 
-CH₃COCl + C₆H₅OH → CH₃COOC₆H₅ (phenyl benzoate, if from benzoyl chloride)
-+ HCl
+CH₃COCl + C₂H₅OH → CH₃COOC₂H₅ (ethyl ethanoate) + HCl
+
+The same reaction works with phenol as the nucleophile too, using benzoyl
+chloride to give the aryl ester phenyl benzoate:
+
+C₆H₅COCl + C₆H₅OH → C₆H₅COOC₆H₅ (phenyl benzoate) + HCl
 
 giving an aryl ester — useful precisely because phenol reacts only slowly
 and reversibly with carboxylic acids directly, so the acyl chloride route

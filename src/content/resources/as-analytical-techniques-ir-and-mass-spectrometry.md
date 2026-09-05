@@ -64,26 +64,30 @@ chlorine using the [M+2]⁺ peak.
 An infrared spectrum plots absorption against wavenumber (cm⁻¹). Different
 bonds absorb IR radiation at characteristic wavenumbers, so identifying
 which absorptions are present in a spectrum tells you which functional
-groups the molecule contains. You are given reference data for this in the
-exam rather than expected to memorise it precisely, but it's worth knowing
-the shape of the table:
+groups the molecule contains. These exact values are printed in the
+**Data section supplied in the examination** (syllabus outcome 22.1.1
+directs you to it), so they do not need to be memorised precisely — but
+it's worth knowing the shape of the table:
 
-| Bond | Approximate wavenumber range (cm⁻¹) | Found in |
+| Bond | Wavenumber range (cm⁻¹) | Found in |
 |---|---|---|
-| O–H (alcohol) | 3200–3550, broad | alcohols |
-| O–H (carboxylic acid) | 2500–3300, very broad | carboxylic acids |
+| C–O | 1040–1300 | alcohols, esters |
+| C=C | 1500–1680 | alkenes |
+| C=O (amide) | 1640–1690 | amides |
+| C=O (carbonyl/carboxyl) | 1670–1740 | aldehydes, ketones, carboxylic acids |
+| C=O (ester) | 1710–1750 | esters |
+| C≡N | 2200–2250 | nitriles |
+| C–H (alkane) | 2850–2950 | almost all organic compounds |
+| O–H (carboxylic acid) | 2500–3000, very broad | carboxylic acids |
 | N–H | 3300–3500 | amines |
-| C–H | 2850–3100 | almost all organic compounds |
-| C≡N | 2200–2260 | nitriles |
-| C=O | 1650–1750, sharp and strong | aldehydes, ketones, carboxylic acids, esters |
-| C=C | 1620–1680, often weak | alkenes |
-| C–O | 1000–1300 | alcohols, esters |
+| O–H (hydroxy/alcohol) | 3200–3600, broad | alcohols |
 
 **Reading a spectrum**: a strong, sharp peak around 1700 cm⁻¹ with no broad
 O–H absorption suggests an aldehyde or ketone rather than a carboxylic
 acid; the same C=O peak *together with* a very broad absorption spanning
-roughly 2500–3300 cm⁻¹ indicates a carboxylic acid specifically, since its
-O–H absorption is unusually broad and overlaps the C–H region.
+roughly 2500–3000 cm⁻¹ indicates a carboxylic acid specifically, since its
+O–H absorption is unusually broad and sits below (not overlapping) the
+alcohol O–H and N–H regions.
 
 ## Mass spectrometry: the basics
 

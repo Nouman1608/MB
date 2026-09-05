@@ -25,6 +25,14 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Exothermic and Endothermic Reactions study guide](/resources/exothermic-and-endothermic-reactions/).
 
+> **Tier note.** Only the basic idea of exothermic/endothermic (energy in vs
+> out, temperature rising vs falling) and reading a simple reaction pathway
+> diagram are 0620 Core. Naming ΔH and its sign convention, activation
+> energy, drawing/labelling a full pathway diagram, explaining ΔH via bond
+> breaking/making, and the bond-energy calculation are all **0620
+> Extended, 5070 required**. 5070 has no Core/Extended split, so all of it
+> is required for O Level.
+
 ## The two types
 
 | | Exothermic | Endothermic |
@@ -40,11 +48,27 @@ The sign convention is from the **system's** point of view: exothermic loses ene
 ## Reaction pathway diagrams
 
 ```
-EXOTHERMIC                      ENDOTHERMIC
-      /\                              products ___
-     /  \  Ea                            / ___/    \                              /  \  Ea
-reactants \___ products         _______/                                    reactants
-      dH NEGATIVE                    dH POSITIVE
+EXOTHERMIC
+
+        Ea
+       /‾‾\
+      /    \
+reactants   \
+             \____ products
+
+ΔH NEGATIVE (products lower in energy than reactants)
+```
+
+```
+ENDOTHERMIC
+
+              Ea
+            /‾‾\
+           /    \
+          /      \____ products
+reactants/
+
+ΔH POSITIVE (products higher in energy than reactants)
 ```
 
 Label every diagram with: reactants, products, **activation energy Eₐ** (reactants to the peak), and **ΔH** (reactants to products).
@@ -73,6 +97,13 @@ dH = 678 - 862 = -184 kJ/mol   -> EXOTHERMIC
 
 ## Calorimetry — measuring ΔH experimentally
 
+> **Not on the 0620/5070 specification.** Calorimetry, specific heat
+> capacity and Q = mcΔT calculations are not part of either syllabus's
+> chemical energetics content — the only quantitative energetics outcome
+> required at this level is the bond-energy calculation above. This section
+> is included only as background for progression to AS Chemistry (9701),
+> and will not be examined at IGCSE/O Level.
+
 ```
 Q = m x c x dT
 
@@ -82,23 +113,40 @@ c  = specific heat capacity (J/g/degC), often 4.18 for a dilute aqueous solution
 dT = temperature change (degC)
 ```
 
-**Worked example.** 50.0 cm³ of acid is neutralised by alkali, and the
-temperature rises by 6.8 °C. Take the specific heat capacity as
-4.18 J g⁻¹ °C⁻¹ and the density as 1.00 g cm⁻³.
+**Worked example.** 50.0 cm³ of acid is neutralised by 50.0 cm³ of
+alkali (equal volumes), and the temperature rises by 6.8 °C. Take the
+specific heat capacity as 4.18 J g⁻¹ °C⁻¹ and the density as
+1.00 g cm⁻³.
 ```
-mass = 50.0 g (density 1.00 g/cm^3, so 50.0 cm^3 -> 50.0 g)
-Q = 50.0 x 4.18 x 6.8 = 1421 J  (~1.42 kJ)
+total volume = 50.0 + 50.0 = 100.0 cm^3 (acid + alkali, both warmed)
+mass = 100.0 g (density 1.00 g/cm^3, so 100.0 cm^3 -> 100.0 g)
+Q = 100.0 x 4.18 x 6.8 = 2842.4 J  (~2.84 kJ)
 ```
 
 **Why the experimental value is usually lower in magnitude than the
-accepted value:** heat is lost to the surroundings, the thermometer
-and the container; the specific heat capacity of the solution is
-assumed to be that of pure water; and an open or poorly insulated cup
-(rather than a proper calorimeter) loses more heat still.
+accepted value:** heat is lost to the surroundings, the thermometer and
+the container during the reaction, so less of the energy released ends up
+warming the measured solution than the true reaction actually releases; an
+open or poorly insulated cup (rather than a proper calorimeter) loses more
+heat still, in the same direction.
+
+**A separate simplifying assumption** (not itself a reason for the value
+being *lower*): the specific heat capacity of the solution is taken to be
+that of pure water, 4.18 J g⁻¹ °C⁻¹, even though a dilute solution's true
+value is slightly different — this is a source of small error, but not one
+that pushes the answer in a predictable direction.
 
 ## Catalysts on the diagram
 
-A catalyst lowers **Eₐ** by providing an alternative pathway. It does **not** change ΔH — the reactant and product levels are unchanged. Draw a second, lower curve between the same two levels, starting and ending at exactly the same points as the original curve.
+**CORE (0620) · REQUIRED (5070)** — a catalyst increases the rate of reaction
+and is chemically unchanged at the end of it.
+
+*(0620 Extended, 5070 required)* A catalyst lowers **Eₐ** by providing an
+alternative pathway. It does **not** change ΔH — the reactant and product
+levels are unchanged. Draw a second, lower curve between the same two
+levels, starting and ending at exactly the same points as the original
+curve. (This is rates-of-reaction content, topic 6.2, applied here to the
+energetics diagram.)
 
 ## Exam traps
 
@@ -120,6 +168,6 @@ A catalyst lowers **Eₐ** by providing an alternative pathway. It does **not** 
 6. 25.0 g of water rises in temperature by 4.0 °C. Using c = 4.18 J g⁻¹ °C⁻¹, calculate the energy transferred.
 7. Give two reasons why a calorimetry experiment usually underestimates the true energy change.
 
-**Answers:** 1. **Negative** — the reaction releases energy to the surroundings, so it is exothermic. 2. Endothermic — energy must be supplied to break a bond. 3. 950 − 1120 = **−170 kJ/mol**, exothermic. 4. It lowers the activation energy by providing an alternative pathway; the reactant and product energy levels, and therefore ΔH, are unchanged. 5. Any two: thermal decomposition of calcium carbonate, photosynthesis, dissolving ammonium nitrate, reaction of citric acid with sodium hydrogencarbonate. 6. Q = 25.0 × 4.18 × 4.0 = **418 J**. 7. Any two: heat lost to the surroundings, heat absorbed by the thermometer and container, and the assumption that the solution has the same specific heat capacity as pure water.
+**Answers:** 1. **Negative** — the reaction releases energy to the surroundings, so it is exothermic. 2. Endothermic — energy must be supplied to break a bond. 3. 950 − 1120 = **−170 kJ/mol**, exothermic. 4. It lowers the activation energy by providing an alternative pathway; the reactant and product energy levels, and therefore ΔH, are unchanged. 5. Any two: thermal decomposition of calcium carbonate, photosynthesis, dissolving ammonium nitrate, reaction of citric acid with sodium hydrogencarbonate. 6. Q = 25.0 × 4.18 × 4.0 = **418 J**. 7. Any two: heat lost to the surroundings during the reaction, heat absorbed by the thermometer and container rather than staying in the solution, and extra heat lost through an open or poorly insulated cup rather than a proper calorimeter — all of which mean less energy is measured than the reaction actually released.
 
 For the full worked explanation with additional detail, see the [Exothermic and Endothermic Reactions study guide](/resources/exothermic-and-endothermic-reactions/); for exam-style questions with full mark schemes, see the [Exothermic and Endothermic Reactions practice questions](/resources/energetics-practice/).

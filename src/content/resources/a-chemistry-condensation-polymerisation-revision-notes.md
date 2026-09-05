@@ -48,7 +48,7 @@ Monomers join with the **elimination of a small molecule** — usually water, or
 dicarboxylic acid + diol  ->  polyester + water
 ```
 
-The linkage is the **ester group** `–COO–`. Terylene (PET) is made from benzene-1,4-dicarboxylic acid and ethane-1,2-diol.
+The linkage is the **ester group** `–COO–`. Benzene-1,4-dicarboxylic acid and ethane-1,2-diol give this type of polyester (commercially known as Terylene, or PET) — the syllabus works from **given monomers or a given repeat unit**, not from recall of commercial polymer names, so the name is background context rather than something to memorise.
 
 ## Polyamides
 
@@ -58,8 +58,10 @@ dicarboxylic acid + diamine  ->  polyamide + water
 
 The linkage is the **amide group** `–CONH–`.
 
-- **Nylon-6,6** — hexanedioic acid + 1,6-diaminohexane. The numbers give the carbons in each monomer.
-- **Kevlar** — benzene-1,4-dicarboxylic acid + 1,4-diaminobenzene.
+- Hexanedioic acid + 1,6-diaminohexane gives this type of polyamide, commercially known as **Nylon-6,6** (the numbers give the carbons in each monomer).
+- Benzene-1,4-dicarboxylic acid + 1,4-diaminobenzene gives this type of polyamide, commercially known as **Kevlar**.
+
+**As above, the commercial names are background, not required recall — 9701 gives the monomers or repeat unit and asks you to deduce the polymer's structure and properties from those, not to name a specific commercial product.**
 
 **Kevlar's strength comes from structure, not chemistry:** the rigid aromatic rings hold the chains straight and allow them to align, and extensive **hydrogen bonding** between the amide groups on adjacent chains locks them together. Its strength-to-weight ratio exceeds steel's.
 

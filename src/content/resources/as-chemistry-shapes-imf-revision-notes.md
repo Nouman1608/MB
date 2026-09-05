@@ -65,7 +65,7 @@ repulsion:   lone-lone  >  lone-bond  >  bond-bond
 | 6 | 0 | Octahedral | 90° |
 | 4 | 2 | Square planar | 90° |
 
-The CH₄ → NH₃ → H₂O sequence (109.5 → 107 → 104.5) is examined constantly, and the explanation — one then two lone pairs, each repelling more than a bonding pair — is what earns the marks, not the numbers.
+The CH₄ → NH₃ → H₂O sequence (109.5 → 107 → 104.5) comes up often, and the explanation — one then two lone pairs, each repelling more than a bonding pair — is what earns the marks, not the numbers.
 
 ## Polarity
 
@@ -92,7 +92,7 @@ Hydrogen bonding requires **both**: hydrogen directly bonded to N or O (the cond
 
 ## Where hydrogen bonding shows up
 
-- **Anomalous boiling points** of H₂O, NH₃ and HF against the trend in their groups.
+- **Anomalous boiling points** of H₂O and NH₃ against the trend in their groups (HF shows the same anomaly through H–F hydrogen bonding — scientifically valid, but beyond the 9701 N–H/O–H scope, included here for completeness).
 - **Ice is less dense than water** — each H₂O forms four hydrogen bonds in a tetrahedral arrangement, creating an open lattice with holes. On melting the lattice partly collapses, so the liquid is denser.
 - **Solubility** of alcohols, sugars and carboxylic acids in water.
 - **High surface tension** and high specific heat capacity of water.
@@ -106,7 +106,7 @@ The ice-density explanation must mention the **open lattice** and the **tetrahed
 3. If the same, compare **number of electrons** (bigger → stronger induced dipole forces).
 4. If still tied, compare **branching** (more branching → lower).
 
-**Crucially: intermolecular forces break on boiling, not covalent bonds.** Saying "the covalent bonds break" is one of the most heavily penalised errors in AS chemistry.
+**Crucially: intermolecular forces break on boiling, not covalent bonds.** Saying "the covalent bonds break" is a common error worth watching for — the covalent bonds within each molecule stay intact.
 
 ## Exam traps
 

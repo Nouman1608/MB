@@ -58,16 +58,16 @@ acid + alcohol -> ester          conc. H2SO4 catalyst, reflux
 ## Aromatic routes
 
 ```
-benzene   ->  nitrobenzene       conc. HNO3 / conc. H2SO4, 55 C
+benzene   ->  nitrobenzene       conc. HNO3 / conc. H2SO4, 25-60 C
 nitrobenzene -> phenylamine      Sn / conc. HCl, then NaOH
 benzene   ->  alkylbenzene       RCl / AlCl3
 benzene   ->  phenylketone       RCOCl / AlCl3
-methylbenzene -> benzoic acid    KMnO4, reflux (side chain oxidised)
+methylbenzene -> benzoic acid    hot alkaline KMnO4, then dilute acid (side chain oxidised)
 phenylamine -> diazonium salt    NaNO2 / dilute HCl, BELOW 10 C
 diazonium salt -> phenol         H2O, warm
 ```
 
-Temperature control in nitration matters: **above about 55 °C you get dinitration**. Diazonium salt formation needs **below 10 °C** — above this the salt decomposes before it can be used.
+Temperature control in nitration matters: mononitration is favoured across **25-60 °C**, but **above about 60 °C you get dinitration**. Diazonium salt formation needs **below 10 °C** — above this the salt decomposes before it can be used.
 
 ## Worked example: analysing a route
 
@@ -97,8 +97,8 @@ If a question's product has one more carbon than the starting material, a nitril
 | Reagent | Reduces | Does not reduce |
 |---|---|---|
 | **NaBH₄** | Aldehydes, ketones | Carboxylic acids, nitriles, esters |
-| **LiAlH₄** (dry ether) | Everything above, plus acids, esters, nitriles | — |
-| **H₂ / Ni** | C=C, nitriles, and C=O under forcing conditions | — |
+| **LiAlH₄** (dry ether) | Everything above, plus acids, esters, nitriles | Isolated C=C double bonds |
+| **H₂ / Ni** | Alkenes, the benzene ring, and nitriles | Carboxylic acids, esters, amides |
 
 Choosing NaBH₄ when a nitrile must be reduced is a common error.
 
@@ -123,4 +123,4 @@ Choosing NaBH₄ when a nitrile must be reduced is a common error.
 6. What condition is essential for forming a diazonium salt, and why?
 7. In the route benzoic acid → benzoyl chloride → benzamide, name the reaction type and by-product of the final step.
 
-**Answers:** 1. KCN in ethanol under reflux to form the nitrile, then dilute HCl(aq) under reflux to hydrolyse it to the carboxylic acid. 2. Distil the aldehyde off as it forms rather than refluxing, so it cannot be oxidised further. 3. KOH itself — aqueous gives nucleophilic substitution to the alcohol, ethanolic gives elimination to the alkene. 4. Conc. HNO₃ with conc. H₂SO₄ at 55 °C, then Sn with conc. HCl, then NaOH to liberate the amine. 5. LiAlH₄ in dry ether (or H₂/Ni); NaBH₄ is not powerful enough to reduce a nitrile. 6. The temperature must stay below 10°C, since the diazonium salt decomposes above this temperature before it can be used. 7. Condensation (addition-elimination), using excess ammonia at room temperature; the by-product is ammonium chloride, NH₄Cl.
+**Answers:** 1. KCN in ethanol under reflux to form the nitrile, then dilute HCl(aq) under reflux to hydrolyse it to the carboxylic acid. 2. Distil the aldehyde off as it forms rather than refluxing, so it cannot be oxidised further. 3. KOH itself — aqueous gives nucleophilic substitution to the alcohol, ethanolic gives elimination to the alkene. 4. Conc. HNO₃ with conc. H₂SO₄ between 25 and 60 °C, then Sn with conc. HCl, then NaOH to liberate the amine. 5. LiAlH₄ in dry ether (or H₂/Ni); NaBH₄ is not powerful enough to reduce a nitrile. 6. The temperature must stay below 10°C, since the diazonium salt decomposes above this temperature before it can be used. 7. Condensation (addition-elimination), using excess ammonia at room temperature; the by-product is ammonium chloride, NH₄Cl.

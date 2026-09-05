@@ -117,19 +117,27 @@ contain a CH₃CO– group directly.
 
 **Worked example.** Two unlabelled bottles contain propanal, CH₃CH₂CHO, and
 propanone, CH₃COCH₃. Describe a chemical test, with observations, that
-distinguishes them, and explain why the iodoform test would not help here.
+reliably distinguishes **any** aldehyde from **any** ketone, then explain
+what the iodoform test would show for this particular pair, and why
+iodoform is not itself a general aldehyde-vs-ketone test.
 
-Warm each with Tollens' reagent: propanal (an aldehyde) forms a silver
-mirror; propanone (a ketone) shows no reaction. The iodoform test would not
-help, because **neither** compound contains a CH₃CO– group — propanal's
-carbonyl carbon is attached to a CH₂ group, not a CH₃ group, and
-propanone's carbonyl carbon is attached to two CH₃ groups but is itself the
-carbonyl carbon, not adjacent to it — so both would need to be checked
-against the actual structural requirement (a methyl group directly bonded
-to the carbonyl carbon) rather than assumed from the general "ketone"
-label. Propanone in fact *does* satisfy this (CH₃–CO–CH₃) and gives a
-positive iodoform result — the point of the example is to check the
-structure carefully rather than assume based on functional group alone.
+Warm each with Tollens' reagent: propanal (an aldehyde) forms a **silver
+mirror**; propanone (a ketone) shows **no reaction**. This reliably
+distinguishes any aldehyde from any ketone, because it depends on ease of
+oxidation — a property every aldehyde has and no ketone has.
+
+If the iodoform test were used on this pair instead: propanone
+(CH₃–CO–CH₃) has a **methyl group directly bonded to the carbonyl
+carbon** — a CH₃CO– group — so it gives a **positive** result (yellow
+precipitate of CHI₃). Propanal's carbonyl carbon, by contrast, is bonded to
+a CH₂ group, not a methyl group, so propanal does **not** have a CH₃CO–
+group and gives a **negative** result. Iodoform therefore happens to
+distinguish this particular pair too — but not because it is an
+aldehyde-vs-ketone test: it only detects the specific CH₃CO– structural
+feature, which some aldehydes have (e.g. ethanal, CH₃CHO) and some ketones
+lack (e.g. pentan-3-one, CH₃CH₂COCH₂CH₃), so it cannot be relied on in
+general to tell an aldehyde from a ketone the way Tollens' or Fehling's
+can.
 
 ## Common mistakes
 

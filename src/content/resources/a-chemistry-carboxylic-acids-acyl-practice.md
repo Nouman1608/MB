@@ -74,7 +74,7 @@ Related: [Carboxylic Acids and Acyl Chlorides revision notes](/resources/a-chemi
 
 **(b)** Explain why the second route gives a much higher yield. **[3]**
 
-**(c)** Phenol will not esterify with ethanoic acid but does react with ethanoyl chloride. Suggest why this makes acyl chlorides synthetically important. **[2]**
+**(c)** Phenol reacts only slowly and reversibly with ethanoic acid directly, but reacts readily with ethanoyl chloride. Suggest why this makes acyl chlorides synthetically important. **[2]**
 
 **7.** Rank carboxylic acids, phenols and alcohols in order of decreasing acidity, and explain the difference using delocalisation. **[3]**
 
@@ -106,13 +106,13 @@ Related: [Carboxylic Acids and Acyl Chlorides revision notes](/resources/a-chemi
 
 **(c)** **Nucleophilic addition–elimination** [1].
 
-**(d)** Chlorine is **more electronegative than oxygen or hydroxyl** [1], so the carbonyl carbon carries a **greater δ+ charge** and is more strongly attacked by nucleophiles [1]. Chloride is also a **good leaving group** [1].
+**(d)** The hydroxyl oxygen's lone pair delocalises into the carbonyl carbon more effectively than chlorine's lone pair does, so in an acyl chloride the carbonyl carbon carries a **greater δ+ charge** and is more strongly attacked by nucleophiles [1]. Chloride is also a **much better leaving group** than hydroxide, so it departs more readily once the nucleophile has attacked [1].
 
 **6. (a)** Concentrated **sulfuric acid catalyst**, heat under **reflux** [1] [1]. Disadvantage: the reaction is **reversible**, so the equilibrium yield is limited [1].
 
 **(b)** The reaction of an acyl chloride with an alcohol is **irreversible** [1], **fast** and proceeds at **room temperature** [1], so it goes essentially to completion rather than reaching an equilibrium [1].
 
-**(c)** Phenols are **too weakly nucleophilic** to esterify with a carboxylic acid [1], so acyl chlorides provide the **only practical route** to phenyl esters — extending the range of compounds that can be made [1].
+**(c)** Phenols are **weakly nucleophilic**, so direct esterification with a carboxylic acid is slow and reversible and gives only a poor yield [1], whereas acyl chlorides provide a **fast, reliable route** to phenyl esters — extending the range of compounds that can be made in practice [1].
 
 **7.** **Carboxylic acids > phenols > alcohols** [1]. In a carboxylate ion the negative charge is delocalised **equally over both oxygen atoms**, a more effective, symmetrical delocalisation than a phenoxide ion's charge spreading unevenly around a large aromatic ring [1]; an alkoxide ion (from an alcohol) has **no delocalisation available at all** [1]. Both C–O bonds in the carboxylate become equivalent, each with partial double-bond character.
 
@@ -131,5 +131,5 @@ Related: [Carboxylic Acids and Acyl Chlorides revision notes](/resources/a-chemi
 - Forgetting HCl as a product of every acyl chloride reaction.
 - Saying acyl chlorides are more reactive "because they are more polar" without explaining the leaving group.
 - Not stating that esterification is reversible when explaining low yield.
-- Placing phenol above carboxylic acids in the acidity order — it is the weakest of the three.
+- Placing phenol above carboxylic acids in the acidity order — phenol sits between the carboxylic acid and the alcohol, with the alcohol being the weakest of the three.
 - Forgetting that a phenoxide ion's delocalisation is spread unevenly around the ring, unlike a carboxylate's equal spread over two oxygens.

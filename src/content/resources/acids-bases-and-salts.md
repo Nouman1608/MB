@@ -225,8 +225,9 @@ products
 - The four soluble-salt preparation routes, and when to use precipitation
 instead
 - The general solubility rules, from memory
-- *(0620 Extended, 5070 required)* hydrated vs anhydrous, and water of
-crystallisation
+- Defining hydrated and anhydrous substances
+- *(0620 Extended, 5070 required)* water of crystallisation, e.g.
+CuSO₄·5H₂O and CoCl₂·6H₂O
 
 ## Related resources
 

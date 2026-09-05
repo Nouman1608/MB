@@ -1,5 +1,5 @@
 ---
-title: "A Level Chemistry: Group 2 — Quantitative Trends Practice Questions"
+title: "A Level Chemistry: Group 2 — Thermal Stability and Solubility Trends Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]
@@ -24,7 +24,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Group 2: Quantitative Trends study guide](/resources/a-group-2-quantitative-trends/)
+Related: [Group 2: Thermal Stability and Solubility Trends study guide](/resources/a-group-2-quantitative-trends/)
 
 ---
 

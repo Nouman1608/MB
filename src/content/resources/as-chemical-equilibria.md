@@ -167,10 +167,12 @@ the rate at which equilibrium is reached (the catalyst does not affect the
 equilibrium yield itself).
 
 **Contact process**: 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), also exothermic. The same
-logic applies, but because the equilibrium yield is already very high
-(around 99.5%) at close to atmospheric pressure, the extra yield from higher
-pressure isn't worth its extra cost — so the Contact process runs at close
-to atmospheric pressure, around 450 °C, with a vanadium(V) oxide catalyst.
+logic applies, but because the equilibrium position already favours SO₃
+strongly (industrial SO₂-to-SO₃ conversion is typically quoted at around
+96-99.5%, depending on plant and source) at close to atmospheric pressure,
+the extra yield from higher pressure isn't worth its extra cost — so the
+Contact process runs at close to atmospheric pressure, around 450 °C, with
+a vanadium(V) oxide catalyst.
 
 ## Common mistakes
 

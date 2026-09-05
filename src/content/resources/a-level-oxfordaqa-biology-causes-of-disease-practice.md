@@ -7,7 +7,7 @@ topic: "Biological systems and disease"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9610"]
-syllabusSeries: "Version 5.1"
+syllabusSeries: "Version 5.1 (International A-level exams May/June 2018 onwards)"
 order: 1
 stage: "AS"
 syllabusTopics:

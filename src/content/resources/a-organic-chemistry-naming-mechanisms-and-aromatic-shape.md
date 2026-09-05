@@ -69,7 +69,7 @@ sp² hybridisation, in terms of σ bonds and a delocalised π system.
 
 ## New functional groups at A Level
 
-Five functional groups appear for the first time at A Level, each
+Seven functional groups appear for the first time at A Level, each
 introduced fully in its own topic later, but worth being able to recognise
 and name immediately:
 
@@ -81,6 +81,7 @@ and name immediately:
 | Acyl chloride | CH₃CH₂COCl | propanoyl chloride |
 | Amide | CH₃CH₂CONH₂ | propanamide |
 | Amino acid | HOOCCH(NH₂)H | 2-aminoethanoic acid |
+| Secondary/tertiary amine | (CH₃)₂NH | dimethylamine |
 
 **Naming aliphatic compounds** follows the same systematic rules met at AS
 Level, extended up to six carbons in the main chain (six plus six for
@@ -171,8 +172,9 @@ of recognisable functional groups and ring-numbering for aromatics is new.
 
 ## Quick revision checklist
 
-- Five new A Level functional groups: arene, halogenoarene, phenol, acyl
-  chloride, amide (plus amino acid, containing two groups at once)
+- Seven new A Level functional groups: arene, halogenoarene, phenol, acyl
+  chloride, secondary/tertiary amine, amide (plus amino acid, containing
+  two groups at once)
 - Electrophilic substitution: electrophile attacks, a group is displaced,
   the ring system is preserved
 - Addition-elimination: nucleophile adds, then a leaving group is

@@ -122,11 +122,15 @@ atom, Na, but a chloride ion, Cl⁻, is larger than a chlorine atom, Cl.
 Sodium (2,8,1) loses its single outer-shell electron to form Na⁺ (2,8) — this
 removes the entire outer shell, so the ion has one fewer occupied shell than
 the atom, and the remaining electrons are held by the same nuclear charge
-with no extra shielding to oppose it. The ion is markedly smaller. Chlorine
-(2,8,7) gains one electron to form Cl⁻ (2,8,8) — no new shell is added, but
-the extra electron increases repulsion within the same outer shell, pushing
-the existing electrons slightly further apart. The ion is larger, but only
-modestly, since the nuclear charge and number of shells are unchanged.
+with no extra shielding to oppose it: atomic radius ~0.191 nm shrinks to an
+ionic radius of ~0.095 nm. Chlorine (2,8,7) gains one electron to form Cl⁻
+(2,8,8) — no new shell is added, but the extra electron increases repulsion
+within the same outer shell, pushing the existing electrons further apart:
+atomic radius ~0.099 nm grows to an ionic radius of ~0.181 nm. Both changes
+are large — losing or gaining electrons at a fixed nuclear charge always
+has a substantial effect on radius; what differs is the mechanism (losing a
+whole shell for the cation, versus increased shell repulsion for the
+anion), not the size of the effect.
 
 ## Isotopes
 

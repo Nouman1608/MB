@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-carboxylic-acids-and-derivatives"
     subtopic: "as-esters"
-description: "Original exam-style practice questions with full worked answers on carboxylic acid reactions, esterification, hydrolysis and acyl chlorides."
+description: "Original exam-style practice questions with full worked answers on carboxylic acid reactions, esterification and hydrolysis."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -35,7 +35,7 @@ Related: [Carboxylic Acids and Esters revision notes](/resources/as-chemistry-ca
 
 **1.** Explain why carboxylic acids are described as weak acids. **[2]**
 
-**2.** Name the products when ethanoic acid reacts with (a) sodium carbonate, (b) magnesium. **[4]**
+**2.** Name the products, and state one observation, when ethanoic acid reacts with (a) sodium carbonate, (b) magnesium. **[5]**
 
 ## Section B
 
@@ -46,6 +46,10 @@ Related: [Carboxylic Acids and Esters revision notes](/resources/as-chemistry-ca
 **(c)** Explain how the ester can be separated from the mixture. **[2]**
 
 **4.** Compare the acid and alkaline hydrolysis of ethyl ethanoate, giving products and stating which goes to completion. **[5]**
+
+## A Level extension
+
+Acyl chlorides are not part of the AS 9701 syllabus (Topic 18.2 covers only esterification and hydrolysis) — they are introduced at A Level in Topic 33. The question below is included as extension material only; see the [Carboxylic Acids and Acyl Chlorides study guide](/resources/a-carboxylic-acids-and-acyl-chlorides/) for the full A Level treatment.
 
 **5.** Ethanoyl chloride reacts with ethanol.
 

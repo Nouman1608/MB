@@ -94,11 +94,19 @@ mole of gaseous 1− ions forms from one mole of gaseous atoms — usually
 exothermic (the atom's nucleus attracts the incoming electron), though
 second electron affinities (relevant to O²⁻ or S²⁻) are endothermic, since
 adding an electron to an already-negative ion involves overcoming
-repulsion. Across Group 16 and Group 17, electron affinity becomes less
-exothermic going down each group, because the added electron enters a
-shell further from the nucleus, on a larger atom with more shielding — the
+repulsion. Down Groups 16 and 17, electron affinity becomes **less
+exothermic from the second member of the group onward** — Cl → Br → I and
+S → Se → Te follow the expected trend, because the added electron enters a
+shell further from the nucleus, on a larger atom with more shielding, the
 same nuclear-attraction logic used for ionisation energy trends, in
-reverse.
+reverse. The **first member of each group is anomalous**: chlorine's
+electron affinity (≈ −349 kJ/mol) is *more* exothermic than fluorine's
+(≈ −328 kJ/mol), and sulfur's (≈ −200 kJ/mol) is *more* exothermic than
+oxygen's (≈ −141 kJ/mol). This is because F and O are so small that their
+valence shell is already crowded with electrons — the incoming electron
+suffers extra electron-electron repulsion that outweighs the higher
+nuclear attraction of the smaller atom, making the first member's electron
+affinity less exothermic than the second member's.
 
 A **Born-Haber cycle** is an enthalpy cycle (Hess's law applied to ionic
 compound formation) linking the enthalpy change of formation of an ionic
@@ -130,7 +138,12 @@ coming together into a solid.
 more exothermic (numerically larger) as ionic charge increases (stronger
 electrostatic attraction, e.g. MgO's lattice energy is far more exothermic
 than NaCl's) and as ionic radius decreases (ions can approach more closely,
-increasing the attractive force, which depends on 1/distance²).
+increasing the attraction). Lattice energy is inversely proportional to
+the interionic distance — the charge product divided by the sum of the
+ionic radii — not to the square of the distance: that inverse-square
+relationship describes the electrostatic *force* between the ions, whereas
+lattice energy is an *energy*, which varies with the inverse first power
+of the separation.
 
 ## Enthalpies of solution and hydration
 

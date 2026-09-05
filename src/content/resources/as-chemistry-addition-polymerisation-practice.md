@@ -41,7 +41,7 @@ Related: [Addition Polymerisation revision notes](/resources/as-chemistry-additi
 **(a)** Deduce and name the monomer. **[2]**
 **(b)** Draw or describe the repeat unit, stating the two conventions that must be shown. **[3]**
 
-**4.** Compare low-density and high-density poly(ethene) in terms of manufacturing conditions, chain structure and physical properties. **[4]**
+**4.** *(Manufacturing conditions and catalyst are background — Topic 20.1 is limited to describing addition polymerisation, deducing repeat units/monomers and disposal, and does not cover manufacturing process detail; chain structure and properties below remain examinable.)* Compare low-density and high-density poly(ethene) in terms of manufacturing conditions, chain structure and physical properties.
 
 **5.** Explain, in terms of intermolecular forces between polymer chains, why poly(chloroethene) is more rigid than poly(ethene). **[3]**
 
@@ -60,13 +60,13 @@ Related: [Addition Polymerisation revision notes](/resources/as-chemistry-additi
 
 **1.** The alkene has a **C=C double bond**, one bond of which can **break to allow the monomer to join to others** [1]. A saturated alkane has **only single C–C bonds**, so there is no bond available to open up and join to a neighbouring molecule [1].
 
-**2.** Poly(propene): –[CH₂–CH(CH₃)]– [1]. PTFE (poly(tetrafluoroethene)): –[CF₂–CF₂]– [1]. In each case the repeat unit is derived directly from the monomer by opening the C=C double bond, with the bonds on either side extending through the square brackets to show the chain continues indefinitely.
+**2.** Poly(propene): –[CH₂–CH(CH₃)]ₙ– [1]. PTFE (poly(tetrafluoroethene)): –[CF₂–CF₂]ₙ– [1]. In each case the repeat unit is derived directly from the monomer by opening the C=C double bond, with the bonds on either side extending through the square brackets and the subscript n written outside the bracket to show the chain continues indefinitely.
 
 **3. (a)** **CH₂=CHCl** [1]; **chloroethene** [1].
 **(b)** –[CH₂–CHCl]– [1] with the **bonds drawn through the brackets** to show the chain continues [1] and **n written outside the bracket** [1].
 
-**4. LDPE** — made at **high pressure**, giving **branched chains that cannot pack closely together** [1]; the result is **low density, flexible and with a lower softening point**, used for bags and films [1].
-**HDPE** — made with a **Ziegler–Natta catalyst at low pressure**, giving **straight, unbranched chains that pack closely** [1]; the result is **higher density, more rigid and with a higher softening point**, used for pipes and crates [1].
+**4.** *(Manufacturing detail below is background context, not AS-examinable.)* **LDPE** — made at **high pressure**, giving **branched chains that cannot pack closely together**; the result is **low density, flexible and with a lower softening point**, used for bags and films [1].
+**HDPE** — made with a **Ziegler–Natta catalyst at low pressure**, giving **straight, unbranched chains that pack closely**; the result is **higher density, more rigid and with a higher softening point**, used for pipes and crates [1]. (The examinable content is the link between chain branching and the resulting density/rigidity — the catalyst and pressure conditions are included only as background.)
 
 **5.** The C–Cl bond is **polar**, so poly(chloroethene) chains have **permanent dipole–dipole attractions between neighbouring chains** [1], as well as London forces [1]. Poly(ethene) is **non-polar with only London forces**, so its chains slide past one another far more easily, making it flexible [1].
 

@@ -99,11 +99,11 @@ carbonate:  MCO3  ->  MO  + CO2
 nitrate:    2M(NO3)2 -> 2MO + 4NO2 + O2      (brown NO2 gas)
 ```
 
-**Why:** the cation becomes **larger** down the group, so its **charge density falls**. A smaller, more polarising cation distorts the anion's electron cloud more, weakening the C–O or N–O bond and lowering the decomposition temperature.
+**Why (A Level explanation, useful context but not required at AS — AS 10.1.3 only requires describing the trend with equations):** the cation becomes **larger** down the group, so its **charge density falls**. A smaller, more polarising cation distorts the anion's electron cloud more, weakening the C–O or N–O bond and lowering the decomposition temperature.
 
 So magnesium compounds decompose most easily; barium compounds are the most stable.
 
-That polarising-power explanation is the mark-earning answer — "because it is bigger" alone is incomplete.
+At AS, describing the trend correctly with the equations above is sufficient; the polarising-power mechanism is A Level Topic 27.1.1 material — "because it is bigger" alone would still be an incomplete explanation if an explanation is asked for, but AS itself does not require the mechanism.
 
 ## Uses
 

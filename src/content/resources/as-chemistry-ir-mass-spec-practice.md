@@ -37,13 +37,13 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 
 **2.** State what the molecular ion peak indicates. **[1]**
 
-**3.** Explain what the fingerprint region is used for. **[2]**
+**3.** *(Background — beyond the 9701 specification, not examinable at this level.)* Explain what the fingerprint region is used for.
 
 ---
 
 ## Section B
 
-**4.** Three compounds have the formula C₃H₆O₂ or C₃H₆O. Their IR spectra show:
+**4.** Three compounds have the formula C₃H₆O₂, C₃H₆O or C₃H₈O. Their IR spectra show:
 
 - **A**: strong sharp peak at 1715 cm⁻¹, no peak above 3000 cm⁻¹
 - **B**: strong peak at 1710 cm⁻¹ and a very broad peak from 2500–3000 cm⁻¹
@@ -55,11 +55,11 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 
 **(c)** Suggest a structure for B. **[1]**
 
-**5.** A mass spectrum shows peaks at m/z 108 and 110 in a ratio of approximately 1 : 1, plus a fragment peak at m/z 29.
+**5.** A mass spectrum shows peaks at m/e 108 and 110 (m/e — equivalent to the more common m/z notation used elsewhere) in a ratio of approximately 1 : 1, plus a fragment peak at m/e 29.
 
 **(a)** Identify the halogen present, with a reason. **[2]**
 
-**(b)** Suggest the identity of the fragment at m/z 29. **[1]**
+**(b)** Suggest the identity of the fragment at m/e 29. **[1]**
 
 **(c)** Deduce the relative molecular mass of the compound. **[1]**
 
@@ -79,7 +79,9 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 
 **(a)** Identify the bond responsible for each absorption. **[2]**
 
-**(b)** State the functional group each absorption is consistent with. **[2]**
+**(b)** State the functional group each absorption is consistent with. **[1]**
+
+**(c)** *(Background — beyond the 9701 specification; AS 19.1 states that classifying amines as primary/secondary/tertiary will not be tested.)* Suggest why this N–H absorption appears as two components rather than one.
 
 ---
 
@@ -89,14 +91,13 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 
 **2.** The **relative molecular mass** of the compound [1].
 
-**3.** It is **unique to each compound** [1], so a spectrum can be matched against a **database of reference spectra** to identify the substance [1].
-*Individual peaks in this region are not interpreted.*
+**3.** *(Background only — not AS-examinable.)* It is **unique to each compound**, so a spectrum can be matched against a **database of reference spectra** to identify the substance. Individual peaks in this region are not interpreted.
 
-**4. (a)** **A**: ketone or aldehyde (C=O only) [1]. **B**: **carboxylic acid** (C=O plus very broad O–H) [1]. **C**: **alcohol** (broad O–H, no C=O) [1].
+**4. (a)** **A**: ketone or aldehyde, C₃H₆O (C=O only, one degree of unsaturation) [1]. **B**: **carboxylic acid**, C₃H₆O₂ (C=O plus very broad O–H) [1]. **C**: **alcohol**, C₃H₈O (broad O–H, no C=O) [1] — C must be saturated, since it shows no C=O and no evidence of a C=C or ring, so it takes the third formula rather than sharing C₃H₆O with A.
 
 **(b)** B's O–H is **very broad and at lower wavenumber (2500–3000)**, characteristic of a carboxylic acid [1], and B also has a **C=O peak**, which C lacks entirely [1].
 
-**(c)** **CH₃CH₂COOH** (propanoic acid) [1].
+**(c)** **CH₃CH₂COOH** (propanoic acid) for B [1]. (C, the saturated alcohol, is propan-1-ol, CH₃CH₂CH₂OH, or propan-2-ol, CH₃CH(OH)CH₃ — either is consistent with the spectrum.)
 
 **5. (a)** **Bromine** [1], because the M and M+2 peaks are of **approximately equal height**, reflecting the near 1 : 1 natural abundance of ⁷⁹Br and ⁸¹Br [1].
 
@@ -112,19 +113,20 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 **(b)** A **carboxylic acid** group [1] — losing 45 (COOH) directly from the molecular ion is a strong indicator on its own, and losing 15 (CH₃) as well narrows the structure further, consistent with a short-chain carboxylic acid such as propanoic or ethanoic acid.
 
 **8. (a)** The sharp peak at ~2240 cm⁻¹ is a **C≡N** bond [1]; the peak at ~3350–3400 cm⁻¹, appearing as two components, is an **N–H** bond, distinct from the broader O–H absorptions seen elsewhere in the spectrum [1].
-**(b)** C≡N is consistent with a **nitrile** [1]; N–H appearing as **two** peaks (rather than one) is consistent with a **primary amine** (–NH₂), which has two N–H bonds able to stretch independently of one another, unlike a secondary amine's single N–H bond [1].
+**(b)** C≡N is consistent with a **nitrile** [1]; N–H is consistent with an **amine** [1].
+**(c)** *(Background only.)* The two components arise from the symmetric and asymmetric stretching of the **two N–H bonds** in a primary amine, –NH₂ (a secondary amine has only one N–H bond and shows a single peak) — useful analytical context, but distinguishing primary from secondary amines is not tested at AS.
 
 ---
 
 ## Where marks are usually lost
 
-- Confusing the broad acid O–H (2500–3000) with the alcohol O–H (3230–3550).
-- Interpreting individual fingerprint-region peaks.
+- Confusing the broad acid O–H (2500–3000) with the alcohol O–H (3200–3600).
+- Interpreting individual fingerprint-region peaks (background knowledge only; not AS-examinable).
 - Reversing the chlorine and bromine M+2 ratios.
 - Taking an isotope peak as the molecular ion.
 - Reading the base peak (tallest) as the molecular ion.
 - Confusing a nitrile's sharp C≡N absorption (~2220–2260) with a carbonyl's C=O (~1680–1750) — very different wavenumbers, easy to mix up if only skimming for "a sharp peak."
-- Forgetting that a **primary** amine's N–H shows as **two** peaks (symmetric and asymmetric stretching of the two N–H bonds), while a secondary amine shows only one.
+- Forgetting that a **primary** amine's N–H shows as **two** peaks (symmetric and asymmetric stretching of the two N–H bonds), while a secondary amine shows only one — useful background, though classifying amines this way is not tested at AS.
 - Guessing a fragment's identity from its mass alone without checking it against the standard loss table (15, 17, 29, 31, 45).
 
 Questions 7 and 8 draw on the fragmentation-loss table and the amine/nitrile absorptions from the [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry-ir-mass-spec-revision-notes/), material the earlier questions on this page don't reach, since they focus on the carbonyl/hydroxyl decision tree and halogen isotope patterns instead.

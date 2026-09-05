@@ -89,8 +89,8 @@ Charge passed is:
 
 Q = It
 
-**Worked example.** A current of 2.00 A is passed through molten CuSO₄
-electrolyte for 3860 s. Calculate the mass of copper deposited. (F = 96 500
+**Worked example.** A current of 2.00 A is passed through aqueous CuSO₄
+electrolyte with copper electrodes for 3860 s. Calculate the mass of copper deposited. (F = 96 500
 C mol⁻¹, A<sub>r</sub>(Cu) = 63.5)
 
 Q = It = 2.00 × 3860 = 7720 C
@@ -147,12 +147,29 @@ Zinc, with the more negative E°, is oxidised (Zn → Zn²⁺ + 2e⁻) — zinc 
 anode (negative electrode), and electrons flow through the external circuit
 from zinc to copper.
 
-**Predicting feasibility.** A reaction is feasible if the combination of the
-two relevant half-equations, run in the direction that gives a positive
-E°<sub>cell</sub>, is physically consistent with the species actually
-present — a positive E°<sub>cell</sub> indicates the reaction is
-thermodynamically feasible (though, as with ΔG, this says nothing about
-rate).
+**Predicting feasibility of a specified reaction** uses a different
+construction from finding the EMF of a freely-combined cell. For a reaction
+written as given — with one species stated to be reduced and another
+stated to be oxidised — calculate:
+
+E°<sub>cell</sub> = E°(species reduced) − E°(species oxidised)
+
+A **positive** result means the reaction is thermodynamically feasible as
+written (though, as with ΔG, this says nothing about rate); a **negative**
+result means it is **not feasible** as written — the reverse reaction is
+the feasible one instead.
+
+**Worked example (infeasible reaction).** Does Fe³⁺(aq) oxidise Cl⁻(aq) to
+Cl₂? Fe³⁺/Fe²⁺ has E° = +0.77 V (species reduced: Fe³⁺ → Fe²⁺) and
+Cl₂/Cl⁻ has E° = +1.36 V (species oxidised: Cl⁻ → ½Cl₂).
+
+E°<sub>cell</sub> = E°(reduced) − E°(oxidised) = (+0.77) − (+1.36) =
+**−0.59 V**
+
+The negative value shows this reaction is **not feasible** — iron(III) is
+not a strong enough oxidising agent to oxidise chloride ions. (The reverse
+reaction, chlorine oxidising Fe²⁺ to Fe³⁺, is feasible instead, with
+E°<sub>cell</sub> = +1.36 − 0.77 = +0.59 V.)
 
 **Constructing redox equations.** Write the two relevant half-equations,
 multiply each by a whole number if needed so the electrons lost equal the
@@ -190,6 +207,19 @@ example, for Cu²⁺(aq) + 2e⁻ ⇌ Cu(s), z = 2 and the expression uses
 [Fe³⁺]/[Fe²⁺] (Cu(s) does not appear, as a pure solid has no meaningful
 "concentration" in this expression).
 
+**Worked example.** Calculate the electrode potential of a Cu²⁺(aq)/Cu(s)
+half-cell in which [Cu²⁺] has been diluted to 0.0100 mol dm⁻³ (E° = +0.34
+V, z = 2).
+
+E = E° + (0.059 / z) log[Cu²⁺] = 0.34 + (0.059 / 2) × log(0.0100)
+
+E = 0.34 + (0.0295 × (−2)) = 0.34 − 0.059 = **+0.281 V**
+
+Diluting the Cu²⁺(aq) shifts the half-equilibrium to favour the reverse
+(oxidation) direction by Le Chatelier's principle, so the electrode
+potential becomes less positive than the standard value — consistent with
+the qualitative rule above.
+
 **Linking to Gibbs free energy:**
 
 ΔG = −nE°<sub>cell</sub>F
@@ -202,10 +232,16 @@ always positive.
 
 ## Common mistakes
 
-**Reversing the E°<sub>cell</sub> subtraction.** Always more positive minus
-more negative, regardless of which half-cell is "written first" in a
-question — getting this backwards flips the sign and the predicted
-direction of electron flow.
+**Reversing the E°<sub>cell</sub> subtraction.** When finding the EMF of a
+cell freely built from two half-cells, it is always more positive E° minus
+more negative E°, regardless of which half-cell is "written first" — this
+always gives a positive value. But when testing the **feasibility of a
+specified reaction**, use E°(species reduced) − E°(species oxidised) as
+the reaction is actually written: this can come out negative, and a
+negative value correctly signals that the reaction is not feasible.
+Applying the "more positive minus more negative" shortcut to a feasibility
+question makes every reaction look feasible, which is wrong — see the
+iron(III)/chloride example above.
 
 **Forgetting that a pure solid or liquid doesn't appear in the Nernst
 equation's concentration term.** Only aqueous ionic species (or gas
@@ -227,10 +263,14 @@ electrode, since it's the source of electrons the cell itself generates.
 - Q = It; moles of electrons = Q / F
 - Standard hydrogen electrode: E° = 0.00 V by definition, 298 K, 100 kPa,
   1 mol dm⁻³
-- E°<sub>cell</sub> = more positive E° − more negative E°
+- E°<sub>cell</sub> of a freely-built cell = more positive E° − more
+  negative E° (always positive)
+- Feasibility of a *specified* reaction: E°<sub>cell</sub> = E°(species
+  reduced) − E°(species oxidised) — can be negative, meaning infeasible
 - More negative E° = stronger reducing agent; more positive E° = stronger
   oxidising agent
-- Positive E°<sub>cell</sub> = feasible reaction
+- Positive E°<sub>cell</sub> (by the reduced-minus-oxidised construction) =
+  feasible reaction; negative = not feasible as written
 - Nernst equation: E = E° + (0.059/z) log([ox]/[red])
 - ΔG = −nE°<sub>cell</sub>F links electrode potential to Gibbs free energy
 

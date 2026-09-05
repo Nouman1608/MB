@@ -78,6 +78,19 @@ hydrogen bromide/propene as examples; the inductive effect of alkyl groups on
 the stability of primary, secondary and tertiary carbocations formed during
 electrophilic addition, used to explain Markovnikov addition.
 
+## Producing alkanes and alkenes
+
+Alkanes are produced by **hydrogenation** of an alkene (H₂, Pt or Ni
+catalyst — e.g. CH₂=CH₂ + H₂ → CH₃CH₃) or by **cracking** a longer-chain
+alkane (heat, Al₂O₃ catalyst), which also produces shorter alkenes as
+co-products and turns heavier, less useful crude oil fractions into
+lighter, more useful ones. Alkenes are produced by **elimination** of HX
+from a halogenoalkane (ethanolic NaOH, heat), by **dehydration** of an
+alcohol (a heated catalyst such as Al₂O₃, or a concentrated acid such as
+concentrated H₂SO₄), or by cracking. These production routes are why this
+topic links to the halogenoalkanes and alcohols resources elsewhere on
+this site.
+
 ## Alkanes: free-radical substitution
 
 Alkanes are saturated — every carbon–carbon bond is a single covalent bond —
@@ -113,12 +126,44 @@ can trigger many substitutions — this is why the reaction is described as a
 chain reaction. Further substitution beyond mono-substitution is possible in
 principle but only mono-substitution is required for AS Level.
 
+## Combustion of alkanes
+
+**Complete combustion**, with a plentiful supply of oxygen, produces only
+carbon dioxide and water:
+
+CₙH₂ₙ₊₂ + ((3n+1)/2) O₂ → n CO₂ + (n+1) H₂O
+
+**Incomplete combustion**, with a limited supply of oxygen, produces carbon
+monoxide and/or carbon (soot) instead of some of the CO₂, because there is
+not enough oxygen to oxidise every carbon atom fully — for example:
+
+2C₂H₆ + 5O₂ → 4CO + 6H₂O
+
+## Environmental consequences of combustion
+
+Burning hydrocarbons in the internal combustion engine produces pollutants
+beyond CO₂ and H₂O: **carbon monoxide** (toxic, from incomplete
+combustion), **oxides of nitrogen** (NOₓ, formed when N₂ and O₂ from the
+air react together at the high temperature inside the engine, contributing
+to acid rain and photochemical smog), and **unburnt hydrocarbons** (from
+incomplete combustion, also contributing to smog). Catalytic converters
+remove all three pollutants together, converting them into CO₂, N₂ and H₂O
+over a platinum/rhodium catalyst.
+
 ## Alkenes: electrophilic addition
 
 The C=C double bond consists of a σ bond and a π bond. The π bond's electron
 density lies above and below the plane of the molecule, exposed and
 accessible — this is what makes alkenes far more reactive than alkanes and
 what makes them susceptible to attack by electrophiles.
+
+Alkenes undergo electrophilic addition with four reagents: **hydrogen**
+(H₂, Pt or Ni catalyst, heat) to give an alkane; **steam** (H₂O(g), H₃PO₄
+catalyst) to give an alcohol; **a hydrogen halide** (HX(g), room
+temperature) to give a halogenoalkane; and **a halogen** (X₂) to give a
+dihalogenoalkane. The halogen and hydrogen halide additions are detailed
+below because they illustrate the mechanism and Markovnikov's rule most
+clearly.
 
 **Mechanism, bromine and ethene:** as the non-polar Br₂ molecule approaches
 the electron-rich π bond, the approaching electrons induce a temporary dipole
@@ -148,22 +193,46 @@ with HBr, and explain the choice using inductive effects.
 
 Propene is CH₃–CH=CH₂. Protonation of the double bond can place the positive
 charge on C2 (secondary carbocation, CH₃–CH⁺–CH₃) or on C1 (primary
-carbocation, CH₃–CH₂–CH₂⁺). The secondary carbocation is stabilised by
-electron donation from two alkyl groups (the methyl on one side and the
-CH₂⁺ fragment's neighbouring carbon on the other), while the primary
-carbocation is stabilised by only one. The reaction proceeds via the more
+carbocation, CH₃–CH₂–CH₂⁺). The secondary carbocation is stabilised by a
+methyl group on each side of the positively charged carbon — two alkyl
+groups donating electron density into it — while the primary carbocation
+has only one alkyl group doing so. The reaction proceeds via the more
 stable secondary carbocation, so bromide attacks C2. The major product is
 **2-bromopropane**, CH₃–CHBr–CH₃, with 1-bromopropane forming only as a
 minor product.
 
-## Locating a double bond by oxidative cleavage
+## Oxidation with acidified KMnO₄: diols and locating a double bond
 
-Hot concentrated acidified KMnO₄ breaks the C=C bond completely, and the
+**Cold, dilute** acidified KMnO₄ oxidises the C=C bond to a **diol** (an
+–OH group is added to each of the two carbons that were double-bonded)
+without breaking the carbon chain — for example, ethene gives ethane-1,2-diol.
+This reaction is also usable as a test for unsaturation, since the purple
+KMnO₄ is decolourised.
+
+**Hot, concentrated** acidified KMnO₄ breaks the C=C bond completely, and the
 identity of the fragments tells you where the double bond was: a
 terminal =CH₂ group is oxidised all the way to CO₂ and water, an internal
 =CH– group is oxidised to a carboxylic acid, and a fully substituted =CR₂
 group is oxidised to a ketone. Working backwards from the products to the
 alkene's structure is a standard structure-determination question.
+
+## Addition polymerisation
+
+Alkenes undergo addition polymerisation: many alkene monomers join through
+their π bonds into a long-chain polymer, with no other product formed. For
+example, n CH₂=CH₂ → –(CH₂–CH₂)ₙ– (poly(ethene)), and propene polymerises
+the same way to give poly(propene). The repeat unit contains the same atoms
+as the monomer, just with the former C=C bond opened into two single bonds
+linking to neighbouring repeat units.
+
+## Testing for a C=C bond: aqueous bromine
+
+Shaking an alkene with aqueous bromine (bromine water) decolourises it
+rapidly, in the dark, at room temperature, as Br₂ adds across the C=C bond
+to give a colourless dibromo compound. Alkanes do not decolourise bromine
+water under these conditions — they only react with Br₂ slowly, and only
+under ultraviolet light, via substitution — so this test distinguishes an
+alkene from an alkane without needing UV light or heat.
 
 ## Common mistakes
 

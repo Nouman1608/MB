@@ -151,7 +151,7 @@ molecules*.** The covalent bonds within each molecule are strong; only the
 intermolecular forces are weak — melting only has to overcome the latter.
 - **Assuming all giant molecular structures fail to conduct.** Graphite is
 the standard exception, and the reason (delocalised electrons within each
-layer, from the one non-bonding outer electron per carbon atom) is worth
+layer, from the one delocalised outer electron per carbon atom) is worth
 being able to state, not just recall as an exception.
 - **Forgetting to convert units before using pV = nRT.** Pressure must be
 in Pa, volume in m³, and temperature in K — using kPa, dm³ or °C directly

@@ -104,7 +104,7 @@ Haber:    N2 + 3H2 <=> 2NH3     450 C, 200 atm, iron catalyst
 Contact:  2SO2 + O2 <=> 2SO3    450 C, 1-2 atm, V2O5 catalyst
 ```
 
-**The answer is always rate versus yield, plus cost.** Low temperature would give a better yield but unacceptably slowly, so a moderate temperature is a compromise. High pressure improves yield but costs more in plant and energy — which is why the Contact process, already achieving ~96% conversion, runs near atmospheric pressure while the Haber process pays for 200 atm.
+**The answer is always rate versus yield, plus cost.** Low temperature would give a better yield but unacceptably slowly, so a moderate temperature is a compromise. High pressure improves yield but costs more in plant and energy — which is why the Contact process, with industrial SO₂-to-SO₃ conversion typically quoted at around 96-99.5% (depending on plant and source), runs near atmospheric pressure while the Haber process pays for 200 atm.
 
 The catalyst does not improve yield. It only shortens the time to reach equilibrium.
 

@@ -64,15 +64,15 @@ Step 3  The nucleophile (e.g. Br-) attacks the carbocation
 | Br₂ | Room temperature | Dibromoalkane — **decolourises** bromine water |
 | HBr | Room temperature | Halogenoalkane |
 | H₂O(g) | H₃PO₄ catalyst, 300 °C, 60 atm | Alcohol |
-| Cold dilute KMnO₄ | — | Diol; purple → colourless |
+| Cold dilute acidified KMnO₄ | — | Diol; purple → colourless |
 | O₂ | — | Combustion |
 
 **The test for unsaturation:** bromine water, orange-brown → **colourless**.
 
 ## Locating a double bond by oxidative cleavage
 
-**Hot, concentrated** acidified KMnO₄ (unlike the cold, dilute version
-used for the diol test) breaks the C=C bond completely. The fragments
+**Hot, concentrated** acidified KMnO₄ (unlike the cold, dilute
+acidified version used for the diol test) breaks the C=C bond completely. The fragments
 produced tell you exactly where the double bond was:
 
 ```
@@ -94,7 +94,7 @@ Combining the two fragments:  (CH3)2C=CH2   (2-methylpropene)
 
 Working backwards from the oxidation products to the alkene's
 structure this way is a standard structure-determination question, and
-is worth distinguishing clearly from the cold dilute KMnO₄ diol test —
+is worth distinguishing clearly from the cold dilute acidified KMnO₄ diol test —
 the two use the same reagent but very different conditions, and give
 completely different types of information.
 
@@ -116,7 +116,7 @@ Alkyl groups are **electron-donating**, so they spread the positive charge and s
 - Saying bromine water goes "clear" — it goes **colourless**.
 - Quoting Markovnikov without explaining carbocation stability.
 - Writing termination as a single step — any two radicals combining counts.
-- Using cold dilute KMnO₄ conditions when a question specifically requires C=C bond cleavage (which needs **hot, concentrated** acidified KMnO₄) — the two conditions test entirely different things.
+- Using cold dilute acidified KMnO₄ conditions when a question specifically requires C=C bond cleavage (which needs **hot, concentrated** acidified KMnO₄) — the two conditions test entirely different things.
 - Forgetting that a fully-substituted =CR₂ carbon gives a **ketone** on oxidative cleavage, not a carboxylic acid — only a =CH– carbon (with one hydrogen still attached) can be oxidised as far as an acid.
 
 ## Self-test

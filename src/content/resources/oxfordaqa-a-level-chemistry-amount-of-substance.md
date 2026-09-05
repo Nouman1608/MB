@@ -7,7 +7,7 @@ topic: "Physical chemistry"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
-syllabusSeries: "First teaching 2019, first AS and A-level exams 2020 (specification updated November 2022, Version 4.3)"
+syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
 order: 2
 description: "Relative atomic and molecular mass, the mole and Avogadro constant, the ideal gas equation, empirical and molecular formulae, and balanced-equation calculations including percentage atom economy, for OxfordAQA International AS and A-level Chemistry 9620, section 3.1.2."
 author: "marlbridge-academic-team"

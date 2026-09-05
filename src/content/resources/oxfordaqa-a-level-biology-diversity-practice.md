@@ -7,7 +7,7 @@ topic: "Unit 1 – The Diversity of Living Organisms"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9610"]
-syllabusSeries: "Version 5.1, for International A-level exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1 (International A-level exams May/June 2018 onwards)"
 order: 1
 stage: "AS"
 syllabusTopics:

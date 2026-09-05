@@ -52,7 +52,7 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 **(b)** State the positive observation. **[1]**
 **(c)** State which structural feature gives a positive result. **[2]**
 
-**6.** Compare the two industrial routes to ethanol — hydration of ethene and fermentation — on **rate**, **purity** and **sustainability**. **[6]**
+**6. (Fermentation is prior IGCSE knowledge, not itself an AS 9701 syllabus point — 16.1.1 lists six AS production routes for alcohols and fermentation is not one of them. Included here for context and comparison only; no AS marks are awarded for fermentation recall alone, only for the hydration-of-ethene side.)** Compare the two industrial routes to ethanol — hydration of ethene and fermentation — on **rate**, **purity** and **sustainability**. **[6]**
 
 **7.** Ethanol is added separately to (i) a small piece of sodium and (ii) phosphorus(V) chloride (PCl₅).
 
@@ -78,20 +78,21 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 **(c)** **Orange to green** [1].
 **(d)** **No reaction / no colour change** [1], because a tertiary alcohol has **no hydrogen on the carbon bearing the OH group**, so it cannot be oxidised without breaking a C–C bond [1].
 
-**4. (a)** **Concentrated sulfuric acid** (or Al₂O₃ catalyst), heated to about **170 °C** [1] [1].
+**4. (a)** Either **concentrated sulfuric acid, heated to about 170 °C** (elimination in the liquid phase) [1], **or** alcohol **vapour passed over a heated aluminium oxide (Al₂O₃) catalyst at about 300–400 °C** [1].
 **(b)** **Elimination** (dehydration) [1].
 
 **5. (a)** **Iodine and sodium hydroxide** (alkaline aqueous iodine) [1].
 **(b)** A **pale yellow precipitate** with an antiseptic smell [1].
 **(c)** The presence of a **CH₃CH(OH)–** group [1] or a **CH₃CO–** group [1].
 
-**6. Rate:** hydration of ethene is **fast and continuous**; fermentation is **slow and batch** [1] [1].
+**6. (Background context; marks apply to the hydration-of-ethene content, which is the AS syllabus route.)**
+**Rate:** hydration of ethene is **fast and continuous**; fermentation is **slow and batch** [1] [1].
 **Purity:** hydration gives a **pure product**; fermentation gives a **dilute aqueous mixture** requiring fractional distillation [1] [1].
 **Sustainability:** hydration uses **ethene from crude oil**, which is finite and non-renewable [1]; fermentation uses **renewable plant material** and is close to carbon neutral, but competes with food production for land [1].
 
 **7. (a)** With sodium: **effervescence** (bubbles of gas) as the sodium reacts and gradually disappears [1]. With PCl₅: **misty/steamy white fumes** (of HCl) are produced [1].
 **(b)** `2CH₃CH₂OH + 2Na → 2CH₃CH₂ONa + H₂` [1].
-**(c)** The **white fumes are a positive, distinctive result specific to the -OH group** reacting with PCl₅, so their appearance confirms the presence of an alcohol (or other -OH-containing compound) without needing further tests [1].
+**(c)** PCl₅ **substitutes the hydroxyl group**, replacing –OH with –Cl to give a chloroalkane [1], and **HCl gas is released as a by-product**, which fumes visibly (misty/steamy white fumes) on contact with moist air — so the appearance of these fumes shows that an –OH group was present and has reacted.
 
 **8. (a)** **Esterification** (condensation) [1]; the product is **ethyl ethanoate** [1].
 **(b)** It acts as a **catalyst** for the reaction [1].

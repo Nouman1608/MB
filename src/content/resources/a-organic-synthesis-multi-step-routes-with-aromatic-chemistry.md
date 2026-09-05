@@ -65,7 +65,7 @@ amide/amine interconversions — considerably widening what a single
 synthesis route can achieve, and correspondingly widening what can go
 wrong if a step is misapplied.
 
-## Worked example: benzene to phenylethanoic acid derivatives
+## Worked example: synthesis of 4-nitrophenyl ethanoate
 
 **Devise a synthesis of 4-nitrophenyl ethanoate from benzene.**
 

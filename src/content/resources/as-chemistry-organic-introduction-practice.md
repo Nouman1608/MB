@@ -41,7 +41,7 @@ Related: [Introduction to Organic Chemistry revision notes](/resources/as-chemis
 
 **1.** Define homologous series, functional group and general formula, using an example of each. **[3]**
 
-**2.** Give the empirical, molecular, structural, displayed and skeletal formula meanings, briefly. **[3]**
+**2.** Give the empirical, molecular, structural, displayed and skeletal formula meanings, briefly (any 3 of 5). **[3]**
 
 ## Section B
 
@@ -60,9 +60,9 @@ Related: [Introduction to Organic Chemistry revision notes](/resources/as-chemis
 
 **8.** State the rules for drawing a curly arrow correctly in a reaction mechanism. **[4]**
 
-**9.** Alkenes react with electrophiles by addition, but arenes (despite containing a delocalised ring of electrons) react by substitution instead. Explain why. **[3]**
+**9.** Hydrogen cyanide, HCN, adds to propanone, CH₃COCH₃, across the C=O bond. Identify the mechanism type, and explain the role of the C=O bond's polarity and of the cyanide ion in this reaction. **[3]**
 
-**10.** Match each substrate to the mechanism it undergoes: (i) an alkane with a halogen and UV light, (ii) an alkene, (iii) a halogenoalkane, (iv) an arene. **[4]**
+**10.** Match each substrate to the mechanism it undergoes: (i) an alkane with a halogen and UV light, (ii) an alkene, (iii) a halogenoalkane, (iv) a carbonyl compound (aldehyde or ketone). **[4]**
 
 ---
 
@@ -79,15 +79,15 @@ Related: [Introduction to Organic Chemistry revision notes](/resources/as-chemis
 
 **5. Structural isomerism** — same molecular formula, **different arrangement of atoms**, e.g. butane and 2-methylpropane [1] (an umbrella term covering the three specific types below). **Chain** — the **carbon skeleton differs**, e.g. pentane and 2-methylbutane [1]. **Position** — the **functional group is on a different carbon**, e.g. propan-1-ol and propan-2-ol [1]. **Functional group** — a **different functional group entirely**, e.g. propan-1-ol and methoxyethane [1].
 
-**6. Electrophile** — an **electron-pair acceptor**, attracted to regions of high electron density [1]. **Nucleophile** — an **electron-pair donor**, attracted to electron-deficient atoms [1]. **Free radical** — a species with an **unpaired electron**, formed by homolytic fission [1]. **Heterolytic fission** — a bond breaks with **both electrons going to one atom**, forming a positive and a negative ion [1].
+**6. Electrophile** — an **electron-pair acceptor**, attracted to regions of high electron density [1]. **Nucleophile** — an **electron-pair donor**, attracted to electron-deficient atoms [1]. **Free radical** — a species with an **unpaired electron**, formed by homolytic fission [1]. **Heterolytic fission** — a bond breaks with **both electrons going to one atom**, forming a positive and a negative ion; this contrasts with **homolytic fission**, where a bond breaks with **one electron going to each atom**, forming two free radicals [1].
 
 **7.** Each member has the **same functional group**, and it is the functional group that determines chemical reactivity [1]. Physical properties change gradually because each member has **one more CH₂ than the last** [1], increasing the **molecular size and therefore the strength of the London forces**, so boiling point rises steadily [1].
 
 **8.** A full arrow shows a **pair** of electrons moving; a half-arrow shows just one [1]. It must start from a **bond or a lone pair**, never from an atom or a charge [1], and end where the electrons go [1]. Charges must **balance** on both sides of the equation [1].
 
-**9.** Benzene's delocalised ring of electrons gives it **extra stability** (delocalisation energy) that would be **destroyed by addition** [1], since addition would localise two of the ring's electrons into a new bond and break the delocalised system [1]. An alkene's π bond is **localised and expendable**, with no such stabilising system to lose, so addition is energetically favourable there instead [1].
+**9.** Oxygen is **more electronegative than carbon**, so the C=O bond is polar, with the carbonyl carbon **δ+** and the oxygen **δ−** [1]. The cyanide ion, CN⁻, acts as a **nucleophile**, attacking the electron-deficient carbonyl carbon; the π bond breaks and both electrons move onto the oxygen, forming an alkoxide ion that is then protonated [1]. Because a nucleophile adds across a double bond with nothing leaving, this is **nucleophilic addition** [1].
 
-**10. (i)** **Free radical substitution** [1]. **(ii)** **Electrophilic addition** [1]. **(iii)** **Nucleophilic substitution** [1]. **(iv)** **Electrophilic substitution** [1].
+**10. (i)** **Free radical substitution** [1]. **(ii)** **Electrophilic addition** [1]. **(iii)** **Nucleophilic substitution** [1]. **(iv)** **Nucleophilic addition** [1].
 
 ---
 
@@ -98,5 +98,5 @@ Related: [Introduction to Organic Chemistry revision notes](/resources/as-chemis
 - Saying branched alkanes have weaker covalent bonds.
 - Defining a nucleophile as "negatively charged" rather than as an electron-pair donor.
 - Drawing a curly arrow starting from an atom or a positive charge instead of a bond or a lone pair.
-- Assuming benzene reacts like an alkene simply because it has C=C-type bonds in its structure — delocalisation makes it behave completely differently.
-- Mixing up which of the four mechanisms applies to which substrate — link the substrate type (alkane, alkene, halogenoalkane, arene) to the mechanism name every time, rather than guessing.
+- Assuming a carbonyl compound reacts like an alkene simply because both contain a carbon-to-something double bond — in a C=O bond the carbon is δ+ and attracts a nucleophile, the reverse of the C=C bond in an alkene, which attracts an electrophile.
+- Mixing up which of the four mechanisms applies to which substrate — link the substrate type (alkane, alkene, halogenoalkane, carbonyl compound) to the mechanism name every time, rather than guessing.

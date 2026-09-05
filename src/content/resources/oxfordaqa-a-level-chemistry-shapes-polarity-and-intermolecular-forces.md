@@ -7,7 +7,7 @@ topic: "Physical chemistry"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
-syllabusSeries: "First teaching 2019, first AS and A-level exams 2020 (specification updated November 2022, Version 4.3)"
+syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
 order: 4
 description: "Electron-pair repulsion theory and molecular shapes, electronegativity and bond polarity, and the three types of intermolecular force including hydrogen bonding, for OxfordAQA International AS and A-level Chemistry 9620, sections 3.1.3.5 to 3.1.3.7."
 author: "marlbridge-academic-team"

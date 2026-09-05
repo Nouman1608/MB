@@ -86,13 +86,13 @@ The split size, and hence the colour, changes with **ligand, oxidation state, an
 | 4 with small ligands, e.g. Ni²⁺, Pt²⁺ | Square planar |
 | 2 | Linear |
 
-**Ligand exchange** — a stronger ligand displaces a weaker one. Order of strength: CN⁻ > NH₃ > H₂O > Cl⁻.
+**Ligand exchange** — the ligand exchange that actually occurs is the one giving the complex with the larger **stability constant (Kstab)** under the conditions used, not a single fixed "strength order" applied regardless of concentration. NH₃ and CN⁻ typically form more stable complexes than H₂O at ordinary concentrations, but a **very high concentration** of Cl⁻ can still drive out H₂O by mass action, as below — this is a concentration effect, not proof that Cl⁻ is intrinsically a stronger ligand.
 
-**Worked examples.** [Cu(H₂O)₆]²⁺ (pale blue, octahedral) + excess NH₃(aq) → [Cu(NH₃)₄(H₂O)₂]²⁺ (deep blue, distorted octahedral) — only four of six waters are replaced. [Cu(H₂O)₆]²⁺ + excess concentrated HCl → [CuCl₄]²⁻ (yellow, tetrahedral) — coordination number falls from 6 to 4 because Cl⁻ is too large to fit six around the ion. [Co(H₂O)₆]²⁺ (pink) behaves the same way: + excess NH₃(aq) → [Co(NH₃)₆]²⁺ (yellow-brown); + excess concentrated HCl → [CoCl₄]²⁻ (blue, tetrahedral).
+**Worked examples.** [Cu(H₂O)₆]²⁺ (pale blue, octahedral) + excess NH₃(aq) → [Cu(NH₃)₄(H₂O)₂]²⁺ (deep blue, distorted octahedral) — only four of six waters are replaced. [Cu(H₂O)₆]²⁺ + excess **concentrated** HCl → [CuCl₄]²⁻ (yellow-green, tetrahedral) — coordination number falls from 6 to 4 because Cl⁻ is too large to fit six around the ion; this reaction needs a high Cl⁻ concentration (mass action) precisely because Cl⁻ is not, on its own, as strong a ligand as H₂O or NH₃. [Co(H₂O)₆]²⁺ (pink) behaves the same way: + excess NH₃(aq) → [Co(NH₃)₆]²⁺ (yellow-brown); + excess concentrated HCl → [CoCl₄]²⁻ (blue, tetrahedral).
 
-With **limited** (not excess) OH⁻ or NH₃, a **precipitate** forms instead — e.g. Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s), pale blue — since OH⁻ is acting as a base rather than as a ligand.
+**NaOH(aq)** precipitates the metal hydroxide at any concentration, limited or excess — e.g. Cu²⁺(aq) + 2OH⁻(aq) → Cu(OH)₂(s), pale blue — and this precipitate does **not** redissolve in excess NaOH(aq), since OH⁻ is acting as a base rather than as a ligand. **NH₃(aq)**, by contrast, gives the same kind of precipitate with limited NH₃ (also acting as a base), but that precipitate **does** redissolve in excess NH₃(aq), forming the soluble ammine complex by ligand exchange.
 
-The **chelate effect**: multidentate ligands displace monodentate ones because the reaction increases the number of free particles, so **ΔS is positive** and ΔG becomes more negative. It is an entropy effect, not an enthalpy one — that's the mark.
+*(Background, beyond 9701's 28.1/28.2 outcomes.)* The **chelate effect**: multidentate ligands displace monodentate ones because the reaction increases the number of free particles, so **ΔS is positive** and ΔG becomes more negative. It is an entropy effect, not an enthalpy one.
 
 ## Key colours
 
@@ -115,7 +115,7 @@ Multiple accessible oxidation states make transition elements central to redox t
 
 **MnO₄⁻/C₂O₄²⁻:** 2MnO₄⁻ + 16H⁺ + 5C₂O₄²⁻ → 2Mn²⁺ + 10CO₂ + 8H₂O. Purple MnO₄⁻ reacting with colourless C₂O₄²⁻/Mn²⁺ makes this titration **self-indicating** — the end point is the first permanent pink tinge.
 
-**Cu²⁺/I⁻ (iodometry):** 2Cu²⁺ + 4I⁻ → 2CuI(s) + I₂. Cu²⁺ oxidises I⁻ to I₂ while being reduced to Cu⁺, which precipitates as white CuI; the liberated I₂ is then titrated against standardised thiosulfate — an **indirect** method, since Cu²⁺ has no sharp end point of its own.
+**Cu²⁺/I⁻ (iodometry):** 2Cu²⁺ + 4I⁻ → 2CuI(s) + I₂. Cu²⁺ oxidises I⁻ to I₂ while being reduced to Cu⁺, which precipitates as white CuI; the liberated I₂ is then titrated against standardised thiosulfate — an **indirect** method, since Cu²⁺ has no sharp end point of its own. Note: E°(Cu²⁺/Cu⁺) = +0.15 V and E°(I₂/I⁻) = +0.54 V give E°cell = 0.15 − 0.54 = **−0.39 V**, which looks infeasible from standard-conditions data alone — but the reaction proceeds because the very low solubility of CuI removes Cu⁺ from solution as fast as it forms, shifting the equilibrium and driving the reaction forward (Le Chatelier), a case where product removal matters more than the standard-conditions calculation.
 
 ## Exam traps
 
@@ -131,6 +131,6 @@ Multiple accessible oxidation states make transition elements central to redox t
 2. Give the electron configuration of Cr and of Fe²⁺.
 3. Explain colour in four steps.
 4. Why is `[Zn(H₂O)₆]²⁺` colourless?
-5. Why does EDTA⁴⁻ displace six water ligands?
+5. (Background, beyond 9701's 28.1/28.2 outcomes.) Why does EDTA⁴⁻ displace six water ligands?
 
 **Answers:** 1. A d-block element that forms at least one stable ion with a partially filled d subshell; zinc forms only Zn²⁺, which is 3d¹⁰ — full, not partially filled. 2. Cr = [Ar]3d⁵4s¹; Fe²⁺ = [Ar]3d⁶. 3. Ligands split the d-orbitals; an electron absorbs a photon of energy equal to ΔE and is promoted; that frequency is removed from white light; the complementary colour is transmitted. 4. Zn²⁺ is d¹⁰ — the d subshell is full, so no d–d transition is possible. 5. The chelate effect: one EDTA⁴⁻ replaces six H₂O, increasing the number of free particles, so ΔS is positive and ΔG more negative.

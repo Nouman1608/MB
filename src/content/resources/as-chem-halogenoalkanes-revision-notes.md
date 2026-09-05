@@ -52,12 +52,13 @@ each have just one.
 |---|---|---|
 | Favoured by | **Primary** | **Tertiary** |
 | Steps | **One** — concerted | **Two** — via carbocation |
-| Rate depends on | Both halogenoalkane **and** nucleophile | Halogenoalkane **only** |
-| Rate equation | rate = k[RX][Nu⁻] | rate = k[RX] |
+| Rate depends on *(A Level extension — not required at AS)* | Both halogenoalkane **and** nucleophile | Halogenoalkane **only** |
 | Intermediate | Transition state | **Carbocation** |
-| Stereochemistry | **Inversion** of configuration | Racemic mixture |
+| Stereochemistry | **Inversion** of configuration | Racemic mixture ("racemic" is an A Level term — at AS, "equal amounts of both enantiomers" is enough) |
 
 **Why tertiary favours SN1:** three alkyl groups are electron-donating, stabilising the carbocation. **Why primary favours SN2:** less steric hindrance allows the nucleophile to attack the δ+ carbon.
+
+At AS, this is described **qualitatively** — SN1 is generally slower for primary halogenoalkanes and faster for tertiary, due to the greater stability of more substituted carbocations. Writing out rate equations, rate constants or identifying the rate-determining step by name is **A Level extension content (Topic 26)**, not required at AS.
 
 Secondary halogenoalkanes proceed by both.
 
@@ -72,7 +73,7 @@ Secondary halogenoalkanes proceed by both.
 
 ```
 + aqueous NaOH, heat under reflux  ->  ALCOHOL
-+ ethanolic KOH, heat              ->  ALKENE   (elimination)
++ ethanolic NaOH, heat             ->  ALKENE   (elimination)
 + ethanolic KCN, heat under reflux ->  NITRILE  (chain lengthens by 1 C)
 + ethanolic NH3, heat in sealed tube -> AMINE
 + aqueous AgNO3 in ethanol         ->  silver halide precipitate
@@ -104,7 +105,7 @@ Rate-determining step = breaking the C-X bond
 Bond strength: C-Cl > C-Br > C-I  ->  weakest bond breaks FASTEST
 
 Order of precipitate appearing (fastest to slowest):
-  1-iodobutane   -> AgI, cream-to-yellow  (fastest)
+  1-iodobutane   -> AgI, yellow           (fastest)
   1-bromobutane  -> AgBr, cream
   1-chlorobutane -> AgCl, white           (slowest)
 ```
@@ -127,14 +128,14 @@ mechanism choice.
 ## Self-test
 
 1. Which mechanism does a tertiary halogenoalkane favour, and why?
-2. What product forms with hot ethanolic KOH?
+2. What product forms with hot ethanolic NaOH?
 3. Why do iodoalkanes hydrolyse faster than chloroalkanes?
-4. Give the rate equation for an SN2 reaction.
+4. Describe, qualitatively, how the rate of SN1 hydrolysis changes from a primary to a tertiary halogenoalkane.
 5. Which reagent lengthens the carbon chain by one?
 6. Name the three classes of AS organic compound from which a halogenoalkane can be made.
 7. Equal amounts of 1-chlorobutane and 1-iodobutane are warmed with aqueous silver nitrate. Which produces a precipitate faster, and why?
 
-**Answers:** 1. SN1 — the three electron-donating alkyl groups stabilise the carbocation intermediate. 2. An alkene, by elimination. 3. The C–I bond has the lowest bond enthalpy, so it breaks most readily; the trend follows bond strength, not polarity. 4. rate = k[halogenoalkane][nucleophile]. 5. Ethanolic KCN — the nitrile formed adds one carbon. 6. Alkanes (free-radical substitution with X₂/UV), alkenes (electrophilic addition with X₂ or HX), and alcohols (substitution, e.g. with PCl₅). 7. 1-iodobutane, because the C–I bond is weaker than the C–Cl bond, so it breaks faster in the rate-determining step even though both react by the same SN2 mechanism.
+**Answers:** 1. SN1 — the three electron-donating alkyl groups stabilise the carbocation intermediate. 2. An alkene, by elimination. 3. The C–I bond has the lowest bond enthalpy, so it breaks most readily; the trend follows bond strength, not polarity. 4. SN1 is slowest for a primary halogenoalkane and fastest for a tertiary one, because more alkyl groups stabilise the carbocation intermediate more effectively. 5. Ethanolic KCN — the nitrile formed adds one carbon. 6. Alkanes (free-radical substitution with X₂/UV), alkenes (electrophilic addition with X₂ or HX), and alcohols (substitution, e.g. with PCl₅). 7. 1-iodobutane, because the C–I bond is weaker than the C–Cl bond, so it breaks faster in the rate-determining step even though both react by the same SN2 mechanism.
 
 For the full mechanism diagrams and production routes, see the
 [Halogenoalkanes study guide](/resources/as-halogenoalkanes/).

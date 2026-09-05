@@ -117,7 +117,13 @@ ionisation, so alcohols are the weaker acid.
 
 ## Ethanol production — the two routes
 
-| | Fermentation | Hydration of ethene |
+**Fermentation is prior (IGCSE) knowledge, not itself an AS 9701 syllabus
+point** — 16.1.1 names six production routes for alcohols and fermentation
+is not one of them. It is included below only as useful context for
+comparing with hydration of ethene, which **is** the AS syllabus route; no
+AS marks are awarded for fermentation recall alone.
+
+| | Fermentation *(prior knowledge — not AS-examinable)* | Hydration of ethene *(AS syllabus route)* |
 |---|---|---|
 | Feedstock | Sugars (renewable) | Ethene (from crude oil, finite) |
 | Conditions | 30–40 °C, yeast, anaerobic | 300 °C, 60 atm, H₃PO₄ |

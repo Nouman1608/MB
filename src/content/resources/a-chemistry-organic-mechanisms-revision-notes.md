@@ -20,6 +20,9 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-an-introduction-to-a-level-organic-chemistry"
     subtopic: "a-shapes-of-aromatic-organic-molecules"
+  - qualification: "a-level"
+    topic: "a-hydrocarbons"
+    subtopic: "a-arenes"
 description: "Condensed recall notes on the four reaction mechanisms, curly-arrow rules and benzene delocalisation for Cambridge A Level Chemistry 9701."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
@@ -27,11 +30,19 @@ featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
-[Organic Chemistry: Naming, Mechanisms and Aromatic Shape study guide](/resources/a-organic-chemistry-naming-mechanisms-and-aromatic-shape/).
+[Organic Chemistry: Naming, Mechanisms and Aromatic Shape study guide](/resources/a-organic-chemistry-naming-mechanisms-and-aromatic-shape/) —
+note that this study guide covers the naming, mechanisms and aromatic-shape
+outcomes (Topics 29) in depth, but the **benzene reagents/conditions table
+below (Topic 30) goes beyond what that guide covers**, so treat this page
+as the primary reference for that material. The **substitution mechanisms
+and bond-strength reactivity (Topic 15)** and **Markovnikov/carbocation
+stability and free-radical substitution (Topic 14)** covered below are AS
+material included here as **recap and context** for the A Level mechanisms
+that build on them, not new A Level content in themselves.
 
 ## New functional groups and naming at A Level
 
-Five functional groups appear for the first time at A Level:
+Seven functional groups appear for the first time at A Level:
 
 | Functional group | Example | Name |
 |---|---|---|
@@ -41,6 +52,7 @@ Five functional groups appear for the first time at A Level:
 | Acyl chloride | CH₃CH₂COCl | propanoyl chloride |
 | Amide | CH₃CH₂CONH₂ | propanamide |
 | Amino acid | HOOCCH(NH₂)H | 2-aminoethanoic acid |
+| Secondary/tertiary amine | (CH₃)₂NH | dimethylamine |
 
 **Aromatic naming** adds numbering around the ring to locate substituents, e.g. **3-nitrobenzoic acid** (a benzoic acid with a nitro group at position 3) or **2,4,6-tribromophenol** (a phenol with bromine at positions 2, 4 and 6). Secondary and tertiary amines can be recognised and drawn, but naming them systematically is not required at this level.
 
@@ -77,6 +89,10 @@ Most mechanism marks are lost on rules 2 and 4.
 Tertiary goes Sₙ1 because the carbocation formed is stabilised by **three electron-donating alkyl groups** (positive inductive effect) — and because the crowded carbon blocks backside attack. Primary goes Sₙ2 because the primary carbocation is too unstable to form.
 
 **Rate by halogen: C–I > C–Br > C–Cl > C–F.** This follows **bond enthalpy**, not electronegativity. C–F is the most polar bond but by far the strongest, so fluoroalkanes are the least reactive — a favourite trap.
+
+## Addition-elimination
+
+A fifth pattern, distinct from the four basic mechanisms above: a nucleophile first **adds** to a carbon (as in nucleophilic addition), and the resulting tetrahedral intermediate then **eliminates** a leaving group to restore a double bond, rather than simply picking up a proton. This two-stage add-then-eliminate pattern is why the overall transformation looks like substitution (one group replaces another) even though the mechanism passes through an addition intermediate first — contrast it with simple addition (nothing leaves, e.g. HCN adding to a carbonyl) and simple substitution (no addition intermediate, e.g. a nucleophile directly displacing a leaving group from a halogenoalkane).
 
 ## Electrophilic addition to alkenes
 
@@ -121,6 +137,6 @@ Every one proceeds by the same three-step pattern: generate the electrophile, at
 3. Which halogenoalkane hydrolyses fastest and why?
 4. Give three pieces of evidence for delocalisation in benzene.
 5. What is the final step of every electrophilic substitution on benzene?
-6. Name the six functional groups introduced for the first time at A Level.
+6. Name the seven functional groups introduced for the first time at A Level.
 
-**Answers:** 1. Arrows represent a pair of electrons; they start from a bond or lone pair, never an atom or charge; charges must balance. 2. An alkene's localised π bond is expendable and addition gains two σ bonds; benzene's delocalised system confers extra stability that addition would destroy, so substitution is preferred. 3. The iodoalkane — C–I has the lowest bond enthalpy, so it breaks most readily; polarity is irrelevant here. 4. All C–C bond lengths equal at 139 pm; enthalpy of hydrogenation ~152 kJ mol⁻¹ less exothermic than predicted; resistance to addition and failure to decolourise bromine water. 5. Loss of H⁺ from the intermediate, restoring the delocalised aromatic ring. 6. Arene, halogenoarene, phenol, acyl chloride, amide, and amino acid.
+**Answers:** 1. Arrows represent a pair of electrons; they start from a bond or lone pair, never an atom or charge; charges must balance. 2. An alkene's localised π bond is expendable and addition gains two σ bonds; benzene's delocalised system confers extra stability that addition would destroy, so substitution is preferred. 3. The iodoalkane — C–I has the lowest bond enthalpy, so it breaks most readily; polarity is irrelevant here. 4. All C–C bond lengths equal at 139 pm; enthalpy of hydrogenation ~152 kJ mol⁻¹ less exothermic than predicted; resistance to addition and failure to decolourise bromine water. 5. Loss of H⁺ from the intermediate, restoring the delocalised aromatic ring. 6. Arene, halogenoarene, phenol, acyl chloride, amide, amino acid, and secondary/tertiary amines.

@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-analytical-techniques"
     subtopic: "a-gas-liquid-chromatography"
-description: "Original exam-style practice questions with full worked answers on TLC, gas chromatography, Rf values and GC-MS for A Level Chemistry."
+description: "Original exam-style practice questions with full worked answers on TLC, gas chromatography, Rf values and percentage composition for A Level Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -27,7 +27,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-revision-notes/), which covers TLC, GLC and GC-MS in full.
+Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-revision-notes/), which covers TLC and GLC in full, plus GC-MS as enrichment beyond the specification.
 
 ---
 
@@ -54,9 +54,9 @@ Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-r
 **(c)** Explain what the peak area represents. **[2]**
 **(d)** State one limitation of the technique. **[1]**
 
-**5.** Explain why GC–MS is more useful than gas chromatography alone, and name one field where it is used. **[3]**
+**5.** A GLC trace of a three-component mixture gives peak areas of 12.0, 28.0 and 20.0 (arbitrary units) for P, Q and R respectively. Calculate the percentage composition by peak area of component Q. **[2]**
 
-**6.** A student uses TLC on colourless amino acids. Describe how the spots are made visible. **[2]**
+**6.** *(Background — visualisation methods are not required recall for 9701; included for practical context only, no marks awarded.)* A student uses TLC on colourless amino acids. Suggest how the spots could be made visible.
 
 **7.** A silica TLC plate is used to separate two components: one polar, one non-polar. Explain which component travels further up the plate, and why. **[3]**
 
@@ -83,9 +83,9 @@ Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-r
 **(c)** The **amount (or concentration) of that component** in the mixture [1], so the technique is quantitative once calibrated against known standards [1].
 **(d)** The sample must be **volatile and thermally stable** [1].
 
-**5.** Gas chromatography only **separates** the mixture and gives retention times, which two compounds may share [1]. The mass spectrometer then **identifies each separated component** from its molecular ion and fragmentation pattern [1]. Used in **forensics**, drug testing or environmental analysis, where certain identification matters as much as separation [1].
+**5.** Total area = 12.0 + 28.0 + 20.0 = 60.0 [1]; percentage of Q = (28.0 ÷ 60.0) × 100% = **46.7%** [1].
 
-**6.** Use a **locating agent such as ninhydrin**, which reacts with amino acids to give a characteristic purple/blue colour [1], or view under **ultraviolet light** if the plate contains a fluorescent indicator [1].
+**6.** *(Background, not assessed.)* A **locating agent such as ninhydrin** reacts with amino acids to give a characteristic purple/blue colour, or the plate can be viewed under **ultraviolet light** if it contains a fluorescent indicator.
 
 **7.** The **non-polar** component travels further, giving it the higher R_f value [1]. Silica is a **polar** stationary phase [1], so the **polar** component is **retained more strongly** on it, while the non-polar component has a **greater affinity for the mobile phase (solvent)** and is carried further up the plate [1].
 
@@ -103,6 +103,6 @@ Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-r
 - Forgetting that GLC requires a volatile, thermally stable sample.
 - Explaining Rf differences without linking polarity to which phase the component is attracted to — "it moves further" is not a reason on its own.
 - Assuming retention time depends only on boiling point — solubility in the stationary phase matters just as much.
-- Forgetting that ninhydrin only develops colourless amino-acid spots; it is not needed for spots that are already coloured.
+- (Background point, not examinable) Ninhydrin only develops colourless amino-acid spots; it is not needed for spots that are already coloured.
 
 Work through these alongside the [chromatography revision notes](/resources/a-chemistry-chromatography-revision-notes/): the notes set out the principle and the definitions, while these questions test whether you can apply the polarity and volatility arguments to a specific pair of compounds rather than just recite the theory.

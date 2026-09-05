@@ -59,6 +59,30 @@ calculating and using Kpc for a solute in the same physical state in two
 solvents; understanding the factors affecting Kpc in terms of the
 polarities of solute and solvents.
 
+## Conjugate acid-base pairs
+
+In the Brønsted-Lowry sense, an acid is a proton (H⁺) donor and a base is a
+proton acceptor. When an acid HA donates a proton, what remains, A⁻, is
+called its **conjugate base** — it is capable of accepting a proton back to
+re-form HA. Equally, when a base B accepts a proton to form BH⁺, that BH⁺
+is the **conjugate acid** of B. Every acid-base equilibrium contains two
+such pairs, related by the loss or gain of a single H⁺:
+
+HA + B ⇌ A⁻ + BH⁺
+
+(acid₁)  (base₂)  (base₁, conjugate base of HA)  (acid₂, conjugate acid of B)
+
+**Worked example.** For CH₃COOH + H₂O ⇌ CH₃COO⁻ + H₃O⁺, identify both
+conjugate pairs.
+
+CH₃COOH is the acid; losing H⁺ gives CH₃COO⁻, its **conjugate base**. H₂O
+is the base; gaining H⁺ gives H₃O⁺, its **conjugate acid**. The two
+conjugate pairs are CH₃COOH/CH₃COO⁻ and H₃O⁺/H₂O.
+
+This is exactly the relationship exploited in a buffer solution, below:
+CH₃COOH and CH₃COO⁻ (from CH₃COONa) are a conjugate acid-base pair present
+together in solution.
+
 ## pH, Ka and pKa
 
 **pH**, **Ka** and **pKa** are all defined mathematically:
@@ -167,6 +191,26 @@ Ksp = [Ag⁺][Cl⁻]
 In pure water, [Ag⁺] = [Cl⁻] = s (the molar solubility), so Ksp = s²:
 
 s = √Ksp = √(1.80 × 10⁻¹⁰) = **1.34 × 10⁻⁵ mol dm⁻³**
+
+**The power rule for unequal stoichiometry.** Each ion's concentration in
+the Ksp expression is raised to the power of its coefficient in the
+dissolving equation — this only shows up when the two ions aren't
+produced in a 1:1 ratio.
+
+**Worked example.** Write the Ksp expression for PbI₂, and calculate its
+molar solubility given Ksp(PbI₂) = 7.10 × 10⁻⁹ mol³ dm⁻⁹.
+
+PbI₂(s) ⇌ Pb²⁺(aq) + 2I⁻(aq)
+
+Ksp = [Pb²⁺][I⁻]²
+
+If the molar solubility is s, then [Pb²⁺] = s but [I⁻] = 2s (two iodide
+ions are released per formula unit dissolved), so:
+
+Ksp = s × (2s)² = 4s³
+
+s = ³√(Ksp / 4) = ³√(7.10 × 10⁻⁹ / 4) = ³√(1.775 × 10⁻⁹) = **1.21 × 10⁻³
+mol dm⁻³**
 
 **The common ion effect.** Solubility is suppressed when a solution already
 contains one of the ions from another source, since Ksp still has to be

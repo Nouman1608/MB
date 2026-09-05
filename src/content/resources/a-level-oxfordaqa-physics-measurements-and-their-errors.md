@@ -7,7 +7,7 @@ topic: "Section 3.1 – Measurements and Their Errors"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9630"]
-syllabusSeries: "International AS and A-level"
+syllabusSeries: "Version 4.4 (International AS and A-level)"
 order: 1
 syllabusTopics:
   - qualification: "a-level"

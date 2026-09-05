@@ -172,10 +172,11 @@ before dividing.
 ## Quick revision checklist
 
 **All candidates:** formulae of named substances · molecular formula defined · deducing
-simple formulae · word and symbol equations · Ar and Mr · simple reacting masses
+simple formulae · word and symbol equations, including state symbols · Ar and Mr · simple
+reacting masses
 
 **0620 Extended and all 5070 candidates, additionally:** empirical formula defined ·
-ionic formulae from charges · state symbols · the mole and Avogadro constant · molar gas
+ionic formulae from charges · the mole and Avogadro constant · molar gas
 volume at r.t.p. · stoichiometric reacting masses and limiting reactants · titration
 calculations · empirical and molecular formulae from data · percentage yield, composition
 and purity

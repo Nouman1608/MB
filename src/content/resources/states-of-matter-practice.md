@@ -38,9 +38,9 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 
 ## Section A
 
-**1.** Describe the arrangement, movement and energy of particles in a solid, a liquid and a gas. **[6]**
+**1.** Describe the arrangement, separation and movement of particles in a solid, a liquid and a gas. **[6]**
 
-**2.** Name the change of state for each: solid → liquid, liquid → gas, gas → liquid, solid → gas. **[4]**
+**2.** Name the change of state for each: solid → liquid, liquid → gas, gas → liquid, liquid → solid. **[4]**
 
 ## Section B
 
@@ -71,11 +71,12 @@ Related: [States of Matter revision notes](/resources/states-of-matter-revision-
 
 ## Answers
 
-**1. Solid** — particles are **closely packed in a regular arrangement**, **vibrating about fixed positions**, with the **least energy** [1] [1].
-**Liquid** — particles are **close together but randomly arranged**, able to **slide past one another**, with more energy [1] [1].
-**Gas** — particles are **far apart and random**, moving **rapidly in all directions**, with the **most energy** [1] [1].
+**1.** Any **2 of the 3** points per state earn credit (arrangement, separation, movement — 1 mark each, capped at 2 marks per state, 6 marks total).
+**Solid** — particles are **closely packed in a regular arrangement**, with the **smallest separation** between them, **vibrating about fixed positions** [1] [1].
+**Liquid** — particles are **close together but randomly arranged**, with a separation similar to a solid's, able to **slide past one another** [1] [1].
+**Gas** — particles are **far apart and randomly arranged**, with the **largest separation** between them, moving **rapidly in all directions** [1] [1].
 
-**2.** Melting [1]; boiling or evaporation [1]; condensing [1]; sublimation [1].
+**2.** Melting [1]; boiling or evaporation [1]; condensing [1]; freezing [1]. (Sublimation — solid directly to gas — is not one of the five changes of state named by 0620/5070 and would not be creditable here.)
 
 **3. (a)** The energy supplied is used to **overcome the forces of attraction between the particles** [1] rather than to increase their kinetic energy [1]; since temperature is a measure of average kinetic energy, it **stays constant during the change of state** [1].
 **(b)** Boiling requires **all** the remaining forces between particles to be broken so they can separate completely [1], whereas melting only loosens them enough to let particles slide — so more energy, and therefore more time, is needed [1].

@@ -7,7 +7,7 @@ topic: "Unit PSM1 -- S1: Statistics (International AS)"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9660"]
-syllabusSeries: "Version 5.2"
+syllabusSeries: "Version 5.2 (International AS exams from May/June 2018, A-level from May/June 2019)"
 order: 2
 syllabusTopics:
   - qualification: "a-level"

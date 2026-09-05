@@ -7,7 +7,7 @@ topic: "Topic 1 – Business in the Real World"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9225"]
-syllabusSeries: "First teaching September 2020"
+syllabusSeries: "First teaching September 2020, first examined May/June 2022"
 order: 1
 syllabusTopics:
   - qualification: "igcse"

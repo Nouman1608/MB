@@ -37,7 +37,7 @@ Condensed for the final weeks. For the full explanation, use the
 | Property | Trend | Reason |
 |---|---|---|
 | Melting/boiling point | **Increases** | More electrons → stronger van der Waals forces |
-| Colour | Darkens: pale yellow → green → red-brown → grey-black | |
+| Colour | Darkens: green (Cl₂) → red-brown (Br₂) → grey-black (I₂) | |
 | **Oxidising power** | **DECREASES** | Larger radius, more shielding → electron gained less easily |
 | **Reducing power of halide ion** | **INCREASES** | Larger ion loses an electron more easily |
 
@@ -92,7 +92,7 @@ COLD dilute NaOH:  Cl2 + 2NaOH -> NaCl + NaClO + H2O     (bleach)
 HOT conc. NaOH:    3Cl2 + 6NaOH -> 5NaCl + NaClO3 + 3H2O
                    Cl goes 0 -> -1 and 0 -> +5
 
-With WATER:        Cl2 + H2O -> HCl + HClO                (water treatment)
+With WATER:        Cl2 + H2O <=> HCl + HClO               (water treatment, equilibrium)
 ```
 
 **Disproportionation** = the same element both oxidised and reduced in one reaction.

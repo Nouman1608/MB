@@ -7,7 +7,7 @@ topic: "Physical chemistry"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
-syllabusSeries: "First teaching 2019, first AS and A-level exams 2020 (specification updated November 2022)"
+syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
 description: "Condensed recall notes on dynamic equilibrium, Kc and Kp, Le Chatelier principle and industrial compromise for International A Level Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22

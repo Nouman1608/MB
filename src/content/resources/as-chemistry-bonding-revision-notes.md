@@ -79,7 +79,7 @@ This is why AlCl₃ behaves covalently — Al³⁺ is small and triply charged, 
 
 **Graphite is the standard question.** Each carbon forms three covalent bonds, leaving one **delocalised electron per atom** free to move along the layers — hence conduction. The layers are held together only by **weak induced-dipole forces**, so they slide over one another, making graphite soft and a good lubricant. Diamond has four bonds per carbon, no free electrons, and a rigid tetrahedral network — hard, and an insulator.
 
-**Simple molecular substances melt at low temperatures because the weak intermolecular forces break, not the strong covalent bonds.** Saying "the covalent bonds break" is the most penalised sentence in the topic.
+**Simple molecular substances melt at low temperatures because the weak intermolecular forces break, not the strong covalent bonds.** Saying "the covalent bonds break" is a common error worth watching for — the covalent bonds within each molecule stay intact.
 
 ## Metallic bond strength
 

@@ -33,14 +33,16 @@ Condensed for the final weeks. For the full explanation, use the
 ```
 primary alcohol + K2Cr2O7/H2SO4, REFLUX   ->  carboxylic acid
 aldehyde + K2Cr2O7/H2SO4, reflux          ->  carboxylic acid
-nitrile + dilute HCl(aq), reflux          ->  carboxylic acid (one carbon longer)
+nitrile + dilute HCl(aq), reflux          ->  carboxylic acid (same number of carbons)
 ```
 
 **Reflux versus distil is the single most commonly dropped mark.** Refluxing returns the aldehyde to the flask so oxidation continues to the acid; distilling removes the aldehyde as it forms, stopping at that stage.
 
+**Hydrolysing a nitrile does not change the carbon count.** The nitrile carbon (–C≡N) becomes the carboxyl carbon (–COOH), so ethanenitrile (2 carbons) gives ethanoic acid (2 carbons). The chain was already lengthened one step earlier, when cyanide substituted into the halogenoalkane to make the nitrile — that step adds one carbon, so the final acid has one more carbon than the original halogenoalkane, not than the nitrile.
+
 **Why they are acidic:** losing H⁺ gives a carboxylate ion in which the negative charge is **delocalised over both oxygens**, stabilising it. Alcohols cannot do this, which is why they are not acidic.
 
-**Electron-withdrawing groups increase acid strength** by pulling electron density away and stabilising the anion further — chloroethanoic acid is stronger than ethanoic acid.
+**A Level extension (Topic 33.1.5):** electron-withdrawing groups increase acid strength by pulling electron density away and stabilising the anion further — chloroethanoic acid is stronger than ethanoic acid. This comparison is not an AS 18.1 outcome; it's included here as forward context.
 
 **Reactions:**
 
@@ -69,7 +71,7 @@ carboxylic acid + alcohol, conc. H2SO4 catalyst, reflux  <=>  ester + water
 
 **Naming:** the **alcohol part first**, then the acid part. Ethanol + propanoic acid gives **ethyl propanoate**. Getting the order backwards is a frequent error — the part from the alcohol supplies the alkyl name.
 
-**The faster route** is an acyl chloride plus an alcohol: rapid, irreversible and near-quantitative at room temperature, releasing HCl. That is why acyl chlorides are preferred synthetically despite being more expensive.
+**A Level extension:** acyl chlorides (Topic 33, not examined at AS) offer a faster route to esters — an acyl chloride plus an alcohol reacts rapidly, irreversibly and near-quantitatively at room temperature, releasing HCl. See the [Carboxylic Acids and Acyl Chlorides study guide](/resources/a-carboxylic-acids-and-acyl-chlorides/) for the full A Level treatment.
 
 ## Hydrolysis of esters
 
@@ -98,7 +100,7 @@ Esters are **volatile with pleasant, fruity smells**, so they are used in flavou
 
 **Vegetable oils and animal fats are triesters** of glycerol (propane-1,2,3-triol) with long-chain fatty acids. Alkaline hydrolysis gives **soap** (the sodium salts of the fatty acids) plus glycerol — the saponification reaction.
 
-**Biodiesel** is made by reacting these triesters with methanol, producing methyl esters of the fatty acids — a transesterification reaction, since one ester (the triglyceride) is converted into a different set of esters using a different alcohol.
+**Background (beyond the 9701 specification, not examinable at this level):** biodiesel is made by reacting these triesters with methanol, producing methyl esters of the fatty acids — a transesterification reaction, since one ester (the triglyceride) is converted into a different set of esters using a different alcohol.
 
 **A common mistake:** treating acid and alkaline hydrolysis as the same reaction with different reagents. One is a reversible equilibrium; the other goes to completion — this difference is often exactly what a question is testing.
 

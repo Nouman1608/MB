@@ -139,7 +139,7 @@ Ag–X interaction, down the group):
 
 **Concentrated sulfuric acid** — the most information-rich test, because it
 shows the reducing-power trend directly through how far each halide reduces
-sulfur. Every halide first undergoes a simple acid–base (ligand-exchange)
+sulfur. Every halide first undergoes a simple acid–base (proton-transfer)
 step giving misty/steamy fumes of the hydrogen halide:
 
 NaX + H₂SO₄ → NaHSO₄ + HX
@@ -190,6 +190,11 @@ containing the active disinfecting species, HOCl (chloric(I) acid) and the
 chlorate(I) ion, ClO⁻:
 
 Cl₂ + H₂O ⇌ HOCl + HCl
+
+HOCl is a weak acid and partially dissociates to give the chlorate(I) ion
+directly:
+
+HOCl ⇌ H⁺ + ClO⁻
 
 Both HOCl and ClO⁻ are strong enough oxidising agents to kill
 disease-causing bacteria in the water supply, which is the practical reason

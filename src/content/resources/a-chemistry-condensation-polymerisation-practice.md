@@ -51,9 +51,9 @@ Related: [Condensation Polymerisation revision notes](/resources/a-chemistry-con
 **(b)** Explain what the numbers 6,6 refer to. **[1]**
 **(c)** Explain why polyamides are stronger than polyesters. **[3]**
 
-**5.** Kevlar has an exceptional strength-to-weight ratio.
+**5.** Kevlar, made from benzene-1,4-dicarboxylic acid and 1,4-diaminobenzene, has an exceptional strength-to-weight ratio.
 
-**(a)** Name its two monomers. **[2]**
+**(a)** Name the type of linkage formed between the monomers. **[1]**
 **(b)** Explain, in structural terms, why it is so strong. **[3]**
 
 **6.** Give the products of hydrolysing a polyamide under (a) acidic and (b) alkaline conditions. **[4]**
@@ -87,7 +87,7 @@ Related: [Condensation Polymerisation revision notes](/resources/a-chemistry-con
 **(b)** Each monomer contains **six carbon atoms** [1].
 **(c)** Amide groups form **hydrogen bonds between adjacent chains** [1], because N–H and C=O are both present [1]. Ester groups can only form **weaker permanent dipole–dipole attractions**, since there is no N–H [1].
 
-**5. (a)** Benzene-1,4-dicarboxylic acid [1] and 1,4-diaminobenzene [1].
+**5. (a)** An **amide** linkage (–CONH–) [1].
 **(b)** The **rigid benzene rings** hold the chains **straight and allow them to align** closely [1]. **Extensive hydrogen bonding between the amide groups on adjacent chains** locks them together [1], and the regular aligned structure distributes stress efficiently along the chains [1].
 
 **6. (a)** Acid: a **carboxylic acid** [1] and an **ammonium salt** (the protonated amine) [1].

@@ -28,9 +28,9 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Amines
 
-Classified by how many alkyl groups are attached to nitrogen: **primary** (one), **secondary** (two), **tertiary** (three).
+Classified by how many alkyl groups are attached to nitrogen: **primary** (one), **secondary** (two), **tertiary** (three) — useful terminology, but syllabus 19.1 states explicitly that classifying amines this way **will not be tested at AS**.
 
-**Basicity** — the nitrogen lone pair accepts a proton. Strength depends on **how available that lone pair is**:
+**Basicity (A Level extension — Topic 34, not an AS 19.1 outcome):** the nitrogen lone pair accepts a proton. Strength depends on **how available that lone pair is**:
 
 ```
 secondary aliphatic > primary aliphatic > ammonia > phenylamine
@@ -39,21 +39,24 @@ secondary aliphatic > primary aliphatic > ammonia > phenylamine
 - **Alkyl groups donate electron density**, increasing availability of the lone pair.
 - **In phenylamine the lone pair is delocalised into the ring**, so it is much less available — making phenylamine a **weaker base than ammonia**.
 
-That comparison is the highest-value point in the topic, and the explanation must be about lone-pair availability, not vague "electron effects".
+This ranking presupposes arenes and is included here as forward context only; AS 19.1 is limited to the production of a primary amine and does not require basicity comparisons.
 
-**Preparation:**
+**Preparation — the single AS 19.1 outcome:**
 
 ```
 halogenoalkane + EXCESS NH3, ethanolic, heat under pressure  ->  primary amine
-nitrile + LiAlH4 (dry ether) or H2/Ni                        ->  primary amine
-nitrobenzene + Sn/conc HCl, then NaOH                        ->  phenylamine
 ```
 
 **Excess ammonia is essential** because the primary amine is itself a nucleophile and reacts further, producing secondary, tertiary and quaternary products.
 
-**The NaOH step is essential** in the aromatic route — the reduction gives the phenylammonium salt, and NaOH liberates the free amine. Omitting it is a routine lost mark.
+**A Level extension (Topic 34) — further preparation routes and reactions, not required at AS:**
 
-**Reactions:** with acids to form salts; with halogenoalkanes to give secondary amines; with acyl chlorides to give **N-substituted amides**.
+```
+nitrile + LiAlH4 (dry ether) or H2/Ni                        ->  primary amine
+nitrobenzene + Sn/conc HCl, then NaOH                        ->  phenylamine
+```
+
+The NaOH step in the aromatic route liberates the free amine from the phenylammonium salt formed by the reduction. Amines also react with acids to form salts, with halogenoalkanes to give secondary amines, and with acyl chlorides to give **N-substituted amides** — all A Level Topic 34 content. See the [Amines: Aliphatic and Aromatic study guide](/resources/a-amines-aliphatic-and-aromatic/) for the full treatment.
 
 ## Nitriles
 
@@ -74,10 +77,9 @@ aldehyde/ketone + HCN (with KCN catalyst)          ->  hydroxynitrile
 
 ```
 nitrile + dilute HCl(aq), reflux    ->  carboxylic acid + ammonium salt
-nitrile + LiAlH4 or H2/Ni          ->  primary amine
 ```
 
-So a nitrile is a branch point: hydrolyse it for an acid, reduce it for an amine — both one carbon longer than the original halogenoalkane.
+**A Level extension (Topic 34):** a nitrile can also be reduced to a primary amine (nitrile + LiAlH4 or H2/Ni), making it a branch point — hydrolyse it for an acid (AS), or reduce it for an amine (A Level). Either product has one more carbon than the original halogenoalkane.
 
 ## Same nucleophile, different mechanism
 
@@ -89,9 +91,9 @@ So a nitrile is a branch point: hydrolyse it for an acid, reduce it for an amine
 
 Nucleophilic addition of CN⁻ to the carbonyl carbon, then protonation of the resulting alkoxide.
 
-**The carbonyl carbon is planar**, so CN⁻ attacks with **equal probability from either face**, producing equal amounts of both enantiomers — a **racemic mixture**, which is optically inactive.
+**The carbonyl carbon is planar**, so CN⁻ attacks with **equal probability from either face**, producing equal amounts of both enantiomers — a **racemic mixture** (a term properly introduced at A Level; at AS it's enough to say equal amounts of both enantiomers form).
 
-**That is direct evidence for the planar intermediate**, and explaining it that way rather than just stating "a racemate forms" is what distinguishes a top answer.
+**That is direct evidence for the shape of the carbonyl compound (planar, trigonal) rather than the intermediate formed after attack** — the alkoxide intermediate produced once CN⁻ has added is tetrahedral, not planar. Explaining the racemic outcome in terms of the planar carbonyl reactant, rather than just stating "a racemate forms," is what distinguishes a top answer.
 
 ## Exam traps
 
@@ -100,7 +102,7 @@ Nucleophilic addition of CN⁻ to the carbonyl carbon, then protonation of the r
 - Forgetting excess ammonia, or the NaOH step.
 - Using aqueous rather than ethanolic KCN for nitrile formation.
 - Using NaBH₄ to reduce a nitrile — it is not powerful enough.
-- Stating that a racemate forms without explaining the planar carbonyl.
+- Stating that a racemate forms without explaining the planar carbonyl reactant (not the tetrahedral alkoxide intermediate formed after attack).
 
 ## Self-test
 

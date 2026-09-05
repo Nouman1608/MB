@@ -79,7 +79,7 @@ Related: [Transition Elements: Colour, Stereoisomerism and Stability Constants r
 
 ## Section C
 
-**9.** Cisplatin, `[Pt(NH₃)₂Cl₂]`, is used as an anti-cancer drug. State which geometrical isomer, *cis* or *trans*, is the active drug, and explain, in terms of polarity, one reason why this isomer is effective while the other is not. **[3]**
+**9.** `[Pt(NH₃)₂Cl₂]` (the platinum complex used in the anti-cancer drug cisplatin) exists as *cis* and *trans* geometrical isomers. Deduce which isomer is polar and which is non-polar, explaining your reasoning in terms of the symmetry of the bond dipoles around the square planar platinum centre. **[3]** *(The drug-action mechanism itself is background beyond 9701's outcome 28.4, which requires only deducing overall polarity from geometry — it is not examined here.)*
 
 **10.** Adding excess aqueous ammonia to a solution of `[Cu(H₂O)₆]²⁺` causes a ligand exchange reaction, forming `[Cu(NH₃)₄(H₂O)₂]²⁺`. Explain, in terms of Kstab, why this ligand exchange occurs. **[3]**
 
@@ -116,9 +116,9 @@ Related: [Transition Elements: Colour, Stereoisomerism and Stability Constants r
 
 **(c)** A large Kstab means the equilibrium lies **strongly towards the complex** [1] — the ammine complex is **much more thermodynamically stable** than the free Ag⁺ ion, so almost all the silver is present as `[Ag(NH₃)₂]⁺` at equilibrium [1].
 
-**9.** The ***cis*** isomer is the active drug [1]. The *cis* isomer is **polar**, since its two Cl and two NH₃ ligands are not positioned symmetrically opposite each other, so the bond dipoles do **not cancel** [1]; this polarity (and the resulting shape) allows it to bind effectively to DNA, whereas the *trans* isomer's **symmetric, non-polar** structure does not bind in the same way and so is not effective as a drug [1].
+**9.** The ***cis*** isomer is **polar** [1]: its two Cl and two NH₃ ligands are not positioned symmetrically opposite each other around the square-planar platinum centre, so the Pt–Cl and Pt–N bond dipoles do **not cancel** [1]. The ***trans*** isomer is **non-polar**: its two Cl ligands are opposite each other, and its two NH₃ ligands are opposite each other, so by symmetry the bond dipoles cancel exactly [1]. (Cisplatin's actual anti-cancer action is background beyond 9701's syllabus, which requires only this polarity deduction from the complex's geometry.)
 
-**10.** Kstab for the ammine complex, `[Cu(NH₃)₄(H₂O)₂]²⁺`, is **much larger** than Kstab for the aqua complex [1], meaning the ammine complex is **more thermodynamically stable** [1]; because NH₃ binds more strongly than H₂O, once enough NH₃ is available the equilibrium shifts strongly towards the ammine complex, **displacing water** from the coordination sphere [1].
+**10.** Kstab for forming the ammine complex, `[Cu(NH₃)₄(H₂O)₂]²⁺`, from `[Cu(H₂O)₆]²⁺` is **large** [1], meaning the ammine complex is **much more thermodynamically stable** than the starting hexaaqua ion [1] (by convention, water is omitted from the expression and `[Cu(H₂O)₆]²⁺` is the reference species being converted, not a species with its own separate stability constant); because NH₃ binds more strongly than H₂O, once enough NH₃ is available the equilibrium shifts strongly towards the ammine complex, **displacing water** from the coordination sphere [1].
 
 ---
 

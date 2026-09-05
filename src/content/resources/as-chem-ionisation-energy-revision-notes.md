@@ -33,11 +33,11 @@ Condensed for the final weeks. For the full explanation, use the
 | s | 1 | 2 |
 | p | 3 | 6 |
 | d | 5 | 10 |
-| f | 7 | 14 |
+| f (beyond 9701 scope — 1.3.2 assesses only s, p, d) | 7 | 14 |
 
 Each orbital holds a maximum of **two** electrons with **opposite spins**.
 
-**Filling order:** 1s 2s 2p 3s 3p **4s 3d** 4p 5s 4d…
+**Filling order (9701 scope, up to Kr):** 1s 2s 2p 3s 3p **4s 3d** 4p (beyond this — 5s, 4d… — is beyond the 9701 scope, which assesses only H to Kr per 1.3/1.4).
 
 4s fills **before** 3d because it is slightly lower in energy — but 4s is **emptied first** on ionisation. Both halves of that sentence are examined.
 
@@ -59,7 +59,7 @@ Electrons-in-boxes notation shows each orbital as a box and each electron as an 
 X(g)  ->  X+(g)  +  e-
 ```
 
-The **(g) state symbols are compulsory** — omitting them loses the mark even with a correct equation.
+A complete answer should include the **(g) state symbols** — a full, precise equation includes them even though the underlying chemistry is unaffected by their absence.
 
 ## The three controlling factors
 

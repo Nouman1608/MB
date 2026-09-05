@@ -50,17 +50,29 @@ Propan-1-ol has three carbons, each in a genuinely different environment (termin
 
 **1. Chemical shift (δ)** — identifies the environment:
 
+This table matches the one supplied in the examination Data section, so
+it need not be memorised — only read correctly:
+
 | Environment | δ (ppm) |
 |---|---|
-| R–CH₃ | 0.7–1.2 |
-| R–CH₂–R | 1.2–1.4 |
-| R–CO–CH₃ | 2.1–2.6 |
-| R–CH₂–Cl / Br | 3.1–4.2 |
-| R–O–CH₃ | 3.3–4.3 |
-| Alkene =CH | 4.5–6.0 |
-| Aromatic H | 6.0–8.0 |
-| Aldehyde –CHO | 9.3–10.5 |
+| Alkane C–H (R–CH₃, R–CH₂–R) | 0.9–1.7 |
+| Alkyl adjacent to C=O (R–CO–CH₃) | 2.2–3.0 |
+| Alkyl adjacent to an aromatic ring (Ar–CH₃) | 2.3–2.7 |
+| Alkyl adjacent to a halogen (R–CH₂–Cl / Br) | 3.2–4.0 (varies with the halogen) |
+| Alkyl adjacent to O–H or O–R (R–CH₂–OH, R–O–CH₃) | 3.3–4.3 |
+| Alcohol O–H | 1.0–5.5 (variable) |
+| Phenol O–H | 4.0–12.0 (variable) |
+| Amine N–H | 1.0–5.0 (variable) |
+| Amide N–H | 5.0–8.0 (variable) |
+| Alkene =C–H | 4.5–6.0 |
+| Aromatic ring C–H | 6.0–9.0 |
+| Aldehyde –CHO | 9.0–10.0 |
 | Carboxylic acid –COOH | 10.0–13.0 |
+
+O–H and N–H shifts are **highly variable**, depending on concentration,
+solvent and hydrogen bonding — this is exactly why they are excluded from
+the n+1 splitting rule (see below) and identified instead by the D₂O
+shake.
 
 **2. Integration** — the relative area under each peak gives the **ratio of hydrogens** in each environment. Note it is a *ratio*, not an absolute count, so a 3:2:1 integration could be 3:2:1 or 6:4:2.
 
@@ -72,6 +84,7 @@ Propan-1-ol has three carbons, each in a genuinely different environment (termin
 | 1 | Doublet |
 | 2 | Triplet |
 | 3 | Quartet |
+| 4 or more (or a combination of non-equivalent neighbouring sets) | Multiplet |
 
 **Splitting tells you about the neighbours, not the peak's own environment.** That is the conceptual point students most often invert. A CH₃ next to a CH₂ appears as a **triplet** — because the CH₂ has two hydrogens.
 

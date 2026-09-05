@@ -50,10 +50,10 @@ Zn2+ + 2e-  <=>  Zn        E = -0.76 V
 ## Cell e.m.f.
 
 ```
-E_cell = E(reduced, more positive)  -  E(oxidised, more negative)
+E_cell = E(more positive)  -  E(more negative)
 ```
 
-E_cell for a spontaneous cell is always **positive**. If your answer is negative, you have the half-cells the wrong way round.
+For a cell **freely built** from two half-cells (as above), E_cell is always **positive** — you simply take the more positive electrode potential minus the more negative one.
 
 **The more negative electrode is the anode** (oxidation, electrons released). The more positive is the cathode (reduction). Electrons flow through the external circuit from negative to positive.
 
@@ -65,7 +65,31 @@ Zn | Zn2+ || Cu2+ | Cu        E_cell = 0.34 - (-0.76) = +1.10 V
 
 Single line = phase boundary, double line = salt bridge.
 
+**This is not the same calculation as testing feasibility of a specified
+reaction** — see below. Only use "more positive minus more negative" when
+you are free to choose which half-cell is reduced and which is oxidised.
+
 ## Feasibility
+
+For a **specified** reaction (one species given as being reduced, another
+as being oxidised), calculate:
+
+```
+E_cell = E(species reduced)  -  E(species oxidised)
+```
+
+This can come out **negative** — and a negative value means the reaction
+is **not feasible** as written.
+
+**Worked example (infeasible):** does Fe3+ oxidise Cl- to Cl2?
+Fe3+/Fe2+, E = +0.77 V (reduced); Cl2/Cl-, E = +1.36 V (oxidised).
+
+```
+E_cell = 0.77 - 1.36 = -0.59 V   ->  NOT feasible
+```
+
+Iron(III) is too weak an oxidising agent to oxidise chloride ions; the
+reverse reaction (Cl2 oxidising Fe2+) is the feasible one.
 
 ```
 delta-G = -n F E_cell        F = 96500 C mol^-1
@@ -96,7 +120,7 @@ To find mass deposited: `Q = It`, then `n(e⁻) = Q/F`, then divide by the numbe
 ### Selective discharge in aqueous solution
 
 - **Cathode:** the *less* reactive cation (more positive E⦵) is discharged. Metals below hydrogen deposit; metals above it leave H₂ evolved instead.
-- **Anode:** halides are discharged in preference to OH⁻; otherwise O₂ from OH⁻. Concentration also matters — concentrated NaCl gives Cl₂, very dilute gives O₂.
+- **Anode:** oxygen is released from hydroxide/water by default (hydroxide/water is easier to oxidise than most halides on electrode-potential grounds) **unless** a halide is present at high concentration, in which case the halogen is discharged instead — concentrated NaCl gives Cl₂, very dilute NaCl gives O₂. Fluoride is never discharged from aqueous solution at any concentration (F⁻/F₂, E⦵ = +2.87 V, far too positive).
 
 ## The Nernst equation
 
@@ -110,7 +134,7 @@ where z is the number of electrons transferred. **Qualitatively**, increasing th
 
 ## Worked example: electrolysis
 
-A current of 2.00 A is passed through molten CuSO₄ for 3860 s. Calculate the mass of copper deposited. (F = 96,500 C mol⁻¹, A_r(Cu) = 63.5)
+A current of 2.00 A is passed through aqueous CuSO₄ with copper electrodes for 3860 s. Calculate the mass of copper deposited. (F = 96,500 C mol⁻¹, A_r(Cu) = 63.5)
 
 ```
 Q = It = 2.00 x 3860 = 7720 C
@@ -134,7 +158,7 @@ mass of Cu = 0.0400 x 63.5 = 2.54 g
 3. Calculate E_cell for Zn/Cu.
 4. State the relationship between ΔG and E_cell, and what makes a reaction feasible.
 5. Why is the cathode negative in electrolysis but positive in a galvanic cell?
-6. A current of 2.00 A is passed through molten CuSO₄ for 3860 s. Calculate the mass of copper deposited (F = 96,500 C mol⁻¹, A_r(Cu) = 63.5).
+6. A current of 2.00 A is passed through aqueous CuSO₄ with copper electrodes for 3860 s. Calculate the mass of copper deposited (F = 96,500 C mol⁻¹, A_r(Cu) = 63.5).
 7. According to the Nernst equation, what happens to E if the concentration of the oxidised species increases?
 
 **Answers:** 1. 0.00 V, by definition — it is the arbitrary reference against which all other electrode potentials are measured. 2. Zinc is the anode (more negative, oxidised); electrons flow externally from zinc to copper. 3. +0.34 − (−0.76) = +1.10 V. 4. ΔG = −nFE_cell; a positive E_cell gives a negative ΔG, so the reaction is thermodynamically feasible. 5. In electrolysis an external supply pushes electrons onto the cathode to drive reduction; in a galvanic cell reduction draws electrons in, making the cathode the positive terminal. Reduction occurs at the cathode in both cases. 6. Q = It = 7720 C; moles of electrons = 7720 ÷ 96500 = 0.0800 mol; moles of Cu = 0.0800 ÷ 2 = 0.0400 mol; mass = 0.0400 × 63.5 = 2.54 g. 7. E becomes more positive, since increasing the concentration of the oxidised species shifts the half-equilibrium towards reduction, consistent with Le Chatelier's principle.

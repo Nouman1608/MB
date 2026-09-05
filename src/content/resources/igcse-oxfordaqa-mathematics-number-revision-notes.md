@@ -7,7 +7,7 @@ topic: "Number"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9260"]
-syllabusSeries: "For exams May/June 2018 onwards, Version 5.1"
+syllabusSeries: "Version 5.1 (for exams May/June 2018 onwards)"
 order: 1
 syllabusTopics:
   - qualification: "igcse"

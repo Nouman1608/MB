@@ -72,7 +72,7 @@ delta-H_f  =  sum(atomisation)  +  sum(IE)  +  sum(EA)  +  delta-H_latt
 
 **Watch the multipliers.** Cl₂ → 2Cl needs 2 × atomisation; Mg²⁺ needs both first *and* second ionisation energy.
 
-Comparing the experimental lattice energy with the theoretical value from a purely ionic model reveals **covalent character** — a large discrepancy means significant polarisation of the anion by the cation.
+*(Background, beyond the 9701 specification — included for interest/extension only, not examinable.)* Comparing the experimental lattice energy with the theoretical value from a purely ionic model reveals **covalent character** — a large discrepancy means significant polarisation of the anion by the cation.
 
 ## Enthalpies of solution and hydration
 

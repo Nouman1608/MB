@@ -48,10 +48,15 @@ first, then test yourself with the [practice questions](/resources/states-of-mat
 ```
 solid  --melting-->      liquid  --boiling/evaporating-->  gas
 solid  <--freezing--     liquid  <--condensing--           gas
-solid  --sublimation-->  gas         (and back: deposition)
 ```
 
-**Energy in** for melting, boiling, evaporating, subliming.
+0620/5070 name exactly **five** changes of state — melting, boiling,
+evaporating, freezing and condensing — shown above. (Solid ↔ gas directly,
+via sublimation/deposition, is real chemistry but is not one of the five
+changes of state named by the syllabus at this level, so it isn't part of
+the examinable list.)
+
+**Energy in** for melting, boiling, evaporating.
 **Energy out** for freezing, condensing.
 
 A change of state is always **physical, not chemical**: no new substance forms, mass is conserved, and the change is fully reversible by reversing the energy transfer.
@@ -88,11 +93,14 @@ A heating curve plots temperature against time: it **rises**, **flattens at the 
 
 IGCSE 0620 Core only requires you to **describe** changes of state (say what
 happens); interpreting heating and cooling curves, and *explaining* changes
-of state or diffusion in terms of kinetic particle theory, is **Extended**
-content. O Level 5070 requires the full explanation at every point, with no
-Core/Extended split. Command words are contractual: an answer that only
-describes when the question says **explain** loses the explanation marks,
-even if every fact stated is correct.
+of state in terms of kinetic particle theory, is **Extended** content.
+Explaining **diffusion** in terms of kinetic particle theory, by contrast,
+is Core — every 0620 candidate is expected to explain diffusion, not just
+describe it; only the *effect of relative molecular mass on the rate of
+diffusion* is Extended. O Level 5070 requires the full explanation at every
+point, with no Core/Extended split. Command words are contractual: an
+answer that only describes when the question says **explain** loses the
+explanation marks, even if every fact stated is correct.
 
 ## Exam traps
 

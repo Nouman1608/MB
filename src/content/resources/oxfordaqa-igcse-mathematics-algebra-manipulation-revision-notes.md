@@ -7,7 +7,7 @@ topic: "Algebra"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9260"]
-syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1 (for exams May/June 2018 onwards)"
 order: 2
 syllabusTopics:
   - qualification: "igcse"

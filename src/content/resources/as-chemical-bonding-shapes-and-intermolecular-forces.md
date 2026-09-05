@@ -91,6 +91,73 @@ leaving one unhybridised p orbital free to form a π bond; an sp carbon has two
 hybrid orbitals arranged linearly, leaving two unhybridised p orbitals for two π
 bonds.
 
+## Coordinate (dative covalent) bonding
+
+A normal covalent bond is formed from one electron contributed by each
+bonding atom. A **coordinate (dative covalent) bond** is a covalent bond in
+which **both** shared electrons come from the **same** atom — the other atom
+contributes none. Once formed, a coordinate bond behaves exactly like any
+other covalent bond: it has the same length and strength as an equivalent
+bond formed the normal way, and cannot be told apart from it once the
+molecule or ion exists.
+
+**Forming the ammonium ion, NH₄⁺.** Ammonia's nitrogen atom has a lone pair
+of electrons. A hydrogen ion, H⁺, has no electrons at all (it is a bare
+proton). When NH₃ reacts with H⁺ (for example from HCl), nitrogen's lone
+pair is donated entirely into the new N–H bond:
+
+NH₃ + H⁺ → NH₄⁺
+
+The new bond is coordinate, formed from nitrogen's lone pair alone — but the
+resulting ammonium ion has **four identical N–H bonds**; there is no way to
+distinguish the coordinate bond from the three original covalent N–H bonds
+once NH₄⁺ has formed.
+
+**The Al₂Cl₆ dimer.** Aluminium chloride, AlCl₃, is electron-deficient: the
+aluminium atom in a single AlCl₃ unit has only six electrons around it (three
+bonding pairs, no lone pair), one short of a full octet. In the vapour phase,
+two AlCl₃ units pair up to fix this. A lone pair on a chlorine atom of one
+AlCl₃ unit is donated into a coordinate bond with the aluminium atom of the
+other unit, and a lone pair on a chlorine of the second unit is
+simultaneously donated back to the aluminium of the first. This gives two
+**bridging chlorine atoms**, each holding the two AlCl₃ units together by one
+normal covalent bond and one coordinate bond, and the whole dimer, Al₂Cl₆,
+has both aluminium atoms with a full octet.
+
+## Expanded octets
+
+Some central atoms — particularly Period 3 elements such as phosphorus and
+sulfur — can be surrounded by **more than eight electrons**, because they are
+large enough, and have accessible orbitals of a suitable energy, to
+accommodate extra bonding pairs. This does not happen for Period 2 elements
+such as carbon, nitrogen or oxygen, which are restricted to a maximum of
+eight electrons around them.
+
+- **SO₂** — sulfur is surrounded by **10 electrons**: one lone pair plus two
+S=O double bonds (each double bond contributing a pair of bonding electrons
+counted twice, once as a σ pair and once as a π pair, in the electron-counting
+convention used at this level).
+- **PCl₅** — phosphorus is surrounded by **10 electrons**: five P–Cl single
+bonds, five bonding pairs.
+- **SF₆** — sulfur is surrounded by **12 electrons**: six S–F single bonds,
+six bonding pairs.
+
+These expanded-octet species are exactly the ones used to test the
+trigonal-bipyramidal (PF₅-type) and octahedral (SF₆-type) VSEPR shapes below.
+
+## Bond energy and bond length
+
+**Bond energy** is the energy needed to break one mole of a given covalent
+bond in the gaseous state; a **higher** bond energy means a **stronger** bond.
+**Bond length** is the distance between the nuclei of two bonded atoms; a
+**shorter** bond is generally a **stronger** one. The two measures move
+together: for a given pair of atoms, a triple bond is shorter and stronger
+than a double bond, which is in turn shorter and stronger than a single bond
+(compare C–C, C=C and C≡C). Bond energy and bond length are used throughout
+organic chemistry to compare how reactive different bonds are — a shorter,
+stronger bond is generally harder to break, and so the site of a reaction is
+often the longest, weakest bond available.
+
 ## Shapes of molecules — VSEPR theory
 
 **Valence Shell Electron Pair Repulsion (VSEPR) theory** says electron pairs
@@ -145,6 +212,39 @@ volume).
 All of this is still weaker than a covalent, ionic or metallic bond — hydrogen
 bonds and van der Waals' forces act **between** molecules, not within them, which
 is the general rule 3.6 closes on.
+
+## Dot-and-cross diagrams
+
+A **dot-and-cross diagram** shows the arrangement of outer-shell (valence)
+electrons in a species, using dots for the electrons of one atom and crosses
+for the electrons of another, so the *origin* of each electron stays visible.
+It is the standard way of representing ionic bonding, covalent bonding and
+coordinate bonding at this level.
+
+**Ionic bonding (MgCl₂).** Magnesium's two outer electrons (dots) transfer
+completely, one to each chlorine atom's outer shell (crosses stay on the
+chlorine, plus a dot from magnesium added to complete its octet). The
+resulting ions are drawn separately in square brackets, each with its charge
+shown: [Mg]²⁺ and two separate [Cl]⁻ ions, each chloride now showing a full
+octet of eight electrons (seven of its own crosses plus the one donated dot).
+
+**Covalent bonding (CH₄).** Carbon's four outer electrons (crosses) and each
+hydrogen's single electron (dots) are drawn in the four shared pairs between
+carbon and each hydrogen, giving carbon a full outer shell of eight
+electrons (four shared pairs) and each hydrogen a full outer shell of two.
+
+**Coordinate bonding (NH₄⁺).** Nitrogen's three N–H bonds are drawn as normal
+shared pairs (one dot, one cross, from nitrogen and hydrogen respectively).
+The fourth bond, to the additional H⁺, is drawn as a shared pair made of
+**two dots only** (both electrons from nitrogen's original lone pair) — often
+marked with an arrow from nitrogen to the new hydrogen to flag that this pair
+alone was donated, even though the finished ion's four bonds are otherwise
+identical.
+
+**Expanded-octet species (SF₆).** All six S–F bonding pairs are drawn around
+sulfur, showing twelve electrons around the central atom rather than the
+usual eight, with each fluorine also showing three lone pairs to complete its
+own octet.
 
 ## Common mistakes
 

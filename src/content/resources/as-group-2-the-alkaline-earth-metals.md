@@ -106,9 +106,12 @@ MCO₃ → MO + CO₂
 useful observational confirmation of this reaction).
 
 **Thermal stability increases down the group** — barium's carbonate and
-nitrate need a higher temperature to decompose than magnesium's. The
-qualitative explanation (as required at AS, without invoking lattice
-energy): a smaller, more highly charged cation **polarises** the large
+nitrate need a higher temperature to decompose than magnesium's. AS outcome
+10.1.3 requires only that the trend be **described**, with equations, not
+explained; the **polarisation mechanism below is the A Level explanation
+for why this trend happens** (A Level 27.1.1) — useful context, not
+required at AS. Without invoking lattice energy: a smaller, more highly
+charged cation **polarises** the large
 carbonate or nitrate anion more strongly, distorting its electron cloud and
 weakening the bonds within it, which makes it easier to break apart on
 heating. Mg²⁺ is small and polarises strongly, so MgCO₃ decomposes at a
