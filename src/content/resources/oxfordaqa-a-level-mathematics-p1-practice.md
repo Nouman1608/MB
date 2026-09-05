@@ -76,7 +76,7 @@ Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-
 
 **6. (a)** Cosine rule: BC² = 8² + 11² − 2(8)(11)cos 52° [1] = 64 + 121 − 108.4 [1]; BC = √76.6 = **8.75 cm** [1].
 **(b)** Area = ½ × 8 × 11 × sin 52° [1] = **34.7 cm²** [1].
-**(c)** Sine rule: sin B ÷ 11 = sin 52° ÷ 8.75 [1]; sin B = 0.991 [1]; B = **82.3°** [1].
+**(c)** Cosine rule for angle B, using the unrounded BC² = 76.6436 from part (a) rather than the rounded 8.75 cm (rounding the side before using it again compounds the error): cos B = (BC² + AB² − AC²) ÷ (2 × BC × AB) [1] = (76.6436 + 64 − 121) ÷ (2 × 8.7546 × 8) = 0.1403 [1]; B = **81.9°** [1].
 
 **7.** tan x = 1.5 [1]; x = 0.983 rad [1]; the second solution is 0.983 + π = **4.12 rad** [1].
 

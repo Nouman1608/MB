@@ -39,19 +39,13 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 **(a)** Find the equation of L in the form ax + by + c = 0. **[3]**
 **(b)** Find the equation of the perpendicular bisector of AB. **[4]**
 
-**4.** A circle has equation x² + y² − 6x + 4y − 12 = 0.
+**4.** Line L1 has equation 3x − 2y + 4 = 0. Find the equation of the line L2 that is parallel to L1 and passes through the point (2, 1), giving your answer in the form ax + by + c = 0. **[3]**
 
-**(a)** Find its centre and radius. **[3]**
-**(b)** Determine whether the point (7, 1) lies inside, on or outside the circle. **[3]**
+**5.** A curve has equation y = x³ − 4x + 1. Find the equation of the normal to the curve at the point where x = 2, giving your answer in the form y = mx + c. **[5]**
 
-**5.** f(x) = x³ − 6x² + 9x + 2.
+**6.** A curve satisfies dy/dx = 6x² − 4x + 1 and passes through the point (1, 3). Find y in terms of x. **[4]**
 
-**(a)** Find f′(x) and the coordinates of the stationary points. **[4]**
-**(b)** Use the second derivative to classify each. **[3]**
-
-**6.** Evaluate ∫₁⁴ (3x² − 4x + 1) dx. **[4]**
-
-**7.** Solve the equation 2 sin²θ + 3 cos θ = 3 for 0° ≤ θ ≤ 360°. **[5]**
+**7.** A sector of a circle has radius 8 cm and angle 1.2 radians. Find (a) the arc length and (b) the area of the sector. **[5]**
 
 **8.** Rationalise the denominator of 5/(3 + √2), giving your answer in the form (a + b√2)/c. **[3]**
 
@@ -72,15 +66,13 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 **3. (a)** Gradient = (−7 − 5) ÷ (7 − 1) = −2 [1]; y − 5 = −2(x − 1) [1]; **2x + y − 7 = 0** [1].
 **(b)** Midpoint = (4, −1) [1]; perpendicular gradient = ½ [1]; y + 1 = ½(x − 4) [1]; **y = ½x − 3** (or x − 2y − 6 = 0) [1].
 
-**4. (a)** (x − 3)² − 9 + (y + 2)² − 4 − 12 = 0 [1]; (x − 3)² + (y + 2)² = 25 [1]; centre **(3, −2)**, radius **5** [1].
-**(b)** Distance from centre = √((7 − 3)² + (1 + 2)²) [1] = √(16 + 9) = 5 [1]; this **equals the radius**, so the point lies **on the circle** [1].
+**4.** L1: 3x − 2y + 4 = 0 rearranges to y = (3/2)x + 2, so its gradient is 3/2 [1]. A parallel line has the same gradient, so through (2, 1): y − 1 = (3/2)(x − 2) [1], which rearranges to **3x − 2y − 4 = 0** [1].
 
-**5. (a)** f′(x) = 3x² − 12x + 9 [1]; = 3(x − 1)(x − 3) = 0, so x = 1 or x = 3 [1]. f(1) = 6, f(3) = 2 [1]; stationary points **(1, 6)** and **(3, 2)** [1].
-**(b)** f″(x) = 6x − 12 [1]. At x = 1, f″ = −6 < 0, so **(1, 6) is a maximum** [1]. At x = 3, f″ = 6 > 0, so **(3, 2) is a minimum** [1].
+**5.** At x = 2, y = 8 − 8 + 1 = 1, so the point is (2, 1) [1]. dy/dx = 3x² − 4 [1], so at x = 2 the gradient of the tangent is 3(4) − 4 = 8 [1], and the gradient of the normal is the negative reciprocal, −⅛ [1]. y − 1 = −⅛(x − 2), giving **y = −⅛x + 5/4** [1].
 
-**6.** ∫ = [x³ − 2x² + x] from 1 to 4 [1] [1]. At x = 4: 64 − 32 + 4 = 36 [1]. At x = 1: 1 − 2 + 1 = 0. Value = **36** [1].
+**6.** Integrating term by term: y = 2x³ [1] − 2x² + x + c [1]. Substituting the point (1, 3): 2 − 2 + 1 + c = 3 [1], so c = 2, giving **y = 2x³ − 2x² + x + 2** [1].
 
-**7.** Use sin²θ = 1 − cos²θ [1]: 2 − 2cos²θ + 3cos θ = 3 [1]; 2cos²θ − 3cos θ + 1 = 0 [1]; (2cos θ − 1)(cos θ − 1) = 0, so cos θ = ½ or cos θ = 1 [1]. θ = **60°, 300°, 0° and 360°** [1].
+**7. (a)** Arc length s = rθ = 8 × 1.2 = **9.6 cm** [2]. **(b)** Area of sector A = ½r²θ = ½ × 64 × 1.2 = **38.4 cm²** [3].
 
 **8.** Multiply by the conjugate: 5/(3 + √2) × (3 − √2)/(3 − √2) [1] = 5(3 − √2) ÷ (9 − 2) [1] = **(15 − 5√2)/7** [1].
 
@@ -95,9 +87,9 @@ Related: [Pure Mathematics 1 revision notes](/resources/edexcel-a-level-mathemat
 ## Where marks are usually lost
 
 - Forgetting to factor out the 2 before completing the square.
-- Using the original gradient rather than its negative reciprocal.
-- Not checking whether all solutions lie in the given interval.
-- Omitting the constant of integration in indefinite integrals (not needed here, but often penalised elsewhere).
+- Using the original gradient rather than its negative reciprocal for a normal — or its negative reciprocal instead of the same gradient for a parallel line.
+- Omitting the constant of integration in an indefinite integral, or forgetting to use the given point to find its value.
 - Giving only the discriminant condition for "always positive", forgetting a > 0 is also required.
 - Missing the second, obtuse solution in an ambiguous-case sine rule question.
+- Mixing degree and radian mode when using the arc-length or sector-area formulas.
 - Writing the first-principles derivative without the limit notation.

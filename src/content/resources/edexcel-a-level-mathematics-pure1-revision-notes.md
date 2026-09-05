@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p1-pure-mathematics-1-edexcel-alevel-maths"
-description: "Condensed recall notes on algebra, quadratics, coordinate geometry, differentiation and integration for Edexcel A Level Mathematics 9MA0."
+description: "Condensed recall notes on algebra, quadratics, straight-line coordinate geometry, differentiation and integration for Pure Mathematics 1 of Pearson Edexcel International A Level Mathematics (YMA01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -48,7 +48,7 @@ discriminant:      b^2 - 4ac
 
 **Worked example.** Find the set of values of k for which `kx² + 4x + 1` is positive for all real x. Condition 1: `k > 0`. Condition 2: discriminant < 0, so `4² − 4(k)(1) < 0`, giving `16 − 4k < 0`, so `k > 4`. Since `k > 4` already forces `k > 0`, the answer is simply **k > 4** — stating both conditions and seeing that the stronger one absorbs the weaker is exactly what full marks require.
 
-## Coordinate geometry
+## Coordinate geometry (straight lines)
 
 ```
 gradient   m = (y2 - y1)/(x2 - x1)
@@ -57,17 +57,13 @@ distance   sqrt((x2-x1)^2 + (y2-y1)^2)
 midpoint   ((x1+x2)/2, (y1+y2)/2)
 ```
 
-Perpendicular gradients multiply to **−1**.
+Perpendicular gradients multiply to **−1**; parallel lines have **equal** gradients. Unit P1 covers only the straight line — before setting up an equation, identify which of these three situations the question describes:
 
-**Circle:** `(x − a)² + (y − b)² = r²`, centre (a, b), radius r. From the expanded form, **complete the square in both x and y** to find the centre and radius.
+1. **Line through two given points** — find the gradient first, then substitute one point into `y − y1 = m(x − x1)`.
+2. **Line parallel to a given line, through a given point** — the new line has the *same* gradient as the given line.
+3. **Line perpendicular to a given line, through a given point** — the new line's gradient is the *negative reciprocal* of the given line's gradient.
 
-**Three circle facts that solve most problems:**
-
-1. The **tangent is perpendicular to the radius** at the point of contact.
-2. The **perpendicular bisector of a chord passes through the centre**.
-3. The angle in a **semicircle** is a right angle.
-
-**Testing whether a point lies inside, on or outside a circle**: find the distance from the point to the centre and compare it with the radius. If that distance is less than the radius the point is **inside**; if it equals the radius the point is **on** the circle; if it is greater, the point is **outside**. This is simply Pythagoras applied to the coordinates of the point and the centre, and it is a standard follow-up once a circle's centre and radius have been found by completing the square.
+**The coordinate geometry of circles — equations of the form `(x − a)² + (y − b)² = r²` and the circle theorems built on them — is not introduced until Pure Mathematics 2.** A P1 question that looks like it needs a circle almost always turns out to be a straight-line condition in disguise.
 
 ## Differentiation
 
@@ -83,14 +79,12 @@ f'(x) = lim(h->0) [f(x+h) - f(x)] / h
 
 The proof is examinable, and the mark is for writing the limit notation, not just the algebra.
 
-**Applications:**
+**Applications (P1):**
 
 - Gradient of a curve at a point.
-- **Tangent** — gradient `m` at that point. **Normal** — gradient `−1/m`.
-- **Stationary points:** set `dy/dx = 0`, then classify with `d²y/dx²` — positive means a **minimum**, negative a **maximum**.
-- **Increasing** where `dy/dx > 0`; **decreasing** where `dy/dx < 0`.
+- **Tangent** — gradient `m` at that point. **Normal** — gradient `−1/m`, found using the same perpendicular-gradient rule as in the coordinate geometry section above.
 
-**If `d²y/dx² = 0` the test is inconclusive** — you must check the sign of the gradient either side. That case is examined precisely because the shortcut fails.
+**Stationary points, and classifying them as maxima or minima using `d²y/dx²`, are introduced in Pure Mathematics 2** — P1 differentiation questions stop at finding a gradient, tangent or normal.
 
 ## Integration
 
@@ -98,47 +92,42 @@ The proof is examinable, and the mark is for writing the limit notation, not jus
 integral of ax^n = ax^(n+1)/(n+1) + c        n != -1
 ```
 
-**The `+ c` is a mark.** For a definite integral it cancels, but omitting it in an indefinite integral costs.
+**The `+ c` is a mark** — P1 integration is entirely **indefinite** (there is no `n = −1` case either, since that needs logarithms, not introduced until Pure Mathematics 2). Given a gradient function and one point on the curve, substitute that point into the integrated expression to find `c` and hence the full equation of the curve.
 
-```
-definite:   [F(x)] from a to b  =  F(b) - F(a)
-area between curve and x-axis:  integral of y dx
-area between two curves:        integral of (upper - lower) dx
-```
-
-**Area below the x-axis integrates to a negative value.** For a total *area* rather than a signed integral, split at the roots and take the absolute value of each part. Adding the signed values gives the wrong answer and is a standard trap.
-
-To find the area between two curves, find the intersections first — they are the limits.
+**Definite integration, and using it to find the area under a curve or between two curves, is introduced in Pure Mathematics 2** — do not evaluate `[F(x)]` between two limits on a P1 paper; if a question gives two x-values, check whether it is really asking you to substitute each into a curve or tangent equation instead.
 
 ## Trigonometry
 
 ```
-sin^2 x + cos^2 x = 1        tan x = sin x / cos x
 sine rule:    a/sin A = b/sin B
 cosine rule:  a^2 = b^2 + c^2 - 2bc cos A
 area = (1/2)ab sin C
+radians:      s = r*theta            (arc length)
+              A = (1/2) r^2 * theta  (area of sector)
 ```
 
-**The ambiguous case:** when using the sine rule to find an angle, there may be a **second solution**, since `sin(180° − θ) = sin θ`. Always check whether the obtuse alternative is consistent with the triangle.
+**The ambiguous case:** when using the sine rule to find an angle, there may be a **second solution**, since `sin(180° − θ) = sin θ`. Always check whether the obtuse alternative — not just the calculator's default acute answer — is the one consistent with the triangle described.
 
-When solving trigonometric equations, find **all** solutions in the given interval — use the symmetry of the graph, and check both ends of the range.
+**Radians:** a common trap is mixing degree and radian mode on a calculator mid-question — check the angle unit the question uses before substituting into either radian formula above.
+
+**The identity `sin²x + cos²x = 1` (and `tan x = sin x / cos x`), and solving trigonometric equations with them, are introduced in Pure Mathematics 2** — P1 trigonometry stays within triangles (sine rule, cosine rule, area) and radian-measure calculations.
 
 ## Exam traps
 
-- Giving only the discriminant condition for "always positive".
-- Omitting `+ c`.
-- Adding signed integrals when a total area is required.
-- Forgetting the second solution in the ambiguous case.
+- Giving only the discriminant condition for "always positive" — both conditions are needed.
+- Omitting `+ c` on an indefinite integral.
+- Forgetting the second solution in the sine rule's ambiguous case.
 - Using the normal's gradient where the tangent's is needed, or vice versa.
-- Not checking the sign either side when `d²y/dx² = 0`.
+- Mixing up the *parallel* condition (equal gradients) with the *perpendicular* condition (gradients multiply to −1) when a question gives one line and a point.
+- Working in the wrong angle mode (degrees vs radians) in an arc-length or sector-area calculation.
 - Not showing method — method marks are available even with a wrong final answer.
 
 ## Self-test
 
 1. What does `b² − 4ac = 0` mean geometrically?
 2. Give the two conditions for `ax² + bx + c` to be positive for all x.
-3. State three circle theorems useful in coordinate geometry.
-4. How do you classify a stationary point, and when does the test fail?
-5. Why can adding definite integrals give the wrong area?
+3. What is the gradient of a line perpendicular to one with gradient 2/3?
+4. Give the formulas for arc length and area of a sector in terms of radius r and angle θ (in radians).
+5. Why might a P1 question that gives you two x-values be asking for something other than a definite integral?
 
-**Answers:** 1. The curve is tangent to the x-axis — there is one repeated root. 2. a > 0 and b² − 4ac < 0. 3. The tangent is perpendicular to the radius at the point of contact; the perpendicular bisector of a chord passes through the centre; the angle in a semicircle is 90°. 4. Substitute into d²y/dx² — positive gives a minimum, negative a maximum; the test fails when d²y/dx² = 0, and you must then check the gradient's sign either side. 5. Regions below the x-axis integrate to negative values, so they cancel against positive regions; split at the roots and take absolute values.
+**Answers:** 1. The curve is tangent to the x-axis — there is one repeated root. 2. a > 0 and b² − 4ac < 0. 3. −3/2 (the negative reciprocal of 2/3). 4. Arc length s = rθ; area of sector A = ½r²θ. 5. Because definite integration and areas are not introduced until Pure Mathematics 2 — on a P1 paper, two x-values are more likely to be points for substitution into a tangent, normal or curve equation.

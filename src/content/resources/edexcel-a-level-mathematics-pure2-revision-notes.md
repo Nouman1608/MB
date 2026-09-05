@@ -29,11 +29,11 @@ Two methods: **proof by deduction** (a general algebraic argument that holds for
 
 ## Algebra and functions (P2.2)
 
-**Modulus function |x|** changes the **shape** of a graph, not just the sign of a final answer — sketch it before solving an equation or inequality involving it. Practise algebraic fractions and function notation fluently, since these recur throughout P3 and P4.
+**Factor theorem:** if f(b/a) = 0, then (ax − b) is a factor of f(x) — use it to find a first factor of a cubic before completing the factorisation by inspection or division. **Remainder theorem:** dividing f(x) by (ax − b) leaves remainder f(b/a), without carrying out the full division. (The modulus function is introduced later, in Pure Mathematics 3.)
 
 ## Coordinate geometry (P2.3)
 
-Further work on equations of straight lines applied to problems in context — practise setting up and solving from a worded scenario, not just from given coordinates.
+**Circle:** (x − a)² + (y − b)² = r², centre (a, b), radius r — complete the square in both x and y to extract these from the expanded form. **Three circle facts:** (1) the tangent is perpendicular to the radius at the point of contact; (2) the perpendicular bisector of a chord passes through the centre; (3) the angle in a semicircle is a right angle. (Straight-line equations and the parallel/perpendicular conditions are covered in Unit P1.)
 
 ## Sequences and series (P2.4)
 
@@ -52,26 +52,30 @@ S(infinity) = a / (1 - r)      [only valid when |r| < 1]
 
 Don't assume every series has a finite sum — check the convergence condition first.
 
+**Binomial expansion:** (a + bx)ⁿ for a positive integer n expands using the binomial coefficients (written ⁿCᵣ or `n choose r`). This is assessed in the same section as sequences and series, though it is a separate skill from summing a series.
+
 ## Exponentials and logarithms (P2.5)
 
 Laws of logarithms, and solving equations involving exponential/logarithmic functions. Questions frequently **combine geometric series with exponential growth/decay contexts** (investment growth, population change) — recognise this link rather than treating P2.4 and P2.5 as unrelated content.
 
 ## Trigonometry (P2.6)
 
-Extends P1's identities — **gaps in P1 trigonometry resurface here**, so revise P1 trig alongside this section if it isn't already secure.
+**New in P2:** the identity sin²θ + cos²θ = 1 and tanθ = sinθ ÷ cosθ, used to solve trigonometric equations within a given interval. P1's own trigonometry is triangle-based — the sine rule, cosine rule and area of a triangle — and does not include these identities or equation-solving.
 
 ## Differentiation (P2.7) and integration (P2.8)
 
-Extend P1's calculus to a wider range of functions, with the **chain, product and quotient rules appearing far more often in combination than in isolation**.
+**Differentiation (P2.7)** applies P1's calculus to **stationary points**: set dy/dx = 0, solve for x, then classify each point using d²y/dx² (positive → minimum, negative → maximum; zero → check the gradient's sign either side instead). Use this to determine where a function is increasing (dy/dx > 0) or decreasing (dy/dx < 0), and to sketch its curve.
 
-**Common chain-rule error:** differentiating the "outer" function correctly but **forgetting to multiply by the derivative of the inner function**, especially when combined with product/quotient rules in the same expression. Fix: differentiate each component separately before combining.
+**Integration (P2.8)** applies P1's integration to **definite integrals** and the area under a curve: [F(x)] from a to b = F(b) − F(a). A region below the x-axis integrates to a *negative* value, so a total area (rather than a signed value) requires splitting at the roots and adding the absolute value of each part. The **trapezium rule** approximates an area that can't be integrated exactly, using an increasing number of trapezia to improve accuracy.
+
+(The chain, product and quotient rules for differentiation are introduced later, in Pure Mathematics 3.)
 
 ## Worked example: proof by exhaustion
 
-Prove that the square of any odd number less than 10 is odd.
+Prove that the square of any positive odd number less than 10 is odd.
 
 ```
-Odd numbers less than 10: 1, 3, 5, 7, 9
+Positive odd numbers less than 10: 1, 3, 5, 7, 9
 
 1^2 = 1   (odd)
 3^2 = 9   (odd)
@@ -83,7 +87,7 @@ All cases checked, all results odd -> statement proven for this
 finite set.
 ```
 
-The case list (1, 3, 5, 7, 9) is stated explicitly and confirmed complete **before** checking — this is what separates a genuine proof by exhaustion from an unstructured list of examples.
+The case list (1, 3, 5, 7, 9) is stated explicitly, restricted to the positive odd numbers below 10, and confirmed complete **before** checking — this is what separates a genuine proof by exhaustion from an unstructured list of examples. Restricting the domain like this is a genuine part of the proof, not a simplification: the same statement about *all* odd integers (including negative ones) would need a different case list or a general algebraic argument instead.
 
 ## Worked example: exponential growth combined with a geometric series
 
@@ -110,21 +114,22 @@ Because every route through YMA01 requires all four Pure Mathematics units regar
 
 ## Key terms
 
-**Proof by deduction** — a general algebraic argument valid for all cases. **Proof by exhaustion** — checking every case in a genuinely finite, confirmed-complete set. **Arithmetic sequence** — constant common difference between terms. **Geometric sequence** — constant common ratio between terms. **Convergent series** — a geometric series with |r| < 1, possessing a finite sum to infinity.
+**Proof by deduction** — a general algebraic argument valid for all cases. **Proof by exhaustion** — checking every case in a genuinely finite, confirmed-complete set. **Factor theorem** — if f(b/a) = 0 then (ax − b) is a factor of f(x). **Stationary point** — a point where dy/dx = 0, classified as a maximum or minimum using d²y/dx². **Arithmetic sequence** — constant common difference between terms. **Geometric sequence** — constant common ratio between terms. **Convergent series** — a geometric series with |r| < 1, possessing a finite sum to infinity.
 
 ## Common mistakes
 
 - Applying the arithmetic sum formula to a geometric sequence, or vice versa, without checking for a common difference/ratio first.
 - Forgetting the |r| < 1 condition before using the sum-to-infinity formula.
-- Applying the chain rule to the outer function but forgetting the inner function's derivative.
+- Adding signed definite integrals when a total area is required, instead of splitting at the roots and taking absolute values of each part.
+- Not checking the gradient's sign either side of a stationary point when the second-derivative test itself gives zero.
 - Treating a proof-by-exhaustion case list as complete without explicitly confirming it covers every possibility.
 
 ## Quick self-test
 
 - State the sum-to-infinity formula and its validity condition.
 - Prove, by exhaustion, that the square of any even number from 2 to 8 is even.
-- Differentiate y = (3x + 1)⁵ using the chain rule.
-- Solve |2x − 3| = 7.
+- Find and classify the stationary points of y = x³ − 3x.
+- Solve 2 sin²θ − 1 = 0 for 0° ≤ θ ≤ 360°.
 - Identify whether a sequence with terms 5, 10, 20, 40 is arithmetic or geometric, and find its next term.
 
 ## Related resources

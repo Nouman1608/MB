@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-p2-pure-mathematics-2-edexcel-alevel-maths"
-description: "Original exam-style practice questions with full worked answers on proof, the modulus function, sequences and series, logarithms, and the chain rule, for Pearson Edexcel International A Level Mathematics (YMA01), Unit P2."
+description: "Original exam-style practice questions with full worked answers on proof, the factor and remainder theorems, coordinate geometry of the circle, sequences and series, logarithms, and stationary points, for Pearson Edexcel International A Level Mathematics (YMA01), Unit P2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
 featured: false
@@ -28,7 +28,7 @@ Related: [Pure Mathematics 2 study guide](/resources/a-level-edexcel-mathematics
 
 ## Section A
 
-**1.** Solve |3x − 2| = 10. **[3]**
+**1.** Show that (x − 2) is a factor of f(x) = x³ − 3x² − 4x + 12, and find the remainder when f(x) is divided by (x + 1). **[3]**
 
 **2.** State the condition on the common ratio r for a geometric series to have a sum to infinity. **[1]**
 
@@ -50,9 +50,9 @@ Related: [Pure Mathematics 2 study guide](/resources/a-level-edexcel-mathematics
 
 **7.** Write log₃ 45 − log₃ 5 as a single logarithm, and evaluate it. **[3]**
 
-**8.** Differentiate y = (5x² − 3)⁴ using the chain rule. **[3]**
+**8.** Find the coordinates of the stationary points of y = x³ − 12x + 5, and use the second derivative to classify each. **[5]**
 
-**9.** Differentiate y = x³ sin x using the product rule. **[3]**
+**9.** Find the area enclosed between the curve y = 4x − x² and the x-axis. **[4]**
 
 **10.** An investment of £2,000 grows by 4% each year, compounded annually.
 
@@ -61,7 +61,7 @@ Related: [Pure Mathematics 2 study guide](/resources/a-level-edexcel-mathematics
 
 ## Answers
 
-**1.** Either 3x − 2 = 10, giving x = 4 [1], or 3x − 2 = −10, giving x = −8/3 [1]; solutions **x = 4 or x = −8/3** [1].
+**1.** f(2) = 8 − 12 − 8 + 12 = 0 [1], so (x − 2) is a factor. By the remainder theorem, dividing by (x + 1) leaves remainder f(−1) = −1 − 3 + 4 + 12 [1] = **12** [1].
 
 **2.** **|r| < 1** [1].
 
@@ -77,9 +77,9 @@ Related: [Pure Mathematics 2 study guide](/resources/a-level-edexcel-mathematics
 
 **7.** log₃ 45 − log₃ 5 = log₃(45 ÷ 5) [1] = log₃ 9 [1] = **2** (since 3² = 9) [1].
 
-**8.** Let u = 5x² − 3, so y = u⁴ [1]; dy/du = 4u³, du/dx = 10x [1]; dy/dx = 4(5x² − 3)³ × 10x = **40x(5x² − 3)³** [1].
+**8.** dy/dx = 3x² − 12 [1]; setting this to 0 gives x² = 4, so x = 2 or x = −2 [1]. y(2) = 8 − 24 + 5 = −11; y(−2) = −8 + 24 + 5 = 21 [1]. d²y/dx² = 6x: at x = 2, d²y/dx² = 12 > 0, so **(2, −11) is a minimum** [1]; at x = −2, d²y/dx² = −12 < 0, so **(−2, 21) is a maximum** [1].
 
-**9.** Product rule: dy/dx = (d/dx[x³]) × sin x + x³ × (d/dx[sin x]) [1] = 3x² sin x + x³ cos x [1] = **3x² sin x + x³ cos x** [1].
+**9.** The curve meets the x-axis where 4x − x² = 0, i.e. x = 0 and x = 4 [1]. Area = ∫₀⁴ (4x − x²) dx = [2x² − x³/3]₀⁴ [1] = (32 − 64/3) − 0 [1] = **32/3** (≈ 10.7) [1].
 
 **10. (a)** Value = 2000 × 1.04⁵ [1] = **£2,433.31** [1].
 **(b)** Need 2000 × 1.04ⁿ > 2800 [1]; 1.04ⁿ > 1.4 [1]; n > log 1.4 ÷ log 1.04 = 8.58 [1]; least whole number of complete years is **n = 9** [1].
@@ -90,12 +90,12 @@ Question 3 illustrates the two things a proof-by-exhaustion answer must show exp
 
 ## Where marks are usually lost
 
-- Finding only one solution to a modulus equation, forgetting that the expression inside the modulus could equal either the positive or negative version of the target value.
+- Substituting the wrong value when applying the factor or remainder theorem — for (ax − b), the value to substitute is x = b/a, not x = −b/a.
 - Applying the arithmetic series sum formula to a geometric sequence, or vice versa, without first checking for a common difference or common ratio.
 - Using the sum-to-infinity formula without checking or stating the |r| < 1 convergence condition.
-- Forgetting to multiply by the derivative of the inner function when applying the chain rule, especially when it is combined with the product or quotient rule in the same question.
+- Not checking the sign of d²y/dx² either side of a stationary point when the second derivative is itself zero there, and evaluating a definite integral straight through a root without splitting it to find a true area.
 - In compound growth "least number of years" questions, rounding down instead of up when the inequality requires the value to first exceed a target — the answer must be the smallest whole number of years satisfying the inequality, not the nearest one.
 
 ## Approaching pure mathematics 2 questions
 
-For any modulus equation or inequality, always split into the two cases — the expression inside the modulus equal to the positive target and equal to the negative target — since forgetting the second case is the single most common way marks are lost on this sub-topic. Before applying either series sum formula, explicitly check whether consecutive terms share a common difference or a common ratio, since this one-line check prevents an otherwise correct calculation from being built on the wrong formula. For chain-rule differentiation, name the inner and outer functions separately before differentiating each, then combine them, rather than attempting the whole expression in one step — this is especially important once the chain rule is combined with the product or quotient rule, as in longer Unit P2 questions. Finally, for "least number of years" or similar inequality-based growth questions, always take logs correctly, solve for the boundary value, and then round in the direction the inequality actually requires, checking the answer against the original context rather than simply rounding to the nearest whole number by habit.
+When applying the factor theorem, substitute the value of x that makes the candidate factor zero — for (ax − b), that is x = b/a — and confirm the result is genuinely zero before factorising further; the remainder theorem uses exactly the same substitution to find what's left over instead. Before applying either series sum formula, explicitly check whether consecutive terms share a common difference or a common ratio, since this one-line check prevents an otherwise correct calculation from being built on the wrong formula. For stationary points, always complete the classification step — stating only that dy/dx = 0 at a point, without applying d²y/dx² (or checking the gradient's sign either side when the second derivative is itself zero), leaves the question unfinished. When a definite integral is asked to find an *area* rather than evaluated as a signed value, check first whether the curve crosses the x-axis within the given limits; if it does, split the integral at each root and add the absolute value of each part instead of evaluating straight through. Finally, for "least number of years" or similar inequality-based growth questions, always take logs correctly, solve for the boundary value, and then round in the direction the inequality actually requires, checking the answer against the original context rather than simply rounding to the nearest whole number by habit.

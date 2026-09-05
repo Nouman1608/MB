@@ -36,24 +36,31 @@ motion, for instance, still expects fluent algebraic manipulation and,
 often, calculus techniques introduced here rather than re-taught within
 Mechanics itself.
 
-Depending on which papers a centre enters, YMA01 can lead to the standalone International AS Mathematics award, or feed into the full International A Level alongside further Pure, Mechanics and Statistics units. Confirm with your centre which specific route you are being entered for, since this affects how much beyond Pure Mathematics 1 itself your revision timetable needs to plan for.
+Depending on which units a centre enters, the same P1 and P2 units can lead to the standalone International Advanced Subsidiary Mathematics award (coded **XMA01**, requiring P1, P2 plus one applied unit), or the same P1 can instead feed into the full International Advanced Level award (coded **YMA01**, requiring P1, P2, P3, P4 plus two applied units). Confirm with your centre which specific award route you are being entered for, since this affects how much beyond Pure Mathematics 1 itself your revision timetable needs to plan for.
 
 ## Syllabus coverage
 
 **PEARSON EDEXCEL INTERNATIONAL A LEVEL MATHEMATICS (YMA01) — UNIT P1
 PURE MATHEMATICS 1**
 
-- P1.1 Algebra and functions — indices, surds, quadratic equations and
-inequalities, simultaneous equations, and the factor and remainder
-theorems
+- P1.1 Algebra and functions — indices, surds, quadratic functions, the
+discriminant, completing the square, simultaneous equations, linear
+and quadratic inequalities, and sketching graphs of functions
+(including simple transformations)
 - P1.2 Coordinate geometry in the (x, y) plane — the equation of a
-straight line, and the coordinate geometry of circles
-- P1.3 Trigonometry — the sine, cosine and tangent functions, their
-graphs, and solving trigonometric equations
-- P1.4 Differentiation — the gradient of a curve, differentiating
-polynomials, and stationary points
-- P1.5 Integration — integration as the reverse of differentiation, and
-finding areas under curves
+straight line, and the conditions for two lines to be parallel or
+perpendicular (the coordinate geometry of circles is introduced later,
+in Pure Mathematics 2)
+- P1.3 Trigonometry — the sine and cosine rules, radian measure, and
+the graphs, symmetries and periodicity of the sine, cosine and tangent
+functions (solving trigonometric equations is introduced later, in
+Pure Mathematics 2)
+- P1.4 Differentiation — the gradient of a curve as a limit,
+differentiating xⁿ, and applying differentiation to find tangents and
+normals (stationary points are introduced later, in Pure Mathematics 2)
+- P1.5 Integration — indefinite integration as the reverse of
+differentiation (definite integration and finding areas under curves
+are introduced later, in Pure Mathematics 2)
 
 ## How to approach it
 
@@ -87,31 +94,37 @@ sub-topic. This spaced, interleaved approach to revision consistently outperform
 
 ## Working through the five sub-topics
 
-**P1.1 Algebra and functions.** Beyond basic manipulation, the factor and remainder theorems let
-you test whether a given linear expression divides a polynomial exactly, and find the remainder
-when it doesn't — a technique that recurs whenever a later question requires factorising a cubic
-or higher-degree polynomial as a first step before solving it.
+**P1.1 Algebra and functions.** Beyond basic manipulation, interpreting and solving linear and
+quadratic inequalities — including reducing an inequality containing brackets or fractions to a
+standard linear or quadratic form, and reading the solution set off a sketch of the corresponding
+graph — is a skill that recurs throughout the unit, since a clear sketch showing where one graph
+lies above or below another is often faster and more reliable than manipulating the inequality
+symbolically alone. (The factor and remainder theorems are introduced in Pure Mathematics 2,
+once polynomial division has been covered.)
 
-**P1.2 Coordinate geometry.** The equation of a circle (centre and radius, or the expanded form
-requiring completing the square to extract them) is examined alongside straight-line work — a
-common combined question finds where a line intersects a circle, requiring both topics together.
-Recognising when a described geometric condition (a tangent, a chord, a line through the centre)
-translates into a specific algebraic relationship is the genuine skill being tested here, beyond
-manipulating the equations themselves.
+**P1.2 Coordinate geometry.** Unit P1 covers only the straight line: finding the equation of a line
+through two given points, and using the condition for two lines to be parallel (equal gradients) or
+perpendicular (gradients multiply to −1) to find the equation of a line satisfying a geometric
+condition. Recognising which of these two conditions a question describes — parallel or
+perpendicular — before setting up the equation is the genuine skill being tested here. The
+coordinate geometry of circles is not introduced until Pure Mathematics 2, so combined
+line-and-circle questions do not appear on the P1 paper.
 
-**P1.3 Trigonometry.** Know the exact trigonometric values for standard angles (30°, 45°, 60°, and
-their multiples) without a calculator, since these appear routinely in non-calculator sections and
-underpin solving trigonometric equations across a full period. Solving trigonometric equations
-requires finding every solution within the given interval, not just one — a common mistake is
-stopping after the first valid solution instead of using the function's symmetry or periodicity to
-find every remaining one.
+**P1.3 Trigonometry.** P1 covers the sine and cosine rules (including the ambiguous case of the
+sine rule, where two different triangles can satisfy the same given information) and the area of a
+triangle as ½ab sin C, together with radian measure and its use in the arc-length and sector-area
+formulas, and the graphs, symmetries and periodicity of the sine, cosine and tangent functions.
+Calculators are permitted throughout the P1 exam, as in every unit of this qualification — knowing
+exact trigonometric values for standard angles is a useful shortcut, not a non-calculator
+requirement. Solving trigonometric equations algebraically is introduced in Pure Mathematics 2,
+alongside the identities it depends on.
 
-**P1.4–P1.5 Differentiation and integration.** As in every A Level maths syllabus, integration is
-introduced as the reverse of differentiation — fluency differentiating polynomials pays off
-immediately once integration is introduced, and both skills combine directly in stationary-point and
-area-under-a-curve questions. Determining whether a stationary point is a maximum or a minimum
-using the second derivative is a routinely tested extension worth practising alongside simply
-finding the stationary point itself.
+**P1.4–P1.5 Differentiation and integration.** P1 introduces differentiation of xⁿ (and sums,
+differences and constant multiples of such terms) as a gradient function, then applies it to find the
+gradient, and the equation of the tangent or normal, at a specific point on a curve. Integration is
+introduced as the reverse process, restricted here to indefinite integration of xⁿ (excluding n = −1,
+which needs logarithms not yet introduced). Fluency here pays off immediately in Pure Mathematics
+2, which extends both skills to stationary points, definite integration and areas under curves.
 
 ## Official syllabus
 

@@ -25,11 +25,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 Closed book, **60% of the GCSE** (versus Paper 1's 40%) — allocate revision time accordingly.
 
-| Section | Focus |
-|---|---|
-| A: Modern Texts | One post-1914 prose or drama text, studied in full |
-| B: Poetry | One 15-poem anthology cluster, studied in full |
-| C: Unseen Poetry | Two poems never seen before the exam |
+| Section | Focus | Marks |
+|---|---|---|
+| A: Modern Texts | One post-1914 prose or drama text, studied in full | 34 (30 + 4 for AO4 accuracy) |
+| B: Poetry | One 15-poem anthology cluster, studied in full | 30 |
+| C: Unseen Poetry | Two poems never seen before the exam | 32 (24 + 8) |
 
 ## Section A: modern prose/drama
 
@@ -68,8 +68,10 @@ Comparison:   both poems use FORM to reinforce their theme, but in
               persistent lack of resolution
 ```
 
-AQA's assessment objectives credit comparison across theme, form AND structure equally — theme alone
-caps marks in the middle bands.
+AQA's assessment objectives credit understanding and response to the text (AO1), analysis of the
+writer's methods — language, **form and structure** (AO2) — and relevant context (AO3). Marking is
+holistic rather than built from equally-weighted slices, but AO2's higher bands are only reached by
+comparing form and structure as well as theme — **theme alone caps marks in the middle bands**.
 
 ## Section A: character, theme and context together
 
@@ -91,8 +93,8 @@ pressure into a rehearsed, confident decision.
 
 - Retelling the plot in Section A instead of analysing it — summary without analysis caps marks.
 - Comparing poems by theme only, ignoring form and structure.
-- Under-timing Section C because it feels the least prepared-for — it is marked on the same tariff as
-  the other sections, so running short on it is one of the most avoidable ways to lose marks.
+- Under-timing Section C because it feels the least prepared-for — it carries 32 marks, close to
+  Section A's 34 and Section B's 30, so running short on it is one of the most avoidable ways to lose marks.
 - Forgetting the 60/40 split with Paper 1 and under-revising Paper 2 relative to its actual weight.
 
 ## Unseen poetry: a repeatable approach
@@ -109,7 +111,7 @@ rather than whatever happened to stand out first in each poem.
 1. What proportion of the GCSE does Paper 2 carry, versus Paper 1?
 2. In Section B, how many poems must you be prepared to write about?
 3. Why can't Section C be prepared for with memorised content?
-4. Name the three assessment dimensions AQA credits equally in poetry comparison.
+4. Besides theme, which two things must a strong Section B comparison also address to reach the top mark bands?
 5. What is the most common way marks are lost in Section A?
 
 A final practical habit: after finishing Section C, briefly check the time remaining against what is
@@ -120,7 +122,7 @@ minute on the unseen poems, helps catch avoidable errors elsewhere on the paper.
 **Answers:** 1. 60% (Paper 1 carries 40%). 2. A named poem plus a second poem of your own choosing —
 effectively any of the 15 poems in your studied cluster. 3. Because the poems are unseen before the
 exam, so no quotation bank or memorised analysis can prepare for the specific poems that appear —
-only general analytical skill built through wide practice. 4. Theme, form and structure. 5.
+only general analytical skill built through wide practice. 4. Form and structure — the writer's methods, credited under AO2. 5.
 Summarising the plot instead of analysing character, theme, context and writer's method.
 
 ## Related resources
