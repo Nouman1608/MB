@@ -156,6 +156,11 @@ positive and negative consequences.
 - Practise explaining one specific example of unequal power relations
 shaping a global system's outcome.
 
+## Related resources
+
+- [Globalisation and Global Systems revision notes](/resources/oxfordaqa-a-level-geography-globalisation-revision-notes/)
+- [Globalisation and Global Systems practice questions](/resources/oxfordaqa-a-level-geography-globalisation-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Geography (9635) specification,

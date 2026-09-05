@@ -108,6 +108,11 @@ Distinguishing "globalisation" (the process and its drivers) from "global system
 
 This section (Global Systems and Governance) is the first of three parts within Unit 2's opening section, followed by International Trade and Access to Markets, which covers transnational corporations specifically. Treat globalisation and interdependence, covered here, as the conceptual foundation that the trade-focused content builds on -- the flows and power relations introduced here recur when that later content examines how trade agreements and TNCs shape access to markets.
 
+## Related resources
+
+- [Globalisation and Global Systems study guide](/resources/a-level-oxfordaqa-geography-global-systems-and-governance/)
+- [Globalisation and Global Systems practice questions](/resources/oxfordaqa-a-level-geography-globalisation-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Geography (9635) specification, Version 2.4 —
