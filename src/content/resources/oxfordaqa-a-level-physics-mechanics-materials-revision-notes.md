@@ -117,6 +117,11 @@ Splitting the graph into geometric shapes (triangles, rectangles, trapezia) befo
 
 **Answers:** 1. v = u + at; s = ½(u + v)t; s = ut + ½at²; v² = u² + 2as. 2. Displacement. 3. An object stays at rest or moves at constant velocity unless a resultant force acts on it. 4. Because F = ma assumes mass does not change during the motion described; for changing mass, the momentum form F = Δp/Δt is needed instead. 5. Because a third law pair acts on two different objects, whereas balanced forces on one object (Newton's first law) can include forces of different types acting on that single object. 6. Every action force has an equal and opposite reaction force; a genuine pair must be equal in magnitude, opposite in direction, of the same type, and acting on two different objects.
 
+## Related resources
+
+- [Motion Along a Straight Line and Newton's Laws study guide](/resources/a-level-oxfordaqa-physics-motion-and-newtons-laws/)
+- [Motion Along a Straight Line and Newton's Laws practice questions](/resources/oxfordaqa-a-level-physics-motion-newtons-laws-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4 —

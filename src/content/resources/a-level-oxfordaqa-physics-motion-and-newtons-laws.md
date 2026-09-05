@@ -142,6 +142,11 @@ ma.
 acceleration, then a SUVAT equation to find displacement, velocity or
 time.
 
+## Related resources
+
+- [Motion Along a Straight Line and Newton's Laws revision notes](/resources/oxfordaqa-a-level-physics-mechanics-materials-revision-notes/)
+- [Motion Along a Straight Line and Newton's Laws practice questions](/resources/oxfordaqa-a-level-physics-motion-newtons-laws-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Physics (9630) specification,
