@@ -99,6 +99,11 @@ The specification's own framing expects more than quoting np and np(1 − p) —
 
 S1.3 builds directly on S1.1 (further probability) and S1.2 (discrete random variables) earlier in Unit PSM1 -- the binomial distribution is itself an example of a discrete random variable, and the probability rules from S1.1 are the reason the binomial formula takes the form it does. Reviewing those two sub-topics alongside S1.3 makes the mean and variance derivations above considerably more intuitive than treating the formulas in isolation.
 
+## Related resources
+
+- [Bernoulli and Binomial Distributions study guide](/resources/a-level-oxfordaqa-mathematics-bernoulli-and-binomial-distributions/)
+- [Bernoulli and Binomial Distributions practice questions](/resources/oxfordaqa-a-level-mathematics-bernoulli-binomial-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2 —

@@ -146,6 +146,11 @@ binomial formula takes the form it does. Reviewing those two sub-topics
 alongside S1.3 makes the derivation of the binomial mean and variance
 considerably more intuitive than treating the formulas in isolation.
 
+## Related resources
+
+- [Bernoulli and Binomial Distributions revision notes](/resources/oxfordaqa-a-level-mathematics-bernoulli-binomial-revision-notes/)
+- [Bernoulli and Binomial Distributions practice questions](/resources/oxfordaqa-a-level-mathematics-bernoulli-binomial-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Mathematics (9660) specification,
