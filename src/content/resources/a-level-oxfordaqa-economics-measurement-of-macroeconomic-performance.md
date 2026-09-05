@@ -147,6 +147,11 @@ objective it best measures.
 - Be able to explain the real-versus-nominal distinction and the role
 of a base year in index numbers.
 
+## Related resources
+
+- [Measurement of Macroeconomic Performance revision notes](/resources/oxfordaqa-a-level-economics-global-economy-revision-notes/)
+- [Measurement of Macroeconomic Performance practice questions](/resources/oxfordaqa-a-level-economics-macroeconomic-performance-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Economics (9640) specification —
