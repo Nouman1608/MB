@@ -127,6 +127,11 @@ A stratified sample (dividing the population into subgroups and sampling proport
 
 Topic 1 established why a business exists and who it is accountable to; Marketing turns to how it competes for customers, and the STP-plus-mix framework built here recurs across the rest of the AS topics (Operations, Human Resources, Finance) whenever a question asks how a business should respond to a market opportunity or threat. Treat the segmentation-targeting-positioning-mix sequence as a reusable analytical tool, not content specific to Topic 2 alone.
 
+## Related resources
+
+- [Marketing study guide](/resources/a-level-oxfordaqa-business-marketing/)
+- [Marketing practice questions](/resources/oxfordaqa-a-level-business-marketing-practice/)
+
 ## Official syllabus
 
 Oxford AQA International AS and A-level Business (9625) specification, section 3.1.2 Marketing —

@@ -148,6 +148,11 @@ expected to carry over in substance, but students should always
 confirm which specification code applies to their own cohort before
 relying on any single syllabus document.
 
+## Related resources
+
+- [Marketing revision notes](/resources/oxfordaqa-a-level-business-marketing-revision-notes/)
+- [Marketing practice questions](/resources/oxfordaqa-a-level-business-marketing-practice/)
+
 ## Official syllabus
 
 Oxford AQA International AS and A-level Business (9625) specification,
