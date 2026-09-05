@@ -8,6 +8,10 @@ boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7192"]
 order: 1
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "paper-1-education-theory-methods-7192"
+    subtopic: "methods-in-context-7192"
 description: "Condensed recall notes on how to answer AQA A Level Sociology's distinctive 'methods in context' question (7192)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26

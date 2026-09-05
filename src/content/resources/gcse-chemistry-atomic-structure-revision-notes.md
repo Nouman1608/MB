@@ -8,6 +8,9 @@ boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J248"]
 syllabusSeries: "First teaching 2016 (current specification version 3.6, 2024)"
+syllabusTopics:
+  - qualification: "gcse"
+    topic: "topic-c1-particles-j248"
 description: "Condensed recall notes on atomic models, isotopes, electron configuration, periodic trends and group properties for GCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22

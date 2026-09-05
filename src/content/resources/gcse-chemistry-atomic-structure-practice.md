@@ -8,6 +8,9 @@ boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J248"]
 syllabusSeries: "First teaching 2016 (current specification version 3.6, 2024)"
+syllabusTopics:
+  - qualification: "gcse"
+    topic: "topic-c1-particles-j248"
 description: "Original exam-style practice questions with full worked answers on atomic models, isotopes and group trends for GCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22

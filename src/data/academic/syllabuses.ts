@@ -752,7 +752,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '4BI1',
     boardSummary:
       "The Pearson Edexcel International GCSE in Biology gives students the opportunity to experience biology within the context of their general education, providing a solid basis for progression to Advanced GCE level or equivalent qualifications.",
-    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/biology-2017.html',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-biology-2017.html',
     verifiedOn: '2026-08-19',
     notes: 'Issue 3 (September 2024), first teaching September 2017. Untiered, linear qualification: two written papers (Biology Paper 1 and Paper 2) taken in the same series.',
   },
@@ -896,7 +896,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '4EC1',
     boardSummary:
       'Pearson Edexcel International GCSE Economics introduces learners to economic concepts and their application to real-life situations, across microeconomics, business economics, macroeconomics and the global economy.',
-    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/economics-2017.html',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-economics-2017.html',
     verifiedOn: '2026-08-19',
     notes: 'Issue 3, February 2026, for first teaching September 2017, first examination June 2019. Linear qualification assessed across two equally weighted papers: Paper 1 (Microeconomics and Business Economics) and Paper 2 (Macroeconomics and the Global Economy).',
   },
@@ -1049,7 +1049,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '4EA1',
     boardSummary:
       'Pearson Edexcel International GCSE English Language A develops learners’ reading and writing skills across a range of non-fiction, poetry and prose texts, preparing them for further study and everyday communication.',
-    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/international-gcse-english-language-a-2016.html',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-english-language-a-2016.html',
     verifiedOn: '2026-08-19',
     notes: 'For first teaching 2016 (specification Issue 6, 2023). Students take Component 1 (Non-fiction Texts and Transactional Writing) plus EITHER Component 2 (Poetry and Prose Texts and Imaginative Writing, examined) OR Component 3 (the non-exam-assessment alternative to Component 2). A modular version (4XEA1) is also offered for first teaching September 2025.',
   },
@@ -1059,7 +1059,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '4ET1',
     boardSummary:
       'Pearson Edexcel International GCSE English Literature develops learners’ understanding and enjoyment of literature through the study of poetry, prose and drama from a range of authors, periods and cultures.',
-    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/international-gcse-english-literature-2016.html',
+    officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-english-literature-2016.html',
     verifiedOn: '2026-08-19',
     notes: 'For first teaching 2016. Students take Component 1 (Poetry and Modern Prose) plus EITHER Component 2 (Modern Drama and Literary Heritage Texts, examined) OR Component 3 (Coursework, the alternative to Component 2). A modular version (4XET1) also exists.',
   },

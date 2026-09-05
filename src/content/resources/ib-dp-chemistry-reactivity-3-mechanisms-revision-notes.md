@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Chemistry"]
 syllabusSeries: "First assessment 2025"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-chemistry-reactivity-3"
 description: "Condensed revision notes on IB Diploma Programme Chemistry's Reactivity 3 -- proton transfer, electron transfer, electron sharing and electron-pair sharing reactions -- the largest single component in the syllabus, with self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

@@ -8,6 +8,9 @@ boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9202"]
 syllabusSeries: "First teaching 2016, first examined 2018 (specification updated November 2022)"
+syllabusTopics:
+  - qualification: "igcse"
+    topic: "quantitative-chemistry-9202"
 description: "Condensed recall notes on relative masses, the mole, formulae, reacting masses, concentration and yield for International GCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22

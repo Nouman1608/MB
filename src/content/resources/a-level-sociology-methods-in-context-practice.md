@@ -8,6 +8,10 @@ boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7192"]
 order: 1
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "paper-1-education-theory-methods-7192"
+    subtopic: "methods-in-context-7192"
 description: "Original exam-style practice questions with full worked answers on AQA A Level Sociology's methods in context question (7192)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26

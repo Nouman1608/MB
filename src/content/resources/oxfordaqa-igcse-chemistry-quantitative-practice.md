@@ -8,6 +8,9 @@ boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9202"]
 syllabusSeries: "First teaching 2016, first examined 2018 (specification updated November 2022)"
+syllabusTopics:
+  - qualification: "igcse"
+    topic: "quantitative-chemistry-9202"
 description: "Original exam-style practice questions with full worked answers on moles, formula mass, percentage yield, atom economy and concentration."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22

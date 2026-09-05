@@ -9,6 +9,10 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Computer Science"]
 syllabusSeries: "First assessment 2027"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-computer-science-theme-b"
+    subtopic: "ib-dp-computer-science-b-2"
 description: "Condensed revision notes on IB Diploma Programme Computer Science's B.2 Programming sub-topic -- the syllabus's single largest sub-topic at SL -- covering the programming process, testing, and how it links to B.1's computational thinking cycle, with self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

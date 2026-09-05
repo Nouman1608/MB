@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T12:07:30.891Z",
+  "generatedAt": "2026-09-05T12:16:34.033Z",
   "rowCount": 160,
   "rows": [
     {
@@ -2700,7 +2700,7 @@
       "specCode": "4BI1",
       "specStatus": "verified",
       "specApplicability": "2017-ongoing",
-      "officialSource1": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/biology-2017.html",
+      "officialSource1": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-biology-2017.html",
       "officialSource2": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Biology/2017/specification-and-sample-assessments/international-gcse-biology-2017-specification1.pdf",
       "verificationDate": "2026-08-19",
       "summaryStatus": "published",
@@ -2796,7 +2796,7 @@
       "specCode": "4EC1",
       "specStatus": "verified",
       "specApplicability": "2017-ongoing",
-      "officialSource1": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/economics-2017.html",
+      "officialSource1": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-economics-2017.html",
       "officialSource2": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Economics/2017/Specification%20and%20SAMS/international-gcse-spec-9781446942789.pdf",
       "verificationDate": "2026-08-19",
       "summaryStatus": "published",
@@ -2844,7 +2844,7 @@
       "specCode": "4EA1",
       "specStatus": "verified",
       "specApplicability": "2016-ongoing",
-      "officialSource1": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/international-gcse-english-language-a-2016.html",
+      "officialSource1": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-english-language-a-2016.html",
       "officialSource2": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20A/2016/Specification%20and%20sample%20assessments/9781446954379-int-gcse-englang-a-iss6-02-02-2023.pdf",
       "verificationDate": "2026-08-19",
       "summaryStatus": "published",
@@ -4188,7 +4188,7 @@
       "specCode": "4ET1",
       "specStatus": "verified",
       "specApplicability": "2016-ongoing",
-      "officialSource1": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses-and-edexcel-certificates/international-gcse-english-literature-2016.html",
+      "officialSource1": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-english-literature-2016.html",
       "officialSource2": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Literature/2016/Specification%20and%20sample%20assessments/international-gcse-english-literature-specification.pdf",
       "verificationDate": "2026-08-19",
       "summaryStatus": "published",
