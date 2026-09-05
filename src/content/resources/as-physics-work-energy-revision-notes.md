@@ -73,7 +73,7 @@ Being asked to derive rather than quote is common on Paper 2 — know every step
 
 ## Efficiency and dissipation
 
-No real device is 100% efficient. Energy is **dissipated** — usually as internal energy to the surroundings — where it becomes too spread out to be useful. It is not destroyed, only transferred to a form that can no longer do the intended job.
+Most real devices are not 100% efficient, because some energy is **dissipated** -- usually as internal energy to the surroundings -- where it becomes too spread out to be useful; that energy is not destroyed, only transferred to a form that can no longer do the intended job. Efficiency can never *exceed* 100%, but 100% itself isn't automatically impossible: it depends what the "useful" output is defined as. A heater intended to produce heat can convert essentially all of its electrical input into that useful output, since there's no other form for the energy to escape to.
 
 **Worked example.** A pump raises 300 kg of water through 10 m in 25 s, while drawing 1500 W of electrical power.
 

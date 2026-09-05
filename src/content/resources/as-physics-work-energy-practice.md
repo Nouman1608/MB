@@ -103,5 +103,5 @@ P = E ÷ t = 34 335 ÷ 60 [1] = **572 W** [1].
 - Not stating that dissipated energy is transferred, not destroyed.
 - Skipping a step in the Eₖ = ½mv² derivation — examiners expect every line, from v² = u² + 2as through to the final substitution, not just the final formula.
 - In a maximum-height problem, forgetting that *all* the kinetic energy converts to potential energy only at the very top, where the vertical velocity is momentarily zero.
-- Treating P = Fv as the general definition of power — it is a **derived, situational** formula that only applies at constant velocity against a resistive force; the general definition is always P = W/t.
+- Treating P = Fv as the general *definition* of power — the general definition is always P = W/t. P = Fv is a derived instantaneous-power result that holds generally (including while accelerating), but it is easiest to use in a constant-velocity problem against a resistive force, where the driving force is simply equal to the resistive force.
 - Applying ∆Eₚ = mg∆h to a large change in height without checking that g is approximately constant over that range.

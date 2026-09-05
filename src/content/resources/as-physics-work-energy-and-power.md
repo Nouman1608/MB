@@ -70,9 +70,14 @@ a percentage:
 efficiency = (useful energy output / total energy input) × 100%
 ```
 
-No real energy transfer is 100% efficient — some energy is always transferred
-to forms that aren't useful for the intended purpose (commonly heat, through
-friction or resistance).
+Most practical devices have some unwanted energy transfer (commonly to heat,
+through friction or resistance), so their efficiency is below 100%.
+Efficiency can never exceed 100% -- that would mean creating energy. But 100%
+is not physically impossible for every process: it depends on what counts as
+"useful" output. An electric heater that is meant to produce heat can
+convert essentially all of its electrical input into that intended output,
+giving an efficiency very close to 100%, because none of the energy has left
+by a route other than the one being counted as useful.
 
 **Worked example.** A pump raises 300 kg of water through 10 m in 25 s, while
 drawing 1500 W of electrical power. Find its efficiency.
@@ -111,9 +116,14 @@ can be rewritten (deriving from W = Fs) as:
 P = Fv
 ```
 
-This form is especially useful for problems involving a vehicle moving at
-constant velocity against a resistive force, where the driving force equals the
-resistive force and power can be found directly from force and speed.
+P = Fv is a general result for instantaneous power (force and velocity
+parallel, or F taken as the component of force along the direction of
+motion) -- it holds while an object is accelerating just as much as while
+it moves at constant velocity. The constant-velocity case is simply the
+one where it's easiest to apply: a vehicle moving at constant speed has
+its driving force exactly equal to the resistive force, so a known speed
+and resistive force give the driving power directly, without needing to
+consider acceleration at all.
 
 ## Gravitational potential energy and kinetic energy
 
@@ -150,11 +160,16 @@ converted to gravitational potential energy, ignoring air resistance):
 - **Using the object's total displacement instead of the component in the
 direction of the force** when calculating work done — only the parallel
 component counts.
-- **Assuming a process is 100% efficient unless told otherwise.** Real
-processes always lose some energy to non-useful forms.
-- **Confusing P = Fv (a derived, situational formula for constant velocity
-against a resistive force) with P = W/t (the general definition)** — know
-when each applies.
+- **Assuming a process is 100% efficient unless told otherwise.** Most
+real processes lose some energy to non-useful forms, so don't assume 100%
+by default -- but don't rule 100% out either where the intended "useful"
+output happens to be the only form the energy can end up in (e.g. an
+electric heater producing heat).
+- **Thinking P = Fv only applies at constant velocity.** P = Fv is a
+general instantaneous-power result and holds during acceleration too;
+what's specific to the constant-velocity case is just that driving force
+then equals resistive force, making the calculation simpler — not that
+the formula itself stops applying otherwise.
 - **Forgetting that ∆Eₚ = mg∆h only applies to a uniform gravitational field**
 — it is not valid for large height changes where g varies appreciably (see
 Gravitational Fields at A Level for the general case).

@@ -81,7 +81,7 @@ Related: [Superposition revision notes](/resources/as-physics-superposition-revi
 
 **(b)** Calculate the wave speed. **[3]**
 
-**11.** Two loudspeakers, coherent and in phase, are placed 1.5 m apart and emit sound of wavelength 0.68 m. A microphone moves along a line parallel to the speakers, 4.0 m away. Calculate the distance between adjacent points of maximum loudness. **[3]**
+**11.** Two loudspeakers, coherent and in phase, are placed 1.5 m apart and emit sound of wavelength 0.68 m. A microphone moves along a line parallel to the speakers, 4.0 m away. Because the speaker separation (1.5 m) and the distance to the line (4.0 m) are comparable in size rather than one being much larger than the other, the small-angle double-slit fringe formula x = λD/a does not apply here. Find the exact distance from the centre line to the *first* position of maximum loudness, by setting the path difference between the two speakers equal to one wavelength and solving for the geometry directly. **[4]**
 
 ---
 
@@ -124,7 +124,9 @@ Round **down**: the highest observable order is **n = 2** [1].
 **(b)** In the fundamental, L = λ/2, so λ = 2 × 1.2 = 2.4 m [1].
 v = fλ = 85 × 2.4 [1] = **204 m s⁻¹** [1].
 
-**11.** This is a double-slit-style geometry with slit separation a = 1.5 m and D = 4.0 m, so x = λD ÷ a = (0.68 × 4.0) ÷ 1.5 [1] = **1.81 m** [1] between adjacent maxima [1].
+**11.** With D = 4.0 m and a = 1.5 m of comparable size, λD/a is not valid here -- it assumes D >> a, which doesn't hold [1]. Instead, place the sources at (±0.75, 0) and the point of the first maximum at (x, 4.0), a perpendicular distance x from the centre line. The two source-to-point distances are r₁ = √[(x + 0.75)² + 4.0²] and r₂ = √[(x − 0.75)² + 4.0²], and the first maximum occurs where the path difference r₁ − r₂ = λ = 0.68 m [1].
+
+Using r₁² − r₂² = (r₁ − r₂)(r₁ + r₂) = 2 × 0.75 × x = 1.5x, and r₁ − r₂ = 0.68, gives r₁ + r₂ = 1.5x ÷ 0.68. Substituting r₁ = ½(0.68 + 1.5x ÷ 0.68) into r₁² = (x + 0.75)² + 16 and solving the resulting equation for x [1] gives **x ≈ 2.06 m** [1] from the centre line -- notably different from the (invalid) small-angle estimate of 1.81 m. This also shows the fringes are not evenly spaced this close to the sources, so "the distance between adjacent maxima" isn't a single well-defined number here; only the position of a specific named maximum is.
 
 ---
 
