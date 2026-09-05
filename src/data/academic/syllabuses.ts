@@ -1674,7 +1674,39 @@ export const SYLLABUSES: readonly Syllabus[] = [
     verifiedOn: '2026-09-05',
     notes: 'First assessment 2026 (confirmed directly against the official public subject brief this session, rather than assumed from a prior session\'s claim). Core topic (understanding power and global politics) plus three thematic studies (rights and justice; development and sustainability; peace and conflict), with a Higher-Level-only extension on global political challenges. See the matching assessment record for the sourced paper-by-paper breakdown and a genuine minor duration discrepancy between the official brief and corroborating mirrors, resolved in the official brief\'s favour, modeled at both tiers.',
   },
+  {
+    boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'computer-science',
+    officialTitle: 'International Baccalaureate Diploma Programme Computer Science',
+    code: 'DP Computer Science',
+    boardSummary:
+      'The DP computer science course requires an understanding of the fundamental concepts of computing systems and the ability to apply the computational thinking process to solve problems in the real world. The course also requires students to develop skills in algorithmic thinking and computer programming.',
+    officialUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp_comp_sci_subjectbrief_en.pdf',
+    verifiedOn: '2026-09-05',
+    notes: 'Audit I07 fix -- new course launched February 2025, first teaching August 2025, first assessment May 2027 (confirmed directly against the official public subject brief this session). Organized into two themes: Theme A, Concepts of computer science (computer fundamentals, networks, databases, machine learning) and Theme B, Computational thinking and problem-solving (computational thinking, programming, object-oriented programming, and abstract data types at HL only), plus a case study and an internal-assessment computational solution. Studied in either Python or Java. This matches the theme/subtopic breakdown already used in this site\'s existing DP Computer Science resources (syllabusCodes: ["DP Computer Science"]) -- their content was independently correct, only this registry record was missing.',
+  },
 ] as const;
+
+/**
+ * Audit I07 fix (2026-09-05): the 'resources' content collection's `subject`
+ * reference for English Language material is the generic id 'english' (see
+ * src/content/subjects/english.md -- that hub page's own description is
+ * "English Language teaching and study resources"; English Literature has
+ * always had its own separate 'english-literature' subject/hub, and every
+ * SYLLABUSES record above correctly uses the same 'english-literature'
+ * slug on both sides). Every SYLLABUSES record for an English Language
+ * specification, however, uses the more specific subjectSlug
+ * 'english-language', to sit unambiguously alongside 'english-literature'
+ * in this registry. Without this alias, 49 English Language resources --
+ * each carrying a perfectly correct board/qualification/syllabusCode --
+ * silently failed to resolve their own official-specification link, since
+ * 'english' never matched any 'english-language' record. This is the only
+ * content-subject-id/registry-subjectSlug split in the codebase (spot-
+ * checked: every other subject's content id already equals its
+ * SYLLABUSES subjectSlug), so a single hard-coded alias is the complete,
+ * minimal fix -- not a general-purpose alias system for a problem that
+ * exists nowhere else.
+ */
+const SUBJECT_ALIASES: Readonly<Record<string, string>> = { english: 'english-language' };
 
 export const syllabusFor = (
   b: string,
@@ -1688,7 +1720,8 @@ export const syllabusFor = (
    * parameter existed, so every existing caller that doesn't pass it is unaffected. */
   codes?: readonly string[],
 ): Syllabus | undefined => {
-  const matches = SYLLABUSES.filter((x) => x.boardSlug === b && x.qualificationSlug === q && x.subjectSlug === s);
+  const subjectSlug = SUBJECT_ALIASES[s] ?? s;
+  const matches = SYLLABUSES.filter((x) => x.boardSlug === b && x.qualificationSlug === q && x.subjectSlug === subjectSlug);
   if (matches.length === 0) return undefined;
   if (codes && codes.length > 0) {
     const exact = matches.find((x) => codes.includes(x.code));

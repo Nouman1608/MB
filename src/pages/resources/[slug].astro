@@ -48,17 +48,30 @@ const qualificationNames = d.qualifications.map((slug) => qualificationBySlug(sl
 
 /**
  * Flagship Dominance/Trust programme -- best-effort official specification
- * link, looked up from the SAME verified syllabus records every syllabus
- * hub page reads (never re-typed or guessed here). Only resolved when the
- * resource declares exactly one board and one qualification, so there is
- * no ambiguity about which of several possible syllabuses it refers to;
- * left undefined (and simply omitted from the trust block below) rather
- * than guessed for multi-board/multi-qualification resources or any
- * combination syllabuses.ts doesn't yet carry.
+ * link(s), looked up from the SAME verified syllabus records every
+ * syllabus hub page reads (never re-typed or guessed here).
+ *
+ * Audit I07 fix (2026-09-05): a resource declaring more than one board or
+ * qualification (e.g. 55 Cambridge resources covering both IGCSE Chemistry
+ * 0620 and O Level Chemistry 5070 in one combined guide) previously got
+ * no official-specification link at all, because the single-syllabus gate
+ * below required exactly one board AND one qualification. Every (board,
+ * qualification) pair the resource actually declares is now looked up
+ * individually via the resource's own syllabusCodes for disambiguation,
+ * de-duplicated by code (a resource that declares the same board twice,
+ * or a code shared across a pairing, only lists that syllabus once), and
+ * every one that resolves is rendered as its own labelled link -- so a
+ * combined IGCSE+O Level resource now shows both "Official specification
+ * (IGCSE)" and "Official specification (O Level)" rather than neither.
+ * A single-board/qualification resource still renders exactly as before
+ * (officialSyllabuses.length is 1, so no per-link qualification label is
+ * needed): this is additive, not a behaviour change for the ~1100
+ * resources that already had a working link.
  */
-const officialSyllabus = (d.boards.length === 1 && d.qualifications.length === 1)
-  ? syllabusFor(d.boards[0], d.qualifications[0], d.subject.id, d.syllabusCodes)
-  : undefined;
+const officialSyllabuses = d.boards
+  .flatMap((b) => d.qualifications.map((q) => syllabusFor(b, q, d.subject.id, d.syllabusCodes)))
+  .filter((s): s is NonNullable<typeof s> => Boolean(s))
+  .filter((s, i, arr) => arr.findIndex((x) => x.code === s.code) === i);
 /**
  * Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095):
  * replaces the earlier mailto: link with the structured corrections form
@@ -150,7 +163,15 @@ const jsonLd = [articleNode({
     <div slot="hero-extra" data-testid="teacher-review-trust" class="mt-6 max-w-[62ch] rounded-sm border border-rule bg-ivory px-5 py-4 text-[14px] leading-relaxed text-ink-mute">
       <p class="m-0 font-semibold text-navy-800">Reviewed by teachers</p>
       <p class="m-0 mt-1">
-        {alignedToText}{officialSyllabus && <> <a href={officialSyllabus.officialUrl} rel="noopener" class="underline decoration-gold-500 underline-offset-2">Official specification</a>.</>}
+        {alignedToText}{officialSyllabuses.map((s) => (
+          <>
+            {' '}
+            <a href={s.officialUrl} rel="noopener" class="underline decoration-gold-500 underline-offset-2">
+              Official specification{officialSyllabuses.length > 1 && ` (${qualificationBySlug(s.qualificationSlug)?.name ?? s.qualificationSlug})`}
+            </a>
+            {officialSyllabuses.indexOf(s) === officialSyllabuses.length - 1 ? '.' : ';'}
+          </>
+        ))}
       </p>
       <p class="m-0 mt-1"><a href={correctionHref} class="underline decoration-gold-500 underline-offset-2">Found an error? Report a correction.</a></p>
     </div>

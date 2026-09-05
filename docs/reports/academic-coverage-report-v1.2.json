@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T09:04:02.464Z",
+  "generatedAt": "2026-09-05T09:08:15.394Z",
   "rowCount": 160,
   "rows": [
     {
@@ -9,13 +9,13 @@
       "qualificationSlug": "ib-dp",
       "subject": "Computer Science",
       "subjectSlug": "computer-science",
-      "specCode": "NO_DATA",
-      "specStatus": "unverified",
+      "specCode": "DP Computer Science",
+      "specStatus": "verified",
       "specApplicability": "2027-current",
-      "officialSource1": "NO_DATA",
-      "officialSource2": "https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp_comp_sci_subjectbrief_en.pdf",
-      "verificationDate": "2026-09-02",
-      "summaryStatus": "being-verified",
+      "officialSource1": "https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp_comp_sci_subjectbrief_en.pdf",
+      "officialSource2": "NO_DATA",
+      "verificationDate": "2026-09-05",
+      "summaryStatus": "published",
       "topicMapStatus": "published",
       "assessmentStatus": "not-modeled",
       "assessmentRecordCount": 0,
@@ -47,8 +47,8 @@
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "marlbridge",
-      "risks": "no-official-source",
-      "nextAction": "Source and verify the official specification/summary."
+      "risks": "none",
+      "nextAction": "None — combination is resourced and sourced."
     },
     {
       "board": "Cambridge",
