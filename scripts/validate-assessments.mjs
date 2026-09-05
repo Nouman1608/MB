@@ -43,6 +43,11 @@
  *        notes -- never a silent dead end.
  *   [13] A 'choose-n-of-m' component is grouped (alternativeGroup) or
  *        explained in notes.
+ *   [14] D-129 addition -- mirrored-source provenance consistency:
+ *        mirrorSourceUrl requires sourceConfidence (and forbids it being
+ *        'official-host'); sourceConfidence 'authentic-mirror-corroborated'
+ *        requires corroboratingSourceUrl; sourceConfidence without a
+ *        mirrorSourceUrl must be 'official-host' or absent.
  *   [3c] v2.0 addition — components sharing a routeGroup (the broader
  *        "choose a whole multi-component route" case, e.g. Cambridge
  *        IGCSE Literature in English 0475's Paper 2 vs Paper 3+4 vs
@@ -438,6 +443,37 @@ if (ASSESSMENTS.length === 0) {
     }
   }
   if (!p13) ok('every choose-n-of-m component is grouped or explained');
+
+  // [14] D-129 -- mirrored-source provenance consistency. Owner decision
+  // 2026-09-05 allows a fact to be confirmed from a genuine, authentic
+  // board-origin document even when it's hosted by a third party (a
+  // mirror), rather than only from the board's own official domain. These
+  // three checks keep that new provenance trio (mirrorSourceUrl /
+  // sourceConfidence / corroboratingSourceUrl) internally consistent so a
+  // record can never silently claim mirror-sourced confidence without the
+  // evidence fields to back it, or vice versa.
+  console.log('\n[14] Mirrored-source provenance fields (mirrorSourceUrl/sourceConfidence/corroboratingSourceUrl) are internally consistent');
+  let p14 = 0;
+  const VALID_SOURCE_CONFIDENCE = new Set(['official-host', 'authentic-mirror-high-confidence', 'authentic-mirror-corroborated']);
+  for (const a of ASSESSMENTS) {
+    if (a.sourceConfidence && !VALID_SOURCE_CONFIDENCE.has(a.sourceConfidence)) {
+      fail(`${idOf(a)}: invalid sourceConfidence "${a.sourceConfidence}"`); p14++;
+    }
+    // [14a] mirrorSourceUrl set => sourceConfidence must be set and must not be 'official-host'.
+    if (a.mirrorSourceUrl && a.mirrorSourceUrl.trim()) {
+      if (!a.sourceConfidence) { fail(`${idOf(a)}: mirrorSourceUrl is set but sourceConfidence is missing`); p14++; }
+      else if (a.sourceConfidence === 'official-host') { fail(`${idOf(a)}: mirrorSourceUrl is set but sourceConfidence is 'official-host' (a mirror was used, so this cannot be official-host-only)`); p14++; }
+    }
+    // [14b] sourceConfidence === 'authentic-mirror-corroborated' => corroboratingSourceUrl must be a non-empty string.
+    if (a.sourceConfidence === 'authentic-mirror-corroborated' && !(a.corroboratingSourceUrl && a.corroboratingSourceUrl.trim())) {
+      fail(`${idOf(a)}: sourceConfidence is 'authentic-mirror-corroborated' but corroboratingSourceUrl is missing/empty`); p14++;
+    }
+    // [14c] mirrorSourceUrl NOT set => sourceConfidence (if present) should be 'official-host' or absent.
+    if (!(a.mirrorSourceUrl && a.mirrorSourceUrl.trim()) && a.sourceConfidence && a.sourceConfidence !== 'official-host') {
+      fail(`${idOf(a)}: no mirrorSourceUrl is set but sourceConfidence is "${a.sourceConfidence}" (should be 'official-host' or absent when no mirror was used)`); p14++;
+    }
+  }
+  if (!p14) ok('every record\'s mirrored-source provenance fields are internally consistent');
 }
 
 // --- Coverage report (informational, does not fail the build) -------------
