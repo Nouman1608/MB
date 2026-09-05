@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-alternating-currents"
     subtopic: "a-rectification-and-smoothing"
-description: "Condensed recall notes on r.m.s. values, peak values, transformers and rectification for Cambridge AS & A Level Physics 9702."
+description: "Condensed recall notes on r.m.s. values, peak values and rectification for Cambridge AS & A Level Physics 9702, plus a recap of prerequisite (IGCSE/O Level) transformer background."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -53,7 +53,11 @@ peak power  P_0 = I_0 V_0
 
 **Mean power is exactly half the peak power** for a resistive load. Mains "230 V" is an r.m.s. value; the peak is 230 × √2 ≈ 325 V.
 
-## Transformers
+## Transformers (prerequisite, not a new Topic 21 outcome)
+
+The 2025-2027 syllabus doesn't list transformers under Topic 21 -- it only
+assumes the practical/economic case for high-voltage transmission from
+IGCSE/O Level. This section recaps that assumed background.
 
 ```
 N_s / N_p = V_s / V_p
@@ -65,7 +69,7 @@ Step-up increases voltage and decreases current in the same proportion; step-dow
 
 **Operating principle:** alternating current in the primary produces a continuously changing magnetic flux in the soft-iron core; this changing flux links the secondary coil and induces an alternating e.m.f. in it (Faraday's law).
 
-**A transformer cannot work on d.c.** — a steady current produces a constant flux, there is no rate of change of flux linkage, so no e.m.f. is induced. That is examined often.
+**A transformer cannot work on d.c.** — a steady current produces a constant flux, there is no rate of change of flux linkage, so no e.m.f. is induced. This is a common point of confusion when transformer background is drawn into a question.
 
 ### Why the losses matter
 
@@ -90,9 +94,17 @@ The loss depends on the **current squared**, not the voltage — that is the rea
 
 ## Rectification
 
-**Half-wave** — a single diode. Conducts on one half-cycle only; the other half is blocked. Output is a series of pulses with gaps.
+Distinguish these **graphically** (by output shape against time), not just
+verbally -- against the same sinusoidal input:
 
-**Full-wave** — four diodes in a **bridge** arrangement. Both half-cycles are used, with the negative half inverted, so the output has twice the pulse rate and no gaps.
+**Half-wave** — a single diode. Conducts on one half-cycle only (an
+unmodified positive hump); the other half is blocked (flat at zero). Output
+is a series of pulses with flat gaps between them.
+
+**Full-wave** — four diodes in a **bridge** arrangement. Both half-cycles
+produce a hump, with the negative half-cycle inverted onto the positive
+side instead of blocked, so the output has twice the pulse rate of the
+half-wave case and no flat gaps.
 
 **Smoothing** uses a capacitor in **parallel** with the load. It charges at the peak and discharges through the load during the gap, so the output falls only slightly before the next peak arrives. A **larger capacitance** gives a longer time constant (τ = RC) and therefore **less ripple**; so does a **larger load resistance**, since τ = RC increases either way — a smaller load current draws the capacitor's charge down more slowly between peaks. Increasing either only **reduces** the ripple, though: the capacitor still discharges to some extent between pulses, so the output is never a perfectly constant, ripple-free voltage.
 

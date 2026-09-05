@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-alternating-currents"
     subtopic: "a-rectification-and-smoothing"
-description: "Original exam-style practice questions with full worked answers on r.m.s. values, transformers and rectification for Cambridge AS & A Level Physics 9702."
+description: "Original exam-style practice questions with full worked answers on r.m.s. values and rectification for Cambridge AS & A Level Physics 9702, plus questions on prerequisite (IGCSE/O Level) transformer background."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -37,7 +37,7 @@ Related: [Alternating Currents revision notes](/resources/a-physics-alternating-
 
 **2.** Explain why the mean value of an alternating current over a complete cycle is not a useful measure. **[2]**
 
-**3.** Explain why a transformer cannot operate on direct current. **[2]**
+**3.** *(Prerequisite, IGCSE/O Level background -- not a new Topic 21 outcome)* Explain why a transformer cannot operate on direct current. **[2]**
 
 ---
 
@@ -53,7 +53,7 @@ Related: [Alternating Currents revision notes](/resources/a-physics-alternating-
 
 **(d)** Calculate the peak power dissipated, and state its relationship to the mean power. **[2]**
 
-**5.** A transformer steps 230 V down to 12 V. The primary has 1150 turns.
+**5.** *(Prerequisite, IGCSE/O Level background -- not a new Topic 21 outcome)* A transformer steps 230 V down to 12 V. The primary has 1150 turns.
 
 **(a)** Calculate the number of secondary turns. **[2]**
 
@@ -69,7 +69,7 @@ Related: [Alternating Currents revision notes](/resources/a-physics-alternating-
 
 ## Section C
 
-**7.** Distinguish between **half-wave** and **full-wave** rectification, and state which arrangement of diodes produces full-wave rectification. **[3]**
+**7.** Sketch, on the same axes, the output waveform you would expect from **half-wave** and from **full-wave** rectification of a sinusoidal input, and state which arrangement of diodes produces full-wave rectification. **[4]**
 
 **8.** A capacitor is connected across the load of a full-wave rectifier circuit to smooth the output.
 
@@ -113,7 +113,7 @@ I₀ = 5.0 × √2 = **7.07 A** [1].
 At 40 kV: I = 500 × 10⁶ ÷ 40 × 10³ = **12 500 A** [1].
 The current is **ten times greater**, so the power loss would be **100 times greater** [1].
 
-**7. Half-wave** rectification uses a single diode, allowing current to flow during only one half of each cycle, blocking the other half entirely, so current flows in pulses with a gap between each [1]. **Full-wave** rectification allows current to flow during both halves of the cycle, producing pulses with no gaps [1]. A **bridge arrangement of four diodes** produces full-wave rectification [1].
+**7.** **Half-wave**: only the positive half-cycles of the input survive as unmodified humps, with a flat gap at zero where each negative half-cycle is blocked [1]. **Full-wave**: every half-cycle produces a hump — the negative half-cycles are inverted onto the positive side rather than blocked — giving a continuous train of humps at twice the half-wave pulse rate, with no flat gaps [1] [1]. A **bridge arrangement of four diodes** produces full-wave rectification [1].
 
 **8. (a)** The capacitor **charges up during each pulse** and **discharges gradually between pulses** [1], reducing the fall in voltage that would otherwise occur between pulses [1].
 
@@ -128,5 +128,6 @@ The current is **ten times greater**, so the power loss would be **100 times gre
 - Using peak values where r.m.s. is required, or vice versa.
 - Saying no power is delivered because the mean current is zero.
 - Forgetting mean power is half peak power.
+- Describing half-wave vs full-wave rectification only in words when the question asks to sketch or otherwise distinguish them graphically -- know the shape of each output waveform, not just a verbal description.
 - Explaining transmission loss in terms of voltage rather than I²R.
 - Confusing lamination (eddy currents) with a soft iron core (hysteresis).
