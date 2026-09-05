@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T05:52:05.406Z",
+  "generatedAt": "2026-09-05T06:34:46.172Z",
   "rowCount": 160,
   "rows": [
     {
@@ -139,7 +139,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 72517,
+      "totalQualifyingWordCount": 72544,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
@@ -907,7 +907,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 131222,
+      "totalQualifyingWordCount": 131260,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "marlbridge",
@@ -2299,7 +2299,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 6050,
+      "totalQualifyingWordCount": 6097,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
@@ -5275,7 +5275,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 5962,
+      "totalQualifyingWordCount": 5972,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",

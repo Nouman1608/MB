@@ -47,7 +47,7 @@ Opening payables $14 600; credit purchases $68 900; payments to suppliers $61 20
 **(b)** A cash payment of $360 for rent was posted as a $360 debit to both the rent account and the cash account (correct amount, correct accounts, but posted the wrong way on one side). **[3]**
 **(c)** A $480 purchase of a delivery van was debited to the vehicle repairs (expense) account instead of the van (non-current asset) account. **[3]**
 
-**5.** A trial balance fails to balance by $270, debit column short. Show the full four-step suspense account sequence once it is discovered that a $270 discount received was never posted to the discounts received account, and state the effect on profit. **[6]**
+**5.** A trial balance fails to balance by $270, credit column short. Show the full four-step suspense account sequence once it is discovered that a $270 discount received was never posted to the discounts received account, and state the effect on profit. **[6]**
 
 **6.** A payables control account balance does not agree with the total of the individual payables ledger accounts. Explain what this tells you, and what it does not tell you, about the location of the error. **[4]**
 
@@ -75,10 +75,10 @@ Opening payables $14 600; credit purchases $68 900; payments to suppliers $61 20
 Debits correctly entered [1] [1] [1]; credits correctly entered [1]; totals agree [1]; closing balance **$19 600** [1].
 
 **4. (a)** Both sides of the transaction are missing, so the trial balance **still balances** [1]. Journal: Debit **Receivables $920**, Credit **Sales $920** [1] [1].
-**(b)** Both figures and both accounts are correct, but one side is reversed, so the trial balance **fails to balance** — this is a **one-sided-in-effect error** since the debit and credit totals will differ by twice the amount [1]. Journal: Debit **Rent $360**, Credit **Cash $360**, correcting the reversed entry [1] [1].
+**(b)** Both figures and both accounts are correct, but one side is reversed, so the trial balance **fails to balance** — this is a **one-sided-in-effect error** since the debit and credit totals will differ by twice the amount, i.e. **$720** [1]. The rent debit itself is already correct and needs no adjustment; only the cash side must be reversed. Journal: Debit **Suspense $720**, Credit **Cash $720** — this removes the wrong $360 debit from the cash account and replaces it with the correct $360 credit in a single entry [1] [1].
 **(c)** Both sides of the original entry were posted somewhere, so the trial balance **still balances** [1]. Journal: Debit **Van (asset) $480**, Credit **Vehicle repairs (expense) $480** [1] [1].
 
-**5.** Step 1 — open a suspense account for the **$270** shortfall (debit side) [1]. Step 2 — once the missing posting is found, journalise: Debit **Suspense $270**, Credit **Discounts received $270** [1] [1]. Step 3 — the two suspense entries **cancel out**, closing the account [1]. Step 4 — discounts received (income) was **understated by $270**, so profit was originally **understated by $270**; the statement of revised profit **increases profit by $270** [1] [1].
+**5.** Step 1 — open a suspense account for the **$270** shortfall (credit side, since the credit column is the one short) [1]. Step 2 — once the missing posting is found, journalise: Debit **Suspense $270**, Credit **Discounts received $270** [1] [1]. Step 3 — the two suspense entries **cancel out**, closing the account [1]. Step 4 — discounts received (income) was **understated by $270**, so profit was originally **understated by $270**; the statement of revised profit **increases profit by $270** [1] [1].
 
 **6.** It tells you that **an error exists somewhere affecting either the control account or the individual ledger accounts** [1] [1]. It does **not** tell you the **specific error type, its exact location, or which side (control account vs. individual accounts) is wrong** — that requires further investigation, such as re-checking postings or casting [1] [1].
 

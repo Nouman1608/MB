@@ -43,7 +43,7 @@ Related: [Thermodynamics revision notes](/resources/a-physics-thermodynamics-rev
 
 ## Section B
 
-**4.** A gas is compressed. 250 J of work is done on the gas and it loses 80 J of thermal energy to the surroundings.
+**4.** A fixed mass of an ideal gas is compressed. 250 J of work is done on the gas and it loses 80 J of thermal energy to the surroundings.
 
 **(a)** Determine the change in internal energy, showing the sign of each term. **[3]**
 
@@ -55,7 +55,7 @@ Related: [Thermodynamics revision notes](/resources/a-physics-thermodynamics-rev
 
 **(b)** Calculate the specific latent heat of fusion of ice from these data. **[2]**
 
-**(c)** The accepted value is 3.34 × 10⁵ J kg⁻¹. Suggest why the experimental value is higher, and one improvement. **[3]**
+**(c)** The accepted value is 3.34 × 10⁵ J kg⁻¹. Suggest why the experimental value is lower, and one improvement. **[3]**
 
 **6.** 0.50 kg of water at 18 °C is heated to 100 °C and then completely boiled away.
 (c_water = 4180 J kg⁻¹ K⁻¹; L_v = 2.26 × 10⁶ J kg⁻¹)
@@ -70,7 +70,7 @@ Related: [Thermodynamics revision notes](/resources/a-physics-thermodynamics-rev
 
 ## Section C
 
-**7.** A fixed mass of gas undergoes an **isothermal** expansion. A separate sample undergoes an **adiabatic** compression.
+**7.** A fixed mass of **ideal** gas undergoes an **isothermal** expansion. A separate fixed mass of ideal gas undergoes an **adiabatic** compression.
 
 **(a)** State what ΔU equals for the isothermal process, and hence the relationship between q and W. **[2]**
 
@@ -104,8 +104,7 @@ Related: [Thermodynamics revision notes](/resources/a-physics-thermodynamics-rev
 
 **(b)** L = E ÷ m = 30 600 ÷ 0.15 [1] = **2.04 × 10⁵ J kg⁻¹** [1].
 
-**(c)** *(Note: the experimental value here is lower than accepted, which the data give — either direction may be argued from the numbers, so credit follows the reasoning.)*
-Energy is **absorbed from the surroundings** by the ice, or **lost from the heater to the surroundings** rather than to the ice [1], so the measured energy does not correspond exactly to the ice melted [1]. Improvement: **insulate the container** / use a **control experiment** with the heater off to measure energy gained from the surroundings, and subtract it [1].
+**(c)** The ice and its melting water start **below room temperature**, so heat also flows in from the warmer surroundings **in addition to** the heater [1]. This background heat melts extra ice without adding to the measured electrical energy E, so the mass melted is larger than the heater's energy alone would produce, and L = E ÷ m comes out **lower** than the true value [1]. Improvement: run a **control experiment** with the heater switched off (or disconnected) for the same time, measure the mass of ice that melts from background heat alone, and subtract this from the heater-on mass before calculating L [1].
 
 **6. (a)** E = mcΔθ = 0.50 × 4180 × 82 [1] = **171 380 J ≈ 1.71 × 10⁵ J** [1].
 

@@ -75,7 +75,7 @@ CaCO3(s) -> CaO(s) + CO2(g)     delta-H = +178 kJ mol-1,  delta-S = +161 J K-1 m
 
 **(b)** Calculate the minimum temperature at which the reaction becomes feasible. **[2]**
 
-**(c)** The reaction is feasible above this temperature but is not observed at room temperature even after several days. Explain. **[2]**
+**(c)** Room temperature (298 K) is far below the temperature found in (b). Using your answers to (a) and (b), explain why the reaction does not proceed at room temperature, however long you wait. **[2]**
 
 ## Section C
 
@@ -114,7 +114,7 @@ CaCO3(s) -> CaO(s) + CO2(g)     delta-H = +178 kJ mol-1,  delta-S = +161 J K-1 m
 
 **(b)** At the point of feasibility ΔG = 0, so T = ΔH ÷ ΔS [1] = 178 ÷ 0.161 = **1106 K** [1].
 
-**(c)** ΔG being negative indicates only that the reaction is **thermodynamically feasible**, not that it is fast [1]. The **activation energy is high**, so the rate is negligible at room temperature [1].
+**(c)** At 298 K, ΔG is **positive** (part (a)) — the reaction is simply **not thermodynamically feasible** at this temperature, so it cannot occur spontaneously no matter how long you wait [1]. Only once T reaches 1106 K (part (b)) does the −TΔS term grow large enough to make ΔG negative and the reaction feasible [1].
 
 **7.** Hydration enthalpy is the enthalpy change when **one mole of a gaseous ion dissolves in water** to form one mole of aqueous ions [1]. Enthalpy of solution is the enthalpy change when **one mole of an ionic solid dissolves** to form an infinitely dilute solution [1]. Hydration is always exothermic because it is dominated by the attraction between ions and polar water molecules, but solution is the *balance* between breaking the lattice (endothermic) and hydrating the ions (exothermic), so its sign depends on which term is larger [1].
 

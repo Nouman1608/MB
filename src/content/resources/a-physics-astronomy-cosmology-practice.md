@@ -107,7 +107,7 @@ Related: [Astronomy and Cosmology revision notes](/resources/a-physics-astronomy
 **(b)** L = 4πr²σT⁴, so r = √(L ÷ (4πσT⁴)) [1]
 T⁴ = 6042⁴ = 1.333 × 10¹⁵
 r = √(4.6 × 10²⁷ ÷ (4π × 5.67 × 10⁻⁸ × 1.333 × 10¹⁵)) [1]
-= **6.95 × 10⁸ m** [1].
+= **2.20 × 10⁹ m** [1].
 
 **(c)** Stefan's law contains **two unknowns** — radius and temperature [1]. Wien's law gives the temperature from the peak wavelength, leaving only one unknown in Stefan's law [1].
 
@@ -127,7 +127,7 @@ v = c × (Δλ ÷ λ) = 3.00 × 10⁸ × (4.1 ÷ 656.3) [1] = **1.87 × 10⁶ m 
 
 **7. (a)** Multiplying both sides by 4πd² gives 4πd²F = L, so d² = L ÷ (4πF), and therefore d = √(L ÷ (4πF)) [2].
 
-**(b)** d = √(4.0 × 10²⁶ ÷ (4π × 1.0 × 10⁻¹²)) [1] = **1.78 × 10¹⁸ m** [1].
+**(b)** d = √(4.0 × 10²⁶ ÷ (4π × 1.0 × 10⁻¹²)) [1] = **5.64 × 10¹⁸ m** [1].
 
 **(c)** Flux depends on **both** luminosity and distance, so the same measured flux could come from a more luminous source further away or a less luminous source closer in [1]. Only when the luminosity is already known — because the object is a standard candle — can the flux equation be solved uniquely for distance [1].
 
