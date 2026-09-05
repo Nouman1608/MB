@@ -149,6 +149,11 @@ factor, explicitly separating correlation from causation.
 - Be ready to name at least one specific risk factor each for coronary
 heart disease and for cancer.
 
+## Related resources
+
+- [The Causes of Disease revision notes](/resources/oxfordaqa-a-level-biology-causes-of-disease-revision-notes/)
+- [The Causes of Disease practice questions](/resources/a-level-oxfordaqa-biology-causes-of-disease-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610) specification,

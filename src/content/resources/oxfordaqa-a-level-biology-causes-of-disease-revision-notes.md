@@ -85,6 +85,11 @@ When a question presents disease-incidence data linked to a lifestyle risk facto
 
 3.2.1 deliberately sits before the unit's more system-specific sub-topics (digestion, cholera, HIV, blood defence, circulation) because it establishes the pathogen/lifestyle distinction those later sub-topics assume. When a later question on, for example, HIV or cholera asks how the pathogen causes harm, returning to the cell-damage/toxin-production framework from 3.2.1 is usually the fastest route to a precise answer, rather than treating each disease as an unrelated case study.
 
+## Related resources
+
+- [The Causes of Disease study guide](/resources/a-level-oxfordaqa-biology-causes-of-disease/)
+- [The Causes of Disease practice questions](/resources/a-level-oxfordaqa-biology-causes-of-disease-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1 —
