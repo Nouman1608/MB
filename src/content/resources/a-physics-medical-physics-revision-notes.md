@@ -53,10 +53,13 @@ I_r/I_i = (Z2-Z1)^2 / (Z2+Z1)^2 = (6.40-1.63)^2 / (6.40+1.63)^2 = 22.75/64.48 �
 
 About **35% of the intensity is reflected** at a soft tissue–bone boundary, so relatively little penetrates further — structures lying behind bone are poorly imaged by ultrasound.
 
-- **A-scan** — a single line, amplitude against time; used for simple depth measurement.
-- **B-scan** — many A-scans combined into a two-dimensional image, brightness representing echo amplitude.
+It is this pulse-echo reflection at tissue boundaries that provides
+diagnostic information (the current syllabus no longer names A-scan/B-scan
+terminology directly, but for context: an **A-scan** displays a single
+line of amplitude against time; a **B-scan** combines many such lines into
+a two-dimensional image, brightness representing echo amplitude).
 
-Attenuation in tissue: `I = I₀ e^(−μx)`.
+Attenuation in tissue: `I = I₀ e^(−μx)` — the same exponential form as for X-rays, below.
 
 ## X-rays
 
@@ -79,7 +82,7 @@ half-value thickness:   x_1/2 = ln2 / mu
 
 **Contrast media** — barium (Z = 56) and iodine (Z = 53) are swallowed or injected to make soft-tissue structures such as the gut or blood vessels visible, because their high atomic number gives them a much larger attenuation coefficient than the surrounding tissue.
 
-**Image quality:** sharpness is improved by a narrower beam and a smaller focal spot; contrast is improved by choosing photon energy appropriately and by contrast media.
+**Image quality:** the current syllabus focuses on **contrast**, improved by choosing photon energy appropriately and by contrast media (edge "sharpness" is background context only: it improves with a narrower beam and a smaller focal spot).
 
 ## CT scanning
 

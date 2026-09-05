@@ -88,7 +88,7 @@ HABER   N2 + 3H2 <=> 2NH3     exothermic forward
         450 C, 200 atm, iron catalyst
 
 CONTACT 2SO2 + O2 <=> 2SO3    exothermic forward
-        450 C, 1-2 atm, vanadium(V) oxide
+        450 C, 200 kPa (2 atm), vanadium(V) oxide
 ```
 
 Both use a **compromise temperature**: lower would give a higher yield but too slowly to be economic. **Pressure is also a compromise**: higher pressure would push both equilibria further towards the product, but very high pressures are expensive to generate and maintain, and for the Haber process present genuine safety risks — 200 atm is already a compromise, not the highest pressure achievable.
@@ -104,7 +104,7 @@ Both use a **compromise temperature**: lower would give a higher yield but too s
 - "Shifts to the right" is not enough — say towards products/reactants and why.
 - Quoting the wrong catalyst for Haber vs Contact — **iron** for Haber, **vanadium(V) oxide** for Contact — the pressures and temperatures also differ between the two.
 - Explaining temperature's effect using only "more collisions," without mentioning the greater proportion exceeding activation energy.
-- Core-tier candidates attempting to explain the Haber/Contact conditions using equilibrium reasoning they are not required to know — Core only needs the effect on rate, not the position-of-equilibrium argument.
+- Forgetting that the **whole** of the Haber and Contact process content — equations, sources, conditions and the equilibrium reasoning behind them — is **Supplement** in 0620 and simply **required** for every 5070 candidate; 0620 Core does not need any of it.
 
 ## Self-test
 

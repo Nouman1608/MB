@@ -44,7 +44,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Practical Techniques revision notes](/resources/practical-techniques-titrations-chromatography-separation/)
+Related: [Practical Techniques study guide](/resources/practical-techniques-titrations-chromatography-separation/)
 
 ---
 

@@ -88,7 +88,7 @@ Total distance                       = 105 m
 
 ## Free fall
 
-- Acceleration of free fall **g = 9.8 m/s²** (10 m/s² is usually accepted).
+- Acceleration of free fall **g = 9.8 m/s²**.
 - Without air resistance, all objects fall with the same acceleration regardless of mass — a feather and a hammer dropped in a vacuum land together.
 - With air resistance: drag rises with speed until drag = weight, resultant force = 0, and the object falls at constant **terminal velocity**.
 - On a speed–time graph, terminal velocity is where the curve **flattens** — the object does not slow down.

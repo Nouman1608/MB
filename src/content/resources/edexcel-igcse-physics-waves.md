@@ -110,7 +110,13 @@ m/s in air. Its wavelength:
 ## The Doppler effect
 
 When a wave source moves relative to an observer, the observed frequency
-and wavelength change — the **Doppler effect**. This is why an ambulance
+and wavelength change — the **Doppler effect**. As a source moves towards
+an observer, each successive wavefront is emitted from a position slightly
+closer to the observer than the last, so the wavefronts **bunch up** ahead
+of the source, shortening the observed wavelength and raising the observed
+frequency. As the source moves away, each wavefront is emitted further
+back, so the wavefronts **spread out** behind it, lengthening the observed
+wavelength and lowering the observed frequency. This is why an ambulance
 siren sounds higher in pitch as it approaches and lower as it recedes.
 
 ## The electromagnetic spectrum
@@ -121,16 +127,18 @@ decreasing wavelength: radio, microwave, infrared, visible (red through
 violet), ultraviolet, x-ray, gamma ray. Each has characteristic uses
 (broadcasting, cooking, night vision, optical fibres/photography,
 fluorescent lamps, medical imaging, sterilisation respectively) and, at
-excessive exposure, characteristic hazards (internal heating, skin burns,
-surface cell damage and blindness, cancer and mutation respectively) —
-against which appropriate protective measures should be used.
+excessive exposure, characteristic hazards — microwaves cause internal
+heating of body tissue, infrared causes skin burns, ultraviolet causes
+damage to surface cells and blindness, and gamma rays cause cancer and
+mutation — against which appropriate protective measures should be used.
 
 ## Reflection and refraction
 
 Light obeys the **law of reflection** (angle of incidence = angle of
-reflection) and can be **refracted** when passing between media of
-different density, changing speed and direction. The **refractive index**
-n relates the angles of incidence and refraction:
+reflection) and can be **refracted** when passing between media in which
+it travels at different speeds, changing speed and direction at the
+boundary. The **refractive index** n relates the angles of incidence and
+refraction:
 
 ```
 n = sin i / sin r
@@ -145,6 +153,13 @@ refractive index by:
 ```
 sin c = 1/n
 ```
+
+Total internal reflection is also used inside **glass prisms** — for
+example, a right-angled prism can turn a light beam through 90° or 180° by
+reflecting it internally off a face at 45°, which is greater than the
+critical angle for glass. This is the principle behind periscopes and
+binoculars, which use prisms rather than mirrors because total internal
+reflection loses no light to absorption at the reflecting surface.
 
 ## Sound (Physics only)
 

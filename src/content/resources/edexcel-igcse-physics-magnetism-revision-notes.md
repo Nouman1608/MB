@@ -41,17 +41,13 @@ Field lines run from **north to south** outside the magnet, never cross, and are
 
 ## Electromagnets
 
-A current-carrying wire produces a circular magnetic field; the **right-hand grip rule** gives its direction — thumb along the current, fingers curl in the field direction. Field patterns differ by conductor shape: a straight wire gives concentric circles, a flat coil gives a field resembling a short bar magnet, and a solenoid gives the strongest field of all.
+A current-carrying wire produces a circular magnetic field; the **right-hand grip rule** gives its direction — thumb along the current, fingers curl in the field direction. Field patterns differ by conductor shape: a straight wire gives concentric circles, a flat coil gives a field resembling a short bar magnet, and a solenoid gives a field like a bar magnet, strong and approximately uniform inside the coil.
 
 A **solenoid** produces a field like a bar magnet, strong and mostly uniform inside it. Strengthen it by increasing the current, adding more turns, or inserting a **soft iron core**.
 
 ## The motor effect
 
-A current-carrying conductor in a magnetic field experiences a force.
-
-```
-F = B I L        (when the conductor is perpendicular to the field)
-```
+A current-carrying conductor in a magnetic field experiences a force. (The equation F = BIL and the term magnetic flux density are beyond 4PH1 — this topic is examined qualitatively only.)
 
 **Fleming's left-hand rule** — **F**irst finger = **F**ield, se**C**ond finger = **C**urrent, thu**M**b = **M**otion. This underlies not just motors but also **loudspeakers**, which use the motor effect to convert an alternating current into the mechanical vibration that produces sound.
 

@@ -31,10 +31,10 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## What temperature actually measures
 
-Temperature is a measure of the **mean kinetic energy of the molecules** — not the total energy, and not the amount of heat.
+Temperature is a measure of the **mean translational kinetic energy of the molecules** — not the total energy, and not the amount of heat.
 
 ```
-mean KE per molecule = (3/2) k T
+mean translational KE per molecule = (3/2) k T
 ```
 
 This is why a cup of boiling water and a bath of warm water can hold very different amounts of thermal energy despite the cup being hotter. **Temperature and thermal energy are different quantities**, and conflating them is the most common conceptual error in the topic.
@@ -57,7 +57,7 @@ T / K = theta / C + 273.15
 
 Two fixed points:
 
-- **Absolute zero, 0 K** — the temperature at which substances have **minimum internal energy**. Not zero energy.
+- **Absolute zero, 0 K** — the temperature at which substances have **minimum internal (kinetic) energy** — zero, per mean translational KE = (3/2)kT.
 - **Triple point of water, 273.16 K** — the unique temperature and pressure at which ice, water and water vapour coexist in equilibrium.
 
 The triple point is used rather than the melting point because it occurs at **one unique pressure**, so it is perfectly reproducible; a melting point varies with pressure.
@@ -97,7 +97,7 @@ Fusion refers to melting/freezing; vaporisation refers to boiling/condensing. On
 
 ## Exam traps
 
-- Saying absolute zero is where molecules have *no* energy rather than minimum energy.
+- Saying molecules retain some residual motion at absolute zero — per mean translational KE = (3/2)kT, kinetic energy is exactly zero at 0 K.
 - Converting an interval from °C to K by adding 273.
 - Using °C in pV = nRT.
 - Saying thermal energy flows from higher internal energy to lower.
@@ -116,4 +116,4 @@ Fusion refers to melting/freezing; vaporisation refers to boiling/condensing. On
 6. Distinguish specific latent heat from specific heat capacity.
 7. Why does temperature stay constant while a solid melts, even though energy is still being supplied?
 
-**Answers:** 1. The mean kinetic energy of the molecules — not the total thermal energy. 2. No net flow of thermal energy between two bodies, which occurs when they are at the same temperature; energy flows from higher to lower *temperature*, regardless of internal energy. 3. The triple point occurs at one unique temperature and pressure, so it is perfectly reproducible, whereas a melting point varies with pressure. 4. Yes — intervals are identical on the two scales; only absolute temperatures differ, by 273.15. 5. It has a small thermal capacity, so it responds quickly and absorbs very little energy from the system being measured. 6. Specific latent heat is the energy needed to change state without a change of temperature, while specific heat capacity is the energy needed to change temperature without a change of state. 7. During melting the temperature stays constant because the energy supplied is latent heat, going into breaking intermolecular bonds rather than increasing mean kinetic energy.
+**Answers:** 1. The mean translational kinetic energy of the molecules — not the total thermal energy. 2. No net flow of thermal energy between two bodies, which occurs when they are at the same temperature; energy flows from higher to lower *temperature*, regardless of internal energy. 3. The triple point occurs at one unique temperature and pressure, so it is perfectly reproducible, whereas a melting point varies with pressure. 4. Yes — intervals are identical on the two scales; only absolute temperatures differ, by 273.15. 5. It has a small thermal capacity, so it responds quickly and absorbs very little energy from the system being measured. 6. Specific latent heat is the energy needed to change state without a change of temperature, while specific heat capacity is the energy needed to change temperature without a change of state. 7. During melting the temperature stays constant because the energy supplied is latent heat, going into breaking intermolecular bonds rather than increasing mean translational kinetic energy.

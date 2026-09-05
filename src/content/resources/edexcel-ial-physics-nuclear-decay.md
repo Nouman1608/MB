@@ -31,7 +31,7 @@ using applications such as medical physics and carbon dating.
 
 This topic connects closely with Unit 4's Nuclear and Particle Physics
 sub-topic (mass-energy equivalence, ΔE = c²Δm) and assumes familiarity
-with exponential decay from Unit 2's capacitor discharge content.
+with exponential decay from Unit 4 sub-topic 4.4's capacitor discharge content.
 
 ## Syllabus coverage
 

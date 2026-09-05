@@ -64,7 +64,7 @@ hydroelectric, solar, geothermal, wind, tidal and wave resources.
 
 | Resource | How useful energy/power is obtained |
 |---|---|
-| Fossil fuels | Chemical energy released by burning heats water to steam, which drives a **turbine** connected to a **generator** |
+| Fossil fuels | Chemical energy released by burning heats water to steam in a **boiler**, which drives a **turbine** connected to a **generator** |
 | Biofuels | Chemical energy from burning plant or waste material, used the same way as fossil fuels — a **boiler** produces steam to drive a **turbine** and **generator** |
 | Hydroelectric | Falling or flowing water turns a **turbine** directly, connected to a **generator** |
 | Solar | Radiation is converted to electricity directly (photovoltaic cells), or used to heat water |

@@ -42,8 +42,8 @@ Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,
 
 ## Where this fits in 0620/5070
 
-This topic applies chemistry you already have — tests for water (Topic 1),
-NPK elements and salts (Topic 7), combustion and redox (Topic 6) — to
+This topic applies chemistry you already have — NPK elements and salts
+(Topic 7), combustion and redox (Topic 6) — to
 real-world contexts: water treatment, agriculture and air pollution. It's
 also one of the more frequently updated topics in terms of exam context
 (new pollutants, new mitigation strategies), so understanding the underlying

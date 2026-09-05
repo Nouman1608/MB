@@ -49,11 +49,16 @@ binding energy, and its relation to mass defect; using data to calculate
 the mass defect and the binding energy for a nucleus; sketching and using
 the graph of binding energy per nucleon against nucleon number; explaining
 the relevance of binding energy per nucleon to nuclear fusion and to nuclear
-fission.
+fission; representing simple nuclear reactions, including fission and
+fusion, by nuclear equations, applying conservation of nucleon number and
+proton number; calculating the energy released in a nuclear reaction from
+the change in mass using ΔE = Δmc².
 
 **23.2 Radioactive decay** — understanding that fluctuations in count rate
 provide evidence for the random and spontaneous nature of radioactive
-decay; understanding and using the term activity and its unit, the becquerel;
+decay; representing alpha- and beta-decay by radioactive decay equations,
+using nuclide notation and conserving nucleon number and proton number;
+understanding and using the term activity and its unit, the becquerel;
 recalling and using A = λN; understanding that the decay constant λ is the
 probability of decay of a nucleus per unit time; recalling and using
 x = x₀e^(−λt), where x could represent activity, number of undecayed
@@ -97,6 +102,50 @@ the steep left-hand side of the curve toward the peak, releasing energy.
 - **Nuclear fission**, splitting a heavy nucleus into lighter ones, moves up
 the shallow right-hand side of the curve toward the peak, also releasing
 energy.
+
+## Nuclear equations
+
+A nuclear reaction — radioactive decay, fission or fusion — is
+represented by a nuclear equation written with nuclide notation, ₐᶻX,
+where A is the nucleon (mass) number and Z is the proton (atomic) number.
+In any such equation, **nucleon number and proton number are each
+conserved** (the totals on each side must match), even though mass and
+energy are not separately conserved:
+
+```
+Alpha decay:   ₉₂²³⁸U  →  ₉₀²³⁴Th + ₂⁴He
+Beta decay:    ₆¹⁴C   →  ₇¹⁴N  + ₋₁⁰e + antineutrino
+Fission:       ₉₂²³⁵U + ₀¹n → ₅₆¹⁴¹Ba + ₃₆⁹²Kr + 3₀¹n
+Fusion:        ₁²H + ₁³H → ₂⁴He + ₀¹n
+```
+
+In each case, check the equation balances: the nucleon numbers (top,
+superscripts) sum to the same total on both sides, and the proton numbers
+(bottom, subscripts) sum to the same total on both sides.
+
+## Energy released in a nuclear reaction
+
+Because mass and energy are equivalent (E = mc²), a nuclear reaction that
+releases energy must produce products whose total mass is **less** than
+the total mass of the reactants — the "missing" mass, Δm, has been
+converted into the energy released:
+
+```
+ΔE = Δmc²
+```
+
+**Worked example.** In a fusion reaction, the total mass of the reactants
+exceeds the total mass of the products by 3.0 × 10⁻²⁹ kg. The energy
+released:
+
+```
+ΔE = Δmc² = 3.0 × 10⁻²⁹ × (3.0 × 10⁸)² = 2.7 × 10⁻¹² J
+```
+
+This is the same equation used for binding energy above — the only
+difference is which masses are being compared (reactants and products of
+a whole reaction, rather than separated nucleons and an assembled
+nucleus).
 
 ## Radioactive decay is random and spontaneous
 
@@ -159,11 +208,20 @@ decay time is genuinely random.
 - **Forgetting the relationship λ = ln 2/t½** or misapplying it — this is
 the essential link between the decay constant and the more commonly quoted
 half-life.
+- **Forgetting to balance both nucleon number and proton number** when
+writing or checking a nuclear equation — both totals must match on each
+side, not just one.
+- **Using the mass of a whole atom instead of a bare nucleus (or vice
+versa) inconsistently** when calculating Δm — as long as the same
+convention is used for every mass in the calculation, the electron masses
+cancel out, but mixing conventions gives a wrong answer.
 
 ## Quick revision checklist
 
 - E = mc², mass defect, and nuclear binding energy
 - The binding-energy-per-nucleon curve, and why it explains both fusion and fission
+- Writing balanced nuclear equations for decay, fission and fusion, conserving nucleon and proton number
+- ΔE = Δmc² for the energy released in a nuclear reaction, from the mass difference between reactants and products
 - A = λN, and x = x₀e^(−λt) for exponential decay
 - λ = ln 2/t½ relating decay constant and half-life
 

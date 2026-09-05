@@ -48,8 +48,8 @@ simultaneous oxidation and reduction; define oxidation as gain of oxygen and
 reduction as loss of oxygen; identify redox reactions as reactions involving gain
 and loss of oxygen; identify oxidation and reduction in redox reactions.
 
-The classic example is the reduction of a metal oxide by a more reactive metal or
-by carbon:
+The classic example is the reduction of a metal oxide by a more reactive metal,
+by carbon, or by hydrogen:
 
 ```
 CuO + H2 → Cu + H2O

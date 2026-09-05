@@ -106,8 +106,11 @@ appear red). A star of similar mass to the Sun evolves through the stages:
 **nebula** (a cloud of gas and dust) → **main sequence star** (stable
 hydrogen fusion) → **red giant** (expanded outer layers as core fusion
 changes) → **white dwarf** (a small, dense remnant). Stars with mass
-significantly greater than the Sun follow a different evolutionary path,
-typically ending in more dramatic events beyond a white dwarf stage.
+significantly greater than the Sun follow a different evolutionary path:
+**nebula** → **main sequence star** → **red supergiant** (rather than a
+red giant) → **supernova** (a violent explosion as the core collapses) →
+leaving behind either a **neutron star** or, for the most massive stars, a
+**black hole**.
 
 **Absolute magnitude** represents how bright a star would appear at a
 standard distance, allowing fair brightness comparisons between stars at
@@ -146,9 +149,12 @@ including being different on the Moon and other planets from Earth.
 star, it is nebula → main sequence → red giant → white dwarf, in that
 order.
 - **Treating red-shift as literal physical motion through space in the
-everyday sense** — at this level, it is enough to know it indicates
-recession and evidences expansion, without needing the deeper distinction
-between motion through space and the expansion of space itself.
+everyday sense**, rather than as evidence that space itself is expanding.
+A stronger answer explicitly distinguishes galaxies moving *through* space
+from space itself expanding (which is why every observer, in every
+galaxy, sees the same pattern, and why redshift does not put Earth at any
+special centre) — this distinction is what separates a full answer from a
+partial one.
 - **Mixing up absolute magnitude (brightness at a standard distance) with
 apparent brightness (brightness as actually observed from Earth)**.
 

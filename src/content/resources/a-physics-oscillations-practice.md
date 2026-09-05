@@ -54,6 +54,12 @@ displacement, velocity, acceleration, kinetic energy, potential energy. **[5]**
 **(b)** State two factors that do **not** affect the period. **[2]**
 **(c)** State the condition under which the formula is valid. **[1]**
 
+*Note: the simple pendulum's period formula T = 2π√(l/g) is not listed in
+the standard 9702 data/formulae section — check a recent past paper or
+the published data booklet. If it is not supplied, it should be
+memorised; if examined, a real question should supply the relationship
+rather than requiring recall.*
+
 **5.** Describe light, heavy and critical damping, and state one practical application of critical damping. **[4]**
 
 **6.** A system is driven at a range of frequencies.
@@ -78,10 +84,10 @@ displacement, velocity, acceleration, kinetic energy, potential energy. **[5]**
 **1.** The acceleration is **proportional to the displacement** from the equilibrium position [1] and always directed **towards** that position [1], which is why the motion is restoring rather than divergent.
 
 **2. (a)** ω = 2π ÷ T = 2π ÷ 0.80 [1] = **7.85 rad s⁻¹** [1].
-**(b)** v_max = ωA = 7.85 × 0.045 [1] = **0.353 m s⁻¹** [1].
-**(c)** a_max = ω²A = 7.85² × 0.045 [1] = **2.77 m s⁻²** [1].
-**(d)** v = ω√(A² − x²) = 7.85 × √(0.045² − 0.020²) [1]
-= 7.85 × √(2.025 × 10⁻³ − 4.0 × 10⁻⁴) = 7.85 × 0.0403 [1] = **0.316 m s⁻¹** [1].
+**(b)** v_max = ωx₀ = 7.85 × 0.045 [1] = **0.353 m s⁻¹** [1].
+**(c)** a_max = ω²x₀ = 7.854² × 0.045 [1] = **2.8 m s⁻²** [1] (using the unrounded ω = 7.854 rad s⁻¹; quoted to 2 s.f. to match the data).
+**(d)** v = ω√(x₀² − x²) = 7.854 × √(0.045² − 0.020²) [1]
+= 7.854 × √(2.025 × 10⁻³ − 4.0 × 10⁻⁴) = 7.854 × 0.04031 [1] = **0.32 m s⁻¹** [1].
 
 **3. Displacement** — maximum at the extremes, zero at the centre [1].
 **Velocity** — maximum at the centre, zero at the extremes [1].
@@ -99,7 +105,7 @@ displacement, velocity, acceleration, kinetic energy, potential energy. **[5]**
 Application: **car suspension** or a **measuring instrument's needle** [1].
 
 **6. (a)** The **driving frequency equals the natural frequency** of the system, at which point the amplitude of oscillation is maximum [1].
-**(b)** The **peak amplitude decreases** [1]; the curve becomes **broader** [1]; the peak shifts slightly to a **lower frequency** [1].
+**(b)** The **peak amplitude decreases** [1]; the curve becomes **broader** (less sharply peaked) [1]; with sufficiently heavy damping, the **peak may disappear altogether**, so amplitude falls smoothly with frequency instead of resonating [1].
 **(c)** Useful: **MRI**, radio tuning, or a swing being pushed in time [1]. Destructive: **bridges or buildings in an earthquake** [1].
 
 **7. (a)** E = ½mω²x₀² = 0.5 × 0.20 × 5.0² × 0.030² [1] = **2.25 × 10⁻³ J** [1].

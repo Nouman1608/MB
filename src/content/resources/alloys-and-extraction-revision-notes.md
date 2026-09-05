@@ -49,7 +49,7 @@ That explanation, with "different sized atoms" and "layers cannot slide", is the
 |---|---|---|
 | Brass | Copper + zinc | Instruments, fittings |
 | Bronze | Copper + tin | Bearings, statues |
-| Stainless steel | Iron + chromium + nickel | Cutlery, chemical plant — resists corrosion |
+| Stainless steel | Iron + chromium + nickel + carbon | Cutlery, chemical plant — resists corrosion |
 | Mild steel | Iron + small % carbon | Car bodies, construction |
 | Duralumin | Aluminium + copper | Aircraft — light and strong |
 

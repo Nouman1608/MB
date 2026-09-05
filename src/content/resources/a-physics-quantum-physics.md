@@ -52,13 +52,14 @@ Particles](/resources/as-physics-particle-physics/).
 **22.1 Energy and momentum of a photon** — understanding that
 electromagnetic radiation has a particulate nature, and that a photon is a
 quantum of electromagnetic energy; recalling and using E = hf; recalling and
-using the electron-volt as a unit of energy.
+using the electron-volt as a unit of energy; recalling and using p = E/c
+and p = h/λ for the momentum of a photon.
 
 **22.2 Photoelectric effect** — understanding that photoelectrons may be
 emitted from a metal surface when it is illuminated by electromagnetic
 radiation; understanding and using the terms threshold frequency and
 threshold wavelength; explaining photoelectric emission in terms of photon
-energy and work function energy; recalling and using hf = ϕ + Eₖ(max);
+energy and work function energy; recalling and using hf = Φ + Eₖ(max);
 explaining why the maximum photoelectric energy is independent of intensity,
 whereas the photoelectric current is proportional to intensity, for
 radiation of a particular frequency.
@@ -91,6 +92,32 @@ where h is the Planck constant. Photon energy can also be expressed in
 is the energy gained by an electron accelerated through a potential
 difference of 1 V.
 
+## Photon momentum
+
+Although a photon has no rest mass, it still carries **momentum**,
+related to its energy by:
+
+```
+p = E/c
+```
+
+where c is the speed of light. Combining this with E = hf and c = fλ gives
+an equivalent form in terms of wavelength:
+
+```
+p = h/λ
+```
+
+**Worked example.** A photon of wavelength 500 nm has momentum:
+
+```
+p = h/λ = (6.63 × 10⁻³⁴) / (500 × 10⁻⁹) = 1.33 × 10⁻²⁷ kg m s⁻¹
+```
+
+This is the same expression, λ = h/p, that reappears rearranged in the de
+Broglie relation for matter waves below — photon momentum is the historical
+starting point for that idea.
+
 ## The photoelectric effect
 
 When electromagnetic radiation of sufficiently high frequency shines on a
@@ -99,12 +126,12 @@ a certain **threshold frequency** (or above a corresponding threshold
 wavelength), no electrons are emitted, no matter how intense the radiation.
 This is explained by treating light as photons: each photon interacts with
 a single electron, transferring all its energy at once. If this energy is
-at least the metal's **work function** ϕ (the minimum energy needed to free
+at least the metal's **work function** Φ (the minimum energy needed to free
 an electron from the surface), an electron is emitted; the remaining
 energy becomes its kinetic energy:
 
 ```
-hf = ϕ + Eₖ(max)
+hf = Φ + Eₖ(max)
 ```
 
 Because each photon-electron interaction is independent of every other,
@@ -119,7 +146,7 @@ frequency 8.0 × 10¹⁴ Hz (E = hf = 6.63 × 10⁻³⁴ × 8.0 × 10¹⁴ ≈ 5
 ≈ 3.31 eV) shines on it. Maximum kinetic energy of emitted electrons:
 
 ```
-Eₖ(max) = hf − ϕ = 3.31 − 2.0 = 1.31 eV
+Eₖ(max) = hf − Φ = 3.31 − 2.0 = 1.31 eV
 ```
 
 ## Wave-particle duality
@@ -164,7 +191,7 @@ only affects the rate (current) of emission.
 frequency**, regardless of intensity — this is the key evidence for the
 particulate (photon) model, inconsistent with a purely wave-based
 description.
-- **Mixing up which equation applies where** — hf = ϕ + Eₖ(max) is for the
+- **Mixing up which equation applies where** — hf = Φ + Eₖ(max) is for the
 photoelectric effect; hf = E₁ − E₂ is for atomic energy level transitions.
 They describe different physical situations.
 - **Treating wave-particle duality as "sometimes a wave, sometimes a
@@ -174,7 +201,8 @@ properties of quantum objects, evidenced by different experiments.
 ## Quick revision checklist
 
 - E = hf for photon energy, and using the electron-volt
-- hf = ϕ + Eₖ(max) for the photoelectric effect, and why intensity affects
+- p = E/c = h/λ for photon momentum
+- hf = Φ + Eₖ(max) for the photoelectric effect, and why intensity affects
 current but not maximum kinetic energy
 - λ = h/p, the de Broglie wavelength, showing particles have wave properties
 - hf = E₁ − E₂, discrete energy levels, and line spectra as evidence for them

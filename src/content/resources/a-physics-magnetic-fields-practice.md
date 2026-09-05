@@ -44,7 +44,7 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 
 **1.** Define magnetic flux density. **[2]**
 
-**2.** State Fleming's left-hand rule and Fleming's right-hand rule, saying what each applies to. **[4]**
+**2.** State Fleming's left-hand rule, saying what it applies to, and state Lenz's law, saying what it is used for. **[4]**
 
 **3.** A wire of length 0.18 m carrying 4.5 A lies at 40° to a magnetic field of 0.32 T.
 
@@ -68,10 +68,10 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 
 **7.** Describe the pattern of the magnetic field produced by **(a)** a long straight current-carrying wire, and **(b)** a long current-carrying solenoid. **[4]**
 
-**8.** A coil of 200 turns and area 0.010 m² rotates at 50 revolutions per second in a magnetic field of flux density 0.050 T.
+**8.** *(Part (b) is an extension beyond the 9702 electromagnetic induction syllabus — the rotating-coil generator formula ε₀ = BANω is not a 9702 recall requirement or data-booklet equation; it is included for context only, not examinable.)* A coil of 200 turns and area 0.010 m² rotates at 50 revolutions per second in a magnetic field of flux density 0.050 T.
 
 **(a)** Calculate the angular frequency of rotation. **[2]**
-**(b)** Calculate the peak e.m.f. induced. **[2]**
+**(b)** *(Extension, not examinable.)* Calculate the peak e.m.f. induced.
 **(c)** State how the e.m.f. varies with time. **[1]**
 
 ---
@@ -80,8 +80,8 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 
 **1.** The force per unit length per unit current on a conductor **at right angles to the field** [1]; B = F ÷ (IL), measured in tesla [1].
 
-**2. Left hand** — First finger Field, seCond finger Current, thuMb Motion [1]; applies to the **motor effect** [1].
-**Right hand** — same finger assignment [1]; applies to **electromagnetic induction** (the dynamo effect) [1].
+**2. Fleming's left-hand rule** — First finger Field, seCond finger Current, thuMb Motion [1]; applies to the **motor effect**, i.e. the direction of the force on a current-carrying conductor in a magnetic field [1].
+**Lenz's law** — the induced e.m.f. (and hence induced current) acts in a direction that **opposes the change producing it** [1]; it is used to determine the **direction** of an induced e.m.f. in electromagnetic induction [1].
 
 **3. (a)** F = BIL sin θ = 0.32 × 4.5 × 0.18 × sin 40° [1] [1] = **0.167 N** [1].
 **(b)** At **90°** [1]; F = 0.32 × 4.5 × 0.18 = **0.259 N** [1].
@@ -101,7 +101,7 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 **(b)** A **strong, uniform field inside the solenoid**, similar to a bar magnet's field but concentrated and controllable via the current [1]; the field is weaker and spreads out outside the solenoid's ends [1]. Reversing the current direction reverses the polarity of the field, exactly as it would for a bar magnet.
 
 **8. (a)** ω = 2πf, converting the rotation rate from rev/s to rad/s first [1] = 2π × 50 = **314 rad s⁻¹** [1].
-**(b)** peak e.m.f. = NBAω = 200 × 0.050 × 0.010 × 314 [1] = **31.4 V** [1].
+**(b)** *(Extension, not part of the 9702 mark scheme.)* peak e.m.f. = NBAω = 200 × 0.050 × 0.010 × 314 = **31.4 V**.
 **(c)** It varies **sinusoidally** with time, oscillating between +31.4 V and −31.4 V [1].
 
 ---
@@ -113,6 +113,6 @@ Related: [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-r
 - Saying the magnetic force does work on a charged particle — it does not.
 - Stating Lenz's law without linking it to conservation of energy.
 - Describing the field of a solenoid as circular, like a straight wire, rather than as a strong uniform field resembling a bar magnet's.
-- Forgetting to convert frequency in rev/s (or Hz) to angular frequency ω = 2πf before using it in the generator e.m.f. formula.
+- Forgetting to convert frequency in rev/s (or Hz) to angular frequency ω = 2πf (this conversion is examinable even though the generator e.m.f. formula ε₀ = BANω it feeds into, in Q8(b), is an extension beyond the 9702 syllabus).
 
 Work through the [Magnetic Fields revision notes](/resources/a-physics-magnetic-fields-revision-notes/) alongside these questions: the notes summarise the three ways to induce an e.m.f. and the flux/flux-linkage definitions in condensed form, while these questions test whether you can apply the generator e.m.f. formula and describe field patterns for a specific current-carrying conductor, rather than just recall the equations.

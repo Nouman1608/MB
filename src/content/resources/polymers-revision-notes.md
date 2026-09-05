@@ -66,15 +66,17 @@ Draw these as blocks joined by the linkage, with the lost water molecules shown.
 
 ## Natural polymers
 
+**Protein is the only natural polymer named in the 0620/5070 syllabuses.**
+
 | Natural polymer | Monomer | Linkage |
 |---|---|---|
 | Protein | Amino acids | **Amide** (peptide) — same link as nylon |
-| Starch / cellulose | Glucose | Glycosidic |
-| DNA | Nucleotides | Phosphodiester (nucleotides joined via sugar-phosphate bonds) |
 
 Proteins are natural **polyamides**, which is why nylon and protein share the –CONH– link — the same condensation-polymerisation principle at work in living organisms as in a nylon factory, just built from amino acid monomers instead of a diamine and a dicarboxylic acid.
 
-**Hydrolysis** breaks these down: protein → amino acids; starch → glucose. Hydrolysis is, in effect, condensation polymerisation run backwards — water is added back in at each linkage, splitting the chain at exactly the bonds that were formed by losing water in the first place.
+**Hydrolysis** breaks proteins down into amino acids, in effect running condensation polymerisation backwards — water is added back in at the amide linkage, splitting the chain at exactly the bonds that were formed by losing water in the first place.
+
+*Background — beyond the specification, not examinable:* starch and cellulose (both glucose polymers joined by glycosidic linkages) and DNA (nucleotides joined by phosphodiester linkages) are natural polymers, but neither is named in the 0620/5070 subject content.
 
 ## Plastics and the environment
 

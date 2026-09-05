@@ -55,7 +55,7 @@ Related: [Electric Fields revision notes](/resources/a-physics-electric-fields-r
 **4.** An electron enters the field of question 3 travelling **parallel** to the plates.
 
 **(a)** Describe and explain the shape of its path. **[3]**
-**(b)** Explain how this compares with the path of an electron entering a uniform **magnetic** field perpendicular to the field lines. **[3]**
+**(b)** *(Cross-topic comparison — magnetic fields are covered in* [Magnetic Fields](/resources/a-physics-magnetic-fields/) *, not in this resource.)* Explain how this compares with the path of an electron entering a uniform **magnetic** field perpendicular to the field lines. **[3]**
 
 **5.** Two point charges of +3.0 nC and −5.0 nC are 0.12 m apart.
 (1 ÷ 4πε₀ = 8.99 × 10⁹ N m² C⁻²)
@@ -63,7 +63,7 @@ Related: [Electric Fields revision notes](/resources/a-physics-electric-fields-r
 **(a)** Calculate the force between them. **[3]**
 **(b)** State whether it is attractive or repulsive. **[1]**
 
-**6.** Compare electric and gravitational fields on: the nature of the force, the sign of the potential, and whether shielding is possible. **[3]**
+**6.** Compare electric and gravitational fields on: the nature of the force, the sign of the potential, and the SI unit used for field strength in each case. **[3]**
 
 **7.** Calculate the electric field strength 0.15 m from a point charge of +4.0 × 10⁻⁶ C. (1 ÷ 4πε₀ = 8.99 × 10⁹ N m² C⁻²) **[3]**
 
@@ -95,7 +95,7 @@ Difference: gravitational force is **always attractive**, whereas electric force
 
 **6. Force:** gravitational is always attractive; electric can be attractive or repulsive [1].
 **Potential:** gravitational potential is always negative; electric potential can be positive or negative [1].
-**Shielding:** electric fields **can** be shielded (a Faraday cage); gravitational fields **cannot** [1].
+**Unit:** electric field strength is measured in **N C⁻¹** (equivalently V m⁻¹); gravitational field strength is measured in **N kg⁻¹** [1].
 
 **7.** E = (1 ÷ 4πε₀) × Q ÷ r² [1] = 8.99 × 10⁹ × (4.0 × 10⁻⁶) ÷ (0.15)² [1] = **1.60 × 10⁶ N C⁻¹** [1].
 

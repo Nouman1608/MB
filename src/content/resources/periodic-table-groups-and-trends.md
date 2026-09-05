@@ -78,6 +78,33 @@ everything else on this page. Elements in the same group form ions of the same
 charge for the same reason: Group I metals form 1+ ions, Group VII non-metals
 form 1− ions, and so on.
 
+**Metallic to non-metallic character across a period.** Moving left to right
+across a period, elements change from **metallic** (Group I, II — good
+conductors, malleable, form positive ions) through elements with mixed or
+intermediate properties, to **non-metallic** (towards Group VII, 0/VIII —
+poor conductors, brittle if solid, form negative ions or no ions at all).
+This reflects the outer shell filling up with electrons as proton number
+increases across the period, making it progressively easier to gain
+electrons rather than lose them.
+
+**Predicting properties from position.** An element's position tells you
+both its group (which fixes its outer-shell electron count, its typical ion
+charge, and therefore its general chemical behaviour) and its period
+(which, combined with the period trend above, indicates roughly how
+metallic or non-metallic it is). Knowing where an unfamiliar element sits
+relative to elements you do know lets you predict, for example, whether it
+is likely to be reactive, what ion charge it forms, or whether it behaves
+more like a metal or a non-metal.
+
+**Identifying trends in unfamiliar groups from given data.** Given a table
+or graph of a property (such as melting point, density or reactivity) for
+a group of elements you haven't studied by name, look for the same kind of
+pattern seen in Groups I and VII: a property that increases or decreases
+steadily down (or across) the data, following the trend in atomic
+structure (outer electron distance from the nucleus, shielding, etc.), and
+state the direction of the trend and a structural reason for it, exactly
+as you would for lithium/sodium/potassium or fluorine/chlorine/bromine.
+
 ## 8.2 Group I properties — the alkali metals
 
 **CORE (0620) · REQUIRED (5070)** — describe lithium, sodium and potassium as
@@ -121,10 +148,12 @@ Cl2(aq) + 2KI(aq) → 2KCl(aq) + I2(aq)
 ```
 
 Chlorine is more reactive than iodine, so it displaces iodide ions, forming
-iodine (visible as the solution turns brown/orange). This links directly to the
-[silver nitrate anion tests](/resources/identification-of-ions-and-gases/) — the
-same reactivity order (Cl > Br > I) explains why chloride, bromide and iodide give
-progressively less soluble, differently coloured silver halide precipitates.
+iodine (visible as the solution turns brown/orange). This links to the
+[silver nitrate anion tests](/resources/identification-of-ions-and-gases/) — chloride,
+bromide and iodide happen to give progressively less soluble, differently coloured
+silver halide precipitates in the **same order** (Cl > Br > I) as halogen reactivity,
+which can help you remember one trend from the other, though the two arise from
+different underlying causes (solubility is not explained by reactivity).
 
 ## 8.4 Transition elements
 
@@ -136,10 +165,15 @@ act as catalysts, both as elements and within compounds.
 as having ions with variable oxidation numbers, for example iron(II) and
 iron(III).
 
-Iron is the example the syllabus names directly: iron(II) compounds (like
+Iron is the example **0620** names directly: iron(II) compounds (like
 iron(II) sulfate) and iron(III) compounds (like iron(III) chloride) are both
 stable, ordinary compounds — the metal simply forms two different, equally valid
-ions. This is unlike Group I metals, which only ever form one ion charge, and it's
+ions. **5070's wording states the general property (variable oxidation numbers
+in transition elements) without naming a specific example**, so "iron is the
+syllabus example" is strictly an 0620 statement — a 5070 candidate should still
+know the general idea, illustrated with iron, but should not assume the
+syllabus wording itself commits to iron over any other transition metal. This
+is unlike Group I metals, which only ever form one ion charge, and it's
 exactly the property tested by the [iron(II)/iron(III) precipitate colours](/resources/identification-of-ions-and-gases/)
 in qualitative analysis.
 
@@ -192,7 +226,7 @@ numbers (iron(II)/iron(III))
 - [Atomic Structure](/resources/atomic-structure/) — electronic configuration behind every trend on this page
 - [Ionic, Covalent and Metallic Bonding](/resources/ionic-covalent-and-metallic-bonding/) — how group number sets ionic charge
 - [Metal Properties and Reactivity](/resources/metal-properties-and-reactivity/) — the reactivity series, which Group I's own reactivity trend feeds into
-- [Group 2: The Alkaline Earth Metals](/resources/as-group-2-the-alkaline-earth-metals/) · [Group 17: The Halogens](/resources/as-group-17-the-halogens/) — the AS Level continuation of Group I/VIII and Group VII (9701), not required for IGCSE or O Level
+- [Group 2: The Alkaline Earth Metals](/resources/as-group-2-the-alkaline-earth-metals/) — the neighbouring group at AS Level (9701), not required for IGCSE or O Level · [Group 17: The Halogens](/resources/as-group-17-the-halogens/) — the AS Level continuation of Group VII (9701), not required for IGCSE or O Level
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
 *Written against Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,

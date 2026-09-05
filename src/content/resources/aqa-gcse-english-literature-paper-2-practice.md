@@ -122,7 +122,7 @@ the text alone.
 - Section B comparisons that address theme only, ignoring the structure and form AQA credits equally.
 - Choosing a second poem for Section B under exam pressure rather than deciding on a pairing in advance.
 - Section C answers that describe what an unseen poem is about without analysing how language and structure create that effect.
-- Running short on time for Section C because it feels the least prepared-for, despite carrying a weight (32 marks) similar to Sections A (34) and B (30).
+- Running short on time for Section C because it feels the least prepared-for, even though it carries 32 of the paper's 96 marks — not the same tariff as Sections A (34) and B (30), but still too substantial a share to under-time.
 - Adding social or historical context as a bolt-on final paragraph instead of integrating it throughout the answer.
 
 ## Approaching unseen poetry under exam pressure

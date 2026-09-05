@@ -149,11 +149,15 @@ CH4 + Cl2  --UV-->  CH3Cl + HCl
 ## Cracking: alkenes from alkanes
 
 **Cracking** breaks larger, less useful alkane molecules into smaller
-alkanes and **alkenes**, using a high temperature and a catalyst. It's done
+alkanes and **alkenes**, using a high temperature and a catalyst. Cracking
+can also produce **hydrogen** as one of the smaller products, when the
+alkane chain is broken in a way that leaves a hydrogen atom rather than a
+second hydrocarbon fragment — for example, decane can be cracked into
+octane and ethene, or into other combinations that release H2. It's done
 because the fractional-distillation supply of short-chain hydrocarbons
 (especially the highly demanded petrol fraction) doesn't naturally match
 demand — cracking converts excess long-chain fractions into the shorter
-molecules, and reactive alkenes, that are actually wanted.
+molecules, reactive alkenes, and hydrogen, that are actually wanted.
 
 ## Alkenes: structure and reactivity
 

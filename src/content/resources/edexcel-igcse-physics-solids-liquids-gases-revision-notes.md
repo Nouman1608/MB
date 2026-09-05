@@ -60,10 +60,13 @@ p = h rho g = 5.0 x 1000 x 9.8 = 49 000 Pa
 ## The gas laws
 
 ```
-p1 V1 = p2 V2                (constant temperature)
-p1 / T1 = p2 / T2            (constant volume)
-pV / T = constant
+p1 V1 = p2 V2                (constant temperature, fixed mass)
+p1 / T1 = p2 / T2            (constant volume, fixed mass)
 ```
+
+4PH1 lists only these two two-variable relations, each requiring a fixed
+mass of gas — the general combined gas law pV/T = constant (which drops
+the fixed-mass condition) is beyond the specification and not supplied.
 
 **Temperature must be in kelvin:** `T(K) = θ(°C) + 273`. Using Celsius is the single most common cause of a wrong answer here.
 
@@ -88,11 +91,11 @@ p2 = 6.0x10^5 Pa
 
 ```
 E = m c delta-theta        specific heat capacity
-E = m L                    specific latent heat
 ```
 
 **Specific heat capacity** — the energy needed to raise 1 kg by 1 °C.
-**Specific latent heat** — the energy needed to change the state of 1 kg with **no temperature change**.
+
+**Specific latent heat** (E = mL) is the energy needed to change the state of 1 kg with **no temperature change** — but the equation itself is **beyond the 4PH1 specification**; a separate calculation beyond this specification is needed for latent heat during a state change, and only ΔQ = mcΔθ is examinable.
 
 **Temperature stays constant during a change of state** because the energy supplied goes into breaking the forces between particles rather than increasing their kinetic energy. That is the standard explanation question.
 

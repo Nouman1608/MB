@@ -27,8 +27,8 @@ tier, needed for grades A*–C.
 
 Waves is the third of the six 0625 topics. It introduces wave language
 (wavelength, frequency, amplitude, wave speed) that is then reused,
-unchanged, in Topic 4's treatment of electromagnetic induction and in
-Topic 5's nuclear radiation. The general wave behaviours covered here —
+unchanged, in Topic 6's treatment of Space physics, through redshift and
+the cosmic microwave background. The general wave behaviours covered here —
 reflection, refraction and diffraction — are demonstrated with light and
 sound specifically, but the underlying ideas are the same ones examined
 generically in section 3.1, so a weak grasp of 3.1 tends to cost marks
@@ -89,6 +89,24 @@ faster in solids than liquids, and faster in liquids than gases; uses of
 ultrasound in non-destructive testing, medical scanning and sonar,
 including calculating depth/distance from time and wave speed
 
+## Refraction and refractive index
+
+When light passes from one transparent material into another of
+different density (e.g. from air into glass, or glass into water), it
+changes speed, and — unless it hits the boundary exactly along the
+normal — this speed change also bends its direction. This bending is
+**refraction**. Light slows down and bends towards the normal on
+entering a denser material (e.g. air into glass), and speeds up and
+bends away from the normal on leaving it (e.g. glass into air).
+
+**Refractive index (n)** is a number describing how strongly a material
+bends light — specifically, the ratio of the speed of light in a vacuum
+(or air) to the speed of light in the material. A larger refractive
+index means light slows down more, and bends more sharply, on entering
+that material. For a light ray entering the material from air, this is
+expressed as n = sin i / sin r, where i is the angle of incidence (in
+air) and r is the angle of refraction (in the material).
+
 ## How to approach it
 
 Section 3.1 is the foundation for the whole topic, so fix the wave
@@ -108,9 +126,11 @@ visible, ultraviolet, X-ray, gamma — by increasing frequency, decreasing
 wavelength) as a single sequence, since questions often ask you to place
 an unfamiliar use or hazard into the correct region by matching it to
 a property you do know. For sound, the ultrasound calculations
-(Supplement) use exactly the same v = fλ-style reasoning as speed,
-distance and time elsewhere in the course — treat depth = (speed ×
-time) / 2 as a standard method to rehearse, not a new idea.
+(Supplement) use exactly the same **speed = distance / time** reasoning
+as elsewhere in the course, not the wave equation v = fλ — frequency and
+wavelength play no part. Treat depth = (speed × time) / 2 as a standard
+method to rehearse, halving the distance because the pulse travels out
+to the reflecting surface and back again before detection.
 
 ## Examiner report insight
 

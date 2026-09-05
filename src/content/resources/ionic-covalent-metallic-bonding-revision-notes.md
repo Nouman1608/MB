@@ -80,6 +80,21 @@ just to one neighbour.
 - **Covalent** — two non-metals *share* pairs of electrons.
 - **Metallic** — metal atoms lose outer electrons into a delocalised sea.
 
+## Dot-and-cross diagrams
+
+Show only the **outer shell**, with dots for one atom's electrons and crosses for the
+other's, so the examiner can see where each electron came from.
+
+- **Ionic** (electron transfer) — e.g. **sodium chloride**: Na's one outer dot moves
+  across to Cl, giving `[Na]⁺` (empty outer shell) and `[Cl]⁻` with 8 outer electrons.
+  **Magnesium oxide** is the same idea with two electrons transferred: `[Mg]²⁺` and
+  `[O]²⁻`, both ions carrying a 2+/2− charge.
+- **Covalent** (electron sharing) — e.g. **water**, **methane** and **hydrogen
+  chloride**: each shared pair sits between the two atoms, and every atom ends with a
+  full outer shell (2 for hydrogen, 8 for everything else). **Carbon dioxide**
+  (Extended/5070) needs **double bonds** — two shared pairs between carbon and each
+  oxygen.
+
 ## Describe vs explain — the tier trap
 
 O Level 5070 and IGCSE 0620 Extended both require you to **explain**
@@ -102,10 +117,11 @@ is correct.
 
 **Silicon(IV) oxide, SiO₂**, is a third giant covalent structure, O Level
 5070 required content and IGCSE 0620 Extended. It resembles diamond
-structurally — every atom uses all its outer electrons in covalent bonds —
-so, like diamond, it has a very high melting point and does **not**
-conduct electricity, because there are no delocalised electrons free to
-carry charge.
+structurally — each silicon atom forms four covalent bonds and each oxygen
+forms two, and all the outer electrons are **localised**, either in a
+bonding pair or a lone pair — so, like diamond, it has a very high melting
+point and does **not** conduct electricity, because there are no
+delocalised electrons free to carry charge.
 
 ## Exam traps
 
@@ -127,4 +143,4 @@ carry charge.
 6. Describe the structure of an ionic lattice, using the phrase examiners expect.
 7. SiO₂ and diamond are both giant covalent and very hard, but only one of the two elements involved (carbon) also forms a soft, slippery, conducting allotrope. Explain why graphite conducts but SiO₂ does not.
 
-**Answers:** 1. Ions are fixed in the lattice when solid; melting frees them to move and carry charge. 2. CO₂ is simple molecular — only weak intermolecular forces need overcoming; SiO₂ is giant covalent, requiring strong covalent bonds to be broken. 3. Weak forces between layers let them slide (lubricant); one delocalised electron per carbon carries charge (electrode). 4. Metal layers slide while delocalised electrons maintain attraction; in ionic solids displacement brings like charges together, which repel and split the crystal. 5. Ionic — transferred; covalent — shared; metallic — delocalised into a sea. 6. A regular, repeating 3D arrangement of alternating positive and negative ions. 7. In graphite each carbon uses only 3 of its 4 outer electrons in bonds, leaving one delocalised per atom; in SiO₂, every outer electron of every atom is used in covalent bonds, so none are free to carry charge.
+**Answers:** 1. Ions are fixed in the lattice when solid; melting frees them to move and carry charge. 2. CO₂ is simple molecular — only weak intermolecular forces need overcoming; SiO₂ is giant covalent, requiring strong covalent bonds to be broken. 3. Weak forces between layers let them slide (lubricant); one delocalised electron per carbon carries charge (electrode). 4. Metal layers slide while delocalised electrons maintain attraction; in ionic solids displacement brings like charges together, which repel and split the crystal. 5. Ionic — transferred; covalent — shared; metallic — delocalised into a sea. 6. A regular, repeating 3D arrangement of alternating positive and negative ions. 7. In graphite each carbon uses only 3 of its 4 outer electrons in bonds, leaving one delocalised per atom; in SiO₂, all the outer electrons are localised in bonding pairs or lone pairs, so none is delocalised or free to carry charge.

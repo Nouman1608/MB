@@ -70,14 +70,20 @@ Temperature.
 
 ## Work done by/on a gas
 
-When a gas changes volume at constant pressure, the work done is:
+When a gas changes volume at constant pressure, the **magnitude** of the
+work done is:
 
 ```
 W = pΔV
 ```
 
-If the gas expands (ΔV positive), it does work on its surroundings; if it is
-compressed (ΔV negative), work is done on the gas by its surroundings.
+Here W = pΔV gives the work done **by** the gas on its surroundings during
+an expansion (ΔV positive). This is *not* automatically the same W that
+appears in the first law equation ΔU = q + W below, where W is defined as
+the work done **on** the system — so when substituting pΔV into the first
+law, an expanding gas (which does work on its surroundings) contributes a
+**negative** W, and a compressed gas (surroundings doing work on it)
+contributes a **positive** W.
 
 ## The first law of thermodynamics
 

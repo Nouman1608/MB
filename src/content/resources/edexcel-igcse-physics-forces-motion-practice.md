@@ -112,7 +112,7 @@ d = **20 cm** from the pivot [1].
 
 **9.** k = F ÷ x = 2.0 ÷ 0.040 [1] = **50 N/m**. For F = 5.0 N: x = F ÷ k = 5.0 ÷ 50 [1] = **0.10 m (10 cm)** [1]. Note that x must be converted to metres to give k in the standard unit of N/m; using centimetres directly would give a numerically different, non-standard result.
 
-**10.** As the load moves closer to one support, the **moment it creates about that support decreases**, so that support carries less of the load's weight, while the **moment about the other, more distant support increases**, so that support must provide a greater upward force to keep the beam in equilibrium [1] [1]. The two support forces must always sum to the total weight being supported, however the load is positioned.
+**10.** As the load moves closer to one support, **that support carries a greater share of the load's weight**, while the more distant support carries less [1]. This is because taking moments about a support gives the reaction force at the *other* support: as the load moves closer to support A, **the moment about A (which determines support B's reaction) decreases, so B's upward force decreases**, while A's upward force correspondingly increases [1]. The two support forces must always sum to the total weight being supported, however the load is positioned.
 
 ---
 

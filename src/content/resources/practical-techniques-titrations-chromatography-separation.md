@@ -87,7 +87,7 @@ about the substances involved (12.4)
 - Identifying substances and assessing purity using melting point and
 boiling point data (12.4)
 
-Supplement / Extended
+Supplement / Extended (0620) · Required (5070)
 
 - Describing how paper chromatography separates mixtures of soluble
 **colourless** substances, using a suitable solvent and a locating agent
@@ -95,7 +95,12 @@ Supplement / Extended
 - Stating and using the Rf equation (12.3)
 
 There is no Supplement content listed for 12.1, 12.2 or 12.4 — those three
-are Core-only, identical for every candidate regardless of tier.
+are Core-only, identical for every candidate regardless of tier. **Both
+bullets above are Extended-only for 0620, but are required outcomes for
+every 5070 candidate** — 5070 has no Core/Extended split, so an O Level
+candidate must know colourless-substance chromatography and the Rf
+equation regardless of the 0620-style tiering used elsewhere on this
+page.
 
 ## Choosing apparatus (12.1)
 
@@ -161,7 +166,7 @@ suitable solvent, and let the solvent rise up the paper, carrying the
 different coloured components different distances depending on their
 solubility and attraction to the paper.
 
-**Colourless substances (Extended/Supplement only):** the same method, but
+**Colourless substances (0620 Extended/Supplement only; required for every 5070 candidate):** the same method, but
 since there's no colour to see directly, a **locating agent** is sprayed or
 applied afterwards to reveal the spots. You are not required to know any
 specific locating agent — only that one is needed for colourless
@@ -176,7 +181,7 @@ substance.
 - **Pure vs impure** — a pure substance produces exactly **one** spot; an
 impure substance separates into **two or more** spots.
 
-**Rf value (Extended/Supplement only):**
+**Rf value (0620 Extended/Supplement only; required for every 5070 candidate):**
 
 ```
 Rf = distance travelled by substance / distance travelled by solvent
@@ -236,7 +241,7 @@ apparatus
 - Definitions: solvent, solute, solution, saturated solution, residue,
 filtrate
 - The exact titration method and how to identify the end-point
-- Coloured vs colourless chromatography, and how to interpret a chromatogram
+- Coloured vs colourless chromatography *(0620 Extended, 5070 required, for the colourless case)*, and how to interpret a chromatogram
 for identity and purity
 - *(0620 Extended, 5070 required)* the Rf equation and how to apply it
 - The five separation/purification methods and when each applies

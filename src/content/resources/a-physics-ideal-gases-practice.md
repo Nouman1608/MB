@@ -63,7 +63,7 @@ Related: [Ideal Gases revision notes](/resources/a-physics-ideal-gases-revision-
 
 **(b)** Compare their root-mean-square speeds, with a reason. **[3]**
 
-**6.** Explain, in terms of the kinetic model, why real gases deviate most from ideal behaviour at **high pressure and low temperature**. **[4]**
+**6.** Explain, in terms of the kinetic theory of gases, how the pressure exerted by a gas on the walls of its container arises from the motion of its molecules. **[4]**
 
 **7.** State the kinetic theory equation pV = (1/3)Nm⟨c²⟩, defining each symbol, and explain why the root-mean-square speed is used rather than the mean speed of the molecules. **[3]**
 
@@ -96,8 +96,7 @@ T₂ = 400 K, so p₂ = 2.4 × 10⁵ × (400 ÷ 300) [1] = **3.2 × 10⁵ Pa** [
 **(b)** Helium has the **greater r.m.s. speed** [1]. Since ½m⟨c²⟩ is the same for both [1], the molecule with the **smaller mass must have the greater mean square speed** [1].
 *Specifically √(40/4) = √10 ≈ 3.2 times greater.*
 
-**6.** At **high pressure** the molecules are **close together**, so the **volume of the molecules is no longer negligible** compared with the container volume [1] [1]. At **low temperature** the molecules move **more slowly**, so the **intermolecular attractions are no longer negligible** and affect their motion [1] [1].
-*These are precisely the two assumptions of the kinetic model that fail.*
+**6.** Molecules are in continuous **random motion** and repeatedly **collide with the walls** of the container [1]. At each collision, the component of a molecule's momentum perpendicular to the wall **reverses**, so the molecule undergoes a **change in momentum** [1]. By Newton's second and third laws, this change in momentum exerts an equal and opposite **force on the wall** [1]. The **large number of such collisions per second, spread over the wall's area**, produces a steady macroscopic pressure [1].
 
 **7.** pV = (1/3)Nm⟨c²⟩ [1], where **N** is the number of molecules, **m** is the mass of one molecule and **⟨c²⟩** is the mean square speed [1]. Molecules move randomly in all directions, so the **mean velocity is zero**; averaging speeds directly is therefore less useful than averaging their squares (which are always positive), so the square root of the mean square speed is used instead [1].
 
@@ -113,6 +112,6 @@ T₂ = 400 K, so p₂ = 2.4 × 10⁵ × (400 ÷ 300) [1] = **3.2 × 10⁵ Pa** [
 - Confusing n (moles) with N (molecules), and hence R with k.
 - Saying heavier molecules have greater kinetic energy at the same temperature.
 - Confusing mean square speed with the square of the mean speed.
-- Explaining real-gas deviation without linking it to the specific failing assumptions.
+- Describing pressure as molecules simply "pushing" on the wall, rather than linking it to the rate of change of momentum during collisions.
 - Averaging speed directly instead of averaging the square of speed when finding c_rms.
 - Forgetting that N (number of molecules) and n (number of moles) require different constants (Nₐ vs R vs k).

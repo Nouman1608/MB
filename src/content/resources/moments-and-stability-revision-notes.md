@@ -30,7 +30,7 @@ F = k x        F = force (N)
                x = EXTENSION, not total length
 ```
 
-Extension is proportional to load **up to the limit of proportionality**. Beyond it the graph curves; beyond the **elastic limit** the spring no longer returns to its original length. These are two different points on the same graph — the limit of proportionality is where the line stops being straight, and the elastic limit (a separate point further along) is where permanent deformation begins.
+Extension is proportional to load **up to the limit of proportionality**; beyond it, the graph curves. *(Background note, not examined: beyond that is a further point called the elastic limit, beyond which the spring no longer returns to its original length — understanding it is not required at this level.)*
 
 On a load–extension graph: gradient = **k**. A steeper line means a stiffer spring.
 
@@ -101,7 +101,6 @@ Practical examples: racing cars (low, wide), Bunsen burners (heavy base), double
 - Both conditions are needed for equilibrium: moments balance **and** forces balance.
 - Convert cm to m before calculating moments.
 - Say the object topples when the line of action of the weight falls **outside the base**.
-- Confusing the limit of proportionality with the elastic limit — they are different points on the same graph.
 
 ## Self-test
 
@@ -111,6 +110,5 @@ Practical examples: racing cars (low, wide), Bunsen burners (heavy base), double
 4. How do you locate the centre of gravity of an irregular lamina?
 5. Why is a racing car harder to topple than a bus?
 6. A see-saw pivoted at its centre has a 300 N weight 1.2 m from the pivot on one side. Find the distance from the pivot for a balancing 400 N weight on the other side.
-7. What is the difference between the limit of proportionality and the elastic limit?
 
-**Answers:** 1. Extension = 0.06 m; k = 3/0.06 = **50 N/m**. 2. For an object in equilibrium, the sum of clockwise moments about a point equals the sum of anticlockwise moments about the same point. 3. 40 × 0.25 = **10 N m**. 4. Suspend it freely from one point and mark the vertical with a plumb line; repeat from a second point; the centre of gravity is where the lines intersect. 5. It has a lower centre of gravity and a wider wheelbase, so the car must tilt much further before the line of action of its weight falls outside its base. 6. 400 × d = 300 × 1.2 → d = 360 ÷ 400 = **0.9 m**. 7. The limit of proportionality is where the load-extension graph stops being a straight line; the elastic limit is a separate, later point beyond which the spring no longer returns to its original length.
+**Answers:** 1. Extension = 0.06 m; k = 3/0.06 = **50 N/m**. 2. For an object in equilibrium, the sum of clockwise moments about a point equals the sum of anticlockwise moments about the same point. 3. 40 × 0.25 = **10 N m**. 4. Suspend it freely from one point and mark the vertical with a plumb line; repeat from a second point; the centre of gravity is where the lines intersect. 5. It has a lower centre of gravity and a wider wheelbase, so the car must tilt much further before the line of action of its weight falls outside its base. 6. 400 × d = 300 × 1.2 → d = 360 ÷ 400 = **0.9 m**.

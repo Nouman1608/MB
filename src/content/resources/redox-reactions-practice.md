@@ -28,13 +28,15 @@ featured: false
 
 Related: [Redox Reactions revision notes](/resources/redox-reactions-revision-notes/)
 
+> **Tier note:** questions and answers marked *(0620 Extended, 5070 required)* test content beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
+
 ---
 
 ## Section A
 
-**1.** Define oxidation and reduction in terms of oxygen, hydrogen and electron transfer. **[3]**
+**1.** *(0620 Extended, 5070 required)* Define oxidation and reduction in terms of oxygen transfer, electron transfer and oxidation number. **[3]**
 
-**2.** Deduce the oxidation number of the underlined element, showing your working: **S**O₄²⁻, **Mn**O₄⁻, **Cr**₂O₇²⁻, **N**H₄⁺. **[4]**
+**2.** *(0620 Extended, 5070 required)* Deduce the oxidation number of the underlined element, showing your working: **S**O₄²⁻, **Mn**O₄⁻, **Cr**₂O₇²⁻, **N**H₄⁺. **[4]**
 
 ## Section B
 
@@ -65,9 +67,9 @@ Related: [Redox Reactions revision notes](/resources/redox-reactions-revision-no
 
 ## Answers
 
-**1. Oxidation** is the **gain of oxygen, loss of hydrogen, or loss of electrons** [1] [1]; **reduction** is the opposite in each case — loss of oxygen, gain of hydrogen or **gain of electrons** [1]. (OIL RIG: Oxidation Is Loss, Reduction Is Gain.)
+**1.** *(0620 Extended, 5070 required)* **Oxidation** is the **gain of oxygen, loss of electrons, or an increase in oxidation number** [1] [1]; **reduction** is the opposite in each case — loss of oxygen, gain of electrons or a **decrease in oxidation number** [1]. (OIL RIG: Oxidation Is Loss, Reduction Is Gain — of electrons.)
 
-**2.** S in SO₄²⁻ = **+6** [1]. Mn in MnO₄⁻ = **+7** [1]. Cr in Cr₂O₇²⁻ = **+6** [1]. N in NH₄⁺ = **−3** [1].
+**2.** *(0620 Extended, 5070 required)* S in SO₄²⁻ = **+6** [1]. Mn in MnO₄⁻ = **+7** [1]. Cr in Cr₂O₇²⁻ = **+6** [1]. N in NH₄⁺ = **−3** [1].
 
 **3. (a)** Mg + Cu²⁺ → Mg²⁺ + Cu [1], balanced with correct charges [1].
 **(b)** **Magnesium is oxidised**, from **0 to +2** [1] [1]; **copper is reduced**, from **+2 to 0** [1] [1].

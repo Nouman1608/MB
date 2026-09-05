@@ -71,7 +71,12 @@ acid catalyst, to form an ester (11.7)
 **CAMBRIDGE O LEVEL CHEMISTRY 5070**
 
 5070 has no Core/Extended split — every outcome above, Core and Supplement
-alike, is required for every O Level candidate.
+alike, is required for every O Level candidate. Note that 5070's own
+wording is slightly broader than 0620's here: rather than naming ethanol
+and ethanoic acid specifically, 5070 asks candidates to describe the
+**combustion of alcohols** and the **reactions of carboxylic acids**
+generally, with ethanol and ethanoic acid used as the standard teaching
+examples rather than the only examinable ones.
 
 ## Manufacturing ethanol
 
@@ -84,10 +89,10 @@ Ethanol is made industrially by two genuinely different routes:
 glucose --yeast--> ethanol + carbon dioxide
 ```
 
-**Catalytic addition of steam to ethene** — the reverse-direction version of
-the hydration addition reaction from
+**Catalytic addition of steam to ethene** — the same hydration addition
+reaction from
 [Petroleum, Alkanes and Alkenes](/resources/petroleum-alkanes-and-alkenes/),
-run at 300°C and 6000kPa/60atm with an acid catalyst:
+run industrially at 300°C and 6000kPa/60atm with an acid catalyst:
 
 ```
 CH2=CH2 + H2O  --acid catalyst, 300°C, 6000kPa-->  CH3CH2OH

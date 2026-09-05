@@ -27,10 +27,10 @@ only for the Extended tier, needed for grades A*–C.
 
 Motion, forces and energy is the first of six topics in 0625, alongside
 Thermal physics, Waves, Electricity and magnetism, Nuclear physics and
-Space physics. It carries a heavier weighting than any other topic
-because it introduces the equations, graph-reading skills and modelling
-habits (resultant forces, energy stores, load–extension behaviour) that
-recur throughout the rest of the course, including in Thermal physics'
+Space physics. It is the **longest topic by content** and underpins the
+rest of the course, introducing the equations, graph-reading skills and
+modelling habits (resultant forces, energy stores, load–extension
+behaviour) that recur throughout, including in Thermal physics'
 treatment of the gas laws.
 
 ## Syllabus coverage
@@ -48,20 +48,25 @@ v = s/t and average speed = total distance / total time, sketching and
 interpreting distance–time and speed–time graphs, and the approximate
 value of the acceleration of free fall (9.8 m/s²); (Supplement) defining
 acceleration as a = Δv/Δt, calculating acceleration from a speed–time
-graph gradient, and describing motion with air/liquid resistance
-including terminal velocity
+graph gradient, describing motion with air/liquid resistance including
+terminal velocity, and describing **qualitatively** the motion of an
+object travelling in a circular path at constant speed under a force
+directed towards the centre
 - 1.3 Mass and weight (Core) — mass as the quantity of matter in an
-object, weight as a gravitational force, and gravitational field strength
-g = W/m
+object, weight as the **effect of a gravitational field on a mass**
+(a force), and gravitational field strength g = W/m
 - 1.4 Density (Core) — density as mass per unit volume, ρ = m/V, and
 determining the density of liquids and regular/irregular solids;
 (Supplement) predicting whether one liquid floats on another from density
 data
 - 1.5 Forces, in three parts — effects of forces (load–extension graphs,
-resultant of forces along a line, Newton's first law; Supplement:
-Hooke's law and spring constant, F = ma), turning effect of forces (the
-moment of a force and the principle of moments for objects in
-equilibrium), and centre of gravity (definition, experimental
+resultant of forces along a line, Newton's first law, and **solid
+friction and drag (fluid/viscous friction) as forces that oppose relative
+motion between surfaces or through a fluid**; Supplement: Hooke's law and
+spring constant, F = ma), turning effect of forces (Core: the moment of a
+force as force × perpendicular distance from the pivot; Supplement: the
+principle of moments for objects in equilibrium, including calculations
+with several forces), and centre of gravity (definition, experimental
 determination, and its effect on stability)
 - 1.6 Momentum (Supplement only) — momentum p = mv, impulse = FΔt,
 conservation of momentum in one dimension, and resultant force as
@@ -92,6 +97,15 @@ they only appear in the Supplement column and are easy to under-revise.
 
 ## Worked examples across the topic
 
+**Speed and velocity.** Speed is a **scalar** — it has magnitude only,
+found from distance travelled ÷ time taken, v = s/t. **Velocity is
+speed in a given direction** — a **vector** — so two objects can have
+the same speed but different velocities if they are moving in different
+directions. A car travelling at a constant 20 m/s around a bend has
+constant speed but changing velocity, because its direction keeps
+changing; this is also why it is accelerating even though its speed is
+constant, since acceleration is defined from the change in velocity.
+
 **Mass and weight.** A common source of confusion is treating mass and
 weight as the same quantity. Mass is the amount of matter in an object,
 measured in kilograms, and does not change wherever the object is placed.
@@ -102,11 +116,33 @@ where gravitational field strength is roughly a sixth of Earth's, the
 same 5.0 kg mass would weigh only about 8.2 N, even though its mass is
 unchanged.
 
+**Friction and drag.** **Solid friction** opposes relative motion between
+two touching surfaces (e.g. a box sliding across a floor); **drag** (fluid
+or viscous friction) opposes the motion of an object through a fluid
+(air or liquid), and increases with speed — which is why a falling object
+reaches a constant **terminal velocity** once drag has grown to balance
+its weight. Both are Core content.
+
+**Circular motion (qualitative).** An object moving at constant **speed**
+around a circular path has continuously **changing velocity**, because
+its direction is always changing, so it is accelerating even though its
+speed is constant — the same idea used above for a car on a bend. This
+acceleration, and the resultant force producing it, always point towards
+the **centre** of the circle.
+
+**Moments — Core vs Supplement.** Defining the moment of a force as
+force × perpendicular distance from the pivot, and identifying the
+factors that increase a moment, is Core. Applying the **principle of
+moments** to a system in equilibrium with several forces — for example,
+finding an unknown force or distance on a balanced beam — is Supplement
+content.
+
 **Hooke's law.** A spring with spring constant 40 N/m is stretched by a
 force of 6.0 N. Provided the limit of proportionality is not exceeded,
-the extension follows F = ke, so e = F/k = 6.0 ÷ 40 = 0.15 m. Beyond the
-limit of proportionality, this straight-line relationship breaks down and
-the load–extension graph curves away from linearity.
+the extension follows F = kx (extension x, sometimes written e), so
+x = F/k = 6.0 ÷ 40 = 0.15 m. Beyond the limit of proportionality, this
+straight-line relationship breaks down and the load–extension graph
+curves away from linearity.
 
 **Momentum conservation from rest.** A frequently misjudged scenario
 involves two objects that start at rest and are then pushed apart — for

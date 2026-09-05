@@ -29,7 +29,7 @@ Related: [Materials revision notes](/resources/edexcel-ial-physics-materials-rev
 
 ## Questions
 
-**1.** State Stokes' law and the two conditions under which it applies. **[3]**
+**1.** State Stokes' law and the conditions under which it applies. **[4]**
 
 **2.** A steel sphere falls at terminal velocity through oil.
 
@@ -63,7 +63,7 @@ Related: [Materials revision notes](/resources/edexcel-ial-physics-materials-rev
 
 ## Answers
 
-**1.** F = 6πηrv, where η is the fluid's viscosity, r the sphere's radius and v its speed [1]. It applies only for a **small sphere** [1] moving with **laminar (non-turbulent) flow** [1].
+**1.** F = 6πηrv, where η is the fluid's viscosity, r the sphere's radius and v its speed [1]. It applies only for a **small, spherical object** [1], moving at **low speed** [1], with **laminar (non-turbulent) flow** [1].
 
 **2. (a)** **Weight** downwards, **upthrust** upwards, **viscous drag** upwards [1] [1].
 At terminal velocity: **weight = upthrust + viscous drag** [1].

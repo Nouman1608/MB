@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Physics: Energy Resources and Efficiency — Practice Questions"
+title: "O Level Physics: Energy Resources and Efficiency — Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]
@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "motion-forces-and-energy"
     subtopic: "energy-work-and-power"
-description: "Original exam-style practice questions with full worked answers on energy resources, efficiency, Sankey diagrams and power for IGCSE Physics."
+description: "Original exam-style practice questions with full worked answers on energy resources, efficiency, Sankey diagrams and power for Cambridge O Level Physics."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -39,16 +39,16 @@ Related: [Energy Resources revision notes](/resources/energy-resources-revision-
 
 **(a)** Calculate the efficiency. **[2]**
 **(b)** Calculate the energy dissipated each second. **[1]**
-**(c)** Describe how this would be shown on a Sankey diagram. **[3]**
+**(c)** *(Background, not examinable — the specification requires only the two efficiency equations, not Sankey diagram construction.)* Describe how this would be shown on a Sankey diagram. **[3]**
 
-**5.** Evaluate solar power for a remote village with no grid connection, considering reliability, cost and environmental impact. **[6]**
+**5.** *(Extension beyond the strict 5054 scope — a real-world evaluation question, rather than the syllabus's restricted "advantages/disadvantages" comparison, which excludes cost and reliability.)* Evaluate solar power for a remote village with no grid connection, considering reliability, cost and environmental impact. **[6]**
 
 **6.** Explain why a fossil-fuel power station cannot be 100% efficient. **[2]**
 
 **7.** A kettle rated at 2.2 kW is used for 3.0 minutes.
 
 **(a)** Calculate the energy transferred in joules. **[3]**
-**(b)** It heats 0.80 kg of water by 65 °C. Calculate the useful energy. (c = 4200 J kg⁻¹ °C⁻¹) **[2]**
+**(b)** *(Cross-topic — specific heat capacity is a thermal physics outcome, not part of this energy resources and efficiency subtopic.)* It heats 0.80 kg of water by 65 °C. Calculate the useful energy. (c = 4200 J kg⁻¹ °C⁻¹) **[2]**
 **(c)** Calculate the efficiency. **[2]**
 
 **8.** State the **three** factors the syllabus expects you to compare when discussing the advantages and disadvantages of an energy resource. **[3]**
@@ -65,11 +65,11 @@ Related: [Energy Resources revision notes](/resources/energy-resources-revision-
 
 **2.** It is **non-renewable**, since uranium is a finite resource [1], but it is **not a fossil fuel** and produces **no carbon dioxide** in operation, so it does not fit the usual renewable/fossil grouping — it sits in a category of its own [1].
 
-**3.** Fuel is burned, transferring energy from the **chemical store** to the **thermal store** of water [1]. The water boils to steam, which turns a **turbine** — thermal to **kinetic** [1]. The turbine turns a **generator** — kinetic to **electrical** [1]. Energy is then transferred **electrically** to consumers through the National Grid [1].
+**3.** Fuel is burned, transferring energy from the **chemical store** to the **thermal store** of the water [1]. The water boils to steam, which turns a **turbine** — thermal store to **kinetic store** [1]. The turbine turns a **generator**, which converts this kinetic energy into electrical energy carried by the **electrical** transfer pathway, not a further energy store [1]. This electrical energy is then transferred to consumers through the National Grid [1].
 
 **4. (a)** efficiency = useful output ÷ total input = 700 ÷ 2000 [1] = **0.35 or 35%** [1].
 **(b)** 2000 − 700 = **1300 MJ** [1].
-**(c)** A **single arrow of width proportional to 2000 MJ** enters from the left [1]; a **useful output arrow of 700 MJ** continues horizontally [1]; a **branch of 1300 MJ** representing dissipated thermal energy leaves downwards, with every arrow's width drawn strictly to scale [1].
+**(c)** *(Background, not examinable.)* A **single arrow of width proportional to 2000 MJ** enters from the left [1]; a **useful output arrow of 700 MJ** continues horizontally [1]; a **branch of 1300 MJ** representing dissipated thermal energy leaves downwards, with every arrow's width drawn strictly to scale [1].
 
 **5. Reliability:** solar is **intermittent** — it produces nothing at night and less in cloud [1], so **batteries are needed** for a continuous supply [1].
 **Cost:** **high initial installation cost** [1] but **no fuel cost** and very low maintenance thereafter, which suits a remote site where fuel delivery would be expensive [1].
@@ -93,7 +93,7 @@ Related: [Energy Resources revision notes](/resources/energy-resources-revision-
 
 - Classifying nuclear as renewable, or as a fossil fuel.
 - Omitting an energy transfer stage in the power station description.
-- Not drawing Sankey arrow widths to scale.
+- Not drawing Sankey arrow widths to scale *(background — Sankey diagrams are not on the 5054 specification)*.
 - Forgetting to convert kW to W or minutes to seconds.
 - Bringing in cost or general reliability when the question asks specifically for the syllabus's three permitted factors: renewable, availability, environmental impact.
 - Saying every renewable resource skips the turbine and generator — only solar photovoltaic does; hydroelectric, wind, tidal and wave power still use a turbine, just driven directly rather than by steam.

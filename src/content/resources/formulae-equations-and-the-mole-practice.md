@@ -40,6 +40,8 @@ featured: false
 
 Related: [Formulae, Equations and the Mole revision notes](/resources/formulae-equations-and-the-mole-revision-notes/)
 
+> **Tier note:** questions and parts marked *(0620 Extended, 5070 required)* go beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
+
 ---
 
 ## Questions

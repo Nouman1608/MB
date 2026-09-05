@@ -35,7 +35,7 @@ This topic is pure recall. Learn the **reagent, observation and conclusion** for
 | Na⁺ | Yellow |
 | K⁺ | Lilac |
 | Ca²⁺ | Orange-red |
-| Ba²⁺ | Green |
+| Ba²⁺ | Light green |
 | Cu²⁺ | Blue-green |
 
 Method: clean nichrome wire in concentrated HCl, dip in sample, hold in a **blue** Bunsen flame. Sodium and potassium compounds give no useful precipitate with NaOH or ammonia, which is exactly why the flame test exists — it's often the only practical way to identify them.
@@ -45,15 +45,15 @@ Method: clean nichrome wire in concentrated HCl, dip in sample, hold in a **blue
 | Cation | Add NaOH(aq) | Excess NaOH |
 |---|---|---|
 | Cu²⁺ | Light **blue** precipitate | Insoluble |
-| Fe²⁺ | **Green** precipitate | Insoluble |
+| Fe²⁺ | **Green** precipitate, turning brown near the surface on standing | Insoluble |
 | Fe³⁺ | **Red-brown** precipitate | Insoluble |
 | Zn²⁺ | White precipitate | **Dissolves** — colourless solution |
 | Al³⁺ | White precipitate | **Dissolves** — colourless solution |
 | Ca²⁺ | White precipitate | Insoluble |
-| Cr³⁺ | Grey-green precipitate | **Dissolves** — dark green solution |
+| Cr³⁺ | Green precipitate | **Dissolves** in excess* |
 | NH₄⁺ | No precipitate; **warm** → ammonia gas | — |
 
-With **ammonia solution** instead: Zn²⁺ redissolves in excess, Al³⁺ does **not**. That is how you tell zinc from aluminium — a favourite question. Cr³⁺ behaves like Al³⁺ and Zn²⁺ with NaOH (precipitate dissolving in excess) but, like Al³⁺, stays **insoluble** in excess ammonia — so ammonia only ever separates the aluminium/chromium pair from zinc, never chromium from aluminium.
+With **ammonia solution** instead: Zn²⁺ redissolves in excess, Al³⁺ does **not**. That is how you tell zinc from aluminium — a favourite question. Cr³⁺ behaves like Al³⁺ and Zn²⁺ with NaOH (precipitate dissolving in excess) but, like Al³⁺, stays **insoluble** in excess ammonia — so ammonia only ever separates the aluminium/chromium pair from zinc, never chromium from aluminium. (*The exact colour of the solution formed when chromium(III) hydroxide redissolves is additional detail beyond the core observation, not required.)
 
 **Ca²⁺ gives no useful precipitate with ammonia at all** — aqueous ammonia is too weak a base to precipitate the more soluble calcium hydroxide in any noticeable amount. That absence of a precipitate is itself the identifying observation, telling calcium apart from aluminium, chromium and zinc, which all give a precipitate with ammonia at the dropwise stage.
 
@@ -65,7 +65,7 @@ With **ammonia solution** instead: Zn²⁺ redissolves in excess, Al³⁺ does *
 | Chloride Cl⁻ | Acidify with HNO₃, add AgNO₃ | **White** precipitate |
 | Bromide Br⁻ | As above | **Cream** precipitate |
 | Iodide I⁻ | As above | **Yellow** precipitate |
-| Sulfate SO₄²⁻ | Acidify with HCl, add BaCl₂ | **White** precipitate |
+| Sulfate SO₄²⁻ | Acidify with HNO₃, add Ba(NO₃)₂ | **White** precipitate |
 | Nitrate NO₃⁻ | Add NaOH + aluminium foil, warm | Ammonia gas produced |
 | Sulfite SO₃²⁻ | Add acidified potassium manganate(VII) | Purple solution **decolourises** |
 
@@ -80,7 +80,7 @@ With **ammonia solution** instead: Zn²⁺ redissolves in excess, Al³⁺ does *
 | Carbon dioxide | Bubble through limewater | Turns **milky** |
 | Ammonia | Damp red litmus | Turns **blue** |
 | Chlorine | Damp litmus paper | **Bleached** white |
-| Sulfur dioxide | Acidified potassium dichromate(VI) | Orange → **green** |
+| Sulfur dioxide | Acidified aqueous potassium manganate(VII) | Purple → **colourless** |
 
 If a question gives a solid and asks for a gas test, you are testing the gas that reaction gives off — not the solid directly. See the [Identification of Ions and Gases study guide](/resources/identification-of-ions-and-gases/) for the reasoning behind every table above.
 
@@ -88,12 +88,12 @@ If a question gives a solid and asks for a gas test, you are testing the gas tha
 
 - Give reagent **and** observation **and** conclusion — one alone rarely scores.
 - Zn²⁺ and Al³⁺ both give white precipitates dissolving in excess NaOH; only **ammonia solution** separates them.
-- Don't forget to acidify before silver nitrate or barium chloride.
+- Don't forget to acidify before silver nitrate or barium nitrate.
 - Chlorine **bleaches** litmus; ammonia **turns it blue**. Different observations.
 - "Precipitate" not "solid"; state the colour precisely (cream, not "pale yellow").
-- Confusing chromium(III)'s excess-NaOH result (dark **green** solution) with copper's (still a **precipitate**, unlike copper which stays insoluble in excess NaOH but dissolves in excess ammonia).
+- Confusing chromium(III)'s and copper(II)'s behaviour in excess reagents: **chromium(III) hydroxide dissolves in excess NaOH**, but **stays insoluble in excess ammonia**. **Copper(II) hydroxide** behaves the opposite way — it **stays insoluble in excess NaOH**, but **dissolves in excess ammonia** to a dark blue solution.
 - Expecting calcium to give a precipitate with ammonia — it doesn't, and that absence is itself the identifying result.
-- Mixing up sulfite (decolourises acidified KMnO₄) with sulfate (white precipitate with acidified barium chloride) — different tests entirely, despite the similar names.
+- Mixing up sulfite (decolourises acidified KMnO₄) with sulfate (white precipitate with acidified barium nitrate) — different tests entirely, despite the similar names.
 
 ## Self-test
 
@@ -102,7 +102,7 @@ If a question gives a solid and asks for a gas test, you are testing the gas tha
 3. Why acidify before adding silver nitrate?
 4. A cream precipitate forms with acidified silver nitrate. Which ion is present?
 5. Give the flame colour for potassium and for calcium.
-6. A grey-green precipitate forms with NaOH, dissolving in excess to a dark green solution, but staying insoluble in excess ammonia. Identify the cation.
+6. A green precipitate forms with NaOH, dissolving in excess, but staying insoluble in excess ammonia. Identify the cation.
 7. Why does calcium give no precipitate with aqueous ammonia?
 
 **Answers:** 1. Zn²⁺ or Al³⁺ — add ammonia solution instead: the zinc precipitate redissolves in excess, the aluminium one does not. 2. Oxygen. 3. To remove carbonate ions, which would otherwise form a precipitate and give a false positive. 4. Bromide, Br⁻. 5. Potassium = lilac; calcium = orange-red. 6. Chromium(III), Cr³⁺. 7. Aqueous ammonia is too weak a base to precipitate calcium hydroxide, which is comparatively soluble, in any noticeable amount.

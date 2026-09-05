@@ -44,12 +44,12 @@ The **electron-volt** is a convenient unit at the atomic scale: it is defined as
 ## The photoelectric effect
 
 ```
-h f = phi + KE_max
-phi = h f_0       (work function = threshold frequency x h)
-KE_max = h f - phi
+h f = Phi + KE_max
+Phi = h f_0       (work function = threshold frequency x h)
+KE_max = h f - Phi
 ```
 
-**Work function φ** — the minimum energy needed to remove an electron from the metal surface.
+**Work function Φ** — the minimum energy needed to remove an electron from the metal surface.
 **Threshold frequency f₀** — below it, no emission occurs however intense the light.
 
 ### The four observations, and what each one proves
@@ -61,7 +61,7 @@ KE_max = h f - phi
 | KE_max depends on **frequency**, not intensity | Wave theory — brighter light should give faster electrons |
 | Intensity affects the **rate** of emission only | Confirms one photon → one electron |
 
-**The one-to-one interaction is the whole argument.** One photon transfers all its energy to one electron. If that quantum is smaller than φ, nothing happens — and waiting does not help, because the energy is not accumulated.
+**The one-to-one interaction is the whole argument.** One photon transfers all its energy to one electron. If that quantum is smaller than Φ, nothing happens — and waiting does not help, because the energy is not accumulated.
 
 ## Worked example
 
@@ -69,7 +69,7 @@ A metal has a work function of 2.0 eV. Light of frequency 8.0 × 10¹⁴ Hz shin
 
 ```
 E = hf = 6.63 x 10^-34 x 8.0 x 10^14 = 5.30 x 10^-19 J = 3.31 eV
-KE_max = hf - phi = 3.31 - 2.0 = 1.31 eV
+KE_max = hf - Phi = 3.31 - 2.0 = 1.31 eV
 ```
 
 Working directly in eV avoids an unnecessary unit conversion once the photon energy has been found.
@@ -93,7 +93,7 @@ Because h is tiny, everyday objects have wavelengths far too small to observe �
 Electron energy levels are **discrete** and **negative** (zero is defined at infinite separation — a bound electron has less energy than a free one).
 
 ```
-h f = E_2 - E_1
+h f = E_1 - E_2
 ```
 
 | Spectrum | Cause |
@@ -121,4 +121,4 @@ Line spectra are **discrete** precisely because energy levels are discrete — t
 5. Why are line spectra discrete?
 6. A metal has a work function of 2.0 eV. Light of frequency 8.0 × 10¹⁴ Hz shines on it. Find KE_max in eV.
 
-**Answers:** 1. hf = φ + KE_max; φ is the minimum energy required to remove an electron from the metal surface. 2. Red photons individually carry less energy than φ; intensity only increases the *number* of photons, and energy is not accumulated because one photon interacts with one electron. 3. The one-to-one interaction — a single photon transfers all its energy to a single electron, so if hf < φ no emission occurs at any intensity. 4. λ = h/p; electron diffraction rings from a thin graphite film. 5. Because electron energy levels are discrete, so only photons of energy exactly equal to a difference between two levels can be emitted or absorbed. 6. E = hf = 6.63×10⁻³⁴ × 8.0×10¹⁴ = 5.30×10⁻¹⁹ J ≈ 3.31 eV; KE_max = 3.31 − 2.0 = 1.31 eV.
+**Answers:** 1. hf = Φ + KE_max; Φ is the minimum energy required to remove an electron from the metal surface. 2. Red photons individually carry less energy than Φ; intensity only increases the *number* of photons, and energy is not accumulated because one photon interacts with one electron. 3. The one-to-one interaction — a single photon transfers all its energy to a single electron, so if hf < Φ no emission occurs at any intensity. 4. λ = h/p; electron diffraction rings from a thin graphite film. 5. Because electron energy levels are discrete, so only photons of energy exactly equal to a difference between two levels can be emitted or absorbed. 6. E = hf = 6.63×10⁻³⁴ × 8.0×10¹⁴ = 5.30×10⁻¹⁹ J ≈ 3.31 eV; KE_max = 3.31 − 2.0 = 1.31 eV.

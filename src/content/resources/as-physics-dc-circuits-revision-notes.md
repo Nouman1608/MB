@@ -59,12 +59,13 @@ Naming the conservation law each expresses is worth a mark on its own.
 
 ```
 E = I(R + r)  =  V + Ir
-terminal p.d.  V = E - Ir
+discharging:  V = E - Ir
+charging:     V = E + Ir
 ```
 
 **E.m.f.** is the energy transferred *to* each unit charge by the source; **p.d.** is energy transferred *from* each unit charge in a component. Both are measured in volts, and confusing them is the classic definition error.
 
-**Terminal p.d. falls as current increases**, because more energy is dissipated inside the source by its internal resistance. This is why a car's headlights dim when the starter motor draws a large current.
+**While discharging** (driving current through an external circuit), **terminal p.d. falls as current increases**, because more energy is dissipated inside the source by its internal resistance. This is why a car's headlights dim when the starter motor draws a large current. **While being charged** (current driven into the source by another, higher-voltage source), the opposite holds: the **applied terminal voltage exceeds the e.m.f. by Ir**, since some of the applied energy is used to overcome the source's own internal resistance.
 
 Plotting V against I gives a straight line: **gradient = −r**, **intercept = E**. Maximum power is delivered to the load when `R = r`.
 

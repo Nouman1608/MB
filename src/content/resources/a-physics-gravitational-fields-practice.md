@@ -58,7 +58,7 @@ Related: [Gravitational Fields revision notes](/resources/a-physics-gravitationa
 **(a)** State them. **[3]**
 **(b)** Explain why such an orbit must be equatorial. **[2]**
 
-**6.** Explain what is meant by escape velocity, and derive an expression for it. **[3]**
+**6.** *(Extension — beyond the 9702 syllabus, not examinable.)* Explain what is meant by escape velocity, and derive an expression for it.
 
 **7.** Explain why an astronaut in orbit appears weightless even though gravity acts on them. **[3]**
 
@@ -77,7 +77,7 @@ Related: [Gravitational Fields revision notes](/resources/a-physics-gravitationa
 **1.** The gravitational force between two point masses is **proportional to the product of their masses** [1] and **inversely proportional to the square of their separation** [1], acting along the line joining them [1].
 
 **2. Field strength** — the **force per unit mass** at a point [1], g = F ÷ m [1].
-**Potential** — the **work done per unit mass** in bringing a small mass from infinity to that point [1], V = W ÷ m [1].
+**Potential** — the **work done per unit mass** in bringing a small mass from infinity to that point [1], φ = W ÷ m [1].
 
 **3.** Potential is defined as **zero at infinity** [1], and since gravity is **attractive**, work is **released** as a mass moves inwards, so the potential at any finite distance is less than zero [1].
 
@@ -91,7 +91,7 @@ Related: [Gravitational Fields revision notes](/resources/a-physics-gravitationa
 **5. (a)** Period exactly **24 hours** [1]; orbit **above the equator** [1]; moving **west to east**, the same direction as the Earth's rotation [1].
 **(b)** For the satellite to remain above a fixed point, the **centre of its orbit must coincide with the Earth's centre** [1]; only an equatorial orbit keeps it above the same longitude at all times [1].
 
-**6.** The **minimum speed needed to escape a gravitational field entirely** without further propulsion [1]. Equating kinetic energy to the magnitude of gravitational potential energy: ½mv² = GMm ÷ r [1], giving **v = √(2GM ÷ r)** [1].
+**6.** *(Extension, not part of the 9702 mark scheme.)* The **minimum speed needed to escape a gravitational field entirely** without further propulsion. Equating kinetic energy to the magnitude of gravitational potential energy: ½mv² = GMm ÷ r, giving **v = √(2GM ÷ r)**.
 
 **7.** Both the astronaut and the spacecraft are in **free fall** — accelerating towards the Earth at the same rate [1]. There is therefore **no contact force** between the astronaut and the spacecraft [1], and it is that absence of a normal contact force, not the absence of gravity, that produces the sensation of weightlessness [1].
 

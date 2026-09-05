@@ -42,7 +42,7 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 
 **(a)** Describe what happens to the double bond during polymerisation. **[2]**
 **(b)** Draw or describe the repeat unit, explaining the two features that must be shown. **[3]**
-**(c)** Explain why addition polymerisation has 100% atom economy. **[2]**
+**(c)** *Beyond the specification — not examinable, background only ("atom economy" is not a defined term in 0620/5070).* Explain why no reactant mass is wasted in addition polymerisation.
 
 **4.** Explain why most addition polymers are non-biodegradable, and give **two** environmental consequences. **[4]**
 
@@ -59,7 +59,7 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 
 **(a)** Name the linkage common to both, and name the natural monomers that join to form it in proteins. **[2]**
 **(b)** Explain, with reference to hydrolysis, what this linkage breaks down into in each case. **[2]**
-**(c)** Starch and cellulose are natural polymers of glucose. Name the linkage joining glucose units, and state the product of hydrolysing starch. **[2]**
+**(c)** *Beyond the specification — not examinable, background only.* Starch and cellulose are natural polymers of glucose. Name the linkage joining glucose units, and state the product of hydrolysing starch.
 
 ---
 
@@ -71,7 +71,7 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 
 **3. (a)** The **C=C double bond breaks**, becoming a **single bond** [1], leaving each carbon free to **bond to the next monomer** [1].
 **(b)** –[CH₂–CH₂]– with **n** outside the bracket [1]; the **bonds must extend through the brackets** to show the chain continues [1] and there must be **no double bond** [1].
-**(c)** **All of the atoms in the monomer end up in the polymer** [1]; there is **no other product**, so none of the reactant mass is wasted [1].
+**(c)** *(Background only — not examinable.)* **All of the atoms in the monomer end up in the polymer**; there is **no other product**, so none of the reactant mass is wasted.
 
 **4.** The chain has a **backbone of strong, non-polar C–C bonds** [1] that **cannot be attacked by water or by the enzymes microorganisms produce** [1]. Consequences: waste **accumulates in landfill for hundreds of years**, taking up space [1]; plastics **enter rivers and oceans where animals ingest or become entangled in them** [1].
 
@@ -86,7 +86,7 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 
 **8. (a)** The **amide** (peptide) linkage, –CONH– [1]; **amino acids** [1].
 **(b)** **Hydrolysis** breaks the amide linkage back into its original monomers in both cases [1]: in nylon this regenerates the **diamine and diacid** used to make it, and in protein it regenerates the **amino acids** that made up the chain [1].
-**(c)** The **glycosidic** linkage [1]; hydrolysing starch produces **glucose** [1].
+**(c)** *(Background only — not examinable.)* The **glycosidic** linkage; hydrolysing starch produces **glucose**.
 
 ---
 
@@ -95,9 +95,8 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 - Leaving the double bond in the repeat unit.
 - Forgetting the bonds must pass through the brackets.
 - Giving an advantage of recycling without acknowledging the sorting problem.
-- Saying condensation polymers have 100% atom economy.
+- Saying condensation polymers waste no reactant mass — unlike addition polymerisation, a small molecule (e.g. water) is also produced.
 - Trying to "work backwards" from a repeat unit by simply deleting the brackets and n, without putting the double bond back in — the double bond has to be reinserted between the two carbons that were joined by single bonds in the polymer.
 - Describing proteins as synthetic polymers, or forgetting that the same amide linkage found in nylon also holds proteins together — this is exactly why the two are compared so often.
-- Naming the wrong hydrolysis product for starch: it is glucose, not the smaller sugars or amino acids that come from other biological polymers.
 
 Both new questions above rely on running the logic of the [Polymers revision notes](/resources/polymers-revision-notes/) in reverse — deducing a monomer from a given repeat unit, or a linkage's breakdown products from hydrolysis — rather than only building a polymer forwards from its monomer, which is the direction most textbook questions default to.

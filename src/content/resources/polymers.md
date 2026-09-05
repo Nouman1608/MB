@@ -106,13 +106,26 @@ by opening its double bond into two single bonds; given a polymer's repeat
 unit, you can work backward to identify the original alkene monomer the same
 way, in reverse.
 
+**0620 vs 5070 scope:** 0620 names poly(ethene) formation from ethene as a
+specific required example. **5070 has no separate poly(ethene)-formation
+outcome** — instead, 5070 candidates are expected to reach the same idea
+via the general skill of deducing an addition polymer's structure from any
+given alkene monomer (as above), rather than recalling poly(ethene) as a
+named case.
+
 ## Condensation polymerisation
 
 **Condensation polymerisation** differs from addition polymerisation in two
-linked ways: it needs **two different monomers**, each with a functional
-group at both ends, and it produces a **small molecule (usually water) as a
+linked ways: it needs monomers that each carry **two reactive (functional)
+groups**, and it produces a **small molecule (usually water) as a
 by-product** alongside the polymer — nothing is lost in addition
-polymerisation, but condensation always releases something.
+polymerisation, but condensation always releases something. Those two
+functional groups can sit on **two different monomers** (e.g. a diamine +
+a dicarboxylic acid for nylon, or a diol + a dicarboxylic acid for a
+polyester), or on a **single type of monomer that already carries both
+groups itself** (e.g. an amino acid, which has both an amine group and a
+carboxylic acid group) — proteins are built the second way, from one
+monomer, not two.
 
 | | Addition | Condensation |
 |---|---|---|
@@ -126,6 +139,17 @@ polymerisation, but condensation always releases something.
 of ester link covered in
 [Alcohols and Carboxylic Acids](/resources/alcohols-and-carboxylic-acids/),
 just repeated many times over instead of forming once.
+
+**Nylon's repeat unit** is built by an amide (peptide-type) link,
+-CO-NH-, forming between the -COOH end of one monomer and the -NH2 end of
+the other, releasing H2O each time: repeating unit
+**-OC-(chain)-CO-NH-(chain)-NH-**, with the amide linkage -CO-NH- appearing
+twice per repeat unit (once from each end of the diamine).
+
+**PET's repeat unit** is built the same way but with an ester link,
+-CO-O-, forming between a -COOH end and an -OH end, again releasing H2O:
+repeating unit **-OC-(chain)-CO-O-(chain)-O-**, with the ester linkage
+-CO-O- appearing twice per repeat unit.
 
 **PET is recyclable at the molecular level**: because it was built by
 condensation (a reversible type of linkage in principle), PET can be broken
@@ -157,8 +181,10 @@ harmful gases, so disposal by burning isn't a simple solution either.
 ## Common mistakes
 
 - **Assuming all polymerisation is "addition."** Only alkene-based
-polymerisation is addition; anything built from two different monomers with
-a small by-product (usually water) is condensation.
+polymerisation is addition; anything built from monomers each carrying two
+reactive functional groups, releasing a small by-product (usually water),
+is condensation — whether that's two different monomers (nylon, PET) or a
+single type of monomer carrying both groups (amino acids, in proteins).
 - **Forgetting condensation polymerisation releases a by-product.** This is
 the single clearest test question can use to distinguish the two
 mechanisms — if a small molecule like water is released, it's condensation.

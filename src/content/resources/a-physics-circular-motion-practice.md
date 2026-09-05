@@ -112,7 +112,7 @@ mg = mv²/r, so v = √(gr) [1] = √(9.81 × 0.80) = **2.80 m s⁻¹** [1].
 
 **(c)** a = ω²r = 9.42² × 0.15 [1] = **13.3 m s⁻²** [1].
 
-**7.** One radian is the angle subtended at the centre of a circle by an arc equal in length to the radius [1]. Since v = ωr, substituting into a = ω²r gives a = ω(ωr) = ω(v/r)r [1] = v²/r, confirming the two forms are equivalent [1].
+**7.** One radian is the angle subtended at the centre of a circle by an arc equal in length to the radius [1]. Starting from a = ω²r = ω(ωr) = ωv (since v = ωr) [1], substituting ω = v/r gives a = (v/r)v = v²/r, confirming the two forms are equivalent [1].
 
 **8.** **v = ωr** [1]. All points on a rigid rotating disc share the **same angular speed ω**, but since v = ωr, a point **further from the centre has a greater linear speed**, even though both points complete a revolution in the same time [1].
 

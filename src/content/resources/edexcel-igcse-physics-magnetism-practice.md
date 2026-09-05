@@ -48,9 +48,9 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 
 ## Section B
 
-**4.** A wire of length 0.25 m carries a current of 3.0 A perpendicular to a magnetic field of flux density 0.40 T.
+**4.** A current-carrying wire is held perpendicular to a magnetic field and experiences a force.
 
-**(a)** Calculate the force on the wire. **[2]**
+**(a)** Name the rule used to predict the direction of the force, and state what each of its three fingers/thumb represents. **[2]**
 
 **(b)** State the force if the wire is rotated to lie parallel to the field, with a reason. **[2]**
 
@@ -72,7 +72,7 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 
 **(c)** Assuming 100% efficiency, calculate the primary current when the secondary current is 5.0 A. **[3]**
 
-**(d)** Explain why an iron core is used, and why it is laminated. **[4]**
+**(d)** Describe the structure of a transformer, and explain what happens to the secondary (output) voltage if the number of turns on the secondary coil is increased while the number of primary turns stays the same. **[4]**
 
 **7.** Explain why electricity is transmitted across the National Grid at very high voltage. **[3]**
 
@@ -102,7 +102,7 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 
 **3.** Any two: **increase the current** [1]; **increase the number of turns**; add a **soft iron core** [1].
 
-**4. (a)** F = BIL = 0.40 × 3.0 × 0.25 [1] = **0.30 N** [1].
+**4. (a)** **Fleming's left-hand rule** [1] — **F**irst finger = **F**ield, se**C**ond finger = **C**urrent, thu**M**b = **M**otion [1].
 
 **(b)** **Zero** [1], because there is no component of the current perpendicular to the field — the force is maximum when they are perpendicular and zero when parallel [1].
 
@@ -122,8 +122,7 @@ Related: [Magnetism and Electromagnetism revision notes](/resources/edexcel-igcs
 **(c)** I_pV_p = I_sV_s [1]
 I_p = (5.0 × 12) ÷ 240 [1] = **0.25 A** [1].
 
-**(d)** Iron is **easily magnetised and demagnetised** [1], so it **concentrates the magnetic flux** and ensures most of it links the secondary coil [1].
-It is **laminated** — built from thin insulated layers [1] — to **reduce eddy currents**, which would otherwise circulate in the core and waste energy as heat [1].
+**(d)** A transformer has a **primary coil and a secondary coil**, each wound around a common **soft iron core**, with **no direct electrical connection** between the two coils [1]. The **alternating current in the primary coil produces a changing magnetic flux** in the core [1], which links the secondary coil and **induces an alternating e.m.f. (voltage)** in it [1]. Increasing the number of secondary turns (while the primary turns stay the same) **increases the secondary voltage**, since Vₛ ÷ Vₚ = Nₛ ÷ Nₚ — more secondary turns relative to primary turns gives a larger output voltage [1].
 
 **7.** Power loss in the cables is **I²R** [1]. Transmitting at high voltage means a **much lower current** for the same power [1], and since loss depends on the **square** of the current, the energy wasted is greatly reduced [1].
 *The explanation must be in terms of current, not voltage.*
@@ -143,7 +142,7 @@ It is **laminated** — built from thin insulated layers [1] — to **reduce edd
 - Using the right-hand rule for the motor effect.
 - Forgetting the force is zero when the conductor is parallel to the field.
 - Not knowing the commutator's function.
-- Confusing lamination (eddy currents) with using soft iron (flux concentration).
+- Forgetting that the turns-ratio equation links voltage and number of turns, not current, and mixing up which side is primary/secondary.
 - Explaining transmission losses in terms of voltage rather than I²R.
 - Confusing magnetically hard materials (permanent magnets) with magnetically soft materials (electromagnet cores).
 - Describing the field inside a solenoid as circular rather than uniform.

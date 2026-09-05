@@ -86,6 +86,11 @@ reversible, shown by the symbol ⇌; describe how changing conditions can change
 direction of a reversible reaction, limited to the effect of heat on hydrated
 compounds and the addition of water to anhydrous compounds — specifically hydrated
 and anhydrous copper(II) sulfate, and hydrated and anhydrous cobalt(II) chloride.
+**Wording difference:** 0620 limits this outcome to exactly those two named pairs.
+5070's wording instead says "including" these two pairs, meaning other
+hydrated/anhydrous compound pairs are not ruled out and could in principle be
+examined for a 5070 candidate, even though copper(II) sulfate and cobalt(II)
+chloride remain the standard teaching examples for both syllabuses.
 
 ```
 CuSO4·5H2O(s)  ⇌  CuSO4(s) + 5H2O(l)
@@ -108,6 +113,15 @@ Equilibrium is not a static state — both reactions are still happening, at equ
 and opposite rates, so nothing appears to change overall. A catalyst speeds up
 both the forward and reverse reactions equally, so it changes *how fast*
 equilibrium is reached but never *where* the equilibrium position ends up.
+
+**Effect of concentration on equilibrium position.** Increasing the
+concentration of a reactant shifts the equilibrium position **towards the
+products**, as the system responds by converting more of the reactant to
+restore balance; increasing the concentration of a product shifts it
+**back towards the reactants** for the same reason. Removing a product as
+it forms (rather than letting it build up) therefore also pulls the
+equilibrium further towards the products, since the system continually
+"replaces" what is removed.
 
 ### The Haber process
 
@@ -150,6 +164,19 @@ temperature also shifts the equilibrium position *away* from the product. The
 catalyst is what resolves this tension: it lets the reaction reach equilibrium
 quickly at a moderate temperature, without needing the higher temperature that
 would otherwise reduce the yield.
+
+**Why the Contact process uses a much lower pressure than the Haber process.**
+The Contact process reaction, 2SO2(g) + O2(g) ⇌ 2SO3(g), already gives a high
+percentage conversion to product (well over 95%) at ordinary atmospheric-ish
+pressures, because it has fewer gas molecules on the product side already
+favouring the product without much extra push. Raising the pressure further
+would only add substantial extra cost (stronger, more expensive plant and
+pipework) for a very small extra gain in yield, so 200 kPa (only about 2 atm)
+is used — just enough above atmospheric pressure to keep the gases flowing
+efficiently through the plant, rather than a genuinely "high" pressure. This
+is the opposite trade-off from the Haber process, where a much higher
+pressure (200 atm) is needed to achieve an acceptable yield in the first
+place, and safety/cost then limits how much higher it can practically go.
 
 ## Common mistakes
 

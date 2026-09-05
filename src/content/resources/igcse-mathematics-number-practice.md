@@ -111,6 +111,6 @@ Related: [Number revision notes](/resources/igcse-mathematics-number-revision-no
 - Rounding only the final answer when a question specifically instructs each value to be rounded first (e.g. "correct each number to 1 significant figure, then calculate") -- the instruction applies before the calculation, not after.
 - Misreading which digits recur in a recurring decimal before applying the standard "multiply by 10 to the n, subtract" method -- treating it as terminating, or misidentifying the repeating block, invalidates the rest of a correct method.
 - After multiplying or dividing two numbers in standard form, mishandling the index arithmetic -- indices are added when multiplying and subtracted when dividing, separately from renormalising the mantissa back into the range 1 <= a < 10.
-- In a compound unit conversion (e.g. km/h to m/s, or cm to km), converting one unit correctly but forgetting the second -- both parts of a compound unit need converting, not just the more obvious one.
+- In a compound unit conversion, converting only the unit that catches the eye and forgetting the other -- how many parts need converting depends on what's changing: km/h to m/h only requires converting the distance unit (km to m), since the time unit (h) is unchanged, but km/h to m/s requires converting both the distance (km to m) AND the time (h to s), since both units differ between the two forms.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 11, 12, 13, 21, 23 (verified 2026-09-02).*

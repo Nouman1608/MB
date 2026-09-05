@@ -32,7 +32,7 @@ Condensed for the final weeks. For the full explanation, use the
 - **Absolute zero** = −273 °C = the lowest possible temperature, where particles have the least possible kinetic energy.
 - **T (K) = θ (°C) + 273**
 - **Gas pressure** is caused by gas particles colliding with the walls of their container — more frequent or harder collisions mean higher pressure.
-- **pV = constant** *(Supplement)*, for a fixed mass of gas at constant temperature (Boyle's law) — as volume decreases, pressure increases proportionally.
+- **pV = constant** *(Supplement)*, for a fixed mass of gas at constant temperature (Boyle's law) — pressure is inversely proportional to volume, so halving the volume doubles the pressure.
 - **Brownian motion**: the random, erratic motion of visible smoke/pollen particles suspended in a gas or liquid, caused by collisions with the much smaller, fast-moving gas/liquid particles — evidence for the particle model.
 
 ## Thermal expansion

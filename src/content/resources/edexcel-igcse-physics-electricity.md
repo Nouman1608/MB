@@ -116,6 +116,8 @@ charge = current × time
 Q = I × t
 ```
 
+A lamp lighting up, or an LED glowing, indicates the **presence of a current** in the circuit — a simple qualitative test used before any meter reading is taken.
+
 **Voltage**, current and **resistance** are related by:
 
 ```
@@ -146,6 +148,8 @@ Voltage is defined as the energy transferred per unit charge passed:
 energy transferred = charge × voltage
 E = Q × V
 ```
+
+A **volt is a joule per coulomb** (1 V = 1 J/C) — one volt means one joule of energy is transferred for every coulomb of charge that passes.
 
 ## Electric charge (Physics only)
 

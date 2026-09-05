@@ -41,7 +41,7 @@ Related: [Forces and Motion revision notes](/resources/forces-and-motion-revisio
 **(b)** Calculate the acceleration. **[2]**
 **(c)** Describe what happens as the car speeds up, if the driving force stays constant. **[3]**
 
-**4.** Explain the difference between mass and weight, and calculate the weight of a 6.0 kg object on Earth (g = 9.81 N kg⁻¹) and on the Moon (g = 1.6 N kg⁻¹). **[5]**
+**4.** Explain the difference between mass and weight, and calculate the weight of a 6.0 kg object on Earth (g = 9.8 N/kg) and on the Moon (g = 1.6 N/kg). **[5]**
 
 **5.** A box is pushed with a horizontal force of 45 N and moves at constant velocity.
 
@@ -80,10 +80,10 @@ Related: [Forces and Motion revision notes](/resources/forces-and-motion-revisio
 **2.** An object remains **at rest or moving at constant velocity unless acted on by a resultant force** [1]. Example: a passenger continues forward when a bus brakes suddenly, because no force has acted on them to slow them [1].
 
 **3. (a)** 3200 − 800 = **2400 N** [1].
-**(b)** a = F ÷ m = 2400 ÷ 900 [1] = **2.7 m s⁻²** [1].
+**(b)** a = F ÷ m = 2400 ÷ 900 [1] = **2.7 m/s²** [1].
 **(c)** As speed increases, **air resistance increases** [1], so the **resultant force decreases and the acceleration falls** [1]; when the resistive force equals the driving force the resultant is zero and the car travels at a **constant top speed** [1].
 
-**4. Mass** is the **amount of matter in an object**, measured in kilograms, and is **the same everywhere** [1]. **Weight** is the **force of gravity acting on that mass**, measured in newtons, and **varies with gravitational field strength** [1]. On Earth: W = 6.0 × 9.81 = **58.9 N** [1] [1]. On the Moon: W = 6.0 × 1.6 = **9.6 N** [1].
+**4. Mass** is the **amount of matter in an object**, measured in kilograms, and is **the same everywhere** [1]. **Weight** is the **force of gravity acting on that mass**, measured in newtons, and **varies with gravitational field strength** [1]. On Earth: W = 6.0 × 9.8 = **58.8 N** [1] [1]. On the Moon: W = 6.0 × 1.6 = **9.6 N** [1].
 
 **5. (a)** **45 N** [1]; the box moves at constant velocity, so the **resultant force is zero** and friction must exactly balance the push [1].
 **(b)** **Weight downwards** from the centre of the box [1]; **normal contact force upwards**, equal in size [1]; **push of 45 N to the right and friction of 45 N to the left**, all arrows labelled and drawn to a consistent scale [1].

@@ -112,11 +112,11 @@ The same reactivity order (Cl > Br > I) is exactly why chloride, bromide and iod
 | Compounds | **Coloured** | White/colourless |
 | Catalysts | Often | No |
 
-**Iron is the syllabus's named example of variable oxidation numbers**: iron(II) compounds (e.g. iron(II) sulfate) and iron(III) compounds (e.g. iron(III) chloride) are both stable, ordinary compounds — the same metal simply forms two different, equally valid ions. This is exactly the property behind the [iron(II)/iron(III) hydroxide precipitate colours](/resources/identification-of-ions-and-gases/) (green vs red-brown) used to distinguish them in qualitative analysis.
+**Iron is 0620's named example of variable oxidation numbers** (5070 states the general property without naming a specific element): iron(II) compounds (e.g. iron(II) sulfate) and iron(III) compounds (e.g. iron(III) chloride) are both stable, ordinary compounds — the same metal simply forms two different, equally valid ions. This is exactly the property behind the [iron(II)/iron(III) hydroxide precipitate colours](/resources/identification-of-ions-and-gases/) (green vs red-brown) used to distinguish them in qualitative analysis.
 
 ## Noble gases
 
-Group VIII/0 — full outer shell, therefore **unreactive** (monatomic). Uses: helium in balloons (low density, non-flammable), argon in lamps and welding (inert atmosphere), neon in lighting. "Monatomic" means existing as single, separate atoms rather than as molecules — unlike Group VII, which is diatomic — since there is no bonding pulling their atoms together. See the [Periodic Table: Groups and Trends study guide](/resources/periodic-table-groups-and-trends/) for the full syllabus coverage and worked reasoning behind every trend above.
+**Group VIII** (not Group 0) — full outer shell, therefore **unreactive** (monatomic). Uses: helium in balloons (low density, non-flammable), argon in lamps and welding (inert atmosphere), neon in lighting. "Monatomic" means existing as single, separate atoms rather than as molecules — unlike Group VII, which is diatomic — since there is no bonding pulling their atoms together. See the [Periodic Table: Groups and Trends study guide](/resources/periodic-table-groups-and-trends/) for the full syllabus coverage and worked reasoning behind every trend above.
 
 ## Exam traps
 
@@ -125,7 +125,7 @@ Group VIII/0 — full outer shell, therefore **unreactive** (monatomic). Uses: h
 - Halogens are diatomic — write Cl₂, not Cl.
 - Transition metals are **not** in a numbered group in this syllabus.
 - Noble gases have a full outer shell — helium's is 2, not 8.
-- Forgetting that the halogen reactivity trend and the silver halide precipitate colours describe the **same** underlying pattern, not two separate facts to memorise independently.
+- Claiming halogen reactivity *explains* silver halide solubility — the two trends happen to run in the same order (Cl > Br > I) as a memory aid, but they arise from different underlying causes, not a cause-and-effect relationship.
 - Treating iron(II) and iron(III) as if one were "more correct" than the other — both are equally valid, stable oxidation states of the same element.
 
 ## Self-test
@@ -135,7 +135,7 @@ Group VIII/0 — full outer shell, therefore **unreactive** (monatomic). Uses: h
 3. Will chlorine displace iodine from potassium iodide? Write the equation.
 4. Give three ways transition elements differ from Group I metals.
 5. Why are noble gases unreactive?
-6. Explain the connection between halogen reactivity and the colours of silver halide precipitates.
-7. Name the syllabus's example element for variable oxidation numbers, and give its two named ion charges.
+6. Describe how the order of halogen reactivity compares with the order of silver halide solubility, and how this can be used as a memory aid.
+7. Name 0620's example element for variable oxidation numbers, and give its two named ion charges.
 
-**Answers:** 1. Its outer electron is in a shell further from the nucleus with more shielding, so it is lost more easily. 2. Below iodine → solid, very dark/black. 3. Yes — chlorine is more reactive: Cl₂ + 2KI → 2KCl + I₂. 4. Any three: higher density, higher melting point, lower reactivity, variable ion charge, coloured compounds, act as catalysts. 5. They have a full outer shell, so they have no tendency to lose, gain or share electrons. 6. The same reactivity order (Cl > Br > I) that governs displacement also governs solubility — the least reactive halide ion (iodide) forms the least soluble, most strongly coloured silver halide precipitate. 7. Iron; Fe²⁺ (iron(II)) and Fe³⁺ (iron(III)).
+**Answers:** 1. Its outer electron is in a shell further from the nucleus with more shielding, so it is lost more easily. 2. Below iodine → solid, very dark/black. 3. Yes — chlorine is more reactive: Cl₂ + 2KI → 2KCl + I₂. 4. Any three: higher density, higher melting point, lower reactivity, variable ion charge, coloured compounds, act as catalysts. 5. They have a full outer shell, so they have no tendency to lose, gain or share electrons. 6. Halogen reactivity decreases Cl > Br > I, and silver halide solubility happens to decrease in the same order — silver iodide is the least soluble and most strongly coloured precipitate. The two trends follow the same order, which can help you remember one from the other, but reactivity does not explain the solubility trend; they arise from different underlying causes. 7. Iron; Fe²⁺ (iron(II)) and Fe³⁺ (iron(III)).

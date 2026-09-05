@@ -40,7 +40,7 @@ Related: [Astrophysics and Cosmology revision notes](/resources/edexcel-ial-phys
 **(c)** Name this class of star. **[1]**
 
 **4.** A star has peak emission at 720 nm and luminosity 8.4 × 10²⁸ W.
-(Wien constant = 2.9 × 10⁻³ m K; σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴)
+(Wien constant = 2.898 × 10⁻³ m K; σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴)
 
 **(a)** Calculate its surface temperature. **[2]**
 **(b)** Calculate its radius. **[3]**
@@ -60,6 +60,11 @@ Related: [Astrophysics and Cosmology revision notes](/resources/edexcel-ial-phys
 
 **10.** State three independent pieces of observational evidence for the Big Bang model, briefly explaining what each shows. **[6]**
 
+**11.** A planet of mass 6.4 × 10²³ kg has a moon orbiting at a radius of 9.4 × 10⁶ m. (G = 6.67 × 10⁻¹¹ N m² kg⁻²)
+
+**(a)** State the equation for gravitational field strength due to a point mass, and give one similarity and one difference between gravitational and electric fields. **[3]**
+**(b)** Show that the moon's orbital speed is about 2.1 × 10³ m s⁻¹, using the fact that gravity provides the centripetal force. **[3]**
+
 ---
 
 ## Answers
@@ -72,10 +77,10 @@ Related: [Astrophysics and Cosmology revision notes](/resources/edexcel-ial-phys
 **(b)** Luminosity depends on both temperature and surface area (L = 4πr²σT⁴) [1]. For a low temperature to produce a high luminosity, the **surface area must be very large** [1], so the radius is very large [1].
 **(c)** A **red giant** (or supergiant) [1].
 
-**4. (a)** T = 2.9 × 10⁻³ ÷ (720 × 10⁻⁹) [1] = **4028 K** [1].
+**4. (a)** T = 2.898 × 10⁻³ ÷ (720 × 10⁻⁹) [1] = **4025 K** [1].
 **(b)** r = √(L ÷ (4πσT⁴)) [1]
-T⁴ = 4028⁴ = 2.633 × 10¹⁴
-r = √(8.4 × 10²⁸ ÷ (4π × 5.67 × 10⁻⁸ × 2.633 × 10¹⁴)) [1] = **1.05 × 10¹⁰ m** [1].
+T⁴ = 4025⁴ = 2.625 × 10¹⁴
+r = √(8.4 × 10²⁸ ÷ (4π × 5.67 × 10⁻⁸ × 2.625 × 10¹⁴)) [1] = **2.1 × 10¹⁰ m** [1].
 
 **5. (a)** Nebula → protostar → main sequence → **red giant** → planetary nebula → **white dwarf** [1] [1] [1].
 **(b)** Nebula → protostar → main sequence → **red supergiant** → **supernova** → **neutron star or black hole** [1] [1] [1].
@@ -90,6 +95,9 @@ r = √(8.4 × 10²⁸ ÷ (4π × 5.67 × 10⁻⁸ × 2.633 × 10¹⁴)) [1] = *
 **(b)** d = v ÷ H₀ = 1830 ÷ 70 [1] = **26.1 Mpc** [1].
 
 **10.** Any three: **Galactic redshift** — almost all distant galaxies show redshifted light, and redshift increases with distance, showing the universe is expanding and was once smaller and denser [2]. **Cosmic microwave background radiation** — a near-uniform black-body radiation at about 2.7 K found in all directions, the cooled remnant of the hot, dense early universe [2]. **Hydrogen and helium abundances** — the observed ratio of these elements in the universe matches the ratio predicted by Big Bang nucleosynthesis calculations [2].
+
+**11. (a)** g = Gm/r² [1]. Both fields are inverse-square and have radial and uniform forms [1], but gravitational forces are always attractive whereas electric forces can be attractive or repulsive [1].
+**(b)** Gravity provides the centripetal force: GMm/r² = mv²/r, so v = √(GM/r) [1] = √(6.67 × 10⁻¹¹ × 6.4 × 10²³ ÷ 9.4 × 10⁶) [1] = **2.1 × 10³ m s⁻¹** [1].
 
 ---
 

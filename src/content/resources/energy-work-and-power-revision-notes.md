@@ -24,7 +24,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Energy stores
 
-Kinetic · gravitational potential · elastic potential · chemical · thermal (internal) · nuclear · electrostatic · magnetic
+Kinetic · gravitational potential · elastic potential · chemical · thermal (internal) · nuclear · electrostatic
 
 Energy is **transferred** between stores — mechanically, electrically, by heating, or by radiation. It is never "used up" or "created".
 
@@ -38,10 +38,10 @@ Work is what a force does when it moves something, and it is the mechanism by wh
 
 ```
 kinetic energy        Ek = 1/2 m v^2
-gravitational PE      Ep = m g h
+gravitational PE      ΔEp = m g Δh    (Δh = CHANGE IN HEIGHT)
 work done             W  = F x d       (force x distance MOVED IN THE
                                         DIRECTION OF THE FORCE)
-power                 P  = W / t  =  E / t
+power                 P  = W / t  =  ΔE / t
 efficiency            = (useful energy out / total energy in) x 100%
 ```
 
@@ -58,7 +58,7 @@ Ek = 1/2 m v^2 = 1/2 x 1500 x 20^2 = 1/2 x 1500 x 400 = 300000 J
 Change in gravitational PE when a 5 kg object is lifted 3 m (g = 9.8 N/kg):
 
 ```
-Ep = m g h = 5 x 9.8 x 3 = 147 J
+ΔEp = m g Δh = 5 x 9.8 x 3 = 147 J
 ```
 
 Work done when a 40 N force pushes a crate 6 m:

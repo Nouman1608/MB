@@ -31,10 +31,13 @@ Condensed for the final weeks. For the full explanation, use the
 ```
 a = -omega^2 x
 x = A cos(omega t)   or   A sin(omega t)
-v = +/- omega sqrt(A^2 - x^2)
 v_max = omega A        a_max = omega^2 A
 omega = 2 pi f = 2 pi / T
 ```
+
+*Background — beyond the specification, not among outcomes 143-145 or the
+supplied formulae:* the velocity-displacement relation, v = ±ω√(A² − x²),
+gives the speed at any displacement x directly, without needing time t.
 
 **The minus sign is the definition.** It encodes "towards equilibrium", and dropping it means you have not stated SHM. The underlying condition is **F = −kx**: the restoring force is directly proportional to displacement and directed towards equilibrium — this identifies which physical systems actually undergo SHM.
 
@@ -59,6 +62,10 @@ Displacement, velocity and acceleration are all sinusoidal but out of step:
 So at the **equilibrium position**: displacement zero, velocity maximum, acceleration zero. At **maximum displacement**: velocity zero, acceleration maximum. Reading those two states correctly answers most graph questions.
 
 ## Energy
+
+*Background — beyond the specification, not among outcomes 143-145 or the
+supplied formulae (and the potential-energy form below is, in any case, only
+an approximation for the named simple pendulum):*
 
 ```
 Ek = 1/2 m omega^2 (A^2 - x^2)

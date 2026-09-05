@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-waves-and-electricity"
     subtopic: "electric-circuits"
-description: "Condensed recall notes on current, resistance, Kirchhoff laws, internal resistance, potential dividers and I-V characteristics for Edexcel International A Level Physics WPH12."
+description: "Condensed recall notes on current, resistance, Kirchhoff laws, internal resistance, potential dividers and I-V characteristics for Edexcel International A Level Physics YPH11."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false

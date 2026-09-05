@@ -194,7 +194,7 @@ diode conducts symmetrically in both directions.
 ## Related resources
 
 - [Unit 2: Waves and Particle Nature of Light](/resources/edexcel-ial-physics-waves-and-particle-nature-of-light/) — the previous sub-topic
-- [Unit 4: Further Mechanics](/resources/edexcel-ial-physics-further-mechanics/) — the next unit
+- [Unit 4: Further Mechanics, Fields and Particles](/resources/edexcel-ial-physics-further-mechanics/) — the first International A2 unit (Unit 3, Practical Skills in Physics I, comes between this unit and Unit 4)
 - [Pearson Edexcel International A Level Physics hub](/boards/edexcel/a-level/physics/)
 
 *This guide is intended to support, not replace, engagement with the

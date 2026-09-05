@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-mechanics-and-materials"
     subtopic: "materials"
-description: "Condensed recall notes on density, viscosity, Stokes law, Hooke law, the Young modulus and material properties for Edexcel International A Level Physics WPH11."
+description: "Condensed recall notes on density, viscosity, Stokes law, Hooke law, the Young modulus and material properties for Edexcel International A Level Physics YPH11."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false

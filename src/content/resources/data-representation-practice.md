@@ -88,7 +88,7 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 
 **11.** 1 KiB is exactly **1024 bytes**, using the base-2 multiplier that matches how computers actually address memory [1]; 1 KB traditionally means **1000 bytes** in everyday/marketing use, so "-bi-" naming (kibi, mebi...) removes that ambiguity by making the base-2 factor explicit, even though "KB" remains common informally [1].
 
-**12.** ASCII: 500 × 8 = 4000 bits ÷ 8 = **500 bytes** [1]. Unicode: 500 × 16 = 8000 bits ÷ 8 = **1000 bytes** [1]. Unicode needs **500 bytes more** — exactly double, since each character takes twice as many bits [1]. This is the trade-off examiners expect you to state: Unicode's wider character support for non-Latin scripts and emoji comes at the direct cost of larger file sizes for the same text.
+**12.** ASCII: 500 × 8 = 4000 bits ÷ 8 = **500 bytes** [1]. Unicode (here stored as a fixed 16 bits per character, e.g. UTF-16): 500 × 16 = 8000 bits ÷ 8 = **1000 bytes** [1]. Unicode needs **500 bytes more** — exactly double, since each character takes twice as many bits in this encoding [1]. Note this is specific to a fixed-width 16-bit encoding: in the variable-width **UTF-8** encoding, which is far more common on the web, plain ASCII characters still take only a single byte each, so a message using only those characters would be the same size in ASCII and UTF-8 — it is only the additional, non-ASCII characters that cost extra bytes.
 
 ---
 

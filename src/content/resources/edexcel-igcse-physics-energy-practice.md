@@ -107,7 +107,7 @@ Transfers: **mechanically**, **electrically**, **by heating**, **by radiation** 
 - Saying energy is "lost".
 - Explaining metal conduction without free electrons.
 - Comparing energy resources on one dimension only.
-- Confusing work done (force × distance moved in the direction of the force) with energy stored — they are numerically equal here, but represent different concepts. Always check that the distance used is measured in the direction of the applied force, not just the total path travelled.
+- In Q8, forgetting that the work done against friction is **dissipated to the thermal energy store of the crate and floor**, not stored anywhere — there is no stored quantity for it to equal. Always check that the distance used is measured in the direction of the applied force, not just the total path travelled.
 - Classifying nuclear power as renewable because it does not burn fossil fuels — it is non-renewable because its fuel reserve is finite.
 
 Work through the [Energy revision notes](/resources/edexcel-igcse-physics-energy-revision-notes/) alongside these questions: the notes summarise the stores, transfers and resource classifications in condensed form, while these questions test whether you can apply the work, kinetic-energy and renewable/non-renewable definitions to a specific example rather than just recall them.

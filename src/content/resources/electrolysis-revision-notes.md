@@ -69,7 +69,13 @@ Water supplies H⁺ and OH⁻, so four ions are present. Use these rules:
 Concentrated NaCl(aq):   cathode H2      anode Cl2
 Dilute NaCl(aq):         cathode H2      anode O2
 CuSO4(aq), inert:        cathode Cu      anode O2
+Dilute H2SO4, inert:     cathode H2      anode O2   (ratio H2:O2 = 2:1 by volume)
 ```
+
+**Dilute sulfuric acid** contains no halide, so it behaves like dilute NaCl at
+the anode: hydrogen at the cathode (**squeaky pop** with a lit splint), oxygen
+at the anode (**relights a glowing splint**), collected in a **2 : 1** volume
+ratio of hydrogen to oxygen — the same ratio as in water, H₂O.
 
 **Copper sulfate is a special case worth knowing separately.** With
 **inert (carbon/graphite) electrodes**, copper deposits at the cathode

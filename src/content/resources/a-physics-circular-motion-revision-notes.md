@@ -55,7 +55,9 @@ The single most important idea: **centripetal force is not a new force.** It is 
 | Electron in a magnetic field | Magnetic force BQv |
 | Car on a banked track | Horizontal component of the normal contact force |
 
-## Banked tracks
+## Banked tracks (beyond the syllabus — background only, not examinable)
+
+Banked-track problems do not appear in the Cambridge 9702 Motion in a Circle syllabus content, but the idea extends the centripetal-force relationships above in a way that helps consolidate them.
 
 On a **frictionless** banked track at angle θ, only two forces act: weight (down) and the normal contact force (perpendicular to the track surface). Resolving:
 
@@ -116,7 +118,7 @@ Below that speed the object leaves the circular path — the string would go sla
 3. What provides the centripetal force for a car on a flat bend?
 4. Derive the minimum speed at the top of a vertical circle.
 5. Where is the tension greatest in a vertical circle, and by how much does it differ from the minimum?
-6. Derive the relationship between banking angle, speed and radius for a frictionless banked track.
-7. A track is banked at 15° for cars travelling at 20 m/s. Find the design radius.
+6. *(Extension, beyond the syllabus)* Derive the relationship between banking angle, speed and radius for a frictionless banked track.
+7. *(Extension, beyond the syllabus)* A track is banked at 15° for cars travelling at 20 m/s. Find the design radius.
 
 **Answers:** 1. a = v²/r and a = rω². 2. Velocity is a vector and its direction changes continuously, so the velocity changes even though the speed does not. 3. Friction between the tyres and the road surface. 4. At minimum speed the tension is zero, so weight alone supplies the centripetal force: mg = mv²/r, giving v = √(gr). 5. At the bottom; it exceeds the tension at the top by 2mg. 6. Resolving the normal contact force: N cos θ = mg (vertical) and N sin θ = mv²/r (horizontal); dividing gives tan θ = v²/(rg). 7. r = v² ÷ (g tan θ) = 20² ÷ (9.81 × tan 15°) = 400 ÷ (9.81 × 0.268) = **152 m**.

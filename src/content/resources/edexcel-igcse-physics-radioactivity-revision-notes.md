@@ -34,7 +34,9 @@ Protons and neutrons in the nucleus; electrons in shells. **Atomic number** = pr
 
 **Isotopes** — same protons, different neutrons. Identical chemistry, different nuclear stability.
 
-**Rutherford's alpha-scattering experiment**, with each observation tied to its conclusion:
+*Background — beyond the specification, not examinable (4PH1 does not name
+Rutherford, alpha scattering or the nuclear model of the atom):* **Rutherford's
+alpha-scattering experiment**, with each observation tied to its conclusion:
 
 1. Most alpha particles passed straight through → the atom is mostly **empty space**.
 2. Some were deflected → the nucleus is **positively charged**.
@@ -47,6 +49,7 @@ Protons and neutrons in the nucleus; electrons in shells. **Atomic number** = pr
 | **Alpha** | Helium nucleus | +2 | Stopped by paper | **Strongly** |
 | **Beta** | Fast electron | −1 | Stopped by ~3 mm aluminium | Moderately |
 | **Gamma** | EM wave | 0 | Reduced by thick lead | **Weakly** |
+| **Neutron** | Neutron | 0 | Reduced by water or paraffin wax (hydrogen-rich material) | Weakly |
 
 **Penetration and ionisation are inversely related.** Alpha ionises strongly, so it loses energy quickly and cannot penetrate far. Gamma barely interacts, so it penetrates deeply. Understanding that trade-off answers most application questions.
 
@@ -59,9 +62,10 @@ Protons and neutrons in the nucleus; electrons in shells. **Atomic number** = pr
 ## Nuclear equations
 
 ```
-alpha decay:  mass number -4,  atomic number -2
-beta decay:   mass number unchanged,  atomic number +1
-gamma:        no change to either
+alpha decay:     mass number -4,  atomic number -2
+beta decay:      mass number unchanged,  atomic number +1
+gamma:           no change to either
+neutron emission: mass number -1,  atomic number unchanged
 ```
 
 In beta decay a **neutron becomes a proton plus an electron**, which is why the atomic number rises while the mass number does not.
@@ -100,7 +104,6 @@ Reduce exposure by **shielding** (lead, concrete), **distance**, and **limiting 
 
 ## Exam traps
 
-- Giving alpha-scattering observations without conclusions.
 - Saying alpha is the most penetrating because it is most ionising.
 - Choosing the wrong source for an application.
 - Forgetting to balance both numbers in a nuclear equation.
@@ -111,10 +114,10 @@ Reduce exposure by **shielding** (lead, concrete), **distance**, and **limiting 
 
 ## Self-test
 
-1. Give the three alpha-scattering observations and what each shows.
+1. *(Background, not examinable.)* Give the three alpha-scattering observations and what each shows.
 2. Why is beta used for thickness monitoring rather than alpha or gamma?
 3. What happens to mass number and atomic number in beta decay, and why?
 4. Define half-life, and say why it is an average.
 5. Why is fusion difficult to achieve on Earth?
 
-**Answers:** 1. Most passed through — the atom is mostly empty space; some deflected — the nucleus is positively charged; a few rebounded — the nucleus is very small and contains most of the mass. 2. Alpha would be completely absorbed and gamma would pass through almost unaffected, so neither would vary with thickness; beta is partly absorbed, so the count rate responds to thickness changes. 3. Mass number is unchanged and atomic number increases by one, because a neutron converts into a proton and an emitted electron. 4. The average time for half the undecayed nuclei in a sample to decay; decay is random, so only the average behaviour of a large number of nuclei is predictable. 5. Both nuclei are positively charged and repel each other, so extremely high temperatures and pressures are needed to bring them close enough to fuse.
+**Answers:** 1. *(Background, not examinable.)* Most passed through — the atom is mostly empty space; some deflected — the nucleus is positively charged; a few rebounded — the nucleus is very small and contains most of the mass. 2. Alpha would be completely absorbed and gamma would pass through almost unaffected, so neither would vary with thickness; beta is partly absorbed, so the count rate responds to thickness changes. 3. Mass number is unchanged and atomic number increases by one, because a neutron converts into a proton and an emitted electron. 4. The average time for half the undecayed nuclei in a sample to decay; decay is random, so only the average behaviour of a large number of nuclei is predictable. 5. Both nuclei are positively charged and repel each other, so extremely high temperatures and pressures are needed to bring them close enough to fuse.

@@ -41,8 +41,8 @@ Related: [Radioactivity revision notes](/resources/edexcel-igcse-physics-radioac
 
 **3.** Complete these nuclear equations, giving the mass and atomic numbers of the missing nuclide:
 
-**(a)** `²³⁸U₉₂ → ? + ⁴He₂` **[2]**
-**(b)** `¹⁴C₆ → ? + ⁰e₋₁` **[2]**
+**(a)** `²³⁸₉₂U → ? + ⁴₂He` **[2]**
+**(b)** `¹⁴₆C → ? + ⁰₋₁e` **[2]**
 
 **4.** Explain, in terms of the nucleus, why the atomic number increases in beta-minus decay while the mass number does not. **[2]**
 
@@ -79,8 +79,8 @@ Related: [Radioactivity revision notes](/resources/edexcel-igcse-physics-radioac
 
 **2.** They are **inversely related** [1]. Strongly ionising radiation **loses energy rapidly** through many ionising interactions [1], so it cannot penetrate far; weakly ionising radiation interacts rarely and travels much further [1].
 
-**3. (a)** `²³⁴Th₉₀` — mass number 234 [1], atomic number 90 [1].
-**(b)** `¹⁴N₇` — mass number 14 [1], atomic number 7 [1].
+**3. (a)** `²³⁴₉₀Th` — mass number 234 [1], atomic number 90 [1].
+**(b)** `¹⁴₇N` — mass number 14 [1], atomic number 7 [1].
 
 **4.** A **neutron changes into a proton and an electron** [1]. The proton number rises by one while the total number of nucleons is unchanged, since a neutron has simply been replaced by a proton [1].
 

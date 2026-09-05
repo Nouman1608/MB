@@ -25,11 +25,13 @@ featured: false
 
 Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-physics-nuclear-particle-revision-notes/)
 
+> **Scope note:** this paper is filed under Unit 4 sub-topic 4.5. Questions 1–6 and 9–10 (radioactive decay types, half-life, decay constant, beta decay, mass defect/binding energy, fission/fusion, particle classification) sit substantially in Unit 5 sub-topic 5.4, and are included here as useful overlap/context alongside the genuine Unit 4.5 material. Questions 11–12 test the Unit 4.5 outcomes proper (thermionic emission, accelerators, MeV/MeV-c² conversions).
+
 ---
 
 ## Section A
 
-**1.** Compare alpha, beta-minus and gamma radiation in terms of nature, penetration and ionising power. **[6]**
+**1.** Compare alpha, beta-minus and gamma radiation in terms of nature, penetration and ionising power. **[9]**
 
 **2.** State the quark composition of a proton and a neutron. **[2]**
 
@@ -63,11 +65,15 @@ Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-ph
 
 **10.** Classify each of the following as a baryon, a meson or a lepton: proton, pion, electron. **[3]**
 
+**11.** Describe how thermionic emission is used to produce a beam of electrons for injection into a linear accelerator (linac), and explain briefly how a cyclotron differs from a linac in the way it accelerates particles. **[4]**
+
+**12.** A particle has a rest mass of 1.67 × 10⁻²⁷ kg. **(a)** Convert this mass to units of MeV/c². **(b)** A different particle has a rest energy of 105 MeV. State its mass in MeV/c², and explain why MeV/c² is a convenient unit for particle rest mass. **[4]**
+
 ---
 
 ## Answers
 
-**1. Alpha** — a **helium nucleus**, stopped by **paper or a few cm of air**, **most strongly ionising** [1] [1]. **Beta-minus** — a **fast electron**, stopped by a **few mm of aluminium**, moderately ionising [1] [1]. **Gamma** — a **high-energy electromagnetic photon**, reduced by **several cm of lead**, **least ionising** [1] [1].
+**1. Alpha** — a **helium nucleus** [1], stopped by **paper or a few cm of air** [1], **most strongly ionising** [1]. **Beta-minus** — a **fast electron** [1], stopped by a **few mm of aluminium** [1], moderately ionising [1]. **Gamma** — a **high-energy electromagnetic photon** [1], reduced by **several cm of lead** [1], **least ionising** [1].
 
 **2.** Proton = **uud** [1]; neutron = **udd** [1].
 
@@ -92,6 +98,10 @@ Related: [Nuclear and Particle Physics revision notes](/resources/edexcel-ial-ph
 **9.** Total mass converted: Δm = 2 × 9.11 × 10⁻³¹ = 1.822 × 10⁻³⁰ kg [1]. Total energy released: ΔE = c²Δm = (3.00 × 10⁸)² × 1.822 × 10⁻³⁰ = 1.640 × 10⁻¹³ J [1]. Since two identical photons share this energy equally, each photon has energy = 1.640 × 10⁻¹³ ÷ 2 = **8.20 × 10⁻¹⁴ J** (about 0.51 MeV) [1].
 
 **10.** Proton — **baryon** (three quarks) [1]; pion — **meson** (a quark and an antiquark) [1]; electron — **lepton** (a fundamental particle) [1].
+
+**11.** A heated filament (cathode) releases electrons from its surface by **thermionic emission** [1]; these electrons are then **accelerated by a potential difference** towards an anode to form the initial beam injected into the linac [1]. In a **linac**, the particle is accelerated in a straight line through a series of tubes with an alternating field switching sign as it crosses each gap [1]. In a **cyclotron**, the particle instead spirals outward inside a magnetic field, crossing the same alternating-field gap repeatedly as its radius grows [1].
+
+**12. (a)** E = mc² = 1.67 × 10⁻²⁷ × (3.00 × 10⁸)² = 1.503 × 10⁻¹⁰ J [1]; ÷ 1.60 × 10⁻¹³ = 939 MeV, so mass = **939 MeV/c²** [1]. **(b)** Mass = **105 MeV/c²** [1]. MeV/c² is convenient because rest energy in MeV can be converted to mass by simply dividing by c², **avoiding repeated use of very small SI masses and the large factor of c²** in every calculation [1].
 
 ---
 

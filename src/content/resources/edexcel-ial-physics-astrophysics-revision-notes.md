@@ -22,6 +22,19 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Astrophysics and Cosmology study guide](/resources/edexcel-ial-physics-astrophysics-and-cosmology-ial/).
 
+## Gravitational fields
+
+```
+g = F / m
+F = G m1 m2 / r^2      (Newton's law of universal gravitation)
+g = G m / r^2           (field of a point mass)
+Vgrav = -G m / r         (gravitational potential, radial field)
+```
+
+**Gravitational field strength**, g = F/m, is the force per unit mass on a small test mass. Gravitational fields are structurally like electric fields — both inverse-square, both with radial and uniform forms — but gravity is **always attractive** (never repulsive) and **Vgrav is always negative**, rising towards zero at infinity, whereas electric potential can be positive or negative.
+
+**Orbital motion**: gravity supplies the centripetal force, so GMm/r² = mv²/r, giving orbital speed v = √(GM/r) for a satellite in circular orbit.
+
 ## Luminosity, flux and distance
 
 ```
@@ -35,7 +48,7 @@ F = L / (4 pi d^2)
 ## Stellar temperature and size
 
 ```
-Wien:    lambda_max T = 2.9 x 10^-3 m K
+Wien:    lambda_max T = 2.898 x 10^-3 m K
 Stefan:  L = 4 pi r^2 sigma T^4
 ```
 
@@ -99,6 +112,7 @@ Almost all galaxies are redshifted, and redshift increases with distance, so the
 - Saying massive stars live longer because they have more fuel.
 - Claiming redshift shows Earth is at the centre.
 - Using °C in Wien's or Stefan's law.
+- Forgetting that gravitational potential is always negative, unlike electric potential.
 
 ## Self-test
 
@@ -109,5 +123,6 @@ Almost all galaxies are redshifted, and redshift increases with distance, so the
 5. What is the evidence for dark matter?
 6. A star has a surface temperature of 5800 K. Find its peak emission wavelength.
 7. How does trigonometric parallax measure stellar distance, and what is it used for?
+8. State the equation for gravitational field strength due to a point mass, and give one similarity and one difference between gravitational and electric fields.
 
-**Answers:** 1. Luminosity is the total power radiated by the star; radiant flux is the power received per unit area at the observer. 2. Wien first, because peak wavelength gives temperature; Stefan then uses that temperature with the luminosity to find the radius — reversing the order leaves two unknowns. 3. Luminosity depends on both temperature and surface area, so a low temperature can only give high luminosity if the surface area, and hence the radius, is very large. 4. Luminosity increases much faster than mass, so they consume their larger fuel supply disproportionately quickly. 5. Galactic rotation curves show that stars in the outer regions orbit far faster than the visible mass distribution can explain. 6. λmax = (2.898×10⁻³) ÷ 5800 = 5.00×10⁻⁷ m (500 nm). 7. It measures the apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun; it is used to calibrate standard candles for larger distances.
+**Answers:** 1. Luminosity is the total power radiated by the star; radiant flux is the power received per unit area at the observer. 2. Wien first, because peak wavelength gives temperature; Stefan then uses that temperature with the luminosity to find the radius — reversing the order leaves two unknowns. 3. Luminosity depends on both temperature and surface area, so a low temperature can only give high luminosity if the surface area, and hence the radius, is very large. 4. Luminosity increases much faster than mass, so they consume their larger fuel supply disproportionately quickly. 5. Galactic rotation curves show that stars in the outer regions orbit far faster than the visible mass distribution can explain. 6. λmax = (2.898×10⁻³) ÷ 5800 = 5.00×10⁻⁷ m (500 nm). 7. It measures the apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun; it is used to calibrate standard candles for larger distances. 8. g = Gm/r²; both fields are inverse-square with radial and uniform forms, but gravitational forces are always attractive while electric forces can attract or repel.

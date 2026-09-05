@@ -90,7 +90,7 @@ Related: [Data Representation revision notes](/resources/o-level-computer-scienc
 **(c)** The bit is **shifted out of the register and lost** [1], so the value is **no longer a correct multiplication — the result is wrong** because the register cannot hold a number that large [1].
 
 **5. (a)** **128 characters** [1], because standard ASCII uses **7 bits and 2⁷ = 128** [1].
-**(b)** Unicode uses **more bits per character**, so it can represent **far more characters — over a million code points** [1] [1]. This means it can represent the **alphabets of all the world's languages, plus symbols and emoji**, so text can be exchanged internationally without corruption [1]; it is also **backwards compatible with ASCII** for the first 128 characters [1].
+**(b)** Unicode uses **more bits per character**, so it can represent **far more characters — over a million code points** [1] [1]. This means it can represent **a very wide range of the world's writing systems, plus symbols and emoji**, so text can be exchanged internationally without corruption [1]; it is also **backwards compatible with ASCII** for the first 128 characters [1].
 **(c)** The character codes are **allocated in sequence starting at 65 for "A"** [1]; "D" is three places later, so its code is **68** [1].
 
 **6. (a)** Bits = 44 100 × 16 × 30 [1] [1] = 21 168 000 bits [1]; ÷ 8 ÷ 1 000 000 = **2.65 MB** [1].

@@ -81,7 +81,9 @@ Total pressure including atmosphere:
 
 Read the question carefully — "pressure due to the water" excludes atmospheric; "total pressure" includes it.
 
-## Hydraulic systems (Pascal's principle)
+## Hydraulic systems (Pascal's principle) — background, not examinable
+
+*Beyond the O Level Physics 5054 specification: the pressure subtopic does not include an outcome on hydraulic systems or transmission of pressure. The following is background reading only.*
 
 Pressure applied to an enclosed liquid is **transmitted equally throughout the fluid**, so a small force on a small piston produces a large force on a larger piston:
 
@@ -106,7 +108,7 @@ Liquids are used rather than gases because liquids are **virtually incompressibl
 - Distinguish pressure *due to the liquid* from *total* pressure including atmospheric.
 - Mercury is chosen for its **density**, not its colour or toxicity.
 - The force from pressure acts **perpendicular** to the surface, whatever the surface's orientation.
-- In a hydraulic system, it is the **pressure** that stays equal throughout, not the force.
+- In a hydraulic system, it is the **pressure** that stays equal throughout, not the force. *(Background — hydraulic systems are not on the 5054 specification.)*
 
 ## Self-test
 
@@ -116,6 +118,6 @@ Liquids are used rather than gases because liquids are **virtually incompressibl
 4. Why is mercury used in a barometer rather than water?
 5. Does pressure at 3 m depth differ between a narrow tube and a wide tank?
 6. In which direction does the force from pressure act on a submerged surface?
-7. A hydraulic system has an input piston of area 0.0004 m² (force 40 N) and an output piston of area 0.0060 m². Find the output force, and explain why the system uses a liquid rather than a gas.
+7. *(Background, not examinable.)* A hydraulic system has an input piston of area 0.0004 m² (force 40 N) and an output piston of area 0.0060 m². Find the output force, and explain why the system uses a liquid rather than a gas.
 
 **Answers:** 1. p = 600/0.015 = **40 000 Pa**. 2. Pressure increases with depth, so the force on the wall is greatest at the base and more material is needed to withstand it. 3. Depth below the surface and the density of the liquid (and g). 4. Mercury is about 13.6 times denser than water, so the supported column is around 760 mm rather than over 10 m — a practical instrument height. 5. No — pressure depends only on depth, density and g, not on the container's width or shape. 6. Perpendicular to the surface, regardless of the surface's orientation. 7. p = 40 ÷ 0.0004 = 100 000 Pa; F(output) = 100 000 × 0.0060 = **600 N**. A liquid is used because it is virtually incompressible, so pressure is transmitted immediately and in full; a gas would compress first, delaying the output force.

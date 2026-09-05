@@ -64,12 +64,13 @@ Atoms form ions to achieve a full outer shell. Metals lose electrons to form pos
 An **ionic bond** is a strong electrostatic attraction between oppositely charged ions.
 
 **CORE (0620) · REQUIRED (5070)** — formation of cations and anions; the definition of an
-ionic bond; formation of ionic bonds between metallic and non-metallic elements;
-properties of ionic compounds.
+ionic bond; formation of ionic bonds between **Group I and Group VII elements**; using
+**dot-and-cross diagrams** to show that formation by electron transfer; properties of
+ionic compounds.
 
 **EXTENDED / SUPPLEMENT (0620) · REQUIRED (5070)** — describe the **giant lattice
 structure** of ionic compounds as a regular arrangement of alternating positive and
-negative ions; formation of ionic bonds between ions of elements across the periods; and
+negative ions; formation of ionic bonds between **metallic and non-metallic elements**; and
 **explain** the properties of ionic compounds in terms of structure and bonding.
 
 That last point is the crucial difference. At O Level you must *explain* the properties.
@@ -88,22 +89,82 @@ ions are held in fixed positions.
 Notice that both explanations refer to the lattice. That is why the giant lattice outcome
 and the explanation outcome sit together.
 
+### Dot-and-cross diagrams for ionic bonding
+
+A dot-and-cross diagram shows only the **outer shell** electrons, using dots for the
+electrons of one atom and crosses for the electrons of the other, so you can see which
+atom each electron originally came from. Square brackets and the ion's charge go around
+each ion.
+
+**Sodium chloride, NaCl** — sodium (2,8,1) transfers its single outer electron to chlorine
+(2,8,7):
+
+```
+Na [•]              →      [Na]⁺        [ :Cl:×× ]⁻
+ (one outer dot            (empty outer         (chlorine's 7 outer electrons,
+  electron, lost)           shell, no dots)       plus the transferred dot,
+                                                   making 8 — a full outer shell)
+```
+
+**Magnesium oxide, MgO** — magnesium (2,8,2) transfers **both** outer electrons to oxygen
+(2,6), so the ratio is 1:1 and each ion carries a 2+ or 2− charge:
+
+```
+Mg [• •]             →     [Mg]²⁺       [ :O:×× ]²⁻
+ (two outer dot             (empty outer        (oxygen's 6 outer electrons,
+  electrons, lost)           shell)               plus 2 transferred dots,
+                                                    making 8)
+```
+
+In both cases the metal ends up with an empty outer shell (so the full shell underneath
+is shown as the outer one) and the non-metal ends up with 8 outer electrons — a full
+outer shell for both ions.
+
 ## 2.5 Simple molecules and covalent bonds
 
 A **covalent bond** forms when a pair of electrons is shared between two atoms, leading to
 a noble gas electronic configuration for both.
 
 **CORE (0620) · REQUIRED (5070)** — the definition; formation of covalent bonds in simple
-molecules; and describing the properties of simple molecular compounds.
+molecules; using **dot-and-cross diagrams** to show single covalent bonds (e.g. water,
+methane, hydrogen chloride); and describing the properties of simple molecular
+compounds.
 
 **EXTENDED / SUPPLEMENT (0620) · REQUIRED (5070)** — covalent bonding in a wider range of
-molecules, and **explaining** the properties of simple molecular compounds in terms of
-structure and bonding.
+molecules, including **dot-and-cross diagrams for molecules with double bonds** such as
+carbon dioxide, and **explaining** the properties of simple molecular compounds in terms
+of structure and bonding.
 
 Simple molecular substances have **low melting and boiling points** because, although the
 covalent bonds *within* each molecule are strong, the forces *between* molecules are weak
 and little energy is needed to separate them. They generally **do not conduct
 electricity** because there are no free electrons or ions.
+
+### Dot-and-cross diagrams for covalent bonding
+
+Here only the electrons **in the bond** need to be shared to give both atoms a full outer
+shell; dots and crosses again mark which atom each electron came from, and a shared pair
+sits where the outer shells overlap.
+
+**Water, H₂O** — oxygen (2,6) shares one electron with each of two hydrogen atoms:
+
+```
+      H×
+       )O(  ו  → each H contributes one electron to a shared pair with O;
+      H×          O ends with 8 outer electrons (6 of its own + 2 shared),
+                   each H ends with 2 (a full shell for hydrogen)
+```
+
+**Methane, CH₄** — carbon (2,4) shares one electron with each of four hydrogen atoms,
+giving carbon 8 outer electrons arranged around it and each hydrogen a full shell of 2.
+
+**Hydrogen chloride, HCl** — hydrogen and chlorine share one pair of electrons; hydrogen
+ends with 2 outer electrons, chlorine ends with 8.
+
+**Carbon dioxide, CO₂** *(Extended/Supplement — double bonds)* — carbon (2,4) forms **two
+shared pairs** (a double bond) with each oxygen atom, so carbon has 8 outer electrons (4
+shared pairs in total) and each oxygen has 8 (2 of its own lone pairs plus 2 shared
+pairs from the double bond).
 
 The single most common error in this topic is confusing these two. Melting a simple
 molecular substance breaks intermolecular forces, not covalent bonds.
@@ -162,9 +223,12 @@ another without breaking the bonding.
 ## Quick revision checklist
 
 - Formation of cations and anions; definition of an ionic bond
+- Dot-and-cross diagrams for ionic bonding (e.g. sodium chloride, magnesium oxide)
 - Properties of ionic compounds
 - *(0620 Extended, 5070 required)* giant ionic lattice, and explaining the properties
 - Covalent bond defined; bonding in simple molecules
+- Dot-and-cross diagrams for single covalent bonds (e.g. water, methane, hydrogen chloride)
+- *(0620 Extended, 5070 required)* dot-and-cross diagrams for molecules with double bonds (e.g. carbon dioxide)
 - *(0620 Extended, 5070 required)* explaining properties of simple molecular compounds
 - Diamond and graphite: structure, bonding, properties, uses
 - *(0620 Extended, 5070 required)* silicon(IV) oxide

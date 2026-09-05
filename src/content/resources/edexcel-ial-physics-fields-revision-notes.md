@@ -43,11 +43,12 @@ F = Q1 Q2 / (4 pi epsilon0 r^2)   Coulomb's law
 
 ```
 C = Q / V              W = 1/2 QV = 1/2 CV^2 = Q^2 / 2C
-series:    1/C = 1/C1 + 1/C2
-parallel:  C = C1 + C2
 ```
 
-**Capacitors combine the opposite way to resistors** — parallel adds, series is reciprocal. Getting this backwards is very common.
+*Background — beyond the specification, not examinable (the only combination
+outcome in the whole specification is for resistors):* capacitors combine
+the opposite way to resistors — in parallel, capacitance adds (`C = C1 + C2`);
+in series, reciprocals add (`1/C = 1/C1 + 1/C2`).
 
 **Energy stored is the area under a Q–V graph**, which is why the ½ appears: the p.d. rises from zero to V as charge accumulates, so the average is V/2.
 
@@ -72,7 +73,7 @@ V = V0 x e^-1 = 9.0 x 0.368 = 3.3 V
 
 ```
 F = B I L sin(theta)      force on a current-carrying conductor
-F = B Q v                 force on a moving charge
+F = B Q v sin(theta)      force on a moving charge
 ```
 
 **Fleming's left-hand rule** — First finger Field, seCond finger Current, thuMb Motion.
@@ -100,7 +101,6 @@ Faraday:  induced e.m.f. = -d(N phi)/dt
 ## Exam traps
 
 - Applying the inverse square law to a uniform field.
-- Combining capacitors like resistors.
 - Forgetting the ½ in capacitor energy, or why it is there.
 - Using the right hand for the motor effect.
 - Saying a magnetic field gives a parabolic path — it gives a circular one.
@@ -110,10 +110,10 @@ Faraday:  induced e.m.f. = -d(N phi)/dt
 ## Self-test
 
 1. Distinguish a radial from a uniform electric field.
-2. How do capacitors combine in series and in parallel?
+2. *(Background, not examinable.)* How do capacitors combine in series and in parallel?
 3. Why is there a factor of ½ in the energy stored on a capacitor?
 4. Why does a magnetic field produce circular motion but an electric field a parabola?
 5. State Lenz's law and the principle it follows from.
 6. How are equipotentials oriented relative to field lines?
 
-**Answers:** 1. A radial field obeys an inverse square law and points towards or away from a point charge; a uniform field has constant strength and parallel field lines, as between charged parallel plates. 2. In parallel capacitances add; in series the reciprocals add — the opposite of resistors. 3. Energy is the area under the Q–V graph, and since p.d. rises linearly from zero to V, the average p.d. during charging is V/2. 4. The magnetic force is always perpendicular to the velocity, so it continuously changes direction, giving circular motion; the electric force has a fixed direction, giving constant acceleration in one direction and hence a parabola. 5. The induced current opposes the change producing it; it follows from conservation of energy. 6. Always perpendicular to the field lines, for both radial and uniform fields.
+**Answers:** 1. A radial field obeys an inverse square law and points towards or away from a point charge; a uniform field has constant strength and parallel field lines, as between charged parallel plates. 2. *(Background, not examinable.)* In parallel capacitances add; in series the reciprocals add — the opposite of resistors. 3. Energy is the area under the Q–V graph, and since p.d. rises linearly from zero to V, the average p.d. during charging is V/2. 4. The magnetic force is always perpendicular to the velocity, so it continuously changes direction, giving circular motion; the electric force has a fixed direction, giving constant acceleration in one direction and hence a parabola. 5. The induced current opposes the change producing it; it follows from conservation of energy. 6. Always perpendicular to the field lines, for both radial and uniform fields.

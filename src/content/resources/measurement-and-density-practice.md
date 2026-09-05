@@ -44,12 +44,12 @@ Related: [Measurement and Density revision notes](/resources/measurement-and-den
 **3.** A metal block measures 4.0 cm × 3.0 cm × 2.5 cm and has a mass of 240 g.
 
 **(a)** Calculate its volume in cm³. **[2]**
-**(b)** Calculate its density in g cm⁻³. **[2]**
-**(c)** Convert this to kg m⁻³. **[2]**
+**(b)** Calculate its density in g/cm³. **[2]**
+**(c)** Convert this to kg/m³. **[2]**
 
 **4.** Describe how you would measure the density of an irregular stone accurately, stating the equipment and the measurements taken. **[6]**
 
-**5.** Explain why an object floats or sinks in a liquid, in terms of density, and predict what happens to a block of density 700 kg m⁻³ placed in water. **[4]**
+**5.** Explain why an object floats or sinks in a liquid, in terms of density, and predict what happens to a block of density 700 kg/m³ placed in water. **[3]**
 
 **6.** A student times 20 oscillations of a pendulum rather than one.
 
@@ -65,7 +65,7 @@ Related: [Measurement and Density revision notes](/resources/measurement-and-den
 
 **9.** State the equation linking gravitational field strength, weight and mass, and explain why g has the same numerical value as the acceleration of free fall. **[3]**
 
-**10.** A block has a mass of 540 g and a volume of 200 cm³. Calculate its density in g cm⁻³. **[2]**
+**10.** A block has a mass of 540 g and a volume of 200 cm³. Calculate its density in g/cm³. **[2]**
 
 **11.** Describe how you would measure the density of a liquid, stating the equipment and how the mass is found. **[4]**
 
@@ -75,15 +75,15 @@ Related: [Measurement and Density revision notes](/resources/measurement-and-den
 
 **1. Length** — metre; a **ruler, or vernier callipers or a micrometer for small lengths** [1]. **Mass** — kilogram; a **balance** [1]. **Time** — second; a **stopwatch or light gates** [1]. **Volume** — cubic metre (or cm³); a **measuring cylinder or displacement can** [1].
 
-**2.** density = mass ÷ volume [1]; SI unit **kg m⁻³** [1].
+**2.** density = mass ÷ volume [1]; SI unit **kg/m³** [1].
 
 **3. (a)** 4.0 × 3.0 × 2.5 [1] = **30 cm³** [1].
-**(b)** 240 ÷ 30 [1] = **8.0 g cm⁻³** [1].
-**(c)** × 1000 [1] = **8000 kg m⁻³** [1].
+**(b)** 240 ÷ 30 [1] = **8.0 g/cm³** [1].
+**(c)** × 1000 [1] = **8000 kg/m³** [1].
 
 **4.** **Measure the mass** on a digital balance, recording the reading to the nearest 0.1 g [1] [1]. **Part-fill a measuring cylinder with water and record the initial volume** at eye level, reading from the bottom of the meniscus [1]. **Lower the stone in gently on a thread** so no water splashes out, and record the **new volume** [1]. The **volume of the stone is the difference between the two readings** [1]. Calculate **density = mass ÷ volume**, repeating and taking a mean [1].
 
-**5.** An object **floats if its density is less than that of the liquid** and **sinks if it is greater** [1] [1]. A block of density 700 kg m⁻³ is **less dense than water (1000 kg m⁻³)**, so it **floats** [1], with about **70% of its volume submerged**, since it must displace its own weight of water [1].
+**5.** An object **floats if its density is less than that of the liquid** and **sinks if it is greater** [1] [1]. A block of density 700 kg/m³ is **less dense than water (1000 kg/m³)**, so it **floats** [1]. *(Background, beyond this subtopic — quantitatively, it floats with about 70% of its volume submerged, since a floating object displaces its own weight of fluid.)*
 
 **6. (a)** The **uncertainty from the student's reaction time is the same whether one or twenty oscillations are timed** [1], so dividing by 20 makes the **percentage uncertainty in the period about twenty times smaller** [1].
 **(b)** T = 28.4 ÷ 20 [1] = **1.42 s** [1].
@@ -95,7 +95,7 @@ Related: [Measurement and Density revision notes](/resources/measurement-and-den
 
 **9.** g = W/m [1]. This is numerically the same as the acceleration of free fall because Newton's second law, F = ma, applied to a falling mass gives W = mg, so g describes both the force per unit mass and the resulting acceleration — the same underlying relationship viewed two ways [2].
 
-**10.** ρ = m/V = 540 ÷ 200 [1] = **2.7 g cm⁻³** [1].
+**10.** ρ = m/V = 540 ÷ 200 [1] = **2.7 g/cm³** [1].
 
 **11.** Measure a **known volume** of the liquid in a measuring cylinder [1]. Find the **mass** of the liquid on a balance, by weighing the container with the liquid and **subtracting the mass of the empty container** [1] [1]. Apply **density = mass ÷ volume** [1].
 
@@ -103,7 +103,7 @@ Related: [Measurement and Density revision notes](/resources/measurement-and-den
 
 ## Where marks are usually lost
 
-- Converting g cm⁻³ to kg m⁻³ by multiplying by 100 instead of 1000.
+- Converting g/cm³ to kg/m³ by multiplying by 100 instead of 1000.
 - Reading a measuring cylinder from the top of the meniscus.
 - Saying an object floats because it is "light".
 - Confusing resolution with accuracy.

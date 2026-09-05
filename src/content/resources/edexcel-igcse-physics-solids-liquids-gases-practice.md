@@ -56,15 +56,15 @@ Related: [Solids, Liquids and Gases revision notes](/resources/edexcel-igcse-phy
 **5.** Describe an experiment to determine the density of an irregularly shaped stone. **[4]**
 
 **6.** 0.40 kg of water at 20 °C is heated to 100 °C.
-(c = 4200 J kg⁻¹ °C⁻¹; L_v = 2.3 × 10⁶ J kg⁻¹)
+(c = 4200 J kg⁻¹ °C⁻¹)
 
 **(a)** Calculate the energy needed. **[3]**
-**(b)** Calculate the energy needed to then boil it all away. **[2]**
+**(b)** The water is now heated further and begins to boil. State what happens to its temperature while it boils, and to the pattern of a temperature-time graph plotted for the whole heating process. **[2]**
 **(c)** Explain why the temperature does not rise while it is boiling. **[2]**
 
 **7.** A dam holding back a lake is built much thicker at its base than at its top.
 
-**(a)** Write the equation for the pressure in a liquid at depth h, defining each term. **[2]**
+**(a)** Write the equation for the pressure difference between the surface and a point at depth h in a liquid, defining each term. **[2]**
 **(b)** Explain why the dam is built thicker at the base, in terms of what liquid pressure depends on. **[2]**
 **(c)** State whether the shape of the lake or the total volume of water it holds affects the pressure at the base. **[1]**
 
@@ -73,7 +73,7 @@ Related: [Solids, Liquids and Gases revision notes](/resources/edexcel-igcse-phy
 **(a)** Explain this thermal expansion in terms of the particle model. **[2]**
 **(b)** A student claims the particles themselves get bigger when heated. Explain why this is incorrect. **[1]**
 
-**9.** Explain what is meant by absolute zero, and state why "particles have zero energy at absolute zero" is an incorrect description. **[2]**
+**9.** Explain what is meant by absolute zero, and why no temperature lower than this is possible. **[2]**
 
 ---
 
@@ -92,24 +92,24 @@ p₂ = **3.0 × 10⁵ Pa** [1].
 
 **4. (a)** 300 K and 500 K [1].
 **(b)** p₁/T₁ = p₂/T₂ [1]
-p₂ = 2.0 × 10⁵ × (500 ÷ 300) [1] = **3.33 × 10⁵ Pa** [1].
+p₂ = 2.0 × 10⁵ × (500 ÷ 300) [1] = **3.3 × 10⁵ Pa** [1].
 **(c)** The particles gain kinetic energy and move **faster** [1], so they collide with the walls **more frequently** [1] and **each collision exerts a greater force** [1].
 *Both effects are needed for full marks.*
 
 **5.** Measure the **mass** of the stone on a balance [1]. Partly fill a measuring cylinder with water and record the volume [1]. Lower the stone in and record the new volume; the **difference is the stone's volume** [1]. Calculate density = mass ÷ volume [1].
 
-**6. (a)** E = mcΔθ = 0.40 × 4200 × 80 [1] [1] = **134 400 J** [1].
-**(b)** E = mL = 0.40 × 2.3 × 10⁶ [1] = **9.2 × 10⁵ J** [1].
+**6. (a)** E = mcΔθ = 0.40 × 4200 × 80 [1] [1] = **1.3 × 10⁵ J** [1].
+**(b)** The temperature **stays constant (at 100 °C)** while boiling [1], so the graph shows a **flat/horizontal section** at 100 °C before rising further (if superheated) or continuing once boiling is complete [1].
 **(c)** The energy supplied is used to **overcome the forces between the particles** and separate them [1], rather than to increase their kinetic energy, and temperature depends on kinetic energy [1].
 
-**7. (a)** p = ρgh [1], where **ρ is the density of the liquid, g is the gravitational field strength, and h is the depth below the surface** [1].
+**7. (a)** Δp = ρgh [1], where **ρ is the density of the liquid, g is the gravitational field strength, and h is the depth below the surface** — this gives the **pressure difference** between the surface and that depth; the total pressure at the depth also includes the pressure (e.g. atmospheric) already acting on the surface [1].
 **(b)** Liquid pressure **increases with depth** [1], so the pressure (and hence the force) on the dam wall is **greatest at the base**, requiring more material there to withstand it [1].
 **(c)** **Neither** — pressure at a given depth depends only on the density of the liquid and the depth, not on the shape of the container or the total volume of liquid [1].
 
 **8. (a)** Heating makes the particles **vibrate more vigorously** [1], and this increased vibration means each particle **takes up more space** on average, so the rod expands [1].
 **(b)** The particles themselves **do not change size** — it is the **space between them**, created by more vigorous vibration, that increases [1].
 
-**9.** Absolute zero (0 K, −273 °C) is the temperature at which particles have the **minimum possible kinetic energy** [1]; it is incorrect to say they have zero energy, since particles retain some minimum kinetic energy even at absolute zero, they do not stop completely [1].
+**9.** Absolute zero (0 K, −273 °C) is the **lowest possible temperature**, at which particles have the **minimum possible kinetic energy** [1]; since **no further energy can be removed** from the particles once they are at this minimum, no lower temperature can exist [1].
 
 ---
 

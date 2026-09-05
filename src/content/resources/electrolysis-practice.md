@@ -34,6 +34,8 @@ featured: false
 
 Related: [Electrolysis revision notes](/resources/electrolysis-revision-notes/)
 
+> **Tier note:** questions and parts marked *(0620 Extended, 5070 required)* — constructing ionic half-equations — go beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
+
 ---
 
 ## Section A
@@ -46,13 +48,13 @@ Related: [Electrolysis revision notes](/resources/electrolysis-revision-notes/)
 
 **3.** Molten lead(II) bromide is electrolysed with inert electrodes.
 
-**(a)** Write the half equation at each electrode and state the products. **[4]**
+**(a)** *(0620 Extended, 5070 required)* Write the half equation at each electrode and state the products. **[4]**
 **(b)** Explain why lead is formed and not hydrogen. **[1]**
 
 **4.** Concentrated aqueous sodium chloride is electrolysed.
 
-**(a)** Name the three useful products. **[3]**
-**(b)** Write the half equation at the cathode and explain why hydrogen is formed rather than sodium. **[3]**
+**(a)** Name the products formed at each electrode. **[2]**
+**(b)** *(0620 Extended, 5070 required)* Write the half equation at the cathode and explain why hydrogen is formed rather than sodium. **[3]**
 **(c)** State the test and result for the gas formed at the anode. **[2]**
 
 **5.** A spoon is to be electroplated with silver.
@@ -63,7 +65,7 @@ Related: [Electrolysis revision notes](/resources/electrolysis-revision-notes/)
 **6.** In a hydrogen–oxygen fuel cell:
 
 **(a)** Write the overall equation. **[1]**
-**(b)** Give **two** advantages and **two** disadvantages compared with a rechargeable battery. **[4]**
+**(b)** Give **two** advantages and **two** disadvantages compared with a petrol engine, the syllabus comparator for this topic. **[4]**
 
 **7.** Copper(II) sulfate solution is electrolysed twice, once with inert (carbon) electrodes and once with copper electrodes.
 
@@ -77,6 +79,11 @@ Related: [Electrolysis revision notes](/resources/electrolysis-revision-notes/)
 
 **(b)** Explain, in terms of energy losses, why a fuel cell is generally more efficient than a petrol engine. **[2]**
 
+**9.** Dilute sulfuric acid is electrolysed using inert electrodes.
+
+**(a)** Name the gas formed at each electrode, and give the test and result that confirms each. **[4]**
+**(b)** State the ratio in which the two gases are collected, by volume. **[1]**
+
 ---
 
 ## Answers
@@ -88,7 +95,7 @@ Related: [Electrolysis revision notes](/resources/electrolysis-revision-notes/)
 **3. (a)** Cathode: Pb²⁺ + 2e⁻ → Pb [1] — **lead** forms, a silvery liquid [1]. Anode: 2Br⁻ → Br₂ + 2e⁻ [1] — **bromine**, an orange-brown vapour [1].
 **(b)** There is **no water present**, so no hydrogen ions are available [1].
 
-**4. (a)** **Hydrogen** [1], **chlorine** [1] and **sodium hydroxide** solution [1].
+**4. (a)** **Hydrogen** at the cathode [1] and **chlorine** at the anode [1].
 **(b)** 2H⁺ + 2e⁻ → H₂ [1]. Sodium is **more reactive than hydrogen** [1], so the **hydrogen ion is discharged in preference**, being lower in the reactivity series [1].
 **(c)** Hold **damp blue litmus paper** in the gas [1]; it turns **red and then is bleached white** [1].
 
@@ -96,14 +103,17 @@ Related: [Electrolysis revision notes](/resources/electrolysis-revision-notes/)
 **(b)** To **improve appearance** [1] and to **protect the underlying metal from corrosion** [1].
 
 **6. (a)** 2H₂ + O₂ → 2H₂O [1].
-**(b)** Advantages: the **only product is water**, so there are no polluting emissions at point of use [1]; it **does not need recharging** — it runs as long as fuel is supplied, and there are no toxic metals to dispose of [1].
-Disadvantages: hydrogen is **difficult and hazardous to store and transport**, being a highly flammable gas [1]; the hydrogen is usually **manufactured from fossil fuels or by electrolysis using electricity**, so the process is not carbon-free overall [1].
+**(b)** Advantages: the **only product is water**, so there are no polluting emissions at point of use, unlike a petrol engine's exhaust gases [1]; energy conversion is **more efficient**, since chemical energy is converted directly to electrical energy without the heat-to-motion step that wastes energy in a petrol engine [1].
+Disadvantages: hydrogen is **difficult and hazardous to store and transport**, being a highly flammable gas, whereas petrol is comparatively easy to store and distribute [1]; the hydrogen is usually **manufactured from fossil fuels or by electrolysis using electricity**, so the process is not carbon-free overall, and refuelling infrastructure for hydrogen is far less widespread than for petrol [1].
 
 **7. (a)** Cathode: **copper** deposits (Cu²⁺ + 2e⁻ → Cu) [1]. Anode: **oxygen** gas forms [1].
 **(b)** With copper electrodes, copper still deposits at the cathode, but at the anode the **copper dissolves into solution instead** of oxygen being released [1]. Because the mass of copper leaving the anode roughly equals the mass depositing at the cathode, the **concentration of Cu²⁺ ions, and therefore the blue colour, stays approximately constant** [1] — unlike with inert electrodes, where Cu²⁺ ions are steadily removed from solution as oxygen escapes instead of being replaced [1].
 
 **8. (a)** Any one: **carbon dioxide**, **carbon monoxide**, or **oxides of nitrogen (NOₓ)** [1].
 **(b)** A petrol engine burns fuel and converts heat to mechanical motion, **losing a large fraction of the energy as waste heat at each stage** [1]; a fuel cell converts chemical energy **directly into electrical energy**, without an intermediate heat-to-motion step, so proportionally less energy is lost [1].
+
+**9. (a)** Cathode: **hydrogen** [1] — a **lit splint** gives a **squeaky pop** [1]. Anode: **oxygen** [1] — a **glowing splint relights** [1].
+**(b)** **2 : 1** by volume, hydrogen to oxygen [1].
 
 ---
 

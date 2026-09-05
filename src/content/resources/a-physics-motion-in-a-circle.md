@@ -115,7 +115,9 @@ real force (tension, gravity, friction, normal contact force) happens to act
 toward the centre in a given situation, e.g. tension in a string for a
 whirled object, or gravity for a satellite in orbit.
 
-## Banked tracks
+## Banked tracks (beyond the syllabus — background only, not examinable)
+
+Banked tracks are not part of the Cambridge 9702 Motion in a Circle content — they are included here as a worked extension of the centripetal-force ideas above, not as recall or exam-required material.
 
 On a **frictionless** banked track at angle θ to the horizontal, only two
 forces act on a vehicle: its weight mg (vertically down) and the normal
@@ -190,8 +192,9 @@ some arbitrarily small value.
 - ω = 2π/T = 2πf, and v = ωr
 - a = v²/r = ω²r, directed toward the centre
 - F = mv²/r = mω²r, and identifying which real force provides it
-- tan θ = v²/(rg) for a frictionless banked track
 - T = mv²/r ∓ mg at the bottom/top of a vertical circle, and v_min = √(gr) at the top
+
+*Extension, beyond the syllabus: tan θ = v²/(rg) for a frictionless banked track — background only, not examinable.*
 
 ## Related resources
 

@@ -101,7 +101,7 @@ Electrons must cancel exactly when the halves are combined — if they don't, mu
 | Oxidising agent | Potassium iodide solution | Colourless → brown | I⁻ oxidised to I₂ |
 | Reducing agent | Acidified potassium manganate(VII) | Purple → colourless | MnO₄⁻ reduced to Mn²⁺ |
 
-Acidified potassium dichromate(VI) turning **orange → green** also indicates a reducing agent.
+*Background — beyond the specification, not examinable:* acidified potassium dichromate(VI) turning **orange → green** also indicates a reducing agent, but this test is not part of the 0620/5070 subject content.
 
 ## Worked identification
 
@@ -118,7 +118,7 @@ O:   0  ->  -2   decrease -> REDUCED  -> O2 is the oxidising agent
 - Oxidation number is per **atom**, not for the whole formula.
 - In H₂O₂ oxygen is −1, not −2.
 - Electrons appear on the right for oxidation, the left for reduction.
-- "Loses oxygen" alone is incomplete at this level — quote the electron definition where you can.
+- For **0620 Core**, the oxygen definition (gain/loss of oxygen) is the **complete** requirement on its own — the electron and oxidation-number definitions are Extended/5070 only, so do not mark a Core candidate down for using oxygen alone.
 - Displacement reactions are redox: the more reactive metal is oxidised.
 - Forgetting that the oxygen and electron definitions must always agree — if a working shows one species gaining oxygen but also gaining electrons, at least one step has gone wrong.
 

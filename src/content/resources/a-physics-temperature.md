@@ -56,10 +56,9 @@ temperature at which all substances have a minimum internal energy;
 converting between Kelvin and Celsius temperatures, T/K = θ/°C + 273.15.
 
 **14.3 Specific heat capacity and specific latent heat** — defining and using
-specific heat capacity; defining and using specific latent heat; sketching
-and interpreting a cooling curve for a substance, and identifying the
-regions of the graph in which a substance is solid, liquid, gas, or changing
-state.
+specific heat capacity; defining and using specific latent heat, and
+distinguishing between specific latent heat of fusion and specific latent
+heat of vaporisation.
 
 ## Thermal equilibrium
 
@@ -71,9 +70,9 @@ happens when, and only when, they are at the same temperature.
 ## Temperature scales
 
 Any physical property that changes measurably and consistently with
-temperature — for example the resistance of a resistor, the volume of a fixed
-mass of liquid, or the e.m.f. of a thermocouple — can be used as the basis of
-a thermometer.
+temperature — for example the resistance of a metal wire, the e.m.f. of a
+thermocouple, the pressure of a gas at constant volume, or the density of a
+liquid — can be used as the basis of a thermometer.
 
 The **thermodynamic (Kelvin) scale** is the absolute scale of temperature: it
 does not depend on the properties of any particular substance. **Absolute
@@ -118,6 +117,7 @@ thermometers, each with different strengths:
 | Thermocouple | E.m.f. generated at a junction of two metals | Wide range, fast response, small thermal capacity, can be read remotely | Non-linear, needs calibration |
 | Resistance thermometer (platinum) | Resistance of a metal wire | Very accurate, wide range | Slow response, large thermal capacity |
 | Thermistor | Resistance of a semiconductor | Very sensitive, fast response | Narrow range, highly non-linear |
+| Constant-volume gas thermometer | Pressure of a gas at constant volume | Very wide range, most accurate, closest to the thermodynamic scale | Bulky, slow response, not portable |
 
 The choice of thermometer depends on what the measurement requires: a
 **thermocouple** is preferred for a rapidly changing temperature, because its

@@ -63,22 +63,27 @@ Add the aqueous alkali a few drops at a time, then in excess, and record both st
 | Aluminium, Al³⁺ | White precipitate | Dissolves — colourless solution | White precipitate | Insoluble |
 | Ammonium, NH₄⁺ | No precipitate; warming releases ammonia gas | — | No precipitate | — |
 | Calcium, Ca²⁺ | White precipitate | Insoluble | No precipitate (or a very faint trace) | No change |
-| Chromium(III), Cr³⁺ | Grey-green precipitate | Dissolves — dark green solution | Grey-green precipitate | Insoluble |
+| Chromium(III), Cr³⁺ | Green precipitate | Dissolves in excess* | Green precipitate | Insoluble |
 | Copper(II), Cu²⁺ | Pale blue precipitate | Insoluble | Pale blue precipitate | Dissolves — deep (royal) blue solution |
-| Iron(II), Fe²⁺ | Green precipitate | Insoluble | Green precipitate | Insoluble |
+| Iron(II), Fe²⁺ | Green precipitate, turning brown near the surface on standing | Insoluble | Green precipitate, turning brown near the surface on standing | Insoluble |
 | Iron(III), Fe³⁺ | Red-brown precipitate | Insoluble | Red-brown precipitate | Insoluble |
 | Zinc, Zn²⁺ | White precipitate | Dissolves — colourless solution | White precipitate | Dissolves — colourless solution |
 
 The pattern worth memorising: aluminium and zinc both give a white precipitate with
 NaOH that **redissolves** in excess to a colourless solution — the way to
 distinguish them is that zinc *also* redissolves in excess ammonia, while aluminium
-does not. Calcium's precipitate stays insoluble in excess NaOH, but this is also
+does not. (*The exact colour of chromium(III) hydroxide redissolved in excess
+NaOH is additional detail beyond the core observation and not required — the
+issued notes state only the green precipitate.) Calcium's precipitate stays
+insoluble in excess NaOH, but this is also
 the key test that tells calcium apart from aluminium and zinc in the first place:
 aqueous ammonia is too weak a base to precipitate the more soluble calcium
 hydroxide in any useful amount, so calcium gives no clear precipitate with ammonia
 at all — unlike aluminium and zinc, which both do. Iron(II) and iron(III)
-precipitates stay insoluble in excess of either reagent, and are told apart from
-each other by colour alone (green vs red-brown).
+precipitates stay insoluble in excess of either reagent. Colour is the main
+distinguishing feature (green vs red-brown), and the iron(II) precipitate also
+turns brown near the surface on standing as it oxidises in air — an additional
+feature that can help confirm it.
 
 ## Testing for gases
 
@@ -109,7 +114,7 @@ solution.
 | Sodium, Na⁺ | Yellow |
 | Potassium, K⁺ | Lilac |
 | Calcium, Ca²⁺ | Orange-red |
-| Barium, Ba²⁺ | Green |
+| Barium, Ba²⁺ | Light green |
 | Copper(II), Cu²⁺ | Blue-green |
 
 Flame tests are a separate technique from the sodium hydroxide/ammonia tests above —

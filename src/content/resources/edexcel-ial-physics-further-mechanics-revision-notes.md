@@ -84,7 +84,7 @@ top:     T + mg = mv^2/r    ->   T = mv^2/r - mg
 bottom:  T - mg = mv^2/r    ->   T = mv^2/r + mg
 ```
 
-Tension is **greatest at the bottom** and least at the top, differing by **2mg**.
+Tension is **greatest at the bottom** and least at the top. Subtracting the two boxed equations gives a difference of **2mg only when the same speed v is substituted into both** — a common simplification, not the real situation. In an actual vertical circle the object is faster at the bottom than at the top, and if energy is conserved, v_bottom^2 exceeds v_top^2 by 4gr (from ½mv_bottom^2 = ½mv_top^2 + mg(2r)). Substituting this back shows the true difference between the bottom and top tensions is **6mg**, not 2mg.
 
 **Minimum speed at the top** is when T = 0 and gravity alone supplies the centripetal force:
 

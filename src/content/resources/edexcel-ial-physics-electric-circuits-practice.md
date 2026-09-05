@@ -75,7 +75,7 @@ Related: [Electric Circuits revision notes](/resources/edexcel-ial-physics-elect
 
 **4. (a)** I = E ÷ (R + r) = 1.55 ÷ 3.85 [1] = **0.403 A** [1].
 **(b)** V = IR = 0.403 × 3.20 [1] = **1.29 V** [1].
-**(c)** P = I²r = 0.403² × 0.65 [1] = **0.106 W** [1].
+**(c)** P = I²r = 0.4026² × 0.65 [1] = **0.105 W** [1].
 **(d)** Terminal p.d. **decreases** [1]. The parallel combination gives a **lower external resistance**, so a **larger current** flows [1], and the lost volts Ir inside the cell increase [1].
 
 **5.** The curve **steepens** as V increases [1], because the current heats the thermistor [1] and in a semiconductor heating **releases more charge carriers**, so resistance **falls** [1]. In a filament lamp the curve flattens instead, because heating increases lattice vibration and resistance **rises** — the opposite behaviour [1].
@@ -87,7 +87,7 @@ Related: [Electric Circuits revision notes](/resources/edexcel-ial-physics-elect
 
 **8.** R = ρl/A = (1.7 × 10⁻⁸ × 2.5) ÷ (0.50 × 10⁻⁶) [1] = **0.085 Ω** [1].
 
-**9.** P = I²R = 0.403² × 3.20 [1] = **0.520 W** [1].
+**9.** P = I²R = 0.4026² × 3.20 [1] = **0.519 W** [1].
 
 **10.** In a metal, rising temperature increases **lattice vibrations**, which impede electron flow more, so resistance **rises** [1]. In an NTC thermistor, rising temperature releases more **conduction electrons**, and this increase in charge carriers **dominates** over the (smaller) increase in lattice vibration, so resistance **falls** overall [1] [1].
 

@@ -126,6 +126,14 @@ weight = mass × gravitational field strength
 W = m × g
 ```
 
+**Newton's third law** states that when object A exerts a force on object
+B, object B exerts an equal and opposite force on object A, acting on
+different objects along the same line. For example, when you stand on the
+ground, your weight pushes down on the ground, and the ground pushes up on
+you with an equal and opposite normal contact force — the two forces of a
+Newton's third law pair always act on **different objects**, which is why
+they never cancel each other out for a single object.
+
 ## Stopping distance and terminal velocity
 
 A vehicle's **stopping distance** is the sum of its **thinking distance**

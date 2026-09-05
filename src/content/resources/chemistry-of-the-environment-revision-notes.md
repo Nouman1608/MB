@@ -57,10 +57,10 @@ Condensed for the final weeks. For the full explanation, use the
 | Phosphorus | Root growth |
 | Potassium | Flowering, fruit, disease resistance |
 
-Ammonium salts and nitrates supply nitrogen, applied together in a single NPK application. Excess fertiliser washes into rivers causing **eutrophication**:
+Ammonium salts and nitrates supply nitrogen, applied together in a single NPK application. Excess fertiliser washes into rivers causing **eutrophication** — aquatic life dies from oxygen depletion. **The syllabus does not require the detailed mechanism**, only that excess fertiliser causes eutrophication and its outcome; the step-by-step process below is included as background only:
 
 ```
-fertiliser runoff -> algal bloom -> blocks light -> plants die
+(background, not required) fertiliser runoff -> algal bloom -> blocks light -> plants die
 -> bacteria decompose them -> oxygen used up -> fish die
 ```
 
@@ -90,7 +90,7 @@ Short-wavelength radiation from the Sun passes through the atmosphere and warms 
 
 The **enhanced** greenhouse effect is the extra warming from raised CO₂ and CH₄ levels — climate change, rising sea levels, extreme weather. See the [Chemistry of the Environment study guide](/resources/chemistry-of-the-environment/) for the full syllabus coverage and worked reasoning behind every table above.
 
-Reduction strategies: renewable energy, energy efficiency, reforestation, carbon capture, reduced deforestation.
+Reduction strategies (the syllabus's closed list of five): planting trees, reduction in livestock farming, decreasing use of fossil fuels, increasing use of hydrogen, and increasing use of renewable energy.
 
 **Photosynthesis removes CO₂ from the atmosphere**, converting it (with water, using light energy and chlorophyll) into glucose and oxygen:
 `6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂`
@@ -110,10 +110,10 @@ Reduction strategies: renewable energy, energy efficiency, reforestation, carbon
 
 1. Give the test for water and the test for pure water.
 2. Name the three stages of water treatment.
-3. Explain eutrophication in four steps.
+3. State what causes eutrophication and its effect on aquatic life. (The detailed four-step mechanism is background, not required by the syllabus.)
 4. Which pollutant causes acid rain, and where does it come from?
 5. Why does a catalytic converter reduce two pollutants at once?
 6. Why is distilled water, rather than tap water, used in practical chemistry?
 7. Give the symbol equation for photosynthesis, and explain why deforestation worsens the enhanced greenhouse effect.
 
-**Answers:** 1. Anhydrous copper(II) sulfate turns white → blue (or cobalt chloride blue → pink); pure water boils at 100 °C and freezes at 0 °C. 2. Filtration/sedimentation, carbon treatment, chlorination. 3. Fertiliser runoff → algal bloom blocks light → water plants die → bacteria decompose them, consuming oxygen → fish suffocate. 4. Sulfur dioxide, from sulfur impurities burned in fossil fuels (nitrogen oxides also contribute). 5. It converts CO and NO together into CO₂ and N₂ — one reaction removes both a toxic gas and an acid-rain precursor. 6. Tap water contains dissolved impurities that could interfere with a reaction or a measurement, unlike distilled water. 7. 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; fewer trees means less CO₂ is removed from the atmosphere by photosynthesis, so more remains to enhance the greenhouse effect.
+**Answers:** 1. Anhydrous copper(II) sulfate turns white → blue (or cobalt chloride blue → pink); pure water boils at 100 °C and freezes at 0 °C. 2. Filtration/sedimentation, carbon treatment, chlorination. 3. Excess fertiliser washes into waterways, ultimately depleting the oxygen dissolved in the water so that fish and other aquatic life suffocate. (Background detail, not required: fertiliser runoff → algal bloom blocks light → water plants die → bacteria decompose them, consuming oxygen → fish suffocate.) 4. Sulfur dioxide, from sulfur impurities burned in fossil fuels (nitrogen oxides also contribute). 5. It converts CO and NO together into CO₂ and N₂ — one reaction removes both a toxic gas and an acid-rain precursor. 6. Tap water contains dissolved impurities that could interfere with a reaction or a measurement, unlike distilled water. 7. 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂; fewer trees means less CO₂ is removed from the atmosphere by photosynthesis, so more remains to enhance the greenhouse effect.

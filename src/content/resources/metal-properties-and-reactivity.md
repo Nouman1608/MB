@@ -127,9 +127,12 @@ whether a metal reacts with dilute acid at all).
 - **Potassium, sodium, calcium** react with **cold water**, releasing
 hydrogen and forming a hydroxide.
 - **Magnesium** reacts only with **steam** (not cold water at a noticeable
-rate), forming magnesium oxide and hydrogen.
-- **Zinc, iron, copper, silver, gold** — no reaction with cold water or
-steam at this level.
+rate), forming magnesium oxide and hydrogen. This is the only steam
+reaction the syllabus requires.
+- **Zinc and iron** react with **steam only**, and slowly — not required by
+the syllabus, but factually true, so don't mark it wrong if it comes up.
+- **Copper, silver, gold** — no reaction with cold water or steam at this
+level.
 
 **Reaction with dilute hydrochloric acid**, by position: magnesium and zinc
 react readily; iron reacts more slowly; copper, silver and gold — all below
@@ -166,8 +169,22 @@ Iron is more reactive than copper, so iron displaces copper:
 Fe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s)
 
 Observation: the nail becomes coated in a pink-brown deposit (copper metal);
-the blue solution fades as colourless iron(II) sulfate forms.
+the blue solution fades to the pale green of iron(II) sulfate.
 ```
+
+## Aluminium's apparent unreactivity
+
+Aluminium sits above zinc and iron in the reactivity series, so it should
+react more readily with acids, water and oxygen than either — yet in
+everyday use it appears almost unreactive. The explanation is a thin,
+continuous layer of **aluminium oxide** that forms instantly on the metal's
+surface on contact with air. This oxide layer is **impermeable** — it seals
+the aluminium underneath from further contact with oxygen, water or acid —
+and it is also **self-repairing**: if the surface is scratched, the freshly
+exposed aluminium immediately reacts with air to form a new oxide layer.
+Once the oxide layer is removed or prevented from forming (for example by
+scratching the metal under mercury), aluminium reacts with the expected
+vigour for its position in the series.
 
 ## Corrosion and its prevention
 
@@ -189,8 +206,9 @@ without an intact physical barrier.
 ## Common mistakes
 
 - **Assuming all metals react with cold water.** Only potassium, sodium and
-calcium do, at this level — magnesium needs steam, and zinc/iron/copper etc.
-show no reaction with either.
+calcium do, at this level — magnesium needs steam. (Zinc and iron also react
+with steam, slowly, though this isn't syllabus-required; copper, silver and
+gold show no reaction with cold water or steam at all.)
 - **Explaining a displacement reaction without mentioning electron
 transfer.** "Iron displaces copper because it's more reactive" is
 incomplete at Extended/O Level — the expected explanation is in terms of the

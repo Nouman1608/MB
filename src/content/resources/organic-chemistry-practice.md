@@ -51,13 +51,13 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 **(a)** State the reagent and both observations. **[3]**
 **(b)** Explain why the alkene reacts. **[2]**
 
-**6.** Crude oil is separated by fractional distillation.
+**6.** *(Extension beyond this resource's core scope — fractional distillation and cracking are covered in* [Petroleum, Alkanes and Alkenes](/resources/petroleum-alkanes-and-alkenes/) *; included here only because crude oil supplies the alkane/alkene feedstocks named above.)* Crude oil is separated by fractional distillation.
 
 **(a)** Explain the principle on which the separation depends. **[2]**
 **(b)** Explain why fractions collected near the top of the column have lower boiling points. **[2]**
 **(c)** Explain why cracking is carried out. **[3]**
 
-**7.** Ethanol can be made by fermentation.
+**7.** *(Extension beyond this resource's core scope — ethanol production is covered in* [Alcohols and Carboxylic Acids](/resources/alcohols-and-carboxylic-acids/) *; included here only as a natural follow-on from the alcohol general formula in question 2.)* Ethanol can be made by fermentation.
 
 **(a)** State the conditions required. **[3]**
 **(b)** Write the word equation. **[1]**
@@ -93,7 +93,7 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 **(b)** Those fractions have **shorter chains with fewer electrons**, so **weaker intermolecular forces** [1], meaning they remain gaseous until they reach the cooler top of the column [1].
 **(c)** There is **greater demand for short-chain hydrocarbons** such as petrol than the supply from distillation [1]; cracking converts **long-chain, less useful** fractions into shorter, more useful ones [1] and also produces **alkenes** needed for making polymers [1].
 
-**7. (a)** **Yeast** [1], a temperature of about **30–40 °C** [1], and **absence of oxygen** (anaerobic conditions) [1].
+**7. (a)** **Yeast** [1], **aqueous glucose** at a temperature of **25–35 °C** [1], and **absence of oxygen** (anaerobic conditions) [1].
 **(b)** glucose → ethanol + carbon dioxide [1].
 **(c)** Advantage: uses a **renewable** raw material [1]. Disadvantage: it is a **slow batch process giving an impure, dilute product** [1].
 
@@ -123,7 +123,7 @@ Related: [Organic Chemistry revision notes](/resources/organic-chemistry-revisio
 | Empirical | Simplest whole-number ratio of atoms | C₂H₅ |
 | Molecular | Actual number of each atom in one molecule | C₄H₁₀ |
 | Structural | How atoms are grouped, without every bond drawn | CH₃CH₂CH₂CH₃ |
-| Displayed | Every atom and every bond drawn out in full | (full skeletal diagram) |
+| Displayed | Every atom and every bond drawn out in full | (all atoms and all bonds drawn out) |
 
 Examiners specifically ask for a displayed formula when they want to
 see the arrangement that distinguishes one isomer from another — a

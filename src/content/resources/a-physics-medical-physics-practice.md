@@ -49,7 +49,7 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 
 **(a)** Calculate the maximum photon energy in joules. **[2]**
 **(b)** Calculate the minimum wavelength produced. **[3]**
-**(c)** Explain the difference in origin between the continuous spectrum and the characteristic lines. **[3]**
+**(c)** Explain how the hardness (penetrating power) and the intensity of the X-ray beam produced can each be controlled independently in the tube. **[3]**
 
 **5.** A beam of X-rays passes through 4.5 cm of tissue with attenuation coefficient 0.32 cm⁻¹.
 
@@ -58,9 +58,12 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 
 **6.** Explain why two gamma photons of 0.511 MeV are produced in a PET scan, and how their detection locates the annihilation. **[4]**
 
-**7.** Distinguish between an A-scan and a B-scan in ultrasound imaging. **[3]**
+**7.** The intensity of an ultrasound beam falls to 60% of its initial value after passing through 4.0 cm of a particular tissue.
 
-**8.** Explain the difference between sharpness and contrast in an X-ray image. **[2]**
+**(a)** Write down the equation for the exponential attenuation of ultrasound intensity with distance travelled. **[1]**
+**(b)** Calculate the attenuation coefficient of the tissue. **[2]**
+
+**8.** Outline how a CT scanner builds up a three-dimensional image, and state one advantage and one disadvantage of CT compared with a plain X-ray image. **[3]**
 
 **9.** X-rays of initial intensity I₀ pass through 5.0 cm of tissue with attenuation coefficient 0.20 cm⁻¹. Calculate the transmitted intensity as a fraction of I₀. **[2]**
 
@@ -81,16 +84,17 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 **4. (a)** E = eV = 1.60 × 10⁻¹⁹ × 80 000 [1] = **1.28 × 10⁻¹⁴ J** [1].
 **(b)** λ_min = hc ÷ E = (6.63 × 10⁻³⁴ × 3.00 × 10⁸) ÷ 1.28 × 10⁻¹⁴ [1] [1]
 = **1.55 × 10⁻¹¹ m** [1].
-**(c)** The **continuous spectrum (bremsstrahlung)** arises from electrons **decelerating** in the target, and depends only on the accelerating p.d. [1] [1]. The **characteristic lines** arise from **electron transitions between energy levels** in the target atoms, and depend only on the target material [1].
+**(c)** Increasing the **accelerating p.d.** increases the energy of the incoming electrons, and hence the energy (and penetrating power, or **hardness**) of the X-ray photons produced [1]. Increasing the **filament current** increases the rate of thermionic emission of electrons, increasing the number of X-ray photons produced per second, i.e. the **intensity**, without changing their energy [1]. The two controls are therefore independent: p.d. controls hardness, filament current controls intensity [1].
 
 **5. (a)** I ÷ I₀ = e^(−μx) = e^(−0.32 × 4.5) [1] = e^(−1.44) [1] = **0.237 or 23.7%** [1].
 **(b)** x½ = ln2 ÷ μ = 0.693 ÷ 0.32 [1] = **2.17 cm** [1].
 
 **6.** A positron from the tracer **annihilates with an electron** [1]. **Momentum must be conserved**, and the initial total momentum is approximately zero, so **two photons are emitted in opposite directions** [1]. Their energy comes from the rest mass of the electron and positron via E = mc², giving **0.511 MeV each** [1]. A ring of detectors registers both, and the **difference in their arrival times** locates the annihilation point along the line joining the detectors [1].
 
-**7.** An **A-scan** displays the amplitude/intensity of reflected pulses against time or depth **along a single line** through the body, useful for precise depth measurements [1]. A **B-scan** combines **many A-scans** taken across a range of angles or positions to build up a **two-dimensional cross-sectional image** [1]; the two serve different diagnostic purposes [1].
+**7. (a)** I = I₀e^(−μx) [1].
+**(b)** 0.60 = e^(−μ × 4.0) → ln(0.60) = −4.0μ [1] → μ = −ln(0.60)/4.0 ≈ **0.128 cm⁻¹** [1].
 
-**8.** **Sharpness** describes how **well-defined the edges** of structures appear in the image [1]; **contrast** describes the **difference in attenuation** (and hence brightness) between different tissues in the image [1].
+**8.** An X-ray tube (with detectors) **rotates around the patient**, taking many 2-D X-ray images from different angles [1]; a computer **combines this set of images** to reconstruct a three-dimensional image, which can be viewed as any chosen slice [1]. Advantage: a **3-D image with much better soft-tissue contrast** than a plain X-ray (or: any slice can be viewed) [1]; disadvantage: a **much higher radiation dose** (or: slower and more expensive) [1].
 
 **9.** I/I₀ = e^(−μx) = e^(−0.20 × 5.0) [1] = e^(−1.0) ≈ **0.37** [1].
 
@@ -102,7 +106,7 @@ Related: [Medical Physics revision notes](/resources/a-physics-medical-physics-r
 
 - Explaining the gel as a lubricant rather than impedance matching.
 - Saying λ_min depends on the target material — it depends only on the p.d.
-- Confusing the origins of the continuous and characteristic X-ray spectra.
+- Confusing which control affects hardness versus intensity — accelerating p.d. controls hardness (penetrating power), filament current controls intensity.
 - Saying the two PET photons travel in the same direction.
-- Confusing an A-scan with a B-scan, or describing a B-scan as a single depth trace rather than a full 2D image.
-- Mixing up sharpness (edge definition) with contrast (tissue-to-tissue difference in darkness).
+- Forgetting that ultrasound attenuation, like X-ray attenuation, is exponential rather than linear.
+- Claiming CT scanning gives a lower radiation dose than a plain X-ray image — it is substantially higher.

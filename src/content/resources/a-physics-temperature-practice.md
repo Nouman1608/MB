@@ -44,10 +44,11 @@ Related: [Temperature revision notes](/resources/a-physics-temperature-revision-
 
 **4.** Explain why the thermodynamic scale is considered superior to an empirical scale. **[3]**
 
-**5.** The triple point of water is used as a fixed point rather than its melting point.
+**5.** A resistance thermometer has resistance 200.0 Ω at the ice point, 280.0 Ω at the steam point, and 254.0 Ω when placed in a liquid whose temperature is to be measured.
 
-**(a)** Explain what the triple point is. **[2]**
-**(b)** Explain why it is preferred. **[2]**
+**(a)** State the formula used to convert a thermometric property to a temperature on an empirical scale. **[1]**
+**(b)** Calculate the empirical temperature of the liquid on this scale. **[2]**
+**(c)** State one reason why this value might differ from the temperature found using a different thermometric property. **[1]**
 
 **6.** A student must measure a rapidly changing temperature.
 
@@ -77,14 +78,15 @@ Related: [Temperature revision notes](/resources/a-physics-temperature-revision-
 
 **4.** It is defined **independently of the properties of any particular substance** [1]. Two empirical thermometers using different thermometric properties can **agree at the fixed points but disagree between them** [1], whereas the thermodynamic scale gives a unique value at every temperature, making it the standard against which every empirical scale is calibrated [1].
 
-**5. (a)** The unique **temperature and pressure at which ice, water and water vapour coexist** in equilibrium [1] [1].
-**(b)** It occurs at **one unique pressure**, so it is **perfectly reproducible** [1], whereas a melting point **varies with pressure** [1].
+**5. (a)** θ = (X_θ − X₀) ÷ (X₁₀₀ − X₀) × 100, where X is the thermometric property (here, resistance) [1].
+**(b)** θ = (254.0 − 200.0) ÷ (280.0 − 200.0) × 100 [1] = **67.5 °C** [1].
+**(c)** Different thermometric properties vary **non-linearly with each other**, so empirical scales built on different properties agree only at the fixed points and disagree between them [1].
 
 **6. (a)** A **thermocouple** [1].
 **(b)** It has a **small thermal capacity**, so it responds quickly [1], and it absorbs very little energy from the system, so it barely disturbs what it is measuring [1].
 **(c)** Its response is **non-linear** and it requires calibration against known fixed points before use [1].
 
-**7.** They have the **minimum possible internal energy** [1] — not zero energy, and they do not stop moving entirely, since some minimum motion persists even at this limit [1].
+**7.** They have the **minimum possible internal (kinetic) energy** [1] — since mean translational kinetic energy is proportional to absolute temperature, this minimum is zero at 0 K, the lowest temperature theoretically attainable [1].
 
 **8.** Temperature measures the **mean kinetic energy per molecule**, which is higher in the boiling water [1]. Thermal energy is the **total** over all molecules [1], and the bath contains **very many more molecules**, so its total exceeds that of the cup despite the lower temperature [1].
 
@@ -99,8 +101,8 @@ Related: [Temperature revision notes](/resources/a-physics-temperature-revision-
 ## Where marks are usually lost
 
 - Converting a temperature **interval** by adding 273.
-- Saying molecules stop moving at absolute zero.
+- Saying molecules have some residual motion left at absolute zero — per the syllabus relation, mean kinetic energy is proportional to temperature, so it is zero at 0 K.
 - Confusing temperature with thermal energy.
-- Giving the melting point rather than the triple point as a fixed point.
+- Forgetting to use the correct differences (X_θ − X₀ over X₁₀₀ − X₀) when calculating an empirical temperature.
 - Using Q = mcΔθ across a change of state — it only applies while the substance stays in a single state; a change of state needs Q = mL instead.
 - Forgetting Δθ is the same size in kelvin or Celsius, so temperature *changes* never need converting, even though absolute temperatures do.

@@ -68,7 +68,7 @@ Related: [Thermal Physics revision notes](/resources/igcse-physics-thermal-physi
 
 **6.** Any two of: higher temperature; larger surface area; air movement/draught over the surface; lower humidity [2 — one mark each, max 2].
 
-**7.** Metal is a much better thermal conductor than wood [1]. It conducts heat away from your hand faster than wood does [1], so even though both spoons are at the same temperature, the metal one feels colder because heat leaves your hand more quickly [1].
+**7.** Metal is a much better thermal conductor than wood [1]. When you touch it, heat conducts away from your hand into the metal much faster than into the wood [1]. Your skin senses the *rate* of heat loss rather than an object's actual temperature, so the faster heat loss to the metal makes it feel colder even though both spoons are genuinely at the same temperature [1].
 
 **8.** A matt black surface absorbs and emits infrared radiation much better than a shiny silver surface, which mostly reflects radiation instead [1]. This is because dull, dark surfaces are efficient emitters and absorbers, while light, shiny surfaces are poor emitters and good reflectors [1]. Application: e.g. car radiators/heating panels are often painted matt black to radiate heat away efficiently; vacuum flasks have shiny silvered inner surfaces to minimise radiation loss [1, any valid example].
 

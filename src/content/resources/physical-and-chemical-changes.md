@@ -71,8 +71,6 @@ outside (i.e. the reaction itself is exothermic or endothermic)
 - A precipitate forms (an insoluble solid appearing from two clear
 solutions)
 - Effervescence (bubbles of a gas being produced)
-- The change is generally **difficult or impossible to reverse** by simple
-physical means
 
 **Physical changes**, by contrast, involve no new substance:
 

@@ -73,14 +73,14 @@ Related: [Motion, Forces and Energy revision notes](/resources/igcse-physics-mot
 
 **1.** speed = distance / time = 400 / 80 = **5 m/s** [2].
 
-**2.** v = u + at (or v = gt since dropped from rest) = 0 + (9.8 × 2) = **19.6 m/s** [2].
+**2.** Acceleration is the change in velocity per unit time: a = Δv ÷ t [1]. Rearranging, the change in velocity Δv = a × t = 9.8 × 2 = 19.6 m/s; since the ball starts from rest, this change in velocity is its final speed, **19.6 m/s** [1].
 
 **3. (a)** W = mg = 5 × 9.8 = **49 N** [2].
 **(b)** Mass is unchanged: **5 kg** [1]. Weight = mg = 5 × 1.6 = **8 N** [1].
 
 **4.** ρ = m/V = 5.4 / 0.002 = **2700 kg/m³** [2].
 
-**5.** F = ke → e = F/k = 8 / 40 = **0.2 m** [2]. This uses **Hooke's law** (extension is directly proportional to force, within the limit of proportionality) [1].
+**5.** F = kx → x = F/k = 8 / 40 = **0.2 m** [2]. This uses **Hooke's law** (extension x is directly proportional to force, within the limit of proportionality) [1].
 
 **6. (a)** momentum = mv = (3 × 4) + (1 × 0) = **12 kg m/s** [2].
 **(b)** Momentum is conserved: 12 = (3 + 1) × v [1] → v = 12/4 = **3 m/s** [1].

@@ -83,9 +83,10 @@ caps marks in the middle bands. Comparing poems in Section B only by
 theme while ignoring form and structure, when AQA's assessment
 objectives credit comparison across all three dimensions equally.
 Leaving too little time for Section C because it feels the least
-prepared-for -- since it is marked on the same tariff as the other
-sections, under-time on unseen poetry is one of the most avoidable
-ways to lose marks on this paper.
+prepared-for -- Section A carries 34 marks, Section B 30 marks, and
+Section C 32 marks, so under-time on unseen poetry still costs a
+substantial share of the paper and is one of the most avoidable
+ways to lose marks.
 
 ## Assessment at a glance
 

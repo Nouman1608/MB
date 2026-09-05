@@ -48,7 +48,7 @@ Related: [Astrophysics revision notes](/resources/edexcel-igcse-physics-astrophy
 
 **(a)** State the equation linking orbital speed, radius and period. **[1]**
 **(b)** Explain what happens to the orbital speed as the orbital radius increases. **[2]**
-**(c)** Explain why a geostationary satellite must have a period of 24 hours and orbit above the equator. **[3]**
+**(c)** Explain why gravity causes a satellite to move in a circular orbit, and use the equation v = 2πr ÷ T together with g = v² ÷ r to explain why a satellite's orbital period increases as its orbital radius increases. **[3]**
 
 **4.** Describe the life cycle of a star with a mass similar to the Sun, from nebula to its final state. **[5]**
 
@@ -90,13 +90,13 @@ Related: [Astrophysics revision notes](/resources/edexcel-igcse-physics-astrophy
 
 **3. (a)** v = 2πr ÷ T [1].
 **(b)** The orbital speed **decreases** [1], because the **gravitational field strength is weaker further out**, so a smaller centripetal force and a slower speed are needed to maintain the orbit [1].
-**(c)** A geostationary satellite must **stay above the same point on the Earth's surface** [1], so its **period must match the Earth's rotation period of 24 hours** [1]; it must be above the **equator** because its orbit must be in the same plane as the Earth's rotation, otherwise it would drift north and south [1].
+**(c)** **Gravity provides the centripetal force** needed to keep the satellite moving in a circle rather than travelling in a straight line [1]; combining v = 2πr ÷ T with g = v² ÷ r gives g = 4π²r ÷ T², so at a **larger orbital radius the gravitational field strength g is smaller**, meaning a **lower orbital speed is needed** to maintain the orbit [1]; since a larger r is now paired with a smaller v in v = 2πr ÷ T, the **period T must be longer** — more distant satellites take longer to orbit [1].
 
 **4.** A **nebula** of dust and gas is pulled together by **gravity** [1]; as it contracts it heats up and **nuclear fusion of hydrogen begins**, forming a **main sequence star**, stable while the outward pressure from fusion balances gravity [1]. When the hydrogen in the core runs out it **expands into a red giant** [1]. The outer layers are then **shed as a planetary nebula** [1], leaving a hot dense core — a **white dwarf** — which cools to a black dwarf [1].
 
 **5.** A massive star becomes a **red supergiant** rather than a red giant [1]. It then explodes as a **supernova** [1], during which the **elements heavier than iron are formed and scattered into space** [1]. The remnant core becomes a **neutron star**, or a **black hole** if the star is massive enough [1].
 
-**6. (a)** The wavelength of light from the galaxy is **shifted towards the red (longer wavelength) end of the spectrum** [1] [1]; this is because the **galaxy is moving away from us**, stretching the wavelengths [1].
+**6. (a)** The wavelength of light received from the galaxy is **longer than the wavelength it was emitted at**, shifted towards the red end of the spectrum [1]; this occurs because the **galaxy is moving away from us** [1]; the **greater the recession speed, the greater the shift** [1].
 **(b)** The **further away a galaxy is, the greater its red shift and so the faster it is moving away** [1] — the speed is **proportional to the distance** [1].
 **(c)** Red shift shows that **all distant galaxies are receding and that the universe is expanding** [1]; running the expansion backwards implies everything **began from a single point** [1]. The **cosmic microwave background radiation** fills the whole sky uniformly [1] and is the **cooled remnant of the intense radiation from that early hot dense state** — something the steady state theory cannot explain [1].
 
@@ -116,7 +116,7 @@ Related: [Astrophysics revision notes](/resources/edexcel-igcse-physics-astrophy
 
 - Saying an orbiting body is not accelerating because its speed is constant.
 - Confusing the fates of low-mass and high-mass stars.
-- Saying red shift shows galaxies are moving through space towards a centre.
+- Thinking red shift shows galaxies moving away from a fixed centre (with Earth at that centre) — in fact, space itself is expanding, so every observer sees the same pattern with no privileged centre.
 - Forgetting the CMB as separate evidence from red shift.
 - Confusing absolute magnitude (standard-distance brightness) with apparent brightness (brightness as observed).
 - Forgetting that Δλ/λ₀ = v/c requires the reference (laboratory) wavelength, not the observed wavelength, as the denominator.

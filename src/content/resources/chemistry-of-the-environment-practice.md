@@ -66,7 +66,7 @@ Related: [Chemistry of the Environment revision notes](/resources/chemistry-of-t
 **7.** Ammonium nitrate is used as a fertiliser.
 
 **(a)** Explain why nitrogen is needed by plants. **[1]**
-**(b)** Explain how excess fertiliser causes eutrophication. **[4]**
+**(b)** Explain how excess fertiliser causes eutrophication, and its effect on aquatic life. **[2]** (Give the outcome — oxygen depletion killing aquatic life — for full credit; the detailed step-by-step mechanism below is background, not required by the syllabus.)
 
 **8.** Two chemical tests can confirm that a colourless liquid contains water.
 
@@ -93,19 +93,19 @@ Related: [Chemistry of the Environment revision notes](/resources/chemistry-of-t
 **(b)** From burning **sulfur-containing fossil fuels** [1]; it causes **acid rain** and respiratory problems [1].
 **(c)** From **high-temperature combustion in engines**, where nitrogen and oxygen from the air react [1]; they cause **acid rain** and photochemical smog [1].
 
-**3.** SO₂ is released when sulfur-containing fuels burn [1]; it is **oxidised to SO₃** [1] and dissolves in rainwater to form **sulfuric acid** [1]. Consequences: acidified lakes killing aquatic life; damage to trees and soil; **corrosion of limestone buildings** — any two [1].
+**3.** SO₂ is released when sulfur-containing fuels burn [1]; it **dissolves in rainwater to form acid rain** [1] *(background, not required: in the atmosphere SO₂ may first be oxidised to SO₃, which then dissolves in water to form sulfuric acid directly — this oxidation step is not part of the syllabus)*. Consequences, any two: acidified lakes killing aquatic life; damage to trees and soil; **corrosion of limestone buildings** [1] [1].
 
 **4.** It provides a **large surface area** on which pollutant gases react [1], **reducing** nitrogen oxides while **oxidising** carbon monoxide [1]: `2NO + 2CO → N₂ + 2CO₂` [1].
 
 **5.** Short-wavelength radiation from the Sun passes through the atmosphere and warms the Earth's surface [1]. The Earth re-emits **longer-wavelength infrared radiation** [1], which greenhouse gases **absorb and re-radiate**, trapping heat in the atmosphere [1].
 Two gases with sources: **carbon dioxide** from burning fossil fuels [1]; **methane** from livestock digestion, rice paddies or decaying waste [1].
 
-**6. (a)** **Filtration** to remove solid particles [1]; **sedimentation** to allow suspended solids to settle [1]; **chlorination** to kill bacteria [1].
+**6. (a)** **Sedimentation and filtration** to remove suspended solids [1]; treatment with **carbon** to remove tastes and odours [1]; **chlorination** to kill bacteria [1].
 **(b)** Chlorine **kills bacteria**, preventing waterborne disease [1]; the risk is that chlorine is **toxic** and can form harmful chlorinated compounds [1].
 
 **7. (a)** Nitrogen is needed to make **proteins** for growth [1].
 
-**(b)** Excess fertiliser is **washed into rivers and lakes** [1], causing rapid **algal growth**, which blocks light [1]. Plants below die and are **decomposed by bacteria**, which multiply and **use up the dissolved oxygen** [1], so fish and other aquatic organisms die [1].
+**(b)** Excess fertiliser is **washed into rivers and lakes** [1], ultimately **depleting the dissolved oxygen**, so fish and other aquatic organisms die [1]. *(Background, not required: the fertiliser causes rapid algal growth, which blocks light; plants below die and are decomposed by bacteria, which multiply and use up the dissolved oxygen as they do so.)*
 
 **8. (a)** Anhydrous **copper(II) sulfate** turns from **white to blue** [1]; anhydrous **cobalt(II) chloride** turns from **blue to pink** [1].
 **(b)** Compare the sample's **melting and boiling point** with the known values for pure water (0 °C and 100 °C) [1]; dissolved substances **lower the melting point and raise the boiling point**, so a sample melting or boiling at the "wrong" temperature is impure [1].
@@ -121,9 +121,8 @@ Two gases with sources: **carbon dioxide** from burning fossil fuels [1]; **meth
 ## Where marks are usually lost
 
 - Giving the source of a pollutant without its effect.
-- Omitting the oxidation step in the acid rain mechanism.
 - Describing the greenhouse effect without mentioning the change in wavelength.
-- Giving an incomplete eutrophication sequence — all four steps are needed.
+- Forgetting that eutrophication kills aquatic life specifically through **oxygen depletion** (the detailed algal-bloom mechanism is background, not required).
 - The water-treatment stages and chlorine's specific role are a genuinely weak recall area — vague answers like "it is purified" or "chlorine cleans it" don't get credit; name each stage in order and state exactly what chlorine does (kills bacteria/disease-causing microorganisms).
 - Confusing the two water tests (which only detect the presence of water) with a purity test (which requires comparing melting/boiling point against the known values for pure water).
 - Assuming the same fuel always produces the same pollutants — complete combustion gives CO₂, incomplete combustion (insufficient oxygen) gives carbon monoxide and particulates instead.

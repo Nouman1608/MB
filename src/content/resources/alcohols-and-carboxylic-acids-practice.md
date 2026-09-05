@@ -32,7 +32,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Alcohols and Carboxylic Acids revision notes](/resources/alcohols-and-carboxylic-acids/), which covers Topic 11.6 Alcohols and 11.7 Carboxylic acids for Cambridge IGCSE 0620 and O Level 5070.
+Related: [Alcohols and Carboxylic Acids study guide](/resources/alcohols-and-carboxylic-acids/), which covers Topic 11.6 Alcohols and 11.7 Carboxylic acids for Cambridge IGCSE 0620 and O Level 5070.
 
 ---
 
@@ -115,8 +115,8 @@ Ethanol and ethanoic acid are linked by a small, connected network worth
 holding in mind as a whole rather than as isolated facts: ethanol can be
 **oxidised** to ethanoic acid (by acidified KMnO₄ or by bacteria, as in
 vinegar production); ethanoic acid can react **with an alcohol** to form
-an ester; and ethanol itself can be made from ethene by the reverse of
-addition — hydration. Exam questions frequently test whether a candidate
+an ester; and ethanol itself can be made from ethene by an addition
+reaction — hydration. Exam questions frequently test whether a candidate
 can move between these related facts rather than recall any single one in
 isolation, for instance asking how the ethanol used in an esterification
 reaction could itself have been manufactured. For the full explanation of

@@ -55,13 +55,21 @@ W       = work done ON the system
 | Gas **compressed** (work done on it) | W positive |
 | Gas **expands** (work done by it) | W negative |
 
-Work done by an expanding gas at constant pressure:
+The **magnitude** of the work done at constant pressure is:
 
 ```
-W = p delta-V         (and delta-U = q - p delta-V)
+W = p delta-V     (delta-V is the change in volume; this gives the work done BY the gas during an expansion)
 ```
 
-**Worked example.** A gas absorbs 500 J of thermal energy and does 200 J of work by expanding against a constant external pressure. Since the gas does work on its surroundings, W = −200 J.
+Since W in delta-U = q + W is defined as work done **ON** the system (line
+46 above), its **sign** must be fixed up to match: for an **expansion**
+(ΔV positive), the gas does work on its surroundings, so work done on the
+system is **negative**, W = −pΔV; for a **compression** (ΔV negative), the
+surroundings do work on the gas, so work done on the system is
+**positive**, W = +p|ΔV|. This matches the sign convention table above:
+expansion → W negative, compression → W positive.
+
+**Worked example.** A gas absorbs 500 J of thermal energy and does 200 J of work by expanding against a constant external pressure. Since the gas does work on its surroundings, W (work done on the system) = −200 J.
 
 ```
 delta-U = q + W = 500 + (-200) = 300 J
@@ -98,10 +106,10 @@ Specific heat capacity is defined **per kilogram**; heat capacity (without "spec
 
 ## Absolute zero and the ideal gas
 
-Absolute zero (0 K, −273 °C) is the temperature at which molecules have **minimum** internal energy — not zero energy.
+Absolute zero (0 K, −273.15 °C, often rounded to −273 °C) is the temperature at which molecules have **minimum** internal energy — not zero energy.
 
 ```
-T(K) = theta(C) + 273
+T(K) = theta(C) + 273.15   (often rounded to +273 for working)
 pV = nRT
 ```
 
@@ -121,9 +129,9 @@ pV = nRT
 1. Define internal energy, covering both components.
 2. State the first law and the sign convention for a gas being compressed.
 3. Why does temperature stay constant during boiling?
-4. A gas expands isothermally. What are ΔU and q?
+4. An ideal gas expands isothermally. What are ΔU and q?
 5. Why is latent heat of vaporisation larger than latent heat of fusion?
 6. A gas absorbs 500 J of thermal energy and does 200 J of work by expanding. Find the change in internal energy.
 7. Why does internal energy not depend on the process used to reach a given state?
 
-**Answers:** 1. The sum of the random distribution of kinetic and potential energies of the molecules; the kinetic part depends on temperature, the potential part on molecular separation. 2. ΔU = q + W; compressing the gas means work is done **on** it, so W is positive. 3. The energy supplied increases the potential component of internal energy by separating the molecules, not the kinetic component, so temperature is unchanged. 4. ΔU = 0 (temperature constant), so q = −W. 5. Vaporisation must completely overcome the intermolecular forces and also do work against atmospheric pressure as the vapour expands; melting only loosens the forces. 6. W = −200 J (the gas does work on its surroundings); ΔU = q + W = 500 + (−200) = **300 J**. 7. Internal energy is a **state function** — it depends only on the system's current state (its temperature, for an ideal gas), never on the route taken to reach it, even though q and W individually can differ between different routes.
+**Answers:** 1. The sum of the random distribution of kinetic and potential energies of the molecules; the kinetic part depends on temperature, the potential part on molecular separation. 2. ΔU = q + W; compressing the gas means work is done **on** it, so W is positive. 3. The energy supplied increases the potential component of internal energy by separating the molecules, not the kinetic component, so temperature is unchanged. 4. ΔU = 0 **for an ideal gas** (internal energy depends only on temperature, which is constant here), so q = −W — this does not hold for a real gas, where internal energy also depends on the (changing) separation between molecules. 5. Vaporisation must completely overcome the intermolecular forces and also do work against atmospheric pressure as the vapour expands; melting only loosens the forces. 6. W = −200 J (the gas does work on its surroundings); ΔU = q + W = 500 + (−200) = **300 J**. 7. Internal energy is a **state function** — it depends only on the system's current state (its temperature, for an ideal gas), never on the route taken to reach it, even though q and W individually can differ between different routes.

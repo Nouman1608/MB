@@ -49,7 +49,7 @@ K   Na   Ca   Mg   Al   (C)   Zn   Fe   (H)   Cu   Ag   Au
 MOST reactive ------------------------------> LEAST reactive
 ```
 
-Mnemonic: **P**lease **S**top **C**alling **M**e **A** **C**areless **Z**ebra **I**nstead **T**ry **C**alling **M**e **G**orgeous — or any you can hold under pressure.
+Learn this order directly — potassium, sodium, calcium, magnesium, aluminium, (carbon), zinc, iron, (hydrogen), copper, silver, gold.
 
 Carbon and hydrogen are inserted because they determine **extraction method** and **acid reaction** — neither is a metal, but both act as reference points against which the true metals are judged.
 
@@ -100,6 +100,14 @@ These are **redox**: the more reactive metal is oxidised (loses electrons); the 
 | Very unreactive | Found **native** | Au, Ag |
 
 Aluminium needs electrolysis despite the cost because carbon cannot reduce it — electrolysis uses far more energy than heating with carbon, but it is the only option for a metal above carbon in the series.
+
+## Aluminium's apparent unreactivity
+
+Aluminium is high in the reactivity series, above zinc and iron, but seems
+unreactive in everyday life. The reason: a thin, **impermeable layer of
+aluminium oxide** forms immediately on the surface and seals the metal
+underneath from oxygen, water and acid. If scratched, the exposed aluminium
+instantly forms fresh oxide, so the protection re-forms itself.
 
 ## Rusting
 

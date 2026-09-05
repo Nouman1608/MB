@@ -134,7 +134,7 @@ change in thermal energy = mass × specific heat capacity × change in temperatu
 
 **Absolute zero**, -273°C, is the lowest possible temperature, at which
 particles have minimum kinetic energy. The **Kelvin scale** is built on
-this: 0 K = -273°C, and each degree Kelvin is the same size as a degree
+this: 0 K = -273°C, and one kelvin is the same size as one degree
 Celsius, so:
 
 ```

@@ -63,7 +63,7 @@ Related: [Physical and Chemical Changes revision notes](/resources/physical-and-
 
 **1.** A chemical change produces **at least one new substance**; a physical change does not — the same substance is present throughout, just in a different form [1].
 
-**2.** Any three of: a **new substance forms** (e.g. a gas or precipitate appears); a **permanent colour change**; a **temperature change** caused by the reaction itself; **effervescence**; the change is **difficult to reverse by physical means** [3].
+**2.** Any three of: a **new substance forms** (e.g. a gas or precipitate appears); a **permanent colour change**; a **temperature change** caused by the reaction itself; a **precipitate forms**; **effervescence** [3]. (Reversibility is *not* reliable evidence on its own — some chemical changes are readily reversible and some physical changes are not, so it should not be credited here.)
 
 **3.** Melting does not create a new substance — it is still the same substance (e.g. ice to water is still H₂O), just in a different state [1]. Burning produces new substances with different properties (e.g. magnesium oxide from magnesium), so it is chemical [1].
 

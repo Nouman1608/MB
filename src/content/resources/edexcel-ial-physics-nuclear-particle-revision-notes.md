@@ -22,6 +22,8 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Nuclear and Particle Physics study guide](/resources/edexcel-ial-physics-nuclear-and-particle-physics/).
 
+> **Scope note:** this page is filed under Unit 4 sub-topic 4.5. The "Atomic structure and accelerators", "The standard model", "Fundamental forces" and "Particle accelerators" sections below are genuine Unit 4.5 material. The "Mass–energy equivalence" section's binding-energy/fission/fusion content sits substantially in Unit 5 sub-topic 5.4, and is included here as useful overlap/context.
+
 ## Atomic structure and accelerators
 
 **Nucleon number** (mass number, A) is the total protons + neutrons; **proton number** (atomic number, Z) is protons only. **Thermionic emission** releases electrons from a heated material, which are then accelerated by electric and magnetic fields to feed accelerators like the linac and cyclotron.
@@ -47,7 +49,7 @@ neutron = udd      charge  (+2/3) + 2(-1/3) = 0
 |---|---|---|
 | Strong | Gluon | Quarks and hadrons |
 | Electromagnetic | Photon | Charged particles |
-| Weak | W⁺, W⁻, Z⁰ | All particles |
+| Weak | W⁺, W⁻, Z⁰ | All quarks and leptons (i.e. all fermions) |
 | Gravitational | Graviton (hypothetical) | All mass |
 
 **Only the weak force changes quark flavour**, which is why it governs beta decay.
@@ -63,7 +65,7 @@ Charge, baryon number, lepton number (per family), energy and momentum must all 
 ## Mass–energy equivalence
 
 ```
-E = mc^2         1 u = 931.5 MeV
+E = mc^2         1 u = 931.5 MeV/c^2
 binding energy = mass defect x c^2
 ```
 

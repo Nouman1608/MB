@@ -31,7 +31,7 @@ Related: [Electric and Magnetic Fields revision notes](/resources/edexcel-ial-ph
 
 **1.** Distinguish between a radial and a uniform electric field. **[2]**
 
-**2.** State how capacitors combine in series and in parallel. **[2]**
+**2.** State the equation linking the charge stored on a capacitor to its capacitance and potential difference, and state how the charge remaining on a capacitor changes as it discharges through a fixed resistor. **[2]**
 
 **3.** State Faraday's law and Lenz's law. **[2]**
 
@@ -67,14 +67,25 @@ Related: [Electric and Magnetic Fields revision notes](/resources/edexcel-ial-ph
 
 **(c)** Explain, using Lenz's law and conservation of energy, why the induced current opposes the change. **[3]**
 
+**7.** A point charge of +3.0 μC and a point charge of −5.0 μC are placed 0.20 m apart in a vacuum.
+
+**(a)** Calculate the magnitude of the electrostatic force between the two charges, and state whether it is attractive or repulsive. **[2]**
+
+**(b)** Calculate the electric potential at the midpoint between the two charges. **[3]**
+
+**8.** A capacitor discharges through a fixed resistor. The charge Q remaining on the capacitor is recorded at regular time intervals, and a graph of ln Q (y-axis) against t (x-axis) is plotted.
+
+**(a)** Explain how the value of RC can be found from the gradient of this graph. **[3]**
+
+**(b)** State what is meant by the time constant of a capacitor discharge circuit. **[2]**
+
 ---
 
 ## Answers
 
 **1.** A **radial** field has field lines directed towards or away from a point charge, and the field strength **obeys an inverse square law** [1]. A **uniform** field has **parallel, equally spaced field lines** and constant field strength, as between charged parallel plates [1].
 
-**2. Series:** 1/C = 1/C₁ + 1/C₂ [1]. **Parallel:** C = C₁ + C₂ [1].
-*The opposite way round to resistors.*
+**2.** Q = CV [1]. As the capacitor discharges, the **charge decreases exponentially with time**, falling by the same fraction in equal time intervals [1].
 
 **3. Faraday:** the induced e.m.f. is proportional to the **rate of change of flux linkage** [1].
 **Lenz:** the induced current acts in the direction that **opposes the change producing it** [1].

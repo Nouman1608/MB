@@ -53,10 +53,14 @@ and expressing the period in terms of both frequency and angular frequency;
 recalling and using a = −ω²x as the defining equation of simple harmonic
 motion; recognising and using solutions of the form x = x₀ sin ωt and
 x = x₀ cos ωt; recalling and using v = v₀ cos ωt, v = −v₀ sin ωt and
-v₀ = ωx₀.
+v₀ = ωx₀; recalling and using v = ±ω√(x₀² − x²); sketching and interpreting
+graphs of displacement, velocity and acceleration against time for an
+oscillator undergoing simple harmonic motion.
 
 **17.2 Energy in simple harmonic motion** — describing the interchange
-between kinetic and potential energy during simple harmonic motion.
+between kinetic and potential energy during simple harmonic motion;
+recalling and using E_K = ½mω²(x₀² − x²) for kinetic energy and the total
+energy of the system E = ½mω²x₀².
 
 **17.3 Damped and forced oscillations, resonance** — understanding that
 oscillatory systems may be periodically forced, and understanding the
@@ -90,6 +94,16 @@ where x₀ is the amplitude. Differentiating gives velocity:
 v = v₀ cos ωt   or   v = −v₀ sin ωt,   with v₀ = ωx₀
 ```
 
+Velocity can also be found directly from displacement, without reference to
+time, using:
+
+```
+v = ±ω√(x₀² − x²)
+```
+
+which confirms that speed is maximum (v = v₀ = ωx₀) at x = 0 and zero at
+x = ±x₀, the two extremes of the oscillation.
+
 **Worked example.** A mass oscillates with SHM, amplitude 0.050 m and angular
 frequency 4.0 rad s⁻¹. Its maximum speed:
 
@@ -97,7 +111,13 @@ frequency 4.0 rad s⁻¹. Its maximum speed:
 v₀ = ωx₀ = 4.0 × 0.050 = 0.20 m s⁻¹
 ```
 
-**A simple pendulum** is the standard example of a free oscillation: for small angles of swing, its period is given by T = 2π√(l/g), where l is the pendulum's length and g the gravitational field strength — independent of the mass on the end or the amplitude of swing, provided the angle stays small.
+Its speed when the displacement is 0.030 m:
+
+```
+v = ω√(x₀² − x²) = 4.0 × √(0.050² − 0.030²) = 4.0 × 0.040 = 0.16 m s⁻¹
+```
+
+**A simple pendulum** is the standard example of a free oscillation: for small angles of swing, its period is given by T = 2π√(l/g), where l is the pendulum's length and g the gravitational field strength — independent of the mass on the end or the amplitude of swing, provided the angle stays small. *This relationship is not listed in the standard 9702 data/formulae section — check a recent past paper or the published data booklet to see whether it would be supplied in a question. If not, it should be memorised.*
 
 ## Period and frequency
 
@@ -109,6 +129,20 @@ by:
 ω = 2π/T = 2πf
 ```
 
+## Graphs of displacement, velocity and acceleration
+
+For x = x₀ cos ωt, the three graphs against time are all sinusoidal but out
+of phase with each other:
+
+- **Displacement–time**: x = x₀ cos ωt, oscillating between +x₀ and −x₀.
+- **Velocity–time**: v = −v₀ sin ωt, a quarter-cycle (90°) ahead of
+displacement — velocity is zero when displacement is at a maximum, and
+maximum (v₀ = ωx₀) when displacement is zero.
+- **Acceleration–time**: a = −ω²x, always in **antiphase** with
+displacement (a half-cycle, 180°, out of phase) — acceleration is maximum
+in magnitude at the extremes, where displacement is maximum, but points
+back toward equilibrium, and is zero when displacement is zero.
+
 ## Energy in simple harmonic motion
 
 As a system oscillates, its energy continually transforms between kinetic
@@ -118,6 +152,22 @@ in the absence of damping. Kinetic energy is maximum, and potential energy
 zero, at the equilibrium position (maximum speed, zero displacement);
 potential energy is maximum, and kinetic energy zero, at maximum
 displacement (zero speed, at the amplitude).
+
+The kinetic energy at displacement x is:
+
+```
+E_K = ½mω²(x₀² − x²)
+```
+
+and the **total energy** of the system — constant throughout the
+oscillation, in the absence of damping — is the kinetic energy at x = 0
+(equivalently, the potential energy at x = x₀):
+
+```
+E = ½mω²x₀²
+```
+
+so the potential energy at displacement x is E_P = E − E_K = ½mω²x².
 
 ## Free, damped and forced oscillations
 
@@ -158,7 +208,10 @@ damping decreases.
 
 - a = −ω²x as the defining equation of SHM
 - x = x₀ sin ωt / x₀ cos ωt, and v = v₀ cos ωt / −v₀ sin ωt with v₀ = ωx₀
+- v = ±ω√(x₀² − x²), the velocity–displacement relation
+- x–t, v–t and a–t graphs: v leads x by 90°, a is in antiphase with x
 - Energy interchange between kinetic and potential energy during SHM
+- E_K = ½mω²(x₀² − x²) and total energy E = ½mω²x₀²
 - Free vs damped vs forced oscillations, and the resonance amplitude peak
 
 ## Related resources

@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-mechanics-and-materials"
     subtopic: "mechanics"
-description: "Condensed recall notes on kinematics, projectiles, Newton laws, momentum and energy for Edexcel International A Level Physics WPH11."
+description: "Condensed recall notes on kinematics, projectiles, Newton laws, momentum and energy for Edexcel International A Level Physics YPH11."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -62,12 +62,12 @@ moment = F x        (x = perpendicular distance from the line of
 
 An extended body's weight acts through its **centre of gravity**. For a body in equilibrium, the **principle of moments** applies: the sum of clockwise moments about any point equals the sum of anticlockwise moments. This principle underlies beam-support and balance problems throughout the topic, and it holds about **any** chosen point, not just the pivot — choosing a point that eliminates an unknown force from the equation is often the fastest route to a solution.
 
-**Worked example.** A 4.0 m uniform beam pivots at its centre. A 60 N weight hangs 1.5 m to the left of the pivot. Where must a 40 N weight hang on the right to balance it?
+**Worked example.** A 4.0 m uniform beam pivots at its centre. A 60 N weight hangs 0.8 m to the left of the pivot. Where must a 40 N weight hang on the right to balance it?
 
 ```
 Clockwise moment = anticlockwise moment
-40 x d = 60 x 1.5
-d = 90 / 40 = 2.25 m
+40 x d = 60 x 0.8
+d = 48 / 40 = 1.2 m
 ```
 
 **CORE PRACTICAL 1** uses light gates or strobe/video photography to determine the acceleration of a freely-falling object, i.e. to measure g experimentally. This experimentally measured value of g can then be compared with the standard value of 9.81 m s⁻² used throughout the rest of the mechanics topic.
@@ -116,6 +116,6 @@ Related: [Mechanics practice questions](/resources/edexcel-ial-physics-mechanics
 4. Which quantity is conserved in all collisions, and what happens to the rest?
 5. Why does a centripetal force do no work?
 6. State the principle of moments.
-7. A 3.0 m uniform beam pivots at its centre. A 50 N weight hangs 1.2 m to the left of the pivot. Where must a 30 N weight hang on the right to balance it?
+7. A 3.0 m uniform beam pivots at its centre. A 50 N weight hangs 0.9 m to the left of the pivot. Where must a 30 N weight hang on the right to balance it?
 
-**Answers:** 1. Only when acceleration is uniform. 2. The time of flight — the two motions are otherwise independent. 3. The vertical component is zero, but the horizontal component is unchanged, so the velocity is not zero. 4. Momentum; in an inelastic collision the missing kinetic energy is transferred to thermal energy, sound and deformation. 5. It acts perpendicular to the direction of motion, and only the component of force along the displacement does work. 6. For a body in equilibrium, the sum of clockwise moments about any point equals the sum of anticlockwise moments about that same point. 7. 30 × d = 50 × 1.2 → d = 60 ÷ 30 = **2.0 m**.
+**Answers:** 1. Only when acceleration is uniform. 2. The time of flight — the two motions are otherwise independent. 3. The vertical component is zero, but the horizontal component is unchanged, so the velocity is not zero. 4. Momentum; in an inelastic collision the missing kinetic energy is transferred to thermal energy, sound and deformation. 5. It acts perpendicular to the direction of motion, and only the component of force along the displacement does work. 6. For a body in equilibrium, the sum of clockwise moments about any point equals the sum of anticlockwise moments about that same point. 7. 30 × d = 50 × 0.9 → d = 45 ÷ 30 = **1.5 m**.

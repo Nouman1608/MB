@@ -48,7 +48,9 @@ Dividers](/resources/as-physics-dc-circuits/).
 **19.1 Capacitors and capacitance** — defining capacitance as C = Q/V;
 recalling and using C = Q/V; deriving, using the formula for capacitors in
 series and in parallel, and using these formulas for capacitor networks;
-describing the action of a capacitor in a simple circuit.
+describing the action of a capacitor in a simple circuit; applying the
+definition C = Q/V to an isolated spherical conductor to derive
+C = 4πε₀r.
 
 **19.2 Energy stored in a capacitor** — recalling and using the fact that
 the area under a potential–charge graph is the energy stored; deriving,
@@ -72,6 +74,21 @@ C = Q/V
 ```
 
 Capacitance is measured in farads (F), where 1 F = 1 C V⁻¹.
+
+### The capacitance of an isolated sphere
+
+The definition C = Q/V applies just as well to a single isolated charged
+conducting sphere as to a pair of plates. An isolated sphere of radius r
+carrying charge Q has surface potential V = Q/(4πε₀r) (from the electric
+potential of a point charge, since the sphere behaves as a point charge at
+its centre for points on or outside its surface), so its capacitance is:
+
+```
+C = Q/V = 4πε₀r
+```
+
+showing that the capacitance of an isolated sphere depends only on its
+radius — larger spheres store more charge for the same potential.
 
 ## Capacitors in series and parallel
 
@@ -138,7 +155,9 @@ The time constant is the time taken for the quantity to fall to 1/e (about
 37%) of its initial value, and gives a measure of how quickly a capacitor
 discharges through a given resistance: a larger RC means slower discharge.
 
-## Charging a capacitor
+## Charging a capacitor (beyond 19.3 — background only, not examinable)
+
+Subtopic 19.3 is titled "Discharging a capacitor" and the syllabus coverage above only requires the discharge form x = x₀e^(−t/RC); the charging equations below are included for context and conceptual completeness only, not as recall or exam-required material.
 
 Charging is the reverse process. Charge and p.d. **rise** towards their
 final value:
@@ -182,10 +201,12 @@ increasingly opposes the supply.
 ## Quick revision checklist
 
 - C = Q/V, and combining capacitors in series (reciprocal) and parallel (direct)
+- C = 4πε₀r for an isolated spherical conductor
 - W = ½QV = ½CV² for energy stored, from the area under a V-Q graph
 - x = x₀e^(−t/RC) for exponential discharge of current, charge or voltage
-- Q = Q₀(1 − e^(−t/RC)) for charge rising during charging, while current still decays exponentially
 - τ = RC as the time constant, with the same meaning in charging and discharging
+
+*Extension, beyond 19.3 (background only, not examinable): Q = Q₀(1 − e^(−t/RC)) for charge rising during charging, while current still decays exponentially.*
 
 ## Related resources
 

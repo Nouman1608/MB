@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Chemistry: Metals, Alloys and Extraction — Practice Questions"
+title: "Metals, Alloys and Extraction: Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]
@@ -28,7 +28,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "metals"
     subtopic: "extraction-of-metals"
-description: "Original exam-style practice questions with full worked answers on the reactivity series, extraction methods, alloys and rusting for IGCSE Chemistry."
+description: "Original exam-style practice questions with full worked answers on the reactivity series, extraction methods, alloys and rusting."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -63,7 +63,7 @@ Related: [Metals and Extraction revision notes](/resources/alloys-and-extraction
 
 **5.** Explain, in terms of structure, why an alloy is harder than the pure metal. **[3]**
 
-**6.** Rusting requires two substances.
+**6.** *(Extension beyond this resource's core scope — rusting and corrosion protection are covered in* [Metal Properties and Reactivity](/resources/metal-properties-and-reactivity/) *.)* Rusting requires two substances.
 
 **(a)** Name them. **[2]**
 **(b)** Describe how galvanising protects iron, and explain why it still works if the coating is scratched. **[3]**
@@ -94,9 +94,9 @@ Related: [Metals and Extraction revision notes](/resources/alloys-and-extraction
 **5.** An alloy contains atoms of **different sizes** [1], which **disrupt the regular layers** of the pure metal [1], so the layers **cannot slide over one another** as easily [1].
 
 **6. (a)** **Water** [1] and **oxygen** [1].
-**(b)** The iron is coated with **zinc** [1]. Zinc is **more reactive than iron**, so it is **oxidised in preference** — sacrificial protection [1]; this means the protection continues even where the coating is broken and the iron is exposed [1].
+**(b)** The iron is coated with **zinc**, which forms a **barrier excluding oxygen and water** [1]. Zinc is **more reactive than iron**, so where the coating is scratched and the iron is exposed, the zinc is **oxidised in preference** — sacrificial protection — so the iron is still protected [1]; this sacrificial protection is why galvanising continues to work even once the barrier is broken [1].
 
-**7.** **Brass** is copper and zinc [1]. **Stainless steel** is iron with chromium, nickel and carbon [1]. Both are alloys, mixtures of a metal with one or more other elements, usually giving properties (hardness, corrosion resistance) that the pure metal alone does not have [1].
+**7.** **Brass** is copper and zinc [1]. **Stainless steel** is iron [1], with chromium, nickel and carbon [1].
 
 **8.** Aluminium has a **low density** [1], and combined with good electrical conductivity this suits it to overhead cables [1]. Although copper conducts electricity better, aluminium's much lower density makes the cables far lighter for a given length, reducing the load on supporting pylons and the overall cost, which outweighs copper's conductivity advantage for this specific use [1].
 

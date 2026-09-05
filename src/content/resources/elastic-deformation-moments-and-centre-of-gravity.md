@@ -109,13 +109,18 @@ perpendicular to the lever. Find the moment.
 moment = 20 × 0.3 = 6 N·m
 ```
 
-For an object in **equilibrium** (not turning), the **principle of
-moments** applies: the sum of the clockwise moments about any pivot equals
-the sum of the anticlockwise moments about the same pivot. This is
-verified experimentally with a metre rule pivoted at its centre, hanging
-known weights at measured distances on each side, and adjusting until the
-rule balances — confirming that clockwise and anticlockwise moment totals
-are equal at that point.
+For an object in **equilibrium**, two conditions must both hold: there
+must be **no resultant force** (the forces in every direction balance),
+and there must be **no resultant moment** — the **principle of
+moments** — the sum of the clockwise moments about any pivot equals
+the sum of the anticlockwise moments about the same pivot. An object can
+satisfy one condition without the other, so both must be checked; the
+principle of moments alone only guarantees that the object is not
+rotating, not that it is genuinely in equilibrium. This moment condition
+is verified experimentally with a metre rule pivoted at its centre,
+hanging known weights at measured distances on each side, and adjusting
+until the rule balances — confirming that clockwise and anticlockwise
+moment totals are equal at that point.
 
 **Worked example.** A uniform see-saw is pivoted at its centre. A 300 N
 weight sits 1.2 m from the pivot on one side. How far from the pivot on the
@@ -159,6 +164,10 @@ the force already acts perpendicular to the object.
 - **Applying the principle of moments without checking equilibrium.** It
 only holds when the object is *not* turning — if the sums aren't equal,
 the object has a resultant moment and will rotate.
+- **Forgetting the force condition.** Balanced moments alone are not
+enough for equilibrium — the resultant force must also be zero. A body
+can have zero resultant moment about a pivot and still accelerate if the
+forces on it don't balance.
 - **Describing stability only in terms of weight, not centre of gravity
 position.** Two objects of equal weight can have very different
 stability, depending on how low and how central their centre of gravity
@@ -170,7 +179,7 @@ is relative to their base.
 - The limit of proportionality: what it means and how to identify it on a
 graph (elastic limit not required)
 - Moment = force × perpendicular distance from the pivot
-- The principle of moments, and the metre-rule experiment that verifies it
+- Both conditions for equilibrium: no resultant force, and no resultant moment (the principle of moments), and the metre-rule experiment that verifies the moment condition
 - Centre of gravity: definition, the plumb-line method for a plane lamina,
 and its qualitative link to stability
 

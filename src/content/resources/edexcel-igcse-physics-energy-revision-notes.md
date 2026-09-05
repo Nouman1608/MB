@@ -40,10 +40,12 @@ Condensed for the final weeks. For the full explanation, use the
 **"Heat" and "light" are pathways, not stores.** Writing "light energy" as a store loses the mark.
 
 ```
-Ek = 1/2 m v^2        Ep = m g h        E = m c delta-theta
-efficiency = useful output / total input
+Ek = 1/2 m v^2        Ep = m g h
+efficiency = (useful energy output / total energy output) x 100%
 P = E / t
 ```
+
+(The specific heat capacity equation, E = m c Δθ, belongs to Topic 5, outcome 5.13P — Physics-only, Paper 2 — not Topic 4.)
 
 **Kinetic energy depends on v²**, so doubling speed quadruples it — the reason braking distance rises so sharply with speed.
 
@@ -66,7 +68,7 @@ Work done equals energy transferred, and **P = W/t** gives the rate of that tran
 
 **Dissipated energy is not destroyed** — it is transferred to the thermal store of the surroundings, spread out and too dilute to be useful. Saying energy is "lost" or "used up" is penalised.
 
-**No device is 100% efficient** (except a resistive heater, where all output is the wanted thermal energy), because friction, air resistance and sound always dissipate some energy.
+**No device is 100% efficient**, because friction, air resistance and sound always dissipate some energy. A resistive heater comes closest — nearly all its electrical energy input converts to the wanted thermal energy — but even it loses a little to sound and to light from the heating element.
 
 ## Thermal transfer
 

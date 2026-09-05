@@ -40,6 +40,8 @@ featured: false
 
 Related: [Acids, Bases and Salts revision notes](/resources/acids-bases-and-salts-revision-notes/)
 
+> **Tier note:** questions and parts marked *(0620 Extended, 5070 required)* go beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
+
 ---
 
 ## Questions

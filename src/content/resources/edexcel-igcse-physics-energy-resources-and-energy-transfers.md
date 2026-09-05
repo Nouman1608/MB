@@ -86,8 +86,8 @@ stores.
 ## Efficiency
 
 No energy transfer process is perfectly efficient — some energy is always
-transferred to non-useful forms (commonly as heat). **Efficiency** is
-defined as:
+dissipated to the thermal store of the surroundings, becoming no longer
+useful. **Efficiency** is defined as:
 
 ```
 efficiency = (useful energy output / total energy output) × 100%

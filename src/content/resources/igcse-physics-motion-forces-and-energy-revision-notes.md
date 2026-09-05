@@ -26,10 +26,11 @@ Condensed for the final weeks. For the full explanation, use the
 | Quantity | Equation |
 |---|---|
 | Average speed | speed = distance / time |
+| Velocity | speed in a given direction (a vector; same formula as speed, v = s/t, but with a direction attached) |
 | Acceleration *(Supplement)* | a = Δv / Δt |
 | Weight | W = mg |
 | Density | ρ = m / V |
-| Hooke's law *(Supplement)* | F = ke (within the limit of proportionality) |
+| Hooke's law *(Supplement)* | F = kx (extension x, sometimes written e) (within the limit of proportionality) |
 | Newton's second law *(Supplement)* | F = ma |
 | Momentum *(Supplement)* | p = mv |
 | Impulse *(Supplement)* | impulse = FΔt = Δp |
@@ -46,6 +47,10 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Terminal velocity** *(Supplement)*: an object falling through air/liquid accelerates until air resistance balances weight; from that point resultant force = 0, so it continues at constant (terminal) velocity — a flat section on a speed–time graph.
 
+## Speed vs velocity
+
+**Speed** is a **scalar** — magnitude only. **Velocity is speed in a given direction** — a **vector**. An object can have constant speed but changing velocity if its direction is changing (e.g. moving at constant speed around a bend), and this changing velocity is itself an acceleration.
+
 ## Mass vs weight — the single most common mix-up
 
 - **Mass** is the amount of matter in an object. Measured in **kg**. The same everywhere.
@@ -56,8 +61,8 @@ Condensed for the final weeks. For the full explanation, use the
 
 - **Newton's first law:** an object stays at rest, or moving at constant velocity in a straight line, unless a resultant (unbalanced) force acts on it.
 - **Resultant force** = the single force with the same effect as all the forces acting together. If forces are balanced, resultant = 0.
-- **Hooke's law** *(Supplement)*: extension is directly proportional to force, up to the limit of proportionality — beyond that limit, the load–extension graph stops being a straight line.
-- **Moment of a force** = force × perpendicular distance from the pivot. An object is in equilibrium when the sum of clockwise moments equals the sum of anticlockwise moments (**principle of moments**).
+- **Hooke's law** *(Supplement)*: extension x is directly proportional to force, up to the limit of proportionality — beyond that limit, the load–extension graph stops being a straight line.
+- **Moment of a force** = force × perpendicular distance from the pivot. **Principle of moments**: for a body in equilibrium, the sum of clockwise moments equals the sum of anticlockwise moments. Note this is about moments only — a body is in **equilibrium** when there is **no resultant force AND no resultant moment**; balanced moments alone are not enough if the forces don't also balance.
 - **Centre of gravity**: the single point where an object's whole weight can be considered to act. A wider base and lower centre of gravity make an object more stable — this is worth being able to explain, not just state.
 
 ## Momentum *(Supplement only)*
@@ -87,9 +92,10 @@ F = Δp/Δt  (resultant force = rate of change of momentum)
 ## Common mistakes
 
 - Writing "weight = mass" or using kg for weight — weight is a force, always in newtons.
+- Treating speed and velocity as interchangeable — velocity is speed **in a given direction** (a vector); a constant speed with changing direction is still an acceleration.
 - Reading a speed–time graph's gradient as distance, or its area as speed — gradient is acceleration, area is distance.
 - Forgetting that momentum is a vector: opposite-direction velocities must be given opposite signs before adding.
-- Quoting Hooke's law without the "within the limit of proportionality" condition — beyond that limit F = ke no longer holds.
+- Quoting Hooke's law without the "within the limit of proportionality" condition — beyond that limit F = kx no longer holds.
 - Treating efficiency as if it could exceed 100%, or forgetting it must be expressed as useful ÷ total, not total ÷ useful.
 
 ## Examiner report insight

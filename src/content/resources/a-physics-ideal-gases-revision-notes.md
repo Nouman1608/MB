@@ -63,10 +63,10 @@ pV = (1/3) N m <c^2>
 where `<c²>` is the **mean square speed**. Combining with pV = NkT:
 
 ```
-(1/2) m <c^2> = (3/2) k T
+(1/2) m <c^2> = (3/2) k T     (mean TRANSLATIONAL kinetic energy of a molecule)
 ```
 
-**The central result: the mean kinetic energy of a molecule is directly proportional to the absolute temperature.** It depends on temperature *only* — not on pressure, volume, or the identity of the gas. Helium and xenon at the same temperature have the same mean molecular kinetic energy; the xenon molecules simply move more slowly because they are heavier.
+**The central result: the mean translational kinetic energy of a molecule is directly proportional to the absolute temperature.** It depends on temperature *only* — not on pressure, volume, or the identity of the gas. Helium and xenon at the same temperature have the same mean translational molecular kinetic energy; the xenon molecules simply move more slowly because they are heavier.
 
 Root-mean-square speed:
 
@@ -101,14 +101,14 @@ Hence internal energy depends only on temperature — which is what makes isothe
 - Using °C anywhere in pV = nRT.
 - Confusing n (moles) with N (molecules), and so R with k.
 - Confusing mean square speed `<c²>` with the square of the mean speed — they are not the same.
-- Saying heavier molecules have more kinetic energy at the same temperature. They don't; they are just slower.
+- Saying heavier molecules have more translational kinetic energy at the same temperature. They don't; they are just slower.
 - Forgetting that "ideal" means zero potential energy, so U is purely kinetic.
 
 ## Self-test
 
 1. State the two forms of the equation of state and say what each symbol counts.
-2. What is the mean kinetic energy of a molecule proportional to?
-3. Two gases at the same temperature — which has the greater mean molecular KE?
+2. What is the mean translational kinetic energy of a molecule proportional to?
+3. Two gases at the same temperature — which has the greater mean translational molecular KE?
 4. Under what conditions do real gases deviate most from ideal behaviour, and why?
 5. Why does an ideal gas have no molecular potential energy?
 6. What does the Avogadro constant represent?

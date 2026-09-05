@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Chemistry: Atomic Structure — Practice Questions"
+title: "Atomic Structure: Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]
@@ -28,7 +28,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "atoms-elements-and-compounds"
     subtopic: "isotopes"
-description: "Original exam-style practice questions with full worked answers on elements/compounds/mixtures, subatomic particles, electronic configuration and isotopes for IGCSE Chemistry."
+description: "Original exam-style practice questions with full worked answers on elements/compounds/mixtures, subatomic particles, electronic configuration and isotopes."
 author: "nouman-ahmed"
 publishedDate: 2026-09-01
 featured: false
@@ -39,6 +39,8 @@ featured: false
 > official past papers available free from your board.
 
 Related: [Atomic Structure revision notes](/resources/atomic-structure/)
+
+> **Tier note:** the question marked *(0620 Extended, 5070 required)* — calculating relative atomic mass from isotopic abundances — goes beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
 
 ---
 
@@ -59,7 +61,7 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
 **6.** Write the electronic configuration of a chloride ion, Cl⁻ (proton number 17), and explain how it differs from the configuration of a chlorine atom. **[2]**
 
-**7.** Copper exists as two isotopes, ⁶³Cu (69% abundance) and ⁶⁵Cu (31% abundance). Calculate the relative atomic mass of copper, giving your answer to one decimal place. **[3]**
+**7.** *(0620 Extended, 5070 required)* Copper exists as two isotopes, ⁶³Cu (69% abundance) and ⁶⁵Cu (31% abundance). Calculate the relative atomic mass of copper, giving your answer to one decimal place. **[3]**
 
 **8.** A student is given a sample and told it is either a pure compound or a mixture of two substances.
 
@@ -91,7 +93,7 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
 **6.** Chlorine atom: **2,8,7**. Chloride ion: **2,8,8** [1]. The ion has **gained one electron** to fill its outer shell, while the number of protons (and therefore the element) stays the same [1].
 
-**7.** Ar = (63 × 69 + 65 × 31) / 100 [1] = (4347 + 2015) / 100 = 6362 / 100 [1] = **63.6** [1].
+**7.** *(0620 Extended, 5070 required)* Ar = (63 × 69 + 65 × 31) / 100 [1] = (4347 + 2015) / 100 = 6362 / 100 [1] = **63.6** [1].
 
 **8. (a)** Compare the sample's **melting or boiling point** with the known value for the pure compound [1]; a mixture melts/boils over a **range** of temperatures rather than at a single sharp point [1].
 **(b)** A mixture's composition can **vary** (not a fixed ratio), whereas a compound always has the **same fixed ratio** of its constituent elements [1].

@@ -44,7 +44,16 @@ HEAVY nuclei  ->  FISSION  moves up the curve  ->  energy released
 
 Both processes increase binding energy per nucleon. That single idea explains the whole shape of the curve.
 
-**Unit conversion:** 1 u = 931.5 MeV; 1 eV = 1.60 × 10⁻¹⁹ J.
+**Unit conversion:** 1 u = 931.5 MeV; 1 eV = 1.60 × 10⁻¹⁹ J. This 931.5 MeV/u
+figure is a useful memorised shortcut, but it is not itself printed on the
+data sheet. The **official/primary route** is to convert via the constants
+the data sheet actually supplies — unified atomic mass constant u in kg,
+the speed of light c, and the elementary charge e — using E = Δm c² (in J)
+then dividing by e to convert to eV. Because 931.5 MeV/u is itself a rounded
+figure, working from the data-sheet constants directly can give a final
+answer that differs from the 931.5 MeV/u shortcut in the **third
+significant figure**; either method is acceptable, but know that a slight
+discrepancy can arise.
 
 **Worked example.** A helium-4 nucleus has mass 4.00150 u; a proton is 1.00728 u, a neutron 1.00867 u.
 
@@ -89,7 +98,7 @@ Always convert λ to the **same time unit** as the answer requires — a day⁻�
 | Nature | Helium nucleus | Fast electron/positron | EM photon |
 | Charge | +2e | ∓e | 0 |
 | Penetration | Paper | ~3 mm aluminium | Thick lead |
-| Range in air | Few cm | ~1 m | Inverse-square |
+| Range in air | Few cm | ~1 m | No definite range — intensity falls as 1/d² |
 | Ionising power | **Strongest** | Moderate | Weakest |
 | Deflection in a field | Slight, one way | Large, opposite way | None |
 
@@ -127,4 +136,4 @@ Both nucleon number and proton number must **balance** on each side.
 6. A helium-4 nucleus has mass 4.00150 u (proton 1.00728 u, neutron 1.00867 u, 1 u = 931.5 MeV). Find its binding energy per nucleon.
 7. A source has half-life 8.0 days and initial activity 4.8 × 10⁵ Bq. Find its activity after 20 days.
 
-**Answers:** 1. The energy needed to remove one nucleon from the nucleus, averaged over all nucleons; the higher it is, the more stable the nucleus. 2. Both move the products towards the peak of the binding-energy-per-nucleon curve near iron-56, so binding energy per nucleon increases and the surplus is released. 3. t½ = 0.693/0.023 = **30 s**. 4. Alpha — its large charge and mass mean it interacts strongly with matter, losing energy rapidly over a short distance, so it is stopped by paper. 5. A is unchanged; Z increases by 1. 6. Mass of nucleons = 2(1.00728) + 2(1.00867) = 4.03190 u; Δm = 4.03190 − 4.00150 = 0.03040 u; E = 0.03040 × 931.5 = 28.3 MeV; per nucleon = 28.3 ÷ 4 = **7.08 MeV**. 7. λ = 0.693 ÷ 8.0 = 0.0866 day⁻¹; A = 4.8 × 10⁵ × e^(−0.0866×20) = **8.49 × 10⁴ Bq**.
+**Answers:** 1. The total binding energy of the nucleus divided by the number of nucleons; the higher it is, the more stable the nucleus. 2. Both move the products towards the peak of the binding-energy-per-nucleon curve near iron-56, so binding energy per nucleon increases and the surplus is released. 3. t½ = 0.693/0.023 = **30 s**. 4. Alpha — its large charge and mass mean it interacts strongly with matter, losing energy rapidly over a short distance, so it is stopped by paper. 5. A is unchanged; Z increases by 1. 6. Mass of nucleons = 2(1.00728) + 2(1.00867) = 4.03190 u; Δm = 4.03190 − 4.00150 = 0.03040 u; E = 0.03040 × 931.5 = 28.3 MeV; per nucleon = 28.3 ÷ 4 = **7.08 MeV**. 7. λ = 0.693 ÷ 8.0 = 0.0866 day⁻¹; A = 4.8 × 10⁵ × e^(−0.0866×20) = **8.49 × 10⁴ Bq**.

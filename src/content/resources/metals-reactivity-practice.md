@@ -52,7 +52,7 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 
 **3.** Explain how the reactivity of a metal determines its method of extraction, referring to **two** methods. **[4]**
 
-**4.** Iron is extracted in the blast furnace.
+**4.** *(Extension beyond this resource's core scope — blast-furnace extraction detail is covered in* [Alloys and Extraction of Metals](/resources/alloys-and-extraction-of-metals/) *; included here only as a worked example of question 3's reactivity-extraction link.)* Iron is extracted in the blast furnace.
 
 **(a)** Write the equation for the reduction of iron(III) oxide by carbon monoxide. **[2]**
 **(b)** Explain the role of limestone. **[3]**
@@ -63,7 +63,7 @@ Related: [Metal Properties and Reactivity revision notes](/resources/metals-reac
 **(a)** Describe an experiment to show that both are needed. **[4]**
 **(b)** Explain how galvanising protects iron by **two** different mechanisms. **[4]**
 
-**6.** Explain, using a diagram in words, why an alloy is harder than the pure metal. **[3]**
+**6.** *(Extension beyond this resource's core scope — alloys are covered in* [Alloys and Extraction of Metals](/resources/alloys-and-extraction-of-metals/) *.)* Explain, using a diagram in words, why an alloy is harder than the pure metal. **[3]**
 
 **7.** Magnesium ribbon reacts rapidly with steam, but only very slowly with cold water.
 

@@ -45,12 +45,14 @@ naturally on general atomic structure covered in other sciences.
 (min) and second (s).
 
 **(b) Radioactivity** — describing atomic structure (protons, neutrons,
-electrons) and nuclide notation; knowing alpha, beta and gamma radiation
-are ionising and emitted randomly from unstable nuclei; describing the
-nature of alpha, beta and gamma radiation and their penetrating power and
-ionising ability; investigating penetration power practically; describing
-effects on atomic/mass number of each radiation type; balancing nuclear
-equations; knowing detection methods (photographic film,
+electrons) and nuclide notation; knowing alpha, beta, gamma and neutron
+radiation are ionising (except neutron radiation, which ionises only
+weakly) and emitted randomly from unstable nuclei; describing the
+nature of alpha, beta, gamma and neutron radiation — including neutron
+radiation as uncharged particles emitted from the nucleus — and their
+penetrating power and ionising ability; investigating penetration power
+practically; describing effects on atomic/mass number of each radiation
+type; balancing nuclear equations; knowing detection methods (photographic film,
 Geiger-Müller detector); explaining sources of background radiation;
 knowing activity decreases over time, measured in becquerels; defining
 half-life; using half-life for activity calculations including
@@ -77,10 +79,17 @@ mass number (top) and atomic number (bottom). Unstable nuclei emit
 **ionising radiation** randomly and spontaneously: **alpha (α) particles**
 (strongly ionising, low penetration — stopped by paper/skin), **beta (β⁻)
 particles** (moderately ionising and penetrating — stopped by a few mm of
-aluminium), and **gamma (γ) rays** (weakly ionising, highly penetrating —
-requires thick lead or concrete to stop). Each emission changes the
-atomic and/or mass number of the nucleus, and nuclear equations must
-balance both mass and charge.
+aluminium), **gamma (γ) rays** (weakly ionising, highly penetrating —
+requires thick lead or concrete to stop), and **neutron radiation**
+(uncharged neutrons emitted from an unstable nucleus, weakly ionising but
+highly penetrating — best absorbed by hydrogen-rich materials such as
+water or paraffin wax). Each type affects the nucleus differently: alpha emission decreases the
+mass number by 4 and the atomic number by 2; beta-minus emission leaves
+the mass number unchanged and increases the atomic number by 1; gamma
+emission changes neither the mass number nor the atomic number, since it
+is a loss of energy only, with no change in nuclear composition; neutron
+emission decreases the mass number by 1 and leaves the atomic number
+unchanged. Nuclear equations must balance both mass and charge.
 
 **Background radiation** comes from natural sources (rocks, cosmic rays,
 food) and artificial sources (medical procedures, nuclear industry).

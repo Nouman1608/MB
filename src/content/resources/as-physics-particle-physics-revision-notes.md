@@ -53,7 +53,7 @@ The **alpha-particle scattering experiment** showed that an atom's mass and posi
 
 ## The standard model
 
-**Fundamental particles cannot be broken down further.** Two families:
+**Fundamental particles cannot be broken down further.** Quarks and leptons are the fundamental **matter** particles — but this doesn't exclude other fundamental particles outside this matter classification, such as the photon, gluon and W/Z bosons (see exchange particles, below). Two families of fundamental matter particles:
 
 **Quarks** — up, down, strange, charm, top, bottom.
 
@@ -91,6 +91,8 @@ Particles made of quarks, and they feel the **strong** force.
 | **Gravitational** | All mass | Infinite | Graviton (hypothetical) |
 
 **The weak force is the only one that changes quark flavour**, which is why it is responsible for beta decay. That link is the key to the whole topic.
+
+**Exchange (force-carrying) particles are also fundamental particles** — they are just not matter particles like the quarks and leptons above.
 
 ## Beta decay
 

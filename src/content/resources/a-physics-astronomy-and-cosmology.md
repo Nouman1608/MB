@@ -48,25 +48,21 @@ and photon energy from [Quantum Physics](/resources/a-physics-quantum-physics/).
 **25.1 Standard candles** — understanding that a standard candle is any
 astronomical object that has a known luminosity; understanding that the
 luminosity of an object may be determined using the Stefan-Boltzmann law;
-recalling and using the Stefan-Boltzmann law L = 4πr²σT⁴; understanding
-that the luminosity of a star may be estimated by assuming it is a
+understanding that the luminosity of a star may be estimated by assuming it is a
 standard candle; recalling and using the inverse square law for radiant
 flux intensity F = L/(4πd²) in relation to standard candles.
 
 **25.2 Stellar radii** — using Wien's law λₘₐₓT = constant to estimate the
-peak surface temperature of a star; using the Stefan-Boltzmann law and
-Wien's law to estimate the radius of a star, given its luminosity and
-temperature.
+peak surface temperature of a star; recalling and using the
+Stefan-Boltzmann law L = 4πr²σT⁴, combined with Wien's law, to estimate
+the radius of a star, given its luminosity and temperature.
 
 **25.3 Hubble's law and the Big Bang theory** — recalling that the
 Doppler effect may be used to determine the recession speeds of galaxies;
 recalling and using Δλ/λ ≈ Δf/f ≈ v/c for the redshift of electromagnetic
 radiation from a receding source; recalling and using Hubble's law v = H₀d;
-understanding that the Hubble constant H₀ is not well known, but that it
-is of the order of 70 km s⁻¹ Mpc⁻¹; understanding that the Hubble constant
-may be used to estimate the age of the universe; understanding that the
-Hubble constant and Hubble's law are consistent with the Big Bang theory
-for the origin of the universe.
+understanding that the Hubble constant and Hubble's law are consistent with
+the Big Bang theory for the origin of the universe.
 
 ## Luminosity and standard candles
 
@@ -100,7 +96,7 @@ method used throughout astronomy.
 measured to have flux 1.0 × 10⁻¹² W m⁻² at Earth. Its distance:
 
 ```
-d = √(L / 4πF) = √(4.0 × 10²⁶ / (4π × 1.0 × 10⁻¹²)) ≈ 1.78 × 10¹⁸ m
+d = √(L / 4πF) = √(4.0 × 10²⁶ / (4π × 1.0 × 10⁻¹²)) ≈ 5.64 × 10¹⁸ m
 ```
 
 ## Stellar radii
@@ -142,14 +138,18 @@ its distance from Earth:
 v = H₀d
 ```
 
-where H₀ is the **Hubble constant**, of the order of 70 km s⁻¹ Mpc⁻¹,
-though not precisely known. Because more distant galaxies recede faster,
-Hubble's law is direct observational evidence that the universe is
-expanding — and running this expansion backward in time implies the
-universe originated from an extremely small, dense state at a finite time
-in the past, consistent with the **Big Bang theory**. The reciprocal of the
+where H₀ is the **Hubble constant**. Its value is not precisely known, but
+it is of the order of **2.3 × 10⁻¹⁸ s⁻¹** — the syllabus expects the
+constant in this base SI form, though it is often quoted in astronomy as
+roughly 70 km s⁻¹ Mpc⁻¹ (the two are equivalent: 70 km s⁻¹ Mpc⁻¹ converts
+to base units via 1 Mpc = 3.086 × 10²² m). Because more distant galaxies
+recede faster, Hubble's law is direct observational evidence that the
+universe is expanding — and running this expansion backward in time
+implies the universe originated from an extremely small, dense state at a
+finite time in the past, consistent with the **Big Bang theory**. (As
+background beyond what the syllabus requires: the reciprocal of the
 Hubble constant, 1/H₀, gives an order-of-magnitude estimate for the age of
-the universe.
+the universe.)
 
 ## Common mistakes
 
@@ -161,14 +161,14 @@ connecting them** — finding a stellar radius requires combining temperature
 from Wien's law with luminosity in the Stefan-Boltzmann law.
 - **Treating the Hubble constant as a precisely known, fixed number** — the
 syllabus explicitly notes it is not well known, only of the order of
-70 km s⁻¹ Mpc⁻¹.
+2.3 × 10⁻¹⁸ s⁻¹ (about 70 km s⁻¹ Mpc⁻¹).
 - **Assuming redshift implies motion through space in the everyday sense**
 rather than the large-scale expansion of space itself — a subtlety beyond
 what is required at this level, but worth being aware of conceptually.
 
 ## Quick revision checklist
 
-- L = 4πr²σT⁴ (Stefan-Boltzmann law) and F = L/(4πd²) for standard candles
+- L = 4πr²σT⁴ (Stefan-Boltzmann law, stellar radii) and F = L/(4πd²) (inverse square law, standard candles)
 - Combining Wien's law (λₘₐₓT = constant) with the Stefan-Boltzmann law to find stellar radius
 - Δλ/λ ≈ v/c for redshift, and v = H₀d for Hubble's law
 - Hubble's law as evidence for universal expansion and the Big Bang theory

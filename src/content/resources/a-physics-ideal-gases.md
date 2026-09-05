@@ -52,17 +52,22 @@ constant Nₐ.
 
 **15.2 Equation of state** — understanding that a gas obeying pV = nRT at
 all pressures, volumes and temperatures is known as an ideal gas; recalling
-and using pV = nRT, where n is the number of moles.
+and using pV = nRT, where n is the number of moles; recalling and using
+pV = NkT, where N is the number of particles and k is the Boltzmann
+constant, and relating k to the molar gas constant by k = R/Nₐ.
 
 **15.3 Kinetic theory of gases** — understanding the basic assumptions of the
 kinetic theory of gases; understanding that pressure is caused by collisions
-between particles and the walls of a container; using the kinetic theory of
-gases to derive pV = (1/3)Nm⟨c²⟩; understanding that the root-mean-square
-speed cᵣₘₛ is used because mean particle speed and mean particle velocity
-are both effectively zero; comparing the kinetic theory model with the
-equation of state for an ideal gas to deduce that the average translational
-kinetic energy of a molecule is proportional to the thermodynamic
-temperature.
+between particles and the walls of a container; deriving, following the
+prescribed route of considering the change in momentum of particles
+colliding with a container wall, and using the kinetic theory equation
+pV = (1/3)Nm⟨c²⟩; understanding that the root-mean-square speed cᵣₘₛ is
+used, rather than the mean speed, because velocity is a vector and the
+particles' directions are random, so the mean *velocity* is zero — speeds
+are squared before averaging so that they do not cancel; comparing the
+kinetic theory model with the equation of state for an ideal gas to deduce
+that the average translational kinetic energy of a molecule is proportional
+to the thermodynamic temperature.
 
 ## The mole and the Avogadro constant
 
@@ -90,6 +95,27 @@ kelvin. Temperature in this equation must always be in kelvin, not Celsius.
 p = nRT/V = (2.0 × 8.31 × 300) / 0.020 = 249,300 Pa ≈ 2.49 × 10⁵ Pa
 ```
 
+### The equation of state in terms of molecules
+
+The equation of state can equally be written in terms of the number of
+**particles** N rather than the number of moles n, using the **Boltzmann
+constant** k in place of the molar gas constant R:
+
+```
+pV = NkT
+```
+
+The Boltzmann constant is related to the molar gas constant by:
+
+```
+k = R / Nₐ
+```
+
+so k is, in effect, "the gas constant per particle" rather than per mole.
+The two forms, pV = nRT and pV = NkT, describe exactly the same physical
+law — pick whichever matches the quantity (moles or number of particles)
+given in a question.
+
 ## Kinetic theory of gases
 
 The **kinetic theory of gases** models a gas as a large number of identical
@@ -99,19 +125,44 @@ particles except during collisions. Gas **pressure** arises from the
 cumulative effect of many particles colliding with the container walls,
 transferring momentum on each collision.
 
-Applying Newton's laws to this model of colliding particles leads to the
-kinetic theory equation:
+### Deriving the kinetic theory equation
+
+The syllabus prescribes a specific route for this derivation, based on
+considering the change in momentum of particles colliding with one wall of
+a cube-shaped container of side L:
+
+1. A single particle of mass m moving with velocity component vₓ
+perpendicular to one wall rebounds elastically, reversing its velocity, so
+its change in momentum per collision with that wall is 2mvₓ.
+2. Between successive collisions with the same wall, the particle travels
+a distance 2L (there and back), taking time 2L/vₓ — so the rate of
+momentum transfer (force) from this one particle is 2mvₓ ÷ (2L/vₓ) =
+mvₓ²/L.
+3. Summing over all N particles in the container, the total force on the
+wall is (m/L)Σvₓ² = (Nm/L)⟨vₓ²⟩, where ⟨vₓ²⟩ is the mean square velocity
+component in the x-direction.
+4. Because the particles move randomly in three dimensions, ⟨c²⟩ =
+⟨vₓ²⟩ + ⟨vy²⟩ + ⟨vz²⟩ = 3⟨vₓ²⟩, so ⟨vₓ²⟩ = ⟨c²⟩/3.
+5. Pressure is force per unit area, and the wall has area L², so
+p = F/L² = (Nm/L³)⟨vₓ²⟩ = (Nm/L³) × ⟨c²⟩/3. Since L³ is the volume V of
+the container, this rearranges to the **kinetic theory equation**:
 
 ```
 pV = (1/3) Nm⟨c²⟩
 ```
 
 where N is the number of particles, m is the mass of one particle, and
-⟨c²⟩ is the mean square speed of the particles. The **root-mean-square
-speed**, cᵣₘₛ = √⟨c²⟩, is used rather than the mean speed or mean velocity,
-because particles move randomly in all directions, so the mean velocity is
-zero and averaging speeds directly is less useful than averaging their
-squares.
+⟨c²⟩ is the mean square speed of the particles.
+
+The **root-mean-square speed**, cᵣₘₛ = √⟨c²⟩, is used rather than the mean
+speed or the mean velocity. The mean **velocity** is zero, because
+velocity is a vector and the particles move randomly in all directions, so
+positive and negative components cancel — this is precisely why step 4
+above squares the velocities before averaging them. The mean **speed**,
+by contrast, is not zero (speed is always positive), but working directly
+with a mean of speeds, rather than a mean of squared speeds, does not lead
+to the pV = (1/3)Nm⟨c²⟩ result, so cᵣₘₛ is the quantity that emerges
+naturally from the derivation, not merely a convenient substitute.
 
 ## Linking kinetic theory to temperature
 
@@ -154,6 +205,12 @@ internal energy is entirely kinetic:
 U = (3/2) n R T        (for a monatomic ideal gas)
 ```
 
+*This internal-energy expression is not itself a named recall equation in
+the 9702 specification or data booklet — it follows directly from summing
+the per-molecule kinetic energy E = (3/2)kT (which is on the syllabus) over
+N = nNₐ molecules. If a question needs it, expect it to be derived from
+that per-molecule relation rather than simply quoted.*
+
 Internal energy therefore depends **only on temperature**, which is why an
 isothermal process (constant T) has ΔU = 0, whatever happens to pressure or
 volume.
@@ -175,7 +232,9 @@ are related by N = nNₐ but appear in different versions of the gas equations.
 
 - One mole = Nₐ particles, Nₐ = 6.02 × 10²³ mol⁻¹
 - pV = nRT, with T always in kelvin
-- pV = (1/3)Nm⟨c²⟩, and why cᵣₘₛ rather than mean speed is used
+- pV = NkT, and k = R/Nₐ, the Boltzmann constant
+- Deriving pV = (1/3)Nm⟨c²⟩ from the momentum change of particles colliding with a wall
+- Why cᵣₘₛ, not mean speed, is used — mean *velocity* is zero because directions are random
 - Average molecular kinetic energy ∝ thermodynamic temperature
 
 ## Related resources

@@ -128,6 +128,14 @@ another, so more force is needed to deform the structure. This is why brass
 is harder than pure copper, and stainless steel is harder and more
 corrosion-resistant than pure iron.
 
+**Identifying alloys from structure diagrams.** In a diagram of a pure
+metal, all the circles (atoms) are drawn the **same size**, arranged in
+regular, ordered rows. In a diagram of an alloy, you should see circles of
+**at least two different sizes** mixed together, with the regular layered
+arrangement visibly disrupted — that mismatch in atom size, drawn
+explicitly, is what marks a diagram as showing an alloy rather than a pure
+metal.
+
 **Uses of alloys** follow the same property-then-use logic as pure metals:
 stainless steel is used for cutlery specifically because it combines
 hardness with resistance to rusting — a combination pure iron doesn't offer.
@@ -223,7 +231,7 @@ carbon anodes need replacing
 
 - [Metal Properties and Reactivity](/resources/metal-properties-and-reactivity/) — properties and the reactivity series behind these uses and extraction methods
 - [Redox Reactions](/resources/redox-reactions/) — reduction, applied here to extracting iron and aluminium
-- [Electrolysis and Fuel Cells](/resources/electrolysis-and-fuel-cells/) — the electrolysis process used to extract aluminium
+- [Electrolysis and Fuel Cells](/resources/electrolysis-and-fuel-cells/) — the general principles of electrolysis that the aluminium extraction cell on this page applies
 - [Cambridge IGCSE Chemistry hub](/boards/cambridge/igcse/chemistry/) · [Cambridge O Level Chemistry hub](/boards/cambridge/o-level/chemistry/)
 
 *Written against Cambridge IGCSE Chemistry 0620 and Cambridge O Level Chemistry 5070,

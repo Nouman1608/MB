@@ -1,5 +1,5 @@
 ---
-title: "Pressure and Density: Practice Questions"
+title: "Pressure: Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]
@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "motion-forces-and-energy"
     subtopic: "pressure"
-description: "Original exam-style practice questions with full worked answers on pressure, density, hydraulic systems, gas laws and manometers."
+description: "Original exam-style practice questions with full worked answers on pressure, liquid pressure, atmospheric pressure and barometers, with a background hydraulics extension."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -40,7 +40,7 @@ Related: [Pressure revision notes](/resources/pressure-revision-notes/)
 **(a)** Calculate the pressure it exerts on the ground. **[3]**
 **(b)** The block is stood on a smaller face measuring 0.20 m × 0.15 m. Calculate the new pressure and explain the change. **[3]**
 
-**4.** Explain, in terms of particles, why a gas exerts pressure, and why the pressure rises when the volume is reduced at constant temperature. **[4]**
+**4.** *(Cross-topic — the particle explanation of gas pressure is a thermal physics/kinetic theory outcome, not part of this pressure subtopic.)* Explain, in terms of particles, why a gas exerts pressure, and why the pressure rises when the volume is reduced at constant temperature. **[4]**
 
 **5.** A diver descends to 25 m in water of density 1030 kg m⁻³. Take g = 9.81 N kg⁻².
 
@@ -48,7 +48,7 @@ Related: [Pressure revision notes](/resources/pressure-revision-notes/)
 **(b)** Calculate the total pressure, taking atmospheric pressure as 101 000 Pa. **[1]**
 **(c)** Explain why the pressure does not depend on the surface area of the diver. **[2]**
 
-**6.** In a hydraulic braking system, a force of 40 N is applied to a piston of area 0.0004 m².
+**6.** *(Background, not examinable — hydraulic systems and transmission of pressure are beyond the O Level Physics 5054 pressure specification.)* In a hydraulic braking system, a force of 40 N is applied to a piston of area 0.0004 m².
 
 **(a)** Calculate the pressure in the fluid. **[2]**
 **(b)** The output piston has an area of 0.0060 m². Calculate the output force. **[3]**

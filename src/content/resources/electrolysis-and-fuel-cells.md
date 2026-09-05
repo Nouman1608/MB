@@ -75,6 +75,9 @@ copper(II) sulfate, both with inert carbon and with copper electrodes (4.1)
 compound in dilute or concentrated aqueous solution (4.1)
 - Constructing ionic half-equations for the anode (oxidation) and cathode
 (reduction) (4.1)
+- Describing electrolysis in terms of the **transfer of charge** — the
+movement of ions through the solution or melt, and of electrons through
+the metal conductors and external circuit, to the electrodes (4.1)
 - Describing the advantages and disadvantages of hydrogen–oxygen fuel cells
 compared with petrol engines in vehicles (4.2)
 
@@ -101,6 +104,17 @@ positive ions (cations) move to the cathode, negative ions (anions) move to
 the anode. At each electrode, ions gain or lose electrons — this is a redox
 process (Topic 6.4): reduction (gain of electrons) at the cathode, oxidation
 (loss of electrons) at the anode.
+
+**Charge is transferred all the way round the circuit, not just inside the
+electrolyte.** Inside the electrolyte, charge is carried by the **movement
+of ions**. Outside the cell, in the wires, electrodes and power supply that
+make up the **external circuit**, charge is instead carried by the
+**movement of electrons** — electrons flow from the power supply to the
+cathode (where they are given to cations, reducing them) and from the
+anode back to the power supply (having been taken from anions there,
+oxidising them). The complete picture is: ions carry charge through the
+electrolyte, electrons carry charge through the external circuit, and the
+two meet at the electrodes.
 
 **The general pattern for products:**
 
@@ -136,9 +150,10 @@ sulfate deposits copper metal at the cathode, while electrolysing aqueous
 sodium chloride produces hydrogen gas — sodium is far more reactive than
 hydrogen and stays in solution.
 
-**At the anode:** the halide ion is discharged in preference to hydroxide
-(so concentrated aqueous sodium chloride gives chlorine gas); if no halide is
-present, oxygen forms from hydroxide/water instead.
+**At the anode:** a halide ion is discharged in preference to hydroxide only
+from a **concentrated** halide solution (so concentrated aqueous sodium
+chloride gives chlorine gas); from a **dilute** halide solution, or wherever
+no halide is present at all, **oxygen** forms from hydroxide/water instead.
 
 **Worked example.** Predict the products of electrolysing concentrated
 aqueous sodium chloride with inert electrodes.
@@ -157,6 +172,27 @@ deposits at the cathode and oxygen forms at the anode; with **copper
 electrodes**, copper still deposits at the cathode, but the copper anode
 dissolves instead of oxygen being released — this is the basis of
 electroplating and of purifying copper.
+
+**Worked example.** Predict the products of electrolysing dilute sulfuric
+acid with inert electrodes.
+
+```
+dilute H2SO4 contains: H⁺, SO4²⁻, plus H⁺ and OH⁻ from water
+
+at the cathode: H⁺ is discharged → hydrogen gas
+                2H⁺ + 2e⁻ → H2
+
+at the anode: no halide is present, so OH⁻/water is discharged → oxygen gas
+              4OH⁻ → O2 + 2H2O + 4e⁻
+```
+
+Hydrogen and oxygen are collected in the ratio **2 : 1 by volume**
+(hydrogen : oxygen), matching the formula of water. Confirm each gas with
+the standard test: hydrogen gives a **squeaky pop** with a lit splint;
+oxygen **relights a glowing splint**. The sulfate ion, SO₄²⁻, is not
+discharged at all — it, like the sulfuric acid's hydrogen ion, simply makes
+the solution a better conductor, and its concentration in solution actually
+increases slowly as electrolysis proceeds.
 
 ## Electroplating
 
@@ -187,7 +223,9 @@ needs freely-moving ions — molten or dissolved, never solid.
 - **Assuming the most reactive ion is always discharged.** It's the
 opposite: at the cathode, the *least* reactive species (closest to/below
 hydrogen) is discharged first; at the anode, halide ions are discharged
-before hydroxide.
+before hydroxide, but **only from a concentrated halide solution** — a
+dilute halide solution gives oxygen instead, just as if no halide were
+present.
 - **Mixing up anode and cathode.** Anode = positive = oxidation
 (**A**node, **O**xidation — both vowels; **C**athode, **R**eduction — both
 consonants, if that helps you remember).

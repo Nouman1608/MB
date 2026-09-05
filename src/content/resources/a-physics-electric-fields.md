@@ -66,12 +66,17 @@ Coulomb's law, recalling and using F = Qq/(4πε₀r²).
 **18.4 Electric field of a point charge** — defining electric field
 strength at a point as the force per unit positive charge acting on a small
 test charge at that point; recalling and using E = Q/(4πε₀r²) for the field
-of a point charge.
+of a point charge; recalling and using F = Eq for the force on a charge
+placed in a field; treating an isolated charged sphere, for points outside
+it, as a point charge concentrated at its centre.
 
 **18.5 Electric potential** — defining electric potential at a point as the
 work done per unit positive charge in bringing a small test charge from
-infinity to that point; recalling and using V = Q/(4πε₀r); recognising the
-analogy between the treatment of gravitational fields and electric fields.
+infinity to that point; recalling and using V = Q/(4πε₀r); deriving and
+using the electric potential energy of a pair of point charges,
+U = Qq/(4πε₀r); using the relationship between electric field strength and
+potential gradient, E = −dV/dr; recognising the analogy between the
+treatment of gravitational fields and electric fields.
 
 ## Electric fields and field lines
 
@@ -131,6 +136,22 @@ E = Q/(4πε₀r²) = (2.0 × 10⁻⁶) / (4π × 8.85 × 10⁻¹² × 0.10²)
 E ≈ 1.80 × 10⁶ N C⁻¹
 ```
 
+### Force on a charge in a field, and charged spheres
+
+Whatever field it is placed in — uniform or that of a point charge — a
+charge Q experiences a force:
+
+```
+F = EQ
+```
+
+which is simply E = F/q rearranged, and applies generally, not only to the
+point-charge case. A uniformly charged **sphere** behaves, for any point
+outside it, exactly as if all its charge were concentrated at a point at
+its centre — so E = Q/(4πε₀r²) and V = Q/(4πε₀r) can both be applied to a
+charged conducting sphere using r measured from its centre, provided the
+point considered is outside the sphere.
+
 ## Electric potential
 
 **Electric potential** V at a point is the work done per unit positive
@@ -145,6 +166,38 @@ Unlike gravitational potential, which is always negative (since gravity is
 always attractive), electric potential can be positive (around a positive
 charge) or negative (around a negative charge), directly reflecting the sign
 of the source charge.
+
+### Electric potential energy
+
+The **electric potential energy** of a pair of point charges Q and q,
+separated by distance r, is the work done bringing q from infinity to that
+separation:
+
+```
+U = Qq / (4πε₀r)
+```
+
+U is positive for like charges (work must be done against repulsion to
+bring them together) and negative for unlike charges (the field does work
+as they come together). This is directly analogous to U = Qq for electric
+potential energy compared with V = Q for potential — potential energy is
+potential multiplied by the charge placed in the field, U = qV.
+
+### Field strength as potential gradient
+
+Electric field strength is related to the **gradient of the potential
+against distance** graph:
+
+```
+E = −dV/dr
+```
+
+The negative sign shows that the field points in the direction of
+*decreasing* potential — from high to low potential — which is consistent
+with field lines pointing away from positive charge (high potential)
+toward negative charge (low potential). On a graph of V against r, the
+field strength at a point is (minus) the gradient of the tangent at that
+point.
 
 ## Comparing gravitational and electric fields
 
@@ -169,13 +222,22 @@ this formula only applies to the uniform field between parallel plates.
 - **Mixing up the direction convention for field lines** — they point in the
 direction of force on a positive test charge, away from positive charges and
 toward negative ones.
+- **Forgetting the minus sign in E = −dV/dr** — field points toward
+decreasing potential, so a positive gradient corresponds to a field
+pointing in the negative r-direction.
+- **Applying E or V formulas for a point charge to a point inside a charged
+sphere** — the point-charge treatment only holds for points outside the
+sphere.
 
 ## Quick revision checklist
 
 - Electric field lines and E = V/d for uniform fields between parallel plates
 - F = Qq/(4πε₀r²) — Coulomb's law
-- E = Q/(4πε₀r²) for the field of a point charge
+- E = Q/(4πε₀r²) for the field of a point charge, and F = Eq for the force on any charge in a field
+- A charged sphere behaves as a point charge at its centre, for points outside it
 - V = Q/(4πε₀r) for electric potential, and the gravitational-electric analogy
+- U = Qq/(4πε₀r) for the electric potential energy of a pair of point charges
+- E = −dV/dr relating field strength to the potential gradient
 
 ## Related resources
 

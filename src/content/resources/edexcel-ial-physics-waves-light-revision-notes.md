@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-waves-and-electricity"
     subtopic: "waves-and-particle-nature-of-light"
-description: "Condensed recall notes on wave properties, refraction, polarisation, interference, the photoelectric effect and energy levels for Edexcel International A Level Physics WPH12."
+description: "Condensed recall notes on wave properties, refraction, polarisation, interference, the photoelectric effect and energy levels for Edexcel International A Level Physics YPH11."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -51,11 +51,14 @@ This is the basis of optical fibres, where the cladding has a lower refractive i
 constructive:  path difference = n lambda
 destructive:   path difference = (n + 1/2) lambda
 
-double slit:   lambda = a x / D
 grating:       d sin(theta) = n lambda
 ```
 
-Fringe spacing increases with larger D or λ, and **decreases** with larger slit separation a.
+*Background — beyond the specification, not examinable (Unit 2 supplies
+only the diffraction-grating relation above, not the double-slit fringe
+relation):* for two-source (double-slit) interference, λ = ax/D, where
+fringe spacing x increases with larger slit-to-screen distance D or
+wavelength λ, and decreases with larger slit separation a.
 
 **Stationary waves** form from two waves of equal frequency and amplitude travelling in opposite directions. **Node separation is λ/2**, not λ.
 
@@ -134,7 +137,6 @@ hf = E2 - E1
 - Giving only one condition for total internal reflection.
 - Using λ instead of λ/2 for node separation.
 - Saying intense red light will eventually eject electrons.
-- Reversing the slit-separation relationship in double-slit fringes.
 - Omitting the minus sign on energy levels.
 
 ## Self-test

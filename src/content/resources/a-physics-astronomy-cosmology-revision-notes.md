@@ -48,11 +48,16 @@ Stefan-Boltzmann:  L = 4 pi r^2 sigma T^4
 Wien's law:        lambda_max T = 2.9 x 10^-3 m K
 ```
 
+*Wien's displacement law and its constant are not listed in the standard
+9702 data/formulae section — check a recent past paper or the published
+data booklet to see whether the constant is supplied in the question. If
+it is not supplied, this value should be memorised.*
+
 **Wien gives the temperature; Stefan then gives the radius.** That two-step route is the standard calculation: measure the peak wavelength, find T, then combine with luminosity to get r. Stefan's equation alone has two unknowns (r and T), so applying it before Wien's law leaves the problem unsolvable.
 
 Note `L ∝ T⁴` — a modest temperature increase produces an enormous luminosity increase, which is why hot stars are so much brighter.
 
-**Worked example.** A star has peak emission wavelength 480 nm and luminosity 4.6 × 10²⁷ W.
+**Worked example.** A star has peak emission wavelength 480 nm and luminosity 4.6 × 10²⁶ W.
 
 ```
 T = 2.9x10^-3 / (480x10^-9) = 6042 K
@@ -88,11 +93,11 @@ age = 1/H0 = 1/2.3x10^-18 = 4.35x10^17 s  (~13.8 billion years)
 
 ## The Big Bang
 
-Evidence, and the marks are for saying what each piece shows:
+The syllabus evidence point is **redshift of galaxies**, and the marks are for saying what it shows:
 
 1. **Redshift of galaxies** → the universe is expanding, so it was smaller and denser in the past.
-2. **Cosmic microwave background radiation** → the cooled remnant of the hot early universe, with a black-body spectrum corresponding to about 2.7 K.
-3. **Relative abundance of hydrogen and helium** → matches the ratio predicted by nucleosynthesis in the first minutes after the Big Bang.
+
+*Beyond the syllabus — background only, not examinable under 9702: two further pieces of evidence often quoted for the Big Bang are the cosmic microwave background radiation (the cooled remnant of the hot early universe, with a black-body spectrum corresponding to about 2.7 K) and the relative abundance of hydrogen and helium (matching the ratio predicted by nucleosynthesis in the first minutes after the Big Bang).*
 
 ## Exam traps
 
@@ -102,7 +107,7 @@ Evidence, and the marks are for saying what each piece shows:
 - Saying redshift proves Earth is at the centre of the universe.
 - Giving Big Bang evidence without saying what it demonstrates.
 - Using degrees Celsius in Wien's or Stefan's law.
-- Forgetting to square the wavelength ratio or mixing up which wavelength is observed vs laboratory in the Doppler formula.
+- Mixing up which wavelength is observed vs laboratory in the Doppler formula (Δλ = observed − laboratory, and the ratio Δλ/λ is used as-is, not squared).
 
 ## Self-test
 
@@ -110,8 +115,8 @@ Evidence, and the marks are for saying what each piece shows:
 2. What is a standard candle, and why do Type Ia supernovae qualify?
 3. In what order do you apply Wien's and Stefan's laws to find a star's radius?
 4. Why does universal redshift not place us at the centre?
-5. Give three pieces of evidence for the Big Bang and what each shows.
-6. A star has peak emission wavelength 480 nm and luminosity 4.6 × 10²⁷ W. Find its surface temperature.
+5. Give the syllabus piece of evidence for the Big Bang and what it shows. *(Extension: give two further pieces of evidence beyond the syllabus.)*
+6. A star has peak emission wavelength 480 nm and luminosity 4.6 × 10²⁶ W. Find its surface temperature.
 7. A galaxy's spectral line is observed at 660.4 nm against a laboratory value of 656.3 nm. Find its recession velocity.
 
-**Answers:** 1. Luminosity is the total power radiated by the star; radiant flux is the power received per unit area at the observer. 2. An object of known luminosity, so measuring its flux gives its distance; Type Ia supernovae explode at a fixed critical mass and so have a consistent peak luminosity. 3. Wien's law first, using peak wavelength to find temperature; then Stefan's law with the luminosity to find the radius. 4. Space itself is expanding, so every observer everywhere sees all other galaxies receding, with the same distance–velocity relationship. 5. Galactic redshift shows the universe is expanding; the cosmic microwave background is the cooled remnant of a hot dense early state; the hydrogen-to-helium abundance ratio matches Big Bang nucleosynthesis predictions. 6. T = 2.9×10⁻³ ÷ (480×10⁻⁹) = **6042 K**. 7. Δλ = 660.4 − 656.3 = 4.1 nm; v = c × (Δλ/λ) = 3.00×10⁸ × (4.1/656.3) = **1.87×10⁶ m/s**.
+**Answers:** 1. Luminosity is the total power radiated by the star; radiant flux is the power received per unit area at the observer. 2. An object of known luminosity, so measuring its flux gives its distance; Type Ia supernovae explode at a fixed critical mass and so have a consistent peak luminosity. 3. Wien's law first, using peak wavelength to find temperature; then Stefan's law with the luminosity to find the radius. 4. Space itself is expanding, so every observer everywhere sees all other galaxies receding, with the same distance–velocity relationship. 5. Galactic redshift shows the universe is expanding (the syllabus-required evidence). Extension, beyond the syllabus: the cosmic microwave background is the cooled remnant of a hot dense early state; the hydrogen-to-helium abundance ratio matches Big Bang nucleosynthesis predictions. 6. T = 2.9×10⁻³ ÷ (480×10⁻⁹) = **6042 K**. 7. Δλ = 660.4 − 656.3 = 4.1 nm; v = c × (Δλ/λ) = 3.00×10⁸ × (4.1/656.3) = **1.87×10⁶ m/s**.

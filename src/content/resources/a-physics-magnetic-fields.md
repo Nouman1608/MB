@@ -60,18 +60,25 @@ permanent magnets; representing a magnetic field by field lines.
 **20.2 Force on a current-carrying conductor** — recalling and using
 F = BIL sin θ for the force on a current-carrying conductor in a magnetic
 field; understanding how the force on a current-carrying conductor can be
-used to define magnetic flux density, and defining the tesla.
+used to define magnetic flux density, and defining the tesla; explaining
+the forces between current-carrying conductors and predicting the
+direction of these forces.
 
 **20.3 Force on a moving charge** — recalling and using F = BQv sin θ for
 the force on a charge moving in a magnetic field; understanding how the
 magnetic force can provide the centripetal force needed for the circular
-motion of charged particles in a uniform magnetic field.
+motion of charged particles in a uniform magnetic field; deriving and
+using the Hall voltage V_H = BI/(ntq), and explaining how the Hall effect
+is used in a Hall probe to measure magnetic flux density; describing the
+use of crossed (perpendicular) electric and magnetic fields in velocity
+selection.
 
 **20.4 Magnetic fields due to currents** — sketching magnetic field
 patterns due to currents in a long straight wire, a flat circular coil and a
 long solenoid; understanding that the magnetic field due to a current
 increases with current and decreases with distance from a current-carrying
-conductor.
+conductor; understanding the effect of a ferrous core on the strength of
+the magnetic field produced by a solenoid.
 
 **20.5 Electromagnetic induction** — defining magnetic flux and magnetic
 flux linkage; recalling and using Faraday's law of electromagnetic
@@ -98,6 +105,17 @@ the field. This defines magnetic flux density: the **tesla** is the flux
 density that produces a force of 1 N per metre of conductor carrying 1 A,
 perpendicular to the field.
 
+### Forces between current-carrying conductors
+
+Each current-carrying conductor produces its own magnetic field, so two
+parallel conductors each experience a force due to the other's field.
+**Two wires carrying current in the same direction attract**; **two wires
+carrying current in opposite directions repel**. The size of each force
+follows from F = BIL, with B taken as the flux density produced by one
+wire at the location of the other — so the force per unit length
+increases with both currents and decreases with the separation between
+the wires.
+
 ## Force on a moving charge
 
 A charge moving through a magnetic field also experiences a force:
@@ -120,6 +138,42 @@ it:
 F = BQv = 0.50 × 1.6 × 10⁻¹⁹ × 2.0 × 10⁶ = 1.6 × 10⁻¹³ N
 ```
 
+### The Hall effect and the Hall probe
+
+When a current-carrying slice of material (typically a semiconductor) is
+placed in a magnetic field perpendicular to the current, the magnetic
+force on the moving charge carriers pushes them sideways, building up a
+charge imbalance across the slice until the resulting electric field
+exerts an equal and opposite force on the carriers. This sideways
+potential difference is the **Hall voltage**:
+
+```
+V_H = BI / (ntq)
+```
+
+where B is the magnetic flux density, I is the current, n is the number
+density of charge carriers, t is the thickness of the slice in the
+direction of B, and q is the charge on each carrier. Because V_H is
+proportional to B for a given slice, current and carrier density, this
+effect is used in a **Hall probe**: a calibrated Hall slice whose voltage
+output gives a direct reading of magnetic flux density.
+
+### Velocity selection
+
+A **velocity selector** uses crossed (perpendicular) electric and
+magnetic fields to allow only charged particles of one particular speed
+through undeflected. The electric force (qE) and the magnetic force
+(qBv) act in opposite directions on the particle; only when these
+balance,
+
+```
+qE = qBv₀   ⟹   v₀ = E/B
+```
+
+does the particle pass through in a straight line — particles with any
+other speed experience a net sideways force and are deflected out of the
+beam.
+
 ## Magnetic fields due to currents
 
 A long straight current-carrying wire produces a field of concentric
@@ -128,6 +182,12 @@ with distance from the wire. A flat circular coil produces a field
 resembling that of a short bar magnet at its centre. A long solenoid
 produces a strong, uniform field inside it, similar to a bar magnet's field
 but concentrated and controllable via the current.
+
+Placing a **ferrous (iron) core** inside a solenoid greatly increases the
+flux density produced for the same current, because the core itself
+becomes magnetised and adds its own much stronger field to the solenoid's
+— this is the basis of an **electromagnet**, and is why relays and
+electric bells use an iron-cored coil rather than an air-cored one.
 
 ## Electromagnetic induction
 
@@ -153,12 +213,20 @@ never speed or kinetic energy.
 a coil of N turns)** — Faraday's law is stated in terms of flux linkage.
 - **Getting the direction from Lenz's law wrong** — the induced effect always
 opposes the change that caused it, never reinforces it.
+- **Mixing up the directions in the parallel-conductor force rule** — same
+directions attract, opposite directions repel; check with F = BIL and the
+right-hand/left-hand rule rather than trying to memorise it directly.
+- **Forgetting that a velocity selector only passes one speed** — any charge
+moving faster or slower than v₀ = E/B feels a net force and is deflected.
 
 ## Quick revision checklist
 
 - F = BIL sin θ, and defining the tesla from it
+- Forces between current-carrying conductors: same direction attracts, opposite repels
 - F = BQv sin θ, and how it provides centripetal force for charged particles in circular motion
-- Field patterns for a straight wire, flat coil and solenoid
+- V_H = BI/(ntq), the Hall voltage, and how a Hall probe measures B
+- Velocity selection: v₀ = E/B when the electric and magnetic forces balance
+- Field patterns for a straight wire, flat coil and solenoid, and the effect of a ferrous core
 - Faraday's law (rate of change of flux linkage) and Lenz's law (opposing direction)
 
 ## Related resources

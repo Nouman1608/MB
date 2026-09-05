@@ -98,11 +98,15 @@ g = F/m
 ```
 
 For a point mass M (or a uniform sphere, measured from outside it), this
-gives:
+can be **derived directly from Newton's law of gravitation**: the force on
+a small test mass m at distance r from M is F = GMm/r², so
 
 ```
-g = GM / r²
+g = F/m = GMm/r² ÷ m = GM/r²
 ```
+
+— the test mass cancels, leaving g = GM/r² as a property of the field
+itself (M and r), independent of whatever test mass is used to probe it.
 
 **Worked example.** The mass of the Earth is 5.97 × 10²⁴ kg and its radius is
 6.37 × 10⁶ m. The gravitational field strength at its surface:
@@ -130,7 +134,12 @@ The negative sign reflects that gravity is attractive: work must be done
 against the field to move a mass away from a large mass, so potential
 increases (becomes less negative) with distance and is zero only at infinity.
 Multiplying gravitational potential by a mass m gives the gravitational
-potential energy of that mass at that point, E = mϕ.
+potential energy of that mass at that point, E = mϕ, which written out in
+full — the form given on the data/formula sheet — is:
+
+```
+E_p = -GMm / r
+```
 
 ## Orbits
 
@@ -148,9 +157,9 @@ The orbiting mass m **cancels** from both sides, so orbital speed and period dep
 
 A **geostationary orbit** requires three conditions together: a period of exactly 24 hours, orbiting west to east, and directly above the Equator, at a radius of about 42 000 km from Earth's centre. All three are needed for the satellite to stay fixed above the same point on the ground as the Earth turns beneath it — giving only one of them is a common way to lose marks.
 
-## Escape velocity
+## Escape velocity (beyond the syllabus — background only, not examinable)
 
-**Escape velocity** is the minimum launch speed at which an object's total energy — kinetic plus gravitational potential — just reaches zero, allowing it to reach infinity with no speed left over:
+Escape velocity is not part of the Cambridge 9702 Gravitational Fields content; it is included here only as an extension of the energy ideas above. **Escape velocity** is the minimum launch speed at which an object's total energy — kinetic plus gravitational potential — just reaches zero, allowing it to reach infinity with no speed left over:
 
 ```
 1/2 m v^2 = GMm/r     ->     v_esc = sqrt(2GM/r)
@@ -177,9 +186,9 @@ planets.
 
 - Gravitational field lines and the concept of a field of force
 - F = Gm₁m₂/r² for the force between point masses
-- g = GM/r² for the field strength of a point mass, and why g ≈ 9.81 m s⁻² at
+- g = GM/r² for the field strength of a point mass, derived from g = F/m and Newton's law of gravitation, and why g ≈ 9.81 m s⁻² at
 Earth's surface
-- ϕ = -GM/r for gravitational potential, and E = mϕ for potential energy
+- ϕ = -GM/r for gravitational potential, and E_p = mϕ = -GMm/r for potential energy
 
 ## Related resources
 

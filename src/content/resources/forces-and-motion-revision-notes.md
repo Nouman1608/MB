@@ -39,7 +39,7 @@ calculating anything; it is the fastest way to spot the resultant.
 |---|---|---|
 | **First** | An object stays at rest or at constant velocity unless acted on by a resultant force | Constant velocity ⇒ **zero** resultant force |
 | **Second** | Resultant force produces acceleration in its direction | `F = m a` |
-| **Third** | For every action there is an equal and opposite reaction | The pair acts on **two different objects** |
+| **Third** | If object A exerts a force on object B, then object B exerts an equal and opposite force on object A ("action and reaction") | The pair acts on **two different objects** |
 
 ## The equation
 

@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IAL Physics: Thermodynamics, Radiation and Cosmology — Practice Questions"
+title: "Edexcel IAL Physics: Thermodynamics and Astrophysics — Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]
@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "unit-5-thermodynamics-radiation-oscillations-and-cosmology"
     subtopic: "thermodynamics-edexcel"
-description: "Original exam-style practice questions with full worked answers on specific heat capacity, gas laws, internal energy, black body radiation and cosmology."
+description: "A mixed Unit 5 paper of original exam-style practice questions with full worked answers, covering sub-topic 5.3 thermodynamics (specific heat capacity, gas laws, internal energy) alongside sub-topic 5.6 astrophysics and cosmology (black body radiation, the H-R diagram and Hubble's law)."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -45,7 +45,7 @@ Related: [Thermodynamics revision notes](/resources/edexcel-ial-physics-thermody
 **4.** Explain what is meant by the internal energy of a gas, and state how it changes when an ideal gas is heated at constant volume. **[4]**
 
 **5.** A star has a surface temperature of 8500 K and a radius of 1.4 × 10⁹ m.
-(σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴; Wien constant = 2.90 × 10⁻³ m K)
+(σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴; Wien constant = 2.898 × 10⁻³ m K)
 
 **(a)** Calculate the peak wavelength of its emission. **[3]**
 **(b)** Calculate its luminosity using Stefan's law. **[3]**
@@ -61,7 +61,7 @@ Related: [Thermodynamics revision notes](/resources/edexcel-ial-physics-thermody
 
 **(a)** State what is meant by absolute zero, in terms of molecular kinetic energy. **[2]**
 
-**(b)** Use the equation to explain why doubling the absolute temperature of a fixed mass of gas does not double the average speed of its molecules. **[3]**
+**(b)** Use the equation to explain why doubling the absolute temperature of a fixed mass of gas does not double the root-mean-square speed of its molecules. **[3]**
 
 **8.** CORE PRACTICAL 14 investigates the relationship between the pressure and volume of a fixed mass of gas at constant temperature.
 
@@ -83,15 +83,15 @@ Related: [Thermodynamics revision notes](/resources/edexcel-ial-physics-thermody
 
 **4.** The internal energy is the **sum of the randomly distributed kinetic and potential energies of all the molecules** in the body [1] [1]. For an **ideal gas the potential energy is taken as zero**, since there are no intermolecular forces [1]; heating at constant volume does no work, so **all the energy supplied increases the kinetic energy of the molecules and therefore the temperature** [1].
 
-**5. (a)** λ_max = 2.90 × 10⁻³ ÷ 8500 [1] [1] = **3.4 × 10⁻⁷ m** (340 nm, ultraviolet) [1].
+**5. (a)** λ_max = 2.898 × 10⁻³ ÷ 8500 [1] [1] = **3.4 × 10⁻⁷ m** (340 nm, ultraviolet) [1].
 **(b)** A = 4πr² = 4π(1.4 × 10⁹)² = 2.46 × 10¹⁹ m² [1]; L = σAT⁴ = 5.67 × 10⁻⁸ × 2.46 × 10¹⁹ × 8500⁴ [1] = **7.3 × 10²⁷ W** [1].
 **(c)** The H–R diagram plots **luminosity (or absolute magnitude) against surface temperature**, with temperature increasing to the left [1]. A star's position on it identifies whether it is a **main sequence star, a giant, a supergiant or a white dwarf** [1], and therefore its **stage of evolution and its mass** relative to the Sun [1].
 
 **6.** The **observed wavelength of a known spectral line is longer than the laboratory value** [1]; the fractional shift gives the recession velocity from **z = Δλ/λ = v/c** for non-relativistic speeds [1]. **Hubble's law** states that **v = H₀d** [1] — a galaxy's recession velocity is directly proportional to its distance, which is the principal evidence for an expanding universe [1].
 
-**7. (a)** Absolute zero is the temperature at which molecules have the **minimum possible kinetic energy** [2].
+**7. (a)** Absolute zero is the temperature at which molecules have the **minimum possible kinetic energy** [1], so that **no further energy can be removed from the substance** — its internal energy is at a minimum [1].
 
-**(b)** Since ½mc̄² = (3/2)kT, the **mean kinetic energy** (and hence c̄²) is **proportional to T** [1], so the mean square speed doubles when T doubles — but c̄, the speed itself, is proportional to **√T**, not T [1]. Doubling T therefore increases the average speed by a factor of only **√2**, not 2 [1].
+**(b)** Since ½mc̄² = (3/2)kT, the **mean kinetic energy** (and hence c̄²) is **proportional to T** [1], so the mean square speed doubles when T doubles — but c̄, the **root-mean-square speed**, is proportional to **√T**, not T [1]. Doubling T therefore increases the root-mean-square speed by a factor of only **√2**, not 2 [1].
 
 **8. (a)** At constant temperature, the **pressure of a fixed mass of gas is inversely proportional to its volume** (pV = constant) [2].
 

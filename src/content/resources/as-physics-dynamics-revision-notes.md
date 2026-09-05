@@ -39,7 +39,7 @@ Condensed for the final weeks. For the full explanation, use the
 F = delta-p / delta-t      which reduces to  F = ma  only when mass is constant
 ```
 
-**Stating the second law as F = ma is incomplete.** The momentum form is the general one, and it is required for problems involving changing mass, such as a rocket burning fuel or sand falling onto a conveyor. Acceleration and resultant force always act in the **same direction** — a useful check when resolving forces in more than one dimension.
+**Stating the second law as F = ma is incomplete.** The momentum form is the general one, and it is required for problems involving changing mass, such as sand falling onto a conveyor. **Caution with a rocket burning fuel:** naively differentiating F = Δ(mv)/Δt using only the rocket's own changing mass and velocity is a common mistake, because it omits the momentum carried away by the ejected exhaust gas — the thrust actually depends on the rate at which mass is ejected and the exhaust's velocity relative to the rocket, found by applying conservation of momentum to the rocket-plus-exhaust system, not by differentiating the rocket's momentum alone. Acceleration and resultant force always act in the **same direction** — a useful check when resolving forces in more than one dimension.
 
 **Third law** — for every force there is an equal and opposite force. The pair must act on **two different bodies** and be of the **same type**. Weight and normal contact force on a book are *not* a third-law pair — they act on the same body.
 

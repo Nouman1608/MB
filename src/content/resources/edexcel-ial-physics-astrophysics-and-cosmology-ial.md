@@ -31,7 +31,9 @@ specification.
 
 This topic follows sub-topics 5.3-5.5, and draws on Unit 4's electric
 field content (sub-topic 4.4) for comparison with gravitational fields,
-and on Unit 2's wave content (sub-topic 2.3) for the Doppler effect.
+and on Unit 2's wave content (sub-topic 2.3) for the underlying concepts
+of frequency, wavelength and wave speed — the Doppler effect itself is
+new material, introduced here in sub-topic 5.6.
 
 ## Syllabus coverage
 
