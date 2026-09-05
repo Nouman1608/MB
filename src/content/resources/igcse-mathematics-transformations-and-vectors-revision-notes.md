@@ -87,7 +87,7 @@ Triangle OAB, OA = a, OB = b, M is the midpoint of AB.
 OM = OA + (1/2)AB = a + (1/2)(b - a) = (1/2)a + (1/2)b
 ```
 
-**Collinear points** (points on the same straight line) always give a vector between any two of them that is a **scalar multiple of a single vector** -- if a "final" simplified route still contains both given vectors in a form that will not reduce to one, that is a sign of an earlier arithmetic error.
+**Collinear points** (points on the same straight line): to prove three points are collinear, find two displacement vectors sharing a common point (for example AM and AB) and show that one is a **scalar multiple of the other**. Their common direction can itself be a combination of both given vectors -- for the midpoint example above, AM = (1/2)b − (1/2)a and AB = b − a, and AM = (1/2)AB even though both still contain a and b. Seeing both given vectors in a simplified route is not itself evidence of an arithmetic error; the test is whether the two compared vectors are proportional.
 
 **Parallel vectors** work on the same principle as collinear points: two vectors are parallel exactly when one is a scalar multiple of the other, regardless of where either one is positioned in the plane. This is why "show that PQ is parallel to RS" questions are answered by reducing both vectors to their simplest form and checking one is a number times the other, not by any visual or coordinate-plotting argument.
 

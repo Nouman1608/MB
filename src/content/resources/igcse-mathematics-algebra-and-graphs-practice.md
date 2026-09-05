@@ -30,7 +30,7 @@ Related: [Algebra and Graphs revision notes](/resources/igcse-mathematics-algebr
 
 **1.** Expand and simplify (x + 5)(x − 3). **[2]**
 
-**2.** Factorise completely: 6x² − 24. **[2]**
+**2.** *(Extended)* Factorise completely: 6x² − 24. **[2]**
 
 **3.** Solve the equation 5x + 4 = 2x + 19. **[2]**
 
@@ -38,9 +38,9 @@ Related: [Algebra and Graphs revision notes](/resources/igcse-mathematics-algebr
 2x + y = 11
 x − y = 1 **[3]**
 
-**5.** Solve x² − 5x + 6 = 0 by factorisation. **[3]**
+**5.** *(Extended)* Solve x² − 5x + 6 = 0 by factorisation. **[3]**
 
-**6.** Make *r* the subject of the formula A = πr². **[2]**
+**6.** *(Extended)* Make *r* the subject of the formula A = πr². **[2]**
 
 **7.** Solve the inequality 3x + 2 < 17, and show your answer on a number line. **[2]**
 

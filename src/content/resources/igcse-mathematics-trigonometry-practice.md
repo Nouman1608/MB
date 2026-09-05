@@ -90,7 +90,7 @@ Related: [Trigonometry revision notes](/resources/igcse-mathematics-trigonometry
 
 - Applying Pythagoras' theorem to the wrong pair of sides — the hypotenuse is always the longest side and is always opposite the right angle.
 - Mixing up which side is opposite, adjacent and hypotenuse relative to the *marked* angle, especially when the triangle is drawn in an unfamiliar orientation.
-- Giving an "exact value" as a rounded decimal (e.g. 0.5 instead of ½, or a decimal approximation instead of a surd) when the question specifically asks for it.
+- Giving an "exact value" as a rounded decimal approximation instead of a surd (e.g. writing 1.414 instead of √2) when the question specifically asks for it. This does not apply to a terminating decimal that equals the exact value precisely -- 0.5 is exactly equal to ½, not a rounding of it, so either form is acceptable unless the question specifically demands fraction notation.
 - Using the sine rule when the triangle doesn't have a matching angle–side pair available, when the cosine rule is needed instead (and vice versa).
 - In 3D problems, trying to use a 2D right-angled triangle directly on the solid without first finding the correct 2D "base diagonal" or cross-section to work in.
 - Leaving the calculator in the wrong angle mode (degrees vs radians), which silently produces a plausible-looking but wrong answer.

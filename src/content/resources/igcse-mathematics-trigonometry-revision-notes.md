@@ -64,7 +64,7 @@ Relative to the **marked angle**, not a fixed position on the page -- the opposi
 | cos | 1 | sqrt(3)/2 | sqrt(2)/2 | 1/2 | 0 |
 | tan | 0 | sqrt(3)/3 | 1 | sqrt(3) | undefined |
 
-An "exact value" answer must be given as a fraction or surd, not a rounded decimal -- 0.5 is not an acceptable substitute for 1/2 when a question specifically asks for an exact value.
+An "exact value" answer must not be a rounded decimal approximation of an irrational value -- writing 0.707 instead of √2/2 loses accuracy and is not acceptable. This is different from a terminating decimal that equals the exact value precisely: 0.5 is exactly equal to 1/2 (not a rounding of it), so it is an acceptable exact answer for sin 30 degrees unless the question specifically demands fraction notation.
 
 ## Trigonometric functions and their graphs
 
@@ -109,7 +109,7 @@ Keeping an intermediate length in exact (surd) form, rather than rounding it ear
 
 - Applying Pythagoras to the wrong pair of sides, forgetting the hypotenuse is always opposite the right angle.
 - Mixing up which side is opposite, adjacent and hypotenuse relative to the marked angle in an unfamiliar orientation.
-- Giving an exact-value answer as a rounded decimal instead of a fraction or surd.
+- Giving an exact-value answer as a rounded decimal approximation of an irrational surd value (e.g. 1.73 instead of sqrt(3)) -- a genuinely exact terminating decimal such as 0.5 for 1/2 is not this error.
 - Using the sine rule when the cosine rule is needed (or the reverse), because the given information doesn't match a sine-rule angle-side pair.
 - In a 3D problem, applying a 2D triangle directly to the solid without first identifying the correct base diagonal or cross-section.
 - Rounding an intermediate length before the final trigonometric step, which compounds into an inaccurate final answer.

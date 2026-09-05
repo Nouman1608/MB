@@ -94,7 +94,7 @@ Related: [Transformations and Vectors revision notes](/resources/igcse-mathemati
 
 ## Examiner report insight
 
-- When three points are known to be collinear (on a straight line), the vector between two of them must simplify to a scalar multiple of a **single** given vector -- if both given vectors are still present in a "final" answer, that is a sign of an arithmetic slip earlier in the route.
+- To show three points are collinear, compare the two relevant displacement vectors (for example the route between the first and second point, and the route between the first and third) and show one is a **scalar multiple of the other** -- their shared direction can itself be a combination of both given vectors (for example b − a), so seeing both given vectors in the simplified answer is not by itself a sign of an error; what matters is that the two compared vectors are proportional.
 - Vector direction matters: the vector from M to N is the negative of the vector from N to M -- check carefully which one a question actually asks for, especially after working out a route in the opposite direction.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 21, 23 (verified 2026-09-02).*

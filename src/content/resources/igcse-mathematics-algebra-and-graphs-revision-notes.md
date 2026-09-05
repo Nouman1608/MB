@@ -27,7 +27,7 @@ Condensed for the final weeks. For the full explanation, use the
 |---|---|
 | Expanding | (a + b)(c + d) = ac + ad + bc + bd; (a + b)² = a² + 2ab + b² — **not** a² + b² |
 | Factorising: common factor | Take out the highest common factor first, always |
-| Factorising: difference of squares | a² − b² = (a + b)(a − b) |
+| Factorising: difference of squares *(Extended)* | a² − b² = (a + b)(a − b) |
 | Factorising: quadratic trinomial | x² + (p+q)x + pq = (x + p)(x + q) |
 | Indices | aᵐ × aⁿ = aᵐ⁺ⁿ; aᵐ ÷ aⁿ = aᵐ⁻ⁿ; a⁰ = 1; a⁻ⁿ = 1/aⁿ; a^(1/n) = ⁿ√a |
 | Algebraic fractions *(Extended)* | Find a common denominator before adding/subtracting, same as with numbers |
@@ -36,10 +36,10 @@ Condensed for the final weeks. For the full explanation, use the
 
 - **Linear:** collect terms, then isolate the unknown — do the same operation to both sides.
 - **Simultaneous (linear):** eliminate one variable by substitution or by adding/subtracting scaled equations.
-- **Quadratic — three methods, in order of preference:**
+- **Quadratic (Extended) — three methods, in order of preference:** solving a quadratic equation by any method is Extended-only content.
   1. **Factorise** first if it looks clean: x² + (p+q)x + pq = 0 → (x+p)(x+q) = 0 → x = −p or x = −q.
-  2. **Quadratic formula** *(Extended)*: x = (−b ± √(b² − 4ac)) / 2a, for ax² + bx + c = 0.
-  3. **Completing the square** *(Extended)*: rewrite as a(x + h)² + k, useful for finding a turning point as well as solving.
+  2. **Quadratic formula**: x = (−b ± √(b² − 4ac)) / 2a, for ax² + bx + c = 0.
+  3. **Completing the square**: rewrite as a(x + h)² + k, useful for finding a turning point as well as solving.
 - **Changing the subject:** treat the formula like an equation — whatever you do to isolate the new subject, do to both sides, in the same order you'd solve an equation for it.
 - **Simultaneous linear + quadratic** *(Extended)*: substitute the linear equation into the quadratic one, then solve the resulting quadratic.
 
@@ -55,9 +55,9 @@ Condensed for the final weeks. For the full explanation, use the
 |---|---|---|
 | Constant 1st difference | Linear | an + b |
 | Constant 2nd difference | Quadratic *(Extended)* | an² + bn + c |
-| Roughly constant ratio between 2nd differences | Cubic *(Extended, simple cases)* | — |
+| Constant, nonzero 3rd difference | Cubic *(Extended, simple cases)* | an³ + bn² + cn + d |
 
-**Method:** write out the sequence, then the differences between consecutive terms, then (if needed) the differences of those differences, to identify the type before finding the nth term.
+**Method:** write out the sequence, then the differences between consecutive terms, then the differences of those (2nd differences), then — if the 2nd differences are still changing — the differences of *those* (3rd differences), to identify the type before finding the nth term. A cubic sequence is identified by a constant 3rd difference, not by a roughly constant ratio between 2nd differences; for n³, for example, the 2nd differences are 12, 18, 24, ... (a changing ratio) while the 3rd differences are a constant 6.
 
 ## Graphs
 
@@ -65,7 +65,7 @@ Condensed for the final weeks. For the full explanation, use the
 - **Travel graphs:** gradient of a distance–time graph = speed; a flat section = stationary; a negative gradient = returning toward the start.
 - **Reading vs sketching — keep separate:**
   - *Reading* a given graph: use the axes and scale as drawn to find gradients, intercepts, or approximate solutions where the graph crosses a line.
-  - *Sketching* (C2.13): show only the general shape and key features (intercepts, turning point, direction) — no need for a table of values or exact scale.
+  - *Sketching* (Core C2.11, linear/quadratic): show only the general shape and key features (intercepts, symmetry, direction) — no need for a table of values or exact scale. (Extended E2.11 adds cubic, reciprocal and exponential shapes, and requires turning points and asymptotes too.)
 - **Quadratic graph shape:** a positive x² coefficient gives a U-shape (minimum); a negative x² coefficient gives an n-shape (maximum).
 
 ## Extended-only: proportion, differentiation, functions
@@ -91,7 +91,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Self-test
 
-1. Factorise x² − 49.
+1. *(Extended)* Factorise x² − 49.
 2. Solve 3x − 7 = 11.
 3. Solve 4 − 2x ≥ 10, and represent it on a number line.
 4. The first four terms of a sequence are 5, 8, 11, 14. Find the nth term.

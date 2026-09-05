@@ -38,7 +38,7 @@ for worked exam-style application.
 P(event) = number of favourable outcomes / total number of possible outcomes
 ```
 
-Probability is always between 0 (impossible) and 1 (certain), and can be given as a fraction, decimal or percentage. The probabilities of all possible outcomes of a single event **sum to 1**, so P(not A) = 1 - P(A).
+This counting rule only applies when every possible outcome is **equally likely** (a fair coin or dice, or an object drawn at random from a bag) — for a biased coin or an event where outcomes have different probabilities, count-based favourable-over-total does not give the right answer, and the probability instead has to come from the stated or measured probabilities of the individual outcomes, or from a relative-frequency estimate based on repeated trials. Probability is always between 0 (impossible) and 1 (certain), and can be given as a fraction, decimal or percentage. The probabilities of all possible outcomes of a single event **sum to 1**, so P(not A) = 1 - P(A).
 
 ## Relative and expected frequency
 

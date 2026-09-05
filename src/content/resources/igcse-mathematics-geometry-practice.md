@@ -126,7 +126,7 @@ Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revisio
 
 - Applying the general quadrilateral angle sum (360 degrees) to a cyclic quadrilateral instead of the specific rule that opposite angles sum to 180 degrees -- check whether all four vertices lie on a circle before choosing which rule applies.
 - Using the alternate segment theorem without first justifying every angle relied on -- a common error assumes a triangle in the figure is isosceles, or that two lines are parallel, without that being given.
-- Assuming a kite has two lines of symmetry like a rhombus -- a (non-rhombus) kite has exactly **one** line of symmetry, along the diagonal that bisects the pair of equal angles.
+- Assuming a kite has two lines of symmetry like a rhombus -- a (non-rhombus) kite has exactly **one** line of symmetry, along the diagonal joining the two vertices where each pair of equal adjacent sides meets. That diagonal bisects the (generally unequal) angles at those two vertices; the kite's one pair of equal angles sits at the *other* two vertices, off the axis, each the mirror image of the other rather than bisected by it.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 13, 21, 23 (verified 2026-09-02).*
 

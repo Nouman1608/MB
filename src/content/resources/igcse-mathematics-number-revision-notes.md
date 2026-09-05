@@ -90,13 +90,13 @@ Rationalise a single-term denominator by multiplying top and bottom by the surd;
 
 **BIDMAS/PENDMAS** — brackets, indices, division and multiplication (left to right), addition and subtraction (left to right). The common trap is working strictly left to right regardless of operation: `28 - 8 / 2` means `28 - (8 / 2) = 24`, **not** `(28 - 8) / 2 = 10`.
 
-**Compound units** such as speed, density and population density must have **both** parts converted, not just one:
+**Compound units** such as speed, density and population density: convert **each component whose unit actually differs** from the requested output, not automatically every component. Converting km/h to m/s changes both parts, since both the distance unit (km to m) and the time unit (h to s) change:
 
 ```
 72 km/h to m/s:  72 000 m / 3600 s = 20 m/s
 ```
 
-Converting only the distance unit or only the time unit is the standard error — both halves of a compound unit change together.
+But converting km/h to **m/h** changes only the distance unit (the time unit, hours, is unchanged), and converting kg/m³ to **g/m³** changes only the mass unit (the volume unit, m³, is unchanged). Check each half of the compound unit separately against what the question asks for, rather than assuming both halves always need to change.
 
 ## Bounds
 

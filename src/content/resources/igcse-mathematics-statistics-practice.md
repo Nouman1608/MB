@@ -107,7 +107,7 @@ featured: false
 - Confusing mode (most frequent value) with median (middle value) and mean (average) — all three are asked for separately and are rarely equal.
 - In a pie chart question, using the angle as if it were the answer itself, rather than converting the angle to a fraction of 360° first.
 - Describing correlation as "one causes the other" — correlation only describes a pattern in the data, not a cause-and-effect relationship.
-- On a histogram, plotting frequency directly on the y-axis instead of frequency density (frequency ÷ class width) — this only matters, and only makes histograms different from bar charts, when the class widths are unequal.
+- On a histogram, plotting frequency directly on the y-axis instead of frequency density (frequency ÷ class width) — a histogram's vertical axis is frequency density whether or not the class widths happen to be equal, which is what makes a histogram meaningfully different from a categorical bar chart. The distinction becomes especially important, and the two axes give visibly different-shaped bars, once the class widths are unequal.
 
 ## Examiner report insight
 

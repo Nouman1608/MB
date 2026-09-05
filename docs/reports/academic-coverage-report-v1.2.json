@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:02:10.343Z",
+  "generatedAt": "2026-09-05T08:12:45.774Z",
   "rowCount": 160,
   "rows": [
     {
@@ -235,7 +235,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 18077,
+      "totalQualifyingWordCount": 18935,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
