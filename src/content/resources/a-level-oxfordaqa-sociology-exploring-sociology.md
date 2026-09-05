@@ -145,6 +145,11 @@ become available, given the qualification's recent launch.
 - Revise Units 1 and 2 together before the International AS
 assessment, since both are examined at the end of that stage.
 
+## Related resources
+
+- [Exploring Sociology revision notes](/resources/oxfordaqa-a-level-sociology-exploring-sociology-revision-notes/)
+- [Exploring Sociology practice questions](/resources/oxfordaqa-a-level-sociology-exploring-sociology-practice/)
+
 ## Official syllabus
 
 OxfordAQA International A-level Sociology switching guide (official

@@ -120,3 +120,8 @@ theoretical argument entirely from scratch.
 5. What are the two sub-topics of Unit 2?
 
 **Answers:** 1. Formal: fines or legal action against parents; informal: disapproval from family or peers. 2. Because these methods produce quantifiable, comparable data, consistent with modelling sociology on the natural sciences to reveal broad patterns across large populations. 3. Combining quantitative and qualitative methods to offset each one's individual weaknesses — it shows awareness that neither tradition alone captures both pattern and meaning. 4. Because Unit 2 is assessed at the end of the same International AS as Unit 1, and strong answers apply Unit 1's family studies as worked examples of Unit 2's methodological issues. 5. Socialisation and Social Control (2.1), and Research Methods and Theory (2.2).
+
+## Related resources
+
+- [Exploring Sociology study guide](/resources/a-level-oxfordaqa-sociology-exploring-sociology/)
+- [Exploring Sociology practice questions](/resources/oxfordaqa-a-level-sociology-exploring-sociology-practice/)
