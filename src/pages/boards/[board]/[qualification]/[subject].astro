@@ -315,25 +315,44 @@ if (primaryAssessment) {
     })
     .join('; ');
   const modelPhrase = primaryAssessment.assessmentModel ? ` It is a ${primaryAssessment.assessmentModel.replace('-', ' ')} qualification.` : '';
+  /**
+   * D-132 fix: when no record is `current` (a combination modeled only via
+   * a `future` or `legacy-teach-out` record -- 4 combinations as of this
+   * fix), `primaryAssessment` above falls back to `assessments[0]`, which
+   * is NOT the specification current students follow. Previously this FAQ
+   * answer, and the JSON-LD FAQPage entry generated from it, stated that
+   * record's structure as if it were simply "how this subject is
+   * assessed" with no caveat -- contradicting the correctly-caveated
+   * visible banner elsewhere on the same page (see the `specStatus ===
+   * 'future'` render below). This caveat keeps the FAQ (both the visible
+   * accordion and the structured data search engines/AI answer engines
+   * read independently of surrounding page text) honest in that case.
+   */
+  const primaryStatusCaveat =
+    primaryAssessment.specStatus === 'future'
+      ? ` ${primaryAssessment.code} is an upcoming specification, first assessment ${primaryAssessment.firstAssessment} -- it is not yet the specification current students should follow.`
+      : primaryAssessment.specStatus === 'legacy-teach-out'
+        ? ` ${primaryAssessment.code} is being withdrawn${primaryAssessment.relatedCode ? ` in favour of ${primaryAssessment.relatedCode}` : ''}.`
+        : primaryAssessment.specStatus === 'withdrawn'
+          ? ` ${primaryAssessment.code} has been withdrawn and is no longer assessable.`
+          : '';
   faqs.push({
     question: `How is ${c.board} ${c.subject} (${primaryAssessment.code}) assessed?`,
-    answer: `${c.board} ${c.subject} (${primaryAssessment.code}) is assessed through: ${componentList}.${modelPhrase} Source: official ${c.board} specification, verified ${primaryAssessment.verifiedOn}.`,
+    answer: `${c.board} ${c.subject} (${primaryAssessment.code}) is assessed through: ${componentList}.${modelPhrase} Source: official ${c.board} specification, verified ${primaryAssessment.verifiedOn}.${primaryStatusCaveat}`,
   });
-  if (assessments.length > 1) {
-    const future = assessments.find((a) => a.specStatus === 'future');
-    const legacy = assessments.find((a) => a.specStatus === 'legacy-teach-out');
-    if (future) {
-      faqs.push({
-        question: `Is there a new ${c.board} ${c.subject} specification coming?`,
-        answer: `Yes. ${future.code} is an upcoming specification${future.relatedCode ? `, replacing ${future.relatedCode}` : ''}${future.firstTeaching ? `, for first teaching from ${future.firstTeaching}` : ''}. First assessment: ${future.firstAssessment}. Until then, ${primaryAssessment.code} remains the specification current students follow.`,
-      });
-    }
-    if (legacy) {
-      faqs.push({
-        question: `Is ${legacy.code} being withdrawn?`,
-        answer: `Yes. ${legacy.code} is being withdrawn${legacy.relatedCode ? ` in favour of ${legacy.relatedCode}` : ''}.${legacy.finalAssessment ? ` Final assessment opportunity: ${legacy.finalAssessment}.` : ''}`,
-      });
-    }
+  const future = assessments.find((a) => a.specStatus === 'future');
+  const legacy = assessments.find((a) => a.specStatus === 'legacy-teach-out');
+  if (future && future !== primaryAssessment) {
+    faqs.push({
+      question: `Is there a new ${c.board} ${c.subject} specification coming?`,
+      answer: `Yes. ${future.code} is an upcoming specification${future.relatedCode ? `, replacing ${future.relatedCode}` : ''}${future.firstTeaching ? `, for first teaching from ${future.firstTeaching}` : ''}. First assessment: ${future.firstAssessment}. Until then, ${primaryAssessment.code} remains the specification current students follow.`,
+    });
+  }
+  if (legacy && legacy !== primaryAssessment) {
+    faqs.push({
+      question: `Is ${legacy.code} being withdrawn?`,
+      answer: `Yes. ${legacy.code} is being withdrawn${legacy.relatedCode ? ` in favour of ${legacy.relatedCode}` : ''}.${legacy.finalAssessment ? ` Final assessment opportunity: ${legacy.finalAssessment}.` : ''}`,
+    });
   }
 }
 const faq = faqNode(faqs);
