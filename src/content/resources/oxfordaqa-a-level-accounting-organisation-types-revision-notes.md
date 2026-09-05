@@ -101,6 +101,11 @@ Incorporating as a limited company creates a distinct legal entity separate from
 
 This topic sits early in the AS course deliberately: the ownership model chosen by a business shapes how later topics -- the double entry model, verification of accounting records, and preparation of financial statements -- are actually applied, since a sole trader's accounts and a limited company's statutory accounts are prepared and presented differently. A solid grasp of the four ownership types here pays off directly once those later topics introduce structure-specific accounting treatment.
 
+## Related resources
+
+- [Types of Business Organisation study guide](/resources/a-level-oxfordaqa-accounting-types-of-business-organisation/)
+- [Types of Business Organisation practice questions](/resources/oxfordaqa-a-level-accounting-organisation-types-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification, updated February 2024 —

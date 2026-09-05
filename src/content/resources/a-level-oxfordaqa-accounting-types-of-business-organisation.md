@@ -145,6 +145,11 @@ statutory accounts are prepared and presented differently. Building a
 solid grasp of the four ownership types here pays off directly when
 those later topics introduce structure-specific accounting treatment.
 
+## Related resources
+
+- [Types of Business Organisation revision notes](/resources/oxfordaqa-a-level-accounting-organisation-types-revision-notes/)
+- [Types of Business Organisation practice questions](/resources/oxfordaqa-a-level-accounting-organisation-types-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification,
