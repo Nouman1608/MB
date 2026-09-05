@@ -139,6 +139,11 @@ issues) carries more weight in Unit 2 -- a useful signal that Unit 2
 rewards precise use of linguistic terminology at least as much as
 fluent writing style.
 
+## Related resources
+
+- [Unit 2 Language and Society revision notes](/resources/a-level-oxfordaqa-english-language-unit-2-revision-notes/)
+- [Unit 2 Language and Society practice questions](/resources/a-level-oxfordaqa-english-language-unit-2-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level English Language (9670)

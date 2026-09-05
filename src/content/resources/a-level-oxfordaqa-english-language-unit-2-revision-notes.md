@@ -145,3 +145,8 @@ matters at least as much as fluent writing style. 5. Unit 2's Section B
 is an academic essay building an argument from Section A's analysis;
 Unit 1's Section B is a transformed or creative Directed Writing task,
 not an academic essay.
+
+## Related resources
+
+- [Unit 2 Language and Society study guide](/resources/a-level-oxfordaqa-english-language-unit-2/)
+- [Unit 2 Language and Society practice questions](/resources/a-level-oxfordaqa-english-language-unit-2-practice/)
