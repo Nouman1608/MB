@@ -146,6 +146,11 @@ exam.
 - Revise Unit 1 and Unit 2 separately -- they assess different genres
 (tragedy vs place) with different text types (drama vs prose/poetry).
 
+## Related resources
+
+- [Place in Literary Texts revision notes](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts-revision-notes/)
+- [Place in Literary Texts practice questions](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-Level English Literature (9675)

@@ -110,3 +110,8 @@ search should already be done in preparation, with only quick confirmation neede
 5. Is an annotated copy of the set text permitted in the exam?
 
 **Answers:** 1. 50 marks, 50% of the International AS (20% of the full International A-level). 2. Any three of: geographical locations, setting/time period, the natural world, social identity, social class, home and homeland, language. 3. Because the exam is open book, so preparation is better spent on a flexible analytical framework than on memorising exact wording. 4. It under-uses the available marks, since strong answers are expected to range across the poet's selection rather than rely on one poem. 5. No — only a clean, unannotated copy is permitted.
+
+## Related resources
+
+- [Place in Literary Texts study guide](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts/)
+- [Place in Literary Texts practice questions](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts-practice/)
