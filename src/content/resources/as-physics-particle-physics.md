@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-particle-physics"
     subtopic: "as-fundamental-particles"
-description: "The nuclear atom, isotopes, alpha/beta/gamma radiation and radioactive decay equations, plus quarks, hadrons and leptons as fundamental particles, for Cambridge International AS & A Level Physics 9702."
+description: "The nuclear atom, isotopes, alpha/beta/gamma radiation and radioactive decay equations, plus quarks and leptons as fundamental particles and hadrons as the composite particles built from quarks, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
 reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
@@ -128,8 +128,10 @@ have a continuous range** — this distinction, and its explanation via the
 - **Miscounting nucleon number or charge when balancing a decay equation** —
 always check both totals separately.
 - **Assuming protons and neutrons are fundamental particles** — they are
-hadrons (baryons), built from quarks; only quarks and leptons are
-fundamental.
+hadrons (baryons), built from quarks. Quarks and leptons are the fundamental
+matter particles at this level; this doesn't exclude other fundamental
+particles outside the matter/hadron classification, such as the photon and
+other force-carrying (elementary boson) particles.
 
 ## Quick revision checklist
 

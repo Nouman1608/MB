@@ -86,7 +86,7 @@ Both mantissa and exponent are usually stored in **two's complement**.
 ## Character sets
 
 - **ASCII** — 7 bits, 128 characters. Extended ASCII uses 8 bits for 256.
-- **Unicode** — up to 32 bits, representing every writing system in the world.
+- **Unicode** — up to 32 bits (in a fixed-width encoding), representing a very wide range of the world's writing systems.
 
 Unicode was needed because ASCII could not represent non-Latin scripts. The cost is that Unicode text can require more storage per character, which is why UTF-8 uses a variable-length encoding that keeps ASCII characters at one byte.
 

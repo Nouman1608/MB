@@ -138,5 +138,5 @@ KE_max = 4.97 × 10⁻¹⁹ − 3.68 × 10⁻¹⁹ = **1.29 × 10⁻¹⁹ J** [1
 - Not stating the one-photon-one-electron interaction when explaining the threshold.
 - Using λ rather than f in the photoelectric equation without converting.
 - Omitting the accumulation argument when criticising the wave model.
-- In electron–positron annihilation, explaining why two photons (not one) are produced by saying only that "the particles are annihilated" — the actual reason is momentum conservation: since the total initial momentum is zero, the two photons must carry equal and opposite momentum, travelling in opposite directions.
+- In electron–positron annihilation from rest, explaining why two photons (not one) are produced by saying only that "the particles are annihilated" — the actual reason is momentum conservation: since the pair starts at rest, the total initial momentum is zero, so the two photons must carry equal and opposite momentum, travelling in opposite directions. (This specific two-photon, opposite-direction result assumes negligible initial kinetic energy; it is not a universal feature of every annihilation.)
 - Confusing the two key quantum equations — hf = φ + KE_max applies only to the photoelectric effect, while hf = E₁ − E₂ applies only to energy-level transitions inside an atom; they describe different physical situations and are not interchangeable.

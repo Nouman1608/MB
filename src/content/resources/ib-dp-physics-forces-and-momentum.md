@@ -32,9 +32,10 @@ A.2 builds directly on A.1 Kinematics: where A.1 describes motion
 without reference to its causes, A.2 introduces the forces responsible
 for that motion and extends the description to momentum, impulse and
 circular motion. It sits alongside A.3 (Work, energy and power) as the
-syllabus's core treatment of mechanics, and its content is assessed
-across the external written papers rather than through internal
-assessment. For the full five-topic picture of the syllabus, see the
+syllabus's core treatment of mechanics. This content is examinable
+across the external written papers, and can equally underpin an
+appropriate student-designed internal assessment investigation, such
+as one exploring momentum conservation or a variable-force scenario. For the full five-topic picture of the syllabus, see the
 [IB DP Physics syllabus guide](/resources/ib-dp-physics-syllabus-guide/);
 for the SUVAT and motion content that precedes this sub-topic, see the
 [Kinematics revision notes](/resources/ib-dp-physics-kinematics-revision-notes/).
@@ -97,8 +98,7 @@ an independent force is one of the most common errors at this level.
 
 ## Common mistakes
 
-Using F = ma in a situation where mass is changing (for example, a
-rocket burning fuel), instead of the more general F = Δp/Δt. Treating
+Applying F = Δp/Δt to the rocket alone as if that fixes the problem of its changing mass, without accounting for the momentum carried away by the ejected fuel. The rocket by itself is not a closed system, so its own F = ma still holds once the thrust force from the escaping exhaust is included as an external force; alternatively, take Δp/Δt for the total momentum of the closed rocket-plus-exhaust system, which requires no external force to stay constant. Treating
 "centripetal force" as an additional force acting on a body, rather
 than correctly naming the real force (gravity, tension, friction, or
 the normal force) that is producing the centripetal effect. Assuming

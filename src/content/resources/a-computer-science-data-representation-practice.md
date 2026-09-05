@@ -84,7 +84,7 @@ It would **increase the file size where there are few or no repeated runs** [1],
 
 **9.** File size = width × height × colour depth = 200 × 150 × 8 [1] = **240,000 bits** [1].
 
-**10.** Advantage: Unicode can represent **every writing system in the world**, not just Latin script [1]. Cost: Unicode text can require **more storage per character** than ASCII [1].
+**10.** Advantage: Unicode can represent **a very wide range of the world's writing systems**, not just Latin script [1]. Cost: Unicode text can require **more storage per character** than ASCII — though UTF-8, the most common Unicode encoding, keeps plain ASCII characters at one byte, so the extra storage cost applies mainly to non-ASCII characters [1].
 
 ---
 

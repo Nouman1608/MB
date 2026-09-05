@@ -123,7 +123,8 @@ Any three: **heat lost to the surroundings** [1]; **incomplete combustion** prod
 - Not converting J to kJ.
 - Giving vague improvements such as "be more careful" instead of specific ones with reasons.
 - Using the formation-data expression (products − reactants) on a question that gives combustion data instead — the two cycles subtract in opposite directions, and mixing them up flips the sign of the final answer.
-- Forgetting O₂ contributes nothing to either side of a combustion-data cycle, since it isn't itself a fuel with a combustion enthalpy — it's the products (CO₂ and H₂O) that carry the combustion values.
+- Forgetting O₂ contributes nothing to either side of a combustion-data cycle, since it isn't itself a fuel with a combustion enthalpy.
+- Assigning the supplied combustion-enthalpy values to CO₂ and H₂O — these are the shared products that every combustion route in the cycle ends at, not the substances whose combustion enthalpies were measured. The supplied ΔH_c values belong to the combustible reactants (and any combustible product) named in the target equation; CO₂ and liquid water are simply the common endpoint the cycle uses to connect them.
 - Omitting "one mole of water" from the neutralisation definition, or giving the definition of enthalpy of formation instead by mistake.
 
 Questions 6 and 7 draw on the standard enthalpy of neutralisation definition and the combustion-data Hess cycle from the [Hess's Law and Enthalpy Cycles revision notes](/resources/as-chemistry-hess-law-revision-notes/) — the formation-data direction used in question 4 is the opposite cycle, so question 7 exercises the direction question 4 doesn't reach.

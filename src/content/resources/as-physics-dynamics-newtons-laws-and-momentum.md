@@ -123,9 +123,7 @@ conserved, kinetic energy is not, confirming this is an inelastic collision.
 
 ## Common mistakes
 
-- **Applying F = ma when mass is changing** (for example, a rocket losing fuel
-mass) — the more general "force = rate of change of momentum" is needed there,
-not the simplified form.
+- **Applying "force = rate of change of momentum" to a rocket's own momentum alone and treating that as the fix for its changing mass** — this omits the momentum carried away by the ejected fuel. F = ma still applies to the rocket itself provided the thrust produced by the escaping exhaust is included as an external force; the rate-of-change-of-momentum form only avoids this issue when it is applied to the total momentum of the closed rocket-plus-exhaust system.
 - **Assuming kinetic energy is always conserved in a collision** — only true
 for elastic collisions; always check by comparing kinetic energy before and
 after if the collision type isn't stated.

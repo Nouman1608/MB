@@ -46,7 +46,8 @@ This is the organising idea for the whole sub-topic — learn it first.
 **Errors that DO unbalance the trial balance:**
 
 - **One-sided entry** — only one side of a transaction posted.
-- **Transposition (casting) error** — digits reversed (e.g. 540 recorded as 450). **Diagnostic tip:** if the imbalance divides evenly by 9, suspect a transposition error — a genuinely useful shortcut worth practising.
+- **Transposition error** — digits reversed (e.g. 540 recorded as 450). **Diagnostic tip:** if the imbalance divides evenly by 9, suspect a transposition error — a genuinely useful shortcut worth practising.
+- **Casting error** — a mistake made when adding up a column of figures (for example in a ledger account or the trial balance itself), giving the wrong total. Unlike transposition, this is an addition error rather than a digit-swap, and whether it unbalances the trial balance depends on which total was mis-added.
 
 ## Journal entries and the suspense account
 

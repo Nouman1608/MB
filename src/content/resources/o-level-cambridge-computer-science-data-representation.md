@@ -88,7 +88,7 @@ A **logical shift** left multiplies by two, a shift right divides by two. Bits s
 
 ## Text, sound and images
 
-**Text** is stored using character sets. ASCII uses 7 bits for 128 characters, extended ASCII 8 bits for 256, and **Unicode** uses more bits to represent every writing system — the trade-off being larger file sizes.
+**Text** is stored using character sets. ASCII uses 7 bits for 128 characters, extended ASCII 8 bits for 256, and **Unicode** covers a very wide range of the world's writing systems — a fixed-width Unicode encoding uses more bits per character than ASCII, though UTF-8 (the most common Unicode encoding) keeps plain ASCII characters at one byte.
 
 **Sound** is captured by sampling the analogue wave. **Sample rate** is how many samples per second, **sample resolution** is the number of bits per sample. Raising either improves accuracy and increases file size.
 

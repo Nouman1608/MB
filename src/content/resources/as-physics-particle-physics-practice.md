@@ -75,7 +75,7 @@ p  ->  n + e+ + neutrino(e)
 
 **(b)** State whether this can occur for a free proton, and explain. **[2]**
 
-**7.** An electron and a positron annihilate.
+**7.** An electron and a positron, both initially at rest (negligible kinetic energy), annihilate.
 
 **(a)** State how many photons are produced and why. **[2]**
 
@@ -137,7 +137,7 @@ Lepton number: 0 → 0 + (−1) + (+1) = 0 ✓ [1].
 **(b)** **No** [1]. Although all the conservation laws are satisfied, the **neutron is more massive than the proton**, so the decay would require an input of energy and cannot occur spontaneously for a free proton [1].
 *It does occur for protons bound within a nucleus, where the surrounding binding energy supplies the difference.*
 
-**7. (a)** **Two** photons [1], travelling in **opposite directions** to conserve momentum — the initial total momentum is zero, so a single photon would violate conservation [1].
+**7. (a)** **Two** photons [1], travelling in **opposite directions** to conserve momentum — since both particles start at rest, the initial total momentum is zero, so a single photon (which would carry away nonzero momentum) would violate conservation [1]. This two-photon result assumes annihilation from rest; a fast-moving pair need not produce exactly two photons travelling in exactly opposite directions.
 
 **(b)** Total energy = 2m_ec² = 2 × 9.11 × 10⁻³¹ × (3.00 × 10⁸)² = 1.64 × 10⁻¹³ J [1].
 Each photon = 1.64 × 10⁻¹³ ÷ 2 = **8.20 × 10⁻¹⁴ J** (≈ 0.511 MeV) [1].

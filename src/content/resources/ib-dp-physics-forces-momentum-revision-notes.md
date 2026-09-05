@@ -36,7 +36,7 @@ p = mv                 (linear momentum)
 J = F(delta t)          (impulse = force x time)
 ```
 
-Momentum is **conserved** unless a resultant external force acts. Impulse **equals** the resulting change in momentum. F = Δp/Δt is the more general form of Newton's second law — use it whenever mass is changing (e.g. a rocket burning fuel), not F = ma.
+Momentum is **conserved** unless a resultant external force acts. Impulse **equals** the resulting change in momentum. For a rocket burning fuel, F = ma still applies to the rocket alone provided the thrust from the ejected exhaust is included as an external force; applying Δp/Δt to the rocket's own momentum without accounting for the exhaust's momentum is not a valid shortcut. The general open-system form (F_ext = Δp/Δt for a fixed collection of matter, or a momentum-flux balance for an open system such as the rocket) is only needed when the exhaust's momentum is tracked explicitly.
 
 ## Collisions
 

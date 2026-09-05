@@ -108,7 +108,7 @@ Strangeness is conserved in strong and electromagnetic interactions but **may ch
 
 ## Antiparticles
 
-Same mass, **opposite charge and opposite quantum numbers**. Annihilation of a particle and its antiparticle produces **two photons travelling in opposite directions**, as required by conservation of momentum.
+Same mass, **opposite charge and opposite quantum numbers**. When a particle and its antiparticle annihilate **from rest (negligible initial kinetic energy)**, the two-photon channel produces **two photons travelling in opposite directions**, as required by conservation of momentum — the initial total momentum is zero, so the photons' momenta must cancel.
 
 ## Exam traps
 

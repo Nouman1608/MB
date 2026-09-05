@@ -58,7 +58,7 @@ Bits shifted out are lost, so shifting can lose data — which is why repeated s
 ## Character sets
 
 **ASCII** — 7 bits, 128 characters; extended ASCII uses 8 bits for 256.
-**Unicode** — up to 32 bits, covering every writing system.
+**Unicode** — up to 32 bits in a fixed-width encoding, covering a very wide range of the world's writing systems.
 
 **Unicode was needed because ASCII could not represent non-Latin scripts** such as Arabic, Chinese or Urdu. The trade-off is that Unicode text can require more storage per character.
 
@@ -134,4 +134,4 @@ file size = sample rate x bit depth x duration
 6. Convert denary 205 to hexadecimal, showing the binary intermediate step.
 7. An image is 800 × 600 pixels with a colour depth of 24 bits. Calculate its file size in megabytes.
 
-**Answers:** 1. It is far more compact and each hex digit corresponds to exactly four binary digits, making conversion straightforward and reducing human error. 2. When the result of a calculation requires more bits than the register can hold, so the stored value is incorrect. 3. ASCII could not represent non-Latin writing systems, so a larger character set was needed to cover all the world's scripts. 4. Image: width × height × colour depth. Sound: sample rate × bit depth × duration. 5. On noisy or photographic data with few repeated adjacent values, where it can produce a file larger than the original. 6. 205 = 11001101 in binary, split into nibbles 1100 (C) and 1101 (D), giving CD in hexadecimal. 7. 800 × 600 × 24 = 11,520,000 bits ÷ 8 = 1,440,000 bytes ÷ 1024 = 1406.25 KB ÷ 1024 ≈ 1.37 MB.
+**Answers:** 1. It is far more compact and each hex digit corresponds to exactly four binary digits, making conversion straightforward and reducing human error. 2. When the result of a calculation requires more bits than the register can hold, so the stored value is incorrect. 3. ASCII could not represent non-Latin writing systems, so a larger character set was needed to cover a very wide range of the world's scripts. 4. Image: width × height × colour depth. Sound: sample rate × bit depth × duration. 5. On noisy or photographic data with few repeated adjacent values, where it can produce a file larger than the original. 6. 205 = 11001101 in binary, split into nibbles 1100 (C) and 1101 (D), giving CD in hexadecimal. 7. 800 × 600 × 24 = 11,520,000 bits ÷ 8 = 1,440,000 bytes ÷ 1024 = 1406.25 KB ÷ 1024 ≈ 1.37 MB.

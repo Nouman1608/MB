@@ -50,9 +50,9 @@ Hex is used because it is compact and readable for humans: MAC addresses, IPv6, 
 |---|---|---|
 | ASCII | 7 | 128 |
 | Extended ASCII | 8 | 256 |
-| Unicode | 16+ | Every writing system |
+| Unicode | 16+ | Very wide range of writing systems |
 
-Unicode supports all languages but produces **larger file sizes**.
+Unicode supports a very wide range of languages and scripts but can produce **larger file sizes** than ASCII, though UTF-8 keeps ASCII characters at a single byte.
 
 ## File size formulas
 
@@ -147,4 +147,4 @@ seeing.
 6. Represent −19 in 8-bit two's complement.
 7. Why does RLE compress a simple icon well but a photograph poorly?
 
-**Answers:** 1. 10101110 → nibbles 1010 1110 → **AE**. 2. 1024×768×24 = 18,874,368 bits ÷ 8 = 2,359,296 bytes ÷ 1024 = 2304 KB ÷ 1024 = **2.25 MB**. 3. The result of a calculation requires more bits than the register can hold, so the most significant bit is lost. 4. ASCII cannot represent non-Latin scripts; Unicode covers every writing system. 5. Lossless — any discarded data would corrupt values and formulas. 6. Write 19 as 00010011, flip every bit to get 11101100, then add 1 to get **11101101**. 7. An icon typically has long runs of identical pixel values that RLE can replace with a single value-and-count pair, while a photograph's colours vary almost pixel to pixel, giving very few long runs to compress.
+**Answers:** 1. 10101110 → nibbles 1010 1110 → **AE**. 2. 1024×768×24 = 18,874,368 bits ÷ 8 = 2,359,296 bytes ÷ 1024 = 2304 KB ÷ 1024 = **2.25 MB**. 3. The result of a calculation requires more bits than the register can hold, so the most significant bit is lost. 4. ASCII cannot represent non-Latin scripts; Unicode covers a very wide range of the world's writing systems. 5. Lossless — any discarded data would corrupt values and formulas. 6. Write 19 as 00010011, flip every bit to get 11101100, then add 1 to get **11101101**. 7. An icon typically has long runs of identical pixel values that RLE can replace with a single value-and-count pair, while a photograph's colours vary almost pixel to pixel, giving very few long runs to compress.
