@@ -58,7 +58,7 @@ ahead of first teaching.
 ## Official syllabus
 
 OxfordAQA International GCSE History (9245) specification PDF —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/08/oxfordaqa-international-gcse-history-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/02/oxfordaqa-international-gcse-history-specification.pdf).
 
 ## What a depth study requires
 

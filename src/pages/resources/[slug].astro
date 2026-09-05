@@ -57,7 +57,7 @@ const qualificationNames = d.qualifications.map((slug) => qualificationBySlug(sl
  * combination syllabuses.ts doesn't yet carry.
  */
 const officialSyllabus = (d.boards.length === 1 && d.qualifications.length === 1)
-  ? syllabusFor(d.boards[0], d.qualifications[0], d.subject.id)
+  ? syllabusFor(d.boards[0], d.qualifications[0], d.subject.id, d.syllabusCodes)
   : undefined;
 /**
  * Flagship Dominance/Trust programme, Section 9 (2026-08-31, D-095):

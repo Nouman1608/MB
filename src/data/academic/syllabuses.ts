@@ -1302,7 +1302,17 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level Urdu is offered as two distinct specifications: First Language Urdu for candidates whose mother tongue is Urdu, and Second Language Urdu for candidates learning Urdu as an additional language.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf',
     verifiedOn: '2026-08-25',
-    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one specification or the other, not both, in the same series. Cambridge has already published a successor for 3248 covering the 2027, 2028 and 2029 series (721465-2027-2029-syllabus.pdf, Version 1) — it keeps the identical two-paper split and states there are no significant changes affecting teaching.',
+    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one specification or the other, not both, in the same series. Cambridge has already published a successor for 3248 covering the 2027, 2028 and 2029 series (721465-2027-2029-syllabus.pdf, Version 1) — it keeps the identical two-paper split and states there are no significant changes affecting teaching. This combined record\'s officialUrl links the 3247 document; resources declaring syllabusCodes ["3248"] specifically resolve instead to the dedicated 3248 record below (D-133).',
+  },
+  {
+    boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'urdu-language',
+    officialTitle: 'Cambridge O Level Second Language Urdu (3248)',
+    code: '3248',
+    boardSummary:
+      'Cambridge O Level Second Language Urdu is for candidates learning Urdu as an additional language, covering reading, writing, grammar and translation between English and Urdu.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf',
+    verifiedOn: '2026-09-05',
+    notes: 'D-133: split out from the combined 3247/3248 record so that resources declaring syllabusCodes ["3248"] link the correct 2024-2026 document for their own series, rather than the combined record\'s 3247 (First Language) URL. Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Cambridge has already published a successor for the 2027, 2028 and 2029 series (721465-2027-2029-syllabus.pdf, Version 1), which keeps the identical two-paper split and states there are no significant changes affecting teaching.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'urdu-language',
@@ -1666,5 +1676,23 @@ export const SYLLABUSES: readonly Syllabus[] = [
   },
 ] as const;
 
-export const syllabusFor = (b: string, q: string, s: string): Syllabus | undefined =>
-  SYLLABUSES.find((x) => x.boardSlug === b && x.qualificationSlug === q && x.subjectSlug === s);
+export const syllabusFor = (
+  b: string,
+  q: string,
+  s: string,
+  /** Resource's own declared syllabus code(s), to disambiguate when a board/qualification/
+   * subject combination carries more than one Syllabus record (e.g. Cambridge O Level Urdu:
+   * First Language 3247 and Second Language 3248 are two different documents but share the
+   * subject slug 'urdu-language'). When omitted, or when none of the codes match exactly, this
+   * falls back to the first record for the combination -- the same behaviour as before this
+   * parameter existed, so every existing caller that doesn't pass it is unaffected. */
+  codes?: readonly string[],
+): Syllabus | undefined => {
+  const matches = SYLLABUSES.filter((x) => x.boardSlug === b && x.qualificationSlug === q && x.subjectSlug === s);
+  if (matches.length === 0) return undefined;
+  if (codes && codes.length > 0) {
+    const exact = matches.find((x) => codes.includes(x.code));
+    if (exact) return exact;
+  }
+  return matches[0];
+};

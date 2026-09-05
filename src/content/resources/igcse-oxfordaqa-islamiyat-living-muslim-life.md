@@ -63,7 +63,7 @@ in the run-up to the exam.
 
 OxfordAQA International GCSE Islamiyat (9237) specification, Version
 1.1 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/04/G02558f-OxfordAQA-GCSE-Islamiat-spec-v1.1-WEB.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-international-gcse-islamiat-specification.pdf).
 
 ## The Five Pillars
 

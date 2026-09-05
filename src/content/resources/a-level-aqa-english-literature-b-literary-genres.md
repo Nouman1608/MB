@@ -129,4 +129,4 @@ quotation against.
 
 AQA A-Level English Literature B (7717) specification, for first
 teaching 2015 —
-[aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-literature-b-7717/specification/specification-at-a-glance).
+[aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification/specification-at-a-glance).

@@ -140,4 +140,4 @@ questions.
 
 OxfordAQA International GCSE Islamiat (9237) specification, Version
 1.1, for exams May/June 2026 onwards —
-[oxfordaqa.com/9237](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-islamiat-specification.pdf).
+[oxfordaqa.com/9237](https://www.oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-international-gcse-islamiat-specification.pdf).
