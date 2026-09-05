@@ -107,7 +107,7 @@ Step 2 (fast): XY + X → Z
 
 **(c)** 1.2 × 10⁻³ = k(0.050) [1] → k = 1.2 × 10⁻³/0.050 = **0.024 s⁻¹** [1].
 
-**6. (a)** t½ = 0.693/k = 0.693/4.62 × 10⁻³ = **150 s** [2].
+**6. (a)** t½ = 0.693/k = 0.693/(4.62 × 10⁻³) = **150 s** [2].
 
 **(b)** Successive halvings of concentration take equal time intervals [1] — a constant half-life read directly from the graph confirms first order [1].
 

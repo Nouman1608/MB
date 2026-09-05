@@ -100,13 +100,15 @@ balance.
 
 ## Fundamental particles
 
-**Quarks** are fundamental particles with six flavours: up, down, strange,
-charm, top, bottom, each with a specific fractional charge, and a
-corresponding antiquark of opposite charge. Protons and neutrons are **not**
-fundamental — each is built from three quarks (a proton: two up, one down; a
-neutron: one up, two down at this level of detail, though exact composition
-recall isn't the syllabus's main focus — the composition changes during β
-decay are).
+**Quarks** are fundamental particles with six flavours, each with a fixed
+fractional charge (in units of e): **up (u), charm (c) and top (t) each carry
++2/3**; **down (d), strange (s) and bottom (b) each carry −1/3**. Every quark
+has a corresponding **antiquark** with the opposite charge (e.g. an anti-up,
+ū, carries −2/3). Protons and neutrons are **not** fundamental — each is
+built from three quarks: a **proton is uud** (charge 2/3 + 2/3 − 1/3 = +1),
+a **neutron is udd** (charge 2/3 − 1/3 − 1/3 = 0). You are expected to
+recall both the quark charges and these explicit compositions, not just the
+composition changes during β decay.
 
 A **hadron** is any particle made of quarks: a **baryon** (three quarks, like
 a proton or neutron) or a **meson** (a quark and an antiquark). **Leptons**

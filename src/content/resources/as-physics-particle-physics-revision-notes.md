@@ -26,6 +26,14 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Particle Physics study guide](/resources/as-physics-particle-physics/).
 
+> **Syllabus note:** Cambridge 9702 (2025–2027) Topic 11 requires quarks,
+> hadrons, leptons and the quark-level description of β decay. It does not
+> name exchange bosons (gluon, photon, W/Z, graviton) or require baryon/
+> lepton/strangeness conservation checks as explicit AS outcomes. The
+> "Four fundamental forces" and "Conservation rules" sections below are
+> useful, standard extension material, not a guaranteed AS exam requirement
+> in their own right.
+
 ## The nuclear atom and radioactive decay
 
 The **alpha-particle scattering experiment** showed that an atom's mass and positive charge are concentrated in a tiny, dense **nucleus**, with electrons occupying the much larger surrounding space.

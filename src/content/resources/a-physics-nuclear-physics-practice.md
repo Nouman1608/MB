@@ -64,7 +64,7 @@ Related: [Nuclear Physics revision notes](/resources/a-physics-nuclear-physics-r
 
 **9.** A nucleus has a mass defect of 3.0 × 10⁻²⁸ kg. Calculate its binding energy in joules, using E = mc². **[2]**
 
-**10.** Explain why, in principle, the activity of a radioactive sample never reaches exactly zero, however many half-lives have passed. **[2]**
+**10.** The smooth exponential decay curve N = N₀e^(-λt) predicts that N never reaches exactly zero, however many half-lives have passed. Explain why this continuous model is only an approximation for a real, finite sample of nuclei. **[2]**
 
 ---
 
@@ -97,7 +97,7 @@ N = 4.8 × 10⁵ ÷ 1.002 × 10⁻⁶ = **4.79 × 10¹¹ nuclei** [1].
 
 **9.** E = mc² = 3.0 × 10⁻²⁸ × (3.0 × 10⁸)² [1] = **2.7 × 10⁻¹¹ J** [1].
 
-**10.** Because the number of undecayed nuclei falls **exponentially**, halving during each successive half-life [1] — this is an asymptotic decrease, not a linear one, so mathematically N (and therefore activity) approaches, but never exactly reaches, zero [1]. In practice, after enough half-lives the activity becomes indistinguishable from background radiation, but it is never mathematically exactly zero.
+**10.** The exponential formula treats N as a continuous quantity that falls asymptotically towards zero without ever mathematically reaching it [1] — but a real sample contains a **finite, whole number** of nuclei, each decaying independently and probabilistically, so eventually every last nucleus can (and, given enough time, will) actually decay, taking the real activity to exactly zero [1]. The exponential curve is an excellent model for the *expected* behaviour of a large population, but it describes an idealised continuous average, not the discrete, probabilistic reality of a small or finite number of atoms.
 
 ---
 
@@ -110,4 +110,4 @@ N = 4.8 × 10⁵ ÷ 1.002 × 10⁻⁶ = **4.79 × 10¹¹ nuclei** [1].
 - Explaining exponential decay by just citing "half-life" rather than its actual defining property — the rate of decay (or the rate of change of N) is proportional to N itself, so the same *fraction* decays in each equal time interval, however much is left.
 - Forgetting that x = x₀e^(−λt) applies equally to N, activity, or measured count rate — not just to activity.
 - Mixing up grams and kilograms when substituting mass defect into E = mc².
-- Treating radioactive decay as though it eventually stops completely at a definite time, rather than approaching zero asymptotically.
+- Treating the smooth exponential curve as literal finite-sample behaviour — a real finite sample of nuclei can and eventually will fully decay, even though the continuous exponential model it approximately follows only approaches zero asymptotically.

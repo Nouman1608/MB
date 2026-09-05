@@ -92,7 +92,7 @@ Related: [Shapes and Intermolecular Forces revision notes](/resources/as-chemist
 
 **3.** NH₃ has **one lone pair** whereas CH₄ has none [1]; the lone pair **repels more strongly than a bonding pair**, compressing the bond angle [1].
 
-**4.** Hydrogen bonded **directly to N, O or F** [1]; **a lone pair on an N, O or F** of a neighbouring molecule to accept it [1].
+**4.** Hydrogen bonded **directly to N or O** (the Cambridge 9701 assessed condition — N–H and O–H groups) [1]; **a lone pair on an N or O** of a neighbouring molecule to accept it [1]. (H–F also hydrogen bonds by the same N/O/F rule taught more broadly in chemistry, but 9701 only requires N–H/O–H examples.)
 
 **5. (a)** CO₂ is **linear and symmetrical**, so the two bond dipoles are equal and opposite and **cancel** [1]. H₂O is **bent** [1], so the dipoles **do not cancel** and there is a net dipole [1].
 

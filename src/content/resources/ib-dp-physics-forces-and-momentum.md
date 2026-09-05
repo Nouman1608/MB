@@ -111,7 +111,7 @@ equality, until the point of slipping.
 
 - Draw and correctly label free-body diagrams for one- and
 two-dimensional force scenarios.
-- Know all five named contact forces and both named field-force formulae
+- Know all six named contact forces and both named field-force formulae
 given in the syllabus.
 - Be able to switch fluently between F = ma and F = Δp/Δt, and explain
 when each form is appropriate.

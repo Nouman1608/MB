@@ -91,7 +91,7 @@ CH3COOH + C2H5OH  <=>  CH3COOC2H5 + H2O
 
 **(c)** A lower temperature would give a **higher yield** [1] but an **unacceptably slow rate** [1], so 450 °C is a **compromise between yield and rate** [1].
 
-**(d)** The yield at 1–2 atm is already about **96%** [1], so the extra yield from high pressure does not justify the **large cost of pressurised plant and energy** [1].
+**(d)** The equilibrium yield at 1–2 atm already strongly favours SO₃ under typical operating conditions [1], so the modest further conversion available from raising the pressure does not justify the **large cost of pressurised plant and energy** [1]. (Figures like "96%" appear in some sources, but the exact percentage depends on temperature, pressure and feed composition — the economic argument only needs "already strongly favours SO₃", not a specific number.)
 
 **5. (a)**
 

@@ -84,7 +84,7 @@ Related: [NMR Spectroscopy revision notes](/resources/a-chemistry-nmr-revision-n
 
 **9.** A ¹H NMR spectrum shows peak areas in the ratio 6:4:2. Explain why this does not necessarily mean the molecule has exactly 6, 4 and 2 of each type of proton. **[2]**
 
-**10.** Does shaking a sample with D₂O permanently change the molecule's structure? Explain. **[2]**
+**10.** Shaking a sample with D₂O genuinely exchanges each labile H for D in the molecules present (e.g. R–OH + D₂O ⇌ R–OD + HOD) — it isn't an illusion confined to the printed spectrum. Does this amount to a permanent change to the compound's *carbon-skeleton structure*? Explain. **[2]**
 
 ---
 
@@ -119,7 +119,7 @@ Related: [NMR Spectroscopy revision notes](/resources/a-chemistry-nmr-revision-n
 
 **9.** Peak area gives only a **ratio**, not an absolute count [1]; a 6:4:2 ratio is equally consistent with the simplest 3:2:1 ratio (or any other multiple) — the actual numbers must be fixed using the molecular formula, often from mass spectrometry [1].
 
-**10.** **No** — the D₂O exchange only removes the exchanged proton's signal from **this particular spectrum**, temporarily swapping an exchangeable proton for deuterium [1]; it is a diagnostic trick for interpretation, not a permanent chemical change to the compound itself [1].
+**10.** **No, not to the carbon skeleton** — the exchange R–OH + D₂O ⇌ R–OD + HOD is a real, reversible chemical equilibrium that does swap H for D throughout the sample, not merely something that vanishes once the spectrum is recorded [1]; but it only changes which isotope of hydrogen is attached at labile O–H/N–H positions, leaving every C–H bond and the carbon connectivity completely unchanged, and the exchange itself can run in reverse if the sample is later exposed to plenty of ordinary water [1].
 
 ---
 
@@ -133,4 +133,4 @@ Related: [NMR Spectroscopy revision notes](/resources/a-chemistry-nmr-revision-n
 - Assuming isomers with the same molecular formula must give the same number of ¹³C peaks — symmetry, not formula, determines the number of distinct environments.
 - Forgetting D₂O exchange identifies both O–H and N–H protons, not only O–H.
 - Treating a peak-area ratio as an absolute proton count rather than a scalable ratio.
-- Believing D₂O exchange permanently alters the molecule, rather than being a temporary diagnostic swap for that spectrum only.
+- Believing D₂O exchange alters the molecule's carbon-skeleton structure, rather than being a real but reversible swap of isotope at labile O–H/N–H positions only.

@@ -120,7 +120,7 @@ Related: [Geometry revision notes](/resources/igcse-mathematics-geometry-revisio
 - Using the linear scale factor instead of its square when scaling an area (or its cube when scaling a volume).
 - Confusing rotational symmetry (how many times a shape maps onto itself in one full turn) with reflective symmetry (lines of symmetry) — they are asked for separately and are not always equal.
 - Quoting a circle theorem's *name* only without applying the numbers, or vice versa — both are usually credited separately.
-- Assuming any quadrilateral inscribed in a circle is cyclic in the sense examined — only "opposite angles sum to 180°" applies, and only to quadrilaterals with all four vertices on the circle.
+- Applying the cyclic-quadrilateral rule ("opposite angles sum to 180°") to a general quadrilateral — it only holds for a **cyclic** quadrilateral, one whose four vertices all lie on a single circle; check that condition before using the rule.
 
 ## Examiner report insight
 

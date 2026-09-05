@@ -58,7 +58,7 @@ impulse = F t = delta-p   N s
 
 **Impulse is the area under a force–time graph.**
 
-This explains safety features directly: a crumple zone, airbag or crash mat **increases the time** over which the momentum change occurs, so by `F = Δp/Δt` the **force is reduced**. The momentum change itself is fixed — only the time can be altered. Answers that say the airbag "absorbs the force" score nothing.
+This explains safety features directly: a crumple zone, airbag or crash mat **increases the time** over which a given momentum change occurs, so by `F = Δp/Δt` the **average force is reduced**. For the standard exam scenario — comparing the same collision (same initial and final speeds) with and without the safety feature — the momentum change is unchanged and only the time varies; this is a simplification, since real crumple zones and airbags can also affect the rebound and final speed of the occupants, not just the collision time, but "longer time, same Δp, smaller force" is the relationship you are expected to apply. Answers that say the airbag "absorbs the force" score nothing.
 
 ## Conservation of momentum
 

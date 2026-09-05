@@ -133,15 +133,15 @@ n(Al) = 0.0373 ÷ 3 = 0.01243 mol [1].
 m = 0.01243 × 27.0 = **0.336 g** [1].
 *Forgetting to divide by 3 is the standard error here.*
 
-**8. (a)** E = E⦵ + (0.059 ÷ z) log([oxidised] ÷ [reduced]) [1]. Increasing [Cu²⁺] (the oxidised species) shifts the half-equilibrium Cu²⁺ + 2e⁻ ⇌ Cu towards **reduction**, by Le Chatelier's principle [1], making E **more positive** [1].
+**8. (a)** At 298 K, E = E⦵ + (0.059 ÷ z) log([oxidised] ÷ [reduced]) [1] — the 0.059 V constant applies specifically at 298 K, and pure solid Cu (the reduced species here) has a fixed activity of 1, so only [Cu²⁺] appears in the ratio. Increasing [Cu²⁺] (the oxidised species) shifts the half-equilibrium Cu²⁺ + 2e⁻ ⇌ Cu towards **reduction**, by Le Chatelier's principle [1], making E **more positive** [1].
 
 **(b)** The cell e.m.f. is **lower** than the standard value [1], because a below-standard [Cu²⁺] makes the copper electrode potential **less positive** than +0.34 V, reducing the difference between the two electrode potentials [1].
 
-**9. (a)** The **less reactive cation** — the one with the **more positive E⦵** — is discharged in preference [2].
+**9. (a)** The **less reactive cation** — the one with the **more positive E⦵** — is discharged in preference, though at very low concentration this simple rule can be overridden (see question 6(c)); electrode material and overpotential effects can also shift which species is actually discharged in practice [2].
 
 **(b)** In dilute sulfuric acid, the **only cation present is H⁺**, so **hydrogen** is discharged at the cathode [1]. In concentrated copper(II) sulfate, **Cu²⁺ has a more positive E⦵ than H⁺**, so **copper** is discharged instead of hydrogen [2].
 
-**(c)** **Halides are discharged in preference to hydroxide; otherwise oxygen is produced from OH⁻** [1]. In both solutions here the anion present is **sulfate**, which is not discharged in preference to hydroxide, so **oxygen** is produced at the anode in both cases [2].
+**(c)** At reasonable concentration, **Cl⁻, Br⁻ and I⁻ are discharged in preference to hydroxide; otherwise oxygen is produced from OH⁻** [1]. This rule does not extend to F⁻, which (like OH⁻ itself) is harder to oxidise than water, so fluoride solutions still produce oxygen at the anode; and, as in question 6(c), even Cl⁻ reverts to giving oxygen if the solution is dilute enough. In both solutions in this question the anion present is **sulfate**, which is never discharged in preference to hydroxide, so **oxygen** is produced at the anode in both cases [2].
 
 ---
 

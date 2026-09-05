@@ -91,7 +91,7 @@ Phase difference = 0.25 × 360 = **90°** [1].
 **5.** Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma — in order of **increasing** wavelength this is reversed: **gamma, X-ray, ultraviolet, visible, infrared, microwave, radio** [1] [1] [1].
 Uses (any three): radio — broadcasting [1]; microwave — cooking or satellite communication [1]; X-ray — medical imaging [1].
 
-**6.** Intensity is the **power per unit area** [1]. It is proportional to the **square of the amplitude** [1], and for a point source it obeys an **inverse square law with distance** [1].
+**6.** Intensity is the **power per unit area** [1]. It is proportional to the **square of the amplitude** [1], and for an **ideal isotropic point source with negligible absorption**, it obeys an **inverse square law with distance** [1].
 
 **7. (a)** The frequency heard **increases** [1]. Each successive wavefront is emitted from a position **closer to the observer** [1], so the wavefronts arrive more frequently and the observed wavelength is shortened [1].
 **(b)** The frequency heard **drops below** the source frequency [1].

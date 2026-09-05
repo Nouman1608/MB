@@ -58,7 +58,7 @@ Related: [Statistics study guide](/resources/ocr-a-level-mathematics-statistics/
 
 **2.** **Stratified sampling** [1]: the population is divided into groups (strata) — here, the four year groups — and a sample is taken from each stratum in proportion to its size in the population, then combined [1].
 
-**3.** X ~ B(8, 0.25) [1]. P(X = 2) = C(8,2) × 0.25² × 0.75⁶ [1] = 28 × 0.0625 × 0.1780 [1] = **0.3115** (4 d.p.) [1] (award full marks for equivalent unrounded working).
+**3.** X ~ B(8, 0.25) [1]. P(X = 2) = C(8,2) × 0.25² × 0.75⁶ = 28 × 0.0625 × 0.1780 [1] = **0.3115** (4 d.p.) [1] (award full marks for equivalent unrounded working).
 
 **4. (a)** σ = √16 = 4 [1]; z = (34 − 30) ÷ 4 = 1 [1]; P(X > 34) = P(Z > 1) = 1 − 0.8413 = **0.1587** [1].
 **(b)** z for 26: (26 − 30) ÷ 4 = −1 [1]; P(26 < X < 34) = P(−1 < Z < 1) = 1 − 2 × 0.1587 [1] = **0.6826** [1].

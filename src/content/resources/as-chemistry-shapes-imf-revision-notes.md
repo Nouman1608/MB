@@ -84,9 +84,9 @@ Symmetry decides it. This is the standard trap.
 |---|---|---|
 | **Induced dipole–induced dipole** (van der Waals / London) | **All** molecules | Weakest, but grows with size |
 | **Permanent dipole–permanent dipole** | Polar molecules | Intermediate |
-| **Hydrogen bonding** | H bonded to **N, O or F**, plus a lone pair on N/O/F | Strongest |
+| **Hydrogen bonding** | H bonded to **N or O** (the Cambridge 9701 assessed condition), plus a lone pair on N/O — F also qualifies scientifically but isn't a required 9701 example | Strongest |
 
-Hydrogen bonding requires **both**: hydrogen directly bonded to N, O or F, *and* a lone pair on an N, O or F of a neighbouring molecule to accept it. HCl does not hydrogen bond — chlorine is not on the list, despite being electronegative.
+Hydrogen bonding requires **both**: hydrogen directly bonded to N or O (the condition Cambridge 9701 assesses — H–F also hydrogen bonds by the same underlying rule, but 9701 only requires N–H/O–H examples), *and* a lone pair on an N or O of a neighbouring molecule to accept it. HCl does not hydrogen bond — chlorine is not electronegative enough to qualify, despite being an electronegative element.
 
 **Induced dipole forces increase with the number of electrons**, which is why boiling points rise down the alkanes and down Group 17. Branching lowers boiling point because it reduces the surface contact area.
 
@@ -125,4 +125,4 @@ The ice-density explanation must mention the **open lattice** and the **tetrahed
 4. State the two requirements for hydrogen bonding.
 5. Why is ice less dense than liquid water?
 
-**Answers:** 1. Electron pairs repel and arrange themselves as far apart as possible; lone–lone > lone–bond > bond–bond. 2. Tetrahedral 109.5°, trigonal pyramidal 107°, bent 104.5°; each lone pair repels more strongly than a bonding pair, compressing the bond angle by about 2.5°. 3. Both have polar bonds, but CO₂ is linear so the dipoles cancel, while H₂O is bent so they do not. 4. Hydrogen bonded directly to N, O or F, and a lone pair on an N, O or F of a neighbouring molecule. 5. Each molecule forms four hydrogen bonds in a tetrahedral arrangement, producing an open lattice containing holes; melting partly collapses this, so liquid water is denser.
+**Answers:** 1. Electron pairs repel and arrange themselves as far apart as possible; lone–lone > lone–bond > bond–bond. 2. Tetrahedral 109.5°, trigonal pyramidal 107°, bent 104.5°; each lone pair repels more strongly than a bonding pair, compressing the bond angle by about 2.5°. 3. Both have polar bonds, but CO₂ is linear so the dipoles cancel, while H₂O is bent so they do not. 4. Hydrogen bonded directly to N or O (the Cambridge 9701 assessed condition), and a lone pair on an N or O of a neighbouring molecule. 5. Each molecule forms four hydrogen bonds in a tetrahedral arrangement, producing an open lattice containing holes; melting partly collapses this, so liquid water is denser.

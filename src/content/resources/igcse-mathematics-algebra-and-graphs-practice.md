@@ -84,7 +84,7 @@ x − y = 1 **[3]**
 **8.** These are the square numbers: 4 = 2², 9 = 3², 16 = 4², 25 = 5², 36 = 6² [1] → **nth term = (n + 1)²** [1].
 
 **9. (a)** gradient = (10 − (−2)) / (3 − 0) = 12/3 = **4** [2].
-**(b)** c = −2 (the y-intercept, given directly) [1] → **y = 4x − 2** [1, allow follow-through from part (a)].
+**(b)** c = −2 (the y-intercept, given directly) → **y = 4x − 2** [1, allow follow-through from part (a)].
 
 **10.** a = 1, b = 3, c = −5 [1]. x = (−3 ± √(9 + 20)) / 2 = (−3 ± √29) / 2 [1] → **x = 1.19 or x = −4.19** (2 d.p.) [1].
 

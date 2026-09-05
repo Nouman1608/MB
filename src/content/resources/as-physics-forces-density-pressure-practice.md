@@ -55,7 +55,7 @@ Related: [Forces, Density and Pressure revision notes](/resources/as-physics-for
 
 **5.** Explain why a steel ship floats although steel is denser than water. **[2]**
 
-**6.** Calculate the pressure at a depth of 25 m in seawater of density 1030 kg m⁻³, and explain why the shape of the container is irrelevant. **[4]**
+**6.** Calculate the hydrostatic pressure *increase* (gauge pressure) at a depth of 25 m in seawater of density 1030 kg m⁻³, and explain why the shape of the container is irrelevant. **[4]**
 
 **7.** Describe how a **closed vector triangle** can be used to find an unknown force acting on an object in equilibrium under three coplanar forces. **[3]**
 
@@ -90,8 +90,8 @@ W = mg = 0.945 × 9.81 = **9.27 N** [1].
 
 **5.** The ship's **average density**, including the enclosed air, is **less than that of water** [1], so it displaces its own weight of water before becoming fully submerged [1].
 
-**6.** p = ρgh = 1030 × 9.81 × 25 [1] [1] = **2.53 × 10⁵ Pa** [1].
-The pressure depends only on **depth, density and g** [1] — not on the shape or total volume of the container.
+**6.** Δp = ρgh = 1030 × 9.81 × 25 [1] [1] = **2.53 × 10⁵ Pa** [1]. This is the **gauge pressure** — the increase above the pressure at the surface, not the absolute pressure (which would also include atmospheric pressure).
+The pressure increase depends only on **depth, density and g** [1] — not on the shape or total volume of the container.
 
 **7.** Draw each of the three forces as an arrow, **tip-to-tail**, in turn and to scale [1]; if the object is truly in equilibrium, the three arrows form a **closed triangle**, returning to the starting point with no gap [1]. Any unknown force's magnitude or direction can then be found by **measuring or calculating the missing side** of that triangle [1].
 

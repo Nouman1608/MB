@@ -112,6 +112,13 @@ mass 4.6 kg to 1 d.p.:   4.55 <= m < 4.65
 | **Minimum** | LB + LB | LB − **UB** | LB × LB | LB ÷ **UB** |
 
 **Subtraction and division cross over** — that single fact is most of the topic.
+The multiply and divide rows above assume **all bounds are positive**
+quantities (the normal case for measurements like length or mass) and, for
+division, that the denominator's bounds do not include or cross zero. With a
+negative range, or a denominator range that includes zero, the maximum or
+minimum can occur at a different combination of endpoints — check each
+combination directly (UB×UB, UB×LB, LB×UB, LB×LB, and similarly for
+division) rather than applying the shortcut blindly.
 
 ## Exam traps
 

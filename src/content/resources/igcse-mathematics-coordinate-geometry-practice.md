@@ -54,14 +54,14 @@ Related: [Coordinate Geometry revision notes](/resources/igcse-mathematics-coord
 
 **2.** Complete a table of values for y = 2x − 1 for x = −2, 0 and 2, and state two of the points you would plot to draw the graph. **[3]**
 
-**3.** Find the gradient of the line joining the points (1, 4) and (5, 12). **[2]**
+**3.** *(Extended)* Find the gradient of the line joining the points (1, 4) and (5, 12). **[2]**
 
 **4.** *(Extended)* A(1, 2) and B(7, 10) are two points.
 
 **(a)** Calculate the length of AB. **[2]**
 **(b)** Find the coordinates of the midpoint of AB. **[2]**
 
-**5.** Find the equation of the straight line that passes through (2, 3) and (4, 9), giving your answer in the form y = mx + c. **[3]**
+**5.** *(Extended)* Find the equation of the straight line that passes through (2, 3) and (4, 9), giving your answer in the form y = mx + c. **[3]**
 
 **6.** A line has equation y = 3x − 7.
 

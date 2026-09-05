@@ -103,6 +103,24 @@ is proportional to the square of the amplitude:
 intensity = power/area,   intensity ∝ amplitude²
 ```
 
+**Using a CRO to find frequency and amplitude.** A cathode-ray oscilloscope
+(CRO) displays a signal's voltage against time. Two settings let you read off
+the wave's frequency and amplitude directly from the trace:
+
+- The **y-gain** (in volts per division, V/div) converts the trace's vertical
+height into a voltage: amplitude = (number of divisions from the centre line
+to the peak) × (y-gain).
+- The **time-base** (in seconds — or milliseconds/microseconds — per
+division, s/div) converts the trace's horizontal spacing into a time: measure
+the number of divisions for one complete cycle, multiply by the time-base to
+get the period T, then use f = 1/T.
+
+**Worked example.** A trace shows a peak 2.5 divisions above the centre line,
+with the y-gain set to 2.0 V/div, and one complete cycle spanning 4.0
+divisions with the time-base set to 5.0 ms/div. Amplitude = 2.5 × 2.0 =
+**5.0 V**. Period T = 4.0 × 5.0 ms = 20 ms = 0.020 s, so frequency f = 1/T =
+1/0.020 = **50 Hz**.
+
 ## Transverse vs. longitudinal waves
 
 In a **transverse wave**, particle displacement is perpendicular to the
@@ -131,9 +149,23 @@ required at this level.
 ## The electromagnetic spectrum
 
 All electromagnetic waves are transverse and travel at the same speed c in
-free space. In order of increasing frequency (decreasing wavelength): radio
-waves, microwaves, infrared, visible light, ultraviolet, X-rays, γ-rays.
-Visible light spans approximately 400–700 nm.
+free space. In order of increasing frequency (decreasing wavelength), with
+their approximate wavelength ranges:
+
+| Region | Approximate wavelength range |
+|---|---|
+| Radio waves | > 0.1 m |
+| Microwaves | 1 mm – 0.1 m |
+| Infrared | 700 nm – 1 mm |
+| Visible light | 400–700 nm |
+| Ultraviolet | 10 nm – 400 nm |
+| X-rays | 10 pm – 10 nm |
+| γ-rays | < 10 pm |
+
+These ranges overlap at their boundaries and vary slightly between sources —
+learn the order and rough scale (each region is roughly 10–1000 times the
+wavelength of its neighbour) rather than exact cutoff values, which the
+syllabus does not fix precisely.
 
 ## Polarisation
 

@@ -76,11 +76,11 @@ Related: [Multi-Step Synthesis Routes revision notes](/resources/a-chemistry-syn
 **(b)** K₂Cr₂O₇/H₂SO₄ [1], heat under **reflux** [1].
 *Distil vs reflux is the single most commonly dropped mark in the whole topic.*
 
-**2.** KCN in ethanol with a halogenoalkane [1]; HCN with an aldehyde or ketone [1]; Friedel–Crafts alkylation or acylation with RCl or RCOCl and AlCl₃ [1].
+**2.** KCN in ethanol with a halogenoalkane, which adds exactly one carbon (the nitrile carbon) [1]; HCN with an aldehyde or ketone, also adding exactly one carbon [1]; Friedel–Crafts alkylation or acylation with RCl or RCOCl and AlCl₃, which adds however many carbons are in the R group chosen — not necessarily just one [1].
 
 **3.** **LiAlH₄ in dry ether** (or H₂/Ni) [1]. NaBH₄ is **not a powerful enough reducing agent** [1] — it reduces aldehydes and ketones only, not nitriles [1].
 
-**4. (a)** 1-bromopropane has **3 carbons**, butanoic acid has **4** [1]. A carbon must therefore be added, which means a **nitrile step is required** [1].
+**4. (a)** 1-bromopropane has **3 carbons**, butanoic acid has **4** [1]. A route that adds exactly one carbon is therefore needed — the **nitrile route (KCN then hydrolysis) is the standard method taught at this level** for adding a single carbon to an aliphatic chain [1].
 
 **(b)** Step 1: **KCN in ethanol, heat under reflux** [1] → butanenitrile [1].
 Step 2: **dilute HCl(aq), heat under reflux** [1] → butanoic acid [1].
@@ -95,7 +95,7 @@ Step 2: **dilute HCl(aq), heat under reflux** [1] → butanoic acid [1].
 **6.** **Aqueous** KOH gives **nucleophilic substitution** → **propan-1-ol** [1]. **Ethanolic** KOH gives **elimination** → **propene** [1]. The solvent determines whether OH⁻ acts as a nucleophile or as a base [1].
 
 **7. (a)** **Ethanoyl chloride (CH₃COCl) with an AlCl₃ catalyst** [1] — this is **Friedel–Crafts acylation** [1], an **electrophilic substitution** [1].
-**(b)** **Acidified potassium manganate(VII) (KMnO₄/H₂SO₄), heated under reflux** [1]; this oxidises the methyl side chain directly to a **–COOH group**, regardless of how long the original side chain was [1].
+**(b)** **Acidified potassium manganate(VII) (KMnO₄/H₂SO₄), heated under reflux** [1]; this oxidises any alkyl side chain with at least one **benzylic hydrogen** (a hydrogen on the carbon directly attached to the ring) all the way down to a single **–COOH group** on the ring, regardless of how long the chain was — a side chain with no benzylic hydrogen, such as the tert-butyl group in tert-butylbenzene, is not oxidised this way [1].
 
 **8. (a)** **Concentrated nitric acid with concentrated sulfuric acid** (as catalyst) [1], at a temperature of about **55 °C** [1], generating the electrophile NO₂⁺ [1].
 **(b)** Above about 55 °C, a **second nitro group is introduced (dinitration)**, giving a mixture of dinitrobenzene isomers as well as the desired mononitrobenzene, reducing the yield of the intended product [1]; keeping the temperature controlled ensures the reaction stops at a single substitution [1].

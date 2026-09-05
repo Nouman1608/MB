@@ -106,12 +106,12 @@ Setting a consistent positive direction before starting, and treating the revers
 ## Quick self-test
 
 1. State Newton's second law in its more general, momentum form.
-2. Name the five named contact forces in A.2.
+2. Name the six named contact forces in A.2.
 3. Is momentum conserved in an inelastic collision? Is kinetic energy?
 4. What determines whether a force is "the" centripetal force in a given scenario?
 5. Give the formula for centripetal acceleration in terms of angular velocity.
 
-**Answers:** 1. F = Δp/Δt. 2. Normal force, friction, tension, elastic restoring force (Hooke's law), viscous drag (plus buoyancy as a field-adjacent contact force named in the syllabus). 3. Momentum: yes, always conserved. Kinetic energy: no, only in elastic collisions. 4. Whichever named real force (tension, gravity, friction, normal force) is providing the centre-directed resultant in that specific scenario. 5. a = ω²r.
+**Answers:** 1. F = Δp/Δt. 2. Normal force, friction, tension, elastic restoring force (Hooke's law), viscous drag, and buoyancy — a contact force arising from the pressure difference a fluid exerts on the top and bottom of a submerged object, not a field force. 3. Momentum: yes, always conserved. Kinetic energy: no, only in elastic collisions. 4. Whichever named real force (tension, gravity, friction, normal force) is providing the centre-directed resultant in that specific scenario. 5. a = ω²r.
 
 ## Official syllabus
 

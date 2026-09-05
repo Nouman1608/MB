@@ -102,12 +102,12 @@ Final momentum = 0.058 × (−30) = −1.74 kg m s⁻¹ [1 for using a negative]
 Δp = −1.74 − 1.45 [1] = **−3.19 kg m s⁻¹** (magnitude 3.19) [1].
 *Treating both velocities as positive gives 0.29 — a very common error.*
 
-**(b)** F = Δp ÷ Δt = 3.19 ÷ 0.0060 [1] = **532 N** [1].
+**(b)** F = Δp ÷ Δt = −3.19 ÷ 0.0060 [1] = **−532 N** [1] (magnitude 532 N, direction opposite to the ball's initial motion, under the sign convention from part (a)).
 
-**(c)** F = 3.19 ÷ 0.0090 [1] = **354 N** [1]. The **same momentum change spread over a longer time gives a smaller force** [1].
+**(c)** F = −3.19 ÷ 0.0090 [1] = **−354 N** [1] (magnitude 354 N, same direction as part (b)). The **same momentum change spread over a longer time gives a smaller force** [1].
 
 **6.** The crumple zone **increases the time** over which the momentum change occurs [1]. Since force is the **rate of change of momentum** [1], a longer time for the same momentum change gives a **smaller force** on the occupants [1].
-*The momentum change is fixed by the collision — only the time can be altered. Answers saying the crumple zone "absorbs the force" score nothing.*
+*For the standard comparison (same collision speeds, with vs without the safety feature), the momentum change is unchanged and only the time varies — though real crumple zones can also affect the final speed itself, not just the time. Answers saying the crumple zone "absorbs the force" score nothing.*
 
 **7. (a)** As speed increases, **air resistance (drag) increases** [1], so the **resultant force decreases** [1], and since a = F/m (constant mass), the **acceleration decreases** [1].
 

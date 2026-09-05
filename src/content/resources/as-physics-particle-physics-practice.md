@@ -29,6 +29,14 @@ featured: false
 
 Related: [Particle Physics revision notes](/resources/as-physics-particle-physics-revision-notes/)
 
+> **Syllabus note:** Cambridge 9702 (2025–2027) Topic 11 outcomes cover quarks,
+> hadrons, leptons and the quark-level description of β decay, but do not name
+> exchange bosons (gluon, photon, W/Z, graviton) or require baryon/lepton/
+> strangeness conservation checks as explicit AS outcomes. Questions 3, 5(b)
+> and 6(a) below go beyond the stated AS boundary as useful extension material
+> — they build genuine physical understanding, but are not guaranteed AS exam
+> content in their own right.
+
 ---
 
 ## Section A
@@ -91,7 +99,7 @@ p  ->  n + e+ + neutrino(e)
 
 **(b)** State the two quantities that must be equal on each side of a nuclear equation, and explain why. **[2]**
 
-**9.** A sample contains a mixture of alpha and beta emitters. A detector plots the number of particles received against their kinetic energy.
+**9.** A sample contains a mixture of a beta emitter and an alpha emitter that decays via a single, dominant alpha transition. A detector plots the number of particles received against their kinetic energy.
 
 **(a)** Describe the difference in the shape of the two energy spectra. **[2]**
 
@@ -146,7 +154,7 @@ Each photon = 1.64 × 10⁻¹³ ÷ 2 = **8.20 × 10⁻¹⁴ J** (≈ 0.511 MeV) 
 
 **(b)** **Nucleon number** and **charge (proton number)** must each balance separately [1] — both mass-energy and charge are conserved quantities, so neither can be created or destroyed across the decay [1].
 
-**9. (a)** Alpha particles are emitted with a **single, discrete energy**, appearing as a sharp line on the spectrum, while beta particles show a **continuous spread** of energies up to a fixed maximum [2].
+**9. (a)** For a single alpha transition, alpha particles are emitted with a **single, discrete energy**, appearing as a sharp line on the spectrum [1]; beta particles instead show a **continuous spread** of energies up to a fixed maximum [1]. (A real source can have more than one alpha transition, or a mixture of alpha-emitting isotopes, giving several discrete lines rather than just one — but each individual transition still gives a single sharp energy, in contrast with beta's continuous spectrum.)
 
 **(b)** In alpha decay, the released energy is shared between only **two bodies** — the alpha particle and the recoiling nucleus — so conservation of energy and momentum together fix a single value for each [1]. In beta decay, the energy is shared between **three bodies** — the beta particle, the recoiling nucleus and the accompanying (anti)neutrino — in a variable proportion each time, so the beta particle can carry anywhere from close to zero up to the maximum available energy [2].
 

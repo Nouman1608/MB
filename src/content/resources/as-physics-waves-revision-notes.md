@@ -50,7 +50,7 @@ Condensed for the final weeks. For the full explanation, use the
 v = f λ            f = 1 / T
 ```
 
-**Intensity ∝ amplitude²** — doubling the amplitude quadruples the intensity. And intensity ∝ 1/r² for a point source, since the same total power is spread over the surface of an ever-larger sphere as distance from the source increases — doubling the distance from a point source cuts the intensity to a quarter, not a half.
+**Intensity ∝ amplitude²** — doubling the amplitude quadruples the intensity. And intensity ∝ 1/r² for an **ideal isotropic point source radiating equally in all directions with negligible absorption**, since the same total power is spread over the surface of an ever-larger sphere as distance from the source increases — doubling the distance from such a source cuts the intensity to a quarter, not a half. A directional source, a source near a reflecting boundary, or significant absorption in the medium can all make the real fall-off deviate from a simple inverse-square law.
 
 ## Transverse vs longitudinal
 

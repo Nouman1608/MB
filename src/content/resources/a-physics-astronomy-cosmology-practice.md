@@ -98,7 +98,7 @@ Related: [Astronomy and Cosmology revision notes](/resources/a-physics-astronomy
 
 **1. Luminosity** is the **total power radiated by the star** in all directions [1]; **radiant flux intensity** is the **power received per unit area** at the observer [1].
 
-**2.** An object of **known luminosity** [1], so that measuring its flux gives its distance via the inverse square law [1]. Type Ia supernovae detonate at a **fixed critical mass**, so they all reach the **same peak luminosity** [1].
+**2.** An object of **known (or reliably standardisable) luminosity** [1], so that measuring its flux gives its distance via the inverse square law [1]. Type Ia supernovae detonate at a **similar critical mass**, so they reach **approximately the same peak luminosity** — real supernovae show some intrinsic variation, but this can be corrected for (e.g. from how quickly the brightness declines), making them standardisable candles rather than perfectly identical ones [1].
 
 **3.** v = H₀d — recession velocity is **proportional to distance** [1]. This implies the **universe is expanding** [1], and therefore was smaller and denser in the past [1].
 
@@ -120,7 +120,7 @@ v = c × (Δλ ÷ λ) = 3.00 × 10⁸ × (4.1 ÷ 656.3) [1] = **1.87 × 10⁶ m 
 
 **6. (a)** The galaxies are **receding from us** [1], and **more distant galaxies recede faster** [1].
 
-**(b)** It is **space itself that is expanding**, not galaxies moving through space [1]. Every point expands away from every other point [1], so an observer **in any galaxy** would see exactly the same relationship between distance and recession speed [1].
+**(b)** It is **space itself that is expanding**, not galaxies moving through space [1]. On large, unbound scales, every point recedes from every other point [1] — this does not apply to gravitationally bound systems like galaxies, solar systems or galaxy clusters, which are held together and do not expand — so an observer **in any (unbound, large-scale) galaxy** would see exactly the same relationship between distance and recession speed [1].
 
 **(c)** **Cosmic microwave background radiation** [1] — the cooled remnant of radiation from the hot dense early universe, with a black-body spectrum at about 2.7 K [1].
 **Relative abundance of hydrogen and helium** [1] — the observed ratio matches that predicted by nucleosynthesis in the first minutes after the Big Bang [1].
@@ -131,7 +131,7 @@ v = c × (Δλ ÷ λ) = 3.00 × 10⁸ × (4.1 ÷ 656.3) [1] = **1.87 × 10⁶ m 
 
 **(c)** Flux depends on **both** luminosity and distance, so the same measured flux could come from a more luminous source further away or a less luminous source closer in [1]. Only when the luminosity is already known — because the object is a standard candle — can the flux equation be solved uniquely for distance [1].
 
-**8. (a)** 1/H₀ can only give an **order-of-magnitude estimate** of the age of the universe, not a precise value [1], because H₀ itself is not precisely known [1].
+**8. (a)** The few-percent-level disagreement between techniques means H₀ itself is known only to a few percent, not to an order of magnitude [1]; separately, 1/H₀ is only a rough age estimate even for a perfectly known H₀, because it assumes a constant expansion rate rather than accounting for how the expansion rate has changed over cosmic history [1].
 
 **(b)** H₀ = v ÷ d = 2.76 × 10⁶ ÷ 1.2 × 10²⁴ [1] = **2.3 × 10⁻¹⁸ s⁻¹** [1].
 

@@ -86,7 +86,7 @@ pH = **2.88** [1].
 
 **8.** Explain, using an equation, how the same ethanoic acid/sodium ethanoate buffer described in question 6 resists a change in pH when a small amount of alkali (OH⁻) is added instead. **[3]**
 
-**9.** A student dilutes a solution of a strong acid by a factor of 10. State and explain the effect on the pH. **[2]**
+**9.** A student dilutes a solution of a strong, fully-dissociated acid — starting well above neutral acidity, so that [H⁺] from the acid is much greater than the 10⁻⁷ mol dm⁻³ from water's own autoionisation — by a factor of 10. State and explain the effect on the pH. **[2]**
 
 ## Answers to additional questions
 
@@ -94,7 +94,7 @@ pH = **2.88** [1].
 
 **8.** The buffer contains a large reserve of undissociated ethanoic acid [1]. Added OH⁻ ions react with this ethanoic acid: CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O [1]. The added OH⁻ is therefore removed from solution as it is converted to water, so the pH rises only slightly [1].
 
-**9.** The pH increases by 1 [1]. Diluting a strong acid by a factor of 10 reduces [H⁺] by a factor of 10, and since pH = −log[H⁺], each tenfold decrease in [H⁺] increases the pH by exactly 1 [1].
+**9.** The pH increases by 1 [1]. Diluting a strong, fully-dissociated acid by a factor of 10 reduces [H⁺] by a factor of 10, and since pH = −log[H⁺], each tenfold decrease in [H⁺] increases the pH by exactly 1 [1]. (This exact one-unit rule assumes the acid's own [H⁺] stays much greater than the ~10⁻⁷ mol dm⁻³ contributed by water itself — for extremely dilute strong acid approaching neutral pH, water's autoionisation becomes significant and the simple rule breaks down.)
 
 ## A note on titration curves and indicator choice
 

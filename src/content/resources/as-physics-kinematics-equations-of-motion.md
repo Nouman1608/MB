@@ -71,10 +71,14 @@ velocity at that instant. A horizontal section means the object is stationary;
 a straight sloped line means constant velocity; a curve means the velocity is
 changing.
 - On a **velocity–time graph**, the **gradient** gives the acceleration, and
-the **area under the graph** gives the displacement over that time interval.
-A horizontal line means constant velocity (zero acceleration); the area of a
-triangle or trapezium under a sloped line gives the distance covered during
-acceleration.
+the **area under the graph** gives the displacement over that time interval —
+this is signed area, so a region where velocity is negative counts as negative
+displacement. A horizontal line means constant velocity (zero acceleration);
+the area of a triangle or trapezium under a sloped line gives the
+**displacement** during that acceleration. If velocity changes sign during the
+interval, total distance travelled requires adding the *magnitudes* of the
+areas above and below the time axis separately, rather than reading off a
+single signed area.
 
 Being asked to determine one quantity from the "area under" or "gradient of" a
 graph is one of the most frequently tested skills in this subtopic — practise

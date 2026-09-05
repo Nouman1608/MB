@@ -60,13 +60,13 @@ Related: [Amount of Substance revision notes](/resources/ocr-a-level-chemistry-a
 
 ## Answers
 
-**1.** **6.02 × 10²³ mol⁻¹** [1]. The mole is the amount of substance containing **as many particles as there are atoms in 12 g of carbon-12** — that is, 6.02 × 10²³ particles [1].
+**1.** **6.02 × 10²³ mol⁻¹** [1]. Since the 2018 SI redefinition, one mole is defined as the amount of substance containing **exactly 6.02214076 × 10²³ specified elementary entities** [1] — rounded to 6.02 × 10²³ for calculations at this level. (The older "as many particles as atoms in 12 g of carbon-12" definition gives the same value, but is no longer the exact defining statement.)
 
 **2.** M_r(CH₄) = 16 [1]; moles = 3.2 ÷ 16 = 0.20 mol [1]; molecules = 0.20 × 6.02 × 10²³ = **1.2 × 10²³** [1].
 
 **3. (a)** pV = nRT [1], where **p is pressure in Pa, V is volume in m³, n is moles, R is 8.31 J K⁻¹ mol⁻¹ and T is temperature in K** [1] [1].
 **(b)** p = 100 000 Pa; V = 250 × 10⁻⁶ = 2.50 × 10⁻⁴ m³ [1]. n = pV ÷ RT = (100 000 × 2.50 × 10⁻⁴) ÷ (8.31 × 298) [1] = **1.01 × 10⁻² mol** [1].
-**(c)** M_r = mass ÷ moles = 0.44 ÷ 1.01 × 10⁻² [1] = **43.6 ≈ 44** [1]; the gas is likely to be **carbon dioxide** [1].
+**(c)** M_r = mass ÷ moles = 0.44 ÷ (1.01 × 10⁻²) [1] = **43.6 ≈ 44** [1]; the gas is likely to be **carbon dioxide** [1].
 
 **4. (a)** 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O [1].
 **(b)** moles H₂SO₄ = 0.0500 × 22.40 ÷ 1000 = 1.12 × 10⁻³ [1]. Ratio NaOH : H₂SO₄ = 2 : 1, so moles NaOH = 2.24 × 10⁻³ [1] [1]. Concentration = 2.24 × 10⁻³ × 1000 ÷ 25.0 = **0.0896 mol dm⁻³** [1].

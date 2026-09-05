@@ -55,20 +55,39 @@ causes leading to war in 1914
 
 ## How to approach it
 
-As with the equivalent IGCSE syllabus, each key question is examined
-through both Paper 1 (structured questions testing causation and
-consequence) and Paper 2 (source-based document analysis), so
-revision needs to cover both factual knowledge and source evaluation
-skills. For "why" questions like 1.6, practise distinguishing
-long-term causes from short-term triggers and explaining how they
-interacted, rather than listing causes without connecting them. The
-two unification questions (1.2 and 1.3) reward comparison — why Italy
-and Germany followed different paths to unification despite similar
-starting conditions is a common higher-level exam angle. Since Paper 2
-tests source evaluation specifically, practise judging the reliability,
-usefulness and provenance of real historical sources on these topics,
-rather than relying on content knowledge alone — this is a distinct,
-separately assessed skill from the essay-style analysis Paper 1 tests.
+As with the equivalent IGCSE syllabus, Paper 1 (structured questions)
+draws on all six Option A key questions, so all six are fair game for
+Paper 1 revision. **Paper 2 (Document Questions) is different: it
+tests one question on a single prescribed topic that Cambridge sets
+for each exam series, not all six key questions.** 2147 offers Paper 2
+in the June and November series only (no March/India-only sitting, as
+IGCSE 0470 has).
+
+**Option A prescribed topics for Paper 2, 2024–2026 series** (from the
+official 2147 syllabus):
+
+| Series | Prescribed topic |
+|---|---|
+| 2024 June | What caused the First World War? |
+| 2024 November | Why, and with what effects, did nations gain and expand their overseas empires? |
+| 2025 June | How was Germany unified? |
+| 2025 November | Why was there a civil war in the United States and what were its results? |
+| 2026 June | Why was there a civil war in the United States and what were its results? |
+| 2026 November | How was Italy unified? |
+
+Always confirm your own series' prescribed topic with your teacher or
+the current syllabus before treating this table as final. For "why"
+questions like 1.6, practise distinguishing long-term causes from
+short-term triggers and explaining how they interacted, rather than
+listing causes without connecting them. The two unification questions
+(1.2 and 1.3) reward comparison — why Italy and Germany followed
+different paths to unification despite similar starting conditions is
+a common higher-level exam angle. For whichever topic is prescribed
+for your Paper 2 series, practise judging the reliability, usefulness
+and provenance of real historical sources on it specifically, rather
+than relying on content knowledge alone — this is a distinct,
+separately assessed skill from the essay-style analysis Paper 1
+tests.
 
 ## The Revolutions of 1848 in outline
 
@@ -77,19 +96,29 @@ useful way in is to understand why the revolutions failed almost as
 much as why they broke out. Their causes combined rising nationalism,
 liberal demands for written constitutions and representative
 government, economic hardship following a run of poor harvests, and
-the direct example set by the February 1848 revolution in France. They
-collapsed within a year or two everywhere they occurred because the
-revolutionary coalitions split between moderate liberals, who wanted
-constitutional reform, and more radical elements, who wanted deeper
-social change; because the property-owning middle classes withdrew
-their support once revolution began to threaten property itself;
-because the peasantry, whose grievances were mostly agrarian rather
-than political, stayed largely uninvolved; and because the conservative
-monarchies never lost control of their armies, which they eventually
-used to restore the old order. The lesson later nationalist leaders
-drew from this failure shaped the rest of the syllabus: unification in
-both Italy and Germany would be achieved through diplomacy and
-deliberate war rather than through parliamentary revolution.
+the direct example set by the February 1848 revolution in France. Most
+of the revolutions unravelled within a year or two of breaking out —
+France's Second Republic gave way to Louis Napoleon's rise well before
+1852; the Frankfurt Parliament's constitution collapsed by 1849; Vienna
+and the Austrian Empire's uprisings were suppressed by 1849 — though
+the specific mechanism varied by country rather than following one
+single script. Common recurring factors across France, the German
+states and the Austrian Empire include: revolutionary coalitions
+splitting between moderate liberals wanting constitutional reform and
+more radical elements wanting deeper social change; property-owning
+middle classes withdrawing support once revolution threatened property
+itself; peasant involvement that was often limited and driven more by
+specific agrarian grievances (such as the desire to abolish remaining
+feudal dues) than by the liberal-nationalist programme, though this
+varied by region and was not uniform non-involvement everywhere; and
+conservative monarchies that — in most (not every) case — retained
+enough loyal military force to eventually restore the old order,
+France's own outcome coming via Louis Napoleon's political rise and
+coup rather than a simple military reconquest. The lesson later
+nationalist leaders drew from this failure shaped the rest of the
+syllabus: unification in both Italy and Germany would be achieved
+through diplomacy and deliberate war rather than through parliamentary
+revolution.
 
 ## Unification compared
 

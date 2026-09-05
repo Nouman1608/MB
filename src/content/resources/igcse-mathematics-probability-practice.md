@@ -45,7 +45,7 @@ Related: [Probability revision notes](/resources/igcse-mathematics-probability-r
 **(a)** Calculate the relative frequency of heads. **[1]**
 **(b)** The coin is tossed a further 50 times. Use the relative frequency from part (a) to estimate the expected number of heads in these 50 tosses. **[2]**
 
-**3.** A bag contains 5 red counters and 3 blue counters. Two counters are taken from the bag at random, one after the other, without replacement.
+**3.** *(Extended)* A bag contains 5 red counters and 3 blue counters. Two counters are taken from the bag at random, one after the other, without replacement.
 
 **(a)** Draw and label a tree diagram to show the possible outcomes and their probabilities. **[3]**
 **(b)** Calculate the probability that both counters are red. **[2]**
@@ -66,7 +66,7 @@ Related: [Probability revision notes](/resources/igcse-mathematics-probability-r
 
 ## Answers
 
-**1.** Prime scores on a dice are 2, 3, 5 — three out of six outcomes [1]. P(prime) = 3/6 = **½** [1].
+**1.** Prime scores on a dice are 2, 3, 5 — three out of six outcomes. P(prime) = 3/6 = **½** [1].
 
 **2. (a)** Relative frequency = 118 ÷ 200 = **0.59** [1].
 **(b)** Expected heads = 0.59 × 50 [1] = **29.5** [1].
@@ -99,7 +99,7 @@ Related: [Probability revision notes](/resources/igcse-mathematics-probability-r
 - On a Venn diagram, shading the intersection (A n B) by default is a common habit -- check what the question actually asked for before shading, since the intersection is only one of many possible regions.
 - Set-notation questions built from `n(...)` (a numerical count of elements) need the actual number of elements evaluated, not just a region shaded on a diagram -- practise both skills separately.
 - Elements that belong only to the universal set -- outside every named subset -- are still part of the total and are easy to forget when completing a Venn diagram.
-- The complement of a set (A') includes **everything** outside A, including any overlap with other sets -- a common error excludes the overlap by mistake.
+- The complement A' is everything in the universal set U that is **not** in A -- this includes the part of any other set B that lies outside A (B minus the A∩B overlap) and the region outside both A and B, but it **excludes all of A**, including the A∩B overlap itself (since A∩B is part of A). A common error wrongly includes A∩B in A'.
 
 *Source: Cambridge International, 0580 Mathematics Principal Examiner Report, June 2024 series, Papers 12, 13, 21, 22, 23, 31 (verified 2026-09-02).*
 

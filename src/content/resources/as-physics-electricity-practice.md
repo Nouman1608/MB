@@ -88,7 +88,7 @@ Related: [Electricity revision notes](/resources/as-physics-electricity-revision
 **(b)** A curve that **flattens** as current increases [1]. The current heats the filament [1], increasing **lattice vibration** so electrons collide more frequently and **resistance rises** [1].
 **(c)** **Almost no current** in reverse bias or below about 0.6 V forward [1], then a **sharp rise** above that threshold [1].
 
-**6.** The current I is the **same throughout a series circuit** [1]. In the thin section the **cross-sectional area A is smaller**, so from I = nAvq the **drift velocity v must be greater** [1]. Faster-moving electrons **collide with the lattice more frequently** [1], transferring more energy per second to that section, so it heats up more [1].
+**6.** The current I is the **same throughout a series circuit** [1]. In the thin section the **cross-sectional area A is smaller**, so from I = nAvq the **drift velocity v must be greater** [1]. The thin section also has a **greater resistance** R, since R = ρL/A and A is smaller [1]; since the same current I flows through it, the power dissipated there, P = I²R, is greater than in the thicker sections, so it heats up more [1]. (The higher drift speed shows charge is moving faster through the constriction, but the heating itself is best explained by the greater I²R power dissipation from the higher local resistance, not by asserting that faster electrons directly cause more frequent lattice collisions — collision rate also depends on lattice temperature and the material, not drift speed alone.)
 
 **7. (a)** I = P ÷ V = 60 ÷ 12 [1] = **5.0 A** [1].
 **(b)** R = V ÷ I = 12 ÷ 5.0 [1] = **2.4 Ω** [1].

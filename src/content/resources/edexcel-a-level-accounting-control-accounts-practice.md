@@ -82,7 +82,7 @@ Debits correctly entered [1] [1] [1]; credits correctly entered [1]; totals agre
 
 **6.** It tells you that **an error exists somewhere affecting either the control account or the individual ledger accounts** [1] [1]. It does **not** tell you the **specific error type, its exact location, or which side (control account vs. individual accounts) is wrong** — that requires further investigation, such as re-checking postings or casting [1] [1].
 
-**7.** Original profit: **$42 000** [1]. Add the omitted sale, now recorded: **+$920** [1]. Rent posting error: **no adjustment**, since both figures were already correct and only account-side presentation was wrong, so profit is unaffected [1]. Van reclassification: **removed $480 from vehicle repairs (expense)**, so expenses fall and profit **increases by $480**; the amount instead becomes a non-current asset and does not appear in the income statement [1] [1]. Revised profit: **$42 000 + $920 + $480 = $43 400** [1].
+**7.** Original profit: **$42 000** [1]. Add the omitted sale, now recorded: **+$920** [1]. Rent posting error: **no adjustment**, since both figures were already correct and only account-side presentation was wrong, so profit is unaffected [1]. Van reclassification: **removed $480 from vehicle repairs (expense)**, so expenses fall and profit **increases by $480**; the amount instead becomes a non-current asset and does not appear in the income statement [1]. Revised profit: **$42 000 + $920 + $480 = $43 400** [1].
 
 ---
 

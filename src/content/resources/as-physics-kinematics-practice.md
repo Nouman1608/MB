@@ -84,7 +84,7 @@ s = 324 ÷ 19.62 = **16.5 m** [1].
 **(c)** Velocity = **zero** [1]; acceleration = **9.81 m s⁻² downwards** — it is unchanged [1].
 *The acceleration is not zero at the top. This is examined often.*
 
-**6. (a)** They are **perpendicular** and therefore **independent** [1]; the only quantity common to both is the **time** [1].
+**6. (a)** Assuming negligible air resistance, there is **no horizontal force**, so horizontal velocity stays constant, and **gravity acts only vertically**, giving a constant vertical acceleration g [1] independent of the horizontal motion; the two perpendicular components can therefore be treated separately, with **time** as the only quantity linking them [1]. (Being perpendicular makes the components mathematically resolvable, but it is the absence of a horizontal force and gravity's purely vertical direction — not perpendicularity alone — that makes the two motions independent.)
 **(b)** Vertical: s = ut + ½at², with u = 0 [1]
 45 = ½(9.81)t² → t² = 9.174 [1]
 t = **3.03 s** [1].
@@ -96,7 +96,7 @@ Resultant = √(12² + 29.7²) [1] = √(144 + 882) = **32.0 m s⁻¹** [1].
 
 **8.** s = ut + ½at², with u = 0: s = ½ × 9.81 × 1.5² [1] = **11.0 m** [1]. v = u + at = 0 + 9.81 × 1.5 = **14.7 m s⁻¹** [1]. Air resistance is assumed negligible throughout this calculation.
 
-**9.** Drop an object through a known, measured height and time the fall electronically, using a **light gate or a timer released by an electromagnet** [1]. Using s = ½gt² (since u = 0), rearranged to **g = 2s/t²** [1]. Repeating the drop and **averaging t** reduces the effect of random timing error [1]. Electronic timing is preferred over a hand-operated stopwatch, since human reaction time introduces a much larger, systematic source of error over such a short fall.
+**9.** Drop an object through a known, measured height and time the fall electronically, using a **light gate or a timer released by an electromagnet** [1]. Using s = ½gt² (since u = 0), rearranged to **g = 2s/t²** [1]. Repeating the drop and **averaging t** reduces the effect of random timing error [1]. Electronic timing is preferred over a hand-operated stopwatch: a person's reaction time is a much larger source of timing uncertainty over such a short fall, and it has both a consistent (roughly systematic) average delay and trial-to-trial (random) variation, whereas electronic timing removes both.
 
 ---
 

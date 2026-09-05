@@ -82,7 +82,7 @@ Related: [Nitrogen and Sulfur revision notes](/resources/as-chem-nitrogen-sulfur
 
 **(b)** A lower temperature would give a **higher equilibrium yield** because the forward reaction is exothermic [1], but the **rate would be uneconomically slow** [1], so 450 °C is a **compromise between yield and rate** [1].
 
-**(c)** The yield at 1–2 atm is already about **96%** [1], so the additional yield does not justify the **large cost of high-pressure plant and energy** [1].
+**(c)** The equilibrium yield at 1–2 atm already strongly favours SO₃ under typical operating conditions [1], so the modest further conversion available from raising the pressure does not justify the **large cost of high-pressure plant and energy** [1]. (The exact percentage depends on temperature, pressure and feed composition — the economic argument only needs "already strongly favours SO₃", not a specific figure.)
 
 **6.** A lightning strike releases an enormous amount of energy [1], far more than a car engine or ordinary atmospheric conditions supply, which is enough to overcome the very high activation energy of the N≡N and O=O bonds, driving N₂ + O₂ → 2NO directly, even though these conditions do not exist in ordinary atmospheric chemistry [1].
 

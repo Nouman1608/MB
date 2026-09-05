@@ -69,7 +69,7 @@ MnO4- + 8H+  ->  Mn2+ + 4H2O     (balance H)
 MnO4- + 8H+ + 5e-  ->  Mn2+ + 4H2O   (balance charge)
 ```
 
-Mn goes from **+7 to +2** — a five-electron change, which is why the 5e⁻ appears and why MnO₄⁻ reacts in a 1:5 ratio with many reducing agents.
+Mn goes from **+7 to +2** — a five-electron change, which is why the 5e⁻ appears in this half-equation. The overall reacting ratio between MnO₄⁻ and a given reducing agent is **not always 1:5** — that specific ratio only holds for a reducing agent that supplies exactly **one** electron per species, such as Fe²⁺ → Fe³⁺ + e⁻ (giving the familiar MnO₄⁻ : Fe²⁺ = 1 : 5). For a reducing agent that supplies a different number of electrons per species (e.g. a typical two-electron reductant), combine the two balanced half-equations — matching electrons lost to electrons gained — to find the correct overall ratio.
 
 ## Balancing by oxidation-number change (alternative method)
 

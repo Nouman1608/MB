@@ -85,6 +85,38 @@ progressive wave, a stationary wave does not transfer energy along its length.
 Adjacent nodes (or adjacent antinodes) are separated by half a wavelength, so
 measuring the distance between them lets you determine wavelength directly.
 
+**How a stationary wave forms — the graphical method.** Draw the two
+progressive waves of equal frequency and amplitude travelling in opposite
+directions at a series of time snapshots (e.g. every T/8), then add their
+displacements point by point at each snapshot. At points where the two waves
+are always exactly out of phase, the displacements cancel at every snapshot —
+these are the **nodes**. At points where the two waves are always exactly in
+phase, the displacements reinforce, swinging between a maximum positive and
+maximum negative value as time passes — these are the **antinodes**. Sketching
+even three or four snapshots (rather than just the two extreme "envelope"
+shapes) is what convinces an examiner you understand superposition is
+happening continuously, not just that you have memorised the final node/
+antinode pattern.
+
+**Demonstrating stationary waves.** Three standard apparatus set-ups appear on
+this syllabus:
+
+- **Stretched strings** — a vibration generator shakes one end of a string
+fixed at the other end (or over a pulley with a weight); at certain driving
+frequencies, the reflected wave and the outgoing wave superpose into a clear
+stationary pattern of loops (antinodes) separated by stationary points
+(nodes), visible directly on the string.
+- **Air columns** — a loudspeaker or tuning fork drives sound into a tube
+(open or closed at the far end, with end corrections neglected); at
+resonance, a stationary wave forms in the air column, with a displacement
+node always at a closed end and a displacement antinode always at an open
+end.
+- **Microwaves** — a microwave transmitter is aimed at a metal reflecting
+plate; the wave reflects back and superposes with the outgoing wave, and a
+detector/probe moved along the line between transmitter and plate registers
+a series of strong and (near-)zero signal positions, mapping out the
+antinodes and nodes directly.
+
 **Harmonics.** For a string fixed at both ends, the fundamental (lowest-frequency) mode has a node at each end and one antinode in the middle, so the string length L = λ/2, giving fundamental frequency f = v/2L. For a pipe **closed at one end**, there must be a node at the closed end (where air cannot move) and an antinode at the open end (where it moves freely), giving L = λ/4 for the fundamental — and, unlike the open string, a closed pipe supports only **odd harmonics**. Forgetting this restriction to odd harmonics for a closed pipe is a common error.
 
 ## Diffraction
@@ -94,6 +126,27 @@ around an obstacle. The effect is most noticeable when the gap width is
 comparable to the wavelength — a very wide gap relative to wavelength produces
 little noticeable spreading, while a narrow gap produces pronounced spreading,
 as demonstrated with water waves in a ripple tank.
+
+**Demonstrating two-source interference.** The same interference pattern —
+alternating regions of reinforcement and cancellation from two coherent
+sources — can be shown with several types of wave:
+
+- **Water** — two dippers vibrating in phase, driven from the same motor, on
+the surface of a ripple tank produce two overlapping sets of circular
+wavefronts; the resulting stationary pattern of enhanced and calm regions is
+visible directly on the water surface (or its shadow projected below).
+- **Sound** — two loudspeakers connected to the same signal generator (so
+they are coherent) produce a pattern of loud and quiet regions in the space
+in front of them, detectable by walking along a line parallel to the speakers
+with a microphone, or simply by ear.
+- **Light** — Young's double-slit experiment (below) uses a single
+monochromatic source shining through two narrow, closely-spaced slits to
+create two coherent secondary sources, producing bright and dark fringes on a
+screen.
+- **Microwaves** — a single microwave transmitter aimed at a pair of narrow
+gaps in a metal barrier creates two coherent secondary sources, and a
+detector probe moved across the far side registers alternating strong and
+weak signal regions, in direct analogy with the double-slit light pattern.
 
 ## Interference
 

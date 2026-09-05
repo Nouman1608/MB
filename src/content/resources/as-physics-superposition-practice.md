@@ -91,7 +91,7 @@ Related: [Superposition revision notes](/resources/as-physics-superposition-revi
 
 **2.** A **constant phase difference** [1] and the **same frequency** [1]. Without it the phase relationship varies randomly, so the pattern of maxima and minima **shifts too rapidly to be observed** [1].
 
-**3.** Progressive waves **transfer energy**, stationary waves do not [1]; progressive waves have the **same amplitude at all points**, stationary waves vary from zero at nodes to maximum at antinodes [1]; in a stationary wave **all points between adjacent nodes are in phase**, whereas phase varies continuously along a progressive wave [1].
+**3.** Progressive waves **transfer energy**, stationary waves do not [1]; for an ideal progressive wave in a uniform, non-attenuating medium, amplitude is the **same at all points**, whereas a stationary wave's amplitude varies from zero at nodes to maximum at antinodes [1] (a real progressive wave can lose amplitude to attenuation, geometric spreading or absorption as it travels — the equal-amplitude comparison assumes an idealised, undamped wave); in a stationary wave **all points between adjacent nodes are in phase**, whereas phase varies continuously along a progressive wave [1].
 
 **4.** A stationary wave forms when **two progressive waves of the same frequency and amplitude**, travelling in **opposite directions**, superpose [1] — for example a wave reflected back along a stretched string, so the incident and reflected waves overlap [1].
 
@@ -106,7 +106,7 @@ Related: [Superposition revision notes](/resources/as-physics-superposition-revi
 **(b) (i)** Fringe spacing **decreases** [1] — it is **inversely proportional** to slit separation [1].
 **(ii)** Fringe spacing **decreases** [1] — blue light has a **shorter wavelength**, and spacing is proportional to λ [1].
 
-**(c)** Interference — the production of alternating maxima and minima by superposition — is a **wave property** [1] and cannot be explained by a particle model of light [1].
+**(c)** Interference — the production of alternating maxima and minima by superposition — is a **wave property** [1] and cannot be explained by a classical, ray-like particle model of light [1] (at this level, "particle model" means the classical picture of light as simple particles travelling in straight lines; it does not refer to modern quantum theory, which does account for interference).
 
 **9.** (a) d = 1 ÷ (600 × 10³) [1] = **1.667 × 10⁻⁶ m**.
 
@@ -117,7 +117,7 @@ Related: [Superposition revision notes](/resources/as-physics-superposition-revi
 Round **down**: the highest observable order is **n = 2** [1].
 *Rounding up is a standard error — order 3 would require sin θ > 1, which is impossible.*
 
-**(d)** The maxima are **sharper and brighter**, so angles can be measured more precisely [1].
+**(d)** The maxima are **sharper/narrower**, so their angular positions can be measured more precisely [1] (brightness itself depends on the illumination, slit width and how intensity is normalised, so the robust, guaranteed advantage is sharpness of the maxima, not brightness).
 
 **10.** (a) **Nodes at both fixed ends** [1]; a single **antinode at the centre** [1].
 

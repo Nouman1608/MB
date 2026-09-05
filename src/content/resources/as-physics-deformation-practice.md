@@ -98,11 +98,11 @@ Related: [Deformation of Solids revision notes](/resources/as-physics-deformatio
 A = πr² = π × (2.1 × 10⁻⁴)² = **1.385 × 10⁻⁷ m²** [1].
 *Using the diameter instead of the radius is the standard error.*
 
-**(b)** σ = F ÷ A = 45 ÷ 1.385 × 10⁻⁷ [1] = **3.25 × 10⁸ Pa** [1].
+**(b)** σ = F ÷ A = 45 ÷ (1.385 × 10⁻⁷) [1] = **3.25 × 10⁸ Pa** [1].
 
 **(c)** ε = x ÷ L = 3.6 × 10⁻³ ÷ 2.50 [1] = **1.44 × 10⁻³** [1].
 
-**(d)** E = σ ÷ ε = 3.25 × 10⁸ ÷ 1.44 × 10⁻³ [1] = **2.26 × 10¹¹ Pa** [1].
+**(d)** E = σ ÷ ε = (3.25 × 10⁸) ÷ (1.44 × 10⁻³) [1] = **2.26 × 10¹¹ Pa** [1].
 
 **(e)** **The same, 2.26 × 10¹¹ Pa** [1], because the Young modulus is a property of the **material**, not of the specimen's dimensions [1].
 
