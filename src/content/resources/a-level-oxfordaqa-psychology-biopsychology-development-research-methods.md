@@ -144,6 +144,11 @@ stating one implication (bias or generalisability) of using it.
 - List the ethical guidelines for psychological research and be ready
 to apply them to a novel study description.
 
+## Related resources
+
+- [Biopsychology, Development and Research Methods 1 revision notes](/resources/oxfordaqa-a-level-psychology-biopsychology-development-revision-notes/)
+- [Biopsychology, Development and Research Methods 1 practice questions](/resources/oxfordaqa-a-level-psychology-biopsychology-development-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Psychology (9685) specification,

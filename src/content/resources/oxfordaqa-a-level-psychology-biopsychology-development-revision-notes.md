@@ -122,3 +122,8 @@ perform it.
 5. Name the three self-report/observation categories examined in Research Methods 1.
 
 **Answers:** 1. The somatic and autonomic nervous systems. 2. The timing of when object permanence develops in infants, via violation-of-expectation methodology. 3. Strength: can efficiently and ethically identify relationships without manipulating variables; limitation: cannot establish causation and can be affected by unmeasured third variables. 4. Support given by a more knowledgeable other, adjusted and withdrawn as the learner's competence grows, within their zone of proximal development. 5. Observation techniques, self-report techniques, and experimental/correlational methods.
+
+## Related resources
+
+- [Biopsychology, Development and Research Methods 1 study guide](/resources/a-level-oxfordaqa-psychology-biopsychology-development-research-methods/)
+- [Biopsychology, Development and Research Methods 1 practice questions](/resources/oxfordaqa-a-level-psychology-biopsychology-development-practice/)
