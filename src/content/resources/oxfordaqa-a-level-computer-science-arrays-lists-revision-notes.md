@@ -102,6 +102,11 @@ In programming exam questions, it is acceptable to use either lists or arrays to
 
 Keeping the words "array" and "list" mapped correctly to "static" and "dynamic" respectively -- rather than treating all indexed collections as one interchangeable category -- is the specific vocabulary precision this sub-topic rewards in written exam answers, even when your practical programming work uses Python lists throughout.
 
+## Related resources
+
+- [Arrays and Lists study guide](/resources/a-level-oxfordaqa-computer-science-arrays-and-lists/)
+- [Arrays and Lists practice questions](/resources/oxfordaqa-a-level-computer-science-arrays-lists-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1 —

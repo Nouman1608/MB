@@ -146,6 +146,11 @@ number of elements is known in advance.
 - Be comfortable using two-dimensional arrays or lists of lists, indexed
 by row and column.
 
+## Related resources
+
+- [Arrays and Lists revision notes](/resources/oxfordaqa-a-level-computer-science-arrays-lists-revision-notes/)
+- [Arrays and Lists practice questions](/resources/oxfordaqa-a-level-computer-science-arrays-lists-practice/)
+
 ## Official syllabus
 
 OxfordAQA International AS and A-level Computer Science (9645)
