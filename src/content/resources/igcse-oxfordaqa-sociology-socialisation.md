@@ -160,6 +160,11 @@ on socialisation.
 - Practise structuring a "compare two perspectives" answer with an
 explicit point of contrast.
 
+## Related resources
+
+- [Socialisation revision notes](/resources/igcse-oxfordaqa-sociology-socialisation-revision-notes/)
+- [Socialisation practice questions](/resources/igcse-oxfordaqa-sociology-socialisation-practice/)
+
 ## Official syllabus
 
 OxfordAQA International GCSE Sociology (9292) specification, Version

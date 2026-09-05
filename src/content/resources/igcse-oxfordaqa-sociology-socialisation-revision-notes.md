@@ -129,6 +129,11 @@ individual visibly negotiates or resists an agency's expected norm.
 Sociology mark schemes consistently reward this kind of applied,
 evidenced point over an accurate but unsupported general statement.
 
+## Related resources
+
+- [Socialisation study guide](/resources/igcse-oxfordaqa-sociology-socialisation/)
+- [Socialisation practice questions](/resources/igcse-oxfordaqa-sociology-socialisation-practice/)
+
 ## Self-test
 
 1. Distinguish primary from secondary socialisation.
