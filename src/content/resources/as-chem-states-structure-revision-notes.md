@@ -67,7 +67,7 @@ Gases behave most ideally at **low pressure and high temperature**. Gases with l
 | Structure | Particles | Forces broken on melting | m.p. | Conducts? | Solubility |
 |---|---|---|---|---|---|
 | **Giant ionic** | Ions | Strong electrostatic attraction | High | Only molten/aqueous | Often soluble in water |
-| **Simple molecular** | Molecules | **Weak intermolecular forces only** | Low | No | Soluble in non-polar solvents |
+| **Simple molecular** | Molecules | **Weak intermolecular forces only** | Low | No | Depends on polarity — "like dissolves like": non-polar molecules dissolve in non-polar solvents, polar molecules (e.g. those that hydrogen bond) can dissolve in water |
 
 **Ice is a special case** worth naming: it's held together by **hydrogen bonding** rather than just van der Waals forces, giving it an unusually open structure — which is why ice is less dense than liquid water and floats.
 | **Giant covalent** | Atoms | Many strong covalent bonds | Very high | No (except graphite) | Insoluble |
@@ -77,7 +77,7 @@ Gases behave most ideally at **low pressure and high temperature**. Gases with l
 
 **Properties follow from what must be broken.**
 
-Melting a simple molecular solid overcomes only the **intermolecular forces** — the covalent bonds inside the molecules stay intact. That is why iodine sublimes at 114 °C while diamond needs over 3500 °C, even though both contain covalent bonds.
+Melting a simple molecular solid overcomes only the **intermolecular forces** — the covalent bonds inside the molecules stay intact. That is why iodine melts at only 114 °C while diamond needs over 3500 °C, even though both contain covalent bonds (iodine also has a noticeable vapour pressure below this temperature, which is why it appears to sublime, but 114 °C is its true melting point).
 
 ## Carbon allotropes
 

@@ -42,7 +42,8 @@ ideal gas equation      pV = nRT          R = 8.31 J K-1 mol-1
 number of particles     N = n x 6.02 x 10^23
 
 percentage yield        (actual / theoretical) x 100
-atom economy            (Mr of desired product / Mr of ALL products) x 100
+atom economy            (sum of Mr x coefficient for desired product) /
+                        (sum of Mr x coefficient for ALL products) x 100
 ```
 
 **Unit discipline:** for pV = nRT, pressure in **Pa**, volume in **m³**, temperature in **K**. Convert: kPa × 1000, cm³ ÷ 10⁶, °C + 273.
@@ -56,7 +57,7 @@ Iron(III) oxide: Fe3+ and O2-
 LCM of 3 and 2 = 6  ->  2 Fe3+ and 3 O2-  ->  Fe2O3
 ```
 
-Nine polyatomic ions you're expected to recall without being given them: NO₃⁻, CO₃²⁻, SO₄²⁻, OH⁻, NH₄⁺, Zn²⁺, Ag⁺, HCO₃⁻, PO₄³⁻. These come up constantly in ionic-formula and ionic-equation questions, so it is worth being able to write each one's charge from memory rather than working it out each time.
+Seven polyatomic ions you're expected to recall without being given them: NO₃⁻, CO₃²⁻, SO₄²⁻, OH⁻, NH₄⁺, HCO₃⁻, PO₄³⁻. Also worth memorising: Zn²⁺ and Ag⁺, which are **monatomic** metal ions with charges that aren't obvious from the Periodic Table group number. All nine come up constantly in ionic-formula and ionic-equation questions, so it is worth being able to write each one's charge from memory rather than working it out each time.
 
 An **ionic equation** shows only the species that actually change, omitting spectator ions that appear unchanged on both sides:
 
@@ -127,4 +128,4 @@ Addition reactions have 100% atom economy; substitution and elimination do not.
 6. Find the formula of aluminium oxide from Al³⁺ and O²⁻.
 7. Write the full and ionic equations for silver nitrate solution reacting with sodium chloride solution to form a silver chloride precipitate.
 
-**Answers:** 1. V = 0.025 dm³; n = 0.200 × 0.025 = **5.00 × 10⁻³ mol**. 2. Mg: 6.0/24 = 0.25 mol ÷ 2 = 0.125. O₂: 4.0/32 = 0.125 mol ÷ 1 = 0.125. Equal — neither is in excess. 3. pV = nRT, with p in Pa, V in m³, T in K, R = 8.31 J K⁻¹ mol⁻¹. 4. 52.2/12 = 4.35; 13.0/1 = 13.0; 34.8/16 = 2.175. Divide by 2.175 → 2 : 6 : 1 → **C₂H₆O**. 5. Yield compares actual product obtained with the theoretical maximum; atom economy compares the mass of the desired product with the total mass of all products formed. 6. LCM of 3 and 2 is 6, so two Al³⁺ and three O²⁻ → **Al₂O₃**. 7. Full: AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq); ionic: Ag⁺(aq) + Cl⁻(aq) → AgCl(s), with Na⁺ and NO₃⁻ omitted as spectator ions.
+**Answers:** 1. V = 0.025 dm³; n = 0.200 × 0.025 = **5.00 × 10⁻³ mol**. 2. Mg: 6.0/24.3 = 0.247 mol ÷ 2 = 0.123. O₂: 4.0/32 = 0.125 mol ÷ 1 = 0.125. Mg gives the smaller value, so **Mg is limiting** (O₂ is in excess). 3. pV = nRT, with p in Pa, V in m³, T in K, R = 8.31 J K⁻¹ mol⁻¹. 4. 52.2/12 = 4.35; 13.0/1 = 13.0; 34.8/16 = 2.175. Divide by 2.175 → 2 : 6 : 1 → **C₂H₆O**. 5. Yield compares actual product obtained with the theoretical maximum; atom economy compares the mass of the desired product with the total mass of all products formed. 6. LCM of 3 and 2 is 6, so two Al³⁺ and three O²⁻ → **Al₂O₃**. 7. Full: AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq); ionic: Ag⁺(aq) + Cl⁻(aq) → AgCl(s), with Na⁺ and NO₃⁻ omitted as spectator ions.

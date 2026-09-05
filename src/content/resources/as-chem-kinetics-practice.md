@@ -75,7 +75,7 @@ Related: [Reaction Kinetics revision notes](/resources/as-chem-kinetics-revision
 
 **2.** The **minimum energy** that colliding particles must possess [1] for a reaction to occur [1].
 
-**3. (a)** More particles per unit volume [1], so **more frequent collisions** and a greater proportion are successful per second [1].
+**3. (a)** More particles per unit volume [1], so **more frequent collisions**, and therefore a **greater number of successful collisions per second** [1] (concentration does not change the *proportion* of collisions with sufficient energy and correct orientation -- that fraction depends on temperature and activation energy, not concentration).
 **(b)** The particles are **closer together** [1], so collisions are **more frequent** [1].
 **(c)** More particles are **exposed at the surface** [1], so there are **more collisions per second** with the other reactant [1].
 **(d)** Particles have **more kinetic energy** and move faster, so collisions are more frequent [1]. More importantly, a **greater proportion of particles have energy ≥ E_a** [1], so a much larger fraction of collisions are successful [1].

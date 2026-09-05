@@ -112,7 +112,7 @@ The chloride precipitate **dissolves in dilute ammonia** [1]; the bromide dissol
 - Explaining volatility by "bigger molecules" rather than number of electrons.
 - Forgetting to acidify before adding silver nitrate.
 - Not giving both oxidation state changes when justifying disproportionation.
-- Forgetting that iodide, the strongest reducing halide ion, reduces concentrated sulfuric acid all the way to hydrogen sulfide (H₂S, rotten-egg smell) rather than stopping at sulfur dioxide as bromide does.
+- Forgetting that iodide, the strongest reducing halide ion, reduces concentrated sulfuric acid further than bromide does, giving a mixture of sulfur dioxide, sulfur, and hydrogen sulfide (H₂S, rotten-egg smell) rather than stopping cleanly at sulfur dioxide.
 - Assuming cold and hot sodium hydroxide give the same products with chlorine — they do not; the oxidation state of the oxidised chlorine product depends on the conditions.
 - Writing halogen molecules as single atoms (Cl rather than Cl₂) in equations — they exist as diatomic molecules.
 
@@ -122,8 +122,9 @@ The concentrated sulfuric acid test is a direct consequence of the trend in
 halide reducing power down the group, and is worth learning as a single
 ladder: chloride cannot reduce sulfuric acid at all (HCl gas only); bromide
 reduces it as far as sulfur dioxide (HBr, then red-brown Br₂ fumes and
-SO₂); iodide, the strongest reducing agent of the three, reduces it all
-the way to hydrogen sulfide (HI, then black/purple iodine and the
+SO₂); iodide, the strongest reducing agent of the three, reduces it
+further still, giving a mixture of sulfur dioxide, sulfur, and hydrogen
+sulfide (HI, then black/purple iodine, a yellow deposit of sulfur, and the
 rotten-egg smell of H₂S). The same trend — increasing reducing power down
 the group — also explains the displacement reactions in question 3: a
 more reactive halogen higher up the group oxidises, and therefore

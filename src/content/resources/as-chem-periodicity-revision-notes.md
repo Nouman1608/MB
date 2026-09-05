@@ -34,7 +34,7 @@ Condensed for the final weeks. For the full explanation, use the
 | Property | Trend | Reason |
 |---|---|---|
 | Atomic radius | **Decreases** | Nuclear charge increases; shielding roughly constant |
-| Ionic radius | Drops sharply at Si/P | Cations lose a shell; anions gain electrons |
+| Ionic radius | **Jumps up sharply** from Al³⁺ to P³⁻, then decreases again to Cl⁻ | Cations (Na⁺, Mg²⁺, Al³⁺) have one fewer electron shell than anions (P³⁻, S²⁻, Cl⁻); within each group, radius falls as nuclear charge rises for the same electron count |
 | First ionisation energy | **Increases** (with dips at Al and S) | Greater nuclear charge, smaller radius |
 | Electronegativity | **Increases** | Same reasons |
 | Melting point | Rises to **Si**, then falls sharply | See below |
@@ -48,9 +48,13 @@ Na  Mg  Al        metallic, increasing:  more delocalised electrons
 Si                GIANT COVALENT -- HIGHEST melting point
                   many strong covalent bonds must be broken
 
-P4  S8  Cl2  Ar   simple molecular -- LOW melting points
-                  only weak van der Waals forces between molecules
-                  S8 > P4 because S8 is a larger molecule
+P4  S8  Cl2       simple molecular -- LOW melting points
+Ar  (monatomic)   only weak van der Waals (dispersion) forces
+                  between molecules/atoms
+                  S8 > P4 because S8 is a larger molecule; Ar is a
+                  single atom, not a molecule, but is grouped here
+                  because it also has only weak dispersion forces
+                  and a low melting point
 ```
 
 The peak at silicon is the key feature; the drop after it is because the **structure changes**, not because bonds get weaker.

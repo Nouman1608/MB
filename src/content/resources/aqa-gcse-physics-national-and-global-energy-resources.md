@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "national-and-global-energy-resources"
-description: "Renewable and non-renewable energy resources, their uses, and their environmental impact, for sub-topic 4.1.3 of AQA GCSE Physics (8463) -- physics only content."
+description: "Renewable and non-renewable energy resources, their uses, and their environmental impact, for sub-topic 4.1.3 of AQA GCSE Physics (8463) -- also examinable as sub-topic 6.1.3 of GCSE Combined Science: Trilogy (8464)."
 author: "iftikhar-azeemi"
 reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-19
@@ -24,8 +24,11 @@ featured: false
 This guide covers sub-topic **4.1.3 National and global energy
 resources**, the third of three sub-topics in **Topic 4.1 Energy**, from
 the AQA GCSE Physics (8463) specification (first teaching September
-2016). This sub-topic is flagged **"physics only"** in the official
-specification — it is not shared with GCSE Combined Science: Trilogy.
+2016). This content is written using the standalone Physics numbering,
+but it is not physics-only: the same material is examinable as
+sub-topic 6.1.3 in GCSE Combined Science: Trilogy (8464), within
+Trilogy's own Topic 6.1 Energy. A Combined Science student studying for
+Trilogy should use this guide too.
 
 ## Before studying this
 
@@ -34,7 +37,7 @@ first for the underlying ideas about useful and wasted energy transfer.
 
 ## Syllabus coverage
 
-**AQA GCSE PHYSICS (8463) — Sub-topic 4.1.3 (physics only)**
+**AQA GCSE PHYSICS (8463) — Sub-topic 4.1.3, also GCSE Combined Science: Trilogy (8464) — Sub-topic 6.1.3**
 
 Students should be able to describe the main energy sources available
 and to distinguish between energy resources that are renewable and

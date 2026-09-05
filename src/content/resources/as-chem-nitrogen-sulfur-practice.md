@@ -86,7 +86,7 @@ Related: [Nitrogen and Sulfur revision notes](/resources/as-chem-nitrogen-sulfur
 
 **6.** A lightning strike releases an enormous amount of energy [1], far more than a car engine or ordinary atmospheric conditions supply, which is enough to overcome the very high activation energy of the N≡N and O=O bonds, driving N₂ + O₂ → 2NO directly, even though these conditions do not exist in ordinary atmospheric chemistry [1].
 
-**7. (a)** NO₂ + SO₂ → NO + SO₃ [1]; the NO produced is then reoxidised by atmospheric O₂ back to NO₂, regenerating it for further reaction [1].
+**7. (a)** NO₂ + SO₂ → NO + SO₃ [1]; the NO produced is then reoxidised by atmospheric O₂ back to NO₂ — `2NO + O₂ → 2NO₂` — regenerating it for further reaction [1].
 **(b)** **Catalyst** [1].
 
 **8.** This produces **photochemical smog** [1], which acts as an eye and lung irritant, characteristic of sunny, traffic-heavy cities [1].

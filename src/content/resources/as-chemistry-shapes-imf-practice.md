@@ -96,7 +96,7 @@ Related: [Shapes and Intermolecular Forces revision notes](/resources/as-chemist
 
 **5. (a)** CO₂ is **linear and symmetrical**, so the two bond dipoles are equal and opposite and **cancel** [1]. H₂O is **bent** [1], so the dipoles **do not cancel** and there is a net dipole [1].
 
-**(b)** H₂O has **hydrogen bonding** between molecules [1]; H₂S has only **weaker permanent dipole–dipole forces** (sulfur is not electronegative enough for hydrogen bonding) [1]. More energy is required to overcome the stronger intermolecular forces in water [1].
+**(b)** H₂O has **hydrogen bonding** between molecules [1]; H₂S has only **permanent dipole–dipole forces and (weaker) induced dipole–induced dipole forces**, but no hydrogen bonding (sulfur is not electronegative enough) [1]. More energy is required to overcome the stronger intermolecular forces in water [1].
 
 **(c)** Each water molecule forms **four hydrogen bonds** in a **tetrahedral arrangement** [1], producing an **open lattice containing holes** [1]. On melting this partly collapses, so molecules pack closer and the liquid is denser [1].
 

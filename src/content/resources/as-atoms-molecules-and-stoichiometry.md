@@ -89,8 +89,10 @@ needed) and the Periodic Table position of each element:
 Iron(III) oxide: Fe³⁺ and O²⁻. Balancing charge needs the lowest common multiple
 of 3 and 2, which is 6 — two Fe³⁺ and three O²⁻, giving **Fe₂O₃**.
 
-You're also expected to recall the formulas of nine specific polyatomic ions
-without being given them: NO₃⁻, CO₃²⁻, SO₄²⁻, OH⁻, NH₄⁺, Zn²⁺, Ag⁺, HCO₃⁻, PO₄³⁻.
+You're also expected to recall the formulas of seven specific polyatomic ions
+without being given them: NO₃⁻, CO₃²⁻, SO₄²⁻, OH⁻, NH₄⁺, HCO₃⁻, PO₄³⁻. Two more
+worth memorising alongside them, Zn²⁺ and Ag⁺, are **monatomic** metal ions
+whose charge isn't obvious from the Periodic Table group number.
 
 ## Ionic equations without spectator ions
 
@@ -183,7 +185,7 @@ and calculation types genuinely does.
 ## Quick revision checklist
 
 - The unified atomic mass unit, and Ar/Mr/relative formula mass defined from it
-- Writing ionic formulas from charge, including the nine named polyatomic ions
+- Writing ionic formulas from charge, including the seven named polyatomic ions and Zn²⁺/Ag⁺
 - Writing full and ionic equations, with correct state symbols
 - Empirical vs molecular formula, and calculating each from data
 - Percentage yield, limiting reagent, gas volume and solution concentration

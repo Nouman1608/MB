@@ -94,10 +94,12 @@ Cost:        secondary research is usually cheaper (data already
 Time:        secondary research is faster to access; primary
              research (surveys, interviews, focus groups) takes
              longer to design and run
-Reliability: primary research is more reliable for the specific
-             question asked, since it is collected first-hand for
-             that purpose, while secondary data may be outdated or
-             collected for a different original purpose
+Reliability: depends on sample size and design, not simply on
+             primary vs secondary -- a small or biased primary
+             survey can be less reliable than a well-constructed
+             secondary dataset (e.g. official statistics). Primary
+             data is more directly relevant to the exact question,
+             which is a separate consideration from reliability
 ```
 
 A stratified sample (dividing the population into subgroups and sampling proportionally from each) is generally more representative than a simple random sample when a population has known, relevant subgroups -- for example, sampling customers proportionally by age group when age is known to affect buying behaviour.
