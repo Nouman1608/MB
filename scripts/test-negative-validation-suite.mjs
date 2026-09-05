@@ -513,7 +513,7 @@ if (!existsSync(labelFixtureFile)) {
   );
 }
 
-console.log('\n[AA] Flagship Dominance/Trust programme -- review-coverage audit');
+console.log('\n[AA] Review-coverage audit rejects the retired blanket teacher-review claim reappearing (D-134)');
 const trustFixtureFile = 'dist/resources/a-level-edexcel-law-the-law-in-action/index.html';
 if (!existsSync(trustFixtureFile)) {
   console.log('  → skipped: dist/ not built yet in this run. This category requires `npm run build` to');
@@ -522,11 +522,11 @@ if (!existsSync(trustFixtureFile)) {
 } else {
   withMutation(
     trustFixtureFile,
-    (text) => text.replace('Reviewed by teachers', 'Review status unknown'),
+    (text) => text.replace('Found an error? Report a correction.', 'Reviewed by teachers. Found an error? Report a correction.'),
     {
       validatorCmd: 'node scripts/audit-review-coverage.mjs',
-      expectSubstring: 'does not render the visible "Reviewed by teachers" trust line',
-      label: 'A resource page with its rendered teacher-review trust line corrupted is rejected',
+      expectSubstring: 'renders the retired "Reviewed by teachers" trust line',
+      label: 'A resource page with the retired blanket teacher-review trust line reintroduced is rejected',
     },
   );
 }

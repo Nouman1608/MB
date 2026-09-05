@@ -154,28 +154,28 @@ const jsonLd = [articleNode({
     )}
   </dl>
 
-  {/* Flagship Dominance/Trust programme -- universal, non-attributed teacher-review
-      trust line plus provenance and a correction path. Deliberately simple: no named
-      reviewer, no invented date, no fabricated Person schema -- see reviewedByTeachers
-      in src/content.config.ts and docs/decision-log.md D-092. Independent of, and
-      additional to, the genuine named-reviewer byline above when that also exists. */}
-  {d.reviewedByTeachers && (
-    <div slot="hero-extra" data-testid="teacher-review-trust" class="mt-6 max-w-[62ch] rounded-sm border border-rule bg-ivory px-5 py-4 text-[14px] leading-relaxed text-ink-mute">
-      <p class="m-0 font-semibold text-navy-800">Reviewed by teachers</p>
-      <p class="m-0 mt-1">
-        {alignedToText}{officialSyllabuses.map((s) => (
-          <>
-            {' '}
-            <a href={s.officialUrl} rel="noopener" class="underline decoration-gold-500 underline-offset-2">
-              Official specification{officialSyllabuses.length > 1 && ` (${qualificationBySlug(s.qualificationSlug)?.name ?? s.qualificationSlug})`}
-            </a>
-            {officialSyllabuses.indexOf(s) === officialSyllabuses.length - 1 ? '.' : ';'}
-          </>
-        ))}
-      </p>
-      <p class="m-0 mt-1"><a href={correctionHref} class="underline decoration-gold-500 underline-offset-2">Found an error? Report a correction.</a></p>
-    </div>
-  )}
+  {/* Provenance and a correction path -- syllabus alignment plus a link to the
+      official specification and a way to report an error. The universal,
+      non-attributed "Reviewed by teachers" trust line that used to head this
+      block (Flagship Dominance/Trust programme, D-092) was RESCINDED by
+      explicit owner decision 2026-09-05 -- see docs/decision-log.md D-134 and
+      reviewedByTeachers in src/content.config.ts. No blanket or non-attributed
+      review claim is made; this block is independent of, and unrelated to,
+      the genuine named-reviewer byline above, which is untouched. */}
+  <div slot="hero-extra" data-testid="resource-provenance" class="mt-6 max-w-[62ch] rounded-sm border border-rule bg-ivory px-5 py-4 text-[14px] leading-relaxed text-ink-mute">
+    <p class="m-0">
+      {alignedToText}{officialSyllabuses.map((s) => (
+        <>
+          {' '}
+          <a href={s.officialUrl} rel="noopener" class="underline decoration-gold-500 underline-offset-2">
+            Official specification{officialSyllabuses.length > 1 && ` (${qualificationBySlug(s.qualificationSlug)?.name ?? s.qualificationSlug})`}
+          </a>
+          {officialSyllabuses.indexOf(s) === officialSyllabuses.length - 1 ? '.' : ';'}
+        </>
+      ))}
+    </p>
+    <p class="m-0 mt-1"><a href={correctionHref} class="underline decoration-gold-500 underline-offset-2">Found an error? Report a correction.</a></p>
+  </div>
 
   {/* Hidden filter tags -- see the comment above boardNames/qualificationNames.
       hidden (display:none) rather than removed from the DOM, since Pagefind's

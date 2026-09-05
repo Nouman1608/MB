@@ -156,25 +156,24 @@ const resources = defineCollection({
      */
     reviewStatus: z.enum(['draft', 'review-pending', 'reviewed', 'changes-requested', 'archived']).default('review-pending'),
     /**
-     * Flagship Dominance/Trust programme (2026-08-31) -- the owner has
-     * confirmed, as a blanket editorial fact covering the whole study-
-     * resources library, that every published study resource has been
-     * reviewed by a teacher. This is DELIBERATELY separate from
-     * `reviewStatus`/`reviewer`/`reviewedDate` above (the QIGT programme's
-     * stricter, per-resource, named-and-accountable reviewer system,
-     * enforced by scripts/validate-review-integrity.mjs) -- that system is
-     * unchanged and keeps gating the more specific "Reviewed by [Name]"
-     * byline and the schema.org `editor` claim, which still require a
-     * real, existing, isReviewer:true author record and must not be
-     * fabricated. This field instead backs the simple, universal,
-     * non-attributed public trust line "Reviewed by teachers" that the
-     * owner's confirmation covers, with no named reviewer or date implied
-     * or required. Defaults true because the confirmation is blanket; an
-     * individual resource can still be excluded by setting this to false
-     * explicitly if a genuine, specific exception is ever identified --
-     * see docs/decision-log.md D-092 and scripts/audit-review-coverage.mjs.
+     * Flagship Dominance/Trust programme (2026-08-31, D-092) asserted a
+     * blanket, non-attributed "Reviewed by teachers" claim across the
+     * whole study-resources library via this field, defaulted true. That
+     * blanket claim was RESCINDED by explicit owner decision 2026-09-05
+     * (see docs/decision-log.md D-134): no blanket or non-attributed
+     * teacher-review claim is made or required for a resource to be
+     * published. The field is kept, defaulted false, purely so a future
+     * resource can still carry a genuine, specific, documented exception
+     * without a schema change -- it is no longer read by the public-facing
+     * trust line in src/pages/resources/[slug].astro, which was removed.
+     * This is entirely separate from `reviewStatus`/`reviewer`/
+     * `reviewedDate` above (the QIGT programme's stricter, per-resource,
+     * named-and-accountable reviewer system, enforced by
+     * scripts/validate-review-integrity.mjs) -- that system, and the more
+     * specific "Reviewed by [Name]" byline and schema.org `editor` claim it
+     * gates, are completely unchanged and untouched by this decision.
      */
-    reviewedByTeachers: z.boolean().default(true),
+    reviewedByTeachers: z.boolean().default(false),
     /**
      * QIGT programme -- when a genuine human review actually took place.
      * Distinct from publishedDate/updatedDate (authoring dates) and from

@@ -1482,7 +1482,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Economics develops a critical understanding of economic theories, models and tools across microeconomics, macroeconomics and the global economy, applied to real-world issues at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/',
     verifiedOn: '2026-08-28',
-    notes: 'First assessments 2022. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide; this record is sourced from that licensed guide (economics-guide.pdf) plus the freely-public SL/HL subject briefs. Four content units (common to SL/HL, with HL-only extension material within several units) plus an internal assessment portfolio.',
+    notes: 'First assessments 2022. This record is sourced from the full subject guide (economics-guide.pdf), originally accessed under a 2026-08-22 owner licensing confirmation, plus the freely-public SL/HL subject briefs. Owner decision 2026-09-05 retired that licensing framing -- no formal IB license is claimed or required. Four content units (common to SL/HL, with HL-only extension material within several units) plus an internal assessment portfolio.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-myp', subjectSlug: 'myp-sciences',
@@ -1542,7 +1542,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'IB DP Physics develops an understanding of the fundamental concepts and principles of physics through five topics (space/time/motion, particulate nature of matter, wave behaviour, fields, and nuclear/quantum physics), combining theory with a self-directed scientific investigation, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/',
     verifiedOn: '2026-08-28',
-    notes: 'First assessments 2025. Owner confirmed a formal IB license covering commercial/tutoring use of the full subject guide; this record and its matching assessment record are sourced from that licensed guide (physics-guide.pdf), cross-verified against a current (Aug 2026) published school IB Physics resource for the exact SL/HL paper mark totals -- see the matching assessment record\'s own notes for the full sourcing chain. Five topics (A-E, with HL-only sub-topics within several) plus an internal assessment (individual scientific investigation).',
+    notes: 'First assessments 2025. This record and its matching assessment record are sourced from the full subject guide (physics-guide.pdf), originally accessed under a 2026-08-22 owner licensing confirmation, cross-verified against a current (Aug 2026) published school IB Physics resource for the exact SL/HL paper mark totals -- see the matching assessment record\'s own notes for the full sourcing chain. Owner decision 2026-09-05 retired that licensing framing -- no formal IB license is claimed or required. Five topics (A-E, with HL-only sub-topics within several) plus an internal assessment (individual scientific investigation).',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'biology',

@@ -1,41 +1,46 @@
 #!/usr/bin/env node
 /**
- * Review-coverage safeguard (Flagship Dominance/Trust programme, 2026-08-31,
- * docs/decision-log.md D-092).
+ * Review-coverage safeguard (originally Flagship Dominance/Trust programme,
+ * 2026-08-31, docs/decision-log.md D-092; RESCINDED by explicit owner
+ * decision 2026-09-05, docs/decision-log.md D-134).
  *
- * The owner has confirmed, as a blanket editorial fact, that every
- * published study resource on Marlbridge has been reviewed by a teacher.
- * `reviewedByTeachers` (src/content.config.ts, resources collection)
- * carries that fact in the data model, defaulting true. This is
- * DELIBERATELY separate from the stricter QIGT `reviewStatus`/`reviewer`
- * system (scripts/validate-review-integrity.mjs), which still gates the
- * more specific named-reviewer byline and schema.org `editor` claim and is
- * untouched by this script.
+ * D-092 had the owner confirm, as a blanket editorial fact, that every
+ * published study resource on Marlbridge had been reviewed by a teacher,
+ * rendered site-wide as the unattributed trust line "Reviewed by teachers".
+ * D-134 rescinded that: the owner decided no blanket or non-attributed
+ * review claim should be made or required. `reviewedByTeachers`
+ * (src/content.config.ts, resources collection) now defaults false and the
+ * trust line was removed from src/pages/resources/[slug].astro.
+ *
+ * This script's job flipped with that decision: it used to assert the
+ * claim WAS present everywhere; it now guards against the retired claim
+ * ever silently reappearing (a template regression, a copy-pasted string,
+ * or a resource file explicitly opting back in without a documented
+ * decision). It is DELIBERATELY separate from the stricter QIGT
+ * `reviewStatus`/`reviewer` system (scripts/validate-review-integrity.mjs),
+ * which still gates the more specific named-reviewer byline and schema.org
+ * `editor` claim and is untouched by either D-092 or D-134.
  *
  * Reads the BUILT site (run `npm run build` first, same convention as the
- * other dist-dependent audits in this repo) and checks two independent
- * things, so a bug in either the data or the template is caught:
+ * other dist-dependent audits in this repo) and checks:
  *
- *   [1] Data-level: every src/content/resources/*.md file resolves
- *       reviewedByTeachers to true (no file explicitly sets it to false --
- *       the owner's confirmation is blanket, so an explicit false would be
- *       a real, surprising exception that deserves a human look, not a
- *       silent pass).
- *   [2] Rendered-level: every built dist/resources/<slug>/index.html
- *       actually contains the visible trust line "Reviewed by teachers".
- *       Data being correct does not guarantee the template rendered it --
- *       only checking the built HTML can catch a template regression
- *       (same reasoning as scripts/validate-rendered-academic-labels.mjs).
- *   [3] No built page anywhere on the site still carries stale "review
- *       pending across the library" language now that the blanket
- *       confirmation applies -- specifically /legal/editorial-policy/,
- *       which is the one page that used to describe review as mostly
- *       incomplete.
+ *   [1] Data-level: no src/content/resources/*.md file explicitly sets
+ *       reviewedByTeachers: true -- that would silently reintroduce a
+ *       blanket-style claim on an individual resource without the
+ *       documented, specific exception this field is now reserved for.
+ *   [2] Rendered-level: no built dist/resources/<slug>/index.html contains
+ *       the retired trust line "Reviewed by teachers" -- catches a
+ *       template regression reintroducing it (same reasoning as
+ *       scripts/validate-rendered-academic-labels.mjs).
+ *   [3] The editorial policy page (/legal/editorial-policy/) does not
+ *       restate the rescinded blanket claim ("All Marlbridge study
+ *       resources are reviewed by teachers" / the retired trust line), and
+ *       does not go silent on review policy entirely.
  *
  * Negative-tested by scripts/test-negative-validation-suite.mjs ([AA]): a
- * built resource page's trust line is mutated away, this script is
- * confirmed to fail with a specific diagnostic, then the file is restored
- * byte-for-byte.
+ * built resource page has the retired trust line reintroduced, this script
+ * is confirmed to fail with a specific diagnostic, then the file is
+ * restored byte-for-byte.
  *
  * Run via `npm run audit:review-coverage`, wired into `npm run audit:all`.
  */
@@ -45,7 +50,7 @@ import { join } from 'node:path';
 
 const DIST = 'dist';
 const RESOURCES_DIR = 'src/content/resources';
-const TRUST_LINE = 'Reviewed by teachers';
+const RETIRED_TRUST_LINE = 'Reviewed by teachers';
 
 async function walkHtml(dir) {
   const out = [];
@@ -59,19 +64,19 @@ async function walkHtml(dir) {
 
 const problems = [];
 
-// [1] Data-level: no resource file explicitly opts out of the blanket confirmation.
+// [1] Data-level: no resource file has silently opted back into the retired blanket claim.
 const resourceFiles = readdirSync(RESOURCES_DIR).filter((f) => f.endsWith('.md'));
-let explicitFalseCount = 0;
+let explicitTrueCount = 0;
 for (const file of resourceFiles) {
   const raw = readFileSync(join(RESOURCES_DIR, file), 'utf-8');
   const fm = raw.split('---')[1] ?? '';
-  if (/^reviewedByTeachers:\s*false\s*$/m.test(fm)) {
-    explicitFalseCount++;
-    problems.push(`[1] resource "${file}" explicitly sets reviewedByTeachers: false, which contradicts the owner's blanket teacher-review confirmation -- either this is a genuine, deliberately-recorded exception (confirm it's intentional and documented in docs/decision-log.md) or it's a mistake.`);
+  if (/^reviewedByTeachers:\s*true\s*$/m.test(fm)) {
+    explicitTrueCount++;
+    problems.push(`[1] resource "${file}" explicitly sets reviewedByTeachers: true, reintroducing the blanket teacher-review claim the owner rescinded (docs/decision-log.md D-134) -- either this is a genuine, deliberately-recorded exception (confirm it's intentional and documented in docs/decision-log.md) or it's a mistake.`);
   }
 }
 
-// [2] Rendered-level: every built resource page visibly carries the trust line.
+// [2] Rendered-level: no built resource page has the retired trust line reintroduced.
 let resourcePagesChecked = 0;
 const resourceDistDir = join(DIST, 'resources');
 let resourceHtmlFiles = [];
@@ -83,38 +88,37 @@ try {
 }
 for (const file of resourceHtmlFiles) {
   // Only individual resource detail pages (dist/resources/<slug>/index.html) --
-  // excludes dist/resources/index.html itself, which is the listing page, not
-  // a resource, and correctly has no per-resource trust line of its own.
+  // excludes dist/resources/index.html itself, which is the listing page.
   if (!file.endsWith('index.html') || file === join(resourceDistDir, 'index.html')) continue;
   resourcePagesChecked++;
   const html = await readFile(file, 'utf-8');
-  if (!html.includes(TRUST_LINE)) {
-    problems.push(`[2] ${file} does not render the visible "${TRUST_LINE}" trust line, even though the resource's reviewedByTeachers should default to true.`);
+  if (html.includes(RETIRED_TRUST_LINE)) {
+    problems.push(`[2] ${file} renders the retired "${RETIRED_TRUST_LINE}" trust line, which the owner's D-134 decision rescinded -- this looks like a template regression.`);
   }
 }
 
-// [3] No stale "review pending across the library" language on the editorial policy page.
+// [3] The editorial policy page doesn't restate the rescinded blanket claim, and isn't silent on review policy.
 const policyFile = join(DIST, 'legal', 'editorial-policy', 'index.html');
 try {
   const policyHtml = await readFile(policyFile, 'utf-8');
   const staleMarkers = [
-    'the great majority of resources are honestly labelled review-pending',
-    'has not yet been through this separate second review',
+    'All Marlbridge study resources are reviewed by teachers',
+    RETIRED_TRUST_LINE,
   ];
   for (const marker of staleMarkers) {
     if (policyHtml.includes(marker)) {
-      problems.push(`[3] ${policyFile} still contains stale review-pending language ("${marker}") -- update it to reflect the owner's blanket teacher-review confirmation.`);
+      problems.push(`[3] ${policyFile} still contains the rescinded blanket claim ("${marker}") -- update it to reflect the owner's D-134 decision.`);
     }
   }
-  if (!policyHtml.includes(TRUST_LINE) && !policyHtml.includes('reviewed by teachers')) {
-    problems.push(`[3] ${policyFile} does not state that all study resources are reviewed by teachers.`);
+  if (!policyHtml.includes('Academic review policy') && !policyHtml.includes('academic-review-policy')) {
+    problems.push(`[3] ${policyFile} appears to have no academic review policy section at all.`);
   }
 } catch {
   problems.push(`[3] ${policyFile} not found in the build -- cannot verify editorial policy wording.`);
 }
 
-console.log('Review-coverage audit (Flagship Dominance/Trust programme)');
-console.log(`  Resource source files checked: ${resourceFiles.length} (${explicitFalseCount} explicit reviewedByTeachers: false)`);
+console.log('Review-coverage audit (guards against the D-092 blanket claim reappearing after D-134)');
+console.log(`  Resource source files checked: ${resourceFiles.length} (${explicitTrueCount} explicit reviewedByTeachers: true)`);
 console.log(`  Built resource pages checked: ${resourcePagesChecked}`);
 
 if (problems.length > 0) {
@@ -124,4 +128,4 @@ if (problems.length > 0) {
   process.exit(1);
 }
 
-console.log(`\nPASS: 0 problem(s) found. All ${resourceFiles.length} study resources resolve reviewedByTeachers to true, all ${resourcePagesChecked} built resource pages visibly render "${TRUST_LINE}", and the editorial policy page is consistent with the confirmation.`);
+console.log(`\nPASS: 0 problem(s) found. No study resource reintroduces the rescinded reviewedByTeachers: true claim, no built resource page renders the retired "${RETIRED_TRUST_LINE}" trust line, and the editorial policy page reflects the owner's D-134 decision.`);
