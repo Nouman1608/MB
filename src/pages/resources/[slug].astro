@@ -92,7 +92,7 @@ const genuinelyReviewed = d.reviewStatus === 'reviewed' && !!reviewerEntry && re
 const pageNoindex = d.noindex || d.reviewStatus === 'archived';
 
 const siblings = await topicSiblings(resource);
-const alsoResources = await relatedResources({ subject: d.subject.id, topic: d.topic, excludeId: resource.id, picked: d.relatedResources, limit: 3 });
+const alsoResources = await relatedResources({ subject: d.subject.id, topic: d.topic, boards: d.boards, excludeId: resource.id, picked: d.relatedResources, limit: 3 });
 const alsoArticles = await relatedArticles({ subject: d.subject.id, picked: d.relatedArticles, limit: 2 });
 
 const jsonLd = [articleNode({

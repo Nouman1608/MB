@@ -16,10 +16,25 @@ const isPublishedArticle = (a: CollectionEntry<'articles'>) => !a.data.draft && 
  * Merges hand-picked relations with derived ones (same subject, level or topic),
  * de-duplicates, excludes self, caps the list. Editors curate only where it adds value.
  */
+/**
+ * Audit I08 fix (2026-09-05): candidates were previously pushed in pure
+ * topic > subject > level order with no board awareness, so a same-board
+ * match and a cross-board match on the same tier were interchangeable --
+ * whichever came first in collection order won. Cross-board linking is
+ * not itself an error (see ResourceCard.astro's board label, added in
+ * the same fix, which makes the destination board visible either way),
+ * but the audit's own recommendation is to "prefer same-board
+ * recommendations" where one is available. The optional `boards` param
+ * (the calling page's own resource.data.boards) makes each tier do a
+ * same-board pass before a cross-board pass; omitting it (as every
+ * caller other than resources/[slug].astro does, since only a resource
+ * page has a specific "own board" to prefer) reproduces the exact prior
+ * behaviour -- sharesBoard() is vacuously true for everyone.
+ */
 export async function relatedResources(
-  opts: { subject?: string; level?: string; topic?: string; picked?: readonly { id: string }[]; excludeId?: string; limit?: number },
+  opts: { subject?: string; level?: string; topic?: string; boards?: readonly string[]; picked?: readonly { id: string }[]; excludeId?: string; limit?: number },
 ): Promise<CollectionEntry<'resources'>[]> {
-  const { subject, level, topic, picked = [], excludeId, limit = 3 } = opts;
+  const { subject, level, topic, boards, picked = [], excludeId, limit = 3 } = opts;
   const all = (await getCollection('resources')).filter(isPublishedResource);
   const byId = new Map(all.map((r) => [r.id, r]));
 
@@ -28,11 +43,22 @@ export async function relatedResources(
     if (!entry || entry.id === excludeId || out.some((o) => o.id === entry.id)) return;
     if (out.length < limit) out.push(entry);
   };
+  const sharesBoard = (r: CollectionEntry<'resources'>) =>
+    !boards || boards.length === 0 || r.data.boards.some((b) => boards.includes(b));
 
   for (const p of picked) push(byId.get(p.id));
-  if (topic) for (const r of all) if (r.data.topic === topic) push(r);
-  if (subject) for (const r of all) if (r.data.subject.id === subject) push(r);
-  if (level) for (const r of all) if (r.data.level.includes(level as never)) push(r);
+  if (topic) {
+    for (const r of all) if (r.data.topic === topic && sharesBoard(r)) push(r);
+    for (const r of all) if (r.data.topic === topic && !sharesBoard(r)) push(r);
+  }
+  if (subject) {
+    for (const r of all) if (r.data.subject.id === subject && sharesBoard(r)) push(r);
+    for (const r of all) if (r.data.subject.id === subject && !sharesBoard(r)) push(r);
+  }
+  if (level) {
+    for (const r of all) if (r.data.level.includes(level as never) && sharesBoard(r)) push(r);
+    for (const r of all) if (r.data.level.includes(level as never) && !sharesBoard(r)) push(r);
+  }
   return out;
 }
 

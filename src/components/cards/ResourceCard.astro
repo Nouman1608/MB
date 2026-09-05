@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import { resourceCategoryMeta, resourceLevelLabel } from '../../utils/content/collections';
 import { resourceUrl } from '../../utils/urls/routes';
+import { boardBySlug } from '../../data/academic/boards';
 
 interface Props {
   entry: CollectionEntry<'resources'>;
@@ -19,11 +20,23 @@ interface Props {
 const { entry, subjectTitle, headingLevel = 'h3' } = Astro.props;
 const meta = resourceCategoryMeta[entry.data.resourceType];
 const levels = resourceLevelLabel(entry.data.level, entry.data.stage);
+/**
+ * Audit I08 fix (2026-09-05): a related-resource card previously showed
+ * only subject + level, with nothing distinguishing a same-board match
+ * from a cross-board one -- a Cambridge and an Edexcel resource on the
+ * same subject/level rendered identically. Cross-board linking is not
+ * itself an error (relatedResources() may deliberately surface a useful
+ * cross-board extension), but the destination board must be visible so
+ * a reader isn't misled into assuming it matches the page they're on.
+ * boardBySlug() is the same canonical name mapping used on every board
+ * hub page, so this label matches board names shown elsewhere on site.
+ */
+const boardLabel = entry.data.boards.map((b) => boardBySlug(b)?.name).filter(Boolean).join(' & ');
 const Heading = headingLevel;
 ---
 <a href={resourceUrl(entry)} class="flex h-full flex-col gap-2.5 rounded-sm border border-rule bg-white p-[clamp(22px,2.2vw,30px)] transition-colors duration-150 hover:border-gold-500">
   <p class="m-0 font-mono text-[11px] uppercase tracking-[0.12em] text-gold-600">{meta.title}</p>
   <Heading class="m-0 text-[18px] font-semibold tracking-[-0.01em] text-navy-800">{entry.data.title}</Heading>
   <p class="m-0 text-[15.5px] leading-relaxed text-ink-mute">{entry.data.description}</p>
-  <p class="m-0 mt-auto pt-2 text-[13px] text-ink-mute">{[subjectTitle, levels].filter(Boolean).join(' · ')}</p>
+  <p class="m-0 mt-auto pt-2 text-[13px] text-ink-mute">{[subjectTitle, boardLabel, levels].filter(Boolean).join(' · ')}</p>
 </a>
