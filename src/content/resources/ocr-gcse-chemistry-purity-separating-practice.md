@@ -28,45 +28,91 @@ Related: [Purity and Separating Mixtures study guide](/resources/ocr-gcse-chemis
 
 ---
 
-**1.** Explain the chemical definition of a pure substance, and how melting point data can be used to test whether a sample is pure. **[3]**
+OCR's real J248 papers open with a whole-paper Section A of 15 multiple-choice questions (15 marks, four-option A-D) before a longer Section B of short-answer and extended questions; the multiple-choice sample below is scoped to this topic (Purity and Separating Mixtures) only, and is not a reproduction of a full paper's Section A.
 
-**2.** Name the four separation techniques described in this sub-topic. **[4]**
+## Section A — Multiple choice (topic sample)
 
-**3.** Calculate the relative formula mass of magnesium sulfate, MgSO₄ (Mg = 24, S = 32, O = 16). **[2]**
+**1.** Which of the following is the correct chemical definition of a pure substance?
+A) A substance that occurs naturally rather than being manufactured
+B) A single substance, not mixed with any other substance, regardless of how it was made
+C) A mixture of substances present in fixed proportions
+D) A substance that is safe to eat or drink **[1]**
 
-**4.** A compound is found to contain 4.8 g of carbon and 1.2 g of hydrogen. Determine its empirical formula, showing your working. **[4]**
+**2.** A student heats a solid sample and finds that it melts gradually over a range of temperatures, rather than sharply at a single value. What does this most strongly suggest?
+A) The thermometer used is under-reading the true temperature
+B) The sample is a pure element rather than a pure compound
+C) The sample contains an impurity, which widens and lowers the melting point range
+D) The sample was heated too quickly for an accurate reading **[1]**
 
-**5.** A student has a mixture of sand and salt dissolved in water and needs to recover both the sand and the salt as separate, dry solids. Describe the two-step process, naming the correct technique at each stage and explaining why it is suitable. **[5]**
+**3.** What is the relative formula mass of calcium carbonate, CaCO₃ (Ca = 40, C = 12, O = 16)?
+A) 60
+B) 116
+C) 68
+D) 100 **[1]**
 
-**6.** Explain the difference between simple distillation and fractional distillation, and state when each is used. **[4]**
+**4.** A mixture consists of an insoluble solid suspended in a solution of a soluble salt dissolved in water. Which two techniques, applied in the correct order, would recover the insoluble solid and then the salt as a separate dry solid?
+A) Filtration first, to remove the insoluble solid, then crystallisation, to obtain the dissolved salt as a dry solid
+B) Crystallisation first, then filtration
+C) Simple distillation first, then filtration
+D) Chromatography first, then crystallisation **[1]**
 
-**7.** A chromatogram shows a spot that has travelled 4.5 cm from the baseline, while the solvent front has travelled 9.0 cm. **(a)** Calculate the Rf value. **[2]** **(b)** Explain why this Rf value can only be validly compared with other spots run on the same chromatogram under the same conditions. **[2]**
+**5.** A chromatogram shows a spot that has travelled 3.0 cm from the baseline, while the solvent front has travelled 6.0 cm. What is the Rf value of this spot?
+A) 2.0
+B) 0.5
+C) 3.0
+D) 0.33 **[1]**
 
-**8.** A chromatogram of an unknown sample is run alongside three reference substances. The unknown produces two spots, matching the Rf values of two of the three reference substances. Explain what this shows about the unknown sample. **[3]**
+## Section B — Short answer and extended questions
 
-**9.** A student is given an unlabelled mixture containing two liquids with very similar boiling points. Suggest a suitable technique to separate them, and explain why a simpler method would not be appropriate. **[4]**
+**6.** Explain the chemical definition of a pure substance, and how melting point data can be used to test whether a sample is pure. **[3]**
+
+**7.** Name the four separation techniques described in this sub-topic. **[4]**
+
+**8.** Calculate the relative formula mass of magnesium sulfate, MgSO₄ (Mg = 24, S = 32, O = 16). **[2]**
+
+**9.** A compound is found to contain 4.8 g of carbon and 1.2 g of hydrogen. Determine its empirical formula, showing your working. **[4]**
+
+**10.** A student has a mixture of sand and salt dissolved in water and needs to recover both the sand and the salt as separate, dry solids. Describe the two-step process, naming the correct technique at each stage and explaining why it is suitable. **[5]**
+
+**11.** Explain the difference between simple distillation and fractional distillation, and state when each is used. **[4]**
+
+**12.** A chromatogram shows a spot that has travelled 4.5 cm from the baseline, while the solvent front has travelled 9.0 cm. **(a)** Calculate the Rf value. **[2]** **(b)** Explain why this Rf value can only be validly compared with other spots run on the same chromatogram under the same conditions. **[2]**
+
+**13.** A chromatogram of an unknown sample is run alongside three reference substances. The unknown produces two spots, matching the Rf values of two of the three reference substances. Explain what this shows about the unknown sample. **[3]**
+
+**14.** A student is given an unlabelled mixture containing two liquids with very similar boiling points. Suggest a suitable technique to separate them, and explain why a simpler method would not be appropriate. **[4]**
 
 ---
 
 ## Answers
 
-**1.** A pure substance is a **single chemical substance**, not the everyday sense of "pure" (such as pure fruit juice, which is a mixture) [1] [1]. A genuinely pure substance **melts and boils at a single, sharp temperature**; the presence of impurities **widens and lowers** this melting point range, so melting point data can be used to test purity [1].
+**1. B)** A pure substance is a single substance not mixed with any other substance; how or where it originated is irrelevant, and "pure" in the everyday sense (e.g. pure fruit juice) is a mixture, not a chemically pure substance [1].
 
-**2.** **Filtration** [1]; **crystallisation** [1]; **distillation** (simple and fractional) [1]; **chromatography** [1].
+**2. C)** A genuinely pure substance melts sharply at a single temperature; an impurity widens and lowers the melting point range, which is what a gradual melt over a range indicates [1].
 
-**3.** Mg (24) + S (32) + 4 × O (4 × 16 = 64) = **120** [1] [1].
+**3. D)** Ca (40) + C (12) + 3 × O (3 × 16 = 48) = **100** [1].
 
-**4.** Moles of carbon = 4.8 ÷ 12 = **0.4** [1]. Moles of hydrogen = 1.2 ÷ 1 = **1.2** [1]. Dividing both by the smaller value (0.4): carbon = 0.4 ÷ 0.4 = 1, hydrogen = 1.2 ÷ 0.4 = 3 [1]. **Empirical formula: CH3** [1].
+**4. A)** The insoluble solid must be removed first by filtration (it is retained while the salt solution passes through as filtrate); crystallisation is then used to recover the dissolved salt from the filtrate, since it can only act on what is already in solution [1].
 
-**5.** **Step 1:** separate the insoluble sand from the salt solution using **filtration** — the sand does not dissolve, so it is retained while the salt solution passes through as the filtrate [1] [1]. **Step 2:** separate the dissolved salt from the water using **crystallisation** — heating the filtrate evaporates the water until crystals begin to form, which are then allowed to cool and dry [1] [1] [1].
+**5. B)** Rf = distance travelled by spot ÷ distance travelled by solvent = 3.0 ÷ 6.0 = **0.5** [1].
 
-**6.** **Simple distillation** separates a liquid from dissolved solids, or liquids with a **very different** boiling point, using a single condensing step [1] [1]. **Fractional distillation** separates two or more miscible liquids with **similar** boiling points, and requires a **fractionating column** to achieve the finer separation needed [1] [1].
+**6.** A pure substance is a **single chemical substance**, not the everyday sense of "pure" (such as pure fruit juice, which is a mixture) [1] [1]. A genuinely pure substance **melts and boils at a single, sharp temperature**; the presence of impurities **widens and lowers** this melting point range, so melting point data can be used to test purity [1].
 
-**7. (a)** Rf = distance travelled by spot ÷ distance travelled by solvent = 4.5 ÷ 9.0 = **0.5** [1] [1]. **(b)** Rf values are **consistent for a given substance only under the same experimental conditions** (same solvent, same paper, same temperature) [1], so comparing measurements taken from different chromatograms run under different conditions would not give a valid, meaningful comparison [1].
+**7.** **Filtration** [1]; **crystallisation** [1]; **distillation** (simple and fractional) [1]; **chromatography** [1].
 
-**8.** This shows the unknown sample is **not a pure single substance**, since it produces **more than one spot** [1] [1]. Matching the Rf values of two of the three reference substances indicates the unknown is a **mixture containing (at least) those two identified substances** [1].
+**8.** Mg (24) + S (32) + 4 × O (4 × 16 = 64) = **120** [1] [1].
 
-**9.** A suitable technique is **fractional distillation**, using a **fractionating column** [1] [1]. A simpler method such as simple distillation would not be appropriate because it cannot achieve the fine separation needed when boiling points are **very close together** — the fractionating column allows repeated evaporation and condensation, giving a much sharper separation between the two liquids [1] [1].
+**9.** Moles of carbon = 4.8 ÷ 12 = **0.4** [1]. Moles of hydrogen = 1.2 ÷ 1 = **1.2** [1]. Dividing both by the smaller value (0.4): carbon = 0.4 ÷ 0.4 = 1, hydrogen = 1.2 ÷ 0.4 = 3 [1]. **Empirical formula: CH3** [1].
+
+**10.** **Step 1:** separate the insoluble sand from the salt solution using **filtration** — the sand does not dissolve, so it is retained while the salt solution passes through as the filtrate [1] [1]. **Step 2:** separate the dissolved salt from the water using **crystallisation** — heating the filtrate evaporates the water until crystals begin to form, which are then allowed to cool and dry [1] [1] [1].
+
+**11.** **Simple distillation** separates a liquid from dissolved solids, or liquids with a **very different** boiling point, using a single condensing step [1] [1]. **Fractional distillation** separates two or more miscible liquids with **similar** boiling points, and requires a **fractionating column** to achieve the finer separation needed [1] [1].
+
+**12. (a)** Rf = distance travelled by spot ÷ distance travelled by solvent = 4.5 ÷ 9.0 = **0.5** [1] [1]. **(b)** Rf values are **consistent for a given substance only under the same experimental conditions** (same solvent, same paper, same temperature) [1], so comparing measurements taken from different chromatograms run under different conditions would not give a valid, meaningful comparison [1].
+
+**13.** This shows the unknown sample is **not a pure single substance**, since it produces **more than one spot** [1] [1]. Matching the Rf values of two of the three reference substances indicates the unknown is a **mixture containing (at least) those two identified substances** [1].
+
+**14.** A suitable technique is **fractional distillation**, using a **fractionating column** [1] [1]. A simpler method such as simple distillation would not be appropriate because it cannot achieve the fine separation needed when boiling points are **very close together** — the fractionating column allows repeated evaporation and condensation, giving a much sharper separation between the two liquids [1] [1].
 
 ---
 
