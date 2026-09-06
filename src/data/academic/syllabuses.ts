@@ -801,7 +801,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'business',
     officialTitle: 'Pearson Edexcel International Advanced Level Business (YBS11 / XBS11)',
-    code: 'YBS11',
+    code: 'YBS11 / XBS11 / WBS11 / WBS12',
     boardSummary:
       'Pearson Edexcel International Advanced Level Business develops learners\' understanding of business concepts, decision-making and strategy through a modular four-unit structure.',
     officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/business-2017.html',
@@ -883,7 +883,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'economics',
     officialTitle: 'Pearson Edexcel International Advanced Level Economics (YEC11 / XEC11)',
-    code: 'YEC11',
+    code: 'YEC11 / XEC11 / WEC11/01 / WEC12/01',
     boardSummary:
       'Pearson Edexcel International Advanced Level Economics develops learners\' understanding of markets, macroeconomic performance, business behaviour and the global economy through a modular four-unit structure.',
     officialUrl: 'https://qualifications.pearson.com/en/qualifications/edexcel-international-advanced-levels/economics-2018.html',

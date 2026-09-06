@@ -1889,7 +1889,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'business',
-    syllabusCode: 'YBS11', syllabusSeries: 'Issue 1, September 2017',
+    syllabusCode: 'YBS11 / XBS11 / WBS11 / WBS12', syllabusSeries: 'Issue 1, September 2017',
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Level Business specification PDF (YBS11 / XBS11), Issue 1, September 2017',
@@ -2250,7 +2250,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'economics',
-    syllabusCode: 'YEC11', syllabusSeries: 'Issue 2, June 2018',
+    syllabusCode: 'YEC11 / XEC11 / WEC11/01 / WEC12/01', syllabusSeries: 'Issue 2, June 2018',
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'Pearson Edexcel -- official International Advanced Subsidiary/Advanced Level Economics specification PDF (YEC11 / XEC11)',

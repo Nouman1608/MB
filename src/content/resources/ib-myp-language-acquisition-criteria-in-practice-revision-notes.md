@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
 order: 2
-description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Language Acquisition's four assessment criteria -- Listening, Reading, Speaking and Writing -- with a worked example for each, tied to the emergent/capable/proficient proficiency phases."
+description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Language Acquisition's four assessment criteria -- Listening, Reading, Speaking and Writing -- with a worked example for each, tied to the emergent/capable/proficient proficiency phases."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false

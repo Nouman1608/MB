@@ -21,7 +21,7 @@ syllabusTopics:
     subtopic: "opportunity-cost"
   - qualification: "o-level"
     topic: "the-basic-economic-problem"
-    subtopic: "production-possibility-curve-diagrams"
+    subtopic: "production-possibility-curve-ppc-diagrams"
 description: "Finite resources and unlimited wants, economic and free goods, the factors of production, and opportunity cost, for Cambridge O Level Economics 2281."
 author: "salman-ahmad"
 publishedDate: 2026-08-18

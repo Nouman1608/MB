@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 order: 2
-description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Individuals and Societies's four assessment criteria -- Knowing and understanding, Investigating, Communicating, and Thinking critically -- with a worked example for each."
+description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Individuals and Societies's four assessment criteria -- Knowing and understanding, Investigating, Communicating, and Thinking critically -- with a worked example for each."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
