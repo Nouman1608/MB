@@ -58,9 +58,7 @@ Related: [Measurements and Their Errors revision notes](/resources/aqa-a-level-p
 
 **8.** A sphere's radius is measured with a percentage uncertainty of 2%. Since volume is proportional to r³, find the percentage uncertainty in the calculated volume. **[2]**
 
-**9.** Check whether the equation v² = u² + 2as is homogeneous, and explain what a homogeneous equation does and does not prove. **[3]**
-
-**10.** Two data points have overlapping error bars. What can be concluded about the difference between them? **[1]**
+**9.** Two data points have overlapping error bars. What can be concluded about the difference between them? **[1]**
 
 ---
 
@@ -92,9 +90,7 @@ Absolute = 0.0341 × 11.55 = **±0.39 Ω** [1].
 
 **8.** Raising to a power multiplies the percentage uncertainty by that power [1]: % uncertainty in V = 3 × 2% = **6%** [1].
 
-**9.** Base units: v² is (m/s)² = m² s⁻²; u² is m² s⁻²; 2as is m × m s⁻² = m² s⁻² [1] — all terms match, so the equation **is homogeneous** [1]. This proves the equation *could* be correct, but not that it *is* — a homogeneous equation can still be wrong by a dimensionless numerical factor [1].
-
-**10.** The difference between them **may not be significant** [1] — overlapping error bars mean the true values could plausibly be equal.
+**9.** The difference between them **may not be significant** [1] — overlapping error bars mean the true values could plausibly be equal.
 
 ---
 
@@ -106,5 +102,4 @@ Absolute = 0.0341 × 11.55 = **±0.39 Ω** [1].
 - Quoting a result to more significant figures than the uncertainty justifies.
 - Confusing repeatable (same method, same person) with reproducible (different method or person).
 - Forgetting to multiply, not add, the percentage uncertainty when a quantity is raised to a power.
-- Treating a homogeneous equation as proven correct, rather than merely dimensionally possible.
 - Declaring a definite difference between two data points whose error bars overlap.

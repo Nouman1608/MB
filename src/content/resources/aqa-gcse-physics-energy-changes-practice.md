@@ -46,7 +46,7 @@ Related: [Energy Changes in a System study guide](/resources/aqa-gcse-physics-en
 **4.** A crate of mass 12 kg is lifted 2.5 m onto a shelf. (g = 9.8 N/kg)
 
 **(a)** Calculate the gravitational potential energy gained. **[2]**
-**(b)** The crate later falls off the shelf and lands on the floor 1.0 m below the shelf. Calculate the g.p.e. lost during the fall (not the full 2.5 m). **[2]**
+**(b)** The crate later falls off the shelf and lands on a lower ledge 1.0 m below the shelf (not the floor). Calculate the g.p.e. lost during the fall (not the full 2.5 m). **[2]**
 
 **5.** In an experiment, 1.5 kg of water is heated using an electrical heater. The specific heat capacity of water is 4200 J/kg°C.
 
@@ -58,8 +58,6 @@ Related: [Energy Changes in a System study guide](/resources/aqa-gcse-physics-en
 
 **(a)** Calculate the power of the motor. **[2]**
 **(b)** A second motor transfers the same 900 J in 3.0 seconds. Which motor is more powerful, and why? **[2]**
-
-**7.** Explain why a question that asks you to "calculate the energy transferred when a ball is thrown upward" belongs to this sub-topic rather than to Conservation and Dissipation of Energy. **[2]**
 
 ---
 
@@ -73,7 +71,7 @@ Related: [Energy Changes in a System study guide](/resources/aqa-gcse-physics-en
 **(c)** It has **quadrupled** [1], because kinetic energy is proportional to **speed squared**, and the speed has doubled [1].
 
 **3. (a)** Ee = ½ × 40 × 0.15² [1] = **0.45 J** [1].
-**(b)** The equation only applies **within the limit of proportionality** — the spring must not be permanently stretched [1].
+**(b)** The equation only applies **within the limit of proportionality** — beyond this point, force is no longer proportional to extension [1].
 
 **4. (a)** Ep = 12 × 9.8 × 2.5 [1] = **294 J** [1].
 **(b)** Ep = 12 × 9.8 × 1.0 [1] = **117.6 J** [1] — the height used is the **height fallen**, not the full shelf height.
@@ -84,8 +82,6 @@ Related: [Energy Changes in a System study guide](/resources/aqa-gcse-physics-en
 
 **6. (a)** P = 900 ÷ 6.0 [1] = **150 W** [1].
 **(b)** The **second motor** [1] — it transfers the same energy in **less time**, so its rate of energy transfer (power) is greater [1].
-
-**7.** Because the question asks you to **calculate the size of an energy change** using the store equations (Ek, Ep) [1]; a question about *where the energy ends up afterwards* or about *reducing losses* would belong to Conservation and Dissipation instead [1].
 
 
 ---

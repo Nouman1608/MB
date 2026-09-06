@@ -51,19 +51,22 @@ Practise each as its **own rearrangeable formula** — exam questions typically 
 
 ## Worked example: concentration to number of particles
 
-250 cm³ of a 0.20 mol dm⁻³ solution. How many ions, given Avogadro constant = 6.02 × 10²³ mol⁻¹?
+250 cm³ of a 0.20 mol dm⁻³ solution of sodium chloride. How many ions, given Avogadro constant = 6.02 × 10²³ mol⁻¹?
 
 ```
 Step 1: convert volume to dm3
         250 cm3 = 0.250 dm3
 
-Step 2: moles = concentration x volume = 0.20 x 0.250 = 0.050 mol
+Step 2: moles of NaCl = concentration x volume = 0.20 x 0.250 = 0.050 mol
 
-Step 3: number of particles = moles x Avogadro constant
+Step 3: number of formula units = moles x Avogadro constant
                              = 0.050 x 6.02x10^23 = 3.01x10^22
+
+Step 4: NaCl gives 2 ions per formula unit (Na+ and Cl-):
+        number of ions = 2 x 3.01x10^22 = 6.02x10^22
 ```
 
-**Show every step explicitly** — AQA mark schemes award method marks for correct intermediate steps even if the final answer has a small arithmetic slip.
+**Show every step explicitly** — AQA mark schemes award method marks for correct intermediate steps even if the final answer has a small arithmetic slip. **Always name (or check) the solute** — the ionic multiplier depends on how many ions each formula unit releases.
 
 ## Worked example: mass to moles to particles
 

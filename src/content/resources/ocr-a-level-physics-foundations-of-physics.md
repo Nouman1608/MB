@@ -80,7 +80,8 @@ Horizontal component: Fx = F cos θ = 40 × cos(30°) = 40 × 0.866 =
 Vertical component: Fy = F sin θ = 40 × sin(30°) = 40 × 0.5 = **20 N**
 
 This exact method -- resolving using cos for the component along the
-angle and sin for the component perpendicular to it -- reappears
+axis from which the angle is measured, and sin for the component
+perpendicular to that axis -- reappears
 throughout Module 3 (Forces and motion) whenever an object moves or is
 acted on at an angle, so fluency here pays off well beyond Module 2
 itself.
@@ -113,10 +114,10 @@ endorsement and written-paper context involving calculated results.
   when combining measurements by multiplication or division, or vice
   versa when combining by addition or subtraction.
 - **Getting sin and cos swapped when resolving vectors.** The
-  component *along* the direction of the stated angle uses cosine; the
-  component *perpendicular* to it uses sine -- reversing this is one
-  of the most common errors in mechanics questions throughout the
-  course.
+  component *along the axis from which the angle is measured* uses
+  cosine; the component *perpendicular* to that axis uses sine --
+  reversing this is one of the most common errors in mechanics
+  questions throughout the course.
 - **Treating a scalar as if it had direction**, or vice versa --
   speed (scalar) and velocity (vector) are the classic example, and
   the specification expects this distinction to be applied

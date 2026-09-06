@@ -55,7 +55,7 @@ Calculate the relative atomic mass to one decimal place. **[3]**
 **(a)** State the group of the element, explaining your reasoning. **[2]**
 **(b)** Explain, in terms of electron shells, why a large jump occurs at this point rather than a gradual increase throughout. **[2]**
 
-**9.** Write the full electron configuration of chromium (Z = 23) and of copper (Z = 29), and explain why each does not follow the expected 4s-before-3d filling pattern predicted by aufbau order alone. **[4]**
+**9.** Write the full electron configuration of chromium (Z = 24) and of copper (Z = 29), and explain why each does not follow the expected 4s-before-3d filling pattern predicted by aufbau order alone. **[4]**
 
 ---
 

@@ -102,7 +102,7 @@ Unreactive because they have **full outer shells**, so there is no tendency to l
 
 **Choose by the property being exploited** — solubility, particle size, or boiling point. Naming the technique without the property is a partial answer.
 
-**Worked example — sand and salt solution.** To get **dry sand**, use **filtration**: the insoluble sand is trapped by the filter paper, exploiting the difference in **particle size** between the solid and the solution. To get **pure, dry salt crystals** from the filtered solution, use **crystallisation**: heat to evaporate some of the water, then leave the rest to crystallise, exploiting the fact that a solution's **solubility falls as it becomes more concentrated**.
+**Worked example — sand and salt solution.** To get **dry sand**, use **filtration**: the insoluble sand is trapped by the filter paper, exploiting the difference in **particle size** between the solid and the solution. To get **pure, dry salt crystals** from the filtered solution, use **crystallisation**: heat to evaporate some of the water until the solution becomes **saturated**, then leave the rest to evaporate (or cool) so the solute the solution can no longer hold comes out of solution as crystals.
 
 ## Exam traps
 

@@ -72,8 +72,7 @@ temperature of one kilogram of the substance by one degree Celsius.
 
 Power is defined as the rate at which energy is transferred or the rate
 at which work is done: power = energy transferred / time, and power =
-work done / time. One joule of work is done when a force of one newton
-causes a displacement of one metre. An energy transfer of 1 joule per
+work done / time. An energy transfer of 1 joule per
 second is equal to a power of 1 watt.
 
 ## Energy stores and calculating energy changes

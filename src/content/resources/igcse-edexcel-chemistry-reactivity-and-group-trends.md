@@ -87,7 +87,7 @@ The reactivity series (d) is one of the most exam-productive pieces of
 content in this specification because it predicts outcomes across many
 different reaction types — whether a displacement reaction will occur,
 which metal will be extracted more easily, and why some metals corrode
-faster than others. Learn the ten-metal order (potassium down to gold)
+faster than others. Learn the eleven-metal order (potassium down to gold)
 as a single memorised sequence, since nearly every question in this
 sub-topic assumes it as background knowledge.
 
@@ -121,7 +121,7 @@ avoid confusing the two conventions in an exam answer.
 
 Applying Group 1's "reactivity increases down the group" rule to Group
 7, where reactivity decreases down the group, or vice versa. Reciting
-the ten-metal reactivity order with a metal out of place, especially
+the eleven-metal reactivity order with a metal out of place, especially
 around the middle of the sequence (aluminium, zinc, iron). Defining
 oxidation and reduction correctly in one convention (oxygen or
 electrons) but applying the other convention's rule by mistake.
@@ -133,7 +133,7 @@ interchangeable explanations.
 
 - Learn Group 1 and Group 7 reactivity trends as opposite directions,
 each linked to its electron-configuration cause.
-- Memorise the ten-metal reactivity series in order.
+- Memorise the eleven-metal reactivity series in order.
 - Practise both the oxygen-based and electron-based definitions of
 oxidation and reduction on the same example reaction.
 - Be able to explain barrier methods, galvanising and sacrificial

@@ -51,10 +51,9 @@ the use of thermal insulation. Students should be able to explain that
 thermal energy transfer is reduced by materials with low thermal
 conductivity.
 
-**Required practical activity 2**: investigation to determine the
-effectiveness of different materials as thermal insulators and the role
-of thickness in thermal insulation, considering the varying results
-between materials tested.
+**Required practical activity 2 (physics only)**: investigate the
+effectiveness of different materials as thermal insulators and the
+factors that may affect the thermal insulation properties of a material.
 
 Students should be able to describe how the rate of cooling of a building
 is affected by the thickness and thermal conductivity of its walls. The
@@ -63,8 +62,8 @@ energy transfer by conduction across the material.
 
 Students should be able to calculate the efficiency for the transfer of
 energy by a device using: efficiency = useful output energy transfer
-total ÷ total input energy transfer, and efficiency = useful power output
-÷ total power input. Students should be able to describe ways to increase
+÷ total input energy transfer, and efficiency = useful power output
+÷ total power input. (HT only) Students should be able to describe ways to increase
 the efficiency of an intended energy transfer.
 
 ## Conservation of energy
@@ -95,8 +94,10 @@ insulating material, warm air would simply circulate within the cavity
 and carry energy across it far more quickly. The insulation is not
 "stopping" energy transfer altogether, only reducing its **rate**.
 
-**Required practical activity 2** investigates the effectiveness of
-different materials as thermal insulators. Identical containers of hot
+**Required practical activity 2 (physics only)** investigates the
+effectiveness of different materials as thermal insulators and the
+factors that may affect the thermal insulation properties of a material.
+Identical containers of hot
 water are wrapped in different materials, or in different thicknesses of
 the same material, and the temperature of each is measured at regular
 time intervals as it cools. The material producing the **smallest
@@ -115,7 +116,7 @@ efficiency = useful power output ÷ total power input
 ```
 
 Efficiency has no units and is often expressed as a percentage (multiply
-by 100). Ways to increase the efficiency of an intended energy transfer
+by 100). **(HT only)** Ways to increase the efficiency of an intended energy transfer
 include reducing friction (lubrication) and reducing unwanted thermal
 transfer (insulation).
 
@@ -148,7 +149,7 @@ insulation — a low thermal conductivity material is a good insulator.
 - Explain how lubrication and thermal insulation reduce unwanted energy transfer.
 - Describe Required practical activity 2 (effectiveness of insulating materials).
 - Use efficiency = useful output ÷ total input (for both energy and power).
-- Describe ways to increase efficiency of an energy transfer.
+- (HT only) Describe ways to increase efficiency of an energy transfer.
 
 ## Related resources
 

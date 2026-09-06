@@ -70,7 +70,7 @@ project, and a scientific investigation).
 ## Topic E -- Nuclear and quantum physics (23 hours SL / 39 hours HL)
 
 - **E.1 Structure of the atom**
-- **E.2 Quantum physics**
+- **E.2 Quantum physics** (HL only)
 - **E.3 Radioactive decay**
 - **E.4 Fission**
 - **E.5 Fusion and stars**
@@ -82,7 +82,7 @@ forces, energy, fields and waves -- applied at increasing scale and
 abstraction. Topic A (mechanics) and Topic C (waves) give the
 mathematical language that Topic D (fields) and Topic E (nuclear and
 quantum) then reuse for phenomena too small or too fast to observe
-directly. HL-only content (A.4, A.5, B.4, D.4, plus HL extensions
+directly. HL-only content (A.4, A.5, B.4, D.4, E.2, plus HL extensions
 throughout) tends to sit at exactly these more abstract extensions --
 relativity, thermodynamics, electromagnetic induction -- rather than
 being spread evenly across the syllabus.
@@ -137,8 +137,8 @@ the five topics' content.
 
 ## Why HL-only content clusters where it does
 
-HL-only content -- A.4 and A.5 in Topic A, B.4 in Topic B, and D.4 in
-Topic D, alongside HL extensions elsewhere -- is not distributed evenly
+HL-only content -- A.4 and A.5 in Topic A, B.4 in Topic B, D.4 in
+Topic D, and E.2 in Topic E, alongside HL extensions elsewhere -- is not distributed evenly
 across the syllabus but instead clusters at points where the course's
 core models are pushed into more abstract or more extreme territory:
 relativity extends mechanics to speeds approaching the speed of light,

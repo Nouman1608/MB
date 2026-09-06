@@ -23,7 +23,7 @@ eight topics in OxfordAQA International GCSE Physics (9203), a linear
 qualification (120 guided learning hours) with all exams at the end of
 the course. Content marked "P" in the official specification is
 assessed only in the full Physics (9203) award and is not shared with
-the smaller International GCSE Core Physics (9223).
+International GCSE Combined Science (9204).
 
 ## Where this fits in 9203
 

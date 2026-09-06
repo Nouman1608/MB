@@ -39,7 +39,7 @@ Orders of magnitude. Estimation of approximate values of physical quantities. St
 
 An **order of magnitude** is a power of ten used to give a rough sense of the scale of a quantity, without claiming precision. Two quantities are said to be "of the same order of magnitude" if they are within a factor of about 3 of the same power of ten; a quantity's order of magnitude is the power of ten closest to its value.
 
-For example, a result of 3.4 x 10^5 has order of magnitude 10^5, since 3.4 is closer to 1 than to 10 on the relevant power-of-ten scale. This matters because two very different-looking numbers, such as 2 x 10^5 and 8 x 10^5, are still both order 10^5 -- while a number just the other side of a boundary, such as 4 x 10^6, jumps to a different order of magnitude entirely, even though it is less than twice as large as 8 x 10^5. Estimation questions are marked on getting the power of ten right, not on how close the leading digit is.
+For example, a result of 3.4 x 10^5 has order of magnitude 10^6, not 10^5, since 3.4 is closer to 10 than to 1 on the relevant power-of-ten scale (the crossover point is at √10 ≈ 3.16, so a leading figure above that rounds up to the next power of ten -- which is also why 8 x 10^5 is order 10^6). This matters because two very different-looking numbers can still share an order of magnitude -- 2 x 10^5 and 3 x 10^5 are both order 10^5 -- while a number just the other side of the boundary jumps to a different order of magnitude entirely, even when it is not much larger: 4 x 10^6 is order 10^7, a different order of magnitude from 8 x 10^5's order 10^6, even though it is only five times as large. Estimation questions are marked on getting the power of ten right, not on how close the leading digit is.
 
 ## Estimating physical quantities
 
@@ -70,7 +70,7 @@ capacity       = area / area per spectator = 2500 / 0.5 = 5000
 -> 5000 is order of magnitude 10^3, not 10^2 as the student claimed
 ```
 
-The student's answer is out by a whole order of magnitude -- most likely from dividing the wrong way round -- and a quick order-of-magnitude recalculation catches the error immediately, without needing to redo the full working in detail. This is the "sanity-check" use of estimation referred to above: it does not replace a proper calculation, but it does flag when a proper calculation has clearly gone wrong.
+The student's answer is out by a whole order of magnitude -- most likely from a slip of a factor of ten somewhere in the arithmetic -- and a quick order-of-magnitude recalculation catches the error immediately, without needing to redo the full working in detail. This is the "sanity-check" use of estimation referred to above: it does not replace a proper calculation, but it does flag when a proper calculation has clearly gone wrong.
 
 ## Common mistakes
 

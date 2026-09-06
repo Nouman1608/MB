@@ -28,12 +28,14 @@ within 3.1 Physical Chemistry.
 
 ## Scope of this guide
 
-3.1.2 Amount of Substance has four sub-topics: 3.1.2.1 and 3.1.2.2
-(covered here), plus 3.1.2.3 The Ideal Gas Equation and 3.1.2.4
-Empirical and Molecular Formula. This resource focuses on the
-foundational mass and mole concepts that the later two sub-topics build
-on directly; the ideal gas equation and empirical/molecular formula
-calculations are left for a separate resource.
+3.1.2 Amount of Substance has five sub-topics: 3.1.2.1 and 3.1.2.2
+(covered here), plus 3.1.2.3 The Ideal Gas Equation, 3.1.2.4
+Empirical and Molecular Formula, and 3.1.2.5 Balanced Equations and
+Associated Calculations (percentage yield, atom economy and titration
+calculations). This resource focuses on the
+foundational mass and mole concepts that the later sub-topics build
+on directly; the ideal gas equation, empirical/molecular formula and
+balanced-equation calculations are left for separate resources.
 
 ## Syllabus coverage
 
@@ -83,25 +85,32 @@ tested is applying it correctly in a calculation, not recalling it.
 
 ## Worked example: concentration to number of particles
 
-A question gives 250 cm³ of a solution with a concentration of
-0.20 mol dm⁻³ and asks for the number of ions present, given the
-Avogadro constant as 6.02 × 10²³ mol⁻¹.
+A question gives 250 cm³ of a sodium chloride solution with a
+concentration of 0.20 mol dm⁻³ and asks for the number of ions present,
+given the Avogadro constant as 6.02 × 10²³ mol⁻¹.
 
 ```
 Step 1: convert volume to dm3
         250 cm3 = 0.250 dm3
 
-Step 2: calculate moles
+Step 2: calculate moles of NaCl
         moles = concentration x volume = 0.20 x 0.250 = 0.050 mol
 
-Step 3: convert moles to number of particles
-        number of particles = moles x Avogadro constant
+Step 3: convert moles to number of formula units
+        number of formula units = moles x Avogadro constant
                             = 0.050 x 6.02x10^23 = 3.01x10^22
+
+Step 4: apply the ionic multiplier
+        NaCl gives 2 ions per formula unit (Na+ and Cl-), so
+        number of ions = 2 x 3.01x10^22 = 6.02x10^22
 ```
 
 Every step should be shown explicitly, since AQA mark schemes award
 method marks for correct intermediate steps even if the final answer is
-wrong due to a small arithmetic slip.
+wrong due to a small arithmetic slip. Naming the solute matters: the
+number of ions depends on how many ions each formula unit releases, so
+the same moles of a solute like magnesium chloride (three ions per
+formula unit) would give a different final answer.
 
 ## Key terms to define precisely
 

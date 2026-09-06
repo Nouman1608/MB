@@ -21,9 +21,10 @@ featured: false
 This guide covers **Topic P2 Forces**, the second of eight content
 topics in OCR GCSE (9-1) Physics A -- Gateway Science (J249), for
 first assessment 2018. It follows directly from Topic P1 Matter and is
-assessed on Paper 1 alongside Topics P3 and P4, at both Foundation and
-Higher tier -- statements marked in bold in the specification are
-Higher-tier-only, with everything else assessed on both tiers.
+assessed on Paper 1 (alongside Topics P1, P3, P4 and P9) at Foundation
+Tier, and on Paper 3 (alongside the same topics) at Higher Tier --
+statements marked in bold in the specification are Higher-tier-only,
+with everything else assessed on both tiers.
 
 ## Syllabus coverage
 

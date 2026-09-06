@@ -41,7 +41,7 @@ gravitational potential     Ep = m g h
 
 **Kinetic energy depends on v², not v.** Doubling speed quadruples Ek — this single fact drives most of the harder exam questions in this sub-topic, including any question about stopping distance or collision severity.
 
-**Elastic potential energy only applies within the limit of proportionality** — beyond that point the spring is permanently deformed and the equation no longer holds. Examiners test this by asking you to state the condition, not just apply the formula.
+**Elastic potential energy only applies within the limit of proportionality** — beyond that point, force is no longer proportional to extension, and the equation no longer holds. This is a separate condition from the **elastic limit**, beyond which the spring is permanently (inelastically) deformed; the elastic limit lies at or beyond the limit of proportionality. Examiners test this by asking you to state the condition, not just apply the formula.
 
 **g.p.e. uses height gained, not total height.** If an object falls partway, use the *change* in height, not the starting height above the ground.
 
@@ -76,7 +76,7 @@ At maximum height (ignoring air resistance), all Ek has become Ep: mgh = 6.4, so
 
 ## Distinguishing this sub-topic from Conservation and Dissipation
 
-It is easy to blur 4.1.1 (this sub-topic) with 4.1.2 Conservation and Dissipation of Energy — they sit next to each other and share the idea of energy stores. The distinction that actually matters for exam answers: **4.1.1 is about calculating the size of an energy change** (Ek, Ee, Ep, thermal energy, power) using the equations above; **4.1.2 is about what happens to energy afterwards** — dissipation, efficiency, and reducing unwanted transfers. A question that asks you to *calculate* an energy value belongs here; a question that asks you to *explain where energy goes* or *improve efficiency* belongs in Conservation and Dissipation.
+It is easy to blur 4.1.1 (this sub-topic) with 4.1.2 Conservation and Dissipation of Energy — they sit next to each other and share the idea of energy stores. The distinction is by **subject matter**, not by whether a question calculates or explains: **4.1.1 covers the energy associated with a system** — kinetic, elastic potential and gravitational potential energy, thermal energy from heating, and power — using the equations above; **4.1.2 covers the dissipation of energy**, ways of reducing unwanted energy transfers (lubrication, insulation), and calculating the efficiency of a transfer. Note that 4.1.2 has calculations of its own (efficiency), so a question is not automatically 4.1.1 just because it asks for a calculation.
 
 ## Exam traps
 

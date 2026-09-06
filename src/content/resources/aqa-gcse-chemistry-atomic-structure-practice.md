@@ -79,7 +79,7 @@ Related: [Atomic Structure and the Periodic Table revision notes](/resources/aqa
 **9.** Melting and boiling points **increase down the group** [1], because the molecules **get larger** as you go down [1], so the **intermolecular forces between molecules become stronger** and more energy is needed to overcome them [1].
 
 **10. (a)** **Filtration** [1] separates the insoluble sand from the salt solution, exploiting the difference in **particle size** [1].
-**(b)** **Crystallisation** [1] of the filtered salt solution — heating to evaporate some water and leave the rest to crystallise — exploiting the **solubility** of salt, which falls as the solution becomes more concentrated [1].
+**(b)** **Crystallisation** [1] of the filtered salt solution — heating to evaporate water until the solution becomes **saturated**, then leaving it to evaporate further (or cool) so the salt it can no longer hold crystallises out [1].
 
 ---
 

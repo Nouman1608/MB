@@ -55,7 +55,7 @@ Related: [Estimation of Physical Quantities study guide](/resources/aqa-alevel-p
 
 **1.** Two quantities are of the same order of magnitude if they are **within a factor of about 3 of the same power of ten** [1] — that is, the power of ten closest to each quantity's value is the **same power** [1].
 
-**2.** **10⁵** [1].
+**2.** **10⁶** [1].
 
 **3.** **≈ 10⁻¹⁰ m** [1]. This uses the general physics knowledge that atoms are of the order of a tenth of a nanometre across, far smaller than anything visible even under an optical microscope [1].
 
@@ -69,7 +69,7 @@ Related: [Estimation of Physical Quantities study guide](/resources/aqa-alevel-p
 
 **8.** A reasonable estimate for a car's mass is ≈ 10³ kg, and a reasonable motorway speed is ≈ 30 m s⁻¹ (order 10¹ m s⁻¹) [1] [1]. Kinetic energy = ½mv² has an order of magnitude of ≈ 10³ × (10¹)² = 10⁵ J [1]. The student's answer of 4.5 × 10¹² J is about **seven orders of magnitude too large** to be a plausible car's kinetic energy, so it must contain an error [1] — exactly the kind of sanity check order-of-magnitude reasoning is used for.
 
-**9.** The correct calculation is area ÷ area-per-spectator = (50 × 50) ÷ 0.5 = 2500 ÷ 0.5 = **5000**, order of magnitude **10³** [1] [1]. The student's answer of 5 × 10² is **one order of magnitude too small** — most likely from dividing the wrong way round (multiplying by 0.5 instead of dividing by it) [1]. A more realistic estimate is therefore of order **10³ spectators** [1].
+**9.** The correct calculation is area ÷ area-per-spectator = (50 × 50) ÷ 0.5 = 2500 ÷ 0.5 = **5000**, order of magnitude **10³** [1] [1]. The student's answer of 5 × 10² is **one order of magnitude too small** — most likely from a slip of a factor of ten somewhere in the arithmetic [1]. A more realistic estimate is therefore of order **10³ spectators** [1].
 
 ---
 

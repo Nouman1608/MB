@@ -22,7 +22,7 @@ This guide covers **Topic 2 Energy**, the second of eight topics in
 OxfordAQA International GCSE Physics (9203), for exams May/June 2018
 onwards. It is a linear, untiered qualification with 120 guided learning
 hours; content marked 'P' is assessed only in the full Physics (9203)
-award and not shared with the smaller Core Physics (9223) qualification.
+award and is not shared with International GCSE Combined Science (9204).
 
 ## Where this fits in 9203
 

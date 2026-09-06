@@ -27,9 +27,9 @@ Base units: kg, m, s, A, K, mol.
 
 Derived: N = kg m s⁻², J = kg m² s⁻², W = kg m² s⁻³, Pa = kg m⁻¹ s⁻².
 
-**Checking homogeneity** — both sides of an equation must have the same base units. It is the fastest error check available, but note its limit: a homogeneous equation may still be wrong by a **dimensionless constant**, so homogeneity shows an equation *could* be right, not that it definitely is.
+> **Aside (not examined):** dimensional analysis is not required by this specification. For background only: checking homogeneity means confirming both sides of an equation have the same base units. Even a homogeneous equation may still be wrong by a **dimensionless constant**, so homogeneity shows an equation *could* be right, not that it definitely is.
 
-**Prefixes:** T 10¹², G 10⁹, M 10⁶, k 10³, c 10⁻², m 10⁻³, μ 10⁻⁶, n 10⁻⁹, p 10⁻¹².
+**Prefixes:** T 10¹², G 10⁹, M 10⁶, k 10³, c 10⁻², m 10⁻³, μ 10⁻⁶, n 10⁻⁹, p 10⁻¹², f 10⁻¹⁵.
 
 ## Accuracy, precision, resolution
 
@@ -115,11 +115,10 @@ Order-of-magnitude estimates are examinable: state assumptions, use round number
 
 ## Self-test
 
-1. What does checking homogeneity prove, and what does it not?
-2. Distinguish resolution from accuracy.
-3. Which error type does averaging reduce?
-4. A length is known to 2%. What is the uncertainty in a volume proportional to L³?
-5. How do you find the uncertainty in a gradient?
-6. A wire has length 0.850 m ± 0.001 m and diameter 0.36 mm ± 0.01 mm. Find the percentage uncertainty in its cross-sectional area, and identify the dominant source.
+1. Distinguish resolution from accuracy.
+2. Which error type does averaging reduce?
+3. A length is known to 2%. What is the uncertainty in a volume proportional to L³?
+4. How do you find the uncertainty in a gradient?
+5. A wire has length 0.850 m ± 0.001 m and diameter 0.36 mm ± 0.01 mm. Find the percentage uncertainty in its cross-sectional area, and identify the dominant source.
 
-**Answers:** 1. It proves the equation is dimensionally consistent and so could be correct; it cannot detect an error in a dimensionless constant. 2. Resolution is the smallest change an instrument can detect; accuracy is closeness to the true value — a high-resolution instrument with a zero error is precise and high-resolution but inaccurate. 3. Random error only. 4. 6%. 5. Draw the steepest and shallowest lines that pass through all the error bars and take half the difference between their gradients. 6. % uncertainty in d = (0.01 ÷ 0.36) × 100 = 2.8%; since A ∝ d², % uncertainty in A = 2 × 2.8% = 5.6%. The diameter dominates, since the length is known to only about 0.1%.
+**Answers:** 1. Resolution is the smallest change an instrument can detect; accuracy is closeness to the true value — a high-resolution instrument with a zero error is precise and high-resolution but inaccurate. 2. Random error only. 3. 6%. 4. Draw the steepest and shallowest lines that pass through all the error bars and take half the difference between their gradients. 5. % uncertainty in d = (0.01 ÷ 0.36) × 100 = 2.8%; since A ∝ d², % uncertainty in A = 2 × 2.8% = 5.6%. The diameter dominates, since the length is known to only about 0.1%.

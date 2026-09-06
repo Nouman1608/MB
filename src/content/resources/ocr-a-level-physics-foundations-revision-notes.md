@@ -55,8 +55,8 @@ Combining by MULTIPLICATION/DIVISION: add PERCENTAGE uncertainties
 **Resolving a vector into perpendicular components:**
 
 ```
-Fx = F cos(theta)   [component ALONG the stated angle]
-Fy = F sin(theta)   [component PERPENDICULAR to it]
+Fx = F cos(theta)   [component ALONG the axis from which theta is measured]
+Fy = F sin(theta)   [component PERPENDICULAR to that axis]
 ```
 
 **The most common error in mechanics:** swapping sin and cos when resolving.
@@ -112,7 +112,7 @@ The specification explicitly expects candidates to make sensible estimates of ph
 
 - Confusing **precision** (clustered) with **accuracy** (close to true value).
 - Adding **absolute** uncertainties instead of **percentage** uncertainties when combining by multiplication/division, or vice versa for addition/subtraction.
-- **Swapping sin and cos** when resolving a vector — cos for the component along the stated angle, sin for perpendicular.
+- **Swapping sin and cos** when resolving a vector — cos for the component along the axis from which the angle is measured, sin for the component perpendicular to that axis.
 - Treating a scalar as if it had direction (or vice versa) — speed (scalar) vs. velocity (vector) is the classic test case.
 - Forgetting to **check unit homogeneity** before accepting a derived formula.
 

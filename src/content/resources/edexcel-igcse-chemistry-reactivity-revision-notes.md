@@ -51,7 +51,7 @@ Potassium, Sodium, Lithium, Calcium, Magnesium, Aluminium, Zinc,
 Iron, Copper, Silver, Gold
 ```
 
-Learn this **ten-metal order** as one memorised sequence — nearly every question in this section assumes it as background knowledge. Determined from: reactions with **water**, reactions with **dilute HCl/H₂SO₄**, and **displacement reactions** (metal + metal oxide; metal + aqueous metal salt).
+Learn this **eleven-metal order** as one memorised sequence — nearly every question in this section assumes it as background knowledge. Determined from: reactions with **water**, reactions with **dilute HCl/H₂SO₄**, and **displacement reactions** (metal + metal oxide; metal + aqueous metal salt).
 
 **Rusting:** iron rusts in the presence of **both water and oxygen** together (neither alone is sufficient). Prevention: **barrier methods** (paint, oil — physically excludes water/oxygen), **galvanising** (zinc coating — also provides sacrificial protection if scratched), **sacrificial protection** (a more reactive metal, e.g. zinc or magnesium, corrodes preferentially, protecting the iron).
 
@@ -110,7 +110,7 @@ These four sub-topics build a single connected argument even though they're taug
 ## Quick self-test
 
 - State the reactivity trend direction for Group 1 and for Group 7, and explain the electron-configuration cause of each.
-- Recite the ten-metal reactivity series in order.
+- Recite the eleven-metal reactivity series in order.
 - Predict whether magnesium will displace zinc from zinc sulfate solution, and explain using both oxidation/reduction conventions.
 - Name the two conditions both required for iron to rust.
 - Explain why galvanising still protects iron even after the zinc coating is scratched.

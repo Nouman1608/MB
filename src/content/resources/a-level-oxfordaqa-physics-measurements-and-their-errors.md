@@ -12,17 +12,18 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "measurements-and-their-errors-oxfordaqa-alevel"
-description: "SI units, measurement limitations and estimation -- the opening section of OxfordAQA International AS & A-Level Physics (9630), shared content with International AS (9610)."
+description: "SI units, measurement limitations and estimation -- the opening section of OxfordAQA International AS & A-Level Physics (9630), shared content with the International AS award (9631)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
 This guide covers **Section 3.1 Measurements and Their Errors**, the
-first of nine sections in OxfordAQA International AS & A-Level Physics
-(9630). Sections 3.1-3.5 form the shared AS/A-level content
-(International AS is co-teachable as 9610); sections 3.6-3.9 are
-International A-level only.
+first of thirteen content sections in OxfordAQA International AS & A-Level Physics
+(specification code 9630). Sections 3.1-3.5 form the shared AS/A-level content,
+assessed in both the International AS award (entry code 9631) and the
+International A-level award (entry code 9632, unit codes PH01-PH05);
+sections 3.6-3.13 are International A-level only.
 
 ## Where this fits in 9630
 
@@ -71,9 +72,9 @@ OxfordAQA International AS & A-Level Physics specification PDF —
 
 **Derived units** are combinations of base units, for example N = kg m s⁻², J = kg m² s⁻², W = kg m² s⁻³, Pa = kg m⁻¹ s⁻².
 
-**Prefixes** scale a unit up or down by a power of ten: T (10¹²), G (10⁹), M (10⁶), k (10³), c (10⁻²), m (10⁻³), μ (10⁻⁶), n (10⁻⁹), p (10⁻¹²).
+**Prefixes** scale a unit up or down by a power of ten: T (10¹²), G (10⁹), M (10⁶), k (10³), c (10⁻²), m (10⁻³), μ (10⁻⁶), n (10⁻⁹), p (10⁻¹²), f (10⁻¹⁵).
 
-**Checking homogeneity** — both sides of an equation must reduce to the same base units. This is the fastest available check on whether an equation could be correct, but it has a limit: a homogeneous equation may still be wrong by a **dimensionless numerical constant**, such as a missing factor of 2 or π, so homogeneity shows an equation *could* be right, not that it definitely is.
+> **Aside (not examined):** dimensional analysis is not required by this specification and will not be examined. For background only: checking homogeneity means confirming both sides of an equation reduce to the same base units. Even a homogeneous equation may still be wrong by a **dimensionless numerical constant**, such as a missing factor of 2 or π, so homogeneity shows an equation *could* be right, not that it definitely is.
 
 ## Random and systematic error
 
