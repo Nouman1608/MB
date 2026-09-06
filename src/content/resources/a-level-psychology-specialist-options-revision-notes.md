@@ -131,6 +131,32 @@ teach (e.g. Consumer Psychology when your course actually covers
 Clinical and Health) provides no useful practice material at all,
 however well-written the questions are.
 
+## Worked example: applying a concept in Consumer Psychology
+
+Question: explain why a limited-time discount offer might increase
+impulse purchases, using a named psychological concept.
+
+```
+Weak answer:    "People like discounts" -- no psychological
+                framework applied.
+Strong answer:  Apply the concept of scarcity/loss aversion --
+                framing an offer as time-limited increases perceived
+                urgency, and the prospect of losing access to a
+                discount is processed as a potential loss, which
+                behavioural research suggests people weight more
+                heavily than an equivalent potential gain.
+Evaluation:     Note a limitation, e.g. this effect may be weaker for
+                planned, high-value purchases than for low-cost,
+                impulse-driven ones, so the explanation may not
+                generalise across all types of consumer decision.
+```
+
+This mirrors the apply-then-evaluate structure already shown for
+Health and Organisational Psychology above — the same reasoning shape
+carries across all four specialist options, which is worth
+recognising explicitly rather than relearning it separately for each
+one.
+
 ## Self-test
 
 1. How many of the four specialist options does a typical course
