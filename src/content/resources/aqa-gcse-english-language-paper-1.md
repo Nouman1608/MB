@@ -3,7 +3,7 @@ title: "AQA GCSE English Language: Paper 1 — Explorations in Creative Reading 
 resourceType: "study-guides"
 subject: "english"
 level: ["gcse"]
-topic: "Paper 1 -- Explorations in Creative Reading and Writing"
+topic: "Paper 1 – Explorations in Creative Reading and Writing"
 boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8700"]

@@ -3,7 +3,7 @@ title: "AQA GCSE English Language: Paper 2 — Writers' Viewpoints and Perspecti
 resourceType: "study-guides"
 subject: "english"
 level: ["gcse"]
-topic: "Paper 2 -- Writers' Viewpoints and Perspectives"
+topic: "Paper 2 – Writers' Viewpoints and Perspectives"
 boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8700"]

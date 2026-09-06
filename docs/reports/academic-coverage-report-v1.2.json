@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:44:52.493Z",
+  "generatedAt": "2026-09-06T12:56:06.727Z",
   "rowCount": 160,
   "rows": [
     {
@@ -7417,7 +7417,7 @@
       "assessmentSourceUrl": "https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/",
       "assessmentVerifiedOn": "2026-08-28",
       "assessmentLifecycleStatus": "current",
-      "studyGuideCount": 2,
+      "studyGuideCount": 3,
       "revisionNoteCount": 2,
       "pastPaperCount": 0,
       "practiceQuestionCount": 2,
@@ -7428,14 +7428,14 @@
       "flashcardCount": 0,
       "videoCount": 0,
       "diagnosticCount": 0,
-      "totalResourceCount": 6,
+      "totalResourceCount": 7,
       "namedAuthor": "Marlbridge Academic Team (organisation byline — see v1.2 WS7)",
       "namedReviewer": "NO_DATA",
       "lastReview": "2026-09-06",
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 5811,
+      "totalQualifyingWordCount": 6797,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "marlbridge",
