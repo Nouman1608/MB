@@ -3,8 +3,8 @@ title: "O Levels"
 order: 2
 level: "o-levels"
 marlbridgeTeaches: "teaching"
-shortDescription: "Full O Level teaching with structured revision and past-paper practice."
-description: "Full O Level teaching with structured revision and past-paper practice."
+shortDescription: "Full Cambridge O Level teaching, with structured revision and past-paper practice worked through in class."
+description: "Full Cambridge O Level teaching, with structured revision and past-paper practice worked through in class."
 curriculum: "Cambridge"
 ageRange: "14–16"
 countryAvailability: ["PK", "WW"]

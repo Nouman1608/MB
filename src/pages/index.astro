@@ -1,6 +1,6 @@
 ---
 /**
- * Conversion & Trust round (2026-09-06, D-144) -- homepage resequenced.
+ * Conversion & Trust round (2026-09-06, D-149) -- homepage resequenced.
  *
  * The previous order opened with a mission statement and two browsing
  * actions, then ran thirteen sections in which the tuition offer, the
@@ -27,6 +27,7 @@ import ProgramsSection from '../components/sections/ProgramsSection.astro';
 import TeachersBand from '../components/sections/TeachersBand.astro';
 import HowTuitionWorks from '../components/sections/HowTuitionWorks.astro';
 import StudentOutcomes from '../components/sections/StudentOutcomes.astro';
+import AcademyResults from '../components/sections/AcademyResults.astro';
 import TuitionOptions from '../components/sections/TuitionOptions.astro';
 import SubjectsSection from '../components/sections/SubjectsSection.astro';
 import ResourcesSection from '../components/sections/ResourcesSection.astro';
@@ -62,8 +63,13 @@ const faq = faqNode(TUITION_FAQS);
   {/* 4. The teachers -- Marlbridge's strongest verifiable asset. */}
   <TeachersBand />
 
-  {/* 5-6. How tuition works, then real student progress when it exists. */}
+  {/* 5-6. How tuition works, then evidence of student progress.
+      AcademyResults carries Learners Academy's attributed results (D-150).
+      StudentOutcomes stays in the sequence for MARLBRIDGE's own consented
+      outcomes and still renders nothing, because none exist yet -- the two
+      are deliberately not merged. */}
   <HowTuitionWorks />
+  <AcademyResults surface="white" showCta={false} />
   <StudentOutcomes />
 
   {/* 7. Group vs one-to-one, and the entry point to real fees. */}

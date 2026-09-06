@@ -6,8 +6,10 @@ import { primaryNav } from '../../data/navigation';
     {primaryNav.map((item) => (
       <a href={item.href} class="border-b border-navy-rule py-3.5 font-display text-2xl text-ivory">{item.label}</a>
     ))}
+    {/* Conversion & trust round (2026-09-07, D-150) -- "Explore Programs"
+        removed here too, matching the header. Programs is the first link in
+        the list above, so this button only ever duplicated it. */}
     <div class="mt-7 flex flex-col gap-3">
-      <a href="/programs/" class="rounded-sm bg-ivory py-4 text-center text-[15px] font-medium text-navy-800">Explore Programs</a>
       {/* v1.x CLOSURE follow-up -- relabelled/restyled from the plain
           "Contact" ghost button to match the new gold "Free Trial Class"
           header CTA (same /contact/ destination -- "Contact" is not in

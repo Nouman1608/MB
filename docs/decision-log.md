@@ -6977,3 +6977,44 @@ Each file gained a new "Section A — Multiple choice (topic sample)" section (5
 **Verification (all run on the final tree, not an intermediate one):** `npm run validate:academic` PASS; `npm run build` PASS (1,978 pages); `npm run audit:all` **PASS — an improvement on the pre-existing `main`, which failed this chain**; `node scripts/test-negative-validation-suite.mjs` all categories pass; `npx astro check` 0 errors / 0 warnings; `npm audit --omit=dev` 0 vulnerabilities; functions unit tests 31/31. `audit:accessibility` PASS across 1,978 pages. Rendered HTML spot-checked on `/`, `/trial/`, `/programs/igcse/` and `/authors/muhammad-ghazali-siddiqui/`: exactly one `h1` each, no skipped heading levels, derived board list and teacher count correct, trial-context box `hidden` by default, and the a/an article helper correct across all six taught programmes (an earlier draft rendered "Try a IGCSE class first").
 
 **Still open, and needing the owner:** real consented testimonials/case studies; a decision on the redundant "Explore Programs" header button now that the gold trial CTA is the primary action; confirmation of marking/feedback/reporting processes if they are to be published; and the CRM-side integration required before trial-scheduled, trial-attended or paid-enrolment can be measured at all.
+
+## D-150 — Learners Academy's results and reviews published under attribution (partial override of D-034); redundant header CTA removed; O Level past-paper wording made precise
+
+**Date:** 2026-09-07
+
+**Trigger:** Owner responses to the four open items left by D-149.
+
+### 1. Results and testimonials — D-034's testimonial restriction lifted, with conditions
+
+**Owner instruction (2026-09-07):** "Consented testimonials or case studies: you can use from learnersacademy.com.pk".
+
+**What that overrides:** D-034 recorded that Learners Academy was approved as evidence for **pricing and faculty information only**, and that "its academic taxonomy, results, testimonials or unsupported claims are NOT imported." The owner has now lifted that restriction **for results and testimonials specifically**. The academic-taxonomy and unsupported-claims half of D-034 was not raised and **still stands** — Marlbridge's matrix remains its own.
+
+**What was read, not assumed:** `https://learnersacademy.com.pk/results/`, fetched 2026-09-07. It is unusually disciplined source material: 51 grades from 44 students in the August 2026 season, published with the B's (16) and the single C left in, first name and initial only because some students are minors, and a stated check against the official Cambridge International Statement of Results where one was sent. The arithmetic was **re-derived rather than copied**: 4 + 30 + 16 + 1 = 51, and (4 + 30) / 51 = 66.7%, consistent with the published 67%.
+
+**The attribution problem, and how it is handled.** These students studied at Learners Academy and these reviews were left about Learners Academy. Presenting them in Marlbridge's voice would misattribute another organisation's results — the same class of error the site already guards against when it insists a teacher's previous school is not an endorsement of Marlbridge. What makes publication honest is the relationship already stated on the homepage: Learners Academy is the founding academy behind Marlbridge and the same teachers now teach under the Marlbridge name. So the data lives in its own file (`src/data/learners-academy-evidence.ts`), **not** in `src/data/outcomes.ts`, and `AcademyResults.astro` names Learners Academy in the eyebrow, in the first sentence, and in a source line carrying the URL and the date it was read.
+
+**`src/data/outcomes.ts` remains empty and stays in the homepage sequence.** Marlbridge's own consented outcomes are still a genuine gap; merging the two files would have hidden that gap rather than closed it.
+
+**Explicitly NOT imported, and not to be added without a new decision:**
+- **"4,200+ A & A* grades"** and **"9+ years teaching"** from the Learners Academy homepage — lifetime aggregates with no published basis, year or method. The results-season figures are checkable; these are not.
+- **Any `AggregateRating` or `Review` JSON-LD.** The 4.6★/32 reviews figure is Learners Academy's Google rating for Learners Academy. Emitting it as structured data on a Marlbridge page would assert a review rating for the wrong entity — a fabricated rating in Google's terms however real the number is elsewhere. It is rendered as attributed plain text with a link out and **no schema whatsoever**; verified absent from the built HTML.
+- **Full surnames**, for the same minor-safeguarding reason the source gives.
+
+**Consent basis — raised explicitly, and answered.** The owner was asked directly, in a question that stated the concern rather than burying it: consent given to Learners Academy to publish on `learnersacademy.com.pk` is not automatically consent to republish under a different brand, and some of these students are minors. The owner was offered three options (publish in full / publish the grade spread but hold the four named quotes / hold all of it pending a permissions check) and chose **publish in full**, on the basis that he owns both organisations and is satisfied the original permission covers this use (2026-09-07).
+
+**What that does and does not settle.** It is a real, informed authorisation from the person entitled to give it, and it is why this content ships. It is **not** a consent record this session inspected — no permission document was seen. If any family ever objects, the remedy is immediate removal of that entry from `src/data/learners-academy-evidence.ts`, which is why the data sits in one editable file rather than being written into page copy. The minor-safeguarding constraint (first name and initial only, never full surnames) travels with the data regardless of this authorisation and is not the owner's to waive on a student's behalf.
+
+**Where it renders:** homepage (between "how it works" and the group/one-to-one comparison) and `/tutoring/`.
+
+### 2. Header "Explore Programs" button removed
+
+**Owner instruction:** "do as you see fit." Removed from `Header.astro` and `MobileMenu.astro`. It pointed at `/programs/`, already the first item in `primaryNav` inches away, so it was a second route to the same page competing visually with the trial CTA next to it. The header now carries exactly one action. **Nothing became unreachable** — Programs remains in the desktop nav and the mobile menu; verified in the built HTML (`Explore Programs` occurrences on the homepage: 2 → 0; `Free Trial Class`: 2, unchanged).
+
+### 3. O Level "past-paper practice" wording
+
+**Owner confirmation:** past-paper work is something done in class; a folder of past papers may be shared later for hosting. The claim was therefore accurate but ambiguous on a site that publishes zero past-paper resources and has deliberately removed that empty category from sitewide navigation. `o-levels.md`'s `shortDescription`/`description` now read "past-paper practice **worked through in class**", which cannot be read as a promise of downloadable papers.
+
+**Past-paper hosting was NOT built.** No files exist yet, and `claude/section14-past-paper-audit-2026-09-01.md` records this programme's deliberately conservative position on past-paper material. Hosting third-party exam papers is a licensing question in its own right and needs its own decision when the folder actually arrives — it is not a side effect of a wording fix.
+
+**Verification:** `npm run validate:academic` PASS; `npm run build` PASS; `npm run audit:all` PASS; `npm run check:duplicate-scope` PASS; `npx astro check` 0 errors / 0 warnings; negative-fixture suite all categories pass; functions unit tests 31/31; `npm audit --omit=dev` 0 vulnerabilities. Built HTML checked directly for the attribution sentence, the absence of rating structured data, and the removed header button.

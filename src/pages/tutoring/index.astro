@@ -7,6 +7,7 @@ import FAQ from '../../components/ui/FAQ.astro';
 import Button from '../../components/ui/Button.astro';
 import TuitionOptions from '../../components/sections/TuitionOptions.astro';
 import HowTuitionWorks from '../../components/sections/HowTuitionWorks.astro';
+import AcademyResults from '../../components/sections/AcademyResults.astro';
 import { tutoringModes } from '../../data/homepage';
 import { TUITION_FAQS } from '../../data/tuition';
 import { PRICING_TERMS } from '../../data/pricing';
@@ -23,7 +24,7 @@ const teachers = (await getAuthors())
   .filter((a) => a.data.entityType === 'person')
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
 
-// Conversion & Trust round (2026-09-06, D-144) -- the same questions the
+// Conversion & Trust round (2026-09-06, D-149) -- the same questions the
 // homepage answers, emitted here as FAQPage from the same array the visible
 // accordion below renders.
 const faq = faqNode(TUITION_FAQS);
@@ -80,7 +81,7 @@ const faq = faqNode(TUITION_FAQS);
         the strongest objection ("what does this cost, and can I try it
         first?") is answered before the form rather than after it.
 
-        Conversion & Trust round (2026-09-06, D-144) -- the summary this
+        Conversion & Trust round (2026-09-06, D-149) -- the summary this
         replaces described ONLY the per-subject-per-month group basis and
         its group-only discounts, on a page whose first listed mode is
         one-to-one tutoring. One-to-one is charged per class and carries no
@@ -116,6 +117,7 @@ const faq = faqNode(TUITION_FAQS);
     </Container>
   </Section>
 
-  <TuitionOptions surface="ivory" />
-  <HowTuitionWorks surface="white" heading="What happens when you request a trial." />
+  <AcademyResults surface="ivory" showCta={false} />
+  <TuitionOptions surface="white" />
+  <HowTuitionWorks surface="ivory" heading="What happens when you request a trial." />
 </PageLayout>

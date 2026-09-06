@@ -1,0 +1,94 @@
+---
+/**
+ * Conversion & trust round, follow-up (2026-09-07, D-150).
+ *
+ * Renders Learners Academy's published results and reviews, ATTRIBUTED.
+ *
+ * Every design decision here exists to keep the attribution impossible to
+ * miss: the eyebrow names Learners Academy, the heading says whose results
+ * these are, the relationship is explained in the lead rather than assumed,
+ * the full grade spread is shown including the B's and the C, and the source
+ * page is linked with the date it was read. A reader must not be able to
+ * come away thinking these are Marlbridge's own students.
+ *
+ * NO rating or review JSON-LD is emitted from this component, deliberately
+ * -- see the header of src/data/learners-academy-evidence.ts for why that
+ * would be a fabricated rating for the wrong entity.
+ */
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SectionHeading from '../ui/SectionHeading.astro';
+import Button from '../ui/Button.astro';
+import { LA_EVIDENCE as E } from '../../data/learners-academy-evidence';
+import { routes } from '../../utils/urls/routes';
+
+interface Props { surface?: 'white' | 'ivory'; showCta?: boolean }
+const { surface = 'white', showCta = true } = Astro.props;
+
+const maxCount = Math.max(...E.grades.map((g) => g.count));
+---
+<Section surface={surface} labelledby="academy-results-heading" border>
+  <Container>
+    <div class="max-w-[68ch]">
+      <SectionHeading id="academy-results-heading" eyebrow={`Results from ${E.sourceName}`} scale="lg" font="display">
+        The grades students actually got.
+      </SectionHeading>
+      <p class="m-0 mt-5 text-[17px] leading-[1.65] text-ink-mute">
+        These are <strong class="font-semibold text-navy-800">{E.sourceName}</strong>'s results from {E.season}, not Marlbridge's own —
+        {E.sourceName} is the founding academy behind Marlbridge, and the same teachers now teach under the Marlbridge name.
+        {E.studentsReporting} students shared {E.totalGrades} grades. The full spread is below, including the B's and the one C.
+      </p>
+    </div>
+
+    <div class="mt-[clamp(32px,4vw,52px)] grid items-start gap-[clamp(28px,4vw,64px)] lg:grid-cols-[minmax(280px,0.9fr)_1.4fr]">
+      <div>
+        <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Grade spread &middot; {E.totalGrades} grades</p>
+        <ul class="m-0 mt-5 grid list-none gap-3 p-0">
+          {E.grades.map((g) => (
+            <li class="m-0 flex items-center gap-3.5">
+              <span class="w-7 shrink-0 text-[16px] font-semibold text-navy-800">{g.grade}</span>
+              <span aria-hidden="true" class="h-2.5 rounded-sm bg-gold-500" style={`width: ${Math.round((g.count / maxCount) * 100)}%; max-width: 100%;`}></span>
+              <span class="shrink-0 text-[15px] text-ink-mute">{g.count}</span>
+            </li>
+          ))}
+        </ul>
+        <p class="m-0 mt-6 text-[15.5px] leading-[1.6] text-ink">
+          <strong class="font-semibold text-navy-800">{E.topGradePercent}%</strong> were A* or A.
+        </p>
+        <p class="m-0 mt-4 text-[13.5px] leading-[1.6] text-ink-mute">{E.subjectNote}</p>
+        <p class="m-0 mt-3 text-[13.5px] leading-[1.6] text-ink-mute">{E.verificationNote}</p>
+      </div>
+
+      <div>
+        <p class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">In their own words</p>
+        <ul class="m-0 mt-5 grid list-none gap-4 p-0 sm:grid-cols-2">
+          {E.testimonials.map((t) => (
+            <li class="m-0">
+              <figure class="m-0 flex h-full flex-col rounded-sm border border-rule p-5">
+                <blockquote class="m-0 text-[15.5px] leading-[1.65] text-ink">&ldquo;{t.quote}&rdquo;</blockquote>
+                <figcaption class="mt-4 text-[13.5px] text-ink-mute">
+                  <span class="block font-semibold text-navy-800">{t.attribution}</span>
+                  <span class="block">{t.result}</span>
+                </figcaption>
+              </figure>
+            </li>
+          ))}
+        </ul>
+        <p class="m-0 mt-5 text-[14px] leading-[1.6] text-ink-mute">
+          {E.sourceName} also holds {E.googleRating.score} out of 5 from {E.googleRating.reviewCount} Google reviews. {E.googleRating.note}
+        </p>
+      </div>
+    </div>
+
+    <p class="m-0 mt-[clamp(28px,3.5vw,44px)] border-t border-rule pt-5 text-[13px] leading-relaxed text-ink-mute">
+      Published by {E.sourceName} at <a href={E.sourceUrl} rel="noopener" target="_blank" class="underline decoration-gold-500 underline-offset-2">{E.sourceUrl.replace('https://', '')}</a>, read on {E.verifiedOn}.
+      Students are shown by first name and initial because some are minors. Grades are a record of what these students achieved and are not a prediction of any other student's result.
+    </p>
+
+    {showCta && (
+      <p class="m-0 mt-8">
+        <Button href={routes.trial} variant="primary" size="lg" data-cta="results-trial">Request a free trial</Button>
+      </p>
+    )}
+  </Container>
+</Section>

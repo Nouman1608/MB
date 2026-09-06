@@ -1,5 +1,5 @@
 /**
- * Conversion & Trust round (2026-09-06, D-144).
+ * Conversion & Trust round (2026-09-06, D-149).
  *
  * How tuition and the free trial actually work, in one typed place so the
  * homepage, /tutoring/, /trial/ and every program page state it identically.

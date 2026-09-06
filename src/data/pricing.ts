@@ -160,7 +160,7 @@ export const PRICING_TERMS = {
   cancellationPolicy: "You can cancel or pause at any time. The month you've already paid for isn't refunded, but you won't be billed again once you cancel.",
   /**
    * Owner confirmed directly in chat, 2026-09-06 (see docs/decision-log.md
-   * D-144). Three service facts that were previously stated nowhere on the
+   * D-149). Three service facts that were previously stated nowhere on the
    * site, added here rather than written inline on any page so that every
    * surface quotes one reviewed wording.
    *
