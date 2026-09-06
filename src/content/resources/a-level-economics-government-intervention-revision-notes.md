@@ -129,6 +129,48 @@ specific problem it addresses.
 recognising the buy-low/sell-high stabilisation mechanism is
 distinct.
 
+## Government failure: the counterweight to intervention
+
+Every tool in 3.2 can also **fail** to achieve its aim, and examiners
+reward answers that weigh this against the intended benefit rather
+than assuming intervention automatically improves the outcome:
+
+| Cause of government failure | Example |
+|---|---|
+| Imperfect information | Setting a subsidy at the wrong level because the true cost of production is unknown |
+| Administrative cost | The cost of running a buffer stock scheme may exceed the stability benefit it delivers |
+| Unintended consequences | A minimum price causing a persistent surplus that has to be stored or destroyed |
+| Political self-interest | Policies chosen for short-term popularity rather than long-term economic benefit |
+
+A full evaluation of any single tool from 3.2 -- not just buffer
+stocks -- should weigh its intended correction against at least one
+plausible government-failure risk specific to that tool, rather than
+treating government intervention as costless by default.
+
+## Worked example: evaluating a minimum price policy
+
+A government sets a minimum price for an agricultural good above the
+market equilibrium, aiming to protect farmers' incomes.
+
+```
+Intended effect:  Price floor above equilibrium guarantees farmers a
+                   higher, more stable price than the market alone
+                   would provide.
+Diagram effect:    Quantity supplied at the minimum price exceeds
+                   quantity demanded, creating a surplus.
+Government-failure
+risk:              The government (or an agency) typically must buy
+                   and store the surplus, creating an ongoing cost
+                   that could exceed the value of the income support
+                   provided to farmers -- turning an intended benefit
+                   into a net cost if not carefully managed.
+```
+
+This intended-effect / diagram-effect / government-failure-risk
+structure applies to every tool in the table above, not only minimum
+prices, and is the reasoning shape "evaluate" questions on Topic 3.2
+consistently reward.
+
 ## Self-test
 
 1. Name the three reasons for government intervention in 3.1.

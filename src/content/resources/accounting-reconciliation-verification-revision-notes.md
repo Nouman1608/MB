@@ -129,6 +129,30 @@ to check, and examiners sometimes set questions that combine a
 non-current asset scenario with an error requiring 1.4-style
 correction, testing both topics together.
 
+## Worked example: bank reconciliation statement
+
+The cash book shows a balance of $1,850. The bank statement shows
+$2,100. Investigation finds an unpresented cheque of $400 and bank
+charges of $150 not yet entered in the cash book.
+
+```
+Step 1 - update the cash book:
+   Cash book balance                 1,850
+   Less: bank charges                 (150)
+   Updated cash book balance          1,700
+
+Step 2 - reconciliation statement:
+   Balance per bank statement         2,100
+   Less: unpresented cheque            (400)
+   Balance per updated cash book      1,700
+```
+
+The two routes arrive at the **same figure** ($1,700) by different
+paths -- the cash book is updated for items the business didn't yet
+know about, while the statement is adjusted for timing differences
+the bank doesn't yet reflect. Confirming both routes land on an
+identical number is exactly what "reconcile" means in this context.
+
 ## Self-test
 
 1. What is the shared underlying logic across all three procedures
