@@ -3,8 +3,15 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import EnquiryForm from '../../components/forms/EnquiryForm.astro';
+import FAQ from '../../components/ui/FAQ.astro';
+import Button from '../../components/ui/Button.astro';
+import TuitionOptions from '../../components/sections/TuitionOptions.astro';
+import HowTuitionWorks from '../../components/sections/HowTuitionWorks.astro';
 import { tutoringModes } from '../../data/homepage';
+import { TUITION_FAQS } from '../../data/tuition';
+import { PRICING_TERMS } from '../../data/pricing';
 import { getAuthors } from '../../utils/content/collections';
+import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
 
 // v1.x CLOSURE WS3 -- real, verified teacher profiles already exist at
@@ -15,16 +22,22 @@ import { routes } from '../../utils/urls/routes';
 const teachers = (await getAuthors())
   .filter((a) => a.data.entityType === 'person')
   .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+// Conversion & Trust round (2026-09-06, D-144) -- the same questions the
+// homepage answers, emitted here as FAQPage from the same array the visible
+// accordion below renders.
+const faq = faqNode(TUITION_FAQS);
 ---
 <PageLayout
   translationKey="tutoring"
   title="Tutoring"
-  description="One-to-one tutoring, small-group learning, exam preparation and online lessons with subject specialists, for IGCSE, O Level and A Level students."
+  description="One-to-one and small-group tuition for IGCSE, O Level and A Level with named subject specialists. Groups capped at 15, taught in your time zone. First class free."
   path={routes.tutoring}
   eyebrow="Tutoring"
-  heading="Expert Learning Support"
-  lead="Subject specialists teaching to a defined curriculum, in the format that suits the learner — individually, in a small group, or online across time zones."
+  heading="Taught by a named subject specialist."
+  lead="One-to-one or in a small group, in person in Pakistan and online everywhere else. The first class is free, and you will know who is teaching it before you book."
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Tutoring', href: routes.tutoring }]}
+  jsonLd={faq ? [faq] : []}
 >
   <Section surface="white">
     <Container>
@@ -49,6 +62,9 @@ const teachers = (await getAuthors())
                   <span>
                     <span class="block text-[16px] font-semibold text-navy-800">{t.data.name}</span>
                     <span class="block text-[14px] text-ink-mute">{t.data.role}</span>
+                    {t.data.yearsExperience !== undefined && (
+                      <span class="mt-1 block font-mono text-[10.5px] uppercase tracking-[0.1em] text-gold-600">{t.data.yearsExperience} years teaching</span>
+                    )}
                   </span>
                 </a>
               </li>
@@ -63,15 +79,31 @@ const teachers = (await getAuthors())
         actually converts on. Stating both here, and linking through, so
         the strongest objection ("what does this cost, and can I try it
         first?") is answered before the form rather than after it.
+
+        Conversion & Trust round (2026-09-06, D-144) -- the summary this
+        replaces described ONLY the per-subject-per-month group basis and
+        its group-only discounts, on a page whose first listed mode is
+        one-to-one tutoring. One-to-one is charged per class and carries no
+        discounts, so the old wording quietly misdescribed the cost of the
+        very format the page leads with. Both bases are now stated together
+        by the shared TuitionOptions section, and the trial -- the actual
+        primary action -- is now a real call to action rather than a
+        sentence with a fees link under it.
       */}
       <section aria-labelledby="tutoring-trial" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">
         <h2 id="tutoring-trial" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Try a class first</h2>
         <p class="m-0 mb-6 max-w-[62ch] text-[17px] leading-relaxed text-ink-mute">
-          The first trial class is free. Fees are published in full — charged per subject, per month, with a 20% discount for three or more subjects and 10% for siblings enrolled together.
+          {PRICING_TERMS.freeTrial} {PRICING_TERMS.trialFormat.summary} {PRICING_TERMS.enquiryResponse.summary}
         </p>
-        <p class="m-0">
-          <a href={routes.pricing} class="inline-flex min-h-11 items-center justify-center rounded-sm border border-navy-800 px-6 py-3 text-[15px] font-medium text-navy-800 transition-colors duration-150 hover:bg-navy-800 hover:text-ivory">See tuition fees</a>
-        </p>
+        <div class="flex flex-wrap items-center gap-4">
+          <Button href={routes.trial} variant="primary" size="lg" data-cta="tutoring-trial">Request a free trial</Button>
+          <Button href={routes.pricing} variant="secondary">See tuition fees</Button>
+        </div>
+      </section>
+
+      <section aria-labelledby="tutoring-faqs" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">
+        <h2 id="tutoring-faqs" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Practical questions</h2>
+        <FAQ items={TUITION_FAQS} id="tutoring-faqs-list" />
       </section>
 
       <section aria-labelledby="tutoring-enquiry" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">
@@ -83,4 +115,7 @@ const teachers = (await getAuthors())
       </section>
     </Container>
   </Section>
+
+  <TuitionOptions surface="ivory" />
+  <HowTuitionWorks surface="white" heading="What happens when you request a trial." />
 </PageLayout>

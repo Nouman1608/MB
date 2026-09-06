@@ -3,6 +3,8 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import EnquiryForm from '../../components/forms/EnquiryForm.astro';
+import TrialContext from '../../components/forms/TrialContext.astro';
+import HowTuitionWorks from '../../components/sections/HowTuitionWorks.astro';
 import FAQ from '../../components/ui/FAQ.astro';
 import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
@@ -24,16 +26,36 @@ const faqs = [
     answer: `${PRICING_TERMS.freeTrial} There is no charge and no obligation to continue.`,
   },
   {
+    question: 'Is the trial one-to-one or in a group?',
+    answer: `${PRICING_TERMS.trialFormat.summary} ${PRICING_TERMS.trialFormat.group} ${PRICING_TERMS.trialFormat.oneToOne}`,
+  },
+  {
+    question: 'How long is the trial class?',
+    answer: `It is a real class, so it runs for the normal length of the format you are trying. Group classes: ${PRICING_TERMS.classFormat.group} One-to-one classes: ${PRICING_TERMS.classFormat.oneToOne}`,
+  },
+  {
+    question: 'How quickly will I hear back?',
+    answer: `${PRICING_TERMS.enquiryResponse.summary} If you would rather not wait for email, message us on WhatsApp using the button on this page.`,
+  },
+  {
     question: 'Does submitting this form book the class?',
-    answer: 'No -- this sends a request. Marlbridge replies by email to confirm a teacher and a time before anything is scheduled.',
+    answer: 'No -- this sends a request. Marlbridge replies to confirm a teacher and a time before anything is scheduled, in your own time zone.',
+  },
+  {
+    question: 'Can I ask for a particular teacher?',
+    answer: 'You can ask, and we will tell you honestly whether that teacher has room at the level and time you need. We will always tell you who is teaching before the class is scheduled, but we cannot guarantee a specific teacher in advance.',
   },
   {
     question: "What should I write in the message?",
     answer: 'The programme or qualification (e.g. IGCSE, A Level), the exam board if known, the subject, the level, your preferred days/times and timezone, and what support you need. If anything is not yet decided, say so -- Marlbridge will confirm the right fit by email.',
   },
   {
+    question: 'What happens if I want to continue after the trial?',
+    answer: `${PRICING_TERMS.billing} ${PRICING_TERMS.enrolmentFee} ${PRICING_TERMS.cancellationPolicy}`,
+  },
+  {
     question: 'Where does Marlbridge teach?',
-    answer: 'Marlbridge teaches in Pakistan today. Learners outside our teaching locations are taught online.',
+    answer: 'Marlbridge teaches in person in Pakistan today. Learners outside our teaching locations are taught live online, with lesson times agreed in their own time zone.',
   },
 ];
 const faq = faqNode(faqs);
@@ -41,17 +63,22 @@ const faq = faqNode(faqs);
 <PageLayout
   translationKey="trial"
   title="Free Trial Class"
-  description="Request a free trial class from Marlbridge. Tell us the programme, board and subject in your message, and we will reply by email to confirm a teacher and a time."
+  description="Request a free trial class from Marlbridge — IGCSE, O Level and A Level, one-to-one or in a small group. Email replies within two working days, WhatsApp within one."
   path={routes.trial}
   eyebrow="Free trial"
   heading="Request a free trial class."
-  lead="Tell us in your message which programme, board and subject the learner needs help with. We will reply by email to confirm a teacher and a time -- this is a request, not a booking."
+  lead={`${PRICING_TERMS.trialFormat.summary} Tell us in your message which programme, board and subject the learner needs help with. ${PRICING_TERMS.enquiryResponse.summary} This is a request, not a booking -- we confirm a teacher and a time with you first.`}
   breadcrumbs={[{ label: 'Home', href: routes.home }, { label: 'Free Trial Class', href: routes.trial }]}
   jsonLd={faq ? [faq] : []}
 >
   <Section surface="white">
-    <Container><EnquiryForm kind="trial" /></Container>
+    <Container>
+      <TrialContext />
+      <EnquiryForm kind="trial" />
+    </Container>
   </Section>
+
+  <HowTuitionWorks surface="white" showCta={false} heading="What happens after you send this." />
 
   <Section surface="ivory" border>
     <Container>

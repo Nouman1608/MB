@@ -1,0 +1,68 @@
+---
+/**
+ * Conversion & Trust round (2026-09-06, D-144).
+ *
+ * Marlbridge's strongest verifiable asset is that every teacher is a real,
+ * named person with a real photograph and a citable source -- and until now
+ * that asset appeared only on /tutoring/, one click off the conversion path.
+ *
+ * Only `entityType === 'person'` entries are shown; the institutional
+ * "Marlbridge Academic Team" byline is not a teacher. Profiles still in
+ * `publicationState: 'draft'` are excluded by getAuthors(). Teachers with
+ * at least one `subjectsTaught` entry are preferred, since a name without a
+ * subject does not help anyone choose. Nothing is invented: the subject
+ * label and the years-of-experience figure are read from the profile's own
+ * frontmatter, which is itself sourced and dated.
+ */
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SectionHeading from '../ui/SectionHeading.astro';
+import Button from '../ui/Button.astro';
+import { getAuthors } from '../../utils/content/collections';
+import { routes } from '../../utils/urls/routes';
+
+const people = (await getAuthors()).filter((a) => a.data.entityType === 'person');
+const featured = [...people]
+  .sort((a, b) => {
+    const named = Number(b.data.subjectsTaught.length > 0) - Number(a.data.subjectsTaught.length > 0);
+    if (named !== 0) return named;
+    return (b.data.yearsExperience ?? 0) - (a.data.yearsExperience ?? 0);
+  })
+  .slice(0, 6);
+---
+{featured.length > 0 && (
+  <Section surface="ivory" labelledby="teachers-heading" border>
+    <Container>
+      <div class="mb-[clamp(32px,4.5vw,52px)] flex flex-wrap items-end justify-between gap-6">
+        <div>
+          <SectionHeading id="teachers-heading" eyebrow="The teachers" scale="lg" font="display">Taught by named subject specialists.</SectionHeading>
+          <p class="m-0 mt-4 max-w-[58ch] text-[17px] text-ink-mute">
+            Not a tutor pool. Every class is taught by a specific teacher you can read about before you book &mdash; each profile lists the subjects they teach and where those details were verified from.
+          </p>
+        </div>
+        <Button href={routes.tutoring} variant="quiet">All teachers</Button>
+      </div>
+
+      <ul class="m-0 grid list-none gap-5 p-0 sm:grid-cols-2 lg:grid-cols-3">
+        {featured.map((t) => (
+          <li class="m-0">
+            <a href={routes.author(t.id)} class="flex h-full items-start gap-4 rounded-sm border border-rule bg-white p-5 transition-colors duration-150 hover:border-gold-500">
+              {t.data.image ? (
+                <img src={t.data.image} alt="" width="64" height="64" class="h-16 w-16 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
+              ) : (
+                <span aria-hidden="true" class="flex h-16 w-16 shrink-0 items-center justify-center rounded-full border border-rule bg-ivory font-mono text-[10px] uppercase tracking-[0.08em] text-ink-mute">Photo</span>
+              )}
+              <span class="min-w-0">
+                <span class="block text-[16.5px] font-semibold leading-snug text-navy-800">{t.data.name}</span>
+                <span class="mt-0.5 block text-[14.5px] text-ink-mute">{t.data.role}</span>
+                {t.data.yearsExperience !== undefined && (
+                  <span class="mt-2 block font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{t.data.yearsExperience} years teaching</span>
+                )}
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+)}

@@ -1,0 +1,62 @@
+---
+/**
+ * Conversion & Trust round (2026-09-06, D-144).
+ *
+ * Carries the programme a visitor came from into the trial request.
+ *
+ * SAFETY: the query string is NOT trusted. The page ships a build-time
+ * allow-list of the real programme slugs and their titles; the script
+ * accepts `?program=` only if it is an exact key in that list, and renders
+ * the matching TITLE from the list via textContent. Arbitrary text from
+ * the URL is therefore never displayed, never inserted as markup, and
+ * never written into the form. An unrecognised or absent value leaves the
+ * page exactly as it renders without JavaScript.
+ *
+ * Nothing personal travels in the URL -- only a programme slug that is
+ * already public in this site's own routes.
+ */
+import { getPrograms } from '../../utils/content/collections';
+
+const programs = await getPrograms();
+const allowList = Object.fromEntries(
+  programs
+    .filter((p) => p.data.marlbridgeTeaches === 'teaching')
+    .map((p) => [p.id, p.data.title]),
+);
+---
+<div
+  data-trial-context
+  data-allow={JSON.stringify(allowList)}
+  hidden
+  class="mb-6 rounded-sm border border-gold-500 bg-ivory px-4 py-3 text-[15px] text-navy-800"
+>
+  <span>You are asking about <strong data-trial-context-label></strong> tuition. Change it in your message if that is not right.</span>
+</div>
+
+<script>
+  const box = document.querySelector<HTMLElement>('[data-trial-context]');
+  if (box) {
+    try {
+      const allow = JSON.parse(box.dataset.allow ?? '{}') as Record<string, string>;
+      const slug = new URLSearchParams(window.location.search).get('program') ?? '';
+      // Exact allow-list membership only -- no normalising, no partial match.
+      if (Object.prototype.hasOwnProperty.call(allow, slug)) {
+        const title = allow[slug];
+        const label = box.querySelector<HTMLElement>('[data-trial-context-label]');
+        if (label) label.textContent = title;
+        box.hidden = false;
+
+        // Pre-fill the message with a starter line the visitor can edit or
+        // delete. Only ever prepended to an empty message box, so it can
+        // never overwrite something the visitor has already typed (e.g. on
+        // a back-navigation with a restored form value).
+        const message = document.querySelector<HTMLTextAreaElement>('textarea#message');
+        if (message && message.value.trim() === '') {
+          message.value = `I would like a free trial class for ${title}. Subject: \nExam board: \nLevel: \nPreferred days/times and my timezone: `;
+        }
+      }
+    } catch {
+      /* A malformed allow-list must never break the form. */
+    }
+  }
+</script>

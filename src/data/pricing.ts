@@ -158,6 +158,45 @@ export const PRICING_TERMS = {
   paymentMethods: ['bank transfer', 'international wire transfer'] as readonly string[],
   enrolmentFee: 'There is no separate registration or enrolment fee — the fee shown above is the only cost.',
   cancellationPolicy: "You can cancel or pause at any time. The month you've already paid for isn't refunded, but you won't be billed again once you cancel.",
+  /**
+   * Owner confirmed directly in chat, 2026-09-06 (see docs/decision-log.md
+   * D-144). Three service facts that were previously stated nowhere on the
+   * site, added here rather than written inline on any page so that every
+   * surface quotes one reviewed wording.
+   *
+   * `maxGroupSize` is a published ceiling, not a target: it is the number a
+   * family is entitled to hold Marlbridge to, so it must never be raised in
+   * this file without the owner re-confirming it.
+   */
+  maxGroupSize: 15,
+  /**
+   * What the free trial actually is. Owner confirmed 2026-09-06: the trial
+   * mirrors the format the student is considering rather than being a
+   * separate fixed-length session -- so its duration is deliberately derived
+   * from `classFormat` above rather than restated as its own number, which
+   * would be a second source of truth able to drift from the first.
+   */
+  trialFormat: {
+    group: 'If you are considering group tuition, the trial is a real group class -- same length and same teacher as the classes that follow.',
+    oneToOne: 'If you are considering one-to-one tuition, the trial is an individual class with the teacher.',
+    summary: 'The free trial runs in whichever format you are considering: a real group class, or an individual one-to-one class.',
+  },
+  /**
+   * Response commitment. Owner confirmed 2026-09-06. Deliberately two
+   * different windows because they are two different channels staffed
+   * differently -- publishing a single blended number would either overstate
+   * email or understate WhatsApp. Stated in WORKING days, not calendar
+   * hours, so a Sunday enquiry does not create a promise nobody is rostered
+   * to keep.
+   */
+  enquiryResponse: {
+    emailWorkingDays: 2,
+    whatsappWorkingDays: 1,
+    summary: 'We reply to email enquiries within two working days, and to WhatsApp messages within one working day.',
+    short: 'Email replies within two working days; WhatsApp within one.',
+  },
+  /** Date the three fields above were confirmed by the owner. */
+  serviceTermsVerifiedDate: '2026-09-06',
 } as const;
 
 /** Currencies conventionally quoted to 3 decimal places (KWD, BHD, OMR use

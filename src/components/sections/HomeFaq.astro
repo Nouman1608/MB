@@ -1,0 +1,34 @@
+---
+/**
+ * Conversion & Trust round (2026-09-06, D-144). The practical questions a
+ * family asks before enquiring, answered on the page where they ask them.
+ * Content comes from src/data/tuition.ts; the FAQPage JSON-LD for these
+ * same items is emitted by the page, from the same array, so schema and
+ * visible content can never disagree.
+ */
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SectionHeading from '../ui/SectionHeading.astro';
+import FAQ from '../ui/FAQ.astro';
+import Button from '../ui/Button.astro';
+import { TUITION_FAQS } from '../../data/tuition';
+import { routes } from '../../utils/urls/routes';
+---
+<Section surface="white" labelledby="home-faq-heading">
+  <Container>
+    <div class="grid items-start gap-8 lg:grid-cols-[minmax(260px,0.8fr)_1.6fr] lg:gap-[clamp(32px,5vw,80px)]">
+      <div>
+        <SectionHeading id="home-faq-heading" eyebrow="Before you enquire" font="display">Practical questions.</SectionHeading>
+        <p class="m-0 mt-5 max-w-[38ch] text-[16.5px] leading-[1.6] text-ink-mute">
+          Fees for every region are published in full on the <a href={routes.pricing} class="underline decoration-gold-500 underline-offset-2">pricing page</a>.
+        </p>
+        <p class="m-0 mt-7">
+          <Button href={routes.trial} variant="primary" data-cta="home-faq-trial">Request a free trial</Button>
+        </p>
+      </div>
+      <div class="max-w-[74ch]">
+        <FAQ items={TUITION_FAQS} id="home-faqs" />
+      </div>
+    </div>
+  </Container>
+</Section>

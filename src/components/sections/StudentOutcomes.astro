@@ -1,0 +1,36 @@
+---
+/**
+ * Conversion & Trust round (2026-09-06, D-144). Renders real, consented
+ * student outcomes -- and renders nothing whatsoever when there are none,
+ * which is the case today. See src/data/outcomes.ts for the rules that
+ * govern adding one.
+ */
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SectionHeading from '../ui/SectionHeading.astro';
+import { publishedOutcomes } from '../../data/outcomes';
+
+const outcomes = publishedOutcomes();
+---
+{outcomes.length > 0 && (
+  <Section surface="white" labelledby="outcomes-heading" border>
+    <Container>
+      <SectionHeading id="outcomes-heading" eyebrow="Student progress" scale="lg" font="display" class="max-w-[30ch]">
+        What students have gone on to do.
+      </SectionHeading>
+      <ul class="m-0 mt-[clamp(32px,4vw,52px)] grid list-none gap-5 p-0 lg:grid-cols-2">
+        {outcomes.map((o) => (
+          <li class="m-0 rounded-sm border border-rule p-[clamp(24px,2.6vw,34px)]">
+            <p class="m-0 text-[17px] leading-[1.65] text-ink">{o.outcome}</p>
+            <dl class="m-0 mt-5 grid gap-2.5 text-[15px] leading-[1.55] text-ink-mute">
+              <div><dt class="m-0 inline font-semibold text-navy-800">Course: </dt><dd class="m-0 inline">{o.course}</dd></div>
+              <div><dt class="m-0 inline font-semibold text-navy-800">Starting point: </dt><dd class="m-0 inline">{o.startingPoint}</dd></div>
+              <div><dt class="m-0 inline font-semibold text-navy-800">Support: </dt><dd class="m-0 inline">{o.support} over {o.timeframe}</dd></div>
+            </dl>
+            <p class="m-0 mt-5 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">{o.attribution} &middot; {o.year} series</p>
+          </li>
+        ))}
+      </ul>
+    </Container>
+  </Section>
+)}

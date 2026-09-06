@@ -1,32 +1,87 @@
 ---
+/**
+ * Conversion & Trust round (2026-09-06, D-144) -- homepage resequenced.
+ *
+ * The previous order opened with a mission statement and two browsing
+ * actions, then ran thirteen sections in which the tuition offer, the
+ * teachers, the fees basis and the free trial appeared late, partially, or
+ * not at all. A parent arriving from search could not answer "do they teach
+ * my course, who teaches it, what does it cost, how do I try it" without
+ * leaving the page.
+ *
+ * The order below follows the decision a family actually makes: what is
+ * offered -> who teaches it -> how it works -> what it costs -> how to try
+ * it -> what else is here. Marlbridge's institutional material (the vision,
+ * the Learners Academy origin story, schools partnerships, the journal) is
+ * NOT deleted -- it is moved below that decision path, where it supports
+ * the story rather than interrupting it. /about/ remains its real home.
+ *
+ * StudentOutcomes sits in the sequence deliberately and renders nothing at
+ * all today, because no consented student outcome exists yet. When one
+ * does, it appears in the right place without another layout change. See
+ * src/data/outcomes.ts.
+ */
 import BaseLayout from '../layouts/BaseLayout.astro';
 import HomeHero from '../components/sections/HomeHero.astro';
-import Pillars from '../components/sections/Pillars.astro';
-import EditorialBand from '../components/sections/EditorialBand.astro';
 import ProgramsSection from '../components/sections/ProgramsSection.astro';
+import TeachersBand from '../components/sections/TeachersBand.astro';
+import HowTuitionWorks from '../components/sections/HowTuitionWorks.astro';
+import StudentOutcomes from '../components/sections/StudentOutcomes.astro';
+import TuitionOptions from '../components/sections/TuitionOptions.astro';
 import SubjectsSection from '../components/sections/SubjectsSection.astro';
 import ResourcesSection from '../components/sections/ResourcesSection.astro';
+import HomeFaq from '../components/sections/HomeFaq.astro';
+import FinalCta from '../components/sections/FinalCta.astro';
+import EditorialBand from '../components/sections/EditorialBand.astro';
 import WhyMarlbridge from '../components/sections/WhyMarlbridge.astro';
 import GlobalVision from '../components/sections/GlobalVision.astro';
-import TutoringSection from '../components/sections/TutoringSection.astro';
-import SchoolsBand from '../components/sections/SchoolsBand.astro';
 import LearnersAcademy from '../components/sections/LearnersAcademy.astro';
 import JournalSection from '../components/sections/JournalSection.astro';
-import FinalCta from '../components/sections/FinalCta.astro';
-import { site } from '../data/site';
+import SchoolsBand from '../components/sections/SchoolsBand.astro';
+import { faqNode } from '../utils/schema/faq';
+import { TUITION_FAQS } from '../data/tuition';
+
+// Emitted from the same array HomeFaq renders, so the FAQPage node can
+// never describe questions a visitor cannot see on the page.
+const faq = faqNode(TUITION_FAQS);
 ---
-<BaseLayout isHome translationKey="home" title="IGCSE, A Level, IB & GCSE Tutoring" description={site.defaultDescription} path="/">
+<BaseLayout
+  isHome
+  translationKey="home"
+  title="Online IGCSE, O Level & A Level Tuition"
+  description="Online and in-person tuition for IGCSE, O Level and A Level with named subject specialists. Small groups or one-to-one, taught in your time zone. First class free."
+  path="/"
+  jsonLd={faq ? [faq] : []}
+>
+  {/* 1-2. What is taught, for whom, by whom, and the primary action. */}
   <HomeHero />
-  <Pillars />
-  <EditorialBand />
+
+  {/* 3. Priority programmes. */}
   <ProgramsSection />
+
+  {/* 4. The teachers -- Marlbridge's strongest verifiable asset. */}
+  <TeachersBand />
+
+  {/* 5-6. How tuition works, then real student progress when it exists. */}
+  <HowTuitionWorks />
+  <StudentOutcomes />
+
+  {/* 7. Group vs one-to-one, and the entry point to real fees. */}
+  <TuitionOptions />
+
+  {/* 8-9. Subject selection and the free resource library. */}
   <SubjectsSection />
   <ResourcesSection />
+
+  {/* 10. Practical questions, then the closing trial invitation. */}
+  <HomeFaq />
+  <FinalCta />
+
+  {/* Below the decision path: who Marlbridge is and where it came from. */}
+  <EditorialBand />
   <WhyMarlbridge />
   <GlobalVision />
-  <TutoringSection />
-  <SchoolsBand />
   <LearnersAcademy />
   <JournalSection />
-  <FinalCta />
+  <SchoolsBand />
 </BaseLayout>

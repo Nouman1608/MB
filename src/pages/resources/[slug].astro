@@ -3,7 +3,6 @@ import { getEntry, render, type CollectionEntry } from 'astro:content';
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
-import CTA from '../../components/ui/CTA.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import ArticleCard from '../../components/cards/ArticleCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
@@ -14,6 +13,8 @@ import { relatedResources, relatedArticles, topicSiblings } from '../../utils/co
 import { articleNode } from '../../utils/schema/article';
 import { routes, resourceUrl } from '../../utils/urls/routes';
 import { syllabusFor } from '../../data/academic/syllabuses';
+import { PRICING_TERMS } from '../../data/pricing';
+import { LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
 
 export async function getStaticPaths() {
   const resources = await getResources();
@@ -30,6 +31,31 @@ const subject = await getEntry(d.subject);
 const author = d.author ? await getEntry(d.author) : undefined;
 const meta = resourceCategoryMeta[d.resourceType];
 const levels = resourceLevelLabel(d.level, d.stage);
+
+/**
+ * Conversion & Trust round (2026-09-06, D-144).
+ *
+ * The tuition invitation at the foot of a resource page was a single
+ * generic line pointing at /tutoring/. This page is where most of the
+ * site's search traffic actually lands, and the reader has just told us a
+ * great deal about themselves by reading it -- their qualification, board
+ * and subject are all known here. The invitation now names them and routes
+ * to the free trial, carrying the programme slug so /trial/ can pre-fill
+ * the message. It stays a single block at the end of the page: no
+ * interstitial, no pop-up, no repeated interruption of the material itself,
+ * which is free and stays free.
+ *
+ * `programSlug` is derived from the resource's own level, and only used if
+ * it maps to a real programme; otherwise the trial link carries no context
+ * rather than a guessed one.
+ */
+const KNOWN_PROGRAM_SLUGS = new Set(['igcse', 'o-levels', 'a-levels', 'gcse', 'ib']);
+const resourceLevels = Array.isArray(d.level) ? d.level : [d.level];
+const programSlug = resourceLevels
+  .map((l) => (typeof l === 'string' ? (LEVEL_FOR_QUALIFICATION[l] ?? l) : undefined))
+  .find((l) => l && KNOWN_PROGRAM_SLUGS.has(l));
+const trialHref = programSlug ? `${routes.trial}?program=${programSlug}` : routes.trial;
+const studyLabel = [subject?.data.title, levels].filter(Boolean).join(' ');
 
 /**
  * QIGT search workstream (Aug 2026) -- Pagefind filter values. Board and
@@ -225,10 +251,25 @@ const jsonLd = [articleNode({
     </Container>
   </Section>
 
-  <CTA
-    surface="ivory"
-    heading={`Working through ${subject?.data.title}? Tutoring covers the same material with a teacher.`}
-    buttonLabel="Find Learning Support"
-    buttonHref={routes.tutoring}
-  />
+  <Section surface="ivory" spacing="md" border>
+    <Container>
+      <div class="grid items-start gap-6 lg:grid-cols-[1.5fr_1fr] lg:gap-[clamp(32px,5vw,72px)]">
+        <div>
+          <p class="m-0 mb-3 text-xs font-medium uppercase tracking-[0.2em] text-gold-600">Studying this with a teacher</p>
+          <h2 class="m-0 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">
+            {studyLabel ? `Working through ${studyLabel}?` : 'Working through this with a teacher?'}
+          </h2>
+          <p class="m-0 mt-4 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
+            This page is free and stays free. If you would rather be taught it, Marlbridge runs
+            {' '}{subject?.data.title ?? 'this subject'} classes one-to-one and in small groups of up to {PRICING_TERMS.maxGroupSize},
+            online in your own time zone. {PRICING_TERMS.freeTrial} {PRICING_TERMS.enquiryResponse.short}
+          </p>
+        </div>
+        <div class="flex flex-col items-start gap-3 lg:pt-10">
+          <a href={trialHref} data-cta="resource-trial" class="inline-flex min-h-11 items-center justify-center rounded-sm bg-navy-800 px-6 py-3 text-[15px] font-medium text-ivory transition-colors duration-150 hover:bg-navy-700">Request a free trial</a>
+          <a href={routes.tutoring} class="text-[15px] font-medium text-navy-800 underline decoration-gold-500 underline-offset-4 hover:text-gold-600">Meet the teachers</a>
+        </div>
+      </div>
+    </Container>
+  </Section>
 </PageLayout>
