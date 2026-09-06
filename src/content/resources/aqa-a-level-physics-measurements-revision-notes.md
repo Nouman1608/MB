@@ -37,7 +37,7 @@ All other units are **derived**: N = kg m s⁻², J = kg m² s⁻², W = kg m² 
 
 > **Aside (not examined):** dimensional analysis / homogeneity of units is not required by the AQA A-level specification and will not be examined, but as background: checking that the base units on each side of an equation match can catch some errors. Note a dimensionally consistent equation can still be wrong by a numerical factor.
 
-**Prefixes:** T 10¹², G 10⁹, M 10⁶, k 10³, c 10⁻², m 10⁻³, μ 10⁻⁶, n 10⁻⁹, p 10⁻¹².
+**Prefixes:** T 10¹², G 10⁹, M 10⁶, k 10³, c 10⁻², m 10⁻³, μ 10⁻⁶, n 10⁻⁹, p 10⁻¹², f 10⁻¹⁵.
 
 ## Accuracy, precision, resolution, repeatability, reproducibility
 

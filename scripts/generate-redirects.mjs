@@ -97,7 +97,13 @@ const CONSOLIDATED_RESOURCES = {
   'as-chem-equilibria-revision-notes': 'as-chemistry-equilibria-revision-notes',
   'as-chem-bonding-shapes-revision-notes': 'as-chemistry-shapes-imf-revision-notes',
   'igcse-geography-population-settlement-practice': 'population-and-settlement-practice',
-  'igcse-oxfordaqa-biology-organisation-practice': 'igcse-biology-organisation-practice',
+  // D-141 fix-up, 2026-09-06: this entry was backwards after I146's
+  // rename (the plain-'igcse'-prefixed slug was misnamed -- it held
+  // OxfordAQA IGCSE Biology content under a Cambridge-reading slug
+  // adjacent to the genuine Cambridge family). The file was renamed to
+  // the correct oxfordaqa-prefixed slug, so old links to the retired
+  // slug now redirect forward to the live one.
+  'igcse-biology-organisation-practice': 'igcse-oxfordaqa-biology-organisation-practice',
   'igcse-commerce-production-practice': 'commerce-and-production-practice',
   'graphs-and-curves-revision-notes': 'mathematics-graphs-curves-revision-notes',
   'igcse-world-history-nineteenth-century-practice': 'world-history-nineteenth-century-practice',
