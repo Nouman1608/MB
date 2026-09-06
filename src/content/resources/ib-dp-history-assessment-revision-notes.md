@@ -15,7 +15,8 @@ featured: false
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
 [IB DP History subject overview](/resources/ib-dp-history-subject-guide/). This covers the
-current course, first examined 2028.
+current course, first examined 2028. For a paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-history-exam-preparation/).
 
 ## Four inquiry contexts as revision structure
 

@@ -98,6 +98,11 @@ subjects. Strong performance depends as much on interpreting
 unfamiliar data and justifying experimental method as on recalling the
 five themes above.
 
+For a paper-by-paper exam-day plan -- Paper 1's data-based-question
+strategy, data-booklet fluency, and a worked uncertainty-estimation
+scenario -- see the
+[exam preparation guide](/resources/ib-dp-physics-exam-preparation/).
+
 ## What each theme actually covers
 
 Theme A, Space, time and motion, opens with kinematics and forces and

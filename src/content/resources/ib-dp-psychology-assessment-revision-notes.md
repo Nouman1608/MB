@@ -14,7 +14,9 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Psychology subject overview](/resources/ib-dp-psychology-subject-guide/).
+[IB DP Psychology subject overview](/resources/ib-dp-psychology-subject-guide/), and for a
+paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-psychology-exam-preparation/).
 
 ## SL vs HL weightings
 

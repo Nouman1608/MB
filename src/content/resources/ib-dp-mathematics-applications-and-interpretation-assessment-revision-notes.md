@@ -14,7 +14,9 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Mathematics: Applications and Interpretation subject overview](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/).
+[IB DP Mathematics: Applications and Interpretation subject overview](/resources/ib-dp-mathematics-applications-and-interpretation-subject-guide/),
+and for a paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-mathematics-applications-and-interpretation-exam-preparation/).
 
 ## Why the exploration is worth building early
 
