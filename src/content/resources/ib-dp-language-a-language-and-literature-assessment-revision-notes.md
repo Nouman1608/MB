@@ -14,7 +14,9 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Language A: Language and Literature subject overview](/resources/ib-dp-language-a-language-and-literature-subject-guide/).
+[IB DP Language A: Language and Literature subject overview](/resources/ib-dp-language-a-language-and-literature-subject-guide/),
+and for a paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-language-a-language-and-literature-exam-preparation/).
 
 ## Why weightings shift between SL and HL
 

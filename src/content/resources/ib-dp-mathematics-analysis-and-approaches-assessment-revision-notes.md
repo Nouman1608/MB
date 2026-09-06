@@ -14,7 +14,9 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Mathematics: Analysis and Approaches subject overview](/resources/ib-dp-mathematics-analysis-and-approaches-subject-guide/).
+[IB DP Mathematics: Analysis and Approaches subject overview](/resources/ib-dp-mathematics-analysis-and-approaches-subject-guide/),
+and for a paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-mathematics-analysis-and-approaches-exam-preparation/).
 
 ## Why the exploration deserves an early start
 

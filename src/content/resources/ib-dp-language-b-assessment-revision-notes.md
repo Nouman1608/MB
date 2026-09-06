@@ -14,7 +14,9 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Language B subject overview](/resources/ib-dp-language-b-subject-guide/).
+[IB DP Language B subject overview](/resources/ib-dp-language-b-subject-guide/), and for a
+paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-language-b-exam-preparation/).
 
 ## Ab initio as a third option
 
