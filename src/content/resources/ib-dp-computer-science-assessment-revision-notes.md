@@ -14,7 +14,9 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Computer Science subject overview](/resources/ib-dp-computer-science-subject-guide/).
+[IB DP Computer Science subject overview](/resources/ib-dp-computer-science-subject-guide/), and for a
+paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-computer-science-exam-preparation/).
 
 ## Why Paper 2 has no fixed percentage listed separately
 

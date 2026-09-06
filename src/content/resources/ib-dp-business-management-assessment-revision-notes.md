@@ -14,7 +14,9 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Business Management subject overview](/resources/ib-dp-business-management-subject-guide/).
+[IB DP Business Management subject overview](/resources/ib-dp-business-management-subject-guide/), and
+for a paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-business-management-exam-preparation/).
 
 ## Why weightings shift so much between SL and HL
 

@@ -14,7 +14,8 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Biology subject overview](/resources/ib-dp-biology-subject-guide/).
+[IB DP Biology subject overview](/resources/ib-dp-biology-subject-guide/), and for a paper-by-paper
+exam-day plan see the [exam preparation guide](/resources/ib-dp-biology-exam-preparation/).
 
 ## Why 80/20 rather than an even split
 

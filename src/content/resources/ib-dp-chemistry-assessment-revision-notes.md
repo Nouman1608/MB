@@ -14,7 +14,8 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Chemistry subject overview](/resources/ib-dp-chemistry-subject-guide/).
+[IB DP Chemistry subject overview](/resources/ib-dp-chemistry-subject-guide/), and for a paper-by-paper
+exam-day plan see the [exam preparation guide](/resources/ib-dp-chemistry-exam-preparation/).
 
 ## The assessment split
 
