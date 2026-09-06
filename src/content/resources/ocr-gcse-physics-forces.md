@@ -99,9 +99,9 @@ acceleration = force ÷ mass:
 
 acceleration = 6 ÷ 2 = **3 m/s²**
 
-This is the calculation underlying required practical investigations
-of the link between force and acceleration using light gates, weights
-and trolleys -- a common context for exam questions that ask you to
+This is the calculation underlying the Practical Activity Group (PAG)
+investigation of the link between force and acceleration using light
+gates, weights and trolleys -- a common context for exam questions that ask you to
 both calculate a result and evaluate the experimental method used to
 obtain it.
 
@@ -144,10 +144,10 @@ Newton's-laws exam questions. For the equation-heavy parts of P2.3
 (Hooke's law, moments, hydraulics), practise rearranging each formula
 for every variable rather than only the form given in the
 specification, since exam questions frequently ask for the "wrong"
-variable. Finally, treat the required practicals referenced throughout
-this topic (investigating the force-acceleration link, and
-investigating Hooke's law) as genuine exam content, not just classroom
-activities -- OCR routinely examines the method, the variables
+variable. Finally, treat the Practical Activity Group (PAG) investigations
+referenced throughout this topic (investigating the force-acceleration
+link, and investigating Hooke's law) as genuine exam content, not just
+classroom activities -- OCR routinely examines the method, the variables
 controlled, and the reliability of results from practicals like these.
 
 ## Related resources

@@ -61,7 +61,8 @@ written papers, so build comfort identifying variables to control and
 evaluating whether a described method is fit for purpose, not just
 recalling standard experimental procedures. Keep clear, running notes
 on which mathematical skills (for example, significant figures, graph
-plotting, and interpreting data) apply to each core practical you
+plotting, and interpreting data) apply to each PAG (Practical
+Activity Group) you
 encounter, since these skills are assessed cumulatively across the
 whole qualification rather than tied to a single topic.
 

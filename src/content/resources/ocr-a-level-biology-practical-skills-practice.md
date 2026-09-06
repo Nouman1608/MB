@@ -26,13 +26,9 @@ Related: [Development of Practical Skills revision notes](/resources/ocr-a-level
 
 ---
 
-## Section A
-
 **1.** Define independent variable, dependent variable and control variable. **[3]**
 
 **2.** Explain the difference between accuracy, precision and reliability. **[3]**
-
-## Section B
 
 **3.** A student investigates the effect of sucrose concentration on the mass change of potato discs.
 

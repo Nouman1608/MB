@@ -7,7 +7,7 @@ topic: "Foundations in biology"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H420"]
-syllabusSeries: "Version 3, for first teaching 2023"
+syllabusSeries: "Version 4.1, April 2026, for first teaching 2015"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
@@ -109,5 +109,5 @@ Module 2 assumes no prior A Level biology, so any gaps here are a priority to cl
 
 ## Official syllabus
 
-OCR, *A Level Biology A (H420) Specification*, Version 3, Module 2 —
+OCR, *A Level Biology A (H420) Specification*, Version 4.1 (April 2026), Module 2 —
 [ocr.org.uk](https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf).

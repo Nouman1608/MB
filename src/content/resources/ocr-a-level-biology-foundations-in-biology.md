@@ -7,12 +7,12 @@ topic: "Foundations in biology"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H420"]
-syllabusSeries: "Version 3, for first teaching 2023"
+syllabusSeries: "Version 4.1, April 2026, for first teaching 2015"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "foundations-in-biology-ocr-alevel-biology"
-description: "Cell structure, biological molecules, and nucleotides and nucleic acids -- the opening content of Module 2 for OCR A Level Biology A (H420), Version 3."
+description: "Cell structure, biological molecules, and nucleotides and nucleic acids -- the opening content of Module 2 for OCR A Level Biology A (H420), Version 4.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -20,12 +20,11 @@ featured: false
 
 This guide covers the opening content of **Module 2: Foundations in
 Biology**, the second of six teaching modules in OCR A Level Biology A
-(H420), Version 3, first teaching September 2023 (first assessment
-Summer 2025). This version supersedes the earlier H420 specification
-(first assessment 2017-2024, now retired). Module 1 (practical skills)
-is assessed throughout the written papers rather than as standalone
-content, so Module 2 is, in practice, where the taught content of the
-A Level genuinely begins.
+(H420), first teaching September 2015, current specification Version
+4.1 (April 2026). Module 1 (practical skills) is assessed throughout
+the written papers rather than as standalone content, so Module 2 is,
+in practice, where the taught content of the A Level genuinely
+begins.
 
 ## Syllabus coverage
 
@@ -158,7 +157,6 @@ biological-molecule content introduced here.
 
 ## Official syllabus
 
-OCR, *A Level Biology A (H420) Specification*, Version 3, Module 2:
-Foundations in biology,
-https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf,
-fetched and verified in full 2026-09-02.
+OCR, *A Level Biology A (H420) Specification*, Version 4.1 (April
+2026), Module 2: Foundations in biology,
+https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf.

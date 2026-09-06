@@ -77,7 +77,7 @@ A 2 kg trolley is pushed with a resultant force of 6 N.
 a = F / m = 6 / 2 = 3 m/s^2
 ```
 
-This underlies the required practical investigating the force-acceleration link using light gates, weights and trolleys.
+This underlies the Practical Activity Group (PAG) investigation of the force-acceleration link using light gates, weights and trolleys.
 
 ## Worked example: moments
 

@@ -26,13 +26,9 @@ Related: [Cell Level Systems revision notes](/resources/ocr-gcse-biology-cell-le
 
 ---
 
-## Section A
-
 **1.** State the function of DNA and describe its basic structure. **[3]**
 
 **2.** Write the word equation for aerobic respiration and for anaerobic respiration in muscle. **[2]**
-
-## Section B
 
 **3.** Explain how the structure of DNA determines the sequence of amino acids in a protein. **[4]**
 

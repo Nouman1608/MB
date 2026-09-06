@@ -122,9 +122,9 @@ inhibition is the single most commonly confused pair in this topic --
 anchor the distinction in one clear test: "does increasing substrate
 concentration reduce the inhibitor's effect?" (yes for competitive, no
 for non-competitive) rather than trying to memorise the mechanisms in
-isolation. Since this topic carries several required practicals
-(catalase/amylase rate measurement, colorimetry, immobilised enzymes
-in alginate), make sure you can describe the method, the variables
+isolation. Since this topic carries several practical investigations assessed
+in the Paper 5 Practical Assessment (catalase/amylase rate measurement,
+colorimetry, immobilised enzymes in alginate), make sure you can describe the method, the variables
 controlled, and the expected shape of a rate-against-factor graph for
 each -- practical-based questions on this topic are common on both the
 AS and A Level papers.

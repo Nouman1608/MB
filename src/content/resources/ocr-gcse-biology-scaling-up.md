@@ -139,10 +139,10 @@ surface-area-to-volume-ratio calculation itself (it is an explicit
 mathematical skill in this subtopic, not just background theory)
 before moving on to the specific exchange systems, since several exam
 questions ask you to calculate the ratio for a given shape and then
-use it to explain a biological consequence. Use the required
-practicals referenced in this topic -- root hair cell examination,
-mitosis in root tip cells, and potometer investigations of
-transpiration rate -- as genuine revision material, since OCR
+use it to explain a biological consequence. Use the Practical Activity Group (PAG) investigations referenced in
+this topic -- root hair cell examination, mitosis in root tip cells,
+and potometer investigations of transpiration rate -- as genuine
+revision material, since OCR
 regularly examines the reliability and limitations of these specific
 methods rather than only the underlying biology.
 

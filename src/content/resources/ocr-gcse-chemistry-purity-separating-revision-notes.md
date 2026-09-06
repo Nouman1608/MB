@@ -7,7 +7,7 @@ topic: "Elements, Compounds and Mixtures"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J248"]
-syllabusSeries: "Version 3.6, for first teaching 2016"
+syllabusSeries: "Version 4.0, August 2026, for first teaching 2016"
 order: 2
 syllabusTopics:
   - qualification: "gcse"
@@ -133,6 +133,5 @@ Beyond simply separating a mixture, chromatography's real analytical power is co
 ## Official syllabus
 
 OCR GCSE (9-1) Chemistry A (Gateway Science) J248 specification,
-Version 3.6 —
-[ocr.org.uk](https://www.ocr.org.uk/Images/234598-specification-accredited-gcse-gateway-science-suite-chemistry-a-j248.pdf),
-fetched and verified 2026-09-02.
+Version 4.0, August 2026 —
+[ocr.org.uk](https://www.ocr.org.uk/Images/234598-specification-accredited-gcse-gateway-science-suite-chemistry-a-j248.pdf).

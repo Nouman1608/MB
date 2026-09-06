@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-structure-bonding-organic-chemistry-ych11"
-description: "Condensed recall notes on bonding, shapes, intermolecular forces, organic nomenclature and mechanisms for Edexcel A Level Chemistry 9CH0."
+description: "Condensed recall notes on bonding, shapes, intermolecular forces, organic nomenclature and mechanisms for Pearson Edexcel International A-Level Chemistry (YCH11)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false

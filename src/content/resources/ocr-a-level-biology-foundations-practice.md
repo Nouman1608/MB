@@ -7,7 +7,7 @@ topic: "Foundations in biology"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H420"]
-syllabusSeries: "Version 3, for first teaching 2023"
+syllabusSeries: "Version 4.1, April 2026, for first teaching 2015"
 order: 3
 syllabusTopics:
   - qualification: "a-level"
@@ -26,13 +26,9 @@ Related: [Foundations in Biology study guide](/resources/ocr-a-level-biology-fou
 
 ---
 
-## Section A
-
 **1.** Define magnification and resolution, and explain why an electron microscope reveals detail invisible under a light microscope. **[3]**
 
 **2.** State two ways in which a prokaryotic cell differs from a eukaryotic cell. **[2]**
-
-## Section B
 
 **3.** A mitochondrion appears 4.5 cm wide in a photomicrograph taken at a magnification of 15,000×.
 

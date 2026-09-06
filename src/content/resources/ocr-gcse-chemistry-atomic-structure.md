@@ -7,7 +7,7 @@ topic: "Particles"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J248"]
-syllabusSeries: "First teaching 2016 (current specification version 3.6, 2024)"
+syllabusSeries: "First teaching 2016 (current specification version 4.0, August 2026)"
 syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c1-particles-j248"
@@ -162,4 +162,4 @@ number and ion charge
 - [Atomic Structure (Cambridge IGCSE / O Level)](/resources/atomic-structure/) — the equivalent subtopic from a different awarding body, useful for comparing how the same core chemistry is structured across specifications
 - [OCR GCSE Chemistry hub](/boards/ocr/gcse/chemistry/)
 
-*Written against OCR GCSE (9–1) Chemistry A (Gateway Science) J248, specification version 3.6 (2024), https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-chemistry-a-j248-from-2016/, verified 2026-08-18. Always check the current specification for your examination year.*
+*Written against OCR GCSE (9–1) Chemistry A (Gateway Science) J248, specification version 4.0 (August 2026), https://www.ocr.org.uk/qualifications/gcse/gateway-science-suite-chemistry-a-j248-from-2016/. Always check the current specification for your examination year.*

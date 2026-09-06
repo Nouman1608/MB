@@ -7,7 +7,7 @@ topic: "Particles"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J248"]
-syllabusSeries: "First teaching 2016 (current specification version 3.6, 2024)"
+syllabusSeries: "First teaching 2016 (current specification version 4.0, August 2026)"
 syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c1-particles-j248"

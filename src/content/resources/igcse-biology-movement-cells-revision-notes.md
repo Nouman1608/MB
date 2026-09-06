@@ -78,7 +78,7 @@ becomes **flaccid**, and if enough water is lost the cell membrane pulls away fr
 entirely — a state called **plasmolysis**. This vocabulary is precise and examiners expect exact terms,
 not approximate descriptions like "the cell shrank."
 
-## Linking to the required practicals
+## Linking to the practical investigations
 
 For the dialysis-tubing osmosis investigation, be ready to describe the method (filling tubing with a
 sugar solution, immersing it in water, measuring mass change) and explain the result using the same

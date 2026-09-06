@@ -49,7 +49,7 @@ student can work safely and competently in a practical context
 
 Because this module has no dedicated exam paper, the most effective
 preparation is to actively apply its skills whenever a practical
-activity or core practical comes up in any other module, rather than
+activity or PAG (Practical Activity Group) comes up in any other module, rather than
 revising it in isolation. Written-exam practical skills (1.1) are
 consistently tested through unfamiliar experimental scenarios, so build
 comfort identifying variables, evaluating experimental design, and

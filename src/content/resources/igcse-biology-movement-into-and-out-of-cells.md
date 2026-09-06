@@ -136,7 +136,7 @@ If you are entered for the Extended tier, practise applying the
 turgid/turgor pressure/plasmolysis/flaccid vocabulary to unfamiliar
 plant-tissue scenarios (for example, why a wilted plant recovers after
 watering), since this is where Supplement questions on osmosis are
-most often set. For the required practicals, be ready to describe both
+most often set. For the practical investigations, be ready to describe both
 the dialysis-tubing osmosis investigation and how you would measure
 the effect of surface area, temperature or concentration gradient on
 diffusion rate, since practical technique questions on this topic
@@ -145,8 +145,8 @@ appear on the written papers as well as the practical paper.
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Biology (0610) syllabus for
-examination in 2026, 2027 and 2028* (Version 2, published December
-2025): [official syllabus
+examination in 2026, 2027 and 2028* (Version 3, published August
+2026): [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/697203-2026-2028-syllabus.pdf),
 Subject content, section 3 "Movement into and out of cells". Verified
 2026-09-02.

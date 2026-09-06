@@ -96,9 +96,9 @@ Link:       the hair-like extension greatly increases surface area
 
 This structure-function-link pattern -- the same format used throughout GCSE biology for specialised cells -- applies equally well to alveoli, red blood cells, or any other specialised cell or surface named across the OCR biology specification, so it is worth practising as a reusable answer template rather than memorising separately for each cell type.
 
-## Required practicals as genuine exam content
+## Practical Activity Group investigations as genuine exam content
 
-The specification references several required practicals within this topic: examining root hair cells, observing mitosis in root tip cells, and using a potometer to investigate transpiration rate. OCR routinely examines the **method, the variables controlled, and the reliability/limitations** of these specific practicals, not only the underlying biology -- for example, a potometer question might ask you to identify a source of error (an air bubble entering the apparatus) or to calculate the rate of water uptake from raw data (distance moved by an air bubble over a measured time). Treat these practicals as revision material in their own right, working through the method and likely calculation questions, rather than assuming the classroom activity alone is sufficient preparation.
+The specification groups this topic's practical work into Practical Activity Groups (PAGs), with named suggested activities including examining root hair cells, observing mitosis in root tip cells, and using a potometer to investigate transpiration rate. OCR routinely examines the **method, the variables controlled, and the reliability/limitations** of these specific practicals, not only the underlying biology -- for example, a potometer question might ask you to identify a source of error (an air bubble entering the apparatus) or to calculate the rate of water uptake from raw data (distance moved by an air bubble over a measured time). Treat these practicals as revision material in their own right, working through the method and likely calculation questions, rather than assuming the classroom activity alone is sufficient preparation.
 
 ## Key terms
 
