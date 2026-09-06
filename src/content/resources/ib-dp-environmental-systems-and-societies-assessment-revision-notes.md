@@ -14,7 +14,9 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP ESS subject overview](/resources/ib-dp-environmental-systems-and-societies-subject-guide/).
+[IB DP ESS subject overview](/resources/ib-dp-environmental-systems-and-societies-subject-guide/), and
+for a paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-environmental-systems-and-societies-exam-preparation/).
 
 ## Why the IA is weighted slightly higher at SL
 

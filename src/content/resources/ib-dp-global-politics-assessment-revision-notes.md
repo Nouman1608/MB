@@ -14,7 +14,9 @@ featured: false
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
-[IB DP Global Politics subject overview](/resources/ib-dp-global-politics-subject-guide/).
+[IB DP Global Politics subject overview](/resources/ib-dp-global-politics-subject-guide/), and for a
+paper-by-paper exam-day plan see the
+[exam preparation guide](/resources/ib-dp-global-politics-exam-preparation/).
 
 ## How Global Politics fits into the wider Diploma
 

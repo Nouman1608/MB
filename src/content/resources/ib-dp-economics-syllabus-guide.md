@@ -171,6 +171,12 @@ in the wrong direction, typically loses the marks attached to it even
 when the surrounding written explanation is accurate -- so diagram
 practice deserves dedicated revision time separate from content recall.
 
+## Exam preparation
+
+For a paper-by-paper exam-day plan -- diagram practice, evaluation-writing
+strategy, and HL Paper 3's policy focus -- see the
+[exam preparation guide](/resources/ib-dp-economics-exam-preparation/).
+
 ## Source
 
 International Baccalaureate Organization, Economics guide (Diploma
