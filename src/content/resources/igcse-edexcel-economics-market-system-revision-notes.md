@@ -78,6 +78,53 @@ A public good requires **both** properties. Street lighting and defence qualify.
 
 **Policies to correct externalities:** taxation, subsidies, fines, regulation, and pollution permits.
 
+## Worked example: PED and the effect on revenue
+
+A rail operator raises fares by 10%, and the quantity of tickets sold
+falls by 4%.
+
+```
+PED = %change in Qd / %change in P
+    = -4 / 10
+    = -0.4
+```
+
+Ignoring the sign (as is conventional for PED), the magnitude is 0.4,
+which is **less than 1**, so demand is **price inelastic**. Since
+demand is inelastic, the percentage rise in price (10%) is larger than
+the percentage fall in quantity (4%), so **total revenue rises**
+following the price increase — this is exactly the inelastic-demand
+row of the PED/revenue table above, applied to real figures rather
+than just recalled as a rule.
+
+## Worked example: identifying a negative externality
+
+A factory's production process releases smoke into the air, causing
+respiratory problems for people living nearby who are not involved in
+buying or selling the factory's output.
+
+```
+Externality type:  Negative externality (production)
+Who bears it:       Third parties -- the nearby residents -- who are
+                    neither the producer nor the consumer of the
+                    factory's output.
+Market outcome:      Because the factory does not pay for the harm
+                    caused to residents, its private cost of
+                    production is lower than the true social cost,
+                    so the free market produces MORE than the
+                    socially optimal quantity -- over-production.
+Correction:          Government could impose a tax on the factory
+                    (raising its private cost closer to the social
+                    cost) or introduce regulation limiting emissions.
+```
+
+This diagnose-the-externality-then-correct structure — naming the
+type, identifying who bears the cost or benefit, stating the market
+outcome, then naming a correction — is the reliable way to score full
+marks on market failure scenario questions, rather than jumping
+straight to "the government should tax it" without the reasoning in
+between.
+
 ## Exam traps
 
 - Treating a price change as a shift.

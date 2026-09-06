@@ -82,6 +82,35 @@ Shareholders, employees, customers, suppliers, government, community, lenders.
 
 **Application** — use the case study's actual figures and context. **Analysis** — build a chain: *because X, therefore Y, which means Z for this firm.* **Evaluation** — weigh both sides, judge, and **state what the judgement depends on**.
 
+## Worked example: choosing a growth method
+
+A domestic furniture retailer wants to expand into supplying its own
+raw materials (timber) to reduce dependence on external suppliers.
+
+```
+Growth type:   Vertical backward integration (merger or takeover of
+               a firm at an earlier stage of the supply chain).
+Benefit:        Greater control over the quality and cost of a key
+               input, and reduced risk of supply disruption from an
+               external supplier.
+Drawback:       The retailer takes on unfamiliar operational
+               expertise (timber production) it may not have, and
+               the upfront cost of acquisition or investment could
+               strain cash flow.
+Contrast:        This differs from horizontal integration (acquiring
+               a rival furniture retailer, expanding at the same
+               stage) and from conglomerate diversification
+               (acquiring an unrelated business to spread risk) --
+               naming the specific type correctly is itself
+               creditable before any evaluation begins.
+```
+
+Practising this identify-the-type-then-weigh-it structure across
+different scenario descriptions is more useful revision than
+memorising the four growth types as an abstract list, since exam
+scenarios describe a situation rather than naming the growth type
+directly.
+
 ## Exam traps
 
 - Generic answers with no case-study reference.

@@ -82,6 +82,38 @@ the actual factor rather than just its PESTLE letter.
 
 **Application** — use the case study's actual figures and context. **Analysis** — *because X, therefore Y, which means Z for this firm.* **Evaluation** — weigh both sides, judge, and **state what the judgement depends on**.
 
+## Worked example: a stakeholder conflict scenario
+
+A manufacturing firm is considering automating part of its production
+line to cut costs and increase output.
+
+```
+Stakeholder A:   Shareholders -- want the automation, since lower
+                 costs and higher output should increase profit and
+                 share value.
+Stakeholder B:   Employees -- oppose the automation, since it
+                 threatens jobs on the affected part of the
+                 production line.
+Why they
+oppose:           Shareholders' interest is financial return; the
+                 threatened employees' interest is job security --
+                 the two interests point in genuinely opposite
+                 directions on this specific decision, not merely
+                 different priorities in the abstract.
+Judgement:        Whether the firm should prioritise shareholders or
+                 employees depends on factors such as how central
+                 these roles are to the firm's ability to operate,
+                 the cost of retraining or redeploying affected
+                 staff, and how much the firm's reputation depends on
+                 being seen as a good employer in its local labour
+                 market.
+```
+
+This name-the-conflict, explain-why-it-opposes, then judge-with-a-
+stated-criterion structure is the reasoning shape stakeholder
+questions consistently reward, rather than simply listing which
+stakeholders exist.
+
 ## Exam traps
 
 - Generic answers ignoring the case study.

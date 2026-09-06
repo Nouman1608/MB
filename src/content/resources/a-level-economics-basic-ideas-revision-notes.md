@@ -83,6 +83,27 @@ AS Topic 1 classifies goods by **excludability** and **rivalry**, and by the mar
 
 Externalities, market structures and government failure are **A Level** content (Topics 7 and 8) and are not examined at AS — don't import them into a Topic 1 answer.
 
+## Worked example: reading opportunity cost from a PPC
+
+An economy can produce a maximum of 100 units of food or 50 units of
+machinery, or any combination on the straight-line PPC between them.
+It moves from producing 60 food and 20 machinery to producing 40 food
+and 30 machinery.
+
+```
+Change in food:       60 -> 40  (a fall of 20 units)
+Change in machinery:  20 -> 30  (a rise of 10 units)
+
+Opportunity cost of the extra 10 machinery
+   = the 20 units of food given up
+```
+
+Because this PPC is a straight line (constant opportunity cost), the
+ratio of food given up to machinery gained should be consistent along
+the whole curve — here, 2 units of food per 1 unit of machinery — which
+is a useful check on whether a stated pair of points genuinely lies on
+the same straight-line PPC.
+
 ## Exam traps
 
 - Defining opportunity cost without "next best".
