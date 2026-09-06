@@ -119,6 +119,45 @@ directly to "discuss the benefits and limitations" questions on
 multipurpose dams too, since both sub-topics reward the same
 evaluative structure.
 
+## Command words for this topic
+
+"Water" questions in Paper 1 mix short recall with longer evaluative
+items. Match your answer's length to the command word rather than
+writing the same amount for every question:
+
+| Command word | What's expected |
+|---|---|
+| State / Identify | A single named fact — a store, a transfer, a disease |
+| Describe | The pattern or process, in sequence, without explaining causes |
+| Explain | The cause-and-effect chain — e.g. the four-step eutrophication sequence |
+| Discuss / Evaluate | Benefits **and** limitations, reaching a judgement where asked |
+
+A "discuss the benefits and limitations of multipurpose dams"
+question that only lists benefits, however accurately, cannot access
+the full mark range — the limitations half is not optional extra
+detail, it is a separate assessment objective.
+
+## Worked example: treatment stage recall
+
+A question gives a diagram of a water treatment works with one stage
+unlabelled and asks you to identify it and state its purpose.
+
+```
+Sequence:   screening -> sedimentation -> filtration -> chlorination
+If stage 3 (filtration) is blanked out:
+Identify:   Filtration
+Purpose:    Removes smaller suspended particles that settled out
+            during sedimentation but that visible screening could
+            not catch, using sand/gravel beds the water passes
+            through, before the water is disinfected at the final
+            chlorination stage.
+```
+
+Learning the four-stage sequence in strict order, rather than as an
+unordered list, is what makes "which stage comes before/after X"
+questions and diagram-labelling questions straightforward rather than
+a guessing exercise.
+
 ## Exam traps
 
 - Confusing bioaccumulation (within one organism) with

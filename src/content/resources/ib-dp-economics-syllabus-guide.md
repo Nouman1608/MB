@@ -114,6 +114,56 @@ evaluation (weighing up arguments, not just describing them), which is
 worth practising deliberately rather than assuming it follows
 automatically from knowing the content.
 
+## Command terms and how marks are actually awarded
+
+DP Economics uses a defined hierarchy of command terms, and the paper
+structure tests them in ascending order of demand:
+
+- **Define / State** -- a precise, syllabus-accurate definition, no more.
+- **Explain** -- a reasoned chain of cause and effect, usually supported
+  by a labelled diagram (e.g. explain why a negative production
+  externality causes market failure, using a diagram showing marginal
+  private cost against marginal social cost).
+- **Analyse** -- explain plus draw out the implications, often "using
+  a diagram."
+- **Evaluate / To what extent** -- weigh the strength of an argument
+  against a counter-argument or a real-world limitation, and reach a
+  reasoned judgement rather than simply listing both sides.
+
+Papers 1 and 2 (the extended-response papers) are weighted most
+heavily toward evaluate-level command terms, which is why practising
+argument-and-counter-argument paragraphs is a better use of revision
+time close to the exam than re-reading definitions that are already
+secure.
+
+## The internal assessment portfolio
+
+The IA is a portfolio of **three commentaries**, each based on a
+different section of the syllabus (one from Microeconomics, one from
+Macroeconomics, and one from either Introduction to economics or The
+global economy), each built around a published news article no more
+than one year old at the time of submission and roughly 800 words of
+commentary. Each commentary must apply a different economic concept
+or theory -- examiners specifically penalise near-duplicate concepts
+appearing across the three pieces. Because the commentaries draw on
+real, dated news articles, the same source-verification discipline
+that applies to written revision content applies here: cite the
+article's publication and date precisely, since a stale or
+unverifiable source undermines the commentary's foundation regardless
+of how strong the economic analysis built on top of it is.
+
+## Diagrams as a shared language across units
+
+Nearly every unit in this syllabus is assessed partly through the
+ability to draw, label and interpret a diagram correctly under exam
+conditions -- supply-and-demand curves in Unit 2, aggregate demand and
+aggregate supply curves in Unit 3, and trade/exchange-rate diagrams in
+Unit 4 all reuse the same axis conventions and shift logic introduced
+early in Unit 2. A diagram that is unlabelled, or that shows a shift
+in the wrong direction, typically loses the marks attached to it even
+when the surrounding written explanation is accurate -- so diagram
+practice deserves dedicated revision time separate from content recall.
+
 ## Source
 
 International Baccalaureate Organization, Economics guide (Diploma

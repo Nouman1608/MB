@@ -103,6 +103,55 @@ with the alternative that would suit a different scenario -- is a
 reliable way to demonstrate the depth "recommend and justify"
 questions reward.
 
+## Data response questions on marketing
+
+Case-study-based papers reward answers that quote **specific figures
+or details from the source material**, not generic marketing theory.
+If the case gives sales figures over three years alongside a
+description of a new promotional campaign, a strong answer links the
+figures directly to the campaign rather than describing the campaign
+in isolation.
+
+**Worked example.** A case study states that a firm's sales grew from
+$2m to $3.2m in the year after switching from mass to niche
+marketing, targeting a specific demographic segment with tailored
+digital promotion.
+
+```
+Analysis:      Sales grew by $1.2m (60%) following the switch to
+               niche marketing, suggesting the tailored digital
+               promotion reached the target segment more
+               effectively than the previous mass-marketing
+               approach.
+Evaluation:    However, the case does not rule out other causes of
+               the growth (e.g. a wider market upturn, a competitor
+               exiting), so the link between the marketing change and
+               the sales figure, while plausible, cannot be
+               presented as proven from this data alone.
+```
+
+This is the same "state the figure, link it to the theory, then
+evaluate whether the link is actually proven" structure that scores
+well across every data-response topic in this syllabus, not only
+marketing.
+
+## Common confusion: segmentation vs targeting vs positioning
+
+These three terms are often used loosely in student answers but are
+tested as distinct steps:
+
+- **Segmentation** — dividing the whole market into groups with
+  shared characteristics (geographic, demographic, psychographic).
+- **Targeting** — choosing which segment(s) the business will focus
+  on serving.
+- **Positioning** — deciding how the product should be perceived
+  relative to competitors within the targeted segment.
+
+Answering "explain how a business segments its market" with content
+that actually describes targeting (which segment was chosen) rather
+than segmentation (how the market was divided) is a common lost-marks
+pattern worth checking for specifically.
+
 ## Exam traps
 
 - Recommending a marketing-mix element without connecting it back to
