@@ -122,6 +122,35 @@ distinguishing direct CPU access (primary) from indirect (secondary).
 (network-allocated, can change).
 - Listing cloud storage's benefit without a matched limitation.
 
+## Worked example: matching sensors to a scenario
+
+A smart greenhouse system automatically opens vents, waters plants
+and adjusts shading. Identify a suitable sensor for each function.
+
+```
+Opens vents when too hot:        Temperature sensor
+Waters plants when soil is dry:  Moisture sensor
+Adjusts shading when too bright: Light sensor
+```
+
+For each, the answer needs the sensor **named** and the **physical
+quantity it measures** stated explicitly — "a sensor" alone, without
+naming which type, does not earn the mark even if the surrounding
+explanation of the automated response is otherwise correct.
+
+## RAM vs ROM: why both are needed together
+
+A common exam question asks why a computer needs both RAM and ROM
+rather than just one. RAM is fast and directly accessible by the CPU,
+but **volatile** — its contents are lost when power is removed, so it
+cannot hold the instructions needed to start the computer up in the
+first place. ROM is also directly accessible but **non-volatile**, so
+it permanently stores the startup instructions (the bootstrap
+program) that run before an operating system has even been loaded
+into RAM. Once the operating system is loaded, RAM takes over as the
+main working memory because of its speed, while ROM's contents remain
+untouched and unnecessary until the next power-on.
+
 ## Self-test
 
 1. What happens to the Program Counter during the fetch stage?

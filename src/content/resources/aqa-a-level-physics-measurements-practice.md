@@ -60,6 +60,11 @@ Related: [Measurements and Their Errors revision notes](/resources/aqa-a-level-p
 
 **9.** Two data points have overlapping error bars. What can be concluded about the difference between them? **[1]**
 
+**10.** A student measures the diameter of a wire five times with a micrometer: 0.82, 0.84, 0.81, 0.83, 0.82 mm.
+
+**(a)** Calculate the mean diameter and the uncertainty using the range method. **[2]**
+**(b)** The wire's length is 1.500 m ± 0.002 m. The resistivity is calculated from ρ = RA/L, where A is the cross-sectional area. State which of the two measurements (diameter or length) contributes the larger percentage uncertainty to ρ, and explain why. **[3]**
+
 ---
 
 ## Answers
@@ -92,6 +97,9 @@ Absolute = 0.0341 × 11.55 = **±0.39 Ω** [1].
 
 **9.** The difference between them **may not be significant** [1] — overlapping error bars mean the true values could plausibly be equal.
 
+**10. (a)** Mean = (0.82 + 0.84 + 0.81 + 0.83 + 0.82) ÷ 5 = **0.824 mm** [1]. Range = 0.84 − 0.81 = 0.03 mm; uncertainty = 0.03 ÷ 2 = **±0.015 mm** [1].
+**(b)** Percentage uncertainty in diameter = (0.015 ÷ 0.824) × 100 = 1.8% [1]; percentage uncertainty in length = (0.002 ÷ 1.500) × 100 = 0.13% [1]. The **diameter** contributes the larger percentage uncertainty [1] — and because A depends on the diameter **squared**, the diameter's contribution to the uncertainty in ρ is doubled again (to roughly 3.6%), making it by far the dominant source of uncertainty in the final result.
+
 ---
 
 ## Where marks are usually lost
@@ -103,3 +111,4 @@ Absolute = 0.0341 × 11.55 = **±0.39 Ω** [1].
 - Confusing repeatable (same method, same person) with reproducible (different method or person).
 - Forgetting to multiply, not add, the percentage uncertainty when a quantity is raised to a power.
 - Declaring a definite difference between two data points whose error bars overlap.
+- Forgetting that a squared quantity in a formula doubles its percentage-uncertainty contribution relative to a linear one.

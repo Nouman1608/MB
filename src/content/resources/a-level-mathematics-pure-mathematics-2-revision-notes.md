@@ -113,6 +113,42 @@ between these values, **a root lies somewhere in the interval (1,
 root's precise value; finding that requires the iterative method that
 follows in the same sub-topic.
 
+## Worked example: differentiating a product involving trig and exponential terms
+
+Differentiate y = e^(2x) sin(3x), using the product rule.
+
+```
+Let u = e^(2x),  du/dx = 2e^(2x)
+Let v = sin(3x), dv/dx = 3cos(3x)
+
+Product rule: dy/dx = u(dv/dx) + v(du/dx)
+            = e^(2x) x 3cos(3x) + sin(3x) x 2e^(2x)
+            = e^(2x) [3cos(3x) + 2sin(3x)]
+```
+
+Factoring out the common e^(2x) at the end, rather than leaving the
+two terms unsimplified, is what a fully worked answer at this level
+looks like — an unsimplified but algebraically correct answer can
+still lose a final accuracy mark for presentation.
+
+## Worked example: integrating using a logarithm law first
+
+Find the integral of 1/(2x + 1) dx.
+
+```
+d/dx [ln(2x + 1)] = 2 / (2x + 1)        (chain rule, derivative of
+                                          the linear inside function
+                                          is 2)
+
+So integral of 1/(2x+1) dx = (1/2) ln(2x + 1) + c
+```
+
+Recognising the pattern "integral of f'(x)/f(x) is ln|f(x)|", adjusted
+by a constant factor for a linear inner function, is one of the most
+frequently reused techniques across 2.4-2.5 -- it is worth practising
+until it is recognised on sight rather than derived from scratch each
+time.
+
 ## Exam traps
 
 - Treating factor theorem/polynomial division as a fresh challenge
