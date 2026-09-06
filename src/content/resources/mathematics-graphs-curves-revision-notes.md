@@ -91,6 +91,40 @@ In context, the gradient is a **rate of change**:
 - Distance–time graph → gradient is **speed**.
 - Speed–time graph → gradient is **acceleration**, and the **area under** the graph is the **distance travelled**. This syllabus only requires areas made up of linear sections (e.g. triangles and trapezia), not curved regions.
 
+## Sketching from a table of values vs recognising the equation
+
+Two different exam demands look similar but need different approaches:
+
+- **Given an equation, sketch the graph** -- use the shape-recognition
+  table above first, then mark the key points (intercepts, turning
+  points, asymptotes) rather than plotting many individual points.
+- **Given a table of values, plot the graph** -- plot each point
+  accurately on the grid provided, then join with a **smooth curve**
+  (never straight segments, unless the function genuinely is linear
+  over that interval).
+
+**Worked example.** A table gives values of y = x² − 2x − 3 for
+x = −2 to 4. At x = −1, y = (−1)² − 2(−1) − 3 = 1 + 2 − 3 = 0, so
+(−1, 0) is a root. At x = 3, y = 9 − 6 − 3 = 0, so (3, 0) is the other
+root. The turning point lies on the line of symmetry, halfway between
+the roots at x = 1, giving y = 1 − 2 − 3 = −4, so the minimum is
+(1, −4).
+
+## Transformations of graphs
+
+Recognise how shifting or reflecting an equation moves its graph,
+without needing to re-derive the shape from scratch each time:
+
+| Change to equation | Effect on graph |
+|---|---|
+| `f(x) + a` | Shifts up by a (down if a is negative) |
+| `f(x + a)` | Shifts left by a (right if a is negative) |
+| `-f(x)` | Reflects in the x-axis |
+
+This lets you sketch, for example, `y = x² + 3` directly from the
+standard parabola shape shifted up 3 units, without plotting a single
+point.
+
 ## Exam traps
 
 - Plotting points without recognising the expected shape, so an error goes unnoticed.

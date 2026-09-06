@@ -126,6 +126,43 @@ sub-topics as genuinely connected, rather than as two separate lists,
 makes it easier to answer synoptic questions that draw on both halves
 of the topic in a single scenario.
 
+## Command words for Topic 3
+
+| Command word | What's expected |
+|---|---|
+| State / Identify | A single named fact — a restriction type, a risk category |
+| Describe | The structure or pattern (e.g. a simple vs complex supply chain) |
+| Explain | The reasoning linking cause to effect (e.g. why a tariff raises the price paid by consumers) |
+| Discuss / Evaluate | Both sides — a benefit and a matched challenge or disadvantage, reaching a judgement where the question asks for one |
+
+A question that asks a business to "discuss the benefits and
+challenges of joining a trading bloc" cannot score full marks from a
+one-sided answer, however detailed — the syllabus explicitly frames
+trading blocs as carrying both advantages and disadvantages, and the
+mark scheme rewards covering both.
+
+## Worked example: identifying a supply chain risk from a scenario
+
+A company sourcing electronic components from an overseas supplier
+faces a sudden change in import tariffs following a change in
+government trade policy in the supplier's country.
+
+```
+Risk category:  Political
+Why:            The risk arises directly from a government policy
+                change (a new tariff), which is the defining feature
+                of political risk in a global supply chain, distinct
+                from a financial risk (e.g. currency fluctuation) or
+                an environmental risk (e.g. a natural disaster
+                disrupting the supplier's factory).
+```
+
+Practising this identify-the-category-and-justify structure across
+different scenario descriptions is a more reliable way to handle
+supply-chain-risk questions than memorising the six category names in
+isolation, since exam scenarios describe a situation rather than
+naming the risk category directly.
+
 ## Exam traps
 
 - Confusing Balance of Trade (goods only) with Balance of Payments

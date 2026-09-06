@@ -61,6 +61,11 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 
 **10.** A calculation from data with 2 significant figures gives a calculator display of 4.8571429. State the result to an appropriate number of significant figures, and explain why. **[2]**
 
+**11.** A cube of metal has a measured side length of 2.00 cm ± 0.02 cm and a mass of 43.0 g ± 0.5 g.
+
+**(a)** Calculate the volume of the cube and the percentage uncertainty in the volume. **[2]**
+**(b)** Calculate the density of the metal and its absolute uncertainty, giving your final answer to an appropriate number of significant figures. **[3]**
+
 ---
 
 ## Answers
@@ -90,6 +95,9 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 
 **10. 4.9** [1] — a calculated result cannot be more precise than the **least precise measurement** used to obtain it, so it should be quoted to **2 significant figures** [1].
 
+**11. (a)** Volume = (2.00)³ = **8.00 cm³** [1]. Percentage uncertainty in side = (0.02 ÷ 2.00) × 100 = 1% [1]; volume involves the side **cubed**, so percentage uncertainty in volume = 3 × 1% = **3%** [1].
+**(b)** Density = mass ÷ volume = 43.0 ÷ 8.00 = **5.375 g/cm³** [1]. Percentage uncertainty in mass = (0.5 ÷ 43.0) × 100 = 1.16% [1]; percentage uncertainty in density = 3% + 1.16% = **4.16%** [1], giving an absolute uncertainty of 5.375 × 0.0416 = 0.22 g/cm³, so the final answer is **5.4 ± 0.2 g/cm³** (2 significant figures, matching the least precise input) [1].
+
 ---
 
 ## Where marks are usually lost
@@ -100,3 +108,4 @@ Related: [Measurements and Their Errors revision notes](/resources/oxfordaqa-a-l
 - Assuming finer resolution automatically means a more accurate measurement.
 - Using the largest or smallest reading alone rather than half the range for repeated-reading uncertainty.
 - Quoting a calculated result to more significant figures than the least precise measurement justifies.
+- Forgetting that a cubed or squared quantity multiplies its percentage uncertainty by the power, then failing to add it to the other combined percentage uncertainties.

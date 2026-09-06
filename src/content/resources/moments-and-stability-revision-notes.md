@@ -94,6 +94,41 @@ It topples when the vertical line through the centre of gravity falls **outside 
 
 Practical examples: racing cars (low, wide), Bunsen burners (heavy base), double-decker buses (low centre of gravity by design). Two objects of **equal weight** can have very different stability — stability depends on the **position** of the centre of gravity relative to the base, not on weight itself.
 
+## Worked example: combining Hooke's law and moments
+
+A uniform beam of weight 20 N and length 1.0 m rests horizontally,
+supported by a spring at one end and a pivot at the other. If the
+spring must supply a force such that the beam balances, and the
+beam's weight acts at its centre (0.5 m from the pivot), find the
+force the spring must provide, given it acts at the far end (1.0 m
+from the pivot).
+
+```
+anticlockwise moment (weight) = 20 x 0.5 = 10 N m
+clockwise moment (spring)     = F x 1.0
+
+F x 1.0 = 10   ->   F = 10 N
+```
+
+If that same spring has a spring constant of 200 N/m, its extension
+under this 10 N load is x = F / k = 10 / 200 = **0.05 m**. This kind
+of combined question -- using the principle of moments to find a
+force, then Hooke's law to find what that force does to a spring --
+is a common way exam papers link the two halves of this topic
+together in a single multi-part question.
+
+## Toppling: a step further than "low and wide"
+
+A stability question often asks you to explain, not just state,
+**why** a specific object is more stable than another. The reasoning
+chain is: a wider base means the centre of gravity has to shift
+further sideways before its vertical line falls outside the base; a
+lower centre of gravity means, for the same amount of tilt, the
+vertical line through it moves a smaller horizontal distance before
+reaching the edge of the base. Both effects work in the same
+direction, which is why racing cars combine them deliberately rather
+than relying on just one.
+
 ## Exam traps
 
 - Use **extension**, not total length, in F = kx.

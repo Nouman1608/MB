@@ -118,6 +118,43 @@ one -- a useful reminder that named real-world systems in this
 syllabus often combine several sensor types to increase reliability,
 not just a single sensor in isolation.
 
+## Why calibration matters even for a "correctly working" sensor
+
+A sensor can be electronically functional but still give inaccurate
+readings if it has never been calibrated, or has drifted out of
+calibration over time. Calibration compares the sensor's output
+against a known reference value and adjusts for any systematic
+offset — this is conceptually distinct from the sensor simply
+"working" in the sense of producing a signal at all. A pH sensor left
+uncalibrated for months, for example, may still respond correctly to
+changes in acidity, but every reading it gives could be shifted from
+the true value by a consistent offset — exactly the kind of
+systematic error that only calibration, not repeated readings, can
+correct.
+
+## Worked example: choosing a calibration type
+
+A pressure sensor is known to respond in a genuinely linear way
+across its whole range, while a humidity sensor is known to respond
+non-linearly near the extremes of its range.
+
+```
+Pressure sensor:  Two-point calibration is sufficient -- since the
+                   response is linear, checking at a low and a high
+                   reference point is enough to correct any offset
+                   and scale error across the whole range.
+Humidity sensor:   Multipoint calibration is more appropriate --
+                   because the response is non-linear near the
+                   extremes, checking only two points would leave
+                   inaccuracies uncorrected in the parts of the range
+                   where the response curves away from a straight
+                   line.
+```
+
+Matching calibration type to the sensor's actual response shape,
+rather than defaulting to the same calibration method for every
+sensor, is the specific judgement this sub-topic tests.
+
 ## Exam traps
 
 - Confusing a sensor (takes a reading) with an actuator (produces

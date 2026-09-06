@@ -110,6 +110,43 @@ a described resource belongs to, then stating its reward -- is a more
 reliable way to avoid the capital/enterprise mix-up than memorising
 the four definitions in isolation.
 
+## Production possibility curves — the diagram version of the problem
+
+A production possibility curve (PPC) shows the maximum combinations
+of two goods an economy can produce with its finite resources, and it
+is the diagrammatic way this syllabus tests the scarcity/choice idea:
+
+- A point **on** the curve — resources fully and efficiently used.
+- A point **inside** the curve — resources unemployed or used
+  inefficiently.
+- A point **outside** the curve — currently unattainable with present
+  resources and technology.
+- A movement **along** the curve — the opportunity cost of producing
+  more of one good, shown directly as the quantity of the other good
+  given up.
+- A shift of the **whole curve outward** — economic growth, caused by
+  more/better resources (e.g. more capital investment, improved
+  technology, an increase in the labour force).
+
+**Common confusion**: a movement along the curve is opportunity cost
+in action; an outward shift of the entire curve is economic growth —
+these are two different concepts often mixed up in written answers.
+
+## Worked example: reading opportunity cost from a PPC
+
+An economy on its PPC increases output of Good A from 40 to 60 units,
+and as a result output of Good B falls from 100 to 70 units.
+
+```
+Opportunity cost of the extra 20 units of Good A
+   = the 30 units of Good B given up
+```
+
+The opportunity cost is expressed **in terms of the other good given
+up**, not as a money value — this is the same next-best-alternative
+logic from the earlier worked example, just read directly off a
+diagram instead of a written scenario.
+
 ## Exam traps
 
 - Describing a free-with-no-price-tag good (like a promotional

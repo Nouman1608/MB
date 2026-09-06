@@ -126,6 +126,32 @@ for practice, so always confirm with your teacher which code and
 series applies to your own examination entry before assuming full
 interchangeability between the two qualifications' past papers.
 
+## Command words specific to Paper 2
+
+| Command word | What's expected |
+|---|---|
+| State / Name | A single fact — a named dam, treaty, mineral |
+| Describe | The pattern (e.g. distribution of forests) without explaining causes |
+| Explain | Reasons and/or consequences, in a connected chain |
+| Suggest | A plausible, reasoned solution — not necessarily the "textbook" one, provided it is justified |
+
+A "suggest" question rewards a reasoned, relevant proposal even if it
+differs from the model answer, whereas a "state" question rewards
+only the specific named fact — mismatching the depth of an answer to
+the command word is a common source of lost marks across all four
+sub-sections.
+
+## Linking Section 2 to Section 1's map work
+
+Section 1 requires locating physical features (rivers, mountain
+ranges, coastal regions) on a map; Section 2 then asks you to explain
+why resources cluster where they do. A strong answer on, for example,
+mineral extraction sites draws on the physical geography from Section
+1 (terrain, proximity to transport routes) rather than treating
+location and resource use as two disconnected topics — examiners
+sometimes set a single question that requires both a map reference
+and an explanation together.
+
 ## Self-test
 
 1. What two things must an answer on the Indus Water Treaty cover,

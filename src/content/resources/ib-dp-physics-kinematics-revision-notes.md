@@ -3,7 +3,7 @@ title: "Kinematics: Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["ib"]
-topic: "Theme A – Space, Time and Motion (Topic A.1)"
+topic: "Topic A – Space, Time and Motion (A.1)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Physics"]

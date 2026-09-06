@@ -96,6 +96,45 @@ system of inequalities — is explicitly **not** part of this syllabus;
 the skill required stops at representing, solving and reading off
 regions.
 
+## Inequalities in worded problems
+
+Translate the words into symbols **before** solving, and define what
+the variable represents.
+
+**Worked example.** A taxi charges a $3 call-out fee plus $2 per
+kilometre. A passenger has at most $25 to spend. Form and solve an
+inequality for the number of kilometres, k, the passenger can travel.
+
+```
+3 + 2k <= 25
+    2k <= 22
+     k <= 11
+```
+
+The passenger can travel **at most 11 km**. Note the answer is
+bounded by the real-world context — k also cannot be negative, so the
+full solution is 0 <= k <= 11, even though the algebra alone only
+produces the upper bound.
+
+## Combining two separate inequalities
+
+Some questions give two inequalities in the same variable and ask for
+the values that satisfy **both**.
+
+```
+Solve:  2x - 1 > 5   and   x + 4 <= 10
+
+2x - 1 > 5            x + 4 <= 10
+    2x > 6                 x <= 6
+     x > 3
+
+Combined: 3 < x <= 6
+```
+
+Write the combined answer as a single double inequality, not as two
+separate lines — this is what "hence find the set of values" is
+asking for.
+
 ## Exam traps
 
 - Forgetting to flip the sign when dividing by a negative.
@@ -104,6 +143,20 @@ regions.
 - Shading the wrong region: always test a point rather than guessing.
 - When listing integers, checking whether each endpoint is included.
 - Treating a double inequality one side at a time and losing a bound in the process.
+
+## Checking a solution
+
+After solving, substitute a value from your solution set back into
+the **original** inequality to confirm it holds — this catches sign
+errors quickly, especially after dividing by a negative number.
+
+```
+Check x < -4 solves -3x > 12:
+   Try x = -5:  -3(-5) = 15,  and 15 > 12  TRUE
+```
+
+If the check fails, the sign was very likely not flipped when it
+should have been (or was flipped when it shouldn't have been).
 
 ## Self-test
 

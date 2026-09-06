@@ -112,6 +112,38 @@ shallow, general familiarity with the entire prescribed list. This
 still leaves a genuine fallback option if one particular question
 doesn't suit the texts you know best.
 
+## Time management across the three parts
+
+Paper 2 combines a shorter comprehension-based part with two
+essay-based parts, and time pressure affects each differently.
+Because Part 1 has a fixed, bounded answer (responding to what is
+actually on the page), it can be completed efficiently once the
+underlying skill is secure. Parts 2 and 3, by contrast, reward depth
+of textual reference that only comes from a fuller, well-planned
+essay response — spending disproportionate time perfecting Part 1
+at the expense of either essay is a common way strong preparation
+still produces a mid-band overall result.
+
+## Worked example: selecting between two essay options under time pressure
+
+A Part 3 Prose question offers a choice between two questions on
+different prescribed articles. A candidate has strong textual
+knowledge of one article and only moderate knowledge of the other.
+
+```
+Weaker approach:  Choosing based on which question "sounds easier"
+                   at a glance, without checking which article it
+                   actually draws on.
+Stronger approach: Quickly identifying which prescribed article each
+                   question requires, then choosing the one matching
+                   the article known in greater textual depth --
+                   since depth of reference, not the phrasing of the
+                   question itself, is what the mark scheme rewards.
+```
+
+This same selection logic applies equally to the Part 2 Poetry
+choice between a ghazal-based and nazm-based question.
+
 ## Exam traps
 
 - Answering the Unseen Passage as a comprehension exercise, without

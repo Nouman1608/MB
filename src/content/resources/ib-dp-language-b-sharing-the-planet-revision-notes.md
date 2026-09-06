@@ -82,6 +82,44 @@ language more than some of the other four themes, make sure your target-language
 expressing and justifying a position, and for tracing cause and consequence, is genuinely fluent, not
 just recognised passively when reading.
 
+## Building a topic-specific glossary, not a generic word list
+
+A more effective way to revise this theme's vocabulary than a flat
+alphabetical list is to build a small glossary **per recommended
+topic**, since exam materials rarely mix vocabulary from unrelated
+topics within a single unseen extract. For example, an extract on
+urban and rural environments is far more likely to need vocabulary
+for change over time and comparison than vocabulary for peace and
+conflict negotiation. Organising revision this way also mirrors how
+the theme itself is structured -- seven distinct topics under one
+umbrella -- rather than treating "Sharing the planet vocabulary" as
+one undifferentiated pool.
+
+## Worked example: preparing an opinion paragraph
+
+A Paper 1 prompt on this theme might ask you to argue a position on,
+say, whether individuals or governments bear more responsibility for
+environmental change. A well-prepared response follows a repeatable
+structure regardless of the target language:
+
+```
+State the position:     A clear opening statement of the view taken.
+Justify with a reason:  A specific, developed reason supporting that
+                         position, not a vague generalisation.
+Acknowledge the other
+side:                   A brief, genuine acknowledgement of the
+                         counter-argument, which strengthens rather
+                         than weakens the response.
+Conclude:                A closing sentence that restates the
+                         position in light of the counter-argument
+                         just addressed.
+```
+
+Practising this exact four-step shape in the target language, with
+Sharing the planet content, transfers directly to Paper 1 prompts on
+any of this theme's seven topics, since the underlying argumentative
+structure does not change even though the vocabulary does.
+
 ## Self-test
 
 1. Name the seven recommended topics within the Sharing the planet theme.

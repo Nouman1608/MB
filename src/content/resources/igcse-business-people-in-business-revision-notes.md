@@ -122,6 +122,48 @@ justify with scenario detail, acknowledge a limitation — is the
 reliable way to score full marks on "recommend and justify" questions
 across this entire topic, not just leadership style.
 
+## Herzberg's motivators vs hygiene factors — a frequent mix-up
+
+Herzberg's theory is tested specifically enough that a general
+awareness of "motivators and hygiene factors" is not sufficient on
+its own — questions expect you to classify a **named** factor
+correctly:
+
+| Hygiene factor (prevents dissatisfaction, doesn't motivate) | Motivator (creates genuine job satisfaction) |
+|---|---|
+| Pay | Achievement/recognition |
+| Working conditions | Responsibility |
+| Company policy | Promotion/advancement |
+| Job security | The work itself (interest, challenge) |
+
+The key implication examiners reward: **improving a hygiene factor
+alone (e.g. raising pay) removes a source of dissatisfaction but does
+not, by itself, create lasting motivation** — that requires
+addressing the motivator column as well, which is why a business
+that only ever raises pay may still see low motivation persist.
+
+## Worked example: applying Herzberg to a scenario
+
+A call centre has recently increased staff pay but is still
+experiencing low morale and high staff turnover.
+
+```
+Diagnosis:      Pay is a hygiene factor -- raising it can remove a
+                 specific source of dissatisfaction, but on its own
+                 it does not supply the motivators (achievement,
+                 recognition, interesting work) needed for genuine,
+                 lasting motivation.
+Recommendation:  Alongside the pay rise, introduce motivators such as
+                 a recognition scheme for top performers, or job
+                 rotation to make repetitive call-handling tasks more
+                 varied and engaging.
+```
+
+This same diagnosis-then-recommendation structure, grounded in the
+hygiene/motivator distinction, is the reasoning shape "explain why
+morale remains low despite a pay rise" style questions consistently
+reward.
+
 ## Exam traps
 
 - Naming Maslow, Taylor or Herzberg without being able to use the

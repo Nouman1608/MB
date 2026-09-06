@@ -120,6 +120,22 @@ modest for fieldwork data.
 
 Naming the property **and** linking it to the scenario is what earns the marks; naming the technology alone does not.
 
+## Comparing computer types
+
+| Type | Typical strength |
+|---|---|
+| Desktop | Most powerful and upgradeable per unit cost, but not portable |
+| Laptop | Portable with a built-in screen/keyboard, moderate power |
+| Tablet | Very portable, touch-based, longer battery life, but limited processing power for heavy tasks |
+| Smartphone | Most portable, always with the user, but smallest screen and least processing power |
+| Embedded system | Built into another device for one fixed task, invisible to the user as a "computer" |
+
+An exam question asking you to "recommend a suitable device" for a
+described scenario is testing whether you can match these strengths
+to the scenario's specific requirements (portability, processing
+power, screen size, battery life) rather than simply naming the most
+expensive or most modern option.
+
 ## Common mistakes
 
 Saying ROM stores "the operating system" — it holds the boot instructions that start loading it. Describing RAM as permanent storage. Confusing system software with application software. Listing interface types without advantages and disadvantages. Recommending a storage medium without justifying it against the specific scenario.

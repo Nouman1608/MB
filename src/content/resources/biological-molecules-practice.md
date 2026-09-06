@@ -60,6 +60,11 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 **(a)** Describe the test and the positive result that would show whether starch is present. **[2]**
 **(b)** Describe the test and the positive result that would show whether protein is present. **[2]**
 
+**9.** A student compares two food samples, X and Y. Sample X gives a positive Benedict's test result without any prior treatment. Sample Y only gives a positive Benedict's test result after first being boiled with dilute hydrochloric acid and then neutralised.
+
+**(a)** State what type of sugar is present in sample X. **[1]**
+**(b)** Explain what the treatment applied to sample Y suggests about the sugar it contains. **[3]**
+
 ---
 
 ## Answers
@@ -88,6 +93,9 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 **8. (a)** Add a few drops of **iodine solution** directly to the sample at room temperature [1]; a colour change from orange-brown to **blue-black** shows starch is present, and no colour change shows it is absent [1].
 **(b)** Add **biuret reagent** (or sodium hydroxide solution followed by a few drops of copper sulfate solution) at room temperature, without heating [1]; a colour change from blue to **purple/lilac** shows protein is present, and no colour change shows it is absent [1].
 
+**9. (a)** A **reducing sugar** (e.g. glucose) [1].
+**(b)** Sample Y contains a **non-reducing sugar** (e.g. sucrose) [1]; boiling with dilute hydrochloric acid **hydrolyses** the non-reducing sugar into its constituent reducing sugars [1], and neutralising the acid is necessary before adding Benedict's solution, since the test does not give a reliable result in acidic conditions [1].
+
 ---
 
 ## Where marks are usually lost
@@ -98,6 +106,7 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 - Giving only the solvent role of water.
 - Forgetting phosphorus alongside nitrogen when naming the elements unique to DNA compared with a carbohydrate.
 - Naming DNA's monomer as "a base" rather than a full **nucleotide** (which includes a sugar, a phosphate group and a base).
+- Forgetting to hydrolyse (boil with dilute HCl, then neutralise) before testing a suspected non-reducing sugar with Benedict's solution.
 
 ## The four food tests, side by side
 
