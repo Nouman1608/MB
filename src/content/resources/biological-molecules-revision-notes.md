@@ -79,6 +79,27 @@ See the [Biological Molecules study guide](/resources/biological-molecules/) for
 - Forgetting biuret can be a single ready-made solution **or** sodium hydroxide followed by copper sulfate — either is creditable.
 - Assuming every food test needs heating — only Benedict's does; iodine, biuret and the emulsion test are all room-temperature tests.
 
+## Worked example: testing for a non-reducing sugar
+
+An unknown solution gives a negative Benedict's test result at first,
+but the question asks whether it might still contain sugar.
+
+```
+Step 1: Boil a fresh sample with dilute hydrochloric acid, then
+        neutralise with an alkali (e.g. sodium hydrogencarbonate).
+Step 2: Retest with Benedict's solution, heating in a water bath as
+        normal.
+If this second test now turns brick-red, the original sample
+contained a non-reducing sugar (e.g. sucrose), which the acid
+hydrolysed into reducing sugars the standard Benedict's test can
+detect.
+```
+
+A negative result on the first Benedict's test alone is not enough to
+conclude "no sugar present" — it only rules out a **reducing** sugar,
+which is why this follow-up hydrolysis step is worth remembering as
+part of the full food-test toolkit.
+
 ## Self-test
 
 1. Which element distinguishes protein from carbohydrate?

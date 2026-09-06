@@ -150,6 +150,36 @@ helps HL students anticipate which parts of each theme carry the extra
 conceptual weight, rather than assuming HL content is simply "more of
 the same" SL material at a faster pace.
 
+## Data-based and practical-skills assessment
+
+DP Physics's data-based paper specifically tests the ability to
+interpret graphs, tables and experimental data the student has not
+seen before -- including identifying trends, estimating uncertainty
+from given data, and evaluating the validity of a conclusion drawn
+from it. This is distinct from simply recalling content from the five
+themes, and it draws directly on the skills developed through the
+experimental programme rather than on theme-specific factual recall.
+Because this paper rewards a transferable skill rather than
+theme-specific knowledge, practising unfamiliar data sets -- not just
+past-paper questions from a single theme -- is a more efficient use of
+revision time close to the exam than re-reading content that is
+already secure.
+
+## Command terms across the five themes
+
+As with other DP sciences, Physics uses a hierarchy of command terms
+that scales with the demand of a question: **state** or **define**
+requires a precise recalled fact; **describe** requires an accurate
+account of a pattern or process without explanation; **explain**
+requires a reasoned account of why something happens, often supported
+by a named physical law or principle; and **evaluate** or **discuss**
+requires weighing the strength of a model, method or conclusion,
+including its limitations. Because Physics content is unusually
+formula-heavy, a common error is treating "explain" as though it only
+requires stating and applying a formula -- full marks typically also
+require stating the physical reasoning the formula represents, not
+just the calculation itself.
+
 ## Source
 
 International Baccalaureate Organization, Physics guide (Diploma

@@ -138,6 +138,37 @@ locations, named products, specific employment or investment figures
 -- in enough depth to answer any of those three subtopics' questions
 convincingly.
 
+## Worked example: linking industry to an environmental risk
+
+A question asks you to explain how industrial development can lead to
+an environmental risk covered in 3.7, using your named case study.
+
+```
+Process (3.3):     A named industrial zone processes raw materials,
+                    generating waste water and airborne emissions as
+                    by-products of production.
+Environmental
+risk (3.7):         If untreated, the waste water discharged into a
+                    nearby river causes water pollution, harming
+                    aquatic life and reducing water quality for
+                    downstream users; airborne emissions contribute
+                    to air pollution and, at a larger scale, to
+                    enhanced global warming.
+Why this
+matters for
+revision:            This is exactly the "link back to an earlier
+                    process" structure 3.7 questions reward -- naming
+                    the pollution type alone, without tracing it back
+                    to the industrial process that caused it, would
+                    only partially answer the question.
+```
+
+Practising this same link-back structure with your own named case
+study for food production (e.g. overuse of fertiliser causing water
+pollution) or energy (e.g. fossil fuel extraction causing land
+degradation) prepares you for whichever specific pairing a 3.7
+question happens to draw on.
+
 ## Self-test
 
 1. Which subtopics are singled out for evaluation rather than
