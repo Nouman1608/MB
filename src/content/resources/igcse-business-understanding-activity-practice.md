@@ -24,9 +24,16 @@ featured: false
 
 Related: [Understanding Business Activity revision notes](/resources/igcse-business-understanding-activity-revision-notes/)
 
+**A note on this syllabus's validity.** 0450 last examines in 2026.
+Cambridge replaces it with 0264 ("Cambridge IGCSE Business") from 2027
+onward, which changes the assessment-objective weightings from
+40/20/25/15 to 35/30/22/13, reduces each Paper 1 question from five
+parts to four, and renumbers every sub-topic. Always check which
+syllabus code your own examination series uses.
+
 ---
 
-## Section A
+## Part One — Short-answer questions
 
 **1.** Define added value, and state two ways a business could increase it. **[3]**
 
@@ -36,7 +43,7 @@ Related: [Understanding Business Activity revision notes](/resources/igcse-busin
 
 ---
 
-## Section B
+## Part Two — Structured questions
 
 **4.** Amina runs a bakery as a sole trader. She is considering forming a private limited company.
 
@@ -52,15 +59,15 @@ Related: [Understanding Business Activity revision notes](/resources/igcse-busin
 
 **(b)** Explain **one** conflict between two of these stakeholder groups. **[3]**
 
-**(c)** Recommend, with justification, whose interests the business should prioritise. **[3]**
+**(c)** Consider whose interests the business should prioritise. Justify your answer. **[3]**
 
 **6.** A business measured by employee numbers appears small, but its capital employed is very large.
 
-**(a)** Suggest what type of business this might be. **[1]**
+**(a)** Identify what type of business this might be. **[1]**
 
 **(b)** Explain why using employee numbers alone can be misleading. **[3]**
 
-**7.** Distinguish between a need and a want, and explain what is meant by opportunity cost. **[3]**
+**7.** Explain the difference between a need and a want, and explain what is meant by opportunity cost. **[3]**
 
 **8.** State the three economic sectors of business activity, and give one example of a business in each. **[3]**
 
@@ -77,7 +84,7 @@ Related: [Understanding Business Activity revision notes](/resources/igcse-busin
 
 **2.** **Unlimited liability** means the owner's **personal assets can be taken to pay business debts** [1]; **limited liability** means the owner can lose **only the amount invested** [1].
 
-**3.** Any three: **number of employees** [1]; **capital employed** [1]; **value of output** or revenue [1]; **market share**.
+**3.** Any three: **number of employees** [1]; **capital employed** [1]; **value of output** or revenue [1]; **market share** [1].
 
 **4. (a)** Any two: she keeps **all the profit** [1]; she has **full control** of decisions; setting up is **quick and cheap**; her accounts stay **private** [1].
 
@@ -113,7 +120,7 @@ Related: [Understanding Business Activity revision notes](/resources/igcse-busin
 - Confusing added value with profit.
 - Saying limited liability means the business has limited debts.
 - Listing stakeholders without explaining the conflict between them.
-- Giving a recommendation with no justification.
+- Giving a conclusion with no justification.
 - Using a single measure of business size without acknowledging its limits.
 - Confusing needs with wants, or defining opportunity cost as simply "the cost of something".
 - Placing a business in the wrong economic sector, e.g. calling a bakery "primary" rather than "secondary".

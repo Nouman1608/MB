@@ -31,8 +31,6 @@ belong to rather than as a single Paper 1/3 set.
 
 ---
 
-## Section A
-
 **1.** Give the relative mass and charge of a proton, a neutron and an electron. **[3]**
 
 **2.** Explain why the relative atomic mass of chlorine is 35.5 and not a whole number. **[2]**
@@ -40,8 +38,6 @@ belong to rather than as a single Paper 1/3 set.
 **3.** State why elements in the same group have similar chemical properties. **[2]**
 
 ---
-
-## Section B
 
 **4.** In the alpha-scattering experiment, alpha particles were fired at a thin gold foil.
 

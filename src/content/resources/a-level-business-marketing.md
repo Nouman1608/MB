@@ -25,8 +25,9 @@ Management](/resources/a-level-business-human-resource-management/).
 Cambridge frames the topic around one central question: how does a
 business find out what potential customers need, and then provide for
 those needs? A Level candidates return to marketing again at A Level
-in Topic 9 (Strategic marketing), which builds on this AS Level
-content rather than repeating it.
+in Topic 8 (Marketing), covering marketing analysis and marketing
+strategy, which builds on this AS Level content rather than repeating
+it.
 
 ## 3.1 The nature of marketing
 

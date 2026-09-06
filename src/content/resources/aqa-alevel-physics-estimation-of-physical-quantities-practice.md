@@ -53,7 +53,7 @@ Related: [Estimation of Physical Quantities study guide](/resources/aqa-alevel-p
 
 ## Answers
 
-**1.** Two quantities are of the same order of magnitude if they are **within a factor of about 3 of the same power of ten** [1] — that is, the power of ten closest to each quantity's value is the **same power** [1].
+**1.** Two quantities are of the same order of magnitude if they are **within a factor of about 3 of the same power of ten** [1] — that is, judging closeness by ratio rather than by numerical difference, the power of ten closest to each quantity's value is the **same power** [1].
 
 **2.** **10⁶** [1].
 

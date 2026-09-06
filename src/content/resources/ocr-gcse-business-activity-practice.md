@@ -7,7 +7,7 @@ topic: "Business activity, marketing and people"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J204"]
-syllabusSeries: "For first teaching from 2017"
+syllabusSeries: "For first assessment 2019"
 order: 1
 syllabusTopics:
   - qualification: "gcse"
@@ -26,13 +26,9 @@ Related: [Business Activity, Marketing and People revision notes](/resources/ocr
 
 ---
 
-## Section A
-
 **1.** Define entrepreneur and state **three** characteristics of a successful one. **[4]**
 
 **2.** Name the four elements of the marketing mix. **[2]**
-
-## Section B
 
 **3.** Distinguish between primary and secondary market research.
 
@@ -41,11 +37,9 @@ Related: [Business Activity, Marketing and People revision notes](/resources/ocr
 
 **4.** Explain **three** pricing strategies a new business could use, giving a suitable situation for each. **[6]**
 
-**5.** Explain the stages of the product life cycle and state one extension strategy. **[6]**
+**5.** Explain the stages of the product life cycle and state one extension strategy. **[5]**
 
 **6.** Evaluate whether financial incentives are the most effective way to motivate staff in a small restaurant. **[9]**
-
-## Section C
 
 **7.** Define **added value** and explain **one** way a business can increase it without lowering price. **[3]**
 
@@ -72,11 +66,12 @@ Related: [Business Activity, Marketing and People revision notes](/resources/ocr
 
 **4.** Any three, 2 marks each: **Penetration pricing** — set a low price to gain market share quickly; suitable when **entering a competitive market with many substitutes** [1] [1]. **Price skimming** — set a high price initially; suitable for a **technologically innovative product with few competitors** [1] [1]. **Competitive pricing** — match rivals' prices; suitable in a **market where products are very similar** [1] [1]. **Cost-plus pricing** — add a fixed margin to unit cost; suitable when the business needs to **guarantee each sale covers its costs** [1] [1].
 
-**5. Development** — costs are incurred but there are no sales [1]. **Introduction** — sales are low and promotion spending is high [1]. **Growth** — sales rise rapidly and the product may become profitable [1]. **Maturity** — sales peak and level off; competition is strongest [1]. **Decline** — sales fall as tastes change or better products appear [1]. Extension strategy: **new packaging, a new target market, a price reduction or a modified version of the product** [1].
+**5. Introduction** — sales are low and promotion spending is high [1]. **Growth** — sales rise rapidly and the product may become profitable [1]. **Maturity** — sales peak and level off; competition is strongest [1]. **Decline** — sales fall as tastes change or better products appear [1]. Extension strategy: **new packaging, a new target market, a price reduction or a modified version of the product** [1].
 
 **6.** **For financial incentives:** staff in a restaurant are often on **low pay**, so a bonus or higher wage directly addresses their most pressing need [1]; **piece-rate or commission on upselling** gives an immediate, measurable link between effort and reward [1]; pay is also a key factor in **retention**, which reduces the cost of recruiting and training in a high-turnover industry [1].
 **Against:** Herzberg argued pay is a **hygiene factor** — it removes dissatisfaction but does not create lasting motivation [1]; **non-financial methods such as praise, training, job rotation and responsibility** can be more powerful and cost nothing [1]; financial incentives can also **encourage the wrong behaviour**, such as rushing service to increase covers, damaging quality [1].
 **Judgement:** in a small restaurant with **limited funds**, non-financial motivators are likely to be **more sustainable and affordable** [1]. However, pay must first be **at least fair and competitive**, or no amount of praise will retain staff [1] — so the best approach combines a fair basic wage with recognition and development [1].
+*(OCR marks this nine-mark question by level of response against a holistic mark scheme, not by awarding a separate mark for each point; the bracketed marks above indicate the credit-worthy content expected, not a point-by-point tally.)*
 
 **7.** Added value is the **difference between the cost of inputs and the selling price** [1]. It can be increased through **brand, quality, convenience, design or service**, rather than through price alone — for example, better packaging or faster delivery lets a business charge more without changing its ingredients [2].
 
@@ -94,5 +89,5 @@ Related: [Business Activity, Marketing and People revision notes](/resources/ocr
 
 - Confusing primary with secondary research.
 - Naming a pricing strategy without a suitable context.
-- Omitting the development stage of the product life cycle.
+- Omitting a stage of the product life cycle.
 - Treating "evaluate" as "describe" and not weighing both sides.

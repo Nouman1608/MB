@@ -7,7 +7,7 @@ topic: "People in business"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["7115"]
-syllabusSeries: "2026"
+syllabusSeries: "For examination in 2026"
 order: 2
 syllabusTopics:
   - qualification: "o-level"
@@ -32,9 +32,12 @@ Study), both worth 50% of the final grade, since Business Studies at
 Note for candidates comparing notes with friends on Cambridge IGCSE
 Business Studies (0450): Cambridge explicitly builds this O Level on
 shared content with the IGCSE syllabus, so the underlying human
-resources theory is the same course either way -- what differs is the
-qualification code, the paper structure candidates sit, and the
-specific past papers available for practice.
+resources theory is the same course either way, and the assessment
+structures are identical -- the same two papers, timings, weightings,
+question descriptions and assessment-objective weightings. What
+differs is the qualification code, the grade range (A* to G for the
+IGCSE against A* to E for the O Level), and the series and zone in
+which each qualification is available.
 
 ## 2.1 Motivating employees
 
@@ -141,8 +144,10 @@ which specific business circumstance makes it the better choice, and
 which makes an alternative better instead. Keep the theorists (Maslow,
 Taylor, Herzberg) tied to concrete workplace examples rather than
 abstract descriptions, since application (AO2) and analysis (AO3)
-carry more combined weighting across both papers than pure knowledge
-(AO1) alone.
+carry more combined weighting than pure knowledge (AO1) alone across
+the qualification as a whole, and especially on the Paper 2 case study
+-- though on Paper 1 itself, knowledge still carries the larger single
+share.
 
 ## Official syllabus
 

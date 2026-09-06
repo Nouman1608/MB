@@ -40,12 +40,17 @@ strategic decision-making.
 
 - 3.1.1 Understanding the nature and purpose of business — why
 businesses exist and what they aim to achieve
-- 3.1.2 Understanding different business forms — the range of legal
-and organisational structures a business can take
+- 3.1.2 Understanding different business forms — sole traders, private
+limited and public limited companies, private sector and public sector
+organisations, non-profit organisations and social enterprises;
+unlimited and limited liability; ordinary share capital, market
+capitalisation and dividends; the role of shareholders and why they
+invest; influences on share price and the significance of share price
+changes; and the effects of ownership on mission and objectives
 - 3.1.3 Understanding that businesses operate within an external
-environment — how factors outside a business's direct control,
-including economic conditions and costs and demand, affect its
-decisions
+environment — how the external environment can affect costs and
+demand, through competition, market conditions, incomes, interest
+rates, demographic factors, and environmental issues and fair trade
 
 ## How to approach it
 
@@ -91,10 +96,14 @@ Objectives should be **SMART**: specific, measurable, achievable, realistic and 
 | Partnership | Usually unlimited | Shared capital and expertise, shared decisions and disputes |
 | Private limited (Ltd) | Limited | Shares sold privately, more capital, must publish accounts |
 | Public limited (plc) | Limited | Shares traded publicly, large capital, risk of takeover, dilution of control |
+| Non-profit organisation | Varies | Exists to pursue a social objective rather than a financial return; relies on donations, grants or membership fees rather than distributing profit to owners |
+| Social enterprise | Varies | Trades commercially like a private-sector business, but reinvests most or all of its profit into its social or environmental purpose rather than paying it out to owners |
 
-These four forms all sit within the **private sector**: businesses owned by individuals or shareholders and run primarily to make a profit. The **public sector**, by contrast, is owned and funded by the state -- schools, the NHS, local councils -- and exists to provide a service rather than to generate a return for owners, so it is judged on service delivery and value for money rather than on profit. A business form question that only compares sole trader, partnership, Ltd and plc is implicitly restricted to the private sector; questions that ask about provision more broadly may expect this public/private distinction as well.
+The first four of these forms sit within the **private sector**: businesses owned by individuals or shareholders and run primarily to make a profit. The **public sector**, by contrast, is owned and funded by the state -- schools, the NHS, local councils -- and exists to provide a service rather than to generate a return for owners, so it is judged on service delivery and value for money rather than on profit. Non-profit organisations and social enterprises sit outside this simple private/public split: both are typically privately run, but neither exists primarily to generate a financial return for owners. A business form question that only compares sole trader, partnership, Ltd and plc is implicitly restricted to conventional private-sector, profit-seeking forms; questions that ask about provision more broadly may expect the public sector, non-profit organisations and social enterprises to be considered too.
 
 **Limited liability** is the pivotal concept: shareholders risk only what they invested, which is what makes external investment attractive.
+
+For companies, the specification also names **ordinary share capital** (the finance a company raises by selling shares), **market capitalisation** (the total value of a company's shares -- share price multiplied by the number of shares in issue), and **dividends** (the share of profit distributed to shareholders rather than retained). The **role of shareholders and why they invest** comes down chiefly to dividend income and capital growth in the share price, though some also invest for voting control. **Influences on share price** include trading performance, dividend policy, market sentiment and the wider economy; **the significance of share price changes** is that a rising price makes it easier and cheaper to raise further capital and deters takeover, while a falling price does the opposite and can threaten a board's job security. Ownership also shapes mission and objectives: a plc answerable to dispersed external shareholders tends to face more pressure toward short-term profit and dividend performance than a sole trader or a social enterprise, which can set a social or environmental mission ahead of financial return.
 
 ## Stakeholders versus shareholders
 
@@ -102,7 +111,7 @@ Shareholders own the business; stakeholders are anyone affected by it — employ
 
 ## The external environment
 
-Businesses operate within conditions they do not control, usually organised as **PESTLE**: political, economic, social, technological, legal and environmental. Economic factors — interest rates, exchange rates, inflation, the business cycle — appear most often, because their effects are calculable.
+Businesses operate within conditions they do not control. The specification names six factors that affect costs and demand -- competition, market conditions, incomes, interest rates, demographic factors, and environmental issues and fair trade -- and these, not any acronym, are what a question will actually credit. Many students find it convenient to sort factors using **PESTLE** (political, economic, social, technological, legal, environmental), but PESTLE is a teaching device, not part of this specification, so use it only as an optional organiser and always anchor an answer to the named factor it relates to. Economic factors -- interest rates, exchange rates, inflation, the business cycle -- appear most often, because their effects are calculable.
 
 ## Worked example
 
@@ -123,7 +132,7 @@ Marks come from a judgement that depends on context — the size of expansion pl
 
 ## Common mistakes
 
-Confusing added value with profit — added value ignores overheads. Saying limited liability means the business has limited debts, rather than that the shareholder's loss is capped. Treating stakeholders and shareholders as synonyms. Listing PESTLE factors without applying them to the case. Asserting profit maximisation is always the objective, which ignores survival and growth stages.
+Confusing added value with profit — added value ignores overheads. Saying limited liability means the business has limited debts, rather than that the shareholder's loss is capped. Treating stakeholders and shareholders as synonyms. Listing external factors, by PESTLE or otherwise, without applying them to the case. Asserting profit maximisation is always the objective, which ignores survival and growth stages.
 
 ## Quick revision checklist
 
@@ -131,4 +140,4 @@ Confusing added value with profit — added value ignores overheads. Saying limi
 - Explain the hierarchy from mission to functional objectives and write SMART objectives.
 - Compare the four forms of ownership, focusing on liability and access to capital.
 - Distinguish stakeholder from shareholder approaches and argue both sides.
-- Apply PESTLE to a given business context rather than listing it.
+- Apply the six named external factors to a given business context rather than listing them; use PESTLE, if at all, only as an optional way to organise them.

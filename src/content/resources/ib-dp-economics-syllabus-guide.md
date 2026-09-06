@@ -6,7 +6,7 @@ level: ["ib"]
 topic: "Full syllabus (Units 1-4)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Economics"]
+syllabusCodes: []
 syllabusSeries: "First assessment 2022"
 order: 1
 syllabusTopics:
@@ -60,9 +60,12 @@ split across the four units below plus an internal assessment component
 - **2.11 Market failure -- market power** (HL only)
 - **2.12 The market's inability to achieve equity** (HL only)
 
-This is the largest unit in the syllabus, and the HL-only sub-topics
-(2.4, 2.10, 2.11, 2.12, plus extensions inside 2.1/2.2/2.5/2.6/2.7/2.8)
-account for most of the extra 35 hours HL students spend beyond SL.
+This is not the largest unit in the syllabus -- at Standard Level,
+Unit 4 (the global economy, 45 hours) is larger, and at Higher Level,
+Unit 3 (macroeconomics, 75 hours) is larger. The HL-only sub-topics
+here (2.4, 2.10, 2.11, 2.12, plus extensions inside
+2.1/2.2/2.5/2.6/2.7/2.8) account for most of the extra 35 hours HL
+students spend on this unit beyond SL.
 
 ## Unit 3 -- Macroeconomics (40 hours SL / 75 hours HL)
 
@@ -105,9 +108,13 @@ good.
 
 ## Assessment
 
-DP Economics is assessed through three external written papers plus
-an internally-assessed portfolio of three commentaries (20 hours of
-the total teaching time at both SL and HL). The external papers test
+DP Economics is assessed through external written papers plus an
+internally-assessed portfolio of three commentaries (20 hours of the
+total teaching time at both SL and HL). Standard Level candidates sit
+**two** external papers (Paper 1 and Paper 2, three hours in total,
+worth 70% of the SL grade); Higher Level candidates sit a **third**
+paper, Paper 3 (a policy paper), taking external assessment to four
+hours forty-five minutes and 80% of the HL grade. The external papers test
 definitions, diagram construction, short-answer application and
 extended essay-style evaluation -- Economics is graded heavily on
 evaluation (weighing up arguments, not just describing them), which is

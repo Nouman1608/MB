@@ -81,7 +81,7 @@ Related: [Stoichiometry revision notes](/resources/as-chem-stoichiometry-revisio
 
 **8.** Ethanol can be made by fermenting glucose: `C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂` (M_r: glucose = 180, ethanol = 46.0, CO₂ = 44.0)
 
-**(a)** Calculate the atom economy of this reaction with respect to ethanol. **[3]**
+**(a)** *(Background — "atom economy" is not a 9701 syllabus term, though the chemistry is useful context.)* Calculate the atom economy of this reaction with respect to ethanol. **[3]**
 
 **(b)** 45.0 g of glucose is fermented and 18.4 g of ethanol is obtained. Calculate the percentage yield. **[4]**
 
@@ -119,7 +119,7 @@ m = 0.200 × 44.0 = **8.80 g** [1].
 **7. (a)** V = 250 ÷ 10⁶ = **2.50 × 10⁻⁴ m³** [1]; p = 150 × 1000 = **150,000 Pa** [1]; T = 25 + 273 = **298 K** [1].
 **(b)** n = pV ÷ RT = (150,000 × 2.50 × 10⁻⁴) ÷ (8.31 × 298) [1] = 37.5 ÷ 2476 = **0.0151 mol** [1].
 
-**8. (a)** M_r of all products = (2 × 46.0) + (2 × 44.0) = 92.0 + 88.0 = 180 [1]. Atom economy = (92.0 ÷ 180) × 100 [1] = **51.1%** [1].
+**8. (a)** M_r of all reactants = M_r(glucose) = 180 [1]. Atom economy = (M_r of desired product ÷ M_r of all reactants) × 100 = (92.0 ÷ 180) × 100 [1] = **51.1%** [1].
 **(b)** n(glucose) = 45.0 ÷ 180 = 0.250 mol [1]; theoretical n(ethanol) = 2 × 0.250 = 0.500 mol, so theoretical mass = 0.500 × 46.0 = 23.0 g [1]. Percentage yield = (18.4 ÷ 23.0) × 100 [1] = **80.0%** [1].
 
 ---

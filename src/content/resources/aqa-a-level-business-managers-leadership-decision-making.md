@@ -61,9 +61,8 @@ consultation
 
 ## How to approach it
 
-The 2023 update to this specification replaced an earlier "what
-managers do" framing with an explicit focus on **the distinction
-between management and leadership** (3.2.1) — treat these as genuinely
+This sub-topic (3.2.1) puts an explicit focus on **the distinction
+between management and leadership** — treat these as genuinely
 different roles rather than synonyms: management is broadly associated
 with planning, organising and controlling existing operations, while
 leadership is associated with setting direction, inspiring people and
@@ -82,9 +81,10 @@ availability of data, while intuitive decision making draws on
 experience and can respond faster where data is limited or a decision
 is urgent. A decision tree calculation question is a common,
 higher-mark task within this sub-topic, so practising the mechanics —
-assigning probabilities and payoffs, then calculating expected values
-along each branch — is worth dedicated practice time, not just
-conceptual revision.
+assigning probabilities and payoffs, calculating expected values along
+each branch, and then subtracting the cost of each option to find its
+**net gain** — is worth dedicated practice time, not just conceptual
+revision.
 
 Stakeholder mapping (3.2.3) is most useful applied to a real or
 plausible scenario: plot named stakeholders by their power (ability to
@@ -150,7 +150,8 @@ them as synonyms for "downside."
 - Match each of the four leadership styles to a business context where
 it is most and least effective.
 - Practise a decision-tree calculation: assigning probabilities and
-payoffs, then calculating expected value.
+payoffs, calculating expected value, and then net gain (expected value
+minus the cost of the option).
 - Compare scientific and intuitive decision making by strengths and
 weaknesses, not by which is "better."
 - Apply stakeholder mapping (power and interest) to a real or plausible

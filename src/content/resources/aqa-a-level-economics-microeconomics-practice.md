@@ -7,7 +7,7 @@ topic: "Individuals, firms, markets and market failure"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7136"]
-syllabusSeries: "For first teaching from September 2015"
+syllabusSeries: "Version 1.3, 29 June 2022"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
@@ -21,6 +21,11 @@ featured: false
 > standard of the examination. They are **not** reproduced past-paper questions —
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
+>
+> These short-answer questions are designed for topic review and do not reproduce the
+> full 40-mark data-response and essay sections of Paper 1 and Paper 2, or the
+> multiple-choice and case-study format of Paper 3 — practise those longer formats
+> using full past papers.
 
 Related: [Individuals, Firms, Markets and Market Failure revision notes](/resources/aqa-a-level-economics-microeconomics-revision-notes/)
 
@@ -41,8 +46,6 @@ Related: [Individuals, Firms, Markets and Market Failure revision notes](/resour
 **5.** Explain **three** characteristics of an oligopoly and explain why firms in an oligopoly may avoid price competition. **[8]**
 
 **6.** Evaluate the view that monopolies are always against the consumer interest. **[12]**
-
-## Section C
 
 **7.** Explain what is meant by "bounded rationality" in behavioural economics, and explain how this challenges the traditional assumption of a rational consumer. **[4]**
 
@@ -66,10 +69,10 @@ Related: [Individuals, Firms, Markets and Market Failure revision notes](/resour
 **Long-run profit:** in perfect competition **freedom of entry competes supernormal profit away**, so only normal profit is earned in the long run [1] [1]; in monopoly **barriers to entry allow supernormal profit to persist** indefinitely [1] [1].
 
 **5.** Any three characteristics, 2 marks each: the market is **dominated by a few large firms** with a high concentration ratio [1] [1]; there are **significant barriers to entry** [1] [1]; firms are **interdependent** — each must consider rivals' likely reactions before acting [1] [1]; products are often **differentiated through branding** [1] [1].
-Firms avoid price competition because **a price cut is likely to be matched by rivals**, so the firm gains little market share but all firms earn less revenue — the kinked demand curve suggests demand is **elastic above the current price and inelastic below it** [1]. A **price war can be mutually destructive** [1], so firms compete instead through **advertising, branding, loyalty schemes and product innovation**, where the gains are harder for rivals to copy immediately [1].
+Firms avoid price competition because **a price cut is likely to be matched by rivals**, so the firm gains little market share but all firms earn less revenue, and a price war can be **mutually destructive** [1], so firms compete instead through **advertising, branding, loyalty schemes and product innovation**, where the gains are harder for rivals to copy immediately [1].
 
 **6. Arguments that monopoly harms consumers:** it restricts output and **charges a price above marginal cost**, reducing consumer surplus and creating a **deadweight welfare loss** [1] [1]; the absence of competitive pressure permits **X-inefficiency**, with costs higher than necessary [1]; monopolies may offer **less choice and lower quality**, and may use their power to **exclude potential entrants** [1].
-**Arguments that monopoly may benefit consumers:** **economies of scale** may make average costs so much lower that the monopoly price is **below the competitive industry price** [1]; **supernormal profit funds research and development**, which competitive firms earning only normal profit cannot afford — dynamic efficiency may outweigh static inefficiency [1] [1]; a **natural monopoly** avoids the wasteful duplication of infrastructure such as rail track or water pipes [1]; the prospect of monopoly profit is what **incentivises innovation** in the first place, which patents deliberately protect [1].
+**Arguments that monopoly may benefit consumers:** **economies of scale** may make average costs so much lower that the monopoly price is **below the competitive industry price** [1]; **supernormal profit funds research and development**, which competitive firms earning only normal profit cannot afford, so dynamic efficiency may outweigh static inefficiency [1]; a **natural monopoly** avoids the wasteful duplication of infrastructure such as rail track or water pipes [1]; the prospect of monopoly profit is what **incentivises innovation** in the first place, which patents deliberately protect [1].
 **Judgement:** it depends on **whether the monopoly is contestable, whether it is regulated, and whether it reinvests its profit** [1] [1]. A regulated natural monopoly delivering economies of scale and investment can serve consumers well; an unregulated monopoly protected by artificial barriers and content to take profit is likely to harm them [1] [1].
 
 **7.** **Bounded rationality** is the idea that consumers have **limited information, limited time and limited cognitive ability** to process choices, so they cannot make a fully optimal decision as traditional theory assumes [1] [1]. This challenges the traditional assumption because it implies consumers instead rely on **rules of thumb (heuristics)** and are influenced by **how choices are framed**, rather than rationally weighing every option to maximise utility [1] [1].

@@ -6,14 +6,14 @@ level: ["a-levels"]
 topic: "Managing business activities"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["YBS11"]
+syllabusCodes: ["WBS12"]
 syllabusSeries: "Issue 1, September 2017"
 stage: "AS"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
-description: "Condensed recall notes on raising finance, financial planning, break-even, profitability and liquidity ratios, and business failure for Edexcel International A Level Business (YBS11), Unit 2."
+description: "Condensed recall notes on raising finance, financial planning, break-even, profitability and liquidity ratios, business failure, resource management and external influences for Edexcel International A Level Business (WBS12), Unit 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -77,6 +77,24 @@ Ways to improve liquidity: better supplier credit terms, **factoring** (selling 
 - **Internal:** poor cash-flow management, overestimated sales, **overtrading** (growing faster than cash flow supports), poor inventory control, poor marketing, poor quality.
 - **External:** market conditions, competition, economic factors, exchange rates.
 
+## Resource management (2.3.4)
+
+**Production methods:** job (one-off, bespoke), batch (groups of identical items), flow (continuous, standardised), cell (self-contained teams making a complete unit). **Productivity** = output per unit of input per time period; **efficiency** = production at minimum average cost -- the two are related but distinct. **Labour-intensive** production relies more on workers; **capital-intensive** relies more on machinery.
+
+```
+Capacity utilisation = current output / maximum possible output x 100
+```
+
+**Under-utilisation** wastes fixed costs across fewer units, raising average cost; **over-utilisation** risks quality problems, breakdowns and staff burnout. Ways to improve it include increasing orders/subcontracting (under-utilisation) or investing in extra capacity/outsourcing (over-utilisation).
+
+**Inventory control:** buffer inventory guards against stock-outs; poor inventory control ties up cash or causes stock-outs; **just-in-time (JIT)** minimises stock held, reducing storage cost but raising dependence on reliable suppliers. **Quality:** quality control (inspecting output), quality assurance (building quality into the process), **Total Quality Management (TQM)** (quality is everyone's responsibility), and **continuous improvement (Kaizen)** (small, ongoing improvements).
+
+## External influences (2.3.5)
+
+- **Economic:** inflation, exchange rates (appreciation/depreciation), interest rates, taxation and government spending, the business cycle -- always trace the named factor through to a specific effect on costs, revenue or demand.
+- **Legislation:** consumer, employee and environmental protection; competition policy; health and safety; intellectual property rights (copyright, patents, trademarks).
+- **Competitive environment:** the number, size and behaviour of competitors, and ways a small business can compete (e.g. niche focus, superior service) against larger rivals.
+
 ## Worked example: current ratio and acid test ratio
 
 A business has current assets of $80,000 (including $30,000 of inventory) and current liabilities of $40,000.
@@ -103,6 +121,8 @@ Unit 1 (Marketing and People) covers how a business identifies and meets custome
 - Treating retained profit (internal) and share capital (external) as interchangeable.
 - Listing sources of finance without matching each to the scenario given.
 - Blending internal and external causes of failure into one list.
+- Describing a production method or quality approach without applying it to a specific scenario.
+- Listing PESTLE-style categories for external influences without tracing a named factor's effect.
 
 ## Quick self-test
 
@@ -111,13 +131,16 @@ Unit 1 (Marketing and People) covers how a business identifies and meets custome
 - Distinguish the current ratio from the acid test ratio.
 - Give two internal and two external causes of business failure.
 - Explain, in one sentence, why a profitable business can still fail.
+- Calculate capacity utilisation given current and maximum possible output.
+- Name the four production methods and one advantage of just-in-time inventory.
+- Give one economic and one legislative external influence, and explain how each could affect a named business.
 
 ## Related resources
 
 [Managing Business Activities study guide](/resources/a-level-edexcel-business-managing-business-activities/) |
 [Managing Business Activities practice questions](/resources/edexcel-a-level-business-managing-activities-practice/)
 
-## Official syllabus
+## Official specification
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level
 Business specification, Issue 1, September 2017, section 2.3 Unit

@@ -6,7 +6,7 @@ level: ["ib"]
 topic: "Unit 2 – Microeconomics (2.1–2.3)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Economics"]
+syllabusCodes: []
 syllabusSeries: "First assessment 2022"
 order: 2
 syllabusTopics:
@@ -52,13 +52,17 @@ expectations) causes the whole curve to shift
 supplied rises, ceteris paribus); a change in price causes a movement
 along the supply curve, while a change in a non-price determinant
 (costs of production, technology, number of firms, taxes/subsidies,
-expectations) causes a shift
+expectations, and the prices of related goods in joint or competitive
+supply) causes a shift
 - **2.3 Competitive market equilibrium** — equilibrium is where
 quantity demanded equals quantity supplied; a shortage (price below
 equilibrium) pushes price up, a surplus (price above equilibrium)
 pushes price down, and a competitive market self-corrects toward
 equilibrium absent intervention; the price mechanism performs three
-linked functions — signalling, incentive, and rationing
+linked functions — signalling, incentive, and rationing; consumer
+surplus, producer surplus and social surplus, and allocative
+efficiency at the competitive equilibrium (where marginal benefit
+equals marginal cost)
 
 ## How to approach it
 
@@ -108,6 +112,22 @@ Conclusion:   these three functions work together automatically in a
 Naming all three functions explicitly, rather than describing price
 changes only in general terms, is what a strong evaluative answer on
 the price mechanism does.
+
+## Consumer surplus, producer surplus and allocative efficiency
+
+Beyond the three functions above, the equilibrium diagram also shows how much value a competitive
+market creates. **Consumer surplus** is the difference between what consumers are willing and able
+to pay for each unit and what they actually pay -- graphically, the area below the demand curve and
+above the market price. **Producer surplus** is the difference between what producers actually
+receive and the minimum price they would have accepted -- the area above the supply curve and below
+the market price. **Social (or community) surplus** is the sum of the two, and it is at its maximum
+at the competitive equilibrium, where the demand and supply curves intersect. This is because, at
+that point, **marginal benefit equals marginal cost**: the value society places on the last unit
+consumed exactly equals the cost of producing it, so resources are allocated to their
+highest-valued use. Producing more or less than the equilibrium quantity destroys some of this
+total surplus -- this is what is meant by **allocative efficiency**, and it is the key link between
+the demand-and-supply diagram and later evaluative questions about whether a market outcome is
+efficient.
 
 ## Common mistakes
 

@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA A Level Economics: Measuring Macroeconomic Performance — Revision Notes"
+title: "OxfordAQA A Level Economics: Measurement of Macroeconomic Performance — Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]

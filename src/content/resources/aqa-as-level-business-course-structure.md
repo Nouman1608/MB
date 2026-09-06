@@ -88,18 +88,24 @@ times.
 
 ## How it's assessed
 
-AS Business is assessed by two exam papers, each worth 80 marks (50%
-of the qualification each), sat at the end of the course -- this is a
-linear qualification, so all assessment happens in one May/June series
-rather than being split across the two years. Paper 1 mixes shorter,
-more knowledge-focused questions with data-response material; Paper 2
-is built around a single case study, ending with an extended-response
-question that requires drawing together several sections of the
-specification into one sustained, evidence-based argument rather than
-answering them as isolated topics. That structure is worth planning
-revision around directly -- practising how sections connect (for
-example, how a marketing decision affects operational or financial
-performance) matters as much as knowing each section individually.
+AS Business is assessed by two exam papers, each lasting **1 hour 30
+minutes** and worth 80 marks (50% of the qualification each), sat at
+the end of the course -- this is a linear qualification, so all
+assessment happens in one May/June series rather than being split
+across the two years. Paper 1 has three compulsory sections: Section A
+opens with **10 multiple-choice questions worth 10 marks**, Section B
+carries short-answer questions worth around 20 marks, and Section C
+carries two data-response stimuli worth around 25 marks between them.
+Paper 2 is built around a single case study of around seven questions,
+ending with an extended-response question that requires drawing
+together several sections of the specification into one sustained,
+evidence-based argument rather than answering them as isolated topics.
+That structure is worth planning revision around directly --
+practising how sections connect (for example, how a marketing decision
+affects operational or financial performance) matters as much as
+knowing each section individually, and Paper 1's opening multiple-choice
+section rewards secure recall of definitions and figures that later
+sections assume you already know.
 
 ## Approaching the Paper 2 case study
 

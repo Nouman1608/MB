@@ -54,13 +54,13 @@ Related: [Enzymes revision notes](/resources/enzymes-revision-notes/)
 
 **6.** Give **two** uses of enzymes in industry and explain the benefit of each. **[4]**
 
-**7.** *(Beyond this syllabus — substrate concentration is not one of the enzymes outcomes in O Level 5090, which cover only enzyme action and the effects of temperature and pH.)* A student investigates the effect of substrate concentration on the rate of an enzyme-catalysed reaction, keeping enzyme concentration, temperature and pH constant.
+**7.** Enzyme X, from a bacterium living in a hot spring, has an optimum temperature of about 80 °C. Enzyme Y, a human digestive enzyme, has an optimum temperature of about 37 °C.
 
-**(a)** Describe the shape of the graph of rate against substrate concentration. **[2]**
+**(a)** Describe how the graphs of rate against temperature for enzyme X and enzyme Y would differ. **[2]**
 
-**(b)** Explain why the rate plateaus at high substrate concentration. **[2]**
+**(b)** Explain why enzyme Y would denature at 80 °C while enzyme X does not. **[2]**
 
-**(c)** Suggest **one** change to the reaction mixture that would raise the plateau to a higher rate. **[1]**
+**(c)** Suggest **one** industrial advantage of using an enzyme with a high optimum temperature, like enzyme X. **[1]**
 
 **8.** Trypsin has an optimum pH of about 8, unlike pepsin (pH 2) or amylase (pH 7).
 
@@ -88,9 +88,9 @@ Related: [Enzymes revision notes](/resources/enzymes-revision-notes/)
 
 **6.** Any two, each for 2 marks: **biological washing powders** contain proteases and lipases [1] that digest protein and fat stains at lower temperatures, saving energy [1]. **Lactase** is used to make lactose-free milk [1] for people who are lactose intolerant [1]. **Pectinase** is used in fruit juice production [1] to increase juice yield and clarity [1].
 
-**7. (a)** Rate **rises steeply at first**, then the increase **slows and levels off into a plateau** at high substrate concentration [1] [1].
-**(b)** At high substrate concentration **all the active sites are occupied** at any given moment [1], so the **enzyme concentration becomes the limiting factor** and extra substrate cannot be processed any faster [1].
-**(c)** **Increase the enzyme concentration** [1], which provides more active sites for the excess substrate to bind to.
+**7. (a)** Both graphs show the typical **rise then sharp fall** shape [1], but enzyme X's curve is **shifted to the right**, peaking at around 80 °C compared with enzyme Y's peak at around 37 °C [1].
+**(b)** Enzyme Y's bonds holding its tertiary structure together **break down at 80 °C**, changing the shape of its active site so the substrate can no longer bind [1]; enzyme X's structure is **more heat-stable**, so its active site keeps its shape at that temperature [1].
+**(c)** It can be used in industrial processes that run at **high temperature without needing costly cooling**, since it will not denature under those conditions [1].
 
 **8. (a)** The **small intestine** [1], because it is **alkaline** there (unlike the acidic stomach), matching trypsin's alkaline optimum pH [1].
 **(b)** Mix catalase with hydrogen peroxide and **collect the oxygen gas produced in a gas syringe** [1], **timing how much gas is collected in fixed time intervals** [1]; a **steeper** volume-against-time graph indicates a **faster reaction** [1].

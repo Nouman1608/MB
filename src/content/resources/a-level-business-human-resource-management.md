@@ -42,54 +42,95 @@ secure.
 **CAMBRIDGE AS & A LEVEL BUSINESS 9609 — TOPIC 2 HUMAN RESOURCE
 MANAGEMENT**
 
-- 2.1 Human resource management (HRM) — the role of HRM in recruitment,
-selection and training, and the difference between internal and
-external recruitment
-- 2.2 Motivation — theories of motivation and their practical
-application to how a business rewards and engages its workforce
-- 2.3 Management — the functions, roles and styles of management, and
-the skills and qualities effective managers need
+- 2.1 Human resource management (HRM) — the role of HRM in workforce
+planning (including the measurement and implications of labour
+turnover), recruitment, selection and training, the difference
+between redundancy (voluntary and involuntary) and dismissal (fair
+and unfair), morale and welfare (including work-life balance and the
+impact of diversity and equality), and management and workforce
+relations, including the role of trade unions in collective bargaining
+- 2.2 Motivation — the main content theories of motivation (Taylor,
+Mayo, Maslow, Herzberg and McClelland) and the process theory of
+Vroom, and their practical application through financial and
+non-financial motivators
+- 2.3 Management — the functions and roles of management (including
+Fayol and Mintzberg), management styles (autocratic, democratic,
+laissez-faire and paternalistic), and McGregor's Theory X and Theory Y
+assumptions about workers
 
 ## How to approach it
 
-For HRM (2.1), the strongest answers distinguish clearly between the
-stages of the recruitment and selection process — job analysis, job
-description and person specification, advertising, shortlisting,
-interviewing and selection — and can justify why a business would
-choose internal recruitment (faster, cheaper, and already familiar
-with the organisation) over external recruitment (brings in fresh
-ideas and a wider pool of skills) for a given scenario, rather than
-describing both methods without applying either to the context given.
-Training methods (induction, on-the-job and off-the-job) are worth
-knowing well enough to recommend and justify a specific method for a
-specific role, since Business at this level consistently rewards
-application and judgement over definitions recited in the abstract.
+For HRM (2.1), start with **workforce planning**: a business forecasts
+its future staffing needs and measures **labour turnover** (the
+proportion of staff leaving over a period) — high turnover raises
+recruitment and training costs and disrupts continuity, while
+unusually low turnover can signal a lack of fresh ideas or blocked
+promotion routes. Know the difference between **redundancy**
+(voluntary or involuntary, where a role itself disappears) and
+**dismissal** (fair or unfair, where an individual is removed for
+cause), since exam scenarios frequently test whether candidates can
+tell the two apart. **Morale and welfare** covers the relationship
+between HRM and how valued and supported staff feel, including
+**work-life balance** and the impact of **diversity and equality** in
+the workplace on performance and reputation. **Management and
+workforce relations** covers how cooperation between management and
+staff benefits both sides, and the impact of **trade union**
+involvement and **collective bargaining** on pay and conditions. The
+strongest answers on recruitment distinguish clearly between the
+stages of the process — job analysis, job description and person
+specification, advertising, shortlisting, interviewing and selection —
+and can justify why a business would choose internal recruitment
+(faster, cheaper, and already familiar with the organisation) over
+external recruitment (brings in fresh ideas and a wider pool of
+skills) for a given scenario, rather than describing both methods
+without applying either to the context given. Training methods
+(induction, on-the-job and off-the-job) are worth knowing well enough
+to recommend and justify a specific method for a specific role, since
+Business at this level consistently rewards application and judgement
+over definitions recited in the abstract.
 
 Motivation (2.2) is the sub-topic most likely to be assessed through
 an extended, evaluative question, so building genuine familiarity with
-the theories most commonly referenced at this level — financial
-methods such as pay structures, bonuses and profit-sharing, alongside
-non-financial approaches such as job enrichment, delegation and
-recognition — and being able to weigh their relative strengths for
-different types of workforce (a highly skilled workforce may respond
-better to non-financial motivators than pay alone, for instance) tends
-to separate strong answers from ones that simply list motivators
-without comparing them. A frequent error is treating financial and
-non-financial motivation as interchangeable rather than recognising
-that their effectiveness depends heavily on the specific workforce and
-context described in the question.
+the **named content theories** — **Taylor** (money as the main
+motivator, workers as rational and driven by pay), **Mayo** (social
+needs and attention at work, from the Hawthorne studies), **Maslow**
+(a hierarchy of needs from physiological up to self-actualisation),
+**Herzberg** (hygiene factors that prevent dissatisfaction versus
+motivators that create genuine satisfaction) and **McClelland**
+(individuals driven by differing needs for achievement, affiliation or
+power) — plus the **process theory of Vroom** (motivation depends on
+whether effort is expected to lead to performance, and performance to
+a valued reward), matters more than reciting definitions. Candidates
+then need to connect this theory to **financial motivators** (time
+rate, salary, piece rate, commission, bonuses, profit sharing,
+performance-related pay, fringe benefits) and **non-financial
+motivators** (training, promotion, status, job redesign, teamworking,
+empowerment, participation, job enrichment), and to weigh their
+relative strengths for different types of workforce (a highly skilled
+workforce may respond better to non-financial motivators than pay
+alone, for instance). A frequent error is naming a theory without
+linking it to a specific motivation method, or discussing methods
+without any reference to the theory that explains why they work.
 
 Management (2.3) asks candidates to distinguish management functions
-(planning, organising, coordinating, commanding and controlling) from
-management styles (autocratic, democratic and laissez-faire), and to
-judge which style suits which situation — an autocratic style may suit
-a business needing fast decisions in a crisis, while a democratic
-style may suit a workforce of skilled professionals who expect to be
-consulted. Being able to name a management skill (such as
-delegation, communication or decision-making) and explain why it
-matters in a specific business context, rather than simply listing
-qualities a manager should have, is what this sub-topic rewards at
-exam level.
+(planning, organising, directing and controlling, drawing on Fayol
+and Mintzberg's work on the role of managers) from management styles
+— **autocratic**, **democratic**, **laissez-faire** and
+**paternalistic** (where a manager acts in what they judge to be
+employees' best interests, more like a parent than an equal) — and to
+judge which style suits which situation, an autocratic style may suit
+a business needing fast decisions in a crisis, while a democratic or
+paternalistic style may suit a workforce of skilled professionals who
+expect to be consulted. **McGregor's Theory X and Theory Y** underpin
+this choice: a **Theory X** manager assumes workers are inherently
+lazy and must be closely controlled and directed, while a **Theory Y**
+manager assumes workers are self-motivated and capable of
+responsibility, and manages accordingly — a manager's assumption about
+which is true shapes the style they adopt. Being able to name a
+management skill (such as delegation, communication or
+decision-making) and explain why it matters in a specific business
+context, rather than simply listing qualities a manager should have,
+is what this sub-topic rewards at exam level.
 
 Because Topic 2 sits early in the AS syllabus, its content — 
 particularly motivation theory and management style — recurs

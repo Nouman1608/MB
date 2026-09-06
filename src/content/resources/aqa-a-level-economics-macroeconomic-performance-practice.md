@@ -7,13 +7,13 @@ topic: "The national and international economy"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7136"]
-syllabusSeries: "Version 1.3"
+syllabusSeries: "Version 1.3, 29 June 2022"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
-description: "Original exam-style practice questions with full worked answers on government macroeconomic policy objectives, macroeconomic indicators and index numbers for AQA AS and A-Level Economics (7135/7136), 3.2.1."
+description: "Original exam-style practice questions with full worked answers on government macroeconomic policy objectives, macroeconomic indicators, index numbers and the uses of national income data for AQA AS and A-Level Economics (7135/7136), 3.2.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
 featured: false
@@ -23,6 +23,11 @@ featured: false
 > standard of the examination. They are **not** reproduced past-paper questions —
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
+>
+> These short-answer questions are designed for topic review and do not reproduce the
+> full 40-mark data-response and essay sections of Paper 1 and Paper 2, or the
+> multiple-choice and case-study format of Paper 3 — practise those longer formats
+> using full past papers.
 
 Related: [The Measurement of Macroeconomic Performance study guide](/resources/a-level-aqa-economics-measurement-of-macroeconomic-performance/) | [The Measurement of Macroeconomic Performance revision notes](/resources/aqa-a-level-economics-macroeconomic-performance-revision-notes/)
 
@@ -50,6 +55,10 @@ Related: [The Measurement of Macroeconomic Performance study guide](/resources/a
 
 **9.** Evaluate the extent to which a government can pursue all four main macroeconomic policy objectives simultaneously. **[9]**
 
+**10.** State two limitations of using national income data (such as real GDP per capita) as a measure of living standards. **[2]**
+
+**11.** Explain why economists use purchasing power parity (PPP) exchange rates, rather than market exchange rates, when comparing living standards between countries. **[3]**
+
 ---
 
 ## Answers
@@ -70,7 +79,11 @@ Related: [The Measurement of Macroeconomic Performance study guide](/resources/a
 
 **8.** The fall in real GDP per capita from 100 to 94 suggests **average living standards have fallen** by 6% relative to the base year, indicating weaker economic growth performance [1] [1]. The rise in the Consumer Prices Index from 100 to 105 suggests **prices have risen** by 5% relative to the base year, indicating the country is moving away from the price stability objective [1] [1]. Together, these two changes suggest the country's macroeconomic performance has **worsened on both the growth and price stability objectives** simultaneously over the period, rather than improving on one while worsening on the other [1] [1].
 
-**9.** **Case that objectives can be pursued together:** in some circumstances, appropriate policy can support multiple objectives at once — for example, supply-side policies that raise productive capacity can support economic growth without necessarily generating the inflationary pressure that demand-side stimulus creates [1] [1]. **Case that conflicts are frequent:** the specification itself highlights that conflicts commonly arise — growth-boosting demand-side policy can worsen the balance of payments through higher import demand, and expansionary policy aimed at reducing unemployment can generate demand-pull inflation, undermining price stability [1] [1]; because different objectives often require different policy responses (or the same policy pulling different objectives in different directions), achieving all four simultaneously is difficult, particularly in the short run [1]. **Judgement:** while carefully designed policy, particularly supply-side measures with effects over the longer run, can reduce some of these conflicts, the specification's own emphasis on "conflict, at least in the short run" suggests that governments realistically face trade-offs between objectives more often than they achieve all four at once, especially when relying on demand-side tools [1] [1].
+**9.** **Case that objectives can be pursued together:** in some circumstances, appropriate policy can support multiple objectives at once — for example, supply-side policies that raise productive capacity can support economic growth without necessarily generating the inflationary pressure that demand-side stimulus creates [1] [1]. **Case that conflicts are frequent:** the specification itself highlights that conflicts commonly arise — growth-boosting demand-side policy can worsen the balance of payments through higher import demand, and expansionary policy aimed at reducing unemployment can generate demand-pull inflation, undermining price stability [1] [1]; because different objectives often require different policy responses (or the same policy pulling different objectives in different directions), achieving all four simultaneously is difficult, particularly in the short run [1]. **The policy mix matters:** the extent of conflict depends partly on which tools a government chooses — supply-side policies are less likely than demand-side policies to generate the described conflicts, since they work by raising productive capacity rather than by raising demand directly [1] [1]. **Judgement:** while carefully designed policy, particularly supply-side measures with effects over the longer run, can reduce some of these conflicts, the specification's own emphasis on "conflict, at least in the short run" suggests that governments realistically face trade-offs between objectives more often than they achieve all four at once, especially when relying on demand-side tools [1] [1].
+
+**10.** Any two: it ignores the **distribution of income** within a country [1]; it excludes the **informal economy** (unrecorded economic activity) [1]; it does not account for **externalities** [1]; it excludes **non-marketed activity** such as unpaid work [1].
+
+**11.** Market exchange rates can be volatile and do not reflect differences in the **cost of living** between countries [1]. PPP exchange rates adjust for these cost-of-living differences [1], so they give a more accurate picture of what a given income can actually **buy** in each country, making living-standards comparisons more meaningful [1].
 
 ---
 

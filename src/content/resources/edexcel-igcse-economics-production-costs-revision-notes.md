@@ -113,11 +113,13 @@ As economies develop, employment and output typically shift from primary toward 
 
 ## Quick self-test
 
-- Name the four factors of production and one productivity-improving factor for each.
-- Calculate profit for a firm with revenue $80,000, fixed costs $15,000, variable costs $40,000.
-- Give one internal and one external economy of scale, and explain the difference.
-- Sketch the shape of an LRAC curve and label where economies, the efficient point, and diseconomies occur.
-- State one advantage and one disadvantage of division of labour.
+1. Name the four factors of production and one productivity-improving factor for each.
+2. Calculate profit for a firm with revenue $80,000, fixed costs $15,000, variable costs $40,000.
+3. Give one internal and one external economy of scale, and explain the difference.
+4. Sketch the shape of an LRAC curve and label where economies, the efficient point, and diseconomies occur.
+5. State one advantage and one disadvantage of division of labour.
+
+**Answers:** 1. Land — rent (e.g. irrigation or drainage improves it); labour — wages (e.g. education and training improve it); capital — interest (e.g. investment in more or better machinery); enterprise — profit (e.g. better organisation of the other factors). 2. Profit = total revenue − total costs = $80,000 − ($15,000 + $40,000) = **$25,000**. 3. Internal — e.g. bulk-buying raw materials at a discount, which arises from the firm's own growth; external — e.g. a pool of locally trained skilled labour, which arises from the growth of the whole industry or area and benefits every firm in it, not just one. 4. Downward-sloping while economies of scale are captured, reaching a minimum at the most efficient scale, then upward-sloping once diseconomies of scale set in. 5. Advantage: higher output per worker through specialisation; disadvantage: repetitive, monotonous work can reduce worker motivation.
 
 ## Official syllabus
 

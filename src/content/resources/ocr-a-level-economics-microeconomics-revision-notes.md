@@ -7,8 +7,8 @@ topic: "Microeconomics"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H460"]
-syllabusSeries: "For first teaching from 2019"
-order: 1
+syllabusSeries: "For first assessment 2021"
+order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "microeconomics-ocr-alevel-economics"
@@ -93,11 +93,11 @@ Demand for labour is **derived** from demand for the product. Elasticity depends
 
 Externalities in production and consumption, public goods, information gaps (**adverse selection** before the transaction, **moral hazard** after), factor immobility, monopoly power.
 
-**Externality diagrams must be labelled** — MPC, MSC, MPB, MSB, market outcome, social optimum, and the shaded **welfare loss triangle**. An unlabelled diagram earns nothing.
+**Externality diagrams must be labelled** — MPC, MSC, MPB, MSB, market outcome, social optimum, and the shaded **welfare loss triangle**. An unlabelled diagram is much weaker evidence of diagram technique, even when the explanation is correct.
 
 **Intervention:** taxes, subsidies, regulation, tradable permits, state provision, price controls — each with its limitation.
 
-**Government failure** — information gaps, administrative cost, unintended consequences, regulatory capture. **Every top-band evaluation includes it.**
+**Government failure** — information gaps, administrative cost, unintended consequences, regulatory capture. **A strong evaluation usually includes it.**
 
 ## Exam traps
 

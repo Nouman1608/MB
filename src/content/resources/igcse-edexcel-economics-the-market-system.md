@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "the-market-system-edexcel-igcse-economics"
-description: "The economic problem, economic assumptions, demand, supply and market equilibrium, elasticity, the mixed economy, and externalities -- the full content of Topic 1 for Pearson Edexcel International GCSE Economics (4EC1)."
+description: "The economic problem, economic assumptions, demand, supply and market equilibrium, elasticity, the mixed economy, and externalities -- a syllabus map and study guide for Topic 1 of Pearson Edexcel International GCSE Economics (4EC1)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -68,15 +68,14 @@ a shift, describing a plausible real-world cause that would produce it. Elastici
 understanding need to work together — practise both calculating a
 elasticity value from given data and explaining, in words, what a
 specific elasticity value implies for a firm's pricing decisions, since
-both skills are tested. Externalities (1.1.6) reward diagram-based
-explanation over description alone — being able to show a negative or
-positive externality on a demand-supply diagram, and explain the
-resulting welfare loss or gain, is a stronger answer than a purely
-verbal account of the same idea. Naming a genuine real-world example
-for both a negative and a positive externality, and being ready to
-sketch each on a diagram from memory, is worth practising specifically
-rather than assuming the concept alone will translate into a strong
-diagram under exam conditions. Because these six sub-topics are tightly interdependent
+both skills are tested. Externalities (1.1.6) requires the definitions and examples of external
+costs of production and external benefits of consumption, and the two
+formulae for social cost and social benefit — the specification does
+not require a demand-supply diagram here. Naming a genuine real-world
+example for both a negative and a positive externality, and being able
+to state and apply the social cost and social benefit formulae, is
+worth practising specifically rather than assuming the concept alone
+will translate into a confident written answer under exam conditions. Because these six sub-topics are tightly interdependent
 — elasticity depends on understanding demand and supply, externalities
 depend on understanding market equilibrium — revising them in the
 given order, rather than skipping ahead to a more "interesting"
@@ -101,16 +100,17 @@ total revenue. Price elasticity of supply follows the same logic applied to prod
 consumers, and is influenced heavily by how quickly a firm can change output — a key factor examined
 alongside the calculation itself.
 
-## Externalities — showing the market failure on a diagram
+## Externalities — costs and benefits beyond the immediate transaction
 
 A negative externality (such as pollution from a factory) means the private cost of production is
 lower than the true social cost, since some of the cost falls on third parties who aren't part of
-the transaction. On a demand-supply diagram, this is shown by a marginal social cost curve sitting
-above the marginal private cost (ordinary supply) curve — the market produces more than the socially
-optimal quantity, at the point where private cost meets demand rather than where social cost meets
-demand, creating a welfare loss shown as the triangle between the two equilibrium points. A positive
-externality (such as education) works the same way in reverse: social benefit exceeds private
-benefit, and the free market under-produces relative to the social optimum.
+the transaction: **social cost = private cost + external cost**. A positive externality (such as
+education) works the same way for benefits: **social benefit = private benefit + external benefit**,
+where social benefit exceeds private benefit because the wider community gains too. This
+specification requires these definitions, real-world examples, and the two formulae rather than a
+marginal-cost diagram — the marginal social cost/marginal private cost diagram showing the welfare
+loss triangle is A Level marginal analysis, beyond what this qualification requires, so treat any
+such diagram as an optional extension rather than assessed content.
 
 ## Official syllabus
 

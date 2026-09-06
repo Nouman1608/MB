@@ -22,13 +22,9 @@ Related: [Amount of Substance revision notes](/resources/ocr-a-level-chemistry-a
 
 ---
 
-## Section A
-
 **1.** State the Avogadro constant and define the mole. **[2]**
 
 **2.** Calculate the number of molecules in 3.2 g of methane. **[3]**
-
-## Section B
 
 **3.** A gas occupies 250 cm³ at 100 kPa and 298 K.
 

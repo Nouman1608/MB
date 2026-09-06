@@ -58,9 +58,9 @@ sciences, combining external examination with an individual internal
 assessment, at both Standard Level and Higher Level. Paper 1 is
 weighted at 36% of the final grade and includes multiple-choice
 questions alongside short-answer and data-based questions spanning the
-syllabus; Paper 2 is weighted at 44% and includes multiple-choice
-questions alongside short-answer and extended-response answers that
-draw together structure and reactivity concepts across topics. (This
+syllabus; Paper 2 is weighted at 44% and includes short-answer and
+extended-response answers that draw together structure and reactivity
+concepts across topics. (This
 guide's own extraction stops before the assessment outline pages, so
 the exact split of question types within each paper has not been
 verified directly against the guide -- check the current subject

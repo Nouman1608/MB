@@ -1,12 +1,12 @@
 ---
-title: "Edexcel A-Level Economics: Measuring Economic Growth (YEC11)"
+title: "Edexcel A-Level Economics: Measuring Economic Growth (WEC12/01)"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]
 topic: "Macroeconomic performance and policy"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["YEC11"]
+syllabusCodes: ["WEC12/01"]
 syllabusSeries: "Issue 2, June 2018"
 order: 1
 stage: "AS"
@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomic-performance-and-policy-edexcel-alevel-economics"
     subtopic: "measures-of-economic-performance-edexcel-alevel-economics"
-description: "Real GDP and GNI, adjusting for real/nominal, total/per capita and value/volume, Purchasing Power Parities, recession, and national happiness and wellbeing -- the Economic Growth strand of 2.1 in Pearson Edexcel International A-Level Economics (YEC11)."
+description: "Real GDP and GNI, adjusting for real/nominal, total/per capita and value/volume, Purchasing Power Parities, recession, and national happiness and wellbeing -- the Economic Growth strand of Unit 2 (WEC12/01) in Pearson Edexcel International A-Level Economics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -22,20 +22,28 @@ featured: false
 
 This guide covers the **Economic Growth** strand of 2.3.1 Measures of
 Economic Performance, from Pearson Edexcel International Advanced
-Subsidiary/Advanced Level Economics (XEC11/YEC11), Specification Issue
-2, June 2018. This sits within Topic 2: Macroeconomic Performance and
-Policy.
+Subsidiary/Advanced Level Economics, Specification Issue 2, June 2018.
+This sits within Unit 2 (unit code WEC12/01): Macroeconomic Performance
+and Policy, examined at AS Level as part of the International Advanced
+Subsidiary award (XEC11) and, together with Units 3 and 4, as part of
+the International Advanced Level award (YEC11).
 
 ## Scope of this guide
 
-2.3.1 Measures of Economic Performance has two strands: Economic
-Growth and Inflation. This resource covers the Economic Growth strand
-in full; Inflation (including CPI, causes of inflation and deflation)
-is left for a separate resource.
+2.3.1 Measures of Economic Performance has four strands: Economic
+Growth, Inflation, Employment and Unemployment, and Balance of
+Payments. This resource covers the Economic Growth (measurement)
+strand in full; the other three strands (including CPI, causes of
+inflation and deflation) are left for separate resources. Note that
+this measurement strand is distinct from the specification's separate
+"Economic growth" sub-topic, which covers actual versus potential
+growth, the causes of potential growth, the benefits and costs of
+growth, and output gaps -- that sub-topic is not covered by this
+resource.
 
 ## Syllabus coverage
 
-**PEARSON EDEXCEL INTERNATIONAL A-LEVEL ECONOMICS (YEC11) — ECONOMIC GROWTH**
+**PEARSON EDEXCEL INTERNATIONAL A-LEVEL ECONOMICS — UNIT 2 (WEC12/01) — MEASURING ECONOMIC GROWTH (THE ECONOMIC GROWTH STRAND OF 2.3.1)**
 
 Students should learn: the rate of change of real Gross Domestic
 Product (GDP) as a measure of economic growth and living standards;
@@ -154,6 +162,7 @@ living standards or wellbeing.
 
 ## Official syllabus
 
-Pearson Edexcel International Advanced Subsidiary/Advanced Level in
-Economics (XEC11/YEC11) specification, Issue 2, June 2018 —
+Pearson Edexcel International Advanced Subsidiary (XEC11) / Advanced
+Level (YEC11) in Economics specification, Unit 2 Macroeconomic
+performance and policy (WEC12/01), Issue 2, June 2018 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20Advanced%20Level/Economics/2018/Specification-and-Sample-Assessment/International-A-Level-Economics-spec.pdf).

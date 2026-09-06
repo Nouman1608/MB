@@ -21,6 +21,13 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Marketing study guide](/resources/igcse-business-marketing/).
 
+**A note on this syllabus's validity.** 0450 last examines in 2026.
+Cambridge replaces it with 0264 ("Cambridge IGCSE Business") from 2027
+onward, which changes the assessment-objective weightings from
+40/20/25/15 to 35/30/22/13, reduces each Paper 1 question from five
+parts to four, and renumbers every sub-topic. Always check which
+syllabus code your own examination series uses.
+
 ## Four sub-topics at a glance
 
 3.1 Marketing, competition and the customer → 3.2 Market research → 3.3 Marketing mix (the four Ps) →
@@ -86,9 +93,11 @@ questions draw on 3.1-3.4 together, not 3.4 in isolation.
 **Legal controls**: rules against misleading promotion and against selling faulty or dangerous goods
 constrain marketing strategy directly — a business cannot simply choose the most persuasive promotion
 regardless of legality. **Entering foreign markets**: growth potential must be weighed against real
-barriers (cultural differences, lack of local knowledge), with **joint ventures** (partnering with a
-local business) and **licensing** (allowing a foreign business to produce/sell under licence) as the
-two named methods for overcoming these barriers without full independent market entry.
+barriers (cultural differences, lack of local knowledge). The syllabus gives **joint ventures**
+(partnering with a local business) and **licensing** (allowing a foreign business to produce/sell under
+licence) as examples of ways to overcome these barriers without full independent market entry -- other
+methods such as franchising, appointing a local agent, or setting up a local subsidiary would be equally
+valid if credited with the same reasoning.
 
 ## Connecting the four Ps to strategy
 
@@ -135,11 +144,11 @@ and cons generically.
 2. Name the four stages of the product life cycle.
 3. Is the PED formula assessed on this syllabus?
 4. Why would penetration pricing suit a mass-market product better than a niche one?
-5. Name two methods of entering foreign markets the syllabus specifies.
+5. Give two examples of methods a business could use to overcome barriers to entering foreign markets.
 
 **Answers:** 1. Niche targets a small, specific segment (often premium pricing, less competition);
 mass targets the whole market (economies of scale, more competitors). 2. Introduction, growth,
 maturity, decline. 3. No — the concept of price elasticity of demand is examined, but the formula and
 calculations are not. 4. Because penetration pricing (low initial price) suits gaining market share at
 volume, which fits mass marketing's scale-based strategy rather than a niche product's premium
-positioning. 5. Joint ventures and licensing.
+positioning. 5. Any two valid examples, e.g. joint ventures and licensing.

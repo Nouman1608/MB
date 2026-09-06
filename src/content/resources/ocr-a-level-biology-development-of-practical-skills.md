@@ -7,7 +7,7 @@ topic: "Development of practical skills in biology"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H420"]
-syllabusSeries: "Version 3, for first teaching 2023"
+syllabusSeries: "Version 4.1, April 2026, for first teaching 2015"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
@@ -20,8 +20,8 @@ featured: false
 
 This guide covers **Module 1 Development of practical skills in
 biology**, the first of six teaching modules in OCR A Level Biology A
-(H420), Version 3, for first teaching September 2023 (first assessment
-Summer 2025). Unlike the other five modules, Module 1 is not content
+(H420), first teaching September 2015, current specification Version
+4.1 (April 2026). Unlike the other five modules, Module 1 is not content
 assessed as a standalone topic but is instead embedded throughout the
 written papers and separately reported through the Practical
 Endorsement.
@@ -73,7 +73,7 @@ whole qualification rather than tied to a single topic.
 
 ## Official syllabus
 
-OCR A Level Biology A (H420) specification, Version 3, August 2023 —
+OCR A Level Biology A (H420) specification, Version 4.1 (April 2026) —
 [ocr.org.uk](https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf).
 
 ## Experimental design in biology

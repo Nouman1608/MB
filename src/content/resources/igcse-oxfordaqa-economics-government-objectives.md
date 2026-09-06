@@ -3,7 +3,7 @@ title: "OxfordAQA IGCSE Economics: Government Objectives (9214)"
 resourceType: "study-guides"
 subject: "economics"
 level: ["igcse"]
-topic: "How the economy works"
+topic: "How economies work"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9214"]
@@ -20,7 +20,7 @@ featured: false
 ---
 
 This guide covers **sub-topic 3.2.2 Government objectives**, part of
-Topic 2 "How the economy works" in OxfordAQA International GCSE
+Topic 2 "How economies work" in OxfordAQA International GCSE
 Economics (9214), first teaching September 2023, first examined May/June
 2025. It sets out the principal economic objectives every government
 pursues, how each is measured, and why chasing one objective can work
@@ -29,7 +29,7 @@ against another.
 ## Where this fits in 9214
 
 Topic 1 (How markets work) is built around individual markets, prices
-and firms; Topic 2 (How the economy works) zooms out to the whole
+and firms; Topic 2 (How economies work) zooms out to the whole
 economy and the government's role in managing it. Government objectives
 is the second of five sub-topics within Topic 2, sitting between an
 introduction to interest rates and government income/spending (3.2.1)

@@ -136,7 +136,7 @@ descriptions: eukaryotic cells have a nucleus enclosed by a nuclear
 envelope and a range of membrane-bound organelles, while prokaryotic
 cells lack a true nucleus (their DNA lies free in the cytoplasm) and
 lack membrane-bound organelles altogether. Prokaryotic cells are
-typically much smaller (usually in the range of 0.5-5 micrometres in
+typically much smaller (usually in the range of 1-5 micrometres in
 diameter) and have a cell wall built from peptidoglycan (murein), which
 differs entirely in composition from the cellulose or chitin found in
 the cell walls of eukaryotic plants and fungi respectively. Plasmids

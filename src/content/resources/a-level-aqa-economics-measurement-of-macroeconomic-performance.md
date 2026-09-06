@@ -7,13 +7,13 @@ topic: "The national and international economy"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7136"]
-syllabusSeries: "Version 1.3"
+syllabusSeries: "Version 1.3, 29 June 2022"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-national-and-international-economy-aqa-alevel-economics"
     subtopic: "the-measurement-of-macroeconomic-performance-aqa-alevel-economics"
-description: "Government macroeconomic policy objectives, the indicators used to measure economic performance, and how index numbers work -- 3.2.1 of AQA AS and A-Level Economics (7135/7136)."
+description: "Government macroeconomic policy objectives, the indicators used to measure economic performance, how index numbers work, and the uses and limitations of national income data -- 3.2.1 of AQA AS and A-Level Economics (7135/7136)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -47,6 +47,11 @@ economic variables; awareness of the underlying features of indices
 such as RPI and CPI, including the concept of the "average family" and
 a "basket of goods and services" (detailed technical knowledge of their
 construction is not expected)
+- 3.2.1.4 Uses of national income data — the use and limitations of
+national income data to assess changes in living standards over time
+and to compare living standards between countries, and the importance
+of purchasing power parity (PPP) exchange rates in making international
+comparisons
 
 ## How to approach it
 
@@ -74,6 +79,16 @@ of RPI or CPI, but you should understand that they are built from a
 "basket of goods and services" representing typical spending patterns,
 weighted according to their relative importance in that spending, and
 expressed relative to a base year set at 100.
+
+For 3.2.1.4, be ready to evaluate national income data rather than
+just quote it: it is a widely used but limited measure of living
+standards, since it ignores the distribution of income, the size and
+value of the informal economy, externalities, and non-marketed
+activity such as unpaid work. When comparing living standards between
+countries, exchange rates based on **purchasing power parity (PPP)**
+are used rather than market exchange rates, because PPP adjusts for
+differences in the cost of living between countries, giving a more
+meaningful comparison of what income can actually buy in each country.
 
 ## Worked example: explaining a policy conflict
 
@@ -138,6 +153,9 @@ objectives.
 measure.
 - Understand the concepts of base year, weighting and "basket of goods"
 without needing RPI/CPI's exact construction method.
+- Be able to state the limitations of national income data as a
+measure of living standards, and explain why PPP exchange rates are
+used for international comparisons.
 
 ## Related resources
 

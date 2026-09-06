@@ -53,8 +53,9 @@ given elasticity scenario — don't just state it as a rule.
 |---|---|---|
 | Type | **Flow** (received over time — wages, interest, dividends) | **Stock** (owned at a point in time — property, savings, shares) |
 
-**Gini coefficient**: interpret a given value/Lorenz curve — you do
-**not** need to calculate it.
+**Gini coefficient** (AS Level): interpret a given value — you do
+**not** need to calculate it. Lorenz curve analysis, and calculating
+the Gini coefficient, are A Level content (Topic 11).
 
 **Four named redistribution policies**:
 
@@ -71,8 +72,10 @@ generated.
 ## How the three sub-topics connect
 
 3.1 (why) → 3.2 (tools for one market) → 3.3 (economy-wide
-distribution). A strong answer moves between levels: a minimum price
-(3.2) might be justified by merit-good under-consumption (3.1), but
+distribution). A strong answer moves between levels: merit-good
+under-consumption (3.1) is best addressed by a subsidy, direct
+provision or information (3.2) rather than a minimum price, which
+would raise price and worsen under-consumption; even the right tool
 alone doesn't fix the underlying income/wealth distribution (3.3)
 limiting some consumers' ability to buy that good.
 

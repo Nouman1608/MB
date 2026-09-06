@@ -65,18 +65,6 @@ YED = %change in Qd / %change in income
 
 **Worked example — YED.** A 5% rise in income causes an 8% rise in quantity demanded: YED = 8 ÷ 5 = **+1.6**, a positive value greater than 1, so the good is a **luxury** (or income-elastic normal good) — demand rises proportionally faster than income. A **negative YED** indicates an **inferior good**: as income rises, demand actually *falls*, because consumers switch to better alternatives they can now afford — value supermarket own-brand products are a typical example.
 
-## Costs, revenue and competition
-
-```
-total cost = fixed + variable        profit = total revenue - total cost
-```
-
-**Fixed costs** do not vary with output (rent, insurance); **variable costs** do (materials, hourly wages).
-
-**Economies of scale** reduce **average** cost as a firm expands — purchasing, technical, financial, marketing, managerial. Total costs still rise; it is cost *per unit* that falls. **Diseconomies** raise average cost when a firm grows too large to communicate and coordinate effectively.
-
-**Competitive markets** deliver lower prices, more choice, better quality and more innovation. **Monopoly** brings higher prices and less choice, but may achieve economies of scale and fund research — so evaluate both sides rather than condemning it.
-
 ## Market failure
 
 | Failure | Result |
@@ -84,20 +72,11 @@ total cost = fixed + variable        profit = total revenue - total cost
 | **Negative externality** | Third parties bear costs — **over-production** |
 | **Positive externality** | Third parties gain benefits — **under-production** |
 | **Public goods** | **Non-excludable and non-rival** — the market provides none |
-| **Merit goods** | Under-consumed; benefits underestimated |
-| **Demerit goods** | Over-consumed; harms underestimated |
 | **Monopoly power** | Restricted output, prices above the competitive level |
 
-A public good requires **both** properties. Street lighting and defence qualify; healthcare and education are **merit** goods, since they can be and are sold privately.
+A public good requires **both** properties. Street lighting and defence qualify.
 
-**Government intervention:** indirect taxes, subsidies, regulation, state provision, price controls, information campaigns.
-
-- **Maximum price** below equilibrium → shortage, queues, black markets.
-- **Minimum price** above equilibrium → surplus.
-
-Both are ineffective if set on the wrong side of equilibrium.
-
-**Government failure** — intervention leaving the outcome worse than the market, through poor information, administrative cost, or unintended consequences such as smuggling. Raising it is what lifts an evaluation into the top band.
+**Policies to correct externalities:** taxation, subsidies, fines, regulation, and pollution permits.
 
 ## Exam traps
 
@@ -105,9 +84,8 @@ Both are ineffective if set on the wrong side of equilibrium.
 - Calling money a factor of production.
 - Answering only about price when quantity is also required.
 - Giving one property of a public good.
-- Confusing merit goods with public goods.
-- Saying economies of scale cut total costs.
-- Setting a price control on the wrong side of equilibrium.
+- Confusing a positive with a negative externality.
+- Naming fewer than the five policies used to correct externalities.
 
 ## Self-test
 
@@ -115,6 +93,6 @@ Both are ineffective if set on the wrong side of equilibrium.
 2. Give the four steps for answering "explain the effect of X on this market".
 3. If PED = 0.4, what happens to revenue when price rises, and why?
 4. Give both properties of a public good.
-5. What is government failure, and why does mentioning it matter?
+5. Name the five policies a government can use to correct externalities.
 
-**Answers:** 1. The next best alternative forgone when a choice is made. 2. Identify which curve shifts, state the direction, describe the new equilibrium, and give the effect on both price and quantity. 3. Revenue rises — demand is inelastic, so quantity falls proportionally less than price rises. 4. Non-excludable and non-rival. 5. When government intervention produces a worse outcome than the free market; raising it shows the balanced evaluation that top-band answers require.
+**Answers:** 1. The next best alternative forgone when a choice is made. 2. Identify which curve shifts, state the direction, describe the new equilibrium, and give the effect on both price and quantity. 3. Revenue rises — demand is inelastic, so quantity falls proportionally less than price rises. 4. Non-excludable and non-rival. 5. Taxation, subsidies, fines, regulation, and pollution permits.

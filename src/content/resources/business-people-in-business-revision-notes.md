@@ -7,7 +7,7 @@ topic: "People in business"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["7115"]
-syllabusSeries: "2026"
+syllabusSeries: "For examination in 2026"
 order: 2
 syllabusTopics:
   - qualification: "o-level"
@@ -64,8 +64,10 @@ how they arise, what problems they cause, and how they can be reduced.
 ## Why theorists need concrete examples
 
 Maslow, Taylor and Herzberg carry more marks tied to a **workplace example** than as abstract
-descriptions. Application (AO2) and analysis (AO3) carry more combined weighting across both papers
-than pure knowledge (AO1) alone — always link the theory to the specific scenario in the question.
+descriptions. Application (AO2) and analysis (AO3) carry more combined weighting than pure knowledge
+(AO1) alone across the qualification as a whole, and especially on the Paper 2 case study -- though on
+Paper 1 itself, knowledge still carries the larger single share — always link the theory to the specific
+scenario in the question.
 
 ## Why this topic connects back to Topic 1
 
@@ -78,9 +80,11 @@ Data Response) and Paper 2 (Case Study), both worth 50% of the final grade, sinc
 ## The shared content with IGCSE Business
 
 Cambridge explicitly builds this O Level on shared content with Cambridge IGCSE Business Studies
-(0450) — the underlying human resources theory is the same course either way. What differs is the
-qualification code, the paper structure candidates actually sit, and the specific past papers available
-for practice. If you find yourself comparing notes with a friend doing the IGCSE route, the theory
+(0450) — the underlying human resources theory is the same course either way, and the assessment
+structures are identical: the same two papers, timings, weightings, question descriptions and
+assessment-objective weightings. What differs is the qualification code, the grade range (A* to G
+for the IGCSE against A* to E for the O Level), and the series and zone in which each qualification
+is available. If you find yourself comparing notes with a friend doing the IGCSE route, the theory
 itself (Maslow, Taylor, Herzberg, organisational structure, leadership styles) transfers directly, but
 confirm you are practising with the correct board/qualification past papers before relying on them.
 

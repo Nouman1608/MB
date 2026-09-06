@@ -1,5 +1,5 @@
 ---
-title: "A Level Business: Objectives and Strategic Decisions — Practice Questions"
+title: "OCR A Level Business: Objectives and Strategic Decisions — Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]
@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "business-objectives-and-strategic-decisions-ocr-alevel-business"
-description: "Original exam-style practice questions with full worked answers on strategy, Ansoff, Porter, SWOT and strategic drift."
+description: "Original exam-style practice questions with full worked answers on strategy, Ansoff, Porter, SWOT, contingency planning and decision trees."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -26,23 +26,23 @@ Related: [Objectives and Strategic Decisions revision notes](/resources/a-busine
 
 ---
 
-## Section A
+## Short-Answer Questions
 
 **1.** Distinguish between a strategy and a tactic, giving an example of each. **[4]**
 
 **2.** State the four options in Ansoff's matrix. **[2]**
 
-## Section B
+## Extended-Response Questions
 
 **3.** Explain each quadrant of Ansoff's matrix, giving an example and stating which carries the greatest risk and why. **[8]**
 
 **4.** Explain Porter's three generic strategies and the danger of being "stuck in the middle". **[8]**
 
-**5.** Explain how a SWOT analysis is used, and give **two** limitations of it. **[6]**
+**5.** Explain how a SWOT analysis can be used to analyse the marketing position of a business, and give **two** limitations of it. **[6]**
 
-**6.** Evaluate whether a business should always follow a planned strategy rather than an emergent one. **[12]**
+**6.** Evaluate the extent to which contingency planning can protect a business from the effects of a crisis. **[12]**
 
-## Section C — Decision trees and investment appraisal
+## Decision Trees and Investment Appraisal
 
 **7.** A firm is choosing between two strategic options.
 
@@ -52,10 +52,10 @@ Related: [Objectives and Strategic Decisions revision notes](/resources/a-busine
 **(a)** Calculate the expected value and net gain of each option. **[4]**
 **(b)** State which option the decision tree recommends, and give **two** limitations of using this result alone. **[4]**
 
-**8.** A project requires an initial investment of £100,000 and is expected to generate £40,000 cash flow in each of the next four years.
+**8.** *(Investment appraisal is content from the Management Accounting area of study, not Business Objectives and Strategic Decisions -- included here because decision trees and investment appraisal are often revised together. All content is assessable in every component, so this does not affect which paper it can appear on.)* A project requires an initial investment of £100,000 and is expected to generate £40,000 cash flow in each of the next four years.
 
 **(a)** Calculate the payback period. **[2]**
-**(b)** Calculate the accounting rate of return (ARR). **[3]**
+**(b)** Calculate the average rate of return (ARR). **[3]**
 **(c)** Explain **one** advantage NPV has over both these methods. **[2]**
 
 ---
@@ -70,15 +70,15 @@ Related: [Objectives and Strategic Decisions revision notes](/resources/a-busine
 
 **4. Cost leadership** — becoming the **lowest-cost producer in the industry**, competing on price and relying on volume and efficiency [1] [1]. **Differentiation** — offering a product **perceived as unique** in quality, design or brand, allowing a price premium [1] [1]. **Focus** — applying either cost leadership or differentiation to a **narrow market segment** rather than the whole market [1] [1]. **Stuck in the middle** — a business that is **neither the cheapest nor sufficiently differentiated** [1] has **no clear reason for customers to choose it**, so it is undercut by low-cost rivals and out-positioned by premium ones, and its margins are squeezed from both directions [1].
 
-**5.** SWOT organises an analysis into **internal strengths and weaknesses** and **external opportunities and threats** [1] [1], so that the business can **build strategy on its strengths to exploit opportunities while addressing weaknesses that expose it to threats** [1].
-Limitations: it produces a **list rather than a priority order or a decision**, so it does not indicate which factors matter most [1]; it is **subjective**, reflecting the views of whoever compiles it, and can become a self-congratulatory exercise [1]; it is a **snapshot** that dates quickly in a fast-moving market [1].
+**5.** Applied to a business's marketing position, SWOT organises an analysis into **internal strengths and weaknesses** [1] and **external opportunities and threats** [1], so that the business can **build its marketing strategy on strengths that exploit opportunities** [1] **while addressing weaknesses that expose it to threats** [1].
+Limitations (any **two**, 1 mark each): it produces a **list rather than a priority order or a decision**, so it does not indicate which factors matter most; it is **subjective**, reflecting the views of whoever compiles it, and can become a self-congratulatory exercise; it is a **snapshot** that dates quickly in a fast-moving market [2].
 
-**6. For planned strategy:** it provides **clear direction and allows resources to be allocated in advance**, so departments work towards the same goal [1]; it makes it possible to **set measurable targets and hold managers accountable** [1]; it reassures **investors and lenders**, who want to see a coherent plan before committing capital [1].
-**Against:** a rigid plan can produce **strategic drift** — the business continues on a course that no longer fits a changed environment [1]; **emergent strategy allows the business to respond to unforeseen opportunities**, such as a competitor failing or a new technology appearing [1]; detailed long-term planning is **expensive and its forecasts are frequently wrong** in volatile markets [1]; many highly successful strategies were **discovered in practice rather than planned**, arising from experimentation on the ground [1].
-**Judgement:** the two are **complementary rather than alternatives** [1]. A business needs a **planned sense of direction with the flexibility to adapt the route** [1]. The right balance depends on **how volatile the market is and how large the resource commitment is** [1] — a utility investing in infrastructure over thirty years must plan; a fashion retailer must remain largely emergent [1].
+**6. For contingency planning:** it allows a business to react quickly rather than being caught unprepared [1], reducing the damage caused by events such as a fire, a cyber-attack or a sudden loss of a major supplier [1]; having a plan in place can protect the business's reputation with customers and stakeholders, who see a competent response rather than confusion [1]; it can be a condition of insurance cover or of contracts with major customers, so the planning has value beyond the crisis itself [1].
+**Against:** contingency planning is **time-consuming and costly** to prepare and to keep up to date, and a small business in particular may not have the spare resources to justify it [1]; a plan cannot cover **every possible crisis**, so a business that has planned for one type of disruption may still be unprepared for another [1]; over-reliance on a written plan can make managers **slower to improvise** when the real crisis does not match what was planned for [1]; the **cost of prevention** may exceed the **cost of the risk actually materialising**, particularly for a low-probability event [1].
+**Judgement:** the value of contingency planning depends on **how likely and how damaging** the crisis would be without it [1] — a business in an industry prone to disruption (for example, one dependent on a single supplier or vulnerable to cyber-attack) gains more from planning than one facing few realistic threats [1]. A balance of a core plan for the most likely crises, kept flexible enough to adapt to the unexpected, gives most of the benefit without the full cost of planning for every eventuality [1] [1].
 
 **7. (a)** Option A: expected value = (0.6 × £200,000) + (0.4 × £20,000) = £120,000 + £8,000 = **£128,000**; net gain = £128,000 − £50,000 = **£78,000** [2]. Option B: expected value = (0.7 × £100,000) + (0.3 × £10,000) = £70,000 + £3,000 = **£73,000**; net gain = £73,000 − £30,000 = **£43,000** [2].
-**(b)** **Option A** is recommended, since its net gain (£78,000) is higher than Option B's (£43,000) [1]. Any two limitations, 1 mark each: the probabilities are **estimates, often subjective**, so the whole calculation is only as reliable as the guesses that feed it; the model **ignores qualitative factors** such as staff morale, brand reputation or strategic fit; it takes **no account of the timing** of the returns, unlike NPV [2].
+**(b)** **Option A** is recommended, since its net gain (£78,000) is higher than Option B's (£43,000) [2]. Any two limitations, 1 mark each: the probabilities are **estimates, often subjective**, so the whole calculation is only as reliable as the guesses that feed it; the model **ignores qualitative factors** such as staff morale, brand reputation or strategic fit; it takes **no account of the timing** of the returns, unlike NPV [2].
 
 **8. (a)** Payback period = initial investment ÷ annual cash flow = £100,000 ÷ £40,000 = **2.5 years** [2].
 **(b)** Total cash flow over four years = £40,000 × 4 = £160,000; total profit = £160,000 − £100,000 = £60,000; average annual profit = £60,000 ÷ 4 = £15,000 [1]. ARR = (£15,000 ÷ £100,000) × 100 = **15%** [2].
@@ -91,4 +91,4 @@ Limitations: it produces a **list rather than a priority order or a decision**, 
 - Giving a tactic as an example of a strategy.
 - Not explaining why diversification is the riskiest quadrant.
 - Describing SWOT without noting it produces no priorities.
-- Treating planned and emergent strategy as mutually exclusive.
+- Describing a contingency plan without evaluating whether its benefits justify its cost.

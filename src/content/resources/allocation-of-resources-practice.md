@@ -48,9 +48,21 @@ why each causes market failure. **[6]**
 **6.** Explain **two** ways a government could intervene in a market to correct the market failure
 caused by a demerit good. **[6]**
 
+**7.** Explain **two** ways the market economic system differs from the mixed economic system in how
+resources are allocated. **[6]**
+
 ---
 
 ## Answers
+
+**1.** PED = **percentage change in quantity demanded ÷ percentage change in price** [1] — it measures
+the **responsiveness of quantity demanded to a change in price** [1] [1].
+
+**2.** A **movement along** a demand curve is caused **only by a change in the price of the good
+itself**, shown as a shift from one point on the same curve to another [1] [1]. A **shift of** a
+demand curve is caused by a change in a **non-price determinant of demand** (e.g. income, tastes, the
+price of substitutes or complements), so a new curve is drawn and quantity demanded changes at every
+price level [1] [1].
 
 **3. (a)** PED = %ΔQd ÷ %ΔP = −25% ÷ 10% = **−2.5** (ignore sign; magnitude 2.5) [2].
 **(b) Elastic** [1], because the percentage change in quantity demanded (25%) is **greater than** the
@@ -81,12 +93,7 @@ tobacco tax) to reduce quantity demanded toward the socially optimal level [1] [
 consumption [1] [1] [1]. **Provision of information** — public health campaigns that correct
 consumers' underestimation of harm, shifting demand left toward the social optimum [1] [1] [1].
 
-## Section C
-
-**7.** Explain **two** ways the market economic system differs from the mixed economic system in how
-resources are allocated. **[6]**
-
-**Answer:** In a **market economic system**, resources are allocated **entirely through the price
+**7. Answer:** In a **market economic system**, resources are allocated **entirely through the price
 mechanism** — buyers and sellers interacting through demand and supply, with no government
 intervention in production or pricing decisions [1] [1] [1]. In a **mixed economic system**,
 resources are allocated through a **combination of the market and government intervention** — the
@@ -99,11 +106,11 @@ system leaves uncorrected.
 ## A note on diagram technique
 
 Whenever a question asks you to "use a diagram," draw one — a written description of a shift without
-an accompanying labelled diagram typically forfeits the marks reserved for diagram technique, even if
-the written explanation is otherwise correct. Always label both axes (price and quantity), the
-original demand and supply curves, the new curve after any shift, and both the original and new
-equilibrium points clearly, since examiners mark the diagram and the explanation as separate but
-linked components of the same answer.
+an accompanying labelled diagram is generally weaker evidence of diagram technique than a fully
+labelled sketch, even if the written explanation is otherwise correct. As good general practice,
+always label both axes (price and quantity), the original demand and supply curves, the new curve
+after any shift, and both the original and new equilibrium points clearly, so the diagram makes your
+reasoning clear on its own.
 
 ---
 
@@ -116,4 +123,4 @@ linked components of the same answer.
   versa.
 - Naming a policy (tax, regulation) without linking it back to the specific market failure it corrects.
 - Giving demand/supply diagram answers without clearly labelling both the original and new equilibrium
-  points, which loses the diagram-technique marks even when the underlying economics is correct.
+  points, which weakens the diagram even when the underlying economics is correct.

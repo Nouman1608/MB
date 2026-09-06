@@ -7,7 +7,7 @@ topic: "Understanding business activity"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["7115"]
-syllabusSeries: "2026"
+syllabusSeries: "For examination in 2026"
 order: 1.3
 syllabusTopics:
   - qualification: "o-level"
@@ -76,13 +76,16 @@ businesses are often undercapitalised and inexperienced, making early failure mo
 ## Measuring business size (1.3.2)
 
 There is no single agreed way to measure how "big" a business is — several methods are used, each with
-limitations:
+limitations. The syllabus gives its methods **by way of example, not as a closed list** — number of
+people employed, value of output and capital employed are named explicitly, and market share is
+also commonly accepted as a fourth measure:
 
 | Method | What it measures | Limitation |
 |---|---|---|
 | Number of people employed | Workforce size | A highly automated business can have huge output with few staff |
 | Value of output | Total value of goods/services produced | Doesn't account for how efficiently that output was produced |
 | Capital employed | Total value of capital invested in the business | Capital-intensive industries will always look "larger" by this measure than labour-intensive ones |
+| Market share | A firm's sales as a proportion of total industry sales | A firm can have a large market share in a small, niche market while remaining small in absolute size |
 
 **Profit is explicitly not a measure of business size** — a small business can be highly profitable,
 while a large one can make a loss. Because each method has weaknesses, examiners often expect you to
@@ -120,8 +123,8 @@ relationships, and their owners often have less business experience to draw on w
 
 ## Common mistakes
 
-- **Treating profit as a measure of business size.** The syllabus explicitly excludes it — always use
-  employment, output value, or capital employed instead.
+- **Treating profit as a measure of business size.** The syllabus explicitly excludes it — use
+  employment, output value, capital employed, or market share instead.
 - **Confusing internal and external growth.** Internal growth builds on the business's own existing
   operations; external growth happens through combining with another business.
 - **Assuming small businesses fail more because they are "worse" businesses**, rather than because they
@@ -134,7 +137,7 @@ relationships, and their owners often have less business experience to draw on w
 
 - Characteristics of successful entrepreneurs, and how business plans and government support assist
   start-ups
-- Three methods of measuring business size, and why profit is excluded
+- The methods of measuring business size (employment, output value, capital employed and market share), and why profit is excluded
 - Internal vs external growth, problems of growth, and reasons some businesses stay small
 - Common causes of business failure, and why new businesses are at higher risk
 

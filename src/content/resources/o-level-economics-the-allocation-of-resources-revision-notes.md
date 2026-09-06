@@ -100,7 +100,7 @@ PES = % change in quantity supplied / % change in price
 
 **Market failure** (2.10.1) — where the price mechanism fails to allocate resources efficiently.
 
-**Causes** (2.10.2): externalities (costs/benefits affecting third parties), public goods (non-excludable, non-rival — the market under-provides them), information failure, market power (monopoly).
+**Causes** (2.10.2): public goods (non-excludable, non-rival — the market under-provides them), merit goods (under-consumed relative to the social optimum) and demerit goods (over-consumed relative to the social optimum), external costs and external benefits (affecting third parties), abuse of monopoly power, and factor immobility.
 
 **Government responses** (2.11.2): taxes and subsidies, regulation, direct provision of public goods, price controls.
 

@@ -59,7 +59,7 @@ Roots are where the curve crosses the x-axis — found by factorising or by the 
 
 Completed square form `a(x + p)² + q` gives the **turning point at (−p, q)** immediately, and the **line of symmetry** at `x = −p`. Alternatively the line of symmetry lies exactly halfway between the two roots.
 
-*(Beyond this syllabus, which does not use the term "discriminant":)* the value `b² − 4ac` tells you how many times the curve meets the x-axis: two, one (tangent), or none.
+The **discriminant**, `b² − 4ac`, tells you how many times the curve meets the x-axis: two (positive), one repeated root/tangent (zero), or none (negative) — see the Algebraic Manipulation notes for the full sign-case treatment.
 
 ## Key points to mark when sketching
 

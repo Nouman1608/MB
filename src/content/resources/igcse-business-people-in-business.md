@@ -40,6 +40,13 @@ later topics assume are already understood, since a Marketing or
 Operations question can just as easily ask about who is responsible for
 a decision as what the decision itself should be.
 
+**A note on this syllabus's validity.** 0450 last examines in 2026.
+Cambridge replaces it with 0264 ("Cambridge IGCSE Business") from 2027
+onward, which changes the assessment-objective weightings from
+40/20/25/15 to 35/30/22/13, reduces each Paper 1 question from five
+parts to four, and renumbers every sub-topic. Always check which
+syllabus code your own examination series uses.
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE BUSINESS STUDIES 0450 — TOPIC 2 PEOPLE IN BUSINESS**
@@ -96,7 +103,7 @@ supervisor, other employees — before trying to answer questions about
 delegation or leadership style, since several question types ask
 candidates to place a described role correctly or to explain how
 authority flows between levels. The "recommend and justify" wording
-appears four separate times across this topic's outcomes (motivation
+appears five separate times across this topic's outcomes (motivation
 methods, leadership style, who to employ, redundancy decisions and
 communication method), which signals that Cambridge examiners
 specifically test the skill of applying a general concept to a

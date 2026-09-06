@@ -1,5 +1,5 @@
 ---
-title: "A Level Business: Objectives and Strategic Decisions — Revision Notes"
+title: "OCR A Level Business: Objectives and Strategic Decisions — Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]
@@ -33,7 +33,7 @@ Objectives should be **SMART**. Corporate objectives include profit maximisation
 
 **SWOT** — Strengths and Weaknesses are **internal**; Opportunities and Threats are **external**. Putting an item in the wrong half is a common error, and the useful move is to pair them: which strength lets us take which opportunity, which weakness exposes us to which threat.
 
-**PESTLE** — Political, Economic, Social, Technological, Legal, Environmental. All external.
+**PESTLE** — Political, Economic, Social, Technological, Ethical, Legal, Environmental (seven factors; Ethical is a distinct, examinable factor alongside the six-letter acronym). All external.
 
 **Porter's Five Forces:** competitive rivalry, threat of new entrants, threat of substitutes, bargaining power of buyers, bargaining power of suppliers. It assesses the **attractiveness of an industry**, not the strength of one firm — a distinction worth making explicitly.
 

@@ -7,7 +7,7 @@ topic: "Individuals, firms, markets and market failure"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7136"]
-syllabusSeries: "For first teaching from September 2015"
+syllabusSeries: "Version 1.3, 29 June 2022"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
@@ -66,7 +66,7 @@ profit maximised where MC = MR
 |---|---|---|---|---|
 | **Perfect competition** | Many | None | **Normal only** | Allocatively and productively efficient |
 | **Monopolistic competition** | Many | Low | Normal | Neither, but close |
-| **Oligopoly** | Few, **interdependent** | High | Supernormal | Neither |
+| **Oligopoly** | Few, **interdependent** | High | Supernormal possible | Neither |
 | **Monopoly** | One | Very high | Supernormal | Neither, but may be dynamically efficient |
 
 **Barriers to entry are the explanation**, not an incidental feature: in perfect competition supernormal profit attracts entry, which competes it away; in monopoly barriers prevent that adjustment, so it persists.
@@ -89,11 +89,11 @@ Demand for labour is **derived** from demand for the product. Wage determination
 
 Negative and positive externalities (in production and consumption), public goods, information gaps (asymmetric information, adverse selection, moral hazard), factor immobility, monopoly power.
 
-**Externality diagrams must be labelled** — MPC, MSC, MPB, MSB, market outcome, social optimum, and the shaded **welfare loss triangle**. An unlabelled diagram earns nothing.
+**Externality diagrams must be labelled** — MPC, MSC, MPB, MSB, market outcome, social optimum, and the shaded **welfare loss triangle**. An unlabelled diagram is much weaker evidence of diagram technique, even when the explanation is correct.
 
 **Intervention:** taxes, subsidies, regulation, tradable permits, state provision, price controls.
 
-**Government failure** — worse outcomes than the market, through information gaps, administrative cost, unintended consequences and regulatory capture. **Every top-band evaluation raises it.**
+**Government failure** — worse outcomes than the market, through information gaps, administrative cost, unintended consequences and regulatory capture. **A strong evaluation usually raises it.**
 
 ## Exam traps
 

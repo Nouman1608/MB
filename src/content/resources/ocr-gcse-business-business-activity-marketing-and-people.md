@@ -7,7 +7,7 @@ topic: "Business activity, marketing and people"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J204"]
-syllabusSeries: "For first teaching from 2017"
+syllabusSeries: "For first assessment 2019"
 order: 1
 syllabusTopics:
   - qualification: "gcse"
@@ -28,9 +28,10 @@ with a closer look at marketing and human resources.
 ## Where this fits in J204
 
 Component 1 pairs with Component 2 (Operations, finance and
-influences on business); content from either component can be
-assessed in either exam paper, and learners are expected to consider
-how different contexts affect business decisions throughout.
+influences on business); Component 1 content is assessed in this
+paper, and candidates draw on it again for the synoptic questions in
+the Component 2 paper, but Component 2 content is not assessed back
+in this paper.
 
 ## Syllabus coverage
 

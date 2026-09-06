@@ -55,7 +55,7 @@ consistently tested through unfamiliar experimental scenarios, so build
 comfort identifying variables, evaluating experimental design, and
 processing and analysing quantitative data -- these turn up as
 supporting questions across every paper, not just in dedicated
-practical questions. Keep a running note of which core practicals map
+practical questions. Keep a running note of which Practical Activity Groups (PAGs) map
 to which physics module as you progress through the course, since this
 makes it far easier to revise practical technique alongside content
 rather than as a separate, disconnected topic. The Practical

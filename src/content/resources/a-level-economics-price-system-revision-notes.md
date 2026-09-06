@@ -34,14 +34,14 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Economics (9
 
 | Measure | Responds to | Sign meaning |
 |---|---|---|
-| PED | Own price | N/A — size matters (elastic/inelastic) |
+| PED | Own price | Normally negative (demand curve slopes down), expressing the inverse relationship between price and quantity demanded; size (above or below 1) determines elastic/inelastic |
 | YED | Income | Positive = normal good; negative = inferior good |
 | XED | Price of related good | Positive = substitutes; negative = complements |
 
 - Elasticity values: perfectly elastic, (highly) elastic, unitary, (highly) inelastic, perfectly
   inelastic.
 - PED varies along the length of a straight-line demand curve — never treat PED as one fixed number.
-- PED links directly to total revenue: whether revenue rises or falls after a price change depends on
+- PED links directly to total revenue (the syllabus calls this **total expenditure on the product** — the same quantity, price times quantity): whether it rises or falls after a price change depends on
   whether demand is elastic or inelastic at that point.
 
 ## 2.3 Price elasticity of supply (PES)
@@ -59,21 +59,22 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Economics (9
 - Market relationships: **joint demand** (complements, e.g. printers/ink), **alternative demand**
   (substitutes), **derived demand** (demand for steel because of demand for cars), **joint supply**
   (goods produced together, e.g. beef and leather).
-- Price's three functions: **rationing** scarce goods, **signalling** producer preferences, **incentivising**
-  producer response.
+- Price's three functions: **rationing** scarce goods, **signalling** to producers where consumer
+  preferences lie, **incentivising** producer response.
 
 ## 2.5 Consumer and producer surplus
 
 - **Consumer surplus**: difference between what consumers are willing to pay and what they actually pay.
 - **Producer surplus**: difference between what producers actually receive and the minimum they would
   accept.
-- Both change with shifts in equilibrium; the more inelastic demand or supply is, the greater the change
-  in surplus for a given shift.
+- Both change with shifts in equilibrium: the more inelastic demand is, the greater the change in
+  consumer surplus for a given supply shift, and the more inelastic supply is, the greater the change
+  in producer surplus for a given demand shift.
 
 ## Exam technique for this topic
 
 Practise sketching a diagram for every concept in this topic — a shifted curve, a changed equilibrium, a
-shaded surplus area — since both Paper 2 and Paper 4 explicitly credit diagrammatic explanation alongside
+shaded surplus area — since Paper 2 explicitly credits diagrammatic explanation alongside
 written and numerical answers (AO1 rewards all three forms). Work through elasticity calculation
 questions for all four measures (PED, YED, XED, PES) until the formulae and, critically, the sign
 interpretation are automatic — getting a sign backwards (treating a negative XED as substitutes rather
@@ -89,7 +90,7 @@ For any elasticity calculation, follow the same structure regardless of which of
 demanded or supplied), calculate the percentage change in the independent variable (price, income, or
 the price of a related good), then divide the first by the second. Only after calculating the numerical
 coefficient should you interpret it — first by size (is it above or below 1, indicating elastic or
-inelastic), then by sign where relevant (YED and XED only). A common source of lost marks is
+inelastic), then by sign (PED is normally negative; YED and XED can be positive or negative). A common source of lost marks is
 interpreting a coefficient's meaning before finishing the calculation, or rounding intermediate steps
 too early and carrying that error through to the final interpretation.
 

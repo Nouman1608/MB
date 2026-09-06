@@ -12,22 +12,21 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "external-influences-facing-businesses-ocr-alevel-business"
-description: "Markets, market forces and competition, the global context, and political, economic, social, technological, ethical, legal and environmental factors -- the full content of Topic 2 for OCR A Level Business (H431)."
+description: "Markets, market forces and competition, the global context, and political, economic, social, technological, ethical, legal and environmental factors -- the full content of External Influences Facing Businesses for OCR A Level Business (H431)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 ---
 
-This guide covers **Topic 2: External Influences Facing Businesses**,
-the second Area of Study in OCR A Level Business (H431). It follows
-Topic 1 (Business Objectives and Strategic Decisions) and shifts the
-focus from decisions a business makes internally to the market and
-wider environmental forces it must respond to but cannot fully
-control.
+This guide covers **External Influences Facing Businesses**, an
+Area of Study in OCR A Level Business (H431). It follows Business
+Objectives and Strategic Decisions and shifts the focus from
+decisions a business makes internally to the market and wider
+environmental forces it must respond to but cannot fully control.
 
 ## Syllabus coverage
 
-**OCR A LEVEL BUSINESS H431 -- TOPIC 2 EXTERNAL INFLUENCES FACING BUSINESSES**
+**OCR A LEVEL BUSINESS H431 -- EXTERNAL INFLUENCES FACING BUSINESSES**
 
 - **Markets** -- the market, market size and growth (explaining what a
   market, competition, market size and market growth mean, and
@@ -54,8 +53,10 @@ control.
   exchange rates and currency conversion, trading blocs, and the
   factors a business must consider when trading internationally
   (language, culture, logistics, currency); the influence of the
-  European Union, including the advantages and disadvantages to a UK
-  business of EU or Eurozone membership; and emerging markets and
+  European Union, including its enlargement and the single European
+  currency, and the advantages and disadvantages to a UK business of
+  not being part of the EU and the Eurozone, and of not being a
+  member of the Single European Market; and emerging markets and
   changes in the global environment.
 - **PESTLE-style factors** -- political factors (political stability
   and uncertainty, and the effect of government policy at local,
@@ -73,7 +74,7 @@ control.
 
 ## Why this topic is examined as a connected whole, not a checklist
 
-It is tempting to treat Topic 2 as a long list of factors to memorise,
+It is tempting to treat this area of study as a long list of factors to memorise,
 but OCR's own assessment objectives weight evaluation and analysis as
 heavily as knowledge, so exam questions consistently ask you to judge
 which external influence matters *most* in a given business scenario,
@@ -86,16 +87,15 @@ unconnected checklist items. This is precisely why the specification
 groups markets, competition and global/PESTLE factors together under
 one topic -- they are meant to be argued together.
 
-## Market structure as a spectrum, not four fixed boxes
+## Market structure and decision-making power
 
-Perfect competition, monopolistic competition, oligopoly and monopoly
-are often taught as four separate categories, but the specification's
-own framing -- market dominance, decision-making power, and barriers
-to entry and exit -- treats them as points on a spectrum of
-competitive intensity. A stronger evaluative answer identifies where a
-real business sits on that spectrum and how much pricing and strategic
-freedom that position gives it, rather than simply naming the
-"correct" category from a textbook definition.
+Monopolistic competition, oligopoly and monopoly are the three market
+structures named in the specification, and each is linked to a
+business's decision-making power and the barriers to entry and exit
+in that market. A stronger evaluative answer identifies where a real
+business sits between these structures and how much pricing and
+strategic freedom that position gives it, rather than simply naming
+the "correct" category from a textbook definition.
 
 ## Common mistakes
 
@@ -111,8 +111,8 @@ freedom that position gives it, rather than simply naming the
   it becomes.
 - **Confusing market dominance with simply being a large firm.**
   Dominance is about decision-making power over price and output
-  relative to competitors, not size alone -- a large firm in a highly
-  contestable market may have little real dominance.
+  relative to competitors, not size alone -- a large firm facing low
+  barriers to entry or exit may have little real dominance.
 - **Discussing ethical and legal factors as identical.** The
   specification explicitly requires distinguishing law (compulsory,
   enforceable) from ethics (a business choice, not a legal
@@ -128,7 +128,7 @@ Build a bank of real, named business examples for each external
 influence as you revise -- a genuine case of a company responding to
 exchange rate change, a real merger creating market dominance, an
 actual example of ethical or environmental pressure changing a
-business's practice -- because Topic 2 questions consistently reward
+business's practice -- because questions on this area of study consistently reward
 specific, current evidence over generic theory. Practise explicitly
 weighing conflicting influences against each other (for example, cost
 pressure from economic factors against reputational pressure from
@@ -146,7 +146,7 @@ context in the same case study.
 
 ## Official syllabus
 
-OCR, *AS and A Level Business H031/H431 Specification*,
-Area of Study 2, External influences facing businesses,
-https://pastpapers.co/ocr/A-Level/Business-H031-H431/Specifications/170837-specification-accredited-a-level-gce-business-h431.pdf,
-fetched and verified in full 2026-09-02.
+OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*,
+Version 2.1 (January 2026), External influences,
+https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf,
+fetched and verified in full 2026-09-06.

@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "how-markets-work-oxfordaqa-igcse-economics"
-description: "Condensed recall notes on demand, supply, equilibrium, elasticity and market failure for OxfordAQA International GCSE Economics 9205."
+description: "Condensed recall notes on demand, supply, equilibrium, elasticity and market failure for OxfordAQA International GCSE Economics 9214."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -59,7 +59,7 @@ When answering "explain the effect of X on price and quantity", always work in f
 ```
 PED = %change in quantity demanded / %change in price
 PES = %change in quantity supplied / %change in price
-YED = %change in quantity demanded / %change in income
+XED = %change in quantity demanded of A / %change in price of B
 ```
 
 | PED value | Meaning | Raising price will |
@@ -84,14 +84,11 @@ A **monopoly** — a single dominant firm — can **restrict output and charge a
 
 | Failure | Consequence |
 |---|---|
-| **Negative externality** | Third parties bear costs — the good is **over-produced** |
-| **Positive externality** | Third parties gain benefits — the good is **under-produced** |
-| **Public goods** | **Non-excludable and non-rival** — free riding means the market provides none |
-| **Merit goods** | Under-consumed because benefits are underestimated |
-| **Demerit goods** | Over-consumed because harms are underestimated |
+| **Negative externality** | Third parties bear costs — the good is **over-produced**; resources are misallocated towards it |
+| **Positive externality** | Third parties gain benefits — the good is **under-produced**; resources are misallocated away from it |
 | **Monopoly** | Higher prices, lower output, less choice |
 
-A public good needs **both** properties. Street lighting and national defence are the examples to use; healthcare and education are **merit** goods, not public goods, because they can be, and are, provided privately.
+Market failure in this specification means resources being **misallocated** relative to society's wants, and externalities are the named cause to explain and evaluate.
 
 **Government intervention:** indirect taxes, subsidies, regulation, state provision, minimum and maximum prices, and information campaigns.
 
@@ -105,8 +102,6 @@ Both need to be drawn on a diagram to score fully — and both must be set on th
 - Treating a price change as a shift of the demand curve.
 - Calling money a factor of production.
 - Answering only about price when both price and quantity are asked for.
-- Giving one property of a public good.
-- Confusing merit goods with public goods.
 - Drawing a maximum price above equilibrium, where it has no effect.
 - Saying an inelastic tax is effective at reducing consumption.
 
@@ -115,7 +110,6 @@ Both need to be drawn on a diagram to score fully — and both must be set on th
 1. What causes a movement along the demand curve, and what causes a shift?
 2. If PED = 0.4, what happens to total revenue when price rises?
 3. Give the most important determinant of PED.
-4. Both properties of a public good?
-5. What happens when a maximum price is set below equilibrium?
+4. What happens when a maximum price is set below equilibrium?
 
-**Answers:** 1. A change in the good's own price causes a movement along; a change in any other condition of demand causes a shift. 2. Demand is inelastic, so quantity falls proportionally less than price rises and total revenue increases. 3. The availability of close substitutes. 4. Non-excludable and non-rival. 5. Quantity demanded exceeds quantity supplied, producing excess demand — shortages, queues and potentially a black market.
+**Answers:** 1. A change in the good's own price causes a movement along; a change in any other condition of demand causes a shift. 2. Demand is inelastic, so quantity falls proportionally less than price rises and total revenue increases. 3. The availability of close substitutes. 4. Quantity demanded exceeds quantity supplied, producing excess demand — shortages, queues and potentially a black market.

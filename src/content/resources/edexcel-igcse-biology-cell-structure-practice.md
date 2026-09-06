@@ -78,7 +78,7 @@ and [revision notes](/resources/edexcel-igcse-biology-cell-structure-revision-no
 **(a)** Predict how the reaction time at pH 5 and pH 9 would compare with pH 7, explaining your reasoning. **[3]**
 **(b)** Explain, in terms of the enzyme's structure, why both extremes of pH reduce activity by the same underlying mechanism as high temperature. **[3]**
 
-**8.** Explain why stem cells are described as having both advantages and disadvantages for medical use, giving one example of each. **[4]** (Higher tier)
+**8.** Explain why stem cells are described as having both advantages and disadvantages for medical use, giving one example of each. **[4]** (Paper 2 only, not in the Science Double Award)
 
 ## Worked answers (continued)
 

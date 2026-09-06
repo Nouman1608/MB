@@ -2448,7 +2448,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.5', name: 'Competitive and concentrated markets', slug: 'competitive-and-concentrated-markets-oxfordaqa-igcse-economics' },
         { number: '1.6', name: 'Market failure', slug: 'market-failure-oxfordaqa-igcse-economics' },
       ] },
-      { number: 2, name: 'How the economy works', slug: 'how-the-economy-works-oxfordaqa-igcse-economics', subtopics: [
+      { number: 2, name: 'How economies work', slug: 'how-the-economy-works-oxfordaqa-igcse-economics', subtopics: [
         { number: '2.1', name: 'Government objectives', slug: 'government-objectives-oxfordaqa-igcse-economics' },
         { number: '2.2', name: 'How the government manages the economy', slug: 'how-the-government-manages-the-economy-oxfordaqa-igcse-economics' },
         { number: '2.3', name: 'International trade and the global economy', slug: 'international-trade-and-the-global-economy-oxfordaqa-igcse-economics' },

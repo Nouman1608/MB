@@ -7,7 +7,7 @@ topic: "Development of practical skills in biology"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H420"]
-syllabusSeries: "Version 3, for first teaching 2023"
+syllabusSeries: "Version 4.1, April 2026, for first teaching 2015"
 order: 1
 syllabusTopics:
   - qualification: "a-level"

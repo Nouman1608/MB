@@ -28,13 +28,30 @@ Condensed for the final weeks. For the full explanation, use the
 | **Movement along** | Change in **price** | Slides along the same curve |
 | **Shift of curve** | Change in anything else (income, tastes, costs, number of suppliers) | Whole curve moves |
 
+## Markets and sectors (2.1)
+
+**Primary** sector extracts raw materials; **secondary** manufactures; **tertiary** provides services. A **product market** trades goods/services; a **factor market** trades land, labour, capital or enterprise.
+
 ## Demand, supply and equilibrium (2.2–2.4)
 
-Demand and supply diagrams are the **single most heavily examined diagram** in this component. **Equilibrium**: where the demand and supply curves intersect — the price and quantity where the market clears. **Price elasticity** measures the *responsiveness* of quantity to a price change, not simply whether demand/supply is "high" or "low."
+**Demand curve**: slopes **down** — price ↓, quantity demanded ↑. **Supply curve**: slopes **up** — price ↑, quantity supplied ↑. A change in the good's own price = **movement along**; anything else (income, tastes, costs, technology, number of firms) = **shift**. Demand and supply diagrams are the **single most heavily examined diagram** in this component. **Equilibrium**: where the demand and supply curves intersect — the price and quantity where the market clears.
 
-## Competition (2.5)
+```
+PED = %change in Qd / %change in P        PES = %change in Qs / %change in P
+```
+
+|PED| > 1 → **elastic**, price rise cuts revenue. |PED| < 1 → **inelastic**, price rise raises revenue. **Price elasticity** measures the *responsiveness* of quantity to a price change, not simply whether demand/supply is "high" or "low."
+
+## Competition and production (2.5–2.6)
 
 Monopoly and oligopoly are departures from competitive markets — differ not just in the **number of firms** but in how market power affects **price, output and consumer choice**.
+
+```
+total cost = fixed + variable          profit = total revenue - total cost
+average cost = total cost / output     average revenue = total revenue / output
+```
+
+**Economies of scale** reduce **average** cost as output rises (bulk buying, large-scale machinery, cheaper finance, shared advertising cost); total cost still rises, only cost *per unit* falls.
 
 ## Worked example: net pay (2.7)
 
@@ -106,5 +123,6 @@ Topic 2 follows directly from Topic 1 (economic agents and the basic economic pr
 
 ## Official syllabus
 
-OCR, *GCSE (9-1) in Economics (J205) Specification*, Section 2c —
-[pastpapers.co](https://pastpapers.co/ocr/GCSE/Economics-J205/Specifications/306377-specification-accredited-gcse-economics-j205.pdf).
+OCR, *GCSE (9-1) in Economics (J205) Specification*, Version 2.0
+(June 2026), Section 2c —
+[ocr.org.uk](https://www.ocr.org.uk/Images/306377-specification-accredited-gcse-economics-j205.pdf).

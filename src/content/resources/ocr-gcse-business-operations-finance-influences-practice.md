@@ -26,13 +26,9 @@ Related: [Operations, Finance and Influences on Business study guide](/resources
 
 ---
 
-## Section A
-
 **1.** Name the three main production processes and give one product example for each. **[3]**
 
 **2.** State **two** sources of finance suitable for a newly established small business. **[2]**
-
-## Section B
 
 **3.** Distinguish between quality control and quality assurance, explaining why a business might prefer one approach over the other. **[4]**
 
@@ -48,13 +44,13 @@ Related: [Operations, Finance and Influences on Business study guide](/resources
 
 **6.** Explain why a profitable business could still run out of cash, using the terms "cash flow" and "profit" in your answer. **[4]**
 
-**7.** Explain **one** ethical or environmental consideration that could influence a business's choice of supplier. **[3]**
+**7.** Explain **one** ethical or environmental consideration that could influence a business's choice of supplier. **[2]**
 
 **8.** Evaluate whether globalisation is more of an opportunity than a risk for a small UK manufacturing business. **[9]**
 
-## Section C — synoptic
+**9.** *(Synoptic)* A business introduces a new product (Business 1: marketing) and, as a result, must relocate part of its production overseas to keep costs low (Business 2: operations and finance). Explain **one** way this relocation could affect the business's supplier relationships, and **one** way it could affect its cash flow. **[4]**
 
-**9.** A business introduces a new product (Business 1: marketing) and, as a result, must relocate part of its production overseas to keep costs low (Business 2: operations and finance). Explain **one** way this relocation could affect the business's supplier relationships, and **one** way it could affect its cash flow. **[4]**
+**10.** A business invests £20,000 in new equipment, which is expected to generate a total profit of £6,000 over its three-year life. Calculate the average rate of return. **[3]**
 
 ## Answers
 
@@ -77,8 +73,11 @@ Related: [Operations, Finance and Influences on Business study guide](/resources
 **8.** **For globalisation as an opportunity:** it opens access to larger overseas markets, allowing a small manufacturer to grow sales beyond a limited domestic customer base [1]; it can also reduce costs through cheaper overseas sourcing of materials or components [1]; and it allows businesses to build international brand recognition as multinational competitors and customers become more familiar with UK products [1].
 **Against — as a risk:** globalisation exposes a small manufacturer to **increased competition** from larger, lower-cost overseas producers who may undercut it in its own domestic market [1]; it also creates exposure to **currency fluctuations** that can unpredictably raise the cost of imported materials or reduce the value of overseas sales [1]; and a small business typically has **far less capacity to absorb these risks** than a large multinational, since it lacks the scale, cash reserves or diversified markets to cushion a sudden shock [1].
 **Judgement:** for a small UK manufacturer specifically, globalisation is more likely to represent a **risk than an opportunity in the short term** [1], because the scale needed to exploit new export markets or negotiate favourable overseas sourcing deals usually requires resources a small business does not yet have [1], though this balance can shift as the business grows and gains the capacity to compete internationally [1].
+*(OCR marks this nine-mark question by level of response against a holistic mark scheme, not by awarding a separate mark for each point; the bracketed marks above indicate the credit-worthy content expected, not a point-by-point tally.)*
 
 **9.** **Supplier relationships:** relocating production overseas likely means ending relationships with existing domestic suppliers and building new ones with overseas suppliers, which can introduce logistics, communication and reliability risks that did not exist with established local suppliers [1] [1]. **Cash flow:** overseas suppliers may require different, often less flexible, payment terms (such as payment in advance rather than trade credit), which could strain cash flow if the business is used to paying domestic suppliers only after receiving goods [1] [1].
+
+**10.** Average annual profit = £6,000 ÷ 3 = £2,000 [1]; average rate of return = (£2,000 ÷ £20,000) × 100 = **10%** [1] [1].
 
 ## A note on break-even and profit questions
 
@@ -90,7 +89,7 @@ Question 4 illustrates a distinction worth being explicit about in an exam answe
 - Quoting gross profit when a question asks specifically for net profit, or vice versa.
 - Explaining cash flow problems purely in terms of "not enough sales" rather than the timing mismatch between recorded profit and actual cash received.
 - Discussing globalisation as only an opportunity, without weighing the risks the specification explicitly expects for an "evaluate" question.
-- Missing the synoptic requirement in Section C-style questions by answering only from Business 2 content, without connecting to a Business 1 decision.
+- Missing the synoptic requirement in questions like question 9 by answering only from Business 2 content, without connecting to a Business 1 decision.
 
 ## Approaching operations, finance and influences questions
 

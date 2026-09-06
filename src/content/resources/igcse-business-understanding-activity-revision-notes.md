@@ -21,6 +21,13 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Understanding Business Activity study guide](/resources/igcse-business-understanding-business-activity/).
 
+**A note on this syllabus's validity.** 0450 last examines in 2026.
+Cambridge replaces it with 0264 ("Cambridge IGCSE Business") from 2027
+onward, which changes the assessment-objective weightings from
+40/20/25/15 to 35/30/22/13, reduces each Paper 1 question from five
+parts to four, and renumbers every sub-topic. Always check which
+syllabus code your own examination series uses.
+
 ## Purpose and added value
 
 Businesses exist to satisfy **needs** (essential for survival — food, shelter, clothing) and **wants** (desirable but not essential).
@@ -69,7 +76,7 @@ Business objectives: survival (the priority for a start-up), profit, growth, mar
 | Type | Liability | Ownership | Key point |
 |---|---|---|---|
 | **Sole trader** | **Unlimited** | One owner | Easy to set up, keeps all profit, but bears all risk and has limited capital |
-| **Partnership** | **Unlimited** (usually) | 2–20 partners | More capital and shared expertise, but shared profit and disagreements |
+| **Partnership** | **Unlimited** (usually) | Two or more (some countries cap the number) | More capital and shared expertise, but shared profit and disagreements |
 | **Private limited (Ltd)** | **Limited** | Shares sold privately | Separate legal identity; shares cannot be sold to the public |
 | **Public limited (plc)** | **Limited** | Shares on the stock exchange | Large capital, but expensive to form, accounts public, **risk of takeover** and **divorce of ownership from control** |
 

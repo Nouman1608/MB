@@ -35,6 +35,13 @@ decisions, and External influences on business activity. It is built
 around four sub-topics: marketing, competition and the customer;
 market research; the marketing mix; and marketing strategy.
 
+**A note on this syllabus's validity.** 0450 last examines in 2026.
+Cambridge replaces it with 0264 ("Cambridge IGCSE Business") from 2027
+onward, which changes the assessment-objective weightings from
+40/20/25/15 to 35/30/22/13, reduces each Paper 1 question from five
+parts to four, and renumbers every sub-topic. Always check which
+syllabus code your own examination series uses.
+
 ## 3.1 Marketing, competition and the customer
 
 This sub-topic sets out why marketing exists before looking at how it

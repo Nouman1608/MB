@@ -6,7 +6,7 @@ level: ["ib"]
 topic: "Unit 3 – Macroeconomics (3.1–3.3)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Economics"]
+syllabusCodes: []
 syllabusSeries: "First assessment 2022"
 order: 2
 syllabusTopics:
@@ -58,10 +58,28 @@ how shifts in AD and AS explain changes in the equilibrium level of
 real output and the price level
 - 3.3 Macroeconomic objectives — the standard set of goals governments
 pursue: economic growth, low unemployment, low and stable inflation,
-and equity in the distribution of income (an HL-only calculation
-element applies to measuring some of these objectives, such as
-calculating a misery index or interpreting a Lorenz curve/Gini
-coefficient in more depth)
+and a sustainable level of government debt (HL only) -- equity in the
+distribution of income is discussed here only as a potential conflict
+with these objectives, and is developed in full in the following
+sub-topic on the economics of inequality and poverty. The HL-only
+calculation element in this sub-topic is a weighted price index
+constructed from supplied data.
+
+## Not covered in depth by this guide
+
+Sub-topics 3.1-3.3 are large, and this guide concentrates on GDP/GNI, the business cycle, the AD-AS
+model, and the four macroeconomic objectives -- the recurring exam workhorses. It does **not**
+develop, and you should revise separately from your course materials: the circular flow of income
+and its diagram; the equivalence of the income, output and expenditure approaches to measuring
+economic activity; real versus nominal measures, per capita measures, purchasing power parity, and
+the price deflator calculation; the appropriateness of GDP/GNI for measuring well-being and named
+alternative well-being indices; the determinants of each AD component and the alternative
+(including Keynesian) views of aggregate supply; inflationary and deflationary gaps and short-run
+versus long-run equilibrium; the measurement of unemployment and its limitations, the causes of
+unemployment and the natural rate; the measurement of inflation and the limitations of the price
+index; demand-pull versus cost-push inflation, deflation and disinflation; the Phillips curve; and
+the four required numerical calculations for this unit. The checklist and self-test below are
+scoped to match what this guide actually covers, not the full content of 3.1-3.3.
 
 ## How to approach it
 
@@ -75,15 +93,19 @@ routinely expect this diagram as part of the answer. For 3.1,
 practise distinguishing a recession (a period of falling real output)
 from slower growth (positive but reduced growth) -- IB exam questions
 frequently test this distinction using data extracts rather than
-definitions alone. For 3.3, learn the four macroeconomic objectives as
-a fixed set, since evaluation questions often ask which objective a
-given policy serves and which objective it might conflict with -- for
-example, policies that boost growth can sometimes worsen inflation.
+definitions alone. For 3.3, learn the four macroeconomic objectives -- economic growth,
+low unemployment, low and stable inflation, and (HL only) a
+sustainable level of government debt -- since evaluation questions
+often ask which objective a given policy serves and which objective it
+might conflict with -- for example, policies that boost growth can
+sometimes worsen inflation. Equity in the distribution of income is a
+related but separate concern, developed fully in the following
+sub-topic, not a fifth item to add to this list.
 
 ## Common mistakes
 
-Confusing GDP (a measure of total output/income) with GNI (which
-additionally accounts for income earned by residents abroad) --
+Confusing GDP (a measure of total output/income) with GNI (GDP plus
+net income from abroad, which can be negative) --
 IB mark schemes credit stating the distinction, not just naming both
 terms. Shifting the wrong AD-AS curve when illustrating a specific
 policy or shock -- a change in one of AD's four components shifts AD;
@@ -104,35 +126,46 @@ over generic theory on its own.
 
 ## Worked example
 
-A data extract shows a country's real GDP growth rate falling from
-4% to 1% over two years, while inflation rises from 2% to 6%. What
-does the AD-AS model suggest is happening?
+A data extract shows a country's real GDP growth *rate* falling from
+4% to 1% over two years (real output is still rising, just more
+slowly), while the inflation *rate* rises from 2% to 6% (the price
+level is still rising, just faster). What does the AD-AS model suggest
+is happening?
 
 ```
-OBSERVATION: growth is slowing sharply while inflation is rising --
-             this combination (slower growth + higher inflation) is
-             the classic signature of an adverse aggregate supply
-             shock, not a change in aggregate demand.
+OBSERVATION: the growth RATE is slowing while the inflation RATE is
+             rising -- output is still expanding and prices are still
+             rising; nothing in the data describes a fall in the level
+             of either.
 
-WHY NOT AD: a rightward shift in AD alone would raise BOTH output
-            and the price level together (growth up, inflation up) --
-            it would not explain slowing growth alongside rising
-            inflation.
+WHY NOT A SIMPLE AD STORY: a rightward shift in AD alone would tend to
+            raise both the growth rate and the inflation rate together
+            (demand-pull), so an AD shift on its own does not obviously
+            explain slower growth alongside faster inflation.
 
-WHY AS: a leftward shift in short-run aggregate supply (for example
-        from rising input costs) raises the price level while
-        simultaneously reducing real output -- matching both parts
-        of the data extract at once.
+A CONSISTENT STORY: slowing demand growth (moderating the rise in
+        output) combined with an adverse cost shock pushing up prices
+        (for example rising input costs) is consistent with slower
+        growth and higher inflation occurring together. A leftward
+        shift in short-run aggregate supply predicts a FALL in the
+        level of real output, which is not what this data shows, so it
+        cannot be invoked as the sole explanation here -- at most a
+        cost-push pressure is contributing to the faster inflation
+        while demand growth itself has weakened.
 
-CONCLUSION: the evidence points to a negative supply-side shock
-            rather than a demand-side change, which has direct
-            implications for which policies would be appropriate.
+CONCLUSION: be precise about levels versus rates of change -- this
+            data describes decelerating growth and accelerating
+            inflation, not a recession, and the explanation should
+            combine weaker demand growth with cost-side pressure
+            rather than claim that a single leftward AS shift matches
+            the extract.
 ```
 
-Distinguishing a demand-side explanation from a supply-side one using
-the direction of both output and price-level change together, rather
-than looking at only one variable, is exactly the skill IB data-response
-questions on this sub-topic test.
+Distinguishing a recession (a fall in the level of real output) from
+slower growth (a fall in the growth *rate*, with output still rising)
+is one of the most frequently tested distinctions on this sub-topic,
+and confusing a rate of change with a level is exactly the kind of
+error IB data-response mark schemes penalise.
 
 ## Quick revision checklist
 
@@ -144,14 +177,15 @@ of each from real-world data.
 equilibrium price level and output.
 - Explain what shifts AD (the four components) versus what shifts AS
 (costs, productivity, productive capacity).
-- List the four macroeconomic objectives and give one example of two
-objectives coming into conflict.
+- List the four macroeconomic objectives (growth, unemployment,
+inflation, and HL-only government debt sustainability) and give one
+example of two objectives coming into conflict.
 - Practise reading combined output/inflation data to judge whether a
 demand-side or supply-side shock is the more likely explanation.
 
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme Economics
-guide, published February 2020, updated to October 2020, first
-assessment 2022, sub-topics 3.1-3.3 —
-[ibo.org](https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/).
+guide, first assessment 2022, published February 2020 and updated May
+and August 2020, sub-topics 3.1-3.3 —
+[ibo.org](https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/economics-guide.pdf).

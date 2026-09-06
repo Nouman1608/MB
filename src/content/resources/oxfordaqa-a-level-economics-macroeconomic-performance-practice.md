@@ -24,7 +24,7 @@ featured: false
 > examination boards hold copyright in their own papers. Use these alongside the
 > official past papers available free from your board.
 
-Related: [Measurement of Macroeconomic Performance study guide](/resources/a-level-oxfordaqa-economics-measurement-of-macroeconomic-performance/) · [Measurement of Macroeconomic Performance revision notes](/resources/oxfordaqa-a-level-economics-global-economy-revision-notes/)
+Related: [Measurement of Macroeconomic Performance study guide](/resources/a-level-oxfordaqa-economics-measurement-of-macroeconomic-performance/) · [Measurement of Macroeconomic Performance revision notes](/resources/oxfordaqa-a-level-economics-macroeconomic-performance-revision-notes/)
 
 ---
 

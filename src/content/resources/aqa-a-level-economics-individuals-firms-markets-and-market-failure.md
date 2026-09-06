@@ -7,23 +7,24 @@ topic: "Individuals, firms, markets and market failure"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7136"]
-syllabusSeries: "For first teaching from September 2015"
+syllabusSeries: "Version 1.3, 29 June 2022"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "individuals-firms-markets-and-market-failure-aqa-alevel-economics"
-description: "Economic methodology, price determination, production and costs, market structures, and market failure and government intervention -- the full content of Topic 1 for AQA A-Level Economics (7136)."
+description: "Economic methodology, price determination, production and costs, market structures, and market failure and government intervention -- a syllabus map and study guide for section 3.1 for AQA A-Level Economics (7136)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
-This guide covers **Topic 1 Individuals, firms, markets and market
+This guide covers **section 3.1, Individuals, firms, markets and market
 failure**, the primarily microeconomic half of AQA A-level Economics
 (7136), for first teaching from September 2015. It corresponds to
-section 3.1 of the official specification, "The operation of markets
-and market failure," and pairs with Topic 2, the macroeconomic "The
-national and international economy."
+section 3.1 of the official specification as taught for the full
+A-level (a superset of the AS-only section 3.1, "The operation of
+markets and market failure"), and pairs with section 3.2, the
+macroeconomic "The national and international economy."
 
 ## Where this fits in 7136
 
@@ -35,20 +36,28 @@ assumptions and limitations behind each model.
 
 ## Syllabus coverage
 
-**AQA A-LEVEL ECONOMICS (7136) — TOPIC 1 INDIVIDUALS, FIRMS, MARKETS
+**AQA A-LEVEL ECONOMICS (7136) — SECTION 3.1 INDIVIDUALS, FIRMS, MARKETS
 AND MARKET FAILURE**
 
 - 3.1.1 Economic methodology and the economic problem — economics as
 a social science, the nature and purpose of economic activity, and
 scarcity, choice and the allocation of resources, including production
 possibility diagrams
-- 3.1.2 Price determination in a competitive market — how demand and
+- 3.1.2 Individual economic decision making — how individuals make
+choices, and the influence of behavioural economics on that
+decision making
+- 3.1.3 Price determination in a competitive market — how demand and
 supply interact to determine price in a competitive market
-- 3.1.3 Production, costs and revenue — how firms' production, cost
+- 3.1.4 Production, costs and revenue — how firms' production, cost
 and revenue decisions are analysed
-- 3.1.4 Competitive and concentrated markets — how the degree of
-competition in a market affects the behaviour of firms
-- 3.1.5 The market mechanism, market failure and government
+- 3.1.5 Perfect competition, imperfectly competitive markets and
+monopoly — how the degree of competition in a market, from perfect
+competition through to monopoly, affects the behaviour of firms
+- 3.1.6 The labour market — how demand and supply determine wages and
+employment in a labour market
+- 3.1.7 The distribution of income and wealth — the causes of
+inequality and policies used to address it
+- 3.1.8 The market mechanism, market failure and government
 intervention in markets — how markets and prices allocate resources,
 the meaning of market failure, public and private goods, positive and
 negative externalities, merit and demerit goods, market imperfections,
@@ -59,10 +68,10 @@ government intervention, and government failure
 Economic methodology (3.1.1) sets up the reasoning style examiners
 expect throughout the paper -- explicit awareness of assumptions and
 their limitations -- so get comfortable critiquing a model, not just
-describing it. Price determination (3.1.2) is the most diagram-heavy
+describing it. Price determination (3.1.3) is the most diagram-heavy
 sub-topic: fluency in drawing, labelling and explaining shifts in
 demand and supply diagrams underpins almost everything that follows.
-Market failure and government intervention (3.1.5) is the largest and
+Market failure and government intervention (3.1.8) is the largest and
 most exam-relevant sub-topic, covering externalities, public goods and
 government failure -- practise applying each type of market failure to
 a real or plausible example and evaluating whether a specific

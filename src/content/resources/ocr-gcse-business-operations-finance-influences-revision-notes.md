@@ -32,7 +32,10 @@ Condensed for the final weeks. For the full explanation, use the
 ```
 Break-even quantity = fixed costs / contribution per unit
 Contribution per unit = selling price - variable cost per unit
+Average rate of return = (average annual profit / cost of investment) x 100
 ```
+
+**Average rate of return (ARR)** measures the average annual profit an investment generates as a percentage of what it cost, letting a business compare returns on different investment options.
 
 **Cash ≠ profit.** A business can be profitable on paper while running out of cash if customers pay late or stock ties up money.
 
@@ -97,9 +100,9 @@ This mismatch between the timing of profit and the timing of cash is exactly the
 - Mixing up gross and net profit.
 - Describing globalisation only as opportunity, ignoring the risks the specification also expects.
 
-## Why this component carries a heavier quantitative load
+## Why the finance sub-section is calculation-heavy
 
-Business 2's finance sub-section is explicitly calculation-heavy compared with Business 1, since at least 10% of the qualification's overall marks reward quantitative skills at Key Stage 3 level. Practising break-even, profit and loss, and cash flow calculations until they are fluent -- not just recognising the formulas -- is time well spent given how directly these marks are available.
+Business 2's finance sub-section is explicitly calculation-heavy, since the specification requires quantitative skills to a demand not lower than that expected at Key Stage 3 level across at least 10% of the qualification's overall marks. Practising break-even, profit and loss, and cash flow calculations until they are fluent -- not just recognising the formulas -- is time well spent given how directly these marks are available.
 
 ## Quick self-test
 

@@ -1,19 +1,19 @@
 ---
-title: "Edexcel A Level Business: Marketing and People (YBS11)"
+title: "Edexcel A Level Business: Marketing and People (WBS11)"
 resourceType: "study-guides"
 subject: "business"
 level: ["a-levels"]
 topic: "Marketing and people"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["YBS11"]
+syllabusCodes: ["WBS11"]
 syllabusSeries: "Issue 1, September 2017"
 stage: "AS"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-people-edexcel-alevel-business"
-description: "Meeting customer needs, the market, marketing mix and strategy, managing people, and entrepreneurs and leaders -- the full content of Unit 1 for Pearson Edexcel International A Level Business (YBS11)."
+description: "Meeting customer needs, the market, marketing mix and strategy, managing people, and entrepreneurs and leaders -- the full content of Unit 1 (entry code WBS11) for Pearson Edexcel International A Level Business (YBS11/XBS11)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -26,7 +26,7 @@ assessed by a single 2-hour paper worth 80 marks, built from
 short-open response and extended-writing questions based on sources,
 some of which require quantitative skills.
 
-## Where this fits in YBS11
+## Where this fits in Unit 1 (WBS11)
 
 Unit 1 introduces students to how businesses identify market
 opportunities and build competitive advantage, then turns to how they
@@ -36,10 +36,10 @@ the International AS half of the qualification; Units 3 and 4 (Business
 decisions and strategy; Global business) complete the full
 International A Level.
 
-## Syllabus coverage
+## Specification coverage
 
-**PEARSON EDEXCEL INTERNATIONAL A LEVEL BUSINESS (YBS11) — UNIT 1
-MARKETING AND PEOPLE**
+**PEARSON EDEXCEL INTERNATIONAL A LEVEL BUSINESS — UNIT 1
+MARKETING AND PEOPLE (WBS11)**
 
 - 1.3.1 Meeting customer needs — mass and niche markets, dynamic
 markets, the effect of competition, and the difference between risk
@@ -70,7 +70,7 @@ management topics, so building a clear picture of how marketing
 decisions and people decisions interact within one business will help
 across both units.
 
-## Official syllabus
+## Official specification
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in
 Business specification, Issue 1, September 2017 —
@@ -105,6 +105,12 @@ The business application matters more than the formula. Where demand is **price 
 
 The four Ps extend to seven for services with **people, process and physical environment**. The elements must be internally consistent — premium price requires premium product, place and promotion.
 
+**Design mix** balances **function, aesthetics and cost of economic manufacture**, and shifts to reflect social trends such as designing for waste minimisation, re-use and recycling, and ethical sourcing.
+
+**Pricing strategies** include cost-plus, price skimming, penetration, **predatory** (deliberately pricing below cost to force a rival out of the market), competitive and psychological pricing, chosen according to the degree of differentiation, price elasticity of demand, the level of competition, brand strength, and the product's stage in its life cycle.
+
+**Distribution channels** range from two-stage (producer to consumer) to three-stage (producer to retailer to consumer) to four-stage (producer to wholesaler to retailer to consumer), and are changing with the growth of online sales and price comparison sites.
+
 **Product life cycle** — development, introduction, growth, maturity, decline — with extension strategies at maturity. The **Boston Matrix** classifies a portfolio into stars, cash cows, question marks and dogs, and the insight is that cash cows fund the stars and question marks.
 
 Branding builds loyalty, allows premium pricing and eases new product launches.
@@ -118,6 +124,16 @@ Branding builds loyalty, allows premium pricing and eases new product launches.
 **Motivation theory**: Taylor (pay and control), Mayo (social needs and group belonging), Maslow (hierarchy of needs), Herzberg (hygiene factors prevent dissatisfaction, motivators create satisfaction).
 
 **Leadership styles** — autocratic, paternalistic, democratic, laissez-faire — suit different situations, and the examinable point is that no style is universally best.
+
+## Entrepreneurs and leaders
+
+The **role of an entrepreneur** covers creating and setting up a business, running and expanding it, **innovation within an existing business (intrapreneurship)**, the **barriers to entrepreneurship** (such as access to finance, red tape and lack of experience), and **anticipating risk and uncertainty** in the business environment.
+
+**Entrepreneurial motives** split into **financial motives** (profit maximisation and profit satisficing -- accepting a satisfactory rather than the maximum possible profit) and **non-financial motives** (an ethical stance, social entrepreneurship, independence, and the wish to work from home).
+
+**Business objectives** include survival, profit maximisation, and a range of others -- sales maximisation, market share, cost efficiency, employee welfare, customer satisfaction and social objectives -- and which a business prioritises depends on its size, its stage of development and its ownership.
+
+Every business choice involves an **opportunity cost** -- the next best alternative given up -- and a **trade-off** between competing objectives, for example between growth and short-term profit, or between paying higher wages and keeping prices competitive.
 
 ## Worked example
 
@@ -147,3 +163,5 @@ Confusing market size with market share. Ignoring the minus sign on PED and misc
 - Apply the marketing mix, product life cycle and Boston Matrix.
 - Compare staffing approaches, training methods and leadership styles.
 - Apply Taylor, Mayo, Maslow and Herzberg to a given workforce problem.
+- Explain the design mix and identify a predatory pricing strategy and a distribution channel structure.
+- Name the financial and non-financial motives for setting up a business, and identify an opportunity cost or trade-off in a given scenario.

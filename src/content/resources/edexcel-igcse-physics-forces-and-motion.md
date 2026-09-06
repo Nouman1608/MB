@@ -1,5 +1,5 @@
 ---
-title: "Forces and Motion"
+title: "Edexcel IGCSE Physics: Forces and Motion"
 seoTitle: "Edexcel IGCSE Physics: Forces and Motion"
 resourceType: "study-guides"
 subject: "physics"

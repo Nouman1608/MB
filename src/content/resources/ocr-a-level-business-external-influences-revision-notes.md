@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "external-influences-facing-businesses-ocr-alevel-business"
-description: "Condensed recall notes on markets, market forces, globalisation and PESTLE factors for OCR A Level Business (H431), Topic 2 External Influences Facing Businesses."
+description: "Condensed recall notes on markets, market forces, globalisation and PESTLE factors for OCR A Level Business (H431), External Influences Facing Businesses."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -31,7 +31,7 @@ Condensed for the final weeks. For the full explanation, use the
 | **Oligopoly** | Few large firms | Interdependent, moderate-high |
 | **Monopolistic competition** | Many firms, differentiated products | Low-moderate |
 
-Treat these as points on a **spectrum of competitive intensity and decision-making power**, not four fixed boxes — a real firm's position on that spectrum, not just its category label, is what an evaluative answer should identify.
+These three structures are linked to decision-making power and barriers to entry and exit — a real firm's position between them, not just its category label, is what an evaluative answer should identify.
 
 **Demand and supply:** demand curve slopes down (price ↑, quantity demanded ↓); supply curve slopes up (price ↑, quantity supplied ↑). **Equilibrium** is where they cross. A shift in a determinant (income, tastes, cost of production, number of firms) moves the whole curve, causing a shortage or excess at the old price until a new equilibrium is reached. Practise sketching the shift, not just naming the determinant.
 
@@ -39,7 +39,7 @@ Treat these as points on a **spectrum of competitive intensity and decision-maki
 
 **Physical vs. non-physical markets:** physical = traditional shops/premises; non-physical = online/digital — firms weigh lower overheads and wider reach (digital) against lower footfall/trust barriers (physical), often operating in both.
 
-**Market dominance** can arise from **organic growth**, **mergers** or **acquisitions**. The **UK regulates dominance** to protect competition and consumers (e.g. blocking or conditioning mergers that would harm competition) — dominance is about **decision-making power over price/output relative to rivals**, not simply being a large firm; a large firm in a highly contestable market may have little real dominance.
+**Market dominance** can arise from **organic growth**, **mergers** or **acquisitions**. The **UK regulates dominance** to protect competition and consumers (e.g. blocking or conditioning mergers that would harm competition) — dominance is about **decision-making power over price/output relative to rivals**, not simply being a large firm; a large firm facing low barriers to entry or exit may have little real dominance.
 
 Firms **enter** a market where profit opportunity and low barriers exist, and **exit** where losses persist or barriers to survival rise — the strength of competition directly affects both decisions.
 
@@ -49,7 +49,7 @@ Firms **enter** a market where profit opportunity and low barriers exist, and **
 
 **International trade:** **free trade** (no/low barriers) vs. **protectionism** (tariffs, quotas — barriers to trade). Businesses trading internationally must weigh **exchange rates and currency conversion**, **trading blocs** (preferential access within, barriers without), and practical factors: language, culture, logistics, currency.
 
-**EU/Eurozone membership** — advantages for a UK business include tariff-free access and regulatory alignment; disadvantages include loss of independent monetary/trade policy and compliance costs — always argue both sides for a UK business specifically, not the EU in the abstract.
+**UK non-membership of the EU, Eurozone and Single European Market** — advantages for a UK business of being outside include freedom from EU regulation and independent trade policy; disadvantages include tariffs and customs checks on exports and loss of frictionless access to the Single European Market — always argue both sides for a UK business specifically, not the EU in the abstract.
 
 **Emerging markets** offer growth opportunity but carry higher political/currency risk — evaluate opportunity against risk for the specific business in the question, not generically.
 
@@ -71,9 +71,9 @@ Firms **enter** a market where profit opportunity and low barriers exist, and **
 
 A UK manufacturer faces rising import costs after a currency depreciation. Link: **exchange rate movement (global context)** → **higher cost of imported raw materials (economic factor)** → **squeezed margins or higher prices (business impact)**. A strong answer traces this chain for the *named* business, rather than separately describing "economic factors" and "the global context" as unconnected checklist items — OCR weights evaluation and analysis as heavily as knowledge.
 
-## How Topic 2 links to Topic 1
+## How this area links to Business Objectives and Strategic Decisions
 
-Topic 1 (Business Objectives and Strategic Decisions) covers what a business decides internally; Topic 2 covers the market and environmental forces a business must respond to but cannot fully control. A strong exam answer treats these as connected -- for example, a firm's strategic objectives (Topic 1) should adapt when market forces or PESTLE factors (Topic 2) shift significantly, rather than staying fixed regardless of the external environment. Examiners reward candidates who can trace this link explicitly: naming which external influence has changed, and then explaining how a specific strategic decision should respond, rather than discussing the two topics as entirely separate bodies of content.
+Business Objectives and Strategic Decisions covers what a business decides internally; External Influences Facing Businesses covers the market and environmental forces a business must respond to but cannot fully control. A strong exam answer treats these as connected -- for example, a firm's strategic objectives should adapt when market forces or PESTLE factors shift significantly, rather than staying fixed regardless of the external environment. Examiners reward candidates who can trace this link explicitly: naming which external influence has changed, and then explaining how a specific strategic decision should respond, rather than discussing the two areas of study as entirely separate bodies of content.
 
 ## Common mistakes to avoid
 
@@ -86,9 +86,9 @@ Topic 1 (Business Objectives and Strategic Decisions) covers what a business dec
 ## Quick self-test
 
 - State the difference between market size and market growth.
-- Explain why market structures should be treated as a spectrum, not four fixed types.
+- Name the three market structures in the specification and link each to decision-making power.
 - Give two facilitators of globalisation.
-- Name one advantage and one disadvantage of EU/Eurozone membership for a UK business.
+- Name one advantage and one disadvantage to a UK business of not being part of the EU, the Eurozone and the Single European Market.
 - Define the difference between an ethical and a legal factor, in one sentence each.
 
 ## Related resources
@@ -98,7 +98,7 @@ Topic 1 (Business Objectives and Strategic Decisions) covers what a business dec
 
 ## Official syllabus
 
-OCR, *AS and A Level Business H031/H431 Specification*,
-Area of Study 2, External influences facing businesses,
-https://pastpapers.co/ocr/A-Level/Business-H031-H431/Specifications/170837-specification-accredited-a-level-gce-business-h431.pdf,
-fetched and verified in full 2026-09-02.
+OCR, *Cambridge OCR Level 3 Advanced GCE in Business (H431) Specification*,
+Version 2.1 (January 2026), External influences,
+https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf,
+fetched and verified in full 2026-09-06.

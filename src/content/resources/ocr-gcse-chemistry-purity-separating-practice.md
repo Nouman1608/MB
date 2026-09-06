@@ -28,13 +28,9 @@ Related: [Purity and Separating Mixtures study guide](/resources/ocr-gcse-chemis
 
 ---
 
-## Section A
-
 **1.** Explain the chemical definition of a pure substance, and how melting point data can be used to test whether a sample is pure. **[3]**
 
 **2.** Name the four separation techniques described in this sub-topic. **[4]**
-
-## Section B
 
 **3.** Calculate the relative formula mass of magnesium sulfate, MgSO₄ (Mg = 24, S = 32, O = 16). **[2]**
 

@@ -23,15 +23,13 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Purpose and enterprise
 
-Businesses satisfy **needs** (essential) and **wants** (desirable) and create **added value**:
+Businesses satisfy **needs** (essential) and **wants** (desirable) by combining the **factors of production** -- **land, labour, capital and enterprise**. Every choice has an **opportunity cost**: the next best alternative given up.
 
-```
-added value = selling price - cost of bought-in materials
-```
+Every business sits in one of the **three sectors**: **primary** (extracting raw materials), **secondary** (manufacturing), or **tertiary** (providing services).
 
-Increase it by branding, better design, superior service or convenience — or by cutting input costs. **Added value is not profit**; wages, rent and overheads still come out of it.
+**Entrepreneurs** organise resources, take risks and make decisions. Motives: being their own boss, flexible hours, pursuing an interest, earning more money, filling a gap in the market, dissatisfaction with a current job. Risks: losing personal savings, and unlimited liability for sole traders. Businesses also face a **constantly changing environment** -- technology, the economic situation, legislation and environmental expectations.
 
-**Entrepreneurs** organise resources, take risks and make decisions. Motives: profit, independence, pursuing an interest, filling a gap in the market. Risks: losing personal savings, and unlimited liability for sole traders.
+*Added value (selling price minus the cost of bought-in materials) is useful business vocabulary, but it is not named in this specification -- do not expect a question to require its definition.*
 
 ## Ownership
 
@@ -78,16 +76,9 @@ Factors: proximity to the **market**, to **raw materials**, to **labour**, trans
 
 **Internal (organic)** — new products, outlets or markets. Slower but retains control and carries less risk.
 
-**External** — merger or takeover:
+**External** — growth through **mergers and takeovers**, gaining an existing business's assets, customers and expertise immediately, but at greater cost and risk of a clash of cultures.
 
-| Type | Meaning |
-|---|---|
-| **Horizontal** | Same industry, same stage |
-| **Vertical forward** | Towards the customer |
-| **Vertical backward** | Towards the supplier |
-| **Conglomerate** | Unrelated industry, spreading risk |
-
-**Economies of scale** lower **average** cost; **diseconomies** raise it when the business grows too large to communicate and coordinate well.
+**Economies of scale** lower **average unit cost** (total cost ÷ output) as output rises -- including **purchasing economies** (bulk-buying inputs more cheaply) and **technical economies** (large-scale production methods and specialist machinery spreading their cost over more units). **Diseconomies of scale** raise average unit cost when the business grows too large to communicate and coordinate well, and staff motivation falls.
 
 ## Business planning
 
@@ -99,7 +90,7 @@ A business plan contains the business idea, aims and objectives, target market a
 
 ## Exam traps
 
-- Confusing added value with profit.
+- Confusing average unit cost with total cost.
 - Saying limited liability means limited debts.
 - Treating a plc as government-owned.
 - Listing stakeholders instead of explaining a conflict.
@@ -109,10 +100,10 @@ A business plan contains the business idea, aims and objectives, target market a
 
 ## Self-test
 
-1. Define added value and give two ways of increasing it.
+1. Define opportunity cost and name the three economic sectors.
 2. Distinguish unlimited from limited liability.
 3. Why is a plc part of the private sector?
 4. Explain one stakeholder conflict in full.
 5. Give the two main purposes of a business plan.
 
-**Answers:** 1. Selling price minus the cost of bought-in materials; raise it by branding or improved design and service, or by reducing input costs. 2. Unlimited liability means the owner's personal assets can be seized to pay business debts; limited liability restricts losses to the amount invested. 3. It is owned by shareholders who buy its shares on the stock market, not by the government — "public" refers to who may buy shares. 4. For example, owners want to cut costs to raise profit while employees want higher wages and better conditions; the same money cannot satisfy both. 5. To raise finance from lenders or investors, and to force the owner to think through the risks before committing money.
+**Answers:** 1. Opportunity cost is the next best alternative given up when a choice is made; the three sectors are primary, secondary and tertiary. 2. Unlimited liability means the owner's personal assets can be seized to pay business debts; limited liability restricts losses to the amount invested. 3. It is owned by shareholders who buy its shares on the stock market, not by the government — "public" refers to who may buy shares. 4. For example, owners want to cut costs to raise profit while employees want higher wages and better conditions; the same money cannot satisfy both. 5. To raise finance from lenders or investors, and to force the owner to think through the risks before committing money.

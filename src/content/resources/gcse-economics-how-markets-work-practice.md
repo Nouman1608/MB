@@ -28,34 +28,50 @@ Related: [How Markets Work revision notes](/resources/gcse-economics-how-markets
 
 ## Section A
 
-**1.** State the law of demand and the law of supply. **[2]**
+**1.** Which of the following would cause a **rightward shift** of the demand curve for a normal good?
+A) A fall in the good's own price
+B) A rise in consumer income
+C) A rise in the price of a substitute
+D) Both B and C **[1]**
 
-**2.** Distinguish between a movement along a demand curve and a shift of the demand curve. **[3]**
+**2.** A good has a price elasticity of demand of −0.4. Demand for this good is:
+A) Perfectly elastic
+B) Elastic
+C) Inelastic
+D) Unitary **[1]**
+
+**3.** Which of the following is the best example of a public good?
+A) Private healthcare
+B) Street lighting
+C) A restaurant meal
+D) A television set **[1]**
+
+**4.** State the law of demand and the law of supply. **[2]**
+
+**5.** Distinguish between a movement along a demand curve and a shift of the demand curve. **[3]**
 
 ## Section B
 
-**3.** Explain **three** factors that would shift the demand curve for coffee to the right. **[6]**
+**6.** Explain **three** factors that would shift the demand curve for coffee to the right. **[6]**
 
-**4.** Explain **three** factors that would shift the supply curve for wheat to the left. **[6]**
+**7.** Explain **three** factors that would shift the supply curve for wheat to the left. **[6]**
 
-**5.** The market for umbrellas is in equilibrium. A period of unusually wet weather begins.
+**8.** The market for umbrellas is in equilibrium. A period of unusually wet weather begins.
 
 **(a)** Explain the effect on demand, price and quantity, using a diagram in words. **[4]**
 **(b)** Explain how the market mechanism restores equilibrium. **[3]**
 
-**6.** Explain price elasticity of demand.
+**9.** Price elasticity of demand (PED) measures how responsive quantity demanded is to a change in price.
 
 **(a)** Calculate the PED if a 10% price rise causes a 25% fall in quantity demanded, and state whether demand is elastic or inelastic. **[3]**
 **(b)** Explain why a firm facing inelastic demand would raise its price. **[3]**
 **(c)** State **two** factors that make demand more elastic. **[2]**
 
-## Section C
+**10.** Explain why governments often tax goods such as tobacco and fuel heavily, in terms of price elasticity of demand. **[3]**
 
-**7.** Explain why governments often tax goods such as tobacco and fuel heavily, in terms of price elasticity of demand. **[3]**
+**11.** Explain what is meant by market failure, and give **two** examples. **[4]**
 
-**8.** Explain what is meant by market failure, and give **two** examples. **[4]**
-
-**9.** Bad weather destroys a third of the coffee harvest. Coffee has few close substitutes.
+**12.** Bad weather destroys a third of the coffee harvest. Coffee has few close substitutes.
 
 **(a)** Explain the effect on the supply curve and the equilibrium price and quantity. **[3]**
 
@@ -65,26 +81,32 @@ Related: [How Markets Work revision notes](/resources/gcse-economics-how-markets
 
 ## Answers
 
-**1. Demand** — as **price rises, quantity demanded falls**, other things being equal [1]. **Supply** — as **price rises, quantity supplied rises** [1].
+**1.** **D)** Both B and C — a rise in income increases demand for a normal good, and a rise in the price of a substitute makes this good relatively more attractive, both shifting the demand curve right [1].
 
-**2.** A **movement along** the curve is caused **only by a change in the price of the good itself** — an extension or contraction [1] [1]. A **shift** of the whole curve is caused by a **change in any other determinant of demand**, such as income or tastes, and means a different quantity is demanded at every price [1].
+**2.** **C)** Inelastic — the magnitude of the coefficient (0.4) is less than 1 [1].
 
-**3.** Any three, 2 marks each: a **rise in real incomes** — coffee is a normal good, so more is bought at every price [1] [1]; a **rise in the price of a substitute such as tea** — consumers switch to coffee [1] [1]; a **fall in the price of a complement such as milk or sugar** — consuming coffee becomes cheaper overall [1] [1]; a **change in tastes or successful advertising** making coffee more popular [1] [1]; a **rise in population** [1] [1].
+**3.** **B)** Street lighting — it is non-excludable and non-rival, unlike the other options, which are all excludable and rival private goods [1].
 
-**4.** Any three, 2 marks each: **poor weather or a crop disease** destroying part of the harvest, so less can be supplied at every price [1] [1]; a **rise in costs of production**, such as fertiliser or fuel, making wheat less profitable to grow [1] [1]; the **removal of a government subsidy**, raising the effective cost to farmers [1] [1]; farmers **switching land to a more profitable crop** [1] [1]; **new taxes or regulation** raising the cost of production [1] [1].
+**4. Demand** — as **price rises, quantity demanded falls**, other things being equal [1]. **Supply** — as **price rises, quantity supplied rises** [1].
 
-**5. (a)** Wet weather **increases the demand for umbrellas at every price**, shifting the **demand curve to the right** [1] [1]. At the original price there is now **excess demand (a shortage)** [1], so the **equilibrium price rises and the equilibrium quantity rises** [1].
+**5.** A **movement along** the curve is caused **only by a change in the price of the good itself** — an extension or contraction [1] [1]. A **shift** of the whole curve is caused by a **change in any other determinant of demand**, such as income or tastes, and means a different quantity is demanded at every price [1].
+
+**6.** Any three, 2 marks each: a **rise in real incomes** — coffee is a normal good, so more is bought at every price [1] [1]; a **rise in the price of a substitute such as tea** — consumers switch to coffee [1] [1]; a **fall in the price of a complement such as milk or sugar** — consuming coffee becomes cheaper overall [1] [1]; a **change in tastes or successful advertising** making coffee more popular [1] [1]; a **rise in population** [1] [1].
+
+**7.** Any three, 2 marks each: **poor weather or a crop disease** destroying part of the harvest, so less can be supplied at every price [1] [1]; a **rise in costs of production**, such as fertiliser or fuel, making wheat less profitable to grow [1] [1]; the **removal of a government subsidy**, raising the effective cost to farmers [1] [1]; farmers **switching land to a more profitable crop** [1] [1]; **new taxes or regulation** raising the cost of production [1] [1].
+
+**8. (a)** Wet weather **increases the demand for umbrellas at every price**, shifting the **demand curve to the right** [1] [1]. At the original price there is now **excess demand (a shortage)** [1], so the **equilibrium price rises and the equilibrium quantity rises** [1].
 **(b)** The **shortage causes buyers to bid the price up** [1]; the higher price **encourages producers to extend supply** while simultaneously **causing some consumers to contract their demand** [1], until quantity demanded equals quantity supplied at the new, higher equilibrium price [1].
 
-**6. (a)** PED = %ΔQd ÷ %ΔP = −25 ÷ 10 [1] = **−2.5** [1]; since the magnitude exceeds 1, demand is **elastic** [1].
+**9. (a)** PED = %ΔQd ÷ %ΔP = −25 ÷ 10 [1] = **−2.5** [1]; since the magnitude exceeds 1, demand is **elastic** [1].
 **(b)** With inelastic demand, the **percentage fall in quantity is smaller than the percentage rise in price** [1], so **total revenue increases** [1]; consumers have few alternatives, so they continue to buy despite the higher price [1].
 **(c)** Any two: **many close substitutes are available**; the good takes up a **large proportion of income**; it is a **luxury rather than a necessity**; there is a **long time period** for consumers to adjust [1] [1].
 
-**7.** Tobacco and fuel are goods with **few substitutes and are addictive or necessities**, so demand for them is **inelastic** [1]. Because demand is inelastic, a **large price rise (from the tax) causes only a small fall in quantity demanded** [1], so tax revenue holds up even as the price rises, making these goods reliable sources of government revenue [1].
+**10.** Tobacco and fuel are goods with **few substitutes and are addictive or necessities**, so demand for them is **inelastic** [1]. Because demand is inelastic, a **large price rise (from the tax) causes only a small fall in quantity demanded** [1], so tax revenue holds up even as the price rises, making these goods reliable sources of government revenue [1].
 
-**8. Market failure** is where the free market **misallocates resources** [1], failing to achieve the most efficient outcome for society. Any two examples: **negative externalities** such as pollution [1]; **positive externalities** such as vaccination [1]; **public goods** that no firm will supply [1]; **merit or demerit goods** consumed at the wrong level due to imperfect information [1].
+**11. Market failure** is where the free market **misallocates resources** [2], failing to achieve the most efficient outcome for society. Any two examples, 1 mark each: **negative externalities** such as pollution; **positive externalities** such as vaccination; **public goods** that no firm will supply; **merit or demerit goods** consumed at the wrong level due to imperfect information [1] [1].
 
-**9. (a)** The **supply curve shifts left**, since less is available at every price [1]. Demand is unchanged, so at the old price there is now **excess demand (a shortage)** [1], and the price is **bid up** while the **equilibrium quantity falls** [1].
+**12. (a)** The **supply curve shifts left**, since less is available at every price [1]. Demand is unchanged, so at the old price there is now **excess demand (a shortage)** [1], and the price is **bid up** while the **equilibrium quantity falls** [1].
 
 **(b)** Coffee has **few close substitutes**, so demand is **relatively inelastic** [1]. This means the **price rise is proportionally large while the fall in quantity is comparatively small** [1], so total revenue (price × quantity) to remaining growers **may actually rise** despite selling less [1].
 

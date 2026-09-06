@@ -43,7 +43,7 @@ number of particles     N = n x 6.02 x 10^23
 
 percentage yield        (actual / theoretical) x 100
 atom economy            (sum of Mr x coefficient for desired product) /
-                        (sum of Mr x coefficient for ALL products) x 100
+                        (sum of Mr x coefficient for ALL reactants) x 100
 ```
 
 **Unit discipline:** for pV = nRT, pressure in **Pa**, volume in **m³**, temperature in **K**. Convert: kPa × 1000, cm³ ÷ 10⁶, °C + 273.
@@ -102,8 +102,10 @@ where n = Mr(molecular) / Mr(empirical)
 
 ## Percentage yield vs atom economy
 
+*("Atom economy" is not itself a 9701 syllabus term — only percentage yield is named in the syllabus learning outcomes — but the underlying idea is useful background for understanding why some reactions waste more reactant mass than others.)*
+
 - **Yield** measures how much of the theoretical product was actually obtained — losses come from incomplete reaction, side reactions and transfer losses.
-- **Atom economy** measures how much of the reactant mass ends up in the *desired* product — a reaction can have 100% yield and poor atom economy if it produces a lot of by-product.
+- **Atom economy** measures how much of the reactant mass ends up in the *desired* product — calculated as (M_r of desired product ÷ total M_r of all reactants) × 100 — a reaction can have 100% yield and poor atom economy if it produces a lot of by-product.
 
 Addition reactions have 100% atom economy; substitution and elimination do not.
 
@@ -128,4 +130,4 @@ Addition reactions have 100% atom economy; substitution and elimination do not.
 6. Find the formula of aluminium oxide from Al³⁺ and O²⁻.
 7. Write the full and ionic equations for silver nitrate solution reacting with sodium chloride solution to form a silver chloride precipitate.
 
-**Answers:** 1. V = 0.025 dm³; n = 0.200 × 0.025 = **5.00 × 10⁻³ mol**. 2. Mg: 6.0/24.3 = 0.247 mol ÷ 2 = 0.123. O₂: 4.0/32 = 0.125 mol ÷ 1 = 0.125. Mg gives the smaller value, so **Mg is limiting** (O₂ is in excess). 3. pV = nRT, with p in Pa, V in m³, T in K, R = 8.31 J K⁻¹ mol⁻¹. 4. 52.2/12 = 4.35; 13.0/1 = 13.0; 34.8/16 = 2.175. Divide by 2.175 → 2 : 6 : 1 → **C₂H₆O**. 5. Yield compares actual product obtained with the theoretical maximum; atom economy compares the mass of the desired product with the total mass of all products formed. 6. LCM of 3 and 2 is 6, so two Al³⁺ and three O²⁻ → **Al₂O₃**. 7. Full: AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq); ionic: Ag⁺(aq) + Cl⁻(aq) → AgCl(s), with Na⁺ and NO₃⁻ omitted as spectator ions.
+**Answers:** 1. V = 0.025 dm³; n = 0.200 × 0.025 = **5.00 × 10⁻³ mol**. 2. Mg: 6.0/24.3 = 0.247 mol ÷ 2 = 0.123. O₂: 4.0/32 = 0.125 mol ÷ 1 = 0.125. Mg gives the smaller value, so **Mg is limiting** (O₂ is in excess). 3. pV = nRT, with p in Pa, V in m³, T in K, R = 8.31 J K⁻¹ mol⁻¹. 4. 52.2/12 = 4.35; 13.0/1 = 13.0; 34.8/16 = 2.175. Divide by 2.175 → 2 : 6 : 1 → **C₂H₆O**. 5. Yield compares actual product obtained with the theoretical maximum; atom economy compares the mass of the desired product with the total mass of all reactants. 6. LCM of 3 and 2 is 6, so two Al³⁺ and three O²⁻ → **Al₂O₃**. 7. Full: AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq); ionic: Ag⁺(aq) + Cl⁻(aq) → AgCl(s), with Na⁺ and NO₃⁻ omitted as spectator ions.

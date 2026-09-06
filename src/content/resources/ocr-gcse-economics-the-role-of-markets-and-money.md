@@ -71,6 +71,57 @@ National and International Economics -- depends on.
   and calculating how interest rates affect saving, borrowing and
   investment.
 
+## Core content: markets, prices and firms
+
+**Economic sectors and markets.** The **primary** sector extracts raw
+materials (farming, mining, fishing); the **secondary** sector
+manufactures goods from them; the **tertiary** sector provides
+services. A **product market** is where a good or service is bought
+and sold; a **factor market** is where a factor of production (land,
+labour, capital, enterprise) is bought and sold -- the labour market is
+the factor market covered later in this topic.
+
+**The demand curve** slopes **downward** from left to right: as price
+falls, quantity demanded rises, because consumers can afford more and
+switch away from substitutes. A change in the good's own price causes
+a **movement along** the curve; a change in income, tastes, the price
+of substitutes or complements, population or advertising **shifts**
+the whole curve left (demand falls at every price) or right (demand
+rises at every price).
+
+**The supply curve** slopes **upward**: as price rises, producers are
+willing and able to supply more, since higher revenue can cover the
+extra cost of expanding output. A change in the good's own price
+causes a movement along the supply curve; a change in production
+costs, technology, taxes, subsidies, the number of firms or the
+weather (for some goods) shifts it.
+
+**Equilibrium price and quantity** occur where the demand and supply
+curves intersect -- the price at which quantity demanded exactly equals
+quantity supplied, so there is no pressure for price to change. Above
+equilibrium, excess supply pushes price down; below it, excess demand
+pushes price up.
+
+**Price elasticity of demand (PED)** = %ΔQd ÷ %ΔP. If |PED| > 1,
+demand is **elastic** and a price rise cuts total revenue; if
+|PED| < 1, demand is **inelastic** and a price rise raises total
+revenue. **Price elasticity of supply (PES)** = %ΔQs ÷ %ΔP, and is
+higher the more spare capacity and time producers have to respond.
+
+**Costs, revenue and profit.** Total cost = fixed cost + variable
+cost; average cost = total cost ÷ output. Total revenue = price ×
+quantity sold; average revenue = total revenue ÷ output. Profit =
+total revenue − total cost. Worked example: a firm producing 200
+units at a total cost of £8,000 and total revenue of £11,000 has
+average cost £8,000 ÷ 200 = £40, average revenue £11,000 ÷ 200 = £55,
+and profit £11,000 − £8,000 = £3,000.
+
+**Economies of scale** reduce **average** cost as a firm expands
+output -- through bulk purchasing, more efficient large-scale
+machinery, cheaper borrowing for larger firms, and spreading
+advertising cost over more units. Total cost still rises with output;
+it is cost *per unit* that falls.
+
 ## How the eight sub-topics build on each other
 
 Topic 2 is structured as a deliberate sequence rather than eight
@@ -147,8 +198,7 @@ and monetary policy, which appear later in the qualification.
 
 ## Official syllabus
 
-OCR, *GCSE (9-1) in Economics (J205) Specification*, Version 3.0
-(first assessment 2019), Section 2c, Content of J205/01 -- Introduction
+OCR, *GCSE (9-1) in Economics (J205) Specification*, Version 2.0
+(June 2026), Section 2c, Content of J205/01 -- Introduction
 to Economics, Topic 2 The role of markets and money,
-https://pastpapers.co/ocr/GCSE/Economics-J205/Specifications/306377-specification-accredited-gcse-economics-j205.pdf,
-fetched and verified in full 2026-09-02.
+[ocr.org.uk](https://www.ocr.org.uk/Images/306377-specification-accredited-gcse-economics-j205.pdf).

@@ -13,7 +13,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-as-cambridge-alevel-economics"
-description: "Demand and supply curves, price/income/cross elasticity, market equilibrium, and consumer and producer surplus -- the full content of Topic 2 for Cambridge AS & A Level Economics 9708, 2026-2028 series."
+description: "Demand and supply curves, price/income/cross elasticity, market equilibrium, and consumer and producer surplus -- a syllabus map and study guide for Topic 2 of Cambridge AS & A Level Economics 9708, 2026-2028 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
@@ -89,10 +89,29 @@ and the price of a related good. The syllabus expects candidates to calculate ea
 interpret both the **size** of the coefficient (how elastic) and its **sign** (for YED, positive means
 normal good, negative means inferior good; for XED, positive means substitutes, negative means
 complements), and to link PED specifically to what happens to a firm's total revenue when it changes
-price. **Price elasticity of supply (PES)** applies the same responsiveness logic to producers, and is
+price (the syllabus itself refers to this as **total expenditure on the product**; the two
+names describe the same quantity — price times quantity — seen from the seller's and the
+buyer's side respectively). **Price elasticity of supply (PES)** applies the same responsiveness logic to producers, and is
 explicitly linked to how quickly and easily firms can adjust output when market conditions change — a
 firm with easily expandable capacity has more elastic supply than one facing a fixed production
 constraint.
+
+## Elastic, inelastic and unitary — and what moves them
+
+A coefficient's **size** places it in one of five bands: **perfectly elastic** (infinite — any price
+rise cuts quantity to zero), **elastic** (magnitude greater than 1 — quantity responds proportionately
+more than price), **unitary** (magnitude exactly 1 — quantity and price change by the same proportion,
+so total expenditure is unchanged by a price change), **inelastic** (magnitude less than 1 — quantity
+responds proportionately less than price), and **perfectly inelastic** (zero — quantity does not
+change at all). PED also varies along the length of a single straight-line demand curve: it is most
+elastic near the top left (high price, low quantity) and becomes progressively more inelastic moving
+down and right, even though the curve's slope is constant throughout — magnitude, not slope, is what
+elasticity measures. The syllabus lists the main factors behind each elasticity: for PED, the number
+and closeness of substitutes, whether the good is a necessity or luxury, the proportion of income it
+absorbs, and how habit-forming it is; for YED, whether the good is normal or inferior, and how far
+income has already risen; for XED, how close a substitute or complement the other good is; and for
+PES, spare capacity, the time period allowed for producers to respond, and how easily inputs and
+stocks can be adjusted.
 
 ## Market equilibrium and the price mechanism
 
@@ -112,8 +131,10 @@ producers to respond to that signal.
 **Consumer surplus** is the difference between what consumers are willing to pay and what they actually
 pay; **producer surplus** is the difference between what producers actually receive and the minimum
 they would have accepted. Both change when market equilibrium changes, and the syllabus specifically
-asks candidates to connect this back to elasticity: the more inelastic demand or supply is, the more a
-given shift in the other curve alters the size of consumer or producer surplus.
+asks candidates to connect this back to elasticity in two matched cases: the more inelastic **demand**
+is, the more a given shift of the **supply** curve alters the size of consumer surplus, and the more
+inelastic **supply** is, the more a given shift of the **demand** curve alters the size of producer
+surplus.
 
 ## Common mistakes
 
@@ -130,7 +151,7 @@ given shift in the other curve alters the size of consumer or producer surplus.
 ## How to approach it
 
 Practise sketching diagrams for every concept in this topic — shifting curves, equilibrium changes,
-and shaded consumer/producer surplus areas — since Paper 2 and Paper 4 both reward diagrammatic as well
+and shaded consumer/producer surplus areas — since Paper 2 rewards diagrammatic as well
 as written explanation (AO1 explicitly credits "written, numerical and diagrammatic forms"). Work
 through calculation questions for all four elasticity measures until the formulae and sign
 interpretation are automatic, since this is one of the most heavily tested numerical skills at AS Level.

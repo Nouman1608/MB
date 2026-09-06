@@ -160,10 +160,10 @@ banks (how to support the economy), households (spend, save or
 borrow), workers (which job, and how hard to bargain for pay), trade
 unions (how to represent workers' interests) and firms (how to grow,
 what to produce, and by what method). The costs and revenue formulas
-in 3.7 are the most calculation-heavy content in this topic and are
-frequently tested numerically on Paper 1's multiple-choice questions,
-so practise moving between raw figures and the TC/ATC/FC/VC/AFC/AVC/TR/AR
-labels fluently rather than only recognising the definitions in words.
+in 3.7 are calculation-heavy content in this topic and can be tested
+numerically on Paper 1's multiple-choice questions, so practise moving
+between raw figures and the TC/ATC/FC/VC/AFC/AVC/TR/AR labels fluently
+rather than only recognising the definitions in words.
 
 ## Official syllabus
 

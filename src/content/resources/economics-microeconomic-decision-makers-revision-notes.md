@@ -24,11 +24,20 @@ Condensed for the final weeks. For the full explanation, use the
 ## Five decision-maker categories — one question each
 
 1. **Banks** — how to support the economy (central bank: monetary policy; commercial banks: deposits,
-   loans, payments).
+   loans, payments). See "Money and banking" below for the functions and characteristics of money.
 2. **Households** — spend, save or borrow? Driven by **income, rate of interest, confidence**.
 3. **Workers** — which job, and how hard to bargain for pay?
-4. **Trade unions** — how to represent workers' interests?
-5. **Firms** — how to grow, what to produce, by what method?
+4. **Trade unions** — how to represent workers' interests? See "Trade unions" below.
+5. **Firms** — how to grow, what to produce, by what method? See "Firms and production (3.6)" below.
+
+## Money and banking (3.1)
+
+Money has **four functions**: a **medium of exchange** (avoids the double coincidence of wants
+problem of barter), a **measure of value / unit of account** (lets prices be compared), a **store of
+value** (can be held and spent later without losing its usefulness, inflation permitting), and a
+**standard for deferred payment** (lets debts be agreed now and settled later). For money to perform
+these functions it needs **characteristics**: general acceptability, durability, portability,
+divisibility, scarcity (limited supply) and difficulty to counterfeit.
 
 ## Workers — the largest sub-topic, four parts
 
@@ -38,6 +47,35 @@ Condensed for the final weeks. For the full explanation, use the
 - **Earnings differences**: demand/supply, bargaining strength, discrimination, government policy —
   applied across skilled/unskilled, sector, gender, private/public.
 - **Division of labour**: advantages/disadvantages for workers, firms and the economy.
+
+## Trade unions (3.4)
+
+A **trade union** is an organisation of workers that engages in **collective bargaining** with
+employers over wages, working hours and working conditions, protects members' employment, and
+seeks to influence government policy. Its **strength** depends on factors such as the proportion of
+the workforce it represents (union density), the state of the economy and labour market, and the
+degree of employer and government support for union activity. Its effects must be weighed from
+**three separate viewpoints** — workers, firms and government — since the same union action (e.g. a
+successful pay claim) can be a benefit from one viewpoint (higher pay for workers) and a cost from
+another (higher costs for firms).
+
+**Advantages** of trade union activity can include higher pay and better conditions for members, and
+a collective voice that balances an individual worker's weaker bargaining position against an
+employer. **Disadvantages** can include higher costs for firms (potentially raising prices or
+reducing employment), and the risk of industrial action disrupting production.
+
+## Firms and production (3.6)
+
+Three linked ideas sit between firms' growth (3.5) and firms' costs and revenue (3.7):
+
+- **Demand for factors of production**: driven by demand for the firm's product, the price of
+  different factors relative to each other, their availability, and their productivity.
+- **Labour-intensive vs capital-intensive production**: whether a firm relies mainly on labour or
+  mainly on capital (machinery) depends on the relative cost of each factor, the nature of the
+  product, and the scale of production.
+- **Production vs productivity**: **production** is the total quantity of output, while
+  **productivity** is output **per unit of input** (e.g. output per worker) — a firm can increase
+  production without increasing productivity, and vice versa.
 
 ## Firms' costs and revenue — the calculation-heavy table
 
@@ -54,7 +92,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Marginal cost and marginal revenue are NOT required at this level** — don't import them from a
 higher-level course. Practise moving between raw figures and these labels fluently; this is
-Paper 1's most calculation-heavy content.
+calculation-heavy content that can be tested on Paper 1.
 
 ## Mergers — three types, know which is which
 
@@ -111,15 +149,16 @@ rising local wages as firms compete for the same workers). Keep the internal/ext
 straight, since exam questions often ask you to classify a described cause into the correct category
 rather than just naming the general concept of "economies of scale."
 
-## Linking the three decision-makers together
+## Linking the decision-makers together
 
-Exam answers score highest when they show how the three decision-makers interact rather than treating
+Exam answers score highest when they show how the decision-makers interact rather than treating
 each in isolation. A firm's decision to increase output (a producer decision) changes the quantity of
-labour it demands (a worker decision from the other side of the labour market), and government
-intervention such as a minimum wage or a subsidy changes the incentives facing both the firm and the
-worker simultaneously. Practise tracing this kind of chain through a single scenario, since Paper 2's
-data-response questions are built around exactly this kind of interconnected reasoning rather than
-isolated definitions.
+labour it demands (a worker decision from the other side of the labour market). Government is not one
+of Topic 3's five decision-makers (it belongs to Topic 4, Government and the macroeconomy), but Topic 4
+policy such as a minimum wage or a subsidy changes the incentives facing both the firm and the worker,
+so it is worth noting as context here even though it is not itself a Topic 3 decision-maker. Practise
+tracing this kind of chain through a single scenario, since Paper 2's compulsory Section A data-response question is built
+around exactly this kind of interconnected reasoning rather than isolated definitions.
 
 ## Self-test
 

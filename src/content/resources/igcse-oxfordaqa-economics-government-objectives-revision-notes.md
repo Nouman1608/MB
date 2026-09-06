@@ -3,7 +3,7 @@ title: "OxfordAQA IGCSE Economics: Government Objectives — Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["igcse"]
-topic: "How the economy works"
+topic: "How economies work"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9214"]

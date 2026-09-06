@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-2-cambridge-alevel"
-description: "Condensed recall notes on rational-function algebra, logarithms/exponentials, extended trigonometry, differentiation/integration, and numerical methods for Cambridge International AS & A Level Mathematics (9709), Pure Mathematics 2."
+description: "Condensed recall notes on the modulus function and rational-function algebra, logarithms/exponentials, extended trigonometry, differentiation/integration, and numerical methods for Cambridge International AS & A Level Mathematics (9709), Pure Mathematics 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
@@ -21,11 +21,18 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Pure Mathematics 2 study guide](/resources/a-level-mathematics-pure-mathematics-2/).
 
-## 2.1 Algebra — fluency first
+## 2.1 Algebra — modulus first, then fluency with division
 
-**Factor theorem and polynomial division must be automatic** before
-moving on — later rational-function work assumes this, not a fresh
-challenge each time. Use the factor theorem to find roots, then
+**The modulus function |x|** gives the non-negative value of x,
+so |x| = x for x ≥ 0 and |x| = -x for x < 0 — its graph is a
+"V" shape reflected in the x-axis for negative x. Solve equations
+and inequalities involving a modulus by considering both the
+positive and negative case, or by squaring both sides when both
+sides are known to be non-negative (since |a| = |b| iff a² = b²).
+
+**Factor theorem and polynomial division must also be automatic**
+before moving on — later rational-function work assumes this, not a
+fresh challenge each time. Use the factor theorem to find roots, then
 divide to simplify or solve.
 
 ## 2.2 Logarithms and exponentials — practise as a pair
@@ -130,8 +137,9 @@ methods questions.
 
 9709 is modular: Pure Mathematics (Papers 1-3), Mechanics (Paper 4),
 Probability & Statistics (Papers 5-6). Pure Mathematics 2 (Paper 2)
-is only required for the full A Level -- it is not part of the
-standalone AS Pure Mathematics award built from Paper 1 alone.
+is offered only as part of the standalone AS Level award (Paper 1
+plus Paper 2); it does not count towards the full A Level, for which
+Paper 1 is instead paired with Paper 3.
 Students moving straight from Paper 1 into Paper 2 should expect
 single questions that combine techniques across several sub-topics at
 once, rather than the more isolated sub-topic testing typical of
@@ -139,8 +147,9 @@ Paper 1.
 
 ## Self-test
 
-1. What must be automatic before attempting rational-function
-simplification in 2.1?
+1. How do you solve an equation involving a modulus, and what must
+be automatic before attempting rational-function simplification in
+2.1?
 2. Why should logarithms and exponentials be practised as a pair
 rather than separately?
 3. What does a sign change across an interval demonstrate in 2.6 —
@@ -150,8 +159,10 @@ any expression in 2.4–2.5?
 5. Why is Pure Mathematics 2 a step up from Pure Mathematics 1 in
 how questions are structured?
 
-**Answers:** 1. Fluency with the factor theorem and polynomial
-division. 2. Because exam questions frequently mix index and
+**Answers:** 1. Consider the positive and negative case separately
+(or square both sides when both are non-negative); fluency with the
+factor theorem and polynomial division must also be automatic.
+2. Because exam questions frequently mix index and
 logarithmic representations within a single problem, rather than
 testing either form in isolation. 3. It demonstrates that a root lies
 within that interval; it does not tell you the root's actual value.

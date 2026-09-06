@@ -36,10 +36,13 @@ disequilibrium, and elasticity form the stated core of the section.
 Nearly every later section reuses its toolkit — firms' pricing
 decisions, labour markets, government intervention and exchange rates
 are all analysed with the demand-and-supply apparatus built here — so
-this is the topic where fluency pays off across the whole paper. Note
-that 2281 is published for the 2026 examination year specifically, so
-check the current syllabus rather than assuming continuity between
-years.
+this is the topic where fluency pays off across the whole paper. Note that 2281 continues under the same syllabus code as a multi-year
+series: this guide follows the version 2 syllabus document (published
+December 2025) used for the 2026 examination series. A separate
+syllabus applies for examinations in 2027, 2028 and 2029, which changes
+the assessment and renumbers this topic's sub-sections (the topic loses
+its opening sub-section and topic 3 is renumbered and shortened), so the
+section references below apply to the 2026 series only.
 
 ## Syllabus coverage
 
@@ -141,6 +144,6 @@ verified against the PDF on 24 August 2026 —
 - [The Allocation of Resources: Practice
   Questions](/resources/o-level-economics-the-allocation-of-resources-practice/) —
   original exam-style questions with full worked answers
-- [The Basic Economic Problem](/resources/igcse-economics-the-basic-economic-problem/) —
+- [The Basic Economic Problem](/resources/the-basic-economic-problem/) —
   the preceding topic that introduces scarcity, opportunity cost and
   production possibility curves

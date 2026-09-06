@@ -6,7 +6,7 @@ level: ["a-levels"]
 topic: "Marketing and people"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["YBS11"]
+syllabusCodes: ["WBS11"]
 syllabusSeries: "Issue 1, September 2017"
 order: 1
 stage: "AS"
@@ -44,7 +44,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## The marketing mix
 
-**Product** — the product life cycle runs introduction → growth → maturity → decline. **Extension strategies** (new packaging, new markets, product updates, price changes) delay decline. The **Boston Matrix** classifies a portfolio into stars, cash cows, question marks and dogs; cash cows fund the question marks.
+**Product** — the product life cycle runs development → introduction → growth → maturity → decline. **Extension strategies** (new packaging, new markets, product updates, price changes) delay decline. The **Boston Matrix** classifies a portfolio into stars, cash cows, question marks and dogs; cash cows fund the question marks.
 
 **Price:**
 
@@ -52,10 +52,10 @@ Condensed for the final weeks. For the full explanation, use the
 |---|---|
 | **Skimming** | High launch price for innovative products, lowered later |
 | **Penetration** | Low launch price to gain share quickly |
+| **Predatory** | Deliberately below cost, to force a weaker rival out of the market |
 | **Cost-plus** | Simple, but ignores the market |
 | **Competitive** | Matching rivals |
 | **Psychological** | £9.99 |
-| **Loss leader** | Below cost, to draw customers in |
 
 The right strategy depends on **PED**: where demand is inelastic, price can rise without much lost volume; where it is elastic, competing on price destroys revenue.
 
@@ -87,7 +87,7 @@ The mix must be **internally consistent**. Premium pricing with discount-channel
 
 **Centralisation** keeps decisions at the top — consistent and fast at the centre, but ignores local knowledge. **Decentralisation** pushes them down — responsive and motivating, but risks inconsistency.
 
-**Labour turnover** = leavers ÷ average number employed × 100. High turnover raises recruitment and training costs and loses knowledge, though some turnover brings in fresh ideas.
+*Labour turnover as a calculated metric (leavers ÷ average number employed × 100) belongs to the second-year unit on assessing competitiveness. At this stage, think about staff **retention** qualitatively: high staff turnover raises recruitment and training costs and loses expertise and continuity, though some turnover brings in fresh ideas -- and a strong answer explains* **why** *staff might be leaving (pay, motivation, management, working conditions) rather than naming the metric.*
 
 ## Answering the questions
 

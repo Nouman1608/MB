@@ -7,7 +7,7 @@ topic: "Understanding business activity"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["7115"]
-syllabusSeries: "2026"
+syllabusSeries: "For examination in 2026"
 order: 1.1
 syllabusTopics:
   - qualification: "o-level"

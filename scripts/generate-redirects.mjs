@@ -124,6 +124,14 @@ const CONSOLIDATED_RESOURCES = {
   // fix-up. See docs/decision-log.md D-119 for the full account. ---
   'law-english-legal-system-revision-notes': 'a-law-english-legal-system-revision-notes',
   'sociology-research-methods-revision-notes': 'igcse-sociology-methods-inequality-revision-notes',
+
+  // I166 fix-up, audit batch K3: this file's slug promised "global
+  // economy" (economic development and the global economy) content but
+  // its title, topic/subtopic tags and body were entirely Measurement of
+  // Macroeconomic Performance (a different sub-topic of the same unit).
+  // Renamed to match its actual content; the old slug now redirects
+  // forward to the renamed file.
+  'oxfordaqa-a-level-economics-global-economy-revision-notes': 'oxfordaqa-a-level-economics-macroeconomic-performance-revision-notes',
 };
 
 /**

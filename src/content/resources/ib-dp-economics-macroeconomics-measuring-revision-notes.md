@@ -6,7 +6,7 @@ level: ["ib"]
 topic: "Unit 3 – Macroeconomics (3.1–3.3)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
-syllabusCodes: ["DP Economics"]
+syllabusCodes: []
 syllabusSeries: "First assessment 2022"
 order: 2
 syllabusTopics:
@@ -30,7 +30,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Measuring economic activity (3.1)
 
-**GDP** — total output/income of an economy. **GNI** — additionally accounts for income earned by residents **abroad**. IB mark schemes credit **stating the distinction**, not just naming both terms.
+**GDP** — total output/income of an economy. **GNI** — GDP plus **net income from abroad** (income residents earn abroad minus income paid to non-residents), which can be negative for economies with large inward foreign investment. IB mark schemes credit **stating the distinction**, not just naming both terms.
 
 ```
 Business cycle phases: EXPANSION -> PEAK -> CONTRACTION (recession) -> TROUGH
@@ -51,26 +51,36 @@ Business cycle phases: EXPANSION -> PEAK -> CONTRACTION (recession) -> TROUGH
 
 ## Worked example: reading combined data
 
-Real GDP growth falls from 4% to 1% over two years, while inflation rises from 2% to 6%. What does AD-AS suggest?
+Real GDP growth *rate* falls from 4% to 1% over two years (output is still rising, just more slowly), while the inflation *rate* rises from 2% to 6% (prices are still rising, just faster). What does AD-AS suggest?
 
 ```
-OBSERVATION: growth slowing sharply + inflation rising -- the
-             classic signature of an ADVERSE SUPPLY SHOCK, not a
-             demand change.
+OBSERVATION: the GROWTH RATE is slowing while the INFLATION RATE is
+             rising -- output and prices are both still RISING, so
+             this is NOT a recession and NOT a fall in the price
+             level.
 
-WHY NOT AD: a rightward AD shift raises BOTH output and price
-            level TOGETHER -- doesn't explain slower growth with
-            higher inflation.
+WHY NOT A SIMPLE AD STORY: a rightward AD shift tends to raise both
+            the growth rate and the inflation rate together
+            (demand-pull) -- on its own it doesn't obviously explain
+            slower growth alongside faster inflation.
 
-WHY AS: a leftward shift in short-run AS (e.g. rising input costs)
-        raises price level WHILE reducing real output --
-        matches both parts of the data at once.
+A CONSISTENT STORY: weaker demand growth (moderating the rise in
+        output) combined with an adverse cost-push pressure (e.g.
+        rising input costs) is consistent with slower growth and
+        higher inflation together. A leftward shift in short-run AS
+        predicts a FALL in the LEVEL of output, which this data does
+        not show, so it cannot be the sole explanation -- at most
+        cost-push pressure is adding to inflation while demand growth
+        has weakened.
 
-CONCLUSION: negative supply-side shock, not demand-side --
-            different policy implications follow.
+CONCLUSION: distinguish LEVELS from RATES OF CHANGE -- this is
+            decelerating growth and accelerating inflation, not a
+            recession, and the explanation should combine weaker
+            demand growth with cost-side pressure rather than claim a
+            single leftward AS shift matches the extract.
 ```
 
-**Distinguish demand-side from supply-side explanations using the DIRECTION of both output and price-level change TOGETHER**, not just one variable in isolation — this is exactly what IB data-response questions test.
+**A recession is a fall in the LEVEL of real output; slower growth is a fall in the RATE of growth, with output still rising** — confusing the two is one of the most heavily tested errors on this sub-topic.
 
 ## Macroeconomic objectives (3.3)
 
@@ -78,37 +88,59 @@ CONCLUSION: negative supply-side shock, not demand-side --
 1. Economic growth
 2. Low unemployment
 3. Low and stable inflation
-4. Equity in income distribution
+4. Sustainable level of government debt (HL only)
 ```
 
-(HL extension: calculating a misery index, or interpreting a Lorenz curve/Gini coefficient in more depth.)
+(HL calculation element in this sub-topic: constructing a weighted price index from supplied data. Equity in the distribution of income is a related but separate concern, covered in the following sub-topic on inequality and poverty -- including the Lorenz curve and Gini coefficient, both interpreted at SL, with construction of a Lorenz curve HL only.)
 
-Learn these as a **fixed set** — evaluation questions often ask which objective a policy serves and which it might conflict with (e.g. growth-boosting policy can worsen inflation).
+Learn these four as the objectives of *this* sub-topic — evaluation questions often ask which objective a policy serves and which it might conflict with (e.g. growth-boosting policy can worsen inflation); do not add equity to this list, since the syllabus places it in the next sub-topic.
 
 ## Worked example: a second data-response scenario
 
-A country's real GDP growth accelerates from 2% to 5% while inflation stays broadly stable at 2%. What does this suggest?
+A country's real GDP growth accelerates from 2% to 5% while the inflation *rate* stays broadly stable at around 2%. What does this suggest?
 
 ```
-OBSERVATION: growth rising, inflation stable -- output up without
-             a matching rise in the price level.
+OBSERVATION: the growth rate is rising while the inflation rate is
+             roughly steady -- note that a steady 2% inflation still
+             means the PRICE LEVEL keeps rising each year, just at a
+             constant rate; it is not a stable price level.
 
-WHY NOT a simple AD shift alone: a large rightward AD shift with
-        an unchanged AS curve would normally push the price level
-        up too, not leave it stable.
+WHY A DEMAND EXPLANATION IS NOT RULED OUT: on this syllabus, the
+        Keynesian aggregate supply curve has a fairly flat (elastic)
+        range at low levels of output. A rightward AD shift in that
+        range can raise real output with little or no rise in the
+        inflation rate, so faster growth with broadly stable inflation
+        is CONSISTENT with a demand-side expansion, not just a
+        supply-side one.
 
-MORE LIKELY EXPLANATION: a rightward shift in (long-run or
-        short-run) aggregate supply -- for example from improved
-        productivity or new technology -- expanding the economy's
-        capacity to produce more output WITHOUT the price pressure
-        a demand-side expansion alone would cause.
+A SUPPLY-SIDE EXPLANATION IS ALSO CONSISTENT: a rightward shift in
+        (long-run or short-run) aggregate supply -- for example from
+        improved productivity or new technology -- would also expand
+        output without adding inflationary pressure.
 
-CONCLUSION: the evidence is more consistent with a positive supply-
-        side change (or a combination of AD growth matched by AS
-        growth) than with demand-side growth on its own.
+CONCLUSION: this data extract is consistent with EITHER a demand-side
+        expansion operating in the elastic range of Keynesian AS, or a
+        favourable supply-side change, or some combination of the two
+        -- the data alone cannot distinguish between them, so avoid
+        asserting one explanation is "more consistent" than the other
+        without further evidence (e.g. what specifically changed in
+        the economy).
 ```
 
-Practising both directions -- adverse supply shocks (first worked example) and favourable supply-side improvements (this one) -- builds genuine fluency in reading combined output/price data rather than only recognising one specific pattern.
+Practising both directions -- adverse supply shocks (first worked example) and this more ambiguous case -- builds genuine fluency in reading combined output/inflation data rather than jumping to a single pattern, and in being precise about the price *level* versus the inflation *rate*.
+
+## What these notes do not cover
+
+These condensed notes focus on GDP/GNI, the business cycle, the AD-AS model, and the four
+macroeconomic objectives. They do **not** cover, and you should revise separately: the circular
+flow of income; the income/output/expenditure equivalence; real versus nominal, per capita and PPP
+measures and the price deflator calculation; well-being indices and the limitations of GDP/GNI for
+measuring well-being; the determinants of each AD component and alternative (including Keynesian)
+views of AS; inflationary/deflationary gaps and short-run versus long-run equilibrium; the
+measurement and causes of unemployment and the natural rate; the measurement and limitations of
+inflation, demand-pull versus cost-push inflation, deflation and disinflation; the Phillips curve;
+and this unit's four required calculations. The self-test below only checks the content above, not
+the full scope of 3.1-3.3.
 
 ## Linking 3.1-3.3 to the rest of Unit 3
 
@@ -140,6 +172,6 @@ Keep **two or three up-to-date real-world examples** for growth, inflation and u
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme Economics
-guide, published February 2020, updated to October 2020, first
-assessment 2022, sub-topics 3.1-3.3 —
-[ibo.org](https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/).
+guide, first assessment 2022, published February 2020 and updated May
+and August 2020, sub-topics 3.1-3.3 —
+[ibo.org](https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/economics-guide.pdf).

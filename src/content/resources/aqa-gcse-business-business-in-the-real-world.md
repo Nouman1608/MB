@@ -31,9 +31,12 @@ resources, marketing and finance.
 This topic sets up the foundational vocabulary and concepts --
 opportunity cost, business ownership, stakeholders -- that recur across
 every later topic, from Influences on business through to Finance.
-Because AQA Business is not split into separate papers by topic in the
-way some other GCSE Business specifications are, this content can be
-drawn on across the full assessment.
+Business in the real world is one of only two sections (alongside
+Influences on business) that is assessed on **both** Paper 1 and
+Paper 2; the other four sections -- business operations and human
+resources on Paper 1, marketing and finance on Paper 2 -- are each
+paper-specific. This content can therefore be drawn on across the
+full assessment.
 
 ## Syllabus coverage
 
@@ -54,9 +57,15 @@ decisions
 - 3.1.5 Business location — the factors influencing where a business
 locates, including proximity to market, raw materials, labour,
 competition and costs
-- 3.1.6 Business planning — the purpose and content of a business plan
+- 3.1.6 Business planning — the purpose and content of a business plan,
+and the basic financial terms and calculations it draws on: the
+difference between fixed costs, variable costs and total costs, and
+the concepts of revenue, costs, profit and loss
 - 3.1.7 Expanding a business — the reasons for and methods of business
-growth
+growth, unit cost advantages from economies of scale (including
+purchasing and technical economies of scale), the drawbacks of
+diseconomies of scale, and the calculation and interpretation of
+average unit costs
 
 ## How to approach it
 
@@ -123,19 +132,46 @@ committing money, which is why examiners reward answers that explain
 the plan's purpose in terms of both securing finance and reducing the
 entrepreneur's own risk of costly mistakes.
 
+The financial forecasts in a plan rest on basic terms the specification
+names directly: **fixed costs** stay the same regardless of output
+(rent, insurance), **variable costs** change directly with output
+(materials, packaging), and **total costs** are the two added together.
+**Revenue** is income from sales (price x quantity sold); **profit** is
+revenue minus total costs, and a **loss** occurs when total costs
+exceed revenue. A market stall selling 200 items a week at £5 each,
+with variable costs of £2 per item and fixed costs of £400 a week, has
+revenue of £1,000, variable costs of £400, total costs of £800, and a
+profit of £200 -- the calculation a business plan's financial section
+is built from.
+
 ## Expansion methods
 
 3.1.7 sets out the main reasons a business grows -- increased profit,
 economies of scale, greater market power, and reduced risk through
 diversification -- alongside the methods available: organic growth,
-built up gradually through reinvested profit and increased sales, and
-external growth, achieved rapidly through a merger with or takeover
-of another business. Each method carries its own trade-off: organic
-growth is slower but keeps the original owners in full control, while
-external growth is faster but brings integration challenges and can
-dilute control if new shareholders or partners are involved, so exam
-answers should weigh these trade-offs against the specific business
-scenario given rather than treating growth as uniformly positive.
+including franchising, opening new stores and expanding through
+e-commerce, and external growth, achieved through outsourcing, mergers
+and takeovers. Each method carries its own trade-off: organic growth is
+slower but keeps the original owners in full control, while external
+growth is faster but brings integration challenges and can dilute
+control if new shareholders or partners are involved, so exam answers
+should weigh these trade-offs against the specific business scenario
+given rather than treating growth as uniformly positive.
+
+Growth brings **economies of scale** -- falling average unit costs as
+output rises -- including **purchasing economies** (bulk-buying
+discounts on materials) and **technical economies** (more efficient
+large-scale machinery and production methods). Beyond a certain size,
+growth can instead cause **diseconomies of scale**, where average unit
+costs start to rise again because of poor communication, coordination
+problems across a larger organisation, and reduced staff motivation.
+The specification requires the calculation itself: **average unit
+cost = total cost ÷ output**. A factory producing 10,000 units at a
+total cost of £80,000 has an average unit cost of £8; if expansion
+lowers total cost to £135,000 for 20,000 units, the average unit cost
+falls to £6.75, illustrating an economy of scale -- and a subsequent
+rise in average unit cost as output grows further would signal
+diseconomies of scale instead.
 
 ## Official syllabus
 

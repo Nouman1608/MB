@@ -12,15 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "how-markets-work-aqa-gcse-economics"
-description: "Economic foundations, resource allocation, price determination, production and costs, market structures, and market failure -- the full content of Paper 1 for AQA GCSE Economics (8136)."
+description: "A specification map of Paper 1 for AQA GCSE Economics (8136), with in-depth notes on price determination (demand, supply, equilibrium and elasticity), market structures and market failure."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
-This guide covers **Topic 1 How markets work**, examined as Paper 1 of
+This guide covers **section 3.1, How markets work**, examined as Paper 1 of
 AQA GCSE Economics (8136), for first teaching from September 2017. It
-is one of two subject-content sections, alongside Paper 2 How the
+is one of two subject-content sections, alongside section 3.2, How the
 economy works, and introduces the core microeconomic concepts that
 underpin the qualification.
 
@@ -53,6 +53,12 @@ market structures for producers and consumers
 allocate resources efficiently
 
 ## How to approach it
+
+This guide's detailed notes focus on 3.1.3, 3.1.5 and 3.1.6; the
+economic foundations (3.1.1), resource allocation (3.1.2) and
+production, costs, revenue and profit (3.1.4) sub-topics are listed
+above for the specification map but are not covered in depth here, so
+revise them from your course materials alongside this guide.
 
 Economic foundations (3.1.1) sets the reasoning pattern -- scarcity
 forces choice, and every choice carries an opportunity cost -- that

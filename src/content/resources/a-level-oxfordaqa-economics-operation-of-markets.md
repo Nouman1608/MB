@@ -38,27 +38,27 @@ operation of markets.
 **OXFORDAQA INTERNATIONAL A-LEVEL ECONOMICS (9640) — TOPIC 1 THE
 OPERATION OF MARKETS, MARKET FAILURE AND THE ROLE OF GOVERNMENT**
 
-- 1.1 The economic problem and methodology — economics as a social
+- 3.1.1 The economic problem and methodology — economics as a social
 science, scarcity, choice and the economic problem
-- 1.2 How markets work — the interaction of demand and supply in
+- 3.1.2 How markets work — the interaction of demand and supply in
 determining price and quantity
-- 1.3 An introduction to production, costs, revenue and profit — how
+- 3.1.3 An introduction to production, costs, revenue and profit — how
 firms' production decisions relate to costs, revenue and profit
-- 1.4 Competitive and concentrated markets — how the degree of
+- 3.1.4 Competitive and concentrated markets — how the degree of
 competition affects firm behaviour and market outcomes
-- 1.5 Market failure and government intervention in markets — the
+- 3.1.5 Market failure and government intervention in markets — the
 circumstances in which markets fail, and the government policies used
 to address them
 
 ## How to approach it
 
-The economic problem and methodology (1.1) sets the analytical style
+The economic problem and methodology (3.1.1) sets the analytical style
 expected across the whole course: explicit awareness of assumptions
 and their limitations, not just description of models. How markets
-work (1.2) is the most diagram-heavy sub-topic, so build fluency
+work (3.1.2) is the most diagram-heavy sub-topic, so build fluency
 drawing and explaining shifts in demand and supply diagrams before
-moving to the more applied content in 1.3-1.5. Market failure and
-government intervention (1.5) is the most evaluative sub-topic:
+moving to the more applied content in 3.1.3-3.1.5. Market failure and
+government intervention (3.1.5) is the most evaluative sub-topic:
 practise applying each type of market failure to a real or plausible
 example and critically assessing whether a specific government
 intervention actually corrects it, since this evaluative skill
@@ -68,9 +68,9 @@ distinguishes stronger answers from purely descriptive ones.
 
 No prior economics is assumed, but the topic moves quickly into
 diagrams. If graph work is unfamiliar, spend an hour on reading axes,
-plotting a line and interpreting a shift before starting 1.2.
+plotting a line and interpreting a shift before starting 3.1.2.
 
-## 1.1 The economic problem and methodology
+## 3.1.1 The economic problem and methodology
 
 **Scarcity** is the starting point of the entire subject: wants are
 unlimited while resources are finite, so choices must be made, and
@@ -91,8 +91,8 @@ concave to the origin because resources are not perfectly substitutable
 between uses, so opportunity cost rises as more of one good is made.
 An outward shift represents economic growth.
 
-**Methodology** is what 9640 examines more heavily than most
-specifications. Economics is a **social science**: it builds models by
+**Methodology** is worth securing early in your revision of 9640.
+Economics is a **social science**: it builds models by
 making simplifying assumptions, most commonly *ceteris paribus* — all
 other things held equal. A model is judged by how usefully it predicts,
 not by whether its assumptions are literally true. **Positive**
@@ -102,7 +102,17 @@ rose to 6%" is positive; "inflation is too high" is normative. A
 positive statement can be false and still be positive — testability,
 not truth, is the criterion.
 
-## 1.2 How markets work
+## 3.1.2 How markets work
+
+**Specialisation, the division of labour and exchange** are the
+starting point for why markets exist at all: specialisation means
+concentrating on producing a narrow range of output, and the
+**division of labour** breaks production into separate tasks performed
+by different workers, both raising output through practice,
+mechanisation and economies of scale. Both create **interdependence**,
+since a specialised producer no longer makes everything it needs,
+which requires **exchange** through markets rather than self-sufficient
+production.
 
 **Demand** slopes downward because of the income effect (a lower price
 raises real income) and the substitution effect (the good becomes
@@ -147,7 +157,16 @@ absorbs most of the tax. A positive XED indicates substitutes; a
 negative XED indicates complements. A negative YED identifies an
 inferior good.
 
-## 1.3 Production, costs, revenue and profit
+**The competitive market process** is dynamic, not a one-off
+snapshot: price signals scarcity, profit opportunities attract new
+entrants or resources into an industry, and losses drive resources
+out, so that -- left alone -- a competitive market continuously
+reallocates resources towards what consumers value most. This process
+is what "efficient resource allocation" means in practice, and it is
+the benchmark section 3.1.4 uses to judge how far a given market
+structure falls short of it.
+
+## 3.1.3 Production, costs, revenue and profit
 
 ```
 total revenue = price x quantity
@@ -170,9 +189,9 @@ large to communicate and coordinate effectively.
 Distinguish **normal profit** (the minimum return needed to keep the
 entrepreneur in the industry, treated as a cost) from **supernormal
 profit** (anything above it). This distinction drives every
-market-structure conclusion in 1.4.
+market-structure conclusion in 3.1.4.
 
-## 1.4 Competitive and concentrated markets
+## 3.1.4 Competitive and concentrated markets
 
 | Structure | Firms | Barriers | Long-run profit |
 |---|---|---|---|
@@ -198,7 +217,7 @@ and supernormal profit may fund research and development. A balanced
 answer weighs higher prices and restricted output against dynamic
 efficiency and lower unit costs.
 
-## 1.5 Market failure and government intervention
+## 3.1.5 Market failure and government intervention
 
 Market failure is the misallocation of resources by the free market.
 
@@ -210,6 +229,7 @@ Market failure is the misallocation of resources by the free market.
 | **Merit / demerit goods** | Information failure causes benefits or harms to be misjudged |
 | **Monopoly power** | Output restricted, price above the competitive level |
 | **Immobility of factors** | Labour cannot move between regions or occupations, so unemployment persists |
+| **Inequitable distribution of income and wealth** | The free market rewards factors of production according to what they earn in the market, which can leave some individuals and households with very low incomes or none at all |
 
 A public good must be defined by **both** properties: non-payers cannot
 be excluded, and one person's consumption does not reduce what is
@@ -286,13 +306,13 @@ information failure the tax alone cannot.
   predict tax incidence.
 - I can explain why perfect competition yields only normal profit in
   the long run while monopoly retains supernormal profit.
-- I can identify six types of market failure and evaluate at least
+- I can identify seven types of market failure and evaluate at least
   three policy responses, including government failure.
 
 ## Related resources
 
-- [Basic Economic Ideas and Resource Allocation](/resources/a-level-economics-basic-economic-ideas-and-resource-allocation/)
-- [The Basic Economic Problem](/resources/igcse-economics-the-basic-economic-problem/)
+- [The Operation of Markets revision notes](/resources/oxfordaqa-a-level-economics-markets-revision-notes/)
+- [The Operation of Markets practice questions](/resources/oxfordaqa-a-level-economics-markets-practice/)
 
 ## Official syllabus
 

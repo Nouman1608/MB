@@ -1,19 +1,19 @@
 ---
-title: "Edexcel A Level Business: Managing Business Activities (YBS11)"
+title: "Edexcel A Level Business: Managing Business Activities (WBS12)"
 resourceType: "study-guides"
 subject: "business"
 level: ["a-levels"]
 topic: "Managing business activities"
 boards: ["edexcel"]
 qualifications: ["a-level"]
-syllabusCodes: ["YBS11"]
+syllabusCodes: ["WBS12"]
 syllabusSeries: "Issue 1, September 2017"
 stage: "AS"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "managing-business-activities-edexcel-alevel-business"
-description: "Planning and raising finance, financial planning, and managing finance -- the full content of Unit 2 for Pearson Edexcel International A Level Business (YBS11)."
+description: "Planning and raising finance, financial planning, managing finance, resource management, and external influences -- the full content of Unit 2 (entry code WBS12) for Pearson Edexcel International A Level Business (YBS11/XBS11)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -27,21 +27,22 @@ short-open response and extended-writing questions based on sources,
 some of which draw on Unit 1 knowledge and require quantitative
 skills.
 
-## Where this fits in YBS11
+## Where this fits in Unit 2 (WBS12)
 
 Unit 1 looks at how a business identifies and meets customer needs
 through marketing and people management. Unit 2 turns to the
 operational and financial side: how a business is planned and
-financed, how it forecasts and manages its money, and what causes
-businesses to fail. Together the two units make up the full
-International AS -- the first half of the qualification, with Units 3
-and 4 (Business decisions and strategy; Global business) completing
-the full International A Level.
+financed, how it forecasts and manages its money, what causes
+businesses to fail, how it manages its resources and production, and
+how external influences affect its decisions. Together the two units
+make up the full International AS -- the first half of the
+qualification, with Units 3 and 4 (Business decisions and strategy;
+Global business) completing the full International A Level.
 
-## Syllabus coverage
+## Specification coverage
 
-**PEARSON EDEXCEL INTERNATIONAL A LEVEL BUSINESS (YBS11) — UNIT 2
-MANAGING BUSINESS ACTIVITIES**
+**PEARSON EDEXCEL INTERNATIONAL A LEVEL BUSINESS — UNIT 2
+MANAGING BUSINESS ACTIVITIES (WBS12)**
 
 - 2.3.1 Planning a business and raising finance — the content and uses
 of a business plan; internal finance (owner's capital, retained
@@ -75,6 +76,25 @@ management; and the internal causes (poor cash-flow management,
 overestimated sales, overtrading, poor inventory control, poor
 marketing, poor quality) and external causes (market conditions,
 competition, economic factors, exchange rates) of business failure
+- 2.3.4 Resource management — methods of production (job, batch, flow,
+cell), productivity, efficiency, the distinction between labour- and
+capital-intensive production, and competitive advantage from short
+product lead-in times; capacity utilisation (current output divided
+by maximum possible output × 100), the implications of under- and
+over-utilisation, and ways to improve it; inventory control, buffer
+inventory, the implications of poor inventory control, just-in-time,
+waste minimisation and competitive advantage from lean production; and
+quality control, quality assurance, quality circles, Total Quality
+Management and continuous improvement (Kaizen)
+- 2.3.5 External influences — the effect on businesses of, and how
+they can best respond to, changes in inflation, exchange rates
+(appreciation and depreciation), interest rates, taxation and
+government spending, and the business cycle; the effects on businesses
+of consumer, employee and environmental protection, competition
+policy, health and safety, and intellectual property rights; and the
+effects on businesses of competition in terms of competitor numbers,
+size and behaviour, including ways for a small business to compete in
+a competitive market
 
 ## How to approach it
 
@@ -91,7 +111,17 @@ control, its risk profile) rather than simply listing options, and
 exam questions frequently present a short case and ask which method
 is most suitable and why. When revising business failure, keep
 internal and external causes as two clearly separated lists -- exam
-answers that blur the two rarely access full marks for analysis.
+answers that blur the two rarely access full marks for analysis. For
+resource management (2.3.4), be ready to calculate capacity
+utilisation and to explain the implications of a business operating
+above or below full capacity, and to link a specific production
+method (job, batch, flow, cell) to a specific product or order size
+rather than describing all four in the abstract. For external
+influences (2.3.5), practise tracing a named factor -- a change in
+interest rates, exchange rates or a new piece of legislation -- through
+to its specific effect on a given business's costs, revenue or
+decisions, since Edexcel rewards this causal chain far more than a
+list of PESTLE-style categories.
 
 ## Common mistakes
 
@@ -128,6 +158,20 @@ Students commonly lose marks by dividing fixed costs by selling price
 rather than contribution, or by forgetting to state the margin of
 safety as a separate figure when a question asks for it explicitly.
 
+A factory has a maximum possible output of 10,000 units a month and
+currently produces 7,000 units.
+
+```
+Capacity utilisation = current output / maximum possible output x 100
+                      = 7,000 / 10,000 x 100
+                      = 70%
+```
+
+Operating at 70% leaves the factory with spare capacity to respond to
+a rise in orders, but it is also spreading its fixed costs over fewer
+units than it could, raising its average cost per unit compared with
+running closer to full capacity.
+
 ## Quick revision checklist
 
 - List internal and external sources of finance separately, and match
@@ -143,13 +187,21 @@ each could be improved.
 two distinct lists rather than one blended list.
 - Practise interpreting a simple cash-flow forecast, including
 identifying a month where outflows exceed inflows.
+- Calculate capacity utilisation and explain the implications of
+under- and over-utilisation.
+- Link a production method (job, batch, flow, cell) and a quality
+approach (quality control, assurance, TQM, Kaizen) to a specific
+business scenario rather than defining them in the abstract.
+- Trace a named external influence (an economic change, a piece of
+legislation, or a change in the competitive environment) through to
+its specific effect on a given business.
 
 ## Related resources
 
 [Managing Business Activities revision notes](/resources/edexcel-a-level-business-managing-activities-revision-notes/) |
 [Managing Business Activities practice questions](/resources/edexcel-a-level-business-managing-activities-practice/)
 
-## Official syllabus
+## Official specification
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level
 Business specification, Issue 1, September 2017, section 2.3 Unit

@@ -7,7 +7,7 @@ topic: "Microeconomics"
 boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H460"]
-syllabusSeries: "For first teaching from 2019"
+syllabusSeries: "For first assessment 2021"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
@@ -38,16 +38,22 @@ sustainability issues -- that are assessed throughout the paper.
 **OCR A-LEVEL ECONOMICS (H460) — COMPONENT 1 MICROECONOMICS**
 
 - 1. Introduction to microeconomics — the economic problem (scarcity,
-choice, needs and wants), positive and negative statements, the role
+choice, needs and wants), normative and positive statements, the role
 of economic agents and the factors of production, the allocation of
 resources across market, planned and mixed economic systems, and
 opportunity cost with production possibility curves
-- 2. The role of markets — specialisation and the division of labour,
-money as a medium of exchange, and demand
+- 2. The role of markets (2.1-2.11) — 2.1 specialisation and trade;
+2.2 demand; 2.3 supply; 2.4 price determination and the interaction
+of markets; 2.5 the price mechanism; 2.6 elasticity of demand; 2.7
+elasticity of supply; 2.8 the concept of the margin; 2.9 consumer and
+producer surplus; 2.10 market failure, externalities, information
+failure and public goods; 2.11 government intervention in markets
 - 3. Business objectives — how businesses set and pursue objectives
-within a market context
-- 4. Market structures — how the degree of competition in a market
-affects the behaviour of firms
+within a market context, including costs, economies of scale, revenue
+and profit
+- 4. Market structures — perfect competition, monopoly, monopolistic
+competition, oligopoly and contestable markets, and how the degree of
+competition in a market affects the behaviour of firms
 - 5. The labour market — how wages and employment are determined in
 labour markets
 
@@ -93,12 +99,18 @@ PED is negative; determinants are substitutes, necessity, proportion of income, 
 
 YED distinguishes normal goods (positive), luxuries (greater than 1) and inferior goods (negative). XED is positive for substitutes and negative for complements.
 
+## Consumer and producer surplus, and the margin
+
+**Consumer surplus** is the difference between what consumers are willing to pay and what they actually pay, shown as the area below the demand curve and above the price. **Producer surplus** is the difference between what producers actually receive and the minimum they would accept, shown as the area above the supply curve and below the price. Total welfare is maximised where the two are jointly greatest, which is at the free-market equilibrium in the absence of market failure.
+
+Economic decisions are made **at the margin**: a rational consumer keeps buying one more unit as long as the marginal benefit exceeds the marginal cost, and a rational firm keeps producing one more unit as long as marginal revenue exceeds marginal cost. This marginal reasoning underpins both consumer choice and the profit-maximising output rule (MC = MR) used in market structures below.
+
 ## Market failure
 
 Market failure occurs when the free market misallocates resources.
 
 - **Externalities** — costs or benefits falling on third parties. Where negative externalities in production exist, marginal social cost exceeds marginal private cost and the market over-produces. Where positive externalities in consumption exist, as with education or vaccination, the market under-consumes.
-- **Public goods** — non-rival and non-excludable, so the free-rider problem means they are not provided at all by the market.
+- **Public goods** — non-rival (or non-diminishable), non-excludable, non-rejectable, and with zero marginal cost of an extra user; the free-rider problem means they are typically under-provided or not provided at all by a pure free market. Goods with only some of these characteristics, such as a toll road, are **quasi-public goods**.
 - **Merit and demerit goods** — under- and over-consumed because of imperfect information about long-term effects.
 - **Information gaps** and **monopoly power** complete the standard list.
 
@@ -107,6 +119,26 @@ Market failure occurs when the free market misallocates resources.
 Indirect taxes internalise external costs, subsidies encourage positive externalities, regulation and minimum or maximum prices constrain outcomes directly, and tradable permits create a market in the externality itself.
 
 Every one of these carries the risk of **government failure**: imperfect information, unintended consequences such as black markets under a maximum price, administrative cost, and regulatory capture. A strong evaluation always weighs the intervention against this possibility rather than assuming it works.
+
+## Business objectives, costs and revenue
+
+Firms may pursue **profit maximisation** (where MC = MR), **sales/revenue maximisation** (where MR = 0), or **satisficing** (an acceptable, rather than maximum, profit, often because ownership is separated from control). Total cost = fixed cost + variable cost; average cost = total cost ÷ output. **Economies of scale** — purchasing, technical, financial, managerial and marketing — reduce long-run average cost as output rises; beyond the minimum efficient scale, **diseconomies of scale** (chiefly problems of communication and coordination) raise it again. Total revenue = price × quantity; profit = total revenue − total cost.
+
+## Market structures
+
+Market structures are distinguished by the number of firms, barriers to entry, and the degree of product differentiation:
+
+- **Perfect competition** — many small firms, identical products, free entry and exit, perfect information; firms are price takers.
+- **Monopolistic competition** — many firms, differentiated products, low barriers to entry; some price-setting power but normal profit in the long run.
+- **Oligopoly** — a few large firms dominate the market (a high concentration ratio), interdependent pricing decisions, and non-price competition.
+- **Monopoly** — a single dominant firm with high barriers to entry, able to restrict output and sustain price above the competitive level and earn supernormal profit.
+- **Contestable markets** — markets with low barriers to entry and exit (low sunk costs), where the threat of "hit and run" entry can force even a dominant incumbent to behave competitively.
+
+The **concentration ratio** measures the combined market share of the largest firms in an industry (e.g. a three-firm concentration ratio sums the market shares of the three largest firms) and is used to judge how close a market is to oligopoly or monopoly.
+
+## The labour market
+
+Wages and employment are determined by the **demand for labour** (derived from the demand for the good or service labour produces, and dependent on labour's marginal revenue product) and the **supply of labour** (influenced by wages, non-monetary rewards, qualifications and barriers to entry into an occupation). The equilibrium wage clears the labour market where labour demand equals labour supply, exactly as in a product market.
 
 ## Worked example
 

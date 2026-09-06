@@ -60,19 +60,7 @@ Shareholders, employees, customers, suppliers, government, community, lenders.
 
 **Power and interest vary between groups**, which affects how closely a business must manage each: a small group with **high power and high interest** in a decision, such as a major shareholder, typically needs managing far more closely than a large but **low-interest** group, even where that group is more numerous.
 
-## The external environment
-
-**PESTLE** — Political, Economic, Social, Technological, Legal, Environmental.
-
-| Variable | Effect on business |
-|---|---|
-| **Interest rates** | Rising rates raise borrowing costs and cut consumer spending — durables and housing hit hardest |
-| **Exchange rates** | **SPICED** — Strong Pound, Imports Cheap, Exports Dear |
-| **Inflation** | Raises costs, creates uncertainty, drives wage demands |
-| **Unemployment** | Lowers wage pressure but also lowers demand |
-| **GDP growth** | Drives demand, especially for income-elastic goods |
-
-**Income elasticity decides who suffers in a recession.** Luxury goods have high positive YED and fall sharply; **inferior goods have negative YED**, so demand can actually *rise* — which is why discount retailers grow in downturns.
+*The external environment (PESTLE, exchange rates, inflation, income elasticity) is not part of this AS topic. It is examined under A Level Topic 6, Business and its environment (A Level), which builds on this topic but is not assessed at AS.*
 
 ## Growth
 
@@ -88,13 +76,7 @@ Shareholders, employees, customers, suppliers, government, community, lenders.
 
 **Economies of scale** lower **average** cost — total costs still rise. **Diseconomies** raise average cost when communication and coordination break down.
 
-## Strategy
-
-**SWOT** — strengths and weaknesses are **internal**; opportunities and threats are **external**. The useful move is pairing them: which strength exploits which opportunity.
-
-**Ansoff:** market penetration (lowest risk) → product development / market development → **diversification (highest risk)**, because both product and market are unfamiliar.
-
-**Porter's Five Forces** assesses the attractiveness of an **industry**, not the strength of a firm — a routine misapplication.
+*Business strategy (SWOT, PEST, Porter's five forces, the Ansoff matrix and the other strategic-planning tools) is not part of this AS topic. It is examined under A Level Topic 6.2 Business strategy, which is not assessed at AS.*
 
 ## Answering the questions
 
@@ -104,17 +86,15 @@ Shareholders, employees, customers, suppliers, government, community, lenders.
 
 - Generic answers with no case-study reference.
 - Listing stakeholders rather than explaining conflict.
-- Reversing the exchange-rate effect.
 - Saying economies of scale reduce total costs.
-- Using Five Forces on a single firm.
 - A conclusion without a criterion.
 
 ## Self-test
 
 1. What is the divorce of ownership from control, and how is it addressed?
-2. A currency strengthens — what happens to exporters?
-3. Why can discount retailers grow in a recession?
-4. Which parts of SWOT are internal?
-5. Why is diversification the riskiest Ansoff strategy?
+2. What is the difference between organic (internal) and external growth?
+3. Name two economies of scale a growing business might experience.
+4. Why does a small group with high power and high interest need closer management than a large, low-interest group?
+5. How does a new business's objectives typically differ from an established, profitable business's?
 
-**Answers:** 1. Shareholders own a plc but directors control decisions, so their objectives can diverge; share options and performance-related pay are used to align directors' interests with shareholders'. 2. Their goods become more expensive abroad, so exports fall — Strong Pound, Imports Cheap, Exports Dear. 3. Their goods are inferior goods with negative income elasticity, so as incomes fall demand for them rises. 4. Strengths and weaknesses. 5. Both the product and the market are new to the business, so it has no existing competence in either.
+**Answers:** 1. Shareholders own a plc but directors control decisions, so their objectives can diverge; share options and performance-related pay are used to align directors' interests with shareholders'. 2. Organic growth expands the business using its own resources and retains control but is slower; external growth is through merger or takeover, which is faster but carries integration risk and cost. 3. Any two, e.g. purchasing economies (bulk-buying discounts) and technical economies (large-scale production spreading the cost of specialist machinery). 4. Because that group has the power to block or force a decision and is actively interested in doing so, so it must be consulted and kept informed, unlike a group with little influence or engagement. 5. A new business typically prioritises survival and building a customer base, while an established, profitable business can prioritise growth, profit maximisation or increasing market share.

@@ -25,7 +25,7 @@ tiered: all candidates study the same content.
 
 ## Where this fits in 0455
 
-The basic economic problem is the first of eleven topics in 0455, and it
+The basic economic problem is the first of six topics in 0455, and it
 supplies the vocabulary every later topic depends on — scarcity,
 opportunity cost, and the factors of production reappear whenever the
 syllabus later asks candidates to analyse a market, a firm's decisions,

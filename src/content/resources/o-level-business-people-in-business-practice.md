@@ -7,7 +7,7 @@ topic: "People in business"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["7115"]
-syllabusSeries: "2026"
+syllabusSeries: "For examination in 2026"
 order: 2
 syllabusTopics:
   - qualification: "o-level"

@@ -40,12 +40,24 @@ objectives or its stakeholders' competing interests.
 **CAMBRIDGE AS & A LEVEL BUSINESS 9609 — TOPIC 1 BUSINESS AND ITS
 ENVIRONMENT**
 
-- 1.1 Enterprise — the role of the entrepreneur and the risks and
-rewards of enterprise
-- 1.2 Business structure — the main forms of business organisation and
+- 1.1 Enterprise — the nature of business activity (the purpose of
+business activity, the factors of production, adding value, the
+problem of choice and opportunity cost, why businesses succeed or
+fail, and the differences between local, national, international and
+multinational businesses); the role of entrepreneurs and intrapreneurs
+(the qualities they need, the role of entrepreneurship and
+intrapreneurship, barriers to entrepreneurship, business risk and
+uncertainty); and business plans (their meaning, purpose, key elements,
+benefits and limitations)
+- 1.2 Business structure — economic sectors (the primary, secondary,
+tertiary and quaternary sectors; the public and private sectors; the
+reasons for and consequences of their changing relative importance)
+and business ownership — the main forms of business organisation and
 their legal and practical implications
-- 1.3 Size of business — how business size is measured, and the
-opportunities and problems associated with growth
+- 1.3 Size of business — how business size is measured, the
+significance of small businesses (including the strengths and
+weaknesses of family businesses), and the opportunities and problems
+associated with growth
 - 1.4 Business objectives — the range of objectives a business may
 pursue, and how and why these change over time
 - 1.5 Stakeholders in a business — the internal and external groups
@@ -74,17 +86,52 @@ the course.
 
 ## Enterprise and risk in more depth
 
-1.1 asks candidates to understand enterprise as the willingness to
-take on the financial and personal risk of starting and running a
-business in pursuit of reward, and to recognise the specific skills
-and qualities that make entrepreneurship more likely to succeed:
-opportunity recognition, the ability to secure and manage finance,
-resilience in the face of setbacks, and the capacity to plan and
-adapt a business idea as circumstances change. Exam scenarios
-typically present a specific entrepreneur or business idea and ask
-candidates to assess the risks and potential rewards involved, so
-revision should focus on applying these qualities and risks to a given
-context rather than listing them as an abstract checklist.
+1.1.1 first requires the **nature of business activity** itself: the
+purpose of business activity is to combine the **factors of
+production** -- land, labour, capital and enterprise -- to produce
+goods and services that satisfy needs and wants. Businesses do this
+profitably by **adding value**, the difference between the cost of
+bought-in materials and the price customers are willing to pay, which
+can be increased through branding, design, service or convenience
+rather than price alone. Because resources are scarce and wants are
+unlimited, every business decision carries an **opportunity cost** --
+the value of the next-best alternative given up. The specification also
+expects candidates to explain **why businesses succeed or fail** (poor
+planning, insufficient finance, competition, and changes in the
+external environment are common causes) and to distinguish **local,
+national, international and multinational businesses** by the scale
+and geographic reach of their operations.
+
+1.1.2 then turns to enterprise as the willingness to take on the
+financial and personal risk of starting and running a business in
+pursuit of reward, and to recognise the specific skills and qualities
+that make entrepreneurship more likely to succeed: opportunity
+recognition, the ability to secure and manage finance, resilience in
+the face of setbacks, and the capacity to plan and adapt a business
+idea as circumstances change. The specification distinguishes
+**entrepreneurs**, who create and start up a new business, from
+**intrapreneurs**, who drive innovation and new ideas from within an
+existing business without bearing the full personal financial risk of
+starting one -- both matter to the ongoing success of an economy, not
+just start-ups. **Barriers to entrepreneurship** include access to
+finance, government regulation, fear of failure and lack of business
+skills or experience, and candidates should also be able to discuss
+the wider role enterprise plays in a country's economic development,
+such as job creation and innovation. Exam scenarios typically present a
+specific entrepreneur or business idea and ask candidates to assess the
+risks and potential rewards involved, so revision should focus on
+applying these qualities and risks to a given context rather than
+listing them as an abstract checklist.
+
+1.1.3 requires **business plans**: their purpose (clarifying the
+business idea, supporting applications for finance, and setting
+objectives against which progress can be judged), their key elements
+(the business idea, the target market, marketing and operational
+plans, and financial forecasts), and their benefits and limitations --
+a plan forces an entrepreneur to think through practical detail and
+reassures lenders and investors, but it is only as reliable as the
+assumptions and forecasts behind it, and a fast-changing market can
+make a plan outdated soon after it is written.
 
 ## Stakeholder conflict in more depth
 
@@ -124,25 +171,57 @@ business decision back to the objective it appears to be serving,
 rather than treating the decision in isolation from what the business
 is actually trying to achieve.
 
+## Economic sectors and business structure
+
+1.2.1 requires candidates to classify business activity into the
+**primary** sector (extracting raw materials), **secondary** sector
+(manufacturing and construction), **tertiary** sector (providing
+services) and **quaternary** sector (knowledge- and information-based
+activities such as research and IT), and to explain the reasons for
+and consequences of the changing relative importance of these sectors
+as an economy develops -- typically a shift away from primary and
+secondary activity and toward tertiary and quaternary activity as
+incomes rise. Businesses are also classified between the **public
+sector** (owned and funded by government, providing services rather
+than pursuing profit) and the **private sector** (owned by individuals
+or shareholders, generally profit-motivated), and candidates should be
+able to discuss businesses operating within each.
+
 ## Measuring and growing business size
 
-1.3 sets out that business size is not measured by a single figure
+1.3.1 sets out that business size is not measured by a single figure
 but by several different measures -- number of employees, annual
 turnover, capital employed, and market share -- each of which can give
 a different impression of the same business, so a firm with few
 employees but high turnover (a capital-intensive business, for
-instance) should not automatically be classed as small. Growth itself
-brings opportunities, including economies of scale that reduce average
-costs and greater market power, but also problems, including
-diseconomies of scale, communication difficulties across a larger
-organisation, and a potential loss of the close customer relationships
-a smaller business may have relied on. Exam scenarios often ask
-candidates to recommend a specific growth method for a given business,
-so being able to weigh organic growth (slower, but keeping the
-original owners in control) against external growth through merger or
-takeover (faster, but bringing integration risk) for the actual
-circumstances described is more valuable than being able to define
-each method in isolation.
+instance) should not automatically be classed as small.
+
+1.3.2 asks candidates to weigh the advantages and disadvantages of
+being a small business (closer customer relationships and lower
+overheads, against limited access to finance and vulnerability to
+larger competitors) and to recognise the particular **strengths and
+weaknesses of family businesses**: strengths typically include shared
+commitment, trust and a long-term outlook that does not depend on
+short-term shareholder pressure, while weaknesses include a smaller
+pool of management talent to draw on, the risk of disputes between
+family members spilling into the business, and succession problems
+when passing control to the next generation. Small businesses also
+matter to an economy beyond their individual size, since collectively
+they are a major source of employment and, in some industries, remain
+the dominant form of business despite the presence of much larger
+competitors.
+
+1.3.3 turns to growth itself, which brings opportunities, including
+economies of scale that reduce average costs and greater market power,
+but also problems, including diseconomies of scale, communication
+difficulties across a larger organisation, and a potential loss of the
+close customer relationships a smaller business may have relied on.
+Exam scenarios often ask candidates to recommend a specific growth
+method for a given business, so being able to weigh organic growth
+(slower, but keeping the original owners in control) against external
+growth through merger or takeover (faster, but bringing integration
+risk) for the actual circumstances described is more valuable than
+being able to define each method in isolation.
 
 ## Official syllabus
 

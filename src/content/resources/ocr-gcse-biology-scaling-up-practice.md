@@ -27,13 +27,9 @@ Related: [Scaling Up study guide](/resources/ocr-gcse-biology-scaling-up/) | [Sc
 
 ---
 
-## Section A
-
 **1.** State whether each transport mechanism requires energy: diffusion, osmosis, active transport. **[3]**
 
 **2.** State two places, other than embryonic animals, where stem cells are found. **[2]**
-
-## Section B
 
 **3.** Explain why a large multicellular organism cannot rely on diffusion alone to supply its cells with oxygen, in terms of surface area to volume ratio. **[4]**
 

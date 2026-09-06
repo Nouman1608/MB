@@ -77,10 +77,12 @@ how income and wealth are distributed across an economy.
   is a **stock** concept (the value of assets owned at a point in
   time -- property, savings, shares). Confusing the two, or their flow
   versus stock nature, is a common source of lost marks.
-- **Measuring inequality**: the **Gini coefficient** is the named
-  measure (calculation of the Gini coefficient itself is **not**
+- **Measuring inequality**: at AS Level, the **Gini coefficient** is the
+  named measure (calculation of the Gini coefficient itself is **not**
   required, but you should understand what it represents and how to
-  interpret a given value or Lorenz curve).
+  interpret a given value). Lorenz curve analysis, and the requirement
+  to calculate the Gini coefficient, are added at A Level (Topic 11,
+  income distribution).
 - **Economic reasons for inequality** of income and wealth between
   individuals and groups.
 - **Policies to redistribute income and wealth**, four of which are
@@ -98,11 +100,15 @@ tools* available for intervening in an individual market; 3.3 zooms
 out to the *economy-wide* question of how income and wealth end up
 distributed, and what governments can do about it. A strong exam
 answer on this topic typically needs to move between these levels: for
-example, explaining that a minimum price policy (3.2) might be
-justified by the under-consumption of a merit good (3.1), while also
-recognising that minimum prices alone do not address the underlying
-distribution of income and wealth (3.3) that limits some consumers'
-ability to buy that merit good in the first place.
+example, explaining that the under-consumption of a merit good (3.1)
+is best addressed by a subsidy, direct provision or the provision of
+information (3.2) -- a minimum price would only worsen under-consumption,
+since it raises price and creates a surplus, and is instead the tool
+used to address over-consumption of a demerit good or to support
+producer incomes -- while also recognising that these market-specific
+tools alone do not address the underlying distribution of income and
+wealth (3.3) that limits some consumers' ability to buy that merit good
+in the first place.
 
 ## How to approach it
 
@@ -126,7 +132,7 @@ general list of policy names.
 
 Cambridge International, *Cambridge International AS & A Level
 Economics (9708) syllabus for examination in 2026, 2027 and 2028*
-(Version 1, published September 2023): [official syllabus
+(Version 2, published December 2025): [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/697423-2026-2028-syllabus.pdf),
 Subject content, Topic 3 "Government microeconomic intervention".
 Verified 2026-09-02.

@@ -150,13 +150,14 @@ recycling, waste disposal, noise/air pollution.
 - Keep "environmental considerations" and "sustainability" as related
 but separate named content areas.
 
-This pair of sub-topics sits alongside 3.2.3 (The Economic Climate),
-3.2.4 (Globalisation) and 3.2.5 (Legislation) as the five named
-external influences this topic covers. Reviewing all five as a set
-later in your revision — even though only technology and ethics are
-covered in depth here — helps you recognise which specific influence a
-given exam scenario is testing, since questions often describe a
-business situation without naming the influence directly.
+This pair of sub-topics sits alongside 3.2.3 (The Economic Climate on
+Businesses), 3.2.4 (Globalisation), 3.2.5 (Legislation) and 3.2.6
+(Competitive Environment) as the six named external influences this
+topic covers. Reviewing all six as a set later in your revision — even
+though only technology and ethics are covered in depth here — helps
+you recognise which specific influence a given exam scenario is
+testing, since questions often describe a business situation without
+naming the influence directly.
 
 ## Related resources
 

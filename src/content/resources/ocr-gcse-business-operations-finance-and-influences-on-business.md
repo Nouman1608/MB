@@ -47,7 +47,7 @@ includes a synoptic section drawing on content from both papers.
   crowdfunding) and why different sources suit new versus established
   businesses; 5.3 revenue, costs, profit and loss, including
   calculating fixed, variable and total costs, gross and net profit,
-  and profitability ratios; 5.4 break-even, including the simple
+  profitability ratios and average rate of return; 5.4 break-even, including the simple
   calculation of break-even quantity; and 5.5 cash and cash flow,
   including the difference between cash and profit and the
   construction of cash flow forecasts.
@@ -123,11 +123,11 @@ as separate silos -- for example, ask how a decision to relocate
 production overseas (4.5, location) affects supplier relationships
 (4.6), cash flow timing (5.5) and exposure to globalisation risk
 (6.3). For the finance sub-section specifically, practise the
-calculations (break-even, profit and loss, profitability ratios, cash
-flow forecasts) until they are fluent, since at least 10% of the
+calculations (break-even, profit and loss, profitability ratios,
+average rate of return, cash flow forecasts) until they are fluent, since at least 10% of the
 overall qualification's marks explicitly reward quantitative skills at
-Key Stage 3 level, and Business 2 carries a heavier quantitative load
-than Business 1. Keep the synoptic section (7) in mind throughout
+a demand not lower than that expected at Key Stage 3 level. Keep the
+synoptic section (7) in mind throughout
 revision of both components -- rather than revising it separately at
 the end -- since it is not a distinct block of content but a way of
 answering Business 2 exam questions that draw on Business 1 material.
@@ -139,8 +139,8 @@ answering Business 2 exam questions that draw on Business 1 material.
 
 ## Official syllabus
 
-OCR, *GCSE (9-1) in Business (J204) Specification*, Version 1.1
-(April 2018), Section 2c, Content of Business 2: operations, finance
+OCR, *GCSE (9-1) in Business (J204) Specification*, Version 2.0
+(January 2026), Section 2c, Content of Business 2: operations, finance
 and influences on business,
 https://www.ocr.org.uk/Images/304213-specification-accredited-gcse-business-j204.pdf,
 fetched and verified in full 2026-09-02.

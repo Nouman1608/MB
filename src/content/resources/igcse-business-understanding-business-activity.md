@@ -36,6 +36,13 @@ already have, since questions on marketing, finance or operations
 routinely expect an answer framed in terms of a business's stated
 objectives or organisational form.
 
+**A note on this syllabus's validity.** 0450 last examines in 2026.
+Cambridge replaces it with 0264 ("Cambridge IGCSE Business") from 2027
+onward, which changes the assessment-objective weightings from
+40/20/25/15 to 35/30/22/13, reduces each Paper 1 question from five
+parts to four, and renumbers every sub-topic. Always check which
+syllabus code your own examination series uses.
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE BUSINESS STUDIES 0450 — TOPIC 1 UNDERSTANDING
@@ -70,8 +77,9 @@ public corporations
 - 1.5 Business objectives and stakeholder objectives — why businesses
 have several objectives and why their importance can change over time
 (survival, growth, profit, market share, and the objectives of social
-enterprises); and the main internal and external stakeholder groups and
-their differing, sometimes conflicting, objectives
+enterprises); the main internal and external stakeholder groups and
+their differing, sometimes conflicting, objectives; and the differences
+in the objectives of private sector and public sector enterprises
 
 ## How to approach it
 
@@ -130,7 +138,7 @@ welfare rather than profit) in a mixed economy.
 Choosing a legal structure means trading off capital, control and risk.
 A **sole trader** is easy to set up and keeps all the profit, but bears
 all the risk alone and has limited access to capital. A **partnership**
-(2–20 partners) brings in more capital and shared expertise, at the cost
+(two or more partners -- some countries cap the number, but the syllabus itself sets no limit) brings in more capital and shared expertise, at the cost
 of shared profit and the possibility of disagreement between partners. A
 **private limited company (Ltd)** has a separate legal identity and
 sells shares privately rather than to the public. A **public limited
@@ -149,6 +157,16 @@ Recommending a suitable form of organisation for a given business means
 weighing this liability risk against the need for capital and the wish
 to retain control.
 
+## Enterprise, business growth and size
+
+Successful **entrepreneurs** tend to share characteristics such as risk-taking, self-motivation, resilience and creativity. A **business plan** sets out the business idea, target market, marketing and financial forecasts, and it helps an entrepreneur secure finance and think through the practicalities before committing money. Many governments **support start-ups** directly, through grants, subsidised loans, training schemes and advice services, on the grounds that new enterprise creates jobs and economic growth.
+
+**Business size** can be measured by the number of people employed, the value of output, or capital employed -- profit is **not** a valid measure of size, since a small business can be highly profitable and a large one can make a loss. Each measure has limitations: employee numbers ignore automation, value of output ignores profitability, and capital employed ignores how efficiently that capital is used, so comparisons across industries using a single measure can mislead.
+
+Businesses grow for reasons including higher profit, economies of scale, greater market power and reduced risk through diversification. **Internal (organic) growth** comes from reinvesting profit to increase sales, open new outlets or develop new products, and leaves the owners in full control but is comparatively slow. **External growth**, through a merger or takeover, is faster but brings integration problems, culture clashes and possible loss of control if new shareholders are involved. Growth itself can cause problems -- cash-flow strain, communication breakdowns and a loss of the personal touch with customers -- which is one reason some businesses choose to remain small.
+
+Businesses fail for reasons including poor management, cash-flow problems, increased competition and changes in the business environment. **New businesses face a greater risk of failure** than established ones because they typically have less capital to fall back on, no track record with lenders or customers, and less management experience to draw on.
+
 ## Business objectives and stakeholders
 
 Businesses hold several objectives simultaneously, and their relative
@@ -156,7 +174,12 @@ importance changes over time: **survival** is the priority for a new
 start-up, while established businesses shift towards **profit**,
 **growth** and **market share**; **social enterprises** pursue social and
 environmental aims alongside financial ones, reinvesting profit rather
-than distributing it.
+than distributing it. **Private sector** enterprises are typically
+profit-driven and answerable to their owners or shareholders, while
+**public sector** enterprises exist mainly to provide a service (such
+as healthcare or education) and are judged more on service quality and
+value for money than on financial return -- a distinction worth stating
+explicitly when a question asks how objectives differ between the two.
 
 A **stakeholder** is any individual or group affected by, or with an
 interest in, a business's activities — owners, employees, customers,

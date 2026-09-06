@@ -30,7 +30,7 @@ The four **factors of production** are land (rent), labour (wages), capital (int
 
 **Production possibility curves** show the maximum combinations of two goods obtainable with resources fully and efficiently employed. A point **on** the curve is efficient; **inside** indicates unemployment or inefficiency; **outside** is currently unattainable. The curve is **concave to the origin** because resources are not perfectly substitutable between uses, so opportunity cost rises as more of one good is produced. An **outward shift** represents economic growth.
 
-OxfordAQA weights this more heavily than most specifications.
+Methodology is worth securing early in your revision.
 
 Economics is a **social science**: it builds models using simplifying assumptions, most often ***ceteris paribus*** — all other things held equal. A model is judged by how usefully it **predicts**, not by whether its assumptions are literally true.
 
@@ -48,7 +48,7 @@ Inelastic demand → a price rise **raises** revenue. Negative YED identifies an
 
 **Tax incidence follows elasticity: the more inelastic side bears more of the tax.** This explains why duties on inelastic demerit goods raise large, stable revenue *and* change consumption very little — the same fact seen from opposite ends, not a contradiction.
 
-**Consumer and producer surplus** measure welfare, and the loss of them is how welfare loss is shown on a diagram.
+**Consumer and producer surplus** measure welfare, and the loss of them is how welfare loss is shown on a diagram. *(Unit 3 extension: surplus is examined in depth at A2, not in this AS unit.)*
 
 ## Costs, revenue and profit
 
@@ -82,7 +82,7 @@ AC = TC/Q     MC = dTC/dQ     profit maximised where MC = MR
 
 Negative and positive externalities, public goods (**non-excludable and non-rival**), information failure, factor immobility, monopoly power.
 
-**Externality diagrams must be labelled** — MPC, MSC, MPB, MSB, market outcome, social optimum, and the shaded welfare loss triangle. An unlabelled diagram earns nothing.
+**Externality diagrams must be labelled** — MPC, MSC, MPB, MSB, market outcome, social optimum, and the shaded welfare loss triangle. An unlabelled diagram is much weaker evidence of diagram technique, even when the explanation is correct.
 
 **Intervention and its limits:**
 
@@ -92,7 +92,7 @@ Negative and positive externalities, public goods (**non-excludable and non-riva
 - **Tradable permits** find the cheapest abatement but the cap must be set correctly.
 - **State provision** guarantees public goods but risks inefficiency.
 
-**Government failure** — information gaps, administrative cost, unintended consequences such as smuggling, and regulatory capture. **Every top-band evaluation of intervention raises it.**
+**Government failure** — information gaps, administrative cost, unintended consequences such as smuggling, and regulatory capture. **A strong evaluation of intervention usually raises it.**
 
 ## Exam traps
 

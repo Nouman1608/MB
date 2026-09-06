@@ -73,7 +73,7 @@ A **shift inwards** results from war, natural disaster, or a fall in the labour 
 
 The curve is normally drawn **concave to the origin** because resources are not equally suited to both uses, so opportunity cost rises as more of one good is produced.
 
-**Two distinct kinds of growth on a PPC.** A **permanent increase in productive capacity** is shown by an outward shift of the whole curve, caused by more or better resources or improved technology. **Short-run growth** can also occur simply by **moving from a point inside the curve towards it**, using existing idle resources more fully, with no change in what the economy is capable of producing at maximum — this movement is temporary and reversible if resources fall idle again, unlike a genuine shift.
+**Potential growth versus actual growth.** This syllabus uses **economic growth** to mean an outward shift of the whole curve — a **permanent increase in productive capacity**, caused by more or better resources or improved technology; economists sometimes call this **potential growth**. Moving from a point inside the curve towards it, using existing idle resources more fully with no change in what the economy is capable of producing at maximum, is sometimes labelled **actual growth** instead — it is temporary and reversible if resources fall idle again, and is **not** what this syllabus means by economic growth, which is associated with the outward shift.
 
 **Capital goods versus consumer goods** is the standard question: producing more capital goods today means less consumption now, but shifts the PPC further out in future — sacrificing present consumption for future growth.
 

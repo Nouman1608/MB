@@ -21,7 +21,7 @@ Condensed for quick recall of how the course is assessed. For the full subject o
 | Component | Weight | What it involves |
 |---|---|---|
 | Paper 1 | 36% | Multiple-choice, short-answer and data-based questions across the syllabus |
-| Paper 2 | 44% | Multiple-choice, short-answer and extended-response questions on structure and reactivity |
+| Paper 2 | 44% | Short-answer and extended-response questions on structure and reactivity |
 | Internal assessment | 20% | An individual scientific investigation, up to 3,000 words |
 
 External (80%) + internal (20%), same split at SL and HL — papers differ in length/demand, not weighting.

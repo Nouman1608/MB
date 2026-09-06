@@ -27,13 +27,9 @@ Related: [Forces study guide](/resources/ocr-gcse-physics-forces/) | [Forces rev
 
 ---
 
-## Section A
-
 **1.** State whether each of the following is a vector or a scalar: (a) speed (b) velocity (c) momentum (d) kinetic energy. **[4]**
 
 **2.** State Newton's first law of motion. **[2]**
-
-## Section B
 
 **3.** A cyclist travels 240 m in 30 seconds at a constant speed. Calculate the cyclist's speed. **[2]**
 

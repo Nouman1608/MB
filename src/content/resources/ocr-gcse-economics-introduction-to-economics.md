@@ -7,12 +7,12 @@ topic: "Introduction to economics"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J205"]
-syllabusSeries: "For first teaching from 2017"
+syllabusSeries: "For first assessment 2019"
 order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "introduction-to-economics-ocr-gcse-economics"
-description: "Main economic groups and factors of production, and the basic economic problem -- the full content of Component 1 for OCR GCSE Economics (J205)."
+description: "Main economic groups and factors of production, and the basic economic problem -- Topic 1 of Component 01 for OCR GCSE Economics (J205)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -28,15 +28,16 @@ in contemporary and historical economic contexts.
 
 Introduction to Economics establishes the core economic vocabulary --
 the main economic agents, the factors of production, and the basic
-economic problem of scarcity -- that Component 2 (The role of markets
-and money) builds on directly. Learners are also expected to develop
+economic problem of scarcity -- that Topic 2 (The role of markets
+and money), the second half of this same component, builds on
+directly. Learners are also expected to develop
 the ability to use and interpret quantitative data to justify economic
 decisions, and to consider moral, ethical and sustainability issues
 arising from economic activity.
 
 ## Syllabus coverage
 
-**OCR GCSE ECONOMICS (J205) — COMPONENT 1 INTRODUCTION TO ECONOMICS**
+**OCR GCSE ECONOMICS (J205) — COMPONENT 01 INTRODUCTION TO ECONOMICS — TOPIC 1**
 
 - 1.1 Main economic groups and factors of production — the role of the
 main economic groups (consumers, producers and the government) and
@@ -89,7 +90,13 @@ Note that capital in economics means productive equipment, not money. Money is a
 
 ## Production possibility curves
 
-A PPC shows the maximum combinations of two goods an economy can produce with all resources fully and efficiently employed.
+The specification does not use the terms "production possibility curve," "PPC" or "PPF" -- this
+diagram is a teaching aid for the required content on scarce resources, unlimited wants, allocation
+and opportunity cost, not an assessed diagram in its own right. A PPC shows the maximum combinations
+of two goods an economy can produce with all resources fully and efficiently employed. For
+simplicity, the examples below assume a straight-line curve, meaning a constant opportunity cost
+between the two goods -- real-world PPCs are more often bowed outward, since opportunity cost
+typically rises as resources are shifted further from what they are best suited to producing.
 
 - A point **on** the curve is productively efficient.
 - A point **inside** shows unemployed or inefficiently used resources.

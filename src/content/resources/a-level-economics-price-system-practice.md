@@ -64,6 +64,8 @@ curve, rather than being a single fixed value. **[3]**
 
 **8.** Explain the difference between joint demand and derived demand, giving one example of each. **[4]**
 
+**9.** Explain the three functions of the price mechanism. **[6]**
+
 ---
 
 ## Answers
@@ -111,6 +113,11 @@ increases demand for the other — for example, printers and printer ink [2]. De
 demand for a good that exists specifically because of demand for another good, rather than the two
 being consumed together — for example, demand for steel is derived from demand for cars, since steel
 itself is not what the final consumer wants to buy [2].
+
+**9.** **Signalling** [1] — prices convey information about relative scarcity to buyers and sellers,
+indicating where consumer preferences lie [1]. **Incentive** [1] — a higher price encourages producers
+to supply more and consumers to buy less [1]. **Rationing** [1] — a higher price allocates scarce goods
+to those most willing and able to pay for them [1].
 
 ## A note on exam technique for this topic
 

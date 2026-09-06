@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "macroeconomics-ocr-alevel-economics"
-description: "Condensed recall notes on aggregate demand and supply, policy objectives, fiscal/monetary/supply-side policy, and the global context, for OCR A Level Economics (H460), Component 02 Macroeconomics."
+description: "Condensed recall notes on aggregate demand and supply, policy objectives, and fiscal/monetary/supply-side policy for OCR A Level Economics (H460), Component 2 Macroeconomics -- the global context and financial sector content areas are not covered by these notes."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -61,18 +61,22 @@ A government cuts interest rates to boost economic growth during a slowdown.
 Objective pursued:    economic growth (lower rates encourage
                        borrowing, investment, consumer spending)
 Objective threatened: price stability -- higher spending can push
-                       demand-pull inflation above target
-Objective threatened: balance of payments -- lower interest rates
-                       can weaken the currency, making imports more
-                       expensive (cost-push inflation) though
-                       exports may become more competitive
+                       demand-pull inflation above target; lower rates
+                       can also weaken the currency, making imports
+                       more expensive and adding cost-push inflation
+                       on top of the demand-pull pressure
+Balance of payments effect: a weaker currency tends to make exports
+                       cheaper and imports dearer, which normally
+                       improves rather than threatens the balance of
+                       payments (see the J-curve and Marshall-Lerner
+                       condition for the short-run exception)
 ```
 
 Being able to name a specific policy action, state which objective it advances, and explain the mechanism by which it threatens a second objective -- rather than listing objectives in isolation -- is exactly what section 3.4 tests.
 
 ## Why the five sections form one connected argument
 
-Aggregate demand and supply (section 1) sets up the model; policy objectives (section 2) defines the targets a government aims for; implementing policy (section 3) shows the available tools, with 3.4 explicitly requiring evaluation of when those tools conflict. The global context and financial sector sections then extend this same policy-conflict logic to an international and monetary setting -- for example, a domestic interest rate change also affects the exchange rate and therefore international competitiveness, so revise these sections as extensions of the same argument rather than self-contained blocks.
+Aggregate demand and supply (section 1) sets up the model; policy objectives (section 2) defines the targets a government aims for; implementing policy (section 3) shows the available tools, with 3.4 explicitly requiring evaluation of when those tools conflict. These notes touch the exchange-rate transmission mechanism only briefly, inside a policy-conflict example -- the global context and financial sector content areas are not given their own recall notes here, so revise them separately from your course materials.
 
 ## Key terms
 
@@ -88,7 +92,7 @@ The circular flow of income models injections (investment, government spending, 
 - Confusing fiscal and monetary policy, or describing supply-side policy only as "cutting taxes."
 - Evaluating a policy's benefits without discussing its trade-offs (3.4 is explicitly about conflicts).
 - Misreading the Phillips Curve as a fixed, permanent relationship.
-- Ignoring the global context (exchange rates, trade policy) when answering a domestic policy question.
+- Ignoring the global context (exchange rates, trade policy) when answering a domestic policy question -- remember these notes do not cover that content area in depth, so revise it separately.
 
 ## Quick self-test
 
@@ -103,7 +107,7 @@ The circular flow of income models injections (investment, government spending, 
 
 ## How this connects to the synoptic paper
 
-Component 3 (Themes in economics) is fully synoptic across both Microeconomics and Macroeconomics, so revise the global context and financial sector sections with an eye to how they connect back to microeconomic content such as market structures and exchange-rate determination, rather than treating Macroeconomics as entirely self-contained.
+Component 3 (Themes in economics) is fully synoptic across both Microeconomics and Macroeconomics, so make sure you revise the global context and financial sector content areas from your course materials -- they are not covered by these condensed notes -- with an eye to how they connect back to microeconomic content such as market structures and exchange-rate determination, rather than treating Macroeconomics as entirely self-contained.
 
 ## Related resources
 

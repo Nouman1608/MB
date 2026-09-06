@@ -7,7 +7,7 @@ topic: "Business activity, marketing and people"
 boards: ["ocr"]
 qualifications: ["gcse"]
 syllabusCodes: ["J204"]
-syllabusSeries: "For first teaching from 2017"
+syllabusSeries: "For first assessment 2019"
 order: 1
 syllabusTopics:
   - qualification: "gcse"

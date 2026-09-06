@@ -26,7 +26,7 @@ Related: [The Allocation of Resources revision notes](/resources/o-level-economi
 
 ---
 
-## Section A
+## Part One — Short-answer questions
 
 **1.** Define price elasticity of demand (PED) and state the formula used to calculate it. **[3]**
 
@@ -34,13 +34,13 @@ Related: [The Allocation of Resources revision notes](/resources/o-level-economi
 
 **3.** State two conditions of supply that could cause the supply curve to shift. **[2]**
 
-## Section B
+## Part Two — Structured questions
 
 **4.** The market for umbrellas is initially in equilibrium. A period of unusually heavy rainfall increases consumer demand for umbrellas, while the price of a key raw material used to manufacture umbrellas also rises.
 
 **(a)** Using a demand and supply diagram, show and explain the effect of the increase in demand for umbrellas on the equilibrium price and quantity, assuming supply is unchanged. **[4]**
 **(b)** Explain, using the concept of a condition of supply, why a rise in the price of the raw material would affect the position of the supply curve. **[3]**
-**(c)** State what would happen to price and quantity if both changes (the demand increase and the supply decrease) occurred at the same time. **[2]**
+**(c)** Explain what would happen to price and quantity if both changes (the demand increase and the supply decrease) occurred at the same time. **[2]**
 
 **5.** The price of a bus ticket rises from $2.00 to $2.20. As a result, the quantity of bus tickets demanded falls from 1,000 to 950 per day.
 

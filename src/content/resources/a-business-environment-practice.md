@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "business-and-its-environment-as-cambridge-alevel-business"
-description: "Original exam-style practice questions with full worked answers on the external environment, PESTLE, stakeholders and business ethics."
+description: "Original exam-style practice questions with full worked answers on enterprise, business structure and size, objectives and stakeholders."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -25,60 +25,55 @@ featured: false
 
 Related: [Business and Its Environment revision notes](/resources/a-business-environment-revision-notes/)
 
+This paper covers AS Topic 1 (1.1–1.5) only. The external environment (PESTLE) and business strategy (SWOT, Ansoff, Porter's five forces) are A Level Topic 6 content and are not assessed at AS.
+
 ---
 
 ## Section A
 
-**1.** State what each letter of PESTLE stands for. **[3]**
+**1.** Identify **two** ways of measuring the size of a business. **[2]**
 
-**2.** Explain the difference between the micro and macro environment. **[2]**
+**2.** Explain the difference between a sole trader and a partnership. **[3]**
 
 ## Section B
 
-**3.** Explain how each of the following could affect a UK manufacturer exporting to Europe: a rise in the exchange rate, a rise in inflation, new environmental regulation. **[9]**
+**3.** Explain **two** benefits and **two** costs to a business of adopting a corporate social responsibility policy. **[8]**
 
-**4.** Explain **two** benefits and **two** costs to a business of adopting a corporate social responsibility policy. **[8]**
+**4.** Explain the relative importance and influence of stakeholders, and how a business should manage a stakeholder with **high power and high interest** compared with one of **low power and low interest**. **[6]**
 
-**5.** Explain what is meant by stakeholder mapping, and how a business should manage a stakeholder with **high power and high interest** compared with one of **low power and low interest**. **[6]**
+**5.** Evaluate whether a rapidly growing business should expand through organic growth or through merger and takeover. **[12]**
 
-**6.** Evaluate the extent to which a business can control its external environment. **[12]**
+**6.** Identify **three** qualities or skills that make entrepreneurial success more likely, and explain why each matters. **[6]**
 
-## Section C
-
-**7.** State **three** qualities or skills that make entrepreneurial success more likely, and explain why each matters. **[6]**
-
-**8.** Explain how a business's objectives typically change as it develops from a start-up to an established firm. **[6]**
+**7.** Explain how a business's objectives typically change as it develops from a start-up to an established firm. **[6]**
 
 ---
 
 ## Answers
 
-**1.** Political, Economic, Social, Technological, Legal, Environmental [3 — 1 mark per two correct].
+**1.** Any two: **number of employees**, **annual turnover**, **capital employed**, **market share** [1] [1].
 
-**2.** The **micro environment** consists of factors **close to the business that it can influence**, such as customers, suppliers, competitors and employees [1]. The **macro environment** consists of **wider factors it cannot control**, such as interest rates, legislation and demographic change [1].
+**2.** A **sole trader** is owned and run by one person with **unlimited liability** and full control [1]. A **partnership** is owned by two or more people who **share capital, expertise and decision-making** [1], but who also share the profit and risk **disagreements between partners** [1].
 
-**3. Rise in the exchange rate** — the firm's goods become **more expensive in euros**, so European demand falls and sales revenue declines [1]; imported raw materials become **cheaper**, partly offsetting this by lowering costs [1]; the firm may have to **cut its margin to hold its price** in the export market [1].
-**Rise in inflation** — **input and wage costs rise**, squeezing margins unless prices are increased [1]; if UK inflation is higher than in the destination market, the firm becomes **less price-competitive over time** [1]; interest rates may be raised in response, increasing borrowing costs and dampening domestic demand [1].
-**New environmental regulation** — the firm may face **compliance costs such as new equipment or waste treatment**, raising fixed costs [1]; it may need to **redesign products or processes**, requiring investment [1]; however it can also create a **marketing advantage and open access to environmentally regulated markets** if the firm complies early [1].
-
-**4. Benefits:** CSR **enhances brand reputation and differentiates the business**, attracting customers who care about how products are made and supporting a price premium [1] [1]. It **improves recruitment, motivation and retention of staff**, cutting the cost of turnover and raising productivity [1] [1].
+**3. Benefits:** CSR **enhances brand reputation and differentiates the business**, attracting customers who care about how products are made and supporting a price premium [1] [1]. It **improves recruitment, motivation and retention of staff**, cutting the cost of turnover and raising productivity [1] [1].
 **Costs:** CSR **raises direct costs** — fair-trade sourcing, higher wages, recycled packaging — which either reduces margin or raises price [1] [1]. It **constrains decision-making**: the business may be unable to relocate to a cheaper supplier or close a loss-making site without reputational damage, reducing flexibility [1] [1].
 
-**5.** Stakeholder mapping plots stakeholders on a **grid of their power to affect the business against their level of interest in it** [1] [1]. A stakeholder with **high power and high interest** — for example a major institutional shareholder — must be **managed closely**: consulted before major decisions and kept fully informed, because they can block or force change [1] [1]. A stakeholder with **low power and low interest** requires only **minimal effort — general monitoring** [1], with information provided through routine channels rather than active engagement [1].
+**4.** Stakeholders vary in how much **power** they hold over a business and how much **interest** they take in a given decision [1] [1]. A stakeholder with **high power and high interest** — for example a major institutional shareholder — must be **managed closely**: consulted before major decisions and kept fully informed, because they can block or force change [1] [1]. A stakeholder with **low power and low interest** requires only **minimal effort — general monitoring** [1], with information provided through routine channels rather than active engagement [1].
 
-**6. Arguments that a business has little control:** macro factors such as **interest rates, exchange rates, recessions and demographic change are determined outside the firm** [1]; **legislation is imposed by government** and must simply be complied with [1]; even very large firms are **price takers in commodity and currency markets** [1].
-**Arguments that a business has some control:** it can **influence** rather than control — large firms **lobby government** and shape regulation in their favour [1]; it can **shape consumer tastes through advertising and product innovation** rather than merely responding to them [1]; it can **reduce its exposure**: hedging currency risk with forward contracts, diversifying markets so no single economy dominates, and holding cash reserves to survive downturns [1] [1]; a technologically dominant firm can **create the market it then operates in** [1].
-**Judgement:** a business **cannot control the external environment, but it can substantially control its exposure to it** [1]. The extent of influence depends on **the firm's size and market power, and on which factor is in question** [1] — a multinational can meaningfully influence regulation and consumer taste, while a small firm can realistically only forecast, hedge and adapt [1] [1].
+**5. For organic growth:** it lets the business **retain full control and ownership** [1]; it builds on **existing capabilities and culture**, so it carries **lower risk** than buying an unfamiliar business [1]; it can be funded from **retained profit**, avoiding new debt or share issues [1].
+**For external growth (merger/takeover):** it is **much faster**, giving immediate access to new markets, brands, technology or capacity that would take years to build organically [1] [1]; it can **remove a competitor** from the market at the same time as growing [1].
+**Against external growth:** it is **expensive**, often requiring new debt or share issues that can dilute control [1]; **integration risk** is high, since clashes of culture and management mean expected savings often fail to materialise [1] [1].
+**Judgement:** the right method depends on **how quickly the business needs to grow, how much finance and control it is willing to risk, and whether a suitable target is available to acquire** [1] — a business needing rapid access to a new market with capital to spare may benefit from external growth, while one with more time and a strong existing capability may grow organically at lower risk [1] [1].
 
-**7.** Any three, 2 marks each: **opportunity recognition** — spotting a gap in the market or an unmet need before others do is the starting point for any viable business idea [1] [1]; **the ability to secure and manage finance** — without adequate funding and disciplined cash-flow control, a business cannot survive its early, most vulnerable period [1] [1]; **resilience in the face of setbacks** — early rejection and failure are common, and the entrepreneur must adapt and continue rather than give up at the first difficulty [1] [1]; **the capacity to plan and adapt the business idea as circumstances change** — markets shift, and an idea that cannot evolve with them is unlikely to survive [1] [1].
+**6.** Any three, 2 marks each: **opportunity recognition** — spotting a gap in the market or an unmet need before others do is the starting point for any viable business idea [1] [1]; **the ability to secure and manage finance** — without adequate funding and disciplined cash-flow control, a business cannot survive its early, most vulnerable period [1] [1]; **resilience in the face of setbacks** — early rejection and failure are common, and the entrepreneur must adapt and continue rather than give up at the first difficulty [1] [1]; **the capacity to plan and adapt the business idea as circumstances change** — markets shift, and an idea that cannot evolve with them is unlikely to survive [1] [1].
 
-**8.** A **new business** typically prioritises **survival**, since cash flow and building an initial customer base are the most immediate threats to its continuation [1] [1]. An **established, profitable business** can instead prioritise **growth, profit maximisation, or increasing market share**, since survival is no longer the immediate concern [1] [1]. Some businesses, particularly those under strong stakeholder pressure or led by founders with strong values, adopt objectives centred on **social or environmental responsibility**, even at some cost to short-term profit [1] [1].
+**7.** A **new business** typically prioritises **survival**, since cash flow and building an initial customer base are the most immediate threats to its continuation [1] [1]. An **established, profitable business** can instead prioritise **growth, profit maximisation, or increasing market share**, since survival is no longer the immediate concern [1] [1]. Some businesses, particularly those under strong stakeholder pressure or led by founders with strong values, adopt objectives centred on **social or environmental responsibility**, even at some cost to short-term profit [1] [1].
 
 ---
 
 ## Where marks are usually lost
 
-- Listing PESTLE factors without applying them to the business in the question.
 - Giving only the costs or only the benefits of CSR.
-- Describing stakeholder mapping without saying how each group is managed.
-- Answering "can a business control its environment" as a yes/no rather than by degree.
+- Describing stakeholder power and interest without saying how each group is managed.
+- Writing a one-sided answer to an "evaluate" question — a judgement is required.
+- Naming an entrepreneurial quality without explaining why it matters to that specific business idea.
