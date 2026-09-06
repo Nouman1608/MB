@@ -6800,3 +6800,16 @@ One initially-planned mapping was reverted: `gcse-history-historic-environment-{
 **Verification:** `npm run check:duplicate-scope` re-run after the allow-list addition — PASS, both this new group and all previously-reviewed groups still correctly recognised.
 
 **Owner authority:** continuation of the standing "check:duplicate-scope must PASS with zero unreviewed groups before every commit" rule established at the start of this task; no new owner prompt was required, since this is a routine content-addition review, not a policy change.
+
+## D-143 — New practice-questions pair for Cambridge O Level English Language 1123 reviewed and allow-listed against an existing whole-syllabus overview (duplicate-scope check)
+
+**Date:** 2026-09-06
+**Trigger:** Sub-batch 41 of the ongoing gap-fill run added `o-level-english-language-paper-1-reading-practice.md`, completing the Paper 1 Reading trio started in sub-batch 40. The pre-commit `npm run check:duplicate-scope` gate flagged it against the pre-existing `o-level-english-language-practice.md` (a whole-syllabus original-question set spanning both papers), since both share the same `english | cambridge | o-level | practice-questions` official-syllabus-scope key -- the same pattern as D-142's revision-notes pair.
+
+**Review:** Both files were read in full before deciding. `o-level-english-language-practice.md` tests general skills across both Paper 1 and Paper 2 (directed writing register/purpose/audience/form, persuasive devices, descriptive composition structure, a general summary method, a general Use-of-Language technique point); none of its questions name an assessment-objective code, a paper-specific mark allocation, or Paper 1's specific exam mechanics. The new file tests Paper-1-only exam mechanics exclusively: exact R1/R4/R5 codes tied to specific questions, the consequences of exceeding the 150-word summary limit, a Paper-1-specific timing strategy, and why the summary task sits on the Reading paper despite testing Writing objectives -- none of which the overview set touches. No shared questions or answers were found between the two files.
+
+**Decision:** Allow-listed as legitimate, distinct content -- added to `REVIEWED_LEGITIMATE` in `scripts/check-duplicate-resource-scope.mjs`, immediately following D-142's revision-notes entry, with the specific distinguishing evidence recorded inline (not merged; no redirect needed). This completes the third and final content-type layer (study-guide, revision-notes, practice-questions) of the overview-vs-Paper-1-specific pattern for this syllabus.
+
+**Verification:** `npm run check:duplicate-scope` re-run after the allow-list addition -- PASS, both this new group and all previously-reviewed groups (including D-142's) still correctly recognised.
+
+**Owner authority:** continuation of the standing "check:duplicate-scope must PASS with zero unreviewed groups before every commit" rule established at the start of this task; no new owner prompt was required, since this is a routine content-addition review consistent with D-142's precedent from the immediately preceding sub-batch.
