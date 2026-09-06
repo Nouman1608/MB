@@ -64,8 +64,10 @@ mechanisms, or both, it uses is a stronger answer than a general
 statement that "pathogens cause disease."
 
 Also fix the specific interfaces the specification names — digestive,
-reproductive and gas-exchange systems — as the entry points where
-pathogens penetrate a mammal's defences. Being able to name a specific
+reproductive and gas-exchange systems — as examples of the entry
+points where pathogens penetrate a mammal's defences; the specification
+introduces these with "include", so they are not the complete list
+(the skin is a further interface). Being able to name a specific
 interface relevant to a given disease example (for instance, the
 gas-exchange system for an airborne respiratory pathogen) demonstrates
 the applied understanding this sub-topic is testing, rather than a
@@ -142,8 +144,9 @@ conditions.
 
 - Learn the two named mechanisms by which pathogens cause disease: cell
 damage and toxin production.
-- Know the three named interfaces through which pathogens can enter a
-mammal's body.
+- Know the three interfaces the specification names as examples
+through which pathogens can enter a mammal's body — digestive,
+reproductive and gas-exchange — and that this is not a complete list.
 - Practise interpreting incidence data linked to a lifestyle risk
 factor, explicitly separating correlation from causation.
 - Be ready to name at least one specific risk factor each for coronary

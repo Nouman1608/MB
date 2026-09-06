@@ -60,7 +60,7 @@ This reduces to a quadratic — solve with the formula below, and always check t
 | Method | Use when |
 |---|---|
 | **Elimination** | Both equations are linear |
-| **Substitution** | One is already in the form y = … , or one is non-linear |
+| **Substitution** | One equation is already in the form y = … (or can easily be rearranged into it) |
 
 Construct the two equations from the wording first if a question describes a situation rather than giving the equations directly — this is where marks are lost before any algebra even begins.
 
@@ -111,7 +111,7 @@ y + 2 = sqrt(x + 3)
 (y + 2)^2 = x + 3
 x = (y + 2)^2 - 3
 ```
-When the subject is under a root, isolate the root first, then square both sides to remove it — squaring is always the last step, once the root stands alone.
+When the subject is under a root, isolate the root first, then square both sides to remove it — squaring is always the last step, once the root stands alone. This rearrangement is only valid when y + 2 ≥ 0, since a square root cannot itself be negative; squaring both sides must always be checked for reversibility like this.
 
 ## Exam traps
 
@@ -135,6 +135,6 @@ When the subject is under a root, isolate the root first, then square both sides
 6. Solve 5^(x+1) = 25^x.
 7. Make x the subject of y = √(x + 3) − 2.
 
-**Answers:** 1. 2⁴ × x¹² = **16x¹²**. 2. 27^(2/3) = (∛27)² = 3² = **9**; 5⁻² = 1/25 = **0.04**. 3. Adding: 3x = 12 → x = 4, y = 3. 4. (x − 2)(x − 3) = 0 → x = **2 or 3**. 5. h = V / (πr²). 6. Rewrite 25 as 5²: x + 1 = 2x → x = **1**. 7. x = **(y + 2)² − 3**.
+**Answers:** 1. 2⁴ × x¹² = **16x¹²**. 2. 27^(2/3) = (∛27)² = 3² = **9**; 5⁻² = 1/25 = **0.04**. 3. Adding: 3x = 12 → x = 4, y = 3. 4. (x − 2)(x − 3) = 0 → x = **2 or 3**. 5. h = V / (πr²). 6. Rewrite 25 as 5²: x + 1 = 2x → x = **1**. 7. x = **(y + 2)² − 3**, valid provided y + 2 ≥ 0.
 
 For worked examples with full explanations, see the [Indices and Equations study guide](/resources/indices-and-equations/); for exam-style practice with full mark schemes, see the [Indices and Equations practice questions](/resources/indices-and-equations-practice/).

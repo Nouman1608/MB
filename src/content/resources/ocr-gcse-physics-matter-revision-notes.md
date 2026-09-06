@@ -80,7 +80,7 @@ Gas pressure comes from **particles colliding with the container walls**, each c
 p1 V1 = p2 V2        (constant temperature)
 ```
 
-**Absolute zero** (−273 °C) is where particles have **minimum** energy, not zero energy. To convert to kelvin, add 273: 0 °C = 273 K. The kelvin scale starts at absolute zero, so a temperature in kelvin is never negative.
+**Beyond the specification (not examined on this course):** absolute zero (−273 °C) is where particles have **minimum** energy, not zero energy, and the kelvin scale (0 °C = 273 K) is built on this point. This specification only requires temperature in degrees Celsius and treats the temperature-pressure relationship qualitatively.
 
 **Doing work on a gas raises its temperature** — which is why a bicycle pump warms up when compressing air. The work done on the gas increases the internal energy.
 
@@ -90,7 +90,7 @@ p1 V1 = p2 V2        (constant temperature)
 - Saying a change of state is a chemical change.
 - Explaining constant temperature during melting without mentioning bonds or potential energy.
 - Giving only one effect when temperature rises in a fixed volume.
-- Saying particles stop at absolute zero.
+- Confusing pressure increasing with depth in a liquid with pressure decreasing with height in the atmosphere.
 - Using E = mcΔθ during a change of state.
 - Forgetting to convert g/cm³ to kg/m³ (× 1000), or cm³ to m³, when units are mixed.
 

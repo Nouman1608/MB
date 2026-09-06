@@ -11,7 +11,7 @@ syllabusSeries: "First teaching 2016 (current specification version 4.0, August 
 syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c1-particles-j248"
-description: "Original exam-style practice questions with full worked answers on atomic models, isotopes and group trends for GCSE Chemistry."
+description: "Original exam-style practice questions with full worked answers spanning C1.2 Atomic structure (Papers 1 and 3) and C4.1 group trends and the periodic table (Papers 2 and 4) for GCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -22,6 +22,12 @@ featured: false
 > official past papers available free from your board.
 
 Related: [Atomic Structure revision notes](/resources/gcse-chemistry-atomic-structure-revision-notes/)
+
+**This paper spans two separate specification topics.** Questions 1, 2 and 4
+test **C1.2 Atomic structure** (Papers 1 and 3); questions 3 and 5-11 test
+**C4.1 Predicting chemical reactions** -- group trends and the periodic table
+(Papers 2 and 4). Use the two halves alongside the paper they actually
+belong to rather than as a single Paper 1/3 set.
 
 ---
 

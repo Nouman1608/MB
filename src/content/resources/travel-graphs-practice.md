@@ -77,7 +77,7 @@ Related: [Travel Graphs revision notes](/resources/travel-graphs-revision-notes/
 
 **1.** The gradient represents the **speed** [1]; a horizontal section means the object is **stationary** [1].
 
-**2.** The gradient represents the **acceleration** [1]; the area under the graph represents the **distance travelled (displacement)** [1].
+**2.** The gradient represents the **acceleration** [1]; the area under the graph represents the **displacement** (equal to the distance travelled only if the velocity does not change sign) [1].
 
 **3. (a)** A straight line rising from the origin to (10, 8) [1]; a horizontal line from (10, 8) to (50, 8) [1]; a straight line falling from (50, 8) to (70, 0) [1].
 **(b)** a = (8 − 0) ÷ 10 [1] = **0.8 m s⁻²** [1].
@@ -87,7 +87,7 @@ Related: [Travel Graphs revision notes](/resources/travel-graphs-revision-notes/
 **4. (a)** The object is **speeding up** [1], because the **gradient — and therefore the speed — is increasing** [1].
 **(b)** **Draw a tangent to the curve at that point** [1]; **construct a large right-angled triangle on the tangent** [1]; the speed is the **change in distance divided by the change in time** for that triangle [1].
 
-**5. (a)** Runner A moves at a **constant speed** throughout, since the gradient is uniform [1]. Runner B **starts slowly and accelerates**, as the gradient increases [1]. At any moment before 40 s, A's gradient is steeper than B's [1].
+**5. (a)** Runner A moves at a **constant speed** throughout, since the gradient is uniform [1]. Runner B **starts slowly and accelerates**, as the gradient increases [1]. Runner B's gradient starts **below** A's, equals it partway through, and **exceeds** it in the period just before the 40 s crossing — this is why B is catching up and draws level at that point [1].
 **(b)** At 40 s the two runners have **travelled the same distance from the start** — they are level [1]; after that point B, being faster, moves ahead [1].
 **(c)** **Runner A** [1], because at 20 s A's line is **above** B's curve, meaning A has covered a greater distance [1].
 

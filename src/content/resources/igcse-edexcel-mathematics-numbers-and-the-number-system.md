@@ -36,24 +36,35 @@ standard-form work introduced here.
 **PEARSON EDEXCEL INTERNATIONAL GCSE MATHEMATICS A (4MA1) — TOPIC 1
 NUMBERS AND THE NUMBER SYSTEM**
 
+This topic is tiered: each sub-topic below carries Foundation-tier
+content, and several also carry Higher-tier extensions, marked (H).
+
 - 1.1 Integers — properties of integers, place value, and ordering
 - 1.2 Fractions — proper and improper fractions, mixed numbers, and
-calculating with fractions
+calculating with fractions; (H) converting a recurring decimal to a
+fraction
 - 1.3 Decimals — calculating with decimals and converting between
 decimals and other forms
 - 1.4 Powers and roots — squares, cubes, square roots, cube roots, and
-other powers and roots
-- 1.5 Set language and notation — set notation and Venn diagrams
+other powers and roots; index laws for integer, fractional and
+negative powers; (H) surds, including simplifying surd expressions and
+rationalising a denominator
+- 1.5 Set language and notation — set notation and Venn diagrams; (H)
+the number of elements in a set, using notation such as n(A)
 - 1.6 Percentages — percentage of a quantity, percentage change, and
-simple and compound interest
+simple and compound interest; (H) repeated percentage change
 - 1.7 Ratio and proportion — simplifying ratios, dividing in a given
 ratio, and direct and inverse proportion
 - 1.8 Degree of accuracy — rounding to decimal places and significant
-figures, and upper and lower bounds
+figures, and upper and lower bounds; (H) upper and lower bounds in the
+context of a calculation such as a sum, difference, product or
+quotient
 - 1.9 Standard form — converting into and calculating with standard
 form
-- 1.10 Applying number — using numerical skills in context, including
-speed, density and other compound measures
+- 1.10 Applying number — using numerical skills in everyday, personal,
+domestic or community contexts, including calculations with metric
+units of mass, length, area, volume and capacity, and calculations
+using time and money, including currency conversion
 - 1.11 Electronic calculators — efficient and accurate use of a
 calculator
 
@@ -122,7 +133,7 @@ final answer.
 ## Set notation in brief
 
 1.5 introduces set language that recurs in probability and statistics
-questions elsewhere on the paper: the universal set ξ contains every
+questions elsewhere on the paper: the universal set 𝓔 contains every
 element under consideration, A′ denotes the complement of set A (every
 element not in A), A ∩ B denotes intersection (elements in both A and
 B), and A ∪ B denotes union (elements in A, B, or both). Venn diagrams

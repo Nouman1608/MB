@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Mathematics: Graphs of Functions and Sketching Curves — Practice Questions"
+title: "Cambridge O Level Mathematics: Graphs of Functions and Sketching Curves — Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]
@@ -16,7 +16,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "sketching-curves"
-description: "Original exam-style practice questions with full worked answers on graph sketching, transformations and graphical solutions for IGCSE Mathematics."
+description: "Original exam-style practice questions with full worked answers on graph sketching and graphical solutions for Cambridge O Level Mathematics."
 author: "muhammad-ghazali-siddiqui"
 publishedDate: 2026-08-22
 featured: false
@@ -36,7 +36,7 @@ Related: [Graphs of Functions and Sketching Curves revision notes](/resources/ma
 
 **2.** Find the gradient of the line perpendicular to `y = 4x − 1`. **[2]**
 
-**3.** Describe the transformation from `y = f(x)` to (a) `y = f(x − 4)`, (b) `y = f(x) + 4`. **[2]**
+**3.** For `y = 3x² − 2`, state the y-intercept and state whether the curve has a maximum or a minimum turning point. **[2]**
 
 ---
 
@@ -78,8 +78,7 @@ Related: [Graphs of Functions and Sketching Curves revision notes](/resources/ma
 
 **2.** Gradient of given line = 4 [1]. Perpendicular gradient = **−1/4** [1].
 
-**3. (a)** Translation **4 units to the right** [1]. **(b)** Translation **4 units up** [1].
-*`f(x − 4)` moves right, `f(x + 4)` moves left — the counter-intuitive one.*
+**3.** y-intercept: x = 0 gives y = −2, so **(0, −2)** [1]. The x² coefficient is positive, so the curve has a **minimum** turning point [1].
 
 **4. (a)** y-intercept: x = 0 gives y = −5, so **(0, −5)** [1].
 x-intercepts: x² − 4x − 5 = 0 → (x − 5)(x + 1) = 0 [1]
@@ -117,7 +116,7 @@ So add the line **y = x − 1** [1].
 
 ## Where marks are usually lost
 
-- Getting `f(x − 4)` the wrong way round.
+- Forgetting that a positive x² coefficient gives a minimum, and a negative one a maximum.
 - Giving the intersection coordinates instead of just the x-values.
 - Forgetting the y-intercept when asked for all axis crossings.
 - Joining plotted points with straight segments instead of a smooth curve.

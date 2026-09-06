@@ -11,14 +11,21 @@ syllabusSeries: "First teaching 2016 (current specification version 4.0, August 
 syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c1-particles-j248"
-description: "Condensed recall notes on atomic models, isotopes, electron configuration, periodic trends and group properties for GCSE Chemistry."
+description: "Condensed recall notes covering both C1.2 Atomic structure (assessed on Papers 1 and 3) and C4.1 Predicting chemical reactions -- periodic table development and Group 1/7/0 properties (assessed on Papers 2 and 4) -- for GCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
 ---
 
-Condensed for the final weeks. For the full explanation, use the
-[Atomic Structure study guide](/resources/ocr-gcse-chemistry-atomic-structure/).
+Condensed for the final weeks. For the full explanation of the atomic-structure
+half, use the [Atomic Structure study guide](/resources/ocr-gcse-chemistry-atomic-structure/).
+
+**This file spans two separate specification topics.** The atomic models and
+isotopes sections below cover **C1.2 Atomic structure**, assessed on **Papers
+1 and 3**. The periodic table, Group 1, Group 7 and Group 0 sections cover
+**C4.1 Predicting chemical reactions**, assessed on **Papers 2 and 4** --
+revise that half alongside your Paper 2/4 preparation, not your Paper 1/3
+preparation.
 
 ## Development of the atomic model
 
@@ -69,7 +76,7 @@ Shells fill **2, 8, 8**. Write configurations as 2,8,1 for sodium.
 
 Elements in the same group react similarly **because they have the same number of outer electrons**, and it is the outer electrons that take part in reactions. That sentence answers a large share of periodic-table questions.
 
-## The periodic table
+## The periodic table (C4.1 -- Papers 2 and 4)
 
 Arranged by **increasing atomic number**. **Mendeleev** left gaps for undiscovered elements and predicted their properties — which is why his table is remembered while earlier attempts are not, and why the discovery of gallium and germanium confirmed it.
 

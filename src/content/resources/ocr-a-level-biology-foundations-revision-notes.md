@@ -21,6 +21,11 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Foundations in Biology study guide](/resources/ocr-a-level-biology-foundations-in-biology/).
 
+Remember that Module 1 practical skills also underpin the separate,
+non-exam-assessed **Practical Endorsement**, requiring twelve assessed
+activities across the twelve **Practical Activity Groups (PAGs)** and
+reported apart from the A Level grade.
+
 ## Magnification vs resolution
 
 **Magnification** — how much bigger an image appears. **Resolution** — how much fine detail can be distinguished. Electron microscopes reveal organelle ultrastructure not simply because they magnify more, but because they achieve **far higher resolution** than light microscopes.
@@ -42,7 +47,7 @@ Exam questions often give two of the three quantities (image size, object size, 
 
 ## Cell structure (2.1.1)
 
-Know the ultrastructure **and function** of: nucleus, nucleolus, nuclear envelope, rough/smooth ER, Golgi apparatus, ribosomes, mitochondria, lysosomes, chloroplasts, plasma membrane, centrioles, cell wall, flagella, cilia. **No protein synthesis detail required at this stage.** Prokaryotic vs eukaryotic: know the shared and distinguishing features.
+Know the ultrastructure **and function** of: nucleus, nucleolus, nuclear envelope, rough/smooth ER, Golgi apparatus, ribosomes, mitochondria, lysosomes, chloroplasts, plasma membrane, centrioles, cell wall, flagella, cilia. Prokaryotic vs eukaryotic: know the shared and distinguishing features.
 
 ## Biological molecules (2.1.2)
 
@@ -77,13 +82,13 @@ The specification deliberately opens with microscopy rather than molecules: biol
 
 ## The cytoskeleton and organelle interrelationships
 
-The cytoskeleton provides mechanical strength, aids transport, and enables cell movement -- worth learning as a distinct, examinable structure rather than folding it into general "cell support". The specification also expects an understanding of how organelles involved in producing and secreting proteins work together (rough ER, Golgi apparatus, secretory vesicles), even though the detailed mechanism of protein synthesis itself is not required at this stage -- know the sequence of organelles involved, not the biochemistry of translation.
+The cytoskeleton provides mechanical strength, aids transport, and enables cell movement -- worth learning as a distinct, examinable structure rather than folding it into general "cell support". The specification also expects an understanding of how organelles involved in producing and secreting proteins work together (rough ER, Golgi apparatus, secretory vesicles) -- know both the sequence of organelles involved and, once 2.1.4 Nucleic acids is reached, the biochemistry of transcription and translation that underlies it.
 
 ## Common mistakes
 
 - Confusing magnification and resolution.
 - Mixing units when applying the magnification formula (convert to the same unit first).
-- Treating protein synthesis as required knowledge at 2.1.1 — it belongs to a later module.
+- Neglecting transcription and translation once 2.1.4 Nucleic acids is reached — this is required content, with named guidance on RNA polymerase and messenger RNA.
 - Learning organelle names without their functions.
 - Listing water's properties without linking them back to hydrogen bonding.
 

@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "organisation-oxfordaqa-igcse-biology"
-description: "Condensed recall notes on levels of organisation, the digestive system, enzymes, the heart and the lungs for OxfordAQA International GCSE Biology 9610."
+description: "Condensed recall notes on levels of organisation, the digestive system, enzymes, the heart and the lungs for OxfordAQA International GCSE Biology 9201."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -48,9 +48,9 @@ The active site has a shape **complementary** to the substrate, so each enzyme i
 
 | Enzyme | Substrate | Products | Made in |
 |---|---|---|---|
-| **Amylase** | Starch | Maltose | Salivary glands, pancreas |
-| **Protease** | Protein | Amino acids | Stomach, pancreas |
-| **Lipase** | Lipids | **Fatty acids + glycerol** | Pancreas |
+| **Amylase** | Starch | Maltose | Salivary glands, pancreas, small intestine |
+| **Protease** | Protein | Amino acids | Stomach, pancreas, small intestine |
+| **Lipase** | Lipids | **Fatty acids + glycerol** | Pancreas, small intestine |
 
 **Bile** is made in the **liver**, stored in the **gall bladder**, and does two things:
 
@@ -69,15 +69,6 @@ Mouth → oesophagus → stomach → small intestine → large intestine → rec
 - **Small intestine** — where absorption occurs; it is **long** and **folded**, and covered in **villi and microvilli**, all increasing surface area; it has a thin (one-cell) wall for a short diffusion path, and a rich blood supply to maintain the concentration gradient.
 
 Those adaptations — **large surface area, thin wall, good blood supply** — recur for every exchange surface in biology.
-
-## Food tests
-
-| Test | Reagent | Positive |
-|---|---|---|
-| Starch | Iodine | Blue-black |
-| Sugar | Benedict's, heat | Brick red |
-| Protein | Biuret | Purple |
-| Lipid | Ethanol then water | White emulsion |
 
 ## The heart
 

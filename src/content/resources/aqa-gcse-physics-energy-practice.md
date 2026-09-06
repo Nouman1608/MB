@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "conservation-and-dissipation-of-energy"
-description: "Original exam-style practice questions with full worked answers on energy stores, efficiency, insulation and energy resources for AQA GCSE Physics 8463."
+description: "Original exam-style practice questions with full worked answers on energy stores, dissipation, efficiency and insulation for sub-topic 4.1.2 of AQA GCSE Physics 8463."
 author: "iftikhar-azeemi"
 publishedDate: 2026-08-22
 featured: false
@@ -53,7 +53,7 @@ Related: [Energy revision notes](/resources/aqa-gcse-physics-energy-revision-not
 
 **6.** Explain how cavity wall insulation reduces energy transfer, referring to both conduction and convection. **[3]**
 
-**7.** Compare a wind farm and a nuclear power station on reliability, environmental impact and cost. **[6]**
+**7.** A ball rolling across a rough floor gradually slows down and stops. Using ideas about energy stores, dissipation and the conservation of energy, explain what has happened to the ball's kinetic energy, and why this does not violate the principle of conservation of energy. **[4]**
 
 **8.** State two methods (other than better insulation) of reducing unwanted energy transfer, and explain how each works. **[4]**
 
@@ -86,9 +86,7 @@ Pathways: **mechanically, electrically, by heating, by radiation** [1] [1].
 
 **6.** The cavity traps **air**, which has a **low thermal conductivity**, reducing conduction [1]. The insulating material **prevents the air from circulating** [1], which stops **convection currents** carrying energy across the cavity [1].
 
-**7. Reliability:** nuclear provides a **constant, reliable output** [1]; wind is **intermittent**, depending on weather [1].
-**Environmental:** neither emits carbon dioxide in operation [1]; nuclear produces **long-lived radioactive waste**, wind causes visual and noise impact and affects wildlife [1].
-**Cost:** both have **high setup costs**; nuclear has very high **decommissioning** costs, wind has almost no fuel or running costs [1] [1].
+**7.** Friction between the ball and the floor **dissipates energy from the kinetic store** [1] to the **thermal store of the ball and floor surfaces (and the surrounding air)**, and to the **sound store**, as the ball slows [1]. The ball's kinetic energy has therefore **decreased**, not disappeared [1]. This does **not** violate conservation of energy, because the total energy is unchanged overall — it has simply been **transferred to less useful stores**, becoming spread out ('dissipated'), rather than created or destroyed [1].
 
 **8. Lubrication** — reduces **friction** between moving surfaces, cutting the energy dissipated as heat and sound [1] [1]. **Thermal insulation** — reduces the **rate** of energy transfer by heating, using materials of **low thermal conductivity** [1] [1]. A low thermal conductivity material is a good insulator, not the reverse — a common point of confusion.
 

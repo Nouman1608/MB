@@ -25,8 +25,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 ```
 speed = distance / time        acceleration = (v - u) / t
-v^2 = u^2 + 2 a s
 ```
+
+(The equation sheet for this specification has no symbol for initial
+velocity and no uniform-acceleration ("SUVAT") equation -- work
+acceleration out from the gradient of a velocity-time graph instead.)
 
 **Distance–time graph:** gradient = speed.
 **Velocity–time graph:** gradient = **acceleration**, area = **distance**.
@@ -99,14 +102,6 @@ F = k x
 Valid **up to the limit of proportionality**. Beyond the elastic limit, deformation is permanent.
 
 Elastic potential energy stored = **area under the force–extension graph** = ½Fx for a linear region.
-
-## Pressure
-
-```
-p = F / A          p = rho g h  (in a fluid)
-```
-
-Pressure in a fluid depends on **depth and density only**, not on container shape — which is why a dam is thicker at its base.
 
 ## Exam traps
 

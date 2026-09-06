@@ -41,15 +41,14 @@ Condensed for the final weeks. For the full explanation, use the
 - **Protein** — a chain of amino acids joined by **peptide** bonds, folded into a specific 3D shape. The **sequence** determines the shape, and the shape determines the function — enzymes and antibodies both rely on a precisely-shaped binding site that a wrong sequence would destroy.
 - **DNA** — two strands in a **double helix**, held by complementary base pairing: **A–T** and **C–G**, with the sequence of bases along one strand storing the genetic information that the cell reads to build proteins.
 
-## Food tests — learn all five
+## Food tests — learn all four
 
 | Test for | Reagent | Method | Positive result |
 |---|---|---|---|
 | Starch | Iodine solution | Add drops | Orange-brown → **blue-black** |
-| Reducing sugar | Benedict's | **Heat** in water bath | Blue → green → yellow → **brick-red** |
+| Reducing sugar (glucose, maltose) | Benedict's | **Heat** in water bath | Blue → green → yellow → **brick-red** |
 | Protein | Biuret | Add, no heat | Blue → **purple/lilac** |
 | Fat | Ethanol emulsion | Shake with ethanol, add water | **White/cloudy emulsion** |
-| Vitamin C | DCPIP | Add drop by drop | Blue → **colourless** |
 
 Benedict's **must be heated**, in a water bath. Iodine, biuret and the emulsion test are all done at **room temperature**. Stating the method is often worth a mark by itself.
 

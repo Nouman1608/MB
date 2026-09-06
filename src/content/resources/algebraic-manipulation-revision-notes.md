@@ -19,7 +19,10 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "algebraic-fractions"
-description: "Condensed recall notes on expanding, factorising, completing the square and algebraic fractions for Cambridge O Level Mathematics 4024."
+  - qualification: "o-level"
+    topic: "algebra-and-graphs"
+    subtopic: "equations"
+description: "Condensed recall notes on expanding, factorising, completing the square, algebraic fractions, and the quadratic formula and discriminant for Cambridge O Level Mathematics 4024."
 author: "muhammad-ghazali-siddiqui"
 publishedDate: 2026-08-22
 featured: false
@@ -91,7 +94,7 @@ x^2 + bx + c   ->   (x + b/2)^2 - (b/2)^2 + c
 Example: x^2 + 8x + 3 = (x + 4)^2 - 16 + 3 = (x + 4)^2 - 13
 ```
 
-Uses: turning point at **(−b/2, the constant)**, minimum value, and solving quadratics.
+Uses: turning point at **(−b/2, the constant outside the bracket in the completed-square form)**, minimum value, and solving quadratics.
 
 Always check a completed-square answer by expanding it back out — if it does
 not return the original expression, an arithmetic slip has been made

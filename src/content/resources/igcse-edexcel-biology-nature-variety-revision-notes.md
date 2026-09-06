@@ -23,7 +23,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## The eight characteristics of living organisms
 
-**Nutrition, respiration, excretion, growth, movement, control (sensitivity), reproduction**, and Edexcel adds **the requirement for materials from the environment**. The standard mnemonic is **MRS GREN** — Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition, Control of internal conditions.
+**Nutrition, respiration, excretion, growth, movement, sensitivity, reproduction**, and **control of internal conditions** (homeostasis). The standard mnemonic is **MRS GREN** — Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition, Control of internal conditions.
 
 The two definitions that decide marks:
 
@@ -61,7 +61,9 @@ Not a kingdom, but a category — organisms that cause disease.
 
 **Pathogen vs vector.** Don't confuse the two: the **pathogen** is the disease-causing organism itself (e.g. *Plasmodium*, which causes malaria), while a **vector** is the organism that carries and transmits it (the mosquito). The mosquito is not the pathogen — it is the transport mechanism.
 
-## Levels of organisation
+## Levels of organisation (Topic 2 sub-topic (a))
+
+This hierarchy is sub-topic (a) of Topic 2, Structures and Functions in Living Organisms, not Topic 1 -- it is recapped here for continuity.
 
 ```
 organelle -> cell -> tissue -> organ -> organ system -> organism

@@ -47,9 +47,12 @@ MATHEMATICS 1**
 - 1.1 Quadratics — solving quadratic equations and inequalities,
 completing the square, and the discriminant, plus using the discriminant
 to determine the number and nature of roots of a quadratic equation
-- 1.2 Functions — domain, range, composite and inverse functions
-- 1.3 Coordinate geometry — the equation of a straight line, and the
-condition for two lines to be parallel or perpendicular
+- 1.2 Functions — domain, range, composite and inverse functions, and
+the graphs of simple transformations (translations, stretches and
+reflections) and their combinations
+- 1.3 Coordinate geometry — the equation of a straight line, the
+equation of a circle, and the condition for two lines to be parallel or
+perpendicular
 - 1.4 Circular measure — radian measure, arc length and sector area
 - 1.5 Trigonometry — the sine, cosine and tangent functions and their
 graphs, and solving simple trigonometric equations
@@ -102,12 +105,13 @@ geometric context is combined with calculus or vectors. Being able to move fluen
 equation of a line and its gradient, and between two points and the equation of the line joining
 them, is worth practising as its own standalone skill.
 
-**1.4–1.5 Circular measure and trigonometry.** Radians, not degrees, are the default unit from this
-point in the syllabus onward — get comfortable converting and working entirely in radians, since
-later calculus work (differentiating trig functions) only works cleanly in radians.
+**1.4–1.5 Circular measure and trigonometry.** Questions are set in either degrees or radians, so
+read the unit from the question rather than assuming one or the other — but get comfortable
+converting between the two and working in radians, since arc length, sector area and later
+calculus work (differentiating trig functions) all require radians.
 
 **1.6 Series.** The binomial expansion (for positive integer powers here; the general binomial
-theorem for other powers appears in Pure Mathematics 2) and arithmetic/geometric progressions,
+theorem for a rational power appears in Pure Mathematics 3) and arithmetic/geometric progressions,
 including the sum-to-infinity condition for a geometric series (|r| < 1). Being able to identify
 quickly whether a given sequence is arithmetic (constant difference) or geometric (constant ratio)
 is the first, and most commonly overlooked, step before applying either formula.

@@ -47,9 +47,12 @@ mitochondria, chloroplasts, ribosomes and vacuole
 - 2.4 Plant vs animal cells — the similarities and differences in
 structure between plant and animal cells
 - 2.5B Cell differentiation — the importance of cell differentiation in
-the development of specialised cells (Higher-tier content, marked B)
+the development of specialised cells (marked B: in the Biology
+International GCSE but not the Science Double Award, and assessed on
+Paper 2)
 - 2.6B Stem cells — the advantages and disadvantages of using stem cells
-in medicine (Higher-tier content, marked B)
+in medicine (marked B: in the Biology International GCSE but not the
+Science Double Award, and assessed on Paper 2)
 - 2.7 Elements in biological molecules — the chemical elements present in
 carbohydrates, proteins and lipids (fats and oils)
 - 2.8 Structure of biological molecules — carbohydrates, proteins and
@@ -66,8 +69,9 @@ enzyme function, including changes to the shape of the active site
 temperature
 - 2.13 pH and enzyme function — how changes in pH affect enzyme function
 by altering the active site
-- 2.14B Practical (Higher tier) — investigating how enzyme activity is
-affected by pH
+- 2.14B Practical (marked B: in the Biology International GCSE but not
+the Science Double Award, and assessed on Paper 2) — investigating how
+enzyme activity is affected by pH
 
 ## How to approach it
 

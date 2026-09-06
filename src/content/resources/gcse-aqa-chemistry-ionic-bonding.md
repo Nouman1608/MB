@@ -120,10 +120,11 @@ mark schemes are looking for in a full-mark explanation.
 
 Identifying a bond type without justifying it from the elements
 involved (metal/non-metal for ionic, non-metal/non-metal for
-covalent). Drawing a dot and cross diagram that includes inner-shell
-electrons rather than only the outer shell. Forgetting to show the
+covalent). Forgetting to show the
 correct charge and square brackets around each ion in a finished
-diagram. Applying the "charge equals group number" rule to elements
+diagram (the convention of showing only outer-shell electrons is not itself
+a requirement -- diagrams showing all occupied shells are acceptable
+provided the charges are shown). Applying the "charge equals group number" rule to elements
 outside Groups 1, 2, 6 and 7, where the specification does not require
 (and the rule does not reliably apply to) this simple approach.
 

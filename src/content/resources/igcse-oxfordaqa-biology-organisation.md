@@ -37,23 +37,37 @@ covering specific body systems.
 
 **OXFORDAQA INTERNATIONAL GCSE BIOLOGY (9201) — TOPIC 1 ORGANISATION**
 
-Topic 1 covers cell structure and function in animal and plant cells,
-how cells are specialised for their function, and how cells are
-organised into tissues, organs and organ systems -- including the
-digestive system and enzymes involved in digestion.
+- 3.1.1 Cell structure — the sub-cellular structures of animal and
+plant (eukaryotic) cells, and of bacterial (prokaryotic) cells; relating
+the structure of a specialised cell to its function
+- 3.1.2 Principles of organisation — how cells differentiate and are
+organised into tissues, tissues into organs, and organs into organ
+systems
+- 3.1.3 Animal tissues, organs and systems — muscular, glandular and
+epithelial tissue; the stomach as an example organ; the digestive
+system as an example organ system (the glands, stomach, small
+intestine, liver and large intestine, without the digestive enzymes,
+which belong to the following topic)
+- 3.1.4 Plant tissues, organs and systems — epidermal tissue, palisade
+and spongy mesophyll, xylem and phloem; stems, roots and leaves as
+plant organs
+- 3.1.5 Transport in cells — diffusion, osmosis and active transport;
+surface area to volume ratio; how exchange surfaces such as the small
+intestine, lungs, roots and leaves are adapted for exchanging materials
 
 ## How to approach it
 
-Because this topic establishes the organisational hierarchy (cell,
-tissue, organ, system) used throughout the rest of the syllabus,
-practise explaining how a specialised cell's structure relates to its
-function -- a recurring exam question format across biology
-specifications generally. Enzyme questions within this topic often
-ask about the effect of temperature or pH on enzyme activity, so
-practise interpreting rate-of-reaction graphs as well as recalling
-enzyme theory. Since diagrams of cells and organ systems appear
-regularly in exam papers, practising labelling and interpreting
-diagrams is as valuable as revising the written content.
+This topic is the foundation for the whole syllabus, so treat the
+cell-to-system hierarchy (cell → tissue → organ → organ system) as a
+recurring structure to apply to every organ studied later, rather than
+a one-off definition to memorise. Practise labelling diagrams of animal
+and plant cells and stating the function of each named structure, since
+structure-to-function questions are the most common format in this
+topic. For transport in cells, be precise about which process is which
+— diffusion, osmosis and active transport are frequently confused —
+and practise explaining how surface area, diffusion distance, blood
+supply and ventilation each affect the rate of exchange at a named
+surface (small intestine, lungs, roots or leaves).
 
 ## Official syllabus
 
@@ -61,72 +75,68 @@ OxfordAQA International GCSE Biology (9201) specification PDF,
 Version 4.3 —
 [oxfordaqa.com](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-biology-specification.pdf).
 
-## Levels of organisation
+## Cell structure (3.1.1)
 
-Specialised **cells** form **tissues**, tissues form **organs**, and organs work together as **organ systems**. Each level exists because it allows a division of labour that a single cell could not achieve. The stomach illustrates all of it: muscular tissue churns, glandular tissue secretes enzymes and acid, and epithelial tissue lines and protects.
+Most **animal cells** (eukaryotic) have a **nucleus** (controls the cell's activities), **cytoplasm** (where most chemical reactions happen), a **cell membrane** (controls what passes into and out of the cell), **mitochondria** (where most energy is released in respiration) and **ribosomes** (where protein synthesis occurs).
 
-## Enzymes
+**Plant cells** (eukaryotic) have all of the above, plus **chloroplasts** (absorb light energy to make food) and a **permanent vacuole** filled with cell sap. Plant and algal cells also have a **cell wall** made of cellulose, which strengthens the cell.
 
-Enzymes are proteins that act as biological catalysts, lowering activation energy and speeding reactions without being used up. The **active site** has a shape complementary to a specific substrate, which is why enzymes are specific — the lock-and-key model.
+A **bacterial cell** (prokaryotic) has cytoplasm and a membrane surrounded by a cell wall; its genes are not in a distinct nucleus, and some genes are located in circular structures called **plasmids**.
 
-Temperature increases rate until the optimum, because molecules collide more often with more energy. Above the optimum, bonds holding the tertiary structure break, the active site changes shape and the enzyme **denatures**. This is permanent. pH behaves similarly, with extremes disrupting the bonds that maintain the active site.
+Cells may be **specialised** to carry out a particular function — you should be able to relate the structure of a named cell type to its role in a tissue, organ or organism.
 
-Note the language carefully: enzymes denature, they do not "die", and they are not alive.
+## Principles of organisation (3.1.2)
 
-## The digestive system
+Large multicellular organisms need systems for exchanging materials. During development, cells **differentiate** so they can perform different functions. A **tissue** is a group of cells with similar structure and function. **Organs** are made of tissues — one organ may contain several different tissues. **Organ systems** are groups of organs that work together to perform a particular function.
 
-| Enzyme | Substrate | Products | Made in |
-|---|---|---|---|
-| Amylase | starch | maltose | salivary glands, pancreas |
-| Protease | protein | amino acids | stomach, pancreas |
-| Lipase | lipids | fatty acids + glycerol | pancreas |
+## Animal tissues, organs and systems (3.1.3)
 
-Bile is made in the liver and stored in the gall bladder. It is not an enzyme: it neutralises stomach acid so enzymes in the small intestine work near their optimum pH, and it **emulsifies** fats into small droplets, increasing surface area for lipase.
+Examples of animal tissue: **muscular tissue** (contracts to bring about movement), **glandular tissue** (produces substances such as enzymes and hormones) and **epithelial tissue** (covers parts of the body).
 
-The small intestine is adapted for absorption by being long, folded, and covered in villi and microvilli — all increasing surface area — with a thin one-cell-thick wall and a rich blood supply maintaining a steep concentration gradient.
+The **stomach** is an example organ, containing muscular tissue (to move contents through the digestive system), glandular tissue (to produce digestive juices) and epithelial tissue (to cover the inside and outside of the stomach).
 
-## Food tests
+The **digestive system** is an example organ system: glands such as the pancreas and salivary glands produce digestive juices; the stomach and small intestine are where digestion occurs; the liver produces bile; the small intestine is where soluble food is absorbed; and the large intestine absorbs water from the undigested food, producing faeces. The digestive enzymes themselves, and the roles of amylase, protease and lipase, are covered in the Bioenergetics topic, not here.
 
-| Test | Reagent | Positive result |
-|---|---|---|
-| Starch | Iodine | Blue-black |
-| Sugar | Benedict's solution, heated | Brick red |
-| Protein | Biuret reagent | Purple |
-| Lipid | Ethanol, then water | White emulsion |
+## Plant tissues, organs and systems (3.1.4)
 
-## The heart and circulation
+Examples of plant tissue: **epidermal tissue** (covers the plant), **palisade mesophyll** (carries out photosynthesis), **spongy mesophyll** (has air spaces to allow gases to diffuse) and **xylem and phloem** (transport substances around the plant). Plant organs include **stems, roots and leaves**.
 
-Humans have a double circulation: blood passes through the heart twice per circuit, which maintains higher pressure to the body. The right side pumps deoxygenated blood to the lungs, the left side oxygenated blood to the body, and the left ventricle has the thickest muscular wall because it pumps furthest.
+## Transport in cells (3.1.5)
 
-Arteries carry blood away from the heart with thick elastic walls and narrow lumens for high pressure. Veins carry blood back at low pressure with wide lumens and valves preventing backflow. Capillaries are one cell thick to allow exchange.
+**Diffusion** is the net movement of particles (in solution or in a gas) from a region of higher concentration to a region of lower concentration — the greater the concentration difference, the faster the rate. Oxygen needed for respiration passes through cell membranes by diffusion.
 
-## The lungs
+**Osmosis** is the diffusion of water from a dilute to a more concentrated solution through a partially permeable membrane. Differences in concentration inside and outside a cell cause water to move by osmosis, and you should be familiar with the terms **isotonic, hypotonic, hypertonic, turgor and plasmolysis**.
 
-Air passes **trachea → bronchi → bronchioles → alveoli**. Alveoli are adapted for efficient gas exchange in several ways: they are extremely **numerous**, giving a very large total surface area; their walls are **one cell thick**, giving a short diffusion distance; they are kept **moist**, so gases can dissolve before diffusing; and each is surrounded by a **dense network of capillaries**, maintaining a steep concentration gradient by constantly carrying gases away or bringing them in. Ventilation — the continual movement of air in and out — maintains this gradient, since without it the air in the alveoli would reach equilibrium with the blood and diffusion would stop.
+**Active transport** moves substances against a concentration gradient, using energy from respiration — for example, root hair cells absorbing mineral ions from very dilute soil solutions, or sugar being absorbed against a gradient in the intestine or kidney tubule.
 
-## Worked example
+A single-celled organism has a large surface area to volume ratio, so all necessary exchange can occur across its surface membrane. As organisms get larger and more complex, exchanging materials becomes harder, so multicellular organisms develop specialised exchange surfaces. An effective exchange surface has a **large surface area** relative to the volume it serves, is **thin** (a short diffusion path), and — in animals — has an **efficient blood supply** and, for gas exchange, is **ventilated**. The small intestine and lungs in mammals, and the roots and leaves in plants, are all adapted in these ways for exchanging materials.
 
-Explain why boiling amylase before adding starch means no maltose is produced.
+## Worked example: comparing two exchange surfaces
+
+Explain why both the small intestine and the lungs have a large internal surface area, but only the lungs need to be ventilated.
 
 ```
-High temperature breaks the bonds holding the tertiary structure.
-The active site changes shape permanently.
-Starch can no longer bind, so no enzyme-substrate complexes form.
-The enzyme is denatured, so no maltose is produced.
+Both the small intestine and the lungs are exchange surfaces, so
+both need a large surface area and a short diffusion path (thin
+walls) to maximise the rate of diffusion, and both have a rich
+blood supply to maintain a steep concentration gradient.
+The lungs additionally need ventilation because they exchange a
+gas (oxygen and carbon dioxide) with the air: without a constant
+supply of fresh air, the air in the alveoli would reach
+equilibrium with the blood and diffusion would stop.
+The small intestine does not need ventilating because it exchanges
+dissolved food molecules with the blood, not a gas with the air --
+the concentration gradient is maintained by blood flow alone.
 ```
-
-Four marks, one for each stage — describing the enzyme as "killed" scores nothing.
 
 ## Common mistakes
 
-Calling bile an enzyme, or saying it "digests" fat rather than emulsifying it. Saying enzymes are "killed" instead of denatured. Claiming a denatured enzyme recovers on cooling. Confusing the lock-and-key explanation of specificity with the effect of temperature on rate. Mixing up which side of the heart carries oxygenated blood.
+Muddling diffusion, osmosis and active transport — only active transport requires energy from respiration, and only osmosis is specifically about the movement of water. Describing a cell wall as present in all cells (it is not present in animal cells). Naming an organ system's organs without saying what the system as a whole does. Confusing surface area to volume ratio with surface area alone when explaining why smaller or more specialised structures exchange materials more efficiently.
 
 ## Quick revision checklist
 
-- Order the levels of organisation and give a worked example such as the stomach.
-- Explain enzyme specificity using the lock-and-key model.
-- Describe and explain the effects of temperature and pH, using the word denature correctly.
-- Name the three enzyme groups with substrates, products and sites of production.
-- State the two functions of bile.
-- List the adaptations of the small intestine for absorption.
-- Compare arteries, veins and capillaries, and explain double circulation.
+- Label the sub-cellular structures of an animal cell, a plant cell and a bacterial cell, and state the function of each.
+- State the cell → tissue → organ → organ system hierarchy with an example at each level.
+- Name the animal tissues found in the stomach and the plant tissues found in a leaf.
+- Define diffusion, osmosis and active transport, and say which one requires energy from respiration.
+- Explain how the small intestine, lungs, roots and leaves are each adapted as exchange surfaces.

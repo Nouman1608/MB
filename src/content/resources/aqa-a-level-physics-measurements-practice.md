@@ -52,7 +52,7 @@ Related: [Measurements and Their Errors revision notes](/resources/aqa-a-level-p
 **(b)** Suggest one possible experimental cause. **[1]**
 **(c)** Explain why repeating the readings would not remove it. **[2]**
 
-**6.** Describe how to find the uncertainty in a gradient using error bars. **[3]**
+**6.** Describe how to find the uncertainty in the gradient and in the intercept of a straight-line graph using error bars. **[4]**
 
 **7.** Distinguish between repeatable and reproducible results. **[2]**
 
@@ -72,7 +72,7 @@ Related: [Measurements and Their Errors revision notes](/resources/aqa-a-level-p
 **3. (a)** Mean of 20 oscillations = (31.2 + 31.5 + 31.1) ÷ 3 = 31.27 s [1] [1]
 T = 31.27 ÷ 20 = **1.56 s** [1].
 **(b)** The **absolute uncertainty from reaction time is fixed** [1], so timing a longer interval makes it a **much smaller percentage** of the reading [1].
-**(c)** The **reaction time** limits it [1]; this is a **systematic** error if the student consistently starts or stops late, though it also has a random component [1].
+**(c)** The **reaction time** limits it [1]; this is primarily a **random** error, since it varies from timing to timing, though it becomes systematic if the student consistently starts or stops early or late [1].
 
 **4. (a)** R = 4.85 ÷ 0.42 = **11.55 Ω** [1].
 **(b)** V: (0.05 ÷ 4.85) × 100 = **1.03%** [1]. I: (0.01 ÷ 0.42) × 100 = **2.38%** [1].
@@ -84,7 +84,7 @@ Absolute = 0.0341 × 11.55 = **±0.39 Ω** [1].
 **(b)** A **zero error** on the instrument, or a consistent offset such as failing to account for the mass of a container [1].
 **(c)** Repeating reduces **random** scatter about the line [1], but every reading is shifted by the **same amount**, so the intercept remains [1].
 
-**6.** Draw the **steepest** and **shallowest** lines that still pass through **all the error bars** [1] [1]. The uncertainty in the gradient is **half the difference between these two gradients** [1].
+**6.** Draw the **steepest** and **shallowest** lines that still pass through **all the error bars** [1] [1]. The uncertainty in the gradient is **half the difference between these two gradients** [1]. The uncertainty in the intercept is found the same way: **half the difference between the two lines' intercepts** [1].
 
 **7. Repeatable** — the same result is obtained on repeating with the **same method and equipment** [1]. **Reproducible** — the same result is obtained with a **different method or by a different person** [1].
 

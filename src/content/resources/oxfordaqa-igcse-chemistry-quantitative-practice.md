@@ -11,7 +11,7 @@ syllabusSeries: "Version 5.3 (first teaching 2016, first examined 2018; specific
 syllabusTopics:
   - qualification: "igcse"
     topic: "quantitative-chemistry-9202"
-description: "Original exam-style practice questions with full worked answers on moles, formula mass, percentage yield, atom economy and concentration."
+description: "Original exam-style practice questions with full worked answers on moles, formula mass, reacting masses and concentration."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -37,8 +37,7 @@ Related: [Quantitative Chemistry revision notes](/resources/oxfordaqa-igcse-chem
 
 **(a)** Calculate the moles of magnesium. **[2]**
 **(b)** Calculate the maximum mass of magnesium oxide that could form. **[3]**
-**(c)** In practice 7.2 g is obtained. Calculate the percentage yield. **[2]**
-**(d)** Give **two** reasons why the yield is less than 100%. **[2]**
+**(c)** In practice, only 7.2 g of magnesium oxide is obtained. Give **two** reasons why less than the calculated maximum mass is obtained, even though no atoms are gained or lost. **[2]**
 
 **4.** A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen by mass.
 
@@ -50,7 +49,7 @@ Related: [Quantitative Chemistry revision notes](/resources/oxfordaqa-igcse-chem
 **(a)** Calculate the moles of sodium hydroxide. **[2]**
 **(b)** Calculate the concentration of the acid. **[2]**
 
-**6.** Define atom economy and explain why a manufacturer prefers a high value. **[3]**
+**6.** Even though no atoms are gained or lost in a chemical reaction, explain why it is not always possible to obtain the calculated amount of a product. **[3]**
 
 **7.** 2.50 g of calcium carbonate reacts completely with excess dilute hydrochloric acid, releasing carbon dioxide gas: `CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂` (A_r: Ca = 40, C = 12, O = 16)
 
@@ -74,8 +73,7 @@ Related: [Quantitative Chemistry revision notes](/resources/oxfordaqa-igcse-chem
 
 **3. (a)** 4.8 ÷ 24 [1] = **0.20 mol** [1].
 **(b)** Ratio Mg : MgO is **1 : 1**, so 0.20 mol MgO [1]; M_r(MgO) = 40 [1]; mass = 0.20 × 40 = **8.0 g** [1].
-**(c)** (7.2 ÷ 8.0) × 100 [1] = **90%** [1].
-**(d)** Some **product is lost during transfer or on the apparatus** [1]; the **reaction may be incomplete or reversible**, or side reactions may occur [1].
+**(c)** The **reaction may not go to completion because it is reversible** [1]; some of the **product may be lost when it is separated from the reaction mixture**, or some of the reactants may react in unexpected side reactions [1].
 
 **4. (a)** Divide by A_r: C 40.0 ÷ 12 = 3.33; H 6.7 ÷ 1 = 6.7; O 53.3 ÷ 16 = 3.33 [1]. Divide by the smallest (3.33): C 1, H 2, O 1 [1]. Empirical formula = **CH₂O** [1].
 **(b)** Empirical mass = 30 [1]; 180 ÷ 30 = 6, so the molecular formula is **C₆H₁₂O₆** [1].
@@ -83,7 +81,7 @@ Related: [Quantitative Chemistry revision notes](/resources/oxfordaqa-igcse-chem
 **5. (a)** moles = c × V ÷ 1000 = 0.100 × 25.0 ÷ 1000 [1] = **2.50 × 10⁻³ mol** [1].
 **(b)** The ratio NaOH : HCl is 1 : 1, so moles of HCl = 2.50 × 10⁻³ [1]; concentration = 2.50 × 10⁻³ × 1000 ÷ 20.0 = **0.125 mol dm⁻³** [1].
 
-**6.** Atom economy = **(mass of desired product ÷ total mass of all products) × 100** [1]. A high value means **less of the reactant mass ends up as waste** [1], so **raw material costs and the cost of separating and disposing of by-products are lower**, making the process more profitable and more sustainable [1].
+**6.** The reaction **may not go to completion because it is reversible** [1]; some of the **product may be lost when it is separated** from the reaction mixture during purification [1]; some of the **reactants may react in ways different from the expected reaction** [1].
 
 **7. (a)** M_r(CaCO₃) = 40 + 12 + 3(16) = 100 [1]; moles = 2.50 ÷ 100 = **0.0250 mol** [1].
 **(b)** The ratio CaCO₃ : CO₂ is **1 : 1**, so n(CO₂) = 0.0250 mol [1]; V = 0.0250 × 24 = **0.600 dm³** [1].

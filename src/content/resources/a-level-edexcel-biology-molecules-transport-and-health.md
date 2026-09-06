@@ -49,7 +49,7 @@ starch with iodine solution; and how condensation and hydrolysis
 reactions build and break glycosidic bonds
 - Lipids and the case for mass transport (1.5-1.6) — triglyceride
 synthesis by ester bond formation, the difference between saturated
-and unsaturated lipids, and why animals with a high surface
+and unsaturated lipids, and why animals with a low surface
 area-to-volume ratio need a heart and circulation to overcome the
 limits of diffusion
 - The heart and blood vessels (1.7-1.9) — how the structures of

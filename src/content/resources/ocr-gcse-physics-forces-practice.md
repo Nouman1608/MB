@@ -37,7 +37,7 @@ Related: [Forces study guide](/resources/ocr-gcse-physics-forces/) | [Forces rev
 
 **3.** A cyclist travels 240 m in 30 seconds at a constant speed. Calculate the cyclist's speed. **[2]**
 
-**4.** A velocity-time graph shows an object accelerating uniformly from 0 to 15 m/s over 5 seconds, then travelling at a constant 15 m/s for a further 8 seconds. Calculate the total distance travelled. **[4]**
+**4.** A velocity-time graph shows an object accelerating uniformly from 0 to 15 m/s over 5 seconds, then travelling at a constant 15 m/s for a further 8 seconds. Calculate the total distance travelled. **[5]**
 
 **5.** A resultant force of 24 N acts on a trolley of mass 8 kg. Calculate the trolley's acceleration. **[2]**
 

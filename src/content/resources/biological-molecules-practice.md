@@ -55,10 +55,10 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 **(b)** Name the monomer (repeating unit) of DNA. **[1]**
 **(c)** State the two complementary base-pairing rules. **[2]**
 
-**8.** A student tests two fruit juice samples for vitamin C content using DCPIP.
+**8.** A student is given a colourless solution and must determine whether it contains starch, protein, or both.
 
-**(a)** Describe how the test is carried out and the positive result. **[2]**
-**(b)** Explain how this test could be used to compare the vitamin C content of the two samples. **[2]**
+**(a)** Describe the test and the positive result that would show whether starch is present. **[2]**
+**(b)** Describe the test and the positive result that would show whether protein is present. **[2]**
 
 ---
 
@@ -85,8 +85,8 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 **(b)** **Nucleotide** [1].
 **(c)** **Adenine pairs with thymine (A–T)** [1]; **cytosine pairs with guanine (C–G)** [1].
 
-**8. (a)** Add the fruit juice **drop by drop** to a fixed volume of blue DCPIP solution, shaking after each drop, until the blue colour **just disappears (turns colourless)** [1]; vitamin C decolourises DCPIP [1].
-**(b)** **Count/measure the volume of juice needed** to decolourise the same volume of DCPIP for each sample [1]; the sample requiring the **smaller volume** to decolourise it contains **more vitamin C** per unit volume [1].
+**8. (a)** Add a few drops of **iodine solution** directly to the sample at room temperature [1]; a colour change from orange-brown to **blue-black** shows starch is present, and no colour change shows it is absent [1].
+**(b)** Add **biuret reagent** (or sodium hydroxide solution followed by a few drops of copper sulfate solution) at room temperature, without heating [1]; a colour change from blue to **purple/lilac** shows protein is present, and no colour change shows it is absent [1].
 
 ---
 
@@ -97,10 +97,9 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 - Saying starch is insoluble without linking that to osmosis.
 - Giving only the solvent role of water.
 - Forgetting phosphorus alongside nitrogen when naming the elements unique to DNA compared with a carbohydrate.
-- Reversing the DCPIP logic — a **smaller** volume of juice needed to decolourise the reagent means **more** vitamin C is present, not less.
 - Naming DNA's monomer as "a base" rather than a full **nucleotide** (which includes a sugar, a phosphate group and a base).
 
-## The five food tests, side by side
+## The four food tests, side by side
 
 | Test for | Reagent | Heat needed? | Positive result |
 |---|---|---|---|
@@ -108,7 +107,6 @@ Related: [Biological Molecules revision notes](/resources/biological-molecules-r
 | Reducing sugar | Benedict's | **Yes** | Blue → brick-red precipitate |
 | Protein | Biuret | No | Blue → purple/lilac |
 | Fat | Ethanol, then water | No | White/cloudy emulsion |
-| Vitamin C | DCPIP | No | Blue → colourless |
 
 Only the reducing-sugar test with Benedict's solution requires heating
 — every other test in this set is carried out at room temperature, and

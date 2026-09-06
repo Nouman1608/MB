@@ -35,7 +35,7 @@ Every definition needs **electrostatic attraction**.
 
 **Polarisation:** a small, highly charged cation distorts a large anion's electron cloud, giving an ionic compound **covalent character**. Polarising power rises with **higher charge and smaller radius**; polarisability rises with **larger anion radius**. This is why AlCl₃ behaves covalently while NaCl does not.
 
-Comparing **theoretical and experimental lattice energies** measures this: a large discrepancy indicates significant covalent character.
+Comparing **theoretical and experimental lattice energies** measures this: a large discrepancy indicates significant covalent character. *(This comparison itself is Unit 4, topic 12 content -- Unit 1 goes no further than recognising covalent character from polarisation.)*
 
 ## Shapes — VSEPR
 
@@ -76,11 +76,13 @@ Hydrogen bonding needs **both** conditions. HCl does not hydrogen bond.
 - **Structural isomerism** — chain, position, functional group.
 - **Stereoisomerism** — same structural formula, different spatial arrangement:
   - **E/Z (geometric)** — requires a **C=C double bond** (restricted rotation) **and** two different groups on each carbon. Both conditions are needed.
-  - **Optical** — requires a **chiral centre**: a carbon with four *different* groups. The two enantiomers are non-superimposable mirror images and rotate plane-polarised light in opposite directions.
+  - **Optical** *(Unit 4, topic 15 content)* — requires a **chiral centre**: a carbon with four *different* groups. The two enantiomers are non-superimposable mirror images and rotate plane-polarised light in opposite directions.
 
 **A racemic mixture rotates light not at all**, because equal amounts of the two enantiomers cancel. This matters mechanistically: a reaction proceeding through a **planar carbocation or planar intermediate** produces a racemic mixture, because attack is equally likely from either face. That is direct evidence for the mechanism.
 
 ## Mechanisms
+
+*(The halogenoalkane hydrolysis content below -- the mechanism table's Nucleophilic substitution/Elimination rows, the aqueous-vs-ethanolic KOH rule, and the C-I to C-F rate trend -- is Unit 2, topic 10 content, examined after Unit 1.)*
 
 **Curly arrows** show a **pair** of electrons moving, starting from a **bond or lone pair** — never from an atom or a positive charge.
 

@@ -3,7 +3,7 @@ title: "Kinematics: Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["ib"]
-topic: "Topic A – Space, Time and Motion (A.1)"
+topic: "Theme A – Space, Time and Motion (Topic A.1)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Physics"]
@@ -12,14 +12,15 @@ order: 1
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-physics-topic-a"
-description: "Condensed SL-level recall notes on kinematics (sub-topic A.1) for IB Diploma Programme Physics."
+description: "Condensed recall notes on kinematics (topic A.1), common to both SL and HL, for IB Diploma Programme Physics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false
 ---
 
-Condensed for the final weeks, covering the **SL-level** content of sub-topic A.1. For the full
-syllabus, including HL-only extensions, use the
+Condensed for the final weeks, covering topic A.1, which is **common to both SL and HL** — the
+syllabus adds no separate higher-level content or extensions to this topic. For the full
+syllabus, use the
 [IB DP Physics syllabus guide](/resources/ib-dp-physics-syllabus-guide/).
 
 ## Core quantities
@@ -84,8 +85,8 @@ one into the other's equation, is the single most common source of error in this
 
 ## Where kinematics fits in the wider syllabus
 
-Kinematics (A.1) is the first sub-topic of Topic A – Space, Time and Motion, and it establishes the
-vocabulary — displacement, velocity, acceleration — that the rest of Topic A and later topics
+Kinematics (A.1) is the first topic of Theme A – Space, Time and Motion, and it establishes the
+vocabulary — displacement, velocity, acceleration — that the rest of Theme A and later themes
 build on directly. A.2 (Forces and momentum) immediately extends kinematics by asking *what
 causes* acceleration, introducing Newton's laws and momentum on top of the SUVAT toolkit covered
 here. Without a secure grip on the distinction between scalar and vector quantities established in

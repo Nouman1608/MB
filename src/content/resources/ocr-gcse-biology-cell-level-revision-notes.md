@@ -63,7 +63,7 @@ Biological **catalysts** that lower activation energy. The **active site** is co
 
 **Denaturation is a change in the shape of the active site**, so the substrate no longer fits. Enzymes are not alive and are not "killed".
 
-**Calculating rate:** `rate = 1000 ÷ time` when time is in seconds — a standard OCR calculation.
+**Calculating rate:** rate = 1 ÷ time. Time is often scaled (e.g. 1000 ÷ time in seconds) to give a more convenient number; a scaled value like this is in **arbitrary units**, not a defined unit of rate, so state that explicitly if you use it.
 
 ## Respiration
 

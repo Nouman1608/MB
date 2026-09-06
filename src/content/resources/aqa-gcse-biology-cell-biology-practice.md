@@ -74,7 +74,7 @@ Related: [Cell Biology revision notes](/resources/aqa-gcse-biology-cell-biology-
 **4.** In the first stage the cell **grows, the number of sub-cellular structures increases** [1] and the **DNA replicates to form two copies of each chromosome** [1]. In **mitosis**, one set of chromosomes is **pulled to each end of the cell** [1] and the **nucleus divides** [1]. Finally the **cytoplasm and cell membrane divide** to form two genetically identical daughter cells [1].
 
 **5. (a)** An **undifferentiated cell** [1] that can **divide to produce more cells of the same type and differentiate into other specialised cell types** [1].
-**(b)** Embryonic stem cells can differentiate into **any** cell type, whereas adult stem cells can only form a **limited range** [1].
+**(b)** Embryonic stem cells can be made to differentiate into **most different types of human cells**, whereas adult stem cells can only form a **limited range** [1].
 **(c)** The embryo is **destroyed**, and some people consider it to have the right to life [1].
 **(d)** An **embryo is produced with the same genes as the patient** [1], so the stem cells taken from it are **genetically identical to the patient** [1] and will **not be rejected by the immune system** [1].
 

@@ -38,11 +38,19 @@ completely regardless of tier.
 
 ## Osmosis — the Core/Supplement trap
 
-**Core needs only:** water diffuses through partially permeable membranes by osmosis; water moves into
-and out of cells by osmosis.
+**Core needs six things:** the role of water as a solvent in organisms, with reference to digestion,
+excretion and transport; that water diffuses through partially permeable membranes by osmosis; that
+water moves into and out of cells by osmosis through the cell membrane; investigating osmosis using
+materials such as dialysis tubing; investigating and describing the effects on plant tissues of
+immersing them in solutions of different concentrations; and that plants are supported by the
+pressure of water inside the cells pressing outwards on the cell wall.
 
-**Supplement adds:** the higher/lower water potential definition, plus turgid/turgor
-pressure/plasmolysis/flaccid vocabulary for plant cells in different solution concentrations.
+**Supplement adds:** describing osmosis as the net movement of water molecules from a region of
+higher water potential (dilute solution) to a region of lower water potential (concentrated
+solution) through a partially permeable membrane; explaining the effects on plant cells of
+immersing them in solutions of different concentrations using the terms turgid, turgor pressure,
+plasmolysis and flaccid; and explaining the importance of water potential and osmosis in the uptake
+and loss of water by organisms.
 
 Core candidates who half-learn the Supplement definition often lose marks trying to use "water
 potential" language they don't actually need — know which level you're being examined at.

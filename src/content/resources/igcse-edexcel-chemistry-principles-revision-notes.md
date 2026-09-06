@@ -70,14 +70,13 @@ moles = concentration x volume(dm3)
 moles of gas = volume(dm3) / 24        at room temperature and pressure
 
 percentage yield  = (actual / theoretical) x 100
-atom economy      = (Mr of desired product / total Mr of reactants) x 100
 ```
 
 **Empirical formula method:** divide each mass or percentage by the relative atomic mass, then divide all results by the smallest, then scale to whole numbers.
 
 **Worked example.** A compound contains 40.0 g of calcium, 12.0 g of carbon and 48.0 g of oxygen (Ar: Ca = 40, C = 12, O = 16). Moles: Ca = 40.0 ÷ 40 = 1.0; C = 12.0 ÷ 12 = 1.0; O = 48.0 ÷ 16 = 3.0. Dividing through by the smallest value (1.0) gives the ratio Ca : C : O = 1 : 1 : 3, so the empirical formula is **CaCO₃**.
 
-**Percentage yield is never 100%** because of incomplete reactions, side reactions, losses during transfer and purification, and reversible reactions. **Atom economy** is different — it measures how much of the reactant mass ends up in the desired product, and a reaction can have 100% yield yet poor atom economy if it produces significant by-products.
+**Percentage yield is never 100%** because of incomplete reactions (particularly reversible reactions that do not go to completion), some product being lost during separation and purification, and some reactants reacting in unexpected side reactions.
 
 ## Electrolysis
 
@@ -99,7 +98,7 @@ Electrolysis of **molten** compounds gives the metal and the non-metal directly,
 - Saying covalent bonds break when a simple molecular substance melts.
 - Saying ionic solids conduct electricity.
 - Omitting "electrostatic attraction" from a bonding definition.
-- Confusing percentage yield with atom economy.
+- Forgetting that a reversible reaction not going to completion is one of the standard reasons the calculated amount of product is not obtained.
 - Forgetting that diffusion rate depends on relative molecular mass.
 - Confusing the polarity of the electrodes — in electrolysis the cathode is negative.
 - Saying isotopes have different chemical properties.
@@ -109,7 +108,7 @@ Electrolysis of **molten** compounds gives the metal and the non-metal directly,
 1. Why does the white ring form nearer the HCl end in the diffusion experiment?
 2. Why do isotopes have identical chemical properties?
 3. Why does graphite conduct but diamond not?
-4. Distinguish percentage yield from atom economy.
+4. State three reasons why the percentage yield of a reaction is less than 100%.
 5. In electrolysis, which electrode is negative and what happens there?
 
-**Answers:** 1. Ammonia has a lower relative molecular mass than hydrogen chloride, so it diffuses faster and travels further before they meet. 2. Chemical properties depend on the arrangement of electrons, which is the same for all isotopes of an element; only the number of neutrons differs. 3. Each carbon in graphite forms only three covalent bonds, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in bonding. 4. Percentage yield compares actual product obtained with the theoretical maximum; atom economy measures what proportion of the reactant mass ends up in the desired product. 5. The cathode is negative; cations are attracted to it and are reduced by gaining electrons.
+**Answers:** 1. Ammonia has a lower relative molecular mass than hydrogen chloride, so it diffuses faster and travels further before they meet. 2. Chemical properties depend on the arrangement of electrons, which is the same for all isotopes of an element; only the number of neutrons differs. 3. Each carbon in graphite forms only three covalent bonds, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in bonding. 4. The reaction may not go to completion because it is reversible; some product may be lost during separation and purification; some reactants may react in unexpected side reactions. 5. The cathode is negative; cations are attracted to it and are reduced by gaining electrons.

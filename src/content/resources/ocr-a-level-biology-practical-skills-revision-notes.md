@@ -31,18 +31,21 @@ Condensed for the final weeks. For the full explanation, use the
 
 A **control experiment** is different from a control variable: it is a parallel run with the independent variable absent, showing that the effect observed is caused by the factor being tested and nothing else. Boiled enzyme in place of active enzyme is the standard example.
 
-## The four words that are constantly confused
+## The five words that are constantly confused
 
 | Term | Meaning |
 |---|---|
 | **Accurate** | Close to the **true value** |
 | **Precise** | Repeat readings are close **to each other** |
-| **Reliable / repeatable** | Same result on repeating with the same method |
-| **Valid** | Measures what it is **supposed** to measure — requires a fair test with controlled variables |
+| **Repeatable** | The **same person**, using the **same method and apparatus**, gets the same result on repeating the measurement |
+| **Reproducible** | The same result is obtained when the **operator, apparatus or method changes** |
+| **Resolution** | The **smallest change** a measuring instrument can detect — a property of the instrument, not of the readings taken with it |
+
+Separately, **valid** means measuring what it is supposed to measure — it requires a fair test with controlled variables, and is a different kind of quality from the five above.
 
 A set of results can be **precise but not accurate** — a wrongly calibrated balance gives consistent readings that are consistently wrong. That distinction is the most commonly examined idea in the whole topic.
 
-**Increasing repeats improves reliability and lets you spot anomalies — it does not improve accuracy.** Accuracy comes from better calibrated or more sensitive apparatus.
+**Increasing repeats improves reliability and lets you spot anomalies, and it improves the accuracy of the mean by reducing the effect of random error** (repeating and averaging cancels out random scatter around the true value). **It does nothing for a systematic error** — a consistent bias caused by, for example, a wrongly calibrated instrument — which needs recalibration, not more repeats.
 
 ## Uncertainty
 
@@ -120,7 +123,7 @@ Compare the calculated value with the **critical value at p = 0.05**. If the cal
 ## Exam traps
 
 - Swapping accuracy and precision.
-- Claiming more repeats improve accuracy.
+- Claiming more repeats improve accuracy when the error is systematic — repeating only helps with random error; a systematic error needs recalibration.
 - Forgetting to double the uncertainty for a two-reading measurement.
 - Saying repeating removes systematic error.
 - Suggesting improvements without giving reasons.

@@ -54,7 +54,7 @@ Related: [Enzymes revision notes](/resources/enzymes-revision-notes/)
 
 **6.** Give **two** uses of enzymes in industry and explain the benefit of each. **[4]**
 
-**7.** A student investigates the effect of substrate concentration on the rate of an enzyme-catalysed reaction, keeping enzyme concentration, temperature and pH constant.
+**7.** *(Beyond this syllabus — substrate concentration is not one of the enzymes outcomes in O Level 5090, which cover only enzyme action and the effects of temperature and pH.)* A student investigates the effect of substrate concentration on the rate of an enzyme-catalysed reaction, keeping enzyme concentration, temperature and pH constant.
 
 **(a)** Describe the shape of the graph of rate against substrate concentration. **[2]**
 

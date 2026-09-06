@@ -13,49 +13,58 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
-description: "Biological molecules, cells and biodiversity -- Unit 1 of OxfordAQA International AS & A-Level Biology (9610), the first of two units forming the International AS."
+description: "Classification, biodiversity, adaptation and natural selection, and field investigation technique, from Unit 1 of OxfordAQA International AS & A-Level Biology (9610), the first of two units forming the International AS."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
 This guide covers **Unit 1 The Diversity of Living Organisms**, the
-first of four units in OxfordAQA International AS & A-Level Biology
+first of five units in OxfordAQA International AS & A-Level Biology
 (9610), for teaching from September 2016. Units 1-2 form the
 International AS (50% of the full A-level content, 40% of final
-marks); Units 3-4 are International A2-only.
+marks); Units 3-5 are International A2-only, with Unit 5 the
+synoptic paper.
 
 ## Where this fits in 9610
 
 Unit 1 opens the AS-level content alongside Unit 2 (Biological systems
 and disease), establishing core biological concepts -- cell structure,
 biological molecules, and the classification of living things -- that
-the A2-only Units 3-4 (Populations and genes, Control) build on.
+the A2-only Units 3-5 (Populations and genes; Control; and the
+synoptic paper, which draws on all four content units) build on.
 
 ## Syllabus coverage
 
 **OXFORDAQA INTERNATIONAL AS & A-LEVEL BIOLOGY (9610) — UNIT 1 THE
 DIVERSITY OF LIVING ORGANISMS**
 
-Unit 1 covers the structure and function of biological molecules
-(carbohydrates, lipids, proteins, nucleic acids), cell structure and
-the ultrastructure of eukaryotic and prokaryotic cells, and how
-biodiversity is classified and measured across different groups of
-organisms.
+Unit 1 as a whole covers eleven sections, from biological molecules
+and cell structure through to biodiversity (3.1.1-3.1.11). This guide
+covers the classification and ecology strand of Unit 1: species and
+taxonomy (3.1.10), biodiversity within a community and genetic
+diversity as measured by base, mRNA and amino acid sequences
+(3.1.11), and the field-sampling practical skills that go with them.
+Natural selection, directional and stabilising selection and the
+genetic bottleneck are **not** Unit 1 content -- the specification
+places them in Unit 3 (Investigating cells, and Populations and
+genetics), which is International A2-only and is covered in a
+companion guide for that unit. Biological molecules, cell structure,
+enzymes, transport into and out of cells, gas exchange, DNA and
+genes, protein synthesis and meiosis (3.1.1-3.1.5 and 3.1.7-3.1.9)
+are covered in the companion guides for those sections.
 
 ## How to approach it
 
-Because biological molecules are assessed in detail at this level,
-practise linking each molecule's structure directly to its function --
-for instance, why a protein's specific shape determines what it can
-bind to -- rather than memorising structures in isolation. Cell
-structure questions often require comparing eukaryotic and prokaryotic
-cells or interpreting electron micrographs, so practise both
-comparison tables and diagram interpretation as distinct skills.
 Classification and biodiversity content rewards precise use of
 taxonomic vocabulary (species, genus, kingdom) and comfort calculating
-simple biodiversity indices, both of which are easy to under-revise
-relative to the molecular content.
+simple biodiversity indices, both of which are easy to under-revise.
+Field-sampling questions often ask you to justify why a technique
+avoids bias, so practise explaining the reasoning behind random
+quadrat placement and transects, not just describing the methods.
+(Natural selection questions, marked strictly on causal order --
+variation first, by chance, then selection acting on it -- belong to
+Unit 3 and are covered in that unit's guide.)
 
 ## Official syllabus
 
@@ -86,21 +95,21 @@ n = total number of organisms of each species
 
 A higher value indicates greater diversity. A community dominated by one species has low diversity even if species richness is high.
 
-Genetic diversity within a species can be measured as the proportion of gene loci that are polymorphic, or by comparing base or amino acid sequences. It arises from **mutation**, from meiosis (crossing over and independent assortment), and from random fertilisation. A **genetic bottleneck** — a sharp fall in population size — removes alleles from the gene pool at random and so reduces genetic diversity, leaving the survivors less able to adapt to future environmental change; a **founder effect** produces the same reduction when a small, genetically unrepresentative group establishes a new, isolated population.
+Genetic diversity within a species can be measured as the proportion of gene loci that are polymorphic, or by comparing base or amino acid sequences. It arises from **mutation**, from meiosis (crossing over and independent assortment), and from random fertilisation. *(The genetic bottleneck and founder effect, and the natural-selection content below, belong to Unit 3 and are included here only as forward references -- they are not assessed as part of Unit 1.)*
 
-## Adaptation and natural selection
+## Adaptation and natural selection (Unit 3 content, not part of Unit 1)
 
 Adaptations may be **anatomical**, **physiological** or **behavioural**. Natural selection follows a fixed logic that examiners expect in sequence: variation exists within a population and arises from random mutation; more offspring are produced than can survive; individuals with advantageous alleles are more likely to survive and reproduce; those alleles are passed on; over many generations their frequency in the population increases.
 
 The phrase "the organism adapted in order to survive" reverses the causation and is heavily penalised — variation arises first, by chance, and selection acts on it afterwards.
 
-Selection can act in different ways depending on the environment. **Directional selection** favours one extreme of a trait, shifting the population's allele frequencies in that direction — antibiotic resistance in bacteria under repeated antibiotic exposure is the standard example, since only resistant individuals survive to reproduce as the environment changes. **Stabilising selection** instead favours the mean and selects against both extremes, keeping allele frequencies steady in a stable, unchanging environment — human birth mass is the standard example, since both very low and very high birth masses carry increased risk.
+Selection can act in different ways depending on the environment. **Directional selection** favours one extreme of a trait, shifting the population's allele frequencies in that direction — a commonly used illustration (not itself named in the specification, which frames selection in terms of predation, disease and competition producing differential survival and reproduction) is antibiotic resistance in bacteria under repeated antibiotic exposure, since only resistant individuals survive to reproduce as the environment changes. **Stabilising selection** instead favours the mean and selects against both extremes, keeping allele frequencies steady in a stable, unchanging environment — human birth mass is a commonly used illustration, since both very low and very high birth masses carry increased risk.
 
 Agricultural practices and deforestation reduce biodiversity by removing habitats and by favouring monoculture; conservation techniques attempt to balance this against the need to feed a growing population.
 
 ## Investigating diversity in the field
 
-Random sampling using quadrats placed by random coordinates avoids bias. Sample size must be large enough for reliability, and a mean is taken. Where an environmental gradient exists, a **transect** is used instead, because the variation being studied is not random.
+This specification's own sampling content is limited to random sampling, the role of chance, and the importance of an appropriate sample size; quadrats and transects are widely used field techniques for applying that content but are not themselves named in the specification. Random sampling using quadrats placed by random coordinates avoids bias. Sample size must be large enough for reliability, and a mean is taken. Where an environmental gradient exists, a **transect** is a commonly used technique instead, because the variation being studied is not random.
 
 ## Worked example
 
@@ -129,5 +138,4 @@ Defining a species without the word fertile. Writing binomial names without ital
 - Define species, and explain what makes classification phylogenetic.
 - Describe the molecular evidence used to establish relationships.
 - Distinguish species richness from an index of diversity and calculate d.
-- Set out natural selection in the correct causal order.
 - Design a valid random sampling investigation and know when a transect is used instead.

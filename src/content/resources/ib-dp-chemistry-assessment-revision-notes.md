@@ -20,11 +20,15 @@ Condensed for quick recall of how the course is assessed. For the full subject o
 
 | Component | Weight | What it involves |
 |---|---|---|
-| Paper 1 | 36% | Short-answer and data-based questions across the syllabus |
-| Paper 2 | 44% | Short-answer and extended-response questions on structure and reactivity |
+| Paper 1 | 36% | Multiple-choice, short-answer and data-based questions across the syllabus |
+| Paper 2 | 44% | Multiple-choice, short-answer and extended-response questions on structure and reactivity |
 | Internal assessment | 20% | An individual scientific investigation, up to 3,000 words |
 
 External (80%) + internal (20%), same split at SL and HL — papers differ in length/demand, not weighting.
+
+## The data booklet
+
+A clean copy of the **chemistry data booklet** (constants, formulae, and data such as relative atomic masses) is provided to every candidate for **every paper**, at both SL and HL. This is deliberate: the guide states it maintains the emphasis on **interpretation over memorisation**, so revision time is better spent practising how to select and use the right piece of supplied data than memorising it. Anything printed in the data booklet -- for example the Avogadro constant and relative atomic masses to two decimal places -- does not need to be committed to memory; know instead which page it is on and how to use it correctly.
 
 ## The structure-and-reactivity framework
 
@@ -41,7 +45,7 @@ keep these separate in your revision/coursework planning.
 
 ## Command terms and how each paper uses them
 
-Both papers draw their questions from the same command-term glossary used across all DP sciences -- **state**, **define**, **identify** and **describe** at the lower end (recall and straightforward description), through **explain**, **compare**, **deduce** and **suggest** in the middle, up to **evaluate**, **discuss** and **justify** at the top, where a reasoned judgement or synthesis across multiple pieces of evidence is required. Paper 1's short-answer and data-based questions lean more heavily on the lower and middle tiers; Paper 2's extended-response questions, worth almost half the external mark, more often reach the top tier -- so revision time spent specifically practising **evaluate** and **discuss** style answers (weighing evidence, acknowledging limitations, reaching a justified conclusion) pays off disproportionately for Paper 2.
+Both papers draw their questions from the same command-term glossary used across all DP sciences -- **state**, **define**, **identify** and **describe** at the lower end (recall and straightforward description), through **explain**, **compare**, **deduce** and **suggest** in the middle, up to **evaluate**, **discuss** and **justify** at the top, where a reasoned judgement or synthesis across multiple pieces of evidence is required. Paper 1's multiple-choice, short-answer and data-based questions lean more heavily on the lower and middle tiers; Paper 2's extended-response questions, worth almost half the external mark, more often reach the top tier -- so revision time spent specifically practising **evaluate** and **discuss** style answers (weighing evidence, acknowledging limitations, reaching a justified conclusion) pays off disproportionately for Paper 2.
 
 ## The internal assessment in more depth
 
@@ -49,7 +53,7 @@ The IA report is assessed against a set of criteria covering the whole investiga
 
 ## How Chemistry's assessment compares to its sibling sciences
 
-DP Biology and DP Physics follow the same overall assessment architecture -- two external written papers plus an individually graded internal assessment, together with the ungraded collaborative sciences project -- but each subject's papers are built around its own organising framework rather than Chemistry's structure-and-reactivity pairing (Biology, for instance, organises around themes of unity and diversity across its own topic areas). If you are also studying another Group 4 science, recognising that the *shape* of assessment (external papers plus IA plus collaborative project) transfers directly, while the specific organising concepts tested do not, helps avoid wasted revision time trying to map one subject's framework onto another's.
+DP Biology and DP Physics follow the same overall assessment architecture -- two external written papers plus an individually graded internal assessment, together with the ungraded collaborative sciences project -- but each subject's papers are built around its own organising framework rather than Chemistry's structure-and-reactivity pairing. If you are also studying another Group 4 science, recognising that the *shape* of assessment (external papers plus IA plus collaborative project) transfers directly, while the specific organising concepts tested do not, helps avoid wasted revision time trying to map one subject's framework onto another's.
 
 ## How SL and HL differ
 
@@ -72,8 +76,6 @@ The 80% external / 20% internal balance is deliberately weighted toward the two 
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject
-Brief -- Sciences: Chemistry*, first assessment 2025, published January
-2022 -- the same source cited by the
+International Baccalaureate Organization, *Chemistry guide*, Diploma Programme, first assessment 2025 (published February 2023, updated May 2023) -- copy consulted via a school-hosted mirror, not ibo.org. The same source is cited by the
 [full syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/) and the
 [subject overview](/resources/ib-dp-chemistry-subject-guide/).

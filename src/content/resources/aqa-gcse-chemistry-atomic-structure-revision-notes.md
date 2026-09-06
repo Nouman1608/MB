@@ -84,7 +84,7 @@ Melting and boiling points **increase** down the group (larger molecules, strong
 
 The reason is the same physics applied to the opposite process: a halogen must **gain** an electron, and further down the group the outer shell is further from the nucleus with more shielding, so an incoming electron is attracted **less** strongly.
 
-**Displacement:** a more reactive halogen displaces a less reactive one from solution — chlorine displaces bromine, bromine displaces iodine. **Worked observation:** adding chlorine water to potassium iodide solution, the more reactive chlorine displaces the less reactive iodide, and the colourless solution turns **brown** as iodine forms.
+**Displacement:** a more reactive halogen displaces a less reactive one from solution — chlorine displaces bromine, bromine displaces iodine. **Worked observation:** adding chlorine water to potassium iodide solution, the more reactive chlorine displaces iodine, and the colourless solution turns **brown** as iodine forms.
 
 ## Group 0 — noble gases
 

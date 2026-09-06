@@ -87,7 +87,9 @@ A **steeper** graph of product formed against time means a **faster**
 reaction; the graph levels off (plateaus) once the reaction is
 complete or the substrate has run out.
 
-## Substrate concentration
+## Substrate concentration (beyond this syllabus)
+
+> This sub-topic is not part of the O Level 5090 enzymes outcomes (enzyme action and the effects of temperature and pH). It is included here as extension material only.
 
 Rate increases with substrate concentration until all active sites are occupied. Beyond that the rate **plateaus** — the enzyme is the limiting factor, and adding more substrate changes nothing. Adding more enzyme, rather than more substrate, would raise the plateau again, since it provides more active sites for the (now excess) substrate to bind to.
 

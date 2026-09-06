@@ -8,7 +8,7 @@ boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
 syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
-description: "Dynamic equilibrium, Le Chatelier's principle, and writing and using the equilibrium constant Kc, for OxfordAQA International AS and A-level Chemistry 9620, assessed on AS Paper 2."
+description: "Dynamic equilibrium, Le Chatelier's principle, and writing and using the equilibrium constant Kc, for OxfordAQA International AS and A-level Chemistry 9620, assessed in Unit 2."
 author: "nouman-ahmed"
 reviewer: "nouman-ahmed"
 publishedDate: 2026-08-18
@@ -17,8 +17,9 @@ featured: false
 
 This guide covers **Chemical equilibria, Le Chatelier's principle and Kc**,
 part of the Physical chemistry section of OxfordAQA International AS and
-A-level Chemistry 9620. It is AS-level content, assessed on **AS Paper 2 —
-Organic 1 and Physical 1**.
+A-level Chemistry 9620. It is AS-level content, assessed in **Unit 2** --
+the specification is modular, assessed by units rather than papers, and
+this content sits within Unit 2.
 
 ## Before studying this
 

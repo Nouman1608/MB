@@ -54,8 +54,8 @@ relative abundance, and can be used both to identify elements and to
 determine relative molecular mass. You need to be able to interpret
 simple mass spectra of elements, and calculate relative atomic mass
 from isotopic abundance data (limited to mononuclear ions -- that is,
-ions carrying a single positive charge, so mass-to-charge ratio equals
-mass directly).
+single-atom ions rather than molecular or polyatomic ones, so
+mass-to-charge ratio equals mass directly).
 
 ## Electron configuration and ionisation energies
 
@@ -116,9 +116,9 @@ jumps, since that is what identifies a shell boundary -- a common exam
 task is inferring an element's group from a given ionisation energy
 dataset alone. Keep the "mononuclear ions" restriction in mind when
 interpreting a mass spectrum: relative atomic mass calculations from
-abundance data in this specification do not require you to account for
-multiply-charged ions or molecular fragmentation patterns beyond that
-scope. Finally, treat electron configuration up to Z = 36 as a skill to
+abundance data in this specification are limited to single-atom ions
+and do not require you to account for molecular fragmentation patterns
+beyond that scope. Finally, treat electron configuration up to Z = 36 as a skill to
 derive systematically from the periodic table's block structure (s, p,
 d blocks) rather than a list to memorise element-by-element -- this
 scales far better once you reach transition-metal configurations later

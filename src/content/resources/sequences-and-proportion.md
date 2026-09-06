@@ -69,7 +69,7 @@ every term before it. The type of formula depends on the sequence:
 | Linear | Tₙ = an + b | 3, 7, 11, 15, ... → Tₙ = 4n − 1 |
 | Quadratic | Tₙ = an² + bn + c | 1, 4, 9, 16, ... → Tₙ = n² |
 | Cubic | Tₙ = an³ + ... | 1, 8, 27, 64, ... → Tₙ = n³ |
-| Exponential | Tₙ = a × rⁿ | 3, 6, 12, 24, ... → Tₙ = 3 × 2ⁿ⁻¹ |
+| Exponential | Tₙ = a × rⁿ⁻¹ | 3, 6, 12, 24, ... → Tₙ = 3 × 2ⁿ⁻¹ |
 
 **Worked example.** Find the nth term of the linear sequence 5, 8, 11, 14, ...
 

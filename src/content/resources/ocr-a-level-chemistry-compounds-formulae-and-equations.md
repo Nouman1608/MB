@@ -50,9 +50,11 @@ You need to be able to construct balanced chemical equations,
 including ionic equations, with state symbols, both for reactions you
 have studied and for unfamiliar reactions given appropriate
 information. This is explicitly linked to mathematical skill M0.2 in
-the specification (manipulating simple equations), reflecting that
-balancing an equation is fundamentally an algebraic process of finding
-integer coefficients that make atom counts equal on both sides.
+the specification, which the same code series attaches to
+stoichiometric, empirical-formula and atom-economy calculations
+elsewhere in the syllabus -- reflecting that balancing an equation is
+fundamentally a ratio process of finding integer coefficients that
+make atom counts equal on both sides.
 
 The required elements of a fully correct equation are: correct
 formulae for every reactant and product (drawing on the formula-writing

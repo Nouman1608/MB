@@ -30,7 +30,7 @@ Condensed for the final weeks. For the full explanation, use the
 | **Cell damage** | The pathogen directly destroys host tissue |
 | **Toxin production** | The pathogen releases chemicals that disrupt cell/tissue function, sometimes far from the infection site |
 
-**Pathogens** (bacteria, viruses) cause disease by penetrating one of a mammal's interfaces with the environment: the **digestive**, **reproductive** and **gas-exchange** systems. Always name the specific interface relevant to a given example — the gas-exchange system for an airborne respiratory pathogen, for instance — rather than describing entry in the abstract.
+**Pathogens** (bacteria, viruses) cause disease by penetrating one of a mammal's interfaces with the environment, which include the **digestive**, **reproductive** and **gas-exchange** systems (this is not a complete list -- the skin is a further interface). Always name the specific interface relevant to a given example — the gas-exchange system for an airborne respiratory pathogen, for instance — rather than describing entry in the abstract.
 
 ## Lifestyle, CHD and cancer (3.2.1.2)
 
@@ -62,16 +62,15 @@ Exam answers that state the limitation explicitly, rather than only describing t
 - Treating a correlation between a lifestyle factor and disease incidence as proof of causation.
 - Discussing coronary heart disease and cancer as though they share identical risk factors, when the specification treats them separately.
 
-5. Give one worked example of a pathogen that causes disease predominantly through toxin production rather than cell damage.
-
 ## Quick self-test
 
 1. Name the two mechanisms by which a pathogen can cause disease.
-2. List the three named interfaces through which a pathogen can enter a mammal's body.
+2. Name three interfaces through which a pathogen can enter a mammal's body.
 3. Why does a correlation between a risk factor and disease incidence not prove causation?
 4. Name one specific risk factor for coronary heart disease and one for cancer.
+5. Give one worked example of a pathogen that causes disease predominantly through toxin production rather than cell damage.
 
-**Answers:** 1. Cell damage and toxin production. 2. Digestive, reproductive and gas-exchange systems. 3. Because other variables that differ between the groups compared could also explain the difference in disease rate; establishing causation requires additional evidence such as a controlled study or an understood biological mechanism. 4. Any specification-consistent example, e.g. smoking or high dietary saturated fat for CHD; smoking or UV exposure for cancer. 5. The bacterium responsible for tetanus, which causes disease mainly via a toxin affecting the nervous system rather than through direct destruction of host tissue.
+**Answers:** 1. Cell damage and toxin production. 2. Digestive, reproductive and gas-exchange systems are the specification's named examples (the skin is a further valid interface). 3. Because other variables that differ between the groups compared could also explain the difference in disease rate; establishing causation requires additional evidence such as a controlled study or an understood biological mechanism. 4. Any specification-consistent example, e.g. smoking or high dietary saturated fat for CHD; smoking or UV exposure for cancer. 5. The bacterium responsible for tetanus, which causes disease mainly via a toxin affecting the nervous system rather than through direct destruction of host tissue.
 
 ## Naming a pathogen and its mechanism
 

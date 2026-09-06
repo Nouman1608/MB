@@ -91,6 +91,54 @@ F = m a          F in N, m in kg, a in m/s^2
 
 **Third law.** Forces come in pairs, equal in size and opposite in direction, acting on two different bodies. The pair is always the same type of force, and crucially the two forces never act on the same object — which is why they do not cancel.
 
+## Weight and mass
+
+**Weight** is the force of gravity acting on an object's mass, and is calculated as:
+
+```
+W = m g          W in newtons, m in kg, g in N/kg
+```
+
+Weight, unlike mass, is a **force** (a vector, measured with a newtonmeter/spring balance) and depends on the local gravitational field strength g, so an object's weight changes between the Earth and the Moon even though its mass does not.
+
+## Hooke's law and deformation
+
+More than one force is needed to change an object's shape (stretch, bend or compress it). Deformation is **elastic** if the object returns to its original shape once the force is removed, and **plastic (inelastic)** if the change is permanent.
+
+For a spring or wire, extension is directly proportional to the applied force up to the **limit of proportionality**:
+
+```
+F = k e          F = force, k = spring constant, e = extension
+```
+
+Beyond the limit of proportionality, extension is no longer proportional to force. The energy stored elastically can be found from the area under a force-extension graph, and equals ½ k e² within the limit of proportionality.
+
+**Required practical: investigating the extension of a spring.** A spring is loaded with increasing known forces (masses) and the extension is measured each time with a ruler. Plotting force against extension gives a straight line through the origin while the spring obeys Hooke's law, and the spring constant k is found from the gradient; the point where the graph starts to curve is the limit of proportionality.
+
+## Momentum
+
+**Momentum** is the product of an object's mass and velocity, and is a vector quantity:
+
+```
+p = m v          p in kg m/s, m in kg, v in m/s
+```
+
+In a closed system, **momentum is conserved** — the total momentum before an event (such as a collision or explosion) equals the total momentum after, provided no external force acts. This is the physics behind safety features such as crumple zones and seatbelts (3.1.5): increasing the time over which a change in momentum happens reduces the force involved, since force is the rate of change of momentum.
+
+## Centre of mass
+
+An object's **centre of mass** is the single point at which its entire weight can be considered to act. An object is more stable when its centre of mass is **lower** and its **base is wider**, because the line of action of its weight is then less likely to fall outside the base of support and cause it to topple.
+
+## Moments and levers
+
+The **moment** of a force is its turning effect about a pivot:
+
+```
+moment = force x perpendicular distance from the pivot
+```
+
+Only the distance measured **perpendicular** to the line of action of the force counts. An object is balanced (in equilibrium) when the sum of the clockwise moments about a pivot equals the sum of the anticlockwise moments (the **principle of moments**). A **lever** uses this principle to multiply an applied force: applying a smaller force over a larger distance from the pivot can balance or move a larger load closer to the pivot.
+
 ## Terminal velocity
 
 A falling object accelerates under weight. As speed rises, drag increases. When drag grows equal to weight the resultant force becomes zero, acceleration stops, and the object falls at constant **terminal velocity**. The object does not slow down — a common misreading of the velocity–time graph, which flattens rather than falling.
@@ -125,3 +173,8 @@ Treating the driving force as the resultant force — the resultant is what is l
 - Explain terminal velocity in terms of changing drag, and interpret the matching velocity–time graph.
 - Identify a genuine third-law pair and explain why the two forces do not cancel.
 - Calculate stopping distance and explain what changes each component.
+- Calculate weight from mass using W = mg, and explain why weight (unlike mass) changes with gravitational field strength.
+- Apply Hooke's law (F = ke) up to the limit of proportionality, and describe the required practical for finding a spring constant.
+- Calculate momentum (p = mv) and apply conservation of momentum to a simple collision.
+- Explain how centre of mass and base width affect an object's stability.
+- Calculate a moment (force x perpendicular distance) and apply the principle of moments to a balanced object.

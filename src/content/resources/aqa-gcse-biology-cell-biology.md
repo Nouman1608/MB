@@ -109,6 +109,18 @@ Always convert to the same units first. 1 mm = 1000 micrometres.
 
 The cell cycle consists of growth and DNA replication, then mitosis, then cytoplasmic division. Mitosis produces two genetically identical diploid daughter cells, and is used for growth, repair and asexual reproduction.
 
+## Stem cells
+
+Stem cells are undifferentiated cells that can divide to produce more cells and then differentiate into one or more specialised cell types. **Embryonic stem cells** can differentiate into almost any cell type in the body. **Adult stem cells**, found in tissues such as bone marrow, have a more limited range and can produce only certain cell types, such as the various blood cells. Plants also keep a supply of undifferentiated cells, called **meristem cells**, in their growing tips (roots and shoots) throughout life. Stem cells have therapeutic uses — bone marrow stem cells are already used to treat some blood disorders, and embryonic stem cells are being researched for treating conditions such as paralysis and diabetes — but their use raises ethical and safety issues, including the destruction of embryos to obtain embryonic stem cells and the risk that transplanted stem cells could transfer a viral infection or trigger an immune reaction.
+
+## Transport in cells
+
+Substances move into and out of cells by three processes, distinguished by what is moving, the direction relative to the concentration gradient, and whether energy is needed.
+
+- **Diffusion** — the net movement of particles (such as gases or dissolved solutes) from an area of **higher concentration to an area of lower concentration**, down a concentration gradient, until evenly spread. It requires no energy input from the cell. The rate of diffusion increases with a greater concentration gradient, a higher temperature, and a larger surface area.
+- **Osmosis** — the diffusion of **water** specifically, across a partially permeable membrane, from a region of higher water concentration (a dilute solution) to a region of lower water concentration (a concentrated solution). Like diffusion, it needs no energy input.
+- **Active transport** — the movement of particles from a **lower to a higher concentration**, against the concentration gradient. Because this is the opposite direction to diffusion, it requires energy released by respiration. Active transport allows a cell to absorb substances it needs even when they are already more concentrated inside it than outside — for example, the absorption of glucose from the gut or from the soil by root hair cells, when the glucose concentration is higher inside the cell already.
+
 ## Worked example
 
 A cell is 0.05 mm across. Under a microscope its image measures 100 mm. Find the magnification.
@@ -133,3 +145,5 @@ Saying bacteria "have no DNA" rather than no nucleus — they have DNA, just not
 - Rearrange and use the magnification equation with correct unit conversion.
 - Describe the stages of the cell cycle and state what mitosis produces.
 - Explain why electron microscopes changed our understanding of cells.
+- Distinguish embryonic and adult stem cells, and state one therapeutic use and one ethical concern.
+- Distinguish diffusion, osmosis and active transport by what moves, direction, and energy use.

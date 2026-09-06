@@ -93,7 +93,7 @@ Related: [Development of Practical Skills revision notes](/resources/ocr-a-level
 
 - Confusing accuracy with precision.
 - Naming control variables without saying why they matter.
-- Forgetting that repeats improve reliability, not accuracy.
+- Forgetting that repeats improve reliability and the accuracy of the mean by reducing random error, but do nothing for a systematic error, which needs calibration.
 - Using a bar chart for two continuous variables.
 - Confusing a control variable with a control experiment.
 - Calculating a mean before identifying and discarding anomalous readings.

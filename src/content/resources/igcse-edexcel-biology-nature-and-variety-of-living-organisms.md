@@ -36,29 +36,25 @@ environment, and Use of biological resources.
 **PEARSON EDEXCEL INTERNATIONAL GCSE BIOLOGY (4BI1) — TOPIC 1 THE
 NATURE AND VARIETY OF LIVING ORGANISMS**
 
-Topic 1 covers the characteristics common to all living organisms,
-the structure and function of plant and animal cells, movement of
-substances into and out of cells, and the classification of organisms
-into major groups. The specification presents this content as a flat,
-individually numbered sequence of outcomes rather than named
-sub-headings -- Topic 1 alone runs to dozens of numbered points -- so
-this guide follows the same structure rather than inventing groupings
-the specification does not itself provide.
+Topic 1 covers two named sub-topics: the characteristics common to
+all living organisms, and the variety of living organisms, including
+their classification into major groups. In total the specification
+sets out four numbered outcomes across these two sub-topics. The
+structure and function of plant and animal cells, and the movement of
+substances into and out of cells, are Topic 2 sub-topics and are
+covered in the Cell structure and biological molecules guide.
 
 ## How to approach it
 
-Because this topic is examined as a long, detailed list of individual
-outcomes rather than a small number of big ideas, work through the
-specification's own numbered points systematically when revising,
+Because this topic sets out a small number of named outcomes, work
+through the specification's own points systematically when revising,
 checking off each one, rather than relying on general topic summaries
-that can miss specific testable detail. Cell structure and the
-movement of substances (diffusion, osmosis) are commonly tested with
-labelled diagrams and calculations, so practise both drawing and
-interpreting cell diagrams as well as working through osmosis and
-diffusion questions numerically. Classification questions often ask
-candidates to place an unfamiliar organism into a group based on
+that can miss specific testable detail. Classification questions often
+ask candidates to place an unfamiliar organism into a group based on
 described features, so practise applying classification criteria to
-new examples rather than only memorising named groups.
+new examples rather than only memorising named groups. (Cell
+structure and the movement of substances by diffusion and osmosis are
+tested in Topic 2, not here.)
 
 ## Official syllabus
 
@@ -96,9 +92,9 @@ Viruses sit outside the kingdoms because they are not cells. They have no cytopl
 
 Whether viruses are alive is a legitimate question — they fail most of MRS GREN outside a host.
 
-## Levels of organisation and pathogens
+## Levels of organisation (Topic 2 sub-topic (a)) and pathogens
 
-Organisms are organised as organelles, cells, **tissues**, **organs**, **organ systems**. A **tissue** is a group of cells with similar structure and function, e.g. glandular tissue in the stomach lining, which secretes digestive enzymes. An **organ** is a group of *different* tissues working together to perform a specific function, e.g. the stomach, made up of glandular, muscular and epithelial tissue. An **organ system** is a group of organs with related functions, e.g. the digestive system, made up of the stomach, small and large intestines, and associated glands. A pathogen is a microorganism that causes disease, and can be from any of several groups: bacteria (cholera), fungi (athlete's foot), protoctists (malaria, via *Plasmodium*) or viruses (influenza).
+The levels-of-organisation hierarchy below is strictly sub-topic (a) of Topic 2, Structures and Functions in Living Organisms, not Topic 1 content -- it is included here for continuity with the classification material above. Organisms are organised as organelles, cells, **tissues**, **organs**, **organ systems**. A **tissue** is a group of cells with similar structure and function, e.g. glandular tissue in the stomach lining, which secretes digestive enzymes. An **organ** is a group of *different* tissues working together to perform a specific function, e.g. the stomach, made up of glandular, muscular and epithelial tissue. An **organ system** is a group of organs with related functions, e.g. the digestive system, made up of the stomach, small and large intestines, and associated glands. A pathogen is a microorganism that causes disease, and can be from any of several groups: bacteria (cholera), fungi (athlete's foot), protoctists (malaria, via *Plasmodium*) or viruses (influenza).
 
 ## Worked example
 

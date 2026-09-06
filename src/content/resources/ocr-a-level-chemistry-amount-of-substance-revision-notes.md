@@ -76,7 +76,7 @@ c1 V1 / n1 = c2 V2 / n2       where n is the stoichiometric coefficient
 
 ```
 percentage yield  = (actual moles / theoretical moles) x 100
-atom economy      = (Mr of desired product / sum of Mr of ALL products) x 100
+atom economy      = (Mr of desired product / sum of Mr of ALL reactants) x 100
 ```
 
 **These measure different things, and the distinction is examined directly.** Yield measures how much of the theoretical maximum was actually obtained; atom economy measures what proportion of the reactant mass ends up in the wanted product. A reaction can have 100% yield and terrible atom economy if it necessarily produces large by-products.
@@ -97,7 +97,7 @@ The other reagent is in **excess**, which is often deliberate — to drive a rev
 concentration in mol dm-3  x  M  =  concentration in g dm-3
 ```
 
-**Serial dilution:** `c₁V₁ = c₂V₂`. A standard solution is prepared by dissolving a weighed mass, transferring quantitatively with washings, and making up to the mark in a volumetric flask — the washings matter, because solute left in the beaker lowers the true concentration.
+**Dilution:** `c₁V₁ = c₂V₂`. A standard solution is prepared by dissolving a weighed mass, transferring quantitatively with washings, and making up to the mark in a volumetric flask — the washings matter, because solute left in the beaker lowers the true concentration.
 
 ## Exam traps
 

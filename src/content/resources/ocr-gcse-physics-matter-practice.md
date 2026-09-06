@@ -50,7 +50,7 @@ Related: [Matter revision notes](/resources/ocr-gcse-physics-matter-revision-not
 
 **6.** Explain why a bicycle pump becomes warm when air is compressed inside it. **[2]**
 
-**7.** Explain what is meant by absolute zero. **[2]**
+**7.** Explain why the pressure in a liquid increases with depth. **[2]**
 
 **8.** The specific latent heat of fusion of ice is 334 000 J/kg. Calculate the energy needed to melt 0.40 kg of ice at 0 °C. **[2]**
 
@@ -80,7 +80,7 @@ Related: [Matter revision notes](/resources/ocr-gcse-physics-matter-revision-not
 
 **6.** **Work is done on the air** as it is compressed [1], which increases its **internal energy** and therefore its temperature [1].
 
-**7.** The **lowest possible temperature**, −273 °C or 0 K [1], at which particles have the **minimum possible energy** — not zero energy [1].
+**7.** The **weight of liquid above a given point increases with depth** [1], increasing the force acting on a given area at that depth and so increasing the pressure [1].
 
 **8.** E = mL = 0.40 × 334 000 [1] = **133 600 J** [1].
 
@@ -95,7 +95,7 @@ Related: [Matter revision notes](/resources/ocr-gcse-physics-matter-revision-not
 - Forgetting to subtract the container mass when finding a liquid's density.
 - Explaining the flat sections without mentioning potential energy.
 - Giving only one effect when a gas is heated at constant volume.
-- Saying particles stop moving at absolute zero.
+- Confusing pressure increasing with depth in a liquid with pressure decreasing with height in the atmosphere.
 - Confusing specific heat capacity (E = mcΔθ, a temperature change) with specific latent heat (E = mL, a state change at constant temperature).
 - Forgetting that p₁V₁ = p₂V₂ only holds at **constant temperature** — it does not apply if the gas is also heated or cooled.
 - In a two-stage energy question, adding the latent heat and specific heat capacity terms in the wrong order, or forgetting one stage entirely — sketch the heating curve first to see how many sections the question covers.

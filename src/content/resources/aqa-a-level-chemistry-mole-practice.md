@@ -45,7 +45,7 @@ Related: [Relative Mass, the Mole and the Avogadro Constant study guide](/resour
 
 **6.** Ethanoic acid reacts with sodium hydroxide according to the equation CH₃COOH + NaOH → CH₃COONa + H₂O. A student uses 25.0 cm³ of 0.100 mol dm⁻³ sodium hydroxide to exactly neutralise a sample of ethanoic acid. Calculate the number of moles of ethanoic acid present, and the mass of ethanoic acid in the sample (Mr of CH₃COOH = 60). **[5]**
 
-**7.** 0.24 g of magnesium reacts completely with excess dilute sulfuric acid according to the equation Mg + H₂SO₄ → MgSO₄ + H₂. Given that 1 mole of any gas occupies 24 000 cm³ at room temperature and pressure and the Ar of Mg is 24, calculate the volume of hydrogen gas produced. **[4]**
+**7.** 0.24 g of magnesium reacts completely with excess dilute sulfuric acid according to the equation Mg + H₂SO₄ → MgSO₄ + H₂. Using the GCSE shortcut that 1 mole of any gas occupies 24 000 cm³ at room temperature and pressure (rather than the ideal gas equation) and the Ar of Mg is 24, calculate the volume of hydrogen gas produced. **[4]**
 
 **8.** Explain the difference between "amount in moles" and "number of particles", and describe the single calculation step that converts between them. **[3]**
 
@@ -59,7 +59,7 @@ Related: [Relative Mass, the Mole and the Avogadro Constant study guide](/resour
 
 **3.** Moles = mass ÷ Mr = 16.8 ÷ 84 [1] = **0.2 mol** [1].
 
-**4.** Moles of MgCl₂ = concentration × volume (in dm³) = 0.15 × 0.200 = 0.03 mol [1] [1]. Each formula unit of MgCl₂ contains **2 chloride ions**, so moles of Cl⁻ = 0.03 × 2 = 0.06 mol [1]. Number of ions = moles × Avogadro constant = 0.06 × 6.02 × 10²³ = **3.612 × 10²²** [1].
+**4.** Moles of MgCl₂ = concentration × volume (in dm³) = 0.15 × 0.200 = 0.03 mol [1] [1]. Each formula unit of MgCl₂ contains **2 chloride ions**, so moles of Cl⁻ = 0.03 × 2 = 0.06 mol [1]. Number of ions = moles × Avogadro constant = 0.06 × 6.02 × 10²³ = **3.6 × 10²²** (2 s.f., matching the 0.15 mol dm⁻³ data) [1].
 
 **5.** **2 significant figures** [1], because the final answer must be reported only to the limits of the **least accurate (least precise) measurement** used, and the volume's 2 significant figures is less precise than the mass's 3 significant figures [1].
 

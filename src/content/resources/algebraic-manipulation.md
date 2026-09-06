@@ -188,7 +188,9 @@ Writing *ax² + bx + c* as a squared bracket plus (or minus) a constant makes
 it possible to solve equations, find a minimum or maximum, and sketch a graph
 without plotting points. For *x² + bx + c* (coefficient of *x²* equal to 1),
 halve the coefficient of *x*, and correct for the difference between the
-square you've made and the original expression.
+square you've made and the original expression. When the coefficient of *x²*
+is not 1, factor it out of the *x²* and *x* terms first, complete the square
+inside the bracket, then multiply back out.
 
 **Worked example.** Write x² + 6x + 5 in completed square form.
 
@@ -201,6 +203,24 @@ x² + 6x + 5 = (x + 3)² − 4
 ```
 
 Check by expanding: (x + 3)² − 4 = x² + 6x + 9 − 4 = x² + 6x + 5. ✓
+
+**Worked example (leading coefficient not 1).** Write 2x² + 8x + 3 in
+completed square form.
+
+```
+factor 2 out of the x² and x terms only:
+2x² + 8x + 3 = 2(x² + 4x) + 3
+
+complete the square inside the bracket:
+half of 4 is 2, so (x + 2)² = x² + 4x + 4
+x² + 4x = (x + 2)² − 4
+
+substitute back and multiply the −4 by the 2 that was factored out:
+2x² + 8x + 3 = 2[(x + 2)² − 4] + 3 = 2(x + 2)² − 8 + 3 = 2(x + 2)² − 5
+```
+
+Check by expanding: 2(x + 2)² − 5 = 2(x² + 4x + 4) − 5 = 2x² + 8x + 8 − 5 =
+2x² + 8x + 3. ✓
 
 ## Algebraic fractions
 

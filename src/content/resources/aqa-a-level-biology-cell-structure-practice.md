@@ -86,7 +86,7 @@ Related: [Eukaryotic and Prokaryotic Cell Structure study guide](/resources/a-le
 
 **9.** A virus is **acellular** — it is not made of a cell, has no cytoplasm, cell-surface membrane, or ribosomes [1] — whereas even the simplest prokaryotic cell is a **living cell** with these features; a virus differing only in size or simplicity from a prokaryote would be a fundamental misunderstanding of what "acellular" means [1].
 
-**10.** The cell is likely from an **animal** (or a non-photosynthesising organism) [1], because it has mitochondria for **aerobic respiration** but lacks chloroplasts, which are only found in **plant and algal cells that carry out photosynthesis** [1].
+**10.** The cell is likely from an **animal, or from any other non-photosynthesising cell** (for example a fungal cell, or a non-photosynthesising plant cell such as a root cell) [1], because it has mitochondria for **aerobic respiration** but lacks chloroplasts, which are only found in **plant and algal cells that carry out photosynthesis**; the absence of a cell wall or a permanent vacuole would confirm an animal cell specifically [1].
 
 
 ---

@@ -28,7 +28,7 @@ Related: [Nature and Variety of Living Organisms revision notes](/resources/igcs
 
 ## Section A
 
-**1.** List the **eight** characteristics of living organisms. **[4]**
+**1.** List the **eight** characteristics of living organisms. **[8]**
 
 **2.** Name the five kingdoms and give one example organism from each. **[5]**
 
@@ -49,7 +49,7 @@ Related: [Nature and Variety of Living Organisms revision notes](/resources/igcs
 
 **6.** For each pathogen type, name a disease and its causative organism: bacterium, fungus, protoctist. **[6]**
 
-**7.** Distinguish between a tissue, an organ and an organ system, giving one example of each, in the context of the human digestive system. **[6]**
+**7.** *(Topic 2 sub-topic (a) content, recapped here for continuity.)* Distinguish between a tissue, an organ and an organ system, giving one example of each, in the context of the human digestive system. **[6]**
 
 **8.** Explain why excretion and egestion are not the same process, and explain why an increase in mass caused by taking up water is not classed as growth. **[3]**
 
@@ -57,7 +57,7 @@ Related: [Nature and Variety of Living Organisms revision notes](/resources/igcs
 
 ## Answers
 
-**1.** **M**ovement, **R**espiration, **S**ensitivity, **G**rowth, **R**eproduction, **E**xcretion, **N**utrition, **C**ontrol of internal conditions [4 marks — half a mark each, or 1 mark per two correct].
+**1.** **M**ovement [1], **R**espiration [1], **S**ensitivity [1], **G**rowth [1], **R**eproduction [1], **E**xcretion [1], **N**utrition [1], **C**ontrol of internal conditions [1].
 
 **2. Animals** — e.g. a human [1]. **Plants** — e.g. a maize plant [1]. **Fungi** — e.g. yeast or Mucor [1]. **Protoctists** — e.g. Amoeba or Chlorella [1]. **Prokaryotes/bacteria** — e.g. Lactobacillus or Pneumococcus [1].
 
@@ -96,6 +96,6 @@ Related: [Nature and Variety of Living Organisms revision notes](/resources/igcs
 4. What do plants store as their carbohydrate reserve, and what do animals and fungi store instead?
 5. Put the levels of biological organisation in order, from smallest to largest.
 
-**Answers:** 1. The requirement for materials from the environment. 2. Enzymes are secreted onto the food, digestion occurs outside the organism, and the soluble products are then absorbed. 3. They have no cytoplasm or organelles and can only reproduce inside a host cell, so they cannot carry out the characteristics of life independently. 4. Plants store starch and sucrose; animals and fungi store glycogen. 5. Organelle, cell, tissue, organ, organ system, organism.
+**Answers:** 1. Control of internal conditions (homeostasis). 2. Enzymes are secreted onto the food, digestion occurs outside the organism, and the soluble products are then absorbed. 3. They have no cytoplasm or organelles and can only reproduce inside a host cell, so they cannot carry out the characteristics of life independently. 4. Plants store starch and sucrose; animals and fungi store glycogen. 5. Organelle, cell, tissue, organ, organ system, organism.
 
 For condensed recall notes on this topic, see the [Nature and Variety of Living Organisms revision notes](/resources/igcse-edexcel-biology-nature-variety-revision-notes/).

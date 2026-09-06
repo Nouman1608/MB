@@ -46,7 +46,7 @@ Biology (4BI1), Issue 3.
 - Plant-only: cell wall, chloroplasts, large permanent vacuole.
 - Never state that animal cells possess a cell wall or large vacuole.
 
-## 2.5B-2.6B Cell differentiation and stem cells (Higher tier)
+## 2.5B-2.6B Cell differentiation and stem cells (Paper 2 only, not in the Science Double Award)
 
 - **Cell differentiation**: importance in developing specialised cells.
 - **Stem cells**: advantages and disadvantages of medical use — weigh both sides for a given context.

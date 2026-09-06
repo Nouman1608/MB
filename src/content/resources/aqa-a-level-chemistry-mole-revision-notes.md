@@ -60,10 +60,10 @@ Step 1: convert volume to dm3
 Step 2: moles of NaCl = concentration x volume = 0.20 x 0.250 = 0.050 mol
 
 Step 3: number of formula units = moles x Avogadro constant
-                             = 0.050 x 6.02x10^23 = 3.01x10^22
+                             = 0.050 x 6.02x10^23 = 3.0x10^22 (2 s.f.)
 
 Step 4: NaCl gives 2 ions per formula unit (Na+ and Cl-):
-        number of ions = 2 x 3.01x10^22 = 6.02x10^22
+        number of ions = 2 x 3.0x10^22 = 6.0x10^22
 ```
 
 **Show every step explicitly** — AQA mark schemes award method marks for correct intermediate steps even if the final answer has a small arithmetic slip. **Always name (or check) the solute** — the ionic multiplier depends on how many ions each formula unit releases.
@@ -73,14 +73,14 @@ Step 4: NaCl gives 2 ions per formula unit (Na+ and Cl-):
 Find the number of molecules in 8.8 g of CO₂ (Mr = 44).
 
 ```
-moles = mass / Mr = 8.8 / 44 = 0.2 mol
+moles = mass / Mr = 8.8 / 44 = 0.20 mol
 number of molecules = moles x Avogadro constant
-                     = 0.2 x 6.02x10^23 = 1.204x10^23
+                     = 0.20 x 6.02x10^23 = 1.2x10^23 (2 s.f., matching the 8.8 g data)
 ```
 
 ## Worked example: combining two calculation steps
 
-A student reacts magnesium with excess hydrochloric acid and collects 120 cm3 of hydrogen gas. Given that 1 mole of any gas occupies 24,000 cm3 at room temperature and pressure, and the equation Mg + 2HCl -> MgCl2 + H2, find the mass of magnesium reacted (Ar of Mg = 24).
+A student reacts magnesium with excess hydrochloric acid and collects 120 cm3 of hydrogen gas. At A-level, gas volumes are found from the ideal gas equation, pV = nRT; the GCSE shortcut that 1 mole of any gas occupies 24,000 cm3 at room temperature and pressure is used here only to keep the arithmetic simple. Given that figure, and the equation Mg + 2HCl -> MgCl2 + H2, find the mass of magnesium reacted (Ar of Mg = 24).
 
 ```
 Step 1: moles of hydrogen gas produced

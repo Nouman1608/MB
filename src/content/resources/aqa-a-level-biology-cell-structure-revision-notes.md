@@ -110,7 +110,7 @@ This is the same structure-function-link pattern used for mitochondria above, ap
 
 **Nucleolus** — dense structure in the nucleus producing ribosomes; a nucleus can have one or more. **Hydrolytic enzyme** — breaks down molecules by adding water (found in lysosomes). **Plasmid** — small circular DNA in prokaryotes, separate from the main chromosome, often carrying resistance genes. **Capsid** — the protein coat enclosing a virus's genetic material.
 
-**Membrane-bound vs. not:** mitochondria, chloroplasts, lysosomes, ER, Golgi apparatus, nucleus are membrane-bound; **ribosomes are not** — this distinction comes up directly in eukaryote/prokaryote comparisons, since it's one of the specification's five named differences.
+**Membrane-bound vs. not:** mitochondria, chloroplasts, lysosomes, ER, Golgi apparatus, nucleus are membrane-bound; **ribosomes are not** — this distinction comes up directly in eukaryote/prokaryote comparisons, since it's one of the specification's four named differences (the absence of a nucleus and the form of the DNA count as one bullet, not two).
 
 ## Common mistakes
 
@@ -122,7 +122,7 @@ This is the same structure-function-link pattern used for mitochondria above, ap
 ## Quick self-test
 
 - Pair each of the four function-linked organelle pairs and state what each does.
-- Complete the five-row eukaryote/prokaryote comparison table from memory.
+- Complete the four-row eukaryote/prokaryote comparison table from memory.
 - Name the three structural components of a virus.
 - Explain why murein (not cellulose) is named specifically for prokaryotic cell walls.
 - Apply the structure-function-link format to explain how chloroplast structure suits photosynthesis.

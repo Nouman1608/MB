@@ -72,6 +72,15 @@ x = 1, 2, 3 (values rounded to 2 d.p. where needed), then use it to
 understand the shape of a mixed function combining a negative-power term
 and an exponential term.
 
+| x | 1 | 2 | 3 |
+|---|---|---|---|
+| y | 4.50 | 2.00 | 2.44 |
+
+The y-values fall from x = 1 to x = 2 and then rise from x = 2 to x = 3,
+so the curve has a minimum somewhere between x = 2 and x = 3: the
+negative-power term dominates while x is small, pulling y down, and the
+exponential term takes over and pulls y back up as x increases.
+
 The functions this syllabus covers combine terms of the form axⁿ (for the
 specific list of powers n given above, including negative and fractional
 powers) with an exponential term ab^x + c — recognising which type of term
@@ -94,9 +103,9 @@ is the root of the equation.
 Graphs of the form y = ab^x + c represent **exponential growth** (b > 1)
 or **exponential decay** (0 < b < 1) — contexts such as population growth,
 compound interest, or radioactive decay. The curve approaches, but never
-quite reaches, a horizontal line at y = c as x becomes very large (growth)
-or very negative (decay) — this horizontal line is the curve's **horizontal
-asymptote**.
+quite reaches, a horizontal line at y = c as x becomes very negative
+(growth) or very large (decay) — this horizontal line is the curve's
+**horizontal asymptote**.
 
 ## Estimating gradients with tangents
 

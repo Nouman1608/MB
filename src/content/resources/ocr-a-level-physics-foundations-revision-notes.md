@@ -23,7 +23,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Physical quantities and units (2.1)
 
-**Six SI base quantities:** mass (kg), length (m), time (s), current (A), temperature (K), amount of substance (mol). **Derived units** built from these — e.g. momentum (kg m s⁻¹), density (kg m⁻³).
+**Six of the seven SI base quantities examined here** (SI itself defines seven; this specification excludes luminous intensity): mass (kg), length (m), time (s), current (A), temperature (K), amount of substance (mol). **Derived units** built from these — e.g. momentum (kg m s⁻¹), density (kg m⁻³).
 
 **Homogeneity check:** verify an equation's units balance on both sides before treating it as correct — a dimensionally inconsistent equation cannot be physically correct.
 

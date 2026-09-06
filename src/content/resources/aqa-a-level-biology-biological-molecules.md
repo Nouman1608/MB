@@ -20,10 +20,10 @@ featured: false
 ---
 
 This guide covers **Topic 1 Biological molecules**, the first of
-eight sections in AQA AS Biology (7401) and A-level Biology (7402),
-first teaching September 2015. Sections 3.1-3.4 (including this one)
-are covered in the first year of the A-level and form the AS subject
-content; sections 3.5-3.8 are A-level only.
+four sections in AQA AS Biology (7401) and the first of eight sections
+in A-level Biology (7402), first teaching September 2015. Sections
+3.1-3.4 (including this one) form the AS subject content; sections
+3.5-3.8 are A-level only.
 
 ## Where this fits in 7401/7402
 
@@ -127,6 +127,26 @@ The number of bonds, not the number of monomers, is what the question turns on.
 ## Common mistakes
 
 Saying cellulose is made of alpha glucose. Describing glycogen as "the same as starch" without mentioning greater branching and why that matters. Confusing an ester bond with a glycosidic bond in triglycerides. Stating that a non-reducing sugar gives a negative Benedict's result without explaining that hydrolysis first is what makes the second test positive. Writing that disulfide bridges hold secondary structure — they are tertiary.
+
+## Enzymes
+
+Enzymes are globular proteins that act as biological catalysts, speeding up reactions by lowering the **activation energy** needed. The **lock-and-key** model treats the active site as a rigid, pre-shaped fit for its substrate; the more accurate **induced-fit** model holds that the active site changes shape slightly as the substrate binds, straining the substrate's bonds and further lowering the activation energy. Rate of reaction rises with temperature up to an optimum (more frequent successful collisions) and then falls sharply as heat disrupts the bonds holding tertiary structure, denaturing the enzyme so the active site is no longer complementary to the substrate; extremes of pH denature enzymes the same way, by disrupting ionic and hydrogen bonds. Increasing substrate or enzyme concentration raises the rate only until the other becomes limiting, at which point the rate plateaus because all active sites are occupied at any instant. Competitive inhibitors resemble the substrate and occupy the active site directly, so their effect can be reduced by raising substrate concentration; non-competitive inhibitors bind elsewhere and change the active site's shape, so raising substrate concentration does not reverse the effect.
+
+## Nucleic acids and DNA replication
+
+DNA is a double helix of two antiparallel polynucleotide strands, each nucleotide made of deoxyribose, a phosphate group and one of four nitrogenous bases (adenine, thymine, cytosine, guanine). The strands are held together by hydrogen bonds between complementary base pairs — adenine with thymine (two hydrogen bonds) and cytosine with guanine (three) — so the sequence of one strand determines the sequence of the other. RNA differs from DNA in being single-stranded, containing ribose instead of deoxyribose, and using uracil in place of thymine. DNA replicates **semi-conservatively**: DNA helicase unwinds the double helix and breaks the hydrogen bonds between base pairs, and DNA polymerase builds a new complementary strand against each original (template) strand, so each resulting double helix contains one original and one newly synthesised strand.
+
+## ATP
+
+ATP (adenosine triphosphate) is a nucleotide derivative made of adenine, ribose and three phosphate groups. Hydrolysis of the bond to the terminal phosphate, catalysed by ATP hydrolase, releases a usable quantity of energy and forms ADP and an inorganic phosphate; this makes ATP the immediate energy currency of the cell, used directly to drive processes such as active transport, muscle contraction and metabolic reactions, in contrast to the larger, longer-term energy stores such as glycogen or triglycerides. ATP is resynthesised from ADP and inorganic phosphate using energy released in respiration.
+
+## Water
+
+Water is a dipolar molecule: the oxygen atom carries a slightly negative charge and each hydrogen atom a slightly positive charge, so water molecules form hydrogen bonds with each other and with other polar or charged molecules. This structure explains water's key biological properties: a high specific heat capacity (many hydrogen bonds must be broken to raise its temperature), which buffers aquatic habitats and cells against rapid temperature change; a high latent heat of vaporisation, which allows organisms to lose large amounts of heat through the evaporation of a small volume of water, as in sweating; cohesion between water molecules, which supports the continuous water columns needed for transport in the xylem; and its effectiveness as a solvent for polar and charged substances, allowing metabolic reactions and transport of dissolved substances to occur in an aqueous medium. Water is also a reactant in hydrolysis reactions and in photosynthesis.
+
+## Inorganic ions
+
+Inorganic ions occur in solution in the body and cytoplasm and have specific, examinable roles: hydrogen ions determine pH, which affects enzyme activity; iron ions form part of haemoglobin and bind oxygen reversibly; sodium ions drive the co-transport of glucose and amino acids across cell membranes and are essential to the generation of nerve impulses; and phosphate ions are structural components of ATP, DNA and RNA, and of phospholipids.
 
 ## Quick revision checklist
 

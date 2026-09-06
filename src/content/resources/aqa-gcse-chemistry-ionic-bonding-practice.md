@@ -44,7 +44,7 @@ Related: [Chemical Bonds and Ionic Bonding study guide](/resources/gcse-aqa-chem
 
 **6.** Work out the charge on the ion formed by a Group 2 metal and the charge on the ion formed by a Group 6 non-metal, explaining your reasoning for each. **[4]**
 
-**7.** A student draws a dot and cross diagram for sodium chloride but includes all of sodium's electrons, not just the outer shell, and omits the square brackets and charges around each ion. Identify the two errors and explain why each loses marks. **[4]**
+**7.** A student draws a dot and cross diagram for sodium chloride but shows chlorine gaining two electrons to form a 2− ion, and omits the square brackets and charges around each ion. Identify the two errors and explain why each loses marks. **[4]**
 
 **8.** Explain, in terms of electron transfer, how the ionic bond forms in calcium oxide (calcium is in Group 2, oxygen is in Group 6). **[5]**
 
@@ -66,18 +66,18 @@ Related: [Chemical Bonds and Ionic Bonding study guide](/resources/gcse-aqa-chem
 
 **6.** A **Group 2** metal **loses 2 electrons**, forming a **2+ ion** [1] [1]. A **Group 6** non-metal **gains 2 electrons**, forming a **2− ion** [1] [1].
 
-**7.** **Error 1:** including all of sodium's electrons rather than only the outer shell **loses marks because inner-shell electrons play no part in ionic bonding** and should not appear in the diagram [1] [1]. **Error 2:** omitting the square brackets and charges **loses marks because a finished dot and cross diagram must show each ion as a distinct charged species**, not simply atoms with electrons redistributed [1] [1].
+**7.** **Error 1:** chlorine (Group 7) has 7 outer electrons and needs to gain only **1 electron**, forming a **1− ion** with the electronic structure of argon, not a 2− ion [1] [1]. **Error 2:** omitting the square brackets and charges **loses marks because a finished dot and cross diagram must show each ion as a distinct charged species**, not simply atoms with electrons redistributed [1] [1].
 
 **8.** Calcium (Group 2) has **2 electrons in its outer shell** and **loses both**, forming a **Ca2+ ion** with the electronic structure of **argon** [1] [1]. Oxygen (Group 6) has **6 electrons in its outer shell** and **gains the 2 electrons** lost by calcium, forming an **O2− ion** with the electronic structure of **neon** [1] [1]. The oppositely charged Ca2+ and O2− ions are held together by strong **electrostatic forces of attraction**, forming the ionic bond in calcium oxide [1].
 
-**9.** The strong electrostatic forces of attraction between oppositely charged ions extend in **all directions** through a **giant ionic lattice**, not just between one pair of ions [1] [1]. Melting an ionic compound requires **overcoming a very large number of these strong ionic bonds throughout the structure** simultaneously [1] [1], which needs a large amount of energy, giving ionic compounds like sodium chloride their characteristically high melting points [1].
+**9.** The strong electrostatic forces of attraction between oppositely charged ions extend in **all directions** through a **giant ionic lattice**, not just between one pair of ions [1] [1]. Melting an ionic compound requires **overcoming a very large number of these strong ionic bonds throughout the structure** simultaneously [1], which needs a large amount of energy, giving ionic compounds like sodium chloride their characteristically high melting points [1].
 
 ---
 
 ## Where marks are usually lost
 
 - Naming a bond type without justifying it from the elements involved (metal/non-metal for ionic, non-metal/non-metal for covalent, metal alone for metallic).
-- Including inner-shell electrons in a dot and cross diagram, or omitting the square brackets and charge around each finished ion.
+- Getting the number of electrons transferred wrong so the ion formed does not match a noble gas structure, or omitting the square brackets and charge around each finished ion.
 - Applying the "charge equals group number" rule to elements outside Groups 1, 2, 6 and 7.
 - Describing ionic bond formation as a single step ("electrons move") rather than the required two-step sequence of electron transfer followed by electrostatic attraction.
 - Explaining a property such as melting point without linking it back to the strength and number of ionic bonds in the lattice.

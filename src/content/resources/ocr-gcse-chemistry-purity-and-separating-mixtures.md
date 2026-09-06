@@ -21,9 +21,9 @@ featured: false
 
 This guide covers subtopic **C2.1, Purity and Separating Mixtures**,
 from Topic C2, Elements, Compounds and Mixtures, of OCR GCSE (9–1)
-Chemistry A (Gateway Science) J248. It applies to both Foundation Tier
-and Higher Tier, and sits within Paper 1 alongside Topics C1 (Particles)
-and C3 (Chemical Reactions).
+Chemistry A (Gateway Science) J248. It is assessed on Paper 1 at
+Foundation Tier and on Paper 3 at Higher Tier, alongside Topics C1
+(Particles) and C3 (Chemical Reactions).
 
 ## Where this fits in J248
 
@@ -45,7 +45,8 @@ of "pure" (such as "pure" fruit juice, which is not a single chemical
 substance)
 - Using **melting point** data to distinguish pure substances from
 impure ones, since a genuinely pure substance melts and boils at a
-single, sharp temperature, while impurities widen and lower this range
+single, sharp temperature, while impurities widen and lower the
+melting point range
 - Calculating **relative formula mass** (Mr) of a compound from the
 relative atomic masses of its constituent elements
 - Deducing the **empirical formula** of a compound from given data

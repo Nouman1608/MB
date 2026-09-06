@@ -48,10 +48,12 @@ monosaccharides, disaccharides and polysaccharides, and the structure
 and function of triglycerides and phospholipids
 - 2.3 Proteins — the structure of amino acids and the primary,
 secondary, tertiary and quaternary levels of protein structure, and
-how structure relates to function
+how structure relates to function, including the distinction between
+globular proteins (such as haemoglobin) and fibrous proteins (such as
+collagen)
 - 2.4 Water — the properties of water (as a solvent, its high specific
-heat capacity, cohesion and other properties) and their significance
-for living organisms
+heat capacity, latent heat of vaporisation and other properties) and
+their significance for living organisms
 
 ## How to approach it
 
@@ -91,16 +93,28 @@ or interactions stabilise tertiary structure, rather than the vaguer
 answer "forces between amino acids," is a common differentiator
 between mid-band and high-band answers, and this level of structural
 detail is exactly what Enzymes (Topic 3) builds on when explaining how
-a change in conditions denatures an enzyme's active site.
+a change in conditions denatures an enzyme's active site. Proteins
+also fall into two broad structural classes worth distinguishing
+directly: globular proteins, such as haemoglobin, are compact,
+roughly spherical and generally water-soluble, with a precise tertiary
+(and, for haemoglobin, quaternary) structure suited to a specific
+biochemical role such as oxygen transport; fibrous proteins, such as
+collagen, form long, insoluble strands or fibres in which repeating
+sequences produce a structure suited to providing mechanical strength,
+as in connective tissue. Being able to name one example of each class
+and link its structure to its role, rather than treating "globular"
+and "fibrous" as unexplained labels, is exactly the kind of
+structure-to-function reasoning this sub-topic rewards.
 
 Water (2.4) is a short sub-topic but a frequently underprepared one:
 be ready to explain properties such as water's high specific heat
-capacity, its cohesive and adhesive properties, and its effectiveness
+capacity, its high latent heat of vaporisation, and its effectiveness
 as a solvent, each in terms of hydrogen bonding between polar water
 molecules, and to link each property to a concrete biological
-consequence (thermal stability of aquatic habitats, transport of water
-up a plant stem, or transport of dissolved substances in blood plasma)
-rather than describing the property in isolation from any organism.
+consequence (thermal stability of aquatic habitats, evaporative
+cooling by sweating or transpiration, or transport of dissolved
+substances in blood plasma) rather than describing the property in
+isolation from any organism.
 
 Because this topic is assessed alongside practical skills as well as
 written theory, students should expect questions that ask them to

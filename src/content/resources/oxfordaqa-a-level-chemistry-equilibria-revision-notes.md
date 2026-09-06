@@ -8,7 +8,7 @@ boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
 syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
-description: "Condensed recall notes on dynamic equilibrium, Kc and Kp, Le Chatelier principle and industrial compromise for International A Level Chemistry."
+description: "Condensed recall notes on dynamic equilibrium, Kc, Le Chatelier principle and industrial compromise for International A Level Chemistry (with the International A2 Kp extension, assessed in Unit 4, flagged separately)."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -32,11 +32,16 @@ And the system must be **closed**.
 
 ```
 Kc = [products]^coefficients / [reactants]^coefficients
+```
+
+**International A2 extension (assessed in Unit 4, not this AS unit):**
+
+```
 Kp = (partial pressures of products) / (partial pressures of reactants)
 partial pressure = mole fraction x total pressure
 ```
 
-Solids and pure liquids are **omitted** — their concentrations are effectively constant.
+Both Kc and Kp here are restricted to **homogeneous** equilibria, where every species is in the same phase, so all reactants and products appear in the expression. (Omitting solids and pure liquids is a rule for heterogeneous equilibria, which is beyond this specification.)
 
 **Only temperature changes K.** Everything else shifts the *position* of equilibrium without altering the constant:
 

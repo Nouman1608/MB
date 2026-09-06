@@ -50,7 +50,7 @@ Related: [Cell Level Systems revision notes](/resources/ocr-gcse-biology-cell-le
 **(a)** Calculate the magnification of the photograph. **[3]**
 **(b)** Explain why an electron microscope, rather than a light microscope, would be needed to see the cell's ribosomes. **[2]**
 
-**9.** In an experiment testing the enzyme trypsin, a student times how long a cross drawn under a beaker of reaction mixture takes to disappear. The cross disappears after 25 seconds. Using rate = 1000 ÷ time, calculate the rate of reaction. **[2]**
+**9.** In an experiment testing the enzyme trypsin, a student times how long a cross drawn under a beaker of cloudy reaction mixture takes to become visible as the mixture clears. The cross becomes visible after 25 seconds. Using rate = 1000 ÷ time, calculate the rate of reaction. **[2]**
 
 ---
 

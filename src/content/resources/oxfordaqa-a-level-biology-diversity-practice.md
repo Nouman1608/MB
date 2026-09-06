@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "the-diversity-of-living-organisms-oxfordaqa-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on classification, biodiversity indices, natural selection and species concepts."
+description: "Original exam-style practice questions with full worked answers on classification, biodiversity indices, genetic diversity and species concepts."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -39,17 +39,21 @@ Related: [Diversity of Living Organisms revision notes](/resources/oxfordaqa-a-l
 
 **4.** A habitat contains 3 species with 40, 30 and 30 individuals respectively.
 
-**(a)** Explain what an index of diversity measures beyond simple species richness. **[2]**
-**(b)** Explain why a monoculture farmland has a much lower index of diversity than woodland, giving **two** reasons. **[4]**
+**(a)** Explain what an index of diversity measures beyond simple species richness. **[3]**
+**(b)** Calculate the index of diversity, d = N(N - 1) / Σn(n - 1), showing your working. **[3]**
+**(c)** Explain why a monoculture farmland has a much lower index of diversity than woodland, giving **two** reasons. **[4]**
 
-**5.** A population of bacteria is exposed to an antibiotic.
+**5.** A biologist studies two isolated populations of the same beetle species and wants to compare their genetic diversity.
 
-**(a)** Explain, using natural selection, how a resistant population arises. **[5]**
-**(b)** Explain why the resistance did not arise *because* of the antibiotic. **[2]**
+**(a)** Describe **two** methods the biologist could use to measure genetic diversity within a population. **[4]**
+**(b)** Explain why comparing DNA base sequences gives a more objective measure of genetic diversity than comparing observable (phenotypic) characteristics. **[3]**
 
 **6.** Explain what is meant by genetic diversity within a species and why low genetic diversity puts a population at risk. **[4]**
 
-**7.** Adaptations can be anatomical, physiological or behavioural. Explain why the statement "the organism adapted in order to survive" is scientifically incorrect. **[3]**
+**7.** Two unrelated species of fish have independently evolved a very similar streamlined body shape for fast swimming.
+
+**(a)** Name this phenomenon. **[1]**
+**(b)** Explain why this phenomenon makes classification based only on observable (physical) features potentially misleading, and how molecular evidence can resolve the problem. **[2]**
 
 **8.** A student wants to investigate how plant species distribution changes across a rocky shore, from the top of the shore down to the sea. Explain why a transect would be more appropriate than randomly placed quadrats for this investigation. **[2]**
 
@@ -68,14 +72,16 @@ Related: [Diversity of Living Organisms revision notes](/resources/oxfordaqa-a-l
 **3.** DNA base sequences and amino acid sequences can be **compared directly and quantitatively**, giving an objective measure of relatedness [1]. Organisms may **look similar through convergent evolution while being unrelated**, and DNA reveals this [1]. It shows **how recently two species shared a common ancestor** from the number of differences [1], and can distinguish species that are morphologically identical [1].
 
 **4. (a)** It takes into account both the **number of species (richness)** and the **evenness — how the individuals are distributed between them** [1] [1]. A community dominated by one species has lower diversity than one with equal numbers, even with the same richness [1]. This index measures species diversity specifically — biodiversity can also be considered at the level of genetic diversity within a species, or diversity across different habitats.
-**(b)** Farmland grows **one crop species over a large area**, so richness is very low [1] and **almost all individuals belong to that one species**, so evenness is very low [1]. **Hedgerows are removed and pesticides and herbicides kill other species** [1], further reducing the number of habitats and niches available [1].
+**(b)** N = 100, so N(N - 1) = 100 × 99 = 9900 [1]. Σn(n - 1) = (40 × 39) + (30 × 29) + (30 × 29) = 1560 + 870 + 870 = 3300 [1]. d = 9900 ÷ 3300 = **3.0** [1].
+**(c)** Farmland grows **one crop species over a large area**, so richness is very low [1] and **almost all individuals belong to that one species**, so evenness is very low [1]. **Hedgerows are removed and pesticides and herbicides kill other species** [1], further reducing the number of habitats and niches available [1].
 
-**5. (a)** There is **genetic variation within the bacterial population caused by random mutation** [1]; by chance some bacteria carry an allele giving **resistance to the antibiotic** [1]. When the antibiotic is applied it acts as a **selection pressure**, killing the non-resistant bacteria [1]. The resistant bacteria **survive and reproduce**, passing on the allele [1], so over successive generations the **frequency of the resistance allele increases** in the population [1].
-**(b)** The mutation occurred **randomly and was already present before exposure** [1]; the antibiotic only **selected for it**, it did not cause it to appear [1].
+**5. (a)** Compare **allele frequencies** at specific gene loci between individuals in the population — the more different alleles present, and the more evenly their frequencies are distributed, the greater the genetic diversity [1] [1]; or compare **DNA base sequences (or amino acid sequences in proteins)** between individuals — greater variation in the sequences indicates greater genetic diversity [1] [1]. (Accept: the proportion of gene loci that are polymorphic.)
+**(b)** Phenotypic (observable) characteristics can be influenced by the **environment as well as by genes**, so genetically different individuals can look similar, or genetically similar individuals can look different [1]; DNA and protein sequences are a **direct measure of genetic difference**, unaffected by environmental factors [1], giving a more objective comparison between populations [1].
 
 **6.** Genetic diversity is the **number of different alleles present in the gene pool** of a population [1]. If it is low, the population is **less able to adapt to a change in the environment** [1], because **fewer individuals are likely to possess an advantageous allele** [1], so a new disease or environmental change could kill the whole population — raising the risk of extinction [1].
 
-**7.** The statement reverses the correct causation [1]. **Variation already exists within a population, arising from random mutation, before any selection pressure acts** — organisms do not change in response to a need; instead, individuals that happen to already carry an advantageous allele are more likely to survive and reproduce, passing that allele on [1] [1].
+**7. (a)** Convergent evolution [1].
+**(b)** Convergent evolution means unrelated species can come to resemble each other because they have adapted to similar environments or ways of life, not because they share a recent common ancestor [1]; comparing DNA base sequences or amino acid sequences reveals the true evolutionary relationship, regardless of superficial physical resemblance [1].
 
 **8.** Across a rocky shore there is a clear **environmental gradient** (e.g. changing exposure to air, wave action or salinity from top to bottom of the shore) [1], so the distribution being studied is not random — a transect samples systematically along this gradient, whereas randomly placed quadrats would not reveal how species composition changes with position [1].
 
@@ -89,8 +95,8 @@ Related: [Diversity of Living Organisms revision notes](/resources/oxfordaqa-a-l
 
 - Saying species interbreed to produce "offspring" — they must be fertile.
 - Describing diversity index as species richness only.
-- Implying antibiotics cause the mutation.
+- Comparing observable characteristics alone and treating that as an objective measure of genetic diversity, when the environment can also affect them.
 - Confusing genetic diversity with species diversity.
 - Writing binomial names without italics, or without capitalising the genus name.
 - Saying quadrats should be "placed randomly by eye" rather than positioned using random coordinates — this still introduces bias.
-- Describing natural selection as the organism "trying" to adapt, rather than as selection acting on variation that already exists by chance.
+- Assuming physical resemblance between species always indicates a recent common ancestor, rather than considering convergent evolution.

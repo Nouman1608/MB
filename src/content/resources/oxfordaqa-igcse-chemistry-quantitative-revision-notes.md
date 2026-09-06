@@ -11,7 +11,7 @@ syllabusSeries: "Version 5.3 (first teaching 2016, first examined 2018; specific
 syllabusTopics:
   - qualification: "igcse"
     topic: "quantitative-chemistry-9202"
-description: "Condensed recall notes on relative masses, the mole, formulae, reacting masses, concentration and yield for International GCSE Chemistry."
+description: "Condensed recall notes on relative masses, the mole, formulae, reacting masses, concentration and titrations for International GCSE Chemistry."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -26,11 +26,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Relative formula mass (Mᵣ)** — the sum of the Aᵣ values of all atoms in the formula.
 
-Relative atomic masses are not whole numbers because they are **weighted averages of isotopes**:
-
-```
-Ar = sum of (isotope mass x abundance) / 100
-```
+Relative atomic masses are not whole numbers because they are **weighted averages of isotopes**. This specification does not require calculating Ar from isotopic abundances — the weighted-mean formula (Ar = sum of isotope mass x abundance, divided by 100) is A-level material.
 
 ## The mole
 
@@ -73,7 +69,7 @@ Balanced equations give the ratio in **moles**, never directly in grams. The rel
 
 Skipping step 1 and working with the mass ratio directly is the commonest error in the topic.
 
-**Limiting reagent** — the reactant that runs out first. Convert both to moles, divide by the coefficients, and the smaller value is limiting. All product calculations use that reagent.
+**Even though no atoms are gained or lost in a chemical reaction, it is not always possible to obtain the calculated amount of a product**, because the reaction may not go to completion (if it is reversible), some of the product may be lost during separation and purification, or some of the reactants may react in ways other than the expected reaction.
 
 ## Gas volumes
 
@@ -93,18 +89,9 @@ g/dm3 = mol/dm3 x Mr
 
 **Volume must be in dm³** — divide cm³ by 1000. This conversion accounts for more lost marks than any concept in the topic.
 
-## Yield and atom economy
+## Worked example: reacting masses
 
-```
-percentage yield = (actual / theoretical) x 100
-atom economy     = (Mr of desired product / total Mr of products) x 100
-```
-
-**Yield is never 100%** because reactions may be reversible, side reactions occur, some product is lost in transfer and purification, and reactants may be impure.
-
-**Atom economy is a different measure**: it asks how much of the reactant mass becomes useful product. High atom economy means less waste, lower cost and better sustainability. An **addition reaction has 100% atom economy** because there is only one product — which is why industry prefers addition routes where a choice exists.
-
-**Worked example.** 4.8 g of magnesium burned in excess oxygen (2Mg + O₂ → 2MgO, A_r: Mg = 24, O = 16): moles Mg = 4.8 ÷ 24 = 0.2 mol; moles MgO formed = 0.2 mol (1:1 ratio); maximum mass MgO = 0.2 × 40 = 8.0 g. If 7.2 g is obtained in practice, percentage yield = (7.2 ÷ 8.0) × 100 = **90%**.
+4.8 g of magnesium is burned in excess oxygen (2Mg + O₂ → 2MgO, A_r: Mg = 24, O = 16): moles Mg = 4.8 ÷ 24 = 0.2 mol; moles MgO formed = 0.2 mol (1:1 ratio); mass MgO = 0.2 × 40 = **8.0 g**. If a student actually collects less than 8.0 g, this is because the reaction did not go to completion, some product was lost during separation, or some of the reactants reacted in an unexpected way — not because atoms were gained or lost.
 
 ## Titrations
 
@@ -121,8 +108,7 @@ Use only **concordant** titres — those within 0.10 cm³ of each other — and 
 - Working from mass ratios instead of converting to moles first.
 - Forgetting to divide cm³ by 1000.
 - Explaining a mass change without identifying the gas involved.
-- Confusing yield with atom economy.
-- Failing to identify the limiting reagent.
+- Assuming that failing to obtain the calculated mass of product means atoms were lost.
 - Rounding partway through instead of at the end.
 
 ## Self-test
@@ -130,7 +116,6 @@ Use only **concordant** titres — those within 0.10 cm³ of each other — and 
 1. Why are relative atomic masses not whole numbers?
 2. Explain why mass appears to decrease when a metal carbonate is heated in an open crucible.
 3. Give the three steps of a reacting-mass calculation.
-4. Why does an addition reaction have 100% atom economy?
-5. Give three reasons percentage yield is below 100%.
+4. Give three reasons why the calculated mass of a product might not be obtained in practice, even though no atoms are gained or lost.
 
-**Answers:** 1. They are weighted averages of the masses of an element's isotopes, taking their relative abundances into account. 2. Carbon dioxide gas is produced and escapes from the open container, so the mass remaining falls; in a closed system the total mass would be unchanged. 3. Convert the known mass to moles, use the balanced equation's mole ratio to find the moles of the target substance, then convert back to mass. 4. All the atoms of the reactants end up in the single product, so none are wasted. 5. Reversible reactions, competing side reactions, losses during transfer and purification, and impure reactants — any three.
+**Answers:** 1. They are weighted averages of the masses of an element's isotopes, taking their relative abundances into account. 2. Carbon dioxide gas is produced and escapes from the open container, so the mass remaining falls; in a closed system the total mass would be unchanged. 3. Convert the known mass to moles, use the balanced equation's mole ratio to find the moles of the target substance, then convert back to mass. 4. The reaction may not go to completion because it is reversible; some of the product may be lost when it is separated from the reaction mixture; some of the reactants may react in ways different from the expected reaction — any three.

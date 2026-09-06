@@ -67,7 +67,10 @@ with everything else assessed on both tiers.
   spring constant × extension²); explaining that all matter has a
   gravitational field and that field strength is far greater for
   massive objects; defining weight and its relationship to
-  gravitational field strength g (weight = mass × g); recalling the
+  gravitational field strength g (weight = mass × g); recalling and
+  applying the relationship between gravitational potential energy,
+  mass, gravitational field strength and height (gravitational
+  potential energy = mass × g × height); recalling the
   acceleration in free fall; describing examples where forces cause
   rotation; defining and calculating the moment of a force, including
   the principle of moments for balanced objects; explaining how levers
@@ -116,9 +119,12 @@ obtain it.
   weight (N) depends on gravitational field strength and changes
   between planets, which is a favourite exam context for testing this
   distinction.
-- **Mixing up percentage yield and atom economy** -- not relevant
-  here, but the equivalent confusion in Forces is mixing up momentum
-  (mass × velocity, a vector) with kinetic energy (½mv², a scalar):
+- **Forgetting gravitational potential energy when a height changes.**
+  Any object raised through a height h gains gravitational potential
+  energy = mass × g × height; a common exam context links this
+  directly to weight (mass × g), since both share the same mg term.
+- **Mixing up momentum and kinetic energy.** Momentum
+  (mass × velocity, a vector) and kinetic energy (½mv², a scalar)
   both involve mass and velocity, but they behave completely
   differently in collisions, since momentum is always conserved and
   kinetic energy often is not.

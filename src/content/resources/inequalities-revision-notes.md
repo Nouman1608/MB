@@ -96,30 +96,6 @@ system of inequalities — is explicitly **not** part of this syllabus;
 the skill required stops at representing, solving and reading off
 regions.
 
-## Quadratic inequalities
-
-Find the **critical values** by solving the quadratic as an equation
-(factorise, complete the square, or use the formula), then use the
-shape of the parabola to decide which region satisfies the inequality.
-
-**Worked example.** Solve x² − 5x − 14 < 0.
-```
-(x - 7)(x + 2) = 0  ->  critical values x = 7 and x = -2
-```
-The graph of y = x² − 5x − 14 is a **positive parabola** (positive x²
-coefficient), so it lies **below the x-axis between the roots**. The
-solution is **−2 < x < 7**.
-
-**Worked example.** Solve x² ≥ 9, and explain why the answer is not
-simply x ≥ 3.
-```
-x^2 - 9 >= 0  ->  (x - 3)(x + 3) >= 0  ->  critical values x = 3 and x = -3
-```
-A positive parabola is **above the axis outside the roots**, so the
-solution is **x ≤ −3 or x ≥ 3** — squaring removes the sign, so any
-number with magnitude 3 or more satisfies the inequality, including
-negative values such as −4 (since (−4)² = 16 ≥ 9).
-
 ## Exam traps
 
 - Forgetting to flip the sign when dividing by a negative.
@@ -127,7 +103,6 @@ negative values such as −4 (since (−4)² = 16 ≥ 9).
 - Dashed vs solid lines — worth a mark on its own.
 - Shading the wrong region: always test a point rather than guessing.
 - When listing integers, checking whether each endpoint is included.
-- Giving x > 7 or x < −2 for a quadratic inequality that should be a range **between** the roots — check the parabola's shape before deciding.
 - Treating a double inequality one side at a time and losing a bound in the process.
 
 ## Self-test
@@ -140,4 +115,4 @@ negative values such as −4 (since (−4)² = 16 ≥ 9).
 
 **Answers:** 1. 4x ≤ 20 → **x ≤ 5**. 2. Divide by −2 and flip: **x < −5**. 3. −2, −1, 0, 1, 2. 4. Dashed — the inequality is strict, so points on the line are not included. 5. Substitute a test point not on the line (usually the origin) into the inequality; if it is true, shade that side.
 
-For the full worked explanation with additional detail, see the [Inequalities study guide](/resources/inequalities/); for exam-style questions including quadratic inequalities with full mark schemes, see the [Inequalities practice questions](/resources/inequalities-practice/).
+For the full worked explanation with additional detail, see the [Inequalities study guide](/resources/inequalities/); for exam-style questions with full mark schemes, see the [Inequalities practice questions](/resources/inequalities-practice/).

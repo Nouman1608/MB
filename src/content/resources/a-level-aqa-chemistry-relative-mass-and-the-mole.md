@@ -98,11 +98,11 @@ Step 2: calculate moles of NaCl
 
 Step 3: convert moles to number of formula units
         number of formula units = moles x Avogadro constant
-                            = 0.050 x 6.02x10^23 = 3.01x10^22
+                            = 0.050 x 6.02x10^23 = 3.0x10^22 (2 s.f., matching the 0.20 mol dm-3 data)
 
 Step 4: apply the ionic multiplier
         NaCl gives 2 ions per formula unit (Na+ and Cl-), so
-        number of ions = 2 x 3.01x10^22 = 6.02x10^22
+        number of ions = 2 x 3.0x10^22 = 6.0x10^22
 ```
 
 Every step should be shown explicitly, since AQA mark schemes award

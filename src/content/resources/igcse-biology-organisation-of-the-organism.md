@@ -37,7 +37,7 @@ that follows: the transport topics later in the syllabus depend on
 knowing what a cell membrane and cytoplasm are, and topics on nutrition,
 respiration and coordination all describe specialised cells doing a
 job, which only makes sense once the idea of cell specialisation from
-this topic is secure. Unusually for 0610, this topic carries no
+this topic is secure. Like the diffusion sub-topic, this topic carries no
 Supplement content of its own within 2.1 — the cell-structure outcomes
 are examined identically for Core and Extended candidates, with the
 tier distinction only appearing in the unit-conversion skill in 2.2.

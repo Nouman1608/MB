@@ -48,7 +48,7 @@ Related: [Indices and Equations revision notes](/resources/indices-and-equations
 **(a)** x² − 7x + 12 = 0 by factorising **[3]**
 **(b)** 2x² + 5x − 4 = 0 using the formula, to 2 d.p. **[4]**
 
-**5.** Solve the simultaneous equations 3x + 2y = 16 and 5x − y = 18, checking your answer in the equation you did not substitute into. **[4]**
+**5.** Solve the simultaneous equations 3x + 2y = 16 and 5x − y = 18, checking your answer in the equation you did not substitute into. **[5]**
 
 **6.** Make **r** the subject of V = ⅓πr²h, given that r must be positive. **[3]**
 
@@ -76,7 +76,7 @@ Related: [Indices and Equations revision notes](/resources/indices-and-equations
 **4. (a)** (x − 3)(x − 4) = 0 [1] [1]; x = **3 or 4** [1].
 **(b)** a = 2, b = 5, c = −4; discriminant = 25 + 32 = 57 [1]; x = (−5 ± √57) ÷ 4 [1] [1]; x = **0.64 or −3.14** [1].
 
-**5.** From the second equation, y = 5x − 18 [1]. Substituting: 3x + 2(5x − 18) = 16 [1]; 13x = 52, so x = **4** [1]; y = 20 − 18 = **2** [1].
+**5.** From the second equation, y = 5x − 18 [1]. Substituting into the first equation: 3x + 2(5x − 18) = 16 [1]; 13x = 52, so x = **4** [1]; y = 20 − 18 = **2** [1]. Check in the equation not substituted into (the second equation): 5(4) − 2 = 20 − 2 = 18 ✓, confirming the solution [1].
 
 **6.** 3V = πr²h [1]; r² = 3V ÷ (πh) [1]; **r = √(3V ÷ πh)** [1].
 

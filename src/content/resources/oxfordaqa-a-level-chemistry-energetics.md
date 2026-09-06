@@ -73,10 +73,11 @@ law**. Mean bond enthalpies are average values taken across many
 different molecules containing a given bond type, so a specific bond
 in a specific molecule may have a slightly different actual bond
 enthalpy than the mean value used in the calculation -- this makes the
-bond-enthalpy method only an approximation, whereas a correctly applied
-Hess's law calculation using measured enthalpies of formation or
-combustion gives an exact experimental value for that specific
-reaction.
+bond-enthalpy method only an approximation, whereas a Hess's law
+calculation using measured enthalpies of formation or combustion is
+specific to the actual compounds involved in that particular
+reaction, rather than an average taken across many different
+molecules.
 
 ## A worked example
 
@@ -100,8 +101,8 @@ combustion reappear directly whenever a later part of the course asks
 you to evaluate the energetics of a specific reaction type, and the
 Hess's law cycle method generalises to any situation where a wanted
 enthalpy change cannot be measured directly but can be constructed
-from known steps. The distinction between an exact, experimentally
-derived Hess's law value and an approximate, averaged bond-enthalpy
+from known steps. The distinction between a Hess's law value specific to the
+compounds actually involved and an approximate, averaged bond-enthalpy
 value is also a recurring theme in how this specification treats
 experimental versus theoretical data more broadly -- recognising which
 type of value a question is asking you to calculate, and why the two

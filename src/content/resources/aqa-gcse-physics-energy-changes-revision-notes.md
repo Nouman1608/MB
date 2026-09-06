@@ -29,7 +29,7 @@ A **system** is an object or group of objects. When a system changes, energy is 
 
 **Situations you must be able to describe** (know all five): an object projected upwards, a moving object hitting an obstacle, an object accelerated by a constant force, a vehicle slowing down, and heating water in a kettle. In each, name the store(s) involved before and after.
 
-**A system changes through three routes only:** heating, work done by a force, or work done when a current flows. Every question in this sub-topic reduces to identifying which of these three caused the change.
+**The specification lists three routes by which a system can change** (for which you must be able to calculate the associated energy): heating, work done by a force, or work done when a current flows. Many questions in this sub-topic ask you to identify which of these caused the change, but most are calculations rather than classifications.
 
 ## The three core equations
 
@@ -39,7 +39,7 @@ elastic potential energy    Ee = 1/2 k e^2     (within the limit of proportional
 gravitational potential     Ep = m g h
 ```
 
-**Kinetic energy depends on v², not v.** Doubling speed quadruples Ek — this single fact drives most of the harder exam questions in this sub-topic, including any question about stopping distance or collision severity.
+**Kinetic energy depends on v², not v.** Doubling speed quadruples Ek — this single fact drives most of the harder exam questions in this sub-topic, including any question about braking distance or collision severity. (Stopping distance itself does not simply quadruple: it is thinking distance, which is proportional to speed, plus braking distance, which is proportional to speed squared, so only the braking-distance part quadruples.)
 
 **Elastic potential energy only applies within the limit of proportionality** — beyond that point, force is no longer proportional to extension, and the equation no longer holds. This is a separate condition from the **elastic limit**, beyond which the spring is permanently (inelastically) deformed; the elastic limit lies at or beyond the limit of proportionality. Examiners test this by asking you to state the condition, not just apply the formula.
 
@@ -52,7 +52,7 @@ gravitational potential     Ep = m g h
 change in thermal energy   delta-E = m c delta-theta
 ```
 
-**Specific heat capacity** is the energy required to raise the temperature of 1 kg of a substance by 1°C. A substance with a **high** specific heat capacity needs a lot of energy for a small temperature rise — water's is unusually high, which is why it is used in heating systems and takes so long to boil.
+**Specific heat capacity** is the energy required to raise the temperature of 1 kg of a substance by 1°C. A substance with a **high** specific heat capacity needs a lot of energy for a small temperature rise — water's is unusually high, which is why it is used in heating systems and takes so long to heat up to its boiling point.
 
 **Required practical activity 1** determines the specific heat capacity of one or more materials. The method links the decrease of one energy store (electrical work done, usually via a heater) to the resulting rise in temperature and the thermal energy gained. Know that some energy is always dissipated to the surroundings during the experiment, which is a source of systematic error the practical write-up should mention.
 
@@ -85,7 +85,7 @@ It is easy to blur 4.1.1 (this sub-topic) with 4.1.2 Conservation and Dissipatio
 - Using total height instead of height *gained* in Ep = mgh.
 - Mixing up mass (kg) and weight (N) when substituting into g.p.e.
 - Confusing power (a rate) with energy itself — always check whether the question specifies a time.
-- Quoting the specific-heat-capacity equation with the wrong variable for temperature *change* rather than temperature.
+- Substituting a temperature into the specific-heat-capacity equation where a temperature *change* is required.
 
 ## Self-test
 

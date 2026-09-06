@@ -31,8 +31,9 @@ Topic 1 (Organisation) covers cells, tissues and organs in general;
 Bioenergetics applies that structure to the specific systems responsible
 for energy — photosynthesis in plants, and circulation, digestion,
 breathing and respiration in humans. It is one of the most heavily
-"Higher-tier-extended" topics in the specification, with several parts
-marked B (content examined only at the higher tier).
+B-marked topics in the specification, with several parts marked B
+(content applicable to Biology only, not shared with the co-teachable
+Combined Science qualification).
 
 ## Syllabus coverage
 
@@ -49,16 +50,17 @@ cellulose, or use in making proteins with nitrate ions from the soil)
 into leaves through stomata; increased surface area in roots (root
 hairs) and leaves (flattened shape, internal air spaces); the role of
 stomata and guard cells in gas exchange and controlling water loss;
-transpiration through xylem and translocation of dissolved sugars
-through phloem
+transpiration (the loss of water vapour from the leaves) and the
+resulting transpiration stream of water through the xylem, and
+translocation of dissolved sugars through phloem
 - 3.2.3 Circulation in humans — the heart's double circulatory system
-and four chambers; the pacemaker and artificial pacemakers (higher
-tier); coronary heart disease and stents (higher tier); faulty heart
-valves and their replacement, and artificial hearts (higher tier);
+and four chambers; the pacemaker and artificial pacemakers (B);
+coronary heart disease and stents (B); faulty heart
+valves and their replacement, and artificial hearts (B);
 arteries, veins and capillaries and their structural differences; the
 composition and functions of blood plasma, red blood cells, white blood
 cells and platelets; blood clotting; blood groups and transplant
-rejection (higher tier)
+rejection (B)
 - 3.2.4 Digestion — the need to break down insoluble starch, proteins and
 fats into soluble substances for absorption; enzymes as biological
 catalysts, the effect of temperature and pH on enzyme shape and
@@ -67,7 +69,7 @@ hydrochloric acid and bile
 - 3.2.5 Breathing — the mechanics of inhaling and exhaling via the
 intercostal muscles and diaphragm; the large surface area and rich blood
 supply of the alveoli; mechanical ventilation for patients whose
-spontaneous breathing has stopped (higher tier)
+spontaneous breathing has stopped (B)
 - 3.2.6 Respiration — aerobic respiration's word and symbol equations
 (glucose + oxygen → carbon dioxide + water); where aerobic respiration
 occurs (mitochondria) and how the transferred energy is used, including
@@ -95,9 +97,10 @@ revising each system in isolation.
 
 Watch for the "B" markers throughout 3.2.3 and 3.2.5 — pacemakers,
 stents, valve replacement, artificial hearts and mechanical ventilators
-are Higher-tier-only content. Core-tier candidates should focus revision
-time on the structure and function of the heart and lungs rather than
-these medical-intervention details.
+are marked B, meaning they are examined in Biology only and are not
+shared with the co-teachable Combined Science qualification. The
+specification is linear and untiered, so this content is compulsory for
+every candidate and must be revised along with the rest of the topic.
 
 ## Worked example: limiting factors in photosynthesis
 
@@ -128,9 +131,10 @@ photosynthesis, or vice versa -- check which gas is being taken in
 before answering. Describing xylem and phloem without specifying
 direction of flow (xylem: roots to leaves; phloem: leaves to the rest of
 the plant, in both directions depending on need). Naming an enzyme
-without stating what it breaks down and where it is produced. Including
-Higher-tier-only content (marked B) in a Core-tier revision plan at the
-expense of the compulsory content every candidate is examined on.
+without stating what it breaks down and where it is produced. Treating
+B-marked content (pacemakers, stents, valve replacement, artificial
+hearts, mechanical ventilators) as optional — it is compulsory for
+every candidate, since the qualification is linear and untiered.
 
 ## Quick revision checklist
 
@@ -140,8 +144,9 @@ direction, location and purpose.
 as one connected pathway.
 - Name the three digestive enzymes (amylase, protease, lipase) with what
 each breaks down and where.
-- Identify which content in 3.2.3 and 3.2.5 is Higher-tier-only before
-allocating revision time.
+- Know which content in 3.2.3 and 3.2.5 is marked B (biology-only,
+not shared with Combined Science) — it is still compulsory for every
+candidate.
 
 ## Official syllabus
 

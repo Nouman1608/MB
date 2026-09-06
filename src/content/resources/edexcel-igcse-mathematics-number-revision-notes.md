@@ -115,7 +115,7 @@ mass 3.7 kg to 1 d.p.:   3.65 <= m < 3.75
 
 ## Set notation
 
-The **universal set** ξ contains every element under consideration. **A′** denotes the **complement** of set A (every element not in A). **A ∩ B** denotes **intersection** (elements in both A and B). **A ∪ B** denotes **union** (elements in A, B, or both).
+The **universal set** 𝓔 contains every element under consideration. **A′** denotes the **complement** of set A (every element not in A). **A ∩ B** denotes **intersection** (elements in both A and B). **A ∪ B** denotes **union** (elements in A, B, or both).
 
 **Venn diagrams** translate these symbols visually. Exam questions typically ask you to **shade a described region**, or to **read off the number of elements** satisfying a given combination of conditions directly from a labelled diagram.
 

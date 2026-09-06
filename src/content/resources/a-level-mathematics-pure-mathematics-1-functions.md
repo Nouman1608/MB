@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "pure-mathematics-1-cambridge-alevel"
     subtopic: "functions-cambridge-alevel-maths"
-description: "Domain, range, one-one functions, inverse functions, composition, and the five standard graph transformations -- a deep dive into subtopic 1.2 Functions for Cambridge International AS & A Level Mathematics 9709, Pure Mathematics 1."
+description: "Domain, range, one-one functions, inverse functions, composition, and the four standard graph transformations -- a deep dive into subtopic 1.2 Functions for Cambridge International AS & A Level Mathematics 9709, Pure Mathematics 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -78,7 +78,7 @@ indication of it.
 
 ## Graph transformations
 
-The final part of 1.2 covers five standard transformations of the
+The final part of 1.2 covers four standard transformations of the
 graph of y = f(x), which you need to understand and use, including
 simple combinations of them:
 

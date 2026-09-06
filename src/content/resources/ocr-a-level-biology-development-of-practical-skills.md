@@ -29,7 +29,8 @@ Endorsement.
 ## Where this fits in H420
 
 Practical skills are woven through every other module -- students are
-expected to demonstrate planning, implementing and analysis skills in
+expected to demonstrate planning, implementing, analysis and
+evaluation skills in
 the context of the biological content they are studying, from
 Foundations in biology through to Genetics and ecosystems. This module
 sets out exactly what those skills are and how they are assessed.
@@ -43,9 +44,13 @@ SKILLS IN BIOLOGY**
 (experimental design, identifying variables to control, evaluating
 whether a method is appropriate), implementing (using practical
 apparatus and techniques correctly, using appropriate units, presenting
-data appropriately), and analysis (processing, analysing and
+data appropriately), analysis (processing, analysing and
 interpreting qualitative and quantitative results, using appropriate
-mathematical skills, and plotting and interpreting graphs)
+mathematical skills, and plotting and interpreting graphs), and
+evaluation (evaluating results and drawing conclusions, identifying
+anomalies, the limitations of experimental procedures, and the
+precision and accuracy of measurements including margins of error,
+percentage errors and uncertainties in apparatus)
 - 1.2 Practical skills assessed in the Practical Endorsement — the
 separately-reported, teacher-assessed competencies confirming a
 student can work safely and competently in a practical context

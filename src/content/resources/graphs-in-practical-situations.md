@@ -103,7 +103,9 @@ Stage 2 (rectangle): distance = base × height = 10 × 12 = 120 m
 total distance = 36 + 120 = 156 m
 ```
 
-## Displacement versus distance travelled
+## Displacement versus distance travelled (enrichment, beyond this syllabus)
+
+This syllabus sub-topic is restricted to **speed**-time graphs, and speed cannot be negative, so a graph of the kind described below cannot arise in this course. The section is included as enrichment for students who may meet velocity-time graphs elsewhere, not as examinable content here.
 
 If a speed–time graph — strictly, a **velocity–time** graph — dips below the time axis, the object is moving in the **opposite direction**. The area **above** the axis represents positive displacement, and the area **below** represents negative displacement.
 
@@ -158,7 +160,7 @@ correct number with no units, or no stated meaning, rarely earns the mark.
 curved sections)
 - Gradient of a speed–time graph = acceleration (negative = deceleration)
 - Area under a speed–time graph = distance, for linear sections only
-- Displacement (subtract the areas) versus distance travelled (add the areas), when a velocity–time graph crosses the axis
+- Displacement versus distance travelled for a velocity-time graph that crosses the axis (subtract vs. add the areas) -- enrichment beyond this syllabus, which only requires speed-time graphs
 - Interpreting a gradient as a rate in context, with correct units
 
 ## Related resources

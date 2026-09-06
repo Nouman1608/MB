@@ -19,7 +19,7 @@ featured: false
 ---
 
 This guide covers **Topic 1 Atomic Structure and the Periodic Table**,
-the first of nine topic areas in OxfordAQA International GCSE Chemistry
+the first of ten topic areas in OxfordAQA International GCSE Chemistry
 (9202), for exams May/June 2018 onwards (specification updated November
 2022, Version 5.3). The specification itself introduces this topic by
 noting that atoms are the building blocks of all materials, and that

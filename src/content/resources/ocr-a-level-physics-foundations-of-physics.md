@@ -32,7 +32,7 @@ introduces the conventions -- units, uncertainty, scalars and vectors
 - **2.1 Physical quantities and units** -- 2.1.1 Physical quantities:
   understanding that every physical quantity has a numerical value and
   a unit, and making sensible estimates of quantities listed in the
-  specification. 2.1.2 SI units: the six SI base quantities and their
+  specification. 2.1.2 SI units: the six of the seven SI base quantities examined by this specification, and their
   units (mass in kg, length in m, time in s, current in A, temperature
   in K, amount of substance in mol); derived units built from base
   units (for example momentum in kg m s⁻¹, density in kg m⁻³);

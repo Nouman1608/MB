@@ -94,7 +94,7 @@ pH 7:  3 intervals (90 seconds) until starch fully digested
 pH 9:  10 intervals (300 seconds) until starch fully digested
 ```
 
-**Interpretation:** the shortest time to full digestion (pH 7) indicates the **fastest reaction rate**, so pH 7 is closest to amylase's optimum pH for this experiment. Longer times at pH 5 and pH 9 indicate the enzyme is working more slowly further from its optimum, not that it has stopped working altogether -- a common misinterpretation is treating any pH away from the optimum as having "denatured" the enzyme, when a genuinely denaturing pH would show no digestion occurring at all, not just a slower rate.
+**Interpretation:** the shortest time to full digestion (pH 7) indicates the **fastest reaction rate**, so pH 7 is closest to amylase's optimum pH for this experiment. Longer times at pH 5 and pH 9 indicate the enzyme is working more slowly further from its optimum, not that it has stopped working altogether -- a common misinterpretation is treating any pH away from the optimum as having "denatured" the enzyme -- a slower rate is consistent with only some enzyme molecules being denatured, and it is only when all of the enzyme present has denatured that digestion stops altogether.
 
 ## Connecting to the wider organ system
 

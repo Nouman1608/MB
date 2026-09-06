@@ -42,17 +42,17 @@ Related: [Structure, Bonding and Organic Chemistry revision notes](/resources/ed
 **(a)** State the two conditions required for E/Z isomerism and confirm that but-2-ene meets them. **[3]**
 **(b)** Explain why but-1-ene does **not** show E/Z isomerism. **[2]**
 
-**6.** 2-bromobutane is reacted with aqueous sodium hydroxide.
+**6.** *(This question draws on the Sₙ1/Sₙ2 mechanism distinction, which the specification states is tested in Unit 4, not Unit 1.)* A single optically active enantiomer of 2-bromobutane is reacted with aqueous sodium hydroxide.
 
 **(a)** Name the mechanism and the product. **[2]**
 **(b)** Explain what a chiral centre is and identify whether the product has one. **[2]**
 **(c)** The product is optically inactive. Explain what this reveals about the mechanism. **[3]**
 
-**7.** Rank C–F, C–Cl, C–Br and C–I by rate of nucleophilic substitution and explain the order. **[3]**
+**7.** *(Unit 2, topic 10 content.)* Rank C–F, C–Cl, C–Br and C–I by rate of nucleophilic substitution and explain the order. **[3]**
 
 **8.** Explain why ice is less dense than liquid water. **[3]**
 
-**9.** 2-bromo-2-methylpropane is heated under reflux with **ethanolic** potassium hydroxide, instead of aqueous potassium hydroxide.
+**9.** *(Unit 2, topic 10 content.)* 2-bromo-2-methylpropane is heated under reflux with **ethanolic** potassium hydroxide, instead of aqueous potassium hydroxide.
 
 **(a)** Name the type of mechanism and give the name of the organic product. **[2]**
 **(b)** State the type of mechanism and the organic product that aqueous potassium hydroxide would give instead. **[2]**

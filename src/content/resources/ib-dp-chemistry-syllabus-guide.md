@@ -87,10 +87,14 @@ and the scientific investigation.
 - **Reactivity 3.1** -- Proton transfer reactions -- acid-base
   chemistry.
 - **Reactivity 3.2** -- Electron transfer reactions -- redox chemistry.
-- **Reactivity 3.3** -- Electron sharing reactions -- covalent bond
-  formation and breaking in reactions.
+- **Reactivity 3.3** -- Electron sharing reactions -- radical
+  chemistry: homolytic fission and free-radical substitution, with its
+  initiation, propagation and termination stages, shown using
+  half-headed (single-barbed) arrows that move one electron.
 - **Reactivity 3.4** -- Electron-pair sharing reactions -- organic
-  reaction mechanisms built on shared electron pairs.
+  reaction mechanisms built on shared electron pairs, together with
+  Lewis acid-base reactions, coordination bonds and the formation of
+  transition-element complexes.
 
 ## Reading the Structure / Reactivity split
 
@@ -113,15 +117,18 @@ from Structure 1. Because Paper 1B and Paper 2 draw on data-based and
 experimental-work questions across the whole syllabus, treat the six
 components as one connected model of matter and its changes, not six
 separate topics to revise in isolation. HL students should track the
-four components that carry named HL-only content or extra hours
-(Structure 2, Structure 3, Reactivity 1.4, Reactivity 3) since these
-are where SL-level revision habits most often under-prepare HL
-candidates.
+extra hours and named HL-only content carried by all six components
+(Structure 1: 17 to 21 hours; Structure 2: 20 to 30 hours; Structure
+3: 16 to 31 hours; Reactivity 1: 12 to 22 hours, including entropy and
+spontaneity; Reactivity 2: 21 to 31 hours; Reactivity 3: 24 to 45
+hours) since these are where SL-level revision habits most often
+under-prepare HL candidates.
 
 Reactivity 3, on reaction mechanisms, is worth extra attention simply on
 teaching-hours grounds -- at 24 hours SL and 45 hours HL it is the
-single largest component in the whole syllabus, nearly double the size
-of the next largest. Because it draws together proton transfer,
+single largest component in the whole syllabus, though not by a wide
+margin: at SL the next largest is Reactivity 2 at 21 hours, and at HL
+Structure 3 and Reactivity 2 are both close behind at 31 hours each. Because it draws together proton transfer,
 electron transfer and two different modes of electron sharing, it also
 tends to be where students who have revised Structure and Reactivity 1-2
 in isolation discover gaps: mechanism questions routinely expect fluent
@@ -134,6 +141,4 @@ cross-referencing the exam itself rewards.
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject
-Brief -- Sciences: Chemistry*, first assessment 2025, published January
-2022.
+International Baccalaureate Organization, *Chemistry guide*, Diploma Programme, first assessment 2025 (published February 2023, updated May 2023) -- copy consulted via a school-hosted mirror, not ibo.org.

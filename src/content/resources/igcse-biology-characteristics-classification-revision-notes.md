@@ -30,7 +30,7 @@ Condensed for the final weeks. For the full explanation, use the
 | **S** | Sensitivity | Detecting and responding to changes in the internal or external environment |
 | **G** | Growth | A **permanent** increase in size and dry mass |
 | **R** | Reproduction | Processes that make more of the same kind of organism |
-| **E** | Excretion | Removal of **toxic materials and waste products of metabolism** |
+| **E** | Excretion | Removal of **the waste products of metabolism and substances in excess of requirements** |
 | **N** | Nutrition | Taking in materials for energy, growth and development |
 
 Two definitions carry the marks and are usually the ones dropped:
@@ -44,9 +44,9 @@ Species: a group of organisms that can reproduce to produce **fertile** offsprin
 
 **Binomial system** — *Genus species*. Genus capitalised, species lower case, both italicised or underlined. It is universal, avoiding the confusion caused by common names varying between languages and regions.
 
-Modern classification uses **DNA base sequences**: the more similar the sequences of two species, the more closely related they are and the more recently they shared a common ancestor. This is more reliable than appearance, and it usually confirms groupings originally based on morphology.
+**(Supplement)** Modern classification uses **DNA base sequences**: the more similar the sequences of two species, the more closely related they are and the more recently they shared a common ancestor. This is more reliable than appearance, and it usually confirms groupings originally based on morphology.
 
-## The five kingdoms
+## The five kingdoms (Supplement)
 
 | Kingdom | Cells | Wall | Nutrition |
 |---|---|---|---|
@@ -54,7 +54,7 @@ Modern classification uses **DNA base sequences**: the more similar the sequence
 | **Plant** | Multicellular, chloroplasts | Cellulose | **Photosynthesis** |
 | **Fungus** | Multicellular (mostly), hyphae | **Chitin** | Saprotrophic — secrete enzymes, absorb |
 | **Prokaryote** | Single, **no nucleus** | Peptidoglycan | Various |
-| **Protoctist** | Single, **has a nucleus** | Sometimes | Various |
+| **Protoctist** | Mostly single, some multicellular; **has a nucleus** | Sometimes | Various |
 
 The distinction between prokaryote and protoctist is the presence of a **nucleus**, not size.
 
@@ -78,12 +78,12 @@ All have a **hard exoskeleton, jointed legs and a segmented body**. They are sep
 |---|---|---|---|
 | **Insect** | **6** | 3 parts (head, thorax, abdomen) | 1 pair |
 | **Arachnid** | **8** | 2 parts | None |
-| **Crustacean** | Many, varied | 2 parts + chalky exoskeleton | **2 pairs** |
+| **Crustacean** | Many, varied | Body parts vary; chalky exoskeleton | **2 pairs** |
 | **Myriapod** | Very many, one or two pairs per segment | Many segments | 1 pair |
 
 **Counting legs answers most classification questions.** Six means insect; eight means arachnid.
 
-## Plant groups
+## Plant groups (Supplement)
 
 **Ferns** — have leaves called fronds, reproduce by **spores**, no flowers or seeds.
 **Flowering plants** — reproduce by **seeds** produced in flowers.
@@ -110,8 +110,8 @@ When constructing one: use **observable, contrasting** features only, phrase eac
 
 1. Give MRS GREN in full, with the definitions of growth and excretion.
 2. What is the difference between excretion and egestion?
-3. Name the five kingdoms and the key feature of each.
+3. **(Supplement)** Name the five kingdoms and the key feature of each.
 4. How do you tell an insect from an arachnid?
-5. Give two differences between monocotyledons and dicotyledons.
+5. **(Supplement)** Give two differences between monocotyledons and dicotyledons.
 
-**Answers:** 1. Movement, respiration, sensitivity, growth, reproduction, excretion, nutrition; growth is a permanent increase in size and dry mass; excretion is the removal of toxic materials and waste products of metabolism. 2. Excretion removes waste produced by the body's own chemical reactions; egestion removes undigested food that was never absorbed. 3. Animal (multicellular, ingests food), Plant (chloroplasts, cellulose wall, photosynthesis), Fungus (chitin wall, saprotrophic), Prokaryote (no nucleus), Protoctist (single-celled with a nucleus). 4. Insects have six legs and three body parts; arachnids have eight legs and two body parts and no antennae. 5. One cotyledon versus two; parallel versus branching leaf veins (also flower parts in threes versus fours or fives).
+**Answers:** 1. Movement, respiration, sensitivity, growth, reproduction, excretion, nutrition; growth is a permanent increase in size and dry mass; excretion is the removal of the waste products of metabolism and substances in excess of requirements. 2. Excretion removes waste produced by the body's own chemical reactions; egestion removes undigested food that was never absorbed. 3. Animal (multicellular, ingests food), Plant (chloroplasts, cellulose wall, photosynthesis), Fungus (chitin wall, saprotrophic), Prokaryote (no nucleus), Protoctist (has a nucleus, mostly single-celled). 4. Insects have six legs and three body parts; arachnids have eight legs and two body parts and no antennae. 5. One cotyledon versus two; parallel versus branching leaf veins (also flower parts in threes versus fours or fives).

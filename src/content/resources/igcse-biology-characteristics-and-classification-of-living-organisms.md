@@ -67,12 +67,12 @@ of viruses (a protein coat and genetic material)
 | Letter | Characteristic | What it means |
 |---|---|---|
 | M | Movement | An action changing the position of an organism or part of it |
-| R | Respiration | The chemical reactions that release energy from food |
-| S | Sensitivity | Detecting and responding to changes in the environment |
+| R | Respiration | The chemical reactions in cells that break down nutrient molecules and release energy for metabolism |
+| S | Sensitivity | The ability to detect and respond to changes in the internal or external environment |
 | G | Growth | A permanent increase in size and dry mass |
 | R | Reproduction | Producing new individuals of the same species |
-| E | Excretion | Removing the waste products of metabolism from the body |
-| N | Nutrition | Taking in and using materials for energy, growth and repair |
+| E | Excretion | The removal of the waste products of metabolism and substances in excess of requirements |
+| N | Nutrition | The taking in of materials for energy, growth and development |
 
 Two distinctions examiners specifically test: **respiration is not
 breathing** — respiration is the chemical release of energy inside
@@ -90,12 +90,18 @@ user step by step to a name:
 
 ```
 1.  Has a backbone .......................... go to 2
-    No backbone ............................. INSECT
+    No backbone ............................. INVERTEBRATE
 
 2.  Has feathers ............................. BIRD
     No feathers .............................. go to 3
 
-3.  Has scaly, dry skin ...................... REPTILE
+3.  Has fur or hair .......................... MAMMAL
+    No fur or hair ............................ go to 4
+
+4.  Has gills and lives in water ............. FISH
+    No gills .................................. go to 5
+
+5.  Has scaly, dry skin ...................... REPTILE
     Has moist skin ............................ AMPHIBIAN
 ```
 
@@ -114,11 +120,11 @@ key impossible to use consistently between different people.
 | Prokaryote | No nucleus; genetic material free in the cytoplasm (e.g. bacteria) |
 | Protoctist | Mostly single-celled; not clearly animal, plant or fungus |
 
-Viruses are **not** placed in any of the five kingdoms: they consist
-only of a protein coat and genetic material, and cannot reproduce
-independently of a host cell — a point examiners use to test whether
-candidates understand *why* the five-kingdom system excludes them,
-rather than simply listing viruses as a sixth kingdom.
+Viruses are **not** placed in any of the five kingdoms. The syllabus
+requires you to state that a virus consists only of a protein coat and
+genetic material — that is the examinable content, with the reasoning
+for why this excludes them from the five kingdoms as useful background
+rather than a required outcome in its own right.
 
 ## How to approach it
 

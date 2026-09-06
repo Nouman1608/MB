@@ -69,7 +69,7 @@ Related: [Estimation of Physical Quantities study guide](/resources/aqa-alevel-p
 
 **8.** A reasonable estimate for a car's mass is ≈ 10³ kg, and a reasonable motorway speed is ≈ 30 m s⁻¹ (order 10¹ m s⁻¹) [1] [1]. Kinetic energy = ½mv² has an order of magnitude of ≈ 10³ × (10¹)² = 10⁵ J [1]. The student's answer of 4.5 × 10¹² J is about **seven orders of magnitude too large** to be a plausible car's kinetic energy, so it must contain an error [1] — exactly the kind of sanity check order-of-magnitude reasoning is used for.
 
-**9.** The correct calculation is area ÷ area-per-spectator = (50 × 50) ÷ 0.5 = 2500 ÷ 0.5 = **5000**, order of magnitude **10³** [1] [1]. The student's answer of 5 × 10² is **one order of magnitude too small** — most likely from a slip of a factor of ten somewhere in the arithmetic [1]. A more realistic estimate is therefore of order **10³ spectators** [1].
+**9.** The correct calculation is area ÷ area-per-spectator = (50 × 50) ÷ 0.5 = 2500 ÷ 0.5 = **5000**, order of magnitude **10³** [1] [1]. The student's answer of 5 × 10² is **one order of magnitude too small** — most likely from a slip of a factor of ten somewhere in the arithmetic [1]. A more realistic estimate is therefore of order **10³ spectators**.
 
 ---
 

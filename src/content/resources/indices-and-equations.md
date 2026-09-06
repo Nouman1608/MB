@@ -43,7 +43,7 @@ manipulation. This page follows on from
 - Understand and use indices — positive, zero, negative and fractional
 (2.4)
 - Understand and use the rules of indices, including solving equations
-such as 3^(2x) = 2 or 5^(x+1) = 25^x, and simplifying expressions with
+such as 32^x = 2 or 5^(x+1) = 25^x, and simplifying expressions with
 fractional and negative indices (2.4)
 - Construct expressions, equations and formulas (2.5)
 - Solve linear equations in one unknown (2.5)
@@ -77,12 +77,21 @@ x³ × x⁻¹ = x²
 x² ÷ x^(1/2) = x^(2 − 1/2) = x^(3/2)
 ```
 
-**Worked example.** Solve 3^(2x) = 2.
+**Worked example.** Solve 32^x = 2.
 
-This kind of equation is solved by recognising both sides can be written
-with matching structure, or — where the syllabus allows — by testing that
-the index rules reduce the equation to a solvable linear form. For
-equations of the type 5^(x+1) = 25^x, rewrite 25 as 5² first:
+Rewrite both sides so they share the same base. Since 32 = 2⁵:
+
+```
+32^x = 2
+(2⁵)^x = 2¹
+2^(5x) = 2¹
+so 5x = 1
+x = 1/5
+```
+
+**Worked example.** Solve 5^(x+1) = 25^x.
+
+Rewrite 25 as 5² first, so both sides share base 5:
 
 ```
 5^(x+1) = (5²)^x = 5^(2x)
@@ -159,6 +168,10 @@ y + 2 = √(x + 3)
 (y + 2)² = x + 3
 x = (y + 2)² − 3
 ```
+
+This rearrangement is only valid when y + 2 ≥ 0, since a square root
+cannot itself be negative -- squaring both sides is a step that must be
+checked for reversibility whenever it is used.
 
 ## Common mistakes
 

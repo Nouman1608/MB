@@ -39,12 +39,13 @@ All other units are **derived**: N = kg m s⁻², J = kg m² s⁻², W = kg m² 
 
 **Prefixes:** T 10¹², G 10⁹, M 10⁶, k 10³, c 10⁻², m 10⁻³, μ 10⁻⁶, n 10⁻⁹, p 10⁻¹².
 
-## Accuracy, precision, repeatability, reproducibility
+## Accuracy, precision, resolution, repeatability, reproducibility
 
 | Term | Meaning |
 |---|---|
 | **Accurate** | Close to the **true value** |
 | **Precise** | Repeat readings close **to each other** |
+| **Resolution** | The smallest change in a quantity an instrument can detect |
 | **Repeatable** | Same result on repeating with the same method and equipment |
 | **Reproducible** | Same result with a **different** method or by a different person |
 
@@ -56,13 +57,15 @@ All other units are **derived**: N = kg m s⁻², J = kg m² s⁻², W = kg m² 
 
 **Systematic error** — every reading is offset in the same direction by the same amount or proportion. **Repeating does not help**; the instrument must be recalibrated or zeroed. A **zero error** is the specific case where the instrument does not read zero when it should.
 
-**How to spot a systematic error on a graph:** the line has the correct gradient but an **unexpected intercept**. A line that should pass through the origin but does not is the classic signature.
+**How to spot a systematic error on a graph:** an **additive** systematic error (e.g. a zero error) gives the correct gradient but an **unexpected intercept** — a line that should pass through the origin but does not is the classic signature. A **proportional** (calibration) systematic error instead changes the **gradient**, while the intercept stays at the origin.
 
 ## Uncertainty
 
 ```
-uncertainty of a single reading  =  half the smallest scale division
-percentage uncertainty = (uncertainty / value) x 100
+uncertainty of a single reading (analogue scale)  =  half the smallest scale division
+uncertainty of a single reading (digital display)  =  ± the resolution (1 unit of the last digit)
+fractional uncertainty = uncertainty / value
+percentage uncertainty = (uncertainty / value) x 100 = fractional uncertainty x 100
 ```
 
 For a measurement requiring **two readings** — a length between two marks, a temperature change, a burette volume — the uncertainty **doubles**, because each reading carries its own.
@@ -102,6 +105,7 @@ The final answer is rounded to match the precision implied by the uncertainty �
 
 ```
 uncertainty in gradient = (max gradient - min gradient) / 2
+uncertainty in intercept = (max intercept - min intercept) / 2
 ```
 
 Where error bars for two data sets **overlap**, the difference between them may not be significant.
@@ -124,6 +128,6 @@ Where error bars for two data sets **overlap**, the difference between them may 
 2. Which type of error does averaging reduce, and which does it not?
 3. How do you combine uncertainties when multiplying two quantities?
 4. A radius is known to 3%. What is the uncertainty in a volume proportional to r³?
-5. How is the uncertainty in a gradient found from a graph?
+5. How is the uncertainty in a gradient and in an intercept found from a graph?
 
-**Answers:** 1. Accuracy is closeness to the true value; precision is how closely repeated readings agree. A balance with a zero error gives tightly grouped readings that are all wrong by the same amount. 2. Averaging reduces random error; it does not reduce systematic error, which requires recalibration. 3. Add the percentage uncertainties. 4. 9% — the percentage uncertainty is multiplied by the power. 5. Draw the steepest and shallowest lines that still pass through all the error bars, then take half the difference between their gradients.
+**Answers:** 1. Accuracy is closeness to the true value; precision is how closely repeated readings agree. A balance with a zero error gives tightly grouped readings that are all wrong by the same amount. 2. Averaging reduces random error; it does not reduce systematic error, which requires recalibration. 3. Add the percentage uncertainties. 4. 9% — the percentage uncertainty is multiplied by the power. 5. Draw the steepest and shallowest lines that still pass through all the error bars, then take half the difference between their gradients for the gradient uncertainty, and half the difference between their intercepts for the intercept uncertainty.

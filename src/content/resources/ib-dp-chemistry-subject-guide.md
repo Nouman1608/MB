@@ -56,10 +56,15 @@ aims to enable students to:
 DP Chemistry follows the same overall assessment model as the other DP
 sciences, combining external examination with an individual internal
 assessment, at both Standard Level and Higher Level. Paper 1 is
-weighted at 36% of the final grade and is built from short-answer and
-data-based questions spanning the syllabus; Paper 2 is weighted at
-44% and requires short-answer and extended-response answers that draw
-together structure and reactivity concepts across topics. Between
+weighted at 36% of the final grade and includes multiple-choice
+questions alongside short-answer and data-based questions spanning the
+syllabus; Paper 2 is weighted at 44% and includes multiple-choice
+questions alongside short-answer and extended-response answers that
+draw together structure and reactivity concepts across topics. (This
+guide's own extraction stops before the assessment outline pages, so
+the exact split of question types within each paper has not been
+verified directly against the guide -- check the current subject
+guide's assessment section for the definitive breakdown.) Between
 them, the two papers account for 80% of the final mark, with SL and
 HL differing in exam length and mark totals rather than in this
 weighting split.
@@ -119,19 +124,20 @@ within Reactivity.
 
 ## HL-only content across the syllabus
 
-HL students study additional content within four of the six syllabus
-components -- Structure 2, Structure 3, Reactivity 1 (specifically
-entropy and spontaneity), and Reactivity 3 -- rather than a uniform
-extra layer spread evenly across all six. These are the points where
-SL-level revision habits most often under-prepare HL candidates, since
-it is easy to assume the whole syllabus scales up proportionally when
-in practice the additional depth concentrates in particular
-components. Confirming exactly which sub-topics within each of these
-four components count as HL-only is worth doing early in the course
-rather than discovering the gap only once exam preparation is already
-under way.
+HL students study additional content within all six syllabus
+components, though the extra depth is not spread evenly: Structure 1
+gains 4 hours (17 to 21), Structure 2 gains 10 hours (20 to 30),
+Structure 3 gains 15 hours (16 to 31), Reactivity 1 gains 10 hours (12
+to 22, split evenly between energy cycles and entropy and
+spontaneity), Reactivity 2 gains 10 hours (21 to 31), and Reactivity 3
+gains 21 hours (24 to 45). These are the points where SL-level
+revision habits most often under-prepare HL candidates, since it is
+easy to assume the additional depth concentrates in only a few
+components when in practice every component carries some HL-only
+material. Confirming exactly which sub-topics within each component
+count as HL-only is worth doing early in the course rather than
+discovering the gap only once exam preparation is already under way.
 
 ## Source
 
-International Baccalaureate Organization, Chemistry subject brief
-(Diploma Programme), January 2022.
+International Baccalaureate Organization, *Chemistry guide*, Diploma Programme, first assessment 2025 (published February 2023, updated May 2023) -- copy consulted via a school-hosted mirror, not ibo.org.

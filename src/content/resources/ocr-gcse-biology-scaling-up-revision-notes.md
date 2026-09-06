@@ -54,7 +54,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Red blood cells:** biconcave shape (large SA), no nucleus (more space for haemoglobin). **Plasma:** transports dissolved substances (glucose, urea, hormones, CO₂).
 
-**The capillary misconception:** blood does NOT flow slowly because capillaries are narrow — it's because the **total cross-sectional area** of all capillaries in a tissue is far greater than the aorta's, so total flow slows even though individual capillaries are narrow. This slow flow is what **allows time for diffusion** — the "problem" is actually the adaptation.
+**The capillary misconception:** blood does NOT flow slowly because capillaries are narrow — it's because the **total cross-sectional area** of all capillaries in a tissue is far greater than the aorta's, so the blood moves more slowly (in speed) through them, even though the total volume flowing through per second is unchanged and individual capillaries are narrow. This slow flow is what **allows time for diffusion** — the "problem" is actually the adaptation.
 
 ## Plant transport
 

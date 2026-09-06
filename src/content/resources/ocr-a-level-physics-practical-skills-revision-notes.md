@@ -40,7 +40,7 @@ Choose instruments with **resolution appropriate to the quantity** — a microme
 
 **Precise but not accurate** is the case examiners test: a miscalibrated instrument gives tightly grouped readings that are all consistently wrong.
 
-**More repeats improve reliability and reveal anomalies — they do not improve accuracy.** Accuracy needs better-calibrated or more sensitive apparatus.
+**More repeats improve reliability, reveal anomalies, and improve the accuracy of the mean by reducing the effect of random error — but they do nothing for a systematic error.** Removing a systematic error needs better-calibrated or more sensitive apparatus.
 
 ## Errors
 
@@ -48,7 +48,7 @@ Choose instruments with **resolution appropriate to the quantity** — a microme
 **Systematic** — a consistent offset; **repeating does not help**, only recalibration or zeroing.
 **Zero error** — the instrument does not read zero when it should.
 
-**A systematic error appears on a graph as the correct gradient with an unexpected intercept.** A line that should pass through the origin but doesn't is the giveaway.
+**An additive systematic error** (e.g. a zero error) appears on a graph as the correct gradient with an **unexpected intercept** — a line that should pass through the origin but doesn't is the giveaway. **A proportional (calibration) systematic error** instead changes the **gradient**, leaving the intercept at the origin.
 
 ## Uncertainty
 
@@ -99,7 +99,7 @@ Plotting **T² against l** gives a straight line through the origin with gradien
 Generic answers score nothing. Name a **specific** change **and its reason**:
 
 - Use a **micrometer** rather than a ruler, because the smaller scale division reduces percentage uncertainty.
-- Use **light gates** rather than a stopwatch, to eliminate human reaction time — a systematic error.
+- Use **light gates** rather than a stopwatch, to eliminate the uncertainty from human reaction time.
 - Repeat and average, to reduce **random** error.
 - Measure a larger quantity, to reduce **percentage** uncertainty.
 - Use a **fiducial marker** at the equilibrium position, because that is where the object moves fastest and timing is most consistent.
@@ -138,4 +138,4 @@ Total = 0.63% + 2.24% = 2.87%
 6. For a simple pendulum, what should be plotted to find g from a straight-line graph, and what does the gradient represent?
 7. A pendulum's length is known to 0.63% and its period to 1.12%. Which measurement limits the accuracy of g, and what single change would best reduce it?
 
-**Answers:** 1. Accuracy is closeness to the true value, precision is agreement between repeats; a balance with a zero error gives precise but inaccurate readings. 2. Averaging reduces random error but not systematic error, which requires recalibration. 3. 6% — the percentage uncertainty is multiplied by the power. 4. Draw the steepest and shallowest lines that pass through all error bars and take half the difference between their gradients. 5. They eliminate human reaction time, which is a systematic error that repeating and averaging cannot remove. 6. Plot T² against l; the gradient equals 4π²/g, so g = 4π² divided by the gradient. 7. The period, since it is squared in the relationship for g, doubling its percentage contribution to 2.24% against length's 0.63%; timing many oscillations and dividing by the number of oscillations would reduce this far more effectively than a more precise length measurement.
+**Answers:** 1. Accuracy is closeness to the true value, precision is agreement between repeats; a balance with a zero error gives precise but inaccurate readings. 2. Averaging reduces random error but not systematic error, which requires recalibration. 3. 6% — the percentage uncertainty is multiplied by the power. 4. Draw the steepest and shallowest lines that pass through all error bars and take half the difference between their gradients. 5. They eliminate the uncertainty from human reaction time, which a stopwatch cannot avoid. 6. Plot T² against l; the gradient equals 4π²/g, so g = 4π² divided by the gradient. 7. The period, since it is squared in the relationship for g, doubling its percentage contribution to 2.24% against length's 0.63%; timing many oscillations and dividing by the number of oscillations would reduce this far more effectively than a more precise length measurement.

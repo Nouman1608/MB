@@ -25,10 +25,12 @@ simple reacting-mass calculations. Module 2.1.3 keeps that foundation but
 extends it substantially: gas volumes and the ideal gas equation, formulae
 determined from experimental data, hydrated salts, and the two calculations
 used throughout the rest of the course to judge how "efficient" a reaction
-is — percentage yield and atom economy. Everything here is assessed
-throughout OCR's Component 01 (Periodic table, elements and physical
-chemistry) and reappears constantly in later modules, so it's worth being
-completely fluent in before moving on.
+is — percentage yield and atom economy. Module 2 is assessed directly in
+**all three** written components: Component 01 (Periodic table, elements
+and physical chemistry -- Modules 1, 2, 3 and 5), Component 02 (Synthesis
+and analytical techniques -- Modules 1, 2, 4 and 6), and Component 03
+(Unified chemistry -- all six modules). It also reappears constantly in
+later modules, so it's worth being completely fluent in before moving on.
 
 ## Syllabus coverage
 
@@ -41,8 +43,10 @@ anhydrous, hydrated and water of crystallisation, and calculating the
 formula of a hydrated salt; calculations using amount of substance in mol
 involving mass, gas volume, and solution volume and concentration; the ideal
 gas equation pV = nRT; the use of stoichiometric relationships in
-calculations; and calculating percentage yield and atom economy, including
-the sustainability benefits of a high atom economy.
+calculations; calculating percentage yield and atom economy, including
+the sustainability benefits of a high atom economy; and the techniques and
+procedures required during experiments requiring the measurement of mass,
+volumes of solutions and gas volumes (Practical Activity Group PAG1).
 
 ## The mole and the Avogadro constant
 
@@ -140,6 +144,19 @@ A reaction can have 100% yield of a product but poor atom economy if most of
 the reactant mass ends up in a wasted by-product — which is why the
 specification links high atom economy to the sustainability of chemical
 processes: less waste to dispose of, and less reactant needed overall.
+
+## Practical techniques for these calculations (PAG1)
+
+Every calculation in this sub-topic depends on measurements made with a
+specific technique: **mass** is measured by difference (weighing a
+container before and after adding or removing a substance, or before and
+after heating, to find the change), **volumes of solutions** are measured
+using a volumetric flask (to make up a solution of known concentration) or
+a burette/pipette (to measure out or transfer a precise volume), and **gas
+volumes** are measured using a gas syringe or by displacement of water,
+reading the scale at eye level to avoid parallax error. These techniques
+and procedures are examined directly, not just the calculations that follow
+from them.
 
 ## Common mistakes
 

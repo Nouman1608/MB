@@ -20,10 +20,10 @@ featured: false
 
 This guide covers subtopic **C1.2, Atomic structure**, from Topic C1, Particles,
 of OCR GCSE (9–1) Chemistry A (Gateway Science) J248. It applies to both
-Foundation Tier (Papers 1 and 2) and Higher Tier (Papers 3 and 4) — some
-individual statements within this subtopic are assessed only at Higher Tier;
-check with your teacher or the current specification for the exact split if
-you need to know which.
+Foundation Tier (Papers 1 and 2) and Higher Tier (Papers 3 and 4). Some
+content within this subtopic is restricted to candidates taking the separate
+sciences rather than Combined Science; check with your teacher or the current
+specification if you need to know exactly which statements that affects.
 
 ## Before studying this
 

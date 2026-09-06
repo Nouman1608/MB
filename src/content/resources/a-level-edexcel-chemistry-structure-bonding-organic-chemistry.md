@@ -61,8 +61,8 @@ recurring assessment pattern in Edexcel Chemistry. The unit explicitly
 introduces mechanistic thinking in organic chemistry through alkenes,
 so practise using curly arrows to represent electron movement early,
 since this notation is assumed and built on throughout the rest of the
-qualification. Since at least 15% of the overall assessment tests
-practical work, treat the unit's core practical on molar volume as
+qualification. Since the two dedicated practical-skills units carry 20% of the overall
+International A Level between them, treat the unit's core practical on molar volume as
 exam-relevant material, not just a classroom exercise -- know the
 method, sources of error and how results are used to calculate
 quantities.
@@ -93,6 +93,8 @@ Electronegativity is the ability of an atom to attract the electron pair in a co
 A molecule with polar bonds is only polar overall if the dipoles do not cancel. Tetrachloromethane has four polar C–Cl bonds but is non-polar because its symmetry cancels them; water is polar because its bent shape does not.
 
 ## Intermolecular forces
+
+*(Intermolecular forces are Unit 2, topic 7 content in this specification -- Unit 1's own outcome on this subject stops at distinguishing polar bonds from polar molecules, covered separately below. The detail is included here because it is needed to make sense of properties like the density of ice, but it is examined in Unit 2, not Unit 1.)*
 
 In increasing strength: London forces (present in all molecules, stronger with more electrons), permanent dipole–dipole, and hydrogen bonding. Hydrogen bonding requires hydrogen bonded directly to N, O or F, plus a lone pair on the electronegative atom of the neighbouring molecule.
 

@@ -60,7 +60,7 @@ together. Electron configuration (3.1.1.3) is tested with a specific
 notation (1s², 2s², 2p⁶ and so on) that needs practising until it is
 automatic, since errors here compound into later topics on bonding and
 periodicity. Because this topic carries mathematical skills weighting
-(AQA specifies at least 20% of the overall A-level assesses
+(AQA specifies that 20% of the overall A-level assesses
 mathematical skills), practising calculation-based questions on
 isotopic abundance and relative atomic mass is time well spent even
 within this conceptually-focused opening topic.
@@ -81,7 +81,7 @@ Chromium and copper are the standard exceptions: chromium is 1s2 2s2 2p6 3s2 3p6
 
 ## Ionisation energy
 
-The **first ionisation energy** is the energy needed to remove one mole of electrons from one mole of gaseous atoms:
+The **first ionisation energy** is the energy needed to remove one mole of electrons from one mole of gaseous atoms, to form one mole of gaseous 1+ ions:
 
 ```
 X(g) -> X+(g) + e-

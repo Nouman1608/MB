@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "topic-c2-elements-compounds-mixtures-j248"
     subtopic: "c2-1-purity-separating-mixtures-j248"
-description: "Condensed recall notes on purity, melting point, relative formula mass, empirical formula and the four separation techniques for OCR GCSE (9-1) Chemistry A Gateway Science (J248), C2.1."
+description: "Condensed recall notes on purity, melting point, relative formula mass, empirical formula and the five separation techniques for OCR GCSE (9-1) Chemistry A Gateway Science (J248), C2.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -24,7 +24,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Purity — the chemical definition
 
-A **pure substance** is a **single chemical substance** — not the everyday sense (e.g. "pure" fruit juice is NOT chemically pure, it's a mixture). **Melting point evidences purity:** a genuinely pure substance melts/boils at a **single, sharp** temperature; impurities **widen and lower** this range.
+A **pure substance** is a **single chemical substance** — not the everyday sense (e.g. "pure" fruit juice is NOT chemically pure, it's a mixture). **Melting point evidences purity:** a genuinely pure substance melts/boils at a **single, sharp** temperature; impurities **widen and lower** the melting point range.
 
 ## Relative formula mass (Mr)
 
@@ -54,7 +54,9 @@ Empirical formula: CH3
 
 **Work systematically: moles first, THEN simplify to whole-number ratio** — comparing raw masses directly, without converting to moles, is the most common error.
 
-## The four separation techniques — a decision framework
+## The five separation techniques — a decision framework
+
+(The specification names filtration, crystallisation, distillation and chromatography as four separate outcomes, and treats distillation's simple and fractional forms separately across those outcomes -- so the table below lists five named techniques in total.)
 
 | Technique | Separates | Use when |
 |---|---|---|

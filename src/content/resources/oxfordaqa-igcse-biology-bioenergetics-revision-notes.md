@@ -58,13 +58,13 @@ Conclusion:  temperature is limiting; heating the greenhouse would be
 
 ## Circulation and blood (3.2.3)
 
-The heart is a **double circulatory system** with **four chambers**. **Arteries** carry blood away from the heart (thick, muscular, elastic walls to withstand high pressure); **veins** carry blood back to the heart (thinner walls, valves to prevent backflow at low pressure); **capillaries** are the site of exchange (one cell thick, large total surface area). Blood consists of **plasma** (transports dissolved substances), **red blood cells** (carry oxygen via haemoglobin), **white blood cells** (defence) and **platelets** (clotting).
+The heart is an **organ** that pumps blood around the body in a **double circulatory system**, and it has **four chambers**. **Arteries** carry blood away from the heart (thick, muscular, elastic walls to withstand high pressure); **veins** carry blood back to the heart (thinner walls, valves to prevent backflow at low pressure); **capillaries** are the site of exchange (one cell thick, large total surface area). Blood consists of **plasma** (transports dissolved substances), **red blood cells** (carry oxygen via haemoglobin), **white blood cells** (defence) and **platelets** (clotting).
 
-Higher-tier-only (marked B) content in this sub-topic includes the pacemaker and artificial pacemakers, coronary heart disease and stents, faulty heart valves and their replacement, artificial hearts, and blood groups/transplant rejection. Core-tier candidates should prioritise the structure and function of the heart, blood vessels and blood components over these medical-intervention details.
+Content marked B in this sub-topic includes the pacemaker and artificial pacemakers, coronary heart disease and stents, faulty heart valves and their replacement, artificial hearts, and blood groups/transplant rejection. The B marker means this content is examined in Biology only and is not shared with the co-teachable Combined Science qualification -- the specification is linear and untiered, so it remains compulsory alongside the structure and function of the heart, blood vessels and blood components.
 
 ## Breathing mechanics (3.2.5)
 
-Breathing in and out is driven by the **intercostal muscles** and **diaphragm** changing the volume (and therefore pressure) of the chest cavity. **Alveoli** are adapted for efficient gas exchange through a **large surface area** and **rich blood supply**, alongside a thin exchange surface and moist lining. Mechanical ventilation for patients whose spontaneous breathing has stopped is Higher-tier-only content.
+Breathing in and out is driven by the **intercostal muscles** and **diaphragm** changing the volume (and therefore pressure) of the chest cavity. **Alveoli** are adapted for efficient gas exchange through a **large surface area** and **rich blood supply**, alongside a thin exchange surface and moist lining. Mechanical ventilation for patients whose spontaneous breathing has stopped is marked B (biology-only), but remains compulsory content.
 
 ## Worked example: tracing oxygen through the energy chain
 
@@ -86,14 +86,14 @@ This three-step chain -- breathing supplies, circulation transports, respiration
 
 ## Key terms
 
-**Photosynthesis** — the process converting CO2 and water into glucose and oxygen using light energy, in chlorophyll-containing cells. **Respiration** — the process releasing energy from glucose and oxygen, producing CO2 and water, in every living cell. **Translocation** — movement of dissolved sugars through phloem. **Transpiration** — movement of water through xylem, from roots to leaves. **Enzyme** — a biological catalyst whose activity is affected by temperature and pH.
+**Photosynthesis** — the process converting CO2 and water into glucose and oxygen using light energy, in chlorophyll-containing cells. **Respiration** — the process releasing energy from glucose and oxygen, producing CO2 and water, in every living cell. **Translocation** — movement of dissolved sugars through phloem. **Transpiration** — loss of water vapour from a plant's leaves, mostly through the stomata; the resulting movement of water from the roots through the xylem and out of the leaves is called the **transpiration stream**. **Enzyme** — a biological catalyst whose activity is affected by temperature and pH.
 
 ## Common mistakes
 
 - Writing the respiration equation when asked about photosynthesis, or vice versa.
 - Describing xylem/phloem without stating direction of flow.
 - Naming an enzyme without stating what it breaks down.
-- Including Higher-tier-only content (heart pacemakers, stents, valve replacement, ventilators — all marked B) at the expense of core content when revising for Core tier.
+- Treating B-marked content (heart pacemakers, stents, valve replacement, ventilators) as optional -- it is compulsory for every candidate, since the qualification is linear and untiered.
 
 ## Quick self-test
 

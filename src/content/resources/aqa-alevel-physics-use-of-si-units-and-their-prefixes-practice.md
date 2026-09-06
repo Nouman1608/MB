@@ -31,7 +31,7 @@ Related: [Use of SI Units and Their Prefixes study guide](/resources/aqa-alevel-
 
 **1.** State the six fundamental (base) quantities named in the specification, with their SI units. **[6]**
 
-**2.** State which quantity in the specification's list of fundamental quantities is deliberately excluded from candidates' required knowledge. **[1]**
+**2.** State which SI base quantity is deliberately excluded from this specification's list of fundamental quantities. **[1]**
 
 ## Section B
 
@@ -61,7 +61,7 @@ Related: [Use of SI Units and Their Prefixes study guide](/resources/aqa-alevel-
 
 **2.** **Luminous intensity (the candela)** is excluded from the specification [1].
 
-**3.** A **base unit** is one of the seven fundamental units the SI system is built from and is not defined in terms of any other unit, e.g. the **kilogram** [1] [1]. A **derived unit** is built by combining base units according to the physical relationship that defines the quantity, e.g. the **newton**, derived from mass × acceleration [1].
+**3.** A **base unit** is one of the seven fundamental units SI is built from (this specification examines six, excluding luminous intensity) and is not defined in terms of any other unit, e.g. the **kilogram** [1] [1]. A **derived unit** is built by combining base units according to the physical relationship that defines the quantity, e.g. the **newton**, derived from mass × acceleration [1].
 
 **4.** Force = mass × acceleration [1]. Acceleration has units m s⁻², so force has units kg × m s⁻² = **kg m s⁻²** [1], which is exactly what one newton means in base units.
 

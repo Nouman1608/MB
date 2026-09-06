@@ -58,7 +58,7 @@ Related: [Practical Skills revision notes](/resources/ocr-a-level-physics-practi
 
 **7.** A pendulum of length 0.800 m ± 0.005 m gives a period of 1.79 s ± 0.02 s, used to find g via T = 2π√(l/g).
 
-**(a)** Calculate the percentage uncertainty in l. **[1]**
+**(a)** Calculate the percentage uncertainty in l. **[2]**
 **(b)** Calculate the percentage uncertainty in T, and hence in T² (the quantity g depends on). **[2]**
 **(c)** State which measurement limits the accuracy of g, and suggest the most effective way to reduce its uncertainty. **[2]**
 
@@ -84,7 +84,7 @@ Related: [Practical Skills revision notes](/resources/ocr-a-level-physics-practi
 **(c)** **±0.005 mm** — half the smallest division [1].
 **(d)** (0.005 ÷ 0.4225) × 100 [1] = **1.18%** [1].
 
-**6. (a)** They **eliminate human reaction time** [1], which is a systematic error that repeating and averaging cannot remove [1].
+**6. (a)** They **eliminate human reaction time** [1], which is primarily a random error but affects manual timing on every reading [1].
 **(b)** The wire may **not be uniform** along its length [1], so a mean gives a more representative value and reduces random error [1].
 **(c)** The object moves **fastest at the equilibrium position** [1], so timing there is most consistent and the uncertainty in identifying the moment is smallest [1].
 

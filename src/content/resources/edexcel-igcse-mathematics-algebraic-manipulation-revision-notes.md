@@ -102,7 +102,7 @@ Practising this decision -- try factorising first, and switch to completing the 
 
 ## Where this content leads
 
-Sub-topics 2.1 and 2.2 are the toolkit every later sub-topic in Topic 2 (Equations, Formulae and Identities) depends on: solving equations (2.3) uses factorising and completing the square directly to solve quadratics; functions and graphs (2.4-2.5) require confident algebraic manipulation to find intercepts, turning points and asymptotes. Treat fluency here as a prerequisite to secure before moving on, not content to revise once in isolation.
+Sub-topics 2.1 and 2.2 are the toolkit every later sub-topic in Topic 2 (Equations, Formulae and Identities) depends on: solving quadratic equations by factorisation, the quadratic formula and completing the square (2.7) uses factorising and completing the square directly; functions and graphs, in Topic 3 (Sequences, Functions and Graphs), require confident algebraic manipulation to find intercepts, turning points and asymptotes. Treat fluency here as a prerequisite to secure before moving on, not content to revise once in isolation.
 
 ## Key terms
 
@@ -121,11 +121,19 @@ A typical exam task: "Prove that the sum of any two consecutive odd numbers is a
 
 ## Quick self-test
 
-- Simplify x⁻³, x⁰, and x^(1/2) in words.
-- Expand (x + 1)(x + 2)(x − 3).
-- Write 3x² − 12x + 5 in completed-square form.
-- Simplify (2x² + 3x)/(4x² − 9).
-- Express (x+1)/(x−1) + (x−2)/(x+1) as a single fraction.
+1. Simplify x⁻³, x⁰, and x^(1/2) in words.
+2. Expand (x + 1)(x + 2)(x − 3).
+3. Write 3x² − 12x + 5 in completed-square form.
+4. Simplify (2x² + 3x)/(4x² − 9).
+5. Express (x+1)/(x−1) + (x−2)/(x+1) as a single fraction.
+
+**Answers:**
+
+1. x⁻³ is the **reciprocal of x cubed**, 1/x³; x⁰ is **1** for any non-zero x; x^(1/2) is the **square root of x**, √x.
+2. (x + 1)(x + 2)(x − 3) = (x² + 3x + 2)(x − 3) = **x³ − 7x − 6**.
+3. 3x² − 12x + 5 = 3(x² − 4x) + 5 = 3[(x − 2)² − 4] + 5 = **3(x − 2)² − 7**.
+4. (2x² + 3x)/(4x² − 9) = x(2x + 3) / [(2x − 3)(2x + 3)] = **x/(2x − 3)**.
+5. (x+1)/(x−1) + (x−2)/(x+1) = [(x+1)² + (x−2)(x−1)] / [(x−1)(x+1)] = (x² + 2x + 1 + x² − 3x + 2) / (x² − 1) = **(2x² − x + 3)/(x² − 1)**.
 
 Higher-tier candidates should expect 2.2A–2.2E assessed **both in isolation and combined** within a single longer question — practising them together is genuinely representative of exam demand.
 

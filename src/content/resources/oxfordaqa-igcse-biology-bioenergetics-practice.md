@@ -119,4 +119,4 @@ to answer synoptic questions that expect a candidate to compare or link the two 
 - Writing the respiration equation when a question asks about photosynthesis, or vice versa — always check which gas is being taken in before answering.
 - Naming an enzyme without stating what substance it breaks down.
 - Describing xylem or phloem without specifying the direction of transport.
-- Including Higher-tier-only content (e.g. pacemakers, stents, artificial hearts) in a Core-tier answer where it is not required, at the expense of time on compulsory content.
+- Treating B-marked content (e.g. pacemakers, stents, artificial hearts) as optional -- the qualification is linear and untiered, so it is compulsory for every candidate.

@@ -82,9 +82,11 @@ Where the line crosses the axis, the object is **momentarily at rest**, then mov
 
 ## Conversion graphs
 
-A straight line through the origin converting between two units (currency, °C/°F, miles/km). Read across and down; state the units in your answer.
+A straight line converting between two units (currency, miles/km, °C/°F). Read across and down; state the units in your answer.
 
-Because the relationship is proportional, the **gradient is the conversion factor**.
+The line passes through the origin **only when the two quantities are directly proportional** — miles and kilometres, for instance, since 0 miles is 0 kilometres. Celsius and Fahrenheit is the standard counter-example: the line crosses the Fahrenheit axis at 32, not at the origin, because 0 °C is 32 °F — the relationship is linear but **not** proportional.
+
+The **gradient is the conversion factor only when the relationship is directly proportional** (a line through the origin). For a non-proportional conversion such as Celsius to Fahrenheit, the gradient (1.8) is the rate of change between the scales, but no single multiplying factor converts one reading directly to the other, since a fixed offset (the 32) must also be applied.
 
 ## Rates of change
 

@@ -22,9 +22,17 @@ This guide covers the opening content of **Module 2: Foundations in
 Biology**, the second of six teaching modules in OCR A Level Biology A
 (H420), first teaching September 2015, current specification Version
 4.1 (April 2026). Module 1 (practical skills) is assessed throughout
-the written papers rather than as standalone content, so Module 2 is,
-in practice, where the taught content of the A Level genuinely
+the three written papers rather than as standalone content, so Module 2
+is, in practice, where the taught content of the A Level genuinely
 begins.
+
+Module 1's content is also the basis of a separate, non-exam-assessed
+component: the **Practical Endorsement**. This requires students to
+carry out a minimum of twelve assessed practical activities covering
+all twelve **Practical Activity Groups (PAGs)**, and it is reported
+separately (pass/not classified) rather than contributing marks to the
+overall A Level grade, which is determined solely by the three written
+papers.
 
 ## Syllabus coverage
 
@@ -38,8 +46,8 @@ fundamental to the rest of the subject. Its opening sub-topics are:
 - **2.1.1 Cell structure** -- using microscopy to observe and
   investigate cell structure across a range of eukaryotic organisms,
   including appreciating the different images produced by light
-  microscopes, transmission electron microscopes, scanning electron
-  microscopes and laser scanning confocal microscopes; preparing and
+  microscopes, transmission electron microscopes and scanning electron
+  microscopes; preparing and
   examining microscope slides, including using an eyepiece graticule
   and stage micrometer; using staining, including differential
   staining, to identify cellular components; representing cell
@@ -52,8 +60,7 @@ fundamental to the rest of the subject. Its opening sub-topics are:
   chloroplasts, plasma membrane, centrioles, cell wall, flagella and
   cilia); interpreting transmission and scanning electron microscope
   photomicrographs; the interrelationship between organelles involved
-  in producing and secreting proteins (no detail of protein synthesis
-  itself required at this point); the importance of the cytoskeleton
+  in producing and secreting proteins; the importance of the cytoskeleton
   in providing mechanical strength, aiding transport and enabling cell
   movement; and the similarities and differences between prokaryotic
   and eukaryotic cell structure.
@@ -114,11 +121,11 @@ magnification itself -- is essential.
 - **Mixing up units when applying the magnification formula**,
   especially forgetting to convert both image size and object size to
   the same unit before dividing.
-- **Treating protein synthesis as required knowledge here.** The
-  specification explicitly notes that "no detail of protein synthesis
-  is required" at 2.1.1 -- that content belongs to a later module, so
-  over-preparing it at this stage wastes revision time better spent on
-  the organelle functions actually listed.
+- **Skipping transcription and translation.** These are required
+  content later in the same module (2.1.4 Nucleic acids), with named
+  guidance on RNA polymerase and messenger RNA, so the biochemistry of
+  protein synthesis should not be neglected once that sub-topic is
+  reached.
 - **Learning organelle names without their functions**, when exam
   questions consistently ask for both structure and function together
   -- for example, not just naming the rough endoplasmic reticulum but

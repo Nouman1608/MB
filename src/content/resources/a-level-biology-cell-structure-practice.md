@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "cell-structure-cambridge-alevel-biology"
-description: "Original exam-style practice questions with full worked answers on organelles, microscopy, magnification and cell fractionation for Cambridge A Level Biology 9700."
+description: "Original exam-style practice questions with full worked answers on organelles, microscopy, magnification, viruses and cell comparison for Cambridge A Level Biology 9700."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -33,7 +33,7 @@ Related: [Cell Structure revision notes](/resources/a-level-biology-cell-structu
 
 **2.** Distinguish between magnification and resolution. **[2]**
 
-**3.** State what is meant by an *artefact* in electron microscopy. **[1]**
+**3.** State one reason why a virus is not classified as a living cell. **[1]**
 
 ---
 
@@ -51,17 +51,19 @@ Related: [Cell Structure revision notes](/resources/a-level-biology-cell-structu
 
 **(b)** A student writes the answer as 0.0028 mm. Explain whether this is equivalent, and state which unit is more appropriate. **[2]**
 
-**6.** Cell fractionation is used to isolate mitochondria.
+**6.** A student calibrates an eyepiece graticule against a stage micrometre before measuring a cell.
 
-**(a)** State three properties the homogenisation solution must have, and give a reason for each. **[6]**
+**(a)** Explain why the eyepiece graticule must be calibrated against a stage micrometre for each objective lens used. **[2]**
 
-**(b)** Explain how ultracentrifugation separates the organelles. **[2]**
+**(b)** At ×400 magnification, 25 stage micrometre divisions (each representing 10 μm) align exactly with 40 eyepiece graticule divisions. Calculate the value of one eyepiece graticule division at this magnification, in micrometres. **[3]**
 
-**7.** Mitochondria and chloroplasts contain 70S ribosomes and circular DNA.
+**(c)** A cell measured at this magnification spans 18 eyepiece graticule divisions. Calculate its actual diameter, in micrometres. **[3]**
 
-**(a)** State what this suggests about their origin. **[1]**
+**7.** A plant cell and an animal cell are compared under a light microscope.
 
-**(b)** Explain the reasoning. **[2]**
+**(a)** State one structure present in the plant cell that is absent from the animal cell. **[1]**
+
+**(b)** Explain the function of this structure in the plant cell. **[2]**
 
 **8.** Explain why electron microscopes achieve higher resolution than light microscopes, and state one major limitation this brings compared with light microscopy. **[3]**
 
@@ -75,11 +77,11 @@ Related: [Cell Structure revision notes](/resources/a-level-biology-cell-structu
 
 ## Answers
 
-**1.** Any four: prokaryotes have **no nucleus** (DNA free in cytoplasm) whereas eukaryotes have a membrane-bound nucleus [1]; prokaryotic DNA is **circular and not associated with histones** [1]; prokaryotes have **70S ribosomes**, eukaryotes **80S** [1]; prokaryotes have **no membrane-bound organelles** [1]; prokaryotes are **smaller** (0.5–5 μm vs 10–100 μm); prokaryotes may have plasmids.
+**1.** Any four: prokaryotes have **no nucleus** (DNA free in cytoplasm) whereas eukaryotes have a membrane-bound nucleus [1]; prokaryotic DNA is **circular and not associated with histones** [1]; prokaryotes have **70S ribosomes**, eukaryotes **80S** [1]; prokaryotes have **no membrane-bound organelles** [1]; prokaryotes are **smaller** (1–5 μm vs 10–100 μm); prokaryotes may have plasmids.
 
 **2. Magnification** is how many times **larger the image is than the object** [1]; **resolution** is the ability to **distinguish two points as separate** [1].
 
-**3.** A structure **produced by the preparation process** that was not present in the living cell [1].
+**3.** Any one: a virus has **no cytoplasm, ribosomes or metabolism of its own** [1]; it cannot **respire, grow or reproduce independently** — it can only replicate by infecting a host cell and using the host's ribosomes and enzymes [1].
 
 **4. (a)** DNA in the **nucleus** is transcribed to mRNA [1], which leaves through a **nuclear pore** [1]. A **ribosome on the rough endoplasmic reticulum** synthesises the protein [1]. A **vesicle** carries it to the **Golgi apparatus**, which modifies and packages it [1]. A **secretory vesicle** fuses with the **cell surface membrane** and the protein leaves by exocytosis [1].
 
@@ -90,15 +92,15 @@ Related: [Cell Structure revision notes](/resources/a-level-biology-cell-structu
 
 **(b)** It is **numerically equivalent** [1], but **micrometres are more appropriate** because the value is then a convenient number rather than a small decimal [1].
 
-**6. (a)** **Ice-cold** [1] — reduces enzyme activity so organelles are not digested [1].
-**Isotonic** [1] — prevents water entering or leaving by osmosis, which would damage organelles [1].
-**Buffered** [1] — keeps pH constant so proteins and enzymes are not denatured [1].
+**6. (a)** The value of **one graticule division is arbitrary and changes with magnification** [1], so it is different for every objective lens and must be **recalibrated whenever the objective is changed** [1].
 
-**(b)** The homogenate is spun at **increasing speeds** [1]; the **densest organelles sediment first**, so nuclei settle before chloroplasts, then mitochondria, then ER, then ribosomes [1].
+**(b)** 25 stage micrometre divisions = 25 × 10 μm = **250 μm** [1], which spans 40 eyepiece divisions [1], so one eyepiece division = 250 ÷ 40 = **6.25 μm** [1].
 
-**7. (a)** They were once **free-living prokaryotes** engulfed by a larger cell — the **endosymbiotic theory** [1].
+**(c)** 18 × 6.25 μm [1] = **112.5 μm** [1], with correct unit and working shown [1].
 
-**(b)** 70S ribosomes and **circular DNA** are characteristic of **prokaryotes**, not eukaryotes [1], so their presence inside eukaryotic organelles suggests a prokaryotic ancestry [1].
+**7. (a)** Any one: **cell wall** (cellulose) / **chloroplast** / large permanent **vacuole** [1].
+
+**(b)** For a cell wall: provides **structural support and prevents the cell bursting** by osmotic uptake of water, maintaining turgor [1], allowing the cell to support the plant [1]. (Equivalent reasoning credited for chloroplast — photosynthesis — or vacuole — turgor and storage.)
 
 **8.** Electron microscopes use a beam of **electrons**, which has a much **shorter effective wavelength than light**, and resolution is fundamentally limited by wavelength — a shorter wavelength distinguishes points that are closer together [1] [1]. Limitation: samples must be **dead, dehydrated and viewed in a vacuum**, so **living, moving processes cannot be observed** in real time as they can with light microscopy [1].
 
@@ -114,7 +116,7 @@ Related: [Cell Structure revision notes](/resources/a-level-biology-cell-structu
 
 - Saying prokaryotes have "no organelles" — they have ribosomes.
 - Failing to convert units in a magnification calculation.
-- Giving only one reason for the homogenisation medium's properties.
+- Forgetting that a virus has no metabolism of its own and cannot replicate outside a host cell.
 - Saying the rough ER modifies proteins — that is the Golgi's role.
 - Confusing magnification with resolution.
 - Stating electron microscopy has "better resolution" without linking this to the shorter wavelength of electrons.

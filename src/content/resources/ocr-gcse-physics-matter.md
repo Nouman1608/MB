@@ -38,11 +38,15 @@ areas.
 **OCR GCSE PHYSICS (J249) — TOPIC 1 MATTER**
 
 - P1.1 The particle model — how the arrangement and movement of
-particles differs between solids, liquids and gases
+particles differs between solids, liquids and gases, the development
+of the atomic model from Dalton through Thomson, Rutherford (with
+Geiger and Marsden), and Bohr, the nuclear description of the atom,
+and the order-of-magnitude size of an atom
 - P1.2 Changes of state — how energy transfer causes changes of state,
 and how mass is conserved during these changes
-- P1.3 Pressure — how pressure arises in gases and liquids and how it
-can be calculated
+- P1.3 Pressure — how pressure arises in gases and how it can be
+calculated, and how pressure in liquids and the atmosphere varies with
+depth, height, and density, including floating, sinking and upthrust
 
 ## How to approach it
 
@@ -88,6 +92,10 @@ Changes of state are **physical**: the particles themselves are unchanged, only 
 
 Heating a substance either raises its temperature (increasing the kinetic energy of the particles) or changes its state (increasing potential energy as bonds between particles are overcome) — never both at once. This is why a heating curve has flat sections at the melting and boiling points despite energy still being supplied.
 
+## Development of the atomic model
+
+Ideas about the structure of the atom changed as new evidence emerged. Dalton described atoms as solid spheres. Thomson's discovery of the electron led to the "plum pudding" model — a ball of positive charge with electrons embedded in it. Rutherford's alpha-scattering experiment (carried out with Geiger and Marsden) fired alpha particles at thin gold foil: most passed straight through, but a small fraction were deflected through large angles, showing that an atom's mass and positive charge are concentrated in a tiny, dense **nucleus** with the rest of the atom being empty space. Bohr then proposed that electrons occupy fixed **orbits (shells)** at set distances from the nucleus, which explained why atoms did not collapse. Further experiments established that the nucleus itself contains **protons and neutrons**. An atom has a radius of the order of **10⁻¹⁰ m**, with the nucleus around 10,000 times smaller still.
+
 ## Specific heat capacity and latent heat
 
 **Specific heat capacity** is the energy needed to raise the temperature of 1 kg of a substance by 1 degree Celsius:
@@ -114,6 +122,20 @@ Raising temperature at constant volume increases particle speed, so collisions a
 p1 V1 = p2 V2      at constant temperature
 ```
 
+## Pressure in liquids and the atmosphere
+
+Pressure in a liquid increases with **depth** and with the liquid's **density**, because a deeper or denser column of liquid above a point has more weight pressing down on it:
+
+```
+p = h rho g       (pressure = depth x density x gravitational field strength)
+```
+
+The **pressure difference** between two depths can be found by applying this equation to each depth and subtracting, or by using the depth difference directly in the same formula.
+
+The **atmosphere** can be modelled as a layer of air surrounding the Earth whose density decreases with altitude. Atmospheric pressure at a point equals the weight of the column of air above it, so atmospheric pressure **decreases with height** as there is progressively less air, and less dense air, above.
+
+**Upthrust** is the net upward force on an object in a fluid, caused by the pressure at the bottom of the object being greater than the pressure at the top (since the bottom is deeper). An object **floats** when the upthrust acting on it equals its weight; it **sinks** if its weight exceeds the maximum upthrust the fluid can provide.
+
 ## Worked example
 
 How much energy is needed to turn 0.50 kg of ice at 0 degrees Celsius into water at 20 degrees Celsius?
@@ -139,3 +161,6 @@ Using E = m c delta-theta during a change of state, where temperature is not cha
 - Interpret a heating curve, explaining the flat sections.
 - Apply E = m c delta-theta and E = m L, including two-stage problems.
 - Explain gas pressure in terms of collisions and apply p1 V1 = p2 V2.
+- Describe how the model of the atom developed from Dalton to Bohr, and state the order-of-magnitude size of an atom.
+- Apply p = h rho g to find pressure and pressure differences in a liquid, and explain why atmospheric pressure decreases with height.
+- Explain floating and sinking in terms of upthrust and weight.

@@ -33,15 +33,17 @@ Condensed for the final weeks. For the full explanation, use the
 ## Key equations
 
 ```
-kinetic energy            Ek = 1/2 m v^2
-gravitational potential   Ep = m g h
-elastic potential         Ee = 1/2 k e^2
-thermal energy            E = m c delta-theta
-power                     P = E / t          (also P = W / t)
 efficiency = useful output / total input     (x100 for a percentage)
 ```
 
-**Note that Eₖ depends on v², so doubling the speed quadruples the kinetic energy.** That is why stopping distance rises so sharply with speed, and it is the standard applied question.
+The energy-store equations (kinetic, gravitational potential, elastic
+potential, thermal energy and power) belong to sub-topic 4.1.1 Energy
+changes in a system -- see the [Energy Changes in a System revision
+notes](/resources/aqa-gcse-physics-energy-changes-revision-notes/) for
+those. This sub-topic, 4.1.2, uses them (for example, kinetic energy
+in the worked examples below) but does not introduce them.
+
+**Note that Eₖ depends on v², so doubling the speed quadruples the kinetic energy.** That is why braking distance rises so sharply with speed, and it is the standard applied question.
 
 **Worked example.** A 1200 kg car at 15 m/s has Eₖ = 0.5 × 1200 × 15² = 135,000 J. At 30 m/s, Eₖ = 0.5 × 1200 × 30² = 540,000 J — **quadruple**, not double, confirming the v² relationship, and the reason four times as much work must be done by the brakes to stop the car.
 
@@ -90,15 +92,11 @@ Cavity wall insulation traps air, which has low thermal conductivity, and preven
 
 A more powerful device transfers the same energy in **less time**, or more energy in the same time. Comparing two devices means comparing energy per second, not total energy.
 
-## Energy resources
-
-| Renewable | Non-renewable |
-|---|---|
-| Solar, wind, hydroelectric, tidal, wave, geothermal, biofuel | Coal, oil, gas, nuclear |
-
-Note that **nuclear is non-renewable but not a fossil fuel**, and produces no carbon dioxide — a distinction worth making, since it belongs in neither simple category.
-
-**Evaluating a resource** requires the same four dimensions each time: **reliability** (does it always work?), **environmental impact**, **cost** (both to build and to run), and **power output**. Wind is renewable and clean but unreliable; gas is reliable and quick to start but emits CO₂.
+Sub-topic 4.1.3 National and Global Energy Resources (renewable and
+non-renewable resources, and evaluating them for reliability,
+environmental impact and cost) is covered in its own [National and
+Global Energy Resources study guide](/resources/aqa-gcse-physics-national-and-global-energy-resources/),
+the next sub-topic after this one.
 
 ## Exam traps
 
@@ -106,7 +104,7 @@ Note that **nuclear is non-renewable but not a fossil fuel**, and produces no ca
 - Saying energy is "used up" or "lost".
 - Forgetting that Eₖ depends on v squared.
 - Explaining insulation without mentioning the **rate** of transfer.
-- Evaluating an energy resource on one dimension only.
+- Explaining a transfer without identifying which stores gain and which lose energy.
 - Using cm or g in equations that need m and kg.
 
 ## Self-test

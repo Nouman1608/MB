@@ -40,14 +40,18 @@ elements or groups.
 PERIODIC TABLE**
 
 - 4.1.1 Atomic structure — the structure of atoms, relative electrical
-charges and masses of subatomic particles, and the development of the
-model of the atom (shared content with physics)
+charges and masses of subatomic particles, the separation of mixtures
+(4.1.1.2), and the development of the model of the atom (shared content
+with physics)
 - 4.1.2 The periodic table — how elements are arranged in the periodic
 table, its historical development, the distinction between metals and
-non-metals, and the properties of Group 1 and Group 7 elements
+non-metals, the properties of Group 0, Group 1 and Group 7 elements
+(4.1.2.4 to 4.1.2.6)
 - 4.1.3 Properties of transition metals (chemistry only) — a
-comparison of transition metals with Group 1 elements, unique to the
-separate Chemistry qualification
+comparison of transition metals with Group 1 elements on melting
+point, density and hardness, and their typical properties of variable
+ionic charge, coloured compounds and use as catalysts (4.1.3.2),
+unique to the separate Chemistry qualification
 
 ## How to approach it
 
@@ -88,7 +92,7 @@ The **atomic number** is the number of protons, and it defines the element. The 
 Relative atomic mass is the weighted mean mass of the isotopes present:
 
 ```
-Ar = (mass 1 x abundance 1) + (mass 2 x abundance 2) / 100
+Ar = [(mass 1 x abundance 1) + (mass 2 x abundance 2)] / 100
 ```
 
 ## Electronic structure
@@ -115,14 +119,28 @@ Group 1 elements react with water to form a metal hydroxide and hydrogen: **meta
 
 Melting and boiling points **increase** going down Group 7, because the molecules get larger and the intermolecular forces between them get stronger -- but **reactivity decreases**, the opposite trend to Group 1. The reasoning is the same physics applied to the opposite process: a halogen reacts by **gaining** an electron, and further down the group the outer shell is further from the nucleus with more shielding, so an incoming electron is attracted less strongly and gained less readily.
 
-A more reactive halogen will **displace** a less reactive one from a solution of its salt -- chlorine displaces bromine, and bromine displaces iodine. Adding chlorine water to potassium iodide solution, for example, the more reactive chlorine displaces iodide from solution, and the colourless mixture turns **brown** as iodine is formed.
+A more reactive halogen will **displace** a less reactive one from a solution of its salt -- chlorine displaces bromine, and bromine displaces iodine. Adding chlorine water to potassium iodide solution, for example, the more reactive chlorine displaces iodine from solution, and the colourless mixture turns **brown** as iodine is formed.
+
+## Group 0 -- the noble gases
+
+Group 0 elements are unreactive because their outer shell is already full, and this is why they exist as single, monatomic atoms rather than forming molecules. Boiling point **increases** going down the group as the atoms get larger and the intermolecular forces between them get stronger. The number of electrons in the outer shell equals the group number pattern used across the table (8 for Group 0, except helium with 2), which is why the noble gases sit in their own group rather than being folded into Group 7.
+
+## Topic 4.1.1.2 -- separating mixtures
+
+A mixture is two or more elements or compounds not chemically combined together, so the substances keep their own properties and can be separated by **physical** methods rather than chemical reactions: filtration, crystallisation, simple distillation, fractional distillation and chromatography, chosen according to the mixture's components and the property being exploited (particle size, solubility, or boiling point).
+
+## Properties of transition metals (chemistry only)
+
+Transition metals sit in the central block of the periodic table, between Group 2 and Group 3. Compared with the Group 1 alkali metals, transition metals are **typical metals**: they have much **higher melting points** (with the exception of mercury, which is liquid at room temperature), are considerably **denser**, and are **harder and stronger**, whereas Group 1 metals are soft enough to cut with a knife, have low melting points and low density. Transition metals are also **much less reactive** than Group 1 metals -- they do not react vigorously with water or oxygen the way sodium or potassium do, which is why they are useful as structural and everyday materials.
+
+Beyond the metallic comparison, transition metals share three typical properties: they can form ions with **variable (more than one) ionic charge**, for example iron forming Fe2+ and Fe3+; their compounds are typically **coloured** (copper compounds are often blue, iron(II) compounds green and iron(III) compounds orange-brown); and the elements and their compounds are often useful as **catalysts**, for example iron in the Haber process and manganese(IV) oxide as a catalyst for the decomposition of hydrogen peroxide.
 
 ## Worked example
 
 Chlorine exists as 75% chlorine-35 and 25% chlorine-37. Calculate its relative atomic mass.
 
 ```
-Ar = (35 x 75) + (37 x 25) / 100
+Ar = [(35 x 75) + (37 x 25)] / 100
    = (2625 + 925) / 100
    = 3550 / 100
    = 35.5

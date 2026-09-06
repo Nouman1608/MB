@@ -24,6 +24,12 @@ featured: false
 
 Related: [Foundations in Biology study guide](/resources/ocr-a-level-biology-foundations-in-biology/) | [Foundations in Biology revision notes](/resources/ocr-a-level-biology-foundations-revision-notes/)
 
+Note: these written questions assess Module 2 content only. Practical
+competence itself is assessed separately, through the non-exam
+**Practical Endorsement** across the twelve **Practical Activity
+Groups (PAGs)**, which does not contribute marks to the three written
+papers.
+
 ---
 
 **1.** Define magnification and resolution, and explain why an electron microscope reveals detail invisible under a light microscope. **[3]**
@@ -41,9 +47,9 @@ Related: [Foundations in Biology study guide](/resources/ocr-a-level-biology-fou
 
 **6.** Distinguish between a condensation reaction and a hydrolysis reaction, using the formation and breakdown of a polymer as your example. **[4]**
 
-**7.** Describe the sequence of organelles involved in producing and secreting a protein, without describing the mechanism of protein synthesis itself. **[3]**
+**7.** Describe the sequence of organelles involved in producing and secreting a protein. **[3]**
 
-**8.** State the monomer of DNA and RNA, and explain one structural difference between the two nucleic acids. **[3]**
+**8.** State the monomer of DNA and RNA, and explain one structural difference between the two nucleic acids. **[2]**
 
 ## Answers
 
@@ -62,7 +68,7 @@ Related: [Foundations in Biology study guide](/resources/ocr-a-level-biology-fou
 
 **7.** Proteins are synthesised by ribosomes attached to the rough endoplasmic reticulum, which processes and folds them [1]; the proteins are then transported, often in vesicles, to the Golgi apparatus, which modifies and packages them [1]; the Golgi apparatus then buds off secretory vesicles that move to and fuse with the plasma membrane, releasing the protein outside the cell [1].
 
-**8.** The monomer of both DNA and RNA is a **nucleotide** [1]. One structural difference: DNA is typically **double-stranded**, while RNA is typically **single-stranded** [1] (also accept: DNA contains deoxyribose sugar and the base thymine, while RNA contains ribose sugar and the base uracil in place of thymine) [1].
+**8.** The monomer of both DNA and RNA is a **nucleotide** [1]. One structural difference: DNA is typically **double-stranded**, while RNA is typically **single-stranded** [1] (also accept: DNA contains deoxyribose sugar and the base thymine, while RNA contains ribose sugar and the base uracil in place of thymine).
 
 ## A note on the magnification formula
 
@@ -73,7 +79,7 @@ Question 3 tests the version of the magnification formula that students most oft
 - Describing electron microscopes as revealing more detail because they "magnify more," rather than because they achieve higher resolution.
 - Failing to convert image size and object size to the same unit before applying the magnification formula.
 - Naming an organelle without stating its function, when questions consistently ask for both together.
-- Describing protein synthesis itself when a question asks only for the sequence of organelles involved in producing and secreting a protein.
+- Confusing the roles of the rough endoplasmic reticulum and the Golgi apparatus in the secretory pathway.
 - Listing water's properties as unconnected facts rather than explicitly linking them back to hydrogen bonding and polarity.
 
 ## Approaching foundations in biology questions

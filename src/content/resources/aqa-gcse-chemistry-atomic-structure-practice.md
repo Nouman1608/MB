@@ -70,7 +70,7 @@ Related: [Atomic Structure and the Periodic Table revision notes](/resources/aqa
 
 **5.** Reactivity **increases down the group** [1]. Each element down the group has **more electron shells, so the outer electron is further from the nucleus** [1] and is **shielded by more inner shells** [1]. The **attraction between the nucleus and the outer electron is therefore weaker**, so it is lost more easily and the reaction is more vigorous [1]. All three parts of the explanation — distance, shielding, and the resulting weaker attraction — are needed for full marks; naming only "more shells" earns partial credit at best.
 
-**6.** Reactivity **decreases down the group** [1], because the outer shell is **further from the nucleus and more shielded** [1], so the atom **attracts an incoming electron less strongly** and gains one less readily [1]. Chlorine is **more reactive than iodine**, so it **displaces the iodide**, and the solution turns **brown** as iodine forms [1] [1].
+**6.** Reactivity **decreases down the group** [1], because the outer shell is **further from the nucleus and more shielded** [1], so the atom **attracts an incoming electron less strongly** and gains one less readily [1]. Chlorine is **more reactive than iodine**, so it **displaces iodine** from potassium iodide solution, and the solution turns **brown** as iodine forms [1] [1].
 
 **7.** They are **unreactive/inert** [1] and exist as **single atoms (monatomic)** [1], because they have a **full outer shell of electrons**, so they have no tendency to lose, gain or share electrons [1].
 

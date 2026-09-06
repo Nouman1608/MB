@@ -51,7 +51,7 @@ Derived: N = kg m s⁻², J = kg m² s⁻², W = kg m² s⁻³, Pa = kg m⁻¹ s
 
 **Systematic** — a consistent offset in the same direction every time; **not reduced by repeating**. Requires recalibration, zeroing, or a technique change.
 
-**On a graph:** a systematic error gives the **correct gradient with an unexpected intercept**. Random error shows as scatter of points about the line, in both directions.
+**On a graph:** an **additive** systematic error (e.g. a zero error) gives the **correct gradient with an unexpected intercept**, while a **proportional** (calibration) systematic error instead changes the **gradient** and leaves the intercept at the origin. Random error shows as scatter of points about the line, in both directions.
 
 ## Uncertainty
 

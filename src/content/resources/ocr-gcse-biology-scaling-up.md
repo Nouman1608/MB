@@ -101,8 +101,9 @@ OCR's own specification flags that learners commonly believe blood
 flows slowly in capillaries because capillaries are narrow -- the
 correct explanation is that the *total cross-sectional area* of all
 the capillaries in a tissue is around a thousand times greater than
-that of the aorta, so total blood flow slows down even though
-individual capillaries are narrow. This matters biologically because
+that of the aorta, so the blood moves more slowly (in linear speed)
+through the capillary bed even though the total volume flowing through
+per second is unchanged and individual capillaries are narrow. This matters biologically because
 slow flow through capillaries is precisely what allows time for
 diffusion of oxygen, nutrients and waste between blood and tissue --
 so the "problem" of slow capillary flow is in fact the adaptation that

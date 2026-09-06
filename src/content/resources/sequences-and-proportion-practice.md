@@ -57,7 +57,7 @@ Related: [Sequences and Proportion revision notes](/resources/sequences-and-prop
 **(b)** Find p when q = 6. **[2]**
 **(c)** Explain what happens to p when q is doubled. **[2]**
 
-**7.** The first term of a geometric sequence is 6 and the common ratio is 0.5. Find the sum to infinity. **[2]**
+**7.** Find the nth term of the geometric sequence 6, 3, 1.5, 0.75, ... **[2]**
 
 **8.** y is directly proportional to x³. When x = 2, y = 40.
 
@@ -92,7 +92,7 @@ Related: [Sequences and Proportion revision notes](/resources/sequences-and-prop
 **(b)** p = 72 ÷ 36 [1] = **2** [1].
 **(c)** q² becomes **four times larger** [1], so p becomes **one quarter of its original value** [1].
 
-**7.** S∞ = a ÷ (1 − r) = 6 ÷ (1 − 0.5) [1] = **12** [1].
+**7.** First term a = 6, common ratio r = 0.5 [1]; nth term = a × rⁿ⁻¹ = **6 × 0.5ⁿ⁻¹** [1].
 
 **8. (a)** y = kx³ [1]; 40 = k(2³) = 8k, so k = 5 [1]; **y = 5x³** [1].
 **(b)** y = 5 × 5³ = 5 × 125 = **625** [1].

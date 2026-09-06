@@ -77,11 +77,13 @@ questions typically probe understanding — not "name this organelle" but
 "explain how this organelle's structure suits its function."
 
 For 3.2.1.2, build a direct comparison table between eukaryotic and
-prokaryotic cells across the five named differences (membrane-bound
-organelles, ribosome size, presence/absence of a true nucleus, DNA
-form, and cell wall composition), since exam questions frequently ask
-candidates to "compare and contrast" the two cell types directly rather
-than describe either in isolation. Keep viruses conceptually separate
+prokaryotic cells across the specification's four named differences —
+cytoplasm lacking membrane-bound organelles, smaller ribosomes, no
+true nucleus (a single circular DNA molecule free in the cytoplasm and
+not associated with proteins), and a cell wall containing murein —
+since exam questions frequently ask candidates to "compare and
+contrast" the two cell types directly rather than describe either in
+isolation. Keep viruses conceptually separate
 from prokaryotic cells — a virus is acellular, meaning it is not made of
 a cell at all, which is a distinct point from being a small or simple
 cell.
@@ -123,7 +125,8 @@ lysosomes, the endoplasmic reticulum, the Golgi apparatus, the nucleus)
 versus not (ribosomes) is a distinction that comes up directly when
 comparing eukaryotic and prokaryotic cells, since the presence or
 absence of membrane-bound organelles is one of the specification's own
-five named differences between the two cell types.
+four named differences between the two cell types (the absence of a
+nucleus and the form of the DNA are one bullet, not two).
 
 ## Common mistakes
 
@@ -139,7 +142,7 @@ protein-bound, linear DNA found in a eukaryotic nucleus.
 
 - Learn each named eukaryotic organelle with its structure and function
 paired together.
-- Build a five-point comparison table between eukaryotic and
+- Build a four-point comparison table between eukaryotic and
 prokaryotic cells.
 - Know the three defining features of virus structure: genetic
 material, capsid, attachment protein.

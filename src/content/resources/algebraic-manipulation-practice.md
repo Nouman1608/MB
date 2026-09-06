@@ -19,6 +19,9 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "algebra-and-graphs"
     subtopic: "algebraic-fractions"
+  - qualification: "o-level"
+    topic: "algebra-and-graphs"
+    subtopic: "equations"
 description: "Original exam-style practice questions with full worked answers on expanding, factorising, algebraic fractions and rearranging formulae."
 author: "muhammad-ghazali-siddiqui"
 publishedDate: 2026-08-22
@@ -76,7 +79,7 @@ Related: [Algebraic Manipulation revision notes](/resources/algebraic-manipulati
 
 **4.** Find two numbers multiplying to 6 × (−12) = −72 and adding to −1: **8 and −9** [1]. 6x² + 8x − 9x − 12 [1]; 2x(3x + 4) − 3(3x + 4) [1]; = **(2x − 3)(3x + 4)** [1].
 
-**5. (a)** Numerator = (x + 2)(x − 2) [1]; denominator = (x + 2)(x + 3) [1]; cancelling (x + 2) [1] gives **(x − 2)/(x + 3)** [1].
+**5. (a)** Numerator = (x + 2)(x − 2) [1]; denominator = (x + 2)(x + 3) [1]; cancelling (x + 2) [1] gives **(x − 2)/(x + 3)**, valid for x ≠ −2 and x ≠ −3 [1].
 **(b)** Common denominator (x + 1)(x − 2) [1]; numerator = 3(x − 2) + 2(x + 1) [1] = 3x − 6 + 2x + 2 = 5x − 4 [1]; = **(5x − 4)/((x + 1)(x − 2))** [1].
 
 **6. (a)** y(x − 1) = 3x + 2 [1]; xy − y = 3x + 2; xy − 3x = y + 2 [1]; x(y − 3) = y + 2 [1]; **x = (y + 2)/(y − 3)** [1].

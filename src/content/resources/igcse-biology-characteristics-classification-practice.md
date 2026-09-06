@@ -30,7 +30,7 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 
 **1.** Define growth and excretion as characteristics of living organisms. **[4]**
 
-**2.** Explain the difference between excretion and egestion, giving an example of each. **[2]**
+**2.** Explain the difference between excretion and egestion, giving an example of each. **[4]**
 
 **3.** Define a species. **[2]**
 
@@ -46,10 +46,7 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 
 **(c)** Explain one advantage of the binomial system. **[2]**
 
-**5.** Complete the table of kingdom features.
-
-| Kingdom | Cell wall material | Nutrition |
-|---|---|---|
+**5.** **(Supplement)** Kingdom features.
 
 **(a)** State the cell wall material and type of nutrition for plants and for fungi. **[4]**
 
@@ -75,7 +72,7 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 
 **(b)** Give **one** feature that would distinguish a bird from this group, and state the corresponding feature in the bird. **[2]**
 
-**9.** A flowering plant has flower parts arranged in threes and leaves with parallel veins.
+**9.** **(Supplement)** A flowering plant has flower parts arranged in threes and leaves with parallel veins.
 
 **(a)** State whether it is a monocotyledon or a dicotyledon, using **both** pieces of evidence given. **[2]**
 
@@ -88,10 +85,10 @@ Related: [Characteristics and Classification revision notes](/resources/igcse-bi
 ## Answers
 
 **1. Growth** — a **permanent** increase in **size and dry mass** [1] [1].
-**Excretion** — the removal of **toxic materials and the waste products of metabolism** [1] [1].
-*"Permanent", "dry mass" and "of metabolism" each carry marks.*
+**Excretion** — the removal of **the waste products of metabolism and substances in excess of requirements** [1] [1].
+*"Permanent", "dry mass", "of metabolism" and "substances in excess of requirements" each carry marks.*
 
-**2.** **Excretion** removes waste made by the organism's **own chemical reactions** [1], e.g. carbon dioxide and urea; **egestion** removes **undigested food** that was never absorbed into the body [1], e.g. fibre passed out as faeces.
+**2.** **Excretion** removes waste made by the organism's **own chemical reactions** [1], e.g. carbon dioxide and urea [1]; **egestion** removes **undigested food** that was never absorbed into the body [1], e.g. fibre passed out as faeces [1].
 
 **3.** A group of organisms with **similar characteristics** [1] that can **interbreed to produce fertile offspring** [1].
 *"Fertile" is essential — a mule proves why.*
@@ -136,6 +133,6 @@ Fungi: **chitin** [1] wall, **saprotrophic** nutrition [1].
 - Building a key on features that vary with age, season or individual.
 - Confusing reptile and bird eggs — reptile shells are soft and leathery, bird shells are hard; getting this backwards is a very common slip.
 - Counting flower parts or leaf-vein pattern alone without linking both pieces of evidence to the monocotyledon/dicotyledon conclusion the question asked for.
-- Mixing up crustaceans and myriapods — both have "many" legs, but crustaceans have exactly two body parts plus two pairs of antennae, while myriapods have many segments and only one pair of antennae.
+- Mixing up crustaceans and myriapods — both have "many" legs, but crustaceans are diagnosed by two pairs of antennae (body parts vary, and in some the head and thorax are fused into a cephalothorax), while myriapods have many segments and only one pair of antennae.
 
-Questions 8 and 9 draw on the vertebrate, plant and arthropod classification tables in the [Characteristics and Classification revision notes](/resources/igcse-biology-characteristics-classification-revision-notes/) — material the earlier questions on this page don't reach, since they focus on MRS GREN, the five kingdoms and dichotomous keys instead.
+Questions 8 and 9 draw on the vertebrate and plant classification tables in the [Characteristics and Classification revision notes](/resources/igcse-biology-characteristics-classification-revision-notes/) — material the earlier questions on this page don't reach, since questions 1-5 and 7 focus on MRS GREN, the five kingdoms and dichotomous keys, and question 6 already covers arthropod classification.

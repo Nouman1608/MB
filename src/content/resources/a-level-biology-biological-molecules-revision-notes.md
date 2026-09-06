@@ -54,11 +54,15 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Biology (970
 - **Quaternary**: applies only where a protein has more than one polypeptide chain.
 - Name the *specific* bonds stabilising tertiary structure — "forces between amino acids" is too vague
   for top marks.
+- **Globular proteins** (e.g. **haemoglobin**) — compact, roughly spherical, generally soluble, precise
+  structure suited to a specific role such as oxygen transport.
+- **Fibrous proteins** (e.g. **collagen**) — long, insoluble strands/fibres, repeating structure suited
+  to mechanical strength.
 
 ## 2.4 Water
 
 - High specific heat capacity → thermal stability of aquatic habitats.
-- Cohesion/adhesion → transport of water up a plant stem.
+- High latent heat of vaporisation → evaporative cooling by sweating or transpiration.
 - Effective solvent → transport of dissolved substances in blood plasma.
 - Every property traces back to hydrogen bonding between polar water molecules — always link property →
   hydrogen bonding → biological consequence.
@@ -110,8 +114,9 @@ by a phosphate group) produces a completely different biological function.
 **Answers:** 1. Purple/lilac colour; tests for proteins. 2. To confirm the observed change is due to the
 substance being tested, not the reagent reacting alone. 3. Ionic bonds, hydrogen bonds, disulfide bonds,
 hydrophobic interactions. 4. Only when a protein consists of more than one polypeptide chain. 5. E.g.
-high specific heat capacity → thermal stability of aquatic habitats (or cohesion → water transport up a
-stem; solvent property → transport of dissolved substances in blood).
+high specific heat capacity → thermal stability of aquatic habitats (or latent heat of vaporisation →
+evaporative cooling by sweating/transpiration; solvent property → transport of dissolved substances in
+blood).
 
 ## Why this topic underpins the rest of the course
 

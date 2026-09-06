@@ -22,31 +22,36 @@ This guide covers **Pure Mathematics 2**, the second content strand of
 Cambridge International AS & A Level Mathematics 9709, 2026–2027
 series. 9709 is modular: six papers across three content strands —
 Pure Mathematics (Papers 1–3), Mechanics (Paper 4), and Probability &
-Statistics (Papers 5–6). Pure Mathematics 2 is examined through Paper
-2, which is only required for candidates completing the full A Level
-(it is not part of the standalone AS Pure Mathematics award built from
-Paper 1 alone).
+Statistics (Papers 5–6). Paper 1 is compulsory for both the AS Level
+and the A Level. Pure Mathematics 2 is examined through Paper 2, which
+is offered only as part of the standalone AS Level award (Paper 1 plus
+Paper 2); it does not count towards the full A Level, for which
+candidates take Paper 3 (Pure Mathematics 3) instead, and candidates
+are not permitted to take both Paper 2 and Paper 3.
 
 ## Where this fits in 9709
 
 Pure Mathematics 2 builds directly on the algebraic and calculus
-foundations laid in Pure Mathematics 1, extending differentiation and
-integration to exponential, logarithmic and trigonometric functions,
-and introducing techniques — the algebra of rational functions, radian
-measure in calculus, and numerical methods for equations that cannot
-be solved exactly — that Pure Mathematics 3 assumes as already secure.
-Because Paper 2 sits between the AS-only Paper 1 and the more advanced
-Paper 3, its content is often where students meet, for the first time,
-functions and equations that genuinely cannot be handled by purely
-algebraic methods, which is part of why numerical methods appear here
-rather than in Pure Mathematics 1.
+foundations laid in Pure Mathematics 1 (Paper 1), extending
+differentiation and integration to exponential, logarithmic and
+trigonometric functions, and introducing techniques — the modulus
+function, radian measure in calculus, and numerical methods for
+equations that cannot be solved exactly. Paper 2 and Paper 3 are
+alternative routes built on the same Paper 1 foundation, not a
+sequence: a candidate takes Paper 1 plus Paper 2 for the AS Level, or
+Paper 1 plus Paper 3 for the A Level, never both Paper 2 and Paper 3.
+Pure Mathematics 2's content is often where AS Level students meet,
+for the first time, functions and equations that genuinely cannot be
+handled by purely algebraic methods, which is part of why numerical
+methods appear here rather than in Pure Mathematics 1.
 
 ## Syllabus coverage
 
 **CAMBRIDGE INTERNATIONAL AS & A LEVEL MATHEMATICS 9709 — PURE
 MATHEMATICS 2**
 
-- 2.1 Algebra — the algebra of rational functions, including division
+- 2.1 Algebra — the modulus function |x|, including its graph and the
+solution of equations and inequalities involving a modulus; division
 of polynomials, the factor theorem and the remainder theorem, and
 using these to simplify expressions and solve equations
 - 2.2 Logarithmic and exponential functions — the laws of logarithms,
@@ -57,10 +62,13 @@ building on Pure Mathematics 1, including the use of the secant,
 cosecant and cotangent functions and their identities
 - 2.4 Differentiation — differentiating exponential, logarithmic and
 trigonometric functions, and applying the product, quotient and chain
-rules to combinations of these
+rules to combinations of these; differentiating functions defined
+parametrically and implicitly
 - 2.5 Integration — integrating exponential, logarithmic and
-trigonometric functions, and using integration to find areas and
-evaluate definite integrals involving these functions
+trigonometric functions, using integration to find areas and evaluate
+definite integrals involving these functions, and estimating the value
+of a definite integral by means of the trapezium rule, including
+recognising whether the rule gives an over- or under-estimate
 - 2.6 Numerical solution of equations — locating roots of equations by
 sign changes, and using simple iterative methods to find approximate
 solutions where an equation cannot be solved algebraically
@@ -68,9 +76,9 @@ solutions where an equation cannot be solved algebraically
 ## How to approach it
 
 Pure Mathematics 2 rewards fluency with the factor theorem and
-polynomial division (2.1) before moving on, since later work on
-rational functions and partial-fraction-style simplification assumes
-this is automatic rather than a fresh challenge each time it appears.
+polynomial division (2.1) before moving on, since later work across
+the paper assumes this is automatic rather than a fresh challenge each
+time it appears.
 Logarithmic and exponential functions (2.2) are best practised as a
 pair — converting confidently between index form and logarithmic form,
 and recognising when an equation calls for logarithms to solve an
@@ -101,8 +109,8 @@ formula of the form x_(n+1) = g(x_n) to converge on an approximate
 root. A frequent source of lost marks is presenting an iteration
 without enough decimal places carried through each step, so carry more
 figures than the final answer needs until the last stated iteration.
-Because Pure Mathematics 2 is assessed only in the full A Level (not
-the standalone AS award), students moving straight from Paper 1 into
+Because Pure Mathematics 2 is assessed as part of the standalone AS
+Level award (not the full A Level), students moving from Paper 1 into
 Paper 2 should expect a step up in how far a single question can
 combine techniques from across this topic, rather than testing each
 sub-topic in isolation as Paper 1 more often does.

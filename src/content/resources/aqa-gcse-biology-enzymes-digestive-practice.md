@@ -30,7 +30,7 @@ Related: [Enzymes and the Digestive System study guide](/resources/gcse-aqa-biol
 ## Section A
 
 
-**1.** Name the levels of organisation from cell to organism, in order. **[4]**
+**1.** Name the levels of organisation from cell to organism, in order. **[3]**
 
 **2.** State the three main types of digestive enzyme and the food group each one breaks down. **[3]**
 
@@ -68,7 +68,7 @@ Related: [Enzymes and the Digestive System study guide](/resources/gcse-aqa-biol
 ## Answers
 
 
-**1.** **Cell → tissue → organ → organ system → organism** [1] [1] [1] [1].
+**1.** **Cell → tissue → organ → organ system → organism** — tissue [1], organ [1], organ system [1] (cell and organism are given).
 
 **2.** **Carbohydrases** (e.g. amylase) break down **carbohydrates/starch** [1]; **proteases** break down **proteins** [1]; **lipases** break down **lipids/fats** [1].
 

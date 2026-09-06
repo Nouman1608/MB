@@ -25,13 +25,17 @@ Edexcel International Advanced Subsidiary/Advanced Level Biology
 
 ## Scope of this guide
 
-Topic 2 runs through at least outcome 2.13 and beyond, covering
-membranes, proteins, DNA structure, replication and gene expression.
+Topic 2 runs through to its final outcome, covering membranes,
+proteins, DNA structure and replication, gene expression, mutation,
+genetics vocabulary (including monohybrid and sex-linked inheritance),
+cystic fibrosis, genetic screening, and the ethical and social issues
+of genetic screening -- plus a core practical on membrane permeability.
 This resource focuses on outcomes 2.1-2.5: gas exchange surfaces, cell
 membrane structure, osmosis and membrane transport mechanisms, which
 together form a coherent unit on how substances move into and out of
 cells. Proteins (2.6-2.7), DNA structure and replication (2.9-2.10),
-and gene expression (2.11-2.13) are left for separate resources.
+gene expression (2.11-2.13), and the genetics content and core
+practical that follow are left for separate resources.
 
 ## Syllabus coverage
 

@@ -47,7 +47,7 @@ In every case, the resulting ion has the electronic structure of the **nearest n
 
 ## Dot and cross diagrams
 
-Convention: **dots** = electrons from one atom; **crosses** = electrons from the other; show **only outer (valence) shell** electrons; enclose each finished ion in **square brackets with its charge**. A diagram that includes inner-shell electrons, or omits the brackets/charge, loses marks even if the electron count is right.
+Convention: **dots** = electrons from one atom; **crosses** = electrons from the other; the usual convention is to show **only outer (valence) shell** electrons, though showing all occupied shells is not wrong; enclose each finished ion in **square brackets with its charge**. A diagram that omits the brackets/charge loses marks even if the electron count is right.
 
 ## Worked example: magnesium oxide
 
@@ -87,7 +87,7 @@ Although 4.2.1.1 and 4.2.1.2 focus on bond *formation*, it is worth connecting t
 ## Common mistakes
 
 - Naming a bond type without justifying it from the elements involved.
-- Drawing inner-shell electrons in a dot and cross diagram.
+- Omitting the square brackets and charge around a finished ion in a dot and cross diagram.
 - Forgetting square brackets and the ion's charge in the finished diagram.
 - Applying "charge = group number" outside Groups 1, 2, 6 and 7 — the specification only requires (and the simple rule only reliably applies to) these four groups.
 - Describing ionic bond formation as one step ("electrons move") instead of the required two-step sequence: transfer, **then** electrostatic attraction between the ions formed.
