@@ -135,6 +135,46 @@ the level of individual machine instructions -- understanding this
 link makes later topics on compilers and program execution
 significantly easier to follow.
 
+## Worked example: a conditional branch in a trace
+
+A trace question with a conditional jump tests whether tracing is
+genuinely understood rather than followed mechanically.
+
+```
+Instruction        Register/memory effect
+LDM #0              ACC <- 0
+LDD 300             ACC <- value at address 300 (suppose this is 5)
+CMP #5              Compare ACC with 5 -> equal, so condition is TRUE
+JPE 500             Since the comparison was equal, jump to address 500
+                    (if it had NOT been equal, execution would simply
+                    continue with the next instruction in sequence)
+```
+
+The key habit for conditional instructions is recording **which
+branch was actually taken and why**, based on the specific values in
+that trace — not assuming the same branch is always taken, since a
+different starting value at address 300 would change the outcome
+entirely.
+
+## Two's complement: representing negative numbers at register level
+
+Processor Fundamentals connects to Information Representation through
+how the ACC and registers actually store negative results. In an
+8-bit register, a value is negated by inverting all bits and adding
+1:
+
+```
+Represent -5 in 8-bit two's complement:
+   5        = 00000101
+   invert   = 11111010
+   add 1    = 11111011   <- this is -5
+```
+
+Recognising that arithmetic instructions like ADD and SUB operate on
+these two's complement bit patterns directly, rather than on a
+separate "negative number" representation, is what connects this
+sub-topic back to binary representation taught earlier in the course.
+
 ## Self-test
 
 1. Which register holds the address of the next instruction to be

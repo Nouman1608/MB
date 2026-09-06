@@ -104,6 +104,36 @@ isolation, since exam questions usually ask you to identify *which*
 register or bus is active at a *specific* stage, not to recite the
 whole cycle from memory.
 
+## Worked example: matching sensors to a real scenario
+
+A car's automatic parking system needs to detect nearby obstacles and
+adjust its dashboard lighting to match ambient conditions. Identify
+suitable sensors.
+
+```
+Detects nearby obstacles:       Proximity sensor (or acoustic sensor,
+                                 depending on the technology used)
+Adjusts dashboard lighting:     Light sensor
+```
+
+As with all sensor-scenario questions, the mark is earned by naming
+the sensor **and** stating what physical quantity it detects — not
+simply recognising that "a sensor" is involved.
+
+## Why RAM and ROM are both needed
+
+A frequent exam question asks why a computer needs both RAM and ROM
+rather than just one. RAM is fast and directly accessible, but
+**volatile** — its contents vanish when power is removed, so it
+cannot hold the instructions needed to start the computer before an
+operating system even exists in memory. ROM is also directly
+accessible but **non-volatile**, so it permanently stores the
+bootstrap instructions that begin the startup process. Once started,
+the operating system and running programs are loaded into RAM for
+speed, while ROM's contents remain unused again until the next
+power-on — the two types of primary storage serve genuinely different
+purposes rather than being interchangeable options.
+
 ## Exam traps
 
 - Naming FDE registers without being able to trace a single
