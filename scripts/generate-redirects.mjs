@@ -34,6 +34,29 @@
  * TYPE_CHANGED_RESOURCES below (same pattern as CONSOLIDATED_RESOURCES) so
  * the stale link keeps redirecting — same discipline as a slug rename.
  *
+ * 2026-09-07 ceiling breach (D-147): `_redirects` hit 2,019 static rules,
+ * over Cloudflare's 2,000-rule ceiling -- new rules were being silently
+ * dropped. The obvious-looking fix -- collapsing the "Flattened resource
+ * URLs" block into a handful of `:splat`/placeholder wildcard rules, one
+ * per resource type -- was deliberately NOT done: see this file's own
+ * "Why static rather than placeholder rules" note above. That's a direct,
+ * documented account of this exact two-segment `/resources/:type/:slug/`
+ * shape failing in production under placeholder matching, and there is no
+ * write-scoped Cloudflare API access available in this environment to
+ * safely validate a different outcome before it ships. Instead: (1) the
+ * CONSOLIDATED_RESOURCES over-enumeration below was narrowed to each old
+ * slug's actual former type (~192 rules saved, safe, same enumerated-rule
+ * strategy), and (2) the "Flattened resource URLs" block -- the real
+ * long-term growth driver -- was exported as a Cloudflare Bulk Redirects
+ * CSV import for manual setup via the dashboard (Bulk Redirects sit in
+ * front of Pages, are enumerated/static like this file so they carry the
+ * same production-proven matching behaviour, and are NOT subject to the
+ * 2,000-rule ceiling). Once Bulk Redirects is confirmed live in the
+ * Cloudflare dashboard, the flattened-block emission loop below can be
+ * removed from this generator -- do not remove it before that migration is
+ * verified, or every legacy `/resources/<type>/<slug>/` URL breaks at
+ * once. See docs/decision-log.md D-147 for the full account.
+ *
  * Run: npm run generate:redirects  (build does this automatically)
  */
 import { readdir, readFile, writeFile } from 'node:fs/promises';
@@ -143,6 +166,56 @@ const CONSOLIDATED_RESOURCES = {
  */
 const TYPE_CHANGED_RESOURCES = {};
 
+/**
+ * The `resourceType` each CONSOLIDATED_RESOURCES old slug actually carried
+ * immediately before its file was deleted (recovered from git history:
+ * `git show <delete-commit>^:src/content/resources/<oldSlug>.md`). Used to
+ * emit only the bare old-slug rule plus this ONE type-prefixed variant,
+ * instead of blindly enumerating all seven RESOURCE_TYPES per retired slug
+ * (a resource can only ever have carried one resourceType at a time, so six
+ * of the seven were always dead weight). Added 2026-09-07 when this
+ * over-enumeration was identified as the cheapest safe cut once
+ * `_redirects` breached Cloudflare's 2,000-static-rule ceiling (2,019
+ * rules) -- see docs/decision-log.md D-147. Populate a new entry the same
+ * way whenever a resource is added to CONSOLIDATED_RESOURCES; if its former
+ * type can't be recovered from history, fall back to emitting all of
+ * RESOURCE_TYPES for that one slug rather than guessing.
+ */
+const CONSOLIDATED_RESOURCE_FORMER_TYPES = {
+  'stoichiometry': 'study-guides',
+  'atoms-elements-and-compounds': 'study-guides',
+  'ict-computer-systems-revision-notes': 'revision-notes',
+  'world-history-nineteenth-century-revision-notes': 'revision-notes',
+  'english-language-analysis-practice': 'practice-questions',
+  'as-chem-equilibria-practice': 'practice-questions',
+  'igcse-accounting-fundamentals-practice': 'practice-questions',
+  'english-language-analysis-revision-notes': 'revision-notes',
+  'graphs-and-curves-practice': 'practice-questions',
+  'igcse-economics-basic-problem-practice': 'practice-questions',
+  'igcse-ict-computer-systems-practice': 'practice-questions',
+  'as-physics-deformation-of-solids-practice': 'practice-questions',
+  'as-chem-bonding-shapes-practice': 'practice-questions',
+  'fundamentals-of-accounting-revision-notes': 'revision-notes',
+  'commerce-and-production-revision-notes': 'revision-notes',
+  'as-chem-equilibria-revision-notes': 'revision-notes',
+  'as-chem-bonding-shapes-revision-notes': 'revision-notes',
+  'igcse-geography-population-settlement-practice': 'practice-questions',
+  'igcse-biology-organisation-practice': 'practice-questions',
+  'igcse-commerce-production-practice': 'practice-questions',
+  'graphs-and-curves-revision-notes': 'revision-notes',
+  'igcse-world-history-nineteenth-century-practice': 'practice-questions',
+  'a-psychology-approaches-practice': 'practice-questions',
+  'as-chem-energetics-revision-notes': 'revision-notes',
+  'as-chem-energetics-practice': 'practice-questions',
+  'igcse-computer-science-algorithms-practice': 'practice-questions',
+  'population-and-settlement-revision-notes': 'revision-notes',
+  'psychology-approaches-and-debates-revision-notes': 'revision-notes',
+  'the-basic-economic-problem-revision-notes': 'revision-notes',
+  'law-english-legal-system-revision-notes': 'revision-notes',
+  'sociology-research-methods-revision-notes': 'revision-notes',
+  'oxfordaqa-a-level-economics-global-economy-revision-notes': 'revision-notes',
+};
+
 const slugsIn = async (dir) =>
   (await readdir(dir)).filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, ''));
 
@@ -196,10 +269,12 @@ for (const { code, hubPath } of codeEntries) {
   }
 }
 
-lines.push('', '# Consolidated resources: old slug (flat + every nested type) -> surviving resource');
+lines.push('', '# Consolidated resources: old slug (flat + its former type) -> surviving resource');
 for (const [oldSlug, newSlug] of Object.entries(CONSOLIDATED_RESOURCES)) {
   lines.push(`${pad(`/resources/${oldSlug}/`)}/resources/${newSlug}/  301`);
-  for (const type of RESOURCE_TYPES) {
+  const formerType = CONSOLIDATED_RESOURCE_FORMER_TYPES[oldSlug];
+  const typesToEmit = formerType ? [formerType] : RESOURCE_TYPES;
+  for (const type of typesToEmit) {
     lines.push(`${pad(`/resources/${type}/${oldSlug}/`)}/resources/${newSlug}/  301`);
   }
 }
