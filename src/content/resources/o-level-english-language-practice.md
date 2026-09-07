@@ -17,10 +17,12 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
+> **These are original questions written for Marlbridge**, for revision and practice
+> on this content. They are **not** reproduced past-paper questions, and question
+> 7 below has been rebuilt to the board's own summary tariff and word limit --
 > examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> official past papers available free from your board for practice at the exact
+> format the board sets.
 
 Related: [O Level English Language revision notes](/resources/o-level-english-language-revision-notes/)
 
@@ -51,9 +53,11 @@ Related: [O Level English Language revision notes](/resources/o-level-english-la
 
 ---
 
-## Section C
+**7.** Read the following source, then summarise the effects of the scheme, both positive and negative, on the town and its residents. Write your summary in **continuous prose**, in your own words, using **no more than 150 words**. Up to 15 marks are available for content and up to 5 for the quality of your own language. **[20]**
 
-**7.** A source reads: "The scheme reduced congestion by 20%. It also cut air pollution. However, small shopkeepers reported a fall in trade, and some elderly residents found the new routes confusing." Select the relevant points and write them as **continuous prose**, in your own words, in **no more than 40 words**. **[4]**
+> "When the town council closed the old market square to private cars two years ago, the immediate effect was a 20% fall in traffic congestion in the surrounding streets during peak hours. Air quality monitors placed around the square also recorded a measurable drop in nitrogen dioxide levels, which the council's health advisor linked to a fall in reported respiratory complaints among residents living closest to the square. Cyclists and pedestrians have reported feeling noticeably safer crossing the square, and a weekly market has since expanded into the newly pedestrianised space, attracting new stallholders who could not previously have set up there.
+>
+> However, the scheme has not been welcomed by everyone. Small shopkeepers on the square's edge reported a fall in passing trade of around 15%, since customers who used to park directly outside now have to walk from a car park several streets away, and several said this was a serious burden for elderly or less mobile customers doing a weekly shop. Some elderly residents have also found the new one-way routes around the square confusing, with two local charities reporting an increase in calls from older residents asking for help planning journeys that used to be straightforward. Delivery drivers, too, have complained that restricted access adds significant time to their rounds, a cost some say is eventually passed on to customers through higher prices."
 
 **8.** A student writes: "The writer uses a metaphor to make it more interesting." Explain why this would earn no marks for a Use of Language question, then rewrite it as a strong response analysing the effect of the metaphor "the crowd was a river." **[3]**
 
@@ -77,7 +81,9 @@ Related: [O Level English Language revision notes](/resources/o-level-english-la
 **6.** Identify **how many separate points the mark allocation requires** — 3 marks usually means three distinct points [1]. **Answer in your own words** wherever the question asks you to explain, using short quotations only as evidence [1]. Keep each point **brief and directly answering the question asked** [1].
 Quoting a whole sentence loses marks because it **does not demonstrate understanding** — the examiner cannot tell whether you have identified which part of the sentence answers the question, and "own words" questions explicitly require you to show comprehension by rewording [1].
 
-**7.** Points: congestion fell by a fifth [1]; air quality improved [1]; small shopkeepers/businesses lost trade [1]; older residents struggled with the new routes [1]. Model answer, in continuous prose and the student's own words: *"Traffic levels dropped by a fifth and the air became cleaner, though small retailers saw takings decline and older people found the altered routes difficult to follow."* Any answer capturing all four points in continuous prose, in the student's own words, within the limit, earns full marks.
+**7.** Content points (up to 15 marks, roughly 1 mark per distinct point identified and reworded, to a maximum of 15): traffic congestion fell by a fifth at peak times [1]; air quality/nitrogen dioxide levels improved [1]; this was linked to fewer respiratory complaints nearby [1]; cyclists and pedestrians feel safer [1]; the market has expanded into the square [1]; new stallholders have joined [1]; small shopkeepers' trade fell by around 15% [1]; customers must now park further away [1]; this is a particular burden for elderly/less mobile customers [1]; some elderly residents find the new routes confusing [1]; charities have seen more calls for help with journeys [1]; delivery drivers report longer rounds [1]; this cost may be passed on to customers through higher prices [1]. Language marks (up to 5): reward continuous prose (not a list), your own words throughout, and staying within the word limit while covering points from both the positive and negative sides.
+
+Model answer, in continuous prose and the student's own words (within 150 words): *"Pedestrianising the square cut peak-time traffic by a fifth and improved local air quality, which has been linked to fewer breathing complaints nearby; cyclists and pedestrians also feel safer, and an expanding market has attracted new traders. However, nearby shopkeepers have lost around 15% of their trade now that customers must park further away, which particularly disadvantages elderly or less mobile shoppers. Some older residents also find the revised one-way routes confusing, leading to more requests for help from local charities, while delivery drivers report longer rounds and costs that may ultimately reach customers through higher prices."* A strong answer covers points from both sides, in continuous prose, within the word limit, rather than listing points separately or copying the source's own phrasing.
 
 **8.** Naming a device (metaphor) without explaining its **effect on the reader** demonstrates nothing — Use of Language marks reward *how* the writer achieves an effect, not device-spotting [1]. Strong response: *"The metaphor 'the crowd was a river' suggests the people moved as one uncontrollable mass, emphasising the narrator's helplessness within it."* — briefly quoting, then explaining the specific effect the image creates [2].
 

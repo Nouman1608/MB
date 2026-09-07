@@ -69,9 +69,12 @@ diversity or change, so having a clear, separately organised bank of
 examples and terminology for each — rather than one blended set — pays
 off directly in the exam.
 
-The five analytical lenses the specification names — personal, social,
-geographical and temporal context, and audience/purpose/genre/mode —
-form a reusable framework applicable to any text you're given. When
+The specification's two content statements on context (personal,
+social, geographical and temporal) and on audience, purpose, genre and
+mode can be grouped, as a revision aid, into five analytical lenses
+applicable to any text you're given — this grouping is an editorial
+convenience for organising revision, not a framework the specification
+itself names. When
 analysing an unfamiliar text in this section, work through each lens in
 turn: who produced it and in what social/geographical context; when was
 it produced (relevant to a change-focused answer); who is the intended
@@ -114,9 +117,10 @@ social group, such as an occupational group, gender group, or ethnic
 group, as distinct from a regional dialect. **Dialect** — a variety of
 language associated with a geographical region or national/
 international area, differing in vocabulary, grammar and sometimes
-pronunciation from other varieties. **Mode** — whether a text is
-written, spoken or electronic, a factor that shapes its language
-choices independently of audience or purpose. **Representation** — how
+pronunciation from other varieties. **Mode** — a spectrum running from
+spoken to written, with digital and electronic forms sitting between
+the two, that interacts with audience and purpose to shape a text's
+language choices. **Representation** — how
 language is used to construct a particular image or portrayal of a
 group or individual, which may reinforce or challenge social attitudes.
 **Language change** — the observable shift in vocabulary, grammar,
@@ -127,6 +131,47 @@ variation versus geography-based variation — is a foundational
 distinction this whole content area depends on, and conflating the two
 is one of the most common lower-band errors in essays on diversity.
 
+## Named positions on diversity
+
+Key areas of social variation and their leading positions, useful as citable evaluative material in a
+diversity essay:
+
+- **Gender** — Lakoff's deficit model, Tannen's difference model, Zimmerman and West on interruption,
+and later critiques arguing gendered language differences are exaggerated and context-dependent.
+- **Social class and region** — accent and dialect, Labov's department store study, Trudgill on
+Norwich, overt and covert prestige.
+- **Occupation** — jargon and specialist lexis creating in-groups.
+- **Ethnicity** — varieties such as MLE, and attitudes toward them.
+- **Power** — Fairclough on influential and instrumental power, and the linguistic means by which it is
+exercised: imperatives, modality, interruption, topic control.
+
+Attitudes to language variation are examinable in themselves: **prescriptivism** treats change as
+decline, **descriptivism** treats it as natural variation. A strong essay names a position, applies it
+to the data provided, and cites a critique or counter-position rather than presenting any one theorist
+as settled fact.
+
+## Named views on why language changes
+
+The evaluative essay on language change credits engagement with named positions, not just the
+prescriptivist/descriptivist split above:
+
+- **Jean Aitchison's three metaphors for the prescriptivist reaction to change** — the **Damp Spoon**
+image (change as laziness), the **Crumbling Castle** image (change as decay of a once-perfect
+structure), and the **Infectious Disease** image (change as contagion spreading through careless
+speakers) — each of which Aitchison herself rejects in favour of a descriptivist, "language as a
+living, evolving system" position.
+- **The S-curve model of lexical diffusion** — a new form spreads slowly among a few users, then
+rapidly through the wider population, then slowly again as it reaches the last holdouts, producing an
+S-shaped curve when adoption is plotted against time.
+- **Functional theory** (associated with David Crystal and Jean Aitchison) — language changes to meet
+new communicative needs, such as new technology or social change requiring new vocabulary or
+structures, rather than declining through carelessness.
+- **Random fluctuation theory** — some changes have no clear social or functional cause and are better
+explained as arbitrary drift than as evidence of a single driving mechanism.
+
+A strong evaluative essay engages with more than one of these named positions and reaches a judgement,
+rather than relying solely on the prescriptivist/descriptivist opposition.
+
 ## Common mistakes
 
 Treating "diversity" and "change" as the same topic rather than
@@ -136,7 +181,8 @@ genre and mode. Describing a language feature (a sociolect term, a
 dialect form) without explaining its social function or what it reveals
 about identity or relationships. Using examples only from the present
 day when a question specifically addresses language change, missing
-the specification's 1600-to-present timeframe.
+the specification's 1600-to-present timeframe. Applying gender or class
+theories as settled fact rather than contested positions.
 
 ## Quick revision checklist
 

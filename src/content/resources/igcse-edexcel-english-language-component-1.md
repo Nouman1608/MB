@@ -7,7 +7,7 @@ topic: "Component 1 – Non-fiction Texts and Transactional Writing"
 boards: ["edexcel"]
 qualifications: ["igcse"]
 syllabusCodes: ["4EA1"]
-syllabusSeries: "For first teaching 2016 (Issue 6, 2023)"
+syllabusSeries: "For first teaching 2016 (Issue 7, August 2025)"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -20,7 +20,7 @@ featured: false
 
 This guide covers **Component 1 – Non-fiction Texts and Transactional
 Writing**, for Pearson Edexcel International GCSE English Language A
-(4EA1), Issue 6 (2023). Language syllabuses are organised around named
+(4EA1), Issue 7 (August 2025). Language specifications are organised around named
 components and skills rather than a numbered content taxonomy, since
 the subject matter of any given exam's texts changes each series. This
 means revision for a Language qualification looks different from
@@ -37,32 +37,63 @@ Section A, then transactional (purpose-driven, real-world) writing
 skills in Section B. Pairing reading and writing around the same genre
 within one component is a deliberate design choice, reflecting the idea
 that reading closely and analytically strengthens a candidate's own
-writing within that same genre, and vice versa. It sits alongside Component 2 (Poetry and Prose
-Texts and Imaginative Writing, not covered in this guide), which pairs
-literary reading with creative writing instead — so the qualification
-as a whole tests reading and writing twice over, each time paired with
-a different genre and a different writing mode (transactional versus
-imaginative), rather than testing reading and writing as two separate,
-unrelated halves. Confirm with your
-teacher the exact weighting between the two components for your own
-exam series before deciding how to split revision time — since the
-relative weighting can affect how much time is proportionally worth
-devoting to non-fiction and transactional-writing skills versus the
-literary and imaginative-writing skills tested in Component 2.
+writing within that same genre, and vice versa. Component 1 is
+compulsory and worth 60% of the qualification. Candidates then take
+**either** Component 2 (Poetry and Prose Texts and Imaginative Writing,
+an externally examined paper, not covered in this guide) **or**
+Component 3 (the same Poetry and Prose Texts and Imaginative Writing
+content, but assessed as internally marked, externally moderated
+coursework instead of an exam) — both alternatives are worth the
+remaining 40%, so the qualification as a whole tests reading and
+writing twice over, each time paired with a different genre and a
+different writing mode (transactional versus imaginative), rather than
+testing reading and writing as two separate, unrelated halves. The 60%
+and 40% weighting is fixed and does not vary by series or centre;
+check with your teacher only which of Component 2 or Component 3 your
+centre has entered you for, since that determines the exact skills the
+second half of your revision should target. Some centres also enter
+candidates for the optional Spoken Language Endorsement, a separately
+assessed and separately graded component that does not contribute to
+the overall qualification grade.
 
-## Syllabus coverage
+## Assessment at a glance
+
+Component 1 is **2 hours 15 minutes** long, marked out of **90** (45 for
+Section A, 45 for Section B) and worth **60%** of the qualification.
+Pearson's advised timing is roughly **1 hour 30 minutes** for Section A
+and **45 minutes** for Section B — reading and interpreting two texts
+in detail takes longer than the single writing task, even though the
+two sections carry equal marks. Section B offers a **choice of two**
+writing prompts, from which you answer one.
+
+## Specification coverage
 
 **PEARSON EDEXCEL INTERNATIONAL GCSE ENGLISH LANGUAGE A (4EA1) —
 COMPONENT 1**
 
-- 1.1 Section A: Non-fiction Texts — reading unseen non-fiction
-extracts and answering questions testing comprehension, inference, and
-analysis of a writer's language, structure and viewpoint, progressing
-from explicit meaning through to implied and analytical layers
-- 1.2 Section B: Transactional Writing — writing for a specified
-real-world purpose and audience (such as a letter, article, speech or
-report), assessed on both content/organisation and technical accuracy,
-with each assessed strand contributing separately to the final mark
+- 1.1 Section A: Non-fiction Texts — a mixture of short- and
+long-answer questions on **a non-fiction text from Part 1 of the
+Pearson Edexcel International GCSE English Anthology** (supplied in
+the exam) **and one previously unseen extract**, testing comprehension
+(AO1), analysis of a writer's language and structural devices (AO2),
+and exploring links and connections between the two texts' ideas and
+perspectives (AO3) -- 45 marks
+- 1.2 Section B: Transactional Writing — one 45-mark task from a
+choice of two prompts, writing in one of six specified forms (article
+for a magazine or newspaper, speech, letter, guide, review, or the
+text of a leaflet) for a given audience, form and purpose, assessed on
+communication and adaptation of form/tone/register (AO4) and technical
+accuracy (AO5)
+
+The ten Part 1 anthology texts are: *The Danger of a Single Story*
+(Chimamanda Ngozi Adichie), *A Passage to Africa* (George Alagiah),
+*The Explorer's Daughter* (Kari Herbert), *Explorers, or boys messing
+about? Either way, taxpayer gets rescue bill* (Steven Morris), *127
+Hours: Between a Rock and a Hard Place* (Aron Ralston), *Young and
+Dyslexic? You've got it going on* (Benjamin Zephaniah), *A Game of
+Polo with a Headless Goat* (Emma Levine), *Beyond the Sky and Earth: A
+Journey into Bhutan* (Jamie Zeppa), *H is for Hawk* (Helen Macdonald),
+and *Chinese Cinderella* (Adeline Yen Mah).
 
 ## How to approach it
 
@@ -73,9 +104,11 @@ the text or quotes without analysing the language choice itself. A
 long answer that never gets specific about *why* a particular word or
 phrase was chosen typically scores lower than a shorter one that
 analyses one well-chosen quotation precisely.
-Practising with unseen non-fiction extracts under timed conditions is
-the most direct way to build this skill, since Component 1's texts are
-by definition unfamiliar on the day. For Section B, transactional
+Only one of the section's two texts is unseen on the day -- the other
+is one of the ten Part 1 anthology texts, supplied in the exam but
+knowable in advance, so genuine familiarity with all ten built up
+before the exam is worth as much preparation time as general unseen
+non-fiction practice. For Section B, transactional
 writing is graded on how precisely a response matches its stated
 purpose, audience and form — a letter that reads like a generic essay,
 or a speech that ignores its audience, loses marks regardless of how
@@ -90,14 +123,19 @@ Both sections are timed within the same paper, so practising complete Component 
 
 ## Section A in more depth — reading for meaning, not just facts
 
-Section A questions typically progress from more literal comprehension (identifying explicit
-information) through inference (working out implied meaning) to language and structural analysis
-(explaining the effect of specific word choices, or how the text is organised to build an argument
-or impression). Treat these as genuinely different skills rather than variations on the same task:
-a candidate confident identifying explicit facts can still lose marks on an inference or
-language-analysis question if they don't shift approach accordingly. Practising with a range of
-non-fiction genres — articles, speeches, reports, autobiographical writing — matters because
-Component 1's texts are unseen and can be drawn from any of these forms.
+Section A carries three assessment objectives across its 45 marks: **AO1** comprehension,
+selecting and interpreting information, ideas and perspectives (11 marks); **AO2** analysis of how
+writers use linguistic and structural devices to achieve their effects (12 marks); and **AO3**
+exploring links and connections between the two texts' ideas and perspectives -- comparison -- which
+alone carries 22 of the section's 45 marks and is 15% of the whole qualification, entirely within
+this component. Treat these as genuinely different skills rather than variations on the same task: a
+candidate confident identifying explicit facts can still lose marks on an inference, language-analysis
+or comparison question if they don't shift approach accordingly. Because the AO3 comparison question
+is worth almost half the section, it deserves proportionate preparation, not an afterthought behind
+the AO1 and AO2 questions. Practising with a range of non-fiction genres — articles, speeches,
+journals, reference-book extracts, autobiography, letters, obituaries and travel writing — matters
+both for the unseen extract and for building genuine familiarity with the ten Part 1 anthology
+texts, since either text can be the basis of any of the three questions.
 
 ## Section B in more depth — matching form, purpose and audience
 
@@ -110,8 +148,8 @@ briefly noting the specified purpose, audience and form, and checking the finish
 that note, catches the most common way marks are lost in this section: drifting into a generic
 essay-like register regardless of what form was actually asked for.
 
-## Official syllabus
+## Official specification
 
 Pearson Edexcel International GCSE English Language A (4EA1)
-specification, Issue 6 (2023) —
+specification, Issue 7 (August 2025) —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/English%20Language%20A/2016/Specification%20and%20sample%20assessments/9781446954379-int-gcse-englang-a-iss6-02-02-2023.pdf).

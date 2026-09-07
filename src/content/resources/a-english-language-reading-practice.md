@@ -18,10 +18,12 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
+> **These are original questions written for Marlbridge**, for revision and practice
+> on this content. They are **not** reproduced past-paper questions, and they do
+> **not** replicate the exam's own question format or stimulus length —
 > examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> official past papers available free from your board for practice at the exact
+> format and stimulus lengths the board sets.
 
 Related: [Reading and Analysis revision notes](/resources/a-english-language-reading-revision-notes/)
 
@@ -29,32 +31,30 @@ Related: [Reading and Analysis revision notes](/resources/a-english-language-rea
 
 ## Section A
 
-**1.** Define the following levels of language analysis: lexis, semantics, grammar, phonology, pragmatics. **[5]**
+**1.** Analyse the following levels of language analysis, stating what each one examines: lexis, semantics, grammar, phonology, pragmatics. **[5]**
 
-**2.** Explain what is meant by register and name the three variables that determine it. **[4]**
+**2.** Discuss what is meant by register, naming the three variables that determine it. **[4]**
 
 ## Section B
 
 **3.** Analyse the following opening of a charity appeal: *"Every eleven seconds, a child somewhere loses their sight to a disease we can cure for the price of a coffee."*
 
-**(a)** Comment on the lexical choices. **[4]**
-**(b)** Comment on the syntax and the effect of the fronted adverbial. **[3]**
-**(c)** Comment on the pragmatic effect on the reader. **[3]**
+**(a)** Analyse the lexical choices. **[4]**
+**(b)** Analyse the syntax and the effect of the fronted adverbial. **[3]**
+**(c)** Analyse the pragmatic effect on the reader. **[3]**
 
-**4.** Explain the difference between denotation and connotation, and analyse the connotations of "home", "house" and "residence". **[5]**
+**4.** Compare denotation and connotation, and analyse the connotations of "home", "house" and "residence". **[5]**
 
-**5.** Explain **three** grammatical features that mark a text as formal, giving an example of each. **[6]**
+**5.** Analyse **three** grammatical features that mark a text as formal, giving an example of each. **[6]**
 
-**6.** Explain how the following contribute to the coherence of a text: anaphoric reference, lexical field, discourse markers. **[6]**
-
-## Section C
+**6.** Analyse how the following contribute to the coherence of a text: anaphoric reference, lexical field, discourse markers. **[6]**
 
 **7.** A transcript shows a speaker saying: *"So, er, the thing is — right — we need to, um, we need to think about this differently."*
 
-**(a)** Identify **three** spoken language features present. **[3]**
-**(b)** Explain why these should not be analysed as errors. **[2]**
+**(a)** Analyse **three** spoken language features present. **[3]**
+**(b)** Discuss why these should not be analysed as errors. **[2]**
 
-**8.** Explain what a directed writing task requires that a summary does not, and state **two** things a strong commentary on your own directed writing must do. **[4]**
+**8.** Discuss what a directed writing task requires that a summary does not, and compare **two** things a strong Question 1(b) comparison of your own response with the original text must do. **[4]**
 
 ---
 
@@ -68,7 +68,7 @@ Related: [Reading and Analysis revision notes](/resources/a-english-language-rea
 **(b)** The **fronted adverbial "Every eleven seconds"** places the **statistic in the position of greatest emphasis**, before the reader knows what it refers to [1], creating a brief suspense and setting up an urgent, ticking rhythm [1]. The **single-sentence paragraph** isolates the claim so it cannot be skimmed past [1].
 **(c)** The reader **infers, without being told, that inaction has a cost measured in children's sight** [1]. The juxtaposition of a **child's blindness with a coffee** creates an implied accusation the reader must resolve [1], and the **inclusive "we can cure"** positions the reader as already part of the solution, making refusal feel like withdrawal rather than neutrality [1].
 
-**4. Denotation** is a word's **literal dictionary meaning** [1]; **connotation** is the **set of associations and emotional overtones** it carries beyond that [1]. All three words denote a **dwelling** [1]. "**Home**" connotes **warmth, belonging and family** [1]. "**House**" is **neutral and physical — a building** [1]. "**Residence**" is **formal, distancing and often legal or bureaucratic**, suggesting status or officialdom.
+**4. Denotation** is a word's **literal dictionary meaning** [1]; **connotation** is the **set of associations and emotional overtones** it carries beyond that [1]. "**Home**" connotes **warmth, belonging and family** [1]. "**House**" is **neutral and physical — a building** [1]. "**Residence**" is **formal, distancing and often legal or bureaucratic**, suggesting status or officialdom [1].
 
 **5.** Any three, 2 marks each: the **passive voice**, which removes the agent and creates impersonality — "it was decided that" rather than "we decided" [1] [1]; **nominalisation**, turning processes into nouns — "the implementation of the policy" rather than "we implemented the policy" — which makes the text denser and more abstract [1] [1]; the **absence of contractions and of elision** — "do not" rather than "don't" [1] [1]; **complex subordination and longer noun phrases** rather than short coordinated clauses [1] [1]; **third person rather than first or second person address** [1] [1].
 
@@ -77,7 +77,7 @@ Related: [Reading and Analysis revision notes](/resources/a-english-language-rea
 **7. (a)** Any three: **fillers** ("er", "um") [1]; a **discourse marker** used to open and manage the turn ("so", "right") [1]; **repetition/false start** ("we need to, um, we need to") [1].
 **(b)** These are **normal features of unplanned, spontaneous speech**, not mistakes [1]; each achieves something functional — a filler buys planning time, a repeated false start allows the speaker to reformulate mid-sentence, and "right" can hold the floor or signal a shift in the point being made [1].
 
-**8.** A directed writing task requires the candidate to **transform** a text for a new audience, purpose and form — selecting and rephrasing relevant material — rather than simply **summarising** its content [2]. A strong commentary must **analyse the writer's own choices using the language frameworks** (not just describe what was written) [1], and must **explain why each choice suits the specified audience and purpose**, since a commentary that only describes what was written scores in the lower bands [1].
+**8.** A directed writing task requires the candidate to **transform** a text for a new audience, purpose and form — selecting and rephrasing relevant material — rather than simply **summarising** its content [2]. A strong Question 1(b) answer must **compare the candidate's own response with the original text's form, structure and language using the language frameworks** (not just describe what was written) [1], and must **explain why each feature suits the specified audience and purpose in each text**, since an answer that only describes the candidate's own response scores in the lower bands [1].
 
 ---
 

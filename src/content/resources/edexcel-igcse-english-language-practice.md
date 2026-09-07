@@ -7,7 +7,7 @@ topic: "Component 1 – Non-fiction Texts and Transactional Writing"
 boards: ["edexcel"]
 qualifications: ["igcse"]
 syllabusCodes: ["4EA1"]
-syllabusSeries: "For first teaching 2016 (Issue 6, 2023)"
+syllabusSeries: "For first teaching 2016 (Issue 7, August 2025)"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -24,11 +24,23 @@ featured: false
 
 Related: [Non-fiction Texts and Transactional Writing revision notes](/resources/edexcel-igcse-english-language-revision-notes/)
 
+> **Component 1 in numbers:** 2 hours 15 minutes, 90 marks (45 for
+> Section A, 45 for Section B), 60% of the qualification. Advised timing
+> is around 1 hour 30 minutes for Section A and 45 minutes for Section
+> B, and Section B offers a choice of two prompts.
+
+> **Note on Section A texts:** in the real exam, Section A pairs one previously unseen extract with a
+> non-fiction text from **Part 1 of the Pearson Edexcel International GCSE English Anthology**
+> (supplied in the exam) -- it is not two unseen texts. The comparison and analysis questions below
+> are set on original extracts for practice purposes; make sure your own revision also includes
+> genuine familiarity with all ten Part 1 anthology texts, since either text in the real exam can be
+> the basis of any Section A question.
+
 ---
 
 ## Section A
 
-**1.** Name **four** forms of transactional writing and state one convention of each. **[4]**
+**1.** Name **four** of this specification's six named forms of transactional writing and state one convention of each. **[4]**
 
 **2.** Explain what is meant by a writer's **purpose** and give **four** possible purposes. **[3]**
 
@@ -61,7 +73,7 @@ Related: [Non-fiction Texts and Transactional Writing revision notes](/resources
 
 ## Answers
 
-**1.** Any four: a **letter** — address, date, appropriate salutation and sign-off [1]; an **article** — headline, subheadings, an engaging opening [1]; a **speech** — direct address to the audience and a call to action [1]; a **report** — title, headed sections, formal impersonal register, recommendations [1]; a **review** — description followed by evaluation and a recommendation.
+**1.** Any four of the six named forms: a **letter** — address, date, appropriate salutation and sign-off [1]; an **article** (for a magazine or newspaper) — headline, subheadings, an engaging opening [1]; a **speech** — direct address to the audience and a call to action [1]; a **guide** — clear step-by-step or numbered advice, headings, direct address [1]; a **review** — description followed by evaluation and a recommendation [1]; the **text of a leaflet** — headings, bullet points, a persuasive or informative tone [1].
 
 **2.** The writer's **purpose** is **what they want the text to achieve in the reader** [1]. Purposes include **to inform, to persuade, to entertain, to advise, to argue, to describe** [1] [1].
 
@@ -69,7 +81,7 @@ Related: [Non-fiction Texts and Transactional Writing revision notes](/resources
 **(b)** The **tricolon lists three complaints of escalating seriousness** [1], so the reader is led from minor inconvenience to genuine danger [1]. Placing the funniest and most serious item **last gives it the weight of a punchline**, which softens the criticism while sharpening it [1].
 
 **4.** Points of comparison, any four: **purpose** — what each writer wants to achieve [1]; **tone and attitude** towards the subject [1]; **structure** — how each text is organised and where its emphasis falls [1]; **language choices** — imagery, register, formality [1]; **use of evidence** — statistics versus anecdote [1]; **audience** each is written for [1].
-Common error: writing about **one text and then the other in separate halves**, rather than **comparing point by point with connectives such as "whereas" and "similarly"** [1] — an examiner cannot award comparison marks if no comparison is made.
+Common error: writing about **one text and then the other in separate halves**, rather than **comparing point by point with connectives such as "whereas" and "similarly"** [1] — an examiner cannot award comparison marks if no comparison is made [1].
 
 **5. (a)** **Audience** — fellow students, roughly your own age [1]. **Purpose** — to advise [1]. **Tone** — friendly, reassuring and practical, not lecturing [1].
 **(b)** Any three, 2 marks each: an **engaging headline and standfirst** that make a student want to read on rather than turn the page [1] [1]; **subheadings breaking the advice into manageable sections**, since a stressed reader is scanning rather than reading closely [1] [1]; **direct address and rhetorical questions** to create a conversational relationship [1] [1]; a **memorable closing line or single practical takeaway** [1] [1].

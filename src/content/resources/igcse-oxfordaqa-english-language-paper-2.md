@@ -7,7 +7,7 @@ topic: "Paper 2 – Source-based Reading and Directed Writing"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9270"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -19,7 +19,7 @@ featured: false
 ---
 
 This guide covers **Paper 2 Source-based Reading and Directed Writing**,
-for OxfordAQA International GCSE English Language (9270), Version 4.2,
+for OxfordAQA International GCSE English Language (9270), Version 5.1,
 for exams May/June 2018 onwards. Paper 2 is worth 40% of the overall
 qualification and is the mainstream exam alternative to the non-exam
 assessment (NEA) project route.
@@ -71,7 +71,8 @@ a different skill from reading continuous prose.
 
 The Section B writing task is "directed" specifically because it names
 an audience and purpose the response must serve — unlike Paper 1's
-choice of descriptive, imaginative or argumentative composition. Before
+choice of descriptive, imaginative, argumentative or discursive
+composition. Before
 drafting, identify exactly who the writing is for and what it needs to
 achieve, and check the finished response against both, since AO2 rewards
 adapting form and register to that specific audience and purpose rather
@@ -98,8 +99,8 @@ length without checking the response actually serves the specified
 audience and purpose. Treating a visual or brief source as less
 significant than a longer prose text, when it may carry just as much
 assessable meaning. Neglecting technical accuracy (W4) under time
-pressure, when it is assessed with equal weight to content and
-organisation.
+pressure -- it is worth 10 of Section B's 40 marks, a quarter of the
+section, not an equal half against the other three writing objectives.
 
 ## Worked example: matching writing to audience and purpose
 
@@ -132,8 +133,9 @@ visual/graphic sources, not just literary prose.
 sentence each, and check the finished response against both.
 - Revise AO1 (reading) and AO2 (writing) together, since Paper 2 tests
 both in a single, thematically linked paper.
-- Do not neglect technical accuracy (W4) under time pressure -- it
-carries equal weight within AO2.
+- Do not neglect technical accuracy (W4) under time pressure -- it is
+worth 10 of Section B's 40 marks (the other three writing objectives
+share the remaining 30), so it is a quarter of the section, not half.
 
 This mirrors how Paper 1's reading section works, but with a deliberately
 different register of source material to test breadth of reading skill
@@ -147,4 +149,4 @@ across genres.
 ## Official syllabus
 
 OxfordAQA International GCSE English Language (9270) specification,
-Version 4.2 — [oxfordaqaexams.org.uk/9270](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-english-language-specification.pdf).
+Version 5.1 — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-english-language-specification.pdf).

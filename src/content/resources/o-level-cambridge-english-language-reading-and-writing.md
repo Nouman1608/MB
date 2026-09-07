@@ -19,27 +19,29 @@ featured: false
 ---
 
 This guide covers the full content structure of Cambridge O-Level
-English Language (1123), for examination 2024-2026 -- the simplest
-English Language syllabus in the Cambridge suite, organised into just
-two skill strands with no further named sub-sections.
+English Language (1123), for examination 2024-2026, organised into two
+papers, each with two named sections.
 
 ## Where this fits in 1123
 
-Unlike Cambridge's IGCSE and AS & A Level English Language syllabuses,
-which break content into multiple papers and named sections, this
-O-Level is built around a single, clean division: Reading (Paper 1,
-50%) and Writing (Paper 2, 50%). There is no separate literature,
-listening or speaking component.
+This O-Level is built around two equally-weighted papers: Reading
+(Paper 1, 50%), split into **Comprehension and use of language** and
+**Summary and short response** sections, and Writing (Paper 2, 50%),
+split into **Directed writing** and **Composition** sections. There is
+no separate literature, listening or speaking component.
 
 ## Syllabus coverage
 
 **CAMBRIDGE O-LEVEL ENGLISH LANGUAGE (1123) — READING AND WRITING**
 
-- Topic 1: Reading (Paper 1, 50%) — reading a range of texts and
-responding to questions testing comprehension, understanding of
-writers' choices and language, and summary skills
-- Topic 2: Writing (Paper 2, 50%) — producing pieces of directed and
-continuous writing for different purposes and audiences
+- Paper 1: Reading (50%) — **Comprehension and use of language**
+(reading a range of texts and responding to questions testing
+comprehension and understanding of writers' choices and language) and
+**Summary and short response** (selecting and expressing relevant
+points concisely in your own words)
+- Paper 2: Writing (50%) — **Directed writing** (producing a piece for
+a specified form, audience and purpose) and **Composition** (an
+extended piece from a choice of descriptive or narrative options)
 
 ## How to approach it
 
@@ -59,6 +61,10 @@ more reliably than focusing on vocabulary alone.
 Cambridge O-Level English Language (1123) syllabus for 2024, 2025 and
 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634453-2024-2026-syllabus.pdf).
+A successor syllabus for 2027 and 2028 has since been published under
+the same code; it states there are no significant changes affecting
+teaching, so the technique and structure content here remains current,
+but check the latest syllabus for your own exam series.
 
 ## Reading: comprehension and summary
 
@@ -87,15 +93,14 @@ Quote briefly, explain what the image suggests, then link it to the reader's imp
 
 ## Writing: directed and composition
 
-**Directed writing** provides a form, audience and purpose — a letter, speech, report or article. All three must be honoured: form governs conventions, audience governs register, purpose governs structure.
+**Directed writing** provides a form, audience and purpose from five possible forms — a **speech, email, report, letter or article** — and the task itself is typically discursive, argumentative or persuasive in content. All three of form, audience and purpose must be honoured: form governs conventions, audience governs register, purpose governs structure.
 
-For a persuasive form such as a speech, a small set of techniques does most of the work: **rhetorical questions**, which invite the audience to reach the conclusion for themselves rather than being told it; **the rule of three**, which is especially memorable in speech since a listener cannot go back and reread; **personal anecdote**, which makes an abstract issue concrete and emotionally real; and **inclusive pronouns** such as "we" and "our", which create a sense of shared responsibility between speaker and audience. Using two or three of these deliberately, rather than reaching for all of them at once, tends to read as more controlled and more persuasive.
+For a persuasive form such as a speech, a small set of techniques does most of the work: **rhetorical questions**, which invite the audience to reach the conclusion for themselves rather than being told it; **the rule of three**, which is especially memorable in speech since a listener cannot go back and reread; **personal anecdote**, which makes an abstract issue concrete and emotionally real; and **inclusive pronouns** such as "we" and "our", which create a sense of shared responsibility between speaker and audience. Using two or three of these deliberately, rather than reaching for all of them at once, tends to read as more controlled and more persuasive. Since the directed writing task itself is often discursive or argumentative, a clear line of argument, two or three developed points, and genuine acknowledgement of the counter-argument belong here, not in the composition section.
 
-**Composition** offers narrative, descriptive and argumentative options. Choose on the basis of what you can sustain, not what sounds impressive.
+**Composition** offers a choice of four questions -- **two descriptive and two narrative** -- rather than any argumentative option, which sits in directed writing instead. Choose on the basis of what you can sustain, not what sounds impressive.
 
 - **Narrative** — a simple plot told well beats an elaborate one told badly. Decide the ending before you start.
 - **Descriptive** — build atmosphere through the senses and precise detail; resist the urge to introduce a plot.
-- **Argumentative** — a clear line of argument, two or three developed points, and genuine acknowledgement of the counter-argument.
 
 Plan for five minutes. Unplanned writing drifts, and organisation marks go with it.
 
@@ -121,7 +126,7 @@ In own words, continuous prose:
 small retailers saw takings decline and older people found the altered
 routes difficult to follow."
 
-44 words, all four points, no lifted phrasing.
+27 words, all four points, no lifted phrasing.
 ```
 
 ## Common mistakes

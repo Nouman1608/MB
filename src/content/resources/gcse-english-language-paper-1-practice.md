@@ -7,6 +7,7 @@ topic: "Paper 1 – Explorations in Creative Reading and Writing"
 boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8700"]
+syllabusSeries: "For first teaching 2015"
 order: 1
 syllabusTopics:
   - qualification: "gcse"
@@ -46,7 +47,7 @@ Related: [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/) |
 
 **7.** A student decides to compare the Paper 1 extract with a poem studied in class, hoping this will strengthen their answer. Explain why this is a wasted strategy on this paper specifically. **[2]**
 
-**8.** Technical accuracy is worth 16 of the 40 marks available in Section B. Explain why spelling and punctuation errors can cap a response in the highest mark band even when its ideas and structure are strong. **[3]**
+**8.** Technical accuracy is worth 16 of the 40 marks available in Section B, marked as a separate allocation from the 24 marks for content and organisation. Explain why spelling and punctuation errors specifically cap the technical-accuracy mark, even when a response's ideas and structure are strong. **[3]**
 
 ---
 
@@ -66,7 +67,7 @@ Related: [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/) |
 
 **7.** Paper 1's Section A works from a **single extract**, and AO3 (comparing writers across texts) is **not** assessed on this paper — it belongs entirely to Paper 2 [1]. Time spent drawing in an unrelated text earns no marks here and would be better spent developing the analysis of the given extract itself [1].
 
-**8.** At 16 of 40 marks, technical accuracy accounts for 40% of the writing task's total, not a minor add-on [1]. Exam boards cap the highest mark bands for content and organisation at a lower technical-accuracy band if spelling and punctuation are weak [1], so persistent errors prevent a response from reaching the top band overall, however strong its ideas, meaning time must be left at the end specifically to check the writing [1].
+**8.** At 16 of 40 marks, technical accuracy accounts for 40% of the writing task's total, not a minor add-on [1]. Content and organisation (24 marks) and technical accuracy (16 marks) are marked as separate allocations, so persistent spelling and punctuation errors cap only the technical-accuracy mark, not the content and organisation mark [1]; because that allocation is still 40% of the section, weak accuracy caps a substantial share of the available marks even where the ideas are strong, so time must be left at the end specifically to check the writing [1].
 
 ---
 

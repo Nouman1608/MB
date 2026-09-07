@@ -7,12 +7,12 @@ topic: "Paper 1 – Literary Non-fiction and Composition"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9270"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-literary-non-fiction-and-composition-9270"
-description: "Original exam-style practice questions with full worked answers on reading non-fiction, language analysis, comparison and writing."
+description: "Original exam-style practice questions with full worked answers on reading non-fiction, language and structural analysis, evaluating viewpoint and writing."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -32,8 +32,6 @@ Related: [English Language revision notes](/resources/oxfordaqa-english-language
 
 **2.** Explain how to use the "point, evidence, explanation" structure in an analysis paragraph, and state the most common weakness. **[4]**
 
-## Section B
-
 **3.** A writer describes a city at night: *"Neon spilled across wet tarmac, and the street held its breath between one siren and the next."*
 
 **(a)** Analyse the effect of the verb "spilled". **[3]**
@@ -42,7 +40,9 @@ Related: [English Language revision notes](/resources/oxfordaqa-english-language
 
 **4.** Explain **four** structural features a writer can use to control a reader's attention across a whole text. **[8]**
 
-**5.** Explain how to compare two texts' viewpoints effectively, giving **three** things to compare and **one** common mistake. **[6]**
+**5.** Explain how to evaluate a writer's viewpoint across a single whole non-fiction text, giving **three** things to look for and **one** common mistake. **[6]**
+
+## Section B — Composition
 
 **6.** You are writing an article arguing that homework should be abolished.
 
@@ -65,8 +65,8 @@ Related: [English Language revision notes](/resources/oxfordaqa-english-language
 
 **4.** Any four, 2 marks each: **the opening** — beginning in the middle of the action, or with a striking image or question, which creates a question the reader wants answered [1] [1]. **Shifts in focus** — moving from a wide external view to a single detail, which narrows attention and increases intensity [1] [1]. **Paragraph and sentence length** — short paragraphs isolate an idea and force a pause, so they carry disproportionate weight [1] [1]. **Repetition or a motif** returning through the text, which creates cohesion and signals significance [1] [1]. **A cyclical or circular ending** that returns to the opening image, so the reader measures the distance travelled [1] [1]. **Withheld information** revealed late, which sustains tension [1] [1].
 
-**5.** Compare the writers' **attitudes to the same subject** — whether they approve, criticise or remain detached [1]; their **tone and register**, and how formality shapes the reader's relationship with the writer [1]; the **methods each uses to convey the viewpoint** — statistics versus anecdote, emotive versus neutral lexis [1]; and the **audience and purpose** each is writing for, which explains the differences [1].
-Common mistake: **writing about text A and then text B in two separate halves** [1]. Comparison marks require the texts to be **placed side by side within the same paragraph**, using connectives such as "whereas", "by contrast" and "similarly" [1].
+**5.** Look for the writer's **attitude conveyed through word choice and connotation**, which reveals a stance even where it is never stated outright [1]; the **methods used to support that stance** — statistics, expert quotation, anecdote or emotive language — and what the choice suggests about the intended audience [1]; and **shifts in tone across the whole text**, since a viewpoint can harden or soften as the piece develops [1].
+Common mistake: **treating a text as neutral simply because it reports facts** [1] — the selection and framing of those facts already constructs a viewpoint, so a strong answer identifies the writer's stance from such choices across the whole text rather than waiting for an explicit statement of opinion [2].
 
 **6. (a)** Any three, 2 marks each: **rhetorical questions** — invite the reader to reach the conclusion themselves, which is more persuasive than being told [1] [1]. **Statistics and expert evidence** — lend authority and make the argument hard to dismiss as personal opinion [1] [1]. **Anecdote** — makes an abstract policy argument emotionally concrete and relatable [1] [1]. **Direct address and inclusive pronouns** — position the reader as an ally who already shares the writer's concern [1] [1]. **The rule of three or a triplet** — creates a memorable rhythm that lodges the point [1] [1].
 **(b)** It shows the writer is **informed and reasonable rather than one-sided**, which makes the reader more willing to trust them [1]. It allows the writer to **rebut the strongest opposing point directly**, so the reader has no unanswered objection left [1]. A piece that ignores the counter-argument invites the reader to supply it themselves, which weakens the case [1].
@@ -79,6 +79,6 @@ Common mistake: **writing about text A and then text B in two separate halves** 
 
 - Identifying a technique without analysing its effect.
 - Restating the quotation instead of explaining it.
-- Comparing texts sequentially rather than point by point.
+- Assuming a factual-sounding text has no viewpoint, rather than reading its selection and framing of facts as evidence of one.
 - Writing a persuasive piece with no acknowledgement of the other side.
 - Reaching for ambitious vocabulary that is used incorrectly, rather than controlled, accurate range.

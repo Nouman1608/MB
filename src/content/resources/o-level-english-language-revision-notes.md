@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "reading-1123"
-description: "Condensed recall notes on the structure of both papers, the assessment objectives and technique for Cambridge O Level English Language 1123 (2027-2028)."
+description: "Condensed recall notes on the structure of both papers, the assessment objectives and technique for Cambridge O Level English Language 1123 (2024-2026)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -74,7 +74,7 @@ W5 means accuracy is directly credited — proofreading is not optional.
 - **Q2 Use of Language:** quote briefly, then explain the **effect on the reader**. Naming a device alone scores nothing (R4). *Weak:* "The writer uses a metaphor to make it more interesting." *Strong:* "The metaphor 'the crowd was a river' suggests the people moved as one uncontrollable mass, emphasising the narrator's helplessness within it."
 - **Q3a Summary:** identify every relevant point first, then write continuously in your own words within 150 words.
 - **Directed Writing:** honour form, purpose **and** audience; develop and evaluate the source ideas rather than copying them.
-- **Composition:** choose **narrative, descriptive or argumentative** based on what you can sustain, not what sounds impressive — a simple plot told well beats an elaborate one told badly, and a clear argumentative line needs genuine acknowledgement of the counter-argument. Plan before writing; range and accuracy carry as much weight as content.
+- **Composition:** choose from **two descriptive and two narrative** options based on what you can sustain, not what sounds impressive — a simple plot told well beats an elaborate one told badly. (Argumentative writing belongs to the directed writing task, not composition.) Plan before writing; range and accuracy carry as much weight as content.
 
 ## Exam traps
 
@@ -94,8 +94,8 @@ W5 means accuracy is directly credited — proofreading is not optional.
 3. What is the word limit for the summary?
 4. What proportion of Paper 2 is awarded for reading?
 5. Which assessment objective covers register?
-6. Name the three composition options on Paper 2 Section B.
+6. Name the composition options on Paper 2 Section B.
 7. Why does reading the questions before the passage help?
 8. Describe the two-step method for writing a good summary.
 
-**Answers:** 1. Both 2 hours, 50 marks, 50% each. 2. 9 marks. 3. No more than 150 words, written as continuous prose. 4. 20% — awarded for using, developing and evaluating the source text in the directed writing task. 5. W4 — use register appropriate to context. 6. Narrative, descriptive and argumentative. 7. It focuses your first read of the passage on what you actually need to find, rather than absorbing every detail equally before knowing which parts matter. 8. List every relevant point first, then join them into continuous prose in your own words, excluding examples, repetition and personal opinion, and staying within the word limit.
+**Answers:** 1. Both 2 hours, 50 marks, 50% each. 2. 9 marks. 3. No more than 150 words, written as continuous prose. 4. 20% — awarded for using, developing and evaluating the source text in the directed writing task. 5. W4 — use register appropriate to context. 6. A choice of four: two descriptive and two narrative (argumentative writing belongs to directed writing, not composition). 7. It focuses your first read of the passage on what you actually need to find, rather than absorbing every detail equally before knowing which parts matter. 8. List every relevant point first, then join them into continuous prose in your own words, excluding examples, repetition and personal opinion, and staying within the word limit.

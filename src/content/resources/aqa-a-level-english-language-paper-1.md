@@ -94,17 +94,46 @@ Texts are analysed for how **mode**, **audience** and **purpose** shape them. Mo
 
 **Representation** is the central concept: how language constructs a version of a person, group or event. Analyse the choices — which nouns, which modifiers, which processes — and ask whose perspective the wording serves.
 
-## Language and society
+## Children's language development
 
-Key areas of variation and their leading positions:
+Section B is a discursive essay on how children acquire language between birth and age 11, worth 30
+of the paper's 100 marks, with a choice of two questions supported by transcript or other spoken,
+written or multimodal data. The content area covers four things: the **functions** children's language
+serves, **development across the language levels**, **theories and research**, and applying both to
+unfamiliar data.
 
-- **Gender** — Lakoff's deficit model, Tannen's difference model, Zimmerman and West on interruption, and later critiques arguing gendered language differences are exaggerated and context-dependent.
-- **Social class and region** — accent and dialect, Labov's department store study, Trudgill on Norwich, overt and covert prestige.
-- **Occupation** — jargon and specialist lexis creating in-groups.
-- **Ethnicity** — varieties such as MLE, and attitudes toward them.
-- **Power** — Fairclough on influential and instrumental power, and the linguistic means by which it is exercised: imperatives, modality, interruption, topic control.
+**Functions of children's language** — drawing on Halliday's model, children's early utterances can be
+grouped by the job they do: **instrumental** (satisfying needs — "want juice"), **regulatory**
+(controlling others' behaviour — "go away"), **interactional** (maintaining relationships), **personal**
+(expressing identity or feelings), **heuristic** (exploring and questioning — "why?"), **imaginative**
+(play and storytelling), and **representational** (conveying information and facts).
 
-Attitudes to language are examinable in themselves: **prescriptivism** treats change as decline, **descriptivism** treats it as natural variation.
+**Development across the language levels:**
+
+- **Phonological** — early sound patterns simplify adult targets: reduplication ("dada"), consonant
+cluster reduction ("poon" for "spoon"), and gradual mastery of harder sounds through the pre-school years.
+- **Lexical and semantic** — vocabulary growth accelerates sharply from around 18 months (the "vocabulary
+spurt"), with **overextension** (using "dog" for any four-legged animal) and **underextension**
+(restricting "dog" to the family pet only) both common as children refine word meaning.
+- **Grammatical** — progression through **holophrastic** (one-word), **two-word**, **telegraphic**
+(content words with grammatical words omitted, e.g. "daddy car") and **post-telegraphic** stages, with
+**virtuous errors** such as "goed" and "sheeps" showing over-regularisation of a rule rather than
+imitation of adult speech.
+- **Pragmatic** — developing turn-taking, appropriate use of requests and politeness, and sensitivity to
+what a listener already knows.
+
+**Theories and research:**
+
+- **Behaviourist (Skinner)** — language is learned through imitation and reinforcement.
+- **Nativist (Chomsky)** — an innate language acquisition device explains rule-governed errors no adult
+models, such as virtuous errors.
+- **Cognitive (Piaget)** — language development follows and depends on prior conceptual development.
+- **Interactionist / social interactionist (Bruner, Vygotsky)** — child-directed speech and scaffolded
+interaction with caregivers drive acquisition.
+
+A strong Section B answer applies named theories and stages to the specific data provided — quoting a
+feature from the transcript, naming the stage or theory it evidences, and evaluating how well that
+theory accounts for it — rather than reciting the theories in the abstract.
 
 ## Worked example
 
@@ -128,13 +157,15 @@ Four features, each named, quoted and linked to representation.
 
 ## Common mistakes
 
-Feature-spotting — listing devices without explaining effect. Using "the writer uses this to make it more interesting". Applying gender theories as settled fact rather than contested positions. Ignoring mode, audience and purpose. Confusing dialect (grammar and vocabulary) with accent (pronunciation only). Writing about content rather than language.
+Feature-spotting — listing devices without explaining effect. Using "the writer uses this to make it more interesting". Applying acquisition theories as settled fact rather than contested positions. Ignoring mode, audience and purpose. Confusing dialect (grammar and vocabulary) with accent (pronunciation only). Writing about content rather than language.
 
 ## Quick revision checklist
 
 - Apply all six language levels with accurate terminology.
 - Analyse mode, audience, purpose, register, idiolect and sociolect.
 - Explain representation through specific lexical and grammatical choices.
-- Cite named theorists on gender, class, region, occupation and power, with critique.
-- Distinguish prescriptivism from descriptivism.
-- Structure analysis as: name the feature, quote it, explain the effect on the reader.
+- Know Halliday's seven functions of children's language, and the phonological, lexical/semantic,
+  grammatical and pragmatic stages of development.
+- Cite named acquisition theorists (Skinner, Chomsky, Piaget, Bruner/Vygotsky), with critique.
+- Structure analysis as: name the feature, quote it, explain the effect on the reader (Section A) or
+  link it to a named stage or theory (Section B).

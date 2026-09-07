@@ -7,7 +7,7 @@ topic: "Component 1 – Non-fiction Texts and Transactional Writing"
 boards: ["edexcel"]
 qualifications: ["igcse"]
 syllabusCodes: ["4EA1"]
-syllabusSeries: "For first teaching 2016 (Issue 6, 2023)"
+syllabusSeries: "For first teaching 2016 (Issue 7, August 2025)"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -20,6 +20,11 @@ featured: false
 
 Condensed for the final weeks. For the full explanation, use the
 [Non-fiction Texts and Transactional Writing study guide](/resources/igcse-edexcel-english-language-component-1/).
+
+**Component 1 in numbers:** 2 hours 15 minutes, 90 marks (45 per
+section), 60% of the qualification. Advised timing is around 1 hour 30
+minutes for Section A and 45 minutes for Section B. Section B offers a
+choice of two writing prompts.
 
 ## Reading non-fiction
 
@@ -35,6 +40,8 @@ Compare:
 Keep quotations **short**. A two-word quotation embedded in your own sentence shows more control than a copied line.
 
 **Reading questions progress in three stages**: literal comprehension (identifying explicit information), inference (working out implied meaning), and language/structural analysis (explaining the effect of specific word choices or organisation). Treat these as genuinely different skills — a candidate confident at identifying facts can still lose marks on an inference or analysis question if they don't shift approach accordingly.
+
+**One of the two Section A texts is not unseen.** The section pairs one previously unseen extract with a non-fiction text from **Part 1 of the Pearson Edexcel International GCSE English Anthology**, supplied in the exam itself. The ten Part 1 texts are: *The Danger of a Single Story*, *A Passage to Africa*, *The Explorer's Daughter*, *Explorers, or boys messing about? Either way, taxpayer gets rescue bill*, *127 Hours: Between a Rock and a Hard Place*, *Young and Dyslexic? You've got it going on*, *A Game of Polo with a Headless Goat*, *Beyond the Sky and Earth: A Journey into Bhutan*, *H is for Hawk*, and *Chinese Cinderella*. Reading all ten in advance -- not just practising with unseen material -- is preparation this section specifically rewards.
 
 ## Features worth commenting on
 
@@ -60,15 +67,18 @@ Use a **point-by-point** structure rather than describing each text in turn — 
 
 Fix three things before writing: **form, audience, purpose**.
 
+The six specified transactional forms are: article (for a magazine or newspaper), speech, letter, guide, review, and the text of a leaflet. "Report" is not one of this specification's named forms.
+
 | Form | Register | Features |
 |---|---|---|
 | **Letter** | As directed | Correct opening and sign-off |
 | **Speech** | Persuasive, direct | Address the audience; rhetorical questions |
 | **Article** | Engaging, semi-formal | Headline, hook, structured paragraphs |
-| **Report** | Formal, impersonal | Headings, factual tone, recommendations |
+| **Guide** | Clear, instructional | Headings, step-by-step structure, direct address |
 | **Review** | Personal but informed | Judgement with justification |
+| **Leaflet** | Engaging, persuasive or informative | Headings, bullet points, direct address |
 
-**Use the given material but develop it** — add consequences, implications and counter-arguments in your own words. Copying from the source caps the mark.
+**This section gives a prompt, not source material to work from** — there is no given text to develop or copying to avoid. Marks are awarded against the two writing objectives only (communication/adaptation of form, tone and register, and technical accuracy); there are no reading marks in this section, so a response should be planned and drafted as an original piece of writing for the specified purpose, audience and form.
 
 **Deploy the same techniques you analyse in the reading section**: rhetorical questions, direct address, the rule of three, contrast, a well-placed short sentence. Using them deliberately is what lifts the writing mark.
 

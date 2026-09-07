@@ -7,7 +7,7 @@ topic: "Paper 1 – Literary Non-fiction and Composition"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9270"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -56,19 +56,23 @@ Strong  "The metaphor 'a machine that never sleeps' presents the city
 | Tone | Admiring, wry, critical, nostalgic — and whether it **shifts** |
 | Voice | First-person immediacy vs detached third person |
 
-**Structure is separately credited.** Where a writer places information — a withheld detail, a one-line paragraph — is a deliberate choice with an effect.
+**Structure is part of the same overall mark, not a separate allocation.** Where a writer places information — a withheld detail, a one-line paragraph — is a deliberate choice with an effect, and identifying it strengthens an answer even though structural, grammatical and presentational features are all assessed within a single combined objective.
 
-## Comparison
+## Single text, no comparison
 
-Organise **by point of comparison**, never text by text. Signal it explicitly: *whereas*, *by contrast*, *similarly*, *both writers*.
+Section A is set on a **single text for close study**, divided into sections with questions -- at
+least one question addresses the whole text. There are no two texts to compare on this paper;
+comparison is a Paper 2 skill instead.
 
 ## Composition
+
+Three tasks, choose **one**: descriptive, imaginative, and argumentative and/or discursive.
 
 | Type | The move that lifts it |
 |---|---|
 | **Descriptive** | One **moment** rendered fully through the senses — not a whole day thinly |
-| **Narrative** | Decide the **ending** first; keep characters few |
-| **Viewpoint** | Clear line of argument, 2–3 developed points, a genuine counter-argument answered |
+| **Imaginative** | Decide the **ending** first; keep characters few |
+| **Argumentative/discursive** | Clear line of argument, 2–3 developed points, a genuine counter-argument answered |
 
 Vary sentence length deliberately — a short sentence after several long ones lands hard.
 
@@ -99,9 +103,9 @@ Sentence demarcation (no comma splices) · consistent tense · subject–verb ag
 
 - Feature-spotting with no explanation of effect.
 - Summarising content instead of analysing craft.
-- Comparing texts sequentially rather than by point.
+- Assuming Section A sets two texts to compare -- it is a single text throughout.
 - Describing an entire day rather than one moment.
-- Beginning a narrative with no ending planned.
+- Beginning imaginative writing with no ending planned.
 - Rhetorical questions used as filler.
 - Leaving no time to check — a five-minute reread catches most accuracy errors.
 - Treating strong Section A analysis as evidence that Section B composition will automatically be equally strong — the two sections test genuinely different skills and need separate practice.
@@ -113,9 +117,9 @@ Related: [Literary Non-fiction and Composition practice questions](/resources/ox
 1. Define literary non-fiction and give three examples of the form.
 2. State the three parts of an analytical point.
 3. Why is structure worth analysing separately from language?
-4. How should a comparison be organised?
+4. How many texts does Section A set, and is any comparison required?
 5. Name three technical accuracy features that carry marks.
 6. Why should Section A and Section B be revised independently rather than assuming skill transfers between them?
 7. In the "market at dawn" worked example, what makes the strong version more effective than the weak one?
 
-**Answers:** 1. Factual writing using the techniques of imaginative writing — travel writing, memoir, biography, essays, speeches, opinion journalism. 2. Identify the feature, quote it briefly, explain its effect on the reader in relation to purpose. 3. The placement and ordering of information — openings, delayed reveals, shifts, closings — are deliberate authorial choices producing effects, and structural comment is separately credited. 4. By point of comparison, integrating both texts under each point with explicit comparative connectives. 5. Any three: sentence demarcation, consistent tense, subject–verb agreement, apostrophes, purposeful paragraphing. 6. Section A tests reading and Section B tests writing — they are different skills, so strong analysis does not guarantee strong composition, and each needs its own dedicated revision time. 7. It replaces a single flat, general statement with concrete sensory detail, varied sentence lengths (including a short opener for impact), and a closing image that suggests the scene rather than stating it directly.
+**Answers:** 1. Factual writing using the techniques of imaginative writing — travel writing, memoir, biography, essays, speeches, opinion journalism. 2. Identify the feature, quote it briefly, explain its effect on the reader in relation to purpose. 3. The placement and ordering of information — openings, delayed reveals, shifts, closings — are deliberate authorial choices producing effects, and commenting on them strengthens an answer even though structure is not a separately allocated mark. 4. A single text only, divided into sections with questions -- no comparison is required on this paper. 5. Any three: sentence demarcation, consistent tense, subject–verb agreement, apostrophes, purposeful paragraphing. 6. Section A tests reading and Section B tests writing — they are different skills, so strong analysis does not guarantee strong composition, and each needs its own dedicated revision time. 7. It replaces a single flat, general statement with concrete sensory detail, varied sentence lengths (including a short opener for impact), and a closing image that suggests the scene rather than stating it directly.

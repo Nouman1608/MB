@@ -1,5 +1,5 @@
 ---
-title: "A Level English Language: Language and Analysis — Revision Notes"
+title: "OxfordAQA International A-Level English Language Unit 1: Language and Context — Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]
@@ -13,14 +13,14 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-language-and-context-9670"
-description: "Condensed recall notes on language frameworks, discourse, register, spoken language and directed writing for International A Level English Language."
+description: "Condensed recall notes on language frameworks, discourse, register, spoken language and directed writing for OxfordAQA International AS/A-level English Language Unit 1 (9670)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
-[Language and Analysis study guide](/resources/a-level-oxfordaqa-english-language-unit-1/).
+[Language and Context study guide](/resources/a-level-oxfordaqa-english-language-unit-1/).
 
 ## Work through the frameworks
 
@@ -44,7 +44,7 @@ Condensed for the final weeks. For the full explanation, use the
 ## Grammar features that repay attention
 
 - **Modality** — high modality (*must*, *will*) asserts authority and certainty; low modality (*might*, *could*) hedges and reduces the risk of being contradicted.
-- **Voice** — the **passive conceals the agent**. *"Errors were made"* omits who made them. It is the standard institutional evasion and always worth a comment.
+- **Voice** — the **passive can conceal the agent**. *"Errors were made"* omits who made them. This is a common institutional evasion, worth commenting on when the omission of the agent has a clear effect.
 - **Pronouns** — inclusive *we* builds solidarity or spreads responsibility; direct *you* creates synthetic personalisation, addressing a mass audience as though individually.
 - **Sentence variation** — a short sentence following long ones is emphatic. Comment on the **contrast**, not the length.
 - **Presupposition** — what a sentence takes for granted. *"When did you stop worrying about this?"* smuggles in an assumption that resists challenge.
@@ -53,7 +53,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 Register is analysed through **field** (subject), **tenor** (relationship between participants), and **mode** (spoken, written, or between).
 
-**A register mismatch is nearly always deliberate.** Informality in a formal context builds intimacy or humour; formality in a casual one creates distance, authority or irony. If a text's register feels wrong, that observation *is* the analysis.
+**A register mismatch may be deliberate or accidental, but either way it is worth analysing its effect.** Informality in a formal context can build intimacy or humour; formality in a casual one can create distance, authority or irony. If a text's register feels wrong, that observation is the starting point for analysis, not the analysis itself -- the mark is still for explaining the effect the mismatch creates, not for labelling it as a mismatch.
 
 ## Spoken language
 
@@ -84,18 +84,18 @@ parallel structure   balanced clauses give a formal, rehearsed quality,
 
 **Effect:** accountability is acknowledged in *form* while being grammatically avoided in *substance* — characteristic of institutional apology, and a strong contrast to comment on if a text elsewhere uses direct, agentive language.
 
-## Directed writing and commentary
+## Directed writing
 
-The task is **transformation**, not summary.
+Section B's task is **transformation**, not summary: using some or all of Section A's material to
+create a new text for a specified brief. There is no separate commentary on this unit -- credit goes
+to **sustaining an appropriate style** for the task chosen, not to explaining your choices afterwards.
 
 Fix **form, audience, purpose** before writing. Then:
 
 - Adjust **register** for the new audience.
 - **Select** relevant material; you need not use all of it.
-- **Rephrase** — lifting from the source caps the mark.
-- Follow the target form's conventions.
-
-The **commentary must justify**, not describe. Each choice should be named with its framework, tied to audience and purpose, and explained: *"I used low modality throughout because the audience is being persuaded rather than instructed, and hedging avoids the resistance that direct commands provoke."*
+- **Rephrase** — lifting from the source does not demonstrate the transformation this task requires.
+- Follow the target form's conventions, and sustain them consistently for the whole response.
 
 ## Structuring the analysis
 
@@ -113,7 +113,7 @@ Keep quotations **short**. A two-word quotation embedded in your own sentence de
 - Ignoring audience and purpose.
 - Retelling content instead of analysing language.
 - Lifting from the source in directed writing.
-- A commentary that describes rather than justifies.
+- Writing a commentary or explanation of your choices -- Unit 1 credits a sustained, consistent style in the writing itself, not a separate justification of it.
 
 ## Self-test
 
@@ -121,6 +121,6 @@ Keep quotations **short**. A two-word quotation embedded in your own sentence de
 2. What is the effect of the passive voice, and why does it recur in institutional language?
 3. Name the three components of register.
 4. Why are fillers and false starts not errors?
-5. What must a commentary do beyond naming your choices?
+5. Does Unit 1's directed writing task require a separate commentary?
 
-**Answers:** 1. Quote the language, explain what it suggests, then explain why the writer chose it. 2. It conceals or omits the agent, so responsibility is obscured — which is why it recurs in institutional and political writing. 3. Field, tenor and mode. 4. They are normal features of unplanned spontaneous speech, serving functions such as buying planning time and holding the floor. 5. Justify each choice by explaining why it suits the target form, audience and purpose, using the language frameworks.
+**Answers:** 1. Quote the language, explain what it suggests, then explain why the writer chose it. 2. It conceals or omits the agent, so responsibility is obscured — which is why it recurs in institutional and political writing. 3. Field, tenor and mode. 4. They are normal features of unplanned spontaneous speech, serving functions such as buying planning time and holding the floor. 5. No -- Unit 1 credits a style sustained consistently throughout the writing itself; a reflective commentary is not part of this unit's assessment.

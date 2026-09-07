@@ -35,16 +35,16 @@ Papers 1 and 2 are the AS content; 3 and 4 complete the A Level. No dictionaries
 ## Section A — Shorter writing and reflective commentary (25 marks, compulsory)
 
 - **Part (a)**: shorter piece, **max 400 words**, to a specified form/audience/purpose (e.g. leaflet, letter, speech). **15 marks**.
-- **Part (b)**: reflective commentary, **around 250 words**, explaining how your linguistic choices in (a) fulfil the brief. **10 marks**.
+- **Part (b)**: reflective commentary, explaining how your linguistic choices in (a) fulfil the brief. **10 marks**. The syllabus sets no specific word limit for the commentary.
 - Commentary structure: **identify → quote (from your own text) → explain the effect** in relation to audience and purpose — the same pattern used to analyse someone else's text in Paper 1.
 
 ## Section B — Extended writing (25 marks, choice of one from three)
 
 - **600–900 words.**
-- Typically one option each of: **descriptive/narrative**, **discursive** (article/letter debating an issue), and **review**.
-- Descriptive/narrative: sensory detail, controlled voice, a small number of developed images.
-- Discursive: genuinely balanced — weigh more than one side before a considered conclusion.
-- Review: consistent evaluative voice, specific concrete detail (not vague praise/criticism).
+- Every series offers one question from each of three **fixed** categories: **imaginative/descriptive**, **discursive/argumentative** (article/letter debating an issue), and **review/critical**. Only the specific topic within each category changes between series.
+- Imaginative/descriptive: sensory detail, controlled voice, a small number of developed images.
+- Discursive/argumentative: genuinely balanced — weigh more than one side before a considered conclusion.
+- Review/critical: consistent evaluative voice, specific concrete detail (not vague praise/criticism).
 
 ## What links Paper 2 to Paper 1
 
@@ -71,15 +71,16 @@ Even a plan this brief, jotted in under a minute, prevents the piece from drifti
 
 Under time pressure, a reliable commentary sentence template is: "I used [specific choice], quoted here as '[short quotation from your own text]', because [effect on audience/purpose]." Repeating this template three or four times, each time naming a different choice (register, sentence type, direct address, structural device such as headings), reliably produces a commentary that analyses rather than narrates — which is the single biggest differentiator between weak and strong responses on part (b).
 
-## Building Section B fluency across all three options
+## Building Section B fluency across all three categories
 
-Because the exact Section B options vary from series to series, resist the temptation to prepare only for one register (only descriptive, say) and hope it comes up. Instead, practise the planning step — not necessarily the full write-up — across all three registers on a rotating basis: this week plan a descriptive piece from a one-line prompt, next week a discursive piece, the week after a review. This spreads revision time evenly across the skill the paper actually tests (sustained, controlled writing to a chosen register) rather than betting on a single option being available on the day.
+Because the three categories are fixed but the specific topic within each one changes every series, resist the temptation to prepare only for one register (only descriptive, say) and hope it comes up. Instead, practise the planning step — not necessarily the full write-up — across all three registers on a rotating basis: this week plan a descriptive/imaginative piece from a one-line prompt, next week a discursive/argumentative piece, the week after a review/critical piece. This spreads revision time evenly across the skill the paper actually tests (sustained, controlled writing to a chosen register), since all three categories are guaranteed to appear -- what is unpredictable is only the topic, not the category.
 
 ## Exam traps
 
 - Writing the reflective commentary as a second essay about the topic, not analysis of the writing.
 - Ignoring form/audience/purpose conventions in part (a) — a leaflet written like an essay.
 - Choosing a Section B option for its apparent impressiveness rather than one that can genuinely be sustained and controlled.
+- Assuming the three categories vary from series to series -- they do not; only the topic within each fixed category changes.
 - Running well outside either word range.
 - A "balanced" discursive piece that is secretly one-sided.
 
@@ -87,11 +88,11 @@ Because the exact Section B options vary from series to series, resist the tempt
 
 1. How long is Paper 2 and how many marks is it worth?
 2. What are the two parts of Section A, and their word limits and marks?
-3. What three registers does Section B typically offer a choice between?
+3. What three fixed categories does Section B always offer a choice between?
 4. What is the word range for Section B?
 5. What three-part structure should every sentence of the reflective commentary follow?
 
-**Answers:** 1. 2 hours, 50 marks. 2. (a) shorter writing, max 400 words, 15 marks; (b) reflective commentary, around 250 words, 10 marks. 3. Descriptive/narrative, discursive, review. 4. 600–900 words. 5. Identify the choice, quote it from your own text, explain its effect in relation to audience and purpose.
+**Answers:** 1. 2 hours, 50 marks. 2. (a) shorter writing, max 400 words, 15 marks; (b) reflective commentary, no set word limit, 10 marks. 3. Imaginative/descriptive, discursive/argumentative, review/critical -- fixed every series, with only the topic within each category varying. 4. 600–900 words. 5. Identify the choice, quote it from your own text, explain its effect in relation to audience and purpose.
 
 ## Official syllabus
 

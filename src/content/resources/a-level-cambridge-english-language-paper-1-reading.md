@@ -30,7 +30,7 @@ Analysis and Paper 4 Language Topics.
 Paper 1 asks candidates to read widely across genres and styles and
 respond to unseen texts analytically, discursively and creatively.
 The knowledge and understanding developed here is shared directly with
-Paper 2 Writing, which the specification explicitly builds on the same
+Paper 2 Writing, which the syllabus explicitly builds on the same
 foundation.
 
 ## Syllabus coverage
@@ -38,7 +38,10 @@ foundation.
 **CAMBRIDGE INTERNATIONAL AS & A LEVEL ENGLISH LANGUAGE (9093) — PAPER
 1 READING**
 
-- 1.1 Knowledge and understanding — the conventions of a wide range of
+The syllabus does not number its subject content into subsections; the two groupings below are an
+editorial summary of the named content, not syllabus subsection numbers.
+
+- **Knowledge and understanding** — the conventions of a wide range of
 written textual forms (such as articles, reviews, blogs,
 autobiographies, travel writing and scripted speech); the linguistic
 elements and literary features of texts (including vocabulary,
@@ -46,7 +49,7 @@ figurative language, phonology, tense, narrative perspective and
 paragraph- and text-level structure); the significance of audience in
 the design and reception of texts; and how genre, purpose and context
 contribute to meaning
-- 1.2 Skills and techniques — reading a range of unseen texts;
+- **Skills and techniques** — reading a range of unseen texts;
 analysing how linguistic elements combine to create meaning; writing
 analytically about the effects of linguistic and literary features;
 selecting and interpreting quotations and evidence with precision;
@@ -56,16 +59,16 @@ different style
 
 ## How to approach it
 
-Because the knowledge and understanding in 1.1 is explicitly shared
+Because the knowledge and understanding above is explicitly shared
 with Paper 2, building a genuinely wide reading habit across the
 example genres -- news journalism, travel writing, speeches, blogs --
-pays off across both papers rather than only this one. The skills in
-1.2 reward precision over volume: practise selecting a small number of
+pays off across both papers rather than only this one. The skills
+above reward precision over volume: practise selecting a small number of
 well-chosen quotations and building sustained, specific commentary
 around them, rather than surveying a text broadly. The directed
 writing tasks -- writing in the same style as a given text, or a
 different style while reusing its content -- are distinctive to this
-specification, so practise both directions explicitly rather than
+syllabus, so practise both directions explicitly rather than
 assuming general creative writing skill transfers automatically.
 
 ## Official syllabus
@@ -73,6 +76,10 @@ assuming general creative writing skill transfers automatically.
 Cambridge International AS & A Level English Language (9093) syllabus
 for 2024, 2025 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/635901-2024-2026-syllabus.pdf).
+A successor syllabus for 2027 and 2028 has since been published under
+the same code; it states there are no significant changes affecting
+teaching, so the technique and structure content here remains current,
+but check the latest syllabus for your own exam series.
 
 ## What the paper requires
 
@@ -101,15 +108,21 @@ You will be given a form (letter, speech, article, diary, report), an audience a
 - **Audience** dictates register, vocabulary and assumed knowledge.
 - **Purpose** dictates structure — to persuade, order arguments for impact; to inform, order them for clarity.
 
-Use the source material but **transform** it: select what serves your purpose, reorganise it, and recast it in your own words. Copying stretches of the original is the most heavily penalised error in the task.
+Use the source material but **transform** it: select what serves your purpose, reorganise it, and recast it in your own words. Copying stretches of the original earns no credit for genuine transformation, so treat rephrasing as central to the task rather than incidental to it.
 
 Adopting a consistent **voice** — a persona appropriate to the form — is what separates competent from strong responses.
 
-## Comparison and commentary
+## Comparing your response with the source
 
-Where two texts are set, compare **how** they achieve their effects, not merely what they say. Structure by point of comparison rather than text by text, so the comparison is genuinely integrated.
+Question 1's second part asks you to compare your own directed response in 1(a) with the original
+text -- its form, structure and language -- not to summarise what you wrote. Structure the comparison
+by point (form, then structure, then language) rather than describing your own text and the source one
+after the other, since an integrated, point-by-point comparison demonstrates the comparative skill this question targets more clearly than two separate
+descriptions placed side by side. This part carries more marks than the writing task itself, so it
+repays as much planning time.
 
-A reflective commentary should explain your own choices in terms of audience and purpose — why this structure, this register, this opening — rather than narrating what you wrote.
+A reflective commentary explaining your own linguistic choices is required on Paper 2 Writing, not
+here -- do not confuse the two tasks.
 
 ## Worked example
 
@@ -132,7 +145,7 @@ sympathy is directed at the loss rather than at any cause.
 
 ## Common mistakes
 
-Feature-spotting with no explanation of effect. Summarising content instead of analysing language. Lifting phrasing from the source in directed writing. Ignoring one of form, audience or purpose. Comparing texts sequentially rather than by point. Writing a commentary that narrates rather than justifies.
+Feature-spotting with no explanation of effect. Summarising content instead of analysing language. Lifting phrasing from the source in directed writing. Ignoring one of form, audience or purpose. Treating the 1(b) comparison as a summary of your own response rather than a comparison of form, structure and language against the source.
 
 ## Quick revision checklist
 
@@ -140,5 +153,4 @@ Feature-spotting with no explanation of effect. Summarising content instead of a
 - Identify, quote and explain — every time, with the effect tied to purpose.
 - Match form conventions, register and structure to the audience and purpose given.
 - Transform source material rather than reproducing it.
-- Compare texts by point of comparison, integrating both.
-- Justify your own choices in a commentary rather than describing them.
+- Compare your own directed response with the source by point -- form, then structure, then language -- rather than describing each in turn.

@@ -18,10 +18,12 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
+> **These are original questions written for Marlbridge**, for revision and practice
+> on this content. They are **not** reproduced past-paper questions, and they do
+> **not** replicate the exam's own question format or stimulus length —
 > examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> official past papers available free from your board for practice at the exact
+> format and stimulus lengths the board sets.
 
 Related: [Paper 3 Language Analysis study guide](/resources/a-level-english-language-paper-3-language-analysis/)
 
@@ -29,19 +31,19 @@ Related: [Paper 3 Language Analysis study guide](/resources/a-level-english-lang
 
 ## Section A
 
-**1.** Define the following processes of language change and give an example of each: broadening, narrowing, amelioration, pejoration. **[4]**
+**1.** Analyse the following processes of language change, giving an example of each: broadening, narrowing, amelioration, pejoration. **[4]**
 
-**2.** Explain the difference between prescriptivism and descriptivism. **[3]**
+**2.** Compare prescriptivism and descriptivism. **[3]**
+
+**3.** Analyse **four** causes of lexical change in English, giving an example of each. **[8]**
 
 ## Section B
 
-**3.** Explain **four** causes of lexical change in English, giving an example of each. **[8]**
+**4.** Analyse the stages of child language acquisition from birth to around eight years, naming each stage and its main features. **[8]**
 
-**4.** Explain the stages of child language acquisition from birth to around four years, naming each stage and its main features. **[8]**
+**5.** Discuss **three** theories of child language acquisition, giving one criticism of each. **[9]**
 
-**5.** Explain **three** theories of child language acquisition and give one criticism of each. **[9]**
-
-**6.** Explain what is meant by a **grammatical over-generalisation** in child speech, give an example, and explain what it reveals about how children learn. **[5]**
+**6.** Discuss what is meant by a **grammatical over-generalisation** in child speech, giving an example, and analyse what it reveals about how children learn. **[5]**
 
 ---
 
@@ -53,10 +55,10 @@ Related: [Paper 3 Language Analysis study guide](/resources/a-level-english-lang
 
 **3.** Any four, 2 marks each: **Borrowing (loanwords)** — contact with other languages introduces new words, e.g. "bungalow" from Hindi or "algebra" from Arabic [1] [1]. **Compounding and blending** — existing words are combined, e.g. "laptop", or blended, e.g. "brunch" [1] [1]. **Affixation** — prefixes and suffixes create new forms, e.g. "unfriend", "googleable" [1] [1]. **Conversion (functional shift)** — a word changes word class without changing form, e.g. "to text", "to medal" [1] [1]. **Technology and social change** — new inventions and practices require new words, e.g. "podcast", "streaming" [1] [1]. **Initialism and acronym** — e.g. "NASA", "ASAP" [1] [1].
 
-**4. Pre-verbal / cooing (0–6 months)** — vowel-like sounds, crying used communicatively [1]. **Babbling (6–12 months)** — repeated consonant-vowel strings such as "ba-ba", moving from reduplicated to variegated babbling with the intonation of the surrounding language [1] [1]. **Holophrastic / one-word (12–18 months)** — single words carry whole-sentence meaning, e.g. "milk" for "I want milk"; frequent over-extension [1] [1]. **Two-word (18–24 months)** — two words combined in a consistent word order, showing early grammar, e.g. "daddy gone" [1] [1]. **Telegraphic (24–36 months)** — three or more words with the content words present but function words and inflections omitted, e.g. "want more juice" [1]. **Post-telegraphic (36 months onwards)** — function words, inflections and complex sentences appear, though over-generalisation continues [1].
+**4. Pre-verbal / cooing (0–6 months)** — vowel-like sounds, crying used communicatively [1]. **Babbling (6–12 months)** — repeated consonant-vowel strings such as "ba-ba", moving from reduplicated to variegated babbling with the intonation of the surrounding language [1]. **Holophrastic / one-word (12–18 months)** — single words carry whole-sentence meaning, e.g. "milk" for "I want milk"; frequent over-extension [1]. **Two-word (18–24 months)** — two words combined in a consistent word order, showing early grammar, e.g. "daddy gone" [1]. **Telegraphic (24–36 months)** — three or more words with the content words present but function words and inflections omitted, e.g. "want more juice" [1]. **Post-telegraphic (36 months onwards)** — function words, inflections and complex sentences appear, though over-generalisation continues [1]. **Later development (roughly 4–8 years)** — complex and compound sentence structures and narrative/pragmatic skills (holding a conversational turn, telling a coherent story) develop further [1], and virtuous errors gradually disappear as irregular forms are learned individually [1].
 
 **5.** Any three, 3 marks each: **Behaviourist (Skinner)** — language is learned through **imitation, reinforcement and correction** by carers [1] [1]; criticism: it **cannot explain the novel utterances and over-generalisations children produce**, which they have never heard, and carers correct meaning far more than grammar [1].
-**Nativist (Chomsky)** — children have an innate **Language Acquisition Device**, so they acquire grammar from limited and imperfect input — the "poverty of the stimulus" argument [1] [1]; criticism: the LAD has **no identified physical basis and the theory undervalues the role of interaction**, and evidence from children like Genie shows input matters more than the theory allows [1].
+**Nativist (Chomsky)** — children have an innate **Language Acquisition Device**, so they acquire grammar from limited and imperfect input — the "poverty of the stimulus" argument [1] [1]; criticism: the LAD has **no identified physical basis and the theory undervalues the role of interaction** [1]. Cases such as Genie are also cited in this debate, though their bearing on nativism is contested: some read Genie's vocabulary acquisition without full grammatical competence as evidence that a critical period constrains an innate faculty, which supports rather than undermines nativism, while others read the case as showing the limits of what late input alone can achieve.
 **Social interactionist (Bruner)** — language develops through **interaction with carers within a Language Acquisition Support System**, including child-directed speech, turn-taking and shared routines [1] [1]; criticism: **not all cultures use child-directed speech**, yet children in those cultures still acquire language normally [1].
 **Cognitive (Piaget)** — language reflects **prior cognitive development**; a child cannot use a concept linguistically before understanding it [1] [1]; criticism: it **cannot explain cases where language develops normally despite severe cognitive impairment** [1].
 

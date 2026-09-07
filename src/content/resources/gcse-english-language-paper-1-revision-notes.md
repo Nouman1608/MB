@@ -7,6 +7,7 @@ topic: "Paper 1 – Explorations in Creative Reading and Writing"
 boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8700"]
+syllabusSeries: "For first teaching 2015"
 order: 1
 syllabusTopics:
   - qualification: "gcse"
@@ -97,7 +98,7 @@ single extract with nothing to compare it against.
 - Running out of time on the writing task because too long was spent on reading questions.
 - Treating Question 4 as another language-analysis question rather than the sustained, 20-mark evaluative argument it actually is — it carries as many marks as Questions 1–3 combined.
 - Trying to "compare" the Paper 1 extract with anything else — AO3 (comparison) is tested only on Paper 2, since Paper 1's Section A works from a single text.
-- Under-valuing technical accuracy in Section B — at 16 of 40 marks (40% of the section), spelling and punctuation errors genuinely cap the highest bands, whatever the quality of the ideas.
+- Under-valuing technical accuracy in Section B — at 16 of 40 marks (40% of the section), spelling and punctuation errors cap the highest bands for that half of the mark scheme, regardless of how strong the content and organisation half is.
 
 ## Self-test
 

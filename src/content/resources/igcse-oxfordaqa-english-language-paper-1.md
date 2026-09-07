@@ -7,12 +7,12 @@ topic: "Paper 1 – Literary Non-fiction and Composition"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9270"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-literary-non-fiction-and-composition-9270"
-description: "Literary non-fiction analysis and composition writing -- the full content of Paper 1 for OxfordAQA International GCSE English Language (9270)."
+description: "Literary non-fiction analysis and composition writing, with the full assessment structure (duration, marks, weighting), for OxfordAQA International GCSE English Language (9270) Paper 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -37,11 +37,17 @@ separately and does not count toward the qualification grade.
 **OXFORDAQA INTERNATIONAL GCSE ENGLISH LANGUAGE (9270) — PAPER 1
 LITERARY NON-FICTION AND COMPOSITION**
 
-- Section A: Literary Non-fiction — analysing an unseen literary
-non-fiction text, focusing on how writers use language and structure
-to achieve effects
-- Section B: Composition — producing an original piece of descriptive
-or narrative writing
+- Section A: Literary Non-fiction (40 marks) — a single unseen
+literary non-fiction text for close study, divided into sections with
+questions, focusing on how writers use language and structure to
+achieve effects; at least one question addresses the whole text
+- Section B: Composition (40 marks) — four possible task types
+(descriptive, imaginative, argumentative or discursive), offered as a
+choice of three tasks, of which students write one
+
+Paper 1 is **2 hours** long and carries **60%** of the qualification's
+overall marks, with Paper 2 (or the NEA alternative) carrying the
+remaining 40%.
 
 ## How to approach it
 
@@ -65,8 +71,8 @@ within the paper's time limit.
 ## Official syllabus
 
 OxfordAQA International GCSE English Language (9270) specification,
-Version 4.2, for exams May/June 2018 onwards —
-[oxfordaqa.com](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-english-language-specification.pdf).
+Version 5.1, for exams May/June 2018 onwards —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/06/oxfordaqa-gcse-english-language-specification.pdf).
 
 ## Literary non-fiction
 
@@ -93,19 +99,21 @@ Strong   "The adjectives 'cramped', 'clamorous' and 'unrelenting'
 
 Analyse **structure** as well as language — where a writer places a short sentence, or delays information, is a deliberate choice with an effect.
 
-Where two texts are compared, organise by **point of comparison** rather than dealing with each text in turn, and make the comparison explicit with connectives such as "whereas" and "similarly".
+Section A is set on a **single text for close study**, divided into sections with questions -- at least one question addresses the whole text. There is no second text and no comparison task on this paper; comparing two texts is a Paper 2 skill instead.
 
 ## Composition
 
-Writing tasks are typically descriptive, narrative or viewpoint.
+Section B offers **three tasks from which students choose one**: descriptive, imaginative, and
+argumentative and/or discursive. Only one is written; there is no separate "viewpoint" category and
+no requirement to attempt more than one.
 
 **Descriptive** writing succeeds on precision and the senses. Choose one moment and render it fully rather than covering an hour thinly. Vary sentence length: a short sentence after several long ones lands with force.
 
-**Narrative** writing needs shape — a clear situation, a development, a resolution. Decide the ending before you begin, and resist introducing too many characters.
+**Imaginative** writing needs shape — a clear situation, a development, a resolution. Decide the ending before you begin, and resist introducing too many characters.
 
-**Viewpoint** writing needs a clear line of argument, two or three developed points, and a genuine counter-argument addressed rather than dismissed. Rhetorical devices — direct address, rhetorical questions, tricolon, anecdote — should serve the argument, not decorate it.
+**Argumentative/discursive** writing needs a clear line of argument, two or three developed points, and a genuine counter-argument addressed rather than dismissed. Rhetorical devices — direct address, rhetorical questions, tricolon, anecdote — should serve the argument, not decorate it.
 
-Register must match the stated audience and form throughout; drifting halfway through costs marks even where each sentence is correct.
+Register must stay consistent with the chosen task and form throughout, even though (unlike Paper 2's directed writing) Paper 1's composition tasks do not specify a named audience; drifting halfway through costs marks even where each sentence is correct.
 
 ## Accuracy and range
 
@@ -132,13 +140,13 @@ Why:  concrete sensory detail (sound, smell, touch)
 
 ## Common mistakes
 
-Feature-spotting without explaining effect. Summarising content instead of analysing craft. Comparing texts sequentially rather than by point. Describing a whole day rather than one moment. Beginning a narrative with no ending planned. Losing register partway through. Using rhetorical questions as filler.
+Feature-spotting without explaining effect. Summarising content instead of analysing craft. Treating Section A as if it set two texts to compare, when it is a single text throughout. Describing a whole day rather than one moment. Beginning imaginative writing with no ending planned. Losing register partway through. Using rhetorical questions as filler.
 
 ## Quick revision checklist
 
 - Identify purpose, voice, structure, language and tone in literary non-fiction.
 - Identify, quote and explain — always ending on the effect on the reader.
 - Analyse structural choices, not only language.
-- Compare texts by point, using explicit comparative connectives.
-- Choose one moment for description and shape a narrative around a planned ending.
+- Remember Section A is a single text with no comparison task.
+- Choose one moment for description and shape imaginative writing around a planned ending.
 - Sustain register and check sentence demarcation, tense and paragraphing.

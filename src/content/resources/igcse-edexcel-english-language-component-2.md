@@ -20,7 +20,7 @@ featured: false
 
 This guide covers **Component 2 Poetry and Prose Texts and Imaginative
 Writing**, for Pearson Edexcel International GCSE English Language A
-(4EA1), first teaching 2016, current specification Issue 6, 2023.
+(4EA1), first teaching 2016, current specification Issue 7, August 2025.
 Component 2 assesses 40% of the total qualification, split evenly
 between reading (20%) and writing (20%), and is the examined alternative
 to Component 3's non-exam assessment.
@@ -34,7 +34,7 @@ covering the same content areas). Where Component 1 works with
 non-fiction, Component 2 shifts to poetry and prose fiction, and pairs
 that reading with imaginative rather than transactional writing.
 
-## Syllabus coverage
+## Specification coverage
 
 **PEARSON EDEXCEL INTERNATIONAL GCSE ENGLISH LANGUAGE A (4EA1) — COMPONENT 2**
 
@@ -55,7 +55,7 @@ writing task, chosen from three given prompts; assessed against AO4
 (communicating effectively and imaginatively, adapting form, tone and
 register for specific purposes and audiences) and AO5 (writing clearly,
 using a range of vocabulary and sentence structures, with accurate
-spelling, grammar and punctuation)
+spelling, grammar, punctuation and appropriate paragraphing)
 - Using what is learned from reading — the specification explicitly
 expects students to use what they have learned about the writer's craft
 from their reading of fiction to inspire and influence their own
@@ -136,7 +136,7 @@ the paper.
 
 Note: this entry cites Issue 7 (August 2025) of the specification, current as of this guide's publication date, superseding earlier issues.
 
-## Official syllabus
+## Official specification
 
 Pearson Edexcel International GCSE English Language A (4EA1)
 specification, Issue 7, August 2025 —

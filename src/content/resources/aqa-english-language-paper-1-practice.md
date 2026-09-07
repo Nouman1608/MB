@@ -17,22 +17,22 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and practice
+> on this content. They are **not** reproduced past-paper questions, and they do
+> **not** replicate the exam's own section structure, question count or mark
+> tariffs — examination boards hold copyright in their own papers. Use these
+> alongside the official past papers available free from your board for
+> practice at the exact format and tariffs the board sets.
 
 Related: [Paper 1 revision notes](/resources/aqa-english-language-paper-1-revision-notes/)
 
 ---
 
-## Section A
+## Section A -- Textual Variations and Representations
 
 **1.** Name the language levels you should use as a framework when analysing any text. **[3]**
 
 **2.** Explain what is meant by **representation** in language analysis. **[2]**
-
-## Section B
 
 **3.** A newspaper headline reads: *"Migrant surge overwhelms coastal towns."*
 
@@ -47,7 +47,7 @@ Related: [Paper 1 revision notes](/resources/aqa-english-language-paper-1-revisi
 
 **7.** Explain how **mode** affects a text, comparing a scripted news bulletin with a live radio phone-in. **[4]**
 
-## Section C
+## Section B -- Children's Language Development
 
 **8.** Give the five stages of child language acquisition, in order. **[5]**
 
@@ -85,6 +85,6 @@ Related: [Paper 1 revision notes](/resources/aqa-english-language-paper-1-revisi
 ## Where marks are usually lost
 
 - Identifying features without linking them to representation.
-- Ignoring transitivity, which is where most representation marks sit.
+- Ignoring transitivity, which is often one of the most productive features for representation analysis.
 - Describing advertising language generically rather than analysing effect.
 - Treating mode as simply "spoken or written" rather than a continuum.

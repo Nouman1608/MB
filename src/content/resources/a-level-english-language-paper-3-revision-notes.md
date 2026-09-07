@@ -25,7 +25,7 @@ Condensed for the final weeks. For the full explanation, use the [Paper 3 Langua
 
 Paper 3, 2 h 15, 50 marks, 25% of the A Level. A Level-only, alongside Paper 4. Two compulsory sections, 25 marks each. No dictionaries.
 
-## 3.1 Section A: Language Change
+## Section A: Language Change
 
 - Development of English from **Early Modern English to Contemporary English**.
 - Named processes: **borrowing** (loanwords), **compounding**, **blending**, **affixation**, **conversion/functional shift**, **initialism/acronym**.
@@ -33,9 +33,9 @@ Paper 3, 2 h 15, 50 marks, 25% of the A Level. A Level-only, alongside Paper 4. 
 - **Prescriptivism** (correct form, deviation = error) vs **descriptivism** (record and analyse actual use, change is natural).
 - Evidence: n-gram-style graphs, corpus/word-table data showing change over time.
 
-## 3.2 Section B: Child Language Acquisition
+## Section B: Child Language Acquisition
 
-- Stages: **pre-verbal/cooing (0–6 months)** → **babbling (6–12 months)** → **holophrastic/one-word (12–18 months)** → **two-word (18–24 months)** → **telegraphic (24–36 months)** → **post-telegraphic (36 months+)**.
+- Stages: **pre-verbal/cooing (0–6 months)** → **babbling (6–12 months)** → **holophrastic/one-word (12–18 months)** → **two-word (18–24 months)** → **telegraphic (24–36 months)** → **post-telegraphic (36 months+)**. The syllabus scopes acquisition from **birth to around eight years**, so post-telegraphic development continues well beyond age 3 -- complex/compound sentences, narrative and conversational (pragmatic) skills, and the gradual disappearance of virtuous errors as irregular forms are learned individually.
 - Theories: **Behaviourist (Skinner)** — imitation/reinforcement; **Nativist (Chomsky)** — innate Language Acquisition Device, "poverty of the stimulus"; **Social interactionist (Bruner)** — carer interaction, Language Acquisition Support System; **Cognitive (Piaget)** — language reflects prior cognitive development.
 - **Over-generalisation** ("goed", "sheeps"): applying a regular rule to an irregular form — evidence of rule-based, creative learning, not imitation.
 

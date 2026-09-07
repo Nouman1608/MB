@@ -6,10 +6,10 @@ level: ["gcse"]
 boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8700"]
+syllabusSeries: "For first teaching 2015"
 order: 1
 description: "How AQA GCSE English Language (8700) is structured — its two papers, the spoken language endorsement, and the skills each part assesses."
 author: "lubna-waseem"
-reviewer: "lubna-waseem"
 publishedDate: 2026-08-18
 featured: false
 ---
@@ -40,12 +40,13 @@ springboard for the writing you are asked to do.
 ## Spoken language
 
 Alongside the two written papers, AQA assesses **spoken language**
-separately, through a presentation and discussion. This is reported
-individually rather than counted into the overall GCSE grade for English
-Language — but it is still a required part of the course, not an
-optional extra, and students who do not complete it will not receive a
-full, valid GCSE result regardless of how strongly they perform on the
-two written papers.
+separately, through a presentation and discussion. This is reported as
+a separate endorsement grade and does not contribute to the mark or
+grade for the GCSE English Language qualification itself — but centres
+must still offer it as part of the course, and a student who does not
+attempt it is recorded as "not classified" for the endorsement, even
+though their written papers can still earn a full GCSE grade on their
+own.
 
 ## A skills-based approach
 
@@ -85,7 +86,8 @@ with extended writing under exam conditions.
 ## Paper 1 in more detail
 
 Paper 1 (Explorations in Creative Reading and Writing) is built around a single unseen literature
-fiction extract, drawn from 19th, 20th or 21st century prose, with reading questions sequenced from
+fiction extract, drawn from 20th or 21st century prose (the 19th century belongs to Paper 2's
+non-fiction sources instead), with reading questions sequenced from
 short, contained tasks -- identifying explicit information, then explaining the effect of specific
 language choices, then analysing how the writer has shaped and sequenced the whole extract -- through
 to a longer evaluative response judging how successfully the writer achieves a particular effect. The

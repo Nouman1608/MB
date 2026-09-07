@@ -7,7 +7,7 @@ topic: "Paper 2 – Source-based Reading and Directed Writing"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9270"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -101,8 +101,9 @@ prose text.
 issue source, without adjusting for its more direct style.
 - Drafting Section B without first fixing audience and purpose in
 writing.
-- Neglecting technical accuracy (W4) under time pressure, despite it
-carrying equal weight to content and organisation within AO2.
+- Neglecting technical accuracy (W4) under time pressure -- it is
+worth 10 of Section B's 40 marks, a quarter of the section, not equal
+weight against the other three writing objectives combined.
 - Assuming unfamiliarity with a source's topic is a disadvantage.
 
 ## The non-exam assessment alternative

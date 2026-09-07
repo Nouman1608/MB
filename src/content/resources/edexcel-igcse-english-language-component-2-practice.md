@@ -28,9 +28,9 @@ Related: [Component 2 study guide](/resources/igcse-edexcel-english-language-com
 
 ## Section A: Poetry and Prose Texts (30 marks, 45 minutes)
 
-**1.** Choose a poem or prose extract you have studied from Part 2 of the Anthology. Explore how the
-writer presents a moment of tension or conflict. In your answer you should consider the writer's use of
-language and structure. **[30]**
+**1.** In *The Story of an Hour* by Kate Chopin, from Part 2 of the Anthology, explore how the writer
+presents a moment of tension or conflict. In your answer you should consider the writer's use of language
+and structure. **[30]**
 
 ## Section B: Imaginative Writing (30 marks, 45 minutes)
 
@@ -43,9 +43,10 @@ language and structure. **[30]**
 
 ## Model approach: Section A
 
-A strong response to Question 1 identifies **two or three** specific moments in the chosen text where
-tension or conflict is presented, rather than summarising the whole text's plot. For each moment, the
-response should:
+A strong response to Question 1 identifies **two or three** specific moments in *The Story of an Hour*
+where tension or conflict is presented -- for example, the moment Mrs Mallard first receives the news, or
+her private realisation alone in her room -- rather than summarising the whole story's plot. For each
+moment, the response should:
 
 - Quote or closely reference the specific language used (imagery, word choice, sentence length, dialogue).
 - Explain the **effect** that language choice has on the reader's sense of tension — not just that

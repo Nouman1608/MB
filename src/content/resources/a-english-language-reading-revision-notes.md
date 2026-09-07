@@ -36,7 +36,7 @@ Analysis must be **systematic**, not impressionistic. Work through the levels:
 | **Discourse** | Structure, cohesion, openings and endings, paragraphing |
 | **Graphology** | Layout, typeface, images, colour, headings |
 
-**Naming a feature scores nothing.** The mark is for the **effect in this specific text**, tied to its **audience and purpose**.
+**Naming a feature alone does not demonstrate analysis.** The mark is for the **effect in this specific text**, tied to its **audience and purpose**.
 
 Weak: *"The writer uses an imperative."*
 Strong: *"The imperative 'Choose' positions the reader as someone already in control, flattering their autonomy while in fact narrowing the options to those the advertiser offers."*
@@ -72,10 +72,10 @@ Before writing, fix: **form, audience, purpose**.
 
 - Change the **register** appropriately for the new audience.
 - **Select** relevant material — you are not obliged to use all of it.
-- **Rephrase**; lifting from the original caps the mark.
+- **Rephrase**; lifting from the original does not demonstrate the transformation this task requires.
 - Follow the conventions of the target form.
 
-The commentary that follows must **analyse your own choices** using the frameworks, and must explain **why** each choice suits the audience and purpose. A commentary that describes what you wrote without justifying it scores in the lower bands.
+Question 1(b) that follows must **compare your own response with the original text** -- its form, structure and language -- using the frameworks, explaining **why** each feature suits the audience and purpose in each. Treating 1(b) as a description of what you wrote, rather than a comparison against the source, scores in the lower bands. (A reflective commentary on your own choices is a Paper 2 Writing task, not this one.)
 
 ## Structuring an analysis answer
 
@@ -85,9 +85,7 @@ The commentary that follows must **analyse your own choices** using the framewor
 
 Quote **short**. Embedding a two-word quotation in your own sentence shows more control than copying a full line.
 
-## Comparing two texts
-
-Where two texts are set, compare **how** they achieve their effects, not merely what they say. Structure by **point of comparison**, not text by text, so the comparison is genuinely integrated rather than two separate mini-essays placed side by side.
+## Worked example: analysing a single extract
 
 **Worked example.** Analysing: *"The factory stood silent, its chimneys cold, its gates chained."*
 
@@ -105,7 +103,7 @@ past tense, third person   detached observation, no consolation offered
 
 **Effect:** the closure is presented as irreversible, and the reader's sympathy is directed at the loss rather than at any named cause.
 
-A **reflective commentary**, where required, should explain your own writing choices in terms of audience and purpose — why this structure, this register, this opening — rather than simply narrating what you wrote.
+Where Paper 1's Question 1(b) asks you to compare your own directed response with the original text, apply the same point-by-point method: form, then structure, then language, relating each to audience and purpose, rather than describing your response and the source one after the other.
 
 ## Exam traps
 
@@ -115,7 +113,7 @@ A **reflective commentary**, where required, should explain your own writing cho
 - Ignoring audience and purpose.
 - Retelling the content instead of analysing the language.
 - Lifting from the source in directed writing.
-- A commentary that describes rather than justifies.
+- Describing your own response and the source separately in 1(b), rather than comparing them by point.
 
 ## Self-test
 
@@ -123,6 +121,6 @@ A **reflective commentary**, where required, should explain your own writing cho
 2. What does high modality signal, and what does low modality signal?
 3. What is the effect of the passive voice, and why does it matter?
 4. Name the three components of register.
-5. What must a directed-writing commentary do beyond describing your choices?
+5. What must Question 1(b) do beyond describing your own response?
 
-**Answers:** 1. The mark is awarded for the effect of the feature on the reader in that specific text, in relation to its audience and purpose — not for identification. 2. High modality asserts certainty and authority; low modality hedges and softens, reducing commitment to the claim. 3. It conceals or removes the agent, so responsibility is obscured — which is why it recurs in institutional and political language. 4. Field, tenor and mode. 5. It must justify each choice by explaining why it suits the target form, audience and purpose, using the language frameworks.
+**Answers:** 1. The mark is awarded for the effect of the feature on the reader in that specific text, in relation to its audience and purpose — not for identification. 2. High modality asserts certainty and authority; low modality hedges and softens, reducing commitment to the claim. 3. It conceals or removes the agent, so responsibility is obscured — which is why it recurs in institutional and political language. 4. Field, tenor and mode. 5. It must compare your own response with the original text -- form, structure and language -- explaining why each feature suits the audience and purpose, rather than only describing your own choices.

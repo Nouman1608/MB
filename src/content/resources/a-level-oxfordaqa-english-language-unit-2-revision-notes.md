@@ -48,8 +48,12 @@ describing what a text says — is what Section A is assessed against.
 Section A source material can be **spoken, written or multimodal**.
 Revision that only uses written prose leaves a gap: practise an
 interview transcript (spoken), a piece of persuasive writing (written),
-and an example of informal banter or wordplay (multimodal/informal), so
-an unfamiliar text type in the exam is not a surprise.
+an example of informal banter or wordplay (spoken/informal), and a
+genuinely **multimodal** text that combines more than one semiotic
+channel -- for example a meme or an advertisement where image and
+caption work together -- so an unfamiliar text type in the exam is not
+a surprise. Multimodal means combining channels such as text and
+image, not a synonym for informal register.
 
 ## A worked structure for a spoken transcript
 
@@ -116,18 +120,20 @@ Because Section A source material is drawn from spoken, written and
 multimodal texts about power, identity and play, keep a revision folder
 that genuinely mixes these formats rather than one dominated by written
 articles simply because they are easiest to find and annotate. An
-interview transcript sourced from a real broadcast, a piece of online
-persuasive writing, and an example of informal banter or wordplay
-together give more realistic preparation than three examples of the
-same written-prose format with different topics.
+interview transcript sourced from a real broadcast (spoken), a piece of
+online persuasive writing (written), an example of informal banter or
+wordplay (spoken/informal), and a meme or captioned image that combines
+text and picture (genuinely multimodal) together give more realistic
+preparation than three examples of the same written-prose format with
+different topics.
 
 ## Self-test
 
 1. What is the single most valuable exam-technique skill for this
 unit, connecting its two sections?
 2. Name the four social functions of language this unit assesses.
-3. Why should revision include spoken and multimodal texts, not just
-written prose?
+3. Why should revision include spoken and genuinely multimodal texts, not just
+written prose, and what does "multimodal" actually mean?
 4. Which assessment objective is weighted more heavily in Unit 2 than
 Unit 1, and what does that signal for revision priorities?
 5. How does Unit 2's Section B differ in task type from Unit 1's
@@ -139,7 +145,9 @@ sections as unrelated tasks. 2. Group rapport/shared perspectives,
 power and status, identity and relationship, and play/performance. 3.
 Because Section A's source material is explicitly drawn from spoken,
 written and multimodal texts, so revision confined to written prose
-leaves genuine gaps. 4. AO1 (understanding of methods, terminology,
+leaves genuine gaps; multimodal means a text that combines more than
+one semiotic channel, such as image and text together, not simply an
+informal register. 4. AO1 (understanding of methods, terminology,
 concepts and issues); this signals that precise linguistic terminology
 matters at least as much as fluent writing style. 5. Unit 2's Section B
 is an academic essay building an argument from Section A's analysis;

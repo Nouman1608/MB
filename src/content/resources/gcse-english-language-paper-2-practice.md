@@ -32,13 +32,13 @@ Related: [Paper 2 study guide](/resources/aqa-gcse-english-language-paper-2/)
 things the text states explicitly about the writer's situation, the
 place described, or the people involved. **[4]**
 
-**2.** From Source A, select **one** short phrase you find effective
-and explain the writer's use of language, including the effect
-created. **[8]**
+**2.** Using **both** sources, write a summary of the differences
+between the writers' situations and their attitudes toward the subject
+they describe. **[8]**
 
-**3.** Using **both** sources, compare how each writer conveys their
-attitude or feelings toward the subject they are writing about. Refer
-to specific methods each writer uses. **[12]**
+**3.** From Source B, select **one** short phrase you find effective
+and explain the writer's use of language, including the effect
+created. **[12]**
 
 **4.** Compare how the two writers present their different
 perspectives on [the shared theme of your chosen extracts], referring
@@ -59,18 +59,19 @@ text **states directly**, not what you infer — four separate, clearly
 stated details from Source A alone score full marks. Do not use Source
 B here; Question 1 tests careful reading of a single text.
 
-**2.** Follow the same three-step method as any language-analysis
-question: quote a short, precise phrase; name the technique (word
-class, imagery, connotation); explain the specific effect created,
-tied to the writer's evident attitude in this extract specifically —
-not a generic comment that could apply to any text.
+**2.** Identify clear points of difference between the two sources —
+not simply "Writer A feels X, Writer B feels Y" as isolated statements,
+but distinct, separately-creditable points drawn from across both
+texts. Work through the sources methodically rather than summarising
+each one in a single block, and keep to summarising *what* differs
+rather than analysing *how* the writers' language creates it, which
+belongs to Question 3.
 
-**3.** A strong answer identifies at least two or three genuinely
-comparable points — not simply "Writer A feels X, Writer B feels Y" —
-and explains *how* each writer's specific choices (word choice,
-imagery, structural emphasis) build that attitude. Cross-reference
-between the two texts throughout the answer, rather than discussing
-each source in a separate, self-contained paragraph.
+**3.** Follow the same three-step method as any language-analysis
+question: quote a short, precise phrase from Source B; name the
+technique (word class, imagery, connotation); explain the specific
+effect created, tied to the writer's evident attitude in this extract
+specifically — not a generic comment that could apply to any text.
 
 **4.** The highest-value skill this question rewards is genuine,
 sustained comparison of **method**, not just content: for each point,
@@ -94,7 +95,7 @@ even-handedness.
 
 ## Building comparison points quickly
 
-The comparison questions (3 and 4) are where most of Paper 2's marks
+Question 4's comparison of perspectives is where most of Paper 2's marks
 sit, so it is worth practising a fast method for generating comparison
 points before writing a full answer. A reliable approach: read both
 sources once each for overall sense, then draw a simple two-column

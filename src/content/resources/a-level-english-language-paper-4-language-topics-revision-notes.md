@@ -25,7 +25,7 @@ Condensed for the final weeks. For the full explanation, use the [Paper 4 Langua
 
 Paper 4, 2 h 15, 50 marks, 25% of the A Level. A Level-only, alongside Paper 3. Two compulsory, equally-weighted sections, each built around unseen stimulus material. No dictionaries.
 
-## 4.1 Section A: English in the World
+## Section A: English in the World
 
 - History of English's spread as a **global language**.
 - **Standard vs nonstandard** forms; varieties used by first-language speakers outside the UK.
@@ -33,20 +33,25 @@ Paper 4, 2 h 15, 50 marks, 25% of the A Level. A Level-only, alongside Paper 3. 
 - **"Zero translation"**: using an English word/acronym untranslated in another language's media (e.g. WiFi, CEO in Chinese publications) — a frequent stimulus topic.
 - **Ethical dimension**: cultural imperialism vs opportunity/access — always engage genuinely with both sides.
 
-## 4.2 Section B: Language and the Self
+## Section B: Language and the Self
 
-- **Idiolect** (an individual's distinctive speech) vs **sociolect** (shared within a region/social group) — keep these precise; a group-level dialect (e.g. Multicultural London English) is sociolect, not idiolect.
-- Influences on identity: **gender, ethnicity, age, occupation, region, social group**.
-- **Gender theories**: deficit, dominance, difference, diversity approaches (plus standpoint and muted-group theory).
-- **Inclusion/exclusion**: slang, jargon, accent and speech sounds as identity markers.
+Three strands, any of which a stimulus can draw on.
+
+- **Innateness and learning**: **behaviourism** (language learned through imitation and reinforcement) vs **innatism/nativism** (an innate language acquisition device; evidence from rule-governed errors like "goed", "sheeps" that could not have been imitated) vs **empiricism** (language learned mainly from environmental input).
+- **Language and thought**: **linguistic relativity/determinism** (the Sapir-Whorf hypothesis — the language you speak shapes, or in its strong form determines, how you think) vs **universalism** (thought is independent of and precedes language) vs the **language of thought hypothesis** (an underlying, language-independent "mentalese").
+- **Language and social identity**: **Idiolect** (an individual's distinctive speech) vs **sociolect** (a variety shared within a social group such as a class, occupation or age group, as distinct from a regionally defined **dialect**) — keep these precise; a group-level variety such as Multicultural London English is a sociolect (or an ethnolect), not an idiolect. Influences on identity: **gender, ethnicity, age, occupation, region, social group**. **Gender theories**: deficit, dominance, difference, diversity approaches (plus standpoint and muted-group theory). **Inclusion/exclusion**: slang, jargon, accent and speech sounds as identity markers.
 
 ## The stimulus-response skill
 
 Both sections present an unseen text (article, blog, online comments) and ask you to discuss the issues it raises **plus** wider study — not a prepared essay regardless of the text. Ground every point in the specific stimulus first, then widen out to named theories/examples.
 
-## A worked mini-example: Section B
+## A worked mini-example: Section B (identity strand)
 
 Stimulus: a short passage describing how new employees learn to "talk like the team" in their first weeks at a job. A fast plan: (1) name the issue — sociolect and belonging, language as a marker of group membership; (2) develop with wider knowledge — occupation as a source of shared sociolect, comparable to region or age producing their own group-specific ways of speaking; (3) a second angle — getting the register wrong marking someone as an outsider, linking to inclusion/exclusion; (4) judgement, tying back to the passage's own specific framing rather than a generic statement about workplace jargon.
+
+## A worked mini-example: Section B (thought/innateness strand)
+
+Stimulus: a short passage reporting that speakers of a language with several distinct words for "snow" perceive snow differently from speakers of languages with only one. A fast plan: (1) name the issue — whether language shapes perception, a language-and-thought question; (2) develop with wider knowledge — linguistic relativity/determinism as the position the claim supports; (3) a second angle — universalism's objection that perceptual differences could reflect environment or experience rather than vocabulary; (4) judgement, tying back to the passage's own specific claim rather than a generic statement about language and culture. A stimulus instead describing a toddler's early word combinations calls on the innateness strand: weigh behaviourist, nativist and empiricist explanations against the specific behaviour reported.
 
 ## A worked mini-example: Section A
 
@@ -62,13 +67,14 @@ Because both sections reward outside knowledge applied to unfamiliar material, a
 
 ## Building a bank of examples before the exam
 
-Because both sections reward specific, named evidence rather than general assertion, build a personal revision bank in advance: for Section A, five or six named varieties or phenomena (Hinglish, Singlish, zero translation, a specific historical stage of English's spread) each with one sentence of explanation; for Section B, one named theory or concept for each influence on identity (gender, ethnicity, age, occupation, region). Having this bank ready means exam time is spent applying knowledge to the stimulus, not trying to recall examples from scratch under pressure.
+Because both sections reward specific, named evidence rather than general assertion, build a personal revision bank in advance: for Section A, five or six named varieties or phenomena (Hinglish, Singlish, zero translation, a specific historical stage of English's spread) each with one sentence of explanation; for Section B, one named theory or concept for each of the three strands (innateness and learning, language and thought, and each influence on identity such as gender, ethnicity, age, occupation, region). Having this bank ready means exam time is spent applying knowledge to the stimulus, not trying to recall examples from scratch under pressure.
 
 ## Exam traps
 
 - Writing a generic prepared essay that ignores the specific stimulus.
 - Confusing idiolect with sociolect.
 - Naming an influence on identity with no concrete example or theory attached.
+- Preparing only the identity strand of Section B and being caught out by a stimulus on innateness/learning or language and thought.
 - Taking only one side of the global-English ethical debate.
 - Uneven time split between the two equally-weighted sections.
 
@@ -79,8 +85,9 @@ Because both sections reward specific, named evidence rather than general assert
 3. What is "zero translation," and give an example.
 4. Distinguish idiolect from sociolect.
 5. Name three named approaches to language and gender.
+6. Name the three strands of Section B: Language and the Self.
 
-**Answers:** 1. 2 hours 15 minutes, 50 marks, 25% of the A Level. 2. Hinglish, Singlish, Spanglish. 3. Using an English word or acronym untranslated within another language's text, e.g. "WiFi" or "CEO" appearing untranslated in Chinese media. 4. Idiolect is an individual's own distinctive speech pattern; sociolect is shared by a region or social group. 5. Deficit, dominance, difference (plus diversity, standpoint, muted-group).
+**Answers:** 1. 2 hours 15 minutes, 50 marks, 25% of the A Level. 2. Hinglish, Singlish, Spanglish. 3. Using an English word or acronym untranslated within another language's text, e.g. "WiFi" or "CEO" appearing untranslated in Chinese media. 4. Idiolect is an individual's own distinctive speech pattern; sociolect is shared by a social group such as a class, occupation or age group. 5. Deficit, dominance, difference (plus diversity, standpoint, muted-group). 6. Innateness and learning; language and thought; language and social identity.
 
 ## Distinguishing Section A and Section B focus quickly
 

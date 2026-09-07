@@ -74,13 +74,13 @@ both sources cold in sequence without any comparative frame in mind.
 
 ## Section A question types
 
-The four Section A questions build in demand across the paper: identifying and interpreting explicit
-and implicit information; explaining a writer's use of language to achieve effects; comparing how
-writers convey their differing perspectives across both texts; and evaluating a writer's methods
-against a given statement. Because the final comparison/evaluation question typically carries the most
-marks, allocate reading and planning time so it is not rushed at the end — a common and avoidable
-timing mistake is spending disproportionate time on the earlier, lower-tariff questions and leaving too
-little for the highest-value one.
+The four Section A questions build in demand across the paper: identifying explicit statements in
+one source; summarising differences between both sources; explaining a writer's use of language in one
+source to achieve effects; and comparing how the two writers convey their differing perspectives and
+methods across both texts. Because the final comparison question carries the most marks, allocate
+reading and planning time so it is not rushed at the end — a common and avoidable timing mistake is
+spending disproportionate time on the earlier, lower-tariff questions and leaving too little for the
+highest-value one.
 
 ## Register and audience in Section B
 

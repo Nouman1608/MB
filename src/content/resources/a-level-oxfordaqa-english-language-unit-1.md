@@ -13,7 +13,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-language-and-context-9670"
-description: "Understanding texts and directed writing -- the full content of Unit 1 for OxfordAQA International AS and A-Level English Language (9670)."
+description: "Understanding texts (a compulsory two-text comparison) and directed writing, with the full assessment structure, for OxfordAQA International AS and A-Level English Language (9670) Unit 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -22,8 +22,8 @@ featured: false
 This guide covers **Unit 1 Language and Context**, one of two units
 forming the International AS in OxfordAQA International AS and
 A-level English Language (9670). The full International A-level adds
-Unit 3 and Unit 4 (written) or Unit 4b (a non-exam-assessed language
-investigation, the alternative to written Unit 4a).
+Unit 3 and either Unit 4a (a written exam) or Unit 4b (a
+non-exam-assessed language investigation, the alternative to Unit 4a).
 
 ## Where this fits in 9670
 
@@ -37,10 +37,15 @@ language study to social groups and international contexts.
 **OXFORDAQA INTERNATIONAL A-LEVEL ENGLISH LANGUAGE (9670) — UNIT 1
 LANGUAGE AND CONTEXT**
 
-- Section A: Understanding Texts — analysing how writers use language
-in context to create meaning and effect
+- Section A: Understanding Texts — a **compulsory analysis of two
+texts linked by a common theme but differing in context**, analysing
+how writers use language in context to create meaning and effect
 - Section B: Directed Writing — producing writing for a specified
-audience, purpose and context
+audience, purpose and context, from a **choice of two tasks**
+
+Unit 1 is assessed by a single **2-hour** written exam worth **50
+marks**, contributing **50% of the AS marks (20% of the full
+A-level)** -- the same weighting as Unit 2.
 
 ## How to approach it
 

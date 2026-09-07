@@ -87,9 +87,9 @@ Whichever Section B option is chosen, the planning principle is the same: fix a 
 - **Discursive (Q3)**: plan one paragraph genuinely arguing for a phone ban, one genuinely arguing against, and a concluding paragraph that reaches a considered position — not a token "some people think X" sentence before the writer's real, one-sided view.
 - **Review (Q4)**: plan a consistent evaluative thread running through the piece (what worked, what didn't, and why), anchored in specific detail about the talk itself, rather than generic praise that could describe any event.
 
-## Rotating through Section B options for balanced practice
+## Rotating through Section B categories for balanced practice
 
-Because the exact three options offered in Section B vary between series, it is worth practising the planning stage across all three registers rather than only the one that feels most natural. Take the three questions above in turn: sketch a four-point sensory plan for the descriptive option (Q2), a for/against/conclusion plan for the discursive option (Q3), and a consistent evaluative-thread plan for the review option (Q4). Doing this on a rotating basis across several practice sessions builds genuine flexibility, so that whichever three options actually appear on the day, the planning step is already a well-practised habit rather than something attempted for the first time under exam pressure.
+The three categories on Section B -- imaginative/descriptive, discursive/argumentative, review/critical -- are fixed every series; only the specific topic set within each one changes. It is worth practising the planning stage across all three registers rather than only the one that feels most natural. Take the three questions above in turn: sketch a four-point sensory plan for the descriptive option (Q2), a for/against/conclusion plan for the discursive option (Q3), and a consistent evaluative-thread plan for the review option (Q4). Doing this on a rotating basis across several practice sessions builds genuine flexibility, so that whatever specific topics appear within each category on the day, the planning step is already a well-practised habit rather than something attempted for the first time under exam pressure.
 
 ## A second Section A brief, for extra practice
 
@@ -102,3 +102,4 @@ Try planning (without necessarily writing in full) a further leaflet brief: your
 - A "discursive" Section B answer that only argues one side.
 - Running well under or well over either word range, especially drafting Section B without a plan and losing control of length and structure partway through.
 - Choosing a Section B option for its apparent impressiveness rather than one that can genuinely be sustained and controlled for 600–900 words.
+- Assuming the three Section B categories vary from series to series -- they do not; only the topic within each fixed category changes.

@@ -43,7 +43,7 @@ diversity essays. A specialist workplace jargon term is a sociolect
 feature; a regional pronunciation or vocabulary difference is a dialect
 feature — never the reverse.
 
-## The five-lens analytical framework
+## A five-lens analytical framework (a revision aid, not the specification's own term)
 
 Apply this systematically to any unfamiliar text, in this order:
 
@@ -78,8 +78,9 @@ itself, is what an evaluative essay requires.
 
 ## Key term precision
 
-- **Mode** — written, spoken or electronic; shapes language choices
-independently of audience or purpose.
+- **Mode** — a spectrum from spoken to written, with digital forms
+between, that interacts with audience and purpose to shape language
+choices.
 - **Representation** — how language constructs an image or portrayal of
 a group, potentially reinforcing or challenging social attitudes.
 - **Language change** — observable shift in vocabulary, grammar,
@@ -127,6 +128,16 @@ three such named debates in advance so at least one is always available
 to bring into an essay, regardless of which specific texts or data the
 exam provides.
 
+- **Aitchison's Damp Spoon / Crumbling Castle / Infectious Disease** —
+three prescriptivist metaphors for change, which Aitchison herself
+rejects.
+- **The S-curve model** — a new form's adoption spreads slowly, then
+rapidly, then slowly again as it reaches the last holdouts.
+- **Functional theory** — change meets new communicative needs (new
+technology, new social contexts) rather than reflecting decline.
+- **Random fluctuation theory** — some changes have no single
+identifiable social or functional cause.
+
 ## Working with research data, not just texts
 
 The specification also names collections of language data — dictionaries,
@@ -141,7 +152,7 @@ interpreting it.
 ## Self-test
 
 1. What is the key distinguishing test between sociolect and dialect?
-2. Name the five lenses in the specification's analytical framework.
+2. Name the five lenses in this guide's analytical framework.
 3. Why should a feature always be linked to a named concept (identity,
 relationships, representation) rather than just identified?
 4. What timeframe must a language-change essay draw examples from?

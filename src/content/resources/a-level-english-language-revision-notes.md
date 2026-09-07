@@ -46,7 +46,7 @@ Two compulsory questions, one per section, **25 marks each**. Each responds to a
 | 1(a) | Directed writing in response to the text, **150–200 words** | 10 | AO1, AO2 |
 | 1(b) | **Compare** your response in (a) with the original text — form, structure and language | 15 | AO1, AO3 |
 
-Part (b) carries more marks than the writing itself. You are analysing **your own text against the source**, relating features to purpose, audience and context. Practise this comparison structured **by point** (form, then structure, then language), rather than describing your own text and the source one after the other, since an integrated comparison scores more highly than two separate descriptions placed side by side.
+Part (b) carries more marks than the writing itself. You are analysing **your own text against the source**, relating features to purpose, audience and context. Practise this comparison structured **by point** (form, then structure, then language), rather than describing your own text and the source one after the other, since an integrated comparison demonstrates the comparative skill this question targets more clearly than two separate descriptions placed side by side.
 
 ### Section B — Text analysis (Q2)
 
@@ -76,7 +76,7 @@ Every analytical point: **identify → quote → explain the effect in relation 
 - Writing outside 150–200 words in 1(a).
 - Neglecting form conventions when the task specifies a text type.
 - Analysing content rather than language in Q2.
-- Lifting phrasing directly from the source text in the directed-writing task — this is the most heavily penalised error in Q1(a); the material must be selected and recast in your own words, not copied.
+- Lifting phrasing directly from the source text in the directed-writing task — this does not demonstrate the transformation Q1(a) requires; the material must be selected and recast in your own words, not copied.
 - Dictionaries may **not** be used.
 
 ## Self-test

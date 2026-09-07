@@ -7,7 +7,7 @@ topic: "Paper 2 – Source-based Reading and Directed Writing"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9270"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 2
 syllabusTopics:
   - qualification: "igcse"
@@ -34,8 +34,6 @@ Related: [Source-based Reading and Directed Writing study guide](/resources/igcs
 
 **2.** Explain **one** skill needed to read a solely visual source, such as an infographic or chart, that is not needed when reading continuous prose. **[3]**
 
-## Section B
-
 **3.** A campaign leaflet on reducing plastic waste includes this passage: *"Every plastic bottle you refuse today outlives you by four hundred years. That's not a fact to feel guilty about — it's a reason to act now, while it still makes a difference."*
 
 **(a)** Analyse the effect of "outlives you by four hundred years". **[3]**
@@ -46,12 +44,14 @@ Related: [Source-based Reading and Directed Writing study guide](/resources/igcs
 
 **5.** Explain how to synthesise detail effectively across two source texts covering the same modern-world issue, giving **three** things to look for and **one** common mistake. **[6]**
 
+## Section B — Directed Writing
+
 **6.** You are writing a letter to a local newspaper, aimed at persuading readers in your town to support a new recycling scheme.
 
 **(a)** Identify the audience and the purpose of this task in one sentence each. **[2]**
 **(b)** Explain **three** techniques you would use to adapt your writing to this specific audience and purpose. **[6]**
 
-**7.** Explain why technical accuracy (W4) is credited equally alongside content and organisation in Section B, and name **three** features it covers. **[4]**
+**7.** Explain how the 40 Section B marks divide between the other writing objectives and technical accuracy (W4), and name **three** features W4 covers. **[4]**
 
 ---
 
@@ -72,7 +72,7 @@ Related: [Source-based Reading and Directed Writing study guide](/resources/igcs
 **6. (a) Audience:** readers of the local newspaper — a general local adult readership, likely including both supporters and sceptics of a new scheme [1]. **Purpose:** to persuade them to support the recycling scheme [1].
 **(b)** Any three, 2 marks each: **local, specific examples** (a nearby street, a familiar local landmark or existing problem) make the issue feel immediate and relevant to this particular readership, rather than abstract [1] [1]. **Rhetorical questions** invite readers to reach the pro-scheme conclusion themselves, which tends to be more persuasive than simply telling them [1] [1]. **Acknowledging a likely objection** (such as inconvenience or cost) before addressing it directly shows the writer is reasonable and reduces resistance from sceptical readers [1] [1]. **A confident, direct call to action** in the closing lines, appropriate to a newspaper letter's persuasive purpose [1] [1].
 
-**7.** Technical accuracy is credited equally because **AO2 assesses communication as a whole**, and errors in grammar, punctuation or spelling can **undermine clarity and credibility** regardless of how well-organised or persuasive the content is [1] [1]. Three features it covers: **sentence demarcation** (including avoiding comma splices) [1]; **consistent tense** throughout the response [1]; **accurate use of apostrophes and correct spelling of frequently-used vocabulary** [1].
+**7.** Of Section B's 40 marks, **30 are awarded against the other three writing objectives** (communicating clearly and imaginatively for task and purpose, range of sentence structures, and organisation into cohesive text) and **10 against technical accuracy (W4)** [1] -- a quarter of the section, not an equal half. Three features W4 covers: **sentence demarcation** (including avoiding comma splices) [1]; **consistent tense** throughout the response [1]; **accurate use of apostrophes and correct spelling of frequently-used vocabulary** [1].
 
 ---
 
@@ -82,7 +82,7 @@ Related: [Source-based Reading and Directed Writing study guide](/resources/igcs
 - Treating a visual source as containing less to analyse than a prose source, and so under-answering questions based on it.
 - Analysing a persuasive technique without explaining its effect on the specific reader it targets.
 - Drafting Section B without first fixing the audience and purpose, producing writing that drifts into a generic register partway through.
-- Neglecting technical accuracy under time pressure, despite it carrying equal weight to content and organisation within AO2.
+- Neglecting technical accuracy under time pressure -- it is worth 10 of Section B's 40 marks, a quarter of the section, not equal weight against the other three writing objectives combined.
 
 ## Approaching Section A and Section B together
 
