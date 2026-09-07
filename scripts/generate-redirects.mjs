@@ -8,10 +8,10 @@
  * single-segment rule and dumped visitors on the index. Enumerated static
  * rules are unambiguous, and Cloudflare evaluates static rules first.
  *
- * The legacy URL shapes this covers:
- *   /resources/<type>/<slug>/  -> /resources/<slug>/    (flattened URLs, own type only)
+ * The legacy URL shapes this file covers directly:
  *   /resources/<type>/         -> /resources/#<type>    (removed category indexes)
  *   /learning/<slug>/          -> /articles/<slug>/     (section rename)
+ *   /resources/<oldSlug>/...   -> /resources/<newSlug>/ (CONSOLIDATED_RESOURCES renames)
  *
  * WS1 (AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME) additionally emits a
  * syllabus/specification-code discovery family:
@@ -24,42 +24,35 @@
  * board's own published casing (e.g. "h432" vs "H432"). Purely numeric
  * codes (the majority -- Cambridge, AQA) need only one rule.
  *
- * Each resource is emitted only against its OWN current `resourceType`, not
- * all seven known types. Enumerating every type for every resource was
- * generating six redundant, never-linked rules per resource (no resource
- * has ever been served, or linked externally, under a type it isn't
- * currently tagged with) and put the file on a path toward Cloudflare's
- * ~2,100-line ceiling by ~300 resources. If a resource's `resourceType` is
- * later changed, add its old type -> new-slug pair to
- * TYPE_CHANGED_RESOURCES below (same pattern as CONSOLIDATED_RESOURCES) so
- * the stale link keeps redirecting — same discipline as a slug rename.
- *
- * 2026-09-07 ceiling breach (D-147): `_redirects` hit 2,019 static rules,
- * over Cloudflare's 2,000-rule ceiling -- new rules were being silently
- * dropped. The obvious-looking fix -- collapsing the "Flattened resource
- * URLs" block into a handful of `:splat`/placeholder wildcard rules, one
- * per resource type -- was deliberately NOT done: see this file's own
- * "Why static rather than placeholder rules" note above. That's a direct,
- * documented account of this exact two-segment `/resources/:type/:slug/`
- * shape failing in production under placeholder matching, and there is no
- * write-scoped Cloudflare API access available in this environment to
- * safely validate a different outcome before it ships. Instead: (1) the
- * CONSOLIDATED_RESOURCES over-enumeration below was narrowed to each old
- * slug's actual former type (~192 rules saved, safe, same enumerated-rule
- * strategy), and (2) the "Flattened resource URLs" block -- the real
- * long-term growth driver -- was exported as a Cloudflare Bulk Redirects
- * CSV import for manual setup via the dashboard (Bulk Redirects sit in
- * front of Pages, are enumerated/static like this file so they carry the
- * same production-proven matching behaviour, and are NOT subject to the
- * 2,000-rule ceiling). Once Bulk Redirects is confirmed live in the
- * Cloudflare dashboard, the flattened-block emission loop below can be
- * removed from this generator -- do not remove it before that migration is
- * verified, or every legacy `/resources/<type>/<slug>/` URL breaks at
- * once. See docs/decision-log.md D-147 for the full account.
+ * 2026-09-07 ceiling breach and Bulk Redirects migration (D-147, D-148):
+ * `_redirects` hit 2,019 static rules, over Cloudflare's 2,000-rule
+ * ceiling -- new rules were being silently dropped. The dominant
+ * contributor, a "Flattened resource URLs" block emitting one rule per
+ * resource for `/resources/<type>/<slug>/ -> /resources/<slug>/` (1,583
+ * rules), was NOT rewritten as `:splat`/placeholder wildcard rules --
+ * this file's own "Why static rather than placeholder rules" note above
+ * is a direct, documented account of this exact two-segment shape failing
+ * in production under placeholder matching once already. Instead: (1)
+ * the CONSOLIDATED_RESOURCES over-enumeration below was narrowed to each
+ * old slug's actual former type (D-147, ~192 rules saved, same
+ * enumerated-rule strategy, still in effect below), and (2) the entire
+ * flattened-resource-URL rule set was migrated out of this file into a
+ * Cloudflare Bulk Redirects List (`marlbridge_flattened_resources`,
+ * account-level, evaluated in front of Pages, not subject to the
+ * `_redirects` ceiling) enabled by a Bulk Redirect Rule
+ * (`marlbridge_flattened_resources_rule`). D-148 confirmed the migration
+ * live -- three spot-checked legacy URLs each 301-redirected correctly
+ * with the site's own logged-in browser session -- and removed the
+ * flattened-block emission loop from this generator accordingly. If a
+ * resource's `resourceType` is later reclassified, the stale
+ * type-prefixed URL is now the Bulk Redirect List's problem, not this
+ * file's -- add the new mapping to that List directly in the Cloudflare
+ * dashboard (or via the API, with a write-scoped token) rather than here.
+ * See docs/decision-log.md D-147 and D-148 for the full account.
  *
  * Run: npm run generate:redirects  (build does this automatically)
  */
-import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { readdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { execSync } from 'node:child_process';
 
@@ -157,14 +150,6 @@ const CONSOLIDATED_RESOURCES = {
   'oxfordaqa-a-level-economics-global-economy-revision-notes': 'oxfordaqa-a-level-economics-macroeconomic-performance-revision-notes',
 };
 
-/**
- * Resources whose `resourceType` frontmatter has changed since publication.
- * Add an entry here whenever a resource's type is reclassified, so a link
- * or bookmark using the old type-prefixed URL keeps 301-redirecting to the
- * (still-flat) resource URL. Shape: slug -> array of retired type values.
- * Empty until the first reclassification happens.
- */
-const TYPE_CHANGED_RESOURCES = {};
 
 /**
  * The `resourceType` each CONSOLIDATED_RESOURCES old slug actually carried
@@ -219,38 +204,13 @@ const CONSOLIDATED_RESOURCE_FORMER_TYPES = {
 const slugsIn = async (dir) =>
   (await readdir(dir)).filter((f) => f.endsWith('.md')).map((f) => f.replace(/\.md$/, ''));
 
-const resources = await slugsIn('src/content/resources');
 const articles = await slugsIn('src/content/articles');
-
-/** Read each resource's current `resourceType` straight out of its frontmatter. */
-const resourceTypeOf = async (slug) => {
-  const raw = await readFile(join('src/content/resources', `${slug}.md`), 'utf8');
-  const match = raw.match(/^resourceType:\s*"([^"]+)"/m);
-  if (!match) {
-    throw new Error(`${slug}.md has no resourceType frontmatter field`);
-  }
-  return match[1];
-};
-
-const resourceTypes = new Map(
-  await Promise.all(resources.map(async (slug) => [slug, await resourceTypeOf(slug)]))
-);
 
 const pad = (s) => (s.length >= 57 ? s + '  ' : s.padEnd(58, ' '));
 const lines = [
   '# Generated by scripts/generate-redirects.mjs — do not edit by hand.',
   '# Static rules first (Cloudflare evaluates these before dynamic ones).',
-  '',
-  '# Flattened resource URLs: /resources/<type>/<slug>/ -> /resources/<slug>/',
 ];
-
-for (const slug of resources.sort()) {
-  const ownType = resourceTypes.get(slug);
-  const retiredTypes = TYPE_CHANGED_RESOURCES[slug] ?? [];
-  for (const type of [ownType, ...retiredTypes]) {
-    lines.push(`${pad(`/resources/${type}/${slug}/`)}/resources/${slug}/  301`);
-  }
-}
 
 const codeEntriesRaw = execSync(
   'node --experimental-strip-types --no-warnings -e "' +
@@ -295,5 +255,4 @@ lines.push(`${pad('/learning/*')}/articles/:splat  301`);
 
 const out = lines.join('\n') + '\n';
 await writeFile(join('public', '_redirects'), out, 'utf8');
-const resourceRuleCount = resources.length + Object.values(TYPE_CHANGED_RESOURCES).reduce((n, arr) => n + arr.length, 0);
-console.log(`_redirects written — ${resourceRuleCount} resource rules, ${RESOURCE_TYPES.length} type rules, ${articles.length + 1} article rules, ${codeEntries.length} syllabus-code rules, ${lines.length} lines total.`);
+console.log(`_redirects written — flattened resource URLs now live in Cloudflare Bulk Redirects (D-148), ${RESOURCE_TYPES.length} type-index rules, ${articles.length + 1} article rules, ${codeEntries.length} syllabus-code rules, ${lines.length} lines total.`);
