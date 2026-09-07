@@ -1,21 +1,84 @@
 ---
+/**
+ * Conversion & Trust round (2026-09-06, D-149).
+ *
+ * Previously this hero led with Marlbridge's mission ("Bridging Knowledge
+ * and Opportunity -- everywhere a learner studies") and offered two
+ * browsing actions (Explore Programs / Explore Resources). A visitor who
+ * arrived wanting tuition could not tell from the first screen what is
+ * taught, who teaches it, or how to try a class -- and the free trial,
+ * which is the site's actual primary conversion action, appeared nowhere
+ * on the page at all.
+ *
+ * The three qualifications named here are the owner's confirmed priority
+ * (2026-09-06). They are all `marlbridgeTeaches: "teaching"` in
+ * src/content/programs/, so the claim is backed by the same data the
+ * commercial-claims validator checks. GCSE, IB, IELTS and Academic Support
+ * are also taught and are represented accurately further down the page --
+ * naming every one of them here was considered and rejected as a headline
+ * that stops being a headline.
+ *
+ * The strip below the buttons carries only facts published elsewhere on
+ * this site and computed from real data: the free trial (PRICING_TERMS),
+ * the group-size ceiling and response window (both owner-confirmed
+ * 2026-09-06), and a live count of named teacher profiles. Nothing here is
+ * a review score, a student count, a success rate or any other figure
+ * Marlbridge cannot evidence.
+ */
 import Container from '../layout/Container.astro';
 import Button from '../ui/Button.astro';
 import PathwayFigure from '../hero/PathwayFigure.astro';
-import { site } from '../../data/site';
+import { PRICING_TERMS } from '../../data/pricing';
+import { getAuthors } from '../../utils/content/collections';
+import { activeOnly } from '../../utils/academic';
 import { routes } from '../../utils/urls/routes';
+
+const teacherCount = (await getAuthors()).filter((a) => a.data.entityType === 'person').length;
+
+/**
+ * The board list is DERIVED from the academic matrix, not typed by hand.
+ * An earlier draft of this hero hard-coded "Cambridge, Pearson Edexcel and
+ * OxfordAQA" and was wrong: Marlbridge also has ACTIVE combinations with
+ * AQA and OCR at these levels. Deriving it means the sentence cannot drift
+ * from what the matrix -- and therefore the rest of the site -- claims.
+ */
+const HERO_QUALIFICATIONS = ['igcse', 'o-level', 'a-level'];
+const heroBoards = [...new Set(
+  activeOnly()
+    .filter((c) => HERO_QUALIFICATIONS.includes(c.qualificationSlug))
+    .map((c) => c.board),
+)].sort();
+const boardList = heroBoards.length > 1
+  ? `${heroBoards.slice(0, -1).join(', ')} and ${heroBoards[heroBoards.length - 1]}`
+  : heroBoards[0] ?? '';
+
+const proof = [
+  'First class free',
+  `${teacherCount} named subject specialists`,
+  `Groups capped at ${PRICING_TERMS.maxGroupSize}`,
+  PRICING_TERMS.enquiryResponse.short,
+];
 ---
 <section aria-labelledby="hero-heading" class="relative overflow-hidden bg-navy-800 text-ivory">
   <PathwayFigure />
-  <Container class="relative pb-[clamp(88px,14vh,168px)] pt-[clamp(72px,12vh,148px)]">
-    <p class="m-0 mb-[clamp(24px,4vh,40px)] text-xs font-medium uppercase tracking-[0.2em] text-gold-500">Global Education</p>
-    <h1 id="hero-heading" class="m-0 max-w-[24ch] font-display text-[length:var(--text-hero)] font-normal leading-[1.04] tracking-[-0.02em] text-white">
-      Bridging Knowledge and Opportunity — everywhere a learner studies.
+  <Container class="relative pb-[clamp(64px,10vh,120px)] pt-[clamp(56px,9vh,112px)]">
+    <p class="m-0 mb-[clamp(18px,3vh,28px)] text-xs font-medium uppercase tracking-[0.2em] text-gold-500">Online &amp; in-person tuition</p>
+    <h1 id="hero-heading" class="m-0 max-w-[20ch] font-display text-[length:var(--text-hero)] font-normal leading-[1.04] tracking-[-0.02em] text-white">
+      Online IGCSE, O Level and A Level tuition with specialist teachers.
     </h1>
-    <p class="mt-[clamp(28px,4vh,40px)] max-w-[46ch] text-[length:var(--text-lead)] leading-[1.55] text-on-navy">{site.defaultDescription}</p>
-    <div class="mt-[clamp(36px,5vh,52px)] flex flex-wrap gap-3.5">
-      <Button href={routes.programs} variant="onDark" size="lg">Explore Programs</Button>
-      <Button href={routes.resources} variant="onDarkGhost" size="lg">Explore Resources</Button>
+    <p class="mt-[clamp(22px,3.5vh,32px)] max-w-[52ch] text-[length:var(--text-lead)] leading-[1.55] text-on-navy">
+      Marlbridge teaches {boardList} courses one-to-one and in small groups &mdash; in person in Pakistan, and online wherever a student studies. Every class is taught by a named subject specialist.
+    </p>
+    <div class="mt-[clamp(28px,4vh,40px)] flex flex-wrap gap-3.5">
+      <Button href={routes.trial} variant="onDark" size="lg" data-cta="hero-trial">Request a free trial</Button>
+      <Button href={routes.tutoring} variant="onDarkGhost" size="lg">Meet the teachers</Button>
     </div>
+    <ul class="m-0 mt-[clamp(28px,4vh,40px)] flex max-w-[74ch] list-none flex-wrap gap-x-7 gap-y-2 border-t border-navy-rule p-0 pt-6 text-[14.5px] text-on-navy-mute">
+      {proof.map((item) => (
+        <li class="m-0 flex items-baseline gap-2">
+          <span aria-hidden="true" class="text-gold-500">&mdash;</span>{item}
+        </li>
+      ))}
+    </ul>
   </Container>
 </section>

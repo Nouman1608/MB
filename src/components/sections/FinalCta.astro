@@ -1,20 +1,27 @@
 ---
+/**
+ * Conversion & Trust round (2026-09-06, D-149). Previously this closed the
+ * homepage with two browsing actions (Explore Programs / Contact), so the
+ * page never once asked for the conversion it exists to produce. It now
+ * leads with the free trial and keeps a genuinely useful secondary action.
+ */
 import Section from '../layout/Section.astro';
 import Container from '../layout/Container.astro';
 import Button from '../ui/Button.astro';
+import { PRICING_TERMS } from '../../data/pricing';
 import { routes } from '../../utils/urls/routes';
 ---
 <Section surface="navy" labelledby="cta-heading">
   <Container class="flex flex-col items-center gap-6 text-center">
-    <h2 id="cta-heading" class="m-0 max-w-[26ch] font-display text-[length:var(--text-h1)] font-normal leading-[1.1] tracking-[-0.02em] text-white">
-      Start with the subject you need to master.
+    <h2 id="cta-heading" class="m-0 max-w-[24ch] font-display text-[length:var(--text-h1)] font-normal leading-[1.1] tracking-[-0.02em] text-white">
+      Try a class before you decide anything.
     </h2>
-    <p class="m-0 max-w-[52ch] text-[17.5px] leading-[1.6] text-on-navy">
-      Explore the programs we teach, or read the resources — both are the same work, published two ways.
+    <p class="m-0 max-w-[54ch] text-[17.5px] leading-[1.6] text-on-navy">
+      {PRICING_TERMS.freeTrial} Tell us the subject and level, and we will confirm a specialist teacher and a time that works where you are. {PRICING_TERMS.enquiryResponse.short}
     </p>
     <div class="mt-1.5 flex flex-wrap justify-center gap-3.5">
-      <Button href={routes.programs} variant="onDark" size="lg">Explore Programs</Button>
-      <Button href={routes.contact} variant="onDarkGhost" size="lg">Contact</Button>
+      <Button href={routes.trial} variant="onDark" size="lg" data-cta="final-trial">Request a free trial</Button>
+      <Button href={routes.pricing} variant="onDarkGhost" size="lg">See tuition fees</Button>
     </div>
   </Container>
 </Section>

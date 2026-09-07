@@ -9,6 +9,12 @@ import Card from '../../components/cards/Card.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
 import FAQ from '../../components/ui/FAQ.astro';
+import Button from '../../components/ui/Button.astro';
+import ProgramTeachers from '../../components/sections/ProgramTeachers.astro';
+import TuitionOptions from '../../components/sections/TuitionOptions.astro';
+import HowTuitionWorks from '../../components/sections/HowTuitionWorks.astro';
+import { TUITION_FAQS } from '../../data/tuition';
+import { PRICING_TERMS } from '../../data/pricing';
 import { getPrograms, availabilityLabel, availabilityTone } from '../../utils/content/collections';
 import { relatedResources } from '../../utils/content/related';
 import { courseNode } from '../../utils/schema/course';
@@ -36,18 +42,64 @@ const availabilityCopy = {
   'not-confirmed': 'Whether Marlbridge teaches this program is not yet confirmed. Tell us you are interested and we will let you know.',
 }[d.marlbridgeTeaches];
 
+/**
+ * Conversion & Trust round (2026-09-06, D-149) -- a programme Marlbridge
+ * actually teaches now points at the free trial, not the generic contact
+ * form, and carries its own slug so /trial/ can tell the visitor (and
+ * pre-fill the message with) which programme they came from. Only the
+ * programme slug travels in the URL: no name, email, phone or any other
+ * personal data, and /trial/ accepts it only if it matches a real
+ * programme, so an arbitrary query string cannot reach the page.
+ */
 const cta = {
-  'teaching': { label: 'Enquire about this program', href: routes.contact },
+  'teaching': { label: 'Request a free trial', href: `${routes.trial}?program=${program.id}` },
   'planned': { label: 'Explore learning resources', href: routes.resources },
   'not-teaching': { label: 'Contact Marlbridge', href: routes.contact },
   'not-confirmed': { label: 'Register interest', href: routes.contact },
 }[d.marlbridgeTeaches];
 
+/**
+ * Conversion & Trust round (2026-09-06, D-149) -- for a programme
+ * Marlbridge teaches, the shared tuition questions (trial, response time,
+ * class size, online delivery, billing, cancellation) are shown on the
+ * page alongside any programme-specific FAQs, because those are the
+ * questions that actually block a decision here. They are appended, never
+ * substituted, so a programme's own authored FAQs always come first.
+ *
+ * The FAQPage node is built from the SAME merged array the accordion
+ * renders, so schema and visible content cannot diverge -- programmes
+ * Marlbridge does not teach keep exactly their previous behaviour.
+ */
+/**
+ * "a" vs "an" for a programme title. Needed because several titles begin
+ * with a letter whose NAME starts with a vowel sound even though the letter
+ * itself is a consonant -- "an IGCSE class", "an O Level class", but "a
+ * GCSE class" (G is said "jee"). A plain vowel-letter test gets all three
+ * of those wrong, which is how "Try a IGCSE class first" shipped in the
+ * first draft of this change.
+ */
+const ACRONYM_VOWEL_SOUND = new Set(['A', 'E', 'F', 'H', 'I', 'L', 'M', 'N', 'O', 'R', 'S', 'X']);
+const article = (title: string): string => {
+  const first = title.trim()[0] ?? '';
+  const rest = title.trim().slice(1, 2);
+  // Treat a leading capital followed by another capital (or a space) as an
+  // initialism, read letter by letter; otherwise fall back to the plain
+  // vowel test for ordinary words.
+  const isInitialism = /[A-Z]/.test(first) && (rest === '' || rest === ' ' || /[A-Z]/.test(rest));
+  if (isInitialism) return ACRONYM_VOWEL_SOUND.has(first.toUpperCase()) ? 'an' : 'a';
+  return /[aeiou]/i.test(first) ? 'an' : 'a';
+};
+const programArticle = article(d.title);
+
+const visibleFaqs = d.marlbridgeTeaches === 'teaching'
+  ? [...d.faqs, ...TUITION_FAQS]
+  : d.faqs;
+
 const jsonLd = [
   // Course schema only for a program Marlbridge genuinely, currently teaches
   // — never for planned, not-taught or unconfirmed programs (v1.2 WS8).
   ...(d.marlbridgeTeaches === 'teaching' ? [courseNode({ path, name: `${d.title} — Marlbridge`, description: d.description })] : []),
-  ...(faqNode(d.faqs) ? [faqNode(d.faqs)!] : []),
+  ...(faqNode(visibleFaqs) ? [faqNode(visibleFaqs)!] : []),
 ];
 ---
 <PageLayout
@@ -69,6 +121,9 @@ const jsonLd = [
     <Badge label={availabilityLabel[d.marlbridgeTeaches]} tone={availabilityTone[d.marlbridgeTeaches]} />
     {d.curriculum && <span class="text-[14px] text-ink-mute">Curriculum: {d.curriculum}</span>}
     {d.ageRange && <span class="text-[14px] text-ink-mute">Typical ages: {d.ageRange}</span>}
+    {d.marlbridgeTeaches === 'teaching' && (
+      <span class="text-[14px] text-ink-mute">Groups capped at {PRICING_TERMS.maxGroupSize} &middot; one-to-one also available</span>
+    )}
   </div>
 
   <Section surface="white">
@@ -91,6 +146,21 @@ const jsonLd = [
         </RelatedGrid>
       )}
 
+      {d.marlbridgeTeaches === 'teaching' && <ProgramTeachers level={d.level} programTitle={d.title} />}
+
+      {d.marlbridgeTeaches === 'teaching' && (
+        <section aria-labelledby="program-trial" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">
+          <h2 id="program-trial" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Try {programArticle} {d.title} class first</h2>
+          <p class="m-0 mb-6 max-w-[62ch] text-[17px] leading-relaxed text-ink-mute">
+            {PRICING_TERMS.freeTrial} {PRICING_TERMS.trialFormat.summary} {PRICING_TERMS.enquiryResponse.summary}
+          </p>
+          <div class="flex flex-wrap items-center gap-4">
+            <Button href={`${routes.trial}?program=${program.id}`} variant="primary" size="lg" data-cta="program-trial">Request a free trial</Button>
+            <Button href={routes.pricing} variant="secondary">See tuition fees</Button>
+          </div>
+        </section>
+      )}
+
       {resources.length > 0 && (
         <RelatedGrid id="program-resources" title="Related resources">
           {resources.map((resource) => (
@@ -99,14 +169,25 @@ const jsonLd = [
         </RelatedGrid>
       )}
 
-      {d.faqs.length > 0 && (
+      {visibleFaqs.length > 0 && (
         <section aria-labelledby="program-faqs" class="mt-[clamp(48px,6vw,80px)] max-w-[80ch]">
           <h2 id="program-faqs" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Questions</h2>
-          <FAQ items={d.faqs} />
+          <FAQ items={visibleFaqs} />
         </section>
       )}
     </Container>
   </Section>
 
-  <CTA heading="Tell us what the learner needs." buttonLabel={cta.label} buttonHref={cta.href} />
+  {d.marlbridgeTeaches === 'teaching' && (
+    <>
+      <TuitionOptions surface="ivory" />
+      <HowTuitionWorks surface="white" showCta={false} />
+    </>
+  )}
+
+  <CTA
+    heading={d.marlbridgeTeaches === 'teaching' ? `Try ${programArticle} ${d.title} class before you decide.` : 'Tell us what the learner needs.'}
+    buttonLabel={cta.label}
+    buttonHref={cta.href}
+  />
 </PageLayout>

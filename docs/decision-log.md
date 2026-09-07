@@ -6923,3 +6923,98 @@ Each file gained a new "Section A — Multiple choice (topic sample)" section (5
 **Not done / explicitly out of scope:** no change was made to the `CONSOLIDATED_RESOURCES` static-file mechanism (still appropriate for its narrower, different purpose). No further Cloudflare account configuration was touched beyond the one List and one Rule described above.
 
 **Owner authority:** "use the browser" (authorizing the browser-automation approach to what D-147 had flagged as blocked on API access), followed by explicit, specifically-requested confirmation ("Yes, enable it now") before the one action in this round that changes live production routing.
+## D-149 — Conversion & trust round: homepage repositioned on the tuition offer, one-to-one pricing surfaced, teacher profiles made decision-useful, trial journey given real published facts
+
+**Date:** 2026-09-06
+
+**Trigger:** An owner-commissioned review of marlbridge.com as a commercial site — "do more suitable students and parents choose Marlbridge, request a free trial, attend it, and enrol" — supplying a list of suspected defects to verify rather than to accept. Every item below was checked against the codebase at `f15e868` before anything was changed; the list is recorded here with what was found, including the items that turned out to be already handled.
+
+**What was verified as still true (and fixed):**
+- The homepage led with a mission statement ("Bridging Knowledge and Opportunity — everywhere a learner studies") and two browsing actions. The free trial — the site's actual primary conversion — appeared nowhere on the page. No teachers, no lesson format, no fees basis, no trial explanation.
+- `/tutoring/` summarised fees as "charged per subject, per month" with the group-only multi-subject and sibling discounts. That is the GROUP basis only, on a page whose first listed mode is one-to-one tutoring — which is charged per class and carries no discounts. The one-to-one rates have existed in `src/data/pricing.ts` (`ONE_TO_ONE_PRICING`, D-012) since August and were never stated there.
+- `src/content/programs/igcse.md` (and `o-levels`, `a-levels`) had two-sentence bodies with no lesson detail at all.
+- `authors/[slug].astro` rendered a bio, a credentials line, then two long publication archives. The authors collection schema has held `subjectsTaught`, `yearsExperience`, `previousSchools`, `sourceUrl` and `verifiedOn` since v1.x WS4 — **the template rendered none of them.**
+- `/trial/` published no response window, no trial duration, no trial format, and no statement of what happens after submitting.
+- The resource-page tuition invitation was one generic line pointing at `/tutoring/`.
+- `WhatsAppButton.astro` sent the same fixed message from every page on the site.
+- `npm run audit:all` was **already failing on `main` before this round** — 6 duplicate meta descriptions across 12 IB MYP resource pages, which blocked the other 10 audits in the chain from running at all.
+
+**What was verified as ALREADY handled, and deliberately left alone:**
+- A gold "Free Trial Class" CTA already exists in the header and mobile menu (v1.x CLOSURE follow-up).
+- Pricing already has a single validated source of truth with an FX-drift build gate (D-049).
+- The review brief asked for structured qualification/board/subject/availability fields on the trial form. **This was explicitly declined**: D-047 removed exactly those fields on the owner's instruction that "student enquiry forms must contain only: Name, Email, Phone, Country, Message." The owner was asked directly about the conflict on 2026-09-06 and confirmed D-047 stands. The form is unchanged; everything around it was improved instead.
+
+**Owner authority (all confirmed directly in chat, 2026-09-06):**
+- Trial form keeps its 5 approved fields — D-047 stands, the review brief does not override it.
+- Homepage: full reposition onto the tuition offer approved, with the vision / Learners Academy / schools material moved below the decision path rather than deleted.
+- Response commitment: **email within two working days, WhatsApp within one working day.**
+- Trial format: **matches the format being considered** — a group trial is a real group class, a one-to-one trial is an individual class. Duration is therefore derived from the already-published `classFormat`, not restated as a second number.
+- Maximum group size: **15 students.**
+- Homepage H1 names IGCSE, O Level and A Level.
+
+**What shipped:**
+- `src/data/pricing.ts`: `maxGroupSize`, `trialFormat`, `enquiryResponse` and `serviceTermsVerifiedDate` added to `PRICING_TERMS`, so every surface quotes one reviewed wording.
+- `src/data/tuition.ts` (new): `TRIAL_STEPS`, `TUITION_FORMATS`, `TUITION_FAQS` — all derived from `pricing.ts`, no facts written inline.
+- `src/data/outcomes.ts` + `StudentOutcomes.astro` (new): the testimonial/case-study component the brief asked for, sitting in the homepage sequence and rendering **nothing at all** because no consented outcome exists. No placeholder, no "coming soon", no sample. The file documents the four conditions that must hold before one is added.
+- Homepage resequenced: offer → programmes → teachers → how it works → outcomes (empty) → group vs one-to-one → subjects → resources → FAQs → trial CTA, with the institutional material below that path.
+- `HomeHero.astro`: new offer-led H1 and trial CTA. The board list is **derived from the ACTIVE matrix**, not typed — an earlier draft hard-coded "Cambridge, Pearson Edexcel and OxfordAQA" and was wrong, since Marlbridge also has ACTIVE AQA and OCR combinations at these levels. The teacher count is likewise computed, not written.
+- `TeachersBand`, `HowTuitionWorks`, `TuitionOptions`, `HomeFaq`, `ProgramTeachers` (new sections), reused across `/`, `/tutoring/`, `/trial/` and taught programme pages.
+- `ProgramTeachers` matches teachers to a programme through the ACTIVE matrix and the teacher's own `subjectsTaught`, on normalised whole tokens only — never a fuzzy match — and renders nothing rather than falling back to "all teachers".
+- `authors/[slug].astro`: teaching panel (subjects, levels, boards, years, previous schools) with its `sourceUrl`/`verifiedOn` attribution, above the publication archives; "Meet the teacher" framing and a `/tutoring/` breadcrumb for people; a contextual trial CTA. The previous-schools line carries an explicit note that it records prior employment and **is not an endorsement of Marlbridge by those schools**. Author URLs are unchanged.
+- `/trial/`: real answers on trial format, duration, response window, named-teacher requests and what happens after the trial. `TrialContext.astro` carries `?program=` through — validated against a build-time allow-list of real programme slugs, rendered via `textContent`, and only ever pre-filling an empty message box. No personal data in any URL.
+- `WhatsAppButton.astro`: message now derived from the route family at build time (never from a query string, referrer, or anything a visitor controls), and reports a route-family topic to GA4 rather than a URL.
+- Resource pages: the tuition invitation now names the subject and level the reader is on and routes to the trial with that programme's context — one block at the foot of the page, no interstitial or pop-up.
+- `TrialFunnelEvents.astro` (new): `trial_cta_click` and `trial_form_start`. **Neither is a conversion and neither should be starred as a GA4 key event** — `generate_lead` remains the only client-side signal of a real enquiry. Trial scheduled / attended / paid enrolment are **not** emitted, because a static site cannot know them; they require a real integration from learnersacademy.cloud and are listed as outstanding below.
+- `igcse.md`, `o-levels.md`, `a-levels.md` bodies rewritten with lesson format, board and subject coverage, delivery and teacher-choice detail. `a-levels.md`'s `curriculum` field said "Cambridge / Edexcel"; the ACTIVE matrix has five boards at that level, so it was corrected.
+- The 6 pre-existing duplicate meta descriptions were diagnosed and fixed. They were **not** duplicate source text: the descriptions differed only past the 165-character `metaDescription` truncation point, so the rendered snippets collided. The fix front-loaded the distinguishing detail (format for the revision-notes siblings, subject name for the practice pair) — same facts, reordered, no new claim. **On rebase this collided with D-144, which had diagnosed and fixed the identical defect concurrently.** `origin/main`'s wording was taken for all 7 files rather than re-litigating equivalent copy; `npm run audit:metadata` was re-run on the rebased tree to confirm the merged result still passes.
+
+**What was explicitly NOT done, and why:**
+- No testimonial, case study, exam result, review score, student count, success rate or progress claim was written. None exists that Marlbridge can evidence and has permission to publish.
+- No named-teacher guarantee. `/trial/` and every teacher page say Marlbridge will name the teacher before scheduling but cannot promise a specific one in advance.
+- No claim about marking turnaround, homework, mock exams or progress reports — those processes are not recorded anywhere and were not invented.
+- Downstream funnel stages were not faked in analytics (see above).
+
+**Verification (all run on the final tree, not an intermediate one):** `npm run validate:academic` PASS; `npm run build` PASS (1,978 pages); `npm run audit:all` **PASS — an improvement on the pre-existing `main`, which failed this chain**; `node scripts/test-negative-validation-suite.mjs` all categories pass; `npx astro check` 0 errors / 0 warnings; `npm audit --omit=dev` 0 vulnerabilities; functions unit tests 31/31. `audit:accessibility` PASS across 1,978 pages. Rendered HTML spot-checked on `/`, `/trial/`, `/programs/igcse/` and `/authors/muhammad-ghazali-siddiqui/`: exactly one `h1` each, no skipped heading levels, derived board list and teacher count correct, trial-context box `hidden` by default, and the a/an article helper correct across all six taught programmes (an earlier draft rendered "Try a IGCSE class first").
+
+**Still open, and needing the owner:** real consented testimonials/case studies; a decision on the redundant "Explore Programs" header button now that the gold trial CTA is the primary action; confirmation of marking/feedback/reporting processes if they are to be published; and the CRM-side integration required before trial-scheduled, trial-attended or paid-enrolment can be measured at all.
+
+## D-150 — Learners Academy's results and reviews published under attribution (partial override of D-034); redundant header CTA removed; O Level past-paper wording made precise
+
+**Date:** 2026-09-07
+
+**Trigger:** Owner responses to the four open items left by D-149.
+
+### 1. Results and testimonials — D-034's testimonial restriction lifted, with conditions
+
+**Owner instruction (2026-09-07):** "Consented testimonials or case studies: you can use from learnersacademy.com.pk".
+
+**What that overrides:** D-034 recorded that Learners Academy was approved as evidence for **pricing and faculty information only**, and that "its academic taxonomy, results, testimonials or unsupported claims are NOT imported." The owner has now lifted that restriction **for results and testimonials specifically**. The academic-taxonomy and unsupported-claims half of D-034 was not raised and **still stands** — Marlbridge's matrix remains its own.
+
+**What was read, not assumed:** `https://learnersacademy.com.pk/results/`, fetched 2026-09-07. It is unusually disciplined source material: 51 grades from 44 students in the August 2026 season, published with the B's (16) and the single C left in, first name and initial only because some students are minors, and a stated check against the official Cambridge International Statement of Results where one was sent. The arithmetic was **re-derived rather than copied**: 4 + 30 + 16 + 1 = 51, and (4 + 30) / 51 = 66.7%, consistent with the published 67%.
+
+**The attribution problem, and how it is handled.** These students studied at Learners Academy and these reviews were left about Learners Academy. Presenting them in Marlbridge's voice would misattribute another organisation's results — the same class of error the site already guards against when it insists a teacher's previous school is not an endorsement of Marlbridge. What makes publication honest is the relationship already stated on the homepage: Learners Academy is the founding academy behind Marlbridge and the same teachers now teach under the Marlbridge name. So the data lives in its own file (`src/data/learners-academy-evidence.ts`), **not** in `src/data/outcomes.ts`, and `AcademyResults.astro` names Learners Academy in the eyebrow, in the first sentence, and in a source line carrying the URL and the date it was read.
+
+**`src/data/outcomes.ts` remains empty and stays in the homepage sequence.** Marlbridge's own consented outcomes are still a genuine gap; merging the two files would have hidden that gap rather than closed it.
+
+**Explicitly NOT imported, and not to be added without a new decision:**
+- **"4,200+ A & A* grades"** and **"9+ years teaching"** from the Learners Academy homepage — lifetime aggregates with no published basis, year or method. The results-season figures are checkable; these are not.
+- **Any `AggregateRating` or `Review` JSON-LD.** The 4.6★/32 reviews figure is Learners Academy's Google rating for Learners Academy. Emitting it as structured data on a Marlbridge page would assert a review rating for the wrong entity — a fabricated rating in Google's terms however real the number is elsewhere. It is rendered as attributed plain text with a link out and **no schema whatsoever**; verified absent from the built HTML.
+- **Full surnames**, for the same minor-safeguarding reason the source gives.
+
+**Consent basis — raised explicitly, and answered.** The owner was asked directly, in a question that stated the concern rather than burying it: consent given to Learners Academy to publish on `learnersacademy.com.pk` is not automatically consent to republish under a different brand, and some of these students are minors. The owner was offered three options (publish in full / publish the grade spread but hold the four named quotes / hold all of it pending a permissions check) and chose **publish in full**, on the basis that he owns both organisations and is satisfied the original permission covers this use (2026-09-07).
+
+**What that does and does not settle.** It is a real, informed authorisation from the person entitled to give it, and it is why this content ships. It is **not** a consent record this session inspected — no permission document was seen. If any family ever objects, the remedy is immediate removal of that entry from `src/data/learners-academy-evidence.ts`, which is why the data sits in one editable file rather than being written into page copy. The minor-safeguarding constraint (first name and initial only, never full surnames) travels with the data regardless of this authorisation and is not the owner's to waive on a student's behalf.
+
+**Where it renders:** homepage (between "how it works" and the group/one-to-one comparison) and `/tutoring/`.
+
+### 2. Header "Explore Programs" button removed
+
+**Owner instruction:** "do as you see fit." Removed from `Header.astro` and `MobileMenu.astro`. It pointed at `/programs/`, already the first item in `primaryNav` inches away, so it was a second route to the same page competing visually with the trial CTA next to it. The header now carries exactly one action. **Nothing became unreachable** — Programs remains in the desktop nav and the mobile menu; verified in the built HTML (`Explore Programs` occurrences on the homepage: 2 → 0; `Free Trial Class`: 2, unchanged).
+
+### 3. O Level "past-paper practice" wording
+
+**Owner confirmation:** past-paper work is something done in class; a folder of past papers may be shared later for hosting. The claim was therefore accurate but ambiguous on a site that publishes zero past-paper resources and has deliberately removed that empty category from sitewide navigation. `o-levels.md`'s `shortDescription`/`description` now read "past-paper practice **worked through in class**", which cannot be read as a promise of downloadable papers.
+
+**Past-paper hosting was NOT built.** No files exist yet, and `claude/section14-past-paper-audit-2026-09-01.md` records this programme's deliberately conservative position on past-paper material. Hosting third-party exam papers is a licensing question in its own right and needs its own decision when the folder actually arrives — it is not a side effect of a wording fix.
+
+**Verification:** `npm run validate:academic` PASS; `npm run build` PASS; `npm run audit:all` PASS; `npm run check:duplicate-scope` PASS; `npx astro check` 0 errors / 0 warnings; negative-fixture suite all categories pass; functions unit tests 31/31; `npm audit --omit=dev` 0 vulnerabilities. Built HTML checked directly for the attribution sentence, the absence of rating structured data, and the removed header button.

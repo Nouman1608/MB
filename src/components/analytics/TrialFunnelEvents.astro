@@ -1,0 +1,63 @@
+---
+/**
+ * Conversion & Trust round (2026-09-06, D-149) -- trial-funnel measurement.
+ *
+ * WHAT THIS DOES AND DELIBERATELY DOES NOT DO
+ *
+ * It records two things that were previously invisible:
+ *   `trial_cta_click`  -- someone pressed a "Request a free trial" button,
+ *                         and which one (hero, program page, resource page,
+ *                         teacher profile, and so on).
+ *   `trial_form_start` -- someone began filling the trial form. GA4's
+ *                         Enhanced Measurement already emits a generic
+ *                         `form_start`, but it does not distinguish the
+ *                         trial form from the school-partnership or
+ *                         general-contact forms, which is exactly the
+ *                         distinction that matters here.
+ *
+ * It does NOT mark either of these as a conversion, and neither should be
+ * starred as a GA4 key event. A CTA click is an intention, not an enquiry;
+ * a form start is not a submission. `generate_lead` (fired by
+ * EnquiryForm.astro on a genuine server-accepted submit) remains the only
+ * client-side signal that a real enquiry happened.
+ *
+ * The three stages after that -- trial scheduled, trial attended, paid
+ * enrolment -- CANNOT be observed from this website and are not faked here.
+ * A static page has no way of knowing whether a class was booked or taught;
+ * emitting an event that claimed otherwise would put a fabricated number in
+ * the owner's reporting. Those stages have to come from the real enquiry
+ * system (learnersacademy.cloud) or from GA4's Measurement Protocol driven
+ * by it, which is a separate, unbuilt integration -- see D-149.
+ *
+ * No personal data is sent: only the CTA's location on the page and the
+ * enquiry kind, both of which are values authored in this repository.
+ */
+---
+<script>
+  (() => {
+    const send = (name: string, params: Record<string, string>) => {
+      // Consent-gated: gtag is defined by ConsentAnalytics.astro and does
+      // nothing until the visitor grants analytics consent.
+      (window as any).gtag?.('event', name, params);
+    };
+
+    // 1. Trial CTA clicks. Delegated, so any element carrying data-cta is
+    //    covered without each one needing its own listener.
+    document.addEventListener('click', (evt) => {
+      const target = evt.target as Element | null;
+      const cta = target?.closest?.('[data-cta]') as HTMLElement | null;
+      if (!cta) return;
+      const location = cta.dataset.cta ?? 'unspecified';
+      if (!location.includes('trial')) return;
+      send('trial_cta_click', { cta_location: location });
+    });
+
+    // 2. First interaction with the trial form only. `once: true` means a
+    //    visitor who tabs through six fields produces one event, not six.
+    const trialForm = document.querySelector<HTMLFormElement>('[data-enquiry-form][data-kind="trial"]');
+    if (trialForm) {
+      const onStart = () => send('trial_form_start', { enquiry_kind: 'trial' });
+      trialForm.addEventListener('input', onStart, { once: true });
+    }
+  })();
+</script>

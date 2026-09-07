@@ -1,0 +1,38 @@
+---
+/**
+ * Conversion & Trust round (2026-09-06, D-149). "How tuition works" and
+ * "what happens during a trial" were both absent from every page a visitor
+ * converts on. Content comes from src/data/tuition.ts, which reads
+ * src/data/pricing.ts -- no facts are written inline here.
+ */
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SectionHeading from '../ui/SectionHeading.astro';
+import Button from '../ui/Button.astro';
+import { TRIAL_STEPS } from '../../data/tuition';
+import { routes } from '../../utils/urls/routes';
+
+interface Props { heading?: string; surface?: 'white' | 'ivory'; showCta?: boolean }
+const { heading = 'What happens when you request a trial.', surface = 'white', showCta = true } = Astro.props;
+---
+<Section surface={surface} labelledby="how-heading">
+  <Container>
+    <SectionHeading id="how-heading" eyebrow="How it works" scale="lg" font="display" class="max-w-[30ch]">{heading}</SectionHeading>
+
+    <ol class="m-0 mt-[clamp(36px,5vw,60px)] grid list-none gap-0 p-0 sm:grid-cols-2 sm:gap-x-[clamp(32px,5vw,72px)] lg:grid-cols-3">
+      {TRIAL_STEPS.map((step, i) => (
+        <li class="m-0 border-t border-rule py-[clamp(22px,2.6vw,32px)] first:border-gold-500 sm:[&:nth-child(2)]:border-gold-500 lg:[&:nth-child(3)]:border-gold-500">
+          <span aria-hidden="true" class="font-mono text-[12px] text-gold-600">{String(i + 1).padStart(2, '0')}</span>
+          <h3 class="m-0 mt-2 text-[19px] font-semibold leading-[1.2] tracking-[-0.015em] text-navy-800">{step.title}</h3>
+          <p class="m-0 mt-2.5 max-w-[44ch] text-[16px] leading-[1.6] text-ink-mute">{step.body}</p>
+        </li>
+      ))}
+    </ol>
+
+    {showCta && (
+      <p class="m-0 mt-[clamp(32px,4vw,48px)]">
+        <Button href={routes.trial} variant="primary" size="lg" data-cta="how-it-works-trial">Request a free trial</Button>
+      </p>
+    )}
+  </Container>
+</Section>

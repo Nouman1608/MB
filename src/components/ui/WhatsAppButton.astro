@@ -16,8 +16,45 @@
  * pattern as EnquiryForm.astro's gtag call, so nothing breaks if consent
  * hasn't been granted or gtag hasn't loaded yet.
  */
+/**
+ * Conversion & Trust round (2026-09-06, D-149) -- the prefilled message is
+ * now page-aware. Previously every page on the site opened WhatsApp with
+ * the same generic sentence, so a parent messaging from an A Level Physics
+ * page arrived in the inbox indistinguishable from one messaging from the
+ * homepage, and staff had to ask what the enquiry was about before they
+ * could answer it.
+ *
+ * The context is derived from the route family at BUILD time, from
+ * Astro.url.pathname -- not from a query string, a referrer or anything the
+ * visitor can influence, so a crafted URL cannot inject text into the
+ * message. Only the page's own topic travels: never a name, email, phone,
+ * country or any other personal data, all of which would end up in a
+ * wa.me query string and therefore in browser history and referrer logs.
+ */
 const phone = '923239149918';
-const message = "Hi, I'd like to ask about Marlbridge tutoring.";
+
+const path = Astro.url.pathname;
+const segment = (i: number): string | undefined => {
+  const parts = path.split('/').filter(Boolean);
+  return parts[i];
+};
+/** Turn a known slug into readable words. Slugs are authored in this
+ *  repository, never user input. */
+const words = (slug: string): string =>
+  slug.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+
+let context = '';
+if (path.startsWith('/programs/') && segment(1)) context = ` about ${words(segment(1)!)} tuition`;
+else if (path.startsWith('/subjects/') && segment(1)) context = ` about ${words(segment(1)!)} tuition`;
+else if (path.startsWith('/levels/') && segment(1)) context = ` about ${words(segment(1)!)} tuition`;
+else if (path.startsWith('/boards/') && segment(1)) context = ` about ${words(segment(1)!)} courses`;
+else if (path.startsWith('/authors/') && segment(1)) context = ` about studying with ${words(segment(1)!)}`;
+else if (path.startsWith('/pricing')) context = ' about tuition fees';
+else if (path.startsWith('/trial')) context = ' about a free trial class';
+else if (path.startsWith('/tutoring')) context = ' about tuition';
+else if (path.startsWith('/schools')) context = ' about working with my school';
+
+const message = `Hi, I'd like to ask${context || ' about Marlbridge tutoring'}.`;
 const href = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
 ---
 <a
@@ -27,6 +64,7 @@ const href = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
   aria-label="Chat with Marlbridge on WhatsApp"
   data-whatsapp-button
   data-link-location="floating_button"
+  data-page-context={context.trim() || "general"}
   class="fixed bottom-5 right-5 z-[90] flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition-transform duration-150 hover:scale-105 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-[#25D366]"
 >
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="30" height="30" fill="currentColor" aria-hidden="true">
@@ -42,6 +80,9 @@ const href = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
       // never costs the visitor a working WhatsApp link.
       (window as any).gtag?.('event', 'whatsapp_click', {
         link_location: link.dataset.linkLocation ?? 'unspecified',
+        // Route-family topic only (e.g. "about A Levels tuition"), never
+        // the full URL and never anything the visitor typed.
+        page_context: link.dataset.pageContext ?? 'general',
       });
     });
   });

@@ -1,0 +1,74 @@
+---
+/**
+ * Conversion & Trust round (2026-09-06, D-149).
+ *
+ * Teachers relevant to one programme, matched from real data rather than a
+ * hand-maintained list: the ACTIVE matrix gives the subjects Marlbridge
+ * teaches at this qualification, and an author qualifies if their own
+ * `subjectsTaught` names one of them.
+ *
+ * The match is deliberately conservative. `subjectsTaught` values are
+ * teacher-facing labels ("Business Studies", "Islamiyat / Pakistan
+ * Studies") that do not always equal a matrix subject name exactly, so a
+ * normalised comparison is used -- but only on the token level, never a
+ * fuzzy or partial-word match, because a wrong match here would put a
+ * teacher's name against a subject they do not teach. If nothing matches,
+ * this renders NOTHING rather than falling back to "all teachers", which
+ * would imply a relevance the data does not support.
+ */
+import Button from '../ui/Button.astro';
+import { getAuthors } from '../../utils/content/collections';
+import { activeOnly, LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
+import { routes } from '../../utils/urls/routes';
+
+interface Props { level: string; programTitle: string }
+const { level, programTitle } = Astro.props;
+
+/** Lowercase, strip punctuation, split on separators -- so "Islamiyat /
+ *  Pakistan Studies" yields both "islamiyat" and "pakistan studies", and
+ *  "Business Studies" yields "business studies" and "business". */
+const tokens = (label: string): string[] => {
+  const parts = label.toLowerCase().split(/\s*[/&,]\s*/).map((p) => p.trim()).filter(Boolean);
+  const out = new Set<string>();
+  for (const p of parts) {
+    out.add(p);
+    if (p.endsWith(' studies')) out.add(p.slice(0, -' studies'.length).trim());
+  }
+  return [...out];
+};
+
+const matrixSubjects = new Set(
+  activeOnly()
+    .filter((c) => LEVEL_FOR_QUALIFICATION[c.qualificationSlug] === level)
+    .flatMap((c) => tokens(c.subject)),
+);
+
+const teachers = (await getAuthors())
+  .filter((a) => a.data.entityType === 'person')
+  .filter((a) => a.data.subjectsTaught.some((s) => tokens(s).some((t) => matrixSubjects.has(t))))
+  .sort((a, b) => (b.data.yearsExperience ?? 0) - (a.data.yearsExperience ?? 0));
+---
+{teachers.length > 0 && (
+  <section aria-labelledby="program-teachers" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">
+    <h2 id="program-teachers" class="m-0 mb-3 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Who teaches {programTitle}</h2>
+    <p class="m-0 mb-8 max-w-[62ch] text-[17px] text-ink-mute">
+      Named subject specialists teaching at this level. Each profile lists the subjects they teach and cites where those details were verified from.
+    </p>
+    <ul class="m-0 grid list-none gap-4 p-0 sm:grid-cols-2 lg:grid-cols-3">
+      {teachers.map((t) => (
+        <li class="m-0">
+          <a href={routes.author(t.id)} class="flex h-full items-center gap-4 rounded-sm border border-rule p-4 transition-colors duration-150 hover:border-gold-500">
+            {t.data.image && <img src={t.data.image} alt="" width="52" height="52" class="h-13 w-13 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />}
+            <span class="min-w-0">
+              <span class="block text-[15.5px] font-semibold leading-snug text-navy-800">{t.data.name}</span>
+              <span class="block text-[13.5px] text-ink-mute">{t.data.subjectsTaught.join(' · ')}</span>
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <p class="m-0 mt-6">
+      <Button href={routes.tutoring} variant="quiet">See all teachers</Button>
+    </p>
+  </section>
+)}

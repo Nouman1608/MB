@@ -1,0 +1,52 @@
+---
+/**
+ * Conversion & Trust round (2026-09-06, D-149).
+ *
+ * Group and one-to-one tuition are priced on genuinely different bases --
+ * per subject per month vs per class -- and several pages summarised only
+ * the monthly group basis, which understates and misdescribes what
+ * one-to-one costs. This section states both side by side and links to
+ * /pricing/ for the actual regional numbers, which stay in one place.
+ */
+import Section from '../layout/Section.astro';
+import Container from '../layout/Container.astro';
+import SectionHeading from '../ui/SectionHeading.astro';
+import Button from '../ui/Button.astro';
+import { TUITION_FORMATS } from '../../data/tuition';
+import { PRICING_TERMS, PRICING_VERIFIED_DATE } from '../../data/pricing';
+import { routes } from '../../utils/urls/routes';
+
+interface Props { surface?: 'white' | 'ivory' }
+const { surface = 'ivory' } = Astro.props;
+---
+<Section surface={surface} labelledby="options-heading" border>
+  <Container>
+    <div class="mb-[clamp(32px,4.5vw,52px)] max-w-[62ch]">
+      <SectionHeading id="options-heading" eyebrow="Group or one-to-one" scale="lg" font="display">Two ways to be taught, priced differently.</SectionHeading>
+      <p class="m-0 mt-4 text-[17px] text-ink-mute">
+        Group classes are charged {PRICING_TERMS.unit}. One-to-one classes are charged per class. They are not the same rate expressed two ways &mdash; choose the row that matches how you want to be taught.
+      </p>
+    </div>
+
+    <ul class="m-0 grid list-none gap-5 p-0 lg:grid-cols-2">
+      {TUITION_FORMATS.map((f) => (
+        <li class="m-0 flex h-full flex-col rounded-sm border border-rule bg-white p-[clamp(24px,2.6vw,36px)]">
+          <h3 class="m-0 text-[21px] font-semibold tracking-[-0.015em] text-navy-800">{f.name}</h3>
+          <dl class="m-0 mt-5 grid gap-3.5 text-[15.5px] leading-[1.6]">
+            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Class format</dt><dd class="m-0 mt-1 text-ink-mute">{f.format}</dd></div>
+            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Class size</dt><dd class="m-0 mt-1 text-ink-mute">{f.groupSize}</dd></div>
+            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">How fees are charged</dt><dd class="m-0 mt-1 text-ink-mute">{f.billing}</dd></div>
+            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Discounts</dt><dd class="m-0 mt-1 text-ink-mute">{f.discounts}</dd></div>
+            <div><dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600">Free trial</dt><dd class="m-0 mt-1 text-ink-mute">{f.trial}</dd></div>
+          </dl>
+        </li>
+      ))}
+    </ul>
+
+    <div class="mt-[clamp(28px,3.5vw,44px)] flex flex-wrap items-center gap-4">
+      <Button href={routes.pricing} variant="secondary">See fees for your region</Button>
+      <Button href={routes.trial} variant="quiet" data-cta="tuition-options-trial">Request a free trial</Button>
+    </div>
+    <p class="m-0 mt-5 text-[13px] text-ink-mute">{PRICING_TERMS.notPermanentNote} Last confirmed {PRICING_VERIFIED_DATE}.</p>
+  </Container>
+</Section>

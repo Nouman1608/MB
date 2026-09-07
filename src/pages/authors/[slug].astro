@@ -6,6 +6,8 @@ import Container from '../../components/layout/Container.astro';
 import ArticleCard from '../../components/cards/ArticleCard.astro';
 import ResourceCard from '../../components/cards/ResourceCard.astro';
 import RelatedGrid from '../../components/layout/RelatedGrid.astro';
+import Button from '../../components/ui/Button.astro';
+import { PRICING_TERMS } from '../../data/pricing';
 import { getAuthors } from '../../utils/content/collections';
 import { articlesByAuthor, resourcesByAuthor } from '../../utils/content/related';
 import { personNode, organizationEntityNode } from '../../utils/schema/person';
@@ -25,6 +27,37 @@ const path = routes.author(author.id);
 const articles = await articlesByAuthor(author.id);
 const resources = await resourcesByAuthor(author.id);
 
+/**
+ * Conversion & Trust round (2026-09-06, D-149).
+ *
+ * These pages already held real, sourced teaching facts -- subjectsTaught,
+ * yearsExperience, previousSchools, sourceUrl, verifiedOn -- in the authors
+ * collection schema, and the template rendered NONE of them. A parent
+ * choosing a teacher saw a bio, a credentials line, and then two long
+ * archives of published resources: the page functioned as a byline index
+ * rather than as a reason to book this person.
+ *
+ * Everything below is read from the profile's own frontmatter. Nothing is
+ * inferred, rounded or filled in: a teacher with no recorded years of
+ * experience simply has no such row, and the whole teaching panel is
+ * omitted for an institutional byline or a profile with no teaching facts
+ * recorded yet, rather than rendering an empty shell.
+ *
+ * previousSchools is rendered under an explicit "Previously taught at"
+ * label. That wording is deliberate and must not be softened into anything
+ * suggesting those schools endorse, partner with or recommend Marlbridge --
+ * they are a record of where a person worked, nothing more.
+ */
+const isPerson = d.entityType === 'person';
+const teachingFacts = [
+  d.subjectsTaught.length > 0 && { label: 'Teaches', value: d.subjectsTaught.join(' · ') },
+  d.qualificationsTaught.length > 0 && { label: 'Levels', value: d.qualificationsTaught.join(' · ') },
+  d.boardsTaught.length > 0 && { label: 'Exam boards', value: d.boardsTaught.join(' · ') },
+  d.yearsExperience !== undefined && { label: 'Teaching experience', value: `${d.yearsExperience} years` },
+  d.previousSchools.length > 0 && { label: 'Previously taught at', value: d.previousSchools.join(', ') },
+].filter(Boolean) as { label: string; value: string }[];
+const showTeachingPanel = isPerson && teachingFacts.length > 0;
+
 // v1.2 WS7 — a team byline must never be emitted as Schema.org Person.
 const jsonLd = [
   d.entityType === 'organization'
@@ -36,15 +69,21 @@ const jsonLd = [
   title={d.name}
   description={`${d.name} — ${d.role} at Marlbridge. ${d.bio}`.slice(0, 160)}
   path={path}
-  eyebrow="Author"
+  eyebrow={isPerson ? 'Meet the teacher' : 'Author'}
   heading={d.name}
   lead={d.role}
   headingFont="sans"
-  breadcrumbs={[
-    { label: 'Home', href: routes.home },
-    { label: 'Learning Journal', href: routes.articles },
-    { label: d.name, href: path },
-  ]}
+  breadcrumbs={isPerson
+    ? [
+        { label: 'Home', href: routes.home },
+        { label: 'Tutoring', href: routes.tutoring },
+        { label: d.name, href: path },
+      ]
+    : [
+        { label: 'Home', href: routes.home },
+        { label: 'Learning Journal', href: routes.articles },
+        { label: d.name, href: path },
+      ]}
   jsonLd={jsonLd}
 >
   <Fragment slot="hero-extra">
@@ -84,9 +123,46 @@ const jsonLd = [
           {d.links.linkedin && <a href={d.links.linkedin} class="underline decoration-gold-500 underline-offset-2">LinkedIn</a>}
         </p>
       )}
+
+      {showTeachingPanel && (
+        <section aria-labelledby="teaching-facts" class="mt-10 rounded-sm border border-rule bg-ivory p-[clamp(22px,2.4vw,32px)]">
+          <h2 id="teaching-facts" class="m-0 text-[19px] font-semibold tracking-[-0.015em] text-navy-800">Teaching</h2>
+          <dl class="m-0 mt-5 grid gap-3.5 text-[15.5px] leading-[1.6]">
+            {teachingFacts.map((f) => (
+              <div class="grid gap-1 sm:grid-cols-[minmax(150px,auto)_1fr] sm:gap-4">
+                <dt class="m-0 font-mono text-[11px] uppercase tracking-[0.1em] text-gold-600 sm:pt-1">{f.label}</dt>
+                <dd class="m-0 text-ink">{f.value}</dd>
+              </div>
+            ))}
+          </dl>
+          {d.sourceUrl && (
+            <p class="m-0 mt-5 border-t border-rule pt-4 text-[13px] leading-relaxed text-ink-mute">
+              These details were taken from <a href={d.sourceUrl} rel="noopener" target="_blank" class="underline decoration-gold-500 underline-offset-2">the published faculty listing</a>{d.verifiedOn && <> and last checked on {d.verifiedOn.toISOString().slice(0, 10)}</>}. Where a school is listed above, it records where this teacher has previously worked — it is not an endorsement of Marlbridge by that school.
+            </p>
+          )}
+        </section>
+      )}
+
+      {isPerson && (
+        <section aria-labelledby="teacher-trial" class="mt-8 border-t border-rule pt-8">
+          <h2 id="teacher-trial" class="m-0 text-[19px] font-semibold tracking-[-0.015em] text-navy-800">Study with {d.name.split(' ')[0]}</h2>
+          <p class="m-0 mt-3 max-w-[62ch] text-[16.5px] leading-[1.65] text-ink-mute">
+            {PRICING_TERMS.freeTrial} Name the subject and level in your message and we will confirm which specialist is available — we cannot guarantee a specific teacher in advance, but we will tell you who it is before the class is scheduled. {PRICING_TERMS.enquiryResponse.summary}
+          </p>
+          <div class="mt-6 flex flex-wrap items-center gap-4">
+            <Button href={routes.trial} variant="primary" data-cta="teacher-trial">Request a free trial</Button>
+            <Button href={routes.tutoring} variant="quiet">See all teachers</Button>
+          </div>
+        </section>
+      )}
     </Container>
 
     <Container>
+      {isPerson && (articles.length > 0 || resources.length > 0) && (
+        <p class="mt-[clamp(48px,6vw,72px)] border-t border-rule pt-8 text-[15px] text-ink-mute">
+          Published for Marlbridge by {d.name} — free to read whether or not you study with us.
+        </p>
+      )}
       {articles.length > 0 && (
         <RelatedGrid id="author-articles" title="Articles">
           {articles.map((a) => <li class="m-0"><ArticleCard entry={a} /></li>)}

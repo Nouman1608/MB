@@ -19,8 +19,15 @@ import MobileMenu from './MobileMenu.astro';
     </nav>
 
     <div class="flex shrink-0 items-center gap-3.5">
-      <a href="/programs/" class="hidden rounded-sm bg-ivory px-5 py-3 text-sm font-medium text-navy-800 hover:bg-white lg:inline-flex">Explore Programs</a>
-      {/* v1.x CLOSURE follow-up -- second header CTA, requested to match
+      {/* Conversion & trust round (2026-09-07, D-150) -- the ivory "Explore
+          Programs" button was removed at the owner's discretion. It pointed
+          at /programs/, which is already the first item in primaryNav two
+          inches to the left, so it added a second route to the same page
+          while competing visually with the trial CTA beside it. The header
+          now carries exactly one action, which is the one the site exists to
+          produce. Nothing became unreachable: Programs remains in both the
+          desktop nav and the mobile menu. */}
+      {/* v1.x CLOSURE follow-up -- header CTA, requested to match
           the trial-class button on learnersacademy.com.pk. Colour and
           shape follow Marlbridge's own conventions rather than copying
           that site's rounded-pill/navy treatment: rounded-sm (matching
