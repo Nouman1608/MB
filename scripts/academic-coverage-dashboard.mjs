@@ -29,7 +29,9 @@ import { execSync } from 'node:child_process';
 const load = (file) => JSON.parse(execSync(
   `node --experimental-strip-types --no-warnings -e "` +
   `import('./${file}').then(m => process.stdout.write(JSON.stringify(m.default ?? m)))"`,
-  { encoding: 'utf8', cwd: process.cwd() }));
+  // maxBuffer raised from the 1MB default: syllabus-topics.ts now serializes
+  // to several MB with every board's full topic taxonomy populated.
+  { encoding: 'utf8', cwd: process.cwd(), maxBuffer: 64 * 1024 * 1024 }));
 
 const { MATRIX } = load('src/data/academic/matrix.ts');
 const { SYLLABUS_TOPICS } = load('src/data/academic/syllabus-topics.ts');
