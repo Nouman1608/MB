@@ -19,16 +19,18 @@ import Container from '../layout/Container.astro';
 import SectionHeading from '../ui/SectionHeading.astro';
 import Button from '../ui/Button.astro';
 import { getAuthors } from '../../utils/content/collections';
+import { sortPinnedFirst } from '../../data/featured-teachers';
 import { routes } from '../../utils/urls/routes';
 
 const people = (await getAuthors()).filter((a) => a.data.entityType === 'person');
-const featured = [...people]
-  .sort((a, b) => {
-    const named = Number(b.data.subjectsTaught.length > 0) - Number(a.data.subjectsTaught.length > 0);
-    if (named !== 0) return named;
-    return (b.data.yearsExperience ?? 0) - (a.data.yearsExperience ?? 0);
-  })
-  .slice(0, 6);
+// Pinned leads first (D-151). Because this band shows only the first six,
+// the pin genuinely changes who is visible here, not just the order --
+// which is the point of the instruction.
+const featured = sortPinnedFirst(people, (a, b) => {
+  const named = Number(b.data.subjectsTaught.length > 0) - Number(a.data.subjectsTaught.length > 0);
+  if (named !== 0) return named;
+  return (b.data.yearsExperience ?? 0) - (a.data.yearsExperience ?? 0);
+}).slice(0, 6);
 ---
 {featured.length > 0 && (
   <Section surface="ivory" labelledby="teachers-heading" border>

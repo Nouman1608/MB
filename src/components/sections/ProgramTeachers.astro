@@ -19,6 +19,7 @@
 import Button from '../ui/Button.astro';
 import { getAuthors } from '../../utils/content/collections';
 import { activeOnly, LEVEL_FOR_QUALIFICATION } from '../../utils/academic';
+import { sortPinnedFirst } from '../../data/featured-teachers';
 import { routes } from '../../utils/urls/routes';
 
 interface Props { level: string; programTitle: string }
@@ -43,10 +44,15 @@ const matrixSubjects = new Set(
     .flatMap((c) => tokens(c.subject)),
 );
 
-const teachers = (await getAuthors())
-  .filter((a) => a.data.entityType === 'person')
-  .filter((a) => a.data.subjectsTaught.some((s) => tokens(s).some((t) => matrixSubjects.has(t))))
-  .sort((a, b) => (b.data.yearsExperience ?? 0) - (a.data.yearsExperience ?? 0));
+// Pinned leads first (D-151), then the existing experience ordering. The
+// pin only reorders teachers already eligible for THIS programme -- the
+// subject filter above still decides who appears at all.
+const teachers = sortPinnedFirst(
+  (await getAuthors())
+    .filter((a) => a.data.entityType === 'person')
+    .filter((a) => a.data.subjectsTaught.some((s) => tokens(s).some((t) => matrixSubjects.has(t)))),
+  (a, b) => (b.data.yearsExperience ?? 0) - (a.data.yearsExperience ?? 0),
+);
 ---
 {teachers.length > 0 && (
   <section aria-labelledby="program-teachers" class="mt-[clamp(48px,6vw,80px)] border-t border-rule pt-10">

@@ -12,6 +12,7 @@ import { tutoringModes } from '../../data/homepage';
 import { TUITION_FAQS } from '../../data/tuition';
 import { PRICING_TERMS } from '../../data/pricing';
 import { getAuthors } from '../../utils/content/collections';
+import { sortPinnedFirst } from '../../data/featured-teachers';
 import { faqNode } from '../../utils/schema/faq';
 import { routes } from '../../utils/urls/routes';
 
@@ -20,9 +21,11 @@ import { routes } from '../../utils/urls/routes';
 // 19/19 match exactly). Only real people (entityType === 'person') are
 // listed here; the institutional "marlbridge-academic-team" byline is
 // excluded from this teacher grid.
-const teachers = (await getAuthors())
-  .filter((a) => a.data.entityType === 'person')
-  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+// Pinned leads first (D-151), then the existing alphabetical order.
+const teachers = sortPinnedFirst(
+  (await getAuthors()).filter((a) => a.data.entityType === 'person'),
+  (a, b) => a.data.name.localeCompare(b.data.name),
+);
 
 // Conversion & Trust round (2026-09-06, D-149) -- the same questions the
 // homepage answers, emitted here as FAQPage from the same array the visible
