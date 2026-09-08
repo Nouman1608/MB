@@ -306,14 +306,72 @@ const isThin = !indexability.indexable;
 const primaryAssessment = assessments.find((a) => a.specStatus === 'current') ?? assessments[0];
 const faqs: { question: string; answer: string }[] = [];
 if (primaryAssessment) {
-  const componentList = primaryAssessment.components
-    .map((comp) => {
-      const dur = comp.durationMinutes
-        ? `${Math.floor(comp.durationMinutes / 60)}h${comp.durationMinutes % 60 ? ` ${comp.durationMinutes % 60}m` : ''}`.trim()
-        : 'no fixed duration';
-      return `${comp.paperCode} (${comp.title}) — ${dur}, ${comp.marks} marks, ${comp.weightingPercent}% of the qualification`;
-    })
-    .join('; ');
+  /**
+   * WS6 (2026-09-08): this used to flatten every component into one
+   * semicolon list regardless of tier or alternativeGroup -- for a tiered
+   * syllabus like Cambridge 0620 that read "assessed through: Paper 1
+   * (Core); Paper 3 (Core); Paper 2 (Extended); Paper 4 (Extended); Paper
+   * 5; Paper 6", implying every candidate sits all six, when a Core
+   * candidate actually sits Paper 1 + Paper 3 + one of Paper 5/6, and an
+   * Extended candidate sits Paper 2 + Paper 4 + one of Paper 5/6. Checked
+   * live on /boards/cambridge/igcse/chemistry/ before this fix -- the
+   * flat listing was there, worded exactly as ambiguously as this.
+   *
+   * fmtComponent/describeComponents are also used by the tiered branch
+   * below, so alternativeGroup handling ("one of X or Y", never listing
+   * every alternative as though a candidate sits it) is identical whether
+   * or not the syllabus is also tiered -- one algorithm, not two.
+   *
+   * Deliberately does not attempt `routeGroup` (a component can belong to
+   * several route groups at once -- e.g. 0475 English Literature's Paper
+   * 3, shared between route-b and route-c -- a genuinely different,
+   * many-to-many composition model this pass does not build a describer
+   * for). A `routeGroup`-bearing assessment falls through to the flat
+   * per-component listing exactly as before this fix; not claimed fixed.
+   */
+  const fmtComponent = (comp: (typeof primaryAssessment.components)[number]) => {
+    const dur = comp.durationMinutes
+      ? `${Math.floor(comp.durationMinutes / 60)}h${comp.durationMinutes % 60 ? ` ${comp.durationMinutes % 60}m` : ''}`.trim()
+      : 'no fixed duration';
+    return `${comp.paperCode} (${comp.title}) — ${dur}, ${comp.marks} marks, ${comp.weightingPercent}% of the qualification`;
+  };
+  const describeComponents = (comps: typeof primaryAssessment.components): string => {
+    const seen = new Set<string>();
+    const parts: string[] = [];
+    for (const comp of comps) {
+      if (seen.has(comp.paperCode)) continue;
+      if (comp.alternativeGroup) {
+        const group = comps.filter((c) => c.alternativeGroup === comp.alternativeGroup);
+        group.forEach((c) => seen.add(c.paperCode));
+        parts.push(`one of ${group.map(fmtComponent).join(' or ')}`);
+      } else {
+        seen.add(comp.paperCode);
+        parts.push(fmtComponent(comp));
+      }
+    }
+    return parts.join('; ');
+  };
+  const hasRouteGroups = primaryAssessment.components.some((comp) => comp.routeGroup && comp.routeGroup.length > 0);
+  type NonNotTieredTier = Exclude<NonNullable<(typeof primaryAssessment.components)[number]['tier']>, 'not-tiered'>;
+  const tierValues = hasRouteGroups
+    ? []
+    : [
+        ...new Set(
+          primaryAssessment.components
+            .map((comp) => comp.tier)
+            .filter((t): t is NonNotTieredTier => !!t && t !== 'not-tiered'),
+        ),
+      ];
+  const componentList =
+    tierValues.length > 1
+      ? tierValues
+          .map((tier) => {
+            const shared = primaryAssessment.components.filter((comp) => !comp.tier || comp.tier === 'not-tiered');
+            const tierComps = primaryAssessment.components.filter((comp) => comp.tier === tier);
+            return `${TIER_LABEL[tier] ?? tier} candidates take: ${describeComponents([...tierComps, ...shared])}`;
+          })
+          .join('. ')
+      : describeComponents(primaryAssessment.components);
   const modelPhrase = primaryAssessment.assessmentModel ? ` It is a ${primaryAssessment.assessmentModel.replace('-', ' ')} qualification.` : '';
   /**
    * D-132 fix: when no record is `current` (a combination modeled only via
