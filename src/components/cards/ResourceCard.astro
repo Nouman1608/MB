@@ -19,7 +19,7 @@ interface Props {
 }
 const { entry, subjectTitle, headingLevel = 'h3' } = Astro.props;
 const meta = resourceCategoryMeta[entry.data.resourceType];
-const levels = resourceLevelLabel(entry.data.level, entry.data.stage);
+const levels = resourceLevelLabel(entry.data.level, entry.data.stage, entry.data.qualifications);
 /**
  * Audit I08 fix (2026-09-05): a related-resource card previously showed
  * only subject + level, with nothing distinguishing a same-board match

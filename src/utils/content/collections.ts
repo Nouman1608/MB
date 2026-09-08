@@ -64,21 +64,43 @@ export const readingTime = (body: string): number =>
   Math.max(1, Math.round(body.trim().split(/\s+/).length / 200));
 
 /**
- * Display label for a resource's `level` values, honouring `stage` for 9701
- * so an AS-only resource never reads as "A LEVELS" on the page. Only
- * 'a-levels' is stage-sensitive; every other level displays as before.
+ * Display label for a resource's `level` values.
+ *
+ * Two independent things can mark a resource as AS-only, and both must be
+ * honoured or an AS resource silently reads as "A LEVELS" on the page:
+ *
+ * 1. `stage` -- 9701-style combined "AS & A Level" syllabuses (one
+ *    qualification, `qualifications: ["a-level"]`, split by topic depth).
+ * 2. `qualifications` including `"as-level"` -- AQA's genuinely separate,
+ *    standalone AS Level qualification. This is NOT a 9701 stage split, so
+ *    these resources correctly never set `stage` (validate-academic-
+ *    content.mjs's stage-consistency check rejects `stage` on a resource
+ *    whose syllabusTopics aren't themselves stage-tagged, which AQA's
+ *    as-level taxonomy never is) -- yet they still declare
+ *    `level: ["a-levels"]`, per LEVEL_FOR_QUALIFICATION's deliberate
+ *    reuse of that bucket (src/utils/academic/index.ts). Before this fix,
+ *    resourceLevelLabel had no way to see (2) at all and fell through to
+ *    the generic branch, rendering every AQA AS-only resource as
+ *    "A LEVELS" everywhere this label appears (resource cards, related
+ *    resources, board/qualification hub pages). Found live on
+ *    /boards/aqa/as-level/business/, 2026-09-08.
+ *
+ * Only 'a-levels' is stage-sensitive; every other level displays as before.
  */
 export const resourceLevelLabel = (
   levels: readonly string[],
   stage?: 'AS' | 'A',
-): string =>
-  levels
+  qualifications?: readonly string[],
+): string => {
+  const effectiveStage = stage ?? (qualifications?.includes('as-level') ? 'AS' : undefined);
+  return levels
     .map((l) => {
-      if (l === 'a-levels' && stage === 'AS') return 'AS LEVEL';
-      if (l === 'a-levels' && stage === 'A') return 'A LEVEL';
+      if (l === 'a-levels' && effectiveStage === 'AS') return 'AS LEVEL';
+      if (l === 'a-levels' && effectiveStage === 'A') return 'A LEVEL';
       return l.replace(/-/g, ' ').toUpperCase();
     })
     .join(', ');
+};
 
 export const formatDate = (date: Date): string =>
   new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'long', year: 'numeric' }).format(date);

@@ -30,7 +30,7 @@ const path = resourceUrl(resource);
 const subject = await getEntry(d.subject);
 const author = d.author ? await getEntry(d.author) : undefined;
 const meta = resourceCategoryMeta[d.resourceType];
-const levels = resourceLevelLabel(d.level, d.stage);
+const levels = resourceLevelLabel(d.level, d.stage, d.qualifications);
 
 /**
  * Conversion & Trust round (2026-09-06, D-149).
