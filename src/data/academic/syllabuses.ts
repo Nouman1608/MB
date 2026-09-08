@@ -1647,12 +1647,12 @@ export const SYLLABUSES: readonly Syllabus[] = [
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'psychology',
     officialTitle: 'International Baccalaureate Diploma Programme Psychology',
-    code: 'DP Psychology',
+    code: 'DP Psychology (2019) / DP Psychology (2027)',
     boardSummary:
       'DP psychology introduces students to the biological, cognitive and sociocultural approaches to understanding behaviour, applied through four contexts of study, at Standard Level (SL) and Higher Level (HL).',
     officialUrl: 'https://www.ibo.org/university-admission/latest-curriculum-updates/psychology-updates/',
-    verifiedOn: '2026-09-05',
-    notes: 'New course launched February 2025, first teaching August 2025, first assessment May 2027 -- not yet the syllabus current students sit (the currently-active course, first assessment 2019, is being taught out and is not modeled in the matching assessment record; see that record\'s own notes for why). Four concepts (bias, causality, change, measurement, perspective, responsibility) explored through four contexts (health and well-being; human development; human relationships; learning and cognition), with Higher-Level-only extensions covering culture, motivation and technology, plus data analysis and interpretation. See the matching assessment record for the sourced paper-by-paper breakdown of the new course, modeled at both tiers and marked `future`.',
+    verifiedOn: '2026-09-08',
+    notes: 'IB is running two psychology specifications side by side during a transition. The currently-active course (first assessment 2019, the one current DP cohorts are actually examined under today) covers three core approaches to understanding behaviour -- biological, cognitive and sociocultural -- plus one of four options (abnormal, developmental, health, or relationships psychology) and a research/ethics strand running throughout, assessed via an experimental-study internal assessment. The new course (launched February 2025, first teaching August 2025, first assessment May 2027, confirmed directly against the official public subject brief) restructures around four concepts (bias, causality, change, measurement, perspective, responsibility) explored through four contexts (health and well-being; human development; human relationships; learning and cognition), with Higher-Level-only extensions covering culture, motivation and technology plus data analysis and interpretation, assessed via a research-proposal internal assessment. See the two matching assessment records (2019 marked `current`, 2027 marked `future`) for the sourced paper-by-paper breakdown of both.',
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'environmental-systems-and-societies',
@@ -1677,12 +1677,12 @@ export const SYLLABUSES: readonly Syllabus[] = [
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'computer-science',
     officialTitle: 'International Baccalaureate Diploma Programme Computer Science',
-    code: 'DP Computer Science',
+    code: 'DP Computer Science (2014) / DP Computer Science (2027)',
     boardSummary:
       'The DP computer science course requires an understanding of the fundamental concepts of computing systems and the ability to apply the computational thinking process to solve problems in the real world. The course also requires students to develop skills in algorithmic thinking and computer programming.',
     officialUrl: 'https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp_comp_sci_subjectbrief_en.pdf',
-    verifiedOn: '2026-09-05',
-    notes: 'Audit I07 fix -- new course launched February 2025, first teaching August 2025, first assessment May 2027 (confirmed directly against the official public subject brief this session). Organized into two themes: Theme A, Concepts of computer science (computer fundamentals, networks, databases, machine learning) and Theme B, Computational thinking and problem-solving (computational thinking, programming, object-oriented programming, and abstract data types at HL only), plus a case study and an internal-assessment computational solution. Studied in either Python or Java. This matches the theme/subtopic breakdown already used in this site\'s existing DP Computer Science resources (syllabusCodes: ["DP Computer Science"]) -- their content was independently correct, only this registry record was missing.',
+    verifiedOn: '2026-09-08',
+    notes: 'IB is running two computer science specifications side by side during a transition. The legacy course (first assessment 2014) is the one current DP cohorts are actually examined under today: SL/HL core (system fundamentals, computer organization, networks, computational thinking/problem-solving/programming) plus an HL extension (abstract data structures, resource management, control) and an annually issued pre-seen case study (HL Paper 3 only), with an Option (Databases, Modelling and Simulation, Web Science, or Object-Oriented Programming) sat as Paper 2. The new course (Audit I07 fix -- launched February 2025, first teaching August 2025, first assessment May 2027, confirmed directly against the official public subject brief) removes the option papers and HL-only Paper 3, folding databases and machine learning into the core Theme A and restructuring Theme B around computational thinking, programming, OOP and abstract data types, plus a case study and an internal-assessment computational solution, studied in Python or Java. This matches the theme/subtopic breakdown already used in this site\'s existing DP Computer Science resources (syllabusCodes: ["DP Computer Science"]) -- their content was independently correct. See the two matching assessment records (2014 marked \'current\', 2027 marked \'future\') for the sourced paper-by-paper breakdown of both.',
   },
 ] as const;
 

@@ -4711,7 +4711,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'ib', qualificationSlug: 'ib-dp', subjectSlug: 'computer-science',
-    syllabusCode: 'DP Computer Science', syllabusSeries: 'First assessment 2027',
+    syllabusCode: 'DP Computer Science (2014) / DP Computer Science (2027)', syllabusSeries: 'First assessment 2027',
     effectiveFrom: '2027', effectiveTo: 'current', status: 'current',
     tiered: false,
     source: 'International Baccalaureate Organization, Diploma Programme Subject Brief -- Sciences: Computer science, first assessment 2027, © 2024',
