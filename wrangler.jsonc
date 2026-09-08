@@ -42,6 +42,29 @@
     "enabled": true
   },
 
+  // D-152 -- enquiry rate limiting, finally given the KV namespace its code
+  // has always expected.
+  //
+  // functions/api/enquiry.ts has called checkRateLimit(env.ENQUIRY_RATE_LIMIT)
+  // since the endpoint was written, capping submissions at 5 per IP per hour.
+  // That binding was never declared here and no KV namespace existed on the
+  // account at all (`wrangler kv namespace list` returned an empty array on
+  // 2026-09-08), so `env.ENQUIRY_RATE_LIMIT` was always undefined in
+  // production and checkRateLimit's `if (!kv || !ip) return true` fail-open
+  // path ran every single time. The limit was real in the source and absent
+  // in reality -- exactly the kind of gap this repo's validators exist to
+  // stop, found by diffing the deployed Worker's bindings against the code.
+  //
+  // Fail-open is retained deliberately: a KV outage should degrade rate
+  // limiting, never block a genuine enquiry. Turnstile and the honeypot
+  // remain the primary spam defences; this is a second layer, not the first.
+  "kv_namespaces": [
+    {
+      "binding": "ENQUIRY_RATE_LIMIT",
+      "id": "f1cee847b64448afb8bb30141dc6dc8e"
+    }
+  ],
+
   // D-125 -- Search Console demand-engine snapshot store. Created directly
   // via the Cloudflare API (not through this file) on 2 Sep 2026; this
   // binding just points the Worker at it. See functions/_lib/gsc-refresh.ts

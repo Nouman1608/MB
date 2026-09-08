@@ -29,6 +29,7 @@ setup:routes`. If a route 404s locally, run it manually:
 | Variable | Used by | Required |
 | --- | --- | --- |
 | `RESEND_API_KEY` | `functions/api/enquiry.ts` (Cloudflare Pages Function) — sends the enquiry email | Yes, in production |
+| `ENQUIRY_RATE_LIMIT` | Same function — KV namespace backing the 5-per-IP-per-hour cap. A **binding**, not a secret: declared in `wrangler.jsonc`. Fails open if absent, so a KV outage degrades rate limiting rather than blocking enquiries (D-152) | Declared in config |
 | `TURNSTILE_SECRET_KEY` | Same function — verifies the Cloudflare Turnstile token before sending | Yes, in production |
 
 Both are Cloudflare Pages secrets, never committed. Until they're set in an environment, enquiry
@@ -207,7 +208,10 @@ Run before every push; all are wired into `npm run validate:academic` and `npm r
 
 - **`validate:academic`** — matrix integrity, resource/topic cross-references, commercial-claims
   wording, cross-board consistency, pricing/FX consistency, review-state integrity, duplicate
-  resource scope, assessment-structure integrity.
+  resource scope, assessment-structure integrity, pinned-teacher slugs (D-151), and Worker
+  binding/config agreement (D-152 — every `env.X` the Worker reads must be a declared binding or
+  a listed secret, so a fail-open binding can never again be missing in production while the
+  source reads as though it exists).
 - **`audit:all`** — metadata (duplicate titles/descriptions), structured data, redirects,
   internal-link graph (broken links, orphans, generic anchor text), content-integrity
   (indexability/metadata-honesty/self-canonical), font-binary integrity, sitemap/noindex
