@@ -161,3 +161,46 @@ at the top of the programme brief: a decision not to change a page is valid
 when evidence doesn't support changing it. Re-running this report in 28 days
 against a fresh export (kept alongside this one) will start showing trend
 data.
+
+## Update, 8 Sep 2026: first weekly WS7 batch, via Supermetrics connector
+
+The owner connected the Supermetrics MCP connector this session and
+authenticated its Google Search Console data source
+(`sc-domain:marlbridge.com`), giving a third way to feed the same canonical
+scoring engine (`scripts/growth/scoring.mjs`) without forking it: pull live
+via Supermetrics, format to the same `Queries.csv`/`Pages.csv` shape GSC's
+own UI export produces, then run `npm run growth:gsc` unmodified. This is the
+"connector path (Supermetrics, if the owner authorizes it)" this file's
+architecture notes anticipated without committing to before authorization
+existed.
+
+Pulled the last 28 days: 94 queries (impressions >= 10) and 110 pages
+(impressions >= 20) -- filtered at query time for token budget, not because
+lower-traffic rows matter less; below the filter floor, rows cannot
+mathematically qualify for any `classifyQuery` opportunity type regardless.
+
+**Query-level result**: 101 queries classified -- 14 `EMERGING_DEMAND`,
+2 `CTR_OPPORTUNITY`, 85 `LOW_PRIORITY`. Zero `QUICK_WIN`/`NEAR_PAGE_ONE`
+(position 4-20) and no meaningful flagship-code demand -- consistent with
+the 2 Sep report's finding that the site is still building ranking
+authority. Per this file's own priority order, query-level data alone did
+not support a batch this week.
+
+**Page-level result, used instead**: `gsc-opportunity-report.mjs` only
+classifies queries, not pages, and WS7 asks for URLs -- so the same
+documented `CTR_OPPORTUNITY` formula (expected-CTR floor by position band,
+impressions >= 50) was applied to the page-level report, surfacing 8 URLs
+ranking page-one (position ~7-10) with well below-floor CTR. 7 of the 8 were
+actioned: `seoDescription` added to 7 resource pages (1 also got a
+`seoTitle`), all within the `content.config.ts` Zod limits, all paraphrased
+from the existing on-page `description` with no new facts. The 8th
+(`/boards/cambridge/o-level/statistics/`) is template-computed with no
+per-page override mechanism -- flagged as an open, template-level follow-up,
+not actioned this round. Full methodology, the 8-URL table, and verification
+are in `docs/decision-log.md` D-158.
+
+**Still not done**: reconciling this snapshot against the live D1
+`/admin/search-demand/` pipeline (D-125), which has confirmed-configured
+credentials and should already be running daily but was not queried this
+round; GA4 (still not connected); any recurring/scheduled cadence for future
+weekly batches -- this was one manually-run week.

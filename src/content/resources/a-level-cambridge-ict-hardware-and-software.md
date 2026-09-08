@@ -14,6 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "hardware-and-software"
 description: "Mainframe computers and supercomputers, system software, utility software, custom-written and off-the-shelf software, and user interfaces -- Section 2 of Cambridge International AS & A Level ICT (9626)."
+seoDescription: "Cambridge AS & A Level ICT (9626) Section 2 study guide: mainframes, system and utility software, off-the-shelf vs custom software, and user interfaces."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false

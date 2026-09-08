@@ -13,6 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-2058"
 description: "Condensed recall notes on Paper 1's exact question structure and mark scheme, plus the Qur'an, the Prophet's life and the first Islamic community, for Cambridge O Level Islamiyat 2058."
+seoDescription: "Free Cambridge O Level Islamiyat (2058) Paper 1 revision notes: exact question format, the Qur'an, and the Prophet's life, condensed for quick recall."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-25
 featured: false

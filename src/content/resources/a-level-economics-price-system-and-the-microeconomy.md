@@ -14,6 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "the-price-system-and-the-microeconomy-as-cambridge-alevel-economics"
 description: "Demand and supply curves, price/income/cross elasticity, market equilibrium, and consumer and producer surplus -- a syllabus map and study guide for Topic 2 of Cambridge AS & A Level Economics 9708, 2026-2028 series."
+seoDescription: "Cambridge AS & A Level Economics (9708) Topic 2 study guide: demand and supply, elasticity, market equilibrium, and consumer/producer surplus explained."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
