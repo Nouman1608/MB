@@ -7149,3 +7149,29 @@ Net correction: the Git integration was never broken and does not need reconnect
 **Verification.** `node --experimental-strip-types scripts/validate-assessments.mjs`: **PASSED**, 166 records, all 14 structural rules clean, including rule 6 (exactly one `current` record per board+qualification+subject+tier-overlap group) and rule 11 (`future` records genuinely later-dated than their `current`/`legacy-teach-out` siblings). Full `npm run validate:academic` gate run: matrix, content tagging, commercial claims, cross-board integrity, pricing consistency, review integrity, pinned teachers, worker bindings, AS-level display, FX policy, assessments, and grade thresholds all **PASSED**. One real defect was caught and fixed by this gate: `syllabus-topics.ts`'s existing Computer Science (2027-only) topic collection still declared the old bare `syllabusCode: 'DP Computer Science'`, which no longer matched `syllabuses.ts`'s new compound code -- cross-board-integrity rule [1] failed with exactly the intended message, confirming the check works; fixed by updating the topic collection's `syllabusCode` to the compound string, re-ran clean. `validate-practice-question-schema.mjs` could not be run in this environment (missing `node_modules`/`astro` dependency, unrelated to this change -- a pre-existing sandbox limitation, not a new failure introduced here).
 
 **Not run this round:** `npm run build`/`astro check` (no dependency install available in this sandbox), `audit:all`'s dist-dependent sub-checks, `test-cross-board-regression.mjs`, `test-negative-validation-suite.mjs`, `npm audit`, and the functions/API unit tests. This change touches only `assessments.ts`, `syllabuses.ts`, and one `syllabus-topics.ts` entry; it does not touch pricing, commercial claims, the matrix schema, or the enquiry API.
+
+
+---
+
+## D-157 - D-156's remaining verification gate run on real infrastructure (build, astro check, audit:all, regression/negative suites, npm audit, API tests); one internal-note leak caught and fixed
+
+**Date:** 2026-09-08
+
+**Trigger:** D-156 (same day) validated cleanly in a dependency-less sandbox, which could not run `npm run build`, `astro check`, `audit:all`, or the two test suites (no `node_modules`/`astro`). Once desktop-commander reconnected, this session ran the remainder of the gate against a fresh clone of the pushed `a3825c9` commit on real infrastructure, closing that verification gap.
+
+**What was actually wrong.** `npm run audit:all`'s `[7]` content-integrity check (added under an earlier Post-v2.0 WS3 cleanup specifically to catch this class of mistake) failed on first run: the new IB DP Computer Science `'current'` record's public-facing `notes` field -- the one field this repo's own schema renders on the live hub page -- named an internal dataset file by its bare filename ("...is registered in syllabuses.ts but does not yet have its own assessment record..."), exactly the leak class D-056/WS2/WS3 already fixed once before and built a permanent regression guard for. `internalNotes` (not publicly rendered) correctly used the same phrasing and was left alone.
+
+**Fix.** `notes` reworded to describe the gap without naming the internal file: "...the newer, not-yet-examined course (first assessment 2027) is registered separately but does not yet have its own assessment record here -- a genuine, explicitly scoped gap...". No factual content changed, only the phrasing that leaked an implementation detail.
+
+**Full gate run against the fix, on real infrastructure (fresh clone of `a3825c9`, `npm ci`, Windows/PowerShell+cmd):**
+- `npm run build` (which runs `validate:academic` internally, then `astro build`, then `postbuild` pagefind indexing): **2060 pages built, `[build] Complete!`**, Pagefind indexed cleanly (36s, only the expected non-stemming-language notes for `ur`). Re-run after the fix: same clean result.
+- `npx astro check`: **0 errors, 0 warnings, 18 hints** -- identical to the pre-existing baseline reported by D-153/D-154/D-155.
+- `npm run audit:all` (11 sub-audits): first run caught the leak above (`[7]` content-integrity, 1 problem); after the fix, **all 11 sub-audits PASS, 0 problems** -- metadata, structured-data, redirects, internal-links, content-integrity, fonts, sitemap/noindex, i18n routes, rendered-labels, tiered-FAQ-routes, review-coverage, accessibility.
+- `node scripts/test-cross-board-regression.mjs`: **PASS** -- 2 previously-flagged pages clean, 5 graduated Chemistry pages intact, 3 graduated Accounting pages intact, 9 Cambridge control pages intact.
+- `node scripts/test-negative-validation-suite.mjs`: **35/35 passed**, covering every fixture category including the D-129 mirror-provenance checks and the D-155 tiered-FAQ route grouping.
+- `npm audit`: **0 vulnerabilities**.
+- `node --experimental-strip-types --test functions/api/__tests__/*.test.mjs`: **31/31 passed** (enquiry validation, Turnstile, Resend, honeypot, header-injection defence, correction-report kind).
+
+**Verification of the push.** Committed and pushed via real `git push` (desktop-commander, `gh`-authenticated credentials, same safe route as D-156 and D-131's standing rule -- no file content passed through the model's output). Confirmed by cloning fresh into an independent directory afterward and diffing against the intended commit: zero diff, correct HEAD SHA.
+
+**Not done / out of scope:** this entry covers only the verification gap D-156 disclosed and the one defect it surfaced. No other content was reviewed or changed.
