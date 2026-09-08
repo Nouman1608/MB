@@ -93,14 +93,28 @@ const errors = [];
  * no way to import the real one (it has no astro:content dependency itself,
  * but collections.ts as a whole does, via getCollection), so it is
  * duplicated here rather than left unchecked.
+ *
+ * D-153 (WS4, 2026-09-08): the real function gained a third argument,
+ * `qualifications`, deriving AS-ness from a resource's standalone
+ * `qualifications: ["as-level"]` when `stage` is absent (AQA's genuinely
+ * separate AS Level qualification, as opposed to 9701's combined-syllabus
+ * `stage` field). This copy was not updated in the same change -- exactly
+ * the drift this comment warns about -- and every AQA AS Level resource
+ * failed this audit as a result (rendered "AS LEVEL" correctly; this stale
+ * copy still expected "A LEVELS"). Caught by running audit:rendered-labels
+ * for WS5 and finding it FAILED for an unrelated reason. Fixed here to
+ * match collections.ts exactly.
  */
-const levelLabel = (levels, stage) => levels
-  .map((l) => {
-    if (l === 'a-levels' && stage === 'AS') return 'AS LEVEL';
-    if (l === 'a-levels' && stage === 'A') return 'A LEVEL';
-    return l.replace(/-/g, ' ').toUpperCase();
-  })
-  .join(', ');
+const levelLabel = (levels, stage, qualifications) => {
+  const effectiveStage = stage ?? (qualifications?.includes('as-level') ? 'AS' : undefined);
+  return levels
+    .map((l) => {
+      if (l === 'a-levels' && effectiveStage === 'AS') return 'AS LEVEL';
+      if (l === 'a-levels' && effectiveStage === 'A') return 'A LEVEL';
+      return l.replace(/-/g, ' ').toUpperCase();
+    })
+    .join(', ');
+};
 
 const scalarField = (fm, name) => {
   const m = fm.match(new RegExp(`^${name}:\\s*"?([A-Za-z-]+)"?\\s*$`, 'm'));
@@ -142,7 +156,7 @@ for (const file of resourceFiles) {
   const boards = listField(fm, 'boards');
   const quals = listField(fm, 'qualifications');
 
-  const expectedLevel = levelLabel(levels, stage);
+  const expectedLevel = levelLabel(levels, stage, quals);
   const at = `dist/resources/${slug}/index.html`;
 
   const levelMatch = html.match(/data-pagefind-filter="Level"[^>]*>([^<]*)</);
@@ -248,10 +262,53 @@ for (const c of activeCombos) {
   }
 }
 
+// ---------------------------------------------------------------------------
+// [3] DUPLICATED ASSESSMENT-COMPONENT TIER SUFFIX (D-153 follow-up, WS5)
+//
+// Some component titles in assessments.ts already end in their own tier
+// suffix ("Non-calculator (Core)") because that is genuinely part of the
+// official component name; the hub template also appends a separate tier
+// badge after every tiered component's title. Before the WS5 fix this
+// unconditionally doubled up wherever a title already carried it --
+// "Non-calculator (Core) (Core)" -- on every tiered syllabus hub across
+// every board, not just one. The template fix (src/pages/boards/
+// [board]/[qualification]/[subject].astro) now suppresses the badge when
+// the title already ends in the same tier's parenthetical, but a future
+// edit to that same block could reintroduce the double-append without
+// touching any data file at all, so this checks the actual rendered
+// output rather than re-deriving from assessments.ts (which is not
+// TS-strip-loadable via the load() helper above -- it is the one data
+// module in this family too large/slow to round-trip through `node -e`
+// on every validate:academic run, hence living in audit:all instead).
+//
+// General on purpose: catches ANY immediately-repeated identical
+// parenthetical after a component title, not just "(Core) (Core)" -- the
+// same bug class would look identical for "(Extended) (Extended)",
+// "(Higher) (Higher)", etc.
+// ---------------------------------------------------------------------------
+let assessmentHubsChecked = 0;
+const dupTierPattern = /\(([A-Za-z][A-Za-z \-]*)\)\s*\(\1\)/g;
+for (const c of activeCombos) {
+  const distPath = join('dist', 'boards', c.boardSlug, c.qualificationSlug, c.subjectSlug, 'index.html');
+  let html;
+  try {
+    html = await readFile(distPath, 'utf8');
+  } catch {
+    continue;
+  }
+  assessmentHubsChecked++;
+  const at = `dist/boards/${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}/index.html`;
+  const dupes = [...html.matchAll(dupTierPattern)];
+  if (dupes.length) {
+    const unique = [...new Set(dupes.map((d) => `(${d[1]}) (${d[1]})`))];
+    errors.push(`${at}: assessment component renders a duplicated tier suffix -- ${unique.join(', ')}`);
+  }
+}
+
 if (errors.length) {
   console.error(`\nRendered academic-label validation FAILED -- ${errors.length} problem(s):\n`);
   for (const e of errors) console.error(`  • ${e}`);
   console.error('');
   process.exit(1);
 }
-console.log(`Rendered academic-label validation OK -- ${resourcesChecked} resource page(s) and ${hubsChecked} academic hub page(s) checked, rendered labels match canonical data.`);
+console.log(`Rendered academic-label validation OK -- ${resourcesChecked} resource page(s), ${hubsChecked} academic hub page(s), and ${assessmentHubsChecked} assessment table(s) checked, rendered labels match canonical data with no duplicated tier suffixes.`);

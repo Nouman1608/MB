@@ -515,7 +515,18 @@ const jsonLd = [
                       <tr class="border-b border-rule/60">
                         <td class="py-2 pe-3 text-ink">
                           {comp.paperCode}: {comp.title}
-                          {comp.tier && comp.tier !== 'not-tiered' && <span class="text-ink-mute"> ({TIER_LABEL[comp.tier] ?? comp.tier})</span>}
+                          {/* D-153 follow-up (WS5): some component titles already end in their own
+                              "(Core)"/"(Extended)" — e.g. "Non-calculator (Core)" — because that is
+                              genuinely part of the official component name. Appending the tier badge
+                              unconditionally on top of that produced "Non-calculator (Core) (Core)"
+                              everywhere a title happened to already carry it. Checked live on several
+                              tiered syllabus hubs, 2026-09-08. Only suppress the badge when the title's
+                              own trailing "(<Tier>)" already says the same tier this component is
+                              tagged with -- a title ending in a genuinely different parenthetical must
+                              still get its tier badge. */}
+                          {comp.tier && comp.tier !== 'not-tiered' && !comp.title.trim().endsWith(`(${TIER_LABEL[comp.tier] ?? comp.tier})`) && (
+                            <span class="text-ink-mute"> ({TIER_LABEL[comp.tier] ?? comp.tier})</span>
+                          )}
                         </td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.durationMinutes ? `${Math.floor(comp.durationMinutes / 60)}h ${comp.durationMinutes % 60 ? `${comp.durationMinutes % 60}m` : ''}`.trim() : '—'}</td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.marks}</td>
