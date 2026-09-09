@@ -7417,3 +7417,74 @@ after the 2 allow-list additions above).
 
 **This sub-batch brings the second pass to 50/50 resources published** (sub-batches E through L across
 this pass). A closing report will follow this entry summarising the full second pass.
+
+## D-164 - npm audit remediation: astro (critical), js-yaml/sharp/svgo (high)
+
+**Date:** 2026-09-09
+
+**Trigger:** User request to resolve the 4 npm audit vulnerabilities carried
+unfixed through the second-pass content sub-batches (E-L), where each entry
+recorded them as "pre-existing, unrelated, not fixed" because they were out of
+scope for content work. See D-163's validation gate for the last such notation.
+
+**Resolved via `npm audit fix` -- no `--force`, no major version bumps:**
+
+| Package | Before | After | Advisory |
+|---|---|---|---|
+| astro | 7.2.2 | 7.3.2 | critical -- GHSA-26w7-cxv4-gfx2 (AVIF RCE), GHSA-376h-93r7-7g6f (base-strip bypass) |
+| js-yaml | 4.3.1 | 4.3.2 | high -- GHSA-2883-xcg3-v3hh |
+| sharp | 0.35.3 | 0.35.4 | high -- GHSA-rgj7-g3m4-5g8c (libheif) |
+| svgo | 4.0.2 | 4.1.0 | high -- GHSA-w27v-7q3p-w38r, GHSA-4vpr-x523-8j87 (removeScripts) |
+
+Two things worth recording, because both contradict the framing the task began
+with. First, the **critical was astro itself**, not one of the three named
+packages -- those were the three highs. Second, `npm audit` reported "No fix
+available" against astro 7.2.2, yet `npm audit fix` resolved it to 7.3.2, which
+clears both advisories; the "no fix" line reflected the advisory range (`astro
+*`) rather than the absence of a patched release. The base-strip bypass did not
+apply to this site in any case, as `astro.config.mjs` configures no `base`.
+
+Everything landed inside existing semver ranges, so `package.json` is unchanged
+and only `package-lock.json` moved (333 insertions, 475 deletions).
+
+**Validation gate:** `npx astro check` (0 errors, 18 pre-existing hints) ->
+`npm run validate:academic` (all validators PASS, 160/160 ACTIVE combinations
+sourced, 903 questions schema-valid) -> build (2129 pages, exact baseline
+match) -> pagefind -> `audit-internal-links.mjs` (0 problems) ->
+`audit-accessibility.mjs` (0 problems across 2128 pages) ->
+`test-cross-board-regression.mjs` (OK) -> `test-negative-validation-suite.mjs`
+(35/35) -> API tests (31/31) -> `npm audit` (0 vulnerabilities remaining).
+
+**Build-output verification.** sharp and svgo both run in the build pipeline, so
+their output was diffed rather than assumed: the `dist/` image and SVG inventory
+is identical in count (60 files), and the only differences are 9 AVIF files at
+exactly +2 bytes each -- an encoder metadata field from sharp's libheif bump. No
+WebP, JPG, PNG or SVG changed at all. Three sampled AVIFs re-decode at their
+correct dimensions (420x525, 2560x1080, 768x324). The lockfile was also
+sanity-checked given the security context: every entry resolves to
+registry.npmjs.org and carries an integrity hash.
+
+**Deploy:** the Cloudflare Git integration fired automatically ~2.5 minutes
+after the push (contrary to an earlier report that it had stopped firing; it had
+recovered). Live spot-checks -- `/`, `/resources/`, two practice pages and a
+board hub -- all 200 with full content, and the changed AVIF assets serve 200 as
+`image/avif`.
+
+**esbuild postinstall: investigated, deliberately NOT approved.** `npm ci` warns
+that `esbuild@0.28.2`'s postinstall (`node install.js`) is not covered by
+allowScripts, which initially looked like a follow-up to action via
+`npm approve-scripts esbuild`. It is not, and the reasoning is recorded here so
+it is not re-raised: esbuild delivers its platform binary through 26
+`optionalDependencies` (here `@esbuild/win32-x64`), all 26 of which are pinned
+in the committed lockfile, so `npm ci` installs the correct binary on any
+machine including CI. `install.js` is a fallback whose own source names the
+`--no-optional` flag as the case it exists for, and whose actual work is
+`validateBinaryVersion` -- verification, not installation. Verified empirically:
+with the script skipped, `esbuild.exe` is present and a live TypeScript
+transform succeeds. Approving it would not change the lockfile, would not
+protect CI, and would loosen script-execution posture inside a change whose
+purpose was to tighten security. The warning is therefore expected and benign.
+
+**Owner authority:** user request, 2026-09-09, relayed with a proposed entry from
+the parallel session; the esbuild section is amended from that proposal to record
+the investigated conclusion rather than the original assumption.
