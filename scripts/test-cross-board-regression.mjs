@@ -32,10 +32,7 @@ async function readPage(path) {
 // source citation, and must instead show the honest "being verified"
 // placeholder (since no non-Cambridge topic data exists yet in
 // syllabus-topics.ts).
-const CONTAMINATED_PAGES = [
-  'boards/oxfordaqa/a-level/chemistry/index.html',
-  'boards/ocr/a-level/chemistry/index.html',
-];
+const CONTAMINATED_PAGES = [];
 
 // The 3 Accounting pages above were originally in CONTAMINATED_PAGES too
 // (flagged as suspected Cambridge-leak victims), but since v1.x Accounting
@@ -70,6 +67,19 @@ const CHEMISTRY_NOW_PUBLISHED = [
   { page: 'boards/oxfordaqa/igcse/chemistry/index.html', domain: 'oxfordaqa.com', code: '9202' },
 ];
 
+// The last 2 originally-flagged pages (OxfordAQA A-Level Chemistry and OCR
+// A-Level Chemistry) have since had real, own-board taxonomy data added to
+// syllabus-topics.ts by other work in this repository (not part of this
+// commit), following the identical graduation pattern set by
+// ACCOUNTING_NOW_PUBLISHED and CHEMISTRY_NOW_PUBLISHED above. Discovered as
+// a stale-test false failure while running the validation gate for an
+// unrelated content batch; fixed here as a small, clearly-flagged,
+// pattern-matching correction rather than left to fail the gate.
+const CHEMISTRY_A_LEVEL_NOW_PUBLISHED = [
+  { page: 'boards/oxfordaqa/a-level/chemistry/index.html', domain: 'oxfordaqa.com', code: '9620' },
+  { page: 'boards/ocr/a-level/chemistry/index.html', domain: 'ocr.org.uk', code: 'H432' },
+];
+
 const LEAK_SIGNATURES = ['cambridgeinternational.org', 'Core tier', 'Extended tier', 'Supplement content'];
 
 console.log('\n[A] 3 previously-flagged pages (still unpublished) no longer show Cambridge topic-map data');
@@ -83,6 +93,20 @@ for (const page of CONTAMINATED_PAGES) {
     fail(`${page} shows neither a Cambridge leak nor the expected honest "being verified" placeholder — unexpected state, needs manual review`);
   } else {
     ok(`${page} — clean (honest placeholder, no Cambridge leak)`);
+  }
+}
+
+console.log('\n[A4] 2 Chemistry A-Level pages that have since been published with real, board-cited topic data');
+for (const { page, domain, code } of CHEMISTRY_A_LEVEL_NOW_PUBLISHED) {
+  const html = await readPage(page);
+  if (html === null) continue;
+  const leaks = LEAK_SIGNATURES.filter((sig) => html.includes(sig));
+  if (leaks.length) {
+    fail(`${page} still contains Cambridge leak signature(s): ${leaks.join(', ')}`);
+  } else if (!html.includes(domain) || !html.includes(code)) {
+    fail(`${page} does not show its own real, board-cited topic data (expected ${domain} and ${code})`);
+  } else {
+    ok(`${page} — real, own-board topic data intact (code ${code} present, ${domain} cited)`);
   }
 }
 
@@ -151,5 +175,5 @@ if (problems) {
   console.error(`CROSS-BOARD REGRESSION TEST FAILED — ${problems} problem(s).`);
   process.exit(1);
 } else {
-  console.log(`Cross-board regression test OK — ${CONTAMINATED_PAGES.length} previously-flagged pages clean, ${ACCOUNTING_NOW_PUBLISHED.length} graduated Accounting pages intact, ${CHEMISTRY_NOW_PUBLISHED.length} graduated Chemistry pages intact, ${CAMBRIDGE_CONTROLS.length} control pages intact.`);
+  console.log(`Cross-board regression test OK — ${CONTAMINATED_PAGES.length} previously-flagged pages clean, ${ACCOUNTING_NOW_PUBLISHED.length} graduated Accounting pages intact, ${CHEMISTRY_NOW_PUBLISHED.length} graduated Chemistry pages intact, ${CHEMISTRY_A_LEVEL_NOW_PUBLISHED.length} graduated Chemistry A-Level pages intact, ${CAMBRIDGE_CONTROLS.length} control pages intact.`);
 }
