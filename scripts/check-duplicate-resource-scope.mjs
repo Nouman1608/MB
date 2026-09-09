@@ -133,8 +133,11 @@ const REVIEWED_LEGITIMATE = [
     files: ['igcse-sociology-methods-inequality-practice.md', 'sociology-research-methods-practice.md'],
     evidence: 'First blends core methods terms/sampling/structured interviews with substantive inequality content (gender pay gap, ethnicity and life chances). Second is a pure methods deep-dive (participant observation, official statistics, reliability vs validity, ethics, sampling a hard-to-reach population). No shared question or answer despite both touching "sampling" in passing.',
   },
+  {
+    files: ['cambridge-igcse-islamiyat-rightly-guided-caliphs.md', 'igcse-cambridge-islamiyat-paper-2.md'],
+    evidence: "Second (paper-2.md) is a whole-Paper-2 overview covering all four Paper-2 subtopics (2.1 Hadith passages, 2.2 History of the Hadiths, 2.3 the Rightly Guided Caliphs, 2.4 Articles of Faith/Pillars of Islam) with a compact bullet-point summary for each -- 2.3 gets roughly three short bullets and one paragraph on cross-topic connections. First (new, 2026-09-09) is a 2.3-only deep dive: a named, dated summary of each of the four Caliphs' rule, a comparative worked example on structuring an 'explain the significance' answer, and a dedicated section on achievements/difficulties as a revision structure -- none of which the overview develops beyond its opening bullets. No shared sentence-level content, confirmed by direct comparison before writing.",
+  },
 ];
-
 const legitimateKeyOf = (fs) => [...fs].sort().join('|');
 const REVIEWED_KEYS = new Map(
   REVIEWED_LEGITIMATE.map((entry) => [legitimateKeyOf(entry.files), entry.evidence])

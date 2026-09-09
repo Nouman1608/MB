@@ -7306,3 +7306,56 @@ In all three cases, direct comparison before writing confirmed no shared sentenc
 **Recorded in `scripts/check-duplicate-resource-scope.mjs`** as three new `REVIEWED_LEGITIMATE` entries, keyed to the exact file-pair list (a rename or a third file joining either group will re-trigger review). `npm run check:duplicate-scope` re-run clean after the addition: "PASS: every group sharing an identical official syllabus scope is reviewed and allow-listed above."
 
 **Not a change to any other file's content, scope, or classification.**
+
+## D-162 - Second-pass sub-batch K: 1 duplicate-scope allow-list entry + a level/stage frontmatter fix
+
+**Date:** 2026-09-09
+
+**Trigger:** Continuing the `marlbridge-weekly-study-guides` scheduled task's second pass. `npx astro check`
+first flagged `cambridge-a-level-geography-coastal-environments.md` with `level: ["a-level"]` (an invalid
+enum value; the schema requires `"a-levels"`) -- fixed to match every existing Cambridge A-Level sibling
+file. The same file then failed `npm run validate:academic`'s stage-consistency check, because
+`syllabus-topics.ts`'s Cambridge A-Level Geography (9696) record marks Paper 3 and Paper 4 (`slug:
+paper-3-advanced-physical-geography-options-9696` / `paper-4-...`) as `stage: 'A'` (the A2-year advanced
+options, distinct from the AS-year core content in Papers 1-2), but the new file's frontmatter had no
+`stage` field -- fixed by adding `stage: "A"`, matching the pattern already used by every other staged
+sibling in this repository (e.g. the AQA A-Level Biology/Chemistry files added in sub-batch H used `stage:
+"AS"` for the same reason, in reverse).
+
+**Duplicate-scope review:** `npm run check:duplicate-scope` flagged
+`cambridge-igcse-islamiyat-rightly-guided-caliphs.md` (new, Subtopic 2.3 only) against the existing
+`igcse-cambridge-islamiyat-paper-2.md` (whole-Paper-2 overview). Reviewed: the overview gives 2.3 roughly
+three bullet points and one cross-topic paragraph; the new file is a dedicated deep dive with a named,
+dated summary of all four Rightly Guided Caliphs, a comparative achievements/difficulties revision
+structure, and a full worked example on structuring an "explain the significance" exam answer -- none of
+which the overview develops beyond its opening bullets. No shared sentence-level content, confirmed by
+direct comparison before writing. Recorded as a new `REVIEWED_LEGITIMATE` entry in
+`scripts/check-duplicate-resource-scope.mjs`; `npm run check:duplicate-scope` re-run clean after the
+addition.
+
+**5 new study-guides published this sub-batch** (all on syllabus sections/subtopics with zero existing
+sibling coverage, once every combination's top-level topics were checked against existing files):
+- `cambridge-a-level-geography-coastal-environments.md` -- one of four Paper 3 Advanced Physical Geography
+  options (9696), the only option with a genuinely detailed official process/landform content list found
+  via search; full syllabus PDF not fetched directly (large-document size limit), confirmed via official
+  search summaries and cross-checked against standard A-Level physical geography content.
+- `cambridge-igcse-economics-microeconomic-decision-makers.md` -- Topic 3 (0455), the third of six
+  syllabus topics, entirely uncovered by any existing sibling.
+- `cambridge-igcse-islamiyat-rightly-guided-caliphs.md` -- Subtopic 2.3 (0493), reviewed above.
+- `cambridge-igcse-urdu-component-5-speaking.md` -- the optional, separately-endorsed Speaking component
+  (0539), entirely uncovered by any existing sibling (which cover only the compulsory Paper 1/Paper 2).
+- `cambridge-igcse-world-history-depth-study-first-world-war.md` -- Depth Study A (0470), one of five
+  Depth Study options, entirely uncovered by any existing sibling (which cover only the two compulsory
+  Core Content options).
+
+All 5 confirmed at or above the 900-body-word target (body-only count, matching the coverage script's own
+method): 1065, 1009, 997, 990, 983.
+
+**Validation gate:** `npx astro check` (0 errors after the level/stage fixes) -> `npm run validate:academic`
+(all 14 validators PASS, including Stage consistency OK) -> build (2122 pages) -> pagefind ->
+`audit-internal-links.mjs` (0 broken) -> `audit-accessibility.mjs` (0 problems across 2121 pages) ->
+`test-cross-board-regression.mjs` (OK, all groups intact) -> `test-negative-validation-suite.mjs` (35/35
+passed) -> API tests (31/31 passed) -> `npm audit` (same 4 pre-existing high/critical vulnerabilities,
+unrelated, not fixed) -> `coverage:academic-v2` regenerated (1626 total resource files, median 991
+words/resource, 5/1626 under 900 words -- stable pre-existing baseline) -> `check:duplicate-scope` (PASS
+after the 1 allow-list addition above).
