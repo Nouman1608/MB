@@ -55,6 +55,13 @@ right place, workings shown -- and marks are available for that format independe
 accuracy. **Exam-preparation priority**: practise reproducing statement formats from memory until the
 layout itself needs no thought, freeing attention for the figures.
 
+## Two of the four papers examine content the others do not repeat
+
+AS Paper 1's introduction to double-entry and AS Paper 2's financial management content are each
+examined once, in their own paper, rather than being re-tested at A-level. **Exam-preparation priority**:
+do not defer AS-specific content to "revise later at A-level" -- once the AS papers are sat, that
+specific content is not directly re-examined, even though the underlying skills feed forward.
+
 ## Worked routine: adjusting a trial balance before preparing statements
 
 The routine below is an original model written for this resource, not a reproduction of any official
