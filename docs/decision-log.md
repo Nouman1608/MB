@@ -7359,3 +7359,61 @@ passed) -> API tests (31/31 passed) -> `npm audit` (same 4 pre-existing high/cri
 unrelated, not fixed) -> `coverage:academic-v2` regenerated (1626 total resource files, median 991
 words/resource, 5/1626 under 900 words -- stable pre-existing baseline) -> `check:duplicate-scope` (PASS
 after the 1 allow-list addition above).
+
+## D-163 - Second-pass sub-batch L (final): 2 duplicate-scope allow-list entries for Cambridge O Level deep dives
+
+**Date:** 2026-09-09
+
+**Trigger:** Continuing the `marlbridge-weekly-study-guides` scheduled task's second pass, this sub-batch
+completes the 50-resource target. `npm run check:duplicate-scope` flagged 2 new study-guide files against
+existing whole-paper overview siblings.
+
+**What was reviewed:**
+- `cambridge-o-level-islamiyat-major-themes-of-the-quran.md` (new, Subtopic 1.1 only) vs the existing
+  `o-level-islamiyat-paper-1.md` (whole-Paper-1 overview): the overview gives 1.1 a single one-line bullet
+  before its "Key content" section shifts entirely to 1.2's compilation history and the 1.3/1.4 timeline --
+  1.1 is never independently developed. The new file covers the three official theme categories (God in
+  Himself, God's relationship with the created world, God's Messengers) in full, with a dedicated tawhid
+  section, a guidance/accountability pairing section, and a passage-categorisation worked example.
+- `cambridge-o-level-sociology-social-stratification-and-inequality.md` (new, Subtopic 1.3 only) vs the
+  existing `o-level-sociology-research-methods-identity-and-inequality.md` (whole-Paper-1 overview): the
+  overview's treatment of 1.3 is one syllabus bullet plus a connective paragraph linking it to 1.2
+  (Identity) -- 1.3's own content (life chances, meritocracy, Marxist explanations of class inequality) is
+  not independently developed. The new file covers life chances as the unifying concept, meritocracy and
+  its sociological critique, gender/ethnicity as forms of stratification, and a worked example applying a
+  Marxist explanation to a scenario.
+
+Both confirmed to share no sentence-level content with their overview sibling. Recorded as two new
+`REVIEWED_LEGITIMATE` entries in `scripts/check-duplicate-resource-scope.mjs`; `npm run check:duplicate-scope`
+re-run clean after the additions.
+
+**7 new study-guides published this sub-batch**, all on syllabus sections/subtopics/components with zero
+existing sibling coverage (checked against every combination's existing files before writing):
+- `cambridge-o-level-commerce-globalisation-of-trade.md` -- Topic 3 of 6 (7100)
+- `cambridge-o-level-environmental-management-agriculture.md` -- Topic 3 of 9 (5014)
+- `cambridge-o-level-islamiyat-major-themes-of-the-quran.md` -- Subtopic 1.1 (2058), reviewed above
+- `cambridge-o-level-sociology-social-stratification-and-inequality.md` -- Subtopic 1.3 (2251), reviewed
+  above
+- `cambridge-o-level-statistics-frequency-distributions.md` -- Topic 3 of 12 (4040)
+- `ocr-a-level-biology-exchange-and-transport.md` -- Module 3 of 6 (H420)
+- `ocr-a-level-business-marketing-and-marketing-strategies.md` -- Theme 3 of 7 (H431)
+
+All 7 confirmed at or above the 900-body-word target (body-only count, matching the coverage script's own
+method): 1036, 995, 971, 928, 981, 921, 947. All sourced via WebSearch official-page summaries (large
+specification PDFs exceeded the page-fetch size limit in every case this sub-batch), cross-checked against
+standard, well-established subject knowledge for each spec's level, and explicitly flagged as such in each
+file's Official Syllabus section and in the commit message.
+
+**Validation gate:** `npx astro check` (0 errors -- no level/qualification enum mistakes this round) ->
+`npm run validate:academic` (all 14 validators PASS, including Stage consistency OK; the OCR Biology file
+correctly omits a `stage` field, since `syllabus-topics.ts`'s Exchange and Transport module carries no
+stage tag, unlike the earlier Cambridge Geography Paper 3/4 case) -> build (2129 pages) -> pagefind ->
+`audit-internal-links.mjs` (0 broken) -> `audit-accessibility.mjs` (0 problems across 2128 pages) ->
+`test-cross-board-regression.mjs` (OK, all groups intact) -> `test-negative-validation-suite.mjs` (35/35
+passed) -> API tests (31/31 passed) -> `npm audit` (same 4 pre-existing high/critical vulnerabilities,
+unrelated, not fixed) -> `coverage:academic-v2` regenerated (1633 total resource files, median 990
+words/resource, 5/1633 under 900 words -- stable pre-existing baseline) -> `check:duplicate-scope` (PASS
+after the 2 allow-list additions above).
+
+**This sub-batch brings the second pass to 50/50 resources published** (sub-batches E through L across
+this pass). A closing report will follow this entry summarising the full second pass.
