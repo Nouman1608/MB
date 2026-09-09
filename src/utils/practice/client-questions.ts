@@ -30,6 +30,19 @@ export interface ClientQuestion {
   resourceSlug: string;
   resourceTitle: string;
   topics: { key: string; label: string }[];
+  /**
+   * WS8 (2026-09-09) -- which tier this question's mapped subtopics belong
+   * to, read from the same syllabus-topics.ts `tier` field the official
+   * syllabus tables already carry (Core / Supplement columns) -- nothing
+   * invented here. When a question maps to subtopics with different tiers,
+   * the "hardest" wins: any 'supplement' mapping makes the whole question
+   * 'supplement' (Extended-only), else any 'both' makes it 'both', else
+   * 'core'. `undefined` means either the syllabus isn't tiered, or none of
+   * the question's mapped subtopics carry a tier tag in the source data
+   * (e.g. 0620's experimental-technique subtopics) -- treated as safe for
+   * either tier, not silently coerced into a guess.
+   */
+  tier?: 'core' | 'supplement' | 'both';
 }
 
 type FlagshipSpecWithCombination = ReturnType<typeof flagshipSpecs>[number];
@@ -66,10 +79,12 @@ export function buildClientQuestions(spec: FlagshipSpecWithCombination): ClientQ
   const questions = practiceQuestionsForCode(spec.code);
   const topicMeta = topicsFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug);
   const topicLabel = new Map<string, string>();
+  const subtopicTier = new Map<string, 'core' | 'supplement' | 'both'>();
   if (topicMeta) {
     for (const t of topicMeta.topics) {
       for (const st of t.subtopics) {
         topicLabel.set(`${t.slug}/${st.slug}`, `${t.name} — ${st.name}`);
+        if (st.tier) subtopicTier.set(`${t.slug}/${st.slug}`, st.tier);
       }
     }
   }
@@ -80,6 +95,20 @@ export function buildClientQuestions(spec: FlagshipSpecWithCombination): ClientQ
       const key = `${t.topicSlug}/${t.subtopicSlug}`;
       return { key, label: topicLabel.get(key) ?? key.replace(/-/g, ' ') };
     });
+    // WS8 -- "hardest tier wins" across a question's mapped subtopics: any
+    // 'supplement' (Extended-only) mapping makes the question Extended-only;
+    // otherwise any 'both' makes it 'both'; otherwise 'core' if every mapped
+    // subtopic is core-only; undefined if nothing mapped carries a tier tag.
+    const tiers = entries
+      .map((t) => subtopicTier.get(`${t.topicSlug}/${t.subtopicSlug}`))
+      .filter((t): t is 'core' | 'supplement' | 'both' => !!t);
+    const tier = tiers.includes('supplement')
+      ? 'supplement'
+      : tiers.includes('both')
+        ? 'both'
+        : tiers.includes('core')
+          ? 'core'
+          : undefined;
     return {
       id: q.id,
       qHtml: mdToHtml(q.questionMarkdown),
@@ -88,6 +117,7 @@ export function buildClientQuestions(spec: FlagshipSpecWithCombination): ClientQ
       resourceSlug: q.resourceSlug,
       resourceTitle: q.resourceTitle,
       topics,
+      tier,
     };
   });
 }

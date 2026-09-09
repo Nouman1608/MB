@@ -25,6 +25,7 @@ import Container from '../../../components/layout/Container.astro';
 import { flagshipSpecs, academicHubPath } from '../../../utils/academic/index.ts';
 import { practiceQuestionsForCode } from '../../../utils/practice/bank.ts';
 import { syllabusFor } from '../../../data/academic/syllabuses.ts';
+import { topicsFor } from '../../../data/academic/syllabus-topics.ts';
 import { routes } from '../../../utils/urls/routes';
 import { buildClientQuestions, dataHashFor } from '../../../utils/practice/client-questions.ts';
 
@@ -62,6 +63,31 @@ const analyticsContext = {
   qualification: spec.combination.qualification,
   subject: spec.combination.subject,
 };
+
+/**
+ * WS8 (2026-09-09) -- tier-routed diagnostic.
+ *
+ * `syllabus.tiered` is the same real, officially-sourced flag already used
+ * elsewhere in this codebase (D-155's FAQ fix, the assessment tables) --
+ * true today for 0620 Chemistry and 0580 Mathematics, false for 0625/9701/
+ * 9702. The Diagnostic check mode below only shows a Core/Extended route
+ * question when this is true, so untiered specs are unaffected.
+ *
+ * `trialHref` reuses the existing, security-reviewed TrialContext mechanism
+ * (D-149): `/trial/?program=<slug>` pre-fills the trial request with the
+ * matching programme, where <slug> is an exact key in that component's own
+ * build-time allow-list (src/content/programs/*.md ids). Only a mapping
+ * this session has verified against that allow-list is included here; an
+ * unmapped qualification falls back to the pre-existing plain /tutoring/
+ * link rather than guessing a slug that might not exist.
+ */
+const tiered = topicsFor(spec.boardSlug, spec.qualificationSlug, spec.subjectSlug)?.tiered ?? false;
+const QUALIFICATION_TO_PROGRAM: Record<string, string> = {
+  'igcse': 'igcse',
+  'a-level': 'a-levels',
+};
+const trialProgramSlug = QUALIFICATION_TO_PROGRAM[spec.qualificationSlug];
+const trialHref = trialProgramSlug ? `/trial/?program=${trialProgramSlug}` : '/tutoring/';
 ---
 <PageLayout
   title={`${subjectTitle} — Free Practice Questions`}
@@ -119,6 +145,19 @@ const analyticsContext = {
           <span id="mb-practice-timer" class="font-mono text-navy-800" hidden>00:00</span>
         </div>
 
+        {tiered && (
+          <div id="mb-practice-tier-gate" class="mb-6 rounded-sm border border-rule bg-white p-[clamp(22px,3vw,36px)]" hidden>
+            <h2 class="m-0 mb-2 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Which tier are you preparing for?</h2>
+            <p class="m-0 mb-5 text-[14.5px] text-ink-mute">{subjectTitle} is tiered: Extended candidates cover Core content plus more. This decides which questions you'll be asked.</p>
+            <div class="flex flex-wrap gap-3">
+              <button type="button" data-tier-choice="core" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Core</button>
+              <button type="button" data-tier-choice="extended" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Extended</button>
+              <button type="button" data-tier-choice="unsure" class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">Not sure</button>
+            </div>
+            <p class="m-0 mt-4 text-[13px] text-ink-mute">Not sure includes some Extended-only content — skip anything your course doesn't cover.</p>
+          </div>
+        )}
+
         <div id="mb-practice-card" class="rounded-sm border border-rule bg-white p-[clamp(22px,3vw,36px)]">
           <div class="mb-4 flex items-center justify-between text-[12px] font-medium uppercase tracking-[0.1em] text-gold-600">
             <span id="mb-practice-qnum">Question 1 of {clientQuestions.length}</span>
@@ -155,7 +194,7 @@ const analyticsContext = {
           <p class="m-0 mt-6 text-[13px] text-ink-mute">A simple, deterministic check based on the questions you were just given, spread across the syllabus topics this bank covers — not a validated diagnostic assessment, and not a prediction of exam performance.</p>
           <div class="mt-5 flex flex-wrap items-center gap-3">
             <a href={hubPath} class="rounded-sm border border-rule bg-white px-5 py-2.5 text-[14px] font-medium text-ink transition-colors hover:border-gold-500">Review the syllabus hub</a>
-            <a href="/tutoring/" id="mb-practice-teacher-support" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Get teacher support</a>
+            <a href={trialHref} id="mb-practice-teacher-support" class="rounded-sm bg-navy-800 px-5 py-2.5 text-[14px] font-medium text-white transition-colors hover:bg-navy-700">Get teacher support</a>
             <button type="button" id="mb-practice-diag-restart" class="ml-auto rounded-sm px-5 py-2.5 text-[14px] font-medium text-gold-600 transition-colors hover:text-gold-700">Back to standard practice</button>
           </div>
         </div>
@@ -202,7 +241,7 @@ const analyticsContext = {
     </Container>
   </Section>
 
-  <script is:inline define:vars={{ storageKey, hubPath: hubPath, dataUrl, analyticsContext }}>
+  <script is:inline define:vars={{ storageKey, hubPath: hubPath, dataUrl, analyticsContext, tiered }}>
     (function () {
       const app = document.getElementById('mb-practice-app');
       if (!app) return;
@@ -242,6 +281,7 @@ const analyticsContext = {
         diagWeak: document.getElementById('mb-practice-diag-weak'),
         diagRestart: document.getElementById('mb-practice-diag-restart'),
         teacherSupport: document.getElementById('mb-practice-teacher-support'),
+        tierGate: document.getElementById('mb-practice-tier-gate'),
       };
 
       /**
@@ -298,6 +338,14 @@ const analyticsContext = {
       let lastDiagnosticScorePercent = null;
       /** @type {Record<string, boolean>} this diagnostic run's own answers, kept separate from `state` so results reflect exactly this run regardless of earlier history */
       let diagnosticRun = {};
+      /**
+       * WS8 (2026-09-09) -- 'core' | 'extended' | 'unsure' | null. Only
+       * meaningful when `tiered` is true (define:vars above). Reset to null
+       * whenever the diagnostic is (re)started fresh, so the route question
+       * is asked again each time rather than sticking silently from an
+       * earlier run in the same page visit.
+       */
+      let selectedTier = null;
 
       /**
        * Flagship Dominance Programme WS-B (2026-08-31) -- topic index built
@@ -328,9 +376,10 @@ const analyticsContext = {
        * source files. Same input always produces the same output -- no
        * randomness, matching the brief's "use deterministic logic".
        */
-      function buildBalancedSet(n) {
+      function buildBalancedSet(n, pool) {
+        const source = pool || questions;
         const groups = new Map();
-        for (const q of questions) {
+        for (const q of source) {
           const key = q.topics[0] ? q.topics[0].key : 'general';
           if (!groups.has(key)) groups.set(key, []);
           groups.get(key).push(q);
@@ -618,6 +667,10 @@ const analyticsContext = {
             score_percent: scorePercent,
           };
           if (durationBucket) completeParams.duration_bucket = durationBucket;
+          // WS8 (2026-09-09) -- additive field, only ever present for
+          // tiered syllabuses; existing dashboards ignoring it see no
+          // change.
+          if (selectedTier) completeParams.tier = selectedTier;
           track('quiz_complete', completeParams);
           lastDiagnosticScorePercent = scorePercent;
         })();
@@ -634,29 +687,53 @@ const analyticsContext = {
         if (els.diagWrap.scrollIntoView) els.diagWrap.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
 
+      /**
+       * WS8 (2026-09-09) -- shared tail of starting a diagnostic run,
+       * whichever pool of questions it draws from (full bank, or a
+       * tier-filtered subset). Extracted so both the untiered path and the
+       * tier-gate button handlers below use exactly the same start logic.
+       */
+      function startDiagnostic(pool) {
+        const n = Math.min(25, pool.length);
+        filtered = buildBalancedSet(n, pool);
+        diagnosticActive = true;
+        diagnosticStartTs = Date.now();
+        index = 0;
+        if (els.tierGate) els.tierGate.hidden = true;
+        els.card.hidden = false;
+        render();
+      }
+
       function applyMode() {
         mode = els.mode.value;
         diagnosticActive = false;
         diagnosticRun = {};
+        selectedTier = null;
         els.diagWrap.hidden = true;
+        if (els.tierGate) els.tierGate.hidden = true;
         els.filter.disabled = mode !== 'standard';
         if (mode === 'standard') {
+          els.card.hidden = false;
           applyFilter();
           return;
         }
         if (mode === 'mixed') {
+          els.card.hidden = false;
           filtered = buildBalancedSet(Math.min(20, questions.length));
           index = 0;
           render();
           return;
         }
-        // diagnostic
-        const n = Math.min(25, questions.length);
-        filtered = buildBalancedSet(n);
-        diagnosticActive = true;
-        diagnosticStartTs = Date.now();
-        index = 0;
-        render();
+        // diagnostic -- tiered syllabuses ask a route question first
+        // (Core / Extended / Not sure) before any question is shown; the
+        // gate's own button handlers (below) call startDiagnostic() with
+        // the tier-appropriate pool once the visitor answers.
+        if (tiered && els.tierGate) {
+          els.card.hidden = true;
+          els.tierGate.hidden = false;
+          return;
+        }
+        startDiagnostic(questions);
       }
 
       function render() {
@@ -766,6 +843,23 @@ const analyticsContext = {
         applyMode();
       });
       els.mode.addEventListener('change', applyMode);
+      // WS8 (2026-09-09) -- tier route question. 'core' excludes
+      // Extended-only questions (q.tier === 'supplement'); 'extended' and
+      // 'unsure' both use the full pool, since Extended candidates cover
+      // Core content plus Supplement, and an honest "not sure" answer gets
+      // the same broad coverage the untiered diagnostic always gave rather
+      // than a guessed tier.
+      if (els.tierGate) {
+        els.tierGate.querySelectorAll('[data-tier-choice]').forEach((btn) => {
+          btn.addEventListener('click', () => {
+            const choice = btn.getAttribute('data-tier-choice');
+            selectedTier = choice;
+            const pool = choice === 'core' ? questions.filter((q) => q.tier !== 'supplement') : questions;
+            track('diagnostic_tier_selected', { tier: choice });
+            startDiagnostic(pool);
+          });
+        });
+      }
       els.masteryInfo.addEventListener('click', () => {
         els.masteryExplain.hidden = !els.masteryExplain.hidden;
       });
@@ -775,10 +869,12 @@ const analyticsContext = {
       });
       if (els.teacherSupport) {
         els.teacherSupport.addEventListener('click', () => {
-          track('teacher_support_click', {
+          var supportParams = {
             source: 'practice_diagnostic',
             score_percent: lastDiagnosticScorePercent,
-          });
+          };
+          if (selectedTier) supportParams.tier = selectedTier;
+          track('teacher_support_click', supportParams);
         });
       }
 
