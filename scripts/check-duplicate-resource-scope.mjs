@@ -118,6 +118,18 @@ const REVIEWED_LEGITIMATE = [
     evidence: 'Revision-notes siblings of the pair above; same confirmed topic split.',
   },
   {
+    files: ['aqa-gcse-english-literature-paper-2.md', 'aqa-gcse-english-literature-unseen-poetry.md'],
+    evidence: "First (paper-2.md) is a whole-paper overview across all three sections of Paper 2 (Section A modern prose/drama, Section B poetry anthology, Section C unseen poetry), giving unseen poetry only a few summary sentences within its 'How to approach it' and 'Common mistakes' sections and one worked example that is actually about the Section B comparison question, not Section C. Second (new, 2026-09-09) is a Section-C-only deep dive: a dedicated fast first-read routine for an unseen poem (five-step annotation method), a direct-comparison strategy for the 8-mark task (select one shared technique across both poems), and a section on why breadth of practice beats memorisation for this specific task type -- none of which appears in the overview. No shared sentence-level content, confirmed by direct comparison before writing.",
+  },
+  {
+    files: ['aqa-gcse-psychology-cognition-and-behaviour.md', 'aqa-gcse-psychology-research-methods.md'],
+    evidence: "First (cognition-and-behaviour.md) is a whole-paper overview covering Memory, Perception, Development and Research Methods together, giving research methods a single condensed paragraph (naming experiment types, observations, self-report, correlation and ethics in passing) plus one worked example on interpreting a correlation coefficient. Second (new, 2026-09-09) is a Research-Methods-only deep dive: sampling methods compared with a strength/weakness each, the three experimental designs compared side by side, a dedicated worked example on identifying IV/DV/extraneous variables from a study description, a section distinguishing correlational from experimental research, and data-handling content (descriptive statistics, normal distributions) the overview never mentions. No shared sentence-level content, confirmed by direct comparison before writing.",
+  },
+  {
+    files: ['aqa-gcse-sociology-families-and-education.md', 'aqa-gcse-sociology-research-methods.md'],
+    evidence: "First (families-and-education.md) is a whole-paper overview across the Sociological Approach, Social Structures, Families and Education, listing 'Sociological Research Methods' as one bullet in its syllabus-coverage list with no dedicated section, worked example or further development anywhere in the file. Second (new, 2026-09-09) is a Research-Methods-only deep dive: qualitative vs quantitative data compared, practical vs ethical issues addressed together with a worked example, a dedicated worked example on choosing a method for a given research question, and a section on sampling methods and pilot studies -- none of which the overview develops beyond its single bullet point. No shared sentence-level content, confirmed by direct comparison before writing.",
+  },
+  {
     files: ['igcse-sociology-methods-inequality-practice.md', 'sociology-research-methods-practice.md'],
     evidence: 'First blends core methods terms/sampling/structured interviews with substantive inequality content (gender pay gap, ethnicity and life chances). Second is a pure methods deep-dive (participant observation, official statistics, reliability vs validity, ethics, sampling a hard-to-reach population). No shared question or answer despite both touching "sampling" in passing.',
   },
