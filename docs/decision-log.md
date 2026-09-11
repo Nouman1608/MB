@@ -7870,3 +7870,80 @@ owner's "continue now, section by section" instruction, next up are
 the remaining per-subject clusters in `docs/audit/2026-09-11-
 findings.md`: Geography (11), English literature (58), Sociology (36),
 World history (34).
+
+
+## D-171 - Geography cluster closed: E563, E564, E565, E566, E567, I225, Q218, Q219, Q220, Q221, U23
+
+**Date:** 2026-09-11
+
+**Context.** Continuing the "continue now, section by section" sweep
+through `docs/audit/2026-09-11-findings.md` immediately after D-170,
+this batch addressed all 11 remaining Cambridge/O-Level Geography
+findings (Cambridge IGCSE Geography 0460/0976, O-Level Geography)
+across 10 content files. A build blocker was hit and resolved mid-
+batch: two consecutive `npm run build` failures at the identical
+`/resources` index page (`ERR_MODULE_NOT_FOUND` on a Vite prerender
+chunk) were traced to ~22 orphaned `node.exe` processes left running
+from earlier interrupted tool calls, racing concurrently on the shared
+`dist/` output directory. Fixed by clearing `node_modules/.vite` and
+`dist/`, then `taskkill /F /IM node.exe /T`; the third build attempt
+passed cleanly. This was an environment/process issue, not a content
+issue -- documented here as an operational note for future batches.
+
+**Finding ID -> file(s) -> what changed.**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E563 | `igcse-geography-earthquakes-and-volcanoes.md` | Corrected the plate-boundary worked example, which wrongly attributed subduction of "the Pacific Plate" to all three named countries. Now correctly distinguishes: Japan (Pacific Plate subducted beneath it), Chile (Nazca Plate subducted beneath the South American Plate along the Peru-Chile Trench), and Indonesia (Indo-Australian Plate subducted beneath the Sunda Plate, with the Pacific Plate relevant only in far-east Papua). |
+| E564 | `igcse-geography-population-and-settlement.md`, `igcse-geography-population-settlement-revision-notes.md`, `o-level-geography-population-revision-notes.md` | Corrected the DTM pyramid-shape misattribution: a pyramid with a wide base that narrows rapidly at every age band (high birth AND high death) is stage 1, not stage 2 -- stage 2 narrows far less sharply, since the death rate has begun falling while births stay high. Fixed in all three files' pyramid descriptions. |
+| E565 | `igcse-geography-rivers.md` | Rewrote the drainage-basin "how to approach it" opening, which described the hydrological cycle's pathways as a single ordered sequence. Now states them as alternative competing routes (infiltration/throughflow/groundwater flow vs overland flow are mutually exclusive for a given parcel of water, not consecutive steps), with evaporation correctly framed as a loss from the system at any stage rather than a step within a route. |
+| E566 | `population-and-settlement-practice.md` | Q10's stated mark tariff was `[6]` but its answer scheme awarded 8 marks across four `[1][1]` pairs. Raised the tariff to `[8]` to match the answer scheme (chosen over trimming two credit points, since the content itself was sound) -- a deliberate choice per the finding's stated fix options, documented rather than picked silently. |
+| E567 | `igcse-geography-population-and-settlement.md` | Added an entirely new "Population policies, over-population and under-population" section (anti-natalist policy via China's former one-child policy and consequences; pro-natalist policy via France's child benefits/parental leave/childcare; definitions of over-/under-population as relative to resources and technology, not raw totals). This content was previously entirely absent despite sibling files citing this page as "the full explanation" and a sibling practice paper carrying a 9-mark question on population policies. |
+| I225 | `igcse-cambridge-geography-natural-environment.md`, `igcse-geography-climate-and-natural-vegetation.md`, `igcse-geography-coasts.md`, `igcse-geography-earthquakes-and-volcanoes.md`, `igcse-geography-population-and-settlement.md`, `igcse-geography-population-settlement-revision-notes.md`, `igcse-geography-rivers.md`, `igcse-geography-weather.md`, `population-and-settlement-practice.md` | Added a "syllabus successor" disclosure to all 9 Cambridge IGCSE 0460/0976 geography files: the guides are written against the 2025-2026 syllabus series (only the November 2026 series remains valid on it), and a 2027-2029 successor restructures the three themes into ten topics, renames/reweights Papers 1 & 2 to Physical/Human Geography at 36% each, and renames the alternative-to-coursework paper -- these guides have not yet been re-based to the successor. Linked the successor syllabus PDF alongside the existing 2025-2026 citation. |
+| Q218 | `population-and-settlement-practice.md` | Relabelled "Section A/B/C" (borrowed from the live exam paper's theme-based lettered sections, inappropriate for a single-topic Theme-1-only practice set) to "Part 1 -- Core concepts", "Part 2 -- Extended response", "Part 3 -- Applied questions", with an explanatory sentence added. |
+| Q219 | `igcse-geography-climate-and-natural-vegetation.md` | Corrected the physically backwards claim that sinking air "warms and holds more moisture, suppressing rainfall." Rewritten to state that sinking air warms so its relative humidity falls (moving it further from saturation), suppressing condensation and rainfall -- sinking air gains no moisture; what changes is its capacity to hold water vapour, i.e. relative humidity is the mechanism to state, not moisture content. |
+| Q220 | `igcse-geography-population-settlement-revision-notes.md` | Replaced the DTM "late expanding" stage's country examples "Brazil, India" (both have since reached or fallen below replacement fertility) with "Kenya, Ghana" as currently-valid examples. |
+| Q221 | `igcse-geography-coasts.md`, `igcse-geography-rivers.md` | Expanded two sections that previously just restated the syllabus objective with no substantive content, to name and define: weathering vs erosion; the four erosion processes (hydraulic action, abrasion/corrasion, attrition, solution/corrosion); the four transport processes (traction, saltation, suspension, solution); and, in the coasts file only, the constructive vs destructive wave distinction. |
+| U23 | `igcse-geography-population-and-settlement.md` | Investigated the unsourced claim that Cambridge IGCSE Geography 0460 and 0976 are "content-identical" via live WebSearch/WebFetch against Cambridge's own syllabus documents. Found corroborating-but-not-explicit evidence: the 0976 syllabus states textbooks endorsed for 0460 remain suitable for 0976, candidates cannot take both in the same series, and Cambridge publishes one shared Learner Guide covering both codes -- but no source stated "content-identical" outright. Rewrote the intro to state this nuanced finding honestly rather than asserting or dropping the original claim, per this project's standing "disclose narrowed claim over fabricated certainty" practice. |
+
+**Operational note (build blocker, not content).** Two consecutive
+`npm run build` failures at the identical page were caused by ~22
+orphaned `node.exe` processes (leftover from earlier interrupted
+device-bridge calls) racing on the shared `dist/` directory, not by
+anything in the edited content. Fixed by clearing `node_modules/.vite`
+and `dist/`, then force-killing stray node processes before retrying.
+Logged here so a future batch recognises the same symptom (deterministic
+identical-page build failure) as a process-cleanup issue before assuming
+a content regression.
+
+**Mark-tariff discipline.** E566's tariff correction (raising `[6]` to
+`[8]` rather than cutting two credit points) was a deliberate choice
+between the finding's two offered fix options, made and documented
+rather than picked silently -- consistent with D-170's precedent.
+
+**Verification-only / disclosure outcomes (documented, not silent).**
+U23 did not resolve to a clean confirm/deny: the claim is rewritten to
+state exactly what the evidence supports (parallel variants, mutually
+exclusive entry, one shared Learner Guide) without asserting an
+explicit "content-identical" confirmation that no source actually gives.
+
+**Validation gate.** `npx astro check` (0 errors, pre-existing hints
+only) -> `npm run validate:academic` (all validators PASS) -> `npm run
+build` (2,129 pages plus Pagefind index -- 2,129 pages / 36,929 words
+indexed across 4 languages, exit code 0, after the orphaned-process
+cleanup above) -> `test-cross-board-regression.mjs` (OK, 0 problems) ->
+`test-negative-validation-suite.mjs` (35/35) -> API tests (31/31) ->
+`npm audit --fetch-timeout=20000 --fetch-retries=2` (0 vulnerabilities)
+-> `coverage:academic-v2` (regenerated; matches baseline --
+160/160 official-source-verified, 160/160 topic-map-published, median
+8 resources/combination, median 994 words/resource;
+`docs/reports/academic-coverage-report-v1.2.{json,csv}` left unstaged)
+-> `check-duplicate-resource-scope.mjs` (PASS, 6 pre-existing
+allow-listed groups, no new duplicates) -> `audit:all` (11/11
+sub-audits, 0 problems across all). Exit code 0 throughout.
+
+**Next.** This closes the geography cluster (11 findings). Per the
+owner's "continue now, section by section" instruction, next up are
+the remaining per-subject clusters in `docs/audit/2026-09-11-
+findings.md`: English literature (58), Sociology (36), World history
+(34).

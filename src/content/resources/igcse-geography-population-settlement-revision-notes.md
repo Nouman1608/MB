@@ -36,7 +36,7 @@ Rates are per 1,000 people per year. Forgetting migration is the commonest error
 |---|---|---|---|---|
 | **1 High fluctuating** | High | High | Low | Remote tribal groups |
 | **2 Early expanding** | High | **Falling rapidly** | **Very high** | Afghanistan, Niger |
-| **3 Late expanding** | **Falling** | Low | Slowing | Brazil, India |
+| **3 Late expanding** | **Falling** | Low | Slowing | Kenya, Ghana |
 | **4 Low fluctuating** | Low | Low | Low / zero | UK, USA |
 | **5 Decline** | **Below** death rate | Low | **Negative** | Japan, Germany |
 
@@ -48,7 +48,8 @@ The birth rate later falls in stage 3 due to contraception, female education and
 
 ## Population pyramids
 
-- **Wide base, rapidly narrowing** → high birth rate and high death rate, stage 2. Young population, high dependency.
+- **Wide base, narrowing sharply at every age band** → high birth rate *and* high death rate, **stage 1**. Youthful but short-lived population.
+- **Wide base, narrowing far less sharply** → birth rate still high but death rate now falling, **stage 2**. The shape behind the population explosion.
 - **Straight sides, narrow base** → low birth and death rates, stage 4 or 5. Ageing population.
 
 ```
@@ -108,3 +109,19 @@ A department store has a high threshold and a large range, so there are few of t
 5. Distinguish range from threshold population.
 
 **Answers:** 1. Natural increase (birth rate minus death rate) plus net migration. 2. The death rate falls rapidly due to improved medicine, sanitation and food supply, while the birth rate remains high because social attitudes change far more slowly — so the gap between them is at its widest. 3. (Under 15 + over 64) ÷ (15–64) × 100; a high value means a large non-working population supported by a small working population. 4. Benefits: remittances and reduced unemployment; problems: brain drain and separated families. 5. Range is how far people will travel to use a service; threshold population is the minimum number of people needed to make it viable.
+
+## A note on the syllabus successor
+
+These notes are written against the 2025-2026 series of Cambridge
+IGCSE Geography 0460. Only the November 2026 series still sits on
+that syllabus. A successor syllabus for the 2027-2029 series has
+already been published and restructures the qualification
+significantly: the three themes become ten topics (so the "Theme 1"
+numbering these notes belong to will not carry over), the first two
+papers are renamed and reweighted from Themes and Skills to Physical
+and Human Geography at 36% each, and the alternative-to-coursework
+paper is also renamed. These notes have not yet been re-based onto
+the successor syllabus. [Official syllabus for
+2025-2026](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf) |
+[successor syllabus for
+2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).

@@ -56,6 +56,30 @@ You need to demonstrate understanding of the work of a river in
 eroding, transporting and depositing material, and to describe and
 explain the landforms these processes create.
 
+**Erosion** is the wearing away and removal of the river bed and
+banks; it is distinct from **weathering**, the in-situ breakdown of
+rock with no movement involved (such as freeze-thaw action loosening
+rock on a valley side), which weakens material for a river to then
+erode and carry away. Four named erosion processes are required:
+**hydraulic action** (the force of moving water alone, compressing
+air into cracks in the bank or bed until material breaks loose),
+**abrasion** (also called corrasion -- sediment carried by the river
+scrapes and wears away the bed and banks), **attrition** (sediment
+being carried collides with other sediment, breaking it down into
+smaller, more rounded particles), and **solution** (also called
+corrosion -- soluble rock such as limestone is chemically dissolved
+by the water).
+
+Once eroded, material is carried by four named transport processes:
+**traction** (large, heavy material rolled along the river bed),
+**saltation** (smaller material bounced along the bed), **suspension**
+(fine material carried within the flowing water, giving a river its
+cloudy appearance after heavy rain), and **solution** (dissolved
+material carried invisibly within the water). Deposition happens
+wherever a river's energy falls below what is needed to keep carrying
+its load -- for example, where the river slows on the inside of a
+meander bend, or where it loses velocity entering the sea or a lake.
+
 ## Landforms of the long profile and valley shape
 
 You need to know a named set of landforms, spanning a river's long
@@ -117,10 +141,17 @@ partial one.
 ## How to approach it
 
 Learn the drainage basin processes (interception, infiltration,
-throughflow, groundwater flow, evaporation, overland flow) as an
-ordered sequence describing water's route from rainfall to river,
-since this sequence itself is often what a question is testing, not
-just the individual terms in isolation. Organise the named landforms
+throughflow, groundwater flow, evaporation, overland flow) as a set of
+alternative pathways rather than a single ordered sequence -- water
+that infiltrates and then moves as throughflow or groundwater flow has,
+by definition, not travelled as overland flow, so the two are
+competing routes, not consecutive steps. Evaporation is a loss from
+the system at any stage, not a step within a route. What matters for
+exam answers is the *balance* between these pathways: a drainage basin
+where infiltration dominates responds to rainfall slowly, via the slow
+underground routes, while one where overland flow dominates (for
+example, on saturated or impermeable ground) responds fast, raising
+flood risk. Organise the named landforms
 by where along the river's course they typically form -- upper course
 erosional features (waterfalls, potholes) versus middle/lower course
 depositional and meander-related features (meanders, oxbow lakes,
@@ -132,9 +163,24 @@ the specific hazards recorded, and the specific management measures
 used in response, since generic or unnamed answers score poorly on
 this element.
 
+## A note on the syllabus successor
+
+This guide is written against the 2025-2026 series of Cambridge IGCSE
+Geography 0460, cited below. Only the November 2026 series still
+sits on that syllabus. A successor syllabus for the 2027-2029 series
+has already been published and restructures the qualification
+significantly: the three themes become ten topics (so the "Theme 2"
+numbering used throughout this guide will not carry over), the first
+two papers are renamed and reweighted from Themes and Skills to
+Physical and Human Geography at 36% each, and the alternative-to-
+coursework paper is also renamed. This guide has not yet been
+re-based onto the successor syllabus.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Geography (0460) syllabus
 for 2025 and 2026*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf),
-Subject content, section 2.2 "Rivers". Verified 2026-09-02.
+Subject content, section 2.2 "Rivers". Verified 2026-09-02. Successor:
+[Cambridge IGCSE Geography (0460) syllabus for
+2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).

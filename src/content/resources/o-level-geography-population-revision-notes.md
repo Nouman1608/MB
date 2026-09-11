@@ -48,7 +48,8 @@ Birth rates fall in **stage 3** because of contraception, female education and e
 
 ## Population structure
 
-- **Wide base, steep sides** → high birth and death rates, stage 2. Youthful population.
+- **Wide base, narrowing sharply at every age band** → high birth *and* high death rates, **stage 1**. Youthful but short-lived population.
+- **Wide base, narrowing far less sharply** → birth rate still high but death rate now falling, **stage 2**. The shape behind the population explosion.
 - **Straight sides, narrow base** → stage 4 or 5. Ageing population.
 
 **Reading a pyramid beyond overall shape** earns the higher marks. A sudden **narrowing** at a specific age band can point to a past event affecting that cohort — war, famine or emigration. A **bulge** can point to a past baby boom or in-migration of a particular age group. The strong technique is shape first, for the stage of development, then specific irregularities and their likely cause — not simply describing "more males than females in this age group."

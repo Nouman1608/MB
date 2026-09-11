@@ -27,15 +27,35 @@ Related: [Population and Settlement revision notes](/resources/igcse-geography-p
 
 ---
 
-## Section A
+This set is organised into three parts by question type, not into the
+three lettered sections of the live exam paper -- the live paper's
+sections correspond to its three *themes*, and every question below
+belongs to Theme 1 alone, so reusing those letters here would suggest
+a paper structure this set does not have.
 
-**1.** Explain what a population pyramid shows and what a wide base and a narrow apex indicate. **[4]**
+**Resource: a simplified population pyramid, Country X (a lower-income country)**
+
+```
+Age (years)   Male %   Female %
+75+             0.8      0.9
+60-74           2.1      2.3
+45-59           4.5      4.6
+30-44           7.2      7.3
+15-29          11.0     10.8
+0-14           14.5     14.2
+```
+
+Questions 1 and 3 refer to this resource.
+
+## Part 1 -- Core concepts
+
+**1.** Using the resource above, explain what a population pyramid shows and what its wide base and narrow apex indicate. **[4]**
 
 **2.** Define dependency ratio and state how it is calculated. **[2]**
 
-## Section B
+## Part 2 -- Extended response
 
-**3.** Explain the differences you would expect between the population pyramids of a low-income and a high-income country, giving **three** differences with reasons. **[9]**
+**3.** Using the resource above, explain the differences you would expect between this pyramid and that of a high-income country, giving **three** differences with reasons. **[9]**
 
 **4.** Explain **three** government policies used to influence population growth, giving an example and one problem of each. **[9]**
 
@@ -43,7 +63,7 @@ Related: [Population and Settlement revision notes](/resources/igcse-geography-p
 
 **6.** Describe the typical land-use zones of a city in a high-income country and explain **two** reasons for the pattern. **[8]**
 
-## Section C
+## Part 3 -- Applied questions
 
 **7.** Explain the difference between push factors and pull factors in migration, giving **two** examples of each. **[4]**
 
@@ -51,7 +71,7 @@ Related: [Population and Settlement revision notes](/resources/igcse-geography-p
 
 **9.** Distinguish between the site and the situation of a settlement, giving an example of each. **[4]**
 
-**10.** Explain why rapid urban growth in low-income countries often leads to the growth of informal settlements, and describe **one** strategy used to address this. **[6]**
+**10.** Explain why rapid urban growth in low-income countries often leads to the growth of informal settlements, and describe **one** strategy used to address this. **[8]**
 
 ---
 
@@ -91,3 +111,18 @@ Reasons, any two: **land values are highest at the centre**, because accessibili
 - Giving the one-child policy without any of its consequences.
 - Confusing threshold population with sphere of influence.
 - Listing land-use zones without explaining the pattern.
+
+## A note on the syllabus successor
+
+These questions are written against the 2025-2026 series of
+Cambridge IGCSE Geography 0460. Only the November 2026 series still
+sits on that syllabus. A successor syllabus for the 2027-2029 series
+has already been published and restructures the qualification
+significantly: the three themes become ten topics, the first two
+papers are renamed and reweighted from Themes and Skills to Physical
+and Human Geography at 36% each, and the alternative-to-coursework
+paper is also renamed. This set has not yet been re-based onto the
+successor syllabus. [Official syllabus for
+2025-2026](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf) |
+[successor syllabus for
+2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).

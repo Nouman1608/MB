@@ -107,13 +107,23 @@ than optional exam preparation for this subtopic.
 ## A worked example of the distribution argument
 
 The Pacific "Ring of Fire" is the clearest illustration of the
-distribution-and-explanation link this subtopic tests. Countries such
-as Japan, Indonesia and Chile sit along destructive plate boundaries
-where the Pacific Plate is being subducted beneath neighbouring
-plates, producing both frequent, often powerful earthquakes and a high
-concentration of active volcanoes -- explaining why this single
+distribution-and-explanation link this subtopic tests, though the
+named subducting plate is not the same at every location around it.
+Japan sits above a destructive boundary where the **Pacific Plate** is
+subducted beneath it, producing frequent, powerful earthquakes and a
+line of active volcanoes. Chile sits above a different destructive
+boundary, where the **Nazca Plate** is subducted beneath the South
+American Plate along the Peru-Chile Trench, producing the same
+earthquake-and-volcano pattern for a different reason. Indonesia's
+most active volcanoes and largest earthquakes, concentrated along
+Sumatra and Java, are driven by the subduction of the **Indo-
+Australian Plate** beneath the Sunda Plate; the Pacific Plate plays a
+role only in the far east of the Indonesian archipelago, around Papua.
+Together the three still make the same point -- that this single
 region accounts for a large share of the world's recorded seismic and
-volcanic activity. Contrast this with a conservative boundary such as
+volcanic activity -- but a strong answer names the specific plate
+pair at each location rather than treating the whole Ring of Fire as
+one plate's boundary. Contrast this with a conservative boundary such as
 the San Andreas Fault in California, which produces significant
 earthquake activity (the Pacific and North American plates sliding
 past each other) but no associated volcanic activity, since no magma
@@ -137,10 +147,24 @@ location, date, magnitude or type, named effects, and named management
 response -- since vague or unnamed case-study material earns
 substantially fewer marks than answers citing real specifics.
 
+## A note on the syllabus successor
+
+This guide is written against the 2025-2026 series of Cambridge IGCSE
+Geography 0460, cited below. Only the November 2026 series still
+sits on that syllabus. A successor syllabus for the 2027-2029 series
+has already been published and restructures the qualification
+significantly: the three themes become ten topics (so the "Theme 2"
+numbering used throughout this guide will not carry over), the first
+two papers are renamed and reweighted from Themes and Skills to
+Physical and Human Geography at 36% each, and the alternative-to-
+coursework paper is also renamed. This guide has not yet been
+re-based onto the successor syllabus.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Geography (0460) syllabus
 for 2025 and 2026*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf),
 Subject content, section 2.1 "Earthquakes and volcanoes". Verified
-2026-09-02.
+2026-09-02. Successor: [Cambridge IGCSE Geography (0460) syllabus for
+2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).

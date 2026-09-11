@@ -20,9 +20,15 @@ featured: false
 
 This guide covers **Theme 1 Population and Settlement**, for Cambridge
 IGCSE Geography 0460, 2025–2026 series. 0460 (A*-G grading) and 0976
-(9-1 grading) are content-identical parallel variants; this guide
-verifies 0460. All candidates take Paper 1 and Paper 2, plus either
-Component 3 Coursework or Paper 4 (Alternative to Coursework).
+(9-1 grading, UK-only) are parallel variants of the same
+qualification that cannot be taken together in the same series; the
+0976 syllabus itself states that textbooks endorsed for 0460 remain
+suitable for it, and Cambridge publishes one shared Learner Guide
+covering both codes together, which is consistent with -- though not
+an explicit published confirmation of -- content-identical subject
+matter. This guide verifies against 0460 directly. All candidates
+take Paper 1 and Paper 2, plus either Component 3 Coursework or Paper
+4 (Alternative to Coursework).
 
 ## Where this fits in 0460
 
@@ -99,15 +105,50 @@ ignores migration entirely, it assumes every country follows the same
 path in the same order, and it gives no fixed timescale for how long
 each stage lasts.
 
+## Population policies, over-population and under-population
+
+1.1 also requires you to describe and evaluate population policies,
+and to show an understanding of over-population and under-population
+-- both are frequently tested and neither is a DTM concept, so they
+need separate preparation. A country experiencing rapid growth (DTM
+stage 2) may adopt an **anti-natalist** policy aimed at lowering the
+birth rate, such as China's former one-child policy, which combined
+financial incentives and penalties to sharply reduce fertility, but at
+the cost of a rapidly ageing population, a shrinking future workforce,
+and a skewed gender ratio in places where the policy interacted with a
+cultural preference for sons. A country with a low or falling birth
+rate (DTM stage 4 or 5) may instead adopt a **pro-natalist** policy
+aimed at raising it, such as France's system of child benefits,
+extended parental leave and subsidised childcare, evaluated as only
+partially successful at reversing long-term fertility decline.
+
+**Over-population** describes a situation where the number of people
+in an area exceeds what the available resources, technology and
+level of organisation can adequately support, at the current standard
+of living -- it is a relationship between population and resources,
+not a raw population total, so a sparsely populated area can still be
+over-populated if its resources are scarce enough. **Under-population**
+is the opposite: an area has more resources than its current
+population can fully exploit, so output or development potential per
+person could rise with more people. Both are relative to the
+available resources and technology at the time, which is why exam
+answers should evaluate a specific named country's situation rather
+than assert an absolute population figure as "too many" or "too few"
+in isolation.
+
 ## Reading population pyramids and structure
 
 Population pyramids translate 1.3's structure content into a visual
 skill that is examined on its own and as a link to other sub-topics. A
-pyramid with a wide base that narrows rapidly signals a high birth
-rate and a high death rate — a youthful, stage 2 population with a
-high dependency burden on schools and future job markets. A pyramid
-with straight, near-vertical sides and a narrow base signals low birth
-and death rates — an ageing, stage 4 or 5 population. The dependency
+pyramid with a wide base that narrows rapidly at every age band
+signals a high birth rate *and* a high death rate — a youthful, but
+short-lived, **stage 1** population. Stage 2 is defined by the death
+rate falling while the birth rate stays high, so its pyramid keeps
+the wide base but narrows far less sharply going up, since more
+people now survive into and through adulthood — this is the shape
+associated with the rapid population growth the stage is named for. A
+pyramid with straight, near-vertical sides and a narrow base signals
+low birth and death rates — an ageing, stage 4 or 5 population. The dependency
 ratio, calculated as (population under 15 plus population over 64)
 divided by the working-age population (15–64), then multiplied by 100,
 quantifies how much of the pyramid's shape translates into economic
@@ -168,7 +209,22 @@ schemes, self-help housing schemes, and rural development aimed at
 reducing the push factors that drive migration to the city in the
 first place.
 
+## A note on the syllabus successor
+
+This guide is written against the 2025-2026 series of Cambridge IGCSE
+Geography 0460. Only the November 2026 series still sits on that
+syllabus. A successor syllabus for the 2027-2029 series has already
+been published and restructures the qualification significantly: the
+three themes become ten topics (so the "Theme 1" numbering used
+throughout this guide will not carry over), the first two papers are
+renamed and reweighted from Themes and Skills to Physical and Human
+Geography at 36% each, and the alternative-to-coursework paper is
+also renamed. This guide has not yet been re-based onto the successor
+syllabus.
+
 ## Official syllabus
 
 Cambridge IGCSE Geography 0460 syllabus for 2025 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf).
+Successor: [Cambridge IGCSE Geography (0460) syllabus for
+2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).

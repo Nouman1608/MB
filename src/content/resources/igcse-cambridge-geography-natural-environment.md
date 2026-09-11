@@ -102,7 +102,22 @@ vocabulary), be precise about which agent -- river, sea or wind -- is
 doing the eroding in a given answer, since examiners mark process
 explanations against the specific environment named in the question.
 
+## A note on the syllabus successor
+
+This guide is written against the 2025-2026 series of Cambridge IGCSE
+Geography 0460. Only the November 2026 series still sits on that
+syllabus. A successor syllabus for the 2027-2029 series has already
+been published and restructures the qualification significantly: the
+three themes become ten topics (so the "Theme" numbering used
+throughout this guide will not carry over), the first two papers are
+renamed and reweighted from Themes and Skills to Physical and Human
+Geography at 36% each, and the alternative-to-coursework paper is
+also renamed. This guide has not yet been re-based onto the successor
+syllabus.
+
 ## Official syllabus
 
 Cambridge IGCSE Geography (0460) syllabus for exams in 2025 and 2026 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf).
+Successor: [Cambridge IGCSE Geography (0460) syllabus for
+2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).

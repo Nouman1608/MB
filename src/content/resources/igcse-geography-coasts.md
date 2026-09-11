@@ -32,6 +32,39 @@ in eroding, transporting and depositing material along a coastline,
 and to describe and explain the formation of the landforms these
 processes create.
 
+Erosion is the wearing away and removal of rock and sediment by a
+moving agent -- here, waves and currents. It is distinct from
+**weathering**, the breakdown of rock where it stands, with no
+movement involved (for example, salt crystallisation or freeze-thaw
+action weakening a cliff face); weathering often prepares rock for
+erosion to then remove, and exam answers that treat the two as
+interchangeable lose marks. Four named processes of wave erosion are
+required: **hydraulic action** (the sheer force of moving water,
+compressing air trapped in cracks and joints in the rock until it
+weakens and breaks apart), **abrasion** (also called corrasion --
+sediment carried by waves is thrown against the coastline, wearing it
+away), **attrition** (sediment being carried collides with other
+sediment, breaking it down into smaller, more rounded fragments over
+time), and **solution** (also called corrosion -- mildly acidic
+seawater chemically dissolves soluble rock such as limestone or
+chalk).
+
+Sediment is then moved by the same four transport processes used for
+rivers: **traction** (large, heavy material rolled along the seabed),
+**saltation** (smaller material bounced along the seabed), **suspension**
+(fine material carried within the moving water), and **solution**
+(dissolved material carried in the water itself, invisibly).
+
+Whether a stretch of coastline is dominated by erosion or by
+deposition depends heavily on **wave type**. Constructive waves are
+low-energy, with a long wavelength and a low frequency; their swash
+(the rush of water up the beach) is stronger than their backwash (the
+water draining back down), so they build up and add material to a
+beach. Destructive waves are high-energy, steeper, with a short
+wavelength and a high frequency; their backwash is stronger than
+their swash, so they remove material from a beach and drive the
+erosional landforms below.
+
 ## Erosional landforms
 
 You need to know a named set of coastal erosional landforms: cliffs,
@@ -131,9 +164,24 @@ mangroves) as the actual explanatory content, since "describe" command
 words in this part of the syllabus still expect the underlying
 conditions to be stated, not just the ecosystem named.
 
+## A note on the syllabus successor
+
+This guide is written against the 2025-2026 series of Cambridge IGCSE
+Geography 0460, cited below. Only the November 2026 series still
+sits on that syllabus. A successor syllabus for the 2027-2029 series
+has already been published and restructures the qualification
+significantly: the three themes become ten topics (so the "Theme 2"
+numbering used throughout this guide will not carry over), the first
+two papers are renamed and reweighted from Themes and Skills to
+Physical and Human Geography at 36% each, and the alternative-to-
+coursework paper is also renamed. This guide has not yet been
+re-based onto the successor syllabus.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Geography (0460) syllabus
 for 2025 and 2026*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf),
-Subject content, section 2.3 "Coasts". Verified 2026-09-02.
+Subject content, section 2.3 "Coasts". Verified 2026-09-02. Successor:
+[Cambridge IGCSE Geography (0460) syllabus for
+2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).

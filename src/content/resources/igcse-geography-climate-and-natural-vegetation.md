@@ -52,9 +52,13 @@ equatorial regions (low latitude) are consistently hot while regions
 further from the equator experience greater seasonal variation.
 Pressure systems and winds determine patterns of rising or sinking air
 -- rising air cools and its moisture condenses, producing rainfall
-(as in the equatorial low-pressure belt), while sinking air warms and
-holds more moisture, suppressing rainfall (a major reason many hot
-deserts sit under persistent high-pressure zones). Distance from the
+(as in the equatorial low-pressure belt), while sinking air warms, so
+its relative humidity falls and it moves further from saturation,
+suppressing condensation and rainfall (a major reason many hot
+deserts sit under persistent high-pressure zones). Sinking air itself
+gains no moisture -- what changes is its capacity to hold water
+vapour, which is why relative humidity, not moisture content, is the
+mechanism to state explicitly. Distance from the
 sea affects a location's access to moisture-bearing air masses;
 altitude affects temperature directly (temperature falls with
 increasing height); and ocean currents can either warm or cool coastal
@@ -138,10 +142,25 @@ throughout the theme), and it sets up Theme 3's Economic Development
 content, where climate and vegetation constraints reappear directly in
 explaining patterns of food production and development.
 
+## A note on the syllabus successor
+
+This guide is written against the 2025-2026 series of Cambridge IGCSE
+Geography 0460, cited below. Only the November 2026 series still
+sits on that syllabus. A successor syllabus for the 2027-2029 series
+has already been published and restructures the qualification
+significantly: the three themes become ten topics (so the "Theme 2"
+numbering used throughout this guide will not carry over), the first
+two papers are renamed and reweighted from Themes and Skills to
+Physical and Human Geography at 36% each, and the alternative-to-
+coursework paper is also renamed. This guide has not yet been
+re-based onto the successor syllabus.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Geography (0460) syllabus
 for 2025 and 2026*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf),
 Subject content, section 2.5 "Climate and natural vegetation".
-Verified 2026-09-02.
+Verified 2026-09-02. Successor: [Cambridge IGCSE Geography (0460)
+syllabus for
+2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).

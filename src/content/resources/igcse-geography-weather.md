@@ -134,9 +134,24 @@ climate comparison in 2.5 considerably more straightforward, since it
 draws on exactly the same skills applied to longer-term, whole-climate
 data rather than short-term daily readings.
 
+## A note on the syllabus successor
+
+This guide is written against the 2025-2026 series of Cambridge IGCSE
+Geography 0460, cited below. Only the November 2026 series still
+sits on that syllabus. A successor syllabus for the 2027-2029 series
+has already been published and restructures the qualification
+significantly: the three themes become ten topics (so the "Theme 2"
+numbering used throughout this guide will not carry over), the first
+two papers are renamed and reweighted from Themes and Skills to
+Physical and Human Geography at 36% each, and the alternative-to-
+coursework paper is also renamed. This guide has not yet been
+re-based onto the successor syllabus.
+
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Geography (0460) syllabus
 for 2025 and 2026*: [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/664610-2025-2026-syllabus.pdf),
-Subject content, section 2.4 "Weather". Verified 2026-09-02.
+Subject content, section 2.4 "Weather". Verified 2026-09-02. Successor:
+[Cambridge IGCSE Geography (0460) syllabus for
+2027-2029](https://www.cambridgeinternational.org/Images/718150-2027-2029-syllabus.pdf).
