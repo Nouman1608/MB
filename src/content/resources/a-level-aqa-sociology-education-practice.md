@@ -30,8 +30,6 @@ guide](/resources/a-level-aqa-sociology-role-of-education-and-differential-achie
 and [revision
 notes](/resources/aqa-a-level-sociology-education-revision-notes/).
 
-## Section A
-
 **1.** Identify **two** functions of education according to
 functionalists. **[2]**
 
@@ -40,8 +38,6 @@ sociologists associated with it. **[2]**
 
 **3.** Identify **two** sociological explanations for differential
 achievement by social class. **[2]**
-
-## Section B
 
 **4.** Outline and explain the Marxist view of the role of education
 in reproducing class inequality. **[8]**
@@ -55,15 +51,13 @@ educational performance of girls relative to boys. **[8]**
 **7.** Outline and explain **two** in-school explanations for ethnic
 differences in educational achievement. **[8]**
 
-## Section C
-
 **8.** Applying material from the item and your knowledge, evaluate
 the view that the education system operates primarily to benefit
-wider society rather than the individual. **[20]**
+wider society rather than the individual. **[30]**
 
 **9.** Applying material from the item and your knowledge, evaluate
 sociological explanations for differential educational achievement by
-social class. **[20]**
+social class. **[30]**
 
 ## Answers
 
@@ -135,7 +129,7 @@ higher-tier examination entry [1] [1] [1] [1]. (Also accept:
 ethnocentric curriculum content that reflects the culture and history
 of the ethnic majority.)
 
-**8.** Indicative content — award up to 20 marks using the levels
+**8.** Indicative content — award up to 30 marks using the levels
 descriptors in the specification; look for a developed, evaluative
 argument rather than a checklist of points. **For "wider society"**:
 functionalists argue education provides secondary socialisation and
@@ -156,7 +150,7 @@ either the individual or wider society depending on the theoretical
 lens applied, meaning the "primarily" framing of the question invites
 direct comparison rather than a one-sided answer [1] [1] [1] [1].
 
-**9.** Indicative content — award up to 20 marks using the levels
+**9.** Indicative content — award up to 30 marks using the levels
 descriptors in the specification. **Material/economic explanations**:
 lack of resources such as books, internet access, or a quiet study
 space, and pressure on some working-class pupils to take paid work,
@@ -179,12 +173,15 @@ Describing only one sociological perspective when a question's
 command word (compare, evaluate) explicitly requires weighing more
 than one. Naming a general idea, such as "cultural differences,"
 without the specific theorist or concept (cultural capital,
-correspondence principle, labelling) that AQA's mark schemes reward.
-Conflating material and cultural explanations for class-based
-achievement as a single undifferentiated category. In 20-mark
-essays, describing several perspectives back to back and saving all
-evaluation for a final paragraph, rather than building evaluation
-into each point as it is made. Failing to link an explanation for one
+correspondence principle, labelling) — named theorists appear in
+AQA's mark schemes as indicative content, so citing one strengthens
+an answer even though the published levels descriptors don't require
+it for full marks. Conflating material and cultural explanations for
+class-based achievement as a single undifferentiated category. In
+30-mark essays, describing several perspectives back to back and
+saving all evaluation for a final paragraph, rather than building
+evaluation into each point as it is made. Failing to link an
+explanation for one
 social variable (gender, ethnicity) explicitly back to that variable,
 which risks the answer reading as generic rather than targeted at the
 question asked.

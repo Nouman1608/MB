@@ -69,9 +69,10 @@ compare across them or discuss their interaction. For class, weigh
 material/economic explanations (such as the cost of educational
 resources) against cultural explanations (such as Bourdieu's cultural
 capital, or restricted/elaborated speech codes). For gender, be ready
-to discuss both explanations for the historical underachievement of
-boys relative to girls and critiques of laddish subcultures alongside
-explanations for girls' improved performance. For ethnicity, weigh
+to discuss both explanations for boys' current underachievement
+relative to girls (including critiques of laddish subcultures) and
+explanations for girls' historical underachievement and subsequent
+improvement. For ethnicity, weigh
 explanations rooted in material deprivation against those rooted in
 in-school processes such as teacher labelling and setting/streaming.
 
@@ -122,8 +123,9 @@ attach a definition or expectation to a student (such as "able" or
 "disruptive"), which can then influence that student's behaviour and
 outcomes, sometimes through a self-fulfilling prophecy. Being able to
 name the specific theorist or concept behind each explanation — not
-just describe the idea in general terms — is what AQA's sociology mark
-schemes consistently reward at the top band.
+just describe the idea in general terms — strengthens an answer:
+named theorists appear in AQA's mark schemes as indicative content,
+though citing one is not itself a requirement for full marks.
 
 ## Common mistakes
 

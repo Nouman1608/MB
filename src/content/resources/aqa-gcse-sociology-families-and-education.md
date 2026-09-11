@@ -39,29 +39,34 @@ alone.
 **AQA GCSE SOCIOLOGY (8192) — PAPER 1 THE SOCIOLOGY OF FAMILIES AND
 EDUCATION**
 
-- 1.1 The Sociological Approach — core sociological concepts and how
+- 3.1 The Sociological Approach — core sociological concepts and how
 sociology differs from common-sense explanations of behaviour
-- 1.2 Social Structures, Social Processes and Social Issues — the key
+- 3.2 Social Structures, Social Processes and Social Issues — the key
 theoretical building blocks used to analyse society throughout the
 course
-- 1.3 Families — the structure, functions and diversity of family life
-- 1.4 Education — the role, structure and impact of the education
+- 3.3 Families — the structure, functions and diversity of family life
+- 3.4 Education — the role, structure and impact of the education
 system
-- 1.5 Sociological Research Methods (examined across both papers) —
+- 3.7 Sociological Research Methods (examined across both papers) —
 the methods sociologists use to investigate social life, applied
 throughout both Paper 1 and Paper 2
 
+The specification numbers its seven content areas 3.1 to 3.7 across
+the whole qualification, not per paper: 3.7 Research Methods is the
+last of the seven and, as above, is examined across both papers
+rather than being a Paper 1 topic in its own right.
+
 ## How to approach it
 
-The Sociological Approach and Social Structures (1.1-1.2) introduce
+The Sociological Approach and Social Structures (3.1-3.2) introduce
 the conceptual toolkit -- norms, values, socialisation, and competing
 theoretical perspectives -- that every later topic in the course draws
 on, so treat these as reference material to revisit rather than a
-topic to revise once and move past. Because Research Methods (1.5) is
+topic to revise once and move past. Because Research Methods (3.7) is
 tested across both papers, practise applying it directly to family and
 education scenarios as well as crime and stratification ones, rather
-than revising it as an isolated unit. Families (1.3) and Education
-(1.4) both reward being able to apply a named theoretical perspective
+than revising it as an isolated unit. Families (3.3) and Education
+(3.4) both reward being able to apply a named theoretical perspective
 to a specific institutional example, since exam questions typically
 ask students to use sociological concepts to explain a real social
 pattern rather than describe it neutrally.
@@ -87,7 +92,7 @@ Family structures have diversified: nuclear, extended, lone-parent, reconstitute
 
 Explanations for change include secularisation, changes in divorce law, women's increased participation in paid work, greater social acceptance of cohabitation and same-sex relationships, and an ageing population.
 
-**Conjugal roles** are described as segregated (clearly divided) or joint (shared). **Young and Willmott** argued families were becoming symmetrical; **Oakley** disputed this, finding women still performed most domestic labour — the "dual burden", and with emotional work the "triple shift".
+**Conjugal roles** are described as segregated (clearly divided) or joint (shared). **Young and Willmott** argued families were becoming symmetrical, spreading via **stratified diffusion** — the principle that social changes (here, symmetrical, home-centred family life) spread downward from higher to lower social classes over time. **Oakley** disputed the symmetrical-family thesis, finding women still performed most domestic labour — the "dual burden", and with emotional work the "triple shift".
 
 ## Studying education
 
@@ -95,13 +100,13 @@ Explanations for change include secularisation, changes in divorce law, women's 
 
 **Marxists** (Bowles and Gintis) argue the **hidden curriculum** reproduces class inequality through a correspondence between school and workplace — obedience, hierarchy, acceptance of extrinsic reward.
 
-**Interactionists** focus on processes inside school: **labelling**, the **self-fulfilling prophecy**, and **setting and streaming** creating pro- and anti-school subcultures.
+**Interactionists** focus on processes inside school: **labelling**, the **self-fulfilling prophecy**, and **setting and streaming** creating pro- and anti-school subcultures — **Willis**'s study of a group of working-class boys forming a counter-school culture is the specification's named example of an anti-school subculture.
 
 ## Explaining differential achievement
 
 Distinguish **internal** factors within school — labelling, streaming, subcultures, ethnocentric curriculum, teacher expectations — from **external** factors outside it — material deprivation, cultural capital, parental attitudes, language codes.
 
-Achievement patterns are examined by **class** (persistently the strongest predictor), **gender** (girls outperforming boys at most levels, explained by changing ambitions, coursework and boys' subcultures) and **ethnicity** (varying widely between groups, with institutional racism and material factors both advanced as explanations).
+Achievement patterns are examined by **class** (persistently the strongest predictor — **Halsey**'s research is the specification's named study on class-based inequality in achievement), **gender** (girls outperforming boys at most levels, explained by changing ambitions, coursework and boys' subcultures) and **ethnicity** (varying widely between groups, with institutional racism and material factors both advanced as explanations). **Ball** is named on both sides of the internal/external divide — on parental choice and competition between schools as an external factor, and on teacher expectations as an internal one.
 
 ## Worked example
 

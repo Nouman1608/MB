@@ -73,9 +73,10 @@ situational attitude like teacher expectation. Another combined point: teachers,
 professionals used to being observed and evaluated, may give socially desirable answers in a
 structured interview rather than admitting to differential treatment of pupils — reflecting a
 theoretical validity issue applied directly to this specific topic and method, rather than stated
-as a generic weakness of interviews. A top-band answer works through at least three or four such
-combined points in depth, rather than covering many points shallowly, and reaches an overall
-judgement about whether the method suits the topic on balance.
+as a generic weakness of interviews. A well-developed answer works through several such combined
+points in depth, rather than covering many points shallowly, and reaches an overall judgement about
+whether the method suits the topic on balance — the published mark scheme sets no target number of
+points and does not require every possible point to be covered for full marks.
 
 ## Using the item
 
@@ -103,12 +104,13 @@ a single verdict, is central to reaching a well-supported overall judgement.
 - Writing generic method strengths/weaknesses without linking them to education specifically.
 - Discussing the topic's sensitivity without connecting it to a specific feature of the named method.
 - Forgetting the power imbalance between adult researchers and child/teenage participants — a
-  recurring, education-specific issue examiners reward when it is explained, not just mentioned.
+  recurring, education-specific issue that is worth explaining fully rather than just mentioning
+  in passing.
 
 ## Building a top-band judgement
 
-Because a method-only or context-only answer both score low, and a top-band answer needs three or
-four genuinely combined points explored in depth, it helps to plan an answer's structure before
+Because a method-only or context-only answer both score low, and a well-developed answer needs
+several genuinely combined points explored in depth, it helps to plan an answer's structure before
 writing: identify the named method's key practical, ethical and theoretical features, then work
 through the item's specific details one at a time, asking how each interacts with a feature of the
 method rather than describing them side by side. Closing with an explicit judgement — is the

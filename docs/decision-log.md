@@ -8453,3 +8453,129 @@ median 8 resources/combination, median 997 words/resource) ->
 (D-177 AQA sub-batch, 9 findings; D-178 OxfordAQA + cross-board
 sub-batch, findings E525-E533/Q214/Q215/Q209/Q210) and then World
 History (34 findings), neither started yet.
+
+
+## D-177 - Sociology cluster, batch 2 (AQA family)
+
+9 findings across 10 files spanning AQA A-Level Sociology (7192,
+Papers 1 and 3) and AQA GCSE Sociology (8192, Papers 1 and 2).
+Findings: E518-E524, Q212, Q213.
+
+**A-Level 7192 Paper 1 (Education with Theory and Methods).**
+`aqa-a-level-sociology-education-revision-notes.md`: E518 (the essay's
+tariff corrected from 20 to 30 marks -- 20 belongs to the separate
+methods in context question on the same paper -- with a clarifying
+sentence distinguishing the two), E523 (the gender-achievement
+narrative was reversed -- corrected to state boys' relative
+underachievement is the pattern since the late 1980s, and girls'
+under-participation/underachievement was the historical concern
+research addressed before that), Q213 (two examiner-behaviour claims
+reworded as study advice: naming a theorist "is what AQA's top mark
+bands reward" -> named theorists are indicative content, not a
+requirement; "evaluation embedded throughout is rewarded more
+reliably" -> removed as an unsupported claim about mark-scheme
+behaviour).
+`a-level-aqa-sociology-education-practice.md` (post-baseline sibling,
+not itself named in E518's Files list but carrying the identical
+defect per the finding's own text -- "marks two education essays at
+twenty with a scheme awarding up to twenty"): E518 (both essay
+questions corrected 20 -> 30 marks, mark schemes and cross-references
+updated to match); also carried invented "Section A/B/C" headings
+matching E519's defect pattern -- removed, since AQA 7192 Paper 1 has
+no sections, just content headings; the essay's naming-theorist and
+evaluation-timing claims reworded to match Q213's fix for internal
+consistency.
+
+**A-Level 7192 Paper 3 (Crime and Deviance with Theory and Methods).**
+`a-level-aqa-sociology-crime-and-deviance-practice.md` (post-baseline
+sibling carrying E519's defect, per the finding's own text naming "the
+third paper" as also affected): invented "Section A/B/C" headings
+removed -- questions were already numbered 1-8 continuously, so no
+renumbering was needed.
+
+**Methods in Context.** `a-level-sociology-methods-in-context-
+practice.md`: E519 (removed the invented "## Section A" heading),
+Q212 (the fixed-format stem rewritten to the real "Applying material
+from Item A/B..." wording, with each item now labelled by letter as
+the paper does), Q213 (the "at least three or four combined points"
+target-count claim and the "education-specific issue examiners
+reward" claim both reworded as study advice, three instances across
+the two answers and the "Where marks are usually lost" section).
+`a-level-sociology-methods-in-context-revision-notes.md`: Q213 (three
+instances of the same "three or four combined points"/"examiners
+reward" language reworded identically for consistency).
+
+`a-level-aqa-sociology-role-of-education-and-differential-
+achievement.md`: E523 (same gender-achievement reversal as the
+revision-notes sibling, corrected identically), Q213 (the same
+naming-theorist "mark schemes consistently reward" claim reworded).
+
+**GCSE 8192 Paper 1 (Families and Education).**
+`aqa-gcse-sociology-families-and-education.md`: E521 (the guide's own
+opening sentence correctly states the specification numbers its seven
+content areas 3.1-3.7 across the whole qualification, but the
+"Syllabus coverage" list and body then invented a Paper-local 1.1-1.5
+scheme; corrected throughout to 3.1/3.2/3.3/3.4/3.7, with 3.7 Research
+Methods explicitly noted as examined across both papers rather than a
+Paper 1 topic), E522 (three named researchers and one principle the
+specification requires, absent from all three Paper 1 resources,
+added: Halsey on class-based inequality in achievement; Willis's
+counter-school-culture study as the specification's named example of
+an anti-school subculture; Ball, named on both sides of the
+internal/external divide -- parental choice as an external factor,
+teacher expectations as an internal one; and stratified diffusion, the
+principle behind Willmott and Young's symmetrical-family thesis,
+fetched via WebFetch against the live AQA 8192 Education and Families
+subject-content pages). `aqa-gcse-sociology-families-education-
+revision-notes.md`: E522 (the same four additions folded into the
+condensed notes' class-differences and conjugal-roles sections).
+
+`aqa-gcse-sociology-families-education-practice.md`: E520 (rebuilt
+from six/eight/ten-mark questions -- tariffs this specification never
+sets -- with no multiple-choice, item-based or 12-mark question, onto
+the board's real five-tariff set of 1/2/3/4/12; added 4 multiple-choice
+questions, 2 item-based questions and 2 twelve-mark extended-response
+questions), E522 (Willis named directly against the anti-school-
+subcultures item-based question, the specific citation gap the finding
+called out in this file), E524 (rebuilt around the board's real
+two-lettered-section structure, one section per topic -- Families,
+Education -- each opening with two multiple-choice questions, mirroring
+the opposite defect from three other files in this batch that invent
+sections where none exist).
+
+**GCSE 8192 Paper 2 (Crime, Deviance and Social Stratification).**
+`gcse-sociology-crime-stratification-practice.md`: E520 (same rebuild
+onto the real 1/2/3/4/12 tariff set, with multiple-choice, item-based
+and 12-mark questions added), E524 (rebuilt around two lettered
+sections -- Crime and Deviance, Social Stratification -- each opening
+with two multiple-choice questions).
+
+**Verification method.** Facts confirmed via WebFetch against AQA's
+live specification pages before editing: the 7192 A-Level Sociology
+specification PDF (v1.2, 14 October 2021) for the education-essay and
+methods-in-context tariffs, section structure and command words; the
+8192 GCSE Sociology specification's Education and Families
+subject-content pages (fetched directly, not just the PDF landing
+page) for the exact section numbering (3.1-3.7), the named researchers
+required in each subsection, and the real five-tariff/two-section
+paper shape confirmed against the Crime and Stratification sibling
+guide's own citation of sections 3.5/3.6/3.7.
+
+**Also this entry.** During research, confirmed no gap remained in
+D-176's I221 fix: that finding's own Files list named a fourth file
+(`sociology-research-methods-practice.md`) alongside the three already
+fixed in D-176, but a direct search confirmed it already used only
+valid command words after D-176's full rewrite of that file, so no
+further edit was needed there.
+
+**Validation gate:** `astro check` (0 errors) -> `validate:academic`
+(full chain, all sub-validators PASS) -> `build` (2,129 pages +
+Pagefind, clean first attempt, 158s) -> `check-duplicate-resource-
+scope.mjs` (PASS, 6 allow-listed groups reviewed) -> `test-i18n-
+routes.mjs` (PASS) -> `test-practice-analytics.mjs` (24/24) -> `npm
+audit` (0 vulnerabilities) -> `coverage:academic-v2` (160/160) ->
+`audit:all` (12/12 sub-audits, 0 problems).
+
+**Next.** Continuing with D-178 (OxfordAQA + cross-board sub-batch,
+findings E525-E533/Q214/Q215/Q209/Q210) and then World History (34
+findings), neither started yet.

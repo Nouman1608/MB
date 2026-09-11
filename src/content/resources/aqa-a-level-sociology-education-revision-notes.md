@@ -59,20 +59,22 @@ This claim–claim–contrast structure is the assessed skill behind most "compa
 
 ## Key terms to define precisely
 
-**Correspondence principle** — school's hierarchy, discipline and extrinsic reward mirror the capitalist workplace. **Cultural capital** — Bourdieu's concept of knowledge/tastes/speech that higher-class families pass on, advantaging their children in a system that implicitly values these traits. **Material deprivation** — lack of physical/financial resources affecting achievement. **Labelling** — a teacher's/system's definition of a student influencing their outcomes, sometimes via a self-fulfilling prophecy. Name the specific theorist or concept, not just the general idea — this is what AQA's top mark bands reward.
+**Correspondence principle** — school's hierarchy, discipline and extrinsic reward mirror the capitalist workplace. **Cultural capital** — Bourdieu's concept of knowledge/tastes/speech that higher-class families pass on, advantaging their children in a system that implicitly values these traits. **Material deprivation** — lack of physical/financial resources affecting achievement. **Labelling** — a teacher's/system's definition of a student influencing their outcomes, sometimes via a self-fulfilling prophecy. Name the specific theorist or concept, not just the general idea — named theorists appear in AQA's mark schemes as indicative content, so citing one strengthens an answer even though the published top bands don't require it for full marks.
 
 ## Gender: two sides of one debate
 
-Historically, achievement research on gender focused on explaining boys' relative underachievement —
-explanations include the decline of traditionally "male" manual jobs reducing boys' motivation, laddish
-subcultures where academic effort is seen as conflicting with a desired masculine identity, and a
-lack of male role models in primary teaching. More recent sociological attention has shifted towards
-explaining girls' improved performance instead — changing ambitions linked to feminism and the
-availability of a wider range of careers, coursework and modular assessment styles argued to favour
-girls' typical study habits, and teacher expectations that may (consciously or not) favour girls'
-classroom behaviour. A strong answer distinguishes "explanations for boys' underachievement" from
-"explanations for girls' improvement" as two related but analytically separate strands of the same
-gender debate, rather than treating them as a single undifferentiated topic.
+Girls have out-performed boys on the headline attainment measure in every year since the late 1980s,
+so boys' relative underachievement is the current pattern — explanations include the decline of
+traditionally "male" manual jobs reducing boys' motivation, laddish subcultures where academic effort
+is seen as conflicting with a desired masculine identity, and a lack of male role models in primary
+teaching. What research historically addressed, before that shift, was girls' under-participation and
+underachievement instead — changing ambitions linked to feminism and the availability of a wider range
+of careers, coursework and modular assessment styles argued to favour girls' typical study habits, and
+teacher expectations that may (consciously or not) favour girls' classroom behaviour are all offered as
+explanations for girls' subsequent improvement. A strong answer distinguishes "explanations for boys'
+current underachievement" from "explanations for girls' historical underachievement and later
+improvement" as two related but analytically separate strands of the same gender debate, rather than
+treating them as a single undifferentiated topic.
 
 ## Ethnicity: material vs in-school explanations
 
@@ -94,14 +96,16 @@ explanation might reinforce each other, rather than only listing both.
 
 ## Building an evaluative paragraph
 
-For a 20-mark essay on this content, a reliable paragraph structure is: state the perspective's claim,
-support it with a named study or concept, then evaluate by introducing a contrasting perspective or a
-specific criticism (for example, that functionalism assumes the education system is fair without
-adequately explaining persistent class-based achievement gaps). Repeating this claim–support–evaluate
-pattern across two or three perspectives, rather than describing several perspectives back to back
-with evaluation left to a final paragraph, tends to score more consistently against AQA's sociology
-mark scheme, since evaluation embedded throughout is rewarded more reliably than evaluation bolted on
-at the end.
+The education essay on this paper is worth 30 marks — not the 20-mark tariff, which belongs to the
+separate methods in context question on the same paper. For a 30-mark essay on this content, a
+reliable paragraph structure is: state the perspective's claim, support it with a named study or
+concept, then evaluate by introducing a contrasting perspective or a specific criticism (for example,
+that functionalism assumes the education system is fair without adequately explaining persistent
+class-based achievement gaps). Repeating this claim–support–evaluate pattern across two or three
+perspectives, rather than describing several perspectives back to back with evaluation left to a final
+paragraph, is good general essay-writing practice for building a sustained line of argument — the
+published mark scheme does not itself state that evaluation embedded throughout scores more reliably
+than evaluation placed at the end.
 
 ## Quick revision checklist
 

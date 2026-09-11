@@ -41,7 +41,7 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 | **New Right** | The nuclear family is the ideal; lone parenthood is blamed for social problems |
 | **Postmodernism** | Family structure is a matter of individual choice; diversity is the norm |
 
-**Conjugal roles:** *segregated* (separate and traditional) versus *joint* (shared). The **symmetrical family** thesis (Willmott and Young) claims roles have converged; feminists reply that evidence of the **dual burden** — paid work plus domestic work — shows symmetry is more apparent than real, and that women retain responsibility for **emotion work** as well.
+**Conjugal roles:** *segregated* (separate and traditional) versus *joint* (shared). The **symmetrical family** thesis (Willmott and Young) claims roles have converged, spreading via **stratified diffusion** — their principle that social changes filter downward from higher to lower social classes over time; feminists reply that evidence of the **dual burden** — paid work plus domestic work — shows symmetry is more apparent than real, and that women retain responsibility for **emotion work** as well.
 
 ## Education
 
@@ -55,8 +55,8 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 
 **Class differences in achievement:**
 
-- **Outside school:** material deprivation (housing, diet, equipment, study space), cultural deprivation (parental attitudes, language codes), **cultural capital** (middle-class knowledge and confidence that schools reward).
-- **Inside school:** **labelling** against the "ideal pupil", the **self-fulfilling prophecy**, setting and streaming, and pro- and anti-school subcultures.
+- **Outside school:** material deprivation (housing, diet, equipment, study space), cultural deprivation (parental attitudes, language codes), **cultural capital** (middle-class knowledge and confidence that schools reward), and **Halsey**'s research on class-based inequality in achievement — the specification's named study for class as an external factor. **Ball** is also named here, on parental choice and competition between schools.
+- **Inside school:** **labelling** against the "ideal pupil", the **self-fulfilling prophecy**, setting and streaming, and pro- and anti-school subcultures — **Willis**'s study of working-class boys forming a counter-school culture is the specification's named example. **Ball** appears again here too, on teacher expectations, making him the one researcher named on both sides of the internal/external divide.
 
 **Cultural deprivation theory is criticised for blaming the victim** — it treats working-class culture as deficient rather than different, and overlooks material barriers. **Bernstein's elaborated versus restricted code** is the specific mechanism often examined: schools use an elaborated code (context-independent, grammatically complex) that middle-class pupils are already familiar with from home, putting working-class pupils using a restricted code at an immediate disadvantage in lessons and assessment.
 

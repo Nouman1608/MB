@@ -22,64 +22,112 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+>
+> AQA GCSE Sociology (8192) marks every live paper on the same five tariffs —
+> 1, 2, 3, 4 and 12 — and each paper is divided into two lettered sections,
+> one per topic, each opening with two multiple-choice questions. This paper
+> follows that shape: Section A on Families, Section B on Education, each
+> ending with an item-based question and a 12-mark extended-response question.
 
 Related: [Families and Education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/)
 
 ---
 
-## Section A
+## Section A: Families
 
-**1.** Name **four** types of family and describe each. **[4]**
+**1.** Which sociologist is most associated with the concept of "stratified diffusion"?
 
-**2.** State **four** functions of the family according to functionalists. **[4]**
+A. Oakley
+B. Willmott and Young
+C. Parsons
+D. Zaretsky
 
-## Section B
+**[1]**
 
-**3.** Explain **three** reasons for the increase in divorce since the 1960s. **[6]**
+**2.** Which of these is a function of the family identified by functionalists?
 
-**4.** Explain **two** consequences of divorce for family structure. **[4]**
+A. Reproducing patriarchy
+B. Primary socialisation
+C. The hidden curriculum
+D. Labelling
 
-**5.** Explain the difference between the functionalist and Marxist views of the role of education. **[8]**
+**[1]**
 
-**6.** Explain **three** in-school and **two** out-of-school factors that contribute to differential educational achievement by social class. **[10]**
+**3.** Identify **two** types of family other than the nuclear family. **[2]**
 
----
+**4.** Explain **three** reasons for the increase in divorce since the 1960s. **[3]**
 
-## Section C
+**5.** Explain **two** consequences of divorce for family structure. **[4]**
 
-**7.** Explain the feminist view of the family, referring to the *dual burden*. **[4]**
+**6. Item-based question.** *Item: A sociologist studying two households notes that in one, the couple share housework, childcare and decision-making roughly equally; in the other, the woman does almost all of the domestic work and emotional labour despite also working full-time, while the man makes most major financial decisions.*
 
-**8.** Explain the New Right view of family diversity. **[4]**
+Using the item and your knowledge, explain **two** ways sociologists describe and explain the difference between these two households. **[4]**
 
-**9.** Explain **two** reasons for the gender gap in educational achievement, with girls now outperforming boys. **[4]**
+**7.** Evaluate the view that the family remains a patriarchal institution despite claims that conjugal roles have become more equal. **[12]**
 
-**10.** Explain why ethnic differences in educational achievement are said to "overlap with class". **[3]**
+## Section B: Education
+
+**8.** Which sociologist is associated with the "correspondence principle"?
+
+A. Durkheim
+B. Bowles and Gintis
+C. Halsey
+D. Willis
+
+**[1]**
+
+**9.** Which of these is an example of an internal, in-school factor affecting achievement?
+
+A. Material deprivation
+B. Cultural capital
+C. Labelling
+D. Parental attitudes
+
+**[1]**
+
+**10.** Identify **two** external, out-of-school factors that can affect educational achievement. **[2]**
+
+**11.** Explain the difference between the functionalist and Marxist views of the role of education. **[3]**
+
+**12.** Explain **two** in-school factors that contribute to differential educational achievement by social class. **[4]**
+
+**13. Item-based question.** *Item: A group of working-class boys at a secondary school describe lessons as "pointless" and say that having a laugh with their mates matters more than getting good grades. Several have already decided they will follow their fathers into manual work after leaving school.*
+
+Using the item and your knowledge, explain how sociologists would describe and explain the boys' attitude to school. **[4]**
+
+**14.** Evaluate the view that factors inside school are more important than factors outside school in explaining class differences in educational achievement. **[12]**
 
 ---
 
 ## Answers
 
-**1. Nuclear** — two generations: parents and their dependent children living together [1]. **Extended** — includes relatives beyond the nuclear family, either vertically (grandparents) or horizontally (aunts, uncles) [1]. **Reconstituted (blended)** — a stepfamily formed when partners with children from previous relationships live together [1]. **Lone-parent** — one parent living with dependent children [1]. (Also accept: same-sex family, single-person household.)
+**1.** B — Willmott and Young. Their symmetrical family thesis rests on stratified diffusion: the idea that social changes spread downward from higher to lower social classes over time.
 
-**2. Primary socialisation** of children into society's norms and values [1]; **stabilisation of adult personalities**, providing emotional support — Parsons's "warm bath" [1]; **reproduction**, ensuring the next generation [1]; **economic support**, providing for members materially [1].
+**2.** B — Primary socialisation.
 
-**3.** Any three, 2 marks each: **changes in the law** — the Divorce Reform Act 1969 allowed "irretrievable breakdown" and later reforms made divorce cheaper and simpler, so divorce became accessible rather than more common in reality [1] [1]. **Changing social attitudes and secularisation** — divorce carries far less stigma, and religious opposition has weakened, so couples are more willing to end an unhappy marriage [1] [1]. **Women's economic independence** — as more women work and can support themselves, they are **less financially trapped in an unsatisfactory marriage** [1] [1]. **Higher expectations of marriage** — couples now expect emotional fulfilment and companionship, so are less tolerant of an empty-shell marriage [1] [1].
+**3.** Any two: **extended** — includes relatives beyond the nuclear family, either vertically (grandparents) or horizontally (aunts, uncles) [1]; **reconstituted (blended)** — a stepfamily formed when partners with children from previous relationships live together [1]; **lone-parent** — one parent living with dependent children [1]. (Also accept: same-sex family, single-person household, beanpole family.)
 
-**4.** Any two, 2 marks each: an **increase in lone-parent families**, most headed by women, which is associated with a higher risk of poverty [1] [1]. An **increase in reconstituted families**, as divorced people remarry or cohabit, creating step-relationships and more complex household structures [1] [1]. An increase in **single-person households**, contributing to a rise in the total number of households and to demand for housing [1] [1].
+**4.** Any three, 1 mark each: **changes in the law** — the Divorce Reform Act 1969 allowed "irretrievable breakdown" and later reforms made divorce cheaper and simpler, so divorce became accessible rather than more common in reality [1]. **Changing social attitudes and secularisation** — divorce carries far less stigma, and religious opposition has weakened, so couples are more willing to end an unhappy marriage [1]. **Women's economic independence** — as more women work and can support themselves, they are less financially trapped in an unsatisfactory marriage [1]. **Higher expectations of marriage** — couples now expect emotional fulfilment and companionship, so are less tolerant of an empty-shell marriage [1].
 
-**5. Functionalist view:** education performs **secondary socialisation**, transmitting shared norms and values and creating **social solidarity** [1] [1]. It acts as a **bridge between the family and wider society**, teaching universalistic standards where achievement replaces ascribed status [1]. Through **role allocation** it sorts people by ability into appropriate jobs, so it is meritocratic and functional [1].
-**Marxist view:** education **reproduces class inequality** by passing on the advantages of the middle class to their children [1] [1]. The **hidden curriculum** teaches obedience, punctuality and acceptance of hierarchy, producing a compliant workforce — Bowles and Gintis's "correspondence principle" [1]. The **myth of meritocracy** legitimises inequality by persuading those who fail that it was their own fault, which prevents challenge to the system [1].
+**5.** Any two, 2 marks each: an **increase in lone-parent families**, most headed by women, which is associated with a higher risk of poverty [1] [1]. An **increase in reconstituted families**, as divorced people remarry or cohabit, creating step-relationships and more complex household structures [1] [1]. An increase in **single-person households**, contributing to a rise in the total number of households and to demand for housing [1] [1].
 
-**6. In-school factors**, 2 marks each: **labelling** — teachers form expectations of pupils based partly on class and appearance, which can become a **self-fulfilling prophecy** as pupils live up or down to the label [1] [1]. **Setting and streaming** — working-class pupils are disproportionately placed in lower sets, which are taught a restricted curriculum by less experienced staff, limiting attainment [1] [1]. **Anti-school subcultures** — pupils denied status by the school seek it from peers by rejecting school values, further depressing achievement [1] [1]. **The language of the school** — Bernstein argued schools use an elaborated code that middle-class pupils are already familiar with [1] [1].
-**Out-of-school factors**, 2 marks each: **material deprivation** — overcrowded housing, no quiet study space, no computer, and pressure to take paid work all reduce the ability to study [1] [1]. **Cultural capital** — middle-class parents possess the knowledge, confidence and connections to navigate the school system, choose better schools and support learning at home [1] [1]. (Also accept: parental attitudes to education; immediate versus deferred gratification.)
+**6.** The item describes **joint conjugal roles** (the first household, sharing housework, childcare and decisions roughly equally) versus **segregated conjugal roles** with a **dual burden** (the second household, where the woman combines paid work with the bulk of domestic and emotional labour) [1] [1]. Willmott and Young's **symmetrical family** thesis would explain the first household as evidence that conjugal roles are converging, spreading via stratified diffusion; feminists such as Oakley would point to the second household as evidence that symmetry is more apparent than real, since women still carry a disproportionate share of domestic and emotional work even when in paid employment [1] [1].
 
-**7.** The family **reproduces patriarchy** [1], with women carrying a disproportionate share of domestic responsibility [1]. The **dual burden** refers to women combining **paid work with unpaid domestic labour** [1]; some feminists add a "triple shift" of **emotion work** as a further, largely invisible demand on women's time [1].
+**7.** Indicative content — award up to 12 marks using the levels descriptors in the specification; look for a developed, evaluative argument rather than a checklist of points. **For "patriarchal"**: feminists point to the persistence of the dual burden and triple shift even where couples describe their roles as shared, and to unequal decision-making power over major financial matters [1] [1]. **Against**: the symmetrical family thesis (Willmott and Young) and its principle of stratified diffusion argue that joint conjugal roles have spread through the class structure over time, and postmodernists would add that family structures and role divisions are now a matter of individual choice rather than a fixed patriarchal pattern [1] [1]. **Evaluation**: strong answers weigh survey evidence on time spent on domestic labour against the risk that self-reported "sharing" understates real inequality, and consider whether apparent equality in decision-making about everyday matters coexists with continued male dominance over major financial decisions [1] [1] [1] [1].
 
-**8.** The New Right argue the **nuclear family** (a married heterosexual couple and their children) is the **ideal family structure** [1]. Alternatives, particularly **lone-parent families**, are blamed for **undermining children's socialisation** and contributing to social problems such as crime or welfare dependency [1] [1]. Critics argue this **stigmatises lone parents** and ignores evidence that family structure alone does not determine a child's outcomes [1].
+**8.** B — Bowles and Gintis.
 
-**9.** Any two, 2 marks each: **changing aspirations** — women now expect careers rather than only a domestic role, motivating greater achievement at school [1] [1]. **Equal-opportunity policies** — initiatives removing barriers that previously limited girls' subject choices and progression have widened opportunity [1] [1]. **Crisis of masculinity** — the decline of traditional manual jobs for men has reduced some boys' motivation to achieve academically [1] [1].
+**9.** C — Labelling.
 
-**10.** Ethnic differences in achievement **significantly overlap with class differences** [1] — some minority ethnic groups are **disproportionately represented in lower social classes** [1], so much of the apparent "ethnic" effect **narrows once class is statistically accounted for** [1].
+**10.** Any two: **material deprivation** (housing, diet, equipment, study space) [1]; **cultural deprivation/parental attitudes** (language codes, attitudes to education) [1]. (Also accept: cultural capital, Halsey's research on class-based inequality in achievement.)
+
+**11.** Functionalists see education as **meritocratic role allocation**, sorting people fairly into jobs suited to their ability [1]; Marxists reply that this is a **myth of meritocracy** — the hidden curriculum and correspondence principle (Bowles and Gintis) instead reproduce class inequality by preparing pupils to accept their place in an unequal workforce [1] [1].
+
+**12.** Any two, 2 marks each: **labelling** — teachers form expectations of pupils based partly on class and appearance, which can become a self-fulfilling prophecy as pupils live up or down to the label [1] [1]. **Setting and streaming** — working-class pupils are disproportionately placed in lower sets, which are taught a restricted curriculum by less experienced staff, limiting attainment [1] [1]. (Also accept: anti-school subcultures; Bernstein's elaborated/restricted speech codes.)
+
+**13.** The boys in the item are forming an **anti-school subculture** — Willis's study of a group of working-class boys is the specification's named example of exactly this pattern, finding that pupils denied status through academic success instead sought status from their peers by rejecting the school's values, seeing manual work rather than qualifications as their realistic future [1] [1]. This is an **in-school, interactionist explanation** of differential achievement: rather than being caused directly by material deprivation, underachievement here is shown as the outcome of pupils' own response to how school makes them feel about their prospects within it [1] [1].
+
+**14.** Indicative content — award up to 12 marks using the levels descriptors in the specification. **In-school factors**: labelling and the self-fulfilling prophecy, setting and streaming, and anti-school subcultures (Willis) can depress achievement independently of a pupil's home circumstances [1] [1] [1]. **Out-of-school factors**: material deprivation, cultural deprivation and cultural capital, and Halsey's research on class-based inequality in achievement, show that a pupil's chances can be shaped well before they enter the classroom [1] [1] [1]. Ball is a useful bridge here, named on both sides of the divide — on parental choice and competition between schools as an external factor, and on teacher expectations as an internal one [1]. **Evaluation**: strong answers argue the two categories interact rather than compete — for example, material deprivation outside school can contribute to the very behaviour that gets a pupil labelled inside it — so "more important" claims should be treated cautiously rather than settled definitively [1] [1] [1].
 
 ---
 
@@ -88,6 +136,6 @@ Related: [Families and Education revision notes](/resources/aqa-gcse-sociology-f
 - Saying divorce increased "because people are less religious" without explaining the mechanism.
 - Confusing an increase in divorce with an increase in marital unhappiness.
 - Describing the hidden curriculum as the subjects taught.
-- Giving in-school factors when out-of-school ones are asked for.
+- Naming a general idea (anti-school subculture, class-based inequality) without the specific study the specification attaches to it (Willis; Halsey; Ball).
 - Treating the New Right view as neutral description rather than a value-laden judgement about which family type is "ideal".
-- Explaining the gender gap or ethnicity gap without linking it back to a specific mechanism (aspirations, policy, or the overlap with class).
+- On the item-based questions, describing the item's scenario without linking it explicitly to a named sociological concept or study.

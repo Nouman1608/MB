@@ -28,8 +28,6 @@ Related: [Crime and Deviance revision notes](/resources/a-level-aqa-sociology-cr
 
 ---
 
-## Section A
-
 **1.** Identify the two core themes the specification requires crime and deviance content to be connected to. **[2]**
 
 **2.** Identify the three broad sociological perspectives in the theory-to-explanation map for crime. **[3]**
@@ -37,8 +35,6 @@ Related: [Crime and Deviance revision notes](/resources/a-level-aqa-sociology-cr
 **3.** State one difference between what official crime statistics and self-report/victim studies can each reliably show. **[2]**
 
 ---
-
-## Section B
 
 **4.** A student writes: "Working-class people commit more crime than middle-class people, as shown by the official crime statistics."
 
@@ -50,8 +46,6 @@ Related: [Crime and Deviance revision notes](/resources/a-level-aqa-sociology-cr
 **6.** Explain why green crime and state crime are considered part of the same theoretical debate as individual-level crime, rather than a separate topic. **[3]**
 
 ---
-
-## Section C
 
 **7.** Evaluate the claim that official crime statistics provide an accurate picture of the true social distribution of crime by ethnicity. Refer to at least one alternative data source in your answer. **[8]**
 
