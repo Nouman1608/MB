@@ -7,7 +7,7 @@ topic: "Prose and Drama"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9275"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -90,9 +90,10 @@ OxfordAQA has published a revised 9275 specification for first teaching from Sep
 refreshes the set-text and anthology lists. This affects cohorts starting their course from
 September 2026 onwards, with first exams in the May/June 2028 series — the Paper 1 structure and
 approach covered in these notes is unchanged, but the specific texts on the prescribed list will
-differ. The current Version 4.2 specification remains in force for all series up to and including
-May/June 2027, so most candidates using these notes should confirm which version applies to their
-own examination year before finalising which edition of their set texts to buy.
+differ. The current Version 5.1 specification remains in force for all series up to and including
+the November 2027 resit series (the real final sitting, not May/June 2027 alone), so most
+candidates using these notes should confirm which version applies to their own examination year
+before finalising which edition of their set texts to buy.
 
 ## Exam traps
 
@@ -115,6 +116,6 @@ own examination year before finalising which edition of their set texts to buy.
 
 **Answers (continued):** 5. Route A adds an unseen prose section (Paper 2a); Route B adds non-exam assessment (coursework) alongside Paper 2b. 6. For each text, 2-3 major characters and 2-3 central themes with supporting quotations from more than one point in the text — for the play, also a staging note on how a key line might be delivered.
 
-## Official syllabus
+## Official specification
 
-OxfordAQA International GCSE English Literature (9275) specification, Version 4.2, for exams May/June 2018 onwards — [oxfordaqa.com](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-english-literature-specification.pdf).
+OxfordAQA International GCSE English Literature (9275) specification, Version 5.1, for exams May/June 2018 onwards — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-english-literature-specification-2018.pdf).

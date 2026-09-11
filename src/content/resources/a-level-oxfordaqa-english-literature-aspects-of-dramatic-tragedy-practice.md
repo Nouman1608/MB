@@ -7,7 +7,7 @@ topic: "Unit 1 – Aspects of Dramatic Tragedy"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9675"]
-syllabusSeries: "Version 4.1, for International AS exams from May/June 2018, A-level from May/June 2019"
+syllabusSeries: "Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019"
 stage: "AS"
 order: 1
 syllabusTopics:
@@ -46,19 +46,21 @@ Related: [Aspects of Dramatic Tragedy revision notes](/resources/a-level-oxforda
 
 ## Answers (worked approach — marks depend on your studied plays)
 
-**1.** A top-band response opens with **close analysis of the passage's** language and dramatic method [10], identifies a specific marker of the hero's developing hamartia or error of judgement within that passage [6], and connects the moment outward to the **play's tragic structure** as a whole, considering how an audience would experience the moment in performance [9].
+**1.** A top-band response opens with **close analysis of the passage's** language and dramatic method, identifies a specific marker of the hero's developing hamartia or error of judgement within that passage, and connects the moment outward to the **play's tragic structure** as a whole, considering how an audience would experience the moment in performance. **[25]**
 
-**2.** A strong response identifies specific textual markers of isolation within the chosen passage -- through soliloquy, staging (positioning on stage, other characters' physical distance), or dialogue that signals the hero is misunderstood or alone in their perspective [10], analyses how the playwright's specific dramatic method creates this sense of isolation for an audience [8], and considers whether this isolation is self-inflicted or imposed by circumstance, connecting the point to the play's wider tragic arc [7].
+**2.** A strong response identifies specific textual markers of isolation within the chosen passage -- through soliloquy, staging (positioning on stage, other characters' physical distance), or dialogue that signals the hero is misunderstood or alone in their perspective, analyses how the playwright's specific dramatic method creates this sense of isolation for an audience, and considers whether this isolation is self-inflicted or imposed by circumstance, connecting the point to the play's wider tragic arc. **[25]**
 
-**3.** A strong essay engages critically with the claim rather than simply agreeing or disagreeing [4], weighs the hero's **own responsibility** (hamartia, choices, flaws) against **external forces** (fate, other characters, circumstance) using specific evidence from across the play [14], and reaches a sustained, evidence-based judgement about where the balance lies, ideally informed by an awareness of critical debate about tragedy as a genre [7].
+**3.** A strong essay engages critically with the claim rather than simply agreeing or disagreeing, weighs the hero's **own responsibility** (hamartia, choices, flaws) against **external forces** (fate, other characters, circumstance) using specific evidence from across the play, and reaches a sustained, evidence-based judgement about where the balance lies, ideally informed by an awareness of critical debate about tragedy as a genre. **[25]**
 
-**4.** A strong essay considers what specifically generates audience sympathy for the tragic hero at different points in the play (their own suffering, their self-awareness, an admirable quality undermined by their flaw) [10], weighs this against moments where the hero's actions might alienate audience sympathy instead [8], and reaches a reasoned judgement about whether sympathy is essential to how the play achieves its tragic effect, or whether other elements (spectacle, catharsis, structure) matter just as much [7].
+**4.** A strong essay considers what specifically generates audience sympathy for the tragic hero at different points in the play (their own suffering, their self-awareness, an admirable quality undermined by their flaw), weighs this against moments where the hero's actions might alienate audience sympathy instead, and reaches a reasoned judgement about whether sympathy is essential to how the play achieves its tragic effect, or whether other elements (spectacle, catharsis, structure) matter just as much. **[25]**
+
+Each question carries all 25 marks as a single response — these are not itemised into separate per-point totals in the official mark scheme, which assesses each answer holistically against level descriptors rather than crediting isolated points individually.
 
 ---
 
 ## How to adapt these questions to your own set texts
 
-Because this resource deliberately does not name specific plays, the most effective way to use it is to substitute your own studied Elizabethan/Jacobean tragedy and later dramatic tragedy into each question exactly as worded, then write a full timed response (roughly 35-40 minutes per question, reflecting the 25-mark allocation relative to the paper's overall timing). Before writing a Section A response specifically, select your practice passage deliberately -- choose a moment genuinely relevant to the question asked (the hero's downfall beginning, or a moment of isolation) rather than a generic favourite passage, since close analysis anchored to a well-chosen passage is what the question actually rewards.
+Because this resource deliberately does not name specific plays, the most effective way to use it is to substitute your own studied Elizabethan/Jacobean tragedy and later dramatic tragedy into each question exactly as worded, then write a full timed response (roughly 55-60 minutes per question -- the paper is 2 hours for two 25-mark questions, one per section, so the proportionate time is about sixty minutes each). Before writing a Section A response specifically, select your practice passage deliberately -- choose a moment genuinely relevant to the question asked (the hero's downfall beginning, or a moment of isolation) rather than a generic favourite passage, since close analysis anchored to a well-chosen passage is what the question actually rewards.
 
 ## Where marks are usually lost
 

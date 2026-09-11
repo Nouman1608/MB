@@ -7,13 +7,13 @@ topic: "Unit 2 – Place in Literary Texts"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9675"]
-syllabusSeries: "Version 4.1, for International AS exams from May/June 2018, A-level from May/June 2019"
+syllabusSeries: "Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019"
 stage: "AS"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-place-in-literary-texts-9675"
-description: "Condensed recall notes on the prose and poetry sections, the specification's seven 'place' angles, and exam technique for OxfordAQA International AS & A-Level English Literature (9675) Unit 2."
+description: "Condensed recall notes on the prose and poetry sections, the specification's nine 'place' angles, and exam technique for OxfordAQA International AS & A-Level English Literature (9675) Unit 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
@@ -31,9 +31,11 @@ Condensed for the final weeks. For the full explanation, use the
 | A | Essay, chosen prose text | 25 |
 | B | Essay, chosen poetry selection | 25 |
 
-One prose text and one poet's selection in total — open book, but the specification does not permit an annotated copy.
+One prose text and one poet's selection in total — open book. Only a clean, unannotated copy may
+be taken into the exam; that is a matter of examination regulations rather than something the
+specification itself states, since the specification says only that this is an open-book exam.
 
-## The seven "place" angles
+## The nine "place" angles
 
 Learn these as a checklist of *angles to bring evidence for*, not a definition of place itself:
 
@@ -42,8 +44,10 @@ Learn these as a checklist of *angles to bring evidence for*, not a definition o
 3. The natural world — its beauty, or its despoliation
 4. Social identity and how people are positioned within society
 5. Social class as expressed through place
-6. Home and homeland
-7. The language a text uses to represent place
+6. Place as a setting for human relationships
+7. Place as a political space
+8. Home and homeland
+9. The language a text uses to represent place
 
 A strong essay ranges across several angles rather than settling on geography alone, since "place" is deliberately left open by the specification.
 
@@ -104,12 +108,12 @@ search should already be done in preparation, with only quick confirmation neede
 ## Self-test
 
 1. How many marks is Unit 2 worth, and what proportion of the International AS does it represent?
-2. Name three of the specification's seven "place" angles.
+2. Name three of the specification's nine "place" angles.
 3. Why is memorising quotations a less efficient use of revision time for Unit 2 than for Unit 1?
 4. What is the main weakness of a poetry answer built around only one poem?
 5. Is an annotated copy of the set text permitted in the exam?
 
-**Answers:** 1. 50 marks, 50% of the International AS (20% of the full International A-level). 2. Any three of: geographical locations, setting/time period, the natural world, social identity, social class, home and homeland, language. 3. Because the exam is open book, so preparation is better spent on a flexible analytical framework than on memorising exact wording. 4. It under-uses the available marks, since strong answers are expected to range across the poet's selection rather than rely on one poem. 5. No — only a clean, unannotated copy is permitted.
+**Answers:** 1. 50 marks, 50% of the International AS (20% of the full International A-level). 2. Any three of: geographical locations, setting/time period, the natural world, social identity, social class, place as a setting for relationships, place as a political space, home and homeland, language. 3. Because the exam is open book, so preparation is better spent on a flexible analytical framework than on memorising exact wording. 4. It under-uses the available marks, since strong answers are expected to range across the poet's selection rather than rely on one poem. 5. No — examination regulations require a clean, unannotated copy; this is not something the specification itself states.
 
 ## Related resources
 

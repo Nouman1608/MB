@@ -7,34 +7,35 @@ topic: "Prose and Drama"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9275"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "prose-and-drama-9275"
-description: "Prose fiction and drama set texts -- the full content of Topic 1 Prose and Drama for OxfordAQA International GCSE English Literature (9275)."
+description: "Prose fiction and drama set texts -- the full content of Paper 1 Prose and Drama for OxfordAQA International GCSE English Literature (9275)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
-This guide covers **Topic 1 Prose and Drama**, assessed in Paper 1 of
-OxfordAQA International GCSE English Literature (9275), which overlaps
-with AQA's UK GCSE English Literature (8702). Two routes exist through
-the specification: Route A (Paper 1 plus Paper 2a, with an unseen-prose
-section) and Route B (Paper 1 plus Paper 2b plus non-exam assessment).
+This guide covers **Prose and Drama**, assessed in Paper 1 of
+OxfordAQA International GCSE English Literature (9275), Version 5.1,
+which overlaps with AQA's UK GCSE English Literature (8702). Two routes
+exist through the specification: Route A (Paper 1 plus Paper 2a, with
+an unseen-prose section) and Route B (Paper 1 plus Paper 2b plus
+non-exam assessment).
 
 ## Where this fits in 9275
 
 Prose and Drama establishes close-reading and analytical skills
 applied to whole studied texts -- a novel and a play, drawn from the
-specification's prescribed text list -- that carry forward into Topic
-2 (Poetry and Unseen Texts), where the same skills are applied to
+specification's prescribed text list -- that carry forward into Poetry
+and Unseen Texts (Paper 2a/2b), where the same skills are applied to
 shorter and unseen material.
 
 ## Syllabus coverage
 
-**OXFORDAQA INTERNATIONAL GCSE ENGLISH LITERATURE (9275) — TOPIC 1
+**OXFORDAQA INTERNATIONAL GCSE ENGLISH LITERATURE (9275) — PAPER 1:
 PROSE AND DRAMA**
 
 - Prose Fiction — close study of a set prose text, including its
@@ -72,8 +73,9 @@ OxfordAQA has published a revised 9275 specification for first
 teaching from September 2026, refreshing the set-text and anthology
 lists -- affecting cohorts starting from September 2026, with first
 exams in May/June 2028 -- but the Paper 1 structure described above is
-unchanged, and the current (Version 4.2) specification remains in
-force through the final May/June 2027 series.
+unchanged, and the current (Version 5.1) specification remains in
+force through the final May/June 2027 series, with a final resit
+series in November 2027.
 
 ## Building a quotation bank
 
@@ -126,12 +128,13 @@ onwards with first exams in the May/June 2028 series. The Paper 1
 structure and approach described above is unchanged between versions,
 but the specific prescribed texts differ, so confirming which version
 applies to a given examination year is essential before finalising
-which edition of a set text to buy -- the current Version 4.2
-specification remains in force for all series up to and including
-May/June 2027.
+which edition of a set text to buy -- the current Version 5.1
+specification remains in force for all series up to and including the
+November 2027 resit series, the real final sitting (not the May/June
+2027 series alone).
 
-## Official syllabus
+## Official specification
 
 OxfordAQA International GCSE English Literature (9275) specification,
-Version 4.2, for exams May/June 2018 onwards —
-[oxfordaqa.com](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-english-literature-specification.pdf).
+Version 5.1, for exams May/June 2018 onwards —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-english-literature-specification-2018.pdf).

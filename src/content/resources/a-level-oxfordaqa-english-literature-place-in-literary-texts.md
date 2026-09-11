@@ -7,7 +7,7 @@ topic: "Unit 2 – Place in Literary Texts"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9675"]
-syllabusSeries: "Version 4.1, for International AS exams from May/June 2018, A-level from May/June 2019"
+syllabusSeries: "Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019"
 stage: "AS"
 order: 2
 syllabusTopics:
@@ -21,7 +21,7 @@ featured: false
 
 This guide covers **Unit 2 Place in Literary Texts**, the second of two
 units forming the International AS half of OxfordAQA International AS &
-A-Level English Literature (9675), Version 4.1. Where Unit 1 organises
+A-Level English Literature (9675), Version 5.3. Where Unit 1 organises
 texts around the mainstream genre of tragedy, Unit 2 takes a less
 conventional approach: it connects a prose text and a poetry text
 through the shared cultural genre of *place* -- how specific settings
@@ -40,7 +40,8 @@ hand, rather than on memorising quotations.
 
 ## Syllabus coverage
 
-**OXFORDAQA A-LEVEL ENGLISH LITERATURE (9675) — UNIT 2: PLACE IN LITERARY TEXTS**
+**OXFORDAQA INTERNATIONAL AS & A-LEVEL ENGLISH LITERATURE (9675) —
+UNIT 2 PLACE IN LITERARY TEXTS**
 
 The specification does not give an exhaustive list of what "place" can
 mean in a text, but identifies areas worth exploring, including:
@@ -151,9 +152,8 @@ exam.
 - [Place in Literary Texts revision notes](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts-revision-notes/)
 - [Place in Literary Texts practice questions](/resources/a-level-oxfordaqa-english-literature-place-in-literary-texts-practice/)
 
-## Official syllabus
+## Official specification
 
 OxfordAQA International AS and A-Level English Literature (9675)
-specification PDF, Version 4.1, pages 12-14 —
-[oxfordaqa.com](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-english-literature-specification.pdf),
-fetched and verified 2026-09-02.
+specification PDF, Version 5.3, pages 12-13 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/02/oxfordaqa-a-level-english-literature-specification.pdf).

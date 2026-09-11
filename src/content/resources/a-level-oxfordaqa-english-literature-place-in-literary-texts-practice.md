@@ -7,7 +7,7 @@ topic: "Unit 2 – Place in Literary Texts"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9675"]
-syllabusSeries: "Version 4.1, for International AS exams from May/June 2018, A-level from May/June 2019"
+syllabusSeries: "Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019"
 stage: "AS"
 order: 3
 syllabusTopics:
@@ -46,19 +46,21 @@ Related: [Place in Literary Texts study guide](/resources/a-level-oxfordaqa-engl
 
 ## Answers (worked approach — marks depend on your studied text and poems)
 
-**1.** A top-band response identifies a **specific setting** and analyses the writer's **language** in constructing it — imagery, structure, point of view — rather than simply describing the location [10]; connects that setting explicitly to **social class or identity**, showing how the text positions characters within, or against, that place [8]; and considers how the setting's significance **develops or shifts** across the text, rather than treating it as static background [7].
+**1.** A top-band response identifies a **specific setting** and analyses the writer's **language** in constructing it — imagery, structure, point of view — rather than simply describing the location; connects that setting explicitly to **social class or identity**, showing how the text positions characters within, or against, that place; and considers how the setting's significance **develops or shifts** across the text, rather than treating it as static background. **[25]**
 
-**2.** A strong essay engages critically with the claim rather than only agreeing or disagreeing [4]; uses specific evidence of the **natural world's presence** in the text — its beauty, its despoliation, or its symbolic function — analysing the writer's language in representing it [12]; and reaches a sustained, evidence-based judgement about **whether and how far** the natural world carries meaning beyond setting, ideally connecting this to the text's wider concerns [9].
+**2.** A strong essay engages critically with the claim rather than only agreeing or disagreeing; uses specific evidence of the **natural world's presence** in the text — its beauty, its despoliation, or its symbolic function — analysing the writer's language in representing it; and reaches a sustained, evidence-based judgement about **whether and how far** the natural world carries meaning beyond setting, ideally connecting this to the text's wider concerns. **[25]**
 
-**3.** A strong response selects **genuinely comparable moments** from at least two poems, rather than treating them separately [6]; analyses the specific **language, form and imagery** each poem uses to construct home or homeland, showing how the poet's method differs or develops across the selection [12]; and reaches a **comparative judgement** — not just two single-poem analyses placed side by side — about how the poet's treatment of home and homeland changes or stays consistent across the body of work [7].
+**3.** A strong response selects **genuinely comparable moments** from at least two poems, rather than treating them separately; analyses the specific **language, form and imagery** each poem uses to construct home or homeland, showing how the poet's method differs or develops across the selection; and reaches a **comparative judgement** — not just two single-poem analyses placed side by side — about how the poet's treatment of home and homeland changes or stays consistent across the body of work. **[25]**
 
-**4.** A strong essay engages critically with the claim, rather than treating it as self-evidently true or false [4]; analyses **at least two poems** for specific evidence of place functioning as, or alongside, memory — imagery, tense, structure, direct statement — using close textual detail rather than general description [13]; and reaches a **reasoned judgement** about whether the claim holds across the selection as a whole, or whether some poems resist it, showing awareness that a strong answer need not agree with the given statement to score well [8].
+**4.** A strong essay engages critically with the claim, rather than treating it as self-evidently true or false; analyses **at least two poems** for specific evidence of place functioning as, or alongside, memory — imagery, tense, structure, direct statement — using close textual detail rather than general description; and reaches a **reasoned judgement** about whether the claim holds across the selection as a whole, or whether some poems resist it, showing awareness that a strong answer need not agree with the given statement to score well. **[25]**
+
+Each question carries all 25 marks as a single response — these are not itemised into separate per-point totals in the official mark scheme, which assesses each answer holistically against level descriptors rather than crediting isolated points individually.
 
 ---
 
 ## How to adapt these questions to your own set texts
 
-Because this resource deliberately does not name a specific prose text or poet's selection, the most effective way to use it is to substitute your own studied text and poems into each question exactly as worded, then write a full timed response (roughly 30 minutes per question, reflecting the 25-mark allocation across the 2-hour paper's two sections). Before writing a Section B response specifically, choose your comparison poems deliberately — select moments genuinely relevant to the question asked (home and homeland, or place and memory) rather than the two poems you happen to know best, since a comparison anchored to genuinely matching material is what the question actually rewards.
+Because this resource deliberately does not name a specific prose text or poet's selection, the most effective way to use it is to substitute your own studied text and poems into each question exactly as worded, then write a full timed response (roughly 55-60 minutes per question -- the paper is 2 hours for two 25-mark questions, one per section, so the proportionate time is about sixty minutes each). Before writing a Section B response specifically, choose your comparison poems deliberately — select moments genuinely relevant to the question asked (home and homeland, or place and memory) rather than the two poems you happen to know best, since a comparison anchored to genuinely matching material is what the question actually rewards.
 
 ## Where marks are usually lost
 

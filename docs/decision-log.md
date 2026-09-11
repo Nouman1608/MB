@@ -8182,3 +8182,118 @@ sitemap URLs).
 family: E478-E484, I216, I217, Q199-Q203, U20 -- not yet read in detail).
 After the cluster closes: Sociology (36 findings) and World history (34
 findings), neither started yet.
+
+## D-175 - English literature cluster, batch 4 (OxfordAQA family)
+
+**Scope.** 15 findings across 11 resources covering OxfordAQA
+International GCSE (9275) and International AS & A-Level (9675) English
+Literature: E478, E479, E480, E481, E482, E483, E484, I216, I217, Q199,
+Q200, Q201, Q202, Q203, U20.
+
+**Version and citation sweep (E478, all 11 files).** Every resource of
+this board declared a superseded specification version and five cited it
+through a legacy unencrypted path the board no longer serves from. The
+diff between declared and current versions is rebranding, heading case,
+layout and one added learner-attributes section -- unit titles, set
+texts, structures, marks, durations and objectives are unchanged, so
+nothing taught from the stale documents was actually wrong. Updated every
+`syllabusSeries` frontmatter field, in-body version reference and
+citation to the verified current versions (IGCSE 9275 Version 5.1,
+A-level 9675 Version 5.3), replaced every legacy URL with the board's
+current live path, and renamed "Official syllabus" headings to "Official
+specification" throughout, mirroring the I215 pattern applied to the
+Edexcel family in D-174.
+
+**IGCSE Prose and Drama / Poetry and Unseen Texts family.** Corrected the
+specification-currency note on the Prose and Drama pair from "up to and
+including the May/June 2027 series" to the real terminal sitting, the
+November 2027 resit series (E479). Added the missing paper duration
+(2h15m), mark total (90), weighting (60%) and open-book status to the
+Poetry and Unseen Texts pair's timing section, which previously told
+candidates to allocate time in proportion to marks available without
+ever stating either figure (I216). Removed an invented "Topic 1 / Topic
+2" framing from the two study guides' opening scope statements and
+coverage headings, replacing it with the specification's own route and
+paper-letter structure (Paper 2a / Paper 2b) while explicitly preserving
+the existing 3.2.1/3.2.2/3.2.3 sub-numbering, which is faithful to the
+specification and was not part of the defect (Q203). Removed per-point
+mark brackets from the Prose and Drama practice paper in favour of
+holistic level-descriptor language, matching this board's holistic
+marking at IGCSE (Q199).
+
+**A-Level Aspects of Dramatic Tragedy family.** Named the ten-play
+set-text list in full (five per section: Othello, King Lear, Hamlet,
+Doctor Faustus B-text, The Duchess of Malfi for Section A; Death of a
+Salesman, A Streetcar Named Desire, Hedda Gabler, Waiting for Godot,
+Translations for Section B) in the study guide, replacing an incorrect
+claim that the lists "rotate and are not encoded here" when its sibling
+Unit 2 guide already named its own texts in full (E481). Disclosed, in
+both the guide and the revision notes, that the forthcoming revised
+specification (Version 5.6) renames this unit -- a fact the files'
+own "what changes in the next version" notes had omitted while itemising
+other changes (E480), and resolved the accompanying U20 finding by
+stating both of the board's conflicting final-AS dates for the revised
+specification (May/June 2027 with a final resit in November 2028, and
+January 2028 with final A2 exams in October/November 2028) rather than
+asserting one as correct, since neither this guide nor any board document
+found can resolve which governs. Reframed the Greek critical-vocabulary
+terms (hamartia, catharsis) across the guide and the revision notes as
+useful optional shorthand rather than the board's required scheme,
+since the specification itself writes in plain English about "the
+flaws, pride and folly... blindness and insight of tragic protagonists"
+and states explicitly that there is no exhaustive list of the aspects of
+tragedy (Q202). Removed a false "staged routes" hedge from the revision
+notes' self-test answer on Unit 1's weighting, since this specification's
+only optional route sits in Unit 4 and does not affect Unit 1, which the
+specification states unconditionally as 50% of the International AS and
+20% of the full International A-level (E484). Removed per-point mark
+brackets from the practice paper (Q199, third instance, named in the
+finding as appearing in the post-baseline Place in Literary Texts
+practice file) and corrected its per-question timing advice from
+35-40 minutes to the correct ~55-60 minutes, since the paper is two hours
+for two 25-mark questions, one per section (E483).
+
+**A-Level Place in Literary Texts family.** Matched the study guide's
+"OXFORDAQA A-LEVEL ENGLISH LITERATURE" coverage heading to its sibling
+Unit 1 guide's "OXFORDAQA INTERNATIONAL AS & A-LEVEL ENGLISH LITERATURE"
+format, since the board awards no unqualified "A-Level" on its own
+(I217). Corrected the study guide's specification citation from an
+overstated three-page range ("pages 12-14") to the verified two-page
+range ("pages 12-13"), and removed a "fetched and verified" date claim
+the file could not actually have earned, since on that date the live
+specification was already two versions ahead of the one declared and
+served from a different path (Q201). Removed an unsupported attribution
+of the "clean, unannotated copy only" open-book rule to the specification
+-- which says only that the paper is open book and states nothing about
+annotation -- rewording the claim in the revision notes (the file the
+finding names) as a matter of examination regulations rather than
+specification text (Q200). Restored the two place "angles" the revision
+notes had dropped (place as a setting for human relationships, and place
+as a political space), correcting "seven" to "nine" throughout the
+heading, description and self-test, since the file's own exam-traps
+section already warned against ignoring the political angle it did not
+list (E482). Removed per-point mark brackets from the practice paper and
+corrected its more severe timing defect -- thirty minutes per question,
+which the practice paper itself justified by reference to two sections
+of a two-hour paper, an arithmetic that does not support thirty minutes
+-- to the correct ~55-60 minutes (E483, second instance).
+
+**Operational note.** Clean first-attempt build (2,129 pages + Pagefind,
+exit 0, 166s).
+
+**Validation gate:** `astro check` (0 errors) -> `validate:academic` (all
+sub-validators PASS) -> `build` (2,129 pages + Pagefind, clean first
+attempt, 166s) -> `check-duplicate-resource-scope.mjs` (PASS, all 6
+allow-listed groups pre-existing and unrelated) -> `test-i18n-routes.mjs`
+(PASS) -> `test-practice-analytics.mjs` (24/24) -> `npm audit` (0
+vulnerabilities) -> `coverage:academic-v2` (160/160, median 8
+resources/combination, median 997 words/resource) -> `audit:all` (11/11
+sub-audits, 0 problems, including 0 problems across 2,128 pages and 2,122
+sitemap URLs).
+
+**Cluster closed.** This closes the English literature cluster (58
+findings across four sub-batches: D-172 AQA, D-173 Cambridge, D-174
+Edexcel, D-175 OxfordAQA).
+
+**Next.** Continuing with Sociology (36 findings) and World history (34
+findings), neither started yet.

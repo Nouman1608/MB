@@ -7,12 +7,12 @@ topic: "Poetry and Unseen Texts"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9275"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "poetry-and-unseen-texts-9275"
-description: "Condensed recall notes on comparing People and Places anthology poems and analysing unseen poetry and prose for OxfordAQA International GCSE English Literature Topic 2 (9275)."
+description: "Condensed recall notes on comparing People and Places anthology poems and analysing unseen poetry and prose for OxfordAQA International GCSE English Literature Paper 2a (9275)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
@@ -20,6 +20,10 @@ featured: false
 
 Condensed for the final weeks. For the full explanation, use the
 [Poetry and Unseen Texts study guide](/resources/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts/).
+
+## Paper 2a at a glance
+
+2 hours 15 minutes, **open book**, 90 marks total = 60% of the International GCSE. Three sections, each worth 30 marks: anthology poetry (Section A), unseen poetry (Section B), unseen prose (Section C, Route A only). The *People and Places* anthology is supplied in the exam, as are the unseen poem and unseen prose extract, so no text needs to be memorised.
 
 ## Anthology poetry: revise by theme, not by poem
 
@@ -79,16 +83,15 @@ planning, not an afterthought.
 
 ## Timing the paper across three demands
 
-This topic sits alongside the anthology question, unseen poetry and
-(Route A) unseen prose within a single paper, so time discipline across
-all three matters as much as skill in any one. Allocate time in
-proportion to marks available, and decide that allocation **before**
-opening the paper rather than mid-exam — a common failure is spending
-disproportionate time perfecting the anthology answer (which draws on
-studied, prepared material and therefore feels safer) and then rushing
-the unseen sections, which are equally weighted but feel less familiar
-under pressure precisely because there is no prior preparation to fall
-back on.
+The anthology question, unseen poetry and (Route A) unseen prose are
+equally weighted at 30 marks each, so an even split of the 2 hours 15
+minutes -- roughly 45 minutes per section -- is the sensible default,
+with a few minutes reserved at the end to check all three answers. A
+common failure is spending disproportionate time perfecting the
+anthology answer (which draws on studied, prepared material and
+therefore feels safer) and then rushing the unseen sections, which
+carry identical marks but feel less familiar under pressure precisely
+because there is no prior preparation to fall back on.
 
 ## Exam traps
 
@@ -134,6 +137,7 @@ unseen prose.
 4. Why should analysis of an unseen prose extract avoid speculating
 about the wider novel?
 5. What is the key content difference between Route A and Route B?
+6. How should the 2 hours 15 minutes be split across the paper's three sections?
 
 **Answers:** 1. Because the 20 poems are deliberately linked by theme,
 so prepared comparison pairings are more exam-productive than isolated
@@ -145,7 +149,8 @@ from analysis of what the given extract actually contains; speculation
 beyond it is not evidenced by the text provided. 5. Route A includes an
 examined unseen-prose section; Route B replaces it with a non-exam
 assessment on a substantial whole prose fiction text chosen outside the
-prescribed set texts.
+prescribed set texts. 6. Roughly evenly -- about 45 minutes per section
+-- since all three sections carry the same 30 marks.
 
 ## Related resources
 

@@ -7,7 +7,7 @@ topic: "Unit 1 – Aspects of Dramatic Tragedy"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9675"]
-syllabusSeries: "Version 4.1, for International AS exams from May/June 2018, A-level from May/June 2019"
+syllabusSeries: "Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019"
 stage: "AS"
 order: 1
 syllabusTopics:
@@ -42,7 +42,11 @@ Genre debate, not feature-spotting, is what separates a strong response from an 
 - **Catharsis** — the emotional release/purging the audience experiences through witnessing the tragedy.
 - **Dramatic irony** — the audience knowing something a character does not.
 
-Use these as a **debate**, not a checklist: does each play use, complicate, or subvert the convention?
+The specification itself describes these ideas in plain English — the flaws, pride and folly,
+blindness and insight of tragic protagonists, and the capacity of tragedy to move an audience
+through pity and fear — rather than setting out a required list of Greek critical terms. Treat
+"hamartia" and "catharsis" above as useful shorthand for revision, not the required frame: use
+them as a **debate**, not a checklist — does each play use, complicate, or subvert the convention?
 
 ## Section A — the passage
 
@@ -69,7 +73,8 @@ understanding of tragic convention genuinely transfers across eras, rather than 
 theatrical conventions of a single period. A strong response to both sections shows the same
 critical fluency with core conventions — the tragic hero, hamartia, catharsis — regardless of which
 century the play was written in, so revise both plays with a consistent focus on the shared
-convention vocabulary rather than treating them as two unrelated period studies.
+critical ideas — the flaws, pride and folly of tragic protagonists; catharsis through pity and
+fear — rather than treating them as two unrelated period studies.
 
 ## Building a genre-focused response
 
@@ -97,16 +102,22 @@ own conventions and history are quite different from tragedy's.
 - Feature-spotting tragic conventions without debating how the play uses or departs from them.
 - Section A answers that ignore the given passage and write a general essay instead.
 - Forgetting the exam is closed book — a focused, memorised quotation bank per play is essential.
-- Confusing which specification version applies — a revised 9675 for first teaching from 2027 exists alongside the current Version 4.1.
+- Confusing which specification version applies — a revised 9675 for first teaching from 2027 exists alongside the current Version 5.3.
 
 ## Confirming which specification version applies
 
-OxfordAQA has published a revised 9675 specification for first teaching from 2027, with a
-refreshed set-text list, affecting cohorts starting from 2027 with first AS exams in May/June 2028.
-The Unit 1 structure covered in these notes — two sections, 2 hours, 50 marks, closed book — is
-unchanged between versions, but the prescribed plays differ, so always confirm which specification
-version and set-text list applies to your own examination year before finalising which editions of
-your set texts to buy or which quotation bank to build for revision.
+OxfordAQA has published a revised 9675 specification, Version 5.6, for first teaching from 2027.
+As well as a refreshed set-text list, this revision renames this unit, replacing a word in its
+title throughout the contents page, the at-a-glance table and the mark-scheme exemplification. The
+Unit 1 structure covered in these notes — two sections, 2 hours, 50 marks, closed book — is
+unchanged between versions, but the prescribed plays and the unit's exact title differ, so always
+confirm which specification version and set-text list applies to your own examination year before
+finalising which editions of your set texts to buy or which quotation bank to build for revision.
+The board's own qualification pages also state two different final-AS dates for the revised
+specification in different places — May/June 2027 (with a final resit in November 2028) in one
+place, and January 2028 (with final A2 exams in October/November 2028) in another. This guide
+cannot resolve which governs; always confirm directly with OxfordAQA or your centre which date
+applies to you.
 
 ## Self-test
 
@@ -115,4 +126,4 @@ your set texts to buy or which quotation bank to build for revision.
 3. Why should tragic conventions be treated as debatable rather than a checklist?
 4. What proportion of the full International A-level does Unit 1 represent?
 
-**Answers:** 1. Two plays — one Elizabethan/Jacobean tragedy for Section A, one later dramatic tragedy for Section B. 2. The tragic hero's fatal flaw or error of judgement that precipitates their downfall. 3. Because the highest marks reward genuine critical debate about how a play uses, complicates or subverts genre conventions, rather than simply identifying that a convention is present. 4. 20% (50% of the AS, and the AS itself is 40% of the full A-level in most staged routes — always confirm against your specific route).
+**Answers:** 1. Two plays — one Elizabethan/Jacobean tragedy for Section A, one later dramatic tragedy for Section B. 2. The tragic hero's fatal flaw or error of judgement that precipitates their downfall. 3. Because the highest marks reward genuine critical debate about how a play uses, complicates or subverts genre conventions, rather than simply identifying that a convention is present. 4. 20% of the full International A-level (also 50% of the International AS).

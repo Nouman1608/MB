@@ -7,12 +7,12 @@ topic: "Prose and Drama"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9275"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "prose-and-drama-9275"
-description: "Original exam-style practice questions with full worked answers on Paper 1 Prose and Drama for OxfordAQA International GCSE English Literature (9275)."
+description: "Original exam-style practice questions with worked answer plans on Paper 1 Prose and Drama for OxfordAQA International GCSE English Literature (9275)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false
@@ -43,15 +43,17 @@ Related: [Prose and Drama revision notes](/resources/igcse-oxfordaqa-english-lit
 
 ---
 
-## Answers (worked approach — marks depend on your studied texts)
+## Answer plans (approach — marks depend on your studied texts)
 
-**1.** A top-band response identifies the relationship precisely and traces how it is presented at **several distinct points** across the text [12], supports every point with a **short, precisely chosen quotation**, not paraphrase or plot summary [10], and analyses the writer's specific **methods** (narrative voice, structure, imagery, dialogue) rather than simply describing what happens between the characters [8].
+This board marks these questions with a single holistic mark against a described level, not a split of the total across per-point figures, so the plans below describe what a top-band response does rather than allocating marks to parts.
 
-**2.** A strong response identifies specific settings the writer returns to at key moments [10], explains what each setting is made to suggest about the character placed within it -- through description, atmosphere, or the character's own response to the place [12], and connects at least two different settings to show how the writer's use of place develops across the text, rather than analysing one setting in isolation [8].
+**1.** A top-band response identifies the relationship precisely and traces how it is presented at **several distinct points** across the text, supports every point with a **short, precisely chosen quotation**, not paraphrase or plot summary, and analyses the writer's specific **methods** (narrative voice, structure, imagery, dialogue) rather than simply describing what happens between the characters.
 
-**3.** A strong response identifies a specific moment and analyses **both** the language used (word choice, imagery, rhythm of dialogue) **and** dramatic method (stage directions, pacing, staging choices, what is left unsaid) [16], explains precisely *how* these choices create tension for an audience rather than a reader [8], and situates the moment within the play's wider structure — why this point, and not another, is where tension builds [6].
+**2.** A strong response identifies specific settings the writer returns to at key moments, explains what each setting is made to suggest about the character placed within it -- through description, atmosphere, or the character's own response to the place -- and connects at least two different settings to show how the writer's use of place develops across the text, rather than analysing one setting in isolation.
 
-**4.** A strong response identifies the specific nature of the conflict (its cause, and what each character wants) [8], analyses how the playwright stages the conflict -- through dialogue, stage directions, blocking, or significant silence -- rather than only summarising what the characters say to each other [14], and considers how an audience's sympathies might shift during the scene, using specific evidence from the text [8].
+**3.** A strong response identifies a specific moment and analyses **both** the language used (word choice, imagery, rhythm of dialogue) **and** dramatic method (stage directions, pacing, staging choices, what is left unsaid), explains precisely *how* these choices create tension for an audience rather than a reader, and situates the moment within the play's wider structure — why this point, and not another, is where tension builds.
+
+**4.** A strong response identifies the specific nature of the conflict (its cause, and what each character wants), analyses how the playwright stages the conflict -- through dialogue, stage directions, blocking, or significant silence -- rather than only summarising what the characters say to each other, and considers how an audience's sympathies might shift during the scene, using specific evidence from the text.
 
 ---
 

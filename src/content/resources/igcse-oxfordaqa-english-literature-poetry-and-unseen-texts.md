@@ -7,34 +7,43 @@ topic: "Poetry and Unseen Texts"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9275"]
-syllabusSeries: "Version 4.2, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "poetry-and-unseen-texts-9275"
-description: "The People and Places poetry anthology, unseen poetry and unseen prose -- Topic 2 of OxfordAQA International GCSE English Literature (9275), covering Route A's Paper 2a content."
+description: "The People and Places poetry anthology, unseen poetry and unseen prose -- Paper 2a of OxfordAQA International GCSE English Literature (9275), covering Route A's content."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 ---
 
-This guide covers **Topic 2 Poetry and Unseen Texts**, the second of two
-topics in OxfordAQA International GCSE English Literature (9275),
-Version 4.2, for exams May/June 2018 onwards. It represents Route A's
-Paper 2a content, one of two available routes through the qualification.
+This guide covers **Poetry and Unseen Texts**, examined on Paper 2a, in
+OxfordAQA International GCSE English Literature (9275), Version 5.1,
+for exams May/June 2018 onwards. It represents Route A's Paper 2a
+content, one of two available routes through the qualification.
 
 ## Where this fits in 9275
 
-Topic 1 (Prose and Drama) covers set prose fiction and drama texts
-assessed in Paper 1, compulsory for every candidate. Topic 2 then
-diverges by route: Route A pairs Paper 1 with Paper 2a (Poetry and
-Unseen Texts, covered here), while Route B pairs Paper 1 with Paper 2b
-plus a non-exam assessment. This guide covers the shared poetry content
-plus Route A's unseen-prose section specifically.
+Prose and Drama (Paper 1) covers set prose fiction and drama texts,
+compulsory for every candidate. The qualification then diverges by
+route: Route A pairs Paper 1 with Paper 2a (Poetry and Unseen Texts,
+covered here), while Route B pairs Paper 1 with Paper 2b plus a
+non-exam assessment. This guide covers the shared poetry content plus
+Route A's unseen-prose section specifically.
+
+## Assessment at a glance
+
+Paper 2a (Poetry and Unseen Texts) is a 2-hour-15-minute, open-book
+written exam worth 90 marks -- 60% of the International GCSE. The
+*People and Places* anthology is supplied in the exam, so candidates
+are not required to recall the poems from memory; the unseen poem and
+unseen prose extract are also printed on the paper, as is standard for
+unseen material.
 
 ## Syllabus coverage
 
-**OXFORDAQA INTERNATIONAL GCSE ENGLISH LITERATURE (9275) — TOPIC 2 POETRY AND UNSEEN TEXTS**
+**OXFORDAQA INTERNATIONAL GCSE ENGLISH LITERATURE (9275) — PAPER 2A: POETRY AND UNSEEN TEXTS**
 
 - 3.2.1 Poetry — study of the OxfordAQA Exams Poetry Anthology *People
 and Places*, comprising 20 thematically linked poems allowing candidates
@@ -128,7 +137,7 @@ prose and drama, without being able to apply the same analytical
 approach to something genuinely new, has not developed the skill this
 component is designed to assess -- which is part of why timed,
 genuinely-unseen practice matters more here than in the studied-text
-components of Topic 1.
+components of Paper 1.
 
 It also reflects the qualification's broader assessment design, which
 balances studied and unstudied material so that a candidate's grade
@@ -139,7 +148,7 @@ genuinely tracks reading and analytical skill rather than recall alone.
 - [Poetry and Unseen Texts revision notes](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-revision-notes/)
 - [Poetry and Unseen Texts practice questions](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-practice/)
 
-## Official syllabus
+## Official specification
 
 OxfordAQA International GCSE English Literature (9275) specification,
-Version 4.2 — [oxfordaqaexams.org.uk/9275](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-english-literature-specification.pdf).
+Version 5.1 — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-international-gcse-english-literature-specification-2018.pdf).

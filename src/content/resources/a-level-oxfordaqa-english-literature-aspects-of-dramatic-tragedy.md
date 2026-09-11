@@ -7,7 +7,7 @@ topic: "Unit 1 – Aspects of Dramatic Tragedy"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9675"]
-syllabusSeries: "Version 4.1, for International AS exams from May/June 2018, A-level from May/June 2019"
+syllabusSeries: "Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019"
 stage: "AS"
 order: 1
 syllabusTopics:
@@ -21,7 +21,7 @@ featured: false
 
 This guide covers **Unit 1 Aspects of Dramatic Tragedy**, the first
 of four units in OxfordAQA International AS & A-Level English
-Literature (9675), Version 4.1, for International AS exams from
+Literature (9675), Version 5.3, for International AS exams from
 May/June 2018 and A-level exams from May/June 2019. As the opening
 unit, it establishes the genre-focused analytical approach that the
 rest of the qualification builds on.
@@ -43,22 +43,34 @@ its conventions and history.
 **OXFORDAQA INTERNATIONAL AS & A-LEVEL ENGLISH LITERATURE (9675) —
 UNIT 1 ASPECTS OF DRAMATIC TRAGEDY**
 
-Unit 1 explores tragedy as a dramatic genre through a set of
-prescribed plays (drawn from OxfordAQA's set-text lists, which rotate
-and are not encoded here), examining how playwrights use and adapt
-tragic conventions such as the tragic hero, catharsis and dramatic
-irony. Because set texts rotate, confirm the current prescribed plays
-for your own examination series with your teacher before beginning
-detailed revision of specific textual evidence.
+Unit 1 explores tragedy as a dramatic genre through ten prescribed
+plays, five per section, fixed for the life of this specification
+version and printed in full below. Section A (Elizabethan and
+Jacobean tragedy): Shakespeare's *Othello*, *King Lear* and *Hamlet*,
+Marlowe's *Doctor Faustus* (B text) and Webster's *The Duchess of
+Malfi*. Section B (later dramatic tragedies): Miller's *Death of a
+Salesman*, Williams's *A Streetcar Named Desire*, Ibsen's *Hedda
+Gabler*, Beckett's *Waiting for Godot* and Friel's *Translations*.
+The unit examines how playwrights use and adapt tragic conventions
+such as the tragic hero, catharsis and dramatic irony. This list is
+current as of Version 5.3; confirm with your teacher which specific
+two plays (one per section) your own centre has chosen to study.
 
 ## How to approach it
 
 Because this unit is genre-focused rather than single-text-focused,
 build a working definition of "tragedy" as a set of contested
-conventions -- the tragic hero, hamartia, catharsis -- and practise
-discussing how each set play both uses and departs from these
-conventions, since genre debate is typically rewarded over simple
-feature-spotting. Feature-spotting identifies a convention is present;
+conventions. The specification itself describes these in plain
+English rather than technical vocabulary -- the flaws, pride and
+folly, blindness and insight of tragic protagonists, and the
+capacity of tragedy to move an audience through pity and fear -- and
+states explicitly that there is no exhaustive list of the aspects of
+tragedy. Greek critical terms such as *hamartia* and *catharsis*
+describe the same ideas and are useful optional vocabulary, but the
+specification's own plain-English framing, not a fixed Greek
+terminology, is the required frame. Practise discussing how each set
+play both uses and departs from tragic convention, since genre debate
+is typically rewarded over simple feature-spotting. Feature-spotting identifies a convention is present;
 genre debate asks whether the play's use of that convention is
 straightforward, subverted, or genuinely ambiguous — and it is this
 second, more evaluative move that separates a strong response from an
@@ -88,14 +100,24 @@ section, writing on two plays in total, so the closed-book quotation
 bank built for revision needs to cover both plays with equal depth,
 not favour one over the other.
 
-OxfordAQA has published a revised 9675 specification for first
-teaching from 2027, with a refreshed set-text list -- affecting
-cohorts starting from 2027, with first AS exams in May/June 2028 --
-but the Unit 1 structure described above (two sections, 2 hours, 50
-marks, closed book) is unchanged and remains current for existing
-cohorts through the final AS series in January 2028 -- always confirm
-which specification version applies to your own examination year
-before finalising which edition of your set texts to buy.
+OxfordAQA has published a revised 9675 specification (Version 5.6)
+for first teaching from 2027, with a refreshed set-text list --
+affecting cohorts starting from 2027, with first AS exams in May/June
+2028. The revised specification also **renames this unit**,
+replacing a word in its title throughout the contents page, the
+at-a-glance table and the mark-scheme exemplification -- confirm the
+current unit name with your teacher or centre once your cohort moves
+onto the revised specification. The Unit 1 structure described above
+(two sections, 2 hours, 50 marks, closed book) is unchanged between
+versions. On the board's final-examinations date: OxfordAQA's own
+qualification page currently states two different final AS dates for
+existing cohorts on the current specification -- May/June 2027 (with
+a final resit in November 2028) in one place, and January 2028 (with
+final A2 exams in October/November 2028) in another. This guide
+cannot resolve which governs; always confirm directly with OxfordAQA
+or your centre which date applies to you, and always confirm which
+specification version applies to your own examination year before
+finalising which edition of your set texts to buy.
 
 ## Why two plays from two different periods
 
@@ -105,7 +127,7 @@ periods is designed to test whether a candidate's understanding of tragic conven
 transfers, rather than being tied to the specific historical and theatrical conventions of a single
 era — the unit's title names "dramatic tragedy" as a genre spanning centuries, not a period study
 of any single era's theatre — a strong response to both sections shows the same critical fluency with the genre's core
-conventions (the tragic hero, hamartia, catharsis) regardless of which century the play was written
+conventions (the flaws, pride and folly of tragic protagonists; catharsis through pity and fear) regardless of which century the play was written
 in.
 
 ## Building a genre-focused, not just play-focused, response
@@ -119,8 +141,8 @@ rather than assuming genre engagement will emerge naturally from a well-written 
 A brief planning note naming the specific convention at stake, before writing the main response,
 keeps this genre focus visible throughout rather than only in an introduction.
 
-## Official syllabus
+## Official specification
 
 OxfordAQA International AS & A-Level English Literature specification
-PDF, Version 4.1 —
-[oxfordaqa.com](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-english-literature-specification.pdf).
+PDF, Version 5.3 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/02/oxfordaqa-a-level-english-literature-specification.pdf).
