@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "electric-and-magnetic-fields"
 description: "Coulomb's law, electric field strength and potential, capacitors and RC circuits, and magnetic flux density and electromagnetic induction for sub-topic 4.4 of Pearson Edexcel International A Level Physics (YPH11), Unit 4."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

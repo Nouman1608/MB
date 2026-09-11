@@ -19,7 +19,6 @@ syllabusTopics:
     subtopic: "as-esters"
 description: "Producing and reacting carboxylic acids, esterification, and the difference between acid and alkaline ester hydrolysis, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

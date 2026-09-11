@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "nuclear-and-particle-physics"
 description: "Atomic structure, particle accelerators and detectors, mass-energy equivalence, and the standard quark-lepton model for sub-topic 4.5 of Pearson Edexcel International A Level Physics (YPH11), Unit 4."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

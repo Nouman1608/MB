@@ -25,7 +25,6 @@ syllabusTopics:
     subtopic: "as-scalars-and-vectors"
 description: "SI base units and prefixes, systematic and random errors, uncertainty in derived quantities, and scalars versus vectors, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

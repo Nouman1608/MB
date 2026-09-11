@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "national-and-global-energy-resources"
 description: "Renewable and non-renewable energy resources, their uses, and their environmental impact, for sub-topic 4.1.3 of AQA GCSE Physics (8463) -- also examinable as sub-topic 6.1.3 of GCSE Combined Science: Trilogy (8464)."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false

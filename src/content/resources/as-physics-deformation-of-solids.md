@@ -19,7 +19,6 @@ syllabusTopics:
     subtopic: "as-elastic-and-plastic-behaviour"
 description: "Hooke's law, stress, strain and the Young modulus, and elastic versus plastic deformation and elastic potential energy, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

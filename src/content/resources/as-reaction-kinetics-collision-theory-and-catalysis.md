@@ -22,7 +22,6 @@ syllabusTopics:
     subtopic: "as-homogeneous-and-heterogeneous-catalysts"
 description: "Collision theory, activation energy, the Boltzmann distribution, and how catalysts work, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

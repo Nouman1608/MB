@@ -13,7 +13,6 @@ syllabusTopics:
     topic: "topic-c1-particles-j248"
 description: "Sub-atomic particles, the changing atomic model, atomic scale, and calculating protons, neutrons and electrons from atomic number, mass number and ion charge, for OCR GCSE (9-1) Chemistry A (Gateway Science) J248."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-18
 featured: false
 ---

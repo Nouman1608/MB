@@ -24,7 +24,6 @@ syllabusTopics:
     subtopic: "electromagnetic-induction"
 description: "Magnetic field patterns, the motor effect, and generators and transformers, for Pearson Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

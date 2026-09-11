@@ -24,7 +24,6 @@ syllabusTopics:
     subtopic: "ideal-gas-molecules"
 description: "Density and pressure, specific heat capacity and changes of state, and the kinetic theory of gases, for Pearson Edexcel International GCSE Physics 4PH1."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

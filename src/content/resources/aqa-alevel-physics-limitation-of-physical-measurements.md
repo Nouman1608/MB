@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "limitation-of-physical-measurements"
 description: "Random and systematic errors, precision and accuracy, and the treatment of uncertainty, for sub-topic 3.1.2 of AQA A-level Physics (7408)."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false

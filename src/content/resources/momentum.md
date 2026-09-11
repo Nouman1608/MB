@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "momentum"
 description: "Momentum, impulse and the conservation of momentum in one dimension, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 featured: false
 ---

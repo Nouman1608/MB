@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "mechanics"
 description: "Rectilinear motion, projectiles, Newton's laws, momentum, moments, work, energy and power for sub-topic 1.3 of Pearson Edexcel International A Level Physics (YPH11), Unit 1."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

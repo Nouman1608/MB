@@ -24,7 +24,6 @@ syllabusTopics:
     subtopic: "carboxylic-acids"
 description: "Manufacturing ethanol by fermentation and by hydration of ethene, and the reactions of carboxylic acids including ester formation, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-18
 featured: false
 ---

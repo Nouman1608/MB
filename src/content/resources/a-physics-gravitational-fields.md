@@ -25,7 +25,6 @@ syllabusTopics:
     subtopic: "a-gravitational-potential"
 description: "Gravitational field concept and field lines, Newton's law of gravitation, gravitational field strength of a point mass, and gravitational potential, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

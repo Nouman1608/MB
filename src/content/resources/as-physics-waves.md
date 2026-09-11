@@ -28,7 +28,6 @@ syllabusTopics:
     subtopic: "as-polarisation"
 description: "Progressive wave terms and the wave equation, transverse vs longitudinal waves, the Doppler effect, the electromagnetic spectrum, and polarisation, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

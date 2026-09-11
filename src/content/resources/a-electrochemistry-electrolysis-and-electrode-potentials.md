@@ -19,7 +19,6 @@ syllabusTopics:
     subtopic: "a-standard-electrode-potentials-cell-potentials-and-the-nernst-equation"
 description: "Quantitative electrolysis, standard electrode and cell potentials, predicting feasibility, and the Nernst equation, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

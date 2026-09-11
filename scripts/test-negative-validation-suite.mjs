@@ -229,10 +229,15 @@ console.log('    state and was never itself the goal; sitemap/robots agreement i
 
 console.log('\n[I] Review-integrity validator (QIGT programme)');
 const reviewFixtureFile = 'src/content/resources/a-acids-bases-buffers-and-partition-coefficients.md';
+// D-166: the fixture's own `reviewer: "nouman-ahmed"` line was removed
+// corpus-wide by the E569 self-review fix, so these mutations now anchor
+// on the still-present `author: "nouman-ahmed"` line and insert the
+// reviewer-related fields after it, instead of replacing an existing
+// reviewer line. Same resulting mutated states as before.
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"'),
+  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'has reviewStatus "reviewed" but no reviewer field set',
@@ -242,7 +247,7 @@ withMutation(
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"\nreviewer: "nonexistent-person-xyz"'),
+  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "nonexistent-person-xyz"'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'does not exist in src/content/authors/',
@@ -252,7 +257,7 @@ withMutation(
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"\nreviewer: "aizaz-raoof-ali"'),
+  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "aizaz-raoof-ali"'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'who is not marked isReviewer: true',
@@ -262,7 +267,7 @@ withMutation(
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2026-01-01'),
+  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2026-01-01'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'before publishedDate',
@@ -272,7 +277,7 @@ withMutation(
 
 withMutation(
   reviewFixtureFile,
-  (text) => text.replace('reviewer: "nouman-ahmed"', 'reviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2027-01-01'),
+  (text) => text.replace('author: "nouman-ahmed"', 'author: "nouman-ahmed"\nreviewStatus: "reviewed"\nreviewer: "nouman-ahmed"\nreviewedDate: 2027-01-01'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'in the future',

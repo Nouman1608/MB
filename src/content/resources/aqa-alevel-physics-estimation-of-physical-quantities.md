@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "estimation-of-physical-quantities"
 description: "Orders of magnitude and estimating approximate values of physical quantities, for sub-topic 3.1.3 of AQA A-level Physics (7408)."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-19
 updatedDate: 2026-08-25
 featured: false

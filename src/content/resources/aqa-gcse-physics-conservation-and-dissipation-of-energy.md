@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "conservation-and-dissipation-of-energy"
 description: "Conservation of energy, energy dissipation, insulation, and efficiency calculations, for sub-topic 4.1.2 of AQA GCSE Physics (8463)."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-19
 updatedDate: 2026-08-19
 featured: false

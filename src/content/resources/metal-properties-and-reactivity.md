@@ -30,7 +30,6 @@ syllabusTopics:
     subtopic: "corrosion-of-metals"
 description: "Physical and chemical properties of metals, the reactivity series, and corrosion and its prevention, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-18
 featured: false
 ---

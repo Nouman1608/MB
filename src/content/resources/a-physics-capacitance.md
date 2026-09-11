@@ -22,7 +22,6 @@ syllabusTopics:
     subtopic: "a-discharging-a-capacitor"
 description: "Capacitors and the definition of capacitance, capacitor combinations, energy stored in a charged capacitor, and the exponential discharge of a capacitor through a resistor, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

@@ -19,7 +19,6 @@ syllabusTopics:
     subtopic: "as-ionisation-energy"
 description: "Electronic configuration by orbital, and how ionisation energy trends and data are explained and interpreted, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

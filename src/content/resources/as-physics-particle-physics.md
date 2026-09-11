@@ -19,7 +19,6 @@ syllabusTopics:
     subtopic: "as-fundamental-particles"
 description: "The nuclear atom, isotopes, alpha/beta/gamma radiation and radioactive decay equations, plus quarks and leptons as fundamental particles and hadrons as the composite particles built from quarks, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

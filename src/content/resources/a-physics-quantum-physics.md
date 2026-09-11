@@ -25,7 +25,6 @@ syllabusTopics:
     subtopic: "a-energy-levels-in-atoms-and-line-spectra"
 description: "The energy and momentum of a photon, the photoelectric effect, wave-particle duality, and energy levels in atoms and line spectra, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

@@ -18,7 +18,6 @@ syllabusTopics:
     subtopic: "identification-of-ions-and-gases"
 description: "The reagents, observations and conclusions for identifying anions, cations, gases and flame colours, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

@@ -25,7 +25,6 @@ syllabusTopics:
     subtopic: "as-the-diffraction-grating"
 description: "The principle of superposition, stationary waves, nodes and antinodes, diffraction, two-source interference and the diffraction grating equation, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

@@ -30,7 +30,6 @@ syllabusTopics:
     subtopic: "preparation-of-salts"
 description: "Properties of acids and bases, strong vs weak acids, acidic/basic/amphoteric oxides, and preparing soluble and insoluble salts, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-18
 featured: false
 ---

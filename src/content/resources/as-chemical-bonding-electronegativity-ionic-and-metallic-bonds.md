@@ -22,7 +22,6 @@ syllabusTopics:
     subtopic: "as-metallic-bonding"
 description: "Electronegativity trends, the electrostatic models of ionic and metallic bonding, and using electronegativity to predict bond type, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

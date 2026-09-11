@@ -22,7 +22,6 @@ syllabusTopics:
     subtopic: "a-degradable-polymers"
 description: "Forming polyesters and polyamides, deducing repeat units and monomers, predicting polymerisation type, and why some polymers biodegrade and others don't, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

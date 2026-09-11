@@ -18,7 +18,6 @@ syllabusTopics:
     subtopic: "classification-of-businesses"
 description: "Needs, wants, scarcity and opportunity cost, adding value, and classifying businesses by economic sector and by private/public sector, for Cambridge O Level Business Studies 7115."
 author: "asif-iqbal"
-reviewer: "asif-iqbal"
 publishedDate: 2026-08-18
 featured: false
 ---

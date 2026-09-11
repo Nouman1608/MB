@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "oscillations-edexcel"
 description: "Simple harmonic motion, displacement/velocity/acceleration equations, energy in oscillating systems, resonance and damping for sub-topic 5.5 of Pearson Edexcel International A Level Physics (YPH11), Unit 5."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

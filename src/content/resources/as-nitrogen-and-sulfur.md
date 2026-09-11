@@ -16,7 +16,6 @@ syllabusTopics:
     subtopic: "as-nitrogen-and-sulfur"
 description: "Why nitrogen is so unreactive, the basicity of ammonia, and the role of nitrogen oxides in photochemical smog and acid rain, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

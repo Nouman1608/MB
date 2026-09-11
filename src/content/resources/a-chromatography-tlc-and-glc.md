@@ -19,7 +19,6 @@ syllabusTopics:
     subtopic: "a-gas-liquid-chromatography"
 description: "Stationary and mobile phases, Rf values, retention times, and interpreting TLC and gas/liquid chromatograms, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

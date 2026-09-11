@@ -7555,3 +7555,63 @@ pages).
 findings (Computer Science, English Literature, Sociology, World History and
 smaller clusters) to be worked through by section, applying the corpus-wide
 search discipline confirmed necessary above.
+
+## D-166 - E569/Q204 resolved per owner decision: self-review `reviewer`
+field removed corpus-wide (135 files); negative-validation-suite's stale
+fixture anchor repaired
+
+**Date:** 2026-09-11
+
+**Context.** D-165 surfaced E569/Q204 (135 files where `reviewer` equals
+`author` -- a self-review claim with no independent reviewer) as an
+explicit owner decision rather than resolving it unilaterally: populate a
+genuine independent reviewer, or remove the field. Asked directly via
+AskUserQuestion, the owner chose: remove the field corpus-wide.
+
+**Finding ID -> file -> what changed.**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E569/Q204 | 135 files under `src/content/resources/*.md` | Removed the single-line `reviewer: "<same-as-author>"` frontmatter field entirely (no replacement value written -- the schema's `reviewer` field is optional). `author`, `publishedDate` and all other fields left untouched. |
+| (test infra, not a finding) | `scripts/test-negative-validation-suite.mjs` | The suite's [I] Review-integrity fixture (`src/content/resources/a-acids-bases-buffers-and-partition-coefficients.md`) was itself one of the 135 files just fixed, so its `reviewer: "nouman-ahmed"` anchor line no longer existed; all 5 mutations in that section now insert their reviewStatus/reviewer/reviewedDate test fields after the fixture's still-present `author: "nouman-ahmed"` line instead of replacing a reviewer line, preserving identical mutated-state semantics for each of the 5 negative-fixture cases. |
+
+**Search-discipline/verification note.** `fix_e569.py` matched the
+line-anchored regex `^reviewer:\s*"[^"\n]*"\s*\n` corpus-wide -- not scoped
+to self-review only, any `reviewer` value would have matched. Result:
+`skip: 1498, fixed: 135`, an exact match to the finding's expected count
+with zero anomalies, confirming every `reviewer` field remaining in the
+corpus before this fix was in fact a self-review (author === reviewer);
+there was no genuinely-independent reviewer assignment anywhere in the
+1,633-file corpus to accidentally strip.
+
+**Full validation gate run twice this session for this fix.** First pass
+(`astro check` + `validate:academic` only) caught nothing. The fuller
+chained pass (`build` -> pagefind -> `test-cross-board-regression.mjs` ->
+`test-negative-validation-suite.mjs` -> API tests -> `npm audit` ->
+`coverage:academic-v2` -> `check-duplicate-resource-scope.mjs` ->
+`audit:all`) failed on `test-negative-validation-suite.mjs`'s [I] section
+for the reason in the table above -- the content fix was correct, the
+25-line-old test fixture assumption was not. Fixed the test's fixture
+anchor (not the content fix, no `.md` resource files touched a second
+time) and reran the full chain clean.
+
+**Validation gate (second, clean run).** `npx astro check` (0 errors, 18
+pre-existing hints) -> `npm run validate:academic` (all validators PASS;
+review-integrity validator: 1,633 resources checked, 0 problems) ->
+`npm run build` (2,129 pages, Pagefind index rebuilt) ->
+`test-cross-board-regression.mjs` (OK) ->
+`test-negative-validation-suite.mjs` (35/35, including all 5 repaired [I]
+cases) -> API tests (31/31) -> `npm audit --fetch-timeout=20000
+--fetch-retries=2` (0 vulnerabilities) -> `coverage:academic-v2` ->
+`check-duplicate-resource-scope.mjs` (PASS) -> `audit:all` (11/11
+sub-audits, including `audit:review-coverage`: 0 problems, and
+`audit:accessibility`: 0 problems across 2,128 pages). Runtime 232.87s,
+exit code 0.
+
+**Next.** E569/Q204 now closed. Per the owner's "continue now, section by
+section" instruction, next up is the remaining ~177-finding backlog in
+`docs/audit/2026-09-11-findings.md`: the remaining corpus-wide/no-single-
+file findings (E460, E490, E491, E570, E571, I212, Q186, U21, U22, U24),
+then the per-subject clusters (Accounting/business/commerce/law/sociology,
+Business, Chemistry, Computer science, Economics, English, English
+literature, Geography, Physics, Sociology, World history).

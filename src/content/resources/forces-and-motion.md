@@ -16,7 +16,6 @@ syllabusTopics:
     subtopic: "forces"
 description: "Newton's first and third laws, F = ma, friction, terminal velocity, stopping distance and circular motion, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 featured: false
 ---

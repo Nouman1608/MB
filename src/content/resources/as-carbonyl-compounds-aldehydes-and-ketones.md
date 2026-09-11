@@ -16,7 +16,6 @@ syllabusTopics:
     subtopic: "as-aldehydes-and-ketones"
 description: "Producing and reducing aldehydes and ketones, the nucleophilic addition mechanism with HCN, and the tests that identify and distinguish them, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

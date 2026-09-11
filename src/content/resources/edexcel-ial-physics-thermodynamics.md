@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "thermodynamics-edexcel"
 description: "Specific heat capacity, specific latent heat, internal energy, absolute zero and the ideal gas equation for sub-topic 5.3 of Pearson Edexcel International A Level Physics (YPH11), Unit 5."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

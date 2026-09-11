@@ -18,7 +18,6 @@ syllabusTopics:
     subtopic: "specialised-cells-tissues-and-organs"
 description: "Animal, plant and bacterial cell structure, cell specialisation, and the organisation of cells into tissues and organs, for Cambridge O Level Biology 5090."
 author: "saad-zai"
-reviewer: "saad-zai"
 publishedDate: 2026-08-18
 featured: false
 ---

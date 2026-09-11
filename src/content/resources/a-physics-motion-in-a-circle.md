@@ -19,7 +19,6 @@ syllabusTopics:
     subtopic: "a-centripetal-acceleration"
 description: "Radian measure and angular speed, the relationship between angular and linear speed, and centripetal acceleration and force for uniform circular motion, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

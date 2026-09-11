@@ -19,7 +19,6 @@ syllabusTopics:
     subtopic: "as-mass-spectrometry"
 description: "Reading an infrared spectrum for functional groups, and interpreting a mass spectrum for relative atomic mass, molecular mass, fragmentation and halogen content, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

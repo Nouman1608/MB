@@ -15,7 +15,6 @@ syllabusTopics:
     subtopic: "further-mechanics"
 description: "Impulse, two-dimensional momentum conservation, elastic and inelastic collisions, and circular motion for sub-topic 4.3 of Pearson Edexcel International A Level Physics (YPH11), Unit 4."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

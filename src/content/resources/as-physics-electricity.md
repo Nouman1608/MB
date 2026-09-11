@@ -22,7 +22,6 @@ syllabusTopics:
     subtopic: "as-resistance-and-resistivity"
 description: "Electric current as charge flow, Q = It, potential difference and electrical power, and resistance, resistivity and I-V characteristics, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

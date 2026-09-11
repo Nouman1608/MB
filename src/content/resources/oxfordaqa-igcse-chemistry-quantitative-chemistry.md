@@ -13,7 +13,6 @@ syllabusTopics:
     topic: "quantitative-chemistry-9202"
 description: "Conservation of mass in balanced equations, the mole concept, reacting-mass calculations, molar concentrations of solutions, and amount of substance in relation to gas volumes, for OxfordAQA International GCSE Chemistry 9202."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-18
 featured: false
 ---

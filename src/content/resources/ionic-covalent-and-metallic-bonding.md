@@ -36,7 +36,6 @@ syllabusTopics:
     subtopic: "metallic-bonding"
 description: "Ionic, covalent, giant covalent and metallic bonding for Cambridge IGCSE 0620 and O Level 5070, with structure explaining properties throughout."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

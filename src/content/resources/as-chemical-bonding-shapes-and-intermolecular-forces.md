@@ -25,7 +25,6 @@ syllabusTopics:
     subtopic: "as-dot-and-cross-diagrams"
 description: "Orbital overlap, VSEPR shapes and bond angles, hydrogen bonding and van der Waals' forces, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

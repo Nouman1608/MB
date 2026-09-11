@@ -22,7 +22,6 @@ syllabusTopics:
     subtopic: "as-density-and-pressure"
 description: "Moments, couples and the principle of moments, equilibrium of coplanar forces, and density, pressure and Archimedes' principle, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

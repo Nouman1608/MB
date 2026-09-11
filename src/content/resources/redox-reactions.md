@@ -18,7 +18,6 @@ syllabusTopics:
     subtopic: "redox"
 description: "Oxidation and reduction by oxygen transfer, electron transfer and oxidation number, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

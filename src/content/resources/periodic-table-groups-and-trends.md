@@ -42,7 +42,6 @@ syllabusTopics:
     subtopic: "noble-gases"
 description: "How the Periodic Table is arranged, and the trends in Group I, Group VII, the transition elements and the noble gases, for Cambridge IGCSE 0620 and O Level 5070."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

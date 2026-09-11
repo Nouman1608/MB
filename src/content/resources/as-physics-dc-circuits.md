@@ -22,7 +22,6 @@ syllabusTopics:
     subtopic: "as-potential-dividers"
 description: "E.m.f. and internal resistance, Kirchhoff's first and second laws, combined resistance in series and parallel, and potential divider circuits, for Cambridge International AS & A Level Physics 9702."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 updatedDate: 2026-08-18
 featured: false

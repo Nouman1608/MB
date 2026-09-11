@@ -16,7 +16,6 @@ syllabusTopics:
     subtopic: "as-chemical-equilibria"
 description: "Dynamic equilibrium, Le Chatelier's principle, and the Kc and Kp equilibrium-constant expressions, including the Haber and Contact processes, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false

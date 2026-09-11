@@ -21,7 +21,6 @@ syllabusTopics:
     subtopic: "density"
 description: "Measuring length, volume and time with real apparatus, then mass, weight, gravitational field strength and density, for Cambridge O Level Physics 5054."
 author: "iftikhar-azeemi"
-reviewer: "iftikhar-azeemi"
 publishedDate: 2026-08-18
 featured: false
 ---

@@ -22,7 +22,6 @@ syllabusTopics:
     subtopic: "as-chemical-periodicity-of-other-elements"
 description: "Physical and chemical periodicity across Period 3 (Na to Ar), including oxide and chloride reactions with water, for Cambridge International AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
-reviewer: "nouman-ahmed"
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
