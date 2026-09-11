@@ -63,13 +63,20 @@ question type; a narrative list of events does not.
 
 ## Assessment objective weighting to plan revision around
 
-AO1 (knowledge and understanding of key features and characteristics)
-carries 34% and AO2 (explaining and analysing using concepts like cause,
-consequence, change and significance) carries 36% across the whole
-qualification — together the clear majority of marks. Even on a
-source-based component like the Investigation, secure factual knowledge
-remains the foundation: strong source evaluation still depends on
-accurate contextual knowledge, not source-reading skill alone.
+Four objectives, not three: AO1 (knowledge and understanding of key
+features and characteristics) carries 34% and AO2 (explaining,
+analysing and judging using concepts like cause, consequence, change
+and significance) carries 36% across the whole qualification — together
+the clear majority of marks. The remaining 30% splits into two separate
+objectives, not one "source-based" strand: AO3 (using source material
+to comprehend, interpret and cross-refer sources, 15%) and AO4
+(analysing and evaluating historical interpretations, 15%), marked on
+different questions. On Paper 2, AO3 carries 15% (mostly through the
+Investigation) while AO4 carries a smaller 5% here, with the rest of
+AO4's marks on Paper 1. Even on a source-based component like the
+Investigation, secure factual knowledge remains the foundation: strong
+source evaluation still depends on accurate contextual knowledge, not
+source-reading skill alone.
 
 ## A shared method across both components
 

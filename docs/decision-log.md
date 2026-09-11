@@ -8826,3 +8826,108 @@ re-run passed clean.
 E547, E561 partial; IB DP History: E548-E550; Edexcel IGCSE 4HI1:
 E551-E554, E561 partial, E562, I222; OxfordAQA IGCSE 9245: E555-E560),
 not yet started.
+
+## D-180 - World History cluster: AQA GCSE History 8145 (2026-09-11)
+
+Second sub-batch of the World History section, following D-179's
+Cambridge-board batch. Covers AQA GCSE History (8145) findings E543
+through E547 in full, plus the AQA-side and Edexcel-side portions of
+the cross-board finding E561, plus the AQA-side portion of Q217 (the
+cross-board Cambridge portion of Q217 was already resolved as part of
+D-179's rebuild work, verified clean by direct grep before this batch
+started). 7 finding-ID-to-file pairings across 7 files.
+
+**Files fixed:**
+
+- `gcse-history-understanding-the-modern-world-options.md` -- E543:
+  the causation worked example wrongly attributed the collapse of
+  Weimar democracy to the BB "Inter-War Years" wider-world depth study
+  (Section B); reattributed to the AB "Germany, 1890-1945" period
+  study (Section A), where it is specified content, with an explicit
+  note distinguishing it from BB's international-peacemaking focus.
+  Q217: "Official syllabus" heading corrected to "Official
+  specification" (AQA calls its document a specification, not a
+  syllabus).
+- `gcse-history-course-structure.md` -- E544: the historic environment
+  site list was described as refreshed on a "two-year examination
+  cycle"; corrected to state AQA changes the specified site for every
+  British depth study *every year*, with the real 2026/2027/2028 site
+  lists per depth study and a link to AQA's own published page. E547:
+  the "how the two components share this structure" section applied
+  Paper 1's real three-part-per-series shape to Paper 2 as well;
+  corrected to state Paper 2's thematic studies and British depth
+  studies each have four parts, all four tested every series -- a
+  revision plan copying Paper 1's three-phase shape onto Paper 2 was
+  leaving a quarter of that paper's content unrevised. E561: "the
+  three assessment objectives" section merged AO3 and AO4 into one
+  AO3; corrected to the real four objectives (AO1 35%, AO2 35%, AO3
+  15% source handling, AO4 15% historical interpretations), with a
+  note that Paper 1 Section A carries only AO4, no AO3.
+- `gcse-history-historic-environment-revision-notes.md` -- E544: same
+  two-year-cycle correction as above, with the real per-depth-study
+  site lists. E545: the "Section A and Section B demands compared"
+  section invented a two-section, two-question structure for the
+  historic environment element (a low-tariff describe question, a
+  higher-tariff explain question, then a judgement question); replaced
+  with the real structure -- historic environment is examined by ONE
+  question, Q4 of Section B on Paper 2 (16 marks, an essay linked to
+  the specified site), alongside Section B's other three questions
+  (Q1 interpretation 8 marks, Q2 causation/change 8 marks, Q3
+  narrative 8 marks). E546: the "how far do you agree" judgement
+  phrasing was wrongly attributed to the site question; corrected to
+  attribute it to Q1 (the interpretation question, which carries no
+  site requirement), with Q4 described as an essay rather than a
+  judgement question. Self-test answers 3 and 4, and the exam-traps
+  list, updated to match.
+- `gcse-history-historic-environment-practice.md` -- E545: fully
+  rebuilt. Removed the invented "Section A" (describe/explain pair)
+  and "Section B" (judgement-only) structure; rebuilt around three
+  original 16-mark essay questions matching the real Q4 shape (linked
+  to the specified site, drawing on cause/consequence/change/
+  continuity), with a new "Where this question sits" section stating
+  the real four-question structure of Section B for context. Worked
+  answers, exam traps and self-test all rewritten to match.
+- `gcse-history-understanding-modern-world-revision-notes.md` --
+  E561: "linking content knowledge to the assessment objectives"
+  merged AO3 and AO4 into one AO3; corrected to the real four
+  objectives, with a note that Paper 1 Section A carries only AO4.
+- `igcse-edexcel-world-history-paper-2-investigation-breadth-studies.md`
+  -- E561 (Edexcel side): "the remainder assessing source-based
+  skills" merged Edexcel's own AO3 (source material, 15%) and AO4
+  (historical interpretations, 15%, examined across three questions
+  spanning both papers) into one undifferentiated strand; corrected to
+  state both objectives separately, with Paper 2's own AO3/AO4 split
+  (15% / 5%, the rest of AO4 sitting on Paper 1).
+- `edexcel-igcse-world-history-paper-2-revision-notes.md` -- same
+  Edexcel-side E561 fix applied to this file's own assessment-objective
+  section.
+
+**Verification method.** AQA's specification PDF (filestore.aqa.org.uk,
+AQA-8145-SP-2016.PDF) fetched directly via WebFetch for the exact
+Paper 1/Paper 2 section and question structure, mark tariffs, and the
+four assessment objectives with their weightings -- not taken from the
+findings' prose paraphrase alone. AQA's separate historic-environment
+sites notice (aqa.org.uk/news/gcse-history-historic-environment-sites-2026-2028)
+fetched to confirm the exact site-to-depth-study mapping across all
+three published years. Pearson Edexcel's 4HI1 specification PDF
+re-fetched to independently confirm AO3/AO4's exact wording and the
+15%/15% split, and their per-paper breakdown (Paper 1: AO4 10%, no
+AO3; Paper 2: AO3 15%, AO4 5%).
+
+**Q217 scope note.** Q217 named three files: two Cambridge O-Level
+2147 files (already rebuilt clean under D-179, reverified by direct
+grep before this batch -- no "specification" or "independently
+confirmed" text present) and one AQA file (fixed in this batch). Q217
+is now fully closed across all three files.
+
+**Full validation gate green end to end:** `astro check` (0 errors) ->
+`validate:academic` (all sub-validators PASS) -> `npm run build`
+(2,129 pages + Pagefind, clean, 173s) -> `check-duplicate-resource-scope.mjs`
+(PASS, 6 pre-existing allow-listed groups, none new) ->
+`test-i18n-routes.mjs` (PASS) -> `test-practice-analytics.mjs`
+(24/24) -> `npm audit` (0 vulnerabilities) -> `coverage:academic-v2`
+(160/160) -> `audit:all` (12/12 sub-audits, 0 problems).
+
+**Next.** The remaining World History findings (IB DP History:
+E548-E550; Edexcel IGCSE 4HI1: E551-E554, E561 already closed above,
+E562, I222; OxfordAQA IGCSE 9245: E555-E560), not yet started.

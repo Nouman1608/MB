@@ -114,13 +114,18 @@ categories -- long-term (underlying conditions built up over years or
 decades), short-term (events in the run-up to the outcome being
 explained), and the trigger (the specific event that precipitated
 it) -- and then explain how the categories interact rather than listing
-them in isolation. For example, in BB The Inter-War Years, the
-long-term cause of German resentment at the Treaty of Versailles, the
-short-term cause of the Depression's economic impact on Germany, and the
-trigger of Hitler's appointment as Chancellor in January 1933 all need
-to be connected to explain the collapse of Weimar democracy convincingly
--- naming all three without showing how they reinforced each other tends
-to cap marks at the lower half of the top level.
+them in isolation. For example, in AB Germany, 1890–1945, the
+long-term cause of the Weimar constitution's built-in weaknesses and
+lingering resentment at the Treaty of Versailles, the short-term cause
+of the Depression's economic impact on Germany from 1929, and the
+trigger of Hindenburg's decision to appoint Hitler as Chancellor in
+January 1933 all need to be connected to explain the collapse of Weimar
+democracy convincingly -- this sits within the period study's second
+phase (Germany and the Depression), not within BB The Inter-War Years,
+which covers international peacemaking and the road to war rather than
+Germany's domestic collapse. Naming all three causes without showing
+how they reinforced each other tends to cap marks at the lower half of
+the top level.
 
 ## Common mistakes
 
@@ -147,7 +152,7 @@ longer-term causes.
 - Use the [Historic Environment study resources](/resources/gcse-history-historic-environment-revision-notes/)
 separately -- that content sits within Paper 2, not Paper 1.
 
-## Official syllabus
+## Official specification
 
 AQA GCSE History (8145), Paper 1 subject content —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/subject-content/understanding-the-modern-world),

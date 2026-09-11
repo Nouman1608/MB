@@ -103,12 +103,17 @@ transferable skill while keeping the two bodies of factual knowledge appropriate
 
 ## Linking content knowledge to the assessment objectives
 
-Paper 1 assesses AO1 (knowledge and understanding), AO2 (explaining and analysing causation, change,
-continuity, consequence and significance), and AO3 (analysing and evaluating source material and
-interpretations). Structured questions typically move from a lower-tariff AO1 recall question through
-to a higher-tariff AO2 or AO3 extended-writing question — so a revision session that only drills facts
-(AO1) leaves the highest-value marks unpractised. Pair every content-recall session with at least one
-timed extended-writing practice question drawing on that same content.
+Paper 1 draws on four assessment objectives, not three: AO1 (knowledge and understanding), AO2
+(explaining and analysing causation, change, continuity, consequence and significance), AO3
+(analysing and evaluating source material to make substantiated judgements), and AO4 (analysing,
+evaluating and making substantiated judgements about historical interpretations). AO3 and AO4 are
+not the same skill and are marked separately — and on Paper 1's period-study section (Section A),
+only AO4 is present at all, since that section's interpretation questions carry no source-handling
+marks; AO3 is tested through Section B's depth-study source questions instead. Structured questions
+typically move from a lower-tariff AO1 recall question through to a higher-tariff AO2, AO3 or AO4
+extended-writing question — so a revision session that only drills facts (AO1) leaves the
+highest-value marks unpractised. Pair every content-recall session with at least one timed
+extended-writing practice question drawing on that same content.
 
 ## Self-test
 

@@ -132,17 +132,25 @@ across two independent selections.
 
 ## Assessment objectives
 
-Across the qualification, Pearson Edexcel weights AO1 (knowledge and
-understanding of key features and characteristics of the periods
-studied) at 34% and AO2 (explaining and analysing historical events
-using second-order concepts such as cause, consequence, change and
-significance) at 36%, with the remainder assessing source-based
-skills -- the strand the Historical Investigation is specifically
-designed to test. Because AO1 and AO2 together make up the majority of
-the marks across both papers, secure factual knowledge remains the
-foundation even on a source-based component like the Investigation:
-strong source evaluation still depends on being able to bring accurate
-contextual knowledge to bear on what a source says and omits.
+Across the qualification, Pearson Edexcel weights four objectives, not
+three: AO1 (knowledge and understanding of key features and
+characteristics of the periods studied) at 34%, AO2 (explaining,
+analysing and making judgements about historical events using
+second-order concepts such as cause, consequence, change and
+significance) at 36%, AO3 (using source material to comprehend,
+interpret and cross-refer sources) at 15%, and AO4 (analysing and
+evaluating historical interpretations) at 15%. AO3 and AO4 are not the
+same strand -- they're marked on different questions, and AO4 is
+assessed across three separate questions spanning both papers, not
+folded into "source-based skills" generally. On Paper 2 specifically,
+the Historical Investigation carries the bulk of AO3 (15%), while AO4
+carries a smaller 5% here (the majority of AO4's marks sit on Paper 1's
+Depth Studies instead). Because AO1 and AO2 together make up the
+majority of the marks across both papers, secure factual knowledge
+remains the foundation even on a source-based component like the
+Investigation: strong source evaluation still depends on being able to
+bring accurate contextual knowledge to bear on what a source says and
+omits.
 
 ## Related resources
 
