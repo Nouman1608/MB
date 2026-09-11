@@ -8026,3 +8026,52 @@ the largest remaining sub-batch), and OxfordAQA IGCSE/A-level English
 Literature (9275/9675). After English literature closes, the
 remaining clusters in `docs/audit/2026-09-11-findings.md` are
 Sociology (36) and World history (34).
+
+## D-173 - English literature cluster, batch 2 (Cambridge 0475/9695 family): E461, E462, E463, E464, I208, I209, I210, I211, Q194, Q195
+
+**Date:** 2026-09-11
+**Scope:** Batch 2 of the English literature cluster (58 findings total). This
+sub-batch covers the Cambridge family: IGCSE Literature in English (0475)
+Papers 1-4 and A Level Literature in English (9695) Papers 1-3, plus their
+revision-notes and practice companions -- 10 findings across 13 files (one
+renamed with a redirect).
+
+**Context.** Given the cluster's scale, it continues to be worked in
+file-family sub-batches (AQA family closed in D-172). This batch required more
+live verification than D-172: E461's exact 2026-series set-text list could not
+be derived from the finding text alone (it only identified which titles were
+wrong, not the correct replacements), so the actual 2026 Section A/B set-text
+list was fetched from Cambridge's own syllabus PDF before editing, consistent
+with this project's practice of verifying rather than guessing where a fix
+requires a specific fact not given in the finding itself.
+
+| Finding | File(s) | What changed |
+|---|---|---|
+| E461 | `a-level-english-literature-paper-3-shakespeare-and-drama.md` | Set-text list reproduced the syllabus's combined recommended-editions table (which spans all three years of the cycle) instead of the 2026-series list specifically. Verified the actual 2026 list against Cambridge's syllabus PDF and corrected: Section A narrows to *Hamlet* and *The Taming of the Shrew* (*The Merchant of Venice* was 2024-only); Section B narrows to *Sweat*, *Long Day's Journey Into Night* and *Kongi's Harvest* (the Fugard and Stephenson texts were 2024-only). |
+| E462 | `igcse-english-literature-paper-3-drama-open-text.md` | Advised tagging the exam copy with sticky notes, contradicting the clean-copy rule (a malpractice risk) stated elsewhere in the same file. Removed the sticky-note advice; preparation is now framed as knowing the text well enough to navigate a genuinely clean copy. |
+| E463 | `a-level-english-literature-paper-2-prose-and-unseen.md` + revision notes | Section B (the unseen section of Paper 2) was described as prose-only throughout, including the worked example and every method note. Corrected to reflect that the two unseen passages are drawn from two of prose, poetry and drama, added a poetry/drama close-reading method alongside the existing prose one, and added the "choice of one from two questions" detail that was also missing. |
+| E464 | `english-literature-paper-2-drama-revision-notes.md` | Described Paper 3's open-text preparation as "annotating a personal copy of the text," the opposite of the clean-copy rule. Recast as knowing the text well enough to navigate a clean copy, with the annotation prohibition stated explicitly. |
+| I208 | `a-level-english-literature-paper-1-drama-and-poetry.md`, `a-level-english-literature-paper-2-prose-and-unseen.md` | Both guides numbered their sections (1.1, 1.2 / 2.1, 2.2) in a decimal-taxonomy style, directly contradicting a sentence a few lines above stating this syllabus has no numbered topic taxonomy. Numbers removed; sections now referred to by name only. |
+| I209 | 7 files (4 IGCSE papers, 3 A-level papers) | All seven now disclose the specific syllabus series/cycle they're written against and that Cambridge has since published newer syllabus documents. The two Paper-3-specific guides (IGCSE open-text and A-level Shakespeare-and-Drama) additionally flag the concrete set-text changes a reader would hit if working from a later series; the IGCSE guides also flag the 2028-2030 restructure (two-component model replacing the current four-paper-plus-coursework structure). |
+| I210 | `igcse-english-literature-paper-4-unseen.md`, `a-level-english-literature-paper-3-shakespeare-and-drama-practice.md` | Two `order` frontmatter collisions across papers of different numbers. Fixed both to their own paper's number (Paper 4 guide 3->4; A-level Paper 3 practice 1->3). The other two files the finding named (`igcse-english-literature-paper-2-drama` and the drama revision notes) already carry `order` values that match the same "order = own paper number" convention cleanly demonstrated elsewhere in this family (Paper 3's guide and notes both legitimately share value 3, Paper 4's notes already correctly carry 4) -- left unchanged rather than guess-edited away from a value that is, on that evidence, already correct; noted here for transparency rather than silently declared out of scope. |
+| I211 | `english-literature-paper-2-drama-revision-notes.md` | Dropped the IGCSE-family slug/title convention all six siblings carry. Renamed to `igcse-english-literature-paper-2-drama-revision-notes.md`, title updated to add the board+code tag, the one internal link to it updated, and a 301 redirect added via `CONSOLIDATED_RESOURCES` in `scripts/generate-redirects.mjs` (regenerated into `public/_redirects`), following the same rename-with-redirect precedent used for I166. |
+| Q194 | `a-level-english-literature-paper-1-drama-and-poetry-practice.md` | Two passage-commentary questions were tariffed at `[10]` where the real paper sets this question type at 25 marks; five structural-knowledge items were tariffed as if exam-style. Commentary questions raised to `[25]`, the misleading per-point `[1]` mark tags removed (Cambridge marks this holistically against level descriptors, not a points tally), and the structural-knowledge section relabelled as revision recall rather than exam-style questions. |
+| Q195 | `a-level-english-literature-paper-2-prose-unseen-revision-notes.md` | AO summary omitted 2 of the paper's 4 assessed objectives (personal response, communication), invented a third that merges two objectives not assessed on this paper, and asserted an unpublished section-level weighting. Replaced with the correct four objectives at 25% each, AO5 flagged as not assessed on this paper, and the unsupported section-weighting claim removed. |
+
+**Operational note.** The build succeeded cleanly on the first attempt this
+batch (2,129 pages, exit code 0, ~161s) -- no repeat of the `ERR_MODULE_NOT_FOUND`
+build blocker seen in D-171 and D-172.
+
+**Validation gate:** `astro check` (0 errors) -> `validate:academic` -> `build`
+(2,129 pages + Pagefind, first attempt) -> `test-cross-board-regression.mjs`
+(OK) -> `test-negative-validation-suite.mjs` (35/35) -> API tests (31/31) ->
+`npm audit` (0 vulnerabilities) -> `coverage:academic-v2` (160/160, median 8
+resources/combination, median 996 words/resource) ->
+`check-duplicate-resource-scope.mjs` (PASS, same 6 pre-existing allow-listed
+groups) -> `audit:all` (11/11 sub-audits, 0 problems).
+
+**Next.** Continuing the English literature cluster: batch 3 (Edexcel
+IGCSE/IAL family, the largest remaining sub-batch: E465-E477, I213, I214,
+I215, Q196, Q197, Q198) and batch 4 (OxfordAQA family: E478-E484, I216, I217,
+Q199-Q203, U20). After the cluster closes: Sociology (36 findings) and World
+history (34 findings), neither started yet.

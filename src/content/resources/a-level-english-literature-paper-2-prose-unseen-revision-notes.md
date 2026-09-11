@@ -27,8 +27,9 @@ Condensed, exam-focused notes for Paper 2 of Cambridge International A Level Eng
 ## Paper structure
 
 - **Section A: Prose** — a set text; tests narrative technique, character and theme knowledge.
-- **Section B: Unseen** — an unfamiliar prose passage; tests close reading and analysis with no prior
-  knowledge required or expected.
+- **Section B: Unseen** — a choice of one question from two, each set on a previously unseen passage;
+  the two passages are drawn from **two of prose, poetry and drama**, not prose alone; tests close
+  reading and analysis with no prior knowledge required or expected.
 - Set text list rotates by examination year — always confirm the current set-text grid for your own
   series.
 
@@ -41,15 +42,17 @@ Condensed, exam-focused notes for Paper 2 of Cambridge International A Level Eng
 
 ## Section B: the unseen method
 
-A repeatable three-step method for the unseen passage:
+A repeatable three-step method for the unseen passage, adapted to whichever forms are set that series:
 
 1. **First read** — for overall sense and tone.
-2. **Second read** — annotate specific language and structural choices and their effects.
+2. **Second read** — annotate specific language and structural choices and their effects: for prose,
+   narrative voice and pacing; for poetry, form, line breaks and rhyme/metre (or their absence); for
+   drama, stage directions and dialogue rhythm.
 3. **Plan** — a response built around a small number of well-developed points, not a long list of
    surface observations.
 
 - No benefit from memorised quotations or pre-prepared arguments on this section — only timed practice
-  on genuinely new extracts builds this skill reliably.
+  on genuinely new extracts, across all forms that could be set, builds this skill reliably.
 - Never speculate about plot or context beyond what the passage itself provides.
 
 ## The technique-then-effect habit
@@ -97,13 +100,15 @@ understand the text's overall architecture.
 
 ## A note on assessment objectives
 
-Like Paper 1, Paper 2 is marked against Cambridge's standard assessment objectives for literature —
-knowledge and understanding of texts, analysis of language/form/structure, and (particularly relevant
-for Section A) understanding of context and connections where genuinely relevant to the specific
-question. Section B, being an unseen extract, weights analysis of language, form and structure
-especially heavily, since there is no wider text or context to draw on beyond the passage itself —
-which is exactly why a fast, reliable close-reading method matters more for that section than
-background knowledge ever could.
+Paper 2 is marked against all four assessment objectives tested on the AS Level papers, each weighted
+equally at 25%: **AO1** knowledge and understanding, **AO2** analysis of how a writer's choices of
+language, form and structure shape meaning and effect, **AO3** an informed, independent personal
+response, and **AO4** a relevant, structured, well-supported response. **AO5** (evaluation of opinion)
+is not assessed on Paper 2 — it appears only on Papers 3 and 4. Cambridge publishes these weightings per
+component, not per section, so there is no published figure suggesting Section B weights analysis more
+heavily than Section A; both sections are marked against the same four objectives at the same
+weightings, which is exactly why the technique-then-effect habit above matters equally whether you're
+writing on the set text or an unseen passage.
 
 ## Self-test
 

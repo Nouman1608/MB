@@ -148,6 +148,14 @@ const CONSOLIDATED_RESOURCES = {
   // Renamed to match its actual content; the old slug now redirects
   // forward to the renamed file.
   'oxfordaqa-a-level-economics-global-economy-revision-notes': 'oxfordaqa-a-level-economics-macroeconomic-performance-revision-notes',
+
+  // I211 fix-up, D-172 (English literature cluster, batch 1): this file
+  // sat in the IGCSE English Literature (0475) family but dropped the
+  // qualification-prefix slug convention all six siblings carry, which
+  // is exactly the kind of unqualified literature slug that has already
+  // collided with another board's resource once in this corpus. Renamed
+  // to the family convention; old slug now redirects forward.
+  'english-literature-paper-2-drama-revision-notes': 'igcse-english-literature-paper-2-drama-revision-notes',
 };
 
 
@@ -199,6 +207,7 @@ const CONSOLIDATED_RESOURCE_FORMER_TYPES = {
   'law-english-legal-system-revision-notes': 'revision-notes',
   'sociology-research-methods-revision-notes': 'revision-notes',
   'oxfordaqa-a-level-economics-global-economy-revision-notes': 'revision-notes',
+  'english-literature-paper-2-drama-revision-notes': 'revision-notes',
 };
 
 const slugsIn = async (dir) =>

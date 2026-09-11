@@ -1,5 +1,5 @@
 ---
-title: "IGCSE English Literature: Paper 2 – Drama — Revision Notes"
+title: "IGCSE English Literature: Paper 2 - Drama — Revision Notes (Cambridge 0475)"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]
@@ -94,8 +94,10 @@ Unlike a content-based subject with a topic-by-topic syllabus, 0475 is organised
 the qualification through one of three routes: Paper 2 Drama, OR Paper 3 Drama (Open Text) with Paper
 4 Unseen, OR Paper 3 with Component 5 Coursework. Knowing which route your school has entered you for
 matters more here than in most subjects, since revision materials genuinely differ by route — a Paper
-3 candidate's open-text drama preparation (annotating a personal copy of the text) is not transferable
-to a Paper 2 candidate's closed-book quotation-memorisation approach, even though both study drama.
+3 candidate's open-text drama preparation (knowing the play well enough to navigate straight to key
+passages in a genuinely clean copy — the copy taken into the exam must contain no annotation,
+underlining or highlighting) is not transferable to a Paper 2 candidate's closed-book
+quotation-memorisation approach, even though both study drama.
 
 ## What "50% of the qualification" actually means for revision time
 

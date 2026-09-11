@@ -8,7 +8,7 @@ boards: ["cambridge"]
 qualifications: ["igcse"]
 syllabusCodes: ["0475"]
 syllabusSeries: "2026"
-order: 3
+order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-4-unseen-0475"
@@ -117,6 +117,19 @@ practised both formats during the course rather than assuming in
 advance which they will pick; a candidate who has only ever practised
 unseen poetry can be caught out by a prose extract that, on the day,
 would actually have suited them better.
+
+## A note on syllabus currency
+
+This guide is written against the Cambridge IGCSE Literature in
+English (0475) syllabus for the 2026 examination series. Cambridge has
+since published a 2027 syllabus, and a further restructure applies
+from the 2028-2030 cycle: the current four-paper-plus-coursework
+structure is replaced by two components, with today's Paper 1 becoming
+open text and today's Paper 2 becoming a combined drama-and-unseen
+paper, so Papers 3 and 4 and the coursework component as described
+across this family will no longer exist in that form. Confirm which
+syllabus cycle your candidates are sitting before revising from this
+guide.
 
 ## Official syllabus
 

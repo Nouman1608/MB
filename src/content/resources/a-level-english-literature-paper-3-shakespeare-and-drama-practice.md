@@ -9,7 +9,7 @@ qualifications: ["a-level"]
 syllabusCodes: ["9695"]
 syllabusSeries: "2024-2026"
 stage: "A"
-order: 1
+order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-shakespeare-and-drama-9695"

@@ -44,9 +44,9 @@ of IGCSE Literature.
 **CAMBRIDGE INTERNATIONAL A LEVEL ENGLISH LITERATURE 9695 — PAPER 1
 DRAMA AND POETRY**
 
-- 1.1 Section A: Drama — answering on a set drama text, testing
+- Section A: Drama — answering on a set drama text, testing
 knowledge of plot, character and dramatic technique
-- 1.2 Section B: Poetry — answering on a set poetry text or selection,
+- Section B: Poetry — answering on a set poetry text or selection,
 testing close reading of poetic language, form and structure
 
 ## Paper format
@@ -117,6 +117,15 @@ rhythm and metre, and form and structure all reward close reading, and
 naming a technique such as enjambment or caesura earns little on its
 own — the mark is in explaining the **effect** that technique has on
 meaning or tone at that specific point in the poem.
+
+## A note on syllabus currency
+
+This guide is written against the Cambridge International A Level
+English Literature 9695 syllabus for examination in 2024, 2025 and
+2026. Cambridge revises set texts and, periodically, paper structure
+between syllabus cycles, so before relying on this guide for a series
+beyond 2026, confirm you are working from the syllabus document that
+actually covers your candidates' examination series.
 
 ## Official syllabus
 

@@ -122,6 +122,17 @@ objectives, and the specific ways marks are most often lost — see the
 which build directly on the format and assessment objectives
 introduced here.
 
+## A note on syllabus currency
+
+This guide is written against the Cambridge IGCSE Literature in
+English (0475) syllabus for the 2026 examination series. Cambridge has
+since published a 2027 syllabus, and a further restructure applies
+from the 2028-2030 cycle: the current four-paper-plus-coursework
+structure is replaced by two components, with today's Paper 1 becoming
+open text and today's Paper 2 becoming a combined drama-and-unseen
+paper. Confirm which syllabus cycle your candidates are sitting before
+revising from this guide.
+
 ## Official syllabus
 
 Cambridge IGCSE English Literature 0475 syllabus for 2026 (Version 2,

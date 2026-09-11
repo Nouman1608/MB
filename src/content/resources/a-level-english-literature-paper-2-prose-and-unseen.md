@@ -35,19 +35,22 @@ AS Level award. A Level candidates additionally take Paper 3
 (Shakespeare and Drama) and Paper 4 (Pre- and Post-1900 Poetry and
 Prose). Paper 2 is distinctive within the AS award because, unlike
 Paper 1, one of its two sections is not based on a set text at all —
-Section B assesses unseen prose, testing a different skill from
-detailed knowledge of a studied novel.
+Section B assesses two previously unseen passages, drawn from two of
+prose, poetry and drama, with candidates answering one from a choice
+of two. This tests a different skill from detailed knowledge of a
+studied novel.
 
 ## Syllabus coverage
 
 **CAMBRIDGE INTERNATIONAL A LEVEL ENGLISH LITERATURE 9695 — PAPER 2
 PROSE AND UNSEEN**
 
-- 2.1 Section A: Prose — answering on a set prose text, testing
+- Section A: Prose — answering on a set prose text, testing
 knowledge of narrative technique, character and theme
-- 2.2 Section B: Unseen — responding to an unseen prose passage,
-testing close reading and analysis without prior knowledge of the
-source text
+- Section B: Unseen — a choice of one from two questions, each set
+on a previously unseen passage; the passages are drawn from two of
+prose, poetry and drama (not prose alone), testing close reading and
+analysis without prior knowledge of the source text
 
 ## How to approach it
 
@@ -63,18 +66,28 @@ character develops chronologically, rather than only revising
 memorable individual scenes, tends to produce answers with a stronger
 overall argument.
 
-Section B tests a genuinely different skill: responding to an unseen
-extract under timed conditions with no prior knowledge of the source
-novel. The priority here is close, line-level reading — noticing how
-narrative voice, structure, and specific word choices shape a reader's
-impression of character or event within the extract itself, rather
-than speculating about plot or context beyond what the passage
-actually gives. Because there is no set text to fall back on, practice
-should focus on building a repeatable method: a first read for overall
-sense and tone, a second read annotating specific language choices and
-their effects, then planning a response structured around a small
-number of well-developed points rather than a long list of surface
-observations.
+Section B tests a genuinely different skill: two previously unseen
+passages are set, drawn from two of prose, poetry and drama, and
+candidates answer one question from a choice of two, under timed
+conditions with no prior knowledge of the source text. The priority
+here is close, line-level reading — noticing how voice, structure, and
+specific word choices shape a reader's impression of character, event
+or feeling within the extract itself, rather than speculating about
+plot or context beyond what the passage actually gives. Because there
+is no set text to fall back on, practice should focus on building a
+repeatable method: a first read for overall sense and tone, a second
+read annotating specific language choices and their effects, then
+planning a response structured around a small number of well-developed
+points rather than a long list of surface observations. The method
+adapts by form: for prose, attend to narrative voice, pacing and the
+structure of a scene or episode; for poetry, attend additionally to
+form, rhyme and metre (or their absence), line breaks and the effect
+of the poem's shape on the page; for drama, attend to stage directions,
+dialogue rhythm and what the extract implies about how a moment would
+play to a live audience — the same underlying discipline of naming a
+technique and explaining its effect applies across all three, but
+which features are worth noticing shifts with the form in front of
+you.
 
 A common weakness across both sections is describing what a text does
 —"the writer uses long sentences"— without explaining the effect that
@@ -97,7 +110,7 @@ judge realistically how long each response actually needs, rather than
 running out of time on the section they find more comfortable at the
 expense of the other.
 
-## Worked example: annotating an unseen extract
+## Worked example: annotating an unseen prose extract
 
 Consider an unseen extract opening with short, clipped sentences
 describing a character walking through an empty house. A weak response
@@ -113,19 +126,47 @@ the habit of asking, after noting any technique, "what does this
 actually do to the reader's impression, here, in this specific
 passage" rather than stopping at naming the device.
 
+## Unseen poetry and unseen drama: the same method, different features
+
+Because Section B draws its two passages from two of prose, poetry
+and drama, the same habit above needs practising on the other forms
+too, not just on prose. For an unseen poem, a weak response might note
+"the poem uses short lines" without saying more; a stronger response
+connects the short lines and frequent line breaks to a halting,
+hesitant reading rhythm that mirrors the speaker's own uncertainty, and
+notices where a longer, unbroken line coincides with a moment of
+sudden clarity or resolve. For an unseen drama extract, a weak response
+describes what a character says; a stronger response reads the stage
+directions and dialogue together — a pause before a difficult line, a
+short exchange of clipped replies, an aside — and explains what that
+staging choice would communicate to an audience watching the scene
+live, not just a reader of the script. In both cases, the discipline
+is identical to prose: name the specific feature, then explain its
+effect in that passage, rather than stopping at identification.
+
 ## Quick revision checklist
 
 - Track how your Section A text's themes and characters develop
   across the whole novel, not only in a handful of favourite scenes.
-- For Section B, rehearse a repeatable close-reading method: read for
+- For Section B, rehearse a repeatable close-reading method — read for
   overall sense, annotate language and structure, then plan before
-  writing.
+  writing — and practise it on prose, poetry and drama extracts, since
+  the two passages set can be drawn from any two of the three.
 - Always pair an observation about technique with its specific effect
   on the reader — never leave a device named but unexplained.
 - Practise both sections together under full exam timing so pacing
   reflects the real paper, not each section revised in isolation.
 - For Section B specifically, resist the temptation to guess at
   context beyond the passage — analyse what is actually on the page.
+
+## A note on syllabus currency
+
+This guide is written against the Cambridge International A Level
+English Literature 9695 syllabus for examination in 2024, 2025 and
+2026. Cambridge revises set texts and, periodically, paper structure
+between syllabus cycles, so before relying on this guide for a series
+beyond 2026, confirm you are working from the syllabus document that
+actually covers your candidates' examination series.
 
 ## Official syllabus
 

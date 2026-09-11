@@ -34,7 +34,11 @@ skill itself.
 
 ---
 
-## Section A — Paper knowledge
+## Section A — Paper knowledge (revision recall, not exam-style questions)
+
+These five items test knowledge of the paper's structure, not literature — Paper 1 itself sets no
+question of this kind. Use them as quick recall checks before moving to the commentary practice below,
+which is the exam-style material on this page.
 
 **1.** State the duration and total marks of Paper 1. **[2]**
 
@@ -47,6 +51,13 @@ skill itself.
 **5.** State what materials may **not** be taken into the exam room for this paper. **[2]**
 
 ## Section B — Passage-based commentary practice
+
+Each question below is set at the same 25-mark tariff as a real (b) question on this paper, so treat
+your written response the way you would in the exam — a full essay-length commentary, not a set of
+short-answer points. Paper 1 is marked holistically against level descriptors covering all four
+assessment objectives together, not against a published points tally per part of the answer; the bullet
+points in the answers below are given in descending order of what most distinguishes a top-band
+response, not as a marks-per-point scheme to total.
 
 **6.** Read the following original extract from a two-character drama scene.
 
@@ -64,7 +75,7 @@ skill itself.
 >
 > *(She puts it in her pocket. OSEI does not move from the door.)*
 
-Analyse how the dramatist creates tension in this extract, considering language, stage directions and structure. **[10]**
+Analyse how the dramatist creates tension in this extract, considering language, stage directions and structure. **[25]**
 
 **7.** Read the following original poem.
 
@@ -87,7 +98,7 @@ Analyse how the dramatist creates tension in this extract, considering language,
 > I keep the shoe. I don't know why.
 > Some things return simply to be kept.
 
-Analyse how the poet presents the passing of grief in this poem, considering language, form and structure. **[10]**
+Analyse how the poet presents the passing of grief in this poem, considering language, form and structure. **[25]**
 
 ---
 
@@ -105,11 +116,11 @@ Analyse how the poet presents the passing of grief in this poem, considering lan
 
 **6.** Strong answers would address, among other valid points:
 
-The **stage direction "not looking up from the letter"** establishes Mara's control of the scene from the first line — she withholds eye contact, which builds tension before either character has said very much [1] [1]. Osei's line **"I didn't want tonight to be about this"** uses the deictic "this" to avoid naming the betrayal directly, a form of evasion that increases rather than defuses the tension [1] [1]. The **short, clipped exchanges** ("Say something else. Say anything else.") create a rapid rhythm that contrasts with the surrounding stage directions, dramatising a scene speeding up emotionally even as physical action stalls [1] [1]. The **stage direction "A long pause"**, followed by Osei's hand stopping on the door handle, stages hesitation physically — the audience watches indecision rather than being told about it, which is a specifically dramatic (not narrative) way of building tension [1] [1]. Mara's closing line, **"it says exactly what it says"**, is an aphoristic, controlled statement that closes down further argument, while Osei's stillness at the door leaves the scene visually unresolved — an ending that withholds resolution is itself a tension-building structural choice [1] [1].
+The **stage direction "not looking up from the letter"** establishes Mara's control of the scene from the first line — she withholds eye contact, which builds tension before either character has said very much. Osei's line **"I didn't want tonight to be about this"** uses the deictic "this" to avoid naming the betrayal directly, a form of evasion that increases rather than defuses the tension. The **short, clipped exchanges** ("Say something else. Say anything else.") create a rapid rhythm that contrasts with the surrounding stage directions, dramatising a scene speeding up emotionally even as physical action stalls. The **stage direction "A long pause"**, followed by Osei's hand stopping on the door handle, stages hesitation physically — the audience watches indecision rather than being told about it, which is a specifically dramatic (not narrative) way of building tension. Mara's closing line, **"it says exactly what it says"**, is an aphoristic, controlled statement that closes down further argument, while Osei's stillness at the door leaves the scene visually unresolved — an ending that withholds resolution is itself a tension-building structural choice.
 
 **7.** Strong answers would address, among other valid points:
 
-The **extended metaphor of the tide** ("high mark, low mark, / the numbers it forgets by morning") figures grief as something with its own rhythm and record-keeping, suggesting grief recedes and returns rather than simply fading [1] [1]. The **asyndetic list** of washed-up objects ("a bicycle wheel, a shoe, the green / glass shoulder of a bottle") accumulates small, ordinary debris without connectives, mimicking how memory surfaces in fragments rather than a single narrative [1] [1]. **Enjambment** runs across most of the poem's lines ("worn / soft as a word repeated"), creating a drifting, unresolved momentum that formally enacts the poem's theme of an ongoing, unfinished process [1] [1]. The **volta at "They say grief works the same slow trick"** turns the poem from image to explicit statement, converting the tide into a direct comparison and shifting the poem's mode from description to reflection [1] [1]. The **short, end-stopped final couplet** ("I keep the shoe. I don't know why. / Some things return simply to be kept.") breaks from the poem's longer, enjambed lines, formally marking closure even as its content refuses full explanation — form and meaning working together [1] [1].
+The **extended metaphor of the tide** ("high mark, low mark, / the numbers it forgets by morning") figures grief as something with its own rhythm and record-keeping, suggesting grief recedes and returns rather than simply fading. The **asyndetic list** of washed-up objects ("a bicycle wheel, a shoe, the green / glass shoulder of a bottle") accumulates small, ordinary debris without connectives, mimicking how memory surfaces in fragments rather than a single narrative. **Enjambment** runs across most of the poem's lines ("worn / soft as a word repeated"), creating a drifting, unresolved momentum that formally enacts the poem's theme of an ongoing, unfinished process. The **volta at "They say grief works the same slow trick"** turns the poem from image to explicit statement, converting the tide into a direct comparison and shifting the poem's mode from description to reflection. The **short, end-stopped final couplet** ("I keep the shoe. I don't know why. / Some things return simply to be kept.") breaks from the poem's longer, enjambed lines, formally marking closure even as its content refuses full explanation — form and meaning working together.
 
 ---
 

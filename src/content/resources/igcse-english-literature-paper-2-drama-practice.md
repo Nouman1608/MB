@@ -26,7 +26,7 @@ featured: false
 Related: [Paper 2 – Drama study
 guide](/resources/igcse-english-literature-paper-2-drama/) and
 [revision
-notes](/resources/english-literature-paper-2-drama-revision-notes/).
+notes](/resources/igcse-english-literature-paper-2-drama-revision-notes/).
 
 ## Section A
 

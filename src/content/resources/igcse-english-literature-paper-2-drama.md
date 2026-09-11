@@ -116,6 +116,16 @@ treating the text like a novel never will. In timed practice, split the
 question at 45 minutes — two balanced 25-mark answers nearly always
 outscore one long and one rushed.
 
+## A note on syllabus currency
+
+This guide is written against the Cambridge IGCSE Literature in
+English (0475) syllabus for the 2026 examination series. Cambridge has
+since published a 2027 syllabus, and a further restructure applies
+from the 2028-2030 cycle: the current four-paper-plus-coursework
+structure is replaced by two components, with today's Paper 2 becoming
+a combined drama-and-unseen paper. Confirm which syllabus cycle your
+candidates are sitting before revising from this guide.
+
 ## Official syllabus
 
 Cambridge IGCSE Literature in English 0475 syllabus for 2026 (Version

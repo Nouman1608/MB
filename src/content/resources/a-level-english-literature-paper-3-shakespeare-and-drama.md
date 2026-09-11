@@ -83,15 +83,30 @@ by others.
 
 ## Set texts for the 2026 series
 
-For Section A: Shakespeare, the 2026-series set play is drawn from
-*The Merchant of Venice*, *Hamlet* and *The Taming of the Shrew* (using
-the Alexander Text edition). For Section B: Drama, the 2026-series set
-texts include *The Train Driver and Other Plays* (Athol Fugard),
-*Sweat* (Lynn Nottage), *Long Day's Journey Into Night* (Eugene
-O'Neill), *Kongi's Harvest* (Wole Soyinka) and *An Experiment with an
-Air Pump* (Shelagh Stephenson). Set texts rotate by examination series,
-so always confirm the current list for the year your candidates are
-sitting the exam rather than assuming continuity from a previous year.
+The syllabus's own set-text table lists every play across all three
+years of the 2024-2026 cycle at once, with the three Shakespeare plays
+grouped into a single combined row for the recommended edition -- so
+reading that table alone overstates how many texts are actually set
+in any one series. For the **2026 series specifically**, Section A:
+Shakespeare narrows to two plays: *Hamlet* and *The Taming of the
+Shrew* (using the Alexander Text edition); *The Merchant of Venice*
+was set for the 2024 series only and is not examined in 2026. Section
+B: Drama narrows to three texts for 2026: *Sweat* (Lynn Nottage),
+*Long Day's Journey Into Night* (Eugene O'Neill) and *Kongi's Harvest*
+(Wole Soyinka); *The Train Driver and Other Plays* (Athol Fugard) and
+*An Experiment with an Air Pump* (Shelagh Stephenson) were set for the
+2024 series only. Set texts rotate by examination series, so always
+confirm the current list for the specific year your candidates are
+sitting the exam, from the syllabus's year-by-year set-text section
+rather than its combined recommended-editions table.
+
+**A note on syllabus currency.** This guide is written against the
+Cambridge International AS & A Level Literature in English (9695)
+syllabus for examination in 2024, 2025 and 2026. Cambridge revises
+set texts and, periodically, paper structure between syllabus cycles,
+so before relying on this guide for a series beyond 2026, confirm you
+are working from the syllabus document that actually covers your
+candidates' examination series.
 
 ## Related resources
 

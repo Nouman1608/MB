@@ -126,14 +126,26 @@ part of it, and the "choice of two" only helps if you're prepared for
 either. Practise locating specific, well-chosen quotations quickly
 under time pressure, since 45 minutes leaves little room for
 page-flipping; a small number of pre-identified key passages per major
-theme or character, tagged with sticky notes you're permitted to use
-(check current guidance on what markings are allowed on a clean set
-text), is more useful than trying to search cold. Because this is the
+theme or character, known well enough that you can navigate straight
+to them in a genuinely clean copy, is more useful than trying to
+search cold. Because this is the
 shortest externally assessed paper on the syllabus, spend a
 proportionate few minutes planning your single answer before writing,
 since a well-structured response that clearly addresses all four AOs
 in 40 minutes of writing will outperform an unplanned answer that runs
 out of time before reaching a personal response.
+
+## A note on syllabus currency
+
+This guide is written against the Cambridge IGCSE Literature in
+English (0475) syllabus for the 2026 examination series. Cambridge has
+since published a 2027 syllabus, which revises this paper's five-play
+set-text list -- one 2026 play is withdrawn and a new one added -- so
+confirm the current list before relying on this guide's line-up if
+your candidates are sitting a series after 2026. A further restructure
+applies from the 2028-2030 cycle: the current four-paper-plus-coursework
+structure is replaced by two components, and Paper 3 as described here
+will no longer exist in this form.
 
 ## Official syllabus
 
