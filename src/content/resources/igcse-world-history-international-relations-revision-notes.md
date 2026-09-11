@@ -7,7 +7,7 @@ topic: "Paper 1 – International Relations Depth Studies"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9245"]
-syllabusSeries: "Version 1.0"
+syllabusSeries: "Version 1.1"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -79,9 +79,26 @@ Key developments: **Truman Doctrine** and **Marshall Plan** (1947), Cominform, *
 
 The Cuban Missile Crisis is the standard case study: causes (Bay of Pigs, US missiles in Turkey, Soviet desire for parity), the thirteen days, and consequences (the hotline, the Test Ban Treaty, and a shift towards managed coexistence).
 
+## Your Section A source booklet
+
+Section A (the Peacemaking/League or Cold War Crises option, whichever
+your centre teaches) is entirely source-based. **Three of its five
+sources are released in advance** — 1 February for a May/June sitting,
+1 July for an October/November one — with the other two unseen until
+the exam itself. **No notes or annotations may be brought in**; you
+are given a clean copy of all five sources on the day, so your
+preparation should build the contextual knowledge and familiarity you
+need to use them cold, not annotations you can't actually bring in.
+
 ## Answering the questions
 
-**Source questions:** always consider **NOP** — Nature, Origin, Purpose. Who produced this, when, and *why*? Usefulness is not reduced by bias; a biased source is highly useful evidence of what its author wanted people to believe.
+**Source questions:** consider the source's **content, provenance
+(who, when, why) and your own contextual knowledge together** to
+explain how it is useful for a stated purpose. Usefulness is not
+reduced by bias; a biased source is highly useful evidence of what
+its author wanted people to believe. **Reliability is not a question
+type on this paper**, and evaluating a source's limitations — how it
+is *not* useful — is explicitly not required.
 
 **Essay questions:** examiners reward **weighing**, not listing. Give the factors, explain how each contributed, then judge which mattered most and why.
 
@@ -100,6 +117,6 @@ The Cuban Missile Crisis is the standard case study: causes (Bay of Pigs, US mis
 2. What does BRAT stand for?
 3. Give four structural reasons the League of Nations failed.
 4. Give two arguments for and two against appeasement.
-5. What does NOP stand for in source evaluation, and why is a biased source still useful?
+5. When are Section A's three pre-released sources published, and what must you not bring into the exam?
 
-**Answers:** 1. Clemenceau wanted revenge and security; Wilson wanted self-determination and a League of Nations; Lloyd George wanted a middle course punishing Germany while preserving trade. 2. Blame, Reparations, Army, Territory. 3. The USA never joined; the League had no army; decisions required unanimity; key powers were initially excluded; sanctions were ineffective; Britain and France pursued their own interests — any four. 4. For: Britain was unprepared and rearming, and public opinion feared war. Against: it emboldened Hitler and sacrificed Czechoslovakia. 5. Nature, Origin, Purpose; a biased source remains useful as evidence of the attitudes and intentions of the person or group who produced it.
+**Answers:** 1. Clemenceau wanted revenge and security; Wilson wanted self-determination and a League of Nations; Lloyd George wanted a middle course punishing Germany while preserving trade. 2. Blame, Reparations, Army, Territory. 3. The USA never joined; the League had no army; decisions required unanimity; key powers were initially excluded; sanctions were ineffective; Britain and France pursued their own interests — any four. 4. For: Britain was unprepared and rearming, and public opinion feared war. Against: it emboldened Hitler and sacrificed Czechoslovakia. 5. 1 February for a May/June sitting, or 1 July for an October/November sitting; no notes or annotations may be brought in, since a clean copy of all five sources is provided on the day.

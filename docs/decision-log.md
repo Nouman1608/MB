@@ -9103,3 +9103,104 @@ sub-validators PASS) -> `npm run build` (2,129 pages + Pagefind, clean,
 **Next.** OxfordAQA IGCSE 9245 World History: E555-E560, not yet started.
 This closes the Edexcel IGCSE 4HI1 portion of World History entirely
 (E551-E554, E561 (D-180), E562, I222 all closed).
+
+
+## D-183 — OxfordAQA IGCSE 9245 World History sub-batch (E555-E560)
+
+**Scope.** Six findings against OxfordAQA International GCSE History
+(9245) — a brand-new qualification, first teaching September 2026, first
+examined May/June 2028, so no live past papers exist to reproduce. E555
+(the Paper 1 study guide claimed its options were "not yet named" while
+linking the specification that names all six). E556 (no resource
+mentioned that Paper 1 Section A is entirely source-based with a
+pre-released source booklet, and one resource invented "reliability" as
+a question type). E557 (two practice papers used tariffs and, in one
+case, a third section that this specification does not have). E558 (two
+mark schemes in one practice paper exceeded their own question's tariff,
+in a specification that marks with levels of response, not points).
+E559 (six resources declared specification "Version 1.0" when the live
+document is Version 1.1). E560 (three resources gave the USA option's
+start year as 1919 instead of the real 1920).
+
+**Files changed (6).**
+
+
+1. `igcse-oxfordaqa-world-history-international-relations-depth-studies.md`
+   (E555, E556, E559) — "specific options are set by OxfordAQA and
+   confirmed closer to first teaching" replaced with all six named
+   options and the real one-from-two (Section A, source-based) plus
+   one-from-four (Section B, knowledge-based) structure. Added a new
+   section stating Section A's pre-release mechanism (3 of 5 sources
+   released 1 February/1 July, 2 unseen, no notes or annotations, clean
+   copy provided) and correcting "evaluate the usefulness or reliability
+   of a source" (reliability is not a question type; the limitations
+   half of usefulness is not required). Frontmatter syllabusSeries
+   corrected from "Version 1.0" to "Version 1.1".
+2. `igcse-world-history-international-relations-revision-notes.md`
+   (E556, E559) — added the same pre-release mechanism section (this
+   "final weeks" resource previously omitted it entirely) and replaced
+   the NOP-only source framework with content+provenance+context,
+   stating reliability is not tested. Frontmatter version corrected.
+
+3. `igcse-world-history-international-relations-practice.md` (E556,
+   E557, E558, E559) — full rebuild onto the real two-section structure:
+   Section A (source-based, 4/6/8/12 marks) using the Peacemaking and
+   League of Nations option with three full, dated, attributed
+   illustrative sources; Section B (knowledge-based, 3/6/9/12 marks)
+   using the Hitler's foreign policy option, with the 9-mark question
+   requiring two reasons (previously three). Answers rewritten as
+   levels of response (Level 1-4 descriptors) rather than point-tallies
+   that exceeded their own tariffs (the 9-mark question's old scheme
+   totalled 10; the old 10-mark question's scheme totalled 14 against a
+   tariff that is properly 12). Frontmatter version corrected.
+4. `igcse-oxfordaqa-world-history-studies-in-change.md` (E559, E560) —
+   USA option corrected from "1919-1968" to "1920-1968" in the options
+   list; frontmatter version corrected. This file's existing two-section
+   structure was already correct and needed no structural change.
+5. `igcse-oxfordaqa-world-history-studies-in-change-practice.md` (E557,
+   E559, E560) — full rebuild removing the invented third ("Section C")
+   and its 8/10-mark questions that exist on neither real section;
+   rebuilt onto the real two-section, 3/6/9/12-mark structure with
+   levels-of-response answers. USA option year and frontmatter version
+   corrected in the disclaimer blockquote.
+6. `igcse-oxfordaqa-world-history-studies-in-change-revision-notes.md`
+   (E559, E560) — USA option year and frontmatter version corrected.
+
+
+**Verification method.** Fetched the live OxfordAQA International GCSE
+History (9245) specification PDF directly via WebFetch across two
+targeted passes, confirming: Version 1.1 (footer); Paper 1's exact
+two-section, six-option structure with the source-based Section A's
+pre-release mechanism (3 of 5 sources released 1 February/1 July, no
+annotations, clean copy on the day) and 4/6/8/12 tariffs, versus
+Section B's 3/6/9/12 tariffs; that "reliability" is not a question type
+and usefulness's limitations half is explicitly not required; that
+marking uses levels of response (four levels, the fourth reserved for
+extended/12-mark questions) rather than points; Paper 2's exact
+"Societies in change" (3 options) and "Thematic studies" (2 options)
+section titles and their own 3/6/9/12 tariffs; the USA option's real
+title, "Life in the USA, 1920-1968"; and the qualification's three
+assessment objectives (AO1 37.5%, AO2 37.5%, AO3 25%) — confirming this
+board has no separate fourth "interpretations" objective, unlike AQA
+GCSE 8145 or Edexcel 4HI1 covered in D-180/D-182. No official past
+papers or specimen mark schemes exist yet for this not-yet-live
+qualification (first assessment May/June 2028), so all illustrative
+question wording in the rebuilt practice papers is original, matching
+only the specification's confirmed structural facts (sections, options,
+tariffs, pre-release mechanism, question-type restrictions, levels-based
+marking) — never a claimed official stem, since none exists to cite.
+
+**Full validation gate green end to end:** `astro check` (0 errors) ->
+`validate:academic` (all sub-validators PASS) -> `npm run build`
+(2,129 pages + Pagefind, clean, ~153s) ->
+`check-duplicate-resource-scope.mjs` (PASS) -> `test-i18n-routes.mjs`
+(PASS) -> `test-practice-analytics.mjs` (24/24) -> `npm audit` (0
+vulnerabilities) -> `coverage:academic-v2` (160/160) -> `audit:all`
+(12/12 sub-audits, 0 problems).
+
+**Next.** This closes the entire World History section of the audit
+(34 finding IDs total across D-179 through D-183: E534-E562,
+I222-I224, Q216-Q217). Whatever findings section follows World History
+in `docs/audit/2026-09-11-findings.md` has not yet been confirmed —
+check whether the document continues past E562/I222-I224/Q216-Q217
+before starting further work.

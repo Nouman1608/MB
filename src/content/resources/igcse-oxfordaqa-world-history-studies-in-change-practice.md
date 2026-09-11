@@ -7,77 +7,155 @@ topic: "Paper 2 – Studies in Change"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9245"]
-syllabusSeries: "Version 1.0"
+syllabusSeries: "Version 1.1"
 order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-studies-in-change-9245"
-description: "Original exam-style practice questions with full worked answers testing the transferable causation and 'how far' judgement skills Paper 2 assesses, applicable to any Section A society-in-change option and Section B thematic study."
+description: "Original exam-style practice questions with full worked answers on Paper 2's real two-section, four-question-per-section structure at 3, 6, 9 and 12 marks, applicable to any Section A society-in-change option and Section B thematic study."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
-> practice on this content. They are **not** reproduced past-paper questions,
-> and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. This is
-> a new qualification (first teaching September 2026, first examined May/June
-> 2028) with limited past papers, so use these alongside OxfordAQA's own
-> specimen assessment materials as the primary guide to question style. Paper 2
-> offers a genuine choice of options — one Section A society (Germany 1919–49,
-> Russia and the USSR 1914–53, or the USA 1919–68) and one Section B theme
-> (Technology and change, or Medicine and change) — so these questions
-> deliberately do not name a specific option. Apply each question to your own
-> centre's studied society and theme.
+> practice on this content. They are **not** reproduced past-paper questions
+> — this is a new qualification (first teaching September 2026, first
+> examined May/June 2028) with no live past papers yet to reproduce — and
+> examination boards hold copyright in their own mark schemes regardless.
+> Use these alongside OxfordAQA's own specimen assessment materials as the
+> primary guide to question style. Paper 2 offers a genuine choice of
+> options — one Section A society (Germany 1919–49, Russia and the USSR
+> 1914–53, or the USA 1920–68) and one Section B theme (Technology and
+> change, or Medicine and change) — so these questions deliberately do not
+> name a specific option. Apply each question to your own centre's studied
+> society and theme.
 
 Related: [Studies in Change study guide](/resources/igcse-oxfordaqa-world-history-studies-in-change/), [Studies in Change revision notes](/resources/igcse-oxfordaqa-world-history-studies-in-change-revision-notes/)
+
+Paper 2 has two sections, each with four questions at 3, 6, 9 and 12
+marks — the same tariff pattern on both sections. Section A tests your
+studied society-in-change option; Section B tests your studied thematic
+study. There is no third section.
 
 ---
 
 ## Section A (practise using your own studied society-in-change option)
 
-**1.** For your studied society-in-change option, identify **three** turning points across the period and explain why each represents a genuine turning point rather than an isolated event. **[9]**
+**1.** Describe **one** change to political, social or economic life in
+your studied society during the earlier part of the period. **[3]**
 
-**2.** Explain how **two** of these turning points are connected — how did the earlier one help cause or shape the later one? **[6]**
+**2.** Explain why one turning point (a change of regime, a war, or an
+economic crisis) led to change in your studied society. **[6]**
+
+**3.** Explain **two** reasons why a significant change occurred in your
+studied society during the period. **[9]**
+
+**4.** How far did life in your studied society change over the whole
+period? **[12]**
 
 ## Section B (practise using your own studied thematic study)
 
-**3.** For your studied thematic study, give **one** example each from an early period, a middle period, and a modern period, and explain what each shows about the pace of change over time. **[9]**
+**5.** Describe **one** development in your studied theme from an early
+period of the c800–present timeframe. **[3]**
 
-**4.** "How far was [a factor such as war, science and technology, government, or the role of an individual] responsible for change in your studied theme?" Write a full response to this question type, referencing your chosen factor and weighing it against **at least one** other factor. **[10]**
+**6.** Explain why one specific factor (for example, war, or an
+individual) led to a change in your studied theme at a particular
+moment. **[6]**
 
-## Section C (applies regardless of which options you study)
+**7.** Explain **two** reasons why the pace of change in your studied theme
+was faster in one period than in another. **[9]**
 
-**5.** A textbook states: *"Change in [a historical theme] over a long period was rapid and consistently positive."* Explain, using your own knowledge of your studied theme, why this statement is an oversimplification. **[8]**
-
-**6.** Explain the difference between "explaining what changed" and "explaining why it changed and how significant it was", using an example from your studied Section A society. **[6]**
+**8.** "How far was [a factor such as war, science and technology,
+government, or the role of an individual] responsible for change in your
+studied theme?" Write a full response to this question type, weighing
+your chosen factor against **at least one** other factor. **[12]**
 
 ---
 
 ## Answers (worked approach — marks depend on your studied options)
 
-**1.** A strong answer names **three specific moments** (such as a change of regime, a war, or an economic crisis) rather than describing the whole period generally [3]. For each, it explains **why that specific moment marks a genuine shift** — a measurable before-and-after change in political, social or economic life — rather than simply an event that happened during the period [3] [3]. A weaker answer lists events chronologically without explaining what makes each one a turning point specifically.
+This specification marks these questions with **levels of response**, not
+a tally of separate points — each level below describes the quality of
+answer it rewards.
 
-**2.** A strong answer selects **two turning points already identified** and traces a **specific causal or shaping link** between them — for example, how an economic crisis created the conditions that made a change of regime possible, or how a change of regime's early policies led directly to a later crisis [3] [3]. Simply stating that one happened before the other, without explaining the connection between them, does not answer the question.
+**1. (3 marks)** *Level 1 (1):* a change named only, e.g. "the government
+changed." *Level 2 (2–3):* the change identified **and** developed with a
+specific detail — a date, a named policy, or a concrete example of what
+was different before and after.
 
-**3.** A strong answer selects **one clear, specific example from each of three separated eras** within the theme's c800–present timeframe [1] [1] [1], and explains for each what it shows about the **pace of change at that point** — whether change was rapid, slow, driven by a single breakthrough, or the result of gradual accumulation [2] [2] [2]. A response using three examples clustered in the same era, rather than genuinely spread across the timeframe, does not demonstrate the required grasp of pace and significance over the long period.
+**2. (6 marks)** *Level 1 (1–2):* a general link asserted with no
+development. *Level 2 (3–4):* the turning point named and its effect
+briefly explained. *Level 3 (5–6):* a developed explanation using
+specific detail to trace **why** that moment, specifically, produced the
+change — not just that it happened at the same time.
 
-**4.** A strong answer **explains the named factor's specific contribution** to change in the studied theme, using a precise, dated example [3]. It then **weighs this against at least one other factor** (such as science and technology, government policy, or chance), explaining how that second factor also contributed, and considering whether it was more, less, or similarly significant [4]. It closes with a **supported judgement on how far the named factor explains the change overall**, rather than simply restating both factors without reaching a conclusion [3]. Answers that discuss only the named factor, without any weighing against an alternative, cannot access the top band regardless of how detailed the single-factor discussion is.
+**3. (9 marks)** *Level 1 (1–3):* one reason, stated generally. *Level 2
+(4–6):* two reasons identified, each with some development. *Level 3
+(7–9):* two reasons fully developed with specific supporting detail,
+each explaining a distinct mechanism by which the change came about.
 
-**5.** A strong answer challenges **both** halves of the claim using specific evidence from the studied theme: it identifies **at least one period of rapid change and at least one period of slow or stalled change**, showing the pace was not consistent [4], and identifies **at least one setback, reversal, or negative consequence** of a change usually presented as progress, showing it was not consistently positive [4]. A response that only disagrees with "rapid" or only disagrees with "positive," rather than addressing both claims in the statement, has not fully answered the question.
+**4. (12 marks)** *Level 1 (1–3):* a general assertion about change with
+little explanation. *Level 2 (4–6):* describes change in one or two
+areas of life with limited explanation of why or how much. *Level 3
+(7–9):* explains change across more than one area of life, with some
+judgement on extent. *Level 4 (10–12):* links political, social and
+economic change together across the whole period, weighs continuity
+against change, and reaches a sustained, supported judgement on how far
+life genuinely changed — rather than simply listing changes era by era.
 
-**6.** "Explaining what changed" is a **descriptive** account of the specific political, social or economic differences between two points in time [1]; "explaining why it changed and how significant it was" additionally requires identifying the **causes** that produced the change and making a **judgement about its importance** relative to other developments in the period [2] [2]. A strong answer illustrates this distinction with a specific example from the studied society — describing a policy or event, then explicitly separating what changed from why it happened and how significant the change was, rather than blending the three into a single narrative account [1].
+**5. (3 marks)** *Level 1 (1):* a development named only. *Level 2
+(2–3):* the development identified **and** developed with a specific,
+dated detail.
+
+**6. (6 marks)** *Level 1 (1–2):* a general link asserted with no
+development. *Level 2 (3–4):* the factor named and its effect briefly
+explained. *Level 3 (5–6):* a developed explanation connecting the named
+factor's specific mechanism to the specific change it produced, using a
+dated example.
+
+**7. (9 marks)** *Level 1 (1–3):* one reason, stated generally. *Level 2
+(4–6):* two reasons identified, each with some development. *Level 3
+(7–9):* two reasons fully developed with specific dated examples,
+explicitly comparing why change moved faster in one period than the
+other rather than just describing each period separately.
+
+**8. (12 marks)** *Level 1 (1–3):* a general assertion with little
+explanation, e.g. "war caused a lot of change." *Level 2 (4–6):*
+explains the named factor's contribution with a specific example, but
+with limited or no weighing against an alternative. *Level 3 (7–9):*
+explains the named factor **and** weighs it against at least one other
+factor, with some judgement. *Level 4 (10–12):* fully weighs the named
+factor against at least one alternative, using specific dated evidence
+for both, and reaches a sustained judgement on how far the named factor
+explains the change overall — the judgement, not the list of factors,
+is what the top level rewards.
 
 ---
 
 ## Where marks are usually lost
 
-- Listing events in Section A without explaining why each one represents a genuine turning point.
-- Choosing Section B examples clustered in one era instead of spread across the full timeframe.
-- Discussing only the named factor in a "how far" question, without weighing it against an alternative.
-- Agreeing or disagreeing with only one half of a two-part claim about pace and positivity of change.
-- Blending description, causation and significance together instead of addressing each explicitly when a question asks for more than a description.
+- Naming a change, turning point or factor without developing it with
+  specific, dated detail — this specification's levels reward
+  development, not just identification.
+- Giving only one reason on the 9-mark questions, which both require two.
+- Discussing only the named factor on the 12-mark "how far" question,
+  without weighing it against an alternative.
+- Treating a society-in-change answer as a list of separate events
+  instead of a connected account of why change happened and how
+  significant it was.
+- Covering the whole c800–present timeframe evenly in Section B rather
+  than selecting well-spread, well-evidenced examples relevant to the
+  question asked.
 
 ## Approaching Paper 2 regardless of your specific options
 
-Because Paper 2 offers a genuine choice at both Section A and Section B, the transferable skills these questions test — building a connected turning-point narrative, sampling a long timeframe with well-spread evidence, and structuring a weighed "how far" judgement — matter more to your revision than which specific society or theme your centre has taught. Practise applying this page's question structures directly to your own studied content, and revisit the [Studies in Change revision notes](/resources/igcse-oxfordaqa-world-history-studies-in-change-revision-notes/) for the recommended turning-point and factor-weighing templates to prepare in advance.
+Because Paper 2 offers a genuine choice at both Section A and Section B,
+the transferable skills these questions test — developing a point with
+specific detail, explaining two reasons in full rather than naming
+several thinly, and structuring a weighed "how far" judgement — matter
+more to your revision than which specific society or theme your centre
+has taught. Practise applying this page's question structures directly
+to your own studied content, and revisit the [Studies in Change revision
+notes](/resources/igcse-oxfordaqa-world-history-studies-in-change-revision-notes/)
+for the recommended turning-point and factor-weighing templates to
+prepare in advance.

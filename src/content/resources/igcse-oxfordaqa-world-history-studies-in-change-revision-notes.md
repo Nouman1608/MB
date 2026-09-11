@@ -7,7 +7,7 @@ topic: "Paper 2 – Studies in Change"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9245"]
-syllabusSeries: "Version 1.0"
+syllabusSeries: "Version 1.1"
 order: 2
 syllabusTopics:
   - qualification: "igcse"
@@ -24,7 +24,7 @@ Condensed for the final weeks. For the full explanation, use the
 ## Confirm your two options first
 
 Paper 2 pairs one Section A society-in-change option (Germany 1919–49,
-Russia and the USSR 1914–53, or the USA 1919–68) with one Section B
+Russia and the USSR 1914–53, or the USA 1920–68) with one Section B
 thematic study (Technology and change, or Medicine and change, both
 c800–present). Confirm both before revising further — generic history
 revision material found elsewhere will not necessarily match either

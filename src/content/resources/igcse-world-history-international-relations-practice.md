@@ -7,69 +7,193 @@ topic: "Paper 1 – International Relations Depth Studies"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9245"]
-syllabusSeries: "Version 1.0"
+syllabusSeries: "Version 1.1"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-international-relations-depth-studies-9245"
-description: "Original exam-style practice questions with full worked answers on the Treaty of Versailles, the League of Nations and the origins of the Cold War."
+description: "Original exam-style practice questions with full worked answers on Paper 1's real two-section structure -- Section A's source-based Peacemaking and League of Nations option, and Section B's knowledge-based Hitler's foreign policy option -- for OxfordAQA International GCSE History (9245)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 ---
 > **These are original questions written for Marlbridge**, for revision and
-> practice on this content. They are **not** reproduced past-paper questions,
-> and they do **not** replicate the exam's exact structure, question count or
-> mark tariffs — examination boards hold copyright in their own papers. Use
-> these alongside the official past papers available free from your board.
+> practice on this content. They are **not** reproduced past-paper questions
+> — this is a new qualification (first teaching September 2026, first
+> examined May/June 2028) with no live past papers yet to reproduce — and
+> examination boards hold copyright in their own mark schemes regardless.
+> Use these alongside OxfordAQA's own specimen assessment materials as the
+> primary guide to question style.
 
 Related: [International Relations Depth Studies revision notes](/resources/igcse-world-history-international-relations-revision-notes/)
 
+Paper 1 has two sections. **Section A** is entirely source-based (4, 6, 8
+and 12 marks) and offers a choice of Peacemaking and the League of Nations,
+c1919–1939, or Crises of the Cold War, 1960–1975. **Section B** is
+knowledge-based (3, 6, 9 and 12 marks) and offers a choice of four options.
+The questions below illustrate both sections using the Peacemaking and
+League of Nations option for Section A and the Hitler's foreign policy
+option for Section B — apply the same method to whichever options your
+centre has taught.
+
 ---
 
-## Section A
+## Section A — Peacemaking and the League of Nations (illustrative sources)
 
-**1.** Name the "Big Three" at Versailles and state each one's main aim. **[6]**
+**Source A**: From a British newspaper editorial, June 1919, on the signing
+of the Treaty of Versailles.
 
-**2.** State **four** terms of the Treaty of Versailles. **[4]**
+> "Germany is made to sign, but not to negotiate. A peace imposed without
+> discussion may satisfy our demand for justice today; whether it secures
+> a lasting peace for our children is another question entirely."
 
-## Section B
+**Source B**: From a League of Nations Council report on the situation in
+Manchuria, October 1932.
 
-**3.** Explain why the Treaty of Versailles was so resented in Germany, giving **three** reasons. **[9]**
+> "The Council notes that Japanese forces remain in occupation of the
+> territory. Members are reminded that the Covenant obliges all signatories
+> to respect the territorial integrity of fellow members, but the Council
+> possesses no armed force of its own with which to compel compliance."
 
-**4.** Explain **three** reasons why the League of Nations failed in the 1930s. **[9]**
+**Source C**: From a private letter written by a League of Nations official
+to a colleague, December 1935, on the crisis over Abyssinia.
 
-**5.** Explain how the following contributed to the origins of the Cold War: the Yalta and Potsdam conferences, the Truman Doctrine and Marshall Plan, the Berlin Blockade. **[9]**
+> "We drew up sanctions against Italy with one hand and, I am told, our own
+> government was negotiating to hand Mussolini most of what he wanted with
+> the other. I no longer know which policy we are actually pursuing."
 
-**6.** "The Cold War was caused mainly by Soviet expansionism." How far do you agree? **[10]**
+**1.** What can you learn from Source A about British attitudes to the
+Treaty of Versailles? Use Source A to explain your answer. **[4]**
+
+**2.** Why was Source B produced in October 1932? Use the source's content
+and your own knowledge to explain your answer. **[6]**
+
+**3.** How useful is Source C for understanding why the League of Nations
+struggled to respond to aggression in the 1930s? Use the source's content
+and/or provenance and your own contextual knowledge to explain your
+answer. **[8]**
+
+**4.** How far do Sources A, B and C support the view that the League of
+Nations was doomed to fail from the moment it was created? Use the sources
+and your own knowledge to explain your answer. **[12]**
+
+## Section B — Hitler's foreign policy, 1933–1941 (illustrative)
+
+**5.** Describe one way Hitler broke the terms of the Treaty of Versailles
+between 1933 and 1936. **[3]**
+
+**6.** Explain why Britain and France did not resist Germany's
+remilitarisation of the Rhineland in 1936. **[6]**
+
+**7.** Explain **two** reasons why Britain pursued a policy of appeasement
+towards Germany in the 1930s. **[9]**
+
+**8.** How far was Hitler's foreign policy responsible for the outbreak of
+war in September 1939? **[12]**
 
 ---
 
 ## Answers
 
-**1. Clemenceau (France)** — to **cripple Germany permanently**, having seen France invaded twice, seeking security, reparations and territory [1] [1]. **Lloyd George (Britain)** — a **middle course**: to reduce the German navy and take colonies, but to preserve Germany as a trading partner and a bulwark against Bolshevism [1] [1]. **Wilson (USA)** — a **just and lasting peace** based on the Fourteen Points, self-determination and a League of Nations [1] [1].
+This specification marks these questions with **levels of response**, not
+a tally of separate points — each level below describes the quality of
+answer it rewards, not a checklist to total up.
 
-**2.** Any four: the **war guilt clause (Article 231)** [1]; **reparations of £6600 million** [1]; the **army limited to 100 000 men, no air force, no submarines and six battleships** [1]; the **Rhineland demilitarised** [1]; **loss of territory** — Alsace-Lorraine to France, the Polish Corridor, all colonies as mandates [1]; **Anschluss with Austria forbidden** [1].
+**1. (4 marks)** *Level 1 (1–2 marks):* a general point lifted from the
+source, e.g. that the writer thought the treaty was unfair. *Level 2
+(3–4 marks):* a specific, developed point using precise source detail —
+for example, that the phrase "made to sign, but not to negotiate" shows
+the writer saw the treaty as dictated rather than agreed, and that the
+final sentence shows doubt about whether it would actually last.
 
-**3.** **The war guilt clause** was seen as a **moral humiliation** [1]; Germans believed the war had been a defensive one and that guilt was collective across Europe [1], and it was resented all the more because it was the legal basis for reparations [1].
-**Reparations** were regarded as **impossible to pay** and as designed to destroy the German economy for a generation [1]; the 1923 Ruhr occupation and hyperinflation appeared to confirm this [1] [1].
-**The "Diktat"** — Germany was **not permitted to negotiate** and was presented with the terms to sign [1]; combined with the **"stab in the back" myth**, this allowed nationalists to argue that the army had been undefeated and the Republic had betrayed the nation [1] [1]. Territorial losses also left **millions of Germans under foreign rule**, contradicting the self-determination applied elsewhere [1].
+**2. (6 marks)** *Level 1 (1–2):* a general comment that the source was
+written because of the Manchuria crisis. *Level 2 (3–4):* links the
+source's content to its purpose — the Council is recording the situation
+and reminding members of their obligations. *Level 3 (5–6):* a developed
+answer connecting content, provenance and context: an official League
+report written in October 1932, during the Manchurian crisis, produced to
+place Japan's occupation on the record while implicitly admitting — "no
+armed force of its own" — that the League could do nothing to enforce
+compliance, which is exactly the structural weakness that let the crisis
+continue.
 
-**4.** Any three, 3 marks each: **Absent great powers** — the **USA never joined**, and Germany and the USSR were initially excluded [1]; the League therefore lacked the economic and military weight to enforce its decisions [1] [1]. **No armed forces of its own** — it depended on member states supplying troops, which they were unwilling to do [1] [1] [1]. **Economic sanctions were ineffective** — without American participation, sanctioned states could trade with the USA, and members feared damaging their own economies during the Depression [1] [1] [1]. **Self-interest of Britain and France** — over Manchuria and especially Abyssinia, the **Hoare-Laval Pact revealed they would deal privately with an aggressor** to protect their own interests, destroying the League's credibility [1] [1] [1]. **Slow decision-making** — unanimity was required and the Assembly met only once a year [1] [1] [1].
+**3. (8 marks)** *Level 1 (1–3):* content only, described generally — the
+letter shows the League was inconsistent. *Level 2 (4–5):* content and
+provenance considered together — a private letter between officials is
+candid in a way a public statement would not be, and its date (December
+1935) places it during the Hoare-Laval Pact controversy. *Level 3 (6–8):*
+content, provenance and contextual knowledge combined into a developed
+judgement — because the writer is an insider with no reason to flatter
+their own organisation, and because own knowledge confirms Britain and
+France really were secretly negotiating with Mussolini at this time, the
+source is highly useful for showing that the League's own leading members
+undermined its sanctions policy from within, not only that outsiders
+thought this was happening.
 
-**5. Yalta and Potsdam** — at **Yalta (February 1945)** the Allies agreed the division of Germany and free elections in Eastern Europe, but the wording was ambiguous [1]. By **Potsdam (July 1945)** Roosevelt had died, the war in Europe was over and the atomic bomb had been tested; **Truman's harder line and Stalin's presence in Eastern Europe made the disagreements explicit** [1] [1].
-**The Truman Doctrine and Marshall Plan (1947)** — Truman committed the USA to **containment**, supporting free peoples resisting subjugation [1]; Marshall Aid offered **economic reconstruction**, which Stalin saw as **"dollar imperialism" designed to buy Western influence** and forbade the satellite states to accept [1], hardening the division of Europe into two blocs [1].
-**The Berlin Blockade (1948–49)** — Stalin cut the land routes to West Berlin in response to the introduction of the Deutschmark [1]; the **Allied airlift** kept the city supplied for eleven months [1], and the outcome was the **formal division of Germany into two states and the creation of NATO** [1].
+**4. (12 marks)** *Level 1 (1–3):* a general assertion that the League was
+bound to fail, with little direct use of the sources. *Level 2 (4–6):*
+some use of one or two sources, limited own knowledge. *Level 3 (7–9):* a
+developed answer using all three sources with some own knowledge and an
+emerging judgement. *Level 4 (10–12):* sources and own knowledge fully
+integrated into a sustained judgement on "how far" — for example, arguing
+that Source A shows doubt was present even at the treaty's creation in
+1919, Sources B and C show the structural weaknesses (no army, unanimity,
+members' own self-interest) becoming fatal specifically in the 1930s
+crises, and own knowledge of the League's 1920s successes (Åland Islands,
+Upper Silesia) shows the organisation was not doomed from day one so much
+as unable to survive determined aggression by major powers once it
+arrived.
 
-**6. Agreeing:** Stalin **installed communist governments across Eastern Europe** despite the Yalta commitment to free elections, notably in Poland, Hungary and Czechoslovakia [1] [1]; the **1948 Prague coup** removed the last non-communist government by force [1]; the **Berlin Blockade** was an attempt to force the Western Allies out of the city [1].
-**Disagreeing:** Soviet actions can be read as **defensive**: having been invaded through Eastern Europe twice, Stalin sought a **buffer zone**, and the USSR had lost some 27 million people [1] [1]. **American actions were also expansionist** in economic terms — the Marshall Plan opened European markets to US goods [1] — and the **atomic bomb, used without warning the USSR, appeared threatening** [1]. Some historians argue the Cold War arose from **mutual misperception**, each side reading the other's defensive measures as aggression [1]. **Ideological incompatibility** made conflict likely regardless of individual decisions [1].
-**Judgement:** Soviet expansion in Eastern Europe was the **immediate trigger, but it was driven by security concerns as much as ideology** [1] [1]. The Cold War is best explained as the interaction of Soviet security policy, American economic and strategic interests and deep ideological mistrust, rather than by the actions of one side alone [1] [1].
+**5. (3 marks)** *Level 1 (1):* a named action only, e.g. "Hitler
+introduced conscription." *Level 2 (2–3):* the point developed with a
+specific date and detail — Germany reintroduced conscription in 1935,
+building an army far larger than the 100,000 men the Treaty of Versailles
+allowed, in open breach of its terms.
+
+**6. (6 marks)** *Level 1 (1–2):* a general reason with no development,
+e.g. "they were afraid of another war." *Level 2 (3–4):* one reason
+explained with some support. *Level 3 (5–6):* a developed explanation
+with specific supporting detail throughout — for example, that Britain
+was militarily unprepared and did not want war over territory many in
+Britain believed was "only Germany's own back yard," so Hitler correctly
+judged that a swift, unopposed move carried little real risk.
+
+**7. (9 marks)** *Level 1 (1–3):* one reason, stated generally. *Level 2
+(4–6):* two reasons identified, each with some development. *Level 3
+(7–9):* two reasons fully developed with specific supporting detail and
+a clear explanation of how each contributed to the policy — for example,
+that Britain was militarily unprepared and rearming, so avoiding
+war bought time to build up the armed forces, and that many in Britain
+believed the Treaty of Versailles had been unjust to Germany in the first
+place, so reversing some of its terms did not feel like a concession
+worth fighting over.
+
+**8. (12 marks)** *Level 1 (1–3):* a general assertion with little
+explanation, e.g. "Hitler wanted war." *Level 2 (4–6):* explains one or
+two factors — Hitler's own aims, or appeasement — with limited linking
+between them. *Level 3 (7–9):* explains multiple factors (Hitler's aims,
+appeasement, the Nazi-Soviet Pact) with some linking between them. *Level
+4 (10–12):* links multiple factors together to evaluate their relative
+importance and reaches a sustained judgement — for example, arguing that
+Hitler's own expansionist aims were the underlying cause, but that
+appeasement is what let each individual step (Rhineland, Anschluss,
+Sudetenland) succeed without cost, so that by the time Britain and France
+finally drew a line over Poland, Hitler had already been convinced by
+repeated experience that they would back down again, making the
+Nazi-Soviet Pact the final, calculated removal of the one risk — a
+two-front war — that might otherwise have given him pause.
 
 ---
 
 ## Where marks are usually lost
 
-- Listing Versailles terms without explaining German resentment.
-- Blaming the League's failure solely on American absence.
-- Describing Cold War events without linking them to causation.
-- Answering "how far" with a one-sided argument.
+- In Section A, describing what a source says without using its
+  provenance or your own contextual knowledge to explain *why* it is
+  useful for the stated purpose.
+- Treating Question 3's usefulness question as a request to list the
+  source's limitations — the board does not require this.
+- In Section B, naming a factor or reason without developing it with
+  specific dates, figures or named events.
+- Giving only one reason on Question 7, which requires two.
+- Writing the 12-mark essays as a list of factors rather than a
+  sustained judgement that links and weighs them against each other.

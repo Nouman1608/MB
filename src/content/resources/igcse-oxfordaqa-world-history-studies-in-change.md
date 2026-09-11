@@ -7,7 +7,7 @@ topic: "Paper 2 – Studies in Change"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9245"]
-syllabusSeries: "Version 1.0"
+syllabusSeries: "Version 1.1"
 order: 2
 syllabusTopics:
   - qualification: "igcse"
@@ -43,7 +43,7 @@ Section A — Societies in change (choose 1 of 3):
 
 - Life in Germany, 1919–1949
 - Life in Russia and the USSR, 1914–1953
-- Life in the USA, 1919–1968
+- Life in the USA, 1920–1968
 
 Section B — Thematic studies in change (choose 1 of 2):
 

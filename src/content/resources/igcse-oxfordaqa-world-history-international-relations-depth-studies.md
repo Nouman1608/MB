@@ -7,7 +7,7 @@ topic: "Paper 1 – International Relations Depth Studies"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9245"]
-syllabusSeries: "Version 1.0"
+syllabusSeries: "Version 1.1"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -25,21 +25,30 @@ May/June 2028.
 
 ## Where this fits in 9245
 
-Paper 1 focuses on international relations through depth studies,
-examining key periods and events in detail. It pairs with Paper 2
-Studies in Change, which instead traces change over a longer historical
-period. Specific named depth-study options within Paper 1 are set by
-OxfordAQA and are confirmed closer to first teaching.
+Paper 1 focuses on international relations, split into a source-based
+section and a knowledge-based section. It pairs with Paper 2 Societies
+in Change, which instead traces change over a longer historical
+period. Paper 1 names six options in total, and a candidate studies
+exactly two: one from a choice of two in Section A, and one from a
+choice of four in Section B — there is no prohibited combination.
 
 ## Syllabus coverage
 
 **OXFORDAQA INTERNATIONAL GCSE HISTORY (9245) — PAPER 1 INTERNATIONAL
 RELATIONS DEPTH STUDIES**
 
-Paper 1 assesses one or more depth studies in international relations,
-requiring detailed knowledge of a specific historical period or set of
-events involving relations between nations, along with the causes,
-course and consequences of the events studied.
+**Section A (source-based, choose 1 of 2):**
+- Peacemaking and the League of Nations, c1919-1939
+- Crises of the Cold War, 1960-1975
+
+**Section B (knowledge-based, choose 1 of 4):**
+- The origins of the First World War, c1890-1915
+- Hitler's foreign policy and the origins of the Second World War, 1933-1941
+- The origins and development of the Cold War, 1945-1960
+- Détente and the collapse of communism, c1969-1991
+
+Section A carries all of this paper's source-handling marks; Section B
+is assessed on knowledge and explanation alone.
 
 ## How to approach it
 
@@ -50,19 +59,37 @@ relying on general historical background. International relations
 topics typically ask candidates to weigh multiple causes or
 consequences against each other, so practising structured, evaluative
 answers (rather than narrative retelling) is valuable preparation.
-As this is a new qualification for first teaching September 2026,
-check with your centre or OxfordAQA directly for the confirmed depth
-study options and any updated guidance as materials are published
-ahead of first teaching.
+Confirm with your centre which option they teach in each section, since
+only one of the two Section A options and one of the four Section B
+options will apply to you.
 
 ## Official syllabus
 
 OxfordAQA International GCSE History (9245) specification PDF —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/02/oxfordaqa-international-gcse-history-specification.pdf).
 
-## What a depth study requires
+## Section A's pre-released sources
 
-Depth studies test **explanation and judgement**, not recall of a narrative. The recurring question types are: explain why something happened, assess how far one factor was responsible, and evaluate the usefulness or reliability of a source. Chronology matters only insofar as it supports causation.
+Section A is entirely source-based and carries all of this paper's
+source-handling marks — a quarter of the whole qualification. A
+booklet of **three** of the five sources is released in advance: on
+1 February for the May/June series, or 1 July for the
+October/November series. The other two sources are unseen and appear
+only in the exam. No notes or annotations may be brought into the
+exam; a clean copy of all five sources is provided on the day, so
+preparation means building familiarity and contextual knowledge, not
+memorising annotations you cannot bring in.
+
+Section A's questions test **content, provenance and usefulness** —
+not reliability, which is not a question type on this paper. The
+board's own guidance is explicit that evaluating a source's
+*limitations* (how it is *not* useful) is not required; the task is
+to explain how the source's content and/or provenance, combined with
+your own contextual knowledge, make it useful for a stated purpose.
+
+## What Section B requires
+
+Section B tests **explanation and judgement**, not recall of a narrative. The recurring question types are: explain why something happened, and assess how far one factor was responsible. Chronology matters only insofar as it supports causation.
 
 Two habits raise marks reliably: always support a claim with **specific detail** — a date, a name, a figure, a treaty clause — and always **weigh** factors against one another rather than listing them.
 
