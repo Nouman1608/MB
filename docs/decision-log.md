@@ -8700,10 +8700,11 @@ not yet started.
 ## D-179 - World History cluster: Cambridge O-Level 2147 / IGCSE 0470 / A-Level 9489 (2026-09-11)
 
 Fixed the full Cambridge-board World History sub-cluster of the
-2026-09-11 audit: 34 findings across O-Level History (2147), IGCSE
+2026-09-11 audit: 13 finding IDs across O-Level History (2147), IGCSE
 History (0470) and AS & A Level History (9489) — E534 through E542,
 I223, I224, Q216 and Q217. This is the first of several sub-batches
-covering the World History section (34 findings total); the remaining
+covering the World History section (34 finding IDs total: E534-E562,
+I222-I224, Q216-Q217); the remaining
 AQA GCSE 8145, IB DP History, Edexcel IGCSE 4HI1 and OxfordAQA IGCSE
 9245 batches are not yet started.
 
