@@ -9204,3 +9204,53 @@ I222-I224, Q216-Q217). Whatever findings section follows World History
 in `docs/audit/2026-09-11-findings.md` has not yet been confirmed —
 check whether the document continues past E562/I222-I224/Q216-Q217
 before starting further work.
+
+
+## D-184 — Full closure confirmed: `docs/audit/2026-09-11-findings.md` (2026-09-11)
+
+**Verification-only entry — no content files changed.** D-183 closed the World History
+section, the last of this findings document's 12 sections in file order. Before treating the
+document as fully processed, every other section was independently re-checked against
+`docs/decision-log.md` and `C:\Users\Nouman\marlbridge-fix-ledger.md` rather than assumed, since
+the last "Next" note in D-183 explicitly flagged this as unconfirmed. Result: **every section of
+`docs/audit/2026-09-11-findings.md` is closed.** 179 finding IDs total, mapped below to the exact
+decision(s) that closed each section:
+
+- **corpus-wide / no single file** (12) — D-165 (E568), D-166 (E569/Q204), D-167 (E491, E570,
+  E571, I212, U22, U21/U24).
+- **accounting; business; commerce; law; sociology** (1) — D-167 (E491, shared with corpus-wide
+  above).
+- **business** (3) — D-168 (E489, E492, E494).
+- **chemistry** (2) — D-168 (E486, E487).
+- **computer-science** (16) — D-169 (E496, E497, E498, E499, E500, E501, E502, E503, E504, E505,
+  E506, I218, I219, Q206, Q207, Q208).
+- **economics** (4) — D-170 (E488, E493, Q204, Q205).
+- **english** (1) — D-168 (I226).
+- **english-literature** (58) — D-172 (AQA, 14), D-173 (Cambridge, 10), D-174 (Edexcel, 19),
+  D-175 (OxfordAQA, 15).
+- **geography** (11) — D-171 (E563-E567, I225, Q218-Q221, U23).
+- **physics** (1) — D-168 (E485).
+- **sociology** (36) — D-176 (Cambridge, 14), D-177 (AQA, 9), D-178 (OxfordAQA, 13).
+- **world-history** (34) — D-179 (Cambridge, 13), D-180 (AQA GCSE 8145), D-181 (IB DP History),
+  D-182 (Edexcel IGCSE 4HI1), D-183 (OxfordAQA IGCSE 9245).
+
+**How this was checked.** `docs/audit/2026-09-11-findings.md`'s own section headers were listed
+in full (`Select-String -Pattern '^## '`) and cross-referenced one by one against
+`marlbridge-fix-ledger.md`'s per-decision breakdowns, rather than trusting the file's position in
+the document (world-history is simply last alphabetically, not necessarily last-worked) or the
+running "findings fixed" counter, which counts cumulative project history rather than this one
+document specifically. Every section header from the findings file has a matching closure entry
+above; nothing in the document is unaccounted for.
+
+**What this means going forward.** There is currently no further work queued against this
+findings document. `docs/audit/README.md` describes the drop-folder convention: the external
+auditor drops each new dated handoff file directly into `docs/audit/`, and a file stays in place
+once fully processed as a historical record — the decision log remains the authoritative account
+of what was done. The next unit of work for this project is whatever findings file, if any,
+appears next in `docs/audit/` (currently only `2026-09-11-findings.md` exists, now fully closed)
+— this should be checked for at the start of the next session before assuming there is nothing
+left to do.
+
+**No validation gate run for this entry** — no source, content, or schema files changed; this is
+a documentation-only cross-check of prior work already validated and committed under its own
+decision entries (D-165 through D-183).
