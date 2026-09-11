@@ -1,26 +1,32 @@
 ---
-title: "A Level History: Modern Europe 1750-1921 — Revision Notes"
+title: "A Level History: Modern Europe 1774-1924 — Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["a-levels"]
-topic: "Paper 1 and Paper 2 – European Option: Modern Europe, 1750–1921"
+topic: "Paper 1 and Paper 2 – European Option: Modern Europe, 1774–1924"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9489"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 order: 1
 stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "european-option-modern-europe-9489"
-description: "Condensed recall notes on the French Revolution, Napoleon, industrialisation, unification and the First World War for Cambridge AS & A Level History 9489."
+description: "Condensed recall notes on the French Revolution, Napoleon, German unification, and Russia from autocracy to revolution for Cambridge AS & A Level History 9489, 2027-2029 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 ---
 
 Condensed for the final weeks. For the full explanation, use the
-[Modern Europe 1750–1921 study guide](/resources/a-level-world-history-modern-europe-1750-1921/).
+[Modern Europe 1774–1924 study guide](/resources/a-level-world-history-modern-europe-1750-1921/).
+This 2027-2029 series syllabus has **three** topics: France, 1774-1814;
+Liberalism and nationalism in Germany, 1815-71; and Russia from
+autocracy to revolution, 1881-1924. It no longer includes a topic on
+the Industrial Revolution in Britain, and it has never included Italian
+unification or the origins of the First World War — both of those
+belong to other components.
 
 ## The French Revolution
 
@@ -43,29 +49,49 @@ Key events: Tennis Court Oath, storming of the Bastille (July 1789), Declaration
 
 **Fall:** the Continental System failed and alienated allies; the Peninsular War drained resources; the Russian campaign of 1812 destroyed the Grande Armée; and nationalism, which he had helped awaken, turned against him.
 
-## Industrialisation
-
-Causes: agricultural improvement releasing labour, population growth, capital from trade, coal and iron reserves, transport improvements, and technological innovation.
-
-Consequences: urbanisation, factory discipline, the rise of an industrial working class and middle class, poor urban living conditions, child labour, and eventually trade unions and reform legislation.
-
-**Comparative point worth having ready:** Britain industrialised first and gradually, driven by private capital; Germany industrialised later, faster, and with far greater **state direction** and bank involvement — which is why German heavy industry could overtake Britain's within a generation.
-
-## Unification
-
-**Italy (1859–70):** obstacles were Austrian control, the Papal States, regionalism and poor communications. Cavour supplied diplomacy and the French alliance; Garibaldi supplied the south; Mazzini supplied the ideology.
+## German unification, 1815-71
 
 **Germany (1864–71):** Bismarck's *Realpolitik*. Three deliberately limited wars — Denmark, Austria, France — each fought only after the opponent had been **diplomatically isolated**, and each ended once its objective was secured. The Ems Telegram provoked France into declaring war, so the southern German states joined Prussia against an aggressor rather than being absorbed.
 
 The assessment question is usually whether unification was Bismarck's design or the product of forces already in motion — economic integration through the *Zollverein*, the growth of nationalism, and Austrian weakness. Argue both, then judge.
 
-## Towards 1914
+(This topic is Germany only. Italian unification is not part of this option — it is core content of Cambridge's lower-level qualifications, IGCSE and O Level, not this A Level option.)
 
-**Long-term causes — MANIA:** Militarism (the Anglo-German naval race), Alliances (Triple Alliance and Triple Entente), Nationalism (Balkan Slav nationalism, French revanchism), Imperialism (the Moroccan crises), Assassination (Sarajevo, June 1914).
+## Russia from autocracy to revolution, 1881-1924
 
-**July Crisis:** assassination → Austrian ultimatum backed by Germany's "blank cheque" → Serbia's near-complete acceptance → Austrian declaration → Russian mobilisation → German mobilisation and the **Schlieffen Plan** → invasion of Belgium → British entry.
+This topic runs far longer than "the Russian Revolution" alone — from
+the assassination of **Alexander II** in 1881 through to **Lenin's**
+death in 1924.
 
-**Why it escalated so fast:** the Schlieffen Plan required Germany to defeat France quickly before turning east, so Russian mobilisation removed the diplomatic window almost entirely. Military timetables, not diplomacy, set the pace.
+**Strains on autocracy from 1881:** Alexander III's reaction —
+repression, Russification, and reversal of his father's reforms;
+Nicholas II's continuation of autocratic rule despite growing industrial
+unrest, peasant land hunger, and the rise of revolutionary and
+liberal opposition movements.
+
+**1905:** Bloody Sunday, the wider 1905 Revolution, and the limited
+concessions of the October Manifesto (the Duma) — a revolution that
+failed to remove the Tsar, but exposed the regime's fragility.
+**Stolypin's** land reforms attempted to build a loyal peasant
+landowning class in response.
+
+**War and collapse:** the strain the First World War placed on the
+Russian economy, army morale and the legitimacy of the Tsar, leading to
+the **February 1917 Revolution** and the abdication of Nicholas II.
+
+**1917 and after:** the failures of the Provisional Government
+(continuing the war, delaying land reform) that allowed the
+**Bolsheviks** to seize power in **October 1917**; the Civil War
+(1918-21) between the Bolshevik Reds and the counter-revolutionary
+Whites; **War Communism** and then the **New Economic Policy** (1921)
+as contrasting approaches to consolidating Bolshevik economic control;
+and the political consolidation of one-party rule through to Lenin's
+death in 1924.
+
+A strong answer treats 1881-1924 as one connected chain — the strains
+visible from 1881, the failed 1905 revolution, war-driven collapse in
+1917, and Bolshevik consolidation — rather than starting the story only
+in 1917.
 
 ## Writing the essay
 
@@ -84,15 +110,15 @@ Precision is what separates bands. "Bismarck fought several wars" is weak; "Bism
 - Vague evidence with no dates, names or figures.
 - Ignoring the counter-argument.
 - A conclusion that summarises rather than judges.
-- Treating the assassination as the sole cause of 1914.
+- Starting the Russia topic in 1917 rather than 1881, and so missing the strains on autocracy the syllabus expects.
 - Answering the question you prepared rather than the one set.
 
 ## Self-test
 
 1. Why did the financial crisis matter more than the other long-term causes of 1789?
 2. Give two pieces of evidence that Napoleon was heir to the Revolution and two that he betrayed it.
-3. What distinguished German industrialisation from British?
-4. Describe Bismarck's method in three points.
-5. Why did the July Crisis escalate so quickly?
+3. Describe Bismarck's method in three points.
+4. What event in 1881 opens this option's Russia topic, and why does it matter?
+5. Name the two contrasting Bolshevik economic policies of the Civil War and post-Civil War periods.
 
-**Answers:** 1. Bankruptcy forced the calling of the Estates-General in 1789, which gave the Third Estate the platform that converted long-standing grievances into a constitutional revolution. 2. Heir: legal equality in the Napoleonic Code and careers open to talent. Betrayer: press censorship and the creation of a new hereditary nobility with his coronation as Emperor. 3. It came later, moved faster, and was far more state-directed and bank-financed, which allowed German heavy industry to overtake Britain's within a generation. 4. Isolate each opponent diplomatically first; fight limited wars for defined objectives; stop once the objective is achieved rather than pursuing total victory. 5. The Schlieffen Plan required Germany to attack France immediately once Russia mobilised, so military timetables overrode diplomacy and left no time for negotiation.
+**Answers:** 1. Bankruptcy forced the calling of the Estates-General in 1789, which gave the Third Estate the platform that converted long-standing grievances into a constitutional revolution. 2. Heir: legal equality in the Napoleonic Code and careers open to talent. Betrayer: press censorship and the creation of a new hereditary nobility with his coronation as Emperor. 3. Isolate each opponent diplomatically first; fight limited wars for defined objectives; stop once the objective is achieved rather than pursuing total victory. 4. The assassination of Alexander II, which triggered his son Alexander III's turn to repression and Russification, setting the tone for the autocracy's response to unrest through to 1917. 5. War Communism (1918-21) and the New Economic Policy (from 1921).

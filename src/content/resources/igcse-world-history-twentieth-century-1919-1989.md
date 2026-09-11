@@ -1,9 +1,9 @@
 ---
-title: "IGCSE World History: The Twentieth Century, 1919-1989 (Cambridge 0470)"
+title: "IGCSE World History: International Relations since 1919 (Cambridge 0470)"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]
-topic: "Core Content – Option B: The Twentieth Century, 1919–1989"
+topic: "Core Content – Option B: International Relations since 1919"
 boards: ["cambridge"]
 qualifications: ["igcse"]
 syllabusCodes: ["0470"]
@@ -18,7 +18,7 @@ publishedDate: 2026-09-01
 featured: false
 ---
 
-This guide covers **Core Content Option B: The Twentieth Century, 1919–1989**, for Cambridge IGCSE
+This guide covers **Core Content Option B: International Relations since 1919**, for Cambridge IGCSE
 World History 0470, 2024–2026 series. All candidates study Core content in either Option A (The
 Nineteenth Century, 1848–1914) or Option B, each built around six key questions, plus at least one of
 five named Depth studies.
@@ -33,7 +33,7 @@ candidate takes, plus either Component 3 Coursework or Paper 4.
 
 ## Syllabus coverage
 
-**CAMBRIDGE IGCSE WORLD HISTORY 0470 — CORE CONTENT OPTION B: THE TWENTIETH CENTURY, 1919–1989**
+**CAMBRIDGE IGCSE WORLD HISTORY 0470 — CORE CONTENT OPTION B: INTERNATIONAL RELATIONS SINCE 1919**
 
 1. Was the Treaty of Versailles fair? — the roles of Wilson, Clemenceau and Lloyd George; the terms of
    the Treaty; its social, economic and political impact on Germany to the end of 1923; contemporary
@@ -68,11 +68,16 @@ harsh it would destabilise Europe. The resulting Treaty's terms and their impact
 storing up future problems.
 
 The **League of Nations**, created partly to enforce the new settlement, is assessed on its structural
-weaknesses (limited membership, no standing army) against its actual record: successes such as
-resolving the Vilna and Aaland Islands disputes in the early 1920s, its humanitarian work on refugees
-and health, and its more visible failures in the 1930s, when the Manchurian crisis (Japan) and
-Abyssinian crisis (Italy) exposed how the Depression-era international climate made collective security
-far harder to enforce.
+weaknesses (limited membership, no standing army) against its actual record. Of the four named
+1920s disputes, the **Aaland Islands** dispute (Sweden/Finland, 1921) and the **Bulgaria** incident
+(1925) are conventionally classed as successes — the League's recommendation was accepted and enforced.
+**Vilna** (Poland/Lithuania, 1920) and **Corfu** (Italy/Greece, 1923) are conventionally classed as
+failures: at Vilna, Poland kept the city regardless of the League, with the Conference of Ambassadors
+recognising Polish sovereignty three years later; at Corfu, the matter passed from the League to the
+Conference of Ambassadors, and the victim state (Greece) ended up paying an indemnity to the aggressor
+(Italy). Its humanitarian work on refugees and health is a separate, genuine strand of success, and its
+more visible failures in the 1930s, when the Manchurian crisis (Japan) and Abyssinian crisis (Italy)
+exposed how the Depression-era international climate made collective security far harder to enforce.
 
 ## Hitler's foreign policy and the outbreak of war (question 3)
 

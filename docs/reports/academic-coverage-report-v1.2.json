@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:20:23.240Z",
+  "generatedAt": "2026-09-11T19:16:12.378Z",
   "rowCount": 160,
   "rows": [
     {
@@ -1143,11 +1143,11 @@
       "totalResourceCount": 9,
       "namedAuthor": "Marlbridge Academic Team (organisation byline — see v1.2 WS7)",
       "namedReviewer": "NO_DATA",
-      "lastReview": "2026-09-06\r",
+      "lastReview": "2026-09-06",
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 8739,
+      "totalQualifyingWordCount": 10282,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
@@ -1627,7 +1627,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 8537,
+      "totalQualifyingWordCount": 12004,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",
@@ -2107,7 +2107,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 9483,
+      "totalQualifyingWordCount": 12783,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "la-course",

@@ -1,9 +1,9 @@
 ---
-title: "O Level World History: The Twentieth Century, 1919-1989 (Cambridge 2147)"
+title: "O Level World History: International Relations since 1919 (Cambridge 2147)"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["o-levels"]
-topic: "Core Content – Option B: The Twentieth Century, 1919–1989"
+topic: "Core Content – Option B: International Relations since 1919"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["2147"]
@@ -18,10 +18,9 @@ publishedDate: 2026-09-01
 featured: false
 ---
 
-This guide covers **Core Content Option B: The Twentieth Century,
-1919-1989**, one of two Core Content options in Cambridge O Level
-World History 2147, 2024-2026 series. As independently confirmed
-against 2147's own syllabus PDF, it shares an identical set of
+This guide covers **Core Content Option B: International Relations
+since 1919**, one of two Core Content options in Cambridge O Level
+World History 2147, 2024-2026 series. It shares an identical set of
 Core content options with Cambridge IGCSE World History (0470).
 
 ## Where this fits in 2147
@@ -36,8 +35,8 @@ between the United States and the USSR.
 
 ## Syllabus coverage
 
-**CAMBRIDGE O LEVEL WORLD HISTORY (2147) — CORE CONTENT OPTION B: THE
-TWENTIETH CENTURY, 1919-1989**
+**CAMBRIDGE O LEVEL WORLD HISTORY (2147) — CORE CONTENT OPTION B:
+INTERNATIONAL RELATIONS SINCE 1919**
 
 - 2.1 Was the Treaty of Versailles Fair? — the terms of the Treaty,
   the aims of the "Big Three" negotiators, and assessments of its
@@ -54,8 +53,10 @@ TWENTIETH CENTURY, 1919-1989**
   wartime alliance between the USSR and the Western powers, and
   competing explanations for the origins of Cold War tension
 - 2.5 How Effectively Did the United States Contain the Spread of
-  Communism? — US Cold War policy and its effectiveness across
-  different regions and periods
+  Communism? — examined through three named case studies only: the
+  American reaction to the invasion of South Korea and the war to
+  1953; the American reaction to the Cuban revolution, including the
+  missile crisis; and American involvement in Vietnam
 - 2.6 How Secure Was the USSR's Control Over Eastern Europe,
   1948-c.1989? — Soviet methods of control over Eastern Europe and
   the challenges to that control up to the end of the Cold War era
@@ -72,11 +73,19 @@ from 1919 to 1989 linking the six enquiries together, since they are
 not isolated events but a connected chain: the terms of Versailles
 feed into resentment that shapes Hitler's foreign policy; the
 wartime alliance that defeats Hitler is the same alliance that breaks
-down into Cold War. Assessed via Paper 1 (structured questions
-drawing on Core content and one Depth study) and Paper 2 (document
-questions based on one Depth study), so Option B is examined through
-Paper 1 -- practise using source material and contextual knowledge
-together, since Paper 1 rewards both.
+down into Cold War.
+
+Option B is examined through **Paper 1, Section A**, as structured
+essays testing knowledge and explanation only — Paper 1 carries no
+source-handling marks at all. It can also be the option a candidate's
+Depth Study question, in Paper 1 Section B, is paired with, but the
+two sections are marked independently. **Paper 2 (Document Questions)**
+is where source material is examined, against the rotating prescribed
+Core Content topic, not against a Depth Study — so a candidate whose
+Core content option is Option B should expect Paper 2 to draw on this
+option's content in the series it is prescribed, examined entirely
+through sources rather than through the essay technique this option's
+own Paper 1 questions require.
 
 ## Official syllabus
 
@@ -122,17 +131,30 @@ security in the 1930s. A strong answer does not treat Hitler's
 foreign policy in isolation but places it alongside these other
 contributing factors before reaching a judgement.
 
-## The Cold War: origins to the end of Soviet control
+## The Cold War: origins, containment and the end of Soviet control
 
 The wartime alliance between the USSR and the Western powers broke
 down after 1945 over disagreements about the future of Eastern
 Europe and Germany, with historians offering competing explanations
-for who bears most responsibility. US containment policy (including
-the Truman Doctrine, Marshall Plan, and later interventions) is
-assessed for its effectiveness across different Cold War contexts,
-while Soviet control over Eastern Europe -- maintained through
-political, military and economic means from 1948 -- faced growing
-challenges through the Cold War period up to its end around 1989.
+for who bears most responsibility. The USA's early response to that
+breakdown — the **Truman Doctrine** (1947, pledging support to
+countries resisting communist takeover) and the **Marshall Plan**
+(1947, economic aid to rebuild Western Europe) — belongs to this
+enquiry, on the origins of the Cold War, since both are part of how
+the wartime alliance's collapse hardened into confrontation.
+
+**US containment of communism (2.5)** is then examined through three
+specific, named case studies rather than as a general policy: the
+American reaction to the invasion of South Korea and the Korean War
+to 1953; the American reaction to the Cuban revolution, including the
+1962 Cuban Missile Crisis; and American involvement in Vietnam. A
+strong answer assesses the effectiveness of containment separately in
+each case rather than treating "containment" as one undifferentiated
+policy that either succeeded or failed everywhere.
+
+Soviet control over Eastern Europe — maintained through political,
+military and economic means from 1948 — faced growing challenges
+through the Cold War period up to its end around 1989.
 
 ## Worked example
 
@@ -162,7 +184,9 @@ the "who was to blame" debate the syllabus specifically raises.
   weaknesses and key failures.
 - Explain how far Hitler's foreign policy, versus other factors,
   caused war in 1939.
-- Outline competing explanations for the origins of the Cold War.
-- Assess the effectiveness of US containment policy.
+- Outline competing explanations for the origins of the Cold War,
+  including the Truman Doctrine and Marshall Plan.
+- Assess the effectiveness of US containment in each of the three
+  named case studies: Korea, Cuba and Vietnam.
 - Explain how the USSR maintained control over Eastern Europe and the
   challenges to that control up to 1989.

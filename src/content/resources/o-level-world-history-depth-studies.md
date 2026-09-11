@@ -22,19 +22,25 @@ This guide covers the **Depth Studies** component of Cambridge O
 Level World History 2147, 2024–2026 series. All candidates study Core
 Content in Option A (The Nineteenth Century) or Option B (The
 Twentieth Century), plus at least one of five named Depth Studies —
-assessed through Paper 2 (Document Questions), which is based on one
-Depth Study.
+assessed through **Paper 1, Section B**, as structured essays: that
+section sets two questions on each of the five Depth Studies, and the
+candidate answers one. **Paper 2 (Document Questions)** examines the
+rotating prescribed topic from the Core Content instead — it is not
+based on a Depth Study at all.
 
 ## Where this fits in 2147
 
 Where the Core Content options give a broad, question-driven survey
 of nineteenth or twentieth century international relations, a Depth
 Study asks candidates to examine one country or event in far greater
-detail, using historical sources. Because Paper 2 is a document-based
-paper, preparation for a Depth Study looks different from preparation
-for the Core Content: it requires practice interpreting, cross-
-referencing and evaluating historical sources on the chosen period,
-not just recalling the narrative of events.
+detail. Because the Depth Study question on Paper 1 is a structured
+essay in three parts — (a), (b) and (c) — assessed on AO1 (knowledge)
+and AO2 (explanation), preparation for it looks like preparation for
+any other Paper 1 question: building secure factual knowledge and
+practising explanation of causes, course and consequences, rather than
+source-handling technique. Source evaluation (AO3) is tested
+exclusively on Paper 2, against the Core Content's rotating prescribed
+topic, not against the Depth Studies.
 
 ## Syllabus coverage
 
@@ -57,16 +63,17 @@ across both theatres
 
 ## How to approach it
 
-Because Paper 2 is document-based, the single most valuable skill to
-practise for any chosen Depth Study is source evaluation — being able
-to comment on a source's content, its origin (who produced it, when,
-and for what purpose), and its value or limitations as evidence for a
-specific historical question, rather than simply describing what a
-source shows. Practising with a range of source types (photographs,
-posters, cartoons, official documents, personal accounts) for the
-chosen Depth Study builds the flexibility this paper actually tests,
-since candidates cannot know in advance which type of source a given
-exam will use.
+Because the Depth Study question is a structured essay in three parts
+— typically a shorter, more descriptive opening part building to a
+longer explanatory final part — the single most valuable skill to
+practise for any chosen Depth Study is building a secure, detailed
+factual command of causes, course and consequences that can support
+explanation, not just narration. Each part of the question should be
+read for exactly what it asks — describe, explain why, or how far —
+since the three parts typically test progressively deeper levels of
+explanation on the same episode, and answering the wrong level of
+question (for example, describing when asked to explain) is a common
+source of lost marks.
 
 For Depth Study A (The First World War), be ready to explain why the
 war on the Western Front became a stalemate — the combination of
@@ -100,17 +107,17 @@ calculations) rather than only knowing one theatre in isolation.
 
 Whichever Depth Study a school teaches, building genuine, specific
 factual knowledge of that period — not just the general narrative
-shape of events — is what allows a candidate to select and evaluate
-sources confidently under exam conditions, since Paper 2's questions
-consistently expect sources to be assessed against real, secure
-background knowledge of the period they describe.
+shape of events — is what the three-part structured essay question
+rewards, since Paper 1 consistently expects each part to be answered
+with precise supporting detail rather than general assertion.
 
 ## Common mistakes to avoid
 
-- Narrating events chronologically without ever making a judgement or
-  answering the actual question a source-based task asks.
-- Describing a source's content without evaluating its origin,
-  purpose, or reliability as evidence.
+- Narrating events chronologically without ever answering the
+  specific question each part (a), (b) or (c) actually asks.
+- Answering a "describe" part with explanation, or an "explain"/"how
+  far" part with description only — matching the level of response to
+  the command each part uses is what the mark scheme rewards.
 - Treating 1905 and 1917 in Russia as one continuous event rather than
   two distinct revolutions with different causes and outcomes.
 - Explaining Hitler's rise to power without reference to the specific
@@ -120,13 +127,11 @@ background knowledge of the period they describe.
   Asia-Pacific theatres.
 
 A further point worth building into revision for any Depth Study is
-cross-referencing multiple sources against each other, since Paper 2
-frequently presents two or more sources on the same event and asks
-candidates to compare them — noting where they agree, where they
-differ, and suggesting why (different authors, audiences, or purposes
-often explain apparently contradictory sources on the same event) is
-a skill that transfers across all five Depth Studies regardless of
-which one a school teaches.
+practising the "how far" or "why" style final part specifically, since
+that is where the longer, more analytical writing — and the larger
+share of the marks — sits within each three-part question, and it
+rewards a sustained, supported argument rather than a list of loosely
+connected points, regardless of which Depth Study a school teaches.
 
 ## Official syllabus
 

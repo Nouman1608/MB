@@ -1,9 +1,9 @@
 ---
-title: "IGCSE World History: The Twentieth Century 1919-1989 — Revision Notes"
+title: "IGCSE World History: International Relations since 1919 — Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]
-topic: "Core Content – Option B: The Twentieth Century, 1919–1989"
+topic: "Core Content – Option B: International Relations since 1919"
 boards: ["cambridge"]
 qualifications: ["igcse"]
 syllabusCodes: ["0470"]
@@ -18,8 +18,8 @@ publishedDate: 2026-09-02
 featured: false
 ---
 
-Condensed recall notes for **Core Content Option B: The Twentieth
-Century, 1919–1989**, Cambridge IGCSE World History 0470, 2024–2026
+Condensed recall notes for **Core Content Option B: International
+Relations since 1919**, Cambridge IGCSE World History 0470, 2024–2026
 series. Use these alongside the full study guide on Option B for
 explanation and evidence — these notes are for fast recall of the six
 key questions in the final stretch of revision.
@@ -43,8 +43,14 @@ key questions in the final stretch of revision.
 
 - **Structure, aims, membership** — including its key structural
   weakness: no standing army, and not all major powers were members.
-- **1920s peacekeeping successes**: Vilna, the Aaland Islands, Corfu,
-  Bulgaria.
+- **1920s peacekeeping, successes and failures**: of the four named
+  disputes, **Aaland Islands** (1921) and **Bulgaria** (1925) are
+  conventionally classed as successes — the League's recommendation
+  was accepted and enforced. **Vilna** (1920) and **Corfu** (1923) are
+  conventionally classed as failures — at Vilna, Poland kept the city
+  regardless of the League; at Corfu, the matter passed to the
+  Conference of Ambassadors and the victim state paid an indemnity to
+  the aggressor.
 - **Humanitarian work**: refugees, health, working conditions,
   slavery.
 - **1930s failures**: the Manchurian crisis (Japan) and the Abyssinian
@@ -142,7 +148,7 @@ than leaving the analysis step to be improvised under timed conditions.
 
 ## Related resources
 
-- [IGCSE World History: The Twentieth Century, 1919-1989 (Cambridge 0470)](/resources/igcse-world-history-twentieth-century-1919-1989/)
+- [IGCSE World History: International Relations since 1919 (Cambridge 0470)](/resources/igcse-world-history-twentieth-century-1919-1989/)
 - [IGCSE History: The Nineteenth Century 1848-1914 — Revision Notes](/resources/igcse-world-history-nineteenth-century-revision-notes/)
 
 ## Official syllabus

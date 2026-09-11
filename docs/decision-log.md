@@ -8695,3 +8695,133 @@ findings total (E507-E533, I220, I221, Q209-Q215).
 
 **Next.** World History (34 findings: E534-E562, I222-I224, Q216-Q217),
 not yet started.
+
+
+## D-179 - World History cluster: Cambridge O-Level 2147 / IGCSE 0470 / A-Level 9489 (2026-09-11)
+
+Fixed the full Cambridge-board World History sub-cluster of the
+2026-09-11 audit: 34 findings across O-Level History (2147), IGCSE
+History (0470) and AS & A Level History (9489) — E534 through E542,
+I223, I224, Q216 and Q217. This is the first of several sub-batches
+covering the World History section (34 findings total); the remaining
+AQA GCSE 8145, IB DP History, Edexcel IGCSE 4HI1 and OxfordAQA IGCSE
+9245 batches are not yet started.
+
+**Files touched (18):**
+
+1. `o-level-world-history-depth-studies.md` — E534. Rewrote the
+   intro, "Where this fits", "How to approach it" and "Common
+   mistakes" sections: O-Level 2147 Depth Studies are examined on
+   **Paper 1, Section B** as three-part structured essays (AO1/AO2),
+   not on Paper 2 as source-based questions — removed the "source
+   evaluation is the single most valuable skill" framing.
+2. `o-level-world-history-twentieth-century-1919-1989.md` — E534,
+   E535, E538, I223, Q217. Retitled throughout to "International
+   Relations since 1919" (no end date, per the syllabus's own
+   wording); key question 2.5 rewritten to the three named case
+   studies (Korea, Cuba, Vietnam) for US containment, replacing the
+   wrongly-attributed Truman Doctrine/Marshall Plan content; corrected
+   Paper 1 (zero source marks, Section A structured essays) vs Paper 2
+   (document paper) framing; removed the unfalsifiable "independently
+   confirmed against 2147's own syllabus PDF" self-certifying claim.
+3. `o-level-world-history-twentieth-century-revision-notes.md` —
+   E535, E538, I223. Same retitle; same Korea/Cuba/Vietnam correction;
+   replaced the section claiming Paper 1 rewards source-plus-knowledge
+   technique with one stating Paper 1 carries no source marks.
+4. `igcse-world-history-twentieth-century-1919-1989.md` — E541,
+   I223. Retitled; corrected the League of Nations 1920s
+   classification (Aaland Islands and Bulgaria = successes; Vilna and
+   Corfu = failures — this file had listed Vilna as a success).
+5. `igcse-world-history-twentieth-century-revision-notes.md` —
+   E541, I223. Same retitle and League of Nations correction (this
+   file had listed all four disputes as successes).
+6. `a-level-world-history-modern-europe-1750-1921.md` — E536, I224.
+   Full rewrite, rebased from the expired 2026-series Cambridge
+   9489 syllabus onto the 2027-2029 successor: three topics only
+   (France 1774-1814; German unification 1815-71; Russia from
+   autocracy to revolution 1881-1924 — the Industrial Revolution in
+   Britain topic is dropped entirely), fixed three-year rotation
+   table added, syllabus citation updated.
+7. `a-level-world-history-international-1870-1945.md` — E536, I224.
+   Rebased onto 2027-2029: retitled to "1870-1939", three topics
+   (China and Japan dropped), sections renumbered 7/8/9, rotation
+   table added.
+8. `a-level-world-history-usa-1820-1941.md` — E536, I224. Full
+   rewrite, rebased onto 2027-2029: the former separate "Origins of
+   the Civil War" and "Civil War and Reconstruction" topics merged
+   into one Section 4 topic, sections renumbered 4/5/6.
+9. `a-level-world-history-usa-revision-notes.md` — I224. Rebased
+   onto 2027-2029, same Civil War/Reconstruction merge and
+   renumbering.
+10. `a-world-history-modern-europe-revision-notes.md` — E537, I224.
+    Full rewrite: removed off-option Italian unification and WWI-origins
+    content that had been substituted for the actual, dropped
+    Industrial Revolution topic; added a genuine Russia
+    1881-1924 section.
+11. `a-level-world-history-international-1870-1945-revision-notes.md`
+    — I224. Full rewrite, rebased onto 2027-2029, China/Japan section
+    removed.
+12. `a-level-world-history-international-1870-1945-practice.md` —
+    I224. Rebased onto 2027-2029; the Japan-continuity worked example
+    (which depended on the now-dropped China/Japan topic) replaced
+    with a Germany-continuity example spanning Sections 7 and 9.
+13. `a-level-world-history-usa-practice.md` — I224. Metadata and
+    citation rebased onto 2027-2029.
+14. `a-world-history-modern-europe-practice.md` — E536, E539, E540,
+    I224, Q216. Full rebuild: rebased onto 2027-2029 (three topics),
+    and restructured from an invented two-section format onto the
+    syllabus's real Paper 1 (one two-part Historical Sources question,
+    40 marks, with actual hypothetical sources supplied) and Paper 2
+    (two two-part Outline Study questions, 60 marks) shape; fixed a
+    12-mark question whose scheme awarded 14.
+15. `world-history-nineteenth-century-practice.md` — E539, E540,
+    Q216. Restructured from an invented "Section A/B" short-answer
+    format onto the real IGCSE 0470 Paper 1 (three-part structured
+    essays, Section A) and Paper 2 (document question with three
+    supplied sources) shape; fixed a 12-mark question whose scheme
+    awarded 13; command-word stems changed to the syllabus's own
+    "Describe"/"Explain"/"How far do you agree".
+16. `world-history-twentieth-century-practice.md` — E539, E540,
+    E542, I223. Same structural rebuild; retitled to "International
+    Relations since 1919"; fixed a 10-mark question under-awarding 9
+    and another under-awarding 8; fixed the Solidarity/Gorbachev
+    anachronism (the 1980 founding of Solidarity was wrongly used as
+    evidence of a policy shift under Gorbachev, who took office in
+    1985, and the answer had ignored that 1981 martial law contradicts
+    an "opposition existed without suppression" framing — rewritten to
+    separate Solidarity's 1980-81 emergence and suppression from
+    Gorbachev's actual later policy shift).
+17. `o-level-world-history-nineteenth-century-practice.md` — E539,
+    Q216. Same structural rebuild onto O-Level 2147's real Paper
+    1/Paper 2 shape; command words corrected to "Describe"/"Explain".
+18. `o-level-world-history-twentieth-century-practice.md` — E539
+    (post-baseline, 5th file named in the finding's own text), E538.
+    Same structural rebuild; the US-containment question rewritten
+    onto the three named case studies (Korea, Cuba, Vietnam) instead
+    of Marshall Plan/NATO, which belong to a different key question.
+
+**Verification method:** WebFetch against the live Cambridge 9489
+(2027-2029), 0470 (2024-2026) and 2147 (2024-2026) syllabus PDFs for
+exact assessment structure (paper/section/question shapes, topic
+rotation), command-word glossaries, and — for the A-Level rebase — the
+specific topics dropped or merged between the 2026 and 2027-2029
+syllabus versions, each confirmed with a targeted follow-up fetch
+requesting a verbatim quote before removing existing content.
+
+**Validation gate:** `astro check` (0 errors) -> `validate:academic`
+(full chain, all sub-validators PASS) -> `build` (2,129 pages +
+Pagefind, clean) -> `check-duplicate-resource-scope.mjs` (PASS, 6
+allow-listed groups reviewed) -> `test-i18n-routes.mjs` (PASS) ->
+`test-practice-analytics.mjs` (24/24) -> `npm audit` (0
+vulnerabilities) -> `coverage:academic-v2` (160/160) -> `audit:all`
+(12/12 sub-audits, 0 problems). One issue was caught and fixed inside
+this gate: the first `audit:metadata` run flagged 3 duplicate meta
+descriptions (the new practice-paper descriptions shared an
+over-long common prefix that collided once truncated) — shortened and
+front-loaded the distinguishing content in each, rebuilt, and the
+re-run passed clean.
+
+**Next.** The remaining World History findings (AQA GCSE 8145: E543-
+E547, E561 partial; IB DP History: E548-E550; Edexcel IGCSE 4HI1:
+E551-E554, E561 partial, E562, I222; OxfordAQA IGCSE 9245: E555-E560),
+not yet started.

@@ -1,9 +1,9 @@
 ---
-title: "O Level World History: The Twentieth Century, 1919-1989 — Revision Notes (Cambridge 2147)"
+title: "O Level World History: International Relations since 1919 — Revision Notes (Cambridge 2147)"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["o-levels"]
-topic: "Core Content – Option B: The Twentieth Century, 1919–1989"
+topic: "Core Content – Option B: International Relations since 1919"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["2147"]
@@ -64,10 +64,17 @@ Condensed, exam-focused notes for Core Content Option B of Cambridge O Level Wor
 
 ## 2.5 How effectively did the US contain communism?
 
-- Truman Doctrine (1947): pledged support to countries resisting communism.
-- Marshall Plan (1947): economic aid to rebuild Western Europe, reducing communism's appeal.
-- Later interventions assessed for effectiveness varied by region and period — success in some contexts
-  (Western Europe's economic recovery), more contested outcomes elsewhere.
+Examined through **three named case studies only** — not a general
+policy question:
+
+- **Korea:** the American reaction to the invasion of South Korea and
+  the Korean War to 1953.
+- **Cuba:** the American reaction to the Cuban revolution, including
+  the 1962 Cuban Missile Crisis.
+- **Vietnam:** American involvement in Vietnam.
+
+(The Truman Doctrine and Marshall Plan belong to 2.4, on the origins
+of the Cold War, not to this case-study-based enquiry.)
 
 ## 2.6 How secure was Soviet control over Eastern Europe, 1948-c.1989?
 
@@ -88,16 +95,19 @@ alliance that defeats Hitler is the same alliance that breaks down into Cold War
 a connected chain, not six isolated topics, and answers that show this connection score more highly than
 answers that treat each enquiry as a standalone unit of knowledge.
 
-## Linking source work to contextual knowledge
+## Paper 1 has no source marks — don't prepare source technique for it
 
-Although Option B is examined through Paper 1 (structured questions), candidates should not assume this
-means source evaluation is irrelevant — Paper 1 questions frequently present a short source extract or
-attributed viewpoint (for example, a quotation attributed to a historian debating who caused the Cold
-War) and ask candidates to use it alongside their own contextual knowledge, not to treat the source in
-isolation. A strong response identifies what the source actually claims, links it to the relevant
-contextual knowledge from the six enquiries above, and reaches a judgement that draws on both — never
-just paraphrasing the source without adding independent knowledge, and never ignoring the source
-entirely in favour of a pre-prepared answer that would work regardless of what the source said.
+Option B is examined through **Paper 1**, where every question is a
+structured essay tested on knowledge (AO1) and explanation (AO2)
+only — Paper 1 carries **zero** source-handling marks. Source
+evaluation (AO3) belongs entirely to **Paper 2**, which examines the
+rotating prescribed Core Content topic through documents, not this
+option's six enquiries through essay questions. Don't spend revision
+time preparing to interpret a source extract for a Paper 1 question on
+this option — none will appear. If Option B's content is prescribed
+for the document paper in a given series, that is a separate,
+source-based task prepared quite differently from the essay technique
+these six enquiries require.
 
 ## Building a "for and against" table for revision
 

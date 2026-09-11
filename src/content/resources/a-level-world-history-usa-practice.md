@@ -7,7 +7,7 @@ topic: "Paper 1 and Paper 2 – American Option: The History of the USA, 1820–
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9489"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 stage: "AS"
 order: 2
 syllabusTopics:
@@ -76,13 +76,13 @@ Section A mirrors Paper 1's document-based short-answer format, testing precise 
 in smaller steps; Section B mirrors Paper 2's outline-study essay format, testing the sustained,
 evidence-based judgement the revision notes identify as the skill that most reliably separates strong
 from weak answers across this whole option. Practising both formats separately, rather than only the
-essay style, reflects how both papers actually draw on the same four topics in genuinely different
+essay style, reflects how both papers actually draw on the same three topics in genuinely different
 question formats.
 
 ## Official syllabus
 
-Cambridge International AS & A Level History 9489 syllabus for 2026 --
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697368-2026-syllabus.pdf)
+Cambridge International AS & A Level History 9489 syllabus for examination in 2027, 2028 and 2029, section 4-6 ("Subject content — American Option: The History of the USA, 1820-1941; Section 4 now covers "The Civil War and Reconstruction, 1820-77" as a single merged topic) --
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718292-2027-2029-syllabus.pdf)
 -- the same source cited by the
 [American Option study guide](/resources/a-level-world-history-usa-1820-1941/) and
-[revision notes](/resources/a-level-world-history-usa-revision-notes/).
+[revision notes](/resources/a-level-world-history-usa-revision-notes/). Verified 2026-09-11.
