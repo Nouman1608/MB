@@ -31,11 +31,12 @@ school taught, completes this same internally assessed component using the same 
 
 ## The core skill: source-based inquiry, start to finish
 
-The investigation moves through four stages, and weakness in any one stage limits the whole
-investigation's mark: **formulating a focused inquiry question**; **identifying and selecting**
-relevant, appropriately varied sources; **analysing and evaluating** those sources (their origin,
-purpose, value and limitation); and **synthesizing evidence** into a coherent, evidenced written
-response.
+The investigation is officially graded against **three sections**, and weakness in any one limits
+the whole investigation's mark: **Section 1 -- formulation of an appropriate inquiry question**;
+**Section 2 -- analysis of the chosen sources**, covering identifying and selecting relevant,
+appropriately varied sources and evaluating them (their origin, purpose, value and limitation); and
+**Section 3 -- synthesis of evidence from those sources** into a coherent, evidenced written
+response to the inquiry question. There is no separate "reflection" section in the current course.
 
 ## Worked example: from a broad topic to a focused inquiry question
 

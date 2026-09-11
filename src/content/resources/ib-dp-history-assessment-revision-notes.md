@@ -47,11 +47,27 @@ appear in Paper 1's source analysis, Paper 2's thematic essay, or Paper 3's regi
 
 ## The historical investigation in more depth
 
-The investigation is graded against criteria covering: identifying a focused, historically valid research question; the range and quality of sources selected and evaluated, including their origin, purpose, value and limitation; the organisation and analysis of evidence in relation to the research question; and a critical reflection on what the investigation reveals about the methods and challenges facing the historian more broadly. A common weakness is a source evaluation that describes a source's origin and content without genuinely assessing its value and limitation for answering the specific research question -- examiners consistently reward evaluation tied directly back to the question being investigated, not a generic commentary on the source in isolation.
+The investigation is organised into three sections, and graded against criteria covering each:
+**formulation of an appropriate inquiry question**; **analysis of the chosen sources**, including
+their origin, purpose, value and limitation; and **synthesis of evidence from those sources to
+produce a response** to the inquiry question. There is no separate "reflection" section in the
+current course -- that belonged to the previous course this one replaced. A common weakness is a
+source evaluation that describes a source's origin and content without genuinely assessing its
+value and limitation for answering the specific inquiry question -- examiners consistently reward
+evaluation tied directly back to the question being investigated, not a generic commentary on the
+source in isolation.
 
 ## Command terms across the papers
 
-Paper 1's source-based questions use command terms specific to working with historical evidence -- **compare and contrast** two sources, **assess the value and limitations** of a source given its origin and purpose, and **using the sources and your own knowledge** to construct an argument that integrates both. Paper 2 and Paper 3's essay questions use the broader command-term hierarchy shared across individuals-and-societies subjects -- **examine**, **evaluate**, **discuss**, **to what extent** -- but always in relation to a named period, region or theme, meaning a strong essay must be built from specific, dated evidence rather than general narrative description.
+Paper 1's source-based questions are built around an overarching **inquiry question** and use three
+specific command terms, not the "compare and contrast" style of the previous course: **explain** how
+the content of two given sources can be used to answer the inquiry question, **analyse** how the
+context of a third source influences its use in answering the inquiry question, and **examine** how
+the perspectives across all the sources can be used to address the inquiry question. Paper 2 and
+Paper 3's essay questions use the broader command-term hierarchy shared across individuals-and-
+societies subjects -- **examine**, **evaluate**, **discuss**, **to what extent** -- but always in
+relation to a named period, region or theme, meaning a strong essay must be built from specific,
+dated evidence rather than general narrative description.
 
 ## Why the four concepts recur across all three papers
 
@@ -76,7 +92,7 @@ Beyond the shift in Paper 1 (30% SL, 20% HL) and Paper 2 (40% SL, 25% HL) weight
 5. Name one criterion the historical investigation is graded against, beyond the research question itself.
 6. What distinguishes HL Paper 3 from Papers 1 and 2 in terms of content?
 
-**Answers:** 1. Cause and consequence, continuity and change, perspectives, significance. 2. Two essays on a chosen regional study, sat only by HL students, worth 35%. 3. A student-formulated inquiry question and the selection and evaluation of sources. 4. Paper 1: 30%, Paper 2: 40%. 5. Any of: the range and quality of sources evaluated (origin, purpose, value, limitation), the organisation and analysis of evidence in relation to the question, or critical reflection on method. 6. Paper 3 is built around an entirely additional regional depth study not examined at SL at all, rather than a harder version of the SL-shared content in Papers 1-2.
+**Answers:** 1. Cause and consequence, continuity and change, perspectives, significance. 2. Two essays on a chosen regional study, sat only by HL students, worth 35%. 3. A student-formulated inquiry question and the selection and evaluation of sources. 4. Paper 1: 30%, Paper 2: 40%. 5. Any of the investigation's three sections: formulation of an appropriate inquiry question, analysis of the chosen sources (origin, purpose, value, limitation), or synthesis of evidence from those sources into a response -- there is no separate "reflection" criterion in the current course. 6. Paper 3 is built around an entirely additional regional depth study not examined at SL at all, rather than a harder version of the SL-shared content in Papers 1-2.
 
 ## Official syllabus
 

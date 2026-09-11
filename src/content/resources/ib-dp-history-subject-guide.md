@@ -52,15 +52,15 @@ each, with the specific traps examiners look for, see the
 
 ## Aims
 
-The course aims to enable students to:
+The current course (first examined 2028) aims to enable students to:
 
-- develop an understanding of, and continuing interest in, the past
-- engage with multiple perspectives and appreciate the complex nature
-  of historical concepts, issues, events and developments
-- promote international-mindedness through the study of history from
-  more than one region of the world
-- develop an understanding of history as a discipline, including a
-  sense of chronology, context and different historical perspectives.
+- explore and critically engage with multiple perspectives and ways
+  of thinking
+- investigate and evaluate the interactions between individuals and
+  societies
+- think and act as informed and principled individuals in societies
+- understand and value the variety and diversity of the human
+  experience across time and place.
 
 ## How it's assessed
 
@@ -124,5 +124,8 @@ internal assessment process, see the
 
 ## Source
 
-International Baccalaureate Organization, History subject brief
-(Diploma Programme), 2020.
+International Baccalaureate Organization, *Diploma Programme Subject
+Brief -- Individuals and Societies: History*, first assessment 2028,
+published 2025 -- the same source cited by the
+[full syllabus guide](/resources/ib-dp-history-syllabus-guide/) and the
+[assessment revision notes](/resources/ib-dp-history-assessment-revision-notes/).

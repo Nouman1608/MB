@@ -8931,3 +8931,79 @@ is now fully closed across all three files.
 **Next.** The remaining World History findings (IB DP History:
 E548-E550; Edexcel IGCSE 4HI1: E551-E554, E561 already closed above,
 E562, I222; OxfordAQA IGCSE 9245: E555-E560), not yet started.
+
+## D-181 - World History cluster: IB DP History (2026-09-11)
+
+Third sub-batch of the World History section, following D-179
+(Cambridge) and D-180 (AQA GCSE 8145). Covers IB DP History findings
+E548 through E550 across 3 files.
+
+**Files fixed:**
+
+- `ib-dp-history-assessment-revision-notes.md` -- E548: "The historical
+  investigation in more depth" section described the IA as graded
+  partly on "a critical reflection on what the investigation reveals
+  about the methods and challenges facing the historian more broadly"
+  -- a component of the previous (pre-2028) course, removed from the
+  current one. Corrected to the real three graded sections: formulation
+  of an appropriate inquiry question, analysis of the chosen sources,
+  and synthesis of evidence from those sources into a response. E549:
+  "Command terms across the papers" gave Paper 1's command terms as
+  "compare and contrast", "assess the value and limitations" and
+  "using the sources and your own knowledge" -- all three belong to the
+  superseded course. Corrected to the current course's three command
+  terms, built around an overarching inquiry question: explain (how
+  two sources' content answers the inquiry question), analyse (how a
+  third source's context influences its use), and examine (how
+  perspectives across the sources address the inquiry question).
+  Self-test answer 5 updated to match the corrected three-section IA
+  structure.
+- `ib-dp-history-investigation-ia-revision-notes.md` -- named by E548
+  as a sibling file. Direct inspection found no "reflection" text
+  present (the file already described a four-stage practical process
+  without naming a retired reflection component), so no active defect
+  survived here. Proactively aligned its "core skill" section to name
+  the three official IA sections explicitly (Section 1 formulation,
+  Section 2 analysis, Section 3 synthesis) and state outright that
+  there is no separate reflection section, for consistency with the
+  now-corrected sibling file and to remove any ambiguity for a future
+  reader.
+- `ib-dp-history-subject-guide.md` -- E550: the "Source" citation
+  pointed to "History subject brief (Diploma Programme), 2020" -- the
+  subject brief for the course first examined 2017, describing a
+  different assessment split, five prescribed subjects instead of
+  focused studies, and six key concepts rather than four. The guide's
+  own content (five focused studies, four thematic studies, four
+  regional options, four concepts, 90 HL regional-study hours, current
+  weightings) was already correct and drawn from the current brief,
+  which its four sibling files already cite -- only the citation and
+  the "Aims" section were wrong. Citation corrected to the current
+  subject brief (first assessment 2028, published 2025), matching the
+  sibling files' citation. Aims section replaced with the four aims
+  actually stated in the current brief (multiple perspectives and ways
+  of thinking; interactions between individuals and societies;
+  informed and principled individuals; variety and diversity of human
+  experience), replacing the superseded course's own aims that had
+  been presented as current.
+
+**Verification method.** IB's current Diploma Programme History subject
+brief (ibo.org, first assessment 2028, published 2025) fetched directly
+via WebFetch for: the historical investigation's exact three graded
+sections and their names; Paper 1's exact three command terms and what
+each question type asks; the document's own title and publication
+date; the four current course aims verbatim; and cross-confirmation of
+the five focused studies, four thematic studies, four regional options,
+four concepts, 90 HL regional-study hours and current SL/HL weightings
+already stated correctly elsewhere in the corpus.
+
+**Full validation gate green end to end:** `astro check` (0 errors) ->
+`validate:academic` (all sub-validators PASS) -> `npm run build`
+(2,129 pages + Pagefind, clean, 166s) ->
+`check-duplicate-resource-scope.mjs` (PASS) -> `test-i18n-routes.mjs`
+(PASS) -> `test-practice-analytics.mjs` (24/24) -> `npm audit` (0
+vulnerabilities) -> `coverage:academic-v2` (160/160) -> `audit:all`
+(12/12 sub-audits, 0 problems).
+
+**Next.** The remaining World History findings (Edexcel IGCSE 4HI1:
+E551-E554, E562, I222; OxfordAQA IGCSE 9245: E555-E560; E561 already
+closed under D-180), not yet started.
