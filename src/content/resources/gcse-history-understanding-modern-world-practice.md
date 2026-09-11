@@ -17,12 +17,14 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions, and
-> they do not assume any single period study or depth study option — apply the method
-> below to whichever two options (one from Section A, one from Section B) your school
-> has taught. Examination boards hold copyright in their own papers. Use these alongside
-> the official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs, and they do not assume any single period study or depth study
+> option — apply the method below to whichever two options (one from Section A,
+> one from Section B) your school has taught. Examination boards hold copyright
+> in their own papers. Use these alongside the official past papers available
+> free from your board.
 
 Related: [Understanding the Modern World study
 guide](/resources/gcse-history-understanding-the-modern-world-options/) and [revision

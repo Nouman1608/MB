@@ -20,10 +20,11 @@ publishedDate: 2026-09-04
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board.
 
 Related: [Control Accounts and Correction of Errors study guide](/resources/a-level-edexcel-accounting-control-accounts-and-correction-of-errors/) | [Control Accounts and Correction of Errors revision notes](/resources/edexcel-a-level-accounting-control-accounts-revision-notes/)
 

@@ -19,11 +19,12 @@ publishedDate: 2026-09-05
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. This is a new
-> qualification (first examined May/June 2028) with no live past papers yet, so
-> use these alongside OxfordAQA's own specimen assessment materials.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. This is
+> a new qualification (first examined May/June 2028) with no live past papers
+> yet, so use these alongside OxfordAQA's own specimen assessment materials.
 
 Related: [Socialisation study guide](/resources/igcse-oxfordaqa-sociology-socialisation/), [Socialisation revision notes](/resources/igcse-oxfordaqa-sociology-socialisation-revision-notes/)
 

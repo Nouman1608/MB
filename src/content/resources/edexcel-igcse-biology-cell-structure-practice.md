@@ -19,10 +19,12 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> Pearson holds copyright in its own papers. Use these alongside the official past
-> papers available through your school or Pearson's own resources.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — Pearson holds copyright in its own papers. Use these alongside
+> the official past papers available through your school or Pearson's own
+> resources.
 
 Related: [Cell structure and biological molecules study guide](/resources/igcse-edexcel-biology-cell-structure-and-biological-molecules/)
 and [revision notes](/resources/edexcel-igcse-biology-cell-structure-revision-notes/).

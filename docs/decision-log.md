@@ -7488,3 +7488,70 @@ purpose was to tighten security. The warning is therefore expected and benign.
 **Owner authority:** user request, 2026-09-09, relayed with a proposed entry from
 the parallel session; the esbuild section is amended from that proposal to record
 the investigated conclusion rather than the original assumption.
+
+
+## D-165 - Repo re-synced after a stale-lock infra outage; E568 exam-style claim removed corpus-wide (431 files); E569/Q204 self-review confirmed, owner decision surfaced not silently resolved
+
+**Date:** 2026-09-11
+
+**Context.** The prior session was blocked on a broken remote-bash tool with no
+recovery path; this session resumed via a local terminal (Desktop Commander)
+against the same clone. That clone carried a stale `.git\index.lock`
+(timestamped 2026-09-05, no live git process holding it -- confirmed via
+`Get-Process` before removal) and was 152 commits / roughly two days behind
+`origin/main`: the parallel pipeline had advanced through D-149-D-164 in the
+interim (conversion/trust round, IB DP modeling, npm audit remediation,
+second-pass content batches, and more). Fast-forwarded clean; nothing local
+was lost since the clone had no divergent commits.
+
+A new 179-finding file (`marlbridge-new-findings.md`) was the active backlog
+per the prior handoff. This entry processes the two findings flagged as
+high-value corpus-wide sweeps; the remaining ~177 are still open.
+
+**Search-discipline note.** A first-pass corpus search for E568's exact phrase
+against raw file content returned 0 matches and nearly closed this finding as
+already resolved. The phrase is markdown-wrapped across multiple `> ` blockquote
+lines in every file, so a literal multi-line string never appears in the raw
+text; only after flattening each blockquote paragraph (stripping `> ` prefixes
+and joining lines) did the true count -- 431, matching the finding exactly --
+appear. Recorded because it is precisely the under-detection pattern the owner
+flagged generally (U21/U24): a naive scoped search undercounts a corpus-wide
+defect. Any future corpus search over these files should flatten wrapped
+blockquotes/paragraphs before matching, not grep raw lines.
+
+**Finding ID -> file -> what changed**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E568 | 431 files, `src/content/resources/*.md` (full list in commit diff) | Removed the unsupported claim "in the style and at the standard of the examination" from practice-paper preambles. 418 files: replaced with "for revision and practice on this content" plus an added "do not replicate the exam's exact structure, question count or mark tariffs" caveat, matching the honest wording already established by earlier fixes to this disclaimer. 13 files (mostly English Literature/Language, one Geography) already carried bespoke surrounding caveats specific to that resource -- only the false claim clause was swapped for the honest framing, preserving the existing bespoke wording rather than overwriting it with the generic addendum. |
+| E569 / Q204 | 135 files with a `reviewer` frontmatter field | Investigated, not fixed. Confirmed corpus-wide: every remaining file names its own `author` as `reviewer` (self-review). Q204 also confirmed: the review-credit renderer gates on a separate `reviewStatus` field that is never set anywhere in the corpus, so no independent-review credit currently displays regardless of the reviewer field's content. Fix requires a product decision -- populate the field with genuine independent review, or remove it corpus-wide -- that is not something an AI session can make unilaterally on the owner's behalf. Surfaced to the owner directly rather than silently picking a branch; left unchanged pending that decision. |
+
+**Also this entry.**
+- `docs/audit/` created per owner directive: the external auditor already
+  clones `main` and reads this decision log, so findings now travel through
+  the repo in both directions instead of manual relay. The active findings
+  file was copied in as `docs/audit/2026-09-11-findings.md`.
+- This is the first entry using the finding-ID -> file -> what-changed table
+  format the owner asked for going forward (D-138 through D-148 used
+  batch-level prose only, flagged by the owner as insufficient for a durable
+  record).
+- The owner's "ignore the auditor's own 1,001-open tracker number" directive
+  is noted for future entries: that count re-verifies only the original 44
+  baseline groups by stratified sample and does not reflect finding-by-finding
+  progress; the findings file itself is the real backlog.
+
+**Validation gate.** `npx astro check` (0 errors, 18 pre-existing hints) ->
+`npm run validate:academic` (all validators PASS, 160/160 ACTIVE combinations
+sourced, 903 questions schema-valid) -> `npm run build` (2129 pages, pagefind
+index rebuilt) -> `test-cross-board-regression.mjs` (OK) ->
+`test-negative-validation-suite.mjs` (35/35) -> API tests (31/31) ->
+`npm audit --fetch-timeout=20000 --fetch-retries=2` (0 vulnerabilities) ->
+`coverage:academic-v2` (160/160 combinations, depth/quality targets met) ->
+`check-duplicate-resource-scope.mjs` (PASS, 4 pre-reviewed allow-listed pairs,
+unchanged) -> `audit:all` (11/11 sub-audits, 0 problems across 2128-2129
+pages).
+
+**Next.** E569/Q204 awaiting the owner's policy decision. Remaining ~177
+findings (Computer Science, English Literature, Sociology, World History and
+smaller clusters) to be worked through by section, applying the corpus-wide
+search discipline confirmed necessary above.

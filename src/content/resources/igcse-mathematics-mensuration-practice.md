@@ -30,10 +30,11 @@ author: "nouman-ahmed"
 publishedDate: 2026-09-01
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board.
 
 Related: [Mensuration revision notes](/resources/igcse-mathematics-mensuration-revision-notes/)
 

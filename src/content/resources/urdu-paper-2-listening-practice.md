@@ -17,12 +17,14 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 ---
-> **These are original scripts and questions written for Marlbridge**, in the style and
-> at the standard of the examination. They are **not** reproduced past-paper material —
-> Cambridge does not publish official Paper 2 audio outside the secure Handbook
-> distributed to registered centres. Read each script aloud to yourself, or better, have
-> someone else read it to you at natural speed while you answer, to mimic exam
-> conditions as closely as a text-based resource can.
+> **These are original scripts and questions written for Marlbridge**, for
+> revision and practice on this content. They are **not** reproduced past-paper
+> material, and they do **not** replicate the exam's exact structure, question
+> count or mark tariffs — Cambridge does not publish official Paper 2 audio
+> outside the secure Handbook distributed to registered centres. Read each
+> script aloud to yourself, or better, have someone else read it to you at
+> natural speed while you answer, to mimic exam conditions as closely as a
+> text-based resource can.
 
 Related: [Paper 2 – Listening study guide](/resources/igcse-cambridge-urdu-paper-2-listening/)
 

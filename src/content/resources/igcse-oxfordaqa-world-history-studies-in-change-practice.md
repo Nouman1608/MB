@@ -17,16 +17,16 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. This is a new
-> qualification (first teaching September 2026, first examined May/June 2028) with
-> limited past papers, so use these alongside OxfordAQA's own specimen assessment
-> materials as the primary guide to question style.
->
-> Paper 2 offers a genuine choice of options — one Section A society (Germany
-> 1919–49, Russia and the USSR 1914–53, or the USA 1919–68) and one Section B
-> theme (Technology and change, or Medicine and change) — so these questions
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. This is
+> a new qualification (first teaching September 2026, first examined May/June
+> 2028) with limited past papers, so use these alongside OxfordAQA's own
+> specimen assessment materials as the primary guide to question style. Paper 2
+> offers a genuine choice of options — one Section A society (Germany 1919–49,
+> Russia and the USSR 1914–53, or the USA 1919–68) and one Section B theme
+> (Technology and change, or Medicine and change) — so these questions
 > deliberately do not name a specific option. Apply each question to your own
 > centre's studied society and theme.
 

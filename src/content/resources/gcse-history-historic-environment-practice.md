@@ -14,13 +14,15 @@ publishedDate: 2026-08-26
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions,
-> and they do not reference any specific historic site — apply the method below
-> to whichever site your school has specified. Examination boards hold copyright
-> in their own papers. Use these alongside the official past papers available
-> free from your board, since genuine board material is the most reliable guide
-> to exact phrasing and mark scheme wording for your specific examination series.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs, and they do not reference any specific historic site — apply the
+> method below to whichever site your school has specified. Examination boards
+> hold copyright in their own papers. Use these alongside the official past
+> papers available free from your board, since genuine board material is the
+> most reliable guide to exact phrasing and mark scheme wording for your
+> specific examination series.
 
 Related: [Historic Environment revision notes](/resources/gcse-history-historic-environment-revision-notes/)
 

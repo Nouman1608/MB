@@ -18,11 +18,12 @@ publishedDate: 2026-08-26
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination, and do not reference any specific set play or novel —
-> apply the method below to your own studied texts. They are **not** reproduced
-> past-paper questions. Examination boards hold copyright in their own papers. Use
-> these alongside the official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content, and do not reference any specific set play or novel
+> — apply the method below to your own studied texts. They are **not**
+> reproduced past-paper questions. Examination boards hold copyright in their
+> own papers. Use these alongside the official past papers available free from
+> your board.
 
 Related: [Shakespeare and the 19th-Century Novel revision notes](/resources/aqa-gcse-english-literature-paper-1-revision-notes/)
 

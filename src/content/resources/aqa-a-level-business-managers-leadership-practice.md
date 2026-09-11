@@ -18,10 +18,11 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> AQA holds copyright in its own papers. Use these alongside the official past
-> papers available through your school or AQA's own resources.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — AQA holds copyright in its own papers. Use these alongside the
+> official past papers available through your school or AQA's own resources.
 
 Related: [Topic 2 study guide](/resources/aqa-a-level-business-managers-leadership-decision-making/)
 and [revision notes](/resources/aqa-a-level-business-managers-leadership-revision-notes/).

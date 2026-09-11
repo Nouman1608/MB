@@ -18,10 +18,12 @@ publishedDate: 2026-08-26
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers and their unseen extracts.
-> Use these alongside the official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers and their
+> unseen extracts. Use these alongside the official past papers available free
+> from your board.
 
 Related: [Paper 1 study guide](/resources/aqa-gcse-english-language-paper-1/) |
 [Paper 1 revision notes](/resources/gcse-english-language-paper-1-revision-notes/) |

@@ -18,11 +18,12 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board, applying them to whichever
-> set texts you are actually studying.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board,
+> applying them to whichever set texts you are actually studying.
 
 Related: [Paper 1 – Poetry and Prose study
 guide](/resources/igcse-english-literature-paper-1-poetry-and-prose/)

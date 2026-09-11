@@ -17,10 +17,11 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board.
 
 Related: [Gas Exchange Surfaces, Membranes and Osmosis study guide](/resources/a-level-edexcel-biology-membranes-gas-exchange-and-osmosis/) | [Gas Exchange Surfaces, Membranes and Osmosis revision notes](/resources/edexcel-a-level-biology-membranes-gas-exchange-revision-notes/)
 

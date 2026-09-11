@@ -19,15 +19,15 @@ publishedDate: 2026-09-04
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
->
-> These short-answer questions are designed for topic review and do not reproduce the
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board. These
+> short-answer questions are designed for topic review and do not reproduce the
 > full 40-mark data-response and essay sections of Paper 1 and Paper 2, or the
-> multiple-choice and case-study format of Paper 3 — practise those longer formats
-> using full past papers.
+> multiple-choice and case-study format of Paper 3 — practise those longer
+> formats using full past papers.
 
 Related: [The Measurement of Macroeconomic Performance study guide](/resources/a-level-aqa-economics-measurement-of-macroeconomic-performance/) | [The Measurement of Macroeconomic Performance revision notes](/resources/aqa-a-level-economics-macroeconomic-performance-revision-notes/)
 

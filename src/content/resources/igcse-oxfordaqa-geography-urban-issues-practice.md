@@ -18,11 +18,12 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. Questions 3-5 do not name a specific LIC or NEE city
-> — apply them to your own centre's studied case study. They are **not** reproduced
-> past-paper questions — examination boards hold copyright in their own papers. Use
-> these alongside the official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. Questions 3-5 do not name a specific LIC or NEE city
+> — apply them to your own centre's studied case study. They are **not**
+> reproduced past-paper questions — examination boards hold copyright in their
+> own papers. Use these alongside the official past papers available free from
+> your board.
 
 Related: [Urban Issues and Challenges study guide](/resources/igcse-oxfordaqa-geography-urban-issues-and-challenges/), [Urban Issues and Challenges revision notes](/resources/igcse-oxfordaqa-geography-urban-issues-revision-notes/)
 

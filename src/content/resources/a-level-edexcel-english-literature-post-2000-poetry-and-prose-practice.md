@@ -19,13 +19,13 @@ publishedDate: 2026-08-26
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination, and do not reference any specific set poem or prose
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content, and do not reference any specific set poem or prose
 > text — apply the method below to your own prescribed texts. They are **not**
-> reproduced past-paper questions. Examination boards hold copyright in their own
-> papers. Use these alongside the official past papers available free from your board,
-> since these questions are designed to build transferable exam technique rather than
-> to substitute for practice on genuine board material.
+> reproduced past-paper questions. Examination boards hold copyright in their
+> own papers. Use these alongside the official past papers available free from
+> your board, since these questions are designed to build transferable exam
+> technique rather than to substitute for practice on genuine board material.
 
 Related: [Post-2000 Poetry and Prose revision notes](/resources/a-level-edexcel-english-literature-post-2000-poetry-and-prose-revision-notes/)
 

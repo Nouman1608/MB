@@ -18,13 +18,14 @@ publishedDate: 2026-09-04
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination, and do not reference any specific set text or named
-> anthology poem -- apply the method below to your own studied text and cluster. The
-> two unseen poems in Section C are original short poems written for this resource,
-> not reproduced past-paper questions or copyrighted anthology material. Examination
-> boards hold copyright in their own papers and anthology poems -- use these
-> alongside the official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content, and do not reference any specific set text or named
+> anthology poem -- apply the method below to your own studied text and cluster.
+> The two unseen poems in Section C are original short poems written for this
+> resource, not reproduced past-paper questions or copyrighted anthology
+> material. Examination boards hold copyright in their own papers and anthology
+> poems -- use these alongside the official past papers available free from your
+> board.
 
 Related: [Modern Texts and Poetry revision notes](/resources/aqa-gcse-english-literature-paper-2-revision-notes/)
 

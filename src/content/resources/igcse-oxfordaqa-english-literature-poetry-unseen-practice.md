@@ -18,17 +18,16 @@ publishedDate: 2026-09-05
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination, and do not reference specific *People and Places*
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content, and do not reference specific *People and Places*
 > anthology poems — apply Question 1's method to your own studied selection. The
-> poem in Question 2 and the prose extract in Question 3 are original short texts
-> written for this resource, not reproduced anthology or past-paper material. These
-> are **not** reproduced past-paper questions. Examination boards hold copyright in
-> their own papers and anthology poems. Use these alongside the official past papers
-> available free from your board.
->
-> **Question 3 (unseen prose) is Route A only.** Route B candidates should stop
-> after Question 2 and revise their non-exam assessment separately — confirm which
+> poem in Question 2 and the prose extract in Question 3 are original short
+> texts written for this resource, not reproduced anthology or past-paper
+> material. These are **not** reproduced past-paper questions. Examination
+> boards hold copyright in their own papers and anthology poems. Use these
+> alongside the official past papers available free from your board. **Question
+> 3 (unseen prose) is Route A only.** Route B candidates should stop after
+> Question 2 and revise their non-exam assessment separately — confirm which
 > route your centre follows before using this section.
 
 Related: [Poetry and Unseen Texts study guide](/resources/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts/), [Poetry and Unseen Texts revision notes](/resources/igcse-oxfordaqa-english-literature-poetry-unseen-revision-notes/)

@@ -18,11 +18,13 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. As 9690 is a newly launched
-> qualification (first teaching September 2026), use these alongside OxfordAQA's own
-> sample assessment materials as they become available.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. As 9690
+> is a newly launched qualification (first teaching September 2026), use these
+> alongside OxfordAQA's own sample assessment materials as they become
+> available.
 
 Related: [Exploring Sociology study guide](/resources/a-level-oxfordaqa-sociology-exploring-sociology/) · [Exploring Sociology revision notes](/resources/oxfordaqa-a-level-sociology-exploring-sociology-revision-notes/)
 

@@ -19,8 +19,8 @@ publishedDate: 2026-08-26
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination, and do not reference any specific set play — apply
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content, and do not reference any specific set play — apply
 > the method below to your own studied Elizabethan/Jacobean and later tragedies.
 > They are **not** reproduced past-paper questions. Examination boards hold
 > copyright in their own papers. Use these alongside the official past papers

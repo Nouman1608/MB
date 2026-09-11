@@ -17,10 +17,11 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> Cambridge International holds copyright in its own papers. Use these alongside the
-> official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — Cambridge International holds copyright in its own papers. Use
+> these alongside the official past papers available free from your board.
 
 Related: [Water study guide](/resources/igcse-cambridge-environmental-management-water/) and
 [revision notes](/resources/igcse-environmental-management-water-revision-notes/)

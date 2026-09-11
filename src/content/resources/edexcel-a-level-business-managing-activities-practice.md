@@ -19,10 +19,11 @@ publishedDate: 2026-09-04
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board.
 
 Related: [Managing Business Activities study guide](/resources/a-level-edexcel-business-managing-business-activities/) | [Managing Business Activities revision notes](/resources/edexcel-a-level-business-managing-activities-revision-notes/)
 

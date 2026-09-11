@@ -19,13 +19,14 @@ publishedDate: 2026-09-04
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination, and do not reference any specific set play — apply the
-> method below to whichever pre-1900 and post-1900 texts your centre has chosen. They
-> are **not** reproduced past-paper questions. Examination boards hold copyright in
-> their own papers. Use these alongside the official past papers available free from
-> your board, since these questions are designed to build transferable exam technique
-> rather than to substitute for practice on genuine board material.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content, and do not reference any specific set play — apply
+> the method below to whichever pre-1900 and post-1900 texts your centre has
+> chosen. They are **not** reproduced past-paper questions. Examination boards
+> hold copyright in their own papers. Use these alongside the official past
+> papers available free from your board, since these questions are designed to
+> build transferable exam technique rather than to substitute for practice on
+> genuine board material.
 
 Related: [Unit 2 Drama study guide](/resources/a-level-edexcel-english-literature-drama/) | [Unit 2 Drama revision notes](/resources/edexcel-a-level-english-literature-drama-revision-notes/)
 

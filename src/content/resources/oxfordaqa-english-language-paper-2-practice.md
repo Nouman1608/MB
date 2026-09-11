@@ -17,12 +17,12 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. The source text used in Question 3 is an original
-> passage written for this resource, not a reproduced past-paper source. These are
-> **not** reproduced past-paper questions — examination boards hold copyright in
-> their own papers. Use these alongside the official past papers available free
-> from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. The source text used in Question 3 is an original
+> passage written for this resource, not a reproduced past-paper source. These
+> are **not** reproduced past-paper questions — examination boards hold
+> copyright in their own papers. Use these alongside the official past papers
+> available free from your board.
 
 Related: [Source-based Reading and Directed Writing study guide](/resources/igcse-oxfordaqa-english-language-paper-2/), [Source-based Reading and Directed Writing revision notes](/resources/igcse-oxfordaqa-english-language-paper-2-revision-notes/)
 

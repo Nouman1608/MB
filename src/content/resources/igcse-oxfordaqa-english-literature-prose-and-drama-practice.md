@@ -18,11 +18,12 @@ publishedDate: 2026-08-26
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination, and do not reference any specific set text — apply
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content, and do not reference any specific set text — apply
 > the method below to your own studied prose text and play. They are **not**
-> reproduced past-paper questions. Examination boards hold copyright in their own
-> papers. Use these alongside the official past papers available free from your board.
+> reproduced past-paper questions. Examination boards hold copyright in their
+> own papers. Use these alongside the official past papers available free from
+> your board.
 
 Related: [Prose and Drama revision notes](/resources/igcse-oxfordaqa-english-literature-prose-and-drama-revision-notes/)
 

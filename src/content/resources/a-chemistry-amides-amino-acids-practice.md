@@ -22,10 +22,11 @@ author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
 ---
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board.
 
 Related: [Amides and Amino Acids revision notes](/resources/a-chemistry-amides-amino-acids-revision-notes/), covering amide preparation and hydrolysis, zwitterions, isoelectric point and dipeptide/tripeptide formation for Cambridge A Level Chemistry 9701.
 

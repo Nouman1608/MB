@@ -18,12 +18,13 @@ publishedDate: 2026-08-26
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper questions —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board, since genuine board material
-> is the most reliable guide to exact question phrasing and mark scheme wording for
-> your specific examination series.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs — examination boards hold copyright in their own papers. Use
+> these alongside the official past papers available free from your board, since
+> genuine board material is the most reliable guide to exact question phrasing
+> and mark scheme wording for your specific examination series.
 
 Related: [The History and Culture of Pakistan revision notes](/resources/o-level-pakistan-studies-history-and-culture-of-pakistan-revision-notes/)
 

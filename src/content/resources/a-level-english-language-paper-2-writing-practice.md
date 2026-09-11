@@ -18,10 +18,10 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 ---
-> **These are original tasks written for Marlbridge**, in the style and at the
-> standard of the examination. They are **not** reproduced past-paper tasks —
-> examination boards hold copyright in their own papers. Use these alongside the
-> official past papers available free from your board.
+> **These are original tasks written for Marlbridge**, for revision and practice
+> on this content. They are **not** reproduced past-paper tasks — examination
+> boards hold copyright in their own papers. Use these alongside the official
+> past papers available free from your board.
 
 Related: [Paper 2 Writing study guide](/resources/a-level-english-language-paper-2-writing/)
 
