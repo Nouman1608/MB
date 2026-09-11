@@ -75,7 +75,7 @@ view.
 
 ## Why "knowledge of content is not assessed" changes how you revise
 
-Global Perspectives' own specification states plainly that content knowledge is not what earns marks
+Global Perspectives' own syllabus states plainly that content knowledge is not what earns marks
 in this component — there is no fixed topic list to memorise the way there is for a traditional
 subject. This means the highest-value revision activity is not reading more about your chosen issue,
 but practising the transferable skills themselves: reading past exemplar reports on entirely different

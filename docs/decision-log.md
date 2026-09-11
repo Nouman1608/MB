@@ -7615,3 +7615,64 @@ file findings (E460, E490, E491, E570, E571, I212, Q186, U21, U22, U24),
 then the per-subject clusters (Accounting/business/commerce/law/sociology,
 Business, Chemistry, Computer science, Economics, English, English
 literature, Geography, Physics, Sociology, World history).
+
+## D-167 - Corpus-wide/no-single-file batch closed: E460, E490, E491, E570,
+E571, I212, Q186, U21, U22, U24
+
+**Date:** 2026-09-11
+
+**Context.** Continuing the "corpus-wide / no single file" findings named
+at the end of D-166. Per U21/U24's own recommendation (never trust a
+search scoped only to the file(s) a finding names -- search the whole
+corpus, re-read sibling/family files after any fix, include frontmatter
+and descriptions in the search), every finding below was re-investigated
+with an unrestricted corpus search rather than acted on at face value.
+This repeatedly surfaced a wider or narrower true scope than the finding
+text itself claimed -- documented per finding below.
+
+**Finding ID -> file -> what changed.**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E460 | (see D-165/D-166 batch scope note) | Already resolved earlier in this session's work; no further action needed this batch. |
+| E490 | (see prior batch) | Already resolved earlier in this session's work; no further action needed this batch. |
+| E491 | `igcse-business-marketing-practice.md`, `igcse-business-people-in-business-practice.md`, `o-level-business-people-in-business-practice.md`, `a-level-business-hrm-practice.md`, `a-level-business-marketing-practice.md`, `accounting-business-entities-practice.md` (6 files, 7 instances -- finding named 3) | Replaced off-glossary command word "Name" with the official Cambridge command word "Identify" per `src/data/academic/command-words.ts` (22-word glossary; "Identify" listed, "Name" is not). `accounting-business-entities-practice.md` had 2 instances, found only on full-file read, not the initial regex pass. Legitimate uses of "person specification" (HR term, 2 other files) were identified and left untouched. |
+| E570 | 69 files under `src/content/resources/*.md` (96 line-level occurrences -- finding claimed "forty three") | Replaced "specification(s)" with "syllabus(es)" (word-boundary, case-preserving) wherever it referred to the Cambridge exam syllabus document. Built from an unrestricted corpus search (1,826 raw "specification" matches) intersected with the 752 Cambridge-board files, yielding 74 candidate files / 103 occurrences; 7 were classified as genuine false positives and excluded (4x "person specification" -- HR term, in the 3 business files also touched by E491; 3x "builds one to specification" -- idiom, in 2 English-language files, which ended with zero net changes). Fix applied via a line-targeted Python script preserving original CRLF line endings. |
+| E571 | `a-level-english-language-paper-4-language-topics-practice.md` | Extended all 3 stimulus extracts (Q1 business-forum, Q2 workplace-communication, Q3 futureless-languages) from 367/363/384 words to 448/456/443 words, landing them inside the Cambridge 9093 syllabus's ~400-500 word range for this paper. Verified the extracts' "examination standard" claim had already been removed by the earlier E568 431-file corpus sweep (this file's blockquote already read the corrected wording) -- confirmed by direct read, not assumed. |
+| I212 | `igcse-english-literature-paper-4-unseen-revision-notes.md` | Added a new "## Official syllabus" section citing the Cambridge IGCSE Literature in English (0475) syllabus PDF, matching the citation pattern already present on 6 of the other 10 files in this resource family. Verified the finding's "six siblings all cite one" claim by reading the full 11-file family (6-with/5-without split confirmed accurate). |
+| Q186 | (see prior batch, 3 files) | Already resolved earlier in this session's work; no further action needed this batch. |
+| U21 / U24 | (process finding, not a content defect) | Not a single-file fix -- both findings recommend exactly the corpus-wide search discipline applied throughout this batch. This batch's own results are the compliance evidence: E491 (6 files found vs. 3 named), E570 (69 files/96 occurrences vs. "forty three" claimed), and U22 below (14 files found vs. "eleven" claimed) each surfaced a materially different true scope than a scoped search would have caught, directly demonstrating the practice's value. |
+| U22 | 8 files edited: `a-level-oxfordaqa-sociology-exploring-sociology.md`, `a-level-oxfordaqa-sociology-introducing-sociology.md`, `oxfordaqa-a-level-sociology-exploring-sociology-practice.md`, `oxfordaqa-a-level-sociology-exploring-sociology-revision-notes.md`, `oxfordaqa-a-level-sociology-practice.md`, `oxfordaqa-a-level-sociology-revision-notes.md`, `oxfordaqa-a-level-sociology-exam-preparation.md`, `oxfordaqa-igcse-sociology-exam-preparation.md` (14 files now compliant total -- finding claimed "eleven"; 6 others were already correct) | Added an explicit "Version 1.0" record to each file's `syllabusSeries` frontmatter field (e.g. `"new qualification"` -> `"Version 1.0 (new qualification)"`; the two exam-preparation files got `"Version 1.0 -- "` prefixed onto their longer existing value). Confirmed `syllabusSeries` is reader-facing (rendered in `src/pages/checklists/[board]/[qualification]/[subject].astro` and `src/pages/admin/practice-gaps.astro`) before treating a vague value as a genuine defect rather than cosmetic. The other 6 files in the same two OxfordAQA Sociology families already had `syllabusSeries: "Version 1.0"` and were left untouched. |
+
+**Search-discipline/verification note.** Every finding above was
+re-investigated with an unrestricted corpus search before any fix was
+applied, per U21/U24. Three findings (E491, E570, U22) turned up a
+materially larger true scope than the finding text claimed; none turned
+up a smaller one. All candidate matches were read in full sentence/line
+context before inclusion, and genuine homonym/idiom uses ("person
+specification", "builds one to specification") were identified and
+excluded rather than mechanically replaced.
+
+**Validation gate.** `npx astro check` (0 errors, 18 pre-existing hints)
+-> `npm run validate:academic` (all validators PASS) -> `npm run build`
+(first attempt failed with a stale `dist/.prerender` module-resolution
+error on `/resources`, diagnosed as a build-cache artifact unrelated to
+content; cleared `dist/`, `node_modules/.astro`, `node_modules/.vite` and
+rebuilt clean -- 2,129 pages, Pagefind index rebuilt) ->
+`test-cross-board-regression.mjs` (OK) ->
+`test-negative-validation-suite.mjs` (35/35) -> API tests (31/31) ->
+`npm audit --fetch-timeout=20000 --fetch-retries=2` (0 vulnerabilities) ->
+`coverage:academic-v2` (regenerated; `docs/reports/academic-coverage-
+report-v1.2.{json,csv}` left unstaged, diff confirmed limited to
+`generatedAt` timestamp + expected `totalQualifyingWordCount` increases
+reflecting this batch's content additions) -> `check-duplicate-resource-
+scope.mjs` (PASS) -> `audit:all` (11/11 sub-audits). Exit code 0
+throughout.
+
+**Next.** This closes the "corpus-wide / no single file" findings batch.
+Per the owner's "continue now, section by section" instruction, next up
+are the remaining per-subject clusters in `docs/audit/2026-09-11-
+findings.md`: Accounting/business/commerce/law/sociology (1), Business
+(3), Chemistry (2), Computer science (16), Economics (4), English (1),
+English literature (58), Geography (11), Physics (1), Sociology (36),
+World history (34).

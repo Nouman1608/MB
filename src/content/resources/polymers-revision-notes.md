@@ -76,7 +76,7 @@ Proteins are natural **polyamides**, which is why nylon and protein share the �
 
 **Hydrolysis** breaks proteins down into amino acids, in effect running condensation polymerisation backwards — water is added back in at the amide linkage, splitting the chain at exactly the bonds that were formed by losing water in the first place.
 
-*Background — beyond the specification, not examinable:* starch and cellulose (both glucose polymers joined by glycosidic linkages) and DNA (nucleotides joined by phosphodiester linkages) are natural polymers, but neither is named in the 0620/5070 subject content.
+*Background — beyond the syllabus, not examinable:* starch and cellulose (both glucose polymers joined by glycosidic linkages) and DNA (nucleotides joined by phosphodiester linkages) are natural polymers, but neither is named in the 0620/5070 subject content.
 
 ## Plastics and the environment
 

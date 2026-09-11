@@ -101,12 +101,12 @@ capital in a large single order [1] [1] [1].
 
 ---
 
-## A note on this specification
+## A note on this syllabus
 
-Cambridge O Level Commerce (7100) is a newer specification, examined from 2026, and shares much of its
+Cambridge O Level Commerce (7100) is a newer syllabus, examined from 2026, and shares much of its
 structure with the sibling IGCSE Commerce syllabus, though the two carry different syllabus codes
 (7100 for O Level, 0715 for IGCSE) and different official source PDFs. Candidates should always confirm
-which specification their school has entered them for before relying on a specific syllabus code or
+which syllabus their school has entered them for before relying on a specific syllabus code or
 official source link, since the underlying content overlaps closely but the exact assessment details
 and past papers available differ between the two.
 

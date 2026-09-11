@@ -54,10 +54,10 @@ method in isolation.
 
 ## Official syllabus
 
-Cambridge O Level Environmental Management (5014) specification, for examination in 2025-2026 --
+Cambridge O Level Environmental Management (5014) syllabus, for examination in 2025-2026 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664483-2025-2026-syllabus.pdf).
 This guide's syllabus content was confirmed via official search summaries rather than a full page fetch of
-the linked PDF, since large specification documents exceed this tool's page-retrieval size limit; always
+the linked PDF, since large syllabus documents exceed this tool's page-retrieval size limit; always
 check the current syllabus document directly for the complete, authoritative wording before an exam.
 
 ## Intensive vs extensive farming

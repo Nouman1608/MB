@@ -205,7 +205,7 @@ U = (3/2) n R T        (for a monatomic ideal gas)
 ```
 
 *This internal-energy expression is not itself a named recall equation in
-the 9702 specification or data booklet — it follows directly from summing
+the 9702 syllabus or data booklet — it follows directly from summing
 the per-molecule kinetic energy E = (3/2)kT (which is on the syllabus) over
 N = nNₐ molecules. If a question needs it, expect it to be derived from
 that per-molecule relation rather than simply quoted.*

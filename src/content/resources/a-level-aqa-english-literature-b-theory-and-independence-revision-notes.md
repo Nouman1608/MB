@@ -137,8 +137,12 @@ the place where the critical reading is actually demonstrated.
 texts your own centre doesn't teach for the exam component.
 - Under-studying a poetry or short-story collection — the whole text
 must be studied even though only two items are analysed in detail.
-- Missing the 1,250–1,500-word band on either essay, which can incur
-a penalty independent of content quality.
+- Missing the 1,250–1,500-word band on either essay: AQA sets no
+marks penalty for length alone (only malpractice is penalised on
+word count), but you're expected to make a concerted effort to stay
+within the stated band. Quotations don't count towards the total; for
+a re-creative response, the creative piece and its commentary are
+counted together, not separately.
 
 ## Self-test
 

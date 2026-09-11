@@ -54,10 +54,10 @@ positive case, pays off across this topic.
 
 ## Official syllabus
 
-Cambridge O Level Commerce (7100) specification, for examination in 2026-2028 --
+Cambridge O Level Commerce (7100) syllabus, for examination in 2026-2028 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/693604-2026-2028-syllabus.pdf).
 This guide's syllabus content was confirmed via official search summaries rather than a full page fetch of
-the linked PDF, since large specification documents exceed this tool's page-retrieval size limit; always
+the linked PDF, since large syllabus documents exceed this tool's page-retrieval size limit; always
 check the current syllabus document directly for the complete, authoritative wording before an exam.
 
 ## Why multinationals expand abroad

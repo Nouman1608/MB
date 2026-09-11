@@ -60,7 +60,7 @@ valuable than memorising definitions alone.
 
 ## Official syllabus
 
-Cambridge IGCSE Economics (0455) specification, for examination in 2026 --
+Cambridge IGCSE Economics (0455) syllabus, for examination in 2026 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697154-2026-syllabus.pdf).
 
 ## Households, workers and wage determination

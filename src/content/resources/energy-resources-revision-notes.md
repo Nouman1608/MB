@@ -86,7 +86,7 @@ efficiency = (1600 / 2000) x 100% = 80%
 
 Both formulas — energy-based and power-based — give the same answer for the same device, since power is just energy transferred per second; the ratio of useful to total is unchanged whether it's measured as a total amount or as a rate. See the [Energy Resources and Efficiency study guide](/resources/energy-resources-and-efficiency/) for the full reasoning behind each resource's generation method.
 
-**Sankey diagrams** *(background, not examinable — the specification requires only the two efficiency equations, not diagram construction)*: the width of each arrow is proportional to the energy, drawn to scale; total in = total out, so the arrows leaving must add back up to the single arrow entering.
+**Sankey diagrams** *(background, not examinable — the syllabus requires only the two efficiency equations, not diagram construction)*: the width of each arrow is proportional to the energy, drawn to scale; total in = total out, so the arrows leaving must add back up to the single arrow entering.
 
 ## Exam traps
 

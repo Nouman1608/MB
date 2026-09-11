@@ -96,4 +96,4 @@ Recommend a suitable communication medium for each of the two needs, and explain
 
 ## Official syllabus
 
-Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, section 6.1 "Communication" — the same specification cited by the [ICT Applications: Communication study guide](/resources/igcse-ict-applications-communication/) and its [revision notes](/resources/igcse-ict-applications-communication-revision-notes/). Verified 2026-09-02.
+Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, section 6.1 "Communication" — the same syllabus cited by the [ICT Applications: Communication study guide](/resources/igcse-ict-applications-communication/) and its [revision notes](/resources/igcse-ict-applications-communication-revision-notes/). Verified 2026-09-02.

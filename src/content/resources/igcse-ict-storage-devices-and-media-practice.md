@@ -90,4 +90,4 @@ Related: [Storage Devices and Media revision notes](/resources/igcse-ict-storage
 
 ## Official syllabus
 
-Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, Topic 3 "Storage devices and media" — the same specification cited by the [Storage Devices and Media study guide](/resources/igcse-ict-storage-devices-and-media/) and its [revision notes](/resources/igcse-ict-storage-devices-and-media-revision-notes/). Verified 2026-09-02.
+Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, Topic 3 "Storage devices and media" — the same syllabus cited by the [Storage Devices and Media study guide](/resources/igcse-ict-storage-devices-and-media/) and its [revision notes](/resources/igcse-ict-storage-devices-and-media-revision-notes/). Verified 2026-09-02.

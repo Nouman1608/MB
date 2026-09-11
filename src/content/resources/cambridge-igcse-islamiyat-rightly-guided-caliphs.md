@@ -54,7 +54,7 @@ political community after the Prophet's death.
 
 ## Official syllabus
 
-Cambridge IGCSE Islamiyat (0493) specification, for examination in 2026-2027 --
+Cambridge IGCSE Islamiyat (0493) syllabus, for examination in 2026-2027 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697174-2026-2027-syllabus.pdf).
 
 ## The four Caliphs, one at a time

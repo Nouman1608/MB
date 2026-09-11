@@ -97,4 +97,4 @@ Compare the two methods, explaining at least two advantages of the RFID method o
 
 ## Official syllabus
 
-Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, Topic 2 — the same specification cited by the [Input and Output Devices study guide](/resources/igcse-cambridge-ict-input-output-devices/) and its [revision notes](/resources/igcse-ict-input-output-devices-revision-notes/).
+Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, Topic 2 — the same syllabus cited by the [Input and Output Devices study guide](/resources/igcse-cambridge-ict-input-output-devices/) and its [revision notes](/resources/igcse-ict-input-output-devices-revision-notes/).

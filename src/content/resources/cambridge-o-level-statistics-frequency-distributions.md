@@ -52,7 +52,7 @@ than memorising a single worked example, is the most reliable preparation.
 
 ## Official syllabus
 
-Cambridge O Level Statistics (4040) specification, for examination in 2025-2027 --
+Cambridge O Level Statistics (4040) syllabus, for examination in 2025-2027 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664481-2025-2027-syllabus.pdf).
 
 ## Class limits vs class boundaries

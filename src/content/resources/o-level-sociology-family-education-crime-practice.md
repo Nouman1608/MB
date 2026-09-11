@@ -97,7 +97,7 @@ suggesting a suitable method for studying a family, education or crime-related q
 it briefly. For example, a study into why some students underachieve might use structured interviews for
 comparability across a large sample, or unstructured interviews/participant observation for depth of
 insight into a small number of cases — being ready to justify the trade-off between representativeness
-and depth is a transferable skill examiners reward across both papers of this specification.
+and depth is a transferable skill examiners reward across both papers of this syllabus.
 
 ## Weighting your revision across the three topics
 
@@ -128,5 +128,5 @@ level cannot access explain-level marks no matter how accurate those facts are.
 - Answering an evaluate-style question (like Q4) with a one-sided list rather than weighing factors against each other.
 - Confusing formal and informal social control, or giving an example that fits neither category clearly.
 - Presenting official crime statistics as a complete and accurate picture rather than acknowledging their known limitations.
-- Answering a family or education question with only common-sense assumptions about effort or personal choice, without engaging any named sociological factor from the specification.
+- Answering a family or education question with only common-sense assumptions about effort or personal choice, without engaging any named sociological factor from the syllabus.
 - Forgetting to give a specific, concrete example when a question asks candidates to explain a function or factor, rather than naming it in the abstract.

@@ -74,7 +74,7 @@ Related: [Paper 3 – Shakespeare and Drama study guide](/resources/a-level-engl
 
 - Treating AO5 as simply another personal opinion, rather than genuine engagement with someone else's reading of the text.
 - Writing an essay-style response to a passage-based (b) question while ignoring the extract actually printed on the paper.
-- Assuming a previous year's set texts are still current, without checking the specification for the series actually being sat.
+- Assuming a previous year's set texts are still current, without checking the syllabus for the series actually being sat.
 - Forgetting that Papers 3 and 4 are full-A-Level-only and cannot form part of an AS-Level-only route.
 - Analysing a scene's language and structure skilfully throughout an essay, but never once referencing how it has been read or performed differently by others.
 

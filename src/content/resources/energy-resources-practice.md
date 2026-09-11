@@ -40,7 +40,7 @@ Related: [Energy Resources revision notes](/resources/energy-resources-revision-
 
 **(a)** Calculate the efficiency. **[2]**
 **(b)** Calculate the energy dissipated each second. **[1]**
-**(c)** *(Background, not examinable — the specification requires only the two efficiency equations, not Sankey diagram construction.)* Describe how this would be shown on a Sankey diagram. **[3]**
+**(c)** *(Background, not examinable — the syllabus requires only the two efficiency equations, not Sankey diagram construction.)* Describe how this would be shown on a Sankey diagram. **[3]**
 
 **5.** *(Extension beyond the strict 5054 scope — a real-world evaluation question, rather than the syllabus's restricted "advantages/disadvantages" comparison, which excludes cost and reliability.)* Evaluate solar power for a remote village with no grid connection, considering reliability, cost and environmental impact. **[6]**
 
@@ -94,7 +94,7 @@ Related: [Energy Resources revision notes](/resources/energy-resources-revision-
 
 - Classifying nuclear as renewable, or as a fossil fuel.
 - Omitting an energy transfer stage in the power station description.
-- Not drawing Sankey arrow widths to scale *(background — Sankey diagrams are not on the 5054 specification)*.
+- Not drawing Sankey arrow widths to scale *(background — Sankey diagrams are not on the 5054 syllabus)*.
 - Forgetting to convert kW to W or minutes to seconds.
 - Bringing in cost or general reliability when the question asks specifically for the syllabus's three permitted factors: renewable, availability, environmental impact.
 - Saying every renewable resource skips the turbine and generator — only solar photovoltaic does; hydroelectric, wind, tidal and wave power still use a turbine, just driven directly rather than by steam.

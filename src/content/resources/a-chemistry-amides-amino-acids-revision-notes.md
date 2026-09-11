@@ -77,7 +77,7 @@ The **peptide bond** `–CONH–` forms by condensation between the amine group 
 
 **Hydrolysis** with aqueous acid (e.g. dilute or concentrated HCl), heated under reflux, breaks a dipeptide or tripeptide back down into its constituent amino acids, reversing each peptide bond in the chain.
 
-**Beyond the specification (not assessed at this level):** the folding of many amino acids into a full protein — primary, secondary (α-helix, β-pleated sheet) and tertiary structure, disulfide bridges between cysteine residues — is background context only. 9701 stops at di- and tripeptides and does not require any of this terminology.
+**Beyond the syllabus (not assessed at this level):** the folding of many amino acids into a full protein — primary, secondary (α-helix, β-pleated sheet) and tertiary structure, disulfide bridges between cysteine residues — is background context only. 9701 stops at di- and tripeptides and does not require any of this terminology.
 
 ## Exam traps
 

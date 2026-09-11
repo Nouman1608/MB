@@ -22,7 +22,7 @@ This guide covers **Theme 1 Population and Settlement**, for Cambridge
 O Level Geography 2217, 2026 (Version 3), the first of three themes
 that together make up the full syllabus. 2217 shares an identical
 three-theme, 19-sub-topic structure with Cambridge IGCSE Geography
-0460, independently confirmed against 2217's own specification PDF —
+0460, independently confirmed against 2217's own syllabus PDF —
 useful to know if a student's centre offers both qualifications, since
 the underlying content maps directly across the two.
 Exams for 2217 are available in the November series only, a scheduling

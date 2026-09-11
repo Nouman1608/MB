@@ -101,7 +101,7 @@ Electrons must cancel exactly when the halves are combined — if they don't, mu
 | Oxidising agent | Potassium iodide solution | Colourless → brown | I⁻ oxidised to I₂ |
 | Reducing agent | Acidified potassium manganate(VII) | Purple → colourless | MnO₄⁻ reduced to Mn²⁺ |
 
-*Background — beyond the specification, not examinable:* acidified potassium dichromate(VI) turning **orange → green** also indicates a reducing agent, but this test is not part of the 0620/5070 subject content.
+*Background — beyond the syllabus, not examinable:* acidified potassium dichromate(VI) turning **orange → green** also indicates a reducing agent, but this test is not part of the 0620/5070 subject content.
 
 ## Worked identification
 

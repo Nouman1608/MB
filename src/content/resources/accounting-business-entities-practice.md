@@ -34,7 +34,7 @@ Related: [Business Entities and the Accounting System revision notes](/resources
 
 ## Section A
 
-**1.** Name the books of prime entry and state what is recorded in each. **[5]**
+**1.** Identify the books of prime entry and state what is recorded in each. **[5]**
 
 **2.** State **three** differences between the financial statements of a sole trader and those of a limited company. **[3]**
 
@@ -61,7 +61,7 @@ Related: [Business Entities and the Accounting System revision notes](/resources
 
 **(b)** State the accounting equation and explain how an $18 000 bank loan used to buy the van affects it. **[3]**
 
-**8.** For each scenario, name the accounting concept being applied.
+**8.** For each scenario, identify the accounting concept being applied.
 
 **(a)** A machine bought for $50 000 five years ago is still recorded at $50 000, despite now being worth $30 000. **[2]**
 

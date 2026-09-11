@@ -57,7 +57,7 @@ of the three set passages accessible on exam day.
 
 ## Official syllabus
 
-Cambridge O Level Islamiyat (2058) specification, for examination in 2024-2025 --
+Cambridge O Level Islamiyat (2058) syllabus, for examination in 2024-2025 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/635787-2024-2025-syllabus.pdf).
 
 ## Tawhid: the foundational theme

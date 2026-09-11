@@ -83,7 +83,7 @@ north) too far south, or confusing coastal Gwadar with inland Hyderabad.
 
 ## Natural topography and drainage (1c)
 
-The specification is explicit that candidates do not need to know how
+The syllabus is explicit that candidates do not need to know how
 Pakistan's mountains, plateaux or deserts were formed geologically —
 only how to identify and describe them, and how they influence human
 activity. Learn the three mountain systems (Hindu Kush, Karakoram,

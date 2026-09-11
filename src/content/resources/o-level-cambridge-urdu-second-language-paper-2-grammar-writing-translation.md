@@ -29,11 +29,11 @@ second paper, which has no equivalent in 3247.
 ## Where this fits in Cambridge O-Level Urdu
 
 Cambridge offers two separate, currently examined O Level Urdu
-specifications: **3247 First Language Urdu**, whose Paper 2 (Texts)
+syllabuses: **3247 First Language Urdu**, whose Paper 2 (Texts)
 tests literary set texts, and **3248 Second Language Urdu**, whose
 Paper 2 (Grammar, Writing and Translation) instead tests applied
 language skills — grammar in context, extended writing and translation
-from English into Urdu. Candidates take one specification or the
+from English into Urdu. Candidates take one syllabus or the
 other, never both, in the same series, so this guide is specifically
 for 3248 candidates; 3247 candidates should use Marlbridge's Paper 2
 Texts guide instead.

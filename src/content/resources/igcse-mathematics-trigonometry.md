@@ -33,7 +33,7 @@ decimals, and Geometry's angle facts and constructions. Coordinate
 geometry's gradient work (Topic 3) also resurfaces here, since a
 right-angled triangle drawn between two coordinates is the usual
 route to finding a line's length. At Extended tier, Trigonometry is
-one of the most heavily weighted single topics in the specification,
+one of the most heavily weighted single topics in the syllabus,
 because it recurs inside Mensuration (3D solids), Vectors and
 Transformations (bearings-style problems) and Geometry (circle and
 triangle problems combined with trig).

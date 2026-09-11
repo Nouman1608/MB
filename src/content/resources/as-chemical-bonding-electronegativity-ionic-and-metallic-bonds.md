@@ -103,7 +103,7 @@ bond sits at.
 
 **Ionic bonding** is the electrostatic attraction between oppositely charged
 ions — positively charged cations and negatively charged anions — formed
-when one atom transfers one or more electrons to another. The specification
+when one atom transfers one or more electrons to another. The syllabus
 names three examples worth being able to describe directly:
 
 - **Sodium chloride, NaCl** — sodium (2,8,1) transfers one electron to

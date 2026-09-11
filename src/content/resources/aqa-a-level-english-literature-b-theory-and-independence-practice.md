@@ -67,7 +67,7 @@ Related: [Theory and Independence revision notes](/resources/a-level-aqa-english
 
 ## Worked answers
 
-**1.** 1,250-1,500 words per essay; Component 3 is worth 20% of the A-level. **[3]**
+**1.** 1,250-1,500 words per essay; Component 3 is worth 20% of the A-level. Quotations aren't counted towards the total, and for a re-creative response the creative piece and its commentary are counted together, not separately. **[3]**
 
 **2.** One text must be prose and the other poetry; each text must be linked to a different section of the Critical anthology. **[2]**
 

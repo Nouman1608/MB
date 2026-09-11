@@ -126,5 +126,5 @@ Supplement content, see the [Alcohols and Carboxylic Acids study guide](/resourc
 Note that the ester-formation and ethanol-oxidation reactions are Supplement
 content for 0620 candidates, but are required outcomes for every O Level
 5070 candidate, since 5070 has no Core/Supplement split — always check
-which specification you are being examined against before deciding how
+which syllabus you are being examined against before deciding how
 much of this network to prioritise in revision.

@@ -89,4 +89,4 @@ Related: [The Team Project revision notes](/resources/a-level-cambridge-global-p
 
 ## Official syllabus
 
-Cambridge International AS & A Level Global Perspectives & Research (9239) syllabus for examination in 2026, 2027 and 2028 (Version 3, published December 2025), section 4 ("Details of the assessment — Component 3 — Team Project") — the same specification cited by the [Team Project study guide](/resources/a-level-cambridge-global-perspectives-team-project/) and its [revision notes](/resources/a-level-cambridge-global-perspectives-team-project-revision-notes/). Verified 2026-09-02.
+Cambridge International AS & A Level Global Perspectives & Research (9239) syllabus for examination in 2026, 2027 and 2028 (Version 3, published December 2025), section 4 ("Details of the assessment — Component 3 — Team Project") — the same syllabus cited by the [Team Project study guide](/resources/a-level-cambridge-global-perspectives-team-project/) and its [revision notes](/resources/a-level-cambridge-global-perspectives-team-project-revision-notes/). Verified 2026-09-02.

@@ -92,14 +92,14 @@ This identify → explain → connect structure applies equally to Part
 ## Why this differs from 3248 Second Language Urdu
 
 Cambridge O Level First Language Urdu (3247) is a distinct
-specification from Second Language Urdu (3248), even though both are
+syllabus from Second Language Urdu (3248), even though both are
 offered by the same board for candidates studying the same language.
 3247's Paper 2 is built entirely around literature -- an unseen
 extract plus prescribed poetry and prose -- while 3248's equivalent
 paper (Grammar, Writing and Translation) tests a different skill set
 altogether. Candidates and teachers should confirm which specific
 syllabus code their centre has entered them for before using any
-revision material, since the two Urdu specifications are not
+revision material, since the two Urdu syllabuses are not
 interchangeable despite the shared subject name.
 
 ## Building depth on a manageable subset

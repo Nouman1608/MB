@@ -21,7 +21,7 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Cambridge O-Level Urdu study guide](/resources/o-level-cambridge-urdu-first-and-second-language/).
 
-## Which specification are you sitting?
+## Which syllabus are you sitting?
 
 Confirm this with your centre before revising — the two Paper 1s are
 built differently, and revising the wrong one wastes time.
@@ -106,7 +106,7 @@ syllabus.
 3248 marks this explicitly under **W4** (control of punctuation and
 spelling); 3247 folds it into the Language strand.
 
-## Reading method — both specifications
+## Reading method — both syllabuses
 
 1. Read the **questions or task headings first**.
 2. Read the passage once for overall sense.

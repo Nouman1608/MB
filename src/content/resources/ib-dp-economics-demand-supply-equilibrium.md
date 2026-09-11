@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-economics-unit-2"
-description: "Demand, supply and competitive market equilibrium -- sub-topics 2.1-2.3 of IB Diploma Programme Economics Unit 2 Microeconomics, the largest single unit in the syllabus, first assessment 2022."
+description: "Demand, supply and competitive market equilibrium -- sub-topics 2.1-2.3 of IB Diploma Programme Economics Unit 2 Microeconomics (35 SL / 70 HL teaching hours), first assessment 2022."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -27,8 +27,11 @@ guide](/resources/ib-dp-economics-syllabus-guide/).
 
 ## Where this fits in the syllabus
 
-These three sub-topics open Unit 2 Microeconomics, the largest single
-unit in the DP Economics syllabus, and build directly on the
+These three sub-topics open Unit 2 Microeconomics (35 SL / 70 HL
+teaching hours) -- not the largest unit in the syllabus: at Standard
+Level, Unit 4 (the global economy, 45 hours) is larger, and at Higher
+Level, Unit 3 (macroeconomics, 75 hours) is larger -- and build
+directly on the
 scarcity-and-opportunity-cost toolkit introduced in Unit 1. They also
 set up the diagrams that Unit 2's later sub-topics on elasticity (2.5,
 2.6) build directly on top of: elasticity asks how much quantity

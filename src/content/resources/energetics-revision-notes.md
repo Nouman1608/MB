@@ -97,7 +97,7 @@ dH = 678 - 862 = -184 kJ/mol   -> EXOTHERMIC
 
 ## Calorimetry — measuring ΔH experimentally
 
-> **Not on the 0620/5070 specification.** Calorimetry, specific heat
+> **Not on the 0620/5070 syllabus.** Calorimetry, specific heat
 > capacity and Q = mcΔT calculations are not part of either syllabus's
 > chemical energetics content — the only quantitative energetics outcome
 > required at this level is the bond-energy calculation above. This section

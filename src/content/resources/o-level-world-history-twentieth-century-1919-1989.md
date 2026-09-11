@@ -21,7 +21,7 @@ featured: false
 This guide covers **Core Content Option B: The Twentieth Century,
 1919-1989**, one of two Core Content options in Cambridge O Level
 World History 2147, 2024-2026 series. As independently confirmed
-against 2147's own specification PDF, it shares an identical set of
+against 2147's own syllabus PDF, it shares an identical set of
 Core content options with Cambridge IGCSE World History (0470).
 
 ## Where this fits in 2147

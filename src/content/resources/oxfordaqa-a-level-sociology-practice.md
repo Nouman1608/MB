@@ -7,7 +7,7 @@ topic: "Unit 1 – Introducing Sociology"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9690"]
-syllabusSeries: "new qualification"
+syllabusSeries: "Version 1.0 (new qualification)"
 order: 1
 stage: "AS"
 syllabusTopics:

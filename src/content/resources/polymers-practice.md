@@ -43,7 +43,7 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 
 **(a)** Describe what happens to the double bond during polymerisation. **[2]**
 **(b)** Draw or describe the repeat unit, explaining the two features that must be shown. **[3]**
-**(c)** *Beyond the specification — not examinable, background only ("atom economy" is not a defined term in 0620/5070).* Explain why no reactant mass is wasted in addition polymerisation.
+**(c)** *Beyond the syllabus — not examinable, background only ("atom economy" is not a defined term in 0620/5070).* Explain why no reactant mass is wasted in addition polymerisation.
 
 **4.** Explain why most addition polymers are non-biodegradable, and give **two** environmental consequences. **[4]**
 
@@ -60,7 +60,7 @@ Related: [Polymers revision notes](/resources/polymers-revision-notes/)
 
 **(a)** Name the linkage common to both, and name the natural monomers that join to form it in proteins. **[2]**
 **(b)** Explain, with reference to hydrolysis, what this linkage breaks down into in each case. **[2]**
-**(c)** *Beyond the specification — not examinable, background only.* Starch and cellulose are natural polymers of glucose. Name the linkage joining glucose units, and state the product of hydrolysing starch.
+**(c)** *Beyond the syllabus — not examinable, background only.* Starch and cellulose are natural polymers of glucose. Name the linkage joining glucose units, and state the product of hydrolysing starch.
 
 ---
 

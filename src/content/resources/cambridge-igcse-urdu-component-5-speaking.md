@@ -62,7 +62,7 @@ practice across a range of everyday subjects is the only reliable preparation.
 
 ## Official syllabus
 
-Cambridge IGCSE Urdu as a Second Language (0539) specification, for examination in 2025-2027 --
+Cambridge IGCSE Urdu as a Second Language (0539) syllabus, for examination in 2025-2027 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664633-2025-2027-syllabus.pdf).
 
 ## Choosing a strong Part 1 presentation topic

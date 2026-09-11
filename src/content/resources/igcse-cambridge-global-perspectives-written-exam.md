@@ -21,7 +21,7 @@ featured: false
 This guide covers **Component 1 Written Exam**, one of three
 components in Cambridge IGCSE Global Perspectives (0457), for
 examination 2025-2027. This syllabus is unusual among IGCSE subjects:
-the specification explicitly states that knowledge of content is not
+the syllabus explicitly states that knowledge of content is not
 assessed. Instead, candidates develop transferable skills of research,
 analysis, evaluation, reflection, communication and collaboration
 using an open list of global-issue topics as a stimulus.

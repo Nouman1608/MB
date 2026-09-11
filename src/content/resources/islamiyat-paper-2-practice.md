@@ -113,7 +113,7 @@ examined in a way that does not suit that year's preparation.
 
 - Explaining isnad without also covering matn (the text-based check), or vice versa — the question
   asks for both.
-- Listing Abu Bakr's achievements without the Ridda wars, which the specification treats as central to
+- Listing Abu Bakr's achievements without the Ridda wars, which the syllabus treats as central to
   his significance.
 - Describing salat's physical actions without linking them to its significance for community and
   discipline.

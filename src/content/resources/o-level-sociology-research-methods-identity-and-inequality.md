@@ -22,7 +22,7 @@ This guide covers **Paper 1 Research Methods, Identity and
 Inequality**, for Cambridge O Level Sociology 2251, Version 3,
 2025–2027 series. Confirm with your teacher the full paper structure
 for your own examination series before finalising a revision plan. Independently confirmed against 2251's own
-specification PDF: it shares identical paper titles and structure with
+syllabus PDF: it shares identical paper titles and structure with
 Cambridge IGCSE Sociology 0495. Paper 1 is compulsory across all three
 topics — three questions, candidates answer two, with Question 1
 compulsory.

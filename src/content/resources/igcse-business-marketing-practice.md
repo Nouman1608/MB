@@ -32,7 +32,7 @@ Related: [Marketing study guide](/resources/igcse-business-marketing/) and
 
 **1.** State one benefit and one limitation of niche marketing. **[2]**
 
-**2.** Name the four stages of the product life cycle, in order. **[2]**
+**2.** Identify the four stages of the product life cycle, in order. **[2]**
 
 **3.** Give one example of primary research and one example of secondary research. **[2]**
 
@@ -106,7 +106,7 @@ sales than a single, generic promotion aimed at the whole customer base regardle
 
 ## A note on exam technique for this topic
 
-Both papers in this specification build questions around a specific business scenario, so every
+Both papers in this syllabus build questions around a specific business scenario, so every
 answer above deliberately connects a marketing concept back to the detail given — the type of
 customer targeted, the product's stage in its life cycle, or the specific challenge of entering a
 named foreign market — rather than offering a general definition. The study guide identifies this

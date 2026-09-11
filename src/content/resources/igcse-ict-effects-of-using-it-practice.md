@@ -92,4 +92,4 @@ Related: [The Effects of Using IT revision notes](/resources/igcse-ict-effects-o
 
 ## Official syllabus
 
-Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, section 5 "The effects of using IT" (5.1-5.2) — the same specification cited by the [The Effects of Using IT study guide](/resources/igcse-ict-effects-of-using-it/) and its [revision notes](/resources/igcse-ict-effects-of-using-it-revision-notes/). Verified 2026-09-02.
+Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, section 5 "The effects of using IT" (5.1-5.2) — the same syllabus cited by the [The Effects of Using IT study guide](/resources/igcse-ict-effects-of-using-it/) and its [revision notes](/resources/igcse-ict-effects-of-using-it-revision-notes/). Verified 2026-09-02.

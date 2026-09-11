@@ -100,7 +100,7 @@ Esters are **volatile with pleasant, fruity smells**, so they are used in flavou
 
 **Vegetable oils and animal fats are triesters** of glycerol (propane-1,2,3-triol) with long-chain fatty acids. Alkaline hydrolysis gives **soap** (the sodium salts of the fatty acids) plus glycerol — the saponification reaction.
 
-**Background (beyond the 9701 specification, not examinable at this level):** biodiesel is made by reacting these triesters with methanol, producing methyl esters of the fatty acids — a transesterification reaction, since one ester (the triglyceride) is converted into a different set of esters using a different alcohol.
+**Background (beyond the 9701 syllabus, not examinable at this level):** biodiesel is made by reacting these triesters with methanol, producing methyl esters of the fatty acids — a transesterification reaction, since one ester (the triglyceride) is converted into a different set of esters using a different alcohol.
 
 **A common mistake:** treating acid and alkaline hydrolysis as the same reaction with different reagents. One is a reversible equilibrium; the other goes to completion — this difference is often exactly what a question is testing.
 

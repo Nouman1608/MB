@@ -7,7 +7,7 @@ topic: "Exam preparation -- Papers 1 and 2"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9292"]
-syllabusSeries: "For first teaching September 2026, first exams May/June 2028"
+syllabusSeries: "Version 1.0 -- for first teaching September 2026, first exams May/June 2028"
 order: 3
 description: "How the two equally weighted papers of the new OxfordAQA International GCSE Sociology 9292 divide their content, why research methods runs through both, and a worked concept-application routine."
 author: "marlbridge-academic-team"

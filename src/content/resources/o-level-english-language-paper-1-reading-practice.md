@@ -87,4 +87,4 @@ Related: [Paper 1 – Reading study guide](/resources/o-level-english-language-p
 
 ## Official syllabus
 
-Cambridge O Level English Language (1123), syllabus for examination in 2024, 2025 and 2026 (Version 2, published December 2022), sections 3 ("Subject content — Reading") and 4 ("Details of the assessment — Paper 1 Reading") — the same specification cited by the [Paper 1 Reading study guide](/resources/o-level-english-language-paper-1-reading/) and its [revision notes](/resources/o-level-english-language-paper-1-reading-revision-notes/). Verified 2026-09-02.
+Cambridge O Level English Language (1123), syllabus for examination in 2024, 2025 and 2026 (Version 2, published December 2022), sections 3 ("Subject content — Reading") and 4 ("Details of the assessment — Paper 1 Reading") — the same syllabus cited by the [Paper 1 Reading study guide](/resources/o-level-english-language-paper-1-reading/) and its [revision notes](/resources/o-level-english-language-paper-1-reading-revision-notes/). Verified 2026-09-02.

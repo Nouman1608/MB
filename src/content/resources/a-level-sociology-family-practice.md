@@ -31,15 +31,15 @@ Related: [Paper 2 study guide](/resources/a-level-cambridge-sociology-the-family
 
 ## Section A -- compulsory short-answer (Paper 2 style)
 
-**1.** Identify two family or household forms named in the specification, other than the nuclear family. **[2]**
+**1.** Identify two family or household forms named in the syllabus, other than the nuclear family. **[2]**
 
 **2.** Explain what is meant by "emotion work" in the context of conjugal roles. **[3]**
 
 **3.** Explain one way in which childhood can be described as "socially constructed." **[3]**
 
-**4.** Identify the three feminist strands examined in the specification's treatment of gender and family life. **[3]**
+**4.** Identify the three feminist strands examined in the syllabus's treatment of gender and family life. **[3]**
 
-## Section B -- essay (choice of two, per the specification's format)
+## Section B -- essay (choice of two, per the syllabus's format)
 
 **5.** Evaluate the view that the family primarily benefits particular groups within it, rather than society as a whole.
 

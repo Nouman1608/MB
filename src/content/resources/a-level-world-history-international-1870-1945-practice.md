@@ -82,4 +82,4 @@ Related: [International History, 1870–1945 revision notes](/resources/a-level-
 
 ## Official syllabus
 
-Cambridge International AS & A Level History (9489) syllabus for examination in 2026, section 3 ("Subject content — International Option: International history, 1870–1945") — the same specification cited by the [International History, 1870–1945 study guide](/resources/a-level-world-history-international-1870-1945/) and its [revision notes](/resources/a-level-world-history-international-1870-1945-revision-notes/). Verified 2026-09-02.
+Cambridge International AS & A Level History (9489) syllabus for examination in 2026, section 3 ("Subject content — International Option: International history, 1870–1945") — the same syllabus cited by the [International History, 1870–1945 study guide](/resources/a-level-world-history-international-1870-1945/) and its [revision notes](/resources/a-level-world-history-international-1870-1945-revision-notes/). Verified 2026-09-02.

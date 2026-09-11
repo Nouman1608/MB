@@ -145,15 +145,19 @@ reading. If choosing the re-creative option, draft the accompanying
 commentary alongside the creative piece rather than as an afterthought
 once the writing is finished, since the commentary is where the
 critical understanding the piece is actually assessed on gets made
-explicit. Confirm exact word-count bands and internal submission
-deadlines with your teacher before beginning serious drafting, since
-both are centre-managed rather than fixed exam-day constraints, and
-missing the word-count band can incur a penalty independent of the
-essay's content quality.
+explicit. Confirm exact submission deadlines with your teacher before
+beginning serious drafting, since these are centre-managed rather than
+fixed exam-day constraints. AQA sets no marks penalty for missing the
+word-count band by itself (only malpractice is penalised on word
+count), but the board's own teaching guide asks candidates to make a
+concerted effort to stay within the stipulated limits. Quotations
+don't count towards the total; for a re-creative response, the
+creative piece and its commentary are counted together, not
+separately.
 
 ## Official syllabus
 
 AQA A-Level English Literature B (7717) specification, Component 3
 Theory and Independence subject content --
-[aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-literature-b-7717/specification/subject-content),
+[aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification/subject-content),
 for first teaching from September 2025. Verified 2026-09-05.

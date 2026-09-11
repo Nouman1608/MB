@@ -111,7 +111,7 @@ Uses (any three): radio — broadcasting [1]; microwave — cooking or satellite
 - Giving the EM spectrum in the wrong direction when "increasing wavelength" is specified.
 - Saying intensity is proportional to amplitude rather than amplitude squared.
 - Explaining the Doppler effect as the source "pushing" the waves.
-- Applying Malus's law to **unpolarised** light — the cos²θ relationship only applies once light is **already plane-polarised**; this specification only requires the already-polarised-light case.
+- Applying Malus's law to **unpolarised** light — the cos²θ relationship only applies once light is **already plane-polarised**; this syllabus only requires the already-polarised-light case.
 - Using the wrong sign in the Doppler denominator — approaching always makes the denominator **smaller** (v − v_s), which is what raises the frequency; mixing the signs up gives an answer on the wrong side of the source frequency entirely.
 - Forgetting that the **source frequency itself never changes** in the Doppler effect — only the frequency *heard* by the observer changes, because of how the wavefronts bunch together or spread out.
 

@@ -116,7 +116,7 @@ Only the **stationary observer, moving source** case is required at this level �
 - Phase difference in **radians** (2π per cycle) or degrees (360° per cycle); state which.
 - In the Doppler equation, approaching gives a *smaller* denominator and therefore a higher frequency.
 - Wave speed depends on the **medium**; frequency is set by the source and does not change on refraction — the wavelength does.
-- Malus's law (I = I₀cos²θ) only applies to light that is **already plane-polarised** — this specification does not require the separate case of unpolarised light meeting a first filter.
+- Malus's law (I = I₀cos²θ) only applies to light that is **already plane-polarised** — this syllabus does not require the separate case of unpolarised light meeting a first filter.
 - Crossed polarisers (90° apart) give **zero**, not a small non-zero, transmitted intensity — cos²(90°) = 0 exactly.
 
 ## Self-test

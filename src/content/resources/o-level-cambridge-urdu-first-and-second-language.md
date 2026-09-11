@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
-description: "First Language and Second Language Urdu -- the two distinct, currently examined Cambridge O-Level Urdu specifications, each built around Paper 1 Reading and Writing plus a second, differently-focused paper."
+description: "First Language and Second Language Urdu -- the two distinct, currently examined Cambridge O-Level Urdu syllabuses, each built around Paper 1 Reading and Writing plus a second, differently-focused paper."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -22,23 +22,23 @@ Cambridge O-Level Urdu Paper 1, Reading and Writing, is a 1 hour 30
 minute exam worth 50% of the qualification, testing comprehension of a
 printed passage and directed or free writing in Urdu -- the same paper
 structure is shared across both 3247 First Language and 3248 Second
-Language Urdu, though the two specifications differ in their second
+Language Urdu, though the two syllabuses differ in their second
 paper and in how demanding the passages and expected writing are.
-Candidates sit one specification or the other, never both, and the
+Candidates sit one syllabus or the other, never both, and the
 right choice depends on whether Urdu is the candidate's main language
 (3247) or a learned additional language (3248).
 
 This guide covers **Paper 1 Reading and Writing**, the shared
 structural starting point of two distinct, currently examined
-Cambridge O-Level Urdu specifications: 3247 First Language Urdu
+Cambridge O-Level Urdu syllabuses: 3247 First Language Urdu
 (valid for the 2027 series) and 3248 Second Language Urdu (valid for
 the 2027-2029 series). Candidates take one or the other, not both, in
 the same series.
 
 ## Where this fits in 3247/3248
 
-Both specifications split 50/50 between Paper 1 Reading and Writing
-and a second paper that differs by specification: 3247 pairs Paper 1
+Both syllabuses split 50/50 between Paper 1 Reading and Writing
+and a second paper that differs by syllabus: 3247 pairs Paper 1
 with Paper 2 Texts, covering an unseen passage, poetry and prose
 drawn from prescribed set texts, while 3248 pairs Paper 1 with Paper
 2 Grammar, Writing and Translation, reflecting its focus on Urdu as an
@@ -58,14 +58,14 @@ paired with Paper 2 Grammar, Writing and Translation (50%)
 
 Because 3247 and 3248 are genuinely different qualifications despite
 sharing a Paper 1 structure, confirm with your centre which
-specification you are entered for before revising, since the second
+syllabus you are entered for before revising, since the second
 paper's content differs substantially between the two. For 3247's
 Paper 2, secure knowledge of the prescribed poetry and prose set texts
 is essential, so build quotation banks in the same way you would for
 an English Literature paper. For 3248's Paper 2, translation and
 grammar accuracy are the priority, so regular, structured translation
 practice between Urdu and English pays off more directly than wider
-reading. In both specifications, Paper 1's reading and writing
+reading. In both syllabuses, Paper 1's reading and writing
 components reward practising comprehension and composition as
 distinct skills under timed conditions.
 

@@ -89,4 +89,4 @@ Related: [Depth Studies revision notes](/resources/o-level-world-history-depth-s
 
 ## Official syllabus
 
-Cambridge O Level World History (2147) syllabus for 2024, 2025 and 2026 — the same specification cited by the [Depth Studies study guide](/resources/o-level-world-history-depth-studies/) and its [revision notes](/resources/o-level-world-history-depth-studies-revision-notes/). Verified 2026-09-01.
+Cambridge O Level World History (2147) syllabus for 2024, 2025 and 2026 — the same syllabus cited by the [Depth Studies study guide](/resources/o-level-world-history-depth-studies/) and its [revision notes](/resources/o-level-world-history-depth-studies-revision-notes/). Verified 2026-09-01.

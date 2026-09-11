@@ -20,7 +20,7 @@ featured: false
 
 This guide covers **Paper 2**, one of two compulsory papers for
 Cambridge O Level Islamiyat 2058, 2024-2025 series. As confirmed
-against 2058's own specification PDF, it shares an identical Paper 1
+against 2058's own syllabus PDF, it shares an identical Paper 1
 / Paper 2 four-topic structure with Cambridge IGCSE Islamiyat 0493.
 
 ## Where this fits in 2058

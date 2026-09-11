@@ -83,7 +83,7 @@ Urdu's Paper 2 will help them prepare for 3248 Second Language Urdu's
 Paper 2.
 
 **(a)** Explain why this assumption is mistaken. **[2]**
-**(b)** State what each specification's Paper 2 actually tests. **[2]**
+**(b)** State what each syllabus's Paper 2 actually tests. **[2]**
 
 **10.** Name three named grammar points a candidate should build into
 a personal checklist to prepare systematically for Exercise 2. **[3]**
@@ -139,7 +139,7 @@ concentrated, rather than splitting effort evenly across all four
 exercises [2].
 
 **9. (a)** This assumption is mistaken because 3247 and 3248 are two
-separate specifications with genuinely different Paper 2 content, even
+separate syllabuses with genuinely different Paper 2 content, even
 though both share a similar Paper 1 [2].
 **(b)** 3247's Paper 2 (Texts) tests literary set texts through an
 unseen passage plus prescribed poetry and prose; 3248's Paper 2

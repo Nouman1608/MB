@@ -83,7 +83,7 @@ Read the question carefully — "pressure due to the water" excludes atmospheric
 
 ## Hydraulic systems (Pascal's principle) — background, not examinable
 
-*Beyond the O Level Physics 5054 specification: the pressure subtopic does not include an outcome on hydraulic systems or transmission of pressure. The following is background reading only.*
+*Beyond the O Level Physics 5054 syllabus: the pressure subtopic does not include an outcome on hydraulic systems or transmission of pressure. The following is background reading only.*
 
 Pressure applied to an enclosed liquid is **transmitted equally throughout the fluid**, so a small force on a small piston produces a large force on a larger piston:
 
@@ -108,7 +108,7 @@ Liquids are used rather than gases because liquids are **virtually incompressibl
 - Distinguish pressure *due to the liquid* from *total* pressure including atmospheric.
 - Mercury is chosen for its **density**, not its colour or toxicity.
 - The force from pressure acts **perpendicular** to the surface, whatever the surface's orientation.
-- In a hydraulic system, it is the **pressure** that stays equal throughout, not the force. *(Background — hydraulic systems are not on the 5054 specification.)*
+- In a hydraulic system, it is the **pressure** that stays equal throughout, not the force. *(Background — hydraulic systems are not on the 5054 syllabus.)*
 
 ## Self-test
 

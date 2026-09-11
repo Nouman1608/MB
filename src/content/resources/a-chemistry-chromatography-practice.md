@@ -28,7 +28,7 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-revision-notes/), which covers TLC and GLC in full, plus GC-MS as enrichment beyond the specification.
+Related: [Chromatography revision notes](/resources/a-chemistry-chromatography-revision-notes/), which covers TLC and GLC in full, plus GC-MS as enrichment beyond the syllabus.
 
 ---
 

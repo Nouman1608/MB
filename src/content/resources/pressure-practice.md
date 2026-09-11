@@ -49,7 +49,7 @@ Related: [Pressure revision notes](/resources/pressure-revision-notes/)
 **(b)** Calculate the total pressure, taking atmospheric pressure as 101 000 Pa. **[1]**
 **(c)** Explain why the pressure does not depend on the surface area of the diver. **[2]**
 
-**6.** *(Background, not examinable — hydraulic systems and transmission of pressure are beyond the O Level Physics 5054 pressure specification.)* In a hydraulic braking system, a force of 40 N is applied to a piston of area 0.0004 m².
+**6.** *(Background, not examinable — hydraulic systems and transmission of pressure are beyond the O Level Physics 5054 pressure syllabus.)* In a hydraulic braking system, a force of 40 N is applied to a piston of area 0.0004 m².
 
 **(a)** Calculate the pressure in the fluid. **[2]**
 **(b)** The output piston has an area of 0.0060 m². Calculate the output force. **[3]**

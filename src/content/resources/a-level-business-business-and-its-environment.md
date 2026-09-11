@@ -95,7 +95,7 @@ bought-in materials and the price customers are willing to pay, which
 can be increased through branding, design, service or convenience
 rather than price alone. Because resources are scarce and wants are
 unlimited, every business decision carries an **opportunity cost** --
-the value of the next-best alternative given up. The specification also
+the value of the next-best alternative given up. The syllabus also
 expects candidates to explain **why businesses succeed or fail** (poor
 planning, insufficient finance, competition, and changes in the
 external environment are common causes) and to distinguish **local,
@@ -108,7 +108,7 @@ pursuit of reward, and to recognise the specific skills and qualities
 that make entrepreneurship more likely to succeed: opportunity
 recognition, the ability to secure and manage finance, resilience in
 the face of setbacks, and the capacity to plan and adapt a business
-idea as circumstances change. The specification distinguishes
+idea as circumstances change. The syllabus distinguishes
 **entrepreneurs**, who create and start up a new business, from
 **intrapreneurs**, who drive innovation and new ideas from within an
 existing business without bearing the full personal financial risk of

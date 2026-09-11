@@ -17,7 +17,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "a-analytical-techniques"
     subtopic: "a-gas-liquid-chromatography"
-description: "Condensed recall notes on TLC, gas-liquid chromatography, Rf values and retention time for Cambridge A Level Chemistry 9701, plus GC-MS as enrichment beyond the specification."
+description: "Condensed recall notes on TLC, gas-liquid chromatography, Rf values and retention time for Cambridge A Level Chemistry 9701, plus GC-MS as enrichment beyond the syllabus."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -69,7 +69,7 @@ The sample is vaporised and carried through a heated column.
 
 **Limitation:** the sample must be volatile and thermally stable, so GLC cannot be used for compounds that decompose on heating. And, as with TLC, two compounds can share a retention time, so retention time alone cannot identify a compound with certainty — a known reference run alongside under identical conditions is needed for a confident match.
 
-## Combined techniques (enrichment — beyond the specification)
+## Combined techniques (enrichment — beyond the syllabus)
 
 **Not assessed at this level:** 9701 covers GLC on its own (phases, retention time, percentage composition) but does not include coupling it to another technique. The following is background only.
 

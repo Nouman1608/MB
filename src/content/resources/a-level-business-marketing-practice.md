@@ -33,7 +33,7 @@ Related: [Marketing study guide](/resources/a-level-business-marketing/) and
 
 **1.** Distinguish between product orientation and market orientation. **[2]**
 
-**2.** Name the three named methods of market segmentation. **[3]**
+**2.** Identify the three named methods of market segmentation. **[3]**
 
 **3.** State one advantage and one disadvantage of primary research compared with secondary
 research. **[2]**

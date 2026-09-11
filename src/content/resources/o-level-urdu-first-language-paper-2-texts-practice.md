@@ -116,7 +116,7 @@ prose articles in close textual depth, with specific quotable lines
 ready for each, so a genuine choice remains available on the day [2].
 
 **7.** Cambridge O Level First Language Urdu (3247) is a distinct
-specification from Second Language Urdu (3248); 3247's Paper 2 (Texts)
+syllabus from Second Language Urdu (3248); 3247's Paper 2 (Texts)
 is built entirely around literature — an unseen extract plus
 prescribed poetry and prose — while 3248's equivalent paper (Grammar,
 Writing and Translation) tests a different skill set altogether, so

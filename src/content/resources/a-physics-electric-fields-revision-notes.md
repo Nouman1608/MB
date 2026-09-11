@@ -60,7 +60,7 @@ UNIFORM field (parallel plates):
 | Falls off | Both **1/r²** for field, **1/r** for potential | Same |
 | Can be shielded? | **No** | **Yes** |
 
-The structural similarity is the point — both are inverse-square laws with the same mathematics. The differences are sign and shielding. Learning this table well pays off across the whole topic, since almost every comparison question on this specification draws directly on one of its rows.
+The structural similarity is the point — both are inverse-square laws with the same mathematics. The differences are sign and shielding. Learning this table well pays off across the whole topic, since almost every comparison question on this syllabus draws directly on one of its rows.
 
 ## Radial vs uniform fields
 

@@ -54,7 +54,7 @@ origins.
 
 ## Official syllabus
 
-Cambridge O Level Sociology (2251) specification, for examination in 2025-2027 --
+Cambridge O Level Sociology (2251) syllabus, for examination in 2025-2027 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662478-2025-2027-syllabus.pdf).
 
 ## Life chances: the concept that ties this subtopic together

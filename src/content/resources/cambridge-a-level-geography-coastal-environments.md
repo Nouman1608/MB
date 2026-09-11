@@ -64,7 +64,7 @@ management response" for each major feature pays off across both the structured 
 Cambridge International A Level Geography (9696) syllabus, for examination in 2025-2026 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/664556-2025-2026-syllabus.pdf).
 This guide's syllabus content was confirmed via official search summaries rather than a full page fetch of
-the linked PDF, since large specification documents exceed this tool's page-retrieval size limit; always
+the linked PDF, since large syllabus documents exceed this tool's page-retrieval size limit; always
 check the current syllabus document directly for the complete, authoritative wording before an exam.
 
 ## Wave energy: constructive vs destructive waves

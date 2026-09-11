@@ -29,7 +29,7 @@ Related: [People in Business revision notes](/resources/business-people-in-busin
 
 ## Section A
 
-**1.** Name **three** benefits of a well-motivated workforce identified in the syllabus. **[3]**
+**1.** Identify **three** benefits of a well-motivated workforce identified in the syllabus. **[3]**
 
 **2.** State **two** financial and **two** non-financial methods of motivation. **[4]**
 

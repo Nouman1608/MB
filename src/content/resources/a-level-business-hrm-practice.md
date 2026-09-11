@@ -36,7 +36,7 @@ and [revision notes](/resources/a-level-business-hrm-revision-notes/)
 **2.** Distinguish between financial and non-financial methods of motivation, giving one example of
 each. **[2]**
 
-**3.** Name the five functions of management identified by this topic. **[3]**
+**3.** Identify the five functions of management identified by this topic. **[3]**
 
 ## Section B
 

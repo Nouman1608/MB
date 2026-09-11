@@ -20,7 +20,7 @@ featured: false
 
 This guide covers **Core Content Option A: The Nineteenth Century,
 1848–1914**, for Cambridge O Level World History 2147, 2024–2026
-series. Independently confirmed against 2147's own specification PDF:
+series. Independently confirmed against 2147's own syllabus PDF:
 it shares identical Core content options and identical named Depth
 studies with Cambridge IGCSE World History 0470. Assessment is via
 Paper 1 (Structured Questions) and Paper 2 (Document Questions) —

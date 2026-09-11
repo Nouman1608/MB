@@ -55,7 +55,7 @@ These exact ranges are printed in the **Data section supplied in the exam** (syl
 
 That decision tree answers the standard "identify the compound" question.
 
-**Background (beyond the 9701 specification, not examinable at AS):** distinguishing a primary from a secondary amine by counting N–H peaks, and using the fingerprint region (below 1500 cm⁻¹) for identification by database comparison, are both useful analytical chemistry context but go beyond what 19.1 and 22.1 require — 19.1 explicitly states that classifying amines as primary/secondary/tertiary is not tested at AS, and the syllabus only requires recognising the listed characteristic absorptions, not fingerprint-region matching. Don't confuse a nitrile's sharp C≡N absorption at 2200–2250 with a carbonyl's C=O — the wavenumbers are very different even though both are described as "sharp."
+**Background (beyond the 9701 syllabus, not examinable at AS):** distinguishing a primary from a secondary amine by counting N–H peaks, and using the fingerprint region (below 1500 cm⁻¹) for identification by database comparison, are both useful analytical chemistry context but go beyond what 19.1 and 22.1 require — 19.1 explicitly states that classifying amines as primary/secondary/tertiary is not tested at AS, and the syllabus only requires recognising the listed characteristic absorptions, not fingerprint-region matching. Don't confuse a nitrile's sharp C≡N absorption at 2200–2250 with a carbonyl's C=O — the wavenumbers are very different even though both are described as "sharp."
 
 **Application:** IR is used in breathalysers and in monitoring exhaust gases, because CO and CO₂ absorb characteristically.
 

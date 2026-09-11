@@ -22,7 +22,7 @@ This guide covers **Paper 2 Texts**, one of two components of
 Cambridge O Level First Language Urdu 3247, 2027 series (Version 1,
 no significant changes affecting teaching; the syllabus has been
 reformatted only). This resource covers 3247 First Language Urdu
-specifically -- 3248 Second Language Urdu is a distinct specification
+specifically -- 3248 Second Language Urdu is a distinct syllabus
 with its own Paper 2.
 
 ## Where this fits in 3247

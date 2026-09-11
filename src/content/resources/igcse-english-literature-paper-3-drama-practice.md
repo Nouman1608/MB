@@ -84,4 +84,4 @@ Related: [Paper 3 – Drama (Open Text) study guide](/resources/igcse-english-li
 
 ## Official syllabus
 
-Cambridge International, *Cambridge IGCSE Literature in English (0475) syllabus for examination in 2026* (Version 2, published December 2025), sections 3 (set texts) and 4 ("Details of the assessment — Paper 3 Drama (Open Text)") — the same specification cited by the [Paper 3 – Drama (Open Text) study guide](/resources/igcse-english-literature-paper-3-drama-open-text/) and its [revision notes](/resources/igcse-english-literature-paper-3-drama-revision-notes/). Verified 2026-09-02.
+Cambridge International, *Cambridge IGCSE Literature in English (0475) syllabus for examination in 2026* (Version 2, published December 2025), sections 3 (set texts) and 4 ("Details of the assessment — Paper 3 Drama (Open Text)") — the same syllabus cited by the [Paper 3 – Drama (Open Text) study guide](/resources/igcse-english-literature-paper-3-drama-open-text/) and its [revision notes](/resources/igcse-english-literature-paper-3-drama-revision-notes/). Verified 2026-09-02.

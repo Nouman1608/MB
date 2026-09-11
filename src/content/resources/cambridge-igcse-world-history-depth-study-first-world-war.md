@@ -61,10 +61,10 @@ question they answer.
 
 ## Official syllabus
 
-Cambridge IGCSE World History (0470) specification, for examination in 2024-2026 --
+Cambridge IGCSE World History (0470) syllabus, for examination in 2024-2026 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/649636-2024-2026-syllabus.pdf).
 This guide's syllabus content was confirmed via official search summaries and specimen-paper references
-rather than a full page fetch of the linked PDF, since large specification documents exceed this tool's
+rather than a full page fetch of the linked PDF, since large syllabus documents exceed this tool's
 page-retrieval size limit; always check the current syllabus document directly for the complete content
 list before an exam.
 

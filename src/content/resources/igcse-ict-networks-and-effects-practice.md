@@ -97,4 +97,4 @@ Related: [Networks and the Effects of Using Them revision notes](/resources/igcs
 
 ## Official syllabus
 
-Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, sections 4.1 "Networks" and 4.2 "Network issues and communication" — the same specification cited by the [Networks study guide](/resources/igcse-ict-networks/), the [Network Issues and Communication study guide](/resources/igcse-ict-network-issues-and-communication/), and their combined [revision notes](/resources/igcse-ict-networks-and-effects-revision-notes/). Verified 2026-09-02.
+Cambridge International, *Cambridge IGCSE Information and Communication Technology (0417) syllabus for 2026, 2027 and 2028*, Subject content, sections 4.1 "Networks" and 4.2 "Network issues and communication" — the same syllabus cited by the [Networks study guide](/resources/igcse-ict-networks/), the [Network Issues and Communication study guide](/resources/igcse-ict-network-issues-and-communication/), and their combined [revision notes](/resources/igcse-ict-networks-and-effects-revision-notes/). Verified 2026-09-02.

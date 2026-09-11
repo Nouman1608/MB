@@ -30,7 +30,7 @@ Related: [People in business study guide](/resources/igcse-business-people-in-bu
 
 ## Section A
 
-**1.** Name one financial and one non-financial method of motivating employees. **[2]**
+**1.** Identify one financial and one non-financial method of motivating employees. **[2]**
 
 **2.** Define "span of control." **[2]**
 

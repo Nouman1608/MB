@@ -33,7 +33,7 @@ Condensed for the final weeks. For the full explanation, use the
 | Quantity | Instrument | Resolution |
 |---|---|---|
 | Length (cm–m) | Metre rule | 1 mm |
-| Length (small) *(background — not named in the 5054 specification, which lists tapes, rules and micrometers)* | Vernier callipers | 0.01 cm |
+| Length (small) *(background — not named in the 5054 syllabus, which lists tapes, rules and micrometers)* | Vernier callipers | 0.01 cm |
 | Length (very small) | Micrometer screw gauge | 0.01 mm |
 | Volume (liquid) | Measuring cylinder | Read the **bottom of the meniscus**, eye level |
 | Time | Stopwatch | 0.01 s, but human reaction ≈ 0.2 s |
@@ -102,7 +102,7 @@ kg/m3  or  g/cm3
 - Convert cm³ to m³ by dividing by 1 000 000 — a frequent slip.
 - Read the meniscus at its **bottom**, at eye level.
 - Density of water is 1 g/cm³ **or** 1000 kg/m³ — check which units the question uses.
-- A micrometer reads to 0.01 mm. *(Vernier callipers, reading to 0.01 cm, are background — the 5054 specification names only tapes, rules and micrometers as measuring instruments.)*
+- A micrometer reads to 0.01 mm. *(Vernier callipers, reading to 0.01 cm, are background — the 5054 syllabus names only tapes, rules and micrometers as measuring instruments.)*
 - A micrometer reading needs **both** the main scale and thimble scale added together — reading only one gives a large, obviously-wrong error.
 - g = W/m gives gravitational field strength in **N/kg**, numerically equal to the acceleration of free fall in m/s² — don't confuse the two units when asked which one a question wants.
 - Inertia is a property of **mass**, not weight — a body still resists a push in deep space, where it is weightless but not massless.

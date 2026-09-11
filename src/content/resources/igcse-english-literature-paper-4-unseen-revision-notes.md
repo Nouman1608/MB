@@ -145,3 +145,10 @@ annotate it, and decide which option (poem or prose) to commit to.
 well-supported analysis of specific techniques and their effects —
 avoided by annotating for language/structure/form/tone during
 planning and building the commentary directly from those annotations.
+
+## Official syllabus
+
+Cambridge IGCSE Literature in English (0475) syllabus for exams in
+2026 — the same syllabus cited by the [Paper 4 Unseen study
+guide](/resources/igcse-english-literature-paper-4-unseen/) —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf).

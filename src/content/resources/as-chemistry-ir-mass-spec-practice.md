@@ -38,7 +38,7 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 
 **2.** State what the molecular ion peak indicates. **[1]**
 
-**3.** *(Background — beyond the 9701 specification, not examinable at this level.)* Explain what the fingerprint region is used for.
+**3.** *(Background — beyond the 9701 syllabus, not examinable at this level.)* Explain what the fingerprint region is used for.
 
 ---
 
@@ -82,7 +82,7 @@ Related: [Infrared and Mass Spectrometry revision notes](/resources/as-chemistry
 
 **(b)** State the functional group each absorption is consistent with. **[1]**
 
-**(c)** *(Background — beyond the 9701 specification; AS 19.1 states that classifying amines as primary/secondary/tertiary will not be tested.)* Suggest why this N–H absorption appears as two components rather than one.
+**(c)** *(Background — beyond the 9701 syllabus; AS 19.1 states that classifying amines as primary/secondary/tertiary will not be tested.)* Suggest why this N–H absorption appears as two components rather than one.
 
 ---
 

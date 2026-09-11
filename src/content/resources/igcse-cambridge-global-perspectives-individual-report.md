@@ -21,7 +21,7 @@ featured: false
 This guide covers **Component 2 – Individual Report**, the second of
 three assessed components in Cambridge IGCSE Global Perspectives
 (0457), 2025-2027 series. Global Perspectives is a skills-based
-syllabus -- its own specification states that "knowledge of content is
+syllabus -- its own syllabus states that "knowledge of content is
 not assessed" -- so this guide focuses on what the Individual Report
 actually requires candidates to produce and how it is assessed, since
 there is no content taxonomy to learn in the way there is for a

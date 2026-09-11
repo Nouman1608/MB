@@ -49,7 +49,7 @@ Related: [Exothermic and Endothermic Reactions revision notes](/resources/energe
 
 **5.** Sketch or describe an energy profile diagram for an endothermic reaction, labelling reactants, products, activation energy and ΔH. **[4]**
 
-> **Not on the 0620/5070 specification.** Questions 6 and 8 use calorimetry
+> **Not on the 0620/5070 syllabus.** Questions 6 and 8 use calorimetry
 > and Q = mcΔT, which are not part of either syllabus's chemical energetics
 > content — the only quantitative energetics outcome required at this
 > level is the bond-energy calculation (question 4). They're included here
