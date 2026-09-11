@@ -32,6 +32,11 @@ in Units 3-4.
 | A | Comparative essay: named poem + own choice from *Poems of the Decade* | 25 | AO1, AO2, AO4 |
 | B | Essay on chosen post-2000 prose fiction text | 25 | AO1, AO2, AO3 |
 
+**Set texts (revised by specification issue, not by series):** the *Poems
+of the Decade* anthology (ISBN 978-0571325405) for Section A, and one of
+five prose titles for Section B — *Brooklyn*, *The Kite Runner*, *Life of
+Pi*, *Purple Hibiscus* and *The White Tiger* (see the [study guide](/resources/a-level-edexcel-english-literature-post-2000-poetry-and-prose/) for authors and full detail).
+
 2 hours, **open book**, 50 marks total = 50% of the IAS, 25% of the full IAL. Both sections offer a
 choice of two questions, so four exam-day decisions in total (two per section, though you only
 answer one per section) shape how the paper actually plays out for you.
@@ -39,7 +44,7 @@ answer one per section) shape how the paper actually plays out for you.
 ## Section A — comparative poetry
 
 - One poem is named by the exam board; you choose the second from the *Poems of the Decade* anthology.
-- Marked against AO1 (coherent, accurate argument), AO2 (form/structure/language), AO4 (connections across texts) — note AO3 (context) is **not** assessed in this section, unlike Section B.
+- Marked against AO1 (coherent, accurate argument), AO2 (analysing the ways in which meanings are shaped — through form, structure and language among other methods, not a fixed checklist), AO4 (connections across texts) — note AO3 (context) is **not** assessed in this section, unlike Section B.
 - Since it's open book, the value isn't in memorised quotations but in **fast, precise textual navigation** — know your anthology well enough to locate strong evidence quickly.
 - There is a choice of two questions in Section A, each requiring one comparative essay — read both
   before choosing, since one may suit the poems you feel strongest on far better than the other.
@@ -51,8 +56,7 @@ answer one per section) shape how the paper actually plays out for you.
 - AO1, AO2, AO3 (context) — context here is contemporary, not historical.
 - Both texts postdate 2000, so contextual analysis should focus on **recent social/cultural concerns** the writer engages with, not period history.
 - There is also a choice of two questions in Section B — one essay from that choice, on your chosen post-2000 prose fiction text.
-- Set texts rotate by examination series, so always confirm the current prescribed prose text for
-  your own series before beginning detailed revision — do not assume the same title applies every year.
+- The prescribed prose text is revised by specification issue, not rotated by examination series, so confirm which specification issue governs your own series before beginning detailed revision — do not expect a different title each series.
 
 ## Where marks tend to be lost
 
@@ -65,12 +69,16 @@ through which the writer explores that concern, which is what AO2 actually rewar
 ## Where Unit 1 sits in the wider qualification
 
 Units 1-2 together make up the International Advanced Subsidiary (IAS): Unit 1 (this paper,
-Post-2000 Poetry and Prose) and Unit 2 (Drama, also 2 hours, 50 marks, open book). Studying
-contemporary poetry and prose first, before Units 3-4 introduce Shakespeare and pre-1900 poetry at
-the full A-Level stage, is a deliberate sequencing choice — it lets candidates build analytical
-skill on recent, more accessible texts before tackling older, more linguistically demanding
-material. If you're only sitting the IAS (not continuing to the full IAL), Unit 1 is worth double
-its full-IAL weighting: 50% of the AS rather than 25% of the full A-Level.
+Post-2000 Poetry and Prose) and Unit 2 (Drama, also 2 hours, 50 marks, open book). Unit 4, not
+Unit 3, is where Shakespeare and pre-1900 poetry are introduced at the full A-Level stage — Unit 3
+stays with post-1900 material (unseen poetry and prescribed prose). Studying contemporary poetry
+and prose first is a common and sensible teaching order rather than a sequence the specification
+itself mandates: it allows modular teaching at appropriate stages or a linear course assessed at
+the end, with no prescribed unit order. Where centres do teach in this order, it lets candidates
+build analytical skill on recent, more accessible texts before tackling the older, more
+linguistically demanding material in Unit 4. If you're only sitting the IAS (not continuing to the
+full IAL), Unit 1 is worth double its full-IAL weighting: 50% of the AS rather than 25% of the full
+A-Level.
 
 ## Exam traps
 
@@ -78,7 +86,7 @@ its full-IAL weighting: 50% of the AS rather than 25% of the full A-Level.
 - Bringing in 19th/20th-century-style historical context for post-2000 texts, when the relevant context is contemporary.
 - Forgetting the exam is open book — wasting revision time memorising quotations that could instead go toward analytical technique.
 - Confusing which AOs apply to which section — Section A has no AO3, Section B does.
-- Assuming the same set prose text applies every examination series — Pearson rotates set texts, so revising the wrong title wastes significant preparation time.
+- Assuming the set prose text changes every examination series — it is revised by specification issue, not rotated by series, so confirm the specification issue rather than expecting a new title each series.
 - Choosing a Section A or Section B question in the exam hall on gut instinct rather than briefly reading both options first.
 
 ## Self-test
@@ -89,9 +97,9 @@ its full-IAL weighting: 50% of the AS rather than 25% of the full A-Level.
 4. What kind of context is relevant for post-2000 texts?
 5. How many question choices does each section offer, and why does this matter for exam-day strategy?
 6. Which two units make up the International Advanced Subsidiary, and how do they differ in focus?
-7. Why does Unit 1 come before Units 3-4 in the typical teaching sequence?
+7. In a common teaching order, why might Unit 1 come before Unit 4?
 
-**Answers:** 1. 25% of the full International Advanced Level (50% of the AS). 2. AO3 (context). 3. Since the text is available in the exam, memorising exact quotations matters less than being able to navigate the text quickly and analyse it well under time pressure. 4. Contemporary social and cultural context, since both set texts were published after 2000. 5. Two questions per section — reading both before committing lets you choose the option that best fits the poems and prose text you know most confidently, rather than answering the first question you see. 6. Units 1 and 2 — Unit 1 covers post-2000 poetry and prose, Unit 2 covers drama, both open book and worth 50 marks / 25% of the full IAL each. 7. Post-2000 texts are generally more linguistically accessible than the pre-1900 and Shakespearean material in Units 3-4, so studying them first lets candidates build core analytical skills before tackling older, more demanding language.
+**Answers:** 1. 25% of the full International Advanced Level (50% of the AS). 2. AO3 (context). 3. Since the text is available in the exam, memorising exact quotations matters less than being able to navigate the text quickly and analyse it well under time pressure. 4. Contemporary social and cultural context, since both set texts were published after 2000. 5. Two questions per section — reading both before committing lets you choose the option that best fits the poems and prose text you know most confidently, rather than answering the first question you see. 6. Units 1 and 2 — Unit 1 covers post-2000 poetry and prose, Unit 2 covers drama, both open book and worth 50 marks / 25% of the full IAL each. 7. Post-2000 texts are generally more linguistically accessible than the pre-1900 and Shakespearean material introduced in Unit 4, so studying them first can let candidates build core analytical skills before tackling older, more demanding language — though the specification itself prescribes no unit order.
 
 ## Official syllabus
 

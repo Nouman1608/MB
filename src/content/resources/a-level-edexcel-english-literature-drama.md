@@ -46,9 +46,10 @@ Shakespeare's *Othello*, Aphra Behn's *The Rover*, Oliver Goldsmith's
 Candidates answer one essay question, chosen from a choice of two, on
 their set text. This section is assessed against four assessment
 objectives: AO1 (informed personal response, using appropriate
-terminology), AO2 (analysis of language, form and structure), AO3
-(understanding of context) and AO5 (exploring different interpretations),
-worth 25 marks.
+terminology), AO2 (analysing the ways in which meanings are shaped in
+the text -- through language, form and structure among other methods,
+not a fixed checklist), AO3 (understanding of context) and AO5
+(exploring different interpretations), worth 25 marks.
 
 **Section B: Post-1900 Drama** — candidates study **one** text, chosen
 from a different list of five: Lorraine Hansberry's *A Raisin in the
@@ -74,15 +75,34 @@ and character to cover the circumstances in which each play was written
 and first performed, and how critical or theatrical interpretations of
 it have shifted over time -- for the pre-1900 text especially, this
 often means engaging with the conventions of its original genre (for
-example, revenge tragedy conventions for *The Rover*, or morality-play
-structure for *Doctor Faustus*). For the post-1900 text, AO3 more often
-means situating the play within its immediate social or political
-moment -- the McCarthy era for *A Streetcar Named Desire* and *Death of
-a Salesman*, for instance, or 1980s Britain for *Top Girls*. Since drama
+example, Restoration comedy -- specifically comedy of intrigue,
+turning on carnival and misrule, disguise, costume and the discomfort
+of its closing marriages -- for *The Rover*, or morality-play structure
+for *Doctor Faustus*). For the post-1900 text, AO3 more often means
+situating the play within its immediate social or political moment --
+post-war America for *A Streetcar Named Desire* (1947) and *Death of a
+Salesman* (1949), for instance, or 1980s Britain for *Top Girls*. The
+McCarthy era (1950-1954) postdates both American plays, so it cannot be
+their immediate context of writing, though the reception of both plays
+during the McCarthy years is legitimate material if treated separately
+as reception history rather than as the moment either play was written
+into. Since drama
 is written to be performed, practising analysis of staging, stage
 directions and dramatic form (entrances, exits, asides, silence) tends
 to strengthen AO2 responses more than treating the text purely as prose
 to be read.
+
+## The question format
+
+Both sections give candidates a statement to respond to, rather than an
+open "explore how..." prompt with no stem -- the specification states
+this for both sections, and says explicitly that the statement given in
+each question is the mechanism for assessing AO5: it is the invitation
+to demonstrate that the text can be read in different ways. Each
+question also instructs candidates to consider relevant contextual
+factors, tying the statement format directly to AO3. Practising against
+statement-based prompts, not generic explore-how questions, is what
+prepares you for the actual mechanism the exam uses to credit AO5.
 
 ## Worked example: using AO5 on a single text
 
@@ -136,7 +156,7 @@ exam.
 - [Unit 2 Drama revision notes](/resources/edexcel-a-level-english-literature-drama-revision-notes/)
 - [Unit 2 Drama practice questions](/resources/edexcel-a-level-english-literature-drama-practice/)
 
-## Official syllabus
+## Official specification
 
 Pearson Edexcel International Advanced Subsidiary/Advanced Level in
 English Literature specification (Issue 7, February 2026), Unit 2:

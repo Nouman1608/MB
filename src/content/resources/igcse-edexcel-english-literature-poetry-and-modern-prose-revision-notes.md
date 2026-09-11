@@ -29,7 +29,9 @@ Condensed for the final weeks. For the full explanation, use the
 | B | Compare two anthology poems | 30 | AO2, AO3 |
 | C | Chosen modern prose text | 40 | AO1, AO4 |
 
-2 hours, closed book, 90 marks total = **60% of the whole IGCSE**.
+**Set texts (revised by specification issue, not by series):** the 16-poem anthology — *If*, *Prayer Before Birth*, *Blessing*, *Search For My Tongue*, *Half-past Two*, *Piano*, *Hide and Seek*, *Sonnet 116*, *La Belle Dame sans Merci*, *Poem at Thirty-Nine*, *War Photographer*, *The Tyger*, *My Last Duchess*, *Half-caste*, *Do not go gentle into that good night*, and *Remember* — and the modern prose list of seven: *To Kill a Mockingbird*, *Of Mice and Men*, *The Whale Rider*, *The Joy Luck Club*, *Things Fall Apart*, *Klara and the Sun* and *Western Lane* (see the [study guide](/resources/igcse-edexcel-english-literature-poetry-and-modern-prose/) for full author credits).
+
+2 hours, 90 marks total = **60% of the whole IGCSE**. Only Section C (the modern prose text) is closed book — Sections A and B have the poems printed on the paper or supplied from the anthology.
 
 ## Section A — unseen poem
 
@@ -38,7 +40,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Section B — comparing two poems
 
-- One poem is usually specified; you select the second from the anthology.
+- You get a choice of two questions: one names both poems for you to compare; the other names one poem and asks you to choose a second poem from the anthology yourself to compare it with.
 - AO2 (language/form/structure) **and** AO3 (comparison) — a response that analyses each poem well but never directly compares them is missing AO3 marks entirely.
 - Build short comparative notes across pairs of poems by theme — don't revise poems only in isolation.
 
@@ -50,12 +52,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Timing and exam strategy
 
-Because the three sections are not equally weighted, time should be allocated roughly in proportion
-to their marks rather than split evenly across the two hours: more time for Section C's 40 marks than
-Section B's 30, and the least time for Section A's 20, while still leaving a few minutes at the end to
-check all three responses. A common cause of a disappointing overall mark is spending too long
-perfecting Section A's shorter response and running out of time on Section C, where the largest
-number of marks is actually available.
+The question paper itself prints a recommended timing for each section: 35 minutes for Section A,
+40 minutes for Section B, and 45 minutes for Section C — together the full two hours. That is not a
+strict proportional split of the marks (a pure 40/30/20 proportion would give Section A less time,
+not more, than its 35 minutes), so use the paper's own timings rather than reworking them from the
+mark scheme, and leave a few minutes at the end to check all three responses.
 
 ## Structural technique for Section A
 
@@ -98,7 +99,7 @@ into the analysis throughout.
 
 - Writing about only one poem in Section B when comparison is explicitly credited.
 - In Section C, summarising plot instead of building an argument about character/theme development.
-- Forgetting that set texts (poetry anthology and prose novel) rotate by examination series — always confirm your own series' texts.
+- Forgetting that the set texts (poetry anthology and prose novel) are fixed by the specification and only change when Pearson issues a revised specification, not on a series-by-series rotation — see the [study guide](/resources/igcse-edexcel-english-literature-poetry-and-modern-prose/) for the current anthology and prose list, and always confirm you're revising the texts for your own specification issue.
 - Spending equal time on all three sections when they are not equally weighted (40 > 30 > 20 marks).
 
 ## Self-test
@@ -106,6 +107,6 @@ into the analysis throughout.
 1. How many marks is Component 1 worth, and what percentage of the IGCSE is that?
 2. Which AOs does Section B assess, and what does the second one specifically require you to do?
 3. Why does a Section C answer that only summarises plot underperform?
-4. Given the mark split (40/30/20), how might you allocate your two hours?
+4. How does the paper itself recommend you allocate your two hours across the three sections?
 
-**Answers:** 1. 90 marks, 60% of the whole IGCSE. 2. AO2 and AO3 — AO3 specifically requires directly comparing the two poems, not just analysing them side by side. 3. Because Section C rewards AO1 (a supported, developing argument) and AO4 (context), neither of which a plot summary demonstrates. 4. Roughly proportionally to the marks: more time on Section C (40 marks) than Section B (30), and least on Section A (20), while leaving time to check all three responses.
+**Answers:** 1. 90 marks, 60% of the whole IGCSE. 2. AO2 and AO3 — AO3 specifically requires directly comparing the two poems, not just analysing them side by side. 3. Because Section C rewards AO1 (a supported, developing argument) and AO4 (context), neither of which a plot summary demonstrates. 4. Following the paper's own printed timings: 35 minutes on Section A, 40 on Section B, and 45 on Section C, leaving a few minutes to check all three responses.

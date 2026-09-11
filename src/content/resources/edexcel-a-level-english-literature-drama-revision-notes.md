@@ -1,5 +1,5 @@
 ---
-title: "Edexcel A Level English Literature: Unit 2 Drama — Revision Notes"
+title: "Edexcel International A Level English Literature: Unit 2 Drama — Revision Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["a-levels"]
@@ -24,11 +24,18 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Exam structure
 
-**Open book**, 2 hours, 50 marks (50% of IAS grade). **Section A**: one pre-1900 text (choice of *Doctor Faustus*, *Othello*, *The Rover*, *She Stoops to Conquer*, *Twelfth Night*), one essay from a choice of two, **25 marks**. **Section B**: one post-1900 text (choice of *A Raisin in the Sun*, *A Streetcar Named Desire*, *Death of a Salesman*, *Top Girls*, *Waiting for Godot*), one essay from a choice of two, **25 marks**. Both sections assessed against the same four objectives: **AO1** (informed personal response), **AO2** (language/form/structure), **AO3** (context), **AO5** (interpretations).
+**Open book**, 2 hours, 50 marks (50% of IAS grade). **Section A**: one pre-1900 text (choice of *Doctor Faustus*, *Othello*, *The Rover*, *She Stoops to Conquer*, *Twelfth Night*), one essay from a choice of two, **25 marks**. **Section B**: one post-1900 text (choice of *A Raisin in the Sun*, *A Streetcar Named Desire*, *Death of a Salesman*, *Top Girls*, *Waiting for Godot*), one essay from a choice of two, **25 marks**. Both sections assessed against the same four objectives: **AO1** (informed personal response), **AO2** (analysing how meanings are shaped -- through language, form and structure among other methods, not a fixed checklist), **AO3** (context), **AO5** (interpretations).
 
 ## Since it's open book...
 
 The value of memorising long quotations is lower than knowing your text well enough to **locate and deploy the right evidence quickly**. Bringing an *annotated* copy is **not permitted** — only a clean, unannotated text.
+
+## The question format
+
+Both sections give a statement to respond to, not an open "explore how..." prompt -- the
+statement is the mechanism the exam uses to assess AO5 (it's the invitation to show the text
+can be read in different ways), and every question also instructs you to consider relevant
+contextual factors, tying the statement to AO3.
 
 ## Using AO5 — the most commonly under-used objective
 
@@ -54,7 +61,7 @@ The same claim-range-position approach applies to the pre-1900 text — for *Oth
 
 ## AO3 (context) — different for each half
 
-**Pre-1900**: engage with the conventions of the play's original genre (revenge tragedy for *The Rover*, morality-play structure for *Doctor Faustus*). **Post-1900**: situate the play within its immediate social/political moment (the McCarthy era for *A Streetcar Named Desire* and *Death of a Salesman*; 1980s Britain for *Top Girls*).
+**Pre-1900**: engage with the conventions of the play's original genre (Restoration comedy of intrigue -- carnival and misrule, disguise, costume, the discomfort of the closing marriages -- for *The Rover*, not revenge tragedy; morality-play structure for *Doctor Faustus*). **Post-1900**: situate the play within its immediate social/political moment (post-war America for *A Streetcar Named Desire*, 1947, and *Death of a Salesman*, 1949 -- the McCarthy era, 1950-1954, postdates both plays and belongs only to their later reception, not their immediate context; 1980s Britain for *Top Girls*).
 
 ## Why both sections carry identical structure
 

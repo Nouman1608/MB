@@ -8075,3 +8075,110 @@ IGCSE/IAL family, the largest remaining sub-batch: E465-E477, I213, I214,
 I215, Q196, Q197, Q198) and batch 4 (OxfordAQA family: E478-E484, I216, I217,
 Q199-Q203, U20). After the cluster closes: Sociology (36 findings) and World
 history (34 findings), neither started yet.
+
+
+## D-174 - English literature cluster, batch 3 (Edexcel IGCSE/IAL family)
+
+Closed 19 findings across 10 files, all in the Pearson Edexcel English
+Literature family (IGCSE 4ET1 Poetry and Modern Prose and Component 2, and
+International A-Level YET01 Units 1 and 2): E465, E466, E467, E468, E469,
+E470, E471, E472, E473, E474, E475, E476, E477, I213, I214, I215, Q196,
+Q197, Q198.
+
+**IGCSE Poetry and Modern Prose (study guide, revision notes, practice).**
+Named the full 16-poem anthology and 7-title modern prose list (E470,
+WebFetch-verified against the Issue 3 specification) in all three resources,
+replacing the unactionable "chosen from Pearson's set-text lists" language;
+corrected the "rotate by examination series" claim to specification-issue
+revision (E469) throughout. Fixed the closed-book scope to the prose section
+only (E466), the wrong Component 2 cross-reference from closed-book to
+open-book with the unmarked-copy condition (E467), and the Section B
+question structure -- one option naming both poems, the other naming one
+with a free second choice (Q198, revision notes only). Replaced the
+proportional-timing principle and its unsupported "common cause of a
+disappointing mark" claim with the paper's actual printed section timings
+of 35/40/45 minutes (E471, WebFetch-verified against the November 2023
+question paper), in all three resources.
+
+**E472 (practice paper) — copyright-constrained resolution.** The finding's
+literal fix asks the practice paper to print the unseen poem and anthology
+poems it asks candidates to use. The real anthology poems are copyrighted
+texts; reproducing them in full would both risk infringement and conflict
+with this project's standing policy against reproducing copyrighted poems.
+Resolution: wrote six original poems for Marlbridge (clearly labelled as
+such, not set texts) to supply the unseen-poem and comparison-poem practice
+that was previously unusable, and added the "choice of two questions in
+Section B and C" structure the finding also required. This is a deliberate,
+disclosed departure from the finding's literal wording for a legal/policy
+reason, not a missed fix — the underlying defect (unusable, textless
+questions) is fully resolved. Extended the same fix to the file's second
+pair of practice questions (originally Q4/Q5) for consistency, though the
+finding's "Locate by" pointed only at the first pair.
+
+**Component 2 (modern drama and literary heritage).** Replaced the wrong
+six-title modern drama list (which included a Shakespeare play from the
+literary-heritage list, a Miller play not on this specification at all, and
+an A-Level-only text) with the real five titles, and separated the six-title
+literary heritage list clearly (E468, WebFetch-verified). Fixed "Official
+syllabus" to "Official specification" (I215, also fixed in the IGCSE Poetry
+guide and the A-Level Drama guide, all three of I215's flagged files).
+
+**A-Level Unit 1 (Post-2000 Poetry and Prose family).** Named the *Poems of
+the Decade* anthology (ISBN, ~22 poems by title reference rather than
+individually enumerated) and the 5-title prose list across guide, notes and
+practice (E470, WebFetch-verified — a second WebFetch on the same PDF
+returned a contradictory 12-title list; discarded that result since it
+conflicted with the finding's own text stating "the prose list is five
+titles"). Fixed the AO2 gloss from the IGCSE "language, form and structure"
+checklist wording to the real A-Level wording, "analyse ways in which
+meanings are shaped in literary texts," keeping the three features as
+examples of method (Q196, across all four flagged files: this guide, its
+revision notes, the Unit 2 Drama guide, and its revision notes). Corrected
+"Units 3-4 introduce Shakespeare and pre-1900 poetry" to attribute that
+correctly to Unit 4 only, describing Unit 3 as post-1900 unseen poetry plus
+prescribed prose (E476). Reframed "a deliberate sequencing choice within the
+qualification" as a common teaching order the specification does not itself
+mandate, quoting the modular/linear flexibility clause (Q197). Restored
+"International" to the practice-adjacent guide title (I214). Removed
+per-point mark brackets from the practice paper's answer plans in favour of
+holistic level-descriptor language, and reframed "full worked answers" as
+"worked answer plans" in frontmatter and headings (E473, I213).
+
+**A-Level Unit 2 (Drama family).** Corrected Aphra Behn's *The Rover* from
+"revenge tragedy conventions" to its real genre, Restoration comedy of
+intrigue, citing the board's own mark-scheme indicative content (carnival
+and misrule, disguise, costume, the discomfort of the closing marriages)
+(E474). Corrected the McCarthy-era context given for *A Streetcar Named
+Desire* (1947) and *Death of a Salesman* (1949): the McCarthy era
+(1950-1954) postdates both plays, so post-war America is given as the
+immediate context instead, with McCarthy-era reception preserved as
+separate, legitimate material rather than deleted outright (E475). Restored
+the statement-to-respond-to question format and its role as the mechanism
+for assessing AO5, adding a "## The question format" section to both the
+guide and the revision notes and rewriting all four practice-paper question
+stems into statement form with a contextual-factors instruction (E477).
+Applied the same AO2 wording fix as Unit 1 (Q196). Removed per-point mark
+brackets from the practice paper in favour of holistic descriptor language,
+explicitly noting AO1 is credited across the whole response on every
+question rather than assigned to one part of it -- this is the file the
+audit singled out for allocating nothing to AO1 on any of its four
+questions (E473). Reframed "full worked answers" as "worked answer plans"
+(I213). Restored "International" to the revision-notes title (I214).
+
+**Operational note.** Second consecutive clean first-attempt build (2,129
+pages + Pagefind, exit 0, 161s) -- no repeat of the `.prerender/chunks`
+`ERR_MODULE_NOT_FOUND` blocker seen in D-171 and D-172.
+
+**Validation gate:** `astro check` (0 errors) -> `validate:academic` (all
+sub-validators PASS) -> `build` (2,129 pages + Pagefind, clean first
+attempt) -> `check-duplicate-resource-scope.mjs` (PASS) ->
+`test-i18n-routes.mjs` (PASS) -> `test-practice-analytics.mjs` (24/24) ->
+`npm audit` (0 vulnerabilities) -> `coverage:academic-v2` (160/160, median 8
+resources/combination, median 996 words/resource) -> `audit:all` (11/11
+sub-audits, 0 problems, including 0 problems across 2,128 pages and 2,122
+sitemap URLs).
+
+**Next.** Continuing the English literature cluster with batch 4 (OxfordAQA
+family: E478-E484, I216, I217, Q199-Q203, U20 -- not yet read in detail).
+After the cluster closes: Sociology (36 findings) and World history (34
+findings), neither started yet.

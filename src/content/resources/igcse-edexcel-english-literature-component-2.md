@@ -56,12 +56,16 @@ unmarked editions of the set texts are permitted in the exam room, and
 candidates or centres must purchase a prescribed edition of each set
 text at the start of the course; available as either a paper-based or
 onscreen assessment
-- Set texts — the specification names a defined list of modern drama
-texts (including Arthur Miller's *A View from the Bridge*, Shakespeare's
-*Julius Caesar* and *Macbeth*, J B Priestley's *An Inspector Calls*,
-Arthur Miller's *The Crucible* and Lorraine Hansberry's *A Raisin in the
-Sun*) and a defined list of literary heritage texts, which centres
-choose from and which are not reproduced in full here
+- Set texts — the modern drama list has five titles: *A View from the
+Bridge* (Arthur Miller), *An Inspector Calls* (J B Priestley), *The
+Curious Incident of the Dog in the Night-time* (Mark Haddon, adapted by
+Simon Stephens), *Kindertransport* (Diane Samuels) and *Death and the
+King's Horseman* (Wole Soyinka). The literary heritage list is separate
+and has six titles: *Romeo and Juliet*, *Macbeth* and *The Merchant of
+Venice* (all William Shakespeare), *Pride and Prejudice* (Jane Austen),
+*Great Expectations* (Charles Dickens) and *The Scarlet Letter*
+(Nathaniel Hawthorne). Centres choose one drama text and one literary
+heritage text from these two lists
 
 ## How to approach it
 
@@ -133,7 +137,7 @@ committing to one.
 
 This guide cites Issue 3 (August 2025) of the specification, the current edition as of publication.
 
-## Official syllabus
+## Official specification
 
 Pearson Edexcel International GCSE English Literature (4ET1)
 specification, Issue 3, August 2025 —

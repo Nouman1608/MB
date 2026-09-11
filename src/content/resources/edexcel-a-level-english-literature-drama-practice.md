@@ -13,7 +13,7 @@ order: 4
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-drama-yet01"
-description: "Original exam-style practice questions with full worked answers on Unit 2 Drama, Pearson Edexcel International Advanced Level English Literature (YET01)."
+description: "Original exam-style practice questions with worked answer plans on Unit 2 Drama, Pearson Edexcel International Advanced Level English Literature (YET01)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
 featured: false
@@ -36,31 +36,39 @@ questions below model the range of ways the exam can phrase its demand, so that 
 against both sharpens your ability to adapt a prepared argument to whichever wording appears
 on the day.
 
+Every question on the real paper gives a statement to respond to, rather than an open
+"explore how..." prompt with no stem -- the statement is the mechanism the exam uses to assess
+AO5, inviting you to show the text can be read in different ways, and each question also
+instructs you to consider relevant contextual factors, tying the statement to AO3. The
+questions below are written in that format for the same reason.
+
 ---
 
 ## Section A (practise using your chosen pre-1900 text — *Doctor Faustus*, *Othello*, *The Rover*, *She Stoops to Conquer*, or *Twelfth Night*)
 
-**1.** Explore how your pre-1900 text presents the consequences of a central character's ambition or desire. **[25]**
+**1.** "A central character's ambition or desire is a purely destructive force." Using your knowledge of your whole pre-1900 text, explore how far you agree with this statement, referring to relevant contextual factors. **[25]**
 
-**1b.** (Alternative Section A question) Discuss how far your pre-1900 text can be read as a product of the dramatic conventions of its own time. **[25]**
+**1b.** (Alternative Section A question) "This play is simply a product of the dramatic conventions of its own time, with little to say to a modern audience." Explore how far you agree with this statement, referring to relevant contextual factors. **[25]**
 
 ## Section B (practise using your chosen post-1900 text — *A Raisin in the Sun*, *A Streetcar Named Desire*, *Death of a Salesman*, *Top Girls*, or *Waiting for Godot*)
 
-**2.** Explore how your post-1900 text uses dramatic form and staging to shape an audience's understanding of a central character. **[25]**
+**2.** "Staging and dramatic form do more to shape an audience's understanding of a central character than anything the character says." Explore how far you agree with this statement, referring to relevant contextual factors. **[25]**
 
-**3.** (Alternative Section B question) Discuss how far your post-1900 text engages with the social or political concerns of the period in which it was written. **[25]**
+**3.** (Alternative Section B question) "This play is best understood as a direct response to the social or political concerns of the period in which it was written." Explore how far you agree with this statement, referring to relevant contextual factors. **[25]**
 
 ---
 
-## Answers (worked approach — marks depend on your chosen texts)
+## Answer plans (approach — marks depend on your chosen texts)
 
-**1.** A top-band answer identifies specific dramatic moments where the consequences of ambition or desire are shown, not merely stated, and analyses precisely how language, form and structure convey them [8]; it integrates AO3 context relevant to the pre-1900 genre convention the play draws on — for example, revenge-tragedy or morality-play structure — to explain why the consequences unfold as they do within that dramatic tradition [7]; and it applies AO5 explicitly by acknowledging at least one differing critical or theatrical reading of how the play frames those consequences (as tragic downfall, as moral instruction, as comic correction, or another documented reading), before arguing a clear position of its own [10].
+These qualifications mark against level descriptors rather than fixed per-point figures (and AO1 -- a coherent, accurate argument using appropriate terminology -- is credited across the whole response on every question, not assigned to one part of it), so the plans below describe what a top-band response does rather than splitting the marks into parts.
 
-**1b.** The strongest responses avoid treating "dramatic conventions" as a checklist to be listed and instead use convention as a lens for interpretation — showing how a specific convention (the soliloquy, the aside, the unities, a particular sub-genre's expected structure) actively shapes meaning at a chosen moment in the text [10]. AO3 is central to this question, so context must be integrated into textual analysis rather than presented as separate background information [8]; a top-band answer also uses AO5 to note that different productions or critical periods have foregrounded the play's original conventions to differing degrees, and takes a position on how far this matters to a modern reading [7].
+**1.** A top-band answer identifies specific dramatic moments where the consequences of ambition or desire are shown, not merely stated, and analyses precisely how language, form and structure convey them; it integrates AO3 context relevant to the pre-1900 genre convention the play draws on -- for example, Restoration comedy of intrigue or morality-play structure, whichever genuinely fits your text -- to explain why the consequences unfold as they do within that dramatic tradition; and it applies AO5 explicitly by acknowledging at least one differing critical or theatrical reading of how the play frames those consequences (as tragic downfall, as moral instruction, as comic correction, or another documented reading), before arguing a clear position of its own in response to the statement.
 
-**2.** A strong response identifies specific staging choices — set, lighting, sound, silence, an actor's positioning, a stage direction's implied gesture — and explains their effect on how an audience comes to understand the character in question, rather than discussing the character only through what they say [10]; it connects this analysis of dramatic form explicitly to AO2 (form and structure), since drama is written to be performed and staging choices are as meaningful as dialogue [7]; and it uses AO5 to acknowledge that different productions have staged this character differently, arguing for the effect of one reading over another [8].
+**1b.** The strongest responses avoid treating "dramatic conventions" as a checklist to be listed and instead use convention as a lens for interpretation — showing how a specific convention (the soliloquy, the aside, the unities, a particular sub-genre's expected structure) actively shapes meaning at a chosen moment in the text. AO3 is central to this question, so context must be integrated into textual analysis rather than presented as separate background information; a top-band answer also uses AO5 to note that different productions or critical periods have foregrounded the play's original conventions to differing degrees, and takes a position on how far this matters to a modern reading, directly answering the statement's "little to say to a modern audience" claim.
 
-**3.** A top-band response avoids treating the play as a simple message about its period and instead argues *how* it engages with its social or political moment — through characterisation, structure, or a specific dramatic choice, not just subject matter [10]; it supports this with precise, well-chosen textual evidence, since the exam is open book and vague or paraphrased evidence is a common way marks are lost [7]; and it reaches a genuine critical judgement about how far the reading holds, informed by AO5 awareness that critics and productions across different periods have read the play's political engagement differently [8].
+**2.** A strong response identifies specific staging choices — set, lighting, sound, silence, an actor's positioning, a stage direction's implied gesture — and explains their effect on how an audience comes to understand the character in question, rather than discussing the character only through what they say; it connects this analysis of dramatic form explicitly to AO2 (how meaning is shaped through form and structure, among other methods), since drama is written to be performed and staging choices are as meaningful as dialogue; and it uses AO5 to acknowledge that different productions have staged this character differently, arguing for the effect of one reading over another in response to the statement.
+
+**3.** A top-band response avoids treating the play as a simple message about its period and instead argues *how* it engages with its social or political moment — through characterisation, structure, or a specific dramatic choice, not just subject matter; it supports this with precise, well-chosen textual evidence, since the exam is open book and vague or paraphrased evidence is a common way marks are lost; and it reaches a genuine critical judgement about how far the reading holds, informed by AO5 awareness that critics and productions across different periods have read the play's political engagement differently.
 
 ---
 

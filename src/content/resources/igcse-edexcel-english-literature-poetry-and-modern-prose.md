@@ -37,44 +37,66 @@ literary heritage texts.
 **PEARSON EDEXCEL INTERNATIONAL GCSE ENGLISH LITERATURE (4ET1) —
 COMPONENT 1 POETRY AND MODERN PROSE**
 
-Component 1 assesses a prescribed poetry anthology or selection
-alongside a modern prose text, chosen from Pearson's set-text lists
-(which rotate by examination series and are not fixed content).
-Candidates respond to both the poetry and the prose material within
-the same paper.
+Component 1 assesses the prescribed poetry anthology (Section B) and a
+modern prose text chosen from Pearson's prose list (Section C),
+alongside an unseen poem (Section A). Both lists are printed in full
+in the specification and revised by specification issue rather than
+rotated by series -- see the set-text list below. Candidates respond
+to poetry and prose material within the same paper.
+
+**The poetry anthology (16 poems, all candidates study all sixteen and
+are given the poems in the exam):** *If* (Rudyard Kipling), *Prayer
+Before Birth* (Louis MacNeice), *Blessing* (Imtiaz Dharker), *Search
+For My Tongue* (Sujata Bhatt), *Half-past Two* (U A Fanthorpe),
+*Piano* (D H Lawrence), *Hide and Seek* (Vernon Scannell), *Sonnet
+116: Let me not to the marriage of true minds* (William Shakespeare),
+*La Belle Dame sans Merci* (John Keats), *Poem at Thirty-Nine* (Alice
+Walker), *War Photographer* (Carol Ann Duffy), *The Tyger* (William
+Blake), *My Last Duchess* (Robert Browning), *Half-caste* (John
+Agard), *Do not go gentle into that good night* (Dylan Thomas), and
+*Remember* (Christina Rossetti).
+
+**The modern prose list (candidates study one):** *To Kill a
+Mockingbird* (Harper Lee), *Of Mice and Men* (John Steinbeck), *The
+Whale Rider* (Witi Ihimaera), *The Joy Luck Club* (Amy Tan), *Things
+Fall Apart* (Chinua Achebe), *Klara and the Sun* (Kazuo Ishiguro) and
+*Western Lane* (Chetna Maroo) -- the last two added for first teaching
+September 2024, first assessment May 2026.
 
 ## How to approach it
 
-Because poetry questions often ask candidates to compare two poems
-from the anthology, practising comparison -- not just close reading
-of individual poems -- is essential; build short comparative notes on
-theme, form and language across pairs of poems rather than revising
-each poem in isolation. For the modern prose text, tracking how a
-theme or character develops across the whole novel gives stronger
-material than focusing only on a single memorable scene. Since set
-texts rotate by series, always check which poems and prose text apply
-to your own examination series before beginning detailed revision.
+Because Section B questions ask candidates to compare two poems from
+the anthology, practising comparison -- not just close reading of
+individual poems -- is essential; build short comparative notes on
+theme, form and language across pairs of poems from the sixteen-poem
+list above rather than revising each poem in isolation. For the
+modern prose text, tracking how a theme or character develops across
+the whole novel gives stronger material than focusing only on a
+single memorable scene. The anthology and prose lists above are
+revised by specification issue, not rotated by series, so confirm
+which specification issue governs your own examination series before
+detailed revision, but do not expect a different list each series.
 
 ## Assessment at a glance
 
 Component 1 (4ET1/01) is a 2-hour written exam worth 90 marks -- 60%
-of the total International GCSE -- and is closed book throughout. It
-has three sections: Section A is a 20-mark essay exploring meaning
-and effects in an unseen poem printed in the question paper (AO2);
-Section B is a 30-mark essay comparing two poems from the prescribed
-anthology (AO2, AO3); Section C is a 40-mark essay on the candidate's
-chosen modern prose text, testing close textual knowledge and
-understanding of context (AO1, AO4).
+of the total International GCSE. It is closed book for the prose
+section only: the unseen poem for Section A is printed on the
+question paper and the anthology poems for Section B come in a
+booklet issued with it, so only Section C's prose text is unavailable
+in the exam room. It has three sections: Section A is a 20-mark essay
+exploring meaning and effects in an unseen poem printed in the
+question paper (AO2); Section B is a 30-mark essay comparing two
+poems from the prescribed anthology (AO2, AO3); Section C is a
+40-mark essay on the candidate's chosen modern prose text, testing
+close textual knowledge and understanding of context (AO1, AO4).
 
-Pearson has recently refreshed the modern prose set-text list for
-this component -- Klara and the Sun and Western Lane were added for
-first teaching 2024, with first assessment in May 2026 -- while the
-three-section, 90-mark structure of Component 1 described above is
-unchanged. Component 1 combines with Component 2 (Modern Drama and
-Literary Heritage Texts, a 1 hour 30 minute closed-book exam worth 60
-marks and 40% of the qualification) for candidates on the examined
-route, or with Component 3 (non-exam assessment, also 40%) for
-candidates on the coursework route.
+Component 1 combines with Component 2 (Modern Drama and Literary
+Heritage Texts, a 1 hour 30 minute **open-book** exam worth 60 marks
+and 40% of the qualification -- prescribed editions of the set texts
+are taken into the exam and must be completely unmarked) for
+candidates on the examined route, or with Component 3 (non-exam
+assessment, also 40%) for candidates on the coursework route.
 
 ## Section A in more depth
 
@@ -113,15 +135,16 @@ than describing it for its own sake.
 
 ## Timing and exam strategy
 
-Because the three sections are not equally weighted -- 20, 30 and 40
-marks respectively -- time should be allocated roughly in proportion
-to those marks rather than split evenly across the two hours, with
-more time given to Section C than Section B, and the least time to
-Section A, while still leaving a few minutes to check all three
-responses. A common cause of a disappointing overall mark is spending
-too long perfecting Section A's shorter response and running out of
-time on Section C, where the largest number of marks is actually
-available.
+The question paper itself prints recommended timings above each
+section, and they are worth following over any proportional
+calculation from the marks: **35 minutes** for Section A, **40
+minutes** for Section B, and **45 minutes** for Section C. Simple
+proportional allocation from the 20/30/40 mark split would suggest
+roughly 27/40/53 minutes -- notably less time on Section A than the
+paper actually recommends, because Section A is deliberately given
+more time per mark than its tariff alone would suggest. Follow the
+paper's own timings rather than deriving your own from the mark
+split, and still leave a few minutes to check all three responses.
 
 ## Why Component 1 is worth the most of the qualification
 
@@ -129,14 +152,16 @@ Component 1's 90 marks make up 60% of the total International GCSE,
 the largest single share of the qualification, which is worth
 factoring directly into revision planning: it deserves proportionally
 more preparation time than Component 2 or Component 3, both worth 40%.
-Because it is compulsory for every candidate regardless of which
-second component they go on to take, and because it is closed book
-throughout, secure, precisely recalled quotation knowledge for both
-the poetry anthology and the modern prose text is essential rather
-than optional, since there is no text available in the exam room to
-check a half-remembered quotation against.
+It is compulsory for every candidate regardless of which second
+component they go on to take, but it is only closed book for the
+prose section: the anthology poems are supplied in the exam, so
+precisely recalled quotation matters for the **modern prose text
+only** -- that is the one text with no copy available in the exam
+room to check a half-remembered quotation against. For the anthology,
+revision time is better spent on comparative analysis than on
+memorising the poems verbatim.
 
-## Official syllabus
+## Official specification
 
 Pearson Edexcel International GCSE English Literature (4ET1)
 specification, first teaching 2016 —
