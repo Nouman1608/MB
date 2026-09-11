@@ -7,7 +7,7 @@ topic: "Paper 1 – Literary Genres"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7717"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "For first teaching 2025"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
@@ -20,7 +20,7 @@ featured: false
 
 This guide covers **Paper 1 Literary Genres**, one of two exam papers
 in AQA A-Level English Literature B (7717), first teaching September
-2015. English Literature B is distinctive among A-Level literature
+2025. English Literature B is distinctive among A-Level literature
 specifications for its genre-led approach: rather than studying set
 texts in isolation, candidates explore how texts work within and
 against the conventions of a literary genre.
@@ -77,26 +77,29 @@ AQA-moderated non-exam component -- two 1,250-1,500 word essays worth
 with an accompanying commentary.
 
 AQA has published an updated 7717 specification for first exams from
-2027, refreshing the set-text options within the same paper structure
-described above -- confirm which version applies to your examination
-year before relying on any specific text list.
+2027, adding further optional set texts within the same paper
+structure described above -- confirm which version applies to your
+examination year before relying on any specific text list.
 
-## The three questions in more detail
+## The three sections in more detail
 
-All three questions in Paper 1 are compulsory once the genre option
-is chosen, and all three draw on the same genre option throughout the
-paper, so the genre-specific conventions and vocabulary built up
-revising for the first question carry directly into the others.
-Question 1 is a passage-based question on a set Shakespeare extract,
-requiring close analysis connected explicitly to the genre. Question 2
-is a genre-focused essay on the Shakespeare play as a whole. Question
-3 connects two further texts, drawn from drama, prose and poetry,
-within the chosen genre option. Unlike some other AQA English
-Literature specifications, there is no further choice of question
-within the paper once the genre option itself has been selected --
-that choice is normally made by the centre rather than by individual
-candidates, so confirming which genre option a course is actually
-studying is worth doing early.
+All three sections of Paper 1 are compulsory once the genre option is
+chosen, and each section itself offers a choice of question, so the
+genre-specific conventions and vocabulary built up revising for one
+section carry directly into the others. Section A is a passage-based
+question on a set Shakespeare extract, requiring close analysis
+connected explicitly to the genre -- a question is printed for each of
+the two prescribed Shakespeare plays, and you answer on the one you
+have studied. Section B is a genre-focused essay on the Shakespeare
+play as a whole, chosen from two questions on the play studied.
+Section C connects two further texts, drawn from drama, prose and
+poetry, within the chosen genre option, chosen from a pair of
+questions -- the rubric requires that one of the two texts you write
+about be a drama text and one be written before 1900, so check your
+planned texts satisfy this before the exam. Students choose one of the
+two genre options themselves; confirming which genre option your
+course is actually teaching is still worth doing early, since in
+practice a centre typically teaches only one.
 
 ## Genre conventions worth knowing cold
 
@@ -128,5 +131,5 @@ quotation against.
 ## Official syllabus
 
 AQA A-Level English Literature B (7717) specification, for first
-teaching 2015 —
+teaching 2025 —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/english/a-level/english-7717/specification/specification-at-a-glance).

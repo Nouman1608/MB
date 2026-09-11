@@ -7,7 +7,7 @@ topic: "Paper 2 – Texts and Genres"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7717"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "For first teaching 2025"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
@@ -72,11 +72,13 @@ illuminate the other — not analysing each text in an isolated block.
 ## Confirm the text-list technicalities
 
 Your three texts must include one post-2000 prose text, one poetry
-text, and one further text, with one of the three pre-1900. A text can
-satisfy more than one requirement simultaneously (a pre-1900 poetry
-text meets both the poetry and pre-1900 requirements at once) — confirm
-with your teacher exactly which three texts your centre studies and how
-they map onto these requirements before building a revision plan.
+text, and one further text — but the pre-1900 rule is **not the same
+for both options**. Option 2A (Crime) is the stricter of the two: the
+poetry text itself must be pre-1900. Option 2B (Political/Social
+Protest) is looser: any one of the three texts may satisfy the pre-1900
+requirement, not necessarily the poetry text. Confirm with your teacher
+exactly which three texts your centre studies and how they map onto
+your option's specific requirement before building a revision plan.
 
 ## Why "elements" are labelled that way, not "genre rules"
 
@@ -136,6 +138,8 @@ avoided by tracking one specific element across both texts, using one
 to illuminate the other. 4. Because it carries the same 25 marks as
 each essay section, despite feeling less "revisable" than prepared set
 texts. 5. One post-2000 prose text, one poetry text, and one further
-text with one of the three pre-1900; yes, a single text can satisfy
-more than one requirement at once (e.g. a pre-1900 poetry text meets
-both the poetry and pre-1900 requirements).
+text; for Option 2A (Crime) the poetry text itself must be pre-1900,
+while for Option 2B (Political/Social Protest) any one of the three
+texts may satisfy the pre-1900 requirement. Either way, a single text
+can satisfy more than one requirement at once (e.g. a pre-1900 poetry
+text meets both the poetry and pre-1900 requirements).

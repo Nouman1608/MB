@@ -84,8 +84,11 @@ either whole text or preparing for one imagined question type only.
 Precision matters more here than on an open-book paper too: since
 there is no text to check a quotation against on the day, an
 imprecisely recalled quotation cannot be corrected or verified on the
-spot, so examiners specifically credit accurate recall over vague
-paraphrase.
+spot. What the mark scheme actually rewards is apt, precisely chosen
+textual reference in support of an argument, not verbatim accuracy for
+its own sake -- but a vaguely paraphrased reference is harder to make
+apt, which is the practical reason a well-drilled quotation bank still
+matters.
 
 ## Shakespeare technique in more depth
 

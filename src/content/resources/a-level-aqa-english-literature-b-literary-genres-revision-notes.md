@@ -7,7 +7,7 @@ topic: "Paper 1 – Literary Genres"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7717"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "For first teaching 2025"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
@@ -27,18 +27,18 @@ Shakespeare play plus further studied texts drawn from drama, prose and poetry.
 
 2 hours 30 minutes, closed book, **75 marks = 40% of the A-level**.
 
-| Question | Focus | Marks |
+| Section | Focus | Marks |
 |---|---|---|
-| 1 | Passage-based, Shakespeare | 25 |
-| 2 | Essay, Shakespeare | 25 |
-| 3 | Essay linking two further texts | 25 |
+| A | Passage-based, Shakespeare (one question per prescribed play — answer on the one you studied) | 25 |
+| B | Essay, Shakespeare (choice of two questions on the play studied) | 25 |
+| C | Essay linking two further texts (choice of two questions; one text must be drama, one pre-1900) | 25 |
 
-All three questions are compulsory once the genre option is chosen — there is no further choice of
-question within the paper, unlike some other AQA English Literature specifications.
+All three sections are compulsory once the genre option is chosen — but each section itself offers
+a choice of question, unlike a fixed single-question paper.
 
-Choose **one** option: Aspects of Tragedy or Aspects of Comedy. This choice is normally made by the
-centre, not by individual candidates, so confirm with your teacher which genre option your course is
-actually studying before beginning detailed revision.
+Choose **one** option: Aspects of Tragedy or Aspects of Comedy. Students choose the option
+themselves; in practice a centre typically teaches only one, so confirm with your teacher which
+genre option your course is actually studying before beginning detailed revision.
 
 ## The genre-led mindset
 
@@ -102,7 +102,9 @@ about your specific texts — does the ending really achieve full catharsis, or 
 3. What distinguishes a strong genre-led answer from a text-by-text summary?
 4. What proportion of the A-level is Paper 1 worth?
 
-**Answers:** 1. Three: a passage-based Shakespeare question, a Shakespeare essay, and an essay linking two further texts within the genre option. 2. Aspects of Tragedy and Aspects of Comedy — you study one. 3. It treats the genre as a set of contested conventions and debates how each text uses, departs from or complicates them, rather than summarising each text's plot and features separately. 4. 40% (75 of the total marks available across the qualification's components).
+**Answers:** 1. Three: a passage-based Shakespeare question, a Shakespeare essay, and an essay linking two further texts within the genre option. 2. Aspects of Tragedy and Aspects of Comedy — you study one. 3. It treats the genre as a set of contested conventions and debates how each text uses, departs from or complicates them, rather than summarising each text's plot and features separately. 4. 40% — 150 of 375 scaled marks. The raw mark is 75, but AQA doubles Paper 1 and Paper 2 raw
+marks when combining them with the 50-mark non-exam component, giving a scaled total of 375
+(150 + 150 + 75); 150 of that scaled total is 40%.
 
 5. What proportion of the qualification does the non-exam component carry, and what does it consist of?
 6. Why does Paper 1 need a different revision approach from Paper 2?

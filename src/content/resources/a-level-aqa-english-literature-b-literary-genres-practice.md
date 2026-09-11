@@ -7,7 +7,7 @@ topic: "Paper 1 – Literary Genres"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7717"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "For first teaching 2025"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
@@ -46,6 +46,10 @@ other questions below draw on your further studied texts within the same genre o
 
 **4.** (Alternative Q3-style question) Compare how two of your further studied texts within your genre option use a shared technique (e.g. dramatic irony, an unreliable narrator, structural symmetry) to achieve a genre effect. **[25]**
 
+Both Q3 and Q4 are governed by the real paper's Section C rubric: one of the two texts you write
+about must be a drama text and one must be written before 1900. Check your two chosen texts satisfy
+this before treating either question as a realistic exam simulation.
+
 ---
 
 ## Applying this to whichever genre option you study
@@ -62,13 +66,18 @@ reading? — rather than simply confirming that the convention is present.
 
 ## Answers (worked approach — marks depend on your studied texts and genre option)
 
-**1.** A top-band answer opens with **close analysis of the extract's** language, structure and dramatic method [10], explicitly connects this to a **named genre convention**, debating whether the extract conforms to, subverts or complicates it [10], and where relevant briefly signals how the extract's genre engagement fits the play as a whole [5].
+AQA marks these essays holistically against level descriptors covering all the assessment
+objectives together, not against a published breakdown of marks per component of the answer. The
+components below are given in descending order of what most distinguishes a top-band response, not
+as a points scheme to total.
 
-**2.** A strong essay sustains a **genre-focused argument across the whole play** rather than summarising the plot [10], selects well-chosen evidence from multiple points in the play to support that argument [8], and engages in genuine **critical debate** about the genre — using a critical viewpoint to test or challenge, not just support, the argument [7].
+**1.** A top-band answer opens with **close analysis of the extract's** language, structure and dramatic method, explicitly connects this to a **named genre convention**, debating whether the extract conforms to, subverts or complicates it, and where relevant briefly signals how the extract's genre engagement fits the play as a whole.
 
-**3.** The best comparative essays organise **by point of comparison** rather than text-by-text [8], analyse how each text specifically uses or subverts the shared convention [10], and reach a developed judgement about what the comparison reveals about the genre itself [7].
+**2.** A strong essay sustains a **genre-focused argument across the whole play** rather than summarising the plot, selects well-chosen evidence from multiple points in the play to support that argument, and engages in genuine **critical debate** about the genre — using a critical viewpoint to test or challenge, not just support, the argument.
 
-**4.** As with Q3, the strongest essays organise **by point of comparison**, not text-by-text [8], but here the focus is technique rather than convention directly — a top-band response explains precisely how the technique is deployed in each text (not just that it's present) and connects that technique back to a genre effect (creating dramatic tension typical of tragedy, or comic misunderstanding typical of comedy) [10], reaching a developed judgement about what the comparison of technique reveals about how the genre works [7].
+**3.** The best comparative essays organise **by point of comparison** rather than text-by-text, analyse how each text specifically uses or subverts the shared convention, and reach a developed judgement about what the comparison reveals about the genre itself.
+
+**4.** As with Q3, the strongest essays organise **by point of comparison**, not text-by-text, but here the focus is technique rather than convention directly — a top-band response explains precisely how the technique is deployed in each text (not just that it's present) and connects that technique back to a genre effect (creating dramatic tension typical of tragedy, or comic misunderstanding typical of comedy), reaching a developed judgement about what the comparison of technique reveals about how the genre works.
 
 ---
 

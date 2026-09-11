@@ -65,8 +65,8 @@ efficient revision than memorising in response to one imagined question type onl
 ## Why closed book changes everything about revision
 
 Every other decision in this paper flows from one fact: no text is available in the exam room. This
-is why quotation banks must be built and memorised in advance, why examiners specifically credit
-precise recall over vague paraphrase, and why practising extract-based analysis on unfamiliar
+is why quotation banks must be built and memorised in advance, why apt and precisely chosen textual
+reference matters more than loose paraphrase, and why practising extract-based analysis on unfamiliar
 passages matters more here than on an open-book paper — a candidate cannot "look up" the answer
 under exam conditions the way an open-book paper would allow. Building this discipline early, rather
 than assuming quotation recall will simply happen naturally through general reading of the texts, is
@@ -101,4 +101,4 @@ revision time disproportionate to its 40% share of the qualification.
 5. What does Paper 2 test that Paper 1's quotation-bank approach cannot prepare a candidate for directly?
 6. Why does being closed book affect how precisely a candidate should aim to recall quotations?
 
-**Answers (continued):** 5. Unseen poetry — since the poems are unfamiliar on the day, no amount of memorising specific quotations in advance can substitute for genuine analytical skill practised under timed conditions. 6. Because there is no text available to check against in the exam room, an imprecisely recalled quotation cannot be corrected or verified on the spot, so precise, accurate recall (not just approximate paraphrase) is what the mark scheme actually rewards.
+**Answers (continued):** 5. Unseen poetry — since the poems are unfamiliar on the day, no amount of memorising specific quotations in advance can substitute for genuine analytical skill practised under timed conditions. 6. Because there is no text available to check against in the exam room, an imprecisely recalled quotation cannot be corrected or verified on the spot — and a vague paraphrase is harder to make apt than a precisely chosen reference, which is what the mark scheme actually rewards, so precision is worth prioritising even though verbatim accuracy itself is not directly credited.

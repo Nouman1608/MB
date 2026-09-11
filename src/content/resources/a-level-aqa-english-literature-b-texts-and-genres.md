@@ -7,7 +7,7 @@ topic: "Paper 2 – Texts and Genres"
 boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7717"]
-syllabusSeries: "For first teaching 2015"
+syllabusSeries: "For first teaching 2025"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
@@ -65,10 +65,18 @@ individual and collective experience; gender politics and social class;
 and how the text's structure heightens or resolves political tension.
 
 Within the chosen option, candidates study **three texts**: one post-2000
-prose text, one poetry text, and one further text, one of which must be
-written pre-1900. The exam also includes a compulsory unseen-passage
-question, which may draw on poetry, prose or drama from either genre,
-including literary non-fiction.
+prose text, one poetry text, and one further text -- but the pre-1900
+requirement differs between the two options. For **Option 2A (Crime)**,
+the specification is stricter: the poetry text itself must be pre-1900.
+For **Option 2B (Political and Social Protest)**, the requirement is
+looser: any one of the three texts may satisfy it. Applying Option 2B's
+looser rule to a crime-option text list would permit a modern poetry
+text paired with a pre-1900 prose or drama text, which is not what the
+specification allows for that option. The exam also includes a
+compulsory unseen-passage question, which may be in any form -- poetry,
+prose or drama, including literary non-fiction -- and is always drawn
+from the genre option the candidate has studied, not from either option
+interchangeably.
 
 Set texts for **Option 2A** include Charles Dickens's *Oliver Twist*,
 Shakespeare's *Hamlet*, Agatha Christie's *The Murder of Roger Ackroyd*,
@@ -92,7 +100,9 @@ The 3-hour paper is divided into three sections, each worth 25 marks:
 - **Section B** — an essay question on one of the candidate's own set
 texts.
 - **Section C** — an essay question that connects two of the candidate's
-set texts.
+set texts. The rubric requires that the two texts connected here not be
+the same text used in the Section B essay, so plan in advance which
+text you will cover in each section.
 
 ## How to approach it
 

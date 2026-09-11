@@ -26,9 +26,12 @@ both longer and worth more of the overall grade.
 ## Where this fits in 8702
 
 Paper 1 tests two texts studied in full depth: a Shakespeare play and
-a 19th-century novel. Paper 2 shifts to material written from 1914
-onward and adds a skill Paper 1 does not require at all: analysing
-poetry never seen before the exam. Because Paper 2 is worth 60% of
+a 19th-century novel. Paper 2's modern text section shifts to prose or
+drama written from 1914 onward, while its poetry sections range far
+more widely -- the anthology clusters span poems written between 1789
+and the present day, and the unseen poems can be from any period. Paper
+2 also adds a skill Paper 1 does not require at all: analysing poetry
+never seen before the exam. Because Paper 2 is worth 60% of
 the GCSE against Paper 1's 40%, and because unseen poetry cannot be
 prepared for with a quotation bank the way a studied text can, it
 deserves proportionally more revision time than a straight 40/60 split
@@ -54,10 +57,12 @@ clusters, each thematically linked and spanning poems written between
 1789 and the present day, are Love and Relationships, Power and
 Conflict, and (from first teaching 2023) Worlds and Lives. Candidates
 must be prepared to write about any poem from their studied cluster
-- Section C: Unseen Poetry — analysis and comparison of two poems not
-seen before the exam, focusing on content, theme, structure and use
-of language, built through wide reading of poetry across the course
-rather than through memorised content
+- Section C: Unseen Poetry — two compulsory questions, both on poems
+not seen before the exam: one analysing a single unseen poem in depth
+(24 marks) and a second comparing that poem with a further unseen poem
+(8 marks), focusing on content, theme, structure and use of language,
+built through wide reading of poetry across the course rather than
+through memorised content
 
 ## How to approach it
 
@@ -78,11 +83,13 @@ single reading under time pressure.
 ## Common mistakes
 
 Treating Section A as a chance to retell the plot rather than analyse
-it -- examiners consistently report that summary without analysis
-caps marks in the middle bands. Comparing poems in Section B only by
-theme while ignoring form and structure, when AQA's assessment
-objectives credit comparison across all three dimensions equally.
-Leaving too little time for Section C because it feels the least
+it -- plot summary with little analysis scores in the lower levels of
+the mark scheme, which marks holistically rather than through a
+capping mechanism. Comparing poems in Section B only by theme while
+ignoring form and structure -- the assessment objective covering this
+paper asks for analysis of the language, form and structure a writer
+uses, so attending to all three (not just theme) is what the mark
+scheme actually rewards. Leaving too little time for Section C because it feels the least
 prepared-for -- Section A carries 34 marks, Section B 30 marks, and
 Section C 32 marks, so under-time on unseen poetry still costs a
 substantial share of the paper and is one of the most avoidable
@@ -93,8 +100,10 @@ ways to lose marks.
 Paper 2 is a 2 hour 15 minute closed-book exam worth 96 marks -- 60%
 of the GCSE. Candidates answer one question on their studied modern
 text (Section A), one question comparing a given poem with a second
-poem of their choice from the same cluster (Section B), and one
-compulsory question comparing two unseen poems (Section C).
+poem of their choice from the same cluster (Section B), and two
+compulsory questions in Section C: one analysing a single unseen poem
+(24 marks) and one comparing that poem with a second unseen poem
+(8 marks) -- both compulsory, not one combined comparison question.
 
 ## Worked example
 

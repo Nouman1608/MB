@@ -51,13 +51,17 @@ than a single rehearsed essay shape.
 
 ## Answers (worked approach — marks depend on your studied texts)
 
-**1.** A top-band answer opens with **close analysis of the given extract** — language, form, structure, and how the theme is dramatized in that moment [12] — then moves outward to the **whole play**, tracing how the theme develops across other key moments, using a well-chosen (memorised) quotation bank [14]. Throughout, the strongest responses treat the play as **drama**, commenting on staging or performance choice at least once, and integrate historical/social context directly into the argument rather than as a separate paragraph [8].
+AQA marks these essays holistically against level descriptors, not against a published points
+breakdown per component of the answer, so the components below are given in descending order of
+importance rather than as marks to total.
 
-**1b.** As with Q1, a strong answer starts with **close analysis of the given extract**, examining what it reveals about the character's own choices and agency at that specific moment [12], then extends this across the **whole play**, weighing evidence of self-inflicted downfall against evidence of external forces (fate, other characters, circumstance) [14], reaching a clear, debated judgement rather than simply asserting the character is or isn't responsible [8].
+**1.** A top-band answer opens with **close analysis of the given extract** — language, form, structure, and how the theme is dramatized in that moment — then moves outward to the **whole play**, tracing how the theme develops across other key moments, using a well-chosen (memorised) quotation bank. Throughout, the strongest responses treat the play as **drama**, commenting on staging or performance choice at least once, and integrate historical/social context directly into the argument rather than as a separate paragraph.
 
-**2.** A strong response begins with the **extract itself** — how the writer's language and narrative choices present the character at that specific point [10] — then tracks the character's **development across the whole novel**, using precise textual evidence from at least two further points in the story [14], with relevant social/historical context woven into the analysis of *why* the character develops as they do [6].
+**1b.** As with Q1, a strong answer starts with **close analysis of the given extract**, examining what it reveals about the character's own choices and agency at that specific moment, then extends this across the **whole play**, weighing evidence of self-inflicted downfall against evidence of external forces (fate, other characters, circumstance), reaching a clear, debated judgement rather than simply asserting the character is or isn't responsible.
 
-**3.** As with Q2, a strong response opens with **close analysis of the extract**, focusing on how the relationship is presented at that specific point [10], then traces how the relationship **changes across the novel**, using precise evidence from at least two further moments [14], integrating social/historical context relevant to why the relationship develops as it does — for instance, contemporary attitudes to class, marriage or gender that shape how the writer presents the relationship [6].
+**2.** A strong response begins with the **extract itself** — how the writer's language and narrative choices present the character at that specific point — then tracks the character's **development across the whole novel**, using precise textual evidence from at least two further points in the story, with relevant social/historical context woven into the analysis of *why* the character develops as they do.
+
+**3.** As with Q2, a strong response opens with **close analysis of the extract**, focusing on how the relationship is presented at that specific point, then traces how the relationship **changes across the novel**, using precise evidence from at least two further moments, integrating social/historical context relevant to why the relationship develops as it does — for instance, contemporary attitudes to class, marriage or gender that shape how the writer presents the relationship.
 
 ---
 

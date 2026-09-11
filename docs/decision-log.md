@@ -7947,3 +7947,82 @@ owner's "continue now, section by section" instruction, next up are
 the remaining per-subject clusters in `docs/audit/2026-09-11-
 findings.md`: English literature (58), Sociology (36), World history
 (34).
+
+
+## D-172 - English literature cluster, batch 1 (AQA family): E457, E458, E459, I205, I206, I207, Q185, Q187, Q188, Q189, Q190, Q191, Q192, Q193
+
+**Date:** 2026-09-11
+
+**Context.** The English literature cluster in `docs/audit/2026-09-11-
+findings.md` carries 58 findings, by far the largest remaining cluster
+after Geography closed (D-171). Given the scale, this cluster is being
+worked in file-family sub-batches rather than as one pass, mirroring
+this project's established batch-and-commit discipline. This first
+sub-batch covers every finding scoped to the AQA English Literature
+family: AQA A-level English Literature B (7717) Paper 1 Literary
+Genres and Paper 2 Texts and Genres (5 files), and AQA GCSE English
+Literature (8702) Paper 1 and Paper 2 (4 files) -- 9 files, 14
+findings. A genuine build-environment blocker was hit and resolved
+mid-batch (see below); it was unrelated to the content changes.
+
+**Finding ID -> file(s) -> what changed.**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E457 | `a-level-aqa-english-literature-b-literary-genres.md`, `...-revision-notes.md` | Corrected the false claim that Paper 1 offers "no further choice of question" once the genre option is chosen. Rewrote as: all three sections (A, B, C) are compulsory, but each section itself offers a choice of question (Section A: one question per prescribed Shakespeare play; Section B: choice of two on the play studied; Section C: choice of two, with a text-selection rubric). Dropped the comparison with other AQA specifications. |
+| E458 | `aqa-gcse-english-literature-paper-2.md` | Corrected Section C (Unseen Poetry), previously described as one compulsory question comparing two unseen poems. It is two compulsory questions: one analysing a single unseen poem (24 marks) and one comparing that poem with a second unseen poem (8 marks). |
+| E459 | `a-level-aqa-english-literature-b-literary-genres-revision-notes.md` | Corrected a self-test answer that glossed the 40% Paper 1 weighting as "75 of the total marks available" -- 75 is not 40% of anything in this qualification. Replaced with the real arithmetic: 150 of 375 scaled marks, from a raw 75 doubled when combined with Paper 2 and the non-exam component. |
+| I205 | `a-level-aqa-english-literature-b-literary-genres.md`, `...-revision-notes.md`, `...-practice.md`, `a-level-aqa-english-literature-b-texts-and-genres.md`, `...-revision-notes.md` | Relabelled `syllabusSeries` (and inline "first teaching" mentions) from 2015 to 2025 across all 5 A-level AQA files, matching the specification version the board's linked page now actually serves. |
+| I206 | `aqa-gcse-english-literature-paper-2.md` | Corrected the opening characterisation of Paper 2 as covering "material written from 1914 onward" -- that restriction applies only to the Section A modern-text option; the poetry anthology (1789-present) and unseen poetry (any period) are not restricted this way, and the file already said so 40 lines later. |
+| I207 | `a-level-aqa-english-literature-b-literary-genres.md` | Corrected "refreshing the set-text options" (which implies replacement) to "adding further optional set texts" for the 2027 specification update, matching the sibling `texts-and-genres.md` file's (already-correct) wording and what the board actually describes. |
+| Q185 | `aqa-gcse-english-literature-paper-1.md`, `...-revision-notes.md` | Removed the unsupported claim that examiners "specifically credit accurate recall over vague paraphrase." No published AQA document for this qualification credits verbatim accuracy as such. Reframed around what the mark scheme actually rewards: apt, precisely chosen textual reference -- while keeping the practical case for a well-drilled quotation bank (a vague paraphrase is harder to make apt). |
+| Q187 | `a-level-aqa-english-literature-b-literary-genres-practice.md`, `aqa-gcse-english-literature-paper-1-practice.md` | Removed bracketed per-component mark splits (e.g. `[10]`, `[8]`) from worked answers in both practice papers -- AQA marks these essays holistically against level descriptors, not a published points breakdown. Components are now given in descending order of importance, without figures. |
+| Q188 | `aqa-gcse-english-literature-paper-2.md` | Corrected the claim that AQA's assessment objectives "credit comparison across theme, form and structure equally" -- this qualification has no comparison objective; the real objective covers analysis of language, form and structure. Kept the underlying advice (attend to all three, not just theme) without the invented authority. |
+| Q189 | `aqa-gcse-english-literature-paper-2.md` | Removed the claim that "examiners consistently report" a capping mechanism for plot summary -- this paper marks holistically with no capping mechanism. Restated as: plot summary with little analysis scores in the lower levels. |
+| Q190 | `a-level-aqa-english-literature-b-texts-and-genres.md` | Corrected "from either genre" (readable as either genre *option*) to state the unseen passage may be in any *form* (poetry/prose/drama, including literary non-fiction) but is always drawn from the candidate's own genre option. |
+| Q191 | `a-level-aqa-english-literature-b-texts-and-genres.md`, `...-revision-notes.md` | Corrected the text-selection rule, previously stated as one loose rule ("one of the three pre-1900") for both genre options. The specification is stricter for Option 2A (Crime): the poetry text itself must be pre-1900. Option 2B (Political/Social Protest) keeps the looser rule. Both files, including the self-test answer, now state the two options separately. |
+| Q192 | `a-level-aqa-english-literature-b-literary-genres.md`, `...-practice.md`, `a-level-aqa-english-literature-b-texts-and-genres.md` | Added the compulsory rubrics constraining each paper's linking-essay section, previously omitted: Paper 1 Section C requires one drama text and one pre-1900 text; Paper 2 Section C requires the two texts not be the one used in Section B. Applied to the guide, the practice questions, and (for Paper 1) the Paper 2 guide's equivalent rubric. |
+| Q193 | `a-level-aqa-english-literature-b-literary-genres.md`, `...-revision-notes.md` | Corrected the claim that the genre option choice is "normally made by the centre rather than by individual candidates" -- the specification attributes the choice to the student. Kept the practical observation that a centre typically teaches only one option as a separate, subordinate point. |
+
+**Operational note (build blocker, not content).** `npm run build`
+failed once at `/resources` with the same `ERR_MODULE_NOT_FOUND`
+symptom seen in D-171, but `tasklist` this time showed only 2 node.exe
+processes -- not the ~22-process pileup diagnosed in D-171. Clearing
+`node_modules/.vite` and `dist/` and rebuilding resolved it on the
+second attempt without needing `taskkill`. This confirms the
+underlying `astro build` prerender-chunk step is independently prone
+to this failure mode on this environment (a Vite/Tailwind
+module-resolution race, per the stack trace), not solely explained by
+orphaned processes -- a clean-and-retry is the correct first response
+either way, and a repeat at the same page does not by itself indicate
+a content problem.
+
+**Mark-tariff / rubric discipline.** Q187's fix (drop bracketed mark
+splits rather than invent a scheme) was applied identically to both
+the AQA A-level and GCSE practice papers, since AQA marks both sets of
+essays holistically and no published points breakdown exists for
+either.
+
+**Validation gate.** `npx astro check` (0 errors, pre-existing hints
+only) -> `npm run validate:academic` (all validators PASS) -> `npm run
+build` (2,129 pages plus Pagefind index -- 2,129 pages indexed, exit
+code 0, after the clean-and-retry above) -> `test-cross-board-
+regression.mjs` (OK, 0 problems) -> `test-negative-validation-
+suite.mjs` (35/35) -> API tests (31/31) -> `npm audit
+--fetch-timeout=20000 --fetch-retries=2` (0 vulnerabilities) ->
+`coverage:academic-v2` (regenerated; matches baseline -- 160/160
+official-source-verified, 160/160 topic-map-published, median 8
+resources/combination, median 994 words/resource;
+`docs/reports/academic-coverage-report-v1.2.{json,csv}` left unstaged)
+-> `check-duplicate-resource-scope.mjs` (PASS, 6 pre-existing
+allow-listed groups, no new duplicates) -> `audit:all` (11/11
+sub-audits, 0 problems across all). Exit code 0 throughout.
+
+**Next.** This closes the AQA sub-batch of the English literature
+cluster (14 of 58 findings). Remaining English literature sub-batches,
+by file family: Cambridge IGCSE/A-level Literature in English
+(0475/9695), Edexcel IGCSE/IAL English Literature (4ET1/XET01-YET01,
+the largest remaining sub-batch), and OxfordAQA IGCSE/A-level English
+Literature (9275/9675). After English literature closes, the
+remaining clusters in `docs/audit/2026-09-11-findings.md` are
+Sociology (36) and World history (34).
