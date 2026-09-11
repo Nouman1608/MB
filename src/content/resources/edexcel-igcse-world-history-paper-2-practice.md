@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-investigation-breadth-studies-4hi1"
-description: "Original exam-style practice questions with full worked answers on source evaluation for the Historical Investigation and change/continuity analysis for the Breadth Study, for Pearson Edexcel International GCSE History (4HI1)."
+description: "Original exam-style practice questions with full worked answers on the Historical Investigation's describe, cross-reference and interpretation questions, and the Breadth Study's explain and significance questions, for Pearson Edexcel International GCSE History (4HI1)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
 featured: false
@@ -25,68 +25,160 @@ featured: false
 
 Related: [Paper 2 Investigation and Breadth Studies study guide](/resources/igcse-edexcel-world-history-paper-2-investigation-breadth-studies/) | [Paper 2 revision notes](/resources/edexcel-igcse-world-history-paper-2-revision-notes/)
 
-Paper 2 offers 13 option combinations across two independent choices (5 Historical
+Paper 2 offers 13 options across two independent choices (5 Historical
 Investigations, 8 Breadth Studies), so questions tied to one specific option would only
-serve a fraction of candidates. The questions below instead build the two transferable
-skills the paper actually tests — evaluating an unfamiliar source, and analysing change
-over time — using illustrative material. Apply the same method to whichever
-Investigation and Breadth Study your centre has taught.
+serve a fraction of candidates. Both sections of the paper share the same three-part
+structure — a 6-mark question, an 8-mark question, and a 16-mark extended-writing
+question that draws on source material and your own knowledge — so the questions below
+use illustrative material to build the skills each part tests. Apply the same method to
+whichever Investigation and Breadth Study your centre has taught.
 
 ---
 
-## Section A
+## Section A — the Historical Investigation (illustrative)
 
-**1.** State **three** things you should evaluate when assessing how useful a source is for a specific historical enquiry. **[3]**
+This section is built around an enquiry into a political movement in the early
+twentieth century.
 
-**2.** Explain the difference between assessing a source's **reliability** and assessing its **usefulness**. **[3]**
+**1(a)** Describe **two** features of EITHER the movement's early leadership OR the
+ways the movement recruited its early supporters. **[6]**
 
-## Section B — the Historical Investigation (illustrative sources)
+**Source A**: From a speech given by the leader of the movement to a rally of several
+thousand supporters, 1923.
 
-An enquiry asks: "How useful are Sources A and B for investigating why ordinary people supported a political movement in the early twentieth century?"
+> "We have watched them fail you year after year, while we offer only ourselves and
+> our determination to change what they will not. It is not promises we bring, but
+> action — and it is action they fear most."
 
-**Source A**: A speech by the movement's leader, delivered to a mass rally, describing the movement's aims in emotive terms.
+**Source B**: From a private letter written by a government official to a colleague in
+a neighbouring district, 1923.
 
-**Source B**: A private letter from a government official to a colleague, describing the movement's rallies as "disturbingly well-attended" and expressing concern about its growing appeal.
+> "I attended one of their rallies last week out of curiosity, and left troubled. The
+> crowd was larger than any I have seen at a political meeting in this town, and their
+> enthusiasm did not look like the passing kind. I think we have underestimated how far
+> this has already spread."
 
-**3.** Assess how useful Source A is for the stated enquiry. **[6]**
+**1(b)** How far does Source A support the evidence of Source B about why ordinary
+people supported the movement? Explain your answer. **[8]**
 
-**4.** Assess how useful Source B is for the stated enquiry, and compare its usefulness with Source A's. **[7]**
+**Extract C**: From a history of the period, published in 2004.
 
-## Section C — the Breadth Study (illustrative extract)
+> "The movement's rise owed less to any real crisis in ordinary lives than to a highly
+> organised campaign of rallies, leaflets and slogans that made discontent feel more
+> widespread than it was."
 
-A Breadth Study traces developments in a field of your choice (for example, medicine, warfare, or civil rights) across a period of roughly a century.
+**1(c)** How far do you agree with this interpretation of why ordinary people supported
+the movement? Use Extract C, Sources A and B and your own knowledge to explain your
+answer. **[16]**
 
-**5.** Explain what is meant by a "turning point" in a Breadth Study, and why identifying one is different from simply listing an important event. **[4]**
+## Section B — the Breadth Study (illustrative)
 
-**6.** "The pace of change in [your studied Breadth Study] was consistently rapid throughout the period." Explain how you would use a timeline to test whether this statement is accurate. **[5]**
+A Breadth Study traces developments in a field of your choice (for example, medicine,
+warfare, or civil rights) across a period of roughly a century.
+
+**2(a)** Explain **two** ways in which your studied field, in the early part of the
+period, was different from the same field in the later part of the period. **[6]**
+
+**2(b)** Explain **two** causes of a significant development in your studied field
+during the period. **[8]**
+
+**Source D**: From a contemporary report, published shortly after a significant
+development in the studied field.
+
+> "Within a decade of the change, practice had shifted across the whole country, and
+> few in the profession now defended the older approach."
+
+**2(c)** Study Source D, which relates to a significant development in your studied
+field. How significant was this development in changing your field across the whole
+period? Explain your answer using Source D and your own knowledge. **[16]**
 
 ## Answers
 
-**1.** Any three: the source's **origin** — who produced it, when, and in what circumstances [1]; its **purpose** — why it was produced and for whom [1]; its **content** — what it says, and whether this is corroborated by other evidence or contextual knowledge [1]; its **limitations** — what it does not or cannot tell you about the enquiry [1].
+**1(a)** Any two, each developed with specific detail rather than just named: one
+feature of the movement's early leadership was that a single, recognisable figure
+dominated its public messaging, which gave supporters a clear focus for their loyalty
+[3]. A second feature was that this leadership relied on emotive, simplified language
+rather than detailed policy proposals to build a following [3].
 
-**2.** **Reliability** asks whether a source gives an accurate, unbiased account of events [1]. **Usefulness** asks what a historian can actually learn from the source for a specific, stated enquiry [1]. The two are not the same: a highly unreliable source can still be very useful — for example, a piece of propaganda is not an accurate account of events, but it is excellent evidence of what a movement wanted its supporters to believe [1].
+**1(b)** Source A and Source B **agree** that the movement was attracting real,
+growing public attention: Source A's leader claims supporters are ready for "action,"
+and Source B's official independently reports a rally "larger than any I have seen,"
+which corroborates that the movement's appeal was not merely leadership rhetoric [3].
+However, the sources **disagree** in what that attention meant: Source A presents the
+support as confident and purposeful, while Source B frames the same growth as something
+"troubling" that had been "underestimated" — a sign of official alarm rather than
+celebration [3]. A strong answer identifies specific points of agreement and specific
+points of disagreement, rather than treating the sources as simply confirming or simply
+contradicting one another [2].
 
-**3.** Source A's **origin** — a speech by the movement's own leader — means its **purpose is persuasion**, so its content should not be taken as an accurate description of the movement's actual aims [2]. However, for an enquiry specifically about *why ordinary people supported* the movement, the speech is genuinely useful precisely because of this purpose: its emotive language and stated appeals show what the leadership believed would attract support, which is directly relevant to the enquiry [2]. A weaker answer would only describe the speech's content and assert it is "useful because it explains the movement's aims," without connecting the source's persuasive purpose to what the enquiry actually asks [2].
+**1(c)** Extract C's claim — that organisation rather than genuine grievance explains
+the movement's rise — is **partly supported** by Source A, whose emotive language does
+read as calculated persuasion rather than a neutral account of hardship [3]. It is
+**less well supported** by Source B, which was written by an unsympathetic outsider
+with no reason to exaggerate the movement's appeal, and which still describes growing,
+apparently genuine public enthusiasm [3]. Own knowledge of the period's economic and
+social pressures could support the case that real grievances existed alongside
+effective organisation, meaning the two explanations are not mutually exclusive [3]. A
+strong answer reaches a supported judgement on how far the interpretation holds,
+weighing the extract against both sources and against own knowledge, rather than simply
+restating what each source says [7].
 
-**4.** Source B's origin — a private letter between officials, not intended for publication — makes it **more independent of the movement's own agenda** than Source A, and its content is a **contemporary, non-partisan observation** that support was significant enough to concern the authorities [3]. This makes it useful for corroborating that the movement's appeal was real and growing, from an external perspective [1]. Compared with Source A, Source B is arguably more useful for confirming the *scale* of support, while Source A is more useful for understanding the *reasons* the movement itself offered for that support — a strong answer would judge that the two sources are useful in different, complementary ways for the same enquiry, rather than declaring one straightforwardly "more useful" than the other [3].
+**2(a)** Any two developed contrasts, for example: early in the period, practice in the
+field relied on methods that had changed little for generations, whereas by the later
+period a specific new approach or technology had become standard [3]. A second
+contrast: early in the period change was driven mainly by individuals working in
+isolation, whereas by the later period change was increasingly driven by organised
+institutions or professional bodies [3].
 
-**5.** A turning point is a moment after which the **pace or direction of change shifted noticeably** — not simply an event that happened, but one that can be shown to have altered what followed it [2]. Listing an important event states that something happened; identifying a turning point requires explaining **how the period before and after it differed as a result**, which is what the assessment objectives for this component specifically reward [2].
+**2(b)** Any two developed causes of the chosen development, each explaining a
+mechanism rather than simply naming a factor [4 + 4].
 
-**6.** Build a timeline marking every significant development across the period, then examine the **spacing between them** — clusters of change followed by long gaps would show the pace was uneven, not consistent [2]. Identify any specific stretches where little changed (periods of continuity) and check whether they appear anywhere across the timeline; if they do, the statement that change was "consistently rapid throughout" is not accurate and should be qualified [2]. A strong answer would conclude with a judgement that names where the pace genuinely was rapid and where it was not, rather than either agreeing or disagreeing with the statement wholesale [1].
+**2(c)** Source D suggests the development was **highly significant**, since it reports
+that "practice had shifted across the whole country" within a decade and that the older
+approach lost its defenders [3]. Own knowledge should be used to test this claim
+against the development's actual reach and permanence — whether the change affected the
+whole field or only part of it, and whether it proved lasting or was later reversed or
+superseded [5]. A strong answer reaches a judgement on significance that weighs the
+source's claim against this own-knowledge evidence, considered against explicit
+criteria such as scale, depth and duration of the change, rather than treating the
+source's account as proof on its own [8].
 
-## A note on Section B
+## A note on the source questions
 
-Questions 3 and 4 model the two-source usefulness question found on the actual Historical Investigation paper, but use illustrative sources rather than material from any single one of the five real Investigation options, so the method applies regardless of which topic your centre studies. The key skill being tested is not describing what a source says, but connecting its origin and purpose explicitly to the specific enquiry named in the question — a source can be simultaneously unreliable and highly useful, provided the reason it is useful is clearly explained rather than merely asserted.
+Question 1(b) is a **cross-referencing** question, not a usefulness question: it asks
+how far one source supports the evidence of another, and answering it well means
+identifying specific points where the sources **agree** and specific points where they
+**disagree**, not judging which source is individually "more useful." Comparing the
+usefulness of two sources is the house style of other boards' papers, not this one.
+Question 1(c) is different again: it asks you to weigh a historian's interpretation
+against source material and your own knowledge, reaching a judgement on how far you
+agree — not simply describing what each source or extract says.
 
 ## Where marks are usually lost
 
-- Judging a source unreliable and concluding, without further argument, that it must therefore be unhelpful for the enquiry.
-- Describing what a source says without connecting its origin and purpose explicitly to the specific enquiry named in the question.
-- Naming an event in a Breadth Study answer without explaining how it changed the pace or direction of subsequent developments.
-- Treating a Breadth Study as a list of events rather than an argument about change, continuity and pace over the whole period.
-- Revising the Historical Investigation as if it required memorising a fixed narrative, rather than practising source evaluation using genuinely unfamiliar material.
-- Using shared or generic revision material without first confirming it matches your centre's chosen Investigation and Breadth Study, given the thirteen total option combinations Paper 2 offers.
+- Answering 1(b) as though it asks which source is more useful, instead of how far the
+  sources agree, and only identifying agreement without also identifying disagreement.
+- Describing what a source or extract says in 1(c) without weighing it against your own
+  knowledge to reach a supported judgement.
+- Giving only one feature, way, or cause in the 6- or 8-mark parts, or naming several
+  without developing any of them with specific detail.
+- Treating a Breadth Study as a list of events rather than an argument about change,
+  continuity, and significance across the whole period.
+- Revising the Historical Investigation as if it required memorising a fixed narrative,
+  rather than practising the describe, cross-reference and interpretation questions on
+  genuinely unfamiliar material.
+- Using shared or generic revision material without first confirming it matches your
+  centre's chosen Investigation and Breadth Study, given the thirteen total options
+  Paper 2 offers across its two independent choices.
 
 ## Approaching Paper 2 questions
 
-For any source-usefulness question, always name the source's origin and purpose explicitly before assessing its content, since this is what turns a description into an evaluation the mark scheme rewards. When two sources are given, look for what makes them useful in different, complementary ways rather than assuming the question wants a single "more useful" verdict — official Investigation questions frequently reward exactly this kind of balanced comparison. For Breadth Study questions, always build or reference a timeline before answering a "how far" or "how much" question, and use it to identify genuine turning points and periods of continuity rather than simply narrating events in order — the pace and shape of change across the whole period is what these questions are actually testing.
+For the cross-referencing question, always look for specific points of agreement and
+specific points of disagreement between the two sources, and use both in your answer —
+a source can support another on one point and contradict it on another. For the
+16-mark interpretation and significance questions, always bring in your own knowledge
+explicitly rather than only describing the source or extract in front of you, since
+this is what turns a description into the judgement the mark scheme rewards. For the
+6- and 8-mark description and explanation parts, develop each point you make with
+specific detail rather than simply naming several points, since marks are awarded for
+depth of development, not for quantity.

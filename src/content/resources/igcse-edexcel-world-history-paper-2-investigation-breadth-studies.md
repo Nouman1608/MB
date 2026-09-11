@@ -92,26 +92,26 @@ centre's selection found in shared revision materials.
 ## Worked example
 
 A Historical Investigation question presents two unfamiliar sources
-about the same event and asks candidates to assess how far one source
-is more useful than the other for a specific enquiry. What separates a
-strong answer from a weak one?
+about the same event and asks how far one source supports the
+evidence of the other -- a cross-referencing question, not a
+usefulness question. What separates a strong answer from a weak one?
 
 ```
-WEAK: describes what each source says, then states "Source A is more
-      useful because it gives more detail."
+WEAK: describes what each source says in turn, then states "Source A
+      is more useful because it gives more detail."
 
-STRONG: evaluates each source against the specific enquiry named in
-        the question -- considering the source's origin, purpose and
-        content -- and uses contextual knowledge of the period to
-        judge how reliable or typical each source's perspective is,
-        before reaching a supported judgement about which is more
-        useful and why.
+STRONG: identifies specific points where the two sources agree and
+        specific points where they disagree, explaining each point
+        with reference to the sources' content -- and, where it
+        helps the argument, their origin and purpose -- before
+        reaching a supported judgement on how far the one source
+        supports the other overall.
 ```
 
 The background narrative knowledge built while studying the
-Investigation exists to support exactly this kind of source
-evaluation -- it is not tested for its own sake the way Depth Study
-content is on Paper 1.
+Investigation exists to support exactly this kind of cross-referencing
+-- it is not tested for its own sake the way Depth Study content is on
+Paper 1.
 
 ## Quick revision checklist
 

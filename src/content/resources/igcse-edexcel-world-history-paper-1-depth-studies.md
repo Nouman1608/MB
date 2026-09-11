@@ -47,14 +47,14 @@ revision plan.
 **PEARSON EDEXCEL INTERNATIONAL GCSE HISTORY (4HI1) — PAPER 1 DEPTH
 STUDIES (CHOOSE AT LEAST 2 OF 8)**
 
-- 1.1 The French Revolution, c1780–99
-- 1.2 Development of a Nation: Unification of Italy, 1848–70
-- 1.3 Germany: Development of Dictatorship, 1918–45
-- 1.4 Colonial Rule and the Nationalist Challenge in India, 1919–47
-- 1.5 Dictatorship and Conflict in the USSR, 1924–53
-- 1.6 A World Divided: Superpower Relations, 1943–72
-- 1.7 A Divided Union: Civil Rights in the USA, 1945–74
-- 1.8 South Africa: From Union to the End of Apartheid, 1948–94
+- 1. The French Revolution, c1780–99
+- 2. Development of a Nation: Unification of Italy, 1848–70
+- 3. Germany: Development of Dictatorship, 1918–45
+- 4. Colonial Rule and the Nationalist Challenge in India, 1919–47
+- 5. Dictatorship and Conflict in the USSR, 1924–53
+- 6. A World Divided: Superpower Relations, 1943–72
+- 7. A Divided Union: Civil Rights in the USA, 1945–74
+- 8. South Africa: From Union to the End of Apartheid, 1948–94
 
 ## How to approach it
 
@@ -92,14 +92,14 @@ which two options their centre happens to teach.
 
 | Option | Period | Focus |
 |---|---|---|
-| 1.1 French Revolution | c1780-99 | Political upheaval and revolutionary change in France |
-| 1.2 Unification of Italy | 1848-70 | Nation-building and the development of a unified state |
-| 1.3 Germany: Dictatorship | 1918-45 | The rise and consolidation of Nazi rule |
-| 1.4 India: Nationalist Challenge | 1919-47 | Colonial rule and the movement toward independence |
-| 1.5 USSR: Dictatorship and Conflict | 1924-53 | Stalinist rule and its consequences |
-| 1.6 Superpower Relations | 1943-72 | Cold War tensions between the USA and USSR |
-| 1.7 US Civil Rights | 1945-74 | The struggle for racial equality in the United States |
-| 1.8 South Africa: Apartheid | 1948-94 | The rise and fall of institutionalised racial segregation |
+| 1. French Revolution | c1780-99 | Political upheaval and revolutionary change in France |
+| 2. Unification of Italy | 1848-70 | Nation-building and the development of a unified state |
+| 3. Germany: Dictatorship | 1918-45 | The rise and consolidation of Nazi rule |
+| 4. India: Nationalist Challenge | 1919-47 | Colonial rule and the movement toward independence |
+| 5. USSR: Dictatorship and Conflict | 1924-53 | Stalinist rule and its consequences |
+| 6. A World Divided: Superpower Relations | 1943-72 | Cold War tensions between the USA and USSR |
+| 7. US Civil Rights | 1945-74 | The struggle for racial equality in the United States |
+| 8. South Africa: Apartheid | 1948-94 | The rise and fall of institutionalised racial segregation |
 
 Confirm with your centre which two (or more) rows above you are actually being taught before using
 this table to plan detailed revision — studying the wrong option, even briefly, wastes time that

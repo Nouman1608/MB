@@ -9007,3 +9007,99 @@ vulnerabilities) -> `coverage:academic-v2` (160/160) -> `audit:all`
 **Next.** The remaining World History findings (Edexcel IGCSE 4HI1:
 E551-E554, E562, I222; OxfordAQA IGCSE 9245: E555-E560; E561 already
 closed under D-180), not yet started.
+
+
+## D-182 — Edexcel IGCSE 4HI1 World History sub-batch (E551-E554, E562, I222)
+
+**Scope.** Five findings against Pearson Edexcel International GCSE History
+(4HI1) World History resources: E551 (Paper 1's revision notes invented a
+"source evaluation" framework for a paper that carries 0% AO3), E552 (two
+files invented a source-utility question type for a paper that sets a
+cross-referencing question), E553 (two practice papers used tariffs that
+match no real Paper 1/Paper 2 question, and never practised the 16-mark part
+that carries over half the marks), E554 (Paper 2 practice presented "Source
+A"/"Source B" as one-sentence descriptions rather than answerable extract
+text), E562 (an arithmetic slip: "13 option combinations" for a paper that
+has 13 options, not 13 combinations of its 5x8 option lists), and I222 (the
+eight Paper 1 Depth Study options were numbered 1.1-1.8 instead of the
+board's real whole-number 1-8, and one option's full title was truncated in
+a summary table).
+
+**Files changed (5).**
+
+
+1. `edexcel-igcse-world-history-depth-studies-revision-notes.md` (E551,
+   I222) — replaced the "source evaluation — the skill the paper is built
+   on" section (NOP framework, "how far do sources agree") with a section
+   on working with the extract, stating Paper 1's 0% AO3, quoting the real
+   6-mark part (a) stem, and redirecting cross-referencing to the Paper 2
+   revision notes. Renumbered the eight Depth Study options table from
+   1.1-1.8 to 1-8. Fixed frontmatter description, exam-traps bullets, and
+   self-test questions/answers to match.
+2. `igcse-edexcel-world-history-paper-1-depth-studies.md` (I222) —
+   renumbered the "Syllabus coverage" list and "at a glance" table from
+   1.1-1.8 to 1-8, and restored option 6's full title ("A World Divided:
+   Superpower Relations, 1943-72") in the summary table, where it had been
+   truncated to "Superpower Relations" while the full list carried the
+   complete phrase.
+
+3. `edexcel-igcse-world-history-paper-2-practice.md` (E552, E553, E554,
+   E562) — full rebuild. Replaced the invented "usefulness" Section A/B
+   (3/3/6/7/4/5-mark tariffs) with the board's real two-section, 6/8/16-mark
+   structure: Section A (Historical Investigation) with a "describe two
+   features" part (a), a genuine cross-referencing part (b) requiring both
+   agreement and disagreement between Source A and Source B, and a part (c)
+   weighing a historian's Extract C against the sources and own knowledge;
+   Section B (Breadth Study) with an "explain two ways...different" part
+   (a), an "explain two causes" part (b), and a significance part (c) using
+   a Source D. Source A, Source B, Extract C and Source D are now full,
+   dated, attributed extract text rather than one-sentence descriptions.
+   Rewrote the answers, the "note on the source questions" (naming 1(b) as
+   cross-referencing, not usefulness, and removing the unsupported "official
+   Investigation questions frequently reward... balanced comparison" claim),
+   the marks-lost bullets, and the closing guidance to match. Fixed "13
+   option combinations" to "13 options" in two places (E562).
+4. `edexcel-igcse-world-history-depth-studies-practice.md` (E553) — full
+   rebuild onto the real Paper 1 three-part structure, replacing the 3/3/9/
+   9/9/10/4-mark questions with four full 6/8/16-mark questions (Weimar's
+   early problems, the growth of Nazi support, Hitler's consolidation of
+   power, the USA in the 1920s), each using the board's real "what
+   impression does the author give" extract stem (6), "explain two effects"
+   stem (8), and "how far do you agree" essay stem with bulleted prompts and
+   "information of your own" (16). Reused the original answers' historical
+   content, restructured onto the new mark scheme.
+5. `igcse-edexcel-world-history-paper-2-investigation-breadth-studies.md`
+   (E552) — rewrote the "Worked example" section's invented "how far is one
+   source more useful" question into a genuine cross-referencing WEAK/STRONG
+   pair (agreement and disagreement, not a usefulness verdict).
+
+
+**Verification method.** Fetched the live Pearson Edexcel International GCSE
+History (4HI1) specification and, when the specification excerpt was
+insufficient, a real past Paper 2 question paper
+(4hi1-02-que-20230608.pdf) and its answer structure directly, confirming
+Section A (Historical Investigation, 5 options, 6/8/16 marks: "Describe two
+features...", "How far does Source A support the evidence of Source B...",
+"How far do you agree with this interpretation...") and Section B (Breadth
+Study, 8 options, 6/8/16 marks: "Explain two ways...different...", "Explain
+two causes...", a significance/extent part (c)). This is stronger evidence
+than the findings document's own citation, and confirms E552's and E553's
+claims independently. One disclosure: earlier in this project (D-180/D-181
+predecessor work), WebFetch could not retrieve pages ~71-103 of the Paper 2
+sample assessment materials PDF despite repeated targeted attempts, always
+returning the same cached Paper 1 excerpt — this segment's discovery of the
+real 4HI1/02 question paper resolved that gap independently, so E552's and
+E554's Paper 2-specific claims are now independently verified against a real
+exam paper, not solely against the findings document's own citation.
+
+**Full validation gate green end to end, run twice** (once before, once
+after the E562 fix): `astro check` (0 errors) -> `validate:academic` (all
+sub-validators PASS) -> `npm run build` (2,129 pages + Pagefind, clean,
+~163s) -> `check-duplicate-resource-scope.mjs` (PASS) ->
+`test-i18n-routes.mjs` (PASS) -> `test-practice-analytics.mjs` (24/24) ->
+`npm audit` (0 vulnerabilities) -> `coverage:academic-v2` (160/160) ->
+`audit:all` (12/12 sub-audits, 0 problems).
+
+**Next.** OxfordAQA IGCSE 9245 World History: E555-E560, not yet started.
+This closes the Edexcel IGCSE 4HI1 portion of World History entirely
+(E551-E554, E561 (D-180), E562, I222 all closed).
