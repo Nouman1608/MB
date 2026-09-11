@@ -75,15 +75,17 @@ forgone, not simply "the money spent." Because government budgets are
 finite, this kind of trade-off is why spending decisions are politically
 contested rather than purely technical.
 
-**Economic growth vs an increase in productive capacity, on a PPC.** An
-**increase in productive capacity** is shown by an **outward shift of
-the whole PPC**, caused by more or better resources or improved
-technology. **Economic growth** can also occur in the short run simply
-by **moving from a point inside the curve towards it** — using existing
-idle resources more fully, with no change in what the economy is
-capable of producing at maximum. Only the outward shift represents a
-**permanent** increase in capacity; a movement towards the curve is
-temporary and reversible if resources fall idle again.
+**Economic growth vs fuller use of existing resources, on a PPC.** This
+syllabus uses **economic growth** to mean an **outward shift of the
+whole PPC** — a permanent increase in productive capacity, caused by
+more or better resources or improved technology. **Moving from a point
+inside the curve towards it**, by using existing idle resources more
+fully with no change in what the economy is capable of producing at
+maximum, is a different thing: it is sometimes called **actual
+growth**, but it is **not** what this syllabus means by economic
+growth, which is associated only with the outward shift. The movement
+towards the curve is also temporary and reversible if resources fall
+idle again, unlike a genuine shift of the curve.
 
 ## How to approach it
 
@@ -108,8 +110,9 @@ consistently where marks are lost.
 2. A government chooses to spend on a new airport rather than new
 schools. What is the opportunity cost of that decision?
 3. An economy is currently producing at a point inside its PPC. Explain
-one way it could achieve economic growth without any new resources or
-technology.
+one way it could make fuller use of its existing resources without any
+new resources or technology, and state whether this counts as economic
+growth on this syllabus.
 4. Distinguish between a movement towards a PPC and an outward shift of
 a PPC, and state which one represents a permanent change in what an
 economy can produce.
@@ -121,6 +124,9 @@ schools, teachers and equipment that could have been provided instead —
 the next best alternative forgone, not the money itself. 3. It could
 make fuller use of its existing idle resources, moving from a point
 inside the curve towards it, without any change in maximum capacity.
+This is **not** economic growth on this syllabus, since maximum
+productive capacity hasn't changed — only an outward shift of the
+whole curve counts as economic growth.
 4. A movement towards the curve reflects better use of existing
 resources and is reversible; a shift of the whole curve reflects more
 or better resources or improved technology, and only the shift is a

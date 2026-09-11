@@ -7812,3 +7812,61 @@ Per the owner's "continue now, section by section" instruction, next
 up are the remaining per-subject clusters in `docs/audit/2026-09-11-
 findings.md`: Economics (4: E488, E493, Q204, Q205), Geography (11),
 English literature (58), Sociology (36), World history (34).
+
+
+## D-170 - Economics cluster closed: E488, E493, Q204, Q205
+
+**Date:** 2026-09-11
+
+**Context.** Continuing the "continue now, section by section" sweep
+through `docs/audit/2026-09-11-findings.md` immediately after D-169,
+this batch addressed all 4 remaining economics findings across three
+syllabus families: Cambridge IGCSE Economics 0455, OCR A-level
+Economics H460, and Cambridge O-Level Economics 2281 /
+OxfordAQA International GCSE Economics 9214 (verification-only, no
+edit). The OCR restructure was built from the real June 2022 Section A
+mark scheme (fetched via WebSearch/WebFetch) rather than the
+specification PDF alone, since the specification does not give
+paper-structure or mark-tariff detail.
+
+**Finding ID -> file(s) -> what changed.**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E488 | `igcse-economics-the-basic-economic-problem.md` | Removed the false claim that a movement from inside the PPC to on it counts as "economic growth in the short run"; rewrote the section (retitled "Economic growth vs fuller use of existing resources, on a PPC") to state the correct "actual growth" (movement toward the curve) vs "economic growth" (outward shift of the whole curve) distinction, matching the sibling file `igcse-economics-basic-problem-revision-notes.md`. Reworded Self-test Q3 to ask whether the movement counts as economic growth on this syllabus, and Answer 3 to state plainly that it does not, since maximum productive capacity hasn't changed. |
+| E493 | `ocr-a-level-economics-microeconomics-practice.md` | Restructured Section A from 5 separate numbered questions (28 marks) into one Question 1 with lettered parts 1(a)-1(e) matching the real OCR H460 June 2022 Section A shape: (a)[4] positive/normative, (b)[4] merit good, (c)[8] externality/subsidy, (d)[4] labour demand factors, and a new (e)[12] evaluative question on the effectiveness of the stimulus's maximum rent policy, folding in the previous price-ceiling content. Total 32 marks (close to the live paper's 30). Sections B/C renumbered accordingly. Answers rewritten to match, with a new three-part 12-mark answer (Effect/Unintended consequences/Judgement, 4 marks each) for 1(e). |
+| E493 | `ocr-a-level-economics-macroeconomics-practice.md` | Added a new stimulus paragraph (interest-rate cut, MPC, a £15m infrastructure spending proposal, and current-account-deficit concerns) and restructured Section A from 6 separate items (29 marks) into one Question 1 with lettered parts 1(a)-1(f): AD shift/movement, three policy types, multiplier calculation, £15m spending-effect, Phillips curve, and a new (f)[12] evaluative question on whether the interest-rate cut can stimulate growth without conflicting with other macro objectives, folding in the previous exchange-rate/BoP and demand-vs-supply-side content. Total unchanged at 29 marks. Sections B/C renumbered accordingly. Answers rewritten to match, with a new three-part 12-mark answer (Mechanism/Possible conflicts/Judgement, 4 marks each) for 1(f). |
+| Q204 | `the-basic-economic-problem.md` (Cambridge O-Level Economics 2281) | Verified via `findstr` that this file has no `reviewer`/`reviewStatus` field at all -- D-166's corpus-wide reviewer-field removal (135 files, commit `412aaea`) already covered it. No edit made; documented here rather than left silently unaddressed. |
+| Q205 | `igcse-oxfordaqa-economics-markets-revision-notes.md`, `igcse-oxfordaqa-economics-how-markets-work.md` (OxfordAQA International GCSE Economics 9214) | Verified via `findstr` that both files teach cross elasticity of demand (XED) alongside PED/PES, not a fourth "YED" term as the finding worried might be missing or off-syllabus. Confirmed via a live WebFetch of the actual OxfordAQA 9214 specification (section 3.1.3.5) that XED is genuinely on-syllabus content, overriding the finding's own "unconfirmed" status. No edit made; verified correct. |
+
+**Verification-only outcomes (documented, not silent).** Q204 and Q205
+required no content change: Q204 was already resolved by an earlier,
+unrelated decision (D-166), and Q205's premise did not hold up against
+the live syllabus specification. Both are logged here explicitly, with
+the verification method stated, rather than silently dropped from the
+findings backlog -- consistent with this project's standing practice
+of never treating "no change needed" as the same thing as "not
+checked."
+
+**Mark-tariff discipline.** Both new 12-mark evaluative answers (OCR
+microeconomics 1(e), OCR macroeconomics 1(f)) were built as three
+4-mark sub-sections summing exactly to the stated 12-mark tariff,
+checked before the validation gate rather than caught by it.
+
+**Validation gate.** `npx astro check` (0 errors, pre-existing hints
+only) -> `npm run validate:academic` (all validators PASS) -> `npm run
+build` (2,129 pages plus Pagefind index, exit code 0) ->
+`test-cross-board-regression.mjs` (OK, 0 problems) ->
+`test-negative-validation-suite.mjs` (35/35) -> API tests (31/31) ->
+`npm audit --fetch-timeout=20000 --fetch-retries=2` (0 vulnerabilities)
+-> `coverage:academic-v2` (regenerated;
+`docs/reports/academic-coverage-report-v1.2.{json,csv}` left unstaged)
+-> `check-duplicate-resource-scope.mjs` (PASS, 6 pre-existing
+allow-listed groups, no new duplicates) -> `audit:all` (11/11
+sub-audits, 0 problems across all). Exit code 0 throughout.
+
+**Next.** This closes the economics cluster (4 findings). Per the
+owner's "continue now, section by section" instruction, next up are
+the remaining per-subject clusters in `docs/audit/2026-09-11-
+findings.md`: Geography (11), English literature (58), Sociology (36),
+World history (34).
