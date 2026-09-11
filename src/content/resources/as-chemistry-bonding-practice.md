@@ -65,7 +65,7 @@ Related: [Ionic, Covalent and Metallic Bonding revision notes](/resources/as-che
 
 **(c)** Aluminium chloride behaves as though it were covalent, despite being formed from a metal and a non-metal. Explain. **[3]**
 
-**6.** Iodine, I₂, sublimes at 114 °C.
+**6.** Iodine, I₂, has a melting point of 114 °C, but visibly sublimes at temperatures below this because it has a noticeable vapour pressure as a solid.
 
 **(a)** Name the forces broken when iodine sublimes. **[1]**
 

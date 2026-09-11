@@ -38,7 +38,7 @@ specifically.
 | **Sociolect** | Social group (occupation, gender, ethnicity) |
 | **Dialect** | Geography (regional, national, international) |
 
-Conflating these two is one of the most common lower-band errors on
+Conflating these two is one of the most common and most costly errors on
 diversity essays. A specialist workplace jargon term is a sociolect
 feature; a regional pronunciation or vocabulary difference is a dialect
 feature — never the reverse.
@@ -52,7 +52,7 @@ Apply this systematically to any unfamiliar text, in this order:
 3. **Geographical** context — where, relevant to dialect?
 4. **Temporal** context — when, relevant to change?
 5. **Audience, purpose, genre, mode** — who is it for, why, in what
-form, and is it written, spoken or electronic?
+form, and where does it sit on the spectrum from spoken to written?
 
 Working through all five before analysing individual language features
 prevents the common failure of jumping straight to isolated features

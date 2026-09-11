@@ -55,7 +55,7 @@ course and both papers and the IA, rather than being confined to one unit.
 
 ## The internal assessment in more depth
 
-Both the SL commentary and the HL research project require applying business tools and theory to a **real organisation** the student has genuinely researched, not a hypothetical or textbook example -- assessment criteria reward the appropriateness of the tools selected for the specific issue investigated, the quality and range of research evidence used, and the depth of analysis and evaluation reached, rather than simply describing the organisation's situation. A common weakness at both levels is applying a business tool mechanically (filling in a SWOT or Ansoff matrix template) without using it to generate genuine insight or a reasoned recommendation -- examiners consistently reward analysis that goes beyond the template to a specific, justified conclusion.
+The research project, at both SL and HL, requires applying business tools and theory to a **real organisation** the student has genuinely researched, not a hypothetical or textbook example -- assessment criteria reward the appropriateness of the tools selected for the specific issue investigated, the quality and range of research evidence used, and the depth of analysis and evaluation reached, rather than simply describing the organisation's situation. A common weakness at both levels is applying a business tool mechanically (filling in a SWOT or Ansoff matrix template) without using it to generate genuine insight or a reasoned recommendation -- examiners consistently reward analysis that goes beyond the template to a specific, justified conclusion.
 
 ## Command terms across the papers
 

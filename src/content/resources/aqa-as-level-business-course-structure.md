@@ -95,7 +95,7 @@ assessment happens in one May/June series rather than being split
 across the two years. Paper 1 has three compulsory sections: Section A
 opens with **10 multiple-choice questions worth 10 marks**, Section B
 carries short-answer questions worth around 20 marks, and Section C
-carries two data-response stimuli worth around 25 marks between them.
+carries two data-response stimuli worth around 25 marks each.
 Paper 2 is built around a single case study of around seven questions,
 ending with an extended-response question that requires drawing
 together several sections of the specification into one sustained,

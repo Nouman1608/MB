@@ -75,15 +75,16 @@ individual ledger accounts without needing to check every single account individ
 Updated cash book:
   Balance b/d                 2,400
   Less: standing order          (80)
-  Updated cash book balance   2,320                          [1] [1]
+  Updated cash book balance   2,320                          [1] [1] [1]
 
 Bank reconciliation statement:
   Balance per bank statement   2,650
   Less: unpresented cheque      (330)
-  Balance per updated cash book 2,320                        [1] [1] [1] [1]
+  Balance per updated cash book 2,320                        [1] [1] [1] [1] [1]
 ```
-(Marks for correctly updating the cash book for the standing order, and correctly adjusting the bank
-statement balance for the unpresented cheque, with the two final figures agreeing.)
+(Marks for correctly identifying the standing order as a cash-book deduction and correctly updating the
+cash book balance, and for correctly adjusting the bank statement balance for the unpresented cheque,
+with the two final figures agreeing.)
 
 **6.** When a trial balance does not balance, the difference between total debits and total credits is
 recorded in a suspense account so the trial balance can still be completed while the error is

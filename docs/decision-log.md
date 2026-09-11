@@ -7676,3 +7676,56 @@ findings.md`: Accounting/business/commerce/law/sociology (1), Business
 (3), Chemistry (2), Computer science (16), Economics (4), English (1),
 English literature (58), Geography (11), Physics (1), Sociology (36),
 World history (34).
+
+## D-168 - Smallest remaining per-subject clusters closed: E495, E489,
+E492, E494, E486, E487, E485, I226
+
+**Date:** 2026-09-11
+
+**Context.** Continuing the "continue now, section by section" sweep
+through `docs/audit/2026-09-11-findings.md` immediately after D-167, this
+batch closed the smallest remaining per-subject clusters: accounting/
+business/commerce/law/sociology (E495, a cross-subject mark-scheme
+reconciliation finding), business (E489, E492, E494), chemistry (E486,
+E487), physics (E485), and english (I226).
+
+**Finding ID -> file -> what changed.**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E495 | `igcse-oxfordaqa-business-real-world-practice.md`, `law-english-legal-system-practice.md`, `a-law-the-law-in-action-practice.md`, `oxfordaqa-a-level-sociology-practice.md`, `o-level-commerce-commercial-operations-practice.md`, `oxfordaqa-igcse-accounting-verification-practice.md`, `oxfordaqa-a-level-geography-globalisation-practice.md` (7 files -- six named by the finding plus the "seventh, post-baseline" file it also names) | Reconciled each mark scheme to the tariff stated for that question, adding the missing 1-2 marks' worth of creditable content per answer (an added named theorist/citation, an added qualifying clause, an added evaluative point) so the sum of bracketed marks matches the stated tariff. `law-english-legal-system-practice.md` needed two separate 1-mark additions within the same answer (Q8), matching the finding's note that "one paper does it twice". |
+| E489 | `ib-dp-business-management-assessment-revision-notes.md` | Removed the retired standard-level "commentary" as a distinct internal-assessment task; the file now describes the research project as common to both SL and HL, consistent with the subject-guide citation a prior remediation round already corrected and with this same file's own statement eighteen lines earlier that both levels complete the same project. |
+| E492 | `aqa-as-level-business-course-structure.md` | Corrected Paper 1 Section C from "worth around 25 marks between them" (two data-response stimuli summing to 55 against the stated 80-mark total) to "worth around 25 marks each" (summing correctly to 80), per the AQA AS Business (7131) scheme of assessment. |
+| E494 | `ocr-a-level-business-external-influences-practice.md`, `a-business-strategy-practice.md` | Restored the lettered section headings ("Section A -- Short-Answer Questions" / "Section B -- Extended-Response Questions") a prior remediation round had removed on the mistaken belief this board doesn't section its papers; named the OCR H431/02 component each paper represents; added a Resource Booklet stimulus paragraph for the extended-response section; and added one new 15-mark evaluative question to each paper (`a-business-strategy-practice.md` Q9, `ocr-a-level-business-external-influences-practice.md` Q10) with full worked answers, closing the tariff gap the finding identified. |
+| E486 | `as-chem-group17-revision-notes.md`, `as-group-17-the-halogens.md` | Corrected the concentrated-sulfuric-acid/iodide reaction from "reduces it all the way to H2S" (sole product) to the accurate mixture of sulfur dioxide, sulfur and hydrogen sulfide, in the worked equation, commentary, worked example and exam-traps prose, matching the correction already present in this topic's practice paper. |
+| E487 | `as-chem-states-structure-practice.md`, `as-chemistry-bonding-practice.md` | Corrected "iodine sublimes at 114C" to "iodine has a melting point of 114C and a noticeable vapour pressure below that temperature, which is why it appears to sublime" in both the practice paper's question stems/answers and the bonding practice paper's question stem, matching the correction already present in this topic's revision notes. |
+| E485 | `aqa-gcse-physics-national-and-global-energy-resources-practice.md` | Added an informational cross-reference (frontmatter `description` plus a body-text note) stating this content is also examinable as sub-topic 6.1.3 of AQA GCSE Combined Science: Trilogy (8464), matching the corrected study guide's own framing. **Deviation from the finding's literal fix, documented rather than silently applied:** the finding's "Fix" also called for adding the second code (8464) to the guide's own frontmatter `syllabusCodes`. That edit was attempted and then reverted after `validate:academic`'s syllabus-code-reference check failed it: AQA GCSE Combined Science: Trilogy (8464) is not a registered/modeled syllabus in `src/data/academic/syllabuses.ts` or `src/data/academic/assessments.ts` for board=aqa+subject=physics+qualification=gcse -- both files explicitly note it as "not modeled here" (`assessments.ts:1828`, `syllabuses.ts:642`), the same pattern used elsewhere in this codebase for deliberately-excluded qualifications (e.g. `syllabuses.ts:52,62,676`). A formal `syllabusCodes` entry would misrepresent Combined Science: Trilogy as a modeled, ACTIVE offering it is not, so only the informational prose cross-reference was applied, and only to the practice paper. The guide file (`aqa-gcse-physics-national-and-global-energy-resources.md`) was left at its pre-existing baseline, no change in this batch. |
+| I226 | `aqa-english-language-paper-1-revision-notes.md`, `a-level-aqa-english-language-diversity-and-change-revision-notes.md`, `a-level-aqa-english-language-diversity-and-change.md` | Applied three residual corrections an earlier remediation round made in sibling files but missed here: reworded the "three tools carry most of the marks" claim to avoid a per-feature mark-allocation claim; reworded the three-way "written, spoken, electronic" mode framing to the corrected written/spoken spectrum with digital forms sitting between; and reworded "one of the most common lower-band errors" to "one of the most common and most costly errors", matching the wording already corrected in this family's already-fixed sibling. |
+
+**Search-discipline/verification note.** E485 demonstrates why the
+codebase's own registered data (`syllabuses.ts`/`assessments.ts`), not an
+external finding's literal wording, is the deciding authority when the
+two conflict: the full validation gate caught the invalid `syllabusCodes`
+addition before any commit, and the deviation above documents the
+correction rather than silently reverting it unrecorded.
+
+**Validation gate.** `npx astro check` (0 errors, pre-existing hints
+only) -> `npm run validate:academic` (all validators PASS, including
+syllabus-code-reference validation catching and correcting the E485
+deviation) -> `npm run build` (first attempt failed with the known stale
+`dist/.prerender` module-resolution error on `/resources`; cleared
+`dist/`, `node_modules/.astro`, `node_modules/.vite` and rebuilt clean --
+2,129 pages, exit code 0) -> `test-cross-board-regression.mjs` (OK, 0
+problems) -> `test-negative-validation-suite.mjs` (35/35) -> API tests
+(31/31) -> `npm audit --fetch-timeout=20000 --fetch-retries=2` (0
+vulnerabilities) -> `coverage:academic-v2` (regenerated;
+`docs/reports/academic-coverage-report-v1.2.{json,csv}` left unstaged) ->
+`check-duplicate-resource-scope.mjs` (PASS, 6 pre-existing allow-listed
+groups, no new duplicates) -> `audit:all` (11/11 sub-audits, 0 problems
+across all). Exit code 0 throughout.
+
+**Next.** This closes E495, E489, E492, E494, E486, E487, E485 and I226.
+Per the owner's "continue now, section by section" instruction, next up
+are the remaining larger per-subject clusters in `docs/audit/2026-09-11-
+findings.md`: Computer science (16), Economics (4), Geography (11),
+English literature (58), Sociology (36), World history (34).

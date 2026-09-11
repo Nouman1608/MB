@@ -28,13 +28,30 @@ Related: [External Influences Facing Businesses study guide](/resources/ocr-a-le
 
 ---
 
-## Short-Answer Questions
+These questions represent OCR H431/02 (The UK Business Environment), whose
+live paper opens with a Section A of short-answer questions (20 marks) and
+continues with a Section B of extended-response questions (60 marks) that
+relate to a Resource Booklet describing a real-life business.
+
+## Section A — Short-Answer Questions
 
 **1.** Distinguish between market size and market growth. **[2]**
 
 **2.** State **three** factors that facilitate globalisation. **[3]**
 
-## Extended-Response Questions
+## Section B — Extended-Response Questions
+
+> **Resource Booklet.** *Ferrowest Components Ltd* is a UK-based manufacturer
+> of precision metal parts for the automotive industry, supplying both UK
+> car makers and, increasingly, customers in mainland Europe. Around a
+> third of its raw steel is imported. Its main UK rivals are two larger,
+> more diversified engineering groups; its most direct competitor for
+> price-sensitive contracts is a lower-cost manufacturer based overseas.
+> Ferrowest's directors are reviewing how far external economic and
+> political conditions should shape the company's strategy over the next
+> three years.
+>
+> Questions 3–10 refer to Ferrowest Components Ltd.
 
 **3.** Explain why monopoly, oligopoly and monopolistic competition are best understood as a spectrum of competitive intensity rather than three fixed, separate categories. **[6]**
 
@@ -49,6 +66,8 @@ Related: [External Influences Facing Businesses study guide](/resources/ocr-a-le
 **8.** A UK manufacturer experiences a sharp currency depreciation. Explain the chain of effects this has on the business's imported raw material costs and its final impact on margins or prices. **[6]**
 
 **9.** Evaluate whether globalisation is likely to benefit a medium-sized UK manufacturing business that begins exporting to a new overseas market. **[12]**
+
+**10.** Using Ferrowest Components Ltd, evaluate whether the company should reduce its reliance on imported steel by sourcing more materials domestically. **[15]**
 
 ---
 
@@ -71,6 +90,8 @@ Related: [External Influences Facing Businesses study guide](/resources/ocr-a-le
 **8.** **Currency depreciation** makes foreign currency more expensive to buy, so importing raw materials priced in that foreign currency costs more in domestic currency [1] [1]. This raises the business's **input costs** [1]. Unless the business can pass this on, its **profit margins are squeezed** [1]; if it raises prices to protect margins, it risks **losing price-sensitive customers** to competitors [1] [1]. A strong answer traces this full chain step by step rather than describing "exchange rates" and "costs" as separate, unconnected points.
 
 **9.** **Benefits:** access to a larger customer base can increase sales volume and smooth demand if the new market's economic cycle differs from the UK's [1] [1]; exporting can allow the business to exploit economies of scale as output rises [1]; success can reduce reliance on a single, potentially saturated domestic market [1], spreading risk away from a downturn in the UK economy specifically [1]. **Risks:** the business faces new PESTLE factors it has less experience managing — unfamiliar regulation, currency risk on export revenue, and cultural or logistical barriers to trade [1] [1] [1]; a full evaluation weighs these opportunities against the threats rather than treating globalisation as automatically positive. **Judgement:** the outcome depends on how well the business researches the specific target market [1], how it manages currency exposure [1], and whether it enters gradually (e.g. via a local partner) rather than committing large resources immediately [1]. A manufacturer with a differentiated, in-demand product and modest initial commitment is better placed to benefit than one that expands into an unfamiliar market with high fixed costs and no local knowledge [1].
+
+**10.** **For sourcing more domestically:** it would **remove Ferrowest's exposure to currency depreciation** on the third of its steel that is imported, since a weaker pound raises the domestic-currency cost of foreign-priced inputs [1] [1]; it would also **shorten and simplify the supply chain**, reducing exposure to shipping delays, tariffs or trade-policy changes that could disrupt an imported input [1] [1]; and it could support a stronger "buy British" positioning with UK car-maker customers who increasingly ask about supply-chain resilience [1]. **Against:** domestic steel may be **more expensive per tonne** than the current imported source, directly raising production costs and squeezing margins against the lower-cost overseas competitor already undercutting Ferrowest on price-sensitive contracts [1] [1]; switching suppliers also carries **transition risk** — a new domestic supplier may not immediately match the reliability, quality or capacity of the existing import relationship [1] [1]; and domestic steel capacity may itself be limited, meaning Ferrowest cannot necessarily source all it needs at short notice [1]. **Judgement:** the right choice depends on **how much of the currency and supply-chain risk Ferrowest can otherwise hedge or absorb**, and on the actual price gap between domestic and imported steel once transition costs are included [1] [1]; given that Ferrowest already competes against a lower-cost overseas rival, a full switch away from cheaper imported steel risks weakening its price competitiveness precisely where it is already under the most pressure, so a partial, phased shift — reducing rather than eliminating import reliance — better balances the two risks [1] [1] [1].
 
 ---
 

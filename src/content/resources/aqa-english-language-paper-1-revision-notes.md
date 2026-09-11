@@ -60,7 +60,7 @@ Every point: **name the feature with correct terminology → quote it → explai
 - **Mode** is a spectrum from spoken to written; digital forms sit between (a text message is written in medium, often speech-like in character).
 - **Register** varies with formality and field.
 - **Idiolect** — an individual's distinctive usage. **Sociolect** — a social group's variety.
-- **Representation** — how language constructs a version of people or events. Interrogate naming choices, modifiers, and whether **agency** is expressed or hidden (passives delete the actor). Three tools carry most of the marks: **modification** (adjectives/nouns attaching evaluative qualities before a group is even named — "young offenders"), **transitivity** (whether a group is the agent doing an action or the patient it happens to, controlling whether they seem active/responsible or passive/vulnerable), and **semantic field** (a cluster of related lexis — a warfare field frames a debate as conflict, an illness field frames it as something to be treated).
+- **Representation** — how language constructs a version of people or events. Interrogate naming choices, modifiers, and whether **agency** is expressed or hidden (passives delete the actor). Three tools worth knowing: **modification** (adjectives/nouns attaching evaluative qualities before a group is even named — "young offenders"), **transitivity** (whether a group is the agent doing an action or the patient it happens to, controlling whether they seem active/responsible or passive/vulnerable), and **semantic field** (a cluster of related lexis — a warfare field frames a debate as conflict, an illness field frames it as something to be treated).
 - **Audience positioning** — a text constructs a role for its reader without stating a view outright, through **presupposition** (building a claim into a sentence's structure), **inclusive pronouns** ("we", "our") that enrol the reader, **selection and omission** of which voices are quoted, and **naming choices** ("protester" vs "activist" positions the reader differently towards the same person).
 
 ## Children's language development
@@ -92,7 +92,7 @@ Virtuous errors are the standard evidence against pure imitation — a reliable 
 3. Name the six language levels.
 4. What is a virtuous error, and which theory does it support?
 5. Distinguish idiolect from sociolect.
-6. Name the three tools that carry most representation marks.
+6. Name three tools used to analyse representation.
 7. Give two ways a text can position its reader without stating a view explicitly.
 
 **Answers:** 1. 2 hours 30 minutes, 40% of the A-level. 2. 25 + 25 for the two single-text analyses, 20 for the comparison, 30 for the data question. 3. Phonology, graphology, lexis and semantics, grammar and syntax, pragmatics, discourse. 4. A grammatically logical but non-standard form such as "goed" or "sheeps"; the child cannot have imitated it, so it supports the nativist account of an innate rule-forming capacity. 5. Idiolect is one individual's distinctive language use; sociolect is the variety shared by a social group. 6. Modification, transitivity and semantic field. 7. Any two: presupposition built into a sentence's structure; inclusive pronouns such as "we"; selective quotation of some voices over others; naming choices that carry different connotations for the same referent.

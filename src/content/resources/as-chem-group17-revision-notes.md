@@ -63,11 +63,12 @@ I2 + KBr    ->  NO REACTION
 ```
 NaCl  + H2SO4  ->  HCl gas only            (no redox -- Cl- too weak)
 NaBr  + H2SO4  ->  HBr, then SO2 + Br2     (red-brown fumes)
-NaI   + H2SO4  ->  HI, then H2S + I2       (H2S rotten-egg smell,
+NaI   + H2SO4  ->  HI, then a mixture of SO2, S and H2S + I2
+                                            (H2S rotten-egg smell,
                                             black/purple solid)
 ```
 
-The sequence reflects **increasing reducing power** of the halide ion: chloride cannot reduce sulfuric acid at all, bromide reduces it to SO₂, iodide reduces it all the way to H₂S.
+The sequence reflects **increasing reducing power** of the halide ion: chloride cannot reduce sulfuric acid at all, bromide reduces it to SO₂, iodide is the strongest reducer of the three and reduces it further still, to a mixture of sulfur dioxide, sulfur and hydrogen sulfide (not exclusively to H₂S).
 
 ## Silver nitrate test
 
@@ -115,4 +116,4 @@ With WATER:        Cl2 + H2O <=> HCl + HClO               (water treatment, equi
 6. Explain why the X–X bond enthalpy decreases down Group 17, and why this is a different explanation from the melting/boiling-point trend even though the two happen to move in the same direction.
 7. Why does the reaction of hydrogen with iodine not go to completion, unlike its reaction with chlorine?
 
-**Answers:** 1. The atomic radius increases and there is more shielding, so the incoming electron is attracted less strongly and is gained less readily. 2. The solution turns brown as iodine is displaced. 3. HI initially, then H₂S (rotten-egg smell) and iodine as a black/purple solid — iodide is a strong enough reducing agent to reduce sulfur to −2. 4. Both give precipitates (cream and yellow); add concentrated ammonia — the bromide precipitate dissolves, the iodide does not. 5. The same element is simultaneously oxidised and reduced: Cl₂ + 2NaOH → NaCl + NaClO + H₂O. 6. The bonding atoms get larger down the group, so the shared electron pair sits further from both nuclei in a longer, weaker bond; this is about the bond within one molecule, whereas melting/boiling point depends on van der Waals forces between separate molecules — the two trends happen to move together but for unrelated reasons. 7. Iodine is the weakest oxidising agent in the group, so the reaction is slow and incomplete, settling into an equilibrium mixture of H₂, I₂ and HI rather than going fully to product.
+**Answers:** 1. The atomic radius increases and there is more shielding, so the incoming electron is attracted less strongly and is gained less readily. 2. The solution turns brown as iodine is displaced. 3. HI initially, then a mixture of SO₂, sulfur and H₂S (rotten-egg smell), plus iodine as a black/purple solid — iodide is a strong enough reducing agent to reduce sulfur down as far as −2, but the products are a mixture rather than H₂S alone. 4. Both give precipitates (cream and yellow); add concentrated ammonia — the bromide precipitate dissolves, the iodide does not. 5. The same element is simultaneously oxidised and reduced: Cl₂ + 2NaOH → NaCl + NaClO + H₂O. 6. The bonding atoms get larger down the group, so the shared electron pair sits further from both nuclei in a longer, weaker bond; this is about the bond within one molecule, whereas melting/boiling point depends on van der Waals forces between separate molecules — the two trends happen to move together but for unrelated reasons. 7. Iodine is the weakest oxidising agent in the group, so the reaction is slow and incomplete, settling into an equilibrium mixture of H₂, I₂ and HI rather than going fully to product.

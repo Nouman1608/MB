@@ -150,13 +150,15 @@ further, partially reducing sulfur from +6 to +4:
 2HBr + H₂SO₄ → Br₂ + SO₂ + 2H₂O
 
 giving steamy fumes plus orange/brown bromine vapour and choking SO₂ gas.
-**Iodide**, the strongest reducing agent, reduces sulfur furthest, down to
-−2:
+**Iodide**, the strongest reducing agent, reduces sulfur furthest — not
+cleanly to one product, but to a mixture spanning sulfur dioxide (+4),
+sulfur itself (0) and, at the deepest reduction, hydrogen sulfide (−2):
 
-8HI + H₂SO₄ → 4I₂ + H₂S + 4H₂O
+8HI + H₂SO₄ → 4I₂ + H₂S + 4H₂O   (the deepest reduction product, alongside SO₂ and S)
 
-giving steamy fumes, a black/purple solid (or violet vapour) of iodine, and
-the rotten-egg smell of H₂S.
+giving steamy fumes, a black/purple solid (or violet vapour) of iodine, a
+pale yellow deposit of sulfur, choking SO₂ gas, and the rotten-egg smell of
+H₂S.
 
 **Worked example.** A student is given three unlabelled solid samples, each
 containing a single sodium halide, and adds concentrated sulfuric acid to
@@ -165,9 +167,10 @@ smell of rotten eggs. Identify A and B.
 
 Steamy fumes alone, with no further reaction, indicates the halide is too
 weak a reducing agent to reduce sulfur at all — this is the behaviour of
-chloride. **Sample A is NaCl.** The rotten-egg smell is H₂S, meaning
-sulfur has been reduced all the way from +6 to −2 — only the strongest
-reducing agent, iodide, goes this far. **Sample B is NaI.**
+chloride. **Sample A is NaCl.** The rotten-egg smell is H₂S, meaning at
+least some sulfur has been reduced all the way from +6 to −2 — only the
+strongest reducing agent, iodide, goes this far (alongside SO₂ and sulfur
+from the same reaction). **Sample B is NaI.**
 
 ## The reactions of chlorine
 
@@ -206,8 +209,9 @@ group) with "reducing power of the ions" (increases down the group).**
 They're opposite trends describing different species — write down which
 one a question is actually asking about before answering.
 - **Forgetting that bromide only partially reduces sulfur, while iodide
-goes all the way to H₂S.** The concentrated sulfuric acid test is only
-useful as an identification test *because* the three halides stop at
+goes further still, down to a mixture that includes H₂S.** The
+concentrated sulfuric acid test is only useful as an identification test
+*because* the three halides stop at
 different points.
 - **Writing the hot/concentrated chlorine–NaOH reaction with the same
 products as the cold/dilute one.** Cold dilute gives chlorate(I), NaOCl;

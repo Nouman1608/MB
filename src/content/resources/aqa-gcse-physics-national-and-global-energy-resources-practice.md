@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "energy-aqa-gcse"
     subtopic: "national-and-global-energy-resources"
-description: "Original exam-style practice questions with full worked answers on renewable and non-renewable energy resources, their uses, reliability and environmental impact, for sub-topic 4.1.3 of AQA GCSE Physics (8463)."
+description: "Original exam-style practice questions with full worked answers on renewable and non-renewable energy resources, their uses, reliability and environmental impact, for sub-topic 4.1.3 of AQA GCSE Physics (8463) -- also examinable as sub-topic 6.1.3 of GCSE Combined Science: Trilogy (8464)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-04
 featured: false
@@ -25,6 +25,12 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [National and Global Energy Resources study guide](/resources/aqa-gcse-physics-national-and-global-energy-resources/)
+
+This content is written using the standalone Physics sub-topic numbering
+(4.1.3), but it is not physics-only: the same material is examinable as
+sub-topic 6.1.3 in GCSE Combined Science: Trilogy (8464). A Combined
+Science student studying for Trilogy should use these practice questions
+too.
 
 ---
 

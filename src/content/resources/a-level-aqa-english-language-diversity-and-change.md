@@ -78,8 +78,9 @@ itself names. When
 analysing an unfamiliar text in this section, work through each lens in
 turn: who produced it and in what social/geographical context; when was
 it produced (relevant to a change-focused answer); who is the intended
-audience; what is its purpose; what genre and mode (written, spoken,
-electronic) does it belong to. This systematic approach prevents the
+audience; what is its purpose; what genre it belongs to, and where it
+sits on the spectrum of mode from spoken to written, with digital and
+electronic forms sitting between the two. This systematic approach prevents the
 common failure mode of jumping straight to isolated language features
 without first establishing the text's context.
 
@@ -129,7 +130,7 @@ this specification across the period from 1600 to the present.
 Distinguishing sociolect from dialect precisely — social-group-based
 variation versus geography-based variation — is a foundational
 distinction this whole content area depends on, and conflating the two
-is one of the most common lower-band errors in essays on diversity.
+is one of the most common and most costly errors in essays on diversity.
 
 ## Named positions on diversity
 

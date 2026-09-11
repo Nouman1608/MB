@@ -72,9 +72,10 @@ locally [1] [1]; **local competition may be unable to match** the MNC's scale, r
 [1] [1].
 
 **4.** **Personal service** — a small shop can offer individual advice and relationships an online
-retailer cannot replicate [1] [1]. **Local convenience** — customers who need a product immediately, or
+retailer cannot replicate, building loyal repeat custom that a large, anonymous website struggles to
+match [1] [1] [1]. **Local convenience** — customers who need a product immediately, or
 who value being able to see and test goods in person, will choose the physical shop over waiting for
-delivery [1] [1].
+delivery, particularly for urgent purchases or repairs [1] [1] [1].
 
 **5.** **Enquiry** (customer asks about goods/price) → **Quotation** (seller states price and terms) →
 **Order** (customer formally orders) → **Invoice** (seller bills for goods supplied) → **Delivery
@@ -83,9 +84,10 @@ note** (accompanies the goods delivered) → **Statement of account** (summarise
 document).
 
 **6.** **Urgency** — email is faster for time-sensitive matters, while a formal letter suits less
-urgent, more formal communication [1] [1]. **Security/importance of the message** — a formal letter
+urgent, more formal communication, so a business facing a stock shortage this week would default to
+email [1] [1] [1]. **Security/importance of the message** — a formal letter
 may be preferred for legally significant matters (e.g. a contract dispute) where a permanent, signed
-record carries more weight than an email [1] [1].
+record carries more weight than an email, which can be altered, deleted or lost more easily [1] [1] [1].
 
 ## Section C
 

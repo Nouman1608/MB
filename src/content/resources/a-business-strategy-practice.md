@@ -27,13 +27,27 @@ Related: [Objectives and Strategic Decisions revision notes](/resources/a-busine
 
 ---
 
-## Short-Answer Questions
+These questions represent OCR H431/02 (The UK Business Environment), whose
+live paper opens with a Section A of short-answer questions (20 marks) and
+continues with a Section B of extended-response questions (60 marks) that
+relate to a Resource Booklet describing a real-life business.
+
+## Section A — Short-Answer Questions
 
 **1.** Distinguish between a strategy and a tactic, giving an example of each. **[4]**
 
 **2.** State the four options in Ansoff's matrix. **[2]**
 
-## Extended-Response Questions
+## Section B — Extended-Response Questions
+
+> **Resource Booklet.** *Maple & Kent* is a UK-based chain of 14 homeware
+> stores, selling kitchenware and furnishings through its stores and a
+> growing website. It faces a well-established, low-price competitor and a
+> smaller, design-led online rival. Sales growth has slowed over the past
+> two years and the board is reviewing its strategic options, including
+> whether to open stores overseas.
+>
+> Questions 3–9 refer to Maple & Kent.
 
 **3.** Explain each quadrant of Ansoff's matrix, giving an example and stating which carries the greatest risk and why. **[8]**
 
@@ -58,6 +72,8 @@ Related: [Objectives and Strategic Decisions revision notes](/resources/a-busine
 **(a)** Calculate the payback period. **[2]**
 **(b)** Calculate the average rate of return (ARR). **[3]**
 **(c)** Explain **one** advantage NPV has over both these methods. **[2]**
+
+**9.** Using Maple & Kent, evaluate whether opening stores overseas is the most appropriate strategic option for reversing its slowing sales growth. **[15]**
 
 ---
 
@@ -84,6 +100,8 @@ Limitations (any **two**, 1 mark each): it produces a **list rather than a prior
 **8. (a)** Payback period = initial investment ÷ annual cash flow = £100,000 ÷ £40,000 = **2.5 years** [2].
 **(b)** Total cash flow over four years = £40,000 × 4 = £160,000; total profit = £160,000 − £100,000 = £60,000; average annual profit = £60,000 ÷ 4 = £15,000 [1]. ARR = (£15,000 ÷ £100,000) × 100 = **15%** [2].
 **(c)** NPV accounts for the **time value of money** — a pound received in a future year is discounted to reflect that it is worth less than a pound received today — which neither payback nor ARR does, since both treat every year's cash flow as equally valuable regardless of when it arrives [2].
+
+**9.** **For overseas expansion:** it opens access to a **larger customer base** at a time when the UK market has stopped growing for Maple & Kent, which market development in Ansoff's terms can offer without the greater risk of a genuinely new product [1] [1]; entering a market not already crowded by its two named UK rivals could let it **reset the basis of competition** away from the price war with its low-cost competitor [1] [1]. **Against:** overseas expansion carries **significant market-development risk** — unfamiliar customer preferences, regulation and logistics — and requires capital and management attention that a business with slowing sales may be poorly placed to commit [1] [1]; it does nothing to address the **underlying competitive pressure at home** from the low-cost and design-led rivals, which will continue regardless of what happens overseas [1] [1]; and as a physical retail chain, opening stores overseas also carries **higher fixed costs and slower breakeven** than the website-led alternatives available to the business [1]. **Alternative options:** product development (a stronger, more differentiated online range to compete with the design-led rival) or market penetration (price or loyalty initiatives against the low-cost rival) both address the stated problem more directly and at lower risk than diversifying into a new geographic market [1] [1] [1]. **Judgement:** given that Maple & Kent's sales problem is rooted in **UK competitive pressure rather than a saturated market**, a lower-risk option that responds directly to that pressure is more likely to reverse the slowdown than overseas expansion, which should be considered only once the domestic competitive position is stabilised [1] [1] [1].
 
 ---
 
