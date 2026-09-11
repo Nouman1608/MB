@@ -13,36 +13,40 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-data-structures"
     subtopic: "data-structures-7517"
-description: "The concept of a data structure, and the use of single- and multi-dimensional arrays to solve simple problems -- 3.2.1.1 and 3.2.1.2 of AQA A-Level Computer Science (7517)."
+description: "The concept of a data structure, and the use of single- and multi-dimensional arrays to solve simple problems -- 4.2.1.1 and 4.2.1.2 of AQA A-Level Computer Science (7517)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 ---
 
-This guide covers **3.2.1.1 Data structures** and **3.2.1.2 Single- and
+This guide covers **4.2.1.1 Data structures** and **4.2.1.2 Single- and
 multi-dimensional arrays (or equivalent)**, from AQA A-Level Computer
-Science (7517), first teaching 2015. These sub-topics open 3.2.1 Data
+Science (7517), first teaching 2015. These sub-topics open 4.2.1 Data
 Structures and Abstract Data Types, within Topic 2 Fundamentals of Data
 Structures.
 
 ## Scope of this guide
 
-3.2.1 has three sub-topics: 3.2.1.1 and 3.2.1.2 (covered here), and
-3.2.1.3 Fields, Records and Files, which covers reading and writing
-text and binary files. This resource focuses on the conceptual and
+4.2.1 has **four** sub-topics: 4.2.1.1 and 4.2.1.2 (covered here);
+4.2.1.3 Fields, Records and Files, which covers reading and writing
+text and binary files; and 4.2.1.4 Abstract data types/data structures,
+which introduces queues, stacks, graphs, trees, hash tables,
+dictionaries and vectors, and the distinction between static and
+dynamic structures. This resource focuses on the conceptual and
 array-based content that underpins the rest of the data structures
-section; file handling is left for a separate resource.
+section; file handling and the named abstract data types are each left
+for their own dedicated resources.
 
 ## Syllabus coverage
 
-**AQA A-LEVEL COMPUTER SCIENCE (7517) — 3.2.1.1 DATA STRUCTURES**
+**AQA A-LEVEL COMPUTER SCIENCE (7517) — 4.2.1.1 DATA STRUCTURES**
 
 Students should be familiar with the concept of a data structure. The
 specification's own guidance suggests setting this concept in contexts
 students may already be familiar with, and demonstrating how data
 structures can be used in a practical setting.
 
-**3.2.1.2 SINGLE- AND MULTI-DIMENSIONAL ARRAYS (OR EQUIVALENT)**
+**4.2.1.2 SINGLE- AND MULTI-DIMENSIONAL ARRAYS (OR EQUIVALENT)**
 
 Students should be able to use arrays (or equivalent) in the design of
 solutions to simple problems. A one-dimensional array is a useful way
@@ -73,9 +77,11 @@ needed and why is a stronger answer than simply saying "use an array."
 Since AQA's specification says "(or equivalent)" for arrays, be aware
 that different exam boards' pseudocode and different programming
 languages (Python lists, for example) implement the same underlying
-concept slightly differently — know how arrays are declared, indexed
-(from 0, per AQA's pseudocode conventions) and iterated over in
-whichever language your course uses for practical work.
+concept slightly differently — AQA publishes no pseudocode command set
+of its own at AS or A-level, so know how arrays are declared, indexed
+and iterated over in whichever language or convention your own course
+actually uses for practical work, and check its index origin (0 or 1)
+rather than assuming one.
 
 ## Worked example: choosing an array dimension for a problem
 
@@ -110,8 +116,9 @@ by a pair of indices. **Tuple** — an ordered list of elements, used in
 the specification's definition to describe how an element in an
 n-dimensional array is located (by a tuple of n integers, one per
 dimension). **Index** — the position used to identify and access a
-specific element within an array; AQA's pseudocode conventions index
-arrays starting from 0. Being precise about the difference between an
+specific element within an array; AQA sets no pseudocode convention of
+its own at this level, so check whether your own course indexes arrays
+from 0 or from 1. Being precise about the difference between an
 array's *dimensionality* (how many indices are needed to locate an
 element) and its *size* (how many elements it holds in total) avoids a
 common source of confusion when describing or declaring arrays in exam
@@ -135,8 +142,9 @@ element in a multi-dimensional array.
 two-dimensional array represents a matrix.
 - Practise justifying a choice of array dimensionality against a
 described problem, not just naming "array" as the answer.
-- Be comfortable with zero-based indexing and looping through
-one- and two-dimensional arrays in your course's chosen language.
+- Be comfortable with looping through one- and two-dimensional
+arrays in your course's chosen language, and confirm whether it
+indexes from 0 or from 1 before relying on either.
 
 ## Related resources
 

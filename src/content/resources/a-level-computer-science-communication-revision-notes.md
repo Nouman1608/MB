@@ -7,7 +7,7 @@ topic: "Communication"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 stage: "AS"
 order: 2
 syllabusTopics:
@@ -21,7 +21,7 @@ featured: false
 
 Related: [Communication study guide](/resources/a-level-computer-science-communication/)
 
-Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Computer Science (9618), 2026 series.
+Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Computer Science (9618), 2027-2029 series.
 
 ## Network models
 
@@ -72,8 +72,8 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Computer Sci
   network infrastructure) — a commonly confused pair.
 - **IPv4** vs **IPv6** address formats; **subnetting**; **public** vs **private** IP (security
   implications differ); **static** vs **dynamic** IP.
-- **URL** locates a resource on the WWW; **DNS** translates the human-readable URL into the IP address
-  the network actually uses.
+- **URL** locates a resource on the WWW; **DNS** translates the domain name within a URL into the IP
+  address the network actually uses.
 
 ## Exam technique for this topic
 
@@ -128,5 +128,5 @@ as fully separate units, makes this connection concrete rather than abstract.
 processing locally. 2. Star topology. 3. Carrier Sense Multiple Access/Collision Detection — checks
 whether the medium is free before transmitting, and detects/recovers from collisions. 4. The WWW is the
 system of linked documents/resources accessed via HTTP; the internet is the underlying global network
-infrastructure the web runs on. 5. Translates a human-readable URL into the IP address used to route the
+infrastructure the web runs on. 5. Translates the domain name within a URL into the IP address used to route the
 request.

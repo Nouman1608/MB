@@ -7,7 +7,7 @@ topic: "Communication"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 stage: "AS"
 order: 2
 syllabusTopics:
@@ -25,8 +25,8 @@ Information Representation](/resources/a-level-computer-science-information-repr
 The whole topic consists of one dense sub-topic, 2.1 Networks including
 the internet, which covers everything from how a LAN is physically
 built to how a URL locates a specific resource on the web. It is
-examined on Paper 1 alongside the rest of the "Computer systems"
-content.
+examined on Paper 1, "Theory Fundamentals", alongside the rest of the
+AS-level content.
 
 ## Networking devices, LANs and WANs
 
@@ -122,8 +122,8 @@ implications of each), and the difference between a **static** and a
 
 Finally, you need to explain how a **Uniform Resource Locator (URL)**
 is used to locate a resource on the WWW, and the role of the **Domain
-Name Service (DNS)** in translating a human-readable URL into the IP
-address a network actually uses to route the request.
+Name Service (DNS)** in translating the domain name within a URL into
+the IP address a network actually uses to route the request.
 
 ## How to approach it
 
@@ -145,7 +145,7 @@ or reversed answers under exam pressure.
 ## Official syllabus
 
 Cambridge International, *Cambridge International AS & A Level
-Computer Science (9618) syllabus for examination in 2026*: [official
+Computer Science (9618) syllabus for 2027-2029*: [official
 syllabus
-PDF](https://www.cambridgeinternational.org/Images/697372-2026-syllabus.pdf),
+PDF](https://www.cambridgeinternational.org/Images/721397-2027-2029-syllabus.pdf),
 Subject content, section 2 "Communication". Verified 2026-09-02.

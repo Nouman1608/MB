@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "fundamentals-of-data-structures"
     subtopic: "data-structures-7517"
-description: "Condensed recall notes on the definition of a data structure and using single- and multi-dimensional arrays, for AQA A-Level Computer Science (7517), 3.2.1.1 and 3.2.1.2."
+description: "Condensed recall notes on the definition of a data structure and using single- and multi-dimensional arrays, for AQA A-Level Computer Science (7517), 4.2.1.1 and 4.2.1.2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -22,11 +22,11 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Data Structures and Arrays study guide](/resources/a-level-aqa-computer-science-data-structures-and-arrays/).
 
-## What is a data structure? (3.2.1.1)
+## What is a data structure? (4.2.1.1)
 
 **Data structure** — a way of **organising, storing and accessing data** so it can be used efficiently for a given task. Learn this precise definition, not a looser one, since exam answers are marked against it. The specification expects you to demonstrate data structures **in a practical context**, not just define the term abstractly.
 
-## Arrays: vectors, matrices and the general case (3.2.1.2)
+## Arrays: vectors, matrices and the general case (4.2.1.2)
 
 | Dimensions | Represents | Indexing |
 |---|---|---|
@@ -34,7 +34,7 @@ Condensed for the final weeks. For the full explanation, use the
 | **2-D array** | A **matrix** — values in rows and columns | Two indices (row, column) |
 | **n-D array** | A set of elements indexed by a **tuple of n integers** | n indices |
 
-Arrays hold elements of the **same data type**. AQA's pseudocode (and most languages used for practical work) indexes arrays **from 0**.
+Arrays hold elements of the **same data type**. AQA sets no pseudocode convention of its own at AS or A-level, so check whether the language or convention your course uses indexes arrays from 0 or from 1.
 
 **Vector vs. matrix, precisely:**
 
@@ -70,11 +70,11 @@ An array can be large in size but still one-dimensional (a 1-D array of 100 valu
 
 ## Why this content underpins the rest of the specification
 
-Data structures and arrays are the foundation the rest of Topic 2 builds on: fields, records and files (3.2.1.3) group array-like data with named fields; more advanced structures later in the course (stacks, queues, trees, linked lists) are frequently implemented internally using arrays or the same indexing logic covered here. Being genuinely fluent with array declaration, indexing and iteration now — rather than treating it as a quick topic to memorise and move past — pays off directly when those later, more complex structures are introduced, since exam questions on them regularly assume this array fluency as a prerequisite rather than re-teaching it.
+Data structures and arrays are the foundation the rest of Topic 2 builds on: fields, records and files (4.2.1.3) group array-like data with named fields; and the named abstract data types (4.2.1.4 onward — queues, stacks, graphs, trees, hash tables, dictionaries, vectors) are frequently implemented internally using arrays or the same indexing logic covered here. Being genuinely fluent with array declaration, indexing and iteration now — rather than treating it as a quick topic to memorise and move past — pays off directly when those later, more complex structures are introduced, since exam questions on them regularly assume this array fluency as a prerequisite rather than re-teaching it.
 
 ## Key terms
 
-**Data structure** — a way of organising, storing and accessing data efficiently for a task. **Vector** — a 1-D, ordered collection of same-type values, each accessed by one index. **Matrix** — a 2-D arrangement of values in rows and columns, each accessed by a pair of indices. **Tuple** — an ordered list of elements; used to describe how one element in an n-D array is located (n integers, one per dimension). **Index** — the position used to access a specific array element; AQA pseudocode indexes from 0.
+**Data structure** — a way of organising, storing and accessing data efficiently for a task. **Vector** — a 1-D, ordered collection of same-type values, each accessed by one index. **Matrix** — a 2-D arrangement of values in rows and columns, each accessed by a pair of indices. **Tuple** — an ordered list of elements; used to describe how one element in an n-D array is located (n integers, one per dimension). **Index** — the position used to access a specific array element; AQA sets no pseudocode convention of its own at this level, so check whether your course indexes from 0 or from 1.
 
 ## Practising array operations directly
 
@@ -86,7 +86,7 @@ Beyond defining and justifying array structures, be comfortable writing and trac
 - Confusing a 1-D array (vector) with a 2-D array (matrix) when justifying a structure choice.
 - Reaching for 21 separate variables instead of a structured array when the data is clearly indexable.
 - Miscounting indices when describing how to access an element in a multi-dimensional array.
-- Forgetting that AQA's pseudocode indexes **from 0**, not 1, when writing or tracing code.
+- Assuming a fixed index origin instead of checking whether your course's language or convention indexes **from 0** or **from 1**.
 
 ## A note on "(or equivalent)"
 
@@ -98,7 +98,7 @@ AQA's specification says arrays "(or equivalent)" because different languages im
 - State what a 1-D array represents, and what a 2-D array represents.
 - For a program storing 5 students' scores across 3 tests, state the array dimensions needed and what each index represents.
 - Explain the difference between an array's dimensionality and its size, with an example of each.
-- State what index number AQA's pseudocode conventions start from.
+- State why you should check your own course's index origin rather than assume one, since AQA sets no pseudocode convention of its own at this level.
 
 ## Related resources
 

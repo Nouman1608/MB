@@ -7,13 +7,13 @@ topic: "Information representation"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 stage: "AS"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "information-representation"
-description: "Data representation, multimedia (graphics and sound), and compression -- the full content of Topic 1 Information representation for Cambridge AS & A Level Computer Science 9618, 2026 series."
+description: "An overview of data representation, multimedia (graphics and sound), and compression for Topic 1 Information representation, Cambridge AS & A Level Computer Science 9618, 2027-2029 series -- covering number-base conversion, file-size calculation and compression choice; see the note below on parts of 1.1 this overview does not go into."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -21,8 +21,8 @@ featured: false
 
 This guide covers **Topic 1 Information representation**, an AS Level
 topic for Cambridge International AS & A Level Computer Science 9618,
-2026 series, sat by both AS-only candidates and those continuing to the
-full A Level.
+2027-2029 series, sat by both AS-only candidates and those continuing to
+the full A Level.
 
 ## Where this fits in 9618
 
@@ -44,11 +44,24 @@ topic sits within the AS-level core that every 9618 candidate covers.
 REPRESENTATION**
 
 - 1.1 Data Representation — how numbers, text and other data types are
-represented in binary inside a computer system, including number base
-conversions between denary, binary and hexadecimal
+represented in binary inside a computer system. This is a large
+sub-topic; this guide focuses on number base conversion between
+denary, binary and hexadecimal, including converting to and from
+two's complement for negative numbers, which it covers in depth. It
+does **not** go into the sub-topic's other required content:
+binary/decimal prefixes, binary coded decimal (BCD), one's
+complement, binary addition/subtraction and overflow, practical uses
+of BCD and hexadecimal, or character sets (including extended sets
+and a universal encoding such as Unicode) — see that overflow and
+character-set coverage in the [Information Representation revision
+notes](/resources/a-computer-science-data-representation-revision-notes/)
+and [practice questions](/resources/a-computer-science-data-representation-practice/)
+instead
 - 1.2 Multimedia – Graphics, Sound — how images and sound are
 represented digitally, including the effect of resolution, colour
-depth, sample rate and sample resolution on file size and quality
+depth, sample rate and sample resolution on file size and quality, and
+justifying a choice between a bitmap image and a vector graphic for a
+given use
 - 1.3 Compression — why data compression is needed, and the difference
 between lossy and lossless compression methods, including named example techniques for each
 
@@ -117,5 +130,5 @@ tested as directly as the underlying calculations.
 ## Official syllabus
 
 Cambridge International AS & A Level Computer Science 9618 syllabus
-for 2026 —
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697372-2026-syllabus.pdf).
+for 2027-2029 —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/721397-2027-2029-syllabus.pdf).

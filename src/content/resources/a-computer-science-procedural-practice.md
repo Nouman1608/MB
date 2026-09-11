@@ -51,10 +51,10 @@ Related: [Procedural Programming revision notes](/resources/a-computer-science-p
 **7.** Trace the following for input n = 4 and state the output:
 
 ```
-result ← 1
-FOR i ← 1 TO n
-    result ← result * i
-NEXT i
+result = 1
+FOR i = 1 TO n
+    result = result * i
+ENDFOR
 OUTPUT result
 ```
 **[3]**
@@ -95,20 +95,21 @@ OUTPUT result
 
 **4.**
 ```
-FOR i ← 0 TO LENGTH(arr) - 2
-    swapped ← FALSE
-    FOR j ← 0 TO LENGTH(arr) - 2 - i
+n = number of elements in arr
+FOR i = 0 TO n - 2
+    swapped = FALSE
+    FOR j = 0 TO n - 2 - i
         IF arr[j] > arr[j+1] THEN
-            temp ← arr[j]
-            arr[j] ← arr[j+1]
-            arr[j+1] ← temp
-            swapped ← TRUE
+            temp = arr[j]
+            arr[j] = arr[j+1]
+            arr[j+1] = temp
+            swapped = TRUE
         ENDIF
-    NEXT j
+    ENDFOR
     IF swapped = FALSE THEN
         EXIT FOR
     ENDIF
-NEXT i
+ENDFOR
 ```
 Outer loop [1]; inner loop with correct bounds [1]; comparison of adjacent elements [1]; correct three-line swap using a temporary variable [1]; swapped flag set [1]; early exit when no swaps occur [1].
 
@@ -131,7 +132,7 @@ FUNCTION factorial(n)
     ELSE
         RETURN n * factorial(n - 1)
     ENDIF
-ENDFUNCTION
+END FUNCTION
 ```
 Base case: n = 0 returns 1 [2]. General case: n × factorial(n − 1), which moves progressively closer to the base case [2].
 

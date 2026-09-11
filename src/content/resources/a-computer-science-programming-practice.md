@@ -29,7 +29,7 @@ Related: [Fundamentals of Programming revision notes](/resources/a-computer-scie
 
 ## Section A
 
-**1.** Name **five** primitive data types and give an example value of each. **[5]**
+**1.** Name **five** data types and give an example value of each. **[5]**
 
 **2.** Explain the difference between a variable and a constant, and state one benefit of using constants. **[3]**
 
@@ -41,7 +41,7 @@ Related: [Fundamentals of Programming revision notes](/resources/a-computer-scie
 
 **5.** Write pseudocode for a function that takes an array of integers and returns the largest value. **[6]**
 
-**6.** Explain the difference between local and global scope, and give **two** reasons why global variables should be avoided. **[5]**
+**6.** Explain the difference between local and global scope, and give **three** reasons why global variables should be avoided. **[5]**
 
 **7.** Explain what recursion is, state the two components every recursive routine must have, and give one drawback compared with iteration. **[5]**
 
@@ -73,7 +73,7 @@ Draw a trace table showing the value of `count`, `count*count` and `total` on ea
 
 **(a)** State the three-step pattern every file-handling operation follows. **[3]**
 
-**(b)** Explain one consequence of failing to close a file after use. **[2]**
+**(b)** Explain **two** consequences of failing to close a file after use. **[2]**
 
 ---
 
@@ -90,17 +90,18 @@ By value suits a subroutine that only needs to **read the data**, since it prote
 
 **5.**
 ```
-FUNCTION FindMax(numbers : ARRAY OF INTEGER) RETURNS INTEGER
-    max ← numbers[0]
-    FOR i ← 1 TO LENGTH(numbers) - 1
+FUNCTION FindMax(numbers)
+    max = numbers[0]
+    count = number of elements in numbers
+    FOR i = 1 TO count - 1
         IF numbers[i] > max THEN
-            max ← numbers[i]
+            max = numbers[i]
         ENDIF
-    NEXT i
+    ENDFOR
     RETURN max
 ENDFUNCTION
 ```
-Correct function header with parameter and return type [1]; initialising max to the first element rather than to zero [1]; loop covering every remaining element [1]; correct comparison [1]; assignment when a larger value is found [1]; RETURN statement outside the loop [1].
+Correct function header with parameter and return value [1]; initialising max to the first element rather than to zero [1]; loop covering every remaining element [1]; correct comparison [1]; assignment when a larger value is found [1]; RETURN statement outside the loop [1].
 
 **6.** A **local variable exists only within the subroutine in which it is declared** and is destroyed when that subroutine ends [1]; a **global variable is declared outside all subroutines and is accessible everywhere in the program** [1].
 Globals should be avoided because **any part of the program can change them**, so a bug can be introduced anywhere and is very hard to trace [1]; they also **prevent subroutines from being self-contained and reusable**, since the subroutine depends on something outside itself [1]; and they **occupy memory for the whole run** rather than only while needed [1].
@@ -125,7 +126,7 @@ Drawback: each call **adds a stack frame to the call stack**, so recursion uses 
 
 **10. (a)** **Open** the file [1]; **read or write** to it [1]; **close** it [1].
 
-**(b)** Any one: the file may remain **locked**, preventing other programs from accessing it [1]; buffered data may **not be flushed to disk**, risking data loss [1]; or system resources allocated to the open file remain **unnecessarily reserved** [1].
+**(b)** Any two: the file may remain **locked**, preventing other programs from accessing it [1]; buffered data may **not be flushed to disk**, risking data loss [1]; or system resources allocated to the open file remain **unnecessarily reserved** [1].
 
 ---
 

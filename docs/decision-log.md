@@ -7729,3 +7729,86 @@ Per the owner's "continue now, section by section" instruction, next up
 are the remaining larger per-subject clusters in `docs/audit/2026-09-11-
 findings.md`: Computer science (16), Economics (4), Geography (11),
 English literature (58), Sociology (36), World history (34).
+
+## D-169 - Computer science cluster closed: E496, E497, E498, E499,
+E500, E501, E502, E503, E504, E505, E506, I218, I219, Q206, Q207, Q208
+
+**Date:** 2026-09-11
+
+**Context.** Continuing the "continue now, section by section" sweep
+through `docs/audit/2026-09-11-findings.md` immediately after D-168,
+this batch closed all 16 remaining computer-science findings, spanning
+two syllabus families across 12 resource files: AQA/OxfordAQA A-level
+Computer Science (7517/OxfordAQA equivalent) and Cambridge
+International AS & A Level Computer Science 9618. Before writing new
+numbered syllabus content, the real AQA 7517 specification pages
+(aqa.org.uk) were fetched directly to verify section numbering rather
+than relying solely on the findings' paraphrases.
+
+**Finding ID -> file(s) -> what changed.**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E496, E497, I218 | `a-level-aqa-computer-science-data-structures-and-arrays.md`, `aqa-a-level-computer-science-data-structures-revision-notes.md`, `aqa-a-level-computer-science-data-structures-practice.md` | Renumbered the stale AS-era "3.2.1.x" syllabus references to the real current AQA 7517 numbering "4.2.1.x" throughout (frontmatter, headings, body prose); added the previously-missing fourth sub-topic (4.2.1.4 Abstract data types/data structures) to the "three sub-topics" framing, now correctly "four". |
+| E499 | `a-level-aqa-computer-science-data-structures-and-arrays.md`, `aqa-a-level-computer-science-data-structures-revision-notes.md`, `aqa-a-level-computer-science-data-structures-practice.md`, `a-computer-science-programming-practice.md`, `a-computer-science-procedural-practice.md` | Removed false claims that AQA/OxfordAQA mandate zero-indexed arrays (AQA publishes no official pseudocode convention at AS/A-level) and rewrote Cambridge-9618-style pseudocode (`DECLARE`/`ARRAY[bounds]`/`NEXT i`/`LENGTH()`) that had leaked into these AQA- and OxfordAQA-tagged files into generic, convention-neutral pseudocode. `a-computer-science-procedural-practice.md` was confirmed via frontmatter as OxfordAQA/9645 (the finding's "third board"), not Cambridge, before editing. |
+| E498, Q206, Q208 | `aqa-a-level-computer-science-fundamentals-of-programming.md`, `a-computer-science-programming-practice.md` | Added the entirely-missing object-oriented programming content required by AQA 7517's 4.1.2.3 (class/object/instantiation, encapsulation, inheritance/overriding/aggregation/composition, polymorphism/abstract/virtual/static methods) and the missing random-number-generation and stack-frame content required by 4.1.1.8/4.1.1.15; corrected "five primitive data types" to "five data types" (Q208) and a "two reasons"/"one consequence" mismatch against their own 3-reason/2-consequence mark schemes (E506, same file). |
+| E506 | `a-computer-science-programming-practice.md` | Corrected Q6 ("two reasons" -> "three reasons", matching its existing 3-reason/5-mark scheme) and Q10(b) ("one consequence...[2]" -> "two consequences...[2]", with a matching "Any two:" answer). |
+| E500, I218 | `a-computer-science-data-representation-revision-notes.md`, `a-computer-science-data-representation-practice.md` | Removed the AS-stage guide's out-of-scope "Floating point" section (A-level-only content wrongly present on an AS-tagged file) and replaced the practice paper's floating-point-normalisation and floating-point-error questions with new, in-scope questions on 8-bit unsigned overflow (carry flag) and hexadecimal's use for memory addresses/colour codes; `syllabusSeries` updated "2026" -> "2027-2029" across the Cambridge 9618 file family (see I218 below). |
+| E501 | `a-level-computer-science-communication.md` | Removed a borrowed OCR paper-component name ("Computer systems") incorrectly applied to Cambridge 9618's Paper 1, replacing it with the syllabus's actual paper name ("Theory Fundamentals"). |
+| E502 | `a-level-computer-science-information-representation.md` | Narrowed an overclaimed "full content of Topic 1" description to accurately state this guide's actual depth (number-base conversion including two's complement, plus multimedia/compression), explicitly listing the syllabus content it does not go into (binary/decimal prefixes, BCD, one's complement, binary addition/subtraction and overflow, practical BCD/hex uses, character sets), with links to the sibling revision-notes/practice files that do cover that content. |
+| E503 | `a-level-computer-science-processor-fundamentals.md` | Narrowed an equivalent "full content of Topic 4" overclaim the same way, listing what this guide covers (the fetch-execute cycle, its registers/buses, tracing assembly programs, addressing modes, bit masking) against what it does not (Von Neumann/stored-program model, general- vs special-purpose register distinction, system clock/IAS roles, performance factors, named ports, register transfer notation, interrupts, the two-pass assembly process, shifts). Also corrected two smaller, independently-verified factual gaps directly rather than disclosing them: the register list was missing the index and status registers (and the control bus), and the addressing-mode list was missing the relative mode -- both added. |
+| E504 | `a-computer-science-data-representation-revision-notes.md` | Corrected "Resolution -- pixels per unit area" (a density definition) to "Image resolution -- the number of pixels in the image, width x height" (the Cambridge 9618 definition actually used for file-size calculations). |
+| E505 | `a-computer-science-data-representation-revision-notes.md` | Corrected the overflow-flag explanation: an 8-bit unsigned range overflow sets the carry flag, not the overflow flag; the overflow flag signals invalid signed (two's complement) overflow specifically. Fixed in the main explanation, exam traps and self-test/answers. |
+| I219 | `a-computer-science-data-representation-revision-notes.md` | Corrected "bit depth" (an image term misapplied to sound) to "sampling resolution" throughout the sound-file-size content (definitions, formula, trade-off sentence); confirmed via re-read that the two communication-family sibling files never used this incorrect term, so no change was needed there. |
+| I218 | `a-computer-science-data-representation-revision-notes.md`, `a-computer-science-data-representation-practice.md`, `a-level-computer-science-communication.md`, `a-level-computer-science-communication-revision-notes.md`, `a-level-computer-science-information-representation.md`, `a-level-computer-science-processor-fundamentals.md` | Updated `syllabusSeries` frontmatter and every body-prose/citation-line year mention from "2026" to "2027-2029" across the whole Cambridge 9618 file family, including each file's "Official syllabus" citation line and PDF URL (`697372-2026-syllabus.pdf` -> `721397-2027-2029-syllabus.pdf`), per the successor-syllabus evidence I218 cites. |
+| Q207 | `a-level-computer-science-communication.md`, `a-level-computer-science-communication-revision-notes.md` | Corrected "translating a human-readable URL into the IP address" to "translating the domain name within a URL into the IP address" (DNS resolves domain names, not full URLs) in both the study guide and its revision-notes sibling (main bullet and self-test answer). |
+
+**Self-caught correction (no user involvement).** While drafting a new
+[2]-mark answer for `a-computer-science-data-representation-
+practice.md`'s replacement Q5 (E500), an initial draft awarded 2 marks
+per reason for "state two reasons" against a 2-mark total tariff --
+the same class of mark-scheme-tariff mismatch as E506. Caught and
+corrected before running the validation gate, to "Any two, 1 mark
+each."
+
+**Scope note on E502/E503 (documented, not silent).** Both findings
+offered two possible fixes: write the missing syllabus content in
+full, or narrow the resource's claim to match what it actually covers.
+This batch chose the narrowing fix for both, rather than authoring new
+exhaustive technical content (the Cambridge 9618 stored-program model,
+interrupts/ISR timing, two-pass assembly, BCD, etc.) that could not be
+independently verified against the actual syllabus within this
+session -- consistent with this project's standing practice (see the
+Q155/D-144 precedent) of preferring a disclosed, narrowed claim over
+fabricating unverified specifics. The two register-list/addressing-
+mode gaps inside E503 were small enough to verify directly (confirmed
+against the fetched AQA/Cambridge specification content) and were
+fixed in place instead of disclosed as omissions.
+
+**Corpus-wide sanity check.** After all 12 files were edited, a
+corpus-wide search across the touched files confirmed no leftover
+"2026"-series `syllabusSeries`/citation references and no leftover
+stale "3.1.x"/"3.2.1.x" AS-era numbering remained; one further leftover
+"2026" citation was found and fixed in `a-level-computer-science-
+communication.md`'s "Official syllabus" section during this sweep
+(missed in the file's earlier edit pass).
+
+**Validation gate.** `npx astro check` (0 errors, pre-existing hints
+only) -> `npm run validate:academic` (all validators PASS) -> `npm run
+build` (2,129 pages plus Pagefind index, exit code 0; confirmed via
+`dist/` page count and `dist/pagefind/` index files after the live
+output stream was lost mid-build to a brief device-bridge
+disconnection) -> `test-cross-board-regression.mjs` (OK, 0 problems)
+-> `test-negative-validation-suite.mjs` (35/35) -> API tests (31/31)
+-> `npm audit --fetch-timeout=20000 --fetch-retries=2` (0
+vulnerabilities) -> `coverage:academic-v2` (regenerated;
+`docs/reports/academic-coverage-report-v1.2.{json,csv}` left unstaged)
+-> `check-duplicate-resource-scope.mjs` (PASS, 6 pre-existing
+allow-listed groups, no new duplicates) -> `audit:all` (11/11
+sub-audits, 0 problems across all). Exit code 0 throughout.
+
+**Next.** This closes the computer-science cluster (16 findings).
+Per the owner's "continue now, section by section" instruction, next
+up are the remaining per-subject clusters in `docs/audit/2026-09-11-
+findings.md`: Economics (4: E488, E493, Q204, Q205), Geography (11),
+English literature (58), Sociology (36), World history (34).

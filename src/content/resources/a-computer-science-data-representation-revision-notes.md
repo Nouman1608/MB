@@ -7,13 +7,13 @@ topic: "Information representation"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 order: 1
 stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "information-representation"
-description: "Condensed recall notes on number bases, binary arithmetic, two-s complement, floating point, character sets and compression for A Level Computer Science."
+description: "Condensed recall notes on number bases, binary arithmetic, two's complement, character sets and compression for AS Computer Science. Floating point representation is full-A-Level-only content, assessed in Paper 3, and is not covered by these AS-stage notes."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -40,7 +40,7 @@ Hexadecimal is used because it is far more compact than binary and each hex digi
 0+0=0    0+1=1    1+1=10 (carry 1)    1+1+1=11 (carry 1)
 ```
 
-**Overflow** occurs when the result needs more bits than are available. In an 8-bit register the largest unsigned value is 255; adding beyond that produces an incorrect result and sets the overflow flag. Explaining overflow as "the number is too big for the number of bits allocated" is the phrasing that scores.
+**Overflow** occurs when the result needs more bits than are available. In an 8-bit register the largest unsigned value is 255; adding beyond that produces an incorrect result and sets the **carry flag** (the flag for unsigned range overflow) — the separate **overflow flag** signals a different condition, invalid two's complement (signed) overflow, so name the correct flag for the case in the question. Explaining overflow as "the number is too big for the number of bits allocated" is the phrasing that scores, provided you also name the right flag.
 
 ## Signed integers — two's complement
 
@@ -66,22 +66,8 @@ The **most significant bit indicates the sign**: 0 positive, 1 negative.
 
 Using a logical right shift on a negative number turns it positive — which is why arithmetic shift exists.
 
-## Floating point
-
-```
-number = mantissa x 2^exponent
-```
-
-Both mantissa and exponent are usually stored in **two's complement**.
-
-**Normalisation** means adjusting the mantissa so it begins `0.1` for a positive number or `1.0` for a negative one. Two reasons, and questions want both:
-
-1. It gives the **maximum precision** for the bits available.
-2. It ensures each number has a **unique** representation.
-
-**The fundamental trade-off:** for a fixed total word length, more mantissa bits give greater **precision** but fewer exponent bits give a smaller **range** — and vice versa. You cannot improve both.
-
-**Floating point cannot represent all decimals exactly** — 0.1 has no finite binary representation — which is why comparing floating-point values for exact equality is unreliable and why currency is usually stored as integers of the smallest unit.
+> **Floating point** is not covered here — it is examined only within the
+> full A Level (not the AS), so it sits outside these AS-stage notes.
 
 ## Character sets
 
@@ -94,13 +80,13 @@ Unicode was needed because ASCII could not represent non-Latin scripts. The cost
 
 ```
 image file size  = width x height x colour depth
-sound file size  = sample rate x bit depth x duration x channels
+sound file size  = sampling rate x sampling resolution x duration x channels
 ```
 
-- **Resolution** — pixels per unit area. **Colour depth** — bits per pixel; n bits give 2ⁿ colours.
-- **Sample rate** — samples per second. **Bit depth** — bits per sample.
+- **Image resolution** — the number of pixels in the image, width × height. **Colour depth** — bits per pixel; n bits give 2ⁿ colours.
+- **Sampling rate** — samples per second. **Sampling resolution** — bits per sample.
 
-**Higher sample rate and bit depth give better quality but larger files.** That trade-off is the answer to most multimedia questions.
+**Higher sampling rate and sampling resolution give better quality but larger files.** That trade-off is the answer to most multimedia questions.
 
 **Vector graphics** store objects and their properties rather than pixels, so they scale without loss and are usually smaller for line art — but are unsuitable for photographs.
 
@@ -120,8 +106,8 @@ sound file size  = sample rate x bit depth x duration x channels
 
 - Forgetting to add 1 after inverting in two's complement.
 - Using a logical rather than arithmetic right shift on a signed value.
-- Giving only one reason for normalisation.
-- Saying floating point can represent all decimals.
+- Naming the overflow flag for an unsigned range overflow — that case sets the carry flag; the overflow flag is for signed (two's complement) overflow.
+- Defining resolution as a pixel density rather than a pixel count.
 - Claiming lossy compression is always worse — it is appropriate for perceptual media.
 - Assuming RLE always reduces file size.
 
@@ -130,7 +116,7 @@ sound file size  = sample rate x bit depth x duration x channels
 1. Convert 202 to binary and to hexadecimal.
 2. Give the two's complement of +5 in 8 bits, and the 8-bit range.
 3. Why is two's complement preferred to sign-and-magnitude?
-4. Give both reasons for normalising a floating-point number.
+4. Which status flag is set when an unsigned addition exceeds a register's range, and which flag is set for signed overflow instead?
 5. When is run-length encoding a poor choice?
 
-**Answers:** 1. 11001010 and CA. 2. −5 is 11111011; the range is −128 to +127. 3. It has a single representation of zero and allows subtraction to be carried out by addition, so no separate subtraction hardware is needed. 4. It maximises the precision available from the mantissa bits, and it gives each value a unique representation. 5. On noisy or photographic data with few repeated adjacent values — it can produce a file larger than the original.
+**Answers:** 1. 11001010 and CA. 2. −5 is 11111011; the range is −128 to +127. 3. It has a single representation of zero and allows subtraction to be carried out by addition, so no separate subtraction hardware is needed. 4. Unsigned range overflow sets the **carry** flag; the **overflow** flag is reserved for signed two's complement overflow, a different condition. 5. On noisy or photographic data with few repeated adjacent values — it can produce a file larger than the original.

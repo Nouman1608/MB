@@ -7,13 +7,13 @@ topic: "Information representation"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 order: 1
 stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "information-representation"
-description: "Original exam-style practice questions with full worked answers on two's complement, floating point, character sets and compression."
+description: "Original exam-style practice questions with full worked answers on two's complement, overflow, character sets and compression for AS Computer Science. Floating point is full-A-Level-only content and is not covered by these AS-stage questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -41,13 +41,12 @@ Related: [Information Representation revision notes](/resources/a-computer-scien
 **(a)** 00110101 + 01011010 **[3]**
 **(b)** 01000000 − 11000000 **[3]**
 
-**4.** A floating point number uses a 6-bit mantissa and a 4-bit exponent, both in two's complement.
+**4.** An 8-bit register performs the unsigned addition 11111111 + 00000001.
 
-**(a)** Convert 0.1101 × 2³ into this format. **[3]**
-**(b)** Explain what normalisation means and why it is used. **[4]**
-**(c)** Explain the trade-off between allocating more bits to the mantissa and more to the exponent. **[4]**
+**(a)** State the 8-bit result stored in the register, and whether the **carry flag** is set. **[2]**
+**(b)** Explain why the **overflow flag** is not the correct flag to check for this case, and describe the situation in which the overflow flag would be set instead. **[3]**
 
-**5.** Explain **two** causes of error in floating point representation. **[4]**
+**5.** State **two** reasons why hexadecimal, rather than binary, is used to represent values such as memory addresses and colour codes. **[2]**
 
 **6.** Explain how run-length encoding works, apply it to the string AAAABBBCCCCCCD, and state one case where it would increase the file size. **[5]**
 
@@ -70,11 +69,10 @@ Related: [Information Representation revision notes](/resources/a-computer-scien
 **3. (a)** 00110101 = 53; 01011010 = 90 [1]; sum = **10001111** [1]. Adding two positives has produced a **negative sign bit**, so **overflow occurs** — 143 exceeds +127 [1].
 **(b)** 11000000 = −64, so this is 64 − (−64) = 64 + 64 [1]; result = **10000000** [1]; the sign bit is negative although both operands imply a positive result, so **overflow occurs** — 128 exceeds +127 [1].
 
-**4. (a)** Mantissa **011010** (the leading 0 is the sign bit, then .11010) [1]; exponent 3 = **0011** [1]; full representation **011010 0011** [1].
-**(b)** A normalised number has its **mantissa adjusted so that the first bit after the sign bit is different from the sign bit** — 01... for a positive number, 10... for a negative one [1] [1]. It is used so that each value has **exactly one representation**, which avoids ambiguity [1], and so that the **maximum number of significant bits is retained**, giving the greatest possible precision for the bits available [1].
-**(c)** More bits in the **mantissa give greater precision** — more significant figures, so less rounding error [1] [1]. More bits in the **exponent give greater range** — much larger and much smaller magnitudes can be represented [1]. Since the total number of bits is fixed, **increasing one necessarily reduces the other**, so the designer must decide whether the application needs accuracy or reach [1].
+**4. (a)** The true sum is 100000000 (9 bits), but the 8-bit register can only store the lower 8 bits, so the stored result is **00000000** [1]; because an unsigned result exceeded the register's range, the **carry flag is set** [1].
+**(b)** The overflow flag detects **invalid signed (two's complement) results** — for example, adding two positive numbers and getting a result with a negative sign bit, or adding two negatives and getting a positive sign bit [1] [1]. This addition is being evaluated as **unsigned**, so the relevant boundary is the register's unsigned range (255), not the sign bit, which is why the carry flag — not the overflow flag — is the one that applies here [1].
 
-**5.** Any two, 2 marks each: many values, such as 0.1 in denary, **cannot be represented exactly in binary**, so they are stored as the nearest available value — a rounding error [1] [1]. **Truncation** — when a result needs more bits than the mantissa provides, the surplus bits are discarded [1] [1]. **Accumulated error** — small errors compound over repeated calculations, so a long loop can produce a significantly wrong result [1] [1].
+**5.** Any two, 1 mark each: hexadecimal is **far more compact than binary**, so long binary values such as memory addresses are shorter and easier for people to read, write and compare [1]; each hex digit maps to **exactly four binary digits**, making conversion between the two trivial [1]; using hexadecimal **reduces the chance of human transcription error** compared with copying out long strings of 1s and 0s [1].
 
 **6.** Run-length encoding **replaces a run of identical consecutive values with the value and a count of how many times it repeats** [1] [1]. AAAABBBCCCCCCD becomes **4A3B6C1D** [1] — from 14 characters to 8.
 It would **increase the file size where there are few or no repeated runs** [1], for example ABCDEFG, which would become 1A1B1C1D1E1F1G — twice the length [1].
@@ -92,9 +90,8 @@ It would **increase the file size where there are few or no repeated runs** [1],
 ## Where marks are usually lost
 
 - Forgetting to add 1 after inverting the bits.
-- Saying overflow has occurred whenever a carry is generated — check the sign bit.
-- Normalising by making the first two bits the same rather than different.
-- Not stating the precision/range trade-off explicitly.
+- Naming the overflow flag for an unsigned range overflow — that case sets the carry flag; the overflow flag is for signed (two's complement) overflow only.
+- Defining resolution as a pixel density rather than a pixel count.
 - Splitting a binary number into 4-bit groups from the left rather than the right when converting to hexadecimal.
 - Using a logical right shift on a negative two's complement value instead of an arithmetic one.
 - Forgetting to convert file size from bits to bytes (divide by 8) when a question asks for bytes specifically.

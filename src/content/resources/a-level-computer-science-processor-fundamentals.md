@@ -7,13 +7,13 @@ topic: "Processor Fundamentals"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9618"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 stage: "AS"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "processor-fundamentals"
-description: "CPU architecture, assembly language, and bit manipulation -- the full content of Topic 4 Processor Fundamentals for Cambridge AS & A Level Computer Science 9618, 2026 series."
+description: "CPU architecture, assembly language, and bit manipulation for Cambridge AS & A Level Computer Science 9618, 2027-2029 series -- focused on the fetch-execute cycle, tracing assembly programs and addressing modes, and bit masking; see the note below on the parts of Topic 4 this guide does not go into."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
@@ -21,7 +21,7 @@ featured: false
 
 This guide covers **Topic 4 Processor Fundamentals**, an AS Level
 topic for Cambridge International AS & A Level Computer Science 9618,
-2026 series. The syllabus is staged rather than tiered: AS Level
+2027-2029 series. The syllabus is staged rather than tiered: AS Level
 candidates study sections 1–12, while the full A Level adds sections
 13–20.
 
@@ -43,13 +43,26 @@ individual machine instructions.
 **CAMBRIDGE AS & A LEVEL COMPUTER SCIENCE 9618 — TOPIC 4 PROCESSOR
 FUNDAMENTALS**
 
-- 4.1 Central Processing Unit (CPU) Architecture — the function of CPU
-components (including registers, the control unit and the
-arithmetic-logic unit) and the fetch-execute cycle
+- 4.1 Central Processing Unit (CPU) Architecture — this is a large
+sub-topic; this guide focuses on the fetch-execute cycle and the
+registers and buses it uses, which it covers in depth. It does
+**not** go into the sub-topic's other required content: the Von
+Neumann model and stored-program concept, the general-purpose versus
+special-purpose register distinction, the roles of the system clock
+and Immediate Access Store, factors affecting processor performance
+(processor type and core count, bus width, clock speed, cache
+memory), named ports (such as USB, HDMI and VGA), register transfer
+notation, or interrupts (their causes, applications, the Interrupt
+Service Routine, when an interrupt is detected during the
+fetch-execute cycle, and how it is handled)
 - 4.2 Assembly Language — writing and tracing simple assembly language
-programs using a defined instruction set, including addressing modes
+programs using a defined instruction set, including addressing modes.
+It does **not** go into the relationship between assembly language
+and machine code, or the stages of the two-pass assembly process
 - 4.3 Bit manipulation — using logical operations to manipulate and
-test individual bits within a byte or word
+test individual bits within a byte or word through bit masking. It
+does **not** go into logical, arithmetic or cyclic binary shifts, or
+monitor/control device applications of bit manipulation
 
 ## How to approach it
 
@@ -58,8 +71,9 @@ fetch-execute cycle as a precise sequence of register-to-register
 transfers, not as a vague summary of "the CPU fetches an instruction
 and runs it." Candidates should know the specific registers involved
 (the program counter, memory address register, memory data register,
-current instruction register and the accumulator, along with the
-address and data buses) and be able to state, step by step, which
+current instruction register and the accumulator, plus the index
+register and status register, along with the address, data and
+control buses) and be able to state, step by step, which
 register's contents change at each stage of fetch, decode and
 execute. Diagrams of the fetch-execute cycle are worth practising
 from memory, since being asked to describe or complete a partially
@@ -73,7 +87,7 @@ that rewards deliberate, careful practice tracing example programs by
 hand rather than only reading about what each instruction type does —
 a single mis-tracked register value early in a trace will cascade into
 every following line being wrong. Addressing modes (direct, immediate,
-indirect and indexed, for instance) are frequently confused with one
+indirect, indexed and relative) are frequently confused with one
 another, so building a clear, memorised distinction between "the
 instruction contains the value itself" (immediate) and "the
 instruction contains the address of the value" (direct) is worth
@@ -122,10 +136,10 @@ actually applied.
 ## Official syllabus
 
 Cambridge International AS & A Level Computer Science 9618 syllabus
-for 2026 —
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697372-2026-syllabus.pdf).
-This syllabus is valid for the 2026 examination series only; anyone
-extending this taxonomy in a future run should re-check for a
+for 2027-2029 —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/721397-2027-2029-syllabus.pdf).
+This syllabus is valid for the 2027-2029 examination series only;
+anyone extending this taxonomy in a future run should re-check for a
 successor syllabus code before assuming continuity.
 
 ## Related resources
