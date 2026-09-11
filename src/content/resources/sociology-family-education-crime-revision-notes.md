@@ -74,8 +74,9 @@ societies, cultures and time.
 - **Formal**: police, courts, armed forces, government, penal system.
 - **Informal**: family, education, workplace, peer group, media, religion.
 
-**Seven named crime types** (ready vocabulary for classifying exam stimulus material): violent,
-property, white-collar/corporate, expressive, instrumental, gang, green.
+**Eleven named crime types** (ready vocabulary for classifying exam stimulus material): violent,
+property, white-collar/corporate, expressive, instrumental, gang, green, organised/global, cyber,
+hate, domestic.
 
 ## Exam traps
 

@@ -8297,3 +8297,159 @@ Edexcel, D-175 OxfordAQA).
 
 **Next.** Continuing with Sociology (36 findings) and World history (34
 findings), neither started yet.
+
+## D-176 - Sociology cluster, batch 1 (Cambridge family)
+
+14 findings across 14 Cambridge Sociology resources spanning three
+qualifications: A-Level 9699 (Papers 2 and 4), IGCSE 0495 and O-Level
+2251 (Papers 1 and 2). Findings: E507-E517, I220, I221, Q211.
+
+**Globalisation/Media/Religion (A-Level 9699 Paper 4).**
+`a-level-cambridge-sociology-globalisation-media-religion.md` and its
+`-revision-notes` sibling: E507 (version bump to 5.3, "Official
+specification" heading, URL/date refresh, applied to both files as a
+post-baseline pair since the revision-notes file carried the same stale
+version marker though not itself named in the finding), E517 ("Syllabus
+coverage" rebuilt to separate Section A/B/C from Units 7-12 with full
+sub-topic detail -- Unit 7 key debates/concepts/perspectives, Unit 8
+contemporary issues, Unit 9 ownership and control of media, Unit 10
+media representation and effects, Unit 11 religion and social order,
+Unit 12 the influence of religion; added a duration/marks/weighting/
+structure paragraph to "Where this fits in 9699"; fixed three inline
+"(4.1)"/"(4.2)"/"(4.3)" references to "(Section A)"/"(Section B)"/
+"(Section C)").
+
+**Research Methods, Identity and Inequality (IGCSE 0495 / O-Level
+2251, Paper 1).** `igcse-sociology-research-methods-identity-and-
+inequality.md` and `o-level-sociology-research-methods-identity-and-
+inequality.md`: E508 ("Syllabus coverage" rebuilt to Topic 1/2/3 format
+with correct sub-topic numbering: 1.1-1.3 Research Methods, 2.1-2.3
+Identity, 3.1-3.3 Inequality), E515 (both guides warned the compulsory
+first question "might fall on any topic" or a candidate's "weakest
+topic" -- corrected to state Question 1 is always Research Methods,
+fixed by the syllabus, so it cannot be dropped however weak it feels),
+E517 (added a new paragraph on sub-topic 2.2 "how does society control
+us" -- formal vs informal control, agencies, "disapproval, praise,
+gossip and exclusion" -- to both files), I220 (O-Level file only: full
+grade-range and availability disclosure added to both the frontmatter
+description and body intro -- 2251 shares identical paper titles,
+structure, tariffs, topic numbering, assessment objectives and command
+words with 0495, but differs in grade range awarded, 2251 down to grade
+7 vs 0495 down to grade 5, and in availability, 2251 restricted by
+administrative zone).
+
+**Family, Education and Crime (IGCSE 0495 / O-Level 2251, Paper 2).**
+`o-level-sociology-family-education-crime.md`: E509 (Topic 4/5/6
+numbering corrected -- the guide had used the Paper 1 Identity
+sub-topic numbering "2.1/2.2/2.3" for its Family/Education/Crime
+content; the sibling IGCSE guide for the same content already had this
+right, confirming the O-Level file as the one needing the fix), E512
+(crime types 7 -> 11, applied inline alongside the numbering fix).
+`igcse-cambridge-sociology-family-education-crime.md`: E512 (crime
+types 7 -> 11), E517 (Topic 6 "Crime, deviance and social control"
+substantially expanded -- "Syllabus coverage" bullet gained 6.1-6.3
+sub-topic labels and the full 11-type crime list; the body section
+gained three new paragraphs covering 6.1 crime/deviance distinction and
+formal/informal control, 6.2 measuring crime -- under-reporting/
+under-recording/definitional change -- and sociological explanations
+-- functionalist/Marxist/labelling theories, and 6.3 how different
+societies deal with crime -- retribution/deterrence/rehabilitation/
+reparation). `sociology-family-education-crime-revision-notes.md`
+(post-baseline sibling of the O-Level revision-notes file, not itself
+named in E512's Files list but carrying the identical defect): E512
+(crime types 7 -> 11 in the self-test vocabulary list).
+`o-level-sociology-family-education-crime-revision-notes.md`: E512
+(crime types 7 -> 11 in both the bullet list and the "Quick recall
+checklist" item), E514 (the notes attributed the part (f) essay's
+"weigh alternative views" requirement to AO2; corrected to AO3, quoting
+both objectives' actual wording -- AO2 is interpretation and
+application, applying concepts/theories/evidence/views/methods to
+support points; AO3 is analysis and evaluation, analysing and
+evaluating, constructing and discussing arguments, reaching conclusions
+and judgements on reasoned consideration of evidence).
+`o-level-sociology-family-education-crime-practice.md`: E511 (the
+10-mark "evaluate" essay question corrected to 14 marks -- 10 is a
+Paper 1 tariff, and the equivalent Paper 2 evaluate question is worth
+14 -- with the mark scheme expanded to match), plus an unflagged but
+same-theme fix applied for internal consistency ("Distinguish between
+formal and informal social control" -> "Explain the difference
+between").
+
+**The Family (A-Level 9699 Paper 2).**
+`a-level-cambridge-sociology-the-family.md`: E513 (the guide said the
+paper was "examined through two of the syllabus's key concepts" and
+named a pair; corrected to name all four the syllabus actually links to
+this paper's two units -- Theories of the Family and Social Change
+(3.1, 3.2) links to Power/control/resistance, Socialisation/culture/
+identity, and Social change/development; Family Roles and Changing
+Relationships (4.1, 4.2) links to Power/control/resistance and
+Inequality/opportunity -- rewriting "Where this fits in 9699" to state
+which unit each concept attaches to).
+
+**Practice papers.**
+`a-sociology-socialisation-methods-practice.md` (A-Level 9699,
+Paper 1): E510 (rebuilt from an invented three-section, wrong-tariff
+shape -- including a "3" tariff the paper does not use -- into the real
+two-section shape: Section A, three compulsory questions, 34 marks;
+Section B, one 26-mark essay chosen from two) and I221 (replaced every
+"Distinguish"/"Name"/"Suggest" instance with the syllabus's own four
+command words -- Describe, Evaluate, Explain, Give -- the only ones
+9699 defines).
+`igcse-sociology-methods-inequality-practice.md`,
+`sociology-research-methods-practice.md`,
+`o-level-sociology-methods-practice.md`, and
+`o-level-sociology-family-education-crime-practice.md` (IGCSE 0495 /
+O-Level 2251, Papers 1 and 2): E511 (removed the invented "Section A/
+B/C" headings from all four files; rebuilt the three Paper 1 files
+around the syllabuses' real shape -- three questions, Question 1
+Research Methods compulsory, candidate answers Question 1 plus either
+Question 2 Identity or Question 3 Inequality -- and left the Paper 2
+file's topic-based Family/Education/Crime headings as already correct;
+replaced every part tariff outside the board's real set of 2, 4, 6, 8,
+10, 12, 14 with a valid one, respecting that individual part tariffs
+top out at 10 on Paper 1 and 14 on Paper 2), E516 (reconciled three
+mark-scheme overages -- an 8-mark question scoring 10 and a 6-mark
+question scoring 7 in `igcse-sociology-methods-inequality-practice.md`,
+an 8-mark question scoring 9 in `sociology-research-methods-practice.
+md` -- and restored that same file's two orphaned answers 8 and 9,
+which had no matching questions, by writing the experiment and pilot-
+study questions they were always meant to answer), I221 (0495/2251
+files: replaced "Distinguish" and "Name" with valid words from the
+syllabus's own 14-word command-word list -- Assess, Define, Describe,
+Develop, Discuss, Evaluate, Explain, Give, Identify, Justify, Outline,
+State, Suggest, Summarise), Q211
+(`o-level-sociology-methods-practice.md`: the ascribed-status worked
+example changed from "gender" to "sex", matching five sibling resources
+and the syllabus's own sex/gender distinction).
+
+**Verification method.** Facts confirmed via WebFetch against the three
+official syllabus PDFs before editing, not taken from the findings'
+prose paraphrase alone: Cambridge 9699 2024-2026 v3 (Paper 2 key-
+concept/unit mapping, Paper 4 Section/Unit structure and assessment
+detail, the syllabus's own four-word command-word table), Cambridge
+0495 and 2251 2025-2027 v3 (the 14-word command-word table, the real
+2/4/6/8/10/12/14 tariff set, Topic 1/2/3 and Topic 4/5/6 sub-topic
+structure, the full 11-item crime-type list, and the 2251-vs-0495
+grade-range and administrative-zone facts for I220).
+
+**Operational note.** Build failed once on first attempt with
+`ERR_MODULE_NOT_FOUND` on a Vite prerender chunk (`index_DyNE_Wo-2.mjs`)
+-- a Windows filesystem/module-resolution flake unrelated to any content
+change, not reproducible, resolved cleanly on immediate retry (2,129
+pages + Pagefind, exit 0, 156s).
+
+**Validation gate:** `astro check` (0 errors) -> `validate:academic`
+(full chain, all sub-validators PASS) -> `build` (2,129 pages +
+Pagefind, clean on retry, 156s) -> `check-duplicate-resource-scope.mjs`
+(PASS, all 6 allow-listed groups reviewed, including the two sociology
+methods-practice files confirmed as genuinely distinct content) ->
+`test-i18n-routes.mjs` (PASS) -> `test-practice-analytics.mjs` (24/24)
+-> `npm audit` (0 vulnerabilities) -> `coverage:academic-v2` (160/160,
+median 8 resources/combination, median 997 words/resource) ->
+`audit:all` (12/12 sub-audits, 0 problems, including 0 problems across
+2,128 pages and 2,122 sitemap URLs).
+
+**Next.** Continuing with the remainder of the Sociology cluster
+(D-177 AQA sub-batch, 9 findings; D-178 OxfordAQA + cross-board
+sub-batch, findings E525-E533/Q214/Q215/Q209/Q210) and then World
+History (34 findings), neither started yet.

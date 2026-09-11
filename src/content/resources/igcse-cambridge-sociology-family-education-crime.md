@@ -58,11 +58,18 @@ within them).
   Marxist and feminist views of education's roles and functions;
   patterns and explanations of differences in educational achievement
   by social class, ethnicity, gender and globally
-- **6. Crime, deviance and social control** — the difference between
+- **6. Crime, deviance and social control** (6.1 What are crime,
+  deviance and social control?; 6.2 What are the patterns of and
+  explanations for crime and deviance?; 6.3 How is crime dealt with in
+  different societies?) — the difference between
   crime and deviance and their relativity across societies and time;
   formal and informal agencies of social control and their
-  effectiveness; different types of crime (violent, property,
-  white-collar/corporate, expressive, instrumental, gang, green)
+  effectiveness; eleven named types of crime (violent, property,
+  white-collar/corporate, expressive, instrumental, gang, green,
+  organised/global, cyber, hate and domestic crime); how crime is
+  measured, and the limitations of official statistics; sociological
+  patterns and explanations of offending; how different societies deal
+  with crime
 
 ## Family (Topic 4)
 
@@ -102,7 +109,10 @@ categorise or compare these explanation types directly.
 
 ## Crime, deviance and social control (Topic 6)
 
-The crime/deviance distinction is foundational and frequently tested:
+Topic 6 has three sub-topics: 6.1 what are crime, deviance and social
+control; 6.2 the patterns of and explanations for crime and deviance;
+6.3 how crime is dealt with in different societies. The crime/deviance
+distinction (6.1) is foundational and frequently tested:
 crime is behaviour that breaks the law, deviance is behaviour that
 breaks social norms, and the two overlap but are not identical — some
 deviant behaviour is not criminal, and both are relative across
@@ -111,11 +121,36 @@ courts, armed forces, government, penal system) and informal social
 control (family, education, workplace, peer group, media, religion)
 should be learned as a paired list, since questions often ask
 candidates to compare how effectively each type of agency prevents
-crime and deviance for a given scenario. The seven named crime types
+crime and deviance for a given scenario. The eleven named crime types
 (violent, property, white-collar/corporate, expressive, instrumental,
-gang, green) give a ready vocabulary for classifying crimes described
+gang, green, organised/global, cyber, hate and domestic crime) give a
+ready vocabulary for classifying crimes described
 in exam stimulus material — practise identifying which type a described
-crime belongs to before analysing it further.
+crime belongs to before analysing it further, and don't stop at the
+first seven: cyber, hate, organised and domestic crime are exactly the
+categories most likely to appear in a contemporary stimulus.
+
+Sub-topic 6.2 turns to measuring crime and to sociological explanation.
+Official crime statistics have well-known limitations — under-reporting
+(victims not reporting to police), under-recording (police not
+recording every reported incident) and definitional change over time
+all mean recorded crime is not the same as the true, unmeasured level
+of offending. Sociological explanations for offending draw on the same
+theoretical perspectives used across the qualification: functionalist
+explanations (for example, crime as a product of weak social bonds or
+inadequate socialisation), Marxist explanations (crime as a product of
+economic inequality, and criminal law itself reflecting ruling-class
+interests), and explanations that focus on labelling (how being
+labelled "criminal" or "deviant" can itself increase future offending)
+should each be linked to a named pattern of offending by class, gender,
+age or ethnicity, rather than treated as abstract theory alone.
+
+Sub-topic 6.3 examines how different societies respond to crime,
+comparing the aims and methods of punishment (for example retribution,
+deterrence, rehabilitation and reparation) and how these are balanced
+differently across societies and over time — an angle that rewards
+comparison rather than describing a single society's criminal justice
+approach as if it were universal.
 
 ## Common mistakes
 

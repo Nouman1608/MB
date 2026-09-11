@@ -24,25 +24,25 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Format at a glance
 
-Paper 4, **A-Level only** (not AS). Three named sections; candidates answer on **2 of the 3**.
+Paper 4, **A-Level only** (not AS). 1h45m, 70 marks, 29% of the full A Level. Three named sections, each built from two of the syllabus's twelve content units (no decimal sub-numbering); candidates answer **two essay questions in total, each from a different section**, 35 marks each.
 
-- **4.1 Globalisation** — causes and consequences for societies, culture and identity.
-- **4.2 Media** — role/influence of media, including relationship to identity, culture, social control.
-- **4.3 Religion** — role of religion in society; sociological explanations for belief, organisation and change.
+- **Section A: Globalisation** (Units 7-8) — causes and consequences for societies, culture and identity.
+- **Section B: Media** (Units 9-10) — role/influence of media, including relationship to identity, culture, social control.
+- **Section C: Religion** (Units 11-12) — role of religion in society; sociological explanations for belief, organisation and change.
 
 ## Strategy for "2 of 3"
 
 Study all three to a working level early, then narrow to deep revision on two closer to the exam — but keep the third fallback-ready, since an unexpectedly hard question on a "safe" section can make the third valuable.
 
-## 4.1 Globalisation — go beyond "the world is more connected"
+## Section A: Globalisation — go beyond "the world is more connected"
 
 Discuss specific consequences for identity and culture — e.g. tension between global cultural influences and the persistence/revival of local and national identities — supported by **named sociological perspectives**, not general observation alone.
 
-## 4.2 Media — contrast competing explanations, don't assert one
+## Section B: Media — contrast competing explanations, don't assert one
 
 Contrast views that see media as **directly shaping** audience attitudes/behaviour against views that see audiences as **actively selecting and interpreting** content. Apply whichever perspective a question foregrounds to a **specific, named example**. Common weakness: asserting media "affects behaviour" without engaging the actual debate.
 
-## 4.3 Religion — weigh competing explanations, don't assume one
+## Section C: Religion — weigh competing explanations, don't assume one
 
 Weigh: does religion primarily maintain social cohesion, or can it be a source of social change/conflict? Treat **secularisation** (whether religion's social influence has declined) as a genuinely debated question with evidence and counter-evidence — not an assumed fact.
 

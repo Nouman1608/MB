@@ -88,7 +88,8 @@ and content in the final stretch of revision.
 - **Informal social control**: family, education, workplace, peer
   group, media, religion.
 - **Types of crime**: violent, property, white-collar/corporate,
-  expressive, instrumental, gang, green.
+  expressive, instrumental, gang, green, organised/global, cyber, hate,
+  domestic.
 - Effectiveness of control agencies is assessed comparatively — be
   ready to weigh a formal method against an informal one for a given
   scenario.
@@ -105,8 +106,13 @@ with using its correct term. Part (e)'s discussion answers should be
 structured around at least two perspectives or pieces of evidence
 before reaching a conclusion, and part (f)'s essay must show *both*
 sides of the named debate — a one-sided essay, however well argued,
-cannot reach the top mark band because AO2 explicitly requires
-weighing alternative views.
+cannot reach the top mark band because AO3 explicitly requires weighing
+alternative views: AO2 (interpretation and application) covers applying
+concepts, theories, evidence, views and research methods to support
+points or develop arguments, while AO3 (analysis and evaluation) covers
+analysing and evaluating, constructing and discussing arguments, and
+reaching conclusions and making judgements on a reasoned consideration
+of evidence.
 
 ## Quick recall checklist
 
@@ -121,7 +127,7 @@ weighing alternative views.
   material, cultural or in-school?
 - Do I know the difference between crime and deviance, and can I give
   an example of something deviant but not criminal?
-- Can I name all seven crime types and place an example crime into the
+- Can I name all eleven crime types and place an example crime into the
   correct category?
 
 ## Related-topic connections worth remembering

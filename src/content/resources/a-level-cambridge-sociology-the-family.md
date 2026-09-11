@@ -29,11 +29,15 @@ questions, and Section B is one essay (26 marks) chosen from two.
 
 ## Where this fits in 9699
 
-The Family is examined through two of the syllabus's key concepts:
-Socialisation, culture and identity, and Social change and
-development. It splits into two topic areas, each with two named
+The Family splits into two topic areas, each with two named
 sub-topics -- Theories of the family and social change (3.1, 3.2), and
-Family roles and changing relationships (4.1, 4.2).
+Family roles and changing relationships (4.1, 4.2) -- and together the
+two areas draw on four of the syllabus's key concepts, not just one
+pair of them. Theories of the family and social change (3.1, 3.2) is
+linked to Power, control and resistance; Socialisation, culture and
+identity; and Social change and development. Family roles and changing
+relationships (4.1, 4.2) is linked to Power, control and resistance;
+and Inequality and opportunity.
 
 ## Syllabus coverage
 

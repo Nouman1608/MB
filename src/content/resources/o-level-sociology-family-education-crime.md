@@ -41,12 +41,19 @@ remains relevant preparation for this paper too, not just Paper 1.
 **CAMBRIDGE O LEVEL SOCIOLOGY 2251 — PAPER 2 FAMILY, EDUCATION AND
 CRIME**
 
-- 2.1 Family — the different forms family takes across societies, the
+Paper 2's three topics are numbered four, five and six — continuing
+the single sequence the syllabus uses across both papers, not decimal
+sub-topics of a second unit. (The decimal numbers 2.1/2.2/2.3 belong
+to Paper 1's Identity topic: how we learn our identity, how society
+controls us, and what influences our social identity — a different
+topic on a different paper.)
+
+- **4. Family** — the different forms family takes across societies, the
 functions the family performs, and how family structures and roles
 are changing
-- 2.2 Education — the role and functions of education in society, and
+- **5. Education** — the role and functions of education in society, and
 factors affecting educational achievement
-- 2.3 Crime, Deviance and Social Control — how crime and deviance are
+- **6. Crime, Deviance and Social Control** — how crime and deviance are
 defined and measured, explanations for criminal and deviant
 behaviour, and the formal and informal methods societies use to
 control it
@@ -58,7 +65,7 @@ revision strategy is to prepare all three to a reasonable standard
 early, then commit to genuinely deep revision on two closer to the
 exam — abandoning a topic too early risks being caught out if the
 exam's specific questions on the other two are less comfortable than
-expected. For Family (2.1), strong answers move beyond describing the
+expected. For Family (Topic 4), strong answers move beyond describing the
 nuclear family as a fixed norm and can discuss real variation — 
 extended families, single-parent families, and changing patterns such
 as smaller family size or delayed marriage — and can explain a
@@ -66,7 +73,7 @@ function of the family (such as primary socialisation or economic
 support) with a specific example rather than naming the function
 alone.
 
-Education (2.2) rewards being able to discuss more than one
+Education (Topic 5) rewards being able to discuss more than one
 explanation for why some students achieve more than others — factors
 such as social class, parental attitudes, school resources and peer
 groups are all legitimate angles, and the strongest answers weigh more
@@ -76,18 +83,25 @@ achievement as explained entirely by one factor (usually the student's
 own effort or ability) without engaging with the sociological factors
 the syllabus specifically asks about.
 
-Crime, Deviance and Social Control (2.3) is often the most engaging
+Crime, Deviance and Social Control (Topic 6) is often the most engaging
 topic to students but also where vague, common-sense answers replace
 sociological explanation most often — being able to name and briefly
 explain a specific sociological theory of why crime occurs (rather
 than simply describing what crime is), and to distinguish formal
 social control (police, courts, laws) from informal social control
 (family disapproval, peer pressure, community norms), is what this
-sub-topic actually tests. Measuring crime is also worth revising
+topic actually tests. Measuring crime is also worth revising
 directly: official crime statistics have known limitations (such as
 under-reporting and differences in how offences are recorded), and
 being able to explain why the "true" crime rate may differ from
-recorded statistics is a frequently tested idea.
+recorded statistics is a frequently tested idea. Learn the eleven
+named crime types this syllabus sets out -- violent, property,
+white-collar/corporate, expressive, instrumental, gang, green,
+organised/global, cyber, hate and domestic crime -- as a ready
+vocabulary for classifying crimes in exam stimulus material; don't
+stop at the first seven, since cyber, hate, organised and domestic
+crime are exactly the categories most likely to appear in a
+contemporary stimulus.
 
 Across all three topics, the strongest preparation links back to
 Paper 1: practise suggesting which research method would suit

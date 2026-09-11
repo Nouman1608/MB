@@ -37,18 +37,42 @@ qualification, though the syllabus still expects candidates to draw on
 the same underlying sociological concepts and research methods
 knowledge that runs through the whole course.
 
+Paper 4 is 1 hour 45 minutes, worth 70 marks and 29% of the full A
+Level. Each of the three sections carries two essay questions;
+candidates answer **two questions in total, each from a different
+section**. Every essay is worth 35 marks and requires an extended
+response demonstrating AO1, AO2 and AO3, exploring contrasting views
+or evidence.
+
 ## Syllabus coverage
 
 **CAMBRIDGE A LEVEL SOCIOLOGY (9699) — PAPER 4: GLOBALISATION, MEDIA
 AND RELIGION**
 
-- 4.1 Section A: Globalisation — the causes and consequences of
-globalisation for societies, culture and identity
-- 4.2 Section B: Media — the role and influence of media in society,
-including its relationship to identity, culture and social control
-- 4.3 Section C: Religion — the role of religion in society, and
-sociological explanations for religious belief, organisation and
-change
+This syllabus numbers its content as twelve units running straight
+through the whole qualification, with no decimal sub-numbering.
+Paper 4 draws on units seven to twelve, two units per named section:
+
+- **Section A: Globalisation** — Unit 7 *Key debates, concepts and
+perspectives* (perspectives on globalisation; globalisation and
+identity; globalisation, power and politics) and Unit 8 *Contemporary
+issues* (globalisation, poverty and inequalities; globalisation and
+migration; globalisation and crime)
+- **Section B: Media** — Unit 9 *Ownership and control of media*
+(traditional media and the new media; theories of the media and
+influences on media content; the impact of the new media) and Unit 10
+*Media representation and effects* (media representations of class,
+gender, ethnicity and age groups; different models of media effects;
+the impact of the media on behaviour)
+- **Section C: Religion** — Unit 11 *Religion and social order*
+(religion and society; religion and social order; religion as a
+source of social change) and Unit 12 *The influence of religion* (the
+secularisation debate; gender, feminism and religion; religion and
+post-modernity)
+
+The lettered sections (A/B/C) are how the paper itself is structured;
+the unit numbers (7-12) are how the syllabus numbers its content —
+the two are separate systems and should not be conflated.
 
 ## How to approach it
 
@@ -57,7 +81,7 @@ strategy is to study all three to a working level early in the course,
 then narrow to genuinely deep revision on two sections closer to the
 exam, keeping in mind that unexpectedly difficult questions on a
 "safe" section can make a well-prepared third section valuable as a
-fallback. For Globalisation (4.1), strong answers move beyond treating
+fallback. For Globalisation (Section A), strong answers move beyond treating
 globalisation as simply "the world becoming more connected" and can
 discuss specific consequences for identity and culture — for instance,
 tension between global cultural influences and the persistence or
@@ -65,7 +89,7 @@ revival of local and national identities — supported by named
 sociological perspectives on globalisation rather than general
 observation alone.
 
-Media (4.2) rewards being able to discuss more than one theoretical
+Media (Section B) rewards being able to discuss more than one theoretical
 explanation of media influence — for example, contrasting views that
 see media as shaping audience attitudes and behaviour directly against
 views that see audiences as more actively selecting and interpreting
@@ -75,7 +99,7 @@ influence only in the abstract. A frequent weakness is asserting that
 media "affects behaviour" without engaging with the actual debate
 among competing explanations the syllabus expects candidates to know.
 
-Religion (4.3) similarly rewards weighing competing sociological
+Religion (Section C) similarly rewards weighing competing sociological
 explanations against each other — for instance, whether religion
 primarily functions to maintain social cohesion, or whether it can
 also be a source of social change and conflict — rather than

@@ -40,11 +40,11 @@ Remember candidates answer on **2 of the 3** topics below.
 **3.** Explain **two** factors that may affect a student's educational achievement. **[8]**
 
 **4.** "Schools are the only cause of differences in educational achievement." Evaluate this statement.
-**[10]**
+**[14]**
 
 ## Crime, Deviance and Social Control
 
-**5.** Distinguish between formal and informal social control, giving one example of each. **[4]**
+**5.** Explain the difference between formal and informal social control, giving one example of each. **[4]**
 
 **6.** Explain **two** reasons official crime statistics may not accurately reflect the true rate of
 crime in society. **[6]**
@@ -74,8 +74,10 @@ students receive [1] [1] [1] [1].
 school itself: home background and parental attitudes, peer group influence, and the individual
 student's own engagement all interact with school-based factors such as teacher expectations and
 resources [1] [1] [1] [1] [1]. A balanced answer should acknowledge that schools *do* play a role
-(e.g. streaming can reinforce existing inequalities) [1] [1], while concluding that achievement is
-better explained as the product of several interacting factors rather than school alone [1] [1] [1].
+(e.g. streaming can reinforce existing inequalities, and teacher labelling can create a
+self-fulfilling prophecy that schools alone are responsible for) [1] [1] [1] [1], while concluding
+that achievement is better explained as the product of several interacting factors — home, school
+and peer group together — rather than school alone [1] [1] [1] [1] [1].
 
 **5.** **Formal social control** — official, codified mechanisms such as the police, courts and laws
 that respond to deviance through formal sanctions [1] [1]. **Informal social control** — unofficial

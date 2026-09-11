@@ -39,33 +39,47 @@ inequality, family, education, crime — the question is actually about.
 **CAMBRIDGE IGCSE SOCIOLOGY 0495 — PAPER 1 RESEARCH METHODS, IDENTITY
 AND INEQUALITY**
 
-- 1.1 Research Methods — the main methods sociologists use to collect
-data (including surveys, interviews, observation and secondary
-sources), and their strengths and limitations
-- 1.2 Identity: Self and Society — how identity is shaped by social
-factors including socialisation, culture, and agents such as family,
-education, media and religion
-- 1.3 Social Stratification and Inequality — how societies are
-divided into unequal groups by factors such as class, gender and
-ethnicity, and the causes and consequences of that inequality
+Paper 1 has three main topics, numbered one, two and three — not
+sub-topics of the first. The decimal numbers 1.1/1.2/1.3 belong only
+to Research Methods' own three sub-topics.
+
+- **Topic 1: Research Methods** (1.1 How do sociologists approach the
+study of society?; 1.2 What types of data and evidence do
+sociologists use?; 1.3 How do sociologists investigate society?) —
+the main methods sociologists use to collect data (including surveys,
+interviews, observation and secondary sources), and their strengths
+and limitations
+- **Topic 2: Identity: Self and Society** (2.1 How do we learn our
+identity?; 2.2 How does society control us?; 2.3 What influences our
+social identity?) — how identity is shaped by social factors
+including socialisation, culture, formal and informal social
+control, and agents such as family, education, media and religion
+- **Topic 3: Social Stratification and Inequality** (3.1 What is
+social stratification?; 3.2 What attempts have been made to reduce
+social inequalities?; 3.3 How has globalisation affected inequalities
+between societies?) — how societies are divided into unequal groups
+by factors such as class, gender and ethnicity, attempts to reduce
+that inequality, and the effect of globalisation on inequality
+between societies
 
 ## How to approach it
 
-Research Methods (1.1) rewards being able to evaluate, not just list, a
+Research Methods (Topic 1) rewards being able to evaluate, not just list, a
 method — for any given research question, practise stating one strength
 and one limitation of using a questionnaire versus an interview versus
 observation for that specific topic, since "identify a method and
-justify your choice" is a recurring question type. For 1.2 and 1.3, the
+justify your choice" is a recurring question type. For Topics 2 and 3, the
 strongest answers use named sociological concepts precisely (e.g.
 primary versus secondary socialisation, ascribed versus achieved
 status) rather than everyday language that only loosely gestures at the
 same idea — examiners are trained to look for correct terminology
-alongside accurate explanation. Because Paper 1 has a compulsory
-Question 1 plus a choice of one more from the remaining two, candidates
-should not skip revising any of the three topics entirely, even if one
-feels weaker than the others — being forced into an unprepared topic by
-the compulsory question is a common and avoidable source of lost marks.
-Wherever possible, link 1.2 and 1.3 together in revision too — identity
+alongside accurate explanation. Question 1 is always Research Methods
+(Topic 1) — the syllabus fixes it and the live papers print it that way
+— so it cannot be avoided however weak that topic feels; candidates
+then choose one further question from Topics 2 and 3. Because of this,
+candidates should not skip revising any of the three topics entirely,
+even if one feels weaker than the others.
+Wherever possible, link Topics 2 and 3 together in revision too — identity
 and inequality are closely connected in the syllabus (for instance, how
 social class or gender shapes the identity someone develops), and
 questions sometimes reward candidates who can draw that connection
@@ -73,7 +87,7 @@ rather than treating the two topics as entirely separate.
 
 ## Research methods in more depth
 
-1.1 turns on a small set of evaluative concepts that recur across
+Topic 1 turns on a small set of evaluative concepts that recur across
 almost every methods question: reliability, meaning that repeating the
 study would produce the same result; validity, meaning the method
 gives a true and accurate picture of what is actually being studied;
@@ -100,8 +114,8 @@ would be impossible to carry out at all.
 
 ## Identity and socialisation in more depth
 
-1.2 builds on the idea that identity is learned rather than fixed:
-primary socialisation, occurring within the family during early
+Topic 2 builds on the idea that identity is learned rather than fixed
+(2.1): primary socialisation, occurring within the family during early
 childhood, and secondary socialisation, occurring through school,
 peers, media, religion and the workplace, together transmit the norms
 and values that shape how a person comes to understand themselves and
@@ -114,10 +128,21 @@ cross-cultural variation in behaviour and on evidence from feral
 children, both of which suggest that behaviour often assumed to be
 natural is in fact learned through socialisation.
 
+Sub-topic 2.2, how does society control us, covers formal and informal
+social control side by side: formal control operates through explicit
+rules and sanctions enforced by named agencies such as government, the
+police, schools and the workplace, while informal control operates
+through unwritten norms enforced by agents such as family, peers and
+media -- disapproval, praise, gossip and exclusion rather than a
+written rule and a stated penalty. Candidates should be able to name
+agencies of control on both sides and explain how each achieves
+conformity, rather than treating "social control" as a single
+undifferentiated idea.
+
 ## Inequality in more depth
 
-1.3 examines how societies divide people into unequal groups along
-lines including social class, gender and ethnicity, and rewards
+Topic 3 examines how societies divide people into unequal groups along
+lines including social class, gender and ethnicity (3.1), and rewards
 candidates who can explain both the causes and the consequences of
 that inequality rather than simply describing that it exists. Social
 class inequality is often explained through the cycle of deprivation:
