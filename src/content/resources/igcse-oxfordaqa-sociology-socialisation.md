@@ -26,14 +26,23 @@ examined May/June 2028.
 
 ## Scope of this guide
 
-3.2.2 Socialisation and Social Control has three parts: 3.2.2.1
-Individuals and Society, 3.2.2.2 Socialisation, and 3.2.2.3 Social
-Identities and Social Change. This resource focuses on 3.2.2.2, the
-socialisation content itself — types of socialisation, its agencies, and
-the sociological perspectives applied to it — since this alone covers
-enough distinct content for a full resource. The concepts of culture and
-the sociological imagination (3.2.2.1) and social control/social
-identity (3.2.2.3) are left for separate resources.
+3.2.2 Socialisation and Social Control has **four** parts: 3.2.2.1
+Individuals and Society; 3.2.2.2 Socialisation; 3.2.2.3, titled "Social
+Identities and Social Change" but in fact covering formal and informal
+social control, sanctions, agencies of control, punishment and crime
+prevention; and 3.2.2.4, titled "Social Control" but in fact covering
+crime and deviance — the social construction of crime, named types of
+crime, issues in measuring crime, and patterns of offending by gender,
+class, age and ethnicity. (The part titles and their actual content are
+crossed with each other in the published specification, so any
+reference to this topic's structure should cite part numbers and
+contents rather than titles alone.) This resource focuses on 3.2.2.2,
+the socialisation content itself — types of socialisation, its agencies,
+and the sociological perspectives applied to it — since this alone
+covers enough distinct content for a full resource. The concepts of
+culture and the sociological imagination (3.2.2.1), social control and
+its agencies (3.2.2.3), and crime and deviance (3.2.2.4) are left for
+separate resources.
 
 ## Syllabus coverage
 
@@ -131,12 +140,13 @@ given situation. **Values** — the broader beliefs a society or group
 holds about what is important, right or desirable. **Social
 construction of identity** — the idea that a person's sense of who they
 are is not fixed or natural, but built up over time through their
-interactions with socialising agencies. Sociology mark schemes
-frequently distinguish between candidates who use these terms
-accurately and candidates who use them as loose synonyms for each
-other, so keeping norms and values clearly distinct — and being precise
-about what counts as an "agency" versus a "process" of socialisation —
-is worth the extra revision time.
+interactions with socialising agencies. Precise use of these terms is
+likely to be rewarded over loose, synonym-like use, so keeping norms
+and values clearly distinct — and being precise about what counts as an
+"agency" versus a "process" of socialisation — is worth the extra
+revision time. (This qualification is new, first examined May/June
+2028, so this is general exam-technique advice rather than a claim
+based on any published mark scheme for this specification.)
 
 ## Common mistakes
 

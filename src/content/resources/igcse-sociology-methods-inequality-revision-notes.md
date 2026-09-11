@@ -75,7 +75,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Social class:**
 
-- **Life chances** — the opportunities a person has for health, education, housing and income. Class is the strongest single predictor.
+- **Life chances** — the opportunities a person has for health, education, housing and income. Class, gender, ethnicity and age all shape life chances and interact with each other, so a strong answer explains how they interact rather than ranking one factor as the single strongest predictor.
 - **Social mobility** — movement between classes. **Intergenerational** compares a person with their parents; **intragenerational** compares points in one person's own career.
 - **An open society** allows mobility by merit; a **closed society**, such as a caste system, fixes position at birth.
 - **Poverty:** *absolute* poverty is lacking the basic necessities for survival; *relative* poverty is falling below the standard considered acceptable in that society. The distinction is that relative poverty exists in wealthy countries too.
@@ -83,7 +83,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Gender:** the **glass ceiling** blocks promotion to senior roles; horizontal segregation concentrates women in particular occupations; vertical segregation concentrates them at lower levels. Causes include gender socialisation, the domestic and caring burden, discrimination, and interrupted careers. Changes: equal-pay legislation, girls' educational achievement, and changing attitudes.
 
-**Ethnicity:** discrimination in employment and housing, **institutional racism**, negative media representation, and the difficulty of separating ethnic disadvantage from class disadvantage — much of the apparent ethnic effect narrows once class is controlled for. That qualification is worth making.
+**Ethnicity:** discrimination in employment and housing, **institutional racism**, negative media representation, and the difficulty of separating ethnic disadvantage from class disadvantage — the two interact, and sociologists debate how much of the apparent ethnic effect is attributable to class rather than ethnicity itself. Raising that interaction, rather than treating the two as independent, is worth making.
 
 ## Exam traps
 

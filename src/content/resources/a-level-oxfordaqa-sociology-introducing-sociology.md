@@ -13,7 +13,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introducing-sociology-9690"
-description: "Families, and research methods -- the full content of Unit 1 for OxfordAQA International A-Level Sociology (9690)."
+description: "Families (3.1.1), and research methods and theory (3.1.3) -- the content of Unit 1 for OxfordAQA International A-Level Sociology (9690)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -28,86 +28,116 @@ and the Environment, People and Technology).
 
 ## Where this fits in 9690
 
-Unit 1 introduces core sociological perspectives through the study of
-the family, alongside the research methods skills that recur
-throughout the rest of the qualification -- including in Unit 2
-(Exploring Sociology) and the more applied A2 content.
+Unit 1 examines Families (3.1.1) and Research Methods and Theory
+(3.1.3). The research methods and theory content is not exclusive to
+Unit 1: the specification examines it again in Unit 2 (Exploring
+Sociology), through a different question form -- short and structured
+questions here in Unit 1, a single extended-response question in
+Unit 2 -- rather than through different content.
 
 ## Syllabus coverage
 
 **OXFORDAQA INTERNATIONAL A-LEVEL SOCIOLOGY (9690) — UNIT 1
 INTRODUCING SOCIOLOGY**
 
-- 1.1 Families — sociological perspectives on the structure, functions
-and diversity of family life
-- 1.2 Research Methods — the methods sociologists use to investigate
-social life, including their strengths and limitations
+- 3.1.1 Families — family types and marriage, perspectives on the
+family, social change and changing families, gender/age and family
+life
+- 3.1.3 Research Methods and Theory — approaches to research, research
+methods, research issues, data interpretation, sociological theories
+and perspectives (examined in both Unit 1 and Unit 2)
+
+Unit 1 is assessed in two sections: **Section A Families** (40 of the
+unit's 60 marks, short and extended-response questions) and
+**Section B Research methods** (20 marks, short questions plus a
+structured question based on data about an unseen issue).
 
 ## How to approach it
 
-Families (1.1) is best revised by contrasting how different
+Families (3.1.1) is best revised by contrasting how different
 sociological perspectives interpret the same aspect of family life --
 this comparative approach mirrors how A-level essay questions are
-typically structured. Research Methods (1.2) deserves particular
-attention to method-specific strengths and limitations (validity,
-reliability, ethics, practicality for each named method), since this
-level of technical precision is what distinguishes A-level answers
-from GCSE-level ones. Because this unit sits at the start of a
-five-unit qualification, treat its methods content as foundational
-knowledge to be applied again in every later unit rather than a topic
-confined to Unit 1 alone. Since this qualification is newly launched,
-seek out the specification's own sample assessment materials as they
-become available rather than relying solely on general A-level
-sociology practice, since question style and emphasis can differ
-between specifications even where content overlaps. Building a habit
-of linking Families content back to research methods evidence -- which
-studies or data support a given claim -- also prepares directly for
-the more evaluative demands of the later A2 units.
+typically structured -- and by building a bank of the six named
+sociologists (below) so that named-study marks are never left on the
+table. Research Methods (3.1.3) deserves particular attention to
+method-specific strengths and limitations (validity, reliability,
+ethics, practicality for each named method), since this level of
+technical precision is what distinguishes A-level answers from
+GCSE-level ones, and to the fact that it resurfaces in Unit 2 as a
+single extended-response question rather than as new content.
 
-## Official syllabus
+## Families: forms, functions and change
 
-OxfordAQA International A-level Sociology switching guide (official
-comparison document; standalone specification PDF not separately
-located at verification) —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/02/oxfordaqa-international-a-level-sociology-switching-guide.pdf).
+**Family types and marriage (3.1.1.1).** Sociologists distinguish
+**extended families** (vertically extended, across generations, or
+horizontally extended, across a generation), **nuclear families**, and
+**single-parent families**, alongside non-family living arrangements
+such as **communes**, **living alone**, and **foster care or
+children's homes**. **Therborn's typology of family systems**
+compares family patterns across world regions. Cultural variation
+includes **patriarchal** and **matriarchal** family structures, and
+marriage practices include **arranged marriages**, **love marriages**
+and **monogamy**.
 
-## The sociological perspective
+**Perspectives on families (3.1.1.2).** **Functionalists** examine the
+functions the family performs and how the nuclear family "fits"
+modern industrial society. **Marxists** (Engels) analyse the family as
+an agent of social control serving capitalism. **Feminists** (Oakley)
+examine how families shape the different positions of men and women
+in society.
 
-Sociology studies society as something with structure and pattern, not merely a collection of individuals. Its founding move is the distinction between **biological** and **social** explanation: behaviour that appears natural — gender roles, diet, family form — varies so widely between societies that culture must be doing the work.
+**Social change and changing families (3.1.1.3).** Demographic factors
+-- family size, birth and death rates, infant and child mortality,
+migration, and an ageing population -- alongside the effects of
+industrialisation and urbanisation, explain long-run change. Newer
+diversity types include **pivot/sandwich-generation families**,
+**reconstituted/blended families**, **living-apart-together**
+couples, **child-free couples**, and **beanpole families**. **Smart**'s
+concept of **personal life** and **individualisation** describe a
+shift toward more freely chosen family arrangements, alongside
+**diasporas and transnational families**, **friends as family**, and
+pets or companion animals treated as family members.
 
-**Socialisation** is how culture is transmitted. **Primary socialisation** happens in the family; **secondary socialisation** through education, peers, religion, workplace and media. **Norms** are expected behaviours, **values** are shared beliefs about what matters, **roles** are behaviours attached to positions, and **status** may be **ascribed** (fixed at birth) or **achieved** (earned).
+**Gender, age and family life (3.1.1.4).** Gendered roles include the
+male "breadwinner"/instrumental role and the female expressive role,
+including the **triple shift** (paid work, domestic work and
+emotional work). Related themes: the division of domestic labour,
+gender differences in power and decision-making within families,
+violence against women and children, children's status and "child
+centredness", and the roles of adult children -- including
+**"boomerang" families** -- and of older people.
 
-## Structure and action
+**Named sociologists for this unit:** Engels, Oakley, Parsons, Smart,
+Stacey, Therborn.
 
-The central theoretical divide is whether society shapes individuals or individuals create society.
+## Research methods and theory
 
-**Structural (macro) theories** see behaviour as shaped by society.
+**Positivists** favour quantitative methods producing reliable,
+generalisable data — questionnaires, structured interviews, official
+statistics. **Interpretivists** favour qualitative methods producing
+valid, in-depth insight — unstructured interviews, participant
+observation.
 
-- **Functionalism** (Durkheim, Parsons) treats society as a system of interdependent institutions maintaining stability through **value consensus**. Criticised for downplaying conflict and for teleology.
-- **Marxism** sees society as shaped by economic conflict between bourgeoisie and proletariat, with the superstructure serving the ruling class and **false consciousness** obscuring exploitation. Criticised for economic determinism.
-- **Feminism** analyses patriarchy, divided into liberal, radical, Marxist and difference strands.
-
-**Social action (micro) theories** — interactionism, labelling, Weber's *verstehen* — start from meanings individuals attach to situations. Criticised for neglecting the structural constraints people plainly face.
-
-**Postmodernism** argues class, gender and nation have fragmented, identity is chosen and fluid, and grand theories no longer explain a media-saturated society.
-
-## Research methods
-
-**Positivists** favour quantitative methods producing reliable, generalisable data — questionnaires, structured interviews, official statistics. **Interpretivists** favour qualitative methods producing valid, in-depth insight — unstructured interviews, participant observation.
-
-Choice is judged on the **PET** practical, ethical and theoretical factors, and on:
+Choice is judged on the **PET** practical, ethical and theoretical
+factors, and on:
 
 - **Reliability** — would repeating it give the same result?
 - **Validity** — does it measure what it claims to measure?
 - **Representativeness** — can findings be generalised?
 
-Reliability and validity frequently trade off: a structured questionnaire is highly reliable but may lack validity; participant observation is the reverse.
+Reliability and validity frequently trade off: a structured
+questionnaire is highly reliable but may lack validity; participant
+observation is the reverse. Sampling methods to know by name: random,
+systematic, quota, multistage, stratified random, and snowball.
 
-Ethical requirements are informed consent, confidentiality, protection from harm, and the right to withdraw — covert observation being the standard case where these are contested.
+Ethical requirements are informed consent, confidentiality, protection
+from harm, and the right to withdraw — covert observation being the
+standard case where these are contested.
 
 ## Worked example
 
-Assess the usefulness of participant observation for studying a criminal gang.
+Assess the usefulness of participant observation for studying a
+criminal gang.
 
 ```
 STRENGTHS   high validity -- behaviour observed in its natural setting
@@ -121,17 +151,43 @@ WEAKNESSES  not reliable -- cannot be replicated
             time-consuming and expensive
 ```
 
-The conclusion should turn on purpose: for understanding meaning it is the strongest method available; for measuring prevalence it is the wrong tool.
+The conclusion should turn on purpose: for understanding meaning it is
+the strongest method available; for measuring prevalence it is the
+wrong tool.
 
 ## Common mistakes
 
-Treating norms and values as interchangeable. Describing functionalism and Marxism as micro theories. Confusing reliability with validity — the single most common error in this topic. Listing methods without linking them to positivism or interpretivism. Assessing a method in the abstract rather than against the research aim. Omitting named sociologists.
+Confusing functionalist and Marxist readings of the same family
+function. Naming no sociologists when discussing a perspective on the
+family -- Engels, Oakley, Parsons, Smart, Stacey and Therborn are all
+directly assessable. Confusing reliability with validity — the single
+most common error in the research methods content. Listing methods
+without linking them to positivism or interpretivism. Assessing a
+method in the abstract rather than against a specific research aim.
+Treating family diversity as a purely modern phenomenon rather than
+engaging with the demographic and social explanations behind it.
 
 ## Quick revision checklist
 
-- Distinguish biological from social explanation and define norms, values, roles and status.
-- Explain primary and secondary socialisation with agents of each.
-- Outline functionalism, Marxism, feminism, social action theory and postmodernism, with evaluation.
-- Contrast positivist and interpretivist approaches.
-- Define reliability, validity and representativeness, and explain the trade-offs.
-- Assess a named method against a specific research aim and apply ethical guidelines.
+- Know the family types (extended, nuclear, single-parent) and
+  Therborn's typology, plus arranged/love marriage and monogamy.
+- Outline functionalist, Marxist (Engels) and feminist (Oakley)
+  perspectives on the family, with evaluation.
+- Explain the demographic factors behind family change and name at
+  least four newer family diversity types.
+- Define the triple shift and describe gendered roles and power
+  within families.
+- Contrast positivist and interpretivist approaches to research, and
+  define reliability, validity and representativeness.
+- Remember 3.1.3 Research Methods and Theory resurfaces in Unit 2 as
+  a single extended-response question, not new content.
+
+## Official syllabus
+
+OxfordAQA International AS and A-level Sociology (9690) specification,
+Version 1.0 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/08/oxfordaqa-international-a-level-sociology-specification.pdf).
+Unit 1 timing and marks: 1 hour 45 minutes, 60 marks (Section A
+Families 40 marks; Section B Research methods 20 marks). A specimen
+question paper and mark scheme for this unit are published on the
+same qualification page.

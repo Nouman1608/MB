@@ -38,19 +38,21 @@ perspectives that the rest of the course assumes.
 **OXFORDAQA INTERNATIONAL GCSE SOCIOLOGY (9292) — PAPER 1 INTRODUCING
 SOCIOLOGY**
 
-- 1.1 Families — the structure, functions and diversity of family life
-- 1.2 Education — the role, structure and impact of the education
-system
-- 1.3 Research Methods — the methods sociologists use to investigate
-social life
+- 3.1.1 Families — family types, marriage, perspectives on the family,
+social change and family diversity, and gender/age in family life
+- 3.1.2 Education — the official and hidden curriculum, perspectives
+on education, labelling and the self-fulfilling prophecy, and
+educational attainment
+- 3.1.3 Research Methods — the methods sociologists use to investigate
+social life (shared with Paper 2)
 
 ## How to approach it
 
-Families (1.1) and Education (1.2) both reward being able to apply a
+Families (3.1.1) and Education (3.1.2) both reward being able to apply a
 named sociological perspective to a specific institutional example,
 since exam questions typically ask students to use sociological
 concepts to explain a real social pattern rather than describe it
-neutrally. Because Research Methods (1.3) is shared across both
+neutrally. Because Research Methods (3.1.3) is shared across both
 papers, practise applying it to family and education scenarios here,
 then again to Paper 2's content on differences, inequalities and
 socialisation, rather than treating it as an isolated topic revised
@@ -70,31 +72,68 @@ OxfordAQA International GCSE Sociology (9292) specification, Version
 1.0 —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/08/oxfordaqa-international-gcse-sociology-specification.pdf).
 
-## Thinking sociologically
+## Families (3.1.1)
 
-Sociology looks for **patterns** in social life rather than explaining behaviour by individual character. Its founding insight is that much of what feels natural is in fact **learned**: gender roles, family structure, diet and manners vary so widely between societies that culture, not biology, must account for them.
+**Family types:** nuclear, extended, single-parent, reconstituted
+(step-), "living apart together" couples, child-free couples, "beanpole"
+families (many generations, few members each). **Therborn** identified
+different family systems across world regions, showing that family form
+is not universal. Marriage types include arranged and love marriages,
+and monogamy (and, in some societies, polygamy).
 
-**Culture** is the whole way of life of a group. Within it:
+**Perspectives on the family (named sociologists: Engels, Oakley,
+Parsons, Smart, Stacey, Therborn):**
 
-- **Norms** — expected behaviours in particular situations.
-- **Values** — shared beliefs about what is important.
-- **Roles** — behaviour attached to a social position.
-- **Status** — position in society, **ascribed** (fixed at birth) or **achieved** (earned).
+| Perspective | Core idea |
+|---|---|
+| Functionalism (Parsons) | The family performs positive functions — primary socialisation, "stabilisation of adult personalities" |
+| Marxism (Engels) | The family serves capitalism's interests — reproducing labour power, transmitting property, a form of social control |
+| Feminism (Oakley) | The family positions women unequally, especially around domestic labour and childcare |
 
-**Socialisation** transmits culture. **Primary** socialisation occurs in the family; **secondary** through school, peers, religion, workplace and media. **Social control** maintains conformity through **formal** means (laws, police, courts) and **informal** means (disapproval, ridicule, exclusion).
+**Social change and family diversity:** industrialisation and
+urbanisation reshaped family form; demographic change (rising life
+expectancy, falling birth rates) has produced more "beanpole" families
+and a "pivot generation" caring for children and ageing parents at once.
+**Smart's** work on individualisation and **Stacey's** work on diverse,
+"negotiated" family forms both describe growing family diversity.
 
-## The main perspectives
+**Gender, age and family life:** unequal division of domestic labour
+persists even in dual-earner households; children's status has shifted
+from economic contributors to long-term financial dependants; "boomerang"
+adult children return home for economic reasons; older people's roles
+range from providing childcare to needing care themselves.
 
-| Perspective | Core idea | Main criticism |
-|---|---|---|
-| Functionalism | Institutions work together for stability through shared values | Ignores conflict and inequality |
-| Marxism | Society is shaped by class conflict over economic resources | Over-emphasises economics |
-| Feminism | Society is patriarchal, organised in men's interests | Treated as though all women share one experience |
-| Interactionism | Society is built from the meanings people give situations | Neglects structural constraints |
+## Education (3.1.2)
 
-The essential division is between **structural** theories, which start from society, and **social action** theories, which start from the individual.
+**Official (formal) curriculum** — subjects formally taught. **Hidden
+curriculum** — attitudes and behaviours taught informally through school
+organisation and routine (punctuality, respect for authority,
+competitiveness).
 
-## Research methods
+**Perspectives on education (named sociologists: Becker, Bourdieu, Davis
+and Moore, Freire, Illich, Samson):**
+
+| Perspective | Core idea |
+|---|---|
+| Functionalism (Davis and Moore) | Education allocates roles by ability and socialises shared values — "role allocation" |
+| Marxism (Bourdieu) | Education reproduces class inequality; better-off pupils have more "cultural capital," which schools reward |
+| Radical/critical (Freire, Illich) | Traditional schooling can suppress critical thought rather than develop it |
+
+**Relationships and processes in school:** a teacher's **label** for a
+pupil (e.g. "bright," "disruptive"), often based on limited evidence
+(**Becker**'s work on labelling), shapes teacher expectations and how
+the pupil is treated; the pupil internalises and acts out the label,
+producing a **self-fulfilling prophecy**. Pupil subcultures form in
+response, some pro-school and some anti-school; racism and sexism in the
+classroom can operate through the same labelling process.
+
+**Educational attainment:** differences by social class (cultural
+capital, resources for study), gender (subject-choice patterns, gendered
+expectations) and ethnicity (differing teacher expectations,
+stereotyping); **credentialism** raises measurement issues when
+comparing attainment across groups.
+
+## Research methods (3.1.3 — shared with Paper 2)
 
 **Primary** data is collected first-hand; **secondary** data already exists. **Quantitative** data is numerical; **qualitative** data is descriptive.
 
@@ -133,13 +172,23 @@ Recommending a combination, with reasons tied to the specific topic, scores high
 
 ## Common mistakes
 
-Using norms and values interchangeably. Calling functionalism a micro theory. Confusing reliability with validity — the most common error here. Listing methods without linking them to the research aim. Saying a bigger sample removes bias, when a biased method stays biased. Omitting named sociologists entirely.
+Naming a family type, perspective or attainment factor without
+explaining it. Confusing the official curriculum with the hidden
+curriculum. Confusing reliability with validity — the most common error
+here. Listing methods without linking them to the research aim. Saying
+a bigger sample removes bias, when a biased method stays biased.
+Omitting named sociologists entirely.
 
 ## Quick revision checklist
 
-- Explain the difference between biological and social explanations of behaviour.
-- Define culture, norms, values, roles, ascribed and achieved status.
-- Explain primary and secondary socialisation and formal and informal social control.
-- Outline all four perspectives with one criticism each.
-- Compare research methods on reliability, validity and representativeness.
-- Choose and justify a method for a specific research aim, and apply ethical guidelines.
+- Name and briefly describe family types other than the nuclear family.
+- Outline the functionalist, Marxist and feminist views of the family,
+with one named sociologist for each.
+- Distinguish the official curriculum from the hidden curriculum.
+- Explain how labelling can produce a self-fulfilling prophecy in
+school, referencing Becker.
+- Explain factors linked to differences in educational attainment.
+- Compare research methods on reliability, validity and
+representativeness.
+- Choose and justify a method for a specific research aim, and apply
+ethical guidelines.

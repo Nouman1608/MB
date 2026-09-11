@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-1-introducing-sociology-9690"
-description: "Condensed recall notes on perspectives, socialisation, structure and action, research methods and social inequality for International A Level Sociology."
+description: "Condensed recall notes on perspectives, socialisation, structure and action, and research methods for International A Level Sociology."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -88,25 +88,12 @@ WEAKNESSES  not reliable - cannot be replicated
 
 The conclusion should turn on **purpose**: for understanding meaning it is the strongest method available; for measuring prevalence it is the wrong tool.
 
-## Social inequality
-
-**Class** predicts life chances more strongly than any other single factor. **Intergenerational** mobility compares a person with their parents; **intragenerational** compares stages of their own career.
-
-**Absolute poverty** is lacking necessities for survival; **relative poverty** is falling below the standard considered acceptable in that society — which is why relative poverty exists in wealthy countries.
-
-**The cycle of deprivation:** poor housing and diet → poor health and education → low-paid work → poverty reproduced.
-
-**Gender** — the glass ceiling, horizontal and vertical segregation, the dual burden and triple shift.
-
-**Ethnicity** — discrimination, institutional racism, media representation. **Ethnic and class disadvantage overlap heavily**, and much of the apparent ethnic effect narrows once class is controlled for.
-
 ## Exam traps
 
 - Confusing reliability with validity.
 - Describing a perspective without applying it.
 - Treating structure and action as a simple either/or.
 - Evaluating a method in the abstract.
-- Confusing absolute with relative poverty.
 - One-sided answers — both sides plus a judgement are required.
 - Evaluating participant observation only on validity, without weighing it against reliability, representativeness and ethical issues.
 
@@ -116,7 +103,6 @@ The conclusion should turn on **purpose**: for understanding meaning it is the s
 2. Distinguish structuralist from social action perspectives, and name the synthesis.
 3. Distinguish reliability from validity, and say which methods favour each.
 4. What does PET stand for, and what are the three theoretical criteria?
-5. Why is relative poverty found in wealthy countries?
-6. Give one strength and one weakness of participant observation for studying a criminal gang.
+5. Give one strength and one weakness of participant observation for studying a criminal gang.
 
-**Answers:** 1. Cross-cultural variation in norms and gender roles, and feral children cases where individuals raised without human contact fail to develop language or normal social behaviour. 2. Structuralist approaches see society as shaping individuals from above; social action approaches see individuals as creating society through interaction; Giddens's structuration synthesises the two. 3. Reliability is getting the same result on repetition, favoured by quantitative methods; validity is giving a true picture, favoured by qualitative methods. 4. Practical, Ethical, Theoretical; the theoretical criteria are reliability, validity and representativeness. 5. Because it is defined relative to the standard of living considered acceptable in that particular society, so it measures inequality rather than absolute deprivation. 6. Strength: high validity, since behaviour is observed in its natural setting and the method gives access to a group that would refuse a questionnaire. Weakness: it is not reliable, since it cannot be replicated, and the researcher may 'go native', losing objectivity.
+**Answers:** 1. Cross-cultural variation in norms and gender roles, and feral children cases where individuals raised without human contact fail to develop language or normal social behaviour. 2. Structuralist approaches see society as shaping individuals from above; social action approaches see individuals as creating society through interaction; Giddens's structuration synthesises the two. 3. Reliability is getting the same result on repetition, favoured by quantitative methods; validity is giving a true picture, favoured by qualitative methods. 4. Practical, Ethical, Theoretical; the theoretical criteria are reliability, validity and representativeness. 5. Strength: high validity, since behaviour is observed in its natural setting and the method gives access to a group that would refuse a questionnaire. Weakness: it is not reliable, since it cannot be replicated, and the researcher may 'go native', losing objectivity.

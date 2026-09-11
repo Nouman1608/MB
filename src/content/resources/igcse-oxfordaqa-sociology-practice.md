@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-introducing-sociology-9292"
-description: "Original exam-style practice questions with full worked answers on culture, socialisation, identity, research methods and social structures."
+description: "Original exam-style practice questions with full worked answers on families, education and research methods for OxfordAQA International GCSE Sociology (9292) Paper 1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -21,66 +21,203 @@ featured: false
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
-> these alongside the official past papers available free from your board.
+> these alongside OxfordAQA's own specimen paper and mark scheme for Paper 1.
+>
+> Paper 1 is examined in three sections: **Section A Families** (22 of the
+> paper's 60 marks), **Section B Education** (22 marks) and **Section C
+> Research methods** (16 marks, short questions plus structured data-based
+> questions). This paper follows that shape.
 
 Related: [Introducing Sociology revision notes](/resources/igcse-oxfordaqa-sociology-revision-notes/)
 
 ---
+## Section A: Families (22 marks)
 
-## Section A
+**1.** Identify and briefly describe **two** types of family structure, other
+than the nuclear family. **[4]**
 
-**1.** Define culture, norms, values and roles, giving an example of each. **[4]**
+**2.** Explain **one** difference between a functionalist view and a Marxist
+view of the family's role in society. **[6]**
 
-**2.** Explain what is meant by the nature–nurture debate in sociology. **[3]**
+**3.** Explain **two** ways in which family life has become more diverse in
+recent decades. **[6]**
 
-## Section B
+**4.** Explain **two** ways in which gender shapes the experience of family
+life, such as the division of domestic labour. **[6]**
 
-**3.** Explain, using evidence, why sociologists argue that human behaviour is learned rather than instinctive. **[6]**
+## Section B: Education (22 marks)
 
-**4.** Explain the difference between ascribed and achieved status, and between social control that is formal and informal, giving examples. **[8]**
+**5.** Explain the difference between the official curriculum and the
+hidden curriculum, giving an example of each. **[4]**
 
-**5.** Explain **three** ways in which the media may influence identity. **[6]**
+**6.** Explain **one** difference between a functionalist view and a
+Marxist view of the role of education in society. **[6]**
 
-**6.** A sociologist wishes to study bullying in a secondary school.
+**7.** Explain how teacher expectations and labelling can lead to a
+self-fulfilling prophecy in the classroom. **[6]**
 
-**(a)** Suggest a suitable method and justify it. **[4]**
-**(b)** Explain **two** ethical issues that arise and how each should be handled. **[4]**
-**(c)** Explain one problem of researching a sensitive topic with young people. **[2]**
+**8.** Explain **two** factors that may help to account for differences in
+educational achievement between pupils. **[6]**
 
-**7.** Compare functionalism and Marxism as explanations of how society works, and explain **one** criticism of each. **[6]**
+---
+## Section C: Research methods (16 marks)
 
-**8.** Explain the difference between absolute and relative poverty, and describe the cycle of deprivation. **[6]**
+**9.** A sociologist wishes to study bullying in a secondary school.
+
+**(a)** Suggest a suitable method for this study and justify your choice. **[6]**
+
+**(b)** Explain **two** ethical issues that arise in this study and how
+each should be handled. **[6]**
+
+**(c)** Explain **one** problem of researching a sensitive topic with
+young people. **[4]**
 
 ---
 
-## Answers
+## Answers: Section A
 
-**1. Culture** — the **whole way of life of a society**, including its language, beliefs and customs, e.g. the celebration of Eid [1]. **Norms** — the **specific rules governing behaviour in particular situations**, e.g. queuing [1]. **Values** — the **general beliefs about what is important and desirable**, e.g. respect for elders [1]. **Roles** — the **patterns of behaviour expected of someone in a given position**, e.g. the role of a teacher [1].
+**A1** [4 marks — 2 marks per type identified and briefly described]
 
-**2.** The debate over whether behaviour is determined by **inherited biological characteristics (nature)** [1] or by **learning through socialisation in a particular culture (nurture)** [1]. Sociologists generally emphasise nurture, arguing that the **wide variation in behaviour between cultures cannot be explained by biology**, which is shared by all humans [1].
+Award 2 marks per named type with a brief accurate description, up to a
+maximum of 4. Acceptable types include: extended families; single-parent
+families; reconstituted (step-) families; "living apart together"
+couples; child-free couples; "beanpole" families (multiple generations,
+few members per generation). A bare name with no description scores 1
+mark for that type.
 
-**3.** **Cultural variation** — behaviours regarded as natural in one society, such as gender roles, differ markedly between societies and across time, which biology cannot explain [1] [1]. **Feral children** — cases of children raised without human contact show they **do not develop language, walking upright or social behaviour naturally**, indicating these are learned rather than instinctive [1] [1]. **Cross-cultural evidence on emotion and family form** shows even apparently basic behaviours are shaped by culture [1]. Sociologists accept a **biological basis for capacities such as language, but argue the content is entirely learned** [1].
+**A2** [6 marks]
 
-**4. Ascribed status** is **given at birth or fixed and cannot be changed by the individual**, e.g. being born into a royal family or a caste [1] [1]. **Achieved status** is **earned through an individual's own effort or ability**, e.g. becoming a doctor [1] [1].
-**Formal social control** is exercised by **official agencies through written rules and stated sanctions**, e.g. the police, courts and school exclusion policies [1] [1]. **Informal social control** operates through **unwritten expectations and everyday reactions**, e.g. disapproval, ridicule, gossip or exclusion from a friendship group [1] [1].
+Functionalist (e.g. Parsons): the family performs positive functions for
+society and its members — primary socialisation and the "stabilisation
+of adult personalities" [1] [1] — and the nuclear family is well suited
+to an industrial society [1]. Marxist (e.g. Engels): the family serves
+the interests of capitalism rather than society as a whole [1] [1] — it
+reproduces labour power and transmits private property through
+inheritance, and functions partly as a means of social control [1].
+Award full marks only where the difference between the two views is
+explicitly drawn out.
 
-**5.** Any three, 2 marks each: through **role models and stereotypes** — the media presents images of how men, women and different ethnic groups should look and behave, which audiences may internalise [1] [1]. Through **consumption and body image** — advertising links identity to products and presents unrealistic ideals, affecting self-esteem particularly among the young [1] [1]. Through **selective representation** — some groups are **under-represented or shown only in narrow roles**, which shapes both their self-image and how others perceive them [1] [1]. Through **social media**, which allows people to **construct and present a chosen identity** and to find communities that reinforce it [1] [1].
+---
+**A3** [6 marks — up to 3 marks per way, explained not just named]
 
-**6. (a)** A suitable method would be an **anonymous self-completion questionnaire distributed to all pupils**, possibly followed by unstructured interviews [1]. The questionnaire is **anonymous, so pupils are more likely to admit to being bullied or bullying than in a face-to-face interview** [1]; it reaches a **large sample quickly, giving representative quantitative data on how widespread bullying is** [1]; follow-up interviews then provide the **depth and validity to understand pupils' experiences** [1].
-**(b)** **Informed consent** — the pupils are children, so **consent must be obtained from parents or guardians as well as from the pupils themselves**, and pupils must know they may refuse [1] [1]. **Protection from harm** — questions may cause **distress by recalling upsetting experiences**, so the researcher should keep questions carefully worded, allow pupils to skip items, and **ensure support from a counsellor or pastoral staff is available afterwards** [1] [1]. (Also accept confidentiality, with the caveat that disclosure of serious harm must be reported — which must be explained in advance.)
-**(c)** Young people may **under-report or exaggerate** because of embarrassment, fear of reprisal from the bully, or a desire to give the answer they think the adult wants [1], which threatens the **validity** of the data [1].
+Two from: increased **family diversity** through reconstituted families
+following divorce and remarriage [1] [1] [1]; growth of "living apart
+together" relationships and child-free couples as accepted alternatives
+to the traditional family life-cycle [1] [1] [1]; the emergence of
+**"beanpole" families**, with more living generations but fewer members
+in each generation, linked to rising life expectancy and falling birth
+rates [1] [1] [1]; growth of the **"pivot generation"**, adults
+simultaneously caring for both children and ageing parents [1] [1] [1].
 
-**7. Functionalism** sees society as a system of institutions working together, sharing common values, to maintain **stability and social order** [1] [1]; its main criticism is that it **ignores conflict and inequality**, treating society as more harmonious than it is [1]. **Marxism** sees society as shaped by **conflict between social classes over the ownership of economic resources**, with institutions serving the interests of the ruling class [1] [1]; its main criticism is that it **over-emphasises economics**, giving too little weight to other sources of identity and conflict, such as gender or ethnicity [1]. Both are **structural theories**, starting from society as a whole, unlike social action theories which start from the individual [1].
+**A4** [6 marks — up to 3 marks per way, explained not just named]
 
-**8. Absolute poverty** is **lacking the basic necessities needed for survival**, such as adequate food, clean water and shelter [1] [1]. **Relative poverty** is **falling below the standard of living considered acceptable in a particular society**, which is why relative poverty can exist even in wealthy countries [1] [1]. The **cycle of deprivation** describes how disadvantage reproduces itself across generations: poor housing and diet lead to **poor health and educational outcomes**, which lead to **low-paid work**, which in turn produces **poverty in the next generation**, restarting the cycle [1] [1].
+Two from: unequal division of **domestic labour**, with women typically
+carrying out more housework and childcare even in dual-earner households
+[1] [1] [1]; the changing status of **children** within the family, from
+economic contributors historically to being financially dependent for
+longer [1] [1] [1]; **"boomerang" adult children** returning to live
+with parents, often for economic reasons, changing family roles and
+finances [1] [1] [1]; the changing role of **older people**, including
+providing childcare for grandchildren or requiring care themselves [1]
+[1] [1].
+
+---
+
+## Answers: Section B
+
+**A5** [4 marks]
+
+The **official (or "formal") curriculum** is the **subjects and content
+that schools formally set out to teach**, e.g. mathematics, science or
+history lessons [1] [1]. The **hidden curriculum** is the **attitudes,
+values and behaviours schools teach informally**, through the way the
+school is organised and run rather than through what is formally taught,
+e.g. punctuality, respect for authority or competitiveness, taught
+through rules, routines and rewards [1] [1].
+
+---
+**A6** [6 marks]
+
+Functionalist (e.g. Davis and Moore): education performs a positive
+function of **role allocation**, sorting and training individuals for
+their future positions in society based on ability [1] [1], and
+socialises pupils into shared values, helping to maintain social order
+[1]. Marxist (e.g. Bourdieu): education **reproduces existing class
+inequality** rather than allocating roles fairly, since pupils from
+better-off backgrounds start with more **cultural capital** — knowledge
+and ways of behaving that schools value and reward [1] [1] [1]. Award
+full marks only where the difference between the two views is
+explicitly drawn out.
+
+**A7** [6 marks]
+
+**Labelling** is when a teacher attaches a description to a pupil, such
+as "bright" or "disruptive," often based on limited information [1] [1].
+This shapes **teacher expectations**, which can affect how the teacher
+treats the pupil — for example, giving more attention or opportunities
+to a pupil labelled positively [1] [1]. The pupil may then internalise
+and act out the label, so that the original expectation comes true
+purely because it was expected — a **self-fulfilling prophecy** [1] [1].
+
+**A8** [6 marks — up to 3 marks per factor, explained not just named]
+
+Two from: **social class**, e.g. wealthier families being able to afford
+private tuition, books and a stable home-study environment, and
+possessing more of the cultural capital that schools reward [1] [1] [1];
+**gender**, e.g. differing subject choices or expectations linked to
+gendered stereotypes about ability and behaviour [1] [1] [1];
+**ethnicity**, e.g. some ethnic minority pupils experiencing lower
+teacher expectations or stereotyping which can affect motivation and
+achievement [1] [1] [1]. Credit any factor that is explained rather than
+just named.
+
+---
+## Answers: Section C
+
+**A9 (a)** [6 marks]
+
+A suitable method would be an **anonymous self-completion questionnaire
+distributed to all pupils**, possibly followed by a small number of
+unstructured follow-up interviews [1] [1]. Justification: the
+questionnaire is **anonymous, so pupils are more likely to admit to
+being bullied or bullying than in a face-to-face interview** [1] [1]; it
+reaches a **large sample quickly, giving representative quantitative
+data** on how widespread bullying is [1] [1]; follow-up interviews then
+provide the **depth and validity** needed to understand pupils'
+experiences in their own words [1] [1].
+
+**A9 (b)** [6 marks — up to 3 marks per issue]
+
+Two from: **informed consent** — since the participants are children,
+**consent must be obtained from parents or guardians as well as from the
+pupils themselves**, and pupils must be told clearly that they may
+refuse or withdraw at any point [1] [1] [1]; **protection from harm** —
+questions may cause **distress by prompting pupils to recall upsetting
+experiences**, so questions should be carefully worded, pupils should be
+able to skip items, and **support from a counsellor or pastoral staff
+should be available afterwards** [1] [1] [1]. (Also accept
+confidentiality, with the caveat that disclosure of serious harm to a
+pupil must still be reported, which should be explained to participants
+in advance.)
+
+**A9 (c)** [4 marks]
+
+Young people may **under-report or exaggerate** their experiences
+because of embarrassment, fear of reprisal from the person bullying
+them, or a desire to give the answer they think the adult researcher
+wants to hear [1] [1], which threatens the **validity** of the data —
+the results may not give a true picture of how much bullying is actually
+happening [1] [1].
 
 ---
 
 ## Where marks are usually lost
 
-- Confusing norms with values.
-- Saying formal social control means "serious" punishment.
-- Choosing a research method without justifying it for the specific topic.
-- Forgetting that research with children requires parental consent.
-- Confusing absolute with relative poverty.
-- Describing a perspective without a linked criticism.
+- Confusing the official/formal curriculum with the hidden curriculum.
+- Naming a family type or a factor in achievement without explaining it.
+- Describing a perspective on families or education without a
+  clearly-stated point of difference from the other perspective.
+- Choosing a research method without justifying it for this specific
+  topic and this specific age group.
+- Forgetting that research with children requires parental consent as
+  well as the child's own agreement.

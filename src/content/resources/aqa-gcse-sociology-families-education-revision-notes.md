@@ -62,7 +62,7 @@ Nuclear, extended, reconstituted (step), lone-parent, same-sex, and **beanpole**
 
 **Gender:** girls now outperform boys, explained by feminism, changing aspirations, equal-opportunity policies, and a crisis of masculinity as traditional male manual work declines. Yet **subject choice remains gendered**, shaped by socialisation, peer pressure and career advice — the paradox that makes a good essay.
 
-**Ethnicity:** language, family structure, ethnocentric curriculum, teacher labelling and institutional racism. Crucially, ethnic differences **overlap with class**, and much of the apparent effect narrows once class is accounted for.
+**Ethnicity:** language, family structure, ethnocentric curriculum, teacher labelling and institutional racism. Crucially, ethnic differences **overlap with class** — the two interact, and sociologists debate how much of the apparent ethnic effect is attributable to class rather than ethnicity itself.
 
 ## Research methods
 

@@ -8579,3 +8579,119 @@ audit` (0 vulnerabilities) -> `coverage:academic-v2` (160/160) ->
 **Next.** Continuing with D-178 (OxfordAQA + cross-board sub-batch,
 findings E525-E533/Q214/Q215/Q209/Q210) and then World History (34
 findings), neither started yet.
+
+
+## D-178 - Sociology cluster, batch 3 (OxfordAQA + cross-board)
+
+Closes the Sociology cluster (with D-176 and D-177): 14 files, findings
+E525-E533, Q214, Q215, Q209, Q210 (E508/E515/E517/I221/Q211-Q213 were
+D-176/D-177; this batch is the OxfordAQA-specific and cross-board
+remainder).
+
+**Diagnosis.** Unlike D-176/D-177 (numbering and naming-claim defects
+within otherwise correct content), most of this batch's findings are
+structural: several OxfordAQA resources contained content that belongs
+to a *different* specification entirely, or omitted a section's real
+content while claiming to cover it. Verified against the live OxfordAQA
+9690 (A-Level) and 9292 (International GCSE) specification PDFs and the
+AQA domestic 7192 spec (fetched directly, not just the landing page)
+before editing:
+
+- 9690 has no suicide-debate or philosophy-of-science content (that is
+  AQA 7192 domestic A-Level content) and no stratification/social-
+  mobility/poverty content at any level.
+- 9292 does have legitimate stratification content, but only in Paper 2
+  (3.2.1.3 Social class) — and "cycle of deprivation" appears in neither
+  9690 nor 9292 at all.
+- 9292's 3.2.2 Socialisation and Social Control has four parts, not
+  three, and two of them have titles that are crossed with their actual
+  content: 3.2.2.3 "Social Identities and Social Change" in fact covers
+  social control (sanctions, agencies, punishment, crime prevention),
+  while 3.2.2.4 "Social Control" in fact covers crime and deviance.
+  Corrections cite part numbers and contents, not titles.
+
+**Files fixed (14):**
+
+1. `a-level-oxfordaqa-sociology-introducing-sociology.md` — E525, E526,
+   E533, Q214. Full rewrite: real 3.1.1 Families + 3.1.3 Research
+   Methods content (named sociologists Engels, Oakley, Parsons, Smart,
+   Stacey, Therborn), corrected syllabus citation and Unit 1 timing/
+   marks (40+20/60, 1h45m).
+2. `a-level-oxfordaqa-sociology-exploring-sociology.md` — E525, E526,
+   E533, Q214. Full rewrite: real 3.1.2 Socialisation and social
+   control + 3.1.3 content (Cohen, Fanon, Goffman, Mead, Mills, Zuboff),
+   corrected Unit 2 timing/marks.
+3. `oxfordaqa-a-level-sociology-exploring-sociology-revision-notes.md`
+   — E526, Q214. Targeted numbering/timing corrections (2.1/2.2 to
+   real 3.1.2/3.1.3; Unit 2 structure and marks stated in full instead
+   of deferred to unpublished sample materials).
+4. `oxfordaqa-a-level-sociology-practice.md` — E527, E528, E529, E530.
+   Full rewrite: removed suicide-debate/science-debate questions
+   (wrong board) and the stratification/mobility block (doesn't exist
+   in 9690); added the missing Families section; rebuilt to the real
+   40+20=60 mark, two-section shape with reconciled mark schemes.
+5. `oxfordaqa-a-level-sociology-revision-notes.md` — E528, Q209, Q210.
+   Removed the off-spec "Social inequality" section (class/mobility/
+   poverty/cycle-of-deprivation/glass-ceiling block), which also
+   removed the two unsupported claims living inside it; updated
+   self-test and exam traps to match.
+6. `igcse-oxfordaqa-sociology-socialisation.md` — E531, Q215. "Three
+   parts" corrected to "four," with part numbers/contents (not titles)
+   used for 3.2.2.3/3.2.2.4; mark-scheme-behaviour claim reworded as
+   general exam advice, flagged as such (first examined May/June 2028,
+   no live mark scheme yet).
+7. `igcse-oxfordaqa-sociology-socialisation-revision-notes.md` — E531,
+   Q215 (sibling of #6, same fixes; two separate mark-scheme claims
+   reworded).
+8. `igcse-oxfordaqa-sociology-practice.md` — E530, E532. Full rewrite:
+   the entire old paper was Paper 2 Differences-and-Inequalities-shaped
+   content mistagged as Paper 1; rebuilt around real Paper 1 content
+   (Families 3.1.1/22, Education 3.1.2/22, Research methods 3.1.3/16
+   marks, three lettered sections, 60 marks total), named sociologists
+   verified from the live spec (Engels, Oakley, Parsons, Smart, Stacey,
+   Therborn for Families; Becker, Bourdieu, Davis and Moore, Freire,
+   Illich, Samson for Education).
+9. `igcse-oxfordaqa-sociology-revision-notes.md` — E532, Q210. Same
+   diagnosis and same full rewrite as #8 (Identity and Social-
+   inequality sections were Paper 2 content; replaced with real Paper 1
+   Families/Education content, Research methods section kept as
+   legitimately shared).
+10. `igcse-oxfordaqa-sociology-introducing-sociology.md` — E533. Full
+    rewrite of the body content: syllabus-coverage numbering corrected
+    (1.1/1.2/1.3 to 3.1.1/3.1.2/3.1.3) and the generic "Thinking
+    sociologically"/perspectives content replaced with real Families
+    and Education sections, so the guide now actually delivers the two
+    main topics it claims to cover.
+11. `igcse-sociology-research-methods-identity-and-inequality.md` —
+    Q209. Reworded the "narrows once class is controlled for" claim to
+    describe class/ethnicity as interacting and contested, not settled.
+12. `igcse-sociology-methods-inequality-revision-notes.md` — Q209,
+    Q210. Both claims reworded (life-chances "strongest predictor" and
+    ethnicity/class interaction).
+13. `o-level-sociology-methods-revision-notes.md` — Q209, Q210. Same
+    two claims reworded in the main text, plus the self-test Q5 answer
+    which restated the Q209 claim.
+14. `aqa-gcse-sociology-families-education-revision-notes.md` — Q209
+    follow-up (file already edited in D-177 for E522; this batch's
+    edit is additive, not a re-read from scratch).
+
+**Verification method:** WebFetch against the live OxfordAQA 9690 and
+9292 specification PDFs (not just the landing pages) for exact
+sub-section numbering, mark allocations, question-paper shapes and
+named-sociologist lists, cross-checked against each finding's own
+prose text (not just its `Files:` field) before writing any
+replacement content.
+
+**Validation gate:** `astro check` (0 errors) -> `validate:academic`
+(full chain, all sub-validators PASS) -> `build` (2,129 pages +
+Pagefind, clean, 158s) -> `check-duplicate-resource-scope.mjs` (PASS,
+6 allow-listed groups reviewed) -> `test-i18n-routes.mjs` (PASS) ->
+`test-practice-analytics.mjs` (24/24) -> `npm audit` (0
+vulnerabilities) -> `coverage:academic-v2` (160/160) -> `audit:all`
+(12/12 sub-audits, 0 problems).
+
+**This closes the Sociology cluster** — D-176 + D-177 + D-178, 36
+findings total (E507-E533, I220, I221, Q209-Q215).
+
+**Next.** World History (34 findings: E534-E562, I222-I224, Q216-Q217),
+not yet started.

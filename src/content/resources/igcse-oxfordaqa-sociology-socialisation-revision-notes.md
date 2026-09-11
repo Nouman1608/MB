@@ -83,18 +83,26 @@ situation.
 - **Social construction of identity** — the idea that identity is built
 through interaction with socialising agencies, not fixed or natural.
 
-Mark schemes distinguish candidates using these terms precisely from
-those using them as loose synonyms — keep norms and values clearly
-separate, and be precise about what counts as an "agency" versus a
-"process."
+Precise candidates keep these terms distinct from those using them as
+loose synonyms — keep norms and values clearly separate, and be
+precise about what counts as an "agency" versus a "process." (This is
+general exam-technique advice: this specification is new, first
+examined May/June 2028, so no published mark scheme for it yet exists
+to confirm this.)
 
 ## Where this fits within the wider topic
 
-3.2.2 Socialisation and Social Control has three parts: 3.2.2.1
-Individuals and Society, 3.2.2.2 Socialisation (covered here), and
-3.2.2.3 Social Identities and Social Change. These notes deliberately
-do not cover the sociological imagination or concepts of culture
-(3.2.2.1) or social control and identity (3.2.2.3) — revise those as
+3.2.2 Socialisation and Social Control has **four** parts: 3.2.2.1
+Individuals and Society; 3.2.2.2 Socialisation (covered here); 3.2.2.3,
+titled "Social Identities and Social Change" but actually covering
+formal and informal social control, sanctions, agencies of control,
+punishment and crime prevention; and 3.2.2.4, titled "Social Control"
+but actually covering crime and deviance. The part titles and their
+actual content are crossed with each other in the published
+specification, so revise this topic by part number and content, not by
+title. These notes deliberately do not cover the sociological
+imagination or concepts of culture (3.2.2.1), social control and its
+agencies (3.2.2.3), or crime and deviance (3.2.2.4) — revise those as
 separate blocks so this section's socialisation-specific content stays
 sharp rather than blurring into the adjacent sub-topics.
 
@@ -126,8 +134,10 @@ the abstract. For the feminist perspective, this might mean naming how
 media content models different behavioural expectations for boys and
 girls; for the social action perspective, naming a situation where an
 individual visibly negotiates or resists an agency's expected norm.
-Sociology mark schemes consistently reward this kind of applied,
-evidenced point over an accurate but unsupported general statement.
+This kind of applied, evidenced point is likely to be worth more than
+an accurate but unsupported general statement — general exam-technique
+advice, since no published mark scheme yet exists for this new
+specification to confirm it.
 
 ## Related resources
 

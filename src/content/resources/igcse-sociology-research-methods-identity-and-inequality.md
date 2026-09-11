@@ -158,9 +158,11 @@ burden, and workplace discrimination. Ethnic inequality is often
 explained through discrimination in employment and housing and
 institutional racism, though strong answers also note the analytical
 difficulty of separating ethnic disadvantage from social class
-disadvantage, since much of the apparent effect of ethnicity narrows
-once class is properly controlled for -- a qualification that
-distinguishes a sophisticated answer from a purely descriptive one.
+disadvantage -- the two interact, and sociologists debate how much of
+the apparent effect of ethnicity is attributable to class rather than
+ethnicity itself. Raising this interaction, rather than treating class
+and ethnicity as two independent, additive causes, is what distinguishes
+a sophisticated answer from a purely descriptive one.
 
 ## Official syllabus
 

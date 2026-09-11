@@ -13,7 +13,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "unit-2-exploring-sociology-9690"
-description: "Socialisation and social control, and research methods and theory -- the full content of Unit 2 for OxfordAQA International A-Level Sociology (9690), the second and final unit of the International AS."
+description: "Socialisation and social control (3.1.2), and research methods and theory (3.1.3) -- the content of Unit 2 for OxfordAQA International A-Level Sociology (9690), the second and final unit of the International AS."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -24,10 +24,10 @@ units forming the International AS in OxfordAQA International A-level
 Sociology (9690), a new qualification first teaching September 2026,
 with first AS exams May/June 2027 and first A-level exams May/June
 2028. Where [Unit 1 Introducing Sociology](/resources/a-level-oxfordaqa-sociology-introducing-sociology/)
-grounds students in the family and in research methods through one
-substantive topic, Unit 2 broadens out to socialisation and social
-control as a topic in its own right, while extending research methods
-into methodological theory.
+covers families and the first pass at research methods, Unit 2
+broadens out to socialisation and social control as a topic in its own
+right, and examines research methods and theory again -- through a
+single extended-response question rather than new content.
 
 ## Where this fits in 9690
 
@@ -41,63 +41,90 @@ Units 1 and 2 to more applied, contemporary topics.
 
 **OXFORDAQA INTERNATIONAL A-LEVEL SOCIOLOGY (9690) — UNIT 2 EXPLORING SOCIOLOGY**
 
-- 2.1 Socialisation and Social Control — how individuals learn the
-norms and values of their society, and the formal and informal
-mechanisms that encourage conformity to them
-- 2.2 Research Methods and Theory — building on Unit 1's introduction
-to method, this sub-topic connects specific research methods to the
-theoretical positions (for example positivist versus interpretivist
-approaches) that inform why sociologists choose one method over
-another
+- 3.1.2 Socialisation and Social Control — individuals and society;
+socialisation; social identities and social change; social control;
+deviance, harm and crime
+- 3.1.3 Research Methods and Theory — the same content examined in
+Unit 1, assessed here through a single extended-response question
+rather than a new content area
+
+Unit 2 is assessed in two sections: **Section A Socialisation and
+social control** (40 of the unit's 60 marks, short and
+extended-response questions) and **Section B Research methods and
+theory** (20 marks, one extended-response question).
 
 ## How to approach it
 
-Socialisation and Social Control (2.1) is best revised by distinguishing
-**agencies** of socialisation (family, education, peer group, media,
-religion, workplace) from **mechanisms** of social control (both
-formal, such as law and the criminal justice system, and informal,
-such as peer disapproval or family expectation) -- many exam questions
-ask students to apply named agencies to named types of control, so
-practising this pairing directly is more productive than revising the
-two lists separately. Research Methods and Theory (2.2) is the more
-conceptually demanding of the two sub-topics, since it asks students to
-justify methodological choices theoretically rather than only listing
-practical strengths and weaknesses: practise explaining, for a given
-research question, not just which method you would choose but *why*
-your theoretical position (for instance, valuing quantitative,
-generalisable data versus rich, meaning-focused qualitative data) leads
-you to that choice. Because this unit sits at the end of the
-International AS, use it to consciously revisit and apply Unit 1's
-Families content and basic methods knowledge -- strong Unit 2 answers
-often draw on family-related studies as worked examples of the
-methodological issues being discussed.
+Socialisation and Social Control (3.1.2) is the larger of Unit 2's two
+sections and has five named sub-sections (below) -- build a checklist
+against all five rather than revising "socialisation" and "crime" as
+if they were the whole topic, since deviance, harm and crime alone is
+a full sub-section in its own right. Research Methods and Theory
+(3.1.3) is examined here as a single extended-response question, so
+practise writing one sustained, theoretically-justified argument about
+method choice rather than a list of practical strengths and
+weaknesses.
 
-## Key concepts: control and methodology
+## Individuals and society, and socialisation (3.1.2.1-3.1.2.2)
 
-**Social control** operates through two broad routes. **Formal social
-control** relies on written rules and designated institutions with the
-power to punish -- the law, the police and courts, school disciplinary
-codes, and workplace regulations. **Informal social control** relies on
-unwritten expectation and social reaction -- approval, gossip, ridicule
-or exclusion from family, peers and community. A recurring exam skill
-is recognising that the same behaviour can be regulated by both routes
-simultaneously: truancy from school, for example, is subject to formal
-sanctions (fines, legal action against parents) and informal pressure
-(disapproval from family or peers) at the same time.
+**Individuals and society**: culture, norms and values, roles, status,
+stereotypes and subcultures, ethnic groups in multicultural societies,
+and **Mills's sociological imagination** -- connecting personal
+troubles to public issues. **Socialisation**: primary, secondary,
+re-socialisation and inadequate socialisation, through the agencies of
+family, school, peers, media, religion and the workplace, read through
+functionalist, Marxist, feminist and social action/interactionist
+perspectives.
 
-On the methods side, the **positivist** tradition favours methods that
-produce quantifiable, comparable data -- structured questionnaires,
-official statistics, structured observation -- on the grounds that
-sociology should model itself on the natural sciences and identify
-patterns and correlations across large populations. The
-**interpretivist** tradition favours methods that capture meaning and
-lived experience -- unstructured interviews, participant observation,
-personal documents -- on the grounds that human behaviour cannot be
-reduced to countable variables without losing what makes it
-meaningful to the people involved. Most modern sociological research
-does not sit purely in one camp, and the strongest Unit 2 answers
-acknowledge this by discussing **triangulation** -- combining
-quantitative and qualitative methods to offset the weaknesses of each.
+## Social identities and social change (3.1.2.3)
+
+Identity is examined through age/generation, sex and gender, race and
+ethnicity, social class, religion, ability/disability and nationality.
+Social change themes include shifting gender identities (masculinity
+and femininity), **hybrid ethnic identities and diasporas**, **online
+identities** in social media and virtual communities, and the effects
+of consumption and globalisation on identity.
+
+## Social control (3.1.2.4)
+
+Distinguishes **formal** social control (government and law, police,
+the criminal justice system) from **informal** social control
+(families, schools, peers, media, religion, the workplace), and
+**positive** from **negative sanctions**, read through consensus and
+conflict views. Named concepts: **stigmatised identities** and
+**othering** (Goffman), the **aims and types of punishment**, **crime
+prevention** (types of policing, surveillance), and **repressive and
+ideological state apparatuses**, **interpellation** and **hegemony**
+(Althusser-derived concepts examined through functionalist, Marxist,
+feminist and social action/interactionist perspectives).
+
+## Deviance, harm and crime (3.1.2.5)
+
+The **social construction of crime and deviance**; named crime types
+-- violent, property, white-collar, corporate, state, environmental,
+"victimless" and cyber; **social harms** (harmful but not criminal);
+measurement issues -- official/police statistics, self-report studies
+and victim surveys; and patterns of offending and victimisation by
+gender, social class, age and ethnicity.
+
+**Named sociologists for Unit 2:** Cohen, Fanon, Goffman, Mead, Mills,
+Zuboff.
+
+## Research methods and theory, revisited
+
+The **positivist** tradition favours methods that produce quantifiable,
+comparable data -- structured questionnaires, official statistics,
+structured observation -- on the grounds that sociology should model
+itself on the natural sciences and identify patterns across large
+populations. The **interpretivist** tradition favours methods that
+capture meaning and lived experience -- unstructured interviews,
+participant observation, personal documents -- on the grounds that
+human behaviour cannot be reduced to countable variables without
+losing what makes it meaningful to the people involved. Most modern
+sociological research does not sit purely in one camp, and the
+strongest Unit 2 answers acknowledge this by discussing
+**triangulation** -- combining quantitative and qualitative methods to
+offset the weaknesses of each.
 
 ## Worked example: applying theory to method choice
 
@@ -118,30 +145,30 @@ meaning together.
 
 ## Common mistakes
 
-Listing agencies of socialisation and mechanisms of social control as
-two disconnected sets of facts, rather than showing how specific
-agencies exercise specific kinds of control. Describing a research
-method's practical strengths and weaknesses (cost, time, access)
-without connecting the choice back to a theoretical justification,
-which is what distinguishes 2.2 from a purely descriptive methods
-answer. Treating Unit 2 as entirely separate from Unit 1, when strong
-answers repeatedly draw on Unit 1's family content as applied examples.
-Since this is a newly launched qualification, relying on general
-A-level sociology resources without checking OxfordAQA's own emerging
-sample assessment materials for this specification's particular
-question style.
+Treating "deviance, harm and crime" as a footnote to social control
+rather than the full fifth sub-section it is. Describing stigmatised
+identities or state apparatuses without the named concepts (othering,
+interpellation, hegemony) the specification attaches to them. Naming
+no sociologists -- Cohen, Fanon, Goffman, Mead, Mills and Zuboff are
+all directly assessable across this unit. Describing a research
+method's practical strengths and weaknesses without connecting the
+choice back to a theoretical justification, which is what
+distinguishes the 3.1.3 extended-response question from a purely
+descriptive methods answer.
 
 ## Quick revision checklist
 
-- Pair agencies of socialisation (family, education, peers, media,
-religion, workplace) with mechanisms of social control (formal and
-informal) rather than revising each list separately.
-- Practise justifying a research method choice theoretically, not just
-practically -- link method to a broader methodological position.
+- Work through all five 3.1.2 sub-sections in turn: individuals and
+society, socialisation, social identities and social change, social
+control, and deviance/harm/crime.
+- Learn the named concepts -- stigmatised identities, othering,
+interpellation, hegemony, repressive/ideological state apparatuses --
+not just the general topic headings they sit under.
+- Practise justifying a research method choice theoretically for a
+single extended-response question, not just listing practical
+strengths and weaknesses.
 - Use Unit 1's Families content as a source of worked examples when
 answering Unit 2 methods and theory questions.
-- Seek out OxfordAQA's own sample assessment materials for 9690 as they
-become available, given the qualification's recent launch.
 - Revise Units 1 and 2 together before the International AS
 assessment, since both are examined at the end of that stage.
 
@@ -152,8 +179,11 @@ assessment, since both are examined at the end of that stage.
 
 ## Official syllabus
 
-OxfordAQA International A-level Sociology switching guide (official
-comparison document; standalone specification PDF not separately
-located at verification) —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/02/oxfordaqa-international-a-level-sociology-switching-guide.pdf),
-verified 2026-09-02.
+OxfordAQA International AS and A-level Sociology (9690) specification,
+Version 1.0 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/08/oxfordaqa-international-a-level-sociology-specification.pdf),
+verified 2026-09-02. Unit 2 timing and marks: 1 hour 45 minutes, 60
+marks (Section A Socialisation and social control 40 marks; Section B
+Research methods and theory 20 marks). A specimen question paper and
+mark scheme for Unit 1 are already published on the same qualification
+page.

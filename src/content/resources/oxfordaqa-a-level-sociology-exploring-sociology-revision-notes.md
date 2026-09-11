@@ -24,9 +24,9 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Unit 2 at a glance
 
-Two sub-topics complete the International AS alongside Unit 1: **2.1 Socialisation and Social Control**, **2.2 Research Methods and Theory**.
+Two sub-topics complete the International AS alongside Unit 1: **3.1.2 Socialisation and Social Control**, **3.1.3 Research Methods and Theory** (the same content area examined in Unit 1, assessed here through a single extended-response question rather than new content).
 
-## 2.1 — agencies vs mechanisms
+## 3.1.2 — agencies vs mechanisms
 
 | | Examples |
 |---|---|
@@ -36,7 +36,7 @@ Two sub-topics complete the International AS alongside Unit 1: **2.1 Socialisati
 
 **Pair** a named agency with a named type of control rather than revising the two lists separately — many questions ask exactly this. Truancy, for example, is regulated by *both* routes simultaneously: fines/legal action (formal) and family/peer disapproval (informal).
 
-## 2.2 — method choice is theoretical, not just practical
+## 3.1.3 — method choice is theoretical, not just practical
 
 | Tradition | Favoured methods | Why |
 |---|---|---|
@@ -70,43 +70,47 @@ Because Unit 2 sits at the end of the International AS, strong answers reuse Uni
 
 ## Unit 2 assessment structure
 
-Unit 2 is examined in a single written paper as part of the International AS, sitting alongside
-Unit 1 to complete that stage of the qualification. Because 9690 is a newly launched specification,
-exact paper timing and mark allocations should be confirmed against OxfordAQA's own sample assessment
-materials as they are published, rather than assumed from an older or unrelated sociology
-specification.
+Unit 2 is examined in a single written paper, 1 hour 45 minutes long
+and worth 60 marks, sitting alongside Unit 1 to complete the
+International AS: Section A Socialisation and social control (40
+marks, short and extended-response questions) and Section B Research
+methods and theory (20 marks, one extended-response question). A
+specimen question paper and mark scheme for Unit 1 are already
+published on OxfordAQA's 9690 qualification page.
 
 ## Quick revision checklist
 
 - Pair each agency of socialisation with a specific mechanism of formal or informal control, rather
   than listing the two sets separately.
-- For 2.2, practise stating *why* a theoretical position (positivist or interpretivist) leads to a
+- For 3.1.3, practise stating *why* a theoretical position (positivist or interpretivist) leads to a
   particular method choice, not just the method's practical pros and cons.
 - Keep at least one worked example from Unit 1's Families content ready to use as evidence in a Unit 2
   methods-and-theory answer.
-- Check OxfordAQA's own published sample assessment materials for 9690 given its recent launch, rather
-  than relying solely on general A-level sociology resources.
+- Remember Section B is a single 20-mark extended-response question, not a set of short questions --
+  plan for one sustained argument.
 - Revise the concept of triangulation as a way to close a methods-and-theory answer, showing awareness
   that most real research does not sit purely in one methodological camp.
 
 ## Exam traps
 
 - Listing agencies and mechanisms as two disconnected sets of facts, instead of pairing them.
-- Describing a method's practical strengths/weaknesses (cost, time) without a theoretical justification for 2.2.
+- Describing a method's practical strengths/weaknesses (cost, time) without a theoretical justification for 3.1.3.
 - Treating Unit 2 as unrelated to Unit 1's family content.
-- Not checking OxfordAQA's own sample assessment materials, given this is a newly launched qualification.
+- Forgetting that Unit 2's 3.1.2 content has five sub-sections in full (individuals and society;
+  socialisation; social identities and social change; social control; deviance, harm and crime), not
+  only the socialisation/control pairing this file focuses on -- see the study guide for the full list.
 
-## Building an evaluative paragraph for 2.2
+## Building an evaluative paragraph for 3.1.3
 
 When asked to evaluate a specific method (for example, unstructured interviews) within Research
 Methods and Theory, structure the paragraph as: state the method's practical strength or weakness
 (time, cost, access to participants), then connect it to the underlying theoretical position it
 serves (interpretivists value the depth this method provides even at the cost of generalisability),
 then, where relevant, note a counter-consideration such as reliability or researcher bias. This
-practical-then-theoretical structure demonstrates the genuinely conceptual demand of 2.2 that a purely
+practical-then-theoretical structure demonstrates the genuinely conceptual demand of 3.1.3 that a purely
 practical pros-and-cons list does not.
 
-Because 2.2 is assessed as conceptually demanding rather than purely descriptive, keep a short bank of
+Because 3.1.3 is assessed as conceptually demanding rather than purely descriptive, keep a short bank of
 two or three research questions with a worked-through method justification for each ready before the
 exam, so that under time pressure you are adapting a familiar structure rather than building the
 theoretical argument entirely from scratch.
@@ -115,11 +119,11 @@ theoretical argument entirely from scratch.
 
 1. Give one formal and one informal way truancy might be controlled.
 2. Why do positivists favour structured questionnaires and official statistics?
-3. What does triangulation mean, and why is it a strong way to end a 2.2 answer?
+3. What does triangulation mean, and why is it a strong way to end a 3.1.3 answer?
 4. Why should Unit 2 answers draw on Unit 1's family content?
-5. What are the two sub-topics of Unit 2?
+5. What are the two sub-topics of Unit 2, and how many marks is Section B worth?
 
-**Answers:** 1. Formal: fines or legal action against parents; informal: disapproval from family or peers. 2. Because these methods produce quantifiable, comparable data, consistent with modelling sociology on the natural sciences to reveal broad patterns across large populations. 3. Combining quantitative and qualitative methods to offset each one's individual weaknesses — it shows awareness that neither tradition alone captures both pattern and meaning. 4. Because Unit 2 is assessed at the end of the same International AS as Unit 1, and strong answers apply Unit 1's family studies as worked examples of Unit 2's methodological issues. 5. Socialisation and Social Control (2.1), and Research Methods and Theory (2.2).
+**Answers:** 1. Formal: fines or legal action against parents; informal: disapproval from family or peers. 2. Because these methods produce quantifiable, comparable data, consistent with modelling sociology on the natural sciences to reveal broad patterns across large populations. 3. Combining quantitative and qualitative methods to offset each one's individual weaknesses — it shows awareness that neither tradition alone captures both pattern and meaning. 4. Because Unit 2 is assessed at the end of the same International AS as Unit 1, and strong answers apply Unit 1's family studies as worked examples of Unit 2's methodological issues. 5. Socialisation and Social Control (3.1.2), and Research Methods and Theory (3.1.3); Section B (research methods and theory) is worth 20 marks.
 
 ## Related resources
 

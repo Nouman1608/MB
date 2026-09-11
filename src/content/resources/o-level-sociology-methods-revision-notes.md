@@ -63,7 +63,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Social class:**
 
-- **Life chances** — opportunities for health, education, housing and income. Class predicts them more strongly than any other single factor.
+- **Life chances** — opportunities for health, education, housing and income. Class, gender, ethnicity and age all shape life chances and interact with each other, so a strong answer explains how they interact rather than ranking one factor as the single strongest predictor.
 - **Social mobility** — **intergenerational** compares a person with their parents; **intragenerational** compares stages of one person's own career.
 - **Open** societies allow movement by merit; **closed** societies, such as caste systems, fix status at birth.
 - **Absolute poverty** is lacking the necessities for survival; **relative poverty** is falling below the standard considered acceptable in that society — which is why relative poverty exists in wealthy countries.
@@ -73,7 +73,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Gender:** the **glass ceiling** blocks women's promotion; horizontal segregation concentrates them in particular occupations and vertical segregation at lower levels. Causes: gender socialisation, domestic and caring responsibilities, discrimination, interrupted careers. Changes: equal-pay laws, girls' educational success, changing attitudes.
 
-**Ethnicity:** discrimination in employment and housing, institutional racism, negative media representation. **Ethnic disadvantage overlaps heavily with class disadvantage**, and much of the apparent ethnic effect narrows once class is accounted for — a qualification worth making.
+**Ethnicity:** discrimination in employment and housing, institutional racism, negative media representation. **Ethnic disadvantage overlaps heavily with class disadvantage** — the two interact, and sociologists debate how much of the apparent ethnic effect is attributable to class rather than ethnicity itself. Raising that interaction, rather than treating the two as independent, is worth making.
 
 **Age:** the young and the old both face distinct disadvantages — youth unemployment and low pay at one end, ageism and pension poverty at the other.
 
@@ -94,4 +94,4 @@ Condensed for the final weeks. For the full explanation, use the
 4. Explain the cycle of deprivation.
 5. Why is it difficult to separate ethnic from class disadvantage?
 
-**Answers:** 1. Reliability is getting the same result on repetition — favoured by quantitative methods; validity is giving a true picture — favoured by qualitative methods. 2. The list of the population from which a sample is drawn; without one, random or systematic sampling is impossible, so a non-random method such as snowball or opportunity sampling must be used. 3. Absolute poverty is lacking the basic necessities for survival; relative poverty is falling below the standard of living considered acceptable in that particular society. 4. Poor housing and diet cause poor health and educational underachievement, leading to low-paid insecure work, which reproduces the same conditions for the next generation. 5. Ethnic minority groups are disproportionately represented in lower socio-economic positions, so much of the apparent ethnic effect narrows once social class is controlled for.
+**Answers:** 1. Reliability is getting the same result on repetition — favoured by quantitative methods; validity is giving a true picture — favoured by qualitative methods. 2. The list of the population from which a sample is drawn; without one, random or systematic sampling is impossible, so a non-random method such as snowball or opportunity sampling must be used. 3. Absolute poverty is lacking the basic necessities for survival; relative poverty is falling below the standard of living considered acceptable in that particular society. 4. Poor housing and diet cause poor health and educational underachievement, leading to low-paid insecure work, which reproduces the same conditions for the next generation. 5. Because ethnicity and class interact rather than acting independently — ethnic minority groups are disproportionately represented in lower socio-economic positions, so an observed disadvantage may reflect class, ethnicity, or both, and sociologists debate how to separate the two.
