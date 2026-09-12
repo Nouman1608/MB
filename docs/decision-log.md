@@ -9498,3 +9498,32 @@ those entries).
 `2026-09-12-findings.md` that remains genuinely open. Everything else
 in that findings document is closed as of this entry. No other open
 items are currently tracked against this findings round.
+
+
+## D-189 - U29 resolved: owner decision, keep real-institution attribution (2026-09-12)
+
+**Date:** 2026-09-12
+
+**Context.** D-188 flagged U29 to Nouman as a policy call rather than
+fixing it unilaterally: `igcse-world-history-international-relations-practice.md`
+and `edexcel-igcse-world-history-paper-2-practice.md` attribute their
+invented Section A/source-based exam-practice sources to real
+institutions with fabricated dates, and the auditor explicitly asked
+for a human decision between keeping that style or re-attributing to
+clearly fictional institutions.
+
+**Decision.** Nouman chose to keep the current style: invented
+exam-practice sources continue to carry real institutional
+attribution with fabricated dates, as they already do throughout the
+source-based history and English-language practice corpus. No content
+change was requested or made -- this is a decision to leave the
+existing house style in place, not a fix.
+
+**No files changed; no validation gate run** (nothing in the repo was
+edited). This closes U29 and, with it, `docs/audit/2026-09-12-findings.md`
+in full -- every finding in that document now has either a completed
+fix (D-188) or an explicit owner decision (this entry).
+
+**Next.** No further open items are currently tracked against
+`docs/audit/2026-09-12-findings.md`. Awaiting the auditor's next
+findings drop in `docs/audit/`.
