@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 syllabusSeries: "First assessment 2026"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-environmental-systems-and-societies-ecology"
 description: "Condensed revision notes on IB Diploma Programme ESS Topic 2, Ecology -- the second-largest syllabus topic at both SL and HL -- applying the Topic 1 concepts to ecosystem structure and function."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

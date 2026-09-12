@@ -8,6 +8,9 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 order: 5
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-assessment-criteria"
 description: "Original MYP Mathematics practice questions, scenario-based with full worked answers, testing whether sample coursework evidence would meet top-band standard for each of the four assessment criteria."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

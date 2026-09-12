@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Global Politics"]
 syllabusSeries: "First assessment 2026"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-global-politics-peace-and-conflict"
 description: "Original practice questions with full worked answers applying the four core concepts to the causes, dynamics and resolution of conflict, for IB Diploma Programme Global Politics's Peace and conflict thematic study."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

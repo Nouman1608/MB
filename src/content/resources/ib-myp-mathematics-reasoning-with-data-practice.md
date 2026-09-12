@@ -9,6 +9,10 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 syllabusSeries: "From 2020, first assessment 2022"
 order: 7
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-branches-of-mathematical-study"
+    subtopic: "ib-myp-mathematics-branches-of-mathematical-study-reasoning-with-data"
 description: "Original practice questions with full worked answers on choosing statistical measures, representing data, probability, and reasoning about real-world conclusions, tied to the four MYP assessment criteria."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

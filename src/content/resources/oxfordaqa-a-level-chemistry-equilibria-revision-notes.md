@@ -8,6 +8,9 @@ boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
 syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc"
 description: "Condensed recall notes on dynamic equilibrium, Kc, Le Chatelier principle and industrial compromise for International A Level Chemistry (with the International A2 Kp extension, assessed in Unit 4, flagged separately)."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22

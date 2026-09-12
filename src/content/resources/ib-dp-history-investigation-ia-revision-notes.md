@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
 syllabusSeries: "First assessment 2028"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-world-history-internal-assessment"
 description: "Condensed revision notes on the compulsory Historical Investigation internal assessment of IB Diploma Programme History -- source selection, evaluation and synthesis -- applicable regardless of which focused, thematic or regional study a student's class covers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

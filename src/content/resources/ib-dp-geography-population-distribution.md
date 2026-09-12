@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Geography"]
 syllabusSeries: "First assessment 2019"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-geography-changing-population"
 description: "Why population is unevenly distributed, key demographic vocabulary, and how to read population pyramids and demographic data -- the compulsory Population Distribution core theme of IB Diploma Programme Geography, examined in Paper 2 for every student."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

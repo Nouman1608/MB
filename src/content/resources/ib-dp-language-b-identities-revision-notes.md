@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-b-identities"
 description: "Condensed revision notes on the compulsory Identities theme of IB Diploma Programme Language B -- vocabulary, discussion angles and receptive-skills preparation for one of the five prescribed themes."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

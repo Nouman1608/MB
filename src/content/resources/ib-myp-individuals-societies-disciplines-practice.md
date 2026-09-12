@@ -9,6 +9,11 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 syllabusSeries: "From 2014"
 order: 7
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-constituent-disciplines"
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-eassessment-topics"
 description: "Original practice questions with full worked answers on the three eAssessment subjects, their task types, and source-evaluation and extended-writing technique, for IB MYP Individuals and Societies."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

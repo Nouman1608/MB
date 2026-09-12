@@ -9,6 +9,9 @@ qualifications: ["a-level"]
 syllabusCodes: ["9620"]
 syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
 order: 1
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "oxfordaqa-a-level-chemistry-atomic-structure"
 description: "Fundamental particles, mass number and isotopes, the time-of-flight mass spectrometer, electron configuration to Z=36, and ionisation energy evidence for shell and sub-shell structure, for OxfordAQA International AS and A-level Chemistry 9620, section 3.1.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

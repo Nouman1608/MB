@@ -8,6 +8,9 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
 order: 5
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-assessment-criteria"
 description: "Original scenario-based practice questions with full worked answers testing whether sample investigative evidence would meet top-band standard for each of MYP Sciences's four assessment criteria."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

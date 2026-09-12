@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 syllabusSeries: "First assessment 2026"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-environmental-systems-and-societies-ecology"
 description: "Original practice questions with full worked answers on ecosystem structure, energy flow, nutrient cycling and ecosystem change, for Topic 2 of IB Diploma Programme Environmental Systems and Societies."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

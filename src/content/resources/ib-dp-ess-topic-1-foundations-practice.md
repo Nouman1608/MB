@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 syllabusSeries: "First assessment 2026"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-environmental-systems-and-societies-foundation"
 description: "Original practice questions with full worked answers on environmental value systems, systems thinking and sustainability, for Topic 1 of IB Diploma Programme Environmental Systems and Societies."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

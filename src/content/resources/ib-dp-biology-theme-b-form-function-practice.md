@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 syllabusSeries: "First assessment 2025"
 order: 7
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-form-function"
 description: "Original practice questions with full worked answers covering macromolecules, proteins, membrane transport, organelles, cell specialization, gas exchange and adaptation, for IB Diploma Programme Biology Theme B."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

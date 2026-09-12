@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
 syllabusSeries: "First assessment 2021"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-applications-and-interpretation-geometry-and-trigonometry"
 description: "Real-world spatial problems, triangle trigonometry, compound solids and vectors -- the strand with the largest SL-to-HL jump in IB Diploma Programme Mathematics: Applications and Interpretation, first assessment 2021, and its technology-driven approach."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

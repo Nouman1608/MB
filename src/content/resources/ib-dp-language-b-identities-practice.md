@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
 order: 5
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-b-identities"
 description: "Original comprehension-style practice questions with full worked answers on the Identities theme, plus a Paper 1 writing-task planning exercise, for IB Diploma Programme Language B."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

@@ -9,6 +9,9 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
 syllabusSeries: "From 2014"
 order: 3
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-assessment-criteria"
 description: "Exam preparation for IB Middle Years Programme Sciences's Investigation skills eAssessment task -- worth half the total available marks -- covering hypothesis formulation, data handling and evaluation, with a worked practice example."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

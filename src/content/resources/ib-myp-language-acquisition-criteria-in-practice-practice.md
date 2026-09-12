@@ -8,6 +8,9 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
 order: 5
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Original scenario-based practice questions with full worked answers testing whether sample listening, reading, speaking and writing evidence would meet top-band standard for each of MYP Language Acquisition's four assessment criteria."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

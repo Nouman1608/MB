@@ -8,6 +8,10 @@ boards: ["ocr"]
 qualifications: ["a-level"]
 syllabusCodes: ["H432"]
 syllabusSeries: "First assessment 2017 (current specification version 3.1, May 2026)"
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "ocr-a-level-chemistry-foundations-in-chemistry"
+    subtopic: "ocr-a-level-chemistry-2-1-3"
 description: "Condensed recall notes on the mole, empirical formulae, titrations, gas volumes, yield and atom economy for OCR A Level Chemistry H432."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22

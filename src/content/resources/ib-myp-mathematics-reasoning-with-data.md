@@ -9,6 +9,10 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 syllabusSeries: "From 2020, first assessment 2022"
 order: 6
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-branches-of-mathematical-study"
+    subtopic: "ib-myp-mathematics-branches-of-mathematical-study-reasoning-with-data"
 description: "Statistics, probability and drawing conclusions from data -- one of four branches of the IB Middle Years Programme Mathematics framework, tied to the four MYP assessment criteria."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

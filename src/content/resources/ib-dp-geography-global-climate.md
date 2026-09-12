@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Geography"]
 syllabusSeries: "First assessment 2019"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-geography-global-climate"
 description: "Vulnerability, resilience, adaptation and mitigation -- the compulsory Global Climate core theme of IB Diploma Programme Geography, examined in Paper 2 for every student regardless of which options a school teaches."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

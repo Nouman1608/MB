@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
 syllabusSeries: "First assessment 2021"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-a-literature-intertextuality"
 description: "Condensed revision notes on IB Diploma Programme Language A: Literature's Intertextuality component -- how works of literature echo, respond to or subvert each other -- with a worked comparison approach and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

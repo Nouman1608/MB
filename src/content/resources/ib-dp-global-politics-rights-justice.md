@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Global Politics"]
 syllabusSeries: "First assessment 2026"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-global-politics-rights-and-justice"
 description: "How rights are claimed, contested and enforced, examined through power, sovereignty, legitimacy and interdependence -- one of the three compulsory thematic studies of IB Diploma Programme Global Politics, first assessment 2026."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

@@ -9,6 +9,9 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Design"]
 syllabusSeries: "From 2014"
 order: 3
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-design-assessment-criteria"
 description: "Condensed revision notes on IB MYP Design's design cycle -- inquiring and analysing, developing ideas, creating the solution, evaluating -- and how its four stages map directly onto the four assessment criteria."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

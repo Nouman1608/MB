@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
 syllabusSeries: "First assessment 2021"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
 description: "Condensed revision notes on the Statistics and probability strand of IB Diploma Programme Mathematics: Applications and Interpretation -- one of the course's two largest strands by teaching hours -- with technology-use guidance and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

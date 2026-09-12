@@ -9,6 +9,10 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 syllabusSeries: "From 2020, first assessment 2022"
 order: 3
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-branches-of-mathematical-study"
+    subtopic: "ib-myp-mathematics-branches-of-mathematical-study-reasoning-with-data"
 description: "Condensed revision notes on the Reasoning with data branch of IB Middle Years Programme Mathematics -- statistics, probability and drawing conclusions from data -- with worked examples tied to the four MYP assessment criteria."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

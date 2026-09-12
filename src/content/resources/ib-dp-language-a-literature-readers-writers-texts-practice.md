@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
 syllabusSeries: "First assessment 2021"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-a-literature-readers-writers-texts"
 description: "Original practice questions with full worked answers on narrative voice, form and how craft choices shape reader interpretation, for the Readers, Writers and Texts component of IB Diploma Programme Language A: Literature."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

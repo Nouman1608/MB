@@ -9,6 +9,10 @@ qualifications: ["a-level"]
 syllabusCodes: ["H432"]
 syllabusSeries: "First assessment 2017 (current specification version 3.1, May 2026)"
 order: 1
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "ocr-a-level-chemistry-foundations-in-chemistry"
+    subtopic: "ocr-a-level-chemistry-2-1-1"
 description: "Isotopes, atomic structure from atomic and mass number, relative isotopic and atomic mass, mass spectrometry, and relative molecular/formula mass, for OCR A Level Chemistry A H432, Module 2.1.1."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

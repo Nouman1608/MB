@@ -9,6 +9,9 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
 syllabusSeries: "From 2020"
 order: 3
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-eassessment-structure"
 description: "Task-by-task exam preparation for IB Middle Years Programme Language Acquisition's two eAssessment components -- the on-screen listening/reading/writing paper and the separately assessed speaking examination -- with a proficiency-phase checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

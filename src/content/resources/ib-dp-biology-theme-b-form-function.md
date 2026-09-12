@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 syllabusSeries: "First assessment 2025"
 order: 6
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-form-function"
 description: "The full content of IB Diploma Programme Biology's Theme B -- carbohydrates and lipids, proteins, membranes, organelles, cell specialization, gas exchange and transport, muscle and motility, and adaptation to environment -- with HL-only content marked."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Geography"]
 syllabusSeries: "First assessment 2019"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-geography-changing-population"
 description: "Condensed revision notes on IB Diploma Programme Geography's compulsory core theme, Population distribution -- changing population, with key vocabulary, case-study guidance and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

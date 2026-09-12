@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 syllabusSeries: "First assessment 2026"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-environmental-systems-and-societies-ecology"
 description: "Ecosystem structure, energy flow, nutrient cycling and ecosystem change -- IB Diploma Programme ESS Topic 2, the second-largest syllabus topic at both SL and HL, and how it applies Topic 1's systems concepts to real ecosystems."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

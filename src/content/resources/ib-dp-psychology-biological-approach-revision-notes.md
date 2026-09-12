@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-biological-approach"
 description: "Condensed revision notes on IB Diploma Programme Psychology's compulsory core Biological approach -- physiology, neurochemistry and genetics -- with evaluation prompts and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
 syllabusSeries: "First assessment 2021"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
 description: "Original practice questions with full worked answers applying close-reading technique to both literary and non-literary texts, for the Readers, Writers and Texts component of IB Diploma Programme Language A: Language and Literature."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

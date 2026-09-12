@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
 syllabusSeries: "First assessment 2021"
 order: 5
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-analysis-and-approaches-functions"
 description: "Original practice questions with full worked answers on domain and range, composite and inverse functions, transformations, and equations combining exponentials and logarithms, for the Functions strand of IB Diploma Programme Mathematics: Analysis and Approaches."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

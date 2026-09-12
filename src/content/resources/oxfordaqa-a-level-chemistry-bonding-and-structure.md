@@ -9,6 +9,9 @@ qualifications: ["a-level"]
 syllabusCodes: ["9620"]
 syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
 order: 3
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "oxfordaqa-a-level-chemistry-bonding"
 description: "Ionic, covalent and dative covalent, and metallic bonding, and the four crystal structure types -- ionic, metallic, macromolecular and molecular -- with named example structures, for OxfordAQA International AS and A-level Chemistry 9620, sections 3.1.3.1 to 3.1.3.4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

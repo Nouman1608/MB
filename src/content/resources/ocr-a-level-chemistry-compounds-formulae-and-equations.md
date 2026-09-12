@@ -9,6 +9,10 @@ qualifications: ["a-level"]
 syllabusCodes: ["H432"]
 syllabusSeries: "First assessment 2017 (current specification version 3.1, May 2026)"
 order: 2
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "ocr-a-level-chemistry-foundations-in-chemistry"
+    subtopic: "ocr-a-level-chemistry-2-1-2"
 description: "Writing formulae of ionic compounds from ionic charges, recall of named polyatomic ions, and constructing balanced chemical and ionic equations with state symbols, for OCR A Level Chemistry A H432, Module 2.1.2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

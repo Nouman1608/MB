@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
 syllabusSeries: "First assessment 2028"
 order: 5
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-world-history-internal-assessment"
 description: "Original practice questions with full worked answers on refining inquiry questions, evaluating sources, and structuring the written response, for the Historical Investigation internal assessment of IB Diploma Programme History."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

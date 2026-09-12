@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
 syllabusSeries: "First assessment 2021"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-applications-and-interpretation-statistics-and-probability"
 description: "Original practice questions with full worked answers covering descriptive statistics, probability, distributions and inferential statistics, for IB Diploma Programme Mathematics: Applications and Interpretation."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

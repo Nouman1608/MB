@@ -9,6 +9,11 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 syllabusSeries: "From 2014"
 order: 6
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-constituent-disciplines"
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-eassessment-topics"
 description: "The discipline options IB MYP Individuals and Societies schools choose from, and the three eAssessment subjects -- history, geography, integrated humanities -- students can be examined in, with the eAssessment's three task types explained."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

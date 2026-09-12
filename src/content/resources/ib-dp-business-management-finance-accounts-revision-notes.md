@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 syllabusSeries: "First assessment 2024"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-business-unit-3"
 description: "Condensed revision notes on IB Diploma Programme Business Management Unit 3 -- sources of finance, costs and revenues, final accounts, ratio analysis, cash flow and investment appraisal -- with worked calculation reminders and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

@@ -9,6 +9,9 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
 syllabusSeries: "From 2014"
 order: 5
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-eassessment-structure"
 description: "The discrete, modular and integrated course models IB MYP Sciences schools choose between, and the biology, chemistry and physics content scope its eAssessment can draw on regardless of which model a school uses."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

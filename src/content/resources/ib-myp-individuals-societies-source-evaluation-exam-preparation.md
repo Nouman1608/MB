@@ -9,6 +9,9 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 syllabusSeries: "From 2014"
 order: 3
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-individuals-and-societies-eassessment-topics"
 description: "Exam preparation for IB Middle Years Programme Individuals and Societies's Investigating task -- how to evaluate a source's value and limitations, and compare two sources -- with a worked practice example and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

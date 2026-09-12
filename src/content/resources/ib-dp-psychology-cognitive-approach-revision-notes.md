@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
 syllabusSeries: "First assessment 2019"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-psychology-cognitive-approach"
 description: "Condensed revision notes on IB Diploma Programme Psychology's compulsory core Cognitive approach -- mental processes such as memory, perception and thinking -- with evaluation prompts and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

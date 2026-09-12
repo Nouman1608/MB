@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
 syllabusSeries: "First assessment 2021"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
 description: "How a writer's choices of language, form and structure shape meaning across literary and non-literary texts, and how a reader actively constructs interpretation -- one of three equally-weighted syllabus components of IB Diploma Programme Language A: Language and Literature, first assessment 2021."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

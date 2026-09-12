@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 syllabusSeries: "First assessment 2025"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-form-function"
 description: "Condensed revision notes on IB Diploma Programme Biology's Theme B -- Form and function -- carbohydrates and lipids, proteins, membranes, organelles, cell specialization, gas exchange, transport and adaptation -- with HL-only content marked and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

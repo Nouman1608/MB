@@ -9,6 +9,11 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
 syllabusSeries: "From 2020"
 order: 3
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-eassessment-structure"
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Condensed revision notes on IB MYP Language Acquisition's emergent/capable/proficient phases and its four independently-weighted assessment criteria -- listening, reading, speaking, writing."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

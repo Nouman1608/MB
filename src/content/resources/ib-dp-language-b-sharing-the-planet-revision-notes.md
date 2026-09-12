@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-b-sharing-the-planet"
 description: "Condensed revision notes on IB Diploma Programme Language B's Sharing the planet theme -- environment, human rights, peace and conflict, equality, globalization, ethics, urban and rural environments -- with vocabulary-building and comprehension-practice guidance."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

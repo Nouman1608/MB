@@ -9,6 +9,10 @@ qualifications: ["a-level"]
 syllabusCodes: ["H432"]
 syllabusSeries: "First assessment 2017 (current specification version 3.1, May 2026)"
 order: 4
+syllabusTopics:
+  - qualification: "a-level"
+    topic: "ocr-a-level-chemistry-foundations-in-chemistry"
+    subtopic: "ocr-a-level-chemistry-2-1-4"
 description: "Common acids and alkalis, strong versus weak acid dissociation, neutralisation reactions, standard solution preparation, acid-base titration technique, and titration calculations, for OCR A Level Chemistry A H432, Module 2.1.4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

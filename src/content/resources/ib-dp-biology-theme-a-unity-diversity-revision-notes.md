@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 syllabusSeries: "First assessment 2025"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-unity-diversity"
 description: "Condensed revision notes on IB Diploma Programme Biology's Theme A -- Unity and diversity -- water, nucleic acids, cell structure, classification, evolution and conservation -- with HL-only content marked and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

@@ -9,6 +9,11 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
 syllabusSeries: "From 2020"
 order: 7
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-eassessment-structure"
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "Original practice questions with full worked answers on matching revision to proficiency phase, the four criteria's equal weighting, and the compulsory-status exception, for IB MYP Language Acquisition."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

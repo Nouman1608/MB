@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 syllabusSeries: "First assessment 2026"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-environmental-systems-and-societies-foundation"
 description: "Perspectives, systems and sustainability -- IB Diploma Programme ESS Topic 1, the foundation unit the specification explicitly revisits throughout the course, first assessment 2026."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

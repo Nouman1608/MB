@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
 syllabusSeries: "First assessment 2021"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-mathematics-analysis-and-approaches-calculus"
 description: "Condensed revision notes on the Calculus strand of IB Diploma Programme Mathematics: Analysis and Approaches -- the largest strand at HL -- covering differentiation, integration and their applications, with worked reminders and self-test questions."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

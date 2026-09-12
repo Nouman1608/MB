@@ -8,6 +8,9 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 order: 4
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-mathematics-assessment-criteria"
 description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Mathematics's four assessment criteria -- Knowing and understanding, Investigating patterns, Communicating, and Applying mathematics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
 syllabusSeries: "First assessment 2021"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-a-literature-readers-writers-texts"
 description: "Close literary analysis of narrative voice, form and craft, and how a writer's choices shape what a reader constructs from a text -- one of three equally-weighted syllabus components of IB Diploma Programme Language A: Literature, first assessment 2021."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

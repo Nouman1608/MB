@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 syllabusSeries: "First assessment 2024"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-business-unit-4"
 description: "Original practice questions with full worked answers covering marketing planning, sales forecasting, market research, the seven Ps and international marketing, for IB Diploma Programme Business Management Unit 4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Global Politics"]
 syllabusSeries: "First assessment 2026"
 order: 2
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-global-politics-peace-and-conflict"
 description: "The causes, dynamics and resolution of political conflict, examined through power, sovereignty, legitimacy and interdependence -- one of the three compulsory thematic studies of IB Diploma Programme Global Politics, first assessment 2026."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

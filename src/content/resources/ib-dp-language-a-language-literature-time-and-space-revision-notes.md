@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
 syllabusSeries: "First assessment 2021"
 order: 3
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-a-language-and-literature-time-and-space"
 description: "Condensed revision notes on the Time and Space syllabus component of IB Diploma Programme Language A: Language and Literature -- context of production and reception across literary and non-literary texts."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03

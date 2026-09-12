@@ -9,6 +9,11 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Language Acquisition"]
 syllabusSeries: "From 2020"
 order: 6
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-eassessment-structure"
+  - qualification: "ib-myp"
+    topic: "ib-myp-language-acquisition-assessment-criteria"
 description: "The emergent/capable/proficient proficiency phases and the four independently-weighted assessment criteria -- listening, reading, speaking, writing -- for IB Middle Years Programme Language Acquisition, from 2020."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

@@ -9,6 +9,9 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
 syllabusSeries: "From 2014"
 order: 6
+syllabusTopics:
+  - qualification: "ib-myp"
+    topic: "ib-myp-sciences-eassessment-structure"
 description: "Original practice questions with full worked answers on the discrete/modular/integrated course models, eAssessment content scope, and revision-planning strategy, for IB MYP Sciences."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

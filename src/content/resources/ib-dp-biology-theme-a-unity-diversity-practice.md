@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 syllabusSeries: "First assessment 2025"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-unity-diversity"
 description: "Original practice questions with full worked answers covering water, nucleic acids, cell structure, evolution and conservation of biodiversity, for IB Diploma Programme Biology Theme A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

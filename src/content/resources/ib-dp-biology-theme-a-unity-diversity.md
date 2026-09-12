@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Biology"]
 syllabusSeries: "First assessment 2025"
 order: 5
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-biology-unity-diversity"
 description: "The full content of IB Diploma Programme Biology's Theme A -- water, nucleic acids, origins of cells, cell structure, viruses, classification, evolution and speciation, and conservation of biodiversity -- with HL-only content marked."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06

@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 syllabusSeries: "First assessment 2024"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-business-unit-4"
 description: "Condensed revision notes on IB Diploma Programme Business Management Unit 4 -- marketing planning, sales forecasting, market research and the seven Ps of the marketing mix."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02

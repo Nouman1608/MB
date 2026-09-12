@@ -9,6 +9,9 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
 order: 4
+syllabusTopics:
+  - qualification: "ib-dp"
+    topic: "ib-dp-language-b-identities"
 description: "The nature of the self and what it means to be human -- lifestyles, health and well-being, beliefs, subcultures, and language and identity -- one of five compulsory themes of IB Diploma Programme Language B, first assessment 2020, examined through unseen material on Paper 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
