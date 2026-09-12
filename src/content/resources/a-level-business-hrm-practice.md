@@ -33,7 +33,7 @@ and [revision notes](/resources/a-level-business-hrm-revision-notes/)
 
 **1.** State two stages of the recruitment and selection process. **[2]**
 
-**2.** Distinguish between financial and non-financial methods of motivation, giving one example of
+**2.** Explain the difference between financial and non-financial methods of motivation, giving one example of
 each. **[2]**
 
 **3.** Identify the five functions of management identified by this topic. **[3]**

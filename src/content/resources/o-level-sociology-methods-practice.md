@@ -83,7 +83,7 @@ Ethical problem with covert research: participants **cannot give informed consen
 **(f)** A **pilot study** is a **small-scale trial run** of the research method before the main study, used to identify problems with wording, timing or procedure [2]. Any two: **informed consent**, **confidentiality**, **protection from harm**, **no deception**, **right to withdraw** [1] [1].
 
 **2. (a) Primary socialisation** takes place in **early childhood**, where the child learns basic norms, values and language; the main agency is the **family** [2]. **Secondary socialisation** takes place **later, beyond the family**, teaching the norms of wider society; the main agency is the **education system** [2].
-Three agencies of secondary socialisation: the **education system**, through both the formal curriculum and the hidden curriculum of punctuality and obedience [1]; **peer groups**, which exert pressure to conform and confer status [1]; the **media**, which presents role models and shapes expectations [1].
+Three agencies of secondary socialisation: the **education system**, through both the formal curriculum and the hidden curriculum of punctuality and obedience [1]; **peer groups**, which exert pressure to conform and confer status [1]; the **media**, which presents role models and shapes expectations [1]; plus one further mark for a developed explanation of how any one of these three actually operates, rather than just naming it [1].
 
 **(b) Ascribed status** is **fixed at birth**, e.g. **sex** [2]. **Achieved status** is **earned through a person's own actions**, e.g. becoming a doctor [2].
 

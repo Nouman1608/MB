@@ -37,8 +37,9 @@ WORK**
 
 - 3.1.1 Economic foundations — the fundamental economic problem of
 scarcity, choice and opportunity cost
-- 3.1.2 Resource allocation — how markets, planned and mixed economies
-allocate resources
+- 3.1.2 Resource allocation — how the market mechanism allocates
+resources, economic sectors, and specialisation, division of labour
+and exchange
 - 3.1.3 How prices are determined — the interaction of demand and supply
 in determining market price
 - 3.1.4 Production, costs, revenue and profit — how firms' production
@@ -74,7 +75,7 @@ OxfordAQA International GCSE Economics (9214) qualification page —
 
 ## The economic problem behind markets
 
-Markets exist because resources are scarce while wants are unlimited, so a mechanism is needed to decide what is produced, how, and for whom. In a market economy that mechanism is price; in a planned economy it is the state; most economies are mixed.
+Markets exist because resources are scarce while wants are unlimited, so a mechanism is needed to decide what is produced, how, and for whom. In a market economy that mechanism is price; in a planned economy it is the state; most economies are mixed. (This background distinction between market, planned and mixed economies sits outside 9214's own numbered sub-topics — it is context for why the price mechanism matters, not syllabus content in its own right.)
 
 Every choice carries an **opportunity cost** — the next best alternative given up.
 

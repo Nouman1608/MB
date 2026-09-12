@@ -26,7 +26,7 @@ May/June 2028.
 ## Where this fits in 9245
 
 Paper 1 focuses on international relations, split into a source-based
-section and a knowledge-based section. It pairs with Paper 2 Societies
+section and a knowledge-based section. It pairs with Paper 2, Studies
 in Change, which instead traces change over a longer historical
 period. Paper 1 names six options in total, and a candidate studies
 exactly two: one from a choice of two in Section A, and one from a

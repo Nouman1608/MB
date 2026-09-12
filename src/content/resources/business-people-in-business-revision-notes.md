@@ -116,9 +116,9 @@ plan to cover all four sub-topics rather than assuming any part is optional.
 ## Self-test
 
 1. What must be addressed before higher-level needs will motivate an employee, per Maslow?
-2. Name two financial and two non-financial motivation methods.
-3. Distinguish dismissal from redundancy.
-4. Name the three types of training and what each means.
+2. Identify two financial and two non-financial motivation methods.
+3. Explain the difference between dismissal and redundancy.
+4. Identify the three types of training and what each means.
 5. What leadership style might suit a business needing fast decisions in a crisis?
 
 **Answers:** 1. Lower-level needs (pay, security). 2. Financial: wage/salary, bonus. Non-financial:

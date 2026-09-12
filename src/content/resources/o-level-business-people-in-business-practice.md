@@ -39,7 +39,7 @@ Related: [People in Business revision notes](/resources/business-people-in-busin
 
 **4.** Explain **two** benefits and **two** limitations of internal recruitment compared with external recruitment. **[8]**
 
-**5.** Distinguish between dismissal and redundancy, giving one example situation for each. **[6]**
+**5.** Explain how dismissal and redundancy differ, giving one example situation for each. **[6]**
 
 **6.** Explain **two** barriers to effective communication in a business, and **one** way each could be reduced. **[8]**
 
@@ -49,7 +49,7 @@ Related: [People in Business revision notes](/resources/business-people-in-busin
 
 **8.** Explain Maslow's hierarchy of needs, and use it to justify why a business might introduce non-financial motivation methods once pay is no longer a source of dissatisfaction. **[8]**
 
-**9.** Distinguish between on-the-job and off-the-job training, giving one benefit and one limitation of each. **[8]**
+**9.** Explain how on-the-job and off-the-job training differ, giving one benefit and one limitation of each. **[8]**
 
 **10.** Explain how span of control and chain of command differ between a tall and a short (flat) organisational structure. **[6]**
 

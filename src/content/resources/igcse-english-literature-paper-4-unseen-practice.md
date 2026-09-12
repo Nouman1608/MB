@@ -151,3 +151,10 @@ analytical point with a statement of effect and personal response
 ("...and this makes me feel/think..."), since this is the single most
 reliable way to convert accurate technical observation into the AO4
 marks that are otherwise easy to leave unclaimed.
+
+## Official syllabus
+
+Cambridge IGCSE Literature in English (0475) syllabus for exams in
+2026 — the same syllabus cited by the [Paper 4 Unseen study
+guide](/resources/igcse-english-literature-paper-4-unseen/) —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf).

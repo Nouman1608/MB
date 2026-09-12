@@ -81,3 +81,10 @@ Both Paper 2 and Paper 3 draw on the same rotating set-text list, which changes 
 6. Why doesn't open book substitute for AO2 and AO4?
 
 **Answers:** 1. 45 minutes, 25 marks. 2. Permits a clean copy of the set text with brief intro/conclusion and foot/end notes (unused during the exam); does not permit personal annotations, highlighting, underlining, or editions with extensive study notes or facing-page translations. 3. One text for Paper 3, compared with two for Paper 2. 4. AO1 (knowledge of content, via detail and quotation) — you can locate and check quotations rather than relying purely on memory. 5. Paper 4 Unseen (1 hour 15 minutes, 25 marks, critical commentary on unseen poetry or prose) or Component 5 Coursework (25 marks, two portfolio assignments of 600–1200 words each, on different texts). 6. AO2 and AO4 require genuine understanding and a considered personal response worked out in advance — having the text available does not provide understanding or a personal response, only access to the words on the page.
+
+## Official syllabus
+
+Cambridge IGCSE Literature in English (0475) syllabus for exams in
+2026 — the same syllabus cited by the [Paper 3 Drama (Open Text) study
+guide](/resources/igcse-english-literature-paper-3-drama-open-text/) —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf).

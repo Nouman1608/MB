@@ -230,7 +230,7 @@ reactions with hydrogen and thermal stability of the hydrogen halides
 - Reducing power of the halide ions increases down the group
 - AgNO₃/NH₃ test: precipitate colours and ammonia solubility
 - Concentrated H₂SO₄ test: Cl⁻ (fumes only), Br⁻ (fumes + SO₂ + Br₂),
-I⁻ (fumes + H₂S + I₂)
+I⁻ (fumes + a mixture of SO₂, S and H₂S — the deepest reduction, not H₂S alone)
 - Chlorine + cold dilute NaOH → chlorate(I); chlorine + hot concentrated
 NaOH → chlorate(V); both disproportionations
 - HOCl and ClO⁻ as the active species in water purification

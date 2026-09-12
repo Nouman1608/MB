@@ -174,17 +174,18 @@ just named.
 ---
 ## Answers: Section C
 
-**A9 (a)** [6 marks]
+**A9 (a)** [6 marks — up to 2 for the method, up to 2 marks per justification, best two justifications credited]
 
 A suitable method would be an **anonymous self-completion questionnaire
 distributed to all pupils**, possibly followed by a small number of
-unstructured follow-up interviews [1] [1]. Justification: the
+unstructured follow-up interviews [1] [1]. Justification — two from: the
 questionnaire is **anonymous, so pupils are more likely to admit to
 being bullied or bullying than in a face-to-face interview** [1] [1]; it
 reaches a **large sample quickly, giving representative quantitative
 data** on how widespread bullying is [1] [1]; follow-up interviews then
 provide the **depth and validity** needed to understand pupils'
-experiences in their own words [1] [1].
+experiences in their own words [1] [1]. Credit any two justifications
+that are explained rather than just named.
 
 **A9 (b)** [6 marks — up to 3 marks per issue]
 

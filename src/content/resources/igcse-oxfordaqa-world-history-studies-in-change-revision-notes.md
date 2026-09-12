@@ -54,12 +54,19 @@ and one modern example. This spread lets you answer questions about
 the pace of change (did it speed up, slow down, or stay steady?) with
 real evidence rather than only recent examples.
 
-## The "how far" question type
+## The question types within each section
 
-Both sections use "how far" or "assess the extent" phrasing, which
-signals a **weighed judgement across multiple factors**, not a
-single-factor narrative. For a Section B question on a named factor
-(e.g. war, or the role of an individual), structure the answer as:
+Each section builds from short recall to a single extended-response
+question, not "how far" phrasing throughout. Expect: a "give three
+changes/developments" recall item, an "explain why one turning point/
+factor..." item, an "explain two reasons why..." item, and finally
+one extended-response question per section that does use "how far"
+(or a similarly weighed-judgement wording such as an inverted-commas
+statement to agree or disagree with) — it is only this final question
+that signals a **weighed judgement across multiple factors**, not a
+single-factor narrative. For that extended-response question on a
+named factor (e.g. war, or the role of an individual), structure the
+answer as:
 
 1. Explain the named factor's specific contribution, with an example.
 2. Weigh it against at least one other factor (science, government,
@@ -141,8 +148,8 @@ reaching a supported judgement on how far it explains the change
 overall. 4. Because change can include setbacks or slow periods, not
 only improvement — the specification expects this more sophisticated
 view, particularly in the technology and medicine themes. 5. Because
-this is a brand-new qualification with limited past papers, so its own
-specimen materials are the safest guide to actual question style and
+this is a brand-new qualification with no live past papers yet (first
+examined May/June 2028), so its own specimen materials are the safest guide to actual question style and
 content emphasis.
 
 ## Related resources

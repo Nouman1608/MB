@@ -31,7 +31,7 @@ Related: [Marketing study guide](/resources/a-level-business-marketing/) and
 
 ## Section A
 
-**1.** Distinguish between product orientation and market orientation. **[2]**
+**1.** Explain the difference between product orientation and market orientation. **[2]**
 
 **2.** Identify the three named methods of market segmentation. **[3]**
 

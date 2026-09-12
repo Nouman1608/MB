@@ -34,7 +34,7 @@ Learn both perspectives' claim about the *same* function (e.g. role allocation) 
 ## Differential achievement — keep the three variables separate
 
 - **Class** — material/economic explanations (cost of resources) vs cultural explanations (Bourdieu's cultural capital; restricted/elaborated speech codes).
-- **Gender** — historical male underachievement relative to girls; laddish subcultures; explanations for girls' improved performance.
+- **Gender** — boys' current underachievement relative to girls (the pattern since the late 1980s); laddish subcultures; explanations for girls' earlier, historical underachievement and later improvement.
 - **Ethnicity** — material deprivation vs in-school processes (teacher labelling, setting/streaming).
 
 Each variable has its own explanation set, even where a question asks you to compare across them.

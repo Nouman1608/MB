@@ -182,7 +182,7 @@ Topic 1.
 
 ## Self-test
 
-1. Name the three motivation theorists specified and their core idea.
+1. Identify the three motivation theorists specified and their core idea.
 2. What is the difference between dismissal and redundancy?
 3. List the three leadership styles and one feature of each.
 4. What does "span of control" mean, and how does it differ between

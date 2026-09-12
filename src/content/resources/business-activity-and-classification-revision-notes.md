@@ -106,6 +106,6 @@ Confusing needs and wants, or treating scarcity as simply "not enough money" rat
 2. Classify: an oil refinery, a fishing boat, a call centre.
 3. Why does a new business prioritise survival over profit?
 4. Give two ways to add value without raising the price.
-5. Name one conflict between shareholders and employees.
+5. Identify one conflict between shareholders and employees.
 
 **Answers:** 1. $2.10 − $0.60 = **$1.50**. 2. Refinery = secondary; fishing boat = primary; call centre = tertiary. 3. Cash flow is tight and failure risk is highest early on; without survival no other objective is achievable. 4. Any two: branding, improved quality, better service, convenience, attractive packaging. 5. Shareholders want costs minimised for higher dividends; employees want higher wages — these pull directly against each other.

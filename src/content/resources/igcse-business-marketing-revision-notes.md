@@ -140,8 +140,8 @@ and cons generically.
 
 ## Self-test
 
-1. Distinguish niche from mass marketing.
-2. Name the four stages of the product life cycle.
+1. Explain the difference between niche and mass marketing.
+2. Identify the four stages of the product life cycle.
 3. Is the PED formula assessed on this syllabus?
 4. Why would penetration pricing suit a mass-market product better than a niche one?
 5. Give two examples of methods a business could use to overcome barriers to entering foreign markets.

@@ -34,17 +34,20 @@ settled.
 
 Because this component includes unseen sources in the exam itself, over-
 memorising narrative detail (as if it were a second Depth Study) is a
-misdirection of revision time. The actual skill being tested is
-**evaluating an unfamiliar source using contextual knowledge**, not
-recalling a fixed sequence of events. Revise the background narrative
-as *context that supports source evaluation*, not as content to recall
+misdirection of revision time. The actual skill tested by the source
+question is **cross-referencing** — identifying specific points where
+two sources agree and specific points where they disagree — not
+judging which source is individually "more useful" or "more reliable."
+Comparing the usefulness of two sources is the house style of other
+boards' papers, not this one. Revise the background narrative as
+*context that supports cross-referencing*, not as content to recall
 for its own sake.
 
-**Weak vs strong on source usefulness:**
+**Weak vs strong on the cross-referencing question:**
 
 | Weak | Strong |
 |---|---|
-| Describes what the source says, then asserts it is useful "because it gives detail" | Evaluates origin, purpose and content against the specific enquiry named in the question, using contextual knowledge to judge reliability |
+| Describes what each source says separately, then asserts one is "more useful" or "more reliable" than the other | Identifies specific points of agreement and specific points of disagreement between the two sources, using contextual knowledge to explain why |
 
 ## The Breadth Study tests change over time, not a list of events
 

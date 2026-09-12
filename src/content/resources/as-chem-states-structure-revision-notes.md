@@ -68,10 +68,10 @@ Gases behave most ideally at **low pressure and high temperature**. Gases with l
 |---|---|---|---|---|---|
 | **Giant ionic** | Ions | Strong electrostatic attraction | High | Only molten/aqueous | Often soluble in water |
 | **Simple molecular** | Molecules | **Weak intermolecular forces only** | Low | No | Depends on polarity — "like dissolves like": non-polar molecules dissolve in non-polar solvents, polar molecules (e.g. those that hydrogen bond) can dissolve in water |
-
-**Ice is a special case** worth naming: it's held together by **hydrogen bonding** rather than just van der Waals forces, giving it an unusually open structure — which is why ice is less dense than liquid water and floats.
 | **Giant covalent** | Atoms | Many strong covalent bonds | Very high | No (except graphite) | Insoluble |
 | **Giant metallic** | Ions + delocalised electrons | Attraction of ions to electron sea | High | Yes, solid and molten | Insoluble |
+
+**Ice is a special case** worth naming: it's held together by **hydrogen bonding** rather than just van der Waals forces, giving it an unusually open structure — which is why ice is less dense than liquid water and floats.
 
 ## The rule that answers most questions
 

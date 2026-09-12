@@ -160,3 +160,10 @@ And in every paragraph, check that a claim about the play is followed
 by evidence, analysis of dramatic method, and your own evaluation of
 its effect — leaving out that last step is the single most common way
 otherwise strong answers cap their own mark.
+
+## Official syllabus
+
+Cambridge IGCSE Literature in English (0475) syllabus for exams in
+2026 — the same syllabus cited by the [Paper 2 Drama study
+guide](/resources/igcse-english-literature-paper-2-drama/) —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697163-2026-syllabus.pdf).

@@ -59,7 +59,7 @@ and [practice questions](/resources/a-computer-science-data-representation-pract
 instead
 - 1.2 Multimedia – Graphics, Sound — how images and sound are
 represented digitally, including the effect of resolution, colour
-depth, sample rate and sample resolution on file size and quality, and
+depth, sampling rate and sampling resolution on file size and quality, and
 justifying a choice between a bitmap image and a vector graphic for a
 given use
 - 1.3 Compression — why data compression is needed, and the difference
@@ -74,12 +74,12 @@ syllabus requires it — closes most of the gap here, and a small number
 of careless arithmetic slips is a far more common cause of lost marks
 on this sub-topic than any genuine conceptual misunderstanding. For 1.2, practise
 calculating file sizes from given parameters (resolution × colour
-depth for images; sample rate × sample resolution × duration for
+depth for images; sampling rate × sampling resolution × duration for
 sound) and be ready to explain, in words, how increasing any one of
 those parameters trades higher quality for larger file size — this
 explanatory skill is tested as often as the calculation itself. For
 1.3, know a specific, real compression method for both lossy (such as
-reducing colour depth or sample rate) and lossless (such as run-length
+reducing colour depth or sampling rate) and lossless (such as run-length
 encoding) compression, since "describe how a file could be compressed"
 questions expect a genuine mechanism, not just the general concept
 that "compression makes files smaller." Being able to state the
@@ -112,9 +112,9 @@ Increasing either the resolution or the colour depth increases quality but also 
 proportionally — a question that asks you to calculate the effect of doubling resolution should
 show the file size roughly quadrupling (since both width and height double), not merely doubling.
 
-**Sound file size** = sample rate (samples per second) × sample resolution (bits per sample) ×
-duration (seconds). A higher sample rate captures the waveform more accurately (closer to the
-original analogue sound) and a higher sample resolution captures more possible amplitude values per
+**Sound file size** = sampling rate (samples per second) × sampling resolution (bits per sample) ×
+duration (seconds). A higher sampling rate captures the waveform more accurately (closer to the
+original analogue sound) and a higher sampling resolution captures more possible amplitude values per
 sample — both trade higher audio quality for a larger file.
 
 ## Lossy versus lossless compression
@@ -122,7 +122,7 @@ sample — both trade higher audio quality for a larger file.
 Lossless compression (such as run-length encoding, which replaces repeated sequences of the same
 value with a shorter code representing the value and its repeat count) allows the original file to
 be reconstructed exactly. Lossy compression (such as reducing colour depth in an image, or reducing
-sample rate in audio) permanently discards some information to achieve a smaller file, trading a
+sampling rate in audio) permanently discards some information to achieve a smaller file, trading a
 small, often imperceptible loss in quality for a significantly smaller file size. Knowing which
 category a given real-world format or technique falls into — and being able to justify why — is
 tested as directly as the underlying calculations.

@@ -18,11 +18,12 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
-> **These are original questions written for Marlbridge**, in the style and at the
-> standard of IB DP Geography Paper 2. They are **not** reproduced IB past-paper
-> questions -- the International Baccalaureate Organization holds copyright in its
-> own papers. Use these alongside official past papers available through your
-> school or IB's own resources.
+> **These are original questions written for Marlbridge**, for revision and
+> practice on this content. They are **not** reproduced past-paper questions,
+> and they do **not** replicate the exam's exact structure, question count or
+> mark tariffs -- the International Baccalaureate Organization holds copyright
+> in its own papers. Use these alongside the official past papers available
+> through your school or the IB store.
 
 Related: [Population distribution study guide](/resources/ib-dp-geography-population-distribution/) and
 [revision notes](/resources/ib-dp-geography-population-distribution-revision-notes/).

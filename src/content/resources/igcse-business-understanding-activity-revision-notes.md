@@ -100,8 +100,8 @@ Measured by **number of employees, capital employed, value of output, or market 
 ## Self-test
 
 1. Define added value and give two ways to increase it.
-2. Distinguish unlimited from limited liability.
-3. Name three stakeholder groups and one conflict between two of them.
+2. Explain the difference between unlimited and limited liability.
+3. Identify three stakeholder groups and one conflict between two of them.
 4. What is the divorce of ownership from control, and where does it arise?
 5. Give three ways of measuring business size and one limitation of using employees alone.
 

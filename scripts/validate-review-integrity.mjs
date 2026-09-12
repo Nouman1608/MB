@@ -22,6 +22,17 @@
  *       these must not be labelled reviewed without evidence, and this
  *       validator applies the identical rule to every resourceType, so
  *       there is no separate, weaker path for these two.
+ *   [8] `reviewer` must not equal `author` (self-review is not review).
+ *       D-166 (2026-09-11) removed 135 such self-review fields, but that
+ *       fix ran as a one-off script scoped to src/content/resources/ only
+ *       and never re-ran as part of this permanent gate -- E569
+ *       (2026-09-12 audit) found the same self-review pattern surviving
+ *       in src/content/articles/, which this validator already reads for
+ *       [1]-[3] but had no rule actually checking author-vs-reviewer
+ *       equality on. Rule [8] closes that gap permanently, across both
+ *       collections this validator already loops over, so a future
+ *       self-review field cannot again slip past silently in whichever
+ *       collection nobody happened to grep by hand.
  *
  * Exits 1 on any problem found, matching the other validate-*.mjs
  * scripts in this repo.
@@ -38,6 +49,7 @@ function parseFrontmatter(raw) {
   return {
     reviewStatus: get(/^reviewStatus:\s*"?([\w-]+)"?/m) ?? 'review-pending',
     reviewer: get(/^reviewer:\s*"?([\w-]+)"?/m),
+    author: get(/^author:\s*"?([\w-]+)"?/m),
     reviewedDate: get(/^reviewedDate:\s*(\S+)/m),
     publishedDate: get(/^publishedDate:\s*(\S+)/m),
     resourceType: get(/^resourceType:\s*"?([\w-]+)"?/m),
@@ -73,6 +85,10 @@ function checkCollection(dir, label, authors, problems) {
       } else if (!authors.get(fm.reviewer).isReviewer) {
         problems.push(`[3] ${id} references reviewer "${fm.reviewer}", who is not marked isReviewer: true.`);
       }
+    }
+
+    if (fm.reviewer && fm.author && fm.reviewer === fm.author) {
+      problems.push(`[8] ${id} has reviewer "${fm.reviewer}" identical to author "${fm.author}" -- self-review is not independent review.`);
     }
 
     if (fm.reviewedDate) {

@@ -41,7 +41,7 @@ study. There is no third section.
 
 ## Section A (practise using your own studied society-in-change option)
 
-**1.** Describe **one** change to political, social or economic life in
+**1.** Give **three** changes to political, social or economic life in
 your studied society during the earlier part of the period. **[3]**
 
 **2.** Explain why one turning point (a change of regime, a war, or an
@@ -55,7 +55,7 @@ period? **[12]**
 
 ## Section B (practise using your own studied thematic study)
 
-**5.** Describe **one** development in your studied theme from an early
+**5.** Give **three** developments in your studied theme from an early
 period of the c800–present timeframe. **[3]**
 
 **6.** Explain why one specific factor (for example, war, or an
@@ -74,14 +74,16 @@ your chosen factor against **at least one** other factor. **[12]**
 
 ## Answers (worked approach — marks depend on your studied options)
 
-This specification marks these questions with **levels of response**, not
-a tally of separate points — each level below describes the quality of
-answer it rewards.
+Both papers' 3-mark items are point-marked — one mark for each relevant
+feature identified, up to the maximum. Every other question below is
+marked with **levels of response**, not a tally of separate points — each
+level described rewards the quality of answer, not a checklist to total
+up.
 
-**1. (3 marks)** *Level 1 (1):* a change named only, e.g. "the government
-changed." *Level 2 (2–3):* the change identified **and** developed with a
-specific detail — a date, a named policy, or a concrete example of what
-was different before and after.
+**1. (3 marks)** One mark for each of three genuine, distinct changes
+identified — political, social or economic, drawn from your studied
+society's earlier period. No further development is required or
+rewarded beyond identifying each change accurately.
 
 **2. (6 marks)** *Level 1 (1–2):* a general link asserted with no
 development. *Level 2 (3–4):* the turning point named and its effect
@@ -103,9 +105,10 @@ economic change together across the whole period, weighs continuity
 against change, and reaches a sustained, supported judgement on how far
 life genuinely changed — rather than simply listing changes era by era.
 
-**5. (3 marks)** *Level 1 (1):* a development named only. *Level 2
-(2–3):* the development identified **and** developed with a specific,
-dated detail.
+**5. (3 marks)** One mark for each of three genuine, distinct
+developments identified in your studied theme from an early period of
+the timeframe. No further development is required or rewarded beyond
+identifying each one accurately.
 
 **6. (6 marks)** *Level 1 (1–2):* a general link asserted with no
 development. *Level 2 (3–4):* the factor named and its effect briefly

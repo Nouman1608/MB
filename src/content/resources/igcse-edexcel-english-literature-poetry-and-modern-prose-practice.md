@@ -87,7 +87,7 @@ structure. **[20]**
 >
 > *(An original poem written for this practice exercise — not a set text.)*
 
-## Section B (two original poems, for practice — answer either (a) or (b))
+## Section B (answer (a), (b), or (c) — the real anthology pairing)
 
 **2(a).** Compare how "Letters" and "The Call" below present the experience of
 distance in a relationship. **[30]**
@@ -134,6 +134,17 @@ relationship with a second poem of your own choosing on a related theme.
 > carrying off small pieces neither of us mourned  
 > until we counted what was left.
 
+**2(c).** Using your own copy of the anthology, compare how Shakespeare's
+"Sonnet 116" and Browning's "My Last Duchess" each present a view of love.
+**[30]**
+
+> Roughly half of the real 4ET1 anthology, including this exact pairing, is
+> public domain — but it is not reprinted here, since Marlbridge does not
+> reproduce set poems even where copyright has expired; use your own copy of
+> the anthology or specification booklet. This pairing was the real Section B
+> question set in the November 2023 series, so it is worth practising on the
+> actual text rather than only on the original poems above.
+
 ## Section C (practise using your own studied prose text — answer either (a) or (b))
 
 **3(a).** Explore how the writer of your studied modern prose text presents the
@@ -159,7 +170,12 @@ point of comparison**, not poem-by-poem (e.g. "both poems use domestic
 detail, but 'Letters' does X while 'The Call' does Y"), analyse
 language/form/structure in each poem with precision, and make the
 comparison **explicit and sustained** throughout rather than only in a
-closing paragraph. For 2(b), the strength of your chosen second poem
+closing paragraph. For 2(c), the real pairing rewards contrasting
+Shakespeare's idealised, unconditional definition of love with the way
+Browning's Duke's language of possession and control reveals a
+disturbing, transactional view of love masquerading as devotion — the
+comparison, not just a summary of each poem's content on its own, is
+what AO3 credits. For 2(b), the strength of your chosen second poem
 matters: pick one with a genuine point of connection to "Riverbank" rather
 than a loosely related text. As with question 1, this is marked
 holistically against level descriptors, not a fixed split of marks.
@@ -261,4 +277,5 @@ at the end to check all three responses.
 - Context in Section C treated as a bolt-on paragraph rather than woven into the analysis.
 - Uneven time management — remember the marks are not equal across sections (20/30/40).
 - Writing about only one poem in Section B when direct comparison is explicitly credited by AO3.
+- Practising only on invented poems and never on the real anthology pairing (question 2(c)), since the actual exam draws on set texts, not original material.
 - Forgetting that the set texts (poetry anthology and prose novel) are fixed by the specification and only change when Pearson issues a revised specification, not on a series-by-series rotation — see the study guide and revision notes for the current lists, and always confirm you're revising the texts for your own specification issue.

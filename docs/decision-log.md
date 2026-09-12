@@ -7608,6 +7608,25 @@ sub-audits, including `audit:review-coverage`: 0 problems, and
 `audit:accessibility`: 0 problems across 2,128 pages). Runtime 232.87s,
 exit code 0.
 
+**Provenance correction (2026-09-12).** The auditor's 2026-09-12
+re-verification found `where-igcse-maths-marks-are-lost-early.md` under
+`src/content/articles/` still carrying a genuine, independent
+`reviewer` field (E569) after this D-166 entry's "no genuinely-
+independent reviewer assignment anywhere in the ... corpus" claim above.
+That claim was accurate for the "1,633-file corpus" it explicitly named
+(the fix script and its validation both scoped to `src/content/
+resources/*.md` only) but read, out of context, as broader than that --
+`src/content/articles/` was never swept by `fix_e569.py` or checked by
+this entry's validation gate, so a claim of zero anomalies "anywhere"
+should not have been read to cover it. The article's reviewer field is
+in fact a correct, independent review (reviewer differs from author, and
+is marked `isReviewer: true`) and was rightly left untouched -- this is
+a narrative-scope correction, not a content defect. `scripts/validate-
+review-integrity.mjs` has since been widened (2026-09-12, rule [8]) to
+permanently check author-vs-reviewer equality across both `resources/`
+and `articles/`, closing the gap so this distinction no longer depends
+on a one-off script's scope.
+
 **Next.** E569/Q204 now closed. Per the owner's "continue now, section by
 section" instruction, next up is the remaining ~177-finding backlog in
 `docs/audit/2026-09-11-findings.md`: the remaining corpus-wide/no-single-
@@ -7668,6 +7687,17 @@ report-v1.2.{json,csv}` left unstaged, diff confirmed limited to
 reflecting this batch's content additions) -> `check-duplicate-resource-
 scope.mjs` (PASS) -> `audit:all` (11/11 sub-audits). Exit code 0
 throughout.
+
+**Provenance correction (2026-09-12).** The auditor's 2026-09-12
+re-verification flagged that the E460, E490 and Q186 rows above say
+"Already resolved earlier in this session's work" when in fact all
+three fixes are present in this same D-167 commit's own diff -- they
+were resolved as part of this batch, not before it. The fixes
+themselves are real and correctly attributed to the right files; only
+the "earlier in this session" phrasing is inaccurate. Left the three
+rows above unedited (consistent with this log's practice of appending
+corrections rather than rewriting history) and recording the correct
+narrative here: E460, E490 and Q186 were resolved in this D-167 commit.
 
 **Next.** This closes the "corpus-wide / no single file" findings batch.
 Per the owner's "continue now, section by section" instruction, next up
@@ -9343,3 +9373,128 @@ For the 116 mapped, the match came from the resource's own title and frontmatter
 **Not done**: the 69 resources left syllabus-wide by design (see above) were not force-mapped -- doing so would have violated this repo's no-fabrication rule by inventing a single-topic claim for content that is genuinely whole-syllabus or has no matching taxonomy entry. This is a disclosed scope boundary, not a silent gap.
 
 **Verification of the push**: committed and pushed via real `git push`, after fetching and fast-forwarding onto a concurrent session's D-186 (an unrelated audit-document amendment, no file overlap). Confirmed by cloning fresh into an independent directory and checking the pushed commit's content directly.
+
+
+## D-188 - `docs/audit/2026-09-12-findings.md` closed: E663, E659, E661,
+E660, E556, E530, I212, E486, E523, E491, E495, E568, I219, E658, E662,
+Q247, I275, I276, Q248, I277, I278; U29 flagged to owner; validation
+gate widened (2026-09-12)
+
+**Date:** 2026-09-12
+
+**Context.** Following D-186 (which amended `2026-09-11-findings.md`
+with the auditor's R1-R7 retractions/corrections), this entry closes
+the auditor's new `docs/audit/2026-09-12-findings.md` (commit
+`f460647`), worked in the auditor's own stated priority order:
+E663 first (highest student impact), then the World History rebuild
+defects (E659/E661/U29), then E530, then the rest of Part 2, then
+Parts 3 and 4, then the auditor's requested method changes (widen the
+validation gate; sweep every collection, not just `resources/`).
+
+**Finding ID -> file -> what changed.**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E663 | `oxfordaqa-a-level-sociology-revision-notes.md` | Replaced the "Culture and socialisation" and "Structure and action" sections (Unit 2 content wrongly present under a Unit 1 label) with real Unit 1 Families content: 3.1.1.1 family types/marriage (Therborn's typology, patriarchal/matriarchal, arranged/love marriage), 3.1.1.2 perspectives (Functionalist/Marxist-Engels/Feminist-Oakley), 3.1.1.3 social change (demographic drivers, diversity, Smart), 3.1.1.4 gender/age and family life. Kept the correct Research Methods and Theory (3.1.3) section unchanged. Rebuilt around real content per the established E532 precedent, not merely appended alongside the wrong material. |
+| E659 | `igcse-world-history-international-relations-practice.md` | Added two new invented Section A sources (D, E) so all 5 sources exist (3 pre-released, 2 unseen) per OxfordAQA 9245's real mechanism; rewrote Q1 (4-mark) to a "supports the claim" format, Q2 (6-mark) to cross-referencing one pre-released against one unseen source, and Q4 (12-mark) to reference all 5 sources, matching the spec's actual Section A question types. |
+| E661 | `igcse-world-history-international-relations-practice.md` | Rewrote Section B Q8 (12-mark) from an open "how far" essay to the spec's actual stem requiring the candidate to weigh Hitler's own aims against at least one other cause. |
+| E660 | `igcse-world-history-international-relations-practice.md`, `igcse-oxfordaqa-world-history-studies-in-change-practice.md` | The original D-183 rebuild's E558 fix ("this specification marks with levels of response") had been over-applied to the 3-mark item, which OxfordAQA 9245 actually point-marks. Changed all four affected 3-mark questions (both files' Section A and B) from "Describe one..." + levels scheme to "Give three..." + point-marked scheme, and updated the corresponding answers and framing sentences. |
+| E556 | `igcse-world-history-international-relations-practice.md` | Added a new paragraph stating the real 5-source/3-pre-released/2-unseen/no-annotations mechanism, previously undocumented. |
+| U29 | `igcse-world-history-international-relations-practice.md`, `edexcel-igcse-world-history-paper-2-practice.md` | **Not resolved -- flagged to the owner as a policy call**, per the auditor's explicit request. Both files attribute invented Section A sources to real institutions with specific dates. When adding E659's two new sources, the same existing house style was kept (rather than inventing a different, more cautious style unilaterally, which would itself presuppose an answer to the policy question). See "Flagged to owner" below. |
+| E530 | `igcse-oxfordaqa-sociology-practice.md` | A9(a) (stated [6], awarding method[2]+3 justifications x[2]=8) changed to "[6 marks -- up to 2 for the method, up to 2 marks per justification, best two justifications credited]", matching the file's own established "N from" pattern used elsewhere in the same file (A8). |
+| I212 | `igcse-english-literature-paper-2-drama-practice.md`, `igcse-english-literature-paper-3-drama-revision-notes.md`, `igcse-english-literature-paper-4-unseen-practice.md` | Added an "## Official syllabus" citation block (matching the already-fixed sibling `igcse-english-literature-paper-4-unseen-revision-notes.md`'s exact wording) citing Cambridge IGCSE Literature in English (0475) to all 3 remaining siblings without one. |
+| E486 | `as-group-17-the-halogens.md` | The "Quick revision checklist" still said "I- (fumes + H2S + I2)" after the body text had already been corrected (an earlier D-168 fix). Changed to "I- (fumes + a mixture of SO2, S and H2S -- the deepest reduction, not H2S alone)" to match the body. |
+| E523 | `aqa-a-level-sociology-education-revision-notes.md` | A summary bullet still read "historical male underachievement relative to girls ... explanations for girls' improved performance" -- reversed from the correct paragraph 20+ lines below (girls have out-performed boys since the late 1980s; boys' underachievement is the current pattern). Corrected the bullet to match. |
+| E491 | `igcse-business-marketing-revision-notes.md`, `igcse-business-people-in-business-revision-notes.md`, `business-people-in-business-revision-notes.md`, `igcse-business-understanding-activity-revision-notes.md`, `business-activity-and-classification-revision-notes.md`, `o-level-business-people-in-business-practice.md`, `a-level-business-hrm-practice.md`, `a-level-business-marketing-practice.md` (8 files, 12 instances -- widened well beyond the finding's own named files by sweeping every self-test/practice question in the sibling family, per the auditor's "sweep the syllabus, not the word" instruction) | Replaced off-glossary "Name" with "Identify" (6 instances) and "Distinguish (between) X (and/from) Y" with either "Explain the difference between X and Y" or, where the file's own established pattern already used it, "Explain how X and Y differ" (6 instances) -- all per Cambridge's own generic command-word glossary (`src/data/academic/command-words.ts`), confirmed as the correct authority for these two Cambridge board syllabuses (0450, 7115, 9609) via the file's own disclosure and independent verification that Cambridge IGCSE Business Studies 0450 does not use "Name," "Distinguish" or "Recommend" as command words (third-party examiner-report-derived source cross-checked). Left "Recommend" untouched everywhere it occurs in these files -- it is a genuine, board-correct command word for A Level Business (9609) extended-response questions, not an error. |
+| E495 | `law-english-legal-system-practice.md`, `o-level-sociology-methods-practice.md` | Q6 in the law file stated [8] but its scheme awarded (3x2)+2+2=10 (aggravating/mitigating factors each double-tagged); reduced each factor to a single mark, restoring the total to 8. Q2(a) in the sociology file stated [8] but its scheme awarded 2+2+1+1+1=7 with exactly three agencies offered (no "any two of three" wording could absorb the shortfall); added one further mark for a developed explanation of how any one of the three agencies actually operates, restoring the total to 8. |
+| E568 | `ib-dp-geography-population-distribution-practice.md` | Its disclosure blockquote still claimed these questions were written "in the style and at the standard of IB DP Geography Paper 2" (an unqualified exam-standard-equivalence claim); replaced with the safer, already-corrected wording used by its sibling `ib-dp-geography-global-climate-practice.md` ("for revision and practice on this content ... do not replicate the exam's exact structure, question count or mark tariffs"). |
+| I219 | `a-level-computer-science-information-representation.md` | Its sibling `a-computer-science-data-representation-revision-notes.md` already correctly said "sampling resolution"; this study-guide file said "sample resolution"/"sample rate" throughout (5 instances). Standardised all instances to "sampling rate"/"sampling resolution," matching Cambridge 9618's own term and its already-correct `a-computer-science-data-representation-practice.md` sibling. Scoped to the 9618 family only -- IGCSE/O-Level data-representation siblings use a different syllabus and were not swept, per "sweep the syllabus, not the word." |
+| E658 | `igcse-oxfordaqa-world-history-international-relations-depth-studies.md` | Said Paper 1 "pairs with Paper 2 Societies in Change"; the paper is actually named "Studies in Change" (Section A within it is "Societies in Change" -- a sub-section, not the paper name), matching the sibling file's own slug/title. Corrected to "Paper 2, Studies in Change." |
+| E662 | `edexcel-igcse-world-history-paper-2-revision-notes.md` | Taught the Historical Investigation's source question as usefulness/reliability evaluation; its correct sibling `edexcel-igcse-world-history-paper-2-practice.md` states the real skill is cross-referencing (identifying agreement/disagreement between two sources) and that usefulness comparison "is the house style of other boards' papers, not this one." Rewrote the revision-notes section and its weak-vs-strong table to teach cross-referencing instead. |
+| Q247 | `igcse-oxfordaqa-world-history-studies-in-change-revision-notes.md` | Claimed "both sections use 'how far' or 'assess the extent' phrasing" for a paper with no published specimen; the real structure (per its own correct practice-file sibling) is a "give three"/"explain one"/"explain two reasons" progression with only the final extended-response question per section using "how far." Rewrote the section to describe the real progression, keeping the "how far" guidance scoped to that one question type. |
+| I275 | `igcse-oxfordaqa-world-history-studies-in-change-revision-notes.md` | Self-test answer said "brand-new qualification with limited past papers" where there are literally none yet (first examined May/June 2028); corrected to "no live past papers yet (first examined May/June 2028)," matching its practice-file sibling's wording. |
+| I276 | `aqa-gcse-sociology-families-education-practice.md` (Q7, Q14), `gcse-sociology-crime-stratification-practice.md` (Q7, Q14) | All four 12-mark levels-marked answers announced "indicative content -- award up to 12 marks using the levels descriptors" but then still carried explicit `[1]` point-brackets summing to 8 or 10, contradicting the levels-marked framing. Removed all point-brackets from indicative-content answers and added an explicit sentence stating nothing in the answer carries an individual mark value. |
+| Q248 | `igcse-oxfordaqa-economics-how-markets-work.md` | Syllabus-coverage bullet claimed 3.1.2 "Resource allocation" covers "markets, planned and mixed economies"; verified against the real spec structure that 3.1.2 covers market allocation, economic sectors, and specialisation/division of labour/exchange, with no mention of planned/mixed economies as a numbered sub-topic. Corrected the bullet and added a note detaching the existing background sentence on market/planned/mixed economies from the numbered syllabus citation (kept as general context, not claimed as 3.1.2 content). |
+| I277 | `igcse-edexcel-english-literature-poetry-and-modern-prose-practice.md` | Section B only offered invented original poems for practice, even though roughly half the real 4ET1 anthology (including the exact November 2023 Section B pairing, Sonnet 116 and My Last Duchess) is public domain. Added a new 2(c) exercise on this real pairing -- referencing the poems by title/author without reproducing their text (Marlbridge's own stated practice, and consistent with Claude's content policy on reproducing poems even where public domain), directing students to their own anthology copy -- plus a matching answer-plan note on the real point of comparison and an updated "Where marks are usually lost" bullet. |
+| I278 | `as-chem-states-structure-revision-notes.md` | The "Ice is a special case" paragraph sat between rows of the four-structure-types markdown table, breaking its rendering (predates this remediation round). Moved the paragraph below the table. |
+
+
+**Flagged to owner (U29).** Both `igcse-world-history-international-relations-practice.md`
+and `edexcel-igcse-world-history-paper-2-practice.md` attribute their
+invented Section A/source-based exam-practice sources to real
+institutions (e.g. named archives, real newspapers, real government
+bodies) with specific fabricated dates and, in places, fabricated
+document titles. This is long-standing house style across the whole
+source-based-history corpus, not something introduced this round --
+E659 above added two more sources to the international-relations file
+in the same style rather than a different one. The auditor's
+2026-09-12 findings explicitly declined to fix this and asked that it
+be surfaced to a human instead: "this is a policy call, not a factual
+fix... I'd want a human deciding it." The policy question is whether
+invented exam-practice sources should continue to carry real
+institutional attribution (current house style, arguably realistic
+exam practice but capable of being mistaken for genuine historical
+record if excerpted out of context) or should be re-attributed to
+clearly fictional institutions/names (safer but a larger, corpus-wide
+rewrite touching what is likely dozens of files across every
+source-based history and English-language practice set). No fix was
+attempted here pending that decision -- this needs Nouman's call, not
+an automatic default.
+
+
+**Method changes requested by the auditor, and how this round applied
+them.** The 2026-09-12 findings asked for three changes to how future
+sweeps are run: (1) sweep every content collection touched by a
+finding's pattern, not just the collection the finding was originally
+raised against; (2) anchor fixes on the shortest distinctive substring
+that identifies the defect, not the finding's own paraphrase, so
+sibling files with the same defect are not missed; (3) sweep by
+syllabus/board family, not by literal word match, since the same word
+can be correct for one board and wrong for another. E491 applied (1)
+and (2) directly -- it started from two named files and grew to eight
+across the Business Studies family by searching for the underlying
+command-word pattern rather than stopping at the finding's own
+examples, while (3) kept it correctly scoped to Cambridge syllabuses
+(0450, 7115, 9609) and out of AQA/OCR/OxfordAQA/Edexcel Business files
+that share incidental word overlap. I219 applied (3) in the other
+direction -- it would have been easy to sweep every file using "sample
+rate," but the fix was correctly scoped to the Cambridge 9618 family
+only, since IGCSE/O-Level data-representation siblings sit on a
+different syllabus with its own terminology.
+
+**Validation gate widened.** The auditor's E569/D-166 provenance
+question (self-review: a resource's own listed author also serving as
+its reviewer) had only ever been checked by a one-off historical
+script (`fix_e569.py`, see D-166) scoped to `src/content/resources/`
+and never re-run as a permanent gate, and never applied to
+`src/content/articles/` at all. Added a new permanent rule [8] to
+`scripts/validate-review-integrity.mjs` comparing each file's
+`author` and `reviewer` frontmatter fields directly, across both
+collections. Verified clean: 1,633 resources + 4 articles checked, 0
+problems found. Provenance-correction notes were also appended to
+D-166 and D-167 clarifying the original scope of their claims (see
+those entries).
+
+
+**Full validation gate (2026-09-12, this round).** All clean:
+- `npx astro check`: 0 errors, 0 warnings, 18 hints (pre-existing).
+- `npm run validate:academic` (13 sub-validators, incl. the new rule
+  [8] in `validate-review-integrity.mjs`): all PASS.
+- `npm run build`: 2,129 pages built; Pagefind indexed 37,344 words.
+- `node scripts/check-duplicate-resource-scope.mjs`: PASS.
+- `node scripts/test-i18n-routes.mjs`: PASS.
+- `node scripts/test-practice-analytics.mjs`: PASS.
+- `npm audit --fetch-timeout=20000 --fetch-retries=2`: 0
+  vulnerabilities.
+- `npm run coverage:academic-v2`: regenerated
+  `docs/reports/academic-coverage-report-v1.2.{json,csv}` (160 rows).
+- `npm run audit:all` (11 sub-audits: metadata, structured-data,
+  redirects, internal-links, content-integrity, fonts,
+  sitemap-noindex, i18n-routes, rendered-labels, tiered-faq-routes,
+  review-coverage, accessibility): 11/11 PASS.
+
+**Next.** Surface U29 to Nouman as an explicit policy decision (see
+"Flagged to owner" above) -- this is the one item in
+`2026-09-12-findings.md` that remains genuinely open. Everything else
+in that findings document is closed as of this entry. No other open
+items are currently tracked against this findings round.
