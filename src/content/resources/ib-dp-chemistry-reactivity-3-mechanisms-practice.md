@@ -97,7 +97,7 @@ the single most common source of lost marks in this component.
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject Brief -- Sciences: Chemistry*,
-first assessment 2025, published January 2022. Note: the
-[Reactivity 3 revision notes](/resources/ib-dp-chemistry-reactivity-3-mechanisms-revision-notes/)
-now cite the full *Chemistry guide* directly rather than this Subject Brief.
+International Baccalaureate Organization, *Chemistry guide*, Diploma Programme, first assessment 2025
+(published February 2023, updated May 2023) -- copy consulted via a school-hosted mirror, not ibo.org.
+The same source is already cited by the
+[Reactivity 3 revision notes](/resources/ib-dp-chemistry-reactivity-3-mechanisms-revision-notes/).

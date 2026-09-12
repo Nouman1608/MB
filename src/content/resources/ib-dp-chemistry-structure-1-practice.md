@@ -102,4 +102,4 @@ These questions cover all five Structure 1 sub-topics -- particulate matter, the
 
 ## Official syllabus
 
-International Baccalaureate Organization, *Diploma Programme Subject Brief -- Sciences: Chemistry*, first assessment 2025, published January 2022. Note: the [Structure 1 revision notes](/resources/ib-dp-chemistry-structure-1-revision-notes/) and the [full syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/) now cite the full *Chemistry guide* directly rather than this Subject Brief.
+International Baccalaureate Organization, *Chemistry guide*, Diploma Programme, first assessment 2025 (published February 2023, updated May 2023) -- copy consulted via a school-hosted mirror, not ibo.org. The same source is already cited by the [Structure 1 revision notes](/resources/ib-dp-chemistry-structure-1-revision-notes/) and the [full syllabus guide](/resources/ib-dp-chemistry-syllabus-guide/).

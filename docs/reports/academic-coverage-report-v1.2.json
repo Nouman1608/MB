@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T06:43:22.649Z",
+  "generatedAt": "2026-09-12T08:59:58.329Z",
   "rowCount": 160,
   "rows": [
     {
@@ -7003,7 +7003,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 10871,
+      "totalQualifyingWordCount": 10877,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "marlbridge",

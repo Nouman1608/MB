@@ -9527,3 +9527,55 @@ fix (D-188) or an explicit owner decision (this entry).
 **Next.** No further open items are currently tracked against
 `docs/audit/2026-09-12-findings.md`. Awaiting the auditor's next
 findings drop in `docs/audit/`.
+
+
+## D-190 - IB Chemistry citation gap closed: 2 siblings missed by the original Q84 fix (2026-09-12)
+
+**Date:** 2026-09-12
+
+**Context.** D-141's own notes flagged, but did not fix, an incidental
+observation outside any tracked finding ID: `ib-dp-chemistry-structure-1-practice.md`
+and `ib-dp-chemistry-reactivity-3-mechanisms-practice.md` still cited
+the wrong source-document type -- the *Diploma Programme Subject Brief
+-- Sciences: Chemistry* -- the same defect Q84 fixed in 5 sibling IB
+Chemistry resources, which switched to citing the full *Chemistry
+guide* directly. These two files were not in Q84's own file list and
+were explicitly left for "a future pass" per the fix ledger's own
+notes, rather than fixed beyond what that finding named.
+
+**No new findings file exists in `docs/audit/` as of this session**
+(`2026-09-11-findings.md` and `2026-09-12-findings.md` are both fully
+closed per D-184 and D-189). With no new auditor drop to work,
+addressed this previously-identified, in-scope, low-risk item instead
+of leaving it stranded.
+
+**What changed.**
+
+| File | What changed |
+|---|---|
+| `ib-dp-chemistry-structure-1-practice.md` | "Official syllabus" citation changed from *Diploma Programme Subject Brief -- Sciences: Chemistry* (published January 2022) to *Chemistry guide*, Diploma Programme, first assessment 2025 (published February 2023, updated May 2023) -- copy consulted via a school-hosted mirror, not ibo.org -- matching the exact citation already used by its revision-notes and syllabus-guide siblings. |
+| `ib-dp-chemistry-reactivity-3-mechanisms-practice.md` | Same citation correction, matching its own revision-notes sibling's exact wording. |
+
+Both files previously carried a note pointing out that their own
+siblings "now cite the full *Chemistry guide* directly rather than
+this Subject Brief" -- i.e. each file was documenting its own defect
+inline without fixing it. That self-referential note is now removed
+along with the outdated citation.
+
+**Verification method.** Confirmed the exact correct citation wording
+by reading the already-fixed `ib-dp-chemistry-structure-1-revision-notes.md`
+and `ib-dp-chemistry-reactivity-3-mechanisms-revision-notes.md`
+directly, rather than reconstructing it from the Q84 batch summary
+alone, so the two fixed files match their siblings' wording exactly.
+
+**Full validation gate, run in full:** `astro check` (0 errors, 18
+pre-existing hints) -> `validate:academic` (all sub-validators PASS,
+incl. rule [8]) -> `build` (2,129 pages + Pagefind, clean) ->
+`check-duplicate-resource-scope.mjs` (PASS, same 5 pre-existing
+allow-listed groups) -> `test-i18n-routes.mjs` (PASS) ->
+`test-practice-analytics.mjs` (24/24) -> `npm audit` (0
+vulnerabilities) -> `coverage:academic-v2` (160/160, regenerated) ->
+`audit:all` (11/11 sub-audits, 0 problems).
+
+**Next.** No further open items are currently tracked. Awaiting the
+auditor's next findings drop in `docs/audit/`.
