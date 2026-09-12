@@ -22,6 +22,9 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+> **The sources and extract below are entirely invented for this exercise**
+> — none is a real historical document, and none should be treated or cited
+> as one.
 
 Related: [Paper 2 Investigation and Breadth Studies study guide](/resources/igcse-edexcel-world-history-paper-2-investigation-breadth-studies/) | [Paper 2 revision notes](/resources/edexcel-igcse-world-history-paper-2-revision-notes/)
 
