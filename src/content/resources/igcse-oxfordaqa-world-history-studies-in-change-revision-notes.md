@@ -69,8 +69,9 @@ named factor (e.g. war, or the role of an individual), structure the
 answer as:
 
 1. Explain the named factor's specific contribution, with an example.
-2. Weigh it against at least one other factor (science, government,
-chance).
+2. Weigh it against at least one other cause of change drawn from your
+studied content -- the specification does not name a fixed set of
+factors to choose from.
 3. Reach a supported judgement on how far the named factor explains the
 change overall.
 

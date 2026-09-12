@@ -50,8 +50,11 @@ economic crisis) led to change in your studied society. **[6]**
 **3.** Explain **two** reasons why a significant change occurred in your
 studied society during the period. **[9]**
 
-**4.** How far did life in your studied society change over the whole
-period? **[12]**
+**4.** "[An area of change such as political change, social change, or
+economic change] was the most significant change in your studied
+society during the whole period." How far do you agree? You must refer
+to your chosen area and at least one other area of change in your
+answer. **[12]**
 
 ## Section B (practise using your own studied thematic study)
 
@@ -65,10 +68,10 @@ moment. **[6]**
 **7.** Explain **two** reasons why the pace of change in your studied theme
 was faster in one period than in another. **[9]**
 
-**8.** "How far was [a factor such as war, science and technology,
-government, or the role of an individual] responsible for change in your
-studied theme?" Write a full response to this question type, weighing
-your chosen factor against **at least one** other factor. **[12]**
+**8.** "[A factor such as war, science and technology, government, or
+the role of an individual] was the most significant cause of change in
+your studied theme." How far do you agree? You must refer to your
+chosen factor and **at least one** other factor in your answer. **[12]**
 
 ---
 
@@ -97,13 +100,15 @@ change — not just that it happened at the same time.
 each explaining a distinct mechanism by which the change came about.
 
 **4. (12 marks)** *Level 1 (1–3):* a general assertion about change with
-little explanation. *Level 2 (4–6):* describes change in one or two
-areas of life with limited explanation of why or how much. *Level 3
-(7–9):* explains change across more than one area of life, with some
-judgement on extent. *Level 4 (10–12):* links political, social and
-economic change together across the whole period, weighs continuity
-against change, and reaches a sustained, supported judgement on how far
-life genuinely changed — rather than simply listing changes era by era.
+little explanation, e.g. "a lot changed." *Level 2 (4–6):* explains the
+chosen area of change with a specific example, but does not reach a
+second, separate area. *Level 3 (7–9):* explains the chosen area of
+change **and at least one other area**, with some linking between them
+and an emerging judgement. *Level 4 (10–12):* fully weighs the chosen
+area of change against at least one other, using specific dated
+evidence for both, and reaches a sustained judgement on which mattered
+more overall — the judgement, not the list of areas, is what the top
+level rewards.
 
 **5. (3 marks)** One mark for each of three genuine, distinct
 developments identified in your studied theme from an early period of

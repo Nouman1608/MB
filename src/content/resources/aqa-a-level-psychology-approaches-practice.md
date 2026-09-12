@@ -90,7 +90,7 @@ and esteem needs) have been met **[1]**.
 **6. (a)** Social learning theory **[1]**.
 **(b)** **Attention** — the child must have attended to and noticed the sibling's behaviour and its
 consequence **[1–2]**. **Retention** — the child must have stored a mental representation of the
-sharing behaviour and the praise that followed **[1–2]**. **Motor reproduction** — the child must be
+sharing behaviour and the praise that followed **[1]**. **Motor reproduction** — the child must be
 physically capable of performing the sharing behaviour themselves **[1]**. **Motivation** — seeing the
 sibling praised (vicarious reinforcement) gives the child an expectation of similar reward, motivating
 them to imitate the behaviour **[1–2]**. Full marks require all four processes named and applied

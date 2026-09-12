@@ -25,14 +25,20 @@
  *   [8] `reviewer` must not equal `author` (self-review is not review).
  *       D-166 (2026-09-11) removed 135 such self-review fields, but that
  *       fix ran as a one-off script scoped to src/content/resources/ only
- *       and never re-ran as part of this permanent gate -- E569
- *       (2026-09-12 audit) found the same self-review pattern surviving
- *       in src/content/articles/, which this validator already reads for
- *       [1]-[3] but had no rule actually checking author-vs-reviewer
- *       equality on. Rule [8] closes that gap permanently, across both
- *       collections this validator already loops over, so a future
- *       self-review field cannot again slip past silently in whichever
- *       collection nobody happened to grep by hand.
+ *       and never re-ran as part of this permanent gate. E569 (2026-09-12
+ *       audit) prompted this rule as a structural safeguard: this validator
+ *       already read src/content/articles/ for [1]-[3] but had no rule
+ *       actually checking author-vs-reviewer equality there. Correction
+ *       (2026-09-13 audit): the specific article file named in the
+ *       original E569 write-up does not in fact have a self-review
+ *       defect -- its reviewer differs from its author, as the file's
+ *       own D-166 provenance note already said. Rule [8] itself is
+ *       unaffected by that correction and stays permanent: it closes a
+ *       real structural gap (no equality check existed on this
+ *       collection before) even though no live instance was actually
+ *       found in src/content/articles/ at the time it was added, so a
+ *       future self-review field still cannot slip past silently in
+ *       whichever collection nobody happened to grep by hand.
  *
  * Exits 1 on any problem found, matching the other validate-*.mjs
  * scripts in this repo.

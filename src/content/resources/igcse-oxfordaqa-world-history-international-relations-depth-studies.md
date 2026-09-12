@@ -89,7 +89,7 @@ your own contextual knowledge, make it useful for a stated purpose.
 
 ## What Section B requires
 
-Section B tests **explanation and judgement**, not recall of a narrative. The recurring question types are: explain why something happened, and assess how far one factor was responsible. Chronology matters only insofar as it supports causation.
+Section B tests **explanation and judgement**, not recall of a narrative. Every Section B option opens with a 3-mark item that is point-marked -- one mark for each relevant feature identified, up to the maximum -- before the recurring explanation and judgement question types: explain why something happened, and assess how far one factor was responsible. Chronology matters only insofar as it supports causation.
 
 Two habits raise marks reliably: always support a claim with **specific detail** — a date, a name, a figure, a treaty clause — and always **weigh** factors against one another rather than listing them.
 
@@ -123,25 +123,32 @@ Origins lie in ideological opposition, wartime conferences (Yalta and Potsdam), 
 
 Key developments: the **Truman Doctrine** and **Marshall Plan** (1947), the **Berlin Blockade and Airlift** (1948-49), NATO (1949) and the Warsaw Pact (1955), the **Berlin Wall** (1961), and the **Cuban Missile Crisis** (1962) — the closest approach to nuclear war, resolved by the removal of Soviet missiles in exchange for a US pledge not to invade Cuba and the quiet withdrawal of missiles from Turkey.
 
-## Worked example
+## Worked example (Section B)
 
-"The League of Nations failed because it had no army." How far do you agree?
+Section B's knowledge-based essays follow this shape. Note that Section
+A's League of Nations and Cold War options never carry an open essay
+like this one -- Section A is entirely source-based, so its 12-mark
+item is always a source-usefulness question, not a "how far do you
+agree" essay.
+
+"Appeasement was the main reason Hitler was not stopped before 1939."
+How far do you agree?
 
 ```
-SUPPORTING   could not enforce decisions against a determined aggressor
-             Manchuria and Abyssinia both showed this directly
+SUPPORTING   each concession (Rhineland, Anschluss, Sudetenland) cost Hitler
+             nothing and convinced him the democracies would not fight
 
 OTHER FACTORS
-  USA absent          -> the strongest power outside the system
-  Unanimity rule      -> any member could block action
-  Self-interest       -> Britain and France put their own interests first
-                         (Hoare-Laval Pact)
-  Depression          -> nations turned inward and to aggression
-  Slow procedures     -> crises outpaced the machinery
+  Hitler's own aims      -> Lebensraum and overturning Versailles were fixed
+                            goals regardless of how others responded
+  British rearmament     -> Britain was militarily unready until the late 1930s
+  Public opinion         -> widespread fear of repeating 1914-18
+  Versailles resentment  -> many in Britain believed Germany's claims had merit
+  Nazi-Soviet Pact       -> removed the risk of a two-front war Hitler feared
 
-JUDGEMENT  the lack of force mattered, but only because the great powers
-           lacked the WILL to act -- an army they would not deploy would
-           have changed little
+JUDGEMENT  appeasement enabled each step, but Hitler's own expansionist aims
+           were the underlying driver -- a leader without those aims would
+           not have tested the democracies' patience at all
 ```
 
 The judgement, not the list, carries the top band.

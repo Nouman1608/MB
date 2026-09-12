@@ -86,21 +86,20 @@ source-reading skill alone.
 | Step | Historical Investigation | Breadth Study |
 |---|---|---|
 | Build | Contextual background to interpret unseen sources | A timeline of turning points and continuity |
-| Apply | Evaluate origin, purpose, content of a given source against the enquiry | Judge how far/how much change occurred over the stated period |
+| Apply | Cross-reference two sources — identify specific points of agreement and disagreement, using context to explain why | Judge how far/how much change occurred over the stated period |
 | Avoid | Memorising a fixed source-by-source narrative | Listing events without linking them to change |
 
 ## Practising the unseen-source question specifically
 
 Because the Historical Investigation includes sources unseen before the
-exam, timed practice on genuinely unfamiliar sources related to (but not
-identical to) the studied topic is the single most useful preparation
-activity beyond building contextual knowledge. When practising, write
-out explicitly: what the source's origin suggests about its likely
-perspective, what its purpose suggests it might exaggerate or omit, and
-what contextual knowledge helps judge whether its content is typical or
-exceptional for the period. Doing this as a fixed written routine, not
-just "in your head," builds the habit that a rushed exam moment will
-otherwise skip.
+exam, timed practice cross-referencing genuinely unfamiliar source pairs
+related to (but not identical to) the studied topic is the single most
+useful preparation activity beyond building contextual knowledge. When
+practising, write out explicitly: a specific point where the two
+sources agree, a specific point where they disagree, and the
+contextual knowledge that explains why they differ. Doing this as a
+fixed written routine, not just "in your head," builds the habit that a
+rushed exam moment will otherwise skip.
 
 ## Exam traps
 
@@ -110,8 +109,8 @@ memorising narrative and under-preparing source evaluation.
 explicit judgement about change, continuity or pace.
 - Using shared revision material without first confirming it matches
 your centre's chosen Investigation and Breadth Study.
-- Describing a source's content without evaluating its origin and
-purpose against the specific enquiry asked.
+- Describing what each source says separately instead of identifying
+specific points where the two sources agree and disagree.
 - Under-weighting factual recall because the Investigation is source-
 based, despite AO1 and AO2 together carrying the majority of marks.
 
@@ -144,9 +143,10 @@ component?
 **Answers:** 1. Paper 2 offers 13 total choices across two independent
 selections, so shared or generic revision material may cover a
 different Investigation or Breadth Study than the one actually taught.
-2. Evaluating unfamiliar sources using contextual knowledge — origin,
-purpose and content assessed against a specific enquiry — not recalling
-a fixed narrative. 3. Turning points where change accelerated or
+2. Cross-referencing the two sources — identifying specific points
+where they agree and specific points where they disagree, using
+contextual knowledge to explain why — not judging which source is
+individually more useful or more reliable. 3. Turning points where change accelerated or
 reversed, and periods of continuity where little changed. 4. A
 judgement about the extent or pace of change over a stated period; a
 timeline-based revision approach, rather than a narrative event list,

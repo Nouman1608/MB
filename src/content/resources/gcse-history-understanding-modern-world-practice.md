@@ -87,8 +87,10 @@ effort [1] [1] [1] [1].
 and structural weaknesses built into the Weimar constitution [1] [1]; the
 **short-term cause** is the economic impact of the Depression from 1929,
 which sharply increased unemployment and support for extremist parties
-[1] [1]; the **trigger** is Hitler's appointment as Chancellor in January
-1933 [1]. A top-mark answer explicitly explains how the categories
+[1] [1]; the **trigger** is Hitler's appointment as Chancellor in
+January 1933, the specific event that converted an unstable political and
+economic situation into an actual seizure of power [1] [1]. A top-mark
+answer explicitly explains how the categories
 **reinforced each other** — for example, that long-term resentment created
 a receptive audience for extremist politics, which the short-term economic
 crisis then activated, culminating in the specific trigger event — rather

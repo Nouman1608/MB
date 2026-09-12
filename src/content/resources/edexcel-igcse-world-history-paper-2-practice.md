@@ -29,9 +29,12 @@ Paper 2 offers 13 options across two independent choices (5 Historical
 Investigations, 8 Breadth Studies), so questions tied to one specific option would only
 serve a fraction of candidates. Both sections of the paper share the same three-part
 structure — a 6-mark question, an 8-mark question, and a 16-mark extended-writing
-question that draws on source material and your own knowledge — so the questions below
-use illustrative material to build the skills each part tests. Apply the same method to
-whichever Investigation and Breadth Study your centre has taught.
+question — but the 16-mark question works differently in each section: Section A's
+Historical Investigation draws on source material throughout, while Section B's
+Breadth Study 16-mark question carries no source or extract, only prompt bullets to
+guide your answer plus your own knowledge. The questions below use illustrative
+material to build the skills each part tests. Apply the same method to whichever
+Investigation and Breadth Study your centre has taught.
 
 ---
 
@@ -82,15 +85,15 @@ period, was different from the same field in the later part of the period. **[6]
 **2(b)** Explain **two** causes of a significant development in your studied field
 during the period. **[8]**
 
-**Source D**: From a contemporary report, published shortly after a significant
-development in the studied field.
+**2(c)** How significant was a development of your choice in changing your studied
+field across the whole period?
 
-> "Within a decade of the change, practice had shifted across the whole country, and
-> few in the profession now defended the older approach."
+You may use the following in your answer:
+- how far the development changed practice immediately after it occurred
+- how far the development's effects lasted, or were reversed or superseded, later in
+  the period
 
-**2(c)** Study Source D, which relates to a significant development in your studied
-field. How significant was this development in changing your field across the whole
-period? Explain your answer using Source D and your own knowledge. **[16]**
+You must also use information of your own. **[16]**
 
 ## Answers
 
@@ -133,15 +136,15 @@ institutions or professional bodies [3].
 **2(b)** Any two developed causes of the chosen development, each explaining a
 mechanism rather than simply naming a factor [4 + 4].
 
-**2(c)** Source D suggests the development was **highly significant**, since it reports
-that "practice had shifted across the whole country" within a decade and that the older
-approach lost its defenders [3]. Own knowledge should be used to test this claim
-against the development's actual reach and permanence — whether the change affected the
-whole field or only part of it, and whether it proved lasting or was later reversed or
-superseded [5]. A strong answer reaches a judgement on significance that weighs the
-source's claim against this own-knowledge evidence, considered against explicit
-criteria such as scale, depth and duration of the change, rather than treating the
-source's account as proof on its own [8].
+**2(c)** A strong answer states which development was chosen and asserts its
+significance clearly at the outset [3]. It then supports this using own knowledge of
+the development's immediate effects — for example, how quickly practice changed across
+the field once the development occurred [5] — and its longer-term effects across the
+rest of the period, addressing whether the change proved lasting, was reversed, or was
+itself superseded by a later development [5]. A strong answer reaches a judgement on
+significance weighed against explicit criteria such as scale, depth and duration of
+the change, comparing the chosen development against the field's other developments
+across the period, rather than describing the one development in isolation [3].
 
 ## A note on the source questions
 
@@ -176,9 +179,12 @@ agree — not simply describing what each source or extract says.
 For the cross-referencing question, always look for specific points of agreement and
 specific points of disagreement between the two sources, and use both in your answer —
 a source can support another on one point and contradict it on another. For the
-16-mark interpretation and significance questions, always bring in your own knowledge
-explicitly rather than only describing the source or extract in front of you, since
-this is what turns a description into the judgement the mark scheme rewards. For the
+16-mark interpretation question in Section A, always bring in your own knowledge
+explicitly rather than only describing the source or extract in front of you. The
+16-mark significance question in Section B carries no source at all, so the same
+principle applies in reverse: don't simply narrate the chosen development, but weigh
+its significance against explicit criteria using your own knowledge throughout. Either
+way, this is what turns a description into the judgement the mark scheme rewards. For the
 6- and 8-mark description and explanation parts, develop each point you make with
 specific detail rather than simply naming several points, since marks are awarded for
 depth of development, not for quantity.

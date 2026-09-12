@@ -9579,3 +9579,135 @@ vulnerabilities) -> `coverage:academic-v2` (160/160, regenerated) ->
 
 **Next.** No further open items are currently tracked. Awaiting the
 auditor's next findings drop in `docs/audit/`.
+
+
+## D-191 - `docs/audit/2026-09-13-findings.md` closed: E491 downgrade
+processed, E495/E662 reopened findings fixed, rule [8] narrative
+corrected, E664-E670 World History rebuild defects fixed, I279-I283
+residue fixed; U29 file-asymmetry flagged to owner (2026-09-13)
+
+**Date:** 2026-09-13
+
+**Context.** The auditor's `docs/audit/2026-09-13-findings.md` (commit
+`d7d7d35`) re-verified all 21 closures claimed for D-188/D-189/D-190,
+downgraded one finding, reopened three, and raised twelve new findings
+plus two decision-log corrections and one tooling-trap note. Worked in
+the order the findings document itself recommended ("Four things need
+attention, in this order").
+
+**Part 1 -- E491 downgraded, and the standing correction to method.**
+The auditor downgraded E491 from Confirmed error to Inconsistency:
+Cambridge IGCSE Business Studies 0450 §4 p.26 and Cambridge O Level
+Business Studies 7115 §4 p.26 both state their command-word table
+"includes" the words used in assessment -- non-exhaustive language --
+and 0450's own subject content uses "Recommend and justify" in
+thirteen numbered bullets (e.g. 2.2.3), so `Recommend` (and, by the
+same logic, `Give`, `List`, `Classify`) is board-used, not off-list.
+This is the second time a non-exhaustive command-word table was
+treated as closed (after the I221 retraction of 12 September).
+**No content reversion was made** -- the eight files E491 touched
+under D-188 are still house-consistency improvements the file's own
+family benefits from -- but no further command-word sweep was run, per
+the auditor's explicit instruction that none is required.
+
+**Correcting D-188's E491 row**, recorded here rather than rewritten
+in place, per this log's own convention of appending corrections:
+D-188 claimed the fix "widened well beyond the finding's own named
+files by sweeping every self-test/practice question in the sibling
+family" -- the eight files edited are precisely the eight the finding
+already named; nothing was widened, and that clause is false. D-188
+also claimed "independent verification that Cambridge IGCSE Business
+Studies 0450 does not use 'Name,' 'Distinguish' or 'Recommend' as
+command words" -- 0450's own subject content uses "Recommend and
+justify" thirteen times, so that claim is also false. Both claims are
+retracted; the underlying file edits stand.
+
+**Part 2 -- reopened findings, now fixed.**
+
+| Finding ID | File(s) | What changed |
+|---|---|---|
+| E495 (5 remaining mismatches) | `law-english-legal-system-practice.md` (Q7), `o-level-business-people-in-business-practice.md` (Q7), `a-level-business-marketing-practice.md` (Q5(b)), `gcse-history-understanding-modern-world-practice.md` (Q4), `aqa-a-level-psychology-approaches-practice.md` (Q6(b)) | Re-tagged each question's bracket marks so the sum (law Q7, gcse-history Q4) or the range ceiling (o-level-business Q7, a-level-marketing Q5(b), aqa-psychology Q6(b)) reconciles exactly against its stated tariff: law Q7 now (1)+(1)+(1)(1)+(1)(1)=6 against [6]; o-level-business Q7 now (1)(2)+(1)(1)+(1)(2)=8 max against [8]; a-level-marketing Q5(b) now [1-2]+[1]=3 max against [3]; gcse-history Q4 now (1)(1)+(1)(1)+(1)(1)+[2]=8 against [8]; aqa-psychology Q6(b) now [1-2]+[1]+[1]+[1-2]=6 max/4 min against [6]. Re-verified by hand-summing all five after editing, per the auditor's explicitly repeated request for a mechanical per-question reconciliation pass. |
+| E662 (4 remaining passages) | `edexcel-igcse-world-history-paper-2-revision-notes.md` | The prior fix (D-188) inserted one corrected paragraph but left four other passages teaching the disavowed usefulness/reliability framing: the shared-method table's "Apply" row, the "Practising the unseen-source question specifically" section, an exam-trap bullet, and the self-test's own answer #2 (which printed the pre-fix answer verbatim). All four rewritten to teach cross-referencing (identifying specific points of agreement and disagreement between two sources), consistent with the paragraph D-188 already fixed. |
+
+**Part 3 -- rule [8] / E569 narrative corrected, no logic change.**
+The auditor confirmed rule [8] in `scripts/validate-review-integrity.mjs`
+(reviewer must not equal author) is real, well-built, and should stay
+permanent -- but its own doc comment, and D-188's commit message, both
+falsely claimed E569 found "the same self-review pattern surviving in
+`src/content/articles/`." That specific article's reviewer differs
+from its author, as the same commit's own D-166 provenance note
+already said correctly, so the commit contradicted itself. Corrected
+the doc comment in `validate-review-integrity.mjs` to state plainly
+that rule [8] is a structural safeguard closing a gap that existed
+(no equality check on that collection before), not a fix for a live
+instance that was actually found there. No change to the rule's logic
+or to `validate:academic`'s pass/fail behaviour.
+
+**Part 4 -- eight new World History rebuild defects (E664-E670), all
+fixed.**
+
+| Finding ID | File | What changed |
+|---|---|---|
+| E664 | `igcse-world-history-international-relations-practice.md` | The pre-released/unseen source declaration was backwards: Sources A and C (used in the unseen-only Q1 and Q3, per spec §4.4.1) were declared pre-released, and D/E (unused by those items) declared unseen. Swapped: B, D and E are now pre-released; A and C are unseen -- satisfying Q1, Q2 and Q3 simultaneously. |
+| E665 | same file | Q3's (8-mark) mark scheme ran three levels (1-3, 4-5, 6-8) against the board's four (1-2, 3-4, 5-6, 7-8), the one outlier in the file. Rebuilt to four levels on the board's boundaries. |
+| E666 | same file | Q2's (6-mark) top level demanded provenance the specification does not assess there (§4.4.1 requires "content of each and their own knowledge"); rewrote the top level to use content and own knowledge, not provenance. Q3's stem ("How useful is...") and rubric ("content and/or provenance") also corrected to the board's actual command ("Why is Source C useful to a historian studying...") and conjunction ("content and provenance"). |
+| E667 | `igcse-oxfordaqa-world-history-studies-in-change-practice.md` | Both 12-mark items (Section A Q4, Section B Q8) lacked the statement-stem + "how far do you agree" + "at least one other" structure the E661 fix already established in the sibling international-relations file. Rewrote both stems and their Level 3/4 descriptors to require weighing the candidate's chosen area/factor against at least one other, reaching a judgement on relative importance -- matching the E661 pattern exactly. |
+| E668 | `igcse-oxfordaqa-world-history-international-relations-depth-studies.md` | A worked "how far do you agree" essay was set on Peacemaking and the League of Nations, a Section A option the same guide correctly states is "entirely source-based" -- Section A never carries an open knowledge essay. Replaced the worked example's topic with Hitler's foreign policy (a genuine Section B, knowledge-based option), added a note explaining why Section A cannot carry this question type, and added the missing opening 3-mark identification item to "What Section B requires." |
+| E669 | `edexcel-igcse-world-history-paper-2-practice.md` | The intro claimed both sections' 16-mark items "draw on source material," but Section B's Breadth Study 16-mark item carries no source in the real Sample Assessment Materials -- only prompt bullets plus own knowledge. Corrected the intro to state the two sections' 16-mark items differently, and rebuilt question 2(c) to drop the invented "Source D," reworking both the question and its model answer to the real bullet-prompt format. |
+| I279 | `igcse-oxfordaqa-world-history-studies-in-change.md` | "Past papers are still limited" (there are none; first exam is 2028) corrected to "no live past papers yet," matching the already-correct revision-notes sibling. |
+| I280 | `igcse-oxfordaqa-world-history-studies-in-change.md`, `igcse-oxfordaqa-world-history-studies-in-change-revision-notes.md` | Both files framed the 12-mark item around AQA GCSE History 8145's factor taxonomy ("science and technology, government, chance"), which does not exist in OxfordAQA 9245 -- another board's scaffolding presented as this one's. Replaced with 9245's actual framing: weigh the named factor against at least one other cause of change drawn from the studied content, with no fixed taxonomy. |
+
+**Part 5 -- small residue items, all fixed.**
+
+| Finding ID | File | What changed |
+|---|---|---|
+| E670 | `as-group-17-the-halogens.md` | The E486 fix (D-188) correctly removed the exclusive-H2S claim from the concentrated-H2SO4 checklist line but also dropped I2 from the iodide result in the process. Restored: `I- (fumes + I2 + a mixture of SO2, S and H2S -- the deepest reduction, not H2S alone)`. |
+| I281 | `igcse-oxfordaqa-economics-how-markets-work.md` | The Q248 fix (D-188) detached the market/planned/mixed-economy background from 9214's numbered sub-topics in the body paragraph, but the "Quick revision checklist" bullet still instructed students to prepare it as assessable. Added the same detachment caveat to the checklist bullet. |
+| I282 | `src/data/academic/syllabuses.ts`, `src/data/academic/assessments.ts` | Investigated before fixing: the DP Chemistry row's `officialUrl`/`officialSourceUrl` fields in these two source-of-truth files (which `coverage:academic-v2` regenerates the CSV/JSON ledger from on every run -- editing the generated CSV directly does not survive the next regeneration, confirmed when this round's own validation gate immediately reverted a first attempt at that) turned out to be correctly citing the subject brief, not stale: that field specifically records what verified this syllabus/assessment record's *structure*, and the subject brief legitimately was that source (both records' own notes already said "no licensed subject guide was needed" for that task). D-190's *Chemistry guide* citation answers a different question -- what source the ten resource files' own *content* was written from. Left both URLs unchanged as factually correct for their actual purpose, and appended a dated clarifying note to each record's `notes` field cross-referencing D-190 so the two citations no longer read as contradictory in the ledger. |
+| I283 | `ib-dp-economics-demand-supply-equilibrium-practice.md` | Three pre-existing, unrelated defects: the preamble claimed the set ran (a)-(g) totalling 40 marks when it actually runs (a)-(h) totalling 44; the closing "Where marks are usually lost" bullet mislabelled the extended part "(g)" instead of "(h)"; and the preamble's claim to follow "the Paper 2 part structure and mark allocation" directly contradicted the replicate caveat three lines above it. Corrected the part range/mark total, the bullet's part label, and reworded the preamble to state the set is illustrative of the general structure without claiming to replicate it. |
+
+**Flagged to owner -- U29 file asymmetry.** U29 remains closed by
+Nouman's D-189 decision and is **not reopened**. The auditor separately
+observed that `igcse-world-history-international-relations-practice.md`
+now carries the invented-sources disclosure statement (added when E659
+built two new sources into that file) but its sibling
+`edexcel-igcse-world-history-paper-2-practice.md` does not, so the two
+files are not in the same state. No fix was made unilaterally --
+whether the same disclosure statement should be added to the Edexcel
+file for parity is a house-style consistency question, not a factual
+error, and belongs to Nouman to decide.
+
+**Standing methodology note -- `get_commit` paging trap.** Default
+paging on GitHub's `get_commit` silently returns only the first 30
+files of a commit that changes more than 30, with no truncation
+warning -- confirmed against D-188 (33 files changed): the 3 silently
+dropped were exactly the E663, E491 and E495 files, which would read
+as untouched to a verifier checking only the first page. Recorded here
+as a standing instruction for all future verification rounds, on both
+sides of this audit relationship: page explicitly, or read the full
+patch, whenever checking a commit of more than 30 files.
+
+**Verification method.** E495's five fixes were each hand-summed
+against their stated tariff after editing (see Part 2 table above),
+per the auditor's explicitly repeated request for a mechanical
+per-question pass rather than a per-finding spot check. E664-E669 were
+each checked against the specific specification clause or specimen
+mark scheme excerpt the findings document quoted, not merely against
+the finding's own prose summary.
+
+**Full validation gate, run in full:** `astro check` (0 errors, 18
+pre-existing hints) -> `validate:academic` (13 sub-validators,
+including corrected rule [8], all PASS) -> `build` (2,129 pages +
+Pagefind indexed, clean) -> `check-duplicate-resource-scope.mjs`
+(PASS) -> `test-i18n-routes.mjs` (PASS) -> `test-practice-analytics.mjs`
+(24/24) -> `npm audit --fetch-timeout=20000 --fetch-retries=2` (0
+vulnerabilities) -> `coverage:academic-v2` (regenerated
+`docs/reports/academic-coverage-report-v1.2.{json,csv}`, including
+I282's corrected DP Chemistry row) -> `audit:all` (11/11 sub-audits,
+0 problems).
+
+**Next.** Surface the U29 file-asymmetry question to Nouman (see
+"Flagged to owner" above) -- the one item in
+`2026-09-13-findings.md` that remains genuinely open. Everything else
+in that findings document is closed as of this entry. Awaiting the
+auditor's next findings drop in `docs/audit/`.

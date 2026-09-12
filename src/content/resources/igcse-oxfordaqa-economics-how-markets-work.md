@@ -150,7 +150,7 @@ Treating a change in the good's own price as a shift. Confusing substitutes with
 
 ## Quick revision checklist
 
-- Explain the economic problem, opportunity cost, and how each economic system allocates resources.
+- Explain the economic problem and opportunity cost. The market/planned/mixed economy distinction is useful background for why the price mechanism matters, but sits outside 9214's own numbered sub-topics -- it is not assessable syllabus content in its own right.
 - Explain the income and substitution effects behind the demand curve.
 - List the conditions of demand and supply and predict the direction of any shift.
 - Distinguish substitutes from complements with examples.

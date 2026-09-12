@@ -95,8 +95,8 @@ method [1], because it directly asks the specific target population about their 
 product, generating data tailored exactly to the business's question rather than relying on
 pre-existing secondary sources [2].
 **(b)** Surveying the entire local population would be too costly and time-consuming for a small
-business to carry out [1–2]; sampling instead selects a smaller, representative group to give a
-reasonably accurate picture at a manageable cost [1]. Limitation: a sample may not perfectly represent
+business to carry out; sampling instead selects a smaller, representative group to give a
+reasonably accurate picture at a manageable cost [1–2]. Limitation: a sample may not perfectly represent
 the whole population, introducing a risk of sampling error or bias if the sample is not genuinely
 representative [1].
 

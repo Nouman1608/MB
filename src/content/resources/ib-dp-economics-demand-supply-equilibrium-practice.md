@@ -29,9 +29,11 @@ Related: [Demand, Supply and Market Equilibrium revision notes](/resources/ib-dp
 IB Economics papers are not divided into lettered sections. Paper 1
 offers a choice of one question from three, each split into part (a)
 (10 marks) and part (b) (15 marks). Paper 2 offers a choice of one
-question from two, split into parts running from (a) to (g) and
-totalling 40 marks (4 marks split 2 and 2, then 5, 4, 4, 4, 4 and 15).
-This set follows the Paper 2 part structure and mark allocation.
+question from two, split into parts running from (a) to (h) and
+totalling 44 marks (4 marks split 2 and 2, then 5, 4, 4, 4, 4, 4 and
+15). This set is illustrative of Paper 2's general part structure --
+it does not replicate any single paper's exact part count or mark
+allocation, consistent with the note above.
 
 ---
 
@@ -100,6 +102,6 @@ to society goes unproduced, so total surplus is lower [2].
 - Price-ceiling analysis that concludes the wrong direction (a ceiling below equilibrium creates a shortage, not a surplus).
 - Naming only one or two of the price mechanism's three functions (signalling, incentive, rationing) when a question asks for all of them.
 - Claiming a definite direction for both price *and* quantity when demand and supply shift simultaneously — only one of the two is certain unless the relative size of each shift is also given.
-- Answering the extended part (g) at only an "explain" level, without a final judgement that directly compares the two systems.
+- Answering the extended part (h) at only an "explain" level, without a final judgement that directly compares the two systems.
 
 For condensed recall notes on this topic, see the [Demand, Supply and Market Equilibrium revision notes](/resources/ib-dp-economics-demand-supply-equilibrium-revision-notes/).

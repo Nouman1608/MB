@@ -78,12 +78,11 @@ carry equal weight, revision time across the two should be balanced
 evenly rather than skewed toward whichever paper feels more familiar.
 
 This is a new qualification, first taught from September 2026 with
-first examinations in May/June 2028, so specimen materials and past
-papers are still limited compared with established specifications --
-centres switching to OxfordAQA for this qualification should treat the
-official specimen assessment materials as the primary source of
-question style until a fuller run of live past papers becomes
-available.
+first examinations in May/June 2028, so there are no live past papers
+yet -- centres switching to OxfordAQA for this qualification should
+treat the official specimen assessment materials as the primary source
+of question style until live past papers become available after the
+first examination series.
 
 ## Common mistakes
 
@@ -116,10 +115,10 @@ WEAK: lists several medical developments in chronological order with
 STRONG: organises the answer explicitly around the named factor,
         assessing its contribution to specific developments (for
         example, how wartime demand accelerated blood transfusion or
-        plastic surgery techniques), while also weighing it against
-        other factors (science and technology, government, chance) to
-        reach a supported judgement on how far it explains the
-        change overall.
+        plastic surgery techniques), while also weighing it against at
+        least one other cause of change drawn from the studied content
+        -- not a fixed checklist of factors -- to reach a supported
+        judgement on how far it explains the change overall.
 ```
 
 The phrase "how far" signals that the question wants a weighed
@@ -136,9 +135,10 @@ examples spread across different eras rather than trying to cover the
 whole timeframe evenly.
 - Practise explaining why a change happened, not only describing what
 changed.
-- Prepare to weigh multiple factors (war, science, government,
-individuals, chance) against each other when a question asks "how
-far" something explains a change.
+- Prepare to weigh your chosen factor against **at least one other**
+cause of change drawn from your studied content when a question asks
+"how far" something explains a change -- the specification does not
+name a fixed set of factors to choose from.
 - Confirm exactly which Section A society and Section B theme your
 centre has taught before revising further.
 

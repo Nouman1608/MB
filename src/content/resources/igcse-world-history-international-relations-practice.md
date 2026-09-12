@@ -42,14 +42,14 @@ centre has taught.
 of **three** of them is released in advance — on 1 February for the
 May/June series, or 1 July for the October/November series — and the
 other two are unseen until the exam. No notes or annotations may be
-brought in; a clean copy of all five is supplied on the day. Sources A, B
-and C below are the pre-released three; D and E are the unseen pair.
+brought in; a clean copy of all five is supplied on the day. Sources B, D
+and E below are the pre-released three; A and C are the unseen pair.
 
 ---
 
 ## Section A — Peacemaking and the League of Nations (illustrative sources)
 
-**Source A** *(pre-released)*: From a British newspaper editorial, June
+**Source A** *(unseen)*: From a British newspaper editorial, June
 1919, on the signing of the Treaty of Versailles.
 
 > "Germany is made to sign, but not to negotiate. A peace imposed without
@@ -64,7 +64,7 @@ the situation in Manchuria, October 1932.
 > to respect the territorial integrity of fellow members, but the Council
 > possesses no armed force of its own with which to compel compliance."
 
-**Source C** *(pre-released)*: From a private letter written by a League
+**Source C** *(unseen)*: From a private letter written by a League
 of Nations official to a colleague, December 1935, on the crisis over
 Abyssinia.
 
@@ -72,7 +72,7 @@ Abyssinia.
 > government was negotiating to hand Mussolini most of what he wanted with
 > the other. I no longer know which policy we are actually pursuing."
 
-**Source D** *(unseen)*: From a French newspaper editorial, June 1919, on
+**Source D** *(pre-released)*: From a French newspaper editorial, June 1919, on
 the signing of the Treaty of Versailles.
 
 > "France asked for a settlement that would guarantee our security for a
@@ -80,7 +80,7 @@ the signing of the Treaty of Versailles.
 > Germany will resent it. Justice and security are not the same demand,
 > and today's treaty answers neither in full."
 
-**Source E** *(unseen)*: From a memorandum circulated within the League of
+**Source E** *(pre-released)*: From a memorandum circulated within the League of
 Nations Secretariat, 1936, reviewing the organisation's response to the
 Abyssinian crisis.
 
@@ -97,10 +97,10 @@ the Treaty of Versailles from the moment it was signed. How do you know?
 **2.** How is Source A different to Source D about reactions to the
 Treaty of Versailles? Explain one difference. **[6]**
 
-**3.** How useful is Source C for understanding why the League of Nations
-struggled to respond to aggression in the 1930s? Use the source's content
-and/or provenance and your own contextual knowledge to explain your
-answer. **[8]**
+**3.** Why is Source C useful to a historian studying why the League of
+Nations struggled to respond to aggression in the 1930s? Use the
+source's content, provenance and your own contextual knowledge to
+explain your answer. **[8]**
 
 **4.** How far do Sources A, B, C, D and E support the view that the
 League of Nations was doomed to fail from the moment it was created? Use
@@ -146,27 +146,34 @@ either source, e.g. that one source is more positive than the other.
 *Level 2 (3–4):* a difference identified and supported with content from
 both sources — Source A doubts the treaty will bring lasting peace, while
 Source D says the treaty fails to deliver even the security France
-demanded. *Level 3 (5–6):* the difference explained using content and
-provenance from both sources together — Source A, a British editorial,
-questions the treaty's durability without disputing that Germany deserved
-some settlement, while Source D, a French editorial from the same month,
-argues the treaty has failed to guarantee French security specifically;
-the difference reflects each country's different stake in the peace —
-Britain more removed from the immediate threat of a resurgent Germany,
-France sharing a border with it.
+demanded. *Level 3 (5–6):* the difference explained using the content of both
+sources and own knowledge together — Source A questions whether the
+treaty secures a lasting peace without disputing that Germany deserved
+some settlement, while Source D argues the treaty has failed to
+guarantee the security France specifically demanded; own knowledge that
+Britain lay more distant from the immediate threat of a resurgent
+Germany while France shared a border with it explains why each
+country's doubts about the same treaty took a different form.
 
-**3. (8 marks)** *Level 1 (1–3):* content only, described generally — the
-letter shows the League was inconsistent. *Level 2 (4–5):* content and
+**3. (8 marks)** *Level 1 (1–2):* a general point about the source's
+content, e.g. that the letter shows the League was inconsistent, with no
+use of provenance or own knowledge. *Level 2 (3–4):* content and
 provenance considered together — a private letter between officials is
 candid in a way a public statement would not be, and its date (December
-1935) places it during the Hoare-Laval Pact controversy. *Level 3 (6–8):*
-content, provenance and contextual knowledge combined into a developed
-judgement — because the writer is an insider with no reason to flatter
-their own organisation, and because own knowledge confirms Britain and
-France really were secretly negotiating with Mussolini at this time, the
-source is highly useful for showing that the League's own leading members
-undermined its sanctions policy from within, not only that outsiders
-thought this was happening.
+1935) places it during the Hoare-Laval Pact controversy. *Level 3 (5–6):*
+content, provenance and contextual knowledge combined, with some
+explanation of why this makes the source useful — because the writer is
+an insider with no reason to flatter their own organisation, and because
+own knowledge confirms Britain and France really were secretly
+negotiating with Mussolini at this time, the source appears useful for
+showing that the League's own leading members undermined its sanctions
+policy from within. *Level 4 (7–8):* content, provenance and contextual
+knowledge combined into a fully developed, sustained judgement on how
+useful the source is — building on Level 3's point to explain
+specifically that the source is valuable for showing this was happening
+from within the League's own ranks, not only that outsiders suspected
+it, which is what makes an insider's private, candid account more
+useful here than a public statement would be.
 
 **4. (12 marks)** *Level 1 (1–3):* a general assertion that the League was
 bound to fail, with little direct use of the sources. *Level 2 (4–6):*
