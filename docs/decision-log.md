@@ -9269,3 +9269,59 @@ decision entries (D-165 through D-183).
 **Verification**: `node --experimental-strip-types scripts/validate-academic-content.mjs` -- syllabus topic references OK, syllabus code references OK, no errors. `node --experimental-strip-types scripts/validate-cross-board-integrity.mjs` -- all 5 rule categories clean (160 topic collections, 163 source URLs, 132 spec codes, 183 matrix rows, 1633 resource files), 0 problems. Both scripts parsing `syllabus-topics.ts` without error is itself confirmation the edited `notes` string (which contains backticks inside a single-quoted JS string) introduced no syntax problem. A full `npm run build` was also run as part of closing this out.
 
 **Not done**: `syllabuses.ts` was reviewed but not edited (already consistent). This record should be revisited to set `status: 'superseded'` once the November 2026 examination session has actually passed.
+
+
+## D-186 - Amend 2026-09-11-findings.md with R1-R7 retractions (2026-09-12)
+
+**Trigger**: The auditor's 2026-09-12 re-verification round (`docs/audit/2026-09-12-findings.md`,
+commit `f460647`) independently re-checked 54 of the 179 findings in `2026-09-11-findings.md`
+and found seven wrong or overstated, one of them (Q205) urgently -- its prescribed fix would
+have deleted required syllabus content. The auditor explicitly asked that these be amended in
+the source document itself, not only addressed here: "declining in a commit message is not
+sufficient protection" for a future reader of that file in isolation.
+
+**What was done**: Amended all seven findings in place in `docs/audit/2026-09-11-findings.md`,
+preserving the original finding text and appending a dated amendment/retraction paragraph to
+each rather than deleting or rewriting the original (keeps the audit trail intact):
+
+- **Q205 -- RETRACTED.** OxfordAQA International GCSE Economics (9214) section 3.1.3.5 lists
+  cross elasticity of demand as required content with an explicit calculation requirement;
+  section 3.1.3.6 (price elasticity of supply) is a full required sub-topic too. All three
+  elasticity measures are required, not two. The original remediation's "no edit" decision on
+  this finding was correct and stands unchanged.
+- **E569 -- premise amended.** `src/content/authors/muhammad-ghazali-siddiqui.md` carries
+  `isReviewer: true` as a distinct person, and `src/content/articles/where-igcse-maths-marks-
+  are-lost-early.md` carries `reviewer: "muhammad-ghazali-siddiqui"` against a different
+  `author` -- a genuine independent reviewer credit the original finding's `resources/`-scoped
+  sweep missed before generalising to "the corpus."
+- **E570 -- scope amended.** The stated "forty three further resources" undercounted; at least
+  64 existed and the remediation fixed 69 files / 96 occurrences, over-delivering rather than
+  under-delivering.
+- **I212 -- premise amended.** "Six siblings all cite one" was false; at least three siblings
+  had no closing citation at the time -- a family-level defect, not a single outlier.
+- **E491 -- overstated claim amended.** "Two of them repeatedly" is unsupported; the pre-commit
+  state shows exactly one instance of the off-list word per named file.
+- **I221 -- rationale amended.** Cambridge 9699 v3 and 0495 v3 both use non-exhaustive
+  "includes" language for their command-word tables, not a closed list as the finding stated --
+  the remediation's actual fix (papers now use only listed words) needed no change.
+- **Q215 -- premise amended.** OxfordAQA 9292 does have a published specimen paper and mark
+  scheme (the same document Q214, four findings earlier in the same section, relies on) -- the
+  defensible claim is narrower: no *live-series* mark schemes yet, not no mark schemes at all.
+
+**Verification**: No site content changed -- this is a documentation correction to the findings
+file itself. Diffed each edit against the auditor's exact R1-R7 wording in
+`2026-09-12-findings.md` before writing, and re-read all seven amended sections after editing to
+confirm the original finding text was preserved unmodified alongside the new paragraph.
+
+**No validation gate run** -- no source, content, or schema files changed.
+
+**Drift note**: `origin/main` had advanced by one commit (`f6f43ac`, D-185, an unrelated
+DP Psychology exam-session fix from a separate concurrent session) between this round's start
+and this commit. Fast-forward pull, no conflict -- that commit did not touch
+`docs/audit/2026-09-11-findings.md`.
+
+Committed as `f7a005f`, pushed cleanly `f6f43ac..f7a005f`.
+
+**Next**: proceed through the auditor's stated priority order for `2026-09-12-findings.md`:
+E663 (highest student impact) first, then E659/E661/U29 (World History rebuild, U29 flagged to
+the user as a policy call), then E530, then the rest of Part 2, then Parts 3 and 4.
