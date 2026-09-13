@@ -31,17 +31,17 @@ Related: [The Nature of Law revision notes](/resources/aqa-a-level-law-nature-re
 
 **1.** Distinguish between legal rules and moral rules, giving **three** points of difference. **[6]**
 
-**2.** State Dicey's three elements of the rule of law. **[3]**
+**2.** State the specification's three elements of the rule of law. **[3]**
 
 ## Section B
 
 **3.** Explain the Hart–Devlin debate on the enforcement of morality, and give one example of the law reflecting a change in moral attitudes. **[8]**
 
-**4.** Explain the difference between natural law and legal positivism, and give one criticism of each. **[8]**
+**4.** Explain the relationship between law and morality, including the extent to which the law should enforce moral values in a pluralist society. **[8]**
 
 **5.** Explain **three** theories of justice and apply each briefly to the sentencing of offenders. **[9]**
 
-**6.** Evaluate the extent to which the English legal system achieves access to justice. **[12]**
+**6.** Evaluate the extent to which the English legal system achieves access to justice. **[15]**
 
 ---
 
@@ -49,12 +49,12 @@ Related: [The Nature of Law revision notes](/resources/aqa-a-level-law-nature-re
 
 **1. Origin** — legal rules are **created by a formal, identifiable process** such as an Act of Parliament or a court decision; moral rules **evolve gradually within a society or community** with no formal starting point [1] [1]. **Enforcement** — legal rules are **enforced by the courts with defined sanctions**; moral rules are enforced only by **social pressure, disapproval or conscience** [1] [1]. **Change** — a legal rule can be **changed instantly by legislation**; moral rules change **slowly and are often disputed within the same society** [1] [1]. (Also accept: legal rules bind everyone in the jurisdiction; moral rules may bind only a group.)
 
-**2.** **No person may be punished except for a breach of law established in the ordinary courts** [1]; **no person is above the law and all are subject to the ordinary law administered by the ordinary courts** [1]; **rights are secured through decisions of the courts rather than a written constitution** [1].
+**2.** **No one is above the law** [1]; **equality before the law**, with everyone subject to the same law applied by the same courts [1]; **fairness and clarity in how the law operates** [1]. (Dicey's own formulation — no punishment except for a breach of law established in the ordinary courts, equality before the law, and rights secured through court decisions rather than a written constitution — is useful background but is not how the specification itself states the doctrine.)
 
 **3.** The debate followed the **Wolfenden Report (1957)**, which recommended decriminalising homosexual acts between consenting adults in private [1]. **Devlin** argued that a **shared morality is the cement of society**, so the law is entitled to enforce it; conduct that the reasonable person would regard with "intolerance, indignation and disgust" may be punished even if it harms no one else [1] [1]. **Hart**, drawing on Mill's harm principle, argued the law should only intervene to **prevent harm to others**; enforcing morality restricts individual liberty, and the "shared morality" Devlin assumed does not exist in a pluralist society [1] [1].
-Example: the **decriminalisation of homosexual acts by the Sexual Offences Act 1967**, and the later equalisation of the age of consent and introduction of same-sex marriage in 2013, show the law following changing moral attitudes rather than leading them [1] [1] [1].
+Example: the **decriminalisation of homosexual acts by the Sexual Offences Act 1967**, the later equalisation of the age of consent, and the **Marriage (Same Sex Couples) Act 2013** — which made same-sex marriage lawful from its commencement on **13 March 2014** — show the law following changing moral attitudes rather than leading them [1] [1] [1].
 
-**4. Natural law** holds that there is a **higher, universal moral law** — from God, nature or reason — and that **an unjust law is not properly law at all** [1] [1]. **Legal positivism** holds that law and morality are **separate**: a rule is law if it has been **created by the correct procedure by the recognised authority**, regardless of its moral content [1] [1].
+**4.** Law and morality **overlap substantially in some areas** (e.g. serious violence, dishonesty) but diverge in others (e.g. many regulatory or technical offences), so the two are **related but distinct systems of rules** [1] [1]. In a **pluralist society**, where moral views on issues such as assisted dying or drug use genuinely differ, enforcing one group's morality through law risks **restricting individual liberty** without the shared consensus Devlin's argument assumes; but a wholly amoral law also risks **legitimising serious harm**, which is why the law does enforce a moral floor in areas such as violence and dishonesty even in a pluralist society [1] [1].
 Criticism of natural law: there is **no agreement on what the higher law requires**, so it provides no workable test, and it may encourage disobedience to validly enacted law [1] [1].
 Criticism of positivism: it would require **obedience to grossly unjust laws** — as the Nuremberg trials illustrated, where "I was following the law" was rejected as a defence [1] [1].
 

@@ -83,6 +83,12 @@ Beneath the rules sit principles that questions repeatedly test.
 
 **Judicial independence** is secured by security of tenure, salaries charged on the Consolidated Fund, immunity from suit, and the sub judice rule.
 
+## Theories of punishment and legal theory
+
+The specification requires the **theories of punishment** — their purposes and how they relate to the sentences actually available. **Retribution** punishes the offender because they deserve it, proportionate to the offence. **Deterrence** aims to discourage the offender (individual deterrence) and others (general deterrence) from offending. **Rehabilitation** seeks to reform the offender so they do not reoffend. **Protection of the public** removes or restricts an offender who poses a danger. **Reparation** requires the offender to make amends to the victim or society.
+
+It also requires three named **legal theories**. **Positivism** holds that law and morality are separate: a rule is law if made by the correct procedure by the recognised authority, whatever its moral content. **Natural law** holds that there is a higher, universal moral law, so that a law conflicting with it is not properly law at all. **Utilitarianism** holds that the right law or decision is the one producing the greatest happiness of the greatest number.
+
 ## Law and morality, law and justice
 
 Morality changes over time and varies between groups; law is enforced uniformly by the state. The overlap is substantial in areas such as homicide, and thin in regulatory offences.
@@ -128,6 +134,7 @@ Confusing the rule of law with the separation of powers. Saying courts can strik
 
 ## Quick revision checklist
 
+- Explain the five theories of punishment and the three named legal theories (positivism, natural law, utilitarianism).
 - State Dicey's rule of law, parliamentary supremacy and the separation of powers, with the effect of the Constitutional Reform Act 2005.
 - Explain how judicial independence is protected.
 - Discuss law and morality, and distributive, corrective and procedural justice with named theorists.

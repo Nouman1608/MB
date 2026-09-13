@@ -66,6 +66,10 @@ Cambridge International AS & A Level Law (9084) syllabus for
 examination 2026, 2027 and 2028 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697352-2026-2028-syllabus.pdf).
 
+## Underlying principles
+
+Two principles structure the whole legal system. The **rule of law** holds that no one is above the law, that all are equal before it, and that the law should be clear, certain and applied fairly and consistently. **Parliamentary sovereignty** holds that Parliament may make or unmake any law and that no court may set an Act aside — the foundation the rest of this topic builds on.
+
 ## Sources of law
 
 English law draws on several sources, and questions usually turn on the relationship between them.
@@ -98,13 +102,29 @@ The Lords may delay but not indefinitely block; the Parliament Acts allow a Bill
 
 Where the words of an Act are unclear, judges apply established approaches: the **literal rule** (ordinary meaning, even if the result is harsh), the **golden rule** (depart from the literal meaning to avoid an absurd result), the **mischief rule** (identify the defect the Act was passed to remedy), and the increasingly dominant **purposive approach** (give effect to Parliament's purpose).
 
-These are supported by intrinsic aids within the Act itself and extrinsic aids such as dictionaries, Law Commission reports and Hansard.
+These are supplemented by the language rules — ***ejusdem generis*** (general words following a list of specific ones are read as limited to the same class), ***expressio unius est exclusio alterius*** (naming one thing by implication excludes others not named) and ***noscitur a sociis*** (a word takes its meaning from the words around it) — and by intrinsic aids within the Act itself and extrinsic aids such as dictionaries, Law Commission reports and Hansard.
 
 ## Judicial precedent
 
 *Stare decisis* — stand by what has been decided — requires courts to follow decisions of higher courts on similar facts. The binding element is the **ratio decidendi**, the legal reasoning essential to the decision. Anything said "by the way" is **obiter dicta** and is persuasive only.
 
-Judges avoid an inconvenient precedent by **distinguishing** on the facts, and higher courts may **overrule** an earlier decision or **reverse** the decision below on appeal. The court hierarchy determines who binds whom, so knowing that hierarchy is the foundation of the whole topic.
+Judges avoid an inconvenient precedent by **distinguishing** on the facts, and higher courts may **overrule** an earlier decision or **reverse** the decision below on appeal. The court hierarchy determines who binds whom: civil appeals run from the County Court or High Court to the Court of Appeal (Civil Division) and the Supreme Court; criminal appeals run from the Magistrates' Court or Crown Court to the Court of Appeal (Criminal Division) and the Supreme Court; each court binds every court below it, and the Supreme Court binds all of them. Since the **Practice Statement 1966**, the Supreme Court (formerly the House of Lords) may depart from its own past decisions where it appears right to do so.
+
+## Machinery of justice
+
+**Civil courts.** Claims begin in the County Court or, for higher-value or more complex matters, the High Court, and are allocated to the small claims, fast, intermediate or multi-track by value and complexity.
+
+**Criminal courts.** Offences are **summary** (tried only in the Magistrates' Court), **either-way** (tried in either court, depending on the magistrates' assessment of their sentencing powers and the defendant's own election), or **indictable** (first heard in the Magistrates' Court but always tried in the Crown Court before a judge and jury).
+
+**Alternative dispute resolution.** A civil dispute need not go to court. **Negotiation** lets the parties, or their solicitors, reach their own agreement directly. **Mediation** uses a neutral third party who helps the parties reach their own solution without imposing one. **Conciliation** is similar, but the conciliator may actively suggest a solution. **Arbitration** submits the dispute to an arbitrator whose award is binding and enforceable in court, often under the Arbitration Act 1996. ADR is generally cheaper, faster, more private and less adversarial than litigation, though it depends on the parties' willingness to engage.
+
+## Legal personnel
+
+**Barristers** are typically self-employed specialists in advocacy and legal opinion, practising from chambers and traditionally instructed by a solicitor rather than directly by the client. **Solicitors** deal directly with clients, handle case preparation, conveyancing, wills and litigation, and increasingly exercise rights of audience in the higher courts. **Legal executives**, qualified through CILEX, specialise in one area of law within a solicitors' firm and may in time gain rights of audience and judicial appointment.
+
+The **judiciary** is appointed by the independent Judicial Appointments Commission. Judicial independence is protected by **security of tenure** (senior judges can be removed only by a petition to the monarch approved by both Houses of Parliament), **salaries charged on the Consolidated Fund** rather than subject to annual parliamentary vote, and **immunity from suit** for acts done in a judicial capacity.
+
+**Lay people** — magistrates and jurors — bring community participation to the system. Magistrates are unpaid, trained volunteers who deal with the great majority of criminal cases; jurors are randomly selected members of the public who decide guilt or innocence on the facts in Crown Court trials. Both attract criticism over representativeness and, for juries, competence in complex or lengthy cases.
 
 ## Worked example
 
@@ -126,9 +146,13 @@ Confusing ratio decidendi with obiter dicta. Treating distinguishing and overrul
 
 ## Quick revision checklist
 
+- State the rule of law and parliamentary sovereignty as the topic's underlying principles.
 - List the sources of English law and rank them, explaining parliamentary sovereignty.
 - Describe every stage of the legislative process in order.
 - Explain delegated legislation, its forms, and both controls on it including *ultra vires*.
-- Apply the literal, golden, mischief and purposive approaches to a set of facts.
-- Define ratio decidendi and obiter dicta, and explain distinguishing, overruling and reversing.
-- Explain how the court hierarchy determines binding precedent.
+- Apply the literal, golden, mischief and purposive approaches to a set of facts, plus the language rules.
+- Define ratio decidendi and obiter dicta, and explain distinguishing, overruling, reversing and the Practice Statement 1966.
+- Set out the civil and criminal court hierarchies and explain how they determine binding precedent.
+- Distinguish summary, either-way and indictable offences and where each is tried.
+- Compare negotiation, mediation, conciliation and arbitration as forms of ADR.
+- Describe the roles of barristers, solicitors and legal executives, and how judicial independence is protected.

@@ -39,8 +39,8 @@ Most crimes need **actus reus** (guilty act) **and** mens rea (guilty mind) pres
 
 ## Mens rea — three levels of fault, plus one exception
 
-- **Intention** — aim/purpose, or foreseeing a consequence as virtually certain.
-- **Subjective recklessness** — the defendant personally foresaw a risk and took it anyway.
+- **Intention** — aim/purpose; a jury *may*, but need not, also find intention where the defendant foresaw a consequence as virtually certain.
+- **Subjective recklessness** — the defendant personally foresaw a risk and unreasonably took it anyway.
 - **Negligence** — judged against an objective reasonable-person standard, not the defendant's own state of mind.
 - **Strict liability** — the specification's own named exception: no mens rea needed for at least one element.
 
@@ -76,7 +76,7 @@ proceed to actus reus at all — this is the step examiners most often find miss
 | Fault element | Test | Standard |
 |---|---|---|
 | Intention | Aim/purpose, or foresight of virtual certainty | Subjective |
-| Subjective recklessness | Personally foresaw the risk, took it anyway | Subjective |
+| Subjective recklessness | Personally foresaw the risk, unreasonably took it anyway | Subjective |
 | Negligence | Fell below the standard of a reasonable person | Objective |
 | Strict liability | No mens rea required for at least one element | None |
 

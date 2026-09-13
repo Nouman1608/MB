@@ -54,7 +54,7 @@ Related: [General Elements of Liability study guide](/resources/a-level-aqa-law-
 
 **9.** State **four** recognised sources of a duty to act in omissions liability. **[4]**
 
-**10.** A student writes: "The defendant is guilty because he did something bad." Explain **two** ways in which this statement fails to demonstrate the structure required for a full-mark criminal liability answer. **[4]**
+**10.** A student writes: "The defendant is guilty because he did something bad." Explain **four** ways in which this statement fails to demonstrate the structure required for a full-mark criminal liability answer. **[4]**
 
 ---
 

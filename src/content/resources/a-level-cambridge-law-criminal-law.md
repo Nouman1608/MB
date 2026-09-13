@@ -86,8 +86,10 @@ specific statutory section:
 - **Burglary (s9 Theft Act 1968)** — entering a building as a trespasser
   either to commit a listed offence (s9(1)(a)) or having entered as a
   trespasser then committing one (s9(1)(b)); s9(4) defines "building";
-  aggravated burglary under s10 applies where the defendant carries a
-  weapon
+  aggravated burglary under s10 applies where the defendant has with
+  them any firearm or imitation firearm, any weapon of offence, or any
+  explosive — at the point of entry for the s9(1)(a) form, or at the
+  time of committing the further offence for the s9(1)(b) form
 - **Blackmail (s21 Theft Act 1968)** — an unwarranted demand with menaces, made with a view to gain or intent to cause loss
 - **Handling stolen goods (s22 Theft Act 1968)** — dishonestly receiving, or dishonestly undertaking/assisting in the retention, removal, disposal or realisation of, stolen goods, knowing or believing them to be stolen
 - **Making off without payment (s3 Theft Act 1978)** — dishonestly leaving without paying where payment is expected on the spot, with s4 covering sentencing

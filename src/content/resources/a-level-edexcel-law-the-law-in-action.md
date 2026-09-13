@@ -185,9 +185,10 @@ made with a view to gain or intent to cause loss.
 - **Fraud by false representation** and **obtaining services
 dishonestly** (Fraud Act 2006, ss 2, 5, 11).
 - **Making off without payment** (Theft Act 1978, s 3).
-- **Criminal damage** (Criminal Damage Act 1971, s 1), which is a
-defence if the defendant had, or honestly believed they had, a lawful
-excuse (s 5).
+- **Criminal damage** (Criminal Damage Act 1971, s 1) — destroying or
+damaging property belonging to another, for which **lawful excuse**
+(s 5) is a defence where the defendant had, or honestly believed they
+had, the excuse claimed.
 
 **General defences** on this paper: **duress** (of threats, or of
 circumstances -- both require an objectively reasonable, immediate

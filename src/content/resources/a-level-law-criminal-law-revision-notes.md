@@ -35,11 +35,11 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Law (9084), 
 | Offence | Section | Key element |
 |---|---|---|
 | Theft | s1 Theft Act 1968 | Dishonest appropriation of property belonging to another, intent to permanently deprive |
-| Robbery | s8 Theft Act 1968 | Theft + use/threat of force at/before the theft |
+| Robbery | s8 Theft Act 1968 | Theft + use/threat of force at/before the theft, in order to steal |
 | Burglary | s9 Theft Act 1968 | Trespass + intent to commit a listed offence, or committing one having trespassed |
 | Aggravated burglary | s10 | Burglary while carrying a weapon |
 | Blackmail | s21 Theft Act 1968 | Unwarranted demand with menaces, view to gain/intent to cause loss |
-| Handling stolen goods | s22 Theft Act 1968 | Dishonestly receiving/retaining/disposing, knowing/believing stolen |
+| Handling stolen goods | s22 Theft Act 1968 | Otherwise than in the course of the stealing, dishonestly receiving/retaining/disposing, knowing/believing stolen |
 | Making off without payment | s3 Theft Act 1978 | Dishonestly leaving without paying when payment expected on the spot |
 | Criminal damage | Criminal Damage Act 1971 | s1 destroy/damage; s2 threats; s3 possession with intent |
 | Fraud | Fraud Act 2006 | s2 false representation; s3 failing to disclose; s4 abuse of position |

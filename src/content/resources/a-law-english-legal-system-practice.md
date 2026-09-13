@@ -8,7 +8,7 @@ boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9084"]
 syllabusSeries: "2026-2028"
-order: 1
+order: 2
 stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
@@ -24,7 +24,7 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [The English Legal System revision notes](/resources/a-law-english-legal-system-revision-notes/)
+Related: [The English Legal System revision notes](/resources/a-law-english-legal-system-revision-notes/) | [Sources, tracks, ADR and precedent practice](/resources/law-english-legal-system-practice/)
 
 ---
 
