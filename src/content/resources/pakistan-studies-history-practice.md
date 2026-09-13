@@ -41,9 +41,9 @@ Related: [The History and Culture of Pakistan revision notes](/resources/pakista
 
 **5.** Explain why the Lahore Resolution of 1940 was a turning point in the Pakistan Movement. **[9]**
 
-**6.** Explain **three** problems faced by Pakistan immediately after independence in 1947, and how each was addressed. **[10]**
+**6.** Explain **three** problems faced by Pakistan immediately after independence in 1947, and how each was addressed. **[9]**
 
-**7.** Explain why the events of 1857 mattered for Muslims in British India, giving **two** consequences. **[6]**
+**7.** Explain why the events of 1857 mattered for Muslims in British India, giving **two** consequences. **[4]**
 
 ---
 
@@ -57,14 +57,14 @@ Related: [The History and Culture of Pakistan revision notes](/resources/pakista
 
 **4. The partition of Bengal (1905)** — created a Muslim-majority province of Eastern Bengal and Assam, giving Muslims better prospects in education and employment [1]; Hindu agitation and the **annulment in 1911 convinced many Muslims that the British would yield to Congress pressure**, so Muslims needed their own political organisation [1] [1].
 **The Muslim League (1906)** — founded at Dhaka to **protect Muslim political rights and present their case to the government** [1]; it gave Muslims an **organised, separate political voice for the first time** [1] and secured separate electorates in the Morley-Minto reforms of 1909 [1].
-**The Nehru Report (1928)** — proposed **joint electorates, a unitary structure and no reserved seats**, rejecting almost every Muslim demand [1]; it convinced Muslim opinion that **Congress would not protect their interests within a united India** [1], and prompted Jinnah's Fourteen Points in direct response [1].
+**The Nehru Report (1928)** — replaced separate electorates with **joint electorates**, and reserved seats for Muslims only where they were a minority, refusing reservation in the two provinces where Muslims were a majority [1]; contemporary Muslim League opinion read this as rejecting almost every Muslim demand [1], which convinced many that **Congress would not protect their interests within a united India** [1], and prompted Jinnah's Fourteen Points in direct response [1].
 
 **5.** The Lahore Resolution moved the demand from **safeguards within a united India to the creation of separate states** for Muslim-majority regions [1] [1]. It gave the Muslim League a **single, clear and unmistakable objective**, around which support could be mobilised, replacing years of negotiation over quotas and electorates [1] [1]. It followed the **experience of Congress rule from 1937 to 1939**, when Muslims felt their culture and religion were under pressure, so it had a concrete grievance behind it [1] [1]. It **transformed the League into a genuine mass movement** — its membership and electoral performance rose dramatically, culminating in the 1945–46 elections where it won almost all Muslim seats [1] [1]. From this point, **partition rather than federation became the basis of all subsequent negotiation** with Britain and Congress [1].
 
 **6.** Any three, with responses. **The refugee crisis** — several million people crossed the border in conditions of appalling violence, needing food, shelter and employment [1] [1]; the government established a **Ministry of Refugees and Rehabilitation**, set up camps and allocated evacuee property, though resources were wholly inadequate [1].
 **Division of assets** — Pakistan was allocated **17.5% of undivided India's financial assets but initially received only a fraction**; India withheld Rs. 550 million [1] [1]; the amount was eventually released after **Gandhi's intervention and fasting**, though the delay crippled the early administration [1].
 **Absence of administrative machinery** — Pakistan had **no capital infrastructure, few trained civil servants and almost no industry**, since most industrial areas remained in India [1] [1]; Karachi was made the temporary capital and offices were improvised, with officials working without furniture or files while a new administration was built from scratch [1].
-**Princely states and Kashmir** — the accession of Junagadh, Hyderabad and above all **Kashmir led to the first war with India in 1947–48** [1] [1]; a UN-brokered ceasefire in January 1949 left the state divided and the dispute unresolved [1].
+**Princely states and Kashmir** — the accession disputes over Junagadh and Hyderabad were both resolved without war between Pakistan and India [1] [1]; the disputed accession of **Kashmir alone led to the first war with India in 1947–48** [1], and a UN-brokered ceasefire in January 1949 left the state divided and the dispute unresolved [1].
 
 **7.** Any two: the **East India Company was replaced by direct Crown rule**, ending Company government entirely [1] [1]. The **Mughal emperor was deposed**, formally ending the last symbol of Muslim political authority in India [1] [1]. **Muslims were blamed disproportionately** for the uprising, even though Hindus had also taken part, and were **excluded from government service and education** as a result — the position Sir Syed Ahmad Khan's later reform movement was a direct response to [1] [1].
 

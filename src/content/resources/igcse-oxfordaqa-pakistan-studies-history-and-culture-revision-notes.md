@@ -7,12 +7,12 @@ topic: "Paper 1 – The History and Culture of Pakistan"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9236"]
-syllabusSeries: "Version 1.9"
+syllabusSeries: "2026-onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
-description: "Condensed recall notes on Paper 1's compulsory and optional topics for OxfordAQA International GCSE Pakistan Studies (9236)."
+description: "Condensed recall notes on Paper 1's compulsory topics for OxfordAQA International GCSE Pakistan Studies (9236)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false
@@ -35,21 +35,21 @@ Confirm with your teacher which of 1.3/1.4 your course follows.
 ## The Reform → 1857 → Aligarh → Partition chain
 
 ```
-Pre-1857 reform  -> Shah Waliullah, Syed Ahmad Barelvi, Faraizi movement
+Pre-1857 reform  -> Shah Waliullah, Syed Ahmad Barelvi
       |             (Muslim consciousness predates British policy)
 1857              -> War of Independence; failure -> Crown rule,
       |               Muslims blamed disproportionately
 Sir Syed / Aligarh -> Two Nation Theory; modern education reconciles
       |               Muslims with British system
-1906-1947         -> Muslim League (1906) -> Lucknow Pact (1916) ->
-                      Allahabad Address (1930) -> name "Pakistan" (1933)
+1906-1947         -> Muslim League (1906) -> Allahabad Address (1930)
+                      -> name "Pakistan" (1933)
                       -> Lahore Resolution (1940) -> Independence (1947)
 ```
 
 ## Key dates to fix in memory
 
-**1906** Muslim League founded · **1909** Morley-Minto separate electorates · **1916** Lucknow
-Pact · **1930** Allahabad Address · **1933** Rahmat Ali coins "Pakistan" · **1940** Lahore
+**1906** Muslim League founded · **1909** Morley-Minto separate electorates · **1930** Allahabad
+Address · **1933** Rahmat Ali coins "Pakistan" · **1940** Lahore
 Resolution · **1947** Independence/Radcliffe Award.
 
 ## 1857 causes, in brief
@@ -95,8 +95,8 @@ always intended partition from the start, is what a well-supported answer on his
 Muslim political and religious consciousness in the subcontinent did not begin with British rule and
 did not begin in 1857 — it predates both. Shah Waliullah (1703–62) translated the Qur'an into
 Persian and worked to unify Muslims around scripture; Syed Ahmad Barelvi led the Jihad movement in the
-north-west; and the Faraizi movement in Bengal, under Haji Shariatullah, addressed the specific
-grievances of Muslim peasants against Hindu landlords. The reason these earlier movements matter for
+north-west. (The Faraizi movement under Haji Shariatullah is Cambridge syllabus content, not this
+specification's.) The reason these earlier movements matter for
 an exam answer is not simply chronological completeness — they establish that Muslim political
 identity was already forming well before 1857, which strengthens any answer that traces continuity
 across the whole Reform → 1857 → Aligarh → Partition chain rather than treating 1857 as the starting

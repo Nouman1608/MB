@@ -91,10 +91,7 @@ rooted in the circumstances of independence itself.
 2. Give one internal and one external factor in the Mughal Empire's decline.
 3. What kind of question word signals that a judgement, not just recall, is required?
 4. Why is building a timeline across all three sections useful?
-
-**Answers:** 1. 1.1 Cultural/Historical Background to the Pakistan Movement; 1.2 The Emergence of Pakistan, 1906–47; 1.3 Nationhood, 1947–99. 2. Internal: Aurangzeb's policies or weak successors. External: foreign invasions or the East India Company's expansion. 3. Words like "how important" or "how successful". 4. Because exam questions can draw on more than one section, and a timeline helps place events from all three sections in relation to one another, supporting the cross-section connections examiners test.
-
 5. Why does Section 1.2 need to draw on content from Section 1.1?
 6. What kind of answer structure does Section 1.3 typically reward?
 
-**Answers (continued):** 5. Because the political movement for a separate Muslim state traced in 1.2 has roots in the religious and cultural reform movements covered in 1.1, so explaining the emergence of Pakistan well often requires linking back to that earlier background. 6. One that places developments in correct chronological sequence and explains cause and effect between them, rather than listing isolated facts about the post-independence period.
+**Answers:** 1. 1.1 Cultural/Historical Background to the Pakistan Movement; 1.2 The Emergence of Pakistan, 1906–47; 1.3 Nationhood, 1947–99. 2. Internal: Aurangzeb's policies or weak successors. External: foreign invasions or the East India Company's expansion. 3. Words like "how important" or "how successful". 4. Because exam questions can draw on more than one section, and a timeline helps place events from all three sections in relation to one another, supporting the cross-section connections examiners test. 5. Because the political movement for a separate Muslim state traced in 1.2 has roots in the religious and cultural reform movements covered in 1.1, so explaining the emergence of Pakistan well often requires linking back to that earlier background. 6. One that places developments in correct chronological sequence and explains cause and effect between them, rather than listing isolated facts about the post-independence period.

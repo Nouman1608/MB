@@ -21,17 +21,12 @@ featured: false
 
 This guide covers **Natural Resources – An Issue of Sustainability**,
 the second of eight sections in Paper 2 The Environment of Pakistan,
-Cambridge IGCSE Pakistan Studies (0448), 2026 series. It is the first
-section of Paper 2 that Marlbridge has published a resource for --
-existing coverage of 0448 has focused on Paper 1's history and
-culture content, so this guide opens up the physical and human
-geography half of the syllabus.
-
-This is also, at the time of writing, Marlbridge's first published
-resource covering any part of Paper 2 -- the section was chosen
-because it is one of the most self-contained of the eight, giving
-candidates a complete, exam-ready unit rather than a partial view of
-a longer section.
+Cambridge IGCSE Pakistan Studies (0448), 2026 series, opening up the
+physical and human geography half of the syllabus alongside the Land
+of Pakistan guide covering Section 1. The section was chosen because
+it is one of the most self-contained of the eight, giving candidates
+a complete, exam-ready unit rather than a partial view of a longer
+section.
 
 ## Where this fits in 0448
 

@@ -19,10 +19,20 @@ featured: false
 ---
 
 This guide covers **Paper 1 The History and Culture of Pakistan**, for
-Cambridge IGCSE Pakistan Studies 0448, 2026 series. Paper 1 is divided
+Cambridge IGCSE Pakistan Studies 0448, 2026 series. A restructuring of
+this syllabus takes effect from June 2028, moving Paper 1 to a
+four-topic structure with a choice of three from four (Paper 2 becomes
+two from three plus a compulsory question); that later series is a
+distinct qualification version and is not covered by this guide, which
+describes the syllabus as it stands for 2026 exams. Paper 1 is divided
 into three sections examined through key questions; Paper 2 (The
-Environment of Pakistan, not covered in this guide) is organised
-around cross-cutting themes rather than a numbered topic list.
+Environment of Pakistan, not covered in this guide) is organised into
+eight numbered sections — the land of Pakistan; natural resources;
+power; agricultural development; industrial development; trade;
+transport and telecommunications; and population and employment —
+with four cross-cutting themes (sustainability, development,
+environmental effects and feasibility studies) applied as guidance
+across all eight, not in place of them.
 
 ## Where this fits in 0448
 

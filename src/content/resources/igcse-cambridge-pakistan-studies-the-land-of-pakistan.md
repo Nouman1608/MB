@@ -71,8 +71,10 @@ in this section without re-explaining them.
 
 ## Location (1a–1b): what candidates must be able to do on a map
 
-This section is assessed almost entirely through map-based questions,
-so the command word to prepare for is "identify," not "explain." For
+This section is dominated by the command word "identify" — picking a
+named feature out of a supplied map — but 1(c) and 1(d) also require
+describing with the appropriate vocabulary and explaining, so map
+skills alone are not sufficient preparation. For
 1(a), practise plotting the Tropic of Cancer and the three named
 longitude lines against Pakistan's outline, and locating the Arabian
 Sea and each of Pakistan's neighbouring countries. For 1(b), candidates

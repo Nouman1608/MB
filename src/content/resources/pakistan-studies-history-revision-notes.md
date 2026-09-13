@@ -20,6 +20,8 @@ featured: false
 
 Condensed for the final weeks. For the full explanation, use the
 [History and Culture of Pakistan study guide](/resources/igcse-pakistan-studies-history-and-culture-of-pakistan/).
+This content is for the 2026 exam series; a restructured 4-topic
+version of Paper 1 takes effect from June 2028 and is not covered here.
 
 ## Reform movements before 1857
 
@@ -39,7 +41,7 @@ These matter because they show Muslim political consciousness **preceded** Briti
 
 ## Sir Syed Ahmad Khan (1817–98)
 
-- Founded the **Muhammadan Anglo-Oriental College at Aligarh, 1875**.
+- Founded the **Muhammadan Anglo-Oriental school at Aligarh in 1875**, raised to college status in 1877.
 - Wrote *The Causes of the Indian Revolt* and *Loyal Muhammadans of India*.
 - Promoted modern scientific education alongside Islamic values.
 - Advanced the **Two Nation Theory** — Hindus and Muslims as distinct nations in religion, culture, law and history.
@@ -73,9 +75,9 @@ His importance: Aligarh produced the educated professional class that later led 
 Four problems dominate this part of Section 1.3:
 
 - **The refugee crisis** — several million people crossed the border amid appalling violence, needing food, shelter and employment. A Ministry of Refugees and Rehabilitation set up camps and allocated evacuee property, though resources were wholly inadequate to the scale of the crisis.
-- **Division of assets** — Pakistan was allocated 17.5% of undivided India's financial assets but initially received only a fraction; India withheld Rs. 550 million, released only after Gandhi's intervention and fasting.
-- **Absence of administrative machinery** — Pakistan had no capital infrastructure, few trained civil servants and almost no industry, since most industrial areas remained in India. Karachi became the temporary capital while a new administration was improvised from scratch.
-- **Princely states and Kashmir** — the accession disputes over Junagadh, Hyderabad and above all Kashmir led to the first war with India in 1947–48; a UN-brokered ceasefire in January 1949 left the state divided and the dispute unresolved.
+- **Division of assets** — Pakistan was allocated 17.5% of undivided India's financial assets but initially received only a fraction; India withheld Rs. 550 million, released following a Government of India decision in January 1948 — Gandhi's fast is the factor most commonly credited with prompting that decision, though historians debate how much weight it deserves.
+- **Absence of administrative machinery** — Pakistan had no capital infrastructure, few trained civil servants and almost no industry, since most industrial areas remained in India. Karachi became the capital while a new administration was improvised from scratch (it served as capital until 1959; describing it as "temporary" from the outset reads the later move backwards onto 1947).
+- **Princely states and Kashmir** — the accession disputes over Junagadh and Hyderabad were resolved without war; the disputed accession of Kashmir alone led to the first war with India in 1947–48. A UN-brokered ceasefire in January 1949 left the state divided and the dispute unresolved.
 
 ## Exam traps
 

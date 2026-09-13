@@ -7,7 +7,7 @@ topic: "Paper 2 – The Human and Physical Geography of Pakistan"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9236"]
-syllabusSeries: "Version 1.9"
+syllabusSeries: "2026-onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -30,19 +30,19 @@ Related: [Landscape and Natural Resources study guide](/resources/igcse-oxfordaq
 
 ---
 
-## Section A
+## Short-answer questions (3.2.1, Paper 2 Section A)
 
 **1.** Name **two** major landscape types found in Pakistan. **[2]**
 
 **2.** State **two** renewable energy resources used in Pakistan. **[2]**
 
-## Section B
+## Extended questions (3.2.1, Paper 2 Section A)
 
-**3.** Explain the human and physical causes of **one** named physical hazard in Pakistan, and describe its impacts. **[7]**
+**3.** Explain the human and physical causes of **flooding** in Pakistan, and describe its impacts. **[7]**
 
 **4.** Explain how the monsoon and western disturbances differ as causes of regional climate variation in Pakistan. **[8]**
 
-**5.** "Non-renewable energy resources will always be more important than renewable resources for Pakistan's economy." How far do you agree? **[10]**
+**5.** "Non-renewable energy resources will always be more important than renewable resources for Pakistan's economy." How far do you agree? **[12]**
 
 
 ---
@@ -53,7 +53,7 @@ Related: [Landscape and Natural Resources study guide](/resources/igcse-oxfordaq
 
 **2.** Any two: **hydel (hydroelectric) power** [1]; **solar** [1]; **wind** [1] (also accept: tidal, bioenergy, geothermal).
 
-**3.** Named hazard: **flooding** (also accept earthquake or tsunami with equivalent structure). **Physical causes**: intense monsoon rainfall combined with glacial meltwater raises river levels rapidly, particularly where flood plains channel the excess water [2]. **Human causes**: settlement and agriculture on flood plains, and deforestation upstream reducing the land's capacity to absorb rainfall, increase the population and area exposed to flooding [2]. **Impacts**: displacement of communities and loss of housing [1], damage to agricultural land and crops, threatening food supply and livelihoods [2].
+**3.** **Physical causes**: intense monsoon rainfall combined with glacial meltwater raises river levels rapidly, particularly where flood plains channel the excess water [2]. **Human causes**: settlement and agriculture on flood plains, and deforestation upstream reducing the land's capacity to absorb rainfall, increase the population and area exposed to flooding [2]. **Impacts**: displacement of communities and loss of housing [1], damage to agricultural land and crops, threatening food supply and livelihoods [2].
 
 **4.** The **monsoon** is a seasonal wind system that brings the bulk of Pakistan's rainfall in summer, originating from moisture-laden winds from the southwest [2] [2]. **Western disturbances** are winter weather systems originating over the Mediterranean and Caspian regions, bringing rain and snow to northern and western Pakistan at a different time of year and from a different direction [2] [2]. A strong answer explicitly states that these are two distinct systems affecting different regions and seasons, rather than treating all of Pakistan's precipitation as monsoon-driven throughout the year.
 
@@ -102,7 +102,7 @@ the question asks about a flood, an earthquake or a tsunami.
 
 ## Naming resources specifically, not generically
 
-Section B questions on natural resources and energy consistently
+These extended questions on natural resources and energy consistently
 reward candidates who name a specific resource — natural gas rather
 than "fossil fuels," hydel power rather than "renewables" — because a
 generic answer cannot demonstrate the located, specific knowledge the

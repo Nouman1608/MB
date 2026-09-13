@@ -24,7 +24,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Location — map facts to lock in
 
-- **Tropic of Cancer** crosses Pakistan; know its line on the outline map.
+- **Tropic of Cancer** runs just south of Pakistan (through India); know its line relative to the outline map.
 - **Latitude**: 30°N and 36°N. **Longitude**: 64°E, 70°E and 76°E.
 - **Arabian Sea** borders the south; know which countries border Pakistan on every other side.
 - Command word is almost always **"identify,"** not "explain" — this section is assessed on a map.
@@ -44,8 +44,8 @@ how it affects human activity.
 
 | Feature type | Named examples |
 |---|---|
-| Mountain ranges | Hindu Kush, Karakoram, Himalaya (north-to-northeast arc) |
-| Plateaux/ranges | Balochistan Plateau, Sulaiman Range (west); Potwar Plateau, Salt Range (north-centre); Safed Koh |
+| Mountain ranges | Hindu Kush, Karakoram, Himalaya (north-to-northeast arc); Sulaiman Range and Safed Koh (west) |
+| Plateaux | Balochistan Plateau (west); Potwar Plateau, Salt Range (north-centre) |
 | Rivers | Indus, Jhelum, Chenab, Ravi, Sutlej, Kabul, Hab, Dasht |
 | Deserts | Thar, Thal, Kharan |
 

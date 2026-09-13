@@ -7,7 +7,7 @@ topic: "Paper 1 – The History and Culture of Pakistan"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9236"]
-syllabusSeries: "Version 1.9"
+syllabusSeries: "2026-onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -58,19 +58,19 @@ Related: [The History and Culture of Pakistan revision notes](/resources/igcse-o
 
 ---
 
-## Section C — additional questions
+## Additional questions
 
-**6.** Name two pre-1857 Muslim reform movements or figures, and explain why their existence is significant when assessing the origins of Muslim political identity in the subcontinent. **[6]**
+**6.** *(Optional topic 1.3, Islam in the Subcontinent — only for candidates studying this option.)* Name two pre-1831 Muslim reform movements or figures, and explain why their existence is significant when assessing the origins of Muslim political identity in the subcontinent. **[6]**
 
-**7.** Explain the significance of the Lucknow Pact (1916) and the Allahabad Address (1930) in the path towards Partition. **[8]**
+**7.** Explain the significance of the Allahabad Address (1930) in the path towards Partition. **[6]**
 
 **8.** "Sir Syed Ahmad Khan's decision to promote reconciliation with British rule was the single most important development in the Pakistan Movement before 1900." How far do you agree? **[10]**
 
-## Answers to Section C
+## Answers to the additional questions
 
-**6.** Shah Waliullah, who translated the Qur'an into Persian and sought to unify Muslims around scripture, and Syed Ahmad Barelvi, who led the Jihad movement in the north-west, are two valid examples (Haji Shariatullah's Faraizi movement in Bengal is also acceptable) [2] [2]. Their significance is that they establish Muslim political and religious consciousness in the subcontinent predates British rule and predates 1857, rather than being a reaction to colonial policy alone — a point strong answers use to challenge any narrative that treats 1906 or 1857 as the true starting point [2].
+**6.** Shah Waliullah, who translated the Qur'an into Persian and sought to unify Muslims around scripture, and Syed Ahmad Barelvi, who led the Jihad movement in the north-west, are two valid examples [2] [2]. Their significance is that they establish Muslim political and religious consciousness in the subcontinent predates British rule and predates 1857, rather than being a reaction to colonial policy alone — a point strong answers use to challenge any narrative that treats 1906 or 1857 as the true starting point [2].
 
-**7.** The Lucknow Pact (1916) marked a brief period of cooperation between the Muslim League and the Indian National Congress, showing that unity between the two organisations was, at that stage, still considered achievable [3]. The Allahabad Address (1930), delivered by Allama Iqbal, proposed the idea of a separate north-western Muslim state, marking the first prominent articulation of a territorial solution — though Iqbal did not coin the name "Pakistan" itself, a distinction often confused with Rahmat Ali's 1933 contribution [3]. Together, the two events trace a shift from cooperative unity to a specifically territorial vision of Muslim political identity over the course of just fourteen years [2].
+**7.** The Allahabad Address (1930), delivered by Allama Iqbal, proposed the idea of a separate north-western Muslim state, marking the first prominent articulation of a territorial solution — though Iqbal did not coin the name "Pakistan" itself, a distinction often confused with Rahmat Ali's 1933 contribution [3]. This marks a shift from earlier calls for safeguards within a united India to a specifically territorial vision of Muslim political identity [3].
 
 **8.** A balanced answer should credit Sir Syed's importance — his advocacy of modern education and reconciliation with British rule, particularly through the founding of Aligarh College in 1875, directly produced an educated Muslim professional class from which later Muslim League leadership was drawn [3] — while also noting that this development alone does not fully explain the Pakistan Movement's later trajectory, since the specifically political organisation of Muslim demands did not begin until the Muslim League's founding in 1906, more than three decades later [4]. A well-supported conclusion should therefore describe Sir Syed's work as a necessary precondition rather than a sufficient cause on its own, and should explicitly weigh it against the pre-1857 reform movements and the later political events of 1906 onward before reaching a final judgement [3].
 

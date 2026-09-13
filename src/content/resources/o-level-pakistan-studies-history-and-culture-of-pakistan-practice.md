@@ -57,7 +57,7 @@ designed to be completed efficiently before moving on to Section B's longer judg
 
 ## Answers
 
-**1.** Internal (any two): Aurangzeb's policies (e.g. reversing tolerant policies, prolonged costly wars) [1] [1]; weak and incompetent successors after Aurangzeb, unable to hold the empire together [1] [1]. External (any two): foreign invasions weakening central authority [1] [1]; the East India Company's growing political and economic expansion into Mughal territory [1] [1]. (Award any 4 of the above, one mark each.) A common mark lost here is offering three internal factors and only one external, when the question specifically asks for two of each.
+**1.** Internal (any two, 1 mark each): Aurangzeb's policies (e.g. reversing tolerant policies, prolonged costly wars) [1]; weak and incompetent successors after Aurangzeb, unable to hold the empire together [1]. External (any two, 1 mark each): foreign invasions weakening central authority [1]; the East India Company's growing political and economic expansion into Mughal territory [1]. A common mark lost here is offering three internal factors and only one external, when the question specifically asks for two of each.
 
 **2. 1906** [1]. A precise year is required — an approximate decade or "early 1900s" would not secure this mark on a recall question with only one mark available.
 
@@ -85,6 +85,7 @@ designed to be completed efficiently before moving on to Section B's longer judg
 With Section A's shorter questions worth relatively few marks and Section B carrying the
 higher-value judgement questions, time allocation should roughly track mark allocation rather than
 question count — spending equal time on a 1-mark and a 10-mark question is one of the most common,
-avoidable causes of underperformance on this paper. A useful discipline in practice is to allow
-roughly one minute of writing time per mark available, checking the clock at the end of each section
-rather than only once at the end of the whole paper.
+avoidable causes of underperformance on this paper. The board's own guidance is per-question rather
+than per-mark: allow roughly thirty minutes per question across the ninety-minute, seventy-five-mark
+paper, allocating within that by the marks each part carries, and check the clock at the end of each
+question rather than only once at the end of the whole paper.

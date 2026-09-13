@@ -7,7 +7,7 @@ topic: "Paper 2 – The Human and Physical Geography of Pakistan"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9236"]
-syllabusSeries: "Version 1.9"
+syllabusSeries: "2026-onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -118,8 +118,8 @@ the monsoon.
 
 ## Why this sub-topic is compulsory, not optional
 
-Unlike Sections 2.3 and 2.4 of Paper 2, which candidates or centres may
-choose between, 3.2.1 is examined for every candidate in Section A.
+Unlike the paper's two optional sections, which candidates or centres
+may choose between, 3.2.1 is examined for every candidate in Section A.
 That makes it the one part of Paper 2 no candidate can safely
 deprioritise or skip in revision, regardless of which optional sections
 their centre has chosen elsewhere in the paper — a fact worth
@@ -129,13 +129,14 @@ the optional sections that follow it.
 
 ## Linking this sub-topic forward to Paper 2's later sections
 
-3.2.1's resource and landscape content is not isolated — Sections 2.3
-and 2.4 later in Paper 2 build on the economic and human geography
-established here. A candidate with a genuinely secure grasp of, say,
-water resource distribution in 3.2.1 is better placed to handle later
-questions connecting resources to development or population, so this
-compulsory opening content is worth mastering thoroughly rather than
-treating as a self-contained block to revise and set aside.
+3.2.1's resource and landscape content is not isolated — a separate
+compulsory topic elsewhere in Paper 2 covers Pakistan's economic and
+human geography, and later sections draw on both. A candidate with a
+genuinely secure grasp of, say, water resource distribution in 3.2.1
+is better placed to handle later questions connecting resources to
+development or population, so this compulsory opening content is
+worth mastering thoroughly rather than treating as a self-contained
+block to revise and set aside.
 
 ## Self-test
 

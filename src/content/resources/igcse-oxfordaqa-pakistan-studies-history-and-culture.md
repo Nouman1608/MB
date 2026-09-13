@@ -7,12 +7,12 @@ topic: "Paper 1 – The History and Culture of Pakistan"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9236"]
-syllabusSeries: "Version 1.9"
+syllabusSeries: "2026-onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-history-culture-9236"
-description: "The Pakistan Movement, Pakistan into the 21st century, and a choice of optional historical topics -- the full content of Paper 1 for OxfordAQA International GCSE Pakistan Studies (9236)."
+description: "The Pakistan Movement, Pakistan into the 21st century, and a choice of optional historical topics -- an overview of Paper 1 for OxfordAQA International GCSE Pakistan Studies (9236)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -69,7 +69,7 @@ Version 1.9, for International GCSE exams May/June 2026 onwards —
 
 ## Reform movements before 1857
 
-Muslim revival in the subcontinent began before British rule was consolidated. **Shah Waliullah** (1703-62) translated the Qur'an into Persian and sought to unify Muslims around scripture. **Syed Ahmad Barelvi** led the Jihad movement in the north-west. The **Faraizi movement** in Bengal under Haji Shariatullah addressed the grievances of Muslim peasants against Hindu landlords.
+Muslim revival in the subcontinent began before British rule was consolidated. **Shah Waliullah** (1703-62) translated the Qur'an into Persian and sought to unify Muslims around scripture. **Syed Ahmad Barelvi** led the Jihad movement in the north-west. (The Faraizi movement in Bengal under Haji Shariatullah is required content on Cambridge's Pakistan Studies syllabuses, not on this OxfordAQA specification, and is not examinable here.)
 
 These movements matter because they establish that Muslim political consciousness predated, rather than resulted from, British policy.
 
@@ -91,7 +91,6 @@ Key stages, which examiners expect in sequence with dates:
 
 - **1906** — Simla Deputation and the founding of the **All India Muslim League**
 - **1909** — Morley-Minto Reforms grant separate electorates
-- **1916** — Lucknow Pact, brief Congress-League cooperation
 - **1930** — Allama Iqbal's Allahabad Address proposing a north-western Muslim state
 - **1933** — Chaudhry Rahmat Ali coins the name "Pakistan"
 - **1940** — **Lahore Resolution**

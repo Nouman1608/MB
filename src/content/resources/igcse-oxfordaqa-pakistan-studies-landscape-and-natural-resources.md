@@ -7,7 +7,7 @@ topic: "Paper 2 – The Human and Physical Geography of Pakistan"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9236"]
-syllabusSeries: "Version 1.9"
+syllabusSeries: "2026-onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -22,9 +22,8 @@ featured: false
 This guide covers **3.2.1 The Landscape and Natural Resources of
 Pakistan**, the compulsory topic that opens Paper 2 (The Human and
 Physical Geography of Pakistan) in OxfordAQA International GCSE
-Pakistan Studies (9236), Version 1.9. Unlike Sections 2.3 and 2.4 of
-this paper, which are optional, 3.2.1 is examined for every candidate
-in Paper 2, Section A.
+Pakistan Studies (9236), Version 1.9. Unlike the paper's two optional
+sections, 3.2.1 is examined for every candidate in Paper 2, Section A.
 
 ## Syllabus coverage
 
