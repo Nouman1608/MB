@@ -7,20 +7,20 @@ topic: "Topic 1 – Algorithms"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "2022-onwards"
+syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "algorithms-9210"
-description: "Representing and analysing algorithms -- the opening topic of OxfordAQA International GCSE Computer Science (9210), updated November 2022."
+description: "Representing and analysing algorithms -- the opening topic of OxfordAQA International GCSE Computer Science (9210), version 3.5."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
 This guide covers **Topic 1 Algorithms**, the first of eight topics in
-OxfordAQA International GCSE Computer Science (9210), version updated
-November 2022.
+OxfordAQA International GCSE Computer Science (9210), version 3.5,
+teaching from September 2017, exams from May/June 2019.
 
 ## Where this fits in 9210
 
@@ -36,7 +36,8 @@ problem-solving and programming-style exam questions.
 **OXFORDAQA INTERNATIONAL GCSE COMPUTER SCIENCE (9210) — TOPIC 1
 ALGORITHMS**
 
-Topic 1 covers how to represent algorithms using flowcharts and
+Topic 1 covers decomposition and abstraction as tools for solving a
+problem, how to represent algorithms using flowcharts and
 pseudocode, how to trace algorithms to determine their outputs, and
 how to analyse and evaluate algorithms for efficiency and correctness
 in solving a given problem.
@@ -59,6 +60,10 @@ questions reward precise, justified criticism.
 OxfordAQA International GCSE Computer Science (9210) qualification
 page —
 [oxfordaqa.com](https://www.oxfordaqa.com/qualifications/international-gcse-computer-science/).
+
+## Decomposition and abstraction
+
+**Decomposition** breaks a large problem down into smaller, more manageable sub-problems that can be tackled separately. **Abstraction** removes the detail that is not relevant to solving the problem, keeping only what matters — a London Underground map is the standard example: it abstracts away real geography and distance, keeping only the connections between stations. Both are tools for getting from a problem statement to an algorithm that solves it, and exam questions can ask you to decompose a described problem or to identify what a given abstraction has deliberately left out.
 
 ## Representing algorithms
 
@@ -87,7 +92,7 @@ Tracing is also how logic errors are found: the algorithm runs, but produces the
 
 ## Analysing and evaluating algorithms
 
-Two algorithms can produce identical output with very different efficiency. Efficiency is judged by the number of steps or comparisons performed, and by memory used.
+Two algorithms can produce identical output with very different efficiency. For this qualification, efficiency is judged only by the number of steps or comparisons performed — formal comparisons of memory use are not required here (this differs from the board's A-level qualification, which does require weighing memory use).
 
 A **linear search** checks each item in turn and works on unordered data, but on a list of 1,000 items may take 1,000 comparisons. A **binary search** repeatedly halves an ordered list, reaching the same item in about 10 comparisons — but requires the data to be sorted first. Binary search works by comparing the **middle** item to the target: if the target is smaller, the upper half is discarded; if larger, the lower half is discarded; this repeats until the item is found or the remaining list is empty. Recommending binary search on unsorted data — without sorting it first — is a standard error.
 
@@ -95,7 +100,7 @@ Evaluation questions reward precise criticism. "It is inefficient" earns nothing
 
 ## Sorting algorithms
 
-**Bubble sort** repeatedly compares adjacent pairs of items and swaps them if they are out of order; after each full pass through the list, the largest remaining item has "bubbled" to its correct position at the end. It is simple to code and trace, but slow on large lists.
+**Bubble sort** repeatedly compares adjacent pairs of items and swaps them if they are out of order; after each full pass through the list, the largest remaining item has "bubbled" to its correct position at the end. The specification requires this specific improved form: the outer loop is indefinite, controlled by whether any swaps were made during the last pass — a flag is set at the start of each pass and cleared whenever a swap happens, and the sort stops as soon as a complete pass makes no swaps, since that means the list is already sorted. It is simple to code and trace, but slow on large lists.
 
 **Merge sort** works differently: it divides the list in half repeatedly until each part holds a single item, then merges the parts back together in the correct order. It is more complex to describe and trace than bubble sort, but performs far fewer comparisons on large lists, making it much faster.
 
@@ -108,7 +113,7 @@ INPUT n
 total = 0
 FOR i = 1 TO n
     total = total + i
-NEXT i
+ENDFOR
 OUTPUT total
 ```
 

@@ -94,13 +94,13 @@ Related: [Data Representation revision notes](/resources/o-level-computer-scienc
 **(b)** Unicode uses **more bits per character**, so it can represent **far more characters — over a million code points** [1] [1]. This means it can represent **a very wide range of the world's writing systems, plus symbols and emoji**, so text can be exchanged internationally without corruption [1]; it is also **backwards compatible with ASCII** for the first 128 characters [1].
 **(c)** The character codes are **allocated in sequence starting at 65 for "A"** [1]; "D" is three places later, so its code is **68** [1].
 
-**6. (a)** Bits = 44 100 × 16 × 30 [1] [1] = 21 168 000 bits [1]; ÷ 8 ÷ 1 000 000 = **2.65 MB** [1].
+**6. (a)** Bits = 44 100 × 16 × 30 [1] [1] = 21 168 000 bits [1]; ÷ 8 ÷ 1 048 576 = **2.52 MB** [1].
 **(b)** **Reduce the sample rate** — the file gets smaller but **higher frequencies are lost and quality falls** [1] [1]. **Reduce the sample resolution** to 8 bits — smaller file but **less precise amplitude measurement, so more background noise and distortion** [1] [1]. (Also accept: apply lossy compression, which loses data permanently.)
 
 **7. (a)** 11111111 + 00000001 = **00000000** (with a carry out of the register) [1] [1].
 **(b)** The true sum, 256, **needs 9 bits** but the register can only hold 8 [1], so **the result is too large for the number of bits allocated** and the stored value (0) is incorrect [1].
 
-**8. (a)** file size = 200 × 150 × 8 [1] = 240 000 bits ÷ 8 = 30 000 bytes [1] = **30 KB** [1].
+**8. (a)** file size = 200 × 150 × 8 [1] = 240 000 bits ÷ 8 = 30 000 bytes [1] ÷ 1024 = **29.3 KB** [1].
 **(b)** **Reduce the colour depth** (e.g. to 4 bits) — smaller file, but **fewer colours can be represented, so the image quality falls** [1] [1].
 **(c)** Vector graphics **scale without loss of quality** and are usually smaller for line art [1]; they would be **unsuitable for a photograph**, which needs the pixel-level detail a bitmap captures [1].
 

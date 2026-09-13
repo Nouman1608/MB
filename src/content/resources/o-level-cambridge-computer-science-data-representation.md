@@ -37,6 +37,18 @@ programming, where data types and storage limits recur constantly.
 **CAMBRIDGE O-LEVEL COMPUTER SCIENCE (2210) — TOPIC 1 DATA
 REPRESENTATION**
 
+**CAMBRIDGE O-LEVEL COMPUTER SCIENCE (2210) — TOPIC 1 DATA
+REPRESENTATION**
+
+- 1.1 Number systems — denary, binary and hexadecimal, converting
+between them, binary addition and overflow, logical binary shifts, and
+two's complement for negative integers
+- 1.2 Text, sound and images — how and why a computer represents text
+using character sets, sound (sample rate and resolution), and images
+(resolution and colour depth)
+- 1.3 Data storage and compression — data storage units from bit to
+exbibyte, calculating file size, and lossy and lossless compression
+
 Sitting alongside Data transmission, Hardware, Software, The internet
 and its uses, and Automated and emerging technologies within the
 Computer systems strand, Data Representation covers how numbers, text,
@@ -50,11 +62,11 @@ Binary and hexadecimal number conversion is a foundational skill
 tested throughout this syllabus, not just within Topic 1, so practise
 converting between denary, binary and hexadecimal until it is fluent
 rather than something you have to work out from first principles under
-exam pressure. Because the sibling 0478 syllabus's official content
-breaks this topic into number systems, text/sound/image representation,
-and data storage and compression, structuring your revision around
-those three strands gives a clear framework even though this O-Level's
-own published materials list the topic as a single heading. Understanding
+exam pressure. This O-Level's own syllabus breaks the topic into the same three
+numbered strands as the sibling 0478 syllabus — number systems,
+text/sound/image representation, and data storage and compression —
+so structuring your revision around those three strands follows the
+syllabus's own structure directly. Understanding
 *why* compression matters (storage and transmission efficiency) rather
 than just the mechanics of an algorithm also strengthens answers on the
 more applied questions this topic can generate.

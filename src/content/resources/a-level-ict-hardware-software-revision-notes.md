@@ -29,11 +29,13 @@ Condensed, exam-focused notes for Section 2 of Cambridge AS & A Level ICT (9626)
 |---|---|---|
 | Built for | Reliability, high-volume transaction throughput | Raw processing speed |
 | Example use | Census, transaction processing | Weather forecasting, quantum mechanics |
-| Metrics | RAS (reliability/availability/serviceability), fault tolerance | MIPS, FLOPS |
+| Metrics | RAS and fault tolerance apply to both classes; MIPS is conventionally quoted for mainframes | RAS and fault tolerance apply to both classes; FLOPS is conventionally quoted for supercomputers |
 
+- Both **RAS** (reliability/availability/serviceability) and **fault tolerance** are characteristics of both classes, not a discriminator between them — the syllabus gives one shared characteristics list for mainframes and supercomputers together.
 - **RAS**: reliability (how rarely it fails), availability (how much of the time it's usable, accounting
   for planned maintenance), serviceability (how quickly/easily it's repaired).
 - **Fault tolerance**: ability to keep running, often in a degraded state, when a component fails.
+- MIPS and FLOPS are both performance metrics usable for either class; MIPS (instructions per second) is conventionally quoted for a mainframe's transaction workload, and FLOPS (floating-point operations per second) for a supercomputer's computation-heavy workload — a matter of typical workload, not a rule.
 - Keep the *use case* attached to each term — mainframe/supercomputer confusion is a common error.
 
 ## 2.2 System software

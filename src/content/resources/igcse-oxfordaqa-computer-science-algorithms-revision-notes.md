@@ -7,7 +7,7 @@ topic: "Topic 1 – Algorithms"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "2022-onwards"
+syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"

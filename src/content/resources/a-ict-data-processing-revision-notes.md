@@ -83,6 +83,8 @@ A valid but wrong date of birth passes every validation check ever written. Only
 | **Format / picture** | Matches a pattern, e.g. two letters then four digits |
 | **Presence** | A required field is not blank |
 | **Lookup** | Value exists in a defined list |
+| **Consistency** | One field is checked against another for a logical match, e.g. a start date before an end date |
+| **Limit** | Value must not exceed a single specified boundary |
 | **Check digit** | Extra digit calculated from the others — used for ISBNs and barcodes |
 
 ## Processing methods

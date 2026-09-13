@@ -7,7 +7,7 @@ topic: "Topic 1 – Algorithms"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "2022-onwards"
+syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -77,7 +77,7 @@ INPUT n
 total = 0
 FOR i = 1 TO n
     total = total + i
-NEXT i
+ENDFOR
 OUTPUT total
 ```
 
@@ -104,7 +104,7 @@ total ← 0
 FOR i ← 1 TO 10
     INPUT number
     total ← total + number
-NEXT i
+ENDFOR
 average ← total / 10
 OUTPUT total
 OUTPUT average
@@ -120,7 +120,7 @@ FOR i ← 0 TO LENGTH(arr) - 1
         found ← TRUE
         EXIT FOR
     ENDIF
-NEXT i
+ENDFOR
 IF found = FALSE THEN
     OUTPUT "Not found"
 ENDIF

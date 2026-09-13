@@ -7,7 +7,7 @@ topic: "Programming"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "2022-onwards"
+syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -36,7 +36,7 @@ or off (c) a single letter grade. **[3]**
 
 ## Section B
 
-**3.** Identify the three "combining principles" of imperative programming named in the specification,
+**3.** Identify the three basic constructs of imperative programming,
 and give one example construct for each. **[6]**
 
 **4.** Trace through the following pseudocode and state the final value of `Total`.
@@ -60,7 +60,7 @@ programming practice. **[3]**
 
 ## Answers
 
-**(a)** Integer [1]. **(b)** Boolean [1]. **(c)** Character (or string) [1].
+**1. (a)** Integer [1]. **(b)** Boolean [1]. **(c)** Character (or string) [1].
 
 **2. (a)** 17 DIV 5 = 3 [1]. **(b)** 17 MOD 5 = 2 [1].
 
@@ -78,8 +78,8 @@ i = 4: 4 MOD 2 = 0                  -- Total = 2 + 4 = 6
 
 Final value of Total = 6
 ```
-[1] mark for correctly tracing each iteration, [1] for correctly identifying which iterations satisfy the
-condition, [1] [1] for the correct final value with working shown.
+[1] [1] for correctly tracing the four iterations, [1] for correctly identifying which iterations satisfy
+the condition, [1] for the correct final value with working shown.
 
 **5.** `Score > 50 AND LivesLeft > 0` [1] [1] [1] (1 mark for each correct relational operator used, 1
 mark for correctly combining them with AND rather than OR).
@@ -130,10 +130,11 @@ algorithm-writing exam questions specifically assess.
 Because 9210's written exams always use OxfordAQA's own pseudocode regardless of which language a
 candidate learned in the classroom, practising reading and writing in this specific pseudocode style —
 not just understanding the underlying logic in a familiar language like Python — is essential exam
-preparation. A candidate fluent in Python but unfamiliar with the exact pseudocode conventions used in
-this specification (for example, `<-` for assignment, or `ENDIF`/`ENDFOR` closing keywords) risks losing
-time or making translation errors under exam pressure, even when their underlying programming
-understanding is otherwise strong.
+preparation. A candidate fluent in Python but unfamiliar with the exact pseudocode conventions the board uses (for
+example, `<-` for assignment, or `ENDIF`/`ENDFOR` closing keywords — published in the board's separate
+pseudocode guidance, not the specification itself, which only states that exam questions use the
+board's own pseudocode) risks losing time or making translation errors under exam pressure, even when
+their underlying programming understanding is otherwise strong.
 
 ## Where marks are usually lost
 

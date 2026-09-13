@@ -75,10 +75,13 @@ might prefer an RFID reader over a barcode reader because RFID does
 not require a direct line of sight and can be read at a short
 distance, which matters when a patient is moving or the tag is
 concealed. On the output side, a graphic designer proofing a poster
-at full size needs a plotter rather than an inkjet printer, because
-plotters are built for large-format, high-precision line work,
-while a school library printing everyday worksheets is better served
-by a cheaper inkjet or laser printer. These trade-offs -- speed,
+at full size needs a large-format inkjet printer rather than a standard
+desktop one, because the job needs both the print width and the
+continuous-tone colour a poster proof requires — a plotter is built
+for large-format precision line work (technical drawings, CAD, maps),
+not continuous-tone raster images — while a school library printing
+everyday worksheets is better served by a cheaper standard inkjet or
+laser printer. These trade-offs -- speed,
 accuracy, cost, size, line of sight, durability -- are exactly what
 "advantages and disadvantages" questions in Paper 1 are testing.
 

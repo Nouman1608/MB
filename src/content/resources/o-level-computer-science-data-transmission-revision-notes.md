@@ -116,13 +116,14 @@ the mechanism itself is described correctly.
 
 1. What three parts make up a packet?
 2. Why can packets from the same message arrive out of order?
-3. Name the four error-detection methods and what each checks.
+3. Name the three error-detection methods used after transmission, and what each checks.
 4. What is the precise reason asymmetric encryption avoids the key-sharing problem?
 5. Which sibling syllabus shares 2210's content and topic order?
 
 **Answers:** 1. Header, payload, trailer. 2. Routers decide each packet's route independently, so
 different packets can travel different paths. 3. Parity check (bit count), checksum (calculated
-value), echo check (data sent back), check digit (single entered value). 4. The private key never
+value), echo check (data sent back). A check digit is a separate, single-value validation of one
+piece of entered data, not a fourth transmission error-detection method. 4. The private key never
 needs to be transmitted. 5. Cambridge IGCSE Computer Science (0478).
 
 ## Official syllabus

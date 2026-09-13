@@ -70,8 +70,9 @@ weighted at 30% at SL and 20% at HL. Students identify a problem, then
 independently design, develop and evaluate a solution, documenting the
 process against assessment criteria that mirror the course's emphasis
 on the full problem-solving cycle rather than the finished product
-alone. There is no prescribed programming language: teachers and
-students choose whichever language suits the solution being built.
+alone. As with the rest of the course, the solution is built in one of
+the two named languages the school has chosen, not in whichever
+language a student happens to prefer.
 
 ## The two syllabus themes
 
@@ -93,21 +94,26 @@ school.
 ## The case study
 
 Paper 1 is set on Theme A plus a syllabus-published case study that
-the IB refreshes periodically between examination cycles, with three
+the IB refreshes periodically between examination cycles, with
 dedicated questions set against it in addition to questions on the
-four Theme A topics. Because the case study changes between cycles, it
-is essential to confirm which version applies to your own examination
-session rather than studying material from a previous cohort -- at
-15-30 hours of recommended study time, the case study is weighted
-similarly to a full Theme A sub-topic rather than being optional
+four Theme A topics — the board's published outline does not fix an
+exact number of these, so treat any specific count as an estimate
+rather than a confirmed figure. Because the case study changes between
+cycles, it is essential to confirm which version applies to your own
+examination session rather than studying material from a previous
+cohort -- at 15 hours of recommended study time at SL and 30 hours at
+HL, the case study is weighted similarly to a full Theme A sub-topic
+rather than being optional
 background reading, so treating it as compulsory preparation is the
 safest approach.
 
 ## Which paper tests which theme
 
 Paper 1 is set on Theme A plus the case study, while Paper 2 is set on
-Theme B, with additional object oriented programming and abstract data
-type questions reserved for HL candidates only. This split has a
+Theme B, with abstract data type questions reserved for HL candidates
+only — the board's own component table marks only that sub-topic as
+HL-only; object oriented programming is studied and examined at both
+SL and HL. This split has a
 practical use for revision: if a student is consistently finding one
 paper harder than the other in practice questions, that directly
 identifies which theme needs more attention, rather than requiring a

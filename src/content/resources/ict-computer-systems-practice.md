@@ -29,7 +29,7 @@ Related: [Computer Systems revision notes](/resources/igcse-ict-computer-systems
 
 ## Section A
 
-**1.** Name the four main components of the CPU or of a computer system and state the role of each. **[4]**
+**1.** State the role of each of the following: the processor, main memory, read-only memory, and backing storage. **[4]**
 
 **2.** Distinguish between an input device, an output device and a storage device, giving an example of each. **[3]**
 
@@ -50,15 +50,15 @@ Related: [Computer Systems revision notes](/resources/igcse-ict-computer-systems
 
 **7.** Distinguish between a health risk and a safety risk of using computers, giving **one** example of each with its prevention. **[4]**
 
-**8.** Explain **two** effects that increased use of ICT has had on employment. **[4]**
+**8.** Explain **two** examples of microprocessor-controlled devices used in the home, and one advantage and one disadvantage of each. **[8]**
 
-**9.** A company introduces teleworking for its staff. Explain **one** benefit and **one** drawback of this working pattern. **[4]**
+**9.** Explain **two** examples of microprocessor-controlled devices used in transport, and one advantage and one disadvantage of each. **[8]**
 
 ---
 
 ## Answers
 
-**1.** The **control unit** — fetches, decodes and coordinates the execution of instructions [1]. The **arithmetic logic unit** — performs calculations and logical comparisons [1]. **Registers/cache** — very fast temporary storage for data being worked on immediately [1]. **Main memory (RAM)** — holds the programs and data currently in use [1]. (Also accept: input, process, storage, output as the four components of a system.)
+**1.** The **processor** — fetches, decodes and executes instructions, performing the calculations and logical comparisons a program requires [1]. **Main memory (RAM)** — holds the programs and data currently in use, so the processor can access them quickly; volatile [1]. **Read-only memory (ROM)** — holds the boot instructions needed to start the computer; non-volatile and normally unwritable [1]. **Backing storage** — holds programs and files permanently, even with the power off, for use when needed [1].
 
 **2. Input** — sends data into the system, e.g. a keyboard or scanner [1]. **Output** — presents processed data to the user, e.g. a monitor or printer [1]. **Storage** — retains data for later use, e.g. a hard disk [1].
 
@@ -79,9 +79,9 @@ A **router** connects the local network to another network, usually the internet
 
 **7.** A **health risk** is a **long-term physical effect** of computer use [1], e.g. **RSI**, prevented by a wrist rest, correct posture and regular breaks [1]. A **safety risk** is an **immediate danger** [1], e.g. **electrocution**, prevented by not overloading sockets and keeping drinks away from equipment [1].
 
-**8.** Any two, 2 marks each: jobs have been **lost in repetitive manual and clerical roles** as these are automated [1] [1]; jobs have been **created in IT support, network management and software development**, so the effect is a change in the type of work available rather than a simple net loss [1] [1]; workers in surviving roles often need **retraining** to keep the skills their job now requires [1] [1].
+**8.** Any two, 4 marks each: **washing machine** — a microprocessor controls the wash cycle, water temperature and spin speed; advantage: consistent, programmable washes without constant supervision; disadvantage: a fault in the control chip can disable the whole machine [2] [2]. **Central heating system** — a microprocessor-controlled thermostat regulates temperature automatically to a programmed schedule; advantage: energy savings and consistent comfort without manual adjustment; disadvantage: depends on correct sensor placement and a power supply, so a sensor fault or power cut disables the automation [2] [2]. **Cooker/oven** — microprocessor control of cooking time and temperature; advantage: precise, repeatable results; disadvantage: less flexible than manual control if a recipe needs an unusual setting [2] [2].
 
-**9.** Benefit: teleworking removes the **need to commute**, and gives staff **greater flexibility** over when and where they work, which can also lower the company's office costs [2]. Drawback: it can cause **isolation** from colleagues, more **distraction** at home, and difficulty **separating work from home life** [2].
+**9.** Any two, 4 marks each: **engine management system** — a microprocessor controls fuel injection and ignition timing; advantage: better fuel efficiency and lower emissions than manual carburettor tuning; disadvantage: specialist equipment is needed to diagnose and repair a fault [2] [2]. **anti-lock braking system (ABS)** — a microprocessor monitors wheel speed and releases braking pressure to prevent a wheel locking; advantage: shorter, more controlled stopping distances on slippery surfaces; disadvantage: added cost and complexity compared with a simple mechanical braking system [2] [2]. **satellite navigation system** — a microprocessor calculates position and route from GPS signals; advantage: real-time route guidance and traffic updates; disadvantage: unreliable without a clear satellite signal or up-to-date map data [2] [2].
 
 ---
 

@@ -45,6 +45,8 @@ DIV  17 DIV 5 = 3        MOD  17 MOD 5 = 2
 
 ## Recursion
 
+*A-level-only content (examined in the Paper 3 unit), kept here alongside the rest of procedural programming for convenience — not assessed at AS.*
+
 Requires a **base case** that stops the recursion and a **general case** that moves towards it.
 
 ```
@@ -55,7 +57,7 @@ factorial(n):
 
 Each unfinished call is held on the **call stack** with its own local variables and return address. Without a base case, or with too deep a recursion, the stack overflows.
 
-**Recursion versus iteration:** recursion is more elegant and natural for tree and divide-and-conquer problems, but uses more memory and is generally slower because of the stack overhead. Any recursive algorithm can be rewritten iteratively.
+**Recursion versus iteration:** recursion is more elegant and natural for tree and divide-and-conquer problems, but uses more memory and is generally slower because of the stack overhead. Any recursive algorithm can be rewritten iteratively. The specification does not require candidates to distinguish the two, but permits either where a technique is called for — this is background understanding, not an assessed comparison in its own right.
 
 ## Data structures
 
@@ -70,11 +72,13 @@ Each unfinished call is held on the **call stack** with its own local variables 
 | **Hash table** | Key → index via hash function | Near-constant-time lookup |
 | **Graph** | Nodes and edges | Networks, routes |
 
-**Array versus linked list** is the standard comparison: an array gives **direct indexed access** but is fixed in size and costly to insert into; a linked list grows dynamically and inserts cheaply but must be **traversed** from the start to reach an element.
+**Static versus dynamic data structures** is the standard comparison the specification requires: a static structure (e.g. an array) has a fixed size set when created, giving fast **direct indexed access** but wasting space if under-filled and failing if it overflows; a dynamic structure (e.g. those built from records and pointers) grows and shrinks as the program runs, using memory efficiently, but costs more to access an arbitrary element since it must generally be reached by following references from the start.
 
 **Hash collisions** are handled by chaining (a linked list at each index) or open addressing (probing for the next free slot). A good hash function distributes keys evenly to minimise them.
 
 ## Algorithms
+
+*The complexity notation (Big O) below is A-level-only content (examined in the Paper 4 unit); the specification states expressly that formal complexity comparisons are not required at AS. Searching and sorting themselves are AS content — only the Big O classification is A-level.*
 
 **Searching**
 
@@ -87,10 +91,10 @@ Each unfinished call is held on the **call stack** with its own local variables 
 
 | Algorithm | Complexity | Note |
 |---|---|---|
-| **Bubble** | O(n²) | Simple, slow |
-| **Insertion** | O(n²) | Efficient on nearly sorted data |
-| **Merge** | O(n log n) | Divide and conquer; needs extra memory |
-| **Quick** | O(n log n) average, O(n²) worst | In place; worst case on poor pivot choice |
+| **Bubble** | O(n²) | Simple, slow — one of the two sorting algorithms this specification requires; candidates may be asked to write code for it |
+| **Insertion** | O(n²) | Efficient on nearly sorted data — the specification's other required sorting algorithm |
+| **Merge** *(beyond this specification)* | O(n log n) | Divide and conquer; needs extra memory |
+| **Quick** *(beyond this specification)* | O(n log n) average, O(n²) worst | In place; worst case on poor pivot choice |
 
 **Big O describes how the running time grows with input size**, not the time itself. An O(n²) algorithm can beat an O(n log n) one on small inputs; the classification matters as n gets large.
 
@@ -118,8 +122,8 @@ Each unfinished call is held on the **call stack** with its own local variables 
 
 1. Distinguish pass by value from pass by reference, and say which is safer and why.
 2. Why does recursion use more memory than iteration?
-3. Compare an array with a linked list.
+3. Compare a static data structure with a dynamic one.
 4. Which data structure does breadth-first traversal use, and which does depth-first use?
 5. What does Big O actually describe?
 
-**Answers:** 1. By value passes a copy so the original is unchanged; by reference passes the address so the original can be modified. By value is safer as it avoids unintended side effects. 2. Every unfinished call remains on the call stack with its own local variables and return address until the base case is reached. 3. An array offers direct indexed access but has fixed size and costly insertion; a linked list grows dynamically and inserts cheaply but must be traversed sequentially to reach an element. 4. Breadth-first uses a queue; depth-first uses a stack, or recursion. 5. How the running time or space requirement grows as the input size grows — not the actual execution time.
+**Answers:** 1. By value passes a copy so the original is unchanged; by reference passes the address so the original can be modified. By value is safer as it avoids unintended side effects. 2. Every unfinished call remains on the call stack with its own local variables and return address until the base case is reached. 3. A static structure has a fixed size set when created, giving fast direct indexed access but wasting space if under-filled or failing if it overflows; a dynamic structure grows and shrinks as the program runs, using memory efficiently, but costs more to reach an arbitrary element. 4. Breadth-first uses a queue; depth-first uses a stack, or recursion. 5. How the running time or space requirement grows as the input size grows — not the actual execution time.

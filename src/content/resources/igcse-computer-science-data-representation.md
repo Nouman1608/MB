@@ -28,7 +28,7 @@ syllabus.
 ## Where this fits in 0478
 
 Data representation is the first of six topics grouped under "Computer
-systems" (the other four are Data transmission, Hardware, Software, The
+systems" (the other five are Data transmission, Hardware, Software, The
 internet and its uses, and Automated and emerging technologies), before
 the syllabus moves on to "Algorithms, programming and logic." It
 establishes that everything a computer processes — numbers, text,
@@ -110,8 +110,8 @@ of 24 bits. Find its file size in megabytes.
 ```
 total bits = 800 x 600 x 24 = 11 520 000 bits
 bytes      = 11 520 000 / 8 = 1 440 000 bytes
-megabytes  = 1 440 000 / 1 000 000 (or / 1 048 576 for MiB)
-           = 1.44 MB  (or 1.37 MiB)
+megabytes  = 1 440 000 / 1 048 576
+           = 1.37 MB
 ```
 
 Halving the colour depth to 12 bits would halve the file size, but it

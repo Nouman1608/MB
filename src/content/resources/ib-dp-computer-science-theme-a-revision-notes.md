@@ -19,7 +19,8 @@ featured: false
 ---
 
 Condensed for quick recall of **Theme A -- Concepts of computer science**, which covers how
-computing systems actually work (SL: 38 hours; HL: 72 hours, including the case study). For the
+computing systems actually work (SL: 38 hours; HL: 72 hours). The case study is listed separately,
+with its own hours at each level (see below). For the
 full two-theme syllabus map, use the
 [IB DP Computer Science syllabus guide](/resources/ib-dp-computer-science-syllabus-guide/).
 Theme A's Paper 1 questions also draw on the pre-released case study, so revising these four

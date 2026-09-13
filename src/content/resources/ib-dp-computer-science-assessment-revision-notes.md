@@ -18,24 +18,24 @@ Condensed for quick recall of how the course is assessed. For the full subject o
 paper-by-paper exam-day plan see the
 [exam preparation guide](/resources/ib-dp-computer-science-exam-preparation/).
 
-## Why Paper 2 has no fixed percentage listed separately
-
-Paper 1 and Paper 2 together make up the external assessment share remaining after the IA's weighting is subtracted (70% at SL, 80% at HL), with Paper 1 taking a larger individual share of that total at both levels. Rather than memorising Paper 2's exact percentage in isolation, it's more useful to remember the two totals that matter for planning: internal assessment (30% SL / 20% HL) versus combined external papers (70% SL / 80% HL), since that split drives how revision time should realistically be divided between IA polishing and paper-style practice.
-
 ## SL vs HL weightings
+
+Both papers are published with equal, fixed weightings — Paper 2 is not a leftover percentage. The board's own page states this both as "a third"/"a third" in one place and as the exact figures below in its table; the table is the internally coherent source and is what these figures follow.
 
 | Component | SL | HL |
 |---|---|---|
 | Paper 1 | 35% | 40% |
-| Paper 2 | (remaining external %) | (remaining external %) |
+| Paper 2 | 35% | 40% |
 | Internal assessment (computational solution) | 30% | 20% |
 
 ## Paper 1 vs Paper 2
 
 - **Paper 1:** extended-response questions on core concepts, plus questions based on a **pre-seen
   case study** released in advance.
-- **Paper 2:** focuses on **algorithmic thinking**, assessed at the level of **pseudocode** — not
-  any specific programming language's syntax. It tests reasoning about an algorithm's logic.
+- **Paper 2:** focuses on **algorithmic thinking**. For the current series, candidates answer in
+  one of two named programming languages, and all students face questions requiring programming
+  knowledge — this replaced the outgoing course's pseudocode-only format, so resources still
+  describing Paper 2 as assessed "at the level of pseudocode" are describing the previous course.
 
 ## The computational solution (IA)
 
@@ -62,8 +62,8 @@ Beyond the shift in Paper 1's weighting (35% at SL, 40% at HL) and the IA's weig
 
 ## Exam traps
 
-- Preparing Paper 2 revision around a specific language's syntax, when the exam actually assesses
-  algorithmic logic in pseudocode.
+- Assuming Paper 2 is assessed in pseudocode — for the current course, candidates answer in one of
+  the two named programming languages, and programming knowledge is assessed directly.
 - Underweighting Paper 1 case-study preparation, since it's released in advance and rewards
   research done before the exam.
 - Treating the computational solution as only about the final working program, when the process
@@ -71,14 +71,14 @@ Beyond the shift in Paper 1's weighting (35% at SL, 40% at HL) and the IA's weig
 
 ## Self-test
 
-1. What does Paper 2 actually assess algorithms in — a specific language, or pseudocode?
+1. What does Paper 2 actually assess algorithms in — pseudocode, or a chosen programming language?
 2. What advance material does Paper 1 draw on?
 3. How does the IA's weighting differ between SL and HL?
 4. What four stages does the computational solution's assessment criteria mirror?
 5. Why does the IA benefit from a documented log of design decisions during development?
 6. Why is the pre-seen case study, in effect, partially predictable exam content?
 
-**Answers:** 1. Pseudocode — testing reasoning about an algorithm's logic, not a specific language's syntax. 2. A pre-seen case study, released in advance of the exam. 3. 30% at SL, 20% at HL. 4. Identify a problem, design a solution, develop it, and evaluate it. 5. Because the assessment criteria explicitly cover the development process, not just the finished product, so evidence of decisions and iterations strengthens this component beyond what the final code alone shows. 6. Because it is released well in advance of the exam, so research and familiarity built beforehand translate directly into faster, more confident answers on questions drawing on it.
+**Answers:** 1. One of the two named programming languages — the current course assesses programming knowledge directly, not pseudocode. 2. A pre-seen case study, released in advance of the exam. 3. 30% at SL, 20% at HL. 4. Identify a problem, design a solution, develop it, and evaluate it. 5. Because the assessment criteria explicitly cover the development process, not just the finished product, so evidence of decisions and iterations strengthens this component beyond what the final code alone shows. 6. Because it is released well in advance of the exam, so research and familiarity built beforehand translate directly into faster, more confident answers on questions drawing on it.
 
 ## Official syllabus
 

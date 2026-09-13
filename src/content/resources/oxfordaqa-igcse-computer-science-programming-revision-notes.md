@@ -7,7 +7,7 @@ topic: "Programming"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "2022-onwards"
+syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -51,7 +51,7 @@ Nearly every algorithm question is really asking you to identify or write some c
 
 | Iteration type | Condition checked | Guaranteed to run at least once? |
 |---|---|---|
-| **FOR** (definite) | Fixed count known in advance | Yes |
+| **FOR** (definite) | Fixed count known in advance | No — a count below the lower bound runs zero times |
 | **WHILE** (indefinite) | At the **start** | No |
 | **REPEAT...UNTIL** (indefinite) | At the **end** | Yes |
 
@@ -73,12 +73,14 @@ MOD  -- returns the remainder
 
 ```
 =   equal to
-!=  not equal to
+≠   not equal to
 <   less than
 >   greater than
-<=  less than or equal to
->=  greater than or equal to
+≤   less than or equal to
+≥   greater than or equal to
 ```
+
+These are the symbols the specification's own assessment material uses; a language you code in day to day may use different ones (e.g. `!=` for not equal), and languages differ, so candidates may answer in whichever suitable format their own language uses.
 
 ## Boolean operations (3.2.5)
 
@@ -93,8 +95,10 @@ WHILE score < 100 AND livesLeft > 0
 ## Worked example: nested iteration and selection
 
 ```
+HighScore <- 0
 WHILE NotSolved
   FOR i <- 1 TO 5
+    INPUT Score
     IF Score > HighScore THEN
       HighScore <- Score
     ENDIF
@@ -137,15 +141,17 @@ Practising this kind of translation -- from an English requirement into a precis
 
 ## Where the wider topic goes next
 
-Once data types, control structures and operators are secure, the rest of Topic 2 Programming builds on them directly: **data structures** (3.2.6) use these constructs with arrays/records; **input/output and file handling** (3.2.7) use assignment and selection to validate user input; **string handling** (3.2.8) applies the same operator logic to text. Treat this content as the **prerequisite layer** — revise it to fluency before moving on.
+Once data types, control structures and operators are secure, the rest of Topic 2 Programming builds on them directly: **data structures** (3.2.6) use these constructs with arrays/records; **input/output and file handling** (3.2.7) use assignment and selection to validate user input; **string handling** (3.2.8) applies the same operator logic to text; **random number generation** (3.2.9); **subroutines** (3.2.10); **structured programming** (3.2.11); **robust and secure programming** (3.2.12); and the **classification of programming languages and translators** (3.2.13). Treat this content as the **prerequisite layer** — revise it to fluency before moving on.
 
 ## Quick self-test
 
-- Calculate 23 DIV 4 and 23 MOD 4.
-- Write a WHILE loop that runs until a variable `total` exceeds 100.
-- Trace the worked nested example above with Score values 3, 7, 2, 9, 5 — what is HighScore at the end?
-- Explain the difference between a condition using AND and the same condition using OR.
-- Explain why FOR is the wrong choice for a loop that repeats "until the user enters -1."
+1. Calculate 23 DIV 4 and 23 MOD 4.
+2. Write a WHILE loop that runs until a variable `total` exceeds 100.
+3. Trace the worked nested example above with Score values 3, 7, 2, 9, 5 — what is HighScore at the end?
+4. Explain the difference between a condition using AND and the same condition using OR.
+5. Explain why FOR is the wrong choice for a loop that repeats "until the user enters -1."
+
+**Answers:** 1. 23 DIV 4 = 5; 23 MOD 4 = 3. 2. `WHILE total <= 100 ... ENDWHILE` (a REPEAT...UNTIL testing `total > 100` after the body is equally acceptable). 3. Each of the five values is input and compared in turn: 3 becomes the first HighScore, then 7 replaces it, 2 does not replace it, 9 replaces it, and 5 does not — HighScore ends at **9**. 4. AND requires every part of the condition to be true before the whole condition is true; OR requires only one part to be true — using the wrong one silently changes which cases the code handles. 5. FOR needs a fixed count known in advance; "until the user enters -1" depends on unpredictable user input, so an indefinite loop (WHILE or REPEAT...UNTIL) is needed instead.
 
 ## Official syllabus
 

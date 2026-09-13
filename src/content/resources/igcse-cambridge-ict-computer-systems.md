@@ -38,11 +38,13 @@ Databases, Spreadsheets, Presentations, Website authoring and more).
 COMPUTER SYSTEMS**
 
 Topic 1 covers the different types of computer system (desktop, laptop,
-tablet, smartphone and embedded systems) and their typical uses, along
+tablet, smartphone and phablet) and their typical uses, along
 with the core components that make up a computer system -- distinguishing
 hardware from software and identifying the main internal and peripheral
 components candidates need to recognise throughout the rest of the
-syllabus.
+syllabus. It also covers the conversion between analogue and digital
+data, and emerging technologies including artificial intelligence and
+extended reality.
 
 ## How to approach it
 
@@ -128,7 +130,7 @@ Naming the property **and** linking it to the scenario is what earns the marks; 
 | Laptop | Portable with a built-in screen/keyboard, moderate power |
 | Tablet | Very portable, touch-based, longer battery life, but limited processing power for heavy tasks |
 | Smartphone | Most portable, always with the user, but smallest screen and least processing power |
-| Embedded system | Built into another device for one fixed task, invisible to the user as a "computer" |
+| Phablet | Between a large smartphone and a small tablet in size, combining the phone and tablet use cases |
 
 An exam question asking you to "recommend a suitable device" for a
 described scenario is testing whether you can match these strengths
@@ -136,14 +138,24 @@ to the scenario's specific requirements (portability, processing
 power, screen size, battery life) rather than simply naming the most
 expensive or most modern option.
 
+## Analogue and digital data
+
+The real world is **analogue** — continuously variable, like sound pressure or temperature — but a computer can only store and process **digital** data. An **analogue-to-digital converter (ADC)** samples an analogue signal at regular intervals and stores each sample as a binary number, needed wherever a computer records a real-world signal (a microphone, a temperature sensor). A **digital-to-analogue converter (DAC)** reverses the process, turning stored binary values back into a continuously variable signal a speaker or motor can use. Both conversions are needed wherever a computer system connects to the analogue world on either the input or the output side.
+
+## Emerging technologies
+
+**Artificial intelligence (AI)** allows a system to appear to learn and make decisions rather than simply follow a fixed set of instructions, used in applications such as voice assistants and recommendation systems. **Extended reality (XR)** covers virtual reality (a fully simulated environment), augmented reality (digital information overlaid on the real world) and mixed reality (a blend of the two), used in applications from gaming to training simulations.
+
 ## Common mistakes
 
-Saying ROM stores "the operating system" — it holds the boot instructions that start loading it. Describing RAM as permanent storage. Confusing system software with application software. Listing interface types without advantages and disadvantages. Recommending a storage medium without justifying it against the specific scenario.
+Saying ROM stores "the operating system" — it holds the boot instructions that start loading it. Describing RAM as permanent storage. Confusing system software with application software. Listing interface types without advantages and disadvantages. Recommending a storage medium without justifying it against the specific scenario. Calling "embedded systems" one of the syllabus's named types of computer — the syllabus's list is desktop, laptop, tablet, smartphone and phablet.
 
 ## Quick revision checklist
 
 - Distinguish hardware from software, and system from application software.
 - State the role of the CPU, RAM, ROM and secondary storage, and contrast RAM with ROM.
-- Define an embedded system and give examples.
+- Name the five types of computer system, including the phablet, and compare their typical uses.
+- Explain why analogue-to-digital and digital-to-analogue conversion are both needed.
+- Describe artificial intelligence and the three forms of extended reality.
 - Compare command line, graphical and gesture-based interfaces.
 - Compare magnetic, optical and solid state storage, and justify a choice for a given scenario.

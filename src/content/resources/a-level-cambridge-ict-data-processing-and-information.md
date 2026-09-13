@@ -41,9 +41,9 @@ PROCESSING AND INFORMATION**
 
 Section 1 establishes the core vocabulary the rest of the syllabus
 builds on: the distinction between data and information, how data is
-processed and encoded into meaningful information, and the stages of
-the data-processing cycle (input, processing, output and storage)
-that underpin ICT systems generally.
+processed and encoded into meaningful information, validation and
+verification, the three processing methods (batch, online and
+real-time), and encryption.
 
 ## How to approach it
 
@@ -52,10 +52,11 @@ practise explaining the data-information distinction using concrete,
 real-world examples -- a barcode scan versus the stock update it
 triggers, for instance -- rather than only definitions, since exam
 questions typically embed this concept in scenario-based contexts. The
-data-processing cycle you learn here (input, processing, output,
-storage) is a recurring analytical frame used throughout the syllabus,
-so get comfortable applying it to new systems described in exam
-scenarios rather than treating it as a one-off definition to memorise.
+three processing methods (batch, online transaction and real-time
+control) recur throughout the syllabus as a way of matching a method
+to a scenario, so get comfortable justifying a choice for a new system
+described in an exam scenario rather than treating them as a one-off
+definition to memorise.
 
 ## Official syllabus
 
@@ -93,8 +94,11 @@ These are frequently confused, and the distinction is the point of the topic.
 | Presence | A required field is not empty |
 | Format | Matches a pattern, such as a postcode |
 | Check digit | An extra digit calculated from the others |
+| Lookup | Value must exist in a predefined list or reference table |
+| Consistency | Compares one field against another for a logical match, e.g. a start date before an end date |
+| Limit | Value must not exceed a single specified boundary (a one-sided range check) |
 
-**Verification** checks that data has been *accurately transferred* — usually by double entry, as with password confirmation, or by visual proofreading against the source.
+**Verification** checks that data has been *accurately transferred* — by double entry, as with password confirmation; by visual proofreading against the source; or, for data sent over a network, by a parity check, checksum, hash total or control total comparing the data received against what was sent.
 
 Neither guarantees correctness: a date of birth may be valid, verified, and still the wrong date.
 
@@ -103,6 +107,10 @@ Neither guarantees correctness: a date of birth may be valid, verified, and stil
 - **Batch processing** — transactions collected and processed together, with no user interaction. Suited to payroll and billing, where immediate response is unnecessary.
 - **Online / real-time transaction processing** — each transaction processed immediately, keeping the master file always current. Required for booking systems, where two people must not book the same seat.
 - **Real-time control** — a system responds to sensor input quickly enough to influence the process, as in a chemical plant or aircraft control.
+
+## Encryption
+
+Encryption protects data by scrambling it into an unreadable form that can only be reversed with the correct key. **Symmetric encryption** uses one shared key for both encrypting and decrypting, so the key itself must be exchanged securely in advance. **Asymmetric encryption** uses a mathematically linked public/private key pair: data encrypted with the public key can only be decrypted with the matching private key, which never needs to be transmitted. Encryption commonly relies on protocols such as **SSL** (Secure Sockets Layer) and its successor **TLS** (Transport Layer Security) to secure data exchanged between a client and server, for example during online banking or shopping. Uses include protecting data in transit across a network and protecting data stored on a device or in a database. Symmetric encryption is faster but requires a secure way to share the key; asymmetric encryption solves the key-sharing problem but is slower, which is why many systems use asymmetric encryption to exchange a symmetric key and then switch to symmetric encryption for the rest of the session.
 
 ## Worked example
 
@@ -130,3 +138,4 @@ Treating validation and verification as the same thing, or swapping their defini
 - Explain coding with both its benefits and its loss of precision.
 - Name and describe every validation check, and contrast validation with verification.
 - Compare batch, online transaction and real-time control processing, and justify a choice for a scenario.
+- Explain the need for encryption and contrast symmetric with asymmetric encryption, naming SSL/TLS as protocols that use it.

@@ -113,7 +113,7 @@ pixel to pixel.
 
 ## Data storage units
 
-Each unit is **1024** times the one before it:
+A nibble is **4 bits**, and a byte is **8 bits** (two nibbles). From the kibibyte upwards, each unit is **1024** times the one before it:
 
 ```
 bit -> nibble (4 bits) -> byte (8 bits) -> kibibyte (KiB)

@@ -7,7 +7,7 @@ topic: "Programming"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9210"]
-syllabusSeries: "2022-onwards"
+syllabusSeries: "Teaching from September 2017, exams from May/June 2019"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -135,10 +135,15 @@ Once data types, control structures and operators are secure, the
 remaining parts of Topic 2 Programming build on them directly: data
 structures (3.2.6) use these same constructs to work with arrays and
 records; input/output and file handling (3.2.7) uses assignment and
-selection to validate what a user types in; and string handling (3.2.8)
-applies the same operator logic to text rather than numbers. Treat this
-guide's content as the prerequisite layer, and revise it to fluency
-before moving on to those later sections.
+selection to validate what a user types in; string handling (3.2.8)
+applies the same operator logic to text rather than numbers; random
+number generation (3.2.9); subroutines (3.2.10), including procedures
+and functions with parameters; structured programming (3.2.11); robust
+and secure programming (3.2.12), including validation, authentication
+and defensive design; and the classification of programming languages
+and translators (3.2.13). Treat this guide's content as the
+prerequisite layer, and revise it to fluency before moving on to those
+later sections.
 
 ## Official syllabus
 

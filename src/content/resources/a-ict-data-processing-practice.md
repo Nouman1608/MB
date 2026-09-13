@@ -36,17 +36,17 @@ Related: [Data Processing and Information revision notes](/resources/a-ict-data-
 
 ## Section B
 
-**3.** Explain the difference between validation and verification.
+**3.** *This question is about validation and verification.*
 
 **(a)** Describe **four** validation checks and give a suitable field for each. **[8]**
 **(b)** Describe **two** methods of verification. **[4]**
 **(c)** Explain why validation cannot guarantee that data is correct. **[2]**
 
-**4.** Explain the difference between a flat file and a relational database, and give **three** advantages of a relational database. **[7]**
+**4.** Explain the difference between a flat file and a relational database, and give **three** advantages of a relational database. **[5]**
 
 **5.** Explain the terms primary key, foreign key and referential integrity. **[6]**
 
-**6.** Explain **four** principles that data protection legislation typically places on organisations holding personal data. **[8]**
+**6.** Explain the difference between batch processing and real-time transaction processing, giving **one** example system suited to each. **[8]**
 
 ## Section C
 
@@ -76,7 +76,7 @@ Advantages: **reduced data redundancy** — each fact is stored once, saving sto
 
 **5. Primary key** — a field (or combination) that **uniquely identifies each record in a table**; no two records may share it and it cannot be null [1] [1]. **Foreign key** — a field in one table that **refers to the primary key of another table**, creating the relationship between them [1] [1]. **Referential integrity** — the rule that a **foreign key value must always match an existing primary key value** in the related table [1], which prevents "orphan" records such as an order attached to a customer who does not exist [1].
 
-**6.** Any four, 2 marks each: data must be **processed lawfully and fairly**, with the subject informed of how it will be used [1] [1]. It must be collected for **specified, explicit purposes and not used for anything incompatible** with them [1] [1]. It must be **adequate, relevant and limited to what is necessary** — organisations should not collect data "just in case" [1] [1]. It must be **accurate and kept up to date**, with inaccuracies corrected or erased [1] [1]. It must **not be kept longer than necessary** [1] [1]. It must be **kept secure against unauthorised access, loss or damage**, using encryption, access controls and backups [1] [1].
+**6. Batch processing** collects transactions together and processes them all at a scheduled time, with no user interaction while running [1] [1]; suited to **payroll**, where there is a large volume of similar transactions and no need for an immediate response [1] [1]. **Real-time transaction processing** processes each transaction immediately as it arrives, keeping the master file continuously up to date [1] [1]; suited to a **seat-booking system**, where two customers must never be able to reserve the same seat, which batching could allow in the gap before the file is updated [1] [1].
 
 **7. Static** data does not change once recorded, e.g. a date of birth [1]. **Dynamic** data changes automatically as its source updates, e.g. a live share price or a sensor reading [1].
 
@@ -92,4 +92,4 @@ Advantages: **reduced data redundancy** — each fact is stored once, saving sto
 - Confusing validation with verification.
 - Giving a validation check without a suitable field.
 - Saying a primary key "identifies the table" rather than each record.
-- Listing data protection principles without explaining the obligation.
+- Confusing batch processing with real-time processing, or picking an example scenario unsuited to the method described.

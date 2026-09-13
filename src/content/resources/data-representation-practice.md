@@ -76,7 +76,7 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 **5. (a)** 01101100 = 108; 00110101 = 53 [1]; sum = **10100001** = 161 [1]; this fits in 8 bits, so **no overflow** [1].
 **(b)** 11010010 = 210; 01100011 = 99 [1]; sum = 309, which requires **9 bits (100110101)** [1]; the ninth bit is lost, so **overflow occurs** [1].
 
-**6. (a)** Total bits = 800 × 600 × 24 [1] = 11 520 000 bits [1]; ÷ 8 = 1 440 000 bytes [1]; ÷ 1 000 000 (or 1 048 576) = **1.44 MB** (or 1.37 MiB) [1].
+**6. (a)** Total bits = 800 × 600 × 24 [1] = 11 520 000 bits [1]; ÷ 8 = 1 440 000 bytes [1]; ÷ 1 048 576 = **1.37 MB** [1].
 **(b)** File size **halves to about 0.72 MB** [1]; the number of available colours falls from about 16.7 million to 4096 [1], so **colour banding appears in gradients and the image looks less realistic** [1].
 
 **7. Lossless** compression **reduces file size without discarding any data**, so the original can be restored exactly [1]; suitable for **text documents, spreadsheets and program files**, where any change would corrupt the file [1]. **Lossy** compression **permanently removes data the user is unlikely to notice** [1]; suitable for **photographs, music and video streaming**, where a much smaller file matters more than perfect fidelity [1].

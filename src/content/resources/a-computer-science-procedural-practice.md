@@ -26,6 +26,12 @@ featured: false
 
 Related: [Procedural Programming revision notes](/resources/a-computer-science-procedural-revision-notes/)
 
+> **A note on pseudocode.** The specification's own exams ask candidates to
+> *trace* pseudocode, not write it — where a question asks you to write an
+> algorithm, it must be written as a program in your own chosen language. The
+> worked answers below are given in pseudocode purely for language-neutral
+> illustration, not because that is the form the real exam requires.
+
 ---
 
 ## Section A
@@ -39,10 +45,10 @@ Related: [Procedural Programming revision notes](/resources/a-computer-science-p
 **3.** Compare linear search and binary search.
 
 **(a)** Describe how each works. **[4]**
-**(b)** State the time complexity of each in Big O notation. **[2]**
+**(b)** *(A-level only — Paper 4 unit; not assessed at AS.)* State the time complexity of each in Big O notation. **[2]**
 **(c)** State the precondition for binary search and explain why it is required. **[3]**
 
-**4.** Write pseudocode for a bubble sort of an array of integers into ascending order. **[6]**
+**4.** Write a program, in your chosen language, for a bubble sort of an array of integers into ascending order. **[6]**
 
 **5.** Explain **two** ways bubble sort can be optimised, and state why it is still unsuitable for large data sets. **[5]**
 
@@ -69,9 +75,9 @@ OUTPUT result
 
 **(b)** Distinguish between passing a parameter by value and by reference, and explain why passing by value is generally preferred. **[3]**
 
-**9.** A recursive function calculates factorial(n).
+**9.** *(A-level only — Paper 3 unit; not assessed at AS.)* A recursive function calculates factorial(n).
 
-**(a)** Write pseudocode for a recursive factorial function, clearly identifying the base case and the general case. **[4]**
+**(a)** Write a program, in your chosen language, for a recursive factorial function, clearly identifying the base case and the general case. **[4]**
 
 **(b)** Explain what happens on the call stack when factorial(3) is called, and why a missing base case causes a stack overflow. **[3]**
 
