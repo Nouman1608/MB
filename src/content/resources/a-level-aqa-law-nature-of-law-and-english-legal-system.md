@@ -19,18 +19,27 @@ featured: false
 ---
 
 This guide covers **Section 3.1 The Nature of Law and the English
-Legal System**, the first of three sections in AQA A-level Law
-(7162), for teaching from September 2017, A-level exams from 2019
-onwards. Each of the three sections -- this one, Criminal law, and
-Tort -- carries an equal 33.33% weighting.
+Legal System**, one of AQA A-level Law (7162)'s five content sections,
+for teaching from September 2017, A-level exams from 2019 onwards.
+Three sections are compulsory -- this one, Criminal law and Tort -- and
+two further sections, Contract law and Human Rights, are offered as an
+alternative route through the third paper. Each compulsory section is
+examined on all three 100-mark papers, at 25 marks per paper: a
+quarter of that paper, and a quarter of the qualification as a whole.
+Each of the three papers itself carries a third of the total award --
+the specification gives that paper weighting both as "a third" and as
+"33.33%", so either form is correct for a paper, though not for this
+section.
 
 ## Where this fits in 7162
 
-Section 3.1 is co-teachable with AS-level Law (7161), meaning AS and
-A-level students can be taught together on this content. It provides
-the institutional and theoretical grounding -- how law is made, applied
-and enforced -- that the more applied Criminal Law and Tort sections
-draw on when analysing specific legal scenarios.
+This section provides the institutional and theoretical grounding --
+how law is made, applied and enforced -- that the more applied Criminal
+Law and Tort sections draw on when analysing specific legal scenarios.
+AQA now offers a single Law qualification at A-level; the separate
+AS-level Law (7161) has been withdrawn and does not appear among the
+board's current specifications, so this section should not be
+presented as co-teachable with it.
 
 ## Syllabus coverage
 
@@ -45,10 +54,15 @@ the law, equality before the law, and fairness and clarity in how law
 operates
 - Law making — parliamentary law making, delegated legislation,
 statutory interpretation, judicial precedent, law reform through the
-Law Commission, and the historical influence of European Union law
-- The legal system — the civil and criminal courts, alternative
-dispute resolution, the role of lay people (magistrates and juries),
-legal personnel and the judiciary, and access to justice and funding
+Law Commission, and the institutions, sources and impact of European
+Union law on the law of England and Wales
+- The legal system — sources of law including custom, the civil and
+criminal courts (including criminal court powers and the sentencing
+of adult offenders), alternative dispute resolution (tribunals,
+mediation and negotiation), the role of lay people (magistrates and
+juries), legal personnel and the judiciary (including the basic
+regulation of barristers, solicitors and legal executives), and access
+to justice and funding
 
 ## How to approach it
 
@@ -60,9 +74,7 @@ each rather than trying to hold the whole section as one undifferentiated
 block. Law making questions frequently ask candidates to evaluate the
 advantages and disadvantages of a particular method (such as delegated
 legislation or judicial precedent), so practise structured evaluation
-rather than description alone. Because AS and A-level students study
-this content together, past AS-level (7161) resources and questions on
-this section can be useful supplementary practice material.
+rather than description alone.
 
 ## Official syllabus
 
@@ -88,9 +100,15 @@ The most examined classification is **civil versus criminal**:
 
 ## Sources of law
 
-**Parliamentary supremacy** places Acts of Parliament above all other sources; no court may override one.
+**Parliamentary supremacy** places Acts of Parliament above all other sources; no court may override one. The doctrine is not unlimited in practice: devolution to Scotland, Wales and Northern Ireland has transferred competences that are politically very difficult to reverse, and the Human Rights Act 1998 lets courts issue a declaration of incompatibility rather than strike an Act down, so an incompatible Act stays law unless and until Parliament itself amends it.
+
+**Custom** — a long-established local practice, recognised as law where it is certain, reasonable and has existed since time immemorial — survives today as a minor source alongside statute and case law.
+
+**European Union law** occupies a distinctive place among the sources: the **Council**, the **Commission**, the **Parliament** and the **Court of Justice of the European Union** each played a role in making it, its own sources are **treaties, regulations and directives**, and it has had a lasting impact on the law of England and Wales in areas Parliament legislated to give effect to.
 
 **Delegated legislation** — statutory instruments, byelaws, Orders in Council — is made under an enabling Act. Its advantages are speed, expertise and flexibility; its dangers are volume, sub-delegation and lack of publicity. Controls are parliamentary (affirmative and negative resolution, scrutiny committees) and judicial (review for procedural or substantive *ultra vires*, and unreasonableness).
+
+**Law reform** through the **Law Commission** proceeds by **reform, codification, consolidation and repeal**; its advantages are independence and technical expertise, and its main disadvantage is that government implements only a limited proportion of its reports.
 
 **Statutory interpretation** proceeds through the literal, golden and mischief rules and the purposive approach, assisted by the language rules — *ejusdem generis*, *expressio unius est exclusio alterius*, *noscitur a sociis* — and by intrinsic and extrinsic aids.
 
@@ -98,9 +116,11 @@ The most examined classification is **civil versus criminal**:
 
 ## The legal system
 
-Civil claims are allocated to small claims, fast, intermediate or multi-track by value and complexity. Criminal offences are summary, either-way or indictable, determining the trial venue.
+Civil claims are allocated to small claims, fast, intermediate or multi-track by value and complexity. Criminal offences are summary, either-way or indictable, determining the trial venue. Criminal court powers on sentencing adult offenders sit alongside this: magistrates' and Crown Court sentencing powers differ, and the choice between custodial, community, fine and discharge sentences reflects the seriousness of the offence and any aggravating or mitigating factors.
 
-Personnel: barristers (advocacy, specialist opinions), solicitors (client-facing, increasingly with rights of audience), and legal executives. The **judiciary** is appointed by the Judicial Appointments Commission, with independence protected by security of tenure and immunity from suit. **Lay people** — magistrates and juries — bring community participation but attract criticism over representativeness and competence in complex cases.
+**Alternative dispute resolution** sits within this section too: tribunals resolve disputes in specialist areas (such as employment) outside the ordinary court structure, and mediation and negotiation let the parties reach their own settlement, privately and without a binding third-party decision, as an alternative to litigation.
+
+Personnel: barristers (advocacy, specialist opinions), solicitors (client-facing, increasingly with rights of audience), and legal executives. Each branch has its own regulator with a basic disciplinary and training framework — barristers through the Bar Standards Board, solicitors through the Solicitors Regulation Authority, and legal executives through CILEX Regulation. The **judiciary** is appointed by the Judicial Appointments Commission, with independence protected by security of tenure and immunity from suit. **Lay people** — magistrates and juries — bring community participation but attract criticism over representativeness and competence in complex cases.
 
 ## Worked example
 
@@ -113,8 +133,8 @@ Distinguishing  -> identify a material factual difference, so the earlier
 Overruling      -> a higher court declares the earlier decision wrong law.
                    The precedent loses authority for the future.
 
-Reversing       -> an appellate court changes the outcome of the SAME case
-                   on appeal.
+Following       -> the court applies an earlier decision because the material
+                   facts are sufficiently similar and it is bound to.
 
 Practice Statement 1966 -> the Supreme Court may depart from its own past
                    decisions where it appears right to do so.
@@ -130,5 +150,5 @@ Reversing the standards of proof between criminal and civil. Confusing ratio dec
 - Compare civil and criminal law across purpose, parties, proof, courts and outcome.
 - Explain delegated legislation with its advantages, dangers and both sets of controls.
 - Apply the interpretation rules and the language rules to a statute.
-- Explain precedent, including ratio, obiter, distinguishing, overruling and the Practice Statement.
+- Explain precedent, including ratio, obiter, following, distinguishing, overruling and the Practice Statement.
 - Describe the roles of legal personnel and evaluate lay involvement.

@@ -26,14 +26,14 @@ Condensed for the final weeks. For the full explanation, use the
 
 Most crimes need **actus reus** (guilty act) **and** mens rea (guilty mind) present **at the same time** — the "coincidence" requirement, and a favourite application point when the two occur at different moments.
 
-## Actus reus — four categories
+## Actus reus — four elements
 
-| Category | What it means |
+| Element | What it means |
 |---|---|
-| Acts | Positive conduct causing the prohibited result |
-| Omissions | Failure to act, only where the law recognises a duty to act |
-| State of affairs | Simply being in a situation satisfies actus reus, regardless of voluntariness |
+| Conduct | Acts (positive conduct), omissions (failure to act, only where the law recognises a duty to act) and states of affairs (simply being in a situation satisfies actus reus) |
+| Voluntariness and involuntariness | Liability generally requires voluntary conduct; an involuntary act does not satisfy actus reus |
 | Causation | Conduct must be both factual and legal cause of the consequence |
+| Consequences | Where the offence is defined by its result, that result must actually follow from the defendant's conduct |
 
 **Causation test:** "but for" the defendant's act, would the consequence have occurred? (factual) — plus a separate legal-cause test.
 

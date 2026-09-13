@@ -132,8 +132,8 @@ guilty act and guilty mind occur at different times.
 
 ## Quick revision checklist
 
-- Learn the actus reus categories: acts, omissions, state of affairs,
-voluntariness, causation.
+- Learn the actus reus elements: conduct (acts, omissions and states of
+affairs), voluntariness and involuntariness, causation, and consequences.
 - Distinguish intention, subjective recklessness and negligence as
 three separate fault standards.
 - Know that strict liability offences require no proof of mens rea for

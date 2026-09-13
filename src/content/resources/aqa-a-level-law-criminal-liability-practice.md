@@ -33,7 +33,7 @@ Related: [General Elements of Liability study guide](/resources/a-level-aqa-law-
 
 **1.** State what the "coincidence of actus reus and mens rea" requirement means. **[2]**
 
-**2.** Name the four categories of actus reus recognised by the specification. **[4]**
+**2.** Name the four elements of actus reus recognised by the specification. **[4]**
 
 ## Section B
 
@@ -63,7 +63,7 @@ Related: [General Elements of Liability study guide](/resources/a-level-aqa-law-
 
 **1.** It means that the actus reus (guilty act) and mens rea (guilty mind) must be **present at the same time** [1] — a favourite application point when the two occur at **different moments** [1].
 
-**2.** **Acts, omissions, state of affairs, and causation** [1] [1] [1] [1].
+**2.** **Conduct** (acts, omissions and states of affairs), **voluntariness and involuntariness**, **causation**, and **consequences** [1] [1] [1] [1].
 
 **3.** The **factual cause** is established using the **"but for" test** — but for the defendant's act, would the consequence have occurred? [1] [1]. The **legal cause** is a separate test, requiring the defendant's conduct to be a sufficiently significant/operating cause of the consequence in law, not merely a factual link [1] [1].
 

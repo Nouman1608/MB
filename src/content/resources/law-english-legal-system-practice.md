@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "english-legal-system-9084"
-description: "Original exam-style practice questions with full worked answers on sources of law, civil procedure, ADR, sentencing and legal funding."
+description: "Original exam-style practice questions with full worked answers on sources of law, civil court tracks, ADR, judicial precedent and statutory interpretation."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -24,7 +24,7 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 
-Related: [The English Legal System revision notes](/resources/a-law-english-legal-system-revision-notes/)
+Related: [The English Legal System revision notes](/resources/a-law-english-legal-system-revision-notes/) | [The English Legal System — courts and personnel practice](/resources/a-law-english-legal-system-practice/)
 
 ---
 
@@ -36,17 +36,13 @@ Related: [The English Legal System revision notes](/resources/a-law-english-lega
 
 ## Section B
 
-**3.** Explain the three tracks in the civil courts and state which cases go to each. **[6]**
+**3.** Explain the **four** tracks in the civil courts and state which cases go to each. **[8]**
 
 **4.** Explain **four** forms of alternative dispute resolution and give **two** advantages of ADR over litigation. **[10]**
 
-**5.** Explain the aims of sentencing, giving **four** aims with an example of a sentence that serves each. **[8]**
+**5.** Explain the difference between *ratio decidendi* and *obiter dicta*, and describe **two** ways a court can avoid an earlier precedent. **[6]**
 
-**6.** Explain **three** types of sentence available in the criminal courts and one factor a judge takes into account in aggravation and one in mitigation. **[8]**
-
-**7.** Explain the difference between *ratio decidendi* and *obiter dicta*, and describe **two** ways a court can avoid an earlier precedent. **[6]**
-
-**8.** Explain the literal rule and the purposive approach to statutory interpretation, and state **one** advantage and **one** disadvantage of each. **[8]**
+**6.** Explain the literal rule and the purposive approach to statutory interpretation, and state **one** advantage and **one** disadvantage of each. **[8]**
 
 ---
 
@@ -56,28 +52,21 @@ Related: [The English Legal System revision notes](/resources/a-law-english-lega
 
 **2.** Civil cases are brought by a **claimant against a defendant**, criminal cases by the **prosecution on behalf of the Crown** [1] [1]. In civil cases the outcome is a finding of **liability and a remedy such as damages or an injunction**; in criminal cases it is a **conviction and a sentence** [1].
 
-**3. Small claims track** — claims up to **£10 000**, heard informally in the County Court, usually without lawyers, with costs not normally recoverable [1] [1]. **Fast track** — claims between **£10 000 and £25 000**, with a strict timetable, a trial of no more than one day and limited expert evidence [1] [1]. **Multi-track** — claims **over £25 000 or of unusual complexity**, heard in the County Court or High Court with active case management by the judge [1] [1].
+**3. Small claims track** — claims up to **£10,000**, heard informally in the County Court, usually without lawyers, with costs not normally recoverable [1] [1]. **Fast track** — claims between **£10,000 and £25,000**, with a strict timetable and a trial of no more than one day [1] [1]. **Intermediate track** (in force from **1 October 2023**) — typically claims between **£25,000 and £100,000**, but defined by its conditions rather than by value alone: a trial of no more than **three days**, no more than **two expert witnesses per party**, and no more than two claimants and two defendants; several classes of claim are assigned to it, or to the multi-track, whatever their value [1] [1]. **Multi-track** — the residual track for claims **over £100,000, of unusual complexity, or belonging to a class assigned to it regardless of value**, heard in the County Court or High Court with active case management by the judge [1] [1].
 
 **4. Negotiation** — the parties, or their solicitors, **discuss the matter directly and reach their own agreement**; it is private, cheap and immediate [1] [1]. **Mediation** — a **neutral third party helps the parties reach their own solution but does not impose one**; useful where a continuing relationship matters [1] [1]. **Conciliation** — similar to mediation, but the **conciliator plays a more active role and may suggest a solution**, as ACAS does in employment disputes [1] [1]. **Arbitration** — the parties agree to submit the dispute to an arbitrator whose **decision (the award) is binding and enforceable in court**, often under the Arbitration Act 1996 [1] [1].
 **Advantages**, any two: it is **far cheaper and quicker** than court proceedings, which can take years [1]; it is **private**, so commercial reputation and confidential information are protected [1]; it is **less adversarial**, so it is more likely to preserve an ongoing business or family relationship [1]; the parties can choose a **decision-maker with relevant technical expertise** [1].
 
-**5.** Any four, 2 marks each: **Punishment (retribution)** — the offender receives their just deserts; e.g. a **custodial sentence proportionate to the offence** [1] [1]. **Deterrence** — discouraging the offender and others from offending; e.g. an **exemplary sentence for a prevalent offence** [1] [1]. **Rehabilitation** — reforming the offender so they do not reoffend; e.g. a **community order with a drug treatment or education requirement** [1] [1]. **Protection of the public** — e.g. a **long custodial sentence, an extended sentence or a driving disqualification** [1] [1]. **Reparation** — making amends to the victim or society; e.g. a **compensation order or unpaid work** [1] [1].
+**5.** ***Ratio decidendi*** is the **legal reason for the decision** — this alone is binding on later courts [1]. ***Obiter dicta*** is everything said "by the way", which is **persuasive only, not binding** [1]. A court can avoid an earlier precedent by **distinguishing** it, holding that the material facts of the current case differ so the earlier decision does not apply [1] [1], or by a higher court **overruling** it, declaring the earlier decision wrong [1] [1].
 
-**6.** Any three sentence types, 2 marks each: **Custodial** — immediate or suspended imprisonment, for offences so serious that only custody is justified [1] [1]. **Community order** — with requirements such as unpaid work, a curfew, or supervision, for offences serious enough to warrant restriction of liberty but not custody [1] [1]. **Fines** — the most common sentence, calculated with reference to the offender's means as well as the seriousness of the offence [1] [1]. **Discharge** — absolute or conditional, where punishment is inappropriate or the offence is very minor [1] [1].
-**Aggravating factor**, any one: **previous relevant convictions**, offending **on bail**, an offence that was **planned rather than spontaneous**, **vulnerability of the victim**, or **hostility based on race, religion, disability or sexual orientation** [1].
-**Mitigating factor**, any one: **an early guilty plea**, which attracts a reduction of up to one third, **genuine remorse**, **no previous convictions**, **youth or mental illness**, or **a minor role in a joint offence** [1].
-
-**7.** ***Ratio decidendi*** is the **legal reason for the decision** — this alone is binding on later courts [1]. ***Obiter dicta*** is everything said "by the way", which is **persuasive only, not binding** [1]. A court can avoid an earlier precedent by **distinguishing** it, holding that the material facts of the current case differ so the earlier decision does not apply [1] [1], or by a higher court **overruling** it, declaring the earlier decision wrong [1] [1].
-
-**8. Literal rule** — words are given their **plain, ordinary meaning, even if the result is absurd**, applying the words Parliament actually enacted regardless of the outcome [1] [1]. Advantage: it **respects parliamentary sovereignty**, since judges apply the words Parliament actually enacted rather than substituting their own view [1]; disadvantage: it can **defeat Parliament's evident intention** and produce an unjust or absurd outcome [1]. **Purposive approach** — the court asks **what Parliament's purpose was** in passing the Act, and interprets the words accordingly to achieve that purpose [1] [1]. Advantage: it **achieves a just result that reflects Parliament's real intention**, particularly where the literal wording has not kept pace with circumstances [1]; disadvantage: it **risks judges legislating**, substituting their own view of what Parliament should have intended for what it actually enacted [1].
+**6. Literal rule** — words are given their **plain, ordinary meaning, even if the result is absurd**, applying the words Parliament actually enacted regardless of the outcome [1] [1]. Advantage: it **respects parliamentary sovereignty**, since judges apply the words Parliament actually enacted rather than substituting their own view [1]; disadvantage: it can **defeat Parliament's evident intention** and produce an unjust or absurd outcome [1]. **Purposive approach** — the court asks **what Parliament's purpose was** in passing the Act, and interprets the words accordingly to achieve that purpose [1] [1]. Advantage: it **achieves a just result that reflects Parliament's real intention**, particularly where the literal wording has not kept pace with circumstances [1]; disadvantage: it **risks judges legislating**, substituting their own view of what Parliament should have intended for what it actually enacted [1].
 
 ---
 
 ## Where marks are usually lost
 
 - Confusing conciliation with mediation.
-- Giving the small claims limit incorrectly.
-- Listing aims of sentencing without an example.
-- Treating an early guilty plea as an aggravating factor.
+- Giving the small claims or fast track limit incorrectly.
+- Describing the intermediate track by its monetary band alone, without its conditions on trial length, expert evidence and the number of parties.
 - Treating obiter dicta as binding.
 - Describing a rule of interpretation without a linked advantage or disadvantage.
