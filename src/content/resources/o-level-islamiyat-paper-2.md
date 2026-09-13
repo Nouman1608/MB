@@ -7,21 +7,23 @@ topic: "Paper 2"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["2058"]
-syllabusSeries: "2024-2025"
+syllabusSeries: "2026-2027"
 order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
-description: "Cambridge O Level Islamiyat 2058 (2024-2025 series), Paper 2: the major teachings and history of the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam. Identical structure to Cambridge IGCSE Islamiyat 0493."
+description: "Cambridge O Level Islamiyat 2058 (2026-2027 series), Paper 2: the major teachings and history of the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam. Identical structure to Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-01
 featured: false
 ---
 
 This guide covers **Paper 2**, one of two compulsory papers for
-Cambridge O Level Islamiyat 2058, 2024-2025 series. As confirmed
+Cambridge O Level Islamiyat 2058, 2026-2027 series. As confirmed
 against 2058's own syllabus PDF, it shares an identical Paper 1
 / Paper 2 four-topic structure with Cambridge IGCSE Islamiyat 0493.
+(A version 2 syllabus for the 2028 series has since been published;
+this page follows the current 2026-2027 document.)
 
 ## Where this fits in 2058
 
@@ -29,8 +31,11 @@ Paper 1 (not covered in this guide) covers the Qur'an and the life of
 the Prophet Muhammad (pbuh). Paper 2 moves to the Hadiths, the period
 of rule of the four Rightly Guided Caliphs, and the Articles of Faith
 and Pillars of Islam. Together the two papers form the whole of 2058
--- there is no separate topic list beyond these four sub-topics per
-paper.
+-- there is no numbered sub-topic list beyond these four per paper,
+but the syllabus also prescribes named passages for close study in
+2.1, set in both Arabic and English in the examination, so revision
+should cover those set passages directly rather than relying on the
+sub-topic list alone.
 
 ## Syllabus coverage
 
@@ -67,9 +72,9 @@ of the Hadiths mattered, not only how it happened.
 
 ## Official syllabus
 
-Cambridge O Level Islamiyat (2058) syllabus for examination 2024 and
-2025 —
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/635787-2024-2025-syllabus.pdf).
+Cambridge O Level Islamiyat (2058) syllabus for examination 2026 and
+2027, version 1 —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf).
 
 ## The Hadiths: teaching and preservation
 

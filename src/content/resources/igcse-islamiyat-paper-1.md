@@ -37,9 +37,12 @@ and candidates answer two more chosen from the remaining questions.
 Paper 1 covers the Qur'an and the life of the Prophet Muhammad (pbuh),
 while Paper 2 (not covered in this guide) covers the Hadiths, the
 Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam.
-Together the two papers form the whole of 0493 — there is no separate
-topic list beyond these four sub-topics per paper, so Paper 1's content
-is the complete foundation candidates need for half the qualification.
+Together the two papers form the whole of 0493 — there is no numbered
+sub-topic list beyond these four per paper, but the syllabus also
+prescribes fifteen named passages from the Qur'an in an appendix, from
+which the examination sets its Question 1 choices, so revision should
+cover the appendix passages directly rather than relying on the
+sub-topic list alone.
 
 ## Syllabus coverage
 
@@ -51,17 +54,21 @@ running through the Qur'an
 revealed and compiled, and its significance
 - 1.3 The Life and Importance of the Prophet Muhammad (pbuh) — the key
 events of his life and their significance for Muslims
-- 1.4 The First Islamic Community — the early Muslim community in
-Makkah and Madinah, and its formative events
+- 1.4 The First Islamic Community — the Prophet's wives; his
+descendants, including his children, grandchildren and the line
+recognised among Shia Muslims as Imams; his leading Companions,
+including the Ten Blessed Companions, his Scribes and the major
+figures of his ministry; the Emigrants and the Helpers; and the four
+Rightly Guided Caliphs during his lifetime
 
 ## How to approach it
 
-Because each question requires a compulsory response plus a choice from
-the remainder, breadth of preparation across all four sub-topics matters
-more than depth in only one or two — a candidate who has thoroughly
-revised three of the four sub-topics but is weak on the fourth risks
-being forced into an unfamiliar question if that is where Question 1 or
-2 (the compulsory pair) happens to sit. Answers are strongest when they
+Question 1 and Question 2 are fixed to the first two sub-topics — 1.1
+and 1.2 — so a candidate cannot avoid either of those two by choosing
+elsewhere; only the remaining two answers, from 1.3 and 1.4, are a
+genuine choice. Breadth of preparation across all four sub-topics
+still matters more than depth in only one or two, since a candidate
+weak on 1.1 or 1.2 has no way round the compulsory pair. Answers are strongest when they
 combine accurate factual recall — dates, names, the sequence of events —
 with an explanation of significance, since examiners consistently
 reward candidates who go beyond "what happened" to explain "why it
@@ -89,7 +96,9 @@ Born in Makkah in 570 CE, the Prophet received his first revelation in 610 CE in
 
 ## The first Islamic community
 
-On arriving in Madinah, the Prophet established the **Constitution of Madinah**, a document defining the rights and duties of Muslims, Jews and other groups living in the city, and establishing Madinah as a single community with the Prophet as its arbiter. To address the practical difficulties faced by Muslims who had migrated from Makkah with few resources, the **Muhajirun** (migrants) were paired with the **Ansar** (helpers, the Muslims of Madinah already established there), an arrangement that met immediate material needs and became a model of brotherhood within the early community. After the Prophet's death in 632 CE, Abu Bakr was chosen as the first Caliph at a meeting known as **Saqifah**, and almost immediately faced revolts across Arabia that threatened the community's survival — the **Ridda (apostasy) wars**, fought against false prophets such as Musaylimah and against tribes refusing to pay zakat. Abu Bakr's success in suppressing these revolts established that allegiance was owed to Islam and the Muslim state as a whole, not personally to the Prophet, which is why the community held together after his death rather than fragmenting; it also confirmed zakat as an obligation of faith rather than a voluntary tribute.
+This sub-topic is organised around the people of the first community, not only its events, though the syllabus does ask for the significant facts of their lives and the importance of their actions and experiences. The Prophet's **wives** (including Khadijah, his first wife and first believer, and Aisha) and his **descendants** — his children, his grandchildren, and the line recognised among Shia Muslims as the Imams — sit alongside his leading **Companions**: the **Ten Blessed Companions** given the promise of Paradise in their lifetimes, his **Scribes** who recorded revelation as it came, and the other major figures of his ministry. The **Emigrants (Muhajirun)**, who left Makkah for Madinah, and the **Helpers (Ansar)**, the Muslims of Madinah who received them, were formally paired on arrival — an arrangement that met the migrants' immediate material needs and became a model of brotherhood within the early community. The **four Rightly Guided Caliphs** — Abu Bakr, Umar, Uthman and Ali — are studied here for their lives and roles during the Prophet's own lifetime; their period of rule after his death is Paper 2 content.
+
+On arriving in Madinah, the Prophet established the **Constitution of Madinah**, a document defining the rights and duties of Muslims, Jews and other groups living in the city, and establishing Madinah as a single community with the Prophet as its arbiter — part of the wider account of his life and importance (1.3). Abu Bakr was chosen as the first Caliph, at a meeting known as **Saqifah**, immediately after the Prophet's death in 632 CE; his period of rule after that point — including the **Ridda (apostasy) wars** against false prophets such as Musaylimah and tribes refusing zakat — is Paper 2 content (2.3), not this topic. The one link back to Paper 1: the heavy losses among Qur'an memorisers at the Battle of Yamama, fought during those wars, is why Abu Bakr ordered the Qur'an's compilation, which belongs to 1.2 and is covered above.
 
 ## Official syllabus
 

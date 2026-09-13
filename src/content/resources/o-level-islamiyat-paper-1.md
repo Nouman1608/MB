@@ -7,30 +7,35 @@ topic: "Paper 1"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["2058"]
-syllabusSeries: "2024-2025"
+syllabusSeries: "2026-2027"
 order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-2058"
-description: "Cambridge O Level Islamiyat 2058 (2024-2025 series), Paper 1: the major themes of the Qur'an, its history and importance, the life of the Prophet Muhammad (pbuh), and the first Islamic community. Identical structure to Cambridge IGCSE Islamiyat 0493."
+description: "Cambridge O Level Islamiyat 2058 (2026-2027 series), Paper 1: the major themes of the Qur'an, its history and importance, the life of the Prophet Muhammad (pbuh), and the first Islamic community. Identical structure to Cambridge IGCSE Islamiyat 0493."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
 This guide covers **Paper 1**, one of two compulsory papers for
-Cambridge O Level Islamiyat 2058, 2024–2025 series. Confirmed
+Cambridge O Level Islamiyat 2058, 2026–2027 series. Confirmed
 independently against 2058's own syllabus PDF: it shares an
 identical Paper 1 / Paper 2 four-topic structure with Cambridge IGCSE
-Islamiyat 0493.
+Islamiyat 0493. (A version 2 syllabus for the 2028 series has since
+been published; this page follows the current 2026-2027 document.)
 
 ## Where this fits in 2058
 
 Paper 1 covers the Qur'an and the life of the Prophet Muhammad (pbuh),
 while Paper 2 (not covered in this guide) covers the Hadiths, the
 Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam.
-Together the two papers form the whole of 2058 — there is no separate
-topic list beyond these four sub-topics per paper.
+Together the two papers form the whole of 2058 — there is no numbered
+sub-topic list beyond these four per paper, but the syllabus also
+prescribes fifteen named passages from the Qur'an in an appendix, from
+which Question 1's choices are set, so revision should cover the
+appendix passages directly rather than relying on the sub-topic list
+alone.
 
 ## Syllabus coverage
 
@@ -42,8 +47,12 @@ running through the Qur'an
 revealed and compiled, and its significance
 - 1.3 The Life and Importance of the Prophet Muhammad (pbuh) — the key
 events of his life and their significance for Muslims
-- 1.4 The First Islamic Community — the early Muslim community in
-Makkah and Madinah, and its formative events
+- 1.4 The First Islamic Community — the Prophet's wives; his
+descendants, including his children, grandchildren and the line
+recognised among Shia Muslims as Imams; his leading Companions,
+including the Ten Blessed Companions, his Scribes and the major
+figures of his ministry; the Emigrants and the Helpers; and the four
+Rightly Guided Caliphs during his lifetime
 
 ## The paper's structure
 
@@ -66,10 +75,12 @@ and present)** makes up 68% of the qualification, covering the
 knowledge-based part of each question, while **AO2 (Understanding)**
 makes up the remaining 32%, rewarding candidates who go beyond
 description to explain significance and reasoning. The published mark
-scheme notes that the highest AO1 band is one that is "likely to quote
-Qur'an verses and Hadiths to support points made" — so an answer built
-on accurate facts alone, without any supporting textual reference, is
-capped below the top band even where nothing stated is actually wrong.
+scheme describes the highest AO1 band as one that is "likely to quote
+Qur'an verses and Hadiths to support points made" (or other relevant
+quotations), against "may" quote for the band below — so a top-band
+answer characteristically includes supporting reference, though this
+is a description of what such answers tend to do, not an absolute
+rule against fact-only answers.
 
 ## Key content across the four sub-topics
 
@@ -120,8 +131,8 @@ school rather than assuming it matches another qualification's.
 
 ## Official syllabus
 
-Cambridge O Level Islamiyat 2058 syllabus for 2024 and 2025 —
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/635787-2024-2025-syllabus.pdf).
+Cambridge O Level Islamiyat 2058 syllabus for 2026 and 2027, version 1 —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf).
 
 ## Related resources
 

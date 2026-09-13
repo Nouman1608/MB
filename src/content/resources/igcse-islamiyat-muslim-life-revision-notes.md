@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Islamiyat: Living the Muslim Life — Revision Notes"
+title: "OxfordAQA IGCSE Islamiat: Living the Muslim Life — Revision Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]
@@ -61,7 +61,7 @@ Performed in Dhul-Hijjah. Key rites: **Ihram** (state of purity and simple white
 
 **The white ihram garments carry the central meaning**: all pilgrims dress identically, so wealth and status are invisible and all stand equal before God. That symbolism is what "explain the significance of Hajj" answers should reach.
 
-Standing at **Arafat** is the essential rite, commemorating the Prophet's Farewell Sermon.
+Standing at **Arafat** is the essential rite: pilgrims spend the afternoon of the ninth of Dhul-Hijjah there in prayer and supplication. It is also the site of the Prophet's Farewell Sermon, delivered there — one significant association among others, not the whole of what the rite involves.
 
 ## Articles of faith
 
@@ -95,7 +95,7 @@ Daily conduct is shaped by **halal** (permitted) and **haram** (forbidden): diet
 - Describing a practice without explaining its significance.
 - Giving the pillars without saying why Shahadah is foundational.
 - Omitting Qur'anic or Hadith support where the question asks for it.
-- In evaluation questions, giving one viewpoint only — both sides and a judgement are required.
+- On the extended question, giving only one point of significance, or omitting direct reference to the given passage — the mark scheme caps answers with only one point of significance at the second level, and answers with no reference to the passage at the first level.
 - Omitting the nisab threshold when explaining who must pay Zakat.
 - Treating shirk as a minor matter rather than the gravest sin.
 - Confusing du'a (personal supplication) with the prescribed, fixed-form Salah.

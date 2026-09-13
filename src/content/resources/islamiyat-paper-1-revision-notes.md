@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-0493"
-description: "Condensed recall notes on the Qur\u2019an, the life of the Prophet and the first Islamic community for Cambridge IGCSE and O Level Islamiyat."
+description: "Condensed recall notes on the Qur\u2019an, the life of the Prophet and the first Islamic community for Cambridge IGCSE Islamiyat (0493)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -74,22 +74,16 @@ force prevailed), but preparation still matters (securing the wells,
 taking advice on position), and the humane treatment of prisoners set
 a standard for the conduct of war.
 
-## Abu Bakr's Caliphate and the Ridda wars
+## Yamama and the compilation of the Qur'an
 
-Abu Bakr was chosen at **Saqifah** and immediately faced revolts that
-threatened the community's survival. He sent the **expedition of
-Usama**, as the Prophet had ordered, despite advice to keep the army
-at home. He then **suppressed the Ridda (apostasy) wars** — false
-prophets such as Musaylimah, and tribes refusing to pay zakat — and
-restored the tribes to obedience. The heavy losses of Qur'an
-memorisers (*huffaz*) at the Battle of Yamama, fought during these
-wars, directly prompted him to order the Qur'an's collection.
-
-**Significance of the Ridda wars:** they established that allegiance
-was to Islam and the Muslim state, not personally to the Prophet, so
-the community survived his death; they preserved the unity of Arabia
-at the moment it might have fragmented; and they confirmed zakat as
-an obligation of faith rather than a voluntary tribute.
+Abu Bakr, chosen as the first Caliph at **Saqifah** immediately after
+the Prophet's death, faced revolts across Arabia known as the **Ridda
+(apostasy) wars** — but his rule, his policies and the wars themselves
+are Paper 2 content (2.3), not this paper. The one part of that story
+that belongs here: heavy losses among Qur'an memorisers (*huffaz*) at
+the **Battle of Yamama**, fought during those wars, directly prompted
+Abu Bakr to order the Qur'an's collection into a single written text —
+the event covered under "The Qur'an — key facts" above.
 
 ## Exam traps
 

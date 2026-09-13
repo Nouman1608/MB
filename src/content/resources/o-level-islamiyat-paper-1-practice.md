@@ -7,7 +7,7 @@ topic: "Paper 1"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["2058"]
-syllabusSeries: "2024-2025"
+syllabusSeries: "2026-2027"
 order: 1
 syllabusTopics:
   - qualification: "o-level"

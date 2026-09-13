@@ -32,10 +32,11 @@ faith and daily life.
 Both papers are 1.5 hours long with five questions each; candidates
 must answer Question 1 and Question 2, plus two more chosen from the
 remaining questions. Paper 2's four topics are examined this way
-too, and Cambridge specifies that either one or two questions will be
-set on each of Paper 2's first three topics, so candidates should be
-ready to answer in depth on any of them, not just their strongest
-one.
+too. Cambridge specifies that either one or two questions will be
+set on each of the last two topics (2.3 and 2.4); topic 2.2 carries a
+note that its question is usually set in more than one part and
+requires an essay-length answer. Candidates should be ready to answer
+in depth on any of the four topics, not just their strongest one.
 
 ## Syllabus coverage
 

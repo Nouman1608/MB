@@ -7,7 +7,7 @@ topic: "Paper 2"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["2058"]
-syllabusSeries: "2024-2025"
+syllabusSeries: "2026-2027"
 order: 2
 syllabusTopics:
   - qualification: "o-level"
@@ -87,23 +87,6 @@ preceded by ritual washing (wudu) [1] [1]. **Zakat** — obligatory almsgiving, 
 wealth given to those in need [1] [1]. **Sawm** — fasting during the month of Ramadan, from dawn to
 sunset [1] [1]. **Hajj** — pilgrimage to Makkah, obligatory once in a lifetime for those who are
 physically and financially able [1] [1].
-
----
-
-## Section C
-
-**7.** Explain why understanding the *significance* of an event or belief matters as much as being
-able to describe it, using **one** example from this paper's content. **[6]**
-
-**Answer:** Cambridge's own guidance for this paper stresses that candidates should understand not
-just what each belief, event or practice is, but **why it matters** — to individual Muslims, to the
-wider community, or to later Islamic history [1] [1]. For example, simply describing the compilation
-of the Qur'an under Uthman as a historical event (what happened, when, and who was involved) earns
-only partial credit [1] [1]; a full answer also explains its significance — that it preserved a
-single, uniform text and prevented the doctrinal division that competing versions would have caused
-[1] [1]. This distinction between description and significance applies across all four sub-topics of
-Paper 2, not just the historical ones — even a factual sub-topic like the Articles of Faith rewards an
-answer that explains why each article matters to a believer's life, not only what it states.
 
 ---
 

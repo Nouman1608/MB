@@ -1,5 +1,5 @@
 ---
-title: "OxfordAQA International GCSE Islamiyat: Living the Muslim Life (9237)"
+title: "OxfordAQA International GCSE Islamiat: Living the Muslim Life (9237)"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]
@@ -7,12 +7,12 @@ topic: "Paper 1 – Living the Muslim Life"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9237"]
-syllabusSeries: "Version 1.1"
+syllabusSeries: "2026-onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "paper-1-living-muslim-life-9237"
-description: "Islam: beliefs and teachings, and Islam: practices -- the full content of Paper 1 for OxfordAQA International GCSE Islamiyat (9237)."
+description: "Islam: beliefs and teachings, and Islam: practices -- an overview of Paper 1 for OxfordAQA International GCSE Islamiat (9237)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false

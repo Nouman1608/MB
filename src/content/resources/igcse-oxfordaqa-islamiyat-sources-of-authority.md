@@ -69,16 +69,16 @@ specification's passages-for-study section.
 
 ## How to approach it
 
-Treat the four sources — Qur'an, Hadith/Sunnah, Ijma, Qiyas — as a
-hierarchy rather than a flat list, since exam questions often ask
-candidates to explain why one source carries more authority than
-another. The Qur'an is the primary, directly revealed source; the
-Hadith and Sunnah record the Prophet's (pbuh) words and practice as a
-means of explaining and applying it; Ijma and Qiyas are secondary
-sources used by scholars to derive rulings where the Qur'an and Hadith
-do not give explicit guidance. Being able to place all four sources in
-this order, and explain why, answers a very common question type
-directly.
+The specification asks only for the meaning, role and importance of
+each source, and prescribes no fixed ranking among them — a common
+scholarly account treats the Qur'an as the primary, directly revealed
+source; the Hadith and Sunnah as recording the Prophet's (pbuh) words
+and practice to explain and apply it; and Ijma and Qiyas as secondary
+sources scholars use to derive rulings where the Qur'an and Hadith do
+not give explicit guidance. Present this as a helpful scholarly
+account of how the sources relate, not as the one ordering an
+examination answer must give — the specification does not penalise a
+different, reasoned account of their relationship.
 
 For 3.2.2.4, the Hadith categories (Sahih, Hasan, Daeef, Maudu) and the
 two-part reliability test (Isnad and Matn) are frequently tested

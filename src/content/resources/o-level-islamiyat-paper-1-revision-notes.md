@@ -7,7 +7,7 @@ topic: "Paper 1"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["2058"]
-syllabusSeries: "2024-2025"
+syllabusSeries: "2026-2027"
 order: 1
 syllabusTopics:
   - qualification: "o-level"
@@ -31,8 +31,7 @@ and two others** from Questions 3–5.
 |---|---|---|---|
 | 1 | 1.1 Major themes of the Qur'an | 8 | Three passages set; choose **any two** |
 | 2 | 1.2 History and importance of the Qur'an | 14 | Essay-length, usually multi-part |
-| 3 | 1.3 Life and importance of the Prophet (pbuh) | 14 | Essay-length, one or two questions set |
-| 4 | 1.4 The first Islamic community | 14 | Essay-length, one or two questions set |
+| 3–5 | 1.3 Life and importance of the Prophet (pbuh) and 1.4 The first Islamic community | 14 each | Essay-length; either one or two questions set on each of these two sub-topics across Questions 3–5, so the split is not fixed one-question-per-topic — answer any two of the three |
 
 Because Q1 and Q2 are compulsory, you cannot avoid a sub-topic you
 are weak on if it lands there — breadth across all four sub-topics
@@ -47,10 +46,12 @@ matters more than depth in only two or three.
   parts: max 3–4 marks, rewarding candidates who use their own
   reasoning to engage with the question, not just descriptive recall.
 
-**What separates the top band from the middle band:** the top AO1
-band is "likely to quote Qur'an verses and Hadiths to support points
-made" — a fact-only answer with no supporting reference caps out
-below the highest marks even if factually accurate.
+**What characterises the top band:** the top AO1 band descriptor says
+answers are "likely to quote Qur'an verses and Hadiths to support
+points made" (or other relevant quotations), while the band below says
+answers "may" quote — so a top-band answer characteristically quotes,
+though the descriptor does not make this an absolute rule, and other
+relevant quotations count too, not only Qur'an and Hadith.
 
 ## The Qur'an — key facts
 

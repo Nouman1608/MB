@@ -1,5 +1,5 @@
 ---
-title: "IGCSE Islamiyat: Living the Muslim Life — Practice Questions"
+title: "OxfordAQA IGCSE Islamiat: Living the Muslim Life — Practice Questions"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["igcse"]
@@ -70,7 +70,7 @@ Related: [Living the Muslim Life revision notes](/resources/igcse-islamiyat-musl
 Benefits, any three: it develops **self-discipline and control of desires**, since the fast is broken only by one's own choice and God alone knows whether it is kept [1] [1]. It creates **empathy with the poor and hungry**, encouraging generosity, which is why charity increases during Ramadan [1] [1]. It **strengthens community bonds**, as families and neighbourhoods break the fast together and attend taraweeh prayers [1] [1]. It offers a period of **spiritual renewal** — increased Qur'an recitation, repentance, and the seeking of Laylat al-Qadr [1] [1].
 
 **7.** **Fajr** (dawn), **Zuhr** (midday), **Asr** (afternoon), **Maghrib** (sunset), **Isha** (night) [1 for the set, in order].
-Conditions, any two: **wudu** — ritual washing of the body, expressing purity of body and intention, must be performed first [1] [1]; the worshipper must face the **Qiblah**, the direction of the Kaaba in Makkah [1] [1]; prayer must fall within its **prescribed time** [1].
+Conditions, any two: **wudu** — ritual washing of specified parts (face, hands and forearms, wiping the head, and the feet), expressing purity of body and intention, must be performed first [1] [1]; the worshipper must face the **Qiblah**, the direction of the Kaaba in Makkah [1] [1]; prayer must fall within its **prescribed time** [1].
 
 ---
 

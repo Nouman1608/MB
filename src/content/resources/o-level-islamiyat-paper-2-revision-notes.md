@@ -7,19 +7,19 @@ topic: "Paper 2"
 boards: ["cambridge"]
 qualifications: ["o-level"]
 syllabusCodes: ["2058"]
-syllabusSeries: "2024-2025"
+syllabusSeries: "2026-2027"
 order: 2
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-2-2058"
-description: "Condensed recall notes on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam -- Paper 2 of Cambridge O Level Islamiyat (2058), 2024-2025 series."
+description: "Condensed recall notes on the Hadiths, the Rightly Guided Caliphs, and the Articles of Faith and Pillars of Islam -- Paper 2 of Cambridge O Level Islamiyat (2058), 2026-2027 series."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 ---
 
 Condensed recall notes for **Paper 2** of Cambridge O Level Islamiyat
-(2058), 2024–2025 series — identical content structure to sibling
+(2058), 2026–2027 series — identical content structure to sibling
 Cambridge IGCSE Islamiyat (0493). Paper 2 is a 1.5-hour exam of five
 questions, of which candidates must answer Question 1, Question 2 and
 two others, covering the Hadiths of the Prophet, the Rightly Guided
@@ -83,7 +83,7 @@ notes are for fast recall in the final stretch of revision.
 - **God's predestination and decree** — meaning and significance
 - **Resurrection and the Last Day** — main events and significance
 
-**Jihad** — its three meanings: physical, mental and spiritual.
+**Jihad** — a range of meanings, illustrated by three: physical, mental and spiritual.
 
 **The Five Pillars of Islam:**
 
@@ -158,6 +158,7 @@ significance are the most common way marks are lost on this topic.
 ## Official syllabus
 
 Cambridge Assessment International Education, Cambridge O Level
-Islamiyat 2058 syllabus for examination in 2024 and 2025:
-https://www.cambridgeinternational.org/Images/635787-2024-2025-syllabus.pdf
-(verified 2026-09-02).
+Islamiyat 2058 syllabus for examination in 2026 and 2027, version 1:
+https://www.cambridgeinternational.org/Images/697279-2026-2027-syllabus.pdf
+(verified 2026-09-02; a version 2 syllabus for the 2028 series has
+since been published).

@@ -65,13 +65,16 @@ prophets**, their character and function [1]; **belief in God's predestination a
 [1]; **belief in the Resurrection and the Last Day** [1].
 
 **3.** Abu Bakr was chosen at **Saqifah** immediately after the Prophet's death, at a moment of crisis
-for the young Muslim community [1]. He **despatched the expedition of Usama** as the Prophet had
+for the young Muslim community [1] [1]. He **despatched the expedition of Usama** as the Prophet had
 already ordered, despite advice to keep the army at home for the community's defence — showing his
 determination to fulfil the Prophet's own instructions exactly [1] [1]. He **suppressed the false
 prophets**, including Musaylimah at the Battle of Yamama, and **compelled the tribes who had refused
 zakat to return to obedience** during the Ridda (apostasy) wars [1] [1]. He **initiated the collection
 of the Qur'an** into a single written text after a significant number of huffaz (those who had
-memorised the Qur'an) were killed at Yamama, entrusting the work to Zayd ibn Thabit [1] [1].
+memorised the Qur'an) were killed at Yamama, entrusting the work to Zayd ibn Thabit [1] [1]. He also
+**consolidated the young state's administration**, maintaining the systems of zakat collection the
+Prophet had established and holding the community together as a single political body at its most
+fragile moment [1] [1].
 
 **4.** Umar's rule saw the **rapid expansion of the Muslim state** through the conquests of large
 parts of the Byzantine and Sasanian empires, including Syria, Egypt, Iraq and Persia [1] [1]. He is
