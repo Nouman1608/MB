@@ -6,7 +6,9 @@ specification read end to end, or against the audit's own records. Nothing here 
 from a finding's summary.*
 
 *Updated 2026-09-15 with the coordinate pass on Cambridge 0620 (§6) — which closes the
-column defect for that syllabus and confirms no live inversion exists in the corpus.*
+column defect for that syllabus and confirms no live inversion exists in the corpus — and
+with the read-through audits of the terminology (§5) and over-deletion (§2) correction
+groups, both of which came back clear.*
 
 ---
 
@@ -71,6 +73,37 @@ Verified instances:
 
 **Check:** does the specification require this material anywhere, in any form, at any tier?
 
+### The remove-X corrections were then audited, and they are well built
+
+All 24 corrections flagged for over-deletion were read individually. Ten are the
+section-structure family, where the six unsafe corrections of §7 live. **Of the other
+fourteen, the six with the classic "remove off-syllabus content" shape are all well
+constructed, and none is the bare deletion that caused the damage above:**
+
+- **E64** offers *"or move it to the A Level resource under an explicit A Level label"* —
+  relocation rather than loss.
+- **E79** offers *"or retain it explicitly labelled as background carrying no marks"* **and**
+  redirects the four freed marks to a named outcome the paper never tests. The
+  best-constructed correction in this audit.
+- **E268** offers *"or mark them as extension material"*.
+- **E378** offers *"or label it explicitly as content for the successor syllabus"* — and says
+  *why* the material is there, so a corrector knows it will be needed from 2027.
+- **E392** and **E611** each specify the **retariff that deletion requires**, rather than
+  leaving a question short of its own mark total.
+
+**The conclusion that matters: the over-deletion damage came from one family only.** The
+section-structure corrections were unsafe; the subject-content deletion corrections are
+consistently well-scoped. Do not treat "remove X" as a warning sign in general.
+
+**But one caveat, and it is not small.** These corrections were assessed against the
+findings' own text, **not against the specifications**. A well-built correction can still
+rest on a wrong absence claim. Several of these rest on absence claims against Cambridge
+9701 — the 98-page syllabus where silent truncation was *proven*, at pages 50–53. E79's
+claim that ozone and CFCs "return no matches anywhere" in 9701 is exactly the shape that a
+truncated read produces. **Those absence claims are unverified and sit in the task-42
+backlog.** The correction is safe to apply *if* the finding is right; the finding has not
+been re-established.
+
 ---
 
 ## 3. Corrections that say "add X"
@@ -114,6 +147,10 @@ different answers, the correction may still be safe — see the case above.
 
 **Check:** does the source itself enumerate this, or is the enumeration the finding's?
 
+**Not yet audited.** The 45 corrections flagged in this group are the one remaining unread
+set. Expect the number to shrink on reading, as every other group has — and expect this one
+to need source documents rather than the findings' own text.
+
 ---
 
 ## 5. Corrections that set a term, a name or a figure
@@ -133,6 +170,29 @@ different answers, the correction may still be safe — see the case above.
   example is off-specification. (Q343)
 
 **Check:** does the source use this exact term, and does it publish exactly one figure?
+
+### The terminology corrections were audited too, and are clear
+
+All 15 corrections flagged for importing a term were read individually. **None is a hazard.**
+Almost all name a replacement term the finding's own observation has already sourced from the
+board — *"rename the paper to the board's own title"*, *"retitle after the compound it
+actually makes"*, *"retitle for the qualification it actually serves"*. Several were not about
+terminology at all; the screen fired on the words *restate as* in corrections about a mark
+tariff and an economics worked example.
+
+Two worth knowing about:
+
+- **E614 is the model.** It establishes that *neither* the AS/A Level syllabus *nor* either
+  current IGCSE syllabus of that board uses "day books", that all three use "journal", names
+  the four replacements, **and pre-empts the misreading** — noting the term is standard
+  elsewhere in the UK, "so this is not an import from the board's own IGCSE material as a
+  first reading might suggest." That is what a scoped correction looks like.
+- **E790** renames a section *"question-stem guidance"*, which is the audit's own coinage
+  rather than a board term. Harmless as a heading in a Marlbridge resource, but do not
+  present it as the board's.
+
+One small defect of a different kind: **E892's "rename the heading" does not say what to.**
+Under-specified rather than unsafe.
 
 ---
 
@@ -193,9 +253,10 @@ defect this audit identified was real in the extraction method and had no instan
 corpus.** U65, Q337 and Q357 should be closed as *verified, no corpus change required* —
 which is a different thing from a finding that identified a live defect.
 
-**Still unchecked:** other two-column Cambridge syllabuses — Physics 0625/5054, Biology
-0610/5090. That is unstarted work, not a case where the column rule proved unstable. Cambridge
-5070 is untiered and single-column, so the defect cannot apply to it structurally.
+**Still unchecked, and confirmed to have no subject:** no open finding asserts a
+Core/Supplement/Extended tier on Physics 0625, Biology 0610 or 5090 — every mention of those
+codes in the findings record is a source citation, never a tier claim. Cambridge 5070 and
+5054 are untiered and single-column, so the defect cannot apply to them structurally.
 
 ---
 
@@ -242,6 +303,11 @@ Where a correction reads "do X, **or** do Y", Y has usually not been checked ind
   content. The only clean first-year reframing avoids both terms. (Q344)
 - The six "or drop the section labels" corrections in §7 are the same pattern.
 
+**But the pattern is not general.** The read-through of §2 found the opposite: in the
+subject-content deletion corrections, the alternative is usually the *safer* of the two
+options — relabel rather than delete, relocate rather than lose. Judge the alternative, do
+not assume it is an afterthought.
+
 **Check:** is the alternative independently sound, or is it the first option restated?
 
 ---
@@ -272,18 +338,20 @@ Where a correction reads "do X, **or** do Y", Y has usually not been checked ind
 
 ## 10. What this document does not cover
 
-**The signature screens are a reading list, not a measurement.** Five groups have been
-published with sizes that were wrong every time — 89 became 301 through a regex bug, 86
-became 68 then ~51, nine became six then one. Four screening defects were found, all by
-inspecting flagged items and none by the screens themselves.
+**The signature screens are a reading list, not a measurement.** Every group published with a
+size has had that size turn out wrong — 89 became 301 through a regex bug, 86 became 68 then
+~51, nine became six then one. Four screening defects were found, all by inspecting flagged
+items and none by the screens themselves.
 
 The cause is structural: **this corpus's domain vocabulary is the screen's vocabulary.**
 "Extended" matches *extended response*. "Core" matches *the argon core*, *the ferrous core in
 a solenoid*, *core content*, *a core programme requirement*. No amount of regex tuning fixes
 that.
 
-So: **the 234 flagged corrections in the reconciled triage are unverified.** Treat any count
-from that file as a place to start reading, never as a quantity.
+Three groups have now been read through — section structure (27), terminology (15) and
+over-deletion (24). **Between them they produced six unsafe corrections, all in the
+section-structure family.** One group remains unread: the 45 flagged for handing over a count
+or a closed list (§4).
 
-The constraints in this document are different — each was verified individually, and each
-names the specification or record it rests on.
+The constraints in this document are different from the counts — each was verified
+individually, and each names the specification or record it rests on.
