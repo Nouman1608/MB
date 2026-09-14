@@ -27,9 +27,13 @@ Related: [Operations, Finance and Influences on Business study guide](/resources
 
 ---
 
+## Section A
+
 **1.** Name the three main production processes and give one product example for each. **[3]**
 
 **2.** State **two** sources of finance suitable for a newly established small business. **[2]**
+
+## Section B
 
 **3.** Distinguish between quality control and quality assurance, explaining why a business might prefer one approach over the other. **[4]**
 
