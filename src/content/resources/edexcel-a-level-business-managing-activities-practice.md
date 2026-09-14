@@ -31,13 +31,13 @@ This specification publishes a fixed mark tariff for each of its eight command w
 
 ---
 
-## Part One — Short-answer and calculation questions
+## Section A
 
 **1.** Define the term "internal source of finance", using one example. **[2]**
 
 **2.** Calculate the break-even point and the margin of safety for a business with fixed costs of $60,000, a selling price of $30 per unit and a variable cost of $18 per unit, given that it sells 6,000 units. **[4]**
 
-## Part Two — Structured and extended-writing questions
+## Section B
 
 **3.** Construct a cash-flow forecast for a business's first three months, starting from an opening balance of $2,000, given cash inflows of $10,000, $12,000 and $15,000 and cash outflows of $9,000, $11,000 and $13,000, showing the closing balance for each month. **[4]**
 
@@ -54,6 +54,8 @@ This specification publishes a fixed mark tariff for each of its eight command w
 **9.** Discuss whether break-even analysis is a reliable tool for a new business deciding whether to launch a product. **[8]**
 
 **10.** Assess the most suitable source of finance for a small, family-owned business that wants to raise $20,000 to buy new equipment without giving up any control or ownership. **[10]**
+
+## Section C
 
 **11.** Evaluate the extent to which effective resource management -- production methods, capacity utilisation, inventory control and quality management -- determines a manufacturing business's ability to compete on cost and quality. **[20]**
 
