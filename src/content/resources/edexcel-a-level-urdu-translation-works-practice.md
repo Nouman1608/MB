@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-2-translation-works-9ur0"
-description: "Original practice questions with full worked answers covering Section A translation-into-Urdu mechanics and Section B/C works-response structure, for Pearson Edexcel A-Level Urdu (9UR0) Paper 2."
+description: "Original practice questions with full worked answers covering a full Section A translation-into-Urdu exercise and its mechanics, plus Section B/C works-response structure, for Pearson Edexcel A-Level Urdu (9UR0) Paper 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -28,7 +28,15 @@ featured: false
 Related: [Paper 2 study guide](/resources/a-level-edexcel-urdu-translation-and-works/) and
 [revision notes](/resources/edexcel-a-level-urdu-translation-works-revision-notes/).
 
-## Section A -- Paper structure and rules
+## Section A -- Translation into Urdu
+
+**1a.** Translate into Urdu:
+
+> Over the past twenty years, the number of students studying abroad has risen sharply. Many return with new skills, but some never come back, and their country loses the talent it invested in.
+
+**[20]**
+
+## Section A (continued) -- Paper structure and rules
 
 **1.** State the total marks and time allocation for Paper 2. **[2]**
 
@@ -61,6 +69,21 @@ Related: [Paper 2 study guide](/resources/a-level-edexcel-urdu-translation-and-w
 **(b)** Recommend a better time allocation across the three sections, with reasoning. **[3]**
 
 ## Worked answers
+
+**1a.** Model translation:
+
+> پچھلے بیس برسوں میں بیرونِ ملک تعلیم حاصل کرنے والے طلبہ کی تعداد میں تیزی سے اضافہ ہوا ہے۔ بہت سے طلبہ نئی مہارتیں لے کر واپس آتے ہیں، لیکن کچھ کبھی واپس نہیں لوٹتے، اور اُن کا ملک اُس صلاحیت سے محروم ہو جاتا ہے جس پر اُس نے سرمایہ لگایا تھا۔
+
+**Marking (points-based — one mark per correct individual section of language, no chunk worth
+more than one):** over the past twenty years = پچھلے بیس برسوں میں [1]; the number of = تعداد میں
+[1]; students studying abroad = بیرونِ ملک تعلیم حاصل کرنے والے طلبہ [1]; has risen = اضافہ ہوا ہے
+[1]; sharply = تیزی سے [1]; many return = بہت سے طلبہ ... واپس آتے ہیں [1]; with new skills = نئی
+مہارتیں لے کر [1]; but = لیکن [1]; some never come back = کچھ کبھی واپس نہیں لوٹتے [1]; and = اور
+[1]; their country = اُن کا ملک [1]; loses = محروم ہو جاتا ہے [1]; the talent = صلاحیت [1]; it
+invested in, rendered as a relative clause = جس پر ... سرمایہ لگایا تھا [1]; correct perfect-tense
+formation throughout [1]; correct habitual-tense formation throughout [1]; gender agreement
+(طلبہ/ملک/صلاحیت) [1]; verb agreement throughout [1]; correct ergative نے with the perfective
+transitive سرمایہ لگایا [1]; overall coherent, natural Urdu register [1].
 
 **1.** 110 marks total, over 2 hours 40 minutes. **[2]**
 

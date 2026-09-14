@@ -57,6 +57,10 @@ Section A presents a listening passage about a community event, followed by a qu
 
 Because Section B combines listening or reading with writing, a practice routine that only ever writes in response to a text the candidate has read calmly and repeatedly (rather than a single listening pass, or a reading passage under realistic time pressure) does not build the actual skill Section B tests. A more realistic practice routine plays or presents the source material once (or with the number of repeats the real exam allows), requires notes to be taken during or immediately after that single exposure, and then requires a written response built from those notes alone, without returning to re-read or re-listen to the original source freely. Practising under this constraint, even occasionally, surfaces gaps in note-taking technique that untimed, repeat-access practice will not reveal.
 
+## Summarising the two sources (Section B)
+
+Section B requires you to summarise the different points of view in a listening source and a written text on the same sub-theme, then evaluate both sets of viewpoints and draw conclusions. Identify each source's main points and **exclude examples and repetition** — write in continuous prose, in your own words, within the word limit (approximately 220–270 words for the final evaluative response). Content and language are marked separately, so a summary that captures every point can still lose language marks by copying phrasing directly from the source rather than paraphrasing.
+
 ## Exam traps
 
 - Assuming translation strength (from Papers 1/2 practice) transfers directly to Paper 3's listening demands.

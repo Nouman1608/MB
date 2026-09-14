@@ -94,7 +94,7 @@ Watch for questions asking *why* rather than *what* — these require inference,
 
 ## Writing
 
-Tasks typically include a directed piece (letter, email, report, article, speech) and a longer composition (narrative, descriptive or discursive).
+Exercise 5's functional writing and Exercise 6's extended writing are both **prompt-driven, not title-choice** — each sets a specified purpose, format and audience (such as an email or an article) rather than offering a choice between narrative, descriptive or discursive titles.
 
 **Register** is heavily credited. A formal letter requires formal address and vocabulary; an informal message to a friend requires the opposite. Using the wrong level of formality costs marks even when the grammar is perfect.
 

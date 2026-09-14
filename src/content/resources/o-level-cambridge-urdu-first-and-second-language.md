@@ -100,7 +100,7 @@ Distinguish question types. *What* asks for located detail. *Why* asks for infer
 
 ## Writing
 
-Directed writing covers letters, speeches, reports, articles and dialogues; composition covers narrative, descriptive and discursive pieces.
+Directed writing covers letters, speeches, reports, articles and dialogues; 3247's Part 2 composition offers a choice of title from **argumentative, discursive, descriptive and narrative** types, each drawn from a different topic or sub-topic.
 
 **Register** is heavily credited and often mishandled. A formal letter needs formal address forms and vocabulary; a message to a friend needs the opposite. Getting this wrong costs marks even where the grammar is faultless.
 

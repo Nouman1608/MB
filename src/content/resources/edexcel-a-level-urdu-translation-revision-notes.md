@@ -60,10 +60,12 @@ Check every version against three questions: is every element present, does it r
 | Tense | Marker |
 |---|---|
 | Present | *-ta/-ti/-te* + *hai/hain* |
-| Past | *-a/-i/-e* + *tha/thi/the* |
+| Simple past (perfective) | *-a/-i/-e*, bare — e.g. *paṛhaa*, "read" |
+| Pluperfect | *-a/-i/-e* + *tha/thi/the* |
+| Perfect | *-a/-i/-e* + *hai/hain* — e.g. *paṛhaa hai*, "has read" |
 | Future | *-ga/-gi/-ge* |
 | Continuous | *rahaa/rahi/rahe* + auxiliary |
-| Perfect | *chukaa/chuki/chuke* |
+| Completive | *chukaa/chuki/chuke* — "have already finished doing" |
 
 **Two further accuracy points in extended writing:** the ergative marker **نے** (*ne*) is required with transitive verbs in the perfective aspect (e.g. *us ne kitaab paṛhi*, "he/she read the book"), and **izafat** constructions (e.g. *jashn-e-azaadi*) belong to a more formal, Persianised register — using them correctly signals command of range, but forcing them where plain Urdu is expected reads as unnatural.
 
@@ -78,9 +80,9 @@ Check every version against three questions: is every element present, does it r
 - For inference questions, quote or paraphrase the supporting evidence rather than asserting.
 - Do not lift long stretches verbatim where the question asks for explanation in your own words.
 
-## Summary tasks
+## Section C — the research question (40 of Paper 1's 80 marks)
 
-Identify the main points and **exclude examples and repetition**. Write in continuous prose, in your own words, within the word limit. Content marks and language marks are separate, so a summary can contain every point and still lose the language marks by copying phrasing.
+Before the exam, choose **one research subject** from one of the four themes and study **all three aspects of it**, basing your research on **one country/area only** — Pakistan for Themes 1, 3 and 4; Pakistan or one area of India where Urdu is an official language for Theme 2. In the exam you read one unseen Urdu text on the subject and answer a question in Urdu (approximately 320–370 words), using both your research findings and the unseen text. Marks split across three grids: knowledge and understanding of society and culture via research (AO4, 20 marks), understanding of and response to the unseen text (AO2, 10 marks), and accuracy and range of language (AO3, 10 marks). Referring to more than one country/area wastes time for no credit — examiners mark only the single country/area the response is meant to cover.
 
 ## Common errors
 
@@ -99,10 +101,10 @@ Identify the main points and **exclude examples and repetition**. Write in conti
 2. What is the final check after translating into English?
 3. Why does a gender error cost more than one mark?
 4. Name the three levels of formality in Urdu address.
-5. What must a summary exclude?
+5. How many country/areas must a Section C response be based on, and what happens if a candidate refers to more than one?
 6. Why is "He lost his temper" too free a translation of a sentence that literally reads "On him anger came"?
 7. What is the ergative marker used with transitive perfective verbs, and give an example.
 
 Related: [Translation and Reading practice questions](/resources/edexcel-a-level-urdu-translation-practice/) for full translation exercises with model answers.
 
-**Answers:** 1. Urdu is Subject–Object–Verb with postpositions; English is Subject–Verb–Object with prepositions. 2. Read the English on its own — if it does not sound natural, the translation is too literal. 3. Adjectives and verb endings must agree with the noun's gender, so one error causes further errors through the sentence. 4. *Aap* (formal), *tum* (familiar) and *tu* (intimate). 5. Examples, repetition and direct quotation — only the main points, in your own words. 6. It captures the meaning but loses the more neutral, measured register of the original, so a balanced version such as "He became angry" is preferred. 7. نے (*ne*), used with transitive verbs in the perfective aspect, e.g. *us ne kitaab paṛhi* ("he/she read the book").
+**Answers:** 1. Urdu is Subject–Object–Verb with postpositions; English is Subject–Verb–Object with prepositions. 2. Read the English on its own — if it does not sound natural, the translation is too literal. 3. Adjectives and verb endings must agree with the noun's gender, so one error causes further errors through the sentence. 4. *Aap* (formal), *tum* (familiar) and *tu* (intimate). 5. One only — Pakistan, or for Theme 2 one area of India where Urdu is an official language; referring to more than one wastes time, since examiners only credit content on the single country/area the response covers. 6. It captures the meaning but loses the more neutral, measured register of the original, so a balanced version such as "He became angry" is preferred. 7. نے (*ne*), used with transitive verbs in the perfective aspect, e.g. *us ne kitaab paṛhi* ("he/she read the book").

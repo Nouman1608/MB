@@ -62,10 +62,30 @@ In total, every candidate produces **two** extended responses to works:
 either two literary-text essays (completing Section B twice and
 skipping Section C), or one literary-text essay plus one film essay.
 The prescribed list, set by Pearson Edexcel, currently comprises three
-literary texts -- including a well-known essay collection by the Urdu
-humorist Ahmad Shah Bukhari ("Patras"), alongside a novel and a play --
-and three films. Candidates study either **one literary text and one
-film**, or **two literary texts**.
+literary texts and three films, named exactly as the specification
+gives them, with no director or producer role attached to any title:
+
+**Literary texts**
+
+- *Aangan* (آنگن), novel, Khadija Mastur, 1999
+- *Patras Ke Mazameen* (پطرس کے مضامین), essays, Ahmad Shah Patras
+  Bukhari, 2011 -- five essays are prescribed from the collection, not
+  the whole book: "Savere Jo Kal Aankh Meri Khuli", "Urdu Ki Aakhri
+  Kitab", "Murid Pur Ka Peer", "Marhoom Ki Yaad Mein" and "Lahore Ka
+  Jughrafia"
+- *Bisaat* (بساط), play, Baseer Kazmi, 1987
+
+**Films**
+
+- *Bin Roye* (بن روئے), 2015, Momina Duraid
+- *Baaghban* (باغبان), 2003, Ravi Chopra
+- *Bajrangi Bhaijaan* (بجرنگی بھائی جان), 2015, Kabir Khan
+
+The specification gives each film only as a name and year, with no role
+label -- Momina Duraid, for example, produced *Bin Roye* rather than
+directing it, so a name should not be read or written in as "director"
+on the strength of this list alone. Candidates study either **one
+literary text and one film**, or **two literary texts**.
 
 Sections B and C are each marked against three levels-based criteria:
 critical and analytical response to the work (AO4), range of
@@ -113,9 +133,10 @@ the two objectives as separate paragraphs bolted together.
 
 ## Common mistakes
 
-Attempting three extended responses (or a literary-text response and a
-film response when the specification only requires two works in total)
-instead of the correct combination of two. Treating verb and adjective
+Attempting three extended responses, or answering on two films, instead
+of one of the two combinations the specification actually allows: two
+literary-text essays, or one literary-text essay plus one film essay.
+Treating verb and adjective
 endings as ordinary spelling in the Section A translation, when the
 mark scheme explicitly excludes them from that tolerance. Writing about
 a prescribed work's plot in isolation without connecting it to the
