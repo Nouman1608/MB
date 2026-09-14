@@ -5,6 +5,9 @@ audit (rounds one to five). Every constraint below was verified against an offic
 specification read end to end, or against the audit's own records. Nothing here is inferred
 from a finding's summary.*
 
+*Updated 2026-09-15 with the coordinate pass on Cambridge 0620 (§6) — which closes the
+column defect for that syllabus and confirms no live inversion exists in the corpus.*
+
 ---
 
 ## Why this exists
@@ -78,10 +81,11 @@ the addition puts unassessed material in front of a candidate.
 - **The IB efficiency-ratio sub-topic is higher level only.** Adding stock turnover, debtor
   days and creditor days to a standard-level resource pushes HL content into SL. The
   finding's correction does not say so. (Q345)
-- **The one verified safe case:** an outcome on the aluminium oxide layer is *Supplement in
-  0620 and required in 5070*. Because it is required of every 5070 candidate, adding the
-  paragraph is right for that code whatever the column check says about 0620. Only the tier
-  **label** is uncertain. (Q357)
+- **The one verified safe case, now fully settled:** an outcome on the aluminium oxide layer
+  is *Supplement in 0620 and required in 5070*. Because it is required of every 5070
+  candidate, adding the paragraph was right for that code whatever the column check said
+  about 0620. The 0620 tier is now **coordinate-confirmed Supplement** (9.4, item 5,
+  y=224.9). Nothing outstanding. (Q357, and §6 below)
 
 **Check:** which tier is X, and which tier is the file? If the finding names two codes with
 different answers, the correction may still be safe — see the case above.
@@ -144,15 +148,54 @@ Consequences:
 
 - It is **independent of document length**. No syllabus is safe by being short.
 - Any tier in an audit finding derived by reading order may be **backwards**.
-- One electrolysis attribution is likely inverted: the lower tier names molten lead bromide,
-  concentrated aqueous sodium chloride and dilute sulfuric acid; **aqueous copper sulfate is
-  higher tier.** (Q337)
-- The same sub-topic requires inert electrodes of platinum or carbon at both tiers, with the
-  copper-electrode case added at the higher tier. A correction must not flatten the two.
+- Both tiers of the 0620 electrolysis sub-topic require inert electrodes of platinum or
+  carbon, with the copper-electrode case added at Supplement. A correction must not flatten
+  the two. (Q337)
 
 **Check:** resolve tier by the **horizontal position of the text block against the column
 rule**, and record the coordinate — not the reading order. This requires a layout-aware
 extraction, not linear text.
+
+### Resolved for Cambridge 0620 — no live inversion exists
+
+A coordinate pass was run against 0620 (2026–2028, v2) and pushed as
+`docs/audit/2026-09-15-tier-resolution-response.md`, commit `87b8c41`. Method: pdf.js
+injected into a browser tab at the PDF's own origin, so the bytes could be fetched
+same-origin and parsed for per-run transform matrices — genuine coordinates, not reading
+order. **The column rule held stable across pages 13–39, the full extent of the two-column
+subject-content section, with no exceptions:**
+
+| | header x | item-number x | body-text x | sub-item x |
+|---|---|---|---|---|
+| Core | 62.4 | 62.4 | 79.4 | 96.4 |
+| Supplement | 309 | 309 | 326 | 343 |
+
+All three named cases were confirmed rather than overturned:
+
+- **2.7 metallic bonding** — the Core header exists at y=719.9 with **no body item beneath
+  it**. The column is genuinely empty. Both outcomes are Supplement, so **Core candidates
+  are not examined on 2.7 at all.** This is the U65 case, confirmed.
+- **2.4 ionic bonds** — Core item 3 and Supplement item 6 sit at an *identical* y=646.4 in
+  opposite columns. Two distinct outcomes on one printed row, which is the geometry that
+  collapses under linear reading.
+- **4.1 electrolysis** — **Q337's suspicion was wrong, and that is the good outcome.** Copper
+  sulfate genuinely is Supplement; lead bromide, concentrated NaCl and dilute H₂SO₄ genuinely
+  are Core. Not inverted.
+
+**Cross-checked against the four live resources covering this content: all four already match
+the coordinate-derived tiers exactly.** One states outright that "the Core column for 2.7 is
+empty, so metallic bonding is not required for IGCSE Core candidates at all."
+
+Git history explains why: commit `d2a76b3` (2026-08-17) resolved the 2.7 ambiguity by visual
+inspection **a month before U65 was raised**, and the surrounding content was authored from
+per-outcome text extracted directly from the PDF rather than a naive linear pass. **The
+defect this audit identified was real in the extraction method and had no instance in the
+corpus.** U65, Q337 and Q357 should be closed as *verified, no corpus change required* —
+which is a different thing from a finding that identified a live defect.
+
+**Still unchecked:** other two-column Cambridge syllabuses — Physics 0625/5054, Biology
+0610/5090. That is unstarted work, not a case where the column rule proved unstable. Cambridge
+5070 is untiered and single-column, so the defect cannot apply to it structurally.
 
 ---
 
@@ -215,6 +258,9 @@ Where a correction reads "do X, **or** do Y", Y has usually not been checked ind
   string search. A silently truncated extraction returns nothing and looks identical to a
   genuine absence.
 - **A command-word table introduced with "includes" is not exhaustive.**
+- **Coordinates beat reading order, and a browser can supply them.** Where a shell is
+  unavailable, pdf.js injected into a tab at the PDF's own origin returns per-run transform
+  matrices — the same-origin fetch avoids the CORS failure a cross-origin one hits. (§6)
 - **Record the commit of any snapshot before using it as evidence.** A local directory named
   `repository-live` was three days stale and produced a finding that called two
   already-repaired files damaged. It was a git checkout with a readable HEAD the whole time.
