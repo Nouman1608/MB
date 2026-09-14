@@ -12,14 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-eassessment-structure"
-description: "Task-by-task exam preparation for IB Middle Years Programme Language Acquisition's two eAssessment components -- the on-screen listening/reading/writing paper and the separately assessed speaking examination -- with a proficiency-phase checklist."
+description: "Task-by-task exam preparation for IB Middle Years Programme Language Acquisition's two eAssessment components -- the on-screen listening/reading/writing paper and the separately assessed speaking examination -- with a proficiency-band checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 ---
 
 The [full syllabus guide](/resources/ib-myp-language-acquisition-syllabus-guide/) sets out the four
-criteria and the emergent/capable/proficient proficiency phases this subject is assessed against.
+criteria and the emergent/capable/proficient proficiency bands eAssessment results are reported
+against (day-to-day teaching instead uses a separate, finer six-phase continuum -- see below).
 These notes focus specifically on preparing for the two separately assessed eAssessment components,
 alongside the [subject overview](/resources/ib-myp-language-acquisition-subject-guide/) and
 [assessment revision notes](/resources/ib-myp-language-acquisition-assessment-revision-notes/) already
@@ -32,12 +33,18 @@ texts (criterion A), reading written multimodal texts (criterion B), and writing
 multimodal texts (criterion D) -- each worth 32 marks. Because all three are assessed together,
 exam-preparation time should be distributed across all three skills rather than concentrated on
 whichever feels most comfortable. A practical preparation routine: for listening, practise with
-authentic or course-level audio at your assessed proficiency phase and note down key information while
+authentic or course-level audio at your assessed proficiency band and note down key information while
 listening rather than only afterwards; for reading, practise skimming a multimodal text (one combining
 written and visual/spatial elements) for overall meaning before rereading for detail; for writing,
 practise producing short pieces in different registers (formal, informal, social, academic) to
 different audiences, since criterion D specifically rewards recognising which register a task
 actually calls for.
+
+On duration: IB's published guidance for MYP on-screen examinations generally puts sessions somewhere
+between 1 hour 45 minutes and 2 hours, but the IB does not appear to publish an exact, subject-specific
+figure for Language Acquisition's on-screen paper separately from that general range, as far as public
+sources go -- confirm the precise session length for your sitting with your school's exams office
+rather than assuming a single fixed number.
 
 ## Component 2: the speaking examination
 
@@ -71,19 +78,19 @@ matters for exam preparation specifically because the practice material and past
 questions you use should be pitched at your assessed **band**, not at your more precise classroom
 phase, which can sit anywhere within that band.
 
-## Confirming your proficiency phase before you prepare
+## Confirming your proficiency band before you prepare
 
-Because MYP language acquisition courses are assessed at one of three proficiency phases -- emergent,
-capable or proficient -- rather than by year group alone, confirm with your teacher which phase your
+Because MYP eAssessment results are reported at one of three proficiency bands -- emergent,
+capable or proficient -- rather than by year group alone, confirm with your teacher which band your
 own assessment targets before beginning focused exam preparation. Practising with material pitched at
-the wrong phase either underprepares you (if you practise below your actual phase) or wastes revision
+the wrong band either underprepares you (if you practise below your actual band) or wastes revision
 time on unrealistic expectations (if you practise above it). This is the single most common
-preparation mistake in this subject, because year group and proficiency phase do not always align
+preparation mistake in this subject, because year group and proficiency band do not always align
 one-to-one.
 
 ## Preparation checklist
 
-- Confirm your assessed proficiency phase (emergent, capable or proficient) with your teacher before
+- Confirm your assessed proficiency band (emergent, capable or proficient) with your teacher before
   selecting practice material.
 - Practise listening and reading with multimodal texts (not audio- or text-only), since both criteria
   explicitly include interpreting spatial and visual elements alongside spoken or written content.
@@ -100,7 +107,7 @@ one-to-one.
    assessed separately?
 2. Why is rehearsing only a fixed set of prepared answers a weaker speaking-preparation strategy than
    practising spontaneous interaction?
-3. What could go wrong if you prepare using material pitched at the wrong proficiency phase?
+3. What could go wrong if you prepare using material pitched at the wrong proficiency band?
 4. Name one practical preparation habit specific to the writing component (criterion D).
 5. Why can't strong written performance substitute for speaking preparation, or vice versa?
 
@@ -108,7 +115,7 @@ one-to-one.
 examination; speaking (C) is assessed separately as an internally assessed, IB-moderated task.
 2. Because the speaking examination is genuinely interactive, and an unexpected follow-up question can
 expose a student who has only rehearsed a fixed script, whereas practising spontaneous interaction
-builds the flexibility the actual task requires. 3. Practising below your actual proficiency phase
+builds the flexibility the actual task requires. 3. Practising below your actual proficiency band
 leaves you underprepared for the real assessment's complexity; practising above it wastes revision
 time on unrealistic expectations you are not yet being assessed against. 4. Practising short pieces in
 different registers (formal, informal, social, academic) so you can recognise and produce the register
@@ -121,4 +128,4 @@ genuinely separate quarter of the total assessment.
 International Baccalaureate Organization, *Middle Years Programme Subject Brief -- Language
 Acquisition*, from 2020, (c) 2020 -- the same source already cited by the
 [full syllabus guide](/resources/ib-myp-language-acquisition-syllabus-guide/), which first described
-the two-component eAssessment structure and the proficiency-phase system from it.
+the two-component eAssessment structure and the six-phase/three-band system from it.

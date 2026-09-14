@@ -12,14 +12,14 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-language-and-literature-readers-writers-and-texts"
-description: "How a writer's choices of language, form and structure shape meaning across literary and non-literary texts, and how a reader actively constructs interpretation -- one of three equally-weighted syllabus components of IB Diploma Programme Language A: Language and Literature, first assessment 2021."
+description: "How a writer's choices of language, form and structure shape meaning across literary and non-literary texts, and how a reader actively constructs interpretation -- one of three equally-weighted areas of exploration of IB Diploma Programme Language A: Language and Literature, first assessment 2021."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 ---
 
 This guide covers **Readers, Writers and Texts**, one of three
-syllabus components for IB Diploma Programme Language A: Language and
+areas of exploration for IB Diploma Programme Language A: Language and
 Literature, first assessment 2021. The [full syllabus
 guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/)
 confirms all three components carry equal teaching hours (50 SL / 80

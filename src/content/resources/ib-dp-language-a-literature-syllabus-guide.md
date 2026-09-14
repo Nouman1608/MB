@@ -3,13 +3,13 @@ title: "IB Diploma Programme Language A: Literature: Syllabus Guide"
 resourceType: "study-guides"
 subject: "language-a-literature"
 level: ["ib"]
-topic: "Full syllabus (three syllabus components)"
+topic: "Full syllabus (three areas of exploration)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
 syllabusSeries: "First assessment 2021"
 order: 2
-description: "The three syllabus components of IB Diploma Programme Language A: Literature -- Readers, writers and texts; Time and space; Intertextuality -- and how the course's exclusively literary reading list is examined, for first assessment 2021."
+description: "The three areas of exploration of IB Diploma Programme Language A: Literature -- Readers, writers and texts; Time and space; Intertextuality -- and how the course's exclusively literary reading list is examined, for first assessment 2021."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -22,15 +22,51 @@ Language A: Literature**, first assessment 2021, for both Standard Level
 and the
 [assessment revision notes](/resources/ib-dp-language-a-literature-assessment-revision-notes/)
 already on the site by setting out what the course actually studies --
-three syllabus components built entirely around literary texts.
+three areas of exploration built entirely around literary texts (the
+official guide's own table still uses "syllabus component" as its
+column header, but its body text and the current IB course page both
+use "areas of exploration").
 
 Total teaching hours are 150 at SL and 240 at HL, split evenly across
-three components (50 hours each at SL, 80 hours each at HL), and a
-Higher Level essay and individual oral round out the assessment
-alongside the two written examination papers -- the same overall
-structure as
+the three areas of exploration (50 hours each at SL, 80 hours each at
+HL), and a Higher Level essay and individual oral round out the
+assessment alongside the two written examination papers -- the same
+overall structure as
 [Language A: Language and Literature](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/),
-but applied to a different body of material, as explained below.
+but applied to a different body of material, as explained below. The
+guide is explicit that this hour split is a **recommendation, not a
+binding rule**: a footnote to the table states that the hours indicated
+should not be taken as prescriptive or restrictive, since the areas
+will often overlap in the study of a text, and the IB's own course
+page heads the equivalent column "recommended" hours.
+
+## Central concepts and the learner portfolio
+
+Seven concepts -- **identity, culture, creativity, communication,
+perspective, transformation** and **representation** -- structure the
+teaching and learning of the course and recur across all three areas
+of exploration. They are **not directly assessed** in any component,
+but the guide treats them as an essential part of a student's
+investigation of every work studied.
+
+The **learner portfolio** is a mandatory, central element of the
+course for every student, built up over the two years and used to
+prepare for every assessment component. It is **not itself assessed or
+moderated** by the IB, but schools may be required to submit it to
+help establish the authenticity of a student's work -- "not assessed"
+does not mean "never seen" or "irrelevant."
+
+## Works studied
+
+SL students must study a minimum of **9 works** across the three areas
+of exploration (at least 4 originally written in the language studied,
+at least 3 in translation, and 2 freely chosen); HL students a minimum
+of **13 works** (at least 5 originally written in the language studied,
+at least 4 in translation, and 4 freely chosen). Note that the IB's own
+course description webpage currently states lower figures (7 works at
+SL, 10 at HL); the guide's 9/13 is the more detailed, itemised and
+internally consistent source, but this discrepancy with the course page
+is worth knowing about rather than silently resolving.
 
 ## Readers, writers and texts (50 hours SL / 80 hours HL)
 
@@ -81,14 +117,15 @@ literary works exclusively.
 
 What distinguishes this course from
 [Language A: Language and Literature](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/)
-is that all study across all three components above is of **literary
-works only** -- novels, poetry, drama and other literary forms -- with
-no non-literary text-type component. Paper 1's guided analysis is set on
-unseen **literary** passages, and the individual oral specifically
-requires one work originally written in the language studied and one
-work studied in translation, reflecting this course's emphasis on
-reading widely across literary traditions and languages rather than
-across text types.
+is that all study across all three areas of exploration above is of
+**literary works only** -- novels, poetry, drama and other literary
+forms -- with no non-literary text-type component. Paper 1's guided
+analysis is always set on two unseen **literary** passages: SL students
+analyse one of the two, HL students analyse both. The individual oral
+specifically requires one work originally written in the language
+studied and one work studied in translation, reflecting this course's
+emphasis on reading widely across literary traditions and languages
+rather than across text types.
 
 ## How to approach it
 
@@ -112,11 +149,12 @@ translation) different original languages, keep a structured set of
 notes for each work covering its context of production, its major
 formal and stylistic features, and the specific critical arguments you
 can make about it -- rather than relying on general plot recall, which
-Paper 1's unseen literary passage will not test at all and Paper 2's
+Paper 1's unseen literary passages will not test at all and Paper 2's
 comparative essay only partly rewards. Since Paper 1 requires guided
-analysis of an unseen literary passage, deliberately practise with
-unfamiliar poems, prose extracts and drama excerpts beyond your set
-texts throughout the course, not only in the weeks immediately before
+analysis of one (at SL) or both (at HL) unseen literary passages,
+deliberately practise with unfamiliar poems, prose extracts and drama
+excerpts beyond your set texts throughout the course, not only in the
+weeks immediately before
 the exam -- the analytical skill being tested is transferable close
 reading, not memorised knowledge of any one specific work.
 

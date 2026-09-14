@@ -67,7 +67,7 @@ unseen material Sharing the planet's comprehension papers use), then answer the 
 
 **2.** Listening and reading comprehension. **[2]**
 
-**3.** Any valid example specified by the syllabus, e.g. a blog post, an article, a formal letter, or a report. **[1]**
+**3.** Any text type from one of the syllabus's three broad categories (personal, professional, or mass media) -- e.g. a blog post, an article, a formal letter, or a report. These are illustrative examples, not an exhaustive or fixed syllabus list; the specific choice on offer is set by that session's examination instructions. **[1]**
 
 **4.** Any two of: improved air quality, provision of green space in a densely populated area, encouragement of healthier commuting. **[2]**
 

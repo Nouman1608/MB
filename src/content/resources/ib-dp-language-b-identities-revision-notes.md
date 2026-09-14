@@ -67,10 +67,15 @@ more useful preparation than memorising vocabulary lists in isolation.
 
 ## Text types and register
 
-For Paper 1's writing task, if a question falls under Identities, practise the specific text types the
-syllabus expects (a blog post, a formal letter, an article) using vocabulary and register appropriate
-to discussing lifestyle, values or personal identity specifically -- format and register are assessed
-alongside content, so a well-argued response in the wrong text-type conventions loses marks.
+For Paper 1's writing task, if a question falls under Identities, practise across the syllabus's three
+broad text-type categories -- personal (e.g. a blog post, a diary entry, a letter to a friend),
+professional (e.g. a formal letter, a report) and mass media (e.g. an article, an interview) -- using
+vocabulary and register appropriate to discussing lifestyle, values or personal identity specifically.
+Identities often suits personal-category texts particularly well given its reflective, first-person
+subject matter, but the specific text type actually set is not fixed by the syllabus (its own examples
+are explicitly neither prescriptive nor exhaustive) and is instead given by that session's examination
+instructions -- format and register are assessed alongside content, so a well-argued response in the
+wrong text-type conventions loses marks.
 
 ## The individual oral connection
 

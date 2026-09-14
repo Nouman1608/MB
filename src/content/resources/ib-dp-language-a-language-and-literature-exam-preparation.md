@@ -51,13 +51,17 @@ focus and organisation are explicitly graded criteria.
 
 ## The HL essay: write independent argument, not an expanded exam answer
 
-Because the HL essay is produced outside exam conditions with only a single general consultation,
-examiners expect a higher standard of structured argument and textual evidence than an in-class
-timed response. **Exam-preparation priority for HL students**: draft the essay's central line of
-inquiry as a specific, arguable question well before the deadline, get that one consultation on the
-draft itself (not just the topic), and revise at least once -- an essay that reads like a longer exam
-answer, assembled close to the deadline, typically underperforms against the higher assessment
-bands.
+Teachers give regular formative feedback throughout the essay's development but must not edit or
+correct the student's writing directly; only near the end of the process may a teacher give written
+advice on one complete draft, typically by annotating it, and the next version submitted after that
+draft must be the final one. Because the essay is produced outside exam conditions, examiners
+expect a higher standard of structured argument and textual evidence than an in-class timed
+response. **Exam-preparation priority for HL students**: draft the essay's central line of
+inquiry as a specific, arguable question well before the deadline, use the regular formative feedback
+stage to test that question, then use the single draft-and-advice stage deliberately rather than
+treating it as an afterthought -- an essay that reads like a longer exam answer, assembled close to
+the deadline without benefiting from either stage, typically underperforms against the higher
+assessment bands.
 
 ## Worked practice scenario: narrowing a global issue for the oral
 

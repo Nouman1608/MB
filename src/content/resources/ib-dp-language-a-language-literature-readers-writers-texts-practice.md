@@ -35,7 +35,7 @@ and [revision notes](/resources/ib-dp-language-a-language-literature-readers-wri
 
 **2.** Give one literary and one non-literary example of a "narrative or structural choice." **[2]**
 
-**3.** Name this subject's other two syllabus components. **[2]**
+**3.** Name this subject's other two areas of exploration. **[2]**
 
 ---
 

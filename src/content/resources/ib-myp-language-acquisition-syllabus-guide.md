@@ -71,19 +71,22 @@ Each criterion carries equal weight and is scored on eight achievement
 levels (1-8), grouped into four descriptor bands -- the same
 level-and-band structure used across every MYP subject group.
 
-## Proficiency phases: emergent, capable, proficient
+## Six teaching phases, three reporting levels
 
-Unlike a course examined at a single fixed level, MYP language
-acquisition courses are formally assessed at one of three proficiency
-levels -- **emergent, capable or proficient** -- reflecting how far a
-student has actually progressed in the target language, not simply
-which year group they are in. This phase-based structure matters for
-revision: preparing for the correct proficiency phase's expectations is
-more important than preparing generically for "the exam", since the
-level of complexity examined differs meaningfully between phases, and a
-student assessed as emergent is not expected to demonstrate the same
-range of vocabulary, structure or spontaneous fluency as one assessed
-as proficient.
+Teaching and learning in MYP Language Acquisition is organised into **six phases** forming a
+continuum. Phases do not correspond to age or MYP year group -- students can begin at any phase
+depending on prior experience, and move between phases individually, at their own pace, as their
+proficiency actually develops.
+
+Separately, where a school offers MYP eAssessment, a student's course results are formally reported at
+one of three proficiency **levels** -- **emergent, capable or proficient** -- reflecting how far a
+student has actually progressed in the target language, not simply which year group they are in. This
+is a coarser, summative categorisation used for reporting eAssessment results, distinct from the finer
+six-phase continuum used for ongoing classroom teaching. This level-based structure matters for
+revision: preparing for the correct proficiency level's expectations is more important than preparing
+generically for "the exam", since the complexity examined differs meaningfully between levels, and a
+student assessed as emergent is not expected to demonstrate the same range of vocabulary, structure or
+spontaneous fluency as one assessed as proficient.
 
 ## MYP eAssessment structure
 
@@ -106,6 +109,10 @@ for oral preparation -- all four criteria are independently marked and
 independently weighted, each worth an equal 32 marks, so no single
 skill can be allowed to dominate revision time at the expense of the
 others.
+
+IB's general guidance puts MYP on-screen examination sessions somewhere between 1 hour 45 minutes and
+2 hours; a Language Acquisition-specific figure isn't separately published, as far as public sources
+go, so confirm the exact session length for your sitting with your school.
 
 ## How to approach it
 
@@ -130,10 +137,15 @@ speaking -- transfer directly into whichever DP language pathway a
 student later chooses.
 
 Students who go on to demonstrate additional proficiency in a second
-language or their mother tongue, beyond the language acquisition course
-itself, can also earn the separate **MYP bilingual certificate** --
-recognition that sits alongside, rather than replacing, the standard
-MYP certificate route through this subject.
+language or their mother tongue can also earn the separate **MYP
+bilingual certificate** -- but, as far as public IB sources go, Language
+Acquisition itself is not one of the routes to it. The IB's grading and
+awards page sets out two qualifying routes: a second language and
+literature course, or an examination in another subject group taken in
+a language other than the student's language and literature course --
+Language Acquisition is excluded from both. Students should confirm
+the actual route to the bilingual certificate with their school rather
+than assuming this subject leads to it.
 
 ## Official syllabus
 

@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
+syllabusSeries: "First assessment 2020"
 order: 1
 description: "Condensed recall notes on the assessment structure -- papers, weightings and the individual oral -- for IB Diploma Programme Language B, common to SL and HL."
 author: "marlbridge-academic-team"
@@ -22,13 +23,27 @@ paper-by-paper exam-day plan see the
 
 For students with no prior background in the target language at all, some schools instead offer Language ab initio rather than Language B -- a separate course with its own, more foundational assessment structure. Language B itself is intended for students who already bring some prior experience of the target language, so confirming which of the two courses your school has entered you for is worth checking explicitly, since the assessment structures, required vocabulary range and oral formats differ between them.
 
-## Same weightings at SL and HL — the difference is complexity, not structure
+## Same weightings at SL and HL — but not the same durations
 
-| Component | Weight |
-|---|---|
-| Paper 1 (productive writing, choice of tasks) | 25% |
-| Paper 2 (listening + reading comprehension) | 50% (25% each) |
-| Individual oral (recorded by your own teacher) | 25% |
+The percentage weightings below are identical at SL and HL. The **durations are not** — four concrete
+timings differ between the levels, so do not time your practice as if the two levels sat the same
+papers for the same length of time.
+
+| Component | Weight | Raw marks | Duration (SL) | Duration (HL) |
+|---|---|---|---|---|
+| Paper 1 (productive writing, choice of tasks) | 25% | -- | 1 hour 15 minutes (250-400 words) | 1 hour 30 minutes (450-600 words) |
+| Paper 2 -- listening | 25% | 25 | 45 minutes | 1 hour |
+| Paper 2 -- reading | 25% | 40 | 1 hour (same at both levels) | 1 hour (same at both levels) |
+| Individual oral (recorded by your own teacher) | 25% | -- | 15 minutes' preparation | 20 minutes' preparation |
+
+Two things to note from this table: first, Paper 2's 25%/25% **weighting** split between listening and
+reading is even, but the **raw marks** are not (25 for listening vs 40 for reading), so reading is
+nearly two-thirds of the paper by raw marks -- budget practice time accordingly, not by the weighting
+split alone. Second, of the four timings that differ between SL and HL, total external assessment time
+(Paper 1 + Paper 2), Paper 1's own duration, and the individual oral's preparation time all increase at
+HL, while Paper 2's *reading* section stays fixed at one hour for both levels -- only its *listening*
+section gets longer at HL, so don't assume all of Paper 2 lengthens uniformly. Recommended teaching
+time is 150 hours at SL and 240 hours at HL.
 
 ## SL vs HL — what actually differs
 
@@ -48,7 +63,7 @@ Paper 1's productive writing task is assessed against text-type conventions (for
 
 ## Why SL and HL share weightings but differ in demand
 
-Unlike some DP subjects where SL and HL differ in which components are assessed, Language B keeps an identical percentage structure across both levels -- what changes is the complexity and range of language used and understood, the number of literary works studied (two at HL, none required at SL, though schools may still choose to include literary material at SL), and the format of the individual oral. This means a Language B revision plan built around the weightings table above transfers directly between levels; only the specific content (vocabulary range, grammatical complexity, and whether literary works are involved) needs to be adjusted for HL's additional demand.
+Unlike some DP subjects where SL and HL differ in which components are assessed, Language B keeps an identical percentage structure across both levels -- what changes is the complexity and range of language used and understood, the number of literary works studied (two at HL, none required at SL, though schools may still choose to include literary material at SL), the format of the individual oral, and (see the duration column above) how long each component actually takes. This means a Language B revision plan built around the weightings above transfers directly between levels for *how much each component is worth*; but timed practice needs the actual HL or SL duration for each component, since the papers themselves are not the same length across levels.
 
 ## How this compares to Language A courses
 
@@ -57,7 +72,7 @@ Language B is studied as an additional, typically non-native language, whereas t
 ## Exam traps
 
 - Preparing for the oral using the wrong format for your level (photograph/stimulus at SL, literary extract at HL).
-- Underpreparing Paper 2, since it's worth 50% — half the total grade — split evenly between listening and reading.
+- Underpreparing Paper 2, since it's worth 50% — half the total grade — and budgeting practice time by the even 25%/25% weighting split rather than the raw marks, which favour reading (40 marks) over listening (25 marks).
 - HL students not building familiarity with both required literary works before the oral.
 
 ## Self-test
@@ -69,7 +84,7 @@ Language B is studied as an additional, typically non-native language, whereas t
 5. Name one criterion the individual oral is graded against, beyond language accuracy.
 6. How many literary works are required to be studied at HL?
 
-**Answers:** 1. 50%, split evenly between listening comprehension (25%) and reading comprehension (25%). 2. Study of two literary works originally written in the target language. 3. A photograph or short stimulus connected to one of the five prescribed themes. 4. The student's own teacher. 5. The ability to respond to and develop the stimulus or extract in a structured way, or the depth of analysis and connection made to the relevant theme/work. 6. Two.
+**Answers:** 1. 50%, split evenly by weighting between listening comprehension (25%, 25 raw marks) and reading comprehension (25%, 40 raw marks) -- the weighting is even but the raw marks are not. 2. Study of two literary works originally written in the target language. 3. A photograph or short stimulus connected to one of the five prescribed themes. 4. The student's own teacher. 5. The ability to respond to and develop the stimulus or extract in a structured way, or the depth of analysis and connection made to the relevant theme/work. 6. Two.
 
 ## Official syllabus
 

@@ -50,7 +50,7 @@ achhi larki   (good girl - feminine)
 | Tense | Form | Example |
 |---|---|---|
 | **Present** | verb stem + ta/ti/te + hoon/hai/hain | *main parhta hoon* |
-| **Past** | verb stem + a/i/e + tha/thi/the | *main parhta tha* |
+| **Past habitual** | verb stem + ta/ti/te + tha/thi/the | *main parhta tha* |
 | **Future** | verb stem + oon-ga/ega/enge | *main parhoon-ga* |
 | **Continuous** | rahaa/rahi/rahe + hai | *main parh rahaa hoon* |
 

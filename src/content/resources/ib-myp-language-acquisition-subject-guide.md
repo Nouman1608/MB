@@ -66,10 +66,10 @@ starting proficiency.
 Where schools opt into MYP eAssessment, students are assessed at one of
 three overall proficiency levels -- emergent, capable or proficient --
 through an on-screen exam covering listening, reading and writing (each
-worth 24 marks, against criteria A, B and D respectively), plus a separate,
+worth 32 marks, against criteria A, B and D respectively), plus a separate,
 internally assessed speaking exam against criterion C, which is externally
 moderated by the IB rather than marked solely by the student's own teacher.
-Which of the three eAssessment levels a student sits is agreed with their
+Which of the three proficiency levels a student sits eAssessment at is agreed with their
 teacher in advance, based on their working proficiency phase, rather than
 being fixed by year group -- this keeps the external assessment aligned
 with the same phase-based model used in ordinary classroom teaching.

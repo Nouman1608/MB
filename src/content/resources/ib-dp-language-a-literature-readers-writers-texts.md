@@ -12,17 +12,18 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-literature-readers-writers-texts"
-description: "Close literary analysis of narrative voice, form and craft, and how a writer's choices shape what a reader constructs from a text -- one of three equally-weighted syllabus components of IB Diploma Programme Language A: Literature, first assessment 2021."
+description: "Close literary analysis of narrative voice, form and craft, and how a writer's choices shape what a reader constructs from a text -- one of three equally-weighted areas of exploration of IB Diploma Programme Language A: Literature, first assessment 2021."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 ---
 
-This guide covers **Readers, Writers and Texts**, one of three
-syllabus components for IB Diploma Programme Language A: Literature,
+This guide covers **Readers, Writers and Texts**, one of three areas
+of exploration for IB Diploma Programme Language A: Literature,
 first assessment 2021. The [full syllabus
 guide](/resources/ib-dp-language-a-literature-syllabus-guide/) confirms
-all three components carry equal teaching hours (50 SL / 80 HL each).
+all three areas carry equal, recommended (not prescriptive) teaching
+hours (50 SL / 80 HL each).
 Because this course studies literary works exclusively, this component
 goes deeper into literary technique specifically than the equivalent
 component in Language A: Language and Literature, which must split its
@@ -30,7 +31,7 @@ attention across literary and non-literary material.
 
 ## Where this fits in the syllabus
 
-Like the course's other two syllabus components, Readers, Writers and
+Like the course's other two areas of exploration, Readers, Writers and
 Texts is not tested as a separate, named exam section — its ideas are
 woven into Paper 1's guided literary analysis, Paper 2's comparative
 essay, and the individual oral alike. Revision is therefore most

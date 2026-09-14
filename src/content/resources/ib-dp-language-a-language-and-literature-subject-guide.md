@@ -6,7 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
-description: "An overview of IB Diploma Programme Language A: Language and Literature -- its exploration of language's practical and aesthetic dimensions, its three syllabus components, and teaching hours at SL and HL."
+description: "An overview of IB Diploma Programme Language A: Language and Literature -- its exploration of language's practical and aesthetic dimensions, its three areas of exploration, and teaching hours at SL and HL."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -26,18 +26,44 @@ contextual elements all affect meaning, building an analytical
 vocabulary that applies as readily to a newspaper opinion piece as to
 a novel or a play.
 
-## Syllabus components and teaching hours
+## Areas of exploration and teaching hours
 
-| Syllabus component | SL hours | HL hours |
+| Area of exploration | SL hours | HL hours |
 |---|---|---|
 | Readers, writers and texts | 50 | 80 |
 | Time and space | 50 | 80 |
 | Intertextuality: connecting texts | 50 | 80 |
 | **Total** | **150** | **240** |
 
-The 240 HL hours are not spread evenly beyond the SL 150 -- each component gains proportionally
-similar additional time at HL, reflecting greater depth of study across all three rather than an
-extra fourth component.
+Each area gains exactly 30 hours at HL over SL, reflecting greater depth of study across all three
+rather than an extra fourth component. The guide treats this hour split as a recommendation rather
+than a binding rule -- a footnote to the table states the hours should not be taken as prescriptive
+or restrictive, since the areas will often overlap in the study of a text, and the IB's own course
+page heads the equivalent column "recommended" hours.
+
+## Central concepts and the learner portfolio
+
+Seven concepts -- **identity, culture, creativity, communication, perspective, transformation** and
+**representation** -- structure the teaching and learning of the course (identical to the concepts
+used in Language A: Literature) and recur across all three areas of exploration. They are **not
+directly assessed** in any component, but the guide treats them as an essential part of a student's
+investigation of every text and work studied.
+
+The **learner portfolio** is a mandatory, central element of the course for every student: an
+individual collection of work built up over the two years, used to prepare for every assessment
+component. It is **not itself assessed or moderated** by the IB, but schools may be required to
+submit it to help establish the authenticity of a student's work, so "not assessed" should not be
+read as "never seen" or "irrelevant."
+
+## Works studied
+
+SL students must study a minimum of **4 literary works** (at least 1 originally written in the
+language studied, at least 1 in translation, and 2 freely chosen) and HL students a minimum of **6
+literary works** (at least 2 originally written in the language studied, at least 2 in translation,
+and 2 freely chosen). This literary-works count is only half the picture: each area of exploration
+must also involve the study of **non-literary texts equivalent in teaching and learning time** to
+the literary works studied within it, so the course's actual reading and viewing load is
+considerably larger than the literary-works figure alone suggests.
 
 ## Aims
 
@@ -61,34 +87,35 @@ The course aims to enable students to:
 
 Language A: Language and Literature is assessed through two written
 papers, an individual oral, and -- at Higher Level only -- an
-additional piece of written coursework. At SL, Paper 1 (guided textual
-analysis of unseen texts) is worth 35%, Paper 2 (a comparative essay
-on studied literary texts) is worth 35%, and the individual oral is
-worth 30% -- three near-equally weighted components, none of which
-dominates the final grade at SL. At HL, Paper 1 remains worth 35%, Paper 2 drops to 25%, and
-an HL essay -- a piece of independent written coursework of 1,200 to
-1,500 words on a literary or non-literary body of work studied in
-class -- is worth 20%, with the individual oral worth the remaining
-20%. Notice that Paper 2's weighting specifically drops at HL, rather
-than Paper 1's or the individual oral's, to make room for the new HL
-essay component.
+additional piece of written coursework. Paper 1 sets two unseen
+non-literary texts at both levels, but SL students write a guided
+analysis of only **one** of the two (1 hour 15 minutes, 20 marks),
+while HL students write a guided analysis of **both** (2 hours 15
+minutes, 40 marks). At SL, Paper 1 is worth 35%, Paper 2 (a comparative
+essay on studied literary texts) is worth 35%, and the individual oral
+is worth 30% -- three near-equally weighted components, none of which
+dominates the final grade at SL. At HL, Paper 1 remains worth 35%,
+Paper 2 drops to 25%, the individual oral drops to 20%, and an HL
+essay -- a piece of independent written coursework of 1,200 to 1,500
+words on a literary text or work, or a non-literary text or body of
+work, studied in class -- is worth the remaining 20%.
 
-The individual oral, common to both levels, is a prepared spoken
-response in which students analyse the connections between a literary
-text and a non-literary text or extract they have studied, exploring
-how a global issue of their choosing is presented across the two. This
-requires exactly the cross-category comparison the course's whole
-approach is built around — connecting a literary and a non-literary
-text through the same analytical lens, rather than treating the two as
+HL assessment therefore differs from SL in three linked ways, not one:
+a longer, higher-mark Paper 1; lower weightings for Paper 2 and the
+oral; and the addition of the HL essay. Paper 2 itself is the same
+length and format at both levels.
+
+The individual oral, common to both levels, is a single prepared
+spoken response in which students examine how a global issue of their
+choosing is presented through the content and form of one studied
+**literary work** and one studied **non-literary body of work**,
+supported by an extract from each. This requires exactly the
+cross-category comparison the course's whole approach is built
+around — connecting a literary work and a non-literary body of work
+through the same analytical lens, rather than treating the two as
 belonging to entirely separate categories of study.
-Because the HL essay only exists at Higher Level, it is this extra
-piece of independent coursework -- rather than a longer exam -- that
-distinguishes HL assessment from SL, reflecting a broader pattern
-across several DP Group 1 and 2 courses where HL demand is expressed
-through independent written work rather than simply a longer written
-paper.
 
-## The three syllabus components, and how they connect
+## The three areas of exploration, and how they connect
 
 "Readers, writers and texts" establishes core interpretive skills across a wide range of text
 types, both literary and non-literary. "Time and space" examines how texts are shaped by, and shape,
@@ -96,7 +123,7 @@ the cultural and historical context they were produced in. "Intertextuality: con
 builds comparative skills across multiple texts, connected by theme, form or context. Paper 1's
 guided textual analysis draws most directly on "Readers, writers and texts," while Paper 2's
 comparative essay on studied literary texts draws most directly on "Intertextuality," making the
-three components a genuine progression toward the two written papers rather than three unrelated
+three areas a genuine progression toward the two written papers rather than three unrelated
 units taught side by side.
 
 ## Language A versus Language B
@@ -113,10 +140,11 @@ weighting.
 Unlike a traditional literature course, Language A: Language and Literature treats non-literary
 texts — advertisements, speeches, articles, social media posts — as objects of serious critical
 analysis in their own right, not merely as a lighter supplement to literary study. Paper 1's guided
-textual analysis in particular is built around this principle: candidates analyse an unseen text
-(which may be literary or non-literary) using close reading skills that apply across both
-categories, reflecting the course's core claim that language shapes meaning regardless of whether
-the text calls itself "literature."
+textual analysis in particular is built around this principle: candidates analyse two previously
+unseen **non-literary** texts, from different text types, using close reading skills developed
+across the whole course, reflecting the course's core claim that language shapes meaning regardless
+of whether a text calls itself "literature." (Paper 1's texts are non-literary at both levels; it is
+Language A: Literature's Paper 1 that is exclusively literary.)
 
 ## Source
 

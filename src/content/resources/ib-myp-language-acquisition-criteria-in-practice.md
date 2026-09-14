@@ -11,7 +11,7 @@ order: 4
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
-description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Language Acquisition's four assessment criteria -- Listening, Reading, Speaking and Writing -- tied to the emergent/capable/proficient proficiency phases."
+description: "Worked, criterion-by-criterion guidance on what top-band evidence actually looks like for MYP Language Acquisition's four assessment criteria -- Listening, Reading, Speaking and Writing -- tied to the emergent/capable/proficient proficiency levels."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -26,27 +26,27 @@ and [eAssessment exam
 preparation](/resources/ib-myp-language-acquisition-eassessment-exam-preparation/)
 cover the four criteria and how the two eAssessment components are
 structured -- this guide goes further, since a top-band response at the
-emergent phase looks very different from a top-band response at the
-proficient phase for the same criterion.
+emergent level looks very different from a top-band response at the
+proficient level for the same criterion.
 
 ## Where this fits in the subject
 
 These four criteria are assessed against a student's own proficiency
-phase -- emergent, capable or proficient -- rather than a single fixed
-standard for all students. Top-band evidence at the emergent phase
+level -- emergent, capable or proficient -- rather than a single fixed
+standard for all students. Top-band evidence at the emergent level
 might be a short, simple but accurate response using basic vocabulary
-and structures, while top-band evidence at the proficient phase
+and structures, while top-band evidence at the proficient level
 requires nuanced, extended, spontaneous language use. A common
 revision mistake is comparing your own work against an unrealistic
-standard drawn from a different, more advanced proficiency phase,
-rather than against your own phase's actual descriptors.
+standard drawn from a different, more advanced proficiency level,
+rather than against your own level's actual descriptors.
 
 ## Criterion A: Listening
 
 Top-band evidence interprets and constructs meaning from spoken
 multimodal text, and understands how images or other spatial elements
 presented alongside the oral text contribute to meaning -- not just
-transcribing individual words heard. A capable-phase listening task
+transcribing individual words heard. A capable-level listening task
 might play a short spoken announcement accompanied by a relevant
 image. Top-band evidence does not just identify factual details stated
 aloud, such as time or place -- it also explains how the accompanying
@@ -72,11 +72,11 @@ visual elements as irrelevant to the reading task.
 Top-band evidence interacts spontaneously on topics of personal, local
 and global interest, applying linguistic and literary concepts with
 increasing skill, range and accuracy for the student's proficiency
-phase. At the proficient phase, a top-band spoken response to an
+level. At the proficient level, a top-band spoken response to an
 unexpected follow-up question does not fall back to a memorised,
 unrelated prepared answer -- it responds directly and coherently to
 what was actually asked, using a genuine range of vocabulary and
-structures appropriate to that phase, demonstrating real interactive
+structures appropriate to that level, demonstrating real interactive
 competence rather than rehearsed recitation.
 
 ## Criterion D: Writing
@@ -106,9 +106,9 @@ one skill transfers automatically to another.
 
 ## How to approach it
 
-Identify your own current proficiency phase before judging your work
+Identify your own current proficiency level before judging your work
 against any descriptor, since the same response can be top-band
-evidence at one phase and only mid-band evidence at a more advanced
+evidence at one level and only mid-band evidence at a more advanced
 one. Practise multimodal interpretation for both listening and reading
 -- explicitly explaining what an image, layout or colour choice adds to
 a spoken or written text, not just the literal content -- since this is
@@ -122,8 +122,8 @@ between them rather than only the greeting or sign-off changing.
 
 ## Common mistakes
 
-Judging a response against the wrong proficiency phase's descriptors, either by underestimating your
-own phase's expectations or by comparing yourself unfavourably against a more advanced phase's
+Judging a response against the wrong proficiency level's descriptors, either by underestimating your
+own level's expectations or by comparing yourself unfavourably against a more advanced level's
 standard. Treating listening and reading as purely literal comprehension tasks, missing the
 multimodal-interpretation element both criteria specifically credit. Relying on memorised, rehearsed
 answers in speaking assessments, which cannot demonstrate top-band Criterion C evidence once a genuine,

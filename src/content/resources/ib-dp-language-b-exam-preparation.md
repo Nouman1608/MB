@@ -7,6 +7,7 @@ topic: "Exam preparation -- Papers 1, 2 and the individual oral"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
+syllabusSeries: "First assessment 2020"
 order: 6
 description: "Paper-by-paper exam preparation for IB Diploma Programme Language B -- matching Paper 1's text type to its purpose, extracting specific detail on Paper 2, moving beyond description on the individual oral, a worked scenario and a checklist."
 author: "marlbridge-academic-team"
@@ -31,18 +32,25 @@ wrong exam format entirely.
 
 Productive writing is assessed against text-type conventions -- register and structure appropriate
 to, say, a formal letter versus an informal blog post -- as much as against grammatical accuracy.
-**Exam-preparation priority**: for each text type the syllabus specifies, practise writing a short
-example and explicitly checking it against that type's expected register, structure and typical
-opening/closing conventions in the target language, since a grammatically correct response in the
-wrong register or structure still loses marks.
+The syllabus groups its text types into three broad categories -- personal, professional, and mass
+media -- and the specific examples it gives within each (a blog post, a formal letter, a report, and
+so on) are explicitly neither prescriptive nor exhaustive; the exact choice on offer is set each
+session by that session's examination instructions. **Exam-preparation priority**: across all three
+categories, practise writing a short example and explicitly checking it against that type's expected
+register, structure and typical opening/closing conventions in the target language, since a
+grammatically correct response in the wrong register or structure still loses marks under the paper's
+conceptual-understanding marking criterion.
 
-## Paper 2 (50%, split 25/25): extract specific detail, not just gist
+## Paper 2 (50%, split 25%/25% by weighting -- not by raw marks): extract specific detail, not just gist
 
 Listening and reading comprehension consistently test detailed understanding rather than general
-gist, so skimming for overall meaning is not sufficient preparation on its own. **Exam-preparation
-priority**: because this single paper is worth half the final grade, practise locating and extracting
-specific detail from passages and audio under timed conditions -- answering "what exactly does the
-speaker say will happen next," not just "what is the passage broadly about."
+gist, so skimming for overall meaning is not sufficient preparation on its own. The 25%/25% figure is
+a weighting split, not a raw-mark split: listening carries 25 raw marks and reading carries 40, so
+reading is nearly two-thirds of the paper by raw marks even though the two skills are weighted
+equally. **Exam-preparation priority**: because this single paper is worth half the final grade, and
+reading carries the larger share of its raw marks, practise locating and extracting specific detail
+from passages and audio under timed conditions -- answering "what exactly does the speaker say will
+happen next," not just "what is the passage broadly about" -- and weight reading practice accordingly.
 
 ## The individual oral: develop the stimulus, don't just describe it
 

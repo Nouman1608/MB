@@ -12,14 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
-description: "Condensed revision notes on the Time and Space syllabus component of IB Diploma Programme Language A: Language and Literature -- context of production and reception across literary and non-literary texts."
+description: "Condensed revision notes on the Time and Space area of exploration of IB Diploma Programme Language A: Language and Literature -- context of production and reception across literary and non-literary texts."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 ---
 
 The [full syllabus guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/)
-confirms all three syllabus components carry equal teaching hours (50 SL / 80 HL each). These notes
+confirms all three areas of exploration carry equal, recommended (not prescriptive) teaching hours
+(50 SL / 80 HL each). These notes
 cover **Time and space**, alongside the
 [Readers, writers and texts revision notes](/resources/ib-dp-language-a-language-literature-readers-writers-texts-revision-notes/)
 already on the site.

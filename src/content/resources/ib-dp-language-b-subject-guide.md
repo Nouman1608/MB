@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
+syllabusSeries: "First assessment 2020"
 description: "An overview of IB Diploma Programme Language B -- a language acquisition course for students with some prior experience of the target language, built around five prescribed themes."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
@@ -59,6 +60,9 @@ The course aims to enable students to:
   and cultures with which they are familiar
 - develop an awareness of the importance of language in relation to
   other areas of knowledge
+- provide opportunities for intellectual engagement and the
+  development of critical- and creative-thinking skills through
+  language learning and the process of inquiry
 - provide a basis for further study, work and leisure through the use
   of an additional language
 - foster curiosity, creativity and a lifelong enjoyment of language
@@ -73,7 +77,10 @@ complexity of language expected, not in how the components are
 weighted. Paper 1 (a piece of productive writing responding to a
 choice of tasks) is worth 25% of the final grade. Paper 2, which
 combines a listening comprehension section and a reading comprehension
-section, is worth 50%, split evenly between the two skills. The
+section, is worth 50%, split evenly between the two skills by
+**weighting** (25% each) -- though not by raw marks, since listening
+carries 25 marks and reading carries 40 marks, making reading nearly
+two-thirds of the paper's raw-mark total. The
 individual oral, worth the remaining 25%, is conducted and recorded by
 the student's own teacher.
 

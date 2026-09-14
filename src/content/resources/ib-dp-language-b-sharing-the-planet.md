@@ -92,7 +92,9 @@ Reading/listening: practise unseen news-style texts tracing a chain
 
 Writing (Paper 1): practise a formal article or report arguing a
                     position on a globalization-related issue, using
-                    the syllabus's specified text-type conventions
+                    the real conventions of the text type set for that
+                    session (drawn from the syllabus's professional or
+                    mass-media categories)
 
 Speaking (oral):    prepare to discuss a globalization-related image
                     or, at HL, connect a studied literary work's
@@ -106,10 +108,14 @@ whichever paper or task actually uses that topic.
 
 ## Preparing Paper 1's writing task for this theme
 
-If a Paper 1 writing prompt draws on Sharing the Planet, expect the
-syllabus's specified text types (such as a blog post, an article, a
-formal letter, or a report) to require the more formal,
-argument-structured register this theme often calls for. Practising an
+If a Paper 1 writing prompt draws on Sharing the Planet, the text type
+set for that session (drawn from the syllabus's three broad
+categories -- personal, professional, and mass media -- whose own
+examples, such as a blog post, an article, a formal letter, or a
+report, are explicitly neither prescriptive nor exhaustive) is likely
+to call for the more formal, argument-structured register this
+issue-driven theme often needs, since Sharing the Planet suits
+professional and mass-media text types particularly well. Practising an
 opinion-based article or a formal letter arguing for a specific
 environmental or social position, written in the target language's
 real conventions for that text type, is more targeted preparation than

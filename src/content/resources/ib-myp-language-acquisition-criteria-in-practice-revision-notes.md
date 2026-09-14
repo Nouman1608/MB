@@ -11,7 +11,7 @@ order: 2
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-language-acquisition-assessment-criteria"
-description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Language Acquisition's four assessment criteria -- Listening, Reading, Speaking and Writing -- with a worked example for each, tied to the emergent/capable/proficient proficiency phases."
+description: "Condensed, criterion-by-criterion revision notes on what top-band evidence actually looks like for MYP Language Acquisition's four assessment criteria -- Listening, Reading, Speaking and Writing -- with a worked example for each, tied to the emergent/capable/proficient proficiency levels."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -21,8 +21,8 @@ The [assessment revision notes](/resources/ib-myp-language-acquisition-assessmen
 [eAssessment exam preparation](/resources/ib-myp-language-acquisition-eassessment-exam-preparation/)
 cover the four criteria and how the two eAssessment components are structured. These notes go further,
 working through what genuinely top-band evidence looks like for each criterion within your own
-proficiency phase, since a top-band response at the emergent phase looks very different from a
-top-band response at the proficient phase for the same criterion.
+proficiency level, since a top-band response at the emergent level looks very different from a
+top-band response at the proficient level for the same criterion.
 
 ## Criterion A: Listening
 
@@ -30,7 +30,7 @@ Top-band evidence interprets and constructs meaning from spoken multimodal text,
 images or other spatial elements presented alongside the oral text contribute to meaning -- not just
 transcribing individual words heard.
 
-**Worked example:** A capable-phase listening task might play a short spoken announcement accompanied
+**Worked example:** A capable-level listening task might play a short spoken announcement accompanied
 by a relevant image. Top-band evidence does not just identify factual details stated aloud (time,
 place) -- it also explains how the accompanying image reinforces or adds to the spoken message (e.g.
 an image of a closed sign supporting an announcement about a temporary closure), demonstrating genuine
@@ -51,12 +51,12 @@ rather than treating the visual elements as irrelevant to the reading task.
 
 Top-band evidence interacts spontaneously on topics of personal, local and global interest, applying
 linguistic and literary concepts with increasing skill, range and accuracy for the student's
-proficiency phase.
+proficiency level.
 
-**Worked example:** At the proficient phase, a top-band spoken response to an unexpected follow-up
+**Worked example:** At the proficient level, a top-band spoken response to an unexpected follow-up
 question does not fall back to a memorised, unrelated prepared answer -- it responds directly and
 coherently to what was actually asked, using a genuine range of vocabulary and structures appropriate
-to that phase, demonstrating real interactive competence rather than rehearsed recitation.
+to that level, demonstrating real interactive competence rather than rehearsed recitation.
 
 ## Criterion D: Writing
 
@@ -80,14 +80,14 @@ Criterion C's genuinely spontaneous, unscripted speaking demand, and vice versa 
 top-band evidence, as worked through above, has to be practised in its own right rather than assuming
 strength in one skill transfers automatically to another.
 
-## Why proficiency phase changes what "top-band" looks like
+## Why proficiency level changes what "top-band" looks like
 
-Because these four criteria are assessed against a student's own proficiency phase (emergent, capable
+Because these four criteria are assessed against a student's own proficiency level (emergent, capable
 or proficient) rather than a single fixed standard for all students, top-band evidence at the emergent
-phase might be a short, simple but accurate response using basic vocabulary and structures, while
-top-band evidence at the proficient phase requires nuanced, extended, spontaneous language use. A
+level might be a short, simple but accurate response using basic vocabulary and structures, while
+top-band evidence at the proficient level requires nuanced, extended, spontaneous language use. A
 common revision mistake is comparing your own work against an unrealistic standard drawn from a
-different, more advanced proficiency phase, rather than against your own phase's actual descriptors.
+different, more advanced proficiency level, rather than against your own level's actual descriptors.
 
 ## Self-test
 
@@ -96,7 +96,7 @@ different, more advanced proficiency phase, rather than against your own phase's
 3. Why does falling back on a memorised, unrelated answer fail to demonstrate top-band Criterion C
    evidence?
 4. What must top-band Criterion D evidence show across different writing tasks?
-5. Why can two students at different proficiency phases both receive a top achievement level for the
+5. Why can two students at different proficiency levels both receive a top achievement level for the
    same criterion?
 
 **Answers:** 1. How the accompanying image or spatial element contributes to or reinforces the spoken
@@ -108,9 +108,9 @@ register, vocabulary and structure appropriate to each task's specific audience 
 same content with only minor wording changes -- for instance, an informal text message and a formal
 email on the same topic should read as two distinctly different pieces of writing, not one piece of
 writing lightly edited to look more polite. 5. Because the criteria are assessed against each
-student's own proficiency phase descriptors, so a top achievement level reflects the best possible
-evidence for that student's phase, not an identical fixed standard applied to every student regardless
-of phase.
+student's own proficiency level descriptors, so a top achievement level reflects the best possible
+evidence for that student's level, not an identical fixed standard applied to every student regardless
+of level.
 
 ## Official syllabus
 

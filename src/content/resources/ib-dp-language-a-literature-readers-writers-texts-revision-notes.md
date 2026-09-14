@@ -12,14 +12,15 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-literature-readers-writers-texts"
-description: "Condensed revision notes on the Readers, Writers and Texts syllabus component of IB Diploma Programme Language A: Literature -- close literary analysis of narrative voice, form and craft."
+description: "Condensed revision notes on the Readers, Writers and Texts area of exploration of IB Diploma Programme Language A: Literature -- close literary analysis of narrative voice, form and craft."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 ---
 
 The [full syllabus guide](/resources/ib-dp-language-a-literature-syllabus-guide/) confirms all three
-syllabus components carry equal teaching hours (50 SL / 80 HL each). These notes cover **Readers,
+areas of exploration carry equal, non-prescriptive recommended teaching hours (50 SL / 80 HL each).
+These notes cover **Readers,
 writers and texts**, alongside the
 [Intertextuality revision notes](/resources/ib-dp-language-a-literature-intertextuality-revision-notes/)
 already on the site.
@@ -70,9 +71,10 @@ dramatic irony) introduces performance-specific considerations neither prose nor
 
 ## Building this into Paper 1's guided analysis
 
-Because Paper 1 sets an unseen literary passage for guided analysis, this component's core skill —
-explaining how a specific technique shapes the reader's construction of meaning — is directly
-transferable exam practice, not just background theory. When practising with unseen extracts, resist
+Because Paper 1 sets two unseen literary passages for guided analysis -- SL students analysing one
+of the two, HL students analysing both -- this component's core skill — explaining how a specific
+technique shapes the reader's construction of meaning — is directly transferable exam practice, not
+just background theory. When practising with unseen extracts, resist
 the temptation to simply list techniques spotted in the passage; instead, select two or three genuinely
 significant ones and trace their effect across the whole extract, since guided analysis rewards depth
 of connected argument over breadth of feature-spotting.
@@ -102,7 +104,7 @@ governing idea that should shape the whole analysis.
 
 ## A note on assessment weighting
 
-Like the course's other two syllabus components, Readers, writers and texts is not tested as a
+Like the course's other two areas of exploration, Readers, writers and texts is not tested as a
 separate, named exam section — its ideas are woven into Paper 1's guided literary analysis, Paper 2's
 comparative essay and the individual oral alike. Revision is therefore most effective when it builds
 transferable fluency in explaining technique-to-effect relationships, rather than treating this

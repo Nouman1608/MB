@@ -6,7 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Literature"]
-description: "An overview of IB Diploma Programme Language A: Literature -- its exploration of literature across cultures and history, its three syllabus components, and teaching hours at SL and HL."
+description: "An overview of IB Diploma Programme Language A: Literature -- its exploration of literature across cultures and history, its three areas of exploration, and teaching hours at SL and HL."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -20,14 +20,40 @@ literature -- the creativity of writers and readers, the nature of
 their interaction with their contexts and with literary tradition, and
 the ways language can give rise to meaning and effect.
 
-## Syllabus components and teaching hours
+## Areas of exploration and teaching hours
 
-| Syllabus component | SL hours | HL hours |
+| Area of exploration | SL hours | HL hours |
 |---|---|---|
 | Readers, writers and texts | 50 | 80 |
 | Time and space | 50 | 80 |
 | Intertextuality: connecting texts | 50 | 80 |
 | **Total** | **150** | **240** |
+
+## Works studied
+
+The IB's *Language A: literature guide* states that SL students must study a minimum of **9 works**
+across the three areas of exploration (at least 4 written originally in the language studied, at
+least 3 in translation, and 2 freely chosen), and HL students a minimum of **13 works** (at least 5
+originally in the language studied, at least 4 in translation, and 4 freely chosen) -- figures the
+guide itemises and states more than once. Note that the IB's own course description webpage
+currently states different, lower figures (7 works at SL and 10 at HL); since it is not possible to
+know in advance which figure an individual exam session or coordinator will apply, treat the guide's
+9/13 as the more detailed and internally consistent source, but do not assume it silently overrides
+the course page's 7/10.
+
+## Central concepts and the learner portfolio
+
+Seven concepts -- **identity, culture, creativity, communication, perspective, transformation** and
+**representation** -- structure the teaching and learning of the course and recur across all three
+areas of exploration. They are **not directly assessed** in any component, but the guide treats them
+as an essential part of a student's investigation, expected to inform discussion of every work
+studied.
+
+The **learner portfolio** is a mandatory, central element of the course for every student: an
+individual collection of work built up over the two years, used to prepare for every assessment
+component. It is **not itself assessed or moderated** by the IB, but schools may be required to
+submit it to help establish the authenticity of a student's work, so "not assessed" should not be
+read as "never seen" or "irrelevant."
 
 ## Aims
 
@@ -50,24 +76,29 @@ The course aims to enable students to:
 
 Language A: Literature shares the same overall assessment structure as
 Language A: Language and Literature, though the papers focus more
-exclusively on literary texts. At SL, Paper 1 (guided analysis of two
-previously unseen literary extracts) is worth 35%, Paper 2 (a
+exclusively on literary texts. Paper 1 sets two previously unseen
+literary extracts at both levels, but SL students write a guided
+analysis of only **one** of the two (1 hour 15 minutes, 20 marks),
+while HL students write a guided analysis of **both** (2 hours 15
+minutes, 40 marks). At SL, Paper 1 is worth 35%, Paper 2 (a
 comparative essay drawing on studied literary works) is worth 35%, and
 the individual oral is worth 30%. At HL, Paper 1 remains worth 35%,
 Paper 2 drops to 25%, and the HL essay -- independent written
-coursework of 1,200 to 1,500 words analysing an aspect of a literary
-work or works studied during the course -- is worth 20%, with the
+coursework of 1,200 to 1,500 words analysing an aspect of one literary
+work or text studied during the course -- is worth 20%, with the
 individual oral making up the remaining 20%.
 
-The individual oral requires students to explore, in a prepared spoken
-response, how a global issue of their choosing is presented in an
-extract from one of the literary works they have studied, before
-extending the discussion to a second work. As with Language A:
-Language and Literature, the HL essay is the component that most
-clearly separates HL assessment from SL, since it is completed only by
-students taking the course at Higher Level.
+The individual oral is a single prepared spoken response (10 minutes,
+plus 5 minutes of teacher questions) in which students examine how a
+global issue of their choosing is presented through the content and
+form of **two** of the literary works they have studied, supported by
+an extract from each -- one from a work written originally in the
+language studied, and one from a work studied in translation. As with
+Language A: Language and Literature, the HL essay is the component
+that most clearly separates HL assessment from SL, since it is
+completed only by students taking the course at Higher Level.
 
-## What each syllabus component covers
+## What each area of exploration covers
 
 **Readers, writers and texts** focuses on close literary technique --
 narrative voice, poetic form, dramatic structure -- and on the
@@ -86,8 +117,9 @@ of an unseen literary extract.
 **Time and space** examines how a work's historical, geographical,
 cultural and social context of production and reception shapes both
 what it means and how it is read, including how the same work can be
-read differently by audiences separated by time or place. **
-Intertextuality: connecting texts** is where the course's exclusively
+read differently by audiences separated by time or place.
+
+**Intertextuality: connecting texts** is where the course's exclusively
 literary reading list becomes a resource for genuine comparison across
 literary history and form: works can echo or pay homage to an earlier
 text, respond critically to it in dialogue, or deliberately subvert
@@ -98,27 +130,36 @@ rather than describing two works side by side without relating them.
 
 ## The individual oral in more detail
 
-The individual oral asks each student to explore, in a prepared spoken
-response of roughly 10 minutes followed by discussion, how a global
-issue of their own choosing is presented within an extract from one of
-the literary works studied during the course, before extending that
-analysis to a second studied work. Students select the global issue
-themselves and are expected to root their discussion in close analysis
-of authorial choices -- narrative technique, structure, form -- rather
-than discussing the issue in the abstract, since the assessment
-rewards close textual grounding over general commentary on the issue
-itself.
+The individual oral asks each student to explore, in a single prepared
+spoken response of roughly 10 minutes followed by 5 minutes of teacher
+questions, how a global issue of their own choosing is presented
+through the content and form of **two** of the literary works studied
+during the course, supported by an extract from each -- one from a
+work written originally in the language studied, and one from a work
+studied in translation. Students select the global issue themselves
+and are expected to root their discussion in close analysis of
+authorial choices -- narrative technique, structure, form -- across
+both works from the outset, rather than discussing the issue in the
+abstract, since the assessment rewards close textual grounding over
+general commentary on the issue itself.
 
 ## The HL essay
 
 Students taking the course at Higher Level additionally complete the
 HL essay, an independent piece of written coursework between 1,200 and
-1,500 words analysing a specific aspect of one or more of the literary
-works studied. Because it is produced independently rather than under
-exam conditions, the HL essay is the one component where sustained,
-well-researched argument built over multiple drafts is possible, and
-it is this independent-research element -- not simply extra content --
-that most clearly distinguishes HL assessment from SL.
+1,500 words analysing a specific aspect of **one** literary text or
+work studied (where the work is a collection of short stories, poems
+or other short texts, the essay must refer to more than one text from
+within that single work). Teachers give regular formative feedback
+throughout but must not edit or correct the student's writing
+directly; only near the end of the process may a teacher give written
+advice on one complete draft, typically by annotating it, and the next
+version submitted after that draft must be the final one. Because it
+is produced independently rather than under exam conditions, examiners
+expect a more sustained, precisely evidenced argument than a timed
+in-class essay allows, and it is this independent-research element --
+not simply extra content, and not multiple rounds of drafting -- that
+most clearly distinguishes HL assessment from SL.
 
 ## Weighting across the two levels
 

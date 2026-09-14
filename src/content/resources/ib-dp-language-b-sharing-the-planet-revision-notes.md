@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language B"]
 syllabusSeries: "First assessment 2020"
-order: 3
+order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-b-sharing-the-planet"
@@ -62,9 +62,12 @@ issues in the target language, not just vocabulary lists.
 
 ## Preparing Paper 1's writing task for this theme
 
-If a Paper 1 writing prompt draws on Sharing the planet, expect the syllabus's specified text types
-(such as a blog post, an article, a formal letter or a report) to require the more formal,
-argument-structured register this theme often calls for -- practising an opinion-based article or a
+If a Paper 1 writing prompt draws on Sharing the planet, the text type set for that session (drawn from
+the syllabus's three broad categories -- personal, professional, and mass media -- whose own examples,
+such as a blog post, an article, a formal letter or a report, are explicitly neither prescriptive nor
+exhaustive) is likely to call for the more formal, argument-structured register this issue-driven theme
+often needs, since this theme suits professional and mass-media text types particularly well --
+practising an opinion-based article or a
 formal letter arguing for a specific environmental or social position, in the target language's real
 conventions, is more targeted preparation than only reviewing topic vocabulary in isolation.
 
@@ -138,8 +141,9 @@ and urban and rural environments. 2. Because the theme is built around issues, c
 opinion, comparison and cause-and-effect language more than personal or descriptive language. 3.
 Because Paper 2's combined listening and reading weighting (50%) equals the writing task and internal
 oral combined, and this issue-driven theme is especially likely to appear in unseen news, opinion or
-documentary-style comprehension material. 4. Any valid example specified by the syllabus, such as a
-blog post, an article, a formal letter, or a report, arguing or informing on an environmental, social
+documentary-style comprehension material. 4. Any text type from one of the syllabus's three broad
+categories (personal, professional, or mass media) -- such as a blog post, an article, a formal
+letter, or a report, arguing or informing on an environmental, social
 or global issue.
 
 ## Official syllabus

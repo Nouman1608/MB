@@ -39,11 +39,14 @@ language that moves between texts within a single paragraph, rather than only at
 
 ## The individual oral: give both works genuinely balanced treatment
 
-The oral begins with an extract from one studied literary work and must be **extended to a second
-work**, and a common weakness is spending most of the prepared time on the first extract with only a
-brief mention of the second. **Exam-preparation priority**: when rehearsing, time each half of the
-response separately and check both are genuinely developed -- not just mentioned -- with the same
-depth of analysis and equally specific evidence connecting the chosen global issue to each work.
+The oral is a single prepared response, supported by an extract from **each** of two studied
+literary works (one written originally in the language studied, one studied in translation) from
+the very start -- it is not a sequential analysis of one extract that is then extended to a second.
+A common weakness is nonetheless spending most of the prepared time on the first work with only a
+brief mention of the second. **Exam-preparation priority**: when rehearsing, time each work's
+share of the response separately and check both are genuinely developed -- not just mentioned --
+with the same depth of analysis and equally specific evidence connecting the chosen global issue to
+each work.
 
 ## The HL essay: draft early, use the consultation on the draft itself
 
@@ -56,9 +59,9 @@ for the revision that separates a strong essay from an adequate one.
 
 ## Worked practice scenario: balancing the individual oral across two works
 
-A student's prepared extract is from a novel depicting a character's isolation after a personal loss,
-and the oral must extend to a second studied work exploring a related global issue -- how grief is
-represented and processed.
+A student's two prepared extracts are from a novel depicting a character's isolation after a
+personal loss, and a second studied work exploring a related global issue -- how grief is
+represented and processed -- discussed together from the start of the response.
 
 ```
 Weak time allocation:    8 minutes on the first extract's imagery and

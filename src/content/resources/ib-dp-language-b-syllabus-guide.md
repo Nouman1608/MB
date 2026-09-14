@@ -79,38 +79,52 @@ and what challenges and benefits globalization brings.
 
 ## What distinguishes SL from HL
 
-The five themes and the assessment outline are identical for SL and HL
--- it is the nature of the assessment, not its structure, that differs.
-At HL, Paper 1's writing tasks require more complex language and
-structures and demand higher-order thinking skills, with a higher word
-range to accommodate more complex responses. HL students must also
-study **two literary works** originally written in the target language,
-which SL students are not required to do. This has a direct
-consequence for the individual oral: the SL stimulus is a visual image
-relevant to one of the five themes, while the HL stimulus is an excerpt
-from one of the two literary works studied.
+The five themes and the assessment **weightings** are identical for SL
+and HL -- it is the nature of the assessment, not the mark allocation,
+that differs. But the assessment **durations** are not identical: SL
+and HL sit papers of different lengths, so the two levels cannot be
+timed identically in practice (see the duration figures below). At HL,
+Paper 1's writing tasks require more complex language and structures
+and demand higher-order thinking skills, with a higher word range to
+accommodate more complex responses. HL students must also study **two
+literary works** originally written in the target language, which SL
+students are not required to do. This has a direct consequence for the
+individual oral: the SL stimulus is a visual image relevant to one of
+the five themes, while the HL stimulus is an excerpt from one of the
+two literary works studied.
 
 ## Assessment at a glance
 
-Because assessment weightings are identical across SL and HL, the
-proportions below apply to both levels equally, with the difference
-lying in task complexity rather than mark allocation.
+Assessment weightings are identical across SL and HL, so the
+percentages below apply to both levels equally -- but several
+**durations** differ between the levels, so do not assume the papers
+themselves take the same time to sit (see durations below each
+component).
 
 - **Paper 1 (productive skills, 25%)** -- one writing task chosen from
   three options, assessing the ability to produce a sustained piece of
-  writing in the target language.
+  writing in the target language. Duration: 1 hour 15 minutes at SL
+  (250-400 words), 1 hour 30 minutes at HL (450-600 words).
 - **Paper 2 (receptive skills, 50% combined)** -- separate listening
-  (25%) and reading (25%) sections, testing comprehension of unseen
-  audio and written material across the five themes.
+  (25% weighting, 25 raw marks) and reading (25% weighting, 40 raw
+  marks) sections, testing comprehension of unseen audio and written
+  material across the five themes. Reading is 1 hour at both levels;
+  listening is 45 minutes at SL and 1 hour at HL, so total Paper 2
+  time is 1 hour 45 minutes at SL and 2 hours at HL.
 - **Individual oral assessment (internal, 25%)** -- a spoken response to
   a visual (SL) or literary (HL) stimulus, externally moderated by IB
-  examiners.
+  examiners. Preparation time: 15 minutes at SL, 20 minutes at HL.
 
-Paper 2's combined 50% weighting makes receptive skills -- listening and
-reading comprehension -- worth as much as the productive writing task
-and the internal oral combined, which is easy to underestimate when
-revision time defaults toward practising writing and speaking output
-over comprehension practice.
+Because the weighting split (25%/25%) is even but the raw-mark split
+is not, reading is worth nearly two-thirds of Paper 2 by raw marks even
+though it carries the same percentage weighting as listening -- a
+revision plan built purely around the even percentage split will
+under-prepare reading. Recommended teaching time is 150 hours at SL and
+240 hours at HL. Paper 2's combined 50% weighting also makes receptive
+skills -- listening and reading comprehension -- worth as much as the
+productive writing task and the internal oral combined, which is easy
+to underestimate when revision time defaults toward practising writing
+and speaking output over comprehension practice.
 
 ## How to approach it
 
@@ -120,11 +134,22 @@ vocabulary and comprehension practice across all five rather than
 concentrating only on the topics your class discussed most in speaking
 practice -- an unfamiliar audio or written text on human ingenuity is
 just as likely to appear as one on identities. For Paper 1's writing
-task, practise producing the specific text types the syllabus expects
-(such as a blog post, an article, a formal letter or a report) under
-the target language's real conventions, not simply writing accurate
-sentences on the topic, since format and register are assessed
-alongside content. HL students should begin their two literary works
+task, the syllabus groups its text types into three broad categories --
+personal texts (e.g. a blog post, a diary entry, an email or a letter
+to a friend), professional texts (e.g. a formal letter, a report or an
+essay), and mass media texts (e.g. an article, an interview or a
+speech) -- and states that the specific examples it gives are neither
+prescriptive nor exhaustive; the actual text type on offer in any given
+session is set by that session's examination instructions, not fixed
+by the syllabus itself. Practise a range of text types across these
+three categories under the target language's real conventions, not
+simply writing accurate sentences on the topic, since format and
+register are assessed alongside content -- Paper 1 is marked against
+three criteria (language, message, and conceptual understanding), and
+the conceptual-understanding criterion specifically penalises a
+response that ignores the expected text type, register or audience
+even when the language itself is accurate. HL students should begin
+their two literary works
 early and keep working notes linking specific scenes or passages to
 the five course themes, since the individual oral stimulus is drawn
 directly from one of these two works and rewards fluent, detailed

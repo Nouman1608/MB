@@ -12,23 +12,23 @@ order: 2
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-language-a-language-and-literature-time-and-space"
-description: "How the context of production and reception shapes meaning across literary and non-literary texts -- one of three equally-weighted syllabus components of IB Diploma Programme Language A: Language and Literature, first assessment 2021."
+description: "How the context of production and reception shapes meaning across literary and non-literary texts -- one of three equally-weighted areas of exploration of IB Diploma Programme Language A: Language and Literature, first assessment 2021."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 ---
 
-This guide covers **Time and Space**, one of three syllabus components
+This guide covers **Time and Space**, one of three areas of exploration
 for IB Diploma Programme Language A: Language and Literature, first
 assessment 2021. The [full syllabus
 guide](/resources/ib-dp-language-a-language-and-literature-syllabus-guide/)
-confirms all three components carry equal teaching hours (50 SL / 80
-HL each).
+confirms all three areas carry equal, recommended (not prescriptive)
+teaching hours (50 SL / 80 HL each).
 
 ## Where this fits in the syllabus
 
 Time and Space is not examined as a separate, named section on any
-paper — like the other two syllabus components, its concepts are woven
+paper — like the other two areas of exploration, its concepts are woven
 into Paper 1's guided textual analysis and Paper 2's comparative essay
 rather than tested in isolation. This means revision should focus on
 being able to apply its production/reception framework fluently to

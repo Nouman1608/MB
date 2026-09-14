@@ -70,7 +70,7 @@ unseen material Identities' comprehension papers use), then answer the questions
 
 **2.** How do language and culture contribute to forming an identity? **[1]**
 
-**3.** Any valid example specified by the syllabus, e.g. a blog post, an article, a formal letter, or a diary entry. **[1]**
+**3.** Any text type from one of the syllabus's three broad categories (personal, professional, or mass media) -- e.g. a blog post, an article, a formal letter, or a diary entry. These are illustrative examples, not an exhaustive or fixed syllabus list; the specific choice on offer is set by that session's examination instructions. **[1]**
 
 **4.** Any two of: learned the group's shared vocabulary/slang, adopted the group's style of dress, became more confident, became more direct, became quicker to challenge authority. **[2]**
 

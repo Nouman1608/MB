@@ -3,13 +3,13 @@ title: "IB Diploma Programme Language A: Language and Literature: Syllabus Guide
 resourceType: "study-guides"
 subject: "language-a-language-and-literature"
 level: ["ib"]
-topic: "Full syllabus (three syllabus components)"
+topic: "Full syllabus (three areas of exploration)"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Language A: Language and Literature"]
 syllabusSeries: "First assessment 2021"
 order: 2
-description: "The three syllabus components of IB Diploma Programme Language A: Language and Literature -- Readers, writers and texts; Time and space; Intertextuality -- and how the course's mix of literary and non-literary text study is examined, for first assessment 2021."
+description: "The three areas of exploration of IB Diploma Programme Language A: Language and Literature -- Readers, writers and texts; Time and space; Intertextuality -- and how the course's mix of literary and non-literary text study is examined, for first assessment 2021."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -22,11 +22,49 @@ Standard Level (SL) and Higher Level (HL) students. It complements the
 and the
 [assessment revision notes](/resources/ib-dp-language-a-language-and-literature-assessment-revision-notes/)
 already on the site by setting out what the course actually studies --
-three syllabus components, each drawing on both literary works and
-non-literary text types.
+three areas of exploration, each drawing on both literary works and
+non-literary text types (the official guide's own table still uses
+"syllabus component" as its column header, but its body text and the
+current IB course page both use "areas of exploration").
 
 Total teaching hours are 150 at SL and 240 at HL, split evenly across
-three components (50 hours each at SL, 80 hours each at HL).
+the three areas of exploration (50 hours each at SL, 80 hours each at
+HL). The guide is explicit that this hour split is a **recommendation,
+not a binding rule** -- a footnote to the table states the hours
+should not be taken as prescriptive or restrictive, since the areas
+will often overlap in the study of a text, and there should also be a
+balance between the time spent on non-literary texts and literary
+works within each area. The IB's own course page heads the equivalent
+column "recommended" hours.
+
+## Central concepts and the learner portfolio
+
+Seven concepts -- **identity, culture, creativity, communication,
+perspective, transformation** and **representation** -- structure the
+teaching and learning of the course (identical to the concepts used in
+Language A: Literature) and recur across all three areas of
+exploration. They are **not directly assessed** in any component, but
+the guide treats them as an essential part of a student's investigation
+of every text and work studied.
+
+The **learner portfolio** is a mandatory, central element of the course
+for every student, built up over the two years and used to prepare for
+every assessment component. It is **not itself assessed or moderated**
+by the IB, but schools may be required to submit it to help establish
+the authenticity of a student's work -- "not assessed" does not mean
+"never seen" or "irrelevant."
+
+## Works studied
+
+SL students must study a minimum of **4 literary works** (at least 1
+originally written in the language studied, at least 1 in translation,
+and 2 freely chosen); HL students a minimum of **6 literary works** (at
+least 2 originally written in the language studied, at least 2 in
+translation, and 2 freely chosen). This is only the literary side of
+the requirement: each area of exploration must also involve
+**non-literary texts equivalent in teaching and learning time** to the
+literary works studied within it, so a works count by itself
+understates how much material the course actually covers.
 
 ## Readers, writers and texts (50 hours SL / 80 hours HL)
 
@@ -92,7 +130,7 @@ that Paper 1's unseen non-literary passage does not feel unfamiliar on
 exam day. For Paper 2's comparative essay, remember it is set on
 **literary works only**, so keep your literary-text preparation and
 non-literary-text preparation as two genuinely separate revision tracks
-even though the syllabus components themselves blend both. The HL
+even though the areas of exploration themselves blend both. The HL
 essay's 1,200-1,500 word coursework can be written on either a literary
 work or a non-literary body of work -- decide which route suits your
 strengths early, since the two require different critical approaches.

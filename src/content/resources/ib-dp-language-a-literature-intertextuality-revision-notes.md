@@ -111,4 +111,4 @@ practises in writing.
 International Baccalaureate Organization, *Diploma Programme Subject Brief -- Language A: Literature*,
 first assessment 2021, (c) 2019 -- the same source already cited by the
 [full syllabus guide](/resources/ib-dp-language-a-literature-syllabus-guide/), which first identified
-Intertextuality as one of the course's three syllabus components.
+Intertextuality as one of the course's three areas of exploration.
