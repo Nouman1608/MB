@@ -30,8 +30,8 @@ Condensed for the final weeks. For the full explanation, use the
 | **3.3 Education Post-16** | Further/higher education routes, qualifications |
 | **3.4 Jobs, Careers, Ambitions** | Part-time jobs, professions, future intention language |
 
-Do not confuse 3.1 (subjects, opinions on them) with 3.2 (facilities, rules, routine) — reading and
-listening tasks test this distinction directly by asking which sub-topic a detail belongs to.
+Do not confuse 3.1 (subjects, opinions on them) with 3.2 (facilities, rules, routine) — reading
+tasks test this distinction directly by asking which sub-topic a detail belongs to.
 
 ## Why this theme is different from Themes 1 and 2
 
@@ -58,7 +58,7 @@ Many Theme 3 tasks want a present-tense description (current studies) **and** a 
 deliberately, since maintaining correct verb agreement while moving from present to future within one
 paragraph is exactly where marks are commonly lost.
 
-## Reading and listening: two layers
+## Reading: two layers
 
 Distinguish a stated **fact** (a specific subject or job named) from an expressed **opinion or
 aspiration** (why the candidate likes a subject, or what they hope to do). A passage naming three
@@ -108,9 +108,9 @@ revised as an isolated final block.
 ## Building active, not passive, vocabulary
 
 Recognising future-tense and "would like to" forms when reading is not the same as producing them
-correctly and quickly in your own writing or speech. For each sub-topic, practise producing full
-sentences from memory rather than only matching vocabulary to translations, since the writing and
-speaking components require active production under time pressure.
+correctly and quickly in your own writing. For each sub-topic, practise producing full
+sentences from memory rather than only matching vocabulary to translations, since the writing
+task requires active production under time pressure.
 
 ## Self-test
 

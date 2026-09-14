@@ -79,10 +79,10 @@ switching between description and argument.
 
 ## Approaching the tasks
 
-For **reading and listening**, questions on this theme often test whether a candidate can distinguish
+For **reading**, questions on this theme often test whether a candidate can distinguish
 a stated fact (a specific subject or job mentioned) from an expressed opinion or aspiration (why the
-candidate likes a subject, or what they hope to do in future) -- read or listen for both layers rather
-than treating the passage as a flat list of facts. For **writing and speaking**, career and ambition
+candidate likes a subject, or what they hope to do in future) -- read for both layers rather
+than treating the passage as a flat list of facts. For **writing**, career and ambition
 tasks specifically reward candidates who justify a choice, not just name it: stating a career ambition
 and then explaining a reason for it, ideally referencing a personal interest or skill, is a reliably
 strong structure.
@@ -128,7 +128,7 @@ switching from present-tense description to future-tense plans within the same r
 - Rehearse justifying a subject preference or career ambition with a reason, not just naming it.
 - Practise moving between present-tense description and future-tense plans within a single response.
 - Distinguish "my studies" (subjects, opinions) from "life at school" (facilities, routine) in reading
-  and listening tasks.
+  tasks.
 
 ## Official syllabus
 

@@ -70,22 +70,24 @@ for International GCSE exams May/June 2026 onwards —
 
 ## The theme and how it is assessed
 
-**Identity and Culture** is the first of the themes on which the qualification is built. It covers who you are, the people around you, and the cultural life you take part in — family and relationships, friendships, daily routine, food and health, festivals and celebrations, technology in everyday life, and free time.
+**Identity and Culture** is the first of the themes on which the qualification is built, with exactly three topics and eight sub-topics: **Me, my family, friends and people I know** (relationships with family; relationships with friends and people I know), **Technology in everyday life** (social media; mobile technology), and **Free-time activities** (music; cinema and TV; sport; customs and festivals).
 
-The theme provides the **contexts** for assessment. What is actually being tested is your ability to understand and produce Urdu across the four skills, so a strong answer is one that uses the language accurately and appropriately, not one that displays cultural knowledge for its own sake.
+The theme provides the **contexts** for assessment. What is actually being tested is your ability to understand and produce Urdu in **reading and writing** — this qualification has no listening or speaking component at all, so a strong answer is one that uses the language accurately and appropriately, not one that displays cultural knowledge for its own sake.
 
 ## Vocabulary you need in place
 
-Preparation for this theme is mostly lexical. Build reliable, active vocabulary in these fields:
+Preparation for this theme is mostly lexical. Build reliable, active vocabulary in these eight sub-topic fields:
 
-- **Family and relationships** — relatives, describing people's appearance and character, getting on and falling out.
-- **Daily routine** — times, frequency adverbs, household activities, school and work routine.
-- **Food and health** — meals, ingredients, dietary habits, illness, exercise, healthy living.
-- **Festivals and traditions** — Eid, weddings, national days, customs, hospitality.
-- **Free time** — sport, music, reading, television, going out.
-- **Technology** — mobile phones, social media, the internet, with the vocabulary of advantages and disadvantages.
+- **Relationships with family** — relatives, describing people's character, getting on and falling out.
+- **Relationships with friends and people I know** — friendship, meeting people, social circles.
+- **Social media** — platforms, posting, advantages and disadvantages of online life.
+- **Mobile technology** — phones and devices, everyday uses, dependence and its downsides.
+- **Music** — genres, preferences, live and recorded music.
+- **Cinema and TV** — films, programmes, streaming, preferences and opinions.
+- **Sport** — playing and watching, teams, fitness and health benefits.
+- **Customs and festivals** — Eid, weddings, national days, hospitality.
 
-Active vocabulary is what you can produce, not merely recognise. Recognition alone will carry you through reading but fail you in writing and speaking.
+Active vocabulary is what you can produce, not merely recognise. Recognition alone will carry you through reading but fail you in writing.
 
 ## Structures that raise the grade
 
@@ -101,9 +103,9 @@ Extending an answer by giving a reason and an example is the single most reliabl
 
 ## Approaching the tasks
 
-For **reading and listening**, identify whether the question wants a detail, an opinion or an inference. For opinion questions, look for evaluative language rather than facts.
+For **reading**, identify whether the question wants a detail, an opinion or an inference. For opinion questions, look for evaluative language rather than facts.
 
-For **writing and speaking**, cover every bullet point in the task — an unaddressed bullet caps the mark regardless of quality elsewhere. Give an opinion **with a reason** wherever the task allows, and vary your tenses deliberately.
+For **writing**, address every bullet point in the task — the specification states that provided the tasks set are completed, the number of words is not important, but it does not publish a rule that an unaddressed bullet caps the mark outright, so treat completing every bullet as strong practice rather than a stated pass/fail rule. Give an opinion **with a reason** wherever the task allows, and vary your tenses deliberately.
 
 ## Worked example
 
@@ -132,6 +134,6 @@ Missing a bullet point in the task. Writing entirely in the present tense. Givin
 - Build active vocabulary across all six sub-topics of the theme.
 - Use three tenses accurately and consistently, watching gender agreement.
 - Give every opinion a reason, and where possible an example.
-- Cover every bullet point in a writing or speaking task.
-- Distinguish detail, opinion and inference questions in reading and listening.
+- Address every bullet point in a writing task.
+- Distinguish detail, opinion and inference questions in reading.
 - Practise extending short answers with reasons, comparisons and connectives.

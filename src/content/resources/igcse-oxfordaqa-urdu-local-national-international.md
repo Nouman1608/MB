@@ -55,10 +55,12 @@ Theme 1. Build reliable, active vocabulary in these fields:
 - **Home and locality** — types of housing, rooms and facilities, local
 amenities (shops, parks, transport links), giving and following
 directions.
-- **Social issues** — poverty, inequality, homelessness, and the
-vocabulary needed to describe problems and propose solutions.
-- **Global issues** — the environment, climate, pollution, and
-recycling, alongside the vocabulary of cause and effect.
+- **Social issues** — charity and voluntary work, and healthy/unhealthy
+living, and the vocabulary needed to describe problems and propose
+solutions.
+- **Global issues** — the environment (climate, pollution, recycling)
+and poverty, alongside the vocabulary of cause and effect. (Poverty
+sits under Global issues in the specification, not Social issues.)
 - **Travel and tourism** — modes of transport, booking and planning a
 trip, describing a holiday experience (past tense), and comparing
 destinations.
@@ -94,11 +96,11 @@ evaluating a problem affecting it opinion-led.
 
 ## Approaching the tasks
 
-For **reading and listening**, questions on social and global issues
+For **reading**, questions on social and global issues
 often test whether a text is describing a problem, proposing a
 solution, or evaluating how effective a solution has been --
 distinguish these before answering rather than treating the whole
-passage as one block of information. For **writing and speaking**,
+passage as one block of information. For **writing**,
 travel and tourism tasks frequently ask for a past-tense recount
 alongside a present-tense evaluation (what you did, and what you think
 of it now), so practise moving between tenses within the same
@@ -149,7 +151,7 @@ evaluation within a single travel-themed response.
 - Use cause-and-effect connectives when discussing social or global
 issues.
 - Distinguish "describing a problem" questions from "evaluating a
-solution" questions in reading and listening tasks.
+solution" questions in reading tasks.
 
 ## Official syllabus
 

@@ -73,11 +73,7 @@ Build vocabulary in clusters rather than lists:
 
 **Reading:** read the questions first, then scan for the specific information rather than translating the whole passage word by word. Identify whether a question wants a detail, an opinion or an inference, since each demands a different kind of scanning.
 
-**Listening:** use the pause to read ahead and predict the kind of answer required (a number, a place, a reason), the same way you would approach a reading question. Write something for every question, since a blank answer scores nothing while a reasonable guess sometimes earns credit.
-
-**Writing:** plan briefly, then include a **range of tenses**, **opinions with reasons**, **comparatives**, and **connectives** (*aur*, *lekin*, *kyunke*, *is liye*). Cover every bullet point in the task, since an unaddressed bullet caps the mark regardless of the quality of the rest, and check gender agreement and verb endings at the end.
-
-**Speaking:** develop every answer. A one-word reply scores minimally; add a reason, an example, or an opinion to every response.
+**Writing:** plan briefly, then include a **range of tenses**, **opinions with reasons**, **comparatives**, and **connectives** (*aur*, *lekin*, *kyunke*, *is liye*). Address every bullet point in the task — the specification says the word count is not important provided the tasks set are completed, so completeness of content matters more than hitting a target length — and check gender agreement and verb endings at the end.
 
 **Worked example.** Task: describe a festival you celebrate and say why it is important to you.
 
@@ -93,7 +89,7 @@ Strong: describes the festival (present tense)
         adds one specific detail that only you would write
 ```
 
-Three tenses, an opinion with a reason, and one personal detail — that combination is what separates a top-band writing or speaking response from a merely accurate one.
+Three tenses, an opinion with a reason, and one personal detail — that combination is what separates a top-band writing response from a merely accurate one.
 
 ## Exam traps
 
@@ -101,8 +97,7 @@ Three tenses, an opinion with a reason, and one personal detail — that combina
 - Mismatching adjective or verb endings with noun gender.
 - Writing entirely in one tense.
 - Listing vocabulary without opinions or justification.
-- Leaving listening answers blank rather than attempting them.
-- Giving undeveloped one-word speaking answers.
+- Giving undeveloped, one-fact answers instead of adding a reason, example or opinion.
 - Using comparatives incorrectly or not at all, missing an easy opportunity to demonstrate a wider range of structures.
 
 Related: [Identity and Culture practice questions](/resources/igcse-urdu-identity-culture-practice/) for further vocabulary, comprehension and writing practice.

@@ -39,8 +39,8 @@ extra:
 | Sub-topic | Core vocabulary focus |
 |---|---|
 | **2.1 Home, town, neighbourhood, region** | Housing types, rooms/facilities, local amenities, directions |
-| **2.2 Social issues** | Poverty, inequality, homelessness — problem/solution language |
-| **2.3 Global issues** | Environment, climate, pollution, recycling — cause/effect language |
+| **2.2 Social issues** | Charity/voluntary work, healthy/unhealthy living — problem/solution language |
+| **2.3 Global issues** | Environment (climate, pollution, recycling), poverty — cause/effect language |
 | **2.4 Travel and tourism** | Transport, booking, holiday recount (past tense), comparison |
 
 ## The structures that separate strong from weak answers
@@ -56,7 +56,7 @@ city*) and travel experiences (*the best holiday I have had*).
 travel tasks typically want both: what happened, and what you think of
 it now.
 
-## Reading and listening: identify the task type first
+## Reading: identify the task type first
 
 Before answering, decide whether a text is **describing a problem**,
 **proposing a solution**, or **evaluating how effective a solution has
@@ -65,9 +65,9 @@ environmental issue, a social problem) looks the same. Answering the
 wrong task type, even with accurate vocabulary, does not answer the
 question asked.
 
-## Writing and speaking: the reliable four-step structure
+## Writing: the reliable four-step structure
 
-For a written or spoken task on a social or global issue:
+For a written task on a social or global issue:
 
 1. Name the specific problem (present tense).
 2. Give a cause (*because of this...*).
@@ -104,34 +104,12 @@ proposes, or evaluates.
 ## Building genuinely active vocabulary, not passive recognition
 
 Being able to recognise a Theme 2 word when reading is not the same as
-being able to produce it correctly in writing or speech under time
-pressure. For each of the four sub-topics, practise actively producing
-full sentences using the target vocabulary — not just matching words to
-translations — since the writing and speaking tasks require active
-production, while reading and listening only require recognition. Time
-spent purely on recognition drills builds a false sense of readiness
-for the productive tasks.
-
-## Listening tasks specifically
-
-Listening tasks on Theme 2 material often move at natural speed through
-opinion-heavy content, so practise listening for the specific signal
-words that mark a shift from description to opinion or from problem to
-solution (for example, equivalents of "however," "in my opinion," or
-"a solution would be"), rather than trying to catch every word.
-Identifying these structural signal words first makes it far easier to
-locate the specific information a question asks for on a second or
-third listen.
-
-## Speaking tasks: rehearsing under time pressure
-
-Speaking tasks on this theme often ask candidates to discuss a social
-or global issue spontaneously, without the drafting time a written task
-allows. Rehearse the four-step structure (problem, cause, solution,
-opinion) aloud, at speaking pace, on two or three likely topics from
-each sub-topic, so producing it fluently under time pressure feels
-familiar rather than something attempted for the first time in the
-actual assessment.
+being able to produce it correctly in writing under time pressure. For
+each of the four sub-topics, practise actively producing full sentences
+using the target vocabulary — not just matching words to translations —
+since the writing task requires active production, while reading only
+requires recognition. Time spent purely on recognition drills builds a
+false sense of readiness for the productive task.
 
 ## Self-test
 
