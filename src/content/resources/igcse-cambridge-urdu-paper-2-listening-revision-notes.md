@@ -45,8 +45,9 @@ of revision.
   travel announcement, a recorded phone message, or a brief dialogue.
 - Candidates write **short answers** in response to eight separate
   questions.
-- Tests assessment objectives **L1 and L2** (basic comprehension of
-  explicit and implicit meaning).
+- Tests assessment objectives **L1 and L2** — locating stated
+  information and grasping the ideas and opinions expressed, not
+  implicit meaning, which belongs to L4 (see Exercise 3/4 below).
 
 ## Exercise 2 — Gap-fill sentences (8 marks)
 
@@ -77,12 +78,14 @@ of revision.
 
 ## What the material sounds like
 
-The syllabus specifies the kinds of spoken material used across the
-four exercises: **dialogues, interviews, conversations, news items,
-public announcements, and talks**. Exam preparation should include
-exposure to all of these formats, not just conversational Urdu, since
-Exercise 1 in particular draws on more formal registers such as
-announcements and phone messages.
+The syllabus gives examples of the kinds of spoken material used
+across the four exercises — **dialogues, interviews, conversations,
+news items, public announcements, and talks** — introduced with "e.g.",
+so the list is not exhaustive and other spoken text types are
+possible. Exam preparation should include exposure to all of these
+example formats, not just conversational Urdu, since Exercise 1 in
+particular draws on more formal registers such as announcements and
+phone messages.
 
 ## Common pitfalls
 
@@ -131,7 +134,10 @@ not an equivalent one.
   6, 8 = 30 total)?
 - Do I know which assessment objectives (L1–L4) apply to which
   exercise, and that Exercise 4 draws on all of them?
-- Can I list the six types of spoken material the syllabus names?
+- Can I list the example types of spoken material the syllabus gives
+  (dialogues, interviews, conversations, news items, public
+  announcements, talks) — remembering the list is examples, not a
+  closed set?
 - Do I remember that dictionaries are banned and each recording plays
   exactly twice?
 
@@ -149,7 +155,7 @@ playing, then matching against the answer options on the second.
 ## Related resources
 
 - [Cambridge IGCSE Urdu as a Second Language: Paper 2 – Listening (0539)](/resources/igcse-cambridge-urdu-paper-2-listening/)
-- [Cambridge IGCSE Urdu: Paper 1 Reading and Writing (0539)](/resources/igcse-cambridge-urdu-paper-1-reading-writing/)
+- [Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and Writing (0539)](/resources/igcse-cambridge-urdu-paper-1-reading-writing/)
 
 ## Official syllabus
 

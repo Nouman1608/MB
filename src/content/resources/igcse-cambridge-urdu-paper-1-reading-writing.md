@@ -1,5 +1,5 @@
 ---
-title: "Cambridge IGCSE Urdu: Paper 1 Reading and Writing (0539)"
+title: "Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and Writing (0539)"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

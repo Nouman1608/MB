@@ -12,6 +12,8 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
+  - qualification: "o-level"
+    topic: "sl-paper-1-reading-writing-3248"
 description: "Original exam-style practice for both Cambridge O-Level Urdu Paper 1 formats: 3247 First Language's Reading and Writing parts, and 3248 Second Language's five-exercise structure, with full worked answers."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-25
@@ -78,9 +80,10 @@ Read the passage:
 
 ## Answers
 
-**1.** موبائل فون اور انٹرنیٹ نے تفریح کے نئے ذرائع دیے ہیں [1]، جس کی
-وجہ سے طلبہ اسکرین کو کتاب پر ترجیح دیتے ہیں [1]؛ own-words paraphrase
-of "screen over book" rather than lifted phrasing [1].
+**1.** موبائل اور انٹرنیٹ نے دلچسپی کے نئے مواقع پیدا کر دیے ہیں [1]،
+جس کی بنا پر اکثر طلبہ مطالعے کی نسبت اسکرین دیکھنا زیادہ پسند کرتے
+ہیں [1]؛ credit only where the phrasing is genuinely independent of
+the passage's own wording, not a rearrangement of the same words [1].
 
 **2.** کتاب پڑھنے سے **تخیل** پروان چڑھتا ہے [1] اور **تجزیاتی صلاحیت**
 بہتر ہوتی ہے [1]؛ اسکرین کے مسلسل استعمال سے **توجہ کا دورانیہ** کم

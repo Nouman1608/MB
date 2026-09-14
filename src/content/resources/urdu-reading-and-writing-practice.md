@@ -1,5 +1,5 @@
 ---
-title: "Urdu Paper 1: Reading and Writing — Practice Questions"
+title: "Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and Writing — Practice Questions (0539)"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]
@@ -63,7 +63,7 @@ Paper 1 is worth 60 marks across six exercises in 2 hours, with no dictionaries 
 
 **1. اسم** — بچے، باغ [1]. **فعل** — کھیل رہے ہیں [1]. **حرف** — میں [1].
 
-**2.** **استاد سے سبق پڑھایا گیا۔** [1] [1] (Accept: سبق پڑھایا گیا۔)
+**2.** **سبق پڑھایا گیا۔** [1] [1] (Accept: استاد سے سبق پڑھایا گیا۔ — though the agentless form is the safer, more natural model here, since marking the agent with سے on an already-causative verb can read as a double causative.)
 
 **3.** کتابیں [1]؛ لڑکے [1]؛ عورتیں [1]؛ مکانات / مکان [1].
 
@@ -81,7 +81,7 @@ Paper 1 is worth 60 marks across six exercises in 2 hours, with no dictionaries 
 
 > پیارے بھائی،
 > السلام علیکم۔ امید ہے تم خیریت سے ہو گے۔ والدہ نے بتایا کہ آج کل تمہارا زیادہ وقت موبائل اور کھیل میں گزرتا ہے، اسی لیے یہ خط لکھ رہا ہوں۔
-> بھائی، وقت وہ دولت ہے جو ایک بار ہاتھ سے نکل جائے تو کبھی واپس نہیں آتی۔ میری رائے میں تم ایک سادہ سا وقت نامہ بنا لو: صبح کا وقت پڑھائی کے لیے، شام کا کھیل کے لیے اور رات کا آرام کے لیے۔ روزانہ تھوڑا تھوڑا پڑھو گے تو امتحان کے دنوں میں پریشانی نہیں ہو گی۔
+> بھائی، وقت وہ دولت ہے جو ایک بار ہاتھ سے نکل جائے تو کبھی واپس نہیں آتی۔ میری رائے میں تم ایک سادہ سا ٹائم ٹیبل بنا لو: صبح کا وقت پڑھائی کے لیے، شام کا کھیل کے لیے اور رات کا آرام کے لیے۔ روزانہ تھوڑا تھوڑا پڑھو گے تو امتحان کے دنوں میں پریشانی نہیں ہو گی۔
 > مجھے یقین ہے کہ تم میری بات پر ضرور غور کرو گے۔ والدہ کو سلام کہنا۔
 > تمہارا بھائی،
 > احمد
@@ -92,7 +92,7 @@ Paper 1 is worth 60 marks across six exercises in 2 hours, with no dictionaries 
 
 **8.** **نے** is the **ergative postposition** [1], required because پڑھی is a **transitive verb in the perfective (completed past) tense** — Urdu marks the subject of such verbs with نے rather than leaving it unmarked [1].
 
-**9. (a)** **کو** — expressing motion towards a destination [1]. **(b)** **پر** — expressing location on a surface [1].
+**9. (a)** **کو**, or no postposition at all in everyday usage (**وہ سکول گیا**) — both express motion towards a destination; **کو** is the more literary/formal choice [1]. **(b)** **پر** — expressing location on a surface [1].
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Urdu Paper 1: Reading and Writing — Revision Notes"
+title: "Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and Writing — Revision Notes (0539)"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

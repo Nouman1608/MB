@@ -53,7 +53,7 @@ is a substantial share to leave under-practised.
 **CAMBRIDGE IGCSE URDU AS A SECOND LANGUAGE (0539) — PAPER 2 LISTENING**
 
 - **Format**: a written paper of approximately 35–45 minutes, 30 marks, in which candidates hear spoken material for each exercise twice, with pauses built into the recording to give time to read questions and write answers. All questions and responses are in Urdu, and dictionaries may not be used.
-- **What is tested**: listening comprehension of spoken material such as dialogues, interviews, conversations, news items, public announcements and talks, assessed against four listening assessment objectives (L1–L4): understanding factual information and ideas, identifying and selecting relevant details, identifying ideas, opinions and attitudes and the connections between them, and showing awareness of what is implied but not directly stated -- gist, purpose and intention.
+- **What is tested**: listening comprehension of spoken material such as dialogues, interviews, conversations, news items, public announcements and talks, assessed against four listening assessment objectives: **L1** identify and select relevant information, **L2** understand ideas, opinions and attitudes, **L3** show understanding of the connections between ideas, opinions and attitudes, and **L4** understand what is implied but not directly stated, e.g. gist, speaker's purpose, intention and feelings.
 
 **Exercise 1 – Short answer questions** (8 marks): candidates hear a series of short spoken texts, such as a travel announcement, a recorded phone message or a brief dialogue, and write short answers to eight questions. Assesses L1 and L2.
 

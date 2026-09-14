@@ -12,6 +12,8 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
+  - qualification: "o-level"
+    topic: "sl-paper-1-reading-writing-3248"
 description: "Condensed recall notes on the exact Paper 1 exercise structure, mark allocations and technique differences between Cambridge O-Level Urdu 3247 (First Language) and 3248 (Second Language)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-25
@@ -47,8 +49,9 @@ Marked against four reading objectives:
 
 **Part 2 Writing (25 marks).** ONE composition of 300–400 words,
 chosen from argumentative, discursive, descriptive and narrative
-titles — each title drawn from a *different* topic area, so the
-choice of title also fixes the topic:
+titles — each title drawn from a *different* topic or sub-topic, so
+two titles can still share a topic area provided they sit under
+different sub-topics:
 
 1. Health and fitness (food and diet, sport)
 2. The world of youth (music, culture, technology, fashion, family)
@@ -73,9 +76,11 @@ content needs insight and full relevance, not just correctness.
 
 Reading carries roughly 60% of Paper 1's marks and Writing roughly
 40% — the opposite emphasis from Paper 2, which is almost entirely
-Writing. Source texts are drawn from contemporary topics: conservation
-and environment, culture and history, science and technology, music
-and the arts, human achievement.
+Writing. Source texts are drawn from contemporary topics — the
+syllabus gives examples such as conservation and environment, culture
+and history, science and technology, music and the arts, and human
+achievement, but the list is not exhaustive and texts may be drawn
+from any other area of contemporary interest.
 
 ## Register — heavily credited in both
 

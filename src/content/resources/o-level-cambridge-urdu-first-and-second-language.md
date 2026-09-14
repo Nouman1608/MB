@@ -12,21 +12,25 @@ order: 1
 syllabusTopics:
   - qualification: "o-level"
     topic: "fl-paper-1-reading-writing-3247"
+  - qualification: "o-level"
+    topic: "sl-paper-1-reading-writing-3248"
 description: "First Language and Second Language Urdu -- the two distinct, currently examined Cambridge O-Level Urdu syllabuses, each built around Paper 1 Reading and Writing plus a second, differently-focused paper."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
-Cambridge O-Level Urdu Paper 1, Reading and Writing, is a 1 hour 30
-minute exam worth 50% of the qualification, testing comprehension of a
-printed passage and directed or free writing in Urdu -- the same paper
-structure is shared across both 3247 First Language and 3248 Second
-Language Urdu, though the two syllabuses differ in their second
-paper and in how demanding the passages and expected writing are.
-Candidates sit one syllabus or the other, never both, and the
-right choice depends on whether Urdu is the candidate's main language
-(3247) or a learned additional language (3248).
+Cambridge O-Level Urdu's Paper 1 is **not** a single shared paper: the
+two syllabuses' first papers differ in duration, structure and task
+type, and only the paper title and the 50% weighting are genuinely
+shared. **3247 First Language** Paper 1 is 1 hour 30 minutes, in two
+parts -- Reading (25 marks) and Writing (25 marks). **3248 Second
+Language** Paper 1 is 1 hour 45 minutes, in five sequential exercises
+(the syllabus states expressly that it is no longer divided into
+parts), worth 8, 9, 9, 10 and 14 marks. Candidates sit one syllabus or
+the other, never both, and the right choice depends on whether Urdu is
+the candidate's main language (3247) or a learned additional language
+(3248).
 
 This guide covers **Paper 1 Reading and Writing**, the shared
 structural starting point of two distinct, currently examined
@@ -92,7 +96,7 @@ A dependable method: read the questions first, then the passage once for overall
 
 Distinguish question types. *What* asks for located detail. *Why* asks for inference. Questions on the writer's attitude want evidence from **word choice and tone**, not plot summary. Where the question says "in your own words", lifting phrasing from the passage will not score.
 
-**Summary** tasks are marked on identifying the relevant points and on concision — include every required point, exclude examples and repetition, and respect the word limit.
+**3248** sets an explicit summary exercise, marked on identifying the relevant points and on concision — include every required point, exclude examples and repetition, and respect the word limit. **3247 names no summary task** — its Paper 1 reading is comprehension questions of varying length rather than a discrete summary — though its aims do include synthesising ideas, so a comprehension question can still ask a candidate to draw points together without that making summary a distinct, separately marked exercise on this route.
 
 ## Writing
 
@@ -153,17 +157,25 @@ Copying from the passage where own words are required. Writing at length for low
 - [Paper 1: Practice Questions](/resources/o-level-cambridge-urdu-first-and-second-language-practice/) —
   original exam-style practice in both the 3247 and 3248 formats, with
   full worked answers
-- [Cambridge IGCSE Urdu: Paper 1 Reading and Writing
+- [Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and Writing
   (0539)](/resources/igcse-cambridge-urdu-paper-1-reading-writing/) —
-  the same Paper 1 skill set at the level below, for candidates
-  studying towards Cambridge IGCSE Urdu instead
-- [Urdu Paper 1: Reading and Writing — Practice
+  the same Paper 1 skill set at the **same level** (Cambridge states
+  O-Level, IGCSE and numeric-grade IGCSE Urdu are equivalent), for
+  candidates studying towards Cambridge IGCSE Urdu instead — note that
+  the three syllabuses are mutually exclusive combinations within a
+  single examination series
+- [Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and
+  Writing — Practice
   Questions](/resources/urdu-reading-and-writing-practice/) — exam-style
   practice on the comprehension, summary and writing skills this paper
   shares with Cambridge IGCSE Urdu
 - [Edexcel A-Level Urdu: Translation, Reading Comprehension and Writing
   (9UR0)](/resources/a-level-edexcel-urdu-translation-and-reading/) —
-  the natural progression route after O-Level Cambridge Urdu, since
-  Cambridge does not offer an A-Level Urdu qualification
+  Cambridge does offer an A Level in Urdu; for centres in Pakistan this
+  is currently International A Level Urdu 9686, which is itself being
+  replaced by a new language-and-literature code for first examination
+  in 2027, so centres should confirm the current code with Cambridge
+  before entering — this Pearson Edexcel route remains a valid
+  alternative progression for centres elsewhere
 - [Urdu Language subject hub](/subjects/urdu-language/) — all Marlbridge
   Urdu resources across IGCSE, O-Level and A-Level
