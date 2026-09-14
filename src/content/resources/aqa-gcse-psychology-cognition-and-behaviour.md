@@ -34,38 +34,40 @@ content are tested together rather than as a separate, isolated skill.
 
 **AQA GCSE PSYCHOLOGY (8182) — PAPER 1 COGNITION AND BEHAVIOUR**
 
-- 1.1 Memory — the processes of encoding, storage and retrieval;
+- 3.1.1 Memory — the processes of encoding, storage and retrieval;
 episodic, semantic and procedural memory; the multi-store model
 (sensory, short-term and long-term stores) and the coding, capacity
 and duration of each; primacy and recency effects; and memory as an
 active, reconstructive process, including factors affecting accuracy
 such as interference and false memories
-- 1.2 Perception — the difference between sensation and perception;
+- 3.1.2 Perception — the difference between sensation and perception;
 monocular and binocular visual cues and constancies; explanations for
 visual illusions; Gibson's direct theory and Gregory's constructivist
 theory of perception; and factors affecting perception such as
 culture, motivation, emotion and expectation
-- 1.3 Development — early brain development, from simple neural
+- 3.1.3 Development — early brain development, from simple neural
 structures in the womb through to the cortex, and how thinking and
 behaviour change across the lifespan
-- 1.4 Research Methods — the methods psychologists use to investigate
+- 3.1.4 Research Methods — the methods psychologists use to investigate
 cognition and behaviour, including designing, conducting, and
 analysing and interpreting the results of practical research
-activities, applied across the other three sub-topics in this paper
+activities, examined as its own dedicated 25-mark section and also
+applied across the other three sub-topics in this paper
 
 ## How to approach it
 
-Because Research Methods (1.4) is assessed alongside the content
-sub-topics rather than as a standalone unit, practise applying research
-methods questions directly to memory, perception and development
-scenarios rather than revising methods in isolation -- this is the
-pairing the paper is built to test. Memory (1.1) and perception (1.2)
-both rely on being able to describe a model or process accurately and
-then evaluate it, so structure revision around description plus
-evaluation for each key study or theory, not description alone.
-Development (1.3) benefits from a clear timeline view of how thinking
-changes across childhood and adolescence, since exam questions often
-ask students to explain a change rather than just describe a stage.
+Research Methods (3.1.4) is assessed as its own dedicated 25-mark
+section of Paper 1, and research-methods questions are also woven into
+the memory, perception and development scenarios in the other three
+sections -- so revise it both as a standalone topic and as something
+to apply directly to content questions. Memory (3.1.1) and perception
+(3.1.2) both rely on being able to describe a model or process
+accurately and then evaluate it, so structure revision around
+description plus evaluation for each key study or theory, not
+description alone. Development (3.1.3) benefits from a clear timeline
+view of how thinking changes across childhood and adolescence, since
+exam questions often ask students to explain a change rather than just
+describe a stage.
 
 ## Official syllabus
 
@@ -106,7 +108,7 @@ Piaget proposed development in stages, with **schemas** modified through assimil
 
 Research methods run through the whole subject. Know experiments (laboratory, field, natural), observations, self-report through questionnaires and interviews, and correlation — and remember that correlation never establishes cause.
 
-Ethical requirements: informed consent, no deception, right to withdraw, protection from harm, confidentiality and debriefing.
+Ethical requirements follow British Psychological Society guidelines, which set out issues including **informed consent, protection from harm, right to withdraw, confidentiality and debriefing** -- and how to deal with each of them. **Deception** is not an outright ban: it is permissible where scientifically justified and unavoidable, provided participants are fully debriefed, told the true nature of the study, and given the chance to withdraw their data -- an issue to be **managed**, not one that rules out a study altogether.
 
 ## Worked example
 

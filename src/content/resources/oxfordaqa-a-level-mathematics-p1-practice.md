@@ -35,6 +35,12 @@ Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-
 
 ## Section B
 
+**Questions 6 and 7 test trigonometry** (sine/cosine rule, area of a triangle, solving a trig
+equation). OxfordAQA's 9660 specification places all trigonometry in Unit PSM1's pure maths
+strand, not in Unit P1 -- P1 has no trigonometry beyond the shapes of the sin/cos/tan graphs.
+They're included in this P1 practice set because every P1 candidate also sits PSM1, but they are
+PSM1-syllabus questions, not P1 ones.
+
 **3.** The quadratic kx² + (k + 3)x + 4 = 0 has equal roots.
 
 **(a)** Show that k² − 10k + 9 = 0. **[3]**
@@ -44,13 +50,13 @@ Related: [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-
 
 **5.** Solve the simultaneous equations y = x² − 3x + 4 and y = 2x − 2. **[5]**
 
-**6.** In triangle ABC, AB = 8 cm, AC = 11 cm and angle BAC = 52°.
+**6.** *(PSM1 content)* In triangle ABC, AB = 8 cm, AC = 11 cm and angle BAC = 52°.
 
 **(a)** Calculate BC. **[3]**
 **(b)** Calculate the area of the triangle. **[2]**
 **(c)** Calculate angle ABC. **[3]**
 
-**7.** Solve 2 tan x = 3 for 0 ≤ x ≤ 2π, giving answers to 3 significant figures in radians. **[3]**
+**7.** *(PSM1 content)* Solve 2 tan x = 3 for 0 ≤ x ≤ 2π, giving answers to 3 significant figures in radians. **[3]**
 
 **8.** A curve has equation y = x³ − 3x² + 2.
 
@@ -105,8 +111,11 @@ this unit. First, a **tangent** takes the gradient found by
 differentiating directly, while a **normal** takes its **negative
 reciprocal** — mixing these up is the single most common calculus
 error in P1. Second, before integrating to find an area, check
-whether the curve dips below the x-axis anywhere in the interval: if
-it does, the signed integral will **understate** the true area unless
-the region is split at the roots and each part's absolute value is
-taken separately. For the underlying rules, including how the second
+whether the curve lies entirely below the x-axis on the interval: if
+it does, the signed integral comes out negative and the area is its
+magnitude. (P1 will not set a region that is partially above and
+partially below the x-axis, so the further technique of splitting at
+the roots and taking each part's absolute value separately -- needed
+only for that mixed case -- is background knowledge rather than
+something a P1 paper requires.) For the underlying rules, including how the second
 derivative classifies a stationary point, see the [Pure Maths 1 revision notes](/resources/oxfordaqa-a-level-mathematics-p1-revision-notes/).

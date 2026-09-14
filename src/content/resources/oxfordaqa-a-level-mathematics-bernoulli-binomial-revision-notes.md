@@ -66,6 +66,7 @@ Step 1: confirm the binomial conditions hold (n = 10, p = 0.3, constant
 Step 2: locate the row for n = 10, p = 0.3 in the cumulative binomial
         table
 Step 3: read off P(X <= 3) directly as the tabulated value
+        P(X <= 3) = 0.6496
 ```
 
 The specification explicitly expects fluency with **both** routes -- the full formula calculation for a single value of X, and reading a cumulative table for P(X ≤ x) -- since summing several individual terms by hand is slower and more error-prone than reading one table value. Practise recognising which route a question is asking for from its wording: "find the probability that exactly..." usually points to the formula; "find the probability that at most..." or "no more than..." usually points to a cumulative table read.

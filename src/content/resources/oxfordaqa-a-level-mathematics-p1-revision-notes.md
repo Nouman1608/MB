@@ -48,21 +48,28 @@ discriminant:  b^2 - 4ac
 
 **Disguised quadratics** — substitute for the repeated term, then **substitute back and reject impossible values** (√x cannot be negative; aˣ is always positive).
 
-## Coordinate geometry
+## Coordinate geometry (P1)
 
 ```
 m = (y2-y1)/(x2-x1)        y - y1 = m(x - x1)
 distance = sqrt((x2-x1)^2 + (y2-y1)^2)
-circle:  (x-a)^2 + (y-b)^2 = r^2
 ```
 
-Perpendicular gradients multiply to **−1**.
+Perpendicular gradients multiply to **−1**. P1's coordinate geometry is lines only (equation of a line, parallel/perpendicular conditions, intersection of a line and a curve) -- the circle is **not** P1 content; see below.
+
+## Circle and trigonometry — Unit PSM1 content, not P1
+
+**Neither of these two sections is P1 content.** Both belong to the *other* AS unit, PSM1's pure
+maths strand (PP1.1 Circle, PP1.2 Trigonometry). They're included here because every P1 candidate
+also sits PSM1, but don't revise them expecting a P1 paper to test them.
+
+```
+circle:  (x-a)^2 + (y-b)^2 = r^2
+```
 
 **Three circle facts solve most problems:** the tangent is perpendicular to the radius at the point of contact; the perpendicular bisector of a chord passes through the centre; the angle in a semicircle is a right angle.
 
 From an expanded circle equation, **complete the square in both x and y** to find the centre and radius.
-
-## Trigonometry
 
 ```
 sin^2 x + cos^2 x = 1        tan x = sin x / cos x
@@ -75,7 +82,7 @@ area = (1/2)ab sin C
 
 When solving trigonometric equations, find **all** solutions in the stated interval using the graph's symmetry, and check both ends of the range.
 
-## Differentiation
+## Differentiation (P1)
 
 ```
 y = ax^n  ->  dy/dx = anx^(n-1)
@@ -85,7 +92,7 @@ y = ax^n  ->  dy/dx = anx^(n-1)
 
 **If `d²y/dx² = 0` the test is inconclusive** and you must check the sign of the gradient either side. That case appears precisely because the shortcut fails.
 
-**Differentiation from first principles** — using the limit definition of the derivative rather than the power rule directly — is examinable, though routine questions use the shortcut rule.
+**The limit definition of the derivative** — the gradient of the tangent as the limit of the gradient of a chord — is required knowledge. **Carrying out differentiation from first principles itself is not tested**; routine questions use the shortcut power rule directly.
 
 **Worked example.** Find the coordinates and nature of the stationary point of y = x² − 8x + 3.
 
@@ -107,7 +114,7 @@ integral of ax^n = ax^(n+1)/(n+1) + c        n != -1
 
 **The `+ c` is a mark.** It cancels in a definite integral but is required in an indefinite one.
 
-**Area:** the integral gives a **signed** value, so regions below the x-axis integrate negative. For a total area, **split at the roots and take absolute values** — simply adding the signed integrals gives the wrong answer.
+**Area:** the integral gives a **signed** value, so regions below the x-axis integrate negative. For a region **entirely below** the x-axis, the area is simply the magnitude of the (negative) signed integral. P1 will **not** set questions on regions that are partially above and partially below the x-axis, so the "split at the roots and take absolute values" technique needed for that mixed case is background knowledge only, not something a P1 paper will require.
 
 **Worked example.** Find the area enclosed between y = x² − 4 and the x-axis, between x = −2 and x = 2.
 
@@ -127,7 +134,7 @@ For the area between two curves, find the intersections first: they are the limi
 
 - Giving one condition for "always positive".
 - Omitting `+ c`.
-- Adding signed integrals when a total area is required.
+- Forgetting that the signed integral over a region entirely below the x-axis is negative, and that the area is its magnitude.
 - Missing the second solution in the ambiguous case.
 - Confusing tangent and normal gradients.
 - Forgetting to reject invalid roots after a substitution.
@@ -136,8 +143,8 @@ For the area between two curves, find the intersections first: they are the limi
 
 1. What does `b² − 4ac = 0` mean geometrically?
 2. Give both conditions for a quadratic to be positive for all x.
-3. State three circle theorems useful in coordinate geometry.
+3. State three circle theorems useful in coordinate geometry. (PSM1 content, not P1 -- see above.)
 4. When does the second derivative test fail, and what do you do?
-5. Why can adding definite integrals give the wrong area?
+5. A curve lies entirely below the x-axis between x = a and x = b. Why doesn't the signed integral directly give the area, and how do you find the area?
 
-**Answers:** 1. The curve is tangent to the x-axis — one repeated root. 2. a > 0 and b² − 4ac < 0. 3. The tangent is perpendicular to the radius at the point of contact; the perpendicular bisector of a chord passes through the centre; the angle in a semicircle is 90°. 4. When d²y/dx² = 0; you must then examine the sign of the gradient on either side of the stationary point. 5. Regions below the x-axis give negative values that cancel against positive regions, so the total area must be found by splitting at the roots and taking absolute values.
+**Answers:** 1. The curve is tangent to the x-axis — one repeated root. 2. a > 0 and b² − 4ac < 0. 3. The tangent is perpendicular to the radius at the point of contact; the perpendicular bisector of a chord passes through the centre; the angle in a semicircle is 90°. 4. When d²y/dx² = 0; you must then examine the sign of the gradient on either side of the stationary point. 5. The signed integral comes out negative because the curve is below the axis throughout, so the area is the magnitude (absolute value) of that negative value. (Splitting a region at the roots and taking absolute values of each part is needed only when a region is partially above and partially below the axis -- P1 will not set that case.)

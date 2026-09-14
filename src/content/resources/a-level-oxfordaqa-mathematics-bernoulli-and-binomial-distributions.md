@@ -34,7 +34,9 @@ of E(X) = p and Var(X) = p(1 − p)
 - The binomial distribution, introduced as the sum of independent
 Bernoulli trials
 - Calculation of probabilities using the formula and tables, including
-use of ⁿCₓ (n choose x) notation
+use of the specification's own bracket "n choose x" notation (a
+vertical binomial-coefficient bracket, sometimes typed ⁿCₓ on a
+calculator or in a textbook as a common, equally valid equivalent)
 - Mean, variance and standard deviation of a binomial distribution,
 including deductions of np and np(1 − p) from the corresponding
 Bernoulli values
@@ -108,12 +110,17 @@ identically distributed Bernoulli trials, written X ~ B(n, p).
 **Independent trials** — trials whose outcomes do not affect one
 another, a condition required for the binomial model to apply exactly;
 sampling without replacement from a small, finite population is a
-common situation where trials are not truly independent. **ⁿCₓ (n
-choose x)** — the binomial coefficient, giving the number of distinct
-ways to arrange x successes among n trials, calculated as n! / (x!(n −
-x)!). Every one of these terms appears in the specification's own
-wording for S1.3, so using them precisely — rather than paraphrasing
-loosely — is directly rewarded in how this content is assessed.
+common situation where trials are not truly independent. **Binomial
+coefficient** — the number of distinct ways to arrange x successes
+among n trials, calculated as n! / (x!(n − x)!); the specification
+itself prescribes the vertical bracket "n choose x" notation for this
+(not the calculator-style ⁿCₓ, which is a common and acceptable
+equivalent rather than the specification's own notation). "Bernoulli
+distribution" and "Binomial distribution" appear verbatim in the
+specification's own wording for S1.3, and the binomial distribution is
+explicitly described there as built from "independent Bernoulli
+trials" — so these terms are worth using precisely, though not every
+phrase above is a direct quotation from the specification.
 
 ## Common mistakes
 

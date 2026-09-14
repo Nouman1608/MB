@@ -31,6 +31,12 @@ reference study for conformity; Milgram is the reference study for
 obedience. A question naming a specific behaviour expects you to
 identify which phenomenon it is before explaining it.
 
+## Asch's and Milgram's procedures and key findings
+
+**Asch (conformity):** **line-judgement task** — a naive participant sat with a group of **confederates** and judged aloud which of three comparison lines matched a standard line in length. On **critical trials**, confederates unanimously gave the same wrong answer before the real participant responded. **Key findings:** mean conformity of around **37%** on critical trials; around **75%** of participants conformed **at least once**; conformity rose sharply as group size increased from one to three opposing confederates, then levelled off.
+
+**Milgram (obedience):** participants believed they were administering increasingly severe electric shocks to a confederate "learner" who answered incorrectly, under instruction from an experimenter using standard verbal prods; no real shocks were given. **Key finding:** around **65%** obeyed to the maximum voltage, despite visible distress.
+
 ## Conformity: three social factors, one test each
 
 | Factor | Effect |
@@ -67,8 +73,6 @@ never blend the two into one undifferentiated paragraph.
 
 ## Key term precision
 
-- **Normative social influence** — conforming to be liked or accepted,
-not because the group is believed correct.
 - **Agentic state** — Milgram's term for seeing oneself as an instrument
 of another's wishes, removing personal responsibility.
 - **Legitimate authority** — an authority figure whose right to direct

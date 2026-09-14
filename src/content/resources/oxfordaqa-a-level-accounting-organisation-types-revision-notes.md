@@ -7,7 +7,7 @@ topic: "Types of business organisation"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9615"]
-syllabusSeries: "2024-onwards"
+syllabusSeries: "Version 1.2, for teaching from September 2024 onwards"
 order: 2
 stage: "AS"
 syllabusTopics:
@@ -108,5 +108,5 @@ This topic sits early in the AS course deliberately: the ownership model chosen 
 
 ## Official syllabus
 
-OxfordAQA International AS and A-level Accounting (9615) specification, updated February 2024 —
+OxfordAQA International AS and A-level Accounting (9615) specification, Version 1.2, for teaching from September 2024 onwards —
 [oxfordaqa.com/9615](https://www.oxfordaqa.com/wp-content/uploads/2024/05/oxfordaqa-a-level-accounting-specification.pdf).

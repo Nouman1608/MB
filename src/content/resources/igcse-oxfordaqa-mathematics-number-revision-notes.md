@@ -24,11 +24,14 @@ assessable on the Extension tier paper across every one of Topic 1's three sub-t
 
 ## The three sub-topics
 
-| Sub-topic | Core skill |
-|---|---|
-| 1.1 Structure and calculation | Four operations, correct order of operations, indices and surds |
-| 1.2 Fractions, decimals, percentages | Converting fluently between all three forms, compound percentage change |
-| 1.3 Ratio and proportion | Direct vs. inverse proportion |
+The specification's own content references use an **N-prefix** (N1-N20) running through this
+topic area, not section-heading numbering:
+
+| Sub-topic | Content refs | Core skill |
+|---|---|---|
+| 3.1.1 Structure and calculation | N1-N11 | Four operations, correct order of operations, indices and surds |
+| 3.1.2 Fractions, decimals, percentages | N12-N15 | Converting fluently between all three forms, compound percentage change |
+| 3.1.3 Ratio and proportion | N16-N20 | Direct vs. inverse proportion |
 
 All content is assessable on the **Extension** tier. Number is the most self-contained of the
 topics in this specification, in the sense that it draws on very little prior content from
@@ -66,14 +69,20 @@ to the power 0 = 1. Negative index → reciprocal. Fractional index → root. A 
 versa) — practise applying both operations, in either order, since either sequence gives the same
 result but candidates often freeze when the fraction isn't in the "obvious" 1/n form.
 
-## Bounds
+## Bounds (N11) — Extension tier only
+
+Core candidates round to a given accuracy but are not required to calculate or use bounds.
 
 A value to a given accuracy lies within an interval (e.g. 4.6 kg to 1 d.p. → 4.55 ≤ m < 4.65).
 Greatest **sum**: both upper bounds. Greatest **difference**: upper − lower. Greatest **quotient**:
 upper ÷ **lower**. The same logic in reverse gives the smallest sum (both lower bounds), smallest
 difference (lower − upper, i.e. the smallest possible gap), and smallest quotient (lower ÷ upper).
 
-## Compound interest and repeated percentage change
+## Compound interest and repeated percentage change (N15)
+
+The compound-interest **formula** below, and reverse percentage problems, are Extension tier
+only; Core candidates solve compound-interest and simple percentage-change problems without
+being required to use or quote the formula.
 
 Compound growth/decay uses a single multiplier raised to a power, not repeated separate
 calculations: an amount growing by 5% a year for 3 years is `x × 1.05³`, not `x × 1.05 × 3`. This
@@ -89,7 +98,9 @@ or subtracting numbers in standard form requires matching the powers of 10 first
 number so both share the same exponent) before combining the A values; multiplying or dividing
 combines the A values directly and adds or subtracts the powers of 10 separately.
 
-## Surds
+## Surds (N7) — Extension tier only
+
+Core candidates calculate exactly with fractions instead; surds are not required at Core.
 
 A surd is an irrational root left in root form rather than evaluated as a decimal (e.g. √3, not
 1.732…). Simplifying a surd means extracting the largest perfect-square factor: √12 = √(4×3) =

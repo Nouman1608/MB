@@ -7,7 +7,7 @@ topic: "Types of business organisation"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9615"]
-syllabusSeries: "2024-onwards"
+syllabusSeries: "Version 1.2, for teaching from September 2024 onwards"
 order: 1
 stage: "AS"
 syllabusTopics:
@@ -21,8 +21,9 @@ featured: false
 
 This guide covers **3.1.2 Types of Business Organisation**, the second
 of ten AS-level topics in OxfordAQA International AS and A-level
-Accounting (9615), version updated February 2024. AS Papers 1-2 (topics
-1-10) form the International AS-level and 40% of the full A-level.
+Accounting (9615), Version 1.2, for teaching from September 2024
+onwards. AS Papers 1-2 (topics 1-10) form the International AS-level
+and 40% of the full A-level.
 
 ## Syllabus coverage
 
@@ -153,5 +154,5 @@ those later topics introduce structure-specific accounting treatment.
 ## Official syllabus
 
 OxfordAQA International AS and A-level Accounting (9615) specification,
-updated February 2024 —
+Version 1.2, for teaching from September 2024 onwards —
 [oxfordaqa.com/9615](https://www.oxfordaqa.com/wp-content/uploads/2024/05/oxfordaqa-a-level-accounting-specification.pdf).

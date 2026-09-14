@@ -29,18 +29,21 @@ Extension tier.
 Number establishes the calculation fluency and understanding of ratio
 and proportion that underpin the other three content areas -- Algebra,
 Geometry and measures, and Statistics and probability. This
-specification overlaps substantially with AQA's UK GCSE Mathematics
+specification overlaps with AQA's UK GCSE Mathematics
 (8300) per the specification's own administration section.
 
 ## Syllabus coverage
 
 **OXFORDAQA INTERNATIONAL GCSE MATHEMATICS (9260) — TOPIC 1 NUMBER**
 
-- 1.1 Structure and calculation — the four operations applied to
+The specification's own content references use an **N-prefix** running
+through this topic area (N1-N20), not section-heading numbering:
+
+- **3.1.1 Structure and calculation (N1-N11)** — the four operations applied to
 integers, decimals and fractions, and the correct order of operations
-- 1.2 Fractions, decimal and percentages — converting between and
+- **3.1.2 Fractions, decimal and percentages (N12-N15)** — converting between and
 calculating with fractions, decimals and percentages
-- 1.3 Ratio and proportion — solving problems involving ratio, direct
+- **3.1.3 Ratio and proportion (N16-N20)** — solving problems involving ratio, direct
 and inverse proportion
 
 ## How to approach it
@@ -88,15 +91,15 @@ Check with HCF x LCM = product of the numbers: 18 x 630 = 11 340 = 90 x 126.
 
 Convert freely between the three. To add or subtract fractions use a common denominator; to divide, multiply by the reciprocal.
 
-Percentage work is fastest with **multipliers**:
+Percentage work is fastest with **multipliers**. Increase/decrease and compound interest as a concept are Core and Extension content (N15); the compound-growth **formula** shown below is Extension only:
 
 ```
 increase of 12%  ->  x 1.12
 decrease of 12%  ->  x 0.88
-n years of compound growth at r%  ->  x (1 + r/100)^n
+n years of compound growth at r%  ->  x (1 + r/100)^n     [Extension: the formula itself]
 ```
 
-For a **reverse percentage**, divide by the multiplier. If a price after a 20% discount is $64, the original is 64 / 0.8 = $80 — not 64 x 1.2.
+**Reverse percentage problems (N15) are Extension-tier only.** For a reverse percentage, divide by the multiplier. If a price after a 20% discount is $64, the original is 64 / 0.8 = $80 — not 64 x 1.2.
 
 ## Ratio and proportion
 
@@ -106,15 +109,15 @@ Best-buy and exchange-rate problems are proportion questions in disguise: reduce
 
 ## Indices, standard form and surds
 
-Index laws: multiplying adds indices, dividing subtracts, a power of a power multiplies, anything to the power zero is 1, a negative index is a reciprocal, a fractional index is a root.
+Index laws (Core and Extension, N6): multiplying adds indices, dividing subtracts, a power of a power multiplies, anything to the power zero is 1, a negative index is a reciprocal; fractional indices (Extension only) represent roots.
 
-Standard form is A x 10^n with 1 <= A < 10. Multiply by multiplying the numbers and adding the indices; divide by dividing and subtracting. Adjust if A leaves the range.
+Standard form is A x 10^n with 1 <= A < 10 (Core and Extension, N8). Multiply by multiplying the numbers and adding the indices; divide by dividing and subtracting. Adjust if A leaves the range.
 
-Surds are exact. Simplify by extracting square factors, and rationalise denominators by multiplying top and bottom by the surd or its conjugate.
+**Surds (N7) are Extension-tier only** — Core candidates calculate exactly with fractions instead. Surds are exact: simplify by extracting square factors, and rationalise denominators by multiplying top and bottom by the surd or its conjugate.
 
 ## Bounds and accuracy
 
-A value rounded to a given accuracy lies within an interval. For a mass of 4.6 kg to 1 decimal place:
+**Upper and lower bounds (N11) are Extension-tier only** — Core candidates round to a given accuracy but are not required to calculate or use bounds. A value rounded to a given accuracy lies within an interval. For a mass of 4.6 kg to 1 decimal place:
 
 ```
 4.55 <= m < 4.65

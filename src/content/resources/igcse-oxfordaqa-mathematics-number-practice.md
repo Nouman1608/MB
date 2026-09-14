@@ -28,20 +28,24 @@ Related: [Topic 1 Number revision notes](/resources/igcse-oxfordaqa-mathematics-
 
 ---
 
-## Section A
+## Section A (Core and Extension)
 
 **1.** Write 72 and 108 as products of their prime factors, and hence find their HCF and LCM. **[4]**
+
+## Section B (Extension only)
 
 **2.** After a 25% discount, a jacket costs $54. Find the original price. **[2]**
 
 **3.** Simplify √50 + √18, giving your answer as a single surd in its simplest form. **[3]**
 
-## Section B
+## Section C (Core and Extension)
 
 **4.** A recipe uses ingredients in direct proportion to the number of servings. 4 servings require 300 g of flour.
 
 **(a)** Find the flour required for 7 servings. **[2]**
 **(b)** A different recipe takes 6 hours for 4 workers to complete, with time and workers in inverse proportion. How long would it take 3 workers? **[3]**
+
+## Section D (Extension only)
 
 **5.** A rectangle has sides measured as 6.2 cm and 4.5 cm, both correct to 1 decimal place.
 
@@ -68,15 +72,15 @@ Related: [Topic 1 Number revision notes](/resources/igcse-oxfordaqa-mathematics-
 
 ---
 
-## Section C — additional questions
+## Section E (additional questions)
 
-**6.** Write 0.000283 in standard form, and calculate (3 × 10⁴) × (5 × 10³), giving your answer in standard form. **[3]**
+**6.** *(Core and Extension)* Write 0.000283 in standard form, and calculate (3 × 10⁴) × (5 × 10³), giving your answer in standard form. **[3]**
 
-**7.** $3,500 is invested at 4% compound interest per year. Find its value after 3 years, to the nearest dollar. **[3]**
+**7.** *(Extension only — use of the compound interest formula)* $3,500 is invested at 4% compound interest per year. Find its value after 3 years, to the nearest dollar. **[3]**
 
-**8.** Calculate the least possible perimeter and least possible area of the rectangle in question 5, using the lower bounds instead of the upper bounds. **[3]**
+**8.** *(Extension only, continuing Q5's bounds)* Calculate the least possible perimeter and least possible area of the rectangle in question 5, using the lower bounds instead of the upper bounds. **[3]**
 
-## Answers to Section C
+## Answers to Section E
 
 **8.** Least perimeter uses both lower bounds: 2 × (6.15 + 4.45) = 2 × 10.60 = **21.2 cm** [1]. Least area uses both lower bounds: 6.15 × 4.45 = **27.3675 cm²** [2].
 
@@ -84,7 +88,7 @@ Related: [Topic 1 Number revision notes](/resources/igcse-oxfordaqa-mathematics-
 
 **7.** 3500 × 1.04³ [1] [1] = 3500 × 1.124864 = **$3,937** (to the nearest dollar) [1].
 
-## Why bounds work in opposite directions for perimeter and area
+## Why bounds work the same way for perimeter and area (but not for subtraction or division)
 
 Question 8 deliberately mirrors question 5 to make a point: for both
 perimeter (a sum) and area (a product) of two independently rounded

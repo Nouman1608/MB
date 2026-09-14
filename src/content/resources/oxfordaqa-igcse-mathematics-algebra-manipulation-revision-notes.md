@@ -33,6 +33,7 @@ Almost every point has a **Core** version and an **Extension** version — revis
 | A5 | Factorise x² + bx + c, difference of two squares | Factorise ax² + bx + c |
 | A6 | Index laws, integer powers | Fractional powers |
 | A7 | Algebraic fractions, numeric denominators | Linear/quadratic denominators |
+| A8 | Argue mathematically that algebraic expressions are equivalent; use algebra to support and construct arguments | To include proofs |
 
 ## Worked example: expand then factorise
 
@@ -57,7 +58,7 @@ This tests A5 (factorising) and A7 (algebraic fractions) together — the eight 
 
 ## Index laws (A6)
 
-Multiplication: **add** the powers. Division: **subtract** the powers. Extension: fractional powers represent roots. Frequently tested through **short, calculator-free** questions — accuracy without a calculator matters here more than in most sub-topics.
+Multiplication: **add** the powers. Division: **subtract** the powers. Extension: fractional powers represent roots. A scientific calculator is allowed on every 9260 paper (there is no calculator-free component), but these questions are quicker to answer by applying the rule directly than by reaching for the calculator.
 
 ## Worked example: transforming a formula (A2)
 
@@ -110,11 +111,11 @@ A student secure on the Core version of A5 (factorising x^2 + bx + c) is most of
 1. Expand (x − 2)(x + 3).
 2. Factorise x² − 9 (difference of two squares).
 3. Simplify x⁵ ÷ x².
-4. Why can't x²y³ and x³y² be combined by adding exponents?
+4. Why can't x²y³ and x³y² be combined by adding exponents as though they were **like terms**?
 5. What is the key difference between an equation and an identity?
 6. Make r the subject of A = pi r^2.
 
-**Answers:** 1. x² + x − 6. 2. (x − 3)(x + 3). 3. x³. 4. Because the index laws only combine powers of the *same* base — x²y³ and x³y² have the bases arranged differently, so their exponents cannot simply be added. 5. An equation is true only for specific values of the variable; an identity is true for all values. 6. r = sqrt(A / pi).
+**Answers:** 1. x² + x − 6. 2. (x − 3)(x + 3). 3. x³. 4. Because like terms require identical powers of every variable, and here the powers of x and y don't match between the two terms, so they cannot be added together as like terms. (Multiplying them, rather than adding them, does correctly add the exponents of each matching base: x²y³ × x³y² = x⁵y⁵.) 5. An equation is true only for specific values of the variable; an identity is true for all values. 6. r = sqrt(A / pi).
 
 ## How this connects forward
 

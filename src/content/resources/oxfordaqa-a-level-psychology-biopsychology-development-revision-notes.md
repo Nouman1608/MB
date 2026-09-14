@@ -89,9 +89,22 @@ of the brain rather than shared equally — language, for most people, is left-h
 research** studies patients whose corpus callosum (the structure connecting the two hemispheres) has
 been surgically severed, typically as an epilepsy treatment, allowing researchers to present
 information to just one hemisphere at a time and observe what the patient can and cannot report or
-act on. This research is the specification's key evidence for lateralisation and for **plasticity and
-functional recovery** — the brain's capacity to reorganise itself and, to some extent, compensate for
-damage by having other areas take over lost functions after injury.
+act on. This research is the specification's key evidence **primarily for lateralisation** — showing
+what each disconnected hemisphere can and cannot do on its own. The specification places
+localisation, the two named language areas, split-brain research, and plasticity and functional
+recovery together within a single semicolon-separated bullet, so these are not separately-evidenced
+requirements — but split-brain research is not itself the key evidence for plasticity.
+
+**Plasticity and functional recovery** is the brain's capacity to reorganise itself throughout life
+and, after injury, to compensate for damage as other areas take over lost functions. **Maguire et
+al.'s study of London taxi drivers** is commonly cited evidence for plasticity: taxi drivers, who must
+memorise London's street layout for "The Knowledge" test, were found to have a significantly larger
+posterior hippocampus (associated with spatial memory) than controls, with hippocampal volume
+correlating with years of driving experience — evidence that the adult brain's structure changes in
+response to sustained environmental demands. Functional recovery after trauma such as stroke is
+explained by mechanisms including the recruitment of homologous (equivalent) areas in the opposite
+hemisphere and axonal sprouting, where undamaged neurons form new connections to compensate for lost
+pathways.
 
 ## Exam traps
 

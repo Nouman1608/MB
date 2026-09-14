@@ -7,7 +7,7 @@ topic: "Topic 1 – An Introduction to the Role of the Accountant in Business"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9615"]
-syllabusSeries: "2024-onwards"
+syllabusSeries: "Version 1.2, for teaching from September 2024 onwards"
 stage: "AS"
 order: 1
 syllabusTopics:
@@ -21,10 +21,10 @@ featured: false
 
 This guide covers **Topic 1 An Introduction to the Role of the
 Accountant in Business**, the first of twenty topics in OxfordAQA
-International AS & A-Level Accounting (9615), updated February 2024.
-The syllabus is modular: AS Papers 1-2 (topics 1-10) form the AS-level
-and 40% of the A-level; A-level Papers 1-2 (topics 11-20) add the
-remaining 60%.
+International AS & A-Level Accounting (9615), Version 1.2, for teaching
+from September 2024 onwards. The syllabus is modular: AS Papers 1-2
+(topics 1-10) form the AS-level and 40% of the A-level; A-level Papers
+1-2 (topics 11-20) add the remaining 60%.
 
 ## Where this fits in 9615
 

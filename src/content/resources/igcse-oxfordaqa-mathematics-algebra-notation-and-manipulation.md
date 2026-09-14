@@ -77,12 +77,14 @@ its starting form — builds the fluency needed for solving quadratic
 equations later in the syllabus, since factorising a quadratic is
 usually the first method taught for solving one.
 
-Index laws (A6) are frequently tested through short, calculator-free
-questions, so accuracy without a calculator matters more here than in
-most other sub-topics — practise the multiplication law (add the
-powers), the division law (subtract the powers) and, on the Extension
-tier, fractional powers (a rational power represents a root) until they
-are automatic.
+Index laws (A6) are frequently tested through short questions that are
+quick to answer by applying the rule directly rather than reaching for
+a calculator — a scientific calculator is permitted on every 9260 paper
+(there is no calculator-free component), but working the law out
+mentally is faster than keying it in, so practise the multiplication
+law (add the powers), the division law (subtract the powers) and, on
+the Extension tier, fractional powers (a rational power represents a
+root) until they are automatic.
 
 ## Worked example: expand then factorise
 
@@ -95,11 +97,6 @@ Working the same expression in both directions, as shown here, is a
 reliable way to check factorising work: after factorising, multiply the
 brackets back out and confirm the original expression is recovered.
 
-Cancelling terms in a fraction rather than factors -- for example,
-attempting to cancel an 'x' that appears added within an expression
-rather than multiplied as a genuine common factor, which is not
-mathematically valid.
-
 ## Common mistakes
 
 Sign errors when expanding brackets with a negative term, such as
@@ -110,12 +107,14 @@ to terms with different bases as though they were the same (only powers
 of the *same* base can be combined by adding or subtracting exponents).
 Treating an identity (true for all values) and an equation (true only
 for specific values) as interchangeable when a question specifically
-tests the distinction in A3.
+tests the distinction in A3. Cancelling terms in a fraction rather than
+factors -- for example, attempting to cancel an 'x' that appears added
+within an expression rather than multiplied as a genuine common factor,
+which is not mathematically valid.
 
 ## Quick revision checklist
+
 - When cancelling algebraic fractions, cancel common multiplicative factors only, never additive terms.
-
-
 - Pair each Core point with its Extension counterpart when revising, if
 studying for the Extension tier.
 - Practise expanding and factorising the same expression in both

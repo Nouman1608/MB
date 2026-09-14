@@ -49,6 +49,33 @@ agency, authority, culture and proximity
 - Explanation of dispositional factors affecting obedience
 - Adorno's theory of the Authoritarian Personality
 
+## Asch's conformity research
+
+Asch used a **line-judgement task**: a naive participant sat with a
+group of **confederates** (accomplices posing as fellow participants)
+and, in turn, publicly said aloud which of three comparison lines
+matched a standard line in length — an easy, unambiguous judgement. On
+certain **critical trials**, the confederates unanimously gave the
+same wrong answer before the real participant responded. Averaged
+across the critical trials, participants conformed to the incorrect
+majority on around **37%** of trials, and around **75%** of
+participants conformed **at least once** during the study. Conformity
+was strongly affected by **group size**: it rose sharply as the number
+of opposing confederates increased from one to three, then levelled
+off, with little further increase in conformity once the majority grew
+beyond three.
+
+## Milgram's obedience research
+
+Milgram had participants believe they were administering increasingly
+severe electric shocks to another "participant" (a confederate)
+whenever that person answered a learning task incorrectly, under
+instruction from an experimenter using a standard set of verbal
+prods; no real shocks were given. Around **65%** of participants
+obeyed to the maximum voltage level, despite showing visible signs of
+distress — a far higher rate of obedience than had been predicted
+beforehand.
+
 ## How to approach it
 
 Keep conformity and obedience conceptually distinct even though they
@@ -119,9 +146,7 @@ which each factor has its effect.
 **Conformity** — a change in behaviour or belief as a result of real or
 imagined group pressure, without a direct order to do so. **Obedience**
 — a change in behaviour in response to a direct command from a
-perceived authority figure. **Normative social influence** — conforming
-in order to be liked or accepted by a group, rather than because the
-group is believed to be correct. **Agentic state** — the psychological
+perceived authority figure. **Agentic state** — the psychological
 state, central to Milgram's Agency theory, in which a person sees
 themselves as an instrument carrying out another person's wishes and so
 no longer feels personally responsible for their actions. **Legitimate

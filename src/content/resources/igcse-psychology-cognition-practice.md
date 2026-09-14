@@ -39,18 +39,24 @@ Related: [Cognition and Behaviour revision notes](/resources/igcse-psychology-co
 
 **4.** Explain **three** factors that affect perception, giving evidence or an example for each. **[6]**
 
+**4a.** Describe the working memory model, naming its four components. **[4]**
+
+**4b.** Outline how Baddeley and Hitch's dual-processing (dual-task) studies provided evidence for the working memory model. **[4]**
+
 **5.** A psychologist tests recall of a word list under two conditions: with background music and in silence.
 
-**(a)** Write a suitable directional hypothesis. **[2]**
+**(a)** Write a suitable null hypothesis and a suitable alternative hypothesis. **[2]**
 **(b)** Identify the independent and dependent variables. **[2]**
 **(c)** Explain **two** variables that must be controlled and why. **[4]**
 **(d)** Explain why a repeated measures design might be a problem here, and how it could be addressed. **[4]**
 
-**6.** Explain the difference between reconstructive memory and accurate recall, and explain **one** implication for eyewitness testimony. **[6]**
+**6.** Explain the difference between reconstructive memory and accurate recall, referring to the concept of **'effort after meaning'**, and explain **one** implication for eyewitness testimony. **[6]**
+
+**6a.** Name **three** factors that affect the accuracy of memory. **[3]**
 
 ## Section C
 
-**7.** Describe the multi-store model of memory, stating the capacity and duration of each store. **[6]**
+**7.** Describe the multi-store model of memory, stating the capacity and duration of each store. **[8]**
 
 **8.** Explain the difference between proactive and retroactive interference as explanations for forgetting. **[4]**
 
@@ -68,17 +74,23 @@ Related: [Cognition and Behaviour revision notes](/resources/igcse-psychology-co
 
 **3. Bottom-up processing** starts with the **raw sensory data and builds up to a perception**, driven entirely by the stimulus, e.g. reading an unfamiliar word letter by letter [1] [1]. **Top-down processing** starts with **expectations, context and prior knowledge and applies them to interpret the data**, e.g. reading a familiar sentence with a misprint in it and not noticing the error [1] [1].
 
-**4.** Any three, 2 marks each: **expectation and perceptual set** — what we expect to see influences what we perceive; participants told an ambiguous figure is an animal report a rat, told it is a face report a man [1] [1]. **Motivation and emotion** — hungry participants are quicker to identify food-related words [1] [1]. **Culture** — people from non-carpentered environments are less susceptible to the Müller-Lyer illusion, indicating depth cues are learned [1] [1]. **Context** — the same ambiguous symbol is read as a letter among letters and a number among numbers [1] [1].
+**4.** Any three, 2 marks each: **expectation/perceptual set** — **Kunst-Wilson and Zajonc** showed participants preferred stimuli they had been briefly exposed to before, even when they could not consciously recognise them, demonstrating the effect of prior exposure on perception [1] [1]. **Motivation and emotion** — **Gilchrist and Nesberg** found that hungrier participants rated pictures of food as brighter than well-fed participants did [1] [1]. **Culture** — **Nisbett and Miyamoto** found cultural differences in eye movements and scene recall between participants from different cultural backgrounds; separately, people from non-carpentered environments are less susceptible to the Müller-Lyer illusion, indicating depth cues are learned [1] [1]. **Context/expectation** — **Bruner and Minturn** showed the same ambiguous symbol was read as the letter B when shown among letters, and as the number 13 when shown among numbers [1] [1].
 
-**5. (a)** "Participants will recall **fewer** words when tested with background music than when tested in silence." [1] [1]
+**4a.** The **central executive** directs attention and coordinates the other components, and has a limited capacity [1]. The **phonological loop** holds spoken and written material briefly, coded acoustically [1]. The **visuo-spatial sketchpad** holds visual and spatial information [1]. The **episodic buffer** integrates information from the other components and links it to long-term memory [1].
+
+**4b.** **Baddeley and Hitch** gave participants two tasks to perform at the same time (dual-processing/dual-task studies) [1]. When both tasks drew on the **same** component (e.g. two visual tasks), performance was **disrupted far more** than when the two tasks drew on **different** components (e.g. one visual, one verbal) [1] [1]. This shows that short-term memory is **not a single unitary store**, but made up of separate components that can be used at the same time as long as they do not compete for the same resource [1].
+
+**5. (a)** **Null hypothesis:** "There will be no difference in the number of words recalled between the background music condition and the silence condition." [1] **Alternative hypothesis:** "There will be a difference in the number of words recalled between the background music condition and the silence condition." [1]
 **(b)** Independent variable: **whether background music is played or not** [1]. Dependent variable: **the number of words correctly recalled** [1].
 **(c)** Any two, 2 marks each: the **word lists must be of equal length and difficulty**, since an easier list would produce higher recall regardless of the music [1] [1]. The **time allowed for learning and for recall must be the same**, since more time would improve recall independently of the condition [1] [1]. The **volume and type of music, and the level of background noise in the silent condition, must be standardised** [1] [1].
 **(d)** In a repeated measures design the same participants do both conditions, so **order effects arise** — they may improve through practice at the task or become fatigued or bored [1] [1]. They may also **guess the aim more easily, producing demand characteristics** [1]. This is addressed by **counterbalancing** — half the participants do the music condition first and half do silence first — and by using **different but equivalent word lists** [1].
 
-**6. Reconstructive memory** means that recall is **not a faithful playback but an active rebuilding of an event** [1], in which gaps are filled using **schemas, expectations and information encountered afterwards** [1]. **Accurate recall** would reproduce the original event unchanged [1].
+**6. Reconstructive memory** means that recall is **not a faithful playback but an active rebuilding of an event** [1], in which gaps are filled using **schemas, expectations and information encountered afterwards** — the concept of **'effort after meaning'**, where the memory is reshaped to make sense in terms of what is already known [1]. **Accurate recall** would reproduce the original event unchanged [1].
 **Implication for eyewitness testimony:** a witness's account can be **altered by leading questions and by post-event information** without the witness being aware of it [1] [1] — which is why police interviews should use **open, non-leading questions and why witnesses should be interviewed separately and promptly** [1].
 
-**7.** The **sensory store** encodes information in a modality-specific form, has a **very large capacity**, and holds it for **under 2 seconds** [1] [1]. The **short-term store** encodes mainly **acoustically**, has a capacity of around **5–9 items**, and holds information for **18–30 seconds** [1] [1]. The **long-term store** encodes mainly **semantically**, has an **unlimited capacity**, and can hold information for **up to a lifetime** [1] [1].
+**6a.** Any three: **interference**, **context**, **false memories** [1] [1] [1].
+
+**7.** **Structure:** information flows between three separate stores — the sensory register, short-term memory and long-term memory [1]. **Attention** transfers information from the sensory register into short-term memory, and **rehearsal** transfers information from short-term into long-term memory [1]. The **sensory store** encodes information in a modality-specific form, has a **very large capacity**, and holds it for **under 2 seconds** [1] [1]. The **short-term store** encodes mainly **acoustically**, has a capacity of around **5–9 items**, and holds information for **18–30 seconds** [1] [1]. The **long-term store** encodes mainly **semantically**, has an **unlimited capacity**, and can hold information for **up to a lifetime** [1] [1].
 
 **8. Proactive interference** occurs when **older, previously learned information disrupts the recall of newer information** [1] [1]. **Retroactive interference** occurs when **newly learned information disrupts the recall of older information** [1] [1].
 
@@ -91,6 +103,7 @@ Related: [Cognition and Behaviour revision notes](/resources/igcse-psychology-co
 ## Where marks are usually lost
 
 - Using "perception" and "sensation" interchangeably.
-- Writing a non-directional hypothesis when a directional one is asked for.
+- Writing an alternative hypothesis when a null hypothesis is asked for, or vice versa.
 - Naming control variables without saying why they matter.
 - Describing reconstructive memory without applying it to eyewitness testimony.
+- Stating the capacity and duration of each memory store without describing the model's structure (the flow between stores, attention as the first transfer mechanism, rehearsal as the second).
