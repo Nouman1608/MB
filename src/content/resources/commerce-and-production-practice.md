@@ -31,18 +31,18 @@ Related: [Commerce and Production revision notes](/resources/igcse-commerce-prod
 
 **1.** Define commerce and state its two branches. **[3]**
 
-**2.** Name **four** aids to trade and state the function of each. **[8]**
+**2.** Identify **four** aids to trade and state the function of each. **[8]**
 
 ## Section B
 
-**3.** Explain the three types of production, giving an example of each and explaining how they are interdependent. **[6]**
+**3.** Explain the three types of production in the chain of production, giving an example of each and explaining how they are interdependent. (The syllabus also names a fourth, quaternary sector — digital technology — which sits outside this raw-material-to-consumer chain.) **[6]**
 
 **4.** Explain the chain of distribution from producer to consumer.
 
 **(a)** Describe the role of the wholesaler, giving **three** functions. **[6]**
 **(b)** Explain **two** reasons why some producers now sell directly to consumers. **[4]**
 
-**5.** Distinguish between home trade and foreign trade, and between visible and invisible trade, giving an example of each. **[6]**
+**5.** Explain the difference between home trade and foreign trade, and between visible and invisible trade, giving an example of each. **[6]**
 
 **6.** Explain **three** ways in which improved transport and communication have changed commerce. **[6]**
 
@@ -50,11 +50,11 @@ Related: [Commerce and Production revision notes](/resources/igcse-commerce-prod
 
 ## Section C
 
-**7.** Distinguish between needs and wants, and explain the link between this distinction and the idea of opportunity cost. **[3]**
+**7.** Explain the difference between needs and wants, and explain the link between this distinction and the idea of opportunity cost. **[3]**
 
-**8.** Explain what is meant by *entrepot trade*, and give one reason a country might engage in it. **[3]**
+**8.** State the three contexts in which the syllabus requires the advantages and disadvantages of specialisation, and explain **one** advantage for each. **[6]**
 
-**9.** Tertiary production is divided into commercial services and direct personal services. Distinguish between them, giving **one** example of each. **[4]**
+**9.** Tertiary production is divided into commercial services and direct services. Explain the difference between them, giving **one** example of each. **[4]**
 
 ---
 
@@ -76,9 +76,9 @@ They are interdependent because **secondary industry cannot operate without the 
 
 **7.** **Needs** are essentials for survival, e.g. food, shelter and clothing [1]; **wants** are everything beyond that, and are effectively unlimited [1]. Because resources are finite while wants are not, choices must be made, and every choice carries an **opportunity cost** — the next best alternative given up [1].
 
-**8.** **Entrepot trade** is where goods are **imported into a country and then re-exported**, often after storage or minor processing, **without being consumed domestically** [1] [1]. A country may do this to profit from a **strategically located port**, earning income from storage, processing and re-export services even though the goods are never sold to its own consumers [1].
+**8.** **Individual** — e.g. becomes highly skilled and productive at one task [1] [1]. **Factory** — e.g. can mechanise and achieve economies of scale by producing one product or a narrow range [1] [1]. **Country** — e.g. can produce efficiently what it has a natural or acquired advantage in, and trade for the rest [1] [1].
 
-**9.** **Commercial services** are aids to trade that help industry and commerce **function**, e.g. banking, insurance or transport [1] [1]. **Direct personal services** serve **people directly**, e.g. teachers, doctors or hairdressers [1] [1].
+**9.** **Commercial services** are aids to trade that help industry and commerce **function**, e.g. banking, insurance or transport [1] [1]. **Direct services** serve **people directly**, e.g. teachers, doctors or hairdressers [1] [1].
 
 ---
 
@@ -88,5 +88,6 @@ They are interdependent because **secondary industry cannot operate without the 
 - Giving examples of the sectors without explaining interdependence.
 - Listing wholesaler functions without explaining the benefit to producer or retailer.
 - Confusing invisible trade with illegal or unrecorded trade.
-- Defining entrepot trade as simply "importing and exporting" — the mark requires stating that the goods are not consumed domestically.
-- Classing all services as one tertiary group, missing the commercial-services / direct-personal-services split.
+- Substituting "worker" or "region/town" for the syllabus's actual specialisation contexts — individual, factory and country.
+- Classing all services as one tertiary group, missing the commercial-services / direct-services split.
+- Forgetting the fourth (quaternary) sector when the question is about the sectors of production generally, rather than the primary-secondary-tertiary chain of production.

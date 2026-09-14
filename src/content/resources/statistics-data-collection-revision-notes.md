@@ -29,17 +29,18 @@ Condensed for the final weeks. For the full explanation, use the
    QUALITATIVE                QUANTITATIVE
    (categories)              /            \
                        DISCRETE        CONTINUOUS
-                     (counted)         (measured)
+                (separate values)   (any value in a range)
 ```
 
-- **Discrete** — only certain values: number of children, goals scored, shoe size (even where half sizes exist, the set of possible values is still finite and listable).
-- **Continuous** — any value in a range: height, mass, time (limited only by the precision of the measuring instrument used).
+- **Discrete** — takes only certain, separate values: number of children, goals scored, shoe size (even where half sizes exist, the set of possible values is still finite and listable). Discrete data is usually counted, but "counted vs measured" is a usual rule of thumb, not the deciding test.
+- **Continuous** — takes any value in a range: height, mass, time (limited only by the precision of the measuring instrument used). Continuous data is usually measured, but again that is a heuristic, not the definition.
 
 **Primary** = collected first-hand for this purpose, giving control over exactly what is measured and how. **Secondary** = already exists, collected by someone else for a different original purpose — faster and cheaper to obtain, but with no control over its accuracy or the exact definitions used.
 
-## Class boundaries for continuous data
+## Class boundaries for continuous data (previewing Topic 3 -- Frequency Distributions)
 
-A value recorded to a stated accuracy lies in an interval:
+Class boundaries are examined fully under Topic 3, but the underlying idea is needed as soon as continuous
+data is recorded to a stated accuracy, so it is previewed here. A value recorded to a stated accuracy lies in an interval:
 
 ```
 12.4 s to 1 d.p.   ->   12.35 <= t < 12.45
@@ -59,14 +60,19 @@ Lower bound uses **≤**, upper bound uses **<** — the convention avoids two a
 
 ## Sampling methods
 
+0479 names four sampling methods (a sampling frame is needed for all of them except quota):
+
 | Method | How | Weakness |
 |---|---|---|
 | Simple random | Random numbers; all equally likely | Needs a complete sampling frame |
 | Systematic | Every nth from a **random start** | Bias if the list is periodic |
 | Stratified | Proportional numbers from each group | Strata must be identifiable |
 | Quota | Set numbers per category, interviewer chooses | Not random; interviewer bias |
-| Cluster | Whole groups chosen at random | Less precise if clusters differ |
-| Opportunity | Whoever is available | Unrepresentative |
+
+**Background only -- not required by 0479.** Cluster sampling (whole groups chosen at random; less precise
+if clusters differ) and opportunity sampling (whoever is available; unrepresentative) are common wider
+sampling vocabulary, but they are not among the four methods 0479 names, so do not expect them to be
+examined by name in this code.
 
 **Stratified sample size** = (group size ÷ population) × sample size. Round so the parts still total correctly.
 

@@ -29,10 +29,13 @@ documents change hands, and how buyers and sellers communicate.
 Candidates sometimes assume that small-scale retailers are simply
 being squeezed out by supermarkets and online sellers; the syllabus
 explicitly asks candidates to explain why independent shops and
-market stalls continue to survive -- personal service, flexible
-opening hours, convenience and local knowledge of customers -- and
-examiners reward answers that engage with this survival, not just
-the growth of large-scale retailing.
+market stalls continue to survive, introducing its examples with "e.g."
+-- personal service, flexible opening hours and additional services
+provided -- as an illustrative, not closed, list. Convenience and
+local knowledge of customers are further legitimate examples beyond
+the syllabus's own three, not a substitute for them, and examiners
+reward answers that engage with this survival, not just the growth of
+large-scale retailing.
 
 ## Where this fits in 0715
 
@@ -66,7 +69,7 @@ agreed.
 **2.3 Retailing**
 - Types of small-scale and large-scale retailers -- itinerant retailers, vending machines, independent retailers, street markets, speciality shops, online retailers, multiple chain stores, supermarkets, hypermarkets and department stores -- and why small-scale retailers often survive alongside large ones
 - Retail selling techniques: branding, own brands, logos, packaging, self-service, after-sales service, barcoding, direct mail, loyalty programmes, informal credit and cash on delivery
-- Digital retail trends: omnichannel retailing, cashless stores, EPoS, click and collect, self-service checkouts, subscription commerce, QR codes, VR showrooms, dropshipping and mobile apps
+- Digital retail trends: omnichannel retailing, cashless stores, EPoS, click and collect, self-service checkouts, subscription commerce, QR codes, VR showrooms, dropshipping, mobile apps and multi-channel retailing
 - The positive and negative effects of ecommerce on traditional commerce
 
 **2.4 Wholesaling**
@@ -91,9 +94,11 @@ short scenarios into the right category before trying to recall every
 definition. Paper 2's structured questions frequently ask candidates
 to justify a choice (which type of retailer, which document, which
 communication method) against a given business situation, which means
-AO3 marks depend on applying the reasons above to the specific
-context in the question rather than listing them in the abstract.
-Build a simple table of the six document types against what triggers
+AO2 (application) marks depend on applying the reasons above to the specific
+context in the question rather than listing them in the abstract, while
+the reasoned judgement or recommendation that follows is where AO3
+(analysis and evaluation) is rewarded.
+Build a simple table of the eight document types against what triggers
 each one in a transaction (enquiry before an order, invoice after
 delivery, credit note when goods are returned) -- this sequencing is a
 common source of confidence in Paper 2 answers.

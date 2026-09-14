@@ -94,6 +94,9 @@ document.
 Cambridge O Level Commerce (7100) syllabus for examination 2026,
 2027 and 2028 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/693604-2026-2028-syllabus.pdf).
+Note: 7100 is available in zones 3, 4 and 5 in 2026-2027, and in zone 4
+only from 2028 (a zone restriction, not a withdrawal) — confirm current
+availability for your zone on the official subject page.
 
 ## Private versus public sector
 
@@ -137,7 +140,9 @@ Retailing has moved well beyond the physical shop: omnichannel
 retailing, click and collect, self-service checkouts and mobile apps
 now sit alongside independent shops and department stores. Small
 independent retailers typically survive through personal service,
-flexible hours and local convenience -- advantages a supermarket
+flexible opening hours and additional services provided (the syllabus's
+own illustrative examples), as well as further advantages such as local
+convenience -- benefits a supermarket
 chain cannot easily replicate.
 
 Wholesalers still matter in a digital economy because they break

@@ -25,7 +25,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Skills, not content.** Revising facts about a topic is largely wasted; practising the analytical moves is what raises the grade.
 
-The moves: identify perspectives · analyse arguments · evaluate evidence · construct your own reasoning · reflect.
+The moves: identify perspectives · analyse arguments · evaluate evidence · construct your own reasoning. (Reflection is **not** one of the moves credited in this paper -- see below.)
 
 ## The paper's structure
 
@@ -60,9 +60,25 @@ tested, not a bonus.
 
 A perspective is **not** just an opinion — it has reasoning behind it.
 
+0457's own syllabus names eight terms candidates will benefit from
+understanding specifically for the Written Exam. Four of them --
+**bias**, **claim**, **fact** and **opinion** -- already come up
+throughout this guide and the practice questions. The other four are
+easy to miss, so learn them explicitly:
+
+| Term | Meaning |
+|---|---|
+| **Generalisation** | A broad conclusion drawn from a limited number of cases, which may not hold true more widely |
+| **Prediction** | A statement about what is expected to happen in future, based on current evidence or trends -- distinct from a fact, which can already be checked |
+| **Value** | An underlying belief about what matters or what is right, which shapes why someone holds a particular perspective |
+| **Vested interest** | A personal or financial stake in a particular outcome, which can motivate a one-sided view of an issue |
+
+(9239, the A-Level sibling qualification, names a wider and different
+set of terms for its own written paper -- don't mix the two lists.)
+
 ## The three levels
 
-Always consider an issue at **personal**, **national** and **global** level. Moving between them is a marker of a strong answer.
+Always consider an issue at **personal**, **local and/or national**, and **global** level. Moving between them is a marker of a strong answer.
 
 ## Evaluating a source — six criteria
 
@@ -118,7 +134,11 @@ drawn from it still overreaches.
 2. Source material used as **evidence**, not summarised.
 3. A **counter-argument** genuinely considered and responded to.
 4. A conclusion that follows from the reasoning.
-5. **Reflection** — how and why your view developed. Frequently skipped; it carries marks.
+
+Note: reflection is **not** part of this list. The Written Exam's own
+AO2 (Reflection) weighting is 0% -- unlike the Individual Report and
+Team Project, where reflecting on how and why your view changed
+genuinely does carry marks.
 
 ## Exam traps
 
@@ -126,8 +146,7 @@ drawn from it still overreaches.
 - Asserting bias without evidence from the text.
 - Treating an assertion as evidence.
 - Presenting a counter-argument then ignoring it.
-- Staying at one level (usually global) and never reaching personal or national.
-- Omitting reflection entirely.
+- Staying at one level (usually global) and never reaching personal or local/national.
 
 ## Self-test
 
@@ -135,9 +154,9 @@ drawn from it still overreaches.
 2. A source says "a survey of 150 people in one town shows the nation supports the policy." Give two weaknesses.
 3. What are the three levels at which issues should be considered?
 4. How should you demonstrate that a source is biased?
-5. Why is reflection worth writing?
+5. Is reflection credited in the Written Exam?
 
-**Answers:** 1. An argument offers a conclusion supported by reasons; an assertion is a bare claim with no support. 2. The sample is small and geographically narrow (one town), so it cannot support a national claim; no information on how respondents were selected, so it may not be representative. 3. Personal, national, global. 4. Quote the loaded or one-sided wording and explain whose interest that phrasing serves. 5. It is directly credited — it shows awareness that your own view has developed in response to evidence, which is the point of the course.
+**Answers:** 1. An argument offers a conclusion supported by reasons; an assertion is a bare claim with no support. 2. The sample is small and geographically narrow (one town), so it cannot support a national claim; no information on how respondents were selected, so it may not be representative. 3. Personal, local and/or national, global. 4. Quote the loaded or one-sided wording and explain whose interest that phrasing serves. 5. No -- the Written Exam's AO2 weighting is 0%; reflection is credited in the Individual Report and Team Project instead.
 
 6. How long is Component 1 and how many marks is it worth?
 7. What is a hidden assumption, and how does it differ from stated evidence?

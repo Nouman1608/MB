@@ -80,7 +80,7 @@ examination 2027, 2028 and 2029 —
 
 A **natural resource** is any material or energy source from the environment that people find useful.
 
-- **Renewable** resources replenish naturally within a human timescale — solar, wind, wave, tidal, geothermal, hydroelectric.
+- **Renewable** resources replenish naturally within a human timescale — biofuels (bioethanol, biomass, biogas and wood), geothermal power, hydro-electric power, tidal power, wave power, solar power and wind power.
 - **Non-renewable** resources exist in a fixed stock and are consumed faster than they form — coal, oil, natural gas, and mineral ores.
 - **Sustainable** is not a synonym for renewable. A renewable resource can be used unsustainably: a forest is renewable, but if felling outpaces regrowth the stock still collapses. **Sustainable use** means meeting present needs without preventing future generations from meeting theirs.
 
@@ -97,12 +97,44 @@ Their costs are the reason the topic exists: carbon dioxide driving the enhanced
 | Solar | No fuel cost, no emissions in use, good in low-latitude countries | Intermittent, needs storage, large land area |
 | Wind | No emissions in use, land beneath remains usable | Intermittent, visual and noise objections |
 | HEP | Reliable, long-lived, allows flood control | Dam displaces people and habitat, high capital cost, silting |
-| Geothermal | Continuous output, small footprint | Only viable in tectonically active areas |
-| Biomass | Uses waste, can be carbon-neutral if replanted | Combustion pollutants, competes with food for land |
+| Geothermal | Continuous output, small footprint | Electricity generation only viable in tectonically active areas -- ground/air source heat pumps for heating work anywhere |
+| Biofuels (bioethanol, biomass, biogas, wood) | Use waste, can be carbon-neutral if replanted | Combustion pollutants, competes with food for land |
 
-## Water as a resource
+## Rocks, ores and minerals (1.1–1.3)
 
-Fresh water is renewable through the water cycle but unevenly distributed. Demand rises with population, irrigation and industry, while supply is reduced by pollution, over-abstraction of aquifers and salinisation of irrigated soils. Management includes reservoirs, desalination, drip irrigation, leak reduction, water recycling and pricing to discourage waste.
+Half of this topic's six sub-topics are about rocks, not energy, and are covered here in outline —
+for the full detail, see the [Rocks and Minerals guide](/resources/o-level-cambridge-environmental-management-rocks-and-minerals/)
+(written for the sibling O Level, but the rock content is shared).
+
+**Formation (1.1).** Igneous rocks (granite, basalt) form by the cooling and solidification of magma
+or lava. Sedimentary rocks (limestone, sandstone, shale) form from eroded particles compacted and
+cemented in layers, and commonly contain fossils. Metamorphic rocks (marble, from limestone; slate,
+from shale) form when existing rock is altered by heat and pressure without melting — fossils
+generally do not survive this, though low-grade metamorphic rock such as slate can rarely preserve
+distorted ones. The rock cycle links all three types through weathering, erosion, transportation,
+sedimentation, compaction, cementation, crystallisation and deposition, and it **branches** rather
+than following one fixed loop — any rock type can be weathered directly, and sedimentary rock can melt
+directly without first becoming metamorphic. **Permeability** is the ability of water to pass through
+the pore spaces of rock and soil: most sedimentary rocks (limestone, sandstone) are permeable; igneous,
+metamorphic and some sedimentary rocks (shale) are impermeable.
+
+**Extraction (1.2).** An **ore** is defined as rock containing minerals and metals — a mineral itself
+is a naturally occurring solid with a definite chemical composition and crystalline structure,
+regardless of whether it is mined. Three extraction methods are named: **surface extraction**
+(opencast, open-pit, open-cut, strip mining), **subsurface extraction** (deep mining, shaft mining) and
+**biological extraction** (phytomining and bioleaching — using plants or microorganisms to recover
+metals from low-grade ore). The decision to extract depends on exploration findings, geology,
+accessibility and terrain, the quantity and quality of the deposit (ore grade), climate, environmental
+impact assessment, and supply, demand, cost and profit. Impacts span habitat and biodiversity loss;
+air, land, noise, visual and water pollution; water usage; waste management; and changes to
+employment, local/national economies, and infrastructure. Management strategies include land
+restoration (replacing overburden, soil improvement, bioremediation, tree planting) and repurposing
+land (landfill, lakes, recreation, nature reserves).
+
+**Sustainable management (1.3).** A finite resource is used up faster than it is replaced. Sustainable
+management strategies include reduce and reuse; recycling (accessibility, ease, education); increased
+extraction efficiency; avoiding resource depletion; legislation and enforcement; and using alternative
+materials.
 
 ## Sustainable management
 
@@ -124,12 +156,15 @@ The question asks why abundance is not enough — cost, intermittency and infras
 
 ## Common mistakes
 
-Using renewable and sustainable interchangeably. Saying solar and wind produce "no pollution" without the qualifier *in use*, ignoring manufacturing emissions. Describing HEP as having no environmental impact. Listing renewable sources without evaluating limitations when the question says "evaluate". Forgetting that fresh water can be depleted despite being renewable.
+Using renewable and sustainable interchangeably. Saying solar and wind produce "no pollution" without the qualifier *in use*, ignoring manufacturing emissions. Describing HEP as having no environmental impact. Listing renewable sources without their limitations when the question says "discuss the benefits and limitations" -- 0680's own command-word table has no "evaluate" entry, so this stem is how the syllabus actually phrases the instruction. Forgetting that fresh water can be depleted despite being renewable.
 
 ## Quick revision checklist
 
 - Classify resources as renewable or non-renewable and explain why sustainable means something different.
 - Explain how fossil fuels form and give balanced advantages and disadvantages.
-- Evaluate at least four renewable sources with strengths and limitations.
-- Explain the causes of water scarcity and describe management strategies.
+- Discuss the benefits and limitations of at least four renewable sources.
+- Describe how each of the three rock types forms, and define ore, permeability and finite resource.
+- Name the three rock/ore extraction methods, including the two biological-extraction processes.
 - Apply the use less / use again / substitute / restore framework to any resource.
+- Water supply, demand and scarcity belong to Topic 3 (Water), not this topic — see the
+  [Water guide](/resources/igcse-cambridge-environmental-management-water/) for that content.

@@ -24,8 +24,9 @@ series. Where Topic 1 (Natural resources) dealt with rocks, minerals
 and energy and Topic 2 (Land) dealt with soil and agriculture, Topic 3
 turns to water as both a resource and a source of environmental and
 health risk — how it is sourced and supplied, how it becomes polluted,
-the diseases linked to it, and how marine species are farmed once
-overfishing has depleted wild stocks.
+the diseases linked to it, how marine species are farmed once
+overfishing has depleted wild stocks, and two further marine pollution
+problems, oil and plastic, that close out the topic's six sub-topics.
 
 ## Where this fits in 0680
 
@@ -73,7 +74,33 @@ list, which is a strong signal of exactly what examiners can ask.
   (overfishing, overharvesting, effects on target and bycatch species
   and on food chains); the definition of marine aquaculture as farming
   marine species (fish, crustaceans, seaweeds) in captivity — knowledge
-  of specific species is explicitly not required
+  of specific species is not required for that definition outcome only;
+  the impacts of marine aquaculture itself (reduced exploitation of
+  natural fisheries, increased food supply, risk of escape and disease,
+  effects on local food webs, nutrient enrichment from waste, energy
+  usage, and being a source of food for farmed species); and a
+  nine-item list of strategies for managing the harvesting of marine
+  species (boat/net size limits, increased mesh size, sustainable
+  methods such as pole and line, quotas, closed seasons, limited
+  fishing days, protected areas, conservation laws, and international
+  agreements)
+- 3.5 Oil pollution — the causes of oil pollution on marine and coastal
+  ecosystems (off-shore/on-shore extraction, pipelines, shipping,
+  tank-cleaning at sea, refineries); its impacts on birds, marine
+  mammals, fish, crustaceans, seaweeds, coral reefs and beaches;
+  prevention strategies (MARPOL, the International Convention for the
+  Prevention of Pollution from Ships, double-hulled tankers, risk
+  assessments, regular maintenance); and strategies for minimising
+  spill impacts (improved navigation, booms and sorbents, detergent
+  sprays, skimmers, controlled burning)
+- 3.6 Plastic pollution — conventional, bio-, biodegradable and
+  non-biodegradable plastics; microplastics (formed when larger
+  plastics break down, and defined as less than 5mm in length); the
+  impacts of plastic pollution on marine ecosystems (visual pollution,
+  entanglement, being mistaken for food, bioaccumulation and
+  biomagnification); and management strategies (alternative packaging,
+  avoiding single-use plastics, safe disposal, recycling, legislation
+  and enforcement)
 
 ## Water sources and supply (3.1)
 
@@ -120,12 +147,32 @@ spraying programmes, or vaccination access gaps) rather than a generic
 
 ## Marine aquaculture (3.4)
 
-This is the shortest sub-topic and deliberately does not require
-species-specific knowledge — focus instead on the *reasons* wild
-marine stocks are exploited (overfishing, overharvesting), the
-distinction between target and bycatch species, and how aquaculture of
-fish, crustaceans and seaweeds is presented as a response to that
-exploitation rather than a separate, unrelated topic.
+With five learning outcomes against three and four for its water-pollution and disease neighbours,
+this is actually one of the larger sub-topics in Topic 3, even though only one specific outcome within
+it (defining marine aquaculture itself) says species-specific knowledge is not required. Cover the
+*reasons* wild marine stocks are exploited (overfishing, overharvesting), the distinction between
+target and bycatch species, the impacts of aquaculture itself (not just of wild exploitation) on food
+webs, disease risk and energy use, and the full nine-item list of strategies for managing the
+harvesting of marine species — not just the definition of aquaculture in isolation.
+
+## Oil pollution (3.5)
+
+Learn causes and impacts as linked pairs, then keep prevention strategies (MARPOL, double-hulled
+tankers, risk assessments, regular maintenance) separate in your mind from strategies for minimising
+the impact of a spill that has already happened (navigation systems, booms and sorbents, detergent
+sprays, skimmers, controlled burning) — a "describe strategies for prevention" question and a "describe
+strategies for minimising impact" question draw on two different lists.
+
+## Plastic pollution (3.6)
+
+New for this cycle. Distinguish conventional plastics (fossil-fuel-derived, generally
+non-biodegradable) from bioplastics (made fully or partly from biological raw materials, which can
+themselves be biodegradable or not) — being made from biological material does not automatically mean
+a plastic biodegrades. Microplastics are defined by a specific numerical threshold (less than 5mm) as
+well as by how they form (larger plastics breaking down), and their impacts on marine ecosystems
+(visual pollution, entanglement, being mistaken for food, bioaccumulation and biomagnification) pair
+with named management strategies (alternative packaging, avoiding single-use plastics, safe disposal,
+recycling, legislation and enforcement).
 
 ## Common mistakes
 
@@ -136,19 +183,26 @@ exploitation rather than a separate, unrelated topic.
 - **Mixing up malaria and cholera control strategies** — vector control
   applies to malaria, not cholera, and vice versa for sanitation-based
   measures.
-- **Adding species-specific detail to marine aquaculture answers**
-  that the syllabus explicitly does not require.
+- **Adding species-specific detail to the marine-aquaculture
+  definition outcome**, the one place the syllabus explicitly does
+  not require it.
+- **Stopping revision at marine aquaculture (3.4)** and treating Topic
+  3 as running only 1st-to-4th — two more sub-topics, oil pollution
+  and plastic pollution, follow it and are equally examinable.
 
 ## How to approach it
 
-Work through 3.1–3.4 as a chain: source and supply of water, how it
-becomes polluted, the diseases that follow from poor water quality, and
-finally how the pressure on wild marine resources (a consequence of
-both overfishing and pollution) is being addressed through aquaculture.
-Practise past-paper "discuss the benefits and limitations" questions
+Work through 3.1–3.6 as a chain: source and supply of water, how it
+becomes polluted, the diseases that follow from poor water quality, how
+the pressure on wild marine resources (a consequence of both
+overfishing and pollution) is being addressed through aquaculture, and
+finally two more specific marine pollution problems — oil and plastic —
+each with its own causes, impacts and management strategies. Practise
+past-paper "discuss the benefits and limitations" questions
 specifically for desalination and multipurpose dams, since these two
 sub-topics are the most frequently examined evaluative questions in
-Topic 3.
+Topic 3, but do not neglect oil and plastic pollution on the assumption
+that the topic ends at marine aquaculture.
 
 ## Related resources
 

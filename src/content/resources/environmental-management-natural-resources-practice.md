@@ -39,7 +39,7 @@ Related: [Natural Resources revision notes](/resources/environmental-management-
 
 **4.** Explain the advantages and disadvantages of **three** renewable energy sources. **[12]**
 
-**5.** Explain **four** causes of water scarcity and **two** strategies for managing water supply sustainably. **[10]**
+**5.** Explain **four** factors that affect the decision to extract rocks, ores and minerals, and describe the **two** named biological extraction processes. **[10]**
 
 **6.** Explain why a country may continue to rely on fossil fuels despite knowing the environmental costs, giving **three** reasons. **[6]**
 
@@ -65,12 +65,12 @@ Related: [Natural Resources revision notes](/resources/environmental-management-
 **Hydroelectric** — advantages: **reliable and controllable, with output adjustable to demand**; the reservoir also provides water supply, flood control and irrigation [1] [1]. Disadvantages: **very high construction cost and the flooding of large valleys**, displacing communities and destroying habitat; **sediment is trapped behind the dam**, reducing downstream fertility [1] [1].
 **Biomass** — advantages: **carbon-neutral in principle if replanted**, and uses agricultural and forestry waste [1] [1]. Disadvantages: **releases particulates when burned**, and growing fuel crops **competes with food production for land** [1] [1].
 
-**5. Causes**, any four: **population growth and urbanisation** raise demand faster than supply can be developed [1]; **agriculture**, which accounts for around 70% of freshwater use, often through inefficient flood irrigation [1]; **pollution** of rivers and aquifers by industry, sewage and agricultural runoff, which removes usable supply [1]; **over-abstraction of groundwater** faster than aquifers recharge, causing water tables to fall [1]; **climate change and drought**, altering rainfall patterns and reducing glacier-fed river flow [1]; **uneven distribution**, since supply and demand are often in different places, and **shared rivers** create international disputes [1].
-**Strategies**, 2 marks each: **drip irrigation and lining canals** deliver water directly to plant roots and cut losses to evaporation and seepage, greatly increasing agricultural efficiency [1] [1]. **Rainwater harvesting and greywater recycling** capture water that would otherwise be lost and reduce demand on mains supply [1] [1]. (Also accept: metering and pricing to reduce waste; desalination; repairing leaking pipes; treating and reusing wastewater.)
+**5. Factors**, any four, 1 mark each: **exploration** findings, showing whether a deposit is worth pursuing [1]; **geology**, including how the deposit is structured [1]; **accessibility and terrain** [1]; the **quantity and quality of the deposit (ore grade)** [1]; **climate** [1]; **environmental impact assessment** findings [1]; **supply and demand** for the resource [1]; **cost and profit**, including extraction cost against market price [1].
+**Biological extraction processes**, 3 marks each: **phytomining** — growing plants on low-grade ore-bearing soil so they absorb metal ions through their roots, then harvesting and burning the plants to recover the metal from the ash [1] [1] [1]. **Bioleaching** — using bacteria to break down ore and release metal ions into a solution, from which the metal can then be recovered [1] [1] [1].
 
 **6.** Any three, 2 marks each: **existing infrastructure represents an enormous sunk investment** — power stations, refineries and distribution networks — which would be costly to abandon before the end of its life [1] [1]. **Fossil fuels remain cheaper and more reliable** for baseload generation in many countries, and cheap energy supports industrial competitiveness and keeps consumer bills low [1] [1]. **Employment and government revenue** depend on the industry, so closure carries a heavy political and social cost in mining and oil regions [1] [1]. **Renewable capacity cannot be built quickly enough** to replace demand, and storage technology is still expensive, so a transition period is unavoidable [1] [1].
 
-**7.** Advantage: geothermal energy provides **continuous, reliable output**, unlike solar or wind, because it does not depend on weather conditions [1] [1]. Disadvantage: it is **only viable in tectonically active areas**, where hot rock lies close enough to the surface to be accessed economically, so most countries cannot use it at scale [1] [1].
+**7.** Advantage: geothermal energy provides **continuous, reliable output**, unlike solar or wind, because it does not depend on weather conditions [1] [1]. Disadvantage: large-scale **electricity generation** is **only viable in tectonically active areas**, where hot rock lies close enough to the surface to be accessed economically, so most countries cannot generate electricity this way at scale — though ground- and air-source heat pumps let any country use geothermal heat for heating regardless of location [1] [1].
 
 **8. Use less** — reducing consumption through efficiency and conservation, e.g. more efficient appliances or better insulation reducing energy demand [1] [1]. **Use again** — reusing or recycling materials rather than extracting new resources, e.g. recycling metal and glass, or reusing greywater [1] [1]. **Substitute** — replacing a non-renewable resource with a renewable alternative, e.g. switching from coal-fired power to wind or solar generation [1] [1]. **Restore** — actively repairing damaged environments, e.g. replanting forests, rehabilitating mined land, or establishing protected areas [1] [1].
 
@@ -80,5 +80,5 @@ Related: [Natural Resources revision notes](/resources/environmental-management-
 
 - Calling timber non-renewable, or gold renewable because it can be recycled.
 - Giving advantages of renewables without their land or intermittency costs.
-- Listing causes of water scarcity without distinguishing physical from economic scarcity.
+- Naming only surface and subsurface extraction and forgetting biological extraction as the third method.
 - Ignoring the economic and political reasons for fossil fuel dependence.

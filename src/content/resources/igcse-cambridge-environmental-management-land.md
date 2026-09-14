@@ -76,8 +76,8 @@ following season's yield (2.3) -- at which point terracing, contour
 ploughing or maintaining a vegetation buffer become the practical
 fixes examiners expect candidates to suggest. Working through a
 chain like this, rather than memorising 2.1, 2.2 and 2.3 as separate
-lists, is what turns recall into the application Cambridge rewards
-in Paper 2's structured questions.
+lists, is what turns recall into the kind of application both papers
+reward through their structured and extended-response questions.
 
 ## How to approach it
 
@@ -97,11 +97,19 @@ you know, is what earns application and evaluation marks. It is also
 worth being precise about definitions the syllabus states explicitly,
 such as "sustainable food production" and the difference between
 subsistence and commercial agriculture, since these are common short
-recall questions on Paper 1. Command words matter here too: a
-"describe" question on soil composition wants the named components in
-context, while an "explain and evaluate" question on erosion
-strategies wants candidates to weigh a strategy's effectiveness
-against its cost or practicality in the given scenario, not simply
+recall targets. Paper 1 (Principles of Environmental Management) and
+Paper 2 (Environmental Management in Context) are the same length and
+carry equal weight, but they emphasise different assessment objectives:
+Paper 1 is weighted towards knowledge and recall (AO1 55% of its
+marks), while Paper 2 leans towards analysis and judgement (AO3 40% of
+its marks) -- both papers include short-answer, structured and
+extended-response questions based on source material, so "structured
+questions" is not a feature unique to either one. Command words matter
+here too: a "describe" question on soil composition wants the named
+components in context, while a "discuss the benefits and limitations"
+question on erosion strategies wants candidates to weigh a strategy's
+effectiveness against its cost or practicality in the given scenario,
+not simply
 name it.
 
 ## Official syllabus

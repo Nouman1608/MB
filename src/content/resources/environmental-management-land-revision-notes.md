@@ -92,15 +92,19 @@ generate this kind of contrast on demand, rather than only reciting the strategy
 signals to an examiner that you understand why a strategy is sustainable rather than just that it is
 labelled as such.
 
-## Command words specific to this topic
+## Command words specific to this topic, and how the two papers differ
 
-Cambridge Paper 1 tends to test soil composition with **"describe"** questions expecting the named
-components in context (mineral particles, organic content, gases, water, and why each matters for
-crop growth), while erosion-strategy questions more often use **"explain and evaluate,"** which wants
-candidates to weigh a strategy's effectiveness against its cost or practicality in the given scenario,
-not simply name it. Preparing separate answer structures for these two command-word families — factual
-description versus weighed evaluation — avoids under-answering a question that asks for more than
-recall.
+Soil composition questions typically use **"describe,"** expecting the named components in context
+(mineral particles, organic content, gases, water, and why each matters for crop growth), while
+erosion-strategy questions more often use **"discuss the benefits and limitations,"** the syllabus's
+own stem for weighing a strategy's effectiveness against its cost or practicality in the given scenario,
+not simply naming it. Paper 1 (Principles of Environmental Management) and Paper 2 (Environmental
+Management in Context) are equally weighted and the same length, and both include short-answer,
+structured and extended-response questions based on source material — the real difference between them
+is in assessment-objective emphasis: Paper 1 leans towards knowledge and recall (AO1 is 55% of its
+marks), Paper 2 towards analysis and judgement (AO3 is 40% of its marks). Preparing separate answer
+structures for the two command-word families above — factual description versus weighed discussion —
+avoids under-answering a question that asks for more than recall, on either paper.
 
 ## Exam traps
 
@@ -108,8 +112,11 @@ recall.
 - Naming an erosion-reduction strategy without matching it to the specific problem in the scenario.
 - Confusing subsistence and commercial agriculture, or skipping the exact wording of "sustainable food
   production."
-- Answering "explain and evaluate" questions on erosion strategies by only naming them, without
-  weighing effectiveness against cost or practicality.
+- Answering "discuss the benefits and limitations" questions on erosion strategies by only naming
+  strategies, without weighing effectiveness against cost or practicality.
+- Treating "structured questions" as something only Paper 2 has, or Paper 1 as a pure-recall paper —
+  both papers combine short-answer, structured and extended-response questions; they differ in AO
+  emphasis, not question style.
 
 ## Self-test
 

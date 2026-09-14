@@ -31,11 +31,13 @@ traditional subject.
 
 All 0457 candidates sit Component 1 (Written Exam) and Component 3
 (Team Project) alongside Component 2. The Individual Report is
-internally set by the candidate's own teacher but externally marked
-by Cambridge International, worth 30% of the qualification, and is
-the component where candidates work most independently, since it must
-be entirely the candidate's own work researched and written outside
-timed exam conditions.
+internally set and externally marked by Cambridge International, worth
+30% of the qualification. Candidates devise their own research
+question and title -- the teacher's role is limited to guiding its
+feasibility, not setting it -- and it is the component where
+candidates work most independently, since it must be entirely the
+candidate's own work researched and written outside timed exam
+conditions.
 
 ## Syllabus coverage
 
@@ -72,16 +74,22 @@ what extent should [named country] restrict [named industry] to
 protect [named resource]?" already builds in a specific place, a
 specific issue and room for more than one perspective, whereas a
 broad topic title on its own ("Climate change") does not give
-enough structure to organise 1500-2000 words around. Build the report
-in the order the criteria expect -- explain the issue and its
-different perspectives first, analyse causes and consequences second,
-evaluate possible courses of action third, and reflect and conclude
-last -- since examiners are marking against this structure, not
-rewarding a well-argued essay that happens to cover the same ground
-in a different order. Keep a running reference list from the first
-source read, rather than trying to reconstruct it at the end, since
-incomplete or inconsistent referencing is one of the most common
-reasons reports lose marks on the evaluation criterion.
+enough structure to organise 1500-2000 words around. Build the report broadly
+in the sequence the syllabus itself recommends -- explain the issue and
+its different perspectives first, analyse causes and consequences
+second, evaluate possible courses of action third, and reflect and
+conclude last. Cambridge does not publish detailed marking criteria
+for this component (unlike Component 3, which carries full mark
+tables), so there is no published rule that marks depend on following
+this exact order -- but the recommended sequence maps directly onto
+everything the syllabus says the report should cover, so following it
+makes each of those (unpublished) requirements far easier to evidence
+clearly. Keep a running reference list from the first source read,
+rather than trying to reconstruct it at the end, since incomplete or
+inconsistent referencing is one of the most common reasons reports
+lose marks on the communication criterion (citations and references
+sit under AO3 Communication, distinct from AO1 Evaluation of a
+source's own reliability and credibility).
 
 Because assessment is skills-based rather than content-based, the same
 five criteria -- research, analysis, evaluation, reflection and

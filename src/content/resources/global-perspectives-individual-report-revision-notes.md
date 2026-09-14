@@ -44,7 +44,7 @@ This single question already sets up at least two perspectives (an upstream gove
 its own agriculture; a downstream government facing shortages) that the report can research, compare
 and evaluate before proposing a course of action.
 
-## Structure in the order the criteria expect
+## Structure in the syllabus's recommended order
 
 1. **Explain the issue and its different perspectives** — local and/or national alongside global.
 2. **Analyse causes and consequences** of the conflict or disagreement.
@@ -52,14 +52,18 @@ and evaluate before proposing a course of action.
 4. **Reflect and conclude** — your own view, your learning, and others' perspectives, directly
    answering the research question.
 
-Examiners mark **against this structure** — a well-argued essay covering the same ground in a
-different order scores lower than a report built in this exact sequence.
+The syllabus sets out this sequence as its recommended structure, but does **not** publish a mark
+scheme or detailed marking criteria for this component (unlike Component 3, which does carry mark
+tables) — so there is no published rule that a differently-ordered report scores lower. Following the
+recommended sequence simply makes it far easier to evidence everything the syllabus says the report
+should cover.
 
 ## Referencing — start on day one
 
 Keep a running reference list from the **first source read**, not reconstructed at the end.
 Incomplete or inconsistent referencing is one of the most common reasons reports lose marks on the
-evaluation criterion. No single required style, but it must be **clear and consistently applied**.
+**communication** criterion (citations and references sit under AO3 Communication). No single required
+style, but it must be **clear and consistently applied**.
 
 ## Evaluating sources — not just citing them
 
@@ -111,8 +115,10 @@ country chosen.
 ## Exam traps
 
 - Choosing a broad topic title with no built-in perspective or scope.
-- Writing a persuasive essay structure instead of following the research → analyse → evaluate →
-  reflect order.
+- Writing a persuasive essay structure instead of the syllabus's recommended research → analyse →
+  evaluate → reflect order, which makes it harder to evidence every required element clearly (there
+  is no published mark penalty for the ordering itself, but a disorganised report risks leaving
+  requirements under-evidenced).
 - Stating perspectives without explaining why they differ.
 - Reconstructing references at the end rather than logging them as sources are used.
 

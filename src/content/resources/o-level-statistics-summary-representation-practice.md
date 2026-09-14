@@ -37,8 +37,8 @@ Related: [Topic 2 study guide](/resources/o-level-cambridge-statistics-summary-r
 
 ## Section B
 
-**3.** A dataset of 30 exam scores needs to be represented so both the median and the spread (including
-any outliers) are clearly visible. Recommend a suitable chart type and justify your choice. **[4]**
+**3.** A dataset of 30 exam scores needs to be represented so both the median and the spread of the data
+are clearly visible. Recommend a suitable chart type and justify your choice. **[4]**
 
 **4.** A researcher wants to compare the proportion of a school's budget spent on four categories in two
 different years. Recommend a suitable chart type and explain **one** advantage and **one** disadvantage
@@ -61,12 +61,15 @@ standard bar chart of grouped data loses the individual values once grouped [1].
 
 **3.** A **box-and-whisker diagram** is most suitable [1], because it directly displays the median as
 the central line of the box [1], shows the spread of the middle 50% of the data via the interquartile
-range (the box width) [1], and clearly marks any outliers separately from the whiskers, which a simple
-bar chart or pie chart cannot show [1].
+range (the box width) [1], and shows the full spread from minimum to maximum via the whiskers, which a
+simple bar chart or pie chart cannot show [1].
 
-**4.** A **comparative pie chart** (two pie charts, one per year) is suitable [1], since a pie chart's
-main advantage is showing each category's proportion of the whole clearly at a glance [1] [1]. The main
-disadvantage is that comparing *exact* values between the two years is harder than with a bar chart,
+**4.** A **comparative pie chart** is suitable [2] (1 mark for naming the chart type, 1 mark for linking
+it to the specific two-year comparison required -- note this is more than two pie charts of the same
+size side by side: the standard convention scales each chart's radius to the square root of its total, so
+the two circles' relative sizes also show the difference between the two years' totals), since a pie
+chart's main advantage is showing each category's proportion of the whole clearly at a glance [1] [1]. The
+main disadvantage is that comparing *exact* values between the two years is harder than with a bar chart,
 since angle/area comparisons are less precise than reading bar heights against a scale [1] [1].
 
 **5.** Any two of: which flavour sold best at each branch individually [1] [1]; which branch had higher
@@ -84,7 +87,7 @@ representation already given. Treat these as three separate skills to practise i
 assuming fluency in one implies fluency in the others — a candidate who can draw a box-and-whisker
 diagram perfectly may still lose marks on a question asking them to justify why it, rather than a bar
 chart, suits a given dataset. When justifying a chart choice, always name the *specific* feature of the
-data (proportions of a whole, individual values needing preservation, spread and outliers) that makes
+data (proportions of a whole, individual values needing preservation, spread and median) that makes
 your chosen chart the right fit, since a generic "it's clear and easy to read" answer earns no marks —
 examiners are testing matched judgement, not general chart appreciation.
 
@@ -95,7 +98,7 @@ skills, revision is most effective when each skill is drilled in isolation befor
 by drawing every named chart type from the same simple raw dataset, so the differences in what each
 chart preserves and obscures become obvious side by side. Then practise the choose-the-right-chart skill
 separately, using short scenario prompts (a proportion-of-a-whole dataset, a dataset needing individual
-values preserved, a dataset needing spread and outliers shown) and forcing yourself to name the specific
+values preserved, a dataset needing spread and median shown) and forcing yourself to name the specific
 feature of each scenario that determines the answer. Only once both of those are secure does it make
 sense to practise the interpretation skill on completed charts and tables, since interpretation depends
 on already knowing what each chart type is naturally suited to showing.

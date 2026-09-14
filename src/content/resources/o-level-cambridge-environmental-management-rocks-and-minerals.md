@@ -19,13 +19,28 @@ featured: false
 ---
 
 This guide covers **Topic 1 Rocks and Minerals and Their
-Exploitation**, the first of nine topics in Cambridge O Level
-Environmental Management (5014), for examination 2025-2026. The
+Exploitation**, the first of nine topics in the **outgoing 2025-2026
+edition** of Cambridge O Level Environmental Management (5014). The
 syllabus shares content with sibling Cambridge IGCSE Environmental
 Management (0680) -- textbooks endorsed for 0680 are suitable for use
-with this O Level too, though this qualification retains an older
-nine-topic structure rather than 0680's more recent seven-topic
-version.
+with this O Level too.
+
+**Which edition this guide covers:** 5014 currently has two live
+editions. This guide follows the **outgoing 2025-2026 syllabus**
+(version 2), which keeps the older nine-topic structure and is
+available for its final sitting in only one administrative territory
+(Mauritius, in the November series) -- check with your centre whether
+you are on this edition or the newer one. A **2027-2029 edition** of
+5014 has already been published and restructures the subject into
+**seven topics**, matching 0680's current structure exactly (energy
+becomes three sub-topics within a Natural Resources topic rather than
+its own topic, rocks content is renumbered, and an "ore" definition
+and a third extraction method -- biological extraction -- are added).
+If your course has moved to that edition, this guide's topic numbering
+and some content below will not match your syllabus; use the 0680
+Natural Resources guide's coverage of rocks and extraction as the
+closer match instead, pending a dedicated update for 5014's incoming
+edition.
 
 ## Where this fits in 5014
 
@@ -78,27 +93,28 @@ and 2026 —
 
 | Type | How it forms | Examples |
 |---|---|---|
-| Igneous | Magma from the mantle cools and solidifies | granite, basalt |
+| Igneous | Cooling and solidification of magma or lava | granite, basalt |
 | Sedimentary | Eroded particles settle in layers and are compressed | sandstone, limestone, shale |
-| Metamorphic | Existing rock altered by heat and pressure | marble (from limestone), slate (from clay) |
+| Metamorphic | Existing rock altered by heat and pressure | marble (from limestone), slate (from shale) |
 
-Igneous rocks are "formed by fire" and are associated with volcanic activity; those cooling slowly at depth form large crystals, those cooling quickly at the surface form small ones.
+Igneous rocks are "formed by fire" and are associated with volcanic activity; those cooling slowly at depth (such as granite, which forms within continental crust rather than directly from mantle melt) form large crystals, those cooling quickly at the surface (such as basalt, which is mantle-derived) form small ones.
 
-Sedimentary rocks accumulate on sea beds where the weight of overlying sediment compresses the layers below. Their layered structure is diagnostic, and they alone contain fossils.
+Sedimentary rocks accumulate on sea beds where the weight of overlying sediment compresses the layers below. Their layered structure is diagnostic, and fossils are common in them. Fossils are usually destroyed by the heat and pressure of metamorphism, though low-grade metamorphic rocks such as slate can rarely preserve them, typically flattened or distorted by cleavage; igneous rocks, forming from melt, do not contain fossils.
 
 Metamorphic rocks form where rock meets new magma flows or lies along plate boundaries, where stress accompanies great earth movements.
 
 ## Minerals and reserves
 
-A **mineral** is a substance obtained by mining. Some, such as iron and bauxite, are abundant in crustal rock; others, such as gold, tin and copper, are rare in ordinary rock and occur only in concentrated deposits.
+A **mineral** is a naturally occurring solid with a definite chemical composition and an ordered crystalline structure. Some, such as iron and bauxite, are abundant in crustal rock; others, such as gold, tin and copper, are rare in ordinary rock and occur only in concentrated deposits.
 
 A **reserve** is a known deposit that has not yet been mined and could be extracted in future. Reserve figures are estimates, and they change — upwards when new deposits are discovered or when higher prices make lower-grade ore worth working, downwards as extraction proceeds. A resource becomes a reserve only when extraction is economically viable, which is why "how long will supplies last" questions cannot be answered by division alone.
 
 ## Methods of extraction
 
 - **Open-cast (surface) mining** — used where the mineral lies close to the surface or the seam is exposed. Cheapest and safest, but removes vegetation and topsoil over a wide area.
-- **Adit mining** — a near-horizontal passage driven into a hillside to reach a seam. Limited to deposits exposed on a slope.
 - **Deep (shaft) mining** — vertical shafts sunk to reach deep seams. Expensive and hazardous, with risks of collapse, flooding, gas and dust-related disease, but the surface footprint is small.
+
+*Aside:* **adit mining** — a near-horizontal passage driven into a hillside to reach a seam exposed on a slope — is a real-world variant of surface/subsurface extraction worth knowing about, but it is not one of the two extraction categories (surface mining, subsurface mining) this syllabus names, so do not present it as a required third method or expect it to carry its own exam tariff.
 
 Exploration precedes all of these: geological surveys, remote sensing and test drilling establish whether a deposit is worth working.
 
@@ -130,7 +146,7 @@ Saying metamorphic rocks are "melted" — they are altered in the solid state, s
 
 - Describe how each of the three rock types forms and name examples.
 - Distinguish a resource from a reserve and explain why reserve estimates change.
-- Compare open-cast, adit and deep mining, with advantages and disadvantages of each.
+- Compare open-cast (surface) and deep (shaft) mining, with advantages and disadvantages of each.
 - Describe the environmental impacts of extraction and processing.
 - Match each impact to a realistic management strategy.
 - Evaluate the assumptions behind any "how long will it last" calculation.

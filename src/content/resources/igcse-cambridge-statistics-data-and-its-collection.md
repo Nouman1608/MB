@@ -71,7 +71,7 @@ Cambridge IGCSE Statistics (0479) syllabus for examination in 2027 —
 - **Discrete** — takes only specific values, usually from counting. Number of children, shoe size.
 - **Continuous** — takes any value within a range, from measuring. Height, mass, time.
 
-Continuous data is always recorded to a degree of accuracy, so a height recorded as 168 cm lies in the interval 167.5 <= h < 168.5. Getting those class boundaries right is what makes later grouped calculations work.
+Continuous data is always recorded to a degree of accuracy, so its stated value implies a range either side (previewing Topic 3's full treatment of class boundaries): a height recorded as 168 cm lies in the interval 167.5 <= h < 168.5.
 
 Data is **primary** if collected by the investigator for the purpose at hand, and **secondary** if it already exists. Primary data is relevant and its reliability is known, but it is slow and costly; secondary is quick and cheap but may be outdated, biased or collected for a different purpose.
 
@@ -85,7 +85,11 @@ A **census** surveys every member of the population — completely accurate but 
 | Systematic | Every nth member from a random start | Bias if the list has a pattern |
 | Stratified | Population split into groups, sampled in proportion | Strata must be known |
 | Quota | Interviewer fills set numbers per category | Not random, interviewer bias |
-| Opportunity | Whoever is available | Highly unrepresentative |
+
+These four are the sampling methods 0479 names (a sampling frame is needed for all except quota).
+**Opportunity sampling** (whoever happens to be available; highly unrepresentative) is common wider
+sampling vocabulary, but it is not one of the methods 0479 names, so treat it as background rather than
+required content.
 
 Larger samples are more reliable but cost more. **Bias** arises from an incomplete sampling frame, non-response, leading questions, self-selection, or the **interviewer effect**, where respondents answer differently depending on who is asking. A larger sample reduces **sampling error** — the random variation between samples — but does **not** remove bias: a biased method stays biased at any size, however large, since bias is a systematic fault in the method itself rather than a matter of random variation. These two ideas are frequently confused but need to be argued separately.
 

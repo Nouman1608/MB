@@ -82,14 +82,46 @@ For "benefits and limitations" questions, name a **specific**
 limitation — insecticide resistance limiting spraying, or vaccination
 access gaps — rather than a generic "it's expensive."
 
-## 3.4 Marine aquaculture — no species detail required
+## 3.4 Marine aquaculture — five outcomes, not the shortest sub-topic
 
 Reasons wild stocks are exploited: **overfishing**, **overharvesting**
 — affecting both **target** and **bycatch** species and wider food
 chains. **Marine aquaculture** = farming marine species (fish,
-crustaceans, seaweeds) in captivity, presented as a *response* to
-that exploitation. Species-specific knowledge is explicitly **not**
-required — don't waste revision time on it.
+crustaceans, seaweeds) in captivity — species-specific knowledge is
+explicitly **not** required for that definition, but the sub-topic
+doesn't stop there: also learn the **impacts of aquaculture itself**
+(reduced exploitation of wild fisheries, increased food supply, risk
+of escape and disease, effects on local food webs, nutrient
+enrichment, energy usage, source of food for farmed species) and the
+**nine-item management list** (boat/net size limits, increased mesh
+size, sustainable methods e.g. pole and line, quotas, closed seasons,
+limited fishing days, protected areas, conservation laws,
+international agreements). With five outcomes against 3.2's three and
+3.3's four, this is one of the larger sub-topics in the topic, not the
+shortest.
+
+## 3.5 Oil pollution
+
+**Causes**: off-shore/on-shore extraction, pipelines, shipping, tank
+cleaning at sea, refineries. **Impacts** (species knowledge not
+required): birds, marine mammals, fish, crustaceans, seaweeds, coral
+reefs, beaches. **Prevention**: MARPOL (International Convention for
+the Prevention of Pollution from Ships), double-hulled tankers, risk
+assessments, regular maintenance. **Minimising spill impact**:
+improved navigation, booms and sorbents, detergent sprays, skimmers,
+controlled burning. Keep prevention and impact-minimising as two
+separate lists — a question can ask for either alone.
+
+## 3.6 Plastic pollution — new for this cycle
+
+Conventional plastics: fossil-fuel-derived, generally non-biodegradable.
+Bioplastics: made fully/partly from biological material, can themselves
+be biodegradable or not — don't assume "bio-" means it breaks down.
+**Microplastics**: less than **5mm**, formed when larger plastics break
+down. Impacts on marine ecosystems: visual pollution, entanglement,
+being mistaken for food, bioaccumulation and biomagnification.
+Management: alternative packaging, avoiding single-use plastics, safe
+disposal, recycling, legislation and enforcement.
 
 ## Worked example: desalination trade-off
 
@@ -130,7 +162,7 @@ writing the same amount for every question:
 | State / Identify | A single named fact — a store, a transfer, a disease |
 | Describe | The pattern or process, in sequence, without explaining causes |
 | Explain | The cause-and-effect chain — e.g. the four-step eutrophication sequence |
-| Discuss / Evaluate | Benefits **and** limitations, reaching a judgement where asked |
+| Discuss | Benefits **and** limitations, reaching a judgement where asked |
 
 A "discuss the benefits and limitations of multipurpose dams"
 question that only lists benefits, however accurately, cannot access
@@ -166,9 +198,13 @@ biomagnification (increasing up a food chain).
 "discuss" is the command word.
 - Applying malaria's vector-control strategies to a cholera question,
 or vice versa.
-- Adding named-species detail to a marine aquaculture answer.
+- Adding named-species detail to the marine-aquaculture definition
+outcome specifically (the rest of 3.4 is not species-restricted).
 - Naming eutrophication without tracing the full causal chain from
 nutrient enrichment to harmed aquatic life.
+- Stopping revision at marine aquaculture and forgetting oil pollution
+(3.5) and plastic pollution (3.6), the topic's last two sub-topics.
+- Assuming a bioplastic automatically biodegrades.
 
 ## Self-test
 
@@ -177,8 +213,9 @@ nutrient enrichment to harmed aquatic life.
 biomagnification?
 3. Trace the eutrophication causal chain in four steps.
 4. How do malaria and cholera differ in transmission and control?
-5. Why is species-specific detail not required for marine aquaculture
-answers?
+5. Name the international convention on preventing ship pollution, and
+one strategy for minimising an oil spill's impact once it has happened.
+6. Give the numerical threshold that defines a microplastic.
 
 **Answers:** 1. Transfers: precipitation, infiltration, evaporation
 (or any three named); stores: oceans, ice sheets/glaciers, ground
@@ -189,7 +226,8 @@ prey to predator. 3. Nutrient enrichment → algal bloom → light
 blocked → oxygen depleted as algae decompose, harming aquatic life.
 4. Malaria is vector-borne (mosquito to human) and controlled via
 personal protection and vector control; cholera is waterborne and
-controlled via sanitation, safe water and vaccination. 5. The
-syllabus explicitly states knowledge of specific species is not
-required — the focus is on the concept of farming marine species in
-captivity as a response to wild-stock exploitation.
+controlled via sanitation, safe water and vaccination. 5. MARPOL
+(the International Convention for the Prevention of Pollution from
+Ships); any one of improved navigation systems, booms and sorbents,
+detergent sprays, skimmers, or controlled burning. 6. Less than 5mm
+in length.

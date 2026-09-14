@@ -50,12 +50,11 @@ place, a specific issue, and room for more than one perspective. **[2]**
 
 **5.** A candidate writes their report as a persuasive essay arguing
 strongly for one side of an issue, in a structure of their own
-choosing, rather than following the order the marking criteria expect.
+choosing, rather than following the sequence the syllabus recommends.
 
-**(a)** Explain why this approach is likely to score lower than a
-report following the expected structure, even if the writing itself is
-strong. **[2]**
-**(b)** State the four-part order the report should follow. **[2]**
+**(a)** Explain whether this approach is automatically penalised for
+its ordering alone, and why it is nonetheless risky. **[2]**
+**(b)** State the four-part order the syllabus recommends. **[2]**
 
 **6.** A candidate cites ten sources in their bibliography but does not
 discuss anywhere in the report whether any of them are reliable or
@@ -97,8 +96,9 @@ final report must still be the candidate's own independent work. **[3]**
 excluded from this word count [1].
 
 **2.** Component 2 carries 30% of the qualification [1]; it is
-internally set by the candidate's teacher but externally marked by
-Cambridge International [1].
+internally set and externally marked by Cambridge International — the
+candidate devises the research question and title themselves, with
+the teacher's role limited to guiding its feasibility [1].
 
 **3.** Research, analysis, evaluation, reflection, and communication
 [5].
@@ -111,12 +111,17 @@ prioritise economic development over rainforest conservation when the
 two goals conflict?" [2, allow any research question that builds in a
 specific issue and at least two perspectives].
 
-**5. (a)** Because the report is marked against a specific expected
-structure (explain the issue and perspectives, analyse causes and
-consequences, evaluate courses of action, reflect and conclude), an
-essay covering similar ground in a different order does not
-demonstrate the criteria in the sequence examiners are marking against,
-regardless of how well-argued or well-written it is [2].
+**5. (a)** Not automatically: the syllabus does not publish a mark
+scheme or detailed marking criteria for this component, so there is no
+published rule that marks depend on following a specific structure.
+However, the recommended sequence (issue and perspectives, causes and
+consequences, evaluated courses of action, reflection and conclusion)
+maps directly onto everything the syllabus says the report should
+cover, so a persuasive essay built in a different order makes it easy
+to leave a required element -- such as a clearly evaluated course of
+action, or explicit reflection -- under-developed or hard to find,
+which is what actually risks losing marks, not the reordering itself
+[2].
 **(b)** Explain the issue and its different perspectives; analyse
 causes and consequences; evaluate possible courses of action and
 propose one; reflect and conclude, directly answering the research
@@ -140,7 +145,8 @@ downstream government facing water shortages as a result [2].
 **8. (a)** Reconstructing a reference list from memory risks
 inaccurate or incomplete citations, and incomplete or inconsistent
 referencing is one of the most common reasons reports lose marks on
-the evaluation criterion [2].
+the communication criterion (citations and references sit under AO3
+Communication, not AO1 Evaluation) [2].
 **(b)** Keep a running reference list from the first source read,
 updating it as each new source is used throughout the research process
 [1].
@@ -169,8 +175,11 @@ practising the research question itself before any other work begins:
 a question that names a specific place, a specific issue, and builds
 in room for at least two genuinely contrasting perspectives will make
 every later stage of the report easier to structure. Build the report
-in the exact order the marking criteria expect — issue and
+broadly in the sequence the syllabus recommends — issue and
 perspectives, then causes and consequences, then evaluated courses of
-action, then reflection and conclusion — since examiners are marking
-against that structure specifically, not simply rewarding a
-well-written argument that covers similar ground differently.
+action, then reflection and conclusion. Cambridge does not publish a
+mark scheme for this component, so there is no rule that scores a
+differently-ordered report lower purely for its structure — but the
+recommended sequence maps onto everything the syllabus says the report
+should cover, so following it makes every requirement far easier to
+evidence clearly.

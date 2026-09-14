@@ -22,6 +22,18 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+>
+> **The real paper**, for reference, is 1 hour 25 minutes, 70 marks, and sets
+> FOUR compulsory questions (18, 16, 16 and 20 marks) based on a source
+> insert provided with the paper — quite a different shape from the six
+> shorter questions below, which are organised by skill for focused practice
+> rather than as a full-paper simulation.
+>
+> **Every question below is source-based**, matching the real paper's
+> format: 0457's syllabus states twice that candidates are not assessed on
+> prior knowledge of the topic or issue presented, and that content
+> knowledge is not assessed in this syllabus at all. Answer only from the
+> source material given, not from what you already know about the topic.
 
 Related: [Global Perspectives revision notes](/resources/global-perspectives-revision-notes/)
 
@@ -40,15 +52,34 @@ Related: [Global Perspectives revision notes](/resources/global-perspectives-rev
 **(a)** Evaluate the reliability of this source, giving **three** points. **[6]**
 **(b)** Explain what further information you would need to assess it properly. **[3]**
 
-**4.** For the global issue of **plastic pollution**:
+**4.** Read **Source B** below.
 
-**(a)** Explain **two** causes. **[4]**
-**(b)** Explain **two** consequences, one environmental and one economic. **[4]**
-**(c)** Explain **one** course of action and evaluate its likely effectiveness. **[6]**
+> *Source B: A coastal town's local newspaper reports: "Beach clean-up
+> volunteers collected over two tonnes of plastic waste last month
+> alone, most of it packaging from imported consumer goods. The local
+> council says it cannot afford further clean-ups without national
+> government support, while a national government spokesperson stated
+> that manufacturers, not local councils, should bear the cost of
+> collection."*
 
-**5.** Explain the difference between a national, an international and a personal perspective, using the example of water scarcity. **[6]**
+**(a)** Using Source B, explain **two** causes of the plastic pollution problem it describes. **[4]**
+**(b)** Using Source B, explain **two** consequences of the issue, one environmental and one economic. **[4]**
+**(c)** Using Source B, suggest **one** course of action to address the issue, and evaluate its likely effectiveness. **[6]**
 
-**6.** Explain **three** features of a strong conclusion in a Global Perspectives essay. **[6]**
+**5.** Read **Source C** below.
+
+> *Source C: In a river basin shared by two countries, a farmer
+> upstream said: "This water lets my family grow enough food to eat
+> and sell -- without it we'd have nothing." Downstream, a city
+> resident said: "Our taps run dry for days at a time while upstream
+> users take as much as they like. Our national government must
+> negotiate a fairer share." An international water agency reported:
+> "Basin-wide agreements between the two countries have never been
+> ratified, leaving allocation entirely informal."*
+
+Using Source C, explain the difference between a **personal**, a **local and/or national**, and a **global** perspective on this water-scarcity issue. **[6]**
+
+**6.** Explain **three** features of a strong conclusion in an extended written response to a Global Perspectives written-exam question (the Written Exam sets extended-response questions, not a full essay). **[6]**
 
 ---
 
@@ -56,18 +87,18 @@ Related: [Global Perspectives revision notes](/resources/global-perspectives-rev
 
 **1.** A **fact** is a statement that **can be verified as true or false against evidence** [1]. An **opinion** is a **personal belief or judgement** that cannot be verified in the same way [1]. A **reasoned argument** is an opinion **supported by evidence and logical reasoning**, leading to a stated conclusion [1].
 
-**2.** The **personal** perspective — how the issue affects individuals and their own experience [1]. The **national/local** perspective — how it affects a particular country or community, and how its government responds [1]. The **global** perspective — how it affects the world as a whole and requires international cooperation [1].
+**2.** The **personal** perspective — how the issue affects individuals and their own experience [1]. The **local and/or national** perspective — how it affects a particular community or country, and how local or national government responds [1]. The **global** perspective — how it affects the world as a whole and requires international cooperation [1].
 
 **3. (a)** Any three, 2 marks each: the source is **produced by an airline industry association**, which has a **clear vested interest** in defending aviation, so the framing of the question and the choice to publish are likely to be self-serving [1] [1]. The statistic reports **what travellers believe, not whether the blame is in fact unfair** — public opinion is not evidence about emissions [1] [1]. The sample is **travellers**, who are self-selecting and more likely to defend flying than the general population [1] [1]. The phrase **"unfairly blamed" is a leading formulation** that invites agreement [1] [1].
 **(b)** The **exact wording of the question asked** [1]; the **sample size, method and where respondents were surveyed** [1]; **who funded the survey and whether the full data has been published** for independent scrutiny [1].
 
-**4. (a)** Any two, 2 marks each: the **very low cost and durability of plastic** has made single-use packaging the default for food, drink and consumer goods worldwide [1] [1]. **Inadequate waste management infrastructure** in many countries means waste is dumped or enters rivers rather than being collected and processed [1] [1]. **Export of waste from high- to low-income countries**, where it is often not actually recycled [1] [1].
-**(b) Environmental** — plastic **breaks down into microplastics that enter the food chain**, and marine animals ingest or become entangled in debris, reducing biodiversity [1] [1]. **Economic** — **fishing and tourism industries lose income** from polluted beaches and reduced catches, and coastal authorities bear the cost of cleaning [1] [1].
-**(c)** A course of action such as **a ban or levy on single-use plastic bags**, as adopted in many countries [1]. **Effective because** it targets a high-volume, easily substituted item, is cheap to enforce at the till, and evidence from countries that introduced it shows **bag use falling by over 80%** [1] [1]. **Limited because** bags are a **small fraction of total plastic waste** [1], the policy does not address packaging, fishing gear or microfibres [1], and it may simply **shift consumption to thicker reusable plastic bags** whose production has a higher footprint if they are not reused enough [1].
+**4. (a)** Any two drawn from Source B, 2 marks each: the source shows **imported packaging driving the waste stream** ("most of it packaging from imported consumer goods") [1] [1]. It also implies **under-funded local waste collection**, since the council "cannot afford further clean-ups" [1] [1].
+**(b) Environmental** — the source shows **large volumes of waste reaching the beach and sea** ("over two tonnes... collected... last month alone"), which is consistent with harm to marine life and habitats even though the source itself does not detail this [1] [1]. **Economic** — the **cost falls on the local council**, which says it "cannot afford further clean-ups" without national support, showing a direct financial burden on local public funds [1] [1].
+**(c)** A course of action such as **national government funding for local council clean-up and collection costs**, addressing the dispute in the source over who should pay [1]. **Effective because** it responds directly to the funding gap the source identifies, and central government has greater capacity to fund infrastructure than a single local council [1] [1]. **Limited because** the source suggests **central government instead expects manufacturers to bear the cost**, so this course of action may not be adopted without a change in national policy [1], and funding collection alone does not address the **import of plastic packaging** identified as a cause in (a) [1].
 
-**5. Personal** — an individual in a water-scarce area experiences **queuing at a standpipe, higher bills, or illness from contaminated water**, and may change their own consumption [1] [1]. **National** — a government must decide **how to allocate water between agriculture, industry and households**, whether to build dams, and how to price it, balancing food security against urban demand [1] [1]. **Global** — water scarcity crosses borders through **shared rivers and aquifers**, so it raises questions of international law and cooperation, and is linked to climate change, migration and conflict, which no single country can address alone [1] [1].
+**5.** **Personal** — the upstream farmer's own words show the personal, lived stake in the issue: water "lets my family grow enough food to eat and sell -- without it we'd have nothing" [1] [1]. **Local and/or national** — the downstream city resident's account, and their call for "our national government" to negotiate a fairer share, shows this level operating through everyday local experience (dry taps) and national political action together [1] [1]. **Global** — the international water agency's observation that "basin-wide agreements between the two countries have never been ratified" shows the issue operating beyond either country alone, requiring cross-border cooperation [1] [1].
 
-**6.** Any three, 2 marks each: it gives a **clear personal judgement that directly answers the question**, rather than restating both sides neutrally [1] [1]. It is **supported by the evidence and reasoning already presented**, and introduces no new material [1] [1]. It **acknowledges the strongest opposing argument and explains why it is outweighed**, which demonstrates that the judgement is informed rather than assumed [1] [1]. It reflects on the **limitations of the evidence** or on how the writer's own perspective has changed, which is explicitly credited in this subject [1] [1].
+**6.** Any three, 2 marks each: it gives a **clear personal judgement that directly answers the question**, rather than restating both sides neutrally [1] [1]. It is **supported by the evidence and reasoning already presented**, and introduces no new material [1] [1]. It **acknowledges the strongest opposing argument and explains why it is outweighed**, which demonstrates that the judgement is informed rather than assumed [1] [1]. It **explicitly weighs the sources' evidence against each other** rather than simply repeating it, which is what the Written Exam's evaluation and reasoning objective (AO1) actually rewards in a conclusion [1] [1].
 
 ---
 

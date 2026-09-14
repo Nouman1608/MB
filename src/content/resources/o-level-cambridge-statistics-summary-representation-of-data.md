@@ -60,7 +60,7 @@ practise each in isolation rather than assuming skill in one implies
 skill in the others. Learn each chart type by what kind of data it
 suits (a pie chart for proportions of a whole, a stem-and-leaf diagram
 for showing both the shape of a distribution and the actual data
-values, a box-and-whisker diagram for spread and outliers) rather
+values, a box-and-whisker diagram for spread and median) rather
 than by appearance alone, since 2.3 is specifically examined by
 asking candidates to justify a choice. Two-way tables are an easy
 source of dropped marks under time pressure -- practise reading row
@@ -86,11 +86,12 @@ into every later calculation.
 | Chart type | Best suited to |
 |---|---|
 | Pictogram | Simple, visually engaging comparison of category totals |
-| Pie chart / comparative pie chart | Showing proportions of a whole; comparing proportions between two datasets |
+| Pie chart | Showing proportions of a whole |
+| Comparative pie chart | Comparing proportions between two datasets -- conventionally two pie charts whose radii are scaled to the square roots of their totals, not simply two same-size charts side by side |
 | Venn diagram | Showing overlap between categories or sets |
 | Bar chart / dual bar chart | Comparing category totals directly; comparing two datasets side by side |
 | Sectional / percentage bar chart | Showing how a total is divided into parts, or those parts as percentages |
-| Box-and-whisker diagram | Showing spread, median and outliers in a single dataset |
+| Box-and-whisker diagram | Showing spread and median in a single dataset |
 | Stem-and-leaf diagram | Showing distribution shape while preserving every individual data value |
 
 No single chart is correct for every dataset -- the syllabus
@@ -116,12 +117,11 @@ diagram to compare the spread of two datasets.
 A dataset records the number of hours students in two classes spent
 revising in a week, and the results are shown as two box-and-whisker
 diagrams. Candidates are asked to compare the two classes. A strong
-answer compares the median (typical revision time), the
-interquartile range (spread of the middle 50% of students), and any
-outliers, and states a conclusion in context -- for example, that
-Class A has a higher median but Class B is more consistent, because
-its box is narrower -- rather than simply reading off numbers without
-comparing them.
+answer compares the median (typical revision time) and the
+interquartile range (spread of the middle 50% of students), and states
+a conclusion in context -- for example, that Class A has a higher
+median but Class B is more consistent, because its box is narrower --
+rather than simply reading off numbers without comparing them.
 
 ## Common mistakes
 

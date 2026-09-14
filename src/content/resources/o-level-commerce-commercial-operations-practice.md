@@ -45,7 +45,7 @@ country. **[8]**
 reasons the small shop might continue to survive. **[6]**
 
 **5.** Describe the sequence of trading documents used from the point a customer first enquires about
-goods to the point payment is confirmed. **[8]**
+goods to the point payment is confirmed. **[7]**
 
 **6.** Explain **two** factors a business should consider when choosing between email and a formal
 letter to communicate with a supplier. **[6]**
@@ -71,17 +71,14 @@ bring **technology transfer**, raising local skills and production standards [1]
 locally [1] [1]; **local competition may be unable to match** the MNC's scale, reducing local business
 [1] [1].
 
-**4.** **Personal service** — a small shop can offer individual advice and relationships an online
-retailer cannot replicate, building loyal repeat custom that a large, anonymous website struggles to
-match [1] [1] [1]. **Local convenience** — customers who need a product immediately, or
-who value being able to see and test goods in person, will choose the physical shop over waiting for
-delivery, particularly for urgent purchases or repairs [1] [1] [1].
+**4.** **Personal service** — a small shop can offer individual advice tailored to each customer [1], building a personal relationship and trust that a large, anonymous website cannot replicate [1], which encourages loyal repeat custom even when online prices are similar [1]. **Local convenience** — a customer can obtain a product immediately without waiting for delivery [1], which matters most for urgent purchases or repairs [1], and can see and physically test goods before buying, reducing the risk of a wrong purchase in a way online shopping cannot match [1].
 
 **5.** **Enquiry** (customer asks about goods/price) → **Quotation** (seller states price and terms) →
 **Order** (customer formally orders) → **Invoice** (seller bills for goods supplied) → **Delivery
 note** (accompanies the goods delivered) → **Statement of account** (summarises the account) →
-**Receipt** (confirms payment) [1] [1] [1] [1] [1] [1] [1] [1] (one mark per correctly sequenced
-document).
+**Receipt** (confirms payment) [1] [1] [1] [1] [1] [1] [1] (one mark per correctly sequenced
+document — a credit note would follow only if goods were later returned, which is beyond this
+question's scope of enquiry through to payment).
 
 **6.** **Urgency** — email is faster for time-sensitive matters, while a formal letter suits less
 urgent, more formal communication, so a business facing a stock shortage this week would default to
@@ -112,6 +109,13 @@ which syllabus their school has entered them for before relying on a specific sy
 official source link, since the underlying content overlaps closely but the exact assessment details
 and past papers available differ between the two.
 
+**Availability matters too, not just the code.** 7100 is not available in all administrative zones for
+its full 2026-2028 cycle: per Cambridge's official subject page, it runs in zones 3, 4 and 5 in 2026
+and 2027, then in zone 4 only from 2028 (affected centres were notified in mid-2026). This is a zone
+restriction, not a withdrawal of the qualification. A centre in a departing zone may wish to consider
+Cambridge IGCSE Commerce (0715) instead — check your centre's administrative zone and this syllabus's
+current availability at the official 7100 subject page before relying on it for the full three years.
+
 ## Where marks are usually lost
 
 - Listing advantages of going public without a matching disadvantage, when the question asks for both.
@@ -131,5 +135,5 @@ the right one, not a generic definition. For example, "an overseas manufacturer 
 because it has the capital and storage space to commit to a large single order" links the answer
 directly back to the scenario, whereas simply defining "buying direct" without that link loses the
 application marks even if the definition itself is accurate. Build this justify-from-the-scenario habit
-into every practice answer above, since Paper 1's structured questions are built around exactly this
-skill rather than pure recall alone.
+into every practice answer above, since Paper 2's structured questions are built around exactly this
+skill rather than pure recall alone (Paper 1 is multiple choice throughout).

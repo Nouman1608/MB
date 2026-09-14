@@ -18,12 +18,17 @@ publishedDate: 2026-09-09
 featured: false
 ---
 
-This guide covers **Topic 3: Agriculture and the environment** in Cambridge O Level Environmental
-Management (5014), following the site's existing guides to
+This guide covers **Topic 3: Agriculture and the environment** in the **outgoing 2025-2026 edition** of
+Cambridge O Level Environmental Management (5014), following the site's existing guides to
 [Rocks and Minerals and Their Exploitation](/resources/o-level-cambridge-environmental-management-rocks-and-minerals/)
 and [Energy and the Environment](/resources/o-level-cambridge-environmental-management-energy-and-the-environment/).
-Agriculture is the third of nine topics in this syllabus and, like the two before it, examines how a
-human activity essential to daily life places pressure on natural environmental systems.
+Agriculture is the third of nine topics in this outgoing syllabus and, like the two before it, examines
+how a human activity essential to daily life places pressure on natural environmental systems.
+
+**Note:** 5014 also has an already-published **2027-2029 edition** that restructures the subject into
+seven topics (matching sibling IGCSE 0680). The outgoing nine-topic syllabus this guide follows is
+available for its final sitting in only one administrative territory (Mauritius, November series) —
+check which edition your course is using.
 
 ## Where this fits in 5014
 

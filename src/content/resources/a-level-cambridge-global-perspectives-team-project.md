@@ -23,11 +23,18 @@ Component 3 – Team Project is worth 40 marks and is externally marked
 coursework, sitting alongside Component 1 (Written Exam) and Component
 2 (Essay) as one of the three compulsory AS Level components in
 Cambridge International AS & A Level Global Perspectives & Research
-(9239). Where the [Written Exam guide](/resources/a-level-cambridge-global-perspectives-written-exam/)
+(9239). Together, Components 1-3 make up the AS Level; the full A
+Level adds a fourth component, the Cambridge Research Report (85
+marks -- a report of up to 5000 words plus a research log -- worth
+half of the full A Level on its own). Where the [Written Exam guide](/resources/a-level-cambridge-global-perspectives-written-exam/)
 and [Essay guide](/resources/a-level-cambridge-global-perspectives-essay/)
 cover individually-produced components, Team Project is the one
 component built explicitly around collaborative research, even though
 the final marks are entirely individual.
+
+**Coverage note:** this guide, and Marlbridge's other 9239 resources
+published so far, cover Components 1-3 (the AS Level) only. Component
+4 does not yet have a dedicated Marlbridge resource.
 
 ## What makes Team Project different
 
@@ -50,9 +57,8 @@ individually assessed work from the shared research process:
 
 Teachers take an active role in creating teams -- candidates do not
 simply self-select. The syllabus notes that teams of three or four
-tend to work best, since they are large enough to generate genuinely
-different perspectives on a problem but small enough to reach
-agreement on what to research. Once formed, the team's central task
+candidates work together well and often find it easier to agree on
+what problem to research. Once formed, the team's central task
 is to identify a **local problem that has global relevance** and
 express it as a single statement broad enough in scope that different
 members can explore it from different angles -- some more local, some

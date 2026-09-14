@@ -33,24 +33,29 @@ Condensed for the final weeks. For the full explanation, use the
  retail)    export/entrepot)
 ```
 
-Commerce = distribution + the services that make distribution possible. It is **not** production.
+Commercial services sit within the tertiary sector of production. Commerce specifically means
+**distribution** — trade plus the services that make distribution possible — not the creation of
+goods, which is what production as a whole covers.
 Home trade splits further into wholesale (bulk sale from producer to retailer) and retail (sale in
 smaller quantities direct to the final consumer); foreign trade splits into imports (buying from
-abroad), exports (selling abroad) and entrepot trade (importing goods purely in order to re-export
-them, often after processing or storage).
+abroad), exports (selling abroad) and entrepot trade — background, non-syllabus terminology — (importing
+goods purely in order to re-export them, often after minor processing or storage).
 
 ## The chain of production
 
-| Stage | What happens | Examples |
+| Sector | What happens | Examples |
 |---|---|---|
-| Primary | Extracting raw materials | mining, farming, fishing |
-| Secondary | Turning materials into goods | manufacturing, construction |
-| Tertiary | Services supporting the other two | commerce, direct personal services |
+| Primary (extractive) | Extracting raw materials | mining, farming, fishing, forestry |
+| Secondary | Turning materials into goods, including construction | manufacturing, construction |
+| Tertiary | Commercial services and direct services | commerce, teaching, healthcare |
+| Quaternary | Digital technology | — |
 
-Each stage leaves the product still unusable to the consumer in some respect: primary output is in
-the wrong **form**, secondary output is in the wrong **place** and often the wrong **time**.
-Tertiary production, which includes commerce, closes those gaps — which is exactly why commerce
-sits inside the tertiary stage rather than being a fourth category of its own.
+Each of the first three sectors leaves the product still unusable to the consumer in some respect:
+primary output is in the wrong **form**, secondary output is in the wrong **place** and often the
+wrong **time**. Tertiary production closes those gaps, which is why commercial services sit inside
+the tertiary sector rather than being production in their own right. The syllabus adds a fourth,
+quaternary sector alongside the other three — digital technology — as a genuinely separate branch,
+not merely a subdivision of tertiary.
 
 ## Utility (what commerce creates)
 
@@ -64,22 +69,22 @@ it takes commerce (transport, warehousing, retail) to deliver place and time uti
 
 ## Specialisation
 
-Levels: **country, region, town, firm/worker.** A country can specialise in producing certain
-goods it has a natural or acquired advantage in (climate, resources, skilled labour); within a
-country, a region or town might specialise in one industry (a mining town, a financial district);
-within a firm, individual workers specialise in one task on a production line rather than making
-a whole product themselves.
+The syllabus asks for the advantages and disadvantages of specialisation in three specific
+contexts: **an individual, a factory and a country.** An individual can specialise in one task or
+trade and become highly skilled at it; a factory can specialise in producing one product or a
+narrow range, allowing mechanisation and economies of scale; a country can specialise in producing
+goods it has a natural or acquired advantage in (climate, resources, skilled labour) and trade for
+the rest.
 
-| Advantages | Disadvantages |
-|---|---|
-| Higher output per worker | Repetitive, demotivating work |
-| Permits mechanisation, economies of scale | Deskilling; machinery displaces labour |
-| Improved quality | Narrower consumer choice |
-| — | Total interdependence on exchange |
+| Context | Advantages | Disadvantages |
+|---|---|---|
+| Individual | Higher output, greater skill at the task | Repetitive, demotivating work; narrow skill set |
+| Factory | Permits mechanisation, economies of scale, improved quality | Heavy dependence on one product; less flexible to change |
+| Country | Efficient use of its resources; goods for export | Over-dependence on trade and on imports for what it does not produce |
 
 Specialisation is the reason commerce exists: a specialised economy cannot function without trade.
-A worker, firm, town, region or country that specialises produces far more of one thing than it
-needs and far less of everything else — so exchange, and the commerce that makes exchange possible,
+An individual, factory or country that specialises produces far more of one thing than it needs
+and far less of everything else — so exchange, and the commerce that makes exchange possible,
 becomes essential rather than optional. This is the logical link the syllabus expects candidates to
 draw explicitly: specialisation → interdependence → the necessity of commerce.
 
@@ -110,7 +115,7 @@ underperform on the written component specifically.
 
 ## Exam traps
 
-- Commerce does **not** include production — trade and aids to trade only.
+- Commerce means distribution (trade and aids to trade), not the creation of goods — but commercial services still sit within the tertiary sector of production, so avoid both "commerce is a subset of production" and a flat "commerce is not production."
 - Warehousing is **tertiary**, not secondary.
 - Advantages of specialisation without stating the interdependence it creates is an incomplete answer.
 - Place utility (movement) vs time utility (storage) — do not swap them.
@@ -118,17 +123,19 @@ underperform on the written component specifically.
 ## Self-test
 
 1. Define commerce and name its two branches.
-2. State the three stages of production with one example each.
+2. State the four sectors of production with one example each.
 3. A cold-storage warehouse holds fruit picked in summer for sale in winter. Which utility does this create?
 4. Give two disadvantages of specialisation.
 
-**Answers:** 1. Commerce is everything involved in moving a product from producer to consumer; its two branches are trade and aids to trade. 2. Primary (mining/farming/fishing), secondary (manufacturing/construction), tertiary (services). 3. Time utility. 4. Any two: repetitive/demotivating work, deskilling as machinery replaces labour, narrower consumer choice through standardisation, total interdependence on exchange.
+**Answers:** 1. Commerce is everything involved in moving a product from producer to consumer; its two branches are trade and aids to trade. 2. Primary/extractive (mining/farming/fishing), secondary (manufacturing/construction), tertiary (commercial services and direct services), quaternary (digital technology). 3. Time utility. 4. Any two: repetitive/demotivating work, deskilling as machinery replaces labour, narrower consumer choice through standardisation, total interdependence on exchange.
 
 5. Explain why production, trade and commerce are described as interdependent rather than separate activities.
-6. Name the four levels at which specialisation can operate.
+6. Name the three contexts in which the syllabus requires the advantages and disadvantages of specialisation.
 
-**Answers (continued):** 5. A change in one affects the others — for example, a rise in production costs can raise prices and reduce the volume of goods that trade and commerce need to move, so the syllabus treats them as a linked system rather than three unrelated topics. 6. Country, region, town, and firm/worker.
+**Answers (continued):** 5. A change in one affects the others — for example, a rise in production costs can raise prices and reduce the volume of goods that trade and commerce need to move, so the syllabus treats them as a linked system rather than three unrelated topics. 6. Individual, factory and country.
 
 ## Official syllabus
 
 Cambridge O Level Commerce (7100) syllabus for examination 2026, 2027 and 2028 — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/693604-2026-2028-syllabus.pdf).
+
+**Availability note:** 7100 is not available in all administrative zones for its full three-year cycle. Per Cambridge's subject page, it is available in zones 3, 4 and 5 in 2026 and 2027, then in zone 4 only from 2028; centres in the departing zones were notified in mid-2026 and may wish to consider the sibling Cambridge IGCSE Commerce (0715) instead. This is a zone restriction, not a withdrawal — 7100 continues to run in zone 4. Confirm your centre's zone and this syllabus's current availability at the official 7100 subject page before relying on it.

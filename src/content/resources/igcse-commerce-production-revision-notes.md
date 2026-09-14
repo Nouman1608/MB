@@ -28,38 +28,44 @@ Condensed for the final weeks. For the full explanation, use the
 ```
 PRODUCTION
  |
- +-- DIRECT SERVICES     personal services: doctor, teacher, hairdresser
+ +-- PRIMARY (extractive)     mining, farming, fishing, forestry
  |
- +-- INDUSTRY            extractive, manufacturing, constructive
+ +-- SECONDARY                manufacturing and construction
  |
- +-- COMMERCE
+ +-- TERTIARY
       |
-      +-- TRADE            home trade (wholesale, retail)
-      |                    foreign trade (import, export, entrepot)
-      |
-      +-- AIDS TO TRADE    banking, insurance, transport, warehousing,
-                           communication, advertising
+      +-- Commercial services   trade and aids to trade
+      +-- Direct services       doctor, teacher, hairdresser
+ |
+ +-- QUATERNARY                digital technology
 ```
 
-**Commerce is a subset of production, not an alternative to it.** Placing them side by side is the standard structural error.
+Commerce (trade plus aids to trade) sits within the tertiary sector, alongside direct services — it is not itself a branch of production. Commerce specifically means the distribution of goods and services and the activities that support that distribution; it does not mean the creation of goods, which is what production as a whole covers.
 
 **Needs and wants:** needs are essentials — food, shelter, clothing; wants are everything beyond that. Because resources are finite and wants are not, choices carry an opportunity cost.
 
-**The three branches of production:**
+**The four sectors of production:**
 
-| Branch | Covers |
+| Sector | Covers |
 |---|---|
-| **Primary** | Extractive industries (mining, quarrying) and genetic industries (farming, fishing, forestry) that cultivate and replace what they take |
-| **Secondary** | Manufacturing, processing and construction — converting raw materials into finished or semi-finished goods |
-| **Tertiary** | Services — split into commercial services (trade and aids to trade) and direct personal services (doctors, teachers, hairdressers) |
+| **Primary (extractive)** | Extracting raw materials from nature: mining, quarrying, farming, fishing, forestry |
+| **Secondary** | Manufacturing and construction — converting raw materials into finished or semi-finished goods |
+| **Tertiary** | Commercial services (trade and aids to trade) and direct services (doctors, teachers, hairdressers) |
+| **Quaternary** | Digital technology |
 
-Commerce sits inside the tertiary branch, alongside direct services — it is not a fourth branch of its own.
+The syllabus gives this as a closed, four-sector list — there is no fifth sector, and no separate "genetic" category: farming, fishing and forestry sit inside primary (extractive), and construction sits inside secondary, not as standalone branches of their own.
 
-## Types of industry
+## Specialisation
 
-- **Extractive** — takes raw materials from nature: mining, farming, fishing, forestry.
-- **Manufacturing** — converts raw materials into finished goods.
-- **Constructive** — assembles finished goods into structures: building, roads, bridges.
+**Specialisation** means concentrating on producing one thing, or one part of a process, rather than a whole range. The syllabus asks for the advantages and disadvantages of specialisation in three specific contexts — **an individual, a factory and a country** (not region, town or worker/firm):
+
+| Context | Advantage | Disadvantage |
+|---|---|---|
+| **Individual** | Becomes highly skilled and productive at one task | Work can become repetitive; skills narrow |
+| **Factory** | Can mechanise and gain economies of scale | Heavy reliance on one product or process; less flexible |
+| **Country** | Can export what it produces efficiently and import the rest | Over-dependence on trade and on the goods it does not produce itself |
+
+Specialisation is the reason exchange — and therefore commerce — becomes necessary: a specialised individual, factory or country produces far more of one thing than it needs and far less of everything else.
 
 ## The chain of production
 
@@ -96,16 +102,16 @@ Six functions, and the marks are for saying **who benefits**:
 
 - **Visible trade** — goods.
 - **Invisible trade** — services: tourism, banking, insurance, shipping.
-- **Balance of trade** — visible exports minus visible imports.
-- **Balance of payments** — all transactions, visible **and** invisible.
+- **Balance of trade** — visible exports minus visible imports (goods only).
+- **Balance of payments** — the wider record covering trade in goods **and** services, **plus financial flows**, not just "all transactions, visible and invisible" — financial flows (e.g. investment) are a distinct third component, not merely a rebadging of invisibles.
 
-**Entrepot trade** is importing goods in order to re-export them.
+**Entrepot trade** (background — the word itself does not appear in the syllabus) is importing goods and re-exporting them, often after storage or **minor** processing, without domestic consumption.
 
-Confusing balance of trade with balance of payments is the most common error here. A country can have a visible trade deficit and still have a payments surplus if its invisible earnings are large enough — Britain is the standard example.
+Confusing balance of trade with balance of payments is the most common error here. A country can have a visible trade deficit and still have a payments surplus if its invisible earnings and financial inflows are large enough — Britain is the standard example.
 
 **Home trade vs foreign trade.** Both involve buying and selling for profit, both need aids to trade, and both depend on a surplus being produced. Foreign trade differs by crossing national boundaries, involving different currencies and exchange-rate risk, sometimes using different units of measurement, facing customs duties and quotas, and needing more documentation and longer transport times.
 
-**Barriers to trade:** tariffs (taxes on imports), quotas (quantity limits), embargoes (bans), and exchange control. Purposes: protecting infant industries, protecting employment, correcting a deficit, and retaliation.
+**Barriers to trade (trade restrictions):** tariffs (taxes on imports), quotas (quantity limits) and embargoes (bans) — three types. Purposes: protecting infant industries, protecting employment, correcting a deficit, and retaliation.
 
 ## Aids to trade
 
@@ -118,7 +124,9 @@ Confusing balance of trade with balance of payments is the most common error her
 | **Communication** | Links buyers and sellers |
 | **Advertising** | Informs and persuades, creating demand |
 
-**Principles of insurance:** utmost good faith, insurable interest, indemnity, contribution, subrogation, and **proximate cause**. Insurance covers **insurable risks** only — those that are measurable and where losses can be pooled. Bad management decisions and changes in fashion are **uninsurable**, because they cannot be predicted statistically.
+**Insurance (Topic 5 content — noted here for reference only; not part of Topic 1).** The syllabus does not test the six classical "principles of insurance" or an insurable/uninsurable-risk distinction. What it actually requires is: (1) the **purposes** of insurance — risk reduction, compensation, financial protection, business confidence and investment; (2) the **named types of insurance risk** — consequential loss, employer's liability, fire, motor, premises, public liability and theft; (3) how enterprises **make use of** insurance — pooling of risk, calculation of premiums, the named insurance documents (proposal form, cover note, policy), and the role of an insurance broker.
+
+*Worked example (premium calculation):* if an insurer pools 1,000 similar risks and expects total claims of $150,000 in a year, the basic premium per policyholder is $150,000 ÷ 1,000 = **$150**, before the insurer adds its own costs and profit margin.
 
 ## Exam traps
 
@@ -126,6 +134,7 @@ Confusing balance of trade with balance of payments is the most common error her
 - Listing wholesaler functions without saying who benefits.
 - Confusing balance of trade with balance of payments.
 - Confusing visible with invisible trade.
+- Omitting financial flows when defining balance of payments.
 - Saying insurance prevents loss — it **compensates** for it.
 - Naming an aid to trade without explaining how it assists trade.
 
@@ -134,7 +143,7 @@ Confusing balance of trade with balance of payments is the most common error her
 1. Where does commerce sit within production?
 2. Give three functions of a wholesaler and who benefits from each.
 3. Distinguish balance of trade from balance of payments.
-4. What is entrepot trade?
-5. Give two uninsurable risks and explain why they cannot be insured.
+4. What levels does the syllabus require for specialisation's advantages and disadvantages?
+5. Name the four elements of how enterprises make use of insurance.
 
-**Answers:** 1. Commerce is a branch of production, alongside direct services and industry; it covers trade and aids to trade. 2. Breaking bulk benefits retailers, who buy small quantities; warehousing benefits both manufacturer and retailer by relieving storage costs; granting credit benefits retailers' cash flow — any three. 3. Balance of trade covers visible goods only; balance of payments covers all transactions, both visible and invisible. 4. Importing goods for the purpose of re-exporting them. 5. Poor management decisions and changes in fashion — they cannot be measured statistically, so the risk cannot be pooled or priced.
+**Answers:** 1. Commerce sits within the tertiary sector, alongside direct services; commerce itself covers trade and aids to trade. 2. Breaking bulk benefits retailers, who buy small quantities; warehousing benefits both manufacturer and retailer by relieving storage costs; granting credit benefits retailers' cash flow — any three. 3. Balance of trade covers goods only; balance of payments covers goods and services plus financial flows. 4. Individual, factory and country. 5. Pooling of risk, calculation of premiums, insurance documents, and the role of an insurance broker.

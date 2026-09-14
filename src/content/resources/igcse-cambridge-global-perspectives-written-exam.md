@@ -31,10 +31,15 @@ using an open list of global-issue topics as a stimulus.
 All candidates take Component 1 alongside Component 2 (Individual
 Report) and Component 3 (Team Project). Component 1 is externally set
 and marked by Cambridge, while Components 2 and 3 are coursework-style
-tasks completed over the course. Teachers and students choose topics
-from a list of 22 broad global issues (such as Climate change, energy
-and resources or Migration and urbanisation) to explore across all
-three components.
+tasks completed over the course. Teachers and students choose from a list of 22 broad **topics** (such
+as Climate change, energy and resources or Migration and urbanisation)
+to explore across all three components. Only "topic" and "issue" are
+different things in this syllabus: a topic is a broad area of study,
+while specific global *issues* -- the ones actually analysed in the
+Written Exam, Individual Report and Team Project -- arise within a
+topic once it is narrowed down (for example, "plastic waste exports to
+low-income countries" is an issue arising within the broader topic of
+Environment, pollution and conservation).
 
 ## Syllabus coverage
 
@@ -80,7 +85,7 @@ That has a practical consequence: revising "facts about climate change" is large
 
 A **perspective** is a point of view supported by reasoning and evidence, held for reasons connected to the holder's context — national, cultural, economic, generational, professional. It is not simply an opinion.
 
-Every issue should be considered at three levels: **personal**, **national** and **global**. A strong answer moves between them rather than staying at one.
+Every issue should be considered at three levels: **personal**, **local and/or national**, and **global**. A strong answer moves between them rather than staying at one.
 
 Distinguish carefully:
 
@@ -108,7 +113,7 @@ The common weakness is *asserting* bias rather than demonstrating it. "This sour
 
 A strong extended answer states a clear line of reasoning, uses source material as evidence rather than summarising it, considers at least one **counter-argument** genuinely, and reaches a justified conclusion that follows from what came before.
 
-**Reflection** — what you now think and why your view changed — carries marks and is routinely skipped.
+Note: **reflection is not credited in this component.** The syllabus's assessment-objective table weights AO2 Reflection at 0% for the Written Exam, and states candidates are assessed here on research, analysis and evaluation only -- unlike Components 2 and 3, where reflection genuinely does carry marks (worth 15% of the qualification overall). Spend your time in this paper on analysis, evaluation and a reasoned line of argument instead.
 
 ## Worked example
 
@@ -130,12 +135,12 @@ Naming the specific weakness beats a general comment about reliability.
 
 ## Common mistakes
 
-Revising topic content instead of practising skills. Summarising a source rather than using it as evidence. Asserting bias without demonstrating it from the text. Treating an assertion as evidence. Ignoring the personal, national and global levels. Omitting reflection. Presenting a counter-argument then not responding to it.
+Revising topic content instead of practising skills. Summarising a source rather than using it as evidence. Asserting bias without demonstrating it from the text. Treating an assertion as evidence. Ignoring the personal, local/national and global levels. Presenting a counter-argument then not responding to it.
 
 ## Quick revision checklist
 
 - Define perspective, argument, evidence, assertion and assumption, and tell them apart in a source.
-- Consider any issue at personal, national and global levels.
+- Consider any issue at personal, local and/or national, and global levels.
 - Apply all six evaluation criteria and demonstrate a weakness from the text.
 - Build an argument with a clear line of reasoning and a genuine counter-argument.
-- Write a reflection that explains how and why your view developed.
+- Remember reflection is not credited in this paper (unlike the Individual Report and Team Project) -- spend the time on analysis and evaluation instead.

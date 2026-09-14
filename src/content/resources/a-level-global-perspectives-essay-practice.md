@@ -23,6 +23,11 @@ featured: false
 > A Level Global Perspectives & Research (9239) assessment objectives. They
 > are not taken from any past paper and are not endorsed by Cambridge
 > International.
+>
+> **Coverage note:** this resource, and Marlbridge's other 9239 resources
+> published so far, cover Components 1-3 (the AS Level) only. Component 4,
+> the Cambridge Research Report (85 marks, A-Level-only), does not yet have a
+> dedicated Marlbridge resource.
 
 Use these questions alongside the [Component 2 – Essay study
 guide](/resources/a-level-cambridge-global-perspectives-essay/) and

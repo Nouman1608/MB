@@ -19,11 +19,25 @@ featured: false
 ---
 
 This guide covers **Topic 2 Energy and the Environment**, the second
-of nine topics in Cambridge O Level Environmental Management (5014),
-for examination 2025 and 2026 (Version 2). This O Level shares
+of nine topics in the **outgoing 2025-2026 edition** (version 2) of
+Cambridge O Level Environmental Management (5014). This O Level shares
 content with sibling IGCSE Environmental Management (0680), and
 IGCSE 0680-endorsed textbooks are suitable for use with this
 syllabus.
+
+**Which edition this guide covers:** 5014 currently has two live
+editions. This guide follows the **outgoing 2025-2026 syllabus**,
+which treats energy as its own topic and is available for its final
+sitting in only one administrative territory (Mauritius, in the
+November series). A **2027-2029 edition** of 5014 has already been
+published, restructuring the subject into **seven topics** that match
+0680's current structure: energy is no longer a standalone topic but
+becomes three sub-topics (energy resources; conservation and
+management of energy resources, including new ground- and air-source
+heat pump content; fracking) within a Natural Resources topic that
+also covers rocks and minerals. If your course has moved to that
+edition, use the 0680 Natural Resources guide's energy coverage as the
+closer match, pending a dedicated update for 5014's incoming edition.
 
 ## Where this fits in 5014
 

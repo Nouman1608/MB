@@ -81,7 +81,7 @@ Related: [Data and Its Collection revision notes](/resources/o-level-statistics-
 **(c)** The 1,200 students should be divided into their 6 year-group strata [1]; the sample of 100 should be split between year groups **in proportion to each year group's size** in the school [1]; within each stratum, students should then be chosen using simple random sampling [1].
 **(d)** Any one with explanation, e.g. non-response bias — students who dislike the survey topic or rarely attend school may be less likely to respond, skewing results toward more typical travel patterns [2]; or the day/time of the survey could bias results if travel method varies by day (e.g. sports-day transport arrangements) [2].
 
-**4. (a)** Systematic sampling [1].
+**4. (a)** Systematic **in form** (every 5th person), but with no sampling frame and no defined random start, this is opportunity sampling **in substance** [1].
 **(b)** Any two with explanation: the sample only includes people **near a bookshop**, who are likely to already be more interested in reading than the general adult population, so the results will overstate reading habits [2]; the survey is only conducted on a **Saturday morning**, which excludes adults who work or are unavailable at that time, so the sample may not represent all adults' schedules and habits [2].
 **(c)** Any reasonable improvement, e.g. survey people across several different locations (not just outside a bookshop) and at different times/days, to reduce the bias toward people who are already likely to be readers [2].
 
@@ -99,7 +99,7 @@ Related: [Data and Its Collection revision notes](/resources/o-level-statistics-
 
 ## Where marks are usually lost
 
-- Confusing "discrete" with "small whole number" — the test is whether the value is *counted* or *measured*, not its size.
+- Confusing "discrete" with "small whole number" — the test is whether the variable can only take separate, specified values (discrete) or any value in a range (continuous), not its size. "Counted vs measured" is a usual rule of thumb, not the deciding test.
 - Describing a census as always being "more accurate" without acknowledging its cost and practicality trade-offs.
 - Explaining stratified sampling as equal group sizes rather than proportional group sizes.
 - Naming a source of bias without explaining *why* it skews the results in a particular direction.

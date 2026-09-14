@@ -29,13 +29,14 @@ Condensed for the final weeks. For the full explanation, use the
 QUALITATIVE   QUANTITATIVE
 (categories,      /        \
  e.g. colour)  DISCRETE   CONTINUOUS
-              (counted,   (measured,
+              (separate   (any value
+               values,     in a range,
                e.g. cars)  e.g. height)
 ```
 
 - **Qualitative** — described by category, not number (favourite subject, eye colour).
-- **Discrete quantitative** — countable, exact values (number of siblings, goals scored).
-- **Continuous quantitative** — measured, can take any value in a range (height, time, mass).
+- **Discrete quantitative** — takes only certain, separate values (number of siblings, goals scored). Usually countable, but "counted" is a usual rule of thumb, not the deciding test.
+- **Continuous quantitative** — takes any value in a range (height, time, mass). Usually measured, but again that is a heuristic, not the definition.
 
 ## Primary vs secondary data
 
@@ -53,7 +54,7 @@ QUALITATIVE   QUANTITATIVE
 | Coverage | Every member of the population | A selected subset |
 | Accuracy | No sampling error | Sampling error possible |
 | Cost/time | Very high | Lower |
-| Practicality | Only feasible for small populations | Used for large populations |
+| Practicality | Used when the population is small and accuracy is vital | Used for large populations |
 
 ## Sampling methods
 
@@ -84,9 +85,10 @@ Each stratum's share is then chosen **randomly within itself** — a
 stratified sample is still a random sample, just one taken separately
 within each group so the proportions match the population.
 
-## Continuous data and class boundaries
+## Continuous data and class boundaries (previewing Topic 3)
 
-Continuous data is always recorded to a stated accuracy, so grouping
+Class boundaries are covered in full under Topic 3, but the idea is needed as soon as continuous data is
+recorded to a stated accuracy, so it is previewed here. Continuous data is always recorded to a stated accuracy, so grouping
 it requires care with **class boundaries**. A time recorded as 12.4
 seconds (to 1 decimal place) actually lies anywhere in the range
 **12.35 ≤ t < 12.45** — the boundaries sit halfway between adjacent
@@ -116,7 +118,7 @@ missing response options before they affect the real results.
 
 - "Sample" is not automatically inaccurate — it has sampling error, which is different from bias.
 - Stratified sampling must be **proportional** to each stratum's size in the population, not equal-sized groups.
-- Discrete vs continuous: if it's *counted*, it's discrete; if it's *measured*, it's continuous — even if the result happens to be a whole number.
+- Discrete vs continuous: the test is whether the variable can only take separate, specified values (discrete) or any value in a range (continuous) — not whether it is counted or measured. "Counted vs measured" is a usual rule of thumb, but it is not the deciding test and can mislead (e.g. shoe size is checked against a scale but is still discrete).
 - Writing overlapping class intervals (10–20, 20–30) instead of correctly stated, non-overlapping boundaries.
 - Claiming a larger sample size removes **bias** — it only reduces **sampling error**; a biased method stays biased however large the sample.
 - Confusing cluster sampling (whole groups included) with stratified sampling (proportional selection from every group).

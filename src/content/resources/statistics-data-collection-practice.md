@@ -52,7 +52,7 @@ Related: [Data and Its Collection revision notes](/resources/statistics-data-col
 
 ## Section C
 
-**7.** A student's height is recorded as 152 cm to the nearest cm. State the class boundaries within which the true height must lie. **[2]**
+**7.** *(Previewing Topic 3 -- Frequency Distributions.)* A student's height is recorded as 152 cm to the nearest cm. State the class boundaries within which the true height must lie. **[2]**
 
 **8.** Before running a survey of 500 households, a researcher tests the questionnaire on 20 households first.
 

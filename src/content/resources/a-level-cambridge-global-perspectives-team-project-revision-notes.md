@@ -22,6 +22,10 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Team Project study guide](/resources/a-level-cambridge-global-perspectives-team-project/).
 
+**Coverage note:** these notes, and Marlbridge's other 9239 resources published so far, cover
+Components 1-3 (the AS Level) only. Component 4, the Cambridge Research Report (85 marks,
+A-Level-only), does not yet have a dedicated Marlbridge resource.
+
 ## Format at a glance
 
 - **40 marks**, externally marked coursework. One of three compulsory AS components (alongside Written Exam and Essay).
@@ -85,4 +89,4 @@ Because the presentation's 30 marks are split across both AO1 (research, analysi
 5. What is the reflective paper's word limit, and which single assessment objective covers it?
 6. Give two things a teacher is NOT allowed to do once research and preparation begin.
 
-**Answers:** 1. 40 marks total: presentation 30 marks, reflective paper 10 marks. 2. Three or four members — large enough to generate genuinely different perspectives, small enough to reach agreement on what to research. 3. AO1 (Research, analysis and evaluation) and AO3 (Communication). 4. Maximum 10 minutes; work beyond the limit is simply not assessed. 5. Maximum 800 words; AO2 (Reflection). 6. Any two of: offering detailed subject guidance, carrying out research on the candidate's behalf, writing or correcting any part of their notes, preparing any part of the presentation, producing any part of the transcript, or suggesting amendments to the presentation or reflective paper.
+**Answers:** 1. 40 marks total: presentation 30 marks, reflective paper 10 marks. 2. Three or four members — the syllabus notes they work together well and often find it easier to agree on what problem to research. 3. AO1 (Research, analysis and evaluation) and AO3 (Communication). 4. Maximum 10 minutes; work beyond the limit is simply not assessed. 5. Maximum 800 words; AO2 (Reflection). 6. Any two of: offering detailed subject guidance, carrying out research on the candidate's behalf, writing or correcting any part of their notes, preparing any part of the presentation, producing any part of the transcript, or suggesting amendments to the presentation or reflective paper.

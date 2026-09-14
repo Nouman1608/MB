@@ -25,6 +25,16 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers and their
 > source materials. Use these alongside the official past papers available free
 > from your board.
+>
+> **The real paper**, for reference, is 1 hour 30 minutes, 45 marks, and sets
+> THREE questions (5, 15 and 25 marks) based on TWO source documents — a
+> different shape from the eight shorter questions below, which are organised
+> by skill for focused practice rather than as a full-paper simulation.
+>
+> **Coverage note:** this resource, and Marlbridge's other 9239 resources
+> published so far, cover Components 1-3 (the AS Level) only. Component 4,
+> the Cambridge Research Report (85 marks, A-Level-only), does not yet have a
+> dedicated Marlbridge resource.
 
 Related: [Component 1 Written Exam revision notes](/resources/a-level-cambridge-global-perspectives-written-exam-revision-notes/)
 
@@ -38,7 +48,7 @@ who oppose this change simply don't understand modern management."*
 
 ## Section A
 
-**1.** Deconstruct the argument in the source into its claim, reasons, evidence, assumptions and conclusion. **[4]**
+**1.** Deconstruct the argument in the source into its conclusion, reasons, evidence, and one unstated assumption. **[4]**
 
 **2.** Identify **two** reasoning flaws in the source and explain how each undermines the argument. **[6]**
 
@@ -60,7 +70,7 @@ who oppose this change simply don't understand modern management."*
 
 ## Answers
 
-**1. Claim:** every country should adopt a four-day week [1]. **Reasons/evidence:** one city's productivity rose 15% after adopting it [1]. **Assumption:** what worked in one city will generalise to every country and every kind of work [1]. **Conclusion:** a four-day week should be adopted everywhere [1].
+**1. Conclusion:** a four-day week should be adopted everywhere [1]. **Reasons:** adopting a four-day week is expected to raise productivity, mirroring the one city's experience [1]. **Evidence:** a city that introduced a four-day week saw productivity rise by 15% in its first year [1]. **Assumption:** what happened in one city, in one context, will generalise to every country and every kind of work [1].
 
 **2.** **Hasty generalisation** — one city's result is extrapolated to "every country," ignoring differences in industry, economy and culture, so the evidence cannot support a claim that broad [3]. **Ad hominem** — dismissing opposing business leaders as not understanding modern management attacks the arguer rather than engaging with their actual objections, which weakens rather than strengthens the case [3]. (Other valid flaws, e.g. false cause between the policy and the productivity rise, credited equally.)
 
@@ -70,7 +80,7 @@ who oppose this change simply don't understand modern management."*
 
 **5.** A strong response takes a clear position [1], directly engages with the source's evidence while acknowledging its limitations (small sample, missing methodology) [3], weighs at least one perspective against another (e.g. small-firm cost concerns vs. wider productivity potential) [2], and reaches a conclusion that follows from the reasoning given, while acknowledging remaining uncertainty [2].
 
-**6.** **Reverse causation** — the argument assumes spending causes higher GDP, but it is equally plausible that **richer countries can afford to spend more on education**, so the causal arrow may run the other way [3]. **Confounding** — factors such as **governance, political stability and infrastructure** could independently raise both education spending and GDP, so the correlation may not reflect a direct causal link between the two at all [3]. (Also accept: sufficiency — no data given on timescale or the size of any effect.)
+**6.** **False cause** — the argument assumes spending causes higher GDP, but this is not established: the causal arrow could run in reverse (**richer countries can afford to spend more on education**), or a confounding variable such as **governance, political stability or infrastructure** could be driving both independently. Reverse causation and a confounding variable are both specific patterns of false cause, so identifying either one (or both, as alternative explanations of the same underlying flaw) earns credit as a single false-cause weakness, not as two separate flaws [3]. **Sufficiency** — no data is given on the timescale or the size of any effect, so even if a causal link exists, the argument has not established it is strong enough to justify the conclusion [3].
 
 **7.** Global issues are **contested** — reasonable people can disagree about the right response — and **interconnected**, meaning a decision in one area affects others [2]. An energy policy, for example, is simultaneously **economic** (cost and jobs), **environmental** (emissions), **political** (energy security) and **ethical** (fairness between generations) all at once, so addressing one dimension (e.g. cutting emissions) can create a new problem in another (e.g. raising costs for consumers) [2].
 
@@ -84,6 +94,6 @@ who oppose this change simply don't understand modern management."*
 - Evaluating evidence only on "it's just one example" without naming the actual criteria (sufficiency, methodology, corroboration).
 - Describing perspectives without grounding them in a specific context.
 - A personal view that ignores the source entirely instead of using it as the starting point for reasoning.
-- Confusing reverse causation with confounding — reverse causation means the causal arrow may run backwards; confounding means a third factor may be driving both variables.
+- Treating reverse causation and a confounding variable as two separately creditable flaws, rather than as two specific patterns of the same underlying false-cause weakness.
 - Analysing a contested global issue along only one dimension (e.g. only economic) rather than naming the interconnected trade-offs across others.
 - Applying the same evaluation criteria to every source type, rather than adapting them to whether the source is data-heavy, opinion-based, or factual reporting.

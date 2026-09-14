@@ -124,4 +124,7 @@ each point.
 2026-2028, Version 2, verified 2026-08-27). The worked scenario above is an original example written
 for this resource, not a reproduction of any official past or specimen paper question. Always check
 the current syllabus for your examination year at
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/693604-2026-2028-syllabus.pdf).*
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/693604-2026-2028-syllabus.pdf).
+Note: 7100 is available in zones 3, 4 and 5 in 2026-2027, and in zone 4 only from 2028 (a zone
+restriction, not a withdrawal) — confirm current availability for your zone on the official subject
+page before relying on this syllabus for the full three years.*

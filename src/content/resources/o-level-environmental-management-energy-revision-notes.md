@@ -19,11 +19,18 @@ featured: false
 ---
 
 Condensed recall notes for **Topic 2 Energy and the Environment**, the
-second of nine topics in Cambridge O Level Environmental Management
-(5014), 2025–2026 series. Use these alongside the full study guide on
-Topic 2 for explanation and worked examples — these notes are for fast
-recall of the topic's six sub-sections in the final stretch of
-revision.
+second of nine topics in the **outgoing 2025–2026 edition** of Cambridge
+O Level Environmental Management (5014). Use these alongside the full
+study guide on Topic 2 for explanation and worked examples — these
+notes are for fast recall of the topic's six sub-sections in the final
+stretch of revision.
+
+**Note:** 5014 also has an already-published 2027-2029 edition with a
+different, seven-topic structure (energy becomes three sub-topics of a
+Natural Resources topic rather than its own topic). These notes follow
+the outgoing nine-topic syllabus, available for its final sitting in
+only one administrative territory (Mauritius) — check which edition
+your course is using.
 
 ## 2.1 Fossil fuel formation
 
@@ -100,7 +107,7 @@ limitation for each rather than listing strategies without comment.
 ## Quick recall checklist
 
 - Can I describe how each of coal, oil and gas forms?
-- Can I correctly sort all eight named energy resources into renewable
+- Can I correctly sort all nine named energy resources into renewable
   and non-renewable?
 - Do I know all five factors affecting energy demand, with a reason for
   each?

@@ -28,11 +28,19 @@ Critical Path, rather than a fixed body of content knowledge.
 ## Where this fits in 9239
 
 Components 1-3 (Written Exam, Essay, Team Project) together make up
-the AS Level. The full A Level adds Component 4 (Cambridge Research
-Report). There are three routes through the qualification: AS Level
-only (Components 1-3 in one series), A Level staged over two years
-(Components 1-3 in Year 1, Component 4 in Year 2), or the full A Level
-completed in a single series (all four components together).
+the AS Level. The full A Level adds Component 4, the Cambridge
+Research Report -- a research report of up to 5000 words (75 marks)
+plus a research log (10 marks), 85 marks in total, making it worth
+half of the full A Level on its own and the only component that
+distinguishes the full A Level from the AS-only qualification. There
+are three routes through the qualification: AS Level only (Components
+1-3 in one series), A Level staged over two years (Components 1-3 in
+Year 1, Component 4 in Year 2), or the full A Level completed in a
+single series (all four components together).
+
+**Coverage note:** this guide, and Marlbridge's other 9239 resources
+published so far, cover Components 1-3 (the AS Level) only. Component
+4 does not yet have a dedicated Marlbridge resource.
 
 ## Syllabus coverage
 
@@ -48,11 +56,18 @@ subject content.
 
 ## How to approach it
 
-Because this component rewards the Critical Path approach specifically,
-practise applying its stages explicitly -- identifying an issue,
-gathering and interrogating evidence, exploring multiple perspectives,
-and forming a reasoned personal view -- rather than answering source
-questions in an unstructured way. Since sources are unseen and drawn
+The syllabus's own Critical Path names four linked stages --
+**deconstruction, reconstruction, reflection, and communication and
+collaboration** -- and maps them to each component. The Written Exam's
+own mapping row applies **deconstruction, reconstruction and
+communication**, but explicitly **excludes reflection and
+collaboration** (the exam is individually assessed, and its own AO2
+Reflection weighting is 0%). Practise applying the three stages that
+do apply explicitly -- deconstructing an argument into its parts,
+reconstructing perspectives by researching and weighing the evidence
+and sources behind them, and communicating your reasoning clearly and
+in a structured way -- rather than answering source questions in an
+unstructured way. Since sources are unseen and drawn
 from varied global topics, build general skill in reading critically
 across different types of material (data, opinion pieces, reports)
 rather than researching specific topics in depth beforehand. Comparing
@@ -75,12 +90,12 @@ Content knowledge is not credited for its own sake. What earns marks is the qual
 
 ## Deconstructing an argument
 
-Every argument reduces to **claim, reasons, evidence, assumptions, conclusion**. Deconstruction means separating these out before judging any of them.
+The syllabus's own vocabulary for this stage is **conclusion, reasons (premises), assumptions (stated and unstated), assertions (and counter-assertions), and evidence** -- five separate things to identify before judging any of them. ("Claim" is not a separate syllabus term alongside "conclusion" -- treat a stated claim as the argument's conclusion, not as a sixth element.)
 
 Look for structural weaknesses rather than disagreeing with the conclusion:
 
 - **Hasty generalisation** — a broad claim from limited cases.
-- **False cause** — treating correlation as causation, or ignoring a confounding variable.
+- **False cause** — treating correlation as causation without justification. This covers several related patterns: confusing correlation with causation, overlooking a confounding variable that could explain both things independently, or missing that the causal arrow may run in reverse (reverse causation). Identifying **any one** of these specific patterns earns credit as false cause -- they are not separately creditable weaknesses.
 - **False dichotomy** — presenting two options as exhaustive.
 - **Ad hominem** — attacking the arguer rather than the argument.
 - **Appeal to authority** — citing status rather than evidence, particularly outside the authority's field.
@@ -108,13 +123,15 @@ Sustained argument means a position held consistently across the response, suppo
 "Countries that invest more in education have higher GDP per capita. Therefore increasing education spending will raise national income."
 
 ```
-Structure   claim: spending raises income
+Structure   conclusion: spending raises income
             evidence: a correlation across countries
 
 Weaknesses
-  False cause      -> correlation does not establish direction
-  Reverse causation-> richer countries can AFFORD more education
-  Confounding      -> governance, stability and infrastructure affect both
+  False cause      -> the correlation does not establish that spending
+                       CAUSES higher income: the causal arrow could run
+                       in reverse (richer countries can afford more
+                       education), or a confounding variable (governance,
+                       stability, infrastructure) could be driving both
   Oversimplified   -> how it is spent matters more than how much
   Sufficiency      -> no data on timescale or magnitude of effect
 ```
@@ -127,7 +144,7 @@ Disagreeing with a conclusion instead of examining the reasoning. Naming a falla
 
 ## Quick revision checklist
 
-- Deconstruct an argument into claim, reasons, evidence, assumptions and conclusion.
+- Deconstruct an argument into its conclusion, reasons, evidence, assumptions and assertions.
 - Identify and explain each named fallacy from the text.
 - Evaluate evidence on provenance, methodology, currency, corroboration and sufficiency.
 - Interrogate statistics for baseline, sample and fair comparison.

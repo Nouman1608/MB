@@ -20,10 +20,11 @@ featured: false
 
 This guide covers **Component 3 – Team Project**, the third and final
 component of Cambridge IGCSE Global Perspectives (0457), 2025–2027
-series, worth 70 marks and weighted 35% of the qualification — the
-single largest component. Global Perspectives is a skills-based
-syllabus: as with Components 1 and 2, "knowledge of content is not
-assessed" here either. The Team Project instead assesses research,
+series, worth 70 marks and weighted 35% of the qualification — **tied
+with Component 1 (Written Exam) as the joint-largest component**;
+Component 2 (Individual Report) carries the remaining 60 marks (30%).
+Global Perspectives is a skills-based syllabus: as with Components 1
+and 2, "knowledge of content is not assessed" here either. The Team Project instead assesses research,
 analysis, evaluation, reflection, communication and collaboration,
 carried out by candidates working in teams.
 
@@ -47,15 +48,29 @@ sit each component.
 
 Candidates work in teams of two to five to design and carry out a
 collaborative project, addressing a local issue linked to a topic from
-the syllabus's topic list. The Team Project has two elements:
+the syllabus's topic list. The Team Project has two elements, and
+Collaboration is a sub-strand of the Team Element rather than a third,
+parallel category:
 
-- **Team Element** — the Explanation of Research and Planning (10
-  marks) and the Evidence of Action (5 marks), both produced
-  collaboratively and marked identically for every team member
-- **Personal Element** — the individual Reflective Paper (45 marks),
-  marked separately for each candidate
-- **Collaboration** (10 marks: 5 team marks and 5 individual marks) is
-  assessed across the whole process based on teacher observation
+- **Team Element (25 marks)** — four mark tables, all produced
+  collaboratively: the Explanation of Research and Planning (10
+  marks) and the Evidence of Action (5 marks), plus Collaboration (10
+  marks: 5 marks awarded identically to the whole team, and 5 marks
+  awarded individually), assessed throughout the project based on
+  teacher observation. All four tables are marked identically for
+  every team member except the individual-collaboration table, which
+  can vary between members.
+- **Personal Element (45 marks)** — four mark tables, all marked
+  individually from the candidate's own Reflective Paper: evaluation
+  of the action and teamwork (10 marks), reflection on learning (15
+  marks), reflection on teamwork (10 marks), and communication (10
+  marks).
+
+25 (Team Element) + 45 (Personal Element) = 70 marks, the component's
+full total. A candidate working out what the "team element" alone is
+worth should read it as 25 marks across four tables, not as the 15
+marks (Explanation of Research and Planning + Evidence of Action)
+those two documents carry on their own.
 
 ## How the Team Project actually runs
 
@@ -104,10 +119,11 @@ Paper is where an individual candidate's grade is most directly
 determined, and it is worth nearly two-thirds of the component's total
 marks.
 
-## Collaboration (10 marks)
+## Collaboration (10 marks, part of the Team Element)
 
-Collaboration is assessed by the teacher through observation across the
-whole project, not from a single document. The syllabus lists the
+Collaboration is one sub-strand of the 25-mark Team Element, not a
+separate category alongside it. It is assessed by the teacher through
+observation across the whole project, not from a single document. The syllabus lists the
 behaviours examiners look for: clear communication between team
 members, sharing and developing ideas, agreeing targets and deadlines,
 solving problems, being flexible when required, dividing tasks and

@@ -37,10 +37,10 @@ public corporation (public sector).
 
 ## Why small-scale retailers survive — always give a reason
 
-Don't assume small shops are simply being squeezed out. Personal service, flexible opening hours,
-convenience and local knowledge of customers are the named reasons independent shops and market stalls
-continue to survive alongside supermarkets and online sellers. Examiners reward this survival
-explanation, not just growth-of-large-scale-retail description.
+Don't assume small shops are simply being squeezed out. The syllabus's own (illustrative, "e.g.") examples
+are personal service, flexible opening hours and additional services provided; convenience and local
+knowledge of customers are further legitimate examples, not a replacement for the syllabus's third
+example. Examiners reward this survival explanation, not just growth-of-large-scale-retail description.
 
 ## Retail vs wholesale — keep the direction straight
 
@@ -103,12 +103,22 @@ distribution). Be ready to explain why an enterprise might choose to outsource r
 in-house — typically lower cost, access to specialist expertise, and freeing up capital and management
 time for the enterprise's core activities.
 
+## Commercial calculations (Topic 5.4 — noted here for reference)
+
+The syllabus expects a handful of named financial calculations, examinable with simple figures.
+Two worth knowing:
+
+- **Revenue** = Selling price per unit × Number of units sold. E.g. 200 units at $15 = **$3,000**.
+- **Mark-up percentage** = (Average Selling Price − Unit Cost) ÷ Unit Cost. This is printed as a ratio,
+  not with the ×100 already applied — treat converting it to a percentage as a **separate final step**.
+  E.g. unit cost $40, selling price $50: ($50 − $40) ÷ $40 = 0.25, then **× 100 = 25%** mark-up.
+
 ## Digital retail and trading document trends
 
 The retailing and trading-documents sub-topics both carry a digital dimension worth revising alongside
 the traditional content: digital retail trends include omnichannel retailing, cashless stores, EPoS,
-click and collect, self-service checkouts, subscription commerce, QR codes, VR showrooms, dropshipping
-and mobile apps, while trading documents increasingly move online too, with digital signatures and
+click and collect, self-service checkouts, subscription commerce, QR codes, VR showrooms, dropshipping,
+mobile apps and multi-channel retailing, while trading documents increasingly move online too, with digital signatures and
 electronic receipts replacing paper equivalents at each stage of the same underlying sequence. Treat
 these as the digital version of concepts you already know, rather than an entirely separate list to
 memorise from scratch.
@@ -119,13 +129,14 @@ memorise from scratch.
 2. Name two physical location factors and two ecommerce location factors.
 3. Why do small-scale retailers continue to survive?
 4. What is the correct order of the first four home-trade documents in a transaction?
-5. Name the five factors that determine choice of communication method.
+5. Name the six factors that determine choice of communication method.
 
 **Answers:** 1. Sole trader → partnership → private limited company → public limited company (more
 capital, less personal control at each step). 2. Physical: labour, transport (or markets, power, raw
 materials). Ecommerce: wi-fi, warehousing (or technology specialists, logistics). 3. Personal service,
-flexible opening hours, convenience, local knowledge of customers. 4. Enquiry, quotation, order,
-invoice. 5. Urgency, cost, security, distance, network availability (plus importance of the message).
+flexible opening hours, additional services provided (the syllabus's own three examples — convenience
+and local knowledge of customers are legitimate further examples). 4. Enquiry, quotation, order,
+invoice. 5. Urgency, cost, security, distance, availability of networks, importance of the message.
 
 ## Official syllabus
 

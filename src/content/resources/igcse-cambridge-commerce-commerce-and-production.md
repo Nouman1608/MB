@@ -41,10 +41,17 @@ the rest of the course.
 - 1.1 Trade and commerce — the meaning of trade and commerce and the
 distinction between the two, home trade (retail and wholesale) and
 international trade (exports and imports), aids to trade and logistics
-in a supply chain, and the different types of modern commerce
-(traditional, ecommerce, mcommerce and scommerce)
-- 1.2 Production — how production, trade and commerce are
-interdependent
+in a supply chain, the different types of modern commerce
+(traditional, ecommerce, mcommerce and scommerce), and how production,
+trade and commerce are interdependent
+- 1.2 Production — six sub-sections: sectors of production and
+specialisation; in-house production and outsourced production; global
+supply chains (including the domestic supply chain); intermediaries in
+a supply chain (home trade: wholesaler and retailer; international
+trade: agent and factor); the effects of digital technology on
+production (automation/robotics, and digital communication with
+suppliers such as electronic data interchange); and the costs involved
+in trade, commerce and production, including simple cost calculations
 
 ## How to approach it
 
@@ -71,11 +78,38 @@ Cambridge IGCSE Commerce (0715) syllabus for exams in 2028 —
 
 Production is any activity that satisfies human needs and wants. **Needs** are essentials — food, shelter, clothing; **wants** are everything beyond that. Because resources are finite and wants are not, choices must be made, and every choice carries an opportunity cost.
 
-Production is conventionally divided into three branches:
+Production is divided into four sectors — a closed, four-way list, with no fifth sector:
 
-- **Primary** — extractive industries such as mining and quarrying, and genetic industries such as farming, fishing and forestry, which cultivate and replace what they take.
-- **Secondary** — manufacturing, processing and construction, which convert raw materials into finished or semi-finished goods.
-- **Tertiary** — services, subdivided into **commercial services** (trade and aids to trade, which help industry function) and **direct personal services** (teachers, doctors, hairdressers, who serve people directly).
+- **Primary (extractive)** — mining, quarrying, farming, fishing and forestry.
+- **Secondary** — manufacturing and construction, which convert raw materials into finished or semi-finished goods.
+- **Tertiary** — subdivided into **commercial services** (trade and aids to trade, which help industry function) and **direct services** (teachers, doctors, hairdressers, who serve people directly).
+- **Quaternary** — digital technology.
+
+## Specialisation
+
+Specialisation means concentrating on producing one thing, or one stage of a process, rather than a whole range. The syllabus requires the advantages and disadvantages of specialisation for three named contexts: an **individual** (becomes highly skilled at one task, but the work can be repetitive and narrow), a **factory** (can mechanise and achieve economies of scale, but becomes heavily dependent on one product), and a **country** (can export what it produces efficiently and import the rest, but becomes dependent on trade). Specialisation is the reason exchange — and therefore commerce — becomes necessary.
+
+## In-house and outsourced production
+
+**In-house production** is making goods or providing services using an enterprise's own resources; **outsourced production** is paying another enterprise to do so. In-house production gives greater control over quality and information; outsourcing gives access to external expertise and can reduce costs.
+
+## Global and domestic supply chains
+
+A **global supply chain** sources materials, components or services from suppliers in other countries; a **domestic supply chain** sources them from within the same country. The choice between the two affects cost, control, lead times and exposure to international risk.
+
+## Intermediaries in a supply chain
+
+Home trade intermediaries are the **wholesaler** and the **retailer**. International trade adds two further named roles: the **agent**, who acts on behalf of a buyer or seller (often locally, in the target market) without taking ownership of the goods, and the **factor**, who takes possession of goods on consignment and sells them on behalf of the owner in return for a commission.
+
+## Effects of digital technology on production
+
+Two named effects: **automation**, e.g. using robotics in production, and digital communication with suppliers, e.g. using **electronic data interchange (EDI)** to exchange orders and stock information electronically.
+
+## Costs involved in trade, commerce and production
+
+Ten named cost types: advertising, bank charges, commission, customs duties, inventory, labour, packaging, transport, utilities and warehousing. The syllabus expects candidates to complete simple calculations of these costs from given figures.
+
+*Worked example:* a shipment costs $2,400 in transport, $150 in customs duties and $90 in packaging. Total cost = $2,400 + $150 + $90 = **$2,640**.
 
 ## Where commerce sits
 
@@ -101,7 +135,7 @@ Each aid to trade removes a specific obstacle. Without insurance, few would risk
 
 Both involve buying and selling for profit, both require aids to trade, and both depend on a surplus being produced. They differ in that foreign trade crosses national boundaries, involves different currencies and exchange-rate risk, may use different units of measurement, faces customs duties and quotas, and requires more documentation and longer transport.
 
-**Entrepot trade** is the one candidates forget: goods are imported into a country and then re-exported, often after storage or minor processing, without being consumed domestically.
+**Entrepot trade** (background — this term itself does not appear in either syllabus, though the underlying idea is a legitimate example of foreign trade): goods are imported into a country and then re-exported, often after storage or minor processing, without being consumed domestically.
 
 ## How transport and communication have changed commerce
 
@@ -122,12 +156,13 @@ Naming the aid **and** the obstacle it removes is what earns the second mark in 
 
 ## Common mistakes
 
-Treating commerce and trade as the same thing — trade is only one branch of commerce. Putting banking under trade rather than aids to trade. Forgetting entrepot trade when asked to classify foreign trade. Describing genetic industries as secondary because they involve cultivation. Listing aids to trade without saying what each one is for.
+Treating commerce and trade as the same thing — trade is only one branch of commerce. Putting banking under trade rather than aids to trade. Forgetting the fourth (quaternary) sector when listing the sectors of production. Farming, fishing and forestry sit inside primary (extractive) — there is no separate "genetic" category in the syllabus. Listing aids to trade without saying what each one is for. Substituting "worker" or "region/town" for the syllabus's actual specialisation contexts (individual, factory, country).
 
 ## Quick revision checklist
 
 - Distinguish needs from wants and explain why choice creates opportunity cost.
-- Classify any given industry as primary, secondary or tertiary, including genetic and extractive.
+- Classify any given industry as primary (extractive), secondary, tertiary or quaternary.
 - Draw the structure of commerce from memory.
 - State the function of each aid to trade and the obstacle it removes.
-- Compare home and foreign trade, and define entrepot trade.
+- Compare home and foreign trade.
+- State the advantages and disadvantages of specialisation for an individual, a factory and a country.

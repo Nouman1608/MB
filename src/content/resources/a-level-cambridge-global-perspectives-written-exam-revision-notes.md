@@ -22,24 +22,39 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Component 1 Written Exam study guide](/resources/a-level-cambridge-global-perspectives-written-exam/).
 
-## The Critical Path (memorise this sequence)
+## The Critical Path — the syllabus's real model
+
+The syllabus's own approach to teaching and learning names **four**
+linked stages, mapped to specific skills:
 
 ```
-1. IDENTIFY the issue
-2. GATHER and INTERROGATE evidence
-3. EXPLORE multiple perspectives
-4. FORM a reasoned personal view
+Deconstruction    — analyse and evaluate a point of view
+Reconstruction    — research, evaluate evidence and sources for competing views
+Reflection        — explore the impact of research on personal perspectives
+Communication and collaboration — communicate views and work with others
 ```
+
+**This component does not test every stage.** The syllabus's own
+component-mapping table applies **deconstruction, reconstruction and
+communication** to Component 1, but explicitly **excludes reflection
+and collaboration** — the written exam is individually assessed and
+its own AO2 (Reflection) weighting is 0%. Reflection and collaboration
+apply fully to Components 2, 3 and 4 instead. Don't memorise an
+invented four-word sequence in place of this real model.
 
 Content knowledge is **not** credited for its own sake — marks come from the quality of reasoning
 applied to the sources given on the day.
 
-## Deconstructing an argument (claim → reasons → evidence → assumptions → conclusion)
+## Deconstructing an argument (conclusion, reasons, assumptions, assertions, evidence)
+
+The syllabus's own vocabulary for this stage does not include "claim"
+as a term separate from "conclusion" — treat a stated claim as the
+argument's conclusion, not as a sixth element.
 
 | Flaw | What it looks like |
 |---|---|
 | Hasty generalisation | Broad claim from limited cases |
-| False cause | Correlation treated as causation |
+| False cause | Correlation treated as causation, without justification — covers confusing correlation with causation, overlooking a confounding variable, or reverse causation. Naming **any one** of these earns credit as false cause; they are not separately creditable |
 | False dichotomy | Two options presented as the only ones |
 | Ad hominem | Attacking the arguer, not the argument |
 | Appeal to authority | Citing status instead of evidence |
@@ -61,12 +76,15 @@ Explaining *why* a perspective is held (its context) scores higher than describi
 
 ## Worked example (condensed)
 
-Claim: "Countries that invest more in education have higher GDP per capita, so increasing education
-spending will raise national income." Weaknesses to spot: **false cause** (correlation does not
-establish direction), **reverse causation** (richer countries can afford more education, not just the
-other way round), **confounding variables** (governance, stability and infrastructure affect both),
-and **sufficiency** (no data given on timescale or size of the effect). Naming a flaw *and* explaining
-why it undermines the inference — not naming it alone — is what separates the top band.
+Conclusion: "Countries that invest more in education have higher GDP per capita, so increasing education
+spending will raise national income." Weaknesses to spot: **false cause** — the correlation does not
+establish that spending causes income growth; it could equally be **reverse causation** (richer countries
+can afford more education, not just the other way round) or a **confounding variable** (governance,
+stability and infrastructure affecting both). Reverse causation and confounding are both specific patterns
+of false cause here, so identifying either counts as the *same* flaw, not two separate ones. The second,
+genuinely distinct flaw to raise is **sufficiency** (no data given on timescale or size of the effect).
+Naming a flaw *and* explaining why it undermines the inference — not naming it alone — is what separates
+the top band.
 
 ## Contested and interconnected issues
 
@@ -111,17 +129,22 @@ each source says in turn.
 
 Component 1 is one of three AS-level components, alongside the Essay and the Team Project, and all
 three together form the AS Level on their own; the full A Level adds a fourth component, the
-Cambridge Research Report, completed either in the same series or in a second year of study. Because
-this component is externally set and marked, and based entirely on unseen source material, no amount
-of pre-learned subject content can substitute for practising the Critical Path itself under timed
-conditions — the skill being tested is the reasoning process applied on the day, not recalled
-knowledge of any particular global issue.
+Cambridge Research Report (a research report of up to 5000 words worth 75 marks, plus a 10-mark
+research log — 85 marks in total, half of the full A Level), completed either in the same series or
+in a second year of study. Because this component is externally set and marked, and based entirely on
+unseen source material, no amount of pre-learned subject content can substitute for practising
+deconstruction, reconstruction and communication itself under timed conditions — the skill being
+tested is the reasoning process applied on the day, not recalled knowledge of any particular global
+issue.
+
+**Coverage note:** these notes, and Marlbridge's other 9239 resources published so far, cover
+Components 1-3 (the AS Level) only. Component 4 does not yet have a dedicated Marlbridge resource.
 
 ## Self-test
 
-1. State the four stages of the Critical Path in order.
+1. Name the Critical Path's four real stages, and state which of them apply to this component.
 2. What five things should you evaluate evidence on?
 3. Why does describing a perspective score lower than explaining its context?
 4. What's wrong with "cases rose from 2 to 4, a 100% increase"?
 
-**Answers:** 1. Identify the issue, gather and interrogate evidence, explore perspectives, form a reasoned personal view. 2. Provenance, methodology, currency, corroboration, sufficiency. 3. Because explaining *why* a perspective is held (its economic, political, cultural or other context) demonstrates deeper understanding than simply restating what the perspective claims. 4. The percentage is technically correct but the underlying sample (2 to 4 cases) is too small to be meaningful — a genuine example of a low-sufficiency statistic.
+**Answers:** 1. Deconstruction, reconstruction, reflection, and communication and collaboration; only deconstruction, reconstruction and communication apply to Component 1 — its own mapping table excludes reflection and collaboration. 2. Provenance, methodology, currency, corroboration, sufficiency. 3. Because explaining *why* a perspective is held (its economic, political, cultural or other context) demonstrates deeper understanding than simply restating what the perspective claims. 4. The percentage is technically correct but the underlying sample (2 to 4 cases) is too small to be meaningful — a genuine example of a low-sufficiency statistic.

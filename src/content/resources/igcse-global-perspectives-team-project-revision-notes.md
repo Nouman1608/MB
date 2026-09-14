@@ -23,16 +23,25 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Mark breakdown — know where the marks actually sit
 
-| Element | Component | Marks | Marked how |
-|---|---|---|---|
-| Team | Explanation of Research and Planning | 10 | Same mark, every team member |
-| Team | Evidence of Action | 5 | Same mark, every team member |
-| Personal | Reflective Paper | 45 | Individual, per candidate |
-| Both | Collaboration | 10 (5 team + 5 individual) | Teacher observation |
+Collaboration is a sub-strand of the **Team Element**, not a third
+category parallel to it — the Team Element is 25 marks across four
+tables, and the Personal Element is 45 marks across four tables.
 
-**The Reflective Paper is nearly two-thirds of the 70-mark component**
-— it is where an individual candidate's grade is most directly
-decided, even though the project itself is a team effort.
+| Element | Table | Marks | Marked how |
+|---|---|---|---|
+| **Team Element (25)** | Explanation of Research and Planning | 10 | Same mark, every team member |
+| **Team Element (25)** | Evidence of Action | 5 | Same mark, every team member |
+| **Team Element (25)** | Team Collaboration | 5 | Same mark, every team member |
+| **Team Element (25)** | Individual Collaboration | 5 | Individual, varies by member |
+| **Personal Element (45)** | Evaluation of action and teamwork | 10 | Individual, per candidate |
+| **Personal Element (45)** | Reflection on learning | 15 | Individual, per candidate |
+| **Personal Element (45)** | Reflection on teamwork | 10 | Individual, per candidate |
+| **Personal Element (45)** | Communication | 10 | Individual, per candidate |
+
+25 + 45 = 70. **The Personal Element (the Reflective Paper) is nearly
+two-thirds of the 70-mark component** — it is where an individual
+candidate's grade is most directly decided, even though the project
+itself is a team effort.
 
 ## Hard limits — marks are lost, not deducted, beyond the cap
 
@@ -80,7 +89,7 @@ own collaboration were.
 below the top band** — reflection and evaluation are what the mark
 scheme actually rewards, not a narrative account of events.
 
-## Collaboration (10 marks) — individually variable
+## Collaboration (10 marks, part of the Team Element) — individually variable
 
 Assessed by teacher observation across the whole project, not from
 one document. Behaviours examiners look for: clear communication,

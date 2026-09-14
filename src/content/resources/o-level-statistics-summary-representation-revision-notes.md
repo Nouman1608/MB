@@ -75,18 +75,21 @@ already-drawn example.
   in Topic 2 questions — almost every Statistics exam question includes
   some given data to interpret before further calculation is possible.
 
-## Command word reminders
+## Question-stem guidance (not a defined command-word list)
 
-"Represent" questions expect a correctly drawn, correctly labelled
-diagram — an unlabelled axis or missing key is marked down even if the
-underlying data is plotted accurately. "Interpret" questions expect a
-sentence-level conclusion, not just a number read off the diagram: if
-asked to interpret a comparative pie chart, state what the comparison
-actually shows (for example, which category grew and by roughly how
-much) rather than only restating the percentages shown. "Discuss
-advantages and disadvantages" always expects both sides for at least
-one diagram type — a one-sided answer cannot reach full marks on this
-sub-topic.
+4040's own syllabus publishes no command-word list at all, so none of the phrasing below should be treated
+as a fixed, examined term for this code -- it is guidance on what each style of question stem tends to
+expect. "Represent" question stems expect a correctly drawn, correctly labelled diagram — an unlabelled
+axis or missing key is marked down even if the underlying data is plotted accurately (0479 uses "represent"
+freely as an ordinary verb throughout its subject content -- e.g. "represent and interpret data in..." --
+but does not list it among its 18 defined command words either). "Interpret" is worth noting specially: it
+**is** one of the 18 command words defined in sibling 0479's syllabus ("identify meaning or significance in
+relation to the context"), so "interpret" question stems expect a sentence-level conclusion, not just a
+number read off the diagram -- if asked to interpret a comparative pie chart, state what the comparison
+actually shows (for example, which category grew and by roughly how much) rather than only restating the
+percentages shown. "Discuss advantages and disadvantages" question stems always expect both sides for at
+least one diagram type — a one-sided answer cannot reach full marks on this sub-topic — but "discuss"
+itself is not a defined command word in either code's syllabus.
 
 ## Connecting Topic 2 forward to Topic 3
 

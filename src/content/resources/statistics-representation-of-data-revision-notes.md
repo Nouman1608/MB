@@ -21,10 +21,12 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Representation of Data study guide](/resources/igcse-cambridge-statistics-representation-of-data/).
 
-## Excluded content — don't waste time on it
+## Partly excluded content — know exactly what's cut
 
-Drawing **pictograms** is not required. Identifying **outliers** from a box-and-whisker diagram is not
-required. Cambridge deliberately scoped both out of this series — spend your time elsewhere.
+Drawing **pictograms** is not required, but interpreting pictograms that are already drawn remains fully
+examinable -- only the construction step is cut. Identifying **outliers** from a box-and-whisker diagram is
+not required. This is a new syllabus (0479's first examination is 2027), so nothing has been "scoped out of
+a series" -- these are simply the syllabus's own stated exclusions, not changes from an earlier version.
 
 ## Diagram type — one-line "when to use it" lookup
 
@@ -32,7 +34,7 @@ required. Cambridge deliberately scoped both out of this series — spend your t
 |---|---|
 | Simple bar chart / pictogram | Quick visual comparison of categories |
 | Sectional / percentage sectional bar chart, pie chart | When parts of a whole matter as much as the total |
-| Comparative pie chart / multiple bar chart | Comparing two data sets side by side |
+| Comparative pie chart / multiple bar chart | Comparing two data sets side by side -- a comparative pie chart is conventionally two pie charts whose radii are scaled to the square roots of their totals, not simply two same-size charts |
 | Venn diagram | Data falling into overlapping categories |
 | Box-and-whisker diagram | Summarising spread; comparing the middle 50% |
 | Stem-and-leaf (incl. back-to-back) | Keeping individual data values visible |

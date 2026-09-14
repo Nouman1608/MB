@@ -82,10 +82,16 @@ as number of siblings), class limits, boundaries, midpoints and widths
 are all required and are typically whole numbers or simple midpoints
 between them. For **continuous data** (values that can take any value
 in a range, such as height or time), only class boundaries, midpoints
-and widths are required — there are no meaningful class limits, since
-continuous values do not have gaps between classes. Confusing these two
-cases, or using discrete-style limits for continuous data, is the most
-common error the syllabus flags in this outcome.
+and widths are required -- not because class limits do not exist, but
+because for continuous data the stated limits and the class boundaries
+coincide, so only the boundaries need to be examined separately.
+Confusing these two cases, or using discrete-style limits for
+continuous data, is the most common error the syllabus flags in this
+outcome. (This is a separate point from outcome 4's equal-class-widths
+rule below, which applies to frequency polygons specifically --
+histograms are still expected to handle unequal class widths, via
+frequency density, so that content is not excluded by anything said
+here.)
 
 ## Histograms and frequency polygons (outcomes 3–4)
 
@@ -99,6 +105,22 @@ plotting frequency against the midpoint of each class and joining the
 points — it is the tool of choice when the syllabus asks candidates to
 compare two frequency distributions on the same axes, since two
 polygons overlay far more clearly than two histograms.
+
+## Worked example: frequency density and histogram bar heights
+
+A grouped distribution has classes of unequal width: "10 -- under 30" (width 20) has frequency 8, and
+"30 -- under 40" (width 10) has frequency 12.
+
+```
+Frequency density = frequency / class width
+
+Class "10 -- under 30": frequency density = 8 / 20 = 0.4
+Class "30 -- under 40": frequency density = 12 / 10 = 1.2
+```
+
+Even though the second class has a higher raw frequency count (12 vs 8), its frequency density (1.2) is
+three times the first class's (0.4) -- so on the histogram the narrower class is drawn with the taller bar,
+and the vertical axis must be labelled "frequency density", not "frequency".
 
 ## Cumulative frequency (outcomes 5–6)
 

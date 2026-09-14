@@ -75,6 +75,15 @@ the topic's six sub-topics in the final stretch of revision.
 - The wholesaler's **importance to both manufacturer and retailer** —
   learn this as a two-sided relationship, not a single function.
 
+## Commercial calculations (Topic 5.4 — noted here for reference)
+
+Two of the syllabus's named financial calculations, worth knowing ahead of time:
+
+- **Revenue** = Selling price per unit × Number of units sold, e.g. 150 units at $20 = **$3,000**.
+- **Mark-up percentage** = (Average Selling Price − Unit Cost) ÷ Unit Cost. As printed, this formula does
+  **not** already include ×100 despite being a percentage — apply that as a separate final step, e.g.
+  unit cost $60, selling price $75: ($75 − $60) ÷ $60 = 0.25, **× 100 = 25%**.
+
 ## 2.5 Trading documents
 
 - The named documents used in commercial transactions and their
@@ -126,7 +135,7 @@ self-contained unit, makes revision of Topics 3 and 4 faster later.
 - Do I know the wholesaler's importance to both ends of the supply
   chain — manufacturer and retailer?
 - Can I select an appropriate communication method for a scenario using
-  the five named factors?
+  the six named factors?
 
 ## Common mistakes
 
@@ -162,4 +171,7 @@ why" questions rather than pure recall.
 Cambridge Assessment International Education, Cambridge O Level
 Commerce 7100 syllabus for 2026, 2027 and 2028:
 https://www.cambridgeinternational.org/Images/693604-2026-2028-syllabus.pdf
-(verified 2026-09-02).
+(verified 2026-09-02). Note: 7100 is available in zones 3, 4 and 5 in
+2026-2027, and in zone 4 only from 2028 (a zone restriction, not a
+withdrawal) — confirm current availability for your zone on the
+official subject page.

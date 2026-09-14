@@ -69,6 +69,9 @@ to marine aquaculture as an alternative.
 **9.** Explain the difference between a "store" and a "transfer" in the water cycle, giving one
 example of each. **[4]**
 
+**10.** Explain **four** causes of water scarcity and **two** strategies for managing water supply
+sustainably. **[8]**
+
 ---
 
 ## Answers
@@ -120,6 +123,17 @@ sources instead [1–2].
 oceans, or ground water [2]. A transfer is the movement of water from one store to another, such as
 precipitation (water moving from the atmosphere to the surface) or evaporation (water moving from a
 surface store to the atmosphere) [2].
+
+**10. Causes**, any four, 1 mark each: **population growth and urbanisation** raise demand faster than
+supply can be developed [1]; **agriculture**, which accounts for around 70% of freshwater use, often
+through inefficient flood irrigation [1]; **pollution** of rivers and aquifers by industry, sewage and
+agricultural runoff, which removes usable supply [1]; **over-abstraction of groundwater** faster than
+aquifers recharge, causing water tables to fall [1].
+**Strategies**, 2 marks each: **drip irrigation and lining canals** deliver water directly to plant
+roots and cut losses to evaporation and seepage, greatly increasing agricultural efficiency [1] [1].
+**Rainwater harvesting and greywater recycling** capture water that would otherwise be lost and reduce
+demand on mains supply [1] [1]. (Also accept: metering and pricing to reduce waste; desalination;
+repairing leaking pipes; treating and reusing wastewater.)
 
 ## A note on exam technique for this topic
 

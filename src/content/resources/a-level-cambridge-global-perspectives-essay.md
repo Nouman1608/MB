@@ -29,12 +29,21 @@ their own choosing.
 
 Global Perspectives & Research is built around Cambridge's "Critical
 Path" — a sequence of research, reasoning and communication skills
-rather than a numbered content syllabus — and is assessed across up to
-four components. Component 1 (Written Exam) and Component 3 (Team
-Project) are compulsory for the AS award; the Essay sits alongside them
-as the component where a candidate demonstrates independent research and
-argument on a self-chosen global issue, without a teacher-set question or
-a team to share the work with.
+rather than a numbered content syllabus — and is assessed across four
+components. Components 1 (Written Exam), 2 (Essay) and 3 (Team
+Project) are all compulsory for the AS award and together make up the
+AS Level; the Essay is the component where a candidate demonstrates
+independent research and argument on a self-chosen global issue,
+without a teacher-set question or a team to share the work with. The
+full A Level adds Component 4, the Cambridge Research Report (a
+research report of up to 5000 words worth 75 marks, plus a 10-mark
+research log) — 85 marks in total, half of the full A Level on its
+own, and the only component that distinguishes the full A Level from
+the AS-only qualification.
+
+**Coverage note:** this guide, and Marlbridge's other 9239 resources
+published so far, cover Components 1-3 (the AS Level) only. Component
+4 does not yet have a dedicated Marlbridge resource.
 
 ## Syllabus coverage
 

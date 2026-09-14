@@ -20,18 +20,26 @@ featured: false
 
 This guide covers **Topic 1 Data and Its Collection**, the first of
 twelve topic areas in Cambridge O Level Statistics (4040), for
-examination 2025-2027. The syllabus closely mirrors sibling Cambridge
-IGCSE Statistics (0479), sharing the same overall topic sequence with
-slightly different topic-name wording.
+examination 2025-2027. The syllabus covers much the same topic
+inventory as sibling Cambridge IGCSE Statistics (0479), but in a
+**different order** and with different topic-name wording -- for
+example, 4040 gives cumulative frequency distributions its own topic
+(Topic 4) where 0479 folds it into frequency distributions (Topic 3),
+4040 merges central tendency, dispersion, quartiles/percentiles and
+combined-data-set measures into a single Topic 5 where 0479 spreads
+them across three separate topics, and 4040 places probability at
+Topics 11-12 where 0479 places it at Topics 7-8.
 
 ## Where this fits in 4040
 
 Topic 1 sets up how statistical data is gathered and classified before
 the course progresses through Summary representation of data,
-formation of frequency distributions, statistical measures, and
-eventually probability and time series. Candidates take two compulsory
-components, both of which draw on the sampling and classification
-skills developed here.
+formation of frequency distributions, cumulative frequency
+distributions, statistical measures, transformations, crude and
+standardised rates, index numbers, bivariate distributions, time
+series, and eventually probability and probability distributions.
+Candidates take two compulsory components, both of which draw on the
+sampling and classification skills developed here.
 
 ## Syllabus coverage
 
@@ -72,7 +80,7 @@ Cambridge O Level Statistics (4040) syllabus for examination 2025,
 - **Discrete** — from counting, taking only certain values. Number of siblings, goals scored.
 - **Continuous** — from measuring, taking any value in a range. Height, mass, time.
 
-Continuous data is always recorded to an accuracy, so class boundaries must be handled correctly. A time recorded as 12.4 seconds to 1 decimal place lies in 12.35 <= t < 12.45.
+Continuous data is always recorded to an accuracy, so its stated value implies a range either side (previewing Topic 3's full treatment of class boundaries): a time recorded as 12.4 seconds to 1 decimal place lies in 12.35 <= t < 12.45.
 
 **Variables** may also be described as **bivariate** where two are recorded per item, which is what makes scatter diagrams and correlation possible.
 
@@ -103,7 +111,7 @@ Questionnaires should use clear language, avoid leading and ambiguous questions,
 
 Bias arises from an incomplete sampling frame, non-response, self-selection, leading questions, and interviewer influence. Increasing sample size reduces sampling error but does **not** remove bias.
 
-**Worked example.** A researcher wants to survey the reading habits of adults in a town, so she stands outside a bookshop on a Saturday morning and asks every 5th person who passes -- systematic sampling applied to a self-selected location. This sample is unlikely to be representative for two separate reasons: it only includes people **near a bookshop**, who are already more likely to be interested in reading than the general adult population, so the results will overstate reading habits; and it is conducted only on a **Saturday morning**, which excludes adults who work or are otherwise unavailable at that time, so the sample also fails to represent all adults' schedules and habits. The fix is not a bigger sample but a **different sampling frame** -- surveying at several different locations and at different times and days, so the frame is no longer skewed toward people who were already likely to be readers.
+**Worked example.** A researcher wants to survey the reading habits of adults in a town, so she stands outside a bookshop on a Saturday morning and asks every 5th person who passes -- systematic **in form** (every 5th person), but with no sampling frame and no defined random start, this is opportunity sampling **in substance**, applied to a self-selected location. This sample is unlikely to be representative for two separate reasons: it only includes people **near a bookshop**, who are already more likely to be interested in reading than the general adult population, so the results will overstate reading habits; and it is conducted only on a **Saturday morning**, which excludes adults who work or are otherwise unavailable at that time, so the sample also fails to represent all adults' schedules and habits. The fix is not a bigger sample but a **different sampling frame** -- surveying at several different locations and at different times and days, so the frame is no longer skewed toward people who were already likely to be readers.
 
 Data may be recorded using a **tally chart** or a **data collection sheet**, then organised into a grouped frequency table with equal class widths where possible.
 

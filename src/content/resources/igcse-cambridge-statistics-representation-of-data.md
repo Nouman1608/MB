@@ -84,8 +84,10 @@ to build a one-line "when to use it" note for each diagram type as
 you meet it: pictograms and simple bar charts for quick visual
 comparison of categories; sectional and percentage sectional bar
 charts, or pie charts, when the parts of a whole matter as much as
-the total; comparative pie charts or multiple bar charts when
-comparing two data sets side by side; Venn diagrams for data that
+the total; comparative pie charts (conventionally two pie charts
+whose radii are scaled to the square roots of their totals, not simply
+two same-size charts) or multiple bar charts when comparing two data
+sets side by side; Venn diagrams for data that
 falls into overlapping categories; box-and-whisker diagrams for
 summarising spread and identifying the middle 50% of a data set; and
 stem-and-leaf diagrams (including back-to-back versions) when the
@@ -98,10 +100,13 @@ comparing two named diagram types directly -- for example, explaining
 why a stem-and-leaf diagram preserves more detail than a grouped bar
 chart, but a bar chart is easier to read at a glance for a large data
 set, or why a pie chart shows proportion clearly but is harder than a
-bar chart to use for comparing exact values between categories. Since drawing pictograms is explicitly excluded and identifying
+bar chart to use for comparing exact values between categories. Since drawing pictograms is explicitly excluded (though interpreting
+pictograms already drawn remains fully examinable) and identifying
 outliers from a box-and-whisker diagram is explicitly excluded, do
-not spend revision time on either -- Cambridge has deliberately scoped
-them out of this syllabus series.
+not spend revision time on pictogram construction or outlier
+identification -- these are simply this new syllabus's own stated
+exclusions (0479's first examination is 2027), not content removed
+from an earlier series.
 
 It is worth remembering that Topic 2 is deliberately about
 representing data that has already been collected (Topic 1) and is
