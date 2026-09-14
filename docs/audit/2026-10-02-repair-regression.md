@@ -1,13 +1,12 @@
 # Repair regression — D-202 reversed a correct finding, and the defect spread
 
-**This is not a findings document.** No shell was available when it was written, so the audit
-artefacts do not yet contain these findings and no finding ID is claimed for them. The encode
-is queued at `work/marlbridge-audit/batch8/emit57.py` as `E900` and `Q362`; this notice will
-be replaced by a proper findings document once they exist and the nine-step validation gate
-has run.
+*Repair verification, round one. The first check of the ~178 findings closed by D-200 to
+D-210 found a regression on the first cluster examined.*
 
-It is published now, ahead of that, because **the repair instance is still working and the
-pattern that produced this can repeat in any cluster.**
+**Status:** this replaces the provisional notice published at this path before a shell was
+available. Both findings are now encoded in the audit artefacts as **E900** and **Q362**;
+the rebuild passes all nine validation steps (1651 findings, ids unique, headline totals
+agreeing across MD and HTML).
 
 ---
 
@@ -117,9 +116,7 @@ And a corollary, from the shape of this particular failure:
 
 ## What needs doing
 
-1. **Correct all five files:** 24 per criterion in every eAssessment passage; keep the eight
-   achievement levels and the classroom total of 32; fix the derived total from 96 to 72. State
-   the two scales side by side once, so they cannot be collapsed again.
+1. **Correct all five files** per E900 below.
 2. **Correct the D-202 entry** to record that E782 was right. Leaving it stands as evidence for
    the wrong figure.
 3. **Re-check anything else closed in the same round on secondary evidence.** D-207 declares
@@ -129,6 +126,38 @@ And a corollary, from the shape of this particular failure:
 
 ---
 
-*Verification for this notice: the IB subject brief was fetched and read in full; all five
+## E900 - A repair round reversed a correct finding and spread the defect to two files that had been right, so five resources now contradict the blueprint they cite [Confirmed error, High]
+
+- **Files:** `ib-myp-language-acquisition-syllabus-guide`, `ib-myp-language-acquisition-proficiency-phases-revision-notes`, `ib-myp-language-acquisition-eassessment-exam-preparation`, `ib-myp-language-acquisition-subject-guide`, `ib-myp-language-acquisition-assessment-revision-notes`
+- **Where:** Criterion mark figures in all five files of the family
+- **Locate by:** `independently weighted, each worth an equal 32 marks, so no single`
+
+**What is wrong.** An earlier finding of this audit recorded that three files of this family gave each of the four assessment criteria a mark total of thirty-two, which matches neither of the qualification two scales, and that two further files in the same family gave the blueprint figure of twenty-four and were right. That finding was careful about the distinction, because the figure thirty-two is real in this qualification: each criterion carries eight achievement levels and four criteria at eight levels total thirty-two for criterion-related classroom assessment, while the external on-screen examination blueprint allocates twenty-four raw marks to each criterion with a permitted variation of no more than three. The published handoff for that batch carried the warning in bold that thirty-two must not be replaced by twenty-four wherever it appears. A repair round has now reversed the finding on the ground that it was itself wrong, relying on a transcript of a board webinar rather than on the board published brief, and has changed the files in the opposite direction. The board own brief for this subject, which is the document the finding cited, prints a blueprint table giving twenty-four marks to each of the four criteria and states separately that each criterion has eight achievement levels. Every file of the family now states thirty-two marks for each criterion in a passage about the external examination, the figure twenty-four appears in none of the five, and one file has carried the wrong figure into a derived total of ninety-six for the three criteria assessed together. The two files that were right before the repair are now wrong, so this family is in a worse state than the baseline the audit began from. Note for correction: the classroom figure of eight levels per criterion, and the total of thirty-two across four criteria for classroom assessment, are correct and must be kept; only the per-criterion figure in external-examination passages is wrong.
+
+**Fix.** Set the per-criterion figure to twenty-four in every passage about the on-screen examination across all five files, correct the derived total from ninety-six to seventy-two, keep the eight achievement levels and the classroom total of thirty-two, and state the two scales side by side once so the distinction cannot be collapsed again.
+
+**Evidence.** International Baccalaureate Organization, MYP subject brief: Language acquisition, from 2020, first eAssessment May/November 2023 - section III gives eight achievement levels per criterion for classroom assessment, and the section IV eAssessment blueprint table gives 24 marks to each of criteria A, B, C and D, with the distribution permitted to vary by no more than three marks - https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-language-acquisition-2020-en.pdf
+
+**Evidence.** Marlbridge decision log D-202, commit f8634099109c80cf57f2b5675102a03cd360e45e, which records the reversal and the webinar transcript relied on for it - https://github.com/Nouman1608/MB/commit/f8634099109c80cf57f2b5675102a03cd360e45e
+
+---
+
+## Q362 - A finding was reversed on secondary evidence without re-reading the primary document it cited, and the reversal was recorded as the audit being wrong [Questionable claim, High]
+
+- **Files:** `ib-myp-language-acquisition-syllabus-guide`
+- **Where:** Decision-log entry recording the reversal
+- **Locate by:** `independently weighted, each worth an equal 32 marks, so no single`
+
+**What is wrong.** The reversal described in the preceding finding is worth recording separately from its result, because the method rather than the subject is what will repeat. Three things went wrong in order. First, the finding was restated before it was answered: the decision-log entry says the finding instructed changing the figure wherever it appears, when the finding said the opposite in bold in its own handoff and drew the distinction between the two scales in its own body. Second, the evidence chosen to overturn it was a transcript of a board webinar, which is secondary, rather than the board published subject brief, which is primary and was named in the finding own evidence line; a webinar sentence that each criterion is assessed out of thirty-two is consistent with the classroom scale the finding had already described, so it does not contradict the finding at all. Third, the primary document was not re-read before the reversal was acted on, and it settles the question in a single printed table. The result was recorded in the decision log as the auditor being wrong, which is the most expensive possible form of this error, because a future reader now has a written record that the correct figure is the incorrect one. Note for correction: this audit has itself reversed four of its own findings and was right to, so reversal is not the problem. The problem is reversing against a primary source without opening it. Where a repair round believes a finding is wrong, the finding own cited document is the first thing to read and the only thing that settles it, and where a webinar, a support article or a teacher forum disagrees with a published specification, the specification governs.
+
+**Fix.** Reopen the reversal and correct the decision-log entry to record that the finding was right. Adopt the rule that a finding may only be reversed against the primary document it cited, read at the point of reversal, and that secondary material may raise a question but never settle one. Re-check any other finding closed in the same round on secondary evidence.
+
+**Evidence.** International Baccalaureate Organization, MYP subject brief: Language acquisition, from 2020, first eAssessment May/November 2023 - section III gives eight achievement levels per criterion for classroom assessment, and the section IV eAssessment blueprint table gives 24 marks to each of criteria A, B, C and D, with the distribution permitted to vary by no more than three marks - https://www.ibo.org/globalassets/new-structure/brochures-and-infographics/pdfs/myp-brief-language-acquisition-2020-en.pdf
+
+**Evidence.** Marlbridge decision log D-202, commit f8634099109c80cf57f2b5675102a03cd360e45e, which records the reversal and the webinar transcript relied on for it - https://github.com/Nouman1608/MB/commit/f8634099109c80cf57f2b5675102a03cd360e45e
+
+---
+
+*Verification for this document: the IB subject brief was fetched and read in full; all five
 resource files were read on `main` at `cc7d589`; E782's text and its published handoff were
 read from the audit's own artefacts. Nothing here rests on a summary.*
