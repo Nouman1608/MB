@@ -27,9 +27,13 @@ Related: [Business Activity, Marketing and People revision notes](/resources/ocr
 
 ---
 
+## Section A
+
 **1.** Define entrepreneur and state **three** characteristics of a successful one. **[4]**
 
 **2.** Name the four elements of the marketing mix. **[2]**
+
+## Section B
 
 **3.** Distinguish between primary and secondary market research.
 

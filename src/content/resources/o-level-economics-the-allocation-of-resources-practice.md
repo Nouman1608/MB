@@ -27,7 +27,7 @@ Related: [The Allocation of Resources revision notes](/resources/o-level-economi
 
 ---
 
-## Part One — Short-answer questions
+## Section A
 
 **1.** Define price elasticity of demand (PED) and state the formula used to calculate it. **[3]**
 
@@ -35,7 +35,7 @@ Related: [The Allocation of Resources revision notes](/resources/o-level-economi
 
 **3.** State two conditions of supply that could cause the supply curve to shift. **[2]**
 
-## Part Two — Structured questions
+## Section B
 
 **4.** The market for umbrellas is initially in equilibrium. A period of unusually heavy rainfall increases consumer demand for umbrellas, while the price of a key raw material used to manufacture umbrellas also rises.
 
