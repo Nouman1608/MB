@@ -1,14 +1,14 @@
 # Correction constraints — read before applying any audit finding
 
 *Consolidated from the absence re-verification (rounds one to three) and the correction
-audit (rounds one to five). Every constraint below was verified against an official
+audit (rounds one to six). Every constraint below was verified against an official
 specification read end to end, or against the audit's own records. Nothing here is inferred
 from a finding's summary.*
 
 *Updated 2026-09-15 with the coordinate pass on Cambridge 0620 (§6) — which closes the
 column defect for that syllabus and confirms no live inversion exists in the corpus — and
-with the read-through audits of the terminology (§5) and over-deletion (§2) correction
-groups, both of which came back clear.*
+with the read-through audits of the terminology (§5), over-deletion (§2) and enumeration
+(§4) correction groups. **Every screened group has now been read.***
 
 ---
 
@@ -37,13 +37,20 @@ deletes required content.
 | term | absent from | but REQUIRED by | verified |
 |---|---|---|---|
 | magnetic as an **energy store** | Cambridge 5054 (seven stores, magnetic not among them) | Edexcel 4PH1 — names eight stores, magnetic expressly one | both read end to end (U69) |
+| **report** as a transactional writing form | Edexcel 4EA1 (six named types, report not among them) | Cambridge O Level — a named writing form in the syllabus audited alongside it | stated in the finding's own observation (Q359) |
 | **public / merit / demerit goods**, market failure | OCR J205 GCSE Economics | Cambridge 2281 — lists all three by name as its market-failure key terms | 2281 read end to end (Q352) |
 | **added value** | AQA 8132 GCSE Business | OCR H431 — requires explaining, calculating and evaluating it | H431 read end to end (Q352) |
 | **quadratic inequalities** | Cambridge 4024 (inequalities restricted to linear) | required at AS and A Level | inferred, not read (Q352) |
 | perfect competition, public goods, consumer surplus, **income elasticity** | OxfordAQA 9214 International GCSE | the same board's AS and A-level specification | stated in the finding itself (Q352) |
 
-The first three are proven from complete reads. The last two are the same pattern without a
-read to confirm.
+The first four are proven — the first from complete reads of both documents, the second from
+the finding's own record of both boards. The last two are the same pattern without a read to
+confirm.
+
+**E442 is the one to watch**, because it shows the hazard is not rare. Its correction says
+to remove "report" from three files, its own observation records that the same form is named
+by the other board, and the correction carries no code. Nothing in the screening predicted
+it; it was found by reading.
 
 ---
 
@@ -147,9 +154,54 @@ different answers, the correction may still be safe — see the case above.
 
 **Check:** does the source itself enumerate this, or is the enumeration the finding's?
 
-**Not yet audited.** The 45 corrections flagged in this group are the one remaining unread
-set. Expect the number to shrink on reading, as every other group has — and expect this one
-to need source documents rather than the findings' own text.
+### This group has now been read, and it holds two unsafe corrections
+
+All 45 corrections flagged for handing over a count were read individually. Three are not
+about enumeration at all — the screen fired on an ordinary number in corrections about
+square roots, a mark tariff and a pair of dehydration temperatures. One is already on record
+as unsafe, being one of the six section-structure corrections of §7. **Thirty-four hand over
+a count their own observation has already taken from the specification, in most cases naming
+the items one by one. Two are unsafe.** (Q359)
+
+- **E276** says *"list the five sub-topics the topic actually contains."* Nothing in its own
+  observation establishes that the topic has five — it proves only that digestion belongs to
+  the next topic. **The count is the audit's, not the specification's**, in a finding whose
+  whole subject is a list of the wrong length. Establish the count from the specification
+  before applying it.
+- **E442** says to remove a writing form because it is not among the six the specification
+  names, and its own observation records that the same form is named by another board. See
+  §1. Apply only to files of the code the finding examined.
+
+**One more is not unsafe but is misdescribed.** E520 rebuilds two practice papers on *"the
+five tariffs the board uses"*. The observation derives those tariffs from **nine live
+papers**; the specification enumerates none. An empirically observed set is good evidence and
+**is not a published closed list**, and a correction should say which of the two it is
+handing over.
+
+**The two models worth copying:**
+
+- **E210** closes a list and says *why it may be closed* — the specification enumerates the
+  prefixes as a requirement rather than as examples.
+- **E786** does the opposite and is equally right: it names the three categories the syllabus
+  specifies and then instructs that the examples beneath them be presented as
+  **non-exhaustive**, because the guide says its own table is neither prescriptive nor
+  exhaustive.
+
+**Already well handled:** E789 carries three notes for correction, states that the sibling
+code's list is open because it is introduced with *including*, says expressly that the
+correction **must not travel** there, and scopes itself to *"the two files of this code
+only."*
+
+### A count without its contents is not a finished correction
+
+Five corrections state how many items a list should have and do not say what they are — a
+plate name for each of three examples (E563), twelve core studies (E643), eight topic areas
+(E896), thirteen items across three lists (E898), and a heading to be renamed to nothing
+stated (E892). In every case the finding's own reading of the source retrieved the items and
+none of them reached the correction. Not unsafe, but a corrector must re-open the
+specification to redo work already done — and one who fills the gap from memory reintroduces
+the error the finding was raised about. **A correction stating a count must also state its
+contents.** (Q360)
 
 ---
 
@@ -192,7 +244,7 @@ Two worth knowing about:
   present it as the board's.
 
 One small defect of a different kind: **E892's "rename the heading" does not say what to.**
-Under-specified rather than unsafe.
+Under-specified rather than unsafe — see the end of §4.
 
 ---
 
@@ -323,7 +375,9 @@ not assume it is an afterthought.
 - **Absence is established by reading the complete document plus appendices**, never by
   string search. A silently truncated extraction returns nothing and looks identical to a
   genuine absence.
-- **A command-word table introduced with "includes" is not exhaustive.**
+- **A command-word table introduced with "includes" is not exhaustive.** Nor is a bulleted
+  list sitting in a column headed *notes and examples*, nor one introduced with *including* —
+  E789 turns on exactly that distinction.
 - **Coordinates beat reading order, and a browser can supply them.** Where a shell is
   unavailable, pdf.js injected into a tab at the PDF's own origin returns per-run transform
   matrices — the same-origin fetch avoids the CORS failure a cross-origin one hits. (§6)
@@ -333,6 +387,9 @@ not assume it is an afterthought.
   (Q350)
 - **Reconcile against the decision log before working any triage.** Repair work proceeds in
   parallel; D-192 to D-199 closed roughly 124 findings in 36 hours. (Q353)
+- **Note which sources were not obtained from the board.** Two findings rest on documents
+  taken from a school-hosted mirror, one of them truncated before its assessment section.
+  Both say so in their own evidence lines; keep that visible when working them.
 
 ---
 
@@ -340,18 +397,25 @@ not assume it is an afterthought.
 
 **The signature screens are a reading list, not a measurement.** Every group published with a
 size has had that size turn out wrong — 89 became 301 through a regex bug, 86 became 68 then
-~51, nine became six then one. Four screening defects were found, all by inspecting flagged
-items and none by the screens themselves.
+~51, nine became six then one, and 45 became 34 sound, two unsafe and three not about
+enumeration at all. Four screening defects were found across six rounds, all by inspecting
+flagged items and none by the screens themselves.
 
 The cause is structural: **this corpus's domain vocabulary is the screen's vocabulary.**
 "Extended" matches *extended response*. "Core" matches *the argon core*, *the ferrous core in
 a solenoid*, *core content*, *a core programme requirement*. No amount of regex tuning fixes
 that.
 
-Three groups have now been read through — section structure (27), terminology (15) and
-over-deletion (24). **Between them they produced six unsafe corrections, all in the
-section-structure family.** One group remains unread: the 45 flagged for handing over a count
-or a closed list (§4).
+**No group remains unread.** All four have been read through: section structure (27),
+terminology (15), over-deletion (24) and enumeration (45). Adding those would double-count,
+because a finding can carry more than one signature. Measured rather than added: the three
+signature groups cover **83 distinct findings**, and the section family adds 27 of which 10
+also carry OVER_DELETE — so **100 distinct corrections have been read, and 8 are unsafe.**
+Six are the section-structure family; the other two are E276 and E442.
+
+What this document still does not establish is whether the *findings* behind those
+corrections are right. A well-scoped correction resting on a truncated absence read is still
+wrong. That work is the task-42 backlog, and it is not finished.
 
 The constraints in this document are different from the counts — each was verified
 individually, and each names the specification or record it rests on.
