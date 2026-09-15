@@ -36,6 +36,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-10-01`, `2026-10-07-findings.md` | Absence re-verification rounds 4–5. |
 | `2026-10-02-repair-regression.md` | A repair round that made the corpus worse. **Since fixed — see the E782 row below.** |
 | `2026-10-03` … `2026-10-06-findings.md` | Repair verification and the coverage sweeps. |
+| `2026-10-12-findings.md` | **The open count re-based (Q374, Q375)** — and the list of what is actually open. |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -50,10 +51,11 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | **E782** (2026-09-16) | 2026-10-02-repair-regression.md, then **this row** | **Resolved — no action needed.** The sequence: E782 was right (32 = classroom total across four criteria; 24 = eAssessment marks per criterion). D-202 reversed it on a webinar transcript and made five files worse. E900/Q362 caught that. **D-211 (`01f08fc`) then fixed all of it properly** — eAssessment passages read 24, classroom passages read 8/32, the derived total is corrected 96 → 72, and every file states the two scales explicitly. Verified file by file on `main`. The regression document describes a state that no longer exists. |
 | the **27 section-structure findings** (2026-09-23) | 2026-09-29 (**Q358**), and §7 of the constraints | Six of them offer "or drop the section headings" for papers that genuinely have those headings. That option has already damaged five resources. **E335, E367, E391, E625, E631, E642 — do not take the drop option.** |
 | any finding whose fix **removes** content | §2 of the constraints | Removal is often the wrong half. The finding is usually right about placement, not about subject matter. |
-| any finding that hands you **a count or a closed list** | §4 of the constraints, **Q359** (2026-09-30), and **Q373**/D-226 (2026-10-11) | Two were found stating counts their own evidence does not support. **E442** was closed by D-223; **E276** has since been read against the specification, found correct, and closed. The enumeration group now holds none. |
+| any finding that hands you **a count or a closed list** | §4 of the constraints, **Q359** (2026-09-30), and **Q373** (2026-10-11) | Two were found stating counts their own evidence does not support. **E442** was closed by D-223. **E276**'s correction was read against the specification and found safe — and had in fact already been applied by **D-141** (`c9bc195`, 6 September). *An earlier version of this row cited "D-226"; no such decision-log entry exists (Q374).* The enumeration group now holds none. |
 | any finding whose fix **states a count but not its contents** | **Q360** (2026-09-30) | Five do. Filling the gap from memory reintroduces the error being corrected. Ask for the list. |
 | **E412, E404, E406** (IB Business management) | 2026-10-07 (**Q368**) | The guide is now read complete; all three are confirmed and U70 is closed. |
-| the **open-error count** in any older file | 2026-10-04 (**Q365**) | It was overstated by 131. See the current figures below. |
+| the **open-error count** in any older file | 2026-10-04 (**Q365**), then 2026-10-12 (**Q374**) | Overstated by 131, and then by a further **508**: the reconciliation never read repair rounds D-138…D-191. See the current figures below. |
+| **E60–E69, E109** | 2026-10-12 (**Q375**) | D-138's heading declares them remediated; none of its batch lists names them, and E61–E69 still carry their markers on `main`. **Treat as open.** |
 
 ---
 
@@ -98,10 +100,10 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,665 |
-| confirmed errors open | **658** *(reconciliation current through D-226 — see Q365, Q372; earlier figures on this row were overstated)* |
-| declared closed by decision log D-192…D-226 | 185 recorded, more since |
-| still open despite a closing round (deferred, partial, or reopened) | 48 *(not re-verified since D-218; may itself be stale)* |
+| findings recorded | 1,667 |
+| confirmed errors open | **150** *(reconciliation current through D-225 and now covering D-138 onward — see Q374; 658 was overstated by 508)* |
+| declared closed by decision log D-138…D-225 | 693 |
+| still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 61 — listed with reasons in `2026-10-12-findings.md` |
 | resources read end to end | 1,251 of 1,251 |
 
 **"Declared closed" means a repair round recorded the finding as handled — not that the audit

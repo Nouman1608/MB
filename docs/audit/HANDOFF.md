@@ -36,9 +36,9 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 |---|---|
 | resources read end to end | 1,251 of 1,251 |
 | findings recorded | 1,665 |
-| **open confirmed errors** | **658** |
-| declared closed by decision log | 185 (current through **D-225**) |
-| still open despite a closing round | 47 (deferred / partial / reopened) |
+| **open confirmed errors** | **150** *(amended 2026-10-12, Q374 — this handoff first said 658)* |
+| declared closed by decision log | 693 (D-138 through **D-225**; was 185 while D-138…D-191 went uncounted) |
+| still open despite a closing round | 61 (deferred / partial / disputed / heading-only / reopened) |
 
 **"Declared closed" means a repair round recorded it as handled — not that the audit verified
 it.** Of the closures spot-checked by reading: five sound, two *better* than the correction
@@ -174,5 +174,5 @@ handoffs so they don't need to.
 - Do not quote a group size from a screen as a measurement.
 - Do not call a document read unless it reached its own closing matter.
 - Do not bypass a bot challenge or CAPTCHA, for any reason.
-- Do not state that the corpus is correct. 658 confirmed errors are open, and a substantial
+- Do not state that the corpus is correct. 150 confirmed errors are open, and a substantial
   part of the audit rests on absence claims against documents never read to the end.

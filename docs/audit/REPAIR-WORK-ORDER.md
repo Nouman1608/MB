@@ -10,14 +10,19 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**658 open confirmed errors → zero.**
+**150 open confirmed errors → zero.**
+
+> **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
+> rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
+> 61 open despite a closing round, each with its reason — is in `2026-10-12-findings.md`. Work
+> from that list, not from older findings files.
 
 **Done means** every open confirmed error is either fixed, deferred with a stated reason, or
 recorded as not reproducing — with the finding-ID table current through your last decision-log
 entry.
 
-That figure is real and current as of D-225. Earlier figures were overstated by up to 131
-because the audit's reconciliation had gone stale; that is fixed.
+That figure is current as of D-225 and counts findings no round has *declared* closed — not
+errors verified to remain. The earlier 658 was overstated by 508, and before that by 131.
 
 ---
 
@@ -134,9 +139,12 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
-- **E276 is cleared** — apply as written. OxfordAQA 9201 topic 3.1 has exactly five children
-  (3.1.1–3.1.5); digestion is 3.2.4 in the following topic. Verified against the complete
-  specification. See `docs/audit/2026-10-11-findings.md`.
+- **E276 needs no action.** Its correction was verified safe (Q373) — and **D-141 had already
+  applied it** on 6 September; the file on `main` is correct. *This line first said "apply as
+  written" (Q374).*
+- **E60–E69 and E109 are genuinely open** (Q375). D-138's heading covered them; no batch did.
+  Read each file on `main` first. Also read E114 (skipped by D-138 as a mapping error; its
+  marker has since gone).
 - **E442 is closed** by your D-223. The cross-board *pattern* still applies to other
   remove-a-term corrections — check the other boards in the corpus before applying one.
 - **The cycle-coverage register (21 Cambridge codes on 2026 windows) must not be worked yet.**
