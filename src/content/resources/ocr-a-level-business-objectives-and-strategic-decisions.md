@@ -18,12 +18,22 @@ publishedDate: 2026-08-21
 featured: false
 ---
 
-This guide covers **Business objectives and strategic decisions**,
-one of the areas of study within accounting and finance, external
-influences, marketing, operations and people in organisations that
-make up OCR A Level Business (H431); current, with final first teach
-September 2025 and final assessment summer 2027 (OCR's replacement
-specification, H436, has first teach September 2026).
+This guide covers what the OCR specification itself names
+**Business objectives and strategy** — the area of study covering
+stakeholder and business objectives, mission statements, CSR, strategy
+and implementation, business plans, risk and uncertainty, opportunity
+cost, contingency planning, models of strategic choice, performance
+measures, forecasting, decision making, decision trees, Ansoff's
+matrix, and conflicts in decision making. ("Objectives and strategic
+decisions," this resource's own title, is the wording the
+specification uses in its summary content-overview table; the detailed
+content section names the area "Business objectives and strategy"
+throughout.) It sits within accounting and finance, external
+influences, marketing, operations and people in organisations, the
+other main areas of study that make up OCR A Level Business (H431);
+current, with final first teach September 2025 and final assessment
+summer 2027 (OCR's replacement specification, H436, has first teach
+September 2026).
 
 ## Where this fits in H431
 
@@ -36,8 +46,10 @@ decisions.
 
 ## Syllabus coverage
 
-**OCR A-LEVEL BUSINESS (H431) — BUSINESS OBJECTIVES AND STRATEGIC
-DECISIONS**
+**OCR A-LEVEL BUSINESS (H431) — BUSINESS OBJECTIVES AND STRATEGY**
+(the specification's own name for this area of study; its
+content-overview table separately labels the area "Business
+objectives and strategic decisions")
 
 - Different stakeholder and business objectives — distinguishing
 between organisational aims, corporate/business objectives, strategic

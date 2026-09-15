@@ -32,11 +32,13 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Money and banking (3.1)
 
-Money has **four functions**: a **medium of exchange** (avoids the double coincidence of wants
-problem of barter), a **measure of value / unit of account** (lets prices be compared), a **store of
-value** (can be held and spent later without losing its usefulness, inflation permitting), and a
-**standard for deferred payment** (lets debts be agreed now and settled later). For money to perform
-these functions it needs **characteristics**: general acceptability, durability, portability,
+The syllabus covers the **forms, functions and characteristics of money** without attaching a
+fixed number to "the functions of money" — don't invent one. Money's functions commonly discussed
+include acting as a **medium of exchange** (avoids the double coincidence of wants problem of
+barter), a **measure of value / unit of account** (lets prices be compared), a **store of value**
+(can be held and spent later without losing its usefulness, inflation permitting), and a **standard
+for deferred payment** (lets debts be agreed now and settled later). For money to perform these
+functions it needs **characteristics**: general acceptability, durability, portability,
 divisibility, scarcity (limited supply) and difficulty to counterfeit.
 
 ## Workers — the largest sub-topic, four parts

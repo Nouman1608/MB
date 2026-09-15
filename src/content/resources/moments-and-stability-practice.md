@@ -30,7 +30,7 @@ Related: [Elastic Deformation, Moments and Centre of Gravity revision notes](/re
 
 ## Section A
 
-**1.** Define the moment of a force and state its unit. **[2]**
+**1.** Define the moment of a force, state its unit, and give **one** everyday example of a moment in action, naming the pivot. **[3]**
 
 **2.** State the principle of moments. **[2]**
 
@@ -72,7 +72,7 @@ Related: [Elastic Deformation, Moments and Centre of Gravity revision notes](/re
 
 ## Answers
 
-**1.** The moment is **force × perpendicular distance from the pivot to the line of action of the force** [1]; the unit is the **newton metre (N m)** [1].
+**1.** The moment is **force × perpendicular distance from the pivot to the line of action of the force** [1]; the unit is the **newton metre (N m)** [1]. Everyday examples include turning a spanner on a nut, pushing open a door, or prising up a paving slab with a **lever** such as a crowbar — in each case the **pivot** is the point about which the object turns (the nut, the hinge, or the point where the lever rests on the ground) [1].
 
 **2.** When a body is in equilibrium, the **sum of the clockwise moments about any point equals the sum of the anticlockwise moments** about that point [1] [1].
 

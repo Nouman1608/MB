@@ -49,7 +49,14 @@ alpha-scattering experiment**, with each observation tied to its conclusion:
 | **Alpha** | Helium nucleus | +2 | Stopped by paper | **Strongly** |
 | **Beta** | Fast electron | −1 | Stopped by ~3 mm aluminium | Moderately |
 | **Gamma** | EM wave | 0 | Reduced by thick lead | **Weakly** |
-| **Neutron** | Neutron | 0 | Reduced by water or paraffin wax (hydrogen-rich material) | Weakly |
+
+The specification compares only these three — alpha, beta and gamma —
+for nature, penetrating power and ionising ability. **Neutron
+radiation** doesn't belong in this table: it enters the specification
+only through its effect on the nucleus during decay (see Nuclear
+equations, below). As background, neutrons are uncharged, weakly
+ionising, and best absorbed by hydrogen-rich materials such as water or
+paraffin wax.
 
 **Penetration and ionisation are inversely related.** Alpha ionises strongly, so it loses energy quickly and cannot penetrate far. Gamma barely interacts, so it penetrates deeply. Understanding that trade-off answers most application questions.
 

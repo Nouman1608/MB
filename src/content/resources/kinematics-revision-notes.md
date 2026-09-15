@@ -74,7 +74,7 @@ separate "deceleration formula" to remember.
 | Curve upward | Accelerating | Increasing acceleration |
 | Area under graph | *No meaning* | **Distance travelled** |
 
-The single most useful fact: **area under a speed–time graph = distance**. Split awkward shapes into triangles and rectangles.
+The single most useful fact: **area under a speed–time graph = distance**, found by splitting the graph into triangles and rectangles — this technique applies to motion with **constant speed or constant acceleration** (a graph with changing acceleration isn't calculated this way at this level).
 
 **Worked example.** An object accelerates uniformly from rest to 10 m/s
 in 5 s, then travels at 10 m/s for a further 8 s. Find the total

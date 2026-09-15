@@ -43,7 +43,7 @@ moment = F x d       d = PERPENDICULAR distance from the pivot
                      units: N m
 ```
 
-A moment is the turning effect of a force — everyday examples include a spanner turning a nut, a door opening about its hinges, and a see-saw balancing. It is zero if the force acts through the pivot, or along the line of the pivot.
+A moment is the turning effect of a force — everyday examples include a spanner turning a nut, a door opening about its hinges, a see-saw balancing, and a **lever** such as a crowbar prising up a heavy slab. It is zero if the force acts through the pivot, or along the line of the pivot.
 
 ## Principle of moments
 

@@ -151,25 +151,48 @@ spent," but specifically the next-best alternative use of that money.
 A **production possibility curve (PPC)** shows the maximum combinations
 of two goods (or categories of goods) an economy can produce with its
 existing resources and technology, assuming those resources are fully
-and efficiently employed.
+and efficiently employed. The syllabus requires the definition,
+drawing and interpretation of this diagram, so being able to sketch
+one — not just describe it — is examinable in its own right:
 
-- A point **on** the curve shows resources being used **fully and
+```
+Good A
+(units)
+   ^
+   |                          . Z (beyond the curve --
+   |                         .    unattainable with current
+   |                        .     resources and technology)
+   |                    ___
+   |                _.-'   `-.
+   |            _.-'          `-._
+   |        _.-' X (on the curve --  `-.
+   |    _.-'      full & efficient use)  \
+   |  Y .                                  \
+   |  (inside the curve --                  |
+   |   underused / inefficient)             |
+   +------------------------------------------> Good B
+                                              (units)
+```
+
+- A point **on** the curve (X) shows resources being used **fully and
 efficiently** — to produce more of one good, the economy must produce
 less of the other (an opportunity cost).
-- A point **inside** the curve shows resources being **underused or used
-inefficiently** (e.g. unemployment) — output of both goods could be
-increased without any opportunity cost.
-- A point **beyond** the curve is **currently unattainable** with the
-economy's existing resources and technology.
+- A point **inside** the curve (Y) shows resources being **underused or
+used inefficiently** (e.g. unemployment) — output of both goods could
+be increased without any opportunity cost.
+- A point **beyond** the curve (Z) is **currently unattainable** with
+the economy's existing resources and technology.
 
 A **movement along** the curve (e.g. producing more of one good and less
 of the other) illustrates opportunity cost directly. A **shift of the
-whole curve** is different: an **outward shift** represents **economic
-growth** — an increase in the economy's productive capacity — caused by
-an increase in the quantity or quality of factors of production, or by
-improved technology; an **inward shift** represents a fall in productive
-capacity, for example caused by a natural disaster or a fall in the
-size of the workforce.
+whole curve** is different: an **outward shift** (the curve moving away
+from the origin, so more of both goods becomes attainable) represents
+**economic growth** — an increase in the economy's productive capacity
+— caused by an increase in the quantity or quality of factors of
+production, or by improved technology; an **inward shift** (the curve
+moving toward the origin) represents a fall in productive capacity, for
+example caused by a natural disaster or a fall in the size of the
+workforce.
 
 ## Common mistakes
 

@@ -73,7 +73,7 @@ Related: [Kinematics and Motion Graphs revision notes](/resources/kinematics-rev
 
 **1. Distance** is the **total path length travelled — a scalar** [1]; **displacement** is the **straight-line distance in a stated direction from the start — a vector** [1]. **Speed** is the rate of change of distance, a **scalar** [1]; **velocity** is the rate of change of displacement, a **vector** [1].
 
-**2. Gradient** = **acceleration** [1]. **Area under the graph** = **displacement** [1].
+**2. Gradient** = **acceleration** [1]. **Area under the graph** = **displacement** [1] — calculated by splitting the graph into simple shapes (rectangles/triangles), this technique is used for motion with **constant speed or constant acceleration**; a graph with changing acceleration is not calculated this way at this level.
 
 **3. (a)** a = (v − u) ÷ t = (26.0 − 8.0) ÷ 6.0 [1] = **3.0 m/s²** [1].
 **(b)** The speed–time graph is a **trapezium**: split it into a rectangle of height 8.0 m/s and a triangle of height (26.0 − 8.0) = 18.0 m/s, both of base 6.0 s [1]. Area = (8.0 × 6.0) + ½ × 6.0 × 18.0 = 48 + 54 [1] = **102 m** [1].

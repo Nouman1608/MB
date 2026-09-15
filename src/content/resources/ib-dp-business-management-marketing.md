@@ -56,7 +56,7 @@ averages; forecasts inform production, cash flow and stock decisions
 across other units
 - **4.4 Market research** — primary versus secondary research;
 quantitative versus qualitative research; sampling methods (random,
-stratified, quota, convenience), each trading off representativeness
+quota, convenience), each trading off representativeness
 against cost and speed
 - **4.5 The seven Ps of the marketing mix** — Product, Price, Place,
 Promotion, and the three extended Ps especially relevant to services:

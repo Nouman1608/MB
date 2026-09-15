@@ -55,7 +55,9 @@ orbital speed  v = 2 pi r / T
 nebula -> protostar -> main sequence -> red giant -> planetary nebula -> WHITE DWARF
 ```
 
-**A star much more massive than the Sun:**
+**A star much more massive than the Sun** (the specification's own
+outcome here is one general statement with no named stages — the
+sequence below is standard astrophysics background to help answer it):
 
 ```
 nebula -> protostar -> main sequence -> red supergiant -> SUPERNOVA -> neutron star or BLACK HOLE

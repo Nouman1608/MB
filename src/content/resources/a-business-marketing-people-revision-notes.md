@@ -30,7 +30,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Quantitative** data measures *how many*; **qualitative** explains *why*. Most decisions need both — quantitative sizes the opportunity, qualitative explains the behaviour behind it.
 
-**Sampling:** random, stratified, quota, cluster, convenience. A larger sample is more reliable but costs more, so the real question in any case study is whether the sample was **representative**, not whether it was large.
+**Sampling:** random, quota, stratified. A larger sample is more reliable but costs more, so the real question in any case study is whether the sample was **representative**, not whether it was large.
 
 ## Market positioning
 
@@ -87,7 +87,7 @@ The mix must be **internally consistent**. Premium pricing with discount-channel
 
 **Centralisation** keeps decisions at the top — consistent and fast at the centre, but ignores local knowledge. **Decentralisation** pushes them down — responsive and motivating, but risks inconsistency.
 
-*Labour turnover as a calculated metric (leavers ÷ average number employed × 100) belongs to the second-year unit on assessing competitiveness. At this stage, think about staff **retention** qualitatively: high staff turnover raises recruitment and training costs and loses expertise and continuity, though some turnover brings in fresh ideas -- and a strong answer explains* **why** *staff might be leaving (pay, motivation, management, working conditions) rather than naming the metric.*
+**Dismissal** (ending a contract for a fault specific to that employee, such as misconduct) is distinct from **redundancy** (the role itself ceasing to exist, for reasons unrelated to the individual's performance) -- confusing the two is a common exam error, since the correct term changes what process and compensation apply. **Employer/employee relationships** can be managed through an **individual approach** (negotiating terms with each employee separately) or **collective bargaining** (negotiating with a recognised group, typically a union, on behalf of all affected employees) -- and which approach a business uses affects how quickly, and how consistently across the workforce, it can respond to an HR issue.
 
 ## Answering the questions
 

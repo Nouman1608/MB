@@ -53,7 +53,7 @@ Related: [Astrophysics revision notes](/resources/edexcel-igcse-physics-astrophy
 
 **4.** Describe the life cycle of a star with a mass similar to the Sun, from nebula to its final state. **[5]**
 
-**5.** Describe how the life cycle differs for a star much more massive than the Sun. **[4]**
+**5.** *(The specification's own outcome for this is a single general statement and does not itself name stages — the named stages expected below are standard astrophysics background.)* Describe how the life cycle differs for a star much more massive than the Sun. **[4]**
 
 **6.** Light from distant galaxies is red-shifted.
 

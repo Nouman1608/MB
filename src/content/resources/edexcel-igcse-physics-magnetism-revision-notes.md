@@ -49,6 +49,8 @@ A **solenoid** produces a field like a bar magnet, strong and mostly uniform ins
 
 A current-carrying conductor in a magnetic field experiences a force. (The equation F = BIL and the term magnetic flux density are beyond 4PH1 — this topic is examined qualitatively only.)
 
+A **charged particle** moving through a magnetic field experiences a force in the same way, provided its motion is **not parallel to the field** — this is the same underlying effect as the force on a current-carrying wire (a current is, after all, moving charge), just applied to a single particle rather than a whole conductor. This is examined qualitatively only, like the motor effect itself.
+
 **Fleming's left-hand rule** — **F**irst finger = **F**ield, se**C**ond finger = **C**urrent, thu**M**b = **M**otion. This underlies not just motors but also **loudspeakers**, which use the motor effect to convert an alternating current into the mechanical vibration that produces sound.
 
 **The force is zero when the conductor is parallel to the field**, and maximum when perpendicular. That is a frequent question.

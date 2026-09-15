@@ -101,15 +101,22 @@ v = 2πr/T = 2π × 7,000,000 / 6,000 ≈ 7,330 m/s
 
 Stars can be classified by **colour**, which relates directly to their
 **surface temperature** (hotter stars appear blue/white, cooler stars
-appear red). A star of similar mass to the Sun evolves through the stages:
-**nebula** (a cloud of gas and dust) → **main sequence star** (stable
-hydrogen fusion) → **red giant** (expanded outer layers as core fusion
-changes) → **white dwarf** (a small, dense remnant). Stars with mass
-significantly greater than the Sun follow a different evolutionary path:
-**nebula** → **main sequence star** → **red supergiant** (rather than a
-red giant) → **supernova** (a violent explosion as the core collapses) →
-leaving behind either a **neutron star** or, for the most massive stars, a
-**black hole**.
+appear red). A star of similar mass to the Sun evolves through the **four stages named
+in the specification**: **nebula** (a cloud of gas and dust) → **main
+sequence star** (stable hydrogen fusion) → **red giant** (expanded outer
+layers as core fusion changes) → **white dwarf** (a small, dense
+remnant).
+
+The specification's outcome for stars significantly more massive than
+the Sun is, by contrast, a single general statement that does not itself
+name any stages. As background to help construct a full answer, the
+standard astrophysics sequence is: **nebula** → **main sequence star** →
+**red supergiant** (rather than a red giant) → **supernova** (a violent
+explosion as the core collapses) → leaving behind either a **neutron
+star** or, for the most massive stars, a **black hole**. This sequence
+is correct astrophysics and useful supplementary detail, but — unlike
+the Sun-like-star stages above — it is not itself spelled out in the
+specification's wording.
 
 **Absolute magnitude** represents how bright a star would appear at a
 standard distance, allowing fair brightness comparisons between stars at

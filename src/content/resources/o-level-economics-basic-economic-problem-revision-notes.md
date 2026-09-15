@@ -114,7 +114,22 @@ the four definitions in isolation.
 
 A production possibility curve (PPC) shows the maximum combinations
 of two goods an economy can produce with its finite resources, and it
-is the diagrammatic way this syllabus tests the scarcity/choice idea:
+is the diagrammatic way this syllabus tests the scarcity/choice idea.
+The syllabus requires you to define, draw and interpret this curve:
+
+```
+Good A
+(units)
+   ^
+   |                    ___
+   |                _.-'   `-.
+   |            _.-'          `-.
+   |        _.-' X (on curve)     `.
+   |    _.-'                        \
+   |  Y .                             \
+   | (inside curve)                    |
+   +--------------------------------------> Good B (units)
+```
 
 - A point **on** the curve — resources fully and efficiently used.
 - A point **inside** the curve — resources unemployed or used

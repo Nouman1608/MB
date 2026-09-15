@@ -55,8 +55,12 @@ and equity at a point in time)
 - **3.5 Profitability and liquidity ratio analysis** — profitability
 ratios (gross profit margin, net profit margin, return on capital
 employed) and liquidity ratios (current ratio, acid-test ratio)
-- **3.6 Debt/equity ratio analysis** (HL only) — the gearing ratio and
-the risk-return trade-off of a highly geared capital structure
+- **3.6 Efficiency ratio analysis** (HL only) — stock turnover, debtor
+days and creditor days (how efficiently a business manages stock and
+trade credit); the gearing ratio and the risk-return trade-off of a
+highly geared capital structure; and the distinction between
+insolvency (a cash-flow failure to pay debts as they fall due) and
+bankruptcy (the formal legal process that can follow it)
 - **3.7 Cash flow** — the distinction between cash flow and profit,
 and reading and improving a cash flow forecast
 - **3.8 Investment appraisal** — payback period, average rate of

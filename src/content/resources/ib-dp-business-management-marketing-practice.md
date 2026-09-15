@@ -43,7 +43,7 @@ and the [IB DP Business Management syllabus guide](/resources/ib-dp-business-man
 **(a)** Identify whether this bakery is market orientated or product orientated, justifying your answer. **[2]**
 **(b)** Suggest one risk this orientation carries for the bakery's future marketing decisions. **[2]**
 
-**5.** A business is choosing a sampling method for a survey about a new product aimed at a specific age group spread unevenly across different regions.
+**5.** A business wants its survey sample for a new product to reflect the known age-group mix of its target market, but has limited time and budget to build a fully randomised sample.
 
 **(a)** Recommend an appropriate sampling method for this scenario, justifying your choice. **[2]**
 **(b)** State one limitation of the sampling method you recommended. **[2]**
@@ -73,8 +73,8 @@ and the [IB DP Business Management syllabus guide](/resources/ib-dp-business-man
 **4. (a)** The bakery is product orientated: it developed its recipe first, based on what it wanted to make, and is only now seeking customers, rather than starting from confirmed local demand. **[2]**
 **(b)** The bakery risks producing a product that does not match what local customers actually want, meaning its marketing (pricing, promotion) will need to work harder to persuade customers to buy a product they did not ask for, rather than being built around confirmed demand. **[2]**
 
-**5. (a)** Stratified sampling would be appropriate: because the target age group is spread unevenly across regions, stratified sampling ensures each region is proportionally represented in the sample, rather than risking a sample skewed toward regions that happen to be easier to reach. **[2]**
-**(b)** Stratified sampling requires knowing the underlying population's regional breakdown in advance to set proportions correctly, which takes more time and information to arrange than a simpler method such as convenience sampling. **[2]**
+**5. (a)** Quota sampling would be appropriate: the business sets quotas for each age group in proportion to the known target-market mix, then fills each quota **[1]**, which delivers a sample that reflects the age-group split without the time and cost of building a full random sampling frame **[1]**.
+**(b)** Because participants within each quota are typically selected non-randomly (for example, whoever is easiest to reach), the sample can still be unrepresentative within each quota group, introducing selection bias that quota sampling alone does not remove. **[2]**
 
 **6. (a)** People matter because staff directly deliver the service (the haircut itself) and shape the customer's experience through their skill and manner, unlike a physical product that exists independently of the person selling it. **[1]** Physical evidence matters because a service is intangible until experienced, so tangible cues -- the salon's décor, cleanliness, and staff appearance -- signal quality to a customer before or during the service, standing in for the product inspection a customer could do with a physical good. **[2]**
 **(b)** People: invest in staff training to improve consistency of service quality. **[1]** Physical evidence: upgrade the salon's interior or staff uniforms to signal a higher standard of service. **[1]** (Other valid, justified suggestions are acceptable.)
