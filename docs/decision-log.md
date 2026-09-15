@@ -10900,3 +10900,16 @@ None in this batch.
 **Validation.** `npx astro check` (0 errors), `npm run validate:academic` (pass), `npm run build` (2129 pages), `npm run audit:all` (0 problems), cross-board regression (clean), negative-validation suite (pass), API tests (pass); duplicate-scope: the same four pre-existing groups. D-229's changes were included in this run.
 
 **Open-count position after D-226-D-230, as this log reads it (for the audit to reconcile, not to take on trust).** Of the 145 the work order now counts: closed or verified in D-226-D-230 -- E01, E09, E60-E69, E109, E114, E397, E572-E604, E608-E614, E618-E627, E629-E657, E691, E693, E694, E697, E705, E706, E712-E745, E747, E748, E757-E759, E763, E902; E900 and E746 already settled by Q376/Q378. **Still open: E48** (no finding text to quote) **and E605, E606, E607** (IB DP Geography documents unreadable here).
+
+## D-231 - Audit round 8 (Q380-Q382) taken up: E640 bound applied, E175 reopened and closed (2026-09-15)
+
+**Trigger.** `main` moved to `3ef20cf` (audit round 8, `2026-10-15-findings.md`; rebased cleanly). Q381 bounds E640; Q382 reopens E175; the work order records Cambridge findings as workable again (consistent with D-226/D-227's downloads).
+
+### Closed -- fixed and verified
+
+| ID | Files | What was changed / verified |
+|---|---|---|
+| E640 (bound, Q381) | `a-psychology-approaches-revision-notes.md` | D-228 rewrote the approaches to 9990's four and added the five AS issues and debates -- both as Q381 asks -- but reduced the four A Level debates to one sentence. Q381: they are 9990's own A Level issues and debates (syllabus A Level list, verified: nature versus nurture, reductionism versus holism, determinism versus free-will, idiographic versus nomothetic, plus cultural differences; the use of animals is AS only). Restored as a labelled "A Level issues and debates -- for the specialist options, not Paper 1" section covering the four new A Level debates, with the humanistic, psychodynamic, alpha/beta bias and Strange Situation material still out (not in 9990 as approaches or debates). The file was never relabelled to another board. |
+| E175 (reopened, Q382) | `a-physics-temperature.md`; sibling `a-physics-temperature-revision-notes.md` | 9702 2025-2027 (read to the address block) 14.2.1 names "the density of a liquid, volume of a gas at constant pressure, resistance of a metal, e.m.f. of a thermocouple". The guide now names all four as the syllabus's examples and keeps the constant-volume gas thermometer as an additional one; the revision notes, which named none, now name the four. |
+
+**Validation.** `validate:academic` pass; full gate run below with the push.

@@ -66,7 +66,7 @@ The triple point is used rather than the melting point because it occurs at **on
 
 ## Empirical scales and thermometers
 
-An empirical scale depends on a **physical property that varies with temperature**, calibrated between two fixed points. Different thermometric properties do not vary in the same way between the fixed points, so two empirical thermometers can agree at the fixed points and **disagree everywhere between them**. The thermodynamic scale has no such problem.
+An empirical scale depends on a **physical property that varies with temperature** — the syllabus names the density of a liquid, the volume of a gas at constant pressure, the resistance of a metal and the e.m.f. of a thermocouple — calibrated between two fixed points. Different thermometric properties do not vary in the same way between the fixed points, so two empirical thermometers can agree at the fixed points and **disagree everywhere between them**. The thermodynamic scale has no such problem.
 
 | Thermometer | Property | Strengths | Limitations |
 |---|---|---|---|

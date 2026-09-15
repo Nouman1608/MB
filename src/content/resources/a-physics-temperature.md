@@ -69,9 +69,10 @@ happens when, and only when, they are at the same temperature.
 ## Temperature scales
 
 Any physical property that changes measurably and consistently with
-temperature — for example the resistance of a metal wire, the e.m.f. of a
-thermocouple, the pressure of a gas at constant volume, or the density of a
-liquid — can be used as the basis of a thermometer.
+temperature can be used as the basis of a thermometer. The syllabus's own
+examples (14.2.1) are the **density of a liquid**, the **volume of a gas at
+constant pressure**, the **resistance of a metal** and the **e.m.f. of a
+thermocouple**; the pressure of a gas at constant volume is another.
 
 The **thermodynamic (Kelvin) scale** is the absolute scale of temperature: it
 does not depend on the properties of any particular substance. **Absolute

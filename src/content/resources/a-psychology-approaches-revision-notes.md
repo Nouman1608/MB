@@ -85,7 +85,35 @@ Consider each in relation to each core study, where appropriate.
 | **The use of children in psychological research** | Bandura et al., Pozzulo et al., Saavedra and Silverman |
 | **The use of animals in psychological research** | Hassett et al. (rhesus monkeys), Fagen et al. (working elephants) |
 
-Reductionism versus holism, determinism versus free will, idiographic versus nomothetic and cultural differences are **A Level** issues and debates, applied to the specialist options on Paper 3 — not Paper 1 content.
+## A Level issues and debates — for the specialist options, not Paper 1
+
+At A Level the list has eight issues and debates, applied to the **specialist options** on Papers 3 and 4: the application of psychology to everyday life, individual and situational explanations, nature versus nurture, the use of children in psychological research, **cultural differences**, **reductionism versus holism**, **determinism versus free-will** and **idiographic versus nomothetic** (the use of animals is on the AS list only). The four that are new at A Level are summarised here so you have them in one place; they are **not** Paper 1 content.
+
+**Determinism versus free-will**
+
+| Position | Claim |
+|---|---|
+| **Free will** | People choose their own behaviour |
+| **Hard determinism** | All behaviour is caused; free will is an illusion |
+| **Soft determinism** | Behaviour is caused, but people can exercise conscious choice within those constraints |
+
+Kinds of cause often distinguished: **biological** (genes, hormones, brain structure) and **environmental** (learning and experience). Determinism supports scientific prediction but sits uneasily with holding people responsible for their actions; free will fits everyday experience and legal responsibility but is hard to test scientifically.
+
+**Reductionism versus holism**
+
+- **Reductionism** explains behaviour by breaking it into simpler parts or a lower level of explanation — for example biological reductionism (neurochemistry, genes) or explaining behaviour by stimulus–response links.
+- **Holism** argues behaviour must be understood as a whole, including the person, their thinking and their social context.
+
+Reductionist explanations are testable and can lead to effective treatments but may miss the meaning of behaviour; holistic explanations are more complete but harder to test.
+
+**Idiographic versus nomothetic**
+
+- **Idiographic** — studying the individual in depth, often qualitatively; rich and valid for that person, but hard to generalise.
+- **Nomothetic** — seeking general laws from larger samples, usually quantitatively; generalisable, but can lose the individual.
+
+**Cultural differences**
+
+Whether behaviour, and the findings about it, vary between cultures: a study conducted in one culture may not generalise to another, and a measure developed in one culture may not be valid when applied elsewhere. Apply it to the specific studies in the option you are answering on.
 
 ## Exam traps
 
