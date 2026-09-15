@@ -5,8 +5,23 @@ interface Props {
   href?: string;
   type?: 'button' | 'submit';
   class?: string;
+  /**
+   * Any additional attribute (data-cta, aria-*, rel, target, ...) is
+   * forwarded verbatim to the rendered <a>/<button>. Without this,
+   * Astro drops unknown props silently -- which is exactly how
+   * data-cta went missing and left the hero/final trial CTAs
+   * untracked. See the commit that added this for the evidence.
+   */
+  [key: string]: unknown;
 }
-const { variant = 'primary', size = 'md', href, type = 'button', class: className = '' } = Astro.props;
+const {
+  variant = 'primary',
+  size = 'md',
+  href,
+  type = 'button',
+  class: className = '',
+  ...rest
+} = Astro.props;
 
 const base =
   'inline-flex items-center justify-center rounded-sm font-medium tracking-[0.01em] min-h-11 transition-colors duration-150';
@@ -21,4 +36,4 @@ const variants = {
 const cls = `${base} ${sizes[size]} ${variants[variant]} ${className}`;
 const Tag = href ? 'a' : 'button';
 ---
-<Tag class={cls} href={href} type={href ? undefined : type}><slot /></Tag>
+<Tag class={cls} href={href} type={href ? undefined : type} {...rest}><slot /></Tag>
