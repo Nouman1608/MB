@@ -107,7 +107,7 @@ const jsonLd = [
   description={d.seoDescription ?? d.description}
   path={path}
   eyebrow="Program"
-  heading={d.title}
+  heading={d.heading ?? d.title}
   lead={d.description}
   breadcrumbs={[
     { label: 'Home', href: routes.home },
