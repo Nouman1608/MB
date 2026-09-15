@@ -1,5 +1,8 @@
 ---
 title: "O Levels"
+heading: "Online O Level Tutoring — Cambridge O Level"
+seoTitle: "O Level Tutoring Online — Cambridge O Level"
+seoDescription: "Online Cambridge O Level tuition with structured revision and past-paper practice worked through in class by named subject specialists. First class free."
 order: 2
 level: "o-levels"
 marlbridgeTeaches: "teaching"
