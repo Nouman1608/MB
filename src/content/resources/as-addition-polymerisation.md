@@ -94,9 +94,9 @@ into a double bond gives the monomer **CH₂=CCl₂** (1,1-dichloroethene).
 
 ## Properties and chain structure
 
-Polymer chains are held together by **weak induced-dipole (van der Waals) forces** — individually weak, but so numerous along a long chain that the total attraction becomes substantial. **Longer chains** give more points of contact and therefore stronger forces, a higher melting point and greater strength. **Branched chains** cannot pack as closely, reducing contact between neighbouring chains and giving **lower density and a lower melting point** — the structural difference between low-density and high-density poly(ethene).
+Polymer chains are held together by **weak id-id (London dispersion) forces**, a type of van der Waals' force — individually weak, but so numerous along a long chain that the total attraction becomes substantial. **Longer chains** give more points of contact and therefore stronger forces, a higher melting point and greater strength. **Branched chains** cannot pack as closely, reducing contact between neighbouring chains and giving **lower density and a lower melting point** — the structural difference between low-density and high-density poly(ethene).
 
-**PVC is naturally rigid**, because its C–Cl dipoles create permanent dipole–dipole attractions between chains, on top of the van der Waals forces present in every addition polymer. **Plasticisers** are small molecules added to force the chains further apart, weakening those attractions and making the material flexible — which is why the same base polymer serves for both rigid drainpipes and flexible cable insulation, depending only on whether a plasticiser has been added.
+**PVC is naturally rigid**, because its C–Cl dipoles create permanent dipole–dipole attractions between chains, on top of the id-id forces present in every addition polymer. **Plasticisers** are small molecules added to force the chains further apart, weakening those attractions and making the material flexible — which is why the same base polymer serves for both rigid drainpipes and flexible cable insulation, depending only on whether a plasticiser has been added.
 
 ## The disposal problem
 

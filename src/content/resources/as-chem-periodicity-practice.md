@@ -95,9 +95,9 @@ Related: [Periodicity revision notes](/resources/as-chem-periodicity-revision-no
 
 **(b)** Silicon is a **giant covalent** structure [1] in which many **strong covalent bonds** must be broken [1].
 
-**(c)** Phosphorus is **simple molecular** (P₄) [1], so only **weak induced dipole–induced dipole forces between molecules** must be overcome [1], not covalent bonds — far less energy is required [1].
+**(c)** Phosphorus is **simple molecular** (P₄) [1], so only **weak instantaneous dipole–induced dipole forces between molecules** must be overcome [1], not covalent bonds — far less energy is required [1].
 
-**(d)** S₈ has **more electrons** than P₄ [1], so the induced dipole–induced dipole forces between molecules are **stronger** [1].
+**(d)** S₈ has **more electrons** than P₄ [1], so the instantaneous dipole–induced dipole forces between molecules are **stronger** [1].
 
 **5. (a)** Na₂O + H₂O → 2NaOH [1]; SO₂ + H₂O → H₂SO₃ [1].
 

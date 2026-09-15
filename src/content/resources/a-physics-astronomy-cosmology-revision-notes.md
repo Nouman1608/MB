@@ -62,7 +62,7 @@ Note `L ∝ T⁴` — a modest temperature increase produces an enormous luminos
 ```
 T = 2.9x10^-3 / (480x10^-9) = 6042 K
 L = 4 pi r^2 sigma T^4
-r = sqrt( L / (4 pi sigma T^4) ) = 6.95x10^8 m
+r = sqrt( L / (4 pi sigma T^4) ) = 6.96x10^8 m
 ```
 
 ## Redshift and Hubble's law

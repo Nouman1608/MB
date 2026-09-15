@@ -39,9 +39,10 @@ Principle](/resources/as-chemical-equilibria/) for 7.1.
 At IGCSE or O Level (Topic 7, Acids, bases and salts), you met acids and
 bases qualitatively — naming common acids and alkalis, using indicators, and
 neutralisation reactions — without a formal theory of what an acid or base
-*is*. Marlbridge does not yet have a dedicated resource for that IGCSE/O
-Level topic; if it's unfamiliar, the outcomes below are written to be
-self-contained.
+*is*. If that is rusty, revise it first with Marlbridge's
+[Acids, Bases and Salts](/resources/acids-bases-and-salts/) guide for
+Cambridge IGCSE 0620 and O Level 5070; the outcomes below are also written
+to be self-contained.
 
 AS Level introduces the **Brønsted-Lowry theory** as a precise definition of
 acids and bases, the strong/weak distinction (as opposed to
@@ -179,6 +180,7 @@ of the curve
 
 ## Related resources
 
+- [Acids, Bases and Salts](/resources/acids-bases-and-salts/) — the Cambridge IGCSE 0620 / O Level 5070 topic this builds on
 - [Chemical Equilibria: Kc, Kp and Le Chatelier's Principle](/resources/as-chemical-equilibria/) — the other AS Level equilibria topic
 - [Redox Processes: Oxidation Numbers and Electron Transfer](/resources/as-redox-processes/) — another electron/proton-transfer classification system
 - [Acids, Bases, Buffers and Partition Coefficients](/resources/a-acids-bases-buffers-and-partition-coefficients/) — the A Level topic that adds pH, Ka and buffer calculations

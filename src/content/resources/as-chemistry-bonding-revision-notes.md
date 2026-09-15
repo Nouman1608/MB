@@ -59,6 +59,8 @@ large difference     ionic
 
 ## Polarisation — the bridge between ionic and covalent
 
+*Background, not assessed: syllabus outcome 3.1.4 states that "the presence of covalent character in some ionic compounds will not be assessed". Polarisation is examined only at A Level, in 27.1.1, as the explanation of the thermal stability of Group 2 nitrates and carbonates.*
+
 A small, highly charged **cation** distorts the electron cloud of a large **anion**, pulling electron density into the space between the nuclei. This gives an ionic compound **covalent character**.
 
 **Polarising power** of a cation increases with **higher charge and smaller radius**. **Polarisability** of an anion increases with **larger radius and higher charge**.
@@ -96,7 +98,7 @@ Metallic bonding follows the same electrostatic logic: metal atoms release outer
 - Defining bonds without "electrostatic attraction".
 - Saying covalent bonds break when a simple molecular solid melts.
 - Saying ionic solids conduct.
-- Confusing polarising power (cation) with polarisability (anion).
+- Stating an electronegativity difference without saying what its size predicts about the bond type.
 - Forgetting graphite's fourth electron is delocalised, not unbonded.
 - Treating ionic and covalent as a strict binary rather than a continuum.
 
@@ -104,8 +106,8 @@ Metallic bonding follows the same electrostatic logic: metal atoms release outer
 
 1. Define electronegativity and give its two trends.
 2. What is a dative covalent bond, and how does it differ once formed?
-3. Which cation properties increase polarising power?
+3. Pauling electronegativities: H 2.2, Cl 3.2, Na 0.9. Predict the bonding in HCl and in NaCl.
 4. Why does graphite conduct but diamond not?
 5. Why do simple molecular substances have low melting points?
 
-**Answers:** 1. The ability of an atom to attract the bonding electrons in a covalent bond; it increases across a period and decreases down a group. 2. One in which both electrons of the shared pair come from the same atom; once formed it is indistinguishable from an ordinary covalent bond. 3. High charge and small ionic radius. 4. Each carbon in graphite forms only three covalent bonds, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in covalent bonds, so none are free. 5. Only the weak intermolecular forces between molecules need to be overcome; the strong covalent bonds within the molecules remain intact.
+**Answers:** 1. The ability of an atom to attract the bonding electrons in a covalent bond; it increases across a period and decreases down a group. 2. One in which both electrons of the shared pair come from the same atom; once formed it is indistinguishable from an ordinary covalent bond. 3. HCl: difference 1.0, polar covalent; NaCl: difference 2.3, ionic. 4. Each carbon in graphite forms only three covalent bonds, leaving one delocalised electron per atom free to move along the layers; in diamond all four outer electrons are used in covalent bonds, so none are free. 5. Only the weak intermolecular forces between molecules need to be overcome; the strong covalent bonds within the molecules remain intact.

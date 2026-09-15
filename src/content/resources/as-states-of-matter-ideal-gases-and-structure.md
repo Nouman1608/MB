@@ -98,7 +98,7 @@ Mr = mass / n = 4.40 / 0.0997 ≈ **44 g mol⁻¹** (consistent with CO₂).
 | Structure | Examples | Bonding | Melting/boiling point | Conducts? | Typically soluble in water? |
 |---|---|---|---|---|---|
 | Giant ionic | NaCl, MgO | electrostatic attraction between ions, in all directions | high | only molten or in solution (mobile ions) | often, yes |
-| Simple molecular | iodine, I₂; buckminsterfullerene, C₆₀; ice, H₂O | strong covalent bonds *within* each molecule; weak van der Waals (or, for ice, hydrogen bonding) *between* molecules | low | no (no mobile charged particles) | depends on polarity |
+| Simple molecular | iodine, I₂; buckminsterfullerene, C₆₀; ice, H₂O | strong covalent bonds *within* each molecule; weak van der Waals' forces *between* molecules (id-id forces for I₂ and C₆₀; hydrogen bonding, the strongest type, for ice) | low | no (no mobile charged particles) | depends on polarity |
 | Giant molecular (macromolecular) | silicon(IV) oxide, SiO₂; graphite; diamond | a continuous network of strong covalent bonds | very high | no, **except graphite** | no |
 | Giant metallic | copper | electrostatic attraction between metal cations and delocalised electrons | high | yes, solid and molten | no |
 
@@ -113,7 +113,7 @@ bonds that are almost irrelevant to melting: the covalent bonds holding
 each I₂, C₆₀ or H₂O molecule together are strong, but melting only needs
 to overcome the much weaker forces *between* separate molecules. Ice is a
 special case worth knowing by name — it's held together by **hydrogen
-bonding**, not just van der Waals forces, which gives ice an unusually open
+bonding** — the strongest type of van der Waals' force, not just id-id forces — which gives ice an unusually open
 structure (and is why ice is less dense than liquid water and floats).
 
 **Giant molecular** structures have the highest melting points of all,

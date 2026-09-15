@@ -108,11 +108,11 @@ electrons gain enough energy to become mobile.
 **P → S → Cl₂ → Ar**: melting point drops sharply and none of these
 conduct, because from silicon onwards the elements exist as **simple
 molecular** (P₄, S₈, Cl₂) or **monatomic** (Ar) structures — held together
-in the solid only by weak instantaneous dipole–induced dipole (van der
-Waals) forces *between* molecules, while the strong covalent bonds *within*
+in the solid only by weak instantaneous dipole–induced dipole (id-id,
+London dispersion) forces *between* molecules, while the strong covalent bonds *within*
 each molecule are irrelevant to melting. The small remaining variation
 (S₈ > P₄ > Cl₂ > Ar) follows molecule size and number of electrons, exactly
-as for any van der Waals comparison.
+as for any id-id comparison.
 
 ## Chemical periodicity across Period 3
 
@@ -202,28 +202,38 @@ PCl₅ + 4H₂O → H₃PO₄ + 5HCl
 
 **Why the split happens where it does**: electronegativity increases across
 the period while chlorine's stays fixed, so the electronegativity
-*difference* between the element and chlorine shrinks — Na–Cl and Mg–Cl
-bonds are ionic enough that the chloride simply dissolves as ions, while
-Si–Cl and P–Cl bonds are covalent enough that water attacks the bond
-directly, hydrolysing it.
+*difference* between the element and chlorine shrinks. NaCl is ionic and
+simply dissolves as ions (pH 7); MgCl₂ is also ionic and dissolves, but its
+small, doubly charged cation makes the solution slightly acidic; AlCl₃ sits
+at the changeover, with a much more acidic solution; and Si–Cl and P–Cl
+bonds are covalent enough that water attacks the bond directly, hydrolysing
+it completely.
 
 ## Predicting properties from periodicity (9.3)
 
 Because these trends repeat in every period, you can use the *pattern*
 itself to predict or deduce things you haven't been told directly.
 
-**Worked example.** An unknown Period 3-like element X reacts with water to
-give a strongly acidic solution and, on analysis, its chloride is found to
-hydrolyse violently in moist air. Suggest whereabouts in a period X is
-likely to sit, and justify your answer.
+**Worked example.** An unknown Period 3 element X burns in oxygen to give
+a white solid oxide that dissolves in water to give a strongly acidic
+solution. X also reacts with chlorine to give a chloride that fumes in moist
+air and reacts vigorously with water, giving an acidic solution. Suggest
+whereabouts in the period X sits, and identify it.
 
-A violently hydrolysing, "fuming" chloride indicates a **covalent**
-chloride — the kind formed towards the right-hand side of a period (by
-analogy with Si and P in Period 3), not the ionic chlorides typical of the
-left-hand side. A strongly acidic oxide similarly points to a non-metal
-towards the right of the period, since acidic oxides (like P₄O₁₀, SO₂, SO₃)
-sit on that side while basic oxides (like Na₂O, MgO) sit on the left. Both
-pieces of evidence place X on the right-hand side of its period.
+Start from the **chloride**: a chloride that fumes and is hydrolysed by
+water is a **covalent** chloride, which in Period 3 means SiCl₄ or PCl₅ —
+the ionic chlorides of Na and Mg dissolve without fuming. Then use the **oxide**:
+SiO₂ does not react with water at all, so silicon is ruled out, while
+P₄O₁₀ reacts to give phosphoric acid, a strongly acidic solution. A solid
+oxide also rules out sulfur, whose oxides SO₂ and SO₃ are gases or
+volatile. Both pieces of evidence place X on the right-hand side of the
+period, and together they identify it as **phosphorus**:
+
+P₄ + 5O₂ → P₄O₁₀  P₄O₁₀ + 6H₂O → 4H₃PO₄  PCl₅ + 4H₂O → H₃PO₄ + 5HCl
+
+Note what the question gives you: observations of the element's **oxide**
+and **chloride**, not of the element with water. In Period 3 only sodium
+and magnesium react with water (9.2.1), and both give alkaline solutions.
 
 ## Common mistakes
 
@@ -232,9 +242,11 @@ stop.** The key comparison is that Si's bonds extend through a *giant*
 lattice, so melting breaks many strong bonds — whereas P₄, S₈ and Cl₂ also
 have strong covalent bonds *within* each molecule, but melting only needs to
 overcome the weak forces *between* molecules.
-- **Assuming all Period 3 chlorides behave like NaCl.** Only the metallic
-elements' chlorides are ionic and simply dissolve; from silicon onwards,
-the chlorides are covalent and hydrolyse.
+- **Assuming all Period 3 chlorides behave like NaCl.** NaCl dissolves
+unchanged (pH 7); MgCl₂ dissolves to give a slightly acidic solution;
+AlCl₃, although aluminium is a metal, gives a strongly acidic solution;
+and from silicon onwards the chlorides are covalent and hydrolyse
+completely.
 - **Forgetting that Al₂O₃ doesn't react with water at all**, despite
 reacting readily with both acids and NaOH — amphoteric means reacting with
 acid *and* base, not "reacts with everything."

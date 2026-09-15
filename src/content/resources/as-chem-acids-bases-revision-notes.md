@@ -87,15 +87,11 @@ H+(aq) + OH-(aq) -> H2O(l)
 
 The positive ion left from the acid and the negative ion left from the base combine to form a **salt** — e.g. hydrochloric acid + sodium hydroxide → sodium chloride + water. At AS Level, pH is described **qualitatively only** (below 7 acidic, 7 neutral, above 7 alkaline) — numerical Ka, pKa and pH calculations are A2 content.
 
-## Half-equivalence point
+## Half-equivalence point — A Level only
 
-At exactly half the equivalence volume, [HA] = [A⁻], so:
+*Not assessed at AS: the AS outcome on indicators states that pKa values will not be used, and pKa is defined and used only at A Level (syllabus 25.1.3). Included here so the curve makes sense when you meet it again at A Level.*
 
-```
-pH = pKa
-```
-
-Reading pH at half-equivalence off a curve is the standard method for finding Ka of a weak acid.
+At exactly half the equivalence volume of a weak acid–strong base titration, [HA] = [A⁻], so at A Level you will use pH = pKa to find Ka from a titration curve. At AS, read titration curves qualitatively: the starting pH, the vertical section, the equivalence point and the choice of indicator.
 
 ## Exam traps
 
@@ -112,8 +108,8 @@ Reading pH at half-equivalence off a curve is the standard method for finding Ka
 2. Distinguish a weak acid from a dilute acid.
 3. Why is the equivalence pH above 7 for a weak acid with a strong base?
 4. Which indicator suits ethanoic acid titrated with sodium hydroxide, and why?
-5. What is true at the half-equivalence point?
+5. On a weak acid–strong base titration curve, why is the equivalence point above pH 7?
 6. Give one observable difference between a strong acid and a weak acid of the same concentration.
 7. Explain why ammonia is classed as a Brønsted-Lowry base despite containing no hydroxide ion in its own formula.
 
-**Answers:** 1. NH₃/NH₄⁺ and H₂O/OH⁻. 2. Weak means only partially dissociated into ions; dilute means a small amount of acid per unit volume — a weak acid can be concentrated. 3. The salt formed contains the conjugate base of the weak acid, which hydrolyses in water to produce hydroxide ions. 4. Phenolphthalein — the vertical section runs roughly pH 7–11, and phenolphthalein's range (8.3–10.0) lies entirely within it. 5. Half the acid has reacted, so [HA] = [A⁻] and pH = pKa. 6. The strong acid reacts faster with a reactive metal, has a lower pH, and conducts electricity better, because full dissociation gives more free ions. 7. Dissolved in water, ammonia accepts a proton from H₂O to form NH₄⁺ and OH⁻ — the Brønsted-Lowry definition is behavioural (what a substance does), not based on its own formula.
+**Answers:** 1. NH₃/NH₄⁺ and H₂O/OH⁻. 2. Weak means only partially dissociated into ions; dilute means a small amount of acid per unit volume — a weak acid can be concentrated. 3. The salt formed contains the conjugate base of the weak acid, which hydrolyses in water to produce hydroxide ions. 4. Phenolphthalein — the vertical section runs roughly pH 7–11, and phenolphthalein's range (8.3–10.0) lies entirely within it. 5. At equivalence the solution contains the salt of a weak acid, whose anion is a base strong enough to raise the pH above 7. 6. The strong acid reacts faster with a reactive metal, has a lower pH, and conducts electricity better, because full dissociation gives more free ions. 7. Dissolved in water, ammonia accepts a proton from H₂O to form NH₄⁺ and OH⁻ — the Brønsted-Lowry definition is behavioural (what a substance does), not based on its own formula.

@@ -23,7 +23,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-dot-and-cross-diagrams"
-description: "Condensed recall notes on VSEPR shapes, bond angles, polarity and the three intermolecular forces for Cambridge AS & A Level Chemistry 9701."
+description: "Condensed recall notes on VSEPR shapes, bond angles, polarity and van der Waals' forces (id-id, pd-pd and hydrogen bonding) for Cambridge AS & A Level Chemistry 9701."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false
@@ -78,13 +78,15 @@ A bond is polar if the two atoms differ in electronegativity. A **molecule** is 
 
 Symmetry decides it. This is the standard trap.
 
-## The three intermolecular forces
+## Intermolecular forces: two types of van der Waals' force
 
-| Force | Present in | Relative strength |
+**Van der Waals' forces** is the syllabus's generic term for **all** intermolecular forces (3.6.3). It has two types, and hydrogen bonding is a special case of the second:
+
+| Type of van der Waals' force | Present in | Relative strength |
 |---|---|---|
-| **Induced dipole–induced dipole** (van der Waals / London) | **All** molecules | Weakest, but grows with size |
-| **Permanent dipole–permanent dipole** | Polar molecules | Intermediate |
-| **Hydrogen bonding** | H bonded to **N or O** (the Cambridge 9701 assessed condition), plus a lone pair on N/O — F also qualifies scientifically but isn't a required 9701 example | Strongest |
+| **Instantaneous dipole–induced dipole** (id-id, London dispersion) | **All** molecules | Weakest, but grows with the number of electrons |
+| **Permanent dipole–permanent dipole** (pd-pd) | Polar molecules | Stronger than id-id for molecules of similar size |
+| — **hydrogen bonding**, a special case of pd-pd | H bonded to **N or O** (the Cambridge 9701 assessed condition), plus a lone pair on N/O — F also qualifies scientifically but isn't a required 9701 example | Strongest intermolecular force |
 
 Hydrogen bonding requires **both**: hydrogen directly bonded to N or O (the condition Cambridge 9701 assesses — H–F also hydrogen bonds by the same underlying rule, but 9701 only requires N–H/O–H examples), *and* a lone pair on an N or O of a neighbouring molecule to accept it. HCl does not hydrogen bond — chlorine is not electronegative enough to qualify, despite being an electronegative element.
 

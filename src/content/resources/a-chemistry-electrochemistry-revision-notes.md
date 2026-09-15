@@ -29,7 +29,7 @@ Condensed for the final weeks. For the full explanation, use the
 ## Standard conditions
 
 ```
-298 K,  1 mol dm^-3 solutions,  100 kPa (or 1 atm) for gases
+298 K,  1 mol dm^-3 solutions,  101 kPa for gases (the 9701 syllabus's value)
 Reference: standard hydrogen electrode, E = 0.00 V by DEFINITION
 ```
 

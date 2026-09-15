@@ -85,7 +85,7 @@ delta-Hc: C(graphite) = -394 kJ mol-1, H2(g) = -286 kJ mol-1, CH3OH(l) = -726 kJ
 
 ## Answers
 
-**1.** The enthalpy change when **one mole** of a substance [1] is **completely burned in oxygen** under standard conditions [1], namely 298 K and 100 kPa, with all substances in their standard states.
+**1.** The enthalpy change when **one mole** of a substance [1] is **completely burned in oxygen** under standard conditions [1], namely 298 K and 101 kPa (the values the 9701 syllabus assumes), with all substances in their standard states.
 
 **2.** The total enthalpy change is **independent of the route taken**, provided the initial and final conditions are the same [1]. This lets chemists calculate an enthalpy change that **cannot be measured directly** (e.g. formation of methane) by building a Hess cycle from other, measurable enthalpy changes instead [1].
 

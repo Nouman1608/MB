@@ -18,15 +18,18 @@ publishedDate: 2026-09-02
 featured: false
 ---
 
-This guide covers **External Influences Facing Businesses**, an
-Area of Study in OCR A Level Business (H431). It follows Business
-Objectives and Strategic Decisions and shifts the focus from
+This guide covers **External influences** — the name the
+specification's subject content gives this Area of Study in OCR A Level
+Business (H431); its content overview lists it as "External influences
+facing businesses". The specification does not number its areas. In the
+subject content it comes after Introduction to business and Business
+objectives and strategy, and shifts the focus from
 decisions a business makes internally to the market and wider
 environmental forces it must respond to but cannot fully control.
 
 ## Syllabus coverage
 
-**OCR A LEVEL BUSINESS H431 -- EXTERNAL INFLUENCES FACING BUSINESSES**
+**OCR A LEVEL BUSINESS H431 -- AREA OF STUDY: EXTERNAL INFLUENCES**
 
 - **Markets** -- the market, market size and growth (explaining what a
   market, competition, market size and market growth mean, and

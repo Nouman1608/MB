@@ -76,7 +76,7 @@ Related: [Ideal Gases and Structure revision notes](/resources/as-chem-states-st
 
 **(b)** Each carbon in graphite forms only **three** covalent bonds [1], leaving **one delocalised electron per atom** [1] which is **free to move along the layers**, carrying charge. In diamond all four outer electrons are used in covalent bonds, so none are free [1].
 
-**(c)** Only the **weak induced dipole–induced dipole forces between I₂ molecules** must be overcome to melt iodine, giving it a low melting point of 114 °C [1]; because these intermolecular forces are weak, solid iodine also has a **significant vapour pressure below 114 °C**, so it visibly sublimes at temperatures below its actual melting point too [1].
+**(c)** Only the **weak instantaneous dipole–induced dipole forces between I₂ molecules** must be overcome to melt iodine, giving it a low melting point of 114 °C [1]; because these intermolecular forces are weak, solid iodine also has a **significant vapour pressure below 114 °C**, so it visibly sublimes at temperatures below its actual melting point too [1].
 
 **5.** In the solid the **ions are held in fixed positions** and cannot move [1]; when molten they are **free to move and carry charge** [1].
 
@@ -94,7 +94,7 @@ Related: [Ideal Gases and Structure revision notes](/resources/as-chem-states-st
 - Explaining real-gas deviation without naming the specific failing assumptions.
 - Confusing "conducts when molten" (ionic) with "conducts in both states" (metallic) — the deduction hinges on exactly this distinction.
 - Treating simple molecular structures as weakly bonded overall, when it is only the *intermolecular* forces that are weak — the covalent bonds within each molecule are just as strong as in a giant covalent structure.
-- Forgetting that ice is held together partly by hydrogen bonding rather than only van der Waals forces, which is why it has an unusually open structure and floats on liquid water.
+- Forgetting that ice is held together by hydrogen bonding — the strongest type of van der Waals' force — rather than by id-id (London dispersion) forces alone, which is why it has an unusually open structure and floats on liquid water.
 
 ## The four structure types at a glance
 

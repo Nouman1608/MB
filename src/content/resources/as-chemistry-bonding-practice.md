@@ -63,7 +63,7 @@ Related: [Ionic, Covalent and Metallic Bonding revision notes](/resources/as-che
 
 **(b)** Explain why solid NaCl does not conduct electricity but molten NaCl does. **[2]**
 
-**(c)** Aluminium chloride behaves as though it were covalent, despite being formed from a metal and a non-metal. Explain. **[3]**
+**(c)** Pauling electronegativity values are: Na 0.9, Al 1.6, Cl 3.2. Use them to predict the type of bonding in sodium chloride and in aluminium chloride, explaining your reasoning. **[3]**
 
 **6.** Iodine, I₂, has a melting point of 114 °C, but visibly sublimes at temperatures below this because it has a noticeable vapour pressure as a solid.
 
@@ -92,7 +92,7 @@ Related: [Ionic, Covalent and Metallic Bonding revision notes](/resources/as-che
 
 **(b)** In graphite each carbon uses only three of its four outer electrons in bonding [1], leaving **one delocalised electron per atom** [1] which is **free to move along the layers**, carrying charge [1]. In diamond all four are used in covalent bonds, so none are free.
 
-**(c)** The layers are held together only by **weak induced dipole–induced dipole forces** [1], so they can **slide over one another** easily [1].
+**(c)** The layers are held together only by **weak instantaneous dipole–induced dipole forces** [1], so they can **slide over one another** easily [1].
 
 **(d)** Both are **giant covalent structures** [1] in which many **strong covalent bonds** must be broken to melt them [1].
 
@@ -100,9 +100,9 @@ Related: [Ionic, Covalent and Metallic Bonding revision notes](/resources/as-che
 
 **(b)** In the solid the **ions are held in fixed positions** in the lattice and cannot move [1]. When molten, the ions are **free to move and carry charge** [1].
 
-**(c)** Al³⁺ is **small with a high charge**, so it has **high polarising power** [1]. It **distorts the electron cloud of the chloride ion** [1], drawing electron density into the space between the nuclei and giving the bond substantial **covalent character** [1].
+**(c)** Differences: Na–Cl **2.3**, Al–Cl **1.6** [1]. The **large** difference for NaCl means chlorine takes the electron almost entirely, so the bonding is **ionic** [1]. The **smaller** difference for AlCl₃ means the electrons are shared, but unequally, so the bonding is **polar covalent** [1]. *(Why a metal chloride can be covalent in terms of polarisation is not assessed — syllabus 3.1.4.)*
 
-**6. (a)** **Induced dipole–induced dipole** (van der Waals / London) forces [1].
+**6. (a)** **Instantaneous dipole–induced dipole** (id-id, London dispersion) forces, a type of van der Waals' force [1].
 
 **(b)** Sublimation overcomes the **intermolecular forces between I₂ molecules** [1], not the covalent bond within each molecule — the iodine vapour still consists of I₂ molecules [1].
 
@@ -119,7 +119,7 @@ Related: [Ionic, Covalent and Metallic Bonding revision notes](/resources/as-che
 - Omitting "electrostatic attraction" from a bonding definition.
 - Saying graphite's fourth electron is "unbonded" rather than delocalised.
 - Saying covalent bonds break when a simple molecular substance melts or sublimes.
-- Confusing polarising power (cation) with polarisability (anion).
+- Calculating an electronegativity difference but not saying what its size predicts about the bond type.
 - Explaining MgO's melting point by charge alone, without mentioning ionic radius.
 - Describing metallic bonding as a bond between two specific atoms, rather than a force extending through the whole structure.
 - Confusing "no sharp electronegativity cutoff" with there being no way to compare bond types — always reason from the relative size of the difference.

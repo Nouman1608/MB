@@ -78,7 +78,7 @@ Related: [Group 17 revision notes](/resources/as-chem-group17-revision-notes/)
 
 ## Answers
 
-**1.** Volatility **decreases** down the group (boiling points increase) [1]. The molecules have **more electrons** down the group [1], so the **induced dipole–induced dipole forces between molecules are stronger** and more energy is needed to separate them [1].
+**1.** Volatility **decreases** down the group (boiling points increase) [1]. The molecules have **more electrons** down the group [1], so the **instantaneous dipole–induced dipole forces between molecules are stronger** and more energy is needed to separate them [1].
 
 **2.** Reactivity **decreases** down the group [1]. A halogen atom must **gain an electron**; down the group the outer shell is **further from the nucleus with more shielding** [1], so the incoming electron is **attracted less strongly** [1].
 

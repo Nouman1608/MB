@@ -110,12 +110,12 @@ constant, using F = Le with an independently known value of e.
 
 A **standard electrode (reduction) potential**, E°, is the EMF measured for
 a half-cell connected to a standard hydrogen electrode, under standard
-conditions (298 K, 100 kPa, 1 mol dm⁻³ solutions), with the half-cell
+conditions (298 K, 101 kPa, 1 mol dm⁻³ solutions — the syllabus assumes 101 kPa), with the half-cell
 written as a reduction.
 
 The **standard hydrogen electrode** is the reference against which all
 other electrode potentials are measured, arbitrarily assigned E° = 0.00 V.
-It consists of H₂ gas at 100 kPa bubbled over a platinum electrode
+It consists of H₂ gas at 101 kPa bubbled over a platinum electrode
 (platinised for a large surface area and catalytic activity), immersed in
 1 mol dm⁻³ H⁺(aq) at 298 K.
 
@@ -260,7 +260,7 @@ electrode, since it's the source of electrons the cell itself generates.
 ## Quick revision checklist
 
 - Q = It; moles of electrons = Q / F
-- Standard hydrogen electrode: E° = 0.00 V by definition, 298 K, 100 kPa,
+- Standard hydrogen electrode: E° = 0.00 V by definition, 298 K, 101 kPa,
   1 mol dm⁻³
 - E°<sub>cell</sub> of a freely-built cell = more positive E° − more
   negative E° (always positive)

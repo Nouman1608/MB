@@ -64,7 +64,7 @@ first electron affinity of Cl        -349 kJ mol-1
 
 **(a)** Calculate the lattice energy. **[3]**
 
-**(b)** The theoretical lattice energy calculated from a purely ionic model is −702 kJ mol⁻¹. Comment on the difference. **[2]**
+**(b)** The lattice energy of sodium chloride is −787 kJ mol⁻¹. Explain why the lattice energy of potassium chloride is less exothermic. **[2]**
 
 **6.** For the decomposition of calcium carbonate:
 
@@ -107,7 +107,7 @@ CaCO3(s) -> CaO(s) + CO2(g)     delta-H = +178 kJ mol-1,  delta-S = +161 J K-1 m
 −437 = 280 + ΔH_latt [1]
 ΔH_latt = **−717 kJ mol⁻¹** [1].
 
-**(b)** The experimental value is **more exothermic** than the theoretical [1], indicating a degree of **covalent character** — the cation polarises the anion's electron cloud [1].
+**(b)** K⁺ has the **same charge** as Na⁺ but a **larger ionic radius** [1], so the ions are further apart, the **electrostatic attraction is weaker** and less energy is released when the lattice forms [1].
 
 **6. (a)** ΔS must be converted: 161 J = 0.161 kJ [1].
 ΔG = 178 − (298 × 0.161) = 178 − 47.98 = **+130 kJ mol⁻¹** [1].

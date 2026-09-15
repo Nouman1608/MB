@@ -200,8 +200,8 @@ atom (limited, at this level, to N–H and O–H).
 
 Hydrogen bonding between water molecules explains three properties that would
 otherwise be surprising for so small a molecule: its **relatively high melting
-and boiling points** (extra energy is needed to break the hydrogen bonds, not
-just weaker van der Waals' forces, between molecules); its **relatively high
+and boiling points** (extra energy is needed to break the hydrogen bonds between
+molecules, not just the weaker id-id forces); its **relatively high
 surface tension** (surface molecules are pulled inward by hydrogen bonds with
 fewer neighbours to balance the pull); and **ice being less dense than liquid
 water** (in ice, hydrogen bonds lock molecules into a fixed, open lattice with

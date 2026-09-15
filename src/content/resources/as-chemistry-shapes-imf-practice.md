@@ -97,11 +97,11 @@ Related: [Shapes and Intermolecular Forces revision notes](/resources/as-chemist
 
 **5. (a)** CO₂ is **linear and symmetrical**, so the two bond dipoles are equal and opposite and **cancel** [1]. H₂O is **bent** [1], so the dipoles **do not cancel** and there is a net dipole [1].
 
-**(b)** H₂O has **hydrogen bonding** between molecules [1]; H₂S has only **permanent dipole–dipole forces and (weaker) induced dipole–induced dipole forces**, but no hydrogen bonding (sulfur is not electronegative enough) [1]. More energy is required to overcome the stronger intermolecular forces in water [1].
+**(b)** H₂O has **hydrogen bonding** between molecules [1]; H₂S has only **permanent dipole–dipole forces and (weaker) instantaneous dipole–induced dipole forces**, but no hydrogen bonding (sulfur is not electronegative enough) [1]. More energy is required to overcome the stronger intermolecular forces in water [1].
 
 **(c)** Each water molecule forms **four hydrogen bonds** in a **tetrahedral arrangement** [1], producing an **open lattice containing holes** [1]. On melting this partly collapses, so molecules pack closer and the liquid is denser [1].
 
-**6. (a)** C₄H₁₀ has **more electrons** [1], so the **induced dipole–induced dipole forces between molecules are stronger** and more energy is needed to separate them [1].
+**6. (a)** C₄H₁₀ has **more electrons** [1], so the **instantaneous dipole–induced dipole forces between molecules are stronger** and more energy is needed to separate them [1].
 
 **(b)** CH₃OH has an O–H group so forms **hydrogen bonds** [1], which are stronger than the induced dipole forces in C₄H₁₀ [1].
 
@@ -114,7 +114,7 @@ Related: [Shapes and Intermolecular Forces revision notes](/resources/as-chemist
 
 **8.** Each carbon is **sp² hybridised** [1], with three hybrid orbitals arranged in a plane at **120°** [1], leaving one unhybridised p orbital on each carbon to overlap sideways and form the π bond of the C=C double bond [1]. This contrasts with an sp³ carbon (as in ethane), which has four equivalent hybrid orbitals arranged tetrahedrally with no unhybridised p orbital left over.
 
-**9.** The syllabus uses **van der Waals' forces as the umbrella term** that includes hydrogen bonding, permanent dipole–dipole forces and induced dipole–induced dipole (dispersion) forces [1] — it is not a separate, competing category from hydrogen bonding [1]. Calling every intermolecular force "van der Waals'" as if it meant only the weak dispersion type is the more common version of this mistake.
+**9.** The syllabus uses **van der Waals' forces as the umbrella term** that includes hydrogen bonding, permanent dipole–dipole forces and instantaneous dipole–induced dipole (dispersion) forces [1] — it is not a separate, competing category from hydrogen bonding [1]. Calling every intermolecular force "van der Waals'" as if it meant only the weak dispersion type is the more common version of this mistake.
 
 ---
 

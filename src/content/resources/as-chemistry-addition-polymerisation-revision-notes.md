@@ -60,7 +60,7 @@ The most frequent errors are keeping the double bond and forgetting the extendin
 
 ## Properties
 
-The polymer chains are held together by **weak induced-dipole (van der Waals) forces**. These are individually weak but there are very many of them along a long chain, so the total attraction is substantial.
+The polymer chains are held together by **weak id-id (London dispersion) forces**, a type of van der Waals' force. These are individually weak but there are very many of them along a long chain, so the total attraction is substantial.
 
 **Chain structure determines properties:**
 

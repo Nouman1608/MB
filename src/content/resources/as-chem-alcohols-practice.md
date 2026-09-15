@@ -72,7 +72,7 @@ Related: [Alcohols revision notes](/resources/as-chem-alcohols-revision-notes/),
 
 **1. Primary** — the carbon bearing the OH is attached to **one** other carbon: propan-1-ol [1]. **Secondary** — attached to **two**: propan-2-ol [1]. **Tertiary** — attached to **three**: 2-methylpropan-2-ol [1]. The classification depends on the **number of alkyl groups on the carbon carrying the OH group** [1].
 
-**2.** Ethanol molecules form **hydrogen bonds** with each other [1] because O–H is present [1]; propane has only **weak induced dipole–induced dipole forces**, so far less energy is needed to separate its molecules [1].
+**2.** Ethanol molecules form **hydrogen bonds** with each other [1] because O–H is present [1]; propane has only **weak instantaneous dipole–induced dipole forces**, so far less energy is needed to separate its molecules [1].
 
 **3. (a)** **Propanal**; K₂Cr₂O₇/H₂SO₄, warm and **distil off** the product as it forms [1] [1].
 **(b)** **Propanoic acid**; K₂Cr₂O₇/H₂SO₄, heat under **reflux** [1] [1].

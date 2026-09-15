@@ -69,7 +69,7 @@ Related: [Group 2 revision notes](/resources/as-chem-group2-revision-notes/)
 
 **5. (a)** `MgCO₃ → MgO + CO₂` [1].
 
-**(b)** Thermal stability **increases** down the group [1]. Down the group the cation is **larger with the same charge**, so its **charge density and polarising power decrease** [1]. It therefore **distorts the carbonate ion's electron cloud less** [1], so the C–O bond is weakened less and more energy is needed to decompose it [1].
+**(b)** Thermal stability **increases** down the group [1]. Down the group the cation is **larger with the same charge**, so its **charge density and polarising power decrease** [1]. It therefore **distorts the carbonate ion's electron cloud less** [1], so the C–O bond is weakened less and more energy is needed to decompose it [1]. *(AS 10.1.3 requires only the trend and equations; the polarising-power explanation is A Level 27.1.1. An AS paper would credit the trend and a prediction from it, not this mechanism.)*
 
 **6.** Add **dilute hydrochloric acid** first, then **barium chloride solution** [1]. A **white precipitate** confirms sulfate [1]. The acid removes **carbonate ions**, which would otherwise also give a white precipitate and a false positive [1].
 
@@ -82,18 +82,18 @@ Related: [Group 2 revision notes](/resources/as-chem-group2-revision-notes/)
 
 **9.** `2M(NO₃)₂ → 2MO + 4NO₂ + O₂` [1]. Observations: the **brown gas** NO₂ is given off [1], and a **glowing splint relights** in the oxygen produced [1] — both confirm the decomposition has occurred [1].
 
-**10.** Ca²⁺ is **smaller than Sr²⁺** (fewer electron shells) [1], so it has a **higher charge density and polarises the carbonate ion more strongly**, weakening its bonds more [1]. **CaCO₃ decomposes at the lower temperature** [1].
+**10.** Ca²⁺ is **smaller than Sr²⁺** (fewer electron shells) [1], so it has a **higher charge density and polarises the carbonate ion more strongly**, weakening its bonds more [1]. **CaCO₃ decomposes at the lower temperature** [1]. *(At AS the prediction from the trend earns the credit; the charge-density reasoning is the A Level 27.1.1 explanation.)*
 
 ---
 
 ## Where marks are usually lost
 
 - Reversing the hydroxide and sulfate solubility trends.
-- Explaining thermal stability without mentioning polarising power.
+- At A Level, explaining thermal stability without mentioning polarising power (AS requires the trend, not the mechanism).
 - Forgetting to acidify before testing for sulfate.
 - Explaining reactivity by "more shells" alone, without linking to attraction.
 - Treating barium's slow reaction with sulfuric acid as evidence that barium is less reactive — it is a solubility effect (BaSO₄ coating the metal), not a reactivity trend, and barium is in fact the most reactive Group 2 metal covered.
-- Explaining thermal stability of nitrates without the polarising-power argument, or forgetting that both carbonates and nitrates follow the same trend for the same underlying reason.
+- At A Level, explaining thermal stability of nitrates without the polarising-power argument; at either level, forgetting that both carbonates and nitrates follow the same trend for the same underlying reason.
 - Missing one of the two confirming observations (brown gas, relighting splint) when asked to describe how a nitrate decomposition is confirmed experimentally.
 
 ## Related reactions worth knowing alongside these

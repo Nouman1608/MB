@@ -99,7 +99,7 @@ I2 + 2e-    <=>  2I-      E = +0.54 V
 
 ## Answers
 
-**1.** 298 K [1]; solution concentrations of 1 mol dm⁻³ [1]; pressure of 100 kPa for any gases [1].
+**1.** 298 K [1]; solution concentrations of 1 mol dm⁻³ [1]; pressure of 101 kPa for any gases [1] (the value the 9701 syllabus assumes for standard conditions).
 
 **2.** An electrode potential can only be measured as a **potential difference between two half-cells** [1], so one must be chosen as an arbitrary reference against which all others are measured [1].
 *Answers saying hydrogen "has no potential" score nothing — the value is a convention, not a measurement.*

@@ -71,7 +71,7 @@ Gases behave most ideally at **low pressure and high temperature**. Gases with l
 | **Giant covalent** | Atoms | Many strong covalent bonds | Very high | No (except graphite) | Insoluble |
 | **Giant metallic** | Ions + delocalised electrons | Attraction of ions to electron sea | High | Yes, solid and molten | Insoluble |
 
-**Ice is a special case** worth naming: it's held together by **hydrogen bonding** rather than just van der Waals forces, giving it an unusually open structure — which is why ice is less dense than liquid water and floats.
+**Ice is a special case** worth naming: its molecules are held together by **hydrogen bonding** — the strongest type of van der Waals' force (a special case of permanent dipole–permanent dipole attraction) — rather than by id-id forces alone, giving it an unusually open structure — which is why ice is less dense than liquid water and floats.
 
 ## The rule that answers most questions
 

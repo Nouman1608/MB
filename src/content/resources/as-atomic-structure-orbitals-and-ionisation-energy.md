@@ -102,10 +102,11 @@ fills first:
 ```
 
 This is why potassium (proton number 19) has the configuration 1s²2s²2p⁶3s²3p⁶4s¹
-rather than filling 3d first, and why the shorthand form for iron is written
-[Ar] 3d⁶4s² — the 4s electrons are still shown as filled first, even though (once
-present) 3d electrons are slightly lower in energy and are removed before 4s
-electrons when a transition metal ion forms.
+rather than filling 3d first. The shorthand form for iron, as the syllabus
+writes it, is [Ar] 3d⁶4s² — the 3d sub-shell is written **before** 4s, in shell
+order, even though 4s filled first. Once 3d is occupied it is slightly lower in
+energy than 4s, so when a transition metal ion forms the **4s electrons are
+removed first**: Fe²⁺ is [Ar] 3d⁶, not [Ar] 3d⁴4s².
 
 ### Electrons-in-boxes and Hund's rule
 

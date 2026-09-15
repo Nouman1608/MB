@@ -25,6 +25,12 @@ guides to
 [Rocks and Minerals and Their Exploitation](/resources/o-level-cambridge-environmental-management-rocks-and-minerals/)
 and [Energy and the Environment](/resources/o-level-cambridge-environmental-management-energy-and-the-environment/).
 
+**Note:** these notes follow the **outgoing 2025-2026 edition** of 5014, whose final sitting is the
+November 2026 series in Mauritius only. The already-published **2027-2029 edition** restructures the
+subject into seven topics, renames both papers (Paper 1 Principles of Environmental Management, Paper 2
+Environmental Management in Context) and changes the assessment weightings — check which edition your
+course is using before relying on the paper structure described here.
+
 ## Both papers are source-based -- this is not a recall qualification
 
 Three-quarters of Paper 1's marks and the whole of Paper 2 are built on source material supplied in

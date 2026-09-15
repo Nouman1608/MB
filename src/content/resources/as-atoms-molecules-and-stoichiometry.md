@@ -152,9 +152,17 @@ ratio required (from equation) is 2 : 1, so 2.00 mol H2 would need 1.00 mol O2
 only 0.125 mol O2 is available — oxygen is the limiting reagent
 ```
 
-Every subsequent calculation in this question — mass of water formed, mass of
-unreacted hydrogen — must be based on the 0.125 mol of oxygen, not the larger
-quantity of hydrogen present.
+Every **product** quantity must be based on the 0.125 mol of oxygen, not the
+larger quantity of hydrogen: water formed = 2 × 0.125 = 0.250 mol = **4.50 g**.
+
+The **excess** reagent is different — it is found as *initial amount minus
+amount consumed*, which needs the initial hydrogen figure:
+
+```
+H2 consumed  = 2 × 0.125 = 0.250 mol  (0.500 g)
+H2 unreacted = 2.00 − 0.250 = 1.75 mol = 1.75 × 2.0 = 3.50 g
+check: 0.500 g H2 + 4.00 g O2 = 4.50 g H2O
+```
 
 ### Gas volumes and solution concentrations
 

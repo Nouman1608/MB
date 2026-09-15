@@ -49,7 +49,7 @@ Si                GIANT COVALENT -- HIGHEST melting point
                   many strong covalent bonds must be broken
 
 P4  S8  Cl2       simple molecular -- LOW melting points
-Ar  (monatomic)   only weak van der Waals (dispersion) forces
+Ar  (monatomic)   only weak id-id (London dispersion) forces
                   between molecules/atoms
                   S8 > P4 because S8 is a larger molecule; Ar is a
                   single atom, not a molecule, but is grouped here
@@ -88,16 +88,16 @@ MgO gives only a weakly alkaline pH because Mg(OH)₂ is **sparingly soluble**.
 | Chloride | With water | pH |
 |---|---|---|
 | NaCl | Dissolves, no reaction | **7** |
-| MgCl₂ | Slight hydrolysis | 6.5 |
+| MgCl₂ | Dissolves; slightly acidic | 6 |
 | AlCl₃ | **Hydrolyses** | 3 |
 | SiCl₄ | **Violent hydrolysis**, misty HCl fumes | 2 |
 | PCl₅ | **Violent hydrolysis**, misty HCl fumes | 2 |
 
-Ionic chlorides simply dissolve; **covalent** chlorides **hydrolyse**, releasing HCl. The transition from dissolving to hydrolysing tracks the change from ionic to covalent bonding across the period.
+NaCl dissolves unchanged; MgCl₂ and AlCl₃ dissolve to give increasingly acidic solutions; **covalent** SiCl₄ and PCl₅ **hydrolyse** completely, releasing HCl. The progression tracks the change from ionic to covalent bonding across the period.
 
-**Why the split happens where it does:** electronegativity increases across the period while chlorine's stays fixed, so the electronegativity *difference* shrinks — Na–Cl and Mg–Cl bonds stay ionic enough that the chloride simply dissolves as ions, while Si–Cl and P–Cl bonds become covalent enough that water attacks the bond directly, hydrolysing it. MgCl₂ (pH ≈ 6) is only weakly acidic because the small, doubly-charged Mg²⁺ ion polarises coordinated water enough to release a little H⁺; AlCl₃ (pH ≈ 3) is more acidic still because Al³⁺ is smaller and more highly charged, polarising coordinated water even more strongly.
+**Why the split happens where it does:** electronegativity increases across the period while chlorine's stays fixed, so the electronegativity *difference* shrinks — NaCl and MgCl₂ are ionic and dissolve as ions, while Si–Cl and P–Cl bonds are covalent enough that water attacks the bond directly, hydrolysing it. MgCl₂ (pH ≈ 6) is only weakly acidic because the small, doubly-charged Mg²⁺ ion polarises coordinated water enough to release a little H⁺; AlCl₃ (pH ≈ 3) is more acidic still because Al³⁺ is smaller and more highly charged, polarising coordinated water even more strongly.
 
-**Worked example — predicting properties.** An unknown Period-3-like element X forms a strongly acidic oxide, and its chloride hydrolyses violently, "fuming" in moist air. Where does X sit in its period? A violently hydrolysing chloride indicates a **covalent** chloride (by analogy with Si and P), and a strongly acidic oxide points to a non-metal — both place X on the **right-hand side** of the period.
+**Worked example — predicting properties.** An unknown Period 3 element X forms a solid oxide that dissolves in water to give a strongly acidic solution, and a chloride that hydrolyses violently, "fuming" in moist air. Identify X. A violently hydrolysing chloride is **covalent** (SiCl₄ or PCl₅); SiO₂ does not react with water, so the strongly acidic solution rules out silicon and points to P₄O₁₀ — X is **phosphorus**, on the right-hand side of the period.
 
 ## Exam traps
 

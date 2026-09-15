@@ -86,9 +86,9 @@ of chlorine in water purification via the active species HOCl and ClO⁻.
 
 **Volatility decreases down the group** (Cl₂ is a gas, Br₂ a liquid, I₂ a
 solid) because volatility is governed by the strength of the instantaneous
-dipole–induced dipole (van der Waals) forces *between* molecules — and a
+dipole–induced dipole (id-id, London dispersion) forces *between* molecules — and a
 larger molecule, with more electrons in a more polarisable electron cloud,
-forms stronger van der Waals forces, needing more energy to separate.
+forms stronger id-id forces, needing more energy to separate.
 
 **Bond strength within each X–X molecule also decreases down the group** —
 242 → 193 → 151 kJ mol⁻¹ — because the bonding atoms get larger, so the

@@ -44,7 +44,7 @@ Bond **breaking** is endothermic. Bond **making** is exothermic. Every enthalpy 
 | **Standard enthalpy of neutralisation** | Enthalpy change when an acid and alkali react to form **one mole of water** |
 | **Bond enthalpy** | Energy required to break **one mole** of a specified bond in the **gaseous** state |
 
-Standard conditions: **298 K and 100 kPa**, all substances in standard states.
+Standard conditions: **298 K and 101 kPa** (the values the 9701 syllabus assumes), all substances in standard states.
 
 Two marks live in the small print: **"one mole"** appears in all four, and **ΔH_f of any element in its standard state is zero** by definition.
 
