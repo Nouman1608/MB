@@ -1,14 +1,19 @@
 # Correction constraints — read before applying any audit finding
 
-*Consolidated from the absence re-verification (rounds one to three) and the correction
+*Consolidated from the absence re-verification (rounds one to five) and the correction
 audit (rounds one to six). Every constraint below was verified against an official
 specification read end to end, or against the audit's own records. Nothing here is inferred
 from a finding's summary.*
 
-*Updated 2026-09-15 with the coordinate pass on Cambridge 0620 (§6) — which closes the
-column defect for that syllabus and confirms no live inversion exists in the corpus — and
-with the read-through audits of the terminology (§5), over-deletion (§2) and enumeration
-(§4) correction groups. **Every screened group has now been read.***
+*Updated 2026-09-15 with the coordinate pass on Cambridge 0620 (§6), the read-through audits
+of the terminology (§5), over-deletion (§2) and enumeration (§4) groups — **every screened
+group has now been read** — and with a correction to this document's own opening claim, which
+described damage that had already been repaired. See "Why this exists" below.*
+
+> **Before acting on anything here, check the file as it stands on `main`.** This document
+> records what was true when each constraint was written. The repair work moves faster than
+> the findings do, and this audit has twice published a present-tense claim about files that
+> were already fixed. A finding is a timestamp, not a status.
 
 ---
 
@@ -19,9 +24,23 @@ overturned and 24 corrections needed narrowing before they were safe to apply.**
 findings in this audit are mostly right. The instructions attached to them mostly are not
 safe to apply as written.
 
-That is not theoretical. **Five resources have already been damaged** by applying a
-correction at the wrong scope, and the audit recorded the damage as two new confirmed errors
-(E335, E494) without withdrawing the correction that caused it.
+That is not theoretical. **Six resources were damaged** by applying a correction at the wrong
+scope — a practice paper's genuine lettered section headings deleted on the strength of a
+correction whose own observation said the paper had them.
+
+**All six have since been repaired**, verified by reading them on `main`: two at **D-168**
+(`d71bcda`, 11 September), restoring the headings with a Resource Booklet paragraph and a
+15-mark evaluative question each; four by the squash-merge of **PR #47** (`fbc277e`).
+
+This document previously said *five* resources *have been* damaged, present tense — and it
+said so while **§7 cited `d71bcda` by name as the template for a complete fix.** The count was
+wrong, the tense was wrong, and the two halves of the contradiction were both this audit's
+own, in this file, surviving several revisions. That is recorded rather than quietly edited,
+because the failure it represents — carrying a conclusion forward without re-checking the
+thing it describes — is the single most repeated error in this workstream.
+
+**The damage is repaired. The reason for the rule is not weakened by that**, and neither is
+the advice in §7: those six *corrections* are still open and still unsafe if picked up.
 
 **The single rule:** a correction is scoped to the code its finding examined. Before you
 apply one anywhere, confirm the file you are editing belongs to that code.
@@ -47,10 +66,11 @@ The first four are proven — the first from complete reads of both documents, t
 the finding's own record of both boards. The last two are the same pattern without a read to
 confirm.
 
-**E442 is the one to watch**, because it shows the hazard is not rare. Its correction says
-to remove "report" from three files, its own observation records that the same form is named
-by the other board, and the correction carries no code. Nothing in the screening predicted
-it; it was found by reading.
+**E442 was the one to watch**, because it showed the hazard is not rare: its correction said
+to remove "report" from three files, its own observation recorded that the same form is named
+by the other board, and the correction carried no code. Nothing in the screening predicted it;
+it was found by reading. **It has since been closed by D-223.** The hazard *pattern* stands —
+check any remove-a-term correction against the other boards in the corpus before applying it.
 
 ---
 
@@ -154,29 +174,30 @@ different answers, the correction may still be safe — see the case above.
 
 **Check:** does the source itself enumerate this, or is the enumeration the finding's?
 
-### This group has now been read, and it holds two unsafe corrections
+### This group has now been read, and it held two unsafe corrections
 
 All 45 corrections flagged for handing over a count were read individually. Three are not
 about enumeration at all — the screen fired on an ordinary number in corrections about
 square roots, a mark tariff and a pair of dehydration temperatures. One is already on record
 as unsafe, being one of the six section-structure corrections of §7. **Thirty-four hand over
 a count their own observation has already taken from the specification, in most cases naming
-the items one by one. Two are unsafe.** (Q359)
+the items one by one. Two were unsafe.** (Q359)
 
-- **E276** says *"list the five sub-topics the topic actually contains."* Nothing in its own
-  observation establishes that the topic has five — it proves only that digestion belongs to
-  the next topic. **The count is the audit's, not the specification's**, in a finding whose
-  whole subject is a list of the wrong length. Establish the count from the specification
-  before applying it.
-- **E442** says to remove a writing form because it is not among the six the specification
-  names, and its own observation records that the same form is named by another board. See
-  §1. Apply only to files of the code the finding examined.
+- **E276 — still open, still unsafe.** It says *"list the five sub-topics the topic actually
+  contains."* Nothing in its own observation establishes that the topic has five — it proves
+  only that digestion belongs to the next topic. **The count is the audit's, not the
+  specification's**, in a finding whose whole subject is a list of the wrong length. Establish
+  the count from the specification before applying it.
+- **E442 — since closed by D-223.** It said to remove a writing form because it is not among
+  the six the specification names, while its own observation recorded that the same form is
+  named by another board, and it carried no code. See §1 for the pattern, which still applies
+  to other corrections of the same shape.
 
-**One more is not unsafe but is misdescribed.** E520 rebuilds two practice papers on *"the
+**One more is not unsafe but was misdescribed.** E520 rebuilt two practice papers on *"the
 five tariffs the board uses"*. The observation derives those tariffs from **nine live
 papers**; the specification enumerates none. An empirically observed set is good evidence and
-**is not a published closed list**, and a correction should say which of the two it is
-handing over.
+**is not a published closed list**, and a correction should say which of the two it is handing
+over. *(E520 has since been closed by D-223.)*
 
 **The two models worth copying:**
 
@@ -326,8 +347,29 @@ which applies. (Q347, Q358)
 
 **Six corrections are unsafe as written** — they offer "or drop the section labels" for
 papers their own observations establish as *having* those sections: **E335, E367, E391, E625,
-E631, E642**. That remedy has already been applied and damaged five resources. Do not take
-the drop option on any of them.
+E631, E642**. All six remain open. **Do not take the drop option on any of them.**
+
+**On the damage that remedy caused, and its current state.** It was applied, and it deleted
+genuine headings from six resources. **All six are now repaired** — two at D-168 (`d71bcda`,
+11 September) and four by PR #47 (`fbc277e`), verified by reading them on `main`: correct
+Section A/B headings throughout, Section C present only on the WBS12 file, which genuinely has
+three sections, and no invented sections anywhere.
+
+Two things follow, and they point in opposite directions:
+
+- **The advice above is unaffected.** It concerns how those six *corrections* should be worked
+  if picked up, not the state of those six files.
+- **The audit's own record of the damage was stale when published.** `d71bcda` predates Q346
+  by three days, so two of the files Q346 cited as damaged had already been repaired when it
+  was written — and §7 of this document cited `d71bcda` as the fix template while the opening
+  called the damage live. See "Why this exists".
+
+Four further files (`business-activity-and-classification-practice`,
+`igcse-business-understanding-activity-practice`,
+`edexcel-igcse-economics-business-economics-practice`,
+`igcse-edexcel-economics-market-system-practice`) carry no lettered headings at all and their
+specifications have **not** been read. They stay exactly where Q348 left them: unverified,
+pending a real read. Do not assume either way.
 
 Two further constraints:
 
@@ -371,22 +413,33 @@ not assume it is an afterthought.
   page 56 of 70. Confirm you have reached the document's own closing matter: for a Cambridge
   syllabus the changes-to-this-syllabus page and the Cambridge Assessment address block; for
   a Pearson specification the glossary and registered-office block; for an OCR specification
-  the summary of updates and registered-company block. (U68, U70)
+  the summary of updates and registered-company block. (U68, U70 — now closed, see Q368)
 - **Absence is established by reading the complete document plus appendices**, never by
   string search. A silently truncated extraction returns nothing and looks identical to a
   genuine absence.
+- **The same applies to tool output.** A result of exactly a round length — 30, 100, 250 — is
+  truncated until something else says otherwise, and a **negative** claim about a list must be
+  confirmed by a second route addressed differently. A list that ended early and a list that
+  genuinely omits something are indistinguishable from the inside. (Q371)
 - **A command-word table introduced with "includes" is not exhaustive.** Nor is a bulleted
   list sitting in a column headed *notes and examples*, nor one introduced with *including* —
   E789 turns on exactly that distinction.
 - **Coordinates beat reading order, and a browser can supply them.** Where a shell is
   unavailable, pdf.js injected into a tab at the PDF's own origin returns per-run transform
   matrices — the same-origin fetch avoids the CORS failure a cross-origin one hits. (§6)
+- **Three retrieval routes, two of which fail deceptively.** An ordinary fetch may retrieve a
+  document and truncate it *deterministically* — the same byte count twice is proof it will
+  never succeed, not a flaky link. A direct download may return a bot challenge, **which must
+  not be worked around**. A genuine browser session gets the document whole. (Q369)
 - **Record the commit of any snapshot before using it as evidence.** A local directory named
   `repository-live` was three days stale and produced a finding that called two
   already-repaired files damaged. It was a git checkout with a readable HEAD the whole time.
   (Q350)
+- **And check which commit your own data describes.** The audit's resource ledger is built
+  from the frozen baseline, not `main`; a sweep over it reports the corpus as it was, not as
+  it is. That produced a confirmed error which had to be withdrawn. (Q372)
 - **Reconcile against the decision log before working any triage.** Repair work proceeds in
-  parallel; D-192 to D-199 closed roughly 124 findings in 36 hours. (Q353)
+  parallel; reconciliation is current through **D-225**. (Q353, Q364)
 - **Note which sources were not obtained from the board.** Two findings rest on documents
   taken from a school-hosted mirror, one of them truncated before its assessment section.
   Both say so in their own evidence lines; keep that visible when working them.
@@ -398,7 +451,7 @@ not assume it is an afterthought.
 **The signature screens are a reading list, not a measurement.** Every group published with a
 size has had that size turn out wrong — 89 became 301 through a regex bug, 86 became 68 then
 ~51, nine became six then one, and 45 became 34 sound, two unsafe and three not about
-enumeration at all. Four screening defects were found across six rounds, all by inspecting
+enumeration at all. Screening defects have been found in six rounds, all by inspecting
 flagged items and none by the screens themselves.
 
 The cause is structural: **this corpus's domain vocabulary is the screen's vocabulary.**
@@ -410,8 +463,9 @@ that.
 terminology (15), over-deletion (24) and enumeration (45). Adding those would double-count,
 because a finding can carry more than one signature. Measured rather than added: the three
 signature groups cover **83 distinct findings**, and the section family adds 27 of which 10
-also carry OVER_DELETE — so **100 distinct corrections have been read, and 8 are unsafe.**
-Six are the section-structure family; the other two are E276 and E442.
+also carry OVER_DELETE — so **100 distinct corrections have been read, and 8 were unsafe.**
+Six are the section-structure family and remain open; of the other two, E442 has been closed
+by D-223 and **E276 is the only one still open.**
 
 What this document still does not establish is whether the *findings* behind those
 corrections are right. A well-scoped correction resting on a truncated absence read is still
