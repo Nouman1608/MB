@@ -72,7 +72,7 @@ This paper tests three distinct skills, and each rewards a different kind of pre
 
 - **Translation into English** — accuracy of comprehension and fluent, natural English.
 - **Reading comprehension** — understanding explicit detail, inference and tone in authentic Urdu texts.
-- **Writing in Urdu** — accurate, well-organised Urdu at length, on a researched topic or set theme.
+- **Writing in Urdu** — accurate, well-organised Urdu at length (approximately 320–370 words), responding to a statement on your chosen research subject using an unseen Urdu text and your own research findings.
 
 Treating them as one "language paper" is the commonest strategic error. Translation and free writing pull in opposite directions: one demands fidelity to a source, the other demands independent expression.
 
@@ -97,7 +97,7 @@ Answer in your own words where required, and match answer length to the marks. W
 
 ## Writing in Urdu
 
-Marks divide between **content** (relevance, development, organisation) and **language** (range, accuracy, register).
+Section C (40 marks) is marked on three grids: **knowledge and understanding of society and culture via your research** (AO4, 20 marks), **use of the unseen text** (AO2, 10 marks) and **accuracy and range of language** (AO3, 10 marks). Your research must cover all three aspects of one research subject and be based on one country/area only: Pakistan for Themes 1, 3 and 4; Pakistan or one area of India where Urdu is an official language for Theme 2.
 
 Plan before writing. A clear structure — introduction, three or four developed paragraphs each with one main idea, a conclusion — prevents the drift that costs organisation marks.
 
