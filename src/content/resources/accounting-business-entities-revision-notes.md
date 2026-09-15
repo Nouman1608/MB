@@ -45,7 +45,7 @@ Condensed for the final weeks. For the full explanation, use the
 source documents -> books of prime entry -> ledgers -> trial balance -> financial statements
 ```
 
-**Books of prime entry:** sales journal and purchases journal (**credit transactions only**), returns journals, cash book, petty cash book, general journal.
+**Books of prime entry:** sales journal and purchases journal (**credit transactions only**), returns journals, cash book, general journal.
 
 **Cash sales go straight to the cash book**, not the sales journal — the standard error.
 
@@ -65,7 +65,7 @@ source documents -> books of prime entry -> ledgers -> trial balance -> financia
 
 ## Partnership accounts
 
-Governed by the **partnership agreement**; where none exists, the Partnership Act applies — profits shared equally, no interest on capital, no salaries.
+Governed by the **partnership agreement**; where none exists, the Partnership Act 1890 applies — profits and losses shared equally, no partners' salaries, no interest on capital, no interest charged on drawings, and interest allowed on partners' loans.
 
 **Capital account** records permanent investment; **current account** records the year's share of profit, salaries, interest and drawings. Keeping them separate makes each partner's permanent stake distinguishable from their fluctuating entitlement.
 
@@ -73,7 +73,9 @@ Governed by the **partnership agreement**; where none exists, the Partnership Ac
 
 ## Limited companies
 
-**Share capital** — ordinary shares (voting, variable dividend, paid last on winding up) and preference shares (fixed dividend, paid first, usually no vote).
+**Share capital** — ordinary shares (voting, variable dividend, paid last on winding up). Preference shares are not examined in 9706.
+
+**Debentures** — long-term loans, not share capital: debenture interest is an expense, not an appropriation, and holders have no vote.
 
 **Reserves** — retained earnings (accumulated profit), and capital reserves such as share premium.
 
@@ -83,7 +85,10 @@ Governed by the **partnership agreement**; where none exists, the Partnership Ac
 
 | Concept | What it governs |
 |---|---|
+| **Business entity** | The business is accounted for separately from its owner(s) |
+| **Historic cost** | Assets are recorded at their original purchase cost, not current market value |
 | **Money measurement** | Only items that can be expressed in monetary terms are recorded |
+| **Going concern** | Accounts assume the business will continue operating for the foreseeable future |
 | **Consistency** | The same accounting methods are used period to period |
 | **Prudence** | Profits are not overstated; losses and liabilities are not understated |
 | **Realisation** | Revenue is recorded when earned, not necessarily when cash is received |

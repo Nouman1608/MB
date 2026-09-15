@@ -25,6 +25,8 @@ featured: false
 
 Related: [Number revision notes](/resources/igcse-mathematics-number-revision-notes/)
 
+**Core or Extended:** questions marked **(Extended)** use content in the Extended syllabus only; all other questions use Core content.
+
 ---
 
 ## Section A
@@ -55,13 +57,13 @@ Related: [Number revision notes](/resources/igcse-mathematics-number-revision-no
 **7.** Calculate, giving your answer in standard form:
 (6.4 × 10⁻³) ÷ (1.6 × 10²) **[3]**
 
-**8.** A rectangle measures 12.4 cm by 7.8 cm, each to 1 decimal place. Calculate the lower bound of its perimeter. **[3]**
+**8.** **(Extended, E1.10)** A rectangle measures 12.4 cm by 7.8 cm, each to 1 decimal place. Calculate the lower bound of its perimeter. **[3]**
 
 ---
 
 ## Section C
 
-**9.** A price is $84 after a 20% increase. Calculate the original price. **[2]**
+**9.** **(Extended, E1.13)** A price is $84 after a 20% increase. Calculate the original price. **[2]**
 
 **10.** Calculate (4 × 10⁵) × (3 × 10³), giving your answer in standard form. **[3]**
 
@@ -110,7 +112,7 @@ Related: [Number revision notes](/resources/igcse-mathematics-number-revision-no
 
 - Working left to right instead of following the order of operations (BIDMAS/PENDMAS) -- e.g. treating `28 - 8 / 2` as `(28 - 8) / 2` rather than `28 - (8 / 2)`.
 - Rounding only the final answer when a question specifically instructs each value to be rounded first (e.g. "correct each number to 1 significant figure, then calculate") -- the instruction applies before the calculation, not after.
-- Misreading which digits recur in a recurring decimal before applying the standard "multiply by 10 to the n, subtract" method -- treating it as terminating, or misidentifying the repeating block, invalidates the rest of a correct method.
+- (Extended) Misreading which digits recur in a recurring decimal before applying the standard "multiply by 10 to the n, subtract" method -- treating it as terminating, or misidentifying the repeating block, invalidates the rest of a correct method.
 - After multiplying or dividing two numbers in standard form, mishandling the index arithmetic -- indices are added when multiplying and subtracted when dividing, separately from renormalising the mantissa back into the range 1 <= a < 10.
 - In a compound unit conversion, converting only the unit that catches the eye and forgetting the other -- how many parts need converting depends on what's changing: km/h to m/h only requires converting the distance unit (km to m), since the time unit (h) is unchanged, but km/h to m/s requires converting both the distance (km to m) AND the time (h to s), since both units differ between the two forms.
 

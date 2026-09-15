@@ -119,7 +119,7 @@ intervention rather than listing explanations and treatments as separate, discon
 Paper 2 uses the same command-word conventions as Paper 1: "describe" asks for accurate detail without
 evaluation, "explain" requires a reasoned chain of "because" statements, and "evaluate" or "discuss"
 requires balanced strengths-and-weaknesses judgement leading to a supported conclusion. Since Paper 2
-covers memory, perception, development, social influence and addiction across a wide range of studies
+covers social influence, language, thought and communication, brain and neuropsychology, and psychological problems across a wide range of studies
 and explanations, practising the same command words across different content areas builds the
 transferable exam skill faster than restricting practice to a single topic.
 

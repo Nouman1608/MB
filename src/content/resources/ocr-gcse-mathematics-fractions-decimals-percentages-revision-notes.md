@@ -106,7 +106,7 @@ Before any percentage calculation, decide whether the question gives you the **o
 3. Find 2/5 of £60.
 4. Calculate 3/4 − 1/6.
 5. Order 0.6, 3/5, 58% from smallest to largest.
-6. Convert the recurring decimal 0.777... to a fraction.
+6. (Higher) Convert the recurring decimal 0.777... to a fraction.
 
 **Answers:** 1. £34 ÷ 0.80 = £42.50. 2. £2,000 × 1.03³ = £2,185.45 (2 d.p.). 3. £60 ÷ 5 × 2 = £24. 4. 9/12 − 2/12 = 7/12. 5. 58% = 0.58, 3/5 = 0.6, 0.6 = 0.6 → order: 58%, then 3/5 and 0.6 (equal). 6. Let x = 0.777...; 10x = 7.777...; 10x − x = 7; 9x = 7; x = 7/9.
 

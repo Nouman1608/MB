@@ -78,7 +78,15 @@ The **energy budget**: incoming shortwave radiation is reflected, absorbed or sc
 
 **Rainfall:** convectional (surface heating), relief/orographic (air forced over high ground), frontal (warm air rising over cold).
 
+**Diurnal energy budget:** by day — incoming shortwave radiation, reflected radiation (albedo), energy absorbed into the surface and subsurface, sensible heat transfer, longwave radiation, latent heat (evaporation); by night — longwave radiation loss (reduced by cloud), absorbed energy returned from the subsurface, sensible heat transfer from the air, latent heat released by dew.
+
 **Urban heat island:** low-albedo surfaces absorb more radiation; concrete and brick store heat and release it slowly; less vegetation means less evaporative cooling; tall buildings reduce wind speed and trap longwave radiation; human activity releases heat directly.
+
+## Required case studies
+
+- **River flood** — a recent flood event: causes, impacts on people and environment, evaluation of attempts to reduce the impact.
+- **Urban climate** — an urban area showing the effects of human activity on temperature (heat island), humidity, precipitation and winds.
+- **Slopes** — the impacts of human activity on a slope's stability, and evaluation of attempts to reduce mass movement (e.g. pinning, netting, grading, afforestation).
 
 ## Exam traps
 

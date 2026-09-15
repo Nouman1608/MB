@@ -7,7 +7,7 @@ topic: "Unit 2 – Human Geography 1"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9635"]
-syllabusSeries: "Version 2.4"
+syllabusSeries: "Version 3.2"
 order: 3
 stage: "AS"
 syllabusTopics:

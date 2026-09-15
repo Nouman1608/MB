@@ -7,7 +7,7 @@ topic: "Unit 2 – Human Geography 1"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9635"]
-syllabusSeries: "Version 2.4"
+syllabusSeries: "Version 3.2"
 order: 1
 stage: "AS"
 syllabusTopics:
@@ -23,17 +23,49 @@ featured: false
 This guide covers **3.2.1.1 Globalisation** and **3.2.1.2 Global
 Systems**, the opening two sub-parts of Section A: Global Systems and
 Governance within Unit 2 (Human Geography 1) of OxfordAQA International
-AS and A-level Geography (9635), Version 2.4, first teaching September
+AS and A-level Geography (9635), Version 3.2, first teaching September
 2018.
 
 ## Scope of this guide
 
-Section A: Global Systems and Governance has three parts —
-Globalisation (3.2.1.1), Global Systems (3.2.1.2), and International
-Trade and Access to Markets (3.2.1.3). This resource covers the first
-two, which establish the conceptual foundation of globalisation and
-interdependence; international trade specifically, including the role
-of transnational corporations, is left for a separate resource.
+Section A: Global Systems and Governance is the first of the two
+sections of Unit 2 (the second is Section B: Resource security), and it
+has eight sub-parts:
+
+1. 3.2.1.1 Globalisation
+2. 3.2.1.2 Global systems
+3. 3.2.1.3 International trade and access to markets — trends in trade
+   and investment, trading relationships between economies at
+   different levels of development, differential access to markets,
+   transnational corporations (with detailed reference to a specified
+   TNC), and world trade in at least one food commodity or one product
+   of manufacturing
+4. 3.2.1.4 Global governance — the emergence and role of norms, laws
+   and institutions in regulating global systems, including agencies
+   such as the UN in the post-1945 era, and the interaction of scales
+   from local to global
+5. 3.2.1.5 The 'global commons' — the concept, the rights of all to
+   its benefits, and the need to protect it
+6. 3.2.1.6 The oceans as a global common — the geography of the
+   world's oceans (from continental shelves, slopes, abyssal plains,
+   mid-ocean ridges, trenches, volcanic arcs and coral reefs to the
+   epipelagic, mesopelagic, bathypelagic and abyssopelagic zones);
+   threats from climate change, fishing and whaling, oil and plastic
+   pollution, and shipping, trade and tourism; and critical appraisal
+   of ocean governance, including the International Maritime
+   Organisation (IMO) and its marine pollution conventions, the United
+   Nations Convention on the Law of the Sea (UNCLOS), the Marine
+   Stewardship Council (MSC), and the role of NGOs
+7. 3.2.1.7 Globalisation critique — the benefits of growth,
+   development, integration and stability weighed against the costs in
+   inequalities, injustice, conflict and environmental impact
+8. 3.2.1.8 Quantitative and qualitative skills
+
+This resource covers only the first two, 3.2.1.1 and 3.2.1.2, which
+establish the conceptual foundation of globalisation and
+interdependence. The other six sub-parts, including all of the
+governance content, are examinable in the same section and must be
+revised from the specification and other resources.
 
 ## Syllabus coverage
 
@@ -164,5 +196,5 @@ shaping a global system's outcome.
 ## Official syllabus
 
 OxfordAQA International AS and A-level Geography (9635) specification,
-Version 2.4 —
-[oxfordaqa.com/9635](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-geography-specification.pdf).
+Version 3.2 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-a-level-geography-specification.pdf).

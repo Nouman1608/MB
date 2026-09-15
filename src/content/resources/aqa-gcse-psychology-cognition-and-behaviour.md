@@ -34,25 +34,56 @@ content are tested together rather than as a separate, isolated skill.
 
 **AQA GCSE PSYCHOLOGY (8182) — PAPER 1 COGNITION AND BEHAVIOUR**
 
-- 3.1.1 Memory — the processes of encoding, storage and retrieval;
-episodic, semantic and procedural memory; the multi-store model
-(sensory, short-term and long-term stores) and the coding, capacity
-and duration of each; primacy and recency effects; and memory as an
-active, reconstructive process, including factors affecting accuracy
-such as interference and false memories
-- 3.1.2 Perception — the difference between sensation and perception;
-monocular and binocular visual cues and constancies; explanations for
-visual illusions; Gibson's direct theory and Gregory's constructivist
-theory of perception; and factors affecting perception such as
-culture, motivation, emotion and expectation
-- 3.1.3 Development — early brain development, from simple neural
-structures in the womb through to the cortex, and how thinking and
-behaviour change across the lifespan
-- 3.1.4 Research Methods — the methods psychologists use to investigate
-cognition and behaviour, including designing, conducting, and
-analysing and interpreting the results of practical research
-activities, examined as its own dedicated 25-mark section and also
-applied across the other three sub-topics in this paper
+- 3.1.1 Memory — processes of memory: encoding (input), storage and
+retrieval (output); different types of memory: episodic, semantic and
+procedural; how memories are encoded and stored. Structures of memory:
+the multi-store model (sensory, short term and long term) and the
+coding, capacity and duration of each store; primacy and recency
+effects in recall (serial position); **Murdock's serial position curve
+study**. Memory as an active process: the **Theory of Reconstructive
+Memory**, including 'effort after meaning'; **Bartlett's War of the
+Ghosts study**; factors affecting the accuracy of memory, including
+interference, context and false memories
+- 3.1.2 Perception — the difference between sensation and perception.
+Visual cues and constancies: monocular depth cues (height in plane,
+relative size, occlusion, linear perspective) and binocular depth cues
+(retinal disparity, convergence). **Gibson's direct theory** of
+perception (the influence of nature), including the role of motion
+parallax. Visual illusions: explanations (ambiguity, misinterpreted
+depth cues, fiction, size constancy) and examples (the **Ponzo**, the
+**Müller-Lyer**, **Rubin's vase**, the **Ames Room**, the **Kanizsa
+triangle** and the **Necker cube**). **Gregory's constructivist theory**
+of perception (the influence of nurture). Factors affecting perception:
+perceptual set, culture, motivation, emotion and expectation; the
+**Gilchrist and Nesberg study** of motivation and the **Bruner and
+Minturn study** of perceptual set
+- 3.1.3 Development — early brain development: from simple neural
+structures in the womb, of brain stem, thalamus, cerebellum and cortex,
+reflecting the development of autonomic functions, sensory processing,
+movement and cognition; the roles of nature and nurture. **Piaget's
+stage theory** and the development of intelligence: assimilation and
+accommodation; the four stages (sensorimotor, pre-operational, concrete
+operational, formal operational); the role of Piaget's theory in
+education; reduction of egocentricity and development of conservation;
+**McGarrigle and Donaldson's 'naughty teddy' study** and **Hughes'
+'policeman doll' study**. The effects of learning on development:
+**Dweck's Mindset Theory** of learning (fixed and growth mindset) and
+the role of praise and self-efficacy beliefs in learning; learning
+styles, including verbalisers and visualisers; **Willingham's Learning
+Theory** and his criticism of learning styles
+- 3.1.4 Research methods — formulation of testable hypotheses (null and
+alternative); types of variable (independent, dependent, extraneous);
+sampling methods (random, opportunity, systematic, stratified); designing
+research (the experimental method and experimental designs; laboratory,
+field and natural experiments; interviews; questionnaires; case studies;
+observation studies, including categories of behaviour and
+interobserver reliability); correlation; research procedures; planning
+and conducting research; ethical considerations (British Psychological
+Society guidelines). Data handling (3.1.4.1): quantitative and
+qualitative data; primary and secondary data; computation; descriptive
+statistics (mean, median, mode, range); interpretation and display of
+quantitative data; normal distributions. Research methods is also
+assessed across all topic areas in Paper 1
 
 ## How to approach it
 
@@ -104,7 +135,9 @@ Factors affecting perception include culture, motivation, emotion and expectatio
 
 ## Development and research methods
 
-Piaget proposed development in stages, with **schemas** modified through assimilation and accommodation. Key concepts include object permanence, egocentrism and conservation.
+Piaget proposed development in four stages — sensorimotor, pre-operational, concrete operational and formal operational — with **schemas** modified through assimilation and accommodation. Key concepts include egocentrism and conservation. Later research suggested Piaget underestimated young children: **McGarrigle and Donaldson's 'naughty teddy' study** found more young children could conserve number when the change was made "accidentally" by a teddy, and **Hughes' 'policeman doll' study** found young children could take another's point of view in a task that made sense to them — evidence that egocentricity reduces earlier than Piaget claimed. In education, Piaget's theory implies matching tasks to a child's stage and letting children learn through discovery.
+
+**Dweck's Mindset Theory** distinguishes a **fixed mindset** (ability is unchangeable) from a **growth mindset** (ability develops through effort); praising effort rather than ability, and building self-efficacy beliefs, encourages a growth mindset. **Learning styles** theory classifies learners as, for example, **verbalisers** or **visualisers**; **Willingham's Learning Theory** criticises learning styles, arguing there is little evidence that matching teaching to a preferred style improves learning.
 
 Research methods run through the whole subject. Know experiments (laboratory, field, natural), observations, self-report through questionnaires and interviews, and correlation — and remember that correlation never establishes cause.
 
@@ -137,5 +170,7 @@ Confusing sensation with perception. Mixing up proactive and retroactive interfe
 - Distinguish episodic, semantic and procedural long-term memory.
 - Explain interference and retrieval failure as explanations of forgetting.
 - Compare Gibson's and Gregory's theories and explain a named illusion.
-- Outline Piaget's key concepts.
+- Outline Piaget's stages and key concepts, and the naughty teddy and policeman doll studies.
+- Explain Dweck's Mindset Theory and Willingham's criticism of learning styles.
+- Name Murdock's, Bartlett's, Gilchrist and Nesberg's, and Bruner and Minturn's studies and what each shows.
 - Identify research methods, evaluate them, and apply ethical guidelines.

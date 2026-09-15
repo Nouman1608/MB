@@ -7,7 +7,7 @@ topic: "Component 1 – Living With the Physical Environment"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9230"]
-syllabusSeries: "Version 3.3"
+syllabusSeries: "Version 4.3"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -36,11 +36,24 @@ skills used across both.
 **OXFORDAQA INTERNATIONAL GCSE GEOGRAPHY (9230) — COMPONENT 1 LIVING
 WITH THE PHYSICAL ENVIRONMENT**
 
-Component 1 covers the challenge of natural hazards (tectonic and
-weather hazards, and climate change), the living world (ecosystems,
-tropical rainforests and either hot deserts or cold environments), and
-physical landscapes (coastal and/or river landscapes, depending on
-option chosen).
+Component 1 (Unit 1, examined by Paper 1: 1 hour 30 minutes, 80
+marks, 36% of the qualification) has four sections:
+
+- **Section A: The challenge of natural hazards** — all themes are
+  compulsory: natural hazards, tectonic hazards, weather hazards and
+  climate change.
+- **Section B: The living world** — all three themes are compulsory:
+  ecosystems, tropical rainforests and hot deserts. There is no cold
+  environments option in this specification.
+- **Section C: Physical landscapes – Coastal landscapes** — compulsory
+  for every candidate, including an overview of the physical
+  landscapes of the Middle and Far East.
+- **Section D: Physical landscapes – Hot desert landscapes or River
+  landscapes** — candidates study one of the two.
+
+In the exam, Sections A, B and C are answered in full (30, 20 and 15
+marks), and in Section D candidates answer one question from a choice
+of two (15 marks).
 
 ## How to approach it
 
@@ -59,9 +72,9 @@ separate topics.
 
 ## Official syllabus
 
-OxfordAQA International GCSE Geography specification PDF, Version
-3.3 —
-[oxfordaqa.com](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-geography-specification.pdf).
+OxfordAQA International GCSE Geography (9230) specification PDF, Version
+4.3 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/02/oxfordaqa-international-gcse-geography-specification.pdf).
 
 ## Tectonic hazards
 
@@ -99,6 +112,9 @@ A food chain runs producer to primary consumer to secondary consumer, with decom
 **Deforestation** is driven by logging, cattle ranching, commercial farming, mineral extraction, road building, hydroelectric schemes and population pressure. Its impacts include biodiversity loss, soil erosion, a disrupted water cycle, reduced carbon storage and the displacement of indigenous communities — set against genuine benefits in employment, export revenue and development, which a top-band answer weighs on both sides before reaching a judgement.
 
 ## Rivers and coasts
+
+Coastal landscapes are compulsory; river landscapes are one of the two
+Section D options, the other being hot desert landscapes.
 
 Erosion works by **hydraulic action, abrasion, attrition and solution**; transport by **traction, saltation, suspension and solution**; deposition occurs when energy falls.
 

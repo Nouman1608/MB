@@ -85,7 +85,7 @@ receivables and payables ledgers).
 Capital expenditure buys or improves a non-current asset (a new delivery van, an extension to premises);
 revenue expenditure keeps the business running day to day (fuel, repairs, wages). Misclassifying one as
 the other distorts both the income statement and the statement of financial position, since capital
-items belong on the balance sheet and are depreciated, while revenue items are expensed immediately.
+items belong on the statement of financial position and are depreciated, while revenue items are expensed immediately.
 
 ## The adjustments that turn a trial balance into financial statements
 
@@ -102,16 +102,16 @@ A trial balance is not yet a set of financial statements -- adjustments must be 
 
 ## Worked example: straight line vs reducing balance depreciation
 
-A non-current asset costs $20,000, with an estimated residual value of $2,000 and a 4-year useful life.
+A non-current asset costs £20,000, with an estimated residual value of £2,000 and a 4-year useful life.
 
 ```
 Straight line:
-Annual charge = (20 000 - 2 000) / 4 = $4 500 per year, every year.
+Annual charge = (20 000 - 2 000) / 4 = £4 500 per year, every year.
 
 Reducing balance (25% per year, for comparison):
-Year 1: 20 000 x 25% = $5 000  -> carrying value 15 000
-Year 2: 15 000 x 25% = $3 750  -> carrying value 11 250
-Year 3: 11 250 x 25% = $2 813  -> carrying value  8 438 (approx)
+Year 1: 20 000 x 25% = £5 000  -> carrying value 15 000
+Year 2: 15 000 x 25% = £3 750  -> carrying value 11 250
+Year 3: 11 250 x 25% = £2 813  -> carrying value  8 438 (approx)
 ```
 
 Straight line produces a constant annual charge; reducing balance front-loads the expense and leaves a
@@ -123,7 +123,7 @@ Posting directly from a source document to the ledger without going through the 
 entry. Confusing capital and revenue expenditure. Treating a prepayment as a liability instead of a
 current asset. Reversing an irrecoverable debt write-off instead of recording the recovery as income.
 Applying reducing balance depreciation to original cost every year instead of to the reducing carrying
-value. Forgetting closing inventory adjusts cost of sales as well as appearing on the balance sheet.
+value. Forgetting closing inventory adjusts cost of sales as well as appearing on the statement of financial position.
 
 ## Quick revision checklist
 

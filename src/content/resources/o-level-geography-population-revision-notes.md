@@ -88,7 +88,7 @@ dependency ratio = (under 15 + over 64) / (15-64) x 100
 
 A department store has a high threshold and large range, so there are few; a newsagent has a low threshold and small range, so there are many.
 
-**Settlement and service provision are causally linked, not two separate topics.** A settlement's size, function and connectivity — its site and situation — directly determine what services it can support, so a larger, more central settlement typically has a wider range and higher order of services than a small, isolated one. Exam questions frequently ask *why* a settlement has, or lacks, a particular service, which requires this cause-and-effect reasoning rather than a description of the hierarchy alone.
+**Settlement and service provision are causally linked, not two separate topics.** A settlement's size, function and connectivity directly determine what services it can support, so a larger, more central settlement typically has a wider range and higher order of services than a small, isolated one. Exam questions frequently ask *why* a settlement has, or lacks, a particular service, which requires this cause-and-effect reasoning rather than a description of the hierarchy alone.
 
 **Urban land use:** CBD (accessible, high land values, tall buildings), inner city (old industry, terraced housing), suburbs (lower density, newer), rural–urban fringe.
 

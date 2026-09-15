@@ -3,7 +3,7 @@ title: "A Level Psychology: Specialist Options Overview (Cambridge 9990)"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]
-topic: "Paper 3 – Specialist Options 1"
+topic: "Paper 3 – Specialist Options: Approaches, Issues and Debates"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9990"]
@@ -19,43 +19,48 @@ publishedDate: 2026-09-01
 featured: false
 ---
 
-This guide covers **Paper 3 Specialist Options 1**, an A Level-only
-paper for Cambridge International A Level Psychology 9990. A Level
-candidates add two specialist options to the AS Level core: one from
-Paper 3 and one from Paper 4, each drawn from the same menu of four —
-Clinical, Consumer, Health and Organisational Psychology. This guide
-gives an overview of all four options as they appear on Paper 3, to
-help candidates and schools choose which to study, alongside a
-separate guide covering Paper 4's version of the same choice.
+This guide covers **Paper 3 Specialist Options: Approaches, Issues and
+Debates**, an A Level-only paper for Cambridge International A Level
+Psychology 9990. A Level candidates study the AS Level content and two
+of the four specialist options — Clinical, Consumer, Health and
+Organisational Psychology — and those same two options are examined on
+**both** Paper 3 and Paper 4 (Specialist Options: Application and
+Research Methods). This guide gives an overview of all four options, to
+help candidates and schools choose which two to study.
 
 ## Where this fits in 9990
 
 AS Level covers four core approaches (Biological, Cognitive, Learning
 and Social) through Paper 1, plus Research Methods through Paper 2.
 The full A Level then applies those core approaches to two chosen
-areas of applied psychology, one via Paper 3 and one via Paper 4 —
-each of the four specialist options can, in principle, be studied for
-either paper, so a school's choice of which two options to teach (and
-for which paper) is a curriculum decision made locally, not fixed by
-the syllabus itself.
+areas of applied psychology. The syllabus does not fix which two
+options a school teaches, but it does fix how they are examined: on
+Paper 3 candidates answer all the questions from the two options they
+have studied (each option out of 30 marks), and on Paper 4 Section A
+they answer questions on the same two options (each out of 18 marks),
+followed by one planning question in Section B. The two papers differ by
+**topic area within each option**, not by which option is taken — the
+syllabus states that the topic areas assessed for each option on Paper
+3 will be different from those assessed on Paper 4.
 
 ## Syllabus coverage
 
-**CAMBRIDGE A LEVEL PSYCHOLOGY (9990) — PAPER 3: SPECIALIST OPTIONS 1**
+**CAMBRIDGE A LEVEL PSYCHOLOGY (9990) — PAPER 3: SPECIALIST OPTIONS:
+APPROACHES, ISSUES AND DEBATES**
 
-- 3.1 Clinical Psychology — the classification and diagnosis of
+- Specialist Option 1: Clinical Psychology — the classification and diagnosis of
 psychological disorders, and approaches to treating them
-- 3.2 Consumer Psychology — how psychological principles apply to
+- Specialist Option 2: Consumer Psychology — how psychological principles apply to
 consumer behaviour, advertising and decision-making
-- 3.3 Health Psychology — psychological factors in health, illness and
+- Specialist Option 3: Health Psychology — psychological factors in health, illness and
 health-related behaviour
-- 3.4 Organisational Psychology — how psychological principles apply
+- Specialist Option 4: Organisational Psychology — how psychological principles apply
 to behaviour, motivation and management within workplaces
 
 ## How to approach it
 
-Because a school studies only 2 of these 4 options (one via Paper 3,
-one via Paper 4), the practical starting point for any candidate is
+Because a school studies only 2 of these 4 options (and both are
+examined on Paper 3 and on Paper 4), the practical starting point for any candidate is
 knowing which two their own course actually teaches — this guide
 covers the choice at a survey level so it is useful before that
 decision is finalised, but candidates should confirm with their own
@@ -66,20 +71,20 @@ same underlying structure as Paper 1: applying the syllabus's core
 approaches (Biological, Cognitive, Learning, Social) to a specific
 applied context, and being assessed on both theoretical knowledge and
 Research Methods applied to that context specifically. For Clinical
-Psychology (3.1), strong answers can discuss more than one
+Psychology (Option 1), strong answers can discuss more than one
 classification system or treatment approach and weigh their relative
 strengths, rather than presenting a single diagnostic or treatment
-model as uncontested. For Consumer Psychology (3.2), the strongest
+model as uncontested. For Consumer Psychology (Option 2), the strongest
 answers apply psychological concepts (such as persuasion or decision-
 making biases) to real, specific advertising or purchasing scenarios,
 rather than discussing consumer behaviour only in general terms.
 
-Health Psychology (3.3) rewards being able to discuss psychological
+Health Psychology (Option 3) rewards being able to discuss psychological
 factors alongside biological ones in explaining health outcomes and
 behaviour change — for instance, discussing why health advice does
 not always translate into behaviour change, using named psychological
 models rather than common-sense explanation alone. Organisational
-Psychology (3.4) similarly rewards applying named psychological
+Psychology (Option 4) similarly rewards applying named psychological
 concepts (such as theories of motivation or leadership) to specific
 workplace scenarios, since exam questions in this option typically
 present a workplace context and ask candidates to apply psychological

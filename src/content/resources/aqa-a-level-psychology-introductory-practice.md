@@ -9,11 +9,10 @@ qualifications: ["a-level"]
 syllabusCodes: ["7182"]
 syllabusSeries: "first teaching 2015"
 order: 1
-stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
-description: "Original exam-style practice questions with full worked answers on social influence, memory, attachment and psychopathology."
+description: "Original exam-style practice questions with full worked answers on social influence, memory, attachment, and clinical psychology and mental health."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -30,7 +29,7 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 
 ## Section A
 
-**1.** Define conformity and name the three types identified by Kelman. **[4]**
+**1.** Define conformity and distinguish between the **two** types of conformity named in the specification. **[4]**
 
 **2.** Distinguish between informational and normative social influence. **[4]**
 
@@ -48,7 +47,7 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 **(a)** Describe the types of attachment identified in the Strange Situation. **[6]**
 **(b)** Explain **two** limitations of the Strange Situation as a measure. **[4]**
 
-**6.** Explain **four** definitions of abnormality and give one limitation of each. **[8]**
+**6.** Explain **four** definitions in the field of mental health and give one limitation of each. **[8]**
 
 **7.** Explain the **dispositional** explanation of obedience and give **one** weakness of it. **[4]**
 
@@ -56,7 +55,7 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 
 ## Answers
 
-**1.** Conformity is a **change in behaviour or belief as a result of real or imagined group pressure** [1]. **Compliance** — publicly agreeing while privately disagreeing [1]. **Identification** — adopting the group's behaviour because one values membership of it [1]. **Internalisation** — genuinely accepting the group's view as one's own, so the change persists [1].
+**1.** Conformity is a **change in behaviour or belief as a result of real or imagined group pressure** [1]. **Compliance** — publicly agreeing while privately disagreeing [1]. **Internalisation** — genuinely accepting the group's view as one's own, both publicly and privately [1]. Distinction: compliance is temporary and stops when group pressure is removed, whereas internalisation persists without the group present [1]. (Identification was removed from the specification in version 1.4, first teaching September 2025; credit it only as extra background, not in place of either named type.)
 
 **2. Informational** social influence occurs when a person conforms because they **believe the group is right and they want to be correct**, particularly in an ambiguous situation [1] [1]. **Normative** social influence occurs when a person conforms because they **want to be liked and accepted and fear rejection**, so the change is usually public compliance only [1] [1].
 
@@ -80,5 +79,5 @@ Related: [Introductory Topics revision notes](/resources/aqa-a-level-psychology-
 - Confusing compliance with internalisation.
 - Describing the working memory model without the episodic buffer.
 - Giving Strange Situation percentages without describing the behaviours.
-- Stating definitions of abnormality without a limitation when asked.
+- Stating definitions in the field of mental health without a limitation when asked.
 - Giving the dispositional explanation of obedience without stating its population-level weakness.

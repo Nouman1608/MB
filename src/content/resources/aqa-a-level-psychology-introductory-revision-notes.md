@@ -9,11 +9,10 @@ qualifications: ["a-level"]
 syllabusCodes: ["7182"]
 syllabusSeries: "first teaching 2015"
 order: 1
-stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
-description: "Condensed recall notes on social influence, memory, attachment and psychopathology for AQA A Level Psychology 7182."
+description: "Condensed recall notes on social influence, memory, attachment, and clinical psychology and mental health for AQA A Level Psychology 7182."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -24,7 +23,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Social influence
 
-**Types of conformity:** compliance (public only), identification (while in the group), **internalisation** (public and private, and it lasts).
+**Types of conformity:** compliance (public only) and **internalisation** (public and private, and it lasts). (*Identification* was dropped from this bullet in specification version 1.4, first teaching September 2025 — background only.)
 
 **Two explanations:**
 
@@ -35,7 +34,7 @@ The distinction predicts *durability*: NSI changes behaviour only while the grou
 
 **Asch** — 36.8% conformity to an obviously wrong line judgement. Conformity **falls** with a dissenting ally, **rises** with task difficulty (ISI), and is affected by group size up to about three, after which extra members add little.
 
-**Zimbardo's Stanford Prison Experiment** — conformity to social roles. Heavily criticised for demand characteristics, lack of realism, and serious ethical problems, and for Zimbardo's own dual role as superintendent and researcher.
+*Background, not specification content since version 1.4:* **Zimbardo's Stanford Prison Experiment** — conformity to social roles. Heavily criticised for demand characteristics, lack of realism, and serious ethical problems, and for Zimbardo's own dual role as superintendent and researcher.
 
 **Milgram** — 65% obedience to 450 V. Situational variables: **proximity** (obedience falls when the learner is in the same room), **location** (falls in a run-down office), and **uniform** (falls when the experimenter is an ordinary member of the public).
 
@@ -51,7 +50,7 @@ The distinction predicts *durability*: NSI changes behaviour only while the grou
 
 **Working memory model (Baddeley and Hitch):** central executive, phonological loop, visuo-spatial sketchpad, episodic buffer. Its strength over the MSM is that it explains **dual-task performance** — two tasks using different slave systems can be done simultaneously, two using the same one cannot.
 
-**LTM types:** episodic (events, conscious), semantic (facts, conscious), procedural (skills, unconscious).
+*Background, not specification content since version 1.4:* LTM types — episodic (events, conscious), semantic (facts, conscious), procedural (skills, unconscious).
 
 **Explanations for forgetting:** interference (proactive: old disrupts new; retroactive: new disrupts old) and retrieval failure (encoding specificity — context- and state-dependent cues).
 
@@ -63,9 +62,9 @@ The distinction predicts *durability*: NSI changes behaviour only while the grou
 
 ## Attachment
 
-**Caregiver-infant interactions:** reciprocity and interactional synchrony.
+*Background, not specification content since version 1.4:* caregiver-infant interactions (reciprocity and interactional synchrony) and Schaffer's stages (asocial, indiscriminate, specific, multiple).
 
-**Schaffer's stages:** asocial, indiscriminate, specific, multiple.
+**Animal studies:** Lorenz (imprinting) and Harlow (contact comfort).
 
 **Explanations:** learning theory ("cuddle cupboard love") versus **Bowlby's monotropic theory** — social releasers, a **critical period** of about 2.5 years, and the **internal working model** that shapes later relationships.
 
@@ -73,11 +72,11 @@ The distinction predicts *durability*: NSI changes behaviour only while the grou
 
 **Cultural variations (van IJzendoorn):** more insecure-avoidant in Germany, more insecure-resistant in Japan. This is the standard **imposed etic** critique — the measure was developed in the US and applied as though universal, so behaviour reflecting different child-rearing values is misclassified as insecure.
 
-**Maternal deprivation** (Bowlby's 44 thieves) and **institutionalisation** (Rutter's Romanian orphans, showing disinhibited attachment and the importance of age at adoption).
+**Maternal deprivation** (Bowlby's 44 thieves) and **institutionalisation** (the English and Romanian Adoptees project, led by Rutter, showing disinhibited attachment and the importance of age at adoption).
 
-## Psychopathology
+## Clinical psychology and mental health
 
-**Definitions of abnormality:** statistical infrequency, deviation from social norms, failure to function adequately, deviation from ideal mental health. **Each fails alone** — social norms vary by culture and era, and statistical infrequency would classify a very high IQ as abnormal.
+**Definitions in the field of mental health:** statistical infrequency, deviation from social norms, failure to function adequately, deviation from ideal mental health. **Each fails alone** — social norms vary by culture and era, and statistical infrequency would classify a very high IQ as abnormal.
 
 | Disorder | Behavioural | Emotional | Cognitive |
 |---|---|---|---|
@@ -100,7 +99,7 @@ The distinction predicts *durability*: NSI changes behaviour only while the grou
 - Describing a study when the question says evaluate.
 - Giving the dispositional explanation of obedience without its population-level weakness.
 - Claiming anxiety always worsens EWT — the inverted U says otherwise.
-- Using a single definition of abnormality without its limitation.
+- Using a single definition in the field of mental health without its limitation.
 
 ## Self-test
 

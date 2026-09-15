@@ -120,7 +120,7 @@ principles and located places), 30% AO2 (understanding how processes
 bring change, and applying knowledge to unfamiliar contexts), 28% AO3
 (interpreting and communicating geographical data) and 12% AO4
 (evaluating the success of initiatives and the viewpoints of different
-groups). The AO4 weighting is exactly where the four management
+groups). The AO4 weighting is exactly where the three management
 sub-topics (4.4, 5.4, 6.4) earn their marks — a case study that only
 describes what a policy or scheme did, without assessing how well it
 worked or whose interests it served, is answering AO1 when the question

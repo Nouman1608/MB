@@ -38,7 +38,7 @@ Related: [Control Accounts and Correction of Errors study guide](/resources/a-le
 
 ## Section B
 
-**3.** Prepare a purchases ledger (payables) control account from the following, showing the closing balance:
+**3.** Prepare a trade payables ledger control account from the following, showing the closing balance:
 
 Opening payables $14 600; credit purchases $68 900; payments to suppliers $61 200; purchases returns $1 400; discounts received $800; contra entry with sales ledger $500. **[6]**
 
@@ -48,7 +48,7 @@ Opening payables $14 600; credit purchases $68 900; payments to suppliers $61 20
 **(b)** A cash payment of $360 for rent was posted as a $360 debit to both the rent account and the cash account (correct amount, correct accounts, but posted the wrong way on one side). **[3]**
 **(c)** A $480 purchase of a delivery van was debited to the vehicle repairs (expense) account instead of the van (non-current asset) account. **[3]**
 
-**5.** A trial balance fails to balance by $270, credit column short. Show the full four-step suspense account sequence once it is discovered that a $270 discount received was never posted to the discounts received account, and state the effect on profit. **[6]**
+**5.** A trial balance fails to balance by $270, credit column short. Prepare the full four-step suspense account sequence once it is discovered that a $270 discount received was never posted to the discounts received account, and state the effect on profit. **[6]**
 
 **6.** A payables control account balance does not agree with the total of the individual payables ledger accounts. Explain what this tells you, and what it does not tell you, about the location of the error. **[4]**
 

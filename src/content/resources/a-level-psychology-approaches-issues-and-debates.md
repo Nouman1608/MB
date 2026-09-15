@@ -65,23 +65,29 @@ behaviour) rather than evaluating each approach only in isolation,
 since "compare and contrast" style questions reward exactly that kind
 of cross-approach thinking. Because this paper's title includes
 "Issues and Debates," candidates should also be comfortable applying
-general psychological debates — such as nature versus nurture, or
-reductionism versus holism — to each of the four approaches specifically,
+the five AS Level issues and debates the syllabus names — the
+application of psychology to everyday life, individual and situational
+explanations, nature versus nurture, the use of children in
+psychological research and the use of animals in psychological
+research — to each of the four approaches and their core studies,
 rather than treating those debates as a separate, disconnected block of
-revision. A simple grid — one row per approach, columns for its core
-assumption, a supporting named study, a criticism, and how it relates
-to nature/nurture and reductionism/holism — is a genuinely useful
+revision. (Reductionism versus holism, determinism versus free will,
+idiographic versus nomothetic and cultural differences are A Level
+issues and debates for the specialist options on Papers 3 and 4, not
+Paper 1 content.) A simple grid — one row per approach, columns for its
+main assumptions, its three core studies, a criticism of each study, and
+how each study relates to the AS Level issues and debates — is a genuinely useful
 revision tool here, since it forces the cross-approach comparisons
 the paper actually rewards rather than four separate, siloed summaries.
 
 ## The four approaches at a glance
 
-| Approach | Core explanation | Typical evidence type |
+| Approach | Core explanation | Core studies (syllabus 3.1.1) |
 |---|---|---|
-| Biological | Behaviour explained through physiology — nervous system, hormones, genetics | Case studies, biological measurements, twin/adoption studies |
-| Cognitive | Behaviour explained through internal mental processes — memory, perception, thinking | Lab experiments, often with reaction-time or recall measures |
-| Learning | Behaviour explained through conditioning and observational learning | Controlled experiments, often involving animals or children |
-| Social | Behaviour explained through the influence of others and social context | Field or lab experiments involving group behaviour |
+| Biological | Behaviour, cognitions and emotions explained through the working of the brain and the effect of hormones, genetics and evolution | Dement and Kleitman; Hassett et al.; Hölzel et al. |
+| Cognitive | Information processed through an input – process – output route, with individual differences in attention, language, thinking and memory | Andrade; Baron-Cohen et al.; Pozzulo et al. |
+| Learning | Behaviour shaped by experience through operant conditioning, classical conditioning and social learning | Bandura et al.; Fagen et al.; Saavedra and Silverman |
+| Social | Behaviour, cognitions and emotions influenced by social contexts and by the actual, implied or imagined presence of others | Milgram; Perry et al.; Piliavin et al. |
 
 ## Why "issues and debates" is not a separate revision block
 
@@ -90,10 +96,12 @@ than a lens applied to each of the four approaches individually. Nature versus n
 looks different from each approach's perspective: the Biological Approach leans toward nature
 (genetics, physiology), the Learning Approach leans toward nurture (environment, conditioning), and
 the Cognitive and Social Approaches typically sit somewhere between the two, depending on the
-specific study being discussed. The same applies to reductionism versus holism — a Biological
-explanation of behaviour is often criticised as reductionist for ignoring social or cognitive
-factors, while a Social Approach explanation risks being criticised as failing to account for
-individual biological differences. Being able to apply these debates approach-by-approach, rather
+specific study being discussed. The same applies to individual versus situational explanations —
+Milgram's study considers dispositional and situational hypotheses for obedience, while Perry et
+al. examine how an individual difference (empathy) changes the effect of oxytocin on personal space.
+The use of children (Bandura et al., Pozzulo et al., Saavedra and Silverman) and the use of animals
+(Hassett et al., Fagen et al.) in psychological research are likewise best revised through the named
+core studies that raise them. Being able to apply these debates approach-by-approach, rather
 than reciting a generic definition of "nature versus nurture," is what separates a strong evaluative
 answer from a weak one.
 
@@ -118,6 +126,34 @@ and procedure in outline), its key finding, and at least one genuine methodologi
 criticism. A study recalled only vaguely ("a psychologist did an experiment on memory") earns
 substantially less credit than one recalled precisely, even where the underlying point being made is
 correct.
+
+The syllabus names **12 compulsory core studies**, three for each approach (section 3.1.1, listed
+there in alphabetical order within each approach). Paper 1 tests these directly, and the grouping by
+approach is itself examinable:
+
+**Biological approach**
+- Dement and Kleitman (sleep and dreams)
+- Hassett et al. (monkey toy preferences)
+- Hölzel et al. (mindfulness and brain scans)
+
+**Cognitive approach**
+- Andrade (doodling)
+- Baron-Cohen et al. (eyes test)
+- Pozzulo et al. (line-ups)
+
+**Learning approach**
+- Bandura et al. (aggression)
+- Fagen et al. (elephant learning)
+- Saavedra and Silverman (button phobia)
+
+**Social approach**
+- Milgram (obedience)
+- Perry et al. (personal space)
+- Piliavin et al. (subway Samaritans)
+
+For each one the syllabus expects the psychology being investigated, the background, the aim(s), the
+procedure (including research method, sample, design, controls and variables), the ethical issues,
+the results, the conclusions, and the strengths and weaknesses of every element of the study.
 
 ## Official syllabus
 

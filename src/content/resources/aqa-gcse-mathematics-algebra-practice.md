@@ -26,6 +26,8 @@ featured: false
 
 Related: [Algebra study guide](/resources/aqa-gcse-mathematics-algebra/) | [Algebra revision notes](/resources/aqa-gcse-mathematics-algebra-revision-notes/)
 
+**Tier guide:** questions marked **(Higher)** use content in the Higher content only column of the AQA 8300 specification; all other questions use Foundation content and suit both tiers.
+
 ---
 
 ## Section A
@@ -47,14 +49,14 @@ Related: [Algebra study guide](/resources/aqa-gcse-mathematics-algebra/) | [Alge
 
 **6.** Solve the quadratic equation x² + 2x − 15 = 0 by factorising. **[3]**
 
-**7.** Solve the quadratic equation 2x² − 3x − 4 = 0 using the quadratic formula, giving your answers to 2 decimal places. **[4]**
+**7.** **(Higher, A18)** Solve the quadratic equation 2x² − 3x − 4 = 0 using the quadratic formula, giving your answers to 2 decimal places. **[4]**
 
-**8.** Solve the simultaneous equations y = x + 2 and y = x² − 4 algebraically. **[5]**
+**8.** **(Higher, A19)** Solve the simultaneous equations y = x + 2 and y = x² − 4 algebraically. **[5]**
 
 **9.** Solve the inequality 3x − 4 ≤ 11, and represent your answer on a number line. **[3]**
 
 **10.** (a) Find the nth term of the sequence 4, 7, 10, 13, ... **[2]**
-**(b)** Find the nth term of the sequence 2, 5, 10, 17, 26, ..., showing your method. **[4]**
+**(b)** **(Higher, A25)** Find the nth term of the sequence 2, 5, 10, 17, 26, ..., showing your method. **[4]**
 
 ---
 

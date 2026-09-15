@@ -1171,7 +1171,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'AQA A-level Psychology helps students develop essential knowledge and understanding of different areas of the subject, and how they relate to each other.',
     officialUrl: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification',
     verifiedOn: '2026-08-19',
-    notes: 'AS content: Paper 1 ‘Introductory Topics’ (Social influence, Memory, Attachment) and Paper 2 ‘Psychology in Context’ (Approaches, Clinical Psychology and Mental Health, Research methods). A-level adds Biopsychology and Issues and debates (assessed across Papers 1-2), plus one option from each of 3 groups (Relationships/Gender/Cognition and development; Schizophrenia/Eating behaviour/Stress; Aggression/Forensic Psychology/Addiction) assessed via Paper 3.',
+    notes: 'AS content: Paper 1 ‘Introductory Topics’ (Social influence, Memory, Attachment) and Paper 2 ‘Psychology in Context’ (Approaches, Clinical Psychology and Mental Health, Research methods). The A-level (7182) is a separate linear qualification: Paper 1 adds Clinical Psychology and Mental Health to the three introductory topics; Paper 2 is Approaches, Biopsychology and Research methods; Paper 3 is Issues and debates plus one option from each of 3 groups (Relationships/Gender/Cognition and development; Schizophrenia/Eating behaviour/Stress; Aggression/Forensic Psychology/Addiction).',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'geography',

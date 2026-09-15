@@ -25,23 +25,25 @@ featured: false
 
 Related: [Number revision notes](/resources/aqa-gcse-mathematics-number-revision-notes/)
 
+**Tier guide:** parts marked **(Higher)** use content from the Higher content only column of the AQA 8300 specification — fractional indices (N7), surds (N8), recurring decimals (N10) and upper and lower bounds (N16). All other parts use Foundation content and suit both tiers.
+
 ---
 
 ## Section A
 
-**1.** Evaluate without a calculator: (a) 5⁻² (b) 16^(3/4) (c) (2/3)⁻¹ **[3]**
+**1.** Evaluate without a calculator: (a) 5⁻² (b) **(Higher)** 16^(3/4) (c) (2/3)⁻¹ **[3]**
 
 **2.** Write 0.000 037 in standard form, and 4.2 × 10⁵ as an ordinary number. **[2]**
 
 ## Section B
 
-**3.** Simplify fully:
+**3.** **(Higher, N8)** Simplify fully:
 
 **(a)** √50 + √18 **[2]**
 **(b)** (3 + √5)(3 − √5) **[2]**
 **(c)** rationalise 6 ÷ √3 **[2]**
 
-**4.** A length is measured as 8.4 cm to the nearest 0.1 cm.
+**4.** **(Higher, N16)** A length is measured as 8.4 cm to the nearest 0.1 cm. (At Foundation tier, part (a) would be asked as an error interval, under N15; part (b), calculating with bounds, is Higher only.)
 
 **(a)** State the upper and lower bounds. **[2]**
 **(b)** A rectangle has this length and a width of 5.2 cm, also to the nearest 0.1 cm. Calculate the upper bound of its area. **[3]**
@@ -51,7 +53,7 @@ Related: [Number revision notes](/resources/aqa-gcse-mathematics-number-revision
 **(a)** Calculate the original price. **[3]**
 **(b)** An investment of £2000 earns 3.5% compound interest per year. Calculate its value after 4 years. **[3]**
 
-**6.** Write 0.4̇5̇ (0.454545...) as a fraction in its simplest form. **[3]**
+**6.** **(Higher, N10)** Write 0.4̇5̇ (0.454545...) as a fraction in its simplest form. **[3]**
 
 **7.** Express 360 as a product of prime factors, and hence find the HCF and LCM of 360 and 84. **[4]**
 
@@ -81,13 +83,13 @@ Related: [Number revision notes](/resources/aqa-gcse-mathematics-number-revision
 
 ## Section C — additional questions
 
-**8.** Evaluate without a calculator: (a) 27^(2/3) (b) 4⁻³ **[2]**
+**8.** Evaluate without a calculator: (a) **(Higher)** 27^(2/3) (b) 4⁻³ **[2]**
 
 **9.** A car's value depreciates by 15% per year. If it is bought for £18,000, calculate its value after 3 years, giving your answer to the nearest pound. **[3]**
 
-**10.** Simplify √72 − √8, giving your answer in the form k√2. **[2]**
+**10.** **(Higher, N8)** Simplify √72 − √8, giving your answer in the form k√2. **[2]**
 
-**11.** A field is measured as 120 m long, to the nearest 5 m. Give the upper and lower bounds of this measurement. **[2]**
+**11.** **(Higher as worded, N16)** A field is measured as 120 m long, to the nearest 5 m. Give the upper and lower bounds of this measurement. (At Foundation tier the same skill is asked as an error interval, under N15.) **[2]**
 
 ## Answers to Section C
 
@@ -113,7 +115,7 @@ calculated on an already-reduced value in later years. Confusing
 compound change with simple, additive change is one of the most
 common sources of lost marks across this whole topic area.
 
-## A note on surd simplification
+## A note on surd simplification (Higher)
 
 Questions 3(a) and 10 both rely on the same technique: finding the
 largest square-number factor of the number under the root, since this
@@ -132,9 +134,12 @@ Question 1 and question 8 both test the two index rules that most
 often trip candidates up: a fractional index such as ^(2/3) means take
 the root indicated by the denominator (here, a cube root) and raise
 the result to the power indicated by the numerator, so 27^(2/3) is the
-cube root of 27, squared, giving 9 — not 27 squared and then cube
-rooted the other way round, though both orders happen to give the
-same correct answer for a perfect cube like this one. A negative
+cube root of 27, squared, giving 9. Squaring first and then taking
+the cube root (729, then 9) is not wrong: for any positive base the two
+orders always give the same value, perfect cube or not. Taking the
+root first is simply the practical choice, because it keeps the
+intermediate numbers small (3 rather than 729) and makes a
+non-calculator evaluation much easier. A negative
 index, by contrast, does not make the answer negative — it means "one
 over" the positive-index version, so 4⁻³ equals 1 divided by 4³, not
 negative 4³. Keeping these two rules distinct, rather than treating a
@@ -144,6 +149,6 @@ avoids a common and entirely avoidable source of lost marks.
 ## Where marks are usually lost
 
 - Treating a negative index as a negative answer.
-- Using the lower bound of the width when finding an upper bound of an area.
+- (Higher) Using the lower bound of the width when finding an upper bound of an area.
 - Calculating 30% of £84 instead of treating £84 as 70%.
-- Multiplying by 10 instead of 100 for a two-digit recurring block.
+- (Higher) Multiplying by 10 instead of 100 for a two-digit recurring block.

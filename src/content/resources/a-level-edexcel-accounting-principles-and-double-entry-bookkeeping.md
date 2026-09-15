@@ -40,20 +40,23 @@ compulsory Section A and an optional Section B.
 **PEARSON EDEXCEL INTERNATIONAL A LEVEL ACCOUNTING (YAC11) — TOPIC 1
 PRINCIPLES OF ACCOUNTING AND DOUBLE ENTRY BOOKKEEPING**
 
-- 1.1 Role and purpose of accounting — accounting as a means of
+The specification numbers this whole topic as 1.1 and lists its content
+statements 1.1.1 to 1.1.20 under five side headings:
+
+- Role and purpose of accounting (1.1.1-1.1.2) — accounting as a means of
 recording, analysing and communicating information, and as an aid to
 management
-- 1.2 The double entry system — recording transactions in books of
+- Double entry system (1.1.3-1.1.7) — recording transactions in books of
 account and books of prime entry, end-of-period transfers and
 adjustments, allowance for irrecoverable debts, and the use of ICT in
 recording transactions and preparing reconciliations
-- 1.3 Accounting concepts and conventions — going concern, prudence,
+- Accounting concepts and conventions (1.1.8-1.1.10) — going concern, prudence,
 accruals, consistency, historic cost, materiality, money measurement,
 realisation, business entity, and the use of International Accounting
 Standards (IAS)
-- 1.4 Capital expenditure and revenue expenditure — the distinction
+- Capital expenditure and revenue expenditure (1.1.11-1.1.12) — the distinction
 between the two and their correct accounting treatment
-- 1.5 Non-current asset depreciation — the causes of and reasons for
+- Non-current asset depreciation (1.1.13-1.1.20) — the causes of and reasons for
 depreciation; the reducing balance, straight line and revaluation
 methods; ledger accounts for non-current assets and provisions;
 disposal accounts; and the effect of depreciation method on profit
@@ -62,13 +65,13 @@ disposal accounts; and the effect of depreciation method on profit
 
 Because Unit 1's exam is entirely data-based (multi-part questions
 built on given data, not essay-style), procedural accuracy in the
-double entry mechanics (1.2) is what most exam marks actually turn on
+double entry mechanics (1.1.3-1.1.7) is what most exam marks actually turn on
 — practise recording full transaction sequences from books of prime
 entry through to ledger accounts until it is automatic. The accounting
-concepts in 1.3 are frequently tested by asking candidates to identify
+concepts in 1.1.8-1.1.10 are frequently tested by asking candidates to identify
 which concept justifies a specific accounting treatment, so know each
 concept by name and be able to apply it to a scenario, not just define
-it. Depreciation (1.5) is the most calculation-heavy sub-topic here:
+it. Depreciation (1.1.13-1.1.20) is the most calculation-heavy sub-topic here:
 be fluent switching between reducing balance and straight line methods
 for the same asset, and understand precisely why the choice of method
 changes reported profit — this comparison is a recurring exam angle.
@@ -86,7 +89,7 @@ debited $800 (an asset increasing) and the Sales account is credited
 $800 (income increasing). Keeping a consistent rule in mind --
 increases in assets and expenses are debits, increases in liabilities,
 income and capital are credits -- and applying it transaction by
-transaction is what turns 1.2 from an abstract rule into a reliable
+transaction is what turns the double entry statements (1.1.3-1.1.7) from an abstract rule into a reliable
 exam technique.
 
 ## Worked example: depreciation methods compared
@@ -96,20 +99,39 @@ value of $1,000 over a 4-year useful life, the straight line method
 charges an equal amount each year: (10,000 − 1,000) ÷ 4 = $2,250 per
 year. The reducing balance method instead applies a fixed percentage
 to the asset's carrying value each year, so depreciation is highest in
-the earliest years and falls over time -- at a 20% rate, year one's
-charge is 10,000 × 20% = $2,000, but year two's charge is calculated
-on the reduced carrying value of $8,000, giving $1,600, and so on.
+the earliest years and falls over time. For the charges to bring the
+same asset down to its $1,000 residual value over the same four years,
+the rate must be about 43.8% (more precisely 1 − ⁴√(1,000 ÷ 10,000),
+or 43.77%). Year one's charge is then about $4,377 on the $10,000 cost;
+year two's is calculated on the reduced carrying value of $5,623,
+giving about $2,461; year three's is about $1,384 and year four's about
+$778, a total of $9,000 that leaves the $1,000 residual value.
+
+```
+Year   Straight line   Reducing balance (43.77%)
+1         2,250              4,377
+2         2,250              2,461
+3         2,250              1,384
+4         2,250                778
+Total     9,000              9,000
+```
+
 This difference directly affects reported profit: a business using
 reducing balance reports lower profit in an asset's early years
-(higher depreciation charge) and higher profit later, compared to the
-flat charge straight line produces throughout -- understanding this
+(higher depreciation charge in years 1 and 2) and higher profit later
+(lower charge in years 3 and 4), compared to the flat charge straight
+line produces throughout, while total depreciation over the asset's life
+is the same. Beware a rate that is too low for the life and residual
+value given: at 20% the charges would be $2,000, $1,600, $1,280 and
+$1,024, below straight line in every year and leaving a carrying amount
+of $4,096, not $1,000 -- understanding this
 comparison, rather than only being able to calculate each method in
 isolation, is what recurring exam questions on depreciation actually
 test.
 
 ## Applying accounting concepts to a scenario
 
-1.3's concepts are tested through application, not definition alone,
+The concepts in 1.1.8-1.1.10 are tested through application, not definition alone,
 so it helps to practise matching a concept to a scenario. A business
 continuing to value inventory at the lower of cost and net realisable
 value, rather than at its potentially higher selling price, is
@@ -122,12 +144,12 @@ switching methods to produce a more favourable result, applies
 kept entirely separate from its owner's personal finances applies the
 **business entity** concept. Being able to name the specific concept
 that justifies a given accounting decision, rather than only listing
-the concepts in the abstract, is what exam questions on 1.3
+the concepts in the abstract, is what exam questions on 1.1.8-1.1.10
 consistently reward.
 
 ## Capital versus revenue expenditure
 
-1.4 tests the distinction between capital expenditure -- spending on
+Content statements 1.1.11-1.1.12 test the distinction between capital expenditure -- spending on
 acquiring or improving a non-current asset, such as buying a delivery
 van or fitting a new engine that extends its useful life -- and
 revenue expenditure -- day-to-day running costs of the business, such

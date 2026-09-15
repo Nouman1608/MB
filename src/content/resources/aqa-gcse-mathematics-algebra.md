@@ -38,32 +38,41 @@ geometry content rather than testing it in isolation.
   longer expressions they abbreviate); substituting numerical values
   into formulae and expressions, including scientific formulae;
   understanding the vocabulary of expressions, equations, formulae,
-  inequalities, terms and factors (and, at Higher tier, identities);
-  simplifying and manipulating expressions by collecting like terms,
-  expanding brackets, factorising, and -- at Higher tier -- expanding
-  products of two or more binomials and factorising quadratics of the
-  form ax² + bx + c; understanding and using standard formulae,
-  including rearranging a formula to change the subject; and, at
-  Higher tier, interpreting simple expressions as functions with
-  inputs and outputs, including inverse and composite functions.
+  inequalities, terms and factors, including identities (A3, Foundation
+  tier), and knowing the difference between an equation and an
+  identity (A6, Foundation tier; using algebra to construct proofs is
+  Higher tier); simplifying and manipulating expressions by collecting
+  like terms, expanding brackets, factorising, expanding products of
+  two binomials and factorising x² + bx + c including the difference
+  of two squares (A4, Foundation tier) -- and, at Higher tier,
+  expanding products of more than two binomials, factorising
+  quadratics of the form ax² + bx + c and manipulating algebraic
+  fractions; understanding and using standard formulae, including
+  rearranging a formula to change the subject; and interpreting simple
+  expressions as functions with inputs and outputs (A7, Foundation
+  tier), extending at Higher tier to inverse and composite functions
+  and f(x), fg(x) and f⁻¹(x) notation.
 - **3.2.2 Graphs** -- working with coordinates in all four quadrants;
-  plotting straight-line graphs and, at Higher tier, using y = mx + c
-  to identify parallel and perpendicular lines and to find the
-  equation of a line; identifying gradients and intercepts of linear
-  functions both graphically and algebraically; identifying roots,
+  plotting straight-line graphs; using y = mx + c to identify parallel
+  lines and finding the equation of the line through two given points
+  or through one point with a given gradient (A9, Foundation tier),
+  with identifying perpendicular lines at Higher tier only;
+  identifying gradients and intercepts of linear functions both graphically and algebraically; identifying roots,
   intercepts and turning points of quadratic functions; recognising,
-  sketching and interpreting graphs of linear, quadratic, cubic,
-  reciprocal, exponential and (Higher tier) trigonometric functions;
+  sketching and interpreting graphs of linear, quadratic, simple cubic
+  and reciprocal functions (A12, Foundation tier) and, at Higher tier
+  only, exponential (y = kˣ) and trigonometric functions (A12, A14);
   and, at Higher tier, calculating or estimating gradients of graphs
   and areas under graphs, including in kinematics and financial
   contexts, plus the equation of a circle centred at the origin and
   the tangent to a circle at a given point.
 - **3.2.3 Solving equations and inequalities** -- solving linear
   equations in one unknown algebraically, including the unknown on
-  both sides and equations involving brackets; at Higher tier, solving
-  quadratic equations by factorising, completing the square and the
-  quadratic formula; solving simultaneous equations in two variables,
-  including linear/linear at Foundation tier and linear/quadratic at
+  both sides and equations involving brackets; solving quadratic
+  equations algebraically by factorising (A18, Foundation tier), with
+  equations that require rearrangement, completing the square and the
+  quadratic formula at Higher tier only; solving simultaneous
+  equations in two variables, including linear/linear at Foundation tier and linear/quadratic at
   Higher tier; finding approximate solutions using a graph in all
   cases; at Higher tier, solving equations numerically by iteration;
   translating situations into equations or formulae and interpreting
@@ -73,10 +82,11 @@ geometry content rather than testing it in isolation.
 - **3.2.4 Sequences** -- generating terms of a sequence from a
   term-to-term or position-to-term rule, including from patterns and
   diagrams; recognising and using triangular, square and cube number
-  sequences and simple arithmetic progressions, plus, at Higher tier,
-  Fibonacci-type, quadratic and simple geometric progressions
-  (including where the common ratio is a surd); and deducing
-  expressions for the nth term of linear sequences, extending at
+  sequences and simple arithmetic progressions, plus Fibonacci-type
+  sequences, quadratic sequences and simple geometric progressions rⁿ
+  with r a positive rational number (A24, Foundation tier), extending
+  at Higher tier to other sequences and geometric progressions where r
+  is a surd; and deducing expressions for the nth term of linear sequences, extending at
   Higher tier to quadratic sequences.
 
 ## How the four sub-sections connect
@@ -101,14 +111,27 @@ expressions built and rearranged the same way as everything in 3.2.1.
 ## Foundation versus Higher tier
 
 All content can be assessed on any paper, but a meaningful share of
-Topic 2 is Higher-tier-only: quadratic factorising beyond the simplest
-case, the quadratic formula and completing the square, function
-notation (f(x), fg(x), f⁻¹(x)), circle equations and tangents,
-quadratic and geometric sequences, and quadratic inequalities are all
-reserved for Higher tier. A Foundation-tier student should not spend
-revision time on these; a Higher-tier student should treat them as the
-questions most likely to separate grades 7-9 from grade 6, since they
-build directly on Foundation-tier content rather than replacing it.
+Topic 2 is Higher-tier-only: factorising ax² + bx + c (A4), solving
+quadratics that need rearrangement, completing the square or the
+quadratic formula (A18), perpendicular lines (A9), exponential and
+trigonometric graphs (A12, A14), inverse and composite functions and
+f(x), fg(x), f⁻¹(x) notation (A7), algebraic proof (A6), circle
+equations and tangents (A16), the nth term of quadratic sequences
+(A25), geometric progressions with a surd ratio (A24), linear/quadratic
+simultaneous equations (A19), iteration (A20) and quadratic
+inequalities (A22) are all reserved for Higher tier. A Foundation-tier
+student should not spend revision time on these; a Higher-tier student
+should treat them as the questions most likely to separate grades 7-9
+from grade 6, since they build directly on Foundation-tier content
+rather than replacing it.
+
+Be careful at the boundary, because several neighbouring skills are
+Foundation content and can appear on Foundation papers: solving
+quadratics by factorising (A18), using y = mx + c for parallel lines
+and finding the equation of a line (A9), identities and the
+equation/identity distinction (A3, A6), interpreting expressions as
+functions with inputs and outputs (A7), and recognising Fibonacci-type,
+quadratic and simple geometric sequences (A24).
 
 ## Common mistakes
 
@@ -118,7 +141,8 @@ build directly on Foundation-tier content rather than replacing it.
   specification explicitly expects simplest form without being told.
 - **Confusing an equation with an identity.** An equation is only true
   for specific values of the unknown; an identity is true for every
-  value. This distinction is tested directly at Higher tier.
+  value. This distinction is Foundation-tier content (A6), so it can be
+tested directly at both tiers.
 - **Mixing up gradient and y-intercept in y = mx + c**, especially
   when a question gives the equation in a rearranged form such as
   2y = 4x + 6, where the gradient is 2, not 4.

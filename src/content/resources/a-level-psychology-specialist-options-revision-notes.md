@@ -3,7 +3,7 @@ title: "A Level Psychology: Specialist Options — Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["a-levels"]
-topic: "Paper 3 – Specialist Options 1"
+topic: "Paper 3 – Specialist Options: Approaches, Issues and Debates"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9990"]
@@ -24,8 +24,9 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## First: confirm which two options your course teaches
 
-A school studies **2 of these 4** options (one via Paper 3, one via
-Paper 4) — the syllabus doesn't fix which. **Confirm with your
+A school studies **2 of these 4** options, and **both** are examined on
+**both** Paper 3 and Paper 4 (different topic areas on each paper) —
+the syllabus doesn't fix which two. **Confirm with your
 teacher** which specific options apply to you before revising the
 wrong two.
 
@@ -33,10 +34,10 @@ wrong two.
 
 | Option | Focus |
 |---|---|
-| 3.1 Clinical | Classification/diagnosis of disorders; treatment approaches |
-| 3.2 Consumer | Psychology applied to consumer behaviour, advertising, decision-making |
-| 3.3 Health | Psychological factors in health, illness, health-related behaviour |
-| 3.4 Organisational | Psychology applied to workplace behaviour, motivation, management |
+| 1 Clinical | Classification/diagnosis of disorders; treatment approaches |
+| 2 Consumer | Psychology applied to consumer behaviour, advertising, decision-making |
+| 3 Health | Psychological factors in health, illness, health-related behaviour |
+| 4 Organisational | Psychology applied to workplace behaviour, motivation, management |
 
 Each option applies the **core approaches** (Biological, Cognitive,
 Learning, Social) from AS Paper 1 to a specific applied context.
@@ -121,8 +122,8 @@ complete answer without evaluation.
 
 ## Why the choice of options is a school decision, not fixed
 
-Because any of the four options can in principle be studied for
-either Paper 3 or Paper 4, two candidates at different schools may
+Because the school chooses which two of the four options to teach
+(and those two are then examined on both Paper 3 and Paper 4), two candidates at different schools may
 study a completely different pair of options despite sitting the same
 qualification. This matters directly for revision: past-paper
 practice should be sourced against the exact options your own course
@@ -160,14 +161,14 @@ one.
 ## Self-test
 
 1. How many of the four specialist options does a typical course
-study, and via which papers?
+study, and on which papers are they examined?
 2. Name the four specialist options.
 3. What core approaches does each option apply to its context?
 4. Why is Research Methods relevant to a specialist-option question?
 5. What distinguishes a strong Consumer Psychology answer from a
 weak one?
 
-**Answers:** 1. Two of the four — one via Paper 3, one via Paper 4.
+**Answers:** 1. Two of the four — both examined on both Paper 3 and Paper 4, with different topic areas on each paper.
 2. Clinical, Consumer, Health, Organisational. 3. Biological,
 Cognitive, Learning, Social — the same four core approaches examined
 at AS Level, applied to the specific option's context. 4. Because

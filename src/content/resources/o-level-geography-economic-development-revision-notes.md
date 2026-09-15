@@ -127,9 +127,9 @@ named threats.
 
 ## Case study reuse: a practical revision shortcut
 
-Given six of the seven subtopics demand a named case study, it is
+Given all seven subtopics demand a named case study (eight in total, as 3.2 requires two), it is
 far more efficient to deeply learn 3-4 well-chosen examples that each
-span multiple subtopics than to memorise seven completely separate,
+span multiple subtopics than to memorise eight completely separate,
 shallow examples. A single large transnational corporation, for
 instance, can typically supply concrete detail for 3.1 (global links),
 3.3 (industrial location factors) and potentially 3.7 (environmental

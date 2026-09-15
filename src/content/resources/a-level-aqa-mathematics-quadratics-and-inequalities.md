@@ -28,13 +28,18 @@ exam board offering A-level Mathematics, not set independently by AQA.
 
 ## Scope of this guide
 
-Section B runs from B1 (laws of indices) through B9 (transformations
-of graphs). This resource covers B3, B4 and B5, a natural cluster
-centred on quadratics: working with the quadratic function itself,
-solving it simultaneously against a linear equation, and handling
-inequalities involving it. B1-B2 (indices and surds) and B6-B9
-(polynomial manipulation, graphs of functions, composite/inverse
-functions, transformations) are left for separate resources.
+At A-level, Section B runs from B1 (laws of indices) through B11.
+B1-B9 end with transformations of graphs; the two further statements
+are B10 (decomposing rational functions into partial fractions) and
+B11 (use of functions in modelling, including consideration of
+limitations and refinements of the models). (B1-B9 alone is the AS
+range, not the A-level one.) This resource covers B3, B4 and B5, a
+natural cluster centred on quadratics: working with the quadratic
+function itself, solving it simultaneously against a linear equation,
+and handling inequalities involving it. B1-B2 (indices and surds),
+B6-B9 (polynomial manipulation, graphs of functions, composite/inverse
+functions, transformations), B10 (partial fractions) and B11
+(functions in modelling) are left for separate resources.
 
 ## Syllabus coverage
 
@@ -69,10 +74,15 @@ determine. Revising these three sub-topics through that single
 connecting idea, rather than as separate procedures, is significantly
 more efficient than learning each in isolation.
 
-For B4's "one linear and one quadratic equation" case specifically,
-substitution — not elimination — is the standard method: rearrange the
-linear equation to isolate one variable, substitute it into the
-quadratic, and solve the resulting single-variable quadratic. For B5,
+B4 names both methods -- solving "by elimination and by
+substitution, including one linear and one quadratic equation" -- so
+you need to be able to use either. For the linear-quadratic case,
+substitution is often the most convenient route in practice:
+rearrange the linear equation to isolate one variable, substitute it
+into the quadratic, and solve the resulting single-variable quadratic.
+Equating two expressions for y (which eliminates y) is equally valid
+and gives the same quadratic; the choice is a matter of convenience,
+not correctness. For B5,
 be precise with "and" versus "or": a solution like −2 < x < 3 (an
 "and" condition, x greater than −2 and less than 3) describes a bounded
 region between two roots, typically for a quadratic inequality opening
@@ -125,9 +135,11 @@ providing the right mathematical content in the wrong required format.
 
 Solving a quadratic inequality algebraically without sketching the
 graph first, leading to the solution being written the wrong way round
-("and" instead of "or", or vice versa). Using elimination instead of
-substitution for a linear-quadratic simultaneous equation pair, which
-is significantly more error-prone. Forgetting to check the
+("and" instead of "or", or vice versa). Believing only one method is
+acceptable for a linear-quadratic simultaneous pair: B4 requires both
+elimination and substitution, and what loses marks is an algebra slip
+(for example, not substituting back to find the matching y-values),
+not the choice of method. Forgetting to check the
 discriminant before assuming a quadratic has real roots at all.
 Dropping a solution when solving an inequality involving a fraction or
 bracket, by treating it exactly like a linear inequality without
@@ -138,7 +150,8 @@ solution set.
 
 - Learn what each sign of the discriminant (positive, zero, negative)
 tells you about a quadratic's roots.
-- Practise solving simultaneous linear-quadratic pairs by substitution.
+- Practise solving simultaneous linear-quadratic pairs by both
+substitution and elimination, as B4 requires.
 - Always sketch the graph before writing the final solution to a
 quadratic inequality.
 - Be precise about "and" (bounded, between two roots) versus "or"

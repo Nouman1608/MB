@@ -7,7 +7,7 @@ topic: "Challenges in the Human Environment"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9230"]
-syllabusSeries: "Version 3.3"
+syllabusSeries: "Version 4.3"
 order: 2
 syllabusTopics:
   - qualification: "igcse"
@@ -51,6 +51,8 @@ Related: [Urban Issues and Challenges study guide](/resources/igcse-oxfordaqa-ge
 
 **8.** Define **squatter settlement** and **urban sprawl** precisely, and explain why rapid, unplanned urban growth often leads to squatter settlements forming. **[5]**
 
+**9.** For a named flagship urban regeneration project you have studied, explain why the area needed regeneration, describe the main features of the project, and assess its social, economic and environmental impact. **[8]**
+
 ---
 
 ## Answers
@@ -70,6 +72,8 @@ Related: [Urban Issues and Challenges study guide](/resources/igcse-oxfordaqa-ge
 **7.** Any two, 3 marks each: **urban deprivation and inequality** — despite their wealth overall, both cities contain areas of significant poverty, with marked inequalities in housing, education, health and employment between different districts [1] [1] [1]. **Housing pressure and dereliction** — high demand for housing drives up costs and can leave some areas affected by dereliction or unequal brownfield/greenfield development pressures [1] [1] [1]. **Traffic congestion** — dense populations and high volumes of commuting create significant congestion, with knock-on effects for air quality and travel times [1] [1] [1]. **Waste, water and energy management** — supplying and managing these resources for such large populations creates ongoing infrastructure challenges [1] [1] [1].
 
 **8. Squatter settlement** — **informal housing built without legal permission or planning, often lacking basic services** such as clean water and sanitation [1] [1]. **Urban sprawl** — the **unplanned outward spread of a city into surrounding countryside** [1] [1]. Rapid, unplanned urban growth often produces squatter settlements because the pace of migration and natural increase **outstrips the ability of formal housing and planning systems to keep up**, so incoming residents build informal housing wherever space allows, without the infrastructure formal planning would normally provide [1].
+
+**9.** A strong answer names the project and its location. **Why regeneration was needed**, 2 marks: two specific problems of the area before the project, such as derelict land or buildings left by the decline of former industry, or deprivation and poor housing [1] [1]. **Main features**, 2 marks: two specific features of the project, such as new housing, offices, transport links, or public and green spaces [1] [1]. **Impact**, 3 marks: one social impact (for example new homes and services, or displacement of existing residents) [1], one economic impact (for example jobs and investment) [1] and one environmental impact (for example reuse of brownfield land or new green space) [1]. **Assessment**, 1 mark: a supported judgement on how far the project benefited the area and its existing community [1].
 
 ---
 

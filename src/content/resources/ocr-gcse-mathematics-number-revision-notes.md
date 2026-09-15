@@ -21,6 +21,8 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Number Operations and Integers study guide](/resources/ocr-gcse-mathematics-number-operations-and-integers/).
 
+**Tier:** four techniques below are in the **Higher tier** column of the J560 specification and are marked **(Higher)**: converting recurring decimals to fractions (2.02a), fractional indices (3.01a-b), surds and rationalising denominators (3.03a-b), and calculating the bounds of a calculation (4.01c). Everything else is Foundation content, assessed at both tiers.
+
 ## Integers and primes
 
 **BIDMAS** — Brackets, Indices, Division and Multiplication, Addition and Subtraction. Division and multiplication rank equally and are worked left to right, as do addition and subtraction.
@@ -52,7 +54,7 @@ Choosing between HCF and LCM is the real difficulty: **LCM** answers "when do th
 
 Multiply across; divide by **multiplying by the reciprocal**; add and subtract with a common denominator. Convert mixed numbers to improper fractions **before** multiplying or dividing.
 
-**Recurring decimals to fractions:** let x equal the decimal, multiply by a power of 10 so the recurring part aligns, subtract, and solve.
+**Recurring decimals to fractions (Higher):** let x equal the decimal, multiply by a power of 10 so the recurring part aligns, subtract, and solve.
 
 ## Percentages
 
@@ -80,10 +82,11 @@ Divide by the **total number of parts**, then multiply. Read carefully whether t
 
 ```
 a^m x a^n = a^(m+n)     a^m / a^n = a^(m-n)     (a^m)^n = a^(mn)
-a^0 = 1                 a^-n = 1/a^n            a^(m/n) = (n-th root)^m
+a^0 = 1                 a^-n = 1/a^n
+(Higher only)           a^(m/n) = (n-th root)^m
 ```
 
-**A negative index means reciprocal, not a negative answer:** 3⁻² = 1/9. For a negative fractional index, **flip first**: (9/16)^(−1/2) = (16/9)^(1/2) = 4/3.
+**A negative index means reciprocal, not a negative answer:** 3⁻² = 1/9 (negative integer indices are Foundation). **(Higher)** For a negative fractional index, **flip first**: (9/16)^(−1/2) = (16/9)^(1/2) = 4/3.
 
 ```
 standard form:  A x 10^n     with  1 <= A < 10
@@ -91,7 +94,7 @@ standard form:  A x 10^n     with  1 <= A < 10
 
 After multiplying or dividing, **re-check that A lies between 1 and 10** and adjust the power.
 
-## Surds
+## Surds (Higher)
 
 ```
 sqrt(a) x sqrt(b) = sqrt(ab)        sqrt(72) = 6 sqrt(2)
@@ -103,7 +106,9 @@ Rationalise by the surd, or by the **conjugate** for two terms.
 
 ## Bounds
 
-For a value rounded to the nearest unit u, bounds are **± u/2**.
+For a value rounded to the nearest unit u, bounds are **± u/2**. Writing the error interval for a single rounded or truncated value is Foundation (see Error intervals below).
+
+**(Higher)** Calculating the upper and lower bounds of a calculation (4.01c):
 
 | Want | Add | Subtract | Multiply | Divide |
 |---|---|---|---|---|
@@ -123,16 +128,16 @@ A value rounded to a given precision could have come from a range either side of
 - Dividing by the new value in percentage change.
 - Subtracting instead of dividing in reverse percentages.
 - Reading a negative index as a negative answer.
-- Using UB ÷ UB for a maximum quotient.
+- (Higher) Using UB ÷ UB for a maximum quotient.
 - Rounding partway through.
 
 ## Self-test
 
 1. Find the HCF and LCM of 48 and 72 by prime factorisation.
 2. A price is £78 after a 30% increase. What was it before?
-3. Evaluate `(9/16)^(−1/2)`.
-4. Rationalise `3/(4 + √2)`.
-5. How do you find the maximum value of `a − b` from bounds?
+3. (Higher) Evaluate `(9/16)^(−1/2)`.
+4. (Higher) Rationalise `3/(4 + √2)`.
+5. (Higher) How do you find the maximum value of `a − b` from bounds?
 6. Two bells ring at intervals of 84 s and 120 s, together at 09:00. When do they next ring together?
 7. Write the error interval for a length recorded as 6.3 cm to 1 decimal place.
 

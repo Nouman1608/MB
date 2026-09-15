@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "principles-of-accounting-and-double-entry-bookkeeping"
-description: "Condensed recall notes on the accounting equation, concepts, adjustments, control accounts and bank reconciliation for Edexcel A Level Accounting."
+description: "Condensed recall notes on the accounting equation, concepts, adjustments, control accounts, with bank reconciliation as supporting background, for Edexcel A Level Accounting."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -56,7 +56,7 @@ Capital sits with liabilities because, under the **business entity** concept, th
 | Prepaid income | Reduces | Current liability |
 | Depreciation | Reduces | Reduces carrying amount |
 | Irrecoverable debt | Reduces | Reduces receivables |
-| Increase in allowance for doubtful debts | Reduces | Reduces receivables |
+| Increase in allowance for irrecoverable debts | Reduces | Reduces receivables |
 
 **"State the effect" wants both.** Giving one is worth half.
 
@@ -67,15 +67,17 @@ Capital sits with liabilities because, under the **business entity** concept, th
 
 ## Control accounts
 
-The **sales ledger control account** and **purchases ledger control account** summarise the personal ledgers and are prepared from the books of prime entry.
+The **trade receivables ledger control account** and **trade payables ledger control account** summarise the personal ledgers and are prepared from the books of prime entry.
 
 Their purpose is threefold: to **check the arithmetical accuracy** of the personal ledgers, to **locate errors** within a smaller area, and to provide **totals quickly** for the financial statements without adding up every account.
 
 **A control account also acts as an internal control**, because it is prepared by someone other than the person keeping the personal ledgers — so a discrepancy signals error or fraud.
 
-Common entries: sales ledger control is debited with credit sales and dishonoured cheques, and credited with receipts, discounts allowed, returns inwards, irrecoverable debts and contra entries.
+Common entries: the trade receivables ledger control account is debited with credit sales and dishonoured cheques, and credited with receipts, discounts allowed, returns inwards, irrecoverable debts and contra entries.
 
 ## Bank reconciliation
+
+*Supporting background, outside the assessed content:* bank reconciliation is not a content statement of either unit of this specification. It is included here because it consolidates cash book and error-checking skills.
 
 The cash book and the bank statement differ because of:
 
@@ -120,7 +122,7 @@ receivables days    = receivables / credit sales x 365
 1. Why does capital appear with liabilities?
 2. Give both effects of a prepaid expense.
 3. What are the three purposes of a control account?
-4. In what order should a bank reconciliation be done, and why?
+4. (Supporting background) In what order should a bank reconciliation be done, and why?
 5. Why might a high current ratio be a warning sign?
 
 **Answers:** 1. Under the business entity concept the business is separate from its owner, so capital is an amount the business owes back to the owner. 2. It increases profit for the year and appears as a current asset in the statement of financial position. 3. To check the arithmetical accuracy of the personal ledgers, to localise errors, and to provide quick totals for the financial statements — with the added benefit of acting as an internal control when prepared independently. 4. Update the cash book first for items the bank knew of first (charges, interest, direct debits), then reconcile the adjusted cash book to the statement using timing differences; reversing the order produces a figure that reconciles to nothing meaningful. 5. It may indicate excess inventory, receivables being collected too slowly, or cash sitting idle rather than being invested.

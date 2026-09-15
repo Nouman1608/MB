@@ -94,23 +94,33 @@ profit.
 ## Worked example: a compensating error
 
 A business's sales account is understated by $200, and its purchases
-account is also understated by $200 (in the business's favour on the
-credit side and against it on the debit side, respectively, in a way
-that happens to leave total debits and total credits still equal).
+account is also understated by $200. Sales is a credit balance and
+purchases a debit balance, so the credit side and the debit side of the
+trial balance are both $200 too low and still agree.
 
 ```
 Effect on trial balance: no imbalance shown -- debits still equal
                           credits, because both errors are the same
                           size and offset each other in the totals
-Effect on profit:        profit is understated, because sales revenue
-                          (understated) and purchases cost (understated)
-                          do not cancel out in the profit calculation
-                          the way they do in the trial balance totals
+Effect on profit:        profit is unchanged in this example. Gross
+                          profit is sales (an income) less purchases (a
+                          cost), so recorded gross profit is
+                          (sales - 200) - (purchases - 200)
+                          = sales - purchases. The income error and the
+                          cost error cancel in the profit calculation for
+                          the same reason they cancel in the trial
+                          balance totals
 Correction:               a journal entry restating both accounts to
                           their correct figures, with no suspense
                           account required since the trial balance was
                           never shown to be out of balance
 ```
+
+Do not turn this into a rule that compensating errors never affect
+profit. If only one of the two offsetting errors were in an income or
+expense account (for example, sales understated by $200 and a
+non-current asset account understated by $200), profit would be
+understated by $200 even though the trial balance still agrees.
 
 This is why the syllabus asks candidates to understand the *limitations*
 of a trial balance, not just how to prepare one — a trial balance that

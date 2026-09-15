@@ -3,7 +3,7 @@ title: "A Level Psychology: Specialist Options — Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]
-topic: "Paper 3 – Specialist Options 1"
+topic: "Paper 3 – Specialist Options: Approaches, Issues and Debates"
 boards: ["cambridge"]
 qualifications: ["a-level"]
 syllabusCodes: ["9990"]
@@ -35,7 +35,7 @@ notes](/resources/a-level-psychology-specialist-options-revision-notes/).
 **1.** Name the four specialist options available on this syllabus. **[4]**
 
 **2.** State how many of the four options a typical course studies,
-and via which two papers. **[2]**
+and on which papers those options are examined. **[2]**
 
 **3.** Name the four core approaches from AS Level that each
 specialist option applies to its specific context. **[4]**
@@ -98,8 +98,8 @@ specialist-option content despite taking the same qualification. **[3]**
 **1.** Clinical Psychology, Consumer Psychology, Health Psychology,
 and Organisational Psychology [4].
 
-**2.** Two of the four options, studied via Paper 3 and Paper 4 (one
-option per paper) [2].
+**2.** Two of the four options [1]; both options are examined on both
+Paper 3 and Paper 4, with different topic areas on each paper [1].
 
 **3.** Biological, Cognitive, Learning and Social [4].
 
@@ -148,10 +148,10 @@ candidates to be able to suggest and evaluate how a claim within the
 option could actually be studied, not just recall the option's
 theoretical content in isolation [2].
 
-**10.** Because any of the four specialist options can, in principle,
-be studied for either Paper 3 or Paper 4, and which two options a
-school chooses to teach is a local curriculum decision, not fixed by
-the syllabus itself; two schools could therefore reasonably choose two
+**10.** Because which two of the four specialist options a school
+chooses to teach is a local curriculum decision, not fixed by the
+syllabus itself, and candidates are then examined on those same two
+options on both Paper 3 and Paper 4; two schools could therefore reasonably choose two
 entirely different pairs of options while both preparing candidates
 for the same qualification [3].
 

@@ -40,7 +40,7 @@ Treat this as the **single tool** linking all three sub-topics below, not three 
 
 ## Simultaneous linear-quadratic equations (B4)
 
-**Method: substitution, not elimination** — rearrange the linear equation to isolate one variable, substitute into the quadratic, solve the resulting single-variable quadratic.
+**Methods: B4 requires both elimination and substitution.** Substitution is often the most convenient for a linear-quadratic pair — rearrange the linear equation to isolate one variable, substitute into the quadratic, solve the resulting single-variable quadratic. Equating two expressions for the same variable (eliminating it) gives the same quadratic and is equally valid.
 
 The **discriminant of the resulting quadratic** tells you the geometric relationship between the line and the curve:
 
@@ -81,7 +81,8 @@ Step 4: write the solution using "or"
 Solve y = x + 1 and y = x² − x − 1 simultaneously.
 
 ```
-Step 1: substitute the linear equation into the quadratic
+Step 1: eliminate y by equating the two expressions for y
+        (the same as substituting y = x + 1 into the quadratic)
         x + 1 = x^2 - x - 1
 
 Step 2: rearrange to standard form
@@ -111,7 +112,7 @@ Because B3, B4 and B5 are frequently combined within a single exam question -- f
 ## Common mistakes
 
 - Writing an inequality solution the **wrong way round** ("and" instead of "or", or vice versa) — always sketch first.
-- Using **elimination** instead of **substitution** for a linear-quadratic simultaneous pair — substitution is the standard, more reliable method here.
+- Thinking only one method is allowed for a linear-quadratic simultaneous pair — B4 names **both elimination and substitution**; pick whichever is more convenient, but always substitute back to find the matching y-values.
 - Forgetting to **check the discriminant** before assuming real roots exist.
 - Dropping a solution when an inequality involves a fraction or bracket, by treating it exactly like a linear inequality.
 
@@ -119,7 +120,7 @@ Because B3, B4 and B5 are frequently combined within a single exam question -- f
 
 - State what each sign of the discriminant (positive, zero, negative) tells you about a quadratic's roots.
 - Solve x² + 2x − 8 = 0 by completing the square.
-- Solve the simultaneous pair y = 2x and y = x² − 3 by substitution.
+- Solve the simultaneous pair y = 2x and y = x² − 3 by substitution, then check by elimination.
 - Solve x² − 5x + 6 < 0, sketching the graph first.
 - Write the solution set to x² > 9 using both "or" notation and set notation.
 

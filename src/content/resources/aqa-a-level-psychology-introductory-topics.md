@@ -8,43 +8,46 @@ boards: ["aqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["7182"]
 syllabusSeries: "first teaching 2015"
-stage: "AS"
 order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
-description: "Social influence, memory, and attachment -- the full content of Paper 1 Introductory Topics in Psychology for AQA A-Level Psychology (7182)."
+description: "Social influence, memory, attachment, and clinical psychology and mental health -- the full content of Paper 1 Introductory Topics in Psychology for AQA A-Level Psychology (7182)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
-This guide covers **Paper 1 Introductory Topics in Psychology**, one
-of the AS content papers shared by AQA AS Psychology (7181) and
-A-level Psychology (7182), first teaching September 2015. Because this
-content is shared between the two qualifications, a student's AS-year
-study of Paper 1 is not wasted preparation even if they later decide
-not to continue to the full A-level. AS and
-A-level content is assessed together via Papers 1 and 2 in the first
-year of teaching; A-level students go on to add Biopsychology, Issues
-and Debates, and options, assessed via Paper 3.
+This guide covers **Paper 1 Introductory Topics in Psychology** for
+AQA A-level Psychology (7182), specification version 1.4 (first
+teaching September 2025, first A-level exams June 2027). The A-level
+Paper 1 assesses four compulsory topics -- social influence, memory,
+attachment, and clinical psychology and mental health -- in a 2-hour,
+96-mark written exam with four sections of 24 marks each. The rest of
+the A-level is assessed in Paper 2 (approaches in psychology,
+biopsychology and research methods) and Paper 3 (issues and debates,
+plus one topic from each of three option groups).
 
 ## Where this fits in 7182
 
-Paper 1 introduces three core areas of psychology -- how other people
-influence our behaviour, how memory works, and how early relationships
-form -- that establish foundational psychological concepts and
+Paper 1 introduces four core areas of psychology -- how other people
+influence our behaviour, how memory works, how early relationships
+form, and how mental health problems are defined, explained and treated -- that establish foundational psychological concepts and
 research studies referenced throughout the rest of the course. A-level
-students continuing beyond this content into Biopsychology, Issues and
-Debates, and their chosen options in Paper 3 will find the same
+students continuing beyond this content into Biopsychology (Paper 2),
+Issues and Debates, and their chosen options (Paper 3) will find the same
 description-plus-evaluation essay structure recurring, so mastering it
 here pays off across the whole qualification, not just Paper 1.
 
-AS and
-A-level content is assessed together via Papers 1 and 2 in the first
-year of teaching -- a structure worth understanding early, since it
-means Paper 1's foundational content is examined identically whether a
-student ultimately sits the AS or continues to the full A-level.
+AS Psychology (7181) and A-level Psychology (7182) are separate linear
+qualifications with separate exams: students sit all the AS exams at the
+end of the AS course, and all the A-level exams at the end of the A-level
+course. Their first papers share a title but are not interchangeable.
+The AS Paper 1 is 1 hour 30 minutes, 72 marks, three sections, and
+assesses social influence, memory and attachment only; the A-level
+Paper 1 is 2 hours, 96 marks, four sections, and adds clinical
+psychology and mental health (which the AS assesses in its Paper 2
+instead).
 
 ## Syllabus coverage
 
@@ -72,10 +75,20 @@ monotropic theory; Ainsworth's Strange Situation and attachment types;
 cultural variations in attachment; Bowlby's theory of maternal
 deprivation and the effects of institutionalisation; and the influence
 of early attachment on later relationships
+- 1.4 Clinical Psychology and Mental Health — definitions in the field
+of mental health (deviation from ideal mental health, deviation from
+social/cultural norms, failure to function adequately, statistical
+infrequency); the behavioural, emotional and cognitive characteristics
+of phobias, depression and OCD; the behavioural approach to explaining
+and treating phobias (the two-process model; systematic
+desensitisation and flooding); the cognitive approach to explaining and
+treating depression (Beck's negative triad, Ellis's ABC model, CBT);
+and the biological approach to explaining and treating OCD (genetic and
+neural explanations; drug therapy)
 
 ## How to approach it
 
-Each of the three sub-topics is built around named studies and
+Each of the four sub-topics is built around named studies and
 theories, so structure revision around being able to describe a study
 or model accurately and then evaluate it (methodology, real-world
 application, alternative explanations), rather than description alone
@@ -128,6 +141,6 @@ the animal studies and the human theories as two separate revision blocks.
 
 ## Official syllabus
 
-AQA A-level Psychology (7182) specification, first teaching September
-2015 —
+AQA AS and A-level Psychology (7181/7182) specification, version 1.4
+(1 September 2025; for teaching from September 2025) —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification).

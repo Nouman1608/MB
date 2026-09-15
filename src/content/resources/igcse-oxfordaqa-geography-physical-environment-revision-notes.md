@@ -7,12 +7,12 @@ topic: "Component 1 – Living With the Physical Environment"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9230"]
-syllabusSeries: "Version 3.3"
+syllabusSeries: "Version 4.3"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "living-with-physical-environment-9230"
-description: "Condensed recall notes on tectonic hazards, weather hazards, climate change and ecosystems for OxfordAQA International GCSE Geography 9206."
+description: "Condensed recall notes on tectonic hazards, weather hazards, climate change and ecosystems for OxfordAQA International GCSE Geography 9230."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false

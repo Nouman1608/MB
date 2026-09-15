@@ -7,7 +7,7 @@ topic: "Challenges in the Human Environment"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9230"]
-syllabusSeries: "Version 3.3"
+syllabusSeries: "Version 4.3"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -75,6 +75,17 @@ management.
 For each theme, note one genuine similarity and one genuine difference
 — comparison questions expect exactly this structure.
 
+## The required flagship urban regeneration example (3.2.1.2)
+
+Prepare one named flagship urban regeneration project with specific
+recall for each slot:
+
+| Slot | What to have ready |
+|---|---|
+| Why regeneration was needed | The area's problems before the project (e.g. dereliction, deprivation) |
+| Main features | What the project built or changed |
+| Impact | Social, economic and environmental effects, with a judgement |
+
 ## Key term precision
 
 Define, don't gesture at: **urbanisation** (rising proportion of a
@@ -106,6 +117,9 @@ growth.
 theme by theme.
 - Describing a planning response without evaluating how effective it
 actually was.
+- Forgetting the required flagship urban regeneration example, or giving
+its features without the reasons for regeneration and its social,
+economic and environmental impact.
 - Treating natural increase and migration as the same mechanism.
 
 ## Where Section A fits in the wider Topic 2 paper

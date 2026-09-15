@@ -20,8 +20,14 @@ featured: false
 
 This guide covers the **Core** content of **Topic 1 Number**, for
 Cambridge IGCSE Mathematics 0580, 2025–2027 series. Extended-only content
-within this topic (indicated as "Extended content only" in the official
-syllabus) is not covered here.
+is not covered here. That means more than the two subtopics the syllabus
+marks "Extended content only" (C1.17 and C1.18): the Core and Extended
+statements for each subtopic have been compared item by item, and
+Extended-only additions inside subtopics that do have a Core version are
+excluded too — for example reverse percentages (E1.13 item 5), finding
+the bounds of the results of calculations (E1.10 item 2), fractional
+indices (E1.7), recurring decimals to fractions (E1.4) and three-set Venn
+diagrams (E1.2).
 
 ## Where this fits in 0580
 
@@ -50,17 +56,20 @@ including correct order of operations and use of brackets
 - C1.7 Indices I — positive, zero and negative integer indices and the
 rules of indices
 - C1.8 Standard form — the form A × 10ⁿ, converting into and out of
-standard form, and calculating with it
+standard form, and calculating with it (Core candidates calculate with
+standard form only on Paper 3, the calculator paper)
 - C1.9 Estimation — rounding to a specified accuracy, including decimal
 places and significant figures
-- C1.10 Limits of accuracy — upper and lower bounds for rounded data
+- C1.10 Limits of accuracy — upper and lower bounds for data rounded
+to a specified accuracy (Core candidates are not expected to find the
+bounds of the results of calculations)
 - C1.11 Ratio and proportion — simplifying ratios, dividing a quantity in
 a given ratio, proportional reasoning
 - C1.12 Rates — common and other measures of rate, including average
 speed, density and population density
 - C1.13 Percentages — percentage of a quantity, one quantity as a
 percentage of another, percentage increase/decrease, simple and compound
-interest
+interest (reverse percentages are Extended only, E1.13)
 - C1.14 Using a calculator — efficient and accurate calculator use
 - C1.15 Time — calculating with units of time, and the 24-hour and
 12-hour clock
@@ -86,14 +95,15 @@ number of parts (2 + 3 + 4 = 9), then divide:
 If a question instead gives the **difference** between two shares,
 find the value of one part from that difference rather than the total.
 
-**Reverse percentages.** A price is $84 after a 20% increase — this is
-one of the most commonly mismarked calculation types in Core Number.
-The temptation is to subtract 20% from $84, but that finds 20% of the
-*new* price, not the original. The correct method divides by the
-multiplier:
+**Percentage increase.** A price of $70 is increased by 20%. Using a
+multiplier is quicker and less error-prone than finding 20% and adding
+it on:
 ```
-84 / 1.2 = $70
+70 x 1.2 = $84
 ```
+Working backwards from $84 to the original price (a reverse percentage)
+is Extended-only content (E1.13), so it is not examined on the Core
+papers.
 
 **Standard form.** After multiplying or dividing two numbers in standard
 form, check the mantissa is still between 1 and 10, and renormalise if
@@ -106,12 +116,12 @@ that interval either side:
 ```
 4.55 <= mass < 4.65
 ```
-For combined calculations with bounds, addition and multiplication use
-the same pairing of bounds throughout (upper with upper for a maximum,
-lower with lower for a minimum), but **subtraction and division cross
-over** — a maximum of a − b uses the upper bound of a with the *lower*
-bound of b, since subtracting the smallest possible b gives the largest
-possible result.
+The lower bound is 4.55 kg and the upper bound is 4.65 kg. At Core, the
+syllabus limits this to giving the bounds of the rounded value itself:
+"Candidates are not expected to find the bounds of the results of
+calculations which have used data rounded to a specified accuracy"
+(C1.10). Combining bounds through a calculation is Extended content
+(E1.10).
 
 ## How to approach it
 
@@ -122,20 +132,19 @@ students lose marks are standard form manipulation (particularly
 negative indices) and multi-step rate/ratio word problems where the
 question buries the actual calculation inside real-world context. Working
 through several worded rate and ratio questions, and practising standard
-form arithmetic without a calculator, closes most of the gap between
-Core and Extended-level fluency in this topic.
+form calculations with a calculator (Core candidates meet them only on
+Paper 3, the calculator paper), closes most of the gap in this topic.
 
 ## Self-test
 
 1. Find the HCF and LCM of 24 and 36 using prime factors.
 2. Share $200 in the ratio 3 : 5.
-3. A price is $84 after a 20% increase. What was the price before the
-increase?
+3. A price of $70 is increased by 20%. Find the new price using a
+multiplier.
 4. State the bounds for a mass of 4.6 kg measured to 1 decimal place.
 
 **Answers:** 1. HCF = 12, LCM = 72 (see the worked example above). 2. 8
-parts of $25 each, giving $75 and $125. 3. 84 ÷ 1.2 = **$70** — not
-84 × 0.8. 4. 4.55 ≤ mass < 4.65.
+parts of $25 each, giving $75 and $125. 3. 70 × 1.2 = **$84**. 4. 4.55 ≤ mass < 4.65.
 
 For condensed recall notes on this topic, see the
 [Number revision notes](/resources/igcse-mathematics-number-revision-notes/);

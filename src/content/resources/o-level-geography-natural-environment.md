@@ -38,20 +38,29 @@ and are affected by these natural systems.
 ENVIRONMENT**
 
 - 2.1 Earthquakes and Volcanoes — plate tectonics, the causes and
-  effects of earthquakes and volcanic eruptions, and how their impact
-  is managed
+  effects of earthquakes and volcanic eruptions, the understanding
+  that volcanoes present hazards and offer opportunities for people,
+  and how their impact is reduced
 - 2.2 Rivers — the drainage basin system, river processes (erosion,
   transportation, deposition), landforms produced at different
-  stages of a river's course, and river flooding and its management
-- 2.3 Coasts — coastal processes (erosion, transportation,
-  deposition), landforms of coastal erosion and deposition, and coral
-  reefs and mangrove swamps
-- 2.4 Weather — the measurement of weather elements and the
-  characteristics of weather associated with high- and low-pressure
-  systems
-- 2.5 Climate and Natural Vegetation — the characteristics of tropical
-  rainforest and hot desert climates and their associated natural
-  vegetation, and the impact of human activity on these ecosystems
+  stages of a river's course, the hazards rivers present and the
+  opportunities of living on a flood plain or a delta or near a
+  river, and the management of river flooding
+- 2.3 Coasts — the work of the sea and wind in eroding, transporting
+  and depositing; the landforms cliffs, wave-cut platforms, caves,
+  arches, stacks, stumps, bay and headland coastlines, beaches, spits
+  and coastal sand dunes; coral reefs and mangrove swamps; the hazards
+  coasts present (including coastal erosion and tropical storms) and
+  the opportunities they offer; and the management of coastal erosion
+- 2.4 Weather — how weather data are collected (the Stevenson Screen
+  and the named instruments), calculations using readings from weather
+  instruments, and using and interpreting graphs and other diagrams
+  showing weather and climate data
+- 2.5 Climate and Natural Vegetation — the characteristics of two
+  climates, equatorial and hot desert, the factors influencing them
+  and their climatic graphs; the characteristics of tropical
+  rainforest and hot desert ecosystems; and the causes and effects of
+  deforestation of tropical rainforest
 
 ## How to approach it
 
@@ -81,7 +90,10 @@ released suddenly along a fault, and volcanoes occur where magma
 reaches the surface, typically at converging or diverging boundaries.
 Effects range from ground shaking and tsunamis to ash fall and lava
 flows, and management ranges from building codes and early-warning
-systems to evacuation planning.
+systems to evacuation planning. The syllabus also requires you to show
+that volcanoes offer opportunities as well as hazards: for example,
+fertile soils weathered from volcanic material, geothermal energy, and
+tourism.
 
 ## The river system, from source to mouth
 
@@ -99,29 +111,85 @@ as floodplains and deltas.
 | Middle | Lateral erosion | Meander |
 | Lower | Deposition | Floodplain, delta |
 
-River flooding is managed through both hard engineering (dams,
-levees, channel straightening) and soft engineering (floodplain
-zoning, afforestation upstream) -- a distinction examiners expect
-candidates to make explicitly.
+Rivers present hazards (including flooding and river erosion) but
+also offer opportunities, and the syllabus names the opportunities of
+living on a flood plain or a delta or near a river: for example,
+fertile alluvial soils for farming, flat land for building, water
+supply, and transport routes. River flooding is managed through both
+hard engineering (dams, levees, channel straightening) and soft
+engineering (floodplain zoning, afforestation upstream) -- a
+distinction examiners expect candidates to make explicitly.
 
 ## Coastal processes and landforms
 
-Waves erode coastlines through hydraulic action, abrasion, attrition
-and solution, producing landforms such as headlands, bays, cliffs,
-wave-cut platforms, caves, arches and stacks where softer rock erodes
-faster than harder rock. Where sediment is deposited rather than
-eroded, beaches and spits form. Coral reefs and mangrove swamps are
-distinct coastal ecosystems in their own right, valued for
-biodiversity and for the natural coastal protection they provide
-against erosion and storm surges.
+The syllabus covers the work of the sea and the wind in eroding,
+transporting and depositing. Waves erode coastlines through hydraulic
+action, abrasion, attrition and solution. The erosional landforms
+form in three different ways, so attach each mechanism to the
+landforms it explains:
 
-## Weather versus climate
+- **Bay and headland coastlines** form by differential erosion where
+  bands of softer and harder rock meet the sea: the softer rock is
+  cut back into bays, and the harder rock is left projecting as
+  headlands.
+- **Cliffs and wave-cut platforms** form as waves cut a notch at the
+  base of a cliff between high and low tide; the overhanging rock
+  above collapses, the cliff retreats inland, and the gently sloping
+  rock surface left behind is exposed at low tide as a wave-cut
+  platform.
+- **Caves, arches, stacks and stumps** form on a single resistant
+  headland, where waves attack lines of weakness such as joints and
+  faults: a cave is enlarged until it cuts through the headland as an
+  arch; the arch roof collapses to leave an isolated stack, which is
+  eroded down to a stump.
+
+Waves approaching the shore at an angle move sediment along the coast
+by **longshore drift**. Where sediment is deposited, beaches form;
+where longshore drift carries material past a change in the direction
+of the coastline, a spit builds out into open water. The wind blows
+dry sand inland from the beach to form **coastal sand dunes**. Coral
+reefs and mangrove swamps are distinct coastal ecosystems in their own
+right, valued for biodiversity and for the natural coastal protection
+they provide against erosion and storm surges. Coasts present hazards
+(including coastal erosion and tropical storms) but also offer
+opportunities for people, such as fishing, ports and trade, and
+tourism; the required case study covers both, with their management.
+
+## Weather: collecting and using data
 
 Weather is the day-to-day, short-term state of the atmosphere;
-climate is the long-term average pattern over decades. High-pressure
-systems are generally associated with settled, dry, clear conditions,
-while low-pressure systems bring cloud, rain and stronger winds --
-knowing which system produces which weather is directly examinable.
+climate is the long-term average pattern over decades. Sub-topic 2.4
+is about how weather data are collected and used, not about pressure
+systems. You need to describe and explain the characteristics, siting
+and use of a **Stevenson Screen** (a white, louvred box raised on legs
+and sited in an open space away from buildings and trees, so that the
+thermometers inside record the temperature of freely circulating air
+in the shade), and to know the named instruments: rain gauge,
+maximum-minimum thermometer, wet-and-dry bulb thermometer
+(hygrometer), sunshine recorder, barometer, anemometer and wind vane,
+along with simple digital instruments and observations of the types
+and amounts of cloud. You must also make calculations using
+information from weather instruments (for example, a daily
+temperature range as maximum minus minimum, or a mean or total
+rainfall), and use and interpret graphs and other diagrams showing
+weather and climate data.
+
+## Climate: equatorial and hot desert
+
+The syllabus names the two climates as **equatorial** and **hot
+desert**; tropical rainforest and hot desert are the names of the two
+ecosystems. Describe each climate by temperature (mean temperature of
+the hottest month, mean temperature of the coolest month, annual
+range) and precipitation (amount and seasonal distribution, including
+convection and relief rainfall), and read both from climatic graphs.
+Explain the characteristics using the named factors: latitude,
+pressure systems, winds, distance from the sea, altitude and ocean
+currents. For example, equatorial areas lie at low latitude under
+low pressure, where strongly heated air rises and gives convection
+rainfall throughout the year with a small annual temperature range;
+hot deserts lie under subtropical high pressure, where sinking air
+gives very low rainfall, and dryness is increased by distance from the
+sea or by cold ocean currents offshore.
 
 ## Worked example
 
@@ -158,6 +226,12 @@ competition for light, versus water scarcity and heat).
   management.
 - Name and explain the formation of at least two coastal erosional
   and two coastal depositional landforms.
-- Contrast high-pressure and low-pressure weather characteristics.
-- Link tropical rainforest and hot desert climates to their natural
-  vegetation and to human impacts on each.
+- Describe the characteristics and siting of a Stevenson Screen,
+  name what each weather instrument measures, and calculate from
+  instrument readings.
+- Describe equatorial and hot desert climates from climatic graphs
+  and explain them using the named factors.
+- Link the equatorial and hot desert climates to the tropical
+  rainforest and hot desert ecosystems and to human impacts on each.
+- For volcanoes, rivers and coasts, give both hazards and
+  opportunities for people.

@@ -7,7 +7,7 @@ topic: "Challenges in the Human Environment"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9230"]
-syllabusSeries: "Version 3.3"
+syllabusSeries: "Version 4.3"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -22,7 +22,7 @@ featured: false
 This guide covers **Section A: Urban Issues and Challenges**, the first
 of three examined sections within Topic 2 Challenges in the Human
 Environment, OxfordAQA International GCSE Geography (9230), Version
-3.3, for International GCSE exams May/June 2020 onwards.
+4.3, for International GCSE exams May/June 2020 onwards.
 
 ## Where this fits in 9230
 
@@ -58,7 +58,10 @@ environmental opportunities (employment, recreation, urban greening);
 and challenges including urban deprivation and housing/education/
 health/employment inequalities, dereliction, brownfield/greenfield
 development, urban sprawl, food supply, traffic congestion, and waste,
-water and energy management
+water and energy management; and an example of a flagship urban
+regeneration project showing the reasons why the area needed
+regeneration, the main features of the project, and its social,
+economic and environmental impact
 
 ## How to approach it
 
@@ -75,6 +78,12 @@ as two separate profiles: for each of the shared themes (opportunities,
 challenges, migration's role in growth), note one similarity and one
 difference between the two cities, since questions may ask candidates to
 compare world cities rather than describe just one.
+
+3.2.1.2 also requires **an example of a flagship urban regeneration
+project**. Prepare one named project with three things ready: why the
+area needed regeneration (for example dereliction or deprivation), the
+main features of the project, and its social, economic and
+environmental impact — judged, not just listed.
 
 Across both sub-topics, keep a clear distinction between *causes* of
 urban growth (natural increase and migration) and its *consequences*
@@ -143,6 +152,9 @@ themes, not two separate profiles.
 - Keep causes of urban growth and its consequences clearly distinguished.
 - Practise evaluating (not just describing) a named urban planning
 example.
+- Prepare a named flagship urban regeneration project: why the area
+needed regeneration, its main features, and its social, economic and
+environmental impact.
 
 ## Related resources
 
@@ -152,4 +164,4 @@ example.
 ## Official syllabus
 
 OxfordAQA International GCSE Geography (9230) specification, Version
-3.3 — [oxfordaqaexams.org.uk/9230](https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-geography-specification.pdf).
+4.3 — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/02/oxfordaqa-international-gcse-geography-specification.pdf).

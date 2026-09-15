@@ -107,9 +107,11 @@ Because population, migration and settlement dynamics build on each other, the s
 preparation practises questions that deliberately span two of the three topics — for instance, a
 scenario where a country's changing population structure (Topic 4) drives internal migration
 (Topic 5), which in turn reshapes a growing city's structure (Topic 6). Practising this kind of linked
-reasoning, rather than only revising each topic in isolation, prepares candidates for Section B and C
-questions that increasingly ask candidates to trace a chain of cause and consequence across the whole
-paper rather than testing a single topic in a sealed compartment.
+reasoning, rather than only revising each topic in isolation, prepares candidates for the paper's two
+sections: the syllabus notes that, because of the strong interrelationships between the three topics,
+questions spanning two or more topics may be set in both Section A and Section B, so a single question
+can ask you to trace a chain of cause and consequence rather than testing one topic in a sealed
+compartment.
 
 ## Where marks are usually lost
 

@@ -18,9 +18,9 @@ publishedDate: 2026-09-05
 featured: false
 ---
 
-Section G runs across both Paper 1 (pure) and Paper 2 (pure and
-mechanics/statistics), so fluency here underpins marks across the
-whole exam, not just one paper. These notes are condensed for the
+Section G is Paper 1 content, and Papers 2 (adding mechanics) and 3
+(adding statistics) can each assess any Paper 1 content, so fluency
+here underpins marks across the whole exam, not just one paper. These notes are condensed for the
 final weeks — build understanding first from full teaching material.
 
 ## G1 — What a derivative actually is

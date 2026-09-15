@@ -7,7 +7,7 @@ topic: "Unit 2 – Human Geography 1"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9635"]
-syllabusSeries: "Version 2.4"
+syllabusSeries: "Version 3.2"
 order: 2
 stage: "AS"
 syllabusTopics:
@@ -100,13 +100,13 @@ Distinguishing "globalisation" (the process and its drivers) from "global system
 3. Name one specific mechanism through which powerful states can shape global systems.
 4. What distinguishes 3.2.1.1 from 3.2.1.2?
 5. Why should an answer on interdependence avoid being one-sided?
-6. What content does the section following this one (International Trade and Access to Markets) cover?
+6. What content does the next sub-part, 3.2.1.3 International Trade and Access to Markets, cover?
 
-**Answers:** 1. Capital, labour, products, services, information. 2. Promote: investment/technology transfer can drive growth. Cause inequality: unequal flows can concentrate benefits with already-powerful actors, worsening disparities elsewhere. 3. Any valid example, e.g. negotiating trade agreements or setting terms within an international financial institution. 4. 3.2.1.1 covers what globalisation is and what drives it (the dimensions and factors); 3.2.1.2 covers what results from it (interdependence, its benefits and costs). 5. Because the specification frames interdependence as genuinely double-edged — capable of promoting stability and growth, but also inequality and conflict — so a strong answer shows both sides for the same example. 6. The role of transnational corporations and how trade agreements shape access to markets.
+**Answers:** 1. Capital, labour, products, services, information. 2. Promote: investment/technology transfer can drive growth. Cause inequality: unequal flows can concentrate benefits with already-powerful actors, worsening disparities elsewhere. 3. Any valid example, e.g. negotiating trade agreements or setting terms within an international financial institution. 4. 3.2.1.1 covers what globalisation is and what drives it (the dimensions and factors); 3.2.1.2 covers what results from it (interdependence, its benefits and costs). 5. Because the specification frames interdependence as genuinely double-edged — capable of promoting stability and growth, but also inequality and conflict — so a strong answer shows both sides for the same example. 6. Trends in international trade and investment, trading relationships between economies at different levels of development, differential access to markets, transnational corporations (with a specified TNC), and world trade in at least one food commodity or manufactured product.
 
 ## Where this fits in the wider unit
 
-This section (Global Systems and Governance) is the first of three parts within Unit 2's opening section, followed by International Trade and Access to Markets, which covers transnational corporations specifically. Treat globalisation and interdependence, covered here, as the conceptual foundation that the trade-focused content builds on -- the flows and power relations introduced here recur when that later content examines how trade agreements and TNCs shape access to markets.
+Global Systems and Governance is itself Unit 2's opening section (Section A; Section B is Resource security), and it has eight sub-parts: 3.2.1.1 Globalisation and 3.2.1.2 Global systems (covered in these notes), then 3.2.1.3 International trade and access to markets, 3.2.1.4 Global governance, 3.2.1.5 The 'global commons', 3.2.1.6 The oceans as a global common, 3.2.1.7 Globalisation critique and 3.2.1.8 Quantitative and qualitative skills. These notes do not cover 3.2.1.3 to 3.2.1.8, which are examined in the same section. Treat globalisation and interdependence, covered here, as the conceptual foundation that the trade-focused content builds on -- the flows and power relations introduced here recur when that later content examines how trade agreements and TNCs shape access to markets.
 
 ## Related resources
 
@@ -115,5 +115,5 @@ This section (Global Systems and Governance) is the first of three parts within 
 
 ## Official syllabus
 
-OxfordAQA International AS and A-level Geography (9635) specification, Version 2.4 —
-[oxfordaqa.com/9635](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-geography-specification.pdf).
+OxfordAQA International AS and A-level Geography (9635) specification, Version 3.2 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-a-level-geography-specification.pdf).

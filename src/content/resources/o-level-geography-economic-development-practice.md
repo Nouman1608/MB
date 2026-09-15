@@ -163,7 +163,7 @@ spread demand more evenly [2].
 
 ## A note on case-study preparation
 
-Six of Theme 3's seven subtopics require a named, specific case study,
+All seven of Theme 3's subtopics require a named, specific case study (eight in total, as 3.2 requires two),
 and questions 7 and 9 above are written to be answered with whichever
 real example you have studied — substitute your own transnational
 corporation or industrial zone into the same question structure rather
@@ -173,4 +173,4 @@ transnational corporation can supply detail for both development's
 global links and industry's location factors, for instance), prioritise
 depth over breadth: learn three or four examples with genuine
 place-specific facts you can write under exam conditions, rather than
-seven shallow ones you can only describe in general terms.
+eight shallow ones you can only describe in general terms.

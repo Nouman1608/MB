@@ -3313,13 +3313,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '1.4', name: 'The Social Approach', slug: 'social-approach-9990' },
       ] },
       { number: 2, name: 'Paper 2 – Research Methods', slug: 'paper-2-research-methods-9990', stage: 'AS', subtopics: [] },
-      { number: 3, name: 'Paper 3 – Specialist Options 1', slug: 'paper-3-specialist-options-1-9990', stage: 'A', subtopics: [
+      { number: 3, name: 'Paper 3 – Specialist Options: Approaches, Issues and Debates', slug: 'paper-3-specialist-options-1-9990', stage: 'A', subtopics: [
         { number: '3.1', name: 'Clinical Psychology', slug: 'clinical-psychology-9990' },
         { number: '3.2', name: 'Consumer Psychology', slug: 'consumer-psychology-9990' },
         { number: '3.3', name: 'Health Psychology', slug: 'health-psychology-9990' },
         { number: '3.4', name: 'Organisational Psychology', slug: 'organisational-psychology-9990' },
       ] },
-      { number: 4, name: 'Paper 4 – Specialist Options 2', slug: 'paper-4-specialist-options-2-9990', stage: 'A', subtopics: [
+      { number: 4, name: 'Paper 4 – Specialist Options: Application and Research Methods', slug: 'paper-4-specialist-options-2-9990', stage: 'A', subtopics: [
         { number: '4.1', name: 'Clinical Psychology', slug: 'clinical-psychology-paper4-9990' },
         { number: '4.2', name: 'Consumer Psychology', slug: 'consumer-psychology-paper4-9990' },
         { number: '4.3', name: 'Health Psychology', slug: 'health-psychology-paper4-9990' },
@@ -3430,12 +3430,13 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     tiered: false,
     source: 'AQA — official specification pages',
     sourceUrl: 'https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification', verifiedDate: '2026-08-19',
-    notes: "AS content is assessed via Paper 1 and Paper 2. A-level content adds Biopsychology and Issues and Debates plus one option from each of three groups, all assessed via Paper 3 alongside the AS content in Papers 1-2. AS (7181) and A-level share the first year of teaching. Paper 1 (1.1-1.3) content cross-checked against the full specification PDF (Version 1.4, 1 September 2025), fetched and verified 2026-08-21. Sub-topic 1.2 (Memory)'s detailed content -- the multi-store model, types of long-term memory, the working memory model, explanations for forgetting, and eyewitness testimony -- verified directly against the same PDF, fetched 2026-09-02.",
+    notes: "A-level (7182) topics as set out in the specification Version 1.4 (1 September 2025; teaching from September 2025, A-level exams from June 2027). AS (7181) and A-level are separate linear qualifications with separate papers: the A-level Paper 1 assesses Social influence, Memory, Attachment and Clinical Psychology and Mental Health (2 hours, 96 marks, four sections); Paper 2 assesses Approaches, Biopsychology and Research methods; Paper 3 assesses Issues and debates plus one option from each of three groups. Sub-topic 1.2 (Memory) in Version 1.4 has four bullets -- the multi-store model, the working memory model, explanations for forgetting, and eyewitness testimony; types of long-term memory is no longer specification content. Re-verified against the Version 1.4 PDF on 2026-09-15 (D-228).",
     topics: [
-      { number: 1, name: 'Paper 1 – Introductory Topics in Psychology', slug: 'paper-1-introductory-topics-7182', stage: 'AS', subtopics: [
+      { number: 1, name: 'Paper 1 – Introductory Topics in Psychology', slug: 'paper-1-introductory-topics-7182', subtopics: [
         { number: '1.1', name: 'Social Influence', slug: 'social-influence-7182' },
         { number: '1.2', name: 'Memory', slug: 'memory-7182' },
         { number: '1.3', name: 'Attachment', slug: 'attachment-7182' },
+        { number: '1.4', name: 'Clinical Psychology and Mental Health', slug: 'clinical-psychology-and-mental-health-7182' },
       ] },
       { number: 2, name: 'Paper 2 – Psychology in Context', slug: 'paper-2-psychology-in-context-7182', subtopics: [
         { number: '2.1', name: 'Approaches in Psychology', slug: 'approaches-in-psychology-7182' },

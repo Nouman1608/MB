@@ -29,7 +29,9 @@ assessed across three written papers, with the same tier throughout.
 ## Where this fits in 8300
 
 Number carries roughly 25% of Foundation tier marks and 15% of Higher
-tier marks -- the single largest weighting at Foundation. Because all
+tier marks -- joint largest at Foundation, level with ratio, proportion
+and rates of change (also 25%), the two together accounting for half
+of the Foundation marks. Because all
 content can be assessed on any of the three papers, number skills such
 as place value, ordering and rounding underpin questions across every
 other topic area, from algebra to statistics.
@@ -47,7 +49,15 @@ listing strategies
 - 3.1.2 Fractions, decimals and percentages — converting between
 fractions, decimals and percentages, and calculating with each
 - 3.1.3 Measures and accuracy — using standard units of measure and
-related concepts including estimation and bounds
+related concepts including estimation, error intervals and (Higher
+tier only) upper and lower bounds
+
+Four techniques in this topic sit in the specification's Higher content
+only column and are labelled **(Higher tier)** below: calculating with
+fractional indices (N7), calculating exactly with surds and
+rationalising denominators (N8), changing recurring decimals into
+fractions (N10), and upper and lower bounds (N16). Everything else here
+is Foundation content, assessed at both tiers.
 
 ## How to approach it
 
@@ -98,17 +108,17 @@ multiplier for a 15% decrease = 0.85
 
 For **reverse percentage** questions, divide by the multiplier rather than multiplying. Compound interest uses repeated multipliers: value after n years = P x (multiplier)^n.
 
-**Converting a recurring decimal to a fraction** uses a standard algebraic technique. To convert 0.454545... (written 0.4̇5̇) to a fraction: let x = 0.454545..., so 100x = 45.454545... (multiplying by 100 shifts the decimal point past one full repeating block, since the block has two digits). Subtracting the first equation from the second eliminates the repeating part: 100x − x = 45.4545... − 0.4545..., giving 99x = 45, so x = 45/99, which simplifies to **5/11**. The power of 10 used to multiply by must match the length of the repeating block — a two-digit block needs ×100, a one-digit block needs ×10 — or the subtraction will not cancel the recurring part correctly.
+**Converting a recurring decimal to a fraction (Higher tier, N10)** uses a standard algebraic technique. To convert 0.454545... (written 0.4̇5̇) to a fraction: let x = 0.454545..., so 100x = 45.454545... (multiplying by 100 shifts the decimal point past one full repeating block, since the block has two digits). Subtracting the first equation from the second eliminates the repeating part: 100x − x = 45.4545... − 0.4545..., giving 99x = 45, so x = 45/99, which simplifies to **5/11**. The power of 10 used to multiply by must match the length of the repeating block — a two-digit block needs ×100, a one-digit block needs ×10 — or the subtraction will not cancel the recurring part correctly.
 
 ## Indices, standard form and surds
 
-Index laws: a^m x a^n = a^(m+n), a^m / a^n = a^(m-n), (a^m)^n = a^(mn), a^0 = 1, a^-n = 1/a^n, and a^(1/n) is the nth root.
+Index laws: a^m x a^n = a^(m+n), a^m / a^n = a^(m-n), (a^m)^n = a^(mn), a^0 = 1 and a^-n = 1/a^n (calculating with roots and integer indices is Foundation, N7). **(Higher tier, N7)** a^(1/n) is the nth root, and calculating with fractional indices is Higher only.
 
-Standard form is A x 10^n where 1 <= A < 10. Surds are exact and should be simplified and rationalised rather than evaluated as decimals.
+Standard form is A x 10^n where 1 <= A < 10. **(Higher tier, N8)** Surds are exact and should be simplified and rationalised rather than evaluated as decimals.
 
 ## Rounding, bounds and estimation
 
-Estimate by rounding each value to 1 significant figure. **Bounds** matter for accuracy questions: a length given as 8.4 cm to the nearest 0.1 cm has a lower bound of 8.35 and an upper bound of 8.45. When dividing, the largest result comes from the largest numerator with the smallest denominator.
+Estimate by rounding each value to 1 significant figure. A length given as 8.4 cm to the nearest 0.1 cm lies in the **error interval** 8.35 <= length < 8.45, which is Foundation content (N15). **(Higher tier, N16)** Describing 8.35 and 8.45 as the lower and upper **bounds** and using bounds in a calculation is Higher only: when dividing, the largest result comes from the largest numerator with the smallest denominator.
 
 ## Worked example
 
@@ -124,14 +134,15 @@ Check by working forwards: 80 x 0.85 = 68. This check catches the most common er
 
 ## Common mistakes
 
-Multiplying instead of dividing in reverse percentage questions. Treating 1 as a prime number. Adding fractions by adding numerators and denominators separately. Writing standard form with A outside the range 1 to 10, such as 12 x 10^3. Rounding partway through a calculation instead of at the end. Taking the upper bound of a division as upper/upper rather than upper/lower.
+Multiplying instead of dividing in reverse percentage questions. Treating 1 as a prime number. Adding fractions by adding numerators and denominators separately. Writing standard form with A outside the range 1 to 10, such as 12 x 10^3. Rounding partway through a calculation instead of at the end. (Higher tier) Taking the upper bound of a division as upper/upper rather than upper/lower.
 
 ## Quick revision checklist
 
 - Write any integer as a product of primes and use it to find HCF and LCM.
 - Convert confidently between fractions, decimals and percentages.
 - Use multipliers for increase, decrease, reverse percentage and compound interest.
-- Apply all index laws, including negative and fractional powers.
+- Apply the index laws, including negative powers; (Higher tier) fractional powers.
 - Write and calculate with numbers in standard form.
-- Simplify and rationalise surds.
-- Find upper and lower bounds and use them correctly in a calculation.
+- (Higher tier) Simplify and rationalise surds.
+- (Higher tier) Convert recurring decimals to fractions.
+- Write error intervals; (Higher tier) find upper and lower bounds and use them correctly in a calculation.

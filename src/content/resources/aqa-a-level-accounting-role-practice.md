@@ -37,7 +37,7 @@ Related: [The Role of the Accountant revision notes](/resources/aqa-a-level-acco
 
 **3.** Explain how the following concepts affect the preparation of financial statements: materiality, realisation, historic cost. **[6]**
 
-**4.** Explain **three** ethical responsibilities of a professional accountant, and describe the consequences of failing to meet them. **[8]**
+**4.** Explain **four** ethical responsibilities of a professional accountant, and describe the consequences of failing to meet them. **[8]**
 
 **5.** Explain **four** limitations of financial statements as a basis for decision making. **[8]**
 
@@ -49,11 +49,11 @@ Related: [The Role of the Accountant revision notes](/resources/aqa-a-level-acco
 
 **8.** Explain how shareholders' and lenders' interests can conflict over the treatment of profit, and why this matters for the accounts prepared. **[4]**
 
-**9.** A business pays $12,000 rent on 1 October for the year ahead. Its year end is 31 December.
+**9.** A business pays £12,000 rent on 1 October for the year ahead. Its year end is 31 December.
 
 **(a)** Calculate the rent expense to charge to the income statement for the year. **[2]**
 **(b)** Calculate the prepayment to show in the statement of financial position, and state which type of asset it is. **[2]**
-**(c)** Explain which accounting concept requires this treatment rather than charging the full $12,000 as an expense. **[2]**
+**(c)** Explain which accounting concept requires this treatment rather than charging the full £12,000 as an expense. **[2]**
 
 ---
 
@@ -67,9 +67,9 @@ Related: [The Role of the Accountant revision notes](/resources/aqa-a-level-acco
 **Realisation** — revenue is recognised when the **goods or services have been delivered and the risks and rewards transferred**, not when the order is placed or the cash received [1] [1].
 **Historic cost** — assets are recorded at their **original purchase cost** rather than current market value [1], which is objective and verifiable but may understate their present worth [1].
 
-**4.** Any three, with consequences: **Integrity** — being straightforward and honest, refusing to be associated with misleading information [1]; failure means **fraudulent accounts, misled investors and possible criminal prosecution** [1]. **Objectivity** — not allowing bias, conflict of interest or undue influence to override judgement [1]; failure means **decisions taken on distorted figures and loss of public trust in the profession** [1]. **Professional competence and due care** — keeping knowledge current and applying it diligently [1]; failure means **errors in the accounts, negligence claims and loss of professional membership** [1]. **Confidentiality** — not disclosing client information without authority [1]; failure risks **legal action and reputational damage to the firm** [1].
+**4.** Any four, 2 marks each, with consequences: **Integrity** — being straightforward and honest, refusing to be associated with misleading information [1]; failure means **fraudulent accounts, misled investors and possible criminal prosecution** [1]. **Objectivity** — not allowing bias, conflict of interest or undue influence to override judgement [1]; failure means **decisions taken on distorted figures and loss of public trust in the profession** [1]. **Professional competence and due care** — keeping knowledge current and applying it diligently [1]; failure means **errors in the accounts, negligence claims and loss of professional membership** [1]. **Confidentiality** — not disclosing client information without authority [1]; failure risks **legal action and reputational damage to the firm** [1]. **Professional behaviour** — complying with relevant laws and regulations and avoiding conduct that discredits the profession [1]; failure means **disciplinary action by the professional body and damage to the profession's reputation** [1].
 
-**5.** Any four, 2 marks each: they are **historic**, describing the past rather than predicting the future, so may be a poor guide to prospects [1] [1]. They **omit non-financial factors** such as staff quality, brand strength and customer satisfaction, which often drive future performance [1] [1]. They rely on **subjective judgements and estimates**, such as depreciation rates and provisions for bad debts, so two businesses can report different profits from identical trading [1] [1]. They are prepared at a **single point in time**, which may not be typical — for example a seasonal business at its quietest [1] [1]. **Window dressing** may present the position more favourably than is representative [1] [1].
+**5.** Any four, 2 marks each: they are **historic**, describing the past rather than predicting the future, so may be a poor guide to prospects [1] [1]. They **omit non-financial factors** such as staff quality, brand strength and customer satisfaction, which often drive future performance [1] [1]. They rely on **subjective judgements and estimates**, such as depreciation rates and allowances for irrecoverable debts, so two businesses can report different profits from identical trading [1] [1]. They are prepared at a **single point in time**, which may not be typical — for example a seasonal business at its quietest [1] [1]. **Window dressing** may present the position more favourably than is representative [1] [1].
 
 **6. Arguments that they are of limited use:** **assets bought years ago are shown at cost, which is far below their current value**, so the statement of financial position understates the true worth of the business [1]; **depreciation is charged on understated cost**, so the charge is too low and **profit is overstated** [1]; **comparing this year's revenue with last year's** is misleading, since part of any increase is simply inflation rather than real growth [1]; distributing the overstated profit as dividends can leave the business **unable to replace its assets at current prices** [1].
 **Arguments that they remain useful:** historic cost is **objective and verifiable**, based on documented transactions rather than opinion [1]; current value accounting introduces **subjective valuations that are open to manipulation and expensive to obtain** [1]; the statements are still **comparable with those of other businesses using the same convention** [1]; users can **adjust for inflation themselves** if the rate is known [1].
@@ -79,9 +79,9 @@ Related: [The Role of the Accountant revision notes](/resources/aqa-a-level-acco
 
 **8.** Shareholders may want **profit paid out now as dividends**, since that is their direct return [1], while lenders prefer **profit retained in the business**, strengthening the statement of financial position and improving the odds that the loan will be repaid [1]. This matters because a single set of accounts must serve both users, and how a business chooses to use its profit (distribute versus retain) can favour one group over the other even though the reported profit figure is identical [2].
 
-**9. (a)** Only 3 months of the year (October–December) fall within the year of payment: 12,000 × 3/12 = **$3,000** [2].
-**(b)** The remaining 9 months are paid in advance: 12,000 × 9/12 = **$9,000**, shown as a **prepayment**, which is a **current asset** [2].
-**(c)** The **matching (accruals) concept** requires that only the expense relating to the period actually covered by the accounts is charged to the income statement, regardless of when the cash was paid — charging the full $12,000 would understate profit for the year and overstate it for the following year [2].
+**9. (a)** Only 3 months of the year (October–December) fall within the year of payment: 12,000 × 3/12 = **£3,000** [2].
+**(b)** The remaining 9 months are paid in advance: 12,000 × 9/12 = **£9,000**, shown as a **prepayment**, which is a **current asset** [2].
+**(c)** The **matching (accruals) concept** requires that only the expense relating to the period actually covered by the accounts is charged to the income statement, regardless of when the cash was paid — charging the full £12,000 would understate profit for the year and overstate it for the following year [2].
 
 ---
 

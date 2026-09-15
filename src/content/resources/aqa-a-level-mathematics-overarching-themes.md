@@ -19,8 +19,7 @@ featured: false
 ---
 
 This guide covers **Overarching themes**, which sit outside the
-lettered content sections (A: Proof through S: Statistical
-distributions) of AQA A-level Mathematics (7357), first teaching
+lettered content sections (A: Proof through S: Moments) of AQA A-level Mathematics (7357), first teaching
 September 2017. The subject content is set by the Department for
 Education and is common across all exam boards offering A-level
 Mathematics -- these three themes are not optional extras but skills

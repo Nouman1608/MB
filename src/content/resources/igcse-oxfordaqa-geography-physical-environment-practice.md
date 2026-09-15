@@ -7,7 +7,7 @@ topic: "Component 1 – Living With the Physical Environment"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9230"]
-syllabusSeries: "Version 3.3"
+syllabusSeries: "Version 4.3"
 order: 1
 syllabusTopics:
   - qualification: "igcse"

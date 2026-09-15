@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "a-level"
     topic: "statistics-ocr-alevel-maths"
-description: "Statistical sampling, data presentation and interpretation, probability, statistical distributions, and statistical hypothesis testing -- the full content of the Statistics strand for OCR A Level Mathematics A (H240)."
+description: "Statistical sampling, data presentation and interpretation (including bivariate data and correlation), probability, statistical distributions, and statistical hypothesis testing (binomial, normal mean and correlation tests) -- the full content of the Statistics strand for OCR A Level Mathematics A (H240)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -39,7 +39,13 @@ statistics).
   understanding measures of central tendency and spread, and
   interpreting real, often large, data sets, including the
   specification's pre-release large data set that some questions are
-  based on directly.
+  based on directly; and bivariate data (2.02c-e) -- interpreting
+  scatter diagrams and regression lines, including recognising
+  scatter diagrams that include distinct sections of the population,
+  the informal interpretation of correlation, and understanding that
+  correlation does not imply causation. You may be asked to add to a
+  scatter diagram but not to draw a complete one, and calculating the
+  equation of a regression line is excluded.
 - **Probability** -- calculating probabilities using the laws of
   probability, including conditional probability, mutual exclusivity
   and independence, and applying probability models to real
@@ -49,10 +55,35 @@ statistics).
   probabilities, including recognising when each distribution is an
   appropriate model.
 - **Statistical hypothesis testing** -- carrying out and interpreting
-  statistical hypothesis tests using the binomial distribution and the
-  normal distribution, including stating hypotheses correctly,
-  identifying critical regions, and interpreting the result of a test
-  in the context of the original question.
+  three types of test: a test for the proportion in a binomial
+  distribution (2.05b-c, where use of the normal approximation is
+  excluded), a test for the mean of a normal distribution with known,
+  given or assumed variance (2.05d-e), and a test using Pearson's
+  product-moment correlation coefficient (2.05f-g); including stating
+  hypotheses correctly, identifying critical regions, and interpreting
+  the result of a test in the context of the original question.
+
+## Bivariate data and the correlation test
+
+Pearson's product-moment correlation coefficient, r, measures how
+close data points lie to a straight line (2.05f). You use and
+interpret it in a hypothesis test, comparing it with either a given
+critical value or, using a p-value, a table of critical values that
+OCR provides in the examination (2.05g). The data may be assumed to
+come from a bivariate normal distribution, and **calculating** a
+correlation coefficient is excluded -- you will be given r.
+
+Worked example: for a random sample of 15 pairs of values, r = 0.62.
+Test at the 5% level whether there is positive correlation in the
+population, given that the critical value is 0.4409.
+
+H₀: ρ = 0, H₁: ρ > 0, where ρ is the population product-moment
+correlation coefficient (one-tailed, because the question asks about
+positive correlation). Since 0.62 > 0.4409, reject H₀. There is
+evidence at the 5% level of positive correlation in the population.
+Remember that correlation does not imply causation (2.02e): a
+significant result says the variables are linearly associated, not
+that one causes the other.
 
 ## Why Statistics is assessed with a pre-release data set
 
@@ -94,11 +125,21 @@ an *increase*.
 
 Under H₀, X ~ B(100, 0.05). The test then compares the observed value
 (9) against the critical region for a 5% significance level, and the
-conclusion must be stated in the context of the original question --
-"there is sufficient evidence to conclude the defect rate has
-increased" or "there is insufficient evidence," never just "reject
-H₀" on its own, since OCR's mark schemes specifically require
-conclusions written back into context.
+conclusion must be stated in the context of the original question,
+never just "reject H₀" on its own. The specification also requires
+conclusions to be worded so that they reflect the fact that they are
+not certain: "There is evidence at the 5% level to reject H₀. It is
+likely that the defect rate has increased." for a significant result,
+or "There is insufficient evidence at the 5% level to reject H₀. There
+is no reason to suppose that the defect rate has increased." for a
+non-significant one. A flat "H₀ is rejected. The defect rate has
+increased." is the form the specification lists as incorrect.
+
+For these data, P(X ≥ 9) = 0.0631 (to 4 d.p.), which is greater than
+0.05, and the critical region is X ≥ 10 (P(X ≥ 10) = 0.0282). The
+observed 9 is not in the critical region, so H₀ is not rejected: there
+is insufficient evidence at the 5% level that the defect rate has
+increased.
 
 ## Common mistakes
 

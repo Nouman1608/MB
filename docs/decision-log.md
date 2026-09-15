@@ -10728,3 +10728,118 @@ None in this cluster.
 **Validation.** See the gate run recorded with this commit's batch below.
 
 **Validation (both batches, D-226 and D-227, run on the combined tree).** `npx astro check` (0 errors), `npm run validate:academic` (pass), `npm run build` (2129 pages; the 5014 coverage note confirmed in the built `/boards/cambridge/o-level/environmental-management/` page), `npm run audit:all` (0 problems), `node scripts/test-cross-board-regression.mjs` (clean), `node scripts/test-negative-validation-suite.mjs` (35/35), API tests (31/31). `check-duplicate-resource-scope.mjs`: the same four pre-existing unreviewed groups recorded in D-226, byte-identical before and after.
+
+## D-228 - Repair work order batch 3: E572-E657 (mathematics, geography, accounting, psychology) worked for the first time; E642 shows D-223 deleted genuine section headings on a misquotation (2026-09-15)
+
+**Trigger.** The 86 IDs E572-E657 are counted "plain open" by Q374 and had never reached a repair round: none is published in `docs/audit/`. Their texts were read from the audit's evidence file (`marlbridge-audit-evidence.json`, `findings[]`) on the owner's machine. E615, E616, E617 and E628 do not exist in that record, so the range holds **82** findings.
+
+**Method.** Four parallel repair agents, one per subject cluster, each under a written brief: read the file on `main` first, read the cited specification end to end to its closing matter, scope to the defect and sweep the family, recount every tariff, never drop genuine section headings, escalate reversals with verbatim quotes, no git or build commands. Every agent report was then checked by the lead: gate runs on the combined tree, a read of the riskiest diffs (the two rebuilt geography practice papers, the E629 depreciation rework, the 9990 notes rewrite), and spot re-reads of cited specification text (0580 C1.8, AQA 8300 A18 tier columns, 9990 Paper 1 assessment details). Agent reports are summarised below; the per-file detail is in each row.
+
+**Sources read, each to its closing matter.** AQA 7357 v1.3 (50 pp.); AQA 8300 v1.1, September 2026 (50 pp.); Cambridge 0580 2025-2027 v3 (71 pp.); OCR H240 v3.1, August 2026 (94 pp.); OCR J560 v2.1 (64 pp.); Ofqual GCSE mathematics conditions, February 2017 (39 pp.); Cambridge 2217 for 2026 v3 (34 pp.); Cambridge 9696 2025-2026 (40 pp.); OxfordAQA 9230 v4.3 (33 pp.) and 9635 v3.2 (34 pp.); OxfordAQA 9635 Unit 1a specimen paper and mark scheme; Cambridge 9706 2026-2028 v2 (40 pp.); Cambridge 0452 for 2026 v2 (28 pp.) and 2027-2029 v1 (30 pp.); OxfordAQA 9215 v1.2 (22 pp.); Pearson Edexcel IAL Accounting Issue 2 (50 pp.); AQA 7127 v1.0 (40 pp.) and 7127/1 specimen mark scheme; Cambridge 9990 2024-2026, 2027 and 2028-2030 syllabuses; AQA 7181/7182 v1.4, 1 September 2025 (38 pp.) and v1.2 (for the withdrawn bullets only); AQA 8182 v1.1 (26 pp.).
+
+### Closed -- fixed and verified
+
+| ID | Files | What was changed / verified |
+|---|---|---|
+| E572 | `a-level-aqa-mathematics-quadratics-and-inequalities.md` | Section B range now B1-B11 at A-level, naming B10 (partial fractions) and B11 (functions in modelling); B1-B9 identified as the AS range (7357 pp.13-14). |
+| E573 | `aqa-a-level-mathematics-overarching-themes.md`; siblings `aqa-a-level-mathematics-differentiation.md`, `-revision-notes.md` | Final lettered section is "S: Moments". Siblings: "Section D (Coordinate Geometry)" -> Section C; Paper 2 = Paper 1 content + J and P-S (mechanics), Paper 3 = + K-O (statistics), per 7357 2.2. |
+| E574 | `aqa-gcse-mathematics-algebra.md`, `-revision-notes.md`; sibling `-practice.md` | The five Foundation bodies relabelled with statement references (A3/A6, A18, A9, A24, A7), only their Higher parts marked Higher; checked in the 8300 v1.1 three-column tables and AQA's HTML cells. Practice paper tiered (Q7 A18, Q8 A19, Q10(b) A25 Higher). |
+| E575 | same two files | Exponential graphs flagged Higher beside trigonometric (A12, A14). |
+| E576 | `aqa-gcse-mathematics-number.md`, `-revision-notes.md`, `-practice.md` | N7, N8, N10, N16 labelled Higher throughout; practice paper tiered question by question; single-value error intervals kept Foundation (N15). The finding's "eleven of fifteen" did not reproduce (18 answer-bearing parts counted) -- the defect did. |
+| E577 | `aqa-gcse-mathematics-algebra-revision-notes.md` | Unsolvable pair (discriminant −4) replaced with y = 2x + 2, y = x² − 1 -> (3, 8), (−1, 0); numbered self-test with an answers block. |
+| E578 | `aqa-gcse-mathematics-number-practice.md` | Root-first and power-first always agree for a positive base; root-first kept as practical advice. |
+| E579 | `aqa-gcse-mathematics-number.md` | "Joint largest at Foundation, level with ratio" (Ofqual para 22: 25% each). |
+| E580 | `igcse-mathematics-number.md`; siblings `-revision-notes.md`, `-practice.md` | Core guide no longer teaches reverse percentages (E1.13.5) or bounds of calculations (C1.10 exclusion quoted); scoping rule now compares Core and Extended item by item. Also corrected: the guide advised non-calculator standard form, but C1.8 says Core candidates calculate with standard form only on Paper 3 (verified). Siblings label Extended-only items. |
+| E581 | `ocr-a-level-mathematics-statistics-revision-notes.md`; sibling `ocr-a-level-mathematics-statistics.md` | Recomputed: P(X ≥ 9) = 0.0631, critical region X ≥ 10; conclusion now "insufficient evidence", hedged as H240 2.05a requires. The study guide's flat "sufficient evidence ... has increased" also corrected. |
+| E582 | `ocr-a-level-mathematics-statistics-revision-notes.md` | 2.04d/h formulas and understanding required; calculations using the approximation (2.04h) and its use in hypothesis tests (2.05c) excluded. |
+| E583 | `ocr-a-level-mathematics-statistics.md`, `-revision-notes.md` | Bivariate data (2.02c-e) and the PMCC test (2.05f-g) added with their exclusions; worked critical value 0.4409 (n = 15, 5% one-tailed) computed, not recalled. |
+| E584 | `ocr-gcse-mathematics-number-revision-notes.md`, `ocr-gcse-mathematics-number-operations-and-integers.md`; sibling `ocr-gcse-mathematics-fractions-decimals-percentages-revision-notes.md` | 2.02a, 3.01a-b, 3.03a-b, 4.01c labelled Higher (J560 columns resolved by x-position, not reading order); guide's full-Topic-1 claim amended and its Topic 3/4 sections labelled. |
+| E585 | `a-level-aqa-mathematics-quadratics-and-inequalities.md`, `aqa-a-level-mathematics-quadratics-revision-notes.md`; sibling `a-level-aqa-mathematics-quadratics-practice.md` | Elimination no longer called a mistake (B4 names both methods); the notes' own worked step relabelled as elimination. |
+| E586 | `o-level-geography-natural-environment.md`, `-revision-notes.md` | Three mechanisms attached to their own landforms (differential erosion; notch, collapse and retreat; lines of weakness) per 2217 2.3. |
+| E587 | `a-geography-human-revision-notes.md` | Optimum population defined on output or standard of living per head. |
+| E588 | `o-level-geography-population-and-settlement.md`, `o-level-geography-population-revision-notes.md` | Size/function/connectivity no longer equated with site and situation; the guide lacked the definitions the finding assumed, so one was added. |
+| E589 | `o-level-geography-natural-environment.md`, `-revision-notes.md`, `-practice.md` | 2.4 now the syllabus's instruments, siting and data work; pressure-system content and the "directly examinable" claim removed; practice Q9 replaced at the same 4-mark tariff. |
+| E590 | same three files | Climates named equatorial and hot desert (ecosystems kept distinct); climate-graph work and the named controls added (2217 2.5). |
+| E591 | `o-level-geography-economic-development.md`, `-revision-notes.md`, `-practice.md` | Eight case studies, not seven; internal contradiction and the wrong comparison removed (Theme 1: 11; Theme 2: 6 across 4 of 5 sub-topics); same error fixed in both siblings. |
+| E592 | `a-level-geography-human-practice.md` | Refers to the paper's two sections. |
+| E593 | `a-geography-physical-practice.md` | Two coastal questions (Paper 3 option content) replaced with atmosphere-and-weather questions: diurnal energy budget [8] and the urban-climate case study [12] (9696 2.1, 2.4); description corrected; all seven schemes recounted. Lead read the new schemes against 9696 2.1's named budget components. |
+| E594 | `a-geography-physical-practice.md`, `o-level-geography-population-practice.md` | The 14-mark scheme no longer exists (E593); the 3-mark scheme for a [4] question now sums to 4; both papers recounted. |
+| E595 | `o-level-geography-population-practice.md` | Natural increase per 1000, ÷ 10 for a percentage, with a worked figure. |
+| E596 | `o-level-geography-natural-environment.md`, `-revision-notes.md` | Hazards-and-opportunities framing for 2.1-2.3, longshore drift, stumps, dunes and the work of the wind added. |
+| E597 | `a-level-cambridge-geography-core-human-geography.md` | "four" -> "three" management sub-topics. |
+| E598 | `a-level-cambridge-geography-core-physical-geography.md`; sibling `a-geography-physical-revision-notes.md` | All Paper 1 sub-topics and the three required case studies now named; "geological processes" replaced with the syllabus topics. |
+| E599 | 12 OxfordAQA geography files (the finding listed 11; `oxfordaqa-a-level-geography-globalisation-practice.md` is the twelfth) | Versions 3.3 -> 4.3 and 2.4 -> 3.2; live https URLs confirmed from oxfordaqa.com/9230 and /9635; wrong-domain anchors fixed. Sweep: no geography file keeps the legacy `oaqaresources` path -- **13 biology/chemistry/physics files still do** (not in this finding's scope; listed for a future round). |
+| E600 | `igcse-oxfordaqa-geography-living-with-the-physical-environment.md` | Unit 1 now as 9230 sets it: three compulsory living-world themes, no cold environments, coasts compulsory, hot desert or river landscapes as the option. |
+| E601 | `oxfordaqa-a-level-geography-physical-practice.md` | Rebuilt on Unit 1: compulsory hazards section, systems questions for both options, hot desert and coastal options at 10 marks each; Unit 3 carbon and water questions and the placeholder debris removed; answers in order. |
+| E602 | `oxfordaqa-a-level-geography-physical-revision-notes.md` | Unit 3 hydrology section replaced with the Unit 1 content the family lacked, with a note that drainage basins and hydrographs are Unit 3. |
+| E603 | `a-level-oxfordaqa-geography-global-systems-and-governance.md`, `oxfordaqa-a-level-geography-globalisation-revision-notes.md` | Eight sub-parts (3.2.1.1-3.2.1.8), not three; the notes' placement of the section corrected. |
+| E604 | `igcse-oxfordaqa-geography-urban-issues-and-challenges.md`, `-revision-notes.md`, `-practice.md` | Flagship regeneration example added to coverage, notes, checklist and a new 8-mark practice question. |
+| E608 | `oxfordaqa-a-level-geography-physical-practice.md` | The 18-mark scheme left with its Unit 3 question (E601); the paper's 12-mark question is levels-marked (principle confirmed from the 9635 Unit 1a specimen mark scheme). |
+| E609 | `igcse-oxfordaqa-geography-physical-environment-revision-notes.md` | "9206" -> "9230". |
+| E610 | `oxfordaqa-a-level-geography-physical-practice.md` | Both figures left with the Unit 3 questions (E601). Computed for the record: ~896 GtC at 420 ppm (2.134 GtC/ppm); no "GtC" figure remains in the corpus. |
+| E611 | `accounting-business-entities-practice.md`, `-revision-notes.md` | 9706 1.5.4: "Questions will not be set on preference shares" confirmed; Q5 retariffed 9 -> 6 on ordinary shares and debentures; notes line removed. |
+| E612 | `accounting-business-entities-revision-notes.md` | Petty cash book removed from the six 9706 books of prime entry. |
+| E613 | `accounting-business-entities-practice.md` | Q1 [6], cash book and general journal credited separately. |
+| E614 | `accounting-business-entities-practice.md` | "Day book" -> journal (neither 9706 nor either 0452 syllabus uses "day book"). |
+| E618 | `accounting-business-entities-practice.md`, `fundamentals-of-accounting-practice.md`, `igcse-accounting-sources-recording-practice.md`, `igcse-accounting-verification-practice.md` | **Removal-family, verified before acting:** 9706 pp.31-32 and 0452 (2026 p.20; 2027-2029 p.22) describe every paper as numbered questions with no lettered sections. Section labels became topic or length headings with a one-line statement that the papers have no lettered sections; no question removed. Not one of the six unsafe corrections. |
+| E619 | the nine 0452 files with `syllabusSeries: "2026"` | Edition note added to each, every difference taken from the two syllabuses (changes page, content overview, "income statement" vs "statements of profit or loss", three-column running balances). **One detail of the finding does not reproduce**: it says the March 2027 India series is the 2026 syllabus's last use; the 2027-2029 syllabus cover covers 2027 including March in India, so the note gives November 2026 as the final series. Rewriting the nine files to the successor syllabus remains open work. |
+| E620 | `accounting-business-entities-revision-notes.md`, `-practice.md` | Partnership Act 1890 defaults now include interest on partners' loans (and interest on drawings, also named in 1.5.3); no rate stated. |
+| E621 | `accounting-business-entities-revision-notes.md` | Concepts table completed to the twelve of 9706 1.2.1. |
+| E622 | `igcse-oxfordaqa-accounting-verification-of-accounting-records.md`; sibling `igcse-oxfordaqa-accounting-verification-revision-notes.md` | Profit unchanged in this compensating pair, with the algebra; the Note for correction's counter-case added so no general rule is implied; the sibling's rule narrowed likewise. |
+| E623 | `oxfordaqa-igcse-accounting-verification-practice.md` | Two marks now for "profit unchanged" and its reason; 5 total. |
+| E624 | `igcse-oxfordaqa-accounting-verification-revision-notes.md` | Direction restated in "more favourable" terms. |
+| E626 | `oxfordaqa-igcse-accounting-verification-practice.md` | On `main` the scheme already summed to 8 but unitemised; now one credit per line. |
+| E627 | same file | Q2 asks for two items [2]. |
+| E629 | `a-level-edexcel-accounting-principles-and-double-entry-bookkeeping.md` | Recomputed; rate now 43.77% (1 − ⁴√0.1), with a year-by-year table (4,377 / 2,461 / 1,384 / 778 vs 2,250); the conclusion now holds and names the years. |
+| E630 | same file | Strands carry the specification's side headings and 1.1.x ranges; **seven** wrong prose cross-references corrected (the finding counted five). |
+| E632 | `edexcel-a-level-accounting-principles-practice.md`, `-revision-notes.md`; sibling `edexcel-a-level-accounting-control-accounts-practice.md` | IAS terms throughout (Appendix 6): allowance for irrecoverable debts, trade receivables/payables ledger control accounts; sweep of all YAC11 files clean. |
+| E633 | `aqa-a-level-accounting-role-of-the-accountant.md`; sibling `aqa-a-level-accounting-double-entry-model.md` | "Balance sheet" -> statement of financial position (7127 appendix). |
+| E634 | `aqa-a-level-accounting-role-of-the-accountant.md`, `aqa-a-level-accounting-role-practice.md`; sibling `aqa-a-level-accounting-double-entry-model.md` | $ -> £ (7127 and its specimen mark scheme use £ only). |
+| E635 | `aqa-a-level-accounting-business-organisation-practice.md` | Q5 retariffed [3]. |
+| E636 | same file | Fourth point each side; 4 + 4 + 2 = 10. |
+| E637 | `aqa-a-level-accounting-role-practice.md` | Q4 asks for four [8]; all five principles creditable; sibling "bad debts" -> irrecoverable debts. |
+| E638 | `edexcel-a-level-accounting-principles-revision-notes.md`, `-practice.md` | Relabel option taken (Note for correction): bank reconciliation marked supporting background, not a listed content statement. Scheme of work not read, so the label claims no more than that. |
+| E639 | `edexcel-a-level-accounting-principles-practice.md`; sibling `edexcel-a-level-accounting-control-accounts-practice.md` | Off-list command words replaced with Appendix 8 words (Prepare, State). |
+| E640 | `a-psychology-approaches-revision-notes.md` | Rewritten from the 9990 syllabus: four approaches and their main assumptions, the 12 core studies by approach (verbatim list, p.14), the five AS issues and debates (p.15). Relabel rejected on its merits (stage check, duplicate AQA file, inbound links). |
+| E641 | `psychology-approaches-and-debates-practice.md` | Rebuilt by the lead as a 9990 Paper 1 set: Section A short answer on the core studies (38 marks), Section B extended response (22 marks), matching the section totals on syllabus p.10; the five-approach, alpha/beta bias, imposed-etic and A Level debate questions removed. Study detail kept to the syllabus descriptions and well-established findings. |
+| E642 | same file | **Correction of a D-223 regression.** D-223 removed "all three invented section headings" citing the specification as stating "This paper will not have sections". That sentence occurs in none of the three live 9990 syllabuses. The 2024-2026 syllabus the file declares reads (p.49): "This paper contains two sections: • Section A: short answer questions • Section B: extended response questions which may ask for comparison between studies and will require candidates to evaluate a study(s)"; its changes page repeats "Paper 1 – This paper now has two sections". The lead re-read both passages. Headings restored as the finding's own fix directs (fold, not drop), and D-223's false note that the paper "is not divided into lettered sections" removed. |
+| E643 | `a-level-psychology-approaches-issues-and-debates.md` | The 12 core studies listed by approach; its A Level debate (reductionism) replaced with the AS issues and debates. |
+| E644 | `a-level-psychology-specialist-options.md`; siblings `-revision-notes.md`, `-practice.md` | Both chosen options examined on both Papers 3 and 4, different topic areas on each (9990 pp.14, 51). |
+| E645 | same three files; `src/data/academic/syllabus-topics.ts` | Paper named "Specialist Options: Approaches, Issues and Debates"; the data layer's "Specialist Options 1/2" names corrected by the lead to both papers' syllabus titles (slugs unchanged). |
+| E646 | `aqa-a-level-psychology-introductory-topics.md` | Fourth compulsory topic, Clinical Psychology and Mental Health, added (v1.4 4.1.4). |
+| E647 | same file | Biopsychology on Paper 2, twice. |
+| E648 | same file; sibling `a-level-aqa-psychology-approaches-in-psychology.md` | AS and A-level stated as separate linear qualifications with different papers (v1.4 pp.8-10). |
+| E649 | `a-level-aqa-psychology-multi-store-and-working-memory-models.md`; siblings `aqa-a-level-psychology-memory-revision-notes.md`, `aqa-a-level-psychology-introductory-revision-notes.md` | Withdrawn LTM-types bullet out of the specification block; marked background elsewhere. Further v1.2 content marked background in the introductory notes (identification, Zimbardo, Schaffer) and practice Q1 moved to the two conformity types v1.4 names. |
+| E650 | `a-level-aqa-psychology-multi-store-and-working-memory-models.md` | Link now to the current specification page (serves v1.4). |
+| E651 | `aqa-a-level-psychology-introductory-revision-notes.md`; sibling `aqa-a-level-psychology-introductory-practice.md` | Current topic title and "Definitions in the field of mental health". |
+| E652 | five 7182 Paper 1 files (the finding counted four); `src/data/academic/syllabus-topics.ts` | The agent deferred it because `validate-academic-content.mjs` requires file stage to match the topic's stage; the lead made the coordinated change: `stage: 'AS'` removed from the 7182 Paper 1 topic and from all five files, the topic given its v1.4 sub-topic 1.4, and the record's notes (which carried the E647/E648/E649 errors) rewritten from v1.4. The 7182 notes in `syllabuses.ts` ("Biopsychology and Issues and debates (assessed across Papers 1-2)") corrected too. `validate:academic` passes. |
+| E653 | `a-level-aqa-psychology-multi-store-and-working-memory-models.md`; sibling `aqa-a-level-psychology-memory-revision-notes.md` | The model now generates the difficulty (phonological-loop competition, central-executive load). |
+| E654 | `aqa-gcse-psychology-cognition-and-behaviour.md` | Coverage list rebuilt from 8182 3.1 with every named study, theorist and illusion. |
+| E655 | `gcse-psychology-social-context-revision-notes.md` | Paper 2's four topics. |
+| E656 | `gcse-psychology-social-context-practice.md` | Scheme sums to 6 (identify, explain, support per factor). |
+| E657 | same file | Answer uses the two dispositional factors 8182 3.2.1 names; the finding's note on the subway study honoured. |
+
+### Deferred
+
+| ID | Reason | What would unblock it |
+|---|---|---|
+| E605, E606, E607 | IB DP Geography guide and subject brief: plain fetch returns a Cloudflare challenge (not worked around); the browser opened the PDFs but its text tool cannot read the built-in PDF viewer. The defects are still live, each with an extra sibling: E605 in `ib-dp-geography-exam-preparation.md`, E606 in `ib-dp-geography-population-distribution.md`, E607 in `ib-dp-geography-exam-preparation.md`. | The guide text via a same-origin pdf.js read in a browser session, or a copy supplied by the owner. |
+
+### Already correct / not reproducing
+
+| ID | What was read | Result |
+|---|---|---|
+| E625 | `igcse-oxfordaqa-accounting-recording-practice.md` on `main`; 9215 v1.2 §2.2 | Sections A and B only (D-223 removed the invented Section C and kept A/B), matching "Two compulsory sections". |
+| E631 | `edexcel-a-level-accounting-principles-practice.md` on `main`; IAL Issue 2 p.11 | Sections A and B only, matching "The paper is split into two sections". |
+
+### Seen during this batch, not actioned (for the audit's next round)
+
+- The legacy `oaqaresources` citation path survives in 13 OxfordAQA biology/chemistry/physics files (list in the geography working report).
+- 9230 3.2.1.2 names "London **or** New York"; all three urban-issues files tell candidates to study and compare both.
+- `igcse-oxfordaqa-geography-living-with-the-physical-environment.md` lists "stumps" and "solution", neither in 9230 3.1.3.2, and has no hot desert landscapes content for its option.
+- `a-level-psychology-specialist-options-practice.md` uses Section A/B headings, but 9990 Paper 3 (p.51) has no lettered sections. **Not removed** -- that is the delete-headings direction and wants its own finding.
+- `aqa-a-level-accounting-role-practice.md` has a Section C (AQA 7127 paper structure not checked); the AQA double-entry-model depreciation example may carry an E629-type inconsistency; the 9215 recording practice file uses "day book"; the 9706 business-entities files use "income statement".
+
+**Validation.** `npx astro check` (0 errors), `npm run validate:academic` (pass, including stage consistency after the E652 data change), `npm run build` (2129 pages), `npm run audit:all` (0 problems), cross-board regression (clean), negative-validation suite (35/35), API tests (pass). `check-duplicate-resource-scope.mjs`: the same four pre-existing unreviewed groups as D-226, no new group.
+
+**Open-count effect.** Of the 82 findings: 77 closed, 2 already correct, 3 deferred.

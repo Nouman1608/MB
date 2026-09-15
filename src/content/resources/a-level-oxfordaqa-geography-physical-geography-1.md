@@ -7,7 +7,7 @@ topic: "Unit 1 – Physical Geography 1: Living with Hazards"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9635"]
-syllabusSeries: "Version 2.4"
+syllabusSeries: "Version 3.2"
 stage: "AS"
 order: 1
 syllabusTopics:
@@ -66,8 +66,8 @@ processes interact.
 ## Official syllabus
 
 OxfordAQA International AS and A-level Geography (9635) specification,
-Version 2.4 —
-[oxfordaqa.com](http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-geography-specification.pdf).
+Version 3.2 —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2024/04/oxfordaqa-a-level-geography-specification.pdf).
 
 ## Hazards, risk and perception
 

@@ -31,7 +31,7 @@ Related: [Verification of accounting records study guide](/resources/igcse-oxfor
 
 **1.** Name **two** types of error that a trial balance will NOT reveal. **[2]**
 
-**2.** State **one** item that would appear on a bank statement but not yet in the cash book. **[2]**
+**2.** State **two** items that would appear on a bank statement but not yet in the cash book. **[2]**
 
 ## Section B
 
@@ -55,15 +55,15 @@ balance and a bank reconciliation statement. **[8]**
 **1.** Any two of: commission, complete reversal, compensating, omission, original entry, principle [1]
 [1].
 
-**2.** Any one of: bank charges, interest charged/received, a direct debit, a standing order, a credit
-transfer paid in directly, an error made by the bank [2].
+**2.** Any two of: bank charges, interest charged/received, a direct debit, a standing order, a credit
+transfer paid in directly, an error made by the bank [1] [1].
 
 **3.** The trial balance only checks that total debits equal total credits [1]. Because both errors
 understate an account by the same amount ($150 each), the totals of debits and credits remain equal
 despite both accounts being wrong, so the trial balance still balances and gives no indication of an
-error [1] [1]. Effect on profit: profit is understated, because both sales revenue and purchases cost
-(an expense) are understated, and these do not cancel out in the profit calculation the way they do in
-the trial balance's simple debit/credit totals [1] [1].
+error [1] [1]. Effect on profit: reported profit is **unchanged** [1], because sales (an income) and
+purchases (a cost) are both understated by $150, so they offset exactly in the profit calculation:
+(sales − 150) − (purchases − 150) = sales − purchases [1].
 
 **4.** A trade receivables ledger control account is a memorandum record that summarises the total owed
 by all credit customers in one place [1] [1], used to check that the sum of the individual customer
@@ -73,18 +73,20 @@ individual ledger accounts without needing to check every single account individ
 **5.**
 ```
 Updated cash book:
-  Balance b/d                 2,400
-  Less: standing order          (80)
-  Updated cash book balance   2,320                          [1] [1] [1]
+  Balance b/d                 2,400                          [1]
+  Less: standing order          (80)                         [1]
+  Updated cash book balance   2,320                          [1]
 
 Bank reconciliation statement:
-  Balance per bank statement   2,650
-  Less: unpresented cheque      (330)
-  Balance per updated cash book 2,320                        [1] [1] [1] [1] [1]
+  Balance per bank statement   2,650                         [1]
+  Less: unpresented cheque      (330)                        [1] [1]
+  Balance per updated cash book 2,320                        [1]
+  Agrees with updated cash book balance of 2,320             [1]
 ```
-(Marks for correctly identifying the standing order as a cash-book deduction and correctly updating the
-cash book balance, and for correctly adjusting the bank statement balance for the unpresented cheque,
-with the two final figures agreeing.)
+(Cash book, 3 marks: opening balance of $2,400; standing order of $80 deducted in the cash book; updated
+balance of $2,320. Reconciliation, 5 marks: starting from the bank statement balance of $2,650; the
+unpresented cheque identified as the reconciling item and deducted, not added; the adjusted balance of
+$2,320; and a statement that it agrees with the updated cash book balance.)
 
 **6.** When a trial balance does not balance, the difference between total debits and total credits is
 recorded in a suspense account so the trial balance can still be completed while the error is

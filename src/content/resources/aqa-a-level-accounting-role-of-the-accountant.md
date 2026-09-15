@@ -88,7 +88,7 @@ The distinction matters because it explains why the same business produces diffe
 | Government | Tax due, compliance |
 | Managers | Everything needed to plan and control |
 
-Conflicts follow directly: shareholders may want dividends now while lenders prefer profit retained to strengthen the balance sheet.
+Conflicts follow directly: shareholders may want dividends now while lenders prefer profit retained to strengthen the statement of financial position.
 
 ## Accounting concepts
 
@@ -110,17 +110,17 @@ Accountants are expected to show integrity, objectivity, professional competence
 
 ## Worked example
 
-A business pays $12,000 rent on 1 October for the year ahead. The year end is 31 December. How is this treated?
+A business pays £12,000 rent on 1 October for the year ahead. The year end is 31 December. How is this treated?
 
 ```
-Rent used in the year   = 3 months (Oct, Nov, Dec) = 12 000 x 3/12 = $3 000
-Rent paid in advance    = 9 months                 = 12 000 x 9/12 = $9 000
+Rent used in the year   = 3 months (Oct, Nov, Dec) = 12 000 x 3/12 = £3 000
+Rent paid in advance    = 9 months                 = 12 000 x 9/12 = £9 000
 
-Income statement: expense of $3 000   (accruals concept)
-Balance sheet:    prepayment of $9 000 as a CURRENT ASSET
+Income statement: expense of £3 000   (accruals concept)
+Statement of financial position: prepayment of £9 000 as a CURRENT ASSET
 ```
 
-Charging the full $12,000 would understate profit and breach the matching concept.
+Charging the full £12,000 would understate profit and breach the matching concept.
 
 ## Common mistakes
 

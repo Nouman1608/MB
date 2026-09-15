@@ -17,6 +17,22 @@ author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 ---
+
+> **Syllabus edition note.** This resource follows the Cambridge IGCSE
+> Accounting 0452 syllabus for exams in 2026 (version 2), whose final exam
+> series is November 2026. Candidates sitting 0452 from 2027 onwards,
+> including the March series in India, sit the syllabus for 2027, 2028 and
+> 2029, which differs in ways this page does not yet reflect: Paper 1 rises
+> from 35 to 40 multiple-choice marks and from 1 hour 15 minutes to 1 hour
+> 30 minutes; Topic 7 is retitled "Accounting concepts and modern practice"
+> and adds 7.2 Ethical considerations and 7.3 Technology and sustainability;
+> 4.4 becomes "Irrecoverable debts and allowance for irrecoverable debts";
+> statements of profit or loss replace income statements; ledger accounts
+> may be presented in three-column running balance format; and Manufacturing
+> accounts and Clubs and societies swap places as 5.4 and 5.5. If you sit
+> 0452 in 2027 or later, work from the current syllabus on the Cambridge
+> International website.
+
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
@@ -27,13 +43,16 @@ Related: [The Fundamentals of Accounting revision notes](/resources/igcse-accoun
 
 ---
 
-## Section A
+## Short-answer questions
+
+Cambridge IGCSE Accounting 0452 question papers are not divided into lettered
+sections, so the questions below are grouped only by length.
 
 **1.** State the accounting equation and define each element. **[3]**
 
 **2.** State whether each is an asset, a liability or capital: bank overdraft, motor vehicle, trade payables, owner's investment, inventory. **[5]**
 
-## Section B
+## Longer questions
 
 **3.** For each transaction, state the account debited and the account credited:
 

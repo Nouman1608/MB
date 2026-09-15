@@ -18,6 +18,21 @@ publishedDate: 2026-09-02
 featured: false
 ---
 
+> **Syllabus edition note.** This resource follows the Cambridge IGCSE
+> Accounting 0452 syllabus for exams in 2026 (version 2), whose final exam
+> series is November 2026. Candidates sitting 0452 from 2027 onwards,
+> including the March series in India, sit the syllabus for 2027, 2028 and
+> 2029, which differs in ways this page does not yet reflect: Paper 1 rises
+> from 35 to 40 multiple-choice marks and from 1 hour 15 minutes to 1 hour
+> 30 minutes; Topic 7 is retitled "Accounting concepts and modern practice"
+> and adds 7.2 Ethical considerations and 7.3 Technology and sustainability;
+> 4.4 becomes "Irrecoverable debts and allowance for irrecoverable debts";
+> statements of profit or loss replace income statements; ledger accounts
+> may be presented in three-column running balance format; and Manufacturing
+> accounts and Clubs and societies swap places as 5.4 and 5.5. If you sit
+> 0452 in 2027 or later, work from the current syllabus on the Cambridge
+> International website.
+
 This guide covers **Topic 3 Verification of accounting records**, for
 Cambridge IGCSE Accounting 0452, 2026 series (Version 2, published
 December 2025). It is the third of seven topics, and unlike Topics 1

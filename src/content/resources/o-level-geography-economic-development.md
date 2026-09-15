@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "theme-3-economic-development-2217"
-description: "Cambridge O Level Geography 2217 (2026 series), Theme 3: development indicators, globalisation, food production, industry, tourism, energy, water, and environmental risks of economic development, with the seven required case studies."
+description: "Cambridge O Level Geography 2217 (2026 series), Theme 3: development indicators, globalisation, food production, industry, tourism, energy, water, and environmental risks of economic development, with the eight required case studies."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -31,9 +31,11 @@ settlement) and Theme 2 covered physical geography (the natural
 environment). Theme 3 brings the two together: it examines how people
 use natural resources and physical environments to produce goods,
 services, energy and food, and the economic, social and environmental
-consequences of doing so. It is the most case-study-heavy theme in
-the syllabus -- seven of its seven subtopics each require a named,
-specific real-world example, more than either Theme 1 or Theme 2.
+consequences of doing so. Every one of its seven subtopics requires a
+named, specific real-world case study, and 3.2 requires two, so the
+theme has eight required case studies in total (for comparison, Theme
+1 also requires case studies in all seven of its subtopics, eleven in
+total, and Theme 2 requires six across four of its five subtopics).
 
 ## Syllabus coverage
 
@@ -149,8 +151,8 @@ back to a specific process or industry covered earlier in Theme 3.
 
 ## How to approach it
 
-Because six of Theme 3's seven subtopics require a specific named case
-study, the single biggest risk is having only a vague, generic example
+Because all seven of Theme 3's subtopics require a specific named case
+study (eight case studies in total), the single biggest risk is having only a vague, generic example
 in mind rather than real, place-specific detail you can write under
 exam conditions -- a case study can be reused across subtopics where
 it genuinely fits (for example, the same transnational corporation

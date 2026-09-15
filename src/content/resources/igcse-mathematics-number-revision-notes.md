@@ -21,6 +21,8 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Number study guide](/resources/igcse-mathematics-number/).
 
+**Core or Extended:** items marked **(Extended)** are in the Extended syllabus only — reverse percentages (E1.13), fractional indices (E1.7), recurring decimals to fractions (E1.4), finding the bounds of the results of calculations (E1.10) and surds (E1.18). Core candidates do not need them; everything else here is Core content.
+
 ## Types of number
 
 Natural, integer, rational (can be written as a fraction), irrational (√2, π — cannot), real. Prime numbers have exactly **two** factors, so **1 is not prime** and **2 is the only even prime**.
@@ -53,14 +55,14 @@ If a question gives the **difference** between two shares rather than the total,
 ```
 increase by 20%:  x 1.2         decrease by 20%:  x 0.8
 percentage change = (change / ORIGINAL) x 100
-reverse percentage: DIVIDE by the multiplier
+reverse percentage: DIVIDE by the multiplier   (Extended)
 compound interest:  P x (multiplier)^n
 ```
 
 **Two errors dominate:**
 
 1. Dividing by the new value instead of the original in percentage change.
-2. Subtracting instead of dividing in reverse percentages. If a price is $84 after a 20% rise, the original is 84 ÷ 1.2 = $70, not 84 × 0.8 = $67.20.
+2. (Extended) Subtracting instead of dividing in reverse percentages. If a price is $84 after a 20% rise, the original is 84 ÷ 1.2 = $70, not 84 × 0.8 = $67.20.
 
 **Compound versus simple interest:** simple interest is calculated on the original amount every year; compound interest is calculated on the running total, so it grows faster and the difference widens with time.
 
@@ -68,7 +70,8 @@ compound interest:  P x (multiplier)^n
 
 ```
 a^m x a^n = a^(m+n)     a^m / a^n = a^(m-n)     (a^m)^n = a^(mn)
-a^0 = 1                 a^-n = 1/a^n            a^(1/n) = nth root
+a^0 = 1                 a^-n = 1/a^n
+(Extended)              a^(1/n) = nth root
 ```
 
 ```
@@ -77,7 +80,7 @@ standard form:  A x 10^n   where  1 <= A < 10
 
 After multiplying or dividing in standard form, **re-check that A is between 1 and 10** and adjust the power if not.
 
-## Surds
+## Surds (Extended)
 
 ```
 sqrt(a) x sqrt(b) = sqrt(ab)          simplify by extracting square factors
@@ -106,6 +109,8 @@ For a value rounded to the nearest unit u, the bounds are **± u/2**.
 mass 4.6 kg to 1 d.p.:   4.55 <= m < 4.65
 ```
 
+**(Extended)** Finding the bounds of the result of a calculation:
+
 | Want | Add | Subtract | Multiply | Divide |
 |---|---|---|---|---|
 | **Maximum** | UB + UB | UB − **LB** | UB × UB | UB ÷ **LB** |
@@ -124,15 +129,15 @@ division) rather than applying the shortcut blindly.
 
 - Treating 1 as prime.
 - Dividing by the new value in percentage change.
-- Subtracting rather than dividing in reverse percentages.
+- (Extended) Subtracting rather than dividing in reverse percentages.
 - Assuming a rise then an equal fall returns to the start (1.2 × 0.8 = 0.96).
-- Using UB ÷ UB for a maximum quotient.
+- (Extended) Using UB ÷ UB for a maximum quotient.
 - Forgetting to re-normalise standard form after a calculation.
 - Rounding partway through and losing accuracy — round only at the end.
 
 ## Examiner report insight
 
-- **Recurring decimals:** identify exactly which digits repeat before setting up the "10 to the n times x, minus x" method -- a misread repeating pattern (or treating the decimal as terminating) makes the rest of the method meaningless even if the algebra is correct.
+- **Recurring decimals (Extended):** identify exactly which digits repeat before setting up the "10 to the n times x, minus x" method -- a misread repeating pattern (or treating the decimal as terminating) makes the rest of the method meaningless even if the algebra is correct.
 - **Standard form arithmetic:** when multiplying or dividing values already in standard form, the indices combine separately from the mantissa -- add indices when multiplying, subtract when dividing -- then renormalise the mantissa afterwards if it falls outside 1 <= a < 10.
 - **Rounding instructions:** if a question asks you to round each given value first, do that before calculating, not just to the final answer -- the two give different results.
 
@@ -142,8 +147,8 @@ division) rather than applying the shortcut blindly.
 
 1. Find the HCF and LCM of 24 and 36 using prime factors.
 2. Share $200 in the ratio 3 : 5.
-3. A price is $84 after a 20% increase. What was it before?
+3. (Extended) A price is $84 after a 20% increase. What was it before?
 4. State the bounds for 4.6 kg measured to 1 decimal place.
-5. How do you obtain the maximum value of `a − b` from bounds?
+5. (Extended) How do you obtain the maximum value of `a − b` from bounds?
 
 **Answers:** 1. 24 = 2³×3, 36 = 2²×3²; HCF = 2²×3 = 12, LCM = 2³×3² = 72. 2. 8 parts, $25 each, giving $75 and $125. 3. 84 ÷ 1.2 = $70. 4. 4.55 ≤ m < 4.65. 5. Upper bound of a minus the **lower** bound of b.

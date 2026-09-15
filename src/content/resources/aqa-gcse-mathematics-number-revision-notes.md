@@ -21,6 +21,8 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Number study guide](/resources/aqa-gcse-mathematics-number/).
 
+**Tier:** fractional indices (N7), surds (N8), recurring decimals to fractions (N10) and calculating with upper and lower bounds (N16) are **Higher tier only**, and are marked **(Higher)** below. Everything else is Foundation content, assessed at both tiers.
+
 ## Index laws
 
 ```
@@ -29,15 +31,15 @@ a^0 = 1                     a^-n = 1 / a^n              a^(1/n) = nth root of a
 a^(m/n) = (nth root of a)^m
 ```
 
-For a fractional index, **take the root first, then the power** — the numbers stay small.
+Integer indices, including negative ones, are Foundation. **(Higher)** For a fractional index, **take the root first, then the power** — the numbers stay small.
 
 ```
 8^(2/3) = (cube root of 8)^2 = 2^2 = 4
 ```
 
-A **negative** index means reciprocal, not a negative answer: `2⁻³ = 1/8`, never −8. And for a negative fractional index, **flip first, then apply**: `(4/9)^(−1/2) = (9/4)^(1/2) = 3/2`.
+A **negative** index means reciprocal, not a negative answer: `2⁻³ = 1/8`, never −8. **(Higher)** For a negative fractional index, **flip first, then apply**: `(4/9)^(−1/2) = (9/4)^(1/2) = 3/2`.
 
-## Surds
+## Surds (Higher)
 
 ```
 sqrt(a) x sqrt(b) = sqrt(ab)        sqrt(a) / sqrt(b) = sqrt(a/b)
@@ -90,7 +92,7 @@ For a value rounded to the nearest unit u, add and subtract **u/2**.
 length 24 cm to nearest cm:   23.5 <= L < 24.5
 ```
 
-Combining bounds — the rule that decides the marks:
+Writing this error interval is Foundation (N15). **(Higher)** Combining bounds — the rule that decides the marks:
 
 | Operation | For the **maximum** | For the **minimum** |
 |---|---|---|
@@ -126,17 +128,17 @@ The trap here is finding 15% of £68 and adding it on — that gives £78.20, wh
 - Reading a negative index as a negative answer.
 - Subtracting a percentage instead of dividing in reverse-percentage problems.
 - Assuming an increase then an equal decrease cancels out.
-- Using UB ÷ UB for a maximum quotient.
-- Writing `√a + √b = √(a+b)`.
-- Leaving a surd in the denominator when an exact answer is required.
+- (Higher) Using UB ÷ UB for a maximum quotient.
+- (Higher) Writing `√a + √b = √(a+b)`.
+- (Higher) Leaving a surd in the denominator when an exact answer is required.
 
 ## Self-test
 
-1. Evaluate `8^(2/3)` and `(4/9)^(−1/2)`.
-2. Rationalise `1/(3 + √2)`.
+1. (Higher) Evaluate `8^(2/3)` and `(4/9)^(−1/2)`.
+2. (Higher) Rationalise `1/(3 + √2)`.
 3. A price is £69 after a 15% increase. What was it before?
-4. Give the bounds for a length of 24 cm measured to the nearest cm.
-5. How do you find the maximum value of `a ÷ b` from bounds?
+4. Give the error interval for a length of 24 cm measured to the nearest cm.
+5. (Higher) How do you find the maximum value of `a ÷ b` from bounds?
 6. A jacket costs £68 after a 15% reduction. Find the original price, and explain the common error to avoid.
 7. Find the HCF and LCM of 60 and 72 using prime factorisation.
 

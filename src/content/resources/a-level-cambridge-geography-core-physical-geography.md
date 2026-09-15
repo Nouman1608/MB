@@ -38,15 +38,23 @@ the optional topics chosen later in the A Level.
 **CAMBRIDGE INTERNATIONAL AS & A LEVEL GEOGRAPHY (9696) — PAPER 1
 CORE PHYSICAL GEOGRAPHY**
 
-- 1. Hydrology and fluvial geomorphology — the drainage basin system
-(inputs, stores, flows and outputs); discharge relationships and
-hydrographs; river channel processes (erosion, transport and
-deposition) and landforms (meanders, floodplains, deltas); and the
-human impact on drainage basins, including flood risk and management
-- 2. Atmosphere and weather — the processes and systems that shape
-weather and climate
-- 3. Rocks and weathering — geological processes and the weathering
-of rock
+- 1. Hydrology and fluvial geomorphology — 1.1 the drainage basin
+system (inputs, stores, flows and outputs); 1.2 discharge
+relationships and hydrographs; 1.3 river channel processes (erosion,
+transport and deposition) and landforms (meanders, floodplains,
+deltas); and 1.4 the human impact on drainage basins, including flood
+risk and management. Case study: a recent river flood event
+- 2. Atmosphere and weather — 2.1 diurnal energy budgets; 2.2 the
+global energy budget (latitudinal excesses and deficits, atmospheric
+transfers by wind belts and ocean currents, and seasonal variations in
+temperature, pressure and wind belts); 2.3 weather processes and
+phenomena (atmospheric moisture processes, causes and types of
+precipitation); and 2.4 the human impact (the enhanced greenhouse
+effect and global warming). Case study: an urban area showing the
+effects of human activity on climate
+- 3. Rocks and weathering — 3.1 plate tectonics; 3.2 weathering;
+3.3 slope processes; and 3.4 the human impact on the stability of
+slopes. Case study: the impacts of human activity on slopes
 
 ## How to approach it
 
@@ -87,9 +95,15 @@ The **global energy budget** drives everything: insolation received exceeds outg
 
 Atmospheric circulation is organised into Hadley, Ferrel and Polar cells, with the Coriolis effect deflecting winds — right in the northern hemisphere, left in the southern.
 
-Precipitation is classified by uplift mechanism: **convectional** (surface heating), **relief or orographic** (air forced over high ground), and **frontal** (warm air rising over cold at a front).
+Precipitation is classified by uplift mechanism: **convectional** (surface heating), **relief or orographic** (air forced over high ground), and **frontal** (warm air rising over cold at a front); the syllabus also names **radiation cooling** as a cause, and the types of precipitation as clouds, rain, hail, snow, dew and fog.
+
+**Diurnal energy budgets (2.1)** describe how energy at a surface changes over 24 hours. By day the inputs and outputs are incoming shortwave solar radiation, reflected solar radiation (set by the surface **albedo**), energy absorbed into the surface and subsurface, sensible heat transfer, longwave radiation, and latent heat transfer through evaporation. At night there is no solar input: the surface loses energy by longwave radiation (less under cloud), while absorbed energy returned from the subsurface, sensible heat transfer from the air and latent heat released as dew forms offset some of the loss.
+
+**The human impact (2.4)** covers the enhanced greenhouse effect and global warming: the evidence, possible causes and atmospheric impacts. The required **urban climate case study** must show the effects of human activity on an urban area's **temperature (the heat island), humidity, precipitation and winds**. Cities are usually warmer than their rural surroundings, especially on calm, clear nights, because low-albedo materials store heat, less water is available for evaporation and human activity releases heat; relative humidity is usually lower; convection and pollution particles can increase rainfall and thunderstorms; and buildings lower mean wind speeds but channel gusts between tall blocks.
 
 ## Rocks and weathering
+
+**Plate tectonics (3.1)** covers the nature and global pattern of tectonic plates; the types of plate boundary — divergent (constructive), conservative and convergent (destructive); and the processes and landforms associated with them: sea floor spreading, subduction, fold mountain building, ocean ridges, ocean trenches and volcanic island arcs.
 
 Weathering is *in situ* breakdown, distinct from erosion which involves transport.
 
@@ -100,6 +114,14 @@ Weathering is *in situ* breakdown, distinct from erosion which involves transpor
 Climate governs which dominates: freeze-thaw requires repeated crossing of zero degrees, chemical weathering accelerates with heat and moisture.
 
 **Mass movement** is classified by speed and water content, from slow soil creep through solifluction and slumping to rapid rockfall and landslides.
+
+**Slope processes (3.3)** are grouped in the syllabus as mass movements — **heaves, flows, slides and falls** — and water and sediment movement on slopes: **rainsplash and surface runoff (sheetwash and rills)**. For each, know the conditions under which it occurs and its effect on the slope.
+
+**The human impact on slopes (3.4)** covers human activities that increase and that decrease slope stability, and the strategies used to modify slopes to reduce mass movement: **pinning, netting, grading and afforestation**. The required **case study** must show the impacts of human activity on a slope, the effect on its stability, and an evaluation of attempts to reduce mass movement.
+
+## Required case studies
+
+Paper 1 names three case studies: a **recent river flood event** (its causes, its impacts on people and the environment, and an evaluation of attempts to reduce its impact); an **urban area showing the effects of human activity on climate** (temperature, humidity, precipitation and winds); and the **impacts of human activity on slopes** (the effect on slope stability and an evaluation of attempts to reduce mass movement).
 
 ## Worked example
 
@@ -127,3 +149,7 @@ Confusing weathering with erosion — weathering involves no transport. Describi
 - Explain the global energy budget and the three-cell circulation model.
 - Classify the three types of precipitation by uplift mechanism.
 - Classify weathering and mass movement, and link each to climatic conditions.
+- Explain the day and night components of a diurnal energy budget.
+- Describe the plate boundary types and their associated landforms.
+- Explain how human activity decreases or increases slope stability, and name the strategies used to reduce mass movement.
+- Learn the three required case studies: a river flood, an urban climate, and human impact on slopes.

@@ -12,7 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "statistics-ocr-alevel-maths"
-description: "Condensed recall notes on sampling, probability, statistical distributions and hypothesis testing, for OCR A Level Mathematics A (H240), the Statistics strand."
+description: "Condensed recall notes on sampling, data presentation including bivariate data, probability, statistical distributions and hypothesis testing (including the correlation test), for OCR A Level Mathematics A (H240), the Statistics strand."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -36,19 +36,29 @@ P(X = 3) = C(5,3) x 0.6^3 x 0.4^2 = 10 x 0.216 x 0.16 = 0.3456
 
 Recognising a scenario **is binomial** (fixed n independent trials, two outcomes, constant p) is the first, most commonly mis-assessed step, before any calculation.
 
-## Worked example: hypothesis test set-up
+## Worked example: hypothesis test
 
 A machine should have a 5% defect rate. In a sample of 100, 9 are defective. Test at 5% significance whether the defect rate has increased.
 
 ```
-H0: p = 0.05 (unchanged)
-H1: p > 0.05 (increased) -- ONE-TAILED, since the question asks
-                            specifically about an increase
+H0: p = 0.05, H1: p > 0.05, where p is the population
+    proportion of defective components
+    -- ONE-TAILED, since the question asks specifically
+       about an increase
 Under H0: X ~ B(100, 0.05)
-Compare observed (9) against the critical region; state the
-conclusion IN CONTEXT -- "there is sufficient evidence the defect
-rate has increased" -- never just "reject H0" alone
+P(X >= 9) = 0.0631 (4 d.p.) > 0.05
+Critical region: X >= 10, since P(X >= 10) = 0.0282 <= 0.05
+                 but P(X >= 9) = 0.0631 > 0.05
+Observed value 9 is NOT in the critical region, so do not
+reject H0.
+Conclusion IN CONTEXT, worded as not certain:
+"There is insufficient evidence at the 5% level to reject H0.
+There is no reason to suppose that the defect rate has
+increased."
+-- never just "reject H0" or "do not reject H0" alone
 ```
+
+Word conclusions so they reflect uncertainty: the specification gives "H0 is rejected. Waiting times have increased." as an example of an **incorrect** conclusion, because it states the change as fact. If the result had been significant (for example 10 or more defectives here), the form would be "There is evidence at the 5% level to reject H0. It is likely that the defect rate has increased."
 
 ## Worked example: normal distribution probability
 
@@ -66,11 +76,17 @@ Standardising to a z-value before reading a probability table is the reliable me
 
 ## Recognising which distribution to use
 
-The specification expects a deliberate check, not a guess, when choosing between the binomial and normal models. A binomial model fits a **fixed number of discrete trials** with two outcomes and constant probability (e.g. counting defective items in a sample). A normal model fits **continuous data** clustering symmetrically around a mean (e.g. heights, reaction times, exam scores). Some scenarios approximate a binomial distribution with a normal one when n is large -- but this specification does not require that approximation technique explicitly, so check your own course's exact requirements before assuming it is examinable.
+The specification expects a deliberate check, not a guess, when choosing between the binomial and normal models. A binomial model fits a **fixed number of discrete trials** with two outcomes and constant probability (e.g. counting defective items in a sample). A normal model fits **continuous data** clustering symmetrically around a mean (e.g. heights, reaction times, exam scores). A binomial distribution with large n can be approximated by a normal distribution, and this specification requires you to understand that (2.04h) and to know and use μ = np and σ² = npq when choosing the normal model to use as the approximation (2.04d). What is excluded is questions explicitly requiring calculations using the normal approximation to the binomial (2.04h), and the use of the normal approximation in a binomial hypothesis test (2.05c).
 
 ## Data presentation and interpretation
 
 Interpreting standard graphical and numerical summaries (mean, median, standard deviation, quartiles, box plots, histograms) of real, often large, data sets is assessed alongside the calculation-heavy content. Since some questions are set directly on OCR's pre-released large data set, revision cannot be purely abstract -- practise summarising and interpreting the actual released data set's specific variables and context, not just generic data-handling technique.
+
+## Bivariate data and correlation (2.02c-e, 2.05f-g)
+
+- Interpret **scatter diagrams** and **regression lines**, including diagrams that show distinct sections of the population. You may add to a diagram but not draw a complete one; calculating a regression line equation is excluded.
+- Interpret correlation informally, and remember **correlation does not imply causation**.
+- **Correlation test:** H0: ρ = 0 against H1: ρ > 0, ρ < 0 (one-tailed) or ρ ≠ 0 (two-tailed), where ρ is the population product-moment correlation coefficient. Compare the given r with a given critical value, or use a p-value and the table of critical values OCR provides. Calculating r is excluded; the data may be assumed to come from a bivariate normal distribution.
 
 ## Key terms
 

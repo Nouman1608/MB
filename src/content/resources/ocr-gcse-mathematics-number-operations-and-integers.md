@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "number-operations-and-integers-ocr-gcse-maths"
-description: "Calculations with integers, whole number theory, combining arithmetic operations, and inverse operations -- the full content of Topic 1 for OCR GCSE Mathematics (J560)."
+description: "Calculations with integers, whole number theory, combining arithmetic operations, and inverse operations -- the full content of Topic 1 for OCR GCSE Mathematics (J560) -- with supporting notes on indices, standard form, rounding and error intervals from Topics 3 and 4."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -73,6 +73,15 @@ OCR GCSE (9-1) Mathematics (J560) specification, for first assessment
 2017 —
 [ocr.org.uk](https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/specification-at-a-glance/).
 
+## Supporting content from Topics 3 and 4
+
+The sections on powers, roots and standard form, and on rounding,
+estimation and error intervals, go beyond Topic 1: they belong to
+**Topic 3 Indices and surds** (3.01 Powers and roots, 3.02 Standard
+form) and **Topic 4 Approximation and estimation** (4.01). They are
+included here because Topic 1 calculations depend on them; the full
+Topic 1 content is the four sub-topics listed above.
+
 ## Order of operations and negative numbers
 
 Calculations follow **BIDMAS**: brackets, indices, division and multiplication (left to right), then addition and subtraction (left to right). Division and multiplication rank equally, as do addition and subtraction — working strictly left to right within each pair is what prevents most errors.
@@ -95,13 +104,13 @@ LCM: highest power of every prime seen  = 2^3 x 3 x 5 x 7 = 840
 
 A useful check: HCF x LCM = product of the two numbers. Here 12 x 840 = 10 080 = 84 x 120.
 
-## Powers, roots and standard form
+## Powers, roots and standard form (Topic 3)
 
-Index laws: multiplying adds indices, dividing subtracts, a power of a power multiplies, anything to the power zero is 1, a negative index gives the reciprocal, and a fractional index is a root.
+Index laws: multiplying adds indices, dividing subtracts, a power of a power multiplies, anything to the power zero is 1, and a negative index gives the reciprocal (negative integer indices are Foundation, 3.01a). **(Higher tier only, 3.01a-b)** A fractional index is a root.
 
 Standard form is A x 10^n with 1 <= A < 10. When multiplying, multiply the numbers and add the indices; when dividing, divide and subtract. Always check the result is still in standard form and adjust if A has drifted outside the range.
 
-## Rounding, estimation and bounds
+## Rounding, estimation and error intervals (Topic 4)
 
 Round to a given number of decimal places or significant figures, remembering that leading zeros are never significant. Estimate by rounding every value to 1 significant figure before calculating.
 
@@ -111,7 +120,7 @@ Round to a given number of decimal places or significant figures, remembering th
 6.25 <= length < 6.35
 ```
 
-The lower bound uses <= and the upper uses <, because 6.35 would round up.
+The lower bound uses <= and the upper uses <, because 6.35 would round up. Writing an error interval is Foundation content (4.01c); calculating the upper and lower bounds of a calculation that uses rounded values is Higher tier only.
 
 ## Worked example
 

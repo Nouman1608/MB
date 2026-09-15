@@ -42,21 +42,23 @@ Related: [Principles and Double Entry Bookkeeping revision notes](/resources/ede
 
 ## Section B
 
-**3.** Prepare a sales ledger control account from the following, showing the closing balance:
+**3.** Prepare a trade receivables ledger control account from the following, showing the closing balance:
 
 Opening receivables $18 400; credit sales $92 000; receipts from customers $85 300; sales returns $2100; discounts allowed $900; irrecoverable debts written off $600. **[5]**
 
-**4.** Correct the following errors by journal entry, stating whether a suspense account is involved:
+**4.** Prepare journal entries to correct the following errors, and state whether a suspense account is involved in each case:
 
 **(a)** A payment for motor expenses of $340 was debited to the motor vehicles account. **[2]**
 **(b)** Sales of $700 were credited to the sales account as $70. **[3]**
 **(c)** A cash payment of $250 was completely omitted from the books. **[2]**
 
-**5.** Explain how a provision for doubtful debts is created and adjusted, and its effect on profit. **[5]**
+**5.** Explain how an allowance for irrecoverable debts is created and adjusted, and its effect on profit. **[5]**
 
-**6.** Explain the difference between an irrecoverable debt and a doubtful debt, and state the concept that justifies making a provision. **[4]**
+**6.** Explain the difference between writing off an irrecoverable debt and making an allowance for irrecoverable debts, and state the concept that justifies making the allowance. **[4]**
 
-**7.** A business's cash book balance does not match its bank statement balance.
+**7.** *Supporting background, outside the assessed content:* bank reconciliation is not a content statement of either unit of this specification, so this question is for consolidating the cash book only.
+
+A business's cash book balance does not match its bank statement balance.
 
 **(a)** State **two** reasons a cash book and bank statement can differ. **[2]**
 
@@ -64,7 +66,7 @@ Opening receivables $18 400; credit sales $92 000; receipts from customers $85 3
 
 **(c)** State **two** purposes of preparing a bank reconciliation. **[2]**
 
-**8.** Name the six types of error that leave a trial balance balanced. **[3]**
+**8.** State the six types of error that leave a trial balance balanced. **[3]**
 
 **9.** A business has a current ratio of 3.5:1, well above the industry average of 1.8:1. Explain why this is not automatically good news. **[3]**
 
@@ -93,9 +95,9 @@ Debits correctly entered [1]; credits correctly entered [1] [1]; totals agree [1
 **(b)** Credit **Sales $630** [1], debit **Suspense $630** [1]; the trial balance **did not agree**, so a suspense account **is** involved [1].
 **(c)** Debit the relevant **expense/asset $250**, credit **Cash $250** [1]; this is an **error of omission**, so **no suspense account** is needed [1].
 
-**5.** The provision is created by **estimating the proportion of receivables unlikely to pay**, usually a percentage of the closing receivables after writing off known irrecoverable debts [1]. When first created, the whole amount is **charged as an expense, reducing profit** [1]. In later years **only the increase or decrease is put through the income statement** [1]: an increase is an **additional expense reducing profit**, a decrease is **credited, increasing profit** [1]. The provision is **deducted from trade receivables** in the statement of financial position [1].
+**5.** The allowance for irrecoverable debts is created by **estimating the proportion of receivables unlikely to pay**, usually a percentage of the closing receivables after writing off known irrecoverable debts [1]. When first created, the whole amount is **charged as an expense, reducing profit** [1]. In later years **only the increase or decrease is put through the statement of profit or loss** [1]: an increase is an **additional expense reducing profit**, a decrease is **credited, increasing profit** [1]. The allowance is **deducted from trade receivables** in the statement of financial position [1].
 
-**6.** An **irrecoverable (bad) debt** is one the business is **certain will not be paid**, so it is **written off in full** and removed from receivables [1] [1]. A **doubtful debt** is one that **may not be paid**, but the outcome is uncertain, so a **provision is made while the debt remains in receivables** [1]. The justification is the **prudence concept** — profit and assets should not be overstated when a loss is foreseeable [1]. (The matching concept also applies, since the cost is recognised in the period the sale was made.)
+**6.** An **irrecoverable (bad) debt** is one the business is **certain will not be paid**, so it is **written off in full** and removed from receivables [1] [1]. An **allowance for irrecoverable debts** covers debts that **may not be paid**, where the outcome is uncertain, so the **allowance is made while the debts remain in trade receivables** [1]. The justification is the **prudence concept** — profit and assets should not be overstated when a loss is foreseeable [1]. (The matching concept also applies, since the cost is recognised in the period the sale was made.)
 
 **7. (a)** Any two: **unpresented cheques** — written and recorded but not yet cleared [1]; **outstanding lodgements** — paid in but not yet credited [1]; direct debits, standing orders, bank charges and interest known to the bank first [1]; errors by either party [1].
 
@@ -111,7 +113,7 @@ Debits correctly entered [1]; credits correctly entered [1] [1]; totals agree [1
 
 ## Where marks are usually lost
 
-- Putting discounts allowed on the debit side of the sales ledger control account.
+- Putting discounts allowed on the debit side of the trade receivables ledger control account.
 - Correcting an error of principle through a suspense account.
-- Charging the whole provision to the income statement every year instead of only the movement.
-- Confusing irrecoverable debts with doubtful debts.
+- Charging the whole allowance for irrecoverable debts to the statement of profit or loss every year instead of only the movement.
+- Confusing writing off an irrecoverable debt with making an allowance for irrecoverable debts.

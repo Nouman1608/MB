@@ -9,7 +9,6 @@ qualifications: ["a-level"]
 syllabusCodes: ["7182"]
 syllabusSeries: "first teaching 2015"
 order: 2
-stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
@@ -35,7 +34,7 @@ Condensed for the final weeks. For the full explanation, use the
 | Short-term memory | Mainly acoustic | 7±2 items (Miller) | 18–30 seconds unrehearsed |
 | Long-term memory | Mainly semantic | Potentially unlimited | Up to a lifetime |
 
-**Three types of LTM:** episodic (personal experiences), semantic (facts/general knowledge), procedural (skills/learned actions). Learn one real example of each — examiners reward this small precision consistently.
+*Background, not specification content:* types of LTM (episodic, semantic, procedural) were removed from the Memory topic in specification version 1.4 (first teaching September 2025). They are not required for exams from June 2026 (AS) or June 2027 (A-level).
 
 ## Working memory model — four components
 
@@ -49,14 +48,20 @@ Condensed for the final weeks. For the full explanation, use the
 A student struggles to hold a phone number in mind while reading a map.
 
 ```
-Phone number:      phonological loop (verbal/acoustic)
-Map reading:        visuo-spatial sketchpad (visual/spatial)
-Why little
-interference:       different, separate WMM components handle each
-                    task, so they can run with relatively little
-                    conflict -- evidence STM is not a single store
-Central executive:  coordinates attention between the two tasks, but
-                    stores nothing itself
+Phone number:       phonological loop (verbal/acoustic, kept by
+                    sub-vocal rehearsal)
+Map reading:        visuo-spatial sketchpad for the layout -- but
+                    reading street names to yourself also uses the
+                    phonological loop
+Why the struggle:   both tasks compete for the SAME limited-capacity
+                    phonological loop, so rehearsal of the number is
+                    displaced and the number is lost
+Central executive:  limited capacity, no storage; loaded by working
+                    out the route, so it cannot also keep directing
+                    rehearsal of the number
+Contrast:           a purely visual task (tracing a route by eye)
+                    would use a separate component and interfere
+                    far less
 ```
 
 Identify which component handles which information type, then explain the resulting behaviour — that is the core applied skill this content is assessed against.
@@ -109,9 +114,9 @@ or for both combined in a single extended-writing question worth significant mar
 ## Self-test
 
 1. What is STM's typical capacity and who identified it?
-2. Name the three types of long-term memory.
+2. Name the three features on which the multi-store model's stores differ.
 3. Which WMM component has no storage capacity of its own?
 4. Why can a person often talk and navigate a map at the same time, per the WMM?
 5. Why is the working memory model not simply a rival to the multi-store model?
 
-**Answers:** 1. 7±2 items, identified by Miller. 2. Episodic, semantic, procedural. 3. The central executive. 4. Because the two tasks draw on different WMM components (phonological loop for talking, visuo-spatial sketchpad for the map), so they interfere with each other only a little. 5. Because it is a more detailed account of what happens specifically within the multi-store model's STM component, not a separate account of memory as a whole.
+**Answers:** 1. 7±2 items, identified by Miller. 2. Coding, capacity and duration. 3. The central executive. 4. Because the two tasks draw on different WMM components (phonological loop for talking, visuo-spatial sketchpad for the map), so they interfere with each other only a little. 5. Because it is a more detailed account of what happens specifically within the multi-store model's STM component, not a separate account of memory as a whole.

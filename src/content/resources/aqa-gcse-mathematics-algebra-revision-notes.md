@@ -23,11 +23,13 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Notation, vocabulary and manipulation (3.2.1)
 
-**Vocabulary:** expression, equation, formula, inequality, term, factor, and (Higher) **identity** (true for every value, unlike an equation which is only true for specific values — tested directly).
+**Vocabulary:** expression, equation, formula, inequality, term, factor, and **identity** (true for every value, unlike an equation which is only true for specific values — tested directly). Identities and the equation/identity distinction are **Foundation** content (A3, A6); only algebraic **proof** is Higher.
 
 **Notation:** ab, 3y, a², 1/a in place of the longer expressions. **Simplest form always expected** — leaving "2×x + 3×x" instead of "5x" loses marks even with correct method.
 
-**Manipulation:** collecting like terms, expanding brackets, factorising; Higher tier — expanding products of two+ binomials, factorising quadratics ax²+bx+c; rearranging a formula to change the subject; (Higher) function notation — f(x), inverse f⁻¹(x), composite fg(x).
+**Manipulation:** collecting like terms, expanding brackets, factorising, expanding two binomials, factorising x²+bx+c (including the difference of two squares); Higher tier — expanding products of more than two binomials, factorising quadratics ax²+bx+c, algebraic fractions (A4); rearranging a formula to change the subject.
+
+**Functions (A7):** interpreting simple expressions as functions with inputs and outputs is **Foundation**; (Higher) function notation f(x), inverse f⁻¹(x) and composite fg(x).
 
 ## Graphs (3.2.2)
 
@@ -43,8 +45,12 @@ y = mx + c    -- m = gradient, c = y-intercept
 | Quadratic | Parabola — roots, intercepts, turning point |
 | Cubic | S-curve |
 | Reciprocal | Two curved branches |
-| Exponential | Curve growing/decaying |
+| Exponential (Higher) | Curve growing/decaying |
 | Trigonometric (Higher) | Periodic wave |
+
+Linear, quadratic, simple cubic and reciprocal graphs are Foundation; exponential and trigonometric graphs are Higher only (A12, A14).
+
+**Straight lines (A9):** using y = mx + c for **parallel** lines and finding the equation of a line through two points, or through one point with a given gradient, is Foundation; **perpendicular** lines are Higher.
 
 **Higher tier also:** gradients/areas under graphs (kinematics, financial contexts), equation of a circle centred at the origin, tangent to a circle.
 
@@ -52,9 +58,9 @@ y = mx + c    -- m = gradient, c = y-intercept
 
 | Method | When |
 |---|---|
-| **Factorising** | Quadratic has clean integer roots |
-| **Completing the square** | No clean roots, or need the turning point |
-| **Quadratic formula** | Always works, any quadratic |
+| **Factorising** (Foundation for x² + bx + c) | Quadratic has clean integer roots |
+| **Completing the square (Higher)** | No clean roots, or need the turning point |
+| **Quadratic formula (Higher)** | Always works, any quadratic |
 | **Graph** | Approximate solutions, any case |
 | **Iteration (Higher)** | Numerical approximation |
 
@@ -70,9 +76,11 @@ y = mx + c    -- m = gradient, c = y-intercept
 |---|---|
 | **Arithmetic** | Constant common difference |
 | **Triangular/square/cube** | Named number patterns |
-| **Fibonacci-type (Higher)** | Each term = sum of previous two |
-| **Quadratic (Higher)** | nth term includes n² |
-| **Geometric (Higher)** | Constant common ratio, possibly a surd |
+| **Fibonacci-type** | Each term = sum of previous two |
+| **Quadratic** | Second differences constant; finding its nth term is Higher |
+| **Geometric** | Constant common ratio (rational at Foundation; a surd ratio is Higher) |
+
+Recognising and using Fibonacci-type, quadratic and simple geometric sequences is **Foundation** (A24); other sequences, a surd common ratio and the nth term of a quadratic sequence (A25) are **Higher**.
 
 **nth term of a linear sequence:** the coefficient of n is always the **common difference** — check quickly against the first few terms rather than memorising per question.
 
@@ -87,7 +95,7 @@ So nth term = 3n + 2
 Check: n=1 -> 5, n=2 -> 8 (correct)
 ```
 
-## Worked example: solving a linear-quadratic simultaneous pair
+## Worked example: solving a linear-quadratic simultaneous pair (Higher)
 
 Solve y = x + 1 and y = x² − 1 simultaneously.
 
@@ -138,11 +146,13 @@ Finding the second differences first, using them to identify the n² coefficient
 
 ## Quick self-test
 
-- Simplify 4a × 3b, and rearrange 2y = 6x − 8 to identify the gradient and y-intercept.
-- Solve x² − x − 6 = 0 by factorising.
-- Find the nth term of 7, 11, 15, 19.
-- Solve the simultaneous pair y = 2x − 1 and y = x² + 1.
-- List three pieces of Higher-tier-only Algebra content from memory.
+1. Simplify 4a × 3b, and rearrange 2y = 6x − 8 to identify the gradient and y-intercept.
+2. Solve x² − x − 6 = 0 by factorising.
+3. Find the nth term of 7, 11, 15, 19.
+4. (Higher) Solve the simultaneous pair y = 2x + 2 and y = x² − 1.
+5. List three pieces of Higher-tier-only Algebra content from memory.
+
+**Answers:** 1. 4a × 3b = 12ab; 2y = 6x − 8 gives y = 3x − 4, so the gradient is 3 and the y-intercept is −4. 2. (x − 3)(x + 2) = 0, so x = 3 or x = −2. 3. The common difference is 4, and 4n gives 4, 8, 12, 16, each 3 less than the sequence, so the nth term is 4n + 3. 4. 2x + 2 = x² − 1 gives x² − 2x − 3 = 0, so (x − 3)(x + 1) = 0 and x = 3 or x = −1; substituting back gives the solutions (3, 8) and (−1, 0). 5. Any three of: factorising ax² + bx + c; solving quadratics by completing the square or the quadratic formula; perpendicular lines; exponential and trigonometric graphs; inverse and composite functions; algebraic proof; the equation of a circle and its tangent; linear/quadratic simultaneous equations; iteration; quadratic inequalities; the nth term of a quadratic sequence.
 
 ## Related resources
 

@@ -109,11 +109,14 @@ in this age group."
 ## Connecting settlement and service provision
 
 1.5's settlement content and service provision are examined together because they're causally
-linked: a settlement's size, function and connectivity (its site and situation) directly determine
+linked: a settlement's size, function and connectivity directly determine
 what services it can support — a larger, more central settlement typically has a wider range and
 higher order of services than a small, isolated one. This relationship, sometimes described through
 settlement hierarchy, is worth understanding as cause and effect rather than as two separate lists
-of facts to memorise, since exam questions frequently ask candidates to explain *why* a settlement
+of facts to memorise. Keep this separate from **site** (the physical land a settlement is built on)
+and **situation** (its position relative to surrounding features and other places): site and
+situation are among the factors that influence a settlement's growth and functions, not other names
+for its size or function. Understanding the hierarchy this way matters since exam questions frequently ask candidates to explain *why* a settlement
 has (or lacks) a particular service, which requires this causal reasoning rather than description
 alone.
 

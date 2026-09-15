@@ -83,13 +83,15 @@ then a stack. **[2]**
 **(c)** Explain why the nearby beach is a depositional feature rather
 than an erosional one. **[1]**
 
-**9.** A weather station records a fall in air pressure over several
-days.
+**9.** A school weather station keeps a maximum-minimum thermometer
+inside a Stevenson Screen.
 
-**(a)** Predict what is likely to happen to the weather as pressure
-continues to fall. **[2]**
-**(b)** Explain why high-pressure systems are usually associated with
-the opposite conditions. **[2]**
+**(a)** Describe two features of a Stevenson Screen that help the
+thermometers inside record accurate air temperatures. **[2]**
+**(b)** On one day the maximum thermometer reads 31 °C and the minimum
+thermometer reads 19 °C. Calculate the temperature range for that
+day. **[1]**
+**(c)** Name the instrument used to measure wind direction. **[1]**
 
 **10.** Compare tropical rainforest and hot desert environments in
 terms of climate, vegetation adaptation, and one human threat to each. **[6]**
@@ -151,19 +153,20 @@ separately as a stack [2].
 sediment (sand or shingle) that has been transported and then
 deposited by wave action, rather than from rock being worn away [1].
 
-**9.** **(a)** As pressure continues to fall, conditions are likely to
-become cloudier, wetter and windier, since falling pressure is
-typically associated with low-pressure systems bringing unsettled
-weather [2].
-**(b)** High-pressure systems are associated with sinking air, which
-suppresses cloud formation and produces settled, dry, clear conditions
-— the opposite of the rising air and cloud/rain development typical of
-low-pressure systems [2].
+**9. (a)** Any two of, 1 mark each: painted white to reflect the
+sun's heat; louvred (slatted) sides so that air circulates freely
+while direct sunlight is kept off the thermometers; raised on legs
+above the ground so readings are not affected by heat from the ground
+surface; sited in an open space away from buildings and trees so that
+readings are representative [2].
+**(b)** 31 − 19 = 12 °C [1].
+**(c)** Wind vane [1].
 
 **10.** A strong answer should compare across all three dimensions:
-climate (tropical rainforest — consistently high temperature and heavy
-rainfall throughout the year; hot desert — very low rainfall and a
-wide diurnal temperature range) [2]; vegetation adaptation
+climate (tropical rainforest, which has an equatorial climate —
+consistently high temperature and heavy rainfall throughout the year;
+hot desert — very low rainfall and a wide diurnal temperature range)
+[2]; vegetation adaptation
 (rainforest — dense, layered canopy competing for light; desert —
 water storage and reduced leaf surface area to limit water loss) [2];
 and one human threat to each (rainforest — deforestation for timber or

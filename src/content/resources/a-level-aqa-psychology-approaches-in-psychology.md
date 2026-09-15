@@ -29,8 +29,11 @@ theoretical lenses that later content -- including Paper 1's own topics -- can b
 
 Paper 2 assesses knowledge, application, analysis, interpretation and evaluation of specified content,
 including research methods and mathematical skills, and Approaches in Psychology is the sub-topic that
-gives students the six theoretical frameworks the rest of the course draws on. AS and A-level share the
-first year of teaching, and Paper 2's content is common to both.
+gives students the six theoretical frameworks the rest of the course draws on. AS (7181) and A-level (7182)
+are separate linear qualifications, and their second papers are not the same: the A-level Paper 2 (2 hours,
+96 marks) assesses approaches in psychology, biopsychology and research methods, whereas the AS Paper 2
+(1 hour 30 minutes, 72 marks) assesses approaches in psychology (learning, cognitive and biological approaches only, with a shorter
+biopsychology section), clinical psychology and mental health, and research methods.
 
 ## Syllabus coverage
 

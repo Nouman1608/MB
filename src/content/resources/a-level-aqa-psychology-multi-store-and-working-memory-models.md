@@ -9,24 +9,24 @@ qualifications: ["a-level"]
 syllabusCodes: ["7182"]
 syllabusSeries: "first teaching 2015"
 order: 1
-stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "paper-1-introductory-topics-7182"
     subtopic: "memory-7182"
-description: "The multi-store model (sensory register, STM, LTM) and the working memory model (central executive, phonological loop, visuo-spatial sketchpad, episodic buffer) -- the two structural models within 3.1.2 Memory, AQA A-Level Psychology (7182)."
+description: "The multi-store model (sensory register, STM, LTM) and the working memory model (central executive, phonological loop, visuo-spatial sketchpad, episodic buffer) -- the two structural models within the Memory topic (4.1.2 in the A-level content, 3.1.2 in the AS content), AQA A-Level Psychology (7182)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 ---
 
-This guide covers the two structural models of memory within **3.1.2
-Memory**, from AQA AS and A-level Psychology (7181/7182), Version 1.4,
+This guide covers the two structural models of memory within **Memory**
+(4.1.2 in the A-level subject content; 3.1.2 in the AS subject content),
+from AQA AS and A-level Psychology (7181/7182), Version 1.4,
 1 September 2025: the multi-store model, and the working memory model.
 
 ## Scope of this guide
 
-3.1.2 Memory also covers explanations for forgetting and eyewitness
+The Memory topic also covers explanations for forgetting and eyewitness
 testimony accuracy. This resource focuses on the two structural
 models — multi-store and working memory — which underpin the rest of
 the topic; forgetting and eyewitness testimony are left for a separate
@@ -34,11 +34,11 @@ resource.
 
 ## Syllabus coverage
 
-**AQA AS AND A-LEVEL PSYCHOLOGY (7181/7182) — 3.1.2 MEMORY (STRUCTURAL MODELS)**
+**AQA AS AND A-LEVEL PSYCHOLOGY (7181/7182) — 4.1.2 MEMORY (STRUCTURAL MODELS)**
 
 The multi-store model of memory: sensory register, short-term memory
 and long-term memory. Features of each store: coding, capacity and
-duration. Types of long-term memory: episodic, semantic, procedural.
+duration.
 The working memory model: central executive, phonological loop,
 visuo-spatial sketchpad and episodic buffer. Features of the model:
 coding and capacity.
@@ -79,27 +79,38 @@ components and links to long-term memory.
 
 A question describes someone struggling to remember a phone number
 while simultaneously reading a map, and asks candidates to explain
-this using the working memory model.
+this difficulty using the working memory model.
 
 ```
-Task 1:        holding the phone number in mind -- uses the
-               phonological loop (verbal/acoustic information)
-Task 2:        reading and interpreting the map -- uses the
-               visuo-spatial sketchpad (visual/spatial information)
-Explanation:   because these two tasks use different, separate
-               components of working memory (phonological loop vs
-               visuo-spatial sketchpad), they can be performed
-               simultaneously with relatively little interference,
-               supporting the working memory model's claim that STM
-               is not a single unified store
-Central        the central executive coordinates attention between
-executive:     the two tasks and directs resources as needed, but has
-               no storage capacity of its own
+Task 1:        holding the phone number in mind -- verbal/acoustic
+               information, kept available by sub-vocal rehearsal
+               in the phonological loop
+Task 2:        reading the map -- the layout is visual/spatial
+               (visuo-spatial sketchpad), but reading street and
+               place names to yourself also uses the phonological
+               loop
+Explanation:   the difficulty arises because both tasks need the
+               SAME limited-capacity component: the place names and
+               the phone number compete for the phonological loop,
+               so rehearsal of the number is displaced and the
+               number is lost
+Central        working out an unfamiliar route is attention-
+executive:     demanding; the central executive has limited capacity
+               and no storage of its own, so while it is loaded by
+               navigation it cannot also keep directing rehearsal of
+               the number
+Contrast:      if the second task were purely visuo-spatial (tracing
+               a route by eye, with no names to read), the model
+               predicts relatively little interference, because a
+               separate component would handle each task
 ```
 
-This pattern — identifying which specific component handles which type
-of information, then explaining the resulting behaviour — is the core
-applied skill this content is assessed against.
+This pattern — identifying which specific component each task needs,
+then explaining whether the tasks compete for the same component (or
+overload the central executive) and so interfere — is the core
+applied skill this content is assessed against. An answer that
+concludes the two tasks "can be performed with little interference"
+does not explain a person who is struggling.
 
 ## Key terms to define precisely
 
@@ -113,13 +124,15 @@ loop, visuo-spatial sketchpad and episodic buffer, but has no storage
 capacity of its own. **Episodic buffer** — the working memory
 component that integrates information from the other components into
 a single, temporary representation and provides a link to long-term
-memory. **Episodic, semantic and procedural memory** — the three
-types of long-term memory the specification names: episodic memory
-stores personal experiences and events; semantic memory stores facts
-and general knowledge; procedural memory stores skills and learned
-actions. Being able to give a real example of each of the three
-long-term memory types — not just name them — is a small but
-consistently rewarded piece of precision in this content.
+memory.
+
+*Background, not specification content:* earlier versions of the
+specification (up to version 1.2, October 2021) also listed types of
+long-term memory (episodic, semantic, procedural). That bullet was
+removed in version 1.4 (first teaching September 2025), so it is not
+required for exams from June 2026 (AS) and June 2027 (A-level). It can
+still be useful context when evaluating the multi-store model's
+single long-term store.
 
 ## Common mistakes
 
@@ -148,4 +161,4 @@ describing (a sequence of stores, versus internal STM structure).
 ## Official syllabus
 
 AQA AS and A-level Psychology (7181/7182) specification, Version 1.4 —
-[aqa.org.uk/7182](https://filestore.aqa.org.uk/resources/psychology/specifications/AQA-7181-7182-SP-2015.PDF).
+[aqa.org.uk/7182](https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification).

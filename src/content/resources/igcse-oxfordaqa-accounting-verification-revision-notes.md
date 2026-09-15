@@ -67,9 +67,12 @@ yet processed: unpresented cheques (subtract from bank statement
 balance) and outstanding lodgements (add to bank statement balance).
 
 **Common confusion to avoid:** an unpresented cheque reduces the
-*bank's* recorded balance relative to the cash book, not the other way
-round — get the direction wrong and every reconciliation total that
-follows is wrong too.
+*cash book* balance relative to the bank, not the other way round. The
+business has already entered the cheque in its cash book but the bank
+has not yet paid it, so the bank statement shows the more favourable
+balance of the two — which is why the cheque is subtracted from the
+bank statement balance. Get the direction wrong and every reconciliation
+total that follows is wrong too.
 
 ## Correcting errors: suspense account vs journal only
 
@@ -89,7 +92,10 @@ on reported profit, not just the correcting entry. Ask: does the
 correction increase, decrease, or leave unchanged the recorded revenue
 or expense? An error affecting only balance-sheet accounts (e.g. two
 asset accounts) leaves profit unchanged; an error touching a revenue or
-expense account changes it.
+expense account changes it, unless it is offset by an equal error in
+another revenue or expense account (for example, sales and purchases
+both understated by the same amount, a compensating error that leaves
+gross profit unchanged).
 
 ## Sequencing a full error-correction question
 

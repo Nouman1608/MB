@@ -55,7 +55,7 @@ Related: [Population and Settlement revision notes](/resources/o-level-geography
 
 ## Answers
 
-**1. Birth rate** — the **number of live births per 1000 people per year** [1]. **Death rate** — the number of deaths per 1000 people per year [1]. **Natural increase** — the **birth rate minus the death rate**, expressed as a percentage [1]. **Population density** — the **average number of people per square kilometre** [1].
+**1. Birth rate** — the **number of live births per 1000 people per year** [1]. **Death rate** — the number of deaths per 1000 people per year [1]. **Natural increase** — the **birth rate minus the death rate**, which gives a rate per 1000 people per year; divide by 10 to express it as a percentage (e.g. 30 − 10 = 20 per 1000 = 2.0%) [1]. **Population density** — the **average number of people per square kilometre** [1].
 
 **2. Stage 1** — high birth rate, high fluctuating death rate, so population is stable and low [1]. **Stage 2** — high birth rate, **rapidly falling death rate**, so population grows rapidly [1]. **Stage 3** — **falling birth rate**, low death rate, so growth slows [1]. **Stage 4** — low birth rate, low death rate, so population is high and stable [1]. **Stage 5** — birth rate falls **below** the death rate, so population declines [1].
 
@@ -74,7 +74,7 @@ Pull: **more and better-paid jobs in industry and services** [1]; **better schoo
 
 **8. Range** is **how far people are willing to travel to use a service** [1]. **Threshold population** is the **minimum number of people needed to make a service viable** [1]. A department store has a **high threshold population and a large range** — it needs many customers to be profitable, and people will travel further for it, so **only large settlements can support one**, and few settlements contain one [1] [1]. A newsagent has a **low threshold and a small range**, so even a small settlement can support one, and there are many of them [1].
 
-**9.** The CBD is dominated by **shops, offices and tall, high-density buildings**, with little residential land use [1]. Land values are highest there because it is the **most accessible point in the settlement**, where transport routes converge, so the greatest number of potential customers can reach it [1]; this **high demand for a limited amount of central land** pushes up the price competitors are willing to pay for it, which is reflected in tall buildings that maximise the floor space obtained from expensive land [1].
+**9.** Description, 2 marks: the CBD is dominated by **shops (especially high-order and comparison shops) and offices** [1], in **tall, high-density buildings, with little residential land use** [1]. Two reasons, 1 mark each: land values are highest there because it is the **most accessible point in the settlement**, where transport routes converge, so the greatest number of potential customers and workers can reach it [1]; and because there is **high demand for a limited amount of central land**, so competing users bid up its price, which is why buildings are tall to maximise the floor space obtained from expensive land [1].
 
 ---
 

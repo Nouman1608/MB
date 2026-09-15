@@ -22,20 +22,21 @@ This guide covers **Section G: Differentiation**, G1 through G6, of
 AQA A-Level Mathematics (7357), first teaching September 2017. Like
 the rest of the Pure content, Section G is Department for Education
 (DfE) prescribed content shared across every exam board offering
-A-level Mathematics, not set independently by AQA. Section G runs
-across both Paper 1 (pure) and Paper 2 (pure and mechanics/statistics),
-so fluency here underpins marks across the whole qualification, not
-just one exam paper.
+A-level Mathematics, not set independently by AQA. Section G is
+Paper 1 content, and Paper 2 (which adds mechanics) and Paper 3 (which
+adds statistics) can each assess any Paper 1 content, so fluency here
+underpins marks across the whole qualification, not just one exam
+paper.
 
 ## Where this fits in 7357
 
 Differentiation builds directly on Section B (Algebra and Functions)
-and Section D (Coordinate Geometry), applying the algebraic and
+and Section C (Coordinate Geometry), applying the algebraic and
 graph-sketching skills developed there to the new question of how a
 function's rate of change behaves. It also underpins Section H
 (Integration), which reverses the operation, and appears throughout
-the mechanics content (rates of change of displacement and velocity)
-and statistics content examined on Paper 2 and Paper 3.
+the mechanics content (rates of change of displacement and velocity,
+examined on Paper 2) and statistics content (examined on Paper 3).
 
 ## Syllabus coverage
 
