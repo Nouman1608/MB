@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**144 open confirmed errors → zero.**
+**145 open confirmed errors → zero.**
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -142,6 +142,10 @@ work order can be a document rather than a conversation.
 - **E276 needs no action.** Its correction was verified safe (Q373) — and **D-141 had already
   applied it** on 6 September; the file on `main` is correct. *This line first said "apply as
   written" (Q374).*
+- **Round 7 (2026-10-14, E902/Q379):** **Apply E902 first** — `a-law-the-law-in-action-practice`
+  Q2: stem to three implied terms (s9, s10, s11), [3], and s13 out of the scheme or labelled
+  extension with no credit. YLA1 names exactly three. Four bounds (E874, E347, E482, E331) are
+  recorded; their applied fixes are already safe.
 - **Round 6 (2026-10-13, Q377/Q378):** **E746 is withdrawn** — leave the stem as it is. **E738, E739
   are verified fixed.** **E736** needs only its linked-list table row removed; **E729** only the
   NEXT mention in its common-mistakes sentence. Apply **E602, E739, E763** only with the bounds
