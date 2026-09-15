@@ -23,6 +23,13 @@ Islamiyat (2058). The site's existing guide to [Paper 1](/resources/o-level-isla
 four Paper 1 subtopics, but develops 1.1 in only a single summary bullet before moving on to focus on 1.2's
 compilation history and the connected timeline of 1.3 and 1.4 -- this guide develops 1.1 specifically.
 
+**Which edition this guide covers:** this guide follows the **2024-2025 syllabus**, which has since closed.
+Cambridge has published two further cycles for 2058 -- a 2026-2027 syllabus (the edition the site's other
+2058 resources, including the main [Paper 1](/resources/o-level-islamiyat-paper-1/) guide, now follow) and
+a 2028 syllabus. The qualification itself is live and has not been withdrawn or renumbered. Check with your
+centre which cycle you are entered for before relying on this guide's syllabus citation below; the thematic
+content on this page has not yet been re-verified against the newer cycles.
+
 ## Where this fits in 2058
 
 Subtopic 1.1 is examined through Question 1, which is compulsory and sets three short passages on the
