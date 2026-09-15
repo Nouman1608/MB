@@ -1,5 +1,8 @@
 ---
 title: "A Levels"
+heading: "Online A Level Tutoring — AS & A2"
+seoTitle: "A Level Tutoring Online — AS & A2 Tuition"
+seoDescription: "Online AS and A2 tuition for students moving towards university entry, taught by named subject specialists. Small groups or one-to-one. First class free."
 order: 3
 level: "a-levels"
 marlbridgeTeaches: "teaching"

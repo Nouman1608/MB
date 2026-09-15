@@ -1,5 +1,8 @@
 ---
 title: "IB"
+heading: "Online IB Tutoring — Diploma Programme & MYP"
+seoTitle: "IB Tutoring Online — Diploma (DP) & MYP"
+seoDescription: "One-to-one online IB tuition for the Diploma Programme and MYP. DP Economics and Physics taught to full syllabus depth; other IB subjects at overview depth."
 order: 5
 level: "ib"
 marlbridgeTeaches: "teaching"

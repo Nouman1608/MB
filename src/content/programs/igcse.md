@@ -1,5 +1,8 @@
 ---
 title: "IGCSE"
+heading: "Online IGCSE Tutoring — Cambridge, Edexcel & OxfordAQA"
+seoTitle: "IGCSE Tutoring Online — Cambridge, Edexcel, OxfordAQA"
+seoDescription: "Online IGCSE tuition across sciences, mathematics and humanities for Cambridge, Pearson Edexcel and OxfordAQA, taught by named specialists. First class free."
 order: 1
 level: "igcse"
 marlbridgeTeaches: "teaching"

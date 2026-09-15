@@ -1,5 +1,8 @@
 ---
 title: "GCSE"
+heading: "Online GCSE Tutoring for UK Students"
+seoTitle: "GCSE Tutoring Online for UK Students"
+seoDescription: "Online GCSE tuition for UK students by named subject specialists in maths, sciences, economics and business. Small groups or one-to-one. First class free."
 order: 4
 level: "gcse"
 marlbridgeTeaches: "teaching"
