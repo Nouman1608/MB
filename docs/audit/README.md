@@ -5,7 +5,7 @@
 There is no single file of problems. This folder is an **append-only series**: each dated
 file is one round, findings are **never edited after publication**, and later rounds
 **amend** earlier ones. Acting on an old file without checking what amended it is how the
-corpus ended up worse than baseline on five files — see the amendment map below.
+corpus briefly ended up worse than baseline on five files — see the amendment map below.
 
 ---
 
@@ -15,9 +15,13 @@ corpus ended up worse than baseline on five files — see the amendment map belo
    apply to every finding, built from cases where applying a correction as written would
    have introduced a new error. It is the single most useful file here.
 2. **Check the amendment map below** for the finding you are about to act on.
-3. **Read the finding's own `Note for correction:`** if it has one. That sentence usually
+3. **Check the current state of the file itself.** Every finding here records what was true
+   at a moment in time, and the repair work moves faster than the findings do. A finding that
+   says a file "is wrong" may describe a state that has since been fixed. *The first version
+   of this README got this wrong — see the E782 row.*
+4. **Read the finding's own `Note for correction:`** if it has one. That sentence usually
    exists because the obvious reading of the finding is wrong.
-4. **A correction is scoped to the code its finding examined.** Confirm the file you are
+5. **A correction is scoped to the code its finding examined.** Confirm the file you are
    editing belongs to that code before applying anything corpus-wide.
 
 ---
@@ -30,7 +34,7 @@ corpus ended up worse than baseline on five files — see the amendment map belo
 | `2026-09-20` … `2026-09-22-findings.md` | Absence re-verification rounds 1–3: findings re-checked against complete specifications. |
 | `2026-09-23` … `2026-09-30-findings.md` | The **correction audit** — findings about the *instructions* attached to findings. Several reverse earlier advice. |
 | `2026-10-01`, `2026-10-07-findings.md` | Absence re-verification rounds 4–5. |
-| `2026-10-02-repair-regression.md` | A repair round that made the corpus worse. Read it before trusting any reversal. |
+| `2026-10-02-repair-regression.md` | A repair round that made the corpus worse. **Since fixed — see the E782 row below.** |
 | `2026-10-03` … `2026-10-06-findings.md` | Repair verification and the coverage sweeps. |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
@@ -43,7 +47,7 @@ corpus ended up worse than baseline on five files — see the amendment map belo
 
 | if you are acting on | read this first | because |
 |---|---|---|
-| **E782** (2026-09-16) | **2026-10-02-repair-regression.md** | A repair round reversed it the wrong way. The eAssessment figure is **24 marks per criterion, not 32**. Five MYP files are currently wrong, including two that were right before. **E900** reverses the reversal. |
+| **E782** (2026-09-16) | 2026-10-02-repair-regression.md, then **this row** | **Resolved — no action needed.** The sequence: E782 was right (32 = classroom total across four criteria; 24 = eAssessment marks per criterion). D-202 reversed it on a webinar transcript and made five files worse. E900/Q362 caught that. **D-211 (`01f08fc`) then fixed all of it properly** — eAssessment passages read 24, classroom passages read 8/32, the derived total is corrected 96 → 72, and every file states the two scales explicitly. Verified file by file on `main`. The regression document describes a state that no longer exists. |
 | the **27 section-structure findings** (2026-09-23) | 2026-09-29 (**Q358**), and §7 of the constraints | Six of them offer "or drop the section headings" for papers that genuinely have those headings. That option has already damaged five resources. **E335, E367, E391, E625, E631, E642 — do not take the drop option.** |
 | any finding whose fix **removes** content | §2 of the constraints | Removal is often the wrong half. The finding is usually right about placement, not about subject matter. |
 | any finding that hands you **a count or a closed list** | §4 of the constraints, and **Q359** (2026-09-30) | Two were found stating counts their own evidence does not support. **E276** and **E442** need checking before use. |
@@ -69,18 +73,24 @@ Every finding carries:
 
 ---
 
-## Two rules that came out of things going wrong
+## Three rules that came out of things going wrong
 
 **Reversing a finding.** You may reverse one — the audit has been wrong and been corrected
 several times, correctly. But reverse it **only against the primary document the finding
 cited, read at the point of reversal.** Secondary material — a webinar, a support article, a
 forum, a mark-scheme commentary — may raise a question; it may never settle one. And before
 recording that a finding is wrong, quote what it actually said: if the quotation has to be
-paraphrased to make the contradiction work, there is no contradiction. (Q362)
+paraphrased to make the contradiction work, there is no contradiction. (Q362 — and D-211's
+own commit message adopts this rule.)
 
 **A flag is a document to open.** Screens in this audit have been mistaken for measurements
 six times. Every published group size has turned out wrong on reading. Where a finding
 reports a count of affected items, treat it as a reading list. (Q359, D10, Q367)
+
+**A finding is a timestamp, not a status.** It records what was true when it was written.
+Before acting on one, check the file as it stands now. This cuts both ways: the audit has
+published a stale alarm about files that were already fixed, and a repair round has closed a
+finding against a snapshot that was three days old.
 
 ---
 
@@ -89,14 +99,14 @@ reports a count of affected items, treat it as a reading list. (Q359, D10, Q367)
 | | |
 |---|---|
 | findings recorded | 1,661 |
-| confirmed errors open | **713** |
-| declared closed by decision log D-192…D-210 | 130 |
+| confirmed errors open | **713** *(E900 now remediated — see the E782 row)* |
+| declared closed by decision log D-192…D-218 | 130 recorded, more since |
 | still open despite a closing round (deferred, partial, or reopened) | 48 |
 | resources read end to end | 1,251 of 1,251 |
 
 **"Declared closed" means a repair round recorded the finding as handled — not that the audit
 verified it.** Of the closures spot-checked by reading: five sound, two better than the
-correction asked for, one a regression.
+correction asked for, one a regression that has since been corrected.
 
-Regenerated by the audit's build; the decision log remains the authoritative record of what
-was *done*, and this folder the record of what was *found*.
+The decision log remains the authoritative record of what was *done*, and this folder the
+record of what was *found*.
