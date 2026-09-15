@@ -24,8 +24,8 @@ This guide covers **proficiency levels and the criteria structure**
 for IB Middle Years Programme Language Acquisition, from 2020. The
 [full syllabus
 guide](/resources/ib-myp-language-acquisition-syllabus-guide/)
-confirms all four assessment criteria carry equal weight (32 marks
-each), alongside the [Criteria in
+confirms all four assessment criteria carry equal weight in the eAssessment blueprint (24 marks
+each -- a separate scale from the 8-level, 32-mark-total classroom assessment), alongside the [Criteria in
 Practice](/resources/ib-myp-language-acquisition-criteria-in-practice/)
 guide already on the site.
 
@@ -55,17 +55,17 @@ be treated as the same scale.
 
 ## The four criteria are independently weighted
 
-Criterion A, Listening (32 marks), covers interpreting and
-constructing meaning from spoken multimodal text. Criterion B,
-Reading (32 marks), covers constructing meaning from written, spatial
-and visual text. Criterion C, Speaking (32 marks), covers interacting
-on topics of personal, local and global interest. Criterion D, Writing
-(32 marks), covers using language suitable to audience and purpose
-across registers. Because listening, reading and writing are assessed
-together in one on-screen paper while speaking is assessed separately
-as an internally marked, IB-moderated interactive task, strong written
-performance does not substitute for oral preparation -- all four are
-independently weighted at an equal 32 marks each.
+Each criterion is scored on an 8-point scale (1-8) for classroom assessment, giving a classroom
+total of 32 across all four -- a separate scale from the eAssessment blueprint figures below, which
+are raw marks, not achievement levels. In the eAssessment blueprint: Criterion A, Listening (24
+marks), covers interpreting and constructing meaning from spoken multimodal text. Criterion B,
+Reading (24 marks), covers constructing meaning from written, spatial and visual text. Criterion C,
+Speaking (24 marks), covers interacting on topics of personal, local and global interest. Criterion
+D, Writing (24 marks), covers using language suitable to audience and purpose across registers.
+Because listening, reading and writing are assessed together in one on-screen paper while speaking is
+assessed separately as an internally marked, IB-moderated interactive task, strong written
+performance does not substitute for oral preparation -- all four are independently weighted at an
+equal 24 marks each in the eAssessment blueprint.
 
 ## Worked example: matching preparation to level
 

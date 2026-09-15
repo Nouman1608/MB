@@ -22,6 +22,12 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+> **In particular:** the "Section A/B" labels below are organisational only
+> — they do not reproduce either real 9225 paper's actual profile (Section A
+> 15 marks of multiple choice/short answer, followed by two further sections
+> of approximately 40 and 35 marks each built around a case-study/data-response
+> stimulus). This file has no multiple-choice questions, no stimulus material,
+> and no third section.
 
 Related: [Influences on business study guide](/resources/igcse-oxfordaqa-business-influences-on-business/)
 
@@ -110,7 +116,7 @@ merely describes both influences without comparing their relative severity for t
 
 Because Topic 2's six sub-topics recur as background context throughout Topics 3-6 (Business Operations,
 Human Resources, Marketing and Finance), a scenario question elsewhere on the exam paper may assume
-familiarity with, say, exchange-rate effects (2.4) without re-explaining them — building genuine fluency
+familiarity with, say, exchange-rate effects (specification section 3.2.4, Globalisation) without re-explaining them — building genuine fluency
 in this topic, rather than revising it as a standalone unit to be forgotten once the test on it is
 complete, pays off throughout the rest of the exam.
 

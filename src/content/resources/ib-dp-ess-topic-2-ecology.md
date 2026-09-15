@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
-description: "Ecosystem structure, energy flow, nutrient cycling and ecosystem change -- IB Diploma Programme ESS Topic 2, the second-largest syllabus topic at both SL and HL, and how it applies Topic 1's systems concepts to real ecosystems."
+description: "Ecosystem structure, energy flow, nutrient cycling and ecosystem change -- IB Diploma Programme ESS Topic 2, the largest syllabus topic at both SL and HL, and how it applies Topic 1's systems concepts to real ecosystems."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -22,8 +22,9 @@ This guide covers **Topic 2 -- Ecology**, for IB Diploma Programme
 Environmental Systems and Societies, first assessment 2026. The [full
 syllabus
 guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/)
-allocates Topic 2 more teaching hours (22 SL / 26 HL) than any topic
-besides Topic 1 itself, reflecting how central it is to the course.
+allocates Topic 2 more teaching hours (22 SL / 35 HL) than any other
+topic -- it is the largest topic in the syllabus at both levels,
+reflecting how central it is to the course.
 
 ## Where this fits in the syllabus
 
@@ -58,11 +59,12 @@ cycles such as the carbon or nitrogen cycle
 recover from disturbance, connecting directly back to Topic 1's
 systems concept of resilience
 
-HL students study Topic 2 for four additional hours beyond SL,
-typically extending into more detailed quantitative treatment of
-energy flow (such as calculating ecological efficiency between trophic
-levels) and more complex food web scenarios involving multiple
-interacting cascades.
+HL students study Topic 2 for thirteen additional hours beyond SL (22
+to 35 hours) -- one of the largest HL uplifts of any topic in the
+syllabus -- typically extending into more detailed quantitative
+treatment of energy flow (such as calculating ecological efficiency
+between trophic levels) and more complex food web scenarios involving
+multiple interacting cascades.
 
 ## How to approach it
 
@@ -149,5 +151,5 @@ International Baccalaureate Organization, *Diploma Programme Subject
 Brief -- Sciences: Environmental systems and societies*, first
 assessment 2026 -- the same source already cited by the [full syllabus
 guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/),
-which allocates Topic 2 its 22 SL / 26 HL teaching hours. Verified
+which allocates Topic 2 its 22 SL / 35 HL teaching hours. Verified
 2026-09-06.

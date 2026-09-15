@@ -46,7 +46,7 @@ the wrong combination rule as a result, is one of the most common probability er
 
 ## Distributions
 
-Covers discrete distributions (binomial, Poisson) and the continuous normal distribution, including
+Covers discrete distributions (binomial at both levels; Poisson at HL only) and the continuous normal distribution (both levels), including
 using technology to calculate probabilities and inverse-probability values (finding a value given a
 probability, rather than the other way round) directly from a distribution rather than from tables.
 Revise recognising which distribution model fits a described scenario: a binomial distribution models
@@ -83,8 +83,9 @@ meaningful, is the interpretive half the course specifically assesses.
 
 ## How to approach it
 
-Because Statistics and probability is one of the two largest strands (alongside Functions), prioritise
-fluency in fitting, interpreting and critiquing statistical models over pure hand-calculation when
+Because Statistics and probability is one of the two largest strands at both levels -- alongside
+Functions at SL, but alongside Geometry and trigonometry at HL, where Functions drops to third --
+prioritise fluency in fitting, interpreting and critiquing statistical models over pure hand-calculation when
 allocating revision time. Practise reading a real or realistic dataset, choosing an appropriate
 statistical tool, calculating it using your actual exam technology, and then writing one or two
 sentences interpreting what the result means in context -- this three-part habit (choose, calculate,

@@ -7,7 +7,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Global Politics"]
 order: 1
-description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings and the engagement activity -- for IB Diploma Programme Global Politics."
+description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings and the engagement project -- for IB Diploma Programme Global Politics."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false
@@ -26,54 +26,57 @@ Global Politics sits within the individuals-and-societies subject group alongsid
 
 | Component | SL | HL |
 |---|---|---|
-| Paper 1 (four structured questions, four core units) | 30% | 20% |
-| Paper 2 (extended-response, core units) | 45% | 40% |
-| Paper 3 (HL only: two contemporary case studies) | — | 20% |
-| Engagement activity | 25% | 20% |
+| Paper 1 (four structured questions, core topics) | 30% | 20% |
+| Paper 2 (extended-response, thematic studies) | 40% | 30% |
+| Paper 3 (HL only: global political challenges extension) | — | 30% |
+| Engagement project | 30% | 20% |
 
-## The four core units (every student, every level)
+## The core topic and three thematic studies (every student, every level)
 
-**Power, sovereignty and international relations · human rights · development · peace and conflict.**
+**Core topic:** understanding power and global politics (power, sovereignty, legitimacy, interdependence).
+**Three compulsory thematic studies:** rights and justice · development and sustainability · peace and conflict.
 
-## The engagement activity
+## The engagement project
 
 - Students investigate a political issue of **genuine personal interest** through **direct
   engagement**, not desk research alone.
 - Complemented with theoretical perspectives from research.
-- Submitted as a written report — common to both SL and HL.
+- Submitted as a written report — the report itself is common to both SL and HL, but HL students
+  additionally carry out further research and formulate a **recommendation** addressing the
+  identified political issue, submitted as a separate section; SL students do not complete this task.
 
-## The engagement activity in more depth
+## The engagement project in more depth
 
-The engagement activity is graded against criteria covering: the quality and relevance of the direct engagement itself (interviews, observation, participation, or another form of first-hand involvement with the chosen political issue); the integration of theoretical perspectives drawn from wider reading and course concepts; critical analysis connecting the engagement experience to broader political theory; and reflection on the process, including its limitations. A common weakness is an engagement activity that stays descriptive -- recounting what was done and observed -- without enough critical connection back to core political concepts (power, legitimacy, sovereignty, and so on) covered elsewhere in the course; the strongest reports treat the direct engagement as evidence to be analysed through a political-science lens, not simply reported.
+The engagement project is graded against criteria covering: explanation and justification of the political issue and engagement activities; the research and engagement process; analysis and synthesis of the political issue and stakeholder perspectives; evaluation and reflection on the project as a learning experience; and communication. At HL, a further criterion assesses the quality of the recommendation. A common weakness is an engagement project that stays descriptive -- recounting what was done and observed -- without enough critical connection back to core political concepts (power, legitimacy, sovereignty, and so on) covered elsewhere in the course; the strongest reports treat the direct engagement as evidence to be analysed through a political-science lens, not simply reported.
 
 ## Command terms across the papers
 
-Both Paper 1 and Paper 2 draw on the standard individuals-and-societies command-term glossary: **define**, **identify** and **describe** at the lower end; **explain**, **compare** and **examine** in the middle; **evaluate**, **discuss** and **to what extent** at the top, where a reasoned judgement weighing multiple perspectives, actors or pieces of evidence is required. Because Global Politics is explicitly built around contested political concepts and competing perspectives, "evaluate" and "discuss" responses in this subject are expected to engage with more than one viewpoint or theoretical framework before reaching a conclusion -- a one-sided answer, however well argued, typically loses marks against these top-tier command terms.
+Both Paper 1 and Paper 2 draw on global politics' own command-term glossary, published in the subject guide's appendix and tied to the course's three assessment objectives. As a study device, it can be grouped into three rough tiers: **define**, **identify**, **list**, **outline** and **describe** at the lower (AO1) end; **analyse**, **distinguish**, **explain** and **suggest** in the middle (AO2); and **compare**, **contrast**, **discuss**, **evaluate**, **examine**, **justify**, **recommend** and **to what extent** at the top (AO3), where a reasoned judgement weighing multiple perspectives, actors or pieces of evidence is required. This tiering is a revision aid, not a shared cross-subject classification -- each IB guide, including this one, publishes its own command-term list. Because Global Politics is explicitly built around contested political concepts and competing perspectives, "evaluate" and "discuss" responses in this subject are expected to engage with more than one viewpoint or theoretical framework before reaching a conclusion -- a one-sided answer, however well argued, typically loses marks against these top-tier command terms.
 
-## Why the four core units recur across every paper
+## Why the core topics and thematic studies recur across every paper
 
-Because Power, sovereignty and international relations; Human rights; Development; and Peace and conflict are compulsory core units examined at every level, Papers 1 and 2 are built to draw questions from across all four rather than allowing a student to specialise in only one or two -- a revision plan that concentrates disproportionately on a favourite unit while under-preparing another risks a significant gap on exam day. Because HL students additionally sit Paper 3 on two contemporary case studies chosen from the syllabus's engagement options, HL revision should treat the four core units and the case-study content as complementary rather than substitutable -- strong core-unit understanding underpins strong case-study analysis, since the case studies are examined through the same core concepts.
+Because the core topic (understanding power and global politics) and the three compulsory thematic studies -- rights and justice; development and sustainability; and peace and conflict -- are examined at every level, Papers 1 and 2 are built to draw questions from across all of them rather than allowing a student to specialise in only one or two -- a revision plan that concentrates disproportionately on a favourite area while under-preparing another risks a significant gap on exam day. Because HL students additionally sit Paper 3 on the global political challenges extension -- independent student research into self-selected cases connected to eight named HL topic areas (borders, environment, equality, health, identity, poverty, security, technology) -- HL revision should treat the core topics, thematic studies and case-study content as complementary rather than substitutable -- strong understanding of the core topics and thematic studies underpins strong case-study analysis, since the case studies are examined through the same core concepts.
 
 ## How this compares to a related individuals-and-societies subject
 
-Like other individuals-and-societies DP subjects, Global Politics combines external written examination with an internally assessed, individually graded component -- but its engagement activity is distinctive in requiring genuine first-hand engagement with a real political issue, rather than a desk-research essay or a fieldwork-based investigation as in some sibling subjects. This hands-on requirement reflects the course's own stated aim of connecting political theory to lived political reality, and is worth planning for well in advance, since arranging a genuine engagement opportunity (an interview, an observation, participation in a campaign or organisation) often takes longer to organise than a purely library-based research task.
+Like other individuals-and-societies DP subjects, Global Politics combines external written examination with an internally assessed, individually graded component -- but its engagement project is distinctive in requiring genuine first-hand engagement with a real political issue, rather than a desk-research essay or a fieldwork-based investigation as in some sibling subjects. This hands-on requirement reflects the course's own stated aim of connecting political theory to lived political reality, and is worth planning for well in advance, since arranging a genuine engagement opportunity (an interview, an observation, participation in a campaign or organisation) often takes longer to organise than a purely library-based research task.
 
 ## Exam traps
 
-- Preparing Paper 1 and Paper 2 around only one or two of the four core units, when all four are examinable.
-- Treating the engagement activity as a research essay, missing the required direct-engagement component.
-- HL students underestimating Paper 3's case-study demands, since it's a distinct paper from Papers 1-2.
+- Preparing Paper 1 and Paper 2 around only one or two of the core topics and thematic studies, when all of them are examinable.
+- Treating the engagement project as a research essay, missing the required direct-engagement component.
+- HL students underestimating Paper 3's case-study demands, since it's a distinct paper from Papers 1-2 -- and forgetting that HL's engagement project also requires a separate recommendation section that SL does not.
 
 ## Self-test
 
-1. Name the four core units common to every DP Global Politics student.
-2. What distinguishes the engagement activity from a standard research essay?
+1. Name the core topic and the three thematic studies common to every DP Global Politics student.
+2. What distinguishes the engagement project from a standard research essay?
 3. What is Paper 3, and who sits it?
 4. What are Paper 1 and Paper 2 weighted at, at SL?
-5. Name one criterion the engagement activity is graded against, beyond the quality of the direct engagement itself.
+5. Name one criterion the engagement project is graded against, beyond the quality of the direct engagement itself.
 6. Why do "evaluate" and "discuss" answers in this subject need to engage with more than one viewpoint?
 
-**Answers:** 1. Power, sovereignty and international relations; human rights; development; peace and conflict. 2. It requires direct engagement with a real political issue, not desk research alone, complemented afterward with theoretical perspectives. 3. A paper examining two contemporary global political challenges through case studies, sat only by HL students. 4. Paper 1: 30%, Paper 2: 45%. 5. Any of: integration of theoretical perspectives, critical analysis connecting the engagement to broader theory, or reflection on the process and its limitations. 6. Because Global Politics is built around contested concepts and competing perspectives, so a one-sided answer at the top command-term tier typically loses marks against those criteria.
+**Answers:** 1. Core topic: understanding power and global politics; thematic studies: rights and justice, development and sustainability, peace and conflict. 2. It requires direct engagement with a real political issue, not desk research alone, complemented afterward with theoretical perspectives; HL students additionally formulate a recommendation. 3. A stimulus-based paper on the HL-only global political challenges extension, sat only by HL students. 4. Paper 1: 30%, Paper 2: 40%. 5. Any of: the research and engagement process, analysis and synthesis of the political issue, evaluation and reflection, or communication. 6. Because Global Politics is built around contested concepts and competing perspectives, so a one-sided answer at the top command-term tier typically loses marks against those criteria.
 
 ## Official syllabus
 

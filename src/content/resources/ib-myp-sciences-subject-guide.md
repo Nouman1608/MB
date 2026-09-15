@@ -57,8 +57,7 @@ students to:
 - apply language skills and knowledge in a variety of real-life
   contexts
 - develop sensitivity towards the living and non-living environments
-- reflect on learning experiences and make informed choices, carrying an inquiry-based approach
-  forward into whichever further science study a student chooses beyond age 16.
+- reflect on learning experiences and make informed choices.
 
 ## How it's assessed
 
@@ -67,7 +66,12 @@ scored on an eight-point scale (1-8), regardless of whether a school
 teaches discrete biology, chemistry and physics or an integrated science
 course: Criterion A, Knowing and understanding; Criterion B, Inquiring and
 designing; Criterion C, Processing and evaluating; and Criterion D,
-Reflecting on the impacts of science. Because all four criteria carry
+Reflecting on the impacts of science. Note that the "1-8" here describes
+the four descriptor bands; the MYP subject-group guide additionally
+recognises a level of 0 below the lowest band, awarded when work does
+not reach the standard described by level 1 -- so a single criterion's
+actual attainable range is 0-8, and the four-criterion subject total is
+0-32, not 4-32. Because all four criteria carry
 equal weight, a student who is strong on content recall (Criterion A)
 but weak on designing a fair-test investigation (Criterion B) cannot
 compensate for that gap through content knowledge alone -- each
@@ -111,8 +115,9 @@ is introduced, rather than needing to relearn investigation technique from scrat
 
 ## How this connects to the Diploma Programme
 
-Because MYP Sciences can be taught as an integrated or modular course, students moving on to DP
-sciences (Biology, Chemistry, Physics, or ESS) sometimes need a deliberate transition, since the DP
+Reflecting on learning experiences to make informed choices, the final published aim above, carries
+forward naturally into further study: students moving on to DP sciences (Biology, Chemistry, Physics,
+or ESS) sometimes need a deliberate transition, since the DP
 teaches these as fully separate, discrete subjects with distinct syllabuses and their own SL/HL
 structure. A student from an integrated MYP sciences background is not disadvantaged in principle --
 the MYP's emphasis on inquiry, investigation design and evaluating evidence (criteria B and C)

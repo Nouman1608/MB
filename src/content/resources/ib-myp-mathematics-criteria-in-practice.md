@@ -27,8 +27,12 @@ producing work that satisfies its top achievement-level descriptors.
 
 ## Where this fits in the subject
 
-Although each criterion is scored separately on its own 1-8 scale,
-strong coursework tasks are usually designed to generate evidence for
+Although each criterion is scored separately on its own 1-8 scale (the
+four descriptor bands; the MYP subject-group guide additionally
+recognises a level of 0 below the lowest band, so a criterion's actual
+attainable range is 0-8, and the four-criterion total is 0-32, not
+4-32), strong coursework tasks are usually designed to generate
+evidence for
 more than one criterion at once -- an investigation task, for example,
 naturally produces both Criterion B evidence (the investigative
 process) and Criterion C evidence (how clearly that process is

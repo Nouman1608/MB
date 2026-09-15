@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Design"]
 syllabusSeries: "From 2014"
-order: 5
+order: 8
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-design-assessment-criteria"

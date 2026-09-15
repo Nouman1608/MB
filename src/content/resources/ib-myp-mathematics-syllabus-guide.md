@@ -80,7 +80,12 @@ Each criterion carries equal weight and is scored on eight achievement
 levels (1-8), grouped into four descriptor bands, and teachers use
 these same published band descriptors -- not a separate, informal
 rubric -- to judge classroom coursework throughout the year, not only
-the final on-screen examination.
+the final on-screen examination. This "1-8" describes the four
+descriptor bands; the MYP subject-group guide additionally recognises a
+level of 0 below the lowest band, awarded when work does not reach the
+standard described by level 1 -- so a single criterion's actual
+attainable range is 0-8, and the four-criterion subject total is 0-32,
+not 4-32.
 
 ## MYP eAssessment structure
 

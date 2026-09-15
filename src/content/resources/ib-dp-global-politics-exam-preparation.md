@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Global Politics"]
 order: 4
-description: "Paper-by-paper exam preparation for IB Diploma Programme Global Politics -- covering all four core units evenly, multi-perspective evaluation strategy, HL Paper 3's case studies, a worked scenario and a before/during-exam checklist."
+description: "Paper-by-paper exam preparation for IB Diploma Programme Global Politics -- covering the core topics and all three thematic studies evenly, multi-perspective evaluation strategy, HL Paper 3's global political challenges extension, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -16,44 +16,49 @@ featured: false
 
 The [assessment revision notes](/resources/ib-dp-global-politics-assessment-revision-notes/) set out
 what each paper weighs and tests. These notes turn that into an exam-day plan -- how to cover the
-four core units evenly, how to answer with more than one perspective, and what HL Paper 3 adds --
+core topics and all three thematic studies evenly, how to answer with more than one perspective, and what HL Paper 3 adds --
 with a worked scenario and a checklist, alongside the
 [full syllabus guide](/resources/ib-dp-global-politics-syllabus-guide/) already on the site.
 
-## Cover all four core units, not just a favourite one
+## Cover the core topics and all three thematic studies, not just a favourite one
 
-Power, sovereignty and international relations; human rights; development; and peace and conflict
-are compulsory core units examined at every level, and Papers 1 and 2 are built to draw questions
-from across all four rather than allowing specialisation in only one or two. The single most
-valuable exam-preparation step is an honest, unit-by-unit confidence self-audit across all four
-before the exam -- directing remaining revision time at the weakest unit rather than deepening an
-already-strong favourite, since under-preparing even one of the four core units risks a significant
-gap on exam day.
+The core topic (understanding power and global politics) and the three compulsory thematic studies --
+rights and justice; development and sustainability; and peace and conflict -- are examined at every
+level, and Papers 1 and 2 are built to draw questions from across all of them rather than allowing
+specialisation in only one or two. The single most valuable exam-preparation step is an honest,
+topic-by-topic confidence self-audit before the exam -- directing remaining revision time at the
+weakest area rather than deepening an already-strong favourite, since under-preparing any one of the
+three thematic studies risks a significant gap on exam day.
 
 ## Paper 1 (30% SL / 20% HL): four structured questions
 
-Paper 1's structured questions draw on the four core units directly, generally moving from
+Paper 1's structured questions draw on the core topics directly, generally moving from
 lower-tier recall toward a more demanding final part. **Exam-preparation priority**: practise
 answering the full range of a structured question's parts in order, allocating time to match each
 part's mark value, since spending too long perfecting an early, lower-mark part leaves too little
 time for the higher-mark final part that usually requires more developed reasoning.
 
-## Paper 2 (45% SL / 40% HL): extended response
+## Paper 2 (40% SL / 30% HL): extended response
 
-Paper 2 carries the largest single weighting at both levels and requires sustained extended-response
-writing, drawing on the same four core units. Because Global Politics is built around **contested
+Paper 2 carries the largest single weighting at SL and requires sustained extended-response
+writing, drawing on the three thematic studies -- one essay chosen from a section of thematic-study-specific
+questions, and one integrating essay that draws links across the thematic studies and the core
+topics. Because Global Politics is built around **contested
 political concepts and competing perspectives**, a strong "evaluate" or "discuss" answer here
 specifically needs to engage with more than one viewpoint or theoretical framework before reaching a
 conclusion -- practising this multi-perspective structure deliberately, rather than defending a single
 position throughout, is the specific skill this paper rewards most.
 
-## HL Paper 3 (20%): two contemporary case studies
+## HL Paper 3 (30%): the global political challenges extension
 
-HL students additionally sit Paper 3 on two contemporary case studies chosen from the syllabus's
-engagement options. Because the case studies are examined through the same core concepts as Papers 1
-and 2, treat core-unit understanding and case-study knowledge as complementary rather than
-substitutable -- strong grasp of power, sovereignty, human rights, development and conflict concepts
-directly underpins strong case-study analysis, so case-study revision should apply, not replace, that
+HL students additionally sit Paper 3 on the global political challenges extension. This is not a
+pair of case studies chosen by the school: each HL student independently researches their own cases,
+connecting them to the syllabus's eight HL topic areas -- borders, environment, equality, health,
+identity, poverty, security and technology -- researching at least two case studies across at least
+two topic areas. Because Paper 3 is examined through the same core concepts as Papers 1
+and 2, treat core-topic understanding and case-study knowledge as complementary rather than
+substitutable -- strong grasp of power, sovereignty, legitimacy and interdependence, and of the three
+thematic studies, directly underpins strong case-study analysis, so case-study revision should apply, not replace, that
 core conceptual understanding.
 
 ## Worked practice scenario: a multi-perspective evaluate answer
@@ -101,34 +106,36 @@ this subject.
 
 ## Before/during exam checklist
 
-- **Before the exam**: complete an honest confidence self-audit across all four core units and
-  direct revision time at the weakest one; practise full multi-perspective evaluate answers rather
-  than single-position arguments; HL students should link case-study preparation explicitly back to
-  the four core concepts.
+- **Before the exam**: complete an honest confidence self-audit across the core topics and all three
+  thematic studies and direct revision time at the weakest one; practise full multi-perspective
+  evaluate answers rather than single-position arguments; HL students should link case-study
+  preparation explicitly back to the four core concepts.
 - **During Paper 1**: allocate time across a structured question's parts in proportion to their mark
   value.
 - **During Paper 2**: before writing an extended response, jot at least two distinct perspectives to
   include, then reach an explicit judgement that weighs them.
-- **During HL Paper 3**: connect case-study analysis explicitly back to the four core units' concepts
-  rather than treating the case study as a standalone topic.
+- **During HL Paper 3**: connect case-study analysis explicitly back to the core concepts and
+  thematic studies rather than treating the case study as a standalone topic.
 
 ## Self-test
 
-1. Why is an even, four-unit revision spread more important in this subject than concentrating on a
-   favourite unit?
+1. Why is an even revision spread across the core topics and all three thematic studies more
+   important in this subject than concentrating on a favourite one?
 2. What specific skill does Paper 2's "evaluate"/"discuss" style reward beyond having good content
    knowledge?
 3. In the worked scenario, name the three perspectives used before the final judgement.
-4. How should HL students treat case-study knowledge in relation to the four core units?
+4. How should HL students treat case-study knowledge in relation to the core topics and thematic
+   studies?
 
-**Answers:** 1. Because Papers 1 and 2 are built to draw questions from across all four compulsory
-core units rather than allowing specialisation, so under-preparing even one unit risks a significant
-gap on exam day. 2. Engaging with more than one viewpoint or theoretical framework before reaching a
+**Answers:** 1. Because Papers 1 and 2 are built to draw questions from across the core topics and all
+three compulsory thematic studies rather than allowing specialisation, so under-preparing any one of
+them risks a significant gap on exam day. 2. Engaging with more than one viewpoint or theoretical
+framework before reaching a
 conclusion -- a one-sided answer, however well argued, typically loses marks against top-tier
 command terms in this subject. 3. A state-centred perspective, a humanitarian perspective, and a
-realist/interest-based perspective. 4. As complementary to, not a substitute for, strong core-unit
-understanding -- case studies are examined through the same core concepts, so case-study revision
-should apply that conceptual understanding rather than replace it.
+realist/interest-based perspective. 4. As complementary to, not a substitute for, strong core-topic
+and thematic-study understanding -- case studies are examined through the same core concepts, so
+case-study revision should apply that conceptual understanding rather than replace it.
 
 ## Official syllabus
 

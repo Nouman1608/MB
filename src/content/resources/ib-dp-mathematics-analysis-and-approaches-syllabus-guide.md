@@ -40,10 +40,13 @@ skills.
 
 ## Number and algebra (19 hours SL / 39 hours HL)
 
-Covers sequences and series, exponents and logarithms, the binomial
-theorem, and (at HL) further algebraic techniques such as complex
-numbers and proof by induction. This is the smallest strand at SL
-relative to the other four, but expands substantially at HL.
+Covers sequences and series, financial applications of geometric
+sequences and series such as compound interest and annual
+depreciation, exponents and logarithms, the binomial theorem, and (at
+HL) further algebraic techniques such as complex numbers and proof by
+induction. This is the smallest strand at SL relative to the other
+four, but it expands the most of any strand, proportionally, at HL --
+from 19 to 39 hours, a factor of just over 2.05.
 
 ## Functions (21 hours SL / 32 hours HL)
 
@@ -54,35 +57,43 @@ Calculus strand later depends on heavily.
 ## Geometry and trigonometry (25 hours SL / 51 hours HL)
 
 Covers geometry in two and three dimensions, trigonometric identities
-and equations, and (at HL) vectors in more depth. This strand shows the
-largest proportional jump in hours from SL to HL of the five,
-reflecting substantial HL-only content in vectors and further
-trigonometry.
+and equations, and (at HL) vectors in more depth. This strand's
+proportional jump from SL to HL (a factor of just over 2.04) is close
+behind, but second to, Number and algebra's -- reflecting substantial
+HL-only content in vectors and further trigonometry.
 
 ## Statistics and probability (27 hours SL / 33 hours HL)
 
-Covers descriptive statistics, probability, and distributions --
-content that grows only modestly from SL to HL, since much of the
-statistical toolkit is shared between both levels.
+Covers descriptive statistics, probability, and distributions,
+including bivariate data, correlation and regression -- content that
+grows only modestly from SL to HL, since much of the statistical
+toolkit is shared between both levels.
 
 ## Calculus (28 hours SL / 55 hours HL)
 
 Covers differentiation, integration and their applications. This is the
-largest strand at HL by a clear margin, and along with Geometry and
-trigonometry accounts for most of the extra depth HL students study
-beyond the SL course.
+largest strand at HL by absolute hours (55, versus 51 for Geometry and
+trigonometry), and along with Geometry and trigonometry accounts for
+most of the extra depth HL students study beyond the SL course --
+though Number and algebra shows the largest *proportional* increase of
+the five strands.
 
 Together, the five content strands total 120 hours at SL and 210 hours
 at HL, with the remaining 30 hours at both levels given to the
 exploration described below.
 
-## The exploration (30 hours, both SL and HL)
+## Toolkit and exploration (30 hours, both SL and HL)
 
-An internally assessed mathematical investigation into a topic of the
-student's own choosing, compulsory for both SL and HL. It develops
-independence in mathematical learning and lets students pursue a
-personal mathematical interest without the time constraints of a
-written exam.
+The 30 hours at both SL and HL are shared between two components. The
+**toolkit** is time set aside within the taught hours for developing
+inquiry, modelling and technology skills -- mathematical thinking
+techniques that transfer across strands -- rather than being tied to
+any one strand's content. Up to 15 of the 30 hours are for the
+**exploration** itself: an internally assessed mathematical
+investigation into a topic of the student's own choosing, compulsory
+for both SL and HL, which develops independence in mathematical
+learning and lets students pursue a personal mathematical interest
+without the time constraints of a written exam.
 
 ## Assessment structure
 
@@ -116,11 +127,15 @@ between them, should look closely at where their own strengths and
 interests actually lie: comfort with abstract algebraic manipulation
 and rigorous proof suits Analysis and Approaches, since Paper 1 (no
 technology allowed) tests exactly that kind of unaided algebraic
-fluency. Because HL adds roughly double the hours of SL in Geometry and
-trigonometry and Calculus specifically, HL students should treat these
-two strands as the core of their extra study time, not spread revision
-evenly across all five strands as if the SL/HL gap were uniform. For
-the exploration, choose a topic within a strand you are already
+fluency. HL roughly doubles the SL hours in three strands specifically
+-- Number and algebra (19 to 39 hours), Geometry and trigonometry (25
+to 51 hours), and, by absolute hours added, Calculus (28 to 55 hours)
+-- so HL students should treat all three as the core of their extra
+study time, rather than the two that "roughly double" hours might
+suggest at a glance; Functions and Statistics and probability grow far
+less from SL to HL and warrant comparatively less additional study
+time, rather than spreading revision evenly across all five strands as
+if the SL/HL gap were uniform. For the exploration, choose a topic within a strand you are already
 comfortable with rather than an ambitious one outside your depth --
 since it is internally assessed on genuine mathematical understanding
 and communication, not novelty of topic, a well-executed exploration on

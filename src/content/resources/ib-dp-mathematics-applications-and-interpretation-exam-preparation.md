@@ -7,6 +7,7 @@ topic: "Exam preparation -- Papers 1, 2, HL Paper 3 and the exploration"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
+syllabusSeries: "First assessment 2021"
 order: 3
 description: "Paper-by-paper exam preparation for IB DP Mathematics: Applications and Interpretation -- technology-fluency strategy for every paper, interpreting results in context, HL Paper 3 strategy, a worked modelling example and a checklist."
 author: "marlbridge-academic-team"
@@ -48,14 +49,16 @@ straight from technology. **Hence** or **hence or otherwise** require building e
 result from an earlier part of the same question. **Interpret** and **comment on**, as above,
 require a context-connected explanation, not just a number.
 
-## HL Paper 3 (20%, 1h): extended, multi-step modelling problems
+## HL Paper 3 (20%, 1h 15min): extended, multi-step modelling problems
 
 Paper 3 consists of two extended-response problem-solving questions, using technology throughout,
 and rewards carrying a single modelling scenario through several connected sub-parts rather than
 answering isolated short questions. **Exam-preparation priority**: practise full past-style extended
 questions under timed conditions, specifically building the stamina to track a running scenario --
 often reusing an earlier part's result -- across an entire question, since this is a different
-demand from Paper 1 and Paper 2's shorter, more contained questions.
+demand from Paper 1 and Paper 2's shorter, more contained questions. This 1 hour 15 minute duration
+applies to the current course, through its final examination session in November 2028; the successor
+course, first assessed in 2029, shortens Paper 3 to 1 hour.
 
 ## The mathematical exploration: choose a genuinely real-world question, and start early
 

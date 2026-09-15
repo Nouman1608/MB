@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 syllabusSeries: "From 2020, first assessment 2022"
-order: 4
+order: 9
 description: "Task-by-task exam preparation for IB Middle Years Programme Mathematics eAssessment -- Knowing and understanding, Investigating patterns, and Applying mathematics in real-life contexts -- with a worked practice scenario and a task-by-task checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
@@ -57,8 +57,9 @@ number of Saturdays since opening (t = 0 on the first Saturday).
 - **Validity step** (the step most students skip): check whether the model stays realistic across the
   range it is being used for. Because the model is quadratic with a negative leading coefficient, it
   eventually predicts a *decreasing*, then *negative*, number of volunteers as t grows -- solving
-  -2t^2 + 16t = 0 gives t = 0 or t = 8, so the model predicts zero volunteers by the eighth Saturday
-  and negative volunteers beyond that, which is not a realistic real-world outcome. A complete answer
+  -2t^2 + 16t = 0 gives t = 0 or t = 8, so the model predicts zero volunteers by the ninth Saturday
+  (since t = 0 is the first Saturday, t = 8 falls on the ninth) and negative volunteers beyond that,
+  which is not a realistic real-world outcome. A complete answer
   states this limitation explicitly: the model is only a reasonable fit for a limited range of t
   (roughly the first few Saturdays), not for predicting attendance indefinitely into the future.
 - **Extended task (standard mathematics)**: use the model to state the maximum number of volunteers

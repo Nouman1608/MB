@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
 syllabusSeries: "From 2014"
-order: 3
+order: 6
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-eassessment-structure"

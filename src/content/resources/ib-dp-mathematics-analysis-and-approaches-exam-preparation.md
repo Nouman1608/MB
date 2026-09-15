@@ -7,6 +7,7 @@ topic: "Exam preparation -- Papers 1, 2, HL Paper 3 and the exploration"
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
+syllabusSeries: "First assessment 2021"
 order: 5
 description: "Paper-by-paper exam preparation for IB DP Mathematics: Analysis and Approaches -- building genuine by-hand fluency for Paper 1, showing full working on 'show that' questions, HL Paper 3 strategy, a worked derivative proof and a checklist."
 author: "marlbridge-academic-team"
@@ -47,10 +48,12 @@ shown working, not just a correct final value read off a calculator or graphing 
 can confirm an answer is right, but it cannot substitute for the algebraic or logical steps a mark
 scheme is built around. Use technology to check work, not to replace showing it.
 
-## HL Paper 3 (20%, 1h): extended, multi-step problem-solving
+## HL Paper 3 (20%, 1h 15min): extended, multi-step problem-solving
 
 Paper 3 consists of two extended-response problem-solving questions, using technology, and rewards
-sustained work through a multi-part problem rather than isolated short answers.
+sustained work through a multi-part problem rather than isolated short answers. This 1 hour 15
+minute duration applies to the current course, through its final examination session in November
+2028; the successor course, first assessed in 2029, shortens Paper 3 to 1 hour.
 **Exam-preparation priority**: practise full past-style extended questions under timed conditions,
 specifically building the stamina and structure needed to carry a solution through several connected
 parts, since this is a genuinely different demand from Paper 1 and Paper 2's more contained

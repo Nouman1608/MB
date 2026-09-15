@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 syllabusSeries: "From 2014"
-order: 7
+order: 8
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-constituent-disciplines"

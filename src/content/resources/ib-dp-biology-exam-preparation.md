@@ -23,8 +23,10 @@ alongside the [full syllabus guide](/resources/ib-dp-biology-syllabus-guide/) an
 
 ## Paper 1 (36% of the final grade)
 
-Short-answer and data-based questions drawn across the **whole syllabus**, not concentrated in one
-theme. Because coverage is broad rather than deep, the highest-value preparation is a topic-by-topic
+A multiple-choice section followed by a data-based section, drawn across the **whole syllabus**, not
+concentrated in one theme -- the data-based section still requires written "state"/"outline" answers,
+not just selecting an option, so Paper 1 is not purely multiple choice. Because coverage is broad
+rather than deep, the highest-value preparation is a topic-by-topic
 confidence self-audit in the weeks before the exam -- rating each theme honestly and directing
 remaining revision time at the weakest ones, rather than re-revising whatever was covered most
 recently in class.
@@ -36,15 +38,15 @@ data sets (from past papers or practice questions) specifically to build comfort
 tables that don't match anything memorised, rather than assuming general topic knowledge transfers
 automatically.
 
-**Time allocation**: because Paper 1 mixes short-answer and data-based questions of varying mark
+**Time allocation**: because Paper 1 mixes multiple-choice and data-based questions of varying mark
 value, allocate time roughly in proportion to the marks available for each question rather than
 spending equal time on every question regardless of its weight -- a 2-mark question and an 8-mark
 question should not receive the same share of your working time.
 
 ## Paper 2 (44% of the final grade)
 
-Short-answer and extended-response questions requiring **sustained scientific writing** -- this is
-the paper where the command terms **evaluate**, **discuss** and **justify** appear most often,
+Data-based, short-answer and extended-response questions requiring **sustained scientific writing** --
+this is the paper where the command terms **evaluate**, **discuss** and **justify** appear most often,
 requiring a reasoned judgement built from evidence rather than a short factual answer.
 
 Because Paper 2 carries almost half the external mark and specifically rewards sustained written
@@ -106,7 +108,7 @@ actually rewards.
 5. What two things should a strong answer do when a question both "describes" and "explains" a
    graph?
 
-**Answers:** 1. Because Paper 1 draws short-answer and data-based questions from across the whole
+**Answers:** 1. Because Paper 1 draws multiple-choice and data-based questions from across the whole
 syllabus rather than concentrating on one theme, so broad, even revision coverage is rewarded more
 than deep revision of only a few topics. 2. Reading and interpreting unfamiliar data -- a graph,
 table or experimental description not seen before -- rather than recalling memorised facts. 3.

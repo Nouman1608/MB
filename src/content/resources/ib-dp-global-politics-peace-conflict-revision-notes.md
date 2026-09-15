@@ -30,9 +30,10 @@ the site.
 ## What this thematic study covers
 
 Peace and conflict examines the causes, dynamics and resolution of political conflict. Revise the
-distinction the syllabus draws between different scales and types of conflict -- interstate (between
-states), intrastate (within a state, e.g. civil war), and non-state or asymmetric conflict (involving
-actors other than states, such as insurgent or terrorist groups) -- since a strong answer names which
+distinction the syllabus draws between four scales and types of conflict -- interstate (between
+states), intrastate (within a state, e.g. civil war), non-state (between non-state actors, without a
+state as a direct party), and extra-state (between a state and a non-state actor operating beyond
+that state's own borders) -- since a strong answer names which
 type of conflict a described scenario actually is before analysing it.
 
 ## Applying the four core concepts to conflict
@@ -52,21 +53,25 @@ political content rather than recalled as a separate list. For Peace and conflic
 
 ## Causes of conflict
 
-Revise being able to distinguish and name multiple categories of cause -- political (contested
-governance or territory), economic (resource competition), ethnic or religious (identity-based
-tension), and ideological -- while recognising that real conflicts are rarely explained by a single
-cause alone. A strong essay identifies more than one contributing cause and explains how they
+Revise being able to distinguish and name the syllabus's six named causes -- identity, ideology,
+interests, resources, socio-economic divisions, and institutional arrangements -- while recognising
+that real conflicts are rarely explained by a single cause alone. The socio-economic-divisions and
+institutional-arrangements causes are the two most directly linked to the syllabus's separate concept
+of structural violence, and are easy to under-revise since they are less intuitively "causes" than
+identity or resources. A strong essay identifies more than one contributing cause and explains how they
 interact, rather than reducing a conflict to one label.
 
 ## Approaches to resolving conflict
 
-Distinguish conflict management (limiting the intensity or spread of a conflict without necessarily
-resolving its root cause), conflict resolution (addressing the underlying causes to produce a durable
-settlement), and peacebuilding (post-conflict work to prevent recurrence, such as rebuilding
+Distinguish peacemaking (negotiations and treaties aimed at ending violence), peacekeeping
+(maintaining a ceasefire or preventing renewed violence, e.g. through UN peace enforcement or NATO
+involvement), and peacebuilding (post-conflict work to prevent recurrence, such as rebuilding
 institutions and reconciliation processes). Revise named mechanisms and actors relevant to each: for
-management, ceasefires and peacekeeping forces; for resolution, negotiation and mediation, often
-involving third-party actors; for peacebuilding, transitional justice mechanisms and institution
-rebuilding.
+peacemaking, negotiation and mediation, often involving third-party actors and resulting in a treaty;
+for peacekeeping, ceasefire monitoring and peacekeeping forces; for peacebuilding, transitional
+justice mechanisms and institution rebuilding -- for example truth and reconciliation commissions (as
+used in the Gambia, Canada and Tunisia) or justice institutions such as the International Criminal
+Court.
 
 ## Case studies to build
 
@@ -96,26 +101,30 @@ recall, is what the syllabus is built to test.
 
 ## Self-test
 
-1. Name the three scales/types of conflict this thematic study distinguishes.
+1. Name the four scales/types of conflict this thematic study distinguishes.
 2. Explain, using the concept of legitimacy, why international responses to two similar conflicts
    might differ.
-3. What is the difference between conflict management and conflict resolution?
-4. Name one mechanism or actor associated with peacebuilding specifically, as distinct from conflict
-   management.
+3. What is the difference between peacemaking, peacekeeping and peacebuilding?
+4. Name one mechanism or actor associated with peacebuilding specifically, as distinct from
+   peacekeeping.
 5. Why does a strong essay on the causes of a named conflict identify more than one contributing
-   cause?
+   cause, and which two of the six named causes are most directly linked to structural violence?
 
-**Answers:** 1. Interstate, intrastate, and non-state/asymmetric conflict. 2. Because legitimacy is
+**Answers:** 1. Interstate, intrastate, non-state, and extra-state conflict. 2. Because legitimacy is
 partly a matter of perception and recognition by other actors -- a use of force widely seen as
 legitimate (e.g. authorised by international bodies or seen as defensive) tends to draw different
 international responses than one seen as illegitimate (e.g. unprovoked aggression), even where the
-underlying conflict dynamics are similar. 3. Conflict management limits the intensity or spread of a
-conflict without necessarily resolving its root cause; conflict resolution addresses the underlying
-causes to produce a durable settlement. 4. Any valid example, e.g. transitional justice mechanisms or
-institution-rebuilding programmes (as distinct from ceasefires or peacekeeping forces, which are
-management tools). 5. Because real conflicts are rarely explained by a single cause alone, and a
-strong answer explains how multiple causes (e.g. political, economic, ethnic/religious, ideological)
-interact rather than reducing a conflict to one label.
+underlying conflict dynamics are similar. 3. Peacemaking covers negotiations and treaties aimed at
+ending violence; peacekeeping covers maintaining a ceasefire or preventing renewed violence (e.g. UN
+peace enforcement or NATO involvement); peacebuilding covers post-conflict work to prevent recurrence,
+such as institution rebuilding and reconciliation. 4. Any valid example, e.g. transitional justice mechanisms,
+truth and reconciliation commissions (as used in the Gambia, Canada and Tunisia), or justice
+institutions such as the International Criminal Court (as distinct from ceasefires or peacekeeping
+forces, which are peacekeeping tools). 5. Because real conflicts are rarely explained by a single cause alone, and a
+strong answer explains how multiple of the six named causes (identity, ideology, interests, resources,
+socio-economic divisions, institutional arrangements) interact rather than reducing a conflict to one
+label; socio-economic divisions and institutional arrangements are the two most directly linked to
+structural violence.
 
 ## Official syllabus
 

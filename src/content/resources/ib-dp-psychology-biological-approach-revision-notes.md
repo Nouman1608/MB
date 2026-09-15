@@ -18,6 +18,14 @@ publishedDate: 2026-09-02
 featured: false
 ---
 
+> **Course note (legacy syllabus):** This resource describes IB DP
+> Psychology for **first assessment 2019**, now in its final teaching
+> cycle (**last examination session November 2026**). A replacement
+> course (first assessment 2027) reworks the approaches into content
+> areas applied across four contexts, integrated with six named concepts
+> -- a rescoping this file has not undergone. A companion resource for
+> the 2027 course does not yet exist on this site.
+
 The [full syllabus guide](/resources/ib-dp-psychology-syllabus-guide/) confirms all three core
 approaches -- biological, cognitive, sociocultural -- are compulsory for every DP Psychology student,
 tested on Paper 1. These notes go deeper into the Biological approach specifically, alongside the
@@ -43,6 +51,14 @@ structure or system relevant to a behaviour you have studied, and describe the e
 named study) linking that structure to that behaviour, rather than describing brain function in
 general terms only.
 
+**Named study:** **Maguire et al. (2000)** used structural MRI to compare the hippocampi of licensed
+London taxi drivers (who must memorise the city's complex street layout) with non-taxi-driving
+controls. Taxi drivers had significantly larger posterior hippocampal volume, correlated with years
+of driving experience -- evidence for the hippocampus's role in spatial memory and for
+neuroplasticity. Evaluation: the design is correlational, so it cannot rule out that people with
+naturally larger posterior hippocampi are more likely to become (and remain) taxi drivers, rather
+than the experience alone causing the enlargement.
+
 ## Neurochemistry
 
 Covers how neurotransmitters and hormones influence behaviour -- for example, the role of specific
@@ -51,6 +67,15 @@ without explaining its actual mechanism of action or the specific behaviour it i
 explain; revise each neurochemical explanation as a two-part claim (what the chemical does
 physiologically, and what behaviour that mechanism is proposed to explain), not a single fact to
 recall in isolation.
+
+**Named study:** **Caspi et al. (2003)** found that individuals carrying one or two copies of a
+"short" variant of the 5-HTT gene (affecting serotonin transporter activity) were more likely to
+develop depression, but only when they had also experienced stressful life events -- a
+gene-environment (diathesis-stress) interaction, not the gene or serotonin activity alone causing
+depression. **This finding is contested**: several later, larger studies and meta-analyses (e.g.
+Risch et al., 2009) failed to replicate the same gene-by-environment interaction, so it should be
+presented as an influential but disputed finding rather than settled fact -- a genuine evaluative
+point in its own right.
 
 ## Genetics
 

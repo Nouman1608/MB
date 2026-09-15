@@ -35,8 +35,8 @@ Concepts such as power, sovereignty, legitimacy and interdependence are
 explored and examined critically throughout the course — these are not
 introduced once and set aside, but re-examined against fresh content
 and contexts as the course progresses, so a student's understanding of
-"legitimacy," for instance, deepens cumulatively across the four core
-units rather than being fixed after a single early lesson. Content
+"legitimacy," for instance, deepens cumulatively across the core topic
+and the three thematic studies rather than being fixed after a single early lesson. Content
 informs inquiries through a variety of global politics topics --
 political systems and actors, power interactions, frameworks, treaties
 and conventions, terminology, and analysis models -- giving students a
@@ -48,7 +48,7 @@ cases. The flexible syllabus allows the course to be built around
 students' own contexts and interests, as well as current events in
 global politics — meaning two schools teaching Global Politics can
 legitimately use quite different case studies and real-world examples
-to illustrate the same underlying concepts and core units, without
+to illustrate the same underlying concepts, core topics and thematic studies, without
 either being any less faithful to the syllabus.
 
 ## Aims
@@ -67,52 +67,61 @@ The course aims to enable students to:
 ## How it's assessed
 
 Global Politics is assessed through written examinations plus an
-internally assessed engagement activity, with Higher Level students
+internally assessed engagement project, with Higher Level students
 sitting an additional paper that Standard Level students do not. At
-SL, Paper 1 (four structured questions drawing on the four core units
+SL, Paper 1 (four structured questions drawing on the core topics
 of the syllabus) is worth 30%, Paper 2 (extended-response questions on
-the core units) is worth 45%, and the engagement activity is worth
-25%. At HL, Paper 1 is worth 20%, Paper 2 is worth 40%, a third paper
-examining two contemporary global political challenges through case
-studies is worth 20%, and the engagement activity is worth 20%.
+the thematic studies) is worth 40%, and the engagement project is worth
+30%. At HL, Paper 1 is worth 20%, Paper 2 is worth 30%, a third paper
+on the HL-only global political challenges extension is worth 30%,
+and the engagement project is worth 20%.
 
-The engagement activity is common to both SL and HL: students
+The engagement project is common to both SL and HL: students
 investigate a political issue of genuine interest to them through
 direct engagement -- rather than through desk research alone -- and
 then complement that experiential learning with theoretical
 perspectives drawn from research, submitting a written report of
-their investigation. Because the topic is student-chosen, no two
-engagement activity reports investigate quite the same political issue
+their investigation. HL students additionally carry out further
+research to formulate a recommendation addressing the identified
+political issue -- a specific extra task that SL students do not
+complete. Because the topic is student-chosen, no two
+engagement project reports investigate quite the same political issue
 even within a single class, much as no two DP Geography fieldwork
-investigations address quite the same research question. The four core units common to every DP Global
-Politics student, regardless of level, are power, sovereignty and
-international relations; human rights; development; and peace and
-conflict.
+investigations address quite the same research question. Every DP Global
+Politics student, regardless of level, studies the same core topic --
+understanding power and global politics -- together with three
+compulsory thematic studies: rights and justice; development and
+sustainability; and peace and conflict.
 
-## The four core units
+## The core topic and three thematic studies
 
-Every DP Global Politics student, regardless of level, studies the same four core units: power,
-sovereignty and international relations; human rights; development; and peace and conflict. These
-are examined through Paper 1's structured questions and Paper 2's extended-response essays, which
-means the same core content is tested twice, in two different formats — Paper 1 rewards precise,
+Every DP Global Politics student, regardless of level, studies the same core topic -- understanding
+power and global politics, built around the concepts of power, sovereignty, legitimacy and
+interdependence -- together with three compulsory thematic studies: rights and justice; development
+and sustainability; and peace and conflict. Paper 1's structured questions draw on the core topics,
+while Paper 2's extended-response essays draw on the three thematic studies, with one section
+requiring candidates to integrate the thematic studies with the core topics — Paper 1 rewards precise,
 concise application of key concepts to short stimulus material, while Paper 2 rewards sustained,
 developed argument across a full essay response.
 
-## HL's additional paper and case studies
+## HL's additional paper and the global political challenges extension
 
-Where SL students' assessment is built entirely from the four core units plus the engagement
-activity, HL students add a third paper examining two contemporary global political challenges
-through case studies — a genuinely different kind of preparation from the core-unit papers, since it
-requires deep, specific knowledge of two chosen real-world political situations rather than broad
-conceptual fluency across the four core units. Confirm with a school's DP coordinator which two case
-studies are being taught, since — much like DP Geography's school-chosen elective themes — the
-specific content of HL Paper 3 depends entirely on a school's own selection rather than being fixed
-by the syllabus itself.
+Where SL students' assessment is built entirely from the core topics, the three thematic studies and
+the engagement project, HL students additionally complete an 80-hour extension on global political
+challenges, examined by Paper 3 — a genuinely different kind of preparation from the core-topic and
+thematic-study papers, since it requires sustained independent research rather than only broad
+conceptual fluency. This is not a pair of case studies chosen by the school: each student
+independently researches their own cases, connecting them to the syllabus's eight HL topic areas --
+borders, environment, equality, health, identity, poverty, security and technology -- and must
+research at least two different case studies across at least two different topic areas. Because the
+specific cases are student-selected rather than fixed or school-assigned, there is no single pair to
+confirm with a school's DP coordinator; what is fixed is the list of eight topic areas the research
+must connect to.
 
-## Why the engagement activity is distinctive
+## Why the engagement project is distinctive
 
 Most DP internal assessments are built around desk research or a scientific investigation; Global
-Politics's engagement activity instead requires genuine, direct engagement with a real political
+Politics's engagement project instead requires genuine, direct engagement with a real political
 issue — attending a local event, volunteering, or otherwise participating directly, rather than
 only researching a topic from published sources. This experiential requirement reflects the course's
 explicit aim of developing "a lifelong commitment to active global citizenship," and a report that

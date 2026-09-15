@@ -44,11 +44,11 @@ rather than treating any one in isolation.
 **IB DP GLOBAL POLITICS — THEMATIC STUDY: PEACE AND CONFLICT**
 
 Peace and Conflict examines the causes, dynamics and resolution of
-political conflict, distinguishing different scales and types:
+political conflict, distinguishing four scales and types:
 **interstate** (between states), **intrastate** (within a state, for
-example civil war), and **non-state or asymmetric conflict**
-(involving actors other than states, such as insurgent or terrorist
-groups). Applying the four core concepts to this content:
+example civil war), **non-state** (between non-state actors, without a
+state as a direct party), and **extra-state** (between a state and a
+non-state actor operating beyond that state's own borders). Applying the four core concepts to this content:
 
 - **Power** — who holds power in a conflict (military, economic,
 informational), and how the balance of power between parties shapes
@@ -63,18 +63,25 @@ international responses to a conflict
 effects (refugee flows, economic disruption, security concerns) that
 spread beyond that conflict's own borders
 
-The syllabus also distinguishes categories of cause (political,
-economic, ethnic or religious, ideological) and approaches to
-resolving conflict: **conflict management** (limiting intensity or
-spread without necessarily resolving the root cause), **conflict
-resolution** (addressing underlying causes to produce a durable
-settlement), and **peacebuilding** (post-conflict work to prevent
-recurrence, such as institution rebuilding and reconciliation).
+The syllabus also names six causes of conflict -- **identity**,
+**ideology**, **interests**, **resources**, **socio-economic
+divisions**, and **institutional arrangements** -- and approaches to
+resolving conflict: **peacemaking** (negotiations and treaties aimed
+at ending violence), **peacekeeping** (maintaining a ceasefire or
+preventing renewed violence, for example through UN peace enforcement
+or NATO involvement), and **peacebuilding** (post-conflict work to
+prevent recurrence, such as institution rebuilding, transitional
+justice and reconciliation -- for example truth and reconciliation
+commissions, as used in the Gambia, Canada and Tunisia, or justice
+institutions such as the International Criminal Court). The
+socio-economic-divisions and institutional-arrangements causes are the
+two most directly linked to the syllabus's separate concept of
+**structural violence**.
 
 ## How to approach it
 
 Before analysing any described conflict scenario, name which type it
-actually is — interstate, intrastate, or non-state/asymmetric — since
+actually is — interstate, intrastate, non-state, or extra-state — since
 a strong answer establishes this classification before building an
 argument around it. Practise identifying which of the four core
 concepts a given scenario foregrounds before writing an extended
@@ -126,23 +133,26 @@ skill this thematic study rewards.
 Describing a conflict's events without naming which of the four core
 concepts a given point is illustrating. Reducing a conflict's causes
 to a single label (e.g. "it was an ethnic conflict") rather than
-identifying and connecting multiple contributing causes. Confusing
-conflict management with conflict resolution — the former limits a
-conflict's intensity or spread, the latter addresses its underlying
-causes. Using a well-known but dated case study that the entire cohort
+identifying and connecting multiple of the six named causes. Confusing
+peacekeeping with peacemaking or peacebuilding — peacemaking covers
+negotiations and treaties aimed at ending violence, peacekeeping
+covers maintaining a ceasefire or preventing renewed violence, and
+peacebuilding covers post-conflict work such as institution rebuilding
+and reconciliation. Using a well-known but dated case study that the entire cohort
 also relies on, rather than building at least one genuinely current
 example.
 
 ## Quick revision checklist
 
 - Be able to classify a described conflict as interstate, intrastate,
-  or non-state/asymmetric before analysing it.
+  non-state, or extra-state before analysing it.
 - Practise applying all four core concepts (power, sovereignty,
   legitimacy, interdependence) to conflict scenarios, not just
   conflict-specific vocabulary.
 - Build a running case log with at least one interstate conflict, one
-  intrastate conflict, and one resolution or peacebuilding process.
-- Distinguish conflict management, conflict resolution and
+  intrastate conflict, and one resolution or peacebuilding process
+  (e.g. a named truth and reconciliation commission or the ICC).
+- Distinguish peacemaking, peacekeeping and
   peacebuilding, with a named mechanism or actor for each.
 - HL: build case studies that can be discussed from more than one
   thematic angle, since Paper 3 requires synthesis across all three

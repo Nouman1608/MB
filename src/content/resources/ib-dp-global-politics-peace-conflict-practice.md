@@ -29,11 +29,11 @@ and the [IB DP Global Politics syllabus guide](/resources/ib-dp-global-politics-
 
 ## Section A
 
-**1.** Name the three scales/types of conflict this thematic study distinguishes. **[3]**
+**1.** Name the four scales/types of conflict this thematic study distinguishes. **[4]**
 
 **2.** State the four core concepts every thematic study is examined through. **[4]**
 
-**3.** Distinguish conflict management from conflict resolution. **[2]**
+**3.** Distinguish peacemaking from peacekeeping. **[2]**
 
 ## Section B
 
@@ -51,25 +51,25 @@ and the [IB DP Global Politics syllabus guide](/resources/ib-dp-global-politics-
 
 **6.** Using a named intrastate conflict you have studied, examine how at least two of the four core concepts (power, sovereignty, legitimacy, interdependence) help explain its causes and dynamics. **[8]**
 
-**7.** "Peacebuilding is more important than conflict management in producing durable peace." Discuss this claim with reference to a named example of a resolution or peacebuilding process. **[8]**
+**7.** "Peacebuilding is more important than peacekeeping in producing durable peace." Discuss this claim with reference to a named example of a peacekeeping or peacebuilding process. **[8]**
 
 ## Worked answers
 
-**1.** Interstate conflict (between states), intrastate conflict (within a state), and non-state or asymmetric conflict (involving actors other than states). **[3]**
+**1.** Interstate conflict (between states), intrastate conflict (within a state), non-state conflict (between non-state actors, without a state as a direct party), and extra-state conflict (between a state and a non-state actor beyond that state's own borders). **[4]**
 
 **2.** Power, sovereignty, legitimacy, interdependence. **[4]**
 
-**3.** Conflict management limits the intensity or spread of a conflict without necessarily resolving its root cause; conflict resolution addresses the underlying causes to produce a durable settlement. **[2]**
+**3.** Peacemaking covers negotiations and treaties aimed at ending violence; peacekeeping covers maintaining a ceasefire or preventing renewed violence (e.g. through UN peace enforcement or NATO involvement). **[2]**
 
 **4. (a)** This is an intrastate conflict, since it occurs within a single state between the government and a movement based within that state's own territory, rather than between two separate states. **[2]**
-**(b)** A successful or prolonged separatist movement directly challenges the state's sovereignty by contesting its exclusive authority over the region in question; even where the movement does not succeed, the government's need to reassert control can itself reveal or weaken the practical limits of that sovereignty, making this exactly the kind of case the specification identifies as testing sovereignty in intrastate conflict. **[3]**
+**(b)** A successful or prolonged separatist movement directly challenges the state's sovereignty by contesting its exclusive authority over the region in question; even where the movement does not succeed, the government's need to reassert control can itself reveal or weaken the practical limits of that sovereignty, making this exactly the kind of case the guide identifies as testing sovereignty in intrastate conflict. **[3]**
 
 **5. (a)** Any valid reasoning tied to legitimacy, e.g. one state's use of force is widely perceived as defensive or authorised by international bodies (seen as legitimate), while the other's is perceived as unprovoked aggression (seen as illegitimate) -- since legitimacy is partly a matter of perception and recognition by other actors, similar actions can draw very different international responses depending on how each is framed and received. **[3]**
 **(b)** Interdependence means conflicts create effects -- such as refugee flows, economic disruption, or regional security concerns -- that spread beyond the conflict's own borders into neighbouring states and the wider international system, so other states have a direct stake in a conflict's outcome even without being combatants themselves. **[2]**
 
 **6.** A strong answer names a specific intrastate conflict with real dates and actors, then applies at least two core concepts explicitly rather than describing the conflict generically. For example: power (analysing the military, economic or informational balance between the government and the non-state actor, and how shifts in that balance changed the conflict's dynamics) combined with legitimacy (how each side claimed or was denied legitimacy for its use of force, and how this shaped both domestic support and international responses). The strongest answers show how the two concepts interacted -- for instance, how a shift in the balance of power affected which side could more credibly claim legitimacy, rather than treating each concept as a separate, disconnected checklist item. **[8]** (Marks for accurate named case-study detail, correct and explicit application of at least two core concepts, and an argument that connects them.)
 
-**7.** A strong discussion first defines both terms precisely -- conflict management limits intensity or spread without addressing root causes, while peacebuilding is post-conflict work (rebuilding institutions, reconciliation, transitional justice) aimed at preventing recurrence -- then argues using a named example. Peacebuilding could be argued as more important for durability because it addresses conditions that caused the original conflict, whereas management (e.g. a ceasefire or peacekeeping force) can suppress violence without resolving the underlying political, economic or identity-based tensions, risking renewed conflict once management measures are withdrawn. However, a well-evaluated answer also recognises that peacebuilding typically cannot occur, or cannot be sustained, without prior successful management creating the stable conditions peacebuilding needs to take root -- so the two are often sequential and mutually dependent rather than competing priorities, and a case where peacebuilding proceeded without adequate initial management (or vice versa) can be used as evidence either way depending on the named example chosen. **[8]**
+**7.** A strong discussion first defines both terms precisely -- peacekeeping maintains a ceasefire or prevents renewed violence without addressing root causes, while peacebuilding is post-conflict work (rebuilding institutions, reconciliation, transitional justice -- e.g. a truth and reconciliation commission such as those used in the Gambia, Canada or Tunisia, or a justice institution such as the International Criminal Court) aimed at preventing recurrence -- then argues using a named example. Peacebuilding could be argued as more important for durability because it addresses conditions that caused the original conflict, whereas peacekeeping (e.g. a ceasefire or a peacekeeping force) can suppress violence without resolving the underlying political, economic or identity-based tensions, risking renewed conflict once peacekeeping measures are withdrawn. However, a well-evaluated answer also recognises that peacebuilding typically cannot occur, or cannot be sustained, without prior successful peacekeeping creating the stable conditions peacebuilding needs to take root -- so the two are often sequential and mutually dependent rather than competing priorities, and a case where peacebuilding proceeded without adequate initial peacekeeping (or vice versa) can be used as evidence either way depending on the named example chosen. **[8]**
 
 ## Why this set is concept-first
 

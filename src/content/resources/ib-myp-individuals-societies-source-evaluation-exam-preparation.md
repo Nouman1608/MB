@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 syllabusSeries: "From 2014"
-order: 3
+order: 9
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-eassessment-topics"

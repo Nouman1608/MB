@@ -88,6 +88,18 @@ generically for "the exam", since the complexity examined differs meaningfully b
 student assessed as emergent is not expected to demonstrate the same range of vocabulary, structure or
 spontaneous fluency as one assessed as proficient.
 
+## Two mark scales -- do not mix them up
+
+This subject uses **two different numeric scales**, and confusing them is the single most
+common mistake in revision material about assessment structure:
+
+- **Classroom assessment** uses the eight achievement levels (1-8) described above for each
+  criterion, so a student's classroom total across all four criteria is out of **32**.
+- **The eAssessment blueprint** (below) allocates **24 raw marks** to each criterion in the
+  external examination, with the actual distribution permitted to vary by up to three marks
+  from that blueprint figure. Thirty-two is not a valid eAssessment mark total for any single
+  criterion.
+
 ## MYP eAssessment structure
 
 Students seeking MYP course results or the MYP certificate demonstrate
@@ -95,20 +107,20 @@ achievement through **two separate components**:
 
 - An **end-of-course on-screen examination**, covering receptive and
   productive skills through three tasks -- listening to spoken
-  multimodal texts (criterion A, 32 marks), reading written multimodal
-  texts (criterion B, 32 marks), and writing in response to multimodal
-  texts (criterion D, 32 marks).
+  multimodal texts (criterion A, 24 marks), reading written multimodal
+  texts (criterion B, 24 marks), and writing in response to multimodal
+  texts (criterion D, 24 marks).
 - An **internally assessed, IB-moderated speaking examination**
-  (criterion C, 32 marks), an interactive summative task marked by the
+  (criterion C, 24 marks), an interactive summative task marked by the
   student's own classroom teacher and externally moderated by the IB
   from a sample of each school's students.
 
 Because speaking is assessed separately from the other three skills,
 strong performance on the written on-screen paper does not substitute
 for oral preparation -- all four criteria are independently marked and
-independently weighted, each worth an equal 32 marks, so no single
-skill can be allowed to dominate revision time at the expense of the
-others.
+independently weighted, each worth an equal 24 marks in the eAssessment
+blueprint, so no single skill can be allowed to dominate revision time
+at the expense of the others.
 
 IB's general guidance puts MYP on-screen examination sessions somewhere between 1 hour 45 minutes and
 2 hours; a Language Acquisition-specific figure isn't separately published, as far as public sources

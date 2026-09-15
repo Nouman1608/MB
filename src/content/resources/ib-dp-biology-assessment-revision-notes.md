@@ -25,8 +25,8 @@ The 80% external / 20% internal balance reflects that the IA tests focused pract
 
 | Component | Weight | What it involves |
 |---|---|---|
-| Paper 1 | 36% | Short-answer and data-based questions across the whole syllabus |
-| Paper 2 | 44% | Short-answer and extended-response questions requiring sustained scientific writing |
+| Paper 1 | 36% | Multiple-choice and data-based questions across the whole syllabus (the data-based section still requires written "state"/"outline" answers, not just selecting an option) |
+| Paper 2 | 44% | Data-based, short-answer and extended-response questions requiring sustained scientific writing |
 | Internal assessment | 20% | An individual scientific investigation, written up in a report of up to 3,000 words |
 
 External examination (Papers 1 + 2) = **80%**. Internal assessment = **20%**. This split is the
@@ -60,7 +60,7 @@ DP Chemistry and DP Physics share the same overall assessment architecture -- tw
 
 ## Why extended-response writing deserves dedicated practice
 
-Because Paper 2 specifically requires sustained scientific writing across multiple linked questions, rather than a series of short, disconnected answers, it rewards a different skill from Paper 1's data-based and short-answer format: structuring a coherent, well-sequenced argument that draws on evidence and terminology across a topic, not just recalling isolated facts. Practising full extended-response answers under timed conditions -- not just outlining what would be included -- is the most direct way to build this specific skill, since planning an answer and actually writing it fluently under time pressure are genuinely different capabilities.
+Because Paper 2 specifically requires sustained scientific writing across multiple linked questions, rather than a series of short, disconnected answers, it rewards a different skill from Paper 1's multiple-choice and data-based format: structuring a coherent, well-sequenced argument that draws on evidence and terminology across a topic, not just recalling isolated facts. Practising full extended-response answers under timed conditions -- not just outlining what would be included -- is the most direct way to build this specific skill, since planning an answer and actually writing it fluently under time pressure are genuinely different capabilities.
 
 ## Self-test
 

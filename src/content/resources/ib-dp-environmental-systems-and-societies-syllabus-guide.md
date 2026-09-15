@@ -39,16 +39,16 @@ lenses that do not exist for SL students at all.
 
 Recommended teaching hours are shown as SL / HL.
 
-- **Topic 1: Foundations** (16 / 35 hours) -- the starting point for
-  both levels, built around the three unifying concepts:
+- **Topic 1: Foundations** (16 hours, both levels) -- the starting
+  point for both levels, built around the three unifying concepts:
   - **1.1 Perspectives** (3 hours) -- differing individual and
     collective worldviews on environmental issues.
   - **1.2 Systems** (5 hours) -- systems theory as a tool for
     understanding environmental structures and processes.
   - **1.3 Sustainability** (8 hours) -- resource management and the
     idea of sustainability as central to the whole course.
-- **Topic 2: Ecology** (22 / 26 hours).
-- **Topic 3: Biodiversity and conservation** (13 hours, both levels).
+- **Topic 2: Ecology** (22 / 35 hours).
+- **Topic 3: Biodiversity and conservation** (13 / 26 hours).
 - **Topic 4: Water** (12 / 25 hours).
 - **Topic 5: Land** (8 / 15 hours).
 - **Topic 6: Atmosphere and climate change** (10 / 23 hours).
@@ -58,7 +58,7 @@ Recommended teaching hours are shown as SL / HL.
 - **HL lens b: Environmental and ecological economics** (7 hours, HL only).
 - **HL lens c: Environmental ethics** (5 hours, HL only).
 - **Experimental programme** (50 hours, both levels): 30 hours of
-  practical work (including the collaborative sciences project) plus
+  practical work, 10 hours of collaborative sciences project, and
   10 hours of scientific investigation, providing the evidence base
   for the individual assessment.
 
@@ -107,16 +107,16 @@ end of the course.
 
 ## The experimental programme
 
-Fifty hours, shared by SL and HL, split into practical work (30 hours,
-including the group-based collaborative sciences project) and
-scientific investigation (10 hours). This underpins the internally
-assessed individual investigation, in which each student designs and
-carries out their own fieldwork-based enquiry, gathers primary data,
-and writes an evidence-based report capped at 3,000 words. Because the
-collaborative sciences project sits inside the practical-work hours
-rather than being separately assessed, its main value to a student's
-final grade is the data-handling and investigative skills it builds
-for the individual investigation, not marks of its own.
+Fifty hours, shared by SL and HL, split into three separately-hours
+components: practical work (30 hours), the group-based collaborative
+sciences project (10 hours), and scientific investigation (10 hours).
+This underpins the internally assessed individual investigation, in
+which each student designs and carries out their own fieldwork-based
+enquiry, gathers primary data, and writes an evidence-based report
+capped at 3,000 words. The collaborative sciences project is not
+itself separately graded, so its main value to a student's final grade
+is the data-handling and investigative skills it builds for the
+individual investigation, not marks of its own.
 
 ## How to approach it
 

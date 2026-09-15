@@ -7,7 +7,7 @@ topic: "Criteria A-D applied to a real design project"
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Design"]
-order: 2
+order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-design-assessment-criteria"

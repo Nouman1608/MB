@@ -30,8 +30,11 @@ corresponding criterion at each one.
 ## Where this fits in the subject
 
 MYP subjects are graded against four equally weighted criteria, each
-on an 8-point scale, assessed through an ePortfolio rather than a
-timed written paper. This means the depth of documentation at each
+on an 8-point scale (levels 1-8 across four descriptor bands, with an
+additional level of 0 below the lowest band for work that does not
+reach the level-1 standard -- so a criterion's actual attainable range
+is 0-8), assessed through an ePortfolio rather than a timed written
+paper. This means the depth of documentation at each
 design-cycle stage is not optional supporting detail -- it is the
 actual evidence a moderator sees and marks. A finished prototype
 photograph alone, without the accompanying inquiry, specification,

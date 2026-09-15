@@ -19,7 +19,9 @@ Condensed for quick recall of how the subject is assessed. For the full subject 
 ## No SL/HL split — four criteria instead
 
 MYP subjects are graded against **four equally weighted criteria**, each on an **8-point scale (1-8)**,
-not a single weighted exam.
+not a single weighted exam. This "1-8" describes the four descriptor bands; the MYP subject-group
+guide additionally recognises a **level of 0** below the lowest band, so a single criterion's actual
+attainable range is 0-8, and the four-criterion subject total is 0-32, not 4-32.
 
 | Criterion | Focus |
 |---|---|

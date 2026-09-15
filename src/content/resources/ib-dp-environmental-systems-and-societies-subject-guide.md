@@ -57,8 +57,12 @@ ESS aims to empower and equip students to:
 4. develop a systems approach providing a holistic lens for exploring
    environmental issues
 5. be inspired to engage with environmental issues across local and
-   global contexts, and confident participating as actively responsible
-   citizens.
+   global contexts.
+
+The public subject brief's aim ends there; framing this as building
+confident, actively responsible citizens is a reasonable gloss on the
+course's intent, but it is not part of the board's own quoted wording
+and should not be presented as such.
 
 ## How it's assessed
 
@@ -68,10 +72,12 @@ investigation, with the balance shifting slightly between Standard
 Level and Higher Level. Two written papers make up the external
 assessment -- 75% of the final grade at SL and 80% at HL -- combining
 short-answer, data-based and extended-response questions that draw on
-both the scientific and societal strands of the course. Because the
-same core content is examined at both levels, HL's higher external
-weighting reflects the more demanding style of question set, rather
-than a longer or additional syllabus to prepare for.
+both the scientific and societal strands of the course. HL's higher
+external weighting reflects both a more demanding style of question
+and a genuinely longer syllabus: HL students cover 90 more recommended
+teaching hours than SL students overall (240 against 150), including
+extra depth and breadth within shared topics and three HL-only content
+areas SL students never study (see below).
 
 The internal assessment is worth 25% at SL and 20% at HL. It takes the
 form of an individual investigation, normally built around fieldwork,
@@ -88,16 +94,21 @@ analysis that also considers the social, economic or political
 dimensions of the issue under study, rather than treating the
 fieldwork as a purely scientific exercise.
 
-## SL and HL cover the same core content
+## How HL extends beyond SL
 
-Unlike most DP sciences, where HL adds substantial extra content beyond SL, ESS is taught to the
-same core syllabus content at both levels -- there is no separate "HL-only" strand of topics the
-way there is in, for example, DP Biology or Physics. What changes between SL and HL is depth of
-treatment and the demand of assessment: HL students are expected to engage with greater complexity
-and more sophisticated evaluation of the same material, examined through papers that ask for more
-extended, synthesised responses rather than through additional syllabus content. This is worth
-knowing early, since students sometimes assume (incorrectly, based on how other DP sciences work)
-that there is a distinct list of HL-only topics to seek out and prioritise.
+ESS packages its HL content differently from its sibling DP sciences, but it is not true that HL
+adds nothing beyond SL content -- it adds 90 recommended teaching hours over SL (240 against 150
+overall), and this shows up in two distinct ways. First, the eight shared syllabus topics
+themselves grow: HL students engage with the same topics as SL students but in greater breadth and
+depth, with syllabus content recommended hours rising from 100 at SL to 190 at HL. Second, HL
+students study three **HL-only lenses** that SL students never encounter at all: environmental law
+(5 hours), environmental and ecological economics (7 hours), and environmental ethics (5 hours).
+Unlike, say, DP Biology, where HL content is marked as extra sub-topics threaded through the same
+numbered topics, ESS keeps its HL-only material as these three separately named lenses that HL
+students apply across the core content, on top of the general extra depth and breadth built into
+the shared topics. This is worth knowing early, since students sometimes assume (based on how other
+DP sciences work) that HL-only content in ESS will look like a marked sub-topic list rather than a
+set of named lenses plus general extension.
 
 ## Why ESS counts toward two subject groups
 

@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
+syllabusSeries: "First assessment 2021"
 description: "An overview of IB Diploma Programme Mathematics: Applications and Interpretation -- technology-driven, real-world mathematical modelling, and how it differs from Analysis and Approaches."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
@@ -64,16 +65,25 @@ weighting pattern as Analysis and Approaches, but with a different emphasis
 on technology. At SL, Paper 1 (1.5 hours, compulsory short-response
 questions) and Paper 2 (1.5 hours, compulsory extended-response questions)
 are each worth 40% of the final grade; at HL, both run for 2 hours and are
-each worth 30%, with HL students additionally sitting Paper 3 (1 hour, two
-compulsory extended-response problem-solving questions) worth 20%. Unlike
-Analysis and Approaches, technology is permitted on every paper in
-Applications and Interpretation, including Paper 1, reflecting the course's
-focus on real-world modelling and data-rich problems.
+each worth 30%, with HL students additionally sitting Paper 3 (1 hour 15
+minutes, two compulsory extended-response problem-solving questions) worth
+20%. Unlike Analysis and Approaches, technology is permitted on every paper
+in Applications and Interpretation, including Paper 1, reflecting the
+course's focus on real-world modelling and data-rich problems.
+
+The current course described here runs to its final examination session in
+November 2028. Its successor, first assessed in 2029, shortens HL Paper 3 to
+1 hour -- a change that applies only from that first assessment onward, not
+to the course described in this guide.
 
 As with Analysis and Approaches, the internally assessed mathematical
-exploration -- an independent investigation into a real-world issue chosen
-by the student -- makes up the remaining 20% of the final grade at both SL
-and HL.
+exploration -- an independent investigation into an area of mathematics
+chosen by the student -- makes up the remaining 20% of the final grade at
+both SL and HL. Because this course emphasises real-world modelling, a
+genuine dataset or real-world context is a natural choice for the
+exploration, but it is not a requirement: the exploration is defined
+identically across both DP mathematics courses, as an investigation into an
+area of mathematics.
 
 ## The five content strands
 

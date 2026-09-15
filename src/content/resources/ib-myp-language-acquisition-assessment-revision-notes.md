@@ -29,7 +29,9 @@ Like every MYP subject, Language Acquisition does not distinguish Standard and H
 | C | Speaking |
 | D | Writing |
 
-Each scored on an **8-point scale (1-8)**, equally weighted.
+Each scored on an **8-point scale (1-8)**, equally weighted -- a classroom total of 32 across the four
+criteria. This is a separate scale from the eAssessment blueprint below, which allocates 24 raw marks
+per criterion (96 total), not 32.
 
 ## Proficiency phases, not year groups
 
@@ -41,7 +43,8 @@ in the same class can legitimately sit in different phases.
 
 Assessed at one of three overall levels — **emergent, capable, proficient**:
 
-- On-screen exam: listening, reading, writing (each **32 marks**, mapping to criteria A, B, D). IB's
+- On-screen exam: listening, reading, writing (each **24 marks** in the eAssessment blueprint, mapping
+  to criteria A, B, D). IB's
   general guidance puts MYP on-screen exam sessions somewhere between 1 hour 45 minutes and 2 hours,
   though a subject-specific figure for Language Acquisition isn't separately published, as far as
   public sources go -- confirm the exact session length with your school.
@@ -62,7 +65,7 @@ The six-phase continuum exists because language acquisition genuinely does not m
 
 ## The eAssessment structure in more depth
 
-Under eAssessment, the on-screen exam assesses listening, reading and writing (criteria A, B and D) together, each carrying 32 of the 96 available marks for those three components combined, calibrated to one of three overall proficiency levels -- emergent, capable or proficient -- rather than to the full six-phase continuum used in ongoing classroom assessment. Speaking (criterion C) is deliberately assessed separately because it requires live interaction rather than a written or listened response; it is recorded and marked by the student's own teacher first, then externally moderated by the IB to ensure consistency with the same overall standard applied to the other three skills.
+Under eAssessment, the on-screen exam assesses listening, reading and writing (criteria A, B and D) together, each carrying 24 of the 72 available marks for those three components combined, calibrated to one of three overall proficiency levels -- emergent, capable or proficient -- rather than to the full six-phase continuum used in ongoing classroom assessment. Speaking (criterion C) is deliberately assessed separately because it requires live interaction rather than a written or listened response; it is recorded and marked by the student's own teacher first, then externally moderated by the IB to ensure consistency with the same overall standard applied to the other three skills.
 
 ## How the four key concepts shape task design
 

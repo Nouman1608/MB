@@ -75,7 +75,12 @@ levels (1-8), grouped into four descriptor bands -- the same
 level-and-band structure used across every MYP subject group, which
 means students moving between individuals and societies and, say, MYP
 Sciences encounter a familiar assessment logic even though the
-criterion names and content differ.
+criterion names and content differ. This "1-8" describes the four
+descriptor bands; the MYP subject-group guide additionally recognises a
+level of 0 below the lowest band, awarded when work does not reach the
+standard described by level 1 -- so a single criterion's actual
+attainable range is 0-8, and the four-criterion subject total is 0-32,
+not 4-32.
 
 ## MYP eAssessment
 
@@ -96,11 +101,14 @@ up of three tasks:
   culminating in an extended piece of writing. This is the largest of
   the three tasks by mark allocation.
 
-Sample topics the on-screen examinations draw on include demographics
-and human movement, settlement and urban morphology, superpowers and
-supra-national alliances, significant individuals, warfare and
-peacekeeping, rights and social protest, trade and economic exchange,
-and industrialization and technological development.
+Sample topics the on-screen examinations draw on include, verbatim from
+the official brief: demographics and human movements, settlement and
+urban morphology, superpowers, empires, and supra-national alliances
+and organizations, significant individuals, warfare and peacekeeping,
+rights and social protest, trade, aid and exchange, economic agents and
+their interests and role in the economy (consumers, producers,
+governments, banks), measurements and trends, ecological relationships,
+and industrialization and technological developments.
 
 ## How to approach it
 

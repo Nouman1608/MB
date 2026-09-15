@@ -53,14 +53,31 @@ The course encourages and enables students to:
 - develop logical, critical and creative thinking
 - develop confidence, perseverance and independence in mathematical
   thinking and problem-solving
-- develop powers of generalization and abstraction.
+- develop powers of generalization and abstraction
+- apply and transfer skills to a wide range of real-life situations,
+  other areas of knowledge and future developments
+- appreciate how developments in technology and mathematics have
+  influenced each other; the moral, social and ethical implications
+  arising from the work of mathematicians and the applications of
+  mathematics; the international dimension in mathematics; and the
+  contribution of mathematics to other areas of knowledge
+- develop the knowledge, skills and attitudes necessary to pursue
+  further studies in mathematics
+- develop the ability to reflect critically upon their own work and
+  the work of others.
+
+(The seventh aim above, encouraging transfer of mathematical skills to
+real-life situations generally, is a course aim -- distinct from
+Criterion D, "Applying mathematics in real-life contexts," described
+below, which specifically assesses that skill within formal
+coursework.)
 
 ## How it's assessed
 
 Unlike the DP, MYP Mathematics has no SL/HL split and no single
 end-of-course exam that alone fixes the final grade. Instead, teachers
 assess work throughout each year against four equally weighted MYP
-criteria, each scored on an eight-point scale (1-8) with published grade
+criteria, each scored on an eight-point scale (1-8) with published level
 descriptors: Criterion A, Knowing and understanding; Criterion B,
 Investigating patterns; Criterion C, Communicating; and Criterion D,
 Applying mathematics in real-life contexts. A student's achievement level
@@ -68,7 +85,12 @@ in each criterion is awarded against the descriptor that best fits their
 work, not by totalling exam marks -- a fundamentally different logic
 from a points-based mark scheme, and one that families new to the MYP
 sometimes need explaining explicitly, since it changes how a student's
-year-on-year progress should actually be read.
+year-on-year progress should actually be read. Note that the "1-8" here
+describes the four descriptor bands; the MYP subject-group guide
+additionally recognises a level of 0 below the lowest band, awarded when
+work does not reach the standard described by level 1 -- so a single
+criterion's actual attainable range is 0-8, and the four-criterion
+subject total is 0-32, not 4-32.
 
 Schools that want an IB-validated result at the end of MYP year 5 can opt
 into MYP eAssessment: a 2-hour on-screen exam (available for standard and

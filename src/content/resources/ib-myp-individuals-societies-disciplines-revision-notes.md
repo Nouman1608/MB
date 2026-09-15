@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Individuals and Societies"]
 syllabusSeries: "From 2014"
-order: 3
+order: 6
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-individuals-and-societies-constituent-disciplines"
@@ -99,10 +99,12 @@ instead of a structured, judgement-based argument.
 
 ## Sample eAssessment topics
 
-The official brief lists sample topics the on-screen examinations may draw on: demographics and human
-movement, settlement and urban morphology, superpowers and supra-national alliances, significant
-individuals, warfare and peacekeeping, rights and social protest, trade and economic exchange, and
-industrialization and technological development. Because these span history, geography and broader
+The official brief lists sample topics the on-screen examinations may draw on, verbatim: demographics
+and human movements, settlement and urban morphology, superpowers, empires, and supra-national
+alliances and organizations, significant individuals, warfare and peacekeeping, rights and social
+protest, trade, aid and exchange, economic agents and their interests and role in the economy
+(consumers, producers, governments, banks), measurements and trends, ecological relationships, and
+industrialization and technological developments. Because these span history, geography and broader
 social-science themes, they illustrate why the three eAssessment subjects (history, geography,
 integrated humanities) can draw on genuinely overlapping content even though a student's own taught
 discipline may have been narrower.

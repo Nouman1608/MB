@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Analysis and Approaches"]
+syllabusSeries: "First assessment 2021"
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, calculator rules and the mathematical exploration -- for IB Diploma Programme Mathematics: Analysis and Approaches."
 author: "marlbridge-academic-team"
@@ -20,7 +21,7 @@ and for a paper-by-paper exam-day plan see the
 
 ## Why the exploration deserves an early start
 
-Because the mathematical exploration is worth 20% at both SL and HL -- equivalent to half of Paper 1 or Paper 2 -- and is completed over an extended period without exam-day time pressure, it is one of the most controllable components of the final grade if work begins early. A first draft written and checked against the criteria well before the deadline, then revised at least once, consistently outperforms one rushed in the final weeks, so treating exploration milestones with the same seriousness as an exam date protects a meaningful share of the overall grade.
+Because the mathematical exploration is worth 20% at both SL and HL -- at SL that equals half of Paper 1 or Paper 2 (40% each), while at HL it equals two-thirds of Paper 1 or Paper 2 (30% each) and exactly matches Paper 3 (20%) -- and is completed over an extended period without exam-day time pressure, it is one of the most controllable components of the final grade if work begins early. A first draft written and checked against the criteria well before the deadline, then revised at least once, consistently outperforms one rushed in the final weeks, so treating exploration milestones with the same seriousness as an exam date protects a meaningful share of the overall grade.
 
 ## SL vs HL
 
@@ -28,8 +29,10 @@ Because the mathematical exploration is worth 20% at both SL and HL -- equivalen
 |---|---|---|
 | Paper 1 (**no calculator/technology**) | 40%, 1.5h | 30%, 2h |
 | Paper 2 (technology allowed) | 40%, 1.5h | 30%, 2h |
-| Paper 3 (HL only, two extended-response problem-solving questions) | — | 20%, 1h |
+| Paper 3 (HL only, two extended-response problem-solving questions) | — | 20%, 1h 15min |
 | Mathematical exploration (internal) | 20% | 20% |
+
+The current course's Paper 3 duration is 1 hour 15 minutes, per the live examination schedule, through its final session in November 2028. Its successor course, first assessed in 2029, shortens Paper 3 to 1 hour -- that reduction does not apply to the course covered in these notes.
 
 ## The defining feature vs. Applications and Interpretation
 

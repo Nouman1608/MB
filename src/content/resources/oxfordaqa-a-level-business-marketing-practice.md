@@ -6,14 +6,14 @@ level: ["a-levels"]
 topic: "Topic 2 – Marketing"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
-syllabusCodes: ["9625 / 9725"]
-syllabusSeries: "First teaching September 2018"
+syllabusCodes: ["9625", "9725"]
+syllabusSeries: "9625: first teaching September 2018 (current cohorts). 9725: first teaching September 2026 (AS) / September 2027 (A2), the successor specification."
 stage: "AS"
 order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-oxfordaqa-alevel-business"
-description: "Original exam-style practice questions with full worked answers on marketing objectives, marketing research, segmentation-targeting-positioning, and the marketing mix."
+description: "Original exam-style practice questions with full worked answers on marketing objectives, marketing research, segmentation-targeting-positioning, and the marketing mix, primarily 9625 (7Ps) with 9725 (4Ps) divergence flagged."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-05
 featured: false
@@ -25,6 +25,13 @@ featured: false
 > these alongside the official past papers available free from your board.
 
 Related: [Marketing study guide](/resources/a-level-oxfordaqa-business-marketing/) · [Marketing revision notes](/resources/oxfordaqa-a-level-business-marketing-revision-notes/)
+
+**Scope note:** these questions primarily follow **9625**, including
+its 7-element marketing mix — the new Section C below covers people,
+process and physical environment, plus marketing objective
+calculations, which 9625 requires. Under 9725 the mix is simplified
+to 4Ps and these questions would not apply in the same form. Check
+which code applies to you.
 
 ---
 
@@ -69,6 +76,24 @@ Related: [Marketing study guide](/resources/a-level-oxfordaqa-business-marketing
 **8. Case that digital marketing and social media have significantly changed the mix's effectiveness:** technology is an explicit influence on marketing planning in this specification, including **digital marketing, social media, dynamic pricing, e-commerce and m-commerce** [1] [1]. These channels allow a business entering an international market to **reach and research target segments directly and cheaply**, without the fixed costs of establishing physical distribution or traditional advertising in each new market [1]. Digital tools also support more **precise segmentation, targeting and positioning**, since online data allows a much finer-grained view of consumer behaviour than traditional market research alone [1].
 **Case for limited change:** the **underlying logic of the marketing mix — matching product, price, promotion and place to a targeted segment — is unchanged**; digital tools are a new set of channels within promotion and place, not a replacement for the STP process itself [1] [1]. **Difficulties of targeting international markets persist** regardless of channel, including cultural differences, language, and varying regulation, which digital marketing does not remove [1]. For some products, especially those requiring physical distribution or high-touch service, traditional elements of the mix remain decisive [1].
 **Judgement:** digital marketing and social media have **substantially lowered the cost and difficulty of reaching international segments**, but they extend rather than replace the marketing mix framework — a business still needs a coherent segmentation, targeting and positioning strategy behind those channels, so the change is significant but not fundamental to how the mix itself operates [1] [1].
+
+## Section C — marketing mix extensions and calculations (9625) (new)
+
+**9.** A business had 1,200 customers at the start of the year, gained 300 new customers during the year, and had 1,350 customers at the end of the year. Calculate its customer retention rate, showing your working. **[3]**
+
+**10.** A retailer has annual sales revenue of $4.8m across 16 stores. Calculate its sales per store. **[2]**
+
+**11.** Explain, using an example, why "people" and "physical environment" matter more for a service business than for a business that only sells a physical product. **[6]**
+
+---
+
+## Section C — Answers
+
+**9.** Customer retention rate = (customers at end − new customers gained) ÷ customers at start × 100 [1] = (1,350 − 300) ÷ 1,200 × 100 [1] = 1,050 ÷ 1,200 × 100 = **87.5%** [1].
+
+**10.** Sales per store = total sales revenue ÷ number of stores [1] = $4.8m ÷ 16 = **$300,000 per store** [1].
+
+**11.** A service, unlike a physical product, **cannot be inspected in advance** and is often produced and consumed at the same time, so the customer judges quality partly from cues surrounding the service itself [1] [1]. **People** — staff who deliver the service (their training, attitude, appearance) directly shape the customer's experience, since there is no separate physical product to fall back on if service is poor, for example a badly trained waiter can ruin an otherwise good restaurant meal [1] [1]. **Physical environment** — the tangible setting (décor, cleanliness, website design) acts as a proxy for quality the customer cannot otherwise assess before buying, for example a scruffy-looking hotel lobby signals poor quality regardless of the rooms themselves [1] [1].
 
 ---
 

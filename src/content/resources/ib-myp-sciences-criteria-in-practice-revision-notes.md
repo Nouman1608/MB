@@ -7,7 +7,7 @@ topic: "Criteria A-D applied to real coursework tasks"
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Sciences"]
-order: 2
+order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-assessment-criteria"

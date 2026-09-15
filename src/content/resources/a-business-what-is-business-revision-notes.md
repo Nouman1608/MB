@@ -6,14 +6,14 @@ level: ["a-levels"]
 topic: "Topic 1 – What is Business?"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
-syllabusCodes: ["9625 / 9725"]
-syllabusSeries: "First teaching September 2018"
+syllabusCodes: ["9625", "9725"]
+syllabusSeries: "9625: first teaching September 2018 (current cohorts). 9725: first teaching September 2026 (AS) / September 2027 (A2), the successor specification."
 order: 1
 stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "what-is-business-oxfordaqa-alevel-business"
-description: "Condensed recall notes on business purpose, ownership, stakeholders, market analysis and the external environment for A Level Business."
+description: "Condensed recall notes on business purpose, ownership, stakeholders, market analysis and the external environment for A Level Business, primarily 9625 with 9725 divergences flagged."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -21,6 +21,10 @@ featured: false
 
 Condensed for the final weeks. For the full explanation, use the
 [What is Business study guide](/resources/a-level-oxfordaqa-business-what-is-business/).
+
+**These notes primarily follow 9625** (the code current students sit),
+with 9725 differences flagged inline — the two codes disagree on
+several points, so check which applies to you before revising.
 
 ## Purpose, mission and objectives
 
@@ -34,13 +38,21 @@ Common objectives: profit maximisation, growth, market share, survival, diversif
 
 ## Ownership
 
+**9625** (current): sole traders; private limited and public limited
+companies; private sector and public sector organisations; non-profit
+organisations; **co-operatives**. No "partnership" category.
+**9725** (successor): reverses this — **partnerships added**,
+**co-operatives dropped**. Don't mix the two lists.
+
 | Structure | Liability | Note |
 |---|---|---|
 | **Sole trader** | **Unlimited** | Full control, all profit, all risk |
-| **Partnership** | **Unlimited** (usually) | More capital and expertise, shared profit |
 | **Private limited (Ltd)** | **Limited** | Separate legal identity; shares not publicly traded |
 | **Public limited (plc)** | **Limited** | Stock-market capital, but public accounts, takeover risk, **divorce of ownership from control** |
+| **Private sector / public sector** | Varies | Private sector: owned by individuals/shareholders. Public sector: owned/run by government |
 | **Non-profit / social enterprise** | Varies | Surplus reinvested rather than distributed |
+| **Co-operative** (9625 only) | Usually limited, member-owned | Owned and run for members' mutual benefit |
+| **Partnership** (9725 only) | **Usually unlimited** | More capital and expertise, shared profit; limited partnerships are the exception |
 
 **Unlimited liability means personal assets can be taken to pay business debts** — that phrase earns the mark.
 
@@ -58,6 +70,12 @@ Shareholders, employees, customers, suppliers, government, community, lenders.
 
 **Stakeholder versus shareholder approaches:** shareholder theory says the firm's duty is to owners; stakeholder theory says sustainable success requires balancing all interests. Note that they often converge in the long run — treating employees and customers well tends to protect shareholder value.
 
+*Second-year note (9625 section 3.3.1/3.3.6):* stakeholder **mapping**
+by power and interest, and the formal shareholder-versus-stakeholder
+debate above, are second-year (A2) content, not first-year Topic 1.
+Basic stakeholder identification (who they are, that interests can
+conflict) is the genuine first-year scope.
+
 ## Market analysis
 
 ```
@@ -74,34 +92,59 @@ market size   = volume (units) or value (revenue)
 
 ## The external environment
 
-**PESTLE** — Political, Economic, Social, Technological, Legal, Environmental.
+**First-year (9625 section 3.1.1.3):** market conditions (degree of
+competition, barriers to entry, market size/growth, concentration
+ratio) and the effect of changes in **incomes, interest rates,
+exchange rates, costs of inputs, government policies, and competition
+from abroad**.
+
+**Second-year (9625 section 3.3.4-3.3.6; A2):** the fuller
+political/legal, economic and social/technological/environmental
+analysis, including GDP, taxation, inflation, unemployment and
+protectionism. **PESTLE** as a named acronym does not appear in 9625
+at all (9725 adds a PESTLE reference, but only in its own second-year
+content) — don't cite it as first-year Topic 1 vocabulary.
 
 Key economic variables and their effect on business:
 
-| Variable | Effect |
-|---|---|
-| **Interest rates** | Rising rates raise borrowing costs and reduce consumer spending, hitting durables and housing hardest |
-| **Exchange rates** | A **weak** currency helps exporters, hurts importers |
-| **Inflation** | Raises costs and creates uncertainty; wage demands follow |
-| **Unemployment** | High unemployment lowers wage pressure but also lowers demand |
-| **GDP growth** | Drives demand, especially for income-elastic goods |
+| Variable | Effect | Year (9625) |
+|---|---|---|
+| **Interest rates** | Rising rates raise borrowing costs and reduce consumer spending, hitting durables and housing hardest | First-year |
+| **Exchange rates** | A **weak** currency helps exporters, hurts importers | First-year |
+| **Inflation** | Raises costs and creates uncertainty; wage demands follow | Second-year |
+| **Unemployment** | High unemployment lowers wage pressure but also lowers demand | Second-year |
+| **GDP growth** | Drives demand, especially for income-elastic goods | Second-year |
 
-The memory hook for exchange rates: **SPICED** — Strong Pound, Imports Cheap, Exports Dear.
+The memory hook for exchange rates: **SPICED** — Strong currency, Imports Cheap, Exports Dear (this is currency-neutral; do not tie it to one specific currency, since this is an internationally-taught, internationally-examined qualification).
 
 **Income elasticity** determines who suffers in a downturn. Luxury goods have high positive YED, so demand falls sharply in a recession; **inferior goods have negative YED**, so demand can actually *rise*. This is why discount retailers often grow during downturns — a point worth having ready.
 
 ## Decision-making
 
-**Scientific decision-making** uses data and quantitative techniques — decision trees, investment appraisal, market research. It is evidence-based and defensible, but the data behind it may be incomplete, out of date or misleading, and gathering and analysing it can be slow.
+The 9625/9725 requirement is **decision trees**, with **expected value
+and net gain calculations**, plus ethical influences on decisions.
+("Scientific versus intuitive decision-making" is a different board's
+domestic terminology and does not appear in this specification — don't
+revise it as OxfordAQA content.)
 
-**Intuitive decision-making** instead relies on the decision-maker's own experience and judgement. It is fast and works even where data is absent, but is prone to personal bias and harder to justify to stakeholders after the fact.
+```
+Expected value = (probability x outcome) summed across all branches
+Net gain        = expected value - cost of the decision/investment
+```
 
-Most real business decisions combine both approaches, and evaluation questions reward recognising that the right balance between them depends on the level of risk involved, the time available, and the quality of the data on hand.
+Under **9625**, decision trees are first-year content (3.1.1.1).
+Under **9725**, this content moves to second-year/A2 (3.4.3) — check
+which code applies before treating this as first-year scope.
 
 ## Answering the questions
 
-Marks come from **application, analysis and evaluation**:
+The specification defines **four** assessment objectives, not three:
+**knowledge, application, analysis and evaluation**. At International
+AS, knowledge (AO1) and application (AO2) are the joint-largest
+weighting bands (each approximately 27.5–32.5% of AS marks), with
+analysis (AO3) around 20–25% and evaluation (AO4) around 17.5–22.5%.
 
+- **Knowledge** — accurately define and use the correct business terms, concepts and models.
 - **Application** — use the case study's actual figures, names and market.
 - **Analysis** — build a chain: *because X, therefore Y, which means Z for this firm.*
 - **Evaluation** — weigh both sides, judge, and state **what the judgement depends on**: firm size, market conditions, time frame, financial position.

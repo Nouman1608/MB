@@ -57,8 +57,12 @@ The course encourages and enables students to:
 - develop respect for others' viewpoints and appreciate alternative
   solutions to problems
 - act with integrity and honesty, and take responsibility for their
-  own actions, including honestly reporting where a solution did not
-  fully meet its own design specification.
+  own actions developing effective working practices.
+
+Honest reporting is expected in practice too: Criterion D specifically
+credits a student who transparently reports where a solution did not
+fully meet its own design specification, rather than presenting only
+what worked.
 
 ## How it's assessed
 
@@ -68,7 +72,12 @@ Criterion A, Inquiring and analysing (identifying a design problem and
 researching it); Criterion B, Developing ideas (writing a design
 specification and generating a solution); Criterion C, Creating the
 solution (planning and making a prototype); and Criterion D, Evaluating
-(testing the solution and reflecting on how it could be improved).
+(testing the solution and reflecting on how it could be improved). Note
+that the "1-8" here describes the four descriptor bands; the MYP
+subject-group guide additionally recognises a level of 0 below the
+lowest band, awarded when work does not reach the standard described by
+level 1 -- so a single criterion's actual attainable range is 0-8, and
+the four-criterion subject total is 0-32, not 4-32.
 
 Where schools opt into MYP eAssessment for an IB-validated result, Design
 is assessed by ePortfolio rather than an on-screen exam -- students submit

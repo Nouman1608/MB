@@ -118,7 +118,7 @@ sub-topics with an eye to how they connect to each other, not just to their own 
 ## Self-test
 
 1. Explain, in terms of molecular structure, why water is described as a polar molecule.
-2. What are the four components common to a nucleotide?
+2. What are the three components common to a nucleotide?
 3. Name two features that distinguish a eukaryotic cell from a prokaryotic cell.
 4. Why are viruses described as non-living, and what do they depend on host cells for?
 5. (HL) What does a cladogram show that a classification based on surface similarity might miss?
@@ -127,8 +127,7 @@ sub-topics with an eye to how they connect to each other, not just to their own 
 
 **Answers:** 1. The oxygen atom pulls the shared electrons more strongly than the hydrogen atoms,
 giving the molecule an uneven (partial negative near oxygen, partial positive near the hydrogens)
-charge distribution. 2. A phosphate group, a pentose sugar and a nitrogenous base (plus the way
-they link into a polymer chain). 3. Any two of: presence of a membrane-bound nucleus, presence of
+charge distribution. 2. A phosphate group, a pentose sugar and a nitrogenous base. 3. Any two of: presence of a membrane-bound nucleus, presence of
 membrane-bound organelles, circular vs linear chromosome structure, typical cell size. 4. They have
 no independent metabolism and cannot reproduce without hijacking a host cell's machinery. 5. It
 shows evolutionary relationships based on shared derived characteristics (most recent common

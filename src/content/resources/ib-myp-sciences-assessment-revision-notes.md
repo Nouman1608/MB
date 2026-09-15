@@ -31,6 +31,9 @@ Like every MYP subject, Sciences does not distinguish Standard and Higher Level 
 
 Applies **regardless of whether your school teaches discrete Biology/Chemistry/Physics or an
 integrated science course** — same four criteria either way. Each scored on an **8-point scale (1-8)**.
+This "1-8" describes the four descriptor bands; the MYP subject-group guide additionally recognises a
+**level of 0** below the lowest band, so a single criterion's actual attainable range is 0-8, and the
+four-criterion subject total is 0-32, not 4-32.
 
 ## If your school offers MYP eAssessment
 

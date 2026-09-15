@@ -79,7 +79,12 @@ developing ideas (the specification stage), creating the solution (the
 build stage), and evaluating (the test stage). As with every MYP
 subject, each criterion is scored on eight achievement levels (1-8),
 grouped into four descriptor bands that teachers apply consistently
-across every design project a student submits.
+across every design project a student submits. This "1-8" describes
+those four descriptor bands; the MYP subject-group guide additionally
+recognises a level of 0 below the lowest band, awarded when work does
+not reach the standard described by level 1 -- so a single criterion's
+actual attainable range is 0-8, and the four-criterion subject total is
+0-32, not 4-32.
 
 ## MYP eAssessment: the ePortfolio
 

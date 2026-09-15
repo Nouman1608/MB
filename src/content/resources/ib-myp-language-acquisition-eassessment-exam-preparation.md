@@ -30,7 +30,8 @@ on the site.
 
 This component covers three of the four criteria in one sitting -- listening to spoken multimodal
 texts (criterion A), reading written multimodal texts (criterion B), and writing in response to
-multimodal texts (criterion D) -- each worth 32 marks. Because all three are assessed together,
+multimodal texts (criterion D) -- each worth 24 marks in the eAssessment blueprint (a separate scale
+from the 8-level, 32-mark-total classroom assessment). Because all three are assessed together,
 exam-preparation time should be distributed across all three skills rather than concentrated on
 whichever feels most comfortable. A practical preparation routine: for listening, practise with
 authentic or course-level audio at your assessed proficiency band and note down key information while
@@ -60,7 +61,8 @@ realistic preparation method than rehearsing a script.
 
 ## Why treating the two components separately matters
 
-Because all four criteria are independently marked and equally weighted at 32 marks each, strong
+Because all four criteria are independently marked and equally weighted at 24 marks each in the
+eAssessment blueprint, strong
 performance on the written on-screen paper does not substitute for oral preparation, and vice versa.
 A student who is confident on paper but has not rehearsed spontaneous speaking under pressure is
 under-prepared for a full quarter of the total assessment, regardless of how strong their listening,

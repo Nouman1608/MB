@@ -6,14 +6,14 @@ level: ["a-levels"]
 topic: "Topic 2 – Marketing"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
-syllabusCodes: ["9625 / 9725"]
-syllabusSeries: "First teaching September 2018"
+syllabusCodes: ["9625", "9725"]
+syllabusSeries: "9625: first teaching September 2018 (current cohorts). 9725: first teaching September 2026 (AS) / September 2027 (A2), the successor specification."
 stage: "AS"
 order: 2
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-oxfordaqa-alevel-business"
-description: "Condensed recall notes on marketing objectives, marketing research, segmentation-targeting-positioning, and the 7Ps marketing mix, for OxfordAQA International A-Level Business (9625), Topic 2."
+description: "Condensed recall notes on marketing objectives, marketing research, segmentation-targeting-positioning, and the marketing mix, for OxfordAQA International A-Level Business, primarily 9625 (7Ps) with 9725 (4Ps) divergence flagged."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -21,6 +21,11 @@ featured: false
 
 Condensed for the final weeks. For the full explanation, use the
 [Marketing study guide](/resources/a-level-oxfordaqa-business-marketing/).
+
+**These notes primarily follow 9625** (the code current students sit).
+9725 genuinely changes marketing content -- most importantly the
+marketing mix shrinks from 7Ps to 4Ps -- flagged inline below. Check
+which code applies to you.
 
 ## Marketing objectives and plans (3.1.2.1)
 
@@ -40,14 +45,17 @@ A **connected three-step process**, not separate topics:
 
 Exam questions typically expect all three steps applied to one scenario.
 
-## The marketing mix — 7Ps (3.1.2.4)
+## The marketing mix (3.1.2.4)
 
-Beyond the classic 4Ps (**product, price, promotion, place**), OxfordAQA's specification explicitly extends the mix and expects application in **e-commerce and international** contexts, not just domestic examples.
+**Under 9625**, the mix has **7 elements**. Beyond the classic 4Ps (**product, price, promotion, place**), OxfordAQA's specification explicitly extends the mix with three more, and expects application in **e-commerce and international** contexts, not just domestic examples. **Under 9725, the mix is simplified back to the classic 4Ps** — people, process and physical environment (and the Boston Matrix) are dropped from this first-year section.
 
-- **Product** — new product development, product life cycle and extension strategies, the Boston Matrix, branding.
+- **Product** — new product development, product life cycle and extension strategies, the Boston Matrix (9625 first-year only; moves to A2 under 9725), branding.
 - **Price** — influences on price, strategies (skimming, penetration, discrimination), **price elasticity of demand**.
 - **Promotion** — advertising, sales promotions, sales force, PR, exhibitions.
 - **Place/distribution** — including online and multi-channel distribution.
+- **People** (9625 only) — staff delivering a service directly shape the customer's experience of it.
+- **Process** (9625 only) — the systems/procedures through which a good or service is delivered.
+- **Physical environment** (9625 only) — the tangible setting of a purchase (store layout, website design, packaging), which shapes perceived quality.
 
 ## Worked example: price elasticity of demand and revenue
 
@@ -63,6 +71,28 @@ Caution:     PED is not fixed -- it can shift as competitors respond
 ```
 
 The PED-to-revenue link, not just stating elastic/inelastic, is what most exam questions actually test.
+
+## Worked example: marketing objective calculations
+
+The specification requires calculations for named marketing objectives, not just definitions:
+
+```
+Market share       = (business sales / total market sales) x 100
+                      e.g. $2.4m sales in a $12m market = 20%
+
+Customer retention = (customers at end - new customers gained) /
+  rate                customers at start x 100
+                      e.g. start 800, gain 150, end 900
+                      = (900-150)/800 x 100 = 93.75%
+
+Sales per employee = total sales revenue / number of employees
+                      e.g. $1.5m / 25 employees = $60,000
+
+Sales per store     = total sales revenue / number of stores
+                      e.g. $3m / 12 stores = $250,000
+```
+
+Sales per product/region use the same logic (total sales ÷ relevant count). Examiners often want the figure **interpreted**, not just calculated -- e.g. a falling retention rate flags a problem even while total sales volume rises.
 
 ## Worked example: applying STP to a scenario
 
@@ -118,7 +148,7 @@ A stratified sample (dividing the population into subgroups and sampling proport
 ## Quick self-test
 
 1. Name the three connected steps of segmentation, targeting and positioning.
-2. List all 7Ps of the marketing mix.
+2. List all 7Ps of the marketing mix under 9625 (and know 9725 uses only 4Ps).
 3. A product has PED = −0.4. Will a price rise increase or decrease total revenue?
 4. Name the three sampling methods this specification includes.
 5. What three factors influence choice of research method?
@@ -136,5 +166,6 @@ Topic 1 established why a business exists and who it is accountable to; Marketin
 
 ## Official syllabus
 
-Oxford AQA International AS and A-level Business (9625) specification, section 3.1.2 Marketing —
-[oxfordaqa.com](https://www.oxfordaqa.com/oaqaresources/business/international-a-level-business-specification-v1.pdf).
+OxfordAQA International AS and A-level Business (9625) specification, version 3.1, section 3.1.2 Marketing —
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2022/08/oxfordaqa-a-level-business-specification.pdf).
+(The v1 PDF previously linked here is an archived, superseded version on the board's former domain.)

@@ -46,26 +46,38 @@ questions routinely expect a graphical display calculator to be used, not avoide
 - **Further geometric reasoning (HL only)** -- additional depth building on the SL geometry content,
   reflecting the strand's large HL hour allocation.
 
-## Worked example: bearings and the sine rule
+## Worked example: bearings and the cosine rule
 
 A ship sails from port A on a bearing of $070°$ for 40 km to point B, then changes course to a bearing
 of $150°$ and sails a further 25 km to point C. Find the distance AC.
 
+This is a two-sides-and-the-included-angle (SAS) setup, so the cosine rule applies -- not the sine
+rule, per the table above.
+
 ```
-Angle at B:      the bearing changes from 070 deg to 150 deg, so the
-                 interior angle ABC (measured correctly from the
-                 bearings, allowing for the reverse bearing at B) is
-                 found first -- this bearing-to-angle conversion is
-                 the step most students lose marks on
+Back-bearing
+at B:            the bearing from B back to A is the bearing A-to-B
+                 (070 deg) plus 180 deg, i.e. 250 deg -- this is the
+                 step most students lose marks on, since it must be
+                 found before the interior angle can be
+Angle at B:      interior angle ABC = back-bearing (250 deg) minus the
+                 onward bearing (150 deg) = 100 deg
 Apply cosine
 rule:            AC^2 = AB^2 + BC^2 - 2(AB)(BC)cos(angle ABC)
-Substitute:      AC^2 = 40^2 + 25^2 - 2(40)(25)cos(angle ABC)
-Solve:           take the square root to find AC in km
+Substitute:      AC^2 = 40^2 + 25^2 - 2(40)(25)cos(100 deg)
+                 Because angle ABC = 100 deg is obtuse, cos(100 deg) is
+                 NEGATIVE (approx -0.1736), which makes the whole
+                 "-2(40)(25)cos(100 deg)" term ADDITIVE, not
+                 subtractive:
+                 AC^2 = 1600 + 625 - 2000(-0.1736) = 2225 + 347.3 = 2572.3
+Solve:           AC = sqrt(2572.3) = 50.7 km (3 sig figs)
 ```
 
 The mathematics (cosine rule) is routine once the angle is correctly identified -- the applied skill
 this course specifically tests is converting bearings into an interior angle correctly, which is why
-bearings problems reward a clear diagram before any calculation begins.
+bearings problems reward a clear diagram before any calculation begins. A student who mis-derives the
+angle as 80° instead of 100° (by forgetting the back-bearing step) would get AC = 43.3 km instead --
+exactly the kind of error this worked example is designed to defuse.
 
 ## Sine rule vs cosine rule -- which to use
 

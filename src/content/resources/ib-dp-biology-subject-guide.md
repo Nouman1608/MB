@@ -56,10 +56,12 @@ mix of external examinations and an internally assessed scientific
 investigation, with SL and HL following the same overall structure
 even though the papers differ in length and demand at each level.
 Paper 1 is weighted at 36% of the final grade and draws on the full
-breadth of the syllabus through short-answer and data-based questions;
-Paper 2 is weighted at 44% and includes short-answer and
-extended-response questions requiring more sustained scientific
-writing. Together, these two papers make up 80% of the final mark,
+breadth of the syllabus through a multiple-choice section followed by a
+data-based section -- the data-based section still requires written
+answers such as "state" and "outline," not just selecting an option, so
+Paper 1 is not purely multiple choice; Paper 2 is weighted at 44% and
+includes data-based, short-answer and extended-response questions
+requiring more sustained scientific writing. Together, these two papers make up 80% of the final mark,
 with the exams differing in length and mark allocation between SL and
 HL rather than in this weighting split.
 
@@ -118,10 +120,12 @@ Recommended teaching time for syllabus content is 110 hours at SL and
 180 hours at HL, with a further 40 hours at SL and 60 hours at HL
 devoted to the experimental programme, the collaborative sciences
 project and the individual scientific investigation together. The
-extra HL teaching time is spent on sub-topics marked HL-only across
-all four themes, such as the origins of cells and classification and
-cladistics in Theme A, muscle and motility in Theme B, chemical
-signalling in Theme C, and gene expression in Theme D -- content that
+extra HL teaching time reflects greater depth and breadth across
+shared content in all four themes, as well as the additional
+sub-topics marked HL-only, such as the origins of cells and
+classification and cladistics in Theme A, muscle and motility in
+Theme B, chemical signalling in Theme C, and gene expression in
+Theme D -- content that
 carries extra weight in both Papers 1 and 2 and is, in practice, the
 material most often under-revised by HL students who default to
 SL-level depth out of habit rather than deliberately tracking which

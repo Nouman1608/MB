@@ -79,14 +79,22 @@ Together, the five content strands total 120 hours at SL and 210 hours
 at HL, with the remaining 30 hours at both levels given to the
 exploration described below.
 
-## The exploration (30 hours, both SL and HL)
+## Toolkit and exploration (30 hours, both SL and HL)
 
-An internally assessed mathematical investigation into a topic of the
-student's own choosing, compulsory for both SL and HL, structured
-identically to the exploration in Analysis and Approaches -- the
-internal assessment component is a shared feature of both DP
-mathematics courses even though their external papers diverge sharply
-in calculator policy and content emphasis.
+The 30 hours at both SL and HL are shared between two components. The
+**toolkit** is time set aside within the taught hours for developing
+inquiry, modelling and technology skills -- mathematical thinking
+techniques that transfer across strands -- rather than being tied to
+any one strand's content. Up to 15 of the 30 hours are for the
+**exploration** itself: an internally assessed mathematical
+investigation into an area of mathematics chosen by the student,
+compulsory for both SL and HL, structured identically to the
+exploration in Analysis and Approaches -- the internal assessment
+component is a shared feature of both DP mathematics courses even
+though their external papers diverge sharply in calculator policy and
+content emphasis. Because this course emphasises real-world modelling,
+a genuine dataset or real-world context is a natural choice of topic,
+but it is not a requirement of the exploration itself.
 
 ## Assessment structure
 
@@ -109,9 +117,13 @@ rather than testing whether a student can avoid it.
 
 ## How to approach it
 
-Because this course leans heavily on Functions and Statistics and
-probability -- together accounting for the largest share of teaching
-hours at both SL and HL -- prioritise fluency in fitting, interpreting
+Because this course leans heavily on statistics-driven and modelling
+content, the two largest strands change by level: at SL, Functions (31
+hours) and Statistics and probability (36 hours) account for the
+largest share of teaching hours, but at HL the two largest are
+Statistics and probability (52 hours) and Geometry and trigonometry
+(46 hours), with Functions dropping to third (42 hours). Bearing that
+level-specific shift in mind, prioritise fluency in fitting, interpreting
 and critiquing models over pure algebraic manipulation when planning
 revision time; a strong Applications and Interpretation candidate is
 one who can read a real dataset, choose a sensible model, and explain

@@ -6,11 +6,25 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
-description: "An overview of IB Diploma Programme Psychology -- developing psychological literacy, critical thinking and research methodology, rather than training psychologists."
+syllabusSeries: "First assessment 2019"
+description: "An overview of IB Diploma Programme Psychology -- developing psychological literacy, critical thinking and research methodology, rather than training psychologists. Describes the legacy course (first assessment 2019, final session November 2026)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
 ---
+
+> **Course note (legacy syllabus):** This resource describes IB DP Psychology
+> for **first assessment 2019** -- the course version currently completing
+> its final teaching cycle. This course's **last examination session is
+> November 2026**. From May 2027, first assessment moves to a newly
+> rebuilt course (launched February 2025): the four options described below
+> are replaced by four contexts studied at both SL and HL (one of which
+> absorbs what was the abnormal psychology option -- the IB itself
+> describes abnormal psychology as "renamed" to health and well-being);
+> six named concepts are introduced; the internal assessment becomes a
+> research proposal marked out of 24; and every paper's duration, mark
+> total and weighting changes. A companion resource set describing the
+> first-assessment-2027 course does not yet exist on this site.
 
 IB Diploma Programme Psychology aims to develop students' knowledge and
 understanding of psychological concepts, content and contexts, along
@@ -26,12 +40,19 @@ psychological literacy.
 
 The course aims for students to:
 
-- develop knowledge and understanding of psychological concepts,
-  content and contexts, including models and theories
-- think critically and creatively about behaviour and cognitive
-  processes
-- engage with problems facing individuals, groups and societies using
-  psychological understanding and skills.
+- develop an understanding of the biological, cognitive and
+  sociocultural factors affecting mental processes and behaviour
+- apply an understanding of the biological, cognitive and
+  sociocultural factors affecting mental processes and behaviour to
+  at least one applied area of study
+- understand diverse methods of inquiry
+- understand the importance of ethical practice in psychological
+  research in general and observe ethical practice in their own
+  inquiries
+- ensure that ethical practices are upheld in all psychological
+  inquiry and discussion
+- develop an awareness of how psychological research can be applied
+  to address real-world problems and promote positive change.
 
 ## How it's assessed
 
@@ -41,10 +62,15 @@ core approaches to understanding behaviour, plus one essay from a choice of
 three) worth 50% of the final grade, and Paper 2 (1 hour: one essay-style
 question on a single option, chosen from abnormal, developmental, health or
 relationships psychology) worth 25%. External assessment totals 75% of the
-SL grade. At HL, students sit the same two papers -- reweighted to 40% and
-20% -- plus a third paper (1 hour: three short-answer questions on research
-methodology) worth 20%, bringing external assessment to 80% of the HL
-grade.
+SL grade. At HL, students sit the same Paper 1 (2 hours, reweighted to
+40%), but a substantially longer Paper 2: because HL students study *two*
+options rather than one, HL Paper 2 runs 2 hours and requires two
+essay-style questions -- one from each of the two studied options --
+rather than SL's single essay on a single option, and is worth 20%. HL
+students also sit a third paper (1 hour: three short-answer questions on
+research methodology) worth 20%, bringing external assessment to 80% of
+the HL grade across three papers totalling 5 hours, compared with SL's two
+papers totalling 3 hours.
 
 The remaining 25% (SL) or 20% (HL) is internal assessment: an experimental
 study, in which students design, carry out (usually in a small group),
@@ -134,5 +160,9 @@ choices behind it.
 
 ## Source
 
-International Baccalaureate Organization, Psychology subject brief
-(Diploma Programme), 2024.
+International Baccalaureate Organization, *Diploma Programme Subject
+Brief -- Individuals and Societies: Psychology*, first assessment 2019,
+© 2018. (The IB also publishes a current subject brief for the
+replacement course, first assessment 2027, © 2025 -- see the course note
+above. This resource is sourced from the 2019 brief throughout, not a
+mixture of the two.)

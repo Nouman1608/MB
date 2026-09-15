@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
 syllabusSeries: "From 2020, first assessment 2022"
-order: 3
+order: 6
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-branches-of-mathematical-study"

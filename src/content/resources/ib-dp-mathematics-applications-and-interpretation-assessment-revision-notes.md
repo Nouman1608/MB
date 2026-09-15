@@ -6,6 +6,7 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Mathematics: Applications and Interpretation"]
+syllabusSeries: "First assessment 2021"
 order: 1
 description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, technology use and the mathematical exploration -- for IB Diploma Programme Mathematics: Applications and Interpretation."
 author: "marlbridge-academic-team"
@@ -20,7 +21,7 @@ and for a paper-by-paper exam-day plan see the
 
 ## Why the exploration is worth building early
 
-Because the mathematical exploration is worth a full 20% at both levels -- the same weighting as an entire paper -- and is completed over an extended period rather than under exam-day time pressure, it is one of the most controllable parts of the final grade if started early. A rushed exploration written in the final weeks before the deadline rarely reaches the same standard as one drafted, reviewed against the criteria, and revised at least once, so treating the exploration's first draft deadline as seriously as an exam date is a genuinely effective way to protect this portion of the grade.
+Because the mathematical exploration is worth a full 20% at both levels -- at SL that's half of Paper 1 or Paper 2 (40% each), while at HL it's two-thirds of Paper 1 or Paper 2 (30% each) and exactly the same weighting as Paper 3 (20%) -- and is completed over an extended period rather than under exam-day time pressure, it is one of the most controllable parts of the final grade if started early. A rushed exploration written in the final weeks before the deadline rarely reaches the same standard as one drafted, reviewed against the criteria, and revised at least once, so treating the exploration's first draft deadline as seriously as an exam date is a genuinely effective way to protect this portion of the grade.
 
 ## SL vs HL
 
@@ -28,8 +29,10 @@ Because the mathematical exploration is worth a full 20% at both levels -- the s
 |---|---|---|
 | Paper 1 (compulsory short-response, **technology allowed**) | 40%, 1.5h | 30%, 2h |
 | Paper 2 (compulsory extended-response, technology allowed) | 40%, 1.5h | 30%, 2h |
-| Paper 3 (HL only, two extended-response problem-solving questions) | — | 20%, 1h |
+| Paper 3 (HL only, two extended-response problem-solving questions) | — | 20%, 1h 15min |
 | Mathematical exploration (internal) | 20% | 20% |
+
+The current course's Paper 3 duration is 1 hour 15 minutes, per the live examination schedule, through its final session in November 2028. Its successor course, first assessed in 2029, shortens Paper 3 to 1 hour -- that reduction does not apply to the course covered in these notes.
 
 ## The defining feature vs. Analysis and Approaches
 
@@ -39,7 +42,7 @@ real-world modelling and data-rich problems, unlike Analysis and Approaches' no-
 ## The mathematical exploration
 
 - Internally assessed, worth **20% at both SL and HL**.
-- An independent investigation into a **real-world issue** chosen by the student.
+- An independent investigation into **an area of mathematics** chosen by the student -- the same definition used in Analysis and Approaches. This course's applied character makes a real dataset or real-world context a natural choice, but it is not a stated requirement.
 
 ## Why technology-everywhere matters more than it first appears
 
@@ -72,7 +75,7 @@ As with every DP subject, command terms signal the depth of response expected: *
 5. Name two of the five criteria the mathematical exploration is graded against.
 6. What command term specifically requires connecting a mathematical result back to its real-world context?
 
-**Answers:** 1. All of them — Paper 1, Paper 2 and (at HL) Paper 3. 2. A real-world issue chosen by the student. 3. Technology is permitted here, unlike Analysis and Approaches, where Paper 1 is calculator/technology-free. 4. 20%, sat only by HL students. 5. Any two of: presentation, mathematical communication, personal engagement, reflection, use of mathematics. 6. "Interpret" (or "comment on").
+**Answers:** 1. All of them — Paper 1, Paper 2 and (at HL) Paper 3. 2. An area of mathematics chosen by the student (a real-world dataset or context is a natural choice for this course, not a requirement). 3. Technology is permitted here, unlike Analysis and Approaches, where Paper 1 is calculator/technology-free. 4. 20%, sat only by HL students. 5. Any two of: presentation, mathematical communication, personal engagement, reflection, use of mathematics. 6. "Interpret" (or "comment on").
 
 ## Official syllabus
 

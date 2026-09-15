@@ -68,9 +68,13 @@ just a shared assessment structure.
 ## Internal assessment -- engagement project (25 hours SL / 35 hours HL)
 
 A written report on a political issue explored through the student's own
-engagement and research. The HL allocation is 10 hours longer than SL's,
-reflecting the greater depth expected in the written report itself
-rather than any difference in the topics available to write about. As
+engagement and research. The HL allocation is 10 hours longer than SL's
+because HL students complete a genuinely extra task: beyond the written
+report all SL and HL students produce, HL students carry out further
+research and must formulate a recommendation addressing the identified
+political issue, submitted as a separate section of up to 400 words in
+addition to the report. This is a specific additional requirement, not
+simply a call for greater depth in the same written report. As
 with the fieldwork-style internal assessments in other DP individuals
 and societies subjects, the strongest engagement projects tend to come
 from students who commit to a specific, well-scoped political issue
@@ -83,7 +87,13 @@ only allows for secondary-source summary.
 This entire component does not exist for SL students. It is examined
 separately in Paper 3, which only HL students sit, and is worth 30% of
 the HL final grade on its own -- a larger single-component weighting
-than either Paper 1 or the engagement project at HL. The extension asks
+than either Paper 1 or the engagement project at HL. The extension is
+not additional prescribed content taught by the teacher; it consists of
+independent student research into cases the student selects, connected
+to eight named HL topic areas set by the syllabus: borders, environment,
+equality, health, identity, poverty, security and technology. Each HL
+student must research at least two different case studies across at
+least two different topic areas. The extension asks
 students to examine political issues that cut across the boundaries of
 a single thematic study, requiring genuine synthesis of material from
 Rights and justice, Development and sustainability and Peace and

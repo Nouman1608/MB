@@ -53,10 +53,11 @@ better summarised by the median)
 exclusive events, independent events) and their application to more
 complex situations using tree diagrams, Venn diagrams and sample space
 diagrams
-- **Distributions** — discrete distributions (binomial, Poisson) and
-the continuous normal distribution, including using technology to
-calculate probabilities and inverse-probability values directly from a
-distribution rather than from tables
+- **Distributions** — discrete distributions (binomial at both levels;
+Poisson at HL only) and the continuous normal distribution (both
+levels), including using technology to calculate probabilities and
+inverse-probability values directly from a distribution rather than
+from tables
 - **Inferential statistics** — using sample data to draw conclusions
 about a wider population, including correlation and regression
 (fitting a line to bivariate data and interpreting its meaning) and
@@ -65,7 +66,8 @@ hypothesis testing
 ## How to approach it
 
 Because Statistics and Probability is one of the two largest strands
-(alongside Functions), prioritise fluency in fitting, interpreting and
+at both levels -- alongside Functions at SL, but alongside Geometry
+and trigonometry at HL, where Functions drops to third -- prioritise fluency in fitting, interpreting and
 critiquing statistical models over pure hand-calculation when
 allocating revision time. Revise the distinction between mutually
 exclusive events (cannot both occur) and independent events (one
@@ -134,8 +136,8 @@ confusing when a binomial model is appropriate versus a normal model.
   for a dataset's described shape.
 - Keep mutually exclusive and independent events precisely distinct,
   with the correct combination rule for each.
-- Practise identifying which distribution (binomial, Poisson, normal)
-  fits a described scenario before calculating.
+- Practise identifying which distribution (binomial, Poisson -- HL
+  only, or normal) fits a described scenario before calculating.
 - Run every statistical calculation on your own exam-approved
   technology repeatedly, not just on paper.
 - End every calculation with a sentence interpreting the result in

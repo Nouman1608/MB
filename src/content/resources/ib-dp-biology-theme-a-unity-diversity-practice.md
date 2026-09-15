@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-biology-unity-diversity"
-description: "Original practice questions with full worked answers covering water, nucleic acids, cell structure, evolution and conservation of biodiversity, for IB Diploma Programme Biology Theme A."
+description: "Original practice questions with full worked answers covering water, nucleic acids, cell structure, viruses, classification and cladistics, evolution and speciation, conservation of biodiversity and the origins of cells, plus a general correlation-versus-causation data-skills question, for IB Diploma Programme Biology Theme A."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
@@ -32,7 +32,7 @@ Related: [Theme A: Unity and Diversity revision notes](/resources/ib-dp-biology-
 
 **1.** Explain, in terms of molecular structure, why water is described as a polar molecule. **[2]**
 
-**2.** State the four components of a nucleotide. **[2]**
+**2.** State the three components of a nucleotide. **[2]**
 
 **3.** Name two features that distinguish a eukaryotic cell from a prokaryotic cell. **[2]**
 
@@ -62,7 +62,7 @@ Related: [Theme A: Unity and Diversity revision notes](/resources/ib-dp-biology-
 
 **1.** The oxygen atom in a water molecule attracts the shared electrons in each O–H bond more strongly than the hydrogen atoms do [1], giving the molecule an uneven charge distribution — a partial negative charge near the oxygen and partial positive charges near the hydrogens [1].
 
-**2.** A phosphate group, a pentose sugar, and a nitrogenous base [2 — award 2 for all three, 1 for two correct components; the fourth mark point some specifications credit is the way these three link into a repeating polymer unit].
+**2.** A phosphate group, a pentose sugar, and a nitrogenous base [2 — award 2 for all three, 1 for two correct components].
 
 **3.** Any two of: presence of a membrane-bound nucleus; presence of membrane-bound organelles; circular (prokaryotic) vs linear (eukaryotic) chromosome structure; typical cell size (eukaryotic cells are generally larger) [1 mark each, max 2].
 

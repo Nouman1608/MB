@@ -36,8 +36,9 @@ whether you can connect a derivative back to the shape or behaviour of the origi
 
 ## Differentiation
 
-Core rules to have completely automatic: the power rule, and (particularly at HL) the product rule,
-quotient rule and chain rule for combining and composing functions. Revise the geometric meaning
+Core rules to have completely automatic: the power rule, and the chain, product and quotient rules
+for combining and composing functions -- all of these are SL content, not HL-only, so SL students
+sitting the no-technology Paper 1 need them just as automatic as HL students do. Revise the geometric meaning
 alongside the mechanical rule: the derivative at a point gives the gradient of the tangent to the
 curve at that point, which is why differentiation is the tool used to find stationary points (where
 the gradient is zero), determine whether a stationary point is a maximum, minimum or point of
@@ -63,8 +64,9 @@ The reverse process of differentiation, used to find areas under curves and to s
 rate of change is known and the underlying quantity must be recovered. Revise definite integrals
 (giving a numerical area or accumulated quantity between two bounds) separately from indefinite
 integrals (giving a general antiderivative plus a constant of integration, +C) -- confusing when the
-+C is required is a frequent, avoidable error. At HL, this extends to integration techniques such as
-substitution, and to further applications including volumes of revolution.
++C is required is a frequent, avoidable error. Integration by inspection or substitution (the reverse
+chain rule, for the standard form ∫kg'(x)f(g(x))dx) is also SL content. Volumes of revolution, and
+further, more advanced integration techniques, are genuinely HL-only.
 
 ## The fundamental link between the two operations
 

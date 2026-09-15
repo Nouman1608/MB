@@ -21,9 +21,9 @@ featured: false
 This guide covers **Topic 2 Influences on Business**, one of the six
 topics of OxfordAQA International GCSE Business (9225), first teaching
 September 2020, first examined May/June 2022. It looks at how forces
-outside a business's own control — technology, ethics, the environment,
-the economic climate, globalisation and the law — shape what a business
-can and should do.
+outside a business's own control — technology, ethics and the
+environment, the economic climate, globalisation, the law, and the
+competitive environment — shape what a business can and should do.
 
 ## Where this fits in 9225
 
@@ -38,12 +38,12 @@ assumes some understanding of the pressures Topic 2 introduces.
 
 **OXFORDAQA INTERNATIONAL GCSE BUSINESS (9225) — TOPIC 2 INFLUENCES ON BUSINESS**
 
-- 2.1 Technology — the impact of changing use of Information and
+- 3.2.1 Technology — the impact of changing use of Information and
 Communication Technology (ICT) on business activity; how businesses use
 e-commerce to access wider markets; digital communication with
 stakeholders, including relevant examples such as email and video
 conferencing
-- 2.2 Ethical and environmental considerations — identifying and
+- 3.2.2 Ethical and environmental considerations — identifying and
 analysing possible trade-offs between ethics and profit; understanding
 that ethical behaviour requires acting in ways stakeholders consider
 fair and honest, including religious observance and charitable giving;
@@ -51,44 +51,47 @@ environmental considerations such as traffic congestion, recycling,
 waste disposal, and noise and air pollution; sustainability
 considerations including global warming and the use of scarce resources,
 and possible trade-offs between sustainability and profit
-- 2.3 The economic climate on business — how fluctuating interest rates
+- 3.2.3 The economic climate on business — how fluctuating interest rates
 affect businesses that rely on overdrafts and loans, and affect consumer
 and business spending, including Sharia-compliant alternatives; how
 changes in the level of employment affect businesses; how demand for
 products and services changes as incomes fluctuate
-- 2.4 Globalisation — forms of globalisation including specialisation by
+- 3.2.4 Globalisation — forms of globalisation including specialisation by
 country, relative cost advantage, movement of labour, larger markets and
 international competition; benefits and drawbacks of globalisation for
 businesses and economies in developed and developing countries; the
 impact of exchange rates on the profit and sales of importing and
 exporting businesses, and the effects of severe exchange-rate
 fluctuations (calculation of exchange-rate conversions is not required)
-- 2.5 Legislation — assessing the impact on businesses of employment
+- 3.2.5 Legislation — assessing the impact on businesses of employment
 law, health and safety law and consumer law, including cost, training
 needs, recruitment and the consequences of non-compliance; the benefits
 and drawbacks to businesses of laws requiring a safe working environment
 and a national minimum wage; how consumer protection laws affect
 businesses
-- 2.6 Competitive environment — what is meant by a market and
+- 3.2.6 Competitive environment — what is meant by a market and
 competition; analysing the potential impact of competition on
 businesses, including situations of minimal or no competition; the risks
 and uncertainty all businesses face and why entrepreneurs take them on;
 how developing-country businesses compete with developed-country
 businesses, for example through lower cost advantage
 
+(Numbering above follows the 9225 specification's own scheme, section
+3.2 Influences on business, sub-sections 3.2.1–3.2.6.)
+
 ## How to approach it
 
 The six sub-topics are genuinely distinct external pressures, but exam
 questions often ask candidates to weigh two or more of them against each
 other for a given business scenario — for example, whether rising
-interest rates (2.3) or new environmental legislation (2.5) poses the
+interest rates (3.2.3) or new environmental legislation (3.2.5) poses the
 bigger risk to a specific firm. Revise each sub-topic with a short list
 of real or plausible business examples attached, so you can pull on
 concrete evidence rather than restating the theory in the abstract.
 
 Ethics and legislation are easy to blur together but are assessed
-differently: legislation (2.5) is what a business is legally required to
-do, while ethics (2.2) covers what a business chooses to do beyond the
+differently: legislation (3.2.5) is what a business is legally required to
+do, while ethics (3.2.2) covers what a business chooses to do beyond the
 legal minimum because stakeholders consider it fair or honest. A strong
 answer on an ethical dilemma explains the trade-off with profit
 explicitly, rather than simply asserting that acting ethically is "good

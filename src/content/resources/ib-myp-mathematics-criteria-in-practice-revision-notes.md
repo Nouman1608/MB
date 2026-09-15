@@ -7,7 +7,7 @@ topic: "Criteria A-D applied to real coursework tasks"
 boards: ["ib"]
 qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Mathematics"]
-order: 2
+order: 3
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-mathematics-assessment-criteria"
@@ -80,8 +80,11 @@ evidence from merely competent calculation.
 
 ## Why treating the four criteria as fully independent is a mistake
 
-Although each criterion is scored separately on its own 1-8 scale, strong coursework tasks are usually
-designed to generate evidence for more than one criterion at once -- an investigation task, for
+Although each criterion is scored separately on its own 1-8 scale (the four descriptor bands; the MYP
+subject-group guide additionally recognises a level of 0 below the lowest band, so a criterion's
+actual attainable range is 0-8, and the four-criterion total is 0-32, not 4-32), strong coursework
+tasks are usually designed to generate evidence for more than one criterion at once -- an
+investigation task, for
 example, naturally produces both Criterion B evidence (the investigative process) and Criterion C
 evidence (how clearly that process is communicated). Revising each criterion in complete isolation
 from the others risks producing work that satisfies one criterion's descriptors while accidentally

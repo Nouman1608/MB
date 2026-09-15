@@ -16,10 +16,14 @@ featured: false
 ---
 
 OxfordAQA currently has two International A-Level Business specifications live at once. 9625 is the
-established specification: its final May/June AS exam series was 2026 (already past), its final A-level
-exams are 2027, with resits available in January 2028 -- after which there are no more exams for 9625.
-9725 is the revised replacement, available for first teaching from September 2026, with first AS exams
-in May/June 2027 and first A-level exams in May/June 2028. Both keep the same four-paper modular shape
+established specification: its final May/June AS exam series was 2026, with a further **AS resit series
+in January 2027**; its final A-level (A2) exam series is June 2027, with a further **A2 resit series in
+January 2028** -- after which there are no more exams for 9625. A student who fails the earlier (AS)
+series still has the January 2027 resit before AS closes, and likewise a January 2028 resit for A2.
+9725 is the revised replacement: first teaching for **AS starts September 2026** (first AS exams
+May/June 2027), while first teaching for **A2 starts a year later, September 2027** (first A-level exams
+May/June 2028) -- the AS and A2 changeovers happen in different years, not together. Both keep the same
+four-paper modular shape
 -- two AS papers at 20% of the A-level each, two A-level papers at 30% each -- but the papers themselves
 differ in detail. These notes complement the site's guides to
 [What is Business?](/resources/a-level-oxfordaqa-business-what-is-business/) and

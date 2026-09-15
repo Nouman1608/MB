@@ -33,14 +33,26 @@ including original source material.
 
 The course encourages and enables students to:
 
-- develop inquiry skills leading towards conceptual understandings of
-  the relationships between individuals, societies and the
-  environments in which they live
-- appreciate critically the diversity of human culture, attitudes and
-  beliefs
-- recognize that both content and methodology in this subject group
-  can be debatable and controversial, practising tolerance of
-  uncertainty.
+- appreciate human and environmental commonalities and diversity
+- understand the interactions and interdependence of individuals,
+  societies and the environment
+- understand how both environmental and human systems operate and
+  evolve
+- identify and develop concern for the well-being of human
+  communities and the natural environment
+- act as responsible citizens of local and global communities
+- develop inquiry skills that lead towards conceptual understandings
+  of the relationships between individuals, societies and the
+  environments in which they live.
+
+Beyond these published aims, the subject brief's course description
+also notes that studying individuals and societies helps students
+appreciate critically the diversity of human culture, attitudes and
+beliefs, and that courses in this subject group are important for
+helping students recognize that both content and methodology can be
+debatable and controversial, practising tolerance of uncertainty --
+context for the subject as a whole rather than aims in their own
+right.
 
 ## How it's assessed
 
@@ -49,7 +61,12 @@ weighted final exam; instead, teachers assess coursework throughout the
 year against four equally weighted criteria, each scored on an eight-point
 scale (1-8): Criterion A, Knowing and understanding; Criterion B,
 Investigating; Criterion C, Communicating; and Criterion D, Thinking
-critically.
+critically. Note that the "1-8" here describes the subject brief's four
+descriptor bands; the MYP subject-group guide additionally recognises a
+level of 0 below the lowest band, awarded when work does not reach the
+standard described by level 1 -- so a single criterion's actual
+attainable range is 0-8, and the four-criterion subject total is 0-32,
+not 4-32.
 
 Schools that opt into MYP eAssessment for an IB-validated result (available
 in history, geography and integrated humanities) sit a 2-hour on-screen
@@ -63,10 +80,15 @@ optional external exam.
 Where schools do offer MYP eAssessment, it is only available in three of
 the many disciplines individuals and societies can draw on -- history,
 geography and integrated humanities -- and the on-screen exam questions
-span topics such as demographics and human movement, historical empires
-and alliances, rights and social protest, and economic agents including
-consumers, producers, governments and banks, always requiring students to
-work with source material rather than recall facts in isolation.
+draw on the topics the official brief lists: demographics and human
+movements, settlement and urban morphology, superpowers, empires, and
+supra-national alliances and organizations, significant individuals,
+warfare and peacekeeping, rights and social protest, trade, aid and
+exchange, economic agents and their interests and role in the economy
+(consumers, producers, governments, banks), measurements and trends,
+ecological relationships, and industrialization and technological
+developments -- always requiring students to work with source material
+rather than recall facts in isolation.
 
 The three eAssessment tasks are weighted by marks rather than equally:
 an investigating task worth 26 marks, a communicating task worth 18 marks,

@@ -18,6 +18,14 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
+> **Course note (legacy syllabus):** This resource describes IB DP
+> Psychology for **first assessment 2019**, now in its final teaching
+> cycle (**last examination session November 2026**). A replacement
+> course (first assessment 2027) reworks the approaches into content
+> areas applied across four contexts, integrated with six named concepts
+> -- a rescoping this file has not undergone. A companion resource for
+> the 2027 course does not yet exist on this site.
+
 This guide covers the **Biological Approach to Understanding
 Behaviour**, one of three compulsory core approaches for IB Diploma
 Programme Psychology, first assessment 2019. The [full syllabus
@@ -63,7 +71,19 @@ environmental influence
 For physiology, be able to name at least one specific brain structure
 or system relevant to a behaviour studied, and describe the evidence
 (often from a named study) linking that structure to that behaviour,
-rather than describing brain function in general terms only. For
+rather than describing brain function in general terms only. A
+well-established example: **Maguire et al. (2000)** used structural
+MRI to compare the hippocampi of licensed London taxi drivers, who
+must memorise the city's complex street layout, with non-taxi-driving
+controls. Taxi drivers had significantly larger posterior hippocampal
+volume, and hippocampal volume correlated with years spent driving a
+taxi, supporting the hippocampus's role in spatial memory and
+demonstrating neuroplasticity (structural brain change in response to
+experience). Evaluative point: the design is correlational (drivers
+were not randomly assigned to their profession), so it cannot fully
+rule out that people with naturally larger posterior hippocampi are
+more likely to become, and remain, taxi drivers, rather than the
+driving experience alone causing the enlargement. For
 neurochemistry, revise each explanation as a two-part claim — what the
 chemical does physiologically, and what specific behaviour that
 mechanism is proposed to explain — rather than naming a
@@ -90,18 +110,27 @@ Weak (fact only):     "Low serotonin levels are linked to
                        depression."
 
 Strong (mechanism +   "Serotonin is a neurotransmitter involved in
-behaviour, evaluated): regulating mood; lower-than-typical serotonin
-                       activity has been associated with depressive
-                       symptoms in [named study], though this
-                       correlational evidence cannot establish that
-                       low serotonin CAUSES depression, since reduced
-                       serotonin could equally be a consequence of
-                       depression rather than its cause."
+behaviour, evaluated): regulating mood; Caspi et al. (2003) found
+                       that individuals with one or two copies of a
+                       "short" variant of the 5-HTT gene (which
+                       affects serotonin transporter activity) were
+                       more likely to develop depression, but only
+                       when they had also experienced stressful life
+                       events -- a gene-environment (diathesis-stress)
+                       interaction rather than the gene or serotonin
+                       activity alone causing depression. This
+                       finding is itself contested: several later,
+                       larger studies and meta-analyses (e.g. Risch et
+                       al., 2009) failed to replicate the same
+                       interaction, so it should be presented as an
+                       influential but disputed finding, not settled
+                       fact."
 ```
 
 The strong version states the mechanism, links it explicitly to the
-named behaviour, cites evidence, and evaluates that evidence's
-limitation (correlation, not causation) — this is the structure Paper
+named behaviour, cites named evidence, and evaluates that evidence's
+limitations (a gene-environment interaction rather than a simple cause,
+and a contested replication record) — this is the structure Paper
 1's essay question rewards over a single unevaluated fact.
 
 ## Connecting to the internal assessment

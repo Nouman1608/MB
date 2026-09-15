@@ -57,7 +57,7 @@ Because ESS can be counted toward either the sciences group or the individuals-a
 
 ## How this compares to a single-group science
 
-Unlike Biology, Chemistry or Physics, ESS has no separate collaborative sciences project requirement and no theory-of-knowledge-style science-specific internal assessment split -- fieldwork is the sole internally assessed component, carrying more weight (20-25%) than the equivalent single internal assessment in the other sciences (20% each). This reflects ESS's greater reliance on primary field data collection as its core investigative skill, as opposed to the more laboratory-based investigations typical of the other three DP sciences.
+Like Biology, Chemistry and Physics, ESS does include a collaborative sciences project (10 of its 50 experimental-programme hours, shared by SL and HL) alongside its experimental work -- this is not unique to ESS. What is different is the internal assessment itself: fieldwork is the sole internally assessed component in ESS, with no theory-of-knowledge-style science-specific internal assessment split. Its weighting (25% at SL, 20% at HL) is higher than the other sciences' flat 20% at SL, but equal to them at HL, not universally "more" -- so the size of ESS's fieldwork advantage over the other sciences narrows, and disappears, as students move from SL to HL. This reflects ESS's greater reliance on primary field data collection as its core investigative skill, as opposed to the more laboratory-based investigations typical of the other three DP sciences.
 
 ## Exam traps
 

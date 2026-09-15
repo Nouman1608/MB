@@ -6,12 +6,20 @@ level: ["ib"]
 boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Psychology"]
+syllabusSeries: "First assessment 2019"
 order: 1
-description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, the four options and the experimental study -- for IB Diploma Programme Psychology."
+description: "Condensed recall notes on the assessment structure at SL and HL -- papers, weightings, the four options and the experimental study -- for IB Diploma Programme Psychology, first assessment 2019 (final session November 2026)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-26
 featured: false
 ---
+
+> **Course note (legacy syllabus):** This resource describes IB DP
+> Psychology for **first assessment 2019**, now in its final teaching
+> cycle (**last examination session November 2026**). A replacement
+> course (first assessment 2027) restructures the subject substantially.
+> A companion resource for the 2027 course does not yet exist on this
+> site.
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
 [IB DP Psychology subject overview](/resources/ib-dp-psychology-subject-guide/), and for a
@@ -58,7 +66,7 @@ The experimental study is graded against criteria covering: the theoretical fram
 
 ## Command terms and how each paper uses them
 
-Across all three papers, Psychology uses a command-term hierarchy consistent with other individuals-and-societies DP subjects: **outline**, **describe** and **explain** for content-based recall and understanding; **evaluate**, **discuss** and **contrast** for questions requiring a reasoned judgement comparing theories, studies or approaches; **to what extent** for questions expecting a weighed, evidence-based conclusion. Paper 1's core-approaches essay specifically rewards integrating the biological, cognitive and sociocultural approaches where relevant to the question, rather than answering from a single approach in isolation -- a common way marks are lost even in an otherwise well-structured essay.
+Psychology's own subject guide publishes its own command terms, used across all three papers -- it is not a glossary shared with other individuals-and-societies subjects, each of which has its own list. As a study heuristic (not an official IB grouping), it can help to think of the terms in three loose tiers: **outline**, **describe** and **explain** for content-based recall and understanding; **evaluate**, **discuss** and **contrast** for questions requiring a reasoned judgement comparing theories or studies; **to what extent** for questions expecting a weighed, evidence-based conclusion. Paper 1's essay is chosen from a choice of three -- one per approach -- and is answered from that single approach in depth; the skill it specifically rewards is evaluation (a genuine strength and limitation of the theory or study), not breadth across approaches, so blending in a second approach is not required and earns no separate credit here.
 
 ## Why methodology is examined separately at HL
 
@@ -78,12 +86,12 @@ Knowledge and comprehension, application and analysis, synthesis and evaluation,
 
 1. What four assessment objectives run across all components?
 2. What must be individually completed in the internal assessment, even though the experiment itself is usually a group activity?
-5. Why is closely mirroring a group member's IA write-up risky?
-6. Which assessment objective does the IA test directly, that the written papers test only indirectly?
-3. Name the four options examined in Paper 2, and how many does an HL student study?
-4. What does HL Paper 3 specifically assess?
+3. Why is closely mirroring a group member's IA write-up risky?
+4. Which assessment objective does the IA test directly, that the written papers test only indirectly?
+5. Name the four options examined in Paper 2, and how many does an HL student study?
+6. What does HL Paper 3 specifically assess?
 
-**Answers:** 1. Knowledge and comprehension of content; application and analysis of theories/research; synthesis and evaluation of research; selection and use of research skills. 2. The write-up and analysis. 5. Because the write-up, analysis and discussion must be entirely the student's own individual work, and close similarity to a group member's write-up risks being flagged during external moderation. 6. Selection and use of research skills — tested directly through designing and conducting an original study, rather than writing about research in the abstract. 3. Abnormal psychology, developmental psychology, health psychology, psychology of human relationships — SL students study one, HL students study two. 4. Research methodology — three short-answer questions.
+**Answers:** 1. Knowledge and comprehension of content; application and analysis of theories/research; synthesis and evaluation of research; selection and use of research skills. 2. The write-up and analysis. 3. Because the write-up, analysis and discussion must be entirely the student's own individual work, and close similarity to a group member's write-up risks being flagged during external moderation. 4. Selection and use of research skills — tested directly through designing and conducting an original study, rather than writing about research in the abstract. 5. Abnormal psychology, developmental psychology, health psychology, psychology of human relationships — SL students study one, HL students study two. 6. Research methodology — three short-answer questions.
 
 ## Official syllabus
 

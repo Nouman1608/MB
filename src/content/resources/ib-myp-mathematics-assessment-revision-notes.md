@@ -26,7 +26,10 @@ Condensed for quick recall of how the subject is assessed. For the full subject 
 | D — Applying mathematics in real-life contexts | Applying maths to real-world problems |
 
 Each scored on an **8-point scale (1-8)**, equally weighted; a student's level in each criterion
-is matched to the best-fit **grade descriptor**, not totalled exam marks.
+is matched to the best-fit **level descriptor**, not totalled exam marks. This "1-8" describes the
+four descriptor bands; the MYP subject-group guide additionally recognises a **level of 0** below the
+lowest band, so a single criterion's actual attainable range is 0-8, and the four-criterion subject
+total is 0-32, not 4-32.
 
 ## Why there's no SL/HL split at MYP level
 
@@ -73,7 +76,7 @@ Both DP mathematics courses (Analysis and Approaches, and Applications and Inter
 5. Why can a standard-pathway student achieve the same top band as an extended-pathway student?
 6. Why is timed practice worth including in revision even for a student confident at spotting patterns?
 
-**Answers:** 1. Knowing and understanding; Investigating patterns; Communicating; Applying mathematics in real-life contexts. 2. Both cover the same four criteria, but extended mathematics adds further topics and greater depth, preparing students for DP-level maths. 3. By matching their work against the grade descriptor that best fits, not by totalling exam marks. 4. Applying mathematics in real-life contexts. 5. Because the level descriptors reward depth and quality of mathematical thinking within a pathway's scope, not the sheer quantity of content covered — both pathways are assessed against the identical criteria. 6. Because criterion B rewards justifying a generalisation, not just spotting it, and timed conditions test whether that justification can be produced under exam-style time pressure, not only during untimed classwork.
+**Answers:** 1. Knowing and understanding; Investigating patterns; Communicating; Applying mathematics in real-life contexts. 2. Both cover the same four criteria, but extended mathematics adds further topics and greater depth, preparing students for DP-level maths. 3. By matching their work against the level descriptor that best fits, not by totalling exam marks. 4. Applying mathematics in real-life contexts. 5. Because the level descriptors reward depth and quality of mathematical thinking within a pathway's scope, not the sheer quantity of content covered — both pathways are assessed against the identical criteria. 6. Because criterion B rewards justifying a generalisation, not just spotting it, and timed conditions test whether that justification can be produced under exam-style time pressure, not only during untimed classwork.
 
 ## Official syllabus
 

@@ -39,7 +39,7 @@ MYP eAssessment results are reported at. Day-to-day teaching uses a separate, fi
 
 **1.** Name the three proficiency levels MYP Language Acquisition is assessed at. **[3]**
 
-**2.** How many marks does each of the four criteria carry, and are they weighted equally? **[2]**
+**2.** How many marks does each of the four criteria carry in the eAssessment blueprint, and are they weighted equally? **[2]**
 
 **3.** Which criterion is assessed separately from the other three, and how? **[2]**
 
@@ -76,7 +76,7 @@ MYP eAssessment results are reported at. Day-to-day teaching uses a separate, fi
 
 **1.** Emergent, capable, proficient. **[3]**
 
-**2.** 32 marks each, and yes, all four criteria are weighted equally. **[2]**
+**2.** 24 marks each in the eAssessment blueprint (a separate scale from the 8-level, 32-mark-total classroom assessment), and yes, all four criteria are weighted equally. **[2]**
 
 **3.** Criterion C, Speaking -- it is internally assessed by the student's own teacher and externally moderated by the IB, separate from the combined listening/reading/writing on-screen paper covering Criteria A, B and D. **[2]**
 
@@ -86,7 +86,7 @@ MYP eAssessment results are reported at. Day-to-day teaching uses a separate, fi
 **5. (a)** Practising with idiomatic expressions not fully understood risks introducing genuine errors that a proficient-level examiner would penalise, while also failing to demonstrate the range and precision within the capable level's own actual expectations -- attempting to "sound more advanced" through unfamiliar idiom is a different skill from genuinely secure, accurate language use at one's own level, and marking credits accuracy and control at the assessed level, not the appearance of higher-level vocabulary used insecurely. **[3]**
 **(b)** This student should instead practise the capable level's own actual expectations: a range of sentence structures, more precise vocabulary within their genuinely secure range, and awareness of register for a given audience and purpose -- building fluency and accuracy at their confirmed level rather than reaching for unfamiliar proficient-level idiom that risks introducing errors. **[3]**
 
-**6. (a)** Because all four criteria are independently weighted at an equal 32 marks each, and Criterion C (Speaking) requires a genuinely separate revision routine -- spontaneous, interactive practice under time pressure -- strong written performance does not substitute for oral preparation. Concentrating revision time on writing leaves the equally-weighted speaking criterion under-prepared, regardless of how strong the student's writing becomes. **[3]**
+**6. (a)** Because all four criteria are independently weighted at an equal 24 marks each in the eAssessment blueprint, and Criterion C (Speaking) requires a genuinely separate revision routine -- spontaneous, interactive practice under time pressure -- strong written performance does not substitute for oral preparation. Concentrating revision time on writing leaves the equally-weighted speaking criterion under-prepared, regardless of how strong the student's writing becomes. **[3]**
 **(b)** A more balanced plan would allocate dedicated, roughly proportional practice time across listening, reading and writing together (since they share one on-screen paper) and a genuinely separate, dedicated routine for spontaneous interactive speaking practice -- rehearsing unscripted conversation and unexpected follow-up questions specifically, not just reviewing written material and assuming it transfers to oral fluency. **[3]**
 
 **7.** MYP Language Acquisition is compulsory in every year of the programme, with one specific exception: bilingual students may instead pursue courses of study in multiple languages within the MYP Language and Literature subject group. This distinction matters because the proficiency-level structure (emergent, capable, proficient) and the four independently-weighted criteria described in this guide apply specifically to the Language Acquisition pathway -- a student on the bilingual Language and Literature route instead follows that subject group's own different assessment structure. The student should first check with their school or teacher which specific pathway they are actually enrolled in, since assuming the Language Acquisition structure applies without confirming this could lead to revising against the wrong assessment framework entirely. **[5]**

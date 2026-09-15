@@ -18,6 +18,14 @@ publishedDate: 2026-09-06
 featured: false
 ---
 
+> **Course note (legacy syllabus):** This resource describes IB DP
+> Psychology for **first assessment 2019**, now in its final teaching
+> cycle (**last examination session November 2026**). A replacement
+> course (first assessment 2027) reworks the approaches into content
+> areas applied across four contexts, integrated with six named concepts.
+> A companion resource for the 2027 course does not yet exist on this
+> site.
+
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or

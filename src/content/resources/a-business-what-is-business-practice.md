@@ -6,14 +6,14 @@ level: ["a-levels"]
 topic: "Topic 1 – What is Business?"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
-syllabusCodes: ["9625 / 9725"]
-syllabusSeries: "First teaching September 2018"
+syllabusCodes: ["9625", "9725"]
+syllabusSeries: "9625: first teaching September 2018 (current cohorts). 9725: first teaching September 2026 (AS) / September 2027 (A2), the successor specification."
 order: 1
 stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "what-is-business-oxfordaqa-alevel-business"
-description: "Original exam-style practice questions with full worked answers on business objectives, mission, stakeholders and the role of the entrepreneur."
+description: "Original exam-style practice questions with full worked answers on business objectives, mission, stakeholders and the role of the entrepreneur, primarily 9625 with second-year/off-topic questions flagged."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -23,8 +23,32 @@ featured: false
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
+> **In particular:** the "Section A/B/C" labels below are organisational
+> only — the real 9625 AS paper has sections of approximately 17, 27 and 36
+> marks, with the final two sections extended-response, whereas this file's
+> final section (Section C, now extended by Section D below) is its
+> shortest and consists of short-answer questions only. No duration or
+> paper total is implied by this file.
 
 Related: [What is Business revision notes](/resources/a-business-what-is-business-revision-notes/)
+
+**Scope note:** these questions primarily follow 9625. Questions 4 and
+6 draw on content the 9625 specification places in **second-year (A2)**
+topics (the shareholder/stakeholder debate, economies of scale,
+overtrading and gearing all sit in section 3.3, not first-year Topic
+1), and question 8 draws on **price elasticity of demand**, which is
+Topic 2 Marketing content, not Topic 1. They are kept here as useful
+application practice but should not be treated as first-year Topic 1
+exam scope. "SMART" (question 2) and "income elasticity of demand"
+(question 9) are widely-used teaching devices that explain concepts
+the specification does require in substance (setting objectives;
+"the effect of changes in incomes") — they are not themselves named,
+required terms in the OxfordAQA specification, so treat them as
+explanatory aids rather than must-use vocabulary. Genuinely
+first-year Topic 1 content not otherwise tested here — costs of
+inputs, government policies, degree of competition, barriers to
+entry, and the concentration ratio — is covered in new Section D
+below.
 
 ---
 
@@ -82,6 +106,28 @@ Argument for stakeholder: satisfying employees and customers **builds the loyalt
 **9.** **Inferior goods have negative income elasticity of demand** — as incomes fall in a downturn, demand for them actually **rises**, which explains the discount retailer's growth [2]. **Luxury goods have high positive income elasticity** — demand is highly sensitive to income, so it **falls sharply** when incomes fall or consumers feel less confident, explaining the luxury retailer's decline [2].
 
 **10.** Any two, 2 marks each: **higher borrowing costs**, discouraging investment and expansion funded by loans [1] [1]; **reduced consumer spending**, particularly on income-elastic, expensive items such as durables and housing, since disposable income falls once higher mortgage or loan repayments are met [1] [1]; a business holding **variable-rate debt sees its own repayments rise directly**, squeezing cash flow [1] [1].
+
+## Section D — first-year external environment (new)
+
+**11.** Explain **two** factors, other than price, that determine the degree of competition a business faces in its market. **[4]**
+
+**12.** A market has four firms with the following shares: Firm W 32%, Firm X 24%, Firm Y 14%, Firm Z 9%, all others 21% combined. Calculate the four-firm concentration ratio and explain **one** implication of your answer for barriers to entry. **[4]**
+
+**13.** Explain **two** ways a rise in the cost of inputs could affect a business's decisions. **[4]**
+
+**14.** Explain **one** way a change in government policy could affect a business, other than through interest rates. **[3]**
+
+---
+
+## Section D — Answers
+
+**11.** Any two, 2 marks each: **the number of businesses in the market** — more competitors generally means each firm has less pricing power and must compete harder on price, quality or service [1] [1]; **the extent of barriers to entry** — low barriers (little capital needed, no patents, easy access to distribution) allow new entrants, which increases competitive pressure over time, while high barriers protect existing firms' market position [1] [1].
+
+**12.** Four-firm concentration ratio = 32 + 24 + 14 + 9 = **79%** [2]. A ratio this high indicates a highly concentrated market dominated by a few large firms, which typically also have significant resources, brand recognition and economies of scale — all of which raise the effective barriers to entry facing a new firm, beyond any formal barriers such as licensing [2].
+
+**13.** Any two, 2 marks each: **higher costs of inputs squeeze profit margins** unless the business raises its own prices, which it may be unable to do without losing customers to competitors [1] [1]; a business may **switch supplier or input**, substituting a cheaper (perhaps lower-quality) alternative, which can affect product quality and brand reputation [1] [1].
+
+**14.** For example, a government introducing **subsidies or grants** for a particular industry [1] reduces that industry's costs and can make investment or expansion more attractive [1], while a government tightening regulation (for example, environmental standards) raises compliance costs and may force changes to products or processes [1].
 
 ---
 

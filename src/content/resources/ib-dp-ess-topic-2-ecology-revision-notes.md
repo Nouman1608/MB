@@ -12,15 +12,15 @@ order: 4
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-environmental-systems-and-societies-ecology"
-description: "Condensed revision notes on IB Diploma Programme ESS Topic 2, Ecology -- the second-largest syllabus topic at both SL and HL -- applying the Topic 1 concepts to ecosystem structure and function."
+description: "Condensed revision notes on IB Diploma Programme ESS Topic 2, Ecology -- the largest syllabus topic at both SL and HL -- applying the Topic 1 concepts to ecosystem structure and function."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 ---
 
 The [full syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/)
-allocates Topic 2 more teaching hours (22 SL / 26 HL) than any topic besides Topic 1 itself. These
-notes cover **Topic 2 -- Ecology**, alongside the
+allocates Topic 2 more teaching hours (22 SL / 35 HL) than any other topic -- it is the largest
+topic in the syllabus at both levels. These notes cover **Topic 2 -- Ecology**, alongside the
 [Topic 1 Foundations revision notes](/resources/ib-dp-ess-topic-1-foundations-revision-notes/)
 already on the site.
 
@@ -79,7 +79,8 @@ scientific fact disconnected from the course's wider evaluative framework.
 
 ## HL depth beyond the SL core
 
-HL students study Topic 2 for four additional hours beyond SL, typically extending into more detailed
+HL students study Topic 2 for thirteen additional hours beyond SL (22 to 35 hours) -- one of the
+largest HL uplifts of any topic in the syllabus -- typically extending into more detailed
 quantitative treatment of energy flow (such as calculating ecological efficiency between trophic
 levels) and more complex food web scenarios involving multiple interacting cascades. HL students
 should not assume the extra content is simply "more of the same" — practise the quantitative skills

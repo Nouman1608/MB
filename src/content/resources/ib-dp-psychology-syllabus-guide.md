@@ -15,6 +15,15 @@ publishedDate: 2026-09-02
 featured: false
 ---
 
+> **Course note (legacy syllabus):** This guide describes IB DP Psychology
+> for **first assessment 2019**, the course version now in its final
+> teaching cycle (**last examination session November 2026**). A
+> replacement course (first assessment 2027, launched February 2025)
+> restructures the subject substantially -- four contexts replace the four
+> options, six named concepts are introduced, and the internal assessment
+> becomes a research proposal. A companion resource for the 2027 course
+> does not yet exist on this site.
+
 This guide covers the full syllabus structure of **IB Diploma Programme
 Psychology**, first assessment 2019, for both Standard Level (SL) and
 Higher Level (HL) students. It complements the
@@ -24,10 +33,12 @@ already on the site by setting out what is actually taught -- the core
 approaches, approaches to researching behaviour, and the four options.
 
 Total teaching hours are 150 at SL and 240 at HL, made up of the core
-(90 SL / 120 HL), the chosen option or options (20 SL / 40 HL), and the
-internal assessment (20 hours at both levels).
+three approaches (90 SL / 120 HL), research methodology (20 SL / 60 HL),
+the chosen option or options (20 SL / 40 HL), and the internal assessment
+(20 hours at both levels) -- both columns sum exactly: 90 + 20 + 20 + 20 =
+150 at SL, and 120 + 60 + 40 + 20 = 240 at HL.
 
-## Core (90 hours SL / 120 hours HL, including research methodology)
+## Core (90 hours SL / 120 hours HL)
 
 - **Biological approach to understanding behaviour** -- how physiology,
   neurochemistry and genetics contribute to explaining behaviour.
@@ -35,23 +46,26 @@ internal assessment (20 hours at both levels).
   processes such as memory, perception and thinking shape behaviour.
 - **Sociocultural approach to understanding behaviour** -- how social
   and cultural context shapes behaviour and mental processes.
-- **Approaches to researching behaviour** -- 20 hours at both SL and HL,
-  taught alongside the three content approaches above rather than as a
-  separate block, covering the qualitative and quantitative methods
-  psychologists use to test their ideas.
 
 These three approaches are not alternatives to choose between -- every
-student studies all three, and Paper 3's short-answer questions test
-approaches to research specifically, separate from the content
-approaches tested in Paper 1. Many topics within the core are
-deliberately revisited from more than one approach -- memory, for
-instance, can be examined biologically (through brain structures),
-cognitively (through information-processing models) and socioculturally
-(through the influence of schema and culture on recall) -- and the
-course expects students to recognise this rather than filing each topic
-under a single approach only.
+student studies all three. Many topics within the core are deliberately
+revisited from more than one approach -- memory, for instance, can be
+examined biologically (through brain structures), cognitively (through
+information-processing models) and socioculturally (through the
+influence of schema and culture on recall) -- and the course expects
+students to recognise this rather than filing each topic under a single
+approach only.
 
-## Options -- choose one (20 hours SL / 40 hours HL)
+## Approaches to researching behaviour (20 hours SL / 60 hours HL)
+
+Taught alongside the three content approaches above rather than as a
+separate block, covering the qualitative and quantitative methods
+psychologists use to test their ideas. This component roughly triples in
+hours between SL and HL (20 to 60), reflecting that Paper 3's short-answer
+questions on research methodology are HL-only, tested separately from the
+content approaches examined in Paper 1.
+
+## Options -- one at SL, two at HL (20 hours SL / 40 hours HL)
 
 - **Abnormal psychology** -- the definition, explanation and treatment
   of psychological disorders.

@@ -75,13 +75,27 @@ and Sustainability.
 
 ## Building a case-study bank
 
-Because the specification is explicitly built around "contemporary
+Because the guide is explicitly built around "contemporary
 real-world examples," keep a running log of rights and justice case
 studies as the course progresses, each tagged to which of the four
 core concepts it best illustrates. Current, live examples tend to be
 more persuasive in an extended-response answer than well-known but
 dated cases the whole cohort is also likely to be using, since
 examiners see the same handful of textbook examples repeatedly.
+
+Anchor the log to real, named frameworks and institutions rather than
+generic descriptions: the 1948 Universal Declaration of Human Rights
+and the wider UN human rights system; international bodies such as the
+International Court of Justice (ICJ), the UN Human Rights Council
+(UNHRC), the UN High Commissioner for Refugees (UNHCR) and the
+International Criminal Court (ICC); regional human rights courts such
+as the European Court of Human Rights, the Inter-American Court of
+Human Rights and the African Court on Human and Peoples' Rights; the
+"Responsibility to protect" (R2P) norm; and civil society organisations
+such as Human Rights Watch and Amnesty International. Naming the
+specific treaty, institution or case a claim rests on, rather than
+referring only to "an international body" or "a rights framework" in
+general terms, is itself part of what Paper 2 rewards.
 
 ## Engagement project connections
 
@@ -110,10 +124,12 @@ respect the syllabus's own theme boundaries.
 ## Assessment structure
 
 Rights and Justice, like the other two thematic studies, is examined
-through Paper 2's extended-response format: Section A tests
-understanding of core concepts using an example from the theme, and
-Section B combines a short response with an essay response. Because
-the same format applies across all three thematic studies, practising
+through Paper 2's extended-response format: candidates answer one
+essay question from Section A (a set of thematic-study-specific
+questions, one per thematic study) and one essay question from Section
+B (a set of integrating questions requiring candidates to draw links
+across all three thematic studies and the core topics). Because
+the same two-section format applies across all three thematic studies, practising
 this structure once with Rights and Justice content builds a technique
 directly transferable to Peace and Conflict and Development and
 Sustainability as well.

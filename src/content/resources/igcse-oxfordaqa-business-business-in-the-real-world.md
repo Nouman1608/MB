@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "business-in-the-real-world-oxfordaqa-igcse-business"
-description: "Business activity, ownership, aims and objectives -- the opening topic of OxfordAQA International GCSE Business (9225), which mirrors AQA's domestic GCSE Business content areas."
+description: "Business activity, ownership, aims and objectives, business planning and growth -- the opening topic of OxfordAQA International GCSE Business (9225), whose content areas mirror AQA's domestic GCSE Business for this topic only."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
@@ -20,8 +20,13 @@ featured: false
 
 This guide covers **Topic 1 Business in the Real World**, the first
 of six topics in OxfordAQA International GCSE Business (9225), first
-teaching September 2020, first examined May/June 2022. The six topics
-mirror AQA's domestic GCSE Business (8132) content areas.
+teaching September 2020, first examined May/June 2022. This opening
+topic's content areas closely mirror AQA's domestic GCSE Business
+(8132) — but 9225 as a whole is not simply the domestic specification
+re-badged: it uses international accounting terms throughout and adds
+content (such as Sharia-compliant finance and developing-country
+competition) that the domestic course does not cover, so don't extend
+the "mirrors AQA" framing beyond this topic.
 
 ## Where this fits in 9225
 
@@ -50,10 +55,17 @@ and disadvantages, since this vocabulary recurs whenever exam
 questions describe a business scenario. Stakeholder questions reward
 naming specific stakeholder groups (not just "stakeholders" generally)
 and explaining how a particular business decision affects each one
-differently. Because Business in the Real World mirrors AQA's own
-domestic GCSE Business content, past papers and resources for AQA
-GCSE Business (8132) can be a useful supplementary resource for
-practice questions on this topic area.
+differently. **This** opening topic specifically mirrors AQA's own
+domestic GCSE Business (8132) content, so past papers and resources
+for AQA GCSE Business can be a useful supplementary resource **for
+this topic only** — do not extend this recommendation to the rest of
+the course. 9225 uses **international accounting terms** (not
+domestic UK ones) throughout, and later sections require content the
+domestic specification does not cover at all, including
+**Sharia-compliant finance alternatives** and how **developing-country
+businesses compete with developed-country businesses** — a student
+relying on domestic AQA materials across the whole course would miss
+both.
 
 ## Official syllabus
 
@@ -62,9 +74,11 @@ OxfordAQA International GCSE Business (9225) qualification page —
 
 ## Purpose and activity
 
-Businesses exist to satisfy needs and wants by combining the **factors of production** — land, labour, capital and enterprise — and adding value in the process. **Added value** is the difference between the cost of bought-in inputs and the selling price, raised by branding, quality, convenience, design and service.
+Businesses exist to satisfy needs and wants by combining the **factors of production** — land, labour, capital and enterprise. A useful teaching shorthand for the value this creates is "added value" (roughly, selling price minus the cost of bought-in inputs, raised by branding, quality, convenience, design and service) — note this exact term is not itself specification vocabulary, so treat it as an explanatory device rather than something to quote as if examined by name.
 
-Activity is classified by sector: **primary** (extraction and farming), **secondary** (manufacturing and construction), **tertiary** (services). Economies typically shift from primary towards tertiary as they develop.
+The specification also requires the concept of **opportunity cost** — the next best alternative given up when a choice is made — as a basic building block alongside needs and wants.
+
+Activity is classified by sector: **primary** (extraction and farming), **secondary** (manufacturing and construction), **tertiary** (services), and businesses are expected to explain the **interdependence of these sectors** — for example, a manufacturer (secondary) depends on primary-sector suppliers for raw materials and on tertiary-sector businesses for transport, retail and finance. Economies typically shift from primary towards tertiary as they develop.
 
 **Entrepreneurs** organise production and bear risk, motivated by profit, independence, a gap in the market or a social aim. Business failure is common, most often through poor cash flow, inadequate research or over-expansion.
 
@@ -76,13 +90,27 @@ Activity is classified by sector: **primary** (extraction and farming), **second
 | Partnership | Usually unlimited | More capital and expertise, shared profit, risk of disagreement |
 | Private limited (Ltd) | Limited | Shares sold privately, more capital, must publish accounts |
 | Public limited (plc) | Limited | Shares publicly traded, large capital, takeover risk |
-| Franchise | Depends on form | Proven brand and support, but fees and little independence |
+| Not-for-profit organisation | Varies (depends on the legal form chosen) | Surplus reinvested in the organisation's purpose rather than distributed to owners |
 
 **Limited liability** — the shareholder can lose only the amount invested — is the concept the topic turns on, and it is what makes outside investment possible.
+
+The specification also requires understanding of **multinational organisations** among the legal structures a business can adopt: a multinational operates in more than one country, which brings access to larger markets and lower-cost locations, but adds the complexity of operating under different legal systems, currencies and cultures simultaneously.
+
+**Franchising is not a form of ownership and has no liability status of its own.** A franchisee trades as a sole trader, partnership or company, and it is *that* underlying legal form which determines liability — franchising itself is a way of growing or setting up a business (see Growth, below), not a legal structure alongside sole trader, partnership or limited company.
 
 ## Objectives, stakeholders and location
 
 Objectives change with circumstances: **survival** for a start-up, then profit, growth, market share, or social and environmental goals. They conflict — growth consumes cash, ethical sourcing raises costs.
+
+Governments often **encourage enterprise** — for example by providing start-up finance, grants, training and advice, or by cutting the red tape involved in starting a business — because new businesses create jobs, generate tax revenue and drive innovation.
+
+## Business planning
+
+A **business plan** sets out the purpose of the business, its objectives, and how it will be organised — used both when setting up (to clarify thinking) and when raising finance (lenders and investors expect to see one). Typical sections cover the business idea, the market, the finance needed, and how the business will be run.
+
+**Benefits:** forces the founder to research and think through the idea; required by most lenders and investors. **Drawbacks:** takes time to prepare; a plan is only as good as the assumptions behind it, and markets can change faster than the plan.
+
+A plan also requires the basic costing vocabulary: **fixed costs** (do not change with output, e.g. rent), **variable costs** (change directly with output, e.g. raw materials), and **total costs** (fixed + variable) — needed to work out **revenue**, **profit** (revenue − total costs) and **loss** (where costs exceed revenue).
 
 Stakeholders (owners, employees, customers, suppliers, government, community) have competing interests, and most extended questions ask you to weigh them.
 
@@ -90,7 +118,23 @@ Stakeholders (owners, employees, customers, suppliers, government, community) ha
 
 ## Growth and the economic context
 
-Growth may be **internal** (organic, from reinvested profit — slower but controlled) or **external** (merger or takeover — faster but risks culture clash and integration failure). External growth is further classified as horizontal, vertical (forward or backward) or conglomerate.
+Growth may be **internal** (organic, from reinvested profit — slower but controlled: opening new stores, expanding through e-commerce, or **franchising**) or **external** (merger or takeover — faster but risks culture clash and integration failure). External growth is further classified as horizontal, vertical (forward or backward) or conglomerate.
+
+**Franchising** as a growth method lets the franchisor expand quickly using the franchisee's own capital, in exchange for fees and royalties; the franchisee gets a proven brand, training and support in return for reduced independence. (This specification also raises franchising a second time, under quality, since a poorly-run franchised outlet can damage the whole brand as the business grows.)
+
+**Average unit cost — the specification's own named calculation for this topic:**
+
+```
+Average unit cost = total costs / output (units produced)
+
+Example: total costs of $50,000 producing 10,000 units
+Average unit cost = $50,000 / 10,000 = $5 per unit
+
+If output rises to 20,000 units with total costs of $80,000
+(fixed costs spread over more units):
+Average unit cost = $80,000 / 20,000 = $4 per unit -- a fall in
+average unit cost as output rises is an economy of scale.
+```
 
 The external environment includes interest rates (borrowing and consumer spending), exchange rates (import costs, export competitiveness), inflation, unemployment, legislation and technology.
 
@@ -116,13 +160,16 @@ The judgement should turn on how much capital is needed and how much control the
 
 ## Common mistakes
 
-Saying limited liability means the business has limited debts. Treating added value as profit — it ignores overheads. Confusing horizontal with vertical integration. Listing stakeholders without explaining conflicting interests. Giving location factors generically rather than deciding which dominates for the business in the case.
+Saying limited liability means the business has limited debts. Treating added value as profit — it ignores overheads (and remember "added value" itself is a teaching device, not specification wording). Confusing horizontal with vertical integration. Listing stakeholders without explaining conflicting interests. Giving location factors generically rather than deciding which dominates for the business in the case. Giving franchising a liability status of its own — liability follows the franchisee's own chosen legal form (sole trader, partnership or company).
 
 ## Quick revision checklist
 
-- Define added value, calculate it, and explain how to increase it.
+- Define opportunity cost and explain the interdependence of the three business sectors.
 - Classify business activity by sector and explain the shift as economies develop.
-- Compare all forms of ownership, focusing on liability, capital and control.
-- Explain how objectives change with circumstances and why they conflict.
+- Compare all forms of ownership (including not-for-profit and multinational organisations), focusing on liability, capital and control.
+- Explain how objectives change with circumstances, why they conflict, and why governments might encourage enterprise.
+- State the purpose and main sections of a business plan, and its benefits and drawbacks.
+- Distinguish fixed, variable and total costs, and calculate revenue, profit and loss.
 - Decide which location factor dominates for a given business.
-- Distinguish internal from external growth and classify integration types.
+- Distinguish internal (including franchising) from external growth and classify integration types.
+- Calculate and interpret average unit cost.

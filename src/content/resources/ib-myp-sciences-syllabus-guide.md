@@ -79,7 +79,12 @@ Each criterion carries equal weight and is scored on eight achievement
 levels (1-8), grouped into four descriptor bands -- the same
 level-and-band structure used across every MYP subject group, applied
 here to genuinely practical, investigation-heavy scientific work rather
-than to written coursework alone.
+than to written coursework alone. This "1-8" describes the four
+descriptor bands; the MYP subject-group guide additionally recognises a
+level of 0 below the lowest band, awarded when work does not reach the
+standard described by level 1 -- so a single criterion's actual
+attainable range is 0-8, and the four-criterion subject total is 0-32,
+not 4-32.
 
 ## MYP eAssessment
 
