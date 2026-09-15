@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Computer Science"]
 order: 1
-description: "Paper-by-paper exam preparation for IB Diploma Programme Computer Science -- how to use the pre-seen Paper 1 case study, pseudocode practice for Paper 2, a worked scenario and a before/during-exam checklist."
+description: "Paper-by-paper exam preparation for IB Diploma Programme Computer Science -- how to use the pre-seen Paper 1 case study, programming practice in Java or Python for Paper 2, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -35,33 +35,34 @@ the DP sciences group -- **define**, **identify**, **outline** at the lower tier
 **describe**, **compare** in the middle; **evaluate**, **discuss**, **justify** at the top, often
 applied directly to the case study.
 
-## Paper 2: pseudocode, not a specific programming language
+## Paper 2: algorithmic thinking, answered in Java or Python
 
-Paper 2 assesses algorithmic thinking at the level of **pseudocode** -- reasoning about an
-algorithm's logic -- regardless of which language you actually program in for coursework. The single
-most common exam-preparation mistake is revising Paper 2 around a specific language's syntax; the
-exam instead uses command terms like **trace**, **construct** and **write an algorithm**, testing
-whether you can follow, build or design a solution's logic on paper.
+Paper 2 is set on Theme B and focuses on solving problems through algorithmic thinking. For this
+course (first assessment 2027), **candidates answer Paper 2 in either Java or Python**, and all
+students are assessed on questions that require knowledge of programming. The outgoing course
+assessed algorithms in pseudocode, so revision material that tells you to prepare "in pseudocode,
+not a language" is describing that course, not this paper. The common mistake now runs the
+other way: revising only the logic of algorithms without writing, running and debugging real code in
+the language your course uses.
 
-**Exam-preparation priority**: practise tracing an algorithm by hand -- writing out variable values
-line by line as a piece of pseudocode executes -- since this is a mechanical skill that improves
-quickly with deliberate, repeated practice, and directly underpins both "trace" questions and
-"construct"/"write an algorithm" questions, where you need to predict how your own written algorithm
-would behave before committing it to the answer.
+**Exam-preparation priority**: practise tracing code by hand -- writing out variable values line by
+line as it executes -- and practise writing short programs in your course language from a described
+problem. Tracing is a mechanical skill that improves quickly with deliberate practice, and it
+underpins both questions that ask you to predict what code does and questions that ask you to write
+code, where you should check how your own code behaves before committing it to the answer.
 
-## Worked practice scenario: tracing a pseudocode loop
+## Worked practice scenario: tracing a loop
 
-A Paper 2-style question gives the following pseudocode and asks you to trace it, stating the value
-of `total` after the loop finishes, for the input list `[4, 7, 2, 9]`.
+A Paper 2-style question gives the following code and asks you to trace it, stating the value of
+`total` after the loop finishes, for the input list `[4, 7, 2, 9]`. It is shown in Python; the Java
+version has the same logic.
 
-```
+```python
 total = 0
-FOR EACH value IN list
-    IF value > 5 THEN
+for value in values:
+    if value > 5:
         total = total + value
-    END IF
-END FOR
-OUTPUT total
+print(total)
 ```
 
 ```
@@ -83,14 +84,14 @@ value is wrong.
 ## Before/during exam checklist
 
 - **Before the exam**: research and annotate the Paper 1 pre-seen case study across several weeks,
-  not just once; practise hand-tracing pseudocode loops and conditionals until a trace table is
-  automatic; practise writing short algorithms in pseudocode from a described problem, not in a
-  specific programming language's syntax.
+  not just once; practise hand-tracing loops and conditionals until a trace table is automatic;
+  practise writing, running and debugging short programs in Java or Python (whichever your course
+  uses) from a described problem.
 - **During Paper 1**: draw explicitly on prior research into the case study where a question
   references it, rather than answering as if it were entirely unfamiliar.
 - **During Paper 2**: always build a trace table for "trace" questions rather than computing the
-  answer mentally; for "construct" or "write an algorithm" questions, briefly trace your own written
-  algorithm against a simple example before finalising it, to catch logic errors before submitting.
+  answer mentally; for questions that ask you to write code, briefly trace your own code against a
+  simple example before finalising it, to catch logic errors before submitting.
 - **On every paper**: match your answer's command term to the question -- a "define" or "identify"
   question needs a short, precise answer; "evaluate," "discuss" and "justify" need a reasoned
   judgement.
@@ -98,21 +99,21 @@ value is wrong.
 ## Self-test
 
 1. Why is Paper 1's case study, in effect, partially predictable exam content?
-2. What is the most common exam-preparation mistake for Paper 2, and why is it a mistake?
-3. Using the worked scenario's pseudocode and the input list [4, 7, 2, 9], what is the value of
+2. In what form do candidates answer Paper 2 on this course, and what does that mean for revision?
+3. Using the worked scenario's code and the input list [4, 7, 2, 9], what is the value of
    `total` after the loop finishes?
 4. Why does building a trace table help even when the final traced value is wrong?
-5. What should you do before finalising a written algorithm on a "construct" or "write an algorithm"
-   question?
+5. What should you do before finalising code you have written in answer to a question?
 
 **Answers:** 1. Because it is released well before the exam, so research and familiarity built
 beforehand translate directly into faster, more confident answers on questions drawing on it. 2.
-Revising around a specific programming language's syntax, when Paper 2 actually assesses algorithmic
-logic in pseudocode regardless of which language a student uses in coursework. 3. 16 (0 + 7 + 9,
+In Java or Python, and every student faces questions requiring programming knowledge — so revision
+must include writing and debugging real code in the course language, not only reasoning about
+algorithms in the abstract. 3. 16 (0 + 7 + 9,
 since only values greater than 5 -- namely 7 and 9 -- are added to the running total). 4. Because a
 clear, step-by-step trace table shows the working and method used, which lets examiners award method
 marks even if a small error means the final traced value is incorrect. 5. Briefly trace the written
-algorithm against a simple example to check its logic works as intended, catching errors before
+code against a simple example to check its logic works as intended, catching errors before
 committing to the final answer.
 
 ## Official syllabus

@@ -19,8 +19,8 @@ featured: false
 ---
 
 This guide covers **Topic 2 Data transmission**, for Cambridge IGCSE
-Computer Science 0478, 2026–2028 series (Version 5, published December
-2025). 0478 is not tiered, and this is the plain A*-G qualification,
+Computer Science 0478, 2026–2028 series (Version 6, published September
+2026). 0478 is not tiered, and this is the plain A*-G qualification,
 distinct from the numeric-grade Cambridge IGCSE (9-1) Computer Science
 0984 sibling syllabus.
 
@@ -128,5 +128,5 @@ minor to be examined in its own right.
 ## Official syllabus
 
 Cambridge IGCSE Computer Science 0478 syllabus for 2026, 2027 and 2028
-(Version 5, December 2025) —
+(Version 6, September 2026) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697167-2026-2028-syllabus.pdf).

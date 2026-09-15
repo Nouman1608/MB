@@ -34,8 +34,8 @@ syntax recall — misses what the syllabus actually rewards: being able
 to decompose a described problem into smaller, programmable steps, and
 to test a solution systematically rather than only running it once and
 checking the output looks plausible. Paper 2 draws on Theme B,
-including B.2, and (for HL) the OOP and abstract-data-type extensions
-in B.3 and B.4.
+including B.2 and B.3 object oriented programming at both levels,
+and, for HL only, B.4 abstract data types.
 
 ## Syllabus coverage
 

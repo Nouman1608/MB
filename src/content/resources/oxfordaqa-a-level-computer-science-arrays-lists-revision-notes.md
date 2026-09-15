@@ -70,7 +70,7 @@ Being explicit about how the two coordinates map onto the real-world scenario (r
 
 ## Why the static/dynamic distinction frames the rest of 3.2
 
-This sub-topic's static-versus-dynamic framing recurs across every later data structure in Fundamental Data Structures (stacks, queues, trees, hash tables) covered elsewhere in 3.2 -- each later structure is itself built as either a static or dynamic implementation, and being able to say which, and why that choice suits the structure's typical use case, is a skill introduced here and reused throughout the rest of the topic. Treat the advantages and disadvantages named in this sub-topic (predictable access vs resizing overhead) as a template applied again to every subsequent data structure, not content specific to arrays and lists alone.
+This sub-topic's static-versus-dynamic framing recurs across every later data structure: the queues and stacks covered elsewhere in 3.2 Fundamental Data Structures, and, at A-level only, the advanced structures of 3.10 (graphs, trees, hash tables, priority queues and dictionaries) -- each later structure is itself built as either a static or dynamic implementation, and being able to say which, and why that choice suits the structure's typical use case, is a skill introduced here and reused throughout the rest of the topic. Treat the advantages and disadvantages named in this sub-topic (predictable access vs resizing overhead) as a template applied again to every subsequent data structure, not content specific to arrays and lists alone.
 
 ## Key terms
 

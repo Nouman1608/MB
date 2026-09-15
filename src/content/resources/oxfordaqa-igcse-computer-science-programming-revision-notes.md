@@ -96,13 +96,16 @@ WHILE score < 100 AND livesLeft > 0
 
 ```
 HighScore <- 0
-WHILE NotSolved
+Again <- "Y"
+WHILE Again = "Y"
   FOR i <- 1 TO 5
     INPUT Score
     IF Score > HighScore THEN
       HighScore <- Score
     ENDIF
   ENDFOR
+  OUTPUT HighScore
+  INPUT Again
 ENDWHILE
 ```
 
@@ -147,11 +150,11 @@ Once data types, control structures and operators are secure, the rest of Topic 
 
 1. Calculate 23 DIV 4 and 23 MOD 4.
 2. Write a WHILE loop that runs until a variable `total` exceeds 100.
-3. Trace the worked nested example above with Score values 3, 7, 2, 9, 5 — what is HighScore at the end?
+3. Trace the worked nested example above with Score values 3, 7, 2, 9, 5, followed by "N" for `Again` — what is HighScore at the end?
 4. Explain the difference between a condition using AND and the same condition using OR.
 5. Explain why FOR is the wrong choice for a loop that repeats "until the user enters -1."
 
-**Answers:** 1. 23 DIV 4 = 5; 23 MOD 4 = 3. 2. `WHILE total <= 100 ... ENDWHILE` (a REPEAT...UNTIL testing `total > 100` after the body is equally acceptable). 3. Each of the five values is input and compared in turn: 3 becomes the first HighScore, then 7 replaces it, 2 does not replace it, 9 replaces it, and 5 does not — HighScore ends at **9**. 4. AND requires every part of the condition to be true before the whole condition is true; OR requires only one part to be true — using the wrong one silently changes which cases the code handles. 5. FOR needs a fixed count known in advance; "until the user enters -1" depends on unpredictable user input, so an indefinite loop (WHILE or REPEAT...UNTIL) is needed instead.
+**Answers:** 1. 23 DIV 4 = 5; 23 MOD 4 = 3. 2. `WHILE total <= 100 ... ENDWHILE` (a REPEAT...UNTIL testing `total > 100` after the body is equally acceptable). 3. The WHILE condition is true on entry, so the FOR loop inputs the five values and compares each in turn: 3 becomes the first HighScore, then 7 replaces it, 2 does not replace it, 9 replaces it, and 5 does not. 9 is output, "N" is input, the WHILE condition is now false and the loop ends — HighScore is **9**. 4. AND requires every part of the condition to be true before the whole condition is true; OR requires only one part to be true — using the wrong one silently changes which cases the code handles. 5. FOR needs a fixed count known in advance; "until the user enters -1" depends on unpredictable user input, so an indefinite loop (WHILE or REPEAT...UNTIL) is needed instead.
 
 ## Official syllabus
 

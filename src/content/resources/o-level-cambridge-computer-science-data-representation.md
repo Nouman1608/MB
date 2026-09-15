@@ -121,20 +121,20 @@ Sound file size = sample rate x sample resolution x seconds
 
 ## Worked example
 
-An image is 800 by 600 pixels with a colour depth of 24 bits. Find the file size in megabytes.
+An image is 800 by 600 pixels with a colour depth of 24 bits. Find the file size in mebibytes (MiB).
 
 ```
 bits  = 800 x 600 x 24 = 11 520 000 bits
 bytes = 11 520 000 / 8 = 1 440 000 bytes
-KB    = 1 440 000 / 1024 = 1406.25 KB
-MB    = 1406.25 / 1024   = 1.37 MB
+KiB   = 1 440 000 / 1024 = 1406.25 KiB
+MiB   = 1406.25 / 1024   = 1.37 MiB
 ```
 
 Dividing by 8 to reach bytes, then by 1024 twice, is where most errors occur.
 
 ## Common mistakes
 
-Confusing sample rate with sample resolution. Dividing by 1000 rather than 1024 when converting bytes to kilobytes. Forgetting to convert bits to bytes at all. Saying lossy compression "removes unnecessary data" without noting it is permanent. Describing hexadecimal as something the computer stores — the machine stores binary; hex is for human readability.
+Confusing sample rate with sample resolution. Dividing by 1000 rather than 1024 when converting bytes to kibibytes, or labelling the answer KB or MB instead of KiB or MiB. Forgetting to convert bits to bytes at all. Saying lossy compression "removes unnecessary data" without noting it is permanent. Describing hexadecimal as something the computer stores — the machine stores binary; hex is for human readability.
 
 ## Quick revision checklist
 

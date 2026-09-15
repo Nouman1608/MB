@@ -27,7 +27,7 @@ second of 21 sections in the syllabus; AS Level candidates study Sections
 
 ## Where this fits in 9626
 
-Having introduced data, information and the data-processing cycle in
+Having introduced data, information and the methods of processing it in
 Section 1, Section 2 moves to the physical and logical machinery that
 processes that data — from the largest classes of computer (mainframes
 and supercomputers) down to the software layer that makes any computer

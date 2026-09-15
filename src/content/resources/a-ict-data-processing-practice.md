@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "data-processing-and-information"
-description: "Original exam-style practice questions with full worked answers on data vs information, validation, verification, databases and data protection."
+description: "Original exam-style practice questions with full worked answers on data vs information, validation, verification, encryption, databases and processing methods."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-22
 featured: false
@@ -59,6 +59,11 @@ Related: [Data Processing and Information revision notes](/resources/a-ict-data-
 
 **9.** Explain why payroll processing typically uses batch processing rather than real-time processing, and explain why an autopilot system could not use batch processing instead. **[4]**
 
+**10.** A company's staff connect from home to its internal network, and customers place orders on its website.
+
+**(a)** Describe the difference between symmetric and asymmetric encryption. **[2]**
+**(b)** Identify which encryption protocol suits each connection, and explain your choice. **[4]**
+
 ---
 
 ## Answers
@@ -72,7 +77,7 @@ Related: [Data Processing and Information revision notes](/resources/a-ict-data-
 **(c)** Validation only checks that data is **sensible and of the right form**, not that it is true [1]; an age of 35 entered for a 34-year-old **passes every check but is still wrong** [1].
 
 **4.** A **flat file** stores all data in a **single table**, so the same information is repeated on many records [1]. A **relational database** stores data in **several linked tables**, related by key fields [1].
-Advantages: **reduced data redundancy** — each fact is stored once, saving storage [1]; **improved data consistency** — an update is made in one place, so records cannot disagree with one another [1]; **improved data integrity and security**, since access rights can be granted table by table [1]; **greater flexibility** — new queries and reports can combine tables without restructuring the data [1]; **easier maintenance and expansion** [1].
+Advantages, any three [1] each, maximum [3]: **reduced data redundancy** — each fact is stored once, saving storage [1]; **improved data consistency** — an update is made in one place, so records cannot disagree with one another [1]; **improved data integrity and security**, since access rights can be granted table by table [1]; **greater flexibility** — new queries and reports can combine tables without restructuring the data [1]; **easier maintenance and expansion** [1].
 
 **5. Primary key** — a field (or combination) that **uniquely identifies each record in a table**; no two records may share it and it cannot be null [1] [1]. **Foreign key** — a field in one table that **refers to the primary key of another table**, creating the relationship between them [1] [1]. **Referential integrity** — the rule that a **foreign key value must always match an existing primary key value** in the related table [1], which prevents "orphan" records such as an order attached to a customer who does not exist [1].
 
@@ -84,6 +89,9 @@ Advantages: **reduced data redundancy** — each fact is stored once, saving sto
 **(b)** Any one advantage: the census data is **cheap and immediately available**, and often covers a very large sample [1] [1]. Any one disadvantage: it **may be out of date, in the wrong format for the researcher's needs, or carry an unknown bias**, since it was not designed for this specific research question [1] [1].
 
 **9.** Payroll involves a **large volume of similar transactions with no urgency**, so it can be collected and processed together in a scheduled batch, e.g. overnight when the system is otherwise idle [2]. An **autopilot is a real-time control system**, where the output (an adjustment to the aircraft's controls) must feed back to influence the very next input **immediately** — a delay of even a few seconds while data is batched would be unsafe, since the system must respond continuously to changing conditions [2].
+
+**10. (a)** **Symmetric** encryption uses a **single private key** to both encrypt and decrypt, so the key must be shared securely [1]; **asymmetric** encryption uses a **public key to encrypt and a matching private key to decrypt**, so the private key never has to be sent [1].
+**(b)** Staff connecting to the internal network: **IPsec** [1], because it encrypts and authenticates **all traffic between the home device and the company network** at the network layer, whatever application is used, as in a VPN [1]. Customers ordering on the website: **TLS/SSL** [1], because it secures the **session between the customer's browser and the web server** and needs nothing installed by the customer beyond the browser [1].
 
 ---
 

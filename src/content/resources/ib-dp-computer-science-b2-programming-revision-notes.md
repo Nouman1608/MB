@@ -82,8 +82,8 @@ pays off directly when the IA itself is due.
 
 ## How B.2 is examined on Paper 2
 
-Paper 2 draws on Theme B, including B.2, and (for HL) the OOP and abstract-data-type extensions in
-B.3 and B.4. Expect a mix of code-reading questions (predicting what a given piece of pseudocode or
+Paper 2 draws on Theme B, including B.2 and B.3 object oriented programming at both levels, and, for
+HL only, B.4 abstract data types. Candidates answer in Java or Python. Expect a mix of code-reading questions (predicting what a given piece of pseudocode or
 code outputs), code-writing questions (producing a short program or function to a specification), and
 questions asking you to identify or fix an error in given code. Because code-reading and code-writing
 draw on the same underlying fluency, practising both -- not just writing your own programs from

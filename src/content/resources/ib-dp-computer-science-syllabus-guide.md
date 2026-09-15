@@ -69,12 +69,13 @@ almost all of the Theme B gap between SL and HL.
 ## Case study (15 hours SL / 30 hours HL)
 
 A syllabus-published case study, refreshed periodically by the IB, that
-Paper 1 sets three dedicated questions against, in addition to its
-questions on the four Theme A topics. Because the case study changes
+Paper 1 assesses alongside its questions on the four Theme A topics
+(the board's published outline does not fix how many questions are set
+on it). Because the case study changes
 between examination cycles, always confirm you are studying the version
 current for your own exam session rather than material from a previous
 cohort -- a mismatched case study can leave otherwise well-prepared
-students unable to answer three guaranteed marks on Paper 1.
+students unable to answer the case-study questions on Paper 1.
 
 ## Internal assessment and collaborative sciences project
 
@@ -91,12 +92,12 @@ students unable to answer three guaranteed marks on Paper 1.
 ## How to approach it
 
 Paper 1 is set on Theme A plus the case study, while Paper 2 is set on
-Theme B (with additional OOP and abstract-data-type questions for HL
-only) -- so if you know which paper is giving you the most trouble in
+Theme B (object oriented programming at both levels; abstract data
+types for HL only) -- so if you know which paper is giving you the most trouble in
 practice papers, you know exactly which theme to revise. Because the
-case study is published in advance and Paper 1 devotes three whole
-questions to it, treat it as compulsory reading rather than optional
-background: at 15-30 hours of recommended study time it is weighted
+case study is published in advance and is assessed in Paper 1, treat it
+as compulsory reading rather than optional background: at 15 hours of
+recommended study time at SL and 30 hours at HL it is weighted
 similarly to a full Theme A sub-topic, not as a bonus. For Theme B,
 build actual working code as you revise rather than only reading
 pseudocode -- the computational thinking process (specify, decompose,

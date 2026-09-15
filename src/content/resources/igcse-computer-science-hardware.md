@@ -152,7 +152,7 @@ between" questions are a recurring format across this topic.
 ## Official syllabus
 
 Cambridge International, *Cambridge IGCSE Computer Science (0478)
-syllabus for examination in 2026, 2027 and 2028* (Version 5, published
-December 2025): [official syllabus
+syllabus for examination in 2026, 2027 and 2028* (Version 6, published
+September 2026): [official syllabus
 PDF](https://www.cambridgeinternational.org/Images/697167-2026-2028-syllabus.pdf),
 Subject content, section 3 "Hardware". Verified 2026-09-02.

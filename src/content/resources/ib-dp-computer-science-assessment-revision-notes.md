@@ -20,7 +20,7 @@ paper-by-paper exam-day plan see the
 
 ## SL vs HL weightings
 
-Both papers are published with equal, fixed weightings — Paper 2 is not a leftover percentage. The board's own page states this both as "a third"/"a third" in one place and as the exact figures below in its table; the table is the internally coherent source and is what these figures follow.
+Both papers are published with equal, fixed weightings — Paper 2 is not a leftover percentage. The board's own page contradicts itself on the external share: its prose says the assessment is 80% external and 20% internal at both levels, while its table gives 70% external at SL (two 1 hour 15 minute papers) and 80% at HL (two 2-hour papers). The table is internally coherent and is what these figures follow.
 
 | Component | SL | HL |
 |---|---|---|
@@ -34,12 +34,12 @@ Both papers are published with equal, fixed weightings — Paper 2 is not a left
   case study** released in advance.
 - **Paper 2:** focuses on **algorithmic thinking**. For the current series, candidates answer in
   one of two named programming languages, and all students face questions requiring programming
-  knowledge — this replaced the outgoing course's pseudocode-only format, so resources still
-  describing Paper 2 as assessed "at the level of pseudocode" are describing the previous course.
+  knowledge. The outgoing course assessed algorithms in pseudocode, so resources still describing
+  Paper 2 as assessed "at the level of pseudocode" are describing that course.
 
 ## The computational solution (IA)
 
-- No prescribed programming language — choose whatever suits the solution.
+- A solution to a real-world problem of the student's own choosing, developed over a recommended 35 hours at both levels. The course itself is studied in Java or Python; check your school's IA guidance for the language to use.
 - Marked against criteria covering the **whole problem-solving cycle** (identify → design →
   develop → evaluate), not just the finished product.
 - Weighted more heavily at SL (30%) than HL (20%).
@@ -50,7 +50,7 @@ The IA is graded against criteria that mirror the full problem-solving cycle: **
 
 ## Command terms and how the papers use them
 
-Paper 1's extended-response questions on core concepts use command terms consistent with the DP sciences group: **define**, **identify** and **outline** for lower-tier recall; **explain**, **describe** and **compare** for middle-tier reasoning; **evaluate**, **discuss** and **justify** for top-tier questions requiring a reasoned judgement, often applied to the pre-seen case study. Paper 2's algorithmic questions instead use command terms specific to computational thinking -- **trace**, **construct** and **write an algorithm** -- which test the ability to follow, build or design a solution in pseudocode rather than recall factual content, a genuinely different skill from Paper 1's more discursive style.
+Paper 1's extended-response questions on core concepts use command terms consistent with the DP sciences group: **define**, **identify** and **outline** for lower-tier recall; **explain**, **describe** and **compare** for middle-tier reasoning; **evaluate**, **discuss** and **justify** for top-tier questions requiring a reasoned judgement, often applied to the pre-seen case study. Paper 2's algorithmic questions instead use command terms specific to computational thinking -- **trace**, **construct** and **write an algorithm** -- which test the ability to follow, build or design a solution — answered in Java or Python, whichever the course was studied in — rather than recall factual content, a genuinely different skill from Paper 1's more discursive style.
 
 ## Why the pre-seen case study matters more than it first appears
 

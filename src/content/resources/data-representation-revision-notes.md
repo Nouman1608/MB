@@ -61,7 +61,7 @@ IMAGE  size (bits) = width x height x colour depth
 SOUND  size (bits) = sample rate x sample resolution x seconds
 
 bits -> bytes : / 8
-bytes -> KB   : / 1024      KB -> MB : / 1024
+bytes -> KiB  : / 1024      KiB -> MiB : / 1024
 ```
 
 - **Resolution** = number of pixels. **Colour depth** = bits per pixel; n bits gives 2ⁿ colours.
@@ -122,29 +122,28 @@ bit -> nibble (4 bits) -> byte (8 bits) -> kibibyte (KiB)
 ```
 
 The "-bi-" (kibi, mebi, gibi...) naming makes explicit that the factor
-is 1024, not 1000 — a distinction the syllabus is specific about, even
-though "KB" and "MB" remain the everyday terms candidates are used to
-seeing.
+is 1024, not 1000 — a distinction the syllabus is specific about: it
+names only these binary units, and file-size calculations must use 1024.
 
 ## Exam traps
 
-- Divide by **1024**, not 1000, for KB and MB.
+- Divide by **1024**, not 1000, for KiB and MiB.
 - Don't forget bits → bytes (÷8) before converting further.
 - Sample **rate** vs sample **resolution** — these are different things.
 - Hexadecimal is for human readability; the computer stores **binary**.
 - Lossy compression is **permanent** — the data cannot be restored.
 - In two's complement, forgetting to **add 1** after flipping the bits — the flip alone gives one's complement, not two's complement.
 - Applying RLE to a photograph and expecting a large saving — natural images rarely have long runs of identical values, so lossy compression (e.g. JPEG) suits them far better.
-- Writing "KB" when the calculation actually used a factor of 1024 throughout — recognise that kibibyte (KiB) is the technically precise term, even though "KB" is still accepted informally.
+- Labelling a 1024-based answer "KB" or "MB" — the syllabus units are KiB and MiB, and the answer must be in the unit the question asks for.
 
 ## Self-test
 
 1. Convert denary 174 to binary and hex.
-2. An image is 1024 × 768 with 24-bit colour. Give the size in MB.
+2. An image is 1024 × 768 with 24-bit colour. Give the size in MiB.
 3. What causes overflow?
 4. Why is Unicode preferred over ASCII for a multilingual website?
 5. Which compression type suits a spreadsheet, and why?
 6. Represent −19 in 8-bit two's complement.
 7. Why does RLE compress a simple icon well but a photograph poorly?
 
-**Answers:** 1. 10101110 → nibbles 1010 1110 → **AE**. 2. 1024×768×24 = 18,874,368 bits ÷ 8 = 2,359,296 bytes ÷ 1024 = 2304 KB ÷ 1024 = **2.25 MB**. 3. The result of a calculation requires more bits than the register can hold, so the most significant bit is lost. 4. ASCII cannot represent non-Latin scripts; Unicode covers a very wide range of the world's writing systems. 5. Lossless — any discarded data would corrupt values and formulas. 6. Write 19 as 00010011, flip every bit to get 11101100, then add 1 to get **11101101**. 7. An icon typically has long runs of identical pixel values that RLE can replace with a single value-and-count pair, while a photograph's colours vary almost pixel to pixel, giving very few long runs to compress.
+**Answers:** 1. 10101110 → nibbles 1010 1110 → **AE**. 2. 1024×768×24 = 18,874,368 bits ÷ 8 = 2,359,296 bytes ÷ 1024 = 2304 KiB ÷ 1024 = **2.25 MiB**. 3. The result of a calculation requires more bits than the register can hold, so the most significant bit is lost. 4. ASCII cannot represent non-Latin scripts; Unicode covers a very wide range of the world's writing systems. 5. Lossless — any discarded data would corrupt values and formulas. 6. Write 19 as 00010011, flip every bit to get 11101100, then add 1 to get **11101101**. 7. An icon typically has long runs of identical pixel values that RLE can replace with a single value-and-count pair, while a photograph's colours vary almost pixel to pixel, giving very few long runs to compress.

@@ -19,8 +19,8 @@ featured: false
 ---
 
 This guide covers **Topic 1 Data representation**, for Cambridge IGCSE
-Computer Science 0478, 2026–2028 series (Version 5, published December
-2025). 0478 is not tiered — all candidates study the same content —
+Computer Science 0478, 2026–2028 series (Version 6, published September
+2026). 0478 is not tiered — all candidates study the same content —
 and this is the plain A*-G qualification, distinct from the
 numeric-grade Cambridge IGCSE (9-1) Computer Science 0984 sibling
 syllabus.
@@ -56,8 +56,9 @@ represents an image, including the effects of resolution and colour
 depth on file size and quality
 - 1.3 Data storage and compression — how data storage is measured, from
 bit and nibble up to kibibyte, mebibyte, gibibyte, tebibyte, pebibyte
-and exbibyte, and the relationship between each denomination (1024 of
-one unit per unit above it); calculating the file size of an image or
+and exbibyte, and the relationship between each denomination (4 bits
+in a nibble, 8 bits in a byte, then 1024 of each unit in the next from
+the kibibyte upwards); calculating the file size of an image or
 sound file from given information; the purpose of and need for data
 compression; how lossy and lossless compression methods work, e.g. run
 length encoding (RLE)
@@ -105,13 +106,13 @@ exceeds 255 (the maximum an unsigned 8-bit register can hold) before
 concluding overflow has occurred.
 
 **Image file size.** An image is 800 × 600 pixels with a colour depth
-of 24 bits. Find its file size in megabytes.
+of 24 bits. Find its file size in mebibytes (MiB).
 
 ```
 total bits = 800 x 600 x 24 = 11 520 000 bits
 bytes      = 11 520 000 / 8 = 1 440 000 bytes
-megabytes  = 1 440 000 / 1 048 576
-           = 1.37 MB
+kibibytes  = 1 440 000 / 1024 = 1406.25 KiB
+mebibytes  = 1406.25 / 1024   = 1.37 MiB
 ```
 
 Halving the colour depth to 12 bits would halve the file size, but it
@@ -139,5 +140,5 @@ the cost of a larger file.
 ## Official syllabus
 
 Cambridge IGCSE Computer Science 0478 syllabus for 2026, 2027 and 2028
-(Version 5, December 2025) —
+(Version 6, September 2026) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697167-2026-2028-syllabus.pdf).

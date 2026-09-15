@@ -87,7 +87,7 @@ Binary search: compare the middle item; if the target is smaller, discard the up
 
 ## Sorting
 
-**Bubble sort** — repeatedly compare adjacent pairs and swap if out of order; after each pass the largest remaining item has "bubbled" to the end. Simple to code, but slow.
+**Bubble sort** — repeatedly compare adjacent pairs and swap if out of order; after each pass the largest remaining item has "bubbled" to the end. Simple to code, but slow. **Know the form the specification requires:** two nested loops, the inner loop **definite** (one pass through the list) and the outer loop **indefinite**, repeating only while the last pass **made at least one swap** — so the sort stops after the first pass with no swaps. You must be able to follow and write pseudocode for this version.
 
 **Merge sort** — divide the list in half repeatedly until each part holds one item, then merge the parts back together in order. More complex but much faster on large lists.
 

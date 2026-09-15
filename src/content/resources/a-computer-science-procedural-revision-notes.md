@@ -45,7 +45,7 @@ DIV  17 DIV 5 = 3        MOD  17 MOD 5 = 2
 
 ## Recursion
 
-*A-level-only content (examined in the Paper 3 unit), kept here alongside the rest of procedural programming for convenience — not assessed at AS.*
+*A-level-only content (specification section 3.9.4.2, examined in Unit 3: Advanced Programming), kept here alongside the rest of procedural programming for convenience — not assessed at AS.*
 
 Requires a **base case** that stops the recursion and a **general case** that moves towards it.
 
@@ -61,44 +61,52 @@ Each unfinished call is held on the **call stack** with its own local variables 
 
 ## Data structures
 
+**AS — fundamental data structures (section 3.2)**
+
 | Structure | Behaviour | Typical use |
 |---|---|---|
-| **Array** | Fixed size, same type, indexed | Lists of like items |
-| **Record** | Fields of **different** types | One entity with several attributes |
+| **Array / list** | Indexed; one- or two-dimensional (lists of lists) | Lists of like items, tables |
+| **Record** | Fields of **different** types handled as one entity | One entity with several attributes |
 | **Stack** | **LIFO** — push, pop, peek | Call stack, undo, expression evaluation |
-| **Queue** | **FIFO** — enqueue, dequeue | Print spooling, scheduling, buffers |
-| **Linked list** | Nodes with pointers | Frequent insertion and deletion |
-| **Binary search tree** | Ordered hierarchy | Fast search when balanced |
-| **Hash table** | Key → index via hash function | Near-constant-time lookup |
-| **Graph** | Nodes and edges | Networks, routes |
+| **Queue** | **FIFO** — enqueue, dequeue; linear or circular in a 1-D array | Print spooling, scheduling, buffers |
 
-**Static versus dynamic data structures** is the standard comparison the specification requires: a static structure (e.g. an array) has a fixed size set when created, giving fast **direct indexed access** but wasting space if under-filled and failing if it overflows; a dynamic structure (e.g. those built from records and pointers) grows and shrinks as the program runs, using memory efficiently, but costs more to access an arbitrary element since it must generally be reached by following references from the start.
+**Static versus dynamic data structures** is the comparison the specification requires: a static structure (e.g. an array) has a fixed size set when created, giving fast **direct indexed access** but wasting space if under-filled and failing if it overflows; a dynamic structure grows and shrinks as the program runs, using memory efficiently, at the cost of managing that growth at run time.
 
-**Hash collisions** are handled by chaining (a linked list at each index) or open addressing (probing for the next free slot). A good hash function distributes keys evenly to minimise them.
+**A-level only — advanced data structures (section 3.10, examined in Unit 3; not assessed at AS)**
+
+| Structure | Behaviour | Typical use |
+|---|---|---|
+| **Graph** | Vertices and edges; adjacency matrix or list | Networks, routes |
+| **Tree / binary search tree** | Connected, undirected graph with no cycles; a BST keeps an order | Fast search when balanced |
+| **Hash table** | Key → position via a hash function (often using MOD) | Near-constant-time lookup |
+| **Priority queue** | Items leave in priority order | Dijkstra's algorithm, scheduling |
+| **Dictionary** | Key–value pairs, value accessed by key | Look-up tables |
+
+**Hash collisions** occur when two keys compute the same hash. The specification's method is **rehashing**: the second record is stored in the next available position. A good hash function distributes records evenly and is quick to compute.
 
 ## Algorithms
 
-*The complexity notation (Big O) below is A-level-only content (examined in the Paper 4 unit); the specification states expressly that formal complexity comparisons are not required at AS. Searching and sorting themselves are AS content — only the Big O classification is A-level.*
+*Searching and sorting are AS content (section 3.4). The Big O classification is A-level content (section 3.13.5, examined in Unit 4); the AS searching and sorting sub-sections state that formal comparisons using Big O notation will not be required at AS but may be required at A-level.*
 
 **Searching**
 
 | | Linear | Binary |
 |---|---|---|
 | Data | Any order | **Must be sorted** |
-| Complexity | O(n) | O(log n) |
+| Complexity *(A-level)* | O(n) | O(log n) |
 
-**Sorting**
+**Sorting — the specification names two algorithms**
 
-| Algorithm | Complexity | Note |
+| Algorithm | What the specification asks | Complexity *(A-level)* |
 |---|---|---|
-| **Bubble** | O(n²) | Simple, slow — one of the two sorting algorithms this specification requires; candidates may be asked to write code for it |
-| **Insertion** | O(n²) | Efficient on nearly sorted data — the specification's other required sorting algorithm |
-| **Merge** *(beyond this specification)* | O(n log n) | Divide and conquer; needs extra memory |
-| **Quick** *(beyond this specification)* | O(n log n) average, O(n²) worst | In place; worst case on poor pivot choice |
+| **Bubble sort** | Know and trace it; know that it can be made more efficient by checking one fewer item each pass and by stopping after a pass with no swaps. **You may be asked to write code for it.** | Worst O(n²), best O(n) |
+| **Merge sort** | Know it and demonstrate how it operates on a data set. **You will not be asked to write code for it.** | O(n log n) |
+
+At AS, compare the two on their **efficiency of use of time and memory** without Big O: bubble sort is slow on large lists but sorts in place and stops early on a nearly sorted list; merge sort is much faster on large lists but needs extra memory for the sub-lists.
 
 **Big O describes how the running time grows with input size**, not the time itself. An O(n²) algorithm can beat an O(n log n) one on small inputs; the classification matters as n gets large.
 
-**Traversals:** breadth-first uses a **queue**; depth-first uses a **stack** (or recursion). Binary tree traversals: in-order (which outputs a BST in sorted order), pre-order, post-order.
+**Traversals** *(A-level only, section 3.11, Unit 3):* breadth-first search uses a **queue**; depth-first uses a **stack** (or recursion). Binary tree traversals: in-order (which outputs a BST in ascending order), pre-order, post-order.
 
 ## Testing and errors
 
@@ -121,9 +129,9 @@ Each unfinished call is held on the **call stack** with its own local variables 
 ## Self-test
 
 1. Distinguish pass by value from pass by reference, and say which is safer and why.
-2. Why does recursion use more memory than iteration?
+2. *(A-level)* Why does recursion use more memory than iteration?
 3. Compare a static data structure with a dynamic one.
-4. Which data structure does breadth-first traversal use, and which does depth-first use?
-5. What does Big O actually describe?
+4. *(A-level)* Which data structure does breadth-first traversal use, and which does depth-first use?
+5. *(A-level)* What does Big O actually describe?
 
 **Answers:** 1. By value passes a copy so the original is unchanged; by reference passes the address so the original can be modified. By value is safer as it avoids unintended side effects. 2. Every unfinished call remains on the call stack with its own local variables and return address until the base case is reached. 3. A static structure has a fixed size set when created, giving fast direct indexed access but wasting space if under-filled or failing if it overflows; a dynamic structure grows and shrinks as the program runs, using memory efficiently, but costs more to reach an arbitrary element. 4. Breadth-first uses a queue; depth-first uses a stack, or recursion. 5. How the running time or space requirement grows as the input size grows — not the actual execution time.

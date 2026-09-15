@@ -80,8 +80,7 @@ table independently of programming ability.
 
 ## How it's tested
 
-Paper 1 draws its four topic-specific questions from Theme A plus three questions tied to the
-pre-released case study, so A.1-A.4 content routinely appears embedded in case-study scenarios
+Paper 1 is set on Theme A together with the pre-released case study, so A.1-A.4 content routinely appears embedded in case-study scenarios
 rather than as standalone recall questions. Programming-heavy content lives in Theme B, not Theme
 A, so Theme A questions are more conceptual: explaining how something works, evaluating a design
 choice, or applying a concept (e.g. normalisation, in A.3) to an unfamiliar scenario, rather than

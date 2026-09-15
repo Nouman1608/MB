@@ -71,7 +71,7 @@ But it also causes problems: **coarse categories lose detail**, codes must be le
 **They are not the same thing, and this is the most commonly confused pair in the syllabus.**
 
 - **Validation** — an automatic computer check that data is **reasonable and of the correct type**. It cannot detect whether data is *correct*, only whether it is sensible.
-- **Verification** — a check that data has been **accurately transferred or copied**, by double entry or visual proof-reading.
+- **Verification** — a check that data has been **accurately entered, transferred or copied**. The syllabus names six methods: **visual checking**, **double data entry**, **parity check**, **checksum**, **hash total** and **control total**.
 
 A valid but wrong date of birth passes every validation check ever written. Only verification against the source can catch it.
 
@@ -87,6 +87,23 @@ A valid but wrong date of birth passes every validation check ever written. Only
 | **Limit** | Value must not exceed a single specified boundary |
 | **Check digit** | Extra digit calculated from the others — used for ISBNs and barcodes |
 
+| Verification method | How it works |
+|---|---|
+| **Visual checking** | Entered data compared by eye with the source document |
+| **Double data entry** | Data entered twice and the two versions compared |
+| **Parity check** | An extra bit makes the count of 1s odd or even; a wrong parity on arrival shows corruption |
+| **Checksum** | A value calculated from a block of data is sent with it and recalculated on arrival |
+| **Hash total** | A total with no meaning (e.g. of employee numbers) compared before and after entry or transfer |
+| **Control total** | A meaningful total (e.g. of hours worked in a batch) compared in the same way |
+
+## Encryption
+
+- **Why:** intercepted or stolen data cannot be read without the key. Encryption does not stop interception.
+- **Symmetric** — one private key encrypts and decrypts. Fast, but the key must be shared securely.
+- **Asymmetric** — a public key encrypts and only the matching private key decrypts. Solves key sharing, but slower. Systems often use asymmetric encryption to swap a symmetric key.
+- **Protocols:** **TLS/SSL** secures a client–server session (e.g. a browser and a bank's server); **IPsec** encrypts and authenticates all packets between two hosts or networks, as in a VPN. TLS/SSL is simple to deploy per application; IPsec covers all traffic but is harder to configure.
+- **Uses:** protection of data (in transit and stored) and **systems encryption** (a whole disk or device).
+
 ## Processing methods
 
 | Method | Description | Best for |
@@ -94,6 +111,8 @@ A valid but wrong date of birth passes every validation check ever written. Only
 | **Batch** | Data collected, processed later in a group, no user interaction | Payroll, billing, cheque clearing |
 | **Online / interactive** | Processed as entered, user waits for a response | Booking systems, e-commerce |
 | **Real-time** | Processed immediately, output affects the input source | Process control, autopilot, safety systems |
+
+**Master and transaction files.** In batch processing the transaction file is sorted into master-file key order, then the two are read together: unmatched master records are copied unchanged to a new master file, matched ones are updated from the transaction and written, until both files end. The new file becomes the master; the old one is kept as a backup.
 
 **Batch suits payroll** because it is a large volume of similar transactions with no urgency, so processing can be scheduled overnight when the system is idle.
 

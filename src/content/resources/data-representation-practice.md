@@ -46,7 +46,7 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 
 **6.** An image is 800 × 600 pixels with a colour depth of 24 bits.
 
-**(a)** Calculate the file size in megabytes. **[4]**
+**(a)** Calculate the file size in mebibytes (MiB). **[4]**
 **(b)** Explain the effect of halving the colour depth on quality and file size. **[3]**
 
 **7.** Explain the difference between lossy and lossless compression, giving a suitable use for each. **[4]**
@@ -76,8 +76,8 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 **5. (a)** 01101100 = 108; 00110101 = 53 [1]; sum = **10100001** = 161 [1]; this fits in 8 bits, so **no overflow** [1].
 **(b)** 11010010 = 210; 01100011 = 99 [1]; sum = 309, which requires **9 bits (100110101)** [1]; the ninth bit is lost, so **overflow occurs** [1].
 
-**6. (a)** Total bits = 800 × 600 × 24 [1] = 11 520 000 bits [1]; ÷ 8 = 1 440 000 bytes [1]; ÷ 1 048 576 = **1.37 MB** [1].
-**(b)** File size **halves to about 0.72 MB** [1]; the number of available colours falls from about 16.7 million to 4096 [1], so **colour banding appears in gradients and the image looks less realistic** [1].
+**6. (a)** Total bits = 800 × 600 × 24 [1] = 11 520 000 bits [1]; ÷ 8 = 1 440 000 bytes [1]; ÷ 1024 ÷ 1024 = **1.37 MiB** [1].
+**(b)** File size **halves to about 0.69 MiB** [1]; the number of available colours falls from about 16.7 million to 4096 [1], so **colour banding appears in gradients and the image looks less realistic** [1].
 
 **7. Lossless** compression **reduces file size without discarding any data**, so the original can be restored exactly [1]; suitable for **text documents, spreadsheets and program files**, where any change would corrupt the file [1]. **Lossy** compression **permanently removes data the user is unlikely to notice** [1]; suitable for **photographs, music and video streaming**, where a much smaller file matters more than perfect fidelity [1].
 
@@ -87,7 +87,7 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 
 **10.** **10A 3B 14C 2D** [1] [1] [1] — each run of identical values is replaced by a single value-and-count pair.
 
-**11.** 1 KiB is exactly **1024 bytes**, using the base-2 multiplier that matches how computers actually address memory [1]; 1 KB traditionally means **1000 bytes** in everyday/marketing use, so "-bi-" naming (kibi, mebi...) removes that ambiguity by making the base-2 factor explicit, even though "KB" remains common informally [1].
+**11.** 1 KiB is exactly **1024 bytes**, using the base-2 multiplier that matches how computers actually address memory [1]; 1 KB (kilobyte) means **1000 bytes**, so the "-bi-" naming (kibi, mebi...) removes the ambiguity by making the base-2 factor explicit — which is why the syllabus names only the binary units and requires calculations to use 1024 [1].
 
 **12.** ASCII: 500 × 8 = 4000 bits ÷ 8 = **500 bytes** [1]. Unicode (here stored as a fixed 16 bits per character, e.g. UTF-16): 500 × 16 = 8000 bits ÷ 8 = **1000 bytes** [1]. Unicode needs **500 bytes more** — exactly double, since each character takes twice as many bits in this encoding [1]. Note this is specific to a fixed-width 16-bit encoding: in the variable-width **UTF-8** encoding, which is far more common on the web, plain ASCII characters still take only a single byte each, so a message using only those characters would be the same size in ASCII and UTF-8 — it is only the additional, non-ASCII characters that cost extra bytes.
 
@@ -100,4 +100,4 @@ Related: [Data Representation revision notes](/resources/data-representation-rev
 - Saying lossy compression can be reversed.
 - Confusing sample rate with sample resolution (bit depth).
 - Forgetting to add 1 after flipping the bits in two's complement — that gives one's complement, not two's complement.
-- Writing "KB" when a calculation actually used a factor of 1024 throughout, rather than the more precise "KiB".
+- Labelling a 1024-based answer "KB" or "MB" instead of KiB or MiB — the syllabus names only the binary units and requires the answer in the unit the question specifies.

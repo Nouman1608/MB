@@ -20,15 +20,18 @@ featured: false
 
 This guide covers the **core language constructs** within Topic 2
 Programming, one of the eight topics of OxfordAQA International GCSE
-Computer Science (9210), version updated November 2022. Topic 2 is
-larger than most other topics in 9210 and spans data types, the three
-combining principles of imperative programming, arithmetic, relational
-and Boolean operators, data structures, input/output and string
-handling. This guide focuses specifically on data types, programming
-concepts and operators (sections 3.2.1–3.2.5 of the official
-specification) — the foundational constructs every later part of the
-topic builds on; data structures, input/output/file handling and string
-handling are separate, substantial areas of Topic 2 not covered here.
+Computer Science (9210), version 3.5. Topic 2 is
+larger than most other topics in 9210 and runs to thirteen sub-sections
+(3.2.1–3.2.13): data types, programming concepts (built on the three
+combining principles of imperative programming), arithmetic, relational
+and Boolean operations, data structures, input/output and file handling,
+string handling, random number generation, subroutines, structured
+programming, robust and secure programming, and the classification of
+programming languages and translators. This guide focuses specifically
+on data types, programming concepts and operators (sections 3.2.1–3.2.5
+of the official specification) — the foundational constructs every later
+part of the topic builds on; sections 3.2.6–3.2.13 are separate,
+substantial areas of Topic 2 not covered here.
 
 ## Where this fits in 9210
 
@@ -90,12 +93,17 @@ either in isolation, is what most exam questions actually test.
 ## Worked example: nested iteration and selection
 
 ```
-WHILE NotSolved
+HighScore ← 0
+Again ← "Y"
+WHILE Again = "Y"
   FOR i ← 1 TO 5
+    INPUT Score
     IF Score > HighScore THEN
       HighScore ← Score
     ENDIF
   ENDFOR
+  OUTPUT HighScore
+  INPUT Again
 ENDWHILE
 ```
 
@@ -104,7 +112,9 @@ loop with its condition at the start (`WHILE`), a nested definite loop
 (`FOR`), and a nested selection (`IF`) inside that. Reading it from the
 outside in — first the WHILE, then what's inside it, then what's inside
 that — is a more reliable technique than trying to trace execution line
-by line on a first read.
+by line on a first read. Notice what makes it traceable: `HighScore` is
+initialised before the loops, `Score` is input inside the `FOR` loop, and
+`Again` is updated inside the `WHILE` loop, so the outer loop can end.
 
 ## Common mistakes
 

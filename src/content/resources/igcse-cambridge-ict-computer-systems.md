@@ -144,7 +144,7 @@ The real world is **analogue** — continuously variable, like sound pressure or
 
 ## Emerging technologies
 
-**Artificial intelligence (AI)** allows a system to appear to learn and make decisions rather than simply follow a fixed set of instructions, used in applications such as voice assistants and recommendation systems. **Extended reality (XR)** covers virtual reality (a fully simulated environment), augmented reality (digital information overlaid on the real world) and mixed reality (a blend of the two), used in applications from gaming to training simulations.
+**Artificial intelligence (AI)** allows a system to appear to learn and make decisions rather than simply follow a fixed set of instructions, used in applications such as voice assistants and recommendation systems. **Extended reality (XR)** is named in the syllabus as **virtual reality** (a fully simulated environment) and **augmented reality** (digital information overlaid on the real world), used in applications from gaming to training simulations. The syllabus asks about their **impact on everyday life**. (Mixed reality, a blend of the two, is sometimes counted as a third form, but the syllabus does not name it.)
 
 ## Common mistakes
 
@@ -156,6 +156,6 @@ Saying ROM stores "the operating system" — it holds the boot instructions that
 - State the role of the CPU, RAM, ROM and secondary storage, and contrast RAM with ROM.
 - Name the five types of computer system, including the phablet, and compare their typical uses.
 - Explain why analogue-to-digital and digital-to-analogue conversion are both needed.
-- Describe artificial intelligence and the three forms of extended reality.
-- Compare command line, graphical and gesture-based interfaces.
+- Describe the impact on everyday life of artificial intelligence and of extended reality (virtual and augmented).
+- Compare command line, graphical, dialogue-based and gesture-based interfaces.
 - Compare magnetic, optical and solid state storage, and justify a choice for a given scenario.

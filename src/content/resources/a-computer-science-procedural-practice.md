@@ -45,7 +45,7 @@ Related: [Procedural Programming revision notes](/resources/a-computer-science-p
 **3.** Compare linear search and binary search.
 
 **(a)** Describe how each works. **[4]**
-**(b)** *(A-level only — Paper 4 unit; not assessed at AS.)* State the time complexity of each in Big O notation. **[2]**
+**(b)** *(A-level only — section 3.13.5, Unit 4; the AS searching sub-section states Big O comparisons are not required at AS.)* State the time complexity of each in Big O notation. **[2]**
 **(c)** State the precondition for binary search and explain why it is required. **[3]**
 
 **4.** Write a program, in your chosen language, for a bubble sort of an array of integers into ascending order. **[6]**
@@ -75,17 +75,17 @@ OUTPUT result
 
 **(b)** Distinguish between passing a parameter by value and by reference, and explain why passing by value is generally preferred. **[3]**
 
-**9.** *(A-level only — Paper 3 unit; not assessed at AS.)* A recursive function calculates factorial(n).
+**9.** *(A-level only — section 3.9.4.2, Unit 3; not assessed at AS.)* A recursive function calculates factorial(n).
 
 **(a)** Write a program, in your chosen language, for a recursive factorial function, clearly identifying the base case and the general case. **[4]**
 
 **(b)** Explain what happens on the call stack when factorial(3) is called, and why a missing base case causes a stack overflow. **[3]**
 
-**10.** A programmer is choosing between a stack, a queue, a linked list and an array for different tasks.
+**10.** A programmer is choosing between a stack, a queue, a static array and a dynamic list for different tasks.
 
 **(a)** Distinguish between a stack and a queue in terms of the order in which elements are removed. **[2]**
 
-**(b)** State one advantage and one disadvantage of a linked list compared with an array. **[2]**
+**(b)** State one advantage and one disadvantage of a dynamic data structure compared with a static one. **[2]**
 
 ---
 
@@ -119,8 +119,8 @@ ENDFOR
 ```
 Outer loop [1]; inner loop with correct bounds [1]; comparison of adjacent elements [1]; correct three-line swap using a temporary variable [1]; swapped flag set [1]; early exit when no swaps occur [1].
 
-**5.** **A swapped flag** — if a complete pass makes no swaps, the list is already sorted and the algorithm can stop, which makes the best case O(n) rather than O(n²) [1] [1]. **Reducing the inner loop bound by one each pass** — after pass i, the last i elements are already in their final positions, so re-comparing them is wasted work [1] [1].
-It remains unsuitable for large data sets because its **average and worst case are still O(n²)**, so doubling the data quadruples the work — merge sort at O(n log n) is far faster [1].
+**5.** **A swapped flag** — if a complete pass makes no swaps, the list is already sorted and the algorithm can stop, so a list that is already or nearly sorted finishes after very few passes [1] [1]. **Reducing the inner loop bound by one each pass** — after pass i, the last i elements are already in their final positions, so re-comparing them is wasted work [1] [1].
+It remains unsuitable for large data sets because, on unsorted data, **the number of comparisons still grows with roughly the square of the number of items**, so doubling the data about quadruples the work — merge sort is far faster on large lists, at the cost of extra memory [1]. *(At A-level you would express this as O(n²) against O(n log n); Big O is not required at AS.)*
 
 **6.** Any three, 2 marks each: **each module can be written and tested independently**, so errors are localised and easier to find [1] [1]; **several programmers can work on different modules simultaneously**, shortening development time [1] [1]; **modules can be reused** in other programs, saving effort [1] [1]; the program is **easier to read and maintain**, since each module has a single clear purpose [1] [1].
 
@@ -146,7 +146,7 @@ Base case: n = 0 returns 1 [2]. General case: n × factorial(n − 1), which mov
 
 **10. (a)** A **stack** is **LIFO** (last in, first out) — the most recently added element is removed first [1]; a **queue** is **FIFO** (first in, first out) — the earliest added element is removed first [1].
 
-**(b)** Advantage: a linked list **grows dynamically and inserts cheaply**, without resizing or shifting existing elements [1]. Disadvantage: it does not allow **direct indexed access** — reaching an element requires **traversing from the start** [1].
+**(b)** Advantage: a dynamic structure **grows and shrinks as the program runs**, so it uses only the memory it needs and cannot overflow a fixed size [1]. Disadvantage: memory must be **allocated at run time**, which is slower, and the structure's size is not known in advance, so it can grow until memory runs out [1].
 
 ---
 

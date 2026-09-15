@@ -133,8 +133,10 @@ Using the wrong flowchart symbol — a diamond is for decisions only. Writing ps
 
 ## Quick revision checklist
 
+- Explain decomposition and abstraction, with an example of each.
 - Draw a flowchart with the correct symbols and convert it to pseudocode, and back.
 - Identify and use sequence, selection and iteration, choosing FOR or WHILE correctly.
 - Complete a trace table row by row to determine an output.
 - Compare linear and binary search on efficiency, and state the precondition for binary search.
+- Write pseudocode for the bubble sort form the specification requires (outer loop repeats while a pass made a swap), explain merge sort in prose, and compare the two.
 - Justify a criticism of an algorithm with a specific reason.

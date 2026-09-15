@@ -113,10 +113,13 @@ rather than only a "name the method" question.
 ## Distinguishing the 0478 and 0984 sibling syllabuses
 
 Cambridge IGCSE Computer Science 0478 is the plain A*-G qualification and is not tiered — every
-candidate sits the same paper regardless of ability. It is distinct from the numeric-grade Cambridge
-IGCSE (9-1) Computer Science 0984 sibling syllabus, which uses a different grading scale. Confirm which
-syllabus code your school has entered you for before assuming a past paper or mark scheme applies,
-since content overlaps closely but grading and paper structure differ between the two.
+candidate sits the same two papers regardless of ability. It is distinct from the numeric-grade Cambridge
+IGCSE (9-1) Computer Science 0984 sibling syllabus, which uses a different grading scale. The paper
+structure is **identical**: both have Paper 1 (Computer Systems) and Paper 2 (Algorithms, Programming
+and Logic), each 1 hour 45 minutes, 75 marks and 50% of the qualification. What differs is the grading
+and the **availability**: 0984 is not offered in every administrative zone and has no March series,
+whereas 0478 is also examined in March in India. Confirm which syllabus code your school has entered
+you for before assuming a past paper's grade thresholds apply.
 
 ## Self-test
 
@@ -133,5 +136,5 @@ key pair, where the public key encrypts and only the matching private key can de
 
 ## Official syllabus
 
-Cambridge IGCSE Computer Science 0478 syllabus for 2026, 2027 and 2028 (Version 5, December 2025) —
+Cambridge IGCSE Computer Science 0478 syllabus for 2026, 2027 and 2028 (Version 6, September 2026) —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697167-2026-2028-syllabus.pdf).

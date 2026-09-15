@@ -94,13 +94,17 @@ Monitor (soft copy), laser printer (high volume, fast, low cost per page), inkje
 
 **Data threats:** viruses, hacking, phishing, pharming, smishing, spyware. Prevention: anti-virus software, firewalls, awareness training, checking URLs, and never following links in unsolicited messages.
 
-## Effects of ICT
+## The effects of using IT (syllabus topic 5)
 
-**On employment:** jobs lost in repetitive manual and clerical roles; jobs created in IT support, network management and software development. The net effect is a **change in the type** of work rather than a simple loss, and retraining is the connecting issue.
+The syllabus gives this topic exactly two subtopics, and exam questions are set on those.
 
-**Working patterns:** teleworking, flexible hours, job sharing, compressed hours. Benefits include no commute, flexibility and lower office costs; drawbacks include isolation, distraction at home, and the difficulty of separating work from home life.
+**Microprocessor-controlled devices in the home** — smart heating, alarms, washing machines, fridges. Positive effects: more leisure time, remote monitoring and control, better security of the home. Negative effects: a more sedentary lifestyle and less physical fitness, less face-to-face social interaction, dependence on technology, and a risk to the **security of data** if a connected device is hacked.
 
-**Microprocessor-controlled devices** free time and allow remote operation, but can encourage a sedentary lifestyle and leave people dependent on technology.
+**Microprocessor-controlled devices in transport** — engine management, cruise control, traffic control, **autonomous vehicles**. Positive effects: improved **transport safety** (fewer human errors) and more efficient journeys. Negative effects: a hacked system is a safety risk, the **security of data** such as tracked journeys, and over-reliance on automation that can fail.
+
+**Health problems from prolonged use** — repetitive strain injury (RSI), back problems, eye problems and headaches, each with its cause and a prevention strategy (see the table above).
+
+*Wider effects of ICT on employment and working patterns (teleworking, flexible hours) are useful background, but they are not part of this syllabus's "effects of using IT" topic and are not the content its questions are set on.*
 
 ## Exam traps
 
@@ -110,7 +114,7 @@ Monitor (soft copy), laser printer (high volume, fast, low cost per page), inkje
 - Confusing OMR with OCR.
 - Saying encryption prevents interception.
 - Giving a risk without its prevention.
-- Saying ICT simply destroys jobs, with no mention of the jobs created.
+- Giving only positive effects of a microprocessor-controlled device, when the syllabus asks for positive and negative effects.
 
 ## Self-test
 

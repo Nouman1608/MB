@@ -20,19 +20,19 @@ featured: false
 
 This guide covers **Theme A -- Concepts of Computer Science**, for IB
 Diploma Programme Computer Science, first assessment 2027 (SL: 38
-hours; HL: 72 hours, including the case study). For the full
+hours; HL: 72 hours; the case study is a separate line in the board's
+table, with 15 hours at SL and 30 at HL). For the full
 two-theme syllabus map, see the [IB DP Computer Science syllabus
 guide](/resources/ib-dp-computer-science-syllabus-guide/).
 
 ## Where this fits in the syllabus
 
 Theme A asks "how does a computing system work?", covered by four
-sub-topics studied identically by both SL and HL students (unlike
+sub-topics studied by both SL and HL students, HL in more hours (unlike
 Theme B, where B.4 is HL only). Theme B, by contrast, asks "how do we
 use a computing system to solve a problem?", and is where programming,
-algorithm design and object-oriented programming live. Paper 1 draws
-its four topic-specific questions from Theme A, plus three further
-questions tied to a pre-released case study — so Theme A content
+algorithm design and object-oriented programming live. Paper 1 is set
+on Theme A together with a pre-released case study — so Theme A content
 routinely appears embedded in case-study scenarios, not just as
 standalone recall questions, meaning the case study cannot be revised
 separately from A.1–A.4.
