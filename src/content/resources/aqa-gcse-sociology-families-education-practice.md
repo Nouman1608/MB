@@ -23,11 +23,15 @@ featured: false
 > mark tariffs — examination boards hold copyright in their own papers. Use
 > these alongside the official past papers available free from your board.
 >
-> AQA GCSE Sociology (8192) marks every live paper on the same five tariffs —
-> 1, 2, 3, 4 and 12 — and each paper is divided into two lettered sections,
-> one per topic, each opening with two multiple-choice questions. This paper
-> follows that shape: Section A on Families, Section B on Education, each
-> ending with an item-based question and a 12-mark extended-response question.
+> AQA GCSE Sociology (8192)'s live papers have consistently used the same
+> five tariffs — 1, 2, 3, 4 and 12 — across the papers examined for this
+> guide (the specification itself does not publish a closed list of
+> tariffs; this is an empirical pattern from real past papers, not a
+> quoted specification rule) — and each paper is divided into two lettered
+> sections, one per topic, each opening with two multiple-choice questions.
+> This paper follows that shape: Section A on Families, Section B on
+> Education, each ending with an item-based question and a 12-mark
+> extended-response question.
 
 Related: [Families and Education revision notes](/resources/aqa-gcse-sociology-families-education-revision-notes/)
 

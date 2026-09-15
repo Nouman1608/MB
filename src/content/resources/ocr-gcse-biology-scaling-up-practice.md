@@ -26,7 +26,7 @@ featured: false
 
 Related: [Scaling Up study guide](/resources/ocr-gcse-biology-scaling-up/) | [Scaling Up revision notes](/resources/ocr-gcse-biology-scaling-up-revision-notes/)
 
-*OCR's real J247 papers open with a whole-paper Section A of 15 multiple-choice questions (15 marks, four options A–D) before a longer Section B of short-answer and extended questions; the multiple-choice sample below is scoped to this topic (Scaling Up) only, and is not a reproduction of a full paper's Section A.*
+*OCR's real J247 papers open with a whole-paper Section A of 15 multiple-choice questions (15 marks, four options A–D) before a longer Section B of short-answer and extended questions. The set below now matches that real 15-mark weighting, but every question is drawn from this topic (Scaling Up) alone, rather than sampling across the whole specification as a genuine paper's Section A would — so it is still not a reproduction of a full paper's Section A.*
 
 ---
 
@@ -62,27 +62,87 @@ B) Capillary walls are one cell thick, and blood flows slowly through the very l
 C) Capillaries contain valves that control the direction of blood flow
 D) Capillary walls are made of muscle, which pumps blood forward **[1]**
 
+**6.** Which factor would increase the rate of diffusion of a substance across a cell membrane?
+A) Decreasing the temperature
+B) Decreasing the surface area of the membrane
+C) Increasing the concentration gradient across the membrane
+D) Increasing the thickness of the membrane **[1]**
+
+**7.** Which feature of alveoli increases the rate of gas exchange in the lungs?
+A) A thick, muscular wall
+B) A large surface area, moist thin walls, and a good blood supply
+C) A low blood supply, to reduce gas escape
+D) A narrow diameter, to slow air flow **[1]**
+
+**8.** Which feature adapts villi in the small intestine for efficient absorption of digested food?
+A) A thick outer layer that protects against digestive enzymes
+B) A large surface area, a single layer of cells, and a good blood supply
+C) A muscular wall that contracts to push food along
+D) A layer of mucus that prevents any absorption **[1]**
+
+**9.** Which statement correctly describes the human circulatory system?
+A) It is a single circulatory system, in which blood passes through the heart once per full circuit
+B) It is a double circulatory system, in which blood passes through the heart twice per full circuit: once to the lungs and once to the rest of the body
+C) It is a double circulatory system in which blood never returns to the heart
+D) It is an open circulatory system, in which blood is not contained within vessels **[1]**
+
+**10.** Which statement correctly compares the structure of arteries and veins?
+A) Arteries have valves; veins have thick muscular walls
+B) Arteries have thick muscular walls and a narrow lumen to withstand high pressure; veins have thinner walls, a wider lumen, and valves to prevent backflow at low pressure
+C) Arteries and veins have identical wall structure
+D) Veins carry blood at a higher pressure than arteries **[1]**
+
+**11.** Which feature adapts a root hair cell for efficient absorption of water and mineral ions from the soil?
+A) A thick waxy cuticle
+B) A long extension that increases the surface area in contact with soil water
+C) Chloroplasts for photosynthesis
+D) A reduced number of mitochondria **[1]**
+
+**12.** Meristems are the plant tissues responsible for producing new, unspecialised stem cells. Where are they found?
+A) Only in mature leaves
+B) At the tips of roots and shoots
+C) Only in the xylem
+D) Only in flower petals **[1]**
+
+**13.** Two solutions are separated by a partially permeable membrane. Solution X has a higher water concentration than solution Y. In which direction is there a net movement of water?
+A) From Y to X
+B) From X to Y
+C) There is no net movement
+D) Water moves in both directions equally, with no net effect **[1]**
+
+**14.** Which of the following would increase the rate of transpiration from a leafy shoot?
+A) Decreasing the light intensity
+B) Increasing the humidity around the leaves
+C) Increasing air movement (wind speed) around the leaves
+D) Decreasing the temperature **[1]**
+
+**15.** In which direction does translocation move dissolved sugars in phloem tissue?
+A) Only upward, from roots to leaves
+B) Only downward, from leaves to roots
+C) From sources (e.g. leaves) to sinks (e.g. roots and storage organs), in either direction as needed
+D) Phloem does not transport sugars; xylem does **[1]**
+
 ---
 
 ## Section B — Short answer and extended questions
 
-**6.** State whether each transport mechanism requires energy: diffusion, osmosis, active transport. **[3]**
+**16.** State whether each transport mechanism requires energy: diffusion, osmosis, active transport. **[3]**
 
-**7.** State two places, other than embryonic animals, where stem cells are found. **[2]**
+**17.** State two places, other than embryonic animals, where stem cells are found. **[2]**
 
-**8.** Explain why a large multicellular organism cannot rely on diffusion alone to supply its cells with oxygen, in terms of surface area to volume ratio. **[4]**
+**18.** Explain why a large multicellular organism cannot rely on diffusion alone to supply its cells with oxygen, in terms of surface area to volume ratio. **[4]**
 
-**9.** Calculate the surface area to volume ratio of a cube of side 5 cm, showing your working, and state whether this ratio would be larger or smaller for a cube of side 10 cm. **[4]**
+**19.** Calculate the surface area to volume ratio of a cube of side 5 cm, showing your working, and state whether this ratio would be larger or smaller for a cube of side 10 cm. **[4]**
 
-**10.** A student states that blood flows slowly through capillaries because capillaries are narrow. Explain why this statement is incorrect, and give the correct biological explanation. **[3]**
+**20.** A student states that blood flows slowly through capillaries because capillaries are narrow. Explain why this statement is incorrect, and give the correct biological explanation. **[3]**
 
-**11.** Explain how a red blood cell's structure is adapted to its function of transporting oxygen. **[4]**
+**21.** Explain how a red blood cell's structure is adapted to its function of transporting oxygen. **[4]**
 
-**12.** Explain the difference between xylem and phloem in terms of the substances transported, direction of movement and cell type. **[6]**
+**22.** Explain the difference between xylem and phloem in terms of the substances transported, direction of movement and cell type. **[6]**
 
-**13.** Root hair cells absorb mineral ions from soil even when the concentration of minerals in the soil is lower than inside the cell. Explain, using the term active transport, how this is possible. **[4]**
+**23.** Root hair cells absorb mineral ions from soil even when the concentration of minerals in the soil is lower than inside the cell. Explain, using the term active transport, how this is possible. **[4]**
 
-**14.** A potometer is used to measure the rate of water uptake by a plant shoot. An air bubble moves 4 cm along the scale in 2 minutes. Calculate the rate of water uptake in cm per minute, and suggest one factor that could be changed to investigate its effect on this rate. **[4]**
+**24.** A potometer is used to measure the rate of water uptake by a plant shoot. An air bubble moves 4 cm along the scale in 2 minutes. Calculate the rate of water uptake in cm per minute, and suggest one factor that could be changed to investigate its effect on this rate. **[4]**
 
 ---
 
@@ -98,23 +158,43 @@ D) Capillary walls are made of muscle, which pumps blood forward **[1]**
 
 **5. B)** Individual capillary width is not the reason for slow flow; the total cross-sectional area of all the capillaries in a tissue is far greater than that of the vessels supplying them, so total blood flow slows down, giving time for diffusion between blood and tissue [1].
 
-**6.** Diffusion — **no energy needed** [1]. Osmosis — **no energy needed** [1]. Active transport — **requires energy** [1].
+**6. C)** Increasing the concentration gradient increases the rate of diffusion; the other options either decrease the rate (smaller surface area, thicker membrane) or would need to be an increase, not a decrease, in temperature to speed diffusion up [1].
 
-**7.** **Adult animals** (e.g. bone marrow) [1]; **meristems in plants** [1].
+**7. B)** Alveoli are adapted for gas exchange by having a large surface area, moist thin walls (short diffusion distance) and a good blood supply, which together maximise the rate of diffusion of oxygen and carbon dioxide [1].
 
-**8.** As an organism gets larger, its **volume increases faster than its surface area**, so the **surface area to volume ratio falls** [1] [1]. A large organism's surface area is too small, relative to its volume, for diffusion alone to supply oxygen to every cell quickly enough [1], which is why multicellular organisms need specialised exchange surfaces and transport systems instead [1].
+**8. B)** Villi increase the surface area of the small intestine and have a single layer of cells and a good blood supply, all of which maximise the rate of absorption of digested food into the blood [1].
 
-**9.** Surface area = 6 × (5 × 5) = **150 cm²** [1]. Volume = 5 × 5 × 5 = **125 cm³** [1]. Ratio = 150:125 = **1.2:1** [1]. For a 10 cm cube, the ratio would be **smaller**, since surface area to volume ratio decreases as size increases [1].
+**9. B)** Humans have a double circulatory system: blood passes through the heart twice on each full circuit of the body, once on the way to the lungs (pulmonary circulation) and once on the way to the rest of the body (systemic circulation) [1].
 
-**10.** The statement is incorrect because individual capillary width is not the reason for slow flow [1]. The correct explanation is that the **total cross-sectional area** of all the capillaries in a tissue is far greater than that of the aorta, so the total blood flow slows down even though each individual capillary is narrow [1]; this slow flow is what **allows time for diffusion** of oxygen, nutrients and waste between the blood and the tissue [1].
+**10. B)** Arteries carry blood at high pressure away from the heart, so have thick, muscular, elastic walls and a narrow lumen; veins carry blood at low pressure back to the heart, so have thinner walls, a wider lumen, and valves to prevent the backflow of blood [1].
 
-**11.** A red blood cell has a **biconcave shape**, which gives it a **large surface area** relative to its volume, increasing the rate of oxygen diffusion in and out [1] [1]. It also has **no nucleus**, leaving more space inside the cell for **haemoglobin**, which binds and carries oxygen [1] [1].
+**11. B)** A root hair cell has a long, thin extension into the soil, which greatly increases its surface area in contact with the soil water and dissolved mineral ions [1].
 
-**12.** **Xylem** transports **water and dissolved mineral ions**, **one-way, upward** from the roots, and is made of **dead cells** [1] [1] [1]. **Phloem** transports **dissolved food (sugars)**, in **both directions** around the plant (translocation), and is made of **living cells** [1] [1] [1].
+**12. B)** Meristems, found at the tips of roots and shoots, are the regions of a plant where cells divide to produce new, unspecialised cells that can differentiate into any type of plant cell [1].
 
-**13.** Because the soil mineral concentration is lower than inside the root hair cell, minerals cannot enter by diffusion, since diffusion only moves substances **down** a concentration gradient [1] [1]. Instead, the cell uses **active transport**, which moves substances **against** the concentration gradient and requires **energy** to do so [1] [1].
+**13. B)** Water moves by osmosis from a region of higher water concentration to a region of lower water concentration; since solution X has the higher water concentration, the net movement of water is from X to Y [1].
 
-**14.** Rate = distance moved ÷ time = 4 ÷ 2 = **2 cm per minute** [1] [1]. A suitable factor to investigate: any one of **light intensity, air movement (wind speed), or temperature** [1] [1].
+**14. C)** Increasing air movement (wind speed) removes water vapour from around the leaf more quickly, maintaining a steep concentration gradient and increasing the rate of transpiration; increasing humidity, or decreasing light intensity or temperature, would all decrease the rate instead [1].
+
+**15. C)** Translocation moves dissolved sugars through phloem tissue from sources, where they are made or stored (such as leaves), to sinks, where they are used or stored (such as roots, fruits or storage organs) — the direction can vary depending on which parts of the plant are acting as sources and sinks at the time [1].
+
+**16.** Diffusion — **no energy needed** [1]. Osmosis — **no energy needed** [1]. Active transport — **requires energy** [1].
+
+**17.** **Adult animals** (e.g. bone marrow) [1]; **meristems in plants** [1].
+
+**18.** As an organism gets larger, its **volume increases faster than its surface area**, so the **surface area to volume ratio falls** [1] [1]. A large organism's surface area is too small, relative to its volume, for diffusion alone to supply oxygen to every cell quickly enough [1], which is why multicellular organisms need specialised exchange surfaces and transport systems instead [1].
+
+**19.** Surface area = 6 × (5 × 5) = **150 cm²** [1]. Volume = 5 × 5 × 5 = **125 cm³** [1]. Ratio = 150:125 = **1.2:1** [1]. For a 10 cm cube, the ratio would be **smaller**, since surface area to volume ratio decreases as size increases [1].
+
+**20.** The statement is incorrect because individual capillary width is not the reason for slow flow [1]. The correct explanation is that the **total cross-sectional area** of all the capillaries in a tissue is far greater than that of the aorta, so the total blood flow slows down even though each individual capillary is narrow [1]; this slow flow is what **allows time for diffusion** of oxygen, nutrients and waste between the blood and the tissue [1].
+
+**21.** A red blood cell has a **biconcave shape**, which gives it a **large surface area** relative to its volume, increasing the rate of oxygen diffusion in and out [1] [1]. It also has **no nucleus**, leaving more space inside the cell for **haemoglobin**, which binds and carries oxygen [1] [1].
+
+**22.** **Xylem** transports **water and dissolved mineral ions**, **one-way, upward** from the roots, and is made of **dead cells** [1] [1] [1]. **Phloem** transports **dissolved food (sugars)**, in **both directions** around the plant (translocation), and is made of **living cells** [1] [1] [1].
+
+**23.** Because the soil mineral concentration is lower than inside the root hair cell, minerals cannot enter by diffusion, since diffusion only moves substances **down** a concentration gradient [1] [1]. Instead, the cell uses **active transport**, which moves substances **against** the concentration gradient and requires **energy** to do so [1] [1].
+
+**24.** Rate = distance moved ÷ time = 4 ÷ 2 = **2 cm per minute** [1] [1]. A suitable factor to investigate: any one of **light intensity, air movement (wind speed), or temperature** [1] [1].
 
 ---
 

@@ -26,15 +26,15 @@ featured: false
 
 Related: [Approaches, Issues and Debates revision notes](/resources/a-psychology-approaches-revision-notes/)
 
----
+> Cambridge International AS & A Level Psychology (9990) Paper 1 is not
+> divided into lettered sections: it is a single sequence of short-answer
+> and extended-response questions. The numbering below follows that.
 
-## Section A
+---
 
 **1.** Name **five** approaches in psychology and state the core assumption of each. **[5]**
 
 **2.** Define the nature–nurture debate. **[2]**
-
-## Section B
 
 **3.** Explain the behaviourist approach.
 
@@ -46,8 +46,6 @@ Related: [Approaches, Issues and Debates revision notes](/resources/a-psychology
 **5.** Explain the difference between idiographic and nomothetic approaches, giving an example of a method associated with each. **[4]**
 
 **6.** Explain **four** ethical issues in psychological research and how each can be dealt with. **[8]**
-
-## Section C
 
 **7.** Distinguish between reductionism and holism, giving **one** strength and **one** limitation of a reductionist explanation. **[5]**
 

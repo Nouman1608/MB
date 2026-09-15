@@ -27,7 +27,7 @@ Related: [Amount of Substance revision notes](/resources/ocr-a-level-chemistry-a
 
 ---
 
-OCR's real H432 Papers 1 and 2 open with a whole-paper Section A of 15 multiple-choice questions (15 marks, four-option A-D, single answer) before a longer Section B of short-answer and extended-response questions; the multiple-choice sample below is scoped to this topic (Amount of Substance) only, and is not a reproduction of a full paper's Section A.
+OCR's real H432 Papers 1 and 2 open with a whole-paper Section A of 15 multiple-choice questions (15 marks, four-option A-D, single answer) before a longer Section B of short-answer and extended-response questions. Each of these papers is worth 100 marks in total, not 90 — this file's mark totals are not, and are not intended to be, a reconstruction of that full 100-mark paper, since it covers only this one topic (Amount of Substance) rather than the whole specification. The set below now matches the real 15-mark weighting of Section A, but every question is drawn from this topic alone, rather than sampling across the whole specification as a genuine paper's Section A would — so it is still not a reproduction of a full paper's Section A.
 
 ## Section A — Multiple choice (topic sample)
 
@@ -61,37 +61,97 @@ B) 16.0
 C) 4.00
 D) 0.400 **[1]**
 
+**6.** What is the molar volume of any ideal gas at RTP (room temperature and pressure, 298 K, 100 kPa)?
+A) 22.4 dm³ mol⁻¹
+B) 24.0 dm³ mol⁻¹
+C) 24.0 cm³ mol⁻¹
+D) 6.02 × 10²³ dm³ mol⁻¹ **[1]**
+
+**7.** What is the concentration, in mol dm⁻³, of a solution formed by dissolving 0.500 mol of solute in 2.00 dm³ of solution?
+A) 4.00
+B) 1.00
+C) 0.250
+D) 0.500 **[1]**
+
+**8.** A compound has empirical formula CH₂O and a relative molecular mass of 180. What is its molecular formula?
+A) CH₂O
+B) C₂H₄O₂
+C) C₆H₁₂O₆
+D) C₃H₆O₃ **[1]**
+
+**9.** In a reaction A + 2B → C, a chemist mixes 2.0 mol of A with 3.0 mol of B. Which reagent is the limiting reagent?
+A) A
+B) B
+C) Neither; both are used up exactly
+D) It cannot be determined without the molar masses **[1]**
+
+**10.** What is the value of the Avogadro constant, and what does it represent?
+A) 6.02 × 10²³ mol⁻¹; the number of particles in one mole of a substance
+B) 6.02 × 10²³ g; the mass of one mole of a substance
+C) 1.38 × 10⁻²³ mol⁻¹; the number of particles in one gram of a substance
+D) 6.02 × 10²³ dm³; the volume of one mole of gas **[1]**
+
+**11.** A standard solution is prepared using a volumetric flask rather than a beaker. What is the key reason for this?
+A) A volumetric flask is cheaper than a beaker
+B) A volumetric flask allows a solution of precisely known concentration to be made up to an exact, known volume
+C) A volumetric flask heats the solution more evenly
+D) A volumetric flask is required for filtration **[1]**
+
+**12.** In a titration, what is the main purpose of using a burette rather than a pipette to add the acid or base being tested?
+A) A burette delivers a fixed, known volume every time
+B) A burette allows a variable, precisely measured volume to be added gradually and read off a graduated scale
+C) A burette is only ever used for the reagent in the conical flask, never for the titrant
+D) A burette does not need to be rinsed before use **[1]**
+
+**13.** A compound has empirical formula CH₂ and a relative molecular mass of 42. What is its molecular formula?
+A) CH₂
+B) C₂H₄
+C) C₃H₆
+D) C₄H₈ **[1]**
+
+**14.** In the ideal gas equation pV = nRT, the pressure and number of moles of gas are kept constant while the temperature is increased. What happens to the volume?
+A) It increases
+B) It decreases
+C) It stays the same
+D) It cannot be determined from the information given **[1]**
+
+**15.** A reaction has a theoretical yield of 12.0 g of product. The actual yield obtained is 9.0 g. What is the percentage yield?
+A) 133%
+B) 75.0%
+C) 25.0%
+D) 108% **[1]**
+
 ## Section B — Short answer and extended questions
 
-**6.** State the Avogadro constant and define the mole. **[2]**
+**16.** State the Avogadro constant and define the mole. **[2]**
 
-**7.** Calculate the number of molecules in 3.2 g of methane. **[3]**
+**17.** Calculate the number of molecules in 3.2 g of methane. **[3]**
 
-**8.** A gas occupies 250 cm³ at 100 kPa and 298 K.
+**18.** A gas occupies 250 cm³ at 100 kPa and 298 K.
 
 **(a)** State the ideal gas equation, defining each term with its unit. **[3]**
 **(b)** Calculate the amount, in moles, of gas present. **[3]**
 **(c)** If the mass of the gas is 0.44 g, calculate its relative molecular mass and suggest its identity. **[3]**
 
-**9.** In a titration, 25.0 cm³ of sodium hydroxide is neutralised by 22.40 cm³ of 0.0500 mol dm⁻³ sulfuric acid.
+**19.** In a titration, 25.0 cm³ of sodium hydroxide is neutralised by 22.40 cm³ of 0.0500 mol dm⁻³ sulfuric acid.
 
 **(a)** Write the equation for the reaction. **[1]**
 **(b)** Calculate the concentration of the sodium hydroxide. **[4]**
 **(c)** Explain why a rough titration is carried out first and why concordant titres are used. **[3]**
 
-**10.** 5.00 g of calcium carbonate is heated: CaCO₃ → CaO + CO₂. 2.24 g of calcium oxide is obtained.
+**20.** 5.00 g of calcium carbonate is heated: CaCO₃ → CaO + CO₂. 2.24 g of calcium oxide is obtained.
 
 **(a)** Calculate the theoretical yield of calcium oxide. **[3]**
 **(b)** Calculate the percentage yield. **[2]**
 
-**11.** A compound is 85.7% carbon and 14.3% hydrogen by mass, and has a relative molecular mass of 56. Determine its molecular formula, showing your working. **[4]**
+**21.** A compound is 85.7% carbon and 14.3% hydrogen by mass, and has a relative molecular mass of 56. Determine its molecular formula, showing your working. **[4]**
 
-**12.** A student heats 5.00 g of hydrated copper(II) sulfate, CuSO₄·xH₂O, to constant mass, leaving 3.20 g of anhydrous copper(II) sulfate.
+**22.** A student heats 5.00 g of hydrated copper(II) sulfate, CuSO₄·xH₂O, to constant mass, leaving 3.20 g of anhydrous copper(II) sulfate.
 
 **(a)** Calculate the moles of anhydrous CuSO₄ and of water lost. **[3]**
 **(b)** Determine the value of x. **[2]**
 
-**13.** For the reaction CaCO₃ → CaO + CO₂, with CaO as the desired product, calculate the atom economy of the reaction. Explain why this value is different from the percentage yield calculated in Question 10(b). **[4]**
+**23.** For the reaction CaCO₃ → CaO + CO₂, with CaO as the desired product, calculate the atom economy of the reaction. Explain why this value is different from the percentage yield calculated in Question 20(b). **[4]**
 
 ---
 
@@ -107,27 +167,47 @@ D) 0.400 **[1]**
 
 **5. D)** Moles NaOH = 4.00 ÷ 40 = 0.100 mol; concentration = 0.100 ÷ (250 ÷ 1000) = 0.100 ÷ 0.250 = **0.400 mol dm⁻³** [1].
 
-**6.** **6.02 × 10²³ mol⁻¹** [1]. Since the 2018 SI redefinition, one mole is defined as the amount of substance containing **exactly 6.02214076 × 10²³ specified elementary entities** [1] — rounded to 6.02 × 10²³ for calculations at this level. (The older "as many particles as atoms in 12 g of carbon-12" definition gives the same value, but is no longer the exact defining statement.)
+**6. B)** At A Level, the molar volume of any ideal gas at RTP (298 K, 100 kPa) is taken as **24.0 dm³ mol⁻¹**; 22.4 dm³ mol⁻¹ is the value at STP (273 K, 100 kPa), a different reference condition [1].
 
-**7.** M_r(CH₄) = 16 [1]; moles = 3.2 ÷ 16 = 0.20 mol [1]; molecules = 0.20 × 6.02 × 10²³ = **1.2 × 10²³** [1].
+**7. C)** Concentration = moles ÷ volume (in dm³) = 0.500 ÷ 2.00 = **0.250 mol dm⁻³** [1].
 
-**8. (a)** pV = nRT [1], where **p is pressure in Pa, V is volume in m³, n is moles, R is 8.31 J K⁻¹ mol⁻¹ and T is temperature in K** [1] [1].
+**8. C)** M_r(CH₂O) = 12 + 2 + 16 = 30. Number of empirical units = 180 ÷ 30 = 6, so the molecular formula is (CH₂O)₆ = **C₆H₁₂O₆** [1].
+
+**9. B)** The equation requires 2 mol B for every 1 mol A. To react completely with 2.0 mol A would need 4.0 mol B, but only 3.0 mol B is available, so **B runs out first** and is the limiting reagent [1].
+
+**10. A)** The Avogadro constant is **6.02 × 10²³ mol⁻¹**, the number of particles (atoms, molecules or ions) in exactly one mole of a substance [1].
+
+**11. B)** A volumetric flask is calibrated to hold one precise, known volume when filled to its graduation mark, which is essential for making up a standard solution of accurately known concentration; a beaker's volume markings are far too imprecise for this [1].
+
+**12. B)** A burette is graduated along its length so that a variable volume can be released gradually, drop by drop, and read off precisely — exactly what is needed to find an unknown, variable titre; a pipette, by contrast, delivers only one fixed volume [1].
+
+**13. C)** M_r(CH₂) = 12 + 2 = 14. Number of empirical units = 42 ÷ 14 = 3, so the molecular formula is (CH₂)₃ = **C₃H₆** [1].
+
+**14. A)** Rearranging pV = nRT gives V = nRT ÷ p; with n and p constant, V is directly proportional to T, so increasing the temperature **increases** the volume [1].
+
+**15. B)** Percentage yield = (actual yield ÷ theoretical yield) × 100 = (9.0 ÷ 12.0) × 100 = **75.0%** [1].
+
+**16.** **6.02 × 10²³ mol⁻¹** [1]. Since the 2018 SI redefinition, one mole is defined as the amount of substance containing **exactly 6.02214076 × 10²³ specified elementary entities** [1] — rounded to 6.02 × 10²³ for calculations at this level. (The older "as many particles as atoms in 12 g of carbon-12" definition gives the same value, but is no longer the exact defining statement.)
+
+**17.** M_r(CH₄) = 16 [1]; moles = 3.2 ÷ 16 = 0.20 mol [1]; molecules = 0.20 × 6.02 × 10²³ = **1.2 × 10²³** [1].
+
+**18. (a)** pV = nRT [1], where **p is pressure in Pa, V is volume in m³, n is moles, R is 8.31 J K⁻¹ mol⁻¹ and T is temperature in K** [1] [1].
 **(b)** p = 100 000 Pa; V = 250 × 10⁻⁶ = 2.50 × 10⁻⁴ m³ [1]. n = pV ÷ RT = (100 000 × 2.50 × 10⁻⁴) ÷ (8.31 × 298) [1] = **1.01 × 10⁻² mol** [1].
 **(c)** M_r = mass ÷ moles = 0.44 ÷ (1.01 × 10⁻²) [1] = **43.6 ≈ 44** [1]; the gas is likely to be **carbon dioxide** [1].
 
-**9. (a)** 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O [1].
+**19. (a)** 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O [1].
 **(b)** moles H₂SO₄ = 0.0500 × 22.40 ÷ 1000 = 1.12 × 10⁻³ [1]. Ratio NaOH : H₂SO₄ = 2 : 1, so moles NaOH = 2.24 × 10⁻³ [1] [1]. Concentration = 2.24 × 10⁻³ × 1000 ÷ 25.0 = **0.0896 mol dm⁻³** [1].
 **(c)** The rough titration **locates the approximate end point quickly** so subsequent runs can be added dropwise near it [1]. Concordant titres are those **within 0.10 cm³ of each other** [1], showing the results are **precise and repeatable**, so the mean is reliable [1].
 
-**10. (a)** M_r(CaCO₃) = 100; moles = 5.00 ÷ 100 = 0.0500 [1]. Ratio 1 : 1, so 0.0500 mol CaO [1]; M_r(CaO) = 56, so mass = 0.0500 × 56 = **2.80 g** [1].
+**20. (a)** M_r(CaCO₃) = 100; moles = 5.00 ÷ 100 = 0.0500 [1]. Ratio 1 : 1, so 0.0500 mol CaO [1]; M_r(CaO) = 56, so mass = 0.0500 × 56 = **2.80 g** [1].
 **(b)** (2.24 ÷ 2.80) × 100 [1] = **80.0%** [1].
 
-**11.** Assume 100 g: C = 85.7 ÷ 12 = 7.14 mol; H = 14.3 ÷ 1 = 14.3 mol [1]. Divide by the smallest (7.14): C = 1, H = 2.00 [1], giving empirical formula **CH₂** (mass 14). Since 56 ÷ 14 = 4 [1], the molecular formula is **C₄H₈** [1].
+**21.** Assume 100 g: C = 85.7 ÷ 12 = 7.14 mol; H = 14.3 ÷ 1 = 14.3 mol [1]. Divide by the smallest (7.14): C = 1, H = 2.00 [1], giving empirical formula **CH₂** (mass 14). Since 56 ÷ 14 = 4 [1], the molecular formula is **C₄H₈** [1].
 
-**12. (a)** Moles CuSO₄ = 3.20 ÷ 160 = **0.0200 mol** [1]. Mass of water lost = 5.00 − 3.20 = 1.80 g [1], so moles H₂O = 1.80 ÷ 18 = **0.100 mol** [1].
+**22. (a)** Moles CuSO₄ = 3.20 ÷ 160 = **0.0200 mol** [1]. Mass of water lost = 5.00 − 3.20 = 1.80 g [1], so moles H₂O = 1.80 ÷ 18 = **0.100 mol** [1].
 **(b)** Ratio H₂O : CuSO₄ = 0.100 ÷ 0.0200 = **5** [1], so **x = 5** (CuSO₄·5H₂O) [1].
 
-**13.** Atom economy = (M_r of CaO ÷ sum of M_r of reactants) × 100 = (56 ÷ 100) × 100 [1] = **56%** [1]. This differs from percentage yield because atom economy is a **fixed property of the reaction's stoichiometry** — how much of the total reactant mass ends up in the desired product, with the rest going to CO₂ as an unavoidable by-product [1] — whereas percentage yield depends on **how the reaction was actually carried out**, including losses to side reactions, incomplete reaction, or purification [1].
+**23.** Atom economy = (M_r of CaO ÷ sum of M_r of reactants) × 100 = (56 ÷ 100) × 100 [1] = **56%** [1]. This differs from percentage yield because atom economy is a **fixed property of the reaction's stoichiometry** — how much of the total reactant mass ends up in the desired product, with the rest going to CO₂ as an unavoidable by-product [1] — whereas percentage yield depends on **how the reaction was actually carried out**, including losses to side reactions, incomplete reaction, or purification [1].
 
 ---
 

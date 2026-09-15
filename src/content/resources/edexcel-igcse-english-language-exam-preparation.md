@@ -43,8 +43,8 @@ task that is unfinished or unchecked -- and the writing section is worth exactly
 
 ## Transactional writing is judged on fitness for purpose, not on literary flourish
 
-The Section B task specifies an audience, a purpose and a form -- a letter, an article, a report, a
-speech. It is marked on how well the writing does that job and on technical accuracy, not on how
+The Section B task specifies an audience, a purpose and a form -- a letter, an article, a
+speech, a guide, a review, or the text of a leaflet. It is marked on how well the writing does that job and on technical accuracy, not on how
 decorative it is. **Exam-preparation priority**: practise the same content in two different forms (a
 formal letter and a lively article, say) to build genuine control of register. Candidates who write
 everything in one voice lose marks that better content cannot recover.

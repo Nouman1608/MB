@@ -26,6 +26,12 @@ featured: false
 
 Related: [Principles and Double Entry Bookkeeping revision notes](/resources/edexcel-a-level-accounting-principles-revision-notes/)
 
+> This unit's live paper is split into exactly two compulsory sections —
+> Section A (two large multi-part questions based on given data) and
+> Section B (a choice of optional multi-part questions), accompanied by
+> a resource booklet. The questions below are numbered continuously
+> within that two-section shape.
+
 ---
 
 ## Section A
@@ -49,8 +55,6 @@ Opening receivables $18 400; credit sales $92 000; receipts from customers $85 3
 **5.** Explain how a provision for doubtful debts is created and adjusted, and its effect on profit. **[5]**
 
 **6.** Explain the difference between an irrecoverable debt and a doubtful debt, and state the concept that justifies making a provision. **[4]**
-
-## Section C
 
 **7.** A business's cash book balance does not match its bank statement balance.
 

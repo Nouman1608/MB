@@ -25,6 +25,11 @@ featured: false
 
 Related: [Sources and Recording of Data revision notes](/resources/igcse-oxfordaqa-accounting-recording-revision-notes/)
 
+> This specification's Paper 1 and Paper 2 are each divided into exactly
+> two compulsory sections: Section A (multiple choice plus short-answer
+> questions) and Section B (structured questions). The questions below
+> are numbered continuously within that two-section shape.
+
 ---
 
 ## Section A
@@ -51,8 +56,6 @@ Related: [Sources and Recording of Data revision notes](/resources/igcse-oxforda
 **(c)** Give **two** errors that would not affect the agreement. **[2]**
 
 **6.** Explain the purpose of a bank reconciliation statement and give **three** reasons why the cash book balance may differ from the bank statement balance. **[5]**
-
-## Section C
 
 **7.** Name the book of prime entry in which each of the following is first recorded: **(a)** a credit sale, **(b)** a cash purchase of stationery, **(c)** the purchase of a delivery van on credit, **(d)** goods returned to a supplier. **[4]**
 
