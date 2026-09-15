@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**145 open confirmed errors → zero.**
+**146 open confirmed errors → zero.**
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -44,12 +44,11 @@ Both are short relative to the findings files. Read them once properly.
 **By subject cluster, largest first.** Clusters share specifications, so reading one document
 serves many findings.
 
-**Skip anything resting on a Cambridge syllabus while the board's site is down.**
-`cambridgeinternational.org` currently serves a maintenance page **at HTTP 200** — check for
-the maintenance string, not the status code. Do **not** substitute revision sites, mirrors,
-cached copies or summaries. An unverified fix is worse than an unfixed finding.
-
-Roughly 32 of the open documents are Cambridge-dependent; the rest are not.
+**Cambridge findings are workable again** — the audit read all thirty Cambridge absence
+documents complete in round 8 (2026-10-15). If the board's site goes down again it serves a
+maintenance page **at HTTP 200** — check for the maintenance string, not the status code. Do
+**not** substitute revision sites, mirrors, cached copies or summaries. An unverified fix is
+worse than an unfixed finding.
 
 ---
 
@@ -142,6 +141,12 @@ work order can be a document rather than a conversation.
 - **E276 needs no action.** Its correction was verified safe (Q373) — and **D-141 had already
   applied it** on 6 September; the file on `main` is correct. *This line first said "apply as
   written" (Q374).*
+- **Round 8 (2026-10-15, Q380–Q382):** **E640 — do not use its first option.** Rewrite the
+  approaches to 9990's four, but keep the free-will, nature–nurture, reductionism and
+  idiographic sections: they are 9990's own A Level issues and debates. Label them A Level,
+  add the five AS ones for Paper 1, drop the humanistic strand. **E175 is reopened:** add *the
+  volume of a gas at constant pressure* to `a-physics-temperature`; the constant-volume row can
+  stay. E759's correction stands as written.
 - **Round 7 (2026-10-14, E902/Q379):** **Apply E902 first** — `a-law-the-law-in-action-practice`
   Q2: stem to three implied terms (s9, s10, s11), [3], and s13 out of the scheme or labelled
   extension with no credit. YLA1 names exactly three. Four bounds (E874, E347, E482, E331) are

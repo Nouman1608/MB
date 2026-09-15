@@ -35,10 +35,10 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 | | |
 |---|---|
 | resources read end to end | 1,251 of 1,251 |
-| findings recorded | 1,665 |
-| **open confirmed errors** | **150** *(amended 2026-10-12, Q374 — this handoff first said 658)* |
-| declared closed by decision log | 693 (D-138 through **D-225**; was 185 while D-138…D-191 went uncounted) |
-| still open despite a closing round | 61 (deferred / partial / disputed / heading-only / reopened) |
+| findings recorded | 1,675 *(updated 2026-10-15, round 8)* |
+| **open confirmed errors** | **146** *(updated 2026-10-15; Q374 had amended this handoff's first figure, 658, to 150)* |
+| declared closed by decision log | 692 (D-138 through **D-225**; was 185 while D-138…D-191 went uncounted) |
+| still open despite a closing round | 59 (deferred / partial / disputed / heading-only / reopened) |
 
 **"Declared closed" means a repair round recorded it as handled — not that the audit verified
 it.** Of the closures spot-checked by reading: five sound, two *better* than the correction
@@ -47,9 +47,11 @@ asked for, one a regression (since repaired).
 **What is genuinely finished:** every resource body read; all four screened correction groups
 read through; the correction-constraints catalogue; the tier/column question for Cambridge 0620.
 
-**What is not:** ~41 non-Cambridge specification documents still back absence claims nobody has
-read to the end, plus ~32 Cambridge ones. Those findings can be *applied* but are not
-*confirmed*. This is the honest residue.
+**Absence documents — finished (2026-10-15).** Rounds 6–8 read every remaining specification
+behind an absence finding to its closing matter: none overturned; bounds, overstatements and
+one damaged and one half-applied correction recorded (E902, Q382). **One exception:** E238,
+whose only source is a school copy of the IB Chemistry guide — unverified until an
+authoritative copy is read.
 
 ---
 
@@ -132,20 +134,21 @@ defect after sign-off. Re-tested this round across 14 files: did not recur.
 
 ## 5. Open work, in priority order
 
-1. **~41 non-Cambridge absence documents** (OxfordAQA 17, Pearson 14, OCR 6, IB 5, AQA 3),
+1. ~~**~41 non-Cambridge absence documents**~~ **Done** (rounds 6–7, Q376–Q379; E238 excepted).
+   *Original entry:* (OxfordAQA 17, Pearson 14, OCR 6, IB 5, AQA 3),
    ~65 findings. **Workable now.** Expected yield is low — roughly one overturned finding per
    fourteen documents — which is why it was demoted to opportunistic.
 2. **Re-base the cycle-coverage register** (task #48) against `main` *before* anyone works it.
    It is baseline-derived and has already produced one withdrawn finding.
-3. **U71** — Cambridge 9700, truncated at 124,817 chars. Should resolve exactly as U70 did via
+3. ~~**U71**~~ **Established** (Q380). *Original entry:* Cambridge 9700, truncated at 124,817 chars. Should resolve exactly as U70 did via
    the browser route, once Cambridge is up.
-4. **~32 Cambridge absence documents**, ~43 findings. Blocked.
+4. ~~**~32 Cambridge absence documents**, ~43 findings.~~ **Done** (round 8, Q380–Q382).
 5. **95 unread sibling files** from Q366 (14 read, all clean — a sample, not a clearance) and
    **21 candidate duplicate pairs** from D10. Both inherit the baseline-ledger defect.
 6. **30 analysis scripts** still carrying a hardcoded Windows root. Port one at a time as
    needed — they sit at different depths, and a uniform sweep already would have broken one.
 
-**Cambridge is down.** `cambridgeinternational.org` serves a maintenance page **at HTTP 200** —
+**Cambridge was down; it was back up for round 8.** If it goes down again it serves a maintenance page **at HTTP 200** —
 check for the maintenance string, not the status code. Do not substitute revision sites,
 mirrors or summaries.
 

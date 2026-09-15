@@ -39,6 +39,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-10-12-findings.md` | **The open count re-based (Q374, Q375)** — and the list of what is actually open. |
 | `2026-10-13-findings.md` | Absence re-verification round 6: eight documents read complete, **E746 withdrawn**, three corrections bounded (Q376–Q378). |
 | `2026-10-14-findings.md` | Absence re-verification round 7: the non-Cambridge documents finished; **E902** — a correction applied past its board. |
+| `2026-10-15-findings.md` | Absence re-verification round 8: the Cambridge documents finished; U71 established; **E640 bounded (Q381)**; **E175 reopened (Q382)**. |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -61,6 +62,12 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | **E602, E739, E763** | 2026-10-13 (**Q377**) | Upheld, but each correction needs the bound stated there — E602 must not strip storm-hazard flood responses (3.1.1.5); E763's one-area rule depends on the theme. |
 | **E680** (2026-09-14) | 2026-10-14 (**E902**) | Its note put the three-term list on the wrong board. YLA1 and AQA 7162 both name exactly three. The applied fix (adding s13) is now **E902**. |
 | **E874, E347, E482, E331** | 2026-10-14 (**Q379**) | Upheld with bounds — first-year macro items, competitive-market characteristics, and two open lists. Applied fixes checked: no damage. |
+| **E640** | 2026-10-15 (**Q381**) | Approaches claim holds. The four debate sections are 9990's **own A Level** issues and debates — do **not** relabel the file to another board or delete them. |
+| **E175** | 2026-10-15 (**Q382**) | **Reopened.** The applied fix gave a gas at constant volume; 9702 names the volume of a gas at constant pressure. The syllabus list is *including*, so extra examples are fine. |
+| **E377** | 2026-10-15 (**Q380**) | Overstated: *evaluate* and *distinguish* do occur in 0450 (aims, AOs), and its command-word table is not a closed list. Applied fix harmless. |
+| **E798** | 2026-10-15 (**Q380**) | Its note misplaces the list: in 5014, surface and subsurface mining are the requirement; only opencast, shaft etc. are exemplification. Correction stands. |
+| **E759, E820** | 2026-10-15 (**Q380**) | One aside each is unsupported (E759: "introduced at the last syllabus change"; E820: "claim is not a listed element"). The defects stand. |
+| **U71** | 2026-10-15 (**Q380**) | Established — 9700 read complete; fractionation, homogenisation, centrifugation, artefact, endosymbiosis all absent. |
 | **E60–E69, E109** | 2026-10-12 (**Q375**) | D-138's heading declares them remediated; none of its batch lists names them, and E61–E69 still carry their markers on `main`. **Treat as open.** |
 
 ---
@@ -106,10 +113,10 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,672 |
-| confirmed errors open | **145** *(reconciliation current through D-225, covering D-138 onward — Q374; E01, E09, E900, E738, E739 verified fixed and E746 withdrawn — Q376–Q378; E902 added — round 7)* |
-| declared closed by decision log D-138…D-225 | 693 |
-| still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 58 — reasons in `2026-10-12-findings.md` (less E738, E739, E746) |
+| findings recorded | 1,675 |
+| confirmed errors open | **146** *(reconciliation current through D-225, covering D-138 onward — Q374; E01, E09, E900, E738, E739 verified fixed and E746 withdrawn — Q376–Q378; E902 added — round 7; E175 reopened — Q382)* |
+| declared closed by decision log D-138…D-225 | 692 |
+| still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 59 — reasons in `2026-10-12-findings.md` (less E738, E739, E746; plus E175, reopened by Q382) |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 |
 
