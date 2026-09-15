@@ -52,6 +52,11 @@ const programs = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/programs' }),
   schema: z.object({
     title: z.string(),
+    // SEO round (2026-09-15) -- optional long-form H1 for the program page.
+    // `title` stays short because it also feeds nav cards, breadcrumbs and
+    // the a/an article logic; `heading` lets the page's H1 carry the real
+    // search phrase ("Online IB Tutoring — Diploma Programme & MYP").
+    heading: z.string().max(90).optional(),
     order: z.number(),
     shortDescription: z.string().max(140),
     description: z.string(),
