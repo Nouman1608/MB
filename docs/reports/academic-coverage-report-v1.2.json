@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T08:15:06.518Z",
+  "generatedAt": "2026-09-15T10:29:58.133Z",
   "rowCount": 160,
   "rows": [
     {
@@ -4891,7 +4891,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 9258,
+      "totalQualifyingWordCount": 10057,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
@@ -5179,7 +5179,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 9314,
+      "totalQualifyingWordCount": 11208,
       "tier": "NO_DATA",
       "priorityScore": "NO_DATA",
       "evidence": "board",
