@@ -37,6 +37,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-10-02-repair-regression.md` | A repair round that made the corpus worse. **Since fixed — see the E782 row below.** |
 | `2026-10-03` … `2026-10-06-findings.md` | Repair verification and the coverage sweeps. |
 | `2026-10-12-findings.md` | **The open count re-based (Q374, Q375)** — and the list of what is actually open. |
+| `2026-10-13-findings.md` | Absence re-verification round 6: eight documents read complete, **E746 withdrawn**, three corrections bounded (Q376–Q378). |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -55,6 +56,8 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | any finding whose fix **states a count but not its contents** | **Q360** (2026-09-30) | Five do. Filling the gap from memory reintroduces the error being corrected. Ask for the list. |
 | **E412, E404, E406** (IB Business management) | 2026-10-07 (**Q368**) | The guide is now read complete; all three are confirmed and U70 is closed. |
 | the **open-error count** in any older file | 2026-10-04 (**Q365**), then 2026-10-12 (**Q374**) | Overstated by 131, and then by a further **508**: the reconciliation never read repair rounds D-138…D-191. See the current figures below. |
+| **E746** (2026-09-15) | 2026-10-13 (**Q378**) | **Withdrawn.** The 9210 specification uses the phrase "combining principles" verbatim. Nothing to revert. |
+| **E602, E739, E763** | 2026-10-13 (**Q377**) | Upheld, but each correction needs the bound stated there — E602 must not strip storm-hazard flood responses (3.1.1.5); E763's one-area rule depends on the theme. |
 | **E60–E69, E109** | 2026-10-12 (**Q375**) | D-138's heading declares them remediated; none of its batch lists names them, and E61–E69 still carry their markers on `main`. **Treat as open.** |
 
 ---
@@ -100,10 +103,11 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,667 |
-| confirmed errors open | **150** *(reconciliation current through D-225 and now covering D-138 onward — see Q374; 658 was overstated by 508)* |
+| findings recorded | 1,670 |
+| confirmed errors open | **144** *(reconciliation current through D-225, covering D-138 onward — Q374; E01, E09, E900, E738, E739 verified fixed and E746 withdrawn — Q376–Q378)* |
 | declared closed by decision log D-138…D-225 | 693 |
-| still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 61 — listed with reasons in `2026-10-12-findings.md` |
+| still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 58 — reasons in `2026-10-12-findings.md` (less E738, E739, E746) |
+| withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 |
 
 **"Declared closed" means a repair round recorded the finding as handled — not that the audit
