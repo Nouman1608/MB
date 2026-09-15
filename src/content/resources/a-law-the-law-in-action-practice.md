@@ -31,7 +31,7 @@ Related: [The Law in Action revision notes](/resources/a-law-the-law-in-action-r
 
 **1.** Distinguish between a condition and a warranty in a contract, and explain the consequence of breaching each. **[4]**
 
-**2.** State the four implied terms the Consumer Rights Act 2015 places into a contract to supply goods, and the section number for each. **[4]**
+**2.** State the three terms the Consumer Rights Act 2015 implies into a contract to supply goods, and the section number for each. **[3]**
 
 ## Section B
 
@@ -56,7 +56,7 @@ Related: [The Law in Action revision notes](/resources/a-law-the-law-in-action-r
 
 **1.** A **condition** is a major term going to the root of the contract; breach entitles the innocent party to treat the contract as discharged **and** claim damages [1] [1]. A **warranty** is a minor term; breach only gives a right to claim **damages**, and the contract continues [1] [1].
 
-**2.** Satisfactory quality — **section 9** [1]. Fitness for a particular purpose made known to the seller — **section 10** [1]. Matching description — **section 11** [1]. Where goods are sold by sample, that the bulk matches the sample — **section 13** [1]. (Also accept goods matching a model seen or examined, s 14, as a fourth term; the short-term right to reject, s 20, is a remedy for breach, not an implied term, and should not be credited here.)
+**2.** Satisfactory quality — **section 9** [1]. Fitness for a particular purpose made known to the seller — **section 10** [1]. Matching description — **section 11** [1]. (Extension, beyond the YLA1 specification and carrying no mark: the Act also implies that goods sold by sample match the sample, s 13, and that goods match a model seen or examined, s 14. The short-term right to reject, s 20, is a remedy for breach, not an implied term, and is not credited here.)
 
 **3.** The claimant must show a **duty of care** was owed (harm reasonably foreseeable, sufficient proximity, and it being fair, just and reasonable to impose a duty) [1] [1]; that the defendant **breached** that duty, judged against the standard of the reasonable person, weighing the foreseeable risk against the cost and practicality of taking precautions [1] [1]; and that the breach **caused damage**, both factually (the "but for" test) and legally (the breach was an operating and substantial cause) [1] [1]. One defence: **volenti non fit injuria** — a complete defence where the claimant freely and knowingly consented to the specific risk [1]; or **contributory negligence** — the claimant's own fault contributed to their harm, reducing (not defeating) the damages awarded under the Law Reform (Contributory Negligence) Act 1945 [1].
 

@@ -10843,3 +10843,24 @@ None in this cluster.
 **Validation.** `npx astro check` (0 errors), `npm run validate:academic` (pass, including stage consistency after the E652 data change), `npm run build` (2129 pages), `npm run audit:all` (0 problems), cross-board regression (clean), negative-validation suite (35/35), API tests (pass). `check-duplicate-resource-scope.mjs`: the same four pre-existing unreviewed groups as D-226, no new group.
 
 **Open-count effect.** Of the 82 findings: 77 closed, 2 already correct, 3 deferred.
+
+## D-229 - Audit rounds 6 and 7 (Q376-Q379, E902) taken up: E902 applied, E602 bound applied, E729 residual closed (2026-09-15)
+
+**Trigger.** `main` moved to `2126b0b` during D-226-D-228 (rebased cleanly; audit-only files). `2026-10-13-findings.md` and `2026-10-14-findings.md` read in full; the work order now says "Apply E902 first".
+
+### Closed -- fixed and verified
+
+| ID | Files | What was changed / verified |
+|---|---|---|
+| E902 | `a-law-the-law-in-action-practice.md` | Pearson YLA1 (Issue 4, 48 pp., read to the 80 Strand registered-office block) names exactly three terms implied into a contract to supply goods (2.1.3: s9, s10, s11) and places s20 among remedies. Q2 stem now asks for three terms, **[3]**; s13 and s14 kept as correct law but labelled extension beyond YLA1 carrying no mark, as the finding's note requires. Family: the only other file on the Act for YLA1/7162 (`a-level-edexcel-law-the-law-in-action.md`) makes no four-term claim. This reverses D-192's handling of E680. |
+| E602 (bound, Q377) | `oxfordaqa-a-level-geography-physical-revision-notes.md`, `a-level-oxfordaqa-geography-physical-geography-1.md` | D-228 removed the notes' hydrology section, including river flood engineering. Q377: river flooding is Unit 1 content (3.1.1.5 storm hazards, risk management through preparedness, mitigation, prevention and adaptation) -- verified in 9635 v3.2. Flood prevention and mitigation restored as a storm-hazard response; the Unit 3 pointer now says only drainage basins and the hydrograph are 3.3.1.2. Both files also named the storm-hazard response framework as "prediction, preparation, protection and planning", which is not the specification's -- replaced with the 3.1.1.5 wording and its five named forms of storm hazard. |
+| E729 (residual, Q377) | `igcse-oxfordaqa-computer-science-algorithms.md` | Common-mistakes sentence still named `NEXT` as a closing keyword -- now `ENDFOR`. Corpus search: no `NEXT` remains in any 9210 file. |
+
+### Already correct / not reproducing
+
+| ID | What was read | Result |
+|---|---|---|
+| E736 (residual, Q377) | `a-computer-science-procedural-revision-notes.md` on this branch | The surviving linked-list table row Q377 names was removed in D-226 (the structures table is now split into 9645 3.2 and 3.10 structures with no linked list). |
+| E746 | Q378 | Withdrawn by the audit, matching D-226's not-reproducing record; no change, as Q378's note asks. |
+
+**Validation.** Run with batch 4 below.

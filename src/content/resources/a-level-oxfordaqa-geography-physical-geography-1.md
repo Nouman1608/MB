@@ -102,7 +102,7 @@ Plate movement is driven by mantle convection, ridge push and slab pull.
 
 Tropical storms require sea temperatures above about 27 degrees Celsius to a depth of 60 metres, latitudes between 5 and 30 degrees for Coriolis deflection, low wind shear, and convergence in the lower atmosphere.
 
-Hazards are wind, **storm surge** (usually the greatest killer), flooding and landslides. Management follows prediction, preparation, protection and planning.
+The specification's forms of storm hazard are high winds, **storm surges** (usually the greatest killer), coastal flooding, river flooding and landslides. Responses are short and long term, with risk management designed to reduce impacts through **preparedness, mitigation, prevention and adaptation** (3.1.1.5) — for river flooding, for example, forecasting and warnings, floodplain zoning, and engineered defences such as levées.
 
 ## Coastal systems and landscapes (Option 1b)
 

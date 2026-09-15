@@ -129,7 +129,7 @@ Output: **15**. The algorithm sums the integers from 1 to n.
 
 ## Common mistakes
 
-Using the wrong flowchart symbol — a diamond is for decisions only. Writing pseudocode that omits ENDIF or NEXT, so the block structure is unclear. Choosing FOR when the number of repetitions is unknown, where WHILE is required. Filling in a trace table only at the end instead of after each iteration. Giving vague evaluation comments rather than identifying a specific inefficiency. Recommending a binary search on data that has not been sorted first — the syllabus expects the sorting step to be stated, not assumed. Confusing bubble sort (simple, slow, compares adjacent pairs) with merge sort (more complex, faster, splits and merges the list) when asked to name or describe a sorting method.
+Using the wrong flowchart symbol — a diamond is for decisions only. Writing pseudocode that omits ENDIF or ENDFOR, so the block structure is unclear. Choosing FOR when the number of repetitions is unknown, where WHILE is required. Filling in a trace table only at the end instead of after each iteration. Giving vague evaluation comments rather than identifying a specific inefficiency. Recommending a binary search on data that has not been sorted first — the syllabus expects the sorting step to be stated, not assumed. Confusing bubble sort (simple, slow, compares adjacent pairs) with merge sort (more complex, faster, splits and merges the list) when asked to name or describe a sorting method.
 
 ## Quick revision checklist
 

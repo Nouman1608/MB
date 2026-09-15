@@ -59,7 +59,9 @@ Risk = hazard x vulnerability / capacity to cope
 
 Tropical storms require **sea temperatures above about 27°C to a depth of 60 m**, **latitudes between 5° and 30°** for sufficient Coriolis deflection, **low wind shear**, and convergence in the lower atmosphere.
 
-Hazards are wind, **storm surge** (usually the greatest killer), flooding and landslides. Management follows the same four-part structure as other hazards: prediction, preparation, protection and planning.
+The specification's forms of storm hazard are **high winds, storm surges, coastal flooding, river flooding and landslides** (storm surge is usually the greatest killer). Responses are short and long term, with risk management through **preparedness, mitigation, prevention and adaptation** (3.1.1.5).
+
+**River flooding as a storm hazard.** Prevention and mitigation measures belong here as storm-hazard responses: **hard engineering** (dams, levées, channelisation) is effective but expensive and can shift the problem downstream; **soft engineering** (floodplain zoning, afforestation, wetland restoration) is cheaper and more sustainable but less immediately effective; **preparedness** includes forecasting, warnings and evacuation planning. Evaluate on cost, effectiveness, sustainability and social acceptability.
 
 ## Fires in nature (3.1.1.6)
 
@@ -77,7 +79,7 @@ Hazards are wind, **storm surge** (usually the greatest killer), flooding and la
 - **Case study of a multi-hazardous environment** — the hazards, the social, economic and environmental risks, and how resilience, adaptation, mitigation and management allow continued occupation.
 - **Local-scale case study of a specified place in a hazardous setting** — the physical nature of the hazard and how the community's economic, social and political character reflects the hazard and its response to the risk.
 
-(Drainage basins and the flood hydrograph are not Unit 1 content: they sit in Unit 3, Section A: Water, carbon and life on Earth, which is A-level only.)
+(Drainage basins and the flood hydrograph are not Unit 1 content: they sit in Unit 3, 3.3.1.2, which is A-level only. River flooding itself, and its prevention and mitigation, **is** Unit 1 content as a storm hazard — see above.)
 
 ## Hot desert systems and landscapes (Option 1a)
 
