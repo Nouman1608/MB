@@ -35,7 +35,7 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 | | |
 |---|---|
 | resources read end to end | 1,251 of 1,251 |
-| findings recorded | 1,704 *(updated 2026-10-24, round 17)* |
+| findings recorded | 1,707 *(updated 2026-10-25, round 18)* |
 | **open confirmed errors** | **0 declared** *(updated 2026-10-24, round 17 - correctness not established)* |
 | declared closed by decision log | 848 (D-138 through **D-238**) |
 | still open despite a closing round | 0 |

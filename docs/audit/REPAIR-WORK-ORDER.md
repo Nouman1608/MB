@@ -138,6 +138,10 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 18 (2026-10-25, Q396): two low-priority data items.** **I361**: set 9270 5.1, 9275 5.1, 9675 5.3,
+  9230 4.3, 9635 3.2 in `syllabus-topics.ts` and link the live copies; relink 9630; leave 9685 (unsettled).
+  **I362**: the 3247 assessment record should cite 721463 (2027). No confirmed error is open.
+
 - **Round 17 (2026-10-24, Q395): nothing to repair.** D-238 verified. Its two new observations (legacy
   `oaqaresources` paths in `syllabus-topics.ts`; the 3247 assessment record) are unchecked leads, not findings.
 
