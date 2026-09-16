@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**110 confirmed errors open** *(2026-10-19, round 12: 101 declared closures in D-138…D-225 reopened, and 9 new errors E903…E911 introduced by repairs. The list with evidence is in `2026-10-19-findings.md`.)*
+**0 confirmed errors declared open** *(2026-10-21, round 14: D-235 and D-236 closed all 110 from round 12, and every one reads fixed on `main`. See §8 for what is unverified and the two low-priority inconsistencies I356 and I357.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,11 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 14 (2026-10-21, Q391): all 110 fixed.** Two low-priority inconsistencies found while verifying:
+  **I356** (9225 influences description lists five as "the six") and **I357** (the aligned-to line shows 8464
+  under GCSE Physics). E451's round-12 residue about Section B was wrong: 9670 sets one task from a choice of two.
+  D-235's unactioned observations are unchecked claims; the audit will read them before recording anything.
 
 - **Round 13 (2026-10-20, Q390):** D-234 verified, nothing to repair in it. The 110 from round 12 still stand;
   the status report sent with D-234 predates round 12 and should not be read as "0 open".
