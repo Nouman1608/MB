@@ -18,8 +18,10 @@ featured: false
 Edexcel International A Level Law (YLA1) is the exception in Pearson's IAL suite: it is **not** split
 into separate International Advanced Subsidiary and A2 stages. Both papers are compulsory, both are
 taken in the same series, and that series is June only. Paper 1 (Underlying Principles of Law and the
-English Legal System) covers the English legal system, the basics of the law of contract, and criminal
-law. Paper 2 (The Law in Action) covers the law of tort and applied, synoptic content. Each paper
+English Legal System) covers 1.1 The nature, purpose of and liability in law and 1.2 The sources of
+English law, its enforcement and administration. Paper 2 (The Law in Action) covers 2.1 The market (the
+law of contract, with its remedies), 2.2 The criminal offender and 2.3 The individual (including
+defamation, privacy and occupiers' liability). Each paper
 lasts **3 hours**, carries 100 marks and is worth 50%, and both are externally assessed. These notes
 complement the site's guides to
 [Underlying Principles of Law and the English Legal System](/resources/a-level-edexcel-law-underlying-principles/)
@@ -30,7 +32,7 @@ and [The Law in Action](/resources/a-level-edexcel-law-the-law-in-action/).
 Unlike the modular IAL sciences, this qualification offers no opportunity to bank a unit result and
 move on. Both papers are sat together, and the June-only series means a resit is a full year away.
 **Exam-preparation priority**: build a revision timetable that brings all content to readiness
-simultaneously, rather than one that works through topics in teaching order and reaches tort last. The
+simultaneously, rather than one that works through topics in teaching order and reaches 2.3 The individual last. The
 material taught last is not the material examined last.
 
 ## Two three-hour papers in one series is an endurance demand

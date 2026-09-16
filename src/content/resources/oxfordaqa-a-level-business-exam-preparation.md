@@ -34,8 +34,8 @@ code.
 
 This is the single most important step before revising anything else: 9625 and 9725 have different
 paper timings (9625's AS papers are 90 minutes; 9725's AS units are 75 minutes) and, per OxfordAQA's own
-notes, 9725's A-level papers use a simplified, fully case-study-based structure that differs from 9625's
-legacy A-level papers. **Exam-preparation priority**: check your specification code with your teacher or
+qualification page, each 9725 A2 paper has separate topics and a simplified structure, with all
+questions based on case studies, unlike 9625's legacy A-level papers. **Exam-preparation priority**: check your specification code with your teacher or
 exam entry before assuming either paper structure applies to you.
 
 ## Both specifications keep the same weighting shape
@@ -47,11 +47,13 @@ differ.
 
 ## 9725's A-level papers are described as simplified and case-study-led
 
-OxfordAQA's own notes on the revised specification describe the A-level units as having "separate
-topics and a simplified, fully case-study-based structure" compared with the legacy papers, following
-teacher feedback. **Exam-preparation priority**: candidates on 9725 should expect the A-level papers to
-lean more heavily on applying theory to a single extended case study rather than shorter, more varied
-question contexts.
+OxfordAQA's qualification page for 9725 says: "Following feedback from teachers, each A2 paper has
+separate topics and a simplified structure, with all questions based on case studies." The 9725
+specification gives each A2 paper (Unit 3 Business analysis and Unit 4 Business strategy) two compulsory
+sections, each with one case study followed by five short answer and extended response questions worth
+40 marks, and the summary of changes notes that all four sections of BSS3 and BSS4 are based on case
+studies. **Exam-preparation priority**: candidates on 9725 should expect to apply theory to two separate
+case studies in every A2 paper, with no stand-alone essay section.
 
 ## Command words at A-level demand evaluation, not just explanation
 
@@ -107,8 +109,8 @@ case's own figures over answers that could have been written about any business 
 
 **Answers:** 1. Confirm which specification code (9625 or 9725) you are entered for, since paper timings
 and A-level structure differ between them. 2. AS papers are 20% of the A-level each; A-level papers are
-30% each, in both specifications. 3. 9725's A-level papers use a simplified, fully case-study-based
-structure with separate topics, following teacher feedback on the legacy 9625 papers. 4. Using the case
+30% each, in both specifications. 3. Each 9725 A2 paper has separate topics and a simplified structure,
+with all questions based on case studies (two case-study sections per paper), following teacher feedback. 4. Using the case
 study's own specific figures, dates and stakeholders, rather than writing generic theory that could
 apply to any business in the topic area.
 

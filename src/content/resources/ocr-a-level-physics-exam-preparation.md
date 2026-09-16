@@ -25,13 +25,15 @@ These notes complement the site's guides to
 [Foundations of Physics](/resources/ocr-a-level-physics-foundations-of-physics/) and
 [Development of Practical Skills](/resources/ocr-a-level-physics-development-of-practical-skills/).
 
-## The paper names describe genuinely different demands
+## The two 100-mark papers differ by module, not by style
 
-"Modelling physics" and "Exploring physics" are not interchangeable labels for two halves of the
-content. **Exam-preparation priority**: prepare for the difference in emphasis as well as the
-difference in content -- the mathematical modelling of physical systems on one hand, and experimental
-and investigative physics on the other. Practising only one style of question leaves the other paper
-underprepared even when the underlying content is known.
+Modelling physics (Component 01) assesses modules 1, 2, 3 and 5; Exploring physics (Component 02)
+assesses modules 1, 2, 4 and 6. The specification gives both the same structure (Section A, 15 marks of
+multiple choice; Section B, 85 marks of structured, problem-solving, calculation, practical and
+extended-response questions) and the same assessment-objective weightings. **Exam-preparation
+priority**: map your revision to the modules each paper assesses -- Forces and motion and Newtonian
+world and astrophysics for Paper 1; Electrons, waves and photons and Particles and medical physics for
+Paper 2 -- and keep modules 1 and 2 (practical skills and foundations) live for both.
 
 ## Paper 3's 70 marks require whole-course fluency in 90 minutes
 
@@ -44,7 +46,7 @@ misidentifying the relevant physics is much higher than on a module-scoped one.
 
 The separate reporting of the Endorsement makes it easy to under-invest in practical work. But
 experimental design, uncertainty, error analysis and the evaluation of data are examined within the
-270 marks, particularly on Exploring physics. **Exam-preparation priority**: revise the practical
+270 marks, on all three papers. **Exam-preparation priority**: revise the practical
 activities for what the written papers ask -- instrument precision, absolute and percentage
 uncertainty, how uncertainties combine, and improvements that target a named source of error.
 
@@ -115,7 +117,7 @@ marks for recognising what has been idealised away.
 synoptic across all modules, so it demands whole-course fluency under the tightest clock. 2. No -- it
 is reported separately as Pass or Not Classified with no marks in the 270-mark total; experimental
 design, uncertainty, error analysis and data evaluation are examined within the written papers,
-particularly on Exploring physics. 3. Percentage uncertainty, combining uncertainties through a
+all three of which include practical question styles. 3. Percentage uncertainty, combining uncertainties through a
 calculation, and choosing appropriate significant figures -- predictable because they are mechanical
 once learned and recur reliably. 4. A statement of what the gradient and intercept represent
 physically, and the reasoning behind choosing what to plot in order to obtain a straight line.

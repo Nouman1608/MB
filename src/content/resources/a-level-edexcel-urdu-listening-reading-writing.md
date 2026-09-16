@@ -29,8 +29,8 @@ three papers together.
 ## Where this fits in 9UR0
 
 Paper 3 (9UR0/03) is 2 hours 15 minutes long and worth 60 marks, split into two sections: Section A,
-Listening Comprehension (recommended 45 minutes), and Section B, Listening, Reading and Writing
-(recommended 1 hour 30 minutes). Unlike Papers 1 and 2, which each test translation as a distinct,
+Listening Comprehension (30 marks, recommended 45 minutes), and Section B, Listening, Reading and
+Writing (30 marks, recommended 1 hour 30 minutes). Unlike Papers 1 and 2, which each test translation as a distinct,
 separately-timed skill, Paper 3 integrates listening with reading and writing within Section B rather
 than testing them as fully separate components -- a structural difference worth understanding before
 you plan your exam-day timing.
@@ -80,10 +80,11 @@ than trying to process and retain everything you hear before knowing what will b
 
 Because Section B tests listening, reading and writing together, practise the specific skill of taking
 accurate notes from a listening or reading source and then using those notes to construct a written
-response, rather than treating note-taking and writing as two disconnected stages. Since this section
-carries the majority of the paper's marks and time, allocate practice time proportionately -- a
-revision plan that spends most of its time on Section A's shorter listening-only component and treats
-Section B as an afterthought is working against the paper's actual weighting.
+response, rather than treating note-taking and writing as two disconnected stages. The two sections
+carry equal marks (30 each), but Section B has the longer recommended time (1 hour 30 minutes against
+45 minutes) and combines three skills, so give it practice time to match -- a revision plan that
+spends most of its time on Section A's shorter listening-only component and treats Section B as an
+afterthought leaves half the paper's marks under-practised in its longest and most demanding section.
 
 ## How to approach it
 

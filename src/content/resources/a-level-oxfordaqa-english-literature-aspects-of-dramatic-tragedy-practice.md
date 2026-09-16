@@ -54,7 +54,7 @@ Related: [Aspects of Dramatic Tragedy revision notes](/resources/a-level-oxforda
 
 **4.** A strong essay considers what specifically generates audience sympathy for the tragic hero at different points in the play (their own suffering, their self-awareness, an admirable quality undermined by their flaw), weighs this against moments where the hero's actions might alienate audience sympathy instead, and reaches a reasoned judgement about whether sympathy is essential to how the play achieves its tragic effect, or whether other elements (spectacle, catharsis, structure) matter just as much. **[25]**
 
-Each question carries all 25 marks as a single response — these are not itemised into separate per-point totals in the official mark scheme, which assesses each answer holistically against level descriptors rather than crediting isolated points individually.
+Each question carries all 25 marks as a single response, and the notes above are indicative content, not a points scheme. OxfordAQA does not publish a Unit 1 mark scheme on its 9675 qualification page; the revised specification (Version 5.6, for exams from May/June 2028; section 5.5, Levels of response mark schemes) says the specification adopts a holistic approach to marking, with answers placed in bands on a best-fit basis, so use these notes to judge the quality of an argument rather than to count points.
 
 ---
 

@@ -160,10 +160,13 @@ critical angle for glass. This is the principle behind periscopes and
 binoculars, which use prisms rather than mirrors because total internal
 reflection loses no light to absorption at the reflecting surface.
 
-## Sound (Physics only)
+## Sound
 
 Sound waves are longitudinal, and like all waves can be reflected and
-refracted. Humans typically hear frequencies between 20 Hz and 20,000 Hz.
+refracted (3.23, which has no P reference, so it is also in the Science
+Double Award).
+
+**Physics only (3.24P–3.29P).** Humans typically hear frequencies between 20 Hz and 20,000 Hz.
 An oscilloscope connected to a microphone can display a sound wave's
 waveform: the **pitch** of a sound corresponds to its frequency (higher
 frequency = higher pitch), and its **loudness** corresponds to the

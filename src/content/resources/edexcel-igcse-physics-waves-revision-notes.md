@@ -90,9 +90,11 @@ Once n is known, the same block's critical angle follows directly: `sin c = 1/n 
 
 In a ray diagram for refraction, both the angle of incidence and the angle of refraction are always measured from the **normal** -- the line perpendicular to the boundary at the point where the ray meets it -- never from the boundary surface itself. Light travelling from a less dense medium (such as air) into a denser medium (such as glass or water) bends **towards** the normal, so the angle of refraction is smaller than the angle of incidence; travelling the other way, out of the denser medium, it bends **away** from the normal instead. Getting this direction backwards is one of the most common diagram-labelling errors examiners report for this topic, and checking whether the ray is entering or leaving the denser medium before drawing the bend is the fastest way to avoid it.
 
-## Sound (Physics only)
+## Sound
 
-Sound is **longitudinal**; it reflects and refracts like any wave. Human hearing range: **20 Hz to 20,000 Hz**. An oscilloscope + microphone displays a sound wave's waveform. **Pitch** = frequency (higher frequency = higher pitch). **Loudness** = amplitude (greater amplitude = louder).
+Sound is **longitudinal**; it reflects and refracts like any wave (3.23, both Physics and the Science Double Award).
+
+**Physics only (3.24P–3.29P):** Human hearing range: **20 Hz to 20,000 Hz**. An oscilloscope + microphone displays a sound wave's waveform. **Pitch** = frequency (higher frequency = higher pitch). **Loudness** = amplitude (greater amplitude = louder).
 
 ## Exam traps
 

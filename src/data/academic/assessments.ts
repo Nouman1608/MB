@@ -2659,7 +2659,7 @@ export const ASSESSMENTS: readonly Assessment[] = [
     firstAssessment: '2026',
     components: [
       { paperCode: 'AS Paper 1', title: 'AS Paper 1 -- Introduction to Financial Accounting', durationMinutes: 120, marks: 80, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
-      { paperCode: 'AS Paper 2', title: 'AS Paper 2 -- Financial Management and Accounting', durationMinutes: 120, marks: 80, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
+      { paperCode: 'AS Paper 2', title: 'AS Paper 2 -- Financial & Management Accounting', durationMinutes: 120, marks: 80, weightingPercent: 20, assessmentType: 'written-exam', externallyAssessed: true },
       { paperCode: 'A-level Paper 1', title: 'A-level Paper 1 -- Financial Accounting', durationMinutes: 135, marks: 90, weightingPercent: 30, assessmentType: 'written-exam', externallyAssessed: true },
       { paperCode: 'A-level Paper 2', title: 'A-level Paper 2 -- Accounting for Analysis and Decision Making', durationMinutes: 135, marks: 90, weightingPercent: 30, assessmentType: 'written-exam', externallyAssessed: true },
     ],

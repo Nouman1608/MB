@@ -47,9 +47,11 @@ chemical misunderstanding, which makes them the most recoverable marks available
 
 ## Practical chemistry is examined in prose
 
-With no separate practical exam, the required practical work -- filtration, crystallisation,
-chromatography, titration, gas collection -- is assessed through written questions about apparatus,
-method, error and improvement. **Exam-preparation priority**: for each practical, know the apparatus
+With no separate practical exam, the five required practicals in the specification (section 6.2) --
+the products at the anode and cathode in the electrolysis of copper sulfate solution, flame tests to
+identify a metal ion, finding the concentration of a strong acid by titration with a strong base,
+factors affecting the rate of a reaction, and the test for a double bond in an unknown hydrocarbon --
+are assessed through written questions about apparatus, method, error and improvement. **Exam-preparation priority**: for each practical, know the apparatus
 and why it was chosen, the measurement taken, the principal source of error, and one improvement that
 targets that specific error.
 

@@ -17,7 +17,7 @@ featured: false
 
 OxfordAQA International A-Level Accounting (9615) is a modular qualification of four papers, sat over
 the AS and A-level teaching period. AS Paper 1 (Introduction to Financial Accounting) and AS Paper 2
-(Financial Management and Accounting) are each 2 hours, 80 marks and 20% of the full A-level. A-level
+(Financial & Management Accounting) are each 2 hours, 80 marks and 20% of the full A-level. A-level
 Paper 1 (Financial Accounting) and A-level Paper 2 (Accounting for Analysis and Decision Making) step up
 to 2 hours 15 minutes, 90 marks, and 30% of the full A-level each. This is a recently launched
 specification -- first teaching September 2024, first AS exams May/June 2025, first A-level exams

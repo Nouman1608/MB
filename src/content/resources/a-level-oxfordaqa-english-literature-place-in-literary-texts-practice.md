@@ -54,7 +54,7 @@ Related: [Place in Literary Texts study guide](/resources/a-level-oxfordaqa-engl
 
 **4.** A strong essay engages critically with the claim, rather than treating it as self-evidently true or false; analyses **at least two poems** for specific evidence of place functioning as, or alongside, memory — imagery, tense, structure, direct statement — using close textual detail rather than general description; and reaches a **reasoned judgement** about whether the claim holds across the selection as a whole, or whether some poems resist it, showing awareness that a strong answer need not agree with the given statement to score well. **[25]**
 
-Each question carries all 25 marks as a single response — these are not itemised into separate per-point totals in the official mark scheme, which assesses each answer holistically against level descriptors rather than crediting isolated points individually.
+Each question carries all 25 marks as a single response, and the notes above are indicative content, not a points scheme. OxfordAQA does not publish a Unit 2 mark scheme on its 9675 qualification page; the revised specification (Version 5.6, for exams from May/June 2028; section 5.5, Levels of response mark schemes) says the specification adopts a holistic approach to marking, with answers placed in bands on a best-fit basis, so use these notes to judge the quality of an argument rather than to count points.
 
 ---
 

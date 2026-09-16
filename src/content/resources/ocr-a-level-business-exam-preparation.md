@@ -9,7 +9,7 @@ qualifications: ["a-level"]
 syllabusCodes: ["H431"]
 syllabusSeries: "Final assessment Summer 2027; successor H436 first assessed 2028"
 order: 3
-description: "What OCR A Level Business H431's withdrawal timetable means for candidates, how its three equal 80-mark components differ, which papers are synoptic, and a worked evaluation routine."
+description: "What OCR A Level Business H431's withdrawal timetable means for candidates, how its three equal 80-mark components differ, why every paper is synoptic, and a worked evaluation routine."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -18,7 +18,7 @@ featured: false
 OCR A Level Business (H431) is assessed by three equally weighted components, each a 2-hour written
 paper worth 80 marks and one third of the qualification: Component 01 (Operating in a Local Business
 Environment), Component 02 (The UK Business Environment) and Component 03 (The Global Business
-Environment). **Components 01 and 03 carry synoptic assessment.** There is also a timetable that every
+Environment). **Each component includes synoptic assessment.** There is also a timetable that every
 candidate on this specification needs to know: OCR has confirmed that H431's final first teaching was
 September 2025 and its **final assessment opportunity is Summer 2027**, after which resits move to the
 successor specification **H436** (first teaching 2026, first assessment 2028). These notes complement
@@ -42,12 +42,12 @@ Component 01 examines the local business environment, Component 02 the UK enviro
 03 the global one. The same analytical tools recur at each scale, applied to progressively wider
 contexts. **Exam-preparation priority**: revise by tool rather than by component -- what a
 break-even analysis, a competitive analysis or a stakeholder analysis looks like locally, nationally
-and globally -- since that is how the synoptic components expect the material to be held.
+and globally -- since that is how all three synoptic components expect the material to be held.
 
-## Components 01 and 03 are synoptic, so no content is ever finished
+## Every component is synoptic, so no content is ever finished
 
-Because the first and third components carry synoptic assessment, material from across the
-specification can appear in them. **Exam-preparation priority**: keep a running summary of the whole
+Because each component includes synoptic assessment (OCR: "Each examination is fully synoptic"),
+material from across the specification can appear in any of them. **Exam-preparation priority**: keep a running summary of the whole
 specification rather than component-by-component notes, and rehearse questions that require pulling
 an idea from one component into another.
 
@@ -98,7 +98,7 @@ measured against and reads as a preference.
 
 - **Before the exams**: confirm your series and understand that H431's final assessment is Summer 2027
   and later resits move to H436; revise by analytical tool across all three scales rather than
-  component by component; keep whole-specification notes for the synoptic components 01 and 03;
+  component by component; keep whole-specification notes, since all three components are synoptic;
   practise complete 2-hour papers.
 - **During any component**: budget 1.5 minutes per mark and protect time for the final extended
   question.
@@ -115,8 +115,8 @@ measured against and reads as a preference.
 
 **Answers:** 1. Summer 2027 -- after which resits are sat on the successor specification H436, which
 has different components each worth 90 rather than 80 marks, so a resit is not the same exam again.
-2. Components 01 and 03. 3. Because the three components apply the same analytical tools at local,
-national and global scale, and the synoptic components expect material to be connected across that
+2. All three: each component includes synoptic assessment. 3. Because the three components apply the same analytical tools at local,
+national and global scale, and all three components are synoptic, expecting material to be connected across that
 arc rather than compartmentalised. 4. Because a conclusion needs something to be measured against; a
 judgement offered without a stated criterion reads as a preference rather than an evaluation.
 

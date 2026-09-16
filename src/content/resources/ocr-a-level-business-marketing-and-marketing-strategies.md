@@ -12,29 +12,30 @@ order: 3
 syllabusTopics:
   - qualification: "a-level"
     topic: "marketing-and-marketing-strategies-ocr-alevel-business"
-description: "The marketing mix, product life cycle, Boston Matrix and Ansoff's Matrix -- Theme 3 of OCR A Level Business (H431), distinct from the site's existing guides to Business Objectives and Strategic Decisions and External Influences Facing Businesses."
+description: "The marketing mix, product life cycle, Boston Matrix and Ansoff's Matrix -- one of the seven content areas of OCR A Level Business (H431), distinct from the site's existing guides to Business Objectives and Strategic Decisions and External Influences Facing Businesses."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
 ---
 
-This guide covers **Theme 3: Marketing and marketing strategies** in OCR A Level Business (H431), following
+This guide covers the content area **Marketing and marketing strategies** in OCR A Level Business (H431), following
 the site's existing guides to
 [Business Objectives and Strategic Decisions](/resources/ocr-a-level-business-objectives-and-strategic-decisions/)
 and [External Influences Facing Businesses](/resources/ocr-a-level-business-external-influences/). Where
-those two themes establish a business's overall direction and the environment it operates in, Theme 3
-turns to how a business identifies and reaches its customers.
+those two content areas establish a business's overall direction and the environment it operates in,
+this one turns to how a business identifies and reaches its customers.
 
 ## Where this fits in H431
 
-Marketing decisions do not sit in isolation -- they are shaped by the objectives set out in Theme 1 and
-constrained by the external influences covered in Theme 2, so exam questions on this theme often expect
+Marketing decisions do not sit in isolation -- they are shaped by the objectives set out in Business objectives and
+strategic decisions and constrained by the content of External influences facing businesses, so exam
+questions on this content area often expect
 candidates to connect marketing choices back to a business's stated objectives or market conditions rather
 than analysing marketing tools in a vacuum.
 
 ## Syllabus coverage
 
-**OCR A LEVEL BUSINESS (H431) -- THEME 3: MARKETING AND MARKETING STRATEGIES**
+**OCR A LEVEL BUSINESS (H431) -- MARKETING AND MARKETING STRATEGIES**
 
 - The marketing mix (the 4Ps): Product, Price, Place and Promotion, and how a business combines them into
   a coherent strategy
@@ -51,7 +52,7 @@ than analysing marketing tools in a vacuum.
 
 ## How to approach it
 
-The models in this theme (Product Life Cycle, Boston Matrix, Ansoff's Matrix) are most valuable to
+The models in this content area (Product Life Cycle, Boston Matrix, Ansoff's Matrix) are most valuable to
 examiners not as diagrams to reproduce, but as frameworks for analysis -- a strong answer uses a model to
 structure a recommendation for a specific business scenario, rather than describing the model in the
 abstract without applying it.
@@ -131,5 +132,5 @@ higher risk.
 - Explain the strategic implication of each Boston Matrix quadrant, not just its definition.
 - Practise applying Ansoff's Matrix to a specific business scenario, including an evaluation of relative
   risk.
-- Link marketing decisions back to a business's stated objectives (Theme 1) and external environment
-  (Theme 2) wherever a scenario provides that context.
+- Link marketing decisions back to a business's stated objectives (Business objectives and strategic
+  decisions) and external environment (External influences facing businesses) wherever a scenario provides that context.
