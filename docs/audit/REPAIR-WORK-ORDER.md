@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**8 confirmed-error groups open (E914–E919 until D-241 is verified; E920, E921)** *(2026-10-27, round 20: Cambridge board claims checked. D-241 claims E914–E919 and I363–I368; the audit reads it next.)*
+**2 confirmed-error groups open (E920, E921)** *(2026-10-28, round 21: D-241 verified — 190 of 195 fixed, I363.38 partly, all four disputes upheld; E914–E919 and I363–I368 closed.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,10 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 21 (2026-10-28, Q402): D-241 verified.** Nothing more on E914–E919 or I363–I368. Add **I370** (two
+  residuals: `ib-dp-psychology-cognitive-approach` L145-147; `ib-dp-chemistry-structure-1-revision-notes` L77-80)
+  to E920, E921 and I369. Your four disputes are upheld.
 
 - **Round 20 (2026-10-27, Q401): Cambridge board claims.** Work **E920** (5 statements) and **E921** (7 statements,
   13 files), then **I369**. Each item quotes the syllabus. Withdrawn, no change needed: I363.11, I363.21, Q400.9,
