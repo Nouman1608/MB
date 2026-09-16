@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**0 confirmed errors declared open** *(2026-10-24, round 17: D-238 closed E912, E913, I358-I360 and Q393, and every one reads fixed on `main`.)*
+**6 confirmed-error groups open (E914–E919, 80 errors)** *(2026-10-26, round 19: first read of the 370 unread post-baseline resources. D-240 closed I361 and I362, and both read fixed on `main`.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,10 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 19 (2026-10-26, Q397): post-baseline resources read.** Work **E914–E919** (80 errors, every item
+  with file and line in `2026-10-26-findings.md`), then **I363–I368**. Q399 and Q400 are leads to confirm
+  before editing; Q400 needs the board document. U72 is not repair work. D-240 verified (Q398).
 
 - **Round 18 (2026-10-25, Q396): two low-priority data items.** **I361**: set 9270 5.1, 9275 5.1, 9675 5.3,
   9230 4.3, 9635 3.2 in `syllabus-topics.ts` and link the live copies; relink 9630; leave 9685 (unsettled).

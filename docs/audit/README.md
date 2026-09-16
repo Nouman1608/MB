@@ -50,6 +50,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-10-23-findings.md` | Round 16: D-237 read — I356, I357 fixed. E912, E913 still open. |
 | `2026-10-24-findings.md` | Round 17: D-238 read — all six round-15 items fixed; **0 confirmed errors declared open**. |
 | `2026-10-25-findings.md` | Round 18: repair-side observations on D-238 checked — I361, I362 (low). 0 confirmed errors open. |
+| `2026-10-26-findings.md` | Round 19: the 370 unread post-baseline resources and D-239's twelve read end to end; D-240 verified. **E914–E919 open** (80 errors in six groups), I363–I368, Q397–Q400, U72 (365 board claims unchecked). |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -133,12 +134,12 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,707 |
-| confirmed errors open | **0 declared** *(reconciliation current through **D-238**; every closure from D-226 to D-238 read and fixed. 515 closures in D-138…D-225 were sampled, not read. **Not a statement that the resources are correct.**)* |
-| declared closed by decision log D-138…D-238 | 848 |
+| findings recorded | 1,724 |
+| confirmed errors open | **6 groups** (E914–E919, 80 errors, round 19) *(reconciliation current through **D-240**; every closure from D-226 to D-240 read and fixed. 515 closures in D-138…D-225 were sampled, not read. **Not a statement that the resources are correct.**)* |
+| declared closed by decision log D-138…D-240 | 848 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
-| resources read end to end | 1,251 of 1,251 |
+| resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` read at least once (round 19). Board claims in the 397 post-baseline resources unchecked (U72). |
 
 **"Declared closed" means a repair round recorded the finding as handled — not that the audit
 verified it.** Of the closures spot-checked by reading: five sound, two better than the
