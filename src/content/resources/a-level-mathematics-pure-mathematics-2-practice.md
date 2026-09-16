@@ -65,7 +65,7 @@ factor [1]. Dividing f(x) by (x − 2) gives x² − x − 6 [1], which factoris
 f(x) = (x − 2)(x − 3)(x + 2) [1].
 
 **3.** Taking logs of both sides: 2x ln 3 = ln 5 [1]. So x = ln 5 / (2 ln 3) = 1.6094 / 2.1972 [1] =
-**0.733** (3 s.f.) [1].
+**0.732** (3 s.f.) [1] (x = 0.73249 before rounding).
 
 **4.** log₂(x) + log₂(x − 2) = log₂(x(x − 2)) = 3 [1], so x(x − 2) = 2³ = 8 [1]. This gives
 x² − 2x − 8 = 0, which factorises as (x − 4)(x + 2) = 0, so x = 4 or x = −2 [1]. Since x > 2 is
@@ -86,9 +86,10 @@ the chain rule in reverse, one for the correct ln form with the constant of inte
 **8.** Let f(x) = x³ − x − 1. f(1) = 1 − 1 − 1 = −1 (negative). f(2) = 8 − 2 − 1 = 5 (positive) [1].
 Since f(x) changes sign between x = 1 and x = 2, a root lies in this interval [1].
 Iterating x_(n+1) = (x_n + 1)^(1/3) from x₀ = 1.5:
-x₁ = (2.5)^(1/3) = 1.3572, x₂ = (2.3572)^(1/3) = 1.3326, x₃ = (2.3326)^(1/3) = 1.3283,
-x₄ = (2.3283)^(1/3) = 1.3275, x₅ = (2.3275)^(1/3) = 1.3273 [3]. The iteration converges to
-**x = 1.327** (3 d.p.) [1].
+x₁ = (2.5)^(1/3) = 1.3572, x₂ = (2.3572)^(1/3) = 1.3309, x₃ = (2.3309)^(1/3) = 1.3259,
+x₄ = (2.3259)^(1/3) = 1.3249, x₅ = (2.3249)^(1/3) = 1.3248, x₆ = (2.3248)^(1/3) = 1.3247 [2]
+(one mark for a correct first iterate, one for the rest correct to 4 d.p.). Since x₅ and x₆ both round
+to 1.325, the iteration has converged to **x = 1.325** (3 d.p.) [1].
 
 **9.** The derivative of tan x is sec²x, so ∫ sec²x dx = tan x + c [1]. Evaluating between the limits:
 [tan x] from 0 to π/4 = tan(π/4) − tan(0) = 1 − 0 [1] = **1** [1].

@@ -82,7 +82,7 @@ Marketing across borders must adapt to differences in **culture, language, legal
 
 ## How Unit 4 is examined
 
-Paper 1's pre-released statement can draw on marketing content alongside Unit 1 stakeholder analysis or Unit 3 numerical tools in the same unseen case study, so revising the seven Ps in isolation from the rest of the course leaves a real gap -- practise identifying which Unit 4 sub-topic a given Paper 1 scenario is really testing, in combination with content from other units. HL students should also expect Paper 2's quantitative stimulus material to occasionally draw on sales forecasting (4.3) alongside Unit 3's financial calculations, since both units share a numerical, data-interpretation style of question.
+Paper 1's pre-released statement can draw on marketing content alongside Unit 1 stakeholder analysis or Unit 3 numerical tools in the same unseen case study, so revising the seven Ps in isolation from the rest of the course leaves a real gap -- practise identifying which Unit 4 sub-topic a given Paper 1 scenario is really testing, in combination with content from other units. HL students should also expect Paper 2's quantitative stimulus material to occasionally present a sales forecast alongside Unit 3's financial calculations: evaluating it belongs to 4.3, while calculating a trend belongs to the HL toolkit's simple linear regression.
 
 ## Common mistakes
 

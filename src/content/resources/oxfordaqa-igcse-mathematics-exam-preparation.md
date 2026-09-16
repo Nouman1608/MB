@@ -15,10 +15,10 @@ publishedDate: 2026-09-07
 featured: false
 ---
 
-OxfordAQA International GCSE Mathematics (9260) is a linear, untiered-by-paper but tiered-by-entry
-qualification with no coursework. The **Core tier** targets grades 1-5 and consists of Paper 1 and
-Paper 2, each 1 hour 30 minutes and 80 marks. The **Extension tier** targets grades 4-9 and consists of
-Paper 1 and Paper 2, each 2 hours and 100 marks. Within either tier both papers are weighted 50%, and
+OxfordAQA International GCSE Mathematics (9260) is a linear, tiered qualification with no coursework:
+each student takes both question papers of one tier, in the same exam series. The **Core tier** targets
+grades 1-5 and consists of Paper 1C and Paper 2C, each 1 hour 30 minutes and 80 marks. The **Extension
+tier** targets grades 4-9 and consists of Paper 1E and Paper 2E, each 2 hours and 100 marks. Within either tier both papers are weighted 50%, and
 **either paper may assess any part of the specification**. A scientific calculator is allowed
 throughout. These notes complement the site's guides to
 [Number](/resources/igcse-oxfordaqa-mathematics-number/) and

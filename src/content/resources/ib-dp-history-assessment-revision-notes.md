@@ -27,7 +27,7 @@ Focused study, thematic study, regional study and historical investigation are n
 | Component | SL | HL |
 |---|---|---|
 | Paper 1 (source-based, 1 focused-study option) | 30% | 20% |
-| Paper 2 (concept response + essay, 1 thematic-study option) | 40% | 25% |
+| Paper 2 (concept question + short response and essay, 1 thematic-study option) | 40% | 25% |
 | Paper 3 (HL only: two essays, 1 regional study) | — | 35% |
 | Historical investigation (internal) | 30% | 20% |
 
@@ -63,11 +63,10 @@ Paper 1's source-based questions are built around an overarching **inquiry quest
 specific command terms, not the "compare and contrast" style of the previous course: **explain** how
 the content of two given sources can be used to answer the inquiry question, **analyse** how the
 context of a third source influences its use in answering the inquiry question, and **examine** how
-the perspectives across all the sources can be used to address the inquiry question. Paper 2 and
-Paper 3's essay questions use the broader command-term hierarchy shared across individuals-and-
-societies subjects -- **examine**, **evaluate**, **discuss**, **to what extent** -- but always in
-relation to a named period, region or theme, meaning a strong essay must be built from specific,
-dated evidence rather than general narrative description.
+the perspectives across all the sources can be used to address the inquiry question. Paper 2 (a
+concept question in Section A, then a short response and an essay in Section B) and Paper 3 (essays)
+are always set in relation to a named period, region or theme, meaning a strong answer must be built
+from specific, dated evidence rather than general narrative description.
 
 ## Why the four concepts recur across all three papers
 

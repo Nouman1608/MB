@@ -62,7 +62,7 @@ conditional, and give a personal opinion with a reason. **[15]**
 ## Section C — Travel and tourism
 
 **6.** Translate into English: "پچھلے سال میں نے اپنے خاندان کے ساتھ ایک پہاڑی علاقے کا سفر کیا۔ موسم
-بہت خوشگوار تھا اور ہم نے وہاں ٹریکنگ کی۔ میرے خیال میں یہ میری زندگی کی بہترین چھٹی تھی۔" **[6]**
+بہت خوشگوار تھا اور ہم نے وہاں ٹریکنگ کی۔ میرے خیال میں یہ میری زندگی کی بہترین چھٹی تھی۔ اب ہم وہاں دوبارہ جانا چاہتے ہیں۔" **[6]**
 
 **7.** Identify the two tenses combined in the passage above, and explain why a strong Theme 2 travel
 response typically needs both. **[3]**
@@ -96,18 +96,20 @@ lost for describing the problem only, or for a conditional with incorrect verb a
 that completes all four steps in roughly 20–25 words each, staying close to 90 words overall, without
 straying into narrative-only description, best matches this task's assessment objectives.
 
-**6.** "Last year I travelled to a mountainous area with my family **[1]**. The weather was very
-pleasant **[1]**, and we went trekking there **[1]**. In my opinion, this was the best holiday of my
-life **[1]**." (One mark each for accurately rendering the past-tense narrative verbs, and one mark
-each for the present-tense evaluative comment.)
+**6.** "Last year I travelled to a mountainous area **[1]** with my family **[1]**. The weather was
+very pleasant **[1]**, and we went trekking there **[1]**. In my opinion, this was the best holiday of
+my life **[1]**. Now we want to go there again **[1]**." (One mark per chunk: the narrative and the verdict on the finished
+holiday must be rendered in the past tense, and "want" in the last sentence in the present
+tense.)
 
-**7.** The passage combines the **past tense** (سفر کیا، ٹریکنگ کی — narrating what happened on the
-trip) with the **present tense** (میرے خیال میں...تھی — giving a current evaluative opinion about
-that past experience) **[1]**. A strong Theme 2 travel response needs both because examiners reward
-narrative detail (what happened, in sequence) and personal evaluation (what you think of it now)
-separately — a response using only the past tense reads as a bare recount with no evaluative content,
-while a response using only the present tense fails to narrate the actual travel experience being
-asked about **[2]**.
+**7.** The passage combines the **past tense** — for the narrative (سفر کیا، خوشگوار تھا، ٹریکنگ کی)
+and for the verdict on the finished holiday (میرے خیال میں یہ ... بہترین چھٹی تھی, "this was the best
+holiday") — with the **present tense** (ہم وہاں دوبارہ جانا چاہتے ہیں, "we want to go there again"),
+which gives the writer's feeling now about that past experience **[1]**. A strong Theme 2 travel
+response needs both because it is expected to give narrative detail (what happened, in sequence) and
+personal evaluation (what you think of it now) — a response using only the past tense can judge the
+trip as it was but says nothing about the writer's view now, while a response using only the present
+tense fails to narrate the actual travel experience being asked about **[2]**.
 
 ## A note on marking approach
 

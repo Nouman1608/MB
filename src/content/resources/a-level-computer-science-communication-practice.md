@@ -107,7 +107,7 @@ dedicated servers manage these functions for the whole network [1].
 administration is required [1].
 **(c)** A client-server model is recommended [1], because centralised control over file access
 permissions requires a dedicated server to manage and enforce those permissions consistently across
-all computers on the network [1–2], which a peer-to-peer model cannot provide in the same way, since
+all computers on the network [1], which a peer-to-peer model cannot provide in the same way, since
 every computer has equal status with no single point of centralised control [1].
 
 **8.** Private IP addresses are not directly routable or visible from the wider internet, so devices

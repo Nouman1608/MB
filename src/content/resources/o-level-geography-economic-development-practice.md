@@ -37,7 +37,8 @@ composite indicator of development, giving an example of each. **[3]**
 **2.** Name the four sectors of production, and state which two grow
 in relative importance as a country develops. **[3]**
 
-**3.** State the three inputs of a farming or industrial system. **[3]**
+**3.** State the three parts of the systems model used to describe a
+farming or industrial system. **[3]**
 
 **4.** Name the four environmental risks specified in Theme 3.7. **[2]**
 
@@ -89,9 +90,11 @@ sustainable. **[2]**
 expectancy [1]. Composite: the Human Development Index (HDI), which
 combines several measures into one score [1].
 
-**2.** Primary, secondary, tertiary and quaternary [1–2]. Secondary
-and tertiary/quaternary grow in relative importance as a country
-develops, as employment shifts away from primary activity [1].
+**2.** Primary, secondary, tertiary and quaternary [1–2]. Tertiary
+and quaternary grow in relative importance as a country develops, as
+employment shifts away from primary activity [1]. (Secondary employment
+rises during industrialisation but falls in relative importance in the
+most developed economies, so it is not one of the two.)
 
 **3.** Inputs, processes and outputs [3, one mark each; for an
 industrial system, outputs additionally include waste].

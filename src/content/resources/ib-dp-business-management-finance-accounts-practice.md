@@ -59,12 +59,12 @@ and the [IB DP Business Management syllabus guide](/resources/ib-dp-business-man
 
 **(a)** Explain how a business can be profitable yet still face a cash flow problem. **[2]**
 **(b)** Suggest and justify one method the business could use to improve its cash flow position. **[2]**
-**(c)** The business is HL and has a gearing ratio of 65%. Explain one risk and one potential benefit of this level of gearing. **[3]**
-**(d)** Evaluate whether the business should prioritise investment appraisal methods that account for the time value of money (such as NPV) over simpler methods (such as payback) when deciding on a major new investment. **[3]**
+**(c)** (HL only) The business has a gearing ratio of 65%. Explain one risk and one potential benefit of this level of gearing. **[3]**
+**(d)** (HL only) Evaluate whether the business should prioritise investment appraisal methods that account for the time value of money (such as NPV) over simpler methods (such as payback) when deciding on a major new investment. **[3]**
 
 ## Worked answers
 
-**1.** Any two of: retained profit, sale of assets, reduced working capital. **[2]**
+**1.** Any two of: personal funds (for a sole trader), retained profit, sale of assets. **[2]**
 
 **2.** A fixed cost does not vary with output, e.g. rent. **[1]** A variable cost varies directly with output, e.g. raw materials. **[1]**
 
@@ -85,15 +85,15 @@ and the [IB DP Business Management syllabus guide](/resources/ib-dp-business-man
 **(c)** Risk: a gearing ratio of 65% means the majority of capital employed comes from debt, so the business faces significant interest payment obligations regardless of trading performance, increasing financial risk especially if profits fall. Benefit: if the business earns a return on the borrowed capital greater than the interest cost, high gearing can boost returns to equity holders (shareholders) without diluting ownership through issuing more shares. **[3]**
 **(d)** NPV accounts for the time value of money by discounting future cash flows, giving a more financially accurate picture for long-term, capital-intensive investments where returns are spread over many years and the discount rate materially affects the outcome; however, NPV depends on a chosen discount rate that itself involves judgement and is more complex to calculate and communicate than payback. For quick, lower-risk decisions, or where speed of return matters most (e.g. cash flow-constrained businesses), payback's simplicity remains a valid consideration -- a well-evaluated answer uses more than one method rather than favouring either exclusively. **[3]**
 
-## Why this set stays calculation-led
+## How this set moves between calculation and evaluation
 
-Every Section B and C question in this set requires at least one numerical calculation, mirroring how
-Paper 2's unseen stimulus material is structured around a business's financial data
-rather than abstract definitions. Question 7 deliberately stacks a qualitative explanation (7a), a
-recommendation (7b), an HL-only ratio discussion (7c), and a full evaluate-style question (7d) into one
+Questions 5 and 6 require numerical calculations from given figures, mirroring how Paper 2's unseen
+stimulus material is structured around a business's financial data rather than abstract definitions;
+Question 4 instead applies sources of finance to a scenario without any calculation. Question 7 deliberately stacks a qualitative explanation (7a), a
+recommendation (7b), an HL-only ratio discussion (7c), and an HL-only evaluate-style question on NPV (7d) into one
 scenario, because that is exactly the format Paper 2's final question typically takes -- testing
-whether a student can move fluently between calculation and evaluation within a single business
-context, rather than treating Unit 3's nine sub-topics as isolated calculation drills.
+whether a student can move fluently between interpreting a given financial figure (7c's gearing
+ratio needs no calculation) and evaluation within a single business context, rather than treating Unit 3's nine sub-topics as isolated calculation drills.
 
 ## Official syllabus
 

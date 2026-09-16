@@ -43,7 +43,7 @@ historical content.
   four parts: medieval medicine and the Black Death; the Renaissance's challenge to medical authority and
   inoculation; the germ theory revolution in surgery and public health reform; and modern treatment,
   wartime medical advances, and the creation of the NHS.
-- **BB. Britain: Power and the People, c1170 to the present day** -- the citizen's relationship with the
+- **AB. Britain: Power and the People, c1170 to the present day** -- the citizen's relationship with the
   state across four parts: Magna Carta and the origins of Parliament; the English Revolution and the
   extension of royal challenge; the Great Reform Act, Chartism and workers' movements; and 20th-century
   equality and rights, including women's suffrage and minority rights.
@@ -67,7 +67,7 @@ worth roughly 10% of the whole course) --
 
 ## How the two sections differ in structure
 
-Section A thematic studies span 700-1,200 years and are organised into four chronological parts each,
+Section A thematic studies span roughly 850-1,240 years (c1170, c1000 or c790 to the present day) and are organised into four chronological parts each,
 tracing one theme (health, power, or migration and empire) across the very long term. Section B depth
 studies instead cover a single 20-40 year period in close focus, organised into three content parts plus
 a fourth part devoted specifically to the historic environment. Because of this structural difference,
@@ -80,7 +80,7 @@ Paper 2.
 
 Each thematic study is explicitly built around a small set of recurring factors -- for AA Health and the
 People, these are war, religion, chance, government, communication, science and technology, and the role
-of the individual; similar factor lists exist for BB and AC. A reliable revision structure is to take
+of the individual; similar factor lists exist for AB and AC. A reliable revision structure is to take
 each major development you have studied and ask which of these named factors explains it, and whether
 more than one factor worked together -- the specification explicitly rewards showing how factors
 interacted, not just naming the most obvious single cause. Because these are long-span themes, also
@@ -115,7 +115,7 @@ on this component.
 ## Common mistakes
 
 Revising a thematic study or depth study option your school did not actually choose -- always confirm
-your exact options (for example, "AA Health and the People" rather than "BB Power and the People", and
+your exact options (for example, "AA Health and the People" rather than "AB Power and the People", and
 "BC Elizabethan England" rather than "BA Norman England") before using any revision resource. Treating a
 thematic study as a list of isolated events rather than a connected chain of cause and change across
 centuries. Revising depth-study content and the historic environment component as entirely separate,
@@ -124,7 +124,7 @@ political, social and religious content covered in the depth study's first three
 
 ## Quick revision checklist
 
-- Confirm exactly which thematic study (AA/BB/AC) and which British depth study (BA/BB/BC/BD) your
+- Confirm exactly which thematic study (AA/AB/AC) and which British depth study (BA/BB/BC/BD) your
   school teaches for Paper 2, and which specific historic environment site applies this series.
 - For your thematic study, build a chronological anchor list of major turning points and practise
   explaining each through the specification's named factors (war, religion, government, and so on).

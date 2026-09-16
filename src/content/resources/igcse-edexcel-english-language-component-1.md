@@ -26,8 +26,9 @@ the subject matter of any given exam's texts changes each series. This
 means revision for a Language qualification looks different from
 revision for most other subjects: rather than learning a fixed body of
 content, candidates are building transferable reading and writing
-skills that then get applied to whatever unseen material the exam
-happens to present.
+skills that then get applied to whatever material the exam happens
+to present -- in Section A, one previously unseen extract alongside
+one of the Part 1 anthology texts.
 
 ## Where this fits in 4EA1
 

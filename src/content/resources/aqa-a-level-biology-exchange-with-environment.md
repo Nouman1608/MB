@@ -20,8 +20,9 @@ featured: false
 ---
 
 This guide covers **3.3 Organisms exchange substances with their environment**, the third of eight
-subject-content sections in AQA A-level Biology (7402), and one that spans both the AS and A-level
-years. It builds directly on the cell content of Topic 3.2 and underpins later A-level-only topics on
+subject-content sections in AQA A-level Biology (7402). Sections 1-4 are first-year content and are
+also the whole of the AS (7401) subject content, so this section is assessed on both AS papers and, at
+A-level, on Paper 1 (topics 1-4) and Paper 3 (topics 1-8). It builds directly on the cell content of Topic 3.2 and underpins later A-level-only topics on
 homeostasis and energy transfer. These notes complement the site's guides to
 [Biological Molecules](/resources/aqa-a-level-biology-biological-molecules/) and
 [Eukaryotic and Prokaryotic Cell Structure](/resources/a-level-aqa-biology-eukaryotic-and-prokaryotic-cell-structure/).
@@ -92,12 +93,13 @@ diffusion gradient along the whole length of the gill lamellae, extracting more 
 parallel-flow system could. Mammalian lungs rely on a huge alveolar surface area, a two-cell-thick
 exchange membrane, and continuous ventilation to maintain the gradient.
 
-## Digestion is hydrolysis followed by active or facilitated absorption
+## Digestion is hydrolysis followed by absorption: co-transport or diffusion
 
 Carbohydrates, lipids and proteins are all broken down by hydrolysis into units small enough to cross
 cell membranes, then absorbed by mechanisms specific to each: monosaccharides and amino acids by
-co-transport (linked to sodium ion movement), lipids via micelles that shuttle monoglycerides and fatty
-acids to the membrane for diffusion.
+co-transport with sodium ions (driven by the sodium ion gradient that active transport of sodium out of
+the epithelial cell maintains), lipids via micelles that carry monoglycerides and fatty acids to the
+epithelial cell membrane, across which these lipid-soluble molecules then move by simple diffusion.
 
 ## Worked example: interpreting an oxyhaemoglobin dissociation curve
 

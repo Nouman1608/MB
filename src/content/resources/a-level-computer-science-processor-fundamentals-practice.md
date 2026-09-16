@@ -104,9 +104,9 @@ repeatedly without needing to be rewritten each time the value changes [2–3].
 **(b)** 01101101 AND 00001111 = **00001101** [1].
 
 **8.** The accumulator is a register used to store the results of arithmetic and logical operations
-performed by the ALU [1–2]. During an ADD instruction, the ALU needs access to the accumulator because
-it typically holds one of the operands to be added, and the result of the addition is usually written
-back into the accumulator once the operation completes [1–2].
+performed by the ALU [1]. During an ADD instruction, the ALU needs access to the accumulator because
+it holds one of the operands to be added (the other comes from memory or the instruction) [1], and the
+result of the addition is written back into the accumulator once the operation completes [1].
 
 **9. (a)** AND with the mask 00000100 (a mask with a 1 only in the position of the third bit, bit 2)
 [2].

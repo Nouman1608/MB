@@ -25,9 +25,11 @@ the
 which cover how the course is examined. This guide instead lists what is
 actually taught -- the five content units.
 
-The recommended teaching hours differ between SL and HL for every
-unit except the pre-released statement research time, since HL
-students study an HL extension layer within each unit (marked below)
+The recommended teaching hours differ between SL and HL for Units 2
+to 5 and the toolkit, and are equal for Unit 1, the pre-released
+statement research time and the internal assessment; where they
+differ, it is because HL
+students study an HL extension layer within those units (marked below)
 in addition to the shared content. Recommended hours (SL / HL): Unit 1,
 20 / 20; Unit 2, 20 / 35; Unit 3, 30 / 45; Unit 4, 30 / 35; Unit 5,
 15 / 45; the business management toolkit, 10 / 35; pre-released

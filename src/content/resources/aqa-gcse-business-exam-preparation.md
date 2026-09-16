@@ -98,7 +98,7 @@ reward.
 ## Self-test
 
 1. Why is it worth mapping studied topics to Paper 1 or Paper 2 before revising?
-2. Which two assessment objectives, combined, roughly match or slightly outweigh AO1?
+2. Which two assessment objectives, combined, outweigh AO1, and by roughly how much?
 3. Why do case-study data-response questions reward context-specific answers over generic ones?
 4. In the worked scenario, why is the recommendation to test demand first, rather than committing
    immediately to a full second shop?
@@ -106,7 +106,7 @@ reward.
 **Answers:** 1. Because business topics can sound similar across papers (for example, cash flow under
 Paper 2's finance content versus workforce planning under Paper 1's HRM content), so misallocating
 revision time to the wrong paper is a preventable, avoidable error. 2. AO2 (application) and AO3
-(analysis and evaluation), together roughly 65% of the marks against AO1's roughly 35%. 3. Because
+(analysis and evaluation), together roughly 65% of the marks against AO1's roughly 35% -- close to double. 3. Because
 each paper is built around specific case-study material, and higher-tariff questions expect an answer
 that engages directly with the described business's context, not a generic answer that could apply to
 any business. 4. Because the business is described as small and local, its appeal may depend partly on

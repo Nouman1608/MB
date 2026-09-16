@@ -28,8 +28,8 @@ timed exam conditions. These notes complement the site's guides to
 ## Where this fits in 7702
 
 Papers 1 and 2 test analysis of given or unseen material; the NEA instead asks students to generate
-their own object of study -- either a piece of independent language research, or a piece of original
-writing reflected on through commentary. Both tasks draw on the same underlying methods of language
+their own object of study -- and every student completes both tasks: a piece of independent language
+research (the investigation) and a piece of original writing reflected on through commentary. Both tasks draw on the same underlying methods of language
 analysis taught across the whole specification, applied here to material the student has chosen rather
 than material set by the exam board.
 

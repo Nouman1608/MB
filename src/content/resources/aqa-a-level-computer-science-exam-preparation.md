@@ -9,7 +9,7 @@ qualifications: ["a-level"]
 syllabusCodes: ["7517"]
 syllabusSeries: "For first teaching 2015"
 order: 3
-description: "Why AQA A-Level Computer Science 7517's on-screen Paper 1 needs practice at a machine, how the written Paper 2 differs, where the 20% NEA fits, and a worked routine for the preliminary material."
+description: "Why AQA A-Level Computer Science 7517's on-screen Paper 1 needs practice at a machine, how the written Paper 2 differs, where the 20% NEA fits, and a worked routine for an on-screen programming task."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -33,7 +33,10 @@ which you write and run code. Revision done entirely on paper does not rehearse 
 assessed. **Exam-preparation priority**: practise in the exact environment and language your centre
 uses, without an internet search available, and get fluent at the mechanical parts -- creating a file,
 running it, reading the error message, fixing it. Candidates who are strong programmers but slow with
-their toolchain lose real marks to friction that has nothing to do with computer science.
+their toolchain lose real marks to friction that has nothing to do with computer science. AQA also
+issues Preliminary Material, a Skeleton Program (in each of the programming languages) and, where
+appropriate, test data for use in the exam, so time spent reading, running and adapting that program
+before the day is part of Paper 1 preparation.
 
 ## The NEA is 20% and it is the component most under your control
 

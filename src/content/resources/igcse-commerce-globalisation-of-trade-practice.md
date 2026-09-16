@@ -103,7 +103,7 @@ involved [1].
 **(b)** Upstream: sourcing raw wood from the supplier [1]. Downstream: selling the finished furniture
 to consumers through the manufacturer's own stores [1].
 
-**7.** This represents a **natural disaster** risk [1].
+**7. (a)** This represents a **natural disaster** risk [1].
 **(b)** The business could identify and build relationships with alternative suppliers in different
 locations in advance, so that production can continue, or be resumed more quickly, if one supplier is
 disrupted [2–3]. (Holding additional safety stock, correctly explained, would also gain credit.)
@@ -113,11 +113,14 @@ guarantees are named sources of support [1]. For example, an insurance guarantee
 exporting business against the risk of non-payment by the overseas buyer, reducing the financial risk
 of trading with an unfamiliar customer for the first time [2].
 
-**9.** Any one, correctly explained: different currencies and foreign exchange rate fluctuations could
-change the actual cost of a transaction between the time it is agreed and the time payment is made
-[1–2]; different legal systems between the importer's and exporter's countries could make resolving a
-dispute more complicated than a purely domestic transaction [1]; or documentation and customs duties
-could add cost, delay and administrative complexity compared with a domestic purchase [1–2].
+**9.** One challenge, other than the cost of transport: identifying the challenge [1], explaining how
+it affects the importer [1], and developing the consequence for the importer's business [1]. For
+example: foreign exchange rates [1] — the importer's own currency may weaken between agreeing the price
+and paying the overseas supplier [1], so the goods cost more than planned and the importer's profit
+margin is squeezed or its selling prices must rise [1]. Other challenges developed in the same way gain
+the same three marks: different legal systems (a dispute with the supplier is harder and costlier to
+resolve than a domestic one), documentation and customs duties (extra cost, delay and paperwork before
+the goods can be sold), or language (misunderstood orders or contract terms).
 
 ## A note on exam technique for this topic
 

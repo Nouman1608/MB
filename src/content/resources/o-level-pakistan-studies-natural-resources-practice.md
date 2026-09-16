@@ -103,9 +103,10 @@ water flow [2].
 coasts; inland fishing takes place in rivers, lakes and fish farms
 [2].
 
-**5.** Any correctly identified metallic mineral (for example, from
-Pakistan's metallic mineral resources) and any correctly identified
-non-metallic mineral, such as limestone, gypsum or rock salt [2].
+**5.** One metallic mineral, for example copper, iron ore or
+chromite [1], and one non-metallic mineral, for example limestone,
+gypsum or rock salt [1]. Accept any other correctly identified
+metallic or non-metallic mineral resource of Pakistan.
 
 **6. (a)** The treaty was needed to divide and manage the shared use
 of the Indus river system's waters between the countries through

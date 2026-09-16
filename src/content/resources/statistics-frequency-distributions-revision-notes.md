@@ -117,8 +117,9 @@ not just each representation in isolation.
 requires only class boundaries, midpoints and widths, since for continuous data the stated limits and the
 boundaries coincide, so only the boundaries need to be examined separately. 2. Whenever class widths are unequal; frequency density = frequency ÷ class width. 3. Each
 class's midpoint, plotted against its frequency; this differs from a histogram, which uses bars
-positioned at class boundaries rather than single points at midpoints. 4. Subtract each cumulative
-total from the one before it (or from the running total up to the previous class boundary). 5. Read a
+positioned at class boundaries rather than single points at midpoints. 4. From each cumulative
+total, subtract the cumulative total before it (the running total up to the previous class boundary);
+the first class's frequency is its own cumulative total. 5. Read a
 value from the horizontal axis; read a cumulative frequency from the vertical axis.
 
 ## Why this topic matters beyond itself

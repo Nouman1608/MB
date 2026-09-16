@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "component-2-individual-report-0457"
-description: "Exam-style questions with full worked answers on framing a research question, structuring the report against the marking criteria, evaluating sources, and explaining contrasting perspectives, for Cambridge IGCSE Global Perspectives (0457) Component 2."
+description: "Exam-style questions with full worked answers on framing a research question, structuring the report to the syllabus's recommended sequence and assessment objectives, evaluating sources, and explaining contrasting perspectives, for Cambridge IGCSE Global Perspectives (0457) Component 2."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -106,47 +106,57 @@ the teacher's role limited to guiding its feasibility [1].
 **4. (a)** "Deforestation" is a broad topic title with no built-in
 place, specific issue, or perspectives, so it gives no structure for
 organising 1500–2000 words of research and analysis [2].
-**(b)** For example: "Should governments in tropical countries
-prioritise economic development over rainforest conservation when the
-two goals conflict?" [2, allow any research question that builds in a
-specific issue and at least two perspectives].
+**(b)** For example: "Should Indonesia allow palm-oil plantations to
+expand into the rainforests of Kalimantan (Indonesian Borneo), given the conflicting
+perspectives of plantation workers, Indigenous communities and
+international environmental groups?" [1 for a question naming a
+specific place and a specific issue; 1 for building in room for at
+least two different perspectives. Allow any research question that
+does all three; a question with no named place, such as one about
+"tropical countries" in general, cannot gain the first mark].
 
-**5. (a)** Not automatically: the syllabus does not publish a mark
-scheme or detailed marking criteria for this component, so there is no
-published rule that marks depend on following a specific structure.
-However, the recommended sequence (issue and perspectives, causes and
+**5. (a)** Not automatically: Cambridge's specimen mark scheme for
+this component marks the report against eight level-based tables (the
+global issue; causes and consequences; perspectives; courses of action;
+evaluation of evidence and sources; reflection; structure and clarity;
+referencing), and none of them requires one particular order. However,
+the recommended sequence (issue and perspectives, causes and
 consequences, evaluated courses of action, reflection and conclusion)
-maps directly onto everything the syllabus says the report should
-cover, so a persuasive essay built in a different order makes it easy
-to leave a required element -- such as a clearly evaluated course of
-action, or explicit reflection -- under-developed or hard to find,
-which is what actually risks losing marks, not the reordering itself
-[2].
+maps directly onto those tables, and structure and clarity is itself
+marked, so a persuasive essay built in a different order makes it easy
+to leave a required element -- such as two evaluated courses of action
+with a justified preferred option, or explicit reflection --
+under-developed or hard to find, which is what actually risks losing
+marks, not the reordering itself [2].
 **(b)** Explain the issue and its different perspectives; analyse
 causes and consequences; evaluate possible courses of action and
 propose one; reflect and conclude, directly answering the research
 question [2].
 
-**6. (a)** This affects the evaluation criterion, since evaluating
-sources — not just citing them — is part of what is specifically
-assessed [2].
+**6. (a)** It affects the criterion for evaluation of evidence and
+sources (AO1 Research, analysis and evaluation) [1], since evaluating
+sources — explaining their value to the research and whether they are
+reliable and credible — not just citing them, is what that criterion
+rewards; citing sources without evaluating any of them leaves that criterion's marks largely out of reach [1].
 **(b)** An evaluation should state the source's value to the research,
 and whether it is reliable and credible [2].
 
 **7. (a)** This is incomplete because simply stating that two groups
 disagree does not demonstrate understanding of why their perspectives
-differ, which is what the perspectives criterion specifically requires
-[2].
+differ, which is what the perspectives criterion requires: each
+perspective must be presented and explained, with supporting
+information, and the syllabus asks candidates to show why different
+people hold different perspectives [2].
 **(b)** The candidate should explain the different pressures or
 priorities driving each government's view — for example, the upstream
 government prioritising its own agricultural water use, against the
 downstream government facing water shortages as a result [2].
 
 **8. (a)** Reconstructing a reference list from memory risks
-inaccurate or incomplete citations, and incomplete or inconsistent
-referencing is one of the most common reasons reports lose marks on
-the communication criterion (citations and references sit under AO3
-Communication, not AO1 Evaluation) [2].
+inaccurate or incomplete citations [1], and the referencing criterion
+(AO3 Communication, not AO1 evaluation) rewards citation and
+referencing that are complete, use a consistent method and link
+clearly to each other [1].
 **(b)** Keep a running reference list from the first source read,
 updating it as each new source is used throughout the research process
 [1].
@@ -177,9 +187,9 @@ in room for at least two genuinely contrasting perspectives will make
 every later stage of the report easier to structure. Build the report
 broadly in the sequence the syllabus recommends — issue and
 perspectives, then causes and consequences, then evaluated courses of
-action, then reflection and conclusion. Cambridge does not publish a
-mark scheme for this component, so there is no rule that scores a
-differently-ordered report lower purely for its structure — but the
-recommended sequence maps onto everything the syllabus says the report
-should cover, so following it makes every requirement far easier to
-evidence clearly.
+action, then reflection and conclusion. Cambridge's mark scheme for
+this component has no rule that scores a differently-ordered report
+lower purely for its order — but the recommended sequence maps onto
+everything the marking criteria reward, and structure and clarity are
+marked in their own right, so following it makes every requirement far
+easier to evidence clearly.

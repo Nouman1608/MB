@@ -136,13 +136,14 @@ underlying claim with stronger experimental control.
 - Apply the cognitive approach's key concepts (schema, reconstructive memory, information-processing)
   to a novel scenario, not just a memorised study.
 
-## Building genuine comparison with the other two approaches
+## Comparing approaches as a revision tool
 
-Paper 1's essay question sometimes explicitly asks students to compare two approaches applied to the
-same behaviour. Prepare at least one worked comparison in advance — for example, memory explained
-cognitively (information-processing, reconstructive memory) versus biologically (brain structures,
-neurochemistry) — so that on exam day you are adapting a rehearsed comparison rather than improvising
-one from separately memorised facts about each approach.
+Comparing how two approaches explain the same behaviour is a revision tool, not an essay format: the
+Paper 1 essay is answered from a single approach, with no separate credit for bringing in a second (see
+the [exam preparation notes](/resources/ib-dp-psychology-exam-preparation/)). Working through one
+comparison in advance — for example, memory explained cognitively (information-processing,
+reconstructive memory) versus biologically (brain structures, neurochemistry) — still pays off, because
+it trains you to recognise which approach a question is asking for and to keep your answer within it.
 
 ## Self-test
 

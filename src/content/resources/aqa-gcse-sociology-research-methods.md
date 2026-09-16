@@ -3,7 +3,7 @@ title: "AQA GCSE Sociology: Sociological Research Methods, Section 3.7 (8192)"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["gcse"]
-topic: "Paper 1 -- Families and Education"
+topic: "Sociological Research Methods -- examined across Papers 1 and 2"
 boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8192"]
@@ -12,6 +12,7 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "paper-1-families-and-education-8192"
+    subtopic: "sociological-research-methods-8192"
 description: "Research design, data types, and practical and ethical issues in sociological investigation -- Section 3.7, examined across both papers, distinct from the site's existing content-focused guides to Families, Education, Crime and Social Stratification."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09

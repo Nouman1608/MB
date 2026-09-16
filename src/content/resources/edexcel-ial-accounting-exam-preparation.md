@@ -32,8 +32,8 @@ and
 This is a much denser paper than most A-level candidates will have met. At 0.9 minutes per mark, a
 55-mark Section A question has roughly 50 minutes and a 30-mark Section B question roughly 27.
 **Exam-preparation priority**: rehearse against those figures explicitly, because the intuition
-carried over from 100-mark papers -- where a mark is worth a minute and a half -- will leave you an
-hour short. This single arithmetic fact is the most useful thing to internalise about the paper.
+carried over from 100-mark papers -- where a mark is worth a minute and a half -- would need 300
+minutes for 200 marks and leave you two hours short. This single arithmetic fact is the most useful thing to internalise about the paper.
 
 ## The two Section A questions are compulsory and carry 110 of 200 marks
 
@@ -112,7 +112,7 @@ most reliable way to lose the second one.
 4. What distinguishes an evaluative answer that scores well?
 
 **Answers:** 1. About 0.9 minutes per mark (180 minutes for 200 marks), against roughly 1.5 on a
-100-mark paper -- so the familiar pacing intuition leaves a candidate badly short. 2. Section A's two
+100-mark paper -- so the familiar pacing intuition would need 300 minutes and leaves a candidate two hours short. 2. Section A's two
 compulsory 55-mark questions are 110 of 200 marks; the choice is in Section B only, where three
 questions of 30 marks are chosen from four. 3. Because the exam provides no template, so headings,
 ordering and dates must be produced from memory -- and a rehearsed layout is faster under time

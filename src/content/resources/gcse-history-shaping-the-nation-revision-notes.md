@@ -27,10 +27,10 @@ Paper 2 = **one thematic study (Section A)** + **one British depth study includi
 ## Section A: thematic studies (choose one)
 
 - **AA. Health and the People, c1000–present** — medieval medicine/Black Death → Renaissance challenge to authority/inoculation → germ theory/surgery/public health reform → modern treatment/wartime advances/NHS.
-- **BB. Power and the People, c1170–present** — Magna Carta/origins of Parliament → English Revolution/extension of royal challenge → Great Reform Act/Chartism/workers' movements → 20th-century equality/rights (suffrage, minority rights).
+- **AB. Power and the People, c1170–present** — Magna Carta/origins of Parliament → English Revolution/extension of royal challenge → Great Reform Act/Chartism/workers' movements → 20th-century equality/rights (suffrage, minority rights).
 - **AC. Migration, Empires and the People, c790–present** — Viking/Norman invasions → colonisation of Caribbean/North America → expansion in India/Africa → end of Empire/20th-century legacy (incl. Windrush).
 
-Span 700–1,200 years, four chronological parts each. Reward tracing **one thread of change across centuries**.
+Span roughly 850–1,240 years (c1170, c1000 or c790 to the present), four chronological parts each. Reward tracing **one thread of change across centuries**.
 
 ## Section B: British depth studies (choose one)
 
@@ -43,7 +43,7 @@ Single 20–40 year period, close focus, three content parts **plus a fourth par
 
 ## Approaching the thematic study — named factors
 
-Each thematic study is built around recurring named factors (for AA: war, religion, chance, government, communication, science and technology, role of the individual — similar lists exist for BB/AC). For each major development, ask which factor(s) explain it, and whether **more than one factor worked together** — the specification rewards showing factor interaction, not just the single most obvious cause. Build a chronological anchor list of major turning points (for AA: Black Death, Jenner's vaccination, germ theory revolution, creation of the NHS).
+Each thematic study is built around recurring named factors (for AA: war, religion, chance, government, communication, science and technology, role of the individual — similar lists exist for AB/AC). For each major development, ask which factor(s) explain it, and whether **more than one factor worked together** — the specification rewards showing factor interaction, not just the single most obvious cause. Build a chronological anchor list of major turning points (for AA: Black Death, Jenner's vaccination, germ theory revolution, creation of the NHS).
 
 ## Approaching the depth study — connect the strands
 
@@ -56,7 +56,7 @@ Use the [Historic Environment revision notes](/resources/gcse-history-historic-e
 
 ## Worked example: multi-factor explanation
 
-Take a major development from AA Health and the People: the germ theory revolution improving surgery and prompting public health reform. A weak answer names one factor: "science and technology improved because of germ theory." A stronger answer traces how multiple named factors combined: **science and technology** (Pasteur and Koch's germ theory research providing the underlying breakthrough), **government** (public health legislation following from the new understanding of disease causation), and **communication** (medical findings spreading between researchers and into public health practice faster than in earlier centuries). Explaining that the development happened *because these factors reinforced each other*, not because any single one operated in isolation, is what separates a factor-interaction answer from a single-cause one — and this same multi-factor structure applies equally to BB Power and the People or AC Migration, Empires and the People, using their own respective factor lists.
+Take a major development from AA Health and the People: the germ theory revolution improving surgery and prompting public health reform. A weak answer names one factor: "science and technology improved because of germ theory." A stronger answer traces how multiple named factors combined: **science and technology** (Pasteur and Koch's germ theory research providing the underlying breakthrough), **government** (public health legislation following from the new understanding of disease causation), and **communication** (medical findings spreading between researchers and into public health practice faster than in earlier centuries). Explaining that the development happened *because these factors reinforced each other*, not because any single one operated in isolation, is what separates a factor-interaction answer from a single-cause one — and this same multi-factor structure applies equally to AB Power and the People or AC Migration, Empires and the People, using their own respective factor lists.
 
 ## Why confirming your exact options matters more on this paper than it might seem
 
@@ -64,7 +64,7 @@ Because AQA publishes four distinct depth-study options and three distinct thema
 
 ## Exam traps
 
-- Revising the wrong thematic study or depth study option — always confirm exact options (e.g. "AA" not "BB") first.
+- Revising the wrong thematic study or depth study option — always confirm exact options (e.g. "AA" not "AB") first.
 - Treating a thematic study as isolated events instead of a connected chain of cause and change across centuries.
 - Revising the historic environment component as entirely separate from the depth study's other three parts.
 - Naming only the single most obvious factor for a thematic-study development, missing marks for factor interaction.
@@ -79,4 +79,4 @@ Because AQA publishes four distinct depth-study options and three distinct thema
 5. Why does the specification reward showing factor interaction rather than a single cause?
 6. What is the most common way marks are lost on the historic environment component?
 
-**Answers:** 1. Section A: one thematic study; Section B: one British depth study including historic environment. 2. Thematic: AA Health and the People, BB Power and the People, AC Migration, Empires and the People. Depth: BA Norman England, BB Edward I, BC Elizabethan England, BD Restoration England. 3. Thematic studies span 700–1,200 years across four chronological parts; depth studies cover a single 20–40 year period across three content parts plus a historic-environment fourth part. 4. Any two of: war, religion, chance, government, communication, science and technology, role of the individual. 5. Because most major developments in a long-span theme are explained by more than one factor working together, not a single isolated cause, and the specification specifically rewards showing that interaction. 6. Naming the site's feature without connecting it back to a specific event or development from the wider depth study.
+**Answers:** 1. Section A: one thematic study; Section B: one British depth study including historic environment. 2. Thematic: AA Health and the People, AB Power and the People, AC Migration, Empires and the People. Depth: BA Norman England, BB Edward I, BC Elizabethan England, BD Restoration England. 3. Thematic studies span roughly 850–1,240 years across four chronological parts; depth studies cover a single 20–40 year period across three content parts plus a historic-environment fourth part. 4. Any two of: war, religion, chance, government, communication, science and technology, role of the individual. 5. Because most major developments in a long-span theme are explained by more than one factor working together, not a single isolated cause, and the specification specifically rewards showing that interaction. 6. Naming the site's feature without connecting it back to a specific event or development from the wider depth study.

@@ -127,9 +127,9 @@ different table) — these are tested as a pair, and mixing them up is
 one of the most common Theme A errors. Treating A.4 as purely
 technical and omitting the ethical dimension, when the course syllabus
 brief explicitly frames raising ethical issues as one of the course's
-defining characteristics. Using everyday, informal LAN/WAN terminology
-rather than the syllabus's own vocabulary (client, server, protocol)
-in exam answers.
+defining characteristics. Defining LAN, WAN and other A.2 terms in
+everyday, informal language rather than with the syllabus's own
+vocabulary (client, server, protocol) in exam answers.
 
 ## Quick revision checklist
 

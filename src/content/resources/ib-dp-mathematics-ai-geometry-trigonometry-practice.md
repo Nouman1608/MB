@@ -74,7 +74,7 @@ and [revision notes](/resources/ib-dp-mathematics-ai-geometry-trigonometry-revis
 
 **3.** The values of the two parameters ($t$ and $s$, or equivalent) found from any two of the three component equations must also satisfy the third component equation -- this consistency check is what confirms genuine intersection rather than the lines simply passing near each other in three dimensions. **[2]**
 
-**4.** $c^2 = a^2 + b^2 - 2ab\cos C = 8^2 + 11^2 - 2(8)(11)\cos 52° = 64 + 121 - 176\cos 52° = 185 - 176(0.6157) = 185 - 108.36 = 76.64$. $c = \sqrt{76.64} = 8.755... \approx 8.76$ cm. **[3]**
+**4.** $c^2 = a^2 + b^2 - 2ab\cos C = 8^2 + 11^2 - 2(8)(11)\cos 52° = 64 + 121 - 176\cos 52° = 185 - 176(0.6157) = 185 - 108.36 = 76.64$. $c = \sqrt{76.64} = 8.7544... \approx 8.75$ cm. **[3]**
 
 **5.** By the sine rule, $\dfrac{b}{\sin B} = \dfrac{a}{\sin A}$, so $b = \dfrac{a \sin B}{\sin A} = \dfrac{10 \sin 65°}{\sin 40°} = \dfrac{10(0.9063)}{0.6428} = \dfrac{9.063}{0.6428} = 14.10...$ $\approx 14.1$ cm. **[3]**
 

@@ -27,9 +27,11 @@ same paper**. This is a recent specification: first teaching September 2023, fir
 
 Moving between multiple choice and extended prose within a single sitting is a skill in itself.
 **Exam-preparation priority**: practise the transition rather than the two formats separately.
-Specifically, practise finishing the multiple-choice section briskly and switching into extended
-writing without a long warm-up -- the essay-style questions carry the larger share of the marks and
-should not inherit a depleted clock.
+Specifically, practise finishing the multiple-choice questions briskly and switching into extended
+writing without a long warm-up -- the ten multiple-choice questions only open Section A, and the rest
+of each paper's 80 marks (the calculation, short-answer and extended-response questions that complete
+Section A's 48 marks, and all of Section B's 32) is written work that should not inherit a depleted
+clock.
 
 ## The paper titles are the revision structure
 

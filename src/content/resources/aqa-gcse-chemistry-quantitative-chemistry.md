@@ -18,8 +18,10 @@ publishedDate: 2026-09-09
 featured: false
 ---
 
-This guide covers **4.3 Quantitative chemistry**, the third of eleven subject-content topics in AQA
-GCSE Chemistry (8462), first teaching September 2016. It is the qualification's main calculation-based
+This guide covers **4.3 Quantitative chemistry**, the third of the ten assessed subject-content topics in AQA
+GCSE Chemistry (8462), first teaching September 2016 (the specification's eleventh section, 4.11 Key
+ideas, is embedded throughout the other ten rather than being a separate topic; Paper 1 assesses
+topics 1-5 and Paper 2 topics 6-10). It is the qualification's main calculation-based
 topic, and the mole concept introduced here underpins later topics on chemical changes and rates of
 reaction. These notes complement the site's guides to
 [Atomic Structure and the Periodic Table](/resources/gcse-aqa-chemistry-atomic-structure-and-periodic-table/)

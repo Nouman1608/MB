@@ -75,15 +75,16 @@ and [revision notes](/resources/aqa-a-level-business-managers-leadership-revisio
 
 ## A note on command words in this set
 
-"Identify" and "state" (questions 2, 3, 6b) want a concise, direct answer with no justification
-required -- writing an extended paragraph for these wastes time without earning extra marks, since the
-mark scheme caps credit at the stated fact. "Justify" and "recommend" (questions 4a, 5a) require a
+"State" (questions 2 and 6b) wants a concise, direct answer with no justification required --
+writing an extended paragraph for these wastes time without earning extra marks, since the mark scheme
+caps credit at the stated fact. "Distinguish" (question 3) is almost as brief but needs both sides of
+the difference made explicit: one clear point about management set against one about leadership. "Justify" and "recommend" (questions 4a, 5a) require a
 clear decision plus reasoning tied specifically to the scenario's details, not a generic explanation of
 the concept in the abstract -- question 4(a)'s three marks are not available for defining intuitive
 decision making in general, but for correctly applying it to this scenario's specific combination of
 limited data and relevant manager experience. "Evaluate" (question 6c) is the most demanding command
 word in this set and requires a balanced argument reaching a reasoned, context-dependent conclusion,
-which is why it alone carries six of the fifteen marks available across Section C.
+which is why it alone carries six of the eleven marks available across Section C.
 
 ## Why question 6 does not stop at the calculation
 

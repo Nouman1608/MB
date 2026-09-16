@@ -58,8 +58,8 @@ data or method and suggesting genuine, specific improvements, not generic ones l
 **Worked example:** After collecting reaction-rate data across several concentrations, top-band
 evidence presents the data in an appropriately labelled graph, correctly identifies the trend,
 explains that trend using the relevant scientific concept (e.g. collision theory), and then evaluates
-a specific limitation of the actual method used (e.g. that reaction start-time was judged by eye,
-introducing timing error) with a specific, targeted improvement (e.g. using a colorimeter to detect
+a specific limitation of the actual method used (e.g. that the reaction's endpoint, a colour change,
+was judged by eye, introducing timing error) with a specific, targeted improvement (e.g. using a colorimeter to detect
 the reaction's endpoint automatically) rather than a vague suggestion.
 
 ## Criterion D: Reflecting on the impacts of science

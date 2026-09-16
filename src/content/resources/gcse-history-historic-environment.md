@@ -29,10 +29,10 @@ with one British depth study (Section B), and the Historic Environment
 element sits within Section B, tied specifically to whichever British
 depth study a school teaches, as covered by the [Paper 2 Shaping the
 Nation study guide](/resources/gcse-history-shaping-the-nation-options/).
-The specific historic sites in scope change by examination series and
-depend on which depth study applies, so this guide covers the skills
-the study tests — which stay constant — rather than any one series'
-specific sites; always confirm the current sites with your teacher
+AQA specifies one site for each depth study and changes it annually,
+so this guide covers the skills the study tests — which stay constant —
+rather than any one series' specific site; always confirm the current
+site with your teacher
 before revising site-specific detail.
 
 ## Syllabus coverage
@@ -40,8 +40,8 @@ before revising site-specific detail.
 **AQA GCSE HISTORY (8145) — PAPER 2, SECTION B: THE HISTORIC
 ENVIRONMENT STUDY**
 
-The element links a set of specified historic sites to your chosen
-British depth study and assesses your ability to:
+The element links one specified historic site, changed annually, to
+your chosen British depth study and assesses your ability to:
 
 - Explain the **significance** of features of a site — why they
 mattered at the time
@@ -51,14 +51,17 @@ developments or ways of life
 continuity, significance — applied to a physical place, not just a
 written source
 
-The element is assessed across two question types within Section B:
-a two-part Section A-style question moving from description to
-explanation (a lower-tariff, 4-mark question describing a specific
-site feature, followed by an 8-mark question explaining what that
-feature reveals about the wider historical period), and a
-higher-tariff, 16-mark Section B judgement question, typically phrased
-as "how far do you agree," which requires a sustained, weighed
-argument rather than description or a single explained link.
+The element is assessed by one question: the fourth and final
+question of Section B, an essay linked to your specified site worth 16
+marks (8 AO1, 8 AO2), with no spelling, punctuation and grammar marks
+attached. It is an essay requiring a judgement, drawing on change,
+continuity, cause and/or consequence, and it tests the relationship
+between the site and the wider events and developments of the period
+— so it needs a sustained, weighed argument rather than description or
+a single explained link. The other three Section B questions (an 8-mark
+interpretation question, an 8-mark explanation question and an 8-mark
+narrative account) are set on the depth study's other three parts, not
+on the site.
 
 ## How to approach it
 
@@ -97,11 +100,11 @@ SIGNIFICANCE   -> why this connection matters, or what it tells
                   historians about the period
 ```
 
-Applying this same four-step structure to a 4-mark description
-question, an 8-mark explanation question, or the 16-mark judgement
-question is what makes the skill genuinely transferable — the
-structure does not change, only how much of it a given question
-tariff requires you to develop in writing.
+In the 16-mark essay, apply this same four-step structure to each
+of the two or three site features you use, then weigh what those
+features show to reach an overall judgement — the structure does not
+change from feature to feature, which is what makes it reliable under
+exam pressure.
 
 ## Why this element is examined differently
 
@@ -129,19 +132,19 @@ from. Relying on a previous examination series' list of specified
 sites rather than confirming the current list with your teacher.
 Writing only about what a site looked like without addressing why that
 matters historically — description alone, however detailed, does not
-satisfy the explanation or judgement demands of the higher-tariff
-questions.
+satisfy the explanation and judgement demands of the 16-mark site
+essay.
 
 ## Quick revision checklist
 
-- Confirm the current specified sites for your examination series with
+- Confirm the current specified site for your examination series with
   your teacher before revising site-specific detail.
 - Build a bank of five or six well-known features of your site, each
   with a prepared Feature-Context-Link-Significance note.
-- Practise moving from a 4-mark description to an 8-mark explanation
-  of the same feature, allocating roughly twice the writing time to
-  the explanation.
-- For the 16-mark judgement question, practise taking a clear early
+- Practise moving from a precise description of each feature to an
+  explanation of what it reveals about the period, within a full
+  timed 16-mark essay.
+- For the 16-mark site essay, practise taking a clear early
   position and weighing specific site evidence against the
   alternative view the question raises.
 - Always connect Historic Environment content back to your chosen
@@ -153,5 +156,5 @@ questions.
 AQA GCSE History (8145), Paper 2 subject content —
 [aqa.org.uk](https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification/subject-content/shaping-the-nation),
 verified 2026-09-06. Always confirm your centre's specific chosen
-depth study and current historic environment sites with your teacher,
-since both are updated periodically by AQA.
+depth study and the current historic environment site with your
+teacher, since AQA changes the specified site annually.

@@ -18,8 +18,9 @@ publishedDate: 2026-09-09
 featured: false
 ---
 
-This guide covers **4.3 Infection and response**, the third of eight subject-content topics in AQA GCSE
-Biology (8461), first teaching September 2016. Topics 4.1-4.4 (Cell Biology, Organisation, Infection and
+This guide covers **4.3 Infection and response**, the third of the seven assessed subject-content topics in AQA
+GCSE Biology (8461), first teaching September 2016 (the specification's eighth section, 4.8 Key ideas, is
+embedded throughout the other seven rather than being a separate topic). Topics 4.1-4.4 (Cell Biology, Organisation, Infection and
 Response, Bioenergetics) are assessed on Paper 1. Two subsections here -- monoclonal antibodies and plant
 disease -- are Biology-only content that does not appear in Combined Science: Trilogy. These notes
 complement the site's guides to [Cell Biology](/resources/aqa-gcse-biology-cell-biology/) and
@@ -74,15 +75,17 @@ intervenes -- vaccination, antibiotics, and the drug-development process.
   wider use
 - **4.3.3 Plant disease** (Biology only): detection by stunted growth, leaf spots, decay, abnormal
   growths, malformed stems/leaves, discolouration, or pests (Higher Tier); identification via gardening
-  references, laboratory pathogen ID, or monoclonal-antibody test kits (Higher Tier); ion deficiencies
+  references, laboratory pathogen ID, or monoclonal-antibody test kits (Higher Tier); plants infected by
+  viral, bacterial and fungal pathogens and by insects, with knowledge of specific plant diseases
+  restricted to TMV (viral), black spot (fungal) and aphids (insects); ion deficiencies
   (nitrate deficiency causing stunted growth, magnesium deficiency causing chlorosis); physical defences
   (cellulose cell walls, waxy cuticle, bark); chemical defences (antibacterial chemicals, poisons
   deterring herbivores); mechanical adaptations (thorns, hairs, leaf curling, mimicry)
 
 ## How to approach it
 
-Learn the five disease examples (measles, HIV, TMV, salmonella, gonorrhoea, rose black spot, malaria --
-seven in total across four pathogen types) as a fixed set with their pathogen type, spread method and
+Learn the seven named disease examples (measles, HIV, TMV, salmonella, gonorrhoea, rose black spot,
+malaria -- across four pathogen types) as a fixed set with their pathogen type, spread method and
 key symptoms, since exam questions frequently ask you to identify or compare across this named list. The
 clinical trials sequence -- preclinical, then low-dose clinical, then optimum-dose clinical, with
 double-blind placebo trials -- is a common structured-question topic, so learn it as an ordered sequence
@@ -129,8 +132,10 @@ influence).
 Confusing which pathogen type causes which named disease. Describing vaccination as directly killing a
 pathogen (it stimulates the immune system to produce antibodies in advance, it does not act as a direct
 treatment). Stating antibiotics can treat viral infections. Confusing monoclonal antibody production
-(from a single hybridoma cell clone) with general antibody production by the immune system. Omitting
-that plant disease knowledge is restricted to TMV, black spot and aphids specifically.
+(from a single hybridoma cell clone) with general antibody production by the immune system. Revising
+extra named plant diseases: the specification restricts knowledge of specific plant diseases to TMV (a
+virus), black spot (a fungus) and aphids (insect pests, not pathogens) -- but detection, identification,
+ion deficiencies and plant defence responses are still required content.
 
 ## Quick revision checklist
 

@@ -76,8 +76,8 @@ vs open-source, GUI vs command line) rather than isolated definitions.
 
 The mainframe/supercomputer distinction is a common source of confused
 answers: both are large-scale systems, but mainframes are built for
-reliability and high-volume transaction throughput (census processing,
-banking), while supercomputers are built for raw processing speed on
+high-volume transaction throughput (census processing, banking), while
+supercomputers are built for raw processing speed on
 computation-heavy problems (weather modelling, quantum simulation).
 Keep the *use case* attached to each term when revising, not just the
 name.
@@ -87,9 +87,11 @@ a named term rather than three loose ideas: reliability is how rarely a
 system fails, availability is how much of the time it is usable
 (accounting for planned maintenance as well as failures), and
 serviceability is how quickly and easily it can be repaired when
-something does go wrong. Mainframes are built to score highly on all
-three because the transaction processing they run — census systems,
-banking — cannot tolerate long unplanned outages; fault tolerance
+something does go wrong. The syllabus lists RAS among the
+characteristics of both classes, so RAS on its own does not separate a
+mainframe from a supercomputer; it is especially visible in mainframe
+answers because the transaction processing they run — census systems,
+banking — cannot tolerate long unplanned outages. Fault tolerance
 (the ability to keep running, often in a degraded state, when a
 component fails) is a closely related idea worth distinguishing from
 simple reliability.
@@ -131,7 +133,7 @@ interpreter (a compiler translates and stores an entire program before
 execution; an interpreter translates and executes line by line, which is
 why development-stage code is often run through an interpreter first).
 Treating "mainframe" and "supercomputer" as interchangeable terms rather
-than distinguishing reliability/throughput-focused systems from
+than distinguishing transaction-throughput-focused systems from
 raw-processing-speed systems. Naming a user interface type without
 matching it to a suitable real-world use, such as a command line
 interface for a systems administrator versus a graphical interface for a

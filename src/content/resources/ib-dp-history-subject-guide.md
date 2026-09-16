@@ -69,8 +69,9 @@ mix of source-based, essay and investigative work, weighted differently at
 SL and HL. At SL, external assessment is worth 70% of the final grade:
 Paper 1 (1 hour 15 minutes, worth 30%) asks students to work with historical
 sources linked to one of five focused-study options; Paper 2 (1 hour 45
-minutes, worth 40%) requires a concept-based response plus an extended essay
-drawn from one of four thematic-study options. The remaining 30% is the
+minutes, worth 40%) requires a response to a concept question (Section A)
+plus a two-part question -- a short response and an essay -- on one of four
+thematic-study options (Section B). The remaining 30% is the
 internally assessed historical investigation, in which students formulate
 their own inquiry question, select and evaluate sources, and write up their
 findings -- moderated externally by the IB.

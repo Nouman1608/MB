@@ -119,15 +119,18 @@ justify your design choices and discuss your findings, since
 consistency between your taught content and your own research
 strengthens the write-up's methodological grounding.
 
-## Building genuine comparison with the other two approaches
+## Comparing approaches as a revision tool
 
-Paper 1's essay question sometimes explicitly asks students to compare
-two approaches applied to the same behaviour. Prepare at least one
-worked comparison in advance -- for example, memory explained
-cognitively (information-processing, reconstructive memory) versus
-biologically (brain structures, neurochemistry) -- so that on exam day
-you are adapting a rehearsed comparison rather than improvising one
-from separately memorised facts about each approach.
+Comparing how two approaches explain the same behaviour is a revision
+tool, not an essay format: the Paper 1 essay is answered from a single
+approach, with no separate credit for bringing in a second (see the
+[exam preparation notes](/resources/ib-dp-psychology-exam-preparation/)).
+Working through one comparison in advance -- for example, memory
+explained cognitively (information-processing, reconstructive memory)
+versus biologically (brain structures, neurochemistry) -- still pays
+off, because it trains you to recognise which approach a question is
+asking for and to keep your answer within it, rather than blending
+explanations without saying which approach is doing the work.
 
 ## How to approach it
 

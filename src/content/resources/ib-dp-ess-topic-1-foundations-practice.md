@@ -77,10 +77,11 @@ Explain what the ecological footprint indicator would be expected to show for ea
 
 ## Why this set keeps applying Topic 1's vocabulary to unfamiliar scenarios
 
-Every question in this set deliberately places Topic 1's three concepts -- environmental value
+Section A (questions 1-3) checks the bare definitions and distinctions first. Every question after
+that, from question 4 to question 7, then places Topic 1's three concepts -- environmental value
 systems, systems thinking and sustainability -- into an unfamiliar scenario rather than asking for a
-bare definition alone, because the study guide identifies this kind of transfer, not definition
-recall, as what the specification tests throughout the course. Question 6 in particular is written to
+definition alone, because the study guide stresses that these concepts are revisited throughout the
+course and must be applied to unfamiliar content in later topics, not only recalled. Question 6 in particular is written to
 penalise an answer that mislabels a stabilising effect as "positive feedback" simply because the
 outcome (worse flooding) sounds negative in the everyday sense -- exactly the common exam error the
 study guide flags.

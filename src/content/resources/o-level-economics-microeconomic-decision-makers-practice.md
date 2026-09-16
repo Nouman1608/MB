@@ -12,7 +12,7 @@ order: 4
 syllabusTopics:
   - qualification: "o-level"
     topic: "microeconomic-decision-makers"
-description: "Original exam-style practice questions with full worked answers on money and banking, households, workers, trade unions, firms and costs/revenue calculations, for Cambridge O Level Economics (2281) Topic 3."
+description: "Original exam-style practice questions with full worked answers on households, workers, trade unions, firms (mergers, small firms, productivity and production methods) and costs/revenue calculations, for Cambridge O Level Economics (2281) Topic 3."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false

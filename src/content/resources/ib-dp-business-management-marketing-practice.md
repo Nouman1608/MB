@@ -59,7 +59,7 @@ and the [IB DP Business Management syllabus guide](/resources/ib-dp-business-man
 
 **(a)** Explain one advantage of standardisation for this business. **[2]**
 **(b)** Explain one advantage of adaptation for this business. **[2]**
-**(c)** (HL) The business's sales forecast, based on a three-month moving average, predicts a 20% increase in demand next quarter, but current production capacity can only support a 10% increase. Explain one consequence of this mismatch for the business. **[3]**
+**(c)** (HL) The business's sales forecast, extrapolated from a line of best fit through past sales data, predicts a 20% increase in demand next quarter, but current production capacity can only support a 10% increase. Explain one consequence of this mismatch for the business. **[3]**
 **(d)** Evaluate whether this business should prioritise standardisation or adaptation, given that its products are sold in three culturally distinct markets. **[4]**
 
 ## Worked answers

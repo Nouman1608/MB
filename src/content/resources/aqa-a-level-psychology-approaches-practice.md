@@ -83,7 +83,7 @@ around age 5) **[1]**.
 person is not consciously aware of it **[2]**. (Denial or displacement, correctly described, would
 also gain full marks.)
 
-**5.** Self-actualisation is reaching one's full potential **[1]**, the innermost layer of Maslow's
+**5.** Self-actualisation is reaching one's full potential **[1]**, the top level of Maslow's
 hierarchy of needs, which can only be reached once more basic needs (such as physiological, safety,
 and esteem needs) have been met **[1]**.
 

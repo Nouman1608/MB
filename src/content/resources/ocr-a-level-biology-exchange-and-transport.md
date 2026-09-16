@@ -26,8 +26,9 @@ to exchange substances with their environment and transport them internally.
 
 ## Where this fits in H420
 
-As organisms increase in size and activity level, their surface-area-to-volume ratio falls, meaning
-diffusion alone becomes too slow to supply oxygen and remove carbon dioxide across the whole body -- this
+As organisms increase in size, their surface-area-to-volume ratio falls, and as their activity level
+(metabolic rate) rises, their demand for oxygen and for removal of carbon dioxide increases. Together
+these mean diffusion across the body surface alone becomes too slow to meet the organism's needs -- this
 single principle underlies almost every structure covered in this module, from gas exchange surfaces to
 the circulatory system.
 

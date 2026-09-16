@@ -130,5 +130,7 @@ the lower half of the top level. Describing change and continuity, or two
 differing interpretations, side by side without reaching an explicit,
 substantiated judgement at the end. Treating a source's origin and purpose
 as identical to evaluating a historian's interpretation — these are
-related but distinct AO3 skills tested in different question types on this
-paper.
+related but distinct skills, assessed as separate objectives (sources AO3,
+interpretations AO4) on different questions of this paper: the
+interpretation questions in Paper 1 Section A and the source questions in
+Paper 1 Section B.

@@ -87,13 +87,15 @@ and the [IB DP Chemistry syllabus guide](/resources/ib-dp-chemistry-syllabus-gui
 
 ## How this set is weighted
 
-The four questions worth the most marks (5, 6, 7) are deliberately spread across all four Reactivity 3
-sub-topics -- electron-pair sharing (5), proton transfer (6), and electron-pair sharing again in a more
-demanding electrophilic-addition context (7) -- because that sub-topic (3.4) is, as the revision notes
-explain, the syllabus's most mechanism-heavy component and the one examiners return to most often at
-Paper 2. Question 7 in particular is written at the level of difficulty a genuine Paper 2 long-answer
-question would use, requiring the same cross-reference to Structure 2 that the revision notes flag as
-the single most common source of lost marks in this component.
+The three questions worth the most marks are 7 (7 marks), 4 and 5 (4 marks each). Between them, and
+with question 6 (3 marks), they cover proton transfer (4 and 6) and electron-pair sharing (5, and again
+in the more demanding electrophilic-addition context of 7); electron transfer is tested only in
+question 2, and radical reactions (3.3) are not tested in this set, so practise free-radical
+substitution from the revision notes separately. Electron-pair sharing (3.4) carries the most marks
+because it is, as the revision notes explain, the syllabus's most mechanism-heavy sub-topic. Question 7
+in particular is a longer structured question requiring the cross-reference to Structure 2 that the
+revision notes identify as the thing a common revision mistake leaves out: treating Reactivity 3 as a
+stand-alone topic of memorised mechanism diagrams.
 
 ## Official syllabus
 

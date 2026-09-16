@@ -136,7 +136,9 @@ the place where the critical reading is actually demonstrated.
 - Forgetting that exam set-list texts are prohibited for NEA, even
 texts your own centre doesn't teach for the exam component.
 - Under-studying a poetry or short-story collection — the whole text
-must be studied even though only two items are analysed in detail.
+must be studied even though a conventional essay analyses as few as
+two poems or stories in detail (and a re-creative piece may focus on
+just one).
 - Missing the 1,250–1,500-word band on either essay: AQA sets no
 marks penalty for length alone (only malpractice is penalised on
 word count), but you're expected to make a concerted effort to stay

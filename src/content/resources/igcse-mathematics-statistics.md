@@ -134,7 +134,8 @@ only the modal class (Extended).
 - Practise distinguishing individual data (list or ungrouped
   frequency table) from grouped data, and use the correct method for
   each.
-- Know all four averages (mean, median, mode, and Extended quartiles)
+- Know the three averages (mean, median and mode) and the measures of
+  spread (range, plus quartiles and interquartile range at Extended),
   and when each is most appropriate to use.
 - Practise reading correlation type from a scatter diagram before
   drawing a line of best fit.

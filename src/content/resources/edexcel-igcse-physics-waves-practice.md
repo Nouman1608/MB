@@ -98,7 +98,7 @@ Related: [Waves revision notes](/resources/edexcel-igcse-physics-waves-revision-
 **(b)** `T = 1/f = 1/4.0 = 0.25 s`. **[2]**
 
 **5. (a)** `n = sin i / sin r = sin 50°/sin 30° = 0.766/0.500 = 1.53` (3 s.f.). **[2]**
-**(b)** `sin c = 1/n = 1/1.53 = 0.654`, so `c = 40.9°` (1 d.p.). **[2]**
+**(b)** `sin c = 1/n = 1/1.53 = 0.654`, so `c = 40.8°` (1 d.p.). **[2]**
 **(c)** It would undergo total internal reflection rather than refracting out of the glass. **[2]**
 
 **6.** Any two uses (e.g. thermal/night-vision imaging, remote controls, short-range wireless data links); hazard: skin burns from excessive exposure. **[3]**

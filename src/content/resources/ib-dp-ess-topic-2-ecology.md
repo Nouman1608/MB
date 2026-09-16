@@ -38,17 +38,24 @@ grip on Topic 1's systems vocabulary (inputs, outputs, storages,
 transfers, feedback) produces answers that describe ecological facts
 without the conceptual framing the specification expects — the [Topic
 1 Foundations study
-guide](/resources/ib-dp-ess-topic-1-foundations-revision-notes/)
+guide](/resources/ib-dp-ess-topic-1-foundations/)
 should be treated as a genuine prerequisite, not optional background.
 
-## Syllabus coverage
+## Core ecology content (Marlbridge outline)
 
-**IB DP ENVIRONMENTAL SYSTEMS AND SOCIETIES — TOPIC 2: ECOLOGY**
+The public subject brief this guide is sourced from publishes only
+Topic 2's name and teaching hours; as the [full syllabus
+guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/)
+notes, the subtopic breakdown for Topics 2-8 sits in the IB's subject
+guide, not in the brief. The headings below are therefore Marlbridge's
+own outline of core ecology content, not the IB's itemised subtopic
+list -- check your school's copy of the subject guide for the official
+subtopics.
 
 - **Ecosystem structure** — trophic levels, food chains and food webs,
 and how energy is transferred (and lost) between successive trophic
 levels
-- **Energy flow** — the specification's key quantitative idea: energy
+- **Energy flow** — the key quantitative idea in ecology: energy
 transfer between trophic levels is inefficient, with most energy lost
 as heat at each stage, which is why food chains rarely extend beyond
 four or five trophic levels
@@ -122,7 +129,7 @@ strong ESS answer from a purely descriptive one.
 Describing a food chain or food web without connecting it to the
 energy-flow concept of inefficient transfer between trophic levels.
 Treating energy flow and nutrient cycling as interchangeable
-processes, when the specification distinguishes them precisely.
+processes, when they are fundamentally different.
 Explaining an ecosystem disturbance's direct effect only, without
 tracing the indirect, cascading consequences a systems-based answer is
 expected to identify. Forgetting to link Topic 2 content back to Topic

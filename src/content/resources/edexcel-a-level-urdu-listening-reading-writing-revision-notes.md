@@ -26,11 +26,11 @@ Condensed for the final weeks. For the full explanation, use the
 - **2 hours 15 minutes, 60 marks.**
 - **Section A — Listening Comprehension** (recommended 45 minutes) — no translation or extended-writing component.
 - **Section B — Listening, Reading and Writing** (recommended 1 hour 30 minutes) — all three skills combined in one section.
-- No translation component at all — unlike Papers 1 and 2, which each pair translation with one other skill.
+- No translation component at all — unlike Papers 1 and 2, which each include a translation section alongside other skills (Paper 1: reading comprehension and research-question writing; Paper 2: written response to works).
 
 ## What genuinely distinguishes Paper 3
 
-Papers 1 and 2 each test **translation** (into English; into Urdu) alongside one other skill. Paper 3 has **no translation component** — it combines listening with reading and writing instead, integrating all three within Section B rather than testing them separately.
+Papers 1 and 2 each include a **translation** section (into English; into Urdu) alongside other skills — reading comprehension and research-question writing in Paper 1, written response to works in Paper 2. Paper 3 has **no translation component** — it combines listening with reading and writing instead, integrating all three within Section B rather than testing them separately.
 
 ## Section A technique
 

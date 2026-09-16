@@ -17,8 +17,10 @@ featured: false
 
 OCR GCSE (9-1) Physics A (Gateway Science, J249) is tiered and linear. Foundation candidates sit
 Papers 1 and 2; Higher candidates sit Papers 3 and 4. Each paper runs 1 hour 45 minutes for 90 marks
-and 50%. Paper 1/3 assesses topics 1-3 plus topic 7 (practical skills); Paper 2/4 assesses topics 4-6
-plus topic 7, with topics 1-3 as assumed knowledge and synoptic assessment across the specification.
+and 50%. The content is eight teaching topics (P1 Matter, P2 Forces, P3 Electricity, P4 Magnetism and
+magnetic fields, P5 Waves in matter, P6 Radioactivity, P7 Energy, P8 Global challenges) plus a practical
+skills topic, P9. Paper 1/3 assesses Topics P1-P4 and P9; Paper 2/4 assesses Topics P5-P8, with assumed
+knowledge of Topics P1-P4 and P9, and includes synoptic assessment.
 These notes complement the site's guides to
 [Matter](/resources/ocr-gcse-physics-matter/) and [Forces](/resources/ocr-gcse-physics-forces/).
 
@@ -44,11 +46,11 @@ distance-time graph is speed, the area under a velocity-time graph is displaceme
 **Exam-preparation priority**: practise reading values off axes accurately, drawing a large triangle
 for a gradient rather than a small one, and stating what the gradient or area physically represents.
 
-## Topics 1-3 remain examinable on the second paper
+## Topics P1-P4 remain examinable on the second paper
 
-Paper 2/4 formally assesses topics 4-6, but topics 1-3 are assumed knowledge and can appear
-synoptically. **Exam-preparation priority**: keep the earlier material -- matter, forces and the
-foundational quantitative work -- revised right through to the second paper, since later topics build
+Paper 2/4 formally assesses Topics P5-P8, but Topics P1-P4 and P9 are assumed knowledge and can appear
+synoptically. **Exam-preparation priority**: keep the earlier material -- matter, forces, electricity
+and magnetism, and the foundational quantitative work -- revised right through to the second paper, since later topics build
 on it directly.
 
 ## Six-mark extended responses want a structured explanation, not a list
@@ -69,9 +71,10 @@ paraphrase, and practise writing them from memory. Definition questions are amon
 scorable marks on the paper, and a paraphrase that drops one qualifying clause usually drops the mark
 with it.
 
-## Topic 7 practical skills are examined on every paper
+## Topic P9 practical skills matter on every paper
 
-Practical skills appear on both papers at both tiers. **Exam-preparation priority**: for each required
+Topic P9 is assessed directly on Paper 1/3 and is assumed knowledge on Paper 2/4, and Section B of both
+papers at both tiers includes practical question styles. **Exam-preparation priority**: for each required
 practical, know what was measured and with what instrument, the main source of uncertainty, and one
 improvement that targets it. Physics practical questions frequently ask about the precision of an
 instrument or about repeat readings, so knowing the apparatus specifically matters.
@@ -109,7 +112,7 @@ mistake into a visible algebraic one.
 ## Before/during exam checklist
 
 - **Before the exams**: practise equation rearrangement as a standalone skill; practise SI conversions
-  in writing; practise gradients and areas from graphs; keep topics 1-3 revised through to the second
+  in writing; practise gradients and areas from graphs; keep Topics P1-P4 revised through to the second
   paper; know instrument, uncertainty and a targeted improvement for each required practical; settle
   the tier decision on timed full papers.
 - **During either paper**: pace so the extended-response questions later in the paper have time.
@@ -125,8 +128,8 @@ mistake into a visible algebraic one.
 3. What is the most common way a candidate with correct physics loses the final mark?
 4. What should a gradient answer include beyond the number?
 
-**Answers:** 1. Paper 1/3 assesses topics 1-3 plus topic 7 practical skills; Paper 2/4 assesses topics
-4-6 plus topic 7, with topics 1-3 assumed and available synoptically. 2. Because algebra done with
+**Answers:** 1. Paper 1/3 assesses Topics P1-P4 plus Topic P9 practical skills; Paper 2/4 assesses
+Topics P5-P8, with Topics P1-P4 and P9 assumed and available synoptically. 2. Because algebra done with
 symbols is easier to check and an error is visible, whereas an error made while manipulating numbers
 usually is not. 3. A unit or prefix error -- failing to convert to SI units before substituting.
 4. What the gradient physically represents (speed, acceleration, resistance and so on) and the unit,

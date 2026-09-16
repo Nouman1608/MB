@@ -41,7 +41,7 @@ Read the following scenario, then answer the questions below.
 
 **2.** Explain whether the fact that Dana took nothing affects her liability for burglary under s9(1)(a). **[3]**
 
-**3.** Explain whether pushing past the homeowner to escape could give rise to a separate offence, and identify which one. **[4]**
+**3.** Explain whether pushing past the homeowner to escape could make Dana liable for robbery under s8 or for burglary under s9(1)(b) Theft Act 1968. **[4]**
 
 ## Section B -- short-answer and essay (Paper 2 style)
 
@@ -55,7 +55,7 @@ Read the following scenario, then answer the questions below.
 
 **2.** It does not affect her liability. Burglary under s9(1)(a) is complete on entry with the required intent -- it does not require the underlying offence (theft) to actually succeed. Dana's liability was already established at the moment of entry with intent, regardless of the fact that she was startled and fled empty-handed. **[3]**
 
-**3.** Yes -- pushing the homeowner to escape, using force against a person, could give rise to liability for an offence involving force, though this falls outside the property offences covered in 2.2 and would need to be considered under a separate area of criminal law (offences against the person) not part of this option's scope; within Topic 2's own scope, the relevant point is that this use of force occurred after, not during or immediately before, the theft attempt, so it would not itself convert the incident into robbery under s8, since robbery requires the force to accompany the theft itself, and here no theft was actually completed at all. **[4]** (Marks for correctly identifying that force used to escape does not satisfy robbery's timing requirement, and correctly reasoning through the sequence of events.)
+**3.** Neither offence is committed. **Robbery (s8):** robbery requires a theft, with force used immediately before or at the time of stealing and in order to steal **[1]**. Dana stole nothing, and her push was used to escape, not in order to steal, so she is not liable for robbery **[1]**. **Burglary under s9(1)(b):** having entered as a trespasser, the defendant must steal or attempt to steal, or inflict or attempt to inflict grievous bodily harm on a person, *in the building* **[1]**. Inside the house Dana fled without taking anything, and nothing in the scenario shows her trying to take the laptop; the push happened in the garden after she had left the house, and causing the homeowner to fall is not stated to have caused serious harm, so s9(1)(b) is not made out; her liability remains under s9(1)(a) only **[1]**. (The push itself could amount to an offence against the person, such as battery, but offences against the person are not part of 9084 Topic 2 Criminal Law, so no marks depend on it.)
 
 **4.** Direct intention is where the result was the defendant's actual purpose -- for example, a defendant who takes a laptop specifically wanting to keep it for themselves has direct intention to permanently deprive the owner of it. Indirect (oblique) intention is where the result was not the defendant's main purpose but was a virtually certain consequence of their act, which they foresaw -- for example, a defendant who sets fire to a building to claim insurance, foreseeing that a person known to be inside will almost certainly die, has oblique intention as to that death even though causing it was not their primary aim. **[4]** (2 marks per correctly explained and exemplified type.)
 

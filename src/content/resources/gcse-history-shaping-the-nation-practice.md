@@ -39,7 +39,7 @@ Related: [Shaping the Nation revision notes](/resources/gcse-history-shaping-the
 
 ## Section B
 
-**4.** A student is revising "BB Power and the People" for their thematic study, but their school actually teaches "AC Migration, Empires and the People."
+**4.** A student is revising "AB Power and the People" for their thematic study, but their school actually teaches "AC Migration, Empires and the People."
 
 **(a)** Explain the consequence of this mistake for the student's exam preparation. **[2]**
 **(b)** State the first step a student should take before beginning any Paper 2 revision. **[1]**
@@ -68,7 +68,7 @@ Related: [Shaping the Nation revision notes](/resources/gcse-history-shaping-the
 
 **1.** Section A: one thematic study (a choice from the three named options); Section B: one British depth study including a historic environment component (a choice from the four named options). **[2]**
 
-**2.** AA Health and the People; BB Power and the People; AC Migration, Empires and the People. **[3]**
+**2.** AA Health and the People; AB Power and the People; AC Migration, Empires and the People. **[3]**
 
 **3.** The historic environment — a specific, annually-published site connected to the chosen depth study period. **[1]**
 
@@ -81,7 +81,7 @@ Related: [Shaping the Nation revision notes](/resources/gcse-history-shaping-the
 **6. (a)** The answer names the site's feature but fails to connect it back to the wider depth study content, which is specifically what the historic environment component is meant to test — describing the feature alone, without this connection, is the most common way marks are lost on this component. **[2]**
 **(b)** State the site's key feature, connect that feature to a specific event or development from the depth study's other three content parts, then explain what the site reveals about the period's values or society. **[3]**
 
-**7.** Section A thematic studies span 700–1,200 years across four chronological parts, tracing a single theme (health, power, or migration and empire) over a very long period; Section B depth studies instead cover a single 20–40 year period in close, detailed focus across three content parts plus a historic-environment fourth part. Because of this difference, revision for a thematic study should build a chronological anchor list of major turning points and practise explaining each through the specification's named factors, tracing change across centuries, while revision for a depth study should instead focus on close, detailed knowledge of the specific short period and practise connecting its political, religious and social strands together, rather than using the same long-span revision approach for both halves of the paper. **[6]** (Marks for correctly stating the structural difference and for a genuine, specific implication for how revision should differ.)
+**7.** Section A thematic studies span roughly 850–1,240 years (c1170, c1000 or c790 to the present day) across four chronological parts, tracing a single theme (health, power, or migration and empire) over a very long period; Section B depth studies instead cover a single 20–40 year period in close, detailed focus across three content parts plus a historic-environment fourth part. Because of this difference, revision for a thematic study should build a chronological anchor list of major turning points and practise explaining each through the specification's named factors, tracing change across centuries, while revision for a depth study should instead focus on close, detailed knowledge of the specific short period and practise connecting its political, religious and social strands together, rather than using the same long-span revision approach for both halves of the paper. **[6]** (Marks for correctly stating the structural difference and for a genuine, specific implication for how revision should differ.)
 
 **8.** Revising the religious troubles and political succession content as two entirely separate sets of notes is a weak approach, because BC Elizabethan England specifically expects students to connect the religious threat posed by Catholic plots to the political question of the succession, rather than treating "religion" and "politics" as unconnected topics. A better approach is to revise by tracing how the two strands interact directly — for example, explaining how the threat of a Catholic claimant to the throne shaped both Elizabeth's religious policy and her government's response to plots against her — so that an exam answer can draw connections across the depth study's content parts rather than describing each part in isolation. **[5]**
 

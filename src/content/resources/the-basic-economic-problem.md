@@ -159,19 +159,19 @@ one — not just describe it — is examinable in its own right:
 Good A
 (units)
    ^
-   |                          . Z (beyond the curve --
-   |                         .    unattainable with current
-   |                        .     resources and technology)
-   |                    ___
-   |                _.-'   `-.
-   |            _.-'          `-._
-   |        _.-' X (on the curve --  `-.
-   |    _.-'      full & efficient use)  \
-   |  Y .                                  \
-   |  (inside the curve --                  |
-   |   underused / inefficient)             |
-   +------------------------------------------> Good B
-                                              (units)
+   *._                              . Z (beyond the curve --
+   |   `-._                              unattainable with current
+   |       `-._                          resources and technology)
+   |           `-.
+   |              `X  (on the curve --
+   |                \  full & efficient use)
+   |    Y            \
+   |  (inside the     |
+   |   curve --       |
+   |   underused /    |
+   |   inefficient)   |
+   +------------------*----------------> Good B
+                                         (units)
 ```
 
 - A point **on** the curve (X) shows resources being used **fully and

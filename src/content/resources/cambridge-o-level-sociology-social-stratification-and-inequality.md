@@ -1,5 +1,5 @@
 ---
-title: "Cambridge O Level Sociology: Social Stratification and Inequality, Subtopic 1.3 (2251)"
+title: "Cambridge O Level Sociology: Social Stratification and Inequality, Topic 3 (2251)"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["o-levels"]
@@ -12,42 +12,46 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
-description: "Class, gender, ethnicity and life chances -- Subtopic 1.3, Social Stratification and Inequality, given a full deep dive beyond the connective overview treatment in the site's existing whole-Paper-1 study guide."
+description: "Class, gender, ethnicity and life chances -- Topic 3, Social Stratification and Inequality, given a full deep dive beyond the connective overview treatment in the site's existing whole-Paper-1 study guide."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
 ---
 
-This guide expands on **Subtopic 1.3: Social Stratification and Inequality**, part of Paper 1 in Cambridge
+This guide expands on **Topic 3: Social Stratification and Inequality**, part of Paper 1 in Cambridge
 O Level Sociology (2251). The site's existing guide to
 [Paper 1: Research Methods, Identity and Inequality](/resources/o-level-sociology-research-methods-identity-and-inequality/)
-covers all three Paper 1 subtopics, with 1.3 discussed mainly through its connection to 1.2 (Identity) --
-this guide develops 1.3's own content in depth.
+covers all three Paper 1 topics, with Topic 3 discussed mainly through its connection to Topic 2 (Identity) --
+this guide develops Topic 3's own content in depth. (In the syllabus, 1.1-1.3 are the three sub-topics of
+Topic 1, Research Methods; Topic 3's sub-topics are numbered 3.1-3.3.)
 
 ## Where this fits in 2251
 
 Social Stratification and Inequality examines how societies are divided into unequal groups, why those
-inequalities persist, and what has been attempted to reduce them. It builds on 1.2's account of how
+inequalities persist, and what has been attempted to reduce them. It builds on Topic 2's account of how
 identity is formed, since a person's stratified position (by class, gender, or ethnicity) both shapes and
 is shaped by the identity they develop.
 
 ## Syllabus coverage
 
-**CAMBRIDGE O LEVEL SOCIOLOGY (2251) -- SUBTOPIC 1.3: SOCIAL STRATIFICATION AND INEQUALITY**
+**CAMBRIDGE O LEVEL SOCIOLOGY (2251) -- TOPIC 3: SOCIAL STRATIFICATION AND INEQUALITY**
 
-- What social stratification is, and the main features of social inequality and how inequalities are
-  created
-- How age, ethnicity, gender and social class intersect in shaping the impact of stratification on an
-  individual
-- The structures of inequality, and the impact of social class, gender and ethnicity on life chances
-- Sociological explanations of inequality, including Marxist perspectives on class-based inequality
-- The concept of meritocracy, and sociological critiques of how far societies actually operate on
-  meritocratic principles
-- Attempts that have been made, by governments or other institutions, to reduce social inequality
+- **3.1 What is social stratification?** -- stratification in open and closed societies (achieved and
+  ascribed status, poverty and wealth, power, social mobility, meritocracy, modern slavery, the caste
+  system); differences in life chances (education, employment, health, housing, life expectancy)
+  affected by age, gender, ethnicity and social class; the intersectionality of age, ethnicity, gender
+  and social class; sociological theories of inequality, including labelling theory and Marxism
+- **3.2 What attempts have been made to reduce social inequalities?** -- legislation, welfare states
+  and the global work of NGOs, and sociological views of how successful these attempts have been
+- **3.3 How has globalisation affected inequalities between societies?** -- migration, global
+  ecological issues, and sociological explanations for global inequalities
+
+This guide develops the core of 3.1 in depth -- life chances, meritocracy, gender and ethnicity, and a
+Marxist explanation; 3.2 and 3.3 are listed so the whole topic is in view.
 
 ## How to approach it
 
-This subtopic rewards candidates who can move between description (what inequality looks like) and
+This topic rewards candidates who can move between description (what inequality looks like) and
 explanation (why it exists and persists) -- a strong answer does not simply list types of inequality but
 draws on a sociological perspective, such as a Marxist account of class inequality, to explain their
 origins.
@@ -57,14 +61,14 @@ origins.
 Cambridge O Level Sociology (2251) syllabus, for examination in 2025-2027 --
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662478-2025-2027-syllabus.pdf).
 
-## Life chances: the concept that ties this subtopic together
+## Life chances: the concept that ties this topic together
 
 Life chances refers to a person's opportunities to improve their quality of life -- access to good
 education, secure employment, healthcare, and material security. Sociologists use this concept to show
 that stratification is not simply an abstract label but has concrete, measurable consequences: someone
 born into a higher social class typically has statistically better access to these opportunities than
 someone born into a lower one, independent of individual effort. This is the concept most exam questions
-on this subtopic ultimately return to, whether the question is framed around class, gender, or ethnicity.
+on this topic ultimately return to, whether the question is framed around class, gender, or ethnicity.
 
 ## Meritocracy and its sociological critique
 
@@ -73,7 +77,7 @@ than by inherited advantage. Many societies present themselves as broadly merito
 studying stratification frequently challenge this self-image, arguing that unequal starting points (in
 family wealth, education access, or social networks) mean that outcomes are not purely a reflection of
 individual merit -- a candidate who defines meritocracy but does not also engage with this critique is
-likely missing half of what this part of the subtopic tests.
+likely missing half of what this part of the topic tests.
 
 ## Gender and ethnicity as forms of stratification
 

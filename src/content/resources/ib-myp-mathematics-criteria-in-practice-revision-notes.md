@@ -25,8 +25,8 @@ name is a different skill from producing work that satisfies its top achievement
 ## Criterion A: Knowing and understanding
 
 Top-band evidence selects and applies mathematics to solve problems in both familiar AND unfamiliar
-situations across more than one of the four branches (number, algebra, geometry and trigonometry,
-statistics and probability). A common way students under-perform here is solving only familiar,
+situations across more than one of the four branches (numerical and abstract reasoning, thinking with
+models, spatial reasoning, reasoning with data). A common way students under-perform here is solving only familiar,
 textbook-style problems correctly -- the top band specifically requires demonstrating the same
 mathematical knowledge transfers to a genuinely unfamiliar problem, not just a re-skinned version of
 a practised one.

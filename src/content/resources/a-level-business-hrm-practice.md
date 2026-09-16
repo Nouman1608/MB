@@ -36,7 +36,7 @@ and [revision notes](/resources/a-level-business-hrm-revision-notes/)
 **2.** Explain the difference between financial and non-financial methods of motivation, giving one example of
 each. **[2]**
 
-**3.** Identify the five functions of management identified by this topic. **[3]**
+**3.** Identify the four traditional functions of management named in this topic. **[4]**
 
 ## Section B
 
@@ -76,8 +76,9 @@ interviewing, selection [2].
 or profit-sharing [1]. Non-financial methods motivate through means other than direct payment, such as
 job enrichment, delegation, or recognition [1].
 
-**3.** Planning, organising, coordinating, commanding, controlling [3] (one mark per correct pair
-named, up to three).
+**3.** Planning [1], organising [1], directing [1], controlling [1]. (Fayol's own list of five
+functions, which includes commanding and coordinating, belongs to the role of managers; accept
+commanding for directing, but coordinating is not one of the four traditional functions.)
 
 **4. (a)** Advantage: internal recruitment is faster and cheaper, and the candidate already
 understands the business [1]. Disadvantage: no existing employee may have the specialist skill the
@@ -107,10 +108,11 @@ to consult others is likely to outweigh the benefits of a more participative sty
 style normally seen as less desirable for ongoing workforce relations becomes the more appropriate
 choice in this specific, time-critical scenario [1].
 
-**7. (a)** Induction training is suitable, since the employee has no previous retail experience and
-needs to be introduced to the business's specific procedures, systems and workplace culture before
-starting the role independently [1–2]. On-the-job training, correctly justified for building
-role-specific skills under supervision, would also gain credit [1].
+**7. (a)** Induction training [1]. Justification: the employee has no previous retail experience [1],
+so needs to be introduced to the business's specific procedures, systems and workplace culture before
+starting the role independently [1]. On-the-job training can gain all three marks in the same way: the
+method [1], linked to the lack of retail experience [1] and justified by building role-specific selling
+skills under the supervision of an experienced colleague [1].
 **(b)** Effective training can act as a non-financial motivator in its own right: an employee who
 feels properly prepared and supported is likely to feel more confident and engaged in the role than
 one left to learn through trial and error [2], connecting this sub-topic's content on training (2.1)

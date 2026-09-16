@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "depth-studies-0470"
-description: "Causes, the Western Front, the wider war, and Germany's defeat -- Depth Study A: The First World War, 1914-18, distinct from the site's existing guides to the Nineteenth and Twentieth Century core content options."
+description: "The Western Front, the wider war and Germany's defeat, with the causes of the war as background -- Depth Study A: The First World War, 1914-18, distinct from the site's existing guides to the Nineteenth and Twentieth Century core content options."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
@@ -22,23 +22,29 @@ This guide covers **Depth Study A: The First World War, 1914-18**, one of five D
 Cambridge IGCSE World History (0470). It is distinct from the site's existing guides to
 [The Nineteenth Century, 1848-1914](/resources/igcse-world-history-nineteenth-century-1848-1914/) and
 [The Twentieth Century, 1919-1989](/resources/igcse-world-history-twentieth-century-1919-1989/), which
-cover the two Core Content options studied by every candidate -- Depth Studies are examined separately, and
-a centre typically prepares candidates for only one of the five available.
+cover the two Core Content options (every candidate studies one of the two) -- Depth Studies are a separate
+body of content, examined in Section B of Paper 1 (Core Content is examined in Section A), and a centre typically prepares candidates for
+only one of the five available.
 
 ## Where this fits in 0470
 
-Every 0470 candidate studies both Core Content options (the Nineteenth and Twentieth Century papers) plus
-one Depth Study, chosen by their centre from five options: The First World War 1914-18, Germany 1918-45,
+Every 0470 candidate studies one Core Content option (either Option A, the Nineteenth Century, or Option B,
+the Twentieth Century) plus at least one Depth Study, chosen by their centre from five options: The First World War 1914-18, Germany 1918-45,
 Russia 1905-41, the United States 1919-41, and the Second World War in Europe and the Asia-Pacific
-1939-c.1945. Always confirm with a teacher which Depth Study a given centre has actually prepared, since
-this guide's content is directly useful only to candidates studying Depth Study A specifically.
+1939-c.1945. On Paper 1 (Structured Questions), candidates answer two questions from Section A (Core
+Content) and one question from Section B, which sets two questions on each Depth Study. Depth Study content
+is also the basis of Paper 4 (Alternative to Coursework, one question from two per Depth Study) and can be
+the basis of Component 3 Coursework. Always confirm with a teacher which Depth Study a given centre has
+actually prepared, since this guide's content is directly useful only to candidates studying Depth Study A
+specifically.
 
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE WORLD HISTORY (0470) -- DEPTH STUDY A: THE FIRST WORLD WAR, 1914-18**
 
-- The causes of the First World War: the alliance system, militarism, imperial rivalry, nationalism, and
-  the assassination of Archduke Franz Ferdinand as the immediate trigger
+- Background only, not Depth Study A content: the causes of the First World War (the alliance system,
+  the arms race, colonial rivalry, the Balkans and the crisis of June-July 1914) are examined under Core
+  Content Option A, key question 6, "What caused the First World War?"
 - The failure of the Schlieffen Plan and the shift from a war of rapid movement to a war of entrenched
   stalemate on the Western Front
 - Trench warfare: conditions, tactics, and why both sides struggled to break the stalemate for most of the
@@ -54,7 +60,7 @@ this guide's content is directly useful only to candidates studying Depth Study 
 ## How to approach it
 
 Cambridge's Depth Study questions are typically framed around Key Questions -- broad, causal or
-evaluative questions such as "why did war break out in 1914?" -- rather than a simple list of facts to
+evaluative questions such as "Why was there stalemate on the Western Front?" -- rather than a simple list of facts to
 recall. Revision is most effective when organised around these Key Questions, building an evidenced
 argument for each, rather than learning events in a purely chronological list disconnected from the
 question they answer.
@@ -115,12 +121,14 @@ references to "later in the war."
 
 ## Common mistakes
 
-Treating the assassination of Franz Ferdinand as the sole cause of the war, without explaining the deeper
-long-term causes (alliances, militarism, imperialism, nationalism) that made a wider conflict possible.
+Spending Depth Study revision time on the causes of the war, which belong to Core Content Option A (key
+question 6), not to Depth Study A -- and, in that Option A question, treating the assassination of Franz
+Ferdinand as the sole cause without explaining the longer-term causes that made a wider conflict possible.
 Describing trench warfare only in terms of conditions, without explaining why it produced a stalemate.
 Listing events chronologically without connecting them back to the Key Question actually being asked.
-Confusing this Depth Study's content with the Twentieth Century Core Content option, which covers some
-overlapping themes (such as the war's causes) from a different, broader perspective.
+Confusing this Depth Study's content with the Nineteenth Century Core Content option (Option A), whose
+final key question covers the war's causes; the Twentieth Century option (Option B) begins with
+the peace settlement of 1919.
 
 ## Quick revision checklist
 

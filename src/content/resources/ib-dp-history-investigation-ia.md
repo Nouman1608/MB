@@ -128,9 +128,12 @@ the student can source and evaluate evidence for.
 ## Structuring the written response
 
 In the course first assessed in 2028, the investigation is organised into three sections:
-**historical inquiry question**, **sources and perspectives**, and **synthesis and evaluation**. The
-subject brief describes the task the same way: students formulate an inquiry question, identify and
-choose sources, synthesize information and evaluate sources to produce a response (24 marks). There is **no separate reflection section** -- the reflection on
+**section 1**, the formulation of an appropriate question to guide the investigation; **section 2**,
+the analysis of the sources the student has chosen; and **section 3**, the synthesis of evidence from
+those sources to produce a response. The subject brief's outline of the task follows the same path:
+students formulate an inquiry question, identify and choose sources, synthesize information and
+evaluate sources to produce a response (24 marks) -- the four stages described above, assessed across
+those three sections. There is **no separate reflection section** -- the reflection on
 the methods and challenges facing the historian belonged to the previous course, so words spent on
 one here go to a section that is not assessed, in a task with a word limit. Build the synthesis as
 a sustained, evidenced argument that weighs the evaluated sources against each other, rather than a

@@ -12,27 +12,28 @@ order: 2
 syllabusTopics:
   - qualification: "gcse"
     topic: "how-the-economy-works-aqa-gcse-economics"
-description: "Stable prices, economic growth, full employment and the balance of payments -- the government's four principal economic objectives, and how pursuing one can undermine another. The third subtopic of Topic 2, distinct from the site's existing guide to Interest Rates and Government Income and Expenditure."
+description: "Stable prices, economic growth, full employment and the balance of payments -- the government's four principal economic objectives, and how pursuing one can undermine another. From section 3.2.2 Government objectives, which follows 3.2.1 (the site's existing guide to Interest Rates and Government Income and Expenditure)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
 ---
 
-This guide covers **Economic objectives of the government**, the third subtopic of Topic 2 (How the
-Economy Works) in AQA GCSE Economics (8136). It is distinct from the site's existing guide to
+This guide covers the four principal economic objectives at the centre of **3.2.2 Government
+objectives**, in 3.2 How the Economy Works of AQA GCSE Economics (8136); 3.2.2.6 Distribution of income
+is not covered here. It is distinct from the site's existing guide to
 [Interest Rates and Government Income and Expenditure](/resources/gcse-aqa-economics-interest-rates-and-government-finances/),
-which covers the first two subtopics of Topic 2 -- this guide covers the third: the government's own
-economic goals and the trade-offs between them.
+which covers 3.2.1.1 and 3.2.1.2, the two parts of 3.2.1 Introduction to the National Economy -- this
+guide covers the next section: the government's own economic goals and the trade-offs between them.
 
 ## Where this fits in 8136
 
-Topic 2 moves from individual markets (Topic 1) to the whole economy. Having covered how interest rates
-and government finances work, this subtopic asks what the government is actually trying to achieve with
+3.2 How the Economy Works moves from individual markets (3.1 How Markets Work) to the whole economy.
+Having covered how interest rates and government finances work in 3.2.1, section 3.2.2 asks what the government is actually trying to achieve with
 its economic policy -- and why achieving one goal can make another harder to reach.
 
 ## Syllabus coverage
 
-**AQA GCSE ECONOMICS (8136) -- TOPIC 2, ECONOMIC OBJECTIVES OF THE GOVERNMENT**
+**AQA GCSE ECONOMICS (8136) -- 3.2.2 GOVERNMENT OBJECTIVES**
 
 - The four principal economic objectives: stable prices, economic growth, full employment, and a
   satisfactory balance of payments

@@ -76,8 +76,8 @@ area of hot desert.**
 A single well-chosen location can cover more than one requirement: a coastal delta or low-lying
 coastline case study can support both 2.2 (river flood-plain/delta opportunities) and 2.3 (coastal
 erosion management); a well-researched hot desert region can supply both 2.5's climate data and its
-required desert ecosystem case study. Choose reusable locations rather than memorising five
-completely unconnected places. For every required case study, memorise: named location, date/scale,
+required desert ecosystem case study. Choose reusable locations rather than memorising a separate,
+completely unconnected place for every required case study listed above. For every required case study, memorise: named location, date/scale,
 named effects, named management response — vague or unnamed examples score substantially fewer marks
 than answers citing real specifics.
 

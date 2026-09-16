@@ -99,7 +99,7 @@ These extend to constant multiples, sums and differences by linearity
 -- differentiate term by term. The aᵏˣ result is the one most often
 mis-recalled under exam pressure, since it needs an extra ln a factor
 that eᵏˣ does not, arising because aᵏˣ can itself be rewritten as
-eᵏˣ ln a before the chain rule is applied.
+e^(kx ln a) before the chain rule is applied.
 
 ## G3: gradients, tangents and stationary points
 

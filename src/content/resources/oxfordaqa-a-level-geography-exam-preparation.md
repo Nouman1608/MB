@@ -17,8 +17,8 @@ featured: false
 
 OxfordAQA International A-Level Geography (9635) is modular, with five papers -- six components,
 because **AS Paper 1 offers a choice between two alternative options, 1a (Hot Desert Systems and
-Landscapes) and 1b (Coastal Systems and Landscapes)**, sat as whichever your centre has taught. Every
-component is worth 20% of the full A-level. AS Paper 1a/1b and AS Paper 2 (Global Systems and
+Landscapes) and 1b (Coastal Systems and Landscapes)**, sat as whichever your centre has taught. You sit
+five components, each worth 20% of the full A-level. AS Paper 1a/1b and AS Paper 2 (Global Systems and
 Governance; Resource Security) are each 1 hour 30 minutes and 80 marks. A-level Paper 1 (Water, Carbon
 and Life on Earth; Ecosystems Under Stress) and A-level Paper 2 (Changing Places; People and
 Contemporary Urban Environments) are the same length and mark total. A-level Paper 3 (Fieldwork and
@@ -42,18 +42,20 @@ data. **Exam-preparation priority**: revise fieldwork as an examinable methodolo
 memory of any specific trip taken. Practise applying the enquiry process to an unfamiliar scenario
 supplied in the question, since that is the actual skill being tested.
 
-## Six equally weighted components means no single paper can be neglected
+## Five equally weighted components means no single paper can be neglected
 
-Every component -- including the shorter Paper 3 -- carries 20% of the A-level. **Exam-preparation
-priority**: distribute revision evenly across all six, resisting the pull towards physical or human
-topics purely on personal preference, since each component counts identically towards the final grade.
+You sit five components -- your centre's Paper 1 option (1a or 1b) plus the other four -- and every one
+of them, including Paper 3 with its lower 60-mark total in the same 1 hour 30 minutes, carries 20% of
+the A-level, making 100% in all. **Exam-preparation priority**: distribute revision evenly across the
+five components you will actually sit, resisting the pull towards physical or human topics purely on
+personal preference, since each counts identically towards the final grade.
 
 ## Case studies need to be named, dated and specific across every paper
 
 As at GCSE, but with greater expected depth, A-level answers reward precise supporting detail: named
 places, dated events, quantified figures, and the specific process each case illustrates.
-**Exam-preparation priority**: build a case-study card for each major example across all six
-components -- place, date, three specific details, and the process it demonstrates -- and revise the
+**Exam-preparation priority**: build a case-study card for each major example across all five
+components you sit -- place, date, three specific details, and the process it demonstrates -- and revise the
 cards, not the original notes, in the final weeks.
 
 ## Skills questions want a calculation and its interpretation, not just a number
@@ -99,7 +101,7 @@ tied to this specific scenario reads as a generic list rather than genuine evalu
 
 - **Before the exams**: confirm which Paper 1 option (1a or 1b) your centre teaches and revise only
   that one; revise Paper 3's fieldwork content as an examinable methodology, practised on unfamiliar
-  scenarios; distribute revision evenly across all six components; build case-study cards with place,
+  scenarios; distribute revision evenly across the five components you sit; build case-study cards with place,
   date and specific detail for every major example.
 - **During any paper**: budget time in proportion to the paper's own marks (80 or 60).
 - **On skills and data questions**: show the calculation and follow it with an interpretive sentence.
@@ -117,8 +119,8 @@ tied to this specific scenario reads as a generic list rather than genuine evalu
 1b Coastal Systems) sat within the same paper slot, so only one of the two is actually taken.
 2. Through written questions testing the enquiry process -- devising a question, justifying a method,
 evaluating data and limitations -- often applied to an unfamiliar scenario supplied in the paper.
-3. Because every component, including the shorter Paper 3, carries an identical 20% weighting towards
-the final A-level grade. 4. A limitation tied specifically to the scenario in the question, rather than
+3. Because every component you sit, including Paper 3 with its lower 60-mark total, carries an
+identical 20% weighting towards the final A-level grade (five components, 100% in all). 4. A limitation tied specifically to the scenario in the question, rather than
 a generic weakness that could apply to almost any fieldwork -- genuine evaluation requires the specific
 connection.
 

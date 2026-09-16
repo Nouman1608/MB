@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP Business Management"]
 order: 1
-description: "Paper-by-paper exam preparation for IB Diploma Programme Business Management -- how to use the pre-released Paper 1 statement, timing strategy across the papers, a worked scenario and a before/during-exam checklist."
+description: "Paper-by-paper exam preparation for IB Diploma Programme Business Management -- how to use the pre-released Paper 1 statement, what to practise for the fully unseen Paper 2 and HL Paper 3, the four concepts as a planning tool, a worked scenario and a before/during-exam checklist."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false

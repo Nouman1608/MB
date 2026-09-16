@@ -38,8 +38,9 @@ and [revision notes](/resources/igcse-biology-movement-cells-revision-notes/)
 
 ## Section B (Core and Supplement)
 
-**4.** Root hair cells absorb mineral ions from the soil even when the concentration of those ions is
-lower in the soil than inside the root hair cell.
+**4.** *(Supplement context: ion uptake by root hairs. Both parts can be answered from the Core
+definition of active transport.)* Root hair cells absorb mineral ions from the soil even when the
+concentration of those ions is lower in the soil than inside the root hair cell.
 
 **(a)** Identify the process responsible for this movement. **[1]**
 **(b)** Explain why this process, rather than diffusion, must be responsible. **[3]**
@@ -48,7 +49,7 @@ lower in the soil than inside the root hair cell.
 membrane to pull away from the cell wall.
 
 **(a) (Supplement)** Name the condition being described. **[1]**
-**(b)** Explain, using the term water potential, why water leaves the cell in this situation. **[3]**
+**(b) (Supplement)** Explain, using the term water potential, why water leaves the cell in this situation. **[3]**
 
 **6.** A gas exchange surface in the lungs relies on diffusion to move oxygen into the blood.
 
@@ -66,7 +67,7 @@ to the concentration gradient and whether energy from respiration is required.
 **8.** A student places dialysis tubing filled with concentrated sugar solution into a beaker of pure
 water and observes the tubing swell over time.
 
-**(a)** Explain, in terms of water potential, why the tubing swells. **[3]**
+**(a) (Supplement)** Explain, in terms of water potential, why the tubing swells. **[3]**
 **(b)** Suggest what would happen if the experiment were repeated with the tubing placed in a very
 concentrated salt solution instead of pure water. **[2]**
 
@@ -108,7 +109,9 @@ increasing the total rate at which particles cross the gas exchange surface in a
 
 **7. (a)** Diffusion: high to low concentration (down the concentration gradient); no energy from
 respiration required (uses kinetic energy of random particle movement only) [2].
-**(b)** Osmosis: high to low water potential; no energy from respiration required [2].
+**(b)** Osmosis: water moves from a dilute solution to a more concentrated solution through a partially
+permeable membrane (Supplement: from higher to lower water potential); no energy from respiration
+required [2].
 **(c)** Active transport: low to high concentration (against the concentration gradient); energy from
 respiration is required [2].
 
@@ -118,11 +121,14 @@ the pure water outside [1]. Water molecules move by osmosis from the region of h
 the partially permeable dialysis tubing, causing the tubing to swell as water enters [1–2].
 **(b)** If the tubing were placed in a very concentrated salt solution instead, the solution outside
 could have a lower water potential than the sugar solution inside the tubing, in which case water
-would move out of the tubing by osmosis instead, causing it to shrink rather than swell [2].
+would move out of the tubing by osmosis instead, causing it to shrink rather than swell [2]. (A Core
+answer may say instead that the salt solution is more concentrated than the sugar solution, so water
+moves out of the tubing by osmosis.)
 
 **9. (a)** Turgid [1].
 **(b)** As the plant cells absorb water by osmosis, the water inside each cell increases the pressure
-pushing outward on the cell wall (turgor pressure) [1–2]. Because the cell wall is rigid and resists
+pushing outward on the cell wall (turgor pressure -- the term itself is Supplement; a Core answer can
+describe the pressure of water inside the cells pressing outwards on the cell wall) [1–2]. Because the cell wall is rigid and resists
 this outward pressure, the cells become firm rather than continuing to expand indefinitely, and this
 turgor pressure across many cells is what gives the whole plant its firm, upright structure once
 enough water has been absorbed [1].
@@ -132,7 +138,7 @@ enough water has been absorbed [1].
 Question 4 rewards the comparison-based reasoning the study guide identifies as the most valuable
 exam skill on this topic: identifying which of the three processes is occurring in an unfamiliar
 context by checking the direction of movement relative to the concentration gradient and whether
-energy is required, rather than simply naming a process from a half-remembered definition. Question 5
-rewards Core candidates keeping the Supplement-only water potential language distinct from the
+energy is required, rather than simply naming a process from a half-remembered definition. Questions 7(b)
+and 8(b) reward Core candidates for keeping the Supplement-only water potential language distinct from the
 simpler Core statement that water moves by osmosis through a partially permeable membrane — know which
 level of explanation your tier actually requires.

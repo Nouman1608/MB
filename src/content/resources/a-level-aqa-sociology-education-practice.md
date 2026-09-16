@@ -51,13 +51,29 @@ educational performance of girls relative to boys. **[8]**
 **7.** Outline and explain **two** in-school explanations for ethnic
 differences in educational achievement. **[8]**
 
-**8.** Applying material from the item and your knowledge, evaluate
+**8.** Applying material from **Item A** and your knowledge, evaluate
 the view that the education system operates primarily to benefit
 wider society rather than the individual. **[30]**
 
-**9.** Applying material from the item and your knowledge, evaluate
+*Item A: Some sociologists see schools as serving the needs of society
+as a whole. By passing on shared values and sorting pupils into
+different roles through examinations, education is said to help
+society run smoothly. Others argue that education mainly serves
+individuals, giving them qualifications that open up opportunities
+for upward social mobility. Critics of both views question whether
+the education system is as fair and meritocratic as it claims to be.*
+
+**9.** Applying material from **Item B** and your knowledge, evaluate
 sociological explanations for differential educational achievement by
 social class. **[30]**
+
+*Item B: On average, pupils from working-class backgrounds achieve
+lower results than middle-class pupils at every stage of education.
+Some sociologists explain this gap by pointing to factors outside
+school, such as low family income or differences in the cultural
+resources that families pass on to their children. Others focus on
+processes inside school, such as the way teachers label pupils or
+allocate them to sets and streams.*
 
 ## Answers
 
@@ -131,7 +147,11 @@ of the ethnic majority.)
 
 **8.** Indicative content — award up to 30 marks using the levels
 descriptors in the specification; look for a developed, evaluative
-argument rather than a checklist of points. **For "wider society"**:
+argument rather than a checklist of points. Stronger answers apply
+Item A explicitly — for example, its reference to sorting pupils
+"through examinations" (role allocation) and its point that critics
+question whether the system is "as fair and meritocratic as it claims
+to be" (a route into the Marxist critique). **For "wider society"**:
 functionalists argue education provides secondary socialisation and
 social solidarity that benefit society as a whole, while role
 allocation matches individuals to jobs the economy needs [1] [1];
@@ -151,7 +171,11 @@ lens applied, meaning the "primarily" framing of the question invites
 direct comparison rather than a one-sided answer [1] [1] [1] [1].
 
 **9.** Indicative content — award up to 30 marks using the levels
-descriptors in the specification. **Material/economic explanations**:
+descriptors in the specification. Stronger answers apply Item B
+explicitly — its "factors outside school" (low family income, cultural
+resources) lead into material and cultural explanations, and its
+"processes inside school" (labelling, sets and streams) into in-school
+explanations. **Material/economic explanations**:
 lack of resources such as books, internet access, or a quiet study
 space, and pressure on some working-class pupils to take paid work,
 directly limiting study time and opportunity [1] [1]. **Cultural

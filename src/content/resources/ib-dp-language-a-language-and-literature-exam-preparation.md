@@ -94,8 +94,8 @@ oral, regardless of the two texts studied.
 - **Before the exam**: practise reading a Paper 1 guiding question before annotating the text;
   practise planning Paper 2 paragraphs that discuss both texts together, point by point; narrow the
   oral's global issue into a specific, arguable claim well before the assessment; HL students should
-  draft and revise the HL essay well ahead of the deadline, using the single consultation on an
-  actual draft.
+  draft and revise the HL essay well ahead of the deadline, using the regular formative feedback to
+  test the line of inquiry and the one round of written advice on a complete draft.
 - **During Paper 1**: re-read the guiding question before finalising the response's structure, and
   check every paragraph still answers it.
 - **During Paper 2**: check each body paragraph references both texts, not just one, before moving
@@ -116,8 +116,8 @@ even when the textual observations are accurate. 2. Treating the two studied tex
 mini-essays rather than building one sustained argument that interweaves evidence from both. 3.
 Because it gives a precise, arguable claim that can be traced through specific, named moments in both
 texts, rather than surveying a broad theme in general terms that invites description over analysis.
-4. Because it is produced independently, outside exam conditions, with only a single general
-consultation, so examiners expect more sustained argument and more precisely selected textual
+4. Because it is produced independently, outside exam conditions, with regular formative feedback but
+written advice on only one complete draft (which the teacher may not edit), so examiners expect more sustained argument and more precisely selected textual
 evidence than a timed response can typically produce.
 
 ## Official syllabus

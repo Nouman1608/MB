@@ -17,7 +17,9 @@ featured: false
 
 Pearson Edexcel International GCSE English Literature 4ET1 has one compulsory component and a choice
 for the second. Every candidate takes **Component 1: Poetry and Modern Prose** -- 2 hours, 90 marks,
-60% of the qualification, sat **closed book**, covering the poetry collection and a modern prose text.
+60% of the qualification, sat **closed book**, in three sections: Section A an unseen poem (printed in
+the question paper, 20 marks), Section B a comparison of two poems from the anthology collection (the
+anthology poems are provided in the exam, 30 marks) and Section C a modern prose text (40 marks).
 For the remaining 40% a centre enters candidates for **either Component 2** (Modern Drama and Literary
 Heritage Texts: a 1 hour 30 minute externally assessed **open book** exam, 60 marks -- Section A modern
 drama, 30 marks; Section B literary heritage text, 30 marks) **or Component 3**, two coursework
@@ -28,11 +30,14 @@ notes complement the site's guides to
 
 ## Closed book on Component 1 changes what revision actually is
 
-Component 1 is sat without the texts. That makes memorised quotation a hard requirement rather than a
-refinement, and it makes Component 1 the component where revision method matters most. **Exam-
-preparation priority**: build a memorised quotation bank early -- for each poem and for each phase of
-the prose text, a small number of short quotations chosen because they can be analysed in several
-directions, not because they are the most famous lines.
+Component 1 does not allow candidates to bring texts in. The unseen poem is printed in the paper and
+the anthology poems are provided, so the memory burden falls on **Section C, the modern prose text**:
+there, memorised quotation is a hard requirement rather than a refinement, and it makes Component 1
+the component where revision method matters most. **Exam-preparation priority**: build a memorised
+quotation bank early -- for each phase of the prose text, a small number of short quotations chosen
+because they can be analysed in several directions, not because they are the most famous lines. For
+the anthology poems, which you will have in front of you, spend the time instead on knowing each poem
+well enough to pair it quickly and find its key lines at speed.
 
 ## Component 2 is open book -- which is not the same as needing less preparation
 
@@ -96,8 +101,8 @@ demonstrable, while comment on a quotation as a whole tends to restate it.
 
 ## Before/during exam checklist
 
-- **Before the exams**: build a memorised bank of short, flexible quotations for Component 1's poetry
-  and prose; if sitting Component 2, practise navigating the open-book texts at speed and know where
+- **Before the exams**: build a memorised bank of short, flexible quotations for Component 1's modern
+  prose text, and know the anthology poems well enough to pair and navigate them quickly; if sitting Component 2, practise navigating the open-book texts at speed and know where
   the key passages are; practise integrated comparison rather than a two-halves structure.
 - **On the coursework route**: redraft for argument and for the actual question set, not only for
   expression.
@@ -114,8 +119,9 @@ demonstrable, while comment on a quotation as a whole tends to restate it.
 3. Why are short quotations more useful than long ones?
 4. What makes a comparison answer score well?
 
-**Answers:** 1. Component 1 (Poetry and Modern Prose) -- it requires a memorised bank of quotations
-built early, since the texts are not available in the exam. 2. Because having the text raises the
+**Answers:** 1. Component 1 (Poetry and Modern Prose) -- texts cannot be taken in, so the modern prose
+text needs a memorised bank of quotations built early; the unseen poem is printed and the anthology
+poems are provided in the exam, so for those the priority is familiarity and navigation, not memory. 2. Because having the text raises the
 expectation of precision and adds a navigation cost: an answer that hunts for a passage loses writing
 time, so knowing where the key moments sit is itself preparation. 3. Because a short phrase with one
 striking word can be embedded in a sentence and analysed in several directions, while a long quotation

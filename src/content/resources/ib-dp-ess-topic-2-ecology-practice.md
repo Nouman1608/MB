@@ -73,12 +73,14 @@ the [Topic 1 Foundations revision notes](/resources/ib-dp-ess-topic-1-foundation
 
 ## Why this set keeps returning to Topic 1's vocabulary
 
-Every extended-response question in this set requires explicit use of Topic 1's systems vocabulary
-(system, feedback, sustainability) applied to Topic 2's ecological content, because the revision notes
-identify this connection -- not ecological facts recalled in isolation -- as what the specification
-actually expects. Question 6 in particular is written to penalise an answer that describes only the
-direct effect of a disturbance, mirroring the exam trap the revision notes flag as the most common way
-students under-perform on this topic's extended-response questions.
+Most of the longer questions in this set require explicit use of Topic 1's vocabulary applied to
+Topic 2's ecological content: question 4(a) and question 6 ask for systems thinking, and question 5(b)
+for sustainability, because the revision notes identify this connection -- not ecological facts recalled
+in isolation -- as what the specification expects to be revisited throughout the course. Question 7 is
+the exception: it is an HL energy-flow question, marked on ecological efficiency and a quantitative
+investigation method rather than on systems or sustainability vocabulary. Question 6 in particular is
+written to penalise an answer that describes only the direct effect of a disturbance, mirroring one of
+the exam traps the revision notes flag.
 
 ## Official syllabus
 

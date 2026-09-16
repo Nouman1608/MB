@@ -55,8 +55,8 @@ formation
 quantised energy levels; energy levels, sub-levels (s, p, d and f) and
 orbitals; the aufbau principle, Pauli exclusion principle and Hund's
 rule together; the chromium and copper exceptions; at HL only (1.3.6-1.3.7),
-first ionisation energy and its periodic trends, and successive
-ionisation energies
+ionisation energy from the convergence limit of the emission spectrum,
+and successive ionisation energies
 - **1.4 Counting particles by mass: the mole** — the mole and the
 Avogadro constant; molar mass; empirical and molecular formulae;
 concentration and molar volume

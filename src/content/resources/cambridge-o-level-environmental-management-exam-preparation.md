@@ -37,7 +37,8 @@ Three-quarters of Paper 1's marks and the whole of Paper 2 are built on source m
 the paper: data tables, graphs, maps, diagrams and short texts. **Exam-preparation priority**: the
 central examinable skill is reading unfamiliar environmental data accurately and using it to support
 a point, and it improves with practice on material you have not seen before. Revising content notes
-without practising on unseen figures prepares you for only a quarter of the assessment.
+without practising on unseen figures prepares you for only Paper 1 Section A -- 20 of the 160 marks, an
+eighth of the assessment.
 
 ## Paper 1's two sections need different pacing
 
@@ -121,7 +122,7 @@ while "it rises from 12 to 34 units between 1990 and 2010, with a brief fall aro
 4. Why should a management strategy be offered together with a limitation?
 
 **Answers:** 1. All of Paper 2 and Section B of Paper 1 -- that is 60 of Paper 1's 80 marks plus all
-80 of Paper 2's, so roughly 87% of the total. 2. Around 26 minutes for Section A and 79 for Section B,
+80 of Paper 2's, so 140 of 160 marks, or 87.5% of the total. 2. Around 26 minutes for Section A and 79 for Section B,
 matching their 20/60 mark split -- Section A is where over-writing is most tempting and least
 rewarded. 3. The overall direction of the change, at least one specific quoted value with its unit,
 and any point at which the pattern breaks. 4. Because an unqualified strategy is an assertion; naming

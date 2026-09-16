@@ -45,8 +45,8 @@ designed to assess.
 
 Top-band evidence selects and applies mathematics to solve problems in
 both familiar and unfamiliar situations across more than one of the
-four branches -- number, algebra, geometry and trigonometry, statistics
-and probability. A common way students under-perform here is solving
+four branches -- numerical and abstract reasoning, thinking with models,
+spatial reasoning, and reasoning with data. A common way students under-perform here is solving
 only familiar, textbook-style problems correctly -- the top band
 specifically requires demonstrating the same mathematical knowledge
 transfers to a genuinely unfamiliar problem, not just a re-skinned

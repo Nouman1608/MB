@@ -109,8 +109,10 @@ the interest earned rather than the total balance.
 ```
 
 Step 2 is where most errors occur: compound interest requires raising the multiplier to a power, not
-multiplying it repeatedly by the number of years -- confusing the two produces simple interest instead of
-compound interest, which grows much more slowly over multiple years.
+multiplying the multiplier by the number of years. That product is not simple interest either: 1.03 x 5 =
+5.15 would make the total more than five times the original amount. Simple interest at 3% for 5 years
+multiplies the original amount by 1 + 0.03 x 5 = 1.15, whereas compound interest multiplies it by
+1.03^5 = 1.159 (to 3 d.p.), because each year's interest also earns interest.
 
 ## Common mistakes
 

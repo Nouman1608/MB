@@ -42,9 +42,9 @@ graph.
 
 **IB DP MATHEMATICS: ANALYSIS AND APPROACHES — CALCULUS**
 
-- **Differentiation** — the power rule, and (particularly at HL) the
-product rule, quotient rule and chain rule for combining and composing
-functions; the derivative at a point gives the gradient of the tangent
+- **Differentiation** — the power rule, and the product rule, quotient
+rule and chain rule for combining and composing functions (all four
+are SL content, so required at both SL and HL); the derivative at a point gives the gradient of the tangent
 to the curve there, used to find stationary points, classify them as
 maximum, minimum or point of inflection, and describe where a function
 is increasing or decreasing
@@ -57,8 +57,10 @@ velocity and acceleration linked through successive derivatives)
 find areas under curves and recover an underlying quantity from a
 known rate of change; definite integrals (a numerical area or
 accumulated quantity between two bounds) versus indefinite integrals
-(a general antiderivative plus a constant of integration, +C); at HL,
-integration techniques including substitution, and further
+(a general antiderivative plus a constant of integration, +C);
+integration by inspection (the reverse chain rule) or by substitution
+for integrals of the form ∫kg′(x)f(g(x))dx at both SL and HL; at HL
+only, integration by substitution beyond that form, integration by parts, and further
 applications including volumes of revolution
 - **The link between differentiation and integration** — the two
 operations are inverses of each other, so a question can equally give
@@ -138,7 +140,7 @@ technology, rather than building genuine manual algebraic fluency.
 ## Quick revision checklist
 
 - Have the power, product, quotient and chain rules completely
-  automatic (HL: all four; SL: power rule plus basic applications).
+  automatic (all four are required at both SL and HL).
 - Practise the full five-step optimisation method every time, not just
   the differentiation step.
 - Keep definite and indefinite integrals distinct, including when +C

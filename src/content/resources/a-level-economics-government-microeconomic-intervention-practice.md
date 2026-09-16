@@ -88,11 +88,15 @@ over time rather than only in the current surplus period [1].
 demerit good [1–2]. A subsidy on bus travel lowers its price, encouraging the consumption of a good
 the government judges to be under-consumed relative to the social optimum (for example, because it
 reduces congestion or pollution compared with private car use) [1–2].
-**(b)** Because demand for sugary drinks is price inelastic, consumers continue buying similar
-quantities even as price rises, so **consumers bear the larger share of the tax burden** [1–2].
-Because demand for bus travel is price elastic, a given price fall from the subsidy causes a
-proportionately larger increase in quantity demanded, so **consumers receive the greater benefit of
-the subsidy** in the form of significantly increased usage at the lower price [1–2].
+**(b)** Assuming the supply of sugary drinks is more price elastic than demand, and the supply of bus
+travel less price elastic than demand: because demand for sugary drinks is price inelastic,
+consumers continue buying similar quantities even as price rises, so the price they pay rises by most
+of the tax and **consumers bear the larger share of the tax burden** [1–2]. Because demand for bus
+travel is price elastic and, on the assumption above, supply is less so, supply is the more inelastic
+side of that market, so the fare passengers pay
+falls by only a small part of the subsidy while the price bus operators receive rises by most of it:
+**producers receive the greater share of the subsidy's benefit**, even though passenger numbers still
+rise noticeably because demand is elastic [1–2].
 
 **6.** Any two of, with the problem addressed identified for each: **minimum wage** — addresses low
 earned income directly by legally raising the wage floor for low-paid workers [2]; **transfer

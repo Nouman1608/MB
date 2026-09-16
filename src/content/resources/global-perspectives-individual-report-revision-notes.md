@@ -52,23 +52,27 @@ and evaluate before proposing a course of action.
 4. **Reflect and conclude** — your own view, your learning, and others' perspectives, directly
    answering the research question.
 
-The syllabus sets out this sequence as its recommended structure, but does **not** publish a mark
-scheme or detailed marking criteria for this component (unlike Component 3, which does carry mark
-tables) — so there is no published rule that a differently-ordered report scores lower. Following the
-recommended sequence simply makes it far easier to evidence everything the syllabus says the report
-should cover.
+The syllabus sets out this sequence as its recommended structure. The marking criteria are not in the
+syllabus (unlike Component 3's mark tables) but in Cambridge's specimen mark scheme for this component,
+which marks the report against eight level-based tables — the global issue; causes and consequences;
+perspectives; courses of action; evaluation of evidence and sources (all AO1); reflection (AO2);
+structure and clarity; and referencing (both AO3). None of them requires one particular order, so a
+differently-ordered report is not marked down for its order alone — but following the recommended
+sequence makes it far easier to evidence everything the criteria reward, and structure and clarity are
+marked in their own right.
 
 ## Referencing — start on day one
 
 Keep a running reference list from the **first source read**, not reconstructed at the end.
-Incomplete or inconsistent referencing is one of the most common reasons reports lose marks on the
-**communication** criterion (citations and references sit under AO3 Communication). No single required
+The syllabus requires all material used to be explicitly cited with a clear referencing system, and
+the **referencing** criterion (AO3 Communication) rewards citation and referencing that are complete,
+consistent and clearly linked. No single required
 style, but it must be **clear and consistently applied**.
 
 ## Evaluating sources — not just citing them
 
 For every source: state its **value to the research**, and whether it is **reliable and credible**.
-Citing a source without evaluating it misses half of what the evaluation criterion actually rewards.
+Citing a source without evaluating it earns nothing on the evaluation of evidence and sources criterion (AO1).
 
 ## Perspectives must explain "why," not just "what"
 
@@ -83,7 +87,7 @@ Global Perspectives' own syllabus states plainly that content knowledge is not w
 in this component — there is no fixed topic list to memorise the way there is for a traditional
 subject. This means the highest-value revision activity is not reading more about your chosen issue,
 but practising the transferable skills themselves: reading past exemplar reports on entirely different
-topics can still be genuinely useful preparation, since the same five criteria — research, analysis,
+topics can still be genuinely useful preparation, since the same five skills — research, analysis,
 evaluation, reflection, communication — apply whatever subject matter a candidate chooses, and seeing
 what a strong analysis or well-evaluated source looks like in someone else's report transfers directly
 to your own.
@@ -139,3 +143,5 @@ is reliable and credible.
 
 Cambridge IGCSE Global Perspectives (0457) syllabus for exams in 2025, 2026 and 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662457-2025-2027-syllabus.pdf).
+Marking criteria: 0457/02 Individual Report specimen mark scheme, for examination from 2025 —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662493-2025-specimen-paper-2-mark-scheme.pdf).

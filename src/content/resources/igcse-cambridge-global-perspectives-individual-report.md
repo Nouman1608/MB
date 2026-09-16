@@ -78,21 +78,24 @@ enough structure to organise 1500-2000 words around. Build the report broadly
 in the sequence the syllabus itself recommends -- explain the issue and
 its different perspectives first, analyse causes and consequences
 second, evaluate possible courses of action third, and reflect and
-conclude last. Cambridge does not publish detailed marking criteria
-for this component (unlike Component 3, which carries full mark
-tables), so there is no published rule that marks depend on following
-this exact order -- but the recommended sequence maps directly onto
-everything the syllabus says the report should cover, so following it
-makes each of those (unpublished) requirements far easier to evidence
-clearly. Keep a running reference list from the first source read,
-rather than trying to reconstruct it at the end, since incomplete or
-inconsistent referencing is one of the most common reasons reports
-lose marks on the communication criterion (citations and references
-sit under AO3 Communication, distinct from AO1 Evaluation of a
-source's own reliability and credibility).
+conclude last. Unlike Component 3, this component's marking criteria
+are not printed in the syllabus; they are in Cambridge's specimen mark
+scheme, which marks the report against eight level-based tables -- the
+global issue, causes and consequences, perspectives, courses of action,
+and evaluation of evidence and sources (AO1, 40 marks); reflection
+(AO2, 5 marks); and structure and clarity, and referencing (AO3, 15
+marks). None of them requires this exact order, but the recommended
+sequence maps directly onto them, and structure and clarity are marked
+in their own right, so following it makes each requirement far easier
+to evidence clearly. Keep a running reference list from the first
+source read, rather than trying to reconstruct it at the end, since the
+referencing criterion (AO3 Communication, distinct from the AO1
+evaluation of a source's own reliability and credibility) rewards
+citation and referencing that are complete, consistent and clearly
+linked.
 
 Because assessment is skills-based rather than content-based, the same
-five criteria -- research, analysis, evaluation, reflection and
+five skills -- research, analysis, evaluation, reflection and
 communication -- apply whatever topic a candidate chooses, which
 means past exemplar reports on entirely different topics can still be
 useful for seeing what a strong analysis or a well-evaluated source
@@ -104,3 +107,6 @@ irrelevant to a candidate's own report.
 Cambridge IGCSE Global Perspectives (0457) syllabus for exams in 2025,
 2026 and 2027 —
 [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662457-2025-2027-syllabus.pdf).
+Marking criteria: Cambridge IGCSE Global Perspectives 0457/02 Individual
+Report specimen mark scheme, for examination from 2025 —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/662493-2025-specimen-paper-2-mark-scheme.pdf).

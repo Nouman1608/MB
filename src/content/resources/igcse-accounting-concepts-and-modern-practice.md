@@ -169,8 +169,9 @@ Check: 48,000 + 600 + 400 + 2,700 − 750 − 500 − 2,500 − 150 = 47,800.
 The statement of financial position is also affected: inventory $8,700
 (9,200 − 500); trade receivables $12,000 less allowance $600 = $11,400;
 other receivables (rent prepaid) $2,700; other payables (wages accrued)
-$750; and drawings increase by $1,000 (600 + 400), which reduces
-Nadia's capital. Nadia also suggests changing the depreciation method
+$750; and drawings increase by $1,000 (600 + 400). Items 1 and 2 also
+add the same $1,000 to profit, so together they leave Nadia's closing
+capital unchanged: profit and drawings both rise by $1,000. Nadia also suggests changing the depreciation method
 for her fixtures this year only, to report a higher profit. The
 consistency concept says no: the method already in use should continue,
 so no adjustment is made.

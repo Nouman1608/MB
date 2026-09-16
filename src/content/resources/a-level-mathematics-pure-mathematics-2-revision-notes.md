@@ -151,11 +151,11 @@ still lose a final accuracy mark for presentation.
 Find the integral of 1/(2x + 1) dx.
 
 ```
-d/dx [ln(2x + 1)] = 2 / (2x + 1)        (chain rule, derivative of
+d/dx [ln|2x + 1|] = 2 / (2x + 1)        (chain rule, derivative of
                                           the linear inside function
                                           is 2)
 
-So integral of 1/(2x+1) dx = (1/2) ln(2x + 1) + c
+So integral of 1/(2x+1) dx = (1/2) ln|2x + 1| + c
 ```
 
 Recognising the pattern "integral of f'(x)/f(x) is ln|f(x)|", adjusted

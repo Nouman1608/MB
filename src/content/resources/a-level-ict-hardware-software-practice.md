@@ -125,11 +125,19 @@ transaction throughput, which is what a mainframe is optimised for
 **(b)** FLOPS (floating-point operations per second) or MIPS
 (millions of instructions per second) [1].
 
-**7. (a)** A mainframe is appropriate because it is built to score
-highly on RAS — reliability, availability and serviceability — which
-matches the bank's need for near-continuous availability and minimal
-data loss, whereas a supercomputer is optimised for raw computational
-speed rather than sustained transactional reliability [3].
+**7. (a)** Transaction processing is a typical use of a mainframe,
+which is designed for a very high volume of input, output and
+throughput — huge numbers of small transactions processed
+continuously [1]. The bank's need for 24-hour availability and no data
+loss calls for high reliability, availability and serviceability (RAS)
+and fault tolerance, which a mainframe provides — for example,
+components can be serviced or replaced while the system keeps
+running [1]. A supercomputer is designed instead for raw processing
+speed on very complex calculations such as weather forecasting, so its
+strengths do not match this workload; RAS and fault tolerance appear in
+the syllabus's shared list of characteristics for both classes, so it
+is the type of workload, not RAS on its own, that decides the
+choice [1].
 **(b)** Fault tolerance is the ability of the system to keep running,
 often in a degraded state, when a component fails, whereas reliability
 more generally describes how rarely the system fails in the first

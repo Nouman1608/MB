@@ -32,9 +32,12 @@ check which edition your course is using.
 
 ## Where this fits in 5014
 
-This topic connects directly to the lithosphere content covered by Topic 1 (soils are examined there as a
-resource, and here as the medium farming depends on) and anticipates later topics on water management and
-natural ecosystems, since agricultural practices affect both.
+Soils belong to this topic itself: the 2025-2026 syllabus opens Topic 3 with soil composition (3.1) and
+soils as a medium for plant growth, including the differences between sandy and clay soils (3.2), before
+agriculture types, yields, impacts, soil erosion and sustainable agriculture (3.3-3.8). Topic 1 (Rocks and
+minerals) does not examine soils; its only reference to them is soil improvement when restoring land after
+extraction (1.4). This topic also anticipates later topics on water management and natural ecosystems,
+since agricultural practices affect both.
 
 ## Syllabus coverage
 
@@ -130,9 +133,9 @@ simply stating that a chemical input is "bad for the environment" without explai
 Treating intensive farming as automatically harmful and extensive farming as automatically sustainable,
 without evaluating the specific practices involved. Describing soil erosion without explaining the
 mechanism (loss of vegetation cover exposing soil to wind or water). Confusing fertiliser and pesticide
-impacts, or describing their environmental effects too vaguely to earn marks. Forgetting to connect this
-topic back to soil type (Topic 1), since the farming methods a region can sustainably support depend
-partly on its underlying soil characteristics.
+impacts, or describing their environmental effects too vaguely to earn marks. Forgetting to connect farming
+methods back to soil type (sandy versus clay soils, covered at the start of this topic in 3.2), since the
+farming methods a region can sustainably support depend partly on its underlying soil characteristics.
 
 ## Quick revision checklist
 
@@ -143,4 +146,5 @@ partly on its underlying soil characteristics.
   loss, food chain accumulation), rather than describing both as generically harmful.
 - Prepare at least one named sustainable farming practice and explain how it reduces environmental impact
   while maintaining productivity.
-- Revise how soil type from Topic 1 connects to the farming methods examined in this topic.
+- Revise the differences between sandy and clay soils (3.2) and how soil type connects to the farming
+  methods examined later in this topic.

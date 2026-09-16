@@ -60,8 +60,8 @@ list.
 
 - Identify the main regions of the alimentary canal (mouth,
   oesophagus, stomach, small intestine -- distinguishing duodenum and
-  ileum -- large intestine -- distinguishing colon and rectum -- and
-  anus) and associated organs (salivary glands, pancreas, liver, gall
+  ileum -- and large intestine -- distinguishing colon, rectum and
+  anus, which the syllabus groups under the large intestine) and associated organs (salivary glands, pancreas, liver, gall
   bladder) from a diagram.
 - Define and distinguish ingestion, digestion, absorption,
   assimilation and egestion.

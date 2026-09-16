@@ -109,7 +109,8 @@ therefore require different control approaches [1].
 **7. (a)** Any two of: flood control, hydro-electric power, irrigation, storage, transport,
 recreation, tourism, fish farming [2].
 **(b)** For example, hydro-electric power provides a renewable energy source, but the dam's
-construction can disrupt river ecosystems and displace downstream communities [2]. (Any correctly
+construction can disrupt river ecosystems and displace communities living in the area flooded by the
+reservoir upstream of the dam [2]. (Any correctly
 paired use-and-limitation combination from the syllabus gains full credit.)
 
 **8. (a)** Marine aquaculture is the farming of marine species, such as fish, crustaceans or seaweeds,

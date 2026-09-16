@@ -121,14 +121,16 @@ The syllabus requires you to define, draw and interpret this curve:
 Good A
 (units)
    ^
-   |                    ___
-   |                _.-'   `-.
-   |            _.-'          `-.
-   |        _.-' X (on curve)     `.
-   |    _.-'                        \
-   |  Y .                             \
-   | (inside curve)                    |
-   +--------------------------------------> Good B (units)
+   *._
+   |   `-._
+   |       `-._
+   |           `-.            Z (outside curve)
+   |              `X  (on curve)
+   |                \
+   |    Y            \
+   | (inside curve)   |
+   |                  |
+   +------------------*----------> Good B (units)
 ```
 
 - A point **on** the curve — resources fully and efficiently used.

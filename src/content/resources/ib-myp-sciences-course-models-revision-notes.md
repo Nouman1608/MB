@@ -12,15 +12,16 @@ order: 6
 syllabusTopics:
   - qualification: "ib-myp"
     topic: "ib-myp-sciences-eassessment-structure"
-description: "Condensed revision notes on IB MYP Sciences' discrete/modular/integrated course models and the biology, chemistry and physics content scope its eAssessment can draw on regardless of a school's chosen model."
+description: "Condensed revision notes on IB MYP Sciences' discrete/modular/integrated course models and how its eAssessment content scope, spanning biology, chemistry and physics topics, is set by the eAssessment option entered rather than by a school's chosen model."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 ---
 
 The [full syllabus guide](/resources/ib-myp-sciences-syllabus-guide/) confirms schools choose between
-discrete, modular and integrated course models, but the eAssessment can draw on content spanning
-biology, chemistry and physics regardless of which model a student's own school actually used. These
+discrete, modular and integrated course models, but the course model does not decide what the
+eAssessment examines: its topics span biology, chemistry and physics, and which of them a student's
+examination covers is set by the eAssessment option entered, not by the model their school used. These
 notes cover that structural distinction, alongside the
 [assessment revision notes](/resources/ib-myp-sciences-assessment-revision-notes/) and
 [investigation skills exam preparation](/resources/ib-myp-sciences-investigation-skills-exam-preparation/)
@@ -43,13 +44,14 @@ versa) risks structuring study time around the wrong unit boundaries — the und
 substantially, but how it was sequenced and taught differs by model, which affects how efficiently you
 can organise a revision timetable around it.
 
-## eAssessment spans all three sciences regardless of model
+## eAssessment scope is set by the option, not the course model
 
 The on-screen examination is available in **biology, chemistry, physics and integrated sciences**, and
-can draw on topics including atomic structure and bonding, cells, cycles, electromagnetism, evolution,
-interactions between organisms, forces, states and properties of matter, metabolism, organisms, and
-waves — spanning all three underlying disciplines regardless of how your own school's timetable was
-structured.
+the examinations can draw on topics including atomic structure and bonding, cells, cycles,
+electromagnetism, evolution, interactions between organisms, forces, states and properties of matter,
+metabolism, organisms, and waves — spanning all three underlying disciplines. Which of those topics
+your own examination draws on depends on the option you are entered for, not on how your school's
+timetable was structured.
 
 ## Worked example: organising revision across a modular timetable
 
@@ -61,9 +63,9 @@ Risk:            revising only the most recently taught module
                  earlier modules are "done"
 Correct
 approach:        build a revision schedule that revisits ALL modules
-                 taught across the year, since the eAssessment draws
-                 on content from whichever sciences your school's
-                 model actually covered -- not just the most recent one
+                 taught across the year that fall within your
+                 eAssessment option's scope (for integrated sciences,
+                 all three) -- not just the most recent one
 Practical step:  create one summary sheet per module taught, reviewed
                  on a rotating basis in the weeks before the
                  examination, rather than a single pass through
@@ -82,8 +84,8 @@ criteria apply regardless of model.
 
 - Confirm with your teacher which course model (discrete, modular, integrated) your school actually
   uses.
-- Build a revision schedule that revisits every science module taught across the year, not just the
-  most recent one.
+- Build a revision schedule that revisits every science module within your eAssessment option's scope,
+  not just the most recent one.
 - Check which specific eAssessment option (biology, chemistry, physics, integrated sciences) applies
   to you.
 - Treat all covered disciplines as equally examinable, regardless of teaching sequence.
@@ -124,7 +126,7 @@ connecting content from different modules or disciplines during revision.
    discrete one?
 
 **Answers:** 1. Discrete, modular, integrated. 2. School-level. 3. Biology, chemistry, physics, and
-integrated sciences. 4. Because the eAssessment can draw on content from any science module taught
-across the whole year, not just the most recent one, so neglecting earlier modules leaves genuine
-content gaps. 5. No — the same four assessment criteria and overall framework apply regardless of
+integrated sciences. 4. Because the eAssessment can draw on any content within the scope of the
+option entered, whenever in the year it was taught, not just the most recent module, so neglecting
+earlier modules leaves genuine content gaps. 5. No — the same four assessment criteria and overall framework apply regardless of
 course model; only how the content was sequenced and taught differs.

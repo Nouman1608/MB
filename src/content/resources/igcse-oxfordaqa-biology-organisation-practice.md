@@ -129,9 +129,13 @@ It has a **rich blood supply**, maintaining a steep concentration gradient.
 
 **(c)** Similarity: both **transport substances around the plant** [1]. Difference: **xylem** transports water and mineral ions from roots to leaves (one direction) [1], while **phloem** transports dissolved sugars from the leaves to the rest of the plant, in either direction depending on need (translocation) [1].
 
-**9. (a)** In **circular structures called plasmids** (and loose in the cytoplasm), not enclosed in a nucleus [2].
+**9. (a)** Free in the **cytoplasm**, not enclosed in a nucleus [1], with some genes in small circular structures called **plasmids** [1].
 
-**(b)** Any two: a bacterial cell has **no mitochondria** (a plant cell does) [1]; a bacterial cell has **no chloroplasts** even though some bacteria photosynthesise differently [1]; a bacterial cell is generally **much smaller** than a plant cell [1]; a bacterial cell has **no permanent vacuole** of the kind found in plant cells [1].
+**(b)** Any two differences, each described as a comparison: [1] for the bacterial-cell feature and [1] for the matching plant-cell feature, to a maximum of [4].
+- A bacterial cell has **no mitochondria** [1]; a plant cell **has mitochondria** [1].
+- A bacterial cell has **no chloroplasts**, even though some bacteria photosynthesise by other means [1]; a plant cell **has chloroplasts** (in its green tissues) [1].
+- A bacterial cell has **no permanent vacuole** [1]; a plant cell has a **large permanent vacuole** containing cell sap [1].
+- A bacterial cell is **much smaller** [1]; a plant cell is **much larger** [1].
 
 ---
 

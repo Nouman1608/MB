@@ -21,8 +21,9 @@ featured: false
 This guide covers **Topic 1 Matter**, the first of eight content
 topics (P1-P8) in OCR GCSE (9-1) Physics A (Gateway Science) (J249),
 first teaching September 2016. A ninth topic, P9 (practical skills),
-is not separately content-assessed but underpins the 15%
-practical-skills component woven through the written papers. The
+is assessed with Topics P1-P4 on Paper 1/3 (and assumed on Paper 2/4),
+and provides the skills for the 15% practical content in the written
+examinations. The
 qualification is tiered, with Foundation and Higher tier papers.
 
 ## Where this fits in J249

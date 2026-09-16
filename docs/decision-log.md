@@ -11456,3 +11456,310 @@ None. No existing resource or data-layer record was edited.
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; `validate-cross-board-integrity`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31. The built Urdu O Level board page links 721463.
 
 **Open-count position after D-240.** Round 18 leaves I361 and I362 for repair; both are closed here (9685 left unsettled as the finding directs). Confirmed errors declared open: 0.
+
+## D-241 - Audit round 19 (Q397): E914-E919 and I363-I368 worked, 195 items (2026-09-16)
+
+**Trigger.** Round 19 (`docs/audit/2026-10-26-findings.md`, `a15e1c0`) read every post-baseline resource and recorded six confirmed-error groups (E914-E919, 80 items) and six inconsistency groups (I363-I368, 115 items), each itemised with file and line on `main` at 87fa74f. Round 19 also verified D-240 and read D-239 (Q398). Q399, Q400 and U72 are leads and were not worked.
+
+**Result.** 191 closed; 4 disputed with the primary document quoted (I363.10, I363.21, I366.4, I366.5); 0 deferred. Item IDs below are `<finding>.<item number>` as numbered in the finding's observation.
+
+**How.** Seven subject clusters under the common brief (read the file first; fix the family; settle sibling disagreements against the board document before editing either file; recount every tariff; label rather than delete). Items needing IB documents were verified by the lead in a browser at the ibo.org origin (same-origin fetch and pdf.js; no challenge appeared) and passed back to the clusters. A separate adversarial reviewer then read every diff by cluster, recomputed figures and fixed what the repair itself had broken. 172 files changed.
+
+**Primary sources read for this entry** (to closing matter unless stated): AQA 8145 v1.3; AQA 7181/7182 v1.4 (and v1.2 for comparison); AQA 7401/7402 v1.5; AQA 7516/7517 v1.6; AQA 8461; AQA 8462 v1.1; AQA 8136 v1.0; AQA 7127 (assessment structure); AQA 8132 and 7702/7717 web specification pages; OCR J249 v5.0; Pearson 9UR0 Issue 1; Pearson 4EA1 Issue 7; Pearson 4ET1 Issue 3; Pearson IAL English Literature Issue 7; Cambridge 0470 2024-2026 (and 2027-2028 for two rules), 2147 2024-2026, 9489 2027-2029 v2, 0539 2025-2027 V2, 0475 2026 V2, 9695 2024-2026, 2058 2026-2027, 0448 2026, 2059 2026, 0580 2025-2027 V3, 0479 2027, 0610 2026-2028, 0625 2026-2028 v2, 9609 2026-2028 v2, 9708 2026-2028 v2, 7100 2026-2028 v2, 0715 2028 v2, 5014 2025-2026 V2, 9626 2025-2027 V3, 9084 2026-2028 V2, 9990 2024-2026 V1, 2251 2025-2027 V3, 0457 2025-2027 V2 and the 0457/02 specimen mark scheme; OxfordAQA 9214 v1.0, 9237 v1.1, 9260 v5.1, 9264 v1.1, 9275 v5.1 and v1.0, 9635 v3.2 (assessment sections), 9675 v5.3. IB (browser): Business management guide, first assessment 2024 (77 pp); Economics guide, first assessment 2022 (84 pp); Language A: literature guide, first assessment 2021 (80 pp); Mathematics: analysis and approaches guide, first assessment 2021 (100 pp); DP History subject brief, first assessment 2028 (7 pp); MYP Mathematics subject brief (4 pp).
+
+
+### E914 - Qualification structure (17 items)
+
+| Item | File | Result |
+|---|---|---|
+| E914.1 | `aqa-a-level-english-language-nea-language-in-action` | **Closed.** 7702 NEA: both tasks (investigation and original writing with commentary) are required. Checked against AQA 7702 web spec 3.3. |
+| E914.2 | `gcse-history-shaping-the-nation-options` | **Closed.** 8145 Power and the People code BB→AB. AQA 8145 v1.3 at-a-glance (p.7): AA/AB/AC thematic, BB Edward I. The spec's p.24 heading misprints BB. |
+| E914.3 | `gcse-history-shaping-the-nation-practice` | **Closed.** Same, practice stem; also factor-list asides. |
+| E914.4 | `gcse-history-shaping-the-nation-practice` | **Closed.** Same, practice answers. |
+| E914.5 | `gcse-history-shaping-the-nation-revision-notes` | **Closed.** Same, revision notes lists, traps, checklist, self-test. All 11 files coded 8145 grepped. |
+| E914.6 | `aqa-gcse-biology-infection-and-response` | **Closed.** 8461: 'third of the seven assessed subject-content topics (4.8 Key ideas embedded)'; Paper 1 = 1-4, Paper 2 = 5-7 (8461 §2.1, §4.8). |
+| E914.7 | `aqa-gcse-chemistry-quantitative-chemistry` | **Closed.** 8462: 'ten assessed topics' (4.11 Key ideas embedded) (8462 v1.1 §2.1-2.2). Sibling `gcse-aqa-chemistry-atomic-structure-and-periodic-table` 'eleven'→'ten'. |
+| E914.8 | `cambridge-igcse-world-history-depth-study-first-world-war` | **Closed.** 0470: candidates study Core Content Option A or B plus at least one Depth Study (0470 2024-2026 pp.8-9). |
+| E914.9 | `cambridge-igcse-world-history-depth-study-first-world-war` | **Closed.** Causes of WWI placed in Option A KQ6 ('What caused the First World War?', p.14); Option B begins 1919. Depth Study A has no causes: coverage bullet labelled background; example KQ replaced with the syllabus's stalemate question. |
+| E914.10 | `o-level-world-history-depth-studies-practice` | **Closed.** 2147 Depth Studies: Paper 1 Section B (2147 2024-2026 pp.9, 29). Q3 answer. |
+| E914.11 | `o-level-world-history-depth-studies-practice` | **Closed.** Q7 stem and model answer rewritten. |
+| E914.12 | `o-level-world-history-depth-studies-practice` | **Closed.** Claim that Core Content has no source demand removed; Q8 answer, Q4 label, top note and description aligned. |
+| E914.13 | `o-level-world-history-depth-studies-revision-notes` | **Closed.** 2147 notes 'Where this fits' → Paper 1 Section B; description updated. |
+| E914.14 | `o-level-world-history-depth-studies-revision-notes` | **Closed.** Worked source example reframed as practice of the Paper 2 skill; trap wording aligned. |
+| E914.15 | `a-level-world-history-international-1870-1945-practice` | **Closed.** 9489: Paper 1 Historical Sources, Paper 2 Outline Study (9489 2027-2029 v2 pp.10, 36-38). Q8 stem. |
+| E914.16 | `a-level-world-history-international-1870-1945-practice` | **Closed.** Answer 8 rewritten to the correct paper formats (review pass removed unsupported source count and weighting details). |
+| E914.17 | `ocr-gcse-physics-exam-preparation` | **Closed.** J249 Paper 1/3 = P1-P4 and P9; Paper 2/4 = P5-P8 with assumed P1-P4, P9 (J249 v5.0 §2a). Intro, sections, checklist, self-test. Sibling `ocr-gcse-physics-matter` P9 statement corrected. |
+
+### E918 - Mathematics (8 items)
+
+| Item | File | Result |
+|---|---|---|
+| E918.1 | `aqa-gcse-mathematics-ratio-proportion-rates-of-change` | **Closed.** 1.03×5 = 5.15 is neither interest type; simple ×1.15, compound ×1.03⁵ = 1.159. |
+| E918.2 | `statistics-frequency-distributions-revision-notes` | **Closed.** Recover frequencies by subtracting the previous cumulative total from each; first class keeps its own. |
+| E918.3 | `igcse-mathematics-statistics` | **Closed.** Checklist: three averages (mean, median, mode) plus measures of spread (range; Extended quartiles, IQR) (0580 C9.3/E9.3). |
+| E918.4 | `igcse-mathematics-statistics-revision-notes` | **Closed.** Heading 'The four averages' → 'The three averages and the measures of spread'. |
+| E918.5 | `aqa-a-level-mathematics-differentiation` | **Closed.** a^(kx) = e^(kx ln a) (sympy-checked). |
+| E918.6 | `aqa-a-level-mathematics-differentiation-practice` | **Closed.** Substituting t into dy/dt and dx/dt then dividing is valid wherever dx/dt ≠ 0; no longer called a slip. |
+| E918.7 | `aqa-a-level-mathematics-differentiation-revision-notes` | **Closed.** Same identity fix in notes self-test answer 2. |
+| E918.8 | `o-level-economics-basic-economic-problem-revision-notes` | **Closed.** PPC redrawn bowed outward between the two axes. Sibling `the-basic-economic-problem` (2281 guide) had the same drawing; fixed. |
+
+### E919 - Subject content (16 items)
+
+| Item | File | Result |
+|---|---|---|
+| E919.1 | `aqa-as-level-business-what-is-business-practice` | **Closed.** Ingredients are bought-in inputs already deducted in added value, not overheads. |
+| E919.2 | `igcse-environmental-management-water-revision-notes` | **Closed.** Filtration removes particles that did not settle in sedimentation. |
+| E919.3 | `o-level-world-history-twentieth-century-practice` | **Closed.** US no-invasion pledge public; Jupiter/Turkey missile withdrawal secret — in answer (e) and in invented Source C. |
+| E919.4 | `a-level-biology-enzymes-revision-notes` | **Closed.** Below the optimum the temperature effect is kinetic; above it (and with pH) tertiary-structure bonds break. |
+| E919.5 | `a-level-economics-government-microeconomic-intervention-practice` | **Closed.** Elastic demand: producers get the larger share of a subsidy, stated with the supply assumption; consistent with the file's incidence rule. |
+| E919.6 | `ib-dp-geography-population-distribution` | **Closed.** Narrowing top = high death rates / lower life expectancy; wide top = ageing. Sibling revision notes had the same sentence; fixed. |
+| E919.7 | `ib-dp-geography-population-distribution-practice` | **Closed.** Answer 4(b) → Stage 1 (high birth and death rates), early Stage 2 accepted if reasoned. |
+| E919.8 | `ib-dp-geography-population-distribution-practice` | **Closed.** Flat land removed from the human-factor answer; replaced by concentration of government, services and jobs in coastal cities. |
+| E919.9 | `ib-myp-individuals-societies-disciplines` | **Closed.** Every MYP subject group uses four criteria A-D with the same band structure, but each group's criteria are its own. Sibling revision notes (which named I&S criteria for all groups) fixed. |
+| E919.10 | `igcse-oxfordaqa-urdu-local-national-international-practice` | **Closed.** Passage had no present-tense verb for Q7: added 'اب ہم وہاں دوبارہ جانا چاہتے ہیں۔'; answer gives تھی past, چاہتے ہیں present (3 marks). Q6 scheme (four marks against [6]) rebuilt to six chunks. |
+| E919.11 | `aqa-a-level-psychology-approaches-revision-notes` | **Closed.** Self-actualisation = top level of Maslow's hierarchy (both lines). |
+| E919.12 | `aqa-a-level-psychology-approaches-practice` | **Closed.** Same, practice answer 5. |
+| E919.13 | `igcse-environmental-management-water-practice` | **Closed.** Dam displacement: communities in the reservoir area upstream. |
+| E919.14 | `o-level-world-history-twentieth-century-practice` | **Closed.** Japan and Germany (1933) and Italy (1937) left the League; none expelled. |
+| E919.15 | `cambridge-a-level-geography-coastal-environments` | **Closed.** Curved end = recurved (hooked) tip; compound spit = series of recurves. |
+| E919.16 | `ocr-a-level-biology-exchange-and-transport` | **Closed.** SA:V falls with size; activity raises demand for exchange. |
+
+### E915 - Mark schemes (15 items)
+
+| Item | File | Result |
+|---|---|---|
+| E915.1 | `a-level-aqa-mathematics-quadratics-practice` | **Closed.** Q8 [3]: 1+1+1. |
+| E915.2 | `igcse-pakistan-studies-natural-resources-practice` | **Closed.** Q1 retariffed [3]→[4]: Mangla, Tarbela, Warsak, one barrage use (0448 2026 2(a)). |
+| E915.3 | `igcse-sociology-family-education-crime-practice` | **Closed.** Q3: two contrasted differences × 3 = 6. |
+| E915.4 | `igcse-commerce-globalisation-of-trade-practice` | **Closed.** Q9 [3]: challenge + effect on importer + consequence. |
+| E915.5 | `a-level-business-hrm-practice` | **Closed.** Q3 now the four traditional management functions (9609 v2 2.3.1), [4]. |
+| E915.6 | `a-level-business-hrm-practice` | **Closed.** Q7(a) [3]: method + link to context + justification. |
+| E915.7 | `a-level-computer-science-communication-practice` | **Closed.** Q7(c) [1][1][1] = 3. |
+| E915.8 | `a-level-computer-science-processor-fundamentals-practice` | **Closed.** Q8: purpose + operand in accumulator + result written back = 3. |
+| E915.9 | `a-level-mathematics-pure-mathematics-2-practice` | **Closed.** Q8 [5]: 1+1+2+1. |
+| E915.10 | `igcse-oxfordaqa-biology-organisation-practice` | **Closed.** Q9(b) [4]: two differences, bacterial + plant feature each. |
+| E915.11 | `a-level-oxfordaqa-english-language-unit-2-practice` | **Closed.** Q6 [5]: fifth point (supported conclusion) added. |
+| E915.12 | `a-level-oxfordaqa-english-language-unit-2-practice` | **Closed.** Q9 [8]: 2+3+3. |
+| E915.13 | `oxfordaqa-a-level-psychology-biopsychology-development-practice` | **Closed.** Q3 [4]: definition, Broca, Wernicke, brain-damage evidence. |
+| E915.14 | `oxfordaqa-a-level-psychology-biopsychology-development-practice` | **Closed.** Q8 [8]: 1+2+1+2+2. |
+| E915.15 | `oxfordaqa-a-level-sociology-exploring-sociology-practice` | **Closed.** Q7 [10]: 2+2 for, 2+2 against, 2 judgement. |
+
+### E916 - Stems and answers (7 items)
+
+| Item | File | Result |
+|---|---|---|
+| E916.1 | `a-level-aqa-sociology-education-practice` | **Closed.** Q8 and Q9 now cite printed Item A and Item B (original items added). |
+| E916.2 | `igcse-global-perspectives-individual-report-practice` | **Closed.** 4(b) model answer names a place (Kalimantan, Indonesian Borneo). |
+| E916.3 | `o-level-pakistan-studies-land-practice` | **Closed.** Q7(a) refers to the syllabus's named rivers; accepts Jhelum, Chenab, Ravi, Sutlej, Kabul (2059 2026 1(c)). |
+| E916.4 | `o-level-geography-economic-development-practice` | **Closed.** Stem was the defect: now asks for the three parts of the systems model (inputs-processes-outputs, 2217 3.2-3.3). |
+| E916.5 | `a-level-law-criminal-law-practice` | **Closed.** 9084 Topic 2 has no offences against the person: Q3 now asks about robbery (s8) and burglary s9(1)(b); answer 1+1+1+1 = 4. |
+| E916.6 | `ib-myp-mathematics-criteria-in-practice-practice` | **Closed.** 5(a) now says the second response shows all three communication features required for the top band. |
+| E916.7 | `ib-dp-economics-macroeconomics-practice` | **Closed.** Q5(b) stem now asks what a supply-side explanation would predict, matching the answer. |
+
+### E917 - Figures and counts (17 items)
+
+| Item | File | Result |
+|---|---|---|
+| E917.1 | `aqa-a-level-business-managers-leadership-practice` | **Closed.** 'six of the fifteen' → 'six of the eleven' (3+2+6). |
+| E917.2 | `aqa-gcse-biology-infection-and-response` | **Closed.** 'the seven named disease examples' (8461 4.3.1.2-4.3.1.5). |
+| E917.3 | `aqa-gcse-english-literature-exam-preparation` | **Closed.** Paper 1 ≈ 1.6 and Paper 2 ≈ 1.4 minutes per mark. |
+| E917.4 | `igcse-mathematics-mensuration` | **Closed.** Sector area 61.4 cm². |
+| E917.5 | `cambridge-o-level-environmental-management-exam-preparation` | **Closed.** Section A = 20 of 160 marks (an eighth); self-test 140/160 = 87.5%. |
+| E917.6 | `a-level-mathematics-pure-mathematics-2-practice` | **Closed.** 0.732 (ln5/(2 ln3) = 0.73249). |
+| E917.7 | `a-level-mathematics-pure-mathematics-2-practice` | **Closed.** Iterates recomputed; root 1.325 (3 d.p.). |
+| E917.8 | `edexcel-igcse-physics-waves-practice` | **Closed.** 40.8° (arcsin 0.654). |
+| E917.9 | `edexcel-igcse-physics-waves-revision-notes` | **Closed.** 41.1° (arcsin 0.658). |
+| E917.10 | `edexcel-ial-accounting-exam-preparation` | **Closed.** 'two hours short' (200 marks × 1.5 = 300 min). |
+| E917.11 | `ib-dp-biology-exam-preparation` | **Closed.** External papers = 44% of the grade (55% of the 80%). Siblings `ib-dp-biology-assessment-revision-notes`, `ib-dp-chemistry-assessment-revision-notes` aligned. |
+| E917.12 | `ib-dp-chemistry-structure-1-practice` | **Closed.** 0.0991 mol; O mass 1.59 g; total 4.00 g. |
+| E917.13 | `ib-dp-mathematics-ai-geometry-trigonometry-practice` | **Closed.** √76.64 = 8.7544 ≈ 8.75. |
+| E917.14 | `ib-dp-mathematics-ai-statistics-probability-practice` | **Closed.** Mean 72.25 is above five of the eight scores. |
+| E917.15 | `gcse-history-shaping-the-nation-options` | **Closed.** Thematic spans ≈ 850-1,240 years (guide). |
+| E917.16 | `gcse-history-shaping-the-nation-practice` | **Closed.** Same, practice answer 7. |
+| E917.17 | `gcse-history-shaping-the-nation-revision-notes` | **Closed.** Same, revision notes and self-test. |
+
+### I363 - Sibling disagreements (48 items)
+
+| Item | File | Result |
+|---|---|---|
+| I363.1 | `cambridge-igcse-urdu-second-language-exam-preparation` | **Closed.** 0539 listening: each exercise heard twice (0539 2025-2027 V2 p.15). Heading, routine, checklist, self-test, description. |
+| I363.2 | `ib-dp-business-management-marketing` | **Closed.** IB BM guide (2024) hours: SL U3=U4=30 (tied largest); HL U3=U5=45, U4 35. Marketing guide description and intro. Sibling `ib-dp-business-management-syllabus-guide` (which units have equal SL/HL hours) corrected. |
+| I363.3 | `a-level-aqa-psychology-approaches-in-psychology` | **Closed.** Revision notes were wrong: AQA 7181/7182 v1.4 lists cognitive neuroscience under the biological approach (v1.2 had it under cognitive). Notes fixed; study guide right (its 7182 section number also corrected to 4.2.1). |
+| I363.4 | `aqa-a-level-computer-science-fundamentals-of-algorithms` | **Closed.** Algorithms (section 12 / 4.3) is Paper 1 (7517 v1.6 §2.2). |
+| I363.5 | `aqa-gcse-economics-objectives-of-government` | **Closed.** 8136 numbering: guide covers 3.2.2 Government objectives; 3.2.2.6 noted as not covered (8136 v1.0). |
+| I363.6 | `gcse-history-exam-preparation` | **Closed.** 8145 has four AOs, 35/35/15/15 (8145 §4.2); tariff and SPaG sentence corrected. |
+| I363.7 | `gcse-history-historic-environment` | **Closed.** Historic environment = one 16-mark essay (8 AO1, 8 AO2), Paper 2 Section B Q4, one specified site changed annually (8145 4.4.2). Sibling revision notes (judgement wording; site count) fixed. |
+| I363.8 | `gcse-history-understanding-modern-world-practice` | **Closed.** Sources AO3 (Paper 1 Section B); interpretations AO4 (Section A). |
+| I363.9 | `cambridge-igcse-world-history-depth-study-first-world-war` | **Closed.** 0470 Depth Studies examined in Paper 1 Section B and basis of Paper 4/Component 3. |
+| I363.10 | `igcse-english-literature-paper-2-drama-practice` | **Disputed, no change.** Both wordings are the 0475 syllabus's own: section 4 AO table ('AO2 Understand the meanings of literary texts and their contexts…', 'AO3 Recognise and appreciate ways in which writers use language, structure and form…') and the Paper 1/3 component descriptions ('characters, relationships, situations and themes (AO2)', 'writer's intentions and methods (AO3)'). Each file quotes one faithfully. |
+| I363.11 | `cambridge-igcse-urdu-component-5-speaking` | **Closed (both figures are the syllabus's).** 0539 V2 gives 'Approximately 10–12 minutes' (pp.9, 16) and part timings 2-3, 3-4, 3-4 (p.17). The Component 5 guide now states both, and Part 3 corrected to 'two or three general topics' (p.17). |
+| I363.12 | `igcse-biology-human-nutrition-revision-notes` | **Closed (sibling was wrong).** 0610 7.2.1(a) groups colon, rectum, anus under the large intestine; the named notes match. Study guide and practice Q3 wording fixed. |
+| I363.13 | `cambridge-o-level-sociology-social-stratification-and-inequality` | **Closed.** 2251: Social stratification and inequality is Topic 3 (3.1-3.3), not subtopic 1.3 (2251 2025-2027 V3). Title, description, intro, coverage rebuilt. |
+| I363.14 | `cambridge-o-level-environmental-management-agriculture` | **Closed.** 5014 2025-2026 V2: soils are 3.1-3.2 in Topic 3 itself; Topic 1 has none. |
+| I363.15 | `cambridge-o-level-commerce-globalisation-of-trade` | **Closed.** 7100 v2 Topic 3 coverage rebuilt: 3.1.1-3.1.4, 3.2.1-3.2.2 (trade restrictions tariffs, quotas, embargoes; supply-chain risks). |
+| I363.16 | `cambridge-o-level-commerce-globalisation-of-trade` | **Closed.** Multinationals placed in 2.1.3 with link; description rewritten. |
+| I363.17 | `a-level-business-hrm-practice` | **Closed.** Q3 → four traditional functions (planning, organising, directing, controlling), 9609 v2 2.3.1. |
+| I363.18 | `a-level-ict-hardware-software-practice` | **Closed.** 9626 2.1 gives one shared characteristics list; mainframe/supercomputer distinction now rests on uses and throughput. Practice 7(a), sibling notes and guide aligned. |
+| I363.19 | `a-level-english-literature-paper-3-shakespeare-and-drama-revision-notes` | **Closed.** 9695 2026 Section A: Hamlet or The Taming of the Shrew. |
+| I363.20 | `a-level-english-literature-paper-3-shakespeare-and-drama-revision-notes` | **Closed.** Section B: Sweat, Long Day's Journey Into Night, Kongi's Harvest; 2024-only texts noted. |
+| I363.21 | `a-level-psychology-research-methods-practice` | **Disputed, no change.** The flagged file matches the 9990 syllabus (2024-2026 V1, 'Planning studies for Paper 2'): 'Candidates will not be expected to include aims or hypotheses in their plan. Candidates will not be expected to evaluate issues relating to the sample/generalisability or ethics of their plan.' The siblings' 'sampling technique and ethics' refers to the Paper 4 general features list (aims and hypotheses; sample and sampling technique; ethics), which Paper 2's list omits; both are consistent with the syllabus. |
+| I363.22 | `edexcel-igcse-english-language-exam-preparation` | **Closed.** 4EA1 Issue 7 Section A: a Part 1 anthology text plus one unseen extract. Sibling `igcse-edexcel-english-language-component-1` fixed. |
+| I363.23 | `edexcel-igcse-english-literature-exam-preparation` | **Closed.** 4ET1 Issue 3: Sections A, B, C given. |
+| I363.24 | `edexcel-igcse-english-literature-exam-preparation` | **Closed.** Closed book with anthology poems provided; memorised quotation for modern prose only. |
+| I363.25 | `edexcel-a-level-urdu-listening-reading-writing-revision-notes` | **Closed.** 9UR0 Papers 1 and 2 each include translation alongside other skills; both places in notes. |
+| I363.26 | `ib-dp-business-management-finance-accounts` | **Closed.** IB BM hours (see I363.2): finance guide says tied largest at SL (U3, U4) and HL (U3, U5). |
+| I363.27 | `ib-dp-business-management-finance-accounts` | **Closed.** IB BM 3.2: internal = personal funds (sole traders), retained profit, sale of assets; external = share capital, loan capital, overdrafts, trade credit, crowdfunding, leasing, microfinance providers, business angels. Guide list and practice Q1 answer. |
+| I363.28 | `ib-dp-business-management-finance-accounts` | **Closed.** IB BM 3.4 names: profit and loss account, balance sheet. |
+| I363.29 | `ib-dp-business-management-finance-accounts` | **Closed.** NPV HL only (3.8) in coverage, approach and checklist. |
+| I363.30 | `ib-dp-business-management-finance-accounts-practice` | **Closed.** Practice 7(d) labelled HL only. |
+| I363.31 | `ib-dp-business-management-marketing` | **Closed.** 4.3 Sales forecasting (HL only) = benefits and limitations; trend calculation is the HL toolkit's simple linear regression; moving averages removed. Siblings marketing notes and practice 7(c) aligned. |
+| I363.32 | `ib-dp-history-exam-preparation` | **Closed.** DP History brief (2028): Paper 2 Section A concept question; Section B short response + essay. Exam-prep description, section, self-test; siblings subject guide and assessment notes (table, command-terms section) aligned. |
+| I363.33 | `ib-dp-history-investigation-ia` | **Closed.** IA sections per brief: 1 formulation of the question; 2 analysis of chosen sources; 3 synthesis of evidence. IA guide and exam-prep. |
+| I363.34 | `ib-dp-language-a-literature-exam-preparation` | **Closed.** Language A: literature guide (2021) HL essay: regular feedback; advice on a first complete draft; next version final. |
+| I363.35 | `ib-dp-mathematics-aa-calculus` | **Closed.** AA guide SL 5.6: chain, product, quotient rules are SL; '(particularly at HL)' removed. |
+| I363.36 | `ib-dp-mathematics-aa-calculus` | **Closed.** Checklist: all four rules at SL and HL. |
+| I363.37 | `ib-dp-mathematics-aa-calculus` | **Closed.** SL 5.10 substitution of the form ∫kg′(x)f(g(x))dx; AHL 5.16 wider substitution and by parts; AHL 5.17 volumes of revolution. Sibling notes aligned. |
+| I363.38 | `ib-dp-psychology-cognitive-approach` | **Closed.** 'Paper 1 essays sometimes ask to compare two approaches' removed from guide and sibling notes (comparison presented as a revision tool). |
+| I363.39 | `ib-myp-mathematics-criteria-in-practice` | **Closed.** MYP Mathematics brief: numerical and abstract reasoning; thinking with models; spatial reasoning; reasoning with data. |
+| I363.40 | `ib-myp-mathematics-criteria-in-practice-practice` | **Closed.** Practice Q2 answer: the four branches, [1] each = 4. |
+| I363.41 | `ib-myp-mathematics-criteria-in-practice-revision-notes` | **Closed.** Revision notes list replaced. |
+| I363.42 | `ib-dp-economics-macroeconomics-practice` | **Closed.** IB Economics 3.3: growth, low unemployment, low and stable inflation, sustainable government debt (HL only); equity is 3.4 / a potential conflict. Q3 qualified SL 3 / HL 4. Siblings' 'four objectives' qualified. |
+| I363.43 | `ib-dp-economics-macroeconomics-practice` | **Closed.** Economics guide: published February 2020, updated May, August and October 2020 (practice and two siblings). |
+| I363.44 | `oxfordaqa-igcse-economics-exam-preparation` | **Closed.** 9214: ten MCQs open Section A; rest calculation, short-answer, extended response (9214 v1.0 p.9). Sibling markets practice aligned. |
+| I363.45 | `oxfordaqa-igcse-islamiyat-exam-preparation` | **Closed.** 9237 paper titles and sections (v1.1 §2.1-2.2). |
+| I363.46 | `igcse-oxfordaqa-urdu-study-employment` | **Closed.** Theme topics from 9264 3.1.3; unsupported provenance clause removed. |
+| I363.47 | `oxfordaqa-igcse-english-literature-exam-preparation` | **Closed.** 9275 v5.1 and v1.0: unseen prose Route A only; unseen poetry on both routes. |
+| I363.48 | `gcse-history-exam-preparation` | **Closed.** 8145 source questions Paper 1 Section B (4, 12) and Paper 2 Section A (8); site essay 16 marks; one site per depth study changed annually. |
+
+### I364 - Descriptions of own questions (17 items)
+
+| Item | File | Result |
+|---|---|---|
+| I364.1 | `aqa-a-level-business-managers-leadership-practice` | **Closed.** 'State' → Q2 and Q6b; 'Distinguish' (Q3) added. |
+| I364.2 | `ib-dp-business-management-finance-accounts-practice` | **Closed.** Only Q5 and Q6 calculate; Q4 none; 7(c) interprets a given ratio. |
+| I364.3 | `ib-dp-chemistry-reactivity-3-mechanisms-practice` | **Closed.** Weighting paragraph rewritten to real tariffs (Q7 7; Q4, Q5 4; Q6 3) and coverage (3.3 not tested). |
+| I364.4 | `ib-dp-chemistry-structure-1-practice` | **Closed.** Command terms: Calculate 4a, 5, 6b, 7b; Determine 4b; Explain 7a, 7c. |
+| I364.5 | `ib-dp-computer-science-theme-a-practice` | **Closed.** Q7 described as combining three sub-topics with A.3 as background; overstatement removed. |
+| I364.6 | `ib-dp-ess-topic-1-foundations-practice` | **Closed.** Q1-3 plain definitions; Q4-7 scenarios. |
+| I364.7 | `ib-dp-global-politics-peace-conflict-practice` | **Closed.** Concept questions named: 4(b), 5(a), 5(b), 6. |
+| I364.8 | `aqa-gcse-business-exam-preparation` | **Closed.** Self-test asks which AOs outweigh AO1 and by how much (8132 4.2.1: 35/35/30). |
+| I364.9 | `cambridge-igcse-world-history-exam-preparation` | **Closed.** Heading now about reading load (≈2.6 vs 2.0 minutes per mark; up to seven sources, 0470 p.29). |
+| I364.10 | `cambridge-o-level-islamiyat-exam-preparation` | **Closed.** Q1 8 marks (16%), Q2-5 14 marks (28%) (2058 2026-2027); timings by tariff; worked structure rebuilt to part (a) 10 marks / part (b) 4 marks (review pass); checklist, self-test, description. |
+| I364.11 | `a-level-world-history-usa-practice` | **Closed.** Note matches answers: answer 6 states position at once; 4 and 5 reach judgement by weighing. |
+| I364.12 | `ib-dp-chemistry-structure-1-practice` | **Closed.** Q5 described as sharing the mass→moles step then continuing through a mole ratio. |
+| I364.13 | `aqa-a-level-accounting-exam-preparation` | **Closed.** Section C 50 of 120 marks, over 40% (7127). |
+| I364.14 | `edexcel-a-level-urdu-translation-works-practice` | **Closed.** Section A 20 marks, recommended 30 minutes; the extra 20 minutes wording corrected. |
+| I364.15 | `ib-dp-chemistry-reactivity-3-mechanisms-practice` | **Closed.** Claims not made by the notes removed. |
+| I364.16 | `ib-dp-ess-topic-2-ecology-practice` | **Closed.** Systems thinking 4(a), 6; sustainability 5(b); Q7 exception. |
+| I364.17 | `ib-dp-history-four-concepts-practice` | **Closed.** Section A recall; only Section B uses scenarios. |
+
+### I365 - Internal contradictions (37 items)
+
+| Item | File | Result |
+|---|---|---|
+| I365.1 | `igcse-mathematics-statistics-revision-notes` | **Closed.** Trap: modal class for grouped data at Extended (0580 E9.3). |
+| I365.2 | `ib-dp-mathematics-ai-geometry-trigonometry` | **Closed.** 'extended further than SL' removed (vectors HL only). Sibling notes same. |
+| I365.3 | `a-level-aqa-english-literature-b-theory-and-independence-revision-notes` | **Closed.** Conventional essay: at least two texts in detail; re-creative piece may focus on one (7717 3.3). |
+| I365.4 | `aqa-gcse-biology-infection-and-response` | **Closed.** 8461 4.3.3.1 restriction applies to named plant diseases; detection, deficiencies and defences still required. |
+| I365.5 | `igcse-global-perspectives-individual-report-practice` | **Closed (resolved the other way).** Cambridge publishes a specimen mark scheme for 0457/02 (Tables A-H). The 'no published criteria' claim removed; answers reference the criteria. Siblings guide and notes (which said no criteria are published) corrected. |
+| I365.6 | `igcse-geography-natural-environment-revision-notes` | **Closed.** 'five unconnected places' → one per required case study. Sibling guide (same wording, listing six) fixed. |
+| I365.7 | `igcse-english-literature-paper-1-poetry-and-prose-practice` | **Closed.** Writer's intention → AO3; AO4 by implication (0475 2026 V2). |
+| I365.8 | `igcse-computer-science-hardware-revision-notes` | **Closed.** Self-test: registers PC, MAR, MDR, CIR and address, data, control buses (0478 3.1.2). |
+| I365.9 | `igcse-statistics-frequency-distributions-practice` | **Closed.** 0479 3.2: discrete data uses class limits, boundaries, midpoints, widths; Q8 stem and answer rebuilt ([3]). |
+| I365.10 | `igcse-mathematics-mensuration` | **Closed.** Only the triangle area formula is in the 0580 List of formulas. |
+| I365.11 | `igcse-biology-movement-cells-practice` | **Closed.** Supplement labels by 0610 column: 5(b), 8(a) Supplement; Q4, 7(b), 8(b), 9(b) Core alternatives (review pass aligned the technique note). |
+| I365.12 | `igcse-physics-waves-practice` | **Closed.** 0625: n = sin i/sin r and sonar depth Supplement; TIR Core. |
+| I365.13 | `igcse-commerce-globalisation-of-trade-revision-notes` | **Closed.** Natural-disaster risk example (0715/7100 3.2.2). |
+| I365.14 | `cambridge-o-level-environmental-management-agriculture` | **Closed.** Common mistake and checklist point to 3.2 in the same topic. |
+| I365.15 | `a-level-economics-government-intervention-revision-notes` | **Closed.** Maximum and minimum prices one tool (9708 3.2.4); six rows. |
+| I365.16 | `edexcel-igcse-physics-waves-revision-notes` | **Closed.** sin c = 1/n. |
+| I365.17 | `a-level-edexcel-urdu-listening-reading-writing` | **Closed.** Self-test answer 3: Papers 1 and 2 each include translation alongside other skills. |
+| I365.18 | `ib-dp-chemistry-structure-1` | **Closed.** HL list: ionisation energy from the convergence limit (matches file body). |
+| I365.19 | `ib-dp-computer-science-theme-a` | **Closed.** 'LAN, WAN and other A.2 terms' in informal language. |
+| I365.20 | `ib-dp-ess-topic-2-ecology` | **Closed.** Coverage headed as Marlbridge's outline (public brief lists no Topic 2 subtopics); sibling notes same; review pass removed a remaining 'specification distinguishes' claim in guide and notes. |
+| I365.21 | `ib-dp-ess-topic-2-ecology` | **Closed.** Link now points at the Topic 1 study guide. |
+| I365.22 | `ib-dp-language-a-language-and-literature-exam-preparation` | **Closed.** Answer 4 and checklist: regular feedback plus advice on one complete draft. |
+| I365.23 | `ib-myp-sciences-course-models` | **Closed.** Topics span biology, chemistry, physics; exam scope set by the eAssessment option entered. Siblings notes and syllabus guide aligned; review pass fixed `ib-myp-sciences-investigation-skills-exam-preparation` (same claim). |
+| I365.24 | `ib-myp-sciences-course-models-practice` | **Closed.** Answers 4(a), 5(b) aligned with 8. |
+| I365.25 | `oxfordaqa-igcse-chemistry-exam-preparation` | **Closed.** One Mg → MgO worked example throughout. |
+| I365.26 | `oxfordaqa-igcse-mathematics-exam-preparation` | **Closed.** 9260: linear, tiered; both papers of one tier (1C/2C or 1E/2E) in one series (v5.1 §2.2). |
+| I365.27 | `igcse-oxfordaqa-urdu-study-employment-practice` | **Closed.** Q6 note: 3 + 2 = 5. |
+| I365.28 | `oxfordaqa-a-level-geography-exam-preparation` | **Closed.** Five components at 20% each (intro line fixed in review pass). |
+| I365.29 | `oxfordaqa-a-level-geography-exam-preparation` | **Closed.** Paper 3: 60 marks in the same 1h30. |
+| I365.30 | `oxfordaqa-a-level-english-literature-exam-preparation` | **Closed.** As AS Paper 1 (closed book), unlike open-book AS Paper 2 (9675 v5.3 2.2). |
+| I365.31 | `aqa-a-level-biology-exchange-with-environment` | **Closed.** Sections 1-4 are first-year/AS content; assessed on both AS papers and A-level Papers 1 and 3 (7402 v1.5). |
+| I365.32 | `aqa-a-level-biology-exchange-with-environment` | **Closed.** Monosaccharides and amino acids by co-transport with Na⁺; micelle products by diffusion (3.3.3). |
+| I365.33 | `a-level-mathematics-pure-mathematics-2-revision-notes` | **Closed.** (1/2) ln|2x+1| + c; derivative line consistent. |
+| I365.34 | `ib-dp-business-management-finance-accounts-practice` | **Closed.** 7(c) labelled HL only (gearing is 3.6 HL). |
+| I365.35 | `ib-dp-physics-forces-momentum-practice` | **Closed.** Tension is the centripetal force when it is the only centre-directed force; conical pendulum noted. |
+| I365.36 | `ib-myp-sciences-criteria-in-practice` | **Closed.** Limitation: endpoint (colour change) judged by eye. |
+| I365.37 | `ib-myp-sciences-criteria-in-practice-revision-notes` | **Closed.** Same, revision notes. |
+
+### I366 - Description/metadata (8 items)
+
+| Item | File | Result |
+|---|---|---|
+| I366.1 | `aqa-gcse-sociology-research-methods` | **Closed.** Topic string and subtopic `sociological-research-methods-8192` (exists in syllabus-topics.ts). |
+| I366.2 | `igcse-commerce-commercial-operations-practice` | **Closed.** Description: wholesaling removed. |
+| I366.3 | `o-level-economics-microeconomic-decision-makers-practice` | **Closed.** Description: money and banking removed. |
+| I366.4 | `edexcel-igcse-english-language-exam-preparation` | **Disputed, no change.** The linked PDF (filename '…iss6-02-02-2023.pdf') was downloaded: cover 'Issue 7', 'This specification is Issue 7', footer 'Specification – Issue 7 – August 2025' (46 pp). The declared Issue 7 matches the document; only the filename is stale. |
+| I366.5 | `edexcel-ial-english-literature-exam-preparation` | **Disputed, no change.** The linked PDF (filename '…iss6-9-spec-240521pm.pdf') is byte-identical to the local Issue 7 copy: cover 'Issue 7', 'Issue 7 changes', footer 'Specification – Issue 7 – February 2026' (53 pp). |
+| I366.6 | `aqa-a-level-computer-science-exam-preparation` | **Closed.** Description: worked routine for an on-screen programming task; Preliminary Material sentence (7517 §2.2). |
+| I366.7 | `ib-dp-business-management-exam-preparation` | **Closed.** Description matches body. |
+| I366.8 | `ib-dp-chemistry-exam-preparation` | **Closed.** Description matches body (no Paper 2 timings claimed). |
+
+### I367 - Answers too narrow (4 items)
+
+| Item | File | Result |
+|---|---|---|
+| I367.1 | `igcse-biology-organisation-of-organism-practice` | **Closed.** 6(b): feature + reason = 2; 6(a) no longer credits cell wall (bacteria have one). |
+| I367.2 | `o-level-pakistan-studies-land-practice` | **Closed.** Q2 accepts northern cities from 2059 1(b); rejects Multan, Quetta and southern cities. |
+| I367.3 | `o-level-pakistan-studies-natural-resources-practice` | **Closed.** Answer 5 examples; other correct minerals accepted. |
+| I367.4 | `o-level-geography-economic-development-practice` | **Closed.** Tertiary and quaternary grow; secondary falls in relative importance in the most developed. |
+
+### I368 - D-239 Topic 7 guide (1 items)
+
+| Item | File | Result |
+|---|---|---|
+| I368.1 | `igcse-accounting-concepts-and-modern-practice` | **Closed.** Drawings and profit both rise by $1,000, so closing capital is unchanged (matches Topic 5 guide and notes). |
+
+### Disputed -- no change, primary document quoted
+
+- **I363.10**, **I363.21**, **I366.4**, **I366.5**: the quotations are in the rows above. In each case the flagged file agrees with the board document read in full; the disagreement the finding recorded is between two faithful quotations of the same syllabus (I363.10), a Paper 2 list and a Paper 4 list (I363.21), or a stale filename on a document whose own text declares the issue the file cites (I366.4, I366.5).
+
+### Changed in passing (review pass, beyond the item wording)
+
+| Files | What changed |
+|---|---|
+| `igcse-oxfordaqa-biology-organisation-practice.md` | 9(a) answer gave plasmids as the main location of bacterial DNA; now DNA free in the cytoplasm with some genes in plasmids. (Overlaps Q399.1; corrected because the repaired 9(b) sits beneath it and the sibling guide says the same.) |
+| `a-level-law-criminal-law-practice.md` | Rebuilt Q3 answer also addresses attempted theft inside the building under s9(1)(b). |
+| `ib-myp-sciences-investigation-skills-exam-preparation.md` | Trap and self-test answer 5 carried the course-model claim removed under I365.23. |
+| `ib-dp-history-assessment-revision-notes.md` | Command-terms section carried the essay-only Paper 2 description removed under I363.32. |
+| `a-level-aqa-psychology-approaches-in-psychology.md` | 7182 section number 3.2.1 → 4.2.1 (3.2.1 is the AS content), two places. |
+| `cambridge-o-level-islamiyat-exam-preparation.md` | Worked structure, checklist and self-test rebuilt to part (a) knowledge (10) and part (b) understanding (4), per 2058 §4.2 levels of response. |
+| `cambridge-igcse-urdu-component-5-speaking.md` | Part 3 'at least two topics' → 'two or three general topics' (0539 p.17). |
+| `a-level-world-history-international-1870-1945-practice.md`, `a-level-world-history-usa-practice.md`, `cambridge-igcse-world-history-depth-study-first-world-war.md`, `gcse-history-historic-environment.md`, `gcse-history-historic-environment-revision-notes.md` | Unsupported details added by the first pass removed (source count and weighting in answer 8; an overstated note on judgements; a 1890-1914 date range; 'set of sites' / 'sites' where AQA specifies one site changed annually). |
+| `ib-dp-ess-topic-2-ecology.md`, `-revision-notes.md`; `oxfordaqa-a-level-geography-exam-preparation.md` | Remaining lines that contradicted the repaired statements. |
+
+### Observations, not actioned
+
+- `edexcel-a-level-urdu-listening-reading-writing-practice` L79: Section B described as the larger share of time and marks; Sections A and B carry 30 marks each.
+- `edexcel-igcse-english-literature-exam-preparation` footer cites 4ET1 Issue 2 (2017); Pearson's current is Issue 3 (August 2025).
+- `igcse-world-history-nineteenth-century-1848-1914` L58: 'two of its eight Section A questions' from Option A; 0470 p.29 says four.
+- `o-level-world-history-depth-studies` L49-51 and notes L30: Depth Study A 'causes, course and consequences'; 2147 Depth Study A has no causes.
+- `a-level-world-history-usa-practice`: 'Assess' used as a Paper 2 command (9489 lists it for Paper 4); several unsupported format claims.
+- `a-world-history-modern-europe-practice` L72: 'one question from each topic'; 9489 p.68 says two from one section.
+- `gcse-history-historic-environment*`: 'significance' listed among site-essay concepts; 8145 names change, continuity, cause and/or consequence.
+- `ib-dp-history-exam-preparation` checklist still cites 'compare and contrast' for Paper 1.
+- `igcse-mathematics-mensuration` L85-86, 125-126, 142: implies arc and sector formulas are in the 0580 List of formulas; only circle area and circumference are.
+- `ib-dp-mathematics-ai-geometry-trigonometry-practice` Q3 asks for two pieces of information [2]; the answer gives one condition.
+- `igcse-biology-movement-cells-practice` 8(a), 9(b): '[1] + [1-2]' allocations.
+- `a-level-law-criminal-law-practice` L64-71: Section A described as one scenario; 9084 Paper 2 sets a separate scenario per part.
+- `src/data/academic/syllabus-topics.ts` L3392-3395: 2251 topics numbered 1.1-1.3, clashing with the syllabus's own 1.1-1.3.
+- 0457 Individual Report family: Table D requires two evaluated courses of action and a justified preferred option; not stated.
+- `cambridge-o-level-environmental-management-agriculture`: coverage list does not match 5014 2025-2026 3.1-3.5 (loam, intensive/extensive; missing 3.1, 3.4, salinisation); availability line (June series, November Mauritius only).
+- `ib-dp-business-management-marketing-practice` closing paragraph overstates how many Unit 3 practice questions calculate.
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; `validate-cross-board-integrity`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31. `check-duplicate-resource-scope`: the four pre-existing groups unchanged; the AQA GCSE Sociology allow-list entry is now unused because I366.1 gave `aqa-gcse-sociology-research-methods` its own sub-topic.
+
+**Open-count position after D-241 (for the audit to reconcile).** Round 19 leaves E914-E919 and I363-I368 for repair. 191 items closed here; I363.10, I363.21, I366.4 and I366.5 disputed with document quotations. Confirmed errors declared open: 0.

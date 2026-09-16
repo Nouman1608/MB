@@ -65,10 +65,10 @@ cumulative frequency at height 25 on the horizontal axis.
 **(b)** Describe the correct method for finding the number of values below 25 using the curve. **[2]**
 
 **8.** A data set records the number of pets owned by each student in a class (discrete data), grouped
-into the class "0–2 pets."
+into the classes "0–2 pets", "3–5 pets" and "6–8 pets".
 
-**(a)** State the class limits for this class interval. **[1]**
-**(b)** Explain why this class would not use "class boundaries" in the same way continuous data does. **[2]**
+**(a)** State the class limits for the class "0–2 pets". **[1]**
+**(b)** State the class boundaries, the class midpoint and the class width for the class "3–5 pets". **[3]**
 
 **9.** A histogram has two classes of unequal width: Class A has width 5 and frequency 20; Class B has
 width 10 and frequency 30. Calculate the frequency density for each class, and state which class
@@ -109,10 +109,11 @@ curve, then draw a horizontal line across to the vertical axis to read off the c
 frequency, which gives the number of values below 25 [2].
 
 **8. (a)** The class limits are 0 and 2 [1].
-**(b)** Discrete data can only take specific values with genuine gaps between them (a student cannot
-own 1.5 pets), so class limits are meaningful and sufficient on their own; class boundaries are
-instead needed for continuous data, where there are no natural gaps between classes and a boundary is
-needed to define exactly where one class ends and the next begins [2].
+**(b)** Class boundaries **2.5 and 5.5** [1]; class midpoint (3 + 5) ÷ 2 = **4** [1]; class width
+5.5 − 2.5 = **3** [1]. A student cannot own 2.5 pets, but for discrete data the syllabus still requires
+class limits, boundaries, midpoints and widths: each boundary lies halfway between the upper limit of
+one class and the lower limit of the next (between 2 and 3, and between 5 and 6), so the classes meet
+without gaps, and the width is measured between the boundaries, not the limits (5 − 3 = 2 would be wrong).
 
 **9.** Class A: frequency density = 20 ÷ 5 = **4**. Class B: frequency density = 30 ÷ 10 = **3** [2–3].
 Since a histogram's bar height represents frequency density (not raw frequency) when class widths are

@@ -86,10 +86,10 @@ Because formulas for circles, arcs, sectors, and 3D surface area and
 volume are given in the List of formulas, the exam skill being tested
 is not memorising them but selecting the right one and substituting
 correctly — practise identifying which given formula a question
-requires before attempting to recall it from memory. By contrast, the
-area formulas for a rectangle, triangle (only its own formula is
-given), parallelogram and trapezium in C5.2/E5.2 are not provided, so
-these four must be memorised precisely. Keep units disciplined
+requires before attempting to recall it from memory. By contrast, of
+the area formulas in C5.2/E5.2 only the triangle's is in the List of
+formulas; the formulas for a rectangle, parallelogram and trapezium
+are not provided, so these three must be memorised precisely. Keep units disciplined
 throughout a multi-step problem: converting between cm and m, or
 between cm³ and litres, part-way through a calculation and forgetting
 to convert back (or converting only one of several measurements) is
@@ -110,7 +110,7 @@ Find the area of a sector with radius 8 cm and sector angle 110°.
 Sector area = (angle / 360) x pi x r^2
             = (110 / 360) x pi x 8^2
             = (110 / 360) x pi x 64
-            ~= 61.5 cm^2 (3 s.f.)
+            ~= 61.4 cm^2 (3 s.f.)
 ```
 
 At Core tier, this exact question would not appear, since 110° is
@@ -135,8 +135,9 @@ decimal instead of retaining π in the final expression.
 
 ## Quick revision checklist
 
-- Memorise the area formulas for a rectangle, triangle, parallelogram
-  and trapezium, since these are not given.
+- Memorise the area formulas for a rectangle, parallelogram and
+  trapezium, since these are not given (the area of a triangle is in
+  the List of formulas).
 - Practise locating and correctly substituting into the given
   formulas for circles, arcs, sectors, and 3D surface area and
   volume.

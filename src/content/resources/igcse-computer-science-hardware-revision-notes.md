@@ -149,8 +149,8 @@ network-level, can change).
 
 ## Self-test
 
-1. Name the four buses/units involved in the FDE cycle's "fetch"
-stage and what each does.
+1. Name the registers and buses involved in the FDE cycle's "fetch"
+stage and state what each does.
 2. What distinguishes primary from secondary storage?
 3. Give one advantage and one disadvantage of cloud storage vs local
 storage.
@@ -158,10 +158,13 @@ storage.
 5. Why is embedded system correctly distinguished from a
 general-purpose computer?
 
-**Answers:** 1. PC (holds next instruction's address), MAR (holds the
-address being accessed), MDR (holds the data/instruction being
-transferred), address/data/control buses (carry the address, data and
-signals between components). 2. Primary storage is directly accessed
+**Answers:** 1. Registers: PC (holds the next instruction's address),
+MAR (holds the address being accessed), MDR (holds the data/instruction
+being transferred), CIR (holds the instruction just fetched, ready to be
+decoded). Buses: address bus (carries the address from the MAR to RAM),
+data bus (carries the instruction from RAM to the MDR), control bus
+(carries control signals, such as the read signal, from the control
+unit). 2. Primary storage is directly accessed
 by the CPU; secondary storage is not and is used for more permanent
 data. 3. Advantage: remote accessibility from any location;
 disadvantage: dependence on physical servers/infrastructure to host

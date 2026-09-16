@@ -45,8 +45,10 @@ spontaneous spoken production rather than reading, writing, or listening compreh
   card of prompt headings and 3-4 illustrative materials such as maps, statistics or photographs
 - Part 2, Discussion (3-4 minutes): the examiner discusses the candidate's presentation with them,
   requiring the candidate to explain and justify opinions with natural, unscripted responses
-- Part 3, General Conversation (3-4 minutes, worth 20 marks): a conversation covering at least two topics
-  unknown to the candidate in advance, drawn from the syllabus's general topic areas
+- Part 3, General Conversation (3-4 minutes, worth 20 marks): a conversation covering two or three general
+  topics unknown to the candidate in advance, drawn from the syllabus's general topic areas
+- The syllabus gives the whole test as approximately 10-12 minutes; the three part timings above add up
+  to 8-11 minutes of that
 - Separately endorsed with a grade from 1 (high) to 5 (low), rather than contributing marks to the overall
   IGCSE grade for Urdu as a Second Language
 - Speaking tests take place before the main written examination series, with a recorded sample of

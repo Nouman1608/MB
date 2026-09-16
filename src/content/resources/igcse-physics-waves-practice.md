@@ -42,10 +42,10 @@ each answer. **[2]**
 **4.** A ray of light passes from air into a glass block.
 
 **(a)** State what happens to the speed and direction of the ray as it enters the glass. **[2]**
-**(b)** The angle of incidence is 40° and the angle of refraction is 25°. Calculate the refractive
-index of the glass. **[2]**
+**(b) (Supplement)** The angle of incidence is 40° and the angle of refraction is 25°. Calculate the
+refractive index of the glass. **[2]**
 
-**5. (Supplement)** A ray of light inside a glass block strikes the glass-air boundary at an angle
+**5.** A ray of light inside a glass block strikes the glass-air boundary at an angle
 greater than the critical angle.
 
 **(a)** State what happens to the ray. **[1]**
@@ -60,7 +60,7 @@ Explain why this claim is incorrect. **[2]**
 **7.** List the regions of the electromagnetic spectrum in order of increasing frequency, and state
 one named use of microwaves. **[3]**
 
-**8.** An ultrasound pulse is sent from a ship and reflects off the sea floor. The pulse returns after
+**8. (Supplement)** An ultrasound pulse is sent from a ship and reflects off the sea floor. The pulse returns after
 0.4 seconds, and the speed of sound in water is 1500 m/s.
 
 **(a)** Calculate the depth of the sea floor below the ship. **[2]**

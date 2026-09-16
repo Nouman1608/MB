@@ -93,7 +93,7 @@ CONCLUSION: distinguish LEVELS from RATES OF CHANGE -- this is
 
 (HL calculation element in this sub-topic: constructing a weighted price index from supplied data. Equity in the distribution of income is a related but separate concern, covered in the following sub-topic on inequality and poverty -- including the Lorenz curve and Gini coefficient, both interpreted at SL, with construction of a Lorenz curve HL only.)
 
-Learn these four as the objectives of *this* sub-topic — evaluation questions often ask which objective a policy serves and which it might conflict with (e.g. growth-boosting policy can worsen inflation); do not add equity to this list, since the syllabus places it in the next sub-topic.
+Learn these as the objectives of *this* sub-topic (three at SL, four at HL) — evaluation questions often ask which objective a policy serves and which it might conflict with (e.g. growth-boosting policy can worsen inflation); do not add equity to this list, since the syllabus places it in the next sub-topic.
 
 ## Worked example: a second data-response scenario
 
@@ -144,7 +144,7 @@ the full scope of 3.1-3.3.
 
 ## Linking 3.1-3.3 to the rest of Unit 3
 
-Sub-topics 3.1-3.3 are the shared foundation the rest of Unit 3 depends on: demand-side policy (fiscal and monetary policy) is explained as shifting AD; supply-side policy is explained as shifting AS; and every policy is ultimately evaluated against the four macroeconomic objectives introduced in 3.3. Treat this content as the vocabulary and diagram fluency the rest of the unit assumes you already have secure, not a self-contained block to revise once and move past.
+Sub-topics 3.1-3.3 are the shared foundation the rest of Unit 3 depends on: demand-side policy (fiscal and monetary policy) is explained as shifting AD; supply-side policy is explained as shifting AS; and every policy is ultimately evaluated against the macroeconomic objectives introduced in 3.3 (three at SL, four at HL). Treat this content as the vocabulary and diagram fluency the rest of the unit assumes you already have secure, not a self-contained block to revise once and move past.
 
 ## Key terms
 
@@ -154,7 +154,7 @@ Sub-topics 3.1-3.3 are the shared foundation the rest of Unit 3 depends on: dema
 
 - Confusing GDP with GNI — state the **distinction** explicitly, not just both definitions.
 - Shifting the **wrong curve** for a given policy or shock.
-- Treating the four macroeconomic objectives as **always compatible**, when the tension between them (especially growth vs. inflation) is a large part of what's tested.
+- Treating the macroeconomic objectives as **always compatible**, when the tension between them (especially growth vs. inflation) is a large part of what's tested.
 - Giving purely theoretical answers without a **real, named example** — IB rewards specific application (a country's actual GDP data, an inflation episode, a documented policy conflict) over generic theory.
 
 ## Building a real-world example bank
@@ -172,6 +172,6 @@ Keep **two or three up-to-date real-world examples** for growth, inflation and u
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme Economics
-guide, first assessment 2022, published February 2020 and updated May
-and August 2020, sub-topics 3.1-3.3 —
+guide, first assessment 2022, published February 2020 and updated May,
+August and October 2020, sub-topics 3.1-3.3 —
 [ibo.org](https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/economics-guide.pdf).

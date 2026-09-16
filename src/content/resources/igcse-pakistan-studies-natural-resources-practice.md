@@ -31,7 +31,7 @@ and [revision notes](/resources/igcse-pakistan-studies-natural-resources-revisio
 
 ## Section A
 
-**1.** Name the three major dams identified in this section, and state one use of a barrage. **[3]**
+**1.** Name the three major dams identified in this section, and state one use of a barrage. **[4]**
 
 **2.** State two effects of deforestation named in this section. **[2]**
 
@@ -61,9 +61,8 @@ of it. **[2]**
 
 ## Answers
 
-**1.** Mangla, Tarbela and Warsak [3] (one mark each, or two names plus one mark for stating the third
-exists; accept two named barrages in place of one dam for partial credit as appropriate). One use of a
-barrage: controlling and diverting water for irrigation (or maintaining water levels for navigation or
+**1.** Mangla [1], Tarbela [1] and Warsak [1] (a barrage named in place of a dam earns no mark). One use
+of a barrage: controlling and diverting water for irrigation (or maintaining water levels for navigation or
 flood control) [1].
 
 **2.** Any two of: soil erosion, silting (of dams/reservoirs), flooding [2].

@@ -37,7 +37,7 @@ biopsychology section), clinical psychology and mental health, and research meth
 
 ## Syllabus coverage
 
-**AQA A-LEVEL PSYCHOLOGY (7182) — 3.2.1 APPROACHES IN PSYCHOLOGY**
+**AQA A-LEVEL PSYCHOLOGY (7182) — 4.2.1 APPROACHES IN PSYCHOLOGY**
 
 Students must know the basic assumptions of six approaches:
 
@@ -121,6 +121,6 @@ sets, rather than only single-approach description.
 
 ## Official syllabus
 
-AQA A-Level Psychology (7182) specification, section 3.2.1 Approaches in Psychology --
+AQA A-Level Psychology (7182) specification, section 4.2.1 Approaches in Psychology (3.2.1 in the AS content) --
 [aqa.org.uk](https://www.aqa.org.uk/subjects/psychology/a-level/psychology-7182/specification/subject-content/psychology-in-context),
 verified 2026-09-05.

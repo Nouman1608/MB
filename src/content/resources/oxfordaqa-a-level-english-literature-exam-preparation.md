@@ -48,8 +48,8 @@ of quotation memorisation for that specific paper.
 
 A-level Paper 1 is the one fixed A-level paper every candidate sits, closed-book, 30% of the
 qualification. **Exam-preparation priority**: prioritise memorised quotation coverage for this text
-specifically, since -- unlike the AS papers -- there is no open-book alternative to fall back on if
-recall is incomplete.
+specifically, since -- as with AS Paper 1, and unlike the open-book AS Paper 2 -- the text is not in
+the exam room, so there is nothing to fall back on if recall is incomplete.
 
 ## Route B's two essays need independent development, not exam-style planning
 

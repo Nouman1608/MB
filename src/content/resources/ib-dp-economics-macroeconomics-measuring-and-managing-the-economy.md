@@ -68,7 +68,7 @@ constructed from supplied data.
 ## Not covered in depth by this guide
 
 Sub-topics 3.1-3.3 are large, and this guide concentrates on GDP/GNI, the business cycle, the AD-AS
-model, and the four macroeconomic objectives -- the recurring exam workhorses. It does **not**
+model, and the macroeconomic objectives (three at SL, four at HL) -- the recurring exam workhorses. It does **not**
 develop, and you should revise separately from your course materials: the circular flow of income
 and its diagram; the equivalence of the income, output and expenditure approaches to measuring
 economic activity; real versus nominal measures, per capita measures, purchasing power parity, and
@@ -93,7 +93,7 @@ routinely expect this diagram as part of the answer. For 3.1,
 practise distinguishing a recession (a period of falling real output)
 from slower growth (positive but reduced growth) -- IB exam questions
 frequently test this distinction using data extracts rather than
-definitions alone. For 3.3, learn the four macroeconomic objectives -- economic growth,
+definitions alone. For 3.3, learn the macroeconomic objectives -- economic growth,
 low unemployment, low and stable inflation, and (HL only) a
 sustainable level of government debt -- since evaluation questions
 often ask which objective a given policy serves and which objective it
@@ -110,7 +110,7 @@ IB mark schemes credit stating the distinction, not just naming both
 terms. Shifting the wrong AD-AS curve when illustrating a specific
 policy or shock -- a change in one of AD's four components shifts AD;
 a change in production costs or productive capacity shifts AS.
-Treating the four macroeconomic objectives as always compatible, when
+Treating the macroeconomic objectives as always compatible, when
 a large part of what this sub-topic tests is the tension between them,
 particularly growth versus inflation.
 
@@ -177,8 +177,8 @@ of each from real-world data.
 equilibrium price level and output.
 - Explain what shifts AD (the four components) versus what shifts AS
 (costs, productivity, productive capacity).
-- List the four macroeconomic objectives (growth, unemployment,
-inflation, and HL-only government debt sustainability) and give one
+- List the macroeconomic objectives (growth, unemployment and
+inflation at both levels, plus government debt sustainability at HL) and give one
 example of two objectives coming into conflict.
 - Practise reading combined output/inflation data to judge whether a
 demand-side or supply-side shock is the more likely explanation.
@@ -186,6 +186,6 @@ demand-side or supply-side shock is the more likely explanation.
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme Economics
-guide, first assessment 2022, published February 2020 and updated May
-and August 2020, sub-topics 3.1-3.3 —
+guide, first assessment 2022, published February 2020 and updated May,
+August and October 2020, sub-topics 3.1-3.3 —
 [ibo.org](https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/economics-guide.pdf).

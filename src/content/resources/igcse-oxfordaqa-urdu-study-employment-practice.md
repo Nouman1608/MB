@@ -95,8 +95,9 @@ completes all elements in a natural sequence — present-tense subject and reaso
 career ambition with justification — closely matches the assessment objectives for this task type.
 
 **6.** "At my new school, both the library and the sports field are better than at my old school
-**[3]**, but the uniform rules are stricter **[2]**." (One mark each for the two correctly rendered
-comparatives, one for correct sense overall, two for "stricter" and overall fluency.)
+**[3]**, but the uniform rules are stricter **[2]**." (First clause, 3 marks: one for "both the library and
+the sports field", one for the comparative "better", one for "than at my old school". Second clause,
+2 marks: one for "but the uniform rules", one for the comparative "stricter".)
 
 **7.** "بہتر ہیں" (are better), a comparative adjective **[1]**; "زیادہ سخت ہیں" (are stricter),
 formed with زیادہ + adjective **[1]**; the comparison is with the old school, marked by "پرانے اسکول سے"

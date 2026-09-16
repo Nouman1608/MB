@@ -84,8 +84,9 @@ plant tissue (such as potato) loses mass through osmosis.
   the design of the investigation itself (sample size, repeats, controlled variables) -- genuine
   evaluation should address both.
 - Assuming the eAssessment investigation task will match the discipline (biology, chemistry, physics)
-  most recently taught -- because the on-screen examination can draw on any of biology, chemistry or
-  physics content, practise this task's skills across more than one discipline's data, not just the
+  most recently taught -- the content the on-screen examination draws on is set by the eAssessment
+  option you are entered for, not by teaching order, and for integrated sciences it spans biology,
+  chemistry and physics, so practise this task's skills across more than one discipline's data, not just the
   most recent unit.
 
 ## How to approach it
@@ -118,9 +119,10 @@ comparison between them, whereas raw mass change alone could be misleading if st
 4. A weak statement is "more trials would improve accuracy" with no explanation; a stronger version
 names the specific limitation (e.g. only one trial per concentration) and a specific, realistic
 improvement (e.g. repeat each concentration three times and use the mean), explaining why that
-improvement would help. 5. Because the MYP Sciences on-screen examination can draw on biology,
-chemistry or physics content regardless of the course model (discrete, modular or integrated) a
-school followed, so revision confined to one recently taught discipline leaves genuine gaps.
+improvement would help. 5. Because the content the MYP Sciences on-screen examination draws on is
+set by the eAssessment option entered, not by the course model (discrete, modular or integrated) a
+school followed or by teaching order -- for integrated sciences it spans biology, chemistry and
+physics -- so revision confined to one recently taught discipline can leave genuine gaps.
 
 ## Official syllabus
 

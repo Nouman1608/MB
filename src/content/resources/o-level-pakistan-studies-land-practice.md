@@ -57,7 +57,7 @@ transport networks. **[3]**
 **7.** The Indus River and its tributaries are central to Section 1's
 coverage of drainage.
 
-**(a)** Name three tributaries of the Indus listed in the syllabus. **[3]**
+**(a)** Name three tributaries of the Indus from the syllabus's list of named rivers. **[3]**
 **(b)** Suggest one way this river system might influence where people
 settle and farm. **[2]**
 
@@ -93,8 +93,10 @@ revision time, even though it carries its own separate marks. **[2]**
 
 **1.** 64°E, 70°E and 76°E [3].
 
-**2.** Any three of: Islamabad, Murree, Rawalpindi, Peshawar, Chitral,
-Gilgit [3].
+**2.** Any three of: Islamabad, Murree, Rawalpindi, Gujranwala,
+Lahore, Faisalabad, Sialkot, Peshawar, Chitral, Gilgit [3]. Do not
+accept Multan or Quetta, which lie at about 30°N, close to the
+country's mid-latitude, or Hyderabad, Karachi or Gwadar in the south.
 
 **3.** Thar, Thal and Kharan [3].
 
@@ -110,8 +112,10 @@ transport routes along valleys and mountain passes rather than
 allowing a dense, evenly spread transport network across the region
 [2].
 
-**7. (a)** Any three of: Jhelum, Chenab, Ravi, Sutlej, Kabul, Hab,
-Dasht [3].
+**7. (a)** Any three of: Jhelum, Chenab, Ravi, Sutlej, Kabul [3]. Do
+not accept Hab or Dasht: they are also named rivers in the syllabus,
+but they flow directly to the Arabian Sea and are not tributaries of
+the Indus.
 **(b)** The river system provides a reliable water supply for
 irrigation and drinking, which encourages denser settlement and more
 intensive farming along the river plains compared with drier areas

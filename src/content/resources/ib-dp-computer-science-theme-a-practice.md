@@ -79,14 +79,16 @@ Related: [Theme A revision notes](/resources/ib-dp-computer-science-theme-a-revi
 **(c)** Supervised learning uses labelled data (inputs paired with known correct outputs) to learn a mapping from input to output; unsupervised learning finds patterns or groupings in unlabelled data with no predefined correct answer. **[2]** Since the triage tool was trained on labelled patient outcomes, it is most likely using supervised learning. **[1]**
 **(d)** Advantage: the tool can process large volumes of patient data faster and more consistently than manual triage, potentially speeding up urgent cases. Risk: if the training data under-represents certain patient groups, the model may produce biased or inaccurate triage decisions for those groups, with serious real-world consequences given the medical context. **[3]** (1 mark for a valid advantage, 2 marks for a well-explained risk connecting back to a genuine A.4 concept such as bias or transparency)
 
-## Why question 7 combines all four sub-topics
+## Why question 7 combines three sub-topics
 
 Question 7 is deliberately built around a single case-study-style scenario touching A.1 (fetch-execute
-cycle), A.2 (packet switching), and A.4 (supervised learning and its ethical risks) at once, because
+cycle), A.2 (packet switching), and A.4 (supervised learning and its ethical risks) at once -- A.3
+appears only as background in the scenario's networked databases, and is tested directly in questions
+3 and 4 -- because
 this is exactly how the real Paper 1 case-study questions are structured -- Theme A content rarely
 appears as four separate standalone questions in the actual exam. Practising the skill of pulling the
-relevant sub-topic out of a scenario, rather than only answering direct recall questions, is the single
-biggest gap the revision notes flag between Theme A's content and how it is actually assessed.
+relevant sub-topic out of a scenario, rather than only answering direct recall questions, closes the gap
+the revision notes flag: revising A.1-A.4 in isolation from the pre-released case study.
 
 ## Official syllabus
 

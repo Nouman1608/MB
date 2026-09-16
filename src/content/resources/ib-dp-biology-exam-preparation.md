@@ -49,7 +49,8 @@ Data-based, short-answer and extended-response questions requiring **sustained s
 this is the paper where the command terms **evaluate**, **discuss** and **justify** appear most often,
 requiring a reasoned judgement built from evidence rather than a short factual answer.
 
-Because Paper 2 carries almost half the external mark and specifically rewards sustained written
+Because Paper 2 carries the larger share of the grade (44% of the final grade -- 55% of the 80%
+decided by the two examination papers) and specifically rewards sustained written
 argument, practising full extended-response answers under timed conditions is worth more revision
 time than reviewing content that is already secure. Two skills matter here specifically: **planning
 before writing** (jotting the structure of a longer answer before committing to sentences, so the

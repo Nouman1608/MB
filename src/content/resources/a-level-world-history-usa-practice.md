@@ -66,9 +66,14 @@ relevant knowledge of the specific topic; the ability to analyse causation, chan
 rather than simply narrate events; and a sustained, evidenced judgement that directly answers the
 question set, typically weighted most heavily. A response that narrates events accurately across an
 entire 45-minute answer but never states and defends a clear position against the specific claim in
-the question will not access the top mark band, regardless of factual accuracy -- this is why every
-worked answer above explicitly states a judgement early and defends it with named evidence throughout,
-rather than building toward a conclusion only in a final sentence.
+the question will not access the top mark band, regardless of factual accuracy -- this is why each Section B
+worked answer above builds to a supported judgement on the specific claim in the question. Answer 6
+states its position at the outset (it rejects the premise) and defends it throughout; answers 4 and 5
+describe how a strong answer reaches its judgement by weighing named evidence (interlocking causes in
+answer 4, problem-by-problem reform matching in answer 5), with the verdict following from that
+weighing. Either route works, provided
+the argument is directed at the question from the start rather than narrating events and adding an
+unsupported opinion in a final sentence.
 
 ## Why this set separates Paper 1 and Paper 2 styles
 

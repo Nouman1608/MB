@@ -19,10 +19,11 @@ featured: false
 ---
 
 This guide covers **Unit 3 -- Finance and Accounts**, for IB Diploma
-Programme Business Management, first assessment 2024. At 30 teaching
-hours it is the largest single unit in the [full
-syllabus](/resources/ib-dp-business-management-syllabus-guide/) and
-the one students most often find calculation-heavy, since Paper 2 is
+Programme Business Management, first assessment 2024. At 30 recommended
+teaching hours at SL it is tied with Unit 4 as the largest unit, and at
+45 hours at HL it is tied with Unit 5 as the largest, as the [full
+syllabus](/resources/ib-dp-business-management-syllabus-guide/) sets
+out. It is also the one students most often find calculation-heavy, since Paper 2 is
 built around unseen quantitative stimulus material that draws directly
 on this unit's numerical tools.
 
@@ -42,16 +43,19 @@ calculation as an end in itself.
 
 - **3.1 Introduction to finance** — why every business needs finance,
 both to start up and to fund ongoing operations or expansion
-- **3.2 Sources of finance** — internal sources (retained profit, sale
-of assets, reduced working capital) and external sources (owner's
-capital, share issue, loans, overdrafts, trade credit, leasing,
-grants, crowdfunding, business angels)
+- **3.2 Sources of finance** — internal sources (personal funds for
+sole traders, retained profit, sale of assets) and external sources
+(share capital, loan capital, overdrafts, trade credit, crowdfunding,
+leasing, microfinance providers, business angels), and the
+appropriateness of short- or long-term sources for a given situation
 - **3.3 Costs and revenues** — fixed versus variable costs, direct
 versus indirect costs, and revenue as price multiplied by quantity
 sold
-- **3.4 Final accounts** — the income statement (profit or loss over a
-period) and the statement of financial position (assets, liabilities
-and equity at a point in time)
+- **3.4 Final accounts** — the profit and loss account (profit or loss
+over a period) and the balance sheet (assets, liabilities and equity
+at a point in time); the different types of intangible asset; and, at
+HL only, depreciation by the straight line and units of production
+methods and the appropriateness of each
 - **3.5 Profitability and liquidity ratio analysis** — profitability
 ratios (gross profit margin, net profit margin, return on capital
 employed) and liquidity ratios (current ratio, acid-test ratio)
@@ -63,8 +67,8 @@ insolvency (a cash-flow failure to pay debts as they fall due) and
 bankruptcy (the formal legal process that can follow it)
 - **3.7 Cash flow** — the distinction between cash flow and profit,
 and reading and improving a cash flow forecast
-- **3.8 Investment appraisal** — payback period, average rate of
-return (ARR), and net present value (NPV)
+- **3.8 Investment appraisal** — payback period and average rate of
+return (ARR) at both levels, and net present value (NPV) at HL only
 - **3.9 Budgets** (HL only) — financial plans and variance analysis,
 comparing actual results against budgeted figures
 
@@ -85,7 +89,7 @@ meet its short-term obligations, and IB questions are written
 specifically to test whether students can tell the two apart. For
 investment appraisal, learn each method's distinct weakness — payback
 ignores profitability after the payback point, ARR ignores the timing
-of returns, and NPV depends on a chosen discount rate that itself
+of returns, and NPV (HL only) depends on a chosen discount rate that itself
 involves judgement — since a strong exam answer evaluates an
 investment decision using more than one method rather than relying on
 a single calculated figure.
@@ -139,12 +143,12 @@ is where the evaluative marks in this sub-topic are earned.
 - Be able to match a described business situation to the most
   appropriate source of finance (internal vs external, short-term vs
   long-term).
-- Know the basic structure of the income statement and the statement
-  of financial position, and the accounting equation linking them.
+- Know the basic structure of the profit and loss account and the
+  balance sheet, and the accounting equation linking them.
 - Practise calculating and interpreting both profitability and
   liquidity ratios, keeping the two questions they answer distinct.
-- Learn payback period, ARR and NPV together with each method's
-  specific weakness.
+- Learn payback period and ARR (and, at HL, NPV) together with each
+  method's specific weakness.
 - Always write out the formula before substituting numbers, to protect
   method marks under Paper 2's timed, calculation-heavy conditions.
 

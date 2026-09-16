@@ -96,9 +96,12 @@ Enzymes are globular proteins, so their catalytic behaviour is a direct conseque
 structure covered in the previous topic: a specific sequence of amino acids folds into a specific
 three-dimensional shape, and that shape is what creates the active site enzymes depend on. Revising
 enzyme structure completely separately from protein structure misses this connection -- if a question
-asks why a change in pH or temperature affects enzyme activity, the underlying reason is always that
-the enzyme's protein structure (and therefore its active site shape) has been disrupted, tying this
-whole topic back to Topic 2's content on bonding within and between polypeptide chains.
+asks why a change in pH, or a rise in temperature above the optimum, reduces enzyme activity, the
+underlying reason is that the hydrogen and ionic bonds holding the enzyme's tertiary structure are
+disrupted, changing the shape of the active site, tying this part of the topic back to Topic 2's content
+on bonding within and between polypeptide chains. Below the optimum, temperature acts differently: the
+structure is intact, and the rise in rate is kinetic -- more kinetic energy, more frequent successful
+enzyme-substrate collisions (see 3.2 above).
 
 ## Exam traps
 

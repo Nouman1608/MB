@@ -106,8 +106,9 @@ return to.
 
 **Answers:** 1. Section A: Listening Comprehension (recommended 45 minutes); Section B: Listening,
 Reading and Writing (recommended 1 hour 30 minutes). 2. 60 marks, over a total duration of 2 hours 15
-minutes. 3. Papers 1 and 2 each test translation (into English, and into Urdu respectively) alongside
-one other skill; Paper 3 instead combines listening with reading and writing, without a translation
+minutes. 3. Papers 1 and 2 each include a translation section (into English, and into Urdu respectively)
+alongside other skills -- reading comprehension and research-question writing in Paper 1, written
+response to works in Paper 2; Paper 3 instead combines listening with reading and writing, without a translation
 component, and integrates listening, reading and writing together within Section B rather than testing
 them as fully separate components. 4. Because translation proficiency and real-time listening
 comprehension draw on different processing skills and speeds -- strong performance on Papers 1 and 2's

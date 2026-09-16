@@ -113,11 +113,13 @@ since this depth of analysis is what the command word is asking for
 and what the mark scheme rewards over breadth [2].
 
 **6. (a)** AO1 is addressed by referring to specific textual detail
-(the quoted phrase) [1]; AO3 is addressed by analysing the specific
-word choice within that quotation [1]; AO2 is addressed if the point
-relates to character, relationship or theme [1]; and AO4 is addressed
-by connecting the analysis to the writer's likely intention or effect
-on the reader [1].
+(the quoted phrase) [1]; AO3 (the writer's intentions and methods) is
+addressed by analysing the specific word choice within that quotation
+and linking it to the writer's likely intention [1]; AO2 is addressed
+if the point relates to character, relationship or theme [1]; and AO4
+is addressed by implication, since the paragraph's own interpretation
+of what the word suggests and why it matters is the candidate's
+informed personal response [1].
 **(b)** Because personal response is being demonstrated through the
 quality and direction of the analysis itself — what the writer's
 choice is shown to achieve and why it matters — rather than requiring

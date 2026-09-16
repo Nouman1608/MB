@@ -49,13 +49,16 @@ share of the response separately and check both are genuinely developed -- not j
 with the same depth of analysis and equally specific evidence connecting the chosen global issue to
 each work.
 
-## The HL essay: draft early, use the consultation on the draft itself
+## The HL essay: draft early, and make the one round of draft advice count
 
-Because the HL essay is completed independently outside exam conditions, with only a single general
-consultation, examiners expect deeper, more sustained argument and more precisely selected evidence
-than a timed in-class essay produces. **Exam-preparation priority for HL students**: have a full
-draft ready well before the single consultation, so that consultation can improve an existing
-argument rather than help choose a topic -- essays drafted close to the deadline rarely have time
+Teachers give regular feedback throughout the essay's development but must not edit or correct the
+student's work directly; only near the end of the writing process may a teacher give written advice on
+one complete draft, typically by annotating it, and the next version handed in after that draft must
+be the final one. Because the HL essay is completed independently outside exam conditions, examiners
+expect deeper, more sustained argument and more precisely selected evidence than a timed in-class
+essay produces. **Exam-preparation priority for HL students**: use the regular feedback to test your
+line of inquiry early, and have a full, developed draft ready well before the deadline, so that the
+one round of draft advice can improve an existing argument rather than help choose a topic -- essays drafted close to the deadline rarely have time
 for the revision that separates a strong essay from an adequate one.
 
 ## Worked practice scenario: balancing the individual oral across two works
@@ -93,8 +96,8 @@ assessment.
 - **Before the exam**: practise reading each Paper 1 extract's own guiding question before
   annotating it; practise Paper 2 paragraphs that interweave both texts rather than treating them
   separately; time-rehearse the individual oral to check both works receive genuinely balanced,
-  specific analysis; HL students should have a full essay draft ready before their single
-  consultation.
+  specific analysis; HL students should use regular feedback to test their line of inquiry and
+  have a full essay draft ready for the one round of written advice on a complete draft.
 - **During Paper 1**: keep each extract's analysis anchored to its own guiding question.
 - **During Paper 2**: check each body paragraph draws on both texts, not just one.
 - **During the individual oral**: monitor time explicitly so the second work receives analysis, not
@@ -107,7 +110,8 @@ assessment.
 2. What structural mistake weakens a Paper 2 essay that has strong individual textual knowledge?
 3. In the worked scenario, what is the key difference between the weak and stronger time
    allocations?
-4. Why should HL students have a full essay draft ready before their single consultation?
+4. Why should HL students have a full essay draft ready before the teacher's one round of written
+   advice on a draft?
 
 **Answers:** 1. Because each extract has its own specific guiding question, and observations from
 one extract can drift away from what the other extract's question actually asks if the two are not
@@ -115,7 +119,8 @@ treated as separate, re-anchored tasks. 2. Presenting the two studied works as s
 rather than interweaving evidence from both into one sustained comparative argument. 3. The weak
 allocation gives the first extract far more time and depth than the second, leaving the second work
 only briefly mentioned; the stronger allocation gives both works genuinely balanced, specific
-analysis before a closing comparison. 4. Because the single consultation is most useful for
+analysis before a closing comparison. 4. Because the teacher may give written advice on only one
+complete draft, and the next version handed in must be the final one, that advice is most useful for
 improving an already-developed argument, and essays drafted close to the deadline rarely leave time
 for the revision that distinguishes a strong essay from an adequate one.
 

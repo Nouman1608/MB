@@ -79,8 +79,8 @@ specifically requires.
 
 ## Timing that matches each paper's larger and smaller components
 
-Paper 1's 64 marks over 1h45 and Paper 2's 96 marks over 2h15 both work out to roughly 1.6-1.7 minutes
-per mark, but Paper 2's three separate components (modern text, poetry comparison, unseen poetry) mean
+Paper 1's 64 marks over 1h45 work out to about 1.6 minutes per mark, but Paper 2's 96 marks over 2h15
+allow only about 1.4 minutes per mark -- noticeably tighter -- and Paper 2's three separate components (modern text, poetry comparison, unseen poetry) mean
 timing has to be actively managed within the paper, not just across it. **Exam-preparation priority**:
 practise a fixed time budget for each of Paper 2's three components in advance -- for example,
 roughly 45 minutes for the modern text essay, 45 minutes for the poetry-anthology comparison, and 45

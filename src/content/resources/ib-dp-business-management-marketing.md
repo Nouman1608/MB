@@ -12,15 +12,16 @@ order: 3
 syllabusTopics:
   - qualification: "ib-dp"
     topic: "ib-dp-business-unit-4"
-description: "Marketing planning, sales forecasting, market research, the seven Ps of the marketing mix, and international marketing -- IB Diploma Programme Business Management Unit 4, tied with Unit 3 as the second-largest unit by teaching hours."
+description: "Marketing planning, sales forecasting, market research, the seven Ps of the marketing mix, and international marketing -- IB Diploma Programme Business Management Unit 4, tied with Unit 3 as the largest unit at SL (30 hours) and 35 hours at HL."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 ---
 
 This guide covers **Unit 4 — Marketing**, for IB Diploma Programme
-Business Management, first assessment 2024. Unit 4 is tied with Unit 3
-as the second-largest unit by teaching hours (30 hours), as the [full
+Business Management, first assessment 2024. At SL, Unit 4 is tied with
+Unit 3 as the largest unit (30 recommended teaching hours each); at HL
+it runs to 35 hours, behind Units 3 and 5 (45 hours each), as the [full
 syllabus
 guide](/resources/ib-dp-business-management-syllabus-guide/) sets out.
 
@@ -32,10 +33,10 @@ the same unseen case study, so revising the seven Ps in isolation from
 the rest of the course leaves a real gap — practise identifying which
 Unit 4 sub-topic a given Paper 1 scenario is really testing, in
 combination with content from other units. HL students should also
-expect Paper 2's quantitative stimulus material to occasionally draw
-on sales forecasting (4.3) alongside Unit 3's financial calculations,
-since both units share a numerical, data-interpretation style of
-question.
+expect Paper 2's quantitative stimulus material to occasionally
+present a sales forecast alongside Unit 3's financial calculations:
+evaluating it belongs to 4.3, while calculating a trend belongs to the
+HL toolkit's simple linear regression.
 
 ## Syllabus coverage
 
@@ -50,10 +51,11 @@ business can make)
 awareness) and the marketing mix strategy to reach them, informed by
 market research and forecasting; marketing objectives should link back
 to the business's overall corporate objectives
-- **4.3 Sales forecasting** (HL only) — predicting future sales using
-past sales data, market research and trend analysis, often via moving
-averages; forecasts inform production, cash flow and stock decisions
-across other units
+- **4.3 Sales forecasting** (HL only) — the benefits and limitations of
+sales forecasting; the sub-topic has no calculation method of its own
+(the trend calculation, simple linear regression, sits in the HL
+toolkit), and forecasts inform production, cash flow and stock
+decisions across other units
 - **4.4 Market research** — primary versus secondary research;
 quantitative versus qualitative research; sampling methods (random,
 quota, convenience), each trading off representativeness
@@ -116,11 +118,14 @@ business did, is what a strong Unit 4 answer does.
 Because sales forecasts feed directly into production planning, cash
 flow planning and stock decisions, a poor forecast has knock-on
 effects across Units 3 and 5 -- this makes 4.3 a genuine cross-unit
-link rather than an isolated calculation exercise. Moving averages
-smooth out random period-to-period fluctuation to reveal an underlying
-trend, which is why a forecast based on a moving average is generally
-more reliable than one based on a single recent period's figures
-alone. When a case study presents a forecast, check what it implies
+link rather than an isolated calculation exercise. What 4.3 itself
+asks for is an evaluation of the benefits and limitations of
+forecasting for the business in question: a forecast helps plan ahead,
+but it rests on past data and assumptions that may not hold in a
+fast-changing market. Where a trend has to be calculated, the method
+is the HL toolkit's simple linear regression -- a scatter diagram, a
+line of best fit, correlation to judge how reliable that line is, and
+extrapolation to a future value. When a case study presents a forecast, check what it implies
 for other parts of the business -- an optimistic sales forecast that
 is not matched by adequate production capacity or cash reserves is
 exactly the kind of tension a strong Paper 1 or Paper 2 answer is

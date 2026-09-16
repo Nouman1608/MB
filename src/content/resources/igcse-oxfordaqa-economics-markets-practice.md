@@ -26,8 +26,9 @@ featured: false
 Related: [Markets revision notes](/resources/igcse-oxfordaqa-economics-markets-revision-notes/)
 
 The real paper has two sections: Section A opens with ten
-multiple-choice questions before further short-answer questions, worth
-48 marks in total; Section B is worth 32 marks. This paper follows
+multiple-choice questions before further calculation, short-answer and
+extended-response questions, worth 48 marks in total; Section B is
+worth 32 marks. This paper follows
 that two-section structure.
 
 ---

@@ -84,7 +84,7 @@ A light ray strikes a glass block at an angle of incidence of 40 deg and refract
 n = sin i / sin r = sin 40 / sin 25 = 0.643 / 0.423 = 1.52
 ```
 
-Once n is known, the same block's critical angle follows directly: `sin c = 1/n = 1/1.52 = 0.658`, so `c = 41.2 deg` (1 d.p.). This two-step pattern -- find n from one measured angle pair, then use n to find c -- is the standard route through a Topic 3 refraction question, and mixing up which formula answers which part (n from two angles; c from n alone) is a common source of lost marks under time pressure.
+Once n is known, the same block's critical angle follows directly: `sin c = 1/n = 1/1.52 = 0.658`, so `c = 41.1 deg` (1 d.p.). This two-step pattern -- find n from one measured angle pair, then use n to find c -- is the standard route through a Topic 3 refraction question, and mixing up which formula answers which part (n from two angles; c from n alone) is a common source of lost marks under time pressure.
 
 ## Reading a ray diagram correctly
 
@@ -101,7 +101,7 @@ Sound is **longitudinal**; it reflects and refracts like any wave. Human hearing
 - Assuming electromagnetic waves travel at different speeds in a vacuum — they don't; only λ and f differ.
 - Forgetting total internal reflection only happens **above** the critical angle, and only travelling from a denser into a less dense medium.
 - Mixing up pitch (frequency) and loudness (amplitude) — a common one-mark slip.
-- Quoting the critical angle formula upside down — it's `sin c = 1/n`, not `n = 1/sin c` rearranged incorrectly under exam pressure.
+- Quoting the critical angle formula upside down — it's `sin c = 1/n` (rearranged correctly, `n = 1/sin c`), not `sin c = n`; a sine can never exceed 1, so a value of sin c greater than 1 shows the formula has been inverted.
 
 ## Self-test
 

@@ -76,14 +76,16 @@ and the [IB DP History syllabus guide](/resources/ib-dp-history-syllabus-guide/)
 
 **8.** A strong answer selects one specific event and works through all four concepts as a connected analysis rather than four separate unrelated paragraphs: cause and consequence (what led to the event and what resulted, with multiple causes weighed rather than a single one asserted), continuity and change (what genuinely changed as a result and what continued despite the event, avoiding an all-or-nothing verdict), perspectives (whose viewpoints are represented in the sources or accounts of the event, and how that shapes what is emphasised), and significance (explicit criteria for why the event matters, applied with specific evidence). The strongest answers show how the four concepts interact for this specific event -- for example, how differing perspectives on the event have shaped later judgements of its significance -- demonstrating exactly the transferable, connected concept-application skill the revision notes identify as more valuable than treating "concept revision" and "content revision" as separate tracks. **[8]**
 
-## Why this set uses invented scenarios for Sections A-B
+## Why this set moves from recall to invented scenarios to your own content
 
-Sections A and B deliberately use generic, invented historical scenarios rather than specific named
-events, because the four concepts are explicitly transferable across any focused study, thematic study
-or regional study -- the skill being tested is applying the concept correctly to a scenario, which is
-identical whether or not it involves the exact period a given student studied. Section C then requires
-students to supply their own named, specific content, exactly matching how these concepts are actually
-assessed on Papers 1 to 3.
+Section A checks recall of the concepts themselves (naming them, and defining the distinctions they
+rest on) and uses no scenarios. Section B then deliberately uses generic, invented historical scenarios
+rather than specific named events, because the four concepts are explicitly transferable across any
+focused study, thematic study or regional study -- the skill being tested is applying the concept
+correctly to a scenario, which is identical whether or not it involves the exact period a given
+student studied. Section C then requires students to supply their own named, specific content, which
+is closer to the external papers, where the concepts are always applied to specific historical
+content rather than to invented cases.
 
 ## Official syllabus
 

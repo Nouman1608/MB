@@ -42,7 +42,7 @@ questions routinely expect a graphical display calculator to be used, not avoide
   area of a triangle formula), angles of elevation and depression, and bearings -- the classic
   navigation-style application this course favours.
 - **Vectors (HL only)** -- position and displacement vectors, the vector equation of a line, and
-  applications to problems of motion and intersection, extended further than the SL treatment.
+  applications to problems of motion and intersection.
 - **Further geometric reasoning (HL only)** -- additional depth building on the SL geometry content,
   reflecting the strand's large HL hour allocation.
 

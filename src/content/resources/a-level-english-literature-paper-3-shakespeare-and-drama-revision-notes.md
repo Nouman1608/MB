@@ -65,13 +65,16 @@ end.
 
 ## 2026-series set texts
 
-**Section A: Shakespeare** — one of *The Merchant of Venice*, *Hamlet*
-or *The Taming of the Shrew* (Alexander Text edition).
+**Section A: Shakespeare** — one of *Hamlet* or *The Taming of the
+Shrew* (Alexander Text edition).
 
-**Section B: Drama** — from *The Train Driver and Other Plays* (Athol
-Fugard), *Sweat* (Lynn Nottage), *Long Day's Journey Into Night*
-(Eugene O'Neill), *Kongi's Harvest* (Wole Soyinka) and *An Experiment
-with an Air Pump* (Shelagh Stephenson).
+**Section B: Drama** — one of *Sweat* (Lynn Nottage), *Long Day's
+Journey Into Night* (Eugene O'Neill) or *Kongi's Harvest* (Wole
+Soyinka).
+
+*The Merchant of Venice*, *The Train Driver and Other Plays* (Athol
+Fugard) and *An Experiment with an Air Pump* (Shelagh Stephenson) were
+set for the 2024 series only and are not examined in 2026.
 
 Set texts rotate by examination series — always confirm the current
 list for the year being sat rather than assuming continuity.

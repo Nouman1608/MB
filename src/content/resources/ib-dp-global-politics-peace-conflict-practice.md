@@ -73,8 +73,10 @@ and the [IB DP Global Politics syllabus guide](/resources/ib-dp-global-politics-
 
 ## Why this set is concept-first
 
-Every Section B and C question requires naming and applying at least one of the four core concepts
-explicitly, rather than testing conflict knowledge in isolation, because the revision notes identify
+Most Section B and C questions -- 4(b), 5(a), 5(b) and 6 -- require naming and applying at least one of
+the four core concepts explicitly, rather than testing conflict knowledge in isolation; 4(a) (classifying
+the type of conflict) and 7 (weighing peacebuilding against peacekeeping) instead test the thematic
+study's own categories and distinctions. The set leans on concepts because the revision notes identify
 concept-application -- not conflict-specific factual recall alone -- as the actual skill Paper 2's
 extended-response questions assess. Question 6 in particular is written to reward genuinely connecting
 two concepts rather than listing them separately, mirroring the syllabus's own emphasis on applying the

@@ -111,10 +111,11 @@ discipline may have been narrower.
 
 ## Why criteria transfer even when discipline changes
 
-Because the same four assessment criteria (Knowing and understanding, Investigating, Communicating,
-Thinking critically) and the same level-and-band scoring structure apply across every MYP subject
-group, a student moving between, say, individuals and societies and MYP Sciences encounters a familiar
-assessment logic even though the criterion names, content and specific skills tested differ. This
+Because every MYP subject group is assessed against four criteria (A-D) using the same level-and-band
+scoring structure, a student moving between, say, individuals and societies (Knowing and understanding,
+Investigating, Communicating, Thinking critically) and MYP Sciences encounters a familiar assessment
+logic even though each group's criteria are its own -- their names, content and the specific skills they
+test differ from one subject group to another. This
 consistency is deliberate: it lets the IB apply the same underlying standard of rigor across very
 different kinds of coursework.
 

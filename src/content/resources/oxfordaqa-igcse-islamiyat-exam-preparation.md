@@ -16,9 +16,10 @@ featured: false
 ---
 
 OxfordAQA International GCSE Islamiat (the board's own spelling; 9237) is a linear, untiered
-qualification with no coursework, assessed by two equally weighted written papers. Paper 1 (Islam:
-Beliefs and Teachings; Islam: Practices) and Paper 2 (Life and Teachings of Hazrat Muhammad; Sources
-of Authority in Islam) each run 1 hour 30 minutes, carry 50 marks and are worth 50%. **Both papers
+qualification with no coursework, assessed by two equally weighted written papers. Paper 1, Living the
+Muslim Life (Section A: Islam: Beliefs and teachings; Section B: Islam: Practices), and Paper 2, The Life
+of Hazrat Muhammad (pbuh) and Sources of Authority in Islam (Section A: Life and teachings of Hazrat
+Muhammad (pbuh); Section B: Sources of authority in Islam), each run 1 hour 30 minutes, carry 50 marks and are worth 50%. **Both papers
 require study of the specific Qur'an and Hadith passages set out in the specification** -- this is not
 a general-knowledge subject. OxfordAQA does not offer Islamiat at AS or A-level. These notes
 complement the site's guides to

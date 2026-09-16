@@ -76,7 +76,7 @@ and the [IB DP Mathematics: Applications and Interpretation syllabus guide](/res
 
 **5. (a)** Mean = (62+65+68+70+71+73+74+95)/8 = 578/8 = 72.25. **[1]**
 **(b)** Ordering the data (already ordered), the median is the average of the 4th and 5th values: (70+71)/2 = 70.5. **[1]**
-**(c)** The score of 95 is a clear outlier relative to the rest of the dataset (which clusters between 62 and 74), and this single value pulls the mean up to 72.25, above all but one of the actual scores; the median (70.5) sits much closer to where most of the data actually lies, making it more representative of a "typical" score in this dataset. **[2]**
+**(c)** The score of 95 is a clear outlier relative to the rest of the dataset (which clusters between 62 and 74), and this single value pulls the mean up to 72.25, above five of the eight actual scores (without the 95 the other seven have a mean of 483/7 = 69); the median (70.5) sits much closer to where most of the data actually lies, making it more representative of a "typical" score in this dataset. **[2]**
 
 **6. (a)** It shows that, within this dataset, students who spent more hours on the revision app tended to also have higher exam scores. **[1]**
 **(b)** A correlation only shows that two variables tend to change together; it does not rule out other explanations, such as a third factor (e.g. general study motivation) causing both increased app use and higher scores, or the direction of causation being reversed (e.g. already-strong students choosing to use the app more) -- so causation cannot be concluded from correlation alone. **[2]**

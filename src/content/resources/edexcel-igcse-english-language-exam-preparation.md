@@ -54,8 +54,8 @@ everything in one voice lose marks that better content cannot recover.
 Naming a technique -- "the writer uses a rhetorical question" -- is not yet analysis. The mark comes
 from explaining what effect the choice has on a reader and how. **Exam-preparation priority**: build
 the habit of a three-part sentence: the choice, the effect, the reason it has that effect. Practise it
-on unseen non-fiction texts rather than on the anthology alone, since Section A works from
-unseen-style material.
+on unseen non-fiction texts as well as on the ten Part 1 anthology texts, since Section A pairs one
+Part 1 anthology text (supplied in the exam) with one previously unseen extract.
 
 ## On the coursework route, redrafting is the advantage -- use it
 
@@ -98,7 +98,7 @@ finds the errors that are actually costing technical accuracy marks.
 
 - **Before the exams**: confirm whether you are entered for Component 2 or Component 3; practise
   Component 1 to a 65-minute-per-section split; write the same content in two different forms to
-  build register control; practise effect-based analysis on unseen non-fiction.
+  build register control; practise effect-based analysis on unseen non-fiction and on the Part 1 anthology texts.
 - **During Component 1**: hold the reading section to its time and start the writing task on
   schedule, whatever state the reading answers are in.
 - **In any writing task**: fix form, audience and purpose first, plan an order rather than a list,

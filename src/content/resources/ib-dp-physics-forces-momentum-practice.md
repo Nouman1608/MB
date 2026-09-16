@@ -70,7 +70,7 @@ the [study guide](/resources/ib-dp-physics-forces-and-momentum/) and the
 
 **2.** Impulse is the product of force and the time for which it acts (J = FΔt); it equals the resulting change in momentum. **[1]** SI unit: kg m/s (equivalently, N s). **[1]**
 
-**3.** Tension alone provides the centripetal force when the circular motion is horizontal (or in the absence of any other force with a component towards the centre, such as when gravity acts perpendicular to the plane of motion, as in a conical pendulum's horizontal case is an approximation -- for a simple horizontal circle on a frictionless surface with only string tension acting, tension is the sole centripetal force). **[1]**
+**3.** When the tension in the string is the only force with a component towards the centre of the circle -- for example, a mass on a string moving in a horizontal circle on a smooth (frictionless) horizontal surface, where the weight and the normal force balance vertically and neither acts towards the centre. **[1]** (Note: a mass whirled in a horizontal circle in the air is a conical pendulum -- the string cannot be horizontal, so only the horizontal component of the tension provides the centripetal force, while its vertical component balances the weight.)
 
 **4. (a)** Δp = m(v_final - v_initial) = 0.50 x (-6.0 - 8.0) = 0.50 x (-14.0) = -7.0 kg m/s. **[2]**
 **(b)** F = Δp/Δt = -7.0/0.020 = -350 N (magnitude 350 N, direction opposite to the ball's initial motion). **[2]**
@@ -80,7 +80,7 @@ the [study guide](/resources/ib-dp-physics-forces-and-momentum/) and the
 
 **6. (a)** v = 2πr/T = 2π(0.50)/1.0 = 3.14 m/s. **[2]**
 **(b)** a = v^2/r = (3.14)^2/0.50 = 19.7 m/s2. **[2]**
-**(c)** Tension in the string. **[1]**
+**(c)** Tension in the string (if the mass is swung in the air rather than on a smooth horizontal surface, strictly the horizontal component of the tension, since the string must then slope to support the weight). **[1]**
 
 **7. (a)** The resultant force on the skydiver is weight minus air resistance (both acting, in opposite directions); since air resistance is non-zero and opposes motion, the resultant force is less than weight alone, so by F = ma the acceleration is less than g (which corresponds to weight being the only force). **[2]**
 **(b)** As speed increases, air resistance increases, so the resultant force (weight minus air resistance) decreases, meaning acceleration decreases; this continues until air resistance equals weight, at which point the resultant force is zero and acceleration reaches zero -- this is terminal velocity. **[2]**

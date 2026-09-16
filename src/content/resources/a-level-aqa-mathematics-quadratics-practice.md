@@ -105,8 +105,7 @@ Using the quadratic formula: x = (2 ± √(4 + 20))/2 = (2 ± √24)/2 = 1 ± �
 Since x > 0 is required and 1 − √6 is negative, only the region **x ≥ 1 + √6** applies within the given domain [1] (the full quadratic solution "x ≤ 1 − √6 or x ≥ 1 + √6" must be restricted to x > 0) [1].
 
 **8.** Lying entirely above the x-axis means no real roots, so discriminant < 0 [1]
-(−6)² − 4(1)(p) < 0 [1]
-36 − 4p < 0 [1]
+(−6)² − 4(1)(p) < 0, so 36 − 4p < 0 [1]
 **p > 9** [1].
 
 **9.** 2x − 1 = x² − 4x + 7 [1]

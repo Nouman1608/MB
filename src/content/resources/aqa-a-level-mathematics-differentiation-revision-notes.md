@@ -148,7 +148,7 @@ names for constructing differential equations.
 
 **Answers:** 1. The gradient of the tangent to the curve at that point,
 and the instantaneous rate of change. 2. A factor of ln a, because
-aᵏˣ = eᵏˣ ln a, so the chain rule introduces ln a when differentiating.
+aᵏˣ = e^(kx ln a), so the chain rule introduces ln a when differentiating.
 3. f''(x) > 0 indicates a minimum, f''(x) < 0 indicates a maximum, and
 f''(x) = 0 requires further investigation (e.g. checking the sign of
 f' on either side). 4. Both use the chain rule, but only the first

@@ -12,7 +12,7 @@ order: 3
 syllabusTopics:
   - qualification: "o-level"
     topic: "depth-studies-2147"
-description: "Condensed recall notes on the five Depth Studies and source-evaluation technique for Cambridge O Level World History (2147)."
+description: "Condensed recall notes on the five Depth Studies, how Paper 1 Section B examines them, and the source-evaluation technique Paper 2 tests on the Core Content prescribed topic, for Cambridge O Level World History (2147)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -23,7 +23,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Where this fits
 
-All candidates study Core Content (Option A 19th century, or Option B 20th century) **plus at least one Depth Study**, assessed via **Paper 2 (Document Questions)**, based on one Depth Study. Depth Study preparation = source interpretation/evaluation, not just narrative recall.
+All candidates study Core Content (Option A 19th century, or Option B 20th century) **plus at least one Depth Study**, assessed in **Paper 1, Section B**: two structured essay questions in three parts, (a)–(c), on each Depth Study, answer one; knowledge (AO1) + explanation (AO2). Depth Study preparation = detailed knowledge + explanation, not source work. **Source evaluation (AO3) is Paper 2 (Document Questions)**, set on a Core Content prescribed topic, never on a Depth Study — the source notes below are that transferable Paper 2 skill.
 
 ## The five Depth Studies
 
@@ -33,7 +33,7 @@ All candidates study Core Content (Option A 19th century, or Option B 20th centu
 - **D. United States, 1919–41** — 1920s social/economic change, Depression's causes/impact, the New Deal.
 - **E. Second World War, 1939–c.1945** — causes, course, consequences across Europe AND Asia-Pacific theatres.
 
-## The core skill: source evaluation
+## Source evaluation — the Paper 2 skill (Core Content prescribed topic)
 
 Comment on a source's **content**, its **origin** (who, when, purpose), and its **value/limitations as evidence** for a specific question — never just describe what it shows. Practise across source types (photographs, posters, cartoons, official documents, personal accounts) since you can't know in advance which type an exam will use.
 
@@ -45,14 +45,14 @@ Comment on a source's **content**, its **origin** (who, when, purpose), and its 
 - **D (USA):** explain the Wall Street Crash/Depression as a **connected causal sequence**, not a sudden unexplained event; evaluate specific New Deal measures, not just "government intervention" in general.
 - **E (WWII):** prepare European and Asia-Pacific theatres as **related but distinct strands**, able to draw connections between them (e.g. how European events affected Japan's strategic calculations).
 
-## Cross-referencing sources — transfers across all five studies
+## Cross-referencing sources — also a Paper 2 skill
 
 Paper 2 often presents two+ sources on the same event and asks for comparison: note where they **agree**, where they **differ**, and suggest **why** (different authors/audiences/purposes often explain apparently contradictory sources on the same event).
 
 
 ## Worked example: evaluating a source's origin and purpose
 
-A Paper 2 question presents a 1936 German government poster celebrating the achievements of the Nazi regime, and asks candidates to assess its value as evidence for how ordinary Germans viewed the regime at the time. A weak answer describes what the poster shows (for example, images suggesting prosperity and national unity). A stronger answer evaluates its origin and purpose directly: because the poster was produced BY the German government FOR public display, its purpose was almost certainly propaganda -- to shape public opinion rather than to record it -- which limits its value as direct evidence of how ordinary Germans actually felt, even though it may still be valuable evidence of what the regime wanted people to believe, or of the regime's own priorities and self-presentation. This distinction, between a source's value as evidence of the event it depicts versus its value as evidence of the purpose behind its creation, is exactly the kind of judgement Paper 2 rewards over description alone.
+A practice source task (the Paper 2 skill, applied here to Depth Study B material — Paper 2 itself is set on a Core Content prescribed topic) presents a 1936 German government poster celebrating the achievements of the Nazi regime, and asks candidates to assess its value as evidence for how ordinary Germans viewed the regime at the time. A weak answer describes what the poster shows (for example, images suggesting prosperity and national unity). A stronger answer evaluates its origin and purpose directly: because the poster was produced BY the German government FOR public display, its purpose was almost certainly propaganda -- to shape public opinion rather than to record it -- which limits its value as direct evidence of how ordinary Germans actually felt, even though it may still be valuable evidence of what the regime wanted people to believe, or of the regime's own priorities and self-presentation. This distinction, between a source's value as evidence of the event it depicts versus its value as evidence of the purpose behind its creation, is exactly the kind of judgement Paper 2 rewards over description alone.
 
 ## Worked example: comparing two sources that appear to disagree
 
@@ -60,7 +60,7 @@ Two sources describe the same 1917 event in Russia: one, a Bolshevik Party accou
 
 ## Exam traps
 
-- Narrating events chronologically without ever answering the actual question a source-based task asks.
+- Narrating events chronologically without ever answering the actual question each part, (a), (b) or (c), asks.
 - Describing a source's content without evaluating its origin, purpose or reliability.
 - Treating 1905 and 1917 in Russia as one continuous event.
 - Explaining Hitler's rise with no reference to Weimar's specific preceding weaknesses.

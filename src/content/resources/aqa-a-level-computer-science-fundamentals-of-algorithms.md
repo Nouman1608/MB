@@ -28,10 +28,13 @@ complement the site's guides to
 
 ## Where this fits in 7517
 
-This section is examined by tracing algorithms by hand and analysing their time complexity, not by
-writing original code -- it is a written-paper topic (Paper 2), distinct from the on-screen programming
-content of Paper 1. Expect exam questions to give you an algorithm and a specific input, and ask you to
-trace its exact execution step by step.
+This section is **Paper 1** content. The specification at a glance numbers the A-level content 10-23
+(the subject-content pages number the same sections 4.1-4.14), and Paper 1 -- the on-screen paper --
+tests programming ability together with theoretical knowledge from content 10-13 (4.1-4.4: programming,
+data structures, algorithms, theory of computation) and the skills of section 22 (4.13). Paper 2, the
+written paper, covers 14-21 (4.5-4.12). Much of this section is still assessed by tracing rather than by
+writing code: expect questions that give you an algorithm and a specific input and ask you to trace its
+exact execution step by step, or state and compare time complexities.
 
 ## Syllabus coverage
 

@@ -8,7 +8,7 @@ boards: ["ib"]
 qualifications: ["ib-dp"]
 syllabusCodes: ["DP History"]
 order: 6
-description: "Paper-by-paper exam preparation for IB DP History -- Paper 1's source-evaluation strategy, Paper 2's thematic-essay strategy, HL Paper 3's regional depth study, a worked source-value-and-limitation answer and a checklist. First examined 2028."
+description: "Paper-by-paper exam preparation for IB DP History -- Paper 1's source-evaluation strategy, Paper 2's concept question and two-part thematic-study question, HL Paper 3's regional depth study, a worked source-value-and-limitation answer and a checklist. First examined 2028."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -16,7 +16,7 @@ featured: false
 
 The [assessment revision notes](/resources/ib-dp-history-assessment-revision-notes/) set out what
 each paper weighs and tests. These notes turn that into an exam-day plan -- Paper 1's source
-evaluation, Paper 2's thematic essay strategy, HL Paper 3's separate regional study, and the four
+evaluation, Paper 2's concept question and two-part thematic-study question, HL Paper 3's separate regional study, and the four
 concepts as transferable analytical tools -- with a worked example and a checklist, alongside the
 [full syllabus guide](/resources/ib-dp-history-syllabus-guide/) already on the site. This covers the
 current course, first examined 2028.
@@ -30,14 +30,18 @@ practise source-evaluation questions specifically, not just content recall for t
 topic, since examiners consistently reward evaluation tied directly back to the specific research or
 exam question, not a generic commentary on a source in isolation.
 
-## Paper 2 (40% SL / 25% HL): build essays from dated evidence, not general narrative
+## Paper 2 (40% SL / 25% HL): a concept question, then a short response and an essay
 
-Paper 2's essay questions use command terms shared across individuals-and-societies subjects --
-**examine**, **evaluate**, **discuss**, **to what extent** -- always in relation to a named period,
-region or theme. **Exam-preparation priority**: a strong Paper 2 essay must be built from specific,
-dated evidence rather than general narrative description, so when revising a thematic-study topic,
-build a bank of specific dates, events and named individuals to deploy, not just a broad sense of
-"what happened."
+Paper 2 (1 hour 45 minutes) is not a single essay paper. In **Section A**, students answer one of two
+questions on the specified historical concepts, analysing the concept and illustrating it with a
+relevant historical example from their thematic study. In **Section B**, two questions are set on each
+thematic study; students choose one question for their thematic study and answer both of its parts --
+a **short response** showing understanding of a historical example, then an **essay** that synthesizes
+diverse historical examples from the thematic study into an analytical argument.
+**Exam-preparation priority**: every part is answered from specific, dated evidence rather than
+general narrative description, so when revising the thematic study, build a bank of specific dates,
+events and named individuals -- enough to illustrate each concept in Section A, answer a focused short
+response, and support an essay that draws several examples together.
 
 ## HL Paper 3 (35%, HL only): a genuinely separate regional study, not harder Papers 1-2
 
@@ -58,9 +62,10 @@ topic.
 
 ## The historical investigation: evaluation must connect to the research question
 
-The investigation is organised into three sections -- a focused inquiry question, the selection
-and evaluation of sources, and a synthesis of the evidence into a response to the question -- with
-no separate reflection section in the course first examined in 2028.
+The investigation is organised into three sections -- section 1, the formulation of an appropriate
+inquiry question to guide the investigation; section 2, the analysis of the sources the student has
+chosen; and section 3, the synthesis of evidence from those sources to produce a response -- with no
+separate reflection section in the course first examined in 2028.
 **Exam-preparation priority**: a common weakness is describing a source's origin and content without
 genuinely assessing its value and limitation for answering the *specific* research question --
 revise source evaluation as always tied back to the question being investigated, not a generic
@@ -126,10 +131,11 @@ the distinction the assessment revision notes flag as separating strong from wea
 4. What distinguishes HL Paper 3 from Papers 1 and 2 in terms of content?
 
 **Answers:** 1. Paper 1 is source-based, testing evaluation of given sources (their origin, purpose,
-value and limitation); Paper 2 and Paper 3 are essay-based, testing sustained argument built from a
-student's own knowledge of a thematic or regional topic. 2. Because Paper 2 and Paper 3's command
-terms (examine, evaluate, discuss, to what extent) are always applied to a named period, region or
-theme, and examiners reward evidence-based argument over broad, undated narrative description. 3.
+value and limitation); Paper 2 and Paper 3 are answered from a student's own knowledge -- Paper 2
+through a concept question (Section A) and a short response plus an essay on the thematic study
+(Section B), Paper 3 through essays on a regional study. 2. Because Paper 2 and Paper 3 questions are
+always set on a named period, region or theme, and examiners reward evidence-based argument over
+broad, undated narrative description. 3.
 Because a government-controlled wartime press's purpose is to build support for a policy, making it
 strong evidence of the official narrative but weak evidence of what people genuinely thought, since
 independent reporting of real public opinion was unlikely under those conditions. 4. Paper 3 is built

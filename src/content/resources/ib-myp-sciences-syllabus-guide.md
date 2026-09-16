@@ -105,12 +105,13 @@ three tasks:
 Topics the on-screen examinations may draw on include atomic structure
 and bonding, cells, cycles, electromagnetism, evolution, interactions
 between organisms, forces, states and properties of matter, metabolism,
-organisms, and waves -- spanning biology, chemistry and physics content
-regardless of which course model (discrete, modular or integrated) a
-student's own school actually followed. This breadth is a direct
-consequence of the eAssessment being available in biology, chemistry,
-physics and integrated sciences as parallel options, each drawing on
-the same underlying framework rather than four unrelated syllabuses.
+organisms, and waves -- spanning biology, chemistry and physics content.
+That breadth reflects the eAssessment being available in biology,
+chemistry, physics and integrated sciences as parallel options, each
+drawing on the same underlying framework rather than four unrelated
+syllabuses. Which topics a student's own examination covers is set by
+the option they are entered for, not by the course model (discrete,
+modular or integrated) their school followed.
 
 ## How to approach it
 
@@ -120,12 +121,12 @@ own investigations deserves proportionately more revision time than
 content recall alone -- a student who knows the facts but has not
 practised formulating a testable hypothesis and interpreting real,
 imperfect data under exam conditions is under-prepared for where most
-of the marks actually sit. Because the on-screen examination can draw
-on any of biology, chemistry or physics content regardless of how your
-own school structured its teaching (discrete, modular or integrated),
-do not assume that only the content taught in your most recent modular
-block is examinable -- revision needs to span the full topic list
-across all sciences your course has covered. For the
+of the marks actually sit. Because the scope of the on-screen examination
+is set by your eAssessment option rather than by how your own school
+structured its teaching (discrete, modular or integrated), do not
+assume that only the content taught in your most recent modular block
+is examinable -- revision needs to span everything within your
+option's scope, whenever it was taught. For the
 reflecting-on-impacts task, practise linking specific scientific
 content to genuine real-world issues and properly acknowledging
 sources, since this criterion explicitly rewards documented, evaluative

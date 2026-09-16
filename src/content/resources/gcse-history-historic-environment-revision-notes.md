@@ -48,7 +48,7 @@ section's 40 marks (Q1 to Q3 together carry 24).
 
 ## What the study tests
 
-The Historic Environment element links a set of specified historic sites to your chosen British
+The Historic Environment element links one specified historic site, changed annually, to your chosen British
 depth study, and assesses your ability to:
 
 - Explain the **significance** of features of a site (why they mattered at the time).
@@ -103,8 +103,9 @@ closes with a substantiated judgement rather than a response that only describes
 without ever directly weighing it.
 
 The historic environment essay itself (Q4, 16 marks) is a different task: an essay linked to your
-specified site, drawing on cause, consequence, change or continuity, not a "how far do you agree"
-judgement against an interpretation. Answering Q4 as if it were a judgement question — or answering
+specified site, drawing on cause, consequence, change or continuity. It still requires a judgement,
+but a judgement reached from your own knowledge of the site and the period, not one made against a
+given interpretation. Answering Q4 as if it were an interpretation question — or answering
 Q1 with site material instead of engaging with the interpretation given — both cost marks, since
 each question is marked against its own, different skill.
 

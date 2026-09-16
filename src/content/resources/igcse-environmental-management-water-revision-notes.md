@@ -178,9 +178,9 @@ unlabelled and asks you to identify it and state its purpose.
 Sequence:   screening -> sedimentation -> filtration -> chlorination
 If stage 3 (filtration) is blanked out:
 Identify:   Filtration
-Purpose:    Removes smaller suspended particles that settled out
-            during sedimentation but that visible screening could
-            not catch, using sand/gravel beds the water passes
+Purpose:    Removes the smaller suspended particles that did not
+            settle out during sedimentation and were too small for
+            screening to catch, using sand/gravel beds the water passes
             through, before the water is disinfected at the final
             chlorination stage.
 ```

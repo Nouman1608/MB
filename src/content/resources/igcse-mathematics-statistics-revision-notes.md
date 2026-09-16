@@ -22,7 +22,7 @@ Condensed for the final weeks. Pair these notes with the [Statistics
 practice questions](/resources/igcse-mathematics-statistics-practice/)
 for worked exam-style application.
 
-## The four averages, and when to use each
+## The three averages and the measures of spread, and when to use each
 
 **Mean** -- sum of all values divided by how many values there are; affected by every value, including extreme ones. **Median** -- the middle value once data is ordered; not affected by extreme values, so more representative for skewed data. **Mode** -- the most frequently occurring value; the only average that works for non-numerical (categorical) data. **Range** -- largest value minus smallest value; a simple measure of spread, but distorted by a single extreme value. Extended adds **quartiles** and **interquartile range** (upper quartile minus lower quartile), which measure the spread of the middle 50% of the data and are far less affected by extreme values than the range.
 
@@ -103,7 +103,7 @@ Even though the second class has a higher frequency, its frequency density is lo
 - Confusing frequency with frequency density on a histogram with unequal class widths.
 - Reading a stem-and-leaf diagram before ordering the leaves within each row.
 - Reading a cumulative frequency value across to the curve and up to the axis (wrong order) instead of across to the curve, then down.
-- Stating only the modal class was found, when a question at Extended level explicitly requires identifying it as a class, not a single value.
+- Giving the mode of grouped data as a single value, when a question at Extended level asks for the modal class (the class with the highest frequency).
 
 ## Self-test
 

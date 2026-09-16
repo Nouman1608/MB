@@ -37,8 +37,7 @@ Condensed for the final weeks. For the full explanation, use the
 | Indirect tax | Supply shifts left → price ↑, quantity ↓ |
 | Subsidy | Supply shifts right → price ↓, quantity ↑ |
 | Direct provision | Bypasses the market entirely |
-| Maximum price (below equilibrium) | Shortage |
-| Minimum price (above equilibrium) | Surplus |
+| Maximum and minimum prices | Maximum price (below equilibrium) → shortage; minimum price (above equilibrium) → surplus |
 | Buffer stock | Buy low/store, sell high/release — stabilises price |
 | Information provision | No price shift — fixes decision-making, not price |
 

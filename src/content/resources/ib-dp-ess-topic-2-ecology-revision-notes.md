@@ -35,9 +35,12 @@ without the conceptual framing the specification expects.
 
 ## Core content to hold securely
 
+The public subject brief gives Topic 2's name and hours but not its subtopic list, so the four headings
+below are Marlbridge's outline of core ecology content, not the IB's itemised subtopics.
+
 - **Ecosystem structure** -- trophic levels, food chains and food webs, and how energy is transferred
   (and lost) between them.
-- **Energy flow** -- the specification's key quantitative idea: energy transfer between trophic levels
+- **Energy flow** -- the key quantitative idea in ecology: energy transfer between trophic levels
   is inefficient, with most energy lost as heat at each stage, which is why food chains rarely extend
   beyond four or five trophic levels.
 - **Nutrient cycling** -- how matter, unlike energy, cycles rather than flows in one direction through
@@ -90,8 +93,8 @@ specifically, since Paper 1's data-response questions can require calculation, n
 
 - Describing a food chain or food web without connecting it to the energy-flow concept of inefficient
   transfer between trophic levels.
-- Treating energy flow and nutrient cycling as the same process, when the specification distinguishes
-  them precisely: energy flows one way and is ultimately lost as heat; nutrients cycle and are reused.
+- Treating energy flow and nutrient cycling as the same process, when they are fundamentally
+  different: energy flows one way and is ultimately lost as heat; nutrients cycle and are reused.
 - Explaining an ecosystem disturbance's direct effect only, without tracing the indirect, cascading
   consequences a systems-based answer is expected to identify.
 - Forgetting to link Topic 2 content back to Topic 1's vocabulary (perspectives, systems,

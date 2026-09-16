@@ -60,8 +60,8 @@ cell side by side, but the labels have been removed.
 **(a)** State one feature that would let you identify the plant cell
 immediately. **[1]**
 **(b)** State one feature that would let you identify the bacterial
-cell immediately, distinguishing it from both the plant and animal
-cell. **[2]**
+cell immediately, and explain why it distinguishes the bacterial cell
+from both the plant and animal cell. **[2]**
 
 **7.** A student writes: "Root hair cells and neurones are both
 specialised cells, but they are adapted for completely different
@@ -119,12 +119,14 @@ overall function [1].
 
 **5.** Magnification = image size ÷ actual size [1].
 
-**6. (a)** The plant cell can be identified by having a cell wall (or
-chloroplasts, or a large permanent vacuole) which the animal cell
-lacks [1].
-**(b)** The bacterial cell can be identified by having circular DNA
-instead of a nucleus, and/or plasmids [1–2], both of which are absent
-from the plant and animal cells shown.
+**6. (a)** The plant cell can be identified by having chloroplasts (or a
+large permanent vacuole), which neither the animal cell nor the
+bacterial cell has [1]. (A cell wall alone does not identify it, since
+the bacterial cell also has one.)
+**(b)** One feature: circular DNA not enclosed in a nucleus, or
+plasmids [1]. Explanation: the plant and animal cells both have their
+DNA inside a nucleus and have no plasmids, so this feature is found
+only in the bacterial cell [1].
 
 **7. (a)** Absorption [1].
 **(b)** Conduction of electrical impulses [1].

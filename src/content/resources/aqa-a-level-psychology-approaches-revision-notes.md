@@ -56,14 +56,17 @@ between observing and imitating: attention, retention, motor reproduction, motiv
 
 Studies internal mental processes (memory, perception, language, thinking) using the computer as a
 model of the mind — input, processing, output, with schemas as mental "shortcuts" built from
-experience. Introduced the theoretical and computer models now standard across the discipline, and
-gave rise to cognitive neuroscience, which studies the neural basis of cognition directly.
+experience. Introduced the theoretical and computer models now standard across the discipline.
 
 ## Biological approach
 
-Behaviour explained through genes (genotype vs phenotype), neurochemistry (neurotransmitters,
-hormones), and evolution (natural selection favouring adaptive behaviours). Genetically identical
-twins (monozygotic) are compared to non-identical twins (dizygotic) to estimate genetic influence.
+Behaviour explained through genes (genotype vs phenotype), biological structures (such as brain
+areas), neurochemistry (neurotransmitters, hormones), and evolution (natural selection favouring
+adaptive behaviours). Genetically identical twins (monozygotic) are compared to non-identical twins
+(dizygotic) to estimate genetic influence. **Cognitive neuroscience** — the study of how brain
+structures and activity underlie mental processes such as memory and language, often using scanning —
+is listed by the current AQA specification (3.2.1 in the AS content, 4.2.1 in the A-level content) under
+the biological approach, not the cognitive approach.
 
 ## Psychodynamic approach
 
@@ -76,7 +79,7 @@ proceeds through fixed **psychosexual stages**; unresolved conflict at any stage
 ## Humanistic psychology
 
 Rejects both determinism and the scientific, lab-based methods of the other approaches. Centres on
-**free will** and **self-actualisation** — the innermost layer of Maslow's hierarchy of needs, reached
+**free will** and **self-actualisation** — the top level of Maslow's hierarchy of needs, reached
 only once lower needs (physiological, safety, love/belonging, esteem) are met. Rogers added
 **congruence** (match between self-image and ideal self) and **conditions of worth** (conditional
 acceptance in childhood that can block congruence in adulthood).
@@ -140,5 +143,5 @@ in isolation.
 **Answers:** 1. Classical conditioning is learning through association (pairing stimuli); operant
 conditioning is learning through consequences (reinforcement and punishment). 2. Attention, retention,
 motor reproduction, motivation. 3. Id, Ego, Superego — the Superego develops last, around age 5.
-4. Reaching one's full potential, the innermost layer of Maslow's hierarchy, achievable only once
+4. Reaching one's full potential, the top level of Maslow's hierarchy, achievable only once
 lower needs are met. 5. Behaviourist and biological.

@@ -52,10 +52,11 @@ rather than re-reading familiar ones. The specific habit worth drilling is readi
 -- who produced the source, when, for whom, and why -- before reading the content, because provenance
 is what makes evaluation possible.
 
-## Paper 2's tighter time budget is easy to underestimate
+## Paper 2's reading load is easy to underestimate
 
-Paper 2 gives 105 minutes for 40 marks, which sounds generous until reading time is counted: a source
-paper requires the candidate to read and digest material *before* any writing begins. **Exam-
+Paper 2 gives 105 minutes for 40 marks -- about 2.6 minutes per mark, against 2 minutes per mark on
+Paper 1 (120 minutes for 60 marks) -- which sounds generous until reading time is counted: a question can
+include up to seven sources, and the candidate must read and digest them *before* any writing begins. **Exam-
 preparation priority**: rehearse a fixed opening routine -- a set number of minutes to read the whole
 set of sources once, noting attributions, before starting question 1. Candidates who begin writing
 immediately usually discover a later source contradicts an earlier claim, and lose time revising an

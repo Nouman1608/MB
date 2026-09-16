@@ -81,7 +81,7 @@ single well-researched hot desert region can supply both the climate
 sub-topic's temperature and rainfall data (2.5) and act as the
 required desert ecosystem case study, so it is worth choosing
 locations that can be reused across sub-topics rather than
-memorising five completely unconnected places.
+memorising a separate, unconnected place for every required case study.
 
 ## How to approach it
 

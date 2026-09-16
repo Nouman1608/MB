@@ -29,18 +29,21 @@ unchanged by that revision -- only the texts differ. These notes complement the 
 
 ## The two routes are structurally very different, not merely alternative papers
 
-Route A concentrates 60% into a single long open-book examination that includes unseen texts. Route B
-splits the same territory into a shorter poetry paper plus a coursework response on a text you choose.
-**Exam-preparation priority**: confirm your route before planning revision. Practising unseen-text
-technique for a Route A paper you are not sitting, or leaving a Route B coursework response
+Route A concentrates 60% into a single long open-book examination that includes unseen poetry and
+unseen prose. Route B splits the same territory into a shorter poetry paper (which still includes an
+unseen poem) plus a coursework response on a prose text you choose in place of the unseen prose.
+**Exam-preparation priority**: confirm your route before planning revision. Practising unseen-prose
+technique for a Route A section you are not sitting, or leaving a Route B coursework response
 under-developed, forfeits a large share of the qualification.
 
-## Route A's unseen element cannot be revised by reading set texts
+## Route A's unseen prose cannot be revised by reading set texts
 
-If you are on Route A, part of Paper 2a asks you to respond to poetry you have never seen.
-**Exam-preparation priority**: practise on genuinely unseen poems under time -- reading once for sense,
-once for method, then writing. This is a transferable skill built only by repetition, and it is the
-component that most distinguishes Route A preparation from Route B.
+If you are on Route A, Section C of Paper 2a asks you to respond to a prose passage you have never
+seen; both routes also answer on an unseen poem (Paper 2a or 2b, Section B). **Exam-preparation
+priority**: practise on genuinely unseen passages under time -- reading once for sense, once for
+method, then writing. This is a transferable skill built only by repetition, and unseen prose is the
+element that most distinguishes Route A preparation from Route B, whose candidates write the
+coursework response instead.
 
 ## Open book raises the expectation of precision rather than lowering the workload
 
@@ -99,8 +102,9 @@ comment on a quotation as a whole tends to restate it.
 
 ## Before/during exam checklist
 
-- **Before the exams**: confirm your route; if on Route A, practise unseen poetry under time and
-  practise navigating the open-book texts at speed; if on Route B, choose a coursework text with
+- **Before the exams**: confirm your route; on either route, practise unseen poetry under time and
+  navigating the open-book anthology at speed; if on Route A, practise unseen prose under time too; if
+  on Route B, choose a coursework text with
   method to discuss and redraft for argument; build a bank of short, flexible quotations for Paper 1.
 - **During Paper 1**: spend two or three minutes planning the argument before writing.
 - **During Paper 2a**: go straight to the passage you planned to use rather than searching, and resist
@@ -117,8 +121,9 @@ comment on a quotation as a whole tends to restate it.
 
 **Answers:** 1. Paper 1 (Prose and Drama, 40%) is compulsory for all; Route A adds a single open-book
 Paper 2a (Poetry and Unseen Texts, 60%), while Route B adds a shorter Paper 2b (Poetry, 40%) plus a
-non-exam assessment on a prose text of the student's choice (20%). 2. Response to genuinely unseen
-poetry, which can only be prepared for by repeated timed practice on unfamiliar poems. 3. Because it
+non-exam assessment on a prose text of the student's choice (20%). 2. Response to a genuinely unseen
+prose passage (Paper 2a Section C), which can only be prepared for by repeated timed practice on
+unfamiliar passages; unseen poetry is sat on both routes. 3. Because it
 raises the expectation of precision and adds a navigation cost -- searching for a passage consumes
 writing time, so knowing where key moments sit is itself preparation. 4. Whether the text offers
 enough to discuss about method -- structure, narration, imagery -- rather than personal enjoyment

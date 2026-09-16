@@ -139,5 +139,5 @@ May/June 2026 onwards --
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-intenational-gcse-urdu-specification.pdf),
 verified 2026-08-19 -- the same source already cited by
 [Theme 1](/resources/igcse-oxfordaqa-urdu-identity-and-culture/) and
-[Theme 2](/resources/igcse-oxfordaqa-urdu-local-national-international/), which first reproduced this
-theme's four topics from it.
+[Theme 2](/resources/igcse-oxfordaqa-urdu-local-national-international/); this theme's four topics above
+are taken from section 3.1.3 of it.

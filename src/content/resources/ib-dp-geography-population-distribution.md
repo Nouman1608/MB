@@ -72,8 +72,9 @@ This sub-theme is frequently examined through data-response questions:
 population pyramids, choropleth density maps, and demographic
 transition model diagrams. Reading a population pyramid specifically
 requires recognising that a wide base indicates high birth rates, a
-narrowing top indicates lower life expectancy or an ageing population,
-and an unusually narrow or wide band at a specific age range can
+sharply narrowing top indicates high death rates and lower life
+expectancy, a relatively wide top indicates an ageing population with
+high life expectancy, and an unusually narrow or wide band at a specific age range can
 indicate a historical event (war, baby boom, mass migration) that
 affected that particular cohort. Because Paper 2 typically presents
 new, unseen data rather than previously studied examples, practising

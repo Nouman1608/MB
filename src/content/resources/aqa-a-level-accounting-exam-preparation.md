@@ -34,7 +34,7 @@ be tested in either sitting. **Exam-preparation priority**: revise the shared se
 higher standard than the paper-specific ones, since every hour spent on them is an hour that
 contributes to both 50% components.
 
-## Section C is 50 of 120 marks -- almost as much as Sections A and B combined
+## Section C is 50 of 120 marks -- the largest section, over 40% of each paper
 
 The two extended-answer questions in Section C carry more marks than either other section, and they
 are the part of the paper that most rewards written evaluation rather than computation. **Exam-

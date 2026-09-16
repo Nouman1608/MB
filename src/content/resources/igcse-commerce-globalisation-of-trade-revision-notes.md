@@ -153,8 +153,8 @@ Why:            The risk arises directly from a government policy
                 change (a new tariff), which is the defining feature
                 of political risk in a global supply chain, distinct
                 from a financial risk (e.g. currency fluctuation) or
-                an environmental risk (e.g. a natural disaster
-                disrupting the supplier's factory).
+                a natural-disaster risk (e.g. a flood disrupting the
+                supplier's factory).
 ```
 
 Practising this identify-the-category-and-justify structure across

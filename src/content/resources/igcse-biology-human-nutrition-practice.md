@@ -106,7 +106,7 @@ importances.)
 causes rickets [1].
 
 **3.** Mouth → oesophagus → stomach → small intestine (duodenum then
-ileum) → large intestine (colon then rectum) → anus [4, allow 1 mark
+ileum) → large intestine (colon then rectum, ending at the anus) [4, allow 1 mark
 per correctly ordered pair of adjacent regions].
 
 **4.** Egestion is the removal of undigested food from the body as

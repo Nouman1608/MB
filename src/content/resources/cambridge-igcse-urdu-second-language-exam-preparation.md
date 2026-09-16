@@ -9,7 +9,7 @@ qualifications: ["igcse"]
 syllabusCodes: ["0539"]
 syllabusSeries: "2025-2027"
 order: 3
-description: "Preparing for all three components of Cambridge IGCSE Urdu as a Second Language 0539 -- why Paper 1 carries two-thirds of the grade, how to work a single-hearing listening test, and where the optional Speaking endorsement fits."
+description: "Preparing for all three components of Cambridge IGCSE Urdu as a Second Language 0539 -- why Paper 1 carries two-thirds of the grade, how to work a listening test in which each extract is heard twice, and where the optional Speaking endorsement fits."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-07
 featured: false
@@ -34,12 +34,14 @@ technique both improve with drilling in a way that listening comprehension impro
 Paper 1 towards the writing tasks, where the gap between a hurried answer and a checked one is
 largest.
 
-## Listening is a single-hearing skill and must be practised as one
+## Listening is a real-time skill: two hearings, and no more
 
 A listening test cannot be paused, re-read or returned to at leisure in the way a reading text can.
-The skill being tested is extracting specific required information in real time. **Exam-preparation
-priority**: practise with audio at natural speed and resist the temptation to replay immediately.
-Read the questions during any pause before an extract begins, so you know what you are listening
+The syllabus gives two hearings of the spoken material for each exercise, with pauses built into the
+recording to read the questions and write answers -- but the recording runs on regardless. The skill
+being tested is extracting specific required information in real time. **Exam-preparation
+priority**: practise with audio at natural speed, allow yourself exactly two hearings, and resist the
+temptation to replay further. Read the questions during the pause before an extract begins, so you know what you are listening
 *for* rather than trying to understand everything and then locate the answer afterwards. Note-taking
 in the margin during the extract, then writing the answer properly afterwards, is far more reliable
 than trying to compose a final answer while still listening.
@@ -84,16 +86,20 @@ Before the extract plays:
    any number, name or date the question is asking for.
 3. Predict the FORM of the answer: a number? a place? a reason?
 
-While the extract plays:
+While the extract plays (first hearing):
 4. Write short marginal notes only -- key words, numbers, names.
    Do not attempt a full sentence answer while still listening.
 
+During the second hearing:
+5. Confirm what you noted and listen specifically for any
+   detail you missed the first time.
+
 After the extract:
-5. Convert notes into the answer, checking the form matches what
+6. Convert notes into the answer, checking the form matches what
    the question asked for (a question asking "how many" needs a
    number, not a description).
-6. If a detail was missed, write the most plausible answer anyway
-   rather than leaving a blank.
+7. If a detail was still missed, write the most plausible answer
+   anyway rather than leaving a blank.
 ```
 
 Step 3 is the step most often skipped and the one that most improves accuracy: knowing you are
@@ -102,10 +108,11 @@ listening for a number changes what you hear.
 ## Before/during exam checklist
 
 - **Before the exams**: weight revision towards Paper 1, and within it towards the writing tasks;
-  practise listening at natural speed without replaying; confirm whether you are entered for
+  practise listening at natural speed with two hearings and no further replaying; confirm whether you are entered for
   Component 5 and timetable it separately if so; build a personal error list from marked work.
 - **During Paper 2**: read the questions before each extract, predict the form of each answer, take
-  marginal notes during the extract and write full answers afterwards; never leave a blank.
+  marginal notes on the first hearing, use the second to check and fill gaps, and write full answers
+  afterwards; never leave a blank.
 - **During Paper 1**: budget roughly two minutes per mark; spend one minute planning purpose,
   audience and content points before each writing task; reserve the final minutes for a targeted
   check against your own recurring errors.
@@ -122,8 +129,8 @@ Paper 2's 30), and because reading and writing technique respond to deliberate p
 listening comprehension does. 2. No -- it is optional, internally assessed and externally moderated,
 and reported as a separate endorsement graded 1-5; so its preparation should be timetabled separately
 rather than drawn from the time budgeted for the two graded papers. 3. Because knowing what
-information you need, and what form the answer takes, changes what you are able to pick out of a
-single hearing -- you cannot go back and listen again. 4. Because a general re-read tends to confirm
+information you need, and what form the answer takes, changes what you are able to pick out of each
+hearing -- each extract is heard only twice, so you cannot keep replaying it to search for the answer. 4. Because a general re-read tends to confirm
 that the answer reads acceptably, whereas checking for the specific errors you personally repeat
 finds the ones that are actually costing accuracy marks.
 

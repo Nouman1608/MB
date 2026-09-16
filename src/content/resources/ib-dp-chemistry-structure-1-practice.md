@@ -72,9 +72,9 @@ Related: [Structure 1 revision notes](/resources/ib-dp-chemistry-structure-1-rev
 **4. (a)** CH2 mass = 12.01 + 2(1.01) = 14.03 g mol-1. **[1]**
 **(b)** 84.16 / 14.03 ~= 6, so molecular formula = C6H12. **[2]** (1 mark for correct ratio, 1 for correct formula)
 
-**5. (a)** n = m/Ar = 2.41/24.31 = 0.0992 mol. **[1]**
-**(b)** MgO has a 1:1 mole ratio, so moles of O = 0.0992 mol; mass of O = 0.0992 x 16.00 = 1.587 g. **[2]** (1 mark for correct mole ratio reasoning, 1 for correct mass)
-**(c)** Total mass = 2.41 + 1.587 = 3.997 g ~= 4.00 g. **[1]**
+**5. (a)** n = m/Ar = 2.41/24.31 = 0.0991 mol (3 s.f.). **[1]**
+**(b)** MgO has a 1:1 mole ratio, so moles of O = 0.0991 mol; mass of O = 0.0991 x 16.00 = 1.59 g (3 s.f.). **[2]** (1 mark for correct mole ratio reasoning, 1 for correct mass)
+**(c)** Total mass = 2.41 + 1.59 = 4.00 g. **[1]**
 
 **6. (a)** Any two of: negligible particle volume compared with the container; no intermolecular forces between particles; perfectly elastic collisions between particles and with the container walls. **[2]**
 **(b)** At constant pressure, V1/T1 = V2/T2, so V2 = V1 x (T2/T1) = 2.00 x (450/300) = 3.00 dm3. **[2]** (1 mark for correct relationship/method, 1 for correct answer)
@@ -85,9 +85,10 @@ Related: [Structure 1 revision notes](/resources/ib-dp-chemistry-structure-1-rev
 
 ## Command term reminder
 
-"Calculate" (questions 4-7) requires a numerical answer with full working shown -- an unsupported final
-number rarely earns full marks even if correct, because the mark scheme awards marks for method as
-well as outcome. "Explain" (questions 3, 7a, 7c) needs a reasoned chain of statements linking cause to
+"Calculate" (questions 4a, 5, 6b and 7b) and "Determine" (question 4b) require a numerical answer or
+formula with full working shown -- an unsupported final number rarely earns full marks even if
+correct, because the mark scheme awards marks for method as well as outcome. "Explain" (questions 7a
+and 7c) needs a reasoned chain of statements linking cause to
 effect, not just a one-line assertion -- for example, question 7(a) requires *both* the shared electron
 configuration point *and* the consequence for chemical behaviour to earn both marks. "State" (question
 1, 6a) wants a concise fact with no justification expected, so do not spend exam time explaining a
@@ -98,7 +99,7 @@ or by using a connective such as "whereas" or "in contrast."
 
 ## Why this scope
 
-These questions cover all five Structure 1 sub-topics -- particulate matter, the nuclear atom, electron configurations, the mole and ideal gases -- in the same proportion the syllabus guide gives them, with the mole (1.4) weighted most heavily since it is the sub-topic later Reactivity components assume fluent recall of. Question 5 in particular mirrors the mass-to-moles-to-mass calculation chain the [revision notes](/resources/ib-dp-chemistry-structure-1-revision-notes/) worked example demonstrates, applied to a different compound so it tests transfer of the method rather than memorisation of one specific number.
+These questions cover all five Structure 1 sub-topics -- particulate matter, the nuclear atom, electron configurations, the mole and ideal gases -- in the same proportion the syllabus guide gives them, with the mole (1.4) weighted most heavily since it is the sub-topic later Reactivity components assume fluent recall of. Question 5 in particular starts with the same mass-to-moles step as the [revision notes](/resources/ib-dp-chemistry-structure-1-revision-notes/) worked example (which runs mass to moles to particles), then continues through a mole ratio back to a mass, so it tests transfer of the method rather than memorisation of one specific chain.
 
 ## Official syllabus
 

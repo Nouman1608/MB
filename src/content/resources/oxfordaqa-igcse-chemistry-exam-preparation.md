@@ -72,18 +72,23 @@ The routine below is an original model written for this resource, not a reproduc
 past paper or mark scheme.
 
 ```
+Example: what mass of magnesium oxide forms when a given mass of
+magnesium burns completely in oxygen?
+
 Step 1 - write correct formulae, then balance:
-Get MgCl2 right before worrying about coefficients. Check oxygen
-last -- it appears in the most species and is left unbalanced most
-often.
+Get Mg, O2 (oxygen is diatomic) and MgO right before worrying about
+coefficients, then balance: 2Mg + O2 -> 2MgO. A wrong formula
+cannot be rescued by balancing.
 
 Step 2 - convert the given quantity to moles, showing the
 relationship:
-n = m / Mr, with the Mr calculation set out separately.
+n = m / Ar for Mg (n = m / Mr for a compound), with the relative
+mass calculation set out separately.
 
 Step 3 - state the mole ratio from the balanced equation
 explicitly:
-"From the equation, 1 mol Mg gives 1 mol MgO, so n(MgO) = ..."
+"From the equation, 2 mol Mg gives 2 mol MgO (a 1:1 ratio),
+so n(MgO) = n(Mg) = ..."
 
 Step 4 - convert back to the quantity asked for:
 Mass, volume or concentration, with the unit stated.

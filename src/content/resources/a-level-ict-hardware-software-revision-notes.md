@@ -27,7 +27,7 @@ Condensed, exam-focused notes for Section 2 of Cambridge AS & A Level ICT (9626)
 
 | | Mainframe | Supercomputer |
 |---|---|---|
-| Built for | Reliability, high-volume transaction throughput | Raw processing speed |
+| Built for | High-volume transaction throughput | Raw processing speed |
 | Example use | Census, transaction processing | Weather forecasting, quantum mechanics |
 | Metrics | RAS and fault tolerance apply to both classes; MIPS is conventionally quoted for mainframes | RAS and fault tolerance apply to both classes; FLOPS is conventionally quoted for supercomputers |
 
@@ -78,13 +78,15 @@ with a scenario-linked justification.
 ## Worked example: mainframe or supercomputer?
 
 A national statistics agency needs to process millions of census transactions reliably, ensuring no
-data is lost even during scheduled maintenance windows. A mainframe suits this scenario because it is
-built for RAS — high reliability, near-continuous availability, and quick serviceability — and for
-high-volume transaction throughput, exactly matching a census's need to process enormous numbers of
-individual records accurately and continuously. A supercomputer, by contrast, would be the wrong choice
-here despite its greater raw processing power, because the census task is not primarily
-computation-heavy in the way a climate simulation or quantum mechanics calculation is — it needs
-sustained transactional reliability, not maximum floating-point operations per second (FLOPS). This
+data is lost even during scheduled maintenance windows. A mainframe suits this scenario because census
+processing is one of its named uses and it is built for high-volume transaction throughput, exactly
+matching a census's need to process enormous numbers of individual records accurately and continuously;
+it also offers the RAS — high reliability, near-continuous availability, and quick serviceability — that
+the no-data-loss requirement demands (RAS is a characteristic of both classes, so it supports the choice
+rather than deciding it). A supercomputer, by contrast, would be the wrong choice here despite its
+greater raw processing power, because the census task is not primarily computation-heavy in the way a
+climate simulation or quantum mechanics calculation is — it needs sustained high-volume transaction
+throughput, not maximum floating-point operations per second (FLOPS). This
 kind of matched, scenario-specific justification — not simply "mainframes are for business, supercomputers
 are for science" — is what full marks on this sub-topic require.
 
@@ -107,7 +109,7 @@ than reciting a fixed list of "GUI is easy, CLI is powerful," is what distinguis
 4. Give one advantage and one disadvantage of custom-written software.
 5. Which interface type would suit a systems administrator, and why?
 
-**Answers:** 1. Mainframe: reliability and high-volume transaction throughput. Supercomputer: raw
+**Answers:** 1. Mainframe: high-volume transaction throughput (census, transaction processing). Supercomputer: raw
 processing speed on computation-heavy problems. 2. Reliability = how rarely it fails; availability = how
 much of the time it's usable; serviceability = how quickly/easily it's repaired. 3. A compiler translates
 and stores the whole program before execution; an interpreter translates and executes line by line. 4.

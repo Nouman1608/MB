@@ -81,8 +81,8 @@ data across several concentrations, top-band evidence presents the
 data in an appropriately labelled graph, correctly identifies the
 trend, explains that trend using the relevant scientific concept, such
 as collision theory, and then evaluates a specific limitation of the
-actual method used -- that reaction start-time was judged by eye,
-introducing timing error, for example -- with a specific, targeted
+actual method used -- that the reaction's endpoint (a colour change)
+was judged by eye, introducing timing error, for example -- with a specific, targeted
 improvement, such as using a colorimeter to detect the reaction's
 endpoint automatically, rather than a vague suggestion.
 

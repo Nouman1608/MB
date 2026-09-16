@@ -82,7 +82,9 @@ allows larger, more energetic waves to develop.
 A beach is the most fundamental depositional landform, built from sediment moved by swash and backwash and
 shaped further by longshore drift where waves approach at an angle. Where longshore drift carries sediment
 across a change in coastline direction, such as a river mouth or bay, a spit can form, sometimes curving at
-its end (a compound spit) if wave direction or currents change. Where a spit or bar connects the mainland
+its end into a recurved (hooked) tip if wave direction or currents change. A simple spit has a single
+recurve or none; a compound spit has a series of recurves (old hooks) along its landward side, recording
+successive stages of growth as the wave or current pattern shifted over time. Where a spit or bar connects the mainland
 to an offshore island, the result is a tombolo. At a larger scale still, offshore bars and barrier beaches
 can enclose a body of water (a lagoon) behind them, within which fine sediment often accumulates as tidal
 saltmarsh or, in tropical and subtropical environments, mangrove forest.

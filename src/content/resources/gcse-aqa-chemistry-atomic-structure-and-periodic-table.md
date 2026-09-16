@@ -19,7 +19,8 @@ featured: false
 ---
 
 This guide covers **Topic 4.1 Atomic Structure and the Periodic
-Table**, the first of eleven topics in AQA GCSE Chemistry (8462), for
+Table**, the first of ten assessed topics in AQA GCSE Chemistry (8462) (the
+eleventh section, Key ideas, is embedded throughout the other ten), for
 teaching from September 2016. The qualification is tiered
 (Foundation/Higher) and co-teachable with AQA GCSE Combined Science --
 content marked "chemistry only" in the specification is unique to

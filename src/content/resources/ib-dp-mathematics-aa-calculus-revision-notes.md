@@ -65,8 +65,9 @@ rate of change is known and the underlying quantity must be recovered. Revise de
 (giving a numerical area or accumulated quantity between two bounds) separately from indefinite
 integrals (giving a general antiderivative plus a constant of integration, +C) -- confusing when the
 +C is required is a frequent, avoidable error. Integration by inspection or substitution (the reverse
-chain rule, for the standard form ∫kg'(x)f(g(x))dx) is also SL content. Volumes of revolution, and
-further, more advanced integration techniques, are genuinely HL-only.
+chain rule, for the standard form ∫kg'(x)f(g(x))dx) is also SL content. Integration by substitution
+beyond that form, integration by parts and volumes
+of revolution are genuinely HL-only.
 
 ## The fundamental link between the two operations
 

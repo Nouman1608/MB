@@ -40,7 +40,7 @@ and the [study guide](/resources/ib-dp-economics-macroeconomics-measuring-and-ma
 
 **2.** Name the four phases of the business cycle in order. **[2]**
 
-**3.** State the four macroeconomic objectives. **[4]**
+**3.** State the three macroeconomic objectives of sub-topic 3.3 that apply at both SL and HL, and the additional objective that applies at HL only. **[4]**
 
 ## Section B
 
@@ -54,7 +54,7 @@ and the [study guide](/resources/ib-dp-economics-macroeconomics-measuring-and-ma
 **5.** A country's real GDP growth falls from 3% to 0.5% over one year, while inflation falls from 4% to 1% over the same period.
 
 **(a)** Using the AD-AS model, explain whether this pattern is more consistent with a demand-side or a supply-side change. **[3]**
-**(b)** Justify your answer by explaining what a demand-side explanation would predict for both variables, and why the data does not match it. **[2]**
+**(b)** Justify your answer by explaining what a supply-side explanation would predict for both variables, and why the data does not match it. **[2]**
 
 ## Section C
 
@@ -68,7 +68,7 @@ and the [study guide](/resources/ib-dp-economics-macroeconomics-measuring-and-ma
 
 **2.** Expansion, peak, contraction (recession), trough. **[2]**
 
-**3.** Economic growth, low unemployment, low and stable inflation, equity in income distribution. **[4]**
+**3.** Economic growth [1]; low unemployment [1]; a low and stable rate of inflation [1]; HL only: a sustainable level of government (national) debt [1]. **[4]** (SL students answer the first part only, out of [3].) Equity in income distribution is not a 3.3 objective: 3.3 treats it only as a potential conflict with economic growth, and it is developed in 3.4 Economics of inequality and poverty.
 
 **4. (a)** AD shifts (rightward) -- government spending is one of AD's four components. **[1]**
 **(b)** AS shifts (leftward) -- rising input/production costs reduce aggregate supply. **[1]**
@@ -94,7 +94,7 @@ recession, mirroring the two worked examples the revision notes themselves use t
 ## Official syllabus
 
 International Baccalaureate Organization, Diploma Programme Economics guide, published February 2020,
-updated to October 2020, first assessment 2022, sub-topics 3.1-3.3 --
+updated May, August and October 2020, first assessment 2022, sub-topics 3.1-3.3 --
 [ibo.org](https://www.ibo.org/en/programmes/diploma-programme/curriculum/individuals-and-societies/economics/)
 -- the same source cited by the
 [Measuring and Managing the Economy revision notes](/resources/ib-dp-economics-macroeconomics-measuring-revision-notes/).
