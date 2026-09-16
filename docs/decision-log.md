@@ -11381,3 +11381,51 @@ None.
 - API tests: 31/31
 
 **Open-count position after D-238 (for the audit to reconcile).** Round 16 leaves E912, E913, I358, I359, I360 and Q393 for repair; all six are closed here. Confirmed errors declared open: 0.
+
+## D-239 - Owner item: Cambridge IGCSE Accounting 0452 Topics 4-7 written for the 2027-2029 syllabus (twelve new resources) (2026-09-16)
+
+**Trigger.** Round 17 (`docs/audit/2026-10-24-findings.md`, Q395, `224240e`) declares 0 confirmed errors open and nothing to repair. The audit brief of the same date asked whether the repair instance should stay idle or take an owner item meanwhile. The owner chose **0452 Topics 4-7**, completing the set D-234 began (Topics 1-3). This entry closes no finding.
+
+**Primary sources.**
+
+- Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029, Version 1, © September 2024 (`718141`), the same copy D-234 used, read again to its contact block: content overview p.8, assessment p.9, subject content pp.14-20 (Topics 4-7), accounting ratios p.21, details of the assessment p.22, command words p.23, changes p.28.
+- Cambridge IGCSE Accounting 0452 syllabus for 2026, Version 2 (`697149`), pp.13-19, for each page's "2026 differs" sentence only.
+
+**How it was written.** One writer per topic under a common brief (terminology, every bullet and Note covered, no exam claim beyond pp.9 and 22, p.21 formulas only, labelled background for anything beyond a bullet, original questions, every figure computed, every scheme recounted), then a separate adversarial reviewer per topic who re-balanced every statement and account and recounted every tariff, then a lead pass on the reviewers' judgement items. The data layer needed no change: D-234 already entered Topics 4-7 and their sub-topic slugs.
+
+### New resources (all `syllabusCodes ["0452"]`, `syllabusSeries "2027-2029"`, edition note as D-234 plus a topic sentence)
+
+| Topic | Files | Coverage and checks |
+|---|---|---|
+| 4 Accounting procedures | `igcse-accounting-accounting-procedures.md`, `igcse-accounting-procedures-revision-notes.md`, `igcse-accounting-procedures-practice.md` | 4.1-4.5, all 26 bullets: capital/revenue expenditure and receipts with effect-on-profit and asset calculations; straight-line, reducing balance and revaluation, method by asset type, journals, the three ledger accounts and profit or loss on disposal; accruals and prepayments of expenses and income in journals and ledgers; irrecoverable debts, debts recovered and the allowance (creation, increase, decrease); lower of cost and NRV item by item and the two-period effect of a misvaluation. Practice: 14 questions, 95 marks, Q14 a 20-mark structured question; every scheme recounted. Topic sentence: 2026 says "recovery of debts written off", asks for simple inventory valuation statements, and does not separately list method by asset type, purchase journals or profit or loss on disposal. |
+| 5 Preparation of financial statements | `igcse-accounting-preparation-of-financial-statements.md`, `igcse-accounting-financial-statements-revision-notes.md`, `igcse-accounting-financial-statements-practice.md` | 5.1-5.6, every bullet, with the 5.2 and 5.6 Notes quoted. Worked examples re-balanced: sole trader with all 5.1 adjustments (SOFP 105,360); partnership appropriation, current accounts and fixed capital accounts in ledger form (loan interest an expense in the statement of profit or loss); company statement of profit or loss, statement of changes in equity and SOFP extract (dividends only in the SOCE); manufacturing account to factory cost of production 107,000 and the three inventories; club receipts and payments, subscriptions account, refreshments account, income and expenditure account and SOFP (8,380); incomplete records by statements of affairs and by reconstructed figures, both giving profit 8,400. Share premium, rights issues and cumulative or redeemable preference shares are not taught. Practice: 13 questions, Q13 a 20-mark incomplete-records question. Topic sentence: 2026 5.1 is trading and service only with drawings limited to goods for own use; its 5.3 Note exclusions and redeemable/non-redeemable requirement (the 2027-2029 syllabus lists none of these); its 5.6 does not ask why or the advantages. |
+| 6 Analysis and interpretation | `igcse-accounting-analysis-and-interpretation.md`, `igcse-accounting-analysis-revision-notes.md`, `igcse-accounting-analysis-practice.md` | The ten 6.1 ratios with the p.21 formulas verbatim and the Note that only these are accepted; current and acid test as ratios; ROCE on profit for the year before interest over issued shares + reserves + non-current liabilities. One two-year limited company data set (both SOFPs balance) with all ten ratios, interpretation, recommendations, gross-profit and profit drivers and a profit-to-cash reconciliation labelled "not a statement of cash flows". 6.3 factors and problems; 6.4 all ten entries as listed; 6.5 as listed. Practice: 13 questions, 70 marks, Q13 20 marks; 31 ratio statements re-computed by script. Topic sentence: 2026 lists eight ratios without inventory days, names ROCE's numerator "net profit before interest", and has the shorter parties and limitations lists. |
+| 7 Accounting concepts and modern practice | `igcse-accounting-concepts-and-modern-practice.md`, `igcse-accounting-concepts-revision-notes.md`, `igcse-accounting-concepts-practice.md` | 7.1 the ten concepts, each with an application in the records; 7.2 the need for a framework, the five principles as listed, and significance to stakeholders and society (one sentence that professional bodies publish codes is labelled background; none is named); 7.3 digital applications, safe and sustainable storage and the risks, the four storage types with advantages and disadvantages, and the Note (no software named). The 2026 comparability, relevance, reliability, understandability and international standards appear only in the edition note. Practice: 13 questions, 67 marks, Q13 20 marks. Topic sentence: 2026 calls the ten items principles and has 7.2 Accounting policies instead. |
+
+### Changed in passing
+
+None. No existing resource or data-layer record was edited.
+
+### Review corrections made before commit
+
+- Topic 4: practice answer 3 made an "any two reasons" rule so a correct third reason earns credit; answer 12(b) c/d and b/d sides stated correctly; notes heading given the exact 4.2 title; 2028 allowance base stated as after write-offs; 14(f) scheme says naming prudence and the reason together earn the first mark.
+- Topic 5: practice 12(c) no longer says subscriptions in advance are a year's membership; fixed capital accounts in ledger form and a set-out refreshments account added (5.2 and 5.5 bullets); practice Q13 states no prior depreciation on fixtures; the exam-technique split of partnership items and the allowance common-mistake line reworded.
+- Topic 6: practice 13(b) reasons now follow from the ratios (the profit margin fell less than the gross profit margin); two sentences implying how marks are awarded softened to advice.
+- Topic 7: the 7.3 paragraph no longer says spreadsheets or online banking post double entry; a notes exam trap no longer calls all 2026 Topic 7 content removed; 12(d) accepts cloud services with a reason; 13(d) accepts professional behaviour; 13(e) lists three advantages under an any-two rule; three links to the Topic 6 guide added.
+
+### Observations, not actioned
+
+- The existing Topic 2 and 3 pages use `order` 3 for notes and 4 for practice, while Topic 1 and the new pages use the topic number. Cosmetic; not changed.
+
+**Validation.** All pass:
+
+- `astro check`: 0 errors
+- `validate:academic`
+- `validate-assessments`, `validate-cross-board-integrity`
+- build: 2141 pages
+- `audit:all`: 0 problems
+- cross-board regression; negative suite
+- API tests: 31/31
+- `check-duplicate-resource-scope`: no group involves a new file (the four pre-existing groups are unchanged)
+
+**Open-count position after D-239.** Unchanged from round 17: confirmed errors declared open 0. The twelve pages are new content for the audit to read.
