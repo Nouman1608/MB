@@ -138,6 +138,9 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 13 (2026-10-20, Q390):** D-234 verified, nothing to repair in it. The 110 from round 12 still stand;
+  the status report sent with D-234 predates round 12 and should not be read as "0 open".
+
 - **Round 12 (2026-10-19, Q389): 110 to repair.** The audit read the 692 closures D-138…D-225 declare.
   101 are not fixed and are reopened; the evidence for each (file and line on `main`) is tabled in
   `2026-10-19-findings.md`. Nine new confirmed errors, E903…E911, were introduced by repairs whose
