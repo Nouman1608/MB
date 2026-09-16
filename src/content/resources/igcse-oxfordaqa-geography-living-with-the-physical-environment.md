@@ -74,7 +74,7 @@ separate topics.
 
 OxfordAQA International GCSE Geography (9230) specification PDF, Version
 4.3 —
-[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/02/oxfordaqa-international-gcse-geography-specification.pdf).
+[oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-geography-specification.pdf).
 
 ## Tectonic hazards
 

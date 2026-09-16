@@ -770,8 +770,8 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2017', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA -- official International AS and A-level Physics specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-08-19',
-    notes: "OxfordAQA International AS and A-level Physics (9630); International AS (9610) is co-teachable. Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.9 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change) are International A-level only. All 9 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19. Content of 3.2.3 (Motion along a straight line) and 3.2.5 (Newton's laws of motion) re-verified against the same PDF (oxfordaqaexams.org.uk/9630, Version 4.4), fetched 2026-09-02.",
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-as-and-a-level-physics-specification.pdf', verifiedDate: '2026-09-16',
+    notes: "OxfordAQA International AS and A-level Physics (9630); International AS (9610) is co-teachable. Guided learning hours: 180 for the International AS, 360 for the full International A-level. Sections 3.1-3.5 are the shared AS/A-level content; sections 3.6-3.9 (Circular and periodic motion; Gravitational fields and satellites; Electric fields and capacitance; Exponential change) are International A-level only. All 9 topics and their sub-topic structure verified directly against the official specification PDF (oxfordaqa.com), fetched in full 2026-08-19. Content of 3.2.3 (Motion along a straight line) and 3.2.5 (Newton's laws of motion) re-verified against the same PDF (oxfordaqaexams.org.uk/9630, Version 4.4), fetched 2026-09-02. D-240 (I361): relinked to the Version 4.4 copy linked from the OxfordAQA qualification page (42 pp., read to its copyright block 2026-09-16); all topic and sub-topic names above appear in it.",
     topics: [
       { number: 1, name: 'Measurements and their errors', slug: 'measurements-and-their-errors-oxfordaqa-alevel', subtopics: [
         { number: '3.1.1', name: 'Use of SI units and their prefixes', slug: 'use-of-si-units-and-their-prefixes-oxfordaqa' },
@@ -3216,12 +3216,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'english-language',
-    syllabusCode: '9270', syllabusSeries: 'Version 4.2, for exams May/June 2018 onwards',
+    syllabusCode: '9270', syllabusSeries: 'Version 5.1, for exams May/June 2018 onwards',
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official International GCSE English Language (9270) specification PDF',
-    sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-english-language-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'Overlaps with AQA UK GCSE English Language (8700). Students take Paper 1 plus EITHER Paper 2 (examined) OR a non-exam assessment project as an alternative to Paper 2; this entry represents the mainstream exam route. An optional Speaking and Listening endorsement is reported separately and does not count toward the qualification grade.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-english-language-specification.pdf', verifiedDate: '2026-09-16',
+    notes: 'Overlaps with AQA UK GCSE English Language (8700). Students take Paper 1 plus EITHER Paper 2 (examined) OR a non-exam assessment project as an alternative to Paper 2; this entry represents the mainstream exam route. An optional Speaking and Listening endorsement is reported separately and does not count toward the qualification grade. D-240 (I361): Version 5.1 (copyright 2025, 23 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the paper and section names above and the NEA and endorsement routes are unchanged.',
     topics: [
       { number: 1, name: 'Paper 1 – Literary Non-fiction and Composition', slug: 'paper-1-literary-non-fiction-and-composition-9270', subtopics: [
         { number: '1.1', name: 'Section A: Literary Non-fiction', slug: 'section-a-literary-non-fiction-9270' },
@@ -3259,12 +3259,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'english-literature',
-    syllabusCode: '9275', syllabusSeries: 'Version 4.2, for exams May/June 2018 onwards',
+    syllabusCode: '9275', syllabusSeries: 'Version 5.1, for exams May/June 2018 onwards',
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official International GCSE English Literature (9275) specification PDF',
-    sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-english-literature-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'Overlaps with AQA UK GCSE English Literature (8702). Two routes exist: Route A (Paper 1 + Paper 2a, with an unseen-prose section) and Route B (Paper 1 + Paper 2b + non-exam assessment). This entry represents the shared Paper 1 content plus Route A’s Paper 2a; set texts (from a prescribed list, plus the OxfordAQA poetry anthology People and Places) are not encoded here.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-international-gcse-english-literature-specification-2018.pdf', verifiedDate: '2026-09-16',
+    notes: 'Overlaps with AQA UK GCSE English Literature (8702). Two routes exist: Route A (Paper 1 + Paper 2a, with an unseen-prose section) and Route B (Paper 1 + Paper 2b + non-exam assessment). This entry represents the shared Paper 1 content plus Route A’s Paper 2a; set texts (from a prescribed list, plus the OxfordAQA poetry anthology People and Places) are not encoded here. D-240 (I361): Version 5.1 (copyright 2025, 24 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the routes, papers and section names above are unchanged.',
     topics: [
       { number: 1, name: 'Prose and Drama', slug: 'prose-and-drama-9275', subtopics: [
         { number: '1.1', name: 'Prose Fiction', slug: 'prose-fiction-9275' },
@@ -3279,12 +3279,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'english-literature',
-    syllabusCode: '9675', syllabusSeries: 'Version 4.1, for International AS exams from May/June 2018, A-level from May/June 2019',
+    syllabusCode: '9675', syllabusSeries: 'Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019',
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official International AS and A-level English Literature (9675) specification PDF',
-    sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-english-literature-specification.pdf', verifiedDate: '2026-09-02',
-    notes: 'International AS = Unit 1 and Unit 2; the full International A-level adds Unit 3 and Unit 4. Unit 1 and Unit 2 sub-sections and set-text lists fetched and verified 2026-09-02 directly from the full specification PDF, Version 4.1 (pages 11-14): Unit 1 splits into Section A (Elizabethan and Jacobean tragedy, passage-based) and Section B (later dramatic tragedies, essay); Unit 2 splits into Section A (prose) and Section B (poetry). Units 3 and 4 (International A-level only) remain topic-name-only pending the same fetch for their content.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-english-literature-specification.pdf', verifiedDate: '2026-09-16',
+    notes: 'International AS = Unit 1 and Unit 2; the full International A-level adds Unit 3 and Unit 4. Unit 1 and Unit 2 sub-sections and set-text lists fetched and verified 2026-09-02 directly from the full specification PDF, Version 4.1 (pages 11-14): Unit 1 splits into Section A (Elizabethan and Jacobean tragedy, passage-based) and Section B (later dramatic tragedies, essay); Unit 2 splits into Section A (prose) and Section B (poetry). Units 3 and 4 (International A-level only) remain topic-name-only pending the same fetch for their content. D-240 (I361): re-checked against Version 5.3 (copyright 2025, 26 pp.), linked from the OxfordAQA qualification page and read to its copyright block 2026-09-16; Units 1 and 2 are on pages 11-13 there, and every section and set text listed above appears unchanged.',
     topics: [
       { number: 1, name: 'Unit 1 – Aspects of Dramatic Tragedy', slug: 'unit-1-aspects-of-dramatic-tragedy-9675', stage: 'AS', subtopics: [
         { number: '1.A', name: 'Section A: Elizabethan and Jacobean Tragedy (passage-based) — choice of Othello, King Lear, Hamlet, Doctor Faustus (B text), The Duchess of Malfi', slug: 'unit-1-section-a-9675' },
@@ -3879,12 +3879,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'geography',
-    syllabusCode: '9230', syllabusSeries: 'Version 3.3',
+    syllabusCode: '9230', syllabusSeries: 'Version 4.3',
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-geography-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'First teaching September 2018, first examined May/June 2020. Three components, no coursework. Topic 2 (Challenges in the Human Environment) is organised into three examined sections (A: Urban Issues and Challenges; B: The Changing Economic World; C: Global Issues); Section A sub-topics (3.2.1.1-3.2.1.2) reproduced directly from the official specification PDF, fetched and verified 2026-09-02. Sections B and C sub-topics are not yet entered.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-geography-specification.pdf', verifiedDate: '2026-09-16',
+    notes: 'First teaching September 2018, first examined May/June 2020. Three components, no coursework. Topic 2 (Challenges in the Human Environment) is organised into three examined sections (A: Urban Issues and Challenges; B: The Changing Economic World; C: Global Issues); Section A sub-topics (3.2.1.1-3.2.1.2) reproduced directly from the official specification PDF, fetched and verified 2026-09-02. Sections B and C sub-topics are not yet entered. D-240 (I361): Version 4.3 (copyright 2025, 36 pp., for exams May/June 2020 onwards), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the topic and Section A names above are unchanged.',
     topics: [
       { number: 1, name: 'Living with the Physical Environment', slug: 'living-with-physical-environment-9230', subtopics: [] },
       { number: 2, name: 'Challenges in the Human Environment', slug: 'challenges-human-environment-9230', subtopics: [
@@ -3896,12 +3896,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'a-level', subjectSlug: 'geography',
-    syllabusCode: '9635', syllabusSeries: 'Version 2.4',
+    syllabusCode: '9635', syllabusSeries: 'Version 3.2',
     effectiveFrom: '2018', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA — official specification PDF',
-    sourceUrl: 'http://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-geography-specification.pdf', verifiedDate: '2026-08-19',
-    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS: Unit 1 (choice of Hot Desert or Coastal Systems option) and Unit 2. A2 adds Units 3-5. Candidates may take Unit 1 (a or b) and 2 only for AS, or continue to Units 3-5 for the full A-level. Unit 2.1 (Global Systems and Governance) content -- covering 3.2.1.1 Globalisation, 3.2.1.2 Global systems, and 3.2.1.3 International trade and access to markets -- verified directly against the same specification PDF, fetched and read in full 2026-09-02; the Subtopic schema used in this file does not support a third nesting level, so this finer breakdown is documented here rather than as additional taxonomy entries.',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-geography-specification.pdf', verifiedDate: '2026-09-16',
+    notes: 'First teaching September 2018; first AS exams May/June 2019; first A-level exams May/June 2020. International AS: Unit 1 (choice of Hot Desert or Coastal Systems option) and Unit 2. A2 adds Units 3-5. Candidates may take Unit 1 (a or b) and 2 only for AS, or continue to Units 3-5 for the full A-level. Unit 2.1 (Global Systems and Governance) content -- covering 3.2.1.1 Globalisation, 3.2.1.2 Global systems, and 3.2.1.3 International trade and access to markets -- verified directly against the same specification PDF, fetched and read in full 2026-09-02; the Subtopic schema used in this file does not support a third nesting level, so this finer breakdown is documented here rather than as additional taxonomy entries. D-240 (I361): Version 3.2 (copyright 2025, 34 pp.), linked from the OxfordAQA qualification page, read to its copyright block 2026-09-16; the unit structure, the Unit 1a/1b option and the section names above are unchanged.',
     topics: [
       { number: 1, name: 'Unit 1 – Physical Geography 1: Living with Hazards', slug: 'unit-1-physical-geography-1-9635', stage: 'AS', subtopics: [
         { number: '1.1', name: 'Unit 1a: Living with Hazards — Hot Desert Systems and Landscapes', slug: 'unit-1a-hot-desert-systems-9635' },

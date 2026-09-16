@@ -11429,3 +11429,30 @@ None. No existing resource or data-layer record was edited.
 - `check-duplicate-resource-scope`: no group involves a new file (the four pre-existing groups are unchanged)
 
 **Open-count position after D-239.** Unchanged from round 17: confirmed errors declared open 0. The twelve pages are new content for the audit to read.
+
+## D-240 - Audit round 18 (Q396): I361 and I362 closed (2026-09-16)
+
+**Trigger.** Round 18 (`docs/audit/2026-10-25-findings.md`, `87fa74f`) checked the two observations D-238 left unactioned and recorded I361 and I362.
+
+**Primary sources.** Each specification linked from its OxfordAQA qualification page (`/qualification/<name>-<code>/`, fetched 2026-09-16) was downloaded and read to its copyright block: 9270 Version 5.1 (23 pp.), 9275 Version 5.1 (24 pp.), 9675 Version 5.3 (26 pp.), 9230 Version 4.3 (36 pp.), 9635 Version 3.2 (34 pp.), 9630 Version 4.4 (42 pp.), all under `wp-content/uploads/2026/07/`. Cambridge O Level First Language Urdu 3247 syllabus for exams in 2027 (`721463`, Version 1, September 2024, 24 pp.) read to its address block. Before any declaration changed, a script checked every topic and sub-topic name in the six `syllabus-topics.ts` records against the live texts (9270: 6; 9275: 7; 9675: 8, including all 15 set texts and four poet selections; 9230: 5; 9635: 13; 9630: 51); all appear, the only differences being composed labels ("Unit 1 – Physical Geography 1: Living with Hazards") and "selections" for "selection".
+
+### Closed -- fixed and verified
+
+| ID | Files | What changed / verified |
+|---|---|---|
+| I361 | `src/data/academic/syllabus-topics.ts` records 9270, 9275, 9675, 9230, 9635, 9630 | `syllabusSeries` now declares 9270 Version 5.1, 9275 Version 5.1, 9675 Version 5.3, 9230 Version 4.3 and 9635 Version 3.2, matching the resources and the live documents. All six `sourceUrl`s move from the retired `oaqaresources` path (five over http) to the https copies the qualification pages link; `verifiedDate` 2026-09-16. Each record's notes gain a D-240 line naming the version read. The 9675 note's "Version 4.1 (pages 11-14)" is kept as history, with Units 1-2 recorded at pages 11-13 of Version 5.3 and the set-text lists unchanged. 9630 relinked only (its series string carries no version; the live copy is Version 4.4, matching its resources). **Left as the finding directs:** 9685 (Version 2.2 on the record, 3.1 on the resources; the board's page links a 2.2 document, so the current version needs the board). The 9625 notes string names the legacy path only as the URL fetched on 2026-09-02; not a link, not changed. |
+| I362 | `src/data/academic/assessments.ts` (3247) | `officialSourceUrl` now `721463-2027-syllabus.pdf`, `firstAssessment` 2027, `verifiedOn` 2026-09-16. Paper figures confirmed unchanged against 721463's assessment overview (p.8) and details (Paper 1 Reading and Writing 1h30, 50 marks, 50%; Paper 2 Texts 2h, 50 marks, 50%; grades A* to E; June series). Notes record that 664479 (2025 and 2026) has the same papers. The combined 3247/3248 syllabus record and `syllabus-topics.ts` already cite 721463. |
+
+### Changed in passing
+
+| Files | What changed |
+|---|---|
+| `igcse-oxfordaqa-geography-urban-issues-and-challenges.md`, `igcse-oxfordaqa-geography-living-with-the-physical-environment.md` | Both linked the 9230 specification at `wp-content/uploads/2025/02/...international-gcse-geography-specification.pdf`, which now returns 404. Relinked to the Version 4.3 copy on the qualification page; the declared version (4.3) was already right. The other 9270, 9275, 9675, 9635 and 9630 resource links were fetched and resolve to the same versions (9270 and 9635 byte-identical to the qualification-page copies). |
+
+### Already correct
+
+- `src/pages/command-words/index.astro` line 95 links `oaqaresources/geography/international-a-level-geography-command-words-v1.pdf`; fetched 2026-09-16, it returns the PDF (HTTP 200). Not changed.
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; `validate-cross-board-integrity`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31. The built Urdu O Level board page links 721463.
+
+**Open-count position after D-240.** Round 18 leaves I361 and I362 for repair; both are closed here (9685 left unsettled as the finding directs). Confirmed errors declared open: 0.

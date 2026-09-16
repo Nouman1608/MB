@@ -522,14 +522,14 @@ export const ASSESSMENTS: readonly Assessment[] = [
     code: '3247',
     specStatus: 'current',
     tiers: ['first-language'],
-    firstAssessment: '2025',
+    firstAssessment: '2027',
     components: [
       { paperCode: 'Paper 1', title: 'Reading and Writing', durationMinutes: 90, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', tier: 'first-language' },
       { paperCode: 'Paper 2', title: 'Texts', durationMinutes: 120, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', tier: 'first-language' },
     ],
-    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/664479-2025-2026-syllabus.pdf',
-    verifiedOn: '2026-08-26',
-    notes: 'Cambridge O Level Urdu -- First Language, for candidates with Urdu as their mother tongue; grades A*-E only (no G). All questions answered in Urdu. June series only.',
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf',
+    verifiedOn: '2026-09-16',
+    notes: 'Cambridge O Level Urdu -- First Language, for candidates with Urdu as their mother tongue; grades A*-E only (no G). All questions answered in Urdu. June series only. D-240 (I362): source is the syllabus for exams in 2027 (721463, Version 1, September 2024, read to its address block): Paper 1 Reading and Writing 1h30, 50 marks, 50%; Paper 2 Texts 2h, 50 marks, 50%; grades A* to E; no significant changes which affect teaching. The syllabus for 2025 and 2026 (664479) has the same papers.',
   },
   {
     boardSlug: 'cambridge',

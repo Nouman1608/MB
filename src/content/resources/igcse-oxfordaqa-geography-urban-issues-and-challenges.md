@@ -164,4 +164,4 @@ environmental impact.
 ## Official syllabus
 
 OxfordAQA International GCSE Geography (9230) specification, Version
-4.3 — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2025/02/oxfordaqa-international-gcse-geography-specification.pdf).
+4.3 — [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-geography-specification.pdf).
