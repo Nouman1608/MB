@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**2 confirmed-error groups open (E923, E924)** *(2026-11-01, round 25: the remaining U72 board claims checked; E924, I374, U75 added.)*
+**1 confirmed-error group open (E924)** *(2026-11-02, round 26: D-245 and D-246 verified — 26 of 26 fixed; E923, I372, U74 and I373 closed.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,10 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 26 (2026-11-02, Q407): D-245 and D-246 verified.** Nothing more on E923, I372, U74 or I373. Add
+  **I375** (computer science HL A3.3.4-A3.3.6 missing; geography civil-society strategies and the
+  non-governmental case study missing) to E924, I374 and U75.
 
 - **Round 25 (2026-11-01, Q406): the last 95 U72 board claims checked.** Add **E924** (9UR0 Paper 3 is 30 + 30
   marks, not a Section B majority; YLA1 contract and criminal law are Paper 2 content; 9202's required practicals),
