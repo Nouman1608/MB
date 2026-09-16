@@ -34,7 +34,7 @@ Related: [What Is Business? revision notes](/resources/aqa-as-level-business-wha
 
 **2.** Identify two ways a business can increase added value other than raising its price. **[2]**
 
-**3.** State the two named external environment factors highlighted in this topic. **[2]**
+**3.** State **two** of the factors the specification names as influencing a business's costs and demand. **[2]**
 
 ---
 
@@ -71,7 +71,7 @@ Related: [What Is Business? revision notes](/resources/aqa-as-level-business-wha
 
 **2.** Any two of: branding, quality, service, convenience, design. **[2]**
 
-**3.** Economic conditions; costs and demand. **[2]**
+**3.** Any two of: competition; market conditions; incomes; interest rates; demographic factors; environmental issues and fair trade (1 mark each). **[2]**
 
 **4. (a)** A private limited company. **[1]**
 **(b)** A private limited company offers limited liability, replacing the sole trader's unlimited liability and reducing the owner's personal financial risk; it also allows outside investors to buy shares, improving access to capital compared with a sole trader; the trade-off is some reduction in control, since decisions may need to be shared with other shareholders, and a new requirement to publish annual accounts, though this loss of control is generally less than converting to a public limited company. **[4]**

@@ -15,7 +15,7 @@ publishedDate: 2026-09-07
 featured: false
 ---
 
-AQA GCSE Business (8132) is assessed through two written papers, not tiered: Paper 1 (Influences on
+AQA GCSE Business (8132) is assessed through two written papers, not tiered: Paper 1 (Influences of
 operations and HRM on business activity, 1h45, 90 marks, 50%) and Paper 2 (Influences of marketing and
 finance on business activity, 1h45, 90 marks, 50%). These notes turn that structure into an exam-day
 plan, alongside the

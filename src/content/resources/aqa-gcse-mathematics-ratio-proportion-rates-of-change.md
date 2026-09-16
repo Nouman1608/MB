@@ -26,9 +26,9 @@ strands, particularly algebra and geometry, in longer multi-step problems.
 ## Where this fits in 8300
 
 Mathematics 8300 is assessed by three equally weighted papers (Paper 1 non-calculator, Papers 2 and 3
-calculator), each 1 hour 30 minutes, at either Foundation or Higher tier. Ratio, proportion and rates of
-change questions can appear on any of the three papers and are not confined to a single paper the way
-some topics are.
+calculator), each 1 hour 30 minutes, at either Foundation or Higher tier. The specification states that
+"all content can be assessed on any of the three question papers", so ratio, proportion and rates of
+change questions -- like every other topic -- can appear on any paper, calculator or non-calculator.
 
 ## Syllabus coverage
 

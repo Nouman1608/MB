@@ -49,11 +49,15 @@ section's 40 marks (Q1 to Q3 together carry 24).
 ## What the study tests
 
 The Historic Environment element links one specified historic site, changed annually, to your chosen British
-depth study, and assesses your ability to:
+depth study. The specification expects you to:
 
-- Explain the **significance** of features of a site (why they mattered at the time).
-- Explain how a site **reflects** wider historical events, developments or ways of life.
-- Use **second-order concepts** — cause, consequence, change, continuity, significance — applied to a physical place, not just a written source.
+- Identify the **key features** of the site (location, function, structure, design, people connected with it) and connect them to the wider historical context of the period.
+- Understand how the site's design **reflects** the culture, values and fashions of the time, and how important events and developments from the depth study are connected to the site.
+- Understand how the site's features are representative of the period, how they had changed from earlier periods, and how they changed or stayed the same during it.
+- Answer a question that draws on the **second-order concepts** of change, continuity, causation and/or consequence, in the context of the site and the wider events and developments of the period.
+
+Significance is not one of the concepts the specification names for this question; the Significance step in the
+structure below is a planning device for explaining why a link matters.
 
 ## The skill, not the fact list
 
@@ -122,9 +126,9 @@ each question is marked against its own, different skill.
 
 ## Self-test
 
-1. What four second-order concepts commonly appear in Historic Environment questions?
+1. Which four second-order concepts does the specification say the Historic Environment question draws on?
 2. Why is it risky to revise the Historic Environment as a standalone topic?
 3. What should you always confirm before starting detailed revision of this element?
 4. Complete the structure: Feature → Context → Link → ____?
 
-**Answers:** 1. Cause, consequence, change and continuity (with significance also commonly tested). 2. Because the specified site is directly tied to your chosen British depth study — revising it in isolation misses the connections examiners specifically test. 3. The current specified site for your exact depth study and examination year, since AQA changes it every year. 4. Significance — explaining why the connection between the feature and its historical context matters.
+**Answers:** 1. Change, continuity, causation and consequence (the specification's wording is "change, continuity, causation and/or consequence"; significance is not among them). 2. Because the specified site is directly tied to your chosen British depth study — revising it in isolation misses the connections examiners specifically test. 3. The current specified site for your exact depth study and examination year, since AQA changes it every year. 4. Significance — explaining why the connection between the feature and its historical context matters.

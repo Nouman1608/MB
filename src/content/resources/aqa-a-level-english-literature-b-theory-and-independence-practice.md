@@ -59,7 +59,7 @@ Related: [Theory and Independence revision notes](/resources/a-level-aqa-english
 
 ## Section C
 
-**7.** Explain why the specification expects candidates to choose their critical lens before selecting their text, rather than the reverse, and evaluate what risk this ordering is designed to avoid. **[6]**
+**7.** The specification sets no order for choosing texts and critical lenses, but candidates are often advised to choose their critical lens before selecting their text, rather than the reverse. Explain the reasoning behind this advice and evaluate what risk it is designed to avoid. **[6]**
 
 **8.** A candidate wants to use a text that is on their own centre's exam paper reading list for a different component, reasoning "my centre won't examine me on it for Component 3, so it should be fine." Evaluate this reasoning against the specification's actual rule. **[5]**
 
@@ -67,7 +67,7 @@ Related: [Theory and Independence revision notes](/resources/a-level-aqa-english
 
 ## Worked answers
 
-**1.** 1,250-1,500 words per essay; Component 3 is worth 20% of the A-level. Quotations aren't counted towards the total, and for a re-creative response the creative piece and its commentary are counted together, not separately. **[3]**
+**1.** 1,250-1,500 words per essay; Component 3 is worth 20% of the A-level. AQA's NEA teaching guide adds that quotations aren't counted towards the total, and that for a re-creative response the creative piece and its commentary are counted together, not separately. **[3]**
 
 **2.** One text must be prose and the other poetry; each text must be linked to a different section of the Critical anthology. **[2]**
 
@@ -82,7 +82,7 @@ Related: [Theory and Independence revision notes](/resources/a-level-aqa-english
 **6. (a)** Not fully — if using a short-story collection, the whole collection must be studied, and at least two stories must be selected as representative examples for detailed analysis in a conventional essay; analysing only a single story is only permitted for the re-creative option, not a conventional essay. **[2]**
 **(b)** The candidate would need to either study the whole collection and select at least two stories for detailed analysis in their conventional essay, or switch to submitting a re-creative response for this text, where a single story from the collection may be the sole focus. **[2]**
 
-**7.** The specification expects the critical lens to be chosen first because a text is far more likely to reward genuinely rich, well-supported critical analysis if it is selected specifically for how well it suits the intended lens, rather than a lens being searched for and applied retroactively to a text chosen for other reasons (such as personal enjoyment). Choosing lens-first is designed to avoid the risk of a candidate becoming committed to a text that actively resists the critical framework they eventually need to apply to it, producing an essay that strains to make connections rather than genuinely exploring rich, naturally-present critical material — a risk that is much harder to correct once significant time has already been invested in a text-first choice. **[6]** (Marks for explaining the ordering's purpose and the specific risk it is designed to prevent, not simply restating the rule.)
+**7.** The specification itself sets no order: it requires that texts chosen "must allow access to a range of critical views and interpretations, including over time" and "must maximise opportunities for writing with reference to the AQA Critical anthology". Choosing the lens first is advice for meeting that requirement, because a text is far more likely to reward genuinely rich, well-supported critical analysis if it is selected specifically for how well it suits the intended lens, rather than a lens being searched for and applied retroactively to a text chosen for other reasons (such as personal enjoyment). Choosing lens-first helps avoid the risk of a candidate becoming committed to a text that actively resists the critical framework they eventually need to apply to it, producing an essay that strains to make connections rather than genuinely exploring rich, naturally-present critical material — a risk that is much harder to correct once significant time has already been invested in a text-first choice. A balanced evaluation also notes the limit of the advice: a text chosen out of genuine interest can work very well if it also offers rich material for the intended lens, so what matters is checking the fit before committing, not the order as such. **[6]** (Marks for explaining the advice's purpose, the specific risk it helps prevent and its limits, not simply restating it.)
 
 **8.** This reasoning is incorrect. The specification's rule bans any text that appears on the A-level exam paper set-text lists at all, regardless of whether the candidate's own centre teaches or examines that specific text for the exam component — the ban is not conditional on the candidate's own centre's choices. A text banned under this rule cannot be used for Component 3 even if the candidate would genuinely never be examined on it through the exam papers at their own centre, because the rule is defined by the text's presence on the overall set-text list, not by what any individual centre happens to teach. **[5]**
 

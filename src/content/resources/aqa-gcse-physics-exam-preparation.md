@@ -63,8 +63,10 @@ the kettle, in watts."
 ```
 Step 1 - recall the equation linking power, energy and time:
 power = energy transferred / time
-(This equation is on AQA's Physics equation sheet -- check before
-assuming it must be memorised.)
+(This is a recall equation: AQA 8463 4.1.1.4 says students should
+recall and apply both power equations, P = E/t and P = W/t, and
+Appendix A lists them among the equations to recall, not on the
+Physics equation sheet.)
 
 Step 2 - substitute the given values:
 power = 180000 / 90
@@ -88,8 +90,9 @@ rewards, regardless of which specific equation from the specification is being t
   of which equations are provided versus must be recalled; practise writing units and appropriate
   significant figures as a fixed habit on every calculation; revise every required practical's method
   and sources of uncertainty.
-- **During Paper 1**: energy and electricity calculations recur across several topics -- check
-  whether an equation is given on the equation sheet before assuming it must be recalled.
+- **During Paper 1**: energy and electricity calculations recur across several topics, and most of
+  their equations (including both power equations) must be recalled -- use the equation sheet only for
+  the equations it actually lists.
 - **During Paper 2**: forces and waves questions often combine a calculation with a "describe" or
   "explain" part in the same structured item -- answer both parts, since they are marked separately.
 - **On every paper**: finish every calculation with a unit and a sense-check of significant figures,

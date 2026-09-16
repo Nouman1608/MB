@@ -51,9 +51,10 @@ For any causation question, sort causes into three categories and show how they 
 Long-term:    underlying conditions built up over years/decades
 Short-term:   events in the run-up to the outcome
 Trigger:      the specific event that precipitated it
-Connection:   explain how the three reinforced each other -- naming
-              all three without connecting them caps marks at the
-              lower half of the top level
+Connection:   explain how the three reinforced each other -- AQA's
+              published top-level descriptor for causation asks for
+              a "complex explanation of the relationship between
+              causes", which naming all three does not show
 ```
 
 ## Building an answer to a "how far" question
@@ -125,5 +126,6 @@ extended-writing practice question drawing on that same content.
 
 **Answers:** 1. Two — one period study from Section A, one wider world depth study from Section B. 2.
 Causation and change/continuity. 3. Long-term causes, short-term causes, and the trigger event. 4.
-Because naming all three without explaining how they reinforced each other caps marks at the lower
-half of the top level — connection is what the highest marks reward. 5. Paper 2.
+Because the top level of AQA's published mark schemes for causation questions describes a "complex
+explanation of the relationship between causes" — naming all three without explaining how they
+reinforced each other does not show that. 5. Paper 2.

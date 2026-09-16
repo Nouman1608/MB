@@ -28,7 +28,7 @@ describe.
 ## Where this fits in 0455
 
 Microeconomic decision makers is the third of the six topics that make up 0455, with eight sub-topics
-(3.1 to 3.8) spanning money and banking through to how firms compete in different market structures. It builds directly on the supply
+(3.1 to 3.8) spanning money and banking through to competitive and monopoly markets. It builds directly on the supply
 and demand analysis from Topic 2, applying it to specific real-world actors and institutions rather than
 markets in the abstract.
 
@@ -36,20 +36,26 @@ markets in the abstract.
 
 **CAMBRIDGE IGCSE ECONOMICS (0455) -- TOPIC 3: MICROECONOMIC DECISION MAKERS**
 
-- Money and banking: the functions of money, the role of central and commercial banks, and how banks
-  create credit
-- Households: factors influencing spending, saving and borrowing decisions
-- Workers: factors affecting an individual's choice of occupation, and the determination of wage rates
-  including the role of demand and supply for labour
-- Trade unions: their role and the methods they use to achieve their objectives
-- Firms: reasons for different sizes and types of firms, and reasons why firms grow
-- Firms' production: the difference between production and productivity, and the different factors of
-  production
-- Firms' costs, revenue and objectives: total, fixed and variable costs, average total, average fixed and
+- 3.1 Money and banking: the forms, functions and characteristics of money; the role and importance of
+  central banks and commercial banks for government, producers and consumers
+- 3.2 Households: the influences on spending, saving and borrowing, including income, the rate of interest
+  and confidence
+- 3.3 Workers: factors affecting an individual's choice of occupation (wage and non-wage factors); wage
+  determination, including demand and supply, relative bargaining power and government policy such as a
+  minimum wage; reasons for differences in earnings; division of labour/specialisation
+- 3.4 Trade unions: definition; their role in the economy, including collective bargaining; the advantages
+  and disadvantages of trade union activity
+- 3.5 Firms: classification of firms; small firms; causes and forms of the growth of firms; mergers;
+  economies and diseconomies of scale
+- 3.6 Firms and production: demand for factors of production; labour-intensive and capital-intensive
+  production; production and productivity
+- 3.7 Firms' costs, revenue and objectives: total, fixed and variable costs, average total, average fixed and
   average variable costs (marginal cost is not required), total and average revenue (marginal revenue is not
   required), and the objectives of firms: survival, social welfare, profit maximisation and growth
-- Market structure: the features of perfect competition and monopoly, and the implications of monopoly for
-  consumers and the economy
+- 3.8 Market structure: competitive markets -- the effect of having a high number of firms on price,
+  quality, choice and profit (the syllabus notes that the theory of perfect and imperfect competition and
+  diagrams are not required); monopoly markets -- the characteristics, advantages and disadvantages of
+  monopoly (diagrams are not required)
 
 ## How to approach it
 
@@ -96,32 +102,41 @@ commercial banks accept deposits and make loans to households and firms -- in do
 create credit, since a loan made from deposited funds effectively increases the total money available in
 the economy beyond the original deposit.
 
-## Worked example: perfect competition vs monopoly
+## Worked example: a competitive market vs a monopoly
 
 The comparison below is an original model written for this resource, not a reproduction of any official
-past paper or mark scheme.
+past paper or mark scheme. It follows syllabus 3.8.1, which asks for the effect of having a high number of
+firms on price, quality, choice and profit, and 3.8.2 on monopoly. The theory of perfect and imperfect
+competition, and market-structure diagrams, are not required for 0455.
 
 ```
-Feature                  Perfect competition        Monopoly
+Effect on    Many competing firms               Monopoly (one dominant supplier)
 
-Number of firms           Very many                  One
-Price control              None -- price taker        Significant -- price maker
-Barriers to entry           None                       High
-Consumer choice              High                       Low or none
-Typical price level         Lower                      Higher (absent regulation)
+Price        Rivalry keeps prices down --        Can set a higher price, as buyers
+             a firm charging more loses          have few or no alternatives
+             customers to its rivals
+Quality      Firms improve quality to win        Less pressure to improve, though
+             and keep customers                  profits can fund research
+Choice       Wide range of products and          Little or no choice
+             suppliers
+Profit       Competition tends to keep           Can earn high profits, protected
+             profits lower                       by barriers to entry
 ```
 
-A strong exam answer does not simply list these contrasts but explains their consequence for consumers --
-for example, that a monopoly's ability to restrict output and raise price above the level a competitive
-market would produce is the specific mechanism by which consumers can be worse off, not simply an abstract
-feature of monopoly as a market structure.
+A monopoly also has possible **advantages**: its large scale can bring economies of scale that lower
+average costs (which may or may not be passed on as lower prices), and its profits can finance research
+and development. A strong exam answer does not simply list these points but applies them to the market in
+the question -- for example, explaining that a town with one bus operator leaves passengers no alternative
+if fares rise, then weighing whether the operator's scale keeps its costs lower than several smaller
+operators could manage.
 
 ## Common mistakes
 
 Confusing production with productivity, particularly when a question describes a firm hiring more workers.
 Describing fixed and variable costs without linking them to a specific example from the scenario given.
-Treating "monopoly" as automatically illegal or banned, when the syllabus instead asks candidates to
-evaluate its implications for consumers and the economy. Explaining trade union objectives without
+Treating "monopoly" as automatically illegal or banned, when the syllabus instead asks for its
+advantages as well as its disadvantages. Revising perfect and imperfect competition theory or
+market-structure diagrams for 3.8, which the syllabus says are not required. Explaining trade union objectives without
 naming the specific methods (such as collective bargaining) unions use to pursue them.
 
 ## Quick revision checklist
@@ -130,8 +145,8 @@ naming the specific methods (such as collective bargaining) unions use to pursue
   fixed cost and average variable cost, and identify each in a given scenario (marginal cost is not
   required).
 - Explain how labour demand and supply interact to determine a wage rate.
-- Compare perfect competition and monopoly across number of firms, price control, barriers to entry, and
-  consumer choice.
+- Explain the effect of having a high number of firms on price, quality, choice and profit, and give the
+  characteristics, advantages and disadvantages of monopoly.
 - Distinguish clearly between production (total output) and productivity (output per unit of input).
 - Practise applying household, worker and firm decision-making to real or hypothetical case-study
   scenarios, since this topic is frequently tested through applied questions rather than pure recall.

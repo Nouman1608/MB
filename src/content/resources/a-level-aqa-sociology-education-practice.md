@@ -145,8 +145,9 @@ higher-tier examination entry [1] [1] [1] [1]. (Also accept:
 ethnocentric curriculum content that reflects the culture and history
 of the ethnic majority.)
 
-**8.** Indicative content — award up to 30 marks using the levels
-descriptors in the specification; look for a developed, evaluative
+**8.** Indicative content — award up to 30 marks using the level
+descriptors in AQA's published mark schemes for 30-mark questions
+(the specification itself contains none); look for a developed, evaluative
 argument rather than a checklist of points. Stronger answers apply
 Item A explicitly — for example, its reference to sorting pupils
 "through examinations" (role allocation) and its point that critics
@@ -170,8 +171,9 @@ either the individual or wider society depending on the theoretical
 lens applied, meaning the "primarily" framing of the question invites
 direct comparison rather than a one-sided answer [1] [1] [1] [1].
 
-**9.** Indicative content — award up to 30 marks using the levels
-descriptors in the specification. Stronger answers apply Item B
+**9.** Indicative content — award up to 30 marks using the level
+descriptors in AQA's published mark schemes for 30-mark questions.
+Stronger answers apply Item B
 explicitly — its "factors outside school" (low family income, cultural
 resources) lead into material and cultural explanations, and its
 "processes inside school" (labelling, sets and streams) into in-school

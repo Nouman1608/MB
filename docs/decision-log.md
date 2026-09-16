@@ -11837,3 +11837,58 @@ None. No existing resource or data-layer record was edited.
 **Validation.** `astro check` 0 errors; `validate:academic`; build 2141 pages; `audit:all` 0 problems; cross-board regression; API tests 31/31.
 
 **Open-count position after D-243.** Round 21 leaves E920, E921 (closed by D-242, not yet read) and I370 (closed here). Confirmed errors declared open: 0.
+
+## D-244 - Audit round 22 (Q403): E922, I371 and U73 closed (2026-09-16)
+
+**Trigger.** Round 22 (`docs/audit/2026-10-29-findings.md`, `d8e8129`) verified D-242 (19 of 19) and D-243 (2 of 2; I370.2 recorded as an audit error), checked the 72 AQA claims in U72 against 26 AQA web specifications, and recorded E922 (7 families), I371 (6 items) and U73 (4 claims needing a non-specification document).
+
+**How.** Three clusters under the common brief (each read the AQA web specification page, Cambridge syllabus or AQA document itself and quoted it before editing; families grepped), then one adversarial reviewer over all 24 diffs.
+
+**Primary sources.** AQA web specifications (fetched 2026-09-16, each to the registered-office footer): 7131 3.1; 7136 3.2; 8132 at a glance; 7405 physical chemistry 3.1.3; 8462 4.3; 8463 4.1; 7357 at a glance and scheme of assessment; 8300 at a glance, scheme of assessment and subject content; 8145 Shaping the nation; 8702 at a glance; 7717 3.3, 4.0, 5.0. AQA PDFs (to the copyright/registered-address block): 7131/7132 v1.0 (19 Aug 2014) and v2.0 (June 2023); 8463 v1.1; 8300 v1.0 and v1.1; 8145 v1.3; 7191/7192 v1.2. AQA assessment documents: 8145/1A/B and 8145/1B/B June 2023 mark schemes; 8702/2 June 2023 mark scheme; 7192/1 June 2023 mark scheme; 7717 Teaching guide: Non-exam assessment v2.0 (September 2023). Cambridge: 0455 2026 v2 (697154); 0625 2026-2028 v2 (697209) and update 748914.
+
+### E922 - Specification content, tiering or grade eligibility
+
+| Item | Files | What changed / verified |
+|---|---|---|
+| E922.1 | `aqa-as-level-business-what-is-business-revision-notes.md`, `aqa-as-level-business-what-is-business-practice.md` | 7131 3.1.3: "How the external environment can affect costs and demand ... Factors influencing costs and demand to include the effect of: competition, market conditions, incomes, interest rates, demographic factors, environmental issues and fair trade." Notes (summary, named-factors line, application paragraph, self-test Q4 and answer) and practice Q3 (now any two of the named factors, [2]) use the heading and the factor list. The study guide and A-level siblings were already right. |
+| E922.2 | `aqa-a-level-economics-aggregate-demand-supply.md` | Retitled and rescoped to the full 7136 section "3.2.2 How the macroeconomy works: the circular flow of income, aggregate demand/aggregate supply analysis and related concepts". Coverage rebuilt as 3.2.2.1-3.2.2.6 in the specification's wording; new teaching on the circular flow (income = output = expenditure; injections and withdrawals), the accelerator, determinants of saving and saving versus investment, the multiplier from the MPC (k = 1/(1 - MPC); MPC 0.8 gives k = 5), the SRAS cost factors (money wage rates, raw material prices, business taxation, productivity; review pass clarified that lasting productivity change also shifts LRAS), institutional structure and the Keynesian AS curve. |
+| E922.3 | `aqa-a-level-chemistry-bonding.md` | Coverage rebuilt to 7405 3.1.3.1-3.1.3.7: compound-ion formulas; the four crystal structure types and six named crystals (3.1.3.4); polar bonds without a permanent dipole (3.1.3.6, CO2 and CCl4); hydrogen bonding in the low density of ice and anomalous boiling points (3.1.3.7). The electronegativity-trend claim removed; solubility kept only as the specification's practical opportunity; checklist and description aligned. |
+| E922.4 | `aqa-gcse-chemistry-quantitative-chemistry.md` | 8462 4.3: limiting reactants labelled HT only (4.3.2.4); percentage yield and atom economy both tiers (chemistry only), with the theoretical-mass calculation and reaction-pathway choice marked HT only (4.3.3.1-2); a short 4.3.5 section added (volumes of gases, chemistry only, HT only: 24 dm3 at RTP; 8.8 g CO2 = 0.2 mol = 4.8 dm3; N2 + 3H2 → 2NH3 volume ratio), so the 'full content' description is now true. Also aligned: uncertainty wording (4.3.1.3), percentage by mass (4.3.1.2), the g/dm3 concentration bullet, and the Mg/HCl worked example labelled HT (4.3.2.2). |
+| E922.5 | `aqa-gcse-physics-exam-preparation.md` | 8463 4.1.1.4: "Students should be able to recall and apply both equations" (P = E/t, P = W/t); Appendix A lists them under recall. Worked step and checklist now call power a recall equation. |
+| E922.6 | `igcse-physics-motion-forces-and-energy.md`, `igcse-physics-thermal-physics.md`, `igcse-physics-waves.md` | 0625 p.8: Core "eligible for grades C to G"; Extended "eligible for grades A* to G". Each intro now says Supplement is examined only on Papers 2 and 4, so it is needed for A* to B, and quotes Cambridge's advice (p.11) that candidates aiming for A* to C should be taught the Extended content. All 13 files citing 0625 grepped; no 'A*-C' wording remains in the corpus. |
+| E922.7 | `cambridge-igcse-economics-microeconomic-decision-makers.md` | 0455 3.8.1: "The effect of having a high number of firms on price, quality, choice, profit. Note: the theory of perfect and imperfect competition and diagrams are not required." 3.8.2: "Characteristics, advantages and disadvantages of monopoly." The perfect-competition table is replaced by a many-firms versus monopoly comparison on price, quality, choice and profit with monopoly's advantages; checklist and common mistakes aligned. The 3.1-3.8 coverage list was rebuilt from pp.17-19 (it had omitted 3.3.3-3.3.4, 3.4.3, 3.5.2-3.5.5 and 3.6.1-3.6.2, observations recorded in D-242). |
+
+### I371 - Weighting, title or attribution
+
+| Item | Files | What changed / verified |
+|---|---|---|
+| I371.1 | `aqa-a-level-mathematics-exam-preparation.md` | 33⅓% for each 7357 paper. |
+| I371.2 | `aqa-gcse-business-exam-preparation.md` | Paper 1 "Influences of operations and HRM on business activity" (8132 at a glance). |
+| I371.3 | `gcse-history-historic-environment.md`, `gcse-history-historic-environment-revision-notes.md` | 8145 Part four: "a question that draws on second order concepts of change, continuity, causation and/or consequence". Significance removed from the assessed concepts (description, coverage, notes, self-test answer 1); the guide's Feature-Context-Link-Significance planning step is labelled a planning device. |
+| I371.4 | `aqa-gcse-mathematics-ratio-proportion-rates-of-change.md` | 8300: "All content can be assessed on any of the three question papers." |
+| I371.5 | `aqa-a-level-english-literature-b-theory-and-independence-practice.md`; sibling `aqa-a-level-english-literature-b-theory-and-independence.md` | 7717 3.3 quoted; lens-first ordering presented as advice, not the specification's requirement (practice Q7 and answer, [6] unchanged; the study guide sentence that attributed it to the specification). |
+| I371.6 | `a-level-aqa-sociology-education-practice.md` | The 7191/7192 specification contains no level descriptors; the answers now refer to the level descriptors in AQA's published mark schemes for 30-mark questions (7192/1 June 2023 mark scheme has them). |
+
+### U73 - Claims needing a non-specification document
+
+| Item | Files | Document read and result |
+|---|---|---|
+| U73.1 | `aqa-a-level-business-managers-leadership-revision-notes.md` | 7131/7132 v1.0 (2014) 3.2.1 begins "What managers do" (setting objectives, analysing, leading, making decisions, reviewing) and names the Tannenbaum Schmidt continuum and the Blake Mouton grid; v2.0 (2023) begins "The distinction between management and leadership" and names the continuum only. Claim kept with both contents stated; 'deliberately' (AQA's intent) removed. |
+| U73.2 | `gcse-history-understanding-modern-world-practice.md`; siblings `gcse-history-understanding-modern-world-revision-notes.md`, `gcse-history-understanding-the-modern-world-options.md` | 8145/1A/B and 8145/1B/B June 2023 mark schemes put "complex explanation of the relationship between causes" in the top level and say nothing of a cap at 'the lower half of the top level'. The cap claim removed in all three files and replaced by the mark-scheme wording. |
+| U73.3 | `aqa-gcse-english-literature-unseen-poetry.md` | 8702/2 June 2023 mark scheme: Q27.1 [24 marks] (AO1 12, AO2 12); Q27.2 [8 marks] (AO2). Tariffs kept, now attributed to AQA's published mark schemes. |
+| U73.4 | `aqa-a-level-english-literature-b-theory-and-independence.md`, `a-level-aqa-english-literature-b-theory-and-independence-revision-notes.md`, `aqa-a-level-english-literature-b-theory-and-independence-practice.md` | 7717 NEA teaching guide v2.0: "The word count for each piece of work is 1,250 – 1,500 words (not including quotations)"; "Both the re-creative piece and the commentary need to be incorporated in the word count"; "Students should make a concerted effort to work within the stipulated word limits." These kept and attributed. The 'no mark penalty for length / only malpractice is penalised' claim is in neither the teaching guide nor specification section 5; removed. |
+
+### Observations, not actioned
+
+- `aqa-gcse-mathematics-exam-preparation.md` L20 gives each 8300 paper as 33.33%; the specification says 33⅓%.
+- `gcse-sociology-crime-stratification-practice.md` (L121, L135) and `aqa-gcse-sociology-families-education-practice.md` (L120, L134) refer to 'levels descriptors in the specification' (8192, not checked).
+- `a-level-aqa-sociology-education-practice.md` Q8/Q9: 'up to 30 marks' by levels alongside [1] tokens summing to 12.
+- `aqa-a-level-economics-aggregate-demand-supply.md`: 'Step 4 is the distinction examiners reward most' (no AQA document read for it).
+- 7717 Theory and independence guide: 'the specification still expects each essay to gesture toward the wider network of texts'; guide and notes call the word count 'strict' where the teaching guide asks for 'a concerted effort'.
+- `cambridge-igcse-economics-microeconomic-decision-makers.md` 'Money and banking': credit creation not in 0455 3.1.2; forms and characteristics of money (3.1.1) not covered.
+- `aqa-as-level-business-what-is-business-*`: built largely around added value, not listed in 7131 3.1.
+- `aqa-gcse-chemistry-exam-preparation.md`: the moles-to-mass worked scenario is HT-only content (8462 4.3.2) without an explicit label.
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31; `check-duplicate-resource-scope` the four pre-existing groups only.
+
+**Open-count position after D-244.** Round 22 leaves E922, I371 and U73 for repair; all 17 items are closed here. Confirmed errors declared open: 0.

@@ -20,9 +20,12 @@ featured: false
 
 This guide maps **Topic 2 Thermal physics** of Cambridge IGCSE Physics
 0625 for the 2026–2028 examination series. Each sub-section below
-separates what every candidate must know (Core, examined at grades C–G)
-from what is required only at the Extended tier (Supplement, needed for
-grades A*–C).
+separates what every candidate must know (Core; a Core-only entry is
+eligible for grades C to G) from what is required only at the Extended
+tier (Supplement). Extended candidates are eligible for grades A* to G,
+so Supplement content is needed for grades A* to B, and Cambridge
+advises candidates aiming for grades A* to C to be taught the Extended
+content.
 
 ## Where this fits in 0625
 

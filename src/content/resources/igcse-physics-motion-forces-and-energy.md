@@ -20,8 +20,11 @@ featured: false
 
 This guide covers **Topic 1 Motion, forces and energy**, for Cambridge
 IGCSE Physics 0625, 2026–2028 series. It marks which learning outcomes
-are Core (examined at grades C–G) and which are Supplement — required
-only for the Extended tier, needed for grades A*–C.
+are Core (taught to every candidate; a Core-only entry is eligible for
+grades C to G) and which are Supplement — examined only on the Extended
+papers (Papers 2 and 4). Extended candidates are eligible for grades A* to G, so
+Supplement content is needed for grades A* to B, and Cambridge advises
+candidates aiming for grades A* to C to be taught the Extended content.
 
 ## Where this fits in 0625
 

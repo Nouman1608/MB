@@ -28,15 +28,19 @@ guide focuses specifically on Section C, where poems have never been seen before
 
 Section C is structurally different from the rest of Paper 2: Sections A and B reward detailed
 knowledge of specific, pre-studied texts, while Section C rewards a transferable analytical skill applied
-under time pressure to material no candidate has seen in advance. It carries 32 marks (24 for analysing
-the first poem, 8 for comparing it with a second), making it a substantial share of Paper 2.
+under time pressure to material no candidate has seen in advance. It carries 32 of Paper 2's 96 marks (24 for
+analysing the first poem, 8 for comparing it with a second), making it a substantial share of Paper 2.
+The specification gives the paper total and describes the two questions; the 24 + 8 split is the
+tariff given in AQA's published mark schemes (for example June 2023, Questions 27.1 and
+27.2).
 
 ## Syllabus coverage
 
 **AQA GCSE ENGLISH LITERATURE (8702) -- PAPER 2, SECTION C: UNSEEN POETRY**
 
-- Part (i): analyse one unseen poem in detail (24 marks)
-- Part (ii): compare how the poets use methods in the first poem and a second unseen poem (8 marks)
+- Part (i): analyse one unseen poem in detail (24 marks: AO1 12, AO2 12, in AQA's published mark schemes)
+- Part (ii): compare how the poets use methods in the first poem and a second unseen poem (8 marks, all
+  AO2, in AQA's published mark schemes)
 - Preparation requires experiencing a wide range of poetry to develop the ability to closely analyse
   unseen poems -- no specific poems or poets are set in advance, since by definition the material is
   unseen until the exam

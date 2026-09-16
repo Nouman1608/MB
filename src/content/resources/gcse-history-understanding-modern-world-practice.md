@@ -125,8 +125,11 @@ instances of each side-by-side [6].
 Revising or answering with content from a period study or depth study
 option your school did not actually teach — always confirm your two exact
 options first. Naming long-term, short-term and trigger causes without
-explaining how they reinforced each other, which caps causation answers at
-the lower half of the top level. Describing change and continuity, or two
+explaining how they reinforced each other: the top level of AQA's published
+8145 Paper 1 mark schemes for causation questions (for example 8145/1A/B and
+8145/1B/B, June 2023) describes a "complex explanation of the relationship
+between causes", which a list of separately explained causes does not show.
+Describing change and continuity, or two
 differing interpretations, side by side without reaching an explicit,
 substantiated judgement at the end. Treating a source's origin and purpose
 as identical to evaluating a historian's interpretation — these are

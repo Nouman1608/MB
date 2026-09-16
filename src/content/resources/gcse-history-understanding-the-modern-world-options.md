@@ -124,8 +124,9 @@ democracy convincingly -- this sits within the period study's second
 phase (Germany and the Depression), not within BB The Inter-War Years,
 which covers international peacemaking and the road to war rather than
 Germany's domestic collapse. Naming all three causes without showing
-how they reinforced each other tends to cap marks at the lower half of
-the top level.
+how they reinforced each other does not meet the top level of AQA's
+published mark schemes for causation questions, which describes a
+"complex explanation of the relationship between causes".
 
 ## Common mistakes
 

@@ -90,9 +90,13 @@ risk-averse decision-maker might rationally still choose B despite its lower exp
 
 ## Why the 2023 update matters for revision
 
-The current specification deliberately replaced an earlier "what managers do" framing with the
-explicit management-versus-leadership distinction in 3.2.1 -- if using any older revision material,
-check it reflects this current framing rather than the earlier version, since AQA has also accredited
+The original 2015 specification (version 1.0) opened 3.2.1 with "What managers do" -- a role of
+managers covering setting objectives, analysing, leading, making decisions and reviewing -- and named
+the Blake Mouton grid alongside the Tannenbaum Schmidt continuum. The current version (2.0, June 2023)
+opens 3.2.1 instead with "the distinction between management and leadership", lists four leadership
+styles (autocratic, paternalistic, democratic, laissez-faire) and names only the Tannenbaum Schmidt
+continuum. If using any older revision material, check it reflects this current content rather than
+the 2015 version, since AQA has also accredited
 a replacement specification (7138) for first teaching from September 2026, meaning schools on 7132
 should stay anchored to this version's own subject content pages rather than mixing in content from
 the newer specification before their own cohort transitions.

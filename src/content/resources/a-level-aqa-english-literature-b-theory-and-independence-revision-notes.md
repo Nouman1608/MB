@@ -139,12 +139,11 @@ texts your own centre doesn't teach for the exam component.
 must be studied even though a conventional essay analyses as few as
 two poems or stories in detail (and a re-creative piece may focus on
 just one).
-- Missing the 1,250–1,500-word band on either essay: AQA sets no
-marks penalty for length alone (only malpractice is penalised on
-word count), but you're expected to make a concerted effort to stay
-within the stated band. Quotations don't count towards the total; for
-a re-creative response, the creative piece and its commentary are
-counted together, not separately.
+- Missing the 1,250–1,500-word band on either essay: AQA's NEA
+teaching guide says students should "make a concerted effort to work
+within the stipulated word limits". The same guide excludes quotations
+from the count and, for a re-creative response, counts the creative
+piece and its commentary together in the one 1,250–1,500-word total.
 
 ## Self-test
 

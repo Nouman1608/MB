@@ -16,8 +16,8 @@ featured: false
 ---
 
 AQA A-Level Mathematics (7357) is assessed through three compulsory written papers, not tiered:
-Paper 1 (pure content, 2h, 100 marks, 33.33%), Paper 2 (pure content plus mechanics, 2h, 100 marks,
-33.33%), and Paper 3 (pure content plus statistics, 2h, 100 marks, 33.34%). Pure content is common
+Paper 1 (pure content, 2h, 100 marks, 33⅓%), Paper 2 (pure content plus mechanics, 2h, 100 marks,
+33⅓%), and Paper 3 (pure content plus statistics, 2h, 100 marks, 33⅓%). Pure content is common
 DfE-set material examined across all UK exam boards. These notes turn that structure into an exam-day
 plan, alongside the
 [Differentiation](/resources/aqa-a-level-mathematics-differentiation-revision-notes/) and

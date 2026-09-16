@@ -13,7 +13,7 @@ stage: "AS"
 syllabusTopics:
   - qualification: "a-level"
     topic: "bonding-7405"
-description: "Ionic, covalent, dative covalent and metallic bonding, the shapes of molecules and ions, bond polarity, and intermolecular forces -- the full content of Section 3.1.3 for AQA A-Level Chemistry (7405)."
+description: "Ionic, covalent, dative covalent and metallic bonding, the four types of crystal structure and physical properties, the shapes of molecules and ions, bond polarity, and intermolecular forces -- the full content of Section 3.1.3 for AQA A-Level Chemistry (7405)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
@@ -30,43 +30,61 @@ properties, reactivity, and much of organic mechanism. These notes complement th
 
 Sections 3.1.1 to 3.1.7 of Physical Chemistry are designed to be covered in the first year of the
 A-level and also form the AS content, so bonding is examined from the very first AS papers onwards.
-Understanding why substances have the melting points, conductivities and solubilities they do depends
-directly on the bonding and structure covered here.
+Understanding why substances have the melting points, boiling points and electrical conductivities they
+do depends directly on the bonding and structure covered here.
 
 ## Syllabus coverage
 
 **AQA A-LEVEL CHEMISTRY (7405) -- 3.1.3 BONDING**
 
-- Ionic bonding: the electrostatic attraction between oppositely charged ions in a giant ionic lattice
-- Covalent bonding: a single covalent bond as a shared pair of electrons; multiple covalent bonds
-- Dative covalent (coordinate) bonding: both electrons in the shared pair supplied by one atom
-- Metallic bonding: the electrostatic attraction between delocalised electrons and positive ions
-  arranged in a lattice
-- The shapes of simple molecules and ions: electron pairs (bonding and lone pairs) arrange themselves to
-  minimise repulsion, with lone pair-lone pair repulsion greater than lone pair-bond pair repulsion,
-  which is greater than bond pair-bond pair repulsion; predicting and explaining shapes and bond angles
-  using electron-pair repulsion theory
-- Bond polarity and electronegativity: the electronegativity trend across a period and down a group;
-  how differences in electronegativity between bonded atoms create polar covalent bonds
-- Intermolecular forces: induced dipole-dipole (van der Waals) forces, permanent dipole-dipole forces,
-  and hydrogen bonding, and how each arises from the underlying electron distribution
-- Relating bonding type and intermolecular forces to the physical properties of substances: melting and
-  boiling points, electrical conductivity, and solubility
+- Ionic bonding (3.1.3.1): electrostatic attraction between oppositely charged ions in a lattice; the
+  formulas of compound ions (e.g. sulfate, hydroxide, nitrate, carbonate and ammonium); predicting the
+  charge on a simple ion from the element's position in the Periodic Table, and constructing formulas
+  for ionic compounds
+- Covalent and dative covalent bonds (3.1.3.2): a single covalent bond as a shared pair of electrons;
+  multiple bonds as multiple shared pairs; a co-ordinate (dative covalent) bond as a shared pair with
+  both electrons supplied by one atom; representing a covalent bond with a line and a co-ordinate bond
+  with an arrow
+- Metallic bonding (3.1.3.3): attraction between delocalised electrons and positive ions arranged in a
+  lattice
+- Bonding and physical properties (3.1.3.4): the four types of crystal structure -- ionic, metallic,
+  macromolecular (giant covalent) and molecular -- with diamond, graphite, ice, iodine, magnesium and
+  sodium chloride as the named examples; relating melting point and conductivity to the type of
+  structure and the bonding present; the energy changes associated with changes of state; drawing
+  diagrams of these structures with specified numbers of particles
+- The shapes of simple molecules and ions (3.1.3.5): bonding and lone pairs as charge clouds that repel
+  each other and arrange themselves as far apart as possible, with lone pair-lone pair repulsion greater
+  than lone pair-bond pair repulsion, which is greater than bond pair-bond pair repulsion; explaining
+  the shapes of, and bond angles in, simple molecules and ions with up to six electron pairs around the
+  central atom
+- Bond polarity (3.1.3.6): electronegativity as the power of an atom to attract the pair of electrons in
+  a covalent bond; an unsymmetrical electron distribution between atoms of different electronegativity
+  producing a polar covalent bond, which may give a molecule a permanent dipole; using partial charges
+  to show a bond is polar; explaining why some molecules with polar bonds have no permanent dipole
+- Forces between molecules (3.1.3.7): permanent dipole-dipole forces, induced dipole-dipole (van der
+  Waals, dispersion, London) forces and hydrogen bonding; how the strength of these forces influences
+  the melting and boiling points of molecular substances; the importance of hydrogen bonding in the low
+  density of ice and the anomalous boiling points of compounds
+
+The specification's skills-development column also suggests identifying the structure of an unknown
+substance by experiment (for example by testing its solubility, conductivity and ease of melting); that
+is a practical opportunity, not a separate content statement.
 
 ## How to approach it
 
 This section is best learned as a single connected argument rather than four separate bonding types:
 bonding type determines structure, structure determines the forces that must be overcome to melt or
 boil a substance, and those forces explain the physical properties examiners actually ask about.
-Practise predicting a substance's melting point, conductivity and solubility purely from being told its
-bonding type -- that predictive skill, not just definitions, is what higher-mark questions test.
+Practise relating a substance's melting point and electrical conductivity to its type of crystal
+structure and the bonding present -- that explanatory skill, not just definitions, is what higher-mark
+questions test.
 
 ## Official syllabus
 
 AQA A-level Chemistry (7405) specification, first teaching 2015 --
 [aqa.org.uk](https://www.aqa.org.uk/subjects/chemistry/a-level/chemistry-7405/specification/subject-content/physical-chemistry).
 
-## Three bonding types, three kinds of structure
+## Three bonding types, four types of crystal structure
 
 Ionic bonding produces a giant lattice of oppositely charged ions, held together by strong electrostatic
 attraction in every direction -- this is why ionic compounds have high melting points and conduct
@@ -77,6 +95,12 @@ points, and conductivity only for graphite, due to its delocalised electrons). M
 a lattice of positive ions in a "sea" of delocalised electrons, explaining both the electrical
 conductivity of metals (electrons are free to move) and their malleability (the lattice can deform
 without breaking fixed bonds).
+
+Together these give the specification's four types of crystal structure, each with named examples:
+**ionic** (sodium chloride), **metallic** (magnesium), **macromolecular** or giant covalent (diamond and
+graphite) and **molecular** (iodine and ice). Melting a molecular crystal such as iodine or ice
+overcomes only the relatively weak forces between molecules, not the covalent bonds inside them, which
+is why molecular substances have much lower melting points than macromolecular ones.
 
 ## Shapes of molecules: electron-pair repulsion in three steps
 
@@ -121,6 +145,16 @@ Q3 - Does it contain any electrons at all?
 Van der Waals forces are the one force present in literally every substance; hydrogen bonding and
 dipole-dipole forces are additional to, not instead of, van der Waals forces.
 
+**Polar bonds, but no dipole.** Q2 asks about the molecule overall for a reason. In a symmetrical
+molecule such as carbon dioxide (linear) or tetrachloromethane, CCl4 (tetrahedral), each bond is polar
+but the bond dipoles point in opposite or symmetrical directions and cancel, so the molecule has no
+permanent dipole and only van der Waals forces act between its molecules.
+
+**Hydrogen bonding and ice.** In ice, each water molecule is hydrogen bonded to four others in an open,
+regular lattice that holds the molecules further apart than in liquid water, so ice is less dense than
+water and floats. Hydrogen bonding also explains the anomalously high boiling points of H2O, NH3 and HF
+compared with the hydrides of the other elements in their groups.
+
 ## Common mistakes
 
 Describing metallic bonding as "electrons shared between atoms" (that is covalent bonding language, not
@@ -134,8 +168,13 @@ property of the bond or molecule that results from an electronegativity differen
 
 - Explain how ionic, covalent (including dative) and metallic bonding each produce a different kind of
   structure.
-- Predict a substance's melting point, conductivity and solubility purely from its bonding type.
+- Name the four types of crystal structure and the six example crystals, and relate melting point and
+  conductivity to the type of structure and the bonding present.
+- Write the formulas of the compound ions (sulfate, hydroxide, nitrate, carbonate, ammonium) and
+  construct formulas for ionic compounds.
 - Apply electron-pair repulsion theory to predict the shape and bond angle of a given molecule or ion.
 - Identify which intermolecular forces are present in a given molecule, remembering van der Waals forces
   are always present.
 - Distinguish electronegativity from bond/molecular polarity, and explain how one produces the other.
+- Explain why a molecule such as CO2 has polar bonds but no permanent dipole.
+- Explain how hydrogen bonding makes ice less dense than water.

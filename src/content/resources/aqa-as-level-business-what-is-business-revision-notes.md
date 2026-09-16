@@ -25,7 +25,7 @@ Condensed for the final weeks. For the full explanation, use the
 
 - **3.1.1** — why businesses exist and what they aim to achieve.
 - **3.1.2** — different legal/organisational business forms.
-- **3.1.3** — how the external environment (economic conditions, costs and demand) shapes decisions.
+- **3.1.3** — how the external environment can affect costs and demand.
 
 Remember: AS Business (7131) is a **stand-alone qualification** with its own full assessment — this content is not "worth less" than the identical A-level Topic 1.
 
@@ -48,7 +48,7 @@ Always compare structures on these three dimensions when recommending/evaluating
 
 ## External environment (3.1.3)
 
-Named factors: **economic conditions**, **costs and demand**. Apply a named factor's effect to a specific business scenario — don't list factors abstractly.
+The specification's heading is *how the external environment can affect costs and demand*, and it names six factors influencing costs and demand: **competition**, **market conditions**, **incomes**, **interest rates**, **demographic factors**, and **environmental issues and fair trade**. Apply a named factor's effect on costs or demand to a specific business scenario — don't list factors abstractly.
 
 ## SMART objectives
 
@@ -85,7 +85,7 @@ Working through the specific constraint (needs capital, wants control) before re
 
 ## Why the external environment sub-topic resists a "list and define" approach
 
-A common error is treating 3.1.3 as a fixed list of external factors to memorise and recite. Because exam questions almost always embed a named external-environment factor inside a specific business scenario (for example, "explain how a rise in interest rates might affect a small manufacturing business's investment decisions"), the useful revision unit is not the factor's definition alone but a small bank of practised applications: for **economic conditions**, practise linking a named condition (rising interest rates, a recession, rising inflation) to a specific business decision (investment, pricing, staffing); for **costs and demand**, practise linking a specific cost change (rising raw material costs, a change in the minimum wage) or demand change (a shift in consumer tastes, a new competitor) to a specific consequence for the business named in the scenario, rather than restating the factor's definition as if that were the analysis itself.
+A common error is treating 3.1.3 as a fixed list of external factors to memorise and recite. Because exam questions almost always embed a named external-environment factor inside a specific business scenario (for example, "explain how a rise in interest rates might affect a small manufacturing business's investment decisions"), the useful revision unit is not the factor's definition alone but a small bank of practised applications, at least one for each of the six named factors: for **interest rates** and **incomes**, practise linking a named change (a rise in interest rates, falling incomes in a recession) to a specific business decision (investment, pricing, staffing); for **competition**, **market conditions**, **demographic factors** and **environmental issues and fair trade**, practise linking a specific change (a new competitor, a shift in consumer tastes, an ageing population, a switch to higher-cost fair-trade suppliers) to its effect on the costs or demand of the business named in the scenario, rather than restating the factor's definition as if that were the analysis itself.
 
 ## Exam traps
 
@@ -101,9 +101,9 @@ A common error is treating 3.1.3 as a fixed list of external factors to memorise
 1. Give the formula for added value.
 2. Name three ways to increase added value besides raising price.
 3. Compare a sole trader and a private limited company on liability and capital access.
-4. What are the two named external environment factors this topic highlights?
+4. The specification says the external environment can affect which two things, and which six factors does it name?
 5. Rewrite "we want to grow" as a SMART objective.
 6. Why is treating AS content as "easier" than A-level a mistake?
 7. Why should a business form recommendation start from the business's specific constraint (e.g. needing capital while keeping control) rather than a general description of the form?
 
-**Answers:** 1. Added value = price the customer will pay minus the cost of inputs. 2. Any three of: branding, quality, service, convenience, design. 3. A sole trader has unlimited liability and limited capital access; a private limited company has limited liability and greater capital access (at the cost of reduced control and a requirement to publish accounts). 4. Economic conditions; costs and demand. 5. E.g. "Increase market share by 5% within two years" — specific, measurable, time-bound. 6. AS Business (7131) is a stand-alone qualification examined on exactly this content in full, not a lighter preview of the A-level. 7. Because exam questions ask candidates to recommend or evaluate a form for a specific scenario, and a recommendation grounded in the business's actual constraint (its need for capital, its wish to retain control) demonstrates applied reasoning, whereas a general description of a form's features alone does not show the same evaluative skill.
+**Answers:** 1. Added value = price the customer will pay minus the cost of inputs. 2. Any three of: branding, quality, service, convenience, design. 3. A sole trader has unlimited liability and limited capital access; a private limited company has limited liability and greater capital access (at the cost of reduced control and a requirement to publish accounts). 4. Costs and demand; competition, market conditions, incomes, interest rates, demographic factors, and environmental issues and fair trade. 5. E.g. "Increase market share by 5% within two years" — specific, measurable, time-bound. 6. AS Business (7131) is a stand-alone qualification examined on exactly this content in full, not a lighter preview of the A-level. 7. Because exam questions ask candidates to recommend or evaluate a form for a specific scenario, and a recommendation grounded in the business's actual constraint (its need for capital, its wish to retain control) demonstrates applied reasoning, whereas a general description of a form's features alone does not show the same evaluative skill.

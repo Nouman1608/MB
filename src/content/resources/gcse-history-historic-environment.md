@@ -8,7 +8,7 @@ boards: ["aqa"]
 qualifications: ["gcse"]
 syllabusCodes: ["8145"]
 order: 5
-description: "How the Historic Environment element works within AQA GCSE History (8145) Paper 2 -- connecting a specified site's physical features to your chosen British depth study using significance, reflection and second-order concepts."
+description: "How the Historic Environment element works within AQA GCSE History (8145) Paper 2 -- connecting a specified site's key features to your chosen British depth study and the second-order concepts the question draws on: change, continuity, causation and consequence."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
@@ -41,15 +41,27 @@ before revising site-specific detail.
 ENVIRONMENT STUDY**
 
 The element links one specified historic site, changed annually, to
-your chosen British depth study and assesses your ability to:
+your chosen British depth study. The specification expects you to:
 
-- Explain the **significance** of features of a site — why they
-mattered at the time
-- Explain how a site **reflects** wider historical events,
-developments or ways of life
-- Use **second-order concepts** — cause, consequence, change,
-continuity, significance — applied to a physical place, not just a
-written source
+- Identify the **key features** of the specified site — its location,
+function, structure and design, and the people connected with it —
+and understand their connection to the wider historical context of
+the period
+- Understand how the site's design **reflects** the culture, values
+and fashions of the people at the time, and how important events and
+developments from the depth study are connected to the site
+- Understand how the site's key features are representative of the
+period, how they had changed from earlier periods, and how they
+changed or stayed the same during the period
+- Answer a question that draws on the **second-order concepts** of
+change, continuity, causation and/or consequence, explored in the
+context of the specified site and the wider events and developments
+of the period
+
+Significance is not among the concepts the specification names for
+this question. The "Significance" step in the structure below is a
+Marlbridge planning device for explaining why a link matters, not an
+extra concept the question assesses.
 
 The element is assessed by one question: the fourth and final
 question of Section B, an essay linked to your specified site worth 16

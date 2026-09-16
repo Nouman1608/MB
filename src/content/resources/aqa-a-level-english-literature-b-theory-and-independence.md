@@ -62,10 +62,13 @@ theory (gender, power and voice), Marxist theory (class, economics and
 social structure), eco-critical theory (nature, environment and the
 non-human), post-colonial theory (empire, race and cultural power), and
 literary value and the canon (why some texts are judged "great"). The
-specification's own approach expects candidates to select texts with
-the critical lens in mind first, rather than choosing a favourite text
-and then searching for a critical framework that fits it after the
-fact. A text that offers genuinely rich material for, say, a
+specification requires that texts chosen "must allow access to a range
+of critical views and interpretations, including over time" and "must
+maximise opportunities for writing with reference to the AQA Critical
+anthology". It does not say whether the lens or the text comes first,
+but a sound approach is to select texts with the critical lens in mind,
+rather than choosing a favourite text and then searching for a critical
+framework that fits it after the fact. A text that offers genuinely rich material for, say, a
 post-colonial reading is a far safer choice than a text you enjoy
 reading but which actively resists the critical framework you intend
 to apply to it -- an essay that has to strain to make a critical lens
@@ -147,13 +150,12 @@ once the writing is finished, since the commentary is where the
 critical understanding the piece is actually assessed on gets made
 explicit. Confirm exact submission deadlines with your teacher before
 beginning serious drafting, since these are centre-managed rather than
-fixed exam-day constraints. AQA sets no marks penalty for missing the
-word-count band by itself (only malpractice is penalised on word
-count), but the board's own teaching guide asks candidates to make a
-concerted effort to stay within the stipulated limits. Quotations
-don't count towards the total; for a re-creative response, the
-creative piece and its commentary are counted together, not
-separately.
+fixed exam-day constraints. AQA's NEA teaching guide for 7717 says
+students "should make a concerted effort to work within the stipulated
+word limits"; the same guide gives the count as 1,250-1,500 words "not
+including quotations", and says of a re-creative piece and its
+commentary, "Together the two pieces of writing should constitute
+1,250-1,500 words", so both are counted in one total.
 
 ## Official syllabus
 

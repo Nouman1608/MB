@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "gcse"
     topic: "quantitative-chemistry-8462"
-description: "Conservation of mass, relative formula mass, moles, balancing equations by mass, limiting reactants, concentration, and (Higher Tier) percentage yield and atom economy -- the full content of Topic 4.3 for AQA GCSE Chemistry (8462)."
+description: "Conservation of mass, relative formula mass, chemical measurements, concentration, percentage yield and atom economy, and (Higher Tier) moles, reacting masses, limiting reactants, concentrations in mol/dm3 and volumes of gases -- the full content of Topic 4.3 for AQA GCSE Chemistry (8462)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-09
 featured: false
@@ -42,35 +42,50 @@ topic.
   atoms are lost or made during a reaction, so product mass equals reactant mass; balanced symbol
   equations represent this
 - **Relative formula mass**: calculating the relative formula mass (Mr) of a compound as the sum of the
-  relative atomic masses of its constituent atoms
+  relative atomic masses of the atoms in the numbers shown in the formula, and the percentage by mass of
+  an element in a compound
 - **Mass changes when a reactant or product is a gas**: explaining apparent mass changes in open
   reactions (e.g. a gas escaping or being absorbed) while mass is still conserved overall
-- **Chemical measurements**: using practical apparatus and techniques appropriate to the required
-  degree of precision, and processing measurement results
-- **Moles (Higher Tier)**: the mole as the unit for amount of substance; the Avogadro constant
-  (6.02 x 10^23 per mole) as the number of particles in one mole of a substance
+- **Chemical measurements**: every measurement carries some uncertainty; representing the distribution
+  of results, estimating uncertainty, and using the range of a set of measurements about the mean as a
+  measure of uncertainty
+- **Moles (Higher Tier)**: the mole as the unit for amount of substance; the mass of one mole in grams
+  is numerically equal to the relative formula mass; the Avogadro constant (6.02 x 10^23 per mole) as
+  the number of particles in one mole of a substance
 - **Amounts of substances in equations (Higher Tier)**: using balanced equations to calculate the masses
   of reactants and products involved in a reaction, via moles
 - **Using moles to balance equations (Higher Tier)**: deriving a balanced equation from given reacting
   masses or mole ratios
-- **Limiting reactants**: identifying the reactant that runs out first in a reaction where reactants are
-  not in their exact stoichiometric ratio, and how it limits the amount of product formed
+- **Limiting reactants (Higher Tier)**: identifying the reactant that is completely used up in a reaction
+  where one reactant is in excess, and explaining how it limits the amount of product formed, in terms of
+  amounts in moles or masses in grams
 - **Concentration of solutions**: expressing the concentration of a solution in mass per given volume of
-  solution (e.g. g/dm3), and calculating concentration, mass or volume given the other two values
-- **Percentage yield (Higher Tier)**: calculating the percentage yield of a reaction as actual yield
-  divided by theoretical yield, and why the actual yield is generally less than the theoretical maximum
-- **Atom economy (Higher Tier)**: calculating the atom economy of a reaction as the proportion of the
-  total mass of reactants that ends up as the desired product, and why a high atom economy matters for
-  sustainable industry
+  solution (e.g. g/dm3) and calculating the mass of solute in a given volume of a solution of known
+  concentration; (Higher Tier) explaining how the mass of solute and the volume of solution are related
+  to the concentration
+- **Percentage yield** (both tiers, chemistry only): why the amount of product obtained is less than the calculated
+  amount, and calculating percentage yield as mass of product actually made divided by maximum
+  theoretical mass of product, x 100; (Higher Tier only) calculating the theoretical mass of a product
+  from a given mass of reactant and the balanced equation
+- **Atom economy** (both tiers, chemistry only): calculating the percentage atom economy from the balanced equation as
+  the relative formula mass of the desired product divided by the sum of the relative formula masses of
+  all reactants, x 100, and why reactions with a high atom economy matter for sustainable development
+  and for economic reasons; (Higher Tier only) explaining why a particular reaction pathway is chosen,
+  given data such as atom economy, yield, rate, equilibrium position and usefulness of by-products
 - **Using concentrations of solutions in mol/dm3 (Higher Tier, Chemistry only)**: converting between
   mass concentration and molar concentration, and using titration data
+- **Volumes of gases (Higher Tier, Chemistry only)**: equal amounts in moles of gases occupy the same
+  volume at the same temperature and pressure; one mole of any gas occupies 24 dm3 at room temperature
+  and pressure (20 °C and 1 atmosphere); calculating gas volumes from a mass and Mr, and from a balanced
+  equation
 
 ## How to approach it
 
 This topic is built almost entirely on one repeated calculation pattern: use a balanced equation to find
 a mole ratio, then convert between moles and mass (or moles and concentration) using the relevant
-formula. Once that core pattern is secure, percentage yield and atom economy are simply two further
-applications of the same mole arithmetic, not separate techniques to learn from scratch.
+formula. Once that core pattern is secure, the Higher Tier theoretical-mass step in a percentage yield
+question and the gas-volume calculations are further applications of it, and atom economy uses the same
+relative formula masses read from the balanced equation.
 
 ## Official syllabus
 
@@ -94,7 +109,7 @@ going into the reaction, how much ends up as the useful product, by the reaction
 reaction can have 100% yield of its stated product yet still have poor atom economy if most of the
 reactant mass ends up as unwanted by-products rather than lost through practical inefficiency.
 
-## Worked example: using moles to find a reacting mass
+## Worked example (Higher Tier): using moles to find a reacting mass
 
 ```
 Reaction: Mg + 2HCl -> MgCl2 + H2
@@ -114,6 +129,15 @@ mass Mg = moles x Ar = 0.1 x 24 = 2.4 g
 Every mole calculation in this topic follows this same three-step shape: given quantity to moles, apply
 the equation's ratio, moles back to the quantity required.
 
+## Volumes of gases (Higher Tier, chemistry only)
+
+At room temperature and pressure (20 °C and 1 atmosphere), one mole of any gas occupies 24 dm3, so
+volume of gas (dm3) = moles x 24. For example, 8.8 g of carbon dioxide (Mr = 44) is 8.8 / 44 = 0.2 mol,
+which occupies 0.2 x 24 = 4.8 dm3. Because equal amounts in moles of gases occupy equal volumes under
+the same conditions, the mole ratio in a balanced equation is also the volume ratio for the gases in it:
+in N2 + 3H2 -> 2NH3, 30 cm3 of hydrogen reacts with 10 cm3 of nitrogen to form 20 cm3 of ammonia, all
+measured at the same temperature and pressure.
+
 ## Common mistakes
 
 Forgetting to balance the equation before reading off a mole ratio. Using the wrong Mr (compound) where
@@ -128,6 +152,9 @@ reaction's chemistry) -- they answer different questions and are calculated diff
 - Calculate relative formula mass from relative atomic masses.
 - (Higher Tier) Convert between mass and moles using the Avogadro constant and molar mass, and use a
   balanced equation's mole ratio to find reacting masses.
-- Identify the limiting reactant in a given reaction and explain its effect on product quantity.
-- Calculate solution concentration in g/dm3, and (Higher Tier) percentage yield and atom economy, stating
-  clearly what each calculation actually measures.
+- (Higher Tier) Identify the limiting reactant in a given reaction and explain its effect on product
+  quantity.
+- Calculate the mass of solute from a concentration in g/dm3, and calculate percentage yield and atom
+  economy, stating clearly what each calculation actually measures.
+- (Higher Tier) Calculate the theoretical mass of product for a percentage yield question, and use
+  concentrations in mol/dm3 and the 24 dm3 molar gas volume at room temperature and pressure.
