@@ -99,7 +99,7 @@ n = total number of organisms of each species
 
 A higher value indicates greater diversity. A community dominated by one species has low diversity even if species richness is high.
 
-Genetic diversity within a species can be measured as the proportion of gene loci that are polymorphic, or by comparing base or amino acid sequences. It arises from **mutation**, from meiosis (crossing over and independent assortment), and from random fertilisation. *(The genetic bottleneck and founder effect, and the natural-selection content below, belong to Unit 3 and are included here only as forward references -- they are not assessed as part of Unit 1.)*
+Genetic diversity within, or between, species can be measured by comparing the base sequence of DNA or of mRNA, the frequency of specific base sequences or alleles in populations, or the amino acid sequence of encoded proteins (3.1.11.1). (The proportion of gene loci that are polymorphic is another measure used by biologists; it is background, not named in the specification.) It arises from **mutation**, from meiosis (crossing over and independent assortment), and from random fertilisation. *(The genetic bottleneck and founder effect, and the natural-selection content below, belong to Unit 3 and are included here only as forward references -- they are not assessed as part of Unit 1.)*
 
 ## Adaptation and natural selection (Unit 3 content, not part of Unit 1)
 

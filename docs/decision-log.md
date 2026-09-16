@@ -11345,3 +11345,39 @@ None.
 - API tests: 31/31
 
 **Open-count position after D-237 (for the audit to reconcile).** Confirmed errors declared open: 0. I356 and I357 are closed. D-235's "Observations, not actioned" remain unverified leads, which the audit has said it will read before recording anything; no repair action has been taken on them.
+
+## D-238 - Audit round 15 (Q392, Q393): E912, E913, I358, I359, I360 and Q393 closed (2026-09-16)
+
+**Trigger.** Round 15 (`docs/audit/2026-10-22-findings.md`, `76d3ed1`) checked D-235's "Observations, not actioned" against 13 board documents and recorded E912, E913, I358, I359, I360 and Q393. Round 16 (`8c7a0ac`) verified D-237.
+
+### Closed -- fixed and verified
+
+| ID | Files | What changed / verified |
+|---|---|---|
+| E912 | `ocr-gcse-business-activity-practice.md`; siblings `ocr-gcse-business-activity-revision-notes.md`, `ocr-gcse-business-business-activity-marketing-and-people.md` | Checked against the OCR J204 specification v2.0, content table. Business 1 is topics 1-3; break-even is 5.4 (Business 2); "added value" does not occur. **Practice:** Q20 [3] (added value) replaced by a 1.4 question on why a new and an established business may have different objectives (survival / growth, market share or profit / objectives change as the business evolves). Q22 (added value, profit, break-even, 3+2) replaced by a 1.6 business-growth question: (a) one organic growth method [1], (b) identify a takeover of the supplying flour mill as vertical [1], (c) one advantage, explained and applied [3]. Question tariffs 3 and 5 unchanged; paper still 59 (Section A 15 + Section B 44), recounted. **Siblings:** the notes' and guide's added-value/break-even worked example is kept but labelled "Not Business 1 content" (added value not a J204 term; break-even is Business 2 5.4). The notes' exam trap and self-test Q1, and the guide's common-mistake and checklist lines, now use topic 1 content (objectives 1.4, growth 1.6). |
+| E913 | `a-physics-astronomy-cosmology-practice.md` | 6(c) and its answer labelled background beyond the 9702 learning outcomes (25.3 names redshift and Hubble's law; the CMB and H/He abundance are not in the syllabus), matching the file's existing 5(c) and 8(a) labels and the revision notes' background note. |
+| I358 | `src/data/academic/syllabuses.ts` (3248 record, combined 3247/3248 notes), `syllabus-topics.ts` (3247/3248 series), `assessments.ts` (3248) | The 3248 record now links `721465-2027-2029-syllabus.pdf` (Version 1, September 2024, read to its address block). The series entry reads "3247: 2027; 3248: 2027-2029" (effective 2027-2029), and the 3248 assessment record cites 721465 with first assessment 2027. Paper 1 (1h45, 50 marks) and Paper 2 (1h30, 50 marks) are unchanged from 2024-2026, and the syllabus's changes page states "There are no significant changes which affect teaching". Each record now notes that 634455 is still examined in November 2026. All six 3248-coded resources already declare 2027-2029; the rendered Paper 2 notes page now links 721465 only. |
+| I359 | 20 OxfordAQA resources (all files coded 9620, 9201 or 9202, not only the ten linking the live copies); `syllabus-topics.ts` records for 9201, 9202 and 9620 | Live specifications downloaded from the URLs the files link and read to their copyright blocks: 9620 Version 5.3 (52 pp), 9201 Version 5.2 (34 pp), 9202 Version 6.2 (48 pp). Sub-topic checks first: every section number and title the files cite (9620 3.1.1, 3.1.2, 3.1.3.1-3.1.3.7, 3.1.4, 3.1.7; 9201 3.1.1-3.1.5, 3.2.1-3.2.6; 9202 3.1.1, 3.1.3, 3.6) appears with the same number and title in the live versions. A script confirmed all topic names and every sub-topic name in the three `syllabus-topics.ts` records (9620: 87; 9201: 6; 9202: 3) against the live texts. Declarations then corrected: `syllabusSeries` and in-body citations now say 9620 Version 5.3, 9201 Version 5.2 and 9202 Version 6.2. The unsupported "specification updated November 2022" dates are removed. The three data-layer records now declare those versions and point to the live copies instead of the legacy `oaqaresources` path. 9630 files already matched (Version 4.4). |
+| I360 | `igcse-oxfordaqa-urdu-local-national-international.md` and `-revision-notes.md`; `igcse-oxfordaqa-urdu-study-employment.md`, `-revision-notes.md` and `-practice.md`; `syllabus-topics.ts` 9264 record | Checked against OxfordAQA 9264 Version 1.1 §3.1.2-3.1.3. The Theme 2 and 3 files now use the specification's "Topic 1-4" labels, with Theme 2's bullet sub-topics given under Topics 2 and 3 (charity/voluntary work; healthy/unhealthy living; the environment; poverty). Invented 2.1-2.4 and 3.1-3.4 numbering removed throughout (coverage lists, notes tables, cross-references, self-tests and answers, checklists). The claim that reading tasks ask which sub-topic a detail belongs to is removed. Practice Q7 [3] is rebuilt on the comparative structure alone: بہتر ہیں [1]; زیادہ سخت ہیں [1]; the comparison with پرانے اسکول سے [1]. The data layer's 9264 sub-topic numbers are now "Topic N" within each theme, for all three themes. |
+| Q393 | `a-level-oxfordaqa-biology-diversity-of-living-organisms.md`; siblings `oxfordaqa-a-level-biology-diversity-revision-notes.md`, `oxfordaqa-a-level-biology-diversity-practice.md` | The guide gives the three 3.1.11.1 comparisons (9610 Version 5.1): base sequence of DNA or mRNA, frequency of specific base sequences or alleles, amino acid sequence of encoded proteins. Polymorphic loci are kept, labelled background. **Siblings.** The notes listed "the frequency of measurable characteristics" (not in 3.1.11.1) and gave polymorphic loci in self-test answer 4; both now give the specification's list. Practice answer 10 now gives the specification's measures, with polymorphic loci accepted as background; answer 5(a) already credited allele frequency and sequences. |
+
+### Deferred / Already correct
+
+None.
+
+### Observations, not actioned
+
+- Other `syllabus-topics.ts` records may still cite the legacy `oaqaresources` path. D-235's sweep covered resources; this entry fixed only the three records I359 concerns.
+- The 3247 assessment record cites the 2025-2026 syllabus (664479) while the 3247 syllabus record cites 2027 (721463). Not examined here.
+
+**Validation.** All pass:
+
+- `astro check`: 0 errors
+- `validate:academic`
+- `validate-assessments`
+- build: 2128 pages
+- `audit:all`: 0 problems
+- cross-board regression
+- API tests: 31/31
+
+**Open-count position after D-238 (for the audit to reconcile).** Round 16 leaves E912, E913, I358, I359, I360 and Q393 for repair; all six are closed here. Confirmed errors declared open: 0.

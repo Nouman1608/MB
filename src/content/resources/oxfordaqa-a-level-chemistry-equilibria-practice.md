@@ -7,7 +7,7 @@ topic: "Physical chemistry"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
-syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
+syllabusSeries: "Version 5.3 (first teaching 2019, first AS and A-level exams 2020)"
 syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc"

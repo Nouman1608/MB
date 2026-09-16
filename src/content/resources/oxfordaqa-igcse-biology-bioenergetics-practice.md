@@ -7,7 +7,7 @@ topic: "Bioenergetics"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9201"]
-syllabusSeries: "Version 4.3, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.2, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"

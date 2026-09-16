@@ -1700,11 +1700,11 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'biology',
-    syllabusCode: '9201', syllabusSeries: 'Version 4.3, for exams May/June 2018 onwards',
+    syllabusCode: '9201', syllabusSeries: 'Version 5.2, for exams May/June 2018 onwards',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'OxfordAQA -- official International GCSE Biology (9201) specification PDF, Version 4.3',
-    sourceUrl: 'https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-biology-specification.pdf', verifiedDate: '2026-08-19',
+    source: 'OxfordAQA -- official International GCSE Biology (9201) specification PDF, Version 5.2 (D-238: topic and sub-topic names re-checked against it)',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-biology-specification.pdf', verifiedDate: '2026-09-16',
     notes: "OxfordAQA International GCSE Biology (9201), for teaching from September 2016, exams May/June 2018 onwards. Linear, untiered qualification, largely co-teachable with OxfordAQA International GCSE Combined Science (9204). Six topic names reproduced directly from the official specification PDF's subject-content contents list, fetched 2026-08-19. Topic 2 (Bioenergetics) sub-topic structure (3.2.1-3.2.6) reproduced directly from the same PDF's subject-content chapter, fetched and verified 2026-09-02.",
     topics: [
       { number: 1, name: 'Organisation', slug: 'organisation-oxfordaqa-igcse-biology', subtopics: [] },
@@ -1725,12 +1725,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'oxfordaqa', qualificationSlug: 'igcse', subjectSlug: 'chemistry',
-    syllabusCode: '9202', syllabusSeries: 'Version 5.3, for exams May/June 2018 onwards',
+    syllabusCode: '9202', syllabusSeries: 'Version 6.2, for exams May/June 2018 onwards',
     effectiveFrom: '2016', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
-    source: 'OxfordAQA -- official International GCSE Chemistry (9202) specification PDF, Version 5.3',
-    sourceUrl: 'https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-gcse-chemistry-specification.pdf', verifiedDate: '2026-09-02',
-    notes: "OxfordAQA International GCSE Chemistry (9202), for teaching from September 2016, exams May/June 2018 onwards (specification updated November 2022, Version 5.3). Linear, untiered qualification. Nine topic names reproduced directly from the official specification PDF's own contents list (section 3, Subject content), fetched and verified 2026-09-02. Topic 1 (Atomic structure and the periodic table) sub-topic structure (3.1.1-3.1.3) reproduced directly from the same PDF's subject-content chapter, fetched and verified 2026-09-02; named sub-topics for topics 2-9 are not yet entered.",
+    source: 'OxfordAQA -- official International GCSE Chemistry (9202) specification PDF, Version 6.2 (D-238: topic and sub-topic names re-checked against it)',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-chemistry-specification.pdf', verifiedDate: '2026-09-16',
+    notes: "OxfordAQA International GCSE Chemistry (9202), for teaching from September 2016, exams May/June 2018 onwards (specification Version 6.2). Linear, untiered qualification. Nine topic names reproduced directly from the official specification PDF's own contents list (section 3, Subject content), fetched and verified 2026-09-02. Topic 1 (Atomic structure and the periodic table) sub-topic structure (3.1.1-3.1.3) reproduced directly from the same PDF's subject-content chapter, fetched and verified 2026-09-02; named sub-topics for topics 2-9 are not yet entered.",
     topics: [
       { number: 1, name: 'Atomic structure and the periodic table', slug: 'atomic-structure-and-the-periodic-table-9202', subtopics: [
         { number: '3.1.1', name: 'Solids, liquids and gases', slug: 'solids-liquids-and-gases-9202' },
@@ -4084,12 +4084,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'urdu-language',
-    syllabusCode: '3247 / 3248', syllabusSeries: '3247: 2027; 3248: 2024-2026',
-    effectiveFrom: '2024', effectiveTo: '2027', status: 'current',
+    syllabusCode: '3247 / 3248', syllabusSeries: '3247: 2027; 3248: 2027-2029',
+    effectiveFrom: '2027', effectiveTo: '2029', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDFs',
     sourceUrl: 'https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Two distinct, currently examined Cambridge O Level Urdu specifications are in force: 3247 First Language Urdu (Paper 1 Reading and Writing, 50%; Paper 2 Texts — Unseen Passage, Poetry, Prose with prescribed set texts, 50%; source: cambridgeinternational.org/Images/721463-2027-syllabus.pdf, Version 1) and 3248 Second Language Urdu (Paper 1 Reading and Writing, 50%; Paper 2 Grammar, Writing and Translation, 50%; source: cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf, Version 1). Both are represented together here as they share the syllabus code family; candidates take one or the other, not both, in the same series.',
+    notes: 'Two distinct, currently examined Cambridge O Level Urdu specifications are in force: 3247 First Language Urdu (Paper 1 Reading and Writing, 50%; Paper 2 Texts — Unseen Passage, Poetry, Prose with prescribed set texts, 50%; source: cambridgeinternational.org/Images/721463-2027-syllabus.pdf, Version 1) and 3248 Second Language Urdu (Paper 1 Reading and Writing, 50%; Paper 2 Grammar, Writing and Translation, 50%; source: cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf, Version 1, exams 2027-2029; D-238 moved this from the 2024-2026 syllabus, 634455, which is still examined in November 2026). Both are represented together here as they share the syllabus code family; candidates take one or the other, not both, in the same series.',
     topics: [
       { number: 1, name: '3247 First Language Urdu – Paper 1 Reading and Writing', slug: 'fl-paper-1-reading-writing-3247', subtopics: [] },
       { number: 2, name: '3247 First Language Urdu – Paper 2 Texts (Unseen Passage, Poetry, Prose)', slug: 'fl-paper-2-texts-3247', subtopics: [] },
@@ -4117,25 +4117,25 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     effectiveFrom: '2026', effectiveTo: 'ongoing', status: 'current',
     tiered: false,
     source: 'OxfordAQA International Qualifications — official specification PDF',
-    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-intenational-gcse-urdu-specification.pdf', verifiedDate: '2026-08-19',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2024/03/oxfordaqa-intenational-gcse-urdu-specification.pdf', verifiedDate: '2026-08-19', // D-238 (I360): sub-topic numbers use the specification's own Topic 1-4 labels within each theme, not invented 2.1-3.4 numbering.
     notes: 'For International GCSE exams May/June 2026 onwards. Paper 1 Reading, Grammar and Meaning and Paper 2 Writing are each 1 hour 45 minutes, 70 marks, 50% of GCSE. Content is organised around three themes examined across both papers, not paper-specific topics.',
     topics: [
       { number: 1, name: 'Theme 1 – Identity and Culture', slug: 'theme-1-identity-culture-9264', subtopics: [
-        { number: '1.1', name: 'Me, My Family, Friends and People I Know', slug: 'family-friends-9264' },
-        { number: '1.2', name: 'Technology in Everyday Life', slug: 'technology-everyday-life-9264' },
-        { number: '1.3', name: 'Free-Time Activities', slug: 'free-time-activities-9264' },
+        { number: 'Topic 1', name: 'Me, My Family, Friends and People I Know', slug: 'family-friends-9264' },
+        { number: 'Topic 2', name: 'Technology in Everyday Life', slug: 'technology-everyday-life-9264' },
+        { number: 'Topic 3', name: 'Free-Time Activities', slug: 'free-time-activities-9264' },
       ] },
       { number: 2, name: 'Theme 2 – Local, National, International and Global Areas of Interest', slug: 'theme-2-local-national-international-9264', subtopics: [
-        { number: '2.1', name: 'Home, Town, Neighbourhood and Region', slug: 'home-town-neighbourhood-9264' },
-        { number: '2.2', name: 'Social Issues', slug: 'social-issues-9264' },
-        { number: '2.3', name: 'Global Issues', slug: 'global-issues-9264' },
-        { number: '2.4', name: 'Travel and Tourism', slug: 'travel-tourism-9264' },
+        { number: 'Topic 1', name: 'Home, Town, Neighbourhood and Region', slug: 'home-town-neighbourhood-9264' },
+        { number: 'Topic 2', name: 'Social Issues', slug: 'social-issues-9264' },
+        { number: 'Topic 3', name: 'Global Issues', slug: 'global-issues-9264' },
+        { number: 'Topic 4', name: 'Travel and Tourism', slug: 'travel-tourism-9264' },
       ] },
       { number: 3, name: 'Theme 3 – Current and Future Study and Employment', slug: 'theme-3-study-employment-9264', subtopics: [
-        { number: '3.1', name: 'My Studies', slug: 'my-studies-9264' },
-        { number: '3.2', name: 'Life at School/College', slug: 'life-school-college-9264' },
-        { number: '3.3', name: 'Education Post-16', slug: 'education-post-16-9264' },
-        { number: '3.4', name: 'Jobs, Career Choices and Ambitions', slug: 'jobs-career-choices-9264' },
+        { number: 'Topic 1', name: 'My Studies', slug: 'my-studies-9264' },
+        { number: 'Topic 2', name: 'Life at School/College', slug: 'life-school-college-9264' },
+        { number: 'Topic 3', name: 'Education Post-16', slug: 'education-post-16-9264' },
+        { number: 'Topic 4', name: 'Jobs, Career Choices and Ambitions', slug: 'jobs-career-choices-9264' },
       ] },
     ],
   },
@@ -5400,9 +5400,9 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
     syllabusCode: '9620', syllabusSeries: 'For teaching from September 2019 (exams from May/June 2020) onwards',
     effectiveFrom: '2019', effectiveTo: 'current', status: 'current',
     tiered: false,
-    source: 'OxfordAQA International AS and A-level Chemistry (9620) specification, Version 4.3, Section 3 Subject content',
-    sourceUrl: 'https://www.oxfordaqa.com/oaqaresources/specifications/oxfordaqa-international-as-and-a-level-chemistry-specification.pdf',
-    verifiedDate: '2026-09-08',
+    source: 'OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, Section 3 Subject content (D-238: all 87 sub-topic names re-checked against it)',
+    sourceUrl: 'https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-chemistry-specification.pdf',
+    verifiedDate: '2026-09-16',
     notes: 'Topics 3.1.1-3.1.7, 3.2.1-3.2.3 and 3.3.1-3.3.6 are International AS content; the remainder (3.1.8-3.1.12, 3.2.4-3.2.6, 3.3.7-3.3.16) is International A2 content, assessed together as the full International A-level. Downloaded the specification PDF directly, extracted its text with a layout-preserving PDF-to-text conversion, and read Section 3 "Subject content" (pages 11-41) in full, sequentially, transcribing every numbered heading exactly as printed including special characters (en dashes, the Brønsted o-slash, the delta symbol). Confirmed the topic count (34) by identifying all 3.X.Y headers (12 in 3.1 Physical chemistry, 6 in 3.2 Inorganic chemistry, 16 in 3.3 Organic chemistry). Topic 32, "Organic synthesis" (spec section 3.3.14), has no further numbered subdivision in the spec -- its content runs directly under the section heading, unlike every other topic -- so its subtopics are left as []. No names, numbers, or structure were inferred or guessed; every entry traces to a specific heading read directly in the extracted spec text.',
     topics: [
       { number: 1, name: 'Atomic structure', slug: 'oxfordaqa-a-level-chemistry-atomic-structure', subtopics: [

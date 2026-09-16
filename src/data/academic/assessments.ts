@@ -538,14 +538,14 @@ export const ASSESSMENTS: readonly Assessment[] = [
     code: '3248',
     specStatus: 'current',
     tiers: ['second-language'],
-    firstAssessment: '2024',
+    firstAssessment: '2027',
     components: [
       { paperCode: 'Paper 1', title: 'Reading and Writing', durationMinutes: 105, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', tier: 'second-language' },
       { paperCode: 'Paper 2', title: 'Grammar, Writing and Translation', durationMinutes: 90, marks: 50, weightingPercent: 50, assessmentType: 'written-exam', tier: 'second-language' },
     ],
-    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf',
-    verifiedOn: '2026-08-26',
-    notes: 'Cambridge O Level Urdu -- Second Language, for learners with Urdu as an additional language; grades A*-E. All answers given in Urdu; dictionaries not permitted. Coexists with 3247 (First Language, tier "first-language") under the same board+qualification+subject -- these are two genuinely distinct, simultaneously current specifications distinguished by tier, not a legacy/current pair.',
+    officialSourceUrl: 'https://www.cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf',
+    verifiedOn: '2026-09-16',
+    notes: 'Cambridge O Level Urdu -- Second Language, for learners with Urdu as an additional language; grades A*-E. All answers given in Urdu; dictionaries not permitted. Coexists with 3247 (First Language, tier "first-language") under the same board+qualification+subject -- these are two genuinely distinct, simultaneously current specifications distinguished by tier, not a legacy/current pair. D-238 (I358): source moved to the 2027-2029 syllabus (Version 1); Paper 1 1h45/50 marks and Paper 2 1h30/50 marks confirmed unchanged from 2024-2026, whose final series is November 2026.',
   },
   {
     boardSlug: 'oxfordaqa',

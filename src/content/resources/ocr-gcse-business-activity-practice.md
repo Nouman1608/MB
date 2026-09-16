@@ -89,15 +89,17 @@ A. Bonuses  B. Praise  C. Fringe benefits  D. Profit sharing
 
 **19.** Evaluate whether financial incentives are the most effective way to motivate staff in a small restaurant. **[9]**
 
-**20.** Define **added value** and explain **one** way a business can increase it without lowering price. **[3]**
+**20.** Explain why a business that has just started trading and a long-established business may have different objectives. **[3]**
 
 **21.** Explain the difference between **unlimited** and **limited liability**, and explain why this distinction matters for raising external capital. **[4]**
 
-**22.** A bakery pays 80p in ingredients and packaging per loaf and sells at £2.20. It sells 500 loaves a day with fixed costs of £400 a day.
+**22.** A bakery with three shops plans to grow.
 
-**(a)** Calculate the added value per loaf and the total daily profit. **[3]**
+**(a)** State **one** method of organic growth the bakery could use. **[1]**
 
-**(b)** Calculate the break-even output in loaves per day. **[2]**
+**(b)** The bakery takes over the flour mill that supplies it. Identify this type of external growth. **[1]**
+
+**(c)** Explain **one** advantage to the bakery of growing by taking over its supplier. **[3]**
 
 **23.** Explain the difference between **internal** and **external** recruitment, and state one advantage of a **flat** organisational structure over a **tall** one. **[4]**
 
@@ -119,13 +121,15 @@ A. Bonuses  B. Praise  C. Fringe benefits  D. Profit sharing
 **Judgement:** in a small restaurant with **limited funds**, non-financial motivators are likely to be **more sustainable and affordable** [1]. However, pay must first be **at least fair and competitive**, or no amount of praise will retain staff [1] — so the best approach combines a fair basic wage with recognition and development [1].
 *(OCR marks this nine-mark question by level of response against a holistic mark scheme, not by awarding a separate mark for each point; the bracketed marks above indicate the credit-worthy content expected, not a point-by-point tally.)*
 
-**20.** Added value is the **difference between the cost of inputs and the selling price** [1]. It can be increased through **brand, quality, convenience, design or service**, rather than through price alone — for example, better packaging or faster delivery lets a business charge more without changing its ingredients [2].
+**20.** A new business is likely to aim first for **survival**, covering its costs and building a customer base [1], while an established business may aim for **growth, market share or higher profit** [1], because objectives change as a business evolves: once survival is secure, the owners can take on the risk of expansion [1].
 
 **21.** **Unlimited liability** means the owner's **personal assets are at risk** if the business cannot pay its debts (sole traders, partnerships) [1]. **Limited liability** means shareholders can lose only **what they invested** (private and public limited companies) [1]. This matters because investors are far more willing to buy shares in a business where their personal wealth is protected [1], making limited liability the structure that makes raising significant external capital feasible [1].
 
-**22. (a)** Added value = 2.20 − 0.80 = **£1.40** [1]; total contribution = 1.40 × 500 = £700; profit = 700 − 400 = **£300 per day** [2].
+**22. (a)** Any one: **opening a new shop, increasing output, gaining new customers (for example, supplying cafés), developing new products** [1].
 
-**(b)** Break-even output = fixed costs ÷ contribution per unit = 400 ÷ 1.40 = **286 loaves** (to the nearest whole loaf) [2].
+**(b)** A **vertical** takeover (backward, towards its supplier) [1].
+
+**(c)** One advantage identified, for example **control over the supply of flour** [1], explained: the bakery no longer depends on an outside supplier's prices or delivery times [1], applied: so it can keep bread quality consistent and avoid running short of flour on busy days in its three shops [1]. Other creditable advantages: lower input costs, or the mill's profit staying within the business.
 
 **23. Internal** recruitment is cheaper and faster and appoints a known quantity, but brings no fresh ideas and leaves another vacancy to fill [1]. **External** recruitment offers a wider pool and new perspectives, but is slower and costlier [1]. A **flat** structure has fewer layers and a wider span of control, giving **faster communication and more delegation** than a tall structure [2].
 

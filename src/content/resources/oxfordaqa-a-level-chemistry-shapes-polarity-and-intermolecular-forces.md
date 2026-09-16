@@ -7,7 +7,7 @@ topic: "Physical chemistry"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
-syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
+syllabusSeries: "Version 5.3 (first teaching 2019, first AS and A-level exams 2020)"
 order: 4
 syllabusTopics:
   - qualification: "a-level"
@@ -132,7 +132,7 @@ present are frequently incomplete.
 ## Official syllabus
 
 OxfordAQA, *International AS and A-level Chemistry (9620)
-specification*, Version 4.3, for International AS and A-level exams
+specification*, Version 5.3, for International AS and A-level exams
 May/June 2020 onwards: [official specification
 PDF](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-a-level-chemistry-specification.pdf),
 sections 3.1.3.5-3.1.3.7 "Bonding". Verified 2026-09-02.

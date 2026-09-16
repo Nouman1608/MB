@@ -7,7 +7,7 @@ topic: "Quantitative chemistry"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9202"]
-syllabusSeries: "Version 5.3 (first teaching 2016, first examined 2018; specification updated November 2022)"
+syllabusSeries: "Version 6.2 (first teaching 2016, first examined 2018)"
 syllabusTopics:
   - qualification: "igcse"
     topic: "quantitative-chemistry-9202"
@@ -146,4 +146,4 @@ balanced equation
 - [Amount of Substance (OCR A Level)](/resources/ocr-a-level-chemistry-amount-of-substance/) — how these same mole-calculation skills extend at A Level
 - [OxfordAQA International GCSE Chemistry hub](/boards/oxfordaqa/igcse/chemistry/)
 
-*Written against OxfordAQA International GCSE Chemistry 9202, specification updated November 2022, https://www.oxfordaqa.com/qualifications/international-gcse-chemistry/, verified 2026-08-18. Always check the current specification for your examination year.*
+*Written against OxfordAQA International GCSE Chemistry 9202, specification Version 6.2, https://www.oxfordaqa.com/qualifications/international-gcse-chemistry/, verified 2026-08-18. Always check the current specification for your examination year.*

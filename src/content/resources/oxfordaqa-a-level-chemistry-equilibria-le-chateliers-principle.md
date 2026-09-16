@@ -7,7 +7,7 @@ topic: "Physical chemistry"
 boards: ["oxfordaqa"]
 qualifications: ["a-level"]
 syllabusCodes: ["9620"]
-syllabusSeries: "Version 4.3 (first teaching 2019, first AS and A-level exams 2020; specification updated November 2022)"
+syllabusSeries: "Version 5.3 (first teaching 2019, first AS and A-level exams 2020)"
 syllabusTopics:
   - qualification: "a-level"
     topic: "oxfordaqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc"
@@ -152,4 +152,4 @@ and catalysts
 - [Quantitative Chemistry (OxfordAQA IGCSE)](/resources/oxfordaqa-igcse-chemistry-quantitative-chemistry/) — the GCSE-level mole calculations this page builds on
 - [OxfordAQA International A-level Chemistry hub](/boards/oxfordaqa/a-level/chemistry/)
 
-*Written against OxfordAQA International AS and A-level Chemistry 9620, specification updated November 2022, https://www.oxfordaqa.com/qualifications/international-as-a-level-chemistry/, verified 2026-08-18. Always check the current specification for your examination year.*
+*Written against OxfordAQA International AS and A-level Chemistry 9620, specification Version 5.3, https://www.oxfordaqa.com/qualifications/international-as-a-level-chemistry/, verified 2026-08-18. Always check the current specification for your examination year.*

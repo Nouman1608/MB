@@ -7,7 +7,7 @@ topic: "Bioenergetics"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9201"]
-syllabusSeries: "Version 4.3, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.2, for exams May/June 2018 onwards"
 order: 2
 syllabusTopics:
   - qualification: "igcse"
@@ -112,5 +112,5 @@ Topic 1 (Organisation) covers cells, tissues and organs in general; Bioenergetic
 
 ## Official syllabus
 
-OxfordAQA International GCSE Biology (9201) specification, Version 4.3 —
+OxfordAQA International GCSE Biology (9201) specification, Version 5.2 —
 [oxfordaqa.com/9201](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-biology-specification.pdf).

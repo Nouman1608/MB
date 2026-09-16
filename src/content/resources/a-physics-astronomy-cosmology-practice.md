@@ -71,7 +71,7 @@ Related: [Astronomy and Cosmology revision notes](/resources/a-physics-astronomy
 
 **(b)** A student concludes that the Earth must be at the centre of the universe. Explain why this is wrong. **[3]**
 
-**(c)** Give two further pieces of evidence for the Big Bang, stating what each demonstrates. **[4]**
+**(c)** *(Background, beyond the 9702 learning outcomes — 25.3 gives redshift and Hubble's law as the evidence; the cosmic microwave background and helium abundance are not in the syllabus.)* Give two further pieces of evidence for the Big Bang, stating what each demonstrates. **[4]**
 
 ---
 
@@ -123,7 +123,7 @@ v = c × (Δλ ÷ λ) = 3.00 × 10⁸ × (4.1 ÷ 656.3) [1] = **1.87 × 10⁶ m 
 
 **(b)** It is **space itself that is expanding**, not galaxies moving through space [1]. On large, unbound scales, every point recedes from every other point [1] — this does not apply to gravitationally bound systems like galaxies, solar systems or galaxy clusters, which are held together and do not expand — so an observer **in any (unbound, large-scale) galaxy** would see exactly the same relationship between distance and recession speed [1].
 
-**(c)** **Cosmic microwave background radiation** [1] — the cooled remnant of radiation from the hot dense early universe, with a black-body spectrum at about 2.7 K [1].
+**(c)** *(Background, not 9702 content.)* **Cosmic microwave background radiation** [1] — the cooled remnant of radiation from the hot dense early universe, with a black-body spectrum at about 2.7 K [1].
 **Relative abundance of hydrogen and helium** [1] — the observed ratio matches that predicted by nucleosynthesis in the first minutes after the Big Bang [1].
 
 **7. (a)** Multiplying both sides by 4πd² gives 4πd²F = L, so d² = L ÷ (4πF), and therefore d = √(L ÷ (4πF)) [2].

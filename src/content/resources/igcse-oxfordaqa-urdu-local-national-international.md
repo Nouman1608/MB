@@ -38,13 +38,16 @@ content from all three themes.
 
 **OXFORDAQA INTERNATIONAL GCSE URDU (9264) — THEME 2 LOCAL, NATIONAL, INTERNATIONAL AND GLOBAL AREAS OF INTEREST**
 
-- 2.1 Home, Town, Neighbourhood and Region — describing where you live,
+The specification (3.1.2) sets four topics, with sub-topics shown under two of them:
+
+- Topic 1: Home, town, neighbourhood and region — describing where you live,
 local amenities and facilities, and giving directions
-- 2.2 Social Issues — vocabulary and structures for discussing issues
-affecting society
-- 2.3 Global Issues — vocabulary and structures for discussing issues
-affecting the wider world, such as the environment
-- 2.4 Travel and Tourism — vocabulary and structures for discussing
+- Topic 2: Social issues (sub-topics: charity/voluntary work;
+healthy/unhealthy living) — vocabulary and structures for discussing
+issues affecting society
+- Topic 3: Global issues (sub-topics: the environment; poverty) —
+vocabulary and structures for discussing issues affecting the wider world
+- Topic 4: Travel and tourism — vocabulary and structures for discussing
 holidays, transport and travel experiences
 
 ## Vocabulary you need in place
@@ -143,7 +146,7 @@ personal nouns practised in Theme 1.
 
 ## Quick revision checklist
 
-- Build active vocabulary across all four sub-topics: home/locality,
+- Build active vocabulary across all four topics: home/locality,
 social issues, global issues, and travel/tourism.
 - Practise conditional structures for proposing solutions to problems.
 - Rehearse switching between past-tense narrative and present-tense

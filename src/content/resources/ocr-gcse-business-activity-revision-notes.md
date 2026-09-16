@@ -23,6 +23,8 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Purpose and ownership
 
+> **Not Business 1 content.** Added value is not a J204 term, and break-even is topic 5.4 of Business 2 (J204/02), which is where synoptic questions are set. This example is kept as background for Business 2; Business 1 (J204/01) does not examine it.
+
 ```
 added value = selling price - cost of bought-in materials
 ```
@@ -39,6 +41,8 @@ profit               = 700 - 400   = 300 per day
 break-even output = fixed costs / contribution per unit
                   = 400 / 1.40 = 286 loaves (nearest whole loaf)
 ```
+
+**Business 1 content (1.3):**
 
 | Structure | Liability |
 |---|---|
@@ -110,7 +114,7 @@ High turnover raises recruitment and training costs and loses knowledge, though 
 
 ## Exam traps
 
-- Confusing added value with profit.
+- Assuming every business's main objective is profit — a start-up may aim first for survival, and objectives change as a business evolves (1.4).
 - Saying limited liability means limited debts.
 - Treating a plc as government-owned.
 - Objectives that are not SMART.
@@ -119,10 +123,10 @@ High turnover raises recruitment and training costs and loses knowledge, though 
 
 ## Self-test
 
-1. Define added value and say why it is not profit.
+1. Why might a new business and an established business have different objectives?
 2. Distinguish unlimited from limited liability.
 3. Give one advantage and one disadvantage of internal recruitment.
 4. Explain Herzberg's distinction and its practical consequence.
 5. Compare tall and flat structures.
 
-**Answers:** 1. Selling price minus the cost of bought-in materials; wages, rent and other overheads must still be paid out of it before any profit remains. 2. Unlimited liability means the owner's personal assets can be seized to settle business debts; limited liability restricts loss to the amount invested. 3. It is cheaper and faster and the candidate is already known, but it brings no new ideas and creates another vacancy. 4. Hygiene factors such as pay prevent dissatisfaction but do not motivate, while motivators such as recognition and responsibility create satisfaction — so a pay rise gives a temporary lift while job enrichment gives a lasting one. 5. Tall structures have many levels and narrow spans, giving close supervision but slow communication; flat structures have few levels and wide spans, giving faster communication but potentially overstretched managers.
+**Answers:** 1. A new business usually aims first for survival, covering costs and building customers; an established business can aim for growth, market share or profit, because objectives change as a business evolves. 2. Unlimited liability means the owner's personal assets can be seized to settle business debts; limited liability restricts loss to the amount invested. 3. It is cheaper and faster and the candidate is already known, but it brings no new ideas and creates another vacancy. 4. Hygiene factors such as pay prevent dissatisfaction but do not motivate, while motivators such as recognition and responsibility create satisfaction — so a pay rise gives a temporary lift while job enrichment gives a lasting one. 5. Tall structures have many levels and narrow spans, giving close supervision but slow communication; flat structures have few levels and wide spans, giving faster communication but potentially overstretched managers.

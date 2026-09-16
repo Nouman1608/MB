@@ -34,19 +34,19 @@ extra:
 - a possible solution would be...
 - this would help because...
 
-## Four sub-topics, four vocabulary sets
+## Four topics, four vocabulary sets
 
-| Sub-topic | Core vocabulary focus |
+| Topic | Core vocabulary focus |
 |---|---|
-| **2.1 Home, town, neighbourhood, region** | Housing types, rooms/facilities, local amenities, directions |
-| **2.2 Social issues** | Charity/voluntary work, healthy/unhealthy living — problem/solution language |
-| **2.3 Global issues** | Environment (climate, pollution, recycling), poverty — cause/effect language |
-| **2.4 Travel and tourism** | Transport, booking, holiday recount (past tense), comparison |
+| **Topic 1: Home, town, neighbourhood and region** | Housing types, rooms/facilities, local amenities, directions |
+| **Topic 2: Social issues** (sub-topics: charity/voluntary work; healthy/unhealthy living) | Problem/solution language |
+| **Topic 3: Global issues** (sub-topics: the environment; poverty) | Cause/effect language (climate, pollution, recycling) |
+| **Topic 4: Travel and tourism** | Transport, booking, holiday recount (past tense), comparison |
 
 ## The structures that separate strong from weak answers
 
 - **Conditional** — *if we recycled more, the environment would
-improve.* Essential for proposing solutions in 2.2 and 2.3.
+improve.* Essential for proposing solutions in Topics 2 and 3.
 - **Cause and effect connectives** — *because of this, as a result,
 this leads to.* Needed whenever a social or global issue is being
 explained, not just named.
@@ -105,7 +105,7 @@ proposes, or evaluates.
 
 Being able to recognise a Theme 2 word when reading is not the same as
 being able to produce it correctly in writing under time pressure. For
-each of the four sub-topics, practise actively producing full sentences
+each of the four topics, practise actively producing full sentences
 using the target vocabulary — not just matching words to translations —
 since the writing task requires active production, while reading only
 requires recognition. Time spent purely on recognition drills builds a
@@ -115,7 +115,7 @@ false sense of readiness for the productive task.
 
 1. Why does Theme 2 demand a different kind of vocabulary preparation
 than Theme 1?
-2. Name the four sub-topics of Theme 2.
+2. Name the four topics of Theme 2.
 3. Give one structure essential for proposing a solution to a problem.
 4. What four-step structure works well for a written task on a social
 or global issue?

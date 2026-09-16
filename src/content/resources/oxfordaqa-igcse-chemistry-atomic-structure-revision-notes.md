@@ -7,7 +7,7 @@ topic: "Atomic structure and the periodic table"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9202"]
-syllabusSeries: "Version 5.3 (first teaching 2016, first examined 2018; specification updated November 2022)"
+syllabusSeries: "Version 6.2 (first teaching 2016, first examined 2018)"
 order: 2
 syllabusTopics:
   - qualification: "igcse"
@@ -111,5 +111,5 @@ The specification itself introduces Topic 1 by noting atoms are the building blo
 
 ## Official syllabus
 
-OxfordAQA International GCSE Chemistry (9202) specification, Version 5.3 —
+OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2 —
 [oxfordaqa.com/9202](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-chemistry-specification.pdf).

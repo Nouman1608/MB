@@ -60,8 +60,8 @@ favourite subject with a reason, a post-16 plan, and a career ambition with just
 **6.** Translate into English: "میرے نئے اسکول میں لائبریری اور کھیل کا میدان دونوں پرانے اسکول سے
 بہتر ہیں، لیکن یونیفارم کے قوانین زیادہ سخت ہیں۔" **[5]**
 
-**7.** Explain why this sentence belongs to sub-topic 3.2 (Life at School/College) rather than 3.1 (My
-Studies), and identify the comparative structure used. **[3]**
+**7.** Identify the **two** comparative structures in the sentence in Question 6, and explain how the
+sentence shows what the new school is being compared with. **[3]**
 
 **8.** A classmate writes: "میں مستقبل میں انجینئر بننا چاہتا ہوں۔" and stops there. Explain what is
 missing from this response for full justification marks, and rewrite it to include the missing
@@ -98,10 +98,9 @@ career ambition with justification — closely matches the assessment objectives
 **[3]**, but the uniform rules are stricter **[2]**." (One mark each for the two correctly rendered
 comparatives, one for correct sense overall, two for "stricter" and overall fluency.)
 
-**7.** The sentence belongs to 3.2 because it concerns school facilities (library, sports field) and
-rules (uniform), not subject content or opinions on subjects, which would place it in 3.1 **[2]**. The
-comparative structure used is "بہتر ہیں" (are better) and "زیادہ سخت ہیں" (are stricter), comparing the
-new school directly against the old one **[1]**.
+**7.** "بہتر ہیں" (are better), a comparative adjective **[1]**; "زیادہ سخت ہیں" (are stricter),
+formed with زیادہ + adjective **[1]**; the comparison is with the old school, marked by "پرانے اسکول سے"
+(than the old school), where سے gives "than" **[1]**.
 
 **8.** The response names a career ambition (to become an engineer) but gives no reason or
 justification, which is what examiners specifically reward beyond a bare statement **[1]**. A stronger
@@ -117,4 +116,4 @@ and ideally a conditional) with a minor verb-agreement slip scores higher than a
 response that only describes current studies and never reaches the future-tense material this theme
 specifically tests. When self-marking a practice response, check first whether every required element
 is present, then check accuracy — a missing career ambition or an all-present-tense answer costs more
-than a handful of small grammar errors spread across an otherwise complete response. This applies equally across all four sub-topics of the theme, so a self-marking checklist covering subject-plus-reason, post-16 plan, career ambition-plus-justification, and a comparative or conditional structure is a more reliable revision habit than proofreading for spelling alone.
+than a handful of small grammar errors spread across an otherwise complete response. This applies equally across all four topics of the theme, so a self-marking checklist covering subject-plus-reason, post-16 plan, career ambition-plus-justification, and a comparative or conditional structure is a more reliable revision habit than proofreading for spelling alone.

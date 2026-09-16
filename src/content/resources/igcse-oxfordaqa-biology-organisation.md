@@ -7,7 +7,7 @@ topic: "Topic 1 – Organisation"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9201"]
-syllabusSeries: "Version 4.3, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.2, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -72,7 +72,7 @@ surface (small intestine, lungs, roots or leaves).
 ## Official syllabus
 
 OxfordAQA International GCSE Biology (9201) specification PDF,
-Version 4.3 —
+Version 5.2 —
 [oxfordaqa.com](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-biology-specification.pdf).
 
 ## Cell structure (3.1.1)

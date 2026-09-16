@@ -88,7 +88,7 @@ Related: [Diversity of Living Organisms revision notes](/resources/oxfordaqa-a-l
 
 **9.** Agricultural practices reduce biodiversity by **removing natural habitats** to create farmland, displacing the species that lived there [1], and by **favouring monoculture** — growing a single crop species over a large area — which supports far fewer species than a natural, varied habitat would [1].
 
-**10.** A mule is **sterile and cannot produce fertile offspring** [1], so despite resulting from mating between a horse and a donkey it fails the biological species definition, which requires interbreeding to produce fertile offspring [1]. Genetic diversity within a species can be measured as **the proportion of gene loci that are polymorphic** within the population, or by comparing DNA base sequences or amino acid sequences between individuals [1].
+**10.** A mule is **sterile and cannot produce fertile offspring** [1], so despite resulting from mating between a horse and a donkey it fails the biological species definition, which requires interbreeding to produce fertile offspring [1]. Genetic diversity within a species can be measured by comparing **the frequency of specific base sequences or alleles** in the population, **DNA or mRNA base sequences**, or **amino acid sequences** of encoded proteins between individuals [1] (3.1.11.1; the proportion of polymorphic gene loci is also accepted as background).
 
 ---
 

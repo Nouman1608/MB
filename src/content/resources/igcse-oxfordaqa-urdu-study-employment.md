@@ -36,10 +36,12 @@ candidates cannot skip Theme 3 preparation on the assumption it is examined sepa
 
 **OXFORDAQA INTERNATIONAL GCSE URDU (9264) — THEME 3 CURRENT AND FUTURE STUDY AND EMPLOYMENT**
 
-- 3.1 My Studies -- describing school subjects, opinions on subjects, and the school day
-- 3.2 Life at School/College -- school facilities, rules, routines, and school life more broadly
-- 3.3 Education Post-16 -- further education and study options after the current stage of schooling
-- 3.4 Jobs, Career Choices and Ambitions -- part-time work, career aspirations, and the language of
+The specification (3.1.3) sets four topics:
+
+- Topic 1: My studies -- describing school subjects, opinions on subjects, and the school day
+- Topic 2: Life at school/college -- school facilities, rules, routines, and school life more broadly
+- Topic 3: Education post-16 -- further education and study options after the current stage of schooling
+- Topic 4: Jobs, career choices and ambitions -- part-time work, career aspirations, and the language of
   future plans
 
 ## Vocabulary you need in place
@@ -122,13 +124,13 @@ switching from present-tense description to future-tense plans within the same r
 
 ## Quick revision checklist
 
-- Build active vocabulary across all four sub-topics: studies, school life, post-16 options, and
+- Build active vocabulary across all four topics: studies, school life, post-16 options, and
   jobs/careers.
 - Practise future tense and "would like to" structures for stating plans and ambitions.
 - Rehearse justifying a subject preference or career ambition with a reason, not just naming it.
 - Practise moving between present-tense description and future-tense plans within a single response.
-- Distinguish "my studies" (subjects, opinions) from "life at school" (facilities, routine) in reading
-  tasks.
+- Keep the vocabulary of "my studies" (subjects, opinions) and "life at school" (facilities, routine)
+  distinct, so you can use each precisely in your own writing.
 
 ## Official syllabus
 
@@ -138,4 +140,4 @@ May/June 2026 onwards --
 verified 2026-08-19 -- the same source already cited by
 [Theme 1](/resources/igcse-oxfordaqa-urdu-identity-and-culture/) and
 [Theme 2](/resources/igcse-oxfordaqa-urdu-local-national-international/), which first reproduced this
-theme's four sub-topics from it.
+theme's four topics from it.

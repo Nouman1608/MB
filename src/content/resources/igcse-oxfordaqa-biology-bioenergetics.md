@@ -7,7 +7,7 @@ topic: "Bioenergetics"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9201"]
-syllabusSeries: "Version 4.3, for exams May/June 2018 onwards"
+syllabusSeries: "Version 5.2, for exams May/June 2018 onwards"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -19,7 +19,7 @@ featured: false
 ---
 
 This guide covers **Topic 2 Bioenergetics**, one of the six topics of
-OxfordAQA International GCSE Biology (9201), Version 4.3, for exams
+OxfordAQA International GCSE Biology (9201), Version 5.2, for exams
 May/June 2018 onwards. Bioenergetics is where the syllabus connects how
 organisms capture energy (photosynthesis) with how they use it
 (respiration), and the transport and exchange systems that move
@@ -150,5 +150,5 @@ candidate.
 
 ## Official syllabus
 
-OxfordAQA International GCSE Biology (9201) specification, Version 4.3
+OxfordAQA International GCSE Biology (9201) specification, Version 5.2
 — [oxfordaqa.com/9201](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-biology-specification.pdf).

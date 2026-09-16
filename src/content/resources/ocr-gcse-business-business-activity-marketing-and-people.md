@@ -108,6 +108,8 @@ The elements must be consistent: premium pricing with poor-quality packaging and
 
 ## Worked example
 
+> **Not Business 1 content.** Added value is not a J204 term, and break-even is topic 5.4 of Business 2 (J204/02), which is where synoptic questions are set. This example is kept as background for Business 2; Business 1 (J204/01) does not examine it.
+
 A bakery pays 80p in ingredients and packaging per loaf and sells at £2.20. It sells 500 loaves a day with fixed costs of £400 a day.
 
 ```
@@ -121,11 +123,11 @@ Break-even output = fixed costs / contribution per unit
 
 ## Common mistakes
 
-Treating added value as profit — added value ignores fixed costs. Saying limited liability means limited debt. Describing primary research as "better" rather than more specific but slower and dearer. Listing the four Ps without explaining how they must work together. Confusing span of control with chain of command.
+Saying limited liability means limited debt. Describing primary research as "better" rather than more specific but slower and dearer. Listing the four Ps without explaining how they must work together. Confusing span of control with chain of command.
 
 ## Quick revision checklist
 
-- Define added value and calculate it, then use contribution to find break-even.
+- Explain organic and external growth (horizontal, vertical, diversification) with an example of each (1.6).
 - Explain the role of the entrepreneur and how objectives change with business stage.
 - Compare forms of ownership, focusing on liability.
 - Distinguish primary from secondary and quantitative from qualitative research.

@@ -1302,7 +1302,7 @@ export const SYLLABUSES: readonly Syllabus[] = [
       'Cambridge O Level Urdu is offered as two distinct specifications: First Language Urdu for candidates whose mother tongue is Urdu, and Second Language Urdu for candidates learning Urdu as an additional language.',
     officialUrl: 'https://www.cambridgeinternational.org/Images/721463-2027-syllabus.pdf',
     verifiedOn: '2026-08-25',
-    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one specification or the other, not both, in the same series. Cambridge has already published a successor for 3248 covering the 2027, 2028 and 2029 series (721465-2027-2029-syllabus.pdf, Version 1) — it keeps the identical two-paper split and states there are no significant changes affecting teaching. This combined record\'s officialUrl links the 3247 document; resources declaring syllabusCodes ["3248"] specifically resolve instead to the dedicated 3248 record below (D-133).',
+    notes: 'First Language Urdu (3247): Paper 1 Reading and Writing (50%) and Paper 2 Texts — Unseen Passage, Poetry and Prose with prescribed set texts (50%). Second Language Urdu (3248, source: cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf, Version 1, for exams in 2027, 2028 and 2029): Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Candidates take one specification or the other, not both, in the same series. The 2024-2026 3248 syllabus (634455) is still examined in November 2026, its final series; the 2027-2029 syllabus keeps the identical two-paper split and states there are no significant changes which affect teaching. This combined record\'s officialUrl links the 3247 document; resources declaring syllabusCodes ["3248"] specifically resolve instead to the dedicated 3248 record below (D-133).',
   },
   {
     boardSlug: 'cambridge', qualificationSlug: 'o-level', subjectSlug: 'urdu-language',
@@ -1310,9 +1310,9 @@ export const SYLLABUSES: readonly Syllabus[] = [
     code: '3248',
     boardSummary:
       'Cambridge O Level Second Language Urdu is for candidates learning Urdu as an additional language, covering reading, writing, grammar and translation between English and Urdu.',
-    officialUrl: 'https://www.cambridgeinternational.org/Images/634455-2024-2026-syllabus.pdf',
-    verifiedOn: '2026-09-05',
-    notes: 'D-133: split out from the combined 3247/3248 record so that resources declaring syllabusCodes ["3248"] link the correct 2024-2026 document for their own series, rather than the combined record\'s 3247 (First Language) URL. Paper 1 Reading and Writing (50%) and Paper 2 Grammar, Writing and Translation (50%). Cambridge has already published a successor for the 2027, 2028 and 2029 series (721465-2027-2029-syllabus.pdf, Version 1), which keeps the identical two-paper split and states there are no significant changes affecting teaching.',
+    officialUrl: 'https://www.cambridgeinternational.org/Images/721465-2027-2029-syllabus.pdf',
+    verifiedOn: '2026-09-16',
+    notes: 'D-133: split out from the combined 3247/3248 record so that resources declaring syllabusCodes ["3248"] link the Second Language document rather than the combined record\'s 3247 (First Language) URL. D-238 (I358): now the syllabus for exams in 2027, 2028 and 2029 (721465, Version 1, September 2024), which the 3248 resources declare. Paper 1 Reading and Writing (1h45, 50 marks, 50%) and Paper 2 Grammar, Writing and Translation (1h30, 50 marks, 50%), identical to 2024-2026; the syllabus states there are no significant changes which affect teaching. The 2024-2026 syllabus (634455) is still examined in November 2026, its final series.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'urdu-language',

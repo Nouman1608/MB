@@ -7,7 +7,7 @@ topic: "Atomic structure and the periodic table"
 boards: ["oxfordaqa"]
 qualifications: ["igcse"]
 syllabusCodes: ["9202"]
-syllabusSeries: "Version 5.3 (first teaching 2016, first examined 2018; specification updated November 2022)"
+syllabusSeries: "Version 6.2 (first teaching 2016, first examined 2018)"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -20,8 +20,7 @@ featured: false
 
 This guide covers **Topic 1 Atomic Structure and the Periodic Table**,
 the first of ten topic areas in OxfordAQA International GCSE Chemistry
-(9202), for exams May/June 2018 onwards (specification updated November
-2022, Version 5.3). The specification itself introduces this topic by
+(9202), for exams May/June 2018 onwards (specification Version 6.2). The specification itself introduces this topic by
 noting that atoms are the building blocks of all materials, and that
 atomic structure and the periodic table are fundamental to every section
 that follows.
@@ -148,5 +147,5 @@ result shows about particle behaviour, not just to describe the setup.
 
 ## Official syllabus
 
-OxfordAQA International GCSE Chemistry (9202) specification, Version 5.3
+OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2
 — [oxfordaqa.com/9202](https://www.oxfordaqa.com/wp-content/uploads/2026/07/oxfordaqa-gcse-chemistry-specification.pdf).

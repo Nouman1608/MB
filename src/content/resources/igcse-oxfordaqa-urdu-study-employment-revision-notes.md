@@ -21,17 +21,17 @@ featured: false
 Condensed for the final weeks. For the full explanation, use the
 [Theme 3 study guide](/resources/igcse-oxfordaqa-urdu-study-employment/).
 
-## Four sub-topics, four vocabulary sets
+## Four topics, four vocabulary sets
 
-| Sub-topic | Core vocabulary focus |
+| Topic | Core vocabulary focus |
 |---|---|
-| **3.1 My Studies** | Subject names, opinions on subjects, timetables, the school day |
-| **3.2 Life at School/College** | Facilities, uniform, rules, comparing school experiences |
-| **3.3 Education Post-16** | Further/higher education routes, qualifications |
-| **3.4 Jobs, Careers, Ambitions** | Part-time jobs, professions, future intention language |
+| **Topic 1: My studies** | Subject names, opinions on subjects, timetables, the school day |
+| **Topic 2: Life at school/college** | Facilities, uniform, rules, comparing school experiences |
+| **Topic 3: Education post-16** | Further/higher education routes, qualifications |
+| **Topic 4: Jobs, career choices and ambitions** | Part-time jobs, professions, future intention language |
 
-Do not confuse 3.1 (subjects, opinions on them) with 3.2 (facilities, rules, routine) — reading
-tasks test this distinction directly by asking which sub-topic a detail belongs to.
+Topics 1 and 2 overlap in setting, so keep their vocabulary sets distinct: subjects and opinions on
+them for Topic 1, facilities, rules and routine for Topic 2.
 
 ## Why this theme is different from Themes 1 and 2
 
@@ -99,7 +99,7 @@ revised as an isolated final block.
 - Naming a subject or job with no opinion or reason attached — an easy lost opportunity for
   justification marks.
 - Answering a future-plans task using only the present tense.
-- Confusing "my studies" (3.1: subjects, opinions) with "life at school" (3.2: facilities, routine).
+- Mixing the vocabulary of "my studies" (subjects, opinions) and "life at school" (facilities, routine) so that neither is precise.
 - Losing verb agreement when switching from present-tense description to future-tense plans within
   the same response.
 - Giving a career ambition with no justification, when justification is what separates a strong
@@ -108,21 +108,21 @@ revised as an isolated final block.
 ## Building active, not passive, vocabulary
 
 Recognising future-tense and "would like to" forms when reading is not the same as producing them
-correctly and quickly in your own writing. For each sub-topic, practise producing full
+correctly and quickly in your own writing. For each topic, practise producing full
 sentences from memory rather than only matching vocabulary to translations, since the writing
 task requires active production under time pressure.
 
 ## Self-test
 
-1. Which two sub-topics are most often confused, and how do they differ?
+1. Which two topics of Theme 3 share a setting, and how does their vocabulary differ?
 2. Name two structures a Theme 3 task about career ambitions is likely to require.
 3. What two "layers" should you read for in a Theme 3 comprehension passage?
 4. Why is tense-switching a specific skill this theme develops?
 5. On which papers is Theme 3 assessed, and how many marks is each worth?
 
-**Answers:** 1. My Studies (3.1: subjects, opinions on them) and Life at School/College (3.2:
-facilities, rules, routine) — they are often confused because both concern school, but 3.1 is about
-subject content and opinions while 3.2 is about the physical and social environment. 2. Future tense
+**Answers:** 1. Topic 1, My studies (subjects, opinions on them), and Topic 2, Life at school/college
+(facilities, rules, routine) — both are set in school, but Topic 1 is about subject content and
+opinions while Topic 2 is about the physical and social environment. 2. Future tense
 and "would like to"/conditional structures, ideally paired with opinion-and-justification language.
 3. Stated facts (what is named) and expressed opinions or aspirations (why, or what is hoped for).
 4. Because many tasks require a present-tense description and a future-tense plan within the same

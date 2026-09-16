@@ -57,7 +57,7 @@ A **higher index means greater diversity** -- a larger number of species and/or 
 
 Caused by **mutation**, meiosis (crossing over and independent assortment) and random fertilisation.
 
-**Measuring genetic diversity:** compare the frequency of measurable characteristics, DNA base sequences, mRNA base sequences, or amino acid sequences. Sequence comparison is more accurate than observable characteristics, which are influenced by the environment as well as by genes.
+**Measuring genetic diversity (3.1.11.1):** compare the base sequence of DNA or of mRNA, the frequency of specific base sequences or alleles in populations, or the amino acid sequence of encoded proteins. Sequence comparison is more reliable than comparing observable characteristics, which are influenced by the environment as well as by genes (observable characteristics are not one of the specification's listed measures).
 
 *(The genetic bottleneck, founder effect and the natural selection content below are Unit 3 material, not part of Unit 1 — included here as forward references only.)*
 
@@ -118,4 +118,4 @@ d = 210 / 102 = 2.06
 4. Describe two methods used to measure genetic diversity within a species.
 5. Why is comparing DNA sequences more reliable than comparing appearance?
 
-**Answers:** 1. A group of organisms with similar characteristics that can interbreed to produce **fertile** offspring; without "fertile", different species such as horse and donkey would be classed as one. 2. Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species. 3. Greater diversity -- a larger number of species and/or a more even distribution of individuals between them. 4. Compare allele frequencies at specific gene loci between individuals (or the proportion of gene loci that are polymorphic); or compare DNA base sequences or amino acid sequences between individuals. 5. Appearance is influenced by the environment as well as by genes, and unrelated species can resemble each other through convergent evolution.
+**Answers:** 1. A group of organisms with similar characteristics that can interbreed to produce **fertile** offspring; without "fertile", different species such as horse and donkey would be classed as one. 2. Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species. 3. Greater diversity -- a larger number of species and/or a more even distribution of individuals between them. 4. Any two of the three 3.1.11.1 comparisons: the base sequence of DNA or mRNA; the frequency of specific base sequences or alleles in populations; the amino acid sequence of encoded proteins. 5. Appearance is influenced by the environment as well as by genes, and unrelated species can resemble each other through convergent evolution.
