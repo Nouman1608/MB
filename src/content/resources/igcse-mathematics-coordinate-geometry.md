@@ -22,8 +22,7 @@ This guide covers **Topic 3 Coordinate geometry**, for Cambridge
 IGCSE Mathematics 0580, 2025–2027 series. The Core subtopics (C3.1,
 C3.2, C3.3, C3.5, C3.6) are examined at all entry levels; the
 Extended-only subtopics (E3.4, E3.7, plus additions within E3.2,
-E3.3, E3.5) are required only for the Extended tier, needed for
-grades A*–C.
+E3.3, E3.5) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* and B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
 
 ## Where this fits in 0580
 

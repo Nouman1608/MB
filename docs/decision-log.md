@@ -11763,3 +11763,60 @@ None. No existing resource or data-layer record was edited.
 **Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; `validate-cross-board-integrity`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31. `check-duplicate-resource-scope`: the four pre-existing groups unchanged; the AQA GCSE Sociology allow-list entry is now unused because I366.1 gave `aqa-gcse-sociology-research-methods` its own sub-topic.
 
 **Open-count position after D-241 (for the audit to reconcile).** Round 19 leaves E914-E919 and I363-I368 for repair. 191 items closed here; I363.10, I363.21, I366.4 and I366.5 disputed with document quotations. Confirmed errors declared open: 0.
+
+## D-242 - Audit round 20 (Q401): E920, E921 and I369 closed (2026-09-16)
+
+**Trigger.** Round 20 (`docs/audit/2026-10-27-findings.md`, `15ce098`) checked the Cambridge board claims in U72 and the Cambridge items of I363, I365 and Q400 against 44 syllabus documents, re-read on `main` at 182db89 (after D-241). It recorded E920 (5 items), E921 (7 items in 13 files) and I369 (7 items). Q401 also upholds D-241's dispute of I363.10 and withdraws I363.11, I363.21, Q400.9, Q400.11, Q400.12 and Q400.13 (no change needed; D-241 had added the syllabus's overall 10-12 minute timing and the 'two or three general topics' wording to the 0539 Component 5 guide, which both stand as syllabus-true). D-241 itself is not yet verified.
+
+**How.** Two clusters under the common brief (each downloaded the Cambridge syllabus version the audit cited and quoted the section before editing, then fixed the family), then one adversarial reviewer over all 30 diffs, which also corrected new question wording in the two 9489 practice files.
+
+**Primary sources** (cambridgeinternational.org, each to its address block): 0455 2026 v2 (697154); 0580 2025-2027 v3; 0610 2026-2028 v3 (697203); 0680 2027-2029 v1; 0457 2025-2027 v2; 0715 2028 v2; 2281 2026 v2 (697295); 3247 2027 v1 (721463); 5014 2025-2026 v2 and update 722312; 7115 2026 v2 (697338); 9084 2026-2028 v2; 9489 2027-2029 v2 (718292) and update 726254; 9609 2026-2028 v2; 9699 2024-2026 v3; 9700 2025-2027 v1 (664560).
+
+### E920 - Content the syllabus contradicts
+
+| Item | Files | What changed / verified |
+|---|---|---|
+| E920.1 | `cambridge-igcse-economics-microeconomic-decision-makers.md` | Marginal cost removed from coverage, teaching and checklist. 0455 3.7.1: "Note: marginal cost is not required." (3.7.3: "marginal revenue is not required.") Coverage now lists TC, FC, VC, ATC, AFC, AVC and the four 3.7.5 objectives. No other 0455 file mentions marginal cost. |
+| E920.2 | `a-level-business-marketing-revision-notes.md` | Strategic marketing is Topic 8 (8.1 Marketing analysis, 8.2 Marketing strategy); Topic 9 is Operations management (9609 2026-2028). The study guide was already right. |
+| E920.3 | `igcse-biology-human-nutrition.md` | 7.5 Supplement 4 quoted as "Describe the structure of a villus", without the invented limitation; 7.5 Supplement 5 (capillaries and lacteals) as its own bullet; a dependent 'closed list' phrase reworded. |
+| E920.4 | `igcse-biology-human-nutrition.md` | Enzyme substrate/product pairs cited as 7.4 (Core 3; protease/acid pairing Supplement), not 7.1. |
+| E920.5 | `cambridge-o-level-environmental-management-agriculture.md` | Loam removed; the bullet now gives 3.1 soil composition ("particle size: sand, silt, clay") and 3.2 sandy/clay differences (air, water, drainage, ease of cultivation). 5014 names no loam; update 722312 changes availability only. |
+
+### E921 - Assessment statements the syllabus contradicts
+
+| Item | Files | What changed / verified |
+|---|---|---|
+| E921.1 | `igcse-mathematics-algebra-and-graphs.md`, `-coordinate-geometry.md`, `-geometry.md`, `-probability.md`, `-statistics.md`, `-transformations-and-vectors.md`, `-trigonometry.md` | Each now says Extended candidates are eligible for A* to E and Core for C to G, so A* and B need the Extended tier, and that the syllabus advises Extended for learners aiming at A* to C (0580 v3 pp.8-9 says both). All 28 files citing 0580 grepped; only these seven had the wording. |
+| E921.2 | `cambridge-a-level-law-exam-preparation.md` | Papers 3 and 4: Section A one scenario-based problem question from two (25 marks); Section B two essays from three (25 each) (9084 pp.27-28). Priority advice and checklist now include essay practice. |
+| E921.3 | `a-level-world-history-usa-practice.md`; sibling `a-world-history-modern-europe-practice.md` | Section B questions are now 30 marks, part (a) 10 and part (b) 20, with 1 hour 45 minutes for 60 marks and AO1/AO2 50% each (9489 p.68). Three original part (a) 'Explain why' questions with worked answers (Kansas-Nebraska Act 4.1, Progressive Movement 5.3, 1932 election 6.2); part (b) commands are the Paper 2 forms. The '45-minute answer', the one-question-per-topic claim and the 'Paper 1 style' Section A heading removed. Sibling: Paper 1 tariffs [10]/[30] → [15]/[25] (p.66); its 'splits not published' note corrected; Paper 2 command stems ('Explain three', 'Assess', a 20-mark 'Explain why') replaced with Paper 2 forms and the France (a) scheme rebuilt to fit [10]. |
+| E921.4 | `igcse-environmental-management-land-practice.md` | Both 0680 papers described from the syllabus (p.36): Paper 1 short-answer and structured questions with extended response on source material; Paper 2 adds data processing and analysis and fieldwork. Recommended case studies removed from the syllabus (changes page). |
+| E921.5 | `o-level-urdu-first-language-paper-2-texts-revision-notes.md` | Ghazal/nazm split dropped; 3247 Part 2 is "Two essay questions based on the prescribed set texts" (p.12). |
+| E921.6 | `igcse-global-perspectives-individual-report-practice.md`; siblings `global-perspectives-individual-report-revision-notes.md`, `igcse-cambridge-global-perspectives-individual-report.md`, `igcse-cambridge-global-perspectives-written-exam.md` | The five-skill answer is 0457's Individual Report list ("research, analysis, evaluation, reflection and communication"); the defect was 'throughout Global Perspectives'. Q3 now asks for the Individual Report's skills; the answer adds collaboration (Team Project) and that the Written Exam assesses research, analysis and evaluation. The same 'throughout' claim corrected in the three siblings. |
+| E921.7 | `cambridge-igcse-economics-microeconomic-decision-makers.md` | 'Largest content strand' → third of six topics, with eight sub-topics (3.1-3.8); Topic 2 has eleven. |
+
+### I369 - Loose descriptions
+
+| Item | Files | What changed / verified |
+|---|---|---|
+| I369.1 | `igcse-commerce-commercial-operations-practice.md` | Applying to the situation is AO2 Application; the reasoned judgement is AO3 Analysis and Evaluation (0715 2028). |
+| I369.2 | `cambridge-o-level-business-exam-preparation.md` | Both papers assess "content drawn from the entire syllabus"; all six 7115 topic areas listed. |
+| I369.3 | `a-level-law-criminal-law-practice.md`; sibling `a-level-law-criminal-law-revision-notes.md` | 9084 2.3.3 names no sentencing aims; the five are now given as commonly cited, not as the syllabus's list, in both files. |
+| I369.4 | `a-level-cambridge-sociology-globalisation-media-religion-revision-notes.md`; sibling `a-level-cambridge-sociology-globalisation-media-religion.md` | **Closed; the audit's premise partly corrected.** 9699 v3 does number its content 1-12 with decimal sub-topics (Paper 4: 7-8 Globalisation, 9-10 Media, 11-12 Religion; 7.1-12.3), but calls them neither units nor anything else. Both files now say 'twelve numbered content headings divided into decimal sub-topics'; the false 'no decimal sub-numbering' is removed. Durations, marks and weighting unchanged. |
+| I369.5 | `a-level-biology-enzymes-revision-notes.md`; sibling `a-level-biology-enzymes.md` | Paper 3 is the AS laboratory practical (2 h, 40 marks); Paper 5 is a written planning paper (1 h 15, 30 marks, no laboratory); question contexts may be outside the syllabus (9700). The guide had put these investigations in Paper 5 only. |
+| I369.6 | `igcse-mathematics-trigonometry.md` | Bearings: C4.3/E4.3 Scale drawings, noted in C6.2/E6.2; 3D problems in E6.6. The unsupported 'most heavily weighted topic' clause removed. |
+| I369.7 | `o-level-economics-basic-economic-problem-revision-notes.md`; sibling `the-basic-economic-problem.md` | `syllabusTopics` gains 1.4 Production possibility curve (PPC) diagrams (slug exists in `syllabus-topics.ts`); both descriptions now mention PPCs (2281 2026). |
+
+### Observations, not actioned
+
+- `cambridge-igcse-economics-microeconomic-decision-makers.md` teaches features of perfect competition; 0455 3.8.1: "Note: the theory of perfect and imperfect competition and diagrams are not required." Its coverage list also omits 3.3.3-3.3.4, 3.5.2-3.5.5 and 3.6.1-3.6.2.
+- `igcse-biology-human-nutrition.md` 7.4 lists a pH statement not in 7.4 and omits 7.4 Core 2 and 4 (where amylase, protease and lipase are secreted and act); L144 'Describe' where 7.5 Supplement 3 says 'Explain'; bile 'for lipase' where the syllabus says 'for chemical digestion'.
+- `cambridge-o-level-environmental-management-agriculture.md` 3.3-3.8 coverage still does not match 5014 (already recorded in D-241).
+- `a-level-biology-enzymes.md`: 'practical-based questions on this topic are common on both papers' is unsupported.
+- `igcse-physics-motion-forces-and-energy.md` L24, `igcse-physics-thermal-physics.md` L25, `igcse-physics-waves.md` L24: 'needed for grades A*-C'; 0625 Extended candidates are eligible for A* to G and Core for a maximum of C.
+- `a-world-history-modern-europe-practice.md` Paper 1 prints two sources (the real paper four); `a-level-world-history-international-1870-1945-practice.md` L60 calls Paper 2 'essay questions'.
+- `global-perspectives-individual-report-revision-notes.md` ~L89 'no fixed topic list to memorise' against the guide's topic list.
+- `igcse-mathematics-trigonometry.md` L31-34: the coordinate-geometry line-length link is Extended only (C3.4 Extended content only).
+
+**Validation.** All pass: `astro check` 0 errors; `validate:academic`; `validate-assessments`; `validate-cross-board-integrity`; build 2141 pages; `audit:all` 0 problems; cross-board regression; negative suite; API tests 31/31. `check-duplicate-resource-scope`: the four pre-existing groups only.
+
+**Open-count position after D-242.** Round 20 leaves E920, E921 and I369 for repair; all 19 items are closed here. D-241's 191 closures and 3 remaining disputes (I363.21 and I363.11 withdrawn by the audit; I363.10 upheld; I366.4, I366.5 outstanding) await the audit's read. Confirmed errors declared open: 0.

@@ -50,8 +50,8 @@ since agricultural practices affect both.
 - The environmental impact of agricultural inputs, including fertilisers and pesticides, on soil, water
   and wider ecosystems
 - Sustainable approaches to farming that reduce environmental harm while maintaining productive output
-- The relationship between soil type (loam, sandy and clayey soils) and the farming methods a given area
-  can support
+- Soils: their composition (3.1), soils as a medium for plant growth, and the differences between a sandy
+  and a clay soil in air content, water content, drainage and ease of cultivation (3.2)
 
 ## How to approach it
 

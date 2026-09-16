@@ -125,8 +125,8 @@ digestion.
   entering the duodenum, producing the alkaline conditions in which
   intestinal enzymes work best.
 
-The two enzyme tables (7.1's substrate/product pairs and 7.4's
-acid/alkaline protease pairing) are the highest-value pieces of recall
+The two enzyme tables (the substrate/product pairs in 7.4 Core and
+the acid/alkaline protease pairing in 7.4 Supplement) are the highest-value pieces of recall
 in this topic: examiners routinely present an unfamiliar enzyme name
 or context and expect the substrate-to-product logic to be applied
 rather than just memorised in isolation.
@@ -144,13 +144,17 @@ rather than just memorised in isolation.
 - Describe the small intestine's internal surface as being folded and
   covered with villi and microvilli, increasing the surface area for
   absorption.
-- Describe the structure of a villus, limited to a wall one cell thick
-  and a good blood supply, and explain the role of capillaries
-  (absorbing sugars and amino acids) and lacteals (absorbing fatty
-  acids and glycerol, as part of the lymphatic system).
+- Describe the structure of a villus. (The syllabus gives no limiting
+  list for this statement, so be ready to describe the features a
+  labelled diagram shows, such as the thin epithelium, the capillary
+  network and the central lacteal.)
+- Describe the roles of capillaries and lacteals in villi: capillaries
+  absorb sugars and amino acids into the blood, and lacteals (part of
+  the lymphatic system) absorb the products of fat digestion (fatty
+  acids and glycerol).
 
 Absorption is often the easiest sub-topic to secure full marks on
-because it has a short, closed list of structures -- but candidates
+because its content is short and specific -- but candidates
 lose marks by describing capillaries and lacteals as absorbing the
 same products. Learn the split (capillaries: sugars and amino acids;
 lacteals: fat digestion products) as a fixed pair, the same way

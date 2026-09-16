@@ -168,12 +168,13 @@ each.
 
 ## Where this leads at A Level
 
-Topic 9 (Strategic marketing) at A Level builds directly on this AS
-Level content rather than repeating it -- the 4Ps, segmentation and
+Topic 8 (Marketing) at A Level, covering 8.1 Marketing analysis and
+8.2 Marketing strategy, builds directly on this AS Level content
+rather than repeating it -- the 4Ps, segmentation and
 research skills covered here become the foundation for evaluating
 marketing strategy at a whole-business level later in the course.
 Keeping AS Level definitions and frameworks genuinely secure now
-avoids having to relearn them from scratch when Topic 9's more
+avoids having to relearn them from scratch when Topic 8's more
 evaluative content is introduced.
 
 ## Self-test

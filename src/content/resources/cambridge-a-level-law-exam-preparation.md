@@ -38,12 +38,15 @@ priority**: because Paper 2 has fewer marks over the same 1 hour 30 minutes as P
 per mark on Paper 2's problem questions -- plan accordingly rather than assuming identical pacing across
 both AS papers.
 
-## Contract and Tort both reward the same applied-problem technique
+## Contract and Tort share one structure: a problem question plus two essays
 
-Papers 3 and 4 are both problem-based: applying legal rules to a fact scenario rather than describing
-law in the abstract. **Exam-preparation priority**: the analytical structure that works for Contract
-problem questions transfers directly to Tort -- practise the technique once, thoroughly, and apply it
-across both papers rather than treating them as needing separate approaches.
+Papers 3 and 4 are built the same way. Section A is one scenario-based problem question chosen from a
+choice of two (25 marks), where you apply legal rules to a fact scenario; Section B is two essays from a
+choice of three (25 marks each), where you use the law to support an analytical, evaluative argument.
+**Exam-preparation priority**: the analytical structure that works for a Contract problem question
+transfers directly to a Tort one -- practise the technique once, thoroughly, and apply it across both
+papers -- but give essay practice in both areas equal attention, since Section B carries 50 of each
+paper's 75 marks.
 
 ## Case citation precision is examined across all four papers
 
@@ -93,7 +96,7 @@ the scenario's own specific facts earns far less credit than the same rule appli
 
 - **Before the exams**: revise all four papers to comparable depth, since none outweighs another; build
   a named-case bank per topic; practise the problem-question structure once and apply it consistently
-  across Contract and Tort.
+  across Contract and Tort, alongside essay practice for both papers' Section B.
 - **During any paper**: identify the precise legal issue before stating any rule.
 - **In every problem answer**: name a case as authority for every rule, apply it to the scenario's own
   facts, and reach a conclusion specific to those facts.

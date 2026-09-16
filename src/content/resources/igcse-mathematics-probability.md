@@ -22,7 +22,7 @@ This guide covers **Topic 8 Probability**, for Cambridge IGCSE
 Mathematics 0580, 2025–2027 series. The Core subtopics (C8.1–C8.3)
 are examined at all entry levels; the Extended-only content (E8.1
 additions, E8.3 additions, and E8.4, which has no Core equivalent) is
-required only for the Extended tier, needed for grades A*–C.
+required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* and B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
 
 ## Where this fits in 0580
 

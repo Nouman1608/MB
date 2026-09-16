@@ -54,9 +54,11 @@ approximated under time pressure.
 
 ## Both papers share the same underlying content, examined two different ways
 
-Paper 1 and Paper 2 are not separate content areas -- the same syllabus topics (business activity,
-finance, marketing, people in business) are examined twice, once through short-answer/data-response
-questions and once through sustained case application. **Exam-preparation priority**: content revision
+Paper 1 and Paper 2 are not separate content areas -- the syllabus states that each paper "assesses
+content drawn from the entire syllabus", so all six topic areas (understanding business activity, people
+in business, marketing, operations management, financial information and decisions, and external
+influences on business activity) are examined twice, once through short-answer/data-response questions
+and once through sustained case application. **Exam-preparation priority**: content revision
 does not need duplicating between the two papers, but technique practice does -- the same topic knowledge
 must be rehearsed in both the concise short-answer style and the sustained case-application style before
 either paper.

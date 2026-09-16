@@ -52,7 +52,8 @@ Condensed, exam-focused notes for Topic 2 of Cambridge AS & A Level Law (9084), 
 - **Adult offenders**: custodial, community, fines, discharges — and the factors courts weigh between
   them.
 - **Young offenders**: custodial and community options, plus the role of parental responsibility.
-- **Aims of sentencing** (punishment, deterrence, rehabilitation, public protection, reparation) assessed
+- **Aims of sentencing**: what sentences are trying to achieve (the syllabus names no list; commonly cited
+  aims include punishment, deterrence, rehabilitation, public protection and reparation), assessed
   separately for adults and young offenders — the two systems don't weight these aims identically.
 
 ## Assessment objectives on Paper 2

@@ -119,5 +119,7 @@ Question 4 illustrates the ownership-progression habit the study guide recommend
 sole trader, to partnership, to private limited company as a connected sequence makes the
 advantages-and-disadvantages comparisons far easier to recall under pressure than memorising each
 form in isolation. Every scenario question above also rewards justifying an answer against the
-specific business situation given, rather than listing general features — exactly the AO3 application
-skill the study guide identifies as central to Paper 2's structured questions on this topic. When practising further scenarios from past papers, check whether a question is really asking you to classify something correctly (Paper 1 style) or to justify a recommendation against a described business situation (Paper 2 style), since the two question types reward different kinds of answer even when they draw on the same underlying content across the full range of 2.1 to 2.6.
+specific business situation given, rather than listing general features. In the 0715 assessment
+objectives, applying knowledge to that situation is AO2 (Application), and the reasoned judgement or
+recommendation built on it is AO3 (Analysis and Evaluation), the split the study guide describes for
+Paper 2's structured questions on this topic. When practising further scenarios from past papers, check whether a question is really asking you to classify something correctly (Paper 1 style) or to justify a recommendation against a described business situation (Paper 2 style), since the two question types reward different kinds of answer even when they draw on the same underlying content across the full range of 2.1 to 2.6.

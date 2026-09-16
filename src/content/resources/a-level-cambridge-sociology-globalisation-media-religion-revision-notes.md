@@ -24,11 +24,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 ## Format at a glance
 
-Paper 4, **A-Level only** (not AS). 1h45m, 70 marks, 29% of the full A Level. Three named sections, each built from two of the syllabus's twelve content units (no decimal sub-numbering); candidates answer **two essay questions in total, each from a different section**, 35 marks each.
+Paper 4, **A-Level only** (not AS). 1h45m, 70 marks, 29% of the full A Level. Three named sections, one per Paper 4 topic area, each built from two of the syllabus's twelve numbered content headings, which are divided into decimal sub-topics (7.1, 7.2 and so on); candidates answer **two essay questions in total, each from a different section**, 35 marks each.
 
-- **Section A: Globalisation** (Units 7-8) — causes and consequences for societies, culture and identity.
-- **Section B: Media** (Units 9-10) — role/influence of media, including relationship to identity, culture, social control.
-- **Section C: Religion** (Units 11-12) — role of religion in society; sociological explanations for belief, organisation and change.
+- **Section A: Globalisation** (7 Key debates, concepts and perspectives; 8 Contemporary issues) — perspectives on globalisation, identity, power and politics; poverty and inequalities, migration and crime.
+- **Section B: Media** (9 Ownership and control of media; 10 Media representation and effects) — traditional and new media, theories of the media and influences on content, the impact of new media; representations, models of media effects, impact on behaviour.
+- **Section C: Religion** (11 Religion and social order; 12 The influence of religion) — religion and society, social order and social change; secularisation, gender and feminism, post-modernity.
 
 ## Strategy for "2 of 3"
 

@@ -22,8 +22,7 @@ This guide covers **Topic 6 Trigonometry**, for Cambridge IGCSE
 Mathematics 0580, 2025–2027 series. The Core subtopics (C6.1–C6.2)
 are examined at all entry levels; the Extended-only subtopics
 (E6.2 additions, plus E6.3, E6.4, E6.5 and E6.6, none of which have
-a Core equivalent) are required only for the Extended tier, needed
-for grades A*–C.
+a Core equivalent) are required only for the Extended tier. Extended candidates are eligible for grades A* to E and Core candidates for grades C to G, so grades A* and B need the Extended tier (the syllabus advises Extended for anyone aiming at grades A* to C).
 
 ## Where this fits in 0580
 
@@ -32,11 +31,13 @@ directly on two earlier topics: Number's work with ratio and
 decimals, and Geometry's angle facts and constructions. Coordinate
 geometry's gradient work (Topic 3) also resurfaces here, since a
 right-angled triangle drawn between two coordinates is the usual
-route to finding a line's length. At Extended tier, Trigonometry is
-one of the most heavily weighted single topics in the syllabus,
-because it recurs inside Mensuration (3D solids), Vectors and
-Transformations (bearings-style problems) and Geometry (circle and
-triangle problems combined with trig).
+route to finding a line's length. Bearings link it to Geometry:
+three-figure bearings are taught in C4.3/E4.3 Scale drawings, and the
+notes to C6.2/E6.2 say that knowledge of bearings may be required when
+solving two-dimensional problems with Pythagoras' theorem and
+trigonometry. At Extended tier, E6.6 extends these methods to three
+dimensions, including the angle between a line and a plane, so
+familiarity with 3D solids from Mensuration helps.
 
 ## Syllabus coverage
 

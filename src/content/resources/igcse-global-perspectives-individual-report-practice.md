@@ -36,7 +36,7 @@ whether the bibliography is included in this count. **[2]**
 **2.** State what percentage of the qualification Component 2 carries,
 and whether it is internally or externally marked. **[2]**
 
-**3.** Name the five skills assessed throughout Global Perspectives. **[5]**
+**3.** Name the five skills on which candidates are assessed in the Individual Report. **[5]**
 
 ## Section B
 
@@ -101,7 +101,9 @@ candidate devises the research question and title themselves, with
 the teacher's role limited to guiding its feasibility [1].
 
 **3.** Research, analysis, evaluation, reflection, and communication
-[5].
+[5]. (The syllabus names a sixth skill, collaboration, which is
+assessed in the Team Project; the Written Exam assesses research,
+analysis and evaluation only.)
 
 **4. (a)** "Deforestation" is a broad topic title with no built-in
 place, specific issue, or perspectives, so it gives no structure for

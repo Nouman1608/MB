@@ -77,7 +77,7 @@ and 2027 —
 
 ## What the written paper actually tests
 
-Global Perspectives is assessed on **skills**, not on remembered content. The paper supplies unseen source material and asks you to work with it. The skills are usually grouped as research, analysis, evaluation, reflection and communication — and the marks follow the skill, not the topic.
+Global Perspectives is assessed on **skills**, not on remembered content. The paper supplies unseen source material and asks you to work with it. The syllabus names the skills as research, analysis and evaluation, reflection, communication and collaboration; the Written Exam assesses research, analysis and evaluation — and the marks follow the skill, not the topic.
 
 That has a practical consequence: revising "facts about climate change" is largely wasted effort. Practising the *moves* — identifying a perspective, testing evidence, weighing a source — is what raises the grade.
 

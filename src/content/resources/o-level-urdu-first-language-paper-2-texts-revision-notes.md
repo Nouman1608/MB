@@ -142,7 +142,9 @@ Stronger approach: Quickly identifying which prescribed article each
 ```
 
 This same selection logic applies equally to the Part 2 Poetry
-choice between a ghazal-based and nazm-based question.
+choice: the syllabus sets two essay questions on the prescribed poetry
+set texts and does not divide them into ghazal and nazm questions, so
+check which prescribed poems each question draws on before choosing.
 
 ## Exam traps
 

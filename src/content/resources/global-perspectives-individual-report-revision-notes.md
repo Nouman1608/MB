@@ -27,10 +27,12 @@ An internally set, **externally marked**, **1500-2000 word** report (excluding b
 **30%** of the qualification, on a global issue of the candidate's own choosing — entirely the
 candidate's own independent work.
 
-## Five skills, always the same
+## Five skills assessed in this component
 
-Research, analysis, evaluation, reflection, communication — the same five skills Global Perspectives
-assesses throughout the qualification, applied here to independent, candidate-led research.
+Research, analysis, evaluation, reflection, communication — the five skills the syllabus assesses in the
+Individual Report, applied here to independent, candidate-led research. The syllabus's full set adds
+collaboration, which is assessed in the Team Project; the Written Exam assesses research, analysis and
+evaluation only.
 
 ## Build the question, not the topic
 
@@ -130,7 +132,7 @@ country chosen.
 
 1. What is the word count range for the Individual Report (excluding bibliography)?
 2. What percentage of the qualification does Component 2 carry?
-3. Name the five skills assessed throughout Global Perspectives.
+3. Name the five skills assessed in the Individual Report.
 4. In what order should the report's four sections be structured?
 5. What must an evaluation of a source state, beyond just citing it?
 

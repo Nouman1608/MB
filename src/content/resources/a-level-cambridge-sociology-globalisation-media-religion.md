@@ -49,29 +49,30 @@ or evidence.
 **CAMBRIDGE A LEVEL SOCIOLOGY (9699) — PAPER 4: GLOBALISATION, MEDIA
 AND RELIGION**
 
-This syllabus numbers its content as twelve units running straight
-through the whole qualification, with no decimal sub-numbering.
-Paper 4 draws on units seven to twelve, two units per named section:
+This syllabus numbers its subject content with twelve headings running
+straight through the whole qualification, each divided into decimal
+sub-topics (for example 7.1 Perspectives on globalisation). Paper 4
+draws on headings 7 to 12, two per named section:
 
-- **Section A: Globalisation** — Unit 7 *Key debates, concepts and
+- **Section A: Globalisation** — 7 *Key debates, concepts and
 perspectives* (perspectives on globalisation; globalisation and
-identity; globalisation, power and politics) and Unit 8 *Contemporary
+identity; globalisation, power and politics) and 8 *Contemporary
 issues* (globalisation, poverty and inequalities; globalisation and
 migration; globalisation and crime)
-- **Section B: Media** — Unit 9 *Ownership and control of media*
+- **Section B: Media** — 9 *Ownership and control of media*
 (traditional media and the new media; theories of the media and
-influences on media content; the impact of the new media) and Unit 10
+influences on media content; the impact of the new media) and 10
 *Media representation and effects* (media representations of class,
 gender, ethnicity and age groups; different models of media effects;
 the impact of the media on behaviour)
-- **Section C: Religion** — Unit 11 *Religion and social order*
+- **Section C: Religion** — 11 *Religion and social order*
 (religion and society; religion and social order; religion as a
-source of social change) and Unit 12 *The influence of religion* (the
+source of social change) and 12 *The influence of religion* (the
 secularisation debate; gender, feminism and religion; religion and
 post-modernity)
 
 The lettered sections (A/B/C) are how the paper itself is structured;
-the unit numbers (7-12) are how the syllabus numbers its content —
+the heading numbers (7-12) are how the syllabus numbers its content —
 the two are separate systems and should not be conflated.
 
 ## How to approach it

@@ -86,9 +86,14 @@ question wants 3.1 content; a "what affects the rate" question wants 3.2 — don
 
 ## Practical assessment note
 
-Paper 5 draws directly on this topic's practicals: catalase/amylase rate measurement, colorimetry,
-immobilised enzymes in alginate. Be able to state the method, the controlled variables, and the
-expected shape of a rate-against-factor graph for each — not just the underlying theory.
+This topic's investigations (catalase/amylase rate measurement, colorimetry, immobilised enzymes in
+alginate) are preparation for the practical skills assessed in two papers. **Paper 3** (Advanced
+Practical Skills, 40 marks) is the timetabled laboratory practical paper, an AS Level component. **Paper 5**
+(Planning, Analysis and Evaluation, 30 marks) is a written paper taken for the full A Level, needs no
+laboratory facilities, and tests planning, analysis, conclusions and evaluation. In both papers the
+context of a question may be outside the syllabus content, so these investigations will not
+necessarily be the ones set. Be able to state the method, the controlled variables, and the expected
+shape of a rate-against-factor graph for each — not just the underlying theory.
 
 ## Why this topic follows straight on from Biological molecules
 

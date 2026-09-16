@@ -27,8 +27,8 @@ describe.
 
 ## Where this fits in 0455
 
-Microeconomic decision makers is the largest content strand of the six that make up 0455, spanning money
-and banking through to how firms compete in different market structures. It builds directly on the supply
+Microeconomic decision makers is the third of the six topics that make up 0455, with eight sub-topics
+(3.1 to 3.8) spanning money and banking through to how firms compete in different market structures. It builds directly on the supply
 and demand analysis from Topic 2, applying it to specific real-world actors and institutions rather than
 markets in the abstract.
 
@@ -45,8 +45,9 @@ markets in the abstract.
 - Firms: reasons for different sizes and types of firms, and reasons why firms grow
 - Firms' production: the difference between production and productivity, and the different factors of
   production
-- Firms' costs, revenue and objectives: fixed and variable costs, average and marginal cost, revenue, and
-  the objectives firms pursue (typically profit maximisation)
+- Firms' costs, revenue and objectives: total, fixed and variable costs, average total, average fixed and
+  average variable costs (marginal cost is not required), total and average revenue (marginal revenue is not
+  required), and the objectives of firms: survival, social welfare, profit maximisation and growth
 - Market structure: the features of perfect competition and monopoly, and the implications of monopoly for
   consumers and the economy
 
@@ -79,9 +80,11 @@ working conditions.
 Production refers to the total output a firm creates, while productivity refers to output per unit of
 input (for example, output per worker) -- a firm can increase production simply by hiring more workers
 without necessarily becoming more productive. Fixed costs do not change with the level of output (such as
-rent), while variable costs rise and fall with output (such as raw materials). Average cost is total cost
-divided by output, while marginal cost is the cost of producing one additional unit -- a distinction
-commonly tested by asking candidates to identify which type of cost has changed in a given scenario.
+rent), while variable costs rise and fall with output (such as raw materials). Total cost is fixed cost
+plus variable cost; average total cost is total cost divided by output, and average fixed cost and average
+variable cost divide fixed cost and variable cost by output in the same way. Questions commonly ask
+candidates to identify which type of cost has changed in a given scenario. Marginal cost is not required
+for 0455: the syllabus guidance for 3.7.1 says so explicitly.
 
 ## Money and banking, briefly
 
@@ -123,8 +126,9 @@ naming the specific methods (such as collective bargaining) unions use to pursue
 
 ## Quick revision checklist
 
-- Be able to define fixed cost, variable cost, average cost and marginal cost, and identify each in a
-  given scenario.
+- Be able to define and calculate total cost, fixed cost, variable cost, average total cost, average
+  fixed cost and average variable cost, and identify each in a given scenario (marginal cost is not
+  required).
 - Explain how labour demand and supply interact to determine a wage rate.
 - Compare perfect competition and monopoly across number of firms, price control, barriers to entry, and
   consumer choice.
