@@ -110,7 +110,31 @@ const officialSyllabuses = d.boards
 const correctionHref = `${routes.reportCorrection}?page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
 const alignedToParts = [...boardNames, ...qualificationNames, subject?.data.title].filter(Boolean) as string[];
 let alignedToText = `Aligned to ${alignedToParts.join(' ')}`;
-if (d.syllabusCodes.length > 0) alignedToText += ` (${d.syllabusCodes.join(', ')})`;
+/**
+ * Audit I357 fix (D-237): a resource may declare a second code that belongs to a
+ * different qualification sharing its board/qualification/subject records -- e.g. an
+ * AQA GCSE Physics resource that also declares 8464, AQA GCSE Combined Science:
+ * Trilogy. Listing that code inside the "AQA GCSE Physics (...)" parentheses
+ * presented it as a Physics code. When a resource declares more than one code, any
+ * code whose own syllabuses.ts record is for the same qualification level (e.g. both
+ * GCSE) but carries a different official title from the record of the first declared
+ * code is named under that title instead. Codes for a different level (e.g. 0620 IGCSE
+ * with 5070 O Level) are already named by the qualification list and stay in brackets. Single-code
+ * resources and codes without a distinct record render exactly as before.
+ */
+const recordForCode = (code: string) => d.boards
+  .flatMap((b) => d.qualifications.map((q) => syllabusFor(b, q, d.subject.id, [code])))
+  .find((s) => s?.code === code);
+const primaryRecord = d.syllabusCodes.length > 1 ? recordForCode(d.syllabusCodes[0]) : undefined;
+const ownCodes: string[] = [];
+const otherQualificationTitles: string[] = [];
+for (const code of d.syllabusCodes) {
+  const rec = primaryRecord ? recordForCode(code) : undefined;
+  if (primaryRecord && rec && rec.qualificationSlug === primaryRecord.qualificationSlug && rec.officialTitle !== primaryRecord.officialTitle) otherQualificationTitles.push(rec.officialTitle);
+  else ownCodes.push(code);
+}
+if (ownCodes.length > 0) alignedToText += ` (${ownCodes.join(', ')})`;
+if (otherQualificationTitles.length > 0) alignedToText += ` and ${otherQualificationTitles.join(' and ')}`;
 if (d.syllabusSeries) alignedToText += `, ${d.syllabusSeries}`;
 alignedToText += '.';
 

@@ -11319,3 +11319,29 @@ None.
 - cross-board regression
 
 **Open-count position after D-236, as this log reads it (for the audit to reconcile).** Round 12's 110 are all closed: 109 in D-235 and E485 here. **Still open: none.**
+
+## D-237 - Audit round 14 (Q391): I356 and I357 closed (2026-09-16)
+
+**Trigger.** Round 14 (`docs/audit/2026-10-21-findings.md`, `22b8399`) verified all 110 round-12 closures in D-235 and D-236. It also recorded two low-priority inconsistencies found during verification. It corrected its own round-12 E451 residue: 9670 Section B is one task from a choice of two, as D-235 reported. No confirmed error is declared open.
+
+### Closed -- fixed and verified
+
+| ID | Files | What changed / verified |
+|---|---|---|
+| I356 | `igcse-oxfordaqa-business-influences-on-business.md` | The description listed five influences as "the six". It now reads "Technology, ethics and the environment, the economic climate, globalisation, legislation and the competitive environment -- the six external influences…", matching the guide's own opening (L23-25). Family checked: every 9225 file was grepped for an influences count. `igcse-oxfordaqa-business-influences-revision-notes.md` says "Six influences" and is consistent. |
+| I357 | `src/pages/resources/[slug].astro` | The "Aligned to" line put every declared code inside the board/qualification/subject parentheses, so 8464 appeared as a GCSE Physics code. The new rule applies only when a resource declares more than one code. Any code whose own `syllabuses.ts` record is for the same qualification level as the first declared code, but carries a different official title, is named under that title. Result: "Aligned to AQA GCSE Physics (8463) and AQA GCSE Combined Science: Trilogy (8464), For first teaching 2016." on both energy-resources files. **Regression check:** all 64 resources declaring more than one code were rebuilt and their lines read. Only these two changed. The 0620/5070 pair (different qualification levels, already named) and OxfordAQA "9625 / 9725" (one combined record) render exactly as before. Single-code resources are untouched. |
+
+### Deferred / Already correct
+
+None.
+
+**Validation.** All pass:
+
+- `astro check`: 0 errors
+- `validate:academic`
+- build: 2128 pages
+- `audit:all`: 0 problems
+- cross-board regression
+- API tests: 31/31
+
+**Open-count position after D-237 (for the audit to reconcile).** Confirmed errors declared open: 0. I356 and I357 are closed. D-235's "Observations, not actioned" remain unverified leads, which the audit has said it will read before recording anything; no repair action has been taken on them.

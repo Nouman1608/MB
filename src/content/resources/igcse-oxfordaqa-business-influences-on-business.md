@@ -12,7 +12,7 @@ order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "influences-on-business-oxfordaqa-igcse-business"
-description: "Technology, ethics and the environment, the economic climate, globalisation and legislation -- the six external influences studied in Topic 2 of OxfordAQA International GCSE Business (9225)."
+description: "Technology, ethics and the environment, the economic climate, globalisation, legislation and the competitive environment -- the six external influences studied in Topic 2 of OxfordAQA International GCSE Business (9225)."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
