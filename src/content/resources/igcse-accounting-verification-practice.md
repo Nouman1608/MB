@@ -7,31 +7,32 @@ topic: "Verification of accounting records"
 boards: ["cambridge"]
 qualifications: ["igcse"]
 syllabusCodes: ["0452"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "verification-of-accounting-records"
-description: "Exam-style questions with full worked answers on the trial balance, the six error types, suspense accounts, bank reconciliation, and control accounts, for Cambridge IGCSE Accounting (0452) Topic 3."
+description: "Exam-style questions with full worked answers on the trial balance, the six error types, suspense accounts, bank reconciliation, control accounts and digital records, for Cambridge IGCSE Accounting (0452) Topic 3, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2026 (version 2), whose final exam
-> series is November 2026. Candidates sitting 0452 from 2027 onwards,
-> including the March series in India, sit the syllabus for 2027, 2028 and
-> 2029, which differs in ways this page does not yet reflect: Paper 1 rises
-> from 35 to 40 multiple-choice marks and from 1 hour 15 minutes to 1 hour
-> 30 minutes; Topic 7 is retitled "Accounting concepts and modern practice"
-> and adds 7.2 Ethical considerations and 7.3 Technology and sustainability;
-> 4.4 becomes "Irrecoverable debts and allowance for irrecoverable debts";
-> statements of profit or loss replace income statements; ledger accounts
-> may be presented in three-column running balance format; and Manufacturing
-> accounts and Clubs and societies swap places as 5.4 and 5.5. If you sit
-> 0452 in 2027 or later, work from the current syllabus on the Cambridge
-> International website.
+> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> first examined in the March 2027 series in India and the June 2027 series
+> elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
+> (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
+> 15 minutes, not 40 marks in 1 hour 30 minutes; Topic 7 is "Accounting
+> principles and policies", without 7.2 Ethical considerations or 7.3
+> Technology and sustainability; 4.4 is "Irrecoverable debts and provision
+> for doubtful debts"; income statements are named instead of statements of
+> profit or loss; three-column running balance accounts are not required;
+> Clubs and societies is 5.4 and Manufacturing accounts 5.5; and 6.3 is
+> "Inter-firm comparison". For this topic, the 2026 syllabus also lists dividends
+> among the cash book updates, and it does not include the impact of digital
+> transactions on bank reconciliation or on control accounts. If you sit in November 2026, work from the
+> 2026 syllabus on the Cambridge International website.
 
 > These are original practice questions written in the style of Cambridge IGCSE
 > Accounting (0452) assessment objectives. They are not taken from any past paper
@@ -102,6 +103,14 @@ irrecoverable debts written off. **[1]**
 **10.** A student writes: "As long as my trial balance balances, I
 know my accounts are correct." Explain, with reference to at least two
 named error types, why this statement is not always true. **[4]**
+
+**11.** A business now receives most customer payments by bank transfer
+and records all its credit sales in accounting software.
+
+**(a)** Explain one way this is likely to affect its bank reconciliation.
+**[2]**
+**(b)** State one advantage and one limitation of producing the sales
+ledger control account from digital records. **[2]**
 
 ---
 
@@ -177,6 +186,18 @@ correct amount [2]. Similarly, a compensating error — where two
 unrelated errors happen to cancel each other out — also leaves the
 trial balance balanced, even though two separate mistakes have been
 made [2].
+
+**11. (a)** Any one explained, for example: bank transfers clear
+quickly, so there are fewer timing differences such as unpresented
+cheques [1], making the reconciliation shorter and differences easier to
+investigate [1]; or items such as bank charges and direct debits still
+reach the bank statement before the cash book [1], so the cash book must
+still be updated and reconciled [1].
+**(b)** Advantage, any one: the control account totals are produced
+automatically and can be up to date at any time; fewer arithmetic
+errors in the totals [1]. Limitation, any one: an input error such as a
+wrong amount or wrong customer is not detected; the records depend on
+the system working and being backed up [1].
 
 ## A note on exam technique for this topic
 

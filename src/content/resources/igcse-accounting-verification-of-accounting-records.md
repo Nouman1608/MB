@@ -7,35 +7,36 @@ topic: "Verification of accounting records"
 boards: ["cambridge"]
 qualifications: ["igcse"]
 syllabusCodes: ["0452"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "verification-of-accounting-records"
-description: "The trial balance, correction of errors, bank reconciliation and control accounts -- the four checking mechanisms of Topic 3 for Cambridge IGCSE Accounting 0452, 2026 series."
+description: "The trial balance, correction of errors, bank reconciliation and control accounts -- the four checking mechanisms of Topic 3 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-02
 featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2026 (version 2), whose final exam
-> series is November 2026. Candidates sitting 0452 from 2027 onwards,
-> including the March series in India, sit the syllabus for 2027, 2028 and
-> 2029, which differs in ways this page does not yet reflect: Paper 1 rises
-> from 35 to 40 multiple-choice marks and from 1 hour 15 minutes to 1 hour
-> 30 minutes; Topic 7 is retitled "Accounting concepts and modern practice"
-> and adds 7.2 Ethical considerations and 7.3 Technology and sustainability;
-> 4.4 becomes "Irrecoverable debts and allowance for irrecoverable debts";
-> statements of profit or loss replace income statements; ledger accounts
-> may be presented in three-column running balance format; and Manufacturing
-> accounts and Clubs and societies swap places as 5.4 and 5.5. If you sit
-> 0452 in 2027 or later, work from the current syllabus on the Cambridge
-> International website.
+> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> first examined in the March 2027 series in India and the June 2027 series
+> elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
+> (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
+> 15 minutes, not 40 marks in 1 hour 30 minutes; Topic 7 is "Accounting
+> principles and policies", without 7.2 Ethical considerations or 7.3
+> Technology and sustainability; 4.4 is "Irrecoverable debts and provision
+> for doubtful debts"; income statements are named instead of statements of
+> profit or loss; three-column running balance accounts are not required;
+> Clubs and societies is 5.4 and Manufacturing accounts 5.5; and 6.3 is
+> "Inter-firm comparison". For this topic, the 2026 syllabus also lists dividends
+> among the cash book updates, and it does not include the impact of digital
+> transactions on bank reconciliation or on control accounts. If you sit in November 2026, work from the
+> 2026 syllabus on the Cambridge International website.
 
 This guide covers **Topic 3 Verification of accounting records**, for
-Cambridge IGCSE Accounting 0452, 2026 series (Version 2, published
-December 2025). It is the third of seven topics, and unlike Topics 1
+Cambridge IGCSE Accounting 0452, syllabus for exams in 2027, 2028 and
+2029 (Version 1). It is the third of seven topics, and unlike Topics 1
 and 2, which teach how to record transactions, Topic 3 is entirely
 about checking that recording has been done correctly.
 
@@ -54,37 +55,38 @@ evidence that the records are correct.
 
 **CAMBRIDGE IGCSE ACCOUNTING (0452) — TOPIC 3: VERIFICATION OF ACCOUNTING RECORDS**
 
-- **3.1 The trial balance** — a trial balance lists every ledger
-account balance in debit and credit columns; if double entry has been
-applied consistently, the two column totals agree. A trial balance that
-balances gives confidence that debits and credits are equal overall,
-but cannot detect errors that affect both sides equally or that omit a
-transaction entirely.
-- **3.2 Correction of errors** — some errors do not prevent the trial
-balance from balancing at all: errors of omission (a transaction left
-out entirely), commission (posted to the correct type of account but
-the wrong specific account), principle (posted to the wrong type of
-account altogether), original entry (the wrong amount entered
-consistently on both sides), complete reversal (debit and credit
-entries swapped), and compensating errors (two unrelated errors that
-happen to cancel out). Where an error does cause an imbalance, a
-**suspense account** is opened temporarily to hold the difference until
-the error is found and corrected, usually via journal entries.
-- **3.3 Bank reconciliation** — a business's own cash book balance and
-the balance shown on its bank statement often differ at any given
-moment, typically because of unpresented cheques (recorded in the
-cash book but not yet cleared by the bank) and outstanding lodgements
-(deposits recorded in the cash book but not yet credited by the bank),
-alongside bank charges or standing orders the business may not yet have
-recorded. A bank reconciliation statement explains this difference and
-confirms that both figures are, once timing differences are accounted
-for, consistent.
-- **3.4 Control accounts** — a sales ledger control account and a
-purchases ledger control account summarise the total of many
-individual customer or supplier accounts in one place, acting as an
-independent check on the accuracy of the (much more detailed) personal
-ledgers, and helping to localise errors more quickly than checking
-every individual account by hand.
+- **3.1 The trial balance** — the purposes and limitations of a trial
+balance; preparing one from a list of balances and amending one that
+contains errors; the types of error that do not affect it: commission
+(correct type of account, wrong specific account), compensating (two
+unrelated errors that cancel out), complete reversal (debit and credit
+entries swapped), omission (a transaction left out entirely), original
+entry (the wrong amount entered on both sides) and principle (the wrong
+type of account altogether). A trial balance that balances shows that
+debits and credits are equal overall, but it cannot detect these six.
+- **3.2 Corrections of errors** — correcting errors by journal entries;
+using a **suspense account** as a temporary measure to balance the
+trial balance when an error does cause an imbalance, and correcting
+errors through it; adjusting the profit or loss for the period after
+the corrections; and the effect of the corrections on the statement of
+financial position.
+- **3.3 Bank reconciliation** — the use and purpose of a bank statement;
+updating the cash book for items first seen on the statement (bank
+charges, bank interest paid and received, correction of errors, credit
+transfers, direct debits and standing orders); preparing a bank
+reconciliation statement for the differences that remain: unpresented
+cheques, uncredited deposits (also called outstanding lodgements) and
+bank errors; and the impact of digital business transactions on the
+reconciliation process.
+- **3.4 Control accounts** — the purposes of sales ledger and purchases
+ledger control accounts; the books of prime entry as the sources of
+their entries; preparing them with credit sales and purchases, receipts
+and payments, cash discounts, returns, irrecoverable debts, dishonoured
+cheques, interest on overdue accounts, contra entries, refunds, and
+opening and closing debit and credit balances; and the impact of
+digital recording on how control accounts are prepared and used.
+Candidates do not need to reconcile control account balances with the
+sales and purchases ledger balances.
 
 ## How to approach it
 
@@ -93,11 +95,11 @@ same underlying question -- "how do we know the records are right?" --
 revise them side by side rather than in isolation, and be explicit
 about what each technique can and cannot catch. The trial balance
 catches arithmetic imbalance but not misclassification; correction of
-errors handles the specific error types that a trial balance cannot
-detect on its own; bank reconciliation checks cash records specifically
-against an independent external source (the bank); and control accounts
-check the personal ledgers specifically against the general ledger
-totals. Practising the classification of a described error into its
+errors puts right both the errors a trial balance cannot detect and
+those that unbalance it; bank reconciliation checks cash records
+against an independent external source (the bank); and control
+accounts give an independent total for the sales and purchases
+ledgers, built from the books of prime entry. Practising the classification of a described error into its
 correct category (omission, commission, principle, original entry,
 reversal or compensating) before attempting the correcting journal
 entry is a more reliable route to full marks than jumping straight to
@@ -128,12 +130,36 @@ original entry, complete reversal and compensating errors) do not
 disturb the trial balance totals at all. Confusing an error of
 commission (wrong specific account, correct account type) with an
 error of principle (wrong account type entirely). Treating unpresented
-cheques and outstanding lodgements as errors requiring correction in
-the cash book, when they are simply timing differences that the bank
-reconciliation statement explains rather than corrects. Forgetting that
+cheques and uncredited deposits as items to enter in the cash book,
+when they are timing differences that the bank reconciliation statement
+explains; and the opposite mistake, leaving bank charges, standing
+orders, direct debits, credit transfers and interest out of the cash
+book when they belong there before the statement is prepared. Forgetting that
 a control account is built from totals of source documents or books of
 prime entry, not by adding up the individual personal ledger balances
 it is meant to check.
+
+## Digital transactions and records
+
+The 2027-2029 syllabus adds two questions about technology to this
+topic.
+
+- **Bank reconciliation.** Card payments, online payments and bank
+transfers usually clear within hours or days rather than waiting for a
+cheque to be presented, so they leave fewer timing differences, and a
+business that checks its online bank account often can find
+differences sooner. Reconciliation is still needed: direct debits,
+standing orders, bank charges and interest still reach the statement
+before the cash book, and entries can still be duplicated, mis-keyed
+or matched to the wrong transaction.
+- **Control accounts.** When credit sales, returns, receipts and
+payments are recorded digitally, the software can total the books of
+prime entry and produce the control account automatically and at any
+time, so arithmetic errors in the totals are far less likely and the
+control account can be used as an up-to-date total of trade
+receivables or payables. It still cannot catch an input error, such as
+a wrong amount or the wrong customer, and control over who can enter
+or change records becomes more important.
 
 ## Quick revision checklist
 
@@ -142,13 +168,17 @@ it is meant to check.
 types before attempting its correction.
 - Know when a suspense account is needed (imbalance-causing errors)
 and when it is not (errors that don't affect the trial balance total).
-- Identify unpresented cheques and outstanding lodgements as timing
-differences in a bank reconciliation, not errors.
+- Update the cash book for items first seen on the bank statement, then
+reconcile the remaining unpresented cheques, uncredited deposits and
+bank errors.
+- Explain how digital transactions and records affect bank
+reconciliation and control accounts.
 - Explain how a control account provides an independent check on the
 sales or purchases ledger.
 
 ## Official syllabus
 
-Cambridge IGCSE Accounting (0452) syllabus, 2026 series, Version 2 —
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697149-2026-syllabus.pdf),
-verified 2026-09-02.
+Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (Version 1,
+September 2024) —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718141-2027-2029-syllabus.pdf),
+verified 2026-09-16.

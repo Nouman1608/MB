@@ -7,36 +7,35 @@ topic: "The fundamentals of accounting"
 boards: ["cambridge"]
 qualifications: ["igcse"]
 syllabusCodes: ["0452"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
     topic: "the-fundamentals-of-accounting"
-description: "The purpose of accounting and the accounting equation -- the full content of Topic 1 for Cambridge IGCSE Accounting 0452, 2026 series."
+description: "The purpose of accounting and the accounting equation -- the full content of Topic 1 for Cambridge IGCSE Accounting 0452, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
 publishedDate: 2026-08-21
 featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2026 (version 2), whose final exam
-> series is November 2026. Candidates sitting 0452 from 2027 onwards,
-> including the March series in India, sit the syllabus for 2027, 2028 and
-> 2029, which differs in ways this page does not yet reflect: Paper 1 rises
-> from 35 to 40 multiple-choice marks and from 1 hour 15 minutes to 1 hour
-> 30 minutes; Topic 7 is retitled "Accounting concepts and modern practice"
-> and adds 7.2 Ethical considerations and 7.3 Technology and sustainability;
-> 4.4 becomes "Irrecoverable debts and allowance for irrecoverable debts";
-> statements of profit or loss replace income statements; ledger accounts
-> may be presented in three-column running balance format; and Manufacturing
-> accounts and Clubs and societies swap places as 5.4 and 5.5. If you sit
-> 0452 in 2027 or later, work from the current syllabus on the Cambridge
-> International website.
+> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> first examined in the March 2027 series in India and the June 2027 series
+> elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
+> (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
+> 15 minutes, not 40 marks in 1 hour 30 minutes; Topic 7 is "Accounting
+> principles and policies", without 7.2 Ethical considerations or 7.3
+> Technology and sustainability; 4.4 is "Irrecoverable debts and provision
+> for doubtful debts"; income statements are named instead of statements of
+> profit or loss; three-column running balance accounts are not required;
+> Clubs and societies is 5.4 and Manufacturing accounts 5.5; and 6.3 is
+> "Inter-firm comparison". If you sit in November 2026, work from the
+> 2026 syllabus on the Cambridge International website.
 
 This guide covers **Topic 1 The fundamentals of accounting**, for
-Cambridge IGCSE Accounting 0452, 2026 series (Version 2, valid for the
-2026 exam series only). Accounting at 0452 is not tiered: all
-candidates study the same content.
+Cambridge IGCSE Accounting 0452, syllabus for exams in 2027, 2028 and
+2029 (Version 1). Accounting at 0452 is not tiered: all candidates study
+the same content.
 
 ## Where this fits in 0452
 
@@ -53,13 +52,13 @@ what it owes, introduced here.
 **CAMBRIDGE IGCSE ACCOUNTING 0452 — TOPIC 1 THE FUNDAMENTALS OF
 ACCOUNTING**
 
-- 1.1 The purpose of accounting — understand and explain the
-difference between book-keeping and accounting; state the purposes of
-measuring business profit and loss; explain the role of accounting in
-providing information for monitoring progress and decision-making
-- 1.2 The accounting equation — explain the meaning of assets,
-liabilities and owner's equity; explain and apply the accounting
-equation (assets = liabilities + owner's equity)
+- 1.1 The purpose of accounting — the difference between book-keeping
+and accounting; the purposes of measuring business profit and loss; the
+role of accounting in providing information for monitoring progress and
+decision-making
+- 1.2 The accounting equation — assets, liabilities and owner's equity;
+the accounting equation (assets = liabilities + owner's equity); how to
+apply the accounting equation
 
 ## How to approach it
 
@@ -139,6 +138,6 @@ relative to its own two sub-topics.
 
 ## Official syllabus
 
-Cambridge IGCSE Accounting 0452 syllabus for 2026 (Version 2, December
-2025) —
-[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/697149-2026-syllabus.pdf).
+Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029 (Version 1,
+September 2024) —
+[cambridgeinternational.org](https://www.cambridgeinternational.org/Images/718141-2027-2029-syllabus.pdf).

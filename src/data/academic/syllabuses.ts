@@ -929,8 +929,8 @@ export const SYLLABUSES: readonly Syllabus[] = [
     boardSummary:
       'Cambridge IGCSE Accounting is accepted by universities and employers as proof of an understanding of the theory and concepts of accounting, and the ways in which accounting is used in a variety of modern economic and business contexts. Learners focus on the skills of recording, reporting, presenting and interpreting financial information.',
     officialUrl: 'https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-accounting-0452/',
-    verifiedOn: '2026-08-19',
-    notes: 'Version 2 syllabus, valid for exams in 2026 only (June, November, and March in India) — a single-year series that should be re-checked for a successor when next touched.',
+    verifiedOn: '2026-09-16',
+    notes: 'Syllabus for exams in 2027, 2028 and 2029 (Version 1), used from the March 2027 series in India and June 2027 elsewhere. Not tiered. Paper 1 Multiple Choice (1h30, 40 marks, 30%) and Paper 2 Structured Written Paper (1h45, 100 marks, 70%). The 2026 syllabus (Version 2) is still examined in November 2026, its final series; Marlbridge resources follow 2027-2029 and state the 2026 differences in an edition note.',
   },
   {
     boardSlug: 'edexcel', qualificationSlug: 'a-level', subjectSlug: 'accounting',

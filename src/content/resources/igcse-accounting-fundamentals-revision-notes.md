@@ -7,7 +7,7 @@ topic: "The fundamentals of accounting"
 boards: ["cambridge"]
 qualifications: ["igcse"]
 syllabusCodes: ["0452"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 order: 1
 syllabusTopics:
   - qualification: "igcse"
@@ -19,19 +19,18 @@ featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2026 (version 2), whose final exam
-> series is November 2026. Candidates sitting 0452 from 2027 onwards,
-> including the March series in India, sit the syllabus for 2027, 2028 and
-> 2029, which differs in ways this page does not yet reflect: Paper 1 rises
-> from 35 to 40 multiple-choice marks and from 1 hour 15 minutes to 1 hour
-> 30 minutes; Topic 7 is retitled "Accounting concepts and modern practice"
-> and adds 7.2 Ethical considerations and 7.3 Technology and sustainability;
-> 4.4 becomes "Irrecoverable debts and allowance for irrecoverable debts";
-> statements of profit or loss replace income statements; ledger accounts
-> may be presented in three-column running balance format; and Manufacturing
-> accounts and Clubs and societies swap places as 5.4 and 5.5. If you sit
-> 0452 in 2027 or later, work from the current syllabus on the Cambridge
-> International website.
+> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> first examined in the March 2027 series in India and the June 2027 series
+> elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
+> (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
+> 15 minutes, not 40 marks in 1 hour 30 minutes; Topic 7 is "Accounting
+> principles and policies", without 7.2 Ethical considerations or 7.3
+> Technology and sustainability; 4.4 is "Irrecoverable debts and provision
+> for doubtful debts"; income statements are named instead of statements of
+> profit or loss; three-column running balance accounts are not required;
+> Clubs and societies is 5.4 and Manufacturing accounts 5.5; and 6.3 is
+> "Inter-firm comparison". If you sit in November 2026, work from the
+> 2026 syllabus on the Cambridge International website.
 
 Condensed for the final weeks. For the full explanation, use the
 [The Fundamentals of Accounting study guide](/resources/igcse-accounting-the-fundamentals-of-accounting/).
@@ -110,7 +109,7 @@ Errors that **do** unbalance the trial balance — a single entry, two debits, o
 ## Capital and revenue
 
 - **Capital expenditure** — buying or improving a non-current asset; shown in the statement of financial position.
-- **Revenue expenditure** — running costs, including repairs; shown in the income statement.
+- **Revenue expenditure** — running costs, including repairs; shown in the statement of profit or loss.
 
 Treating capital expenditure as revenue **understates profit and understates non-current assets**. Being able to state the effect on *both* statements is what earns full marks.
 

@@ -7,31 +7,34 @@ topic: "Sources and recording of data"
 boards: ["cambridge"]
 qualifications: ["igcse"]
 syllabusCodes: ["0452"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 order: 3
 syllabusTopics:
   - qualification: "igcse"
     topic: "sources-and-recording-of-data"
-description: "Quick-recall revision notes on double entry, business documents, the seven books of prime entry and the imprest system for Cambridge IGCSE Accounting (0452)."
+description: "Quick-recall revision notes on double entry, running balance accounts, business documents, the seven books of prime entry, the imprest system and manual versus digital records for Cambridge IGCSE Accounting (0452), 2027-2029 syllabus."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-03
 featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2026 (version 2), whose final exam
-> series is November 2026. Candidates sitting 0452 from 2027 onwards,
-> including the March series in India, sit the syllabus for 2027, 2028 and
-> 2029, which differs in ways this page does not yet reflect: Paper 1 rises
-> from 35 to 40 multiple-choice marks and from 1 hour 15 minutes to 1 hour
-> 30 minutes; Topic 7 is retitled "Accounting concepts and modern practice"
-> and adds 7.2 Ethical considerations and 7.3 Technology and sustainability;
-> 4.4 becomes "Irrecoverable debts and allowance for irrecoverable debts";
-> statements of profit or loss replace income statements; ledger accounts
-> may be presented in three-column running balance format; and Manufacturing
-> accounts and Clubs and societies swap places as 5.4 and 5.5. If you sit
-> 0452 in 2027 or later, work from the current syllabus on the Cambridge
-> International website.
+> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> first examined in the March 2027 series in India and the June 2027 series
+> elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
+> (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
+> 15 minutes, not 40 marks in 1 hour 30 minutes; Topic 7 is "Accounting
+> principles and policies", without 7.2 Ethical considerations or 7.3
+> Technology and sustainability; 4.4 is "Irrecoverable debts and provision
+> for doubtful debts"; income statements are named instead of statements of
+> profit or loss; three-column running balance accounts are not required;
+> Clubs and societies is 5.4 and Manufacturing accounts 5.5; and 6.3 is
+> "Inter-firm comparison". For this topic, the 2026 syllabus also asks
+> candidates to complete pro-forma business documents and to explain the
+> advantage of using books of prime entry, and it does not include digital
+> ledger accounts or the benefits and limitations of keeping cash at the
+> business property and of manual and digital original entry. If you sit in November 2026, work from the
+> 2026 syllabus on the Cambridge International website.
 
 Condensed for the final weeks. For the full explanation, use the
 [Sources and Recording of Data study guide](/resources/igcse-accounting-sources-and-recording-of-data/).
@@ -40,8 +43,8 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Debit the receiving account, credit the giving account.** Not a formula to memorise — practise
 deriving the entry from first principles for a genuine mix of transactions (cash purchase, credit
-sale, return, owner's drawing) until it is automatic. No folio columns or three-column running-balance
-accounts are required.
+sale, return, owner's drawing) until it is automatic. Folio columns are not required, but ledger
+accounts **may be presented in three-column running balance format**, so be ready for both layouts.
 
 ## Business documents — recognise and use, not redraw
 
@@ -51,10 +54,14 @@ accounts are required.
 | Debit note | Requests a correction (e.g. undercharge) |
 | Credit note | Corrects an overcharge or records returned goods |
 | Statement of account | Summarises the account's transactions and balance |
-| Cheque / receipt | Records/confirms payment |
+| Cheque counterfoil | The payer's record of a cheque paid |
+| Paying-in slip | The business's record of money paid into the bank |
+| Receipt | Confirms that payment has been received |
+| Bank statement | The bank's record of the account, used to check the cash book |
 
-Know **why** each is issued and how debit note and credit note differ in direction — this is tested
-more than production from scratch.
+Know **why** each is issued and how debit note and credit note differ in direction: the syllabus asks
+how each is used as a source of information. Documents may be produced and recorded manually or
+digitally.
 
 ## The seven books of prime entry
 
@@ -83,10 +90,37 @@ Step 2 (return):   credit note issued -> recorded in the SALES
 Forgetting that a sales return goes in the sales returns journal — not reversed directly in the sales
 journal — is one of the most common structured-question errors on this topic.
 
-## The imprest system: a calculation to drill
+## Running balance format
 
-Float minus vouchers equals amount to restore. Practise these reimbursement calculations until fast and
-reliable — marks are lost here through arithmetic slips, not conceptual misunderstanding.
+```
+Date     Details         Debit $  Credit $  Balance $
+1 Mar    Balance b/d                          300 Dr
+8 Mar    Sales              450               750 Dr
+15 Mar   Bank                        500      250 Dr
+20 Mar   Sales returns                50      200 Dr
+```
+
+Same double entry as a two-sided account; a balance after every line, always labelled Dr or Cr.
+
+## The imprest system: purpose and calculation
+
+**Purpose:** to control small cash payments. The float is restored to the same fixed amount each
+period, and spending is checked against vouchers whenever it is restored.
+
+**Amount to restore = total of the vouchers = float − cash left.** A $200 float with $148 of vouchers
+needs $148 to restore it (and $52 should be left in the tin). Marks are lost here through arithmetic
+slips, not conceptual misunderstanding.
+
+## Cash, manual and digital records
+
+| | Benefits | Limitations |
+|---|---|---|
+| Cash kept at the business | Available for small, immediate payments and change | Theft, loss and miscounting; secure storage; earns no interest |
+| Manual original entry | Cheap; no equipment; unaffected by system failure | Slow; arithmetic and copying errors; hard to back up and search |
+| Digital original entry | Fast; automatic totals and postings; easy backup and reports | Set-up and training costs; system failure or data loss; input errors post everywhere |
+
+Receipts and payments may be made by cash, cheque, debit or credit card, online or bank transfer.
+Ledger accounts can be kept digitally.
 
 ## Trade discount vs cash discount
 
@@ -106,8 +140,8 @@ of customer, supplier and expense transactions together.
 
 ## Exam traps
 
-- Spending revision time on folio columns or three-column running-balance formats, which the syllabus
-  explicitly does not require.
+- Leaving the Dr/Cr label off a running balance, or treating the imprest amount to restore as the
+  cash left rather than the amount spent.
 - Confusing a book of prime entry with a ledger account.
 - Posting a sales return directly against the sales journal instead of the sales returns journal.
 - Miscalculating imprest reimbursement through arithmetic error rather than conceptual confusion.
@@ -135,10 +169,10 @@ books' definitions in isolation, since scenario questions rarely test a single b
 2. What is the key difference between a debit note and a credit note?
 3. Which book of prime entry also functions as a ledger account?
 4. Where should a sales return be recorded — and where is it a common error to record it instead?
-5. State the imprest system's reimbursement formula.
+5. How much is needed to restore an imprest float?
 
 **Answers:** 1. Debit the receiving account, credit the giving account. 2. A debit note requests a
 correction such as an undercharge; a credit note corrects an overcharge or records returned goods —
 opposite directions. 3. The cash book. 4. It should be recorded in the sales returns journal; a common
-error is reversing it directly in the sales journal instead. 5. Float minus vouchers equals the amount
-needed to restore the float.
+error is reversing it directly in the sales journal instead. 5. The total of the vouchers paid in the
+period, which equals the float minus the cash left.

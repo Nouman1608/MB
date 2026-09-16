@@ -10983,3 +10983,70 @@ None.
 None in this batch.
 
 **Open-count position after D-233, as this log reads it (for the audit to reconcile, not to take on trust).** Round 9's seven: E605, E606 and E607 were closed in D-232; E615, E616, E617 and E628 are closed here. **Still open: none.** If the `post_baseline_findings` texts ask for more than Q385 states, the audit should say so.
+
+## D-234 - Owner item: Cambridge IGCSE Accounting 0452 moved to the 2027-2029 syllabus (nine resources and the data layer) (2026-09-16)
+
+**Trigger.** The audit lists "the 0452 rewrite to 2027-2029" as an owner item (round 10, work order §8). The owner chose, via `AskUserQuestion`:
+
+- **Switch now**, rather than preparing the change and merging it after the November 2026 series.
+- **Scope: the nine existing resources**, which cover Topics 1-3, plus the data layer. Topics 4-7 stay unwritten.
+
+**Why a switch, not parallel editions.** The data layer holds one current series per code, and later or earlier series go in `KNOWN_OTHER_SERIES` without topics (the 0620/5070/9701 precedent). The 2026 syllabus is still examined in November 2026, its final series. So the edition note on each resource is inverted: it now tells November 2026 candidates what differs for them.
+
+**Primary sources.**
+
+- Cambridge IGCSE Accounting 0452 syllabus for 2027, 2028 and 2029, Version 1, © September 2024 (`https://www.cambridgeinternational.org/Images/718141-2027-2029-syllabus.pdf`). Byte-identical to the copy used for D-228's E619, and linked from the 0452 qualification page on 2026-09-16. Read to the contact block, including:
+  - the content overview (p.8);
+  - the assessment overview (p.9);
+  - the subject content (pp.11-20);
+  - the details of the assessment (p.22);
+  - the changes page (p.28).
+- Cambridge IGCSE Accounting 0452 syllabus for 2026, Version 2 (`697149`), for every "2026 differs" statement, with the December 2025 syllabus update (`748844`). That update changes only a weblink on p.23.
+
+### Data layer
+
+| File | Change |
+|---|---|
+| `src/data/academic/syllabus-topics.ts` | The 0452 record is now `2027-2029` (effective 2027-2029, current, source `718141`, verified 2026-09-16), with all seven topics re-entered from the content overview. Changes: 3.2 "Corrections of errors"; 4.4 "Irrecoverable debts and allowance for irrecoverable debts"; 5.4 Manufacturing accounts and 5.5 Clubs and societies; 6.3 "Inter-business comparison"; Topic 7 "Accounting concepts and modern practice", with 7.1 Accounting concepts, 7.2 Ethical considerations and 7.3 Technology and sustainability. Slugs of unchanged sub-topics are kept (including `correction-of-errors`). No resource references the renamed sub-topic slugs. The 2026 series is added to `KNOWN_OTHER_SERIES` as superseded, with a note that November 2026 is its final series. |
+| `src/data/academic/assessments.ts` | Paper 1 is 90 minutes and 40 marks (was 75 and 35). Paper 2 is unchanged (105 minutes, 100 marks, 70%). First assessment 2027; source and page references updated. |
+| `src/data/academic/syllabuses.ts` | The 0452 notes now describe the 2027-2029 edition and the November 2026 final series of the 2026 edition. |
+
+### Resources (all nine: `syllabusSeries` "2027-2029", edition note inverted)
+
+**The edition note.** Each note says the page follows 2027-2029 (first examined March 2027 in India, June 2027 elsewhere) and lists what the 2026 syllabus does differently:
+
+- Paper 1 has 35 marks in 1h15.
+- Topic 7 is "Accounting principles and policies", without 7.2 or 7.3.
+- 4.4 has the "provision for doubtful debts" wording.
+- Income statements are named instead of statements of profit or loss.
+- Three-column running balance accounts are not required.
+- 5.4 and 5.5 are in the other order.
+- 6.3 is "Inter-firm comparison".
+
+Topic 2 and Topic 3 pages also carry the differences specific to their topic, each checked line by line against both syllabuses.
+
+| File | Change |
+|---|---|
+| `igcse-accounting-the-fundamentals-of-accounting.md` | Series wording and description updated. Coverage list re-worded from 2027 1.1/1.2 (content unchanged). Citation now points to `718141`. |
+| `igcse-accounting-fundamentals-revision-notes.md` | "income statement" changed to "statement of profit or loss" (2027 terminology). |
+| `fundamentals-of-accounting-practice.md` | Edition note and series only; no question depends on a changed syllabus point. |
+| `igcse-accounting-sources-and-recording-of-data.md` | Coverage rebuilt from 2027 2.1-2.3. Added: three-column running balance format; digital ledger accounts; the 2027 document list (cheque counterfoil, paying-in slip, bank statement); manual or digital documents; payment by cash, cheque, debit and credit card, online and bank transfer; the purpose of the imprest system; the benefits and limitations of cash kept at the business property and of manual and digital original entry. Removed as 2026-only syllabus points: completing pro-forma documents, and the advantage of books of prime entry. Two new sections: a worked running balance account (300 Dr, +450 = 750 Dr, −500 = 250 Dr, −50 = 200 Dr), and the imprest system with cash, digital and manual records. The advice not to revise three-column accounts is reversed. **Error found and fixed in passing:** the guide gave the imprest reimbursement as "float minus vouchers". The amount to restore is the total of the vouchers (float minus cash left). |
+| `igcse-accounting-sources-recording-revision-notes.md` | The same 2027 changes in condensed form: running balance table, document table extended to the 2027 list, imprest purpose, and a benefits/limitations table. Exam trap about three-column formats replaced. **Same imprest error fixed** in the section and in self-test answer 5. |
+| `igcse-accounting-sources-recording-practice.md` | **Imprest error fixed in two answers.** Q4 answer: total of the vouchers. Q8(a) answer: **$148, not $52**, since $52 is the cash left in a $200 float after $148 of vouchers. Q10, which asked why three-column accounts are not required, is replaced by a running balance account question [4], whose scheme sums to 4. New Q11 on cash at the business property and digital original entry: (a) [2] + (b) [2]. |
+| `igcse-accounting-verification-of-accounting-records.md` | Coverage rebuilt from 2027 3.1-3.4. The six error types now sit under 3.1, where both syllabuses put them; the file had them under 3.2. 3.3 now separates cash book updates from reconciling items, uses the syllabus's "uncredited deposits" and bank errors, and drops dividends (2026 only). Added 3.4's list of entries and the syllabus's no-reconciliation note. The "how to approach it" line saying control accounts check ledgers "against the general ledger totals" is re-worded to the books-of-prime-entry basis. New section on how digital transactions and records affect bank reconciliation (2027 3.3) and control accounts (2027 3.4). |
+| `igcse-accounting-verification-revision-notes.md` | Error table header moved to 3.1. 3.3 set out as update-then-reconcile. **Misleading statement corrected:** the notes listed bank charges and standing orders as reasons for the difference and then said the reconciliation "does not correct an error". 3.3 requires those items to be entered in the cash book first. Digital notes added to 3.3 and 3.4; exam trap and self-test answer 4 aligned. |
+| `igcse-accounting-verification-practice.md` | New Q11 on the digital impact on bank reconciliation (a) [2] and control accounts (b) [2]; both schemes sum to their tariffs. D-233's Q7 and Q9 are unchanged and remain valid under 2027 3.1 and 3.4. |
+
+**Not done (owner's scope choice).** Topics 4-7 have no 0452 resources: 4.1-4.5, 5.1-5.6, 6.1-6.5, and 7.1-7.3, including the new 7.2 Ethical considerations and 7.3 Technology and sustainability.
+
+**Validation.** All pass:
+
+- `astro check`: 0 errors.
+- `validate:academic`.
+- `build`: 2128 pages.
+- `audit:all`: 0 problems.
+- Cross-board regression.
+- Negative suite.
+- API tests: 31/31.
+
+The rendered `/boards/cambridge/igcse/accounting/` page shows the 2027-2029 series, the new Topic 7 and the 40-mark Paper 1. `check-duplicate-resource-scope.mjs` still reports the same four pre-existing unreviewed groups (IB MYP Design, OxfordAQA Chemistry). None involves 0452.

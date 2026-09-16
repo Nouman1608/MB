@@ -7,31 +7,34 @@ topic: "Sources and recording of data"
 boards: ["cambridge"]
 qualifications: ["igcse"]
 syllabusCodes: ["0452"]
-syllabusSeries: "2026"
+syllabusSeries: "2027-2029"
 order: 4
 syllabusTopics:
   - qualification: "igcse"
     topic: "sources-and-recording-of-data"
-description: "Exam-style questions with full worked answers on double entry, business documents, the seven books of prime entry, trade vs cash discount, and the imprest system, for Cambridge IGCSE Accounting (0452) Topic 2."
+description: "Exam-style questions with full worked answers on double entry, running balance accounts, business documents, the seven books of prime entry, trade vs cash discount, the imprest system and manual versus digital records, for Cambridge IGCSE Accounting (0452) Topic 2, 2027-2029 syllabus."
 author: "marlbridge-academic-team"
 publishedDate: 2026-09-06
 featured: false
 ---
 
 > **Syllabus edition note.** This resource follows the Cambridge IGCSE
-> Accounting 0452 syllabus for exams in 2026 (version 2), whose final exam
-> series is November 2026. Candidates sitting 0452 from 2027 onwards,
-> including the March series in India, sit the syllabus for 2027, 2028 and
-> 2029, which differs in ways this page does not yet reflect: Paper 1 rises
-> from 35 to 40 multiple-choice marks and from 1 hour 15 minutes to 1 hour
-> 30 minutes; Topic 7 is retitled "Accounting concepts and modern practice"
-> and adds 7.2 Ethical considerations and 7.3 Technology and sustainability;
-> 4.4 becomes "Irrecoverable debts and allowance for irrecoverable debts";
-> statements of profit or loss replace income statements; ledger accounts
-> may be presented in three-column running balance format; and Manufacturing
-> accounts and Clubs and societies swap places as 5.4 and 5.5. If you sit
-> 0452 in 2027 or later, work from the current syllabus on the Cambridge
-> International website.
+> Accounting 0452 syllabus for exams in 2027, 2028 and 2029 (version 1),
+> first examined in the March 2027 series in India and the June 2027 series
+> elsewhere. If you sit 0452 in November 2026, you sit the 2026 syllabus
+> (version 2), which differs: Paper 1 has 35 multiple-choice marks in 1 hour
+> 15 minutes, not 40 marks in 1 hour 30 minutes; Topic 7 is "Accounting
+> principles and policies", without 7.2 Ethical considerations or 7.3
+> Technology and sustainability; 4.4 is "Irrecoverable debts and provision
+> for doubtful debts"; income statements are named instead of statements of
+> profit or loss; three-column running balance accounts are not required;
+> Clubs and societies is 5.4 and Manufacturing accounts 5.5; and 6.3 is
+> "Inter-firm comparison". For this topic, the 2026 syllabus also asks
+> candidates to complete pro-forma business documents and to explain the
+> advantage of using books of prime entry, and it does not include digital
+> ledger accounts or the benefits and limitations of keeping cash at the
+> business property and of manual and digital original entry. If you sit in November 2026, work from the
+> 2026 syllabus on the Cambridge International website.
 
 > These are original practice questions written in the style of Cambridge IGCSE
 > Accounting (0452) assessment objectives. They are not taken from any past paper
@@ -59,7 +62,8 @@ overcharge on an invoice, and explain briefly why it is issued. **[2]**
 **3.** Name the three divisions of the ledger, and state what type of
 account is kept in each. **[3]**
 
-**4.** State the imprest system's reimbursement formula. **[1]**
+**4.** State how the amount needed to restore an imprest float is
+found. **[1]**
 
 **5.** Explain the difference between trade discount and cash
 discount, and state which one is recorded in the accounts. **[3]**
@@ -98,9 +102,19 @@ entry. **[1]**
 correct book of prime entry, and explain how this differs from a
 credit note the business issues to its own customers. **[2]**
 
-**10.** Explain why the syllabus does not require folio columns or
-three-column running-balance accounts, and what this means for how
-you should spend your revision time on this topic. **[2]**
+**10.** On 1 March, K Lee, a credit customer, owes a business $300. On
+8 March the business sells her goods on credit for $450. On 15 March
+she pays $500 by bank transfer. On 20 March she returns goods worth $50.
+Prepare K Lee's account in the business's sales ledger using the
+three-column running balance format. **[4]**
+
+**11.** A small shop keeps cash on its premises and is deciding whether
+to move from handwritten books of prime entry to accounting software.
+
+**(a)** State one benefit and one limitation of keeping cash at the
+business property. **[2]**
+**(b)** State one benefit and one limitation of using digital methods
+for the original entry of business transactions. **[2]**
 
 ---
 
@@ -120,8 +134,8 @@ purchases ledger, holding suppliers' personal accounts [1]; and the
 nominal (general) ledger, holding all other accounts such as assets,
 expenses, income and capital [1].
 
-**4.** Float minus vouchers equals the amount needed to restore the
-float [1].
+**4.** It is the total of the vouchers paid during the period (equal
+to the float minus the cash left) [1].
 
 **5.** Trade discount is a reduction given at the point of sale, often
 for bulk purchase, and is never entered in the accounts — the invoice
@@ -148,7 +162,8 @@ entry, which are all posted to a separate ledger account after the
 transaction is first recorded, whereas the cash book is never itself
 posted elsewhere in this way [1].
 
-**8. (a)** $200 − $148 = $52 [1].
+**8. (a)** $148, the total of the vouchers, which restores the float
+from the $52 left to $200 [1].
 **(b)** Trade discount is never entered in the accounts at all, so the
 voucher would simply show the already-discounted price paid; it would
 not appear as a separate adjustment to the reimbursement calculation
@@ -163,12 +178,32 @@ business issues to its own customers, which is recorded in the sales
 returns journal instead — the direction of the document (received
 versus issued) determines which journal it belongs in [1].
 
-**10.** The syllabus explicitly does not require folio columns or
-three-column running-balance accounts, so revision time is better
-spent on applying the double entry rule correctly to unfamiliar
-transactions and tracing documents through the correct books of prime
-entry, rather than practising ledger-account formats that will not be
-assessed [2].
+**10.**
+
+```
+K Lee account
+Date      Details          Debit $   Credit $   Balance $
+1 Mar     Balance b/d                               300 Dr
+8 Mar     Sales               450                   750 Dr
+15 Mar    Bank                          500         250 Dr
+20 Mar    Sales returns                  50         200 Dr
+```
+
+Sales $450 on the debit side with balance $750 Dr [1]; bank $500 on
+the credit side with balance $250 Dr [1]; sales returns $50 on the
+credit side with balance $200 Dr [1]; every balance labelled Dr [1].
+
+**11. (a)** Benefit, any one: cash is available for small, immediate
+payments or for giving change without going to the bank [1].
+Limitation, any one: risk of theft, loss or miscounting; the cost of
+secure storage or insurance; cash on the premises earns no interest
+[1].
+**(b)** Benefit, any one: faster recording; totals and postings are
+calculated automatically, reducing arithmetic errors; records are easy
+to back up, search and report from [1]. Limitation, any one: cost of
+equipment, software and training; risk of system failure or data
+loss; an input error is posted automatically throughout the records
+[1].
 
 ## A note on exam technique for this topic
 

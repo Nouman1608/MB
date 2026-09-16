@@ -2497,12 +2497,12 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
 
   {
     boardSlug: 'cambridge', qualificationSlug: 'igcse', subjectSlug: 'accounting',
-    syllabusCode: '0452', syllabusSeries: '2026',
-    effectiveFrom: '2026', effectiveTo: '2026', status: 'current',
+    syllabusCode: '0452', syllabusSeries: '2027-2029',
+    effectiveFrom: '2027', effectiveTo: '2029', status: 'current',
     tiered: false,
     source: 'Cambridge Assessment International Education — official syllabus PDF',
-    sourceUrl: 'https://www.cambridgeinternational.org/Images/697149-2026-syllabus.pdf', verifiedDate: '2026-08-19',
-    notes: 'Version 2, published December 2025. Valid for exams in 2026 (June, November, and March in India) — like other Cambridge IGCSE 2026-only syllabuses, this should be re-checked for a successor series when next touched. Not tiered. Full section 3 subject content (7 topics, all named sub-topics 1.1-7.2) verified directly from the PDF, including the appendix of accounting ratio formulae.',
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/718141-2027-2029-syllabus.pdf', verifiedDate: '2026-09-16',
+    notes: 'Version 1 (© September 2024), for exams in 2027, 2028 and 2029 (June and November, and March in India). Not tiered. Content overview (p.8) and subject content (pp.11-20) read directly from the PDF to its contact block, including the changes page (p.28): 7.2 Ethical considerations and 7.3 Technology and sustainability are new, Topic 7 is retitled, and 4.4, 5.4/5.5 and 6.3 are renamed or reordered. The 2026 edition (Version 2) remains in use for the November 2026 series; see KNOWN_OTHER_SERIES.',
     topics: [
       { number: 1, name: 'The fundamentals of accounting', slug: 'the-fundamentals-of-accounting', subtopics: [
         { number: '1.1', name: 'The purpose of accounting', slug: 'the-purpose-of-accounting' },
@@ -2515,7 +2515,7 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
       ] },
       { number: 3, name: 'Verification of accounting records', slug: 'verification-of-accounting-records', subtopics: [
         { number: '3.1', name: 'The trial balance', slug: 'the-trial-balance' },
-        { number: '3.2', name: 'Correction of errors', slug: 'correction-of-errors' },
+        { number: '3.2', name: 'Corrections of errors', slug: 'correction-of-errors' },
         { number: '3.3', name: 'Bank reconciliation', slug: 'bank-reconciliation' },
         { number: '3.4', name: 'Control accounts', slug: 'control-accounts' },
       ] },
@@ -2523,27 +2523,28 @@ export const SYLLABUS_VERSIONS: readonly SyllabusVersion[] = [
         { number: '4.1', name: 'Capital and revenue expenditure and receipts', slug: 'capital-and-revenue-expenditure-and-receipts' },
         { number: '4.2', name: 'Accounting for depreciation and disposal of non-current assets', slug: 'accounting-for-depreciation-and-disposal-of-non-current-assets' },
         { number: '4.3', name: 'Other payables and other receivables', slug: 'other-payables-and-other-receivables' },
-        { number: '4.4', name: 'Irrecoverable debts and provision for doubtful debts', slug: 'irrecoverable-debts-and-provision-for-doubtful-debts' },
+        { number: '4.4', name: 'Irrecoverable debts and allowance for irrecoverable debts', slug: 'irrecoverable-debts-and-allowance-for-irrecoverable-debts' },
         { number: '4.5', name: 'Valuation of inventory', slug: 'valuation-of-inventory' },
       ] },
       { number: 5, name: 'Preparation of financial statements', slug: 'preparation-of-financial-statements', subtopics: [
         { number: '5.1', name: 'Sole traders', slug: 'sole-traders' },
         { number: '5.2', name: 'Partnerships', slug: 'partnerships' },
         { number: '5.3', name: 'Limited companies', slug: 'limited-companies' },
-        { number: '5.4', name: 'Clubs and societies', slug: 'clubs-and-societies' },
-        { number: '5.5', name: 'Manufacturing accounts', slug: 'manufacturing-accounts' },
+        { number: '5.4', name: 'Manufacturing accounts', slug: 'manufacturing-accounts' },
+        { number: '5.5', name: 'Clubs and societies', slug: 'clubs-and-societies' },
         { number: '5.6', name: 'Incomplete records', slug: 'incomplete-records' },
       ] },
       { number: 6, name: 'Analysis and interpretation', slug: 'analysis-and-interpretation', subtopics: [
         { number: '6.1', name: 'Calculation and understanding of accounting ratios', slug: 'calculation-and-understanding-of-accounting-ratios' },
         { number: '6.2', name: 'Interpretation of accounting ratios', slug: 'interpretation-of-accounting-ratios' },
-        { number: '6.3', name: 'Inter-firm comparison', slug: 'inter-firm-comparison' },
+        { number: '6.3', name: 'Inter-business comparison', slug: 'inter-business-comparison' },
         { number: '6.4', name: 'Interested parties', slug: 'interested-parties' },
         { number: '6.5', name: 'Limitations of accounting statements', slug: 'limitations-of-accounting-statements' },
       ] },
-      { number: 7, name: 'Accounting principles and policies', slug: 'accounting-principles-and-policies', subtopics: [
-        { number: '7.1', name: 'Accounting principles', slug: 'accounting-principles' },
-        { number: '7.2', name: 'Accounting policies', slug: 'accounting-policies' },
+      { number: 7, name: 'Accounting concepts and modern practice', slug: 'accounting-concepts-and-modern-practice', subtopics: [
+        { number: '7.1', name: 'Accounting concepts', slug: 'accounting-concepts' },
+        { number: '7.2', name: 'Ethical considerations', slug: 'ethical-considerations' },
+        { number: '7.3', name: 'Technology and sustainability', slug: 'technology-and-sustainability' },
       ] },
     ],
   },
@@ -5678,6 +5679,9 @@ export const KNOWN_OTHER_SERIES = [
     sourceUrl: 'https://www.cambridgeinternational.org/Images/595428-2023-2025-syllabus.pdf', notes: 'Superseded by 2026-2028.' },
   { syllabusCode: '5070', syllabusSeries: '2023-2025', status: 'superseded' as const,
     sourceUrl: 'https://www.cambridgeinternational.org/Images/595448-2023-2025-syllabus.pdf', notes: 'Superseded by 2026-2028.' },
+  { syllabusCode: '0452', syllabusSeries: '2026', status: 'superseded' as const,
+    sourceUrl: 'https://www.cambridgeinternational.org/Images/697149-2026-syllabus.pdf',
+    notes: 'Version 2 (December 2025). Superseded on the site by 2027-2029 from 2026-09-16, but still examined in the November 2026 series, its final series. Differences are stated in the edition note on each 0452 resource.' },
 ];
 
 /**
