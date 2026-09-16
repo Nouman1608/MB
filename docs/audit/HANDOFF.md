@@ -35,10 +35,10 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 | | |
 |---|---|
 | resources read end to end | 1,251 of 1,251 |
-| findings recorded | 1,675 *(updated 2026-10-15, round 8)* |
-| **open confirmed errors** | **146** *(updated 2026-10-15; Q374 had amended this handoff's first figure, 658, to 150)* |
-| declared closed by decision log | 692 (D-138 through **D-225**; was 185 while D-138…D-191 went uncounted) |
-| still open despite a closing round | 59 (deferred / partial / disputed / heading-only / reopened) |
+| findings recorded | 1,678 *(updated 2026-10-16, round 9)* |
+| **open confirmed errors** | **7** *(updated 2026-10-16, round 9 — E605-E607, E615-E617, E628; Q374 had amended this handoff's first figure, 658, to 150)* |
+| declared closed by decision log | 830 (D-138 through **D-231**; was 185 while D-138…D-191 went uncounted) |
+| still open despite a closing round | 3 (E605-E607, deferred by D-228) |
 
 **"Declared closed" means a repair round recorded it as handled — not that the audit verified
 it.** Of the closures spot-checked by reading: five sound, two *better* than the correction

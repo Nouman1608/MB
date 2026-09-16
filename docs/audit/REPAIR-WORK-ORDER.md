@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**146 open confirmed errors → zero.**
+**7 open confirmed errors → zero.** *(2026-10-16, round 9: E605, E606, E607, E615, E616, E617, E628.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,16 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 9 (2026-10-16, Q383–Q385): seven left.**
+  - **E615, E616, E617, E628:** read their texts from `post_baseline_findings` in the evidence file
+    (not `findings[]` — that is why no round has worked them). `igcse-accounting-verification-practice`
+    Q7, Q9 and Q9(b); `oxfordaqa-a-level-accounting-organisation-types-practice` Q4 (keep the E46
+    bank-finance parenthetical).
+  - **E605–E607:** the IB DP Geography guide *is* readable. Open a browser tab on an ibo.org page,
+    load pdf.js into that page, and fetch the PDF from the same origin. No challenge was served. Fix all
+    five files, including `ib-dp-geography-exam-preparation` and `ib-dp-geography-population-distribution`.
+  - **E48 is withdrawn** — leave the file. **E64:** tidy the description, which still lists polarisation.
 
 - **E276 needs no action.** Its correction was verified safe (Q373) — and **D-141 had already
   applied it** on 6 September; the file on `main` is correct. *This line first said "apply as

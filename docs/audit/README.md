@@ -40,6 +40,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-10-13-findings.md` | Absence re-verification round 6: eight documents read complete, **E746 withdrawn**, three corrections bounded (Q376–Q378). |
 | `2026-10-14-findings.md` | Absence re-verification round 7: the non-Cambridge documents finished; **E902** — a correction applied past its board. |
 | `2026-10-15-findings.md` | Absence re-verification round 8: the Cambridge documents finished; U71 established; **E640 bounded (Q381)**; **E175 reopened (Q382)**. |
+| `2026-10-16-findings.md` | Round 9: the repair side's "all fixed" report checked. 46 closures read, all fixed; **E48 withdrawn**; **7 still open**. |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -68,6 +69,10 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | **E798** | 2026-10-15 (**Q380**) | Its note misplaces the list: in 5014, surface and subsurface mining are the requirement; only opencast, shaft etc. are exemplification. Correction stands. |
 | **E759, E820** | 2026-10-15 (**Q380**) | One aside each is unsupported (E759: "introduced at the last syllabus change"; E820: "claim is not a listed element"). The defects stand. |
 | **U71** | 2026-10-15 (**Q380**) | Established — 9700 read complete; fractionation, homogenisation, centrifugation, artefact, endosymbiosis all absent. |
+| **D-226…D-231** | 2026-10-16 (**Q383**) | 46 of 138 declared closures read on `main`, all fixed. Residual: E64's description. |
+| **E48** | 2026-10-16 (**Q384**) | **Withdrawn.** 9237 v1.1 places Ijma and Qiyas at 3.2.2.5; the file is right. |
+| **E615, E616, E617, E628** | 2026-10-16 (**Q385**) | Never worked — texts are in `post_baseline_findings`, not `findings[]`. Still live. |
+| **E605–E607** | 2026-10-16 (**Q385**) | Upheld against the IB guide, read in a browser session at the ibo.org origin. Two more sibling files are affected. |
 | **E60–E69, E109** | 2026-10-12 (**Q375**) | D-138's heading declares them remediated; none of its batch lists names them, and E61–E69 still carry their markers on `main`. **Treat as open.** |
 
 ---
@@ -113,10 +118,10 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,675 |
-| confirmed errors open | **146** *(reconciliation current through D-225, covering D-138 onward — Q374; E01, E09, E900, E738, E739 verified fixed and E746 withdrawn — Q376–Q378; E902 added — round 7; E175 reopened — Q382)* |
-| declared closed by decision log D-138…D-225 | 692 |
-| still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 59 — reasons in `2026-10-12-findings.md` (less E738, E739, E746; plus E175, reopened by Q382) |
+| findings recorded | 1,678 |
+| confirmed errors open | **7** — E605, E606, E607, E615, E616, E617, E628 *(reconciliation current through **D-231**, covering D-138 onward; E746 and E48 withdrawn — Q378, Q384; D-226…D-231 read — Q383)* |
+| declared closed by decision log D-138…D-231 | 830 |
+| still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 3 — E605, E606, E607 (deferred by D-228) |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 |
 
