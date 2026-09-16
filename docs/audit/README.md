@@ -53,6 +53,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-10-26-findings.md` | Round 19: the 370 unread post-baseline resources and D-239's twelve read end to end; D-240 verified. **E914–E919 open** (80 errors in six groups), I363–I368, Q397–Q400, U72 (365 board claims unchecked). |
 | `2026-10-27-findings.md` | Round 20: 141 Cambridge board claims checked against 44 syllabus documents — **E920, E921 open** (12 statements), I369, Q401; 6 audit items withdrawn; U72 down to 245. D-241 not yet read. |
 | `2026-10-28-findings.md` | Round 21: D-241 read — **190 of 195 fixed**, 1 partly, 4 disputes upheld; E914–E919 and I363–I368 closed. I370 (2 residuals). **2 confirmed-error groups open** (E920, E921). |
+| `2026-10-29-findings.md` | Round 22: D-242 and D-243 read — **21 of 21 fixed** (I370.2 was an audit error); E920, E921, I369, I370 closed. 72 AQA board claims checked: 57 supported. E922 (7), I371 (6), U73 (4). **1 confirmed-error group open** (E922). |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -136,9 +137,9 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,730 |
-| confirmed errors open | **2 groups** (E920, E921, round 20) *(reconciliation current through **D-241**; every closure from D-226 to D-241 read, and D-241's 195 items checked: 190 fixed, 1 partly (I370), 4 disputes upheld. 515 closures in D-138…D-225 were sampled, not read. **Not a statement that the resources are correct.**)* |
-| declared closed by decision log D-138…D-241 | 854 |
+| findings recorded | 1,734 |
+| confirmed errors open | **1 group** (E922, round 22) *(reconciliation current through **D-243**; every closure from D-226 to D-243 read, D-241's 195 items and D-242/D-243's 21 items checked. 515 closures in D-138…D-225 were sampled, not read. **Not a statement that the resources are correct.**)* |
+| declared closed by decision log D-138…D-243 | 856 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
 | resources read end to end | 1,251 of 1,251 baseline; all 1,645 on `main` at `251571e` read at least once (round 19). Board claims in the 397 post-baseline resources unchecked (U72). |
