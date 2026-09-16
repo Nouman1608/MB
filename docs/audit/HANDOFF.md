@@ -35,7 +35,7 @@ A separate "fixer" instance does the repairs; you do not. If you have been broug
 | | |
 |---|---|
 | resources read end to end | 1,251 of 1,251 |
-| findings recorded | 1,680 *(updated 2026-10-17, round 10)* |
+| findings recorded | 1,681 *(updated 2026-10-18, round 11)* |
 | **open confirmed errors** | **0 declared** *(updated 2026-10-17, round 10 — correctness not established; Q374 had amended this handoff's first figure, 658, to 150)* |
 | declared closed by decision log | 837 (D-138 through **D-233**; was 185 while D-138…D-191 went uncounted) |
 | still open despite a closing round | 0 |

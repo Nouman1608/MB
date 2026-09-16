@@ -138,6 +138,9 @@ work order can be a document rather than a conversation.
 
 ## 8. Current specifics
 
+- **Round 11 (2026-10-18, Q388):** the audit has now read all 147 closures in D-226…D-233 on `main`;
+  all are fixed. Nothing to repair.
+
 - **Round 10 (2026-10-17, Q386–Q387): nothing to repair.** D-232 and D-233 verified. No confirmed
   error is declared open. The audit has read 89 of the 145 closures in D-226…D-233; the 56 unread
   (mainly D-227's E60–E69, E109, E114, E397 and D-228's E572–E657) will be read by the audit — no

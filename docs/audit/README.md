@@ -42,6 +42,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | `2026-10-15-findings.md` | Absence re-verification round 8: the Cambridge documents finished; U71 established; **E640 bounded (Q381)**; **E175 reopened (Q382)**. |
 | `2026-10-16-findings.md` | Round 9: the repair side's "all fixed" report checked. 46 closures read, all fixed; **E48 withdrawn**; **7 still open**. |
 | `2026-10-17-findings.md` | Round 10: D-232 and D-233 checked and fixed; 36 more closures read; **0 confirmed errors declared open** — correctness still not established. |
+| `2026-10-18-findings.md` | Round 11: the last 54 D-226…D-233 closures read — **all 147 read and fixed**. The 692 earlier closures remain unread. |
 | `2026-09-15-tier-resolution-response.md` | Cambridge 0620 tier question, resolved by coordinates. |
 | `correction-constraints.md` | **Standing rules. Start here.** |
 
@@ -76,6 +77,7 @@ corpus briefly ended up worse than baseline on five files — see the amendment 
 | **E605–E607** | 2026-10-16 (**Q385**) | Upheld against the IB guide, read in a browser session at the ibo.org origin. Two more sibling files are affected. |
 | **E605–E607, E615–E617, E628** | 2026-10-17 (**Q386**) | Closed by D-232/D-233 and verified on `main`. E628's two-source rewrite is the right departure from its fix. |
 | **D-226/D-230 (36 more)** | 2026-10-17 (**Q387**) | Read on `main`, all fixed. Closures read in D-226…D-233: 89 of 145. |
+| **E60…E657 (last 54)** | 2026-10-18 (**Q388**) | Read on `main` against the evidence-file texts, all fixed. D-226…D-233 fully verified. |
 | **E60–E69, E109** | 2026-10-12 (**Q375**) | D-138's heading declares them remediated; none of its batch lists names them, and E61–E69 still carry their markers on `main`. **Treat as open.** |
 
 ---
@@ -121,8 +123,8 @@ finding against a snapshot that was three days old.
 
 | | |
 |---|---|
-| findings recorded | 1,680 |
-| confirmed errors open | **0 declared** *(reconciliation current through **D-233**; E746 and E48 withdrawn; 89 of the 145 closures in D-226…D-233 read and fixed — Q383, Q386, Q387. **Not a statement that the resources are correct.**)* |
+| findings recorded | 1,681 |
+| confirmed errors open | **0 declared** *(reconciliation current through **D-233**; E746 and E48 withdrawn; **all 147 closures in D-226…D-233 read and fixed** — Q377, Q383, Q386-Q388; the 692 closures from D-138…D-225 were not read one by one. **Not a statement that the resources are correct.**)* |
 | declared closed by decision log D-138…D-233 | 837 |
 | still open despite a closing round (deferred, partial, disputed, heading-only, or reopened) | 0 |
 | withdrawn by this audit | 1 (E746) |
