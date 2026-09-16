@@ -20,7 +20,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "as-chemical-bonding"
     subtopic: "as-metallic-bonding"
-description: "Condensed recall notes on the three bond types, electronegativity, polarisation and structure-property links for Cambridge AS & A Level Chemistry 9701."
+description: "Condensed recall notes on the three bond types, electronegativity and structure-property links for Cambridge AS & A Level Chemistry 9701, with polarisation as unassessed background."
 author: "nouman-ahmed"
 publishedDate: 2026-08-22
 featured: false

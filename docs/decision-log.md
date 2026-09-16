@@ -10952,3 +10952,34 @@ None in this batch.
 - `ib-dp-geography-subject-guide.md` ("Why HL adds a paper ...") says higher demand means additional assessment "rather than simply more time on the same exam". HL Paper 1 is also 45 minutes longer. Not a finding; unchanged.
 
 **Open-count position after D-232, as this log reads it (for the audit to reconcile, not to take on trust).** Round 9 (Q385) lists seven open: E605, E606, E607, E615, E616, E617, E628. E605-E607 are closed here; Q385 names the same five geography files this entry fixes. **Still open: E615, E616, E617, E628** (never worked; texts in `post_baseline_findings`), plus Q383's E64 description residual.
+
+## D-233 - Repair work order batch 7: audit round 9's last four errors (E615, E616, E617, E628) closed; Q383's E64 residual tidied (2026-09-16)
+
+**Trigger.** Audit round 9 (`docs/audit/2026-10-16-findings.md`, Q385) lists seven errors still open. D-232 closed E605-E607, which leaves E615, E616, E617 and E628, plus the E64 description residual noted in Q383. No repair round had worked any of the four, because their texts sit in the evidence file's `post_baseline_findings` array.
+
+**Finding texts.** The evidence file is not on the computer linked to this session: a search of that machine's user folders found no `marlbridge-audit-evidence*.json`, and `docs/audit/` does not carry it. Each fix therefore works from the audit's own statement of the defect in Q385, which is on `main`, and is verified against the primary document. None is a reversal. Q385: "E615: question 7's answer still calls two debits a complete reversal while its own part (b) says the trial balance disagrees. E616: question 9 is still built on reconciling the control account with the ledger balances. E617: part 9(b) still asks for one error at two marks against a scheme of two one-mark alternatives. E628: answer 4 still credits preference shares for two of its six marks." The work order (§8) adds for E628: "keep the E46 bank-finance parenthetical".
+
+**Primary sources.**
+
+- Cambridge IGCSE Accounting 0452 syllabus for 2026, read to its closing matter. Under 3.1, the errors that do not affect the trial balance are "commission, compensating, complete reversal, omission, original entry, principle". Under 3.4, the requirements are to understand the purposes of the control accounts, identify the books of prime entry as their sources, and prepare them including irrecoverable debts. It adds: "Candidates do not need to reconcile control account balances with the sales and purchases ledger balances." Under 2.3 the books of prime entry include the sales journal, sales returns journal and general journal.
+- OxfordAQA International AS and A-level Accounting 9615 specification, version 1.2 (`https://www.oxfordaqa.com/wp-content/uploads/2024/05/oxfordaqa-a-level-accounting-specification.pdf`), read to the contact block. Under 3.1.2: "Sources of finance are: owner's capital, partners' capital, bank overdraft, bank loan, mortgage, ordinary shares, debentures." Under the financial statements content: "Note: preference shares and general reserves will not be examined."
+
+### Closed -- fixed and verified
+
+| ID | Files | What was changed / verified |
+|---|---|---|
+| E615 | `igcse-accounting-verification-practice.md` | Q7 describes the bank and insurance income both being debited. The answer called this a complete reversal, which is one of 0452 3.1's errors that do not affect the trial balance, while part (b) said the trial balance disagrees. Part (a) now asks why this is **not** a complete reversal [1]: a complete reversal still has one debit and one credit, and here there are two debits and no credit. The (b) answer now gives the difference, $1,000, and (c) the $1,000 credit balance on suspense. Tariffs are unchanged (1, 2, 1). |
+| E616 | `igcse-accounting-verification-practice.md` | Q9 rested on a control account total not matching the sum of the ledger balances, which is the reconciliation 0452 3.4 excludes. It is replaced, at the same 3-mark tariff, with an in-scope 3.4 question on sources: the book of prime entry for (a)(i) credit sales and (ii) sales returns [2], and (b) irrecoverable debts written off [1]. Answers: sales journal, sales returns journal, general journal. Family checked: `igcse-accounting-verification-of-accounting-records.md`, `igcse-accounting-verification-revision-notes.md` and Q5 of the practice file describe the purpose of control accounts (3.4 "understand the purposes") but set no reconciliation task, so they are unchanged. The 9706 and OxfordAQA files are other boards. |
+| E617 | `igcse-accounting-verification-practice.md` | The 2-mark 9(b) "suggest one type of error", marked as two 1-mark alternatives, is gone with the E616 replacement. The new parts reconcile: (a) 2 marks for two named books, (b) 1 mark for one. |
+| E628 | `oxfordaqa-a-level-accounting-organisation-types-practice.md` | Preference shares are not among 9615 3.1.2's sources of finance and "will not be examined". Of the seven listed sources, only ordinary shares and debentures need an incorporated company, so "three sources" had no correct third answer. Q4 now asks for **two** sources [4]. The answer keeps ordinary shares and debentures, drops preference shares, and adds a note naming the specification's list. The E46 bank-loan and mortgage parenthetical is kept verbatim. Family checked: no other 9615 file mentions preference shares. |
+| E64 (residual, Q383) | `as-chemistry-bonding-revision-notes.md` | The description listed polarisation among the recall content. It now lists bonds, electronegativity and structure-property links, "with polarisation as unassessed background", matching the section label D-228 added (9701 3.1.4). |
+
+### Deferred
+
+None.
+
+### Already correct
+
+None in this batch.
+
+**Open-count position after D-233, as this log reads it (for the audit to reconcile, not to take on trust).** Round 9's seven: E605, E606 and E607 were closed in D-232; E615, E616, E617 and E628 are closed here. **Still open: none.** If the `post_baseline_findings` texts ask for more than Q385 states, the audit should say so.

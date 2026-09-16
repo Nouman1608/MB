@@ -79,7 +79,7 @@ out of balance, and explain why. **[2]**
 the bookkeeper debits the bank account and debits the insurance income
 account, rather than crediting the insurance income account.
 
-**(a)** Identify the type of error. **[1]**
+**(a)** Explain why this is not an error of complete reversal. **[1]**
 **(b)** Explain why this error would cause the trial balance to be out
 of balance. **[2]**
 **(c)** State what the business should do in the meantime, before the
@@ -92,12 +92,12 @@ $180 and an outstanding lodgement of $260.
 **(b)** Explain why neither of these requires a correcting entry in
 the cash book. **[2]**
 
-**9.** A business's sales ledger control account total does not match
-the sum of the individual balances in the sales ledger.
+**9.** A business prepares a sales ledger control account.
 
-**(a)** State what the control account total should have been built
-from. **[1]**
-**(b)** Suggest one type of error that could cause this mismatch. **[2]**
+**(a)** Name the book of prime entry that provides the total for:
+(i) credit sales; (ii) sales returns. **[2]**
+**(b)** Name the book of prime entry that provides the figure for
+irrecoverable debts written off. **[1]**
 
 **10.** A student writes: "As long as my trial balance balances, I
 know my accounts are correct." Explain, with reference to at least two
@@ -141,13 +141,17 @@ balance [1], because both the debit and credit entries were reduced by
 the same incorrect amount, so the two column totals remain equal to
 each other even though both are wrong [1].
 
-**7. (a)** Complete reversal [1].
-**(b)** Both entries were made on the debit side instead of one debit
-and one credit, so the total of the debit column increases while the
-credit column does not receive the entry it should have, causing the
-trial balance totals to disagree [2].
-**(c)** The business should open a suspense account to hold the
-difference until the error is found and corrected [1].
+**7. (a)** In a complete reversal the debit and credit entries are made
+on the wrong sides of the correct accounts, so there is still one debit
+and one credit and the trial balance still balances; here both entries
+are debits and no credit entry was made at all [1].
+**(b)** The $500 was debited to both accounts and credited to neither
+[1], so the debit column total exceeds the credit column total by
+$1,000 ($500 extra on the debit side and $500 missing from the credit
+side) [1].
+**(c)** The business should open a suspense account (here with a credit
+balance of $1,000) to hold the difference until the error is found and
+corrected [1].
 
 **8. (a)** An unpresented cheque is a cheque the business has written
 and recorded in its cash book, but which has not yet been cleared (paid
@@ -159,13 +163,9 @@ differences, not errors — the cash book figure is correct and will
 match the bank statement once the bank has processed the transaction
 [1–2].
 
-**9. (a)** Totals taken from the relevant books of prime entry (for
-example, the sales journal and sales returns journal), not from adding
-up the individual customer balances [1].
-**(b)** Any reasonable suggestion, for example: an error of omission
-(a sale or return left out of one of the source records) [1], or an
-error of original entry (a transaction recorded with the wrong amount
-in one of the source records) [1].
+**9. (a)** (i) The sales journal [1]; (ii) the sales returns journal
+[1].
+**(b)** The general journal [1].
 
 **10.** This statement is not always true because several error types
 leave the trial balance balanced despite the records being wrong. For
