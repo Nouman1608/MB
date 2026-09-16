@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**1 confirmed-error group open (E923)** *(2026-10-31, round 24: D-244 verified — 17 of 17 fixed; E922, I371 and U73 closed.)*
+**2 confirmed-error groups open (E923, E924)** *(2026-11-01, round 25: the remaining U72 board claims checked; E924, I374, U75 added.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,12 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 25 (2026-11-01, Q406): the last 95 U72 board claims checked.** Add **E924** (9UR0 Paper 3 is 30 + 30
+  marks, not a Section B majority; YLA1 contract and criminal law are Paper 2 content; 9202's required practicals),
+  **I374** (seven items: 4PH1 3.23 under 'Physics only', H431 synoptic components and Theme labels, H556 paper
+  characterisation, 9615 AS Paper 2 title, 9725 misquotation, 9690 specimen papers now published) and **U75**
+  (9675 Unit 2 mark scheme layout) to E923, I372, I373 and U74.
 
 - **Round 24 (2026-10-31, Q405): D-244 verified.** Nothing more on E922, I371 or U73. Add **I373** (five items
   from your D-244 observations: 8192 'levels descriptors in the specification', 7192 Q8/Q9 point tokens, 8462
