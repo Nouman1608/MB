@@ -10,7 +10,7 @@ batches** — the escalation list in §5 is short and everything else is yours t
 
 ## 1. The objective
 
-**0 confirmed errors declared open** *(2026-10-21, round 14: D-235 and D-236 closed all 110 from round 12, and every one reads fixed on `main`. See §8 for what is unverified and the two low-priority inconsistencies I356 and I357.)*
+**2 confirmed errors open** *(2026-10-22, round 15: E912 and E913, with I358–I360 and Q393, from checking D-235's unactioned observations; I356 and I357 from round 14. The table is in `2026-10-22-findings.md`.)*
 
 > **Amended 2026-10-12 (Q374).** This order first said 658. That figure never subtracted repair
 > rounds D-138…D-191, which closed 508 of them. The list of what is actually open — 89 plain,
@@ -137,6 +137,10 @@ work order can be a document rather than a conversation.
 ---
 
 ## 8. Current specifics
+
+- **Round 15 (2026-10-22, Q392): 2 errors, 4 lesser items.** D-235's observations were checked against
+  their documents. E912 (J204/01 break-even and added value), E913 (9702 CMB question), I358 (3248 data link),
+  I359 (OxfordAQA version declarations), I360 (9264 topic naming and Q7), Q393 (9610 genetic diversity).
 
 - **Round 14 (2026-10-21, Q391): all 110 fixed.** Two low-priority inconsistencies found while verifying:
   **I356** (9225 influences description lists five as "the six") and **I357** (the aligned-to line shows 8464
